@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.2023
+Geschäftszahl
+2Ob71/23i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch Klepp Nöbauer Hintringer Primetshofer Rechtsanwälte (GbR) in Linz, gegen die beklagte Partei R*, vertreten durch Dr. Christoph Arbeithuber, Rechtsanwalt in Linz, wegen 26.843,50 EUR sA und Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 27. Februar 2023, GZ 4 R 17/23g 28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+ [1] 		Die Vorinstanzen bejahten die Haftung der beklagten Hundehalterin nach § 1320 ABGB, weil ihre nicht angeleinte und gänzlich unbeaufsichtigt vor ihrem Gehöft herumlaufende Hündin auf die auf dem Güterweg mit ihrem Fahrrad vorbeifahrende Klägerin zulief und sie anbellte, sodass diese aus Angst auswich und (ohne vorangehenden Kontakt mit der Hündin) dabei zu Sturz kam. Das  Auslenkmanöver sei eine entschuldbare Schreckreaktion und begründe kein Mitverschulden.
+Rechtliche Beurteilung
+ [2] 		Die außerordentliche Revision der Beklagten  ist mangels Aufzeigens einer Rechtsfrage der Qualität des § 502 Abs 1 ZPO nicht zulässig.
+ [3] 		1. Die Haftung gemäß § 1320 Satz 2 ABGB setzt voraus, dass der eingetretene Schaden auf die besondere Tiergefahr zurückzuführen ist, der durch die Pflicht zur sorgfältigen Verwahrung des Tieres begegnet werden soll (RS0030520). Der bloße Umstand, dass nicht feststeht, ob sich die Hündin zum Unfallszeitpunkt (schon) auf der Straße oder (noch) auf dem angrenzenden Grünstreifen befunden hat, bedeutet entgegen der Revision nicht, dass sich nicht die besondere Tiergefahr, die gerade darin liegt, dass – auch gutmütige – Tiere durch ihre von Trieben und Instinkten gelenkten Bewegungen, die nicht durch Vernunft kontrolliert werden, Schaden stiften können (RS0030199), verwirklicht hätte.
+ [4] 		2. Dass der Beklagten der ihr obliegende Beweis, für die nach den Umständen erforderliche Verwahrung oder Beaufsichtigung gesorgt zu haben (RS0105089), nicht gelungen ist, zieht die Revision nicht mehr in Zweifel, sodass darauf nicht mehr einzugehen ist (RS0043352 [T30]).
+ [5] 		3.1 Wird ein Verkehrsteilnehmer bei einer plötzlich auftretenden Gefahr zu schnellem Handeln gezwungen und trifft er unter dem Eindruck dieser Gefahr eine – rückschauend betrachtet – unrichtige Maßnahme, dann kann ihm dies nicht als Mitverschulden angerechnet werden (RS0023292). Eine solche Schreckreaktion ist insbesondere dann entschuldbar, wenn das ihr zugrunde liegende Ereignis plötzlich und völlig überraschend in einer derartig bedrohlichen Nähe eintritt, dass ein überstürztes Handeln erforderlich ist (2 Ob 231/22t Rz 21 mwN).
+ [6] 		3.2 Ob der Klägerin ein Mitverschulden anzulasten ist, ist eine Frage des Einzelfalls, die nur im Fall grober – hier nicht vorliegender – Fehlbeurteilung die Voraussetzungen des § 502 Abs 1 ZPO verwirklicht (RS0087606 [T11, T25, T37]).
+ [7] 		3.3 Die Ansicht des Berufungsgerichts, der Klägerin könne im konkreten Fall das (letztlich zum Sturz führende) Auslenken nach links trotz bereits vorherigem Erkennen der Hündin bei Annäherung an das Gehöft nicht als Mitverschulden angelastet werden, weil die Hündin für sie nicht vorhersehbar erst drei bis fünf Meter vor der Begegnung begonnen habe zu bellen und direkt auf sie zuzulaufen, ist  zumindest vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00071.23I.0516.000
