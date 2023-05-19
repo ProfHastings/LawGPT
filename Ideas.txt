@@ -1,0 +1,19 @@
+Metadata:
+
+
+    Im Text Dokument:
+Gericht 
+Entscheidungsdatum(unix)
+Geschäftszahl
+European Case Law Identifier
+
+    nicht im Text Dokument: 
+Entscheidungsart
+Dokumenttyp
+Rechtsgebiet
+Textnummer
+Im RIS seit
+Zuletzt aktualisiert am
+Dokumentnummer
+
+
