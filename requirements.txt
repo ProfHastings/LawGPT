@@ -1,0 +1,4 @@
+striprtf
+beautifulsoup4
+requests
+selenium
