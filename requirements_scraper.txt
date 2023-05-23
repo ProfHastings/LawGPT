@@ -2,3 +2,7 @@ striprtf
 beautifulsoup4
 requests
 selenium
+PyRTF3
+regex
+pyth
+pywin32

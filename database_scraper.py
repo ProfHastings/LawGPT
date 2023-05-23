@@ -1,86 +1,134 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup
 import os
 import time
 import re
-from striprtf.striprtf import rtf_to_text
-from requests.exceptions import RequestException
-from urllib.parse import urlparse
 import requests
+import subprocess
+import chardet
+import shutil
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from urllib.parse import urlparse
+from shutil import move
 
-# Maximum number of times to retry a download
-MAX_DOWNLOAD_RETRIES = 100
 
-# Maximum number of pages to scrape
-MAX_PAGES = 1500  # Adjust as necessary
+# Constants
+MAX_DOWNLOAD_RETRIES = 500
+MAX_PAGES = 2000
+START_URL = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=24.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true'
+WORKING_DIRECTORY = 'working_dir'
+DATABASE_DIRECTORY = 'test_database'
 
-# Set up Selenium
+# Setup
+if not os.path.exists(WORKING_DIRECTORY):
+    os.mkdir(WORKING_DIRECTORY)
+if not os.path.exists(DATABASE_DIRECTORY):
+    os.mkdir(DATABASE_DIRECTORY)
+
+# Selenium Chrome Driver Configuration
 options = Options()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
 
-url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=19.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&Sort=1%7cAsc'
-driver.get(url)
-
-save_directory = 'database'
-counter = 0
-
-# Iterate over each page
-for _ in range(MAX_PAGES):
-    # Let the page load
-    time.sleep(2)
-
-    html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    base_url = 'https://www.ris.bka.gv.at'
+def download_files(soup, base_url):
+    """Download all rtf files from a single page"""
     links = [base_url + link.get('href') for link in soup.find_all('a') if link.get('href', '').endswith('.rtf')]
-
     for file_url in links:
-        counter += 1
-        print(counter)
-        for i in range(MAX_DOWNLOAD_RETRIES):
+        for _ in range(MAX_DOWNLOAD_RETRIES):
             try:
                 time.sleep(0.1)
                 file_response = requests.get(file_url)
-                # Check status code of HTTP response
                 file_response.raise_for_status()
 
-                # Convert bytes to text using rtf_to_text function from striprtf
-                text_content = rtf_to_text(file_response.content.decode('utf-8'))  # Assuming the .rtf file is encoded in 'utf-8'
-                # Remove leading whitespace and empty lines
-                text_content = '\n'.join(line.lstrip() for line in text_content.splitlines() if line.strip())
-                # Filename sanitization
+                # Sanitize filename
                 filename = os.path.basename(urlparse(file_url).path)
-                lines = text_content.splitlines()
-                if len(lines) >= 6 and lines[4] == "Geschäftszahl":
-                    filename = lines[5] + '.txt'
-                filename = re.sub('[^\w\-_\. ]', '_', filename)  # Replace all non-alphanumeric or underscore or hyphen or period or space characters with underscore
-                filename = filename.replace('.rtf', '.txt')
+                filename = re.sub('[^\w\-_\. ]', '_', filename)
 
-                # Save the text content in a .txt file in the save directory
-                with open(os.path.join(save_directory, filename), 'w', encoding='utf-8') as f:
-                    f.write(text_content)
-                
-                # Exit the retry loop if the download was successful
+                # Save RTF file
+                rtf_file_path = os.path.join(WORKING_DIRECTORY, filename)
+                with open(rtf_file_path, 'wb') as f:
+                    f.write(file_response.content)
+
                 break
-            except RequestException:
-                print(f"Download failed for '{file_url}', retrying ({i+1}/{MAX_DOWNLOAD_RETRIES})")
+            except requests.exceptions.RequestException:
+                print(f"Download failed for '{file_url}', retrying.")
 
-    # Check if there's a next page and if so, navigate to it
-    try:
-        # Wait until the next button is clickable
-        print("clicking button")
-        wait = WebDriverWait(driver, 10)
-        next_button = wait.until(EC.element_to_be_clickable((By.ID, 'PagingTopControl_NextPageLink')))
-        print(next_button)
-        next_button.click()
-        time.sleep(2)
-    except Exception as e:
-        print("No more pages to scrape. Exiting...")
-        break
+def convert_rtf_to_txt(directory):
+    """Converts all rtf files in the given directory to txt files using LibreOffice."""
+    # Define command
+    command = "soffice --headless --convert-to txt:Text --outdir {} {}/*.rtf".format(directory, directory)
 
-driver.quit()
+    # Execute command
+    subprocess.run(command, shell=True, stdout=subprocess.DEVNULL)
+
+def clean_and_reencode_files(directory):
+    """Cleans up the file content and re-encodes to UTF-8."""
+    for filename in os.listdir(directory):
+        if filename.endswith('.txt'):
+            full_path = os.path.join(directory, filename)
+            
+            # Detect the file encoding
+            with open(full_path, 'rb') as f:
+                result = chardet.detect(f.read())
+
+            # Read the file using the detected encoding
+            with open(full_path, 'r', encoding=result['encoding'], errors='ignore') as f:
+                contents = f.readlines()
+
+            # Clean up the content and re-encode to UTF-8
+            cleaned_contents = [line.strip() for line in contents if line.strip()]
+            with open(full_path, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(cleaned_contents))
+
+
+def delete_residual_files(directory):
+    """Deletes all non-txt files in the given directory."""
+    for filename in os.listdir(directory):
+        if not filename.endswith('.txt'):
+            os.remove(os.path.join(directory, filename))
+
+def move_files_to_database(src_directory, dst_directory, counter):
+    """Moves all txt files from source directory to destination directory."""
+    for filename in os.listdir(src_directory):
+        if filename.endswith('.txt'):
+            counter += 1
+            print(counter)
+            shutil.move(os.path.join(src_directory, filename), os.path.join(dst_directory, filename))
+def main():
+    # Visit the starting page
+    counter = 0
+    driver.get(START_URL)
+    # Main process: Scrape pages and download, convert, clean files
+    for _ in range(MAX_PAGES):
+        time.sleep(2)  # Allow page to load
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+        base_url = 'https://www.ris.bka.gv.at'
+        print("downloading...")
+        download_files(soup, base_url)
+        print("converting...")
+        convert_rtf_to_txt(WORKING_DIRECTORY)
+        print("cleaning...")
+        clean_and_reencode_files(WORKING_DIRECTORY)
+        print("deleting...")
+        delete_residual_files(WORKING_DIRECTORY)
+        print("moving...")
+        move_files_to_database(WORKING_DIRECTORY, DATABASE_DIRECTORY, counter)
+
+        # Go to next page
+        try:
+            wait = WebDriverWait(driver, 10)
+            next_button = wait.until(EC.element_to_be_clickable((By.ID, 'PagingTopControl_NextPageLink')))
+            next_button.click()
+            time.sleep(2)
+        except Exception:
+            print("No more pages to scrape. Exiting...")
+            break
+
+    driver.quit()
+
+if __name__ == "__main__":
+    main()
