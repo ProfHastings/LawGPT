@@ -24,11 +24,11 @@ options = Options()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
 
-url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=21.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=110701&Sort=1%7cAsc'
+url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=21.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=112501&Sort=1%7cAsc'
 driver.get(url)
 
 
-counter = 110700
+counter = 112500
 
 # Create an empty list to store the URLs of the files that failed to decode
 failed_urls = []
@@ -54,9 +54,14 @@ def convert_to_txt(filename):
         with open(os.path.join(save_directory, txt_file), 'rb') as f:
             result = chardet.detect(f.read())
 
-        # Open the file in the original encoding and read it
-        with open(os.path.join(save_directory, txt_file), 'r', encoding=result['encoding']) as f:
-            contents = f.read()
+        # Open the file in the original encoding and read it, replacing any problematic characters with "?"
+        try:
+            with open(os.path.join(save_directory, txt_file), 'r', encoding=result['encoding'], errors='replace') as f:
+                contents = f.read()
+        except UnicodeDecodeError as e:
+            print(f"Unicode decoding error for '{filename}', error message: {e}")
+            failed_urls.append(filename)  # Add the filename to the list
+            return None
 
         # Write the contents back into the file with UTF-8 encoding
         with open(os.path.join(save_directory, txt_file), 'w', encoding='utf-8') as f:

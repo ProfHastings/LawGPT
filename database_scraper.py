@@ -5,6 +5,7 @@ import requests
 import subprocess
 import chardet
 import shutil
+import concurrent.futures
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -18,9 +19,10 @@ from shutil import move
 # Constants
 MAX_DOWNLOAD_RETRIES = 500
 MAX_PAGES = 2000
-START_URL = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=24.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true'
+START_URL = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=24.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&Sort=1%7cAsc'
 WORKING_DIRECTORY = 'working_dir'
 DATABASE_DIRECTORY = 'test_database'
+counter = 0
 
 # Setup
 if not os.path.exists(WORKING_DIRECTORY):
@@ -90,16 +92,16 @@ def delete_residual_files(directory):
         if not filename.endswith('.txt'):
             os.remove(os.path.join(directory, filename))
 
-def move_files_to_database(src_directory, dst_directory, counter):
+def move_files_to_database(src_directory, dst_directory):
     """Moves all txt files from source directory to destination directory."""
+    global counter
     for filename in os.listdir(src_directory):
         if filename.endswith('.txt'):
             counter += 1
-            print(counter)
+            print (counter)
             shutil.move(os.path.join(src_directory, filename), os.path.join(dst_directory, filename))
 def main():
     # Visit the starting page
-    counter = 0
     driver.get(START_URL)
     # Main process: Scrape pages and download, convert, clean files
     for _ in range(MAX_PAGES):
@@ -116,7 +118,7 @@ def main():
         print("deleting...")
         delete_residual_files(WORKING_DIRECTORY)
         print("moving...")
-        move_files_to_database(WORKING_DIRECTORY, DATABASE_DIRECTORY, counter)
+        move_files_to_database(WORKING_DIRECTORY, DATABASE_DIRECTORY)
 
         # Go to next page
         try:
