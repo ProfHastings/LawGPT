@@ -17,3 +17,32 @@ Zuletzt aktualisiert am
 Dokumentnummer
 
 
+Output für den Enduser:
+    Kontrollieren, dass jede Referenz wirklich existiert 
+    Jede Referenz als Link zu Ris, oder zur PDF
+    Eventuell irgendwann spezilisiert auf die einzelnen Rechtsgebiete
+    History von Fragen
+    Nachfragen wie bei ChatGPT
+    Eine Voreinstellung für bestimmte Antworten
+        wenn man eine Zusammenfassung will, oder eine Einschätzung
+            wir könnten es mit einer Prompt von uns die wir mit der Prompt vom User hinzufügen lösen
+
+Layout Webseite:
+    Anfangs: Einfach nur ein Eingabefeld in der Mitte vom Screen wo man die Prompt eingeben kann und dann die Antwort darunter aufpopt ählich wie bei ChatGPT
+
+Pricing: 
+    Anfangs: Wahrscheinlich gratis um Feedback zu sammenln
+    Irgendwann: Subscription Modell basierend auf wie vielen Accounts/IP-Adressen/Whatever
+
+Kunde:
+    Kanzleien - Legal research  
+    Einzelpersonen - rechtliche Unterstützung in privaten Angelegenheiten; Beispiel Bauarbeiter macht was in der Wohung kapput - 10 requests die Woche
+    Unternehmen - Legal research; Mischung aus Kanzlei und Einzelpersonen
+
+Distribution/Marketing:
+    Mit einer Kanzlei von Anfang an dabei hilft das sehr bei der Glaubwürdigkeit
+    @Matthias und @Gerold kennen einige junge Anwälte die es in die jeweiligen Kanzleien bringen könnten und auch genug Partner
+    
+Longshots :) :
+    Zusammenarbeit mit dem Justizministerium 
+    Zusammenarbeit mit allen großen Kanzleien Wiens/Österreich
