@@ -22,7 +22,7 @@ pinecone.create_index(
    dimension = 768,  # dimensionality of dense model
    metric = "dotproduct",  # sparse values supported only for dotproduct
    pod_type = "s1",
-   metadata_config=metadata_config  # see explaination above
+   #metadata_config=metadata_config  # see explaination above
 )
 
 index = pinecone.Index(index_name)

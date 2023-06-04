@@ -8,9 +8,16 @@ import torch
 import time
 from sentence_transformer_embeddings import SentenceTransformerEmbeddings
 import numpy as np
+from pinecone_text.sparse import BM25Encoder
 
 # Here we load in the data in the format that a directory of .txt files is in.
 ps = list(Path("database - Copy/").glob("**/*.txt"))
+
+# Initialize the SentenceTransformer model
+model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
+model = SentenceTransformer(model_name)
+
+bm25_encoder = BM25Encoder()
 
 data = []
 sources = []
@@ -18,11 +25,12 @@ print(f"Total files to process: {len(ps)}")
 start_time = time.time()
 for i, p in enumerate(ps):
     with open(p, 'rb') as f:
-        data.append(f.read().decode('utf-8', errors='ignore'))
-    sources.append(str(p))  # convert Path object to string
+        data.append(f.read().decode('utf-8', errors='ignore'))    
+    sources.append(p.stem)
     if (i + 1) % 1000 == 0: # print every 1000 files
         elapsed_time = time.time() - start_time
         print(f"Processed {i+1} files in {elapsed_time:.2f} seconds.")
+
 
 # Here we split the documents, as needed, into smaller chunks.
 text_splitter = CharacterTextSplitter(chunk_size=1500, separator="\n")
@@ -33,14 +41,8 @@ for i, d in enumerate(data):
     docs.extend(splits)
     metadatas.extend([{"source": sources[i]}] * len(splits))
 
-# Initialize the SentenceTransformer model
-model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
-st_model = SentenceTransformer(model_name)
-model = SentenceTransformerEmbeddings(st_model)
-
-# Save model
-#st_model.to('cpu')
-st_model.save("model_dir")
+print("fitting bm25_encoder...")
+bm25_encoder.fit(docs)
 
 # Generate document embeddings
 print("Generating embeddings...")
