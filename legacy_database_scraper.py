@@ -24,17 +24,17 @@ options = Options()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
 
-url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=21.05.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=112501&Sort=1%7cAsc'
+url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=04.06.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=gmbhg&Position=1&SkipToDocumentPage=true'
 driver.get(url)
 
 
-counter = 112500
+counter = 0
 
 # Create an empty list to store the URLs of the files that failed to decode
 failed_urls = []
 
 working_directory = os.getcwd()
-save_directory = 'database'
+save_directory = 'GmbHG'
 absolute_directory = os.path.join(working_directory, save_directory)
 
 # Function to convert rtf to txt using LibreOffice
