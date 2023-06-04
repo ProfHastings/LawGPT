@@ -1,24 +1,25 @@
 from pathlib import Path
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-import faiss
 from langchain.vectorstores import FAISS
 from sentence_transformers import SentenceTransformer
 import pickle
 import torch
 import time
-from sentence_transformer_embeddings import SentenceTransformerEmbeddings
 import numpy as np
 from pinecone_text.sparse import BM25Encoder
+import pinecone
 
 # Here we load in the data in the format that a directory of .txt files is in.
-ps = list(Path("database - Copy/").glob("**/*.txt"))
+ps = list(Path("GmbHG/").glob("**/*.txt"))
 
 # Initialize the SentenceTransformer model
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 model = SentenceTransformer(model_name)
 
 bm25_encoder = BM25Encoder()
+
+index = pinecone.Index("justiz-9594bd4.svc.us-east-1-aws.pinecone.io")
 
 data = []
 sources = []
@@ -44,6 +45,7 @@ for i, d in enumerate(data):
 
 print("fitting bm25_encoder...")
 bm25_encoder.fit(docs)
+bm25_encoder.dump("bm25_values.json")
 
 # Generate document embeddings
 print("Generating embeddings...")
@@ -63,11 +65,11 @@ print(len(embeddings))
 print("Creating vector store...")
 start_time = time.time()
 embeddings = list(zip(docs, embeddings))
-store = FAISS.from_embeddings(embeddings, model, metadatas=metadatas)
-faiss.write_index(store.index, "docs.index")
+#store = FAISS.from_embeddings(embeddings, model, metadatas=metadatas)
+#faiss.write_index(store.index, "docs.index")
 elapsed_time = time.time() - start_time
 print(f"Created vector store in {elapsed_time:.2f} seconds.")
 
 # Save the entire store
-with open("store.pkl", "wb") as f:
-    torch.save(store, f, pickle_protocol=4)
+#with open("store.pkl", "wb") as f:
+#    torch.save(store, f, pickle_protocol=4)
