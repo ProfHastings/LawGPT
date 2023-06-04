@@ -1,5 +1,6 @@
 from pathlib import Path
 from langchain.text_splitter import CharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 import faiss
 from langchain.vectorstores import FAISS
 from sentence_transformers import SentenceTransformer
@@ -33,7 +34,7 @@ for i, p in enumerate(ps):
 
 
 # Here we split the documents, as needed, into smaller chunks.
-text_splitter = CharacterTextSplitter(chunk_size=1500, separator="\n")
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500)
 docs = []
 metadatas = []
 for i, d in enumerate(data):
