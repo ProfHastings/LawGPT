@@ -29,9 +29,9 @@ model = model.to(device) # Move the model to the GPU
 bm25_encoder = BM25Encoder(
     b=0.75,
     k1=1.2,
-    lower_case=False,
-    remove_punctuation=False,
-    remove_stopwords=False,
+    lower_case=True,
+    remove_punctuation=True,
+    remove_stopwords=True,
     stem=False,
     language="german"
 )
