@@ -1,10 +1,4 @@
-torch
 langchain
-openai
-streamlit
-streamlit-chat
-tiktoken
-sentence-transformers
-pinecone-client
+torch
 pinecone-text
-
+pinecone-client
