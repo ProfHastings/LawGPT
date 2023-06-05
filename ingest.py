@@ -1,5 +1,5 @@
 from pathlib import Path
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitter import CharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import torch
 import time
@@ -26,7 +26,16 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name)
 model = model.to(device) # Move the model to the GPU
 
-bm25_encoder = BM25Encoder()
+bm25_encoder = BM25Encoder(
+    b=0.75,
+    k1=1.2,
+    lower_case=False,
+    remove_punctuation=False,
+    remove_stopwords=False,
+    stem=False,
+    language="german"
+)
+
 
 api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
 env = "us-east-1-aws"
@@ -46,7 +55,7 @@ for i, p in enumerate(ps):
         elapsed_time = time.time() - start_time
         print(f"Processed {i+1} files in {elapsed_time:.2f} seconds.")
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=2000)
+text_splitter = CharacterTextSplitter(chunk_size=2000, separator = "\n")
 docs = []
 metadatas = []
 for i, d in enumerate(data):
@@ -69,7 +78,7 @@ for i in range(0, len(docs), batch_size):
    # batch = [t.to(device) for t in batch] # Move the data to the GPU
     embeddings.extend(model.encode(batch, convert_to_tensor=True))
 
-    print(i)
+    print(i+batch_size)
 elapsed_time = time.time() - start_time
 print(f"Generated embeddings for {len(docs)} documents in {elapsed_time:.2f} seconds.")
 
