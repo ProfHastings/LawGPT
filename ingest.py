@@ -52,7 +52,7 @@ metadatas = []
 for i, d in enumerate(data):
     splits = text_splitter.split_text(d)
     docs.extend(splits)
-    metadatas.extend([{"source": f"{sources[i]}_{j}"} for j in range(len(splits))])  # attach unique index to source
+    metadatas.extend([{"source": f"{sources[i]}_{j}", "context": split} for j, split in enumerate(splits)])
 
 print("fitting bm25_encoder...")
 bm25_encoder.fit(docs)
@@ -81,8 +81,8 @@ dense_embeddings = [emb.tolist() for emb in embeddings]
 sparse_values = [{"indices": emb["indices"], "values": emb["values"]} for emb in bm25_embeddings]
 
 # Prepare the data for upsertion to Pinecone index
-data_to_upsert = [{"id": f"{metadata['source']}_{i}", "values": dense_emb, "metadata": metadata, "sparse_values": sparse_emb} 
-                  for i, (doc, dense_emb, sparse_emb, metadata) in enumerate(zip(docs, dense_embeddings, sparse_values, metadatas))]
+data_to_upsert = [{"id": f"{metadata['source']}", "values": dense_emb, "metadata": metadata, "sparse_values": sparse_emb} 
+                  for dense_emb, sparse_emb, metadata in zip(dense_embeddings, sparse_values, metadatas)]
 
 # Upsert data into Pinecone index in chunks
 for batch in chunks(data_to_upsert, batch_size=100):

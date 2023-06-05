@@ -1,9 +1,6 @@
-"""Ask a question to the notion database."""
-
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQAWithSourcesChain
 import argparse
-from sentence_transformers import SentenceTransformer
 import torch
 from pinecone_text.sparse import BM25Encoder
 from langchain.retrievers import PineconeHybridSearchRetriever
@@ -25,10 +22,9 @@ args = parser.parse_args()
 bm25_encoder = BM25Encoder().load("bm25_values.json")
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 embeddings = HuggingFaceEmbeddings(model_name=model_name)
-retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=bm25_encoder, index=index)
+retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=bm25_encoder, index=index, top_k=10)
 
-
-chain = RetrievalQAWithSourcesChain.from_chain_type(llm=ChatOpenAI(temperature=0), retriever=retriever())
+chain = RetrievalQAWithSourcesChain.from_chain_type(llm=ChatOpenAI(temperature=0, model="gpt-4"), retriever=retriever)
 result = chain({"question": args.question})
 print(f"Answer: {result['answer']}")
 print(f"Sources: {result['sources']}")
