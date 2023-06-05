@@ -14,8 +14,8 @@ env = "us-east-1-aws"
 pinecone.init(api_key=api_key, environment=env)
 index = pinecone.Index("justiz")
 
-parser = argparse.ArgumentParser(description='Ask a question to the notion DB.')
-parser.add_argument('question', type=str, help='The question to ask the notion DB')
+parser = argparse.ArgumentParser(description='Ask a question to the legal database.')
+parser.add_argument('question', type=str, help='The question to ask the legal database')
 args = parser.parse_args()
 
 # Load
