@@ -49,7 +49,10 @@ print(f"Total files to process: {len(ps)}")
 start_time = time.time()
 for i, p in enumerate(ps):
     with open(p, 'rb') as f:
-        data.append(f.read().decode('utf-8', errors='ignore'))    
+        text = f.read().decode('utf-8', errors='ignore')
+        text = text.replace('\xa0', ' ')
+        text = text.replace('\r\n', '\n')
+        data.append(text)
     sources.append(p.stem)
     if (i + 1) % 1000 == 0: 
         elapsed_time = time.time() - start_time
@@ -60,13 +63,15 @@ docs = []
 metadatas = []
 for i, d in enumerate(data):
     splits = text_splitter.split_text(d)
-    docs.extend(splits)
-    metadatas.extend([{"source": f"{sources[i]}_{j}", "context": split} for j, split in enumerate(splits)])
+    cleaned_splits = [split.replace('\n', ' ') for split in splits]
+    docs.extend(cleaned_splits)
+    metadatas.extend([{"source": f"{sources[i]}_{j}", "context": split} for j, split in enumerate(cleaned_splits)])
 
 print("fitting bm25_encoder...")
-bm25_encoder.fit(docs)
+bm25_encoder = bm25_encoder.fit(docs)
 bm25_encoder.dump("bm25_values.json")
 #bm25_encoder = BM25Encoder().load("bm25_values.json")
+print("encoding documents with bm25_encoder...")
 bm25_embeddings = bm25_encoder.encode_documents(docs)
 
 print("Generating embeddings...")
@@ -76,6 +81,7 @@ batch_size = 1000
 for i in range(0, len(docs), batch_size):
     batch = docs[i:i+batch_size]
    # batch = [t.to(device) for t in batch] # Move the data to the GPU
+    print(docs[i:i+10])
     embeddings.extend(model.encode(batch, convert_to_tensor=True))
 
     print(i+batch_size)
