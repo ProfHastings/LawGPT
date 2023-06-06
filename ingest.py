@@ -1,5 +1,7 @@
 from pathlib import Path
-from langchain.text_splitter import CharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitter import SpacyTextSplitter
+from langchain.text_splitter import NLTKTextSplitter
 from sentence_transformers import SentenceTransformer
 import torch
 import time
@@ -20,7 +22,7 @@ def chunks(iterable, batch_size=100):
         yield chunk
         chunk = tuple(itertools.islice(it, batch_size))
 
-ps = list(Path("GmbHG/").glob("**/*.txt"))
+ps = list(Path("AngG/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name, device=device)
@@ -48,7 +50,10 @@ for i, p in enumerate(ps):
         print(f"Processed {i+1} files in {elapsed_time:.2f} seconds.")
 
 
-text_splitter = CharacterTextSplitter(chunk_size=2000, separator = "\n")
+#text_splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=400)
+text_splitter = NLTKTextSplitter(chunk_size=500
+                                 #, chunk_overlap=200
+                                 )
 docs = []
 metadatas = []
 for i, d in enumerate(data):
@@ -57,29 +62,26 @@ for i, d in enumerate(data):
     docs.extend(cleaned_splits)
     metadatas.extend([{"source": f"{sources[i]}_{j}", "context": split} for j, split in enumerate(cleaned_splits)])
 
+print(len(docs))
+#for doc in docs:
+#    print(doc, end = "\n\n")
 
-batch_size = 50
+batch_size = 25
 splade_embeddings = []
-#bm25_encoder = BM25Encoder().load("bm25_values.json")
 print("encoding documents with splade_encoder...")
 for i in range(0, len(docs), batch_size):
     batch = docs[i:i+batch_size]
-   # batch = [t.to(device) for t in batch] # Move the data to the GPU
-    #print(docs[i:i+10])
     splade_embeddings.extend(splade.encode_documents(batch))
     print(i+batch_size)
 
-#print(splade_embeddings)
 time.sleep(1)
-print("Generating embeddings...")
+print("Generating dense embeddings...")
 start_time = time.time()
 embeddings = []
-batch_size = 50
+batch_size = 25
 
 for i in range(0, len(docs), batch_size):
     batch = docs[i:i+batch_size]
-   # batch = [t.to(device) for t in batch] # Move the data to the GPU
-    #print(docs[i:i+10])
     embeddings.extend(model.encode(batch, convert_to_tensor=True))
     splade_embeddings.extend(splade.encode_documents(batch))
     print(i+batch_size)
@@ -90,7 +92,6 @@ print(len(embeddings))
 
 dense_embeddings = [emb.tolist() for emb in embeddings]
 
-# Assuming bm25_embeddings is a list of scipy csr_matrix
 sparse_values = [{"indices": emb["indices"], "values": emb["values"]} for emb in splade_embeddings]
 
 # Prepare the data for upsertion to Pinecone index
