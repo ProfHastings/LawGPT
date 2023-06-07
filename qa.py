@@ -11,7 +11,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
 env = "us-east-1-aws"
 pinecone.init(api_key=api_key, environment=env)
-index = pinecone.GRPCIndex("justiz")
+index = pinecone.Index("justiz")
 
 parser = argparse.ArgumentParser(description='Ask a question to the legal database.')
 parser.add_argument('question', type=str, help='The question to ask the legal database')
