@@ -19,9 +19,21 @@ splade = SpladeEncoder(device=device)
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 embeddings = HuggingFaceEmbeddings(model_name=model_name)
 
-retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha = 0.3) #lower alpha - more sparse
+retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=40, alpha = 0.3) #lower alpha - more sparse
 
 results = retriever.get_relevant_documents("Regelt das AngG Kündigungstermine?")
+
+contents = [doc.page_content for doc in results]
+# Extract sources from results
+sources = [result.metadata['source'] for result in results]
+
+# Remove duplicates while preserving order
+unique_sources = list(dict.fromkeys(sources).keys())
+
+# Now unique_sources will contain only unique entries from sources
+for source in unique_sources:
+    print(source)
+print(len(unique_sources))
 
 for result in results:
     print(result)
