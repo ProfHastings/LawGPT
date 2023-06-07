@@ -4,7 +4,9 @@ import pinecone
 import argparse
 from pinecone_text.sparse import SpladeEncoder
 from langchain.embeddings import HuggingFaceEmbeddings
+import os
 
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 #Pinecone
 api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
 env = "us-east-1-aws"
