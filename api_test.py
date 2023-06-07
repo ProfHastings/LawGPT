@@ -17,7 +17,7 @@ splade = SpladeEncoder(device=device)
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 embeddings = HuggingFaceEmbeddings(model_name=model_name)
 
-retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha = 0.5) #lower alpha - more sparse
+retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha = 0.3) #lower alpha - more sparse
 
 results = retriever.get_relevant_documents("Regelt das AngG Kündigungstermine?")
 
