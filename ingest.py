@@ -32,7 +32,7 @@ api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
 env = "us-east-1-aws"
 
 pinecone.init(api_key=api_key, environment=env)
-index = pinecone.Index("justiz")
+index = pinecone.GRPCIndex("justiz")
 
 data = []
 sources = []
