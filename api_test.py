@@ -19,6 +19,9 @@ callback_handler = [StreamingStdOutCallbackHandler()]
 gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key="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")
 tokenizer = tiktoken.encoding_for_model("gpt-4")
 
+gpt4_maxtokens = 8192
+response_maxtokens = 2048
+
 #init of prompt templates and system message
 system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
 
@@ -73,12 +76,10 @@ def main():
     retriever = get_retriever()
     question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
     results = retriever.get_relevant_documents(question)
-    max_tokens = ((8192 - 2048) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
+    max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
-    #print(gpt4userprompt)
-
     user_message = HumanMessage(content=analysis_userprompt)
 
     for response in gpt4([system_message, user_message]):
