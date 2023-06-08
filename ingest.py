@@ -22,7 +22,7 @@ def chunks(iterable, batch_size=100):
         yield chunk
         chunk = tuple(itertools.islice(it, batch_size))
 
-ps = list(Path("AngG/").glob("**/*.txt"))
+ps = list(Path("GmbHG test/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name, device=device)
@@ -40,12 +40,17 @@ print(f"Total files to process: {len(ps)}")
 start_time = time.time()
 for i, p in enumerate(ps):
     with open(p, 'rb') as f:
-        text = f.read().decode('utf-8', errors='ignore')
-        text = text.replace('\xa0', ' ')
-        text = text.replace('\r\n', '\n')
+        lines = f.read().decode('utf-8', errors='ignore').split("\n")
+        text = ' '.join(lines).replace('\xa0', ' ').replace('\r\n', '\n')
         data.append(text)
-    sources.append(p.stem)
-    if (i + 1) % 1000 == 0: 
+        short_source = ""  # default if no Geschäftszahl found
+        for j, line in enumerate(lines):
+            if "Geschäftszahl" in line and j < len(lines) - 1:
+                short_source = lines[j + 1]
+                print(short_source)
+                break
+        sources.append({"long_source": p.stem, "short_source": short_source})
+    if (i + 1) % 1000 == 0:
         elapsed_time = time.time() - start_time
         print(f"Processed {i+1} files in {elapsed_time:.2f} seconds.")
 
@@ -60,11 +65,9 @@ for i, d in enumerate(data):
     splits = text_splitter.split_text(d)
     cleaned_splits = [split.replace('\n', ' ').replace('\t', ' ') for split in splits]
     docs.extend(cleaned_splits)
-    metadatas.extend([{"source": f"{sources[i]}", "context": split} for j, split in enumerate(cleaned_splits)])
+    metadatas.extend([{"long_source": sources[i]["long_source"], "short_source": sources[i]["short_source"], "context": split} for j, split in enumerate(cleaned_splits)])
 
 print(len(docs))
-#for doc in docs:
-#    print(doc, end = "\n\n")
 
 batch_size = 25
 splade_embeddings = []
@@ -78,12 +81,10 @@ time.sleep(1)
 print("Generating dense embeddings...")
 start_time = time.time()
 embeddings = []
-batch_size = 25
 
 for i in range(0, len(docs), batch_size):
     batch = docs[i:i+batch_size]
     embeddings.extend(model.encode(batch, convert_to_tensor=True))
-    splade_embeddings.extend(splade.encode_documents(batch))
     print(i+batch_size)
 elapsed_time = time.time() - start_time
 print(f"Generated embeddings for {len(docs)} documents in {elapsed_time:.2f} seconds.")
@@ -91,14 +92,11 @@ print(f"Generated embeddings for {len(docs)} documents in {elapsed_time:.2f} sec
 print(len(embeddings))
 
 dense_embeddings = [emb.tolist() for emb in embeddings]
-
 sparse_values = [{"indices": emb["indices"], "values": emb["values"]} for emb in splade_embeddings]
 
-# Prepare the data for upsertion to Pinecone index
-data_to_upsert = [{"id": f"{metadata['source']}_{j}", "values": dense_emb, "metadata": metadata, "sparse_values": sparse_emb} 
+data_to_upsert = [{"id": f"{metadata['long_source']}_{j}", "values": dense_emb, "metadata": metadata, "sparse_values": sparse_emb} 
                   for j, (dense_emb, sparse_emb, metadata) in enumerate(zip(dense_embeddings, sparse_values, metadatas))]
 
-# Upsert data into Pinecone index in chunks
 for batch in chunks(data_to_upsert, batch_size=100):
     upsert_response = index.upsert(vectors=batch)
     if upsert_response.error:
