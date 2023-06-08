@@ -41,7 +41,7 @@ template = """
 Deine Aufgabe ist es die folgende Frage zu beantworten: "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
-Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende 'Quelle' an.
+Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende Quelle in Klammer an.
 Beschreibe die Rechtsfrage abstrakt und ergänze deine Ausführungen mit praktischen Besipielen, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
 Vergleiche diese Besipiele auch mit dem Fall der der Frage zugrunde liegt.
 """
