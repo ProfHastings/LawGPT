@@ -32,7 +32,7 @@ gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=
 
 retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
 
-question = "Alfred arbeitet für Daniel. Gestern Nacht erwischt Daniel Alfred mit Daniel's Frau Eva beim Sex. Was sind die Rechtsfolgen?"
+question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
 results = retriever.get_relevant_documents(question)
 
 tokenizer = tiktoken.encoding_for_model("gpt-4") 
@@ -42,6 +42,8 @@ Deine Aufgabe ist es die folgende Frage zu beantworten: "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
 Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende 'Quelle' an.
+Beschreibe die Rechtsfrage abstrakt und ergänze deine Ausführungen mit praktischen Besipielen, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
+Vergleiche diese Besipiele auch mit dem Fall der der Frage zugrunde liegt.
 """
 
 token_count = len(list(tokenizer.encode(template))) + len(list(tokenizer.encode(question)))
@@ -66,7 +68,7 @@ print(f"Used {nrsources} sources")
 prompt_template = PromptTemplate.from_template(template)
 
 gpt4userprompt = prompt_template.format(question=question, sources=source_info)
-print(gpt4userprompt)
+#print(gpt4userprompt)
 
 system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
 
