@@ -28,7 +28,7 @@ splade = SpladeEncoder(device=device)
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 embeddings = HuggingFaceEmbeddings(model_name=model_name)
 callback_handler = [StreamingStdOutCallbackHandler()]
-gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler)
+gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key="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")
 
 retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
 
