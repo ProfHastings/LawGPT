@@ -7,7 +7,13 @@ from langchain.embeddings import HuggingFaceEmbeddings
 import os
 import tiktoken
 from langchain.chat_models import ChatOpenAI
-from langchain import Message
+from langchain.schema import (
+    AIMessage,
+    HumanMessage,
+    SystemMessage
+)
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 # Pinecone
@@ -21,28 +27,29 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 splade = SpladeEncoder(device=device)
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 embeddings = HuggingFaceEmbeddings(model_name=model_name)
-gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True)
+callback_handler = [StreamingStdOutCallbackHandler()]
+gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler)
 
 retriever = PineconeHybridSearchRetriever(embeddings=embeddings, sparse_encoder=splade, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
 
-question = "Beurteile den folgenden Fall: Adam arbeitet in der Autowerkstätte von Fred als angestellter Mechaniker. Ohne Wissen von Fred arbeitet Adam nachts des öfteren in einem call center für Milchprodukte. Manchmal arbeitet er dort die ganze Nacht und kommt nicht zum Schlafen. Als Fred davon erfärt, ist er empört. Kann er Adam diese Tätigkeit neben seinem Dienstverhältnis mit Fred verbieten?"
+question = "Alfred arbeitet für Daniel. Gestern Nacht erwischt Daniel Alfred mit Daniel's Frau Eva beim Sex. Was sind die Rechtsfolgen?"
 results = retriever.get_relevant_documents(question)
 
 tokenizer = tiktoken.encoding_for_model("gpt-4") 
 
 template = """
-Deine Aufgabe ist es die folgende Frage zu beantworten: {question}
+Deine Aufgabe ist es die folgende Frage zu beantworten: "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
-{sources}
+"{sources}"
 Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende 'Quelle' an.
 """
 
 token_count = len(list(tokenizer.encode(template))) + len(list(tokenizer.encode(question)))
-max_token_limit = 1000
+max_token_limit = 6100
 #6144
 #lower bc system
 source_info = ""
-
+nrsources = 0 
 for result in results:
     new_text = f"Inhalt: {result.page_content}\nQuelle: {result.metadata['source']}\n"
     new_tokens = list(tokenizer.encode(new_text))
@@ -53,15 +60,18 @@ for result in results:
 
     source_info += new_text
     token_count += new_token_count
+    nrsources += 1
 
+print(f"Used {nrsources} sources")
 prompt_template = PromptTemplate.from_template(template)
 
 gpt4userprompt = prompt_template.format(question=question, sources=source_info)
 print(gpt4userprompt)
 
-system_message = Message(role='system', content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
+system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
 
-user_message = Message(role='user', content=gpt4userprompt)
+user_message = HumanMessage(content=gpt4userprompt)
 
-for response in gpt4.generate([system_message, user_message], max_tokens=2048):
+for response in gpt4([system_message, user_message]):
     print(response.content)
+
