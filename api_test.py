@@ -63,24 +63,23 @@ def get_retriever():
     index = get_index
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
-    dense_encoder = HuggingFaceEmbeddings(model_name=model_name)
+    dense_model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
+    dense_encoder = HuggingFaceEmbeddings(model_name=dense_model_name)
     sparse_encoder = SpladeEncoder(device=device)
     retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
     return retriever
 
 def main():
     retriever = get_retriever
-
     question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
     results = retriever.get_relevant_documents(question)
-    max_tokens = ((8192 - 2048) - 20) - len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question)))
+    max_tokens = ((8192 - 2048) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
-    analysisuserprompt = analysis_template.format(question=question, sources=sources)
+    analysis_userprompt = analysis_template.format(question=question, sources=sources)
     #print(gpt4userprompt)
 
-    user_message = HumanMessage(content=analysisuserprompt)
+    user_message = HumanMessage(content=analysis_userprompt)
 
     for response in gpt4([system_message, user_message]):
         print(response.content)
