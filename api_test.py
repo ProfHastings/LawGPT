@@ -81,9 +81,10 @@ def main():
 
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
     user_message = HumanMessage(content=analysis_userprompt)
-
-    for response in gpt4([system_message, user_message]):
-        print(response.content)
-
+    try:
+        for response in gpt4([system_message, user_message]):
+            print(response.content)
+    except Exception as e:
+        print()
 if __name__ == "__main__":
     main()
