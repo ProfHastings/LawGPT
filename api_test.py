@@ -60,7 +60,7 @@ def get_index():
 
 #loads dense and sparse encoder models and 
 def get_retriever():
-    index = get_index
+    index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     dense_model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
@@ -70,7 +70,7 @@ def get_retriever():
     return retriever
 
 def main():
-    retriever = get_retriever
+    retriever = get_retriever()
     question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
     results = retriever.get_relevant_documents(question)
     max_tokens = ((8192 - 2048) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
