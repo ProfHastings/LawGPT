@@ -23,16 +23,27 @@ gpt4_maxtokens = 8192
 response_maxtokens = 2048
 
 #init of prompt templates and system message
-system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
+analysis_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
 
 analysis_template_string = """
-Deine Aufgabe ist es die folgende Frage zu beantworten: "{question}"
+Deine Aufgabe ist es die folgende Frage zu beantworten: 
+"{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
 Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende Quelle in Klammer an.
 Beschreibe die Rechtsfrage abstrakt und ergänze deine Ausführungen mit praktischen Besipielen, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
-Vergleiche diese Beispiele auch mit dem Fall der der Frage zugrunde liegt.
+Vergleiche diese Beispiele auch mit dem Fall welcher der Frage zugrunde liegt.
 """
+analysis_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht. Deine Antwort besteht immer nur aus einem Wort")
+
+pruning_template_string = """
+Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung relevant sein könnte um die folgende legale Frage zu beantworten: 
+"{question}"
+Der Abschnitt lautet:
+"{source}"
+Falls du dir sicher bist, dass der Abschnitt nicht relevant ist, antworte mit Nein. Ansonsten antworte mit Ja.
+"""
+
 analysis_template = PromptTemplate.from_template(analysis_template_string)
 
 #takes Vector Database results, returns highest number of results with sources as string that fit in max_tokens OpenAI
@@ -42,7 +53,7 @@ def fill_tokens(results, max_tokens):
     token_count = 0
     
     for result in results:
-        new_text = f"Inhalt: {result.page_content}\nQuelle: {result.metadata['source']}\n"
+        new_text = f"Inhalt: {result.page_content}\nQuelle: {result.metadata['short_source']}\n"
         new_tokens = list(tokenizer.encode(new_text))
         new_token_count = len(new_tokens)
         if token_count + new_token_count > max_tokens:
@@ -80,9 +91,11 @@ def main():
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
+    print(analysis_userprompt)
+    #return
     user_message = HumanMessage(content=analysis_userprompt)
     try:
-        for response in gpt4([system_message, user_message]):
+        for response in gpt4([analysis_system_message, user_message]):
             print(response.content)
     except Exception as e:
         print()
