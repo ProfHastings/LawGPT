@@ -61,7 +61,7 @@ for i, p in enumerate(ps):
         item_to_upsert = {"id": f"{metadata['long_source']}_{j}", "values": dense_embedding, "metadata": metadata, "sparse_values": sparse_embedding} 
         data_to_upsert.append(item_to_upsert)
 
-    if (i + 1) % 1000 == 0:
+    if (i + 1) % 10 == 0:
         elapsed_time = time.time() - start_time
         print(f"Processed {i+1} files in {elapsed_time:.2f} seconds.")
 
