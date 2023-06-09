@@ -91,8 +91,7 @@ def main():
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
-    print(analysis_userprompt)
-    #return
+
     user_message = HumanMessage(content=analysis_userprompt)
     response = gpt4([analysis_system_message, user_message])
 
