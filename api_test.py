@@ -94,7 +94,10 @@ def main():
     print(analysis_userprompt)
     #return
     user_message = HumanMessage(content=analysis_userprompt)
-    response = gpt4([analysis_system_message, user_message])
-
+    try:
+        for response in gpt4([analysis_system_message, user_message]):
+            print(response.content)
+    except Exception as e:
+        print()
 if __name__ == "__main__":
     main()
