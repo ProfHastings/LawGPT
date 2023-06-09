@@ -34,7 +34,7 @@ Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachte
 Beschreibe die Rechtsfrage abstrakt und ergänze deine Ausführungen mit praktischen Besipielen, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
 Vergleiche diese Beispiele auch mit dem Fall welcher der Frage zugrunde liegt.
 """
-analysis_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht. Deine Antwort besteht immer nur aus einem Wort")
+pruning_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht. Deine Antwort besteht immer nur aus einem Wort")
 
 pruning_template_string = """
 Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung relevant sein könnte um die folgende legale Frage zu beantworten: 
