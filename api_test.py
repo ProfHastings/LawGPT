@@ -21,8 +21,7 @@ response_maxtokens = 2048
 openai_api_key = "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"
 callback_handler = [StreamingStdOutCallbackHandler()]
 gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key=openai_api_key)
-gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, openai_api_key=openai_api_key)
-
+gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, openai_api_key=openai_api_key, max_retries=20)
 tokenizer = tiktoken.encoding_for_model("gpt-4")
 
 
@@ -66,7 +65,7 @@ def fill_tokens(results, max_tokens):
         sources += new_text
         token_count += new_token_count
         nr_sources += 1
-    print(f"Used {nr_sources} sources")
+    print(f"Using {nr_sources} chunks for analysis")
     return sources
 
 #initializes Pinecone index to make database requests
@@ -90,12 +89,10 @@ def get_retriever():
 
 async def async_generate(case, question):
     pruning_userprompt = pruning_template.format(case=case.page_content, question=question)
-    #print(pruning_userprompt)
     pruning_user_message = HumanMessage(content=pruning_userprompt)
-    relevance = gpt35([pruning_system_message, pruning_user_message])
-    print(case.page_content)
-    print(relevance.content)
-    return (case, relevance.content)
+    relevance = await gpt35._agenerate([pruning_system_message, pruning_user_message])
+    print(case.page_content, "\n", relevance.generations[0].text)
+    return (case, relevance.generations[0].text)
 
 async def generate_concurrently(cases, question):
     tasks = [async_generate(case, question) for case in cases]
@@ -113,16 +110,12 @@ def main():
     question = "Alfred kommt verspätet zur Arbeit. Er hat keine Entschuldigung und es ist ihm schon zum zweiten Mal passiert. Was sind die Konsequenzen?"
     results = retriever.get_relevant_documents(question)
 
-    print(len(results))
+    print(f"{len(results)} chunks found in database")
 
-    #implement case pruning
     results = prune_cases(results=results, question=question)
 
-    print(len(results))
-    #print(results)
-    
-    
-    
+    print(f"{len(results)} chunks left after pruning")
+
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
