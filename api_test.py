@@ -45,7 +45,7 @@ Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung r
 "{question}"
 Der Abschnitt lautet:
 "{case}"
-Falls du dir sicher bist, dass der Abschnitt nicht relevant ist, antworte mit Nein. Ansonsten antworte mit Ja.
+Falls du dir sicher bist, dass der Abschnitt die Rechtsfrage nicht betrifft, antworte mit Nein. Ansonsten antworte mit Ja.
 """
 pruning_template = PromptTemplate.from_template(pruning_template_string)
 
@@ -83,46 +83,49 @@ def get_retriever():
     dense_model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
     dense_encoder = HuggingFaceEmbeddings(model_name=dense_model_name)
     sparse_encoder = SpladeEncoder(device=device)
-    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=150, alpha=0.3) #lower alpha - more sparse
     return retriever
 
 async def async_generate(case, question):
-    pruning_userprompt = pruning_template.format(case=case, question=question)
-    print(pruning_userprompt)
+    pruning_userprompt = pruning_template.format(case=case.page_content, question=question)
+    #print(pruning_userprompt)
     pruning_user_message = HumanMessage(content=pruning_userprompt)
     relevance = gpt35([pruning_system_message, pruning_user_message])
-    return (case, relevance)
+    print(case.page_content)
+    print(relevance.content)
+    return (case, relevance.content)
 
 async def generate_concurrently(cases, question):
-    tasks = [async_generate(case.page_content, question) for case in cases]
+    tasks = [async_generate(case, question) for case in cases]
     results = await asyncio.gather(*tasks)
-    print(results)
-    return [case for case, relevance in results if relevance == 'Ja']
+    #print(results)
+    return [case for case, relevance in results if relevance == 'Ja.']
 
 def prune_cases(results, question):
-    return asyncio.run(generate_concurrently(results, question))
+    pruned_results = asyncio.run(generate_concurrently(results, question))
+    return pruned_results
 
 
 def main():
     retriever = get_retriever()
-    question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
+    question = "Alfred kommt verspätet zur Arbeit. Er hat keine Entschuldigung und es ist ihm schon zum zweiten Mal passiert. Was sind die Konsequenzen?"
     results = retriever.get_relevant_documents(question)
 
-    #print(len(results))
+    print(len(results))
 
     #implement case pruning
-    #results = prune_cases(results=results, question=question)
+    results = prune_cases(results=results, question=question)
 
-    #print(len(results))
+    print(len(results))
     #print(results)
     
-    #return
+    
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
-
+    print(analysis_userprompt)
     user_message = HumanMessage(content=analysis_userprompt)
     response = gpt4([analysis_system_message, user_message])
 
