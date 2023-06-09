@@ -13,38 +13,41 @@ from langchain.schema import (
     SystemMessage
 )
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+import asyncio
 
-#init of global gpt4 model and OpenAI tokenizer
-callback_handler = [StreamingStdOutCallbackHandler()]
-gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key="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")
-tokenizer = tiktoken.encoding_for_model("gpt-4")
-
+#init of global gpt-4 model, gpt-3.5-turbo model and OpenAI tokenizer
 gpt4_maxtokens = 8192
 response_maxtokens = 2048
+openai_api_key = "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"
+callback_handler = [StreamingStdOutCallbackHandler()]
+gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key=openai_api_key)
+gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, openai_api_key=openai_api_key)
+
+tokenizer = tiktoken.encoding_for_model("gpt-4")
+
 
 #init of prompt templates and system message
-analysis_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht.")
-
+analysis_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt.")
 analysis_template_string = """
 Deine Aufgabe ist es die folgende Frage zu beantworten: 
 "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
-Schreib eine ausführliche legale Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende Quelle in Klammer an.
-Beschreibe die Rechtsfrage abstrakt und ergänze deine Ausführungen mit praktischen Besipielen, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
-Vergleiche diese Beispiele auch mit dem Fall welcher der Frage zugrunde liegt.
+Schreib eine ausführliche rechtliche Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende Quelle in Klammer an.
+Falls vorhanden, gehe in deinen Ausführungen auf vergleichbare Fälle ein, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
+Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen SAchverhaltselemente hilfreich wären.
 """
-pruning_system_message = SystemMessage(content="Du bist ein erfahrener Anwalt mit dem Spezialgebiet österreichisches Recht. Deine Antwort besteht immer nur aus einem Wort")
+analysis_template = PromptTemplate.from_template(analysis_template_string)
 
+pruning_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Deine Antwort besteht immer nur aus einem Wort")
 pruning_template_string = """
-Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung relevant sein könnte um die folgende legale Frage zu beantworten: 
+Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung relevant sein könnte um die folgende Frage zu beantworten: 
 "{question}"
 Der Abschnitt lautet:
-"{source}"
+"{case}"
 Falls du dir sicher bist, dass der Abschnitt nicht relevant ist, antworte mit Nein. Ansonsten antworte mit Ja.
 """
-
-analysis_template = PromptTemplate.from_template(analysis_template_string)
+pruning_template = PromptTemplate.from_template(pruning_template_string)
 
 #takes Vector Database results, returns highest number of results with sources as string that fit in max_tokens OpenAI
 def fill_tokens(results, max_tokens):
@@ -72,7 +75,7 @@ def get_index():
     index = pinecone.Index("justiz")
     return index
 
-#loads dense and sparse encoder models and 
+#loads dense and sparse encoder models and returns retriever to send requests to the database
 def get_retriever():
     index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -83,10 +86,38 @@ def get_retriever():
     retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=0.3) #lower alpha - more sparse
     return retriever
 
+async def async_generate(case, question):
+    pruning_userprompt = pruning_template.format(case=case, question=question)
+    print(pruning_userprompt)
+    pruning_user_message = HumanMessage(content=pruning_userprompt)
+    relevance = gpt35([pruning_system_message, pruning_user_message])
+    return (case, relevance)
+
+async def generate_concurrently(cases, question):
+    tasks = [async_generate(case.page_content, question) for case in cases]
+    results = await asyncio.gather(*tasks)
+    print(results)
+    return [case for case, relevance in results if relevance == 'Ja']
+
+def prune_cases(results, question):
+    return asyncio.run(generate_concurrently(results, question))
+
+
 def main():
     retriever = get_retriever()
     question = "Fred arbeitet für Max in einem Tonstudio. Fred macht eine tolle Erfindung, die es ihm ermöglicht auf elektronischem Weg Pfurtzgeräusche zu erzeugen. Zu einem geringen Teil hat er an dieser Erfindung während seiner Arbeitszeit gearbeitet. Wem gehört die Erfindung?"
     results = retriever.get_relevant_documents(question)
+
+    #print(len(results))
+
+    #implement case pruning
+    #results = prune_cases(results=results, question=question)
+
+    #print(len(results))
+    #print(results)
+    
+    #return
+    
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
