@@ -33,9 +33,11 @@ Deine Aufgabe ist es die folgende Frage zu beantworten:
 "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
-Schreib eine ausführliche rechtliche Analyse der Frage im Stil eines Rechtsgutachtens und gib für jede Aussage die entsprechende Quelle in Klammer an.
-Falls vorhanden, gehe in deinen Ausführungen auf vergleichbare Fälle ein, die du in den Entscheidungen des Obersten Gerichtshofs findest. 
-Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen SAchverhaltselemente hilfreich wären.
+Schreibe ein ausführliches Rechtsgutachten. Zuerst klärst du welche Rechtsfrage sich stellt.
+Dann erörterst Du die Rechtsfrage abstrakt und beschreibst dabei jewils im Zuge der Erörterung einzelner Fragen auch die Fälle die vom Obersten Gerichtshof bereits entschieden wurden und gib dazu die Fallzahl an.
+Vermeide aber eine bloße Auflistung der Fälle.
+Danach wendest Du die so beschriebene Rechtslage auf den abgefragten Fall an.
+Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen Sachverhaltselemente hilfreich wären.
 """
 analysis_template = PromptTemplate.from_template(analysis_template_string)
 
