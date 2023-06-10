@@ -2,3 +2,6 @@ langchain
 torch
 pinecone-text
 pinecone-client
+protobuf==3.20
+tiktoken
+openai

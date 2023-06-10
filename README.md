@@ -19,15 +19,9 @@ export OPENAI_API_KEY=....
 ```
 
 ## 💬 Ask a question
-In order to ask a question, run a command like:
-
-```shell
-python qa.py "is there food in the office?"
-```
+In order to ask a question, plug it into the main() function.
 
 You can switch out `Was sind die Voraussetzungen für das von der Rechtsprechung verlangte rechtliche Interesse für eine Feststellungsklage nach § 228 ZPO?` for any question of your liking!
-
-This exposes a chat interface for interacting with the database
 
 ## 🚀 Code to deploy on StreamLit
 

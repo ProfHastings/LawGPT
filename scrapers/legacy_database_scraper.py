@@ -24,7 +24,7 @@ options = Options()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
 
-url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=04.06.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=gmbhg&Position=1&SkipToDocumentPage=true'
+url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=05.06.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=AngG&Position=1&SkipToDocumentPage=true'
 driver.get(url)
 
 
@@ -34,7 +34,7 @@ counter = 0
 failed_urls = []
 
 working_directory = os.getcwd()
-save_directory = 'GmbHG'
+save_directory = 'AngG'
 absolute_directory = os.path.join(working_directory, save_directory)
 
 # Function to convert rtf to txt using LibreOffice
