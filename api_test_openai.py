@@ -19,11 +19,10 @@ from langchain.embeddings import OpenAIEmbeddings
 #init of global gpt-4 model, gpt-3.5-turbo model and OpenAI tokenizer
 gpt4_maxtokens = 8192
 response_maxtokens = 2048
-openai_api_key = "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"
 callback_handler = [StreamingStdOutCallbackHandler()]
-gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key=openai_api_key)
-gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, openai_api_key=openai_api_key, max_retries=20)
-gptdataquery = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=256, openai_api_key=openai_api_key)
+gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler)
+gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, max_retries=20)
+gptdataquery = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=256)
 tokenizer = tiktoken.encoding_for_model("gpt-4")
 
 
@@ -102,7 +101,7 @@ def get_retriever():
     index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002", openai_api_key=openai_api_key)
+    dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
     sparse_encoder = SpladeEncoder(device=device)
     retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
     return retriever
@@ -148,9 +147,9 @@ def get_dataquery(question):
     return dataquery.content
 
 
-def main():
+def main(question):
     retriever = get_retriever()
-    question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
+    #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
     dataquery = get_dataquery(question)
     print(f"Looking in database for: {dataquery}")  
     results = retriever.get_relevant_documents(dataquery)
@@ -170,6 +169,7 @@ def main():
     print(analysis_userprompt)
     user_message = HumanMessage(content=analysis_userprompt)
     response = gpt4([analysis_system_message, user_message])
+    return response.content
 
 if __name__ == "__main__":
     main()
