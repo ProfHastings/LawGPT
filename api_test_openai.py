@@ -39,6 +39,7 @@ Dann erörterst Du die Rechtsfrage abstrakt und beschreibst dabei jewils im Zuge
 Vermeide aber eine bloße Auflistung der Fälle.
 Danach wendest Du die so beschriebene Rechtslage auf den abgefragten Fall an.
 Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen Sachverhaltselemente hilfreich wären.
+Zum Schluß liste die wichtigsten Literaturzitate auf, die du in den Entscheidungen findest.
 """
 analysis_template = PromptTemplate.from_template(analysis_template_string)
 
@@ -66,8 +67,6 @@ dataquery_system_message = SystemMessage(content="Du bist ein im österreichisch
 dataquery_template_string = """
 Ein Klient kommt zu dir mit der folgenden Frage.
 "{question}"
-Du willst in deiner Datenbasis nach relevanten Fällen suchen um die Frage zu beantworten. Damit musst du die rechtliche Situtation der Frage so umschreiben, um der Formulierungsweise eines Urteiles zu entsprechen.
-Schreibe dazu einen Absatz und beziehe dich dabei auch auf die anzuwendenden rechtlichen Regelungen.
 """
 dataquery_template = PromptTemplate.from_template(dataquery_template_string)
 
@@ -145,12 +144,12 @@ def get_dataquery(question):
     dataquery_userprompt = dataquery_template.format(question=question)
     dataquery_user_message = HumanMessage(content=dataquery_userprompt)
     dataquery = gptdataquery([dataquery_system_message, dataquery_user_message])
-    return dataquery
+    return dataquery.content
 
 
 def main():
     retriever = get_retriever()
-    question = "Alfred kommt um zwei Stunden verspätet zur Arbeit. Er hat wiederum keine Entschuldigung und es ist ihm schon zum zweiten Mal passiert. Beim ersten Mal betrug die Verspätung dreißig Minuten. Damals wurde er sehr ernsthaft ermahnt, aber nicht schriftlich. Andere Mitarbeiter kommen manchmal zu spät, aber nicht oft und wurden immer ermahnt. Nur Trude wird offenbar mit weniger Strenge behandelt. Es ist unklar, warum das so ist. Möglicherwiese sind Trude's hübsche Auge daran schukld. Was sind die Konsequenzen?"
+    question = """Alfred arbeitet in der X Bank am Schalter. FRüher hat er sich immer ordentlich gekleidet. Zuletzt kommt er zunehmends mit Jean und offenem Hemd. Darf er das?"""
     dataquery = get_dataquery(question)
     print(f"Looking in database for: {dataquery}")  
     results = retriever.get_relevant_documents(dataquery)
@@ -159,7 +158,7 @@ def main():
 
     results = rank_cases(results=results, question=question)
 
-    print(results)
+    #print(results)
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
