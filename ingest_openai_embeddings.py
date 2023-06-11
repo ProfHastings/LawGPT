@@ -11,8 +11,6 @@ import pinecone
 import itertools
 from pinecone_text.sparse import SpladeEncoder
 from langchain.embeddings import OpenAIEmbeddings
-from copy import deepcopy
-
 
 print(torch.__version__)
 print(torch.cuda.is_available())
@@ -30,12 +28,9 @@ model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name, device=device)
 splade = SpladeEncoder(device=device)
-openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002", max_retries=500)
+openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002")
 
-#api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
 api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
-
-#env = "us-east-1-aws"
 env = "eu-west4-gcp"
 
 pinecone.init(api_key=api_key, environment=env)
@@ -44,10 +39,9 @@ index = pinecone.Index("justiz-openai")
 print(f"Total files to process: {len(ps)}")
 start_time = time.time()
 
-MAX_RETRIES = 1000
-error_counter=0
+embedding_counter = 0
+MAX_RETRIES = 10
 failed_chunks = []
-
 
 for i, p in enumerate(ps):
     with open(p, 'rb') as f:
@@ -69,6 +63,9 @@ for i, p in enumerate(ps):
 
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
+        embedding_counter += 1
+        if(embedding_counter < 20000):
+            continue
         dense_embedding = openai_embedding_model.embed_documents([doc])[0]
         sparse_embedding = splade.encode_documents([doc])[0]
         item_to_upsert = {"id": f"{metadata['long_source']}_{j}", "values": dense_embedding, "metadata": metadata, "sparse_values": sparse_embedding} 
@@ -81,12 +78,13 @@ for i, p in enumerate(ps):
                     if upsert_response.error:
                         raise Exception(f'Error during upsert: {upsert_response.error}')
                     break
-                except Exception as e:
+                except Exception:
                     if attempt < MAX_RETRIES - 1:  # i.e. if it's not the last attempt
                         continue
                     else:
-                        print(str(e))
-                        raise
+                        print("FAILURE")
+                        failed_chunks.append(batch_to_upsert)
+                        break
             batch_to_upsert = []
 
     # Upsert remaining items in the batch, if any
@@ -95,17 +93,21 @@ for i, p in enumerate(ps):
             try:
                 upsert_response = index.upsert(vectors=batch_to_upsert)
                 if upsert_response.error:
-                    error_counter+=1
                     raise Exception(f'Error during upsert: {upsert_response.error}')
                 break
-            except Exception as e:
+            except Exception:
                 if attempt < MAX_RETRIES - 1:  # i.e. if it's not the last attempt
                     continue
                 else:
-                    print(str(e))
-                    raise
+                    failed_chunks.append(batch_to_upsert)
+                    break
 
     elapsed_time = time.time() - start_time
     print(f"Processed {i} files in {elapsed_time:.2f} seconds.")
-print("ERRORS:")
-print(error_counter)
+    print(f"Processed {embedding_counter} embeddings in {elapsed_time:.2f} seconds.")
+
+print("Failed chunks:")
+for chunk in failed_chunks:
+    print(chunk)
+print("Created Embeddings:")
+print(embedding_counter)
