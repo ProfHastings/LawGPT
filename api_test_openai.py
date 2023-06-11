@@ -34,11 +34,11 @@ Deine Aufgabe ist es die folgende Frage zu beantworten:
 "{question}"
 Um die Frage zu beantworten hast du die folgenden Entscheidungen des Österreichischen Obersten Gerichtshofes zur Verfügung:
 "{sources}"
-Schreibe ein ausführliches Rechtsgutachten. Zuerst klärst du welche Rechtsfrage sich stellt.
-Dann erörterst Du die Rechtsfrage abstrakt und beschreibst dabei jewils im Zuge der Erörterung einzelner Fragen auch die Fälle die vom Obersten Gerichtshof bereits entschieden wurden und gib dazu die Fallzahl an.
+Du bist Rechtsanwältsanwärter in einer Anwaltskanzlei. Schreibe einen sehr ausführlichen und detaillierten ersten Entwurf für ein Rechtsgutachten. Zuerst klärst du welche Rechtsfrage sich stellt.
+Dann erörterst Du die Rechtsfrage abstrakt und nimmst dabei jeweils im Zuge der Erörterung einzelner Fragen auch auf Fälle Bezug, die vom Obersten Gerichtshof bereits entschieden wurden und gib dazu die Fallzahl an.
 Vermeide aber eine bloße Auflistung der Fälle.
-Danach wendest Du die so beschriebene Rechtslage auf den abgefragten Fall an.
-Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen Sachverhaltselemente hilfreich wären.
+Danach wendest Du die so beschriebene Rechtslage auf den Fall an.
+Schließlich gib an, wie die Frage deines Erachtenszu lösen ist. Gib immer auch an, wenn du dich in deinen Ausführungen unsicher fühlst.Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen Sachverhaltselemente hilfreich wären.
 Zum Schluß liste die fünf wichtigsten Entscheidungen und die fünf wichtigsten Literaturzitate auf, die du in den Entscheidungen findest.
 """
 analysis_template = PromptTemplate.from_template(analysis_template_string)
@@ -67,8 +67,7 @@ dataquery_system_message = SystemMessage(content="Du bist ein im österreichisch
 dataquery_template_string = """
 Ein Klient kommt zu dir mit der folgenden Frage.
 "{question}"
-Du willst in deiner Datenbasis nach relevanten Fällen suchen um die Frage zu beantworten. Damit musst du die rechtliche Situtation der Frage so umschreiben, um der Formulierungsweise eines Urteiles zu entsprechen.
-Schreibe dazu einen Absatz und beziehe dich dabei auch auf die anzuwendenden rechtlichen Regelungen.
+Schreibe eine Liste mit den wichtigsten rechtlichen Fragen die sich zu dieser Situation stellen. Verwende die genaue juristische Terminologie.
 """
 dataquery_template = PromptTemplate.from_template(dataquery_template_string)
 
@@ -151,11 +150,13 @@ def get_dataquery(question):
 
 def main():
     retriever = get_retriever()
-    question = """Alfred arbeitet in der X Bank am Schalter. FRüher hat er sich immer ordentlich gekleidet. Zuletzt kommt er zunehmends mit Jean und offenem Hemd. Darf er das?"""
+    question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
     dataquery = get_dataquery(question)
     print(f"Looking in database for: {dataquery}")  
     results = retriever.get_relevant_documents(dataquery)
-    
+    for result in results:
+        print (result.page_content, "\n", "\n")
+    #return
     print(f"{len(results)} chunks found in database")
 
     results = rank_cases(results=results, question=question)
