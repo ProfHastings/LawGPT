@@ -39,7 +39,7 @@ Dann erörterst Du die Rechtsfrage abstrakt und beschreibst dabei jewils im Zuge
 Vermeide aber eine bloße Auflistung der Fälle.
 Danach wendest Du die so beschriebene Rechtslage auf den abgefragten Fall an.
 Schließlich gib an, wie die Frage zu lösen ist. Falls die Lösung nicht eindeutig ist gib an, wie die wahrscheinlichere Lösung lautet. Gib auch an, welche zusätzlichen Sachverhaltselemente hilfreich wären.
-Zum Schluß liste die wichtigsten Literaturzitate auf, die du in den Entscheidungen findest.
+Zum Schluß liste die fünf wichtigsten Entscheidungen und die fünf wichtigsten Literaturzitate auf, die du in den Entscheidungen findest.
 """
 analysis_template = PromptTemplate.from_template(analysis_template_string)
 
@@ -67,6 +67,8 @@ dataquery_system_message = SystemMessage(content="Du bist ein im österreichisch
 dataquery_template_string = """
 Ein Klient kommt zu dir mit der folgenden Frage.
 "{question}"
+Du willst in deiner Datenbasis nach relevanten Fällen suchen um die Frage zu beantworten. Damit musst du die rechtliche Situtation der Frage so umschreiben, um der Formulierungsweise eines Urteiles zu entsprechen.
+Schreibe dazu einen Absatz und beziehe dich dabei auch auf die anzuwendenden rechtlichen Regelungen.
 """
 dataquery_template = PromptTemplate.from_template(dataquery_template_string)
 
