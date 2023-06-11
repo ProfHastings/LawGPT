@@ -23,6 +23,7 @@ openai_api_key = "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"
 callback_handler = [StreamingStdOutCallbackHandler()]
 gpt4 = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=2048, streaming=True, callbacks=callback_handler, openai_api_key=openai_api_key)
 gpt35 = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, max_tokens=5, openai_api_key=openai_api_key, max_retries=20)
+gptdataquery = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=256, openai_api_key=openai_api_key)
 tokenizer = tiktoken.encoding_for_model("gpt-4")
 
 
@@ -61,6 +62,15 @@ Skaliere die Relevanz auf einer Skala von 1 bis 10 und antworte mit dieser Zahl
 """
 ranking_template = PromptTemplate.from_template(ranking_template_string)
 
+dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du antwortest nur genau mit dem was von dir gefragt ist und ausführlich.")
+dataquery_template_string = """
+Ein Klient kommt zu dir mit der folgenden Frage.
+"{question}"
+Du willst in deiner Datenbasis nach relevanten Fällen suchen um die Frage zu beantworten. Damit musst du die rechtliche Situtation der Frage so umschreiben, um der Formulierungsweise eines Urteiles zu entsprechen.
+Schreibe dazu einen Absatz und beziehe dich dabei auch auf die anzuwendenden rechtlichen Regelungen.
+"""
+dataquery_template = PromptTemplate.from_template(dataquery_template_string)
+
 #takes Vector Database results, returns highest number of results with sources as string that fit in max_tokens OpenAI
 def fill_tokens(results, max_tokens):
     sources = ""
@@ -81,8 +91,8 @@ def fill_tokens(results, max_tokens):
 
 #initializes Pinecone index to make database requests
 def get_index():
-    api_key = "2c3790ff-1d6a-48be-b101-1301723b6252"
-    env = "us-east-1-aws"
+    api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
+    env = "eu-west4-gcp"
     pinecone.init(api_key=api_key, environment=env)
     index = pinecone.Index("justiz-openai")
     return index
@@ -94,7 +104,7 @@ def get_retriever():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002", openai_api_key=openai_api_key)
     sparse_encoder = SpladeEncoder(device=device)
-    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=10, alpha=0.3) #lower alpha - more sparse
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
     return retriever
 
 async def async_prune(case, question):
@@ -119,33 +129,38 @@ async def async_rank(case, question):
     ranking_user_message = HumanMessage(content=ranking_userprompt)
     relevance = await gpt35._agenerate([ranking_system_message, ranking_user_message])
     print(case.page_content, "\n", relevance.generations[0].text)
-    return (case, relevance.generations[0].text)
+    return (case, float(relevance.generations[0].text))  # Ensure relevance is a number
 
 async def rank_concurrently(cases, question):
     tasks = [async_rank(case, question) for case in cases]
     results = await asyncio.gather(*tasks)
-    #print(results)
-    return [case for case, relevance in results if relevance == 'Ja.']
+    sorted_results = sorted(results, key=lambda x: x[1], reverse=True)  # Sort by relevance
+    return [case for case, _ in sorted_results]  # Only return the case objects
 
 def rank_cases(results, question):
     ranked_results = asyncio.run(rank_concurrently(results, question))
     return ranked_results
 
+def get_dataquery(question):
+    dataquery_userprompt = dataquery_template.format(question=question)
+    dataquery_user_message = HumanMessage(content=dataquery_userprompt)
+    dataquery = gptdataquery([dataquery_system_message, dataquery_user_message])
+    return dataquery
+
 
 def main():
     retriever = get_retriever()
-    question = "Alfred kommt verspätet zur Arbeit. Er hat keine Entschuldigung und es ist ihm schon zum zweiten Mal passiert. Was sind die Konsequenzen?"
-    results = retriever.get_relevant_documents(question)
-
+    question = "Alfred kommt um zwei Stunden verspätet zur Arbeit. Er hat wiederum keine Entschuldigung und es ist ihm schon zum zweiten Mal passiert. Beim ersten Mal betrug die Verspätung dreißig Minuten. Damals wurde er sehr ernsthaft ermahnt, aber nicht schriftlich. Andere Mitarbeiter kommen manchmal zu spät, aber nicht oft und wurden immer ermahnt. Nur Trude wird offenbar mit weniger Strenge behandelt. Es ist unklar, warum das so ist. Möglicherwiese sind Trude's hübsche Auge daran schukld. Was sind die Konsequenzen?"
+    dataquery = get_dataquery(question)
+    print(f"Looking in database for: {dataquery}")  
+    results = retriever.get_relevant_documents(dataquery)
+    
     print(f"{len(results)} chunks found in database")
 
+    results = rank_cases(results=results, question=question)
+
     print(results)
-    return
-
-    results = prune_cases(results=results, question=question)
-
-    print(f"{len(results)} chunks left after pruning")
-
+    
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
 
