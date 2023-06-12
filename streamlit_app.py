@@ -1,6 +1,8 @@
 import streamlit as st
 from api_test_openai import main
+import gc
 
+gc.enable()
 st.set_page_config(page_title="zeilertech", page_icon=":scales:")
 
 st.title("LawGPT")

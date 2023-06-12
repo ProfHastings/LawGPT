@@ -3,12 +3,11 @@ from langchain.retrievers import PineconeHybridSearchRetriever
 import torch
 import pinecone
 from pinecone_text.sparse import SpladeEncoder
-from langchain.embeddings import HuggingFaceEmbeddings
 import os
 import tiktoken
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import (
-    AIMessage,
+#    AIMessage,
     HumanMessage,
     SystemMessage
 )
@@ -97,17 +96,13 @@ def get_index():
     api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
     env = "eu-west4-gcp"
     pinecone.init(api_key=api_key, environment=env)
-    index = pinecone.Index("justiz-openai")
-    return index
+    return pinecone.Index("justiz-openai")
 
 #loads dense and sparse encoder models and returns retriever to send requests to the database
 def get_retriever():
-    index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
-    sparse_encoder = SpladeEncoder(device=device)
-    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
+    retriever = PineconeHybridSearchRetriever(embeddings=OpenAIEmbeddings(model="text-embedding-ada-002"), sparse_encoder=SpladeEncoder(device=device), index=get_index(), top_k=50, alpha=1) #lower alpha - more sparse
     return retriever
 
 #(next three functions) uses async api calls to prune cases based on relevance
@@ -172,18 +167,18 @@ def smart_retriever(question):
     print(f"Looking in database for: {dataquery}")  
 
     results = retriever.get_relevant_documents(dataquery)
-    del dense_encoder
-    del sparse_encoder
+    del (dense_encoder, sparse_encoder, index, device, retriever, dataquery)
     torch.cuda.empty_cache()
     gc.collect()
     return results
 
 def main(question):
-    retriever = get_retriever()
+    #retriever = get_retriever()
     #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
-    dataquery = get_dataquery(question)
-    results = retriever.get_relevant_documents(dataquery)
-
+    #dataquery = get_dataquery(question)
+    #results = retriever.get_relevant_documents(dataquery)
+    results = smart_retriever(question)
+    gc.collect()
     for result in results:
         print (result.page_content, "\n", "\n")
     #return
