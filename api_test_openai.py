@@ -15,6 +15,7 @@ from langchain.schema import (
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 import asyncio
 from langchain.embeddings import OpenAIEmbeddings
+import gc
 
 #init of global gpt-4 model, gpt-3.5-turbo model and OpenAI tokenizer
 gpt4_maxtokens = 8192
@@ -146,13 +147,30 @@ def get_dataquery(question):
     dataquery = gptdataquery([dataquery_system_message, dataquery_user_message])
     return dataquery.content
 
+def smart_retriever(question):
+    index = get_index()
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
+    sparse_encoder = SpladeEncoder(device=device)
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
+    
+    #dataquery = get_dataquery(question)
+    print(f"Looking in database for: {question}")  
+
+    results = retriever.get_relevant_documents(question)
+    pinecone.deinit()
+    del dense_encoder
+    del sparse_encoder
+    torch.cuda.empty_cache()
+    gc.collect()
+    return results
 
 def main(question):
-    retriever = get_retriever()
+    #retriever = get_retriever()
     #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
-    dataquery = get_dataquery(question)
-    print(f"Looking in database for: {dataquery}")  
-    results = retriever.get_relevant_documents(dataquery)
+    #dataquery = get_dataquery(question)
+    results = smart_retriever(question)
     for result in results:
         print (result.page_content, "\n", "\n")
     #return
@@ -172,4 +190,4 @@ def main(question):
     return response.content
 
 if __name__ == "__main__":
-    main()
+    main("test")
