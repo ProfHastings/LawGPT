@@ -27,7 +27,7 @@ gptdataquery = ChatOpenAI(model_name="gpt-4", temperature=0, max_tokens=256)
 tokenizer = tiktoken.encoding_for_model("gpt-4")
 
 
-#init of prompt templates and system message
+#template for final analysis prompt
 analysis_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt.")
 analysis_template_string = """
 Deine Aufgabe ist es die folgende Frage zu beantworten: 
@@ -43,6 +43,7 @@ Zum Schluß liste die fünf wichtigsten Entscheidungen und die fünf wichtigsten
 """
 analysis_template = PromptTemplate.from_template(analysis_template_string)
 
+#template for pruning prompt
 pruning_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Deine Antwort besteht immer nur aus einem Wort")
 pruning_template_string = """
 Deine Aufgabe ist es zu evaluieren ob ein Abschnitt einer Gerichtsentscheidung relevant sein könnte um die folgende Frage zu beantworten: 
@@ -53,6 +54,7 @@ Falls du dir sicher bist, dass der Abschnitt die Rechtsfrage nicht betrifft, ant
 """
 pruning_template = PromptTemplate.from_template(pruning_template_string)
 
+#template for ranking prompt
 ranking_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Deine Antwort besteht immer nur aus einer Zahl von 1 bis 10")
 ranking_template_string = """
 Deine Aufgabe ist es zu bewerten wie relevant ein Abschnitt einer Gerichtsentscheidung ist um die folgende Frage zu beantworten: 
@@ -63,6 +65,7 @@ Skaliere die Relevanz auf einer Skala von 1 bis 10 und antworte mit dieser Zahl
 """
 ranking_template = PromptTemplate.from_template(ranking_template_string)
 
+#template for database query prompt
 dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du antwortest nur genau mit dem was von dir gefragt ist und ausführlich.")
 dataquery_template_string = """
 Ein Klient kommt zu dir mit der folgenden Frage.
@@ -107,6 +110,7 @@ def get_retriever():
     retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
     return retriever
 
+#(next three functions) uses async api calls to prune cases based on relevance
 async def async_prune(case, question):
     pruning_userprompt = pruning_template.format(case=case.page_content, question=question)
     pruning_user_message = HumanMessage(content=pruning_userprompt)
@@ -124,6 +128,7 @@ def prune_cases(results, question):
     pruned_results = asyncio.run(prune_concurrently(results, question))
     return pruned_results
 
+#(next three functions) uses async api calls to rank chunks from 1-10 based on relevance
 async def async_rank(case, question, max_attempts=5):
     for attempt in range(max_attempts):
         try:
@@ -147,13 +152,14 @@ def rank_cases(results, question):
     ranked_results = asyncio.run(rank_concurrently(results, question))
     return ranked_results
 
-
+#rephrases query as optimized prompt for searching vectorstorage
 def get_dataquery(question):
     dataquery_userprompt = dataquery_template.format(question=question)
     dataquery_user_message = HumanMessage(content=dataquery_userprompt)
     dataquery = gptdataquery([dataquery_system_message, dataquery_user_message])
     return dataquery.content
 
+#attempt to force garbace collection. seems unsuccessful
 def smart_retriever(question):
     index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -162,10 +168,10 @@ def smart_retriever(question):
     sparse_encoder = SpladeEncoder(device=device)
     retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
     
-    #dataquery = get_dataquery(question)
-    print(f"Looking in database for: {question}")  
+    dataquery = get_dataquery(question)
+    print(f"Looking in database for: {dataquery}")  
 
-    results = retriever.get_relevant_documents(question)
+    results = retriever.get_relevant_documents(dataquery)
     del dense_encoder
     del sparse_encoder
     torch.cuda.empty_cache()
@@ -173,11 +179,10 @@ def smart_retriever(question):
     return results
 
 def main(question):
-    #retriever = get_retriever()
+    retriever = get_retriever()
     #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
-    #dataquery = get_dataquery(question)
-    results = smart_retriever(question)
-    gc.collect()
+    dataquery = get_dataquery(question)
+    results = retriever.get_relevant_documents(dataquery)
 
     for result in results:
         print (result.page_content, "\n", "\n")
@@ -190,7 +195,6 @@ def main(question):
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
-    del results
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
     print(analysis_userprompt)
     user_message = HumanMessage(content=analysis_userprompt)
