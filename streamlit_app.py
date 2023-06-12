@@ -15,4 +15,6 @@ if st.button("Submit"):
         except Exception as e:
             st.error(f"Konzipient braucht mokka latte mit pumpkin spice (no gluten) weil {str(e)}")
         else:
-            st.text_area("Rechtsgutachten:", response)
+            st.write("Rechtsgutachten:")
+            st.write(response)
+            gc.collect()
