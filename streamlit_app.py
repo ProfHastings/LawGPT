@@ -3,8 +3,8 @@ from api_test_openai import main
 
 st.set_page_config(page_title="zeilertech", page_icon=":scales:")
 
-st.title("Legal Chatbot")
-question = st.text_input("Please enter your legal question here:")
+st.title("LawGPT")
+question = st.text_input("Gib deine rechtliche Frage hier ein")
 
 if st.button("Submit"):
     with st.spinner('Konzipienten werden gepeitscht...'):

@@ -159,7 +159,6 @@ def smart_retriever(question):
     print(f"Looking in database for: {question}")  
 
     results = retriever.get_relevant_documents(question)
-    pinecone.deinit()
     del dense_encoder
     del sparse_encoder
     torch.cuda.empty_cache()
@@ -171,6 +170,8 @@ def main(question):
     #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
     #dataquery = get_dataquery(question)
     results = smart_retriever(question)
+    gc.collect()
+
     for result in results:
         print (result.page_content, "\n", "\n")
     #return
