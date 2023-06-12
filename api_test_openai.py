@@ -124,22 +124,29 @@ def prune_cases(results, question):
     pruned_results = asyncio.run(prune_concurrently(results, question))
     return pruned_results
 
-async def async_rank(case, question):
-    ranking_userprompt = ranking_template.format(case=case.page_content, question=question)
-    ranking_user_message = HumanMessage(content=ranking_userprompt)
-    relevance = await gpt35._agenerate([ranking_system_message, ranking_user_message])
-    print(case.page_content, "\n", relevance.generations[0].text)
-    return (case, float(relevance.generations[0].text))  # Ensure relevance is a number
+async def async_rank(case, question, max_attempts=5):
+    for attempt in range(max_attempts):
+        try:
+            ranking_userprompt = ranking_template.format(case=case.page_content, question=question)
+            ranking_user_message = HumanMessage(content=ranking_userprompt)
+            relevance = await gpt35._agenerate([ranking_system_message, ranking_user_message])
+            relevance_score = float(relevance.generations[0].text)
+            return (case, relevance_score)
+        except ValueError:
+            print(f"Attempt {attempt + 1} failed, did not return ranking number")
+    print(f"All {max_attempts} attempts failed. Returning default relevance score of 1.")
+    return (case, 1)
 
 async def rank_concurrently(cases, question):
     tasks = [async_rank(case, question) for case in cases]
     results = await asyncio.gather(*tasks)
-    sorted_results = sorted(results, key=lambda x: x[1], reverse=True)  # Sort by relevance
-    return [case for case, _ in sorted_results]  # Only return the case objects
+    sorted_results = sorted(results, key=lambda x: x[1], reverse=True)
+    return [case for case, _ in sorted_results]
 
 def rank_cases(results, question):
     ranked_results = asyncio.run(rank_concurrently(results, question))
     return ranked_results
+
 
 def get_dataquery(question):
     dataquery_userprompt = dataquery_template.format(question=question)
@@ -183,7 +190,7 @@ def main(question):
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
     sources = fill_tokens(results=results, max_tokens=max_tokens)
-
+    del results
     analysis_userprompt = analysis_template.format(question=question, sources=sources)
     print(analysis_userprompt)
     user_message = HumanMessage(content=analysis_userprompt)
