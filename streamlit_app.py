@@ -18,3 +18,5 @@ if st.button("Submit"):
             st.write("Rechtsgutachten:")
             st.write(response)
             gc.collect()
+            st.experimental_memo.clear()
+            st.cache_data.clear()
