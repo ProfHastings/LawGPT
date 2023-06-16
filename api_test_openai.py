@@ -118,7 +118,7 @@ def get_retriever():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
     sparse_encoder = SpladeEncoder(device=device)
-    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=20, alpha=0.99899) #lower alpha - more sparse
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=75, alpha=0.99899) #lower alpha - more sparse
     return retriever
 
 #(next three functions) uses async api calls to prune cases based on relevance
