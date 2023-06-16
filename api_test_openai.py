@@ -205,7 +205,7 @@ def main(question):
     #print(f"{len(results)} chunks found in database")
 
     results = rank_cases(results=results, question=question)
-    return
+    
     #print(results)
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
