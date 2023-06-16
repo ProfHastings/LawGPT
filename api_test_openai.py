@@ -71,6 +71,19 @@ Ein Klient kommt zu dir mit der folgenden Frage.
 "{question}"
 Schreibe eine Liste mit den wichtigsten rechtlichen Fragen die sich zu dieser Situation stellen. Verwende die genaue juristische Terminologie.
 """
+#dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du schreibst nur die Antwort auf Fragen.")
+#dataquery_template_string = """
+#Du hast die folgende informell formulierte Frage:"
+#"{question}" 
+#Formuliere die Frage ausführlich um, so wie sie in einer gerichtlichen Entscheidung stehen würde.
+#"""
+#dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du antwortest nur genau mit dem was von dir gefragt ist und ausführlich.")
+#dataquery_template_string = """
+#Ein Klient kommt zu dir mit der folgenden Frage.
+#"{question}"
+#Identifiziere die rechtlichen Parteien in diesem Fall und nutze dies um eine Liste mit den drei wichtigsten Fragen die sich zu dieser Situation zu schreiben. Nenne die Parteien innerhalt der Liste nur mit ihren rechtlichen Rollen ohne persönliche Namen und schreibe nur die Elemente der Liste ohne Erläuterung. Jedes Element der Liste sollte formuliert sein um die Parteien und Rechtsinteraktion zu referenzieren. Jeder der Punkte soll verständlich sein ohne die Originalfrage gelesen zu haben und die Rechtslage enthalten. Verwende die genaue juristische Terminologie.
+#"""
+
 dataquery_template = PromptTemplate.from_template(dataquery_template_string)
 
 #takes Vector Database results, returns highest number of results with sources as string that fit in max_tokens OpenAI
@@ -100,9 +113,12 @@ def get_index():
 
 #loads dense and sparse encoder models and returns retriever to send requests to the database
 def get_retriever():
+    index = get_index()
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    retriever = PineconeHybridSearchRetriever(embeddings=OpenAIEmbeddings(model="text-embedding-ada-002"), sparse_encoder=SpladeEncoder(device=device), index=get_index(), top_k=50, alpha=1) #lower alpha - more sparse
+    dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
+    sparse_encoder = SpladeEncoder(device=device)
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=20, alpha=0.99899) #lower alpha - more sparse
     return retriever
 
 #(next three functions) uses async api calls to prune cases based on relevance
@@ -131,6 +147,7 @@ async def async_rank(case, question, max_attempts=5):
             ranking_user_message = HumanMessage(content=ranking_userprompt)
             relevance = await gpt35._agenerate([ranking_system_message, ranking_user_message])
             relevance_score = float(relevance.generations[0].text)
+            print(case.page_content, "\n", relevance_score, "\n")
             return (case, relevance_score)
         except ValueError:
             print(f"Attempt {attempt + 1} failed, did not return ranking number")
@@ -141,10 +158,12 @@ async def rank_concurrently(cases, question):
     tasks = [async_rank(case, question) for case in cases]
     results = await asyncio.gather(*tasks)
     sorted_results = sorted(results, key=lambda x: x[1], reverse=True)
-    return [case for case, _ in sorted_results]
+    sum_of_relevance = sum(relevance for _, relevance in results)
+    return [case for case, _ in sorted_results], sum_of_relevance
 
 def rank_cases(results, question):
-    ranked_results = asyncio.run(rank_concurrently(results, question))
+    ranked_results, sum_of_relevance = asyncio.run(rank_concurrently(results, question))
+    print(f"Average relevance score: {sum_of_relevance/len(ranked_results)}")
     return ranked_results
 
 #rephrases query as optimized prompt for searching vectorstorage
@@ -152,6 +171,7 @@ def get_dataquery(question):
     dataquery_userprompt = dataquery_template.format(question=question)
     dataquery_user_message = HumanMessage(content=dataquery_userprompt)
     dataquery = gptdataquery([dataquery_system_message, dataquery_user_message])
+    print(f"Looking in database for: {dataquery.content}")
     return dataquery.content
 
 #attempt to force garbace collection. seems unsuccessful
@@ -161,7 +181,7 @@ def smart_retriever(question):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     dense_encoder = OpenAIEmbeddings(model="text-embedding-ada-002")
     sparse_encoder = SpladeEncoder(device=device)
-    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=50, alpha=1) #lower alpha - more sparse
+    retriever = PineconeHybridSearchRetriever(embeddings=dense_encoder, sparse_encoder=sparse_encoder, index=index, top_k=75, alpha=0.99899) #lower alpha - more sparse
     
     dataquery = get_dataquery(question)
     print(f"Looking in database for: {dataquery}")  
@@ -173,19 +193,19 @@ def smart_retriever(question):
     return results
 
 def main(question):
-    #retriever = get_retriever()
-    #question = """Alfred arbeitet in der Buchhaltung der XY GmbH. Er hat nie einen schriftlichen Vertrag unterschrieben, arbeitet aber drei bis vier Tage jede Woche. Er bekommt - unregelmäßig - ein Entgelt ausbezahlt. Hat Alfred einen wirksamen Dienstvertrag mit der XY GmbH?"""
-    #dataquery = get_dataquery(question)
-    #results = retriever.get_relevant_documents(dataquery)
-    results = smart_retriever(question)
-    gc.collect()
-    for result in results:
-        print (result.page_content, "\n", "\n")
+    retriever = get_retriever()
+    dataquery = get_dataquery(question)
+    #dataquery = "Verletzt der Arbeitgeber schuldhaft seine Fürsorgepflicht und entsteht dem Arbeitnehmer ein Schaden, so trifft den Arbeitgeber eine Schadenersatzpflicht (vgl Pfeil in Schwimann, ABGB³ V § 1157 Rz 32; Marhold in Marhold/Burgstaller/Preyer, AngG § 18 Rz 120 ua). Der Kläger macht Gesundheitsschäden und damit zusammenhängenden Verdienstentgang und sonstige Kosten geltend, die auf die Verletzung der Abhilfeverpflichtung der Beklagten zurückzuführen sein sollen. Diese Schadenersatzansprüche unterliegen den allgemeinen Voraussetzungen des Schadenersatzrechts (vgl Mosler in ZellKomm² AngG § 18 Rz 132 ua), insbesondere auch in Bezug auf das Vorliegen eines Schadens und dessen Verursachung durch den Schädiger. Für beides trägt der Geschädigte die Beweislast. Der Kläger hat dazu auch entsprechende Behauptungen in erster Instanz aufgestellt, die von der Beklagten bestritten wurden. Dafür, dass beim Kläger eine psychische Erkrankung eingetreten ist, scheinen vom Kläger vorgelegte ärztliche Befunde zu sprechen. Konkrete Tatsachenfeststellungen des Erstgerichts oder Außerstreitstellungen der Parteien dazu fehlen aber bisher. Da die vom Kläger behauptete psychische Erkrankung bisher nicht festgestellt wurde, wurden auch keine Feststellungen getroffen, wodurch diese Erkrankung nun tatsächlich verursacht wurde. Der Kläger steht auf dem Standpunkt, dass seine psychische Erkrankung auf die von der Beklagten nicht unterbundenen Beschimpfungen und Schikanen zurückzuführen sei. Dies wurde von der Beklagten bestritten. Die Frage der Verursachung der vom Kläger verursachten Schäden harrt daher einer Klärung im zweiten Rechtsgang. Dabei ist auf den Zeitraum der Verletzung der Fürsorgepflicht ab 7. 11. 2008 abzustellen. "
+    results = retriever.get_relevant_documents(dataquery)
+    #results = smart_retriever(question)
+    #gc.collect()
+    #for result in results:
+    #    print (result.page_content, "\n", "\n")
     #return
-    print(f"{len(results)} chunks found in database")
+    #print(f"{len(results)} chunks found in database")
 
     results = rank_cases(results=results, question=question)
-
+    return
     #print(results)
     
     max_tokens = ((gpt4_maxtokens - response_maxtokens) - 20) - (len(list(tokenizer.encode(analysis_template_string))) + len(list(tokenizer.encode(question))))
@@ -197,4 +217,4 @@ def main(question):
     return response.content
 
 if __name__ == "__main__":
-    main("test")
+    main("Alfred arbeitet in einer Fabrik und schläft wo während er am Fließband arbeitet. Es entsteht ein erheblicher Schaden. Kann er zu Schadenersatz verurteilt werden?")
