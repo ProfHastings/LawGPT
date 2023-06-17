@@ -65,12 +65,18 @@ Skaliere die Relevanz auf einer Skala von 1 bis 10 und antworte mit dieser Zahl
 ranking_template = PromptTemplate.from_template(ranking_template_string)
 
 #template for database query prompt
-dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du antwortest nur genau mit dem was von dir gefragt ist und ausführlich.")
+dataquery_system_message = SystemMessage(content="You are a lawyer and only write the answers to questions and only answer in german language")
 dataquery_template_string = """
-Ein Klient kommt zu dir mit der folgenden Frage.
+Generate a paragraph of a court decision from the U.S. Supreme Court Database in german language about the topic of:
 "{question}"
-Schreibe eine Liste mit den wichtigsten rechtlichen Fragen die sich zu dieser Situation stellen. Verwende die genaue juristische Terminologie.
+Do not mention the US supreme court an write as if this is a real case
 """
+#dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du antwortest nur genau mit dem was von dir gefragt ist und ausführlich.")
+#dataquery_template_string = """
+#Ein Klient kommt zu dir mit der folgenden Frage.
+#"{question}"
+#Schreibe eine Liste mit den wichtigsten rechtlichen Fragen die sich zu dieser Situation stellen. Verwende die genaue juristische Terminologie.
+#"""
 #dataquery_system_message = SystemMessage(content="Du bist ein im österreichischen Recht erfahrener Anwalt. Du schreibst nur die Antwort auf Fragen.")
 #dataquery_template_string = """
 #Du hast die folgende informell formulierte Frage:"
@@ -195,7 +201,7 @@ def smart_retriever(question):
 def main(question):
     retriever = get_retriever()
     dataquery = get_dataquery(question)
-    #dataquery = "Verletzt der Arbeitgeber schuldhaft seine Fürsorgepflicht und entsteht dem Arbeitnehmer ein Schaden, so trifft den Arbeitgeber eine Schadenersatzpflicht (vgl Pfeil in Schwimann, ABGB³ V § 1157 Rz 32; Marhold in Marhold/Burgstaller/Preyer, AngG § 18 Rz 120 ua). Der Kläger macht Gesundheitsschäden und damit zusammenhängenden Verdienstentgang und sonstige Kosten geltend, die auf die Verletzung der Abhilfeverpflichtung der Beklagten zurückzuführen sein sollen. Diese Schadenersatzansprüche unterliegen den allgemeinen Voraussetzungen des Schadenersatzrechts (vgl Mosler in ZellKomm² AngG § 18 Rz 132 ua), insbesondere auch in Bezug auf das Vorliegen eines Schadens und dessen Verursachung durch den Schädiger. Für beides trägt der Geschädigte die Beweislast. Der Kläger hat dazu auch entsprechende Behauptungen in erster Instanz aufgestellt, die von der Beklagten bestritten wurden. Dafür, dass beim Kläger eine psychische Erkrankung eingetreten ist, scheinen vom Kläger vorgelegte ärztliche Befunde zu sprechen. Konkrete Tatsachenfeststellungen des Erstgerichts oder Außerstreitstellungen der Parteien dazu fehlen aber bisher. Da die vom Kläger behauptete psychische Erkrankung bisher nicht festgestellt wurde, wurden auch keine Feststellungen getroffen, wodurch diese Erkrankung nun tatsächlich verursacht wurde. Der Kläger steht auf dem Standpunkt, dass seine psychische Erkrankung auf die von der Beklagten nicht unterbundenen Beschimpfungen und Schikanen zurückzuführen sei. Dies wurde von der Beklagten bestritten. Die Frage der Verursachung der vom Kläger verursachten Schäden harrt daher einer Klärung im zweiten Rechtsgang. Dabei ist auf den Zeitraum der Verletzung der Fürsorgepflicht ab 7. 11. 2008 abzustellen. "
+    #dataquery = """Mit ihrer Ansicht, daß dem Beklagten die Beweislast dafür, daß der erwachsene Schaden geringer als der Vergütungsbetrag sei, treffe, übersieht sie die bereits vom Berufungsgericht angeführte Judikatur des Obersten Gerichtshof, demnach der Arbeitnehmer im Hinblick auf die Unzumutbarkeit des Negativbeweises von der Beweispflicht der tatsächlichen Schadenshöhe entbunden wird. Wenn die Höhe des tatsächlichen Schadens nicht feststeht, dann bedeutet das nur, daß der wirkliche Schaden als Mäßigungskriterium unberücksichtigt zu bleiben hat (DRdA 1993/27 [Reissner] = SZ 65/102). Der Revision der Klägerin kommt somit keine Berechtigung zu. Zur Revision des Beklagten:"""
     results = retriever.get_relevant_documents(dataquery)
     #results = smart_retriever(question)
     #gc.collect()
