@@ -24,18 +24,21 @@ def chunks(iterable, batch_size=10):
         chunk = tuple(itertools.islice(it, batch_size))
 
 def process_chunk_upsert(index, batch_to_upsert, max_retries=10):
-    for attempt in range(max_retries):
-        try:
-            upsert_response = index.upsert(vectors=batch_to_upsert)
-            if upsert_response.error:
-                raise Exception(f'Error during upsert: {upsert_response.error}')
-            break
-        except Exception:
-            if attempt < max_retries - 1:  # i.e. if it's not the last attempt
-                continue
-            else:
-                print("FAILURE")
-                return batch_to_upsert
+    batch_size = 50
+    for i in range(0, len(batch_to_upsert), batch_size):
+        batch = batch_to_upsert[i:i+batch_size]
+        for attempt in range(max_retries):
+            try:
+                upsert_response = index.upsert(vectors=batch)
+                if upsert_response.error:
+                    raise Exception(f'Error during upsert: {upsert_response.error}')
+                break
+            except Exception:
+                if attempt < max_retries - 1:
+                    continue
+                else:
+                    print("FAILURE")
+                    return batch_to_upsert[i+batch_size:]  # if there's a failure, return the rest of the vectors
     return []
 
 def process_embedding(doc, metadata):
@@ -46,7 +49,7 @@ def process_embedding(doc, metadata):
         return item_to_upsert, None
     except Exception as e:
         print(f"Embedding failed with error: {str(e)}")
-        return None, f"{metadata['long_source']}_{j}"  # Changed to return the ID of the failed document
+        return None, f"{metadata['long_source']}_{j}"
 
 ps = list(Path("database/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
@@ -73,7 +76,7 @@ for i, p in enumerate(ps):
         text = f.read().decode('utf-8', errors='ignore')
         text = text.replace('\xa0', ' ').replace('\r\n', '\n')
         lines = text.split("\n")
-        short_source = ""  # default if no Geschäftszahl found
+        short_source = ""
         for j, line in enumerate(lines):
             if "Geschäftszahl" in line and j < len(lines) - 1:
                 short_source = lines[j + 1]
@@ -89,12 +92,12 @@ for i, p in enumerate(ps):
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
         embedding_counter += 1
-        item_to_upsert, failed_id = process_embedding(doc, metadata)  # Change here
+        item_to_upsert, failed_id = process_embedding(doc, metadata)
         if item_to_upsert is not None:
             batch_to_upsert.append(item_to_upsert)
         else:
             with open('failed_chunks.txt', 'a') as failed_chunks_file:
-                failed_chunks_file.write(f"{failed_id}\n")  # Write the ID of the failed document
+                failed_chunks_file.write(f"{failed_id}\n")
 
         if len(batch_to_upsert) >= 10:
             failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
@@ -104,7 +107,6 @@ for i, p in enumerate(ps):
                         failed_chunks_file.write(f"{item['id']}\n")
             batch_to_upsert = []
 
-    # Upsert remaining items in the batch, if any
     if batch_to_upsert:
         failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
         if failed_chunk:
