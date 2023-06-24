@@ -46,7 +46,7 @@ def process_embedding(doc, metadata):
         return item_to_upsert, None
     except Exception as e:
         print(f"Embedding failed with error: {str(e)}")
-        return None, doc
+        return None, f"{metadata['long_source']}_{j}"  # Changed to return the ID of the failed document
 
 ps = list(Path("database/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
@@ -89,33 +89,33 @@ for i, p in enumerate(ps):
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
         embedding_counter += 1
-        #if(embedding_counter < 20000):
-        #    continue
-        item_to_upsert, failed_doc = process_embedding(doc, metadata)
+        item_to_upsert, failed_id = process_embedding(doc, metadata)  # Change here
         if item_to_upsert is not None:
             batch_to_upsert.append(item_to_upsert)
         else:
-            failed_chunks.append([failed_doc])
+            with open('failed_chunks.txt', 'a') as failed_chunks_file:
+                failed_chunks_file.write(f"{failed_id}\n")  # Write the ID of the failed document
 
         if len(batch_to_upsert) >= 10:
             failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
             if failed_chunk:
-                failed_chunks.append(failed_chunk)
+                with open('failed_chunks.txt', 'a') as failed_chunks_file:
+                    for item in failed_chunk:
+                        failed_chunks_file.write(f"{item['id']}\n")
             batch_to_upsert = []
 
     # Upsert remaining items in the batch, if any
     if batch_to_upsert:
         failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
         if failed_chunk:
-            failed_chunks.append(failed_chunk)
+            with open('failed_chunks.txt', 'a') as failed_chunks_file:
+                for item in failed_chunk:
+                    failed_chunks_file.write(f"{item['id']}\n")
 
     elapsed_time = time.time() - start_time
     print(f"Processed {i} files in {elapsed_time:.2f} seconds.")
     print(f"Processed {embedding_counter} embeddings in {elapsed_time:.2f} seconds.")
 
-print("Failed chunks:")
-for chunk in failed_chunks:
-    for item in chunk:
-        print(item['id'])
+print("Failed chunks stored in 'failed_chunks.txt'")
 print("Created Embeddings:")
 print(embedding_counter)
