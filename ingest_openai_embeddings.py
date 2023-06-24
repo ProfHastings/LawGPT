@@ -38,7 +38,7 @@ def process_chunk_upsert(index, batch_to_upsert, max_retries=10):
                     continue
                 else:
                     print("FAILURE")
-                    return batch_to_upsert[i+batch_size:]  # if there's a failure, return the rest of the vectors
+                    return batch_to_upsert[i+batch_size:]
     return []
 
 def process_embedding(doc, metadata):
@@ -92,12 +92,15 @@ for i, p in enumerate(ps):
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
         embedding_counter += 1
-        item_to_upsert, failed_id = process_embedding(doc, metadata)
-        if item_to_upsert is not None:
-            batch_to_upsert.append(item_to_upsert)
-        else:
-            with open('failed_chunks.txt', 'a') as failed_chunks_file:
-                failed_chunks_file.write(f"{failed_id}\n")
+        item_id = f"{metadata['long_source']}_{j}"
+        fetch_response = index.fetch(ids=[item_id])
+        if item_id not in fetch_response.results.keys():
+            item_to_upsert, failed_id = process_embedding(doc, metadata)
+            if item_to_upsert is not None:
+                batch_to_upsert.append(item_to_upsert)
+            else:
+                with open('failed_chunks.txt', 'a') as failed_chunks_file:
+                    failed_chunks_file.write(f"{failed_id}\n")
 
         if len(batch_to_upsert) >= 10:
             failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
