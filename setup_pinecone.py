@@ -17,7 +17,6 @@ pinecone.init(api_key=api_key, environment=env)
  # create the index
 
 metadata_config = {
-    "indexed": ["source"]
 }
 
 pinecone.create_index(
