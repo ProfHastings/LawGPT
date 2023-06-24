@@ -92,9 +92,12 @@ for i, p in enumerate(ps):
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
         embedding_counter += 1
+        #if(embedding_counter < 30000):
+        #    continue
         item_id = f"{metadata['long_source']}_{j}"
         fetch_response = index.fetch(ids=[item_id])
-        if fetch_response is None:
+        #print(fetch_response['vectors']=={})
+        if fetch_response['vectors']=={}:
             item_to_upsert, failed_id = process_embedding(doc, metadata)
             if item_to_upsert is not None:
                 batch_to_upsert.append(item_to_upsert)
