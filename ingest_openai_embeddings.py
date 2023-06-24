@@ -38,6 +38,16 @@ def process_chunk_upsert(index, batch_to_upsert, max_retries=10):
                 return batch_to_upsert
     return []
 
+def process_embedding(doc, metadata):
+    try:
+        dense_embedding = openai_embedding_model.embed_documents([doc])[0]
+        sparse_embedding = splade.encode_documents([doc])[0]
+        item_to_upsert = {"id": f"{metadata['long_source']}_{j}", "values": dense_embedding, "metadata": metadata, "sparse_values": sparse_embedding} 
+        return item_to_upsert, None
+    except Exception as e:
+        print(f"Embedding failed with error: {str(e)}")
+        return None, doc
+
 ps = list(Path("AngG/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -81,10 +91,11 @@ for i, p in enumerate(ps):
         embedding_counter += 1
         if(embedding_counter < 20000):
             continue
-        dense_embedding = openai_embedding_model.embed_documents([doc])[0]
-        sparse_embedding = splade.encode_documents([doc])[0]
-        item_to_upsert = {"id": f"{metadata['long_source']}_{j}", "values": dense_embedding, "metadata": metadata, "sparse_values": sparse_embedding} 
-        batch_to_upsert.append(item_to_upsert)
+        item_to_upsert, failed_doc = process_embedding(doc, metadata)
+        if item_to_upsert is not None:
+            batch_to_upsert.append(item_to_upsert)
+        else:
+            failed_chunks.append([failed_doc])
 
         if len(batch_to_upsert) >= 10:
             failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
