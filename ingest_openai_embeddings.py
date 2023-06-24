@@ -101,8 +101,10 @@ for i, p in enumerate(ps):
             else:
                 with open('failed_chunks.txt', 'a') as failed_chunks_file:
                     failed_chunks_file.write(f"{failed_id}\n")
+        else:
+            print(f"ID: {item_id} is already present in the database.")
 
-        if len(batch_to_upsert) >= 10:
+        if len(batch_to_upsert) >= 30:
             failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
             if failed_chunk:
                 with open('failed_chunks.txt', 'a') as failed_chunks_file:
