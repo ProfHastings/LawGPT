@@ -23,12 +23,27 @@ def chunks(iterable, batch_size=10):
         yield chunk
         chunk = tuple(itertools.islice(it, batch_size))
 
+def process_chunk_upsert(index, batch_to_upsert, max_retries=10):
+    for attempt in range(max_retries):
+        try:
+            upsert_response = index.upsert(vectors=batch_to_upsert)
+            if upsert_response.error:
+                raise Exception(f'Error during upsert: {upsert_response.error}')
+            break
+        except Exception:
+            if attempt < max_retries - 1:  # i.e. if it's not the last attempt
+                continue
+            else:
+                print("FAILURE")
+                return batch_to_upsert
+    return []
+
 ps = list(Path("AngG/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name, device=device)
 splade = SpladeEncoder(device=device)
-openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002")
+openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002", max_retries=50)
 
 api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
 env = "eu-west4-gcp"
@@ -40,7 +55,7 @@ print(f"Total files to process: {len(ps)}")
 start_time = time.time()
 
 embedding_counter = 0
-MAX_RETRIES = 10
+MAX_RETRIES = 100
 failed_chunks = []
 
 for i, p in enumerate(ps):
@@ -72,35 +87,16 @@ for i, p in enumerate(ps):
         batch_to_upsert.append(item_to_upsert)
 
         if len(batch_to_upsert) >= 10:
-            for attempt in range(MAX_RETRIES):
-                try:
-                    upsert_response = index.upsert(vectors=batch_to_upsert)
-                    if upsert_response.error:
-                        raise Exception(f'Error during upsert: {upsert_response.error}')
-                    break
-                except Exception:
-                    if attempt < MAX_RETRIES - 1:  # i.e. if it's not the last attempt
-                        continue
-                    else:
-                        print("FAILURE")
-                        failed_chunks.append(batch_to_upsert)
-                        break
+            failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
+            if failed_chunk:
+                failed_chunks.append(failed_chunk)
             batch_to_upsert = []
 
     # Upsert remaining items in the batch, if any
     if batch_to_upsert:
-        for attempt in range(MAX_RETRIES):
-            try:
-                upsert_response = index.upsert(vectors=batch_to_upsert)
-                if upsert_response.error:
-                    raise Exception(f'Error during upsert: {upsert_response.error}')
-                break
-            except Exception:
-                if attempt < MAX_RETRIES - 1:  # i.e. if it's not the last attempt
-                    continue
-                else:
-                    failed_chunks.append(batch_to_upsert)
-                    break
+        failed_chunk = process_chunk_upsert(index, batch_to_upsert, MAX_RETRIES)
+        if failed_chunk:
+            failed_chunks.append(failed_chunk)
 
     elapsed_time = time.time() - start_time
     print(f"Processed {i} files in {elapsed_time:.2f} seconds.")
@@ -108,6 +104,7 @@ for i, p in enumerate(ps):
 
 print("Failed chunks:")
 for chunk in failed_chunks:
-    print(chunk)
+    for item in chunk:
+        print(item['id'])
 print("Created Embeddings:")
 print(embedding_counter)
