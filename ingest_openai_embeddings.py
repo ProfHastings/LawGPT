@@ -94,7 +94,7 @@ for i, p in enumerate(ps):
         embedding_counter += 1
         item_id = f"{metadata['long_source']}_{j}"
         fetch_response = index.fetch(ids=[item_id])
-        if item_id not in fetch_response.results.keys():
+        if fetch_response is None:
             item_to_upsert, failed_id = process_embedding(doc, metadata)
             if item_to_upsert is not None:
                 batch_to_upsert.append(item_to_upsert)
