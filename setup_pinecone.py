@@ -9,7 +9,7 @@ api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
 env = "eu-west4-gcp"
 
 #index_name = "justiz"
-index_name = "justiz-openai"
+index_name = "justiz-openai-full"
 
 pinecone.init(api_key=api_key, environment=env)
 #pinecone.whoami()

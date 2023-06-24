@@ -48,18 +48,18 @@ def process_embedding(doc, metadata):
         print(f"Embedding failed with error: {str(e)}")
         return None, doc
 
-ps = list(Path("AngG/").glob("**/*.txt"))
+ps = list(Path("database/").glob("**/*.txt"))
 model_name = 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = SentenceTransformer(model_name, device=device)
 splade = SpladeEncoder(device=device)
-openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002", max_retries=50)
+openai_embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002", max_retries=10)
 
 api_key = "953b2be8-0621-42a1-99db-8480079a9e23"
 env = "eu-west4-gcp"
 
 pinecone.init(api_key=api_key, environment=env)
-index = pinecone.Index("justiz-openai")
+index = pinecone.Index("justiz-openai-full")
 
 print(f"Total files to process: {len(ps)}")
 start_time = time.time()
@@ -89,8 +89,8 @@ for i, p in enumerate(ps):
     batch_to_upsert = []
     for j, (doc, metadata) in enumerate(zip(cleaned_splits, metadatas)):
         embedding_counter += 1
-        if(embedding_counter < 20000):
-            continue
+        #if(embedding_counter < 20000):
+        #    continue
         item_to_upsert, failed_doc = process_embedding(doc, metadata)
         if item_to_upsert is not None:
             batch_to_upsert.append(item_to_upsert)
