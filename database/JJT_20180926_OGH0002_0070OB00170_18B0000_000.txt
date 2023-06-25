@@ -1,0 +1,46 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.09.2018
+Geschäftszahl
+7Ob170/18b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei C***** M*****, vertreten durch Mag. Helmut Gruber, Rechtsanwalt in St. Jakob, gegen die beklagte Partei A***** AG, *****, vertreten durch die MUSEY rechtsanwalt gmbh in Salzburg, wegen 15.624 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 28. Juni 2018, GZ 3 R 58/18x-23, mit dem das Urteil des Landesgerichts Salzburg vom 28. März 2018, GZ 9 Cg 3/17t-19, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 1.096,56 EUR (darin 182,76 EUR an Umsatzsteuer) bestimmten Kosten ihrer Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Kläger war bei der Beklagten unfallversichert. Dem Versicherungsvertrag lagen die Allgemeinen Unfallsversicherungsbedingungen (AUVB 2006) zugrunde. Diese lauten auszugsweise:
+„Artikel 7 - Welche Leistungen können bei dauernder Invalidität versichert werden?
+1. Dauernde Invalidität mit Kapitalleistung
+1.1. Welche Voraussetzungen für die Leistung bestehen und in welcher Art erfolgt die Leistung?
+-	Die versicherte Person ist innerhalb eines Jahres nach dem Unfall auf Dauer in ihrer körperlichen oder geistigen Funktionsfähigkeit (dauernde Invalidität) durch den Unfall beeinträchtigt.
+...
+Artikel 18 - Welche sachlichen Begrenzungen gibt es?
+Sachliche Begrenzungen des Versicherungsschutzes
+1. Eine Versicherungsleistung wird nur für die durch den eingetretenen Unfall hervorgerufenen Folgen (körperliche Schädigung oder Tod) erbracht.
+...
+3. Auswirkungen von Vorerkrankungen, Gebrechen oder Abnützungserscheinungen
+3.1. Haben Krankheiten, Gebrechen oder Abnützungserscheinungen, die schon vor dem Unfall bestanden haben, die Unfallfolgen beeinflusst, ist
+-	im Falle von dauernder Invalidität (gemäß Art. 7 Pkt. 1) der Invaliditätsgrad,
+-	…
+entsprechend dem Anteil der Krankheit, des Gebrechens oder der Abnützungserscheinung zu kürzen.”
+Der Kläger erlitt einen Unfall im Sinn der vereinbarten Versicherungsbedingungen, als er beim Aussteigen aus seinem Auto ausrutschte, mit dem rechten Ellbogen am Holm des Pkws anschlug und auf den rechten Ellbogen stürzte.
+Dieser Unfall führte beim Kläger zu keiner Schädigung des Nervus ulnaris, aber zu einer Dekompensation der Symptome einer bereits davor bestandenen Schädigung des Nervus ulnaris in Form eines chronischen Druckschadens mit ausgeprägter Arthrose. Hätte beim Kläger keine Vorschädigung des Nervus ulnaris bestanden, wäre es durch den Unfall nicht zu den durch die Dekompensation eingetretenen Beschwerden gekommen.
+Das Berufungsgericht bestätigt das klageabweisende Urteil des Erstgerichts und sprach über Abänderungsantrag des Klägers nachträglich aus, dass die ordentliche Revision doch zulässig sei. Der Kläger zeige auf, dass im Lichte der Entscheidung 7 Ob 130/09g zum Zusammenwirken einer Diabetes Mellitus mit einer bei einem Unfall erlittenen Verletzung das Berufungsgericht bei seiner Entscheidung allenfalls die Reichweite der in der Entscheidung 7 Ob 103/15w vertretenen Auffassung zur Quantifizierung der Leistungskürzung bei der Mitwirkung vorhandener Krankheiten und Gebrechen verkannt habe und es, wie dies in der Literatur (Ertl, Rechtsprechungsübersicht Versicherungsrecht, ecolex 2016, 944) vertreten werde, einer weiteren Klarstellung durch das Höchstgericht bedürfe.
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Der Kläger geht in seiner Revision in tatsächlicher Hinsicht davon aus, dass die Sachverständige für die von ihm erlittenen Beschwerden einen „Mitwirkungsanteil“ der Unfallfolgen von 50 % angenommen habe. Damit setzt sich der Kläger im Ergebnis über die eingangs zusammengefasst wiedergegebenen Feststellungen des Erstgerichts hinweg. Die Revision ist insofern nicht gesetzmäßig ausgeführt.
+2.1. Der Kläger bestreitet nicht, dass bei ihm eine im Sinn des Art 18.3.1. AUVB 2006 beachtliche „Abnutzungserscheinung“ (chronischer Druckschaden mit ausgeprägter Arthrose) bestanden hat.
+2.2. Der Fachsenat hat in der bereits vom Berufungsgericht herangezogenen Entscheidung 7 Ob 103/15w eine mit der vorliegenden Klausel vergleichbare sachliche Begrenzung des Versicherungsschutzes beurteilt und ist dabei zum Ergebnis gekommen:
+„Bei der Quantifizierung des Mitwirkungsanteils (ist) vom konkreten Versicherungsnehmer und seiner individuellen Körpergestaltung auszugehen … . Zu vergleichen ist die versicherte Person, wie sie ist (also mit vorhandenen Gebrechen und Krankheiten) und wie sie auf das Unfallereignis reagiert hat, mit ihrem Zustand ohne das konkrete Gebrechen oder die konkrete Krankheit und wie sie auf den Unfall dann reagiert hätte. Diese Beurteilung erfolgt rein nach medizinischen Gesichtspunkten. Die Frage des Anteils eines Gebrechens oder einer Krankheit an den Unfallfolgen ist eine – in aller Regel nur mit Hilfe eines ärztlichen Gutachtens zu lösende – Tatfrage … .“
+2.3. Nach den Feststellungen führte der Unfall beim Kläger zu keiner Schädigung des Nervus ulnaris, aber zu einer Dekompensation der Symptome der beschriebenen Vorschädigung. Diese Beschwerden wären allein aufgrund des Unfalls ohne die bestandene Vorschädigung nicht eingetreten. Der Mitwirkungsanteil der vorhandenen Vorschädigung beträgt daher 100 %. Die Vorinstanzen haben mit ihren klageabweisenden Entscheidungen die in 7 Ob 103/15w dargestellten Grundsätze – entgegen der Ansicht des
+Klägers – nicht verkannt, sondern auf den vorliegenden Einzelfall richtig angewendet.
+2.4. Bei der Entscheidung 7 Ob 130/09g war der Mitwirkungsanteil der Vorerkrankung im Revisionsverfahren unstrittig. Die von Ertl (Rechtsprechungsübersicht Versicherungsrecht, ecolex 2016, 944 [945]) zur Vorentscheidung 7 Ob 103/15w erörterten Kausalitätsfragen stellen sich hier nicht.
+3.1. Eine Rechtsfrage im Sinn des § 502 Abs 1 ZPO liegt somit nicht vor. Die Revision ist daher nicht zulässig.
+3.2. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässsigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00170.18B.0926.000

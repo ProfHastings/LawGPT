@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.11.2022
+Geschäftszahl
+17Ob13/22v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende, die Hofrätinnen Mag. Malesich und Dr. Kodek und die Hofräte Dr. Stefula und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei Mag. S* als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der E* GmbH, vertreten durch Graf Isola Rechtsanwälte GmbH in Graz, gegen die beklagte Partei Dr. H*, vertreten durch Mag. Christian Podoschek, Rechtsanwalt in Wien, wegen restlicher 184.452,13 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 15. Juni 2022, GZ 2 R 46/22k-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Bejahung der Benachteiligungsabsicht des Beklagten iSd § 28 Z 1 IO durch die Vorinstanzen stellt keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung dar:
+[2] 		1.1. In Benachteiligungsabsicht handelt der Schuldner, wenn er weiß und will, dass durch seine Rechtshandlungen Gläubiger benachteiligt werden; sein Wille muss zumindest in der Form des dolus eventualis auf die Herbeiführung dieses Erfolgs gerichtet sein, wenn er auch nicht der einzige Beweggrund sein muss (RS0064166).
+[3] 		1.2. Der beklagte Alleingesellschafter und (Allein-)Geschäftsführer der späteren Schuldnerin hoffte zum Zeitpunkt der angefochtenen Zahlung in Höhe von 625.000 EUR an ihn (als nachrangigen Gläubiger) zwar, dass die Schuldnerin den von ihr angestrengten Zivilprozess gegen eine Dritte gewinnen werde, und schätzte die Chancen dafür auch gut ein. Allerdings wusste er, dass die Schuldnerin mehrere vorrangig zu befriedigende Gläubiger hatte, ihr Eigenkapital seit Jahren durchgängig negativ war und auch weitere Forderungen, etwa aus Gerichtsverfahren und anwaltlicher Beratung, entstehen könnten, sowie dass die Befriedigung der anderen Gläubiger der Schuldnerin ausschließlich vom Obsiegen in diesem Zivilprozess abhängig war, also im Fall des Unterliegens unmöglich wäre. Deshalb war ihm bewusst und er fand sich billigend damit ab, dass durch die Leistung der angefochtenen Zahlung an ihn die Befriedigung der vorrangigen Gläubiger jedenfalls zumindest erheblich verzögert und erschwert würde.
+[4] 		1.3. Benachteiligungsabsicht ist zwar dann zu verneinen, wenn der Schuldner eine mögliche Insolvenz und Gläubigerbenachteiligung nicht bedenkt (vgl 3 Ob 90/11y); davon kann hier aber nach den getroffenen Feststellungen keine Rede sein.
+[5] 		2. Der Beklagte hat der Schuldnerin zwar in der Folge einen Betrag von insgesamt 440.547,87 EUR zur Erfüllung eines von einem vorrangigen Gläubiger erwirkten Titels zur Verfügung gestellt, um damit die durch die angefochtene Zahlung entstandene Gläubigerbenachteiligung (teilweise) zu beseitigen. Seine weiteren, in dritter Instanz allein relevanten weiteren Zahlungen an die Schuldnerin in Höhe von 184.452,13 EUR leistete er allerdings nach den getroffenen Feststellungen gerade nicht zum Zweck der Beseitigung der Gläubigerbenachteiligung; vielmehr verfolgte er damit den Zweck, die Schuldnerin und den auch in seinem eigenen wirtschaftlichen Interesse liegenden Zivilprozess bis zu dessen Abschluss zu finanzieren; der Ausgleich der Gläubigerbenachteiligung sollte nicht durch diese Zahlungen, sondern (nur) durch die im Fall des Obsiegens entstehende Zahlungsverpflichtung der Prozessgegnerin erfolgen. Soweit der Revisionswerber in Widerspruch zu diesen Feststellungen ausführt, er habe die in dritter Instanz noch relevanten Beträge geleistet, um den Rückforderungsanspruch der Schuldnerin aufgrund der angefochtenen Zahlung zu erfüllen, ist seine Rechtsrüge nicht gesetzmäßig ausgeführt (vgl RS0043312 [T12, T14]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00013.22V.1117.000

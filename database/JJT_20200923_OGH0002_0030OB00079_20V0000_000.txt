@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2020
+Geschäftszahl
+3Ob79/20v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr. Roch als Vorsitzenden sowie den Hofrat Hon.-Prof. PD Dr. Rassi, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dipl.-Ing. W***** Gesellschaft mbH, *****, vertreten durch Allmayer-Beck Stockert Rechtsanwälte GmbH in Wien, gegen die beklagte Partei K***** GmbH, *****, vertreten durch Mag. Claudia Vitek, Rechtsanwältin in Wien, wegen 742.542,35 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Februar 2020, GZ 30 R 15/20a-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 1170b Abs 1 ABGB kann der Werkunternehmer vom Besteller ab Vertragsabschluss eine Sicherstellung für das noch ausstehende Entgelt bis zur Höhe von (hier:) 20 % des vereinbarten Entgelts verlangen. Die höhenmäßige Begrenzung der Sicherstellung durch das „noch ausstehende Entgelt“ führt nur dann zu einer Reduktion der absoluten Höchstgrenze (von hier 20 %), wenn diese den insgesamt noch ausständigen Vergütungsanspruch übersteigt (RIS-Justiz RS0131658).
+[2] 		2. Die Parteien stellten in erster Instanz im Zusammenhang mit der von der klagenden Werkunternehmerin geforderten Sicherstellung das vereinbarte Bruttogesamtentgelt mit 3.823.848,88 EUR außer Streit. Nach ihren Behauptungen hat die Beklagte bis zum Sicherstellungsbegehren der Klägerin Zahlungen von insgesamt 2.934.053,23 EUR geleistet.
+[3] 		3. Dass die Vorinstanzen das noch ausstehende Entgelt – also die „Deckelung“ der Sicherstellung – durch Subtraktion der geleisteten Zahlungen vom vereinbarten Gesamtentgelt ermittelten, begründet schon deshalb keine erhebliche Rechtsfrage, weil die Beklagte überhaupt keine Sicherstellung erlegt hat. Selbst wenn die von der Klägerin begehrte Sicherstellung (in Höhe von 759.088,40 EUR) überhöht gewesen sein sollte, hätte dies nämlich nicht die Unbeachtlichkeit ihres Begehrens, sondern nur dessen Reduktion auf den zulässigen Inhalt zur Folge gehabt (4 Ob 209/18s mwN).
+[4] 		4. Dass die Vorinstanzen die von der Klägerin für die Erbringung der Sicherstellung gesetzte Frist von 13 Tagen sowie die Nachfrist von sieben Tagen als ausreichend qualifizierten, stellt ebenfalls keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung dar. Es kann keine Rede davon sein, es wäre notorisch, dass eine Bankgarantie innerhalb von 20 Tagen faktisch nicht zu erlangen sei.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0030OB00079.20V.0923.000

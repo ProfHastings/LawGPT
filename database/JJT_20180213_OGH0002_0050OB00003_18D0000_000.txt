@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.02.2018
+Geschäftszahl
+5Ob3/18d
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Sachwalterschaftssache des Betroffenen L* W*, geboren am *, vertreten durch Dr. Kurt-Heinrich Wolfmair, Rechtsanwalt in Linz, über dessen außerordentlichen Revisionsrekurs gegen den Beschluss des Landesgerichts St. Pölten als Rekursgericht vom 20. September 2017, AZ 23 R 361/17m-207, den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Einleitung eines Gesetzesprüfungsverfahrens gemäß Art 89 Abs 2 iVm Art 140 BVG vor dem Verfassungsgerichtshof wird zurückgewiesen.
+2. Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Text
+Begründung:
+Im Verfahren zu AZ 10 P 35/11g des Bezirksgerichts Scheibbs wird geprüft, ob für den Betroffenen ein Sachwalter bestellt werden muss. Der Betroffene lehnte den im Verfahren bestellten Sachverständigen als befangen ab. Das Erstgericht wies diesen Antrag ab. Den Rekurs des Betroffenen wies das Rekursgericht unter Hinweis auf die Rechtsmittelbeschränkungen des § 366 ZPO iVm § 35 AußStrG als unzulässig zurück. Gegen diese Entscheidung des Rekursgerichts richtet sich der außerordentliche Revisionsrekurs des Betroffenen, mit dem er die Anfechtung der Rechtsmittelbeschränkungen des § 366 Abs 1 ZPO iVm § 35 AußStrG als verfassungswidrig und – nach Aufhebung dieser Bestimmungen – die inhaltliche Erledigung seines Rekurses anstrebt.
+Rechtliche Beurteilung
+Der Antrag auf Einleitung eines Gesetzesprüfungsverfahrens und der Revisionsrekurs sind unzulässig.
+1. Antrag auf Einleitung eines Gesetzesprüfungsverfahrens
+Das Gericht hat von Amts wegen darüber zu entscheiden, ob die Voraussetzungen für die Anrufung des Verfassungsgerichtshofs vorliegen. Eine Prozesspartei hat keinen verfahrensrechtlichen Anspruch, die Einleitung eines Gesetzesprüfungsverfahrens vor dem Verfassungsgerichtshof zu beantragen. Ein solcher Antrag ist zurückzuweisen (RIS-Justiz RS0058452).
+2. Unzulässigkeit des Revisionsrekurses
+2.1. (Auch) die Zurückweisung eines Rekurses durch das Rekursgericht aus formellen Gründen ist nur unter den Voraussetzungen des § 62 Abs 1 AußStrG mit Revisionsrekurs beim Obersten Gerichtshof anfechtbar (RIS-Justiz RS0120974).
+2.2. Eine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG liegt hier nicht vor. Nach ständiger Rechtsprechung ergibt sich aus § 35 AußStrG iVm § 366 Abs 1 ZPO, dass ein die Ablehnung verwerfender Beschluss nur mit dem Rekurs gegen die Entscheidung über die Sache angefochten werden kann; ein selbständig erhobener Rekurs ist zurückzuweisen (2 Ob 182/15a, 6 Ob 76/06d; RIS-Justiz RS0040730 [T10, T12]).
+2.3. Verfassungsrechtliche Bedenken in Bezug auf die Rechtsmittelbeschränkung des § 35 AußStrG iVm § 366 Abs 1 ZPO bestehen nicht (VfGH 22. 9. 2015, G 422/2015; 6 Ob 76/06d = RIS-Justiz RS0044057 [T14]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E120871

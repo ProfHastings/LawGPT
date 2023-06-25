@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.10.1975
+Geschäftszahl
+5Ob183/75
+Norm
+ABGB §1500;
+Grundbuchsgesetz §20;
+KO §13;
+KO §76;
+Kopf
+SZ 48/104
+Spruch
+Das Grundbuch ist vom Tag der Konkurseröffnung - unabhängig davon, ob diese Tatsache angemerkt wurde oder nicht gegenüber jedermann gesperrt, sofern nicht eine Übertragung dinglicher Rechte auf Grund eines vor der Konkurseröffnung liegenden Ranges im Sinne des § 13 KO möglich ist; die bücherliche Anmerkung der Konkurseröffnung wirkt nur deklarativ
+OGH 14. Oktober 1975, 5 Ob 183/75 (KG Steyr R 128/75; BG Steyr TZ 1652/75)
+Text
+Mit Beschluß vom 27. Juni 1975 bewilligte das Erstgericht den am selben Tag bei ihm eingelangten Antrag der nunmehrigen Revisionsrekurswerber, ob der Max S allein gehörigen Liegenschaft EZ 476 X auf Grund des Kaufvertrages vom 30. April 1974 je zur Hälfte ihr Eigentumsrecht einzuverleiben.
+Mit dem Hinweis darauf, daß über das Vermögen des Verkäufers und bücherlichen Eigentümers der Liegenschaft, Max S vom Landesgericht Salzburg mit Beschluß vom 5. Mai 1975 der Konkurs eröffnet worden war, erhob der Konkursmasseverwalter gegen den Beschluß des Erstgerichtes Rekurs.
+Das Rekursgericht gab diesem Rekurs Folge und wies das Grundbuchsgesuch der Käufer und nunmehrigen Revisionsrekurswerber ab. Es begrundete diese Entscheidung im wesentlichen damit, daß sich der Rang der begehrten bücherlichen Einverleibung nicht, wie dies gemäß § 13 KO erforderlich wäre, nach einem vor der Konkurseröffnung liegenden Tag richte; die Rangordnung für die beantragte Einverleibung bestimme sich vielmehr im Sinne des § 29 Abs. 1 GBG nach dem Zeitpunkt des Einlangens des Grundbuchsgesuches beim Grundbuchsgericht, also nach der Eröffnung des Konkurses über das Vermögen des Verkäufers und bücherlichen Eigentümers Max S, weshalb der Antrag der Käufer auf Einverleibung ihres Eigentums an der Liegenschaft vom Erstgericht hätte abgewiesen werden müssen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Antragsteller nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Rechtsmittelwerber übersehen die Herrschaft des Intabulationsgrundsatzes im Sinne des § 431 ABGB, wenn sie die Ansicht vertreten, sie seien bereits infolge Übernahme der Liegenschaft vom Verkäufer Eigentümer geworden. Das Gesetz hat, worauf zuletzt mit überzeugenden Argumenten Bydlinski in Klang[2] IV/2, 120 hinwies, die Ausnahmen vom Eintragungsgrundsatz normiert (§ 425 ABGB), weshalb außerhalb dieses Bereiches kein Platz für sogenanntes außerbücherliches Eigentum sein kann. Deshalb kann auch dem Grundbuchgesuch der Antragsteller und nunmehrigen Revisionsrekurswerber nicht der Charakter eines Antrages auf Berechtigung des Grundbuches im Sinne des § 136 GBG zukommen, worauf nämlich die Ausführungen der Rechtsmittelwerber im Ergebnis hinausliefen.
+Zutreffend hat das Rekursgericht darauf hingewiesen, daß die begehrte Einverleibung des Eigentumsrechtes der Antragsteller daran scheitern muß, daß sie für die begehrte Eintragung keinen Rang in Anspruch nehmen können, der vor dem Tag der Konkurseröffnung liegt (§ 13 KO). Ihr Grundbuchgesuch ist erst mehr als sieben Wochen nach der Eröffnung des Konkurses über das Vermögen des Verkäufers und Liegenschaftseigentümers Max S beim Grundbuchsgericht eingelangt. Mangels eines vor der Konkurseröffnung liegenden Grundbuchsranges (§§ 56, 88, 89 GBG) bestimmt sich deshalb der Rang des Gesuches gemäß § 29 GBG nach dem Zeitpunkt des Einlangens des Besuches beim Grundbuchsgericht. Zu diesem Zeitpunkt bestand aber bereits, wie eben dargelegt wurde, die durch die Konkurseröffnung über den Liegenschaftseigentümer ausgelöste Grundbuchsperre, so daß das Gesuch unabhängig davon, ob die Konkurseröffnung im Grundbuch angemerkt war oder nicht - dieser Anmerkung kommt nämlich bloß deklarative Wirkung zu (Bartsch - Pollak, KO[3], 100 Anm. 9 zu § 13 KO) -, schon vom Erstgericht abzuweisen gewesen wäre. Dem gegen den dennoch vollzogenen Eintragungsbeschluß des Erstgerichtes, der offenbar in Unkenntnis der Konkurseröffnung ergangen war, erhobenen Rekurs des Konkursmasseverwalters hat deshalb das Rekursgericht mit Recht Folge gegeben.
+Auf ihr Vertrauen in die grundbuchsrechtlichen Publizitätsvorschriften können sich die Rechtsmittelwerber nicht mit Erfolg berufen, weil diese durch die besonderen Publizitätsvorschriften des Konkursrechtes aufgehoben wurden: Das Grundbuch ist vom Tag der Konkurseröffnung an ungeachtet der Anmerkung dieses Ereignisses jedenfalls und gegenüber jedermann gesperrt, wenn nicht eine Übertragung dinglicher Rechte auf Grund eines vor der Konkurseröffnung liegenden Ranges im Sinne des § 13 KO möglich ist.

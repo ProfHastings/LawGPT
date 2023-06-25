@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.03.2021
+Geschäftszahl
+17Ob15/20k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende und den Hofrat Dr. Musger, die Hofrätinnen Mag. Malesich und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Mag. P***** als Insolvenzverwalter im Konkurs über das Vermögen der S***** GmbH, vertreten durch Kaan Cronenberg & Partner Rechtsanwälte GmbH & Co KG in Graz, gegen die beklagte Partei Ing. J*****, vertreten durch Dr. Peter Semlitsch & Dr. Wolfgang Klobassa Rechtsanwaltspartnerschaft in Voitsberg, wegen 1.577.730,92 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 2. Oktober 2020, GZ 2 R 80/20g-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Bei der Abtretung künftiger Forderungen tritt nur bei der Vollzession ein Rechtsübergang auf den Zessionar schon aufgrund der Zessionsvereinbarung ein, nicht aber bei der Sicherungszession, die zur Wirksamkeit der Zessionsvereinbarung noch des nötigen Modus, also des Publizitätsakts (§ 452 ABGB) bedarf (3 Ob 155/10f mwN; RS0011386). Die Sicherungsabtretung einer Buchforderung wird erst im Zeitpunkt der Eintragung des Buchvermerks oder des Zugangs der Verständigung an den übernommenen Schuldner wirksam (RS0032643). Im Gegensatz zu vollzedierten Forderungen, die aus den Kundenkonten und OP-Listen nach buchhalterischen Grundsätzen ausgebucht werden müssen, bleiben die lediglich zur Sicherung abgetretenen Forderungen in der Buchhaltung des Zedenten erhalten. Zweck des Buchvermerks ist, anderen Gläubigern des Zedenten offen zu legen, dass die Forderung nicht mehr als Haftungsfonds in Betracht kommt (3 Ob 113/11f mwN). Bei den notwendigen Bildschirmabfragen in einer EDV-Debitorenbuchhaltung reicht der kürzelhafte Hinweis auf die erfolgte Zession einer Forderung gegen einen Schuldner auf der ersten Seite und die dort angebrachte Verweisung auf eine Subseite – in der der Zessionar genannt und das Datum der Zession angegeben ist – zur Wirksamkeit des Buchvermerks aus (1 Ob 290/00d = RS0115470).
+[2] 		2. Von den Grundsätzen dieser Rechtsprechung ist das Berufungsgericht nicht abgewichen, indem es den in der EDV-Buchhaltung der Zedentin vorgenommenen Buchvermerk als nicht ausreichend und die sicherungsweise Abtretung folglich als nicht wirksam erachtete, weil der Buchvermerk nach den Feststellungen nicht bereits bei Einsicht in das entsprechende Konto – also auf der ersten Seite – aufscheint, sondern erst in einem zweiten Schritt, nämlich nach Anklicken der betreffenden Forderung. Auf die vom Revisionswerber weiters relevierte Frage, ob die Unterlassung eines Vermerks auch in den OP-Listen (vgl RS0108639) die Publizität dann nicht hindert, wenn solche OP-Listen zum betreffenden Konto gar nicht geführt werden, kommt es daher nicht an.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0170OB00015.20K.0310.000

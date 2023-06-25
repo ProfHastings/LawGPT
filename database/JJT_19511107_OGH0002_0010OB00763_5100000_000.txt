@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.11.1951
+Geschäftszahl
+1Ob763/51
+Norm
+ZPO §146;
+ZPO §148;
+ZPO §149;
+ZPO §153;
+ZPO §154;
+ZPO §462;
+ZPO §482;
+ZPO §491;
+ZPO §519;
+Kopf
+SZ 24/299
+Spruch
+Die Versäumung der mündlichen Berufungsverhandlung kann in einem vom Neuerungsverbot beherrschten Verfahren einen Rechtsnachteil nicht nach sich ziehen, weshalb ein Wiedereinsetzungsantrag abzuweisen ist.
+Gegen die Abweisung eines Wiedereinsetzungsantrages durch das Berufungsgericht ist ein Rekurs zulässig.
+Entscheidung vom 7. November 1951, 1 Ob 763/51.
+I. Instanz: Bezirksgericht Döbling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+In der Rechtssache . C ../51 des Bezirksgerichtes Döbling führten die Kläger aus, daß sie auf Grund eines mit dem Zweitbeklagten abgeschlossenen Mietvertrages vom 27. Juli 1939 Mieter der Bäckerei und der Wohnung Nr. 5 im Hause in Wien, X.gürtel Nr. 1, seien. Während sie einen Teil der durch Kriegseinwirkung zerstörten Wohnung wieder aufgebaut hätten, behauptet der Zweitbeklagte, daß der Mietvertrag hinsichtlich zweier Kabinette, einer Küche und eines Vorzimmers erloschen sei. Im übrigen habe der Zweitbeklagte die obgenannten Räume an den Erstbeklagten weitervermietet. Die beiden Kläger stellten daher das Begehren, den Erstbeklagten zur Räumung dieser Räume zu verhalten und den Zweitbeklagten schuldig zu erkennen, die Benützung dieser Räume den beiden Klägern zu verschaffen und zu dulden, daß die Kläger die zwei Kabinette, eine Küche und ein Vorzimmer wieder in Benützung nehmen.
+Mit Urteil des Bezirksgerichtes Döbling vom 20. März 1951, . C ../51-4, wurde diesem Begehren gegen beide Beklagte stattgegeben. Eine Berufung gegen dieses Urteil wurde nur vom Erstbeklagten erhoben und die Berufungsverhandlung für den 12. Juli 1951 beim Landesgericht für Zivilrechtssachen Wien, Senat .. in Wien, V., Mittersteig 25, anberaumt. Zur Berufungsverhandlung selbst ist der geladene Vertreter der erstbeklagten Partei trotz ausgewiesener Zustellung nicht erschienen. Nachdem die Berufungsverhandlung für geschlossen erklärt und das Urteil der schriftlichen Ausfertigung vorbehalten worden war, erschien der Vertreter der erstbeklagten Partei und brachte vor, daß er die Berufungsverhandlung zufolge einer offenbar irrigen Eintragung dieser Verhandlung im Tagsatzungskalender seiner Kanzlei versäumt habe. Denn er sei zur Berufungsverhandlung rechtzeitig im Justizpalast erschienen und habe dort erst festgestellt, daß die Berufungsverhandlung nicht im Justizpalast, sondern im Gerichtsgebäude Wien, V., Mittersteig 25, stattfinde.
+Am 23. Juli 1951 (Postaufgabe 20. Juli 1951) überreichte der Erstbeklagte beim Berufungsgericht den Antrag auf Wiedereinsetzung in den vorigen Stand gegen die Versäumung der mündlichen Berufungsverhandlung, der darauf gestützt wurde, daß durch die sonst verläßliche Kanzleiangestellte im Kalendervormerk der Ort der Berufungsverhandlung irrtümlich mit Landesgericht für Zivilrechtssachen Wien angegeben wurde und nicht mit Wien, V., Mittersteig 25.
+Das Berufungsgericht hat dem Wiedereinsetzungsantrag nicht Folge gegeben und ausgeführt, daß ein Versehen oder Verschulden einer Kanzleikraft als Wiedereinsetzungsgrund nur dann angesehen werden könne, wenn die gehörige Aufmerksamkeit und Sorgfalt dieser Kanzleiangestellten durch außergewöhnliche Umstände schwer beeinträchtigt oder geradezu aufgehoben worden sei. Davon könne aber im gegenständlichen Falle keine Rede sein; abgesehen davon gehöre es zur Diligenzpflicht des Rechtsanwaltes, in die Ladung Einsicht zu nehmen, bevor er sich zur Verhandlung begibt.
+Der Oberste Gerichtshof gab dem Rekurse der erstbeklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Begründung:
+Zunächst ist zu erörtern, ob im Hinblick auf die Bestimmung des § 519 ZPO. ein Rechtsmittel gegen den angefochtenen Beschluß überhaupt zulässig ist. Diese Frage muß bejaht werden. Die Bestimmung des § 519 ZPO. regelt nur die Zulässigkeit der im Berufungsverfahren ergehenden Beschlüsse des Berufungsgerichtes. Ein solcher liegt aber nicht vor, da es sich bei der Entscheidung über den Wiedereinsetzungsantrag in den vorigen Stand gegen die Versäumung der Berufungsverhandlung nicht um einen Beschluß handelt, der in Ausübung der Berufungsgerichtsbarkeit, deren Grenzen durch § 462 ZPO. gezogen sind, handelt, sondern um eine Entscheidung in einem durch den zweiten Abschnitt des ersten Teiles der Zivilprozeßordnung geregelten Zwischenverfahren, das durch die Bestimmung der §§ 146 bis 154 ZPO. eine besondere Gestaltung erfahren hat.
+Gegen die Abweisung des Antrages auf Wiedereinsetzung in den vorigen Stand steht daher der erstbeklagten Partei gemäß §§ 149 Abs. 2, 153, 514 ZPO. der Rekursweg offen (SZ. XVI/87, JBl. 1935, S. 304).
+Eine Stellungnahme zur Frage der Rechtzeitigkeit der Einbringung des Antrages auf Wiedereinsetzung und des gegenständlichen Rekurses erübrigt sich, weil sowohl der erstere Antrag als auch der gegenständliche Rekurs innerhalb der Frist von acht Tagen überreicht wurde und mit Rücksicht auf die besondere Regelung im § 148 ZPO. der Antrag auf Wiedereinsetzung richtig unmittelbar beim Berufungsgericht überreicht wurde.
+Dem Rekurs selbst kommt Berechtigung nicht zu. Gemäß § 146 ZPO. kann die Wiedereinsetzung in den vorigen Stand bewilligt werden, wenn durch ein unvorhergesehenes und unabwendbares Ereignis eine Partei am rechtzeitigen Erscheinen bei einer Tagsatzung oder an der rechtzeitigen Vornahme einer befristeten Prozeßhandlung verhindert wurde und die dadurch verursachte Versäumung für die Partei einen Rechtsnachteil zur Folge hätte. Da für das Berufungsverfahren einerseits die Bestimmung gilt, daß gemäß § 491 ZPO. im Falle des Ausbleibens einer oder beider Parteien über die Berufung dennoch zu verhandeln und zu entscheiden ist, u. zw. unter Berücksichtigung der in der Berufungsschrift bzw. in der Berufungsbeantwortung vorgebrachten Umstände und Ausführungen und anderseits gemäß § 482 ZPO. das Berufungsverfahren vom Neuerungsverbot beherrscht wird, kann nicht gesagt werden, daß durch die Versäumung der Berufungsverhandlung der Partei ein Rechtsnachteil entstanden ist, zumal im gegenständlichen Falle Tatumstände und Beweise, welche nach dem Inhalt der Prozeßakten in erster Instanz nicht vorgekommen sind, gemäß § 482 Abs. 2 ZPO. nicht angekundigt wurden.
+Ohne daher auf die im Wiedereinsetzungsantrag angeführten Gründe näher eingehen zu müssen, lagen die Voraussetzungen der Bestimmung des § 146 ZPO. nicht vor, weshalb dem Rekurs der Erfolg zu versagen war.

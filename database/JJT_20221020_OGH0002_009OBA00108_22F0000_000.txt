@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2022
+Geschäftszahl
+9ObA108/22f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Fichtenau als Vorsitzende, den Hofrat Mag. Ziegelbauer und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter Mag. Alexander Noga (aus dem Kreis der Arbeitgeber) und Stefan Gschwendt (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei Mag. M*, vertreten durch Mag. Manuel Dietrich, Rechtsanwalt in Hard, gegen die beklagte Partei R*, vertreten durch die Finanzprokuratur, Singerstraße 17–19, 1011 Wien, wegen Feststellung des aufrechten Dienstverhältnisses, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 24. August 2022, GZ 13 Ra 13/22t-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 			1. Nach ständiger Rechtsprechung stellt die Beurteilung, ob im Einzelfall ein Kündigungs- oder Entlassungsgrund verwirklicht wurde, keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO dar (RS0106298).
+[2] 		2. Ob Vertrauensunwürdigkeit iSd § 34 Abs 2 lit b VBG gegeben ist, hängt davon ab, ob für den Dienstgeber die gerechtfertigte Befürchtung besteht, dass seine Belange durch den Vertragsbediensteten gefährdet sind. Maßgebend ist, ob das Verhalten des Vertragsbediensteten das Vertrauen des Dienstgebers so schwer erschüttert hat, dass diesem die Fortsetzung des Dienstverhältnisses nicht mehr zugemutet werden kann. Ob die Befürchtung, dass die Belange des Dienstgebers durch den Vertragsbediensteten gefährdet seien, gerechtfertigt ist, entscheidet allerdings nicht das subjektive Empfinden des Dienstgebers, sondern ein objektiver Maßstab, der nach der Verkehrsauffassung unter Berücksichtigung des Umstandes des Einzelfalls anzuwenden ist (RS0108229).
+[3] 		Auch ob eine Dienstpflichtverletzung gröblich ist, hängt von den Umständen des Einzelfalls ab (RS0105940 [T9]). Damit wird nur dann eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO begründet, wenn dem Berufungsgericht bei seiner Entscheidung eine krasse Fehlbeurteilung unterlaufen ist, die ausnahmsweise zur Wahrung der Rechtssicherheit einer Korrektur bedürfte. Das ist nicht der Fall.
+[4] 		3. Die Vorinstanzen haben das Vorliegen der Entlassungstatbestände des § 34 Abs 2 lit b und d VBG als verwirklicht angesehen, weil der Kläger der nach seiner Remonstration schriftlich wiederholten Weisung, wieder in Präsenz zu unterrichten und dabei die geltenden Hygienebestimmungen einzuhalten, nicht nachgekommen sei und damit unter anderem auch seiner Vorbildfunktion als Lehrer nicht entsprochen habe. Diese Rechtsauffassung hält sich im Rahmen des gesetzlich eingeräumten Ermessensspielraums.
+[5] 		4. Dass die Weisung durch ein unzuständiges Organ erfolgte, behauptet auch die Revision nicht. Soweit ein Verstoß gegen strafgesetzliche Vorschriften behauptet wurde, ist ein solcher nicht ersichtlich und wird vom Kläger auch nicht nachvollziehbar dargelegt.
+[6] 		Die Beurteilung, welches der Mails des Klägers als Remonstration verstanden werden durfte, begründet jedenfalls keine aufzugreifende Rechtsfrage.
+[7] 		5. Der Oberste Gerichtshof hat bereits in den Entscheidungen 8 ObA 42/21s und 8 ObA 11/22h zu aufgrund von Verordnungen einzuhaltenden Corona-Schutzmaßnahmen Stellung genommen und dabei zusammengefasst ausgeführt, dass auch geäußerte Bedenken an der Verfassungsgemäßheit der COVID-19-Verordnungen nichts an der Verpflichtung des Arbeitgebers und mittelbar des Arbeitnehmers, diese zu befolgen, zu ändern vermögen, weil selbst verfassungswidrige Verordnungen bis zu deren Aufhebung durch den Verfassungsgerichtshof anzuwenden wären.
+[8] 		6. Im vorliegenden Fall hat darüber hinaus der Verfassungsgerichtshof zu den vom Kläger geäußerten Bedenken gegen die Gesetzmäßigkeit der COVID-19-Schulverordnung 2020/21, BGBl II 384/2020 sowie der 4.COVID-19-Schutzmaßnahmenverordnung, BGBl II 58/2021 bereits im vom Kläger selbst eingeleiteten Normprüfungsverfahren Stellung genommen und die Behandlung des Antrags mangels hinreichender Aussicht auf Erfolg abgewiesen (V 152-153/2022-3). Für eine Vorlage an den Verfassungsgerichtshof durch die Gerichte aus den vom Kläger in seinem Antrag formulierten Bedenken gegen die Verordnung besteht daher keine Veranlassung.
+[9] 		7. Insgesamt gelingt es dem Kläger daher nicht das Vorliegen einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufzuzeigen. Die außerordentliche Revision des Klägers ist daher zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:009OBA00108.22F.1020.000

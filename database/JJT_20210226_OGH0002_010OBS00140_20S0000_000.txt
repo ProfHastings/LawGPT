@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.2021
+Geschäftszahl
+10ObS140/20s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Faber sowie die fachkundigen Laienrichter Mag. Martin Lotz (aus dem Kreis der Arbeitgeber) und Gerald Fida (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei E*****, Ungarn, gegen die beklagte Partei Österreichische Gesundheitskasse, 1030 Wien, Haidingergasse 1, vertreten durch Stingl und Dieter Rechtsanwälte OG in Graz, wegen Rückforderung von Kinderbetreuungsgeld, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 17. September 2020, GZ 6 Rs 50/20z-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Gemäß § 24c Abs 1 Z 2 KBGG besteht der Anspruch auf Kinderbetreuungsgeld in voller Höhe nur, sofern die zweite bis fünfte Untersuchung des Kindes bis zur Vollendung des 14. Lebensmonats […] vorgenommen und spätestens bis zur Vollendung des 15. Lebensmonats des Kindes durch Vorlage der entsprechenden Untersuchungsbestätigungen nachgewiesen werden.
+[2] 		§ 24c Abs 2 KBGG sieht Ausnahmen von einer Kürzung des Anspruchs vor: Nach § 24c Abs 2 KBGG besteht auch bei Nichterfüllung der in Abs 1 genannten Voraussetzungen Anspruch auf Kinderbetreuungsgeld in voller Höhe, wenn (Z 1:) die Vornahme oder der Nachweis der Untersuchungen nur aus Gründen, die nicht von den Eltern zu vertreten sind, unterbleibt oder (Z 2:) die jeweiligen Nachweise bis spätestens zur Vollendung des 18. Lebensmonats des Kindes nachgebracht werden.
+[3] 		Strittig ist im vorliegenden Fall ausschließlich die Frage, ob die Klägerin den Umstand zu vertreten hat, dass die E-Mail, mit der sie die abfotografierten Nachweise der (rechtzeitig durchgeführten) dritten bis fünften Mutter-Kind-Pass-Untersuchungen ihres Kindes an die ihr von der Beklagten bekannt gegebene E-Mail-Adresse abschickte, bei der Beklagten nicht einlangte.
+[4] 		Der Senat hat bereits mehrfach ausgesprochen, dass die Frage, ob der das Kinderbetreuungsgeld beziehende Elternteil den nicht rechtzeitigen Nachweis einer Mutter-Kind-Pass-Untersuchung zu vertreten hat, immer von den Umständen des Einzelfalls abhängt (RS0130213 [T2]; 10 ObS 88/16p SSV-NF 30/53; 10 ObS 15/20h), weshalb in der Regel keine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO vorliegt.
+[5] 		Die Beurteilung durch das Berufungsgericht bewegt sich im Rahmen der Grundsätze der bisherigen höchstgerichtlichen Rechtsprechung.
+[6] 		Das Berufungsgericht kam zum Ergebnis, dass aus der Übermittlung der Nachweise per E-Mail und der unterlassenen Nachfrage der Klägerin, ob die E-Mail bei der Beklagten eingelangt sei, im Einzelfall kein rechtlich relevanter Vorwurf gegen die Klägerin abzuleiten sei. Es begründete dies damit, dass ein Mitarbeiter der Beklagten der Klägerin über deren telefonische Nachfrage die Übermittlung der Nachweise per E-Mail angeraten hatte, sodass aus der Übermittlungsart kein Vorwurf abzuleiten sei. Die unterbliebene Nachfrage machte es der Klägerin deshalb nicht zum Vorwurf, weil die E-Mail in ihrem Ordner der gesendeten Mails aufschien, sie keine Fehlermeldung erhalten und bereits in der Vergangenheit eine E-Mail an die gleiche Adresse der Beklagten versendet hatte, die angekommen war.
+[7] 		Die Revisionswerberin erblickt eine erhebliche Rechtsfrage darin, dass der Oberste Gerichtshof noch nicht zur Übermittlung per E-Mail Stellung genommen habe. Eine generelle, für alle Fälle geltende Beurteilung der Übermittlung per E-Mail ist hier aber nicht angezeigt, weil die Beurteilung des Berufungsgerichts angesichts der konkret berücksichtigten Umstände des Einzelfalls durchaus vertretbar war.
+[8] 		Die außerordentliche Revision der Beklagten ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:010OBS00140.20S.0226.000

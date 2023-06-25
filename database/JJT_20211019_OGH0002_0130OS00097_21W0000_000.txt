@@ -1,0 +1,53 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.10.2021
+Geschäftszahl
+13Os97/21w
+Kopf
+Der Oberste Gerichtshof hat am 19. Oktober 2021 durch den Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Lässig als Vorsitzenden sowie die Hofrätin des Obersten Gerichtshofs Mag. Michel, den Hofrat des Obersten Gerichtshofs Dr. Oberressl und die Hofrätinnen des Obersten Gerichtshofs Dr. Brenner und Dr. Setz-Hummel LL.M. in Gegenwart des Schriftführers Richteramtsanwärter Mag. Lampret in der Finanzstrafsache gegen * P* wegen Finanzvergehen der gewerbsmäßigen Abgabenhinterziehung nach §§ 33 Abs 1, 38 Abs 1 FinStrG idF vor BGBl I 2015/163 und weiterer strafbarer Handlungen über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts Salzburg als Schöffengericht vom 26. Mai 2021, GZ 31 Hv 5/21z-29, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+In Stattgebung der Nichtigkeitsbeschwerde wird das angefochtene Urteil aufgehoben, eine neue Hauptverhandlung angeordnet und die Sache an das Landesgericht Salzburg verwiesen.
+Mit seiner Berufung wird der Angeklagte auf diese Entscheidung verwiesen.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurde * P* jeweils mehrerer Finanzvergehen der gewerbsmäßigen Abgabenhinterziehung nach §§ 33 Abs 1, 38 Abs 1 FinStrG idF vor BGBl I 2015/163 (1 bis 5, jeweils a und b) und der Abgabenhinterziehung nach §§ 33 Abs 1 und 13 FinStrG (richtig: 1 c, 2 c, 3 c, 4 c, 5 c und 6) schuldig erkannt.
+[2] 		 Danach hat er im Zuständigkeitsbereich des Finanzamts Salzburg-Stadt als einzig unbeschränkt haftender, für die abgabenrechtlichen Belange verantwortlicher Gesellschafter der G* KG nach der Löschung von Umsatzerlösen im Kassensystem vorsätzlich unter Verletzung abgabenrechtlicher Anzeige-, Offenlegungs- oder Wahrheitspflichten, nämlich durch die Abgabe jeweils unrichtiger Jahresumsatzsteuererklärungen, Erklärungen zur Feststellung von Einkünften aus Gewerbebetrieb und Einkommensteuererklärungen Abgabenverkürzungen bewirkt, und zwar
+(1) für das Jahr 2010
+a) an Umsatzsteuer um 25.473,60 Euro,
+b) an Einkommensteuer um 14.497 Euro und
+c) an „Einkommensteuer W*“ um 15.164,63 Euro,
+(2) für das Jahr 2011
+a) an Umsatzsteuer um 20.881,45 Euro,
+b) an Einkommensteuer um 11.404 Euro und
+c) an „Einkommensteuer W*“ um 12.328 Euro,
+(3) für das Jahr 2012
+a) an Umsatzsteuer um 8.828,36 Euro,
+b) an Einkommensteuer um 6.009 Euro und
+c) an „Einkommensteuer W*“ um 6.857 Euro,
+(4) für das Jahr 2013
+a) an Umsatzsteuer um 7.160,32 Euro,
+b) an Einkommensteuer um 4.159 Euro und
+c) an „Einkommensteuer W*“ um 5.239 Euro,
+(5) für das Jahr 2014
+a) an Umsatzsteuer um 13.022,62 Euro,
+b) an Einkommensteuer um 8.069 Euro und
+c) an „Einkommensteuer W*“ um 9.069 Euro sowie
+(6) für das Jahr 2015 – jeweils beim Versuch bleibend –
+a) an Umsatzsteuer um 11.599,02 Euro und
+b) an „Einkommensteuer W*“ um 2.831 Euro,
+wobei es ihm für die Jahre 2010 bis 2014 in Bezug auf die Umsatzsteuer und „seine“ Einkommensteuer darauf ankam, sich durch die wiederkehrende Begehung der Abgabenhinterziehung eine fortlaufende Einnahme zu verschaffen.
+Rechtliche Beurteilung
+[3] 		Dagegen richtet sich die auf § 281 Abs 1 Z 4, 5 und 5a StPO gestützte Nichtigkeitsbeschwerde des Angeklagten.
+[4] 		Zutreffend zeigt die Verfahrensrüge (Z 4) auf, dass durch die Abweisung (ON 27 S 27 f) des Antrags auf Einholung eines Sachverständigengutachtens aus dem Fachgebiet der forensischen Datensicherung, der Datenrekonstruktion und der Datenauswertung zum Beweis dafür, dass (zusammengefasst) bei dem verwendeten Kassensystem – in Ansehung der RechnungsIDs, Rechnungsnummern und JournalArchivIDs – keine Manipulationen vorgenommen worden sind (ON 27 S 24), Verteidigungsrechte verletzt wurden.
+[5] 		Zwar muss ein Beweisantrag grundsätzlich nicht nur das Beweisthema und die Beweismittel angeben, sondern auch die Umstände, die erwarten lassen, dass eine Durchführung das behauptete Ergebnis haben werde, widrigenfalls er auf eine insoweit nicht zulässige Erkundungsbeweisführung gerichtet ist (RIS-Justiz RS0099189 und RS0118444). Dies gilt jedoch nur, sofern sich solche Umstände nicht – wie hier – bezogen auf den Zeitpunkt der Antragstellung unmissverständlich aus dem Zusammenhang ergeben (§ 55 Abs 1 letzter Satz StPO; RIS-Justiz RS0099189 [T7 und T25], RS0118444 [T4 und T7]).
+[6] 		Unter Berücksichtigung der
+- Verantwortung des Angeklagten, entgegen dem Anklagevorwurf (vgl ON 6, insbesondere S 4) an dem von ihm in den Jahren 2010 bis 2015 verwendeten Kassensystem keine nachträglichen Manipulationen vorgenommen zu haben (ON 27 S 3 iVm ON 11 S 2 ff, insbesondere S 3 f),
+- Angaben des sachverständigen Zeugen * H*, der mehrfach auf die Möglichkeit einer Klärung der – die Grundlage des Anklagevorwurfs darstellenden (vgl ON 6 S 4) – Lücken im Kassensystem durch einen Sachverständigen hinwies (ON 27 S 13 ff iVm ON 11 S 11 ff) und
+- vor Wiederholung der Verhandlung (§ 276a zweiter Satz StPO) am 26. Mai 2021 (ON 27 S 2) bereits in der Hauptverhandlung am 15. Jänner 2021 (amtswegig) erfolgten Bestellung eines Sachverständigen aus dem Fachgebiet forensische Datensicherung, Datenrekonstruktion und Datenauswertung gerade zu dem – zwar nicht der Formulierung, so doch der Sache nach – vom gegenständlichen Antrag genannten Beweisthema (ON 11 S 19 iVm ON 12),
+zielte der Antrag somit keineswegs auf eine unzulässige Erkundungsbeweisführung.
+[7] 		Schon dieser Verfahrensmangel erforderte die Aufhebung des angefochtenen Urteils bei der nichtöffentlichen Beratung (§ 285e StPO). Auf das weitere Beschwerdevorbringen war daher nicht einzugehen.
+[8] 		Mit seiner Berufung war der Angeklagte auf die Kassation zu verweisen.
+[9] 		Für den zweiten Rechtsgang bleibt darauf hinzuweisen, dass unmittelbarer Täter im Sinn des § 11 erster Fall FinStrG nur derjenige sein kann, den (selbst) eine abgabenrechtliche Anzeige-, Offenlegungs- oder Wahrheitspflicht trifft. Ein Nichtabgabepflichtiger kann ein Finanzvergehen bloß in einer sonstigen Täterschaftsform (Bestimmungs- oder Beitragstäterschaft, § 11 zweiter oder dritter Fall FinStrG) begehen (RIS-Justiz RS0086880 und RS0086915; eingehend Lässig in WK2 FinStrG § 11 Rz 4 ff). Die Annahme der unmittelbaren Täterschaft des Angeklagten in Ansehung der Hinterziehung von Einkommensteuer des Kommanditisten der G* KG * W* (1 c, 2 c, 3 c, 4 c, 5 c und 6 b; vgl §§ 1, 2 Abs 3 Z 3, 23 Z 1 und 2 EStG) ist daher rechtlich verfehlt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133163

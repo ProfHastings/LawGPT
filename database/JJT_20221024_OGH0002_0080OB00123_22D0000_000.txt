@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.10.2022
+Geschäftszahl
+8Ob123/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei I* P*, vertreten durch Hochedlinger Luschin Marenzi Kapsch Rechtsanwälte GmbH in Wien, gegen die beklagte Partei Dr. C* R*, vertreten durch Prettenhofer Raimann Pérez Tschuprina Rechtsanwaltspartnerschaft in Wien, wegen 106.798,38 EUR und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 11. August 2022, GZ 2 R 99/22d-50, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der behauptete Mangel des Berufungsverfahrens wurde vom Obersten Gerichtshof geprüft, er liegt nicht vor. Die unter dem Revisionspunkt „Verletzung des Unmittelbarkeitsgrundsatzes“ beanstandeten Ausführungen des Berufungsgerichts sind keine neuen Feststellungen, sondern es handelt sich um Erwägungen und Schlussfolgerungen, die das Berufungsgericht im Zuge der Überprüfung der Beweiswürdigung des Erstgerichts angestellt hat.
+[2] 		2. Die Verjährungsfrist des § 1489 ABGB beginnt mit dem Zeitpunkte zu laufen, in dem dem Geschädigten sowohl der Schaden und die Person des Schädigers als auch die Schadensursache bekannt geworden ist.
+[3] 		Maßgebend sind die Kenntnisse des Geschädigten vom objektiven Sachverhalt; auf die erforderlichen Rechtskenntnisse oder auf die richtige rechtliche Qualifikation des – bekannten – Sachverhalts kommt es für die Ingangsetzung der Verjährungsfrist nicht an (RIS-Justiz RS0034524 [T57]). Die Unklarheit über Rechtsfragen kann den Beginn der Verjährungsfrist nicht hinausschieben (RS0050355 [T6]; ua 5 Ob 168/21y [Rz 10]).
+[4] 		Mit diesen Grundsätzen steht die Entscheidung des Berufungsgerichts im Einklang. Die klagende Partei hat sich in ihrer Klage darauf berufen, die Tatsachen, aus denen sie ihren Anspruch ableitet, erst am 2. 7. 2018 erfahren zu haben. Fest steht aber, dass ihre Organe eben jene Tatsachen nicht nur bereits seit Frühjahr 2017 kannten, sondern ihnen auch damals schon deren rechtliche Tragweite bewusst war.
+[5] 		3. Auch mit dem Vorbringen, dass für die Haftung des Stiftungsvorstands per analogiam eine fünfjährige Verjährungsfrist zur Anwendung kommen müsse, weil diese Dauer in § 25 Abs 6 GmbHG für die Haftung von Geschäftsführern und in § 84 Abs 6 AktG für die Vorstandshaftung normiert sei, bringt die Revision keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO zur Darstellung.
+[6] 		Die generelle Haftungsnorm des § 29 PSG enthält keine gesonderte, von den Regelungen des allgemeinen Zivilrechts abweichende Verjährungsfrist, insbesondere auch nicht für die Verjährung von Schadenersatzansprüchen gegen Mitglieder des Stiftungsvorstands. Sehr wohl besteht dagegen eine solche Sonderbestimmung für die Haftung des Stiftungsprüfers durch den in § 21 Abs 2 PSG enthaltenen Verweis auf § 275 Abs 5 UGB. Angesichts dieser differenzierten Regelung ist eine dem Gesetzgeber unterlaufene unbeabsichtigte Regelungslücke, die Voraussetzung für eine Analogie wäre, nicht zu erkennen (so auch Arnold, PSG4 § 17 Rz 60; ferner ua Torggler, Verantwortung und Haftung der Mitglieder von Stiftungsvorständen, ecolex 1998, 130; Nowotny in Csoklich/Müller/Gröhs/Helbich [Hrsg], Handbuch zum Privatstiftungsrecht, 174).
+[7] 		Einer näheren Auseinandersetzung mit der in der Revision zitierten (einzigen) gegenteiligen Literaturstimme (Eder/Gruber/Rastegar, Die Verjährung von Schadenersatzansprüchen gegen Organmitglieder einer Kapitalgesellschaft, PSR 2019/27, 132) bedarf es im Anlassfall schon deswegen nicht, weil diese Autoren zwar eine analoge Anwendung der fünfjährigen Frist des GmbHG und AktG befürworten, aber unter dem Gesichtspunkt einer objektiven Verjährungsfrist, die unabhängig von der Kenntnis mit dem Entstehen des Schadens beginnt. Der dem Beklagten vorgeworfene Schaden wurde aber bereits im Jahre 2011 bzw 2012 verwirklicht, sodass auch eine solche fiktive Frist bei Klagseinbringung bereits abgelaufen gewesen wäre.
+[8] 		Mangels der Voraussetzungen des § 502 Abs 1 ZPO war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00123.22D.1024.000

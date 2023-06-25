@@ -1,0 +1,70 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2018
+Geschäftszahl
+7Ob121/18x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei P***** GesmbH, *****, vertreten durch Mag. Gottfried Tazol, Rechtsanwalt in Völkermarkt, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Walter Suppan, Rechtsanwalt in Klagenfurt, wegen 27.800 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 28. März 2018, GZ 4 R 13/18s-46, mit dem das Urteil des Landesgerichts Klagenfurt vom 21. November 2017, GZ 26 Cg 41/15y-42, bestätigt wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei 939,24 EUR (darin 156,54 EUR an Umsatzsteuer) an Kosten ihrer Revisionsbeantwortung zu ersetzen.
+Text
+Entscheidungsgründe:
+Die Klägerin hatte für ihren LKW samt Kipper und Ladekran bei der Beklagten eine Haftpflicht- und Kaskoversicherung abgeschlossen, der die Allgemeinen Bedingungen für die Bonus-Kaskoversicherung mit Fixstufen (ABBKF 2012) in der Fassung vom Juli 2012 zugrunde lagen. Diese lauten auszugsweise:
+„Artikel 1
+Was kann versichert werden?
+(möglicher Umfang der Versicherung)
+1. Versichert sind das Fahrzeug und seine Teile, die im versperrten Fahrzeug verwahrt oder an ihm befestigt sind, gegen Beschädigung, Zerstörung und Verlust.
+Das Fahrzeug ist in der im Antrag bezeichneten Ausführung versichert; dies gilt auch für Sonderausstattung und Zubehör.
+(…)
+Artikel 5
+Welche Leistung erbringt der Versicherer?
+Der Versicherer leistet – unter Abzug einer allenfalls vereinbarten Selbstbeteiligung (Artikel 8) – jenen Betrag, der nach folgenden Punkten berechnet wird:
+1. Versicherungsleistung bei Totalschaden
+(...)
+2. Versicherungsleistung bei Teilschaden
+2.1. Liegt kein Totalschaden (Pkt. 1.1.) vor, leistet der Versicherer
+2.1.1 die Kosten der vorgenommenen Reparatur und die notwendigen einfachen Fracht- und sonstigen Transportkosten der Ersatzteile oder im Fall der Veräußerung des Fahrzeuges im beschädigten Zustand die voraussichtlichen Kosten der Wiederherstellung;
+(...)
+2.2. Von den Kosten der Ersatzteile und der Lackierung wird ein dem Alter und der Abnützung entsprechender Abzug (neu für alt) gemacht, bis zum Ablauf des dritten Jahres ab erstmaliger Zulassung jedoch nur bei Bereifung, Batterie und Lackierung. (…)
+3. Die Altteile (auch das Wrack) verbleiben dem Versicherungsnehmer. Ihr Wert wird bei der Ermittlung der Versicherungsleistung abgezogen.
+(...)
+6. Die Pkte. 1 bis 4 gelten sinngemäß für Sonderausstattung und Zubehör des versicherten Fahrzeuges.
+(...)“
+In der Kraftfahrzeugpolizze findet sich zum versicherten Objekt Folgendes:
+„Versichertes Risiko
+LKW über 1 Tonne ohne besondere Verwendung (…)
+Aufbau, Ausstattung:
+Kipper/Muldenkipper, Ladekran.“
+Auf dem versicherten LKW war hinter der Fahrerkabine ein Kran aufgebaut. Der ursprüngliche Kran war ein reiner Hebekran, den die Klägerin nachrüsten und dabei zusätzliche Steuerelemente sowie einen Rotator einbauen ließ.
+Die drei Komponenten des Fahrzeugs (LKW mit  Fahrgestell, Kran und Aufbau) werden zu einer Einheit, einem Gesamtfahrzeug zusammengebaut. Wenn eine dieser Komponenten entfernt wird, ist das Fahrzeug in dieser Form nicht mehr einsatzfähig, sondern es muss diese Komponente  mit einem annähernd identen Teil ergänzt werden. Würde man daher beim LKW den Kran entfernen, wäre jener nicht mehr fahrbar. Um einen Betrieb des LKWs mit Kipper jedoch ohne Kran gewährleisten zu können, müsste das Fahrzeug komplett umgebaut werden.
+Bei einem Unfall wurden der Kipper und der Ladekran beschädigt. Davon waren auch die nachgerüsteten Teile betroffen. Ein Totalschaden lag nicht vor.
+Nach dem Unfall montierte ein Reparaturbetrieb auf dem LKW ein neues Nachfolgemodell des beschädigten Krans mit besserer elektronischer Steuerung.
+Der Wiederbeschaffungswert des Krans im Unfallzeitpunkt betrug 36.840 EUR und der Restwert nach dem Unfall 3.000 EUR.
+Der neu aufgebaute Kran hatte im Unfallzeitpunkt einen Wert von 49.600 EUR.
+Im Vergleich zum neu montierten Kran ist ein dem Alter und der Abnützung des alten Krans entsprechender Abzug mit 12.760 EUR (= 49.600 EUR – 36.840 EUR) zu bewerten.
+Es gibt einen Markt für Gebrauchtkräne. Diese werden technisch überholt, teilweise neu lackiert und als gebrauchte Geräte angeboten. Totalbeschädigte Kräne werden oft in den ehemaligen „Ostblock“ verkauft. Teilweise werden Kräne aber auch als Ersatzteilspender verwendet, um Kranreparaturen mit Gebrauchtteilen anstelle von Neuteilen abdecken zu können.
+Die Klägerin begehrte von der Beklagten die Zahlung von 27.800 EUR sA, das sind die Reparaturkosten abzüglich des Restwerts des Krans, einer Teilzahlung der Beklagten und eines Selbstbehalts.
+Die Beklagte wandte – soweit noch wesentlich – ein, dass sich die Klägerin einen Abzug (neu für alt) gefallen lassen müsse.
+Das Erstgericht verpflichtet die Beklagte zur Zahlung von 15.040 EUR sA, das ist die von der Klägerin begehrte restliche Versicherungsleistung nach einem Abzug „neu für alt“. Im Umfang des dafür veranschlagten Betrags von 12.760 EUR sA wies das Erstgericht das Klagebegehren ab, wozu es sich rechtlich auf Art 5.2.2. ABBKF 2012 stützte.
+Das Berufungsgericht gab der gegen den klageabweislichen Teil des Ersturteils gerichteten Berufung der Klägerin nicht Folge. Es war der Rechtsansicht, dass bei dem nach Art 5.2.2. ABBKF 2012 vorgesehenen, dem Alter und der Abnützung entsprechenden Abzug (neu für alt) schon nach dem Wortlaut der Regelung – entgegen der Meinung der Klägerin – nicht auf das Alter und die Abnützung des versicherten Fahrzeugs insgesamt abzustellen sei. Dafür spreche auch der weitere Regelungsinhalt, wonach ein Abzug „neu für alt“ von den Kosten der Bereifung und der Batterie bereits vor Ablauf von drei Jahren ab Erstzulassung vorgesehen sei, zumal im Regelfall wohl davon ausgegangen werden könne, dass sich der (Wiederbeschaffungs-)Wert des versicherten Fahrzeugs in diesem Zeitraum bei Einbau einer neuen Batterie oder bei Verwendung neuer Reifen nicht erhöhen werde.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei. Es fehle höchstgerichtliche Judikatur zu Art 5.2.2. ABBKF 2012 oder inhaltsgleichen Versicherungsbedingungen und der Wortlaut der vereinbarten Klausel sei – unter Bedachtnahme auf RIS-Justiz RS0110166 (T1 und T2) – auch nicht so eindeutig, dass keine Auslegungszweifel verblieben.
+Gegen diese Entscheidung richtet sich die Revision der Klägerin wegen unrichtiger rechtlicher Beurteilung mit dem Antrag auf Abänderung dahin, dass auch dem restlichen Klagebegehren von 12.760 EUR sA stattgegeben werde. Hilfsweise werden auch Aufhebungsanträge gestellt.
+Die Beklagte erstattete eine Revisionsbeantwortung mit dem Antrag, die Revision der Klägerin zurückzuweisen, hilfsweise dieser nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zur Klarstellung der Rechtslage zulässig; sie ist aber nicht berechtigt.
+Die Klägerin hält in der Revision
+– zusammengefasst – ihren bisherigen Standpunkt aufrecht, wonach für die Prüfung einer fraglichen Werterhöhung durch die Montage eines neuen Krans auf das Gesamtfahrzeug abzustellen sei und dieses habe dadurch keine Wertsteigerung erfahren. Dem ist Folgendes zu entgegnen:
+1. Allgemeine Versicherungsbedingungen (AVB) sind nach Vertragsauslegungsgrundsätzen auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063). Die einzelnen Klauseln sind, wenn sie nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der AVB zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]).
+2. Ein Totalschaden des Fahrzeugs lag unstrittig nicht vor. Strittig ist vielmehr nur die Ermittlung der „Versicherungsleistung bei Teilschaden“ und dabei insbesondere die Wortfolge „ein dem Alter und der Abnützung entsprechender Abzug (neu für alt)“. Derartige Begriffe, wie beispielsweise auch „Ermittlung des Ersatzwertes“, „Wiederbeschaffungskosten unter billiger Berücksichtigung der aus dem Unterschied zwischen alt und neu sich ergebenden Wertminderung“, „Kosten der Wiederbeschaffung“ sind in erster Linie versicherungsrechtliche Begriffe. Auf die Schadenersatzbegriffe des bürgerlichen Rechts ist daher nur dann zurückzugreifen, wenn die betreffenden AVB ausdrücklich darauf verweisen oder wenn ihr Wortlaut sonst keine sinnvolle Auslegung erlaubt (RIS-Justiz RS0112134). Ein solcher Rückgriff ist hier nicht erforderlich.
+3. Der Fachsenat hat sich bereits mit der Ermittlung der Ersatzleistung in der Kasko-Versicherung unter dem Gesichtspunkt einer fraglichen Werterhöhung befasst:
+3.1. In der Entscheidung 7 Ob 380/97a (= RIS-Justiz RS0110167) war bei einer mit der vorliegenden identen Bedingungslage zu klären, wie die Sonderausstattung bei der Ermittlung der Versicherungsleistung eines gestohlenen Fahrzeugs zu berücksichtigen sei. Der Senat wies in diesem Zusammenhang darauf hin, dass „Bestandteile, insbesondere jene, die individuell angeschafft wurden, (…) nicht beim Wert des Fahrzeuges, sondern gesondert – und zwar nicht mit dem Neupreis, sondern mit dem Wiederbeschaffungswert – zu berücksichtigen (seien)“. Dabei sei auch die Existenz eines „Gebrauchtmarkts“ zu beachten.
+3.2. Der Entscheidung 7 Ob 122/01v lag dagegen eine das Diebstahlrisiko einschließende Kasko-Motorboot-Versicherung zugrunde, bei der (ua) „Maschine und Motor“ Gegenstand der Versicherung waren und der „Zeitwert“ zu ersetzen war. Dieser war als jener Betrag festgelegt, „der allgemein erforderlich ist, um neue Sachen gleicher Art anzuschaffen, abzüglich eines dem Zustand der versicherten Sachen (Alter, Abnützung, Gebrauch etc) entsprechenden Betrages“. Der Senat war in diesem Zusammenhang der Ansicht, dass es bei der Ausmittlung der Versicherungsleistung nicht auf den Wert des Motors isoliert vom Wert des Bootes ankomme. Als Zeitwertberechnung sei vielmehr die Differenz zwischen dem Wert des Bootes vor dem Diebstahl, also mit dem alten Motor, zum Wert des Bootes mit dem neuen Motor zugrundezulegen. Der Versicherungsschutz erstrecke sich nämlich nach der Art der Versicherung auf das Boot insgesamt. Dem Wert des gestohlenen, abgrenzbaren Einzelteils komme hingegen keine Bedeutung zu, weil der Motor zweifellos ein ausstattungsmäßig notwendiges Zubehör des Kasko versicherten Bootes sei. Dem lag allerdings in tatsächlicher Hinsicht zugrunde, dass ein dem gestohlenen Innenbordmotor  entsprechender Antriebstyp zum Zeitpunkt des Diebstahls nicht mehr hergestellt wurde und im Fachhandel nicht erhältlich war.
+3.3. Die Entscheidung 7 Ob 250/04x betraf den fraglichen Zeitwert eines versicherten Gebäudes nach der 40%-Klausel im Rahmen einer Neuwertversicherung. Der Senat verwies dabei zur Frage der Zeitwertberechnung im Fall unterschiedlicher Lebensdauer von Bestandteilen einer versicherten Sache (dort: beschädigtes Dach) auf die Entscheidung 7 Ob 122/01v und darauf, dass eine isolierte Bewertung des Daches als unselbständiger Bestandteil des versicherten Gebäudes nicht in Betracht komme (so auch 7 Ob 239/02a).
+4. Im vorliegenden Fall ist – wie zu 7 Ob 380/97a und bei derselben Bedingungslage – eine nicht vom Fahrzeughersteller selbst angebotene Zusatzausstattung, sondern eine individuelle Sonderausstattung in Form des Kranes zu beurteilen. Nach der Bedingungslage ist gemäß Art 5.2.2. ABBKF 2012 „von den Kosten der Ersatzteile … ein dem Alter und der Abnützung entsprechender Abzug (neu für alt)“ zu machen. Daraus wird für den verständigen Versicherungsnehmer ganz unzweifelhaft deutlich, dass es für den Abzug auf die einzelnen Teile und nicht auf das Fahrzeug insgesamt ankommt. Diese Regelung gilt nach Art 5.6. ABBKF 2012 ausdrücklich auch „sinngemäß für Sonderausstattung und Zubehör des versicherten Fahrzeuges“. Der „Ladekran“ wird in der Polizze
+– ebenfalls ausdrücklich – als besondere Ausstattung des Fahrzeugs bezeichnet. Solche Kräne können – wie vorliegend geschehen – neu gekauft werden und es gibt dafür auch einen Gebrauchtmarkt; die Sonderausstattung „Ladekran“ ist also als solche verwertbar und gesondert marktgängig. Der Abzug „neu für alt“ ist daher nach der bestehenden Bedingungslage und wie von den Vorinstanzen zutreffend erkannt bezogen allein auf die Sonderausstattung zu ermitteln. Gegen die Höhe des vorgenommenen Abzugs erhebt die Klägerin in ihrer Revision keine Einwände.
+5.1. Die Revision ist daher nicht berechtigt.
+5.2. Die Kostenentscheidung gründet auf §§ 50, 41 ZPO. Es gebührt nur der einfache Einheitssatz.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00121.18X.1121.000

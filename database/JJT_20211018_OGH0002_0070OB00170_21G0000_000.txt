@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob170/21g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Dr. G* P*, vertreten durch die Blum, Hagen & Partner Rechtsanwälte GmbH in Feldkirch, gegen die beklagte Partei V* VaG, *, vertreten durch Dr. Wolfgang Hirsch, Rechtsanwalt in Bregenz, wegen Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 29. Juli 2021, GZ 4 R 107/21y-31, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Dem Rechtsschutzversicherungsvertrag, der vom Kläger per 1. 8. 2015 gekündigt wurde, lagen die „Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2001)“ zugrunde. Diese lauten auszugsweise:
+„Artikel 3
+Für welchen Zeitraum gilt die Versicherung? (Zeitlicher Geltungsbereich)
+[...]
+3. Wird der Deckungsanspruch vom Versicherungsnehmer später als zwei Jahre nach Beendigung des Versicherungsvertrages für das betreffende Risiko geltend gemacht, besteht, unabhängig davon, wann der Versicherungsnehmer Kenntnis vom Eintritt eines Versicherungsfalles erlangt, kein Versicherungsschutz.
+[...]
+Artikel 8
+Welche Pflichten hat der Versicherungsnehmer zur Sicherung seines Deckungsanspruches zu beachten? (Obliegenheiten)
+1. Verlangt der Versicherungsnehmer Versicherungsschutz, ist er verpflichtet,
+1.1 den Versicherer unverzüglich, vollständig und wahrheitsgemäß über die jeweilige Sachlage aufzuklären und ihm alle erforderlichen Unterlagen auf Verlangen vorzulegen; […]“
+Rechtliche Beurteilung
+[2] 		1.1. Art 3.3. ARB 2001 regelt einen Risikoausschluss. Wortgleiche Ausschlussklauseln in Rechtsschutzversicherungsverträgen mit Verbrauchern waren bereits Gegenstand höchstgerichtlicher Entscheidungen (7 Ob 201/12b = SZ 2013/5; 7 Ob 206/19y):
+[3] 		Zwar ist eine Ausschlussfrist grundsätzlich nicht objektiv ungewöhnlich und zur Risikoabgrenzung üblich. Eine Bedingung aber, die – wie hier – eine Ausschlussfrist regelt und allein auf einen objektiven fristauslösenden Zeitpunkt abstellt, ist im Zusammenhang mit § 33 Abs 1 VersVG, wonach der Versicherungsnehmer den Eintritt des Versicherungsfalls, nachdem er von ihm Kenntnis erlangt hat, unverzüglich dem Versicherer anzuzeigen, ungewöhnlich, weil dadurch der Anspruch erlischt, auch wenn unverzüglich nach Kenntnis vom Versicherungsfall eine Schadensanzeige erstattet wurde. Hat der Versicherungsnehmer vor Ablauf der Ausschlussfrist keine wie immer gearteten Hinweise darauf, dass sich ein Versicherungsfall während der Vertragszeit ereignet haben könnte, so ist der Anspruchsverlust auch im Fall der unverzüglichen Meldung nach § 33 Abs 1 VersVG als objektiv und subjektiv ungewöhnlich nach § 864a ABGB zu beurteilen. Die Vertragsbestimmung ist insoweit nichtig und daher unbeachtlich.
+[4] 		Soweit sich die Beklagte bei ihrer Deckungsablehnung auf den Ablauf der zweijährigen Ausschlussfrist des Art 3.3. ARB 2001 berief, war dies – was das Berufungsgericht im Sinn der Judikatur erkannte – wegen Nichtigkeit der Bestimmung nicht berechtigt, zumal der Versicherungsnehmer Verbraucher ist und eine geltungserhaltende Reduktion der Klausel nicht in Frage kommt (7 Ob 206/19y; RS0128735).
+[5] 		1.2. Entgegen der Ansicht der Beklagten ist diese Beurteilung zu Verbrauchergeschäften nicht uneinheitlich. In der von ihr zitierten Entscheidung zu 7 Ob 132/17p war nur zu beurteilen, ob die Klägerin unverzüglich nach Kenntnis vom Versicherungsfall die Versicherungsmeldung erstattet hat.
+[6] 		2. Die übrigen von der Beklagten aufgeworfenen Fragen stellen sich nicht, weil sie die Rechtsansicht des Berufungsgerichts, dem Kläger sei (entsprechend § 6 Abs 3 VersVG) der Nachweis eines leichten Verschuldens an der verspäteten Versicherungsmeldung gelungen, nicht bekämpft.
+[7] 		3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:E133377

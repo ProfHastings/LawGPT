@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.11.1951
+Geschäftszahl
+1Ob774/51
+Norm
+ABGB §367;
+ABGB §456;
+Strafgesetz §181;
+Strafgesetz §183;
+Strafgesetz §197;
+Strafgesetz §201d;
+ZPO §267;
+Kopf
+SZ 24/307
+Spruch
+Die Bindung des Zivilrichters an ein verurteilendes strafgerichtliches Erkenntnis erstreckt sich nicht auf die rechtliche Subsumtion.
+Betrügerisch herausgelockte Sachen sind nicht anvertraut im Sinne der §§ 367, 456 ABGB.
+Der Begriff des Anvertrauens ist im Strafrecht ein anderer als im Zivilrecht.
+Entscheidung vom 14. November 1951, 1 Ob 774/51.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Kläger begehrt als Rechtsnachfolger seiner verstorbenen Mutter Eleonore K. die Zustimmung zur Ausfolgung eines Schmuckes, den die Mutter im Frühjahr 1947 der Gisela S. zufolge Vorspiegelung, sie wolle sich damit photographieren lassen, ausgefolgt hatte. Der Beklagte behauptet, diesen Schmuck als Pfand gemäß § 456 ABGB. gutgläubig zu besitzen.
+Das Erstgericht hat die Klage mit der Begründung abgewiesen, daß der Beklagte gutgläubig war, als er den Schmuck als Pfand genommen habe.
+Das Berufungsgericht gab der Berufung Folge und verurteilte den Beklagten im Sinne des Klagebegehrens.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Kernpunkt der Revision liegt nach der Sach- und Rechtslage in der rechtlichen Beurteilung. Bei dieser kommt es in erster Linie darauf an, inwieweit das die Gisela S. verurteilende rechtskräftige Erkenntnis des Strafgerichtes den Zivilrichter binde.
+Nach ständiger Rechtsprechung bilden Spruch und Gründe des Strafurteiles eine Einheit und erstreckt sich die Bindung des Zivilrichters auf die Feststellung des Sachverhaltes, der den strafbaren Tatbestand bildet (4 Ob 78/50). Einem strafgerichtlichen verurteilenden Erkenntnis kommt in dem Umfang, als darin ein strafbarer Tatbestand festgestellt worden ist, insoweit bindende Wirkung zu, als die strafbare Handlung erwiesen und einer bestimmten Person zuzurechnen ist, und ein kausaler Zusammenhang zwischen der strafbaren Handlung und dem zugefügten Schaden besteht (2 Ob 324/51). Die Frage aber, um die es hier insbesondere geht, ist die, ob der Zivilrichter daran gebunden ist, daß der Strafrichter Gisela S. wegen Veruntreuung verurteilt hat, weil sie die ihr anvertrauten Gegenstände vorenthalten und sich zugeeignet hat. Der Oberste Gerichtshof kann der Ansicht Sperl's, Lehrbuch, 1925, S. 97, nur insoweit folgen, als dann, "wenn im Zivilprozeß eine Straftat Grundlage der vom bürgerlichen Richter zu treffenden Entscheidung ist, dieser an ein schon vorliegendes verurteilendes Straferkenntnis gebunden ist. Er muß den Tatbestand, den das Straferkenntnis bestraft hat, als geschehen, das ist als wahr, seinem eigenen Spruch zugrunde legen". Der Oberste Gerichtshof kann aber einer Bindung in der Hinsicht nicht zustimmen, daß der Zivilrichter auch an die im Straferkenntnis vorgenommene Subsumtion unter einen bestimmten strafgesetzlichen Tatbestand und an die Qualifizierung der Tat gebunden sei. Im gleichen Sinne auch Weich, RZ. 1904, S. 61, insbesondere S. 69. Nach Max Eisler's "Über die Beziehungen zwischen Zivil- und Strafsachen nach dem neuen österreichischen Recht", Wien, Fromme, 1903, erstreckt sich die Gebundenheit bloß auf positive tatsächliche Feststellungen, somit weder auf die rechtliche Würdigung des Sachverhaltes noch auf tatsächliche Feststellungen verneinender Art". "Der Tatsachenbezirk, dessen Betreten dem Zivilrichter verwehrt ist, fällt somit genau zusammen mit dem vom Strafrichter festgestellen (subjektiven und objektiven) Tatbestand". Neumann, Komm. zur ZPO., 4. Aufl., S. 987/988, sowie Pollak, System, 1932, S. 31/32 und S. 648, lassen die gestellte Frage unbeantwortet. Die Entscheidung SZ. XVIII/178 führt aus: "Die Bindung des Zivilrichters an das verurteilende Erkenntnis des Strafgerichtes bedeutet, daß der Zivilrichter bei seiner Entscheidung von der Annahme auszugehen hat, daß der strafgerichtlich Verurteilte die ihm im Strafurteil zur Last gelegte Tat wirklich begangen hat, wobei als Tat jene Handlungen und Unterlassungen des Verurteilten anzusehen sind, die nach dem Inhalte des Strafurteiles den Tatbestand jener im Strafgesetz bezeichneten strafbaren Handlung darstellen, deren er schuldig erkannt worden ist." Hingegen hat die Entscheidung SZ. XIV/145 ausgesprochen, "Der Zivilrichter darf etwas, was vom Strafrichter als erwiesen angenommen wurde, zwar nicht als nicht erwiesen annehmen, aber er kann einen dem Verurteilten noch ungünstigeren Tatbestand als erwiesen annehmen. Es kann also bei einer Verurteilung nach § 143 StG. Totschlag als erwiesen angenommen werden". Das Strafgericht hat in der Sachverhaltsdarstellung zwar als erwiesen angenommen, daß sich Gisela S. dreimal unter einem "Vorwand" die Ohrgehänge von Eleonore K. ausgeborgt hat, trotzdem aber das Ausborgen und Versetzen des Schmuckes als Verbrechen der Veruntreuung qualifiziert. Das hinderte aber das Berufungsgericht nicht, eine betrügerische Herauslockung des Schmuckes anzunehmen, wodurch der Dritte, das ist der Beklagte, des Schutzes nach § 456 ABGB. entbehrt. Das Berufungsgericht war damit im Recht, weil der Begriff des Anvertrauens im Strafrecht ein anderer ist als im Zivilrecht (SSt. V/10). Es bedarf daher auch nicht einer ausdrücklichen Stellungnahme zur Frage, ob der Zivilrichter an die strafrechtliche Qualifikation (hier an die der Veruntreuung) gebunden ist. Die von der Revision vertretene gegenteilige Meinung kann nicht gebilligt werden.
+Hingegen ist dem Berufungsgericht darin beizupflichten, daß der Beklagte beim Erwerb des Pfandes nicht gutgläubig war. Diesen Gründen des Urteiles des Berufungsgerichtes ist nichts hinzuzufügen.
+Die Revision erwies sich daher als nicht begrundet.

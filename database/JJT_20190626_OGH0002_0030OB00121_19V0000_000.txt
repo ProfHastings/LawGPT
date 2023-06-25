@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.06.2019
+Geschäftszahl
+3Ob121/19v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Priv.-Doz. Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei C***** GmbH, *****, vertreten durch Vavrovsky Heine Marth Rechtsanwälte GmbH in Wien, gegen die verpflichtete Partei U***** B.V., *****, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen Unterlassung, über den außerordentlichen Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 3. Mai 2019, GZ 46 R 136/18v bis 46 R 143/19y-156, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß
+§ 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Bei der Unterlassungsexekution muss der betreibende Gläubiger nach ständiger Rechtsprechung im Exekutionsantrag wie auch in jedem weiteren Strafantrag konkret und schlüssig ein (neuerliches) Zuwiderhandeln des Verpflichteten gegen den Titel behaupten (RIS-Justiz RS0113988 [T3]). Eine konkrete und schlüssige Behauptung erfordert in der Regel nähere Angaben über Zeit, Ort und Art (Beschaffenheit) des Zuwiderhandelns (RS0000709 [T14]). Ob der Betreibende dem Erfordernis genügt hat, im Exekutions- bzw Strafantrag den Titelverstoß schlüssig und ausreichend bestimmt zu bezeichnen, begründet keine erhebliche Rechtsfrage (RS0004745 [T1]).
+Die vom Rekursgericht abgewiesenen Strafanträge (17. bis 24. Strafantrag) enthielten – anders als die vorangegangenen Anträge mit vergleichbaren Behauptungen (zuletzt der 16. Strafantrag) – zusammengefasst nur das Vorbringen, die Verpflichtete verstoße nach wie vor gegen das Unterlassungsgebot, indem sie weiterhin ein nach dem Titel verbotenes, näher umschriebenes Vermittlungssystem (auch per Smartphone-App) anbiete; die Betreibende unterließ es also, ausdrücklich einen oder mehrere konkrete Tage anzuführen, an denen sich die behaupteten Verstöße ereignet hätten. Zum Beweis legte sie jeweils einen Screenshot mit Angabe eines (bei fast allen Strafanträgen mit dem Tag ihrer Einbringung identen) Datums vor.
+Rechtliche Beurteilung
+Die Auffassung des Rekursgerichts, wonach das Vorbringen der Betreibenden in den hier zu behandelnden Strafanträgen mangels ausdrücklicher Datumsangabe nicht hinreichend konkret sei, stellt keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung dar:
+Dass ein im ständigen Anbieten eines bestimmten elektronischen Vermittlungssystems liegender Verstoß nicht durch Angabe eines Ortes und/oder einer Uhrzeit konkretisiert werden kann, liegt auf der Hand; eine so weitgehende Konkretisierung hat das Rekursgericht aber ohnehin nicht verlangt. Demgegenüber ist der Betreibenden die (bloße) Behauptung des konkreten Tages, an dem die Verpflichtete neuerlich gegen das Unterlassungsgebot verstoßen habe, problemlos möglich, wie sich aus ihren früheren Strafanträgen ergibt, in denen sie solches Vorbringen erstattete.
+Bei nicht an aufeinanderfolgenden Tagen eingebrachten Strafanträgen lässt sich ausgehend vom Vorbringen der Betreibenden außerdem nicht beurteilen, ob nur ein Verstoß an einem einzelnen Tag oder aber womöglich im gesamten seit Einbringung des letzten Strafantrags verstrichenen Zeitraum (zu den Vollzugsstufen vgl RS0004433 [T4]) inkriminiert wird.
+Die von der Revisionsrekurswerberin ins Treffen geführte Entscheidung 3 Ob 49/94 ist nicht einschlägig, weil dort nur ein Teil des notwendigen Vorbringens, der – anders als die hier maßgebende Datumsangabe – von bloß untergeordneter Bedeutung war, als durch Vorlage einer Urkunde substituierbar angesehen wurde.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030OB00121.19V.0626.000

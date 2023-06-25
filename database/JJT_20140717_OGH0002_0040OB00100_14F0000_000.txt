@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.07.2014
+Geschäftszahl
+4Ob100/14f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei A***** GmbH, *****, vertreten durch Mag. Franz Kellner, Rechtsanwalt in Wien, gegen die beklagte Partei J***** GmbH, *****, vertreten durch Schramm Öhler Rechtsanwälte OG in Wien, wegen Unterlassung (Streitwert 35.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. März 2014, GZ 1 R 254/13z-45, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte hat geltend gemacht, die beanstandeten Äußerungen seien vertraulich (§ 1330 Abs 2 ABGB, § 7 Abs 2 UWG) gegenüber einer zur Verschwiegenheit verpflichteten Behörde erfolgt; der Vergabekontrollsenat Wien als Adressat habe als Kontrollbehörde im Vergabeverfahren an der Mitteilung ein öffentliches Interesse, weil er die Durchführung eines gesetzeskonformen Vergabeverfahrens und einer gesetzeskonformen Angebotsprüfung als Voraussetzung eines fairen und transparenten Wettbewerbs zu beurteilen habe.
+Rechtliche Beurteilung
+Der Anspruch nach § 1330 ABGB, § 7 UWG setzt voraus, dass die Tatsachenmitteilungen öffentlich verbreitet wurden. Die Vertraulichkeit einer Mitteilung kann ein Rechtfertigungsgrund iSd § 1330 Abs 2 dritter Satz ABGB, § 7 Abs 2 UWG sein. Eine vertrauliche Mitteilung nach den genannten Bestimmungen liegt dann vor, wenn sie sich an einen ganz bestimmten Personenkreis richtet, die vertrauliche Behandlung entweder ausdrücklich zur Pflicht gemacht wurde, sich aus den Umständen eindeutig ergibt oder nach den Regeln des Verkehrs besteht (RIS-Justiz RS0112016; RS0079767).
+Als „nicht öffentliche Mitteilungen“ sind nach der Rechtsprechung des Obersten Gerichtshofs etwa Anzeigen (Eingaben) an die zuständige Standesbehörde, wenn für deren Mitglieder eine gesetzliche Verschwiegenheitspflicht besteht (3 Ob 18/50 = SZ 23/4), eine Mitteilung an eine Berufsvertretung über ein Mitglied dieser Vertretung (3 Ob 18/50 = SZ 23/4; 6 Ob 2235/96m), Mitteilungen an die Vollversammlung der Arbeiterkammer im Hinblick auf deren Kontrollfunktion (6 Ob 260/07i), ein Schreiben an den Vereinsvorstand, der nach den Statuten für die Beantragung eines Ausschließungsantrags zuständig war (4 Ob 259/05z) oder ganz allgemein Mitteilungen gegenüber einer zur Verschwiegenheit verpflichteten und sachlich zuständigen Behörde (4 Ob 187/99z; 4 Ob 50/09w mwN) beurteilt worden.
+Von dieser Rechtsprechung ist das Berufungsgericht nicht abgewichen, wenn es die beanstandeten Äußerungen, die Bestandteil eines Antrags vom 2. 3. 2010 auf Nichtigerklärung und auf Erlassung einer einstweiligen Verfügung beim Vergabekontrollsenat Wien bzw eines Antrags vom 13. 9. 2010 auf Wiederaufnahme des Verfahrens waren, als „nicht öffentliche Mitteilungen“ (§ 1330 Abs 2 ABGB) bzw „vertrauliche Mitteilungen“ (§ 7 Abs 2 UWG) im Sinne der aufgezeigten Rechtsprechung beurteilt hat.
+Dem steht auch - entgegen den Ausführungen in der Zulassungsbeschwerde - nicht entgegen, dass es im Verfahren vor dem Vergabekontrollsenat Wien allenfalls zu einer mündlichen Verhandlung kommen könnte, ist doch nach den dafür geltenden gesetzlichen Grundlagen auch für diesen Fall Vertraulichkeit sowohl der Behörde als auch der Verfahrensparteien gewährleistet:
+Nach § 15 Abs 1 Wiener Vergaberechtsschutzgesetz 2007 (nunmehr § 12 Abs 1 Wiener Vergaberechtsschutzgesetz 2014) darf die Öffentlichkeit ua ausgeschlossen werden, sofern dies aus Gründen der Wahrung von Geschäfts- und Betriebsgeheimnissen geboten ist. Gemäß § 15 Abs 4 Wiener Vergaberechtsschutzgesetz 2007 (nunmehr § 12 Abs 4 Wiener Vergaberechtsschutzgesetz 2014) ist es im Fall des Ausschlusses der Öffentlichkeit von einer Verhandlung auch den Parteien untersagt, daraus Umstände weiterzuverbreiten, sofern dies zur Wahrung der genannten Geheimnisse geboten ist.
+Soweit die Zulassungsbeschwerde den Vorwurf erhebt, die Beklagte habe die beanstandeten Äußerungen vorsätzlich und wider besseres Wissen erhoben, weicht sie vom festgestellten Sachverhalt ab, wonach der Beklagten weder am 2. 3. 2010 noch am 13. 9. 2010 die Unrichtigkeit ihrer Äußerungen bewusst war, und führt die Rechtsrüge insoweit nicht gesetzmäßig aus.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00100.14F.0717.000

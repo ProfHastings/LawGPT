@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2018
+Geschäftszahl
+7Ob135/18f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH, *****, vertreten durch Dr. Dominik Schärmer, Rechtsanwalt in Wien, gegen die beklagte Partei F***** GmbH & Co KG, *****, vertreten durch Dr. Alma Steger, Rechtsanwältin in Wien, wegen 34.856,07 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 28. Mai 2018, GZ 12 R 12/18y-16, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin (letzter und ausführender Subfrachtführer) begehrt von der Beklagten (ihrem auftraggebenden Subfrachtführer) Ersatz des wegen eines Verladefehlers am Transportmittel eingetretenen Schadens. In ihrer Revision gegen das die Klageabweisung bestätigende Berufungsurteil vermag die Klägerin das Vorliegen der Voraussetzungen nach § 502 Abs 1 ZPO nicht aufzuzeigen:
+Rechtliche Beurteilung
+1. Die CMR regelt – wie auch das UGB – nicht, ob der Frachtführer auch zur Verladung und Verstauung des Guts verpflichtet ist (RIS-Justiz RS0073725; 7 Ob 25/14y = SZ 2014/37). Sowohl im Anwendungsbereich der CMR als auch des UGB wird angenommen, dass die Verladung im Zweifel Sache des Absenders ist (RIS-Justiz RS0073756; 7 Ob 184/09y; 7 Ob 105/16s; 7 Ob 2/16v mwN). Nach § 425 UGB übernimmt nämlich der Frachtführer (nur) die Ausführung der Beförderung von Gütern.
+2. Dass der Subfrachtführer, der seinerseits einen weiteren Subfrachtführer beauftragt, diesem gegenüber als Absender gilt, entspricht herrschender Ansicht. Aus dieser (rechtlichen) Absendereigenschaft allein folgt aber – entgegen der rein begrifflichen Argumentation der Klägerin – nicht zwingend auch in jedem Fall die Beladepflicht. Ob dies zutrifft, ist vielmehr nach Inhalt und Umfang der im Einzelfall übernommenen Vertragspflichten zu prüfen (vgl auch die Fallkonstellationen zu 7 Ob 222/13t; 7 Ob 165/08b; 3 Ob 265/02w).
+3. Hier steht fest, dass die Urabsenderin (Verkäuferin der Ware) der Käuferin gegenüber vertraglich zur Verladung verpflichtet war und es ist unstrittig, dass das Transportgut ein Sondertransportfahrzeug und eine spezielle Beladelogistik erforderte, die einem Frachtführer üblicherweise nicht zur Verfügung steht. Wenn die Vorinstanzen bei dieser Sachlage sowie angesichts des Beladeorts und des Unternehmenssitzes der Beklagten im Ergebnis davon ausgingen, dass im vorliegenden Einzelfall die Pflicht zur Verladung eines solchen Transportguts
+– unzweifelhaft – nicht einen Subfrachtführer (hier: Beklagte) treffen sollte, dann widerspricht diese Beurteilung nicht den zur Vertragsauslegung entwickelten Judiakturgrundsätzen (vgl dazu auch 7 Ob 165/08b; 3 Ob 265/02w).
+4. War die Beklagte gegenüber der Klägerin nicht zur Verladung verpflichtet, dann können auch die die Verladung ausführenden Mitarbeiter der Urabsenderin (Verkäuferin) nicht nach § 1313a ABGB Erfüllungsgehilfen der Beklagten sein. Der Klägerin stehen folglich Ersatzansprüche nur gegen die Urabsenderin (Verkäuferin) aufgrund der Schutzwirkung des von dieser mit dem Hauptfrachtführer abgeschlossenen Vertrags zu (vgl 7 Ob 165/08b).
+5. Die Klägerin macht somit insgesamt keine erhebliche Rechtsfrage geltend. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision daher nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00135.18F.1219.000

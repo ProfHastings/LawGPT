@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2016
+Geschäftszahl
+3Ob146/16s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch sowie die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei B***** AG, *****, vertreten durch Rechtsanwälte Dr. Amhof & Dr. Damian GmbH in Wien, gegen die beklagte Partei Dr. C*****, Rechtsanwalt, *****, wegen 168.000 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 80.249,47 EUR sA) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 18. April 2016, GZ 11 R 54/16s-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Bereits in der Entscheidung 7 Ob 153/14x wies der Oberste Gerichtshof darauf hin, dass eine weitere Gläubigerin der Verpflichteten ein vorrangiges Pfandrecht an sämtlichen bestehenden und künftigen Ansprüchen der Verpflichteten aus dem mit der Bauträgerin geschlossenen Kaufvertrag betreffend eine – von der vorrangigen Gläubigerin kreditfinanzierte – Wohnung erwarb, insbesondere ein Pfandrecht auf Ansprüche aus der Rückabwicklung oder prozessualen Durchsetzung dieses Vertrags. Da seit Ende 2008 feststehe, dass die Bauträgerin die Kaufverträge nicht mehr vollständig erfüllen werde, die Erfüllung also nachträglich teilweise unmöglich geworden sei, habe die Verpflichtete (und in der Folge die vorrangige Überweisungsgläubigern) seit diesem Zeitpunkt gegenüber dem hier beklagten Rechtsanwalt als Treuhänder Anspruch auf Rückerstattung des Treuguts, dessen Ausfolgung an die Bauträgerin nicht mehr in Betracht komme. Zwar könne solange, als der Auftragsvertrag noch aufrecht sei, das dem Geschäftsbesorger zum Zwecke der Geschäftsbesorgung Überlassene, also hier das Treugut, nicht zurück verlangt werden; wohl aber dann, wenn der Auftrag aus anderen Gründen, wie etwa durch Widerruf, beendet sei. Zu einem solchen Widerruf sei die Überweisungsgläubigerin („Rückabwicklung … dieses Vertrags“) ermächtigt worden. Die Auszahlung des auf dem Treuhandkonto erliegenden Betrags an die vorrangige Gläubigerin sei daher nicht rechtswidrig gewesen.
+Unter Berufung auf diese Entscheidung wiesen die Vorinstanzen die Drittschuldnerklage ab.
+In der außerordentlichen Revision zieht die Klägerin die Richtigkeit der Entscheidung 7 Ob 153/14x und die darauf aufbauende Argumentation der Vorinstanzen mit dem Argument in Zweifel, in der Entscheidung 3 Ob 223/12h sei klargestellt worden, dass ein Geldanspruch gegen den Treuhänder nur dann nach § 294 EO zu pfänden sei, wenn er bereits entstanden sei, was eine Kündigung (einen Widerruf) des Treuhandverhältnisses voraussetze. Eine wirksame Pfändung durch die andere Gläubigerin der Verpflichteten liege daher nicht vor.
+Rechtliche Beurteilung
+Dabei übersieht die Klägerin, dass die Vorinstanzen in Übereinstimmung mit der Entscheidung 7 Ob 153/14x erkennbar davon ausgingen, bereits im Vorbringen der anderen Gläubigerin in jenem Exekutionsantrag, der zur Exekutionsbewilligung führte, sei das Tatsachensubstrat enthalten gewesen, dass Gegenstand der Exekutionsbewilligung (auch) die Pfändung sämtlicher Ansprüche aus der Rückabwicklung oder prozessualen Durchsetzung des Kaufvertrags war. Die darauf beruhende Ansicht, dass die Gläubigerin mit der konkreten Exekutionsbewilligung auch ermächtigt wurde, „Rückabwicklungsansprüche“, und damit auch den Widerruf des Treuhandauftrags im Namen der Verpflichteten geltend zu machen, ist zumindest vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00146.16S.0824.000

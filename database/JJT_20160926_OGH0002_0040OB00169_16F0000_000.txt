@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.09.2016
+Geschäftszahl
+4Ob169/16f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik und Dr. Rassi sowie die fachkundigen Laienrichter DI Dr. Cunow und MR DI Dr. Rödler als weitere Richter in der Rechtssache der Antragstellerin G*****, Inc., *****, vertreten durch Gassauer-Fleissner Rechtsanwälte GmbH in Wien, unter Mitwirkung von Haffner und Keschmann Patentanwälte GmbH in Wien, wegen Erteilung eines ergänzenden Schutzzertifikats, über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 19. Mai 2016, GZ 34 R 25/16w-3, womit der Beschluss der technischen Abteilung des Patentamts vom 6. November 2015, SZ 27/2005-14, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen wiesen den Antrag auf Erteilung eines ergänzenden Schutzzertifikats für ein bestimmtes Erzeugnis auf Basis eines bestimmten Grundpatents mit der Begründung zurück, der gegenständliche Wirkstoff sei zum Prioritätszeitpunkt nicht im Grundpatent offenbart gewesen. Das Rekursgericht ging davon aus, dass der Fachmann aus dem Grundpatent keine Informationen erhalte, die den Stand der Technik so eingrenzen, dass ihm in naheliegender Weise die Auswahl des Wirkstoffs möglich wäre.
+Rechtliche Beurteilung
+In ihrem dagegen erhobenen außerordentlichen Rechtsmittel zeigt die Antragstellerin keine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG auf.
+Nach Art 3 lit a der VO (EG) Nr 469/2009 des Europäischen Parlaments und des Rates vom 6. 5. 2009 über das ergänzende Schutzzertifikat für Arzneimittel (ESZ-VO) wird das Zertifikat erteilt, wenn in dem Mitgliedstaat, in dem die Anmeldung des Zertifikats eingereicht wird, zum Zeitpunkt dieser Anmeldung das Erzeugnis durch ein in Kraft befindliches Grundpatent geschützt ist. Art 1 lit b ESZ-VO definiert das Erzeugnis als den Wirkstoff oder die Wirkstoffzusammensetzung eines Arzneimittels. Art 4 der ESZ-VO regelt den Schutzgegenstand des Zertifikats. Demnach erstreckt sich der durch das Zertifikat gewährte Schutz in den Grenzen des durch das Grundpatent gewährten Schutzes allein auf das Erzeugnis, das von der Genehmigung erfasst wird. Gegenstand des Schutzzertifikats ist nicht die im Grundpatent geschützte Erfindung, sondern ein Erzeugnis.
+Die Voraussetzungen für die Erteilung eines Zertifikats nach der ESZ-VO wurden vom EuGH bereits in mehreren Entscheidungen umfassend geklärt (dazu zuletzt 4 Ob 104/16x). An dieser Rechtsprechung haben sich die Vorinstanzen orientiert. Der Hinweis im Rechtsmittel auf die Entscheidungen des deutschen Bundespatentgerichts sowie des High Court of England and Wales kann die Zulässigkeit des Rechtsmittels schon deshalb nicht begründen, weil diesen Entscheidungen relevante Grundsatzentscheidungen des EuGH zum ESZ-VO zeitlich nachfolgten, die von den Vorinstanzen berücksichtigt wurden.
+Die Bestimmung des Schutzbereichs eines Patents hängt im Allgemeinen von den Umständen des Einzelfalls ab, sodass dieser Frage keine darüber hinausgehende Bedeutung zukommt (4 Ob 29/06b). Hängt – wie auch in der hier zu beurteilenden Rechtssache – eine Entscheidung zudem von der Lösung einer Frage des Unionsrechts ab, so ist die Anrufung des Obersten Gerichtshofs zur Nachprüfung dessen Anwendung auf der Grundlage der Rechtsprechung des EuGH nur zulässig, wenn der zweiten Instanz bei Lösung dieser Frage eine gravierende Fehlbeurteilung unterlief (RIS-Justiz RS0117100). Eine derartige Fehlbeurteilung liegt hier nicht vor. Aufgrund der getroffenen Feststellungen ist der daraus gezogene Schluss nicht zu beanstanden, dass die in der Rechtsprechung des EuGH aufgestellten Anforderungen vorliegend nicht erfüllt sind.
+Die gerügte Mangelhaftigkeit des Rekursverfahrens wurde geprüft, sie liegt nicht vor (§ 71 Abs 3 AußStrG) und kann daher keine erhebliche Rechtsfrage begründen.
+Die Anregung zur Einholung einer Vorabentscheidung beim Europäischen Gerichtshof war nicht aufzugreifen, weil zur Auslegung und Bedeutung der unionsrechtlichen Grundlagen und zu den sich daran anknüpfenden rechtlichen Konsequenzen keine Zweifel bestehen (vgl RIS-Justiz RS0082949). Ob das Schutzzertifikat in der zu beurteilenden Konstellation zu erteilen ist, hängt im Ergebnis von der Gesamtwürdigung und Gewichtung der relevanten Umstände im konkreten Einzelfall ab, die den nationalen Gerichten vorbehalten ist (vgl 4 Ob 126/16g). Somit wirft auch die unterlassene Vorlage durch das Rekursgericht keine erhebliche Rechtsfrage auf.
+Der außerordentliche Revisionsrekurs ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0040OB00169.16F.0926.000

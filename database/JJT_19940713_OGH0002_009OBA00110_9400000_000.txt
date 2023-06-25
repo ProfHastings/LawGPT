@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.07.1994
+Geschäftszahl
+9ObA110/94
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr.Klinger als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofes Dr.Maier und Dr.Steinbauer sowie die fachkundigen Laienrichter Dr.Heinz Paul und Walter Darmstädter als weitere Richter in der Arbeitsrechtssache der klagenden Partei Alfred T*****, Programmierer, ***** vertreten durch Dr.Wilhelm Klauser & Prändl, Rechtsanwälte OEG in Wien, wider die beklagte Partei Dkfm.Franz K. K*****, beeideter Buchprüfer und Steuerberater, ***** vertreten durch Dr.Christian Gassauer-Fleissner, Rechtsanwalt in Wien, wegen S 71.139,76 sA (Revisionsinteresse S 66.457,34 sA), infolge Rekurses der beklagten Partei gegen den Beschluß des Oberlandesgerichtes Wien vom 28.Februar 1994, GZ 34 Ra 50/93-29, womit infolge Berufung der klagenden Partei gegen das Urteil des Arbeits- und Sozialgerichtes Wien vom 28.Jänner 1993, GZ 25 Cga 767/90-21, aufgehoben wurde, in nichtöffentlicher Sitzung den
+Beschluß
+gefaßt:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die Kosten des Rekursverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+Rechtliche Beurteilung
+Der Rekursgrund der Mangelhaftigkeit des Berufungsverfahrens, mit dem der Beklagte im wesentlichen in unzulässiger Weise die Beweiswürdigung des Berufungsgerichtes bekämpft, liegt nicht vor (§ 510 Abs 3 ZPO).
+Die rechtliche Beurteilung ist nach Ansicht des Berufungsgerichtes vom noch ergänzend im fortzusetzenden Verfahren festzustellenden Sachverhalt abhängig. Hält das Berufungsgericht die erstgerichtlichen Feststellungen für ergänzungsbedürftig, dann kann der Oberste Gerichtshof, der keine Tatsacheninstanz ist, dieser Ansicht nicht entgegentreten (ZAS 1993/5). Spruchreife der Rechtssache ist jedenfalls schon deshalb nicht gegeben, weil das Berufungsgericht unter anderem auch die Feststellung, daß nicht festgestellt werden könne, daß der Kläger die Erlaubnis hatte, fremde bzw ihm gehörende Software an seinem PC-Arbeitsplatz zu benutzen, nicht übernahm. Daher kann weder die Rechtsansicht des Erstgerichtes, daß der Verstoß gegen die Dienstanweisung, keine fremde Software zu installieren, für sich allein den Entlassungsgrund der Vertrauensunwürdigkeit begründe, überprüft werden, noch gibt es eine Grundlage für den Ausschluß des geltend gemachten Entlassungsgrundes der verbotswidrig installierten Software.
+Im übrigen sind die vom Berufungsgericht angeführten, allgemeinen vom Einzelfall abhängigen Voraussetzungen des Entlassungsgrundes der Vertrauensunwürdigkeit nach § 27 Z 1 AngG richtig, sodaß es insoweit ausreicht, auf deren Richtigkeit zu verweisen (§ 48 ASGG).
+Soweit das Rekursgericht die Zulässigkeit des Rekurses gegen seinen Aufhebungsbeschluß damit begründet, daß es zur Frage der Entlassung im Zusammenhang mit Software-Kopien und bei bereits erfolgter Dienstfreistellung keine verwertbare Judikatur des Obersten Gerichtshofes gebe, äußert es damit keine bindende vom Obersten Gerichtshof überprüfbare Rechtsansicht (Fasching Lehrbuch2 Rz 1822).
+Dem Rekurs kommt daher keine Berechtigung zu.
+Der Kostenvorbehalt beruht auf § 52 Abs 1 ZPO.

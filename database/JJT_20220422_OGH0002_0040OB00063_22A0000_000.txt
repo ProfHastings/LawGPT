@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2022
+Geschäftszahl
+4Ob63/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi, MMag. Matzka und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei D* R*, vertreten durch Mag. Alexander Tupy, Rechtsanwalt in Wien, gegen die beklagte Partei T* Limited, *, Malta, vertreten durch die BRANDL TALOS Rechtsanwälte GmbH in Wien wegen 14.523,73 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Leoben vom 17. Jänner 2022, GZ 1 R 234/21k-15, mit dem das Urteil des Bezirksgerichts Judenburg vom 24. September 2021, GZ 7 C 56/21f-10, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Text
+Begründung:
+[1] 			Die Beklagte mit Sitz in Malta verfügt über eine maltesische Glücksspiellizenz. Auf ihrer deutschsprachigen Website bot sie auch in Österreich die Teilnahme an Online-Glücksspiel, unter anderem an Online-Pokerspielen an, ohne über eine Konzession nach dem österreichischen GSpG zu verfügen.
+[2] 		Voraussetzung für die Teilnahme ist ein Nutzerkonto und ein Guthabenkonto mit Spielguthaben. Dafür müssen die Spieler zunächst Geld auf ein Konto der Beklagten einzahlen. Die Beklagte behält für die Zurverfügungstellung ihrer Online-Plattform einen gewissen Prozentsatz der Einsätze aller Spieler als Servicegebühr (sog Tischanteil oder rake) ein. Die Spieler kennen die Identitäten ihrer Mitspieler nicht und leisten einander keine direkten Zahlungen.
+[3] 		Der Kläger nahm von 2019 bis 2021 als Verbraucher vorwiegend an Online-Pokerspielen teil und verlor insgesamt 14.523,73 EUR. Dabei leistete er nie Zahlungen direkt an andere Spieler, die ihm überdies unbekannt waren. Die Abwicklung lief immer über das bei der Beklagten eingerichtete Spielerkonto.
+[4] 		Der Kläger begehrt die Rückzahlung seines Spieleinsatzes aus dem Titel der ungerechtfertigten Bereicherung und des Schadenersatzes, weil es sich um verbotenes Glücksspiel gehandelt habe.
+[5] 		Die Beklagte argumentierte unter anderem, dass beim Online-Poker nur Vertragsverhältnisse der Spieler unter einander, nicht aber solche mit ihr als Anbieterin entstünden. Sie sei daher für Rückforderungen aus verbotenem Pokerspiel gar nicht, jedenfalls aber nicht über den rake hinaus passivlegitimiert. Außerdem wendete sie Gegenforderungen ein.
+[6] 		Die Vorinstanzen sahen den Klagsanspruch als berechtigt, die Gegenforderungen als nicht berechtigt an und gaben der Klage statt. Der Rückforderungsanspruch bestehe unabhängig von einem Fortwirken der Bereicherung bei der Beklagten.
+Rechtliche Beurteilung
+[7] 		Die ordentliche Revision der Beklagten zeigt keine erheblichen Rechtsfragen auf und ist daher nicht zulässig.
+[8] 		1. Das Berufungsgericht und die Beklagte begründeten die Zulässigkeit der Revision mit fehlender höchstgerichtlicher Rechtsprechung zur Frage, zwischen welchen Personen beim Online-Poker (Glücksspiel-)Verträge abgeschlossen und Leistungen erbracht werden.
+[9] 		2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn sie vor der Entscheidung über das Rechtsmittel bereits durch eine andere Entscheidung des Obersten Gerichtshofs geklärt wurde (RS0112921 [T5]).
+[10] 		Die vom Berufungsgericht und in der Revision aufgezeigte Rechtsfrage wurde inzwischen in der Entscheidung 6 Ob 229/21a vom 2. Februar 2022 (Rz 18 ff) gelöst.
+[11] 		3. Nach dieser Entscheidung ist auch der Vertrag zwischen dem Anbieter eines verbotenen Non-Bankhalterspieles (wie Poker) und den Spielern nichtig. Es kommt also gerade nicht darauf an, ob die Beklagte als Anbieterin eines Glücksspiels auch selbst an Spielen mit dem Kläger teilnahm oder (nur) zwischen den Teilnehmern des Online-Pokerspiels untereinander Glücksverträge zustande kamen (Rz 20).
+[12] 		Dass die Zahlungen an die Beklagte – wie auch hier festgestellt – als Einzahlungen auf Spielerkonten erfolgten, entspricht auch dem Sachverhalt, der der Entscheidung 6 Ob 229/21a zugrunde lag, und wurde dort bei der Prüfung der Passivlegitimation für den Bereicherungsanspruch bereits berücksichtigt (Rz 25 bis 27). Die Beklagte nahm die Einzahlungen nach den Feststellungen gerade nicht als reine Zahlstelle entgegen, sondern machte sie zur Voraussetzung für die Teilnahme an den von ihr konzessionslos angebotenen Glücksspielen, sodass die in der Revision zitierte Entscheidung 8 Ob 94/13a nicht einschlägig ist.
+[13] 		Die in der Revision in Zusammenhang mit diesen beiden Aspekten gerügten sekundären Feststellungsmängel liegen daher mangels Relevanz nicht vor.
+[14] 		4. Auch sonst zeigt die Beklagte in ihrem Rechtsmittel keine neuen Aspekte auf. Die Entscheidungen der Vorinstanzen stehen mit der inzwischen ergangenen höchstgerichtlichen Rechtsprechung in Einklang, sodass die Revision zurückzuweisen ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00063.22A.0422.000

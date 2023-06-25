@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.08.2014
+Geschäftszahl
+14Os60/14a
+Kopf
+Der Oberste Gerichtshof hat am 12. August 2014 durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Philipp als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Mag. Hetlinger, die Hofräte des Obersten Gerichtshofs Dr. Nordmeyer und Dr. Oshidari sowie die Hofrätin des Obersten Gerichtshofs Dr. Mann in Gegenwart der Richteramtsanwärterin Mag. Zillinger als Schriftführerin in der Strafsache gegen Bettina G***** wegen des Verbrechens des schweren Betrugs nach §§ 15, 146, 147 Abs 1 Z 1 erster Fall und Abs 3 StGB und einer weiteren strafbaren Handlung über die Nichtigkeitsbeschwerde und die Berufung der Angeklagten gegen das Urteil des Landesgerichts Eisenstadt als Schöffengericht vom 25. März 2014, GZ 15 Hv 38/13h-31, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Zur Entscheidung über die Berufung werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Der Angeklagten fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+Mit dem angefochtenen Urteil wurde Bettina G***** - soweit im Verfahren über die Nichtigkeitsbeschwerde von Bedeutung - des Verbrechens des schweren Betrugs nach (richtig) §§ 15, 146, 147 Abs 1 Z 1 erster Fall und Abs 3 StGB schuldig erkannt.
+Danach hat sie am 4. Juni 2012 in ***** versucht, mit dem Vorsatz, sich durch das Verhalten des Getäuschten unrechtmäßig zu bereichern, den Richter des Landesgerichts *****, Dr. M***** in einem arbeitsgerichtlichen Verfahren dieses Gerichts durch Täuschung über Tatsachen und unter Verwendung einer (richtig ?vgl US 11, wonach sie die Paraphe nachmachte; Kienapfel/Schroll in WK2 StGB § 223 Rz 168 ff?) falschen Urkunde, nämlich unter Vorlage eines - in der (elektronischen) Textdatei nachträglich veränderten -
+Dienstvertrags, dessen Ausdruck sie mit der Paraphe des Wolfgang T***** versah, zum Zuspruch von 50.542,33 Euro zu verleiten, mithin zu einer Handlung, welche die T***** GmbH in einem 50.000 Euro übersteigenden Betrag am Vermögen geschädigt hätte.
+Rechtliche Beurteilung
+Die dagegen aus den Gründen der Z 5, 9 lit a und 10 des § 281 Abs 1 StPO ergriffene Nichtigkeitsbeschwerde ist nicht im Recht.
+Die Fragen, auf welchem Computer die (Word-)Dateien zum gegenständlichen Dienstvertrag verändert wurden, und ob dies von der Beschwerdeführerin selbst oder von jemand anderem in ihrem Auftrag durchgeführt wurde, betreffen keine entscheidende Tatsache, weshalb die dazu getroffene Negativfeststellung (US 10) einer Anfechtung mit Mängelrüge (hier nominell Z 5 zweiter und vierter Fall) entzogen ist (RIS-Justiz RS0117499). Im Übrigen wurde die Verantwortung der Beschwerdeführerin, sie habe „keinen Zugang zu dem Apple-PC“ (im Unternehmen des Wolfgang T*****) gehabt, ohnehin erörtert (US 20 f).
+Gleiches gilt für ihre Angaben und jene des Zeugen DI Gert G*****, sie habe auch keinen Zugang zu dessen Safe gehabt, in dem sich der Dienstvertrag seit Mai 2011 befunden habe (vgl US 28 f).
+Die Aussage des Zeugen Wolfgang T*****, das Passwort auf diesem, hauptsächlich von ihm verwendeten, Computer habe zur Zeit der Hauptverhandlung noch immer auf den Namen der Beschwerdeführerin gelautet (ON 29 S 45), betrifft ebenfalls keine entscheidende Tatsache. Ausschließlich eine solche wäre aber tauglicher Bezugspunkt des Einwands der Unvollständigkeit bei der Beurteilung der Überzeugungskraft dieser Aussage (RIS-Justiz RS0119422 [T4]).
+Die Kritik an der - abermals nicht entscheidenden - Feststellung dazu, wo die veränderte Datei betreffend den gegenständlichen Dienstvertrag abgespeichert wurde (US 10), spricht inhaltlich keine Kategorie der nominell geltend gemachten Z 5 des § 281 Abs 1 StPO an.
+Die Gründe des Wolfgang T*****, im arbeitsrechtlichen Verfahren gegen die Beschwerdeführerin einen Vergleich zu schließen (US 13 f), sind allenfalls für die Abgrenzung von versuchter und vollendeter Tatausführung, nicht aber für die Schuld- oder die Subsumtionsfrage von Bedeutung (RIS-Justiz RS0122138). Demnach bedarf auch das dazu erstattete Vorbringen der Mängelrüge keiner Antwort.
+Weshalb das Einbringen einer Klage unter wahrheitswidriger Berufung auf eine Provisionsvereinbarung und - von der Beschwerdeführerin prozessordnungswidrig übergangen - Vorlage eines gefälschten Dienstvertrags (US 12 f) noch keine Täuschung, mithin keine Ausführungshandlung sein soll, erklärt die Rechtsrüge (Z 9 lit a) nicht (vgl RIS-Justiz RS0090467, RS0094550). Insbesondere legt sie nicht dar, warum die Handlungen nicht zumindest (unmittelbar) mitbestimmend für den angestrebten Irrtum des zuständigen Richters über die Berechtigung des eingeklagten Anspruchs sein sollen oder es (im Hinblick auf den vom Erstgericht angenommenen, bloßen Tatversuch) darauf ankommen soll, ob der Richter tatsächlich geirrt habe oder auf die Täuschung überhaupt eingegangen sei.
+Die Behauptung eines Rechtsfehlers mangels Feststellungen zum auf unrechtmäßige Bereicherung gerichteten Vorsatz übergeht die dazu unmissverständlich getroffenen Konstatierungen (US 15; vgl auch US 7, wonach sie überlegt habe, wie sie „auch Forderungen geltend machen könnte, die ihr mangels entsprechender Vereinbarung nicht zustanden“, und US 32, wonach die Beschwerdeführerin wusste, dass diese Provision mit Wolfgang T***** „nicht vereinbart war“).
+Der Einwand der Subsumtionsrüge (Z 10), das Erstgericht habe nicht festgestellt, dass die Beschwerdeführerin die Urkunde „unbefugt“ (gemeint offenbar: ohne Einverständnis des Wolfgang T***** [vgl RIS-Justiz RS0095783; 17 Os 8/14a]) „verfälschte“ (richtig: fälschte), orientiert sich abermals nicht am Urteilssachverhalt (US 7 und 11 f).
+Gleiches gilt für die unter diesem Nichtigkeitsgrund aufgestellte Behauptung, der gefälschte Dienstvertrag sei dem zuständigen Richter nicht „zum Lesen zugänglich gemacht“, mithin nicht im Sinn des § 147 Abs 1 Z 1 StGB „benützt“, worden (vgl hingegen US 13).
+Die Nichtigkeitsbeschwerde war daher bei der nichtöffentlichen Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO).
+Daraus folgt die Zuständigkeit des Oberlandesgerichts zur Entscheidung über die Berufung (§ 285i StPO).
+Der Kostenausspruch beruht auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0140OS00060.14A.0812.000

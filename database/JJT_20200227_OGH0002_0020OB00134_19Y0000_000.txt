@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2020
+Geschäftszahl
+2Ob134/19y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei M* GmbH, *, vertreten durch Huber Swoboda Oswald Aixberger Rechtsanwälte GmbH in Wien, gegen die beklagte Partei Dr. R* E*, vertreten durch Dr. Michael Ott und Mag. Christoph Klein, Rechtsanwälte in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 29. Mai 2019, GZ 40 R 306/18y-30, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die klagende Partei wendet sich nicht gegen die Auffassung des Berufungsgerichts, die festgestellten Vorkommnisse mit dem sich bei der Beklagten zeitweise aufhaltenden Hund stellten den Kündigungsgrund des unleidlichen Verhaltens gemäß § 30 Abs 2 Z 3 MRG nicht her. Sie stützt sich in ihrer außerordentlichen Revision nur mehr auf die Tierhaltung in einer Mietwohnung als Verwirklichung eines nachträglich vereinbarten Kündigungsgrundes gemäß § 30 Abs 2 Z 13 MRG.
+Die im Rechtsmittel ausschließlich relevierte Problematik der Wirksamkeit eines nicht schon im Mietvertrag, sondern erst nachträglich vereinbarten Kündigungsgrundes (vgl zu § 19 Abs 6 MG: RS0068930) ist im vorliegenden Fall aber nicht präjudiziell, weil ein anderes Tatbestandsmerkmal des § 30 Abs 2 Z 13 MRG fehlt:
+Rechtliche Beurteilung
+1. Ein vereinbarter Grund, der den Vermieter nach § 30 Abs 2 Z 13 MRG zur Aufkündigung eines Mietvertrags berechtigt, muss für den Vermieter objektiv wichtig und bedeutsam sein und den sonst in § 30 Abs 2 MRG angeführten Gründen an Bedeutung nahekommen (4 Ob 133/18i; RS0070752, RS0070705). Denn die vom Gesetzgeber gewollten und im Gesetz verankerten Grundprinzipien der Kündigungsbeschränkungen zum Schutz des Mieters dürfen nicht durch vertragliche Vereinbarung unterlaufen werden (6 Ob 628/94; vgl 7 Ob 204/14x; RS0070712).
+2. Die klagende Partei hat trotz eines entsprechenden Einwands der Beklagten im Verfahren erster Instanz ihr besonderes Bedürfnis am vereinbarten Kündigungsgrund lediglich damit begründet, dass es ihr freistehe, die Haltung von Tieren zu untersagen und einen Verstoß dagegen als Kündigungsgrund zu vereinbaren. In der außerordentlichen Revision geht sie auf dieses Tatbestandsmerkmal nicht mehr ein.
+3. Das Halten von Tieren in einer Wohnung stellt an sich noch keinen Kündigungsgrund dar. Wenn durch die Tierhaltung Mitbewohner belästigt werden und ihnen das Zusammenleben verleidet wird, kann ohnehin der Kündigungsgrund des § 30 Abs 2 Z 3 MRG verwirklicht sein (RS0068040); ebenso bei unsauberer Tierhaltung (RS0068076 [T1]).
+Ohne zusätzliches besonderes wichtiges Interesse der klagenden Partei an dem Tierhaltungsverbot im Einzelfall kommt der vertraglich vereinbarte Kündigungsgrund der bloßen Verletzung dieses Verbots den anderen in § 30 Abs 2 MRG angeführten Fällen an Bedeutung auch nicht „nahe“.  Ein solches Interesse hat die klagende Partei weder in erster Instanz noch in ihrer Revision dargelegt. Sie kann ihre Aufkündigung im vorliegenden Fall daher schon deshalb nicht erfolgreich auf § 30 Abs 2 Z 13 MRG stützen.
+4. Mangels Vorliegens einer erheblichen, für die Entscheidung auch präjudiziellen Rechtsfrage iSd § 502 Abs 1 ZPO ist die außerordentliche Revision daher zurückzuweisen (RS0088931).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E128057

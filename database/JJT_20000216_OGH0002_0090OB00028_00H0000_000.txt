@@ -1,0 +1,17 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.02.2000
+Geschäftszahl
+9Ob28/00h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Maier als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr. Steinbauer, Dr. Spenling, Dr. Hradil und Dr. Hopf als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH & Co KG, *****, vertreten durch Moringer & Moser Rechtsanwälte OEG in Linz, und der Nebenintervenientin auf Seiten der Klägerin E***** GmbH, *****, vertreten durch Dr. Wolfgang Dartmann und Dr. Haymo Modelhart, Rechtsanwälte in Linz, gegen die beklagte Partei Versicherung*****, vertreten durch Dr. Alfred Strommer ua, Rechtsanwälte in Wien, wegen S 1,134.089,70 sA, infolge außerordentlicher Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 10. November 1999, GZ 16 R 129/99d-125, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Das Wesen des Rechtswidrigkeitszusammenhanges liegt darin, dass auf Grund eines rechtswidrigen Verhaltens nur für jene verursachten Schäden zu haften ist, die die übertretene Verhaltensnorm nach ihrem Schutzzweck gerade verhindern wollte. Die formale Übertretung einer Norm genügt hiezu nicht; es muss immer auch ihrem Schutzzweck zuwidergehandelt werden (RIS-Justiz RS0022933, zuletzt 2 Ob 246/99m). Bei Vertragsverletzungen ergibt sich der Rechtswidrigkeitszusammenhang aus den Interessen, die der Vertrag schützen sollte. Welche das sind, ist von Fall zu Fall im Wege der Vertragsauslegung zu ermitteln (RIS-Justiz RS0017850, zuletzt 7 Ob 189/98i, RS 0022933, insbes. 5 Ob 62/97x). Diese Grundsätze hat das Berufungsgericht berücksichtigt:
+Soweit die Beklagte vertraglich verpflichtet war, eine Bauwesenversicherung (auch) zugunsten der Klägerin abzuschließen, konnte der Zweck einer solchen Verpflichtung nur darin liegen, im Versicherungsfall die Klägerin in den Genuss der im Versicherungsvertrag vorgesehenen Leistungen kommen zu lassen. Unstrittig ist, dass es sich bei der klageweise geltend gemachten Forderung um Mängelbehebungskosten handelt. Nach dem zum Inhalt des Versicherungsvertrages gewordenen Art 13 der AVB für die Bauwesenversicherung zählen aber Baumängel und deren Behebungskosten nicht zu den versicherten Gefahren. Nur Schäden, die über den Aufwand zur nachträglichen Beseitigung hinausgehen, hat der Versicherer zu tragen (RIS-Justiz RS0080936, 7 Ob 40/86). Selbst dann, wenn der Versicherer sämtliche Kosten der Mängelbehebung erstattet oder seine Zahlungspflicht anerkannt hätte, fehlte es daher im Falle einer schuldhaften Nichtverlängerung des Versicherungsvertrages durch die Beklagte am Erfordernis des Risikozusammenhanges zwischen Vertragsverletzung und eingetretener Folge, nämlich der Nichterbringung einer aus dem Versicherungsvertrag gar nicht geschuldeten Leistung. Die Klägerin vermag somit keine zur Anrufung des Obersten Gerichtshofes berechtigende Rechtsfrage iSd § 502 Abs 1 ZPO aufzuzeigen.

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2020
+Geschäftszahl
+9ObA80/20k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Dr. Fichtenau und den Hofrat des Obersten Gerichtshofs Dr. Hargassner sowie die fachkundigen Laienrichter Mag. Klaus Oblasser (aus dem Kreis der Arbeitgeber) und Wolfgang Jelinek (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei P***** B*****,  vertreten durch Stanek Raidl Konlechner Rechtsanwälte OG in Wien, gegen die beklagte Partei T***** GmbH, *****, vertreten durch Dr. Alexandra Knell, Rechtsanwältin in Wien, wegen Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts  Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 22. Juli 2020, GZ 9 Ra 53/20k-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen wiesen die von der Klägerin wegen Sozialwidrigkeit erhobene Kündigungsanfechtungsklage übereinstimmend ab. Die ordentliche Revision wurde vom Berufungsgericht nicht zugelassen.
+In ihrer außerordentlichen Revision zeigt die Klägerin keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+1. Bei der Anfechtung einer Kündigung nach § 105 Abs 3 Z 2 ArbVG ist zunächst zu prüfen, ob dem Arbeitnehmer durch die Kündigung erhebliche soziale Nachteile entstehen, die über die normale Interessenbeeinträchtigung bei einer Kündigung hinausgehen (RS0051746 [T7]). Ist dies der Fall, so ist das Vorliegen von subjektiven oder objektiven Kündigungsrechtfertigungsgründen zu prüfen und anschließend eine Interessenabwägung vorzunehmen (RS0116698).
+2. Eine Kündigung ist dann iSd § 105 Abs 3 Z 2 lit b ArbVG durch betriebliche Erfordernisse begründet, wenn sie im Interesse des Betriebs notwendig ist. Im Fall einer betrieblichen Rationalisierung ist die Beurteilung der Zweckmäßigkeit und Richtigkeit der Maßnahme grundsätzlich dem wirtschaftlichen Ermessen des Betriebsinhabers vorbehalten (vgl RS0051649). Die konkrete Kündigung muss aber zur Verwirklichung des beabsichtigten Erfolgs geeignet sein (9 ObA 43/19t [Pkt 4.]).
+3. Die Frage, ob dem Arbeitgeber der Nachweis für das Vorliegen einer betriebsbedingten Kündigung nach § 105 Abs 3 Z 2 lit b ArbVG gelungen ist, kann nur nach den Umständen des jeweiligen Einzelfalls beurteilt werden und bildet regelmäßig keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (vgl 9 ObA 3/07t). Dies ist hier nicht anders. Die angefochtene Entscheidung des Berufungsgerichts bewegt sich im Rahmen der Grundsätze der Rechtsprechung zum Vorliegen einer betriebsbedingten Kündigung.
+4. Nach den Feststellungen ist die Rechtsauffassung des Berufungsgerichts, dass von einer verpönten „Austauschkündigung“ der Klägerin in Bezug auf eine bestimmte andere Mitarbeiterin nicht die Rede sein könne, nicht zu beanstanden (vgl 9 ObA 48/15x).
+5. Steht fest, dass durch die Kündigung wesentliche Interessen des Arbeitnehmers beeinträchtigt sind und andererseits in der Person des Arbeitnehmers gelegene Umstände betriebliche Interessen nachteilig berühren, dann sind diese Voraussetzungen zueinander in eine Wechselbeziehung zu setzen (9 ObA 80/19h mwN). Diese Interessenabwägung kann ebenfalls nur nach den jeweiligen Umständen des Einzelfalls erfolgen und stellt daher in der Regel ebenfalls keine erhebliche Rechtsfrage dar (RS0051818 [T8]).
+Die Beurteilung des Berufungsgerichts, die betrieblichen Interessen der Beklagten an der Beendigung des Arbeitsverhältnisses mit der Klägerin überwogen die durch die Kündigung beeinträchtigten Interessen der Klägerin, bewegt sich nach der Lage des Falls im Rahmen des den Gerichten in diesen Fällen eingeräumten Beurteilungsspielraums.
+6. Die Feststellungsgrundlage ist nur dann mangelhaft, wenn Tatsachen fehlen, die für die rechtliche Beurteilung wesentlich sind und dies Umstände betrifft, die nach dem Vorbringen der Parteien und den Ergebnissen des Verfahrens zu prüfen waren (RS0053317). Dies ist hier im Zusammenhang mit dem in der außerordentlichen Revision ins Treffen geführten „Sozialvergleich“ nicht der Fall. Die Beurteilung des Berufungsgerichts, die Klägerin habe im erstinstanzlichen Verfahren kein ausreichend konkretes Vorbringen zum Sozialvergleich iSd § 105 Abs 3 (richtig: Abs 3c) ZPO (vgl RS0051837) erstattet, ist nach Lage des Falls nicht unvertretbar.
+Mangels Geltendmachung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ist die außerordentliche Revision der Klägerin zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:009OBA00080.20K.0929.000

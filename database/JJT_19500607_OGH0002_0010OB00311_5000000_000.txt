@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.06.1950
+Geschäftszahl
+1Ob311/50
+Norm
+ZPO §502 Abs5;
+ZPO §503 Z2;
+ZPO §503 Z3;
+ZPO §503 Z4;
+Kopf
+SZ 23/192
+Spruch
+Anwendbarkeit des § 502 Abs. 5 ZPO., wenn das Berufungsgericht für den Fall der Feststellung eines bisher vom Erstrichter nicht beurteilten Sachverhaltes eine bestimmte rechtliche Beurteilung vorgeschrieben und der Erstrichter im Sinne dieser Rechtsauffassung entschieden hat.
+Entscheidung vom 7. Juni 1950, 1 Ob 311/50.
+I. Instanz: Bezirksgericht Liesing; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Im ersten Rechtsgang erklärte das Erstgericht die eingebrachte Kündigung für wirksam. Das Berufungsgericht hob ohne Rechtskraftvorbehalt auf, nunmehr hob das Erstgericht die Kündigung auf. Das Berufungsgericht bestätigte dieses Urteil.
+Diese Entscheidung wird von der Klägerin mit Revision angefochten, in der die Revisionsgrunde des § 503 Z. 2, 3 und 4 ZPO. geltend gemacht werden.
+Der Revisionsgegner beantragt, die Revision als unzulässig zu verwerfen, weil das Berufungsgericht den Rechtszug an den Obersten Gerichtshof in seinem bestätigenden Urteil nicht zugelassen habe. § 502 Abs. 5 ZPO. komme aber nicht zur Anwendung, weil das erste Urteil nicht wegen unrichtiger rechtlicher Beurteilung aufgehoben worden sei.
+Der Oberste Gerichtshof gab der Revision keine Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Ausführungen des Revisionsgegners sind nicht begrundet. Das Berufungsgericht hat sich nicht darauf beschränkt, in seinem Aufhebungsbeschluß dem Erstgericht weitere Beweise aufzutragen, sondern ihm überdies vorgeschrieben, wie es den Tatbestand rechtlich zu beurteilen habe, wenn es im neu durchzuführenden Verfahren zu einer abweichenden Tatsachenwürdigung kommen sollte. Das Erstgericht hat in der Tat im zweiten Urteil den Sachverhalt anders beurteilt und im Sinne der ihm aufgetragenen Rechtsansicht erkannt. Diese vom Berufungsgericht wiederholte Rechtsauffassung wird von der Revision angefochten. Es liegen aber die Voraussetzungen des § 502 Abs. 5 ZPO. vor, die immer dann gegeben sind, wenn das Erstgericht entweder überhaupt keine Möglichkeit hatte, die in der Revision angeschnittene Rechtsfrage selbständig zu beurteilen, weil ihm bereits vom Berufungsgericht für den Fall der Feststellung eines vom Erstgericht bisher nicht selbständig beurteilten Sachverhaltes eine bestimmte rechtliche Beurteilung vorgeschrieben worden ist, oder weil das Erstgericht an eine im Aufhebungsbeschluß ausgesprochene, von der seinen abweichenden Rechtsauslegung gebunden war. Der erste Fall ist hier gegeben, da das Erstgericht, das in seinem ersten Urteil keinen Anlaß hatte, die Frage zu erörtern, was Rechtens sei, wenn kein Mietvertrag vorliege, im zweiten Urteil erstmalig zu dieser Frage Stellung genommen hat, also in einem Zeitpunkt, da es dieses Problem nicht mehr nach seiner eigenen Rechtsauffassung frei beurteilen durfte.
+Die Revision ist demnach als zulässig anzusehen; sie ist aber in der Sache nicht begrundet.

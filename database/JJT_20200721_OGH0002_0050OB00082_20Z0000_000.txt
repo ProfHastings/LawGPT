@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.07.2020
+Geschäftszahl
+5Ob82/20z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei Eigentümergemeinschaft E*****, vertreten durch Dr. Susanne Schuh, Rechtsanwältin in Perchtoldsdorf, gegen die beklagte Partei S*****, vertreten durch Feuchtmüller Stockert Moick Rechtsanwälte GmbH & Co KG in Wien, wegen 41.229,76 EUR sA (Anmerkung nach § 27 Abs 2 WEG 2002), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 12. Februar 2020, GZ 13 R 17/20w-18, den
+Beschluss
+gefasst:
+Spruch
+1. Die Stellungnahme der klagenden Partei zum Revisionsrekurs wird zurückgewiesen.
+2. Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Das Verfahren über die Bewilligung der in § 27 Abs 2 WEG 2002 vorgesehenen Anmerkung einer Klage ist ein Grundbuchverfahren, auch wenn der Antrag auf Bewilligung – wie hier – im Zug eines Rechtsstreits beim Prozessgericht gestellt wird (5 Ob 196/17k mwN).
+Das grundsätzlich einseitige Grundbuchverfahren kennt keine Rechtsmittelgegenschriften. Die als Revisionsrekursbeantwortung zu wertende Stellungnahme der klagenden Partei zum Rechtsmittel des Gegners ist nach § 126 Abs 2 letzter Satz GBG als unzulässig zurückzuweisen.
+Nach § 27 Abs 1 Z 1 WEG 2002 besteht an jedem Miteigentumsanteil ein gesetzliches Vorzugspfandrecht zugunsten der Forderungen der Eigentümergemeinschaft gegen den Eigentümer des Anteils.
+Dieses Vorzugspfandrecht beschränkt sich nicht auf (primär gemeinte) Forderungen der Eigentümergemeinschaft auf Beitragszahlungen der einzelnen Wohnungseigentümer. Es umfasst auch die aus einem gesetzlichen Schuldverhältnis resultierenden Forderungen wie (insbesondere) Bereicherungs- oder Verwendungsansprüche, wenn diese aus der Verwaltung der Liegenschaft herrühren (5 Ob 95/04p = RIS-Justiz RS0114276 [T2] = immolex 2005/111, 277 [zust Vonkilch] = wobl 2005/5, 21 [zust Call] Painsi in GeKo Wohnrecht II § 27 WEG 2002 Rz 9; Illedits in Illedits/Reich-Rohrwig, Wohnrecht5 § 27 WEG 2002 Rz 5). Die Erhaltungspflicht betreffend allgemeine Teile der Liegenschaft sowie die Behebung ernster Schäden des Hauses in einem Wohnungseigentumsobjekt zählt nach § 28 Abs 1 Z 1 WEG 2002 zu den Angelegenheiten der (ordentlichen) Verwaltung. Das Vorzugspfandrecht gilt nach der überwiegenden Lehre auch für bereicherungsrechtliche Ansprüche der Eigentümergemeinschaft für von ihr im Rahmen der Erhaltungspflicht getragene Schäden, die ein Wohnungseigentümer im Rahmen einer Verfügungshandlung über sein Wohnungseigentumsobjekt (iSd § 16 Abs 2 WEG 2002) verursacht (Prader, Glosse zu 5 Ob 141/07g, immolex 2008, 21 f; Vonkilch Glosse zu 5 Ob 95/04p, immolex 2005, 277 ff; krit H. Löcker in Hausmann/Vonkilch, Österreichisches Wohnrecht4 § 27 WEG 2002 Rz 9).
+Von („genuinen“) Ansprüchen der Eigentümergemeinschaft, die aus der Verwaltung herrühren  und deshalb vom Vorzugspfandrecht erfasst sind, sind die, nach § 18 Abs 2 WEG 2002 idF der WRN 2006 der Eigentümergemeinschaft abgetretenen Gewährleistungs- und Schadenersatzansprüche zu unterscheiden, die einzelnen Wohnungseigentümern gegen dritte Vertragspartner zustehen. Für diese gilt das Vorzugspfandrecht nicht (ErläutRV 1183 BlgNR 22. GP 26; Painsi in GeKo II § 27 WEG Rz 11).
+Nach dem Klagevorbringen waren die von der beklagten Wohnungseigentümerin vorgenommenen Um- und Ausbaumaßnahmen (Dachgeschoss) mangelhaft, weshalb die Eigentümergemeinschaft die Schäden im Rahmen ihrer Erhaltungspflicht nach § 28 WEG 2002 beheben musste. Der Aufwand sei aus der Rücklage gedeckt worden. Der Eigentümergemeinschaft stehe daher ein bereicherungsrechtlicher Anspruch nach § 1042 ABGB zu.
+Die Rechtsansicht des Rekursgerichts, dieser Anspruch rühre aus der Verwaltung der Liegenschaft und sei vom Vorzugspfandrecht des § 27 Abs 1 Z 1 WEG 2002 erfasst, hält sich im Rahmen der höchstgerichtlichen Rechtsprechung und der überwiegenden Lehre. Die Entscheidung 5 Ob 141/07p = immolex 2008/7, 20 = RS0122784 zwingt zu keinem gegenteiligen Ergebnis: Der Oberste Gerichtshof ging dort nach dem Klagevorbringen davon aus, dass ein Wohnungseigentümer anlässlich von Umbauarbeiten seine vertraglich (angeblich) gegenüber der Eigentümergemeinschaft übernommenen Verpflichtungen verletzt hatte und die Eigentümergemeinschaft – anders als hier – gar keine bereicherungsrechtlichen Ansprüche geltend machte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0050OB00082.20Z.0721.000

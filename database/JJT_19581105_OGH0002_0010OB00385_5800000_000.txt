@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.11.1958
+Geschäftszahl
+1Ob385/58
+Norm
+Wechselgesetz 1955 Art1 Z5;
+Wechselgesetz 1955 Art2 Abs1;
+Kopf
+SZ 31/132
+Spruch
+Ein Wechsel mit zwei Zahlungsorten ist ungültig.
+Entscheidung vom 5. November 1958, 1 Ob 385/58.
+I. Instanz: Landesgericht Innsbruck; II. Instanz: Oberlandesgericht Innsbruck.
+Text
+Die klagende Partei hat an eigene Order den auf den Klagebetrag lautenden Wechsel ausgestellt. Die Beklagte hat ihn akzeptiert. Als Zahlungsort ist rechts oben "Innsbruck" angegeben. Der unter dem Namen und der Anschrift der Bezogenen vorgedruckte Vermerk: "Zahlbar bei ....... in ......." ist dahin ausgefüllt, daß er lautet:
+"Zahlbar bei Dr. H. M. & Co., Wien, F.-Gasse 81".
+Das Erstgericht hob infolge der Einwendungen der Beklagten den Wechselzahlungsauftrag wegen Ungültigkeit des Wechsels infolge Unbestimmtheit des Zahlungsortes auf.
+Das Berufungsgericht bestätigte.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Wenn in der Revision vorgetragen wird, der "Domizilvermerk" sei nachträglich beigesetzt worden und daher für die Annehmerin der Zahlungsort Innsbruck maßgebend, so ist darauf nicht einzugehen, weil insoweit eine im Revisionsverfahren unzulässige Neuerung vorliegt.
+Daß ein Wechsel mit mehreren Zahlungsorten ungültig ist, entspricht der herrschenden Auffassung (Grünhut, Wechselrecht, I S. 418; Staub - Stranz, Kommentar zum Wechselgesetz, 14. Aufl. Art. 1 Anm. 13; Jacobi, Wechsel, und Scheckrecht, S. 436; Schumann, Handelsrecht, II S. 345; Stanzl, Wechsel-, Scheck- und sonstiges Wertpapierrecht, S. 30 f., 38). An dieser Meinung ist festzuhalten, weil bei Angabe zweier Zahlungsorte ein wesentlicher Wechselbestandteil ins Unklare gesetzt wird, was im Ergebnis dem Fehlen dieses Bestandteiles gleichgesetzt werden muß. Sind nämlich zwei Zahlungsorte genannt, so weiß der Inhaber nicht, wo er den Wechsel vorlegen, der Bezogene nicht, wo er die Zahlung bereithalten, und wissen die Rückgriffschuldner nicht, wo durch den Inhaber die Zahlung verlangt werden soll. Alle diese Unklarheiten sind für das Wechselrecht unerträglich. Der Wechsel kann auch nicht in der Weise als gültig aufrechterhalten werden, daß etwa der zuerst genannte Zahlungsort maßgebend sein soll; für eine solche Lösung fehlt - abgesehen davon, daß leicht zweifelhaft sein kann, welcher Ort zuerst angegeben ist - eine gesetzliche Grundlage. Eine entsprechende Regelung ist von der Genfer Konferenz ausdrücklich abgelehnt worden (Hupka, Das einheitliche Wechselrecht, S. 15). Die schon bei ihrer Veröffentlichung von Wahle (Rspr. 1931 S. 196) und nunmehr auch von Jacobi a. a. O. S. 437 abgelehnte Entscheidung Rspr. 1931 Nr. 293 kann jedenfalls für das Genfer Recht nicht mehr aufrechterhalten werden. In dem hier vertretenen Sinn, daß nämlich ein Wechsel mit mehreren Zahlungsorten ungültig sei, ist denn auch bereits die Entscheidung DREvBl. 1938 Nr. 399 ergangen. Daran ist festzuhalten.
+Daß im vorliegenden Fall zwei Zahlungsorte angegeben sind, kann nicht ernstlich bezweifelt werden, weil eine unbefangene Betrachtung des Wechsels unklar läßt, ob er an dem als Zahlungsort benannten Ort, nämlich in Innsbruck, oder - wie gleichfalls im Papier bestimmt - in Wien gezahlt werden soll.
+Der Hinweis in der Revision auf Jacobi a. a. O. S. 440 f. ist mißverständlich. Dort wird bloß von der Zahlstelle gehandelt und nicht vom Zahlungsort und dazu ausgeführt, daß es nicht schadet, wenn Zahlungsort die Hauptstadt ist und die Zahlstelle in einer Straße in einem nicht eingemeindeten Vorort liegt. Ein solcher Fall liegt im Verhältnis zwischen Innsbruck und Wien nicht vor. Im übrigen führt gerade Jacobi einige Seiten vorher, nämlich auf S. 436, ausdrücklich und mit ausführlicher Begründung aus, daß ein Wechsel mit mehreren Zahlungsorten ungültig sei.

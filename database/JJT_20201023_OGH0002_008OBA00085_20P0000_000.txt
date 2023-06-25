@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.10.2020
+Geschäftszahl
+8ObA85/20p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner und den Hofrat Dr. Stefula als weitere Richter und die fachkundigen Laienrichter Mag. Dr. Werner Hallas (aus dem Kreis der Arbeitgeber) und Mag. Herbert Böhm (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei G***** H*****, gegen die beklagte Partei O***** GmbH, *****, vertreten durch die Aigner Rechtsanwaltsgesellschaft mbH in Pasching, wegen 15.374,41 EUR sA, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse 8.084,10 EUR sA) gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 18. Juni 2020, GZ 7 Ra 19/20y-33, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Im Revisionsverfahren ist allein noch strittig, ob die vom Kläger im Rahmen eines Sozialplans erhaltene freiwillige Abfertigung nach § 67 Abs 6 oder Abs 8 lit f EStG zu besteuern ist bzw ob Abs 6 EStG gegenüber Abs 8 lit f EStG bloß vorrangig ist oder vielmehr ausschließende Wirkung hat.
+Das Berufungsgericht vertrat die Ansicht, die Abfertigung sei vorrangig nach § 67 Abs 6 EStG zu versteuern und dass jener Betrag, der das begünstigte Ausmaß übersteigt, bis 22.000 EUR mit einem halben Steuersatz nach § 67 Abs 8 lit f EStG besteuert werden kann.
+Die Beklagte begründet die Zulässigkeit der außerordentlichen Revision iSd § 502 Abs 1 ZPO damit, dass das Normverständnis des Berufungsgerichts dem eindeutigen Gesetzeswortlaut widerspreche, da dieser ausdrücklich anführe, dass nur dann eine Besteuerung nach § 67 Abs 8 lit f EStG in Frage komme, wenn Bezüge nicht nach § 67 Abs 6 EStG besteuert werden.
+Rechtliche Beurteilung
+§ 67 Abs 8 lit f EStG lautet: „Bezüge, die bei oder nach Beendigung des Dienstverhältnisses im Rahmen von Sozialplänen als Folge von Betriebsänderungen im Sinne des § 109 Abs 1 Z 1 bis 6 des Arbeitsverfassungsgesetzes oder vergleichbarer gesetzlicher Bestimmungen anfallen, soweit sie nicht nach Abs 6 mit dem Steuersatz von 6 % zu versteuern sind, sind bis zu einem Betrag von 22.000 EUR mit der Hälfte des Steuersatzes, der sich bei gleichmäßiger Verteilung des Bezuges auf die Monate des Kalenderjahres als Lohnzahlungszeitraum ergibt, zu versteuern.“
+Die Beklagte übergeht, dass das Gesetz nicht das Wort „wenn“, sondern das Wort „soweit“ verwendet. Daraus hat das Berufungsgericht vertretbar abgeleitet, dass bei der Besteuerung von Bezügen im Rahmen von Sozialplänen zunächst die Bezüge als sonstige Bezüge iSd § 67 Abs 6 EStG mit 6 % zu erfassen sind und der in § 67 Abs 6 EStG nicht mehr gedeckte Betrag bis zu 22.000 EUR mit dem halben Steuersatz des § 67 Abs 8 lit f EStG zu versteuern ist (vgl LStR 2002 Rz 1114a; Knechtl in Wiesner/Grabner/Knechtl/Wanke, EStG [2019] § 67 Rz 168; Kirchmayr/Schaunig in Doralt/Kirchmayr/Mayr/Zorn, EStG21 [2020] § 67 Rz 151).
+Das Berufungsurteil befindet sich mit dem Gesetzeswortlaut im Einklang.
+Dass eine Rechtsprechung des Obersten Gerichtshofs zu dieser Frage des Steuerrechts fehlt, stellt keine erhebliche Rechtsfrage dar (RS0116438).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:008OBA00085.20P.1023.000

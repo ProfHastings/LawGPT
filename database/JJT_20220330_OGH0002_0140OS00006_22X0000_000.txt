@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+14Os6/22x
+Kopf
+Der Oberste Gerichtshof hat am 30. März 2022 durch die Senatspräsidentin des Obersten Gerichtshofs Mag. Hetlinger als Vorsitzende, den Hofrat des Obersten Gerichtshofs Hon.-Prof. Dr. Nordmeyer, die Hofrätinnen des Obersten Gerichtshofs Dr. Mann und Dr. Setz-Hummel LL.M. sowie den Hofrat des Obersten Gerichtshofs Dr. Haslwanter LL.M. in der Strafsache gegen * E* und einen Angeklagten wegen Verbrechen des Missbrauchs der Amtsgewalt nach § 302 Abs 1 StGB über die Nichtigkeitsbeschwerden und die Berufungen der Angeklagten E* und * H* sowie die Berufung der Staatsanwaltschaft gegen das Urteil des Landesgerichts für Strafsachen Wien als Schöffengericht vom 10. September 2021, GZ 13 Hv 75/21y-21, nach Anhörung der Generalprokuratur gemäß § 62 Abs 1 zweiter Satz OGH-Geo 2019 zu Recht erkannt:
+Spruch
+Aus Anlass der Nichtigkeitsbeschwerden wird das angefochtene Urteil aufgehoben und die Sache zu neuer Verhandlung und Entscheidung an das Landesgericht für Strafsachen Wien verwiesen.
+Mit ihren Rechtsmitteln werden die beiden Angeklagten und die Staatsanwaltschaft auf diese Entscheidung verwiesen.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurden * E* (zu I) und * H* (zu II in Verbindung mit § 12 zweiter Fall StGB) verfehlt (vgl RIS-Justiz RS0121981) jeweils mehrerer Verbrechen des Missbrauchs der Amtsgewalt nach § 302 Abs 1 StGB schuldig erkannt.
+[2] 		Danach haben in W*
+I/ E* als Vertragsbedienstete des Bundesministeriums für Inneres, mithin als Beamtin im strafrechtlichen Sinn, mit dem Vorsatz, dadurch DI * Ho* an seinem Recht auf Datenschutz zu schädigen, ihre Befugnis, im Namen des Bundes als dessen Organ in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, wissentlich missbraucht, „indem sie Abfragen zu DI * Ho* in dienstlichen möglichen Datenbanken durchführte, um diese in einer privaten Angelegenheit gegen ihn zu verwenden und zwar
+a/ am 20. 09. 2019 eine Abfrage im zentralen Melderegister
+b/ am 23. 09. 2019 Abfragen in der Personenfahndung (PF), der Personeninformation (PI), im kriminalpolizeilichen Index (KPA), in der erkennungsdienstlichen Evidenz (EDE), im zentralen Fremdenregister, im Strafregister, im zentralen Melderegister, wobei auch historische Daten abgefragt wurden, im zentralen Führerscheinregister, im Schengener Informationssystem Personenfahndung und -information (SIS), bei Lyon Interpol Person-Interpol Personenfahndung und -information, bei der Schengener Fremdeninformation, der Information des Bundesamtes für Fremdenwesen und Asyl und des Aktes PAD*, wobei mehrere Aktenteile gelesen wurden
+c/ am 27. 09. 2019 durch Einsichtnahme und Lesen folgender Akten
+ca/ PAD*
+cb/ E*
+cc/ C*
+d/ am 25. 10. 2019 eine abermalige Abfrage des zentralen Melderegisters sowie im Grundbuch“;
+II/ H* vor dem 20. September 2019 E* zu den zu I/ beschriebenen Taten bestimmt.
+Rechtliche Beurteilung
+[3] 		Dagegen richten sich von beiden Angeklagten aus den Gründen der Z 5 und 10a, vom Angeklagten H* überdies aus Z 9 lit a und 11 des § 281 Abs 1 StPO ergriffene Nichtigkeitsbeschwerden.
+[4] 		Aus deren Anlass überzeugte sich der Oberste Gerichtshof, dass das Urteil nicht geltend gemachte Nichtigkeit (Z 9 lit a) zum Nachteil der beiden Angeklagten aufweist, die von Amts wegen wahrzunehmen war (§ 290 Abs 1 zweiter Satz erster Fall StPO).
+[5] 		Nach dem Urteilssachverhalt (US 4) führte E* die inkriminierten Abfragen „aus privaten Gründen, nämlich den Belangen des Zweitangeklagten“, der von DI Ho* „eine Unterkunft gemietet hatte und sich diesbezüglich mit diesem in einer Auseinandersetzung befand“, durch, „um solcherart Informationen über“ DI Ho* „zu erlangen, welche gegen diesen verwendet werden konnten“. H* wiederum „nahm“ ein Angebot der Mitangeklagten, diese Abfragen durchzuführen, „an“. Beide Angeklagte handelten wissentlich in Bezug auf den Befugnismissbrauch der E* und mit dem Vorsatz, DI Ho* „dadurch in seinem Recht auf Datenschutz“ zu verletzen.
+[6] 		Solcherart trifft das Erstgericht keine Feststellungen, welche in den abgefragten Datenbanken gespeicherten Informationen, also welche vom Geheimhaltungsinteresse des Betroffenen umfassten (personenbezogenen) Daten vom Vorsatz der Beschwerdeführer auf Kenntnisnahme konkret umfasst waren. Dies wiegt umso schwerer, als der Schuldspruch Abfragen auch in – zumindest teilweise öffentlichen – Registern wie dem zentralen Melderegister (vgl § 16 Abs 1 MeldeG) und dem Grundbuch (vgl § 7 GBG, § 6 GUG, §§ 583 f Geo.) umfasst. Inwieweit die Beschwerdeführer Informationen, die nicht allgemein zugänglich waren, zu erlangen trachteten, bleibt unklar (vgl 14 Os 114/18y; 17 Os 26/17b; zum Ganzen Nordmeyer in WK2 StGB § 302 Rz 143 und 146). Die Ausführungen zum Tatmotiv („gegen diesen verwendet werden konnten“) tragen hier zur Konkretisierung der vom Vorsatz umfassten Daten nichts bei. Demnach bleiben die Sachverhaltsannahmen zum Schädigungsvorsatz ohne Sachverhaltsbezug (RIS-Justiz RS0119090).
+[7] 		Der aufgezeigte Rechtsfehler erfordert – in Übereinstimmung mit der Stellungnahme der Generalprokuratur – die sofortige Aufhebung des gesamten Urteils samt Rückverweisung der Sache an das Erstgericht bei der nichtöffentlichen Beratung (§§ 285e, 290 StPO).
+[8] 		Auf diese Entscheidung waren die beiden Angeklagten und die Staatsanwaltschaft mit ihren Rechtsmitteln zu verweisen.
+[9] 		Im weiteren Verfahren wird (auf der Sachverhaltsebene) zu klären sein, ob E* die vorgeworfenen Abfragen im Rahmen einer tatbestandlichen Handlungseinheit (im weiteren Sinn [zu den Voraussetzungen vgl RIS-Justiz RS0122006; Ratz in WK2 StGB Vor §§ 28–31 Rz 89]) durchführte, worauf das angefochtene Urteil zwar Hinweise enthält (vgl US 6: „liegt den Abfragen grundsätzlich ein einzelner Tatentschluss zu Grunde“, „Abfragen im gleichen Register innerhalb einer verhältnismäßig kurzen Zeitspanne“, „für die umfassenden Abfragen allein ein Anlassfall“), ohne diese allerdings im Feststellungsteil hinreichend deutlich zu klären.
+[10] 		Unabhängig vom Vorliegen einer tatbestandlichen Handlungseinheit wird im Fall eines neuerlichen Schuldspruchs zu beachten sein, dass für Missbrauch der Amtsgewalt jedenfalls – auch dann, wenn die Qualifikation nach § 302 Abs 2 zweiter Satz StGB nicht in Rede steht – der Zusammenrechnungsgrundsatz nach § 29 StGB gilt, demnach auch mehrere Taten stets nur ein Verbrechen begründen (RIS-Justiz RS0121981; jüngst 14 Os 150/21x).
+[11] 		Schließlich ist bei der Prüfung diversionellen Vorgehens zu berücksichtigen, dass (bloße) Abfragen von Datenbanken in der Regel von geringerem Handlungsunwert gekennzeichnet sind als Fehleintragungen und zudem – anders als diese – zu keiner Veränderung des Datensatzes führen (RIS-Justiz RS0129789; vgl Nordmeyer in WK2 StGB Vor § 302 Rz 20). Sonstige unter dem Aspekt des § 198 Abs 3 StPO relevante Folgen sind bisher nicht aktenkundig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0140OS00006.22X.0330.000

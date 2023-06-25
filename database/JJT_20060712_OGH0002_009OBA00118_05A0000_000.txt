@@ -1,0 +1,63 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.07.2006
+Geschäftszahl
+9ObA118/05a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Rohrer als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Spenling und Dr. Hradil sowie die fachkundigen Laienrichter Dr. Manfred Engelmann und Dr. Klaus Mayr als weitere Richter in der Arbeitsrechtssache der klagenden Partei Betriebsrat Bord der Austrian Airlines österreichische Luftverkehrs AG, Flugbetriebsgebäude, 1300 Flughafen Wien, vertreten durch Dr. Harald Bisanz, Rechtsanwalt in Wien, gegen die beklagte Partei Austrian Airlines österreichische Luftverkehrs AG, Fontanastraße 1, 1107 Wien, vertreten durch Dr. Hannes Jarolim, Rechtsanwalt in Wien, wegen Feststellung (Streitwert EUR 35.000,), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht in Arbeits und Sozialrechtssachen vom 28. April 2005, GZ 7 Ra 46/05v16, womit das Urteil des Arbeits und Sozialgerichtes Wien vom 6. Juli 2004, GZ 22 Cga 221/03k12, bestätigt wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit EUR 1.754,82 (darin EUR 292,47 USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen bei Exekution zu ersetzen.
+Text
+Entscheidungsgründe:
+Auf die Dienstverhältnisse der Piloten der Beklagten findet der Kollektivvertrag für das Bordpersonal der Austrian Airlines Anwendung, von der hier strittigen Kollektivvertragsregelung (§ 6 II Z 3 lit b) sind ca 500 Piloten betroffen. Diese müssen regelmäßig (zweimal jährlich) zu bestimmten, von der Beklagten vorgegebene Zeiten zum Simulatortraining nach Frankfurt, Berlin, Zürich oder Amsterdam reisen, wobei alle diese Ziele in weniger als zwei Flugstunden vom Dienstort Schwechat erreicht werden. Für das Simulatortraining werden die Piloten wie für einen aktiven Flug eingeteilt, dh der jeweilige Kapitän und sein Copilot checken eine Stunde vor Abflug am Dienstort ein, fliegen dann als Passagiere in der Kabine mit, checken vor Ort aus, werden dann zum Hotel oder direkt zum Simulator gebracht. Zu Beginn erfolgt ein Briefing mit dem Ausbilder, bei dem das geplante Übungsprogramm besprochen wird, dann folgt das eigentliche vierstündige Simulatortraining und danach ein Debriefing, bei welchem das Geübte erläutert wird. Nach der Übernachtung im Hotel findet am nächsten Tag neuerlich ein Simulatortraining mit vorhergehendem Briefing und anschließendem Debriefing statt, anschließend erfolgt die Heimreise nach Schwechat mit Ein- und Auschecken. Das Dienstende ist am zweiten Arbeitstag mit dem Auschecken in Wien Schwechat gegeben. Da sich die Piloten in diesem Fall Flugvorbereitungshandlungen wie die Berücksichtigung des Wetters, die Berechnung von Ausweichrouten, Flugzeit und Treibstoffverbrauch sparen, erfolgt das jeweilige Einchecken später als bei einem aktiven Flug. Zwar wird den Piloten die Zeit des Simulatortrainings als „Flugzeit" im Sinn des § 5 KollV angerechnet, nicht jedoch die übrigen Zeiten, insbesondere die An und Abreisezeiten. Diese werden als normale Dienstzeiten geführt und bezahlt, sodass sie keine Berücksichtigung für die monatlichen Höchstflugstunden bzw für die Berechnung der „Mehrleistung" finden.
+Die hier maßgeblichen Kollektivvertragsbestimmungen haben folgenden Inhalt:
+Nach § 5 des Kollektivvertrages gilt als Flugzeit
+- die Blockzeit laut Flight Control Log
+- die Zeit im Flugsimulator als Pilot oder Instruktor.
+Als „Positionierung" gilt der Transport nicht aktiver Besatzungsmitglieder zu/von dienstlichen Einsätzen. Positionierungen können sein:
+- „Dead Heading Transport" mit dem Flugzeug (Anmerkung des Gerichtes: Dies ist der von der Beklagten organisierte Transport von Besatzungsmitgliedern, die das Flugzeug nicht am Dienstort, sondern planmäßig an einem anderen Ort übernehmen und dort den eigentlichen Flug antreten bzw nach einem aktiven Flug an einem anderen als dem Dienstort ankommen und von dort zurückgebracht werden)
+- Transport mit Bodenverkehrsmitteln.
+Die Positionierung beginnt zum Zeitpunkt des angeordneten CheckIn und endet
+- bei „Dead Heading Transport" 30 Minuten nach der tatsächlichen Ankunft,
+- bei Transport mit Bodenverkehrsmitteln mit der tatsächlichen Ankunftszeit am Zielort, oder zum Zeitpunkt des festgelegten „CheckOut", falls dies später ist.
+§ 6 KollV regelt in seinem Punkt I die Arbeitszeit, in seinem Punkt II die „Flugzeit", wobei es heißt:
+„1.) Auf Verlangen der Austrian sind die Angestellten zur Leistung folgender Flugstunden verpflichtet: monatlich 90, vierteljährlich 240, jährlich 800.
+2.) Die höchstzulässige Flugzeit zwischen zwei Aufenthaltszeiten beträgt im Normalfall 10 Flugstunden
+- bei Anwendung der Sonderbestimmung „A" zur Ausdehnung der höchstzulässigen Arbeitszeit „T" 11 Flugstunden.
+3.) Die im folgenden taxativ aufgezählten Dienstverhinderungen bzw Tätigkeiten werden den Angestellten bei der Ermittlung der monatlichen Flugstunden (bzw dort, wo gemäß § 9 Abs 1 als Berechnungsbasis ein zweimonatiger Zeitraum betrachtet wird) als fiktive Flugzeit in Anrechnung gebracht:
+a) Dienstverhinderungen:
+- Urlaub
+- Krankenstand
+- sonstige Abwesenheit gemäß § 11 des Kollektivvertrages.
+b) Folgende im monatlichen Dienstplan eingetragene oder sonst firmenseits ausdrücklich angeordnete Tätigkeiten: - Schulung, Unterricht
+- Training (ausgenommen Simulator)
+- Betriebsratsfreistellung gemäß § 117 ArbVG
+- monatlicher Betriebsratstag
+- Teilnahme an Aufsichtsratssitzungen von Austrian durch die in den Aufsichtsrat entsendenden Betriebsratsmitglieder
+- F/ABriefing (für den das Briefing erteilenden Flugbegleiter)
+- Pilots Meeting, Gruppenmeeting, TeamleiterMeeting
+- Dienstreisen gemäß § 18 KollV
+- Positionierung; ausgenommen Positionierungen unmittelbar vor oder nach einem Einsatz als aktives Besatzungsmitglied, bei denen die planmäßige Transportzeit zwei Stunden nicht übersteigt
+- Bereitschaftsdienst auf Flughäfen
+- Medizinische Untersuchung
+- Angeordnete Besprechungen bei Dienststellen
+- Büro
+Für Tätigkeiten gemäß lit b erfolgt die Anrechnung nach folgenden Tabellen
+Dienstliche Beanspruchung FlugzeitAnrechnung
+mehr als 16 Stunden 6 Stunden 40 Minuten
+mehr als 1216 Stunden 5 Stunden 00 Minuten
+mehr als 612 Stunden 3 Stunden 20 Minuten
+mehr als 26 Stunden 1 Stunde 40 Minuten.
+Tätigkeiten mit bis zu zwei Stunden dienstlicher Beanspruchung werden bei der Flugzeitanrechnung nicht berücksichtigt."
+§ 18 KollV regelt Reisekosten- und Aufwandsentschädigungen. In Z 4. wird vorgeschrieben, dass bei Bahnfahrten grundsätzlich die zweite Wagenklasse zu benützen ist, bei Entfernungen über 300 km die erste Wagenklasse benützt werden kann und bei Flugreisen grundsätzlich die Tourist/Economyclass zu benützen ist. Z 5 definiert die Reisezeit als jene Zeitspanne, für die ein Ersatz des Mehraufwandes für Verpflegung und Nächtigung anfällt, dies sind bei Reisen mit dem eigenen Fahrzeug die Zeit ab Antritt der Reise vom Wohnort zum Dienstort und bei Massentransportmitteln die Zeit ab planmäßger Abfahrt bis tatsächlicher Rückkehr zum Dienstort. Gemäß Z 6 gilt bei Dienstreisen als Arbeitszeit die Reisezeit am Verkehrsmittel und die zur Erreichung des Massentransportmittels nötige Anreisezeit, höchstens jedoch eineinhalb Stunden bei Beginn und bei Beendigung der Dienstreise. Laut Z 7 bezieht sich die Regelung nicht auf den Flugdienst bzw auf Streckenaufenthalte.
+Mit seiner Klage nach § 54 Abs 1 ASGG begehrt der klagende Betriebsrat die Feststellung, dass für die bei der beklagten Partei beschäftigen Piloten für ihren verpflichtenden Flugsimulatoreinsatz die jeweiligen Zeiten für Transport und Aufenthalt zum Simulator und zurück nach Wien, abgesehen von der eigentlichen Tätigkeit am Flugsimulator selbst, als fiktive Flugzeiten anzurechnen und daher gutzuschreiben und der Gehaltsabrechnung zu unterziehen sind. Der Kläger bringt hiezu im Wesentlichen vor, dass trotz der Gleichstellung von Simulatorstunden mit echten Flugzeitstunden die An und Abreise zum/vom Simulatortraining keine „Positionierung" sei. Eine solche liege nur dann vor, wenn An und Abreisen zu/von „echten" aktiven Flügen bestünden. Vielmehr handle es sich bei den An und Abreisetätigkeiten zum/vom Simulatortraining um fiktive Flugzeiten im Sinne von Training (ausgenommen Simulator) oder Dienstreisen gemäß § 18 KollV, sodass die Regelung des § 6 II Z 3 lit b KollV anzuwenden sei.
+Die Beklagte bestritt das Klagebegehren und wendete ein, dass die Gleichstellung des Simulatortrainings mit aktiven Flugstunden dazu führen müsse, auch den Hin bzw den Rückflug zum/vom Trainingsort genauso zu beurteilen wie den Hin bzw Rückflug zu bzw von einem dislozierten Flugeinsatzort, somit die „Positionisierungs"Regel Geltung haben müsse.
+Das Erstgericht wies das Klagebegehren ab. Es schloss sich bei der Interpretation des Kollektivvertrages im Wesentlichen dem Standpunkt der Beklagten an.
+Dem folgte auch das Berufungsgericht. Es hat dabei die Frage, ob die Flüge zum und vom Simulatortraining als „Positionierung" zu beurteilen sind, bejaht.
+Rechtliche Beurteilung
+Der dagegen erhobenen Revision des Klägers kommt keine Berechtigung zu. Es ist vorerst auf die Richtigkeit der eingehenden Begründung des Berufungsgerichtes zu verweisen (§ 510 Abs 3 ZPO). Ergänzend ist den Ausführungen des Revisionswerbers entgegen zu halten:
+Den Kollektivvertragsparteien ist grundsätzlich zu unterstellen, dass sie eine vernünftige, zweckentsprechende und praktisch durchführbare Regelung treffen sowie einen gerechten Ausgleich der sozial und wirtschaftlichen Interessen herbeiführen wollten (RISJustiz RS0008828; RS0008897). Die Regelung der „fiktiven Flugzeit" nach § 6 II Z 3 KollV verfolgt offensichtlich den Zweck, Bordbedienstete, die auch zu anderen als eigentlichen Flugleistungen herangezogen werden, in gewissen Fällen in den Genuss von Flugzeitanrechnungen (insbesondere auf die monatlichen Höchstzeiten und die für die Mehrleistung [§ 9 KollV] erforderlichen Mindestzeiten) kommen zu lassen. Positionierungen (s oben) sollen erst ab einer Mindestzeit von zwei Stunden als fiktive Flugzeiten angerechnet werden. Unstrittig ist, dass Bordpersonal, welches vom Dienstort zum eigentlichen Flugeinsatzort gebracht bzw von dort zurückgeholt wird, unter die PositionierungsRegel fällt. Wollte man nun entsprechend dem Standpunkt des Klägers trotz der Gleichstellung von Simulatorstunden mit aktiven Flugstunden (verbunden mit CheckIn und CheckOut) die An und Rückreisezeiten zum bzw vom Simulatortraining als fiktiv voll anrechenbare Dienstreisezeiten und nicht als Positionierungen anrechnen, wäre dies keine sachlich erklärbare Differenzierung, sondern im Ergebnis eine Ungleichbehandlung. Den Kollektivvertragspartnern ist aber zu unterstellen, dass sie auch Ungleichbehandlungen vermeiden wollten (RISJustiz RS0008828 [T2]). Die rein am Wort haftende Interpretation des Klägers vermag auch aus einem anderen Grund nicht zu überzeugen: Sowohl bei den An und Abreisen zum/vom dislozierten Flugeinsatz als auch bei den An und Abreisen zum/vom Simulatortraining handelt es sich um mit vorgegebenen CheckIn- und CheckOutZeiten versehene, vom Dienstgeber oranisierte Sammeltransporte, während die Dienstreiseregelung (§ 18 KollV) ganz offensichtlich auf den Fall der Individualreise abstellt. Dies ergibt sich insbesondere aus der Vorgabe von Wagenklassen bei der Bahnfahrt bzw aus der Anordnung, bei Flugreisen grundsätzlich die TouristEconomyClass zu benützen.
+Der Versuch, außerhalb des eigentlichen Simulatortrainings für Aufenthalt und Reise verbrachte Zeiten als „Training" zu bewerten, scheitert an den auch für Kollektivverträge geltenden Auslegungsregeln iSd §§ 6, 7 ABGB.
+Die Kostenentscheidung gründet sich auf §§ 41, 50 Abs 1 ZPO.

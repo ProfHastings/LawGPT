@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.09.1971
+Geschäftszahl
+3Ob82/71
+Norm
+ABGB §1355;
+AO §53 Abs4;
+Kopf
+SZ 44/131
+Spruch
+Der gegenüber dem Schuldner eingetretene Terminsverlust erstreckt sich auch auf den Bürgen, der die Haftung für diesen Fall übernommen hat. Nach § 53 Abs 4 AO genügt daher die Mahnung des Ausgleichsschuldners, um auch gegenüber dem Bürgen, der sich auch für diesen Fall verbürgt hat, den Terminsverlust geltend machen zu können
+OGH 15. 9. 1971, 3 Ob 82/71 (KG Korneuburg 5 R 125/71; BG Ravelsbach E424/71)
+Text
+Die betreibende Gläubigerin machte Terminsverlust geltend und beantragte, wider den Erstverpflichteten als Ausgleichsschuldner und die Zweitverpflichtete als Bürgin und Zahlerin zur Hereinbringung der Forderung von S 35.132.65 sA die Fahrnisexekution zu bewilligen. Die betriebene Forderung ergab sich aus der Ausgleichsquote von S
+48.942.25 und den bisher geleisteten Zahlungen von S 13.809.60.
+Das Erstgericht bewilligte die Exekution gegen den Erstverpflichteten zur Hereinbringung eines Betrages von S 4894.23 und wies das Mehrbegehren hinsichtlich des Erstverpflichteten und den Antrag in seiner Gesamtheit gegen die Zweitverpflichtete ab.
+Das Rekursgericht änderte diesen Beschluß dahin ab, daß es die Exekution hinsichtlich bei der Verpflichteten antragsgemäß bewilligte. Es führte aus, daß die betreibende Gläubigerin auf Grund des Anmeldungsverzeichnisses über einen Exekutionstitel für eine Forderung von S 48.942.25 verfüge, daß die Zweitverpflichtete dem Ausgleichsvorschlag als Bürge und Zahler für Quote und Terminsverlust beigetreten sei und daß die betreibende Gläubigerin den Nachweis der Übernahme des Mahnschreibens durch den Erstverpflichteten erbracht habe, daher mangels zeitgerechter Zahlung mit Recht Terminsverlust geltend mache. Einer Mahnung des Bürgen bedürfe es zur Geltendmachung des Terminsverlustes auch diesem gegenüber nicht.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der zweitverpflichteten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der von der Zweitverpflichteten gegen diesen Beschluß erhobene Revisionsrekurs ist nicht begrundet.
+Die Zweitverpflichtete bekämpft in ihrem Rechtsmittel ausschließlich die Ansicht des Rekursgerichtes, daß der Terminsverlust auch dem Bürgen gegenüber eintrete, wenn auch nur der Ausgleichsschuldner iS des § 53 Abs 4 AO, nicht aber der Bürge gemahnt wurde.
+Den Ausführungen der Zweitverpflichteten kann nicht gefolgt werden.
+§ 53 Abs 4 AO setzt als Voraussetzung für den Eintritt des Terminsverlustes die Mahnung des Schuldners unter Einräumung einerNachfrist fest. Erfüllt der Ausgleichsschuldner innerhalb dieser Nachfrist nicht, so ist Terminsverlust eingetreten, das heißt, daß sowohl der Ausgleichsschuldner als auch der Bürge, der die Bürgschaft auch für den Terminsverlust übernommen hat, zur Zahlung der noch ausstehenden Ausgleichsquote verpflichtet sind, ohne sich auf die im Ausgleich zugestandenen Raten berufen zu können. Dies ergibt sich nicht nur aus dem Gesetz, das lediglich von einer Mahnung des Schuldners spricht, sondern auch aus der Abhängigkeit der Bürgschaft von der Hauptschuld. Diese hat ua zur Folge, daß - mangels entgegenstehender Vereinbarung - die Bürgschaftsschuld auch ihrem Umfang nach durch die Hauptschuld bestimmt wird. Ist sohin Terminsverlust gegenüber dem Schuldner eingetreten, so erstreckt sich dieser Terminsverlust auch auf den Bürgen, der die Haftung für diesen Fall übernommen hat. Eine gesonderte Mahnung des Bürgen ist nicht erforderlich, um den Terminsverlust auch ihm gegenüber geltend machen zu können. Die Mahnung bloß des Bürgen würde auch nicht genügen, um bei nicht zeitgerechter Zahlung den Terminsverlust gegenüber dem Bürgen oder auch gegen den Hauptschuldner geltend zu machen. Vergleichsweise sei hier darauf verwiesen, daß die Aufkündigung einer Forderung gegenüber dem Hauptschuldner auch gegen den Bürgen wirkt, daß eine besondere Aufkündigung diesem gegenüber weder erforderlich ist noch genügt (GlU 9381, Ohmayr - Klang in Komm[2] VI 217).
+Das Rekursgericht hat daher zutreffend die Exekution zur Hereinbringung der gesamten betriebenen Forderung auch gegen die Zweitverpflichtete bewilligt.

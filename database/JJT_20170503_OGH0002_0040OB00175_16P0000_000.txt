@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.05.2017
+Geschäftszahl
+4Ob175/16p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und durch die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der gefährdeten Partei L***** GmbH, *****, vertreten durch Deschka Klein Daum Rechtsanwälte-Partnerschaft in Wien, gegen die Gegner der gefährdeten Partei 1. T***** GmbH, *****, 2. H***** GmbH, *****, 3. U***** GmbH, *****, 4. T***** GmbH, *****, 5. k***** GmbH, *****, 6. L***** GesmbH, *****, 7. S***** AG *****, Erst-, Dritt- sowie Fünft- bis Siebentgegner vertreten durch Höhne, In der Maur & Partner Rechtsanwälte OG in Wien, Zweit- und Viertgegner vertreten durch Salomonowitz Horak Rechtsanwälte OG in Wien, wegen Unterlassung (Streitwert im Sicherungsverfahren 65.000 EUR), im Verfahren über den Revisionsrekurs der gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 30. Mai 2016, GZ 4 R 7/16b-11, mit dem der Beschluss des Handelsgerichts Wien vom 20. November 2015, GZ 11 Cg 91/15t-6, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Revisionsrekursverfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das vom Hoge Raad der Nederlanden am 18. November 2015 gestellte Vorabentscheidungsersuchen (Rechtssache C-610/15) unterbrochen.
+Die Verfahrensfortsetzung erfolgt nur auf Antrag.
+Text
+Begründung:
+Die antragstellende Verwertungsgesellschaft (gefährdete Partei, im Folgenden: Antragstellerin) begehrte
+– gestützt auf § 81a Abs 1 UrhG –, den belangten Access-Providern (Gegner der gefährdeten Partei, im Folgenden: Antragsgegner) mit einstweiliger Verfügung zu verbieten, ihren Internetkunden den Zugang zu diversen thepiratebay-Websites zu vermitteln, wenn über diese Seiten Schallträgeraufnahmen aus dem Repertoire der Antragstellerin ohne Zustimmung der Berechtigten öffentlich zur Verfügung gestellt werden.
+Das Erstgericht erließ die beantragte Verfügung. Die Antragsgegner wirkten als Vermittler an den Eingriffen in die ausschließlichen Rechte der Antragstellerin mit.
+Das Rekursgericht wies den Sicherungsantrag ab. Die Antragstellerin habe nicht vorgebracht und bescheinigt, dass sie zuvor zumutbare Anstrengungen unternommen habe, gegen diejenigen Beteiligten vorzugehen, die die Rechteverletzung selbst begangen haben. Es sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und der ordentliche Revisionsrekurs – zur Frage der Zumutbarkeit von Prüf- und Sperrpflichten – zulässig sei.
+Gegen diese Entscheidung richtet sich der Revisionsrekurs der Antragstellerin.
+Rechtliche Beurteilung
+Das Revisionsrekursverfahren ist zu unterbrechen:
+Der Hoge Raad der Nederlanden (Niederlande) hat am 18. November 2015 in der Rechtssache Stichting Brein gegen Ziggo BV und XS4AII Internet BV, in der es ebenfalls um die technische Abrufbarkeit des Peer-to-Peer-Netzwerks The Pirate Bay geht, an den EuGH zu C-610/15 ein Vorabentscheidungsersuchen mit folgenden Vorlagefragen gerichtet:
+Stellt es eine öffentliche Wiedergabe im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/291 durch den Betreiber einer Website dar, wenn diese Website keine geschützten Werke enthält, aber ein System … besteht, durch das für Nutzer Metainformationen über geschützte Werke, die sich auf den Rechnern von Nutzern befinden, indexiert und kategorisiert werden, so dass die Nutzer die geschützten Werke anhand dessen auffinden sowie hoch- und herunterladen können?
+Falls die erste Frage verneint wird: Bieten Art. 8 Abs. 3 der Richtlinie 2001/29 und Art. 11 der Richtlinie 2004/482 eine Grundlage für eine Anordnung gegenüber einem Vermittler oder einer Mittelsperson im Sinne dieser Bestimmungen, der oder die Verletzungshandlungen Dritter in der in der ersten Frage beschriebenen Weise erleichtert?
+Diese Fragen sind auch für den hier zu beurteilenden Fall maßgeblich.
+Der Oberste Gerichtshof hat von einer allgemeinen Wirkung der Vorabentscheidung des Europäische Gerichtshofs auszugehen und diese auch für andere als die unmittelbaren Anlassfälle anzuwenden. Ein späteres Verfahren, das dieselbe Rechtsfrage betrifft, ist daher nach ständiger Rechtsprechung aus prozessökonomischen Gründen zu unterbrechen (RIS-Justiz RS0110583; zuletzt 4 Ob 10/17z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00175.16P.0503.000

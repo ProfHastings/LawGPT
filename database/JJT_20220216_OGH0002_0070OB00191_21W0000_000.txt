@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.02.2022
+Geschäftszahl
+7Ob191/21w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei A* F*, vertreten durch Dr. Christopher Kempf, Rechtsanwalt in Spittal an der Drau, gegen die beklagte Partei U*, vertreten durch Dr. Alexandra Slama, Rechtsanwältin in Klagenfurt am Wörthersee, wegen 45.060 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 8. September 2021, GZ 5 R 103/21p-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen dem Kläger und der Beklagten besteht die Bündelversicherung „Hof & Ernten 2013“, die unter anderem den Baustein „1030 Katastrophenhilfe“ enthält. Dieser Versicherung liegen unter anderem die Versicherungsbedingungen F 630 Katastrophenhilfe – Hof & Ernten (Fassung 10/2013) zugrunde, die auszugsweise lauten:
+„1. Diese Erweiterung gilt für
+- in der Versicherungspolizze angeführte Wohn- und landwirtschaftliche Gebäude
+- die gesamten in der Versicherungspolizze angeführten landwirtschaftlichen Einrichtungen, Erntefrüchte und Viehbestände, die sich in den Versicherungsräumlichkeiten auf dem Versicherungsgrundstück befinden.
+[...]“
+[2] 		Darüber hinaus liegen dem Vertrag die Gruppierungserläuterungen F 639 für land- und forstwirtschaftliche Betriebe (Fassung 07/2014) zugrunde, die auszugsweise lauten:
+„1. Anwendungsbereich
+Die Gruppierungserläuterung gilt für land- und forstwirtschaftlich genutzte Anlagen und Gebäude im Sinne der Gewerbeordnung.
+[…]
+2. Gruppierung
+Gruppe A: Gebäude
+A.1. Als Gebäude im Sinne dieser Gruppierungserläuterungen gelten:
+A.1.1. Alle Gebäude im engeren Sinn, […]
+[...]
+A.1.2. Ferner die folgenden Bauwerke:
+A.1.2.1. Überdachungen, Vordächer, Verbindungsbrücken, Rampen, Aufzugschächte und ähnliche Bauwerke, die konstruktiv als Teile von Gebäuden nach Punkt A.1.1. zu gelten haben;
+[…]
+A.1.2.5. bauliche Einfriedungen aller Art
+[…].“
+Rechtliche Beurteilung
+[3] 		1. Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Geschäftsbedingungen nicht jedenfalls, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits höchstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (RS0121516 [T6]; 7 Ob 204/20f). Ein solcher Fall liegt vor:
+[4] 		2.1. Am 18. November 2019 kam es im Bereich des landwirtschaftlichen Anwesens des Klägers zu einem Murenabgang, wodurch unter anderem Schäden im Straßen- und Geländebereich, insbesondere an der Tennenzufahrt und der Stallzufahrt eines Wirtschaftsgebäudes entstanden.
+[5] 		2.2. Gemäß Art 1 der Bedingungen F 630 sind im Katastrophenfall Schäden an den in der Versicherungspolizze genannten Gebäuden (Wohngebäude, Stall alt, Stall neu, Fischerhütte, Schuppen neu, Hühnerhütte) sowie den in der Polizze angeführten landwirtschaftlichen Einrichtungen, die sich in den versicherten Räumlichkeiten auf dem versicherten Grundstück befinden, von der Deckung umfasst.
+[6] 		2.2.1. Wie der Begriff „Gebäude“ zu verstehen ist, ergibt sich aus den Gruppierungserläuterungen F 639. Er umfasst gemäß deren Punkt A nicht nur Gebäude im engeren Sinn, sondern auch die dort genannten Bauwerke, wobei der letztgenannte Begriff sehr weit gefasst ist. So sind etwa auch „bauliche Einfriedungen aller Art“ (Punkt A.1.2.5.) und „Verbindungsbrücken und Rampen, die konstruktiv als Teile von Gebäuden im engeren Sinn zu gelten haben“ (Punkt A.1.2.1.), als Bauwerke im Sinn der Bedingungen zu werten.
+[7] 		Aber auch unter Zugrundelegung des sehr weitgefassten Bauwerksbegriffs sind Schäden an Zufahrten und am freien Gelände (mit Stützmauer, Böschung) nach dem klaren Wortlaut der Versicherungsbedingungen gerade nicht gedeckt, was auch einem durchschnittlichen Versicherungsnehmer klar sein muss. Dass die Tennen- oder die Stallzufahrt im konkreten Fall als konstruktiv mit einem Gebäude verbundene Brücke oder Rampe ausgestaltet war, hat der Kläger im Verfahren erster Instanz nicht behauptet und ergibt sich auch nicht aus dem allgemeinen Sprachgebrauch des Begriffs „Zufahrt“, sodass die diesbezüglichen Revisionsausführungen gegen das Neuerungsverbot verstoßen. Hinzu kommt, dass der Kläger jene Klagspositionen, die Schäden an den Zufahrten zur Tenne und zum Stall betreffen, selbst als Schäden im „Straßen- und Geländebereich“ bezeichnet und gerade nicht als Schäden an Gebäuden oder damit konstruktiv verbundenen Teilen.
+[8] 		2.2.2. Die in Art 1 Spiegelstrich 2 der Bedingungen F 630 genannten „landwirtschaftlichen Einrichtungen“ müssen sich in den versicherten Räumlichkeiten auf dem versicherten Grundstück befinden. Die in Punkt 1. der Gruppierungserläuterungen genannten „landwirtschaftlichen Anlagen“ sind in den Punkten A.2. bis A.4: umschrieben. Dazu gehören etwa Blitzschutzanlagen, verlegte Fußböden, mit dem Gebäude fest verbundene Treppen, Tore, Außenjalousien, Gruben, gemauerte Öfen, Installationen, Sanitäranlagen, Heizungs- und Klimaanlagen, Aufzüge, Solaranlagen; Müllentsorgungsanlagen oder Garagen. Entgegen der Ansicht des Klägers ergibt sich daher auch aus diesen Klauseln unzweifelhaft keine Versicherungsdeckung für Schäden an Straßen oder dem freien Gelände.
+[9] 		3. Die vom Kläger geltend gemachten Schäden sind daher nach dem eindeutigen, keinen Auslegungsspielraum zulassenden Wortlaut der Versicherungsbedingungen nicht gedeckt.
+[10] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00191.21W.0216.000

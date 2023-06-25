@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.10.1978
+Geschäftszahl
+3Ob578/78
+Norm
+ABGB §§825 ff Abs1;
+ABGB §1118;
+ZPO §14;
+Kopf
+SZ 51/149
+Spruch
+Eine Rechtsgemeinschaft bürgerlichen Rechts nach §§ 825 ff. ABGB kann auch in Ansehung eines bloß obligatorisch begrundeten Wohnungsrechtes bestehen, ihre Mitglieder bilden im Räumungsprozeß eine notwendige Streitgenossenschaft
+OGH 31. Oktober 1978, 3 Ob 578/78 (LGZ Graz 3 R 17/78; BGZ Graz 5 C 95/77)
+Text
+Die Klägerin begehrt mit der vorliegenden Klage, die beiden Beklagten zu verurteilen, die im Hause Graz, G-Straße 45. benützte, im Parterre gelegene Wohnung, bestehend aus Küche, "zwei Zimmern, Vorraum, Bad, WC, Speis, Keller sowie Garage und Garten", von ihren Fahrnissen geräumt zu übergeben. Hiezu wurde vorgebracht, die Klägerin habe den Beklagten und deren minderjährige Tochter Petra das Wohnrecht in Ansehung dieser Räume eingeräumt. Infolge unleidlichen Verhaltens der Beklagten habe die Klägerin das Wohnungsrecht widerrufen; die Beklagten hätten nunmehr keinen Rechtstitel zum Bewohnen des Hauses.
+Die Beklagten haben unter Hinweis auf das auch ihrer minderjährigen Tochter Petra eingeräumte Wohnrecht mangelnde Passivlegitimation mit der Begründung eingewendet, daß "nur sämtliche drei Wohnrechtberechtigte in einem geklagt werden könnten". Im übrigen haben sie bestritten, daß sie sich unleidlich gegen die Klägerin verhalten hätten.
+Das Erstgericht wies das Klagebegehren auf Grund der getroffenen Feststellungen im wesentlichen mit der Begründung ab, der geltend gemachte Grund zur Auflösung des durch die Einräumung des auf unbestimmte Zeit eingeräumten Wohnungsrechtes liege nicht vor; die Beklagten könnten daher nicht zur Räumung verhalten werden. Es sei deshalb auch nicht zu erörtern, ob die passive Klagslegitimation der Beklagten überhaupt gegeben sei.
+Das Berufungsgericht bestätigte dieses Urteil des Erstgerichtes und sprach aus, daß der Wert des Streitgegenstandes, über den es entschieden hat, 60 000 S übersteigt. Zur Frage der passiven Klagslegitimation der beiden Beklagten ging es von der - unbestrittenen - Feststellung des Erstgerichtes aus, wonach die Klägerin den Beklagten und ihrem Enkelkind Petra G, geb. am 28. Feber 1973, gemeinsam mit Vertrag vom 8. Juli 1976 das Wohnrecht an den Räumen im Erdgeschoß des gegenständlichen Hauses unter Mitbenützung des Gartens, der Garage und der Kellerräume eingeräumt habe. Hiezu vertrat das Berufungsgericht die Rechtsansicht, anders als Mitbestandnehmer, bilden mehrere auf Grund eines obligatorisch wirkenden Wohnrechtes zur Benützung einer gemeinsamen Sache berechtigte Personen keine einheitliche Streitpartei und daher auch keine notwendige Streitgenossenschaft im Sinne des § 14 ZPO. Trotz Gemeinsamkeit des rechtserzeugenden Sachverhaltes bestehe keine rechtliche Notwendigkeit zu einer in jedem Fall einheitlichen Entscheidung. Es lägen keine Umstände vor, auf Grund deren durch das Ausscheiden eines der Mitberechtigten auch das Benützungsrecht der übrigen hinfällig werden müßte. Das der minderjährigen Tochter der beiden Beklagten auf Grund der Vereinbarung vom 8. Juli 1976 zustehende Wohnrecht bilde somit kein grundsätzliches Hindernis dagegen, daß lediglich die beiden Beklagten auf Räumung belangt würden.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ist im Ergebnis nicht berechtigt.
+Entgegen der Rechtsansicht des Berufungsgerichtes wurde durch die Einräumung des gegenständlichen Wohnrechts an die beiden Beklagten und deren Tochter Petra eine Rechtsgemeinschaft bürgerlichen Rechts nach den §§ 825 ff. ABGB begrundet, da jedem der drei Berechtigten - mangels abweichender vertraglicher Regelung - das Wohnrecht ungeteilt zusteht. Eine solche Gemeinschaft kann - ebenso wie bezüglich eines Bestandrechtes - auch in Ansehung eines bloß obligatorisch begrundeten Wohnungsrechtes bestehen (vgl. Klang[2] III, 1087). Alle Mitglieder einer solchen Rechtsgemeinschaft bilden im Prozeß betreffend die Auflösung des Vertragsverhältnisses (Wohnungsrecht) und das daraus abgeleitete Begehren auf Räumung der Wohnung eine notwendige Streitgenossenschaft im Sinne des § 14 ZPO. Sie können daher nur alle gemeinsam aus diesem Grund geklagt werden. Dies ergibt sich schon daraus, daß bei Auflösung des Rechtsverhältnisses (Wohnungsrecht) nur in Ansehung eines der mehreren Mitberechtigten dieser nicht verurteilt werden kann, die Wohnung, an der von einem anderen Mitberechtigten weiterhin das Wohnungsrecht ausgeübt werden darf, dem Liegenschaftseigentümer geräumt zu übergeben. Es gelten hier also im wesentlichen jene Grundsätze, die auch bei der Auflösung (Kündigung) eines Bestandrechtes, das mehreren Mitmietern zusteht, anzuwenden sind (siehe hiezu Fasching IV, 641; SZ 26/207; MietSlg. 8221, 8399, 8401, 8081, 16 414, 16 288, 20 495; SZ 45/70).
+Da die Klägerin bloß zwei der drei Mitberechtigten geklagt hat, hätte das Klagebegehren daher schon aus vorstehenden Erwägungen abgewiesen werden müssen.
+Der Vollständigkeit halber wird bemerkt, daß hier nicht zu prüfen ist, ob der am 8. Juli 1976 geschlossene Vertrag in Ansehung der minderjährigen Tochter der beiden Beklagten einer pflegschaftsbehördlichen Genehmigung bedarf. Denn der Vertrag ist jedenfalls bis zu einer allfälligen Entscheidung des Pflegschaftsgerichtes wirksam (vgl. SZ 31/52; MietSlg. 6232, 16 105, 19 007). Daß eine solche Entscheidung bereits ergangen ist, wurde von den Parteien nicht einmal behauptet.
+Die Bestätigung des Urteils des Erstgerichtes erfolgte demnach im Ergebnis zu Recht.

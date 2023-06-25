@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2022
+Geschäftszahl
+4Ob178/22p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M., Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei X* GmbH, *, vertreten durch Dr. Dan Katzlinger, Rechtsanwalt in Wien, gegen die beklagten Parteien 1. D* und 2. G*, beide *, vertreten durch Huber Swoboda Oswald Aixberger, Rechtsanwälte GmbH in Wien, wegen Aufkündigung, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 8. Juni 2022, GZ 39 R 15/22b-11, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		 Die Beklagten mieteten vom Rechtsvorgänger der Klägerin vor mehr als 20 Jahren mündlich eine in
+Ober- und Dachgeschoß des Hauses gelegene Wohnung an. Die Miete für die Wohnung war monatlich fällig. Seit Beginn des Mietverhältnisses war den Beklagten die Mitbenützung der Garage 1 gestattet. Im Jahr 2016 mieteten die Beklagten die kurz davor freigewordenen Garagen 2 und 3 gegen eine jährliche Miete von 1.000 bzw 1.500 EUR zusätzlich an. Die Jahresmiete für die beiden Garagen wurde gemeinsam mit der Jahresabrechnung für Heizung und Warmwasser für die Wohnung vorgeschrieben und – anders als die Miete für die Wohnung – bar bezahlt. Die Garagen waren zuvor nicht fremd vermietet; hätten die Beklagten sie nicht gemietet, hätte der Rechtsvorgänger der Klägerin die Garagen an eine andere Hausbewohnerin vermietet. Im Zuge der Anmietung der Garagen wurde über allfällige Kündigungstermine oder Kündigungsfristen nicht gesprochen.
+[2] 		Das Erstgericht hob die von der Klägerin als Rechtsnachfolgerin des bisherigen Vermieters eingebrachte Aufkündigung der Garagen 2 und 3 auf und wies das Räumungsbegehren ab, weil es sich bei den Garagen und der Wohnung um ein einheitliches Bestandobjekt gehandelt habe.
+[3] 		Das Berufungsgericht gab der Berufung der Klägerin Folge, erklärte die Aufkündigung für rechtswirksam und gab dem Räumungsbegehren statt, weil sich dem festgestellten Sachverhalt kein übereinstimmender Parteiwille auf Begründung eines einheitlichen Bestandverhältnisses entnehmen lasse. Die ordentliche Revision ließ es nicht zu.
+[4] 			Die Beklagten zeigen in ihrer außerordentlichen Revision keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+[5] 			1. Ob ein Bestandobjekt eine wirtschaftliche Einheit bilden soll und daher als einheitlich anzusehen ist oder ob mehrere in einem Vertrag in Bestand gegebene Sachen eine einheitliche Bestandsache bilden, hängt in erster Linie vom Parteiwillen bei Vertragsabschluss ab (RS0020405; RS0014368 [T1, T4]; vgl auch RS0020298 [T2]). Objektive Gemeinsamkeit (im Sinne gegenseitigen Erforderlichseins oder Nützlichseins), die sukzessive Abschließung von Verträgen zu verschiedenen Zeitpunkten, die gesonderte Mietzinsvereinbarung, aber auch der Umstand, dass in den Verträgen nicht festgehalten wurde, das neu hinzu gemietete Bestandobjekt solle eine Einheit mit den bereits angemieteten Teilen bilden, sind bloße Indizien für das Vorliegen oder Nichtvorliegen einer einheitlichen Bestandsache (RS0014368 [T2]). Die Lösung der Frage, ob mehrere in Bestand gegebene Objekte eine einheitliche Bestandsache bilden, hängt stets von den Umständen des Einzelfalls ab (RS0020405 [T7]; RS0014368 [T3]).
+[6] 			2. Selbst bei Vorliegen eines gemeinsamen Verwendungszwecks der Bestandobjekte ist von einem einheitlichen Bestandobjekt nicht auszugehen, wenn die Mietverträge zu verschiedenen Zeitpunkten sukzessive abgeschlossen wurden, für die einzelnen Bestandobjekte ein gesonderter Mietzins vereinbart und vorgeschrieben wurde und in den Verträgen nicht festgehalten wurde, dass die neu hinzugemieteten Bestandobjekte eine Einheit mit den bereits angemieteten Teilen bilden sollen (RS0020405 [T12]). Die Beweislast für das Vorliegen eines einheitlichen Bestandverhältnisses trifft zumindest wenn – wie hier – beide Objekte von vornherein nicht notwendigerweise eine wirtschaftliche und technische Einheit bilden, denjenigen, der sich darauf beruft (8 Ob 28/18b mwN).
+[7] 		3. Die Beurteilung des Berufungsgerichts, aus der Annahme des Anbots, die Garagen „dazu zu mieten”, könne nicht jedenfalls der Wille der Begründung eines gemeinsamen Bestandverhältnisses abgeleitet werden, während die anderen Umstände des vorliegenden Einzelfalls gegen ein einheitliches Bestandverhältnis sprechen, hält sich im Rahmen der dargestellten Rechtsprechung und ist damit nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00178.22P.1018.000

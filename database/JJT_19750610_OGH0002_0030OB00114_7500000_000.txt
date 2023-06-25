@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.06.1975
+Geschäftszahl
+3Ob114/75
+Norm
+ABGB §364c;
+EO §87;
+EO §133;
+Tiroler landwirtschaftliches Siedlungsgesetz §6;
+Kopf
+SZ 48/66
+Spruch
+Der Inhalt und Umfang eines auf gesetzlicher Grundlage beruhenden Veräußerungs- und Belastungsverbotes richtet sich nach dem jeweiligen Gesetz
+Das bescheidmäßig angeordnete Belastungs- und Veräußerungsverbot nach § 6 des Tiroler Landwirtschaftlichen Siedlungsgesetzes 1969 hindert während der Darlehenslaufzeit auch die Zwangsversteigerung
+OGH 10. Juni 1975, 3 Ob 114/75 (LG Innsbruck 2 R 732/74; BG Imst E 19/74)
+Text
+Die betreibende Partei beantragte zur Hereinbringung einer vollstreckbaren Geldforderung von 44.062 S samt Anhang sowie mehrerer damit im Zusammenhang stehender Nebenforderungen die Exekution durch Zwangsversteigerung der Liegenschaften EZ 496/11 und EZ 787 II, je KG A.
+Das Erstgericht wies diesen Antrag mit der Begründung ab, daß auf beiden Liegenschaften zu TZ 1747/70 das Veräußerungs- und Belastungsverbot auf die Dauer von 20 Jahren zugunsten des Landeskulturfonds für Tirol einverleibt sei und dieses Verbot jede Zwangsversteigerung verhindere.
+Das Rekursgericht bewilligte die beantragte Zwangsversteigerung. Es führte aus, das dem eingetragenen Verbot zugrundeliegende Tiroler Landwirtschaftliche Siedlungsgesetz 1969 wolle nicht die Veräußerung oder Belastung von Liegenschaften schlechthin verhindern, es bezwecke vielmehr, daß der Besitz in die richtigen Hände komme; ein zu diesem Zweck geschaffenes Verbot stehe einer Zwangsversteigerung nicht entgegen.
+Der Oberste Gerichtshof stellte über Revisionsrekurs des Landeskulturfonds für Tirol (zur Frage der Rekurslegitimation des Fonds Heller - Berger - Stix in Neumann - Lichtblaus Kommentar zur EO[4], 647; SZ 8/35, 20/170 u. a.) den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Inhalt und Umfang eines auf gesetzlicher Grundlage beruhenden Veräußerungs- und Belastungsverbotes richtet sich nach dem jeweiligen Gesetz (ebenso SZ 36/123, ImmZ 1975, 55 u. a.).
+Auch der OGH sah dementsprechend eine Zwangsversteigerung in jenen Fällen als zulässig an, in welchen schon nach dem Gesetzeswortlaut das Verbot auf die Veräußerungsart durch Rechtsgeschäft unter Lebenden beschränkt war (ebenso SZ 36/123 und ImmZ 1975, 55), wobei in der Entscheidung ImmZtg 1975, 55 - einem Veräußerungsverbot gemäß § 15a des Gesetzes über den Bundes-Wohn- und Siedlungsfonds - zusätzlich ausgeführt wurde, daß in diesem Fall nach der Absicht des Gesetzgebers bloß die gewinnbringende (freiwillige) Veräußerung unter Lebenden unterbunden werden sollte, nicht aber die Forderungen des Fonds zusätzlich sichergestellt werden sollten.
+Im vorliegenden Fall normiert jedoch § 6 lit. c des Tiroler Landwirtschaftlichen Siedlungsgesetzes 1969, LGBl. 49 (TLSG) die Möglichkeit der Anordnung eines Veräußerungs- und Belastungsverbotes in einem gemäß § 5 dieses Gesetzes erlassenen Bescheid, falls zur Erreichung des Siedlungszwecks ein Darlehen gewährt wird, für die Dauer der Laufzeit dieses Darlehens, mindestens jedoch für die Dauer von 15 Jahren. Das im vorliegenden Fall auf Grund eines derartigen Bescheides eingeräumte Belastungs- und Veräußerungsverbot ist schon nach dem Wortlaut des § 6 TLSG nicht auf eine bestimmte Veräußerungsart - etwa auf freiwillige Veräußerung durch Rechtsgeschäft unter Lebenden, wie im Fall der den Entscheidungen SZ 36/123 und ImmZ 1975, 55 zugrundeliegenden Gesetzesbestimmungen beschränkt, überdies kann aus der auf die Laufzeit des Darlehens abgestellten Dauer des Verbotes der Zweck einer (zusätzlichen) Darlehenssicherstellung entnommen werden.
+Ein zufolge § 6 lit. c des TLSG verbücherter Veräußerungs- und Belastungsverbot steht daher einer Zwangsversteigerung entgegen, zumal dem Hinweis des Rekursgerichtes auf Heller - Berger - Stix, 903, die sich mit der Zulässigkeit zwangsweiser Pfandrechtsbegründung befassen, hier keine Bedeutung zukommt.

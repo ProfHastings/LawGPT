@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.1966
+Geschäftszahl
+1Ob280/66
+Norm
+KO §67;
+Kopf
+SZ 39/217
+Spruch
+Nicht nur dem im ausländischen (deutschen) Konkurs über das Vermögen einer Kommanditgesellschaft bestellten Konkursverwalter, sondern auch der Liquidationsgesellschaft, für die der Konkursverwalter als Liquidator einschreitet, ist der Anspruch auf Einziehung einer im Inland gelegenen Forderung aus dem Gründe des § 67 (2) KO. abzuerkennen
+Entscheidung vom 16. Dezember 1966, 1 Ob 280/66
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien
+Text
+Über das Vermögen der klagenden Partei ist seit dem 2. Dezember 1964 beim Amtsgericht W. (Bayern) das Konkursverfahren anhängig. Für die Klägerin ist ein Liuqidator bestellt worden, der mit der vorliegenden Klage die Verurteilung der im Inland befindlichen Beklagten zur Bezahlung einer Saldoforderung von 97.025.13 DM beantragt. Da die Bestellung des Konkursverwalters (Masseverwalters) mangels Gegenseitigkeit und eines entsprechenden Staatsvertrages in Österreich nicht anerkannt werde, bilde die Klagsforderung ein konkursfreies Vermögen. Darüber finde die Liquidation der durch die Konkurseröffnung aufgelösten klagenden Kommanditgesellschaft nach den Bestimmungen des Handelsgesetzbuches statt. Zum Liquidator sei kein Gesellschafter, sondern der Rechtsanwalt Dr. Albert R. bestellt worden, der zugleich auch Konkursverwalter sei.
+Die Beklagten wandten mangelnde aktive Klagslegitimation des Liquidators ein und beantragten die Klagsabweisung. Nicht der Liquidator, sondern die Gesellschafter seien zur Klagsführung aktiv legitimiert.
+Das Erstgericht wies die Klage ab, weil nicht der Liquidator, sondern der Konkursverwalter zur Klageführung legitimiert sei.
+Das Berufungsgericht hob das Urteil des Erstgerichtes unter Rechtskraftvorbehalt auf. Die Aktivlegitimation der durch die Konkurseröffnung nach den §§ 131 Z. 3, 161 (2) HGB. in Liquidation getretenen und durch den Liquidator vertretenen Klägerin sei gegeben. Entgegen der Meinung der Beklagten sei die durch das Registergericht erfolgte Bestellung des Dr. R. zum Liquidator kein im Konkursverfahren ergangener Beschluß. Die Überprüfung der Bestellung sei den österreichischen Gerichten entzogen, zumal sich keine Anhaltspunkte für die Annahme fänden, daß eine solche Bestellung dem österreichischen ordre public widerstreiten könnte.
+Der Oberste Gerichtshof gab dem Rekurs der beklagten Parteien Folge, hob den Beschluß des Berufungsgerichtes auf und verwies die Rechtssache an das Berufungsgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die eingeklagte Forderung ist im Inland gelegen, weil der Schuldner seinen Wohnsitz im Inland hat. Es ist daher nach österreichischem Recht zu beurteilen, ob der Liquidator zu ihrer Einklagung aktiv legitimiert ist oder der Masseverwalter (Konkursverwalter), wie das Erstgericht meint, oder die Gemeinschuldnerin selbst.
+Nach § 67 (2) KO. ist in einem Auslandskonkurs die Ausfolgung des im Inland gelegenen Vermögens an die ausländische Konkursbehörde abzulehnen, insoweit der ausländische Staat nicht Gegenseitigkeit beobachtet. Sie ist nicht gewährleistet im Verhältnis zur Bundesrepublik Deutschland (vgl. Art. 14 (1) Z. 2 BGBl. Nr. 105/1960).
+Daraus folgt, daß ein Ausfolgungsverfahren, wie dies § 67 (1) KO. vorsieht, nicht zum Ziel führen kann. Die im Ausland erfolgte Konkurseröffnung wirkt grundsätzlich nicht im Inland. Der Gemeinschuldner des ausländischen Konkurses behält die Verfügungsbefugnis über sein in Österreich gelegenes Vermögen. Der im Ausland bestellte Masseverwalter hat hingegen hinsichtlich des in Österreich gelegenen Vermögens keine Vertretungsmacht (vgl. Pollak in Bartsch - Pollak, Kommentar zur KO. I bei § 67 S. 333, Anm. 3, Walker, Internationales Privatrecht[5] S. 507, Fasching in seinem Kommentar zu § 3 ZPO. S. 142). Zu denselben Folgerungen gelangt überwiegend aber auch für das Gebiet der Bundesrepublik Deutschland die Rechtsprechung und das Schrifttum auf Grund des § 237 DKO. (vgl. hiezu insbesondere Wolfram Müller - Freienfels, Auslandskonkurs und Inlandsfolgen, in der Festschrift für Hans Dölle, Band II S. 359 ff.).
+Wenn nun durch die Eröffnung des Konkurses in der Bundesrepublik Deutschland die klagende Partei aufgelöst ist, so ist dies zwar auch in Österreich zu beachten, soweit nicht die besonderen Wirkungen der Konkurseröffnung (§ 1 KO.) in Frage kommen. Die Konkursmasse kann aber die in Österreich gelegene Forderung nur auf dem im § 667 KO. vorgesehenen Wege einziehen. Dem Konkursverwalter würde zur Klagsführung die Sachlegitimation fehlen. Nun ist für die Liquidationsgesellschaft ein Liquidator in der Person des Konkursverwalters nur zu dem Zweck bestellt worden, um für die Konkursmasse die Forderung einzuziehen, weil der Konkursverwalter auf dem im § 67 KO. vorgesehenen Weg keinen Erfolg haben kann. Der damit verfolgte Zweck, die als Schutz für die inländischen Gläubiger gedachte Bestimmung des § 67 KO. zu umgehen, nötigt dazu, auch der Liquidationsgesellschaft den geltend gemachten Anspruch abzuerkennen.
+Die Klagsabweisung durch das Erstgericht ist somit richtig gewesen. Das Berufungsgericht wird neuerlich über die Berufung der klagenden Partei unter Abstandnahme von dem gebrauchten Aufhebungsgrund zu entscheiden haben.

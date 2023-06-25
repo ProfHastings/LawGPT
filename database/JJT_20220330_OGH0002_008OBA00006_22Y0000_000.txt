@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8ObA6/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner und den Hofrat Dr. Stefula als weitere Richter und die fachkundigen Laienrichter Johannes Püller (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei D*, vertreten durch die Kosch & Partner Rechtsanwälte GmbH in Wiener Neustadt, gegen die beklagte Partei A* AG, *, vertreten durch Mag. Judith Morgenstern, Rechtsanwältin in Wien, wegen Entlassungsanfechtung, in eventu Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 29. November 2021, GZ 8 Ra 33/21p-62, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der Kläger releviert in der Zulassungsbeschwerde, dass dem Berufungsgericht ein Verfahrensfehler unterlaufen sei, weil es die Nichteinholung eines Gutachtens aus dem Bereich der Luftfahrt und Flugsicherheit nicht beanstandet habe.
+[2] 		Ein angeblicher Stoffsammlungsmangel des erstinstanzlichen Verfahrens, der im Rechtsmittel geltend gemacht wurde, vom Gericht zweiter Instanz aber – wie hier – verneint wurde, kann im Revisionsverfahren nicht mehr gerügt werden (8 ObA 1/20k [Pkt 2.]). Mängel des Verfahrens zweiter Instanz sind nur dann von erheblicher Bedeutung iSd § 502 Abs 1 ZPO, wenn tragende Grundsätze des Verfahrensrechts verletzt wurden (vgl RIS-Justiz RS0041032).
+[3] 		Das Berufungsgericht verneinte den relevierten erstinstanzlichen Verfahrensmangel mangels Relevanz. Der Kläger vermag auch in der außerordentlichen Revision kein relevantes Sachvorbringen anzuführen, zu dessen Beweis über seinen Antrag in erster Instanz ein Gutachten einzuholen gewesen wäre.
+[4] 		2. Wirkte beim Beschluss auf Erteilung der Zustimmung des Betriebsrats zur Entlassung ein befangenes Betriebsratsmitglied mit, ändert dies nichts an der Wirksamkeit der Zustimmung. Eine Erklärung des Betriebsrats kann nach allgemeinen Regeln der Rechtsgeschäftslehre nur vom Betriebsrat, zB wegen List oder Drohung, angefochten werden (vgl 9 ObA 351/89; Neumayr in Strasser/Jabornegg/Resch, ArbVG § 68 Rz 2 mwN). Das Berufungsgericht verneinte daher mit Grund die Relevanz des vom Kläger geäußerten Verdachts, der Vorsitzende des Betriebsrats wäre befangen gewesen.
+[5] 		3. Der Kläger wurde entlassen, weil er sich, nachdem er sich am 6. 3. 2018 „bis auf weiteres“ als „unfit to fly“ gemeldet hatte, fortgesetzt weigerte, sich einer für den 12. 12. 2018 angesetzten Testung seiner „Interpersonal Skills“ im „Deutschen Zentrum für Luft- und Raumfahrt“ (DLR) zu unterziehen. Er releviert als sekundären Feststellungsmangel das Fehlen einer Feststellung, dass die Testung gar nicht angeordnet worden wäre, hätte der Flugleiter von der Herabstufung seiner „medical class“ von 1 auf 2 gewusst. Die vom Kläger verweigerte Testung wäre sinn- und zwecklos gewesen.
+[6] 		Dem Kläger ist zu erwidern, dass er die Testung gegenüber der Beklagten stets mit dem Argument verweigerte, er wäre zu ihr nicht verpflichtet. Die Anordnung einer Überprüfung bestimmter für einen Flugkapitän erforderlicher Fähigkeiten ist aber eine durch den Gegenstand der Dienstleistung unzweifelhaft gerechtfertigte Anordnung der Fluggesellschaft als Arbeitgeberin. Dass die Beklagte nicht berechtigt war, für eine Überprüfung der – für die Flugtauglichkeit relevanten – „Interpersonal Skills“ des Klägers das genannte Institut zu betrauen, ist auch aus den Ausführungen des Klägers nicht ersichtlich.
+[7] 		Wenn sich ein Angestellter beharrlich weigert, sich einer durch den Gegenstand der Dienstleistung gerechtfertigten Anordnung des Dienstgebers zu fügen, so setzt er einen Entlassungsgrund (RS0029896). Auf die Zweckmäßigkeit der durch den Gegenstand der Dienstleistung gerechtfertigten Weisung kommt es nicht an (4 Ob 30/85). Davon zu unterscheiden ist auch, welche Testungen allenfalls behördlich anerkannt sind. Dass der Termin 12. 12. 2018 allenfalls nicht angesetzt worden wäre, hätte der Flugbetriebsleiter der Beklagten von der Herabsetzung der Flugtauglichkeit des Klägers gewusst, ändert nichts am – von den Vorinstanzen vertretbar bejahten – Vorliegen des Entlassungsgrundes nach § 27 Z 4 AngG.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00006.22Y.0330.000

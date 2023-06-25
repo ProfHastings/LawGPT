@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.07.2013
+Geschäftszahl
+2Ob40/13s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und durch die Hofräte Dr. Veith, Dr. E. Solé, Dr. Schwarzenbacher und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei S***** GmbH, *****, vertreten durch Dr. Gerwin Brandauer, Rechtsanwalt in Salzburg, sowie der auf Seiten der klagenden Partei beigetretenen Nebenintervenientin L***** GmbH, *****, vertreten durch Mag. Wolfgang Gartner und Dr. Isabella Zwickl, Rechtsanwälte in Wien, gegen die beklagte Partei R***** GmbH & Co KG, *****, vertreten durch die Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 70.154,62 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 23.817,20 EUR sA) gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 12. Dezember 2012, GZ 6 R 168/12m-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Das Berufungsgericht bestätigte die Abweisung der Klage auf Rückzahlung von irrtümlich geleisteten Mietentgelten für Multimediaplayer. Die Vertragsklausel, wonach bei Vertragsende alle Mietgegenstände innerhalb von 14 Tagen an die Beklagte zurückzusenden seien, andernfalls sich der Vertrag automatisch um ein weiteres Jahr verlängere, sei nicht ungewöhnlich und nachteilig. Auch sei die Beklagte nicht - im Sinne des Eventualbegehrens - im Umfang eines Drittels der Mietzahlungen bereichert, weil sie sich die Aufwendungen für die Wartung durch die Nebenintervenientin erspart habe. § 1168 ABGB sei auf Werkverträge anzuwenden, während hier ein Mietvertrag vorliege.
+Rechtliche Beurteilung
+Die Klägerin macht in der Zulassungsbeschwerde ihrer außerordentlichen Revision - die sich nur gegen die Abweisung des Eventualbegehrens richtet - geltend, es handle sich um einen gemischten Vertrag mit mietvertraglichen und werkvertraglichen Elementen. Letzteres sei in der Wartungsverpflichtung der Beklagten gelegen. Gemäß § 1168 ABGB müsse sich der Unternehmer (Beklagte) - auch bei einer Pauschalpreisvereinbarung - die bei ihm (ihr) eingetretene Ersparnis infolge Entfalls jeglicher Wartungsarbeiten anrechnen lassen.
+Damit zeigt die Klägerin jedoch keine Rechtsfragen in der Qualität des § 502 Abs 1 ZPO auf:
+Im vorliegenden Fall liegt die Leistung der Beklagten als Vermieterin im Wesentlichen in der Zurverfügungstellung der Mietgegenstände. Diese Leistung hat die Beklagte auch erbracht - sie hat sie sich nicht erspart. Eine Ersparnis kann nur darin liegen, dass im Fall des Gebrauchs der vermieteten Geräte durch die Klägerin allenfalls Wartungen durchzuführen gewesen wären. Jedoch ergibt sich aus dem festgestellten Sachverhalt nicht, dass während der verlängerten Vertragslaufzeit - beim Betrieb der vermieteten Anlagen - kein wartungsfreier Betrieb möglich gewesen wäre. Das aleatorische Moment, ob nun eine Wartungsleistung zu erbringen ist oder nicht, hat die Beklagte in den festgesetzten Pauschalmietzins eingepreist. Weder aus dem schriftlichen Mietvertrag, noch aus den Feststellungen der Tatsacheninstanzen ergibt sich, dass die pauschale Monatsmiete zu einem (betraglich) bestimmten Teil auf allfällige Wartungsleistungen entfällt. Dass der (internen) Kalkulation die Überlegung (der Beklagten) zugrunde lag, dass von den 150 EUR Monatsmiete pro Gerät ein Betrag von 50 EUR für (Wartungs-)Dienstleistungen der Nebenintervenientin anzusetzen sei, stellt keine Vereinbarung eines (bestimmten) Wartungsentgelts zwischen den Mietvertragsparteien dar.
+Die Sichtweise der Klägerin würde jeden Bestandvertrag zum gemischten Vertrag machen, weil jedem Vermieter und Verpächter eine gewisse „Wartungsleistung“ obliegt, indem sie gemäß § 1096 ABGB unter anderem verpflichtet sind, das Bestandstück auf eigene Kosten in brauchbarem Stand zu übergeben und zu erhalten (was grundsätzlich im Bestandzins einkalkuliert ist).
+Das Berufungsgericht ist daher im Einzelfall vertretbar vom Vorliegen eines Mietvertrags ausgegangen und hat ebenso vertretbar die Anwendung des § 1168 ABGB verneint.

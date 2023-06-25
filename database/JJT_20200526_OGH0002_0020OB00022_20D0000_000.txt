@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.05.2020
+Geschäftszahl
+2Ob22/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei G***** reg GenmbH, *****, vertreten durch Mag. Alexander Ebner, Rechtsanwalt in Wien, gegen die beklagte Partei C***** M*****, vertreten durch Mag. Georg Koller, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 8. Jänner 2020, GZ 40 R 165/19i-20, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a      Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Umstand, dass im konkreten Fall mehrere Vertragspartner Verträge mit der klagenden Partei abgeschlossen haben, die gleichartige Klauseln enthalten, bewirkt für sich allein noch nicht das Vorliegen einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO (RS0042816 [T1]). Das gilt jedenfalls dann, wenn die Auslegung zu einem eindeutigen Ergebnis führt (1 Ob 191/16v mwN).
+2. Ein solcher Fall liegt hier vor:
+2.1. Punkt 7 des Vertrags kann schon nach seinem Wortlaut („[…] nur kündigen, wenn: [...]“) nur als abschließende Vereinbarung bestimmter und damit als Ausschluss weiterer Kündigungsgründe verstanden werden. Entgegen den Revisionsausführungen liegt damit kein „unkündbarer“ Vertrag vor; nur der nun von der Klägerin geltend gemachte Grund (§ 30 Abs 2 Z 6 MRG) scheint – weshalb auch immer – nicht im Vertragsformblatt auf. Damit haben die Parteien die wichtigen Gründe für die Auflösung des konkreten Dauerschuldverhältnisses konkretisiert, was nicht durch Rückgriff auf allgemeine Grundsätze korrigiert werden kann.
+2.2. Dass § 7 des Vertrags nur gelten sollte, „solange das Mitglied der Genossenschaft angehört“, ist in Zusammenhalt mit der bei Vertragsabschluss geltenden Satzung der Rechtsvorgängerin der Klägerin zu lesen. Diese sah für die Beendigung der Mitgliedschaft neben dem Tod, der Übertragung des Geschäftsguthabens und dem Austritt nur den – schwerwiegende Gründe voraussetzenden und in einem formalisierten Verfahren erfolgenden – Ausschluss vor. Auf dieser Grundlage verbietet sich die von der Klägerin gewünschte Auslegung des Vertrags, wonach ihre Rechtsvorgängerin durch Änderung der Satzung einen weiteren, allein in ihrer Ingerenz liegenden Beendigungsgrund für die Mitgliedschaft schaffen könnte, dessen Inanspruchnahme zum Wegfall der vertraglichen Kündigungsbeschränkung führte. Denn im Ergebnis bedeutete diese Auslegung, dass die Vertragsparteien der Bestandgeberin ein einseitiges Recht zur Vertragsänderung eingeräumt hätten. Eine solche Vereinbarung kann den Parteien nach der Übung des redlichen Verkehrs (§ 914 ABGB) nicht unterstellt werden. Vielmehr kann die strittige Klausel nur im Sinn eines (statischen) Verweises auf die zum Zeitpunkt des Vertragsabschlusses geltenden Gründe für eine Beendigung der Mitgliedschaft verstanden werden.
+2.3. Soweit sich die Klägerin in der Revision auf den im Vertrag genannten Kündigungsgrund der „Vertragsverletzung“ stützt, ist sie zunächst darauf  hinzuweisen, dass sie die Kündigung nicht auf diesen Grund gestützt und auch kein Sachvorbringen zu einer solchen Vertragswidrigkeit erstattet hatte (zur Maßgeblichkeit des Tatsachenvorbringens RS0081764). Damit steht schon § 33 Abs 1 Satz 3 MRG der Prüfung dieses Kündigungsgrundes entgegen. Abgesehen davon ist dem Vertrag, wie schon das Berufungsgericht zutreffend ausgeführt hat, keine Verpflichtung des Klägers zu entnehmen, das Bestandobjekt ständig zu bewohnen.
+3. Angesichts des eindeutigen Auslegungsergebnisses liegt trotz der Vielzahl möglicherweise betroffener Bestandverhältnisse keine Rechtsfrage iSd § 502 Abs 1 ZPO vor. Die außerordentliche Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00022.20D.0526.000

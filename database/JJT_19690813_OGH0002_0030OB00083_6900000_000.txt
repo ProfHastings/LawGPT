@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.08.1969
+Geschäftszahl
+3Ob83/69
+Norm
+EO §87;
+EO §374 (1);
+Grundbuchsgesetz §14;
+Verordnung über wertbeständige Rechte vom 16. November 1940, DRGBl. 1,
+S. 1521 §3;
+Kopf
+SZ 42/113
+Spruch
+Zugunsten einer Forderung in ausländischer Währung (echte Fremdwährungsforderung) kann Exekution durch zwangsweise Pfandrechtsbegründung oder zur Sicherstellung durch Vormerkung nicht geführt werden.
+Entscheidung vom 13. August 1969, 3 Ob 83/69.
+I. Instanz: Kreisgericht Ried i. I.; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht beantragte auf Grund des vorläufig vollstreckbaren Wechsel-Urteils des Landgerichtes Tübingen vom 4. November 1968, wider den Verpflichteten zur Sicherung der Wechselforderung der betreibenden Gläubigerin von 71.210.50 DM samt 6% Zinsen seit 31. Juli 1968, 89.10 DM Protestkosten und 237.36 DM Wechselprovision sowie der Kosten des Exekutionsantrages für die Zeit bis zum Eintritt der Rechtskraft dieses Wechselurteils die Exekution durch bücherliche Vormerkung des Pfandrechtes auf die Liegenschaft EZ. 4 der KG. E., wobei es in den Bewilligungsvermerk den Gegenwert der Wechselforderung von 71.210.50 DM in österreichischer Währung aufnahm. Dieser Gegenwert scheint in den Ausfertigungen des erstrichterlichen Beschlusses nicht auf.
+Infolge des Rekurses des Verpflichteten bestätigte das Rekursgericht den erstrichterlichen Beschluß mit der Maßgabe, daß die im Bewilligungsvermerk in österreichischer Währung aufscheinende Anführung des Gegenwertes des Betrages von 71.210.50 DM zu entfallen habe. Das Rekursgericht erkannte der Rechtsansicht des Verpflichteten, die Bewilligung der Sicherstellungsexekution verstoße gegen die Bestimmungen des Devisengesetzes, keine Berechtigung zu.
+Der Oberste Gerichtshof wies den Exekutionsantrag der betreibenden Partei ab.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 3 der Verordnung über wertbeständige Rechte vom 16. November 1940, DRGBl. I S. 1521 (in der Fassung des § 4 SchillingG. StGBl. Nr. 231/1945) können im Geltungsgebiet des Allgemeinen Grundbuchsgesetzes 1955 Grundpfandrechte ... außer in Schillingwährung nur in der Weise bestellt werden, daß der aus dem Grundstück zu zahlende Geldbetrag durch Bezugnahme auf den Preis des Feingoldes bestimmt wird. Diese Verordnung ist nach Lehre und Rechtsprechung (Klang in Komm.[2] II 416, Stanzl in Klang[2] IV/1 727, SZ. XXIV 345, SZ. XXV 166 u. a.) auch heute noch in Österreich gültig. Auf die in dieser Verordnung enthaltene Sicherungsmöglichkeit durch eine Goldklausel ist nach der Lage des Falls hier nicht einzugehen. Nach dem Gesetzeswortlaut ist sohin die Neueintragung des Pfandrechtes für eine Forderung in ausländischer Währung unzulässig (vergl. auch Neumann - Lichtblau, Komm.[4] S. 914 f.), und zwar unabhängig davon, ob das Pfandrecht für eine Fremdwährungsschuld auf Grund eines inländischen oder eines ausländischen Titels begrundet werden soll. Eine gegenteilige Ansicht würde der Möglichkeit zur Gesetzesumgehung Tür und Tor öffnen. Durch die bücherliche Vormerkung von Pfandrechten wird ein bedingtes Pfandrecht geschaffen, das durch die Rechtfertigung unbedingt wird. Schon daraus ergibt sich, daß auf Grund des § 3 der Verordnung über wertbeständige Rechte auch die Vormerkung eines Pfandrechtes zugunsten einer Fremdwährungsforderung unzulässig ist (vergl. auch Lentner in ÖJZ. 1967 S. 569, 571 Abschnitt IX).
+Aus diesen Rechtsausführungen ist abzuleiten, daß der auf Vormerkung des Pfandrechts für eine DM-Forderung gerichtete Antrag abzuweisen ist. Der Exekutionsantrag lautete ausdrücklich auf Vormerkung des Pfandrechtes zur Sicherstellung der Forderung von 71.210.50 DM samt Anhang. Es war daher unzulässig, daß der Erstrichter, von diesem Antrag abweichend, in seinen Bewilligungsvermerk den Schillinggegenwert der Fremdwährungsforderung aufnahm; die Vormerkung eines sowohl auf eine Fremdwährungs- als auch auf eine Schillingforderung lautenden Pfandrechtes hätte auch den Erfordernis der Bestimmtheit (§ 14 GBG. 1955) widersprochen.

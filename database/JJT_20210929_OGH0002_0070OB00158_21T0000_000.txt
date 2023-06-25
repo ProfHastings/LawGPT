@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2021
+Geschäftszahl
+7Ob158/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Stefula und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei E***** GmbH, *****, vertreten durch die WOLF THEISS Rechtsanwälte GmbH & Co KG in Wien, gegen die beklagte Partei M***** GmbH, *****, vertreten durch Dr. Martin Brenner, Rechtsanwalt in Baden, wegen 102.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. Juni 2021, GZ 30 R 78/21t-37, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1. Der Oberste Gerichtshof ist nur Rechts- und nicht Tatsacheninstanz (RS0123663 ua). Ein Mangel des Berufungsverfahrens (§ 503 Z 2 ZPO) liegt nicht vor, wenn sich das Berufungsgericht – wie hier – mit der Beweisrüge befasst, die Beweiswürdigung des Erstgerichts überprüft und nachvollziehbare Überlegungen über die Beweiswürdigung angestellt und in seinem Urteil festgehalten hat (RS0043150). Die Beklagte bekämpft in Wahrheit unzulässig die Beweiswürdigung der Vorinstanzen (RS0043414 [T11]).
+[2] 		1.2. Soweit die Rechtsrüge nicht vom festgestellten Sachverhalt ausgeht, ist sie nicht gesetzmäßig ausgeführt (RS0043312 [T14]).
+[3] 		2.1. Eine Vertragsübernahme erfordert grundsätzlich die Übereinkunft aller Beteiligten, nämlich der verbleibenden, der ausscheidenden und der an ihre Stelle tretenden Partei (RS0032607). Ob eine Vertragsübernahme anzunehmen ist, ist eine Frage des Einzelfalls, der im Regelfall keine erhebliche Bedeutung im Sinn des § 502 Abs 1 ZPO zukommt.
+[4] 		2.2. Das Berufungsgericht hat die fehlende Passivlegitimation der Beklagten bereits im ersten Rechtsgang verneint und dazu ausgeführt, dass die Erklärung der früheren Vertragspartei und Gesellschafterin der Beklagten, die zu zahlende Rechnung solle auf die Beklagte ausgestellt werden, aus Sicht eines objektiven Erklärungsempfängers nicht anders verstanden werden könne, als dass nunmehr die Beklagte in das Vertragsverhältnis eintreten soll, auch weil eine solche Vertragsübernahme bereits zuvor vom geschäftsführenden Gesellschafter der Beklagten angekündigt worden sei und die Klägerin im Hinblick auf die Vorgaben des Umsatzsteuergesetzes – die Rechnung muss nach § 11 Abs 1 Z 3 lit b UStG den Namen und die Anschrift des Leistungsempfängers enthalten – spätestens bei der Rechnungslegung Gewissheit gehabt haben müsse, wer ihr Vertragspartner sei. Die Zustimmung der Beklagten zur Vertragsübernahme ergebe sich aus dem Umstand, dass sie die an sie gerichtete (Teil-)Rechnung gezahlt habe, wodurch die Klägerin nach § 863 ABGB davon ausgehen habe müssen, dass auch die Beklagte mit der Übernahme der vertraglichen Pflichten einverstanden sei. Diese Beurteilung ist nicht zu beanstanden.
+[5] 		2.3. Die Ausführungen der Beklagten gegen eine Vertragsübernahme, weil damit gegen das Verbot der Einlagenrückgewähr verstoßen werde, was sie ohne nähere Darlegungen behauptet, sind nicht nachvollziehbar. Weder aus dem Vorbringen noch aus den Feststellungen ergeben sich Anhaltspunkte, dass die Klägerin die Erklärungen nicht so – wie vom Berufungsgericht ausgelegt – objektiv (RS0017751) verstehen durfte.
+[6] 		3. Die von der Beklagten geltend gemachte Verletzung der Aufklärungspflicht der Klägerin, weil diese in Unkenntnis der Vorgaben des Vereins W***** im Generalplanerangebot eine Bauhöhe zugesagt haben soll, die nicht umsetzbar gewesen sei, geht nicht von den Feststellungen aus. Einer Zusicherung steht schon die Feststellung entgegen, dass die Abstimmung des Projekts mit dem Verein nicht Aufgabe der Klägerin war.
+[7] 		4.1. Zutreffend ist, dass bei einer schweren Erschütterung des Vertrauens in die Person des Vertragspartners ein Rücktritt vom Werkvertrag möglich ist (RS0018286).
+[8] 		4.2. Dazu steht fest, dass das Projekt deshalb gescheitert ist, weil die Beklagte die Gebäudehöhe nicht auf die Vorstellungen des W*****-Gestaltungsbeirats reduzieren wollte. Ausschlaggebend für die Verzögerung war die von der Beklagten gewünschte, vom W*****-Beirat aber nicht zugelassene Gebäudehöhe. Die Statik konnte dadurch noch nicht berechnet werden. Die Planung war auch noch nicht so weit fortgeschritten, dass das Energiekonzept, die Bauphysik und die Baubeschreibung erstellt werden hätten können.
+[9] 		Die Rechtsansicht des Berufungsgerichts, dass sich damit die klagende Werkunternehmerin nicht in Verzug befunden habe und ihr durch den unberechtigten Rücktritt der Beklagten vom Vertrag der Anspruch auf das vereinbarte Entgelt entsprechend § 1168 Abs 1 ABGB zustehe, ist daher nicht korrekturbedürftig.
+[10] 		5. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00158.21T.0929.000

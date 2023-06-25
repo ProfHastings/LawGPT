@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.03.2023
+Geschäftszahl
+7Ob17/23k
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei K* GmbH, *, vertreten durch Hohenberg Rechtsanwälte GmbH in Graz, gegen die beklagte Partei C* GmbH *, wegen 9.637,92 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Handelsgerichts Wien als Rekursgericht vom 29. November 2022, GZ 1 R 129/22z-5, womit der Beschluss des Bezirksgerichts für Handelssachen Wien vom 30. August 2022, GZ 9 C 433/22z-2, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+[1] 		Entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Rekursgerichts ist der ordentliche Revisionsrekurs nicht zulässig, was nur einer kurzer Begründung bedarf (§ 510 Abs 3 iVm § 528a ZPO).
+[2] 		1.1 Gemäß § 51 Abs 1 Z 1 iVm § 52 Abs 1 JN gehören vor die selbständigen Bezirksgerichte für Handelssachen, falls der Gegenstand an Geld oder Geldeswert den Betrag von 15.000 EUR nicht übersteigt, Streitigkeiten aus unternehmensbezogenen Geschäften, wenn die Klage gegen einen im Firmenbuch eingetragenen Unternehmer gerichtet ist und das Geschäft auf Seiten des Beklagten ein unternehmensbezogenes Geschäft ist. Mangels Änderung zur früheren Rechtslage kann zur Konkretisierung des Tatbestandserfordernisses „unternehmensbezogenes Geschäft“ auch auf die Rechtsprechung vor Inkrafttreten des Handelsrechts-Änderungsgesetzes (HRÄG. BGBl I 2005/120) mit 1. 1. 2007 zurückgegriffen werden (vgl RS0046425 [T3]).
+[3] 		1.2 Nach dieser ist Voraussetzung für die Zuständigkeit des Handelsgerichts, dass der Anspruch aus einem unternehmensbezogenen Geschäft abgeleitet wird und somit in einem sachlichen Zusammenhang mit der Gewerbetätigkeit steht und aus dem unternehmensbezogenen Geschäft selbst geltend gemacht wird (RS0046425). Ein Anspruch wird dann aus einem unternehmensbezogenen Geschäft selbst abgeleitet, wenn dieses den rechtserzeugenden Sachverhalt darstellt, auf welchen der Kläger den Anspruch stützt. Es genügt nicht, dass der eingeklagte Anspruch anlässlich der unternehmerischen Tätigkeit des Beklagten entstanden ist, sondern es ist das Hervorgehen des Anspruchs, somit der Streitigkeit selbst, aus dem unternehmensbezogenen Geschäft, erforderlich (RS0046425 [T1]).
+[4] 		2. Bei der Prüfung der Zuständigkeit ist gemäß § 41 Abs 3 JN nur von den Klagsangaben auszugehen (RS0046236, RS0050772).
+[5] 		2.1 In ihrer Klage brachte die Klägerin vor, dass die Beklagte ihren Antrag auf Gewährung der zweiten Tranche des Fixkostenzuschusses FKZ 800.000 mit Schreiben vom 20. 7. 2022 zu Unrecht abgelehnt habe. Da die Gewährung der klagsgegenständlichen Förderung im Rahmen der Privatwirtschaftsverwaltung – und Fiskalgeltung der Grundrechte und Kontrahierungszwang – erfolge, stehe ihr ein klagbarer Leistungsanspruch zu.
+[6] 		2.2 Die Vorinstanzen verstanden dieses Vorbringen dahin, dass (noch) kein Fördervertrag zustandegekommen sei und wiesen davon ausgehend – wegen fehlender Behauptung eines unternehmensbezogenen Geschäfts auf Seiten der Beklagten oder sonstiger zuständigkeitsbegründender Umstände – die Klage mangels sachlicher Zuständigkeit zurück.
+[7] 		2.3 Die Klägerin hält dem nur entgegen, die Vorinstanzen hätten ihre Klagsvorbringen fehlinterpretiert; tatsächlich umfasse es die Behauptung, dass ein aus dem bereits zustandegekommenen Fördervertrag resultierender Förderanspruch geltend gemacht werde.
+[8] 		3. Gegenstand des Revisionsrekursverfahrens ist damit ausschließlich diese im Rechtsmittel thematisierte Auslegung der Klagsangaben der Klägerin.
+[9] 		3.1 Nach Punkt 5.1 des Anhangs zur Verordnung des Bundesministers für Finanzen gemäß § 3b Abs 3 des ABBAG-Gesetzes betreffend Richtlinien über die Gewährung eines Fixkostenzuschusses bis FKZ 800.000 durch die C* GmbH (in Hinkunft C*) (Verordnung über die Gewährung eines FKZ 800.000, BGBl II Nr 497/2020) stellt der Antragsteller durch die Einbringung eines Antrags auf Gewährung eines FKZ 800.000 ein Angebot auf Abschluss eines Fördervertrags mit der C*. Die Auszahlung des FKZ 800.000 an den Antragsteller durch die C* gilt sodann als Annahme des Anbots auf Abschluss eines Fördervertrags mit der C*.
+[10] 		Das Klagsvorbringen, wonach ihr Förderantrag abgelehnt worden sei, beinhaltet gerade nicht die Behauptung, dass der Fördervertrag bereits zustande gekommen sei.
+[11] 		3.2 Entgegen der Ansicht der Klägerin folgt auch aus ihrem im Klagsvorbringen enthaltenen Hinweis auf die Fiskalgeltung der Grundrechte und einen Kontrahierungszwang nicht, dass der Fördervertrag bereits zustandegekommen ist, setzt doch ein Zwang zum Kontrahieren – als Pflicht zum Vertragsabschluss – voraus, dass noch kein Vertrag besteht (RS0016762 [T6]).
+[12] 		3.3 Abgesehen davon, dass der Frage, wie ein bestimmtes Vorbringen zu verstehen ist, grundsätzlich keine über den Einzelfall hinausreichende Bedeutung zukommt (vgl RS0042828), ist die Auslegung des Klagsvorbringens durch die Vorinstanzen, wonach die Klägerin ihren Anspruch nicht auf einen bereits zustandegekommenen Fördervertrag gründete, nicht zu beanstanden.
+[13] 		3.4 Ob die handelsgerichtliche Zuständigkeit für eine Klage auf einen aus der behaupteten (bloßen) Abschlusspflicht der Beklagten abgeleiteten oder einen direkten Leistungsanspruch auf einseitige Anforderung einer Förderung gegeben wäre, muss nicht geklärt werden.
+[14] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00017.23K.0322.000

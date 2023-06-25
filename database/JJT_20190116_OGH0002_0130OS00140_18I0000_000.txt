@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.01.2019
+Geschäftszahl
+13Os140/18i
+Kopf
+Der Oberste Gerichtshof hat am 16. Jänner 2019 durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Lässig als Vorsitzenden sowie die Hofräte und die Hofrätinnen des Obersten Gerichtshofs Dr. Nordmeyer, Mag. Michel, Dr. Oberressl und Dr. Brenner in Gegenwart des Richteramtsanwärters Mag. Sischka als Schriftführer in der Finanzstrafsache gegen Turgut Y***** wegen des Finanzvergehens des Abgabenbetrugs nach §§ 33 Abs 1, 39 Abs 1 lit a und 13 FinStrG und weiterer strafbarer Handlungen über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts Wiener Neustadt als Schöffengericht vom 14. September 2018, GZ 37 Hv 57/17i-58, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Zur Entscheidung über die Berufung werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Dem Angeklagten fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+Mit dem angefochtenen Urteil wurde Turgut Y***** des Finanzvergehens des Abgabenbetrugs nach §§ 33 Abs 1, 39 Abs 1 lit a und 13 FinStrG (I) sowie mehrerer Finanzvergehen der Abgabenhinterziehung nach § 33 Abs 2 lit a FinStrG (II) schuldig erkannt.
+Danach hat er als unternehmensrechtlicher Geschäftsführer der m*****-GmbH im Zuständigkeitsbereich des Finanzamts Baden Mödling vorsätzlich unter Verletzung abgabenrechtlicher Anzeige-, Offenlegungs- oder Wahrheitspflichten Abgabenver-kürzungen, und zwar
+(I) durch Abgabe unrichtiger Steuererklärungen unter Verwendung infolge Manipulationen am elektronischen Kassensystem durch Stornierungen und tatsachenwidrige Buchungen von niedrigeren Umsätzen „falscher oder verfälschter“ Daten
+A) bewirkt, nämlich
+1) an Umsatzsteuer für das Jahr 2010 um 500 Euro und
+2) an Körperschaftsteuer für das Jahr 2010 um 700 Euro sowie
+B) zu bewirken versucht, nämlich an Körperschaftsteuer
+1) für das Jahr 2011 um 64.300 Euro und
+2) für das Jahr 2012 um 180.600 Euro, weiters
+(II) unter Verletzung der Verpflichtung zur Abgabe von § 21 UStG entsprechenden Voranmeldungen an Umsatzsteuer bewirkt, wobei er dies nicht nur für möglich, sondern für gewiss hielt, nämlich für jeden der Voranmeldungszeiträume August bis Dezember 2011 (A) sowie Jänner und Februar 2012 (B) um insgesamt 48.400 Euro.
+Rechtliche Beurteilung
+Die dagegen aus § 281 Abs 1 Z 4, 5, 5a und 9 lit a StPO ergriffene Nichtigkeitsbeschwerde geht fehl.
+Der Verfahrensrüge (Z 4) zuwider wurde der Antrag auf zeugenschaftliche Vernehmung mehrerer Personen (ON 57 S 17) zu Recht abgewiesen. Denn das Beweisthema, „dass der Angeklagte keinerlei Manipulation am Kassensystem, sondern vielmehr dritte Personen vorgenommen haben“, war mit Blick auf die Qualifikationsnorm des § 39 Abs 1 lit a FinStrG, die bloß die Begehung „unter Verwendung“ von (hier relevant) falschen oder verfälschten Daten oder anderen solchen Beweismitteln, nicht jedoch deren (vorausgehende) „Manipulation“ durch den Täter selbst erfasst, nicht erheblich (§ 55 Abs 2 Z 1 StPO, RIS-Justiz RS0116987). Sollte er als auf die subjektive Tatseite zielend zu verstehen sein, legte der – solcherart auf Erkundungsbeweisführung gerichtete (RIS-Justiz RS0118444 [T6]) – Antrag nicht dar, welche Wahrnehmungen die genannten Personen zur (vorsätzlichen) Verwendung „falscher oder verfälschter Daten“ durch den Beschwerdeführer gehabt haben sollen.
+Die Höhe des strafbestimmenden Wertbetrags insgesamt und in Bezug auf die einzelnen Finanzvergehen hat das Erstgericht festgestellt (US 5 f). Die im Rahmen der Mängelrüge geäußerte Kritik (der Sache nach Z 11 iVm Z 5 erster Fall [vgl RIS-Justiz RS0118581]) an der Urteilspassage, die der Ermittlung der Verkürzung an Körperschaftsteuer zugrunde liegende „Hochrechnung“ habe „einen zusätzlichen Umsatz bzw 'Gewinn' in Höhe von rund 789.000 Euro netto in den Jahren 2010 bis 2012“ ergeben (US 6), betrifft daher die Begründungsebene (RIS-Justiz RS0107044 [T3]; Ratz, WK-StPO § 281 Rz 393 und 667). Bei gebotener Gesamtbetrachtung der Entscheidungsgründe ist
+– nach Beurteilung des Obersten Gerichtshofs – für sämtliche unter dem Gesichtspunkt der Urteilsanfechtung relevanten Urteilsadressaten unzweifelhaft erkennbar (RIS-Justiz RS0117995), dass die Tatrichter mit diesem Betrag den nach dem (als schlüssig und nachvollziehbar bezeichneten) Gutachten Dris. Matthias K***** bei der Berechnung der Körperschaftsteuerverkürzung zugeschätzten Unternehmens-gewinn („Einkommen“ im Sinn des § 7 Abs 1 KStG) gemeint haben, während der vom Beschwerdeführer in der Abgabenerklärung für das Jahr 2010 (I/A/1) und den Umsatzsteuervoranmeldungen (II) verschwiegene Umsatz nach den Urteilsfeststellungen insgesamt 245.000 Euro betrug (US 6 und 9 iVm ON 28 S 295 ff).
+Indem die Tatsachenrüge (Z 5a) aus einzelnen Passagen des (im Urteil ausführlich erörterten [US 7 f]) Gutachtens Dris. Christian L***** für den Beschwerdeführer günstigere Schlussfolgerungen zieht als das Erstgericht, weckt sie keine erheblichen Bedenken gegen die Richtigkeit des Ausspruchs über entscheidende Tatsachen (vgl RIS-Justiz RS0099674).
+Das weitere zu diesem Nichtigkeitsgrund erstattete Vorbringen erschöpft sich im Versuch, in unzulässiger Weise Bedenken ohne direkten Bezug zu aktenkundigem Beweismaterial aus den Erwägungen der Tatrichter abzuleiten (RIS-Justiz RS0119424).
+Die zum Schuldspruch I geäußerte Kritik der Rechtsrüge (Z 9 lit a), aus dem Urteil sei „nicht erkennbar, dass der Angeklagte eine unrichtige Jahressteuererklärung abgegeben“ habe, verfehlt die gebotene Bezugnahme auf die Gesamtheit des Urteilssachverhalts (RIS-Justiz RS0099810). Den Entscheidungsgründen ist dies nämlich bei vernetzter Betrachtung sehr wohl zu entnehmen (US 4, 5 f und 13).
+Der Einwand zum Schuldspruch II erklärt nicht, weshalb die Feststellungen, der Beschwerdeführer habe (von entsprechendem Vorsatz getragen) unrichtige Umsatzsteuer-Voranmeldungen für jeden einzelnen der Voranmeldungszeiträume abgegeben und (wissentlich) in jedem dieser Zeiträume eine (wenngleich betragsmäßig nicht aufgeschlüsselte) Verkürzung an Umsatzsteuer bewirkt (US 6), den Schuldspruch nicht tragen sollten (RIS-Justiz RS0099620, RS0124713).
+Die Nichtigkeitsbeschwerde war daher bei der nichtöffentlichen Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO).
+Daraus folgt die Zuständigkeit des Oberlandesgerichts zur Entscheidung über die Berufung (§ 285i StPO).
+Der Kostenausspruch beruht auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0130OS00140.18I.0116.000

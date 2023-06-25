@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2017
+Geschäftszahl
+7Ob226/16k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei J***** L*****, vertreten durch Dr. Christian Pichler, Rechtsanwalt in Reutte, gegen die beklagte Partei A*****-AG, *****, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 28. Oktober 2016, GZ 4 R 161/16g-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 2 ZPO zurückgewiesen.
+Text
+Begründung:
+Dem Rechtsschutzversicherungsvertrag zwischen den Streitteilen liegen die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB) 2008 zugrunde. Diese lauten auszugsweise:
+„Art 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+1. Kein Versicherungsschutz besteht für die Wahrnehmung rechtlicher Interessen
+[…]
+1.2 in ursächlichem Zusammenhang
+[…]
+1.2.2 mit
+–  [...]
+– der Errichtung bzw baubehördlich genehmigungspflichtigen Veränderung von Grundstücken, Gebäuden (Gebäudeteilen) oder Wohnungen, die sich im Eigentum oder Besitz des Versicherungsnehmers befinden oder von ihm erworben werden;
+– der Planung und Finanzierung der in Punkt 1.2.2 genannten Maßnahmen und Vorhaben einschließlich des Grundstückserwerbs;“
+Rechtliche Beurteilung
+1. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der Vertragsauslegung (§§ 914, 915 ABGB) auszulegen und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers (RIS-Justiz RS0050063) und stets unter Berücksichtigung des erkennbaren Zwecks der Bestimmung (RIS-Justiz RS0050063 [T6, T71]; RS0112256 [T10]). Es findet deshalb auch die Unklarheitenregelung des § 915 ABGB Anwendung. Unklarheiten gehen daher zu Lasten der Partei, von der die Formulierungen stammen, das heißt im Regelfall zu Lasten des Versicherers (RIS-Justiz RS0050063 [T3]). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RIS-Justiz RS0008901). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es der Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewöhnlichen Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RIS-Justiz RS0107031).
+2. Der Oberste Gerichtshof hat zur vergleichbaren Bedingung (Art 7.1.11 ARB 2005) bereits Stellung genommen: Wirtschaftlicher Zweck des zu beurteilenden Risikoausschlusses ist, die Rechtsschutzdeckung nicht nur für erfahrungsgemäß aufwändige und teure Bau-(mängel)-prozesse auszunehmen, sondern auch Streitigkeiten, die – wegen der häufigen Notwendigkeit, große Beträge fremd zu finanzieren – hohe Streitwerte zum Gegenstand haben und zwischen den Parteien der Finanzierungsvereinbarung auftreten, in der Regel also Streitfragen aus den geschlossenen Kreditverträgen zwischen Kreditgeber und Kreditnehmer. Der Risikoausschluss kann nur dann zur Anwendung kommen, wenn sich die typische Risikoerhöhung, die zur Aufnahme gerade dieses Ausschlusses geführt hat, verwirklicht. Es bedarf – wie im Schadenersatzrecht zur Haftungsbegrenzung – eines adäquaten Zusammenhangs zwischen Rechtsstreit und Baufinanzierung; es muss also der Rechtsstreit, für den Deckung gewährt werden soll, typische Folge der Finanzierung eines Bauvorhabens sein. Ein adäquater Zusammenhang liegt dann vor, wenn die beabsichtigte Rechtsverfolgung einen Bezug zu den für Finanzierungen typischen Problemen wie Fälligstellungen wegen Zahlungsrückständen, Uneinigkeit über die Zinsberechnung und Schlechtberatung bei der Wahl und konkreten Gestaltung der Finanzierung, aufweist. So besteht ein hinreichender Zusammenhang mit Aufklärungs- und Beratungsfehlern durch den Darlehensgeber oder -vermittler. Die Baufinanzierungsklausel gilt sowohl dann, wenn die Bank den Darlehensvertrag kündigt, aus dem Darlehensvertrag vorgeht und die Zwangsvollstreckung betreibt, als auch dann, wenn die Bank Anweisungen des Kunden nicht beachtet. Wird durch eine nachträgliche Stop-Loss-Order des Kreditnehmers versucht, das Währungsrisiko des zur Finanzierung eines Bauvorhabens aufgenommenen Fremdwährungskredits zu begrenzen, so stehen Streitigkeiten um Aufklärungs- und Beratungsfehler der Kreditgeberin im Zuge der Stop-Loss-Order im adäquaten Zusammenhang mit der Finanzierung des Bauvorhabens, sodass der Risikoausschluss greift (7 Ob 110/16a mwN; vgl auch RIS-Justiz RS0126927).
+3. Die Beurteilung des Berufungsgerichts, die behauptete – dem Kreditvertrag widersprechende – Verweigerung einer Konvertierung im Rahmen eines zu einem früheren Zeitpunkt eingeräumten Fremdwährungskredits zur Finanzierung eines Hauses durch das Bankinstitut weise einen hinreichenden Zusammenhang mit der Finanzierung des Bauvorhabens auf, sodass der Risikoausschluss des Art 7.1.2.2 ARB 2008 greife, hält daher sich im Rahmen der oberstgerichtlichen Judikatur.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00226.16K.0125.000

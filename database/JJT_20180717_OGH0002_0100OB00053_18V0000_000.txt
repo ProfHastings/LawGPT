@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.07.2018
+Geschäftszahl
+10Ob53/18v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie die Hofrätinnen Dr. Fichtenau und Dr. Grohmann, den Hofrat Mag. Ziegelbauer und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Univ.-Prof. DI *****, vertreten durch Pflaum Karlberger Wiener Opetnik Rechtsanwälte in Wien, gegen die beklagte Partei *****, vertreten durch Mag. Karin Luxbacher und Mag. Julia Tesch-Kohlbeck, LL.M., Rechtsanwälte GesbR in Korneuburg, wegen 441.886,81 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. April 2018, GZ 13 R 152/17v-86, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+1.1 Das Berufungsgericht sah das Vorbringen des Beklagten zur Gründung einer Gesellschaft bürgerlichen Rechts (GesbR) mit Beteiligung (auch) der Streitteile als unzulässige Neuerung an, weil sich der Beklagte in erster Instanz darauf nicht berufen hätte. Die einzelfallbezogene (RIS-Justiz RS0042828 [T3]) Auslegung von Parteienvorbringen begründet nur dann eine erhebliche Rechtsfrage, wenn das erzielte Ergebnis unvertretbar ist (vgl RIS-Justiz RS0042828 [T11]). Das trifft hier nicht zu.
+1.2 Die Gründung einer GesbR setzt einen ausdrücklich oder schlüssig zustande gekommenen Gesellschaftsvertrag voraus. Die beteiligten Personen müssen die Absicht haben, einen solchen Vertrag zu schließen (RIS-Justiz RS0022210). Das stillschweigende Zustandekommen eines Gesellschaftsvertrags kann nur dann angenommen werden, wenn Umstände vorliegen, die keinen Zweifel darüber aufkommen lassen, dass sich die Gesellschafter über den Abschluss eines Gesellschaftsvertrags einig gewesen sind. Das Interesse mehrerer Personen am Eintritt eines bestimmten Erfolgs genügt nicht (5 Ob 226/05d mwN; vgl RIS-Justiz RS0014571).
+1.3 Der Beklagte hielt dem eingeklagten Anspruch auf Architektenhonorar in erster Instanz entgegen, er habe mit dem Kläger lediglich unverbindliche Gespräche geführt und keinesfalls im eigenen Namen (Architektur-)Leistungen in Auftrag gegeben. Konkrete Anhaltspunkte für das zweifelsfreie Zustandekommen eines Gesellschaftsvertrags sind diesem Vorbringen nicht zu entnehmen.
+2.1 Die Rechtsprechung qualifiziert einen Vertrag, mit dem ein Architekt mit der Herstellung  von Plänen beauftragt wird, als Werkvertrag (RIS-Justiz RS0019364). Für das (konkludente) Zustandekommen eines Auftrags an den Kläger, Planungsleistungen zu erbringen, ist entscheidend, ob er bei sorgfältiger Deutung der Erklärungen seiner Ansprech- und Verhandlungspartner von einer Auftragserteilung ausgehen durfte (RIS-Justiz RS0014343 [T5]). Auch in der Beurteilung dieser, ebenfalls von den Umständen des Einzelfalls abhängigen (RIS-Justiz RS0109021 [T5]) Rechtsfrage, ist die Lösung des Berufungsgerichts vertretbar.
+2.2 Der Kläger erhielt bei der ersten, vom Beklagten initiierten Besprechung einen ausdrücklichen Auftrag zur Erhebung der Randbedingungen (einschließlich der Klärung des Wassers, der Energieanschlüsse, des Verkehrs, der Einkaufsmöglichkeiten, der Versorgungseinrichtungen etc) für eine Bebauung des Grundstücks, auf dem der Beklagte in eigenem Namen ein
+– letztlich aus finanziellen Gründen gescheitertes – Bauprojekt in Holzbauweise realisieren wollte. Danach gab es zahlreiche Besprechungen zur Verwirklichung des Projekts, bei dem der Kläger auch seine Vorschläge und Skizzen für die gewünschte Bebauung präsentierte. Mit diesen Leistungen hat er dem von Anfang an vermittelten Wunsch des Beklagten nach der Bebauung in Holzbauweise entsprochen und stieß auf Zustimmung. Aus seiner Sicht beschränkte sich der Auftrag nicht auf die Erhebungen der Randbedingungen im Sinn einer bloßen Machbarkeitsstudie.
+2.3 Der Revisionswerber meint, dass der Kläger entgegen der HIA 2010 keine Freigabe der einzelnen Planungsschritte eingeholt habe und überdies seine durch die HOA 2002 (2004) begründete Pflicht zur Kostenschätzung verletzt habe. Dies steht seiner Ansicht nach einer konkludenten Beauftragung entgegen.
+2.4 Honorarordnungen für Architekten gelten nur für die Parteien eines Planungsvertrags, die ihre Geltung vereinbart haben (4 Ob 195/15b). Das wurde in erster Instanz weder behauptet noch festgestellt. Das Erstgericht hat die HOA 2002 – entsprechend dem eingeholten Sachverständigengutachten – lediglich seiner Beurteilung der Angemessenheit des Entgeltanspruchs zugrunde gelegt. Auf die genannten Pflichtverletzungen hat sich der Kläger in erster Instanz zudem gar nicht berufen, wie bereits das Berufungsgericht ausgeführt hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0100OB00053.18V.0717.000

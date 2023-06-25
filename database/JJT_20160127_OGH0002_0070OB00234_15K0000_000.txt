@@ -1,0 +1,45 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2016
+Geschäftszahl
+7Ob234/15k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei G***** S*****, vertreten durch Mag. Johann Juster, Rechtsanwalt in Zwettl, gegen die beklagte Partei N***** Versicherung AG, *****, vertreten durch die Dr. Gerhard Rößler Rechtsanwalt KG in Zwettl, wegen Feststellung, über die außerordentlichen Revisionen der klagenden Partei und der beklagten Partei gegen das Urteil des Landesgerichts Krems an der Donau als Berufungsgericht vom 29. Oktober 2015, GZ 1 R 128/15a-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentlichen Revisionen werden gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Dem von den Parteien abgeschlossenen Rechtsschutzversicherungsvertrag liegen die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 1994) zugrunde, die auszugsweise lauten:
+„Artikel 8
+Welche Pflichten hat der Versicherungsnehmer zur Sicherung seines Deckungsanspruches zu beachten? (Obliegenheiten)
+1. Verlangt der Versicherungsnehmer Versicherungsschutz, ist er verpflichtet,
+1.1. den Versicherer unverzüglich, vollständig und wahrheitsgemäß über die jeweilige Sachlage aufzuklären und ihm alle erforderlichen Unterlagen auf Verlangen vorzulegen;
+...
+2. Verletzt der Versicherungsnehmer eine der vorstehend genannten Obliegenheiten, ist der Versicherer gemäß § 6 Versicherungsvertragsgesetz (VersVG) von der Verpflichtung zur Leistung frei.
+...
+Artikel 9
+Wann und wie hat der Versicherer zum Deckungsanspruch des Versicherungsnehmers Stellung zu nehmen?
+Was hat bei Meinungsverschiedenheiten zwischen dem Versicherer und dem Versicherungsnehmer über die Art der Vorgangsweise oder die Erfolgsaussichten zu geschehen? (Schiedsgutachterverfahren)
+...
+2. ... Kommt (der Versicherer) nach Prüfung des Sachverhaltes unter Berücksichtigung der Rechts- und Beweislage zum Ergebnis,
+...
+2.2. dass diese Aussicht auf Erfolg nicht hinreichend, d.h. ein Unterliegen in einem Verfahren wahrscheinlicher ist als ein Obsiegen, ist er berechtigt, die Übernahme der an die Gegenseite zu zahlenden Kosten abzulehnen;
+…“
+Das Berufungsgericht stellte fest, dass der beklagte Versicherer dem Kläger aufgrund des zwischen ihnen abgeschlossenen Rechtsschutzversicherungsvertrags für seinen Rechtsstreit gegen einen Sachverständigen in einem bestimmten Gerichtsverfahren Versicherungsschutz durch Übernahme der dem Kläger selbst entstehenden Kosten zu gewähren habe, und wies das Mehrbegehren hinsichtlich der an die Gegenseite zu zahlenden Kosten ab. Es sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und die ordentliche Revision nicht zulässig sei.
+Rechtliche Beurteilung
+In den dagegen von beiden Parteien erhobenen außerordentlichen Revisionen werden keine Rechtsfragen von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO angesprochen.
+Zur außerordentlichen Revision der Beklagten:
+1. Bei der Bestimmung des Art 8.1.1. ARB 1994 handelt es sich nach ständiger Rechtsprechung um eine auf die Bedürfnisse des Rechtsschutzversicherers zugeschnittene Ausformung der allgemeinen Auskunftsobliegenheit des § 34 Abs 1 VersVG, wobei der Versicherungsschutz begehrende Versicherungsnehmer diese Auskünfte von sich aus, spontan und ohne konkretes Verlangen des Versicherers zu geben hat (RIS-Justiz RS0105784 [T2]). Durch die Aufklärung soll der Versicherer in die Lage versetzt werden, sachgemäße Entscheidungen über die Behandlung des Versicherungsfalls zu treffen. Es genügt, dass die Auskunft abstrakt zur Aufklärung des Schadensereignisses geeignet ist (RIS-Justiz RS0080203 [T1, T2]; RS0080205 [T1, T2]; RS0080833 [T6, T7]).
+Die Beweislast dafür, dass der Versicherungsnehmer eine Aufklärungs- und/oder Belegobliegenheit verletzt hat, trifft den Versicherer (7 Ob 210/14d mwN; vgl RIS-Justiz RS0043510; RS0043728; RS0081313).
+1.2. In der Rechtsschutzversicherung ist bei der Beurteilung der Erfolgsansichten kein strenger Maßstab anzulegen (RIS-Justiz RS0081929). Im Deckungsprozess sind Feststellungen über Tatfragen, die Gegenstand des Haftpflichtprozesses sind, für den Haftpflichtprozess nicht bindend, daher überflüssig und soweit sie getroffen wurden, für die Frage der Deckungspflicht unbeachtlich. Im Deckungsprozess kommt eine Vorwegnahme der Beweiswürdigung und des Ergebnisses des Haftpflichtprozesses bei Beurteilung der Erfolgsaussichten grundsätzlich nicht in Betracht. Dies gilt insbesondere für jene Beweismittel, die in einem hohen Maß der richterlichen Würdigung unterliegen, wie etwa Sachverständigengutachten (RIS-Justiz RS0081927 [auch T2]). Dabei kann das Gericht die zur Verfahrenshilfe entwickelten Grundsätze anwenden (RIS-Justiz RS0116448). Eine nicht ganz entfernte Möglichkeit des Erfolgs genügt, um die Rechtsverfolgung nicht als offenbar aussichtslos erscheinen zu lassen (RIS-Justiz RS0117144; RS0036090).
+1.3. Nach der Rechtsprechung des Obersten Gerichtshofs darf ein vom Versicherer eingeholtes Privatgutachten nicht herangezogen werden, um dem Versicherungsnehmer die Deckung zu verweigern. Die Einholung eines außergerichtlichen Gutachtens kann keinen Einfluss auf den Umfang der Rechtsschutzdeckung haben (7 Ob 103/08k). Wenn die Beklagte dem Kläger als Verletzung der Aufklärungspflicht die unterlassene Mitwirkung zur Einholung eines solchen Gutachtens vorhält, so liegt darin - wie das Berufungsgericht unter Bezugnahme auf diese Rechtsprechung zutreffend aussprach - keine Obliegenheitsverletzung.
+1.4. Der Kläger übermittelte der Beklagten die Gutachten des in seinen sozialversicherungsrechtlichen Gerichtsverfahren bestellten Sachverständigen und die gegen diesen erhobene Klage, deren Schlüssigkeit die Beklagte im Revisionsverfahren nicht bestreitet. Zwar hat der Kläger der Beklagten weitere medizinische Unterlagen nicht übermittelt, jedoch steht nicht fest, dass die Beklagte entsprechend Art 8.1.1. ARB 1994 vom Kläger die Vorlage einer solchen Dokumentation seiner Behandlung verlangte (vgl RIS-Justiz RS0105784 [T3]). Damit fehlt es aber schon am Nachweis der behaupteten Verletzung der Belegobliegenheit.
+Zur außerordentlichen Revision des Klägers:
+2. Die besondere Hinweispflicht des Versicherers auf ein Schiedsgutachterverfahren ist bloß gegenüber einem nicht anwaltlich vertretenen Versicherungsnehmer (§ 158m Abs 1 VersVG) mit der strengen zivilrechtlichen Sanktion der Anerkennung des Versicherungsanspruchs verbunden (§ 158l Abs 2 letzter Satz VersVG = Art 9.4. letzter Satz ARB 1994; RIS-Justiz RS0110865; RS0116837). Die Ausführungen des Klägers geben keinen Anlass, von dieser wiederholt vertretenen Rechtsansicht abzugehen.
+3. Die Rechtsansicht des Berufungsgerichts, dass ein Unterliegen des Klägers im Prozess gegen den Sachverständigen wahrscheinlicher sei als sein Obsiegen, ist eine Frage des Einzelfalls und hier zumindest vertretbar. Wenn das Berufungsgericht dieser Beurteilung zugrunde legte, dass sich seine Klagsbehauptungen darin erschöpfen, der in den Vorprozessen bestellte Sachverständige hätte bei richtiger Würdigung und Beurteilung seines Zustands zu für ihn günstigeren Ergebnissen kommen müssen, und auch berücksichtigte, dass der Kläger noch eine Reihe weiterer Sachverständiger aus verschiedenen Fachbereichen ebenso mit der Begründung geklagt hat, ihre Gutachten seien jeweils unrichtig gewesen, ist dies nicht zu beanstanden.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00234.15K.0127.000

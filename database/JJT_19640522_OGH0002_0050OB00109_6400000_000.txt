@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.05.1964
+Geschäftszahl
+5Ob109/64
+Norm
+KO §71;
+Kopf
+SZ 37/74
+Spruch
+Im Zeitpunkt der Rekursentscheidung muß mindestens noch ein andrängender Gläubiger vorhanden sein.
+Entscheidung vom 22. Mai 1964, 5 Ob 109/64. I. Instanz:
+Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht eröffnete über Antrag der Gebietskrankenkasse am 7. Februar 1964 das Konkursverfahren über das Vermögen des Karl M. Das Konkursedikt wurde am 7. Februar 1964 angeschlagen. Am 20. Februar 1964 zog die Antragstellerin ihren Konkurseröffnungsantrag ohne Angabe näherer Gründe zurück. Am 21. Februar 1964 langte der Rekurs des Antragsgegners Karl M. ein, worin er sich unter Berufung auf die nachträglich erfolgte Zurückziehung des Eröffnungsantrages gegen die Konkurseröffnung beschwerte.
+Das Rekursgericht gab diesem Rekurs Folge und hob den Konkurseröffnungsbeschluß vom 7. Februar 1964 auf; es fügte bei, daß eine Abweisung des Antrages der Gebietskrankenkasse auf Eröffnung des Konkursverfahrens über das Vermögen des Karl M. zu entfallen habe, weil dieser Antrag bereits zurückgezogen worden sei.
+Die zweite Instanz begrundete ihre Entscheidung damit, daß nach § 176 KO. im Rekurse auch neue Umstände und Beweismittel angeführt werden können und daher im Rahmen des konkursgerichtlichen Rekursverfahrens auch neue Tatsachen zu berücksichtigen seien, die erst nach der Beschlußfassung des Erstgerichtes eingetreten seien. Es komme daher dem Umstande Bedeutung zu, daß die antragstellende Partei ihren Konkursantrag nachträglich zurückgezogen habe; denn damit fehle es an einem Antragsteller, weil sonst keine Konkurseröffnungsanträge gegen Karl M. anhängig seien. Die Rückziehung des Antrages habe das Rekursgericht bei seiner Entscheidung berücksichtigen müssen, weil auch zu diesem Zeitpunkte noch ein antragstellender Gläubiger vorhanden sein müsse. Da dies nicht der Fall sei, sei der Konkurseröffnungsbeschluß über Rekurs des Antragsgegners aufzuheben gewesen.
+Der Oberste Gerichtshof gab den dagegen erhobenen Rekursen der Gläubiger A. und B. nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Rekurse sind zulässig, weil es sich hier um keine Aufhebung und Zurückverweisung zur Verfahrensergänzung, sondern in Wahrheit um eine Abänderung des erstgerichtlichen Konkurseröffnungsbeschlusses handelt. Beide Rekurse sind aber nicht begrundet.
+Insofern im Rekurs des Gläubigers A. auf SZ. XXXI 103 verwiesen und ausgeführt wird, der Konkurs dürfe nur dann aufgehoben werden, wenn nicht bei Ablauf der Anmeldungsfrist zwei Konkursgläubiger konkurrieren, so ist diesen Ausführungen entgegenzuhalten, daß es sich im vorliegenden Fall nicht um die Aufhebung des Konkurses gemäß § 167 KO. handelt; das Rekursgericht hat vielmehr den Konkurseröffnungsbeschluß der ersten Instanz deshalb aufgehoben, weil im Zeitpunkte seiner (des Rekursgerichtes) Entscheidung der von der Gebietskrankenkasse gestellte Konkursantrag bereits zurückgezogen war, andere Antragsteller nicht vorhanden waren und es daher an einem antragstellenden Gläubiger fehlte.
+Mangels eines Neuerungsverbotes (§ 176 (1) KO.) ist aber gemäß § 172 KO. und § 406 ZPO. der entscheidende Zeitpunkt für die Tatsachenfeststellungen im Falle eines Rekurses der Zeitpunkt der Rekursentscheidung; auf diesen Zeitpunkt hin sind daher die Feststellungen vorzunehmen und ist die Sach- und Rechtslage zu beurteilen (EvBl. 1958 Nr. 85, u. a.; Bartsch - Pollak I Anm. 22 zu § 71 KO. auf S. 356).
+Dem Rekursgericht ist darin beizustimmen, daß im Zeitpunkt seiner Entscheidung infolge Rückziehung des einzigen Konkurseröffnungsantrages ein die Konkurseröffnung beantragender Gläubiger nicht vorhanden war und deshalb die Voraussetzung für die Konkurseröffnung gemäß § 71 KO. fehlte. Wenn auch Bartsch - Pollak in I Anm. 13 zu § 70 KO. (auf S. 347/348) und in Anm. 9 zu § 71 KO. (siehe auch hiezu Bartsch - Pollak II Anm. 56 S. 29) die Ansicht vertreten, daß nach der Kundmachung des Eröffnungsbeschlusses die Rückziehung des Konkurseröffnungsantrages wirkungslos sein soll, so hat der Oberste Gerichtshof doch - der Entscheidung ZBl. 1933 Nr. 134 folgend in der Entscheidung JBl. 1936 S. 456, weiters ähnlich in der Entscheidung EvBl. 1958 Nr. 85 ausgesprochen und er hält daran fest, daß im Zeitpunkt der Rekursentscheidung mindestens noch ein andrängender Gläubiger vorhanden sein muß, was aber jedenfalls nicht mehr gesagt werden kann, wenn der einzige antragstellende Gläubiger seinen Konkurseröffnungsantrag nicht mehr aufrecht erhalten will.
+In beiden Rekursen wird auch nicht behauptet, daß ein anderer Gläubiger als die Gebietskrankenkasse die Eröffnung des Konkurses beantragt habe. Deshalb, weil unter Umständen im Falle des Wegfalles des Konkurses ein Pfandrecht ob den Liegenschaften des Antragsgegners einverleibt wird und die Rekurswerber - die selbst nicht die Eröffnung des Konkurses beantragt haben - dadurch allenfalls benachteiligt werden könnten, kann noch nicht ohne Antrag eines Gläubigers das Konkursverfahren durchgeführt werden.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2018
+Geschäftszahl
+10ObS49/18f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Univ.-Prof. Dr.
+Neumayr als Vorsitzenden sowie die Hofrätinnen Dr. Fichtenau und Dr. Grohmann und die fachkundigen Laienrichter Mag. Klaus Oblasser (aus dem Kreis der Arbeitgeber) und Wolfgang Jelinek (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei R*****, vertreten durch Mag. Christoph Arnold und Mag. Fiona Arnold, Rechtsanwälte in Innsbruck, gegen die beklagte Partei Allgemeine Unfallversicherungsanstalt, 1200 Wien, Adalbert-Stifter-Straße 65, wegen Versehrtenrente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. März 2018, GZ 23 R 1/18w-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Versichert ist nach § 175 Abs 1 Z 1 ASVG der mit der Beschäftigung zusammenhängende direkte Weg zur und von der Arbeits- oder Ausbildungsstätte, der in der Absicht zurückgelegt wird, die versicherte Tätigkeit aufzunehmen bzw nach ihrer Beendigung wieder in den privaten Wohnbereich zurückzukehren.
+2. Es trifft zu, dass sich der Unfall des Klägers auf dem direkten Weg als der streckenmäßig oder zeitlich kürzesten Verbindung (RIS-Justiz RS0084380 [T1]; RS0084838 [T2]) zwischen Arbeitsstätte und Wohnhaus ereignete.
+3. Nach der allgemeinen Regel des § 175 Abs 1 ASVG ist aber ein hinreichender sachlicher Zusammenhang zwischen der realisierten Unfallgefahr und dem Zurücklegen des Weges erforderlich. Der Unfallversicherungsschutz ist daher dann nicht gegeben, wenn sich der Unfall in einer Phase des Weges ereignet hatte, der ausschließlich persönlichen, eigenwirtschaftlichen Interessen diente, sodass der geschützte Lebensbereich nur Schauplatz, nicht aber Ursache des Verletzungsereignisses war (Tarmann-Prentner in Sonntag ASVG9 § 175 Rz 30 mwN). Der Unfallversicherungsschutz auf dem Arbeitsweg vom Arbeitsweg nach Hause und umgekehrt setzt voraus, dass die Absicht nicht nur auf das Erreichen des geschützten Ziels gerichtet ist, sondern auch darauf, dort jene Tätigkeit zu verrichten, um derentwegen dieser Weg geschützt ist, wie beispielsweise Verrichtung der Arbeit oder Inanspruchnahme der Wohnfunktionen (Müller in SV-Komm [161. Lfg] § 175 Rz 164 mwN).
+4. Diese Voraussetzung ist nach den Feststellungen der Vorinstanzen nicht erfüllt. Der Kläger hatte vormittags einen seine Person betreffenden Behördentermin und wollte ursprünglich nach diesem wieder an seine Arbeitsstelle zurückkehren, um die Tätigkeit wieder aufzunehmen. Er bat daher zunächst um Freistellung für eineinhalb Stunden. Da er aber nicht dringend benötigt wurde, gab ihm die Dienstvorgesetzte für den gesamten restlichen Tag frei. Am Arbeitsplatz war ihm aufgefallen, dass er die für den Behördentermin unbedingt benötigte E-Card zu Hause vergessen hatte. Nur aus diesem Grund fuhr er nicht direkt vom Arbeitsplatz zur Behörde, sondern zunächst zu seiner Wohnung zurück, um die E-Card zu holen. Er wählte daher den Weg zur Wohnung nicht aus dem Grund, um dort – nach Beendigung der Arbeitszeit – seine Freizeit zu verbringen (die Wohnfunktion in Anspruch zu nehmen). Nur in diesem Fall wäre die Fahrt nach Hause vom Entschluss bestimmt gewesen, die Interessen des Betriebs zu fördern, wie es die Rechtsprechung für den ursächlichen Zusammenhang zwischen dem Verhalten eines Versicherten und seiner die Versicherung begründenden Beschäftigung fordert.
+Vielmehr befand sich der Kläger auf dem Weg zu einer eigenwirtschaftlichen Verrichtung (Wahrnehmung eines Behördentermins), wobei er dafür nicht den direkten Weg nahm, sondern einen Umweg über seine Wohnung. Der Umstand, dass der Kläger für den restlichen Tag „frei“ bekommen hatte, ändert nichts am Charakter des Weges, der unabhängig vom Freigeben durch die Dienstvorgesetzte eigenwirtschaftlichen Zwecken diente.
+Zusammenfassend diente die Fahrt vom Arbeitsplatz zum Wohnort ausschließlich eigenwirtschaftlichen (persönlichen) Interessen des Klägers und war im Sinn der Rechtsprechung des Obersten Gerichtshofs nicht versichert (RIS-Justiz RS0084822 [T1, T2]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:010OBS00049.18F.0523.000

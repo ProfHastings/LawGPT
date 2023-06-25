@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.2023
+Geschäftszahl
+2Ob212/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei I*, vertreten durch Dr. Christoph Reitmann LL.M., Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagten Parteien 1. A*, 2. W*, 3. D*, alle vertreten durch LANKER OBERGANTSCHNIG Rechtsanwälte GmbH in Klagenfurt am Wörthersee, wegen 92.544,34 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 21. September 2022, GZ 3 R 176/22k-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Auseinandersetzung der Revision mit den Berechnungen des Sachverständigen ist ein untauglicher Versuch, die in dritter Instanz nicht mehr überprüfbare Tatsachengrundlage der Vorinstanzen zu erschüttern. Danach betrug die Annäherungsgeschwindigkeit des bei regennasser Fahrbahn bergab radfahrenden Klägers 35 km/h.
+[2] 		2. Die Beurteilung der Vorinstanzen, der Kläger habe eine (relativ) überhöhte Geschwindigkeit als Verschulden zu verantworten, begegnet im Ergebnis schon deshalb keinen Bedenken, weil der Kläger bei Ansichtigwerden des im Kollisionszeitpunkt bereits 1,5 Sekunden im Stillstand befindlichen Unfallgegners (Traktor mit Anhänger) bremste, stürzte und mit 20 km/h gegen das gegnerische Fahrzeug prallte. Es war ihm daher nicht gelungen, die zwischen Unfallgegner und rechtem Fahrbahnrand vorhandene Durchfahrtsbreite von 1,1 bis 1,3 Meter für ein kollisionsfreies Passieren zu nützen. Deshalb ist es auch irrelevant, ob auch der Kläger die Pflicht hatte, auf halbe Sicht zu fahren.
+[3] 		3. Die Vorinstanzen lasteten dem erstbeklagten Lenker des Traktors kein Verschulden aus dem Umstand, dass er aus technischer Sicht eine um 0,2 Meter weiter rechts gelegene Fahrlinie einhalten hätte können an. Dies hält sich im Rahmen der Rechtsprechung, wonach auch in den Fällen, in denen am rechten Fahrbahnrand zu fahren ist, dem Lenker das Einhalten eines Sicherheitsabstands zugebilligt werden muss (RS0073997).
+[4] 		4. Der Umfang der gemäß § 9 Abs 2 EKHG gebotenen Sorgfalt hängt von den besonderen Umständen des Einzelfalls ab (RS0111708), weshalb die Frage, ob der Entlastungsbeweis gelungen ist, regelmäßig keine über den Einzelfall hinausgehende Bedeutung hat, es sei denn, es läge eine Fehlbeurteilung durch die zweite Instanz vor. Mag auch die den beim Betrieb tätigen Personen nach § 9 Abs 2 EKHG abverlangte Sorgfalt eine besonders strenge sein, so darf diese Sorgfaltspflicht dennoch nicht überspannt werden, soll eine vom Gesetzgeber nicht gewollte Erfolgshaftung vermieden werden (RS0058425 [T3]; RS0058411 [T3]; RS0058278 [T5]). Wenn die Vorinstanzen im Licht dieser Rechtsprechung  auf Beklagtenseite (bergauf mit 10 km/h bei aktiviertem Tempomat, bremsbereit, unverzügliche Bremsung, Stillstand innerhalb der halben Sichtstrecke) den Entlastungsbeweis nach § 9 Abs 2 EKHG als erbracht angesehen haben, ist dies nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00212.22Y.0117.000

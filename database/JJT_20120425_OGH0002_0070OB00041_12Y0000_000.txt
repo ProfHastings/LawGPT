@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2012
+Geschäftszahl
+7Ob41/12y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Schaumüller, Dr. Hoch, Dr. Kalivoda und Mag. Dr. Wurdinger als weitere Richter in der Rechtssache der klagenden Partei R***** B***** regGenmbH, *****, vertreten durch Greiter, Pegger, Kofler & Partner Rechtsanwälte in Innsbruck, gegen die beklagte Partei A***** P*****, vertreten durch Ullmann-Geiler und Partner, Rechtsanwälte in Innsbruck, wegen 488.123,72 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 24. Jänner 2012, GZ 4 R 236/11d-18, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Revision rügt zu Recht, dass das Berufungsgericht nicht berücksichtigt hat, dass der Beklagte den Abstattungskreditvertrag mit der Klägerin selbst geschlossen hat und damit Personalschuldner ist. Auf die vom Berufungsgericht zitierte Rechtsprechung, die eine analoge Anwendung der §§ 25c und 25d KSchG auf die Interzession durch bloße Pfandbestellung mangels Vorliegens einer gewollten Gesetzeslücke ablehnt (RIS-Justiz RS0116829), kommt es hier nicht an.
+Da die Revision zu Unrecht die Rechtsansicht vertritt, der Geschäftsleiter der Klägerin habe den Beklagten im Sinn von § 25c KSchG nicht ausreichend aufgeklärt, braucht auf die (gar nicht aufgegriffene) Frage, ob diese Bestimmung analog auch dann anzuwenden ist, wenn die Person, die erkennbar (materiell) nur eine Interzession eingehen will, den Kreditvertrag mit der Bank aber selbst abschließt (10 Ob 34/06g = RIS-Justiz RS0119014 [T2]; 3 Ob 111/08g = RIS-Justiz RS0124086 = JBl 2009, 253 [krit P. Bydlinski]) nicht eingegangen werden.
+Ob eine Bank dem Interzedenten ausreichende Informationen über die wirtschaftliche Lage des Schuldners nach § 25c KSchG gegeben hat, ist von der Beurteilung der Umstände des Einzelfalls abhängig (RIS-Justiz RS0112839). Je nach Art und Ausmaß der Verbindlichkeit wird der Gläubiger eine sorgfältige Bonitätsprüfung unter Verwendung der ihm zugänglichen Instrumente vorzunehmen, sich somit in jenem Umfang Kenntnis von der wirtschaftlichen Lage des Hauptschuldners zu verschaffen haben, wie dies ein sorgfältiger Kreditgeber üblicherweise tut (RIS-Justiz RS0115984).
+Die Revision geht über weite Teile nicht vom festgestellten Sachverhalt aus. Hervorzuheben ist, dass die Initiative zur Kreditaufnahme von den Familienangehörigen des Beklagten (nicht von der Klägerin) ausging. Der Geschäftsleiter der Klägerin klärte den Beklagten (ua) genau über das Risiko auf (Abhängigkeit des Unternehmens des Bruders des Beklagten von einem Vertragspartner), das in der Folge auch zum Konkurs führte (Kündigung des Vertrags). Ein Hinweis darauf, dass die Klägerin von einem unmittelbar bevorstehenden wirtschaftlichen Zusammenbruch des Unternehmens des Bruders (etwa der Kündigung des Vertrags) Kenntnis hätte haben können, ergibt sich aus den Feststellungen hingegen nicht. Der Bruder des Beklagten bediente den Kredit immerhin 14 Monate lang. Der Umstand, dass der Bruder nicht mehr kreditwürdig gewesen ist, wurde dem Beklagten auseinandergesetzt.
+Rechtliche Beurteilung
+Die Revision übergeht, dass Verträge, die trotz ordnungsgemäßer Aufklärung geschlossen werden, nicht rechtsunwirksam sind, besteht doch die Privatautonomie des Interzedenten, trotz Aufklärung und Warnung das wirtschaftliche Risiko einzugehen.
+Eine Sittenwidrigkeit der rechtsgeschäftlichen Haftungserklärung liegt schon deshalb nicht vor, weil der Beklagte nicht „ohne jedes oder jedenfalls ohne zulängliches Vermögen“ ist (vgl RIS-Justiz RS0048309, RS0048300). Es steht fest, dass der Kredit durch die auf einer Liegenschaft des Beklagten eingeräumten Pfandrechte gesichert ist, der Kredit also aus seinem Vermögen getilgt werden kann.
+Soweit der Beklagte nunmehr geltend macht, er habe den Vertragsabschluss von einer ausreichenden Besicherung abhängig gemacht, geht er wieder von den Feststellungen ab. Dem Beklagten wurde erklärt, dass seinem Bruder keine Besicherung von Krediten mehr möglich sei.
+Eine Mäßigung nach § 25d KSchG scheidet schon deshalb aus, weil kein unbilliges Missverhältnis zur Leistungsfähigkeit des Interzedenten besteht, der den Kredit aus seinem Vermögen tilgen kann.
+Die Bestellung einer Höchstbetragshypothek zur Sicherung der Forderungen aus einem erst einzuräumenden Kredit ist zulässig (RIS-Justiz RS0011289), wie auch die Revision einräumt. Die Rechtsansicht der Vorinstanzen, dass die zu sichernde Forderung ausreichend bestimmt war, um das pfandrechtliche Spezialitätsprinzip und das Akzessorietätsprinzip zu wahren, ist nicht zu beanstanden, war doch die Art des Rechtsgrundes (unmittelbar bevorstehende Kreditaufnahme) sowie der Gläubiger und der Schuldner klar.
+Es werden keine erheblichen Rechtsfragen geltend gemacht. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).

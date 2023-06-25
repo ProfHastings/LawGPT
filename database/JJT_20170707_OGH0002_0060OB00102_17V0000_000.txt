@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.07.2017
+Geschäftszahl
+6Ob102/17v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei R* GmbH *, vertreten durch Mag. Johannes Bügler, Rechtsanwalt in Wien, gegen die beklagte Partei M* O*, vertreten durch Ing. Mag. Dr. Roland Hansely, Rechtsanwalt in Wien, wegen Unterlassung (Streitwert 7.000 EUR), Widerruf (Streitwert 1.000 EUR) und Feststellung (Streitwert 720 EUR), über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Korneuburg als Berufungsgericht vom 16. Februar 2017, GZ 21 R 18/17w-26, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 833,88  EUR (darin 138,98 EUR USt) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts nicht zulässig.
+1. Das Berufungsgericht erblickte eine erhebliche Rechtsfrage in der Frage, ob der Beklagte hinsichtlich des Wahrheitsbeweises sämtliche Details zu beweisen habe. Diese Frage ist in der Rechtsprechung jedoch bereits dahin beantwortet, dass der Wahrheitsbeweis schon dann als erbracht anzusehen ist, wenn er den Inhalt der Mitteilung im Wesentlichen bestätigt (RIS-Justiz RS0079693). Es genügt der Beweis der Richtigkeit des Tatsachenkerns (RIS-Justiz RS0079693 [T2]). Eine Äußerung ist grundsätzlich als richtig anzusehen, wenn sie nur in unwesentlichen Details nicht der Wahrheit entspricht (RIS-Justiz RS0079693 [T3]); auf unwesentliche Details kommt es also nicht an (RIS-Justiz RS0079693 [T6]).
+2.1. Auch die weitere vom Berufungsgericht als erheblich bezeichnete Rechtsfrage ist durch die ständige Rechtsprechung geklärt. Demnach kommt es beim Bedeutungsinhalt einer Äußerung immer auf den Gesamtzusammenhang und den dadurch vermittelten Gesamteindruck der beanstandeten Äußerungen an; maßgeblich ist dabei das Verständnis des unbefangenen Durchschnittslesers oder Durchschnittshörers, nicht aber der subjektive Wille des Erklärenden (RIS-Justiz RS0031883 [T1] ua).
+2.2. Die Ermittlung des Bedeutungsinhalts ist im Allgemeinen eine Rechtsfrage, die von den näheren Umständen des Einzelfalls abhängt (RIS-Justiz RS0031883 [T6]). Aus diesem Grund handelt es sich dabei in der Regel um keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RIS-Justiz RS0031883 [T28]).
+3. Wenn die Vorinstanzen im vorliegenden Fall zu dem Ergebnis gelangten, dem Beklagten sei der – ihm obliegende (RIS-Justiz RS0031822 [T10]; RS0031798) – Beweis der Richtigkeit der inkriminierten Äußerungen, wonach sich aus „Unterlagen und Informationen“ der Verdacht zur Anstiftung für die vorsätzliche schwere finanzielle Schädigung von Gläubigern einer Gesellschaft ergebe, dies mit der Absicht zur Selbstbereicherung der Klägerin, nicht gelungen, so ist dies rechtlich nicht zu beanstanden. Entgegen den Revisionsausführungen handelt es sich bei diesem Vorwurf auch nicht um ein „unwesentliches Detail“. Vielmehr wiegt die Unterstellung, die Klägerin habe nicht nur anderen einen Schaden zugefügt, sondern sich auch noch dadurch selbst absichtlich bereichern wollen, besonders schwer. Im Übrigen ist die Frage, ob der Tatsachenkern, der wahr sein muss, im Einzelfall enger oder weiter zu ziehen ist, keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RIS-Justiz RS0113640).
+4. Bei Geltendmachung von Schadenersatz-ansprüchen und/oder Ansprüchen auf Widerruf obliegt der Beweis für die fehlende Vorwerfbarkeit der Verbreitung dem Beklagten (RIS-Justiz RS0031798 [T4]). Ein Verschulden des Behauptenden kann nur dann verneint werden, wenn er gute Gründe hatte, seine Behauptung als wahr anzusehen (RIS-Justiz RS0031775 [T4]). Woraus sich der Verdacht einer Bereicherung der Klägerin aus einer Schädigung der Gläubiger einer Gesellschaft ergeben sollte, hat der Beklagte jedoch nicht schlüssig dargelegt.
+5. Die weiteren Revisionsausführungen zu nach Schluss der mündlichen Verhandlung erster Instanz eingetretenen Entwicklungen verstoßen gegen das Neuerungsverbot. Zudem stehen diese in keinem ersichtlichen Zusammenhang mit dem im inkriminierten Text erhobenen Vorwurf, die Klägerin bereichere sich aus der Schädigung von Gläubigern einer Gesellschaft.
+6. Die Auffassung des Berufungsgerichts, dass die verdachtsweise Behauptung eines betrügerischen Vorgehens in einer Anzeige zur Herstellung des Tatbestands des § 1330 Abs 2 ABGB ausreicht, entspricht der Rechtsprechung (RIS-Justiz RS0032305). Inwiefern die vollständige Wiedergabe des vom Beklagten versandten E-Mails eine andere rechtliche Beurteilung ergeben hätte, ist der Revision nicht zu entnehmen.
+7. Zusammenfassend bringt der Beklagte daher keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass die Revision spruchgemäß zurückzuweisen war.
+8. Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Die klagende Partei hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E118837

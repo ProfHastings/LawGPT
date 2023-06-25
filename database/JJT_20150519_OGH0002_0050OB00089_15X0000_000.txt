@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.05.2015
+Geschäftszahl
+5Ob89/15x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hradil als Vorsitzenden sowie die Hofräte Dr. Höllwerth, Dr. Grohmann, Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache der Antragstellerin R***** eGenmbH *****, vertreten durch Mag. Katharina Dwyer, Mag. Helga Embacher und Mag. Martin Lechner, Rechtsanwälte in Kitzbühel, wegen Grundbuchseintragungen, über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts Innsbruck als Rekursgericht vom 26. März 2015, AZ 52 R 10/15z, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. § 53 Abs 1 dritter Satz GBG regelt eine speziell auf die Simultanhypothek abgestimmte Anmerkung der Rangordnung für die beabsichtigte Verpfändung. Diese besondere Anmerkung ist dadurch bedingt, dass sie für die Eintragung eines Pfandrechts im Rang der bedingten Anmerkung nur für dieselbe Forderung ausgenutzt werden kann, für die entweder im Zeitpunkt des Einlangens des Ansuchens die Eintragung eines anderen Pfandrechts bereits im Rang einer anderen (nicht bedingten) Anmerkung der beabsichtigten Verpfändung bewilligt worden ist oder gleichzeitig bewilligt werden soll. Solche bedingten Anmerkungen sind von der Eintragungsgebühr befreit (Rassi in Kodek, Grundbuchsrecht § 15 GBG Rn 23; Rassi, Grundbuchsrecht2 Rz 185; RIS-Justiz RS0107812). Nach dieser Rechtslage ist es nicht möglich, eine bedingte, für die Verbücherung einer Simultanhypothek vorbehaltene Rangordnungsanmerkung unter Verlust der Gebührenfreiheit für die Verbücherung einer Singularhypothek zu verwenden (5 Ob 250/99x = RIS-Justiz RS0107812 [T2]; 5 Ob 119/07x; Rassi in Kodek aaO Rz 24; Rassi, Grundbuchsrecht2 aaO; Mahrer in Kodek aaO § 53 GBG Rz 24).
+2. Diesen Grundsätzen läuft der hier gestellte Antrag auf Einverleibung eines Höchstbetragspfandrechts im Rang einer mit der Bedingung des § 53 Abs 1 dritter Satz GBG erwirkten Rangordnung für die beabsichtigte Verpfändung verbunden mit der gleichzeitigen Löschung dieser Bedingung zuwider, wenn die in Ansehung einer zweiten Liegenschaft erwirkte unbedingte Rangordnung nach dem Verkauf dieser Liegenschaft zuvor gelöscht, daher nicht ausgenutzt wurde und auch nicht mehr ausgenutzt werden kann.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0050OB00089.15X.0519.000

@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.07.2022
+Geschäftszahl
+3Ob120/22a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Exekutionssache der betreibenden Partei R*, vertreten durch DI Dr. Peter Benda, Rechtsanwalt in Graz, gegen die verpflichtete Partei Mag. C*, Rechtsanwalt in Klagenfurt am Wörthersee, als Insolvenzverwalter im Sanierungsverfahren über das Vermögen der I*gesellschaft mbH & Co KG, wegen Erwirkung einer vertretbaren Handlung (§ 353 EO), über den außerordentlichen Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Klagenfurt als Rekursgericht vom 24. Mai 2022, GZ 3 R 70/22m-12, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß
+§ 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 10 Abs 1 IO kann nach der Eröffnung des Insolvenzverfahrens wegen einer Forderung gegen den Schuldner an den zur Insolvenzmasse gehörigen Sachen kein richterliches Pfand- oder Befriedigungsrecht erworben werden. Gemäß § 14 Abs 1 IO sind (ua) Forderungen, die nicht auf eine Geldleistung gerichtet sind, nach ihrem Schätzwert in inländischer Währung zur Zeit der Eröffnung des Insolvenzverfahrens geltend zu machen. Der Anmeldung zum Konkurs unterliegen also auch Forderungen, die nicht in einer Geldleistung bestehen – wie etwa solche auf eine vertretbare Handlung –, aber zufolge § 14 IO in eine solche verwandelt werden können, nicht hingegen Ansprüche, die nicht in das Vermögen des Gemeinschuldners zu vollstrecken sind, wie etwa Unterlassungsansprüche (RS0064079).
+[2] 		2. Von dieser Rechtsprechung ist das Rekursgericht nicht abgewichen, indem es den vom Erstgericht erst nach Eröffnung des Sanierungsverfahrens über das Vermögen der verpflichteten Partei bewilligten Exekutionsantrag gemäß § 353 EO wegen der Exekutionssperre des § 10 IO zurückwies. Dass der Exekutionstitel auch einen Unterlassungsanspruch beinhaltet, ist ohne Relevanz, weil die Betreibende ausschließlich einen Exekutionsantrag nach § 353 EO gestellt hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00120.22A.0720.000

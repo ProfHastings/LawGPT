@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.1958
+Geschäftszahl
+3Ob85/58
+Norm
+ABGB §1313a;
+ABGB §1315;
+Forstgesetz §24;
+JN §1;
+Kopf
+SZ 31/51
+Spruch
+Zur Frage der Zulässigkeit des ordentlichen Rechtsweges für Entschädigungsklagen wegen Holzbringung durch fremden Wald.
+Der Waldbesitzer haftet für Schäden, die ein Holzschlägerungsunternehmen beim Bringen des Holzes durch fremden Wald verursacht.
+Entscheidung vom 24. März 1958, 3 Ob 85/58.
+I. Instanz: Bezirksgericht Leoben; II. Instanz: Kreisgericht Leoben.
+Text
+Nach den Klagebehauptungen habe der Beklagte im Jahre 1957 Holz durch die Waldparzellen des Klägers gebracht und dabei einen Schaden angerichtet. Der Schaden sei von der Bezirksforstinspektion L. mit dem Betrage von 3500 S festgesetzt worden.
+Der Beklagte bestritt die Passivlegitimation, da sich der Anspruch des Klägers nur gegen Max R. richten könne, welcher im Auftrag des Beklagten die Schlägerung und Bringung des Holzes durchgeführt habe. Der durch die Bringung verursachte Schaden sei jedoch wesentlich niedriger als vom Kläger angegeben.
+Das Erstgericht stellte fest, daß die Bringung des Holzes durch den Holzschlägerungsunternehmer Max R. vorgenommen worden sei. Ein diesbezügliches Vertragsverhältnis habe nur zwischen dem Genannten und dem Beklagten bestanden. Der Schadenersatzanspruch könne unter diesen Umständen weder auf § 1313a ABGB. noch auf § 1315 ABGB. gestützt werden, weil einerseits zwischen dem Kläger und dem Beklagten kein Vertragsverhältnis bestanden habe und andererseits nicht einmal behauptet worden sei, daß sich der Beklagte einer untüchtigen Person zur Durchführung der Arbeiten bedient habe. Es wies daher das auf Zahlung eines Schadensbetrages von 3500 S gerichtete Klagebegehren ab.
+Das Berufungsgericht hob das Ersturteil auf und verwies die Rechtssache zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurück. Es führte aus, daß nach § 24 Abs. 1 zweiter Satz des Forstgesetzes vom 3. Dezember 1852, RGBl Nr. 250, dem Gründeigentümer von dem Waldbesitzer für den durch dessen Veranlassung zugefügten Schaden volle Genugtuung zu leisten sei. Veranlassung im Sinne dieser Gesetzesstelle sei nach logischer und grammatikalischer Auslegung auch die Invertragnahme eines Schlägerungsunternehmers zur Schlägerung und Bringung des Holzes. Daraus ergebe sich, daß der Kläger den Beklagten belangen könne und sich nicht an Max R. halten müsse. Es sei richtig daß § 24 l. c. in seinen weiteren Bestimmungen den ordentlichen Rechtsweg nur unter gewissen Voraussetzungen für zulässig erkläre und daß die Unzulässigkeit des Rechtsweges in jeder Lage des Verfahrens von Amts wegen wahrzunehmen sei. Eine amtswegige Wahrnehmung könne jedoch nur stattfinden, wenn die sachlichen Grundlagen zur Beurteilung der Unzulässigkeit des Rechtsweges vorhanden seien. Dies sei jedoch vorliegend nicht der Fall, da weder die Einrede der Unzulässigkeit des Rechtsweges erhoben worden sei, noch Anhaltspunkte vorlägen, die Unzulässigkeit des Rechtsweges von Amts wegen wahrzunehmen. Es könne auch nicht gesagt werden, daß der Kläger schon in der Klage hätte erläutern und bescheinigen müssen, daß der ordentliche Rechtsweg für ihn offenstehe. Wenn Zweifel in dieser Richtung auftauchen sollten, so seien die sachlichen Voraussetzungen zu erheben. Sollten sich solche Zweifel nicht ergeben, werde die Höhe des geltend gemachten Schadensbetrages festzustellen sein.
+Der Oberste Gerichtshof gab dem Rekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zu einer amtswegigen Wahrnehmung der Unzulässigkeit des Rechtsweges (§§ 42 Abs. 1 JN., 240 Abs. 3 ZPO.) bieten die bisherigen Verfahrensergebnisse keine verwertbaren Anhaltspunkte. Nach § 24 des Forstgesetzes vom 3. Dezember 1852, RGBl. Nr. 25O, hat über die Notwendigkeit der Bringung des Holzes über fremde Gründe die unterste politische Behörde nach Vernehmung der Parteien und der Sachverständigen zu entscheiden und dabei auch eine vorläufige Bestimmung über die Entschädigung zu treffen. Wollen sich die Parteien mit derselben nicht begnügen, so steht ihnen von der untersten, politischen Entscheidung der Rekurs an die höheren politischen Instanzen zu (§ 77). In Absicht auf die Bestimmung streitiger Entschädigungsbeträge steht, sofern auf politischem Weg kein Übereinkommen erzielt werden könnte, den Parteien der ordentliche Rechtsweg frei. Da im vorliegenden Fall die unterste Verwaltungsbehörde (Bezirkshauptmannschaft) eine Entscheidung über die Notwendigkeit der Bringung des Holzes über fremde Gründe nicht getroffen, sondern die Bezirksforstinspektion lediglich ein Gutachten über die Höhe des Schadens erstattet hat, liegt ein Bescheid der Verwaltungsbehörde im Sinne des § 24 Abs. 2 l. c., damit aber auch der im Abs. 4 dieser Gesetzesstelle vorgesehene Fall, wonach der ordentliche Rechtsweg nur mangels Einigung im Verwaltungsweg zugelassen wird, überhaupt nicht vor. Zur Beschreitung des ordentlichen Rechtsweges war es aber auch nicht erforderlich, vorerst eine Entscheidung der Verwaltungsbehörde über die Notwendigkeit der Bringung des Holzes über fremde Gründe einzuholen, da es sich vorliegend um einen Privatrechtsanspruch handelt.
+Da nach der speziellen Schadenersatzregelung des § 24 l. c. den Waldbesitzer die Erfolgshaftung für den durch seine Veranlassung zugefügte Schaden trifft, der dem Gründeigentümer durch die Bringung von Waldprodukten über seine Gründe entsteht, kann der Kläger den Beklagten unmittelbar in Anspruch nehmen, wenngleich sich dieser zur Schlägerung und Bringung des Holzes eines Holzschlägerungsunternehmers bedient hat. Der vom Berufungsgericht dem Erstgericht erteilte Ergänzungsauftrag auf- Feststellung der Schadenshöhe entspricht daher mit der obigen Maßgabe der Sach- und Rechtslage.

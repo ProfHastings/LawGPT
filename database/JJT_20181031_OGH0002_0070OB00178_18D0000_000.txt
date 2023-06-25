@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.10.2018
+Geschäftszahl
+7Ob178/18d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei F***** T*****, vertreten durch Reiffenstuhl & Reiffenstuhl Rechtsanwaltspartnerschaft OG in Wien, gegen die beklagte Partei U***** AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 35.936,50 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Juni 2018, GZ 5 R 46/18y-30, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen den Streitteilen bestand ein Unfallversicherungsvertrag, dem die *****-Be-dingungen für die Unfallversicherung 2009 (U 700) zugrunde lagen. Diese lauten auszugsweise:
+„Sachliche Begrenzung des Versicherungsschutzes – Art 21
+[...]
+3. Haben Krankheiten oder Gebrechen, bei der durch ein Unfallereignis hervorgerufenen Gesundheitsschädigung – insbesondere solche Verletzungen, die durch krankhaft abnützungsbedingte Einflüsse verursacht oder mitverursacht worden sind – oder deren Folgen mitgewirkt, ist im Fall einer Invalidität der Prozentsatz des Invaliditätsgrades, ansonsten die Leistung entsprechend dem Anteil der Krankheit oder des Gebrechens, zu vermindern, wenn dieser Anteil mindestens 25 % beträgt. [...]“
+Rechtliche Beurteilung
+1.1 Der Kläger macht angebliche Mängel des erstgerichtlichen Verfahrens geltend, deren Vorliegen das Berufungsgericht verneint hat und die daher in der Revision nicht mit Erfolg neuerlich geltend gemacht werden können (RIS-Justiz RS0042963).
+1.2 Eine Entscheidung des Berufungsgerichts über eine Beweisrüge ist mangelfrei, wenn es sich mit dieser befasst, die Beweiswürdigung des Erstgerichts überprüft und nachvollziehbare Überlegungen anstellt und in seiner Entscheidung festhält (RIS-Justiz RS0043150). Das Berufungsverfahren bleibt nur dann mangelhaft, wenn sich das Berufungsgericht mit der Beweisrüge überhaupt nicht auseinandersetzt (RIS-Justiz RS0042993 [T1]).
+Hier hat das Berufungsgericht die in der Beweisrüge geltend gemachte pauschale Unschlüssigkeit und Unvollständigkeit des Sachverständigengutachtens aber mit
+– wenn auch knapper – Begründung verworfen.
+1.3 Die Frage, ob die eingeholten Sachverständigengutachten die von den Vorinstanzen getroffenen Feststellungen rechtfertigen, gehört in das Gebiet der unanfechtbaren Beweiswürdigung (RIS-Justiz RS0043163 [T1]).
+1.4 Der Oberste Gerichtshof, der keine Tatsacheninstanz ist, hat damit seiner Entscheidung den festgestellten Sachverhalt zugrunde zu legen.
+2. Art 21.3 U 700 sieht insofern ausdrücklich eine sachliche Begrenzung des Versicherungsschutzes vor, als eine Versicherungsleistung nur für die durch den eingetretenen Unfall hervorgerufenen Folgen zu erbringen ist, der Versicherer also nur für jene Folgen einzutreten hat, für die der Unfall allein kausal ist. Der „Vorzustand“ der versicherten Person ist folgerichtig dann zu berücksichtigen, wenn beim Versicherungsnehmer bereits vorhandene Krankheiten oder Gebrechen die Unfallfolgen beeinflussen (RIS-Justiz RS0119520). Ob der Versicherungsnehmer die Vorschäden schon vor dem Versicherungsfall als schmerzhaft oder behandlungsbedürftig wahrnahm, ist unbedeutend (vgl RIS-Justiz RS0125367). Bei der Quantifizierung des Mitwirkungsanteils ist vom konkreten Versicherungsnehmer und seiner individuellen Körpergestaltung auszugehen. Zu vergleichen ist die versicherte Person, wie sie ist (also mit vorhandenen Gebrechen und Krankheiten) und wie sie auf das Unfallereignis reagiert hat, mit ihrem Zustand ohne das konkrete Gebrechen oder die konkrete Krankheit und wie sie auf den Unfall dann reagiert hätte (7 Ob 170/18b mwN). Der Mitwirkungsanteil eines Gebrechens oder einer Krankheit an den Unfallfolgen ist eine nicht revisible Tatfrage (RIS-Justiz RS0119522).
+2.2 Nach den Feststellungen lag eine durch die Unfälle kausale Verschlechterung aufgrund post-operativer Komplikationen um 5 % des Armwerts vor. Basierend auf den Ausführungen des Sachverständigen, dass die Stürze bei einem gesunden Menschen im Alter des Klägers mit hoher Wahrscheinlichkeit keine Luxation und damit auch keine post-operative Wundinfektion verursacht hätten, stellte das Erstgericht auch für die oben genannte kausale Verschlechterung ausdrücklich und den Obersten Gerichtshof bindend die 100%ige Mitwirkung der bestehenden
+– altersunüblichen – degenerativen Veränderungen fest.
+Davon ausgehend ist die auf das Fehlen des Versicherungsschutzes gegründete Klagsabweisung durch die Vorinstanzen nicht zu beanstanden.
+3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00178.18D.1031.000

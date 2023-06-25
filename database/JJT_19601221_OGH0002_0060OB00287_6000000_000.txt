@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.1960
+Geschäftszahl
+6Ob287/60
+Norm
+ABGB §1293;
+Versicherungsvertragsgesetz 1958 §67;
+Kopf
+SZ 33/145
+Spruch
+Der Kaskoversicherte kann vom Schädiger nicht schlechthin den "Selbstbehalt" ersetzt verlangen, sondern nur den wirklichen Schaden, abzüglich des ihm vom Versicherer Ersetzten.
+Entscheidung vom 21. Dezember 1960, 6 Ob 287/60.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Kläger stellte am Unfallstag sein Fahrzeug am linken Rand der Straße schräg zur Hausmauer eines Gasthauses so ab, daß sich der vordere Teil des Fahrzeuges unter dem vorgezogenen Dach befand. In diesem Augenblick ging vom Dach des Gasthauses eine Dachlawine ab. Der Kläger wurde hiedurch verletzt und sein Fahrzeug beschädigt.
+Er begehrt mit der vorliegenden Klage von der Beklagten als Eigentümerin des Gasthauses als Schadenersatz u. a. den Ersatz eines Betrages von 300 DM (= 1860 S), der ihm auf Grund seiner Kaskoversicherung aus dem Titel des Selbstbehaltes für den an seinem Fahrzeug damals entstandenen Schaden nicht vergütet wurde.
+Das Erstgericht gab der Klage teilweise statt. Es nahm eine Schadensteilung im Verhältnis von 1:1 an und sprach daher dem Kläger neben anderen Beträgen für die infolge des Selbstbehaltes selbst zu tragende Beschädigung des PKWs. von 300 DM = 1860 S die Hälfte hievon, d. s. 930 S, zu.
+Das Berufungsgericht gab der Berufung des Klägers teilweise Folge, indem es auf seiner Seite nur ein Mitverschulden in der Höhe von 10% annahm. Es sprach daher dem Kläger unter Annahme eines nur 10%igen Mitverschuldens für Selbstbehalt bei der Versicherung von 1860 S 90% hievon, d. s. 1674 S, zu.
+Die beklagte Partei bekämpft das Urteil des Berufungsgerichtes insofern, als es ihr Verschulden mit 90% und das des Klägers nur mit 10% angenommen habe und als es dem Kläger den Selbstbehalt von 800 DM im Rahmen der Verschuldensaufteilung mit 90% zugesprochen habe. Beantragt wird entsprechende Abänderung des angefochtenen Urteils unter Annahme eines 75%igen Mitverschuldens des Klägers.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei teilweise Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Strittig ist nur die Höhe des Mitverschuldensanteiles des Klägers und der Zuspruch des Betrages von 300 DM, d. s. - zu 6 S 20 g umgerechnet - 1860 S, für den Selbstbehalt bei der Kaskoversicherung.
+Bei der gegebenen Sachlage erscheint dem Revisionsgericht eine Verschuldensaufteilung im Verhältnis von einem Drittel zu zwei Dritteln zum Nachteil der Beklagten im Sinne des § 1304 ABGB. angemessen.
+Was den Zuspruch von 300 DM - 1860 S als Ersatz des vom Kläger wegen des Selbstbehaltes bei der Kaskoversicherung getragenen Schadensteiles anlangt, so ist der Revision darin beizustimmen, daß Grundlage des Schadenersatzanspruches des Klägers nur der tatsächlich erlittene Schaden sein kann. Was der Kläger vom Versicherer erhalten hat, muß er sich mit Rücksicht auf § 67 Abs. 1 VersVG. 1958 anrechnen lassen (s. hiezu auch Wolff in Klang 2. Aufl. VI 6). Der Zweck dieser gesetzlichen Bestimmung ist es, zu verhindern, daß der Versicherungsnehmer mehr als seinen tatsächlich erlittenen Schaden erhält, somit eine Überentschädigung des Versicherungsnehmers auszuschließen (s. hiezu Prölß, VersVG., 11. Aufl. S. 238 Anm. 6 zu § 67; Albert Ehrenzweig, Deutsches (österreichisches) Versicherungsvertragsrecht, S. 287). Daraus ist abzuleiten, daß der Versicherungsnehmer jedenfalls nur den tatsächlich erlittenen Schaden ersetzt verlangen kann. Wenn dieser tatsächlich erlittene Schaden durch den Versicherer voll gedeckt wurde, kann der Versicherungsnehmer vom Schädiger nichts begehren, wenn der Schaden durch den Versicherer teilweise gedeckt wurde, nur mehr den Differenzbetrag. Ob und welcher Betrag zwischen dem Versicherer und dem Versicherungsnehmer als Selbstbehalt vereinbart wurde, ist hiebei ebenso unwesentlich wie die Höhe des Betrages, mit dem im Verhältnis zwischen Versicherer und Versicherungsnehmer der Schäden festgelegt wurde, schließlich auch, welchen Betrag der Versicherer allenfalls im Regreßweg vom Schädiger verlangen kann. Entscheidend ist nur, daß der Versicherungsnehmer sich anrechnen lassen muß, was er vom Versicherer tatsächlich ersetzt erhalten hat, und daß er nicht mehr erhalten darf als den wirklich eingetretenen Schaden.
+Da im vorliegenden Fall dieser Schaden 13.786 S ausmachte, der Kläger aber vom Versicherer einen Betrag von 2200.50 DM, das sind umgerechnet zum Kurs von 6 S 20 g für 1 DM 13.643 S, ausgezahlt erhielt, beträgt der Schaden, den der Kläger tatsächlich erlitten hat, nur 143 S.
+Auf der ausgeführten Grundlage waren dem Kläger somit zwei Drittel des im Revisionsverfahren der Höhe nach nicht mehr strittigen Schmerzengeldes und ferner für den Schaden am PKW. zwei Drittel von 143 S, d. s. 95 S 33 g, zuzusprechen, dagegen das Mehrbegehren abzuweisen.

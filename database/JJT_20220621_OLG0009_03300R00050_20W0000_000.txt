@@ -1,0 +1,48 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+21.06.2022
+Geschäftszahl
+33R50/20w
+Kopf
+Das Oberlandesgericht Wien hat als Berufungsgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie den Richter Dr. Schober und den Kommerzialrat Ing. Klein in der Rechtssache der klagenden Partei AUSTRO-MECHANA Gesellschaft zur Wahrnehmung mechanisch-musikalischer Urheberrechte Gesellschaft m.b.H., 1030 Wien, Baumannstraße 10, vertreten durch Dr. Michel Walter, Rechtsanwalt in Wien, gegen die beklagte Partei S*****, vertreten durch die DORDA Rechtsanwälte GmbH in Wien, wegen Rechnungslegung (EUR 43.200) und Zahlung (EUR 5.000) über die Berufung der klagenden Partei gegen das Urteil des Handelsgerichts Wien vom 25. Februar 2020, 43 Cg 29/19s, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Berufung wird Folge gegeben. Das angefochtene Urteil wird aufgehoben. Die Rechtssache wird zur Verfahrensergänzung und neuerlichen Entscheidung an das Erstgericht zurückverwiesen.
+Die Kosten des Berufungsverfahrens sind weitere Verfahrenskosten.
+Begründung
+Text
+1. Die Klägerin ist eine Verwertungsgesellschaft, die Werknutzungsrechte und Vergütungsansprüche an Werken der Musik mit und ohne Text im eigenen Namen, jedoch im Interesse und für Rechnung ihrer Bezugsberechtigten treuhändig wahrnimmt.
+Für die weiteren Verwertungsgesellschaften
+-	Literar–Mechana Wahrnehmungsgesellschaft für Urheberrechte, Gesellschaft m.b.H.;
+-	VAM Verwertungsgesellschaft für audiovisuelle Medien GmbH;
+-	VdFS – Verwertungsgesellschaft der Filmschaffenden registrierte Genossenschaft mit beschränkter Haftung; und
+-	Verwertungsgesellschaft Rundfunk GmbH
+-	gelten analog entsprechend dieselben Aufgaben.
+Zum Wahrnehmungsbereich aller Verwertungsgesellschaften zählen insbesondere die gesetzlichen Vergütungsansprüche gemäß § 42b Abs 1 UrhG („Speichermedienvergütung“).
+2. Die Klägerin begehrte die Rechnungslegung und in weiterer Folge die Zahlung einer Speichermedienvergütung und brachte – kurz zusammengefasst (§ 500a ZPO) – vor, dass die oben genannten Verwertungsgesellschaften sie mit der Verfolgung auch der ihnen zustehenden Vergütungsansprüche nach § 42b Abs 1 UrhG betraut und ihr diese Ansprüche abgetreten hätten.
+Mit der UrhGNov 1980, BGBl 1980/321, habe der Gesetzgeber einen Anspruch auf eine angemessene Vergütung gegen alle vorgesehen, die bestimmte Speichermedien für die Zwecke der Vervielfältigung und Speicherung im Inland gewerbsmäßig in den Verkehr bringen. Diese Regelung sei seither mehrmals an die geänderten Verhältnisse und an die europarechtlichen Vorgaben angepasst worden, zuletzt mit der Urh-Nov 2015, BGBl I 2015/99, mit welcher vor allem die Computerfestplatten als „Speichermedien jeder Art“ in den Regelungsbereich einbezogen worden seien.
+In jüngerer Zeit sei die Nutzung von mächtigen Festplatten („cloud“) für Zwecke der Vervielfältigung zum (eigenen und) privaten Gebrauch auf den Markt gekommen, die von Dritten für Geschäfts- und Privatkunden betrieben würden.
+Einen solchen Dienst betreibe auch die Beklagte unter der Bezeichnung „HiDrive“. Der cloud-Speicher sei laut Beschreibung des Anbieters „ein virtueller Speicher, der so schnell arbeite und so unkompliziert zu bedienen sei wie eine (externe) Festplatte“. Die Beklagte werbe damit, dass der Speicherplatz „genug Platz dafür biete, Fotos, Musik und Filme zentral an einem Ort abzulegen“.
+Die in § 42b Abs 1 UrhG gewählte Formulierung sei schon nach ihrem Wortlaut bewusst allgemein gehalten, sodass die Speichermedienvergütung auch dann greife, wenn Speichermedien jeder Art im Inland – auf welche Art und in welcher Form auch immer – gewerbsmäßig „in Verkehr kommen“, worunter auch das Bereithalten von Speicherplatz in der „cloud“ zu subsumieren sei.
+Die Umschreibung „in Verkehr kommen“ stelle nicht auf die physische Verbreitung ab, sondern lasse bewusst Raum für die Einbeziehung aller Vorgänge, die Nutzern im Ergebnis im Inland Speicherplatz zur Vervielfältigung zum (eigenen oder) privaten Gebrauch zur Verfügung stellten. Zusätzlich stelle § 42b Abs 3 UrhG auch klar, dass es nicht darauf ankomme, ob das Inverkehrbringen vom Inland oder vom Ausland ausgehe.
+Der OGH habe zur Speichermedienvergütung ausgesprochen, dass auch der Wortlaut einer gesetzlichen Bestimmung einer richtlinienkonformen Auslegung nicht zwingend entgegenstehe. Auch der EuGH fordere eine richtlinienkonforme Interpretation.
+3. Die Beklagte bestritt das Klagebegehren, und wandte – kurz zusammengefasst (§ 500a ZPO) – ein, dass sich aus der geltenden Fassung des Urheberrechtsgesetzes eine Vergütung für cloud-Services nicht ergebe. Vielmehr habe der Gesetzgeber diese Möglichkeit in Kenntnis der technischen Möglichkeiten bewusst nicht umgesetzt.
+Cloud-Dienstleistungen und physische Speichermedien könnten nicht miteinander verglichen werden. Eine Auslegung, die auch cloud-Dienste umfasse, sei nicht möglich: Es würden keine Speichermedien in Verkehr gebracht, sondern es werde nur Speicherplatz zur Verfügung gestellt. Die Beklagte verkaufe oder vermiete keine physischen Speichermedien nach Österreich. Sie biete nur Online-Speicherplatz auf ihren in Deutschland gehosteten Servern an.
+Die Beklagte habe für ihre Server in Deutschland bereits indirekt (weil vom Hersteller/Importeur eingepreist) die Urheberrechtsabgabe geleistet, und auch die (österreichischen) Nutzer hätten für die Geräte, mit denen Content überhaupt erst in die cloud geladen werden könne, bereits eine Urheberrechtsabgabe gezahlt. Eine zusätzliche Speichermedienvergütung für cloud-Speicher würde zu einer doppelten oder gar dreifachen Abgabenpflicht führen.
+4. Das Erstgericht wies die Klagebegehren ab und erwog rechtlich, dass Urhebern und Leistungsschutzberechtigten (den „Rechteinhabern“) ein Anspruch auf eine angemessene Vergütung zustehe, wenn Speichermedien (von einer im In- oder im Ausland gelegenen Stelle) im Inland gewerbsmäßig in Verkehr kämen, wenn von einem Schutzgegenstand seiner Art nach zu erwarten sei, dass er durch Festhalten auf einem Speichermedium zum eigenen oder privaten Gebrauch (in einer nach § 42 Abs 2 bis 7 UrhG erlaubten Weise) vervielfältigt werde, und zwar in Bezug auf Speichermedien jeder Art, die für solche Vervielfältigungen geeignet seien.
+Der OGH gehe seit der Entscheidung 4 Ob 138/13t davon aus, dass auch Computer-Festplatten vergütungspflichtig seien. Dies habe auch der EuGH in C-463/12, Copydan, für Speicherchips und Speicherkarten von Mobiltelefonen klargestellt. Mit der Urh-Nov 2015 sei dies schließlich auch im Text des § 42 Abs 1 UrhG nachvollzogen worden, in dem nun ausdrücklich von „Speichermedien jeder Art“ die Rede sei, was auch – interne und externe – Computerfestplatten einschließe.
+Cloud-Services existierten in den unterschiedlichsten Ausgestaltungsformen. Der Kern der Dienstleistung sei die Zusicherung, dass der Nutzer über eine bestimmte Speicherkapazität verfüge, ohne dass er einen Anspruch darauf habe, dass die Inhalte auf einem bestimmten Server oder auf bestimmten Servern gespeichert würden, sondern er sei darauf beschränkt, die Speicherkapazität „irgendwo in der cloud“ des Anbieters abrufen zu können.
+Die Beklagte überlasse somit ihren Kunden keine Speichermedien, sondern stelle – als Dienstleistung – Speicherkapazität online zur Verfügung.
+In der Begutachtung des Entwurfs der Urh-Nov 2015 sei zwar die Berücksichtigung der cloud-Speicherung ausdrücklich und mit Formulierungsvorschlägen gefordert worden, doch habe der Gesetzgeber seine Position zu diesem Thema durch die bewusste Nichtaufnahme einer derartigen Regelung deutlich gemacht. Es liege daher keine planwidrige Gesetzeslücke vor; eine Auslegung contra legem sei unzulässig.
+5. Dagegen richtet sich die Berufung der Klägerin, die unrichtige rechtliche Beurteilung geltend macht und beantragt, die Entscheidung zu ändern und dem Klagebegehren stattzugeben, in eventu die Entscheidung aufzuheben.
+Die Beklagte beantragt, der Berufung nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Berufung ist im Sinne des Aufhebungsantrags berechtigt.
+6. Nach der Entscheidung des EuGH vom 24.3.2022, C-433/20, mit der das Vorabentscheidungsersuchen des Berufungsgerichts vom 7.9.2020 beantwortet wurde, lässt sich die zentrale Begründung des Erstgerichts für die Klagsabweisung nicht mehr aufrechterhalten, wonach die cloud kein Speichermedium im Sinne des § 42 Abs 1 UrhG sei. Der EuGH hat klargestellt, dass auch die Server, derer sich die Beklagte bedient, um Daten zu speichern, „beliebige Träger“ nach Art 5 Abs 2 lit b InfoRL sind, deren Verwendung einen Anspruch auf eine angemessene Vergütung (Speichermedienvergütung) nach § 42b Abs 1 UrhG schafft.
+Der Standpunkt des Erstgerichts, dies treffe auf die cloud nicht zu, vermag die Abweisung des Klagebegehrens daher nicht zu tragen.
+7. Da sich die angefochtene Entscheidung mit den weiteren Argumenten der Klägerin nicht auseinandersetzt und auch keine Feststellungen enthält, die für die rechtliche Beurteilung im Sinne der Antwort des EuGH auf die zweite Frage des Berufungsgerichts bedeutsam wären, ist die Entscheidung aufzuheben, weil erhebliche Tatsachen in erster Instanz gar nicht erörtert wurden (§ 496 Abs 1 Z 3 ZPO).
+Der Kostenvorbehalt beruht auf § 52 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OLG0009:2022:03300R00050.20W.0621.000

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.05.1955
+Geschäftszahl
+4Ob53/55
+Norm
+Arbeitsgerichtsgesetz §1;
+Arbeitsgerichtsgesetz §2;
+KO §111;
+KO §113;
+Kopf
+SZ 28/125
+Spruch
+Zuständigkeit des Arbeitsgerichtes zur Feststellung des Ranges einer vor Konkurseröffnung vor dem Arbeitsgericht geltend gemachten Forderung.
+Entscheidung vom 10. Mai 1955, 4 Ob 53/55.
+I. Instanz: Arbeitsgericht Krems a. d. Donau; II. Instanz:
+Kreisgericht Krems a. d. Donau.
+Text
+Das Begehren der am 4. November 1953 eingebrachten Klage war auf Verurteilung des Beklagten Carl W. zur Zahlung von 5913 S 34 g s. A. gerichtet. Das Verfahren wurde am 9. Juni 1954 gemäß § 7 KO. unterbrochen und am 19. Jänner 1955 gegen den Masseverwalter fortgesetzt. Der Kläger begehrt nun den Ausspruch, daß seine Forderung mit dem Betrag von 9600 S in der ersten Klasse und mit dem Betrage von 12.728 S 04 g in der dritten Klasse der Konkursgläubiger zu Recht bestehe. Der Masseverwalter wendete ein, das Arbeitsgericht sei gemäß § 111 KO. unzuständig.
+Das Gericht erster Instanz gab der Einrede nicht Folge und sprach in den Gründen aus, daß eine Endentscheidung nur über den Rechtsbestand der Forderung, nicht aber über die ihr zukommende Rangordnung gefällt werden könne.
+Infolge Rekurses des Masseverwalters wies das Rekursgericht das Klagebegehren auf Feststellung, daß der Teilforderung von 9600 S der Rang in der erster Klasse und der Teilforderung von 12.728 S 04 g der Rang in der dritten Klasse der Konkursgläubiger zukomme, zurück. Im übrigen gab es dem Rekurse keine Folge. Es führte unter Hinweis auf den Kommentar von Bartsch - Pollak aus, daß in einem gemäß § 113 KO fortgesetzten Verfahren nur über den Rechtsbestand der Forderung nicht aber über deren Rang entschieden werden könne, da nach § 111 KO. zu dieser Entscheidung ausschließlich das Konkursgericht zuständig sei.
+Der Kläger hat im Revisionsrekurs die Zurückweisung der auf Feststellung des Ranges gerichteten Klage bekämpft.
+Der Oberste Gerichtshof gab dem Revisionsrekurs Folge und verwarf die Einrede der Unzuständigkeit.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Beschlüsse der Untergerichte stimmen zwar in der Begründung insofern überein, als beide davon ausgehen, daß nur das Konkursgericht zur Entscheidung über den Rang der Forderung zuständig sei. Dennoch liegt keine bestätigende Entscheidung vor, da das Erstgericht die Unzuständigkeitseinrede zur Gänze verworfen und bezüglich des Begehrens auf Feststellung des Ranges nur eine programmatische Erklärung abgegeben hat. Der Revisionsrekurs ist daher zulässig.
+Er ist auch begrundet, denn § 111 KO. steht einer Entscheidung im fortgesetzten Verfahren über den Rang der Forderung nicht im Wege. § 111 KO. bestimmt zwar, daß zur Verhandlung und Entscheidung von Rechtsstreitigkeiten über die Richtigkeit und die Rangordnung von Konkursforderungen ausschließlich das Konkursgericht zuständig ist. Für bereits anhängige Prozesse trifft aber § 113 KO. eine Sonderregelung, der zufolge für diese Verfahren § 110 und 112 KO. gelten. Daß auch § 111 KO. gelte, sieht § 113 KO. nicht vor. Gälte § 111 KO. dennoch, wäre § 113 Abs. 2 KO. überhaupt sinnlos. Dazu kommt, daß der auf anhängige Prozesse anzuwendende § 110 KO. Klagen auf Feststellung der Richtigkeit und der Rangordnung behandelt. Zwischen diesen beiden Begehren wird in den angeführten Bestimmungen kein Unterschied gemacht. Gerade weil die Zuständigkeitsvorschrift des § 111 KO. für fortgesetzte Prozesse nicht gilt, sieht § 113 KO. Abs. 2 KO. die Möglichkeit vor, daß das Konkursgericht den Prozeß an sich ziehen kann.
+Die im Gesetze nicht begrundete Auslegung des Berufungsgerichtes wäre auch deshalb unbefriedigend, da sie grundsätzlich zwei bei verschiedenen Gerichten zu führende Prozesse nötig machte.
+Der Hinweis auf § 173 Abs. 2 KO. geht ins Leere, denn im vorliegenden Falle ist eine Gerichtsstandvereinbarung nicht getroffen worden. Der Oberste Gerichtshof vermag sich daher der im Kommentar Bartsch - Pollak vertretenen Auslegung nicht anzuschließen und hält seine bereits in den Entscheidungen SZ. XXIV 90 und 4 Ob 178/53 zum Ausdrucke gebrachte Rechtsansicht aufrecht. Aus diesen Gründen war dem Revisionsrekurse Folge zu geben.

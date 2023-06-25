@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.07.1948
+Geschäftszahl
+1Ob228/48
+Norm
+ABGB §1095;
+ABGB §1115;
+ABGB §1121;
+3. Teilnovelle zum allgemeinen bürgerlichen Gesetzbuch §147;
+EO §350;
+Grundbuchsgesetz §12;
+Grundbuchsgesetz §29;
+Mietengesetz §23;
+Kopf
+SZ 21/116
+Spruch
+§§ 1095, 1115 ABGB., § 29 GBG. Löschung des grundbücherlich einverleibten Bestandrechtes nach Ablauf der vereinbarten Bestandzeit trotz stillschweigender Erneuerung des Vertrages. Bei Erneuerung des Vertrages nach Ablauf der Bestandzeit kann das Bestandrecht nur in laufender Rangordnung einverleibt werden.
+Entscheidung vom 14. Juli 1948, 1 Ob 228/48.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Das Bezirksgericht für ZRS. Graz hat mit dem Urteil vom 23. Oktober 1947 das Klagebegehren, die beklagten Parteien seien schuldig, das im Hause G.-W., Hstr. 12, befindliche Geschäftslokal zu räumen und einzuwilligen, daß auf Grund dieses Urteils in der Grundbuchseinlage EZ. 71 der KG. W. die Einverleibung der Löschung des Mietrechtes zugunsten der Beklagten vollzogen werden könne und daß diese die Kosten der grundbücherlichen Löschung zu bezahlen haben, abgewiesen. Zufolge Berufung der klagenden Parteien wurde dieses Urteil vom Landesgericht für ZRS. Graz als Berufungsgericht mit dem Urteil vom 26. Februar 1948 bezüglich der Abweisung des Räumungsbegehrens bestätigt, im übrigen aber dahin abgeändert, daß die Beklagten zur ungeteilten Hand schuldig erkannt wurden einzuwilligen, daß auf Grund dieses Urteils in EZ. 71 KG. W. die Einverleibung der Löschung der Mietrechte laut § 1 des Vertrages vom 13. Dezember 1941 vollzogen werden könne.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+Die Revision unterstellt, der verbücherte Bestandvertrag dauere gemäß der zwingenden Vorschrift des § 23 MietG. über den 1. Oktober 1946 hinaus an, sei daher noch in allen seinen Bedingungen wirksam und gelte als auf unbestimmte Zeit verlängert; das Rechtsverhältnis bestehe daher gegenwärtig aufrecht und würde die Löschung im Grundbuche einen Zustand feststellen, der der Wirklichkeit, also dem Fortbestande der vertraglichen Gebundenheit widersprechen würde.
+Die Revision ist nicht begrundet.
+Verfehlt ist zunächst die Ansicht der Revision, daß die Eintragung eines Bestandvertrages im Grundbuche ohne Angabe der Vertragsdauer zu geschehen habe. Übrigend ist unbestritten, daß in E. Z. 71 KG. W. der Mietvertrag vom 13. September 1941 mit vertraglicher Dauer vom 1. Oktober 1941 bis 1. September 1946 bücherlich eingetragen ist. Die Dauer des Bestandes ist eine wesentliche Bestimmung dieses Rechtes und ist daher in die Eintragung aufzunehmen; dies ergibt sich aus der Bestimmung des § 147 der 3. Teilnovelle (§ 1121 ABGB.), wonach das Bestandrecht bei einer Zwangsversteigerung wie eine Dienstbarkeit zu behandeln ist, so daß gemäß § 12 GBG. ihr Inhalt und Umfang möglichst bestimmt anzugeben ist. Dies dient dem Zwecke, daß der Wert des Rechtes und die allenfalls an Stelle des Rechtes tretende Entschädigungssumme richtig ermittelt werden können.
+Mit Ablauf des Zeitraumes, auf den der verbücherte Mietvertrag lautet, ist aber der durch die Intabulation seinerzeit erworbene Sicherstellungszweck, wie das Berufungsgericht zutreffend bemerkt, bedeutunglos geworden, denn die Verbücherung geht entgegen den Ausführungen der Revision über die Zeit, die im Mietvertrag bestimmt ist, nicht hinaus. Wird der Bestandvertrag nach Ablauf der Bestandzeit stilschweigend oder ausdrücklich erneuert, kommt ihm nur dann dingliche Wirkung zu, wenn auch dieser neue Vertrag verbüchert wird, wobei dieser gar nicht in der Rangordnung des früheren verbüchert werden könnte (§ 29 GBG.). Dies ist vorliegendenfalls nicht geschehen. Die Einverleibung des Bestandrechtes auf Grund des durch Zeitablauf erloschenen Bestandvertrages haftet somit indebite, das Begehren der klagenden Partei auf Übergabe der Löschungserklärung ist daher gerechtfertigt (Entscheidung vom 5. April 1922, Ob 1 136/22). Nach Ablauf der bestimmten Bestandzeit kann die Löschung des eingetragenen Bestandrechtes trotz stillschweigender Erneuerung des Bestandvertrages erfolgen. Sie erfolgt entweder auf Grund einer Löschungserklärung oder, wenn eine solche nicht erteilt wird, im Exekutionswege auf Grund eines Urteiles im Sinne des § 350 EO.
+Der Revision war daher der Erfolg zu versagen.

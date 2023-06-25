@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.05.2014
+Geschäftszahl
+9Ob2/14f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hopf als Vorsitzenden, die Hofräte des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras und Mag. Ziegelbauer, die Hofrätin des Obersten Gerichtshofs Dr. Dehn sowie den Hofrat des Obersten Gerichtshofs Dr. Hargassner als weitere Richter in der Rechtssache der klagenden Partei G***** Z*****, vertreten durch Mag. Alexander Kodolitsch, Rechtsanwalt in Graz, gegen die beklagte Partei Dr. P***** C*****, vertreten durch Dr. Klaus Kollmann, Dr. Günter Folk ua, Rechtsanwälte in Graz, wegen 97.500 EUR sA (Revisionsinteresse: 57.500 EUR sA), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 28. November 2013, GZ 3 R 192/13z-138, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Zufolge der Vorentscheidungen (9 Ob 30/07p, 9 Ob 16/12m) haftet der beklagte Notar für die Hälfte des Schadens für Fehler, die er im Juni 2002 als Errichter eines Liegenschaftskaufvertrags zu verantworten hat, weil er den Kläger und seine damalige Ehefrau als Verkäufer nicht ausreichend über die Sicherstellung des Kaufpreises belehrt hatte.
+Rechtliche Beurteilung
+Mit der vorliegenden Revision richtet sich der Beklagte gegen die Höhe des vom Berufungsgericht errechneten Schadens. Darin zeigt er aber keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO auf:
+1. Das Berufungsgericht hat die von Lehre und Rechtsprechung entwickelten Grundsätze der Schadensberechnung zutreffend dargestellt, sodass darauf verwiesen werden kann (§ 510 Abs 3 ZPO). Hervorzuheben ist davon, dass der Schädiger den Geschädigten grundsätzlich so zu stellen hat, wie er ohne schuldhaftes Verhalten gestellt worden wäre. Der Schaden ist durch eine Differenzrechnung zu ermitteln. Das zu leistende Interesse liegt in der Differenz zwischen der Vermögenslage des Geschädigten, wie sie sich im Beurteilungszeitpunkt ohne schädigendes Ereignis darstellen würde, und dem nach dem schädigenden Ereignis nun tatsächlich vorhandenen Vermögensstand (s RIS-Justiz RS0030153).
+Der Beklagte bringt dazu vor, dass die Differenz zwischen dem Verkehrswert der Liegenschaft und dem erzielbaren Verkaufspreis von 320.000 EUR als entgangener Gewinn zu qualifizieren sei, den er mangels grobem Verschulden nicht zu ersetzen habe. Beim Verlust einer Erwerbschance liegt positiver Schaden - und nicht entgangener Gewinn - aber bereits dann vor, wenn deren Realisierung nach den typischen Marktverhältnissen praktisch gewiss gewesen, der Gewinn „im Verkehr“ also schon als sicher angesehen worden wäre (RIS-Justiz RS0111898 [T1, T2]). Diesen Beweis hat der Kläger auch erbracht, weil feststeht, dass der Kläger und seine Frau spätestens im August 2003 die Gelegenheit genutzt hätten, die Liegenschaft an die spätere Erwerberin zum Preis von 320.000 EUR zu verkaufen. Anhaltspunkte dafür, dass die Erwerberin sie nur vom Käufer, nicht aber auch vom Kläger und seiner Frau um diesen Preis gekauft hätte, liegen nicht vor, spricht doch der Umstand, dass sie auch angrenzende Grundstücke kaufte, dafür, dass sie auf jeden Fall am Erwerb der Liegenschaft interessiert war. Auf die Erwägungen des Beklagten zum Grad des Verschuldens kommt es danach nicht weiter an.
+2. Zu seinem weiteren Vorbringen, der Kläger werde bereichert, weil die Veräußerung innerhalb der Spekulationsfrist stattgefunden habe und der Gewinn der Einkommensteuer zu unterwerfen gewesen wäre, liegen keine Feststellungen zu den dafür maßgeblichen Daten (Differenz zwischen Anschaffungskosten und Veräußerungserlös, vgl § 30 EStG in der 2003 geltenden Fassung) vor. Ihr Fehlen wurde in der Revision auch nicht konkret moniert.
+3. Soweit der Beklagte nun auch den von den Vorinstanzen angenommenen Beginn des Zinsenlaufs bekämpft, übersieht er, dass Voraussetzung für den Zuspruch von Verzugszinsen die Fälligkeit der Schuld ist. Bei einer Schadenersatzforderung tritt sie ein, wenn der Schaden feststellbar und zumindest vom Beschädigten zahlenmäßig bestimmt worden ist (RIS-Justiz RS0023392). Feststellungen dafür, dass dies zum vom Beklagten vorgeschlagenen Zeitpunkt (potenzielle Veräußerung der Liegenschaft im August 2003) der Fall gewesen wäre, liegen allerdings nicht vor, zumal er selbst in seiner Revision davon ausgeht, dass der Schaden jedenfalls im Jahr 2002 eingetreten ist.
+Da die Revision damit insgesamt keine erhebliche Rechtsfrage von der Qualität des § 502 Abs 1 ZPO aufweist, ist sie zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0090OB00002.14F.0527.000

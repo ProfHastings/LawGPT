@@ -1,0 +1,36 @@
+Gericht
+OLG Innsbruck
+Entscheidungsdatum
+03.03.1998
+Geschäftszahl
+6Bs27/98
+Norm
+TKG §89 Abs1;
+TKG §89 Abs 2;
+Kopf
+Beschluß
+Das Oberlandesgericht Innsbruck hat am 3.3.1998 durch seinen 6. Senat in der Strafsache gegen Unbekannte Täter (zum Nachteil des Ayhan K*****) wegen §§ 15, 144, 145 Abs 1 Z 1 StGB über die Beschwerde der Staatsanwaltschaft Innsbruck gegen den Beschluß des Landesgerichtes Innsbruck vom 12.1.1998, GZl 30 Vr 3667/96-15, in nichtöffentlicher Sitzung beschlossen:
+Spruch
+Der Beschwerde wird  F o l g e  gegeben, der angefochtene Beschluß aufgehoben und die Kosten der Betreiberin P***** für die Mitwirkung bei der Rufdatenrückerfassung (betrifft Rechnung Nr. 08-97-0112) mit S 2.264,40 (hierin S 377,40 Umsatzsteuer) bestimmt sowie das Mehrbegehren von S 15.471,-- abgewiesen.
+Text
+Begründung:
+Mit dem in der Folge von der Ratskammer des Landesgerichtes Innsbruck genehmigten Beschluß des Untersuchungsrichters vom 5.12.1996 wurde die Überwachung des Fernmeldeverkehrs und die Telefondatenrückerfassung zur Fernsprechnummer 05223/42490 angeordnet. Nachdem die P***** ursprünglich die Erbringung der Leistung dem im § 89 Abs 1 TKG enthaltenen Gesetzesauftrag zuwider von einer vorausgehenden Kostenanerkennung abhängig gemacht hatte, erbrachte sie die Leistung am 26.9.1997 und legte hierüber am 22.12.1997 die Rechnung (ON 14) wie folgt:
+1. Passivauswertung (CPU-Zeit), 22,5 Minuten, Preis
+je Stunde S 34.380,--       S  12.892,50
+2. Personalaufwand (ORG) 90 Minuten, Preis pro Stunde
+S 1.258,--                  S   1.887,--
+Zwischensumme                   S  14.779,50
+20 % Mehrwertsteuer             S   2.955,90
+Gesamtsumme                     S  17.735,40.
+Der Untersuchungsrichter erließ mit diesem Betrag am 12.1.1998 die Auszahlungsanordnung und stützte sich in der Begründung auf die gelegte Rechnung.
+Gegen diesen Beschluß richtet sich die Beschwerde des öffentlichen Anklägers, in der zutreffend ausgeführt wird, daß dieser Kostenanspruch nach dem seit 1.8.1997 wirksamen Telekommunikationsgesetz (TKG) zu beurteilen sei, wonach aber die Betreiberin lediglich Anspruch auf angemessene Kosten habe und daher zu prüfen sei, inwieweit der Anspruch vom Gesetz her gedeckt und hinsichtlich der Angemessenheit nach den Kalkulationsgrundlagen begründbar ist.
+Gemäß § 114 Abs 2 StPO hat das Rechtsmittelgericht die Betreiberin zur Definition der Rechnungspositionen und Offenlegung der Kalkulation eingeladen. Daraufhin hat die P***** mit Schreiben vom 20.2.1998 ausgeführt, daß sich die CPU-Kosten (Computer-Processor-Unit) aus Kostenkomponenten für Gebäude, Betriebspersonal, Abschreibungen, Wartung und Lizenzen errechnen, da die Infrastruktur bzw. Räumlichkeiten für die Rechenanlagen bereitgestellt werden, sowie daß sich die Personalkosten (Stundensatz) unter Einbeziehung des Bruttogehaltes, der Soziallasten und sonstiger Lohnnebenkosten sowie eines Gemeinkostenzuschlages errechnen.
+Die Beschwerde der Staatsanwaltschaft ist begründet.
+Rechtliche Beurteilung
+Gemäß § 89 Abs 1 TKG ist der Betreiber verpflichtet, alle Einrichtungen bereitzustellen, die zur Überwachung des Fernmeldeverkehrs nach den Bestimmungen der StPO erforderlich sind. Diese Verpflichtung begründet keinen Anspruch auf Kostenersatz. Nach Abs 2 leg. cit. ist der Betreiber verpflichtet, an der Überwachung des Fernmeldeverkehrs nach den Bestimmungen der StPO im erforderlichen Ausmaß mitzuwirken. Hiefür gebührt ihm der Ersatz der angemessenen Kosten.
+Die in Abs 3 der zitierten Bestimmung angekündigte Verordnung ist bislang nicht erlassen.
+Es ergibt sich sohin nach der von der Betreiberin bezüglich der von ihr gelegten Rechnung erfolgten Klarstellung, daß die "CPU-Zeit" den Maschineneinsatz betrifft und sohin die Bereitstellung der für die Fernmeldeüberwachung erforderlichen Einrichtung. Die Bereitstellung dieser Einrichtung begründet aber nach dem klaren Wortlaut des § 89 Abs 1 TKG keinen Anspruch auf Kostenersatz. Dies ist vergleichbar mit dem Geräteeinsatz (EDV-Anlage etc), den ein Bankinstitut bei Entsprechung eines Beschlagnahme- und Bankkonteneröffnungsauftrages nach §§ 143 iVm 381 Abs 1 Z 5 StPO hat. Auch den Bankinstituten wird hiebei lediglich ein angemessener Ersatz des Personalaufwandes und die tatsächlichen Barauslagen (z.B. Fotokopien) zuerkannt, nicht aber ein zusätzliches Entgelt für den Einsatz der Geräte, kalkulierend bis hin zu den Kosten der Software oder der Infrastruktur einschließlich Gebäudeanteil (Mayerhofer, StPO, 4. Auflage, E 15a ff zu § 143).
+Dieser auf der Basis eines Einheitspreises je Stunde von S 34.380,-- errechnete Posten von S 12.892,50 samt Mehrwertsteuer war daher als Aufwand der Bereitstellung der Einrichtung im Sinne des § 89 Abs 1 TKG abzuweisen.
+Nachdem die Betreiberin Kalkulationsunterlagen zum Personalaufwand nicht beigebracht hat, war in analoger Anwendung des § 34 GebAG auf die Honorarrichtlinien der Bundeswirtschaftskammer für die Ingenieurbüros zurückzugreifen. In der dortigen achtstufigen Klasseneinteilung ist die Leistung der Betreiberin der Klasse V zuzuordnen, deren Leistungsbild umschrieben wird mit "Tätigkeiten schwieriger und verantwortungsreicher Art, die besondere theoretische und praktische Fachkenntnisse erfordern". Hiefür gebührt ein valourisierter Mindestsatz pro Stunde von S 857,--, erhöht mit dem Leistungsfaktor 1,15 und sohin von S 985,55, während die Betreiberin sogar einen über der Klasse VI gelegenen Stundensatz veranschlagt.
+Obwohl nach solcher Einschätzung ein niedrigerer Stundensatz als angemessen gefunden wurde, konnte zufolge Verrechnung von lediglich 90 Minuten diese Position dennoch zugesprochen werden, weil nach der analog herangezogenen Honorarrichtlinie Punkt 2.4.1 die Mindestgebühr den doppelten Stundensatz ausmacht und dieser höher liegt als der begehrte Gesamtbetrag an Personalaufwand.
+Sohin war in Stattgebung der nach § 392 StPO zulässigen Beschwerde der die CPU-Zeit betreffende Betrag von S 12.892,50 zuzüglich Mehrwertsteuer abzuweisen und lediglich die Kosten des Personalaufwandes zuzusprechen.

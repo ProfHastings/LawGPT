@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.02.2014
+Geschäftszahl
+5Ob203/13h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden, die Hofrätinnen Dr. Hurch und Dr. Lovrek sowie die Hofräte Dr. Höllwerth und Mag. Wurzer als weitere Richter in der Grundbuchsache der Antragstellerin D***** GmbH, *****, vertreten durch Dr. Gerhard Halbreiner, Rechtsanwalt in Graz, wegen (ua) Einverleibung eines Bestandrechts ob der Liegenschaft EZ 390 GB *****, über den Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 7. Juni 2013, GZ 4 R 11/13m, mit dem infolge Rekurses der Antragstellerin der Beschluss des Bezirksgerichts Graz-West vom 22. November 2012, TZ 24690/2012, teilweise bestätigt und teilweise abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Antragstellerin begehrte - soweit für das Revisionsrekursverfahren noch wesentlich - die Einverleibung eines Bestandrechts. Das Rekursgericht gab insoweit dem von der Antragstellerin erhobenen Rekurs gegen den abweislichen Beschluss des Erstgerichts nicht Folge. Es sprach aus, dass der ordentliche Revisionsrekurs zulässig sei, weil der oberste Gerichtshof - soweit überblickbar - noch nicht mit der Frage befasst gewesen sei, wie Anbot und Annahmeerklärung nachzuweisen seien, und ob es - wie hier geschehen - ausreichen könnte, in einer von allen Vertragsteilen (notariell beglaubigt) unterfertigten Urkunde zu erklären, dass das vom Anbieter gestellte Anbot angenommen worden sei.
+Entgegen diesem - den Obersten Gerichtshof nicht bindenden (§ 71 Abs 1 AußStrG iVm § 126 Abs 2 GBG) - Ausspruch des Rekursgerichts ist der wegen unrichtiger rechtlicher Beurteilung erhobene Revisionsrekurs der Antragstellerin mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Zurückweisung des Revisionsrekurses infolge Fehlens der Voraussetzungen des § 62 Abs 1 AußStrG ist - wie folgt - kurz zu begründen (§ 71 Abs 3 AußStrG iVm § 75 Abs 2 GBG):
+Rechtliche Beurteilung
+1. Der Bestandvertrag ist ein Konsensualvertrag, der durch Willenseinigung über die essentialia negotii (Bestandobjekt und Bestandzins) zustandekommt (Riss in Klete?ka/Schauer, ABGB ON 1.01 §§ 1092 - 1094 Rz 1 mwN). Zweiseitige Rechtsgeschäfte (Verträge) setzen zwei übereinstimmende Willenserklärungen voraus (5 Ob 26/08x mwN NZ 2009/18 [Hoyer]). Hier soll die vertragliche Einigung durch gesonderte Anbots- und Annahmeerklärungen erfolgt sein:
+2. Die drei Miteigentümer der Liegenschaft (Vermieter) haben der Antragstellerin (Mieterin) ein notariell beglaubigt unterfertigtes „verbindliches Anbot auf Abschluss eines [inhaltlich wiedergegebenen] Mietvertrages“ gemacht, wonach diese berechtigt sein sollte, den Mietvertrag „durch Leistung einer Mietvorauszahlung von € 13.200,00 für den ersten Mietbetrag zu Handen der Mieter anzunehmen“.
+Die als „Aufsandungsurkunde“ bezeichnete, von der Antragstellerin und den Miteigentümern der Liegenschaft unterfertigte Urkunde, die nach Ansicht der Antragstellerin die den Mietvertrag betreffende Anbotsannahme enthalten soll, hat insoweit folgenden wesentlichen Inhalt:
+„… (die Miteigentümer der Liegenschaft) haben mit Anbot zum Abschluss eines Mietvertrages … die Anmietung der Liegenschaft angeboten. … Dieses Anbot wurde angenommen und gleichzeitig die grundbücherliche Sicherstellung vereinbart.“
+3. Die entscheidungswesentliche Ansicht des Rekursgerichts, dass die wiedergegebene Passage der „Aufsandungsurkunde“ im Gegensatz zu einer Willenserklärung nur eine Wissenserklärung (Vorstellungsmitteilung: vgl 6 Ob 237/12i), also eine bloße Nachricht über eine (angebliche, inhaltlich die erfolgte Mietvorauszahlung im Übrigen auch nicht bestätigende) Tatsache enthält, daher selbst nicht unmittelbar die Rechtslage gestaltet (vgl 5 Ob 26/08x mwN NZ 2009/18 [Hoyer]; Bollenberger in KBB3 § 859 ABGB Rz 10 mwN; Wiebe in Klete?ka/Schauer, ABGB-ON 1.01 § 859 Rz 10), ist nach dem im Grundbuchverfahren maßgeblichen Urkundenwortlaut (vgl RIS-Justiz RS0060573 [T10]) keine als unvertretbar aufzugreifende Einzelfallbeurteilung (vgl 5 Ob 243/03a). Demnach ist das Zustandekommen des Bestandvertrags, nämlich durch dessen Annahme seitens der Antragstellerin, nicht in grundbuchtauglicher Form nachgewiesen; es fehlt damit an der Eintragungsgrundlage. Eine Rechtsfrage iSd § 62 Abs 1 AußStrG (iVm § 126 Abs 2 GBG) stellt sich in diesem Kontext nicht.
+Der Revisionsrekurs ist daher unzulässig und zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0050OB00203.13H.0221.000

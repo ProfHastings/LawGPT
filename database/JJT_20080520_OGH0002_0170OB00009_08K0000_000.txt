@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2008
+Geschäftszahl
+17Ob9/08k
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Griss als Vorsitzende und durch die Hofrätin Dr. Schenk sowie die Hofräte Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei G***** KG, *****, vertreten durch Dr. Rainer Kornfeld, Rechtsanwalt in Wien, gegen die beklagte Partei I***** GmbH, *****, vertreten durch Reif und Partner Rechtsanwälte OG in Graz, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 30.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 13. Februar 2008, GZ 6 R 14/08p-13, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Im Kennzeichenstreit stehen einander der Titel der in Deutschland erscheinenden Zeitschrift der Klägerin „Eltern" bzw die gleichnamige inländische Marke der Klägerin und die Domain der Beklagten „eltern.at" gegenüber.
+Nach dem unstrittigen Sachverhalt wird ein Internetnutzer nach Eingabe der Domain der Beklagten auf das Internetportal der Beklagten „www.link.at" weitergeleitet, das eine Vielzahl von Links (unter anderem auch zu den Themenbereichen Eltern, Kinder, Schule & Lernen) enthält. Ein als online-Auftritt der Zeitschrift der Klägerin bezeichneter Link führt auch zur Homepage der Klägerin unter der Domain „eltern.de". Die Beklagte verfolgt die Geschäftsidee, zahlreiche Internetnutzer durch Registrierung möglichst vieler (insbesondere beschreibender oder generischer) Begriffe als Domain zu ihrem Internetportal zu führen, um dort Werbeflächen für Werbekunden vermarkten zu können.
+Rechtliche Beurteilung
+1.1. Der Oberste Gerichtshof hat schon wiederholt ausgesprochen, dass bei der Beurteilung der durch die Registrierung einer Marke als Domain begründeten Verwechslungsgefahr auf den Inhalt der Website
+abzustellen ist (4 Ob 327/00t = ÖBl 2001, 225 - cyta.at; 4 Ob 229/06i
+= RIS-Justiz RS0114773 [T4]; 17 Ob 9/07h).
+1.2. Von dieser Rechtsprechung ist das Rekursgericht nicht abgewichen, wenn es in vertretbarer Weise im Einzelfall Unterlassungsansprüche der Klägerin mangels Verwechslungsgefahr oder Zuordnungsverwirrung zwischen der Zeitschrift oder dem Unternehmen der Klägerin und dem eine Link-Sammlung enthaltenden Internetportal der Beklagten verneint hat.
+1.3. Entgegen der Argumentation der Klägerin bieten die Internetseiten der Streitteile keineswegs „gleiche Dienstleistungen" an. Der Inhalt einer Fachzeitschrift zum Thema Eltern kann nämlich schon vom Ansatz her einer allgemeinen Link-Sammlung, die erkennbar den Anspruch stellt, weiterführende Informationen zu den verschiedensten Themen vermitteln zu können, nicht gleichgehalten werden. Soweit es aber thematische Überschneidungen gibt, weil auf weiterverwiesenen Seiten des Portals der Beklagten über die Themenbereiche Eltern, Kinder, Schule und Lernen informiert wird, verwendet die Beklagte den Begriff „Eltern" zur Beschreibung ihrer Dienstleistung. Eine solche Verwendung ist durch § 10 Abs 3 Z 2 MSchG gedeckt, wenn sie - wie hier nach dem festgestellten Sachverhalt anzunehmen ist - den anständigen Gepflogenheiten in Handel oder Gewerbe entspricht.
+2.1. Ein Verstoß gegen UWG durch Benützung einer Domain setzt nach der Rechtsprechung zu § 1 UWG idF vor der Novelle 2007 die unlautere Absicht im Zeitpunkt der Registrierung voraus, den Inhaber eines älteren Kennzeichens durch die Wahl eines ähnlichen Zeichens für eigene Zwecke des Störers zu behindern (vgl 4 Ob 139/01x = MR 2001, 245 [Korn] - taeglichalles.at; 4 Ob 229/03k = MR 2004, 374 [Thiele] - autobelehnung.at). Die Novellierung des § 1 UWG hat insoweit keine Änderung gebracht.
+2.2. Im Anlassfall ist eine Behinderungsabsicht im Zeitpunkt des Rechtserwerbs der Beklagten nicht erwiesen; im Gegenteil, nach der bescheinigten Geschäftsidee fehlt der Beklagten keineswegs ein berechtigtes Eigeninteresse daran, die strittige Domain zu benützen. Eine Nicht- oder Scheinbenützung der strittigen Domain in Behinderungsabsicht liegt jedenfalls nicht vor. Ob der Verkauf von Subdomains an Interessenten lauterkeitsrechtlich einem Domain Grabbing gleichzuhalten sei, wie die Klägerin meint, bedarf mangels Bescheinigung einer Behinderungsabsicht keiner weiteren Prüfung.

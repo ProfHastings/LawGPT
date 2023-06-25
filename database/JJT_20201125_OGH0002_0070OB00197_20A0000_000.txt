@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2020
+Geschäftszahl
+7Ob197/20a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei J***** H*****, vertreten durch Dr. Angela Lenzi, Rechtsanwältin in Wien, gegen die beklagte Partei Z*****-AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 255.360 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Juli 2020, GZ 4 R 27/20z-35, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Revision geht über weite Strecken nicht vom festgestellten Sachverhalt aus und ist damit nicht dem Gesetz gemäß ausgeführt (vgl RS0043603).
+2. Ob aus einem Neuabschluss eines Versicherungsvertrags zum Neuwert trotz Kenntnis eines vorangegangenen Schadensfalls und des (beschädigten) Zustands eines der versicherten Objekte einen schlüssigen Verzicht des Versicherers auf einen (begründeten) Einwand  der Leistungsfreiheit und die Geltendmachung von Risikoausschlüssen für den vorangegangenen Schadensfall sowie die Verpflichtung zum Neuwertersatz begründet, ist eine typische Einzelfallbeurteilung, die deshalb im Regelfall keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO darstellt (vgl RS0014420 [T4]). Für die Schlüssigkeit eines Verhaltens im Hinblick auf einen rechtsgeschäftlichen Willen legt § 863 ABGB einen strengen Maßstab an; es ist bei der Beurteilung der Frage, ob ein stillschweigender Verzicht auf ein Recht vorliegt, besondere Vorsicht geboten (RS0014190 [T1]; RS0014420 [T1]). Das Berufungsgericht hat deshalb, weil das versicherte Anwesen des Klägers neben dem beschädigten Objekt noch weitere Gebäude umfasst, sodass ein Weiterbestand des Versicherungsvertrags plausibel erscheint, und im Übrigen das Erstgericht nicht feststellen konnte, wie es zu dieser Neupolizzierung kam, einen Verzicht des Versicherers auf sämtliche, seine Leistungsfreiheit begründenden Einreden zum eingetreten Schadensfall nicht annehmen wollen. Diese Rechtsansicht ist jedenfalls keine Verkennung der aufgezeigten Rechtsprechungsgrundsätze, die gegenüber der Annahme eines Verzichts zu besonderer Vorsicht mahnen.
+3. Ob der Versicherer den Kläger anlässlich der Neupolizzierung über die Risikoausschlüsse (nochmals) hätte aufklären müssen oder diesem die Verletzung weiterer Informationspflichten zur Last fällt, hat für die Beurteilung des vorangegangenen Versicherungsfalls keine erkennbare rechtliche Relevanz.
+4. Die hier vereinbarte strenge Wiederherstellungsklausel stellt eine Risikobegrenzung dar (RS0081840). Sie bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechten) Sicherung abhängt (RS0120710). Auf ein Verschulden des Versicherungsnehmers an der unterbliebenen Wiederherstellung kommt es nicht an (RS0081840 [T2, T15]). Soweit der Versicherungsnehmer die Wiederherstellung (gleichgültig ob verschuldet oder nicht) gänzlich unterlässt oder verzögert, verliert er seinen Anspruch gegen den Versicherer (RS0081840 [T4]). Für die Wiederherstellungsabsicht, die das Erstgericht als nicht erwiesen annahm, reicht es daher nicht, diese von einem Vorschuss des Versicherers abhängig zu machen (vgl 7 Ob 45/15s). Von dieser Rechtsansicht ist das Berufungsgericht ausgegangen und hat damit die Beurteilung der Wiederherstellungsabsicht, die von den Umständen des Einzelfalls abhängt (7 Ob 12/15p), im Einklang mit den dargestellten Judikaturgrundsätzen vorgenommen.
+5. Der Kläger macht insgesamt keine erhebliche Rechtsfrage geltend. Die Revision ist daher nicht zulässig und folglich zurückzuweisen. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00197.20A.1125.000

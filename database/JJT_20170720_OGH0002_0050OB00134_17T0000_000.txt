@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.07.2017
+Geschäftszahl
+5Ob134/17t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der außerstreitigen Rechtssache des Antragstellers R* Q*, vertreten durch Dr. Gernot Nachtnebel, Rechtsanwalt in Wien, gegen die Antragsgegnerin C* P*, vertreten durch Mag. Elisabeth Brandstetter, Rechtsanwältin in Wien, wegen 64.321,33 EUR sA, über den außerordentlichen Revisionsrekurs der Antragsgegnerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 17. Mai 2017, GZ 38 R 37/17y-10, mit dem aus Anlass des Rekurses des Antragstellers gegen den Beschluss des Bezirksgerichts Hietzing vom 11. Jänner 2017, GZ 31 Msch 1/16m-4, der verfahrenseinleitende Antrag zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht sprach aus, dass „die gegenständliche Rechtssache [..] im streitigen Verfahren zu erledigen [sei], weil nach dem Vorbringen des Antragstellers nicht Angelegenheiten der Verwaltung der Liegenschaft gegenständlich seien, sondern das rückständige Benützungsentgelt gefordert werde, das mit der gerichtlichen Benützungsregelung vom 14. 6. 2013 festgesetzt worden sei“.
+Dagegen richtete sich der Rekurs des Antragstellers. Die Antragsgegnerin erhob zusätzlich zu hier nicht mehr relevanten Anträgen einen Eventualrekurs, weil sie sich darin beschwert erachtete, dass der Antrag entgegen ihrem Begehren im Verfahren erster Instanz nicht zurückgewiesen worden sei.
+Mit dem angefochtenen Beschluss erklärte das Rekursgericht das bisherige Verfahren für nichtig und wies den verfahrenseinleitenden Antrag zurück. In seiner Begründung führte es aus, dass der Antragsteller seine Forderung ausschließlich auf die gerichtliche Benützungsregelung vom 14. 6. 2013 stütze, die auch eine Zahlungsverpflichtung der Antragsgegnerin enthalte. Damit sei die Antragstellerin beginnend mit 1. 9. 2007 zur Leistung eines jeweils am ersten eines Monats fälligen, wertgesicherten Benützungsentgelts in bestimmter Höhe verpflichtet worden, sodass ein rechtskräftiger Exekutionstitel vorliege, der einer nochmaligen Geltendmachung dieser Forderung entgegenstehe.
+Rechtliche Beurteilung
+Das Rechtsmittel der Antragsgegnerin ist nicht zulässig:
+1. § 62 Abs 1 AußStrG erfasst mit dem Begriff „Revisionsrekurs“ nicht nur das Rechtsmittel gegen die Sachentscheidung des Gerichts zweiter Instanz über einen Rekurs gegen die erstinstanzliche Sachentscheidung, sondern regelt schlechthin die Anfechtbarkeit für jeden „im Rahmen des Rekursverfahrens ergangenen Beschluss des Rekursgerichts“ und gilt daher etwa auch für Beschlüsse des Rekursgerichts, mit denen ein Antrag ohne Sachentscheidung aus rein formalen Gründen zurückgewiesen wird (5 Ob 60/06v; 3 Ob 156/13g; Fucik/Kloiber, AußStrG § 62 Rz 2).
+2. Nach ständiger Rechtsprechung setzt jedes Rechtsmittel eine Beschwer – also ein Anfechtungsinteresse – voraus (RIS-Justiz RS0002495). Die Beschwer muss zum Zeitpunkt der Einlegung des Rechtsmittels gegeben sein und zum Zeitpunkt der Entscheidung über das Rechtsmittel noch fortbestehen; andernfalls ist das Rechtsmittel als unzulässig zurückzuweisen (RIS-Justiz RS0041770, RS0006880). Diese Grundsätze gelten auch im Verfahren außer Streitsachen (RIS-Justiz RS0006598).
+3. Formelle Beschwer liegt vor, wenn die Entscheidung von dem ihr zugrunde liegenden Antrag des Rechtsmittelwerbers zu seinem Nachteil abweicht; materielle Beschwer ist gegeben, wenn die rechtlich geschützten Interessen des Rechtsmittelwerbers durch die Entscheidung beeinträchtigt werden (RIS-Justiz RS0041868 [insbes T19]; RS0006641). Allein aus den Gründen einer Entscheidung kann aber eine Beschwer – von hier nicht vorliegenden Ausnahmen abgesehen – grundsätzlich nicht abgeleitet werden (RIS-Justiz RS0043947; RS0006550 [T2]; RS0041848; Kodek in Gitschthaler/Höllwerth, AußStrG § 45 Rz 60).
+4. Das Rekursgericht hat den Antrag im Spruch seiner Entscheidung zurückgewiesen. Darauf war das Begehren der Antragsgegnerin im Verfahren erster Instanz primär gerichtet. Auch mit ihrem Eventualrekurs strebte sie die Zurückweisung des verfahrenseinleitenden Antrags an, sodass sie nicht mehr erreichen hätte können, wäre (auch) ihr Eventualantrag einer inhaltlichen Beurteilung unterzogen worden. Soweit sie mit ihrem außerordentlichen Revisionsrekurs daher geltend macht, dass die in den Beschluss über die Benützungsregelung aufgenommene Zahlungsverpflichtung keinen Exekutionstitel begründe, wendet sie sich ausschließlich gegen die Begründung der zweitinstanzlichen Entscheidung, die ihr aber die für eine Zulässigkeit des Revisionsrekurses erforderliche Beschwer nicht vermitteln kann.
+5. Das Rechtsmittel der Antragstellerin ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E118982

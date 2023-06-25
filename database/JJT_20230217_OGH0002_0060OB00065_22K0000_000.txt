@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2023
+Geschäftszahl
+6Ob65/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Wohnungseigentümergemeinschaft *, vertreten durch Imre & Schaffer Rechtsanwälte OG in Gleisdorf, gegen die beklagte Partei G* GmbH, FN *, vertreten durch Mag. Gerald Michael Griebler, Rechtsanwalt in Graz, wegen 49.672,92 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 10. Februar 2022, GZ 5 R 114/21f-49, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Behauptete Mängel des Verfahrens erster Instanz, die vom Berufungsgericht nicht als solche anerkannt worden sind, können in dritter Instanz nicht mehr erfolgreich geltend gemacht werden (RS0042963). Ein Mangel des Berufungsverfahrens läge nur dann vor, wenn das Berufungsgericht die Mängelrüge mit einer durch die Aktenlage nicht gedeckten Begründung verworfen (RS0043166; RS0042963 [T28]) oder sich überhaupt nicht damit befasst hätte (RS0042963 [T9]; RS0043086; RS0043144). Ein Verfahrensmangel läge darüber hinaus (nur) dann vor, wenn sich das Berufungsgericht mit einer Verfahrensrüge nur so mangelhaft befasst hätte, dass keine nachvollziehbaren Überlegungen angestellt und im Urteil festgehalten sind („floskelhafte Scheinbegründung“; RS0043371 [T13, T32]; RS0043144 [T8]; 3 Ob 211/19d).
+[2] 		An dieser Rechtsprechung zum verneinten Verfahrensmangel hat der Oberste Gerichtshof in Kenntnis der dazu in der Literatur geführten Diskussion in jüngerer Zeit mehrfach ausdrücklich festgehalten (10 ObS 59/21f; 3 Ob 208/21s – je mwN).
+[3] 		Im vorliegenden Fall liegt eine bloße Scheinbegründung nicht vor. Das Berufungsgericht hat die gerügten Mängel des Verfahrens erster Instanz (Abweisung der Anträge auf Durchführung einer labortechnischen Untersuchung sowie Einvernahme eines Zeugen, mangelnde Auseinandersetzung mit dem vorgelegten Privatgutachten, Verletzung der Begründungspflicht) vielmehr mit ausführlich dargelegten, nachvollziehbaren Argumenten verneint.
+[4] 		2. Soweit in der außerordentlichen Revision behauptet wird, das Berufungsgericht habe sich von dem vom Erstgericht festgestellten Sachverhalt entfernt, trifft das nicht zu.
+[5] 		3. Auf die von der Klägerin vermisste Feststellung, die Beklagte, die unter anderem mit der örtlichen Bauaufsicht betraut war, habe sie nicht gewarnt, dass die konkrete Ausführung der Pflasterung mit einem erhöhten Wartungsaufwand verbunden sei, kommt es nicht an, weil der eingetretene Schaden aus der – für die Beklagte nicht erkennbar – mangelhaften Ausführung durch ein drittes Unternehmen sowie auf mangelhaft durchgeführten Wartungsarbeiten beruhte, nicht hingegen, wie in der außerordentlichen Revision behauptet, auf einer nicht ausreichenden Wartung, deren Notwendigkeit für die Klägerin nicht erkennbar gewesen sei.
+[6] 		Darüber hinaus muss für eine Schadenersatzpflicht nach bürgerlichem Recht der Rechtswidrigkeitszusammenhang gegeben sein, aufgrund eines rechtswidrigen Verhaltens ist also nur für jene verursachten Schäden zu haften, die die übertretene Verhaltensnorm nach ihrem Schutzzweck gerade verhindern sollte (RS0031143; RS0023150;  RS0022933 [T1]). Bei einem auf die Verletzung vertraglicher Pflichten gestützten Schadenersatzanspruch kommt es daher darauf an, welche Interessen, deren Verletzung schadenersatzpflichtig macht, aus dem Sinn und Zweck des Vertrags im Weg der Auslegung zu ermitteln sind (RS0017850 [T1]). Wie weit der Schutzzweck eines Vertrags geht, hängt von den Umständen des Einzelfalls ab und bildet daher regelmäßig keine Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO (RS0017850 [T12, T16]).
+[7] 		Das Berufungsgericht ging in seiner Beurteilung, wonach es auf eine Warnung über den erhöhten Wartungsbedarf nicht ankomme, implizit davon aus, dass eine allfällige Warnpflicht der Beklagten die Klägerin nur vor einem höheren Wartungsaufwand, nicht aber vor der mangelhaften Herstellung und unsachgemäßen Wartung der Pflasterung schützen sollte. Diese Beurteilung ist im vorliegenden Einzelfall vertretbar. Auch aus diesem rechtlichen Grund liegt der gerügte sekundäre Feststellungsmangel nicht vor.
+[8] 		4. Mangels Haftung dem Grunde nach bedurfte es keiner Feststellungen zur Schadenshöhe.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0060OB00065.22K.0217.000

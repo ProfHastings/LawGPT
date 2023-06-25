@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.06.1973
+Geschäftszahl
+4Ob39/73
+Norm
+ABGB §1375;
+Familienlastenausgleichsgesetz §19;
+JN §1;
+Kopf
+SZ 46/60
+Spruch
+Zufolge der Vertragsfreiheit kann sich der Schuldner durch einen privatrechtlichen Vertrag auch zur Erfüllung eines an sich öffentlich-rechtlichen Anspruches verpflichten
+Anerkennt der Dienstgeber die an sich dem öffentlichen Recht angehörende Verpflichtung zur Auszahlung der Familienbeihilfe, ist ein neuer, auf privatrechtlicher Grundlage beruhender Rechtsgrund hinzugetreten; dies reicht für die Zulässigkeit des Rechtsweges aus
+OGH 5. Juni 1973, 4 Ob 39/73 (LG Innsbruck 2 R 401/72; ArbG Innsbruck Cr 262/71)
+Text
+Der Erstkläger, der beim Beklagten als Hilfsarbeiter beschäftigt war, begehrt einen Betrag von 3847.50 S samt Zinsen mit der Begründung, der Beklagte habe die ihm in der Höhe dieses Betrages gebührende Familienbeihilfe mit dem Finanzamt zwar verrechnet bzw. erstattet bekommen; er habe dem Erstkläger gegenüber diese Forderung schriftlich anerkannt und Zahlung versprochen, bisher jedoch keine Zahlung geleistet.
+Der Zweitkläger stützt sein auf Zahlung eines Betrages von 3220 S samt Zinsen gerichtetes Begehren auf einen gleich gelagerten Sachverhalt.
+Der Beklagte beantragte, die Klagebegehren abzuweisen; zufolge einer zwischen ihm und der Gemeinde G getroffenen Vereinbarung sei diese zur Auszahlung der Familienbeihilfe verpflichtet gewesen. Er brachte aber im Lauf des erstinstanzlichen Verfahrens vor, er selbst habe die Familienbeihilfe in der begehrten Höhe den Klägern bereits ausbezahlt. Die Anerkennung der Forderungen sei auf einen Irrtum zurückzuführen, da er damals auf die bereits erfolgte Auszahlung vergessen habe.
+Das Erstgericht hob das durchgeführte Verfahren als nichtig auf und wies die beiden Klagen wegen Unzuständigkeit des Arbeitsgerichtes zurück. Der auf dem Familienlastenausgleichgesetz vom 24. Oktober 1967, BGBl. 376 (FamLAG) beruhende Anspruch des Dienstnehmers auf Auszahlung der Familienbeihilfe gehöre dem öffentlichen Recht an. Zur Geltendmachung rückständiger Familienbeihilfen sei der Rechtsweg ausgeschlossen.
+Das Rekursgericht hob diesen Beschluß auf und trug dem Erstgericht auf, das Verfahren fortzusetzen und zu entscheiden. Der Klagserzählung sei zu entnehmen, daß sich die Kläger auf das Anerkenntnis und das Zahlungsversprechen des Beklagten verließen. Wohl aus diesem Grund hätten sie die Vorlage der Familienbeihilfenkarten beim zuständigen Finanzamt verabsäumt. Falls dem Finanzamt gegenüber eine Verjährung im Sinn des § 21 FamLAG, eingetreten sein sollte, könnten sie ihre Ansprüche allenfalls auf den Titel des Schadenersatzes stützen, wofür das Arbeitsgericht zuständig wäre.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß § 17 FamLAG 1967 sind die Dienstgeber verpflichtet, die Familienbeihilfen nach Maßgabe der Eintragungen auf der Familienbeihilfenkarte gemeinsam mit den Bezügen auszuzahlen. § 19 dieses Gesetzes bestimmt: "Kommt der Dienstgeber seiner Auszahlungsverpflichtung nicht nach, ohne hievon befreit zu sein, ist die Familienbeihilfenkarte zur Auszahlung der rückständigen Familienbeihilfe dem nach § 43 zuständigen Finanzamt zur Auszahlung des Rückstandes zu übergeben." Daraus ergibt sich, daß der Anspruch auf Familienbeihilfe unmittelbar auf dem Familienlastenausgleichgesetz beruht und der Anspruch auf Auszahlung dem öffentlichen Recht angehört. Demnach hat der Oberste Gerichtshof den Standpunkt vertreten, daß Klagen, die die Auszahlung von Familienbeihilfen zum Gegenstand haben, wegen Unzulässigkeit des Rechtsweges zurückzuweisen sind (Arb. 8901, 4 Ob 105/72).
+Im vorliegenden Fall aber werden die Ansprüche beider Kläger nicht auf die öffentlich rechtliche Verpflichtung zur Auszahlung der Familienbeihilfen gestützt, sondern ausschließlich auf das Anerkenntnis und die Zahlungszusage des Beklagten, somit auf einen privatrechtlichen Titel, der zur Erhebung der gerichtlichen Klage berechtigt, dies auch dann, wenn sich, wie hier, das Anerkenntnis auf einen Anspruch nicht privatrechtlicher Natur bezieht (Fasching Komm. I, 63, SZ 8/97, für den deutschen Rechtsbereich s. Soergel - Siebert, BGB[10]III, 700, Anm. 4). Wer in der Beklagte die an sich dem öffentlichen Recht angehörende Verpflichtung zur Auszahlung der Familienbeihilfe anerkannte, wäre zum echten Anerkenntnis ein neuer, auf privatrechtlicher Grundlage beruhender Rechtsgrund getreten; dies reicht für die Zulässigkeit des Rechtsweges aus. Diese Erwägung ergibt sich aus der grundsätzlichen Vertragsfreiheit, derzufolge sich der Schuldner auch zur Erfüllung eines an sich öffentlichrechtlichen Anspruches durch einen privatrechtlichen Vertrag verpflichten kann (ähnlich JBl. 1954, 568); so sind auch Steuer- und Gebührenforderungen des Staates durch privatrechtlichen Vertrag abtretbar (Ehrenzweig System[2] II/1, 257). Da die Kläger, wie bereits dargestellt, ihr Begehren nicht auf einen öffentlichrechtlichen Anspruch, sondern ausschließlich auf das Anerkenntnis und das Zahlungsversprechen des Beklagten gestützt haben, liegt eine bürgerliche Rechtsstreitigkeit zwischen Unternehmer und Beschäftigten vor. Es ist daher nicht nur die Zulässigkeit des Rechtsweges, sondern auch die sachliche Zuständigkeit des Arbeitsgerichtes gegeben.

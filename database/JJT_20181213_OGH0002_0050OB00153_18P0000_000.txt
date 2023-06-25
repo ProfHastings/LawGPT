@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2018
+Geschäftszahl
+5Ob153/18p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der außerstreitigen Mietrechtssache des Antragstellers M*, gegen die Antragsgegner 1. Ing. L* und 2. J*, beide vertreten durch Dr. Hans Kaska, Rechtsanwalt in St. Pölten, wegen § 37 Abs 1 Z 8 iVm § 16 Abs 2 MRG, über den außerordentlichen Revisionsrekurs der Antragsgegner gegen den Sachbeschluss des Landesgerichts St. Pölten als Rekursgericht vom 14. Mai 2018, GZ 7 R 175/17s-50, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 37 Abs 3 Z 16 MRG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Das Rekursgericht interpretierte das Vorbringen des Antragstellers in seinem Schriftsatz an die Schlichtungsstelle als Antrag auf Feststellung des gesetzlich zulässigen Mietzinses iSd § 37 Abs 1 Z 8 MRG. Diese einzelfallbezogene (RIS-Justiz RS0037780 [T15]; RS0042828 [T32]; 5 Ob 235/11m), schon in der Vorentscheidung betreffend die – von den Antragsgegnern begehrte – Aufspaltung des Pauschalmietzinses angedeutete (5 Ob 115/14v) Auslegung begründet keine erhebliche Rechtsfrage: Der Mieter spricht die Unbrauchbarkeit der Ende 1991 um einen Pauschalmietzins gemieteten Wohnung, deren Einstufung in die Kategorie D und die Unzulässigkeit der geforderten Miete deutlich an.
+2.1 Die dreijährige Präklusivfrist des § 16 Abs 8 Satz 2 MRG idF des 3. WÄG ist – ausgenommen den hier nicht relevanten Zeitraum von 1. 9. 1999 bis 30. 6. 2000 (vgl RIS-Justiz RS0109837 [T13]) – auch auf vor dem 1. 3. 1994 geschlossene Mietverträge anzuwenden. Die Frist beginnt bei diesen „Altverträgen“ am 1. 3. 1994 zu laufen (RIS-Justiz RS0109837).
+2.2 Bei Pauschalmietzinsvereinbarungen beginnt die Präklusivfrist zur Überprüfung des Mietzinses jedoch nach der Rechtsprechung des Obersten Gerichtshofs erst mit rechtskräftiger Aufspaltung des Pauschalmietzinses zu laufen (RIS-Justiz RS0117160; eingehend auf die Kritik in der Lehre: 5 Ob 205/05s).
+2.3 Es ist richtig, dass zum Zeitpunkt des Mietvertragsabschlusses im Jahr 1991 die erst mit dem 3. WÄG durch § 15 Abs 4 MRG eingeführte (T. Hausmann in Hausmann/Vonkilch, Österreichisches Wohnrecht³ § 15 MRG Rz 15) Möglichkeit der Aufspaltung des Pauschalmietzinses nicht bestand. Zufolge § 43 Abs 1 MRG ist diese – von den Antragsgegnern im Vorverfahren in Anspruch genommene – Regelung auch auf „Altverträge“ anzuwenden (T. Hausmann in Hausmann/Vonkilch § 15 MRG Rz 19 mwN). Die Antragsgegner zeigen in ihrem Revisionsrekurs keinen überzeugenden Grund dafür auf, die Mieter im Fall von „Altmietverträgen“ dadurch zu benachteiligen, dass die dreijährige Präklusivfrist nicht erst mit der rechtskräftigen Aufspaltung des Pauschalmietzinses in Kraft gesetzt wird.
+2.4 Nach diesen Kriterien begann die Frist hier erst mit der Zustellung der Entscheidung des Obersten Gerichtshofs vom 25. 7. 2014, 5 Ob 115/14v, zu laufen. Der im Jahr 2015 zu Gericht gezogene (§ 40 Abs 2 MRG) Antrag ist demnach nicht verfristet, wie schon das Rekursgericht erkannt hat.
+3.1 Für die Zulässigkeit des Mietzinses kann auch jener Zustand des Mietobjekts maßgeblich sein, den der Vermieter vertragsgemäß auf seine Kosten herzustellen hat und tatsächlich in angemessener Frist nach Mietvertragsabschluss herstellt (RIS-Justiz RS0070204 [T2]; RS0069638 [T1, T6]; RS0070288). Es schadet nicht, wenn der Mieter den Einbau kategoriebestimmender Merkmale selbst übernimmt, sofern der Vermieter die Kosten dafür, etwa durch den Erlass des Mietzinses für einen bestimmten Zeitraum, trägt und eine Vereinbarung über die vom Mieter durchzuführenden Arbeiten, deren Kosten sowie über den Betrag und die Dauer der Mietzinsreduktion vorliegt (5 Ob 183/08k; 5 Ob 92/02v).
+3.2 Eine diesen Kriterien entsprechende Vereinbarung wurde nach den Tatsachenfeststellungen der Vorinstanzen nicht getroffen. Dass die frühere Vermieterin keine Wertsicherung geltend machte, die Heizkosten unbekannter Höhe für ein halbes Jahr übernahm und dem Mieter einen mietzinsfreien Zeitraum von mindestens einem dreiviertel Jahr gewährte, reicht nicht aus. Es steht zudem nicht fest, dass dadurch die vom Mieter getragenen Kosten gedeckt gewesen wären.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E123847

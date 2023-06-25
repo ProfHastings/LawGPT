@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.02.1950
+Geschäftszahl
+1Ob56/50
+Norm
+ABGB §904;
+ABGB §1170;
+ABGB §1295;
+ABGB §1413;
+ABGB §1415;
+Kopf
+SZ 23/26
+Spruch
+Über den Zeitpunkt der Fälligkeit des Entgeltes beim Werkvertrag; kein Aufdrängen einer a-conto-Zahlung.
+Entscheidung vom 8. Februar 1950, 1 Ob 56/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Handelsgericht Wien.
+Text
+Die Klägerin hatte im September und im Oktober 1947 über Auftrag der Beklagten in deren Unternehmen einen Lastenaufzug montiert. Nachdem am 15. November 1947 die Überprüfung der Arbeit erfolgt war, überwies der Beklagte am 28. November 1947 der Klägerin einen Betrag von 4000 S a conto der von ihr erbrachten Leistungen. Die Klägerin lehnte jedoch die Annahme des Betrages mit der Begründung ab, daß sie die Rechnung noch nicht fertiggestellt habe und hiezu infolge Arbeitsüberhäufung auch nicht in der Lage gewesen sei, und legte erst am 8. Dezember 1947 ihre auf 5546 S lautende Rechnung. Da die Beklagte hierauf nur 2879 S bezahlte, begehrte die Klägerin ihre Verurteilung zur Zahlung des Restbetrages von 2667 S s. A.
+Das Prozeßgericht wies das Klagebegehren ab.
+Das Berufungsgericht gab ihm statt.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zutreffend haben die Untergerichte für die Lösung des gegenständlichen Rechtsfalles die Frage der Fälligkeit in den Mittelpunkt der Erörterungen gestellt.
+Bei einem Werkvertrag, und um einen solchen handelt es sich bei der vorliegenden Montierung eines Aufzuges, ist gemäß § 1170 ABGB. das Entgelt "in der Regel" nach vollendetem Werk zu entrichten; in der Regel bedeutet, "wenn nichts anderes vereinbart oder üblich ist". Steht die Höhe der Vergütung, weil, wie dies hier der Fall ist, keine Pauschalsumme, sondern Einheitssätze für die tatsächlich geleisteten Arbeiten vereinbart waren, nicht von vornherein fest, so hat der Unternehmer nachzuweisen, was er geleistet und demgemäß zu fordern hat. Das ist keine aus dem Werkvertrag sich für ihn ergebende Vertragspflicht, sondern lediglich die substantiierte Berechnung der ihm zustehenden Vergütung.
+Aus diesen Gründen ist der vom Berufungsgerichte ausgesprochenen Rechtsmeinung beizutreten, daß bei Herstellung eines Werkes, wenn kein Preis vereinbart ist, die Forderung des Unternehmers erst fällig wird, bis die Ziffer der Schuld dem Besteller des Werkes bekanntgegeben wird.
+Gegen seinen Willen kann weder der Gläubiger gezwungen werden, etwas anderes anzunehmen, als er zu fordern hat, noch der Schuldner, etwas anderes zu leisten, als er zu leisten verbunden ist. Dies gilt auch von der Zeit, dem Ort und der Art, die Verbindlichkeit zu erfüllen (§ 1413 ABGB.).
+Zutreffend hat das Berufungsgericht hiebei darauf verwiesen, daß auch der Schuldner selbst diesen Standpunkt zur kritischen Zeit eingenommen hat, insofern er seine am 24. November 1947 erfolgte Zahlung von 4000 S als a-conto-Zahlung für die Aufzugsmontage bezeichnet hat. Eine a-conto-Zahlung wurde vom Gläubiger, dem Hersteller des Werkes, aber nicht begehrt; nach § 1170 ABGB. hat der Unternehmer lediglich die Befugnis, eine solche vorher zu fordern. Teilzahlungen anzunehmen, ist jedoch der Gläubiger gemäß § 1415 ABGB. nicht verpflichtet.
+Wie Klang (Kommentar, 1. Aufl. IV, S. 385), ebenso Ehrenzweig (II/1, S. 314) hervorheben, unterliegt das Recht des Gläubigers, Teilzahlungen zurückzuweisen, allerdings jenen Beschränkungen, die sich aus dem Schikaneverbot (§ 1295 Abs. 2 ABGB.) ergeben. Zutreffend hat aber auch hier das Berufungsgericht darauf verwiesen, daß schon das erstgerichtliche Urteil auf Grund des Gutachtens der Sachverständigen festgestellt hat, daß die Frist von der Meldung der Überprüfung durch den Monteur (25. November 1947) bis zur Ausstellung der Rechnung (8. Dezember 1947) nach den hiefür erforderlichen Arbeiten die in dem klägerischen Betrieb übliche, für diese Arbeiten notwendige Zeitspanne nicht überschritt.

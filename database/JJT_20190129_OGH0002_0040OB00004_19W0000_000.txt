@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.01.2019
+Geschäftszahl
+4Ob4/19w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und Dr. Rassi sowie die fachkundigen Laienrichter DI Dr. Ehrendorfer und DI Hehenberger als weitere Richter in der Rechtssache der Klägerin B***** AG, *****, vertreten durch Wolf Theiss Rechtsanwälte GmbH & Co KG in Wien sowie Sonn & Partner Patentanwälte in Wien, gegen die Beklagte B***** GmbH, *****, vertreten durch Schwarz Schönherr Rechtsanwälte KG in Wien sowie DI Dr. Andreas Weiser, Patentanwalt in Wien, wegen zuletzt Rechnungslegung (Streitwert 30.000 EUR) und Zahlung (Streitwert 50.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 14. November 2018, GZ 133 R 54/18s-61, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin ist Inhaberin des europäischen Patents EP 2 319 556 (österreichisches Patent AT E 608 214) mit dem Titel „Needle tip guard for hypodermic needles“ (Deutsch: „Nadelspitzenschutz für Subkutaninjektionen“). Das Patent wurde am 27. 2. 1997 unter der Inanspruchnahme der Prioritäten der Patente US 60/012,343P vom 27. 2. 1996 (= P 1), US 60/025,273P vom [richtig laut EP:] 12. 9. 1996
+(= P 2) und US 60/031,399P vom 19. 11. 1996 (= P 3) angemeldet; erteilt wurde das Klagspatent am 24. 4. 2013. Gegenstand des Patents sind allgemein Schutzvorrichtungen für die Nadelspitzen von Subkutannadeln.
+Der Senat hat sich mit dem Patent und dem auch hier relevanten Merkmal g 4 bereits umfassend in der Entscheidung 4 Ob 141/16p auseinandergesetzt und eine Patentverletzung durch die (auch dortige) Beklagte bejaht.
+Die Klägerin macht nunmehr wegen eines anderen Gegenstands neuerlich Ansprüche gegen die Beklagte wegen Eingriffs in das Patent geltend.
+Die Vorinstanzen verneinten einen Eingriff mangels Verwirklichung des Merkmals g 4 und wiesen die Klage übereinstimmend ab.
+Rechtliche Beurteilung
+Dagegen zeigt die außerordentliche Revision der Klägerin keine erhebliche Rechtsfrage auf.
+1. Die Beurteilung, ob ein Gegenstand in ein Patent eingreift, hängt in weiten Bereichen von der Beantwortung von Tatfragen ab, die – von Verfahrensmängeln der zweiten Instanz abgesehen – einer Überprüfung durch den Obersten Gerichtshof entzogen ist.
+2. Der Vorwurf widersprüchlicher Feststellungen des Berufungsgerichts vermag die Zulässigkeit des Rechtsmittels nicht stützen. Das Berufungsgericht legte seiner Entscheidung den durch die erstgerichtlichen Feststellungen gedeckten Umstand zugrunde, dass bei der angegriffenen Ausführungsform im gekoppelten Zustand ein Reibschluss zwischen dem Vorsprung des distalen Endes des Arms und dem konisch abfallenden Abschnitt des Katheteransatzes vorliegt und dass es bei sachgemäßer Bedienung zu keinem Formschluss mit dem Umfangswandabschnitt kommt.
+3. Wenn das Berufungsgericht in seiner rechtlichen Begründung eine Verletzung wegen des Umstands verneint hat, dass der nunmehrige (vermeintliche) Eingriffsgegenstand im Gegensatz zum Eingriffsgegenstand, der dem Verfahren 4 Ob 141/16p zugrundelag, keine Vertiefung im Katheteransatz aufweise und ein Zurückhalten innerhalb einer Ausnehmung – wie das Merkmal g 4
+verlangt – gar nicht erforderlich sei, bedarf die Verneinung einer (wortsinngemäßen oder äquivalenten) Verletzung keiner Korrektur durch gegenteilige Sachentscheidung.
+4. Die behauptete Mangelhaftigkeit wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00004.19W.0129.000

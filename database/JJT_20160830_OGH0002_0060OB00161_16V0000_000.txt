@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.2016
+Geschäftszahl
+6Ob161/16v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte Dr. Schramm, Dr. Gitschthaler, Dr. Nowotny und Dr. Hargassner als weitere Richter in der Firmenbuchsache der H***** GmbH, *****, wegen Offenlegung des Jahresabschlusses, über den außerordentlichen Revisionsrekurs der Gesellschaft und des Geschäftsführers W*****, beide vertreten durch Mag. Ralph Kilches, Rechtsanwalt in Wien, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 28. Juni 2016, GZ 28 R 159/16g-12, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird mangels der Voraussetzungen des § 15 Abs 1 FBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Text
+Begründung:
+Das Erstgericht wies den Wiedereinsetzungsantrag in den vorigen Stand der Gesellschaft und ihres Geschäftsführers gegen die Versäumung der Frist zur Erhebung des Einspruchs gegen die Zwangsstrafverfügungen vom 20. 10. 2014 ab.
+Mit dem angefochtenen Beschluss bestätigte das Rekursgericht diesen Beschluss mit der Maßgabe, dass es den Wiedereinsetzungsantrag zurückwies. Der Wieder-einsetzungsantrag sei verspätet, weil sich der Rechtsanwalt der Rechtsmittelwerber schon im Hinblick auf das länger als drei Wochen zurückliegende Datum der Zwangsstrafverfügungen nicht auf die unbelegten Angaben des Geschäftsführers bei der Besprechung am 21. 11. 2014 hätte verlassen dürfen, diese seien am 12. 11. 2014 „übernommen worden“. Im Übrigen wäre der Wiedereinsetzungsantrag auch inhaltlich nicht berechtigt. Von einem Geschäftsführer einer GmbH sei zu verlangen, dass er die einen Fristenlauf in Gang setzende Zustellung eines gerichtlichen Schriftstücks, das er selbst übernommen habe und das mit seiner beruflichen Tätigkeit in Zusammenhang stehe, in Evidenz halte.
+Rechtliche Beurteilung
+Der außerordentliche Revisionsrekurs zeigt keine erhebliche Rechtsfrage (§ 62 Abs 1 AußStrG) auf.
+Wurde die Prozesshandlung durch einen Irrtum versäumt, dann beginnt nach ständiger Rechtsprechung die Frist für den Antrag auf Wiedereinsetzung in den vorigen Stand mit dessen möglicher Aufklärung, sofern diese durch auffallende Sorglosigkeit unterblieben ist (RIS-Justiz RS0036742; RS0036608). Ob die Beurteilung des Rekursgerichts, der Wiedereinsetzungsantrag sei verspätet gestellt worden, unrichtig ist, ist nicht entscheidend, denn seine weitere Beurteilung, der Wiedereinsetzungsantrag sei inhaltlich nicht begründet, ist vertretbar.
+Die Frage, ob der Partei eine die Bewilligung der Wiedereinsetzung hindernde grobe Fahrlässigkeit an der Versäumung zur Last liegt (§ 15 Abs 1 FBG iVm § 21 AußStrG und § 146 Abs 1 letzter Satz ZPO), hängt ganz von den Umständen des Einzelfalls ab und bildet deshalb in der Regel keine Rechtsfrage im Sinn des § 62 Abs 1 AußStrG.
+Der Geschäftsführer hat die dem Verfahren zugrundeliegende Zwangsstrafverfügung gegen die Gesellschaft am 23. 10. 2014 übernommen. Die gegen ihn persönlich gerichtete Zwangsstrafverfügung wurde am 23. 10. 2014 durch Hinterlegung zugestellt. Das Zustellstück behob er am 3. 11. 2014.
+Vom Landesgericht Leoben gegen eine Schwestergesellschaft mbH, deren Geschäftsführer der Rechtsmittelwerber ist, und den Rechtsmittelwerber erlassene Zwangsstrafverfügungen vom 22. 10. 2014 wurden nach den im Rekurs nicht bekämpften Festellungen des Erstgerichts durch Hinterlegung am 27. 10. 2014 zugestellt und vom Rechtsmittelwerber am 3. 11. 2014 bei der Post behoben.
+Der Wiedereinsetzungsantrag wurde damit begründet, dass aufgrund der insgesamt vier zugestellten Zwangsstrafverfügungen, die alle rund um den 20. 10. 2014 datierten, der nachvollziehbare Fehler entstanden sei, dass die Terminvormerkung für die Besprechung mit dem Parteienvertreter irrtümlich für allesamt einheitlich vorgemerkt worden sei.
+Dem ist zu entnehmen, dass der Geschäftsführer es unterließ, die Tage der Zustellung der gerichtlichen Schriftstücke zu vermerken, und nicht einmal den Tag der Behebung der Zustellstücke bei der Post festhielt.
+In der Entscheidung 9 ObA 92/92 hat der Oberste Gerichtshof ausgesprochen, dass es auffallend sorglos ist, wenn gerichtliche Zustellstücke nicht bereits beim Einlangen, sondern erst bei der Vorlage an den Geschäftsführer mit einem Eingangsvermerk versehen werden. Vor diesem Hintergrund ist die Beurteilung, der Geschäftsführer habe auffallend sorglos gehandelt, jedenfalls vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00161.16V.0830.000

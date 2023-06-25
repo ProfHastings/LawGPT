@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2014
+Geschäftszahl
+7Ob41/14a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und durch die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei B***** T*****, vertreten durch Hopmeier Wagner Kirnbauer Rechtsanwälte OG in Wien, gegen die beklagte Partei K***** S*****, vertreten durch Dr. Ursula Xell-Skreiner, Rechtsanwältin in Wien, wegen Zustimmung zur Ausfolgung eines Gerichtserlags, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien vom 19. Dezember 2013, GZ 15 R 200/13m-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Eine Nichtigkeit des Berufungsurteils nach § 477 Abs 1 Z 9 ZPO ist nicht gegeben (§ 510 Abs 3 ZPO).
+2. Die Klägerin behauptet eine Aktenwidrigkeit, weil es den erstgerichtlichen Tatsachenfeststellungen widerspreche, dass sie eine isolierte Abtretung des Bezugsrechts aus der Lebensversicherung im Ablebensfall konstruiere. Sie verkennt damit den Begriff der Aktenwidrigkeit, die keinesfalls in (allenfalls unrichtigen) rechtlichen Schlussfolgerungen bestehen kann, sondern vielmehr nur in einem - hier nicht vorliegenden - Widerspruch von tatsächlichen Annahmen des Gerichts zum Akteninhalt (RIS-Justiz RS0043347).
+3. § 5 VersVG schafft eine Genehmigungsfiktion (RIS-Justiz RS0115114, RS0080284) bei Abweichungen der Polizze vom Antrag. Zum Schutz des Versicherungsnehmers ist seine Genehmigung nur dann anzunehmen, wenn der Versicherer bei Aushändigung des Versicherungsscheins auf die abweichenden Rechtsfolgen und das Widerspruchsrecht hingewiesen hat; dieser Hinweis hat entweder durch besondere schriftliche Mitteilung oder durch einen allfälligen Vermerk im Versicherungsschein, der aus dem übrigen Inhalt hervorzuheben ist, zu geschehen; ferner ist auf die Abweichungen aufmerksam zu machen.
+3.1 Zutreffend legte das Berufungsgericht seiner Entscheidung die ständige Rechtsprechung des Obersten Gerichtshofs zugrunde, wonach grundsätzlich jede Partei die für ihren Rechtsstandpunkt günstigen Tatsachen zu beweisen hat (RIS-Justiz RS0037797). Die Klägerin gründet ihren Anspruch auf Auszahlung der Versicherungssumme an sie darauf, dass mangels Vorliegens der Voraussetzungen des § 5 Abs 3 VersVG der von der Versicherungspolizze abweichende Inhalt des Versicherungsantrags gelte, wonach nicht die - nach der Polizze begünstigte - Beklagte, sondern die Überbringerin - also die Klägerin - bezugsberechtigt sei. Es wäre daher Sache der Klägerin gewesen, das Fehlen der Voraussetzungen für die Annahme der Genehmigungsfiktion nach § 5 Abs 3 VersVG unter Beweis zu stellen, was ihr aber nicht gelungen ist.
+3.2 Die Klägerin argumentiert, das Berufungsgericht habe die Beweislastfrage unrichtig gelöst, weil § 5 Abs 3 VersVG eine gesetzliche Vermutung im Sinn des § 270 ZPO enthalte, weshalb es an der Beklagten gelegen sei, das Vorliegen der Voraussetzungen des § 5 Abs 3 VersVG positiv zu beweisen. § 270 ZPO ist aber nur auf gesetzliche Vermutungen und nicht auf Fiktionen anzuwenden (Rechberger in Fasching/Konecny² III § 270 Rz 7, derselbe in Rechberger³ § 270 ZPO Rz 5).
+4. Die Ansicht der Klägerin, bei richtiger rechtlicher Beurteilung hätte das Berufungsgericht erkennen müssen, dass die auf einem gültigen Titelgeschäft beruhende Zession der Versicherungssumme an die Klägerin formfrei erfolgen habe können, entbehrt jeder näheren Auseinandersetzung mit der Begründung des Berufungsgerichts, warum auch die Berufung auf eine Zession der Versicherungssumme durch die Erblasserin nicht zur Bejahung eines Auszahlungsanspruchs der Klägerin führen könne.
+5. Insgesamt zeigt die Klägerin keine erhebliche Rechtsfrage nach § 502 Abs 1 ZPO auf, von deren Lösung die Sachentscheidung abhängt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00041.14A.0422.000

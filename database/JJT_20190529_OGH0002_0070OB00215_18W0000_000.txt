@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2019
+Geschäftszahl
+7Ob215/18w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** B*****, vertreten durch Noll, Keider, Rechtsanwalts GmbH in Wien, gegen die beklagte Partei S***** AG, *****, vertreten durch Dr. Dominik Schärmer, Rechtsanwalt in Wien, wegen 259.752,87 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Zwischenurteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. August 2018, GZ 2 R 69/18h-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Anwendung der AÖSp auf den hier relevanten Teilabschnitt eines multimodalen Transports ist unbestritten; die einzige im Revisionsverfahren relevierte Rechtsfrage ist der Beginn der Verjährungsfrist nach § 64 AÖSp.
+2. Nach § 64 AÖSp verjähren alle Ansprüche gegen den Spediteur, gleichviel aus welchem Rechtsgrund und unabhängig vom Grad des Verschuldens, in sechs Monaten. Die Verjährung beginnt mit der Kenntnis des Berechtigten vom Anspruch, spätestens mit der Ablieferung des Gutes (7 Ob 65/19p; RS0106911; RS0119348; RS0049684).
+3. Grundsätzlich beschränkt § 54 AÖSp die Haftung betragsmäßig. Diese Beschränkung gilt nach § 51 lit b AÖSp aber nicht bei Vorliegen von Vorsatz oder grober Fahrlässigkeit (RS0049637).
+Der Kläger macht über die Betragsbeschränkung des § 54 AÖSp hinausgehende Schäden geltend, wofür er das Vorliegen von Vorsatz oder grober Fahrlässigkeit nachzuweisen hat (vgl RS0062591 [T7 und T9]). Erst mit Kenntnis der dafür relevanten Umstände konnte daher die Klage mit Aussicht auf Erfolg geltend gemacht werden und die Verjährungsfrist beginnen (RS0034524).
+4. Alle für die Haftung des Spediteurs bzw Frachtführers maßgeblichen gesetzlichen Regelungen (insbesondere CMR, HGB, AÖSp) unterstellen einen einheitlichen Begriff des groben Verschuldens (RS0049637 [T2]). An ihre Sorgfalt ist ein strenger Maßstab anzulegen (vgl RS0073798). Bei der Beurteilung, ob der Beklagten am Verlust der Fracht durch Diebstahl grobe Fahrlässigkeit anzulasten ist, kommt es daher, wie bereits zu den CMR ausgeführt, auf verschiedenste Faktoren an, wie zum Beispiel die örtliche Situation, sonstige örtliche und zeitliche Gegebenheiten, die Relation Wert/Gewicht der Waren, die Höhe des (unter anderem von dieser Relation abhängigen) Diebstahlrisikos, die konkreten Handlungen, die zum Diebstahl und Verbringen der Waren nötig sind (7 Ob 69/08k).
+5. Dass ein Schlüssel im unversperrten Fahrzeug gelassen wird, begründet nach der Rechtsprechung grobe Fahrlässigkeit. Anderes könnte gelten, wenn das Fahrzeug auf einem ansonsten versperrten oder überwachten Gelände zurückgelassen oder der Schlüssel in ein ungewöhnliches Versteck im versperrten Fahrzeug gelegt wurde (RS0111476; RS0066003 [auch T4]). Beides war hier nicht der Fall. Wie sich erst aus dem am 23. 8. 2016 übermittelten, auch auf Erhebungen am ausländischen Tatort basierenden Gutachten ergab, war der Parkplatz weder umzäunt noch bewacht und der Lkw, in dem der Zündschlüssel zurückgelassen wurde, unversperrt.
+Die Rechtsansicht, dass erst mit der Übermittlung dieses Gutachtens die Verjährungsfrist zu laufen begann, weil erst dann die Anspruchsvoraussetzungen bekannt wurden, ist nicht zu beanstanden.
+6. Augenscheinliche Mutmaßungen im Anspruchsschreiben des amerikanischen Anwalts reichen nicht aus, um die Verjährungsfrist in Gang zu setzen (RS0034524 [T66 und T68]).
+7. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00215.18W.0529.000

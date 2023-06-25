@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.09.1950
+Geschäftszahl
+1Ob472/50
+Norm
+ABGB §308;
+ABGB §364c;
+EO §87;
+Grundbuchsgesetz §9;
+Kopf
+SZ 23/255
+Spruch
+Ein bücherlich eingetragenes Veräußerungs- und Belastungsverbot zwischen Eltern und Kindern steht der Eintragung oder Vormerkung eines exekutiven Pfandrechtes entgegen.
+Entscheidung vom 20. September 1950, 1 Ob 472/50.
+I. Instanz: Bezirksgericht Schwechat; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Landesgericht für Zivilrechtssachen Wien hat dem Franz E. auf Grund des gegen Franz L. erwirkten Urteils dieses Gerichtes zur Sicherung seiner Forderung von 25.000 S s. A. die Exekution durch bücherliche Vormerkung des Pfandrechtes auf die dem Verpflichteten gehörigen Liegenschaften des Grundbuches des Bezirksgerichtes Schwechat, und zwar der 3/12 Anteile der EZ. 483 als Haupteinlage und der halben Anteile der EZ. 484, 485 KG. Schwechat als Nebeneinlage, bewilligt.
+Zufolge Beschlusses des Erstgerichtes wurde diese grundbücherliche Eintragung vollzogen.
+Gegen diesen Beschluß erhob Leopoldine Z. Rekurs unter Hinweis darauf, daß in den genannten Grundbucheinlagen rücksichtlich der Anteile des Verpflichteten Franz L., der ihr Bruder ist, zu ihren Gunsten das Veräußerungs- und Belastungsverbot auf Grund der Einantwortungsurkunde in der Verlassenschaft nach Franz L. sen. eingetragen ist.
+Diesem Rekurs hat das Rekursgericht Folge gegeben mit der Begründung, laut Buchstandsbericht seien die von der Rekurrentin behaupteten Verbote tatsächlich, u. zw. auf Grund der Einantwortungsurkunde des Bezirksgerichtes Schwechat vom 28. Juli 1941, GZ. A 363/40, ob den Anteilen des Verpflichteten einverleibt. Gemäß § 364c ABGB. wirke ein vertragsmäßiges oder letztwilliges Veräußerungs- oder Belastungsverbot gegen Dritte dann, wenn es zwischen Eltern und Kindern begrundet und im öffentlichen Buche eingetragen wurde, was im vorliegenden Falle zutreffe.
+Der Oberste Gerichtshof bestätigte diesen Beschluß.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs beruft sich auf die Entscheidung des Obersten Gerichtshofes vom 28. Februar 1900, GlUNF. 912, wonach ein Veräußerungsverbot, welches logisch auch das Belastungsverbot in sich begreife, lediglich die Natur einer obligatorischen Verpflichtung habe und auch durch die bücherliche Auszeichnung in seiner rechtlichen Natur nicht verändert werde, weil nur jene Rechte gegen jedermann wirken, die das Gesetz ausdrücklich als dingliche Rechte bezeichne (§ 308 ABGB.) oder rücksichtlich deren das Gesetz eine Verdinglichung gestatte (§ 9 GBG.), was rücksichtlich des Veräußerungs- und Belastungsverbotes jedoch nicht der Fall sei.
+Der Revisionsrekurs übersieht jedoch die seither durch die Novellierung des allgemeinen bürgerlichen Gesetzbuches eingetretene Änderung der Gesetzeslage, hier die Einfügung des § 364c ABGB.
+Da auf den Liegenschaftsanteilen des Verpflichteten das Veräußerungs- und Belastungsverbot einverleibt ist und ein durch Eintragung in das öffentliche Buch auch gegen Dritte wirksames Veräußerungs- und Belastungsverbot, wie sich aus der Entstehungsgeschichte des § 364c ABGB. ergibt, auch Belastungen im Wege der Exekutionsführung hindert, hat das Rekursgericht entgegen der Auffassung des Rechtsmittelwerbers mit vollem Rechte dem Antrage auf Vollzug der Eintragung keine Folge gegeben.
+Die der Eintragung des Belastungs- und Veräußerungsverbotes zugrunde liegenden wirtschaftlichen und rechtlichen Zwecke zu erforschen und zu berücksichtigen, steht weder dem Exekutionsgerichte noch dem Rekursgerichte zu. Die Tatsache allein, daß das Veräußerungs- und Belastungsverbot bücherlich haftet, hindert die Pfandrechtsbegründung. Der Rechtsstand einer solchen Eintragung könnte nur im Streitwege angefochten und die Löschung der Eintragung oder deren Unwirksamkeit gegenüber dem betreibenden Gläubiger nur im Klagswege durchgesetzt werden.
+Die Rechtsprechung hat nur zwei Ausnahmen von dem Grundsatz der Unzulässigkeit der Zwangsvollstreckung auf mit Veräußerungs- und Belastungsverboten belasteten Liegenschaften anerkannt. Die eine bildet der Fall, daß es sich um ein gesetzliches Pfandrecht handelt (SZ. XII/57), die andere der Fall, daß nach dem Inhalte des Verbotes eine bestimmte Person berechtigt ist, die Veräußerung oder Belastung zu untersagen und daß diese Person der Bestellung des Pfandrechtes zugestimmt hat, zu dessen Verwertung Exekution geführt werden soll (SZ. XV/17).
+Keiner dieser Fälle trifft hier zu.

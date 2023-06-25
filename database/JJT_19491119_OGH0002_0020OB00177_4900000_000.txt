@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.11.1949
+Geschäftszahl
+2Ob177/49
+Norm
+ABGB §1323;
+Schillinggesetz §4;
+Kopf
+SZ 22/179
+Spruch
+Übersteigt der begehrte Schadenersatz den zwischen den Parteien für den Schadensfall vereinbarten Höchstbetrag, so ist bei culpa levis nur dieser zu bezahlen und einer Aufwertung entzogen.
+Entscheidung vom 19. November 1949, 2 Ob 177/49.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Kläger hatte bei der Filiale der beklagten Bank in B. ein großes Schrankfach gemietet, dessen Jahresmiete 20 RM betrug. Dem Mietvertrag lagen die Bedingungen für die Vermietung von Schrankfächern - Fassung September 1941 - zugrunde. Nach Punkt 3 dieser Bedingungen hatte die Beklagte als Vermieterin die im Verkehr erforderliche Sorgfalt anzuwenden, haftete jedoch nur bis zur Höhe der 500fachen Jahresmiete, im Höchstfall bis zu 20.000 RM für jedes Schrankfach, und nicht über den tatsächlichen unmittelbaren Schaden zur Zeit des Verlustes hinaus. Nach Punkt 5 Abs. 4 dieser Bedingungen hatte dem Mieter der Zutritt zum Schrankfach während der üblichen Geschäftsstunden in Begleitung eines Beamten der Bank jederzeit offenzustehen. Am Karsamstag, den 31. März 1945, wollte A. S., die Bevollmächtigte des Klägers, das Schrankfach entleeren, fand aber keinen Zutritt, weil die Gegenschlüssel der beklagten Bank zum Tresor und zum Schrankfach verlegt waren, und mußte unverrichteter Dinge nach Wien fahren. Am Ostermontag konnte A. S. den erwähnten Auftrag nicht ausführen, weil die Bank gesperrt war. Das Schrankfach wurde am 9. April 1945 von der russischen Militärkommandantur geöffnet und der Inhalt beschlagnahmt. Der Kläger begehrt in der Klage den Ersatz der im Schrankfach enthaltenen Gegenstände, die im Verfahren erster Instanz schließlich mit 375.000 S bewertet wurden.
+Das Prozeßgericht verurteilte die beklagte Partei zur Zahlung von 10.000 S s. A.
+Das Berufungsgericht bestätigte das erstgerichtliche Urteil.
+Der Oberste Gerichtshof gab der Revision des Klägers keine Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Haftung der Bank ist nach den Feststellungen der Untergerichte dadurch begrundet, daß sie entgegen den Vertragsbedingungen die im Verkehr erforderliche Sorgfalt nicht angewendet und dem Mieter während der Geschäftsstunden den Zutritt zum Schrankfach nicht ermöglicht hat. Es handelt sich also um den Ersatz des Schadens, der aus einem minderen Grade des Versehens oder der Nachlässigkeit entstanden ist und der nach § 1332 ABGB. nach dem gemeinen Wert, den die Sache zur Zeit der Beschädigung hatte, ersetzt wird. Durch die Bedingungen für die Vermietung von Schrankfächern wurde aber diese Haftung der Bank auf das 500fache des Jahresmietzinses begrenzt, also im vorliegenden Falle auf 10.000 RM. Sobald die Schadenshöhe diesen Betrag überschreitet, ist für den Ersatz des Schadens nicht mehr die Höhe des gemeinen Wertes, sondern nur der vereinbarte Höchstbetrag maßgebend. Die Ersatzforderung wurde durch diese Vereinbarung im Falle des Übersteigens des Höchstbetrages zu einer Summenforderung. Die in dem Judikat Nr. 15, SZ. VI/226, zum Ausdruck gebrachten Grundsätze, daß für die Festsetzung des gemeinen Wertes oder Handelswertes, den ein Gut in einem verflossenen Zeitraum hatte, die zwischen diesem und dem Zeitpunkte der gerichtlichen Festsetzung des Ersatzbetrages eingetretene Wertänderung zu berücksichtigen ist, kommen daher nicht zur Anwendung. Für die Summenforderung ist die Zahlkraft der entwerteten Währung aufrechterhalten. Der Kläger kann an Stelle des vereinbarten Höchstbetrages von 10.000 RM nur jenen Betrag verlangen, der auf Grund des Schillinggesetzes vom 30. November 1945, StGBl. Nr. 231, zu leisten ist, somit den Betrag von 10.000 S. Es erübrigt sich daher auch eine Erörterung, ob ein Betrag von 10.000 S im Zeitpunkte der Schadenszufügung eine höhere Kaufkraft hatte als ein Betrag von 10.000 S zur Zeit der Urteilsfällung.

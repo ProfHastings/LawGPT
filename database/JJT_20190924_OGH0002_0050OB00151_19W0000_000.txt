@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2019
+Geschäftszahl
+5Ob151/19w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerin S*****, geboren am *****, vertreten durch Dr. Christian Radetic, öffentlicher Notar in Linz, wegen Einverleibung des Eigentumsrechts und weiterer Grundbuchseintragungen ob der EZ ***** KG *****, über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts Linz als Rekursgericht vom 16. Juli 2019, AZ 32 R 64/19s, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+Das Rekursgericht bestätigte den das Grundbuchsgesuch abweisenden Beschluss des Erstgerichts, weil die Antragstellerin als Eintragungsgrundlage eine teilweise geschwärzte Vergleichsausfertigung vorgelegt hatte, die nicht als Originalurkunde im Sinn des § 87 GBG zu werten sei.
+Rechtliche Beurteilung
+Die Antragstellerin zeigt in ihrem dagegen erhobenen außerordentlichen Revisionsrekurs keine erhebliche Rechtsfrage auf.
+1. § 87 Abs 1 GBG verlangt, die Urkunden, aufgrund derer eine Eintragung erfolgen soll, im Original beizulegen. Bei öffentlichen Urkunden wird dem Erfordernis der Vorlage des Originals durch Vorlage einer Ausfertigung entsprochen (RIS-Justiz RS0061077 [T3]; Kodek in Kodek, Grundbuchsrecht2 § 87 GBG Rz 8 mwN). Ob eine Vergleichsausfertigung, auf der nachträglich Schwärzungen erfolgten, mit dem Erstgericht als „nicht dem Original entsprechend“ oder mit dem Rekursgericht gar nicht als Original im Sinn des § 87 GBG anzusehen ist, kann dahinstehen. Jedenfalls handelt es sich dabei nicht um die vom Gericht erstellte Ausfertigung der öffentlichen Urkunde.
+2. Die Eigentumseinverleibung aufgrund einer Teilausfertigung eines Scheidungsfolgenvergleichs hat der erkennende Fachsenat bereits mit der Begründung abgelehnt, dass in formeller Hinsicht eine derartige Teilausfertigung oder ein Auszug eines Scheidungsfolgenvergleichs keine dem § 87 Abs 1 GBG entsprechende Originalurkunde sei (vgl RS0130874; 5 Ob 250/15y = NZ 2016/117 [zust Hoyer]).
+3. Die im Revisionsrekurs zitierte Entscheidung 5 Ob 182/98w ist nicht einschlägig, weil Bewilligungsurkunde dort ein Kaufvertrag – und nicht etwa die Ausfertigung einer öffentlichen Urkunde – war. Die dort inhaltlich nach wie vor lesbare und für den Inhalt des Kaufvertrags nicht wesentliche gestrichene Vertragsbestimmung prüfte der Fachsenat nur unter dem Gesichtspunkt des § 27 Abs 1 GBG (sichtbare Mängel, die die Glaubwürdigkeit schwächen); die Frage der Originaleigenschaft im Sinn des § 87 GBG beurteilte er nicht.
+4. Es entspricht ständiger Rechtsprechung, dass es dem Grundbuchsgericht verwehrt ist, eine undeutliche und zu begründeten Zweifeln Anlass gebende Urkunde auszulegen, und dass durch den Inhalt der Urkunde erweckte und nicht restlos beseitigte Zweifel zur Abweisung eines Grundbuchsgesuchs zu führen haben (RS0060573). Ob die Urkunden zu Zweifeln Anlass geben, ist eine Frage des Einzelfalls, die nur dann eine erhebliche Rechtsfrage begründen könnte, wenn dem Rekursgericht eine grobe Fehlbeurteilung unterlaufen ist (RS0060573 [T18]). Davon kann hier keine Rede sein, ist doch nach der Judikatur (vgl RS0010950) die Grundbuchsurkunde in ihrer Gesamtheit zu beurteilen. Die Auffassung der Vorinstanzen, dies sei aufgrund der in einigen Bereichen geschwärzten und daher nicht als Originalurkunde im Sinn des § 87 Abs 1 GBG anzusehenden Vergleichsausfertigung nicht ausreichend möglich gewesen, hält sich im Rahmen der Rechtsprechung und bedarf daher keiner Korrektur durch den Obersten Gerichtshof.
+5. Der außerordentliche Revisionsrekurs war daher zurückzuweisen, ohne dass dies einer weiteren Begründung bedürfte (§ 71 Abs 3 AußStrG iVm § 126 Abs 3 GBG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00151.19W.0924.000

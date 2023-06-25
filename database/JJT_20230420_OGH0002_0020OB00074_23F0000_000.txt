@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.04.2023
+Geschäftszahl
+2Ob74/23f
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda, und Dr. Kikinger als weitere Richter in der Verlassenschaftssache nach dem am * 2019 verstorbenen D*, über den außerordentlichen Revisionsrekurs des Testamentsvollstreckers D*, vertreten durch Eiselsberg Rechtsanwälte GmbH in Wien, gegen den Beschluss des Landesgerichts Salzburg als Rekursgericht vom 21. Februar 2023, GZ 21 R 260/22i-56, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen zwei Kindern des Erblassers und einer vom Erblasser im Testament vom 2. 9. 2008 als Alleinerbin eingesetzten Stiftung ist wegen widersprechender Erbantrittserklärungen vor dem Erstgericht ein Verfahren über das Erbrecht anhängig.
+[2] 		Die Vorinstanzen wiesen den Antrag des Revisionsrekurswerbers, das ist einer der drei vom Erblasser im Testament ernannten Testamentsvollstrecker, ihm als Partei im Verfahren über das Erbrecht Akteneinsicht zu gewähren, ab.
+Rechtliche Beurteilung
+[3] 		In seinem dagegen erhobenen außerordentlichen Revisionsrekurs zeigt der Testamentsvollstrecker keine erhebliche Rechtsfrage auf.
+[4] 		1.1 Einem Testamentsvollstrecker kommt Parteistellung lediglich beschränkt auf seinen Aufgabenbereich zu. Auf die Durchführung der Abhandlung an sich kann er nicht Einfluss nehmen. Seine Parteistellung besteht daher nur insoweit, als er sein Überwachungsrecht ausübt, das sich nur auf behauptete Verletzungen der letztwilligen Anordnungen beziehen kann (vgl 3 Ob 227/56 = EvBl 1957/73; 2 Ob 124/18a; RS0106750).
+[5] 		1.2 Nach gesicherter Rechtsprechung reichen Reflexwirkungen (bzw Tatbestandswirkungen) allein nicht aus, um eine materielle Parteistellung iSd § 2 Abs 1 Z 3 AußStrG zu begründen (RS0123028; RS0120841 [T2, T3]). Eine solche Reflexwirkung ist dann anzunehmen, wenn das historische Ereignis einer Entscheidung Bedeutung für ein weiteres Verfahren hat oder einen Sachverhalt schafft, der ein anders umschriebenes Tatbestandsmerkmal erfüllt (RS0041401, RS0041431) .
+[6] 		1.3 Die in § 2 Abs 1 Z 3 AußStrG vorausgesetzte „rechtlich geschützte Stellung“ ist noch nicht jede Rechtsstellung oder jegliches rechtliches Interesse, sondern es ist auf den jeweiligen Verfahrenszweck Bedacht zu nehmen (RS0128451). Zweck des Verfahrens nach §§ 160 ff AußStrG ist die Feststellung des Erbrechts, weshalb alle Erbprätendenten, die eine Erbantrittserklärung abgegeben haben, auch Partei des Verfahrens sind (2 Ob 54/18g). Bei Widerspruch zwischen Erbantrittsklärungen und einer Erklärung der Finanzprokuratur nach § 184 AußStrG ist auch die Republik Österreich Partei (2 Ob 54/18g).
+[7] 		2.1 Die von den Vorinstanzen vertretene Ansicht, dass sich die Entscheidung über das zwischen den Kindern des Erblassers und der Stiftung strittige Erbrecht auf die rechtliche geschützte Stellung des Testamentsvollstreckers nicht unmittelbar auswirken wird, hält sich im Rahmen der aufgezeigten Judikatur. Es bedarf daher keiner Korrektur durch gegenteilige Sachentscheidung, wenn das Rekursgericht im Anlassfall davon ausgegangen ist, dass sich die Entscheidung über das Erbrecht allenfalls als Reflexwirkung auf die Funktion des Testamentsvollstreckers auswirken könnte, zumal die Aufgaben des Testamentsvollstreckers erst an die Ergebnisse des Erbrechtsstreits anknüpfen. Der Hinweis im Rechtsmittel, es gehöre zur zentralen Aufgabe des Testamentsvollstreckers, den letzten Willen des Erblassers durchzusetzen und er daher für die Gültigkeit eintreten müsse, blendet den Umstand aus, dass der Erfüllung dieser Aufgabe die (im Erbrechtsstreit zu erfolgende) Klärung der Frage vorgelagert ist, ob der Erblasser seinen letzten Willen überhaupt wirksam verfügt hat.
+[8] 		2.2 Die Zulässigkeit des Rechtsmittels kann auch nicht auf die Entscheidung 2 Ob 239/03s gestützt werden. In dem dieser Entscheidung zugrunde liegenden Verlassenschaftsverfahren war über einen ausdrücklichen Feststellungsantrag der dort erbserklärten Kinder zu entscheiden, ob der Testamentsvollstrecker wirksam vom Erblasser eingesetzt wurde und ihm Parteistellung zukam. Die Bestellung des (vermeintlichen) Testamentsvollstreckers war damit der Gegenstand im dortigen Verfahren(sabschnitt), weshalb sein Rechtsmittel inhaltlich behandelt wurde. Davon unterscheidet sich der vorliegende Erbrechtsstreit, in dem die Bestellung des Rechtsmittelwerbers zum Testamentsvollstrecker nicht zu prüfen ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00074.23F.0420.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.04.1959
+Geschäftszahl
+5Ob63/59
+Norm
+ABGB §364c;
+KO §119;
+Kopf
+SZ 32/43
+Spruch
+Ein im Grundbuch eingetragenes vertragsmäßiges Veräußerungsverbot hindert die konkursmäßige Versteigerung.
+Entscheidung vom 1. April 1959, 5 Ob 63/59.
+I. Instanz: Kreisgericht Leoben; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Konkurskommissär hat mit Beschluß vom 20. Juni 1958 entschieden, daß der ideelle Hälfteanteil des Gemeinschuldners an der Liegenschaft EZ. 199 KG. J. in das Massevermögen einzubeziehen sei, obwohl auf Grund des Übergabsvertrages vom 23. Juni 1950, mit dem der Gemeinschuldner diesen Hälfteanteil von seinen Schwiegereltern Andreas und Kunigunde L. erwarb, das Veräußerungs- und Belastungsverbot zugunsten des Veräußerers Andreas L. - Kunigunde L. ist mittlerweile verstorben - grundbücherlich einverleibt ist. Dem Rekurs des Andreas L. wurde keine Folge gegeben, doch wies das Rekursgericht in der Begründung seiner Entscheidung darauf hin, daß es fraglich sei, ob infolge des Belastungs- und Veräußerungsverbotes eine Verwertung des Liegenschaftsanteiles möglich sein werde.
+Mit dem Beschluß des Konkurskommissärs vom 1. August 1958 wurde auf Antrag des Masseverwalters die konkursmäßige Versteigerung des Hälfteanteiles des Gemeinschuldners bewilligt.
+Das Rekursgericht wies infolge Rekurses des Andreas L. den Antrag des Masseverwalters ab. Jener gehöre als Schwiegervater des Gemeinschuldners zu den im § 364c ABGB. genannten Personen, zu deren Gunsten ein Veräußerungs- und Belastungsverbot begrundet werden könne. Der Masseverwalter habe in seinem Antrag nicht behauptet, daß die dinglichen Wirkungen des Verbotes trotz dessen grundbücherlicher Einverleibung nicht gegeben seien. Das Veräußerungsverbot hindere nach Lehre und Rechtsprechung auch die konkursmäßige Verwertung einer Liegenschaft durch Zwangsversteigerung, denn das Eigentumsrecht des Gemeinschuldners sei durch das Verbot beschränkt.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Masseverwalters nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 364c 2. Satz ABGB. wirkt das rechtsgeschäftliche Verbot der Veräußerung oder Belastung eines Grundstücks oder eines dinglichen Rechtes unter der Voraussetzung gegen Dritte, daß es unter den dort bezeichneten Verwandten begrundet und im Grundbuch eingetragen wurde. Der Revisionswerber behauptet nicht, daß diese Voraussetzungen nicht erfüllt seien. Er ist der Meinung, § 1 KO. besage, daß der Konkurs grundsätzlich das gesamte der Exekution unterworfene Vermögen des Gemeinschuldners erfasse und es nicht Zweck des § 364c ABGB. sein könne, daß ein Liegenschaftseigentümer durch Rechtsgeschäfte unter Umständen sein ganzes Liegenschaftsvermögen den Gläubigern, beispielsweise zugunsten seiner Ehefrau, entziehen könne. Dem ist zu entgegnen, daß im Konkurs- oder Exekutionsverfahren nur das Vorliegen der Voraussetzungen des § 364c ABGB. überprüft werden kann. Sollte die bücherliche Eintragung eines solchen Verbotes auf einem anfechtbaren Rechtsgeschäft beruhen, kann darüber nur im Prozeßweg entschieden werden (SZ. XX 115). Ein bücherlich eingetragenes Veräußerungsverbot hindert auch die konkursmäßige Versteigerung, weil sich die dingliche Wirkung dieser Eigentumsbeschränkung auf jeden Dritten, also auch auf die Konkursgläubiger, erstreckt. Die weitere Behauptung des Rekurswerbers, daß der angefochtenen Entscheidung der frühere Beschluß vom 20. Juni 1958 und die diesen Beschluß bestätigende rekursgerichtliche Entscheidung entgegenstunden, trifft nicht zu, denn durch diese Entscheidungen konnte nicht in die Rechte Dritter eingegriffen werden. Dies war auch, wie sich aus der oben angeführten Begründung der Entscheidung des Rekursgerichtes ergibt, nicht beabsichtigt.

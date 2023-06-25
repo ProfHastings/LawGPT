@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.03.2017
+Geschäftszahl
+4Ob10/17z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Bundeskammer für Arbeiter und Angestellte, *****, vertreten durch Dr. Walter Reichholf, Rechtsanwalt in Wien, gegen die beklagte Partei I*****, vertreten durch Dorda Brugger Jordis Rechtsanwälte GmbH in Wien, wegen Unterlassung (Streitwert 31.000 EUR und 12.000 EUR) und Urteilsveröffentlichung (Streitwert 6.000 EUR), im Verfahren über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. September 2016, GZ 4 R 33/16a-14, mit dem das Urteil des Handelsgerichts Wien vom 15. Dezember 2015, GZ 39 Cg 32/14w-10, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Revisionsverfahren wird bis zur Entscheidung des Europäischen Gerichtshofs über das vom Obersten Gerichtshof zu 8 Ob 88/16y gestellte Vorabentscheidungsersuchen unterbrochen.
+Nach Einlangen der Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+Die klagende Kammer ist zur Geltendmachung von Unterlassungsansprüchen nach § 28a KSchG bzw § 14 UWG berechtigt. Die beklagte Bank betreibt österreichweit das Bankgeschäft und verwendet im geschäftlichen Verkehr mit Verbrauchern Allgemeine Geschäftsbedingungen (AGB).
+Die klagende Partei begehrte, – soweit für das Revisionsverfahren noch von Relevanz – der beklagten Partei zu verbieten, Zahlungsdienstnutzern Änderungen des Rahmenvertrags auf der Grundlage einer Vereinbarung nach § 28 Abs 1 Z 6 lit a ZaDiG ohne Hinweis gemäß § 29 Abs 1 Z 2 lit b ZaDiG vorzuschlagen und ihnen Informationsschreiben zu vorgeschlagenen Änderungen nach § 29 Abs 1 ZaDiG zu übermitteln, die von der klagenden Partei aus näher genannten Gründen unzureichend seien. Die „Direkt-Sparkonten“ der beklagten Partei seien als Zahlungskonten nach § 3 Z 13 ZaDiG zu qualifizieren, weshalb insbesondere § 29 ZaDiG anzuwenden sei.
+Die beklagte Partei wandte ein, dass das ZaDiG nicht auf „Direkt-Sparkonten“ anwendbar sei, weil damit keine Teilnahme am Zahlungsverkehr ermöglicht werde. Es seien nur Überweisungen vom und auf das „Referenzkonto“ vorgesehen. Diese seien keine Zahlungsdienstleistungen.
+Die Vorinstanzen wiesen die Klage ab und schlossen sich hinsichtlich der Anwendung des ZaDiG der Rechtsansicht der beklagten Partei an.
+Gegen diese Entscheidung richtet sich die Revision der klagenden Partei, in der sie im Wesentlichen damit argumentiert, dass das ZaDiG auf die „Direkt-Sparkonten“ der beklagten Partei anwendbar sei.
+Rechtliche Beurteilung
+Das Revisionsverfahren ist zu unterbrechen.
+1. Der im Revisionsverfahren zu prüfende Unterlassungsanspruch ist davon abhängig, ob das ZaDiG, mit dem die Zahlungsdienste-Richtlinie 2007/64/EG umgesetzt wurde, hier anwendbar ist, weil die klagende Partei ihren Unterlassungsanspruch darauf stützt, dass die beklagte Partei gegen dieses Gesetz verstoße.
+2. Zur Frage der Anwendbarkeit der  Zahlungsdienste-Richtlinie hat der Oberste Gerichtshof in der vergleichbaren Rechtssache zu 8 Ob 88/16y dem Gerichtshof der Europäischen Union gemäß Art 267 AEUV ein Ersuchen um Vorabentscheidung vorgelegt. Gegenstand dieses Vorabentscheidungsersuchens ist die Frage, ob Art 4 Z 14 der Zahlungsdienste-Richtlinie dahin auszulegen ist, dass auch ein Online-Sparkonto, auf das der jeweilige Kunde (mit täglicher Fälligkeit und ohne besondere Mitwirkung der Bank) Einzahlungen und Abhebungen im Wege des Telebankings von einem oder auf ein auf ihn lautendes Referenzkonto (ein Girokonto in Österreich) durchführen kann, unter den Begriff des „Zahlungskontos“ (Art 4 Nr 14) zu subsumieren ist und daher vom Anwendungsbereich der Richtlinie erfasst wird.
+3. Diese Frage ist auch für den hier zu beurteilenden Fall maßgeblich.
+4. Der Oberste Gerichtshof hat von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere als die unmittelbaren Anlassfälle anzuwenden. Ein späteres Verfahren, das – wie das vorliegende Verfahren im Verhältnis zum Verfahren 8 Ob 88/16y – dieselbe Rechtsfrage betrifft, ist daher nach ständiger Rechtsprechung aus prozessökonomischen Gründen zu unterbrechen (RIS-Justiz RS0110583).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00010.17Z.0328.000

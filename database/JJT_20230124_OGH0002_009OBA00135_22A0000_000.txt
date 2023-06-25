@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2023
+Geschäftszahl
+9ObA135/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Fichtenau als Vorsitzende, den Hofrat Mag. Ziegelbauer und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter Mag. Dr. Bernhard Gruber (aus dem Kreis der Arbeitgeber) und Mag. Philipp Brokes (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei R*, gegen die beklagte Partei O* GmbH & Co KG, *, vertreten durch die Ferner Hornung & Partner Rechtsanwälte GmbH in Salzburg, wegen 13.844,37 EUR netto zuzüglich 236,46 EUR brutto sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 9. November 2022, GZ 12 Ra 52/22m-25, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 			1. Nach ständiger Rechtsprechung stellt die Beurteilung, ob im Einzelfall ein Kündigungs- oder Entlassungsgrund verwirklicht wurde, keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO dar (RS0106298).
+[2] 		2. Der Entlassungsgrund nach § 27 Z 4 AngG zweiter Tatbestand ist verwirklicht, wenn sich der Angestellte beharrlich weigert, seine Dienste zu leisten oder sich den durch den Gegenstand der Dienstleistung gerechtfertigten Anordnungen des Dienstgebers zu fügen. Unter „beharrlich“ ist die Nachhaltigkeit, Unnachgiebigkeit oder Hartnäckigkeit des in der Dienstverweigerung zum Ausdruck gelangenden, auf die Verweigerung der Dienste bzw der Befolgung der Anordnung gerichteten Willens zu verstehen.
+[3] 		3. Das Berufungsgericht hat das Vorliegen des Entlassungsgrundes verneint. Es ist dabei der Rechtsprechung gefolgt, dass ein Arbeitnehmer berechtigt ist, seine Arbeitsleistung solange zurückzuhalten, bis der Arbeitgeber einen bereits fällig gewordenen Lohnrückstand gezahlt hat (RS0020176). Nach § 1155 Abs 1 ABGB gebührt dem Arbeitnehmer auch für Dienstleistungen, die nicht zustande gekommen sind, das Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Arbeitgebers liegen, daran verhindert worden ist; er muss sich jedoch anrechnen lassen, was er infolge Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat.
+[4] 		Es genügt, dass der Arbeitnehmer einen derartigen die Arbeitsverweigerung rechtfertigenden Grund im Prozess nachweist, ohne dass es darauf ankommt, ob er diesen Grund im Zeitpunkt der Ablehnung der Arbeit vorgebracht hat (RS0020176 [T2]).
+[5] 		4. Die Beklagte bestreitet in ihrer Revision weder, dass im relevanten Zeitraum Lohnrückstände bestanden, noch dass diese den Kläger grundsätzlich zur Zurückbehaltung seiner Arbeitsleistung berechtigt hätten. Sie meint jedoch, der Kläger habe die ihm übertragenen Aufgaben teilweise erfüllt und daher von seinem Leistungsverweigerungsrecht objektiv keinen Gebrauch gemacht.
+[6] 		Allerdings ist dadurch für die Beklagte nichts zu gewinnen.  Da durch das Vorenthalten des fälligen Lohnes die völlige Verweigerung der Arbeitsleistung gerechtfertigt gewesen wäre, kann sich die Beklagte nicht mit Erfolg darauf berufen, dass die Entlassung gerechtfertigt sei, weil der Kläger nur die ihm aufgetragene, nicht aber jegliche Arbeitsleistung verweigert habe (8 ObA 68/99d).
+[7] 		5. Richtig erkennt auch die Beklagte, dass der Umstand, ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, eine Frage des Einzelfalls ist, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung keine erhebliche Bedeutung zukommt (RS0042828). Wenn das Berufungsgericht davon ausgeht, dass die Beklagte kein ausreichendes Tatsachenvorbringen zur Beurteilung eines Mitverschuldens des Klägers an der ungerechtfertigten Entlassung erstattet hat, hält es sich – entgegen den Ausführungen in der Revision – im Rahmen des gesetzlich eingeräumten Ermessenspielraums.
+[8] 		Dass die Beklagte sich in erster Instanz darauf berufen hätte, dass sie bei Kenntnis des Rechtfertigungsgrundes des Klägers (Zurückbehaltung der Arbeitsleistung wegen Lohnrückstände) die Entlassung aller Voraussicht nach nicht ausgesprochen hätte (vgl 8 ObA 17/04i mwN; 8 ObA 68/99d), wird nicht einmal in der Revision behauptet.
+[9] 		6. Da das Berufungsgericht daher vertretbar davon ausgegangen ist, dass der Kläger ungerechtfertigt entlassen wurde, muss auf die Ausführungen zur Höhe der Ansprüche bei Vorliegen einer berechtigten Entlassung nicht weiter eingegangen werden.
+[10] 		7. Insgesamt gelingt es der Beklagten daher nicht das Vorliegens einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufzuzeigen. Die außerordentliche Revision ist daher zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:009OBA00135.22A.0124.000

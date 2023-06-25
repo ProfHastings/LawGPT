@@ -1,0 +1,68 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+17.01.2006
+Geschäftszahl
+Bsw42756/02
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer IV, Beschwerdesache Katharina Luginbühl gegen die Schweiz, Zulässigkeitsentscheidung vom 17.1.2006, Bsw. 42756/02.
+Spruch
+Art. 2 EMRK, Art. 6 EMRK, Art. 8 EMRK - Behauptete Gesundheitsbeeinträchtigung durch Mobilfunk.
+Unzulässigkeit der Beschwerde (mehrheitlich).
+Text
+Begründung:
+Sachverhalt:
+In Flawil, Kanton St. Gallen, beabsichtigten zwei private Mobilfunkanbieter den Ausbau einer Mobilfunkanlage. Trotz zahlreicher Anrainerproteste wurde das Projekt vom Planungsamt genehmigt und eine Baubewilligung erteilt. Ein dagegen eingebrachtes Rechtsmittel der Bf. wurde vom Baudepartement verworfen. Sie brachte daraufhin eine Klage beim Verwaltungsgericht ein, in der sie erfolglos die Annullierung des Bauprojekts und die Abhaltung einer öffentlichen Verhandlung verlangte. Sie wandte sich darauf mit einer Beschwerde an das Bundesgericht.
+Unter Berufung auf Art. 8 EMRK brachte die Bf. vor, dass die durch die Mobiltelefonie verursachten Emissionen ihre Gesundheit auch im Fall der Einhaltung der Grenzwerte beeinträchtigen könnten. Außerdem machte sie Verletzungen ihres Rechts auf Anhörung durch die Gerichte wegen unzureichender Berücksichtigung ihrer Beweisanträge geltend und verlangte die Abhaltung einer öffentlichen Verhandlung. Mit Urteil vom 15.12.2003 verwarf das Bundesgericht die Verwaltungsbeschwerde der Bf. Begründend führte es aus, dass es grundsätzlich den zuständigen Behörden zukomme, die Entwicklungen auf dem Mobilfunksektor zu beobachten und gegebenenfalls Maßnahmen zu ergreifen, sollte sich herausstellen, dass die Grenzwerte nicht dem Vorsorgeprinzip entsprächen.
+Ferner habe das Bundesumweltamt im Jahr 2003 eine wissenschaftliche Studie über allfällige gesundheitsbeeinträchtigende Auswirkungen durch die Mobiltelefonie veröffentlicht. Laut der Studie gäbe es derzeit keine wissenschaftliche Untersuchungen über direkte Auswirkungen von Mobilfunkantennen auf Menschen in deren unmittelbaren Umgebung. Die Frage einer Gesundheitsschädigung sei daher noch ungelöst.
+Mittlerweile habe das Bundesumweltamt beim Bundesamt für Bildung und Wissenschaft ein neues Projekt zur Untersuchung von nicht ionisierender Strahlung und ihren Auswirkungen auf Gesundheit und Umwelt angeregt. Die zuständigen Behörden wären durchwegs bestrebt, die wissenschaftliche Entwicklung auf dem Gebiet der Mobiltelefonie zu verfolgen und würden die Angemessenheit der aktuellen Grenzwerte in regelmäßigen Abständen überprüfen. Eine Sorgfaltspflichtverletzung seitens der Behörden sei somit nicht feststellbar.
+Abschließend stellte das Bundesgericht fest, dass Art. 6 EMRK auf den vorliegenden Fall nicht Anwendung finde, da die Bf. nicht behaupten könne, einer ernsthaften Bedrohung ihres körperlichen Wohlbefindens bzw. ihrer Gesundheit ausgesetzt zu sein. Sie könne sich insoweit auch nicht auf eine Verletzung ihres Rechts auf eine Anhörung vor Gericht berufen.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Die Bf. behauptet eine Verletzung von Art. 6 EMRK (Recht auf ein faires Verfahren). Sie rügt ferner eine Verletzung ihres Rechts auf Leben gemäß Art. 2 EMRK und ihres Rechts auf körperliche Unversehrtheit nach Art. 8 EMRK. Sie macht in Verbindung mit Art. 8 EMRK auch Verletzungen von Art. 13 EMRK (Recht auf eine wirksame Beschwerde bei einer nationalen Instanz) und von Art. 14 EMRK (Diskriminierungsverbot) geltend.
+Zur behaupteten Verletzung von Art. 6 EMRK:
+Die Bf. behauptet, ihre Angelegenheit sei von den innerstaatlichen Gerichten nicht öffentlich gehört und ihre Beweisanträge nicht ausreichend zur Kenntnis genommen worden.
+Der GH hält eine Klärung der Frage der Anwendbarkeit des Art. 6 EMRK auf den vorliegenden Fall nicht für notwendig, da die einzelnen Beschwerdegründe sich bereits aus anderen Gründen als unzulässig erweisen.
+1. Abhaltung einer öffentlichen Verhandlung:
+Im Vordergrund des gegenständlichen Rechtsstreits stand die Frage der Gesundheitsschädlichkeit von Mobilfunkantennen. Die nationalen Gerichte konnten sich bei der Beurteilung dieser Frage auf ein beachtliches Dokumentationsmaterial stützen, darunter insbesondere auf eine Studie des Bundesumweltamts aus dem Jahr 2003. Der GH hält fest, dass die nationalen Gerichte im Vergleich zu internationalen Organen weit besser in der Lage sind, wissenschaftliche Kontroversen einer Bewertung zu unterziehen, da sie bereits im Vorhinein mit dem Beschwerde­gegenstand vertraut sind. Der vorliegende Fall hatte vorwiegend die Bewertung von unterschiedlichen wissenschaftlichen Standpunkten zum Gegenstand.
+Der GH ist überzeugt, dass sich derartige hochtechnische Fragen besser in einem schriftlichen als in einem öffentlichen Verfahren abhandeln lassen. Es ist nicht erwiesen, dass eine öffentliche Anhörung in Anwesenheit von Zeugen und Experten die Meinungsbildung der Gerichte in entscheidender Weise hätte beeinflussen können. Es lagen somit besondere Umstände für die Nichtabhaltung einer öffentlichen Verhandlung vor den Gerichten vor. Dieser Beschwerdepunkt ist wegen offensichtlicher Unbegründetheit iSd. Art. 35 Abs. 3 EMRK zurückzuweisen.
+2. Zur Ablehnung der Beweisanträge:
+Im vorliegenden Fall erging das Urteil des Bundesgerichts in einem kontradiktorischen Verfahren, in dem der Bf. Gelegenheit gegeben wurde, auf das Vorbringen der gegnerischen Parteien zu reagieren und Argumente zur Stützung ihres eigenen Standpunkts vorzubringen. Das Höchstgericht stützte sich in seinem Urteil auch auf wissenschaftliche Gutachten von verschiedenen Seiten. Es hat seine Entscheidung nicht nur ausreichend begründet, sondern auch schlüssig dargelegt, aus welchen Gründen es dem Beweisantrag der Bf. nicht Folge leistete. Es bestehen auch keinerlei Anzeichen für willkürliche Schlussfolgerungen.
+Der GH gelangt daher angesichts des weiten Ermessensspielraumes der Staaten in „zivilrechtlichen" Streitigkeiten zu dem Ergebnis, dass das Verfahren vor den innerstaatlichen Instanzen insgesamt betrachtet einen fairen Charakter aufwies. Dieser Beschwerdepunkt ist wegen offensichtlicher Unbegründetheit iSd. Art. 35 Abs. 3 EMRK zurückzuweisen.
+Zur behaupteten Verletzung von Art. 8 EMRK:
+Die Bf. bringt vor, das umstrittene Mobilfunkantennenprojekt sei geeignet, sie als elektrosensible Person in ihrer Gesundheit zu beeinträchtigen.
+1. Zur Anwendbarkeit von Art. 8 EMRK:
+Vorab ist festzustellen, dass Eingriffe in das Recht auf Achtung der Wohnung auch durch immaterielle Beeinträchtigungen wie etwa Lärm, Emissionen, Geruch, etc. erfolgen und schwerwiegende Einwirkungen eine Person durchaus am „Genuss" ihrer Wohnung hindern können. Im vorliegenden Fall lebte die Bf. im unmittelbaren Umkreis einer Mobilfunksendeanlage und war als von Emissionen unmittelbar betroffene Person zur Erhebung von Rechtsmitteln vor den nationalen Gerichten berechtigt. Ferner hat das Bundesgericht sie ausdrücklich als elektrosensible Person angesehen. Das Vorbringen der Bf., die direkte Einwirkung und die zu befürchtende Zunahme gesundheitsschädlicher Emissionen durch Mobilfunkantennen stelle einen Eingriff in ihr Recht auf Achtung des Privat- und Familienlebens dar, reicht daher aus, um Art. 8 EMRK für anwendbar zu erklären.
+2. In der Sache selbst:
+Der GH hält fest, dass die Staaten in Fragen der Umwelt einen weiten Ermessensspielraum genießen.
+Im vorliegenden Fall handelte es sich um ein Projekt zweier privater Mobilfunkanbieter. Der GH erinnert daran, dass Art. 8 EMRK in erster Linie den Schutz von Individuen gegen willkürliche Eingriffe seitens staatlicher Behörden zum Gegenstand hat. Unter bestimmten Umständen kann ein Staat jedoch auch zur Ergreifung von positiven Maßnahmen zum Schutz des Privatlebens zwischen Privatpersonen untereinander verpflichtet sein.
+Es ist daher zu prüfen, ob zwischen den widerstreitenden Interessen des Einzelnen und der Gesellschaft ein faires Gleichgewicht hergestellt wurde und ob die innerstaatlichen Behörden die notwendigen Schritte zum Schutz des Rechts auf Privat- und Familienleben der Bf. unternommen haben.
+Im vorliegenden Fall hat das Bundesumweltamt im Jahr 2003 eine wissenschaftliche Studie über die Auswirkungen der Mobiltelefonie auf Umwelt und Gesundheit veröffentlicht. In ihr wird festgestellt, dass es keine wissenschaftliche Untersuchung über direkte Auswirkungen von Mobilfunkantennen auf Personen im Umkreis von Mobilfunkanlagen gibt. Für die Existenz oder Nichtexistenz von gesundheitlichen Risiken für die Bevölkerung hätte bisher kein Nachweis gefunden werden können. Zusätzlich hat das Bundesumweltamt beim Bundesamt für Bildung und Gesundheit ein neues Projekt zur Erforschung der Auswirkung von nicht ionisierenden Strahlungen auf die Gesundheit angeregt. Nach Ansicht des GH bezeugen diese Schritte die Bemühungen der Behörden, die derzeit bestehenden Grenzwerte einer periodischen Überprüfung zu unterziehen und sie gegebenenfalls an den gegenwärtigen Wissensstand anzupassen.
+Die Bf. bringt vor, die nationalen Behörden hätten ihren Status als elektrosensible Person nicht ausreichend berücksichtigt. Diese Behauptung vermag jedoch nichts an der Schlussfolgerung zu ändern, wonach eine gesundheitliche Beeinträchtigung durch Mobilfunkantennen bislang wissenschaftlich nicht belegt ist und mögliche Auswirkungen auf die Gesundheit zum Großteil spekulativer Natur sind. In diesem Zusammenhang ist daran zu erinnern, dass Art. 13 Abs. 2 des Bundesgesetzes über den Umweltschutz ausdrücklich vorsieht, dass der Bundesrat bei der Festlegung von Grenzwerten im Verordnungsweg auch die Auswirkungen von Immissionen auf besonders sensible Personen wie Kinder, Kranke, ältere Personen und schwangere Frauen zu berücksichtigen hat.
+Der GH ist der Ansicht, dass die genannte Rechtsgrundlage die Setzung von adäquaten Maßnahmen zum speziellen Schutz von besonders empfindlichen Personen gegen Elektrosmog erlaubt, sollte sich eines Tages herausstellen, dass die Mobiltelefonie ein ernsthaftes Risiko für die Gesundheit der Bevölkerung darstellt.
+Angesichts dieser Tatsache und unter Berücksichtigung des weiten Ermessensspielraums der Staaten sowie des Interesses der modernen Gesellschaft an einem vollständig ausgebauten Mobilfunknetz besteht keine Verpflichtung zur Setzung weiterer Maßnahmen, um die Rechte der Bf. auf angemessene und adäquate Weise zu schützen. Dieser Beschwerdepunkt ist wegen offensichtlicher Unbegründetheit iSd. Art. 35 Abs. 3 EMRK zurückzuweisen.
+Zur behaupteten Verletzung von Art. 2 EMRK:
+Dieser Beschwerdepunkt betrifft im Wesentlichen das bereits unter
+Art. 8 EMRK Vorgebrachte. Es bedarf daher keiner gesonderten Prüfung
+der behaupteten Verletzung von Art. 2 EMRK.
+Zur behaupteten Verletzung von Art. 13 EMRK:
+Der GH erinnert daran, dass diese Bestimmung ausschließlich auf vertretbare Behauptungen von Konventionsverletzungen anwendbar ist. Im Hinblick auf die unter Art. 8 EMRK gezogenen Schlussfolgerungen wird dieser Beschwerdepunkt wegen offensichtlicher Unbegründetheit iSd. Art. 35 Abs. 3 EMRK zurückgewiesen.
+Zur behaupteten Verletzung von Art. 14 EMRK:
+Auch gesetzt den Fall, dass die Bf. die unzureichende Berücksichtigung ihrer besonderen Empfindlichkeit gegenüber Elektrosmog vor den Gerichten gerügt hat, liegt dennoch keine Frage vor, die nicht bereits unter Art. 8 EMRK geprüft wurde. Dieser Teil der Beschwerde ist somit offensichtlich unbegründet und daher gemäß Art. 35 Abs. 3 iVm. Abs. 4 EMRK zurückzuweisen.
+Der GH erklärt die Beschwerde daher für unzulässig (mehrheitlich).
+Vom GH zitierte Judikatur:
+Powell und Rayner v. 21.2.1990, A/172, ÖJZ 1990, 418. López Ostra/E v. 9.12.1994, A/303-C, NL 1995, 25; EuGRZ 1995, 530;
+ÖJZ 1995, 347.
+Balmer-Schafroth u.a./CH v. 26.8.1997, NL 1997, 214; EuGRZ 1999, 183;
+ÖJZ 1998, 436.
+Guerra u.a./I v. 19.2.1998, NL 1998, 59; EuGRZ 1999, 188; ÖJZ 1999,
+33.
+Hatton u.a./GB v. 8.7.2003, NL 2003, 193.
+Moreno Gomez/E v. 16.11.2004, NL 2004, 292.
+Ruano Morcuende/E v. 6.9.2005 (ZE).
+Hinweis:
+Das vorliegende Dokument über die Zulässigkeitsentscheidung des EGMR vom 17.1.2006, Bsw. 42756/02, entstammt der Zeitschrift „Newsletter Menschenrechte" (NL 2006, 59) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Die Zulässigkeitsentscheidung im französischen Originalwortlaut
+(pdf-Format):
+www.menschenrechte.ac.at/orig/06_2/Luginbuehl.pdf
+Das Original der Zulässigkeitsentscheidung ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

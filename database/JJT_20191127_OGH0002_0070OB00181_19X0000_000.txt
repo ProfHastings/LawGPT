@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.2019
+Geschäftszahl
+7Ob181/19x
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Parteien 1. Mag. C***** F*****, 2. S***** B*****, 3. Dr. B***** L*****, 4. Dr. M***** L*****, 5. R***** D*****, und 6. Dr. C***** H*****, alle vertreten durch die Proksch & Partner Rechtsanwälte OG in Wien, gegen die beklagten Parteien 1. Dipl.-Ing. D***** P*****, 2. Dipl.-Ing. K***** P*****, beide vertreten durch Mag. Georg E. Thalhammer, Rechtsanwalt in Wien, und 3. S***** GmbH, *****, vertreten durch Mag. Franz Podovsovnik, Rechtsanwalt in Wien, wegen Nichtigerklärung von Verträgen, Rückabwicklung, Zustimmung zur Einverleibung und Feststellung (hier: wegen Streitanmerkung nach § 61 GBG), über den außerordentlichen Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 16. September 2019, GZ 15 R 120/19f-11, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Wenn jemand, der durch eine Einverleibung in seinem bücherlichen Recht verletzt erscheint, die Einverleibung aus dem Grunde der Ungültigkeit im Prozessweg bestreitet und die Wiederherstellung des vorigen bücherlichen Standes begehrt, kann er nach § 61 Abs 1 GBG die Anmerkung eines solchen Streits im Grundbuch entweder gleichzeitig mit der Klage oder später verlangen. Diese Streitanmerkung hat nach Abs 2 leg cit zur Folge, dass das über die Klage ergehende Urteil auch gegen die Personen, die erst nach dem Zeitpunkt, in dem das Gesuch um die Streitanmerkung an das Grundbuchsgericht gelangt ist, bücherliche Rechte erlangt haben, seine volle Wirksamkeit äußert.
+2. Voraussetzung für eine solche Streitanmerkung ist, dass derjenige, der diese Anmerkung anstrebt, in einem bücherlichen Recht verletzt worden ist (RS0060512; vgl RS0060428; G. Kodek in G. Kodek, Grundbuchsrecht² [2016] § 61 GBG Rz 11 mwN aus der Rsp). Demgegenüber ist bei bloß obligatorischen, auf vertraglicher Grundlage beruhenden Ansprüchen eine Streitanmerkung nicht zu bewilligen (RS0060629). Die Streitanmerkung hat nach § 61 Abs 2 GBG zudem zur Voraussetzung, dass die Wiederherstellung des früheren Buchstandes verlangt wird (RS0060511). Eine bloß auf Feststellung der Unwirksamkeit des Erwerbstitels des Beklagten gerichtete Klage reicht hingegen nicht aus (RS0060511 [T2]; vgl RS0060528 [T1]).
+Für eine Streitanmerkung ist daher die Behauptung der Verletzung eines im Grundbuch eingetragenen dinglichen Rechts des Klägers erforderlich (RS0126087); die Wiederherstellung des früheren Buchstandes durch Wiedereintragung des Eigentumsrechts Dritter als frühere Liegenschaftseigentümer reicht nicht aus (vgl 5 Ob 24/11g).
+3. Die den mit der Klage verbundenen Antrag auf Streitanmerkung abweisende Entscheidung des Rekursgerichts entspricht der ständigen Rechtsprechung, wonach derjenige, der eine solche Anmerkung anstrebt, in einem eigenen bücherlichen Recht verletzt worden sein muss. Dies ist schon nach den Klags- und Antragsbehauptungen nicht gegeben: Die Kläger waren nicht Eigentümer der von der Drittbeklagten erworbenen Anteile und streben nicht die Wiederherstellung eigener bücherlicher Rechte an; ein dingliches Vorkaufsrecht (vgl 4 Ob 506/91) zu ihren Gunsten wurde von den Klägern nicht behauptet und ist auch nicht ersichtlich.
+4. In ihrem Rechtsmittel zeigen die Kläger auch sonst keine erheblichen Rechtsfragen auf.
+Warum aus einem Verweis auf die sinngemäße Anwendung von Bestimmungen des WEG 1975 über die Ausschließung von Wohnungseigentümern folgen soll, dass die Kläger nunmehr ein zufolge besonderer Bestimmungen einem dinglichen Recht gleichzuhaltendes Recht (vgl RS0060629 [T2]) geltend machen würden, ist nicht ersichtlich; Wohnungseigentum wurde nicht begründet. Auch sonstige Vereinbarungen zwischen den Miteigentümern über wechselseitige Einschränkungen ihrer Miteigentumsrechte wurden schon nach den Behauptungen der Kläger nicht verbüchert. Aus von den Klägern und den anderen Miteigentümern dem seinerzeitigen Projektorganisator eingeräumten Vorkaufsrechten ist für die Frage eigener dinglicher Rechte der Kläger im Verhältnis gegenüber der Drittbeklagten nichts zu gewinnen.
+5. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 126 Abs 3 GBG iVm § 71 Abs 3 AußStrG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00181.19X.1127.000

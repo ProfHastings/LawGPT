@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+7Ob8/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei J* L*, vertreten durch Mag. Christian Köchl, Rechtsanwalt in Villach, gegen die beklagte Partei U* AG, *, vertreten durch die Dr. Bernhard Hundegger Rechtsanwalt GmbH in Villach, wegen 18.980,70 EUR sA und Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 10. November 2021, GZ 4 R 175/21v-11, womit das Urteil des Landesgerichts Klagenfurt vom 17. Juni 2021, GZ 50 Cg 20/21w-7, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.411,20 EUR (darin enthalten 235,20 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger schloss mit der Beklagten einen Unfallversicherungsvertrag, dem die Allgemeinen Bedingungen für die Unfallversicherung (AUVB 2015) zugrunde liegen. Diese lauten auszugsweise:
+„Abschnitt D
+PFLICHTEN DES VERSICHERUNGSNEHMERS
+[…]
+Artikel 19
+Was ist vor Eintritt des Versicherungsfalles zu beachten?
+Was ist nach Eintritt eines Versicherungsfalles zu tun?
+1. Obliegenheiten vor Eintritt des Versicherungsfalles
+Als Obliegenheit, deren Verletzung unsere Leistungsfreiheit gemäß den Voraussetzungen und Begrenzungen des § 6 Abs 2 VersVG (siehe Anhang) bewirkt, wird bestimmt, dass die versicherte Person als Lenker eines Kraftfahrzeuges die jeweilige kraftfahrrechtliche Berechtigung, die zum Lenken dieses oder eines typengleichen Kraftfahrzeuges erforderlich wäre, besitzt; dies gilt auch dann, wenn das Fahrzeug nicht auf Straßen mit öffentlichem Verkehr gelenkt wird.“
+[2] 		Das Berufungsgericht ließ die ordentliche Revision zu, weil Rechtsprechung des Obersten Gerichtshofs zur Frage fehle, ob auch in ihrer Ausstattung gemäß kraftfahrrechtlichen Normen nicht zulassungsfähige Motorräder, die nur abseits öffentlicher Straßen zu Sport- oder Freizeitzwecken verwendet werden, allein aufgrund ihrer Motorstärke oder Hubraumklasse unter die Führerscheinklausel fallen. Da der Kläger in seiner Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+[3] 		1. Mit Art 19.1. AUVB 2015 vergleichbare – als „Führerscheinklauseln“ bezeichnete – Bedingungen wurden vom Obersten Gerichtshof bereits mehrfach als Obliegenheiten qualifiziert (7 Ob 19/93  zu § 6 Abs 2 Z 1 AKHB 1988; 7 Ob 162/07k zu Art 5.2.1 AKIB 2005; 7 Ob 43/11s zu Art 9.2.1 AKHB 1995; 7 Ob 159/18k zu Art 24.1 UB00; 7 Ob 184/21s zu § 14.1. AUVB 2016).
+[4] 		2. Die Führerscheinklauseln haben auch für Fahrten auf nicht öffentlichem Grund Geltung (RS0080941), was in Art 19.1. letzter Halbsatz AUVB 2015 ausdrücklich festgehalten ist. Sie zielen nämlich darauf ab, den Versicherer nicht dem höheren Risiko durch unerfahrene und ungeschulte Lenker auszusetzen. Sie stellen daher darauf ab, ob der Lenker eine (allgemeine) Fahrberechtigung und damit eine gewisse Fahrsicherheit hat. Das fahrerische Können soll bereits vor Antritt der Fahrt in der vom Gesetz formalisierten Weise durch Erhebungen der Behörde und die Fahrprüfung dargetan sein (7 Ob 159/18k mwN).
+[5] 		3. Art 19.1. AUVB 2015 fordert, dass die versicherte Person als Lenker eines Kraftfahrzeugs die jeweilige kraftfahrrechtliche Berechtigung, die zum Lenken dieses oder eines typengleichen Kraftfahrzeugs erforderlich wäre, besitzt. Da Art 19.1. AUVB 2015 – anders als etwa § 14.1. AUVB 2016 (vgl dazu 7 Ob 184/21s) – keine für den Lenker des Fahrzeugs „in Österreich“ vorgeschriebene Lenkerberechtigung verlangt, ist bei einem Unfall im Ausland darauf abzustellen, ob der Lenker nach den Vorschriften des betreffenden Landes eine entsprechende kraftfahrrechtliche Berechtigung besaß (7 Ob 162/07k = RS0122432).
+[6] 		4. Der Kläger verletzte sich am 5. Jänner 2020 auf einer privaten Motocross-Strecke in Italien. Er fuhr dabei mit einer Motocross-Maschine mit einem Vierteltaktmotor mit 450 ccm Hubraum, für die er keine Lenkerberechtigung nach italienischem Recht besaß (vgl Art 116 Abs 3 lit d Z 1 Nuovo codice della strada [Gesetzesvertretendes Dekret vom 30. April 1992, Nr. 285]).
+[7] 		5. Die vom Berufungsgericht als erheblich qualifizierte Rechtsfrage greift der Kläger in seiner Revision nicht auf, sondern argumentiert zusammengefasst, dass ein Fahren ohne Lenkerberechtigung auf nicht öffentlichem Grund zulässig sei und deshalb auch keine Obliegenheitsverletzung im Sinn des § 6 Abs 2 VersVG vorliegen könne. Damit übersieht der Kläger, dass sich die Leistungspflicht des Versicherers bereits nach § 1 VersVG nach den vertraglichen Vereinbarungen richtet. Auch wenn daher sein Verhalten gesetzlich nicht verboten gewesen sein mag, resultiert daraus nach der Bedingungslage des vorliegenden Versicherungsvertrags keine Leistungspflicht des Versicherers. Die Ansicht des Revisionswerbers widerspricht überdies der dargestellten Rechtsprechung. Die Rechtsansicht der Vorinstanzen, der Beklagten sei der Nachweis einer objektiven Verletzung der Obliegenheit nach Art 19.1. AUVB 2015 durch den Kläger gelungen, ist somit nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00008.22K.0428.000

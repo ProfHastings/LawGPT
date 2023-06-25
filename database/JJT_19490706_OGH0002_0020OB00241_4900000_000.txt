@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.07.1949
+Geschäftszahl
+2Ob241/49
+Norm
+ZPO §502;
+ZPO §515;
+ZPO §519;
+Kopf
+SZ 22/102
+Spruch
+Wenn das Berufungsgericht mit seiner Entscheidung einen Teil des erstgerichtlichen Urteils bestätigt, einen anderen Teil dieser Entscheidung aber aufhebt und die Rechtssache im letzteren Umfang an das Erstgericht zurückverweist, so ist gegen den aufhebenden Teil der Berufungsentscheidung ein Rekurs auch dann nicht zulässig, wenn er mit der Revision gegen den bestätigenden Teil der Berufungsentscheidung verbunden wird (§ 515 ZPO.), es sei denn, das Berufungsgericht hätte den Rekurs gegen den aufhebenden Teil seiner Entscheidung ausdrücklich zugelassen (§ 519 Z. 3 ZPO.). Entscheidung vom 6. Juli 1949, 2 Ob 241/49.
+I. Instanz: Bezirksgericht Liesing; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Berufungsgericht hatte einen Teil der Entscheidung des Erstgerichtes bestätigt, den restlichen Teil der erstgerichtlichen Entscheidung aber aufgehoben und die Rechtssache in diesem Belang an das Erstgericht zur neuen Verhandlung und Entscheidung zurückverwiesen. Die klagende Partei hatte gegen den aufhebenden Teil der Berufungsentscheidung Rekurs ergriffen, obwohl das Berufungsgericht einen Rekurs gegen den aufhebenden Teil seiner Entscheidung nicht ausdrücklich zugelassen hatte. In den Ausführungen des Rekurses der klagenden Partei wird die Zulässigkeit dieses Rechtsmittels damit begrundet, daß es sich in einem solchen Fall um ein sogenanntes vorbehaltenes Rechtsmittel im Sinne des § 515 ZPO. handle. Da nun die klagende Partei den bestätigenden Teil der Berufungsentscheidung mit Revision anfechten könne, müsse es ihr gestattet werden, auch zugleich den Rekurs gegen den Aufhebungsbeschluß des Berufungsgerichtes als vorbehaltenes Rechtsmittel mit dieser Revision ergreifen zu können.
+Der Oberste Gerichtshof hat den Rekurs als unzulässig zurückgewiesen.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 515 ZPO. gestattet den Parteien in jenen Fällen, in welchen nach den Bestimmungen der ZPO. gegen einen Beschluß ein abgesondertes Rechtsmittel versagt ist, ihre Beschwerde mit dem gegen die nächstfolgende Entscheidung eingebrachten Rechtsmittel zur Geltung zu bringen. Diese gesetzliche Bestimmung ist aber auf den vorliegenden Fall nicht anwendbar; denn einerseits liegt kein Beschluß vor, gegen den ein abgesondertes Rechtsmittel nicht zulässig ist, und könnte in der gleichzeitigen Anfechtung des Urteiles, mit dem der Aufhebungsbeschluß verbunden war, nicht der Fall des § 515 ZPO. erblickt werden, weil es sich nicht um eine nachfolgende Entscheidung handelt; anderseits ist der Aufhebungsbeschluß des Berufungsgerichtes nur dann anfechtbar, wenn gemäß § 519 Z. 3 ZPO. im Beschlusse des Berufungsgerichtes ausgesprochen wird, daß das Verfahren in erster Instanz erst nach Rechtskraft dieses Beschlusses fortzusetzen ist. Da dies hier nicht ausgesprochen wurde, ist der Aufhebungsbeschluß nicht anfechtbar. Wohl aber könnte in dem Falle, als auf Grund eines Aufhebungsbeschlusses das an die Rechtsansicht des Berufungsgerichtes gebundene Erstgericht seine neue Entscheidung fällt und das Berufungsgericht diese bestätigt, selbst dann gegen zwei gleichlautende Entscheidungen die Revision ergriffen werden, wenn der Wert des Streitgegenstandes 10.000 S nicht überstiege (§ 502 Abs. 5 ZPO.).

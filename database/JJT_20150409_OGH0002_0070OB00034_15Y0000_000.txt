@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.04.2015
+Geschäftszahl
+7Ob34/15y
+Kopf
+Der Oberste Gerichtshof hat durch die Hofrätin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH, *****, vertreten durch Dr. Franz Gütlbauer und andere, Rechtsanwälte in Wels, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Klaus Fürlinger und Dr. Christoph Arbeithuber, Rechtsanwälte in Linz, wegen 15.000 EUR sA, über den Rekurs der beklagten Partei gegen den Beschluss des Landesgerichts Wels als Berufungsgericht vom 26. November 2014, GZ 22 R 177/14g-21, womit das Urteil des Bezirksgerichts Wels vom 21. März 2014, GZ 5 C 550/13m-17, aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 978,84 EUR (darin enthalten 163,14 EUR an USt) bestimmten Kosten der Rekursbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Das Berufungsgericht begründete die Zulassung des Rekurses damit, dass keine höchstgerichtliche Rechtsprechung zu den Fragen auffindbar gewesen sei, (1) ob für die „Streitwertgrenze“ des Art 23.3.5. ARB 1988 auch Veränderungen des Streitgegenstands während des Verfahrens zu berücksichtigen seien und (2) ob es sich bei der Weigerung des Werkherstellers, vom Werkbesteller geforderte, jedoch nicht einstandspflichtige Positionen zu verbessern, um einen weiteren Verstoß im Sinn des Art 2.3. ARB 1988 handle.
+1. Gemäß § 526 Abs 2 ZPO ist der Oberste Gerichtshof bei Prüfung der Zulässigkeit des Rekurses an die Beurteilung der zweiten Instanz über das Vorliegen einer erheblichen Rechtsfrage nicht gebunden. Die Zurückweisung des Rekurses kann sich auf die Anführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO analog; RIS-Justiz RS0043691).
+2.1. Art 23 ARB 1988 lautet:
+„Allgemeiner Vertrags-Rechtsschutz
+...
+3. Was ist nicht versichert?
+Im Allgemeinen Vertrags-Rechtsschutz besteht - neben den in Artikel 7 genannten Fällen - kein Versicherungsschutz für die Wahrnehmung rechtlicher Interessen,
+...
+3.5. im Betriebsbereich, wenn die tatsächlichen oder behaupteten Gesamtansprüche des Versicherungsnehmers oder seines Gegners aufgrund desselben Versicherungsfalles die vereinbarte Streitwertgrenze übersteigen.“
+2.2. Die von der Beklagten allein als erheblich relevierte Rechtsfrage, ob ein Herabsinken eines ursprünglich über der vereinbarten Streitwertgrenze gelegenen Anspruchsbetrags beim sekundären Risikoausschluss des Art 23.3.5. ARB 1988 zur Versicherungsdeckung ab diesem Zeitpunkt führe, hat der Oberste Gerichtshof in seiner Entscheidung zu 7 Ob 2021/96y ausdrücklich bejaht und dazu ausgeführt, dass es nach dem Sinn und Zweck der vereinbarten Streitwertobergrenze, die das vom Versicherer übernommene Risiko beschränken soll, nicht davon abhängen kann, ob die Teilzahlung oder der Forderungsverzicht vor oder nach dem Eintritt der Fälligkeit der Forderung erfolgt; selbst wenn der Versicherungsfall im Sinn des Art 2.3. ARB 1988 zu irgendeinem Zeitpunkt hinsichtlich einer die Streitwertgrenze überschreitenden Gesamtforderung eingetreten sein sollte, wird der gemäß Art 23.3.5. ARB 1988 maßgebliche Gesamtanspruch durch Teilzahlung oder Forderungsverzicht entsprechend reduziert.
+Die von der Beklagten ins Treffen geführte Entscheidung 7 Ob 12/94 ist nicht einschlägig, war doch dort das Übersteigen der Streitwertobergrenze nicht fraglich.
+Damit bewegt sich die Rechtsansicht des Berufungsgerichts, dass Art 23.3.5. ARB 1988 dahin auszulegen sei, dass ein nachträgliches Herabsinken des Gesamtanspruchs unter die vereinbarte Streitwertobergrenze zu einer Versicherungsdeckung ab diesem Zeitpunkt führe, im Rahmen der höchstgerichtlichen Rechtsprechung.
+2.3. Die vom Berufungsgericht bejahte Frage, ob es durch die Klagseinschränkung im zu deckenden Verfahren überhaupt zu einem Herabsinken des geltend gemachten Gesamtanspruchs im Sinn des Art 23.3.5. ARB 1988 kam, wird von der Beklagten im Rekurs nicht beanstandet. Die Lösung der Frage, ob die Klagseinschränkung als Anspruchsverzicht zu werten ist, ist typischerweise von den Umständen des Einzelfalls abhängig (vgl 9 ObA 1/92; RIS-Justiz RS0039573, RS0033962). Unter Berücksichtigung des Schadenseintritts im Jahr 2006 und der allein auf Zahlung gerichteten Klagsführung im Jahr 2008 und der dreijährigen Verjährungsfrist des § 1489 ABGB ist die vom Berufungsgericht vertretene Rechtsansicht, dass die nach der schriftlichen Gutachtenserstattung von der Werkbestellerin in der Verhandlung vom 26. 4. 2013 vorgenommene Klagseinschränkung den geltend gemachten Gesamtanspruch im Sinn des Art 23.3.5. ARB 1988 reduziert habe, nicht zu beanstanden.
+3. Die Kostenentscheidung beruht auf §§ 41, 50 Abs 1 ZPO. Die Rekursbeantwortung der Klägerin enthält begründete Ausführungen zur Unzulässigkeit des Rekurses und ist daher zu honorieren (vgl RIS-Justiz RS0123222).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00034.15Y.0409.000

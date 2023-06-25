@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.04.1954
+Geschäftszahl
+3Ob242/54
+Norm
+Gesetz über die Gesellschaften mit beschränkter Haftung §2;
+Kopf
+SZ 27/104
+Spruch
+Wer für eine Ges. m. b. H. vor ihrer Existenz handelt, haftet aus einem für die nicht existente Gesellschaft abgeschlossenen Geschäft nicht persönlich, wenn dem anderen die Nichtexistenz der Gesellschaft bekannt war.
+Entscheidung vom 14. April 1954, 3 Ob 242/54.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht gab dem auf Rückzahlung eines Darlehens gerichteten Klagebegehren Folge.
+Das Berufungsgericht bestätigte.
+Der Oberste Gerichtshof gab der Revision nur insofern Folge, als er die Höhe der zugesprochenen Zinseszinsen herabsetzte.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Allerdings vermag sich der Oberste Gerichtshof der Ansicht nicht anzuschließen, daß die beklagte Partei nach § 2 Abs. 2 des Gesetzes über die Gesellschaft mit beschränkter Haftung vom 6. März 1906, RGBl. Nr. 58, haftet. Denn es ist festgestellt, daß der Beklagte erkennbar namens einer in Gründung befindlichen Gesellschaft gehandelt hat und es hat der Kläger nach seinem eigenen Prozeßvorbringen von der Nichtexistenz der in Gründung begriffenen Ges. m. b. H. zur Zeit der Darlehenszuzählung gewußt.
+§ 2 Abs. 2 GesmbHG. bezieht sich auf Art. 55 AHGB. betreffend den falsus procurator. Nach Abs. 2 des Art. 55 AHGB. tritt aber die persönliche Haftung des falsus procurator nicht ein, wenn der Geschäftspartner den Mangel der Vollmacht gekannt hat. Aus der Bezugnahme auf Art 55 AHGB. in § 2 Abs. 2 GesmbHG. wird von der österreichischen Rechtslehre (Grünhut S. 17) und von der österreichischen Rechtsprechung (SZ. IV/59, SZ. VI/44, SZ. VIII/159), desgleichen von der tschechoslowakischen Rechtsprechung (Rsp. 1923 S. 323) der Schluß gezogen, daß jemand, der für eine Gesellschaft mit beschränkter Haftung vor ihrer Existenz handelt, persönlich aus einem für die nicht existente Gesellschaft abgeschlossenen Geschäft nicht haftet, wenn dem Gegenteil die Nichtexistenz der Gesellschaft bekannt war. Durch die vierte Verordnung zur Einführung handelsrechtlicher Vorschriften vom 24. Dezember 1938 wurde zwar Art. 55 AHGB. aufgehoben, an seine Stelle ist der dem § 179 BGB. entsprechende Art. 8 Nr. 11 der 4. EVzHGB. getreten. Danach bleibt es aber dabei, daß nach dem Recht der österreichischen Ges. m. b. H. eine persönliche Haftung für das Handeln namens einer noch nicht eingetragenen Gesellschaft nicht eintritt, falls der Partner des Handelnden die Sachlage gekannt hat. Die Entscheidung JBl. 1950 S. 242 will allerdings den für eine in Gründung befindliche Gesellschaft Handelnden auch im Falle, als der Vertragspartner den Mangel der Eintragung kannte, haften lassen, und seine Haftung nur ausschließen, wenn die Gesellschaft nach ihrer Eintragung in den Vertrag eintritt. An dieser Entscheidung kann aber nicht festgehalten werden, weil sie mit dem Wortlaut und dem Sinn des Gesetzes nicht vereinbar ist. Nach § 2 Abs. 2 GesmbHG. tritt, wie das Zitat des Art. 55 HGB. beweist, die Haftung des Handelnden nur ein, wenn dieser als falsus procurator anzusehen ist. Wenn in JBl. 1950 S. 242 im Widerspruch mit dem Wortlaut des § 2 Abs. 2 GesmbHG. der Handelnde haftbar gemacht werden soll, auch wenn er nicht als falsus procurator gehandelt hat, wenn die Gesellschaft nicht eingetreten ist, so hat dem Obersten Gerichtshof damals in dieser nicht näher begrundeten Entscheidung offenbar die überwiegende Praxis vorgeschwebt, die die Haftung des falsus procurator erlöschen läßt, wenn die Ges. m. b. H. nach ihrer Gründung in den Vertrag eintritt; dieser Rechtssatz darf aber nicht dahin erweitert werden, daß der Handelnde auch dann haftet, wenn er gar nicht als falsus procurator nach Art. 55 HGB. (Art. 8 Nr. 11 der 4. EVzHGB.) anzusehen ist, weil dem Gegenteil bekannt war, daß die Ges. m. b. H. noch nicht existent geworden ist.
+Könnte sich daher die Klage nur auf § 2 Abs. 2 GesmbHG. stützen, so müßte sie als unbegrundet erkannt werden. Das Begehren ist aber in erster Linie auf den Schuldschein gegrundet, durch den der Kläger für seine eigene Person die Verpflichtung zur Rückzahlung des Darlehens eingegangen ist.
+Eine wegen Unrichtigkeit der rechtlichen Beurteilung erhobene Revision nötigt den Obersten Gerichtshof, das angefochtene Urteil in rechtlicher Beziehung nach allen in Betracht kommenden Richtungen zu prüfen.
+Diese Überprüfung ergibt, daß der Ausspruch des Erstgerichtes über die Zinsen rechtlich nicht einwandfrei ist. Denn der Schuldschein bestimmt nur die Zinsen mit 12%, setzt aber die Höhe der Zinseszinsen nicht fest. Für diese hat es daher bei dem gesetzlichen Zinssatz zu verbleiben. Es war daher der Ausspruch über die Höhe der Zinseszinsen, obwohl in dieser Beziehung Bedenken von der Revision nicht geltend gemacht wurden, zu ändern.

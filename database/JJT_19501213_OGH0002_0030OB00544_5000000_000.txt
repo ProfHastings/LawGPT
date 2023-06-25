@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.1950
+Geschäftszahl
+3Ob544/50
+Norm
+ABGB §368;
+ABGB §456;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §366;
+Kopf
+SZ 23/379
+Spruch
+Wer an einer Maschine ein Pfandrecht erwirbt, ohne sich zu vergewissern, daß der Verpfänder auch tatsächlich der Eigentümer ist, handelt grob fahrlässig im Sinne des § 366 HGB.
+Entscheidung vom 13. Dezember 1950, 3 Ob 544/50.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Dr. H. hat die Fräsmaschine, deren Herausgabe die klagende Partei von der beklagten Partei verlangt, von der klagenden Partei unter Eigentumsvorbehalt gekauft und sie der beklagten Partei verpfändet.
+Das Erstgericht hat dem Klagebegehren stattgegeben. Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision rügt als rechtsirrig die Annahme des Berufungsgerichtes, die beklagte Partei hätte gegen das Eigentum des Dr. H. einen begrundeten Verdacht schöpfen können (§ 368 ABGB., Ehrenzweig I/2, S. 205 f.), bzw. die Ansicht des Berufungsgerichtes, daß der beklagten Partei nur infolge grober Fahrlässigkeit unbekannt war, daß die Maschine dem genannten Verpfänder nicht gehörte und er auch nicht befugt war, über sie an Stelle des Eigentümers zu verfügen (§ 366 HGB.). Die strittige Rechtsfrage ist sonach, ob der beklagten Partei grobe Fahrlässigkeit zur Last fällt. Diese Rechtsfrage ist nach Ansicht des Revisionsgerichtes zu bejahen. Der Preis der fabriksneuen Maschine betrug 30.000 S. Die Verpfändung einer so wertvollen neuen Maschine zur Sicherung eines Darlehens von 31.000 S durch einen Pfandschuldner, dessen Bekanntschaft mit der Pfandnehmerin nach dem eigenen Vorbringen der beklagten Partei nur oberflächlich war, erheischt auf Seite der Pfandnehmerin die Vorsicht, sich über das Eigentum des Verpfänders zu vergewissern, d.
+h. dessen Eigentumserwerb zu klären und sich insbesondere Urkunden über den Eigentumserwerb (z. B. Fakturen) vorlegen zu lassen. Die Unterlassung dieser Vorsicht muß als auffallende Sorglosigkeit, als grobe Fahrlässigkeit angesehen werden. Die Mitteilung der Spedition, daß Dr. H. über die Maschine verfügungsberechtigt sei, war zur Klärung des Eigentumsrechtes, bzw. der Befugnis zur Verpfändung wertlos. Die Speditionsfirma konnte ja nur mitteilen, daß ihr gegenüber Dr. H. als Kontrahent über die von ihm bei ihr eingelagerte Maschine verfügungsberechtigt sei, die Eigentumsverhältnisse konnten ihr ja nicht bekannt sein.
+Unangefochten festgestellt ist übrigens, daß zur Zeit der Verpfändung der Verkauf solcher Maschinen gegen Eigentumsvorbehalt üblich war. Das Berufungsgericht folgert daraus mit Recht, daß bei der Verpfändung der Verdacht bestand, Dr. H. könnte nur sogenannter Vorbehaltskäufer sein. Bei Bestehen eines solchen Verdachtes war aber die beklagte Partei im Sinne des § 368 ABGB. unredlich. Nach dieser Gesetzesstelle kommt es nämlich darauf an, ob der Erwerb objektiv als verdächtig anzusehen ist (Klang, Komm., 2. Aufl., zu § 368 ABGB.). Grob fahrlässig handelt der Kaufmann, der weiß, daß regelmäßig unter Eigentumsvorbehalt verkauft wird, und der sich trotzdem nicht darum kümmert, ob ein solcher besteht (Baumbach, Kurzkomm. zu § 366 HGB.). Der gutgläubige Erwerb wird durch Umstände ausgeschlossen, die den begrundeten Verdacht entstehen lassen, daß der Verkäufer nicht Eigentümer der Sache ist, sondern selbst nur Vorbehaltskäufer. Die Versicherung des Verkäufers allein, daß er über die Sache verfügen kann, kann den guten Glauben des Erwerbers nicht begrunden. Die Fahrlässigkeit des Beklagten wird nicht dadurch ausgeschlossen, daß die klagende Partei es unterlassen hat, an der unter Eigentumsvorbehalt verkauften Maschine ein Merkmal, das auf diesen Eigentumsvorbehalt hinweist, anzubringen. Vielmehr war es unter allen Umständen die Verpflichtung der beklagten Partei, wenn ein solcher Vermerk auch nicht angebracht war, die Behauptung des Dr. H., die Maschine sei sein Eigentum, durch Vorlage von Urkunden, insbesondere der Rechnung und Zahlungsbestätigung, zu überprüfen (SZ. XX/182). Bei häufigen Eigentumsvorbehalten besteht eine Pflicht zur sorgfältigen Nachforschung und es handelt im Sinne des § 366 HGB. grob fahrlässig, wer den (dadurch von Anfang an gegebenen) Verdacht eines bestehenden Eigentumsvorbehaltes nicht aufklärt. Sind die pflichtgemäßen Nachforschungen unterlassen worden, kann sich die beklagte Partei nicht darauf berufen, daß sie doch keinen Erfolg gehabt hätten (Komm., herausgegeben von Mitgliedern des Reichsgerichtes, zu § 366 HGB., III, S. 435).

@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.07.2017
+Geschäftszahl
+3Ob116/17f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und  Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei A*, vertreten durch Mag. Simone Maier-Hülle, Rechtsanwältin in Wien, gegen die beklagte Partei G*, vertreten durch Dr. Thomas Romauch, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 8. März 2017, GZ 39 R 355/16v-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Kläger zieht in seiner außerordentlichen Revision zu Recht nicht mehr in Zweifel, dass sich die Bindung des Einzelrechtsnachfolgers des Vermieters an Nebenabreden, sofern sie keinen ungewöhnlichen Inhalt haben, gemäß § 2 Abs 1 Satz 5 MRG auch auf den Ersteher im Zwangsversteigerungsverfahren erstreckt (RIS-Justiz RS0025173).
+2. Durch die Bestimmung des § 2 Abs 1 MRG soll insbesondere verhindert werden, dass der Hauptmieter durch bloße Rechtsnachfolge auf Vermieterseite um seine Rechte gebracht wird (RIS-Justiz RS0109564 [T3]). Der Begriff Nebenabrede ist nicht eng zu sehen; als solche ist daher auch eine – wie hier – nachträglich zustande gekommene Vereinbarung anzusehen (RIS-Justiz RS0069552 [T2]).
+3. Ungewöhnlich ist eine Nebenabrede, die der typischen Interessensituation der Beteiligten nicht entspricht (RIS-Justiz RS0069576 [T1]). Für die Beurteilung der Ungewöhnlichkeit des Inhalts einer Nebenabrede kommt es deshalb auf die Art des Mietgegenstands und den Inhalt des konkreten Vertrags an. Ungewöhnlich ist eine Nebenabrede, wenn sie bei vergleichbaren Mietgegenständen und vergleichbaren Vertragsinhalten nicht oder jedenfalls nur äußerst selten vereinbart wird (RIS-Justiz RS0069562). Bei der Beurteilung der Ungewöhnlichkeit des Inhalts einer Nebenabrede ist somit daran anzuknüpfen, ob eine solche als untypisch (und daher auch als unerwartet) im Hinblick auf die tatsächlichen Lebensverhältnisse zu beurteilen ist, was letztlich immer nur anhand der konkreten Umstände im Einzelfall beurteilt werden kann (RIS-Justiz RS0069576 [T8]).
+4. Nach der Rechtsprechung des Obersten Gerichtshofs stellt zwar ein Verzicht auf alle gesetzlichen Kündigungsgründe eine ungewöhnliche Nebenabrede iSd § 2 Abs 1 Satz 3 MRG dar (5 Ob 102/09z = RIS-Justiz RS0069531 [T1]), nicht aber bereits die Einräumung der Befugnis zur gänzlichen Untervermietung und der Weitergabe des Mietobjekts (RIS-Justiz RS0069531) oder der Verzicht auf die Geltendmachung des Kündigungsgrundes des § 30 Abs 2 Z 6 MRG (6 Ob 127/14s mwN = RIS-Justiz RS0069531 [T2]).
+5. Die Rechtsansicht des Berufungsgerichts, der von der seinerzeitigen Vermieterin gegenüber der beklagten Mieterin erklärte Verzicht auf Kündigung wegen Eigenbedarfs und auf die Geltendmachung der Kündigungsgründe des § 30 Abs 2 Z 4 und 6 MRG sei keine ungewöhnliche Nebenabrede iSd § 2 Abs 1 MRG, ist nicht zu beanstanden. Im Hinblick darauf kommt es nicht darauf an, ob der Kläger diese Nebenabrede kannte oder kennen musste. Die Unrichtigkeit des Standpunkts des Klägers, wonach der Kündigungsverzicht im Ergebnis einem gänzlichen Ausschluss seiner Kündigungsmöglichkeiten gleichkomme, ergibt sich schon aus seinem eigenen Vorbringen, wonach ihm „nur“ die Kündigungsgründe gemäß § 30 Abs 1 und Abs 2 Z 1, 3 und 5 MRG verblieben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E118888

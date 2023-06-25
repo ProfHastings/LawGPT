@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+3Ob59/16x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei Republik Österreich, 1014 Wien, Herrengasse 7, vertreten durch die Bezirkshauptmannschaft Eferding, Eferding, Stefan Fadinger-Straße 2-4, wider die verpflichtete Partei A*****, wegen 512 EUR sA, über den „Rekurs“ des Verpflichteten gegen den Beschluss des Landesgerichts Wels als Rekursgericht vom 16. Dezember 2015, GZ 22 R 260/15i, 22 R 261/15m, 22 R 262/15h-25, womit die Rekurse der verpflichteten Partei gegen die Beschlüsse des Bezirksgerichts Grieskirchen vom 14. Juli 2015, 1. September 2015 und 16. September 2015 GZ 5 E 920/15d nunmehr: 5 E 1248/15i-11, -17 und -20, zurückgewiesen wurden, den
+Beschluss
+gefasst:
+Spruch
+Der (richtig) Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht wies einen Einspruch des Verpflichteten gegen die Bewilligung der Fahrnis- und Forderungsexekution zur Hereinbringung einer vollstreckbaren Forderung von 512 EUR ab (ON 11). Ebenfalls abweisend entschied es über seinen auftragsgemäß verbesserten Verfahrenshilfeantrag (wobei es dem Verpflichteten auch auftrug, seinen Rekurs gegen den Beschluss ON 11 durch Unterfertigung durch einen Rechtsanwalt binnen 8 Tagen zu verbessern) sowie über seinen Antrag auf Einstellung der Exekution gemäß § 39 EO ab (ON 17). Schließlich wies es seine neuerlichen Verfahrenshilfe- und Einstellungsanträge ab und trug dem Verpflichteten die Verbesserung seines Rekurses gegen den Beschluss ON 17 durch anwaltliche Unterfertigung binnen 8 Tagen auf (ON 20). Die dagegen vom Verpflichteten erhobenen Rekurse ON 14, 18 und 21 wies das Rekursgericht zurück (ON 25) und sprach aus, dass der Revisionsrekurs jedenfalls unzulässig sei. Gegen diese Entscheidung richtet sich der als „Rekurs“ bezeichnete Revisionsrekurs der Verpflichteten (ON 26).
+Rechtliche Beurteilung
+Ein Rechtsmittel gegen einen Beschluss des Gerichts zweiter Instanz auf Zurückweisung eines Rekurses ist ein Revisionsrekurs im Sinn des § 528 ZPO (8 Ob 198/99x; E. Kodek in Rechberger4 § 528 ZPO Rz 1).
+§ 78 EO sieht vor, dass auch im Exekutionsverfahren die allgemeinen Bestimmungen der ZPO (unter anderem) über das Rechtsmittel des Rekurses zur Anwendung kommen. Die Revisionsrekursbeschränkungen des § 528 Abs 2 ZPO gelten daher auch im Exekutionsverfahren (RIS-Justiz RS0002511; RS0002321).
+§ 528 Abs 2 Z 1 ZPO schließt einen Revisionsrekurs jedenfalls aus, wenn der Entscheidungsgegenstand (hier die betriebene Forderung: RIS-Justiz RS0121365) an Geld oder Geldeswert insgesamt 5.000 EUR nicht übersteigt, es sei denn es handelt sich um - hier nicht vorliegende - Streitigkeiten nach § 502 Abs 4 oder 5 ZPO. Abgesehen davon ist ein Revisionsrekurs gegen Entscheidungen über die Verfahrenshilfe jedenfalls unzulässig (§ 528 Abs 2 Z 4 ZPO).
+Der Revisionsrekurs des Verpflichteten ON 26 ist daher absolut unzulässig und könnte auch durch eine fachkundige Vertretung des Verpflichteten nicht zulässig werden (RIS-Justiz RS0120029; RS0005946 [T1, T11]; 3 Ob 83/15z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00059.16X.0427.000

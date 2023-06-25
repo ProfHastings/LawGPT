@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.2013
+Geschäftszahl
+5Ob64/13t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden, die Hofrätinnen Dr. Hurch und Dr. Lovrek sowie die Hofräte Dr. Höllwerth und Mag. Wurzer als weitere Richter in der Grundbuchsache der Antragsteller 1. Dr. W*****, 2. Mag. G*****, beide vertreten durch Dr. Josef-Michael Danler, Rechtsanwalt in Innsbruck, wegen Einverleibung eines Pfandrechts ob der Liegenschaft EZ ***** GB *****, über den außerordentlichen Revisionsrekurs der Antragsteller gegen den Beschluss des Landesgerichts Innsbruck als Rekursgericht vom 7. Februar 2013, AZ 54 R 15/13x, womit über Rekurs der Antragsteller der Beschluss des Bezirksgerichts Innsbruck vom 11. Jänner 2013, TZ 135/2013, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Text
+Begründung:
+Das Rekursgericht wies das Einverleibungsgesuch mit der Begründung ab, dass die von den Antragstellern vorgelegten Pfandbestellungsurkunden bereits einmal Eintragungsgrundlage für die Einverleibung von Pfandrechten in der in den Pfandbestellungsurkunden festgelegten Höhe gewesen seien. Diese Pfandbestellungsurkunden gewährten der Gläubigerin in einer jeden Zweifel ausschließenden Weise einen bloß einmaligen obligatorischen Anspruch auf Einräumung einer pfandrechtlichen Sicherstellung. Die beantragte neuerliche Einverleibung von Pfandrechten nach der infolge Löschungserklärung erfolgten Löschung der Pfandrechte am 15. 11. 2012 zu TZ 27817/2012 sei daher durch die vorgelegten Pfandbestellungsurkunden nicht gedeckt.
+Dieser Auffassung setzen die Revisionsrekurswerber entgegen, dass es dem Grundbuchgericht verwehrt sei, eine Prüfung der materiellen Rechtslage vorzunehmen. Die beantragten Einverleibungen seien aber durch die vorgelegten Pfandbestellungsverträge gedeckt.
+Rechtliche Beurteilung
+Allerdings ist die rechtliche Beurteilung des Rekursgerichts gerade wegen des im Revisionsrekurs gebrauchten Arguments zutreffend:
+In den Pfandbestellungsurkunden wird die Einwilligung zur Einverleibung „des Pfandrechts“ wegen näher bezeichneter Forderungen aus dem Kreditverhältnis des Zweitantragstellers zur Gläubigerin erteilt. Die Pfandbestellungsverträge, die Rechtsgrund der einzutragenden Pfandrechte sind (5 Ob 257/03k; RIS-Justiz RS0060430), sind gerade nicht deutlich und zweifelsfrei (RIS-Justiz RS0060573) dahin zu verstehen, dass sie auch die neuerliche Einverleibung von Pfandrechten nach erfolgter Löschung der aufgrund der konkreten Pfandbestellungsurkunden bereits eingetragenen Pfandrechte rechtfertigen (vgl LGZ Wien 46 R 567/84 WR 108; Kodek in Kodek, Grundbuchsrecht, § 94 GBG Rz 101).
+In materiell-rechtlicher Hinsicht bleibt zweifelhaft, ob die Löschungserklärung der Gläubigerin - die keinen Rechtsgrund für die Löschung nennen muss (Reischauer, Zwei Fragen zur Löschungsquittung bzw Löschungserklärung, NZ 2001, 362 mwN; Hagleitner in Kodek, Grundbuchsrecht, § 26 GBG Rz 6) - wegen Schuldtilgung mit der Wirkung erfolgte, dass der Pfandgläubiger das Recht auf Befriedigung aus der Pfandsache verliert (Grundsatz der Akzessorietät - RIS-Justiz RS0011343; Hofmann in Rummel³ § 469 ABGB Rz 1). Diese verbleibenden Zweifel führen aber im Grundbuchsverfahren zur Abweisung des Gesuchs (stRsp; RIS-Justiz RS0060878).
+Ein Eingehen auf den weiteren vom Rekursgericht genannten Abweisungsgrund erübrigt sich im Hinblick darauf, dass das Gesuch als solches mit den vorliegenden Pfandbestellungsurkunden nicht wiederholbar ist (RIS-Justiz RS0060544).
+Im Hinblick auf die Zurückweisung des Rechtsmittels erübrigt sich die Durchführung eines Verbesserungsverfahrens für den mit einem Formmangel behafteten Rechtsmittelschriftsatz (§ 89c Abs 6 GOG idF BGBl I 2012/26), der nach dem maßgeblichen Stichtag 1. 5. 2012 (§ 98 Abs 15 Z 1 GOG) entgegen § 89c Abs 5 Z 2 GOG idF BGBl I 2012/26 nur im Postweg und nicht im Elektronischen Rechtsverkehr eingebracht wurde (5 Ob 240/12y).
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0050OB00064.13T.0516.000

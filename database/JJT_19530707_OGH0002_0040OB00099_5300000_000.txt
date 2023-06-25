@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.07.1953
+Geschäftszahl
+4Ob99/53
+Norm
+Allgemeines bürgerliches Gesetzbuch §916;
+Allgemeines bürgerliches Gesetzbuch §1009;
+Allgemeines bürgerliches Gesetzbuch §1017;
+Handelsgesetzbuch §15;
+Kopf
+SZ 26/181
+Spruch
+Haftung der treuhändigen Firmeninhaber auch gegenüber den Firmengläubigern, die das Treuhandverhältnis kannten, auch wenn sie bei der Begründung des Treuhandverhältnisses mitgewirkt haben.
+Entscheidung vom 7. Juli 1953, 4 Ob 99/53.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Kläger hat die offene Handelsgesellschaft Lady Strickmodengesellschaft L. & Co. sowie deren Gesellschafter Igo N. und Ing. Leopold Sch. auf Zahlung von Gehalt und Kündigungsentschädigung im Gesamtbetrage von 57.530.54 S geklagt.
+Das Arbeitsgericht hat die offene Handelsgesellschaft zur Zahlung verurteilt, hingegen das gegen die Gesellschafter gerichtete Klagebegehren mit der Begründung abgewiesen, daß diese mit Wissen des Klägers nur zum Scheine als Gesellschafter eingetragen seien. Sie seien nur Treuhänder des "E.Trust" in Zürich ohne Einlage und ohne wesentliche Rechte als Gesellschafter und verpflichtet, jederzeit über Verlangen des "E. Trust" auszuscheiden. Der Kläger habe am Zustandekommen des Treuhandabkommens geradezu mitgewirkt und sei über das Wesen desselben genau informiert gewesen. Es verstieße gegen Treu und Glauben, wenn er bei dieser Sachlage die Beklagten Igo N. und Ing. Leopold Sch., die keine Rechte in der Firma haben, für Verbindlichkeiten der Firma in Anspruch nehmen könnte.
+Dieses Urteil wurde von der offenen Handelsgesellschaft angefochten, dietatsächlich bereits im Zeitpunkt der Urteilsfällung erster Instanz erloschen war, weil der Gesellschafter Igo N., der Zweitbeklagte, das Unternehmen am 7. August 1952 als Alleininhaber übernommen hatte und es nunmehr unter der alten Firma als Einzelfirma fortführt. Auch der Kläger hat Berufung erhoben, weil der Zweit- und Drittbeklagte nicht gleichfalls verurteilt worden sind. Er machte in der Berufung geltend, seit der Klagseinbringung habe sich der Stand des Handelsregisters geändert. Die Gesellschaftsfirma sei am 7. August 1952 eine Einzelfirma geworden, deren Alleininhaber Igo N. sei. Er stellte demnach die Bezeichnung der erstbeklagten Partei dahin richtig, daß sie zu lauten habe: Igo N. als Alleininhaber der Firma Lady Strickmodengesellschaft L. & Co. Das Berufungsgericht gab der Berufung der offenen Handelsgesellschaft keine Folge. Dieses Erkenntnis ist im Revisionsverfahren nicht mehr angefochten. Dagegen gab das Berufungsgericht der Berufung des Klägers Folge und verurteilte den Zweitbeklagten solidarisch mit der Erstbeklagten (offene Handelsgesellschaft) zur Zahlung des Klagsbetrages.
+Das Berufungsgericht übernahm die Feststellungen des Arbeitsgerichtes und billigte auch dessen Rechtsansicht, daß die Kenntnis des Klägers vomTreuhandverhältnis die Geltendmachung des Anspruches gegen die Scheingesellschafter ausschließe.
+Laut Handelsregisterauszug scheine der Beklagte Igo N. seit 7. August 1952 als Alleininhaber auf, da der Gesellschafter Ing. Leopold Sch. ausgetreten ist. Diese Änderung in den Verhältnissen der Geschäftsinhabung liege zeitlich weit nach dem Ausscheiden des Klägers aus dem Unternehmen und erfolgte bereits während des Rechtsstreites. Damit hafte der Beklagte Igo N. nicht bloß nach § 1409 ABGB., sondern auch nach § 128 HGB. für die Forderung des Klägers, zumal diese Änderung in der Firmeninhabung nicht zwingend zur Folge habe, daß das früher bestandene Treuhandverhältnis in der Person des Zweitbeklagten nach dem Ausscheiden des Drittbeklagten nunmehr allein fortgesetzt wird. Der Kläger könne sich nunmehr auf § 15 Abs. 2 HGB. berufen, zumal vom Zweitbeklagten nicht behauptet wird, daß eine noch bestehende Treuhandschaft des Zweitbeklagten dem Kläger bekannt sei oder bekannt sein müsse. Der Zweitbeklagte hafte nunmehr gemäß § 128 HGB. nicht bloß mit dem Firmenvermögen, sondern auch mit dem eigenen Vermögen.
+Gegen das Urteil des Berufungsgerichtes machte der Zweitbeklagte die Revisionsgrunde nach § 503 Z. 2 und 4 ZPO. mit dem Antrage geltend, das angefochtene Urteil dahin abzuändern, daß es zu lauten habe: Die beklagte Partei Igo N. sei als Alleininhaber der Firma Lady Strickmodengesellschaft L. & Co. schuldig, dem Kläger den Betrag von 57.530.54 S s. A. zu bezahlen.
+In zweiter Linie wird die Aufhebung des angefochtenen Urteiles beantragt.
+Hiezu wird ausgeführt, daß das Berufungsgericht ohne Beweisergänzung nicht hätte annehmen dürfen, daß das Treuhandverhältnis erloschen sei.
+Bei Fortbestand desselben hafte aber der Zweitbeklagte für die Klagsforderung nur mit dem Firmenvermögen.
+Die Revision blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ist nicht begrundet.
+Im Zeitpunkt der Urteilsfällung erster Instanz war die Erstbeklagte bereits erloschen, da der Gesellschafter Sch. aus der Firma ausgetreten war und Zweitbeklagter das Unternehmen als Alleininhaber unter der alten Firma fortführte. Das Urteil gegen die nicht mehr existierende Erstbeklagte ging daher ins Leere.
+Es mag richtig sein, daß der Zweitbeklagte, der Alleininhaber der Firma im Zeitpunkt der Urteilsfällung erster Instanz, nur Treuhänder einer Schweizer Firma ist, das schließt aber seine Haftung nicht aus. Wer für Rechnung eines anderen im eigenen Namen Geschäfte abschließt, haftet persönlich auch demjenigen Kontrahenten gegenüber, der das Treuhandverhältnis kennt, genau so wie ein Kommissionär haftet, auch wenn dem Dritten bekannt ist, daß er für einen Kommittenten Geschäfte macht.
+Da bei einem Einzelkaufmann kein Unterschied zwischen dem Firmenvermögen und Privatvermögen gemacht wird, könnte bei Vorliegen eines Treuhandverhältnisses gegen das Treuhandvermögen überhaupt nicht vorgegangen werden, wenn der Treuhänder nicht geklagt werden könnte, da gegen den Treugeber, der sich zugunsten des Treuhänders des Vermögens entäußert hat, keine Exekution möglich ist.
+Möglich wäre wohl eine Verurteilung des Zweitbeklagten mit Beschränkung auf das Firmenvermögen, aber nur dann, wenn die Parteien untereinander vereinbart haben, daß der Treuhänder nicht mit dem persönlichen Vermögen haften soll; auch wäre ein solches Urteil, wenn das Treuhandvermögen nicht im einzelnen im Urteil angeführt ist, kaum vollstreckbar. Eine solche Haftungsbeschränkung ist daher auch nicht üblich; daß sie im vorliegenden Falle vereinbart worden ist, wird gar nicht behauptet. Aus der bloßen Tatsache, daß dem Vertragsgegner die Treuhändereigenschaft des Gegenkontrahenten bekannt war, kann die genannte Haftungsbeschränkung auf das Firmenvermögen noch nicht gefolgert werden, auch wenn er selbst bei Schaffung des Treuhandverhältnisses mitgewirkt hat. Es wäre vielmehr eine besondere Vereinbarung erforderlich; einen Beweis in dieser Richtung hat aber Zweitbeklagter gar nicht angeboten.
+Die Verurteilung des Zweitbeklagten entspricht daher dem Gesetze. Die Revision mußte deshalb ohne Erfolg bleiben.

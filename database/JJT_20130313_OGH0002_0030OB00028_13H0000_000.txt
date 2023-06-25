@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.03.2013
+Geschäftszahl
+3Ob28/13h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie den Hofrat Univ.-Prof. Dr. Neumayr, die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei R***** regGenmbH, *****, vertreten durch Dr. Wilfried Aichinger und Dr. Joachim Bucher, Rechtsanwälte in Villach, gegen die beklagte Partei K*****, vertreten durch Dr. Ernst Maiditsch M.B.L. HSG, Rechtsanwalt in Klagenfurt, wegen 42.560,22 EUR sA, über die „außerordentliche“ Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 5. Dezember 2012, GZ 4 R 79/12p-22, womit infolge Berufung der beklagten Partei das Urteil des Landesgerichts Klagenfurt vom 1. Februar 2012, GZ 25 Cg 210/10m-18, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zur Vorlage an das Berufungsgericht zurückgestellt.
+Text
+Begründung:
+Die klagende Bank hat dem Beklagten ein privates Kreditkonto eingerichtet. Weiters hat der Beklagte die Haftung als Bürge und Zahler für sämtliche Verbindlichkeiten einer GmbH, deren Geschäftsführer er war, gegenüber der klagenden Partei übernommen.
+Zum Zeitpunkt der Klageeinbringung (24. November 2010) haftete auf dem Kreditkonto des Beklagten ein Betrag von 25.769,31 EUR unberichtigt aus. Die klagende Partei hatte den aushaftenden Betrag am 19. März 2010 fällig gestellt. Der Kontokorrentkredit der GmbH haftete zum Zeitpunkt der Klageeinbringung in Höhe von 16.790,91 EUR unberichtigt aus. Auch dieser Kredit war am 19. März 2010 fällig gestellt worden.
+Die klagende Partei erhob eine Klage über 42.560,22 EUR (25.769,31 EUR + 16.790,91 EUR) sA. Das Erstgericht gab dem Klagebegehren statt. Abgesehen von der Abweisung eines Zinsenmehrbegehrens bestätigte das Berufungsgericht das Ersturteil und ließ die Revision mangels erheblicher Rechtsfrage nicht zu.
+Rechtliche Beurteilung
+Dagegen erhob der Beklagte eine „außerordentliche Revision“, die dem Obersten Gerichtshof unmittelbar vorgelegt wurde.
+Das widerspricht aus folgenden Gründen der Rechtslage:
+Ob der Oberste Gerichtshof zur Entscheidung über die Revision funktionell zuständig ist, richtet sich danach, ob die Voraussetzungen des § 55 Abs 1 und 4 JN vorliegen und die in der Klage geltend gemachten Beträge zusammenzurechnen sind (RIS-Justiz RS0053096 [T7]). Eine Zusammenrechnung hat nach § 55 Abs 1 Z 1 JN zu erfolgen, wenn mehrere Ansprüche von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und die Ansprüche in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Bei der Prüfung ist von den Klageangaben auszugehen (RIS-Justiz RS0106759). Fehlt es an einem tatsächlichen oder rechtlichen Zusammenhang, so muss als Entscheidungsgegenstand jeder dieser Ansprüche einzeln betrachtet werden (RIS-Justiz RS0042753).
+Ein tatsächlicher Zusammenhang iSd § 55 Abs 1 JN läge vor, wenn das für einen Anspruch erforderliche Sachvorbringen ausreicht, um auch über die anderen geltend gemachten Ansprüche entscheiden zu können, ohne dass noch ein ergänzendes Vorbringen erforderlich wäre (RIS-Justiz RS0037648 [T4]). Ein rechtlicher Zusammenhang läge etwa vor, wenn Ansprüche aus demselben Vertrag oder aus derselben Rechtsnorm abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RIS-Justiz RS0037648). Ein solcher Zusammenhang besteht jedoch dann nicht, wenn jeder der mehreren Ansprüche ein verschiedenes rechtliches und tatsächliches Schicksal haben kann (RIS-Justiz RS0037648 [T18]).
+Nach der Rechtsprechung sind mehrere Darlehensforderungen oder Forderungen aus mehreren Krediten nicht zusammenzurechnen, wenn die Darlehen bzw Kredite unabhängig voneinander gewährt wurden (RIS-Justiz RS0037838 [T10, T27 und T28]; RS0037905 [T20]).
+Da auch die hier in einer Klage geltend gemachten Kreditforderungen ein verschiedenes Schicksal haben können, liegen die Voraussetzungen nach § 55 Abs 1 JN nicht vor. Aus diesem Grund ist jede der beiden - jeweils 30.000 EUR nicht übersteigenden - Forderungen für die Frage der Zulässigkeit der Revision gesondert zu beurteilen.
+Die Akten sind dem Erstgericht zurückzustellen. Erhebt nämlich in den in § 508 Abs 1 ZPO angeführten Fällen eine Partei ein Rechtsmittel, so ist dieses gemäß § 507b Abs 2 ZPO dem Gericht zweiter Instanz vorzulegen. Dies gilt auch, wenn das Rechtsmittel - wie hier - als „außerordentliches“ Rechtsmittel bezeichnet und an den Obersten Gerichtshof gerichtet wird, weil derartige Mängel jedenfalls verbesserungsfähig sind (RIS-Justiz RS0109623).

@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+3Ob70/23z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dr. E*, vertreten durch Dr. Peter Wallnöfer und andere Rechtsanwälte in Innsbruck, gegen die beklagte Partei Dr. H*, vertreten durch Barenth & Renner Rechtsanwalts GmbH in Innsbruck, wegen 216.040,16 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 16. März 2023, GZ 2 R 23/23h-67, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach ständiger Rechtsprechung können vom Berufungsgericht verneinte Mängel des Verfahrens erster Instanz im Revisionsverfahren nicht mehr geltend gemacht werden (RS0042963), es sei denn, das Berufungsgericht hätte infolge unrichtiger Anwendung verfahrensrechtlicher Vorschriften eine Erledigung der Mängelrüge unterlassen (RS0043086 [T8]) oder die Mängelrüge mit einer durch die Aktenlage nicht gedeckten Begründung verworfen (RS0043086 [T7]). Solches behauptet die Klägerin hier jedoch gar nicht.
+[2] 		2.1. Selbst bei Bejahung einer Verletzung der Aufklärungspflicht kann sich der Arzt oder Krankenhausträger von seiner Haftung durch den Einwand des rechtmäßigen Alternativverhaltens befreien, wenn er beweist, dass der Patient auch bei ausreichender Aufklärung die Zustimmung zur Operation bzw Behandlung erteilt hätte (vgl RS0038485 [T1]). Ob der Patient in diesem Fall in die Behandlung eingewilligt hätte, ist eine Tatfrage (vgl RS0038485 [T16]).
+[3] 		2.2. Zur Frage, ob die Beklagte die Klägerin über das mit dem von ihr verschriebenen Verhütungsmittel verbundene erhöhte Thromboserisiko aufgeklärt hat, konnte zwar nur eine Negativfeststellung getroffen werden. Das Erstgericht hat allerdings auch festgestellt, dass die Klägerin selbst dann in die Behandlung eingewilligt hätte, wenn sie eine umfassende und ausführliche Aufklärung insbesondere über das erhöhte Thromboserisiko erhalten hätte. In einer solchen Konstellation liegt es auf der Hand, dass es eine Einwilligung auf Basis einer ausreichenden Aufklärung tatsächlich nicht gegeben hat; das führt aber entgegen der Ansicht der Klägerin nicht dazu, dass ihre hypothetische – auf einer ausreichenden Aufklärung basierende – Einwilligung mangels tatsächlich erfolgter umfassender Aufklärung als unwirksam anzusehen wäre.
+[4] 		3. Entgegen der Ansicht der Klägerin ist aus den von ihr zitierten Ausführungen des Berufungsgerichts, wonach ihr der Nachweis einer nicht bloß unerheblichen Erhöhung des Thromboserisikos durch die Behandlung gelungen sei, für sie nichts zu gewinnen: Das Berufungsgericht verwies nämlich darauf, dass zwar die Kausalität der Behandlung für die von der Klägerin erlittene Sinusvenenthrombose entgegen der Ansicht des Erstgerichts zumindest argumentiert werden könnte, die Kausalitätsfrage aber letztlich offen bleiben könne, weil weder eine unzureichende Aufklärung noch ein Behandlungsfehler vorliege. Gegen die Verneinung eines Behandlungsfehlers durch das Berufungsgericht wendet sich die Klägerin in dritter Instanz gar nicht, sondern beschränkt sich auf die Behauptung nicht ausreichender Aufklärung über die Risiken der Behandlung. Darauf kommt es aber nach dem oben Gesagten nicht an.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00070.23Z.0419.000

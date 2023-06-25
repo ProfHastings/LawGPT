@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.04.1952
+Geschäftszahl
+3Ob240/52
+Norm
+ABGB §37;
+Gesetz über die Gesellschaften mit beschränkter Haftung §76 (2);
+Kopf
+SZ 25/103
+Spruch
+Die Abtretung von Anteilen einer inländischen Ges. m. b. H. im Ausland bedarf der Notariatsform.
+Entscheidung vom 23. April 1952, 3 Ob 240/52.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Erstgericht hat das Klagebegehren des Inhaltes, es werde dem Beklagten gegenüber festgestellt, daß der Kläger Inhaber von 49% der Geschäftsanteile der W. Gesellschaft m. b. H. sei und daß seine Bestellung zum alleinigen Geschäftsführer auf dem Gesellschaftsvertrag beruhe, abgewiesen. Das Erstgericht ist bei diesem Urteil davon ausgegangen, daß nach der eigenen Darstellung des Klägers ihm die damalige Alleininhaberin der sämtlichen Geschäftsanteile der W. mit Abtretungsvertrag vom 29. September 1951, geschlossen in Halen, Belgien, und beglaubigt vom dortigen Bürgermeister, 49% ihrer Geschäftsanteile abgetreten und ihm die alleinige Geschäftsführung übertragen habe, ohne daß die Formvorschrift des § 76 des Gesetzes über Gesellschaften m. b. H. eingehalten worden sei.
+Das Berufungsgericht hat dieses Urteil bestätigt.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Entscheidung des Rechtsstreites hängt im Revisionsstadium nur mehr von der Lösung einer einzigen Rechtsfrage ab, davon nämlich, ob sich die Form der Abtretung von Anteilen einer österreichischen Gesellschaft m. b. H. im Ausland nach den für derlei Rechtsgeschäfte im Ausland oder den im Inland geltenden Formvorschriften richtet. Beide Vorinstanzen haben diese Frage im Sinne der zweiten Alternative beantwortet, nach Ansicht des Obersten Gerichtshofes ohne Rechtsirrtum.
+Die Revision wendet gegen die Entscheidung des Berufungsgerichtes im wesentlichen ein, daß der darin bezogene § 37 ABGB. nur das sogenannte Wirkungsstatut, die lex causae, bestimme, es für die Form des Rechtsgeschäftes aber nach dem Grundsatz "locus regit actum" auf das Formstatut, auf die lex loci actus ankomme.
+Es ist der Revision zuzugeben, daß die Regel "locus regit actum" auch im österreichischen Recht gilt (vgl. Walker, Verdroß - Droßberg, Satter in Klang's Kommentar, 2. Auflage, zu §§ 33 - 37 ABGB., S. 263) und daß bei Abweichung der Formvorschriften der lex loci actus von denen der lex causae es genügt, wenn bloß die eine Form eingehalten wird (vgl. Klang's Kommentar a. a. O., Ehrenzweig, Allgem. Teil 1925, S. 110, Walker, Internationales Privatrecht, 5. Aufl., S. 233 f., Raape, Internationales Privatrecht, 3. Aufl., S. 140, Schnitzer, 3. Aufl., Handbuch des Internationalen Privatrechtes, 3. Aufl., S. 137). Die Anwendung des Ortsstatutes nach dem Grundsatz "locus regit actum" ist aber dann ausgeschlossen, wenn die Anwendung des fremden Rechtes mit der einheimischen Rechtsauffassung unvereinbar wäre, also in den Fällen des sogenannten ordre public, der auch im österreichischen Recht gilt (vgl. Walker, a. a. O., S. 283).
+Die Grenzen des ordre public oder der Vorbehaltsklausel werden aber von der Revision zu eng abgesteckt, wenn sie das ausländische Recht nur bei einem Widerstreit gegen die guten Sitten ausschließen will. Der ordre public steht der Anwendung ausländischen Rechtes auch dann entgegen, wenn diese gegen den Zweck eines österreichischen Gesetzes verstieße (vgl. Art. 30 Einführungsgesetz zum BGB.). Das aber ist gerade hier der Fall. Der Zweck des § 76 Abs. 2 des Gesetzes über Gesellschaften mit beschränkter Haftung, RGBl. Nr. 58/1906, ist es, zu verhindern, daß die Geschäftsanteile einer Gesellschaft m. b. H. Gegenstand des Handelsverkehrs werden. Dieser Zweck würde vereitelt werden, wenn die Abtretung von Geschäftsanteilen im Ausland ohne die Form des § 76 Abs. 2 Ges. m. b. H.-Gesetz zugelassen würde. Die gleiche Rechtsauffassung wird auch allgemein im reichsdeutschen Recht gegenüber der gleichlautenden, dem gleichen Zweck dienenden Vorschrift des § 15 Abs. 3 des deutschen Gesetzes betreffend die Gesellschaften m. b. H., RGBl. S. 477/1892, vertreten (Hachenburg, Kommentar zum Ges. m. b. H.-Gesetz, 5. Auflage, S. 327, Anm. 35 zu § 15; Brodmann Ges. m. b. H.-Gesetz, S. 66; Schnitzer, Handbuch des Internationalen Handelsrechtes 1938, S. 146). Es hat darum auch die deutsche Rechtsprechung die Zulässigkeit einer formfreien Abtretung von Geschäftsanteilen einer Gesellschaft m. b. H. im Ausland allgemein nicht nach den Grundsätzen des Art. 11 Satz 2 des Einführungsgesetzes zum BGB., sondern nach Art. 30 dieses Gesetzes beurteilt und demgemäß die formlose Abtretung von Geschäftsabteilen einer Ges. m. b. H., auch wenn sie im Ausland vorgenommen wird, als wirkungslos erkannt (vgl. die bei Hachenburg, Kommentar in Anm. 15 zu § 35 sowie die bei Schnitzer, Handbuch des Internationalen Handelsrechtes 1938, S. 146, Fußnote 1, angeführte Rechtsprechung).
+Die Entscheidung der Vorinstanzen beruht daher auf herrschender Lehre und Rechtsprechung; von ihr abzugehen besteht keinerlei Anlaß.

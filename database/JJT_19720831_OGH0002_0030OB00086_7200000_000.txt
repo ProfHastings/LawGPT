@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.08.1972
+Geschäftszahl
+3Ob86/72
+Norm
+ABGB §6;
+ABGB §7;
+Mietengesetz §42 Abs1;
+Mietrechtsänderungsgesetz 1967 §§1;
+Kopf
+SZ 45/90
+Spruch
+Die Bestimmung des § 42 Abs 1 MG hat durch das MRÄG 1967 keine Änderung erfahren
+Die Gerichte haben nur die bestehenden Gesetze anzuwenden; es ist hingegen nicht ihre Aufgabe, im Wege einer allzu weitherzigen Interpretation rechtspolitische Aspekte zu berücksichtigen, die den Gesetzgeber bisher nicht veranlaßt haben, eine Gesetzesänderung vorzunehmen; unbefriedigende Gesetzesbestimmungen zu ändern, ist nicht Sache der Rechtsprechung, sondern der Gesetzgebung
+OGH 31. 8. 1972, 3 Ob 86/72 (OLG Wien 2 R 21/72; HG Wien 1 Cg 239/70)
+Text
+Das Erstgericht bewilligte zur Hereinbringung der Forderung von S
+753.369.30 und anderer Forderungen samt Nebengebühren ua die Pfändung und Überweisung der den beiden Verpflichteten gegen die Drittschuldner Ing Kurt M und August K, auf Grund eines Mietvertrages angeblich zustehenden Forderung von jeweils monatlich S 2000.- mehr oder weniger, "und zwar aus dem Gesamtmietzins nur den verrechnungsfreien Teil des frei vereinbarten Mietzinses."
+Das Rekursgericht wies den Antrag auf Pfändung und Überweisung der Mietzinsforderung zur Gänze ab.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Schwerpunkt des Revisionsrekurses liegt in der Anfechtung der Abweisung des Antrages auf Bewilligung der Exekution auf die Mietzinsforderung (P 2 der Rekursentscheidung). Die gegenständliche Mietzinsforderung gebührt nach dem beiderseitigen Vorbringen (Exekutionsantrag, Rekurs und Revisionsrekurs) aus einem Mietvertrag, für den die Bestimmungen des § 42 Abs 1 MG gelten. Nach diesen kann - ausgenommen die hier offenbar nicht vorliegende selbständige Grundstückmiete - nur im Wege der Zwangsverwaltung Exekution geführt werden.
+Die betreibende Gläubigerin vertritt hingegen die Ansicht, daß in dem durch das MRÄG 1967 geschaffenen Rahmen hinsichtlich des verrechnungsfreien Teiles des frei vereinbarten Mietzinses (§ 16 MG im Zusammenhang mit § 6 Abs 4 MG) jedwede Berechtigung für die Exekutionsbeschränkung des § 42 Abs 1 MG fehle, daß derartige verrechnungsfreie Teile des Hauptmietzinses also nicht als exekutionsfreie "Mietzinse" iS dieser Bestimmung anzusehen seien. Das Rekursgericht hat - ohne auf dieses Rechtsproblem überhaupt einzugehen - die Forderungsexekution auf den gesamten Mietzins mit Recht für unzulässig gehalten.
+Die betreibende Gläubigerin macht zunächst unter Berufung auf Zingher, MG[14], 163, Swoboda, Komm z MG[2], 321 ff, Hofmannsthal - Trnka 246 ff, verfassungsmäßige Bedenken gegen die Wiederverlautbarung des Mietengesetzes durch die VO vom 22. 6. 1929, BGBl 210 geltend. Abgesehen davon, daß sich der damit gemeinte Redaktionsverstoß nicht auf den Satz 1, sondern auf Satz 2 des § 42 Abs 1 MG bezieht, welche letztere Bestimmung hier überhaupt nicht anzuwenden ist, weil es sich nicht um eine Zwangsverwaltung, sondern um eine Exekution auf Geldforderungen (§§ 290 ff EO) handelt, so spricht gerade auch der ursprüngliche, bisher nach Ansicht der betreibenden Gläubigerin vom Gesetzgeber nicht geänderte Wortlaut dieser Bestimmung gegen die von ihr zur Auslegung des § 42 Abs 1 Satz 1 MG geäußerte Ansicht. Nicht erst das MRÄG 1967 hat verrechnungsfreie Teile des Mietzinses geschaffen, solche gab es bereits im Mietengesetz vom 7. 12. 1922, BGBl 872, dessen § 2 Abs 1 unter lit a den Grundmietzins, lit b den Instandhaltungszins, lit c die Betriebskosten und lit d die Liegenschaftsabgaben usw als Bestandteile des Mietzinses kannte. Der Grundmietzins (§ 2 Abs 1 lit a MG 1922) stellte eine verrechnungsfreie Rente des Hauseigentümers dar. Der § 42 Abs 1 Satz 2 lautete damals: "Im Zuge der Zwangsverwaltung hat der Verwalter die im § 2 Abs 1 P b bis d bezeichneten Teile des Mietzinses in der von diesem Gesetze vorgeschriebenen Weise zu verwenden". Daraus ergibt sich, daß der Gesetzgeber schon damals im § 42 Abs 1 und 2 MG zwischen verrechnungsfreien und zweckgebundenen Teilen des Mietzinses ausdrücklich unterschieden hat, diese Unterscheidung im Satz 1 des § 42 Abs 1 MG aber unterlassen hat. Das Rekursgericht hat daher mit Recht angenommen, daß sich letztere Bestimmung auf den gesamten Mietzins aus den dort genannten Mietverträgen bezieht. Bei der Auslegung dieser auch nach dem MRÄG 1967 unverändert gebliebenen Bestimmung ist unbeachtlich, daß das mögliche Ausmaß des frei verfügbaren (verrechnungsfreien) Teiles des Mietzinses durch Änderungen des Mietengesetzes immer größer geworden ist und diesen Teilen des Mietzinses daher als Exekutionsobjekte immer mehr Bedeutung zukommen kann. Die Gerichte haben nur die bestehenden Gesetze anzuwenden; es ist hingegen nicht ihre Aufgabe, im Wege einer allzu weitherzigen Interpretation rechtspolitische Aspekte zu berücksichtigen, die den Gesetzgeber bisher (bewußt oder unbewußt) nicht veranlaßt haben, eine Gesetzesänderung vorzunehmen; unbefriedigende Gesetzesbestimmungen zu ändern ist nicht Sache der Rechtsprechung, sondern der Gesetzgebung (vgl SZ 40/154).
+Nach § 42 Abs 1 MG kann also der gesamte Mietzins, einschließlich des verrechnungsfreien Teiles, nur im Wege der Zwangsverwaltung in Exekution gezogen werden. Das Rekursgericht hat daher den Antrag auf Bewilligung der Exekution auf die den beiden Verpflichteten gegen die Drittschuldner Ing Kurt M und August K auf Grund eines Mietvertrages angeblich zustehenden Mietzinsforderungen zu Recht abgewiesen.

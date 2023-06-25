@@ -1,0 +1,46 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+7Ob10/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei H*, vertreten durch Dr. Christoph Reitmann, LL.M., Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei K*versicherung auf Gegenseitigkeit, *, vertreten durch Mag. Alexander Jelly, Rechtsanwalt in Villach, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 30. November 2021, GZ 3 R 111/21z-15, mit dem das Urteil des Landesgerichts Klagenfurt vom 28. Juli 2021, GZ 26 Cg 13/21i-11, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.833,16 EUR (darin 313,86 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen den Parteien besteht eine – in einer Haushaltsversicherung eingeschlossene – Privat-Haftpflichtversicherung, der die Allgemeinen Bedingungen für Haushaltsversicherungen in der Fassung 1989 (ABH)  des beklagten Versicherungsvereins zugrundeliegen; die ABH lauten auszugsweise wie folgt:
+„[…]
+II. Haftpflichtversicherung:
+[…]
+Artikel 10
+Welche Gefahren sind versichert?
+Die Versicherung erstreckt sich auf Schadenersatzverpflichtungen des Versicherungsnehmers als Privatperson aus den Gefahren des täglichen Lebens mit Ausnahme der Gefahr einer betrieblichen, beruflichen oder gewerbsmäßigen Tätigkeit, insbesondere […]
+[…]
+Artikel 15
+Für welche Schadenersatzverpflichtungen wird keine Leistung erbracht?
+[…]
+4. Schadenersatzverpflichtungen aus Schäden, die der Versicherungsnehmer oder die für ihn handelnden Personen verursachen, durch Haltung oder Verwendung von
+[…]
+4.3 Kraftfahrzeugen oder Anhängern, die ein behördliches Kennzeichen tragen müssen oder tatsächlich tragen.
+Die Begriffe […] Kraftfahrzeug, Anhänger und behördliches Kennzeichen sind im Sinne des Kraftfahrgesetzes (BGBl Nr. 267/1967) beide in der jeweils geltenden Fassung auszulegen.
+[…]“
+[2] 		Das Berufungsgericht wies das Begehren des Klägers auf Feststellung der Deckungspflicht der Beklagten ab. Der durch Schweißarbeiten des Klägers an seinem Auto verursachte, das ihm von einem Bekannten hierfür  überlassene Gebäude beschädigende Brand, der sich an von einem Fahrzeugvorbesitzer beim Umbau des Fahrzeugs verwendetem brennbarem PU-Schaum entzündet hatte, sei bei Verwendung des Fahrzeugs entstanden und daher nach Art 15.4.3 ABH ausgeschlossen. Das Berufungsgericht ließ die ordentliche Revision zur Frage zu, ob „Verwenden“ eines Fahrzeugs vorliege.
+[3] 		Die Klagsstattgebung beantragende Revision des Klägers ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung des Rechtsmittels kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+[4] 		1. Der vorliegenden Klausel Art 15.4.3 ABH wortgleiche Bestimmungen waren bereits wiederholt Gegenstand der Rechtsprechung des Fachsenats (vgl unlängst etwa 7 Ob 155/21a):
+Rechtliche Beurteilung
+[5] 		1.1. Art 15.4.3 ABH enthält nach seiner klaren Formulierung einen Risikoausschluss (vgl 7 Ob 159/08b).
+[6] 		Nach ständiger Rechtsprechung des Senats sind dadurch Schadenersatzverpflichtungen aus Halten oder Verwenden von nach dem österreichischen KFG kennzeichenpflichtigen Kraftfahrzeugen schlechthin von der Haushaltsversicherung ausgeschlossen (RS0110470 [T1]).
+[7] 		1.2. Der Oberste Gerichtshof hat ebenfalls bereits ausgesprochen, dass der Begriff des „Verwendens“ eines Fahrzeugs (iSd § 2 Abs 1 KHVG) einerseits weiter als der Begriff des „Betriebes“ iSd § 1 EKHG ist und insbesondere nicht nur die Verwendung des Fahrzeugs auf Straßen, sondern die Verwendung des Fahrzeugs schlechthin betrifft und daher auch nicht dem Betriebsbegriff des EKHG unterliegende Benutzung des versicherten Fahrzeugs (etwa als ortsgebundene Kraftquelle zB zum Entladen anderer Fahrzeuge) umfasst (RS0116494). Andererseits gehört die Durchführung von (nicht gewerbsmäßigen) Reparaturarbeiten am PKW durch den Lenker zum Gebrauch eines Fahrzeugs, sodass die daraus entstandenen Schäden der Kraftfahrzeughaftpflichtversicherung unterliegen (7 Ob 46/05y mwN = RS0081140 [T2] = RS0088976 [T10]; 2 Ob 178/11g = RS0088976 [T15]).
+[8] 		2. Hier wollte der Kläger an einem von ihm zuvor gebraucht erworbenen, zwar zum Verkehr zugelassenen und mit einem behördlichen Kennzeichen versehenen, jedoch mit Mängeln behafteten Multivan unter anderem durch „punktuelle Schweißarbeiten“ Rost im Bereich des rückwärtigen linken Kotflügels (Holmblech) beseitigen, um das Fahrzeug in der Folge einer Begutachtung nach § 57a KFG unterziehen zu können. Diese Arbeiten wollte er in einer auf der Landwirtschaft eines Bekannten als Lagerraum und Werkstatt eingerichteten Räumlichkeit durchführen, die ihm dieser zur Verfügung gestellt hatte. Im Bereich des linken Kotflügels war von einem Vorbesitzer des Fahrzeugs nachträglich eine Außensteckdose angebracht worden, wobei Hohlräume im Bereich der nachträglich eingebauten Steckdose mit leicht entflammbarem PU-Schaum ausgefüllt worden waren, was der Kläger nicht wusste. Der PU-Schaum geriet durch die Schweißarbeiten des Klägers in Brand, nach dem Öffnen eines Schiebetors fand eine explosionsartige Entzündung statt. Der Brand beschädigte das dem Kläger von seinem Bekannten überlassene Gebäude, der den Kläger wegen Schadenersatz gerichtlich in Anspruch nimmt.
+[9] 		3. Die Auffassung des Berufungsgerichts, dass die festgestellten (Schweiß-)Arbeiten am Fahrzeug als „Verwenden“ iSd Art 15.4.3 ABH anzusehen und daher von der Versicherungsdeckung der Privat-Haftpflichtversicherung ausgeschlossen sind, zumal diese Reparaturarbeiten auch in innerem Zusammenhang mit dem Gebrauch des Fahrzeugs, insbesondere der Herstellung eines den Erfordernissen der Verkehrs- und Betriebssicherheit entsprechenden Zustands iSd § 57a KFG standen, hält sich im Rahmen der dargelegten Rechtsprechung. Ebenso zumindest vertretbar ist die Auffassung des Berufungsgerichts, dass der vorliegende Sachverhalt der Entzündung von im Fahrzeug verwendeten Haushaltsgeräten (7 Ob 177/04m) nicht vergleichbar ist, weil sich dort – anders als hier – nur das Risiko eines unsachgemäß und bestimmungswidrig verwendeten Zusatzgeräts (Heizlüfter) verwirklichte (vgl dagegen 2 Ob 170/20v).
+[10] 		4.1. Die Revision vermag dagegen keine aufzugreifende Fehlbeurteilung des Berufungsgerichts aufzuzeigen. Insbesondere kommt es nicht darauf an, dass „ein in der Karosserie üblicherweise nicht vorzufindendes Material im Zuge der Schweißarbeiten Feuer fing“, weil schon die Reparaturtätigkeit im Sinne der oben Gesagten schadenauslösend war; die bloße Behauptung, dass nur das Entzünden von Treibstoff als typische Gefahr eines Kraftfahrzeugs anzusehen wäre, oder dass der Schaden im Zusammenhang mit der „Motorleistung des Kraftfahrzeugs“ stehen müsse, entspricht nicht der dargelegten Judikatur. Dass der Brand auch entstanden wäre, wenn die Schweißarbeiten an einem anderen, nicht feuerfesten Objekt durchgeführt worden wären, von dem „üblicherweise keine oder nur geringere Betriebsgefahr“ ausgehe, geht zudem nicht von der in der Rechtsprechung getroffenen Unterscheidung von „Verwendung“ und „Betrieb“ aus.
+[11] 		4.2. Auch mit den Darlegungen, die hier vereinbarten AHB seien vor dem KHVG 1994 verfasst und müssten im Sinne der davor geltenden Rechtslage und älterer Rechtsprechung zu den AKHB ausgelegt werden, zeigt der Kläger keine erhebliche Rechtsfrage auf.
+[12] 		Abgesehen davon, dass er in erster Instanz kein Vorbringen zum Zeitpunkt des Zustandekommens des Versicherungsvertrags erstattet hat, muss ein Versicherungsnehmer stets mit Risikoausschlüssen und -begrenzungen rechnen, weil es in Österreich keine All-Risk-Versicherung gibt (RS0119747) und eine allfällige (individuelle) Deckungslücke – im Hinblick auf einen begrenzten Deckungsumfang einer (zudem in einer Haushaltsversicherung eingeschlossenen) Privat-Haftpflichtversicherung des Klägers – nicht jedenfalls verhindert werden muss (vgl 7 Ob 49/17g). Für einen verständigen Versicherungsnehmer ergibt sich aus Art 15.4.3 ABH klar, dass dieser nicht nur der Abgrenzung zur Kraftfahrzeug-Haftpflichtversicherung dient, sondern generell das besondere aus Halten und Verwenden von Kraftfahrzeugen resultierende Risiko ausschließen soll (vgl 7 Ob 155/21a; 7 Ob 199/98k). Auf Fragen der Auslegung von – hier auch gar nicht gegenständlichen – AKHB kommt es daher nicht an.
+[13] 		4.3. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00010.22D.0525.000

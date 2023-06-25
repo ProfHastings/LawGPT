@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.03.2013
+Geschäftszahl
+3Ob26/13i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie den Hofrat Univ.-Prof. Dr. Neumayr, die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei Dkfm. D*****, vertreten durch Huainigg, Dellacher & Partner Rechtsanwälte OG in Klagenfurt, gegen die beklagte Partei Ing. Mag. J*****, vertreten durch Dr. Walter Suppan, Rechtsanwalt in Klagenfurt, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 23. November 2012, GZ 1 R 140/12a-23, womit infolge Berufung der klagenden Partei das Urteil des Bezirksgerichts Klagenfurt vom 29. Februar 2012, GZ 14 C 578/11s-19, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Den Gegenstand des Revisionsverfahrens bildet (nur mehr) der Kündigungsgrund nach § 30 Abs 2 Z 4 zweiter Fall MRG (Weitergabe gegen unverhältnismäßig hohe Gegenleistung). Die erhebliche Rechtsfrage erblickt der Kläger darin, dass es „im Graubereich zwischen 50 und 100 % Überschreitung“ klärender Judikatur dazu bedürfe, ab wann und unter welchen hinzutretenden Umständen von einer unzulässigen Weitervermietung auszugehen sei. Konkret verlangt der Kläger, dass bei der Ermittlung des (bezogen auf die untervermieteten Flächen) aliquoten Hauptmietzinses die vom Bestandrecht des Mieters umfassten Kellerflächen in Anschlag zu bringen seien, und vom Untermieter getätigte Investitionen, von denen ausschließlich der Mieter profitiere, zu Ungunsten des Mieters zu berücksichtigen seien.
+Damit gelingt es dem Kläger nicht, eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufzuzeigen, weshalb die Revision als unzulässig zurückzuweisen ist.
+1. Es steht fest, dass der Kläger dem beklagten Mieter Mietzins der Kategorie A vorschreibt. Nach § 15a Abs 3 MRG errechnet sich dieser nach den Quadratmetern der Nutzfläche, zu der gemäß § 17 Abs 2 MRG Kellerräume ausdrücklich nicht zählen. Die mitgemieteten Kellerräume nehmen daher keinen Einfluss auf die Höhe des vom Mieter zu leistenden Bestandzins. Daher ist es nur konsequent, sie auch bei der Ermittlung des auf die untervermietete Nutzfläche entfallenden Hauptmietzinses unberücksichtigt zu lassen. Dementsprechend hat der Kläger selbst in seiner Berufung auch gar nicht die Einbeziehung der Kellerflächen reklamiert, sondern auf Basis der vom Erstgericht festgestellten Nutzflächen der beiden (als Einheit anzusehenden) Bestandobjekte argumentiert.
+Wenn daher das Berufungsgericht bei der regelmäßig keine erhebliche Rechtsfrage darstellenden Beurteilung der Angemessenheit der vom Mieter erzielten Gegenleistung (RIS-Justiz RS0106983) nur von den Nutzflächen ausgeht, kann darin keine korrekturbedürftige Fehlbeurteilung erblickt werden.
+2. Der Kläger zeigt eine unvertretbare Beurteilung des Berufungsgerichts zur Frage der Berücksichtigung von vom Untermieter im Bestandobjekt getätigten Investitionen schon deshalb nicht auf, weil er eine ausreichende Konkretisierung und Bezifferung des angeblich nicht berücksichtigten Aufwands des Untermieters unterlässt, sodass dessen konkrete rechnerische Auswirkung auf die Verhältnismäßigkeitsprüfung nicht darlegt wird.
+Im Übrigen steht fest, dass im Zug der Beendigung des Untermietverhältnisses eine Aufrechnung erfolgte, und zwar ua mit den Ersatzansprüchen der Untermieterin aus den von ihr getätigten Investitionen (Ausmalen, Renovieren von Fenstern und Türen, Verlegen eines Laminatbodens) gegen die von 1. Mai 2011 bis 9. August 2011 offenen Untermieten, wobei es nicht zur gänzlichen Tilgung des Untermietzinsrückstands kam. Das bedeutet, dass eine vollständige Vergütung durch den Mieter vorgenommen wurde.
+Schon deshalb ist die unterbliebene Berücksichtigung der Aufwendungen des Untermieters auf das Bestandobjekt als jedenfalls vertretbare Rechtsansicht zu beurteilen (vgl 4 Ob 508/87 = RIS-Justiz RS0070541).
+3. Die vom Berufungsgericht angenommene Überschreitung von rund 70 % liegt innerhalb des von der höchstgerichtlichen Judikatur noch als tolerierbar gewerteten Bereichs (RIS-Justiz RS0068141 [T14 und T16]; 5 Ob 121/08t [100 % oder mehr ist unverhältnismäßig]).
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0030OB00026.13I.0313.000

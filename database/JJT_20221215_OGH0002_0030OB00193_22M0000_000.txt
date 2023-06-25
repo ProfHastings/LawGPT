@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2022
+Geschäftszahl
+3Ob193/22m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei W*, vertreten durch Braun Königstorfer Rechtsanwälte OG in Salzburg, und ihrer Nebenintervenientinnen 1. F* GmbH, *, vertreten durch Dr. Harald Schwendinger, Rechtsanwalt in Salzburg, 2. I* GmbH & Co KG, *, vertreten durch Dr. Michael Langhofer, Rechtsanwalt in Seekirchen, gegen die beklagte Partei B* Gesellschaft m.b.H., *, vertreten durch Mag. Dieter Niederhumer, Rechtsanwalt in Linz, wegen restlicher 23.569,85 EUR sA, über die Revision der Erstnebenintervenientin auf Seiten der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 3. August 2022, GZ 2 R 104/22k-56, womit das Urteil des Landesgerichts Steyr vom 28. April 2022, GZ 9 Cg 31/19g-48, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.568,52 EUR (hierin enthalten 261,42 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Vorinstanzen wiesen das auf Produkthaftung gestützte Klagebegehren ab. Das Berufungsgericht ließ die ordentliche Revision zur Frage zu, ob im Regime des PHG eine im Ausmaß nicht feststellbare addierte Kausalität zu einer Schadenersatzhaftung führe, wenn bei berechtigter Sicherheitserwartung des Produkts und Entfall der addierten Kausalität der Schaden keine Änderung erfahre.
+Rechtliche Beurteilung
+[2] 		Die Revision der Nebenintervenientin ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+[3] 		1. Gemäß § 5 PHG ist ein Produkt fehlerhaft, wenn es nicht die Sicherheit bietet, die man unter Berücksichtigung aller Umstände zu erwarten berechtigt ist. Dies gilt demnach insbesondere für ein Produkt, das nicht einmal für jenen Gebrauch, der im Rahmen der Zweckwidmung des Erzeugers liegt, die erforderliche Sicherheit bietet, die ein durchschnittlicher Verbraucher oder Benützer erwarten darf und erwartet (vgl RS0107605 [T10]).
+[4] 		2. Die Vorinstanzen begründeten die Abweisung des Klagebegehrens nicht bloß mit der mangelnden Kausalität des behaupteten Produktfehlers für den entstandenen Schaden, sondern auch damit, dass gar kein Produktfehler vorliege. Es sei nämlich nicht Aufgabe des Produkts der Beklagten (einer Unterdachbahn, die entgegen dem Produktdatenblatt nicht diffusionsoffen war), einen auf Mängel an anderen Gewerken, konkret auf die undichte Dampfbremse, zurückzuführenden Schaden am Haus zu verhindern oder zu minimieren, weil Aufgabe der Unterdachbahn nur die Ableitung eines Wassereintritts von außen sei; demnach biete es die Sicherheit, die man unter Berücksichtigung aller Umstände zu erwarten berechtigt sei, besonders angesichts des Gebrauchs des Produkts, mit dem billigerweise gerechnet werden könne, nämlich bei intakter Dampfsperre der Dachstuhlkonstruktion.
+[5] 		3. Gegen diese alternative, selbständig tragfähige Begründung für die Abweisung des Klagebegehrens führt die Revisionswerberin nichts ins Treffen. Damit kommt es aber auf die von ihr wie auch vom Berufungsgericht als erheblich erachtete Rechtsfrage hinsichtlich der Kausalität gar nicht mehr an und es ist auch nicht auf die nur in diesem Zusammenhang behaupteten Verfahrensmängel einzugehen.
+[6] 		4. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen. Da die unterlegene Nebenintervenientin nicht zum Kostenersatz herangezogen werden kann (RS0035816), ist der Kläger, dem die Disposition über die Revision seiner Nebenintervenientin offengestanden wäre, zum Kostenersatz verpflichtet (vgl RS0036057). Der verzeichnete Streitgenossenzuschlag von 15 % gebührt jedoch nicht, weil der Beklagten bei Verfassung der Revisionsbeantwortung nur die Erstnebenintervenientin als Prozessgegnerin gegenüber stand (vgl 9 Ob 39/17a mwN).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00193.22M.1215.000

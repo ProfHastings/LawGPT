@@ -1,0 +1,138 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.11.2011
+Geschäftszahl
+10Ob31/11y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofräte Dr. Fellinger, Dr. Hoch, Dr. Schramm und die Hofrätin Dr. Fichtenau als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, *****, vertreten durch Kosesnik-Wehrle & Langer Rechtsanwälte KG in Wien, gegen die beklagte Partei T***** GmbH, *****, vertreten durch LANSKY, GANZGER + partner Rechtsanwälte GmbH in Wien, wegen Unterlassung (Streitwert 30.500 EUR) und Urteilsveröffentlichung (Streitwert 5.500 EUR), infolge Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. Jänner 2011, GZ 4 R 209/10z-10, womit infolge Berufung der beklagten Partei das Urteil des Handelsgerichts Wien vom 1. Juni 2010, GZ 18 Cg 14/10p-6, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Dem Gerichtshof der Europäischen Union werden gemäß Art 267 AEUV folgende Fragen zur Vorabentscheidung vorgelegt:
+1. Ist Art 52 Abs 3 der Richtlinie 2007/64/EG des Europäischen Parlaments und Rates vom 13. 11. 2007 über Zahlungsdienste im Binnenmarkt dahin auszulegen, dass er auch auf das Vertragsverhältnis zwischen einem Mobilfunkbetreiber als Zahlungsempfänger und seinen Privatkunden (Verbraucher) als Zahler Anwendung zu finden hat?
+2. Sind ein vom Zahler eigenhändig unterschriebener Zahlschein bzw das auf einem unterschriebenen Zahlschein beruhende Verfahren zur Erteilung von Überweisungsaufträgen sowie das zur Erteilung von Überweisungsaufträgen im Onlinebanking (Telebanking) vereinbarte Verfahren als „Zahlungsinstrumente“ iSd Art 4 Z 23 und des Art 52 Abs 3 der Richtlinie 2007/64/EG anzusehen?
+3. Ist Art 52 Abs 3 der Richtlinie 2007/64/EG dahin auszulegen, dass er der Anwendung nationaler Rechtsvorschriften entgegensteht, die ein generelles und insbesondere nicht zwischen verschiedenen Zahlungsinstrumenten differenzierendes Verbot der Erhebung von Entgelten durch den Zahlungsempfänger vorsehen?
+II. Das Verfahren wird bis zum Einlangen der Vorabentscheidung des Gerichtshofs der Europäischen Union ausgesetzt.
+Text
+Begründung:
+I. Sachverhalt:
+Die beklagte Partei ist einer der bundesweiten Anbieter von Mobiltelefondienstleistungen in Österreich. Sie schließt laufend mit Verbrauchern Telekommunikationsverträge ab und verwendet dabei von ihr stets aktualisierte Allgemeine Geschäftsbedingungen (AGB), in welchem sich (Stand: November 2009) folgende Klausel findet:
+„§ 23
+…
+1.2 Alle Zahlungsarten werden als schuldbefreiend anerkannt, jedoch verrechnen wir Ihnen bei Zahlungen über Zahlschein oder Telebanking ein Bearbeitungsentgelt - der Betrag richtet sich nach den für Sie geltenden Tarifbestimmungen.“
+Wenn ein Kunde der beklagten Partei den Tarif „Call Europe“ anmeldet und verwendet, hat er dieser Klausel folgend 3 EUR pro Monat zusätzlich zu zahlen, wenn er eine „Zahlung ohne Bankeinzug oder Kreditkarte“ wählt. Eine solche Zahlung umfasst insbesondere die Zahlung mit Zahlschein oder über Onlinebanking (Telebanking).
+II. Anträge und Vorbringen der Parteien:
+Der nach § 28a KSchG klagsberechtigte Verein begehrt mit der vorliegenden Klage die beklagte Partei schuldig zu erkennen, im geschäftlichen Verkehr mit Verbrauchern in Allgemeinen Geschäftsbedingungen (AGB), die sie den von ihr geschlossenen Verträgen zugrundelegt und/oder in hiebei verwendeten Vertragsformblättern die Verwendung der erwähnten Klausel (§ 23 1.2 der AGB) oder einer sinngleichen Klausel sowie die Berufung darauf, soweit diese unzulässigerweise vereinbart worden seien, zu unterlassen. Weiters begehrt sie, dass es die beklagte Partei im geschäftlichen Verkehr mit Verbrauchern zu unterlassen habe, Entgelte für die Durchführung von Zahlungen an die beklagte Partei mit bestimmten Zahlungsarten zu erheben, insbesondere ein Entgelt von 3 EUR pro Zahlung für „Zahlung ohne Bankeinzug oder Kreditkarte“. Schließlich begehrt die klagende Partei die Ermächtigung zur Urteilsveröffentlichung.
+Die klagende Partei begründete ihr Begehren im Wesentlichen damit, die beanstandete Klausel verstoße gegen die zwingende Bestimmung des § 27 Abs 6 zweiter Satz Zahlungsdienstegesetz (ZaDiG). Danach sei die Erhebung von Entgelten durch die beklagte Partei als Zahlungsempfängerin im Falle der Nutzung eines bestimmten Zahlungsinstruments unzulässig.
+Die beklagte Partei beantragte die Abweisung des Klagebegehrens und wendete, soweit dies für den gegenständlichen Beschluss von Bedeutung ist, im Wesentlichen ein, sie falle nicht in den persönlichen und sachlichen Anwendungsbereich der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom 13. 11. 2007 über Zahlungsdienste im Binnenmarkt (im Folgenden: Richtlinie 2007/64/EG) und des ZaDiG, weil sie nicht „Zahlungsdienstleister“ sei und ihr Geschäftszweck nicht in der Erbringung von „Zahlungsdiensten“, sondern im Betrieb des Mobilkommunikationsgeschäfts liege. Ein Zahlschein sei in Ermangelung personalisierter Sicherheitsmerkmale auch kein „Zahlungsinstrument“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG bzw des § 3 Z 21 ZaDiG, sondern lediglich ein standardisierter Zahlungsvordruck. Die Umsetzung des Art 52 Abs 3 der Richtlinie 2007/64/EG durch § 27 Abs 6 zweiter Satz ZaDiG sei nicht richtlinienkonform erfolgt, weil der österreichische Gesetzgeber die Untersagung von Entgelten für bestimmte Zahlungsinstrumente iSd 42. Erwägungsgrundes der Richtlinie nicht konkret begründet und somit sachlich gerechtfertigt habe.
+III. Bisheriges Verfahren:
+Das Erstgericht gab dem Klagebegehren vollinhaltlich statt. Es bejahte die Anwendbarkeit des ZaDiG auf die beklagte Partei als Zahlungsdienstnutzer und führte aus, ein vom Zahler ausgefüllter und unterschriebener Zahlschein sowie das Verfahren, wie es beim Onlinebanking (Telebanking) verwendet werde, seien „Zahlungsinstrumente“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG bzw des § 3 Z 21 ZaDiG. Die Norm des § 27 Abs 6 ZaDiG stehe auch im Einklang mit der Bestimmung des Art 52 Abs 3 der Richtlinie 2007/64/EG.
+Das Berufungsgericht gab der Berufung der beklagten Partei keine Folge. Es bejahte ebenfalls die Anwendbarkeit des ZaDiG. Es vertrat aber die Auffassung, dass zwar das Onlinebanking (Telebanking), nicht jedoch der Zahlschein als „Zahlungsinstrument“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG anzusehen sei. Da die Bestimmung des Art 52 Abs 3 der Richtlinie 2007/64/EG von der Vollharmonisierung ausgenommen sei, könne der nationale Gesetzgeber ein Verbot für die Einhebung von Entgelten nicht nur hinsichtlich der „Zahlungsinstrumente“ im Sinne der Richtlinie, sondern auch hinsichtlich weiterer Zahlungsvorgänge, wie beispielsweise der Überweisungen mit Zahlschein, vorsehen. Von dieser Möglichkeit habe der österreichische Gesetzgeber mit der Bestimmung des § 27 Abs 6 ZaDiG in richtlinienkonformer Weise Gebrauch gemacht. Nach dieser Bestimmung dürfe zwar der Zahlungsdienstleister dem Zahlungsempfänger nicht verwehren, dem Zahler für die Nutzung eines bestimmten Zahlungsinstruments eine Ermäßigung anzubieten. Die Erhebung von Entgelten durch den Zahlungsempfänger im Falle der Nutzung eines bestimmten Zahlungsinstruments sei aber unzulässig. Dieses Verbot diene den in Art 52 Abs 3 letzter Satz der Richtlinie 2007/64/EG genannten Zwecken der Förderung des Wettbewerbs und eines funktionierenden Preissystems.
+Die beklagte Partei erhob gegen diese Entscheidung Revision.
+Die klagende Partei erstattete eine Revisionsbeantwortung.
+IV. Gemeinschaftsrecht:
+Die Richtlinie 2007/64/EG verfolgt den Zweck, die Grundlage für einen EU-weiten Binnenmarkt für den Zahlungsverkehr zu schaffen. Sie enthält auszugsweise folgende Regelungen:
+Titel I
+Gegenstand, Anwendungsbereich und Begriffsbestimmungen
+Artikel 1
+Gegenstand
+(1) In dieser Richtlinie werden die Regeln festgelegt, nach denen die Mitgliedstaaten die folgenden sechs Kategorien von Zahlungsdienstleistern unterscheiden:
+…
+(2) Darüber hinaus werden in dieser Richtlinie die Transparenz der Vertragsbedingungen und die Informationspflichten für Zahlungsdienste sowie die jeweiligen Rechte und Pflichten von Zahlungsdienstnutzern und Zahlungsdienstleistern bei der hauptberuflichen oder gewerblichen Erbringung von Zahlungsdiensten geregelt.
+Artikel 2
+Anwendungsbereich
+(1) Diese Richtlinie gilt für Zahlungsdienste, die innerhalb der Gemeinschaft geleistet werden …
+…
+Artikel 4
+Begriffsbestimmungen
+Für die Zwecke dieser Richtlinie bezeichnet der Begriff
+…
+3. „Zahlungsdienst“ jede im Anhang aufgeführte gewerbliche Tätigkeit;
+…
+7. „Zahler“ eine natürliche oder juristische Person, die Inhaber eines Zahlungskontos ist und die einen Zahlungsauftrag von diesem Zahlungskonto gestattet oder - falls kein Zahlungskonto vorhanden ist - eine natürliche oder juristische Person, die den Auftrag für einen Zahlungsvorgang erteilt;
+8. „Zahlungsempfänger“ eine natürliche oder juristische Person, die den bei einem Zahlungsvorgang transferierten Geldbetrag als Empfänger erhalten soll;
+9. „Zahlungsdienstleister“ Rechtssubjekte im Sinne von Artikel 1 Absatz 1 sowie natürliche und juristische Personen, für die gemäß Artikel 26 eine Ausnahmeregelung gilt;
+10. „Zahlungsdienstnutzer“ eine natürliche oder juristische Person, die einen Zahlungsdienst als Zahler oder Zahlungsempfänger oder in beiden Eigenschaften in Anspruch nimmt;
+11. „Verbraucher“ eine natürliche Person, die bei den von dieser Richtlinie erfassten Zahlungsdienstverträgen zu Zwecken handelt, die nicht ihrer gewerblichen oder beruflichen Tätigkeit zugerechnet werden können;
+…
+19. „Authentifizierung“ ein Verfahren, mit dessen Hilfe der Zahlungsdienstleister die Nutzung eines bestimmten Zahlungsinstruments, einschließlich seiner personalisierten Sicherheitsmerkmale, überprüfen kann;
+…
+23. „Zahlungsinstrument“ jedes personalisierte Instrument und/oder jeden personalisierten Verfahrensablauf, das bzw der zwischen dem Zahlungsdienstnutzer und dem Zahlungsdienstleister vereinbart wurde und das bzw der vom Zahlungsdienstnutzer eingesetzt werden kann, um einen Zahlungsauftrag zu erteilen;
+…
+Titel IV
+Rechte und Pflichten bei der Erbringung und Nutzung von Zahlungsdiensten
+Kapitel 1
+Gemeinsame Bestimmungen
+Artikel 51
+…
+Artikel 52
+Entgelte
+…
+(3) Der Zahlungsdienstleister darf dem Zahlungsempfänger nicht verwehren, vom Zahler für die Nutzung eines bestimmten Zahlungsinstruments ein Entgelt zu verlangen oder ihm eine Ermäßigung anzubieten. Die Mitgliedstaaten können jedoch das Recht auf Erhebung von Entgelten untersagen oder begrenzen, um der Notwendigkeit Rechnung zu tragen, den Wettbewerb und die Nutzung effizienter Zahlungsinstrumente zu fördern.
+V. Die österreichische Rechtslage:
+In Österreich wurde die Richtlinie 2007/64/EG mit dem am 1. 11. 2009 in Kraft getretenen Zahlungsdienstegesetz (ZaDiG), BGBl I 2009/66, umgesetzt. Ein besonderes Augenmerk wurde dabei auf die richtliniennahe Umsetzung der Bestimmungen im Sinne einer Maximalharmonisierung gelegt (vgl RV 207 BlgNR 24. GP 1).
+Die Bestimmungen des ZaDiG lauten auszugsweise wie folgt:
+1. Hauptstück
+Allgemeine Bestimmungen
+1. Abschnitt
+Anwendungsbereich und Begriffe
+Anwendungsbereich
+§ 1. (1) Dieses Bundesgesetz legt die Bedingungen fest, zu denen Personen Zahlungsdienste gewerblich in Österreich erbringen dürfen (Zahlungsdienstleister) und regelt die Rechte und Pflichten von Zahlungsdienstleistern und Zahlungsdienstnutzern im Zusammenhang mit Zahlungsdiensten, die an in Österreich ansässige Zahlungsdienstnutzer oder von in Österreich ansässigen Zahlungsdienstleistern erbracht werden, sowie den Zugang zu Zahlungssystemen.
+(2) Zahlungsdienste sind folgende Tätigkeiten:
+1. …
+2. die Ausführung folgender Zahlungsvorgänge einschließlich des Transfers von Geldbeträgen auf ein Zahlungskonto beim Zahlungsdienstleister des Nutzers oder bei einem anderen Zahlungsdienstleister (Zahlungsgeschäft):
+a) …
+b) …
+c) Überweisungen einschließlich Daueraufträgen (Überweisungsgeschäft);
+…
+(3) Zahlungsdienstleister sind:
+1. Kreditinstitute …
+…
+Begriffsbestimmungen
+§ 3. Im Sinne dieses Bundesgesetzes gelten folgende Begriffsbestimmungen:
+…
+5. Zahlungsvorgang: vom Zahler oder Zahlungsempfänger ausgelöste Bereitstellung, Transfer oder Abhebung eines Geldbetrags, unabhängig von etwaigen zugrundeliegenden Verpflichtungen im Verhältnis zwischen Zahler und Zahlungsempfänger;
+…
+7. Zahler: eine Person, die Inhaber eines Zahlungskontos ist und die einen Zahlungsauftrag von diesem Zahlungskonto erteilt oder gestattet oder - falls kein Zahlungskonto vorhanden ist - eine Person, die den Auftrag für einen Zahlungsvorgang erteilt;
+8. Zahlungsempfänger: eine Person, die den bei einem Zahlungsvorgang transferierten Geldbetrag als Empfänger erhalten soll;
+…
+10. Zahlungsdienstnutzer: eine Person, die einen Zahlungsdienst als Zahler oder Zahlungsempfänger oder in beiden Eigenschaften in Anspruch nimmt;
+…
+17. Authentifizierung: ein Verfahren, mit dessen Hilfe der Zahlungsdienstleister die Nutzung eines bestimmten Zahlungsinstruments, einschließlich seiner personalisierten Sicherheitsmerkmale, überprüfen kann;
+…
+21. Zahlungsinstrument: jedes personalisierte Instrument oder jeder personalisierte Verfahrensablauf, das oder der zwischen dem Zahlungsdienstnutzer und dem Zahlungsdienstleister vereinbart wurde und das oder der vom Zahlungsdienstnutzer eingesetzt werden kann, um einen Zahlungsauftrag zu erteilen;
+…
+3. Hauptstück
+Zahlungsdienste
+1. Abschnitt
+Informationspflichten, Entgelte und Vertragsarten
+…
+Entgelte
+§ 27. (1) …
+…
+(6) Der Zahlungsdienstleister darf dem Zahlungsempfänger nicht verwehren, dem Zahler für die Nutzung eines bestimmten Zahlungsinstruments eine Ermäßigung anzubieten. Die Erhebung von Entgelten durch den Zahlungsempfänger im Falle der Nutzung eines bestimmten Zahlungsinstruments ist unzulässig.
+Nach den Gesetzesmaterialien (RV 207 BlgNR 24. GP 34) setzt die Bestimmung des § 27 Abs 6 ZaDiG Art 52 Abs 3 der Richtlinie 2007/64/EG um. Im Interesse der Transparenz und des Wettbewerbs soll der Zahlungsdienstleister den Zahlungsempfänger nicht daran hindern, dem Zahler eine Ermäßigung für die Nutzung eines bestimmten Zahlungsinstruments zu gewähren; allerdings darf der Zahlungsempfänger vom Zahler kein Entgelt für die Verwendung eines bestimmten Zahlungsinstruments verlangen; effiziente Zahlungsinstrumente sollen nicht auf eine solche Weise unattraktiv gemacht werden.
+Rechtliche Beurteilung
+VI. Zu den Vorlagefragen:
+1. Zur ersten Frage:
+1. Zwischen den Parteien des Verfahrens ist zunächst die Frage strittig, ob Art 52 Abs 3 der Richtlinie 2007/64/EG und damit auch der diese Bestimmung in das österreichische Recht umsetzende § 27 Abs 6 ZaDiG auf das Vertragsverhältnis zwischen der beklagten Partei, deren Geschäftszweck nicht in der Erbringung von Zahlungsdiensten iSd Art 4 Z 3 der Richtlinie 2007/64/EG bzw des § 1 Abs 2 ZaDiG, sondern im Bereich des Mobilkommunikationsgeschäfts liegt, als Zahlungsempfänger einerseits und deren Privatkunden (Verbraucher) als Zahler andererseits Anwendung zu finden hat.
+2. Die klagende Partei bejaht diese Frage im Wesentlichen mit der Begründung, dass sich die in Art 52 Abs 3 der Richtlinie 2007/64/EG vorgesehene Ermächtigung und das in § 27 Abs 6 Satz 2 ZaDiG enthaltene Verbot, im Falle der Nutzung eines bestimmten Zahlungsinstruments vom Zahler dafür ein Entgelt zu verlangen, an die beklagte Partei in ihrer Eigenschaft als Zahlungsempfängerin richte und zudem auch deshalb nur das Vertragsverhältnis der beklagten Partei zu ihren Kunden betreffen könne, weil das Verbot die Erhebung von Entgelten für die Nutzung eines bestimmten Zahlungsinstruments untersage und die Nutzer des Zahlungsinstruments zwangsläufig die Kunden seien, die die von der beklagten Partei vorgeschriebenen Entgelte bezahlen.
+3. Die beklagte Partei steht demgegenüber auf dem Standpunkt, sie falle nicht unter den persönlichen Anwendungsbereich des Art 1 der Richtlinie 2007/64/EG bzw des § 1 Abs 1 und 3 ZaDiG, weil ihr Geschäftszweck nicht in der Erbringung von Zahlungsdiensten iSd Art 4 Z 3 der Richtlinie 2007/64/EG bzw des § 1 Abs 2 ZaDiG, sondern im Bereich des Mobilkommunikationsgeschäfts liege. Eine Anwendung der Richtlinie 2007/64/EG bzw des ZaDiG auf Mobilfunkbetreiber komme nicht in Frage, weil, wie aus dem Wortlaut des 3., 4. und 5. Erwägungsgrundes der Richtlinie 2007/64/EG hervorgehe, durch diese Richtlinie die Bestimmungen der Verordnung (EG) Nr 2560/2001, die im Bereich der Entgelte einen Binnenmarkt für Euro-Zahlungen geschaffen habe, beibehalten und die Bestimmungen der Richtlinie 97/5/EG und die in den Empfehlungen 87/598/EWG, 88/590/EWG und 97/489/EG formulierten Empfehlungen in einen einzigen verbindlichen Rechtsakt überführt werden sollten. Keine dieser erwähnten Richtlinien und Empfehlungen sei auf Mobilfunkbetreiber anwendbar gewesen; vielmehr hätten diese Rechtsakte Zahlungsdienste im Finanzsektor geregelt. Diese Neuregelung bezwecke die Beibehaltung des Finanzcharakters und die Überführung in einen einzigen Rechtsakt. Der Richtlinie 2007/64/EG gehe es um die „Zahlungsverkehrsmärkte“ und die Zusammenführung der in diesem Bereich erlassenen Rechtsakte. Dementsprechend beziehe sich darauf auch der sachliche Anwendungsbereich der Richtlinie 2007/64/EG und des ZaDiG. Die beklagte Partei falle daher als Mobilfunkbetreiberin weder unter den sachlichen noch unter den persönlichen Anwendungsbereich der Richtlinie 2007/64/EG bzw des ZaDiG.
+3.1 Im Übrigen biete Art 52 Abs 3 der Richtlinie 2007/64/EG keine Grundlage für einen Eingriff in das Verhältnis zwischen Zahlungsempfänger und Zahler. Art 52 Abs 3 Satz 1 der Richtlinie 2007/64/EG regle das Recht des Zahlungsempfängers auf Erhebung von Entgelt im Verhältnis zum Zahlungsdienstleister. Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG eröffne die Möglichkeit der Einschränkung dieses Rechts in Bezug auf Zahlungsempfänger nur im Verhältnis zu Zahlungsdienstleister. Das Verbot des § 27 Abs 6 Satz 2 ZaDiG verpflichte nur den Zahlungsdienstleister und nicht auch den Zahlungsdienstnutzer.
+2. Zur zweiten Frage:
+1. Zwischen den Parteien ist weiters strittig, ob ein vom Zahler eigenhändig unterschriebener Zahlschein bzw das auf einem unterschriebenen Zahlschein beruhende Verfahren zur Erteilung von Überweisungsaufträgen sowie das zur Erteilung von Überweisungsaufträgen im Onlinebanking (Telebanking) vereinbarte Verfahren als „Zahlungsinstrumente“ iSd Art 4 Z 23 und des Art 52 Abs 3 der Richtlinie 2007/64/EG anzusehen sind.
+2. Die klagende Partei bejaht diese Frage im Wesentlichen mit der Begründung, der Definition des „Zahlungsinstruments“ in Art 4 Z 23 der Richtlinie 2007/64/EG (entspricht inhaltlich § 3 Z 21 ZaDiG) sei eine Einschränkung auf technische Geräte und Softwareprogramme nicht zu entnehmen. Es könne vielmehr nur darauf ankommen, ob ein zur Erteilung von Zahlungsaufträgen vereinbartes körperliches Instrument oder ein dazu vereinbarter Verfahrensablauf die von der Definition geforderte Personalisierung aufweise. Die personifizierten Sicherheitsmerkmale (vgl Art 4 Z 19 der Richtlinie 2007/64/EG) stellten die für das Vorliegen eines „Zahlungsinstruments“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG entscheidende Voraussetzung dar. Den für eine Authentifizierung des Zahlungsvorgangs notwendigen exklusiven Zugang des berechtigten Nutzers zu den personalisierten Sicherheitsmerkmalen könne der Zahlungsdienstleister einerseits dadurch erfüllen, dass er das Zahlungsinstrument mit Daten und Merkmalen ausstatte, die nur ihm selbst und dem berechtigten Nutzer bekannt seien. Solche personalisierte geheime Sicherheitsmerkmale bei einem Zahlungsinstrument in Form eines bloßen Verfahrensablaufs seien beispielsweise die Geheimzahl (PIN) und die ebenfalls geheime Transaktionsnummer (TAN) beim Onlinebanking (Telebanking).
+2.1 Den für eine Authentifizierung des Zahlungsvorgangs notwendigen exklusiven Zugang des berechtigten Nutzers zu den personalisierten Sicherheitsmerkmalen könne der Zahlungsdienstleister aber auch dadurch gewährleisten, dass er das von ihm ausgegebene Zahlungsinstrument mit einem Merkmal ausstatte, das grundsätzlich nur der berechtigte Nutzer des Instruments reproduzieren könne. Dafür komme auch die eigenhändige Unterschrift in Betracht, die eindeutig einer bestimmten Person zugeordnet werden könne. Es stelle daher auch der mit der eigenhändigen Unterschrift versehene Zahlschein, mit dem der Kunde vereinbarungsgemäß papiergebundene Überweisungsaufträge autorisieren müsse, ein „Zahlungsinstrument“ in Form eines Verfahrensablaufs dar, bei dem die Unterschrift als personalisiertes Sicherheitsmerkmal verwendet werde. Die Authentifizierung des Zahlungsauftrags könne in diesem Fall durch einen Vergleich der Unterschrift auf dem Zahlschein mit der beim Zahlungsdienstleister aufliegenden Musterunterschrift des Kunden erfolgen.
+3. Die beklagte Partei hält diesen Ausführungen im Wesentlichen entgegen, dass Zahlscheine keine „Zahlungsinstrumente“ im Sinne der Richtlinie 2007/64/EG seien, weil ihnen das für Zahlungsinstrumente charakteristische Personalisierungs- und Authentifizierungselement fehle und sie über keine personalisierten Sicherheitsmerkmale verfügten. Unter einem „Zahlungsinstrument“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG sei ein „personalisiertes Instrument“ bzw ein „personalisierter Verfahrensablauf“ zu verstehen. Demgegenüber sei ein Zahlschein ein standardisierter Zahlungsvordruck bzw ein Formular zur Bareinzahlung auf ein Bankkonto. Davon zu unterscheiden sei das Ausfüllen und Unterschreiben eines Zahlscheins bzw die Verwendung einer TAN. Diese Tätigkeiten hätten nichts mit dem Begriff „Zahlungsinstrument“ gemein; sie setzten vielmehr dieses Instrument voraus und trügen daher nichts zur Frage bei, ob Zahlscheine aus Papier und Onlineüberweisungen (Telebankingüberweisungen) „Zahlungsinstrumente“ iSd Art 4 Z 23 der Richtlinie 2007/64/EG seien. Im Übrigen sei das Ausfüllen und Unterschreiben eines Zahlscheins bzw die Verwendung einer TAN keine „Personalisierung“, sondern eine Autorisierung bzw Identifizierung.
+3. Zur dritten Frage:
+1. Schließlich ist zwischen den Parteien im Bezug auf das Gemeinschaftsrecht auch die Frage strittig, ob Art 52 Abs 3 der Richtlinie 2007/64/EG dahin auszulegen ist, dass er der Anwendung nationaler Rechtsvorschriften entgegensteht, die ein generelles und insbesondere nicht zwischen verschiedenen Zahlungsinstrumenten differenzierendes Verbot der Erhebung von Entgelten durch den Zahlungsempfänger vorsehen.
+2. Die klagende Partei verneint diese Frage und begründet dies im Wesentlichen damit, dass Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG ein im Sinne einer notwendigen Einschränkung des Verbots der Erhebung von Entgelten durch den Zahlungsempfänger auf die Nutzung bestimmter Zahlungsinstrumente einschränkende Tatbestandsvoraussetzung nicht enthalte. Vielmehr knüpfe die Ermächtigung an die Bestimmung des Art 52 Abs 3 Satz 1 der Richtlinie 2007/64/EG an, in der mit der Wendung „eines bestimmten Zahlungsinstruments“ zweifellos ein vom Zahlungsempfänger im Rahmen seiner Tarifgestaltung bestimmtes Zahlungsinstrument gemeint sei, für dessen Verwendung er ein Entgelt verlange oder eine Ermäßigung anbiete. Es müsse daher auch von der daran anschließenden Ermächtigung des Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG gedeckt sein, wenn es der nationale Gesetzgeber dem Zahlungsempfänger generell verbiete, bestimmte Zahlungsinstrumente in seiner Tarifgestaltung durch die Verrechnung von Zusatzentgelten zu diskriminieren, und er den Zahlungsempfänger statt dessen dazu anhalte, die Verwendung des von ihm bevorzugten Zahlungsinstruments durch die Gewährung von Ermäßigungen zu fördern.
+2.1 Es wäre auch nicht möglich, die verschiedenen am Markt angebotenen Zahlungsinstrumente im Rahmen einer gesamtwirtschaftlichen Betrachtung nach ihrer Effizienz hierarchisch zu ordnen und so das effizienteste Zahlungsinstrument ausfindig zu machen, für das dann ausschließlich ein Verbot von Zusatzentgelten erlassen werden dürfte. Dieses Verbot diene auch der Preisklarheit in Bezug auf die dem Zahler erwachsenden Kosten für die Inanspruchnahme der Zahlungsdienste und der Zahlungsinstrumente sowie der Förderung eines fairen Wettbewerbs zwischen den Anbietern der verschiedenen Zahlungsinstrumente.
+2.2 Der österreichische Gesetzgeber habe daher in der Bestimmung des § 27 Abs 6 ZaDiG ein in sich schlüssiges Regelungsmodell geschaffen, das allen Vorgaben des Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG entspreche und das jedenfalls von dem rechtspolitischen Ermessensspielraum gedeckt sei, den hier die Richtlinie den Mitgliedstaaten bewusst eingeräumt habe.
+3. Die beklagte Partei vertritt demgegenüber den Standpunkt, die Ermächtigung des Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG beziehe sich immer nur auf bestimmte Zahlungsinstrumente und das Verbot des § 27 Abs 6 Satz 2 ZaDiG sei daher mangels Einschränkung auf vom Gesetzgeber bestimmte Zahlungsinstrumente richtlinienwidrig.
+3.1 Das Erfordernis der sachlichen Rechtfertigung des durch die Ermächtigung in Art 52 Abs 3 Satz 2 der Richtlinie 2007/64/EG den Mitgliedstaaten eingeräumten Ermessens ergebe sich aus dem letzten Satz des 42. Erwägungsgrundes der Richtlinie. Um einem Zahlungsempfänger Entgelte für ein bestimmtes Zahlungsinstrument zu untersagen, habe der nationale Gesetzgeber diese Untersagung einerseits sachlich anhand des Kriteriums „missbräuchliche Preisgestaltung“ oder des Kriteriums „möglicher nachteiliger Auswirkungen der Preisgestaltung auf die Nutzung eines bestimmten Zahlungsinstruments“ zu begründen und andererseits in Kohärenz zu dieser Begründung die Eignung und Erforderlichkeit nachzuweisen, dass damit Wettbewerbsförderung und Förderung der Nutzung effizienter Zahlungsinstrumente bezweckt werde. Der österreichische Gesetzgeber hätte daher die Untersagung von Entgelten für bestimmte Zahlungsinstrumente konkret begründen und somit sachlich rechtfertigen müssen. Er habe jedoch bei der Umsetzung des Art 52 Abs 3 der Richtlinie 2007/64/EG durch § 27 Abs 6 Satz 2 ZaDiG diesem Erfordernis der sachlichen Rechtfertigung nicht entsprochen.
+3.2 Im Übrigen sei die von der beklagten Partei verrechnete Zahlscheingebühr in Höhe von 3 EUR für „Zahlung ohne Bankeinzug oder Kreditkarte“ im Hinblick auf den für die beklagte Partei mit einer Bezahlung durch Zahlschein verbundenen erheblichen Mehraufwand an Administration betriebswirtschaftlich und damit sachlich gerechtfertigt.
+VII. Verfahrensrechtliches:
+Da die hier aufgeworfenen Fragen durch die Rechtsprechung des EuGH noch nicht geklärt sind, ist der Oberste Gerichtshof, dessen Entscheidung nicht mehr mit Rechtsmitteln des innerstaatlichen Rechts angefochten werden kann, gemäß Art 267 AEUV zur Vorlage der im Spruch dieser Entscheidung formulierten Fragen verpflichtet.
+Der Ausspruch über die Aussetzung des Verfahrens gründet sich auf § 90a Abs 1 GOG.

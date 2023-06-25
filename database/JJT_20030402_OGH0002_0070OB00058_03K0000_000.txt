@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.04.2003
+Geschäftszahl
+7Ob58/03k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schalich als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Hon.-Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei Magda K*****, vertreten durch Dr. Heinz Ortner und Mag. Alexander Ortner, Rechtsanwälte in Gmunden, gegen die beklagte Partei S*****, vertreten durch Dr. Leopold Hirsch, Rechtsanwalt in Salzburg, wegen EUR 20.000 und Feststellung, über die außerordentliche Revision der Klägerin gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 21. Jänner 2003, GZ 3 R 195/02w18, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Revisionswerberin macht in ihrer Beschwerde über den Ausspruch der Unzulässigkeit der Revision als Zulassungsgrund allein geltend, das Berufungsgericht sei dadurch, dass es das Vorliegen eines Werkes iSd § 1319 ABGB sowie eine Anspruchskonkurrenz zwischen § 1319 ABGB und § 1319a ABGB im vorliegenden Fall verneint hat, von höchstgerichtlicher Judikatur abgewichen. Diese Behauptung ist unrichtig; vielmehr wird von der Revisionswerberin die betreffende oberstgerichtliche Rechtsprechung missverstanden:
+Rechtliche Beurteilung
+Der Oberste Gerichtshof ist in jüngerer Zeit von seiner zunächst vertretenen Ansicht abgegangen, dass zwischen den §§ 1319 und 1319a ABGB (grundsätzlich) auch im Fall der Interessenneutralität des Wegehalters Anspruchskonkurrenz bestehe. In der Entscheidung 4 Ob 104/97s, SZ 70/71 = EvBl 1997/158 wurde ausgesprochen, dass dann, wenn der Wegehalter (§ 1319a ABGB) gleichzeitig als Besitzer einer im Zuge des Weges bestehenden Anlage iSd § 1319 ABGB zu werten sei, § 1319a ABGB als Spezialnorm § 1319 ABGB verdrängt. Dies gilt, wie der Oberste Gerichtshof in den Entscheidungen 2 Ob 357/97g, JBl 1998, 715 (Koziol) = ZVR 1999/80 und 2 Ob 281/01i, JBl 2002, 463 = RdW 2002/273 = ZVR 2002/52 = ecolex 2002/130 (Helmich) dargelegt hat, nur dann nicht, wenn ein besonderes Interesse des Wegehalters am betreffenden Werk (in letzterem Fall war dies eine Brückenwaage, von der der Wegehalter profitierte) besteht.
+Ein solcher Fall liegt hier aber nicht vor: Zutreffend hat das Berufungsgericht den einzelnen, etwas hervorstehenden Pflasterstein (über den die Klägerin gestürzt ist) auf dem gepflasterten Weg, dessen Halterin die Beklagte ist, nicht als "aufgeführtes Werk" iSd § 1319 ABGB betrachtet; keine Rede kann davon sein, dass dies mit der Definition eines "Werks" iSd § 1319 ABGB nicht im Einklang stünde (vgl dazu Harrer in Schwimann, ABGB² VII, § 1319 Rz 4 und 5 mit zahlreichen Judikaturnachweisen). Schon deshalb hat das Berufungsgericht eine Haftung nach § 1319 ABGB zutreffend ausgeschlossen. Abgesehen davon kann aber, selbst wenn man dem Pflasterstein Werkqualität nach § 1319 ABGB zubilligen könnte, von einem "vorzüglichen Interesse" der beklagten Partei im Sinne der Ausführungen zu JBl 2002, 463 gar keine Rede sein.
+Die von der Revisionswerberin behaupteten Zulassungsgründe sind daher nicht gegeben.
+Eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO wird von der Revisionswerberin aber auch in der Rechtsrüge, mit der geltend gemacht wird, dass die Beklagte (ohnehin) grobe Fahrlässigkeit iSd § 1319a ABGB zu verantworten habe, nicht dargetan. Die Abgrenzung, ob grobe oder leichte Fahrlässigkeit vorliegt, kann nur nach den Umständen des jeweiligen Einzelfalls vorgenommen werden und stellt daher im Allgemeinen keine erhebliche Rechtsfrage dar (10 ObS 1003/96; 6 Ob 80/02m uva). In der Ansicht des Berufungsgerichtes, dass der Beklagten nach den festgestellten Umständen nicht der Vorwurf einer grob fahrlässigen Verletzung ihrer Pflichten als Wegehalter gemacht werden kann, auch wenn man berücksichtigt, dass ihr Wegenetz von zahlreichen Touristen frequentiert wird, ist eine zur Korrektur Anlass gebende Fehlbeurteilung dieses Einzelfalls nicht zu erblicken.
+Soweit die Revisionswerberin schließlich noch das Unterbleiben der Beiziehung eines Bausachverständigen als Mangelhaftigkeit des Verfahrens rügt, übersieht sie, dass ein derartiger Verfahrensmangel bereits vom Berufungsgericht verneint wurde und daher nach stRsp nicht mehr in der Revision geltend gemacht werden kann (Kodek in Rechberger², Rz 3 zu § 503 mwN).
+Da demnach ein tauglicher Grund für die Zulassung der Revision nicht gegeben ist, war das außerordentliche Rechtsmittel der Klägerin zurückzuweisen.
+Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2003:0070OB00058.03K.0402.000

@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.10.1966
+Geschäftszahl
+3Ob120/66
+Norm
+EO §371a;
+Vollstreckungsvertrag zwischen der Republik Österreich und der
+Bundesrepublik Deutschland, BGBl. Nr. 105/1960 Art1;
+Vollstreckungsvertrag zwischen der Republik Österreich und der
+Bundesrepublik Deutschland, BGBl. Nr. 105/1960 Art7 (1) Z2;
+Vollstreckungsvertrag zwischen der Republik Österreich und der
+Bundesrepublik Deutschland, BGBl. Nr. 105/1960 Art9 (1) Z2 lit b;
+Vollstreckungsvertrag zwischen der Republik Österreich und der
+Bundesrepublik Deutschland, BGBl. Nr. 105/1960 Art10 (1);
+Kopf
+SZ 39/166
+Spruch
+Auf Grund eines Beschlusses eines Gerichtes in der Bundesrepublik Deutschland, gegen den Beschwerde erhoben ist, kann nicht Exekution zur Sicherstellung gemäß § 371a EO. geführt werden
+Entscheidung vom 12. Oktober 1966, 3 Ob 120/66
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien
+Text
+Mit Beschluß der Zivilkammer 145 (Wiedergutmachungskammer) des Landgerichtes Berlin vom 9. März 1966 wurden die Rückerstattungsansprüche des nunmehrigen Verpflichteten unter Aufhebung des Vergleiches vom 3. Jänner 1962 abgewiesen, ein Bescheid vom 24. Mai 1962 aufgehoben und der Verpflichtete verurteilt, die bereits erhaltenen Leistungen im Betrag von 112.500 RM der betreibenden Gläubigerin zurückzuzahlen. Im letzteren Punkt wurde der Beschluß für vollstreckbar erklärt.
+Die betreibende Gläubigerin beantragte auf Grund dieses Beschlusses Bewilligung der Exekution zur Sicherstellung durch Pfändung von näher bezeichneten Bankguthaben des Verpflichteten.
+Das Erstgericht wies diesen Antrag ab, weil die Wiedergutmachungskammer kein Gericht sei. Auch handle es sich um keine Zivil- oder Handelssache im Sinne des Vollstreckungsvertrages BGBl. 1960 Nr. 105. Die Voraussetzungen einer Exekution zur Sicherstellung seien nicht behauptet worden. Schließlich fehle es an dem im Art. 9 (1) Z. 2 des Vollstreckungsvertrages BGBl. 1960 Nr. 105 vorgeschriebenen Nachweises der Zustellung der Entscheidung.
+Das Rekursgericht bestätigte diesen Beschluß. Es vertrat zwar entgegen dem Erstgericht die Ansicht, daß die Wiedergutmachungskammer des Landgerichtes Berlin ein Gericht sei. Hingegen war es gleich dem Erstgericht der Ansicht, daß es sich hier um keine Zivil- oder Handelssache handle; nur in solchen ergangene gerichtliche Entscheidungen könnten gemäß Art. 1 des Vertrages BGBl. 1960 Nr. 105 in Österreich vollstreckt werden. Auch seien die Voraussetzungen einer Exekution zur Sicherstellung weder nach § 370 noch nach § 371a EO. gegeben.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Von den Fällen der Exekution zur Sicherstellung bleiben hier die des § 371 EO. außer Betracht.
+§ 370 EO. setzt voraus, daß bescheinigt wird, daß die Hereinbringung der Geldforderung ohne Bewilligung der Exekution zur Sicherstellung vereitelt oder erheblich erschwert würde, oder die Exekution im Ausland - gegenüber Österreich - vollzogen werden müßte. Eine solche Gefahr hat die betreibende Gläubigerin weder behauptet noch bescheinigt. Gemäß Art. 10 (1) des Vertrages BGBl. 1960 Nr. 105 entfällt allerdings eine solche Glaubhaftmachung, wenn die deutsche Vollstreckungsklausel von einer Sicherheit abhängig gemacht wird und diese Sicherheit geleistet worden ist. Der vorliegende Beschluß des Landgerichtes Berlin hat nun eine solche Sicherheit nicht vorgeschrieben, sondern den noch nicht rechtskräftigen Beschluß für vollstreckbar erklärt. Trotzdem ist gemäß Art. 7 (1) Z. 2 des Vollstreckungsvertrages Exekution zur Hereinbringung nicht statthaft, weil es an der Rechtskraft der Entscheidung fehlt. Die bloße Vollstreckbarkeit genügt nicht. Anderseits kann auch gemäß § 370 EO. keine Exekution zur Sicherstellung bewilligt werden, weil die Voraussetzungen des Art. 9 (1) Z. 2 lit. b des Vollstreckungsvertrages nicht gegeben sind. Es besteht keine Bestimmung, nach der das österreichische Gericht im Fall des § 370 EO. an Stelle des deutschen Gerichtes die Sicherheitsleistung vorschreiben könnte.
+Aber auch eine Exekution zur Sicherstellung nach § 371a EO. ist nicht statthaft. Mit Recht verweist das Rekursgericht darauf, daß diese Gesetzesstelle als Exekutionstitel nur Urteile voraussetzt. Es mag sein, daß in manchen anderen Staaten ein Unterschied zwischen Urteil und Beschluß, wie ihn das österreichische Recht kennt, nicht besteht und es dann nicht darauf ankommt, wie die Entscheidung bezeichnet ist, vielmehr zu untersuchen ist, ob sie nach österreichischem Recht ein Urteil wäre. Nach dem Recht der Bundesrepublik Deutschland besteht aber in diesem Punkt kein wesentlicher Unterschied zu dem Österreichs. Ein mit Beschwerde (entsprechend dem österreichischen Rekurs) anfechtbarer deutscher Beschluß kann keinem Urteil, gegen das Berufung oder Revision ergriffen wurde, gleichgesetzt werden.
+Es kommt dazu, daß die betreibende Gläubigerin in ihrem Exekutionsantrag nicht einmal behauptet hat, daß der Verpflichtete gegen den Beschluß des Landgerichtes Berlin ein Rechtsmittel erhoben hätte. Ihr Vorbringen im Revisionsrekurs stellt sich als eine unbeachtliche Neuerung dar.
+Es sind daher auch die Voraussetzungen des § 371a EO., daß ein Urteil erster oder zweiter Instanz, gegen das Berufung oder Revision ergriffen worden ist, vorliege, in keiner Weise gegeben. Entgegen der Ansicht der betreibenden Gläubigerin hat der Umstand, daß die Exekution zur Sicherstellung gemäß § 371a EO. schon vor Ablauf der Leistungsfrist bewilligt werden kann, nichts damit zu tun, daß die zuletzt angeführten Bedingungen gegeben sein müssen.

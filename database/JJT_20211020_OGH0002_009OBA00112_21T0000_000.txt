@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2021
+Geschäftszahl
+9ObA112/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden und die Hofrätinnen Dr. Fichtenau und Mag. Korn (§ 11a Abs 3 ASGG) als weitere Richter in der Arbeitsrechtssache der klagenden Partei A*****, vertreten durch Dr. Margit Kaufmann, Rechtsanwältin in Wien, gegen die beklagte Partei S*****, wegen Feststellung des aufrechten Dienstverhältnisses, über den außerordentliche Revisionrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht in Arbeits- und Sozialrechtssachen vom 21. September 2021, GZ 10 Ra 85/21z-6, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Mit Klage vom 22. 7. 2021 begehrt der Kläger die Feststellung des aufrechten Dienstverhältnisses zur Beklagten über den 19. 5. 2021 hinaus. Er sei am 24. 11. 2020 entlassen worden. Ein Verfahren auf Feststellung, dass diese Entlassung ungerechtfertigt sei, sei anhängig. Mit Schreiben vom 2. 6. 2021, dem Kläger zugestellt am 7. 6. 2021, habe die Beklagte eine (Eventual-)Entlassung gemäß § 45 Abs 2 Z 2 Vertragsbedienstetenordnung 1995 (VBO 1995) ausgesprochen. Auch diese Entlassung sei ungerechtfertigt.
+[2] 		Das Erstgericht wies die Klage zurück. Gemäß § 45 Abs 6 VBO 1995 sei eine Entlassung innerhalb von vier Wochen nach Beendigung des Dienstverhältnisses bei Gericht anzufechten. Die Klage sei daher verspätet. Das Rekursgericht bestätigte diese Entscheidung und sprach aus, dass der ordentliche Revisionrekurs nicht zulässig sei.
+[3] 		Der außerordentliche Revisionsrekurs des Klägers ist mangels Vorliegens einer Rechtsfrage von erheblicher Bedeutung iSd § 528 Abs 1 ZPO zurückzuweisen.
+Rechtliche Beurteilung
+[4] 		1. Nach dem auch nach den Ausführungen im Revisionsrekurs anzuwendenden § 45 Abs 6 VBO 1995 ist eine Entlassung innerhalb von vier Wochen nach Beendigung des Dienstverhältnisses bei Gericht anzufechten.
+[5] 		Nach der Rechtsprechung handelt es sich bei der Frist zur gerichtlichen Anfechtung einer Kündigung oder Entlassung nach §§ 105 f ArbVG oder § 15 GlBG um eine prozessuale Frist (vgl RS0052033). Dass das ebenso für eine Anfechtung nach § 45 VBO 1995 gilt, wird in der außerordentlichen Revision nicht bestritten.
+[6] 		2. In der von den Vorinstanzen zitierten Entscheidung 9 ObA 89/04k hat der Oberste Gerichtshof bereits dazu Stellung genommen, dass auch bei einer Eventualkündigung die Anfechtungsfrist des § 105 ArbVG einzuhalten ist: „Die leichte Überprüfbarkeit der Einhaltung der Klagefrist ist schon aus Gründen der Rechtssicherheit erforderlich und gestattet keine subtile Differenzierung nach verschiedenen Fallgruppen, sodass auch der Umstand, dass zum Zeitpunkt des Ausspruchs einer Eventualkündigung bereits ein Anfechtungsverfahren wegen einer früheren Kündigung anhängig ist, keine Rolle spielen kann. (...) Dem Dienstnehmer, der von vornherein den Standpunkt vertritt, die erste Kündigung könne – wegen ihrer Anfechtbarkeit – keinen Bestand haben (bzw hier: die Kündigung wäre von vornherein unwirksam), ist es auch keineswegs unzumutbar, in den Fällen einer unbedenklichen Eventualkündigung ebenso die gesetzliche Klagefrist einzuhalten wie auch sonst bei der Kündigungsanfechtung.“
+[7] 		3. Warum diese Grundsätze im Fall einer Anfechtung nach § 45 VBO 1995 nicht gelten sollen, zeigt der Revisionsrekurs nicht auf.
+[8] 		Richtig ist zwar, dass die VBO 1995 für den Beginn der Anfechtungsfrist nicht auf den Ausspruch der Entlassung, sondern auf die Beendigung des Dienstverhältnisses abstellt.
+[9] 		Eine Eventualentlassung beendet aber ein Dienstverhältnis für den Fall, dass es nicht ohnehin durch eine frühere Erklärung zu einem früheren Zeitpunkt beendet wurde, mit sofortiger Wirkung. Dementsprechend beginnt die Anfechtungsfrist mit diesem Zeitpunkt. Daran ändert auch nichts, dass gegebenenfalls als Vorfrage im Verfahren zu klären ist, ob im Zeitpunkt des Entlassungsausspruchs das Dienstverhältnis überhaupt noch aufrecht war.
+[10] 		Dass die Anfechtungsfrist erst mit der Entscheidung im Verfahren über die erste Entlassung/Kündigung zu laufen beginnt, wie der Kläger vermeint, lässt sich dagegen dem Gesetzeswortlaut gerade nicht entnehmen. Für eine andere Behandlung dieser Fallkonstellation gegenüber einer Anfechtung nach § 105 ArbVG werden im Rechtsmittel auch keine sachlichen Argumente aufgezeigt.
+[11] 		4. Insgesamt gelingt es dem Kläger daher nicht, das Vorliegen einer Rechtsfrage von der Qualität des § 528 Abs 1 ZPO darzustellen. Der außerordentliche Revisionsrekurs des Klägers ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:009OBA00112.21T.1020.000

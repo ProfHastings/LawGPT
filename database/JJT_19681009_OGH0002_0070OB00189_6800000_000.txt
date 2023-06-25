@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.10.1968
+Geschäftszahl
+7Ob189/68
+Norm
+ABGB §1151;
+Handelsgesetzbuch §377;
+Handelsgesetzbuch §381 (2);
+Kopf
+SZ 41/133
+Spruch
+Die Rügepflicht nach § 377 HGB. gilt auch in den Fällen des § 381
+(2) HGB.
+Entscheidung vom 9. Oktober 1968, 7 Ob 189/68.
+I. Instanz: Bezirksgericht Innsbruck; II. Instanz: Landesgericht Innsbruck.
+Text
+Die Klägerin begehrt von der Beklagten "für Warenlieferung" Zahlung von 690 S s. A. Außer mangelnder Aktivlegitimation wendet die Beklagte ein, daß die Klägerin mangelhaft geliefert und sie (Beklagte) diesen Mangel rechtzeitig gerügt habe.
+Der Erstrichter verurteilte die Beklagte zur Zahlung von 690 S samt gesetzlichen Zinsen und Kosten. Er traf folgende Feststellungen:
+Die Beklagte erteilte im Jahre 1965 über die Firma A. der Klägerin den Auftrag zu einer Kinoreklame. Von dieser Kinoreklame, die aus einem Diapositivbild und einem Sprechstreifen bestand, wurde anläßlich einer Probevorführung das Diapositiv von der Beklagten gegenüber einem Angestellten der Firma A. beanstandet. Der Sprechstreifen wurde von der Beklagten bezahlt, nicht aber das Diapositiv. Die Beklagte hat den Beweis dafür nicht erbracht, daß sie die behauptete mangelhafte Ausführung des Diapositives der Klägerin, sohin ihrer Vertragspartnerin gegenüber gerügt habe. Sie haftet daher aus dem erteilten Auftrag für die Bezahlung.
+Infolge Berufung der Beklagten hob das Berufungsgericht das Ersturteil unter Rechtskraftvorbehalt auf und verwies die Rechtssache zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurück. Das Berufungsgericht setzte sich mit der Bekämpfung des erstgerichtlichen Urteils wegen Mangelhaftigkeit und unrichtiger Beweiswürdigung zur Frage, ob die Rüge der Beklagten an die Klägerin weitergeleitet wurde, nicht auseinander, da es dieses Beweisthema als rechtlich nicht entscheidend beurteilte. Der zwischen den Streitteilen geschlossene Vertrag sei nämlich kein Kaufvertrag, sondern ein Werkvertrag gewesen. Die Rügepflicht des § 377 HGB. treffe jedoch nur den Käufer einer Ware, nicht jedoch den Besteller eines Werkes. Für letzteren kämen die Bestimmungen des Allgemeinen Bürgerlichen Gesetzbuches in Frage. Nach diesen genüge es, wenn der Besteller den Mangel innerhalb von sechs Monaten anzeige. Diese Frist habe die Beklagte eingehalten. Es bleibe daher nur zu prüfen, ob die Mängelrüge berechtigt sei. Die Rechtsausführungen des Erstrichters, daß die Klägerin als Vertragspartnerin der Beklagten zur Erhebung des Anspruches auf Bezahlung des restlichen Preises legitimiert sei, billigte das Berufungsgericht.
+Der Oberste Gerichtshof gab dem Rekurs der Klägerin Folge, hob den Beschluß des Berufungsgerichtes auf und verwies die Sache zu neuer Entscheidung an dieses zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da nach den Feststellungen der Vorinstanzen der Vertrag zwischen der Klägerin und der Beklagten geschlossen wurde und der Firma A. nur eine Vermittlerrolle zukam, haben die Vorinstanzen die Aktivlegitimation der Klägerin zutreffend bejaht. Es ist auch die Rechtsansicht des Berufungsgerichtes unbedenklich, daß durch die zwischen den Parteien getroffene Vereinbarung nicht ein Kaufvertrag, sondern ein Werkvertrag zustandegekommen ist. Bei der Herstellung eines Diapositives mit Sprechstreifen zum Zwecke der Reklame für die beklagte Partei handelte es sich um die Anfertigung einer Sache nach den besonderen Bedürfnissen und Wünschen der Beklagten, also um eine individuelle Leistung. Sind aber diese Voraussetzungen gegeben, so liegt kein Kauf, sondern ein Werkvertrag vor (SZ. XIV 129, JBl. 1952 S. 17, JBl. 1960 S. 445, EvBl. 1967 Nr. 433 u. a.).
+Nicht gefolgt jedoch kann jedoch den Ausführungen des Berufungsgerichtes darin werden, daß für den Werkvertrag die Bestimmung des § 377 HGB. über die Rügepflicht nicht anzuwenden sei. Die Klägerin verweist in ihrem Rekurs zutreffend auf § 381 (2) HGB., wonach die in §§ 373 ff. HGB. enthaltenen Vorschriften auch dann Anwendung finden, wenn aus einem von dem Unternehmer zu beschaffenden Stoff eine nicht vertretbare bewegliche Sache herzustellen ist. Das gilt insbesondere von der Rügepflicht nach § 377 HGB. (Brüggemann in RGR. Komm. z. HGB.[2] IV Anm. 16 b Z. 4 zu § 381 S. 704 ff., Schlegelberger[4] III Anm. 6 zu § 381 S. 2126). Die Beklagte kann sich daher nur dann auf angebliche Mängel des Diapositives berufen, wenn sie dieses im Sinne des § 377 HGB. untersucht und einen allfälligen Mangel der Klägerin unverzüglich angezeigt hat. Die Rechtsansicht des Berufungsgerichtes, die Frage, ob die Lieferung rechtswirksam bemängelt wurde, sei ohne Bedeutung, ist also rechtsirrig. Da sich aber das Berufungsgericht, von seiner unrichtigen rechtlichen Ansicht ausgehend, mit der Bekämpfung der vom Erstrichter in diesem Zusammenhang getroffenen Tatsachenfeststellungen durch die Berufung nicht auseinandergesetzt hat, vor Prüfung der Frage, ob eine Bemängelung gerechtfertigt ist, jedoch zu prüfen wäre, ob eine Bemängelung rechtswirksam überhaupt erfolgt ist, war die Entscheidung des Berufungsgerichtes aufzuheben.

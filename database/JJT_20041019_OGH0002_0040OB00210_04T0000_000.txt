@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.10.2004
+Geschäftszahl
+4Ob210/04t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Kodek als Vorsitzenden und die Hofrätinnen des Obersten Gerichtshofs Hon. Prof. Dr. Griß und Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel und Dr. Jensik als weitere Richter in der Rechtssache der klagenden Partei Verein *****, vertreten durch KosesnikWehrle & Langer, Rechtsanwälte KEG in Wien, gegen die beklagte Partei E***** AG, *****, vertreten durch Schreiner Lackner & Partner, Rechtsanwälte in Eisenstadt, wegen Unterlassung und Urteilsveröffentlichung (Gesamtstreitwert 26.000 EUR), über die außerordentliche Revision der Beklagten gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Juli 2004, GZ 2 R 111/04i13, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Die Beklagte macht als erhebliche Rechtsfrage geltend, dass Rechtsprechung zu einem vergleichbaren Sachverhalt fehle. Bisher seien nur Rundungsklauseln mit Kumulierungseffekt zu beurteilen gewesen. Im vorliegenden Fall komme es zu keiner Kumulierung der Aufrundungseffekte.
+Nach der beanstandeten Vertragsbestimmung für Fremdwährungskredite ist der Zinssatz "an den 3 MonatsLIBOR für Schweizer Franken ... zuzüglich einem Aufschlag von 0,875 % gebunden, wobei eine Aufrundung auf das nächste volle 1/8 % erfolgt". Es ist daher richtig, dass es, anders als aufgrund der bisher beurteilten Klauseln (5 Ob 266/02g = ecolex 2003/102 [Leitner]; 4 Ob 265/02b = ÖBA 2003, 373 [Iro]; 4 Ob 288/02k = RdW 2003/203), zu keiner Kumulierung der durch die Aufrundung bewirkten Erhöhung des Zinssatzes kommen kann. Daraus folgt jedoch nicht, dass die zitierte Rechtsprechung nicht auch im vorliegenden Fall anzuwenden wäre:
+Bestimmungen, nach denen ein aufgrund einer Zinsgleitklausel angepasster Zinssatz immer aufzurunden ist, sind unzulässig, weil sie allein zu Lasten des Kunden wirken. Sie stehen damit im Widerspruch zu dem mit dem Konsumentenschutz verfolgten Ziel eines Ausgleichs der Interessen von Unternehmern und Verbrauchern (4 Ob 265/02b; 4 Ob 288/02k). Allein zu Lasten des Kunden wirken sich einseitige Rundungsbestimmungen auch dann aus, wenn sie nicht zu einer Summierung der Aufrundungseffekte führen. Als nähere Bestimmung über die Berechnung des angepassten Zinssatzes können sie auch in diesem Fall nicht losgelöst von der jeweiligen Zinsanpassungsklausel gesehen werden, so dass auch sie nach § 6 Abs 1 Z 5 KSchG zu beurteilen sind und sich die Frage ihrer Vereinbarkeit mit § 879 Abs 3 ABGB gar nicht stellt.
+Ebenso wenig stellt sich die Frage, ob und in welchem Ausmaß sich die Klausel im Einzelfall zu Lasten des Verbrauchers auswirkt. § 6 Abs 1 Z 5 KSchG stellt, anders als § 6 Abs 2 Z 3 KSchG, nicht darauf ab, ob die Änderung dem Verbraucher zumutbar ist, was natürlich nicht bedeutet, dass die Umstände einer Preisgleitklausel so gewählt werden dürften, dass das Verhältnis zwischen Leistung und Gegenleistung für den Verbraucher unzumutbar wird (s Krejci in Rummel, ABGB³ § 6 KSchG Rz 76). Eine nach § 6 Abs 1 Z 5 KSchG zu beurteilende Klausel wird aber nicht dadurch zulässig, dass die Leistungsänderung dem Verbraucher zumutbar ist. Das gilt auch angesichts der Verpflichtung zu richtlinienkonformer Auslegung, weil die VertragsklauselRL 93/13/EWG einen besseren Schutz der Verbraucher durch einzelstaatliche Regelungen nicht ausschließt (s Krejci aaO § 6 KSchG Rz 203).

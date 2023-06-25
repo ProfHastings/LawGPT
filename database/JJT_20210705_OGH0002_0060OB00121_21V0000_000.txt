@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.2021
+Geschäftszahl
+6Ob121/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Mag. R* K*, Rechtsanwalt, *, gegen die beklagte Partei W* S*, geboren am *, vertreten durch Barovsky & Köhler Rechtsanwälte OG in Wien, wegen 60.000 EUR sA,  über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. April 2021, GZ 16 R 29/21h-66, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 4. Jänner 2021, GZ 54 Cg 84/18x-62, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger begehrt 60.000 EUR als Entgelt für vom Beklagten beauftragte anwaltliche Leistungen im Zusammenhang mit einem Immobilienprojekt. Mit Urteil vom 4. 1. 2021 gab das Erstgericht dem Klagebegehren im Umfang von 15.280 EUR sA statt und wies das Mehrbegehren ab.
+[2] 		Der Kläger erhob gegen den klagsabweisenden Teil dieser Entscheidung am 3. 2. 2021 Berufung, der Beklagte erstattete hiezu am 3. 3. 2021 eine Berufungsbeantwortung.
+[3] 		Mit Beschluss vom 29. 3. 2021, bekannt gemacht in der Insolvenzdatei am selben Tag, wurde zu AZ 11 S 7/21x des Bezirksgerichts Liesing über das Vermögen des Beklagten das Schuldenregulierungsverfahren eröffnet, dem Beklagten die Eigenverwaltung entzogen und Dr. R* W*, Rechtsanwalt in Wien, zum Masseverwalter bestellt. Die Prüfungstagsatzung ist für den 9. 9. 2021 anberaumt.
+[4] 		Mit dem angefochtenen, am 23. 4. 2021 in nichtöffentlicher Sitzung ergangenen Urteil gab das Berufungsgericht – offenbar in Unkenntnis der Konkurseröffnung – der Berufung nicht Folge und sprach aus, dass die Revision nicht zulässig sei.
+Rechtliche Beurteilung
+[5] 		Die am 27. 5. 2021 vom Kläger gegen diese  Entscheidung des Berufungsgerichts erhobene außerordentliche Revision ist unzulässig:
+[6] 		Gemäß § 7 Abs 1 IO werden alle anhängigen Rechtsstreitigkeiten, mit Ausnahme der in § 6 Abs 3 IO bezeichneten Streitigkeiten – eine solche liegt hier nicht vor – durch die Insolvenzeröffnung unterbrochen. Die Unterbrechung tritt ex lege ein, und zwar auch im Stadium des Rechtsmittelverfahrens (RS0036996 [T4]), ohne dass eine (deklarative) Feststellung dieser Unterbrechung durch das Prozessgericht erfolgen müsste (1 Ob 276/99s). Eine Fortsetzung des Verfahrens kommt vor Abschluss der Prüfungstagsatzung nicht in Betracht (§ 7 Abs 3 IO; vgl RS0036735).
+[7] 		Die Revision des Klägers wurde erst nach Eröffnung des Schuldenregulierungsverfahrens über das Vermögen des Beklagten erhoben. Tritt die Unterbrechungswirkung durch die Insolvenzeröffnung vor Erhebung des Rechtsmittels ein, ist das Rechtsmittel zurückzuweisen (RS0037150), außer die Partei erachtet sich gerade durch eine trotz bereits erfolgter Verfahrensunterbrechung ergangene gerichtliche Entscheidung beschwert (RS0037023). Die Erhebung eines Rechtsmittels während der durch die Insolvenzeröffnung hervorgerufenen Unterbrechung des Verfahrens ist somit nur dann zulässig, wenn darin ein Verstoß gegen § 7 IO geltend gemacht wird (RS0037023 [T8], RS0036977).
+[8] 		Einen Verstoß gegen § 7 IO macht der Kläger in seinem Rechtsmittel allerdings nicht geltend, sodass es sich als unzulässig erweist. Wegen des Grundsatzes der Einmaligkeit des Rechtsmittels und der Unzulässigkeit von Nachträgen und Ergänzungen (vgl RS0041666), vermögen daran auch die nachträglichen Mitteilungen des Klägers nichts zu ändern, in denen er darauf hinweist, dass die Entscheidung des Berufungsgerichts nicht mehr ergehen hätte dürfen.
+[9] 		Aufgrund der absoluten Unzulässigkeit der Revision ist nicht weiter darauf einzugehen, dass das Berufungsgericht unzulässigerweise noch nach Insolvenzeröffnung über die vom Kläger erhobene Berufung entschieden hat. Eine allfällige Nichtigkeit der Berufungsentscheidung (vgl RS0037010) kann vom Obersten Gerichtshof mangels Vorliegens eines zulässigen Rechtsmittels nicht aufgegriffen werden (1 Ob 276/99s; vgl 2 Ob 165/04k).
+[10] 		Die außerordentliche Revision ist demnach zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132445

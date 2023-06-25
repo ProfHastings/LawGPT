@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.11.2021
+Geschäftszahl
+7Ob192/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Dr. J* E*, vertreten durch Mag. Paul Wolf, Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei U* Versicherungen AG, *, vertreten durch die Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 67.644,72 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 21. September 2021, GZ 3 R 89/21i-38, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Betriebsunterbrechungsversicherung ist eine Sachversicherung, bei der der Betrieb, nicht die Person des Betriebsinhabers versichert ist (RIS-Justiz RS0080975). Bei einer Sachversicherung ist regelmäßig der Wert der Sache (= Betrieb bzw Erlösverlust) der Versicherungswert (§ 52 VersVG). Dieser kann – wie unstrittig hier – durch Vereinbarung auf einen bestimmten Betrag (Taxe) festgesetzt werden. Die Taxe gilt auch als der Wert, den das versicherte Interesse zur Zeit des Eintritts des Versicherungsfalls hat, es sei denn, dass sie den wirklichen Versicherungswert in diesem Zeitpunkt erheblich übersteigt (§ 57 VersVG). Damit wird eine Ausnahme vom versicherungsrechtlichen Bereicherungsverbot normiert, wonach der Versicherer nicht verpflichtet ist, mehr als den eingetretenen Schaden zu ersetzen (§ 55 VersVG).
+[2] 		2. Die Vereinbarung einer solchen Taxe erübrigt die Feststellung der Höhe des vom Versicherer zu leistenden Ersatzes. Der Versicherungsnehmer hat bei Vorliegen einer Taxvereinbarung nicht die Höhe des tatsächlich entstandenen Schadens darzutun. Vielmehr ist von der Richtigkeit der vereinbarten Taxe auszugehen. Diese Durchbrechung des Bereicherungsverbots hat aber insofern eine Schranke, als sich der Versicherer darauf berufen kann, dass zur Zeit des Versicherungsfalls die Taxe den Ersatzwert erheblich übersteigt. Insofern trifft den Versicherer die Beweislast (RS0111473).
+[3] 		Die Auskunft- und Belegpflichten eines Versicherungsnehmers greifen insoweit nicht, als sie den Zweck verfolgen, den Versicherer über den Ersatzwert zu informieren; denn insoweit ist nach der getroffenen Taxvereinbarung eine Unterrichtung des Versicherers nicht erforderlich. Ficht der Versicherer aber die Taxe an, leben die beiden Obliegenheiten wieder voll auf (RS0111474). Zunächst ist daher von der Richtigkeit der getroffenen Taxvereinbarung auszugehen. Erhebt der Versicherer den Einwand, dass die Taxe den Versicherungswert erheblich übersteigt, hat er die Behauptung aufzustellen, dass die Taxe den Ersatzwert um mehr als 10 % übersteigt (stRsp; vgl 7 Ob 346/98b; 7 Ob 307/99v; 7 Ob 310/00i; 7 Ob 306/00a; 7 Ob 43/18a; 7 Ob 49/19k).
+[4] 		3. Für die Anfechtung der Taxe reicht es aus, wenn der Versicherer behauptet, dass die Taxe den tatsächlichen Schaden erheblich, nämlich um mehr als 10 %, übersteigt. Die Ansicht der Vorinstanzen, der beklagte Versicherer habe im erstinstanzlichen Verfahren bloß die Taxvereinbarung selbst bestritten jedoch kein Tatsachenvorbringen und damit keinen Einwand erhoben, dass die Taxe erheblich den Schaden übersteige und er genau diesen Umstand prüfen will, ist nicht zu beanstanden (vgl RS0042828).
+[5] 		Durch die Vereinbarung einer Taxe wird der Wert des versicherten Interesses grundsätzlich für beide Teile bindend festgelegt, sodass der Versicherungsnehmer von seiner Beweislast entbunden wird. Hat der Versicherer keine Anhaltspunkte für eine erhebliche Überschreitung des wirklichen Versicherungswerts, soll er gerade nicht – wie die Beklagte meint – „ins Blaue hinein“ eine gegenteilige Behauptung aufstellen.
+[6] 		Die Beurteilung des Berufungsgerichts steht auch – wie dargelegt – mit der Entscheidung zu 7 Ob 43/18a im Einklang. Entgegen der Ansicht der Beklagten ist der Entscheidung zu 7 Ob 315/03d nicht die von ihr unterstellte Rechtsansicht zu entnehmen.
+[7] 		4. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00192.21T.1124.000

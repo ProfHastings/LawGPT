@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.06.2022
+Geschäftszahl
+1Ob114/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Parteien 1. B*, 2. F*, 3. J*, und 4. E*, alle vertreten durch Dr. Stefan Denifl, Rechtsanwalt in Dornbirn, gegen die beklagte Partei Republik Österreich, vertreten durch die Finanzprokuratur, Wien 1, Singerstraße 17–19, wegen (zu 1. bis 3.) je 20.000 EUR sA und Feststellung sowie (zu 4.) 10.000 EUR sA und Feststellung, über die Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 24. März 2022, GZ 14 R 3/22x-24, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 5. November 2021, GZ 32 Cg 3/21b-20, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten der Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+[1] 		Das Berufungsgericht gab der Berufung der Kläger gegen das klageabweisende Urteil des Erstgerichts nicht Folge und sprach aus, dass die ordentliche Revision zulässig sei. Das Urteil wurde dem Klagevertreter (im Sinn des § 89d Abs 2 GOG) am 6. 4. 2022 zugestellt.
+[2] 		Die Kläger brachten die (an das Berufungsgericht adressierte) ordentliche Revision am 2. 5. 2022 im elektronischen Rechtsverkehr beim Berufungsgericht (als Folgeeingabe zu dessen Aktenzeichen) ein. Das Berufungsgericht leitete das Rechtsmittel im (justizinternen) elektronischen Rechtsverkehr am 6. 5. 2022 an das Erstgericht weiter, bei dem es am selben Tag einlangte.
+[3] 		Die Revision ist verspätet.
+Rechtliche Beurteilung
+[4] 		Gemäß § 505 Abs 1 ZPO ist die Revision beim Erstgericht einzubringen Die Revisionsfrist beträgt vier Wochen (§ 505 Abs 2 ZPO).
+[5] 		Nach ständiger Rechtsprechung schließt ein unrichtiges Adressatgericht die Anwendung des § 89 GOG zu Lasten des Rechtsmittelwerbers aus (vgl RIS-Justiz  RS0060177; RS0041608). Wird das Rechtsmittel beim unzuständigen Gericht eingebracht und erst von diesem dem zuständigen Gericht übersendet, ist die Zeit bis zum Einlangen in die Rechtsmittelfrist „einzurechnen“ (RS0041584). Es ist also nur rechtzeitig, wenn es spätestens am letzten Tag der Frist beim richtigen Gericht einlangt (RS0041608). Diese Grundsätze gelten auch für Rechtsmittel, die im elektronischen Rechtsverkehr eingebracht worden sind (RS0041584 [T22]). Die in den Gesetzesmaterialien zu § 89d GOG vorgesehene Funktion der Bundesrechenzentrum GmbH als „vorgelagerte Einlaufstelle des Gerichts“ ändert nichts daran, dass ein im Wege des elektronischen Rechtsverkehrs übermitteltes Schriftstück – unter Nichteinrechnung des Postenlaufs – nur dann als rechtzeitig eingebracht angesehen werden kann, wenn es durch Angabe des jeweils zutreffenden „Dienststellenkürzels“ an das richtige Gericht adressiert war. Langte der Schriftsatz wegen Bezeichnung eines unrichtigen Adressatgerichts (unrichtiger Angabe der Dienststellenkennzeichnung) beim falschen Gericht ein, das ihn (mit Zeitverzögerung) an das zuständige Gericht übermitteln musste, so ist die Eingabe nur dann als rechtzeitig anzusehen, wenn sie noch innerhalb der Rechtsmittelfrist beim zuständigen Gericht einlangt (RS0124533). Dies gilt auch für den Fall, dass die Weiterleitung eines Schriftstücks an das zuständige Gericht im (justizinternen) elektronischen Rechtsverkehr erfolgte (RS0124533 [T5]).
+[6] 		Letzter Tag der Frist des § 505 Abs 2 ZPO war hier der 4. 5. 2022. Da der Schriftsatz der Kläger beim unzuständigen Berufungsgericht eingebracht wurde und erst am 6. 5. 2022 beim Erstgericht einlangte, erweist sich die Revision als verspätet. Sie ist daher zurückzuweisen.
+[7] 		Die Kostenentscheidung beruht auf §§ 40, 50 ZPO. Die Beklagte hat in der Revisionsbeantwortung nicht auf die Verspätung der Revision hingewiesen (1 Ob 38/21a mwN), obgleich ihr mit dem Rechtsmittel auch die justizinterne Eingabe vom 6. 5. 2022 zugestellt wurde.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00114.22D.0622.000

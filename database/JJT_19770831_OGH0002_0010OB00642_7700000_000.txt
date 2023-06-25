@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.08.1977
+Geschäftszahl
+1Ob642/77
+Norm
+ABGB §1375;
+ABGB §1412;
+ABGB §1497;
+ABGB §1502;
+Kopf
+SZ 50/110
+Spruch
+In der nach Eintritt der Verjährung abgegebenen Zusage, eine Schuld zu bezahlen, wenn sie noch offen sein sollte, ist zwar kein Anerkenntnis, aber ein Verzicht auf die Verjährungseinrede zu erblicken; die Beweislast für die Schuldtilgung trifft auch in einem solchen Fall den Schuldner
+OGH 31. August 1977, 1 Ob 642/77 (KG Wels R 57/77; BG Vöcklabruck 2 C 2230/75)
+Text
+Der Kläger lieferte dem Beklagten im Sommer 1970 Möbel, wobei 5000 S angezahlt wurden und die Zahlung des heute strittigen Restbetrages von 37 495 S im Oktober 1970 erfolgen sollte. Die Klage wurde erst am 25. August 1975 eingebracht. Der Beklagte wendete Verjährung ein, der Kläger replizierte mit der Behauptung eines Schuldanerkenntnisses.
+Der Erstrichter wies das Klagebegehren ab, das Berufungsgericht gab ihm statt.
+Nach den vom Berufungsgericht übernommenen Feststellungen des Erstrichters erklärte der Beklagte dem Kläger anläßlich einer persönlichen Einmahnung im Sommer 1974: "Ach so, habe ich diese Schuld noch nicht bezahlt? Wenn ich diese noch nicht bezahlt habe, werde ich es begleichen". Erst aus Anlaß eines späteren Eintreibungsversuches durch ein Inkassobüro berief sich der Beklagte neben der angeblich erfolgten Bezahlung auch auf die Verjährung der Forderung. Tatsächlich ist die Restschuld noch offen.
+Das Berufungsgericht erblickte in der festgestellten Äußerung ein Anerkenntnis der Schuld, das die Verjährung unterbrochen habe.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Dem Revisionswerber ist allerdings zuzugeben, daß die festgestellte Äußerung kein Schuldanerkenntnis darstellte, weil ihr mit Rücksicht auf die ausdrücklich beigefügte Bedingung die Bedeutung einer selbständigen Verpflichtung unter Beseitigung bestehender Zweifel (SZ 41/122 u. v. a.) gerade fehlte. Andererseits kann dem Beklagten jedoch nicht dahin gefolgt werden, daß das bedingte Zahlungsversprechen "vernünftigerweise" nur für den Fall gelten sollte, als er selbst zur Überzeugung gelangen würde, Zahlung noch nicht geleistet zu haben. Eine solche Auslegung würde nach der zutreffenden Beurteilung des Berufungsgerichtes die Zahlung auch einer tatsächlich offenen Schuld in die Willkür des Beklagten gestellt haben. Für einen derart beschränkten Erklärungswillen fehlt ebenso jeder Anhaltspunkt wie für eine unbedacht oder nicht ernst gemeinte Äußerung.
+Im Ergebnis richtig ist dann aber die Beurteilung des Berufungsgerichtes, daß ein Verzicht auf die Verjährungseinrede vorliegt. Ein solcher ist nicht nur durch ausdrückliches Anerkenntnis (SZ 47/28 u. a.) möglich, sondern kann auch schlüssig erfolgen (Klang in Klang[2] VI, 670). Die Zahlungszusage für den Fall, daß nicht ohnehin schon gezahlt worden sei, konnte aber nach redlicher Verkehrsgewohnheit nichts anderes bedeuten, als daß der Revisionswerber im Falle noch offener Schuld die damals bereits zweifelsfrei eingetretene Verjährung nicht geltend machen werde.
+Einem solchen Verzicht auf die Verjährungseinrede nach Eintritt der Verjährung steht die Vorschrift des § 1502 ABGB nicht entgegen (Klang a. a. O; 2 Ob 356/74 u. a.).
+Nicht gefolgt werden kann der Rechtsansicht des Revisionswerbers, daß nach Ablauf der Verjährungsfrist der Kläger alle Zweifel über die Schuldtilgung tragen müsse. An der Last des Schuldners, die Tilgung der Forderung zu beweisen, änderte der dargestellte Umstand nichts, weil die Tilgung ein anspruchsvernichtender Akt bleibt, den grundsätzlich der Schuldner zu beweisen hat, der sich hierauf beruft. Wohl wäre eine Einschränkung des Verzichtes auf die Verjährungseinrede auf den Fall des vom Kläger zu beweisenden Zurechtbestehens der Restforderung möglich gewesen. Eine derartige Einschränkung ist aber im Zweifel schon deshalb nicht anzunehmen, weil der Gläubiger den negativen Beweis der Nichtzahlung einer Schuld kaum zu erbringen vermag. Im übrigen hat der Erstrichter dem Kläger entgegen der Darstellung des Revisionswerbers geglaubt, daß auch nach seinen Büchern die Forderung offen ist. Wenigstens diese Feststellung hätte der Revisionswerber widerlegen müssen, wenn seinem bedingten Zahlungsversprechen nach redlicher Verkehrsübung überhaupt ein Sinn zukommen sollte.

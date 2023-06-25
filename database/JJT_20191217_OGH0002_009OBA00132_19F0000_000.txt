@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2019
+Geschäftszahl
+9ObA132/19f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, den Hofrat Dr. Hargassner und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter Mag. Harald Stelzer (aus dem Kreis der Arbeitgeber) und Werner Krachler (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei B*****, vertreten durch Dr. Thomas Juen, Rechtsanwalt in Innsbruck, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Alexandra Knell, Rechtsanwältin in Wien, wegen 1.767,99 EUR brutto sA und Aushändigung von Urkunden (Streitwert 1.654,06 EUR), über die außerordentliche Revision der klagenden Partei (Revisionsinteresse: 951,50 EUR) gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 9. Oktober 2019, GZ 15 Ra 45/19h-22, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger war vom 1. 4. 2016 bis zum 31. 3. 2017 bei der Beklagten beschäftigt. Vereinbart war eine Normalarbeitszeit von 40 Stunden pro Woche im B1 Service, „wobei die tatsächliche wöchentliche Arbeitszeit aufgrund der kollektivvertraglichen Durchrechnungsregelung mit weniger oder mehr als 40 Stunden festgelegt werden kann“. Aufgrund einer Betriebsvereinbarung ist der Durchrechnungszeitraum im Betrieb der Beklagten das Kalenderquartal.
+Der Kläger macht (soweit für das Revisionsverfahren von Relevanz) geltend, dass jene Stunden, die nach Durchrechnung im Kalenderquartal über 40 Stunden pro Woche hinausgehen mit einem 50 %-Zuschlag zu vergüten seien. Die Beklagte vertritt dagegen, dass dies nur für jene Stunden gilt, die nach Durchrechnung über 48 Stunden hinausgehen.
+Die Vorinstanzen haben das Klagebegehren in diesem Umfang abgewiesen.
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers ist mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO zurückzuweisen.
+1. Der Auslegung einer Kollektivvertrags-bestimmung kommt dann keine erhebliche Bedeutung zu, wenn die Bestimmung klar und eindeutig ist (RS0109942 [T1, T6]).
+2. Der Kollektivvertrag für Wachorgane im Bewachungsgewerbe sieht in der hier relevanten Fassung vom 1. 1. 2016 in § 8 Abs 2 vor, dass bei Anwendung der Durchrechnungsregelung in der einzelnen Arbeitswoche die wöchentliche Normalarbeitszeit auf bis zu 60 Stunden ausgedehnt werden kann. Innerhalb dieser Höchstgrenze erfolgt im Rahmen der Durchrechnung der Zeitausgleich im Ausmaß 1 : 1. Arbeitsstunden, die nach der Durchrechnung im Kalendermonat bzw. im Kalenderquartal über die laut Kollektivvertrag (in der jeweiligen Verwendungsgruppe anzuwendende) verlängerte wöchentliche Normalarbeitszeit hinausgehen, werden als Mehrarbeitsstunden mit einem Zuschlag von 50 % vergütet.
+Nach § 9 Abs 2 des Kollektivvertrags gilt für die Verwendungsgruppe B, Service und Sicherheitsdienst, dass für Vollbeschäftigte die wöchentliche Normalarbeitszeit 40 Stunden beträgt, die tägliche Normalarbeitszeit 8 Stunden. Bei Vorliegen der in dieser Verwendungsgruppe typischerweise gegebenen Arbeitsbereitschaft kann die wöchentliche Normalarbeitszeit auf bis zu 48 Stunden bzw die tägliche Normalarbeitszeit in allen Dienstarten auf bis zu 12 Stunden ausgedehnt werden.
+3. Der Kläger bestreitet nicht, dass die Abrechnung von Mehr- und Überstunden nach den Bestimmungen des Kollektivvertrags zu erfolgen hat. Er verweist nur darauf, dass mit ihm nur eine Normalarbeitszeit von 40 Stunden, keine verlängerte Normalarbeitszeit von 48 Stunden vereinbart wurde.
+Dabei übersieht er, dass der Kollektivvertrag für den Zuschlag nach Durchrechnung nicht auf die mit dem jeweiligen Arbeitnehmer vereinbarte Normalarbeitszeit abstellt, sondern auf die im Kollektivvertrag für einzelne Verwendungsgruppen vorgesehene zulässige verlängerte Normalarbeitszeit. Nur für die Stunden, die nach Durchrechnung diese zulässige (Höchst-)Stundenzahl überschreiten, gebührt ein Zuschlag. Im Fall des Klägers sind dies aber die von den Vorinstanzen herangezogenen 48 Stunden pro Woche.
+4. Dass die kollektivvertragliche Regelung in Widerspruch zu Bestimmungen des AZG, insbesondere §§ 5, 6 und 10 AZG steht, behauptet auch der Kläger nicht.
+5. Da der Kläger die Zulässigkeit der Revision nur auf die seiner Ansicht nach unrichtige Zugrundelegung einer Normalarbeitszeit von 48 Stunden stützt, hat eine weitere Überprüfung der Richtigkeit der Berechnung der dem Kläger ausbezahlten Stunden nicht zu erfolgen.
+6. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision des Klägers zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:009OBA00132.19F.1217.000

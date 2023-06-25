@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.11.1957
+Geschäftszahl
+3Nd149/57
+Norm
+Gesetz über die Angelegenheiten der freiwilligen Gerichtsbarkeit
+§145;
+Handelsgesetzbuch §4;
+Handelsgesetzbuch §338 Abs3;
+JN §51;
+Kopf
+SZ 30/72
+Spruch
+Zur Erledigung von Anträgen nach § 338 Abs. 3 HGB. ist das Handelsgericht auch bei solchen stillen Gesellschaften zuständig, in denen der Inhaber des Handelsgewerbes ein Minderkaufmann ist.
+Entscheidung vom 13. November 1957, 3 Nd 149/57.
+Text
+Der Antragsteller stellte beim Handelsgericht Wien den Antrag, gemäß § 338 HGB. anzuordnen, daß der Antragsgegner die Bilanzen des Jahres 1952 bis zur Gegenwart und die Bücher vorlege und sonstige erforderliche Erklärungen abgebe, mit der Begründung, er sei als stiller Gesellschafter an dem vom Antragsgegner unter der Anschrift Wien I., S.-Gasse 3, betriebenen Handelsgewerbe beteiligt; der Antragsgegner verweigere seit Jahren die Vorlage der Bilanzen, der Bücher und Papiere.
+Das Handelsgericht Wien überwies den Antrag gemäß § 44 JN. dem Bezirksgericht Innere Stadt Wien, da der Antragsgegner nicht im Handelsregister eingetragen sei. Das Bezirksgericht Innere Stadt Wien trat den Antrag dem Bezirksgericht Klosterneuburg "zuständigkeitshalber" ab; dieses nahm die Überweisung mangels der gesetzlichen Voraussetzungen nicht an. Daraufhin sprach das Bezirksgericht Innere Stadt Wien mit Beschluß aus, daß es zur Entscheidung nicht zuständig sei, weil sich die Zuständigkeit nach dem Wohnsitz des Antragstellers richte, wie aus § 112 JN. herauszulesen sei.
+Das Rekursgericht hob den Beschluß des Bezirksgerichtes auf und trug diesem auf, den Akt zwecks Bestimmung der Zuständigkeit gemäß § 28 JN. dem Obersten Gerichtshof vorzulegen. Das Bezirksgericht Innere Stadt Wien beantragte nunmehr beim Obersten Gerichtshof, gemäß § 28 JN. ein Bezirksgericht als örtlich zuständig zu bestimmen.
+Der Oberste Gerichtshof gab dem Antrag nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 28 JN. hat der Oberste Gerichtshof aus den sachlich zuständigen Gerichten eines zu bestimmen, wenn zwar feststeht, daß ein inländisches Gericht zur Erledigung einer Rechtsangelegenheit berufen ist, aber nach den Bestimmungen der Jurisdiktionsnorm kein genügender Anhaltspunkt gegeben ist, um festzustellen, welches bestimmte Gericht örtlich zuständig ist. Letztere Voraussetzung trifft im vorliegenden Fall nicht zu. Die vom Bezirksgericht herangezogene Bestimmung des § 112 JN. hat mit der hier zu lösenden Frage überhaupt nichts zu tun. Wohl aber enthält § 145 FGG. die ausdrückliche Bestimmung, daß Anträge nach § 338 Abs. 3 HGB. vor das Handelsgericht gehören. Dies gilt auch für stille Gesellschaften, bei denen der Inhaber des Handelsgewerbes ein Minderkaufmann ist, da auf solche lediglich die Bestimmungen über die Firma, die Führung der Handelsbücher und die Prokura nicht anzuwenden sind, wohl aber die übrigen Bestimmungen des HGB. (§ 4 HGB.) Da somit das Handelsgericht Wien zur Entscheidung über den Antrag zuständig ist, bleibt für die Anwendung des § 28 JN. kein Raum, weshalb der Antrag des Bezirksgerichtes abgewiesen werden mußte. Das Bezirksgericht wird vielmehr den Antrag gemäß § 44 JN. dem Handelsgericht Wien zu überweisen und für den Fall der Verweigerung der Entscheidung durch das Handelsgericht den Akt dem Oberlandesgericht Wien gemäß § 47 JN. vorzulegen haben.

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.03.2021
+Geschäftszahl
+8ObA121/20g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter                                                                 Mag. Dr. Rolf Gleißner (aus dem Kreis der Arbeitgeber) und Wolfgang Jelinek (aus dem Kreis der Arbeitnehmer) in der  Arbeitsrechtssache der klagenden Partei Prof. R* N*, vertreten durch Dr. Harald Hauer, Rechtsanwalt in Wien, gegen die beklagte Partei U*, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen 42.477,57 EUR brutto sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts  Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 21. Oktober 2020, GZ 10 Ra 64/20k-42, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Es entspricht der ständigen Rechtsprechung, dass eine Anfechtungsklage nach §§ 105 f ArbVG die Verjährungsfrist sowie die Ausschluss- bzw Verfallsfrist für die aus dem Arbeitsverhältnis abgeleiteten Ansprüche einschließlich der Beendigungsansprüche unterbricht. Diese Unterbrechungswirkung im Sinne des § 1497 ABGB dauert bis zum Abschluss des Anfechtungsprozesses an und gilt auch für den Fall der Klagsabweisung und für eine Klagszurückziehung, zumal durch diese die Unterbrechungswirkung lediglich verkürzt wird (RIS-Justiz RS0029716 [T14]; RS0034644 [T1]; 8 ObA  21/12i).
+[2] 		Auch hier gilt jedoch der Grundsatz, dass die Unterbrechungswirkung nur unter der Bedingung eintritt, dass die Betreibung des Anspruchs „gehörig fortgesetzt“ wird, sodass sie im Falle einer ungewöhnlichen Untätigkeit des Anspruchswerbers rückwirkend wegfällt (M. Bydlinski in Rummel, ABGB3 § 1497 Rz 10 mwN). Das gilt zwangsläufig nicht nur für die klagsweise Geltendmachung des Anspruchs selbst, sondern auch dann, wenn die Unterbrechungswirkung mittelbar durch ein anderes Verfahren (hier: Kündigungsanfechtung; vgl RS0133439 = 8 Ob 65/20x [Verfahrenshilfeantrag]) begründet wird. Auch dieses Verfahren muss gehörig fortgesetzt werden, damit seine Unterbrechungswirkung zugunsten des von seinem Ausgang abhängigen Anspruchs erhalten bleiben kann. Mit diesen Grundsätzen steht die Entscheidung des Berufungsgerichts im Einklang.
+[3] 		2. Die Rechtsansicht der Vorinstanzen, dass das monatelange Zuwarten des Klägers mit der Fortsetzung des Anfechtungsverfahrens als ungewöhnliche Untätigkeit anzusehen war, wird in der Revision nicht mehr in Frage gestellt (vgl dazu RS0034805 [T22, T24]; RS0034624).
+[4] 		3. Richtig ist, dass die Ausschlussfrist des § 34 AngG nach herrschender Lehre und Rechtsprechung nicht von Amts wegen, sondern wie die Verjährung nur über Einwand des Beklagten wahrgenommen wird (RS0029697 [T2]; 9 ObA 12/95).
+[5] 		Die Vorinstanzen haben die von der Beklagten erhobene Einrede der nicht gehörigen Fortsetzung des Verfahrens, die zum Anspruchsverlust führe, und in der entgegen den Revisionsausführungen nicht nur auf die Anfechtungsfrist, sondern auch auf die sechsmonatige Verfallsfrist für Ansprüche nach § 34 AngG ausdrücklich hingewiesen wurde, als Verfallseinwand angesehen.
+[6] 		Die einzelfallbezogene Auslegung von Prozesserklärungen könnte aber nur dann eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO aufwerfen, wenn  sie mit dem Wortlaut des Parteienvorbringens unvereinbar wäre (RS0042828 [T7, T16]). Davon kann hier keine Rede sein.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E131608

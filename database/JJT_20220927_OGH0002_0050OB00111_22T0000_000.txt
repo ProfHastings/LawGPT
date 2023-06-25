@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+5Ob111/22t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer und Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Grundbuchsache des Antragstellers L* B*, vertreten durch Mag. Andreas Polterauer, Notar in Wien, wegen Berichtigung nach § 21 GUG ob den EZ * und EZ *, je KG *, über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 8. Februar 2022, AZ 46 R 307/21v, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Gegenstand des Verfahrens ist ein auf § 21 GUG gestützter Antrag auf Berichtigung des Grundbuchs. Nach dem historischem Grundbuchsstand habe der Gutsbestand der im Eigentum des Antragsstellers stehenden Liegenschaft einen unter der Oberfläche der Nachbarliegenschaft gelegenen Keller umfasst. Im Zuge der ADV-Grundbuchsumstellung sei diese Eintragung nicht in das elektronische Grundbuch mitübertragen worden.
+[2] 		Das Rekursgericht bestätigte die den Antrag abweisende Entscheidung des Erstgerichts. Die Berichtigung sei bereits wegen der Versäumung der Frist des § 21 Abs 3 GUG nicht möglich.
+[3] 		Das Rekursgericht bewertete den Entscheidungsgegenstand mit 30.000 EUR übersteigend und ließ den Revisionsrekurs nicht zu.
+[4] 		Der außerordentliche Revisionsrekurs des Antragstellers zeigt keine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG auf; dieser ist daher unzulässig und zurückzuweisen.
+Rechtliche Beurteilung
+[5] 		1. Eine Berichtigung nach § 21 Abs 1 und 2 GUG ist, wenn dadurch bücherliche Rechte dritter Personen berührt werden, die aufgrund eines Rechtsgeschäfts nach der Umstellung des Grundbuchs eingetragen wurden, nur dann zulässig, wenn der Antrag auf Berichtigung innerhalb von sechs Monaten nach Eröffnung des umgestellten Grundbuchs beim Grundbuchsgericht eingelangt oder die amtswegige Berichtigung innerhalb dieser Frist vollzogen wird (§ 21 Abs 3 GUG; RIS-Justiz RS0060901 [T2]).
+[6] 		2. Nach Ablauf dieser Ediktalfrist des § 21 Abs 3 GUG kommt eine Grundbuchsberichtigung nach § 21 Abs 1 und 2 GUG auch gegenüber solchen dritten Personen nicht in Betracht, die nicht gutgläubig waren, weil die Frage der Gutgläubigkeit im Grundbuchsverfahren nicht geprüft werden kann (5 Ob 21/91 = RS0060901 [T1]; 4 Ob 506/91). Die Zulässigkeit der Grundbuchsberichtigung im Zug der Umstellung auf automationsunterstützte Datenverarbeitung ist nach objektiven Kriterien des Vertrauensschutzes zu beurteilen und nicht nach der Gutgläubigkeit oder Schlechtgläubigkeit konkreter Personen (RS0060906).
+[7] 		 3. Ein Antragsrecht nach § 21 Abs 1 und 2 GUG steht nur demjenigen zu, der nach Antragsinhalt und Aktenlage die mögliche Verletzung eines bücherlichen Rechts durch die unterbliebene Übertragung einer Eintragung im Zuge der ADV-Grundbuchsumstellung aufzuzeigen vermag (RS0124607).
+[8] 		Diese Verletzung leitet der Antragsteller daraus ab, dass der bereits vor dem Inkrafttreten des Hofkanzlei-Dekrets vom 2. 7. 1832 bestehende Keller auch ohne Eröffnung einer besonderen Grundbuchseinlage (vgl 5 Ob 239/12a) sonderrechtsfähig und daher ein selbstständiges, von der darüber liegenden Liegenschaft unabhängiges Rechtsobjekt sei und der nun nicht übertragene historische Eintrag im Gutsbestandsblatt dementsprechend die Aufgabe und Funktion des Grundbuchs erfülle. Diese die Antragslegitimation bedingende Rechtsverletzung steht in einem reziproken Verhältnis zur Rechtsstellung des Eigentümers der Nachbarliegenschaft. Der Einwand des Antragstellers, § 21 Abs 3 GUG sei hier nicht anwendbar, weil die begehrte Berichtigung nur das Gutsbestandsblatt beträfe und daher dessen dinglichen Rechte nicht berühre, geht daher ins Leere.
+[9] 		Die vom Rechtsmittelwerber zur Begründung der Zulässigkeit des Revisionsrekurses aufgeworfenen Fragen der Sonderrechtsfähigkeit des vor dem Inkrafttreten des Hofkanzlei-Dekrets vom 2. 7. 1832 errichteten Kellers und seiner sachenrechtlichen Zuordnung sind daher in diesem Grundbuchsverfahren nicht zu klären.
+[10] 		4. Einer weiteren Begründung bedarf es nicht (§ 126 Abs 2 GBG iVm § 71 Abs 3 AußStrG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0050OB00111.22T.0927.000

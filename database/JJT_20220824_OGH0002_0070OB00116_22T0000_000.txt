@@ -1,0 +1,67 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+7Ob116/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei E* S*, vertreten durch Dr. Christof Joham und Mag. Andreas Voggenberger, Rechtsanwälte in Eugendorf, gegen die beklagte Partei W*-AG, *, vertreten durch Dr. Haymo Modelhart und andere, Rechtsanwälte in Linz, wegen 9.132,90 EUR sA und Feststellung, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 5. Mai 2022, GZ 53 R 51/22i-41, womit das Urteil des Bezirksgerichts Salzburg vom 26. Jänner 2022, GZ 12 C 675/20w-37, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 860,58 EUR (darin enthalten 142,43 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Klägerin hat bei der Beklagten eine Eigenheim- und Haushaltsversicherung für ihr Einfamilienhaus und den Wohnungsinhalt abgeschlossen. Dem Versicherungsvertrag liegen unter anderem die Allgemeinen Bedingungen für die Eigenheimversicherung (ABE 2017) und die Sonderbedingungen für den Katastrophenschutz (S94) zugrunde. Diese lauten auszugsweise:
+„Allgemeine Bedingungen für die Eigenheimversicherung
+[...]
+Art 14 – Versicherte Schäden und Gefahren; Ausschlüsse
+1. Versicherte Schäden
+1.1 Versichert sind
+1.1.1 die unvorhergesehene, plötzlich von außen unmittelbar einwirkende Beschädigung oder Zerstörung der versicherten Sachen (Sachschaden) durch die Realisierung der versicherten Gefahr (Schadenereignis).
+[...]
+3. Naturgefahren
+3.1 Versicherte Gefahren
+3.1.1 Sturm:
+Sturm ist eine wetterbedingte Luftbewegung, deren Geschwindigkeit am Versicherungsort mehr als 60 Kilometer je Stunde beträgt.
+[...]
+3.2 Nicht versicherte Gefahren (Ausschlüsse zu Naturgefahren)
+[...]
+3.2.3 Schäden durch Wasser und dadurch verursachten Rückstau.
+Schäden durch Schmelz- oder Niederschlagswasser sind aber versichert, wenn das Wasser dadurch in ein Gebäude eindringt, dass feste Baubestandteile oder ordnungsgemäß verschlossene Fenster oder Außentüren durch ein Schadenereignis beschädigt oder zerstört wurden;
+[...]
+Sonderbedingungen für den Katastrophenschutz
+[...]
+1. Versicherte Gefahren und Schäden; Ausschlüsse
+1.1 Versicherungsumfang
+Der Versicherer leistet Entschädigung für versicherte Sachen, die durch
+[...]
+1.1.3 Niederschläge und Rückstau
+[...]
+zerstört oder beschädigt werden oder infolge eines solchen Ereignisses abhanden kommen.
+1.2 Begriffsbestimmung
+[...]
+1.2.3 Niederschläge sind Regen, Schnee und  Schmelzwasser, die plötzlich und unvorhersehbar durch das Dach, aus Dachrinnen oder Außenablaufrohren in das versicherte Gebäude eindringen.
+[...]
+1.3 Nicht versicherte Schäden (Ausschlüsse)
+[...]
+1.3.2 zu Niederschlägen und Rückstau:
+Nicht versichert sind Schäden
+[...]
+- aufgrund baulicher und/oder technischer Mängel (zB Undichtheit von Fenstern und Dachluken),
+[...]“
+Rechtliche Beurteilung
+[2] 		Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+[3] 		1. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren versichert sind. Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikobegrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden. Der Zweck liegt darin, dass ein für den Versicherer nicht überschaubares und kalkulierbares Teilrisiko ausgenommen und eine sichere Kalkulation der Prämie ermöglicht werden soll. Mit dem Risikoausschluss begrenzt also der Versicherer von vornherein den Versicherungsschutz, ein bestimmter Gefahrenumstand wird von Anfang an von der versicherten Gefahr ausgenommen (RS0080166 [insb T10]; RS0080068).
+[4] 		2.1 Von der Klägerin wird nicht bezweifelt, dass nach dem ins Treffen geführten Art 14.1.1.1 ABE Schäden versichert sind, die durch die unmittelbare Einwirkung der unter Art 14.3.1.1 ABE versicherten Gefahr „Sturm“ entstanden sind.
+[5] 		2.2 Sturm wirkt dann unmittelbar ein, wenn er die zeitlich letzte Ursache des Sachschadens ist. „Unmittelbare Einwirkung“ ist zB, wenn versicherte Sachen durch den Druck oder den Sog aufprallender Luft beschädigt oder zerstört werden oder abhanden kommen, insbesondere, wenn bewegliche Sachen umgeworfen oder aus erhöhter Position auf eine tiefer gelegene Fläche hinuntergeworfen werden und dadurch zerbrechen oder sonst beschädigt werden (7 Ob 110/11v, 7 Ob 190/17t; RS0109771).
+[6] 		2.3 Hier wurde durch einen Sturm ein Mittelblech der Solaranlage aus der ursprünglichen Position verschoben, wodurch Feuchtigkeit bzw Niederschlag in das vorbeschädigte Unterdach und sodann in den Dachaufbau gelangten.
+[7] 		Die Beurteilung der Vorinstanzen, die zeitlich letzte Ursache des Schadens (Feuchtigkeitsschäden an Mauern, Böden und Möbeln) sei hier Niederschlagswasser und nicht Sturm gewesen, die Schäden somit nicht durch die unmittelbare Einwirkung von Sturm entstanden, hält sich im Rahmen der bereits bestehenden oberstgerichtlichen Judikatur.
+[8] 		2.4 Auf Art 14.3.2.3 ABE kann sich die Klägerin deshalb nicht berufen, weil Anspruchsvoraussetzung ist, dass das Wasser dadurch in ein Gebäude eindringt, dass feste Baubestandteile oder ordnungsgemäß verschlossene Fenster oder Außentüren durch ein Schadensereignis beschädigt oder zerstört werden. Das hier interessierende Schadensereignis Sturm hat die Beschädigung des Unterdaches aber nicht verursacht.
+[9] 		3.1 Ob das hier vorliegende Eindringen der Niederschläge der primären Risikoumschreibung des Art 1.1.2.3 Sonderbedingung zu unterstellen ist, kann dahingestellt bleiben, weil die Vorinstanzen die Leistungsfreiheit der Beklagten aufgrund des Vorliegens des Risikoausschlusses nach Art 1.3.2 Sonderbedingungen bejahten, wogegen die Klägerin keine stichhaltigen Argumente bringt.
+[10] 		So wendet sich die Klägerin nicht gegen die Qualifikation der festgestellten Beschädigungen des Unterdaches als baulichen Mangel nach der genannten Bedingung durch die Vorinstanzen, weshalb hier auch keine weitere Beurteilung vorzunehmen ist. Selbst wenn man – wie die Klägerin – davon ausginge, dass der Risikoausschluss die Unmittelbarkeit des baulichen Mangels für den Schaden erfordere, wäre für sie nichts gewonnen. Entgegen ihrer Ansicht war die zeitlich letzte und damit unmittelbare Ursache des Sachschadens ohnedies die Vorbeschädigung des Unterdaches und nicht das als mittelbar anzusehende Sturmereignis. Auf eine allfällige Mitursache des Sturmereignisses zur Begründung der Nichtanwendung des Ausschlusses kann sie sich schon deshalb nicht stützen, weil für dieses hier kein Versicherungsschutz besteht.
+[11] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+[12] 		5. Die Kostenentscheidung gründet auf §§ 41, 50 ZPO; die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00116.22T.0824.000

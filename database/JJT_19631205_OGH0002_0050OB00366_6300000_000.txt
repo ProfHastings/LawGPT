@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.12.1963
+Geschäftszahl
+5Ob366/63
+Norm
+KO §46;
+ZPO §528;
+Kopf
+SZ 36/154
+Spruch
+Die Prozeßkosten, die dem Masseverwalter im Rahmen eines gegen die Masse geführten Prozesses erwachsen, sind Masseforderungen nach § 46
+(1) Z. 1 KO., die des siegreichen Gegners hingegen Masseforderungen nach § 46 (1) Z. 2 KO.
+Die Entscheidung über den Befriedigungsrang betrifft nicht den Kostenpunkt.
+Entscheidung vom 5. Dezember 1963, 5 Ob 366/63.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht verteilte die Konkursmasse (Masserlös im Betrage von 78.5446 S 99 g), die zur Befriedigung der Masseforderungen nicht hinreicht, nach den Bestimmungen der §§ 46 KO. und 47 (2) KO. unter die Massegläubiger.
+Es vertrat die Auffassung, daß alle Ansprüche des Masseverwalters, die nicht Barauslagen zum Gegenstand haben, als Masseforderungen im Sinne des § 46 (1) Z. 2 KO. anzusehen seien. Die Forderung des Masseverwalters im Betrage von 78.556 S 64 g konkurriere daher mit der Kostenforderung der Volksbank X. im Betrage von 66.396 S 90 g, die aus dem gegen die Masse geführten Verfahren des Landesgerichtes K., herrühre. Beide Forderungen seien daher verhältnismäßig aufzuteilen.
+Das Rekursgericht änderte den erstgerichtlichen Beschluß dahin ab, daß es dem Masseverwalter gemäß § 46 (1) Z. 1 KO. als Teilentlohnung den Betrag von 68.253 S 04 g zuwies, wodurch der vorhandene Masseerlös erschöpft sei. Die Prozeßkosten, die dem Masseverwalter aus der Vertretung der Masse im Rahmen eines gegen die Masse geführten Prozesses entstehen, gehören - so führt das Rekursgericht aus - zu den Massekosten im Sinne des § 46 (1) Z. 1 KO. Hingegen fallen die Prozeßkosten, die der Masse auf Grund eines verlorenen Prozesses zur Zahlung an den Gegner auferlegt wurden, unter die Bestimmung des § 46 (1) Z. 2 KO. und gelangen daher im Hinblick auf die im § 47 (2) KO. vorgesehene bevorzugte Befriedigung der Ansprüche nach § 46 (1) Z. 1 KO. nicht mehr zum Zug.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Volksbank X., in welchem gegen die Ansicht Stellung genommen wird, daß bei Unzulänglichkeit der Masse die vom Masseverwalter angesprochene Entlohnung für seine Barauslagen und Mühewaltung vor den Forderungen der Rekurswerberin zu befriedigen sei, nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurs ist zulässig, aber nicht berechtigt.
+Gemäß § 528 ZPO., der nach den Bestimmungen der §§ 172 und 176 (2) KO. zur Anwendung gelangt, sind zwar Rekurse gegen Entscheidungen des Gerichtes zweiter Instanz über den Kostenpunkt nicht zulässig, wozu auch die Frage gehört, aus welcher Vermögensmasse Kosten zu entrichten sind (Jud. 4 (neu), 13 (neu) u. a.). Im vorliegenden Falle handelt es sich aber um die Frage der Befriedigung eines Anspruches des Masseverwalters aus der Masse und um den im Vordergrund stehenden Befriedigungsrang, somit nicht um einen Kostenpunkt, so daß die Zulässigkeit des Revisionsrekurses zu bejahen ist (vgl. SZ. XIII 16, Not. Ztg. 1934, S. 137, JBl. 1963, S. 44).
+Zu Unrecht vermeint die Rekurswerberin, es widerspreche dem Grundsatz der gleichen Behandlung gleicher Ansprüche vor dem Gesetz und der Absicht des Gesetzgebers, wenn im Verteilungsverfahren die Ansprüche des unterlegenen Masseverwalters, die auf Grund eines gegen die Masse geführten Rechtsstreites dem Masseverwalter aus der Vertretung der Masse entstanden, höher eingestuft werden, als die Ansprüche der obsiegenden Gläubigerin. Wenn der Masseverwalter zwecks Abwehr eines Anspruches auf das Massevermögen einen Rechtsstreit führt, so erfolgt dies in Erfüllung seiner Obliegenheit, das Interesse der Konkursgläubiger zu wahren. Falls der Masseverwalter dabei in einem Rechtsstreit unterliegt, so erwächst den Konkursgläubigern zwar kein Vorteil. Trotzdem ist sein Anspruch nach § 46 (1) Z. 1 KO. zu beurteilen, während der Anspruch des Prozeßgegners auf Erstattung der Prozeßkosten unter die Z. 2 des § 46 KO. fällt, weil die Prozeßführung des Masseverwalters einen Vorteil für die gemeinschaftliche Befriedigung der Konkursgläubiger erstrebte (Lehmann, Komm., I., S. 374, 375), so daß entgegen den Ausführungen der Rekurswerberin nicht gleiche, sondern ihrem Wesen nach verschiedenartige Ansprüche nach den Bestimmungen der §§ 46 und 47 (2) KO. eine unterschiedliche Berücksichtigung finden. Daß die verschiedenartige Behandlung auch der Absicht des Gesetzgebers entspricht, ergibt sich daraus, daß gleich der Regelung des § 28 der Konkursordnung vom 25. Dezember 1868, bestimmte Vorzugsrechte unter den Masseforderungen im Interesse der zurückgesetzten gesamten Konkursgläubigerschaft geschaffen werden sollten (vgl. Denkschrift, S. 47, 48).
+Daß die Ansprüche des Masseverwalters nach § 46 (1) Z. 1 KO. zu beurteilen sind, ergibt sich schon aus der sprachlichen Fassung dieser Gesetzesstelle, wonach Masseforderungen die Kosten des Konkursverfahrens, ferner alle Auslagen, die mit der Erhaltung, Verwaltung und Bewirtschaftung der Masse verbunden sind, darstellen. Dazu gehören, wie das Rekursgericht zutreffend ausführt, alle Kosten der Prüfung und Feststellung der gegen die Masse erhobenen Ansprüche. Auch das Schrifttum teilt diese Auffassung (Rintelen, Handbuch, S. 319).
+Im Gegensatz zu den Ansprüchen des Masseverwalters resultieren die Kostenforderungen der Rekurswerberin aus einer Rechtshandlung des Masseverwalters, nämlich, wie der Oberste Gerichtshof bereits dargetan hat (JBl. 1933, S. 458), aus einem vom Masseverwalter verlorenen Prozeß. Sie kommen daher als Masseforderungen im Sinne des § 46 (1) Z. 2 KO. in Betracht. Den gleichen Standpunkt nimmt auch die Rechtslehre ein (Rintelen, Handbuch, S. 319, 320, Lehmann, Komm., I., S. 386).
+Nach der Regelung des § 47 (2) KO. sind die Masseforderungen des § 46 (1) Z. 2 KO. erst nach denen der Z. 1 des § 46 KO. zu berücksichtigen. Sofern die Rekurswerberin eine andere Berücksichtigung ihrer Ansprüche anstrebt, finden ihre Ausführungen in der im § 47 (2) KO. getroffenen Regelung keine Stütze. Dem Rekursgericht ist daher eine Unrichtigkeit bei der Verteilung des Masseerlöses nicht unterlaufen.

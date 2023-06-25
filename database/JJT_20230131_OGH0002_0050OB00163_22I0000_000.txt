@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.01.2023
+Geschäftszahl
+5Ob163/22i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer und Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Grundbuchsache der Antragsteller 1. A* S*, 2. G* S*, beide vertreten durch die Mag. Günther Novak-Kaiser Rechtsanwalt GmbH in Murau, wegen Eintragung einer Dienstbarkeit ob EZ * KG *, über den außerordentlichen Revisionsrekurs der Antragsteller gegen den Beschluss des Landesgerichts Leoben als Rekursgericht vom 28. Juli 2022, AZ 1 R 129/22w, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Gegenstand des Verfahrens ist die Einverleibung der Dienstbarkeit des Überwasserbezugs und des Wasserbezugsrechts.
+[2] 		Das Erstgericht wies das Grundbuchsgesuch der Eigentümer der angeblich herrschenden Liegenschaft ab. Das Rekursgericht bestätigte diese Entscheidung, bewertete den Entscheidungsgegenstand mit 30.000 EUR übersteigend und ließ den Revisionsrekurs nicht zu.
+Rechtliche Beurteilung
+[3] 		Der außerordentliche Revisionsrekurs der Antragsteller zeigt keine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG auf; dieser ist daher unzulässig und zurückzuweisen. Die Begründung dieses Beschlusses kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 126 Abs 3 GBG; § 71 Abs 3 AußStrG).
+[4] 		1. Nach § 21 GBG sind Eintragungen nur gegen den zulässig, der zur Zeit des Ansuchens als Eigentümer der Liegenschaft oder des Rechts, in Ansehung deren die Eintragung erfolgen soll, im Grundbuch aufscheint. Dazu verlangt § 32 Abs 1 lit b GBG für die Einverleibung von Rechten aufgrund von Privaturkunden eine ausdrückliche Erklärung des Vormanns, dass er in die Einverleibung einwilligt (RIS-Justiz RS0115743 [T1]).
+[5] 		2. Die Eigentümer der Liegenschaft, zu deren Lasten die Antragsteller die Einverleibung der Dienstbarkeit anstreben, waren nicht Partei des dem Antrag zugrunde gelegten Dienstbarkeitsvertrags vom 8. 2. 2007. Die Antragsteller haben diesen vielmehr mit dem Rechtsvorgänger der aktuellen Eigentümer der dienenden Liegenschaft abgeschlossen; (nur) von diesem stammt die darin enthaltene Aufsandungserklärung. Dass es sich bei den aktuellen Eigentümern der Liegenschaft um dessen Gesamtrechtsnachfolger handelt, behaupten die Revisionswerber nicht, sodass auch nicht geprüft werden muss, ob sie in einem solchen Fall an die von ihm abgegebene Erklärung gebunden wären (vgl 5 Ob 32/21y).
+[6] 			Der Dienstbarkeitsvertrag als Privaturkunde iSd § 31 Abs 1 GBG ist daher keine taugliche Grundlage für die angestrebte grundbücherliche Eintragung.
+[7] 		3. In ihrem Revisionsrekurs vertreten die Antragsteller nun den Standpunkt, dass der Dienstbarkeitsvertrag (nicht bloß eine Privaturkunde, sondern) durch seine Aufnahme in ein von der Agrarbezirksbehörde beurkundetes und mittels Bescheid genehmigtes Flurbereinigungsübereinkommen ein Bestandteil öffentlicher Urkunden iSd § 33 Abs 1 GBG sei. Eintragungsgrundlage seien daher diese öffentlichen Urkunden.
+[8] 		Die Antragsteller verkennen damit die Funktion eines Flurbereinigungüberseinkommens als Mittel der Flurbereinigung nach dem Steiermärkischen Zusammenlegungsgesetz 1982 (StZLG 1982). Dabei hat die Agrarbehörde die Durchführung eines Flurbereinigungsübereinkommens im Grundbuch von Amts wegen zu veranlassen (§ 48 Abs 1 StZLG 1982 iVm § 61 StZLG 1982). Aus dem Umstand, dass die Richtigstellung des Grundbuchs nach Abschluss einer Agraroperation von Amts wegen zu erfolgen hat (RS0006660), folgt aber, dass den Beteiligten kein Antragsrecht und damit auch keine Rechtsmittellegitimation zukommt. Anträge der Beteiligten haben in solchen Verfahren vielmehr nur die Bedeutung von Anregungen (vgl 5 Ob 128/14f; 5 Ob 51/00m; RS0006660 [T3]; RS0058963 [T2]). Anderes gilt nach der Rechtsprechung des Fachsenats nur für die Agrarbehörde, wenn deren Rechtsmittel auf die Einhaltung von bundes- und landesgesetzlichen Flurverfassungsbestimmungen abzielt (5 Ob 128/14f mwN).
+[9] 		Diese Grundsätze können die Beteiligten nicht dadurch umgehen, dass sie sich nicht auf die Herstellung der Grundbuchsordnung nach einer Flurbereinigung, sondern auf die in diesem Verfahren allenfalls geschaffenen öffentlichen Urkunden iSd § 33 Abs 1 GBG berufen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0050OB00163.22I.0131.000

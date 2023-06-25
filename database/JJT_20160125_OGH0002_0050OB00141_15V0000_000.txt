@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2016
+Geschäftszahl
+5Ob141/15v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Partei B***** GmbH, *****, vertreten durch Mag. Dr. Martin Schwifcz, Rechtsanwalt in Wien, und der Nebenintervenientin auf Seite der klagenden Partei F***** GmbH, *****, vertreten durch Dr. Alexander Kaufmann, Rechtsanwalt in Wien, gegen die beklagte Partei V***** GmbH, *****, vertreten durch die Proksch & Partner Rechtsanwälte OG in Wien, wegen  75.070,92 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Mai 2015, GZ 2 R 211/14k-48, den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Begründung:
+Rechtliche Beurteilung
+1. Übersteigt der Wert des Entscheidungsgegenstands 5.000 EUR, nicht aber 30.000 EUR kommt eine Revision nur in Betracht, wenn das Berufungsgericht die ordentliche Revision entweder von vornherein für zulässig erklärt (§ 502 Abs 3 ZPO) oder aber seinen ursprünglich gegenteiligen Ausspruch über die Unzulässigkeit der Revision über Antrag nachträglich abändert (§ 508 Abs 3 ZPO).
+2. Bilden mehrere Ansprüche den Entscheidungsgegenstand des Berufungsgerichts, hat eine Zusammenrechnung nur zu erfolgen, wenn die Voraussetzungen des § 55 Abs 1 JN erfüllt sind (RIS-Justiz RS0053096; RS0037838 [T38]). Danach sind mehrere in einer Klage geltend gemachte Forderungen zusammenzurechnen, wenn sie in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Hiebei ist vom Vorbringen des Klägers auszugehen (RIS-Justiz RS0042741).
+Die Klägerin begehrte die Zahlung von 75.070,92 EUR sA und führte dazu im Wesentlichen aus, dass die Klägerin und die Beklagte (gleichartige) Leasingverträge über sechs LKWs abgeschlossen hätten. Diese Leasingverträge seien mit Ende März 2009 einvernehmlich beendet worden. Die Beklagte habe der Klägerin entgegen einer Bestimmung der Leasingverträge nach der Verwertung der Fahrzeuge bei keinem der LKW den Verwertungsmindererlös ersetzt, also den Differenzbetrag zwischen dem kalkulierten Restwert und dem niedrigeren tatsächlich erzielten Erlös. Gemäß den jeweiligen Vertragsabrechnungen vom 14. 7. 2009 und 6. 7. 2009 stünden aus den einzelnen Leasingverträgen die Beträge von 15.285,58 EUR, 15.285,58 EUR, 15.285,58 EUR, 15.285,58 EUR, 8.236,30 EUR und 5.692,30 EUR offen aus.
+Forderungen aus verschiedenen, wenn auch gleichartigen Verträgen sind nach ständiger Rechtsprechung des Obersten Gerichtshofs nicht zusammenzurechnen (RIS-Justiz RS0037905 [T26], RS0110872 [T7]). Hier ist daher jede dieser Forderungen für die Frage der Zulässigkeit der Revision gesondert zu beurteilen.
+3. Da der Wert des Entscheidungsgegenstands der getrennt zu behandelnden Klagsforderungen jeweils zwar 5.000 EUR, nicht aber 30.000 EUR übersteigt, ist keine außerordentliche Revision zulässig (§ 505 Abs 4 ZPO), sondern es kann gemäß § 508 ZPO ein mit einer ordentlichen Revision verbundener Abänderungsantrag beim Berufungsgericht gestellt werden. Das Rechtsmittel der beklagten Partei wäre daher gemäß § 507b Abs 2 ZPO - auch wenn es als „außerordentliche Revision“ bezeichnet wird - dem Berufungsgericht vorzulegen gewesen. Der Oberste Gerichtshof kann darüber nur und erst dann entscheiden, wenn das Gericht zweiter Instanz seinen Ausspruch dahingehend abgeändert hat, dass ein ordentliches Rechtsmittel doch zulässig sei (RIS-Justiz RS0109501, RS0109623).
+Das Erstgericht wird das Rechtsmittel demnach dem Berufungsgericht vorzulegen haben. Ob aufgrund des fehlenden ausdrücklichen Antrags auf Abänderung des Zulässigkeitsausspruchs die Einleitung eines Verbesserungsverfahrens erforderlich ist, ist von den Vorinstanzen zu beurteilen (RIS-Justiz RS0109623 [T2, T4, T5, T8, T14]; RS0109501 [T2, T6, T7, T8, T12, T17, T22]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00141.15V.0125.000

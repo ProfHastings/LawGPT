@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.04.2020
+Geschäftszahl
+9ObA117/19z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Hopf als Vorsitzenden, die Hofrätin Dr. Fichtenau und den Hofrat Dr. Hargassner sowie die fachkundigen Laienrichter Dr. Ingomar Stupar und Mag. Werner Pletzenauer als weitere Richter in der Arbeitsrechtssache der klagenden Partei Republik Österreich *****, vertreten durch die Finanzprokuratur, 1011 Wien, Singerstraße 17–19, gegen die beklagte Partei P*****, vertreten durch Dr. Alice Gao, Rechtsanwältin in Wien, wegen 176,55 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 28. August 2019, GZ 7 Ra 50/19b-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Beklagte war befristet von 1. 4. 2016 bis 1. 12. 2017 als Vertragsbediensteter des Bundes in einem Finanzamt tätig. Im November 2017 wurde irrtümlich die Überweisung der Sonderzahlung für das gesamte 4. Quartal 2017 an den Beklagten veranlasst, obwohl diese Zahlung infolge Ablauf der Befristung nur mehr anteilig für den Zeitraum 1. 10. 2017 bis 1. 12. 2017 gebührt hätte (§ 8a Abs 2 2. Satz VBG). Dem Beklagten kamen daher 176,55 EUR (netto) zu viel an Sonderzahlungen zu. Auf der Gehaltsabrechnung war die Sonderzahlung für das 4. Quartal iHv „100 %“ vermerkt.
+Rechtliche Beurteilung
+I. Zur Klagsforderung auf Rückzahlung der 176,55 EUR:
+I.1 Das Berufungsgericht hat die Grundsätze der Rechtsprechung zum gutgläubigen Empfang und Verbrauch eines unrechtmäßigen Dienstbezugs zutreffend wiedergegeben (RS0033826; RS0010182; RS0010271). Die rechtliche Beurteilung, der Beklagte habe bei objektiver Betrachtungsweise das beim Empfang einer rechtsgrundlosen Leistung des Dienstgebers durchschnittlich zu erbringende Maß an Sorgfalt nicht aufgebracht, weshalb ein gutgläubiger Empfang und Verbrauch zu verneinen seien, hält sich im Rahmen dieser Rechtsprechung. Die Beurteilung dieser Frage, begründet keine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO (RS0033826 [T5]).
+I.2 Auf Überlegungen zur alternativen Fallgestaltung, dass ein Arbeitnehmer im Zeitpunkt der Auszahlung der Sonderzahlung (Fälligkeitszeitpunkt) noch einen vollen Anspruch auf Sonderzahlungen hatte, in der Folge aber das Arbeitsverhältnis vor Jahresende beendet wurde, muss hier nicht eingegangen werden.
+II. Zu den Gegenforderungen in Höhe von 844,43 EUR wegen Nichtanrechnung von Vordienstzeiten sowie in Höhe von weiteren 20.255,90 EUR wegen behaupteter unrichtiger Einstufung ab Oktober 2016:
+II.1 Zur Anrechnung der Vordienstzeiten:
+Zu Ermittlung des Besoldungsdienstalters ist in § 26 Abs 5 und Abs 6 VBG ein Festsetzungs- und Überprüfungsverfahren vorgesehen. Ausgehend von den dazu getroffenen Feststellungen gelangte das Berufungsgericht zu dem Ergebnis, die Voraussetzungen für die Anrechnung von Vordienstzeiten seien beim Beklagten nicht gegeben.
+Dem hält der Beklagte in der Revision lediglich entgegen, seine Belehrung über die Bestimmungen zur Anrechnung von Vordienstzeiten (§ 26 Abs 5 VBG) sei nur äußerst knapp und flüchtig erfolgt. Dieses Vorbringen stellt aber eine unbeachtliche Neuerung dar (§ 504 Abs 2 ZPO), es findet in den Feststellungen auch keine Grundlage. Mit seinem weiteren Vorbringen setzt sich der Beklagte auch darüber hinweg, dass er keinen Antrag auf Anrechnung von Vordienstzeiten gestellt hat. Für eine amtswegige Berücksichtigung von anrechenbaren Vordienstzeiten besteht aber keine Rechtsgrundlage (Ziehensack, Vertragsbedienstengesetz, Praxiskommentar § 26 VBG Rz 65). Die in diesem Zusammenhang gerügte Aktenwidrigkeit und Mangelhaftigkeit des Berufungsverfahrens liegen nicht vor.
+II.2 Zur gewünschten Einstufung in die Entlohnungsgruppe v1 (statt v3) ab Oktober 2016 infolge Änderung der Tätigkeit:
+Der Oberste Gerichtshof hat sich bei der Prüfung der Frage, ob eine außerordentliche Revision einer weiteren Behandlung unterzogen werden soll, grundsätzlich auf jene Gründe zu beschränken, die in der Zulassungsbeschwerde (§ 506 Abs 1 Z 5 ZPO) als solche angeführt sind (RS0107501). Zur gewünschten Einstufung in die Entlohnungsgruppe v1 finden sich dort aber keine Ausführungen. Auch in den Rechtsmittelgründen wird keine Rechtsfrage von erheblicher Bedeutung im Sinne des § 502 Abs 1 ZPO nachgetragen, sondern nur der rechtlichen Beurteilung des Berufungsgerichts entgegengetreten. Eine besondere Auseinandersetzung mit den Zulässigkeitsaspekten des § 502 Abs 1 ZPO findet sich dort aber nicht.
+Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:009OBA00117.19Z.0429.000

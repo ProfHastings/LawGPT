@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.07.1995
+Geschäftszahl
+1Ob1635/95
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr.Schlosser als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr.Schiemer, Dr.Gerstenecker, Dr.Rohrer und Dr.Zechner als weitere Richter in der Rechtssache der klagenden Partei J***** KG, ***** vertreten durch Dr.Reinhard Pitschmann, Rechtsanwalt in Feldkirch, wider die beklagte Partei C*****, Gesellschaft mbH, ***** vertreten durch Dr.Klaus Fischer, Rechtsanwalt in Dornbirn, wegen S 83.823,48 s.A. (Revisionsinteresse S 80.823,48 s.A.) infolge außerordentlicher Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Innsbruck als Berufungsgerichtes vom 11.Mai 1995, GZ  2 R 116/95-49, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision der beklagten Partei wird gemäß § 508 a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Das Berufungsgericht legte seiner Entscheidung die Tatsache zugrunde, daß allein der Einbau der zweiten Festplatte im Computersystem die Ursache für die praktische Unverwendbarkeit des Novell-Netzwerkes ist, weil dadurch eine unzumutbare Verlangsamung des Systems eintrat (ON 49 S. 3).
+Unbeachtet blieben dagegen folgende vom Erstgericht getroffenen Feststellungen:
+"Neben dem Umstand, daß entgegen den ausdrücklichen Anweisungen des Herstellers eine RLL-Festplatte als MFM-Festplatte formatiert und an einen MFM-Controller angeschlossen wurde, unterliefen der Klägerin bei der Installation der zweiten Festplatte noch weitere - jedoch unwesentliche - Fehler. Die konkrete Ursache der Unverträglichkeit mit dem Novell-Netzwerk kann nicht festgestellt werden, ebensowenig die Möglichkeit der Beseitigung derselben" (ON 42 S. 9).
+Rechtliche Beurteilung
+Ob darin eine Aktenwidrigkeit gemäß § 503 Z 3 ZPO zu erblicken wäre, ist im Revisionsverfahren - mangels Rüge - nicht zu prüfen.
+Das Erstgericht legte im übrigen seiner im zweiten Rechtsgang gefällten Entscheidung einen von den im ersten Rechtsgang getroffenen Feststellungen (teilweise) abweichenden Sachverhalt zugrunde. Die im zweiten Rechtsgang unterlegene beklagte Partei unterließ jedoch die Ausführung einer Rechtsrüge im Berufungsverfahren, obwohl das Gericht zweiter Instanz wegen der im Sachverhaltsbereich eingetretenen Änderung nicht mehr an seine im ersten Rechtsgang dargelegte Rechtsansicht gebunden gewesen wäre (Fasching, LB2 Rz 1821; in diesem Sinne auch: Kodek in Rechberger, Kommentar zur ZPO Rz 2 zu § 499 je mwN). Die im Berufungsverfahren unterbliebene Rechtsrüge kann aber nach ständiger Rechtsprechung im Revisionsverfahren nicht nachgeholt werden (Kodek in Rechberger aaO Rz 5 zu § 503 mwN). Das läßt die beklagte Partei unbeachtet, soweit sie in Punkt 2.)a.) ihrer außerordentlichen Revision erkennbar die Rechtsansicht des Berufungsgerichtes bekämpft. Dabei stellt sich im vorliegenden Fall nicht die Frage, ob von einem Ausschluß der Rechtsrüge im Revisionsverfahren auch dann auszugehen wäre, wenn eine solche im Berufungsverfahren des zweiten Rechtsganges zwar unterlassen worden wäre, aber das Gericht zweiter Instanz selbst in Bindung an seine im ersten Rechtsgang geäußerte Rechtsansicht zu entscheiden gehabt hätte.
+Die Entscheidung hängt daher nicht von der Lösung einer erheblichen Rechtsfrage im Sinne des § 502 Abs 1 ZPO ab; unerörtert muß daher auch bleiben, welchem Vertragstypus die von den Streitteilen geschlossene Vereinbarung zu subsumieren wäre und wem die vom Erstgericht getroffene, oben hervorgehobene Negativfeststellung in Ansehung der Tatsache zur Last fiele, daß die klagende Partei nach dem zu beurteilenden Sachverhalt nicht nur "den mechanischen Einbau" der Festplatten in das Computersystem durchzuführen, sondern auch "die softwaremäßigen Voraussetzungen für ein ordnungsgemäßes Funktionieren" zu schaffen hatte (ON 42 S 6 f).

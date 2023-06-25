@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.2015
+Geschäftszahl
+10Ob20/15m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Fellinger als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Neumayr und Dr. Schramm sowie die Hofrätinnen Dr. Fichtenau und Mag. Korn als weitere Richter in der Pflegschaftssache der mj J*****, geboren am *****, und A*****, geboren am *****, über den Revisionsrekurs des Vaters M*****, vertreten durch Dr. Michael Hasenöhrl, Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 14. Jänner 2015, GZ 48 R 360/14t-72, womit der Beschluss des Bezirksgerichts Hietzing vom 23. Oktober 2014, GZ 7 Pu 55/09w-66, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Das Erstgericht erhöhte den vom Vater für seinen Sohn monatlich zu zahlenden Unterhalt für die Zeit vom 1. 4. 2013 bis 31. 8. 2013 um 43 EUR und ab 1. 11. 2013 um 83 EUR, jenen für seine Tochter in diesem genannten Zeitraum um 29 EUR und ab 1. 9. 2013 um 109 EUR. Den unbeziffert gebliebenen Herabsetzungsantrag des Vaters wies es ab.
+Das Rekursgericht gab dem dagegen erhobenen Rekurs des Vaters nicht Folge. Es sprach aus, dass der ordentliche Revisionsrekurs nicht zulässig sei.
+Das Erstgericht legte den dagegen vom Vater erhobenen außerordentlichen Revisionsrekurs dem Obersten Gerichtshof vor.
+Rechtliche Beurteilung
+Die Aktenvorlage widerspricht dem Gesetz.
+Ein Revisionsrekurs ist (außer im Fall des § 63 Abs 3 AußStrG) jedenfalls unzulässig (§ 62 Abs 3 AußStrG), wenn der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 30.000 EUR nicht übersteigt und - wie hier - das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG den ordentlichen Revisionsrekurs für nicht zulässig erklärt hat. Der Gegenstand, über den das Rekursgericht entschieden hat, übersteigt hinsichtlich beider Unterhaltsberechtigter jeweils nicht 30.000 EUR:
+Der Wert des vom Rekursgericht behandelten Entscheidungsgegenstands nach § 58 Abs 1 JN bestimmt sich mit dem 36fachen des im Rekursverfahren strittigen monatlichen Erhöhungs- oder Herabsetzungsbegehrens (RIS-Justiz RS0046543; RS0122735), wobei regelmäßig auf den laufenden Unterhalt abzustellen ist (10 Ob 41/14y mwN). Dieser Wert ist für jeden Unterhaltsberechtigten gesondert zu beurteilen; eine Zusammenrechnung findet nicht statt (RIS-Justiz RS0112656).
+Der Wert des Entscheidungsgegenstands hinsichtlich des Erhöhungsbegehrens errechnet sich für den Sohn mit 2.988 EUR (83 EUR mal 36) und für die Tochter mit 3.924 EUR (109 EUR mal 36). Selbst wenn man den Herabsetzungsantrag des Vaters dahin auffasste, dass er eine Herabsetzung auf 0 EUR beantragt, wird der Betrag von 30.000 EUR nicht erreicht (a) 607 EUR mal 36 = 21.852 EUR hinsichtlich des Sohnes; b) 501 EUR mal 36 = 18.036 EUR hinsichtlich der Tochter).
+Übersteigt der Wert des Entscheidungsgegenstands des Rekursgerichts nicht 30.000 EUR steht einer Partei nach § 63 Abs 1 und 2 AußStrG nur ein Antrag an das Rekursgericht offen, den Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde (Zulassungsvorstellung). Die Zulassungsvorstellung ist mit der Ausführung des ordentlichen Revisionsrekurses zu verbinden und - selbst wenn sie an den Obersten Gerichtshof gerichtet ist - zunächst dem funktional zuständigen Rekursgericht zur Entscheidung über den Antrag auf Abänderung des Zulässigkeitsausspruchs zuzuleiten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0100OB00020.15M.0324.000

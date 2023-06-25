@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.07.2020
+Geschäftszahl
+4Ob86/20f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin S***** GmbH, *****, vertreten durch Zacherl Schallaböck Proksch Manak Kraft Rechtsanwälte GmbH in Wien, gegen die Beklagte G***** KG, *****, vertreten durch Mag. Georg Luckmann, Rechtsanwalt in Klagenfurt am Wörthersee, wegen Unterlassung (Streitwert 20.000 EUR), 8.004 EUR sA und Urteilsveröffentlichung (Streitwert 1.000 EUR), über die außerordentliche Revision der Beklagten gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 26. Februar 2020, GZ 5 R 176/19w-24, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin besitzt das exklusive Recht an der Übertragung von Fernsehprogrammen eines bestimmten Senders in Österreich, darunter Fußballspiele der deutschen Bundesliga.
+Die Beklagte führte über ein im Publikumsbereich ihres Gastronomiebetriebs einsehbares Fernsehgerät ein in das Exklusivrecht der Klägerin fallendes Fußballspiel ohne Bewilligung der Klägerin auf.
+Aufgrund der gegenständigen Klage untersagten die Vorinstanzen der Beklagten, Rundfunkprogramme, an denen die Klägerin exklusive Nutzungsrechte hat, insbesondere Live-Übertragungen von Sportveranstaltungen, öffentlich aufzuführen, wenn die Klägerin dafür keine Bewilligung erteilt hat. Weiters wurde die Beklagte zur Zahlung des im Kopf der Entscheidung bezifferten Schadenersatzes gemäß § 87 Abs 3 UrhG und zur Urteilsveröffentlichung in der „Kronen Zeitung“ verurteilt.
+Rechtliche Beurteilung
+Mit ihrer außerordentlichen Revision beantragt die Beklagte, die Klage abzuweisen; sie zeigt aber in ihrem Rechtsmittel keine erheblichen Rechtsfragen auf, weshalb die Revision zurückzuweisen ist.
+1.1. Die Revision argumentiert zunächst, das Fußballspiel sei mit arabischem Kommentar und mit deutlich sichtbarem Logo des ausländischen Senders ausgestrahlt worden. Die Beklagte habe daher keine urheberrechtlich geschützte Sendung der Klägerin aufgeführt.
+1.2. Nach den Grundsätzen der Entscheidung 4 Ob 184/13g handelt es sich bei der Live-Übertragung bzw Aufzeichnung des Spiels um ein geschütztes Filmwerk iSd § 4 UrhG. Die Bildregie wählt aus den Aufzeichnungen in eigener, gestalterischer Entscheidung die jeweils besten aus und entscheidet über den Einsatz von Zeitlupe und Wiederholung. Zusätzlich erlaubt auch der Kommentar eine individuelle Zuordnung (4 Ob 184/13g [1.5]; vgl auch 4 Ob 208/15i). Die Klägerin hat vom Hersteller dieses Filmwerks das exklusive Werknutzungsrecht übertragen erhalten.
+1.3. Nach den Feststellungen hat der Sender, den die Beklagte in ihrem Geschäftslokal öffentlich wiedergegeben hat, dieses Bildmaterial (und nicht ein anderes Bildmaterial vom selben Spiel) ausgestrahlt. Bereits das Bildmaterial erfüllt die Anforderungen an eine eigentümliche geistige Schöpfung iSd § 4 UrhG, sodass dessen Wiedergabe die Werknutzungsrechte der Klägerin verletzt.
+1.4. Dass die Ausstrahlung mit einem anderen Kommentar erfolgte, ändert daran nichts. Geht man davon aus, dass Kommentar und Bildmaterial ein untrennbares Ganzes bilden, sohin ein gemeinsam geschaffenes Werk vorliegt, dann ist der Austausch des Kommentars eine Bearbeitung; die Ausschließlichkeitsrechte der Klägerin werden durch eine solche nicht geschmälert (vgl RS0076417; RS0125380). Handelt es sich hingegen um eine bloße Werkverbindung (vgl 4 Ob 64/17s [1.4]), ist der geänderte Kommentar im Anlassfall von vornherein ohne Relevanz.
+1.5. Ebenso ohne Relevanz ist, dass die Beklagte die AGB des ausländischen Runkfunkunternehmers, die eine öffentliche Wiedergabe des Signals ausdrücklich untersagen, nicht unterfertigt hat. Es geht im vorliegenden Fall nicht um die Drittwirkung fremder Lizenzbestimmungen, sondern darum, dass die Beklagte für sich selbst keine geschlossene Kette einer Rechteeinräumung nachweisen konnte (vgl 4 Ob 121/15w [4.5]).
+2.1. Der Unterlassunganspruch nach § 81 UrhG ist verschuldensunabhängig (RS0077265; RS0077200), sodass insoweit irrelevant ist, ob die Beklagte die Werknutzungsrechte der Klägerin hätte kennen müssen. Ein Verschulden fordert das Gesetz in § 87 Abs 3 UrhG nur für den gleichfalls geltend gemachten Anspruch auf doppeltes, angemessenes Entgelt (RS0077383). Ob den Verletzer ein Verschulden an der Verletzung trifft, ist jedoch eine Frage des Einzelfalls (RS0044466 [T4]; RS0108747).
+2.2. Ein Verschulden kann sich unter anderem aus der Unterlassung der Einholung der notwendigen Informationen ergeben, woran grundsätzlich strenge Anforderungen zu stellen sind. Wer einen fremden urheberrechtlich geschützten Gegenstand nutzen will, muss sich über den Bestand des Schutzes wie auch über den Umfang seiner Nutzungsberechtigung Gewissheit verschaffen.
+2.3. Die Rechtsansicht der Vorinstanzen, die bloße Empfangbarkeit eines ausländischen Fernsehsenders berechtige nicht zur ungeprüften Annahme, das solcherart empfangene Programm dürfe auch iSd § 18 Abs 3 UrhG öffentlich wiedergeben werden, und die Unterlassung dieser Prüfung gereiche der Beklagten zum Verschulden, ist daher vertretbar und bedarf keiner Korrektur durch gegenteilige Sachentscheidung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00086.20F.0702.000

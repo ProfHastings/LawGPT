@@ -1,0 +1,37 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+24.03.2022
+Geschäftszahl
+3R45/22t
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Mag. Iby als Vorsitzenden sowie die Richter Mag. Guggenbichler und Dr. Stiefsohn in der Rechtssache der klagenden Partei A*), **straße **, **, vertreten durch die Steinmayr & Pitner Rechtsanwälte GmbH in Mauthausen, wider die beklagte Partei B*, **, **, Deutschland, vertreten durch Mag.a Bettina Rauf LL.M., Rechtsanwältin in Wien, wegen EUR 1.197 sA und Unterlassung (EUR 18.803), über den Kostenrekurs der beklagten Partei (Rekursinteresse: EUR 717,15) gegen das Urteil des Handelsgerichts Wien vom 14.2.2022, 57 Cg 1/21d-18, den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird Folge gegeben.
+Die angefochtene Kostenentscheidung wird geändert und lautet:
+„3. Die klagende Partei ist schuldig, der beklagten Partei die mit EUR 4.296,95 (darin EUR 716,16 USt) bestimmten Prozesskosten binnen 14 Tagen zu ersetzen.“
+Die klagende Partei ist schuldig, der beklagten Partei die mit EUR 169,75 (darin EUR 28,29 USt) bestimmten Kosten des Rekursverfahrens binnen 14 Tagen zu ersetzen.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Text
+Begründung:
+Der Kläger begehrte vom Beklagten die Zahlung von EUR 1.197 sA Werknutzungsentgelt und die Unterlassung der Veröffentlichung von Lichtbildern des Fotografen DI C* und/oder des Klägers ohne Werknutzungsbewilligung, insbesondere des Lichtbilds „ ** (**)“ auf der Website des Beklagten.
+Der Beklagte beantragte die Abweisung des Klagebegehrens und wendete das Fehlen der Passivlegitimation und der Wiederholungsgefahr sowie das Vorliegen einer Werknutzungsbewilligung ein.
+Mit dem angefochtenen Urteil wies das Erstgericht das Klagebegehren rechtskräftig ab und erkannte den Kläger schuldig, dem Beklagten die mit EUR 3.579,80 bestimmten Prozesskosten zu ersetzen. Die Kosten für einen vom Beklagten verzeichneten GISA-Auszug (EUR 0,89) seien mangels Bescheinigung nicht zuzusprechen. Auch die verzeichnete Umsatzsteuer (20%, EUR 716,16) stehe ihm nicht zu, weil die Leistungen eines österreichischen Rechtsanwalts für einen ausländischen Unternehmer nicht der österreichischen Umsatzsteuer unterliegen und der Beklagte mit der kommentarlosen Verzeichnung von 20% USt nur die inländische Umsatzsteuer angesprochen habe.
+Gegen diese Kostenentscheidung richtet sich der Kostenrekurs des Beklagten mit dem Antrag, die Kostenentscheidung zu ändern und ihm weitere EUR 717,15 Kostenersatz zuzusprechen.
+Der Kläger beantragt, dem Rekurs nicht Folge zu geben.
+Rechtliche Beurteilung
+Der Rekurs ist berechtigt.
+1. Der Beklagte verweist darauf, dass der Kläger keine Einwendungen gegen sein Kostenverzeichnis erhoben hat (vgl S 8 des Protokolls vom 13.9.2021, ON 17), und schließt daraus, dass ihm das Erstgericht schon deshalb die vollen verzeichneten Kosten zusprechen hätte müssen. Das ist im Ergebnis richtig:
+1.1. Die Anordnung in § 54 Abs 1a ZPO, ein unbeeinspruchtes Kostenverzeichnis der Kostenentscheidung „zu Grunde zu legen“, steht zwar im Widerspruch zu § 41 Abs 1 ZPO, wonach das Gericht den Kostenersatzbetrag nach sorgfältiger Würdigung aller Umstände zu bestimmen hat. § 54 Abs 1a ZPO ist als lex posterior aber derogativ und setzt ein Regel-Ausnahme-Verhältnis fest, aus dem sich ergibt, dass die Prüfkompetenz in Bezug auf Unbeeinspruchtes eng auszulegen ist (RW0000817). Angesichts des klaren Rationalisierungs- und Dispositionsgedankens des Gesetzgebers (OLG Wien 1 R 171/18a) sind ohne konkrete Einwendungen nur offenbare Unrichtigkeiten sowie Schreib- und Rechenfehler wahrzunehmen (zB OLG Wien 7 Rs 8/11i; 11 R 98/19s; OLG Linz 3 R 80/13z).
+1.2. Die Kosten für den GISA-Auszug sind schon deshalb nicht „offenbar unrichtig“ verzeichnet, weil der Beklagte den GISA-Auszug vorgelegt hat (./11) und gerichtsbekannt ist, dass ein solcher Auszug kostenpflichtig erstellt wird. Aufgrund des Einwendungsverzichts des Klägers waren sie daher der Prüfungskompetenz des Erstgerichts entzogen.
+1.3. Die Rechtsprechung des OGH zur Umsatzsteuerpflicht von Leistungen eines österreichischen Rechtsanwalts für einen ausländischen Klienten ist wie folgt zusammenfassen:
+a. Geklärt ist, dass die Leistungen eines österreichischen Rechtsanwalts für einen ausländischen Unternehmer nicht der österreichischen Umsatzsteuer unterliegen. Sie gelten als an dem Ort erbracht, an dem der Empfänger sein Unternehmen betreibt, und sind dort umsatzsteuerpflichtig (Empfängerlandprinzip; RS0114955 [insb T1, T2, T3, T5, T7]).
+b. Umstritten ist dagegen die umsatzsteuerrechtliche Behandlung von Leistungen eines österreichischen Rechtsanwalts für einen ausländischen Nichtunternehmer: In zwei Entscheidungen hat der OGH die – in der Rekursbeantwortung geteilte – Ansicht vertreten, auch in diesem Fall gelte nach § 3a Abs 14 Z 4 UStG das Empfängerlandprinzip (4 Ob 112/15x; 1 Ob 5/20x). Der 3. Senat hat diese Auffassung jüngst ausdrücklich abgelehnt und auf die Generalklausel des § 3a Abs 7 UStG verwiesen, die für sonstige Leistungen an einen Nichtunternehmer das Unternehmerortprinzip regle. Die Ausnahmebestimmung des § 3a Abs 14 Z 4 UStG sei nach dem klaren Wortlaut nur anwendbar, wenn der Leistungsempfänger ein Nichtunternehmer ist, der keinen Wohnsitz, Sitz oder gewöhnlichen Aufenthalt im Gemeinschaftsgebiet hat (3 Ob 73/20m).
+1.4. Im vorliegenden Verfahren war es kein Thema, ob der Beklagte aus umsatzsteuerrechtlicher Sicht ein Unternehmer oder ein Nichtunternehmer ist. Deshalb und wegen der unterschiedlichen Rechtsprechungslinien des OGH zur umsatzsteuerrechtlichen Behandlung eines Nichtunternehmers ist die Verzeichnung von 20% (österreichischer) Umsatzsteuer jedenfalls nicht als „offenbar unrichtig“ anzusehen. Auch insofern war das Erstgericht daher an den Einwendungsverzicht des Klägers gebunden (§ 54 Abs 1a ZPO).
+1.5. Zusammengefasst ist dem Beklagten daher beizupflichten, dass ihm das Erstgericht bei richtiger rechtlicher Beurteilung alle verzeichneten Kosten zusprechen hätte müssen. Die angefochtene Kostenentscheidung ist daher spruchgemäß zu ändern.
+2. Die Kostenentscheidung für das Rekursverfahren gründet auf §§ 41, 50 ZPO. Der Beklagte hat auch für den Rekurs 20% Umsatzsteuer verzeichnet. Das Verfahren bietet keine Hinweise dafür, dass der Beklagte die beanstandete Website als Unternehmer iSd § 2 UStG betrieben oder eine Umsatzsteuer-Identifikationsnummer hat (vgl § 3a Abs 5 Z 1 und 2 UStG). Er ist daher als Nichtunternehmer anzusehen (vgl § 3a Abs 5 Z 3 UStG). Das Rekursgericht schließt sich der oben referierten Ansicht des 3. Senats des OGH an: Nach der Generalklausel des § 3a Abs 7 UStG gilt für sonstige Leistungen an einen Nichtunternehmer das Unternehmerortprinzip. Die Ausnahmebestimmung des § 3a Abs 14 Z 4 UStG ist nach dem klaren Wortlaut nur anwendbar, wenn der Leistungsempfänger keinen Wohnsitz, Sitz oder gewöhnlichen Aufenthalt im Gemeinschaftsgebiet hat. Da der Beklagte seinen Wohnsitz in Deutschland hat, fallen die Leistungen seiner österreichischen Rechtsanwältin nicht unter die Ausnahmebestimmung, sodass er die von ihm verzeichneten 20% österreichische Umsatzsteuer beanspruchen kann.
+3. Der Ausspruch über die Unzulässigkeit des Revisionsrekurses im Kostenpunkt gründet auf § 528 Abs 2 Z 3 ZPO.
+European Case Law Identifier
+ECLI:AT:OLG0009:2022:00300R00045.22T.0324.000

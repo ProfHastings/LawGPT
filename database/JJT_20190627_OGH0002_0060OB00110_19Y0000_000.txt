@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.2019
+Geschäftszahl
+6Ob110/19y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden sowie die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei R***** GmbH, *****, vertreten durch Dr. Gustav Teicht, Dr. Gerhard Jöchl Kommandit-Partnerschaft in Wien, gegen die beklagte Partei Ö***** GmbH, *****, vertreten durch Mag. Stefano Alessandro, Rechtsanwalt in St. Andrä-Wördern, wegen 34.576,02 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. März 2019, GZ 129 R 10/19t-28, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Nach § 1215 ABGB aF ist nach Auflösung der GesbR die Teilung des (im Zeitpunkt der Auflösung noch vorhandenen) gesellschaftlichen Vermögens vorzunehmen (Jabornegg/Resch/Slezak in Schwimann/Kodek ABGB4 § 1215 Rz 5). Dabei sind neben den Bestimmungen des 27. Hauptstücks (zB §§ 1182 f, 1192 ABGB) die Teilungsvorschriften des 16. Hauptstücks zu beachten (5 Ob 264/67 SZ 40/170; 4 Ob 281/00b JBl 2001, 309 [Pfersmann]; Jabornegg/Resch/Slezak aaO).
+Nach dem sinngemäß anzuwendenden § 841 ABGB gelten für die vorzunehmende Teilung nicht Geschäftsführungsregeln, sondern es ist in erster Linie das Einvernehmen aller ehemaligen Gesellschafter maßgeblich (Jabornegg/Resch/Slezak aaO Rz 6). Werden sich die (ehemaligen) Gesellschafter über die Teilung nicht einig, kann jeder einzelne gegen die anderen Teilungsklage erheben (Jabornegg/Resch/Slezak aaO § 1215 Rz 7).
+Wenn das Berufungsgericht im vorliegenden Fall davon ausging, dass ein Zahlungsbegehren nur berechtigt sein würde, wenn die Klägerin behauptet und nachweist, dass alle drei Gesellschafter vereinbart haben, dass die Beklagte das Gesellschaftsvermögen zur Gänze übernimmt und die ausscheidenden Gesellschafter abfindet, entspricht dies sohin dem Gesetz. Mangels einer derartigen Vereinbarung bleibt es bei der dispositiven Regelung des § 1215 ABGB aF, wonach jeder Gesellschafter (bloß) die Teilung des gemeinschaftlichen Vermögens verlangen kann. An dieser Rechtslage vermag die angebliche Zustimmung eines weiteren – am Prozess nicht beteiligten – ehemaligen Gesellschafters zu einer Übernahme der Container durch die Beklagte nichts zu ändern.
+Damit zeigt die Revision aber keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung auf, sodass sie spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0060OB00110.19Y.0627.000

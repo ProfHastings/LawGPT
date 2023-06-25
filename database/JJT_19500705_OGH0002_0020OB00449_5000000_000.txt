@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.1950
+Geschäftszahl
+2Ob449/50
+Norm
+Fristengesetz §1;
+Fristengesetz §2;
+ZPO §454;
+ZPO §534;
+ZPO §538;
+Kopf
+SZ 23/217
+Spruch
+Die Fristen des § 534 ZPO. sind Präklusivfristen prozessualer und nicht materiellrechtlicher Natur; auf sie finden die Bestimmungen des Fristengesetzes keine Anwendung.
+Entscheidung vom 5. Juli 1950, 2 Ob 449/50.
+I. Instanz: Bezirksgericht Gleisdorf; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Das Erstgericht hatte eine Wiederaufnahmsklage als verspätet zurückgewiesen; das Rekursgericht hat diesen Beschluß aufgehoben, da es das Fristengesetz auf die Frist des § 534 ZPO. anwendete.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der beklagten Partei Folge gegeben und den erstgerichtlichen Beschluß wiederhergestellt.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof vermag sich der Rechtsmeinung des Rekursgerichtes hinsichtlich der Anwendbarkeit des Fristengesetzes vom 2. Juli 1947, BGBl. Nr. 193, nicht anzuschließen. Die Entscheidung, ob im vorliegenden Falle das Fristengesetz anwendbar ist, hängt von der Frage ab, ob die Frist des § 534 Abs. 3 ZPO. materiellrechtlicher oder prozessualer Natur ist. Wie der Oberste Gerichtshof in zahlreichen Entscheidungen zum Ausdruck gebracht hat (vgl. SZ. XXI/95, 3 Ob 460/48 vom 29. Dezember 1948 u. a.), bezieht sich das Fristengesetz auf alle Fristen materiellrechtlicher Natur einschließlich der gesetzlichen Präklusivfristen, hingegen gilt es nicht für Fristen des Prozeßrechtes. Im Schrifttum wird eine eindeutige Stellungnahme zu der Frage, ob es sich bei der Frist des § 534 Abs. 3 ZPO. um eine materiellrechtliche Ausschluß- oder Präklusivfrist handelt, nicht bezogen. Neumann (S. 692 und S. 1420) vertritt die Meinung, daß die einmonatige Frist zur Einbringung der Nichtigkeits- und Wiederaufnahmsklage nach § 534 Abs. 1 ZPO. wohl eine Notfrist sei, nicht aber die Frist des § 534 Abs. 3 ZPO., die er eine prozessuale Präjudizialfrist nennt. Es handelt sich hier um eine Zeitbestimmung, innerhalb welcher gewisse Rechte bei sonstigem Ausschluß geltend gemacht werden müssen, deren Nichtgeltendmachung aber, im Gegensatz zu den Prozeßfristen, auf den Gang eines Rechtsstreites ohne Einfluß bleibe. Sperl (S. 252) wiederum bezeichnet die Frist des § 534 Abs. 3 ZPO. als eine materielle Präklusivfrist, zu der nach seiner Ansicht auch die 30tägige Frist für Besitzstörungslagen (§ 454 ZPO.), aber auch die einmonatige Notfrist des § 534 Abs. 1 ZPO. zu zählen sei. Dieser Lehrmeinung vermag der Oberste Gerichtshof jedoch nicht zu folgen. Soweit die im fünften Teil der Zivilprozeßordnung geregelten Fristen der Wiederaufnahmsklage in Betracht kommen, handelt es sich hier durchwegs um gesetzliche Fristen, deren Einhaltung zu prüfen, dem Gericht noch vor Anberaumung einer Tagsatzung zur mündlichen Verhandlung zur Pflicht gemacht wird (§ 538 Abs. 1 ZPO.). Da sich die Fristen auf das prozeßrechtliche Verfahren beziehen und in der Zivilprozeßordnung geregelt sind, sind sie prozeßrechtlicher und nicht zivilrechtlicher Natur, also keine Verjährungsfristen. Sie sind aber keine eigentlichen Fristen im Sinne der Zivilprozeßordnung, denn sie sind nicht dazu bestimmt, der Parteitätigkeit innerhalb des Prozesses Schranken zu ziehen. Sie setzen vielmehr einen rechtskräftig erledigten Prozeß voraus und bilden negative (präklusive) prozeßrechtliche Bedingungen für den Beginn eines neuen Prozesses.
+Die Wiederaufnahmsklage ist ihrer Natur nach ein Rechtsbehelf gegen solche Entscheidungen, die gültig, aber unrichtig sind, ohne daß dieser Unrichtigkeit durch Rechtsmittel abgeholfen werden könnte. Historisch hängt dieser Rechtsbehelf eng mit der Wiedereinsetzung in den vorigen Stand zusammen (Pollak, S. 622). Die Fristen, an welche die Zivilprozeßordnung die Wiederaufnahmsklage bindet, führen im Falle ihrer Versäumung nicht zum Verlust eines Anspruches materiellrechtlicher Natur, sondern bewirken lediglich den Ausschluß von der Geltendmachung eines Rechtsbehelfs. Ihrer Funktion nach sind sie Präklusivfristen prozessualer und nicht materiellrechtlicher Natur, auf welche daher die Bestimmungen des Fristengesetzes keine Anwendung finden.

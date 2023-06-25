@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.07.2022
+Geschäftszahl
+2Nc36/22z
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Parteien 1. F* und 2. P*, beide vertreten durch Dr. Karl Newole, Rechtsanwalt in Wien, gegen die beklagte Partei V*, wegen jeweils 50.000 EUR sA über den Antrag der klagenden Parteien auf Ordination gemäß § 28 Abs 1 Z 1 JN den
+Beschluss
+gefasst:
+Spruch
+Als örtlich zuständiges Gericht für die Verhandlung und Entscheidung in der Rechtssache wird das Landesgericht für Zivilrechtssachen Wien bestimmt.
+Der Antrag der klagenden Parteien auf Kostenzuspruch wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Kläger beabsichtigen, gestützt auf ein Testament des 2021 verstorbenen Erblassers von der beklagten, zu AZ 6 A 90/21z des Bezirksgerichts Innere Stadt Wien rechtskräftig eingeantworteten Alleinerbin ein ihnen hinterlassenes Geldlegat in Höhe von jeweils 50.000 EUR geltend zu machen. Sie seien italienische, die Beklagte hingegen deutsche Staatsangehörige. Der Erblasser sei österreichischer Staatsbürger mit gewöhnlichem Aufenthalt in Österreich gewesen. Es liege nach der anzuwendenden EuErbVO zwar die internationale Zuständigkeit Österreichs für die Vermächtnisklage vor. Allerdings seien mangels Wohnsitzes oder Vermögens der Beklagten im Inland keine Anhaltspunkte für eine örtliche Zuständigkeit gegeben.
+Rechtliche Beurteilung
+[2] 		1. Da dem Ordinationsantrag der wesentliche Klagsinhalt zu entnehmen ist, ist die zur Individualisierung des Anspruchs in der Regel erforderliche Vorlage der Klage entbehrlich (RS0046300 [T2]).
+[3] 		2. Die Ordination nach § 28 Abs 1 Z 1 JN setzt die – durch einen internationalen Rechtsakt begründete – internationale Zuständigkeit Österreichs und das Fehlen eines örtlich zuständigen Gerichts voraus (RS0118239). Die internationale Zuständigkeit hat der Oberste Gerichtshof im Ordinationsverfahren mangels Vorliegens einer rechtskräftigen Entscheidung frei zu prüfen (RS0046568 [T1]).
+[4] 		3. Für die österreichische internationale Zuständigkeit in Verlassenschaftssachen ist seit ihrem Inkrafttreten am 17. 8. 2015 die EuErbVO maßgeblich. Diese hat ein für die Mitgliedstaaten zwingendes Zuständigkeitsregime ausschließlicher Zuständigkeiten geschaffen. Ihr Anwendungsbereich erstreckt sich nach ihrem Art 1 und ErwGr 9 auf alle zivilrechtlichen Aspekte der Rechtsnachfolge von Todes wegen. Die Zuständigkeitskonzentration gilt für streitige und nicht streitige Erbverfahren (2 Ob 59/18t Pkt 1. mwN) und erfasst auch Vermächtnisklagen (Traar in Burstaller/Neumayr/Geroldinger/Schmaranzer, Internationales Zivilverfahrensrecht, Art 1 EuErbVO Rz 2; Mayr in Rechberger/Klicka, ZPO5 Nach § 27a JN Rz 44; Simotta in Fasching/Konecny³, § 77 JN Rz 33).
+[5] 		Aufgrund des gewöhnlichen Aufenthalts des Erblassers in Österreich ist die internationale Zuständigkeit österreichischer Gerichte gemäß Art 4 EuErbVO gegeben. Dieser regelt allerdings nur die internationale, nicht aber die örtliche Zuständigkeit. Vielmehr bleiben die sachlichen, örtlichen und funktionalen Zuständigkeitsbestimmungen in den Mitgliedstaaten gemäß Art 2 EuErbVO unberührt (Traar aaO Art 4 EuErbVO Rz 1; Deixler-Hübner in Deixler-Hübner/Schauer, EuErbVO² Vor Art 4 ff Rz 5).
+[6] 		3. Der Gerichtsstand nach § 77 JN scheidet aufgrund des rechtskräftigen Abschlusses des Verlassenschaftsverfahrens aus (RS0046596), sodass die Ansprüche aus dem Legat grundsätzlich beim allgemeinen Gerichtsstand der Beklagten geltend zu machen wären (Simotta aaO Rz 5).
+[7] 		Da die Beklagte – wie von den Klägern ausreichend bescheinigt – im Inland weder über einen Wohnsitz noch gewöhnlichen Aufenthalt (§ 66 Abs 1 und 2 JN) oder Vermögen (§ 99 JN) verfügt, fehlt ein inländischer Gerichtsstand.
+[8] 		4. Für die Auswahl des zu ordinierenden Gerichts (in örtlicher Hinsicht) enthält § 28 JN keine ausdrücklichen Vorgaben; es ist dabei auf die Kriterien der Sach- und Parteinähe sowie der Zweckmäßigkeit Bedacht zu nehmen (RS0106680 [T13]). In Anbetracht der Durchführung des Verlassenschaftsverfahrens vor dem Bezirksgericht Innere Stadt Wien hat eine Zuweisung der Sache an das sachlich zuständige Landesgericht für Zivilrechtssachen Wien zu erfolgen.
+[9] 		5. Im Ordinationsverfahren findet kein Kostenersatz statt, weil es sich dabei um ein einseitiges Verfahren vor dem Obersten Gerichtshof handelt, dem der Beklagte nicht beigezogen wird. Die Kosten des Ordinationsverfahrens sind vielmehr als Prozesskosten im Sinn des § 41 ZPO zu behandeln (RS0114932).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020NC00036.22Z.0728.000

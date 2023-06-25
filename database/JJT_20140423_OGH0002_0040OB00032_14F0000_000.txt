@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.04.2014
+Geschäftszahl
+4Ob32/14f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei F***** S*****, vertreten durch Dr. Klaus Estl, Rechtsanwalt in Salzburg, gegen die beklagte Partei Mag. K***** R*****, vertreten durch Anwälte Burger und Partner Rechtsanwalt GmbH in Windischgarsten, Nebenintervenientinnen auf Seite der beklagten Partei 1. A***** KG, 2. G***** KG, beide *****, beide vertreten durch Dr. Lindmayr Dr. Bauer Dr. Secklehner Rechtsanwalts OG in Liezen, wegen Unterlassung (Streitwert 20.000 EUR), Rechnungslegung (Streitwert 8.000 EUR) und 50.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Teilurteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 12. Dezember 2013, GZ 2 R 201/13w-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Der Antrag auf Zuspruch der Kosten der Revisionsbeantwortung wird gemäß § 508a Abs 2 Satz 2 ZPO abgewiesen.
+Text
+Begründung:
+Der Beklagte leitet sein Recht zur Nutzung der vom Kläger angefertigten Lichtbilder von einer Vereinbarung zwischen dem Kläger und der ersten Nebenintervenientin vom 12. 1. 2012 ab, die weiterhin aufrecht sei; der Vertragsrücktritt des Klägers am 28. 6. 2013 sei unwirksam. Der Beklagte, ein Kunde der ersten Nebenintervenientin, sei begünstigter Dritter der Vereinbarung.
+Nach dem Inhalt dieser Vereinbarung war die erste Nebenintervenientin berechtigt, bestimmte Lichtbilder des Klägers weltweit selbst zu nutzen und Dritten (gemeint: ihren Kunden) zur Nutzung weiterzugeben, und sie war ua verpflichtet, eine Abschlagszahlung von 50.000 EUR für alle bislang verwendeten Nutzungen inklusive jener durch Dritte zu zahlen.
+Das Berufungsgericht erachtete den Vertragsrücktritt des Klägers gemäß § 918 ABGB für wirksam. Auch dem selbst in einer Leistungsstörung Verfangenen stehe das Rücktrittsrecht dann zu, wenn sein Interesse durch Nichterfüllung des anderen Vertragsteils so erheblich beeinträchtigt sei, dass ihm die Aufrechterhaltung des Vertrags nicht mehr zugemutet werden könne. Solches sei hier der Fall, habe sich doch die Vertragspartnerin des Klägers - wie auch dieser selbst - nie an die Vereinbarung gehalten. Die Aberkennung des Rücktrittsrechts unter diesen Umständen wäre mit der für den Kläger untragbaren Konsequenz verbunden, dass er eine Verletzung seiner Urheberrechte künftig nicht gegenüber jenen Dritten geltend machen könnte, denen seine Vertragspartnerin seine Lichtbilder unbefugt zur Nutzung weitergegeben hat.
+Rechtliche Beurteilung
+Diese Auffassung weicht von höchstgerichtlicher Rechtsprechung nicht ab.
+1. Durch die Vorschriften des § 29 UrhG wird das dem Urheber sonst nach Vertrag oder Gesetz zustehende Recht, vom Vertrag zurückzutreten, nicht berührt (§ 30 Abs 2 UrhG; 7 Ob 554/91 = RIS-Justiz RS0077747).
+2. Der Vertragsrücktritt nach § 918 ABGB wirkt grundsätzlich ex tunc (Nachweise bei Binder/Reidinger in Schwimann, ABGB³ § 918 Rz 50). Anderes gilt, wenn sich der Vertrag bereits im Abwicklungsstadium befindet, weil zumindest einer der Vertragspartner mit der Vertragsdurchführung begonnen hat (Büchele in Kucsko, urheber.recht 451 mwN). Dieser Ausnahmefall liegt hier allerdings - entgegen der im Rechtsmittel des Beklagten vertretenen Auffassung - nicht vor, steht doch fest, dass sich weder der Kläger noch seine Vertragspartnerin an den (mündlichen) Vertrag vom 12. 1. 2012 gehalten haben. Damit ist dem Kläger auch jener Geldbetrag nicht zugeflossen, der als Abgeltung der (von seiner Vertragspartnerin zugestandenen) Eingriffe in seine Urheberrechte des Klägers vereinbart war.
+3. Das Rücktrittsrecht des § 918 ABGB ist auch durch den Leistungsverzug des Klägers nicht ausgeschlossen. Zwar steht es nur dem vertragstreuen Teil zu, doch bleibt es - wie der Oberste Gerichtshof schon mehrfach ausgesprochen hat - dem selbst in einer Leistungsstörung Verfangenen unberührt, wenn seine Interessen durch das Verhalten des anderen Vertragsteils so erheblich beeinträchtigt sind, dass ihm die Vertragsaufrechterhaltung nicht zumutbar ist (7 Ob 646/87 = JBl 1988, 445; RIS-Justiz RS0016326 [T6]). Das Berufungsgericht hat Letzteres unter den hier gegebenen Umständen in vertretbarer Weise angenommen.
+4. Ob das zum Rücktrittsrecht Gesagte gleichermaßen auch für Verträge zugunsten Dritter gilt, die bereits ein eigenes Forderungsrecht erworben haben, muss nicht weiter untersucht werden, weil - entgegen der im Rechtsmittel vertretenen Auffassung - die Vereinbarung vom 12. 1. 2012 kein (echter) Vertrag zugunsten Dritter iSd § 881 ABGB ist. Eine solche setzt nämlich das Versprechen einer Leistung an einen Dritten voraus. Gegenstand der genannten Vereinbarung ist aber die Verpflichtung des Klägers zur Duldung der Nutzung urheberrechtlich geschützter Werke durch Dritte; ein eigenes Forderungsrecht Dritter kann aus dieser Vereinbarung nicht entstehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00032.14F.0423.000

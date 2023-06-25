@@ -1,0 +1,59 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2022
+Geschäftszahl
+7Ob89/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende sowie die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei F*, vertreten durch Mag. Jasmin Oberlohr, Rechtsanwältin in Innsbruck, gegen die beklagte Partei Z*-Aktiengesellschaft, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 70.000 EUR sA,  über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 17. März 2022, GZ 4 R 25/22s-43, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Zwischen den Parteien besteht eine „Agrar-Versicherung“, die eine Sparte Feuerversicherung beinhaltet, in der auch landwirtschaftliches Inventar (Einrichtungen, landwirtschaftliche Maschinen und Geräte) „zum Neuwert auf erstes Risiko“ sowie ausschließlich der Eigenverwendung dienende Zugmaschinen und selbstfahrende Arbeitsmaschinen sowie private Kraftfahrzeuge wo immer befindlich mit Kabelbrand zum Neuwert versichert sind; der Feuerversicherung liegen unter anderem die Allgemeinen *-Bedingungen für die Feuerversicherung (AFB 2002) und die Besondere Bedingung F 074-4 (in der Folge: BB F 074-4) zugrunde.
+Die AFB 2002 lauten auszugsweise wie folgt:
+„[…]
+Artikel 6 - Versicherungswert
+[…]
+1.2. Als Versicherungswert von Gebrauchsgegenständen und Betriebseinrichtungen kann vereinbart werden:
+1.2.1. der Neuwert.
+Als Neuwert gelten die Kosten für die Wiederbeschaffung von neuen Sachen gleicher Art und Güte;
+1.2.2. der Zeitwert.
+Der Zeitwert wird aus dem Neuwert durch Abzug eines dem Zustand der Sache, insbesondere ihres Alters und ihrer Abnützung entsprechenden Betrags ermittelt.
+1.2.3. der Verkehrswert.
+Der Verkehrswert ist der erzielbare Verkaufspreis für die Sache.
+[…]
+Artikel 7 - Entschädigung
+1. für Gebäude, Gebrauchsgegenstände und Betriebseinrichtungen (Art 6, Punkte 1.1. und 1.2.):
+1.1. ist die Versicherung zum Neuwert gemäß Art 6 vereinbart,
+1.1.1. wird bei Zerstörung oder Abhandenkommen der Versicherungswert unmittelbar vor Eintritt des Schadensereignisses ersetzt;
+1.1.2. werden bei Beschädigung die notwendigen Reparaturkosten zur Zeit des Eintritts des Schadensereignisses (Neuwertschaden), höchstens jedoch der Versicherungswert unmittelbar vor Eintritt des Schadensereignisses, ersetzt.
+1.1.3. War der Zeitwert der vom Schaden betroffenen Sache unmittelbar vor Eintritt des Schadensereignisses kleiner als 40 % des Neuwerts, wird höchstens der Zeitwert ersetzt.
+1.1.4. War die vom Schaden betroffene Sache unmittelbar vor Eintritt des Schadensereignisses dauernd entwertet, wird höchstens der Verkehrswert ersetzt.
+[…]
+Gebrauchsgegenstände und Betriebseinrichtungen sind insbesondere dann dauernd entwertet, wenn sie dauernd aus dem Betrieb ausgeschieden oder allgemein oder für ihren Betriebszweck nicht mehr verwendbar sind.
+[...]“
+Die BB F 074-4 lautet auszugsweise:
+„Feuerversicherung von Kraftfahrzeugen zum Neuwert
+Abweichend von Art 6 und Art 7 der Allgemeinen Bedingungen für die Feuerversicherung (AFB) ist für den Fall der Wiederherstellung eines beschädigten Kraftfahrzeugs in den früheren, betriebsfähigen Zustand Folgendes vereinbart:
+1. Versicherungswert ist der jeweils geltende Neuwert des versicherten Kraftfahrzeugs (Listenpreis).
+Sofern im Zeitpunkt des Schadens ein Listenpreis des versicherten Fahrzeugs oder seiner Teile nicht mehr besteht, wird zur Ermittlung der Entschädigung der Listenpreis eines gleichwertigen Fahrzeugs in serienmäßiger Ausstattung herangezogen. Die Grundlage der Prämienberechnung bilden die Versicherungssummen der versicherten Fahrzeuge.
+2. Die Ersatzleistung erfolgt durch den Ersatz der Reparaturkosten zur Zeit des Eintritts des Schadensfalls. Übersteigen die Reparaturkosten den Verkehrswert des versicherten Kraftfahrzeugs oder ist das Kraftfahrzeug völlig zerstört, dann ist die Entschädigungsleistung mit dem Verkehrswert abzüglich des Restwerts begrenzt.
+[...]“
+[2] 		1.1. Allgemeine Versicherungsbedingungen (AVB) sind nach den Grundsätzen der Vertragsauslegung (§§ 914 f ABGB) auszulegen und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]). Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RS0050063 [T3]). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RS0107031).
+[3] 		1.2. Bei den Begriffen „Neuwert“, „Zeitwert“ und „Verkehrswert“ handelt es sich um in erster Linie versicherungsrechtliche Begriffe, zu deren Auslegung nur dann auf die Schadenersatzbegriffe des bürgerlichen Rechts zurückzugreifen ist, wenn die Versicherungsbedingungen ausdrücklich darauf verweisen, oder wenn deren Wortlaut sonst keine sinnvolle Auslegung erlaubt (vgl RS0112134).
+[4] 		2.1. Nach dem klaren Wortlaut des Art 7.1.1.3 AFB wird auch bei einer – hier zwischen den Parteien unstrittig vereinbarten – Neuwertversicherung dennoch höchstens der Zeitwert der vom Schaden betroffenen Sache ersetzt, wenn dieser unmittelbar vor Eintritt des Schadensereignisses kleiner als 40 % des Neuwerts war.
+[5] 		2.2. Während der Einleitungssatz der BB F 074-4 dahin lautet, sie gelte anstelle der Art 6 und 7 AFB für den Fall der Wiederherstellung eines beschädigten Kraftfahrzeugs in den früheren, betriebsfähigen Zustand (wofür grundsätzlich die Reparaturkosten bis maximal zur Höhe des Verkehrswerts ersetzt werden), enthält deren Pkt 2 auch eine Regelung für den Fall, dass eine Wiederherstellung unterbleibt: Ist nämlich das Kraftfahrzeug völlig zerstört, dann ist die Entschädigungsleistung mit dem Verkehrswert abzüglich des Restwerts begrenzt.
+[6] 		3. Die Revision des Klägers führt nur ins Treffen, die BB F 074-4 sei unklar und widersprüchlich und verstoße gegen § 864a und § 879 Abs 3 ABGB, weil sie dem erkennbaren Zweck einer Neuwertversicherung, dem Kläger zum Wiederbeschaffungswert zu verhelfen, zuwiderlaufe.
+[7] 		4. Durch einen dem Kläger im Jahr 2019 zugestoßenen Feuerschaden wurde ein ihm gehörendes, versichertes, landwirtschaftliches Kraftfahrzeug, ein „L* Transporter 3500S“ samt Ladewagen, Baujahr 1993, durch Feuer gänzlich zerstört und unstrittig nicht repariert.
+[8] 		Dieses Fahrzeug war seinerzeit neu um 325.200 ATS (29.999,?35 EUR) angeschafft worden und wies nach den Feststellungen vor seiner Zerstörung im Jahr 2019 noch einen Zeitwert von 12.000 EUR auf; für ein vergleichbares Neufahrzeug derselben Marke müssten 112.000 EUR aufgewendet werden. Tatsächlich hat der Kläger einen neuen Transporter einer anderen Marke um 105.000 EUR erworben.
+[9] 		Die Beklagte hat dem Kläger für den zerstörten Transporter unstrittig 28.150 EUR ersetzt.
+[10] 		5.1. Weder bei Anwendung des Art 7.1.1.3 AFB, dessen Voraussetzungen hier gegeben wären (das Fahrzeug hatte einen weniger als 40 % des Neuwerts – der Kosten für die Wiederbeschaffung von neuen Sachen gleicher Art und Güte – betragenden Zeitwert), noch der BB F 074-4 (das Fahrzeug wurde zerstört und nicht repariert) ergäbe sich ein Neuwertersatz, sondern maximal der Ersatz des Zeitwerts bzw des um den Restwert verminderten Verkehrswerts.
+[11] 		Nach den Feststellungen hat der Kläger somit jedenfalls mehr von der Beklagten erhalten als sich aus dem klaren Wortlaut der Bedingungslage und den festgestellten Wertverhältnissen ergäbe.
+[12] 		5.2. Es kann daher auch dahingestellt bleiben, dass die BB F 074-4 einerseits nur für den Fall der Wiederherstellung gelten und an die Stelle von Art 6 und 7 AFB treten soll (was hier zufolge des Unterbleibens der Reparatur wiederum zur Anwendung des Art 7.1.1.1 AFB führen würde), jedoch auch Fälle wie die (hier ebenfalls vorliegende) Zerstörung der Sache regelt, in denen eine Reparatur unterbleibt. In keinem Fall kann aus einer der Bestimmungen abgeleitet werden, dass dem Kläger mehr zustehen könnte als er tatsächlich erhalten hat.
+[13] 		6. Die von der Revision aufgeworfenen Fragen der Auslegung der BB F 074-4 sind daher für die Lösung des vorliegenden Falls irrelevant; sie zeigt damit keine erhebliche Rechtsfrage auf.
+[14] 		Einer weiteren Begründung bedarf dies nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00089.22X.0928.000

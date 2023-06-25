@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.2019
+Geschäftszahl
+8Ob12/19a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Insolvenzsache des Schuldners H*****, vertreten durch Mag. Kurt Gaar, Rechtsanwalt in Wien, über den außerordentlichen Revisionsrekurs des Insolvenzverwalters Dr. Wolfgang Winiwarter, Rechtsanwalt in Krems, gegen den Beschluss des Landesgerichts Krems an der Donau als Rekursgericht vom 13. Dezember 2018, GZ 1 R 137/18d-61,  in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO iVm § 252 IO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Dem späteren Schuldner wurde mit Leibrentenvertrag vom 8. 9. 2000 von der mittlerweile verstorbenen M***** die Liegenschaft EZ ***** KG ***** gegen Zahlung einer monatlichen Leibrente übergeben und verkauft. Das Eigentumsrecht des Schuldners ob dieser Liegenschaft wurde bislang nicht verbüchert, obwohl die Verkäuferin eine Aufsandungserklärung abgegeben hatte. Da der Originalvertrag nicht mehr auffindbar war, erwirkte der Insolvenzverwalter, dass der im Verlassenschaftsverfahren nach M***** bestellte Verlassenschaftskurator eine – rechtskräftig abhandlungsgerichtlich genehmigte – Aufsandungserklärung abgab.
+Mit dem angefochtenen Beschluss wies das Rekursgericht – anders als das Erstgericht – den Antrag des Insolvenzverwalters auf Verwertung dieser Liegenschaft gemäß § 119 IO ab. Vor einer Einverleibung könne unter Beachtung der einschlägigen Bestimmungen der EO eine Zwangsversteigerung und somit eine kridamäßige Verwertung der Liegenschaft auch nach § 119 IO nicht erfolgen.
+Rechtliche Beurteilung
+Mit seinem außerordentlichen Revisionsrekurs zeigt der Insolvenzverwalter keine erhebliche Rechtsfrage auf:
+1. Die Bestimmungen des § 119 Abs 1 bis 3 IO regeln die gerichtliche Veräußerung von zur Insolvenzmasse gehörenden Sachen. Voraussetzung für die kridamäßige Veräußerung ist somit unter anderem die Massezugehörigkeit (Kodek in Bartsch/Pollak/Buchegger, InsR4 § 119 KO Rz 5; Riel in Konecny/Schubert, Insolvenzgesetze § 119 KO Rz 4). Die Insolvenzmasse ist nach § 2 Abs 2 IO das gesamte der Exekution unterworfene Vermögen des Schuldners (RIS-Justiz RS0101137).
+2.1 Im Sinn des § 431 ABGB wird das Eigentum an Liegenschaften durch die Eintragung des Erwerbsgeschäfts in das Grundbuch (Intabulation) übertragen. Zum Übergang des Eigentums vom bisherigen Eigentümer auf den neuen Eigentümer und damit zum Eigentumserwerb ist also außer dem Erwerbstitel die Eintragung im Grundbuch erforderlich. Die Aushändigung einer einverleibungsfähigen Urkunde bewirkt ebenso wenig wie die Übergabe der Liegenschaft den Übergang des Eigentums (2 Ob 687/86; 8 Ob 109/03t uva). Dieses bleibt vielmehr bis zur Eintragung des neuen Eigentümers beim bisherigen Eigentümer (RIS-Justiz RS0011111 [T7]). Außerhalb der im Gesetz normierten Ausnahmen vom Eintragungsprinzip ist kein Platz für „außerbücherliches Eigentum“. Soweit der Eintragungsgrundsatz herrscht, bewirkt die Übergabe der Liegenschaft in Verbindung mit einem schuldrechtlichen Verpflichtungsgeschäft nur einen auf Erwerb des dinglichen Rechts gerichteten Titel, nicht jedoch das dingliche Recht selbst (RIS-Justiz RS0011111 [T6]; RS0011117 [T5]).
+2.2 In die Insolvenzmasse fällt dementsprechend der aus einem vor Insolvenzeröffnung geschlossenen, aber (mangels Verbücherung) noch nicht (vollständig) erfüllten Kaufvertrag über eine Liegenschaft resultierende Anspruch des Schuldners auf Übertragung des Eigentums an der Liegenschaft (8 Ob 1/08t).
+2.3 Daraus folgt, dass hier zwar der Anspruch des Schuldners aus dem Leibrentenvertrag auf Einverleibung seines Eigentumsrechts an der Liegenschaft zur Insolvenzmasse gehört, entgegen der Ansicht des Insolvenzverwalters nicht jedoch die Liegenschaft als solche. Die Liegenschaft ist daher einer kridamäßigen Veräußerung nach § 119 IO nicht zugänglich.
+Die Ausführungen im Revisionsrekurs setzen sich über diese Rechtslage hinweg.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0080OB00012.19A.0226.000

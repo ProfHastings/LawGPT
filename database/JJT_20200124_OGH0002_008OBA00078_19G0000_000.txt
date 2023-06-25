@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2020
+Geschäftszahl
+8ObA78/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die fachkundigen Laienrichter Mag. Thomas Stegmüller (aus dem Kreis der Arbeitgeber) und Gerald Fida (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei M*****, vertreten durch Urbanek & Rudolph Rechtsanwälte OG in St. Pölten, gegen die beklagte Partei A***** GmbH, *****, vertreten durch Dr. Roland Gerlach, Mag. Michaela Maria Gerlach, Rechtsanwälte in Wien, wegen Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 29. Oktober 2019, GZ 8 Ra 67/19k-16, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Klägerin beruft sich – soweit für das Revisionsverfahren von Relevanz – auf das Vorliegen einer Motivkündigung nach § 105 Abs 3 Z 1 lit i ArbVG.
+1. Nach § 105 Abs 3 Z 1 lit i ArbVG kann eine Kündigung angefochten werden, wenn sie wegen der offenbar nicht unberechtigten Geltendmachung vom Arbeitgeber in Frage gestellter Ansprüche aus dem Arbeitsverhältnis durch den Arbeitnehmer erfolgt ist.
+Strebt ein Arbeitgeber auf dem durch die Rechtsordnung vorgesehenen Weg, nämlich durch ein Änderungsangebot, eine Vertragsänderung über dispositive Vertragspunkte an und stimmt der Arbeitnehmer nicht zu, so kann die aus diesem Grund ausgesprochene Kündigung zwar nach § 105 Abs 3 Z 2 ArbVG, nicht aber als Motivkündigung nach § 105 Abs 3 Z 1 lit i ArbVG angefochten werden (RIS-Justiz RS0018143).
+Beachtlich ist dabei, dass das Interesse eines Arbeitgebers an einer notwendigen oder sachgerechten – auch verschlechternden – Änderungsvereinbarung für die Zukunft noch kein Infragestellen bestehender Ansprüche des Arbeitnehmers bedeutet, weil der Änderungswunsch deren Anerkennung gerade voraussetzt (RS0127599). In einem solchen Fall kann § 105 Abs 3 Z 1 lit i ArbVG daher schon deshalb nicht greifen. Insofern kann aber in der Ablehnung eines Änderungsbegehrens durch den Arbeitnehmer auch keine Geltendmachung von Ansprüchen gesehen werden, die vom Arbeitgeber in Frage gestellt wurden.
+2. Ob bei Forderung der Zustimmung zu gesetzwidrigen oder diskriminierenden Änderungen (unabhängig von deren Wirksamkeit) ausnahmsweise auch das Infragestellen künftiger Ansprüche unter § 105 Abs 3 Z 1 lit i ArbVG subsumiert werden kann (so etwa Gahleitner in Gahleitner/Mosler, Arbeitsverfassungsrecht 35 [2015], § 105 Rz 87), muss hier nicht geprüft werden:
+Die beklagte Arbeitgeberin forderte von der im Bereich Lohnverrechnung tätigen Klägerin die Unterfertigung einer Verpflichtungserklärung zur Wahrung von Datenschutz sowie Geschäfts- und Betriebsgeheimnissen verknüpft mit der Vereinbarung einer Konventionalstrafe für den Fall der Verletzung dieser Verpflichtungen.
+Die Geheimhaltungsvereinbarung (ohne Konventionalstrafe) wurde von der Klägerin unterfertigt und damit die darin enthaltenen Verpflichtungen übernommen. Dass die Kündigung aufgrund der Geltendmachung einer Unwirksamkeit dieser Vereinbarung erfolgte, wurde nicht vorgebracht.
+Auch die Klägerin bestreitet nicht, dass die Verknüpfung einer Geheimhaltungsvereinbarung über Daten, Geschäfts- und Betriebsgeheimnisse mit einer Konventionalstrafe grundsätzlich zulässig ist.
+Inwieweit aber die Ausgestaltung der konkreten Vereinbarung geeignet ist, sachlich gerechtfertigte Interessen des Arbeitgebers zu wahren, ist letztlich eine Frage des Einzelfalls, die von den Vorinstanzen im Rahmen des gesetzlichen Ermessensspielraums beantwortet wurde.
+Dass die Klausel sich auch auf fahrlässige Pflichtverletzungen bezieht, macht sie für sich allein jedenfalls nicht unsachlich. Soweit die Klägerin in der Revision geltend macht, dass die konkret von der Beklagten geforderte Höhe der Konventionalstrafe wegen Verstoßes gegen § 37 Abs 3 AngG (analog) gesetzwidrig sei, hat sie sich darauf in erster Instanz nicht berufen. Es handelt sich daher um eine unzulässige Neuerung, auf die nicht weiter einzugehen ist.
+3. Mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision zurückzuweisen. Einer weiteren Begründung bedarf dieser Zurückweisungsbeschluss nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:008OBA00078.19G.0124.000

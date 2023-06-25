@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.09.1964
+Geschäftszahl
+4Ob71/64
+Norm
+Arbeitsgerichtsgesetz §23;
+Arbeitsgerichtsgesetz §25 (1) Z3;
+ZPO §236 (1);
+ZPO §237;
+ZPO §259 (2);
+ZPO §519;
+Kopf
+SZ 37/126
+Spruch
+Bei Neudurchführung des Verfahrens durch den arbeitsgerichtlichen Berufungssenat kann der Beschluß, mit dem er die Rückziehung des Zwischenantrages auf Feststellung zur Kenntnis nimmt, angefochten werden.
+Ein Zwischenantrag auf Feststellung kann ohne Zustimmung des Gegners jederzeit zurückgezogen werden.
+Entscheidung vom 22. September 1964, 4 Ob 71/64. II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Der Beklagte hat im Verfahren vor dem Arbeitsgericht den Zwischenantrag auf Feststellung gestellt, daß durch den im Auseinandersetzungs- und Abtretungsvertrag zwischen Dipl.-Ing. Carl R. und Frau Emilie F. vom 21. Juli 1959 vereinbarten Vergleich auch etwaige Schadenersatzansprüche des Dipl.-Ing. Carl R. und der Firma C. J. R., Farben- und chemische Fabrik, Alleininhaber Dipl.-Ing. Carl R., gegen Fritz F. verglichen wurden und daher derartige Schadenersatzansprüche der klagenden Partei gegen die beklagte Partei nicht mehr bestehen.
+Das Arbeitsgericht wies dieses Begehren mit Zwischenurteil ab. Dagegen hat der Beklagte berufen.
+Das Berufungsgericht führte das Verfahren gemäß dem § 25 (1) Z. 3 ArbGerG. von neuem durch. Mit Schriftsatz vom 2. Juni 1964 zog der Beklagte den Zwischenantrag auf Feststellung zurück.
+Das Berufungsgericht nahm dies mit Beschluß zur Kenntnis, behielt die Entscheidung über die Kosten des Berufungsverfahrens dem Endurteil vor und verfügte die Abberaumung der für 4. Juni 1964 angeordneten Berufungsverhandlung.
+Der Oberste Gerichtshof gab dem Rekurs der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da im arbeitsgerichtlichen Berufungsverfahren im allgemeinen auch der § 519 ZPO. gilt (§ 23 ArbGerG.), war zu prüfen, ob der Rekurs zulässig ist. Der Oberste Gerichtshof hat im Hinblick darauf, daß nach § 25 (1) Z. 3 ArbGerG. vor dem Berufungsgericht die Streitsache von neuem zu verhandeln ist, für gewisse Beschlüsse des Berufungsgerichtes die Bestimmung des § 519 ZO. nicht als anwendbar erklärt. Dazu gehören Beschlüsse über die Zulassung einer Klagsänderung (Entscheidung vom 24. April 1953, Arb. 5692) und über die Unterbrechung des Verfahrens (Entscheidungen vom 12. Oktober 1954, Arb. 6077, und vom 2. Oktober 1956, Arb. 6513). Solche Beschlüsse wurden als anfechtbar angesehen, und zwar deshalb, weil sie nicht im eigentlichen Berufungsverfahren, sondern im Zuge der neuerlichen Verhandlung erlassen wurden. Diese Erwägungen treffen im gleichen Maße auch auf den angefochtenen Beschluß zu, womit die Zurückziehung eines Zwischenantrages auf Feststellung vom Berufungsgerichte zur Kenntnis genommen wurde. Auch ein solcher Beschluß wäre in einem Verfahren I. Instanz anfechtbar und ist es aus den dargelegten Erwägungen auch im arbeitsgerichtlichen Berufungsverfahren.
+Der Rekurs ist aber nicht begrundet.
+Ein Zwischenantrag auf Feststellung kann nach §§ 236 (1), 259 (2) ZPO. ohne Zustimmung des Prozeßgegners von jeder Partei bis zum Schluß der mündlichen Verhandlung gestellt werden. Das Gesetz sagt nicht ausdrücklich, ob ein solcher Antrag ohne Zustimmung des Prozeßgegners auch zurückgenommen werden kann. Sperl, Lehrbuch der bürgerlichen Rechtspflege, S. 315, Pollak, System des österreichischen Zivilprozeßrechts[2], S. 397, Fasching, Kommentar zu den Zivilprozeßgesetzen, III, S. 131, bejahen es zum Teil mit bloßer Bezugnahme auf die Entscheidung des Obersten Gerichtshofes vom 24. Jänner 1900, GlUNF 862, die darauf hingewiesen hat, daß der Zwischenfeststellungsantrag keine Klage, sondern ein bloßer Antrag sei, der jederzeit zurückgezogen werden könne. In der Zwischenzeit hat der Oberste Gerichtshof im Judikat 65 neu (SZ. XXIX 77, S. 248 oben) freilich darauf verwiesen, daß der Zwischenfeststellungsantrag, mit dem ein weiterer Anspruch geltend gemacht wird, einer Klage ähnlich ist. Es liegt daher nahe, bei der Beurteilung, ob ein Zwischenfeststellungsantrag jederzeit zurückgezogen werden kann, auch die Bestimmungen über die Klagseinschränkung heranzuziehen. Eine solche ist aber, da sie der Zurücknahme der Klage (§ 237 ZPO.) und damit der Beendigung des Rechtsstreites nicht gleichgesetzt werden kann und nach § 235 (4) ZPO. keine Klagsänderung ist, die nach § 235 (2) ZPO. von der Einwilligung des Prozeßgegners abhängig wäre, ohne Zustimmung des Gegners möglich (so auch Fasching, a. a. O. S. 125, z. B. SZ. XVII 111). Dem Kläger steht es nach Zurückziehung des Zwischenantrages auf Feststellung durch den Beklagten allenfalls seinerseits frei, den zurückgezogenen Antrag nun als negativen Zwischenantrag auf Feststellung anzubringen, um damit mit Rechtskraftwirkung das Nichtbestehen des Rechtsverhältnisses feststellen zu lassen. Daß die Zurücknahme des Zwischenfeststellungsantrages im Berufungsverfahren vor sich gegangen ist, spielt für das arbeitsgerichtliche Verfahren, in dem auf den Schluß der mündlichen Berufungsverhandlung abzustellen ist, keine Rolle. Auch die Klage selbst kann im arbeitsgerichtlichen Berufungsverfahren zurückgenommen werden (vgl. Stanzl, arbeitsgerichtliches Verfahren S. 137). Dadurch wird das Urteil gegenstandslos.

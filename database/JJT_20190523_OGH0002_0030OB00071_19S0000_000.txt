@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2019
+Geschäftszahl
+3Ob71/19s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Priv.-Doz. Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei W* GmbH, *, vertreten durch die Stock Rafaseder Gruskiewicz Rechtsanwa?lte OG in Wien, wider die beklagte Partei A*, vertreten durch MMag. Dr. Franz Stefan Pechmann, Rechtsanwalt in Wien, wegen Feststellung und weiterer Eventualbegehren, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 23. Jänner 2019, GZ 40 R 182/18p-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Der Antrag auf Zuspruch der Kosten der Revisionsbeantwortung wird gemäß § 508a Abs 2 Satz 2 ZPO abgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Klägerin zeigt in ihrer außerordentlichen Revision keine erheblichen Rechtsfragen iSd § 502 Abs 1 ZPO auf, weshalb sie als unzulässig zurückzuweisen ist. Das ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+1. Bei der Feststellungsklage muss der Kläger das – sonst in der Regel gegebene – Rechtsschutzbedürfnis durch Geltendmachung konkreter Umstände in erster Instanz behaupten und erforderlichenfalls beweisen (RIS-Justiz RS0037977; RS0039239). Das gemäß § 228 ZPO erforderliche rechtliche Interesse an der alsbaldigen Feststellung muss im Zeitpunkt des Schlusses der Verhandlung erster Instanz gegeben sein (RS0039085; RS0039178; RS0039204). Das Bestehen eines rechtlichen Interesses an der alsbaldigen Feststellung iSd § 228 ZPO ist unter Zugrundelegung dieser Behauptungen zu prüfen und richtet sich nach den Umständen des Einzelfalls, denen regelmäßig keine über den konkreten Fall hinausgehende Bedeutung zukommt (RS0037977 [T2]).
+Ein Feststellungsinteresse wird regelmäßig dann verneint, wenn der Kläger seinen Anspruch bereits zur Gänze mit Leistungsklage geltend machen kann, allerdings nur, wenn ein mögliches Leistungsbegehren all das bietet, was mit dem Feststellungsbegehren angestrebt wird (vgl RS0038965). Ein rechtliches Interesse an einer Feststellungsklage – sogar trotz möglicher Leistungsklage – ist zu bejahen, wenn das Feststellungsbegehren geeignet ist, über die Rechtsbeziehungen der Parteien ein für allemal Klarheit zu schaffen und einen künftigen Leistungsanspruch abzuschneiden oder wenn künftige Prozesse zufolge der die Vorfrage klärenden Rechtskraftwirkung des Feststellungsurteils abgekürzt werden (RS0038908).
+2. In erster Instanz berief sich die Klägerin zur Zulässigkeit der negativen Feststellungsklage (kein Mietverhältnis mit der Beklagten) „trotz möglicher Leistungsklage“ darauf, das stattgebende Feststellungsurteil würde auch die Rechtslage gegenüber dem Verkäufer klären und die Führung eines Prozesses gegen ihn ersparen.
+2.1. Sie verkennt dabei aber zunächst, dass die Bindungswirkung eines Urteils nur dann anzunehmen ist, wenn Identität der Parteien im Folgeprozess gegeben ist (RS0041572; RS0041340; RS0041118). Mangels Beteiligung des Verkäufers im vorliegenden Prozess (er wurde nur als Zeuge vernommen) bindet ihn ein darin ergangenes Urteil (welchen Inhalts auch immer) keinesfalls.
+2.2. Der Meinung des Berufungsgerichts, die Klägerin hätte schon auf Räumung klagen können und müssen, hält die Revision unter Hinweis auf 7 Ob 629/86 entgegen, dass sich das Ergebnis einer Räumungsklage nicht unbedingt mit dem Ergebnis einer negativen Feststellungsklage decken müsse, ohne darzulegen, warum dies hier der Fall sein sollte.
+Diese Entscheidung zeigt aber die Möglichkeit auf, dass es möglich sei, dass ein Kläger gegen die tatsächliche Benützung eines Objekts durch den Beklagten nichts einzuwenden habe, jedoch ein Bestandrecht als Benützungstitel bestreite. Am rechtlichen Interesse iSd § 228 ZPO fehle es daher nicht, wenn der Kläger zwar auf Räumung hätte klagen können, er aber zunächst nur sicherstellen wolle, dass dem Beklagten kein derart weitreichendes Recht zustehe, während er den Beklagten, zB auf prekaristischer Basis, unter Umständen noch längere Zeit auf dem Objekt belassen wolle.
+Angesichts des ersten Eventualbegehrens der Klägerin, das die Räumung der Beklagten verlangt, ist ihr allerdings die (erkennbar gemeinte) Argumentation verschlossen, sie ziele auch hier nur auf Feststellung, nicht jedoch auf die Räumung der Objekte ab.
+3. Mit Rücksicht auf den Wortlaut des vorliegenden Urteilsbegehrens (festzustellen, dass „zwischen der klagenden Partei und der beklagten Partei … kein Mietverhältnis … besteht“) ist die vorliegende negative Feststellungsklage – auch entgegen der Ansicht der Revision – weder geeignet zu klären, ob die Mietverhältnisse am 31. Dezember 2017 enden, noch wer (außer der Beklagten) Vertragspartner der Klägerin ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E125355

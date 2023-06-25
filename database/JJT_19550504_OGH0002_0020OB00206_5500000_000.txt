@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.05.1955
+Geschäftszahl
+2Ob206/55
+Norm
+ABGB §366;
+ABGB §423;
+ABGB §531;
+ABGB §923;
+Kopf
+SZ 28/118
+Spruch
+Eine Verfügung des Nichtberechtigten (Verkauf der einen Liegenschaftshälfte durch den anderen Miteigentümer) wird wirksam, wenn der Verfügende vom Berechtigten beerbt wird.
+Entscheidung vom 4. Mai 1955, 2 Ob 206/55.
+I. Instanz: Kreisgericht Korneuburg; II. Instanz: Oberlandesgericht Wien.
+Text
+Karl O. und die Beklagte Henriette O. haben mit den Ehepakten vom 3. Februar 1933 eine allgemeine, schon unter Lebenden wirksame Gütergemeinschaft errichtet und gleichzeitig mittels Übergabsvertrages die Liegenschaft EZ. 11 des Grundbuches N. übernommen. Auf diese Liegenschaft wurde unter Hinweis auf die Ehepakte das Eigentumsrecht für die beiden Eheleute je zur Hälfte einverleibt. Mit zwei notariell verfaßten Kaufverträgen vom 19. April 1949 hat Karl O. zwei Parzellen dieser Liegenschaft an die klagende Gemeinde verkauft und hat sich verpflichtet, den Grundbuchsstand auf sich herzustellen, die verkauften Grundstücke lastenfrei zu machen und die Einverleibung des Eigentumsrechtes der Klägerin zu sichern. Der volle Kaufpreis wurde dem Karl O. ausgezahlt. Für die zwei verkauften Parzellen wurde die EZ. 2634 eröffnet und an der dem Karl O. zugeschriebenen Liegenschaftshälfte ungeachtet des Hinweises auf die Ehepakte inzwischen das Eigentum der Klägerin einverleibt. Die andere Hälfte der EZ. 2634 steht noch im bücherlichen Eigentum der Beklagten.
+Karl O. ist am 18. Jänner 1951 gestorben. Die Beklagte ist seine Alleinerbin. In der Einantwortungsurkunde ist die Liegenschaft EZ. 2634 nicht enthalten, was offenbar darauf zurückzuführen ist, daß in der Zwischenzeit auf den Hälfteanteil des Karl O. das Eigentum der Klägerin einverleibt worden war.
+Die Klägerin begehrt, gestützt auf ihre mit Karl O. geschlossenen Verträge und den Übergang der Verpflichtungen des Karl O. auf die Beklagte, ihre Verurteilung zur Lastenfreistellung der ihr gehörigen Liegenschaftshälfte und zur Einwilligung in die Einverleibung des Eigentumsrechtes für die Klägerin.
+Das Erstgericht hat im Sinne des Klagebegehrens erkannt.
+Das Berufungsgericht hat das Ersturteil bestätigt.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Eigentum das Veräußerers an dem Kaufobjekt ist nicht Voraussetzung der Gültigkeit des Kaufvertrages. Das ist für das österreichische Recht allgemein anerkannt (vgl. beispielsweise Bettelheim in Klang
+1. Aufl. II/2 S. 970, Ehrenzweig 2. Aufl. II/1 S. 233, GlU. 7804 SZ.
+V 110). Beim Verkauf von Sachen, die dem Verkäufer nicht gehören, übernimmt er stillschweigend die Garantie ihrer Beschaffung. In den Fällen der §§ 367, 371 und 824 ABGB. erwirbt der Käufer das Eigentum vom Nichteigentümer.
+Die Bestimmung des § 1236 ABGB., auf die sich die beklagte Partei vorwiegend stützt, hat mit dem vorliegenden Sachverhalt unmittelbar nichts zu tun. Denn diese Gesetzestelle normiert eine Verfügungsbeschränkung - allerdings nach herrschender Rechtslehre und Praxis ohne dingliche Wirkung - nur für die dem Veräußerer gehörige Liegenschaftshälfte. Hier aber ist die dem anderen Miteigentümer gehörige Liegenschaftshälfte verkauft worden, und die Wirkungen einer solchen Veräußerung sind unabhängig von der Gütergemeinschaft zu beurteilen.
+Daß die Beklagte als Erbin in die aus den Kaufverträgen fließenden schuldrechtlichen Verbindlichkeiten ihres Gatten als des Erblassers eingetreten ist, folgt aus dem Begriff des Erbrechtes (§ 531 ABGB.).
+Das Berufungsgericht vertritt die Auffassung, daß Punkt VII der Kaufverträge, betreffend die Aufsandungserklärung, unwirksam sei, daß aber dieser Mangel nicht die Ungültigkeit der ganzen Verträge bedinge. In dieser Beziehung vermag sich das Revisionsgericht der Rechtsauffassung des Berufungsgerichtes nicht voll anzuschließen, aber nach einer anderen Richtung als der, auf die die Revision abzielt. Würde in der Aufsandungserklärung, wie das Berufungsgericht offenbar meint, eine dingliche Verfügung gelegen sein, dann müßte eine solche Verfügung nach der Regel, daß niemand mehr Rechte übertragen könne als er selbst habe, zwar nicht als nichtig erachtet werden, wohl aber zunächst der Rechtswirksamkeit entbehren. Diese Verfügung würde aber im Falle der Genehmigung durch den Verfügungsberechtigten mit rückwirkender Kraft Wirksamkeit erlangen (vgl. Ehrenzweig 2. Aufl. I/1 S. 291). Einer derartigen Genehmigung muß aber die Beerbung des Verfügenden durch den Berechtigten gleich gehalten werden (vgl. § 185 Abs. 2 DBGB.).
+Die Ausführungen der Revision, daß die Kaufverträge nur eine Verwendungszusage zum Inhalt hätten, derlei Verpflichtungen aber nicht vererblich seien, gehen an dem festgestellten Tatbestand vorbei. Der verstorbene Gatte der Beklagten hat nicht versprochen, sich bei ihr um die Erfüllung und die grundbücherliche Durchführung des Vertrages zu verwenden, sondern hat selbst diese Leistungen zugesagt.

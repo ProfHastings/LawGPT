@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+2Ob7/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Parzmayr und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei G*, vertreten durch  Wildmoser/Koch & Partner Rechtsanwälte GmbH in Linz, gegen die beklagte Partei M*, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen 144.025,59 EUR sA und Demontage (Streitwert 2.500 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. November 2021, GZ 1 R 78/21d-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin kaufte bei der Beklagten einen Geschirrspülautomaten. Der in dieser Maschine verbaute Edelstahl ist für den von der Klägerin geplanten und der Beklagten gegenüber offengelegten Verwendungszweck ungeeignet, was zu einem Totalschaden führte.
+[2] 		Die Vorinstanzen gaben dem (im Wesentlichen) auf Wandlung des Kaufvertrags (§ 932 ABGB in der hier nach § 1503 Abs 20 ABGB noch anzuwendenden Fassung vor BGBl I 175/2021) gestützten Klagebegehren statt.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revision der Beklagten zeigt das Vorliegen erheblicher Rechtsfragen iSd § 502 Abs 1 ZPO nicht auf:
+[4] 		1. Eine Leistung ist dann mangelhaft im Sinn des § 922 ABGB, wenn sie qualitativ oder quantitativ hinter dem vertraglich Geschuldeten zurück bleibt. Der geschuldete Vertragsgegenstand wird durch die gewöhnlich vorausgesetzten oder die ausdrücklich oder stillschweigend zugesicherten Eigenschaften bestimmt (RS0018547 [T5]). Die Mangelhaftigkeit eines Leistungsgegenstands ist nicht abstrakt, sondern immer aufgrund des konkreten Vertrags zu beurteilen (RS0107680). Ein Kaufgegenstand muss demnach der Natur des Geschäfts oder der geschlossenen Verabredung entsprechend benützt und verwendet werden können (RS0114333 [T3]).
+[5] 		2. Fragen der Vertragsauslegung kommt keine über den Einzelfall hinausgehende Bedeutung zu, sofern keine auffallende Fehlbeurteilung vorliegt, die im Interesse der Rechtssicherheit wahrgenommen werden muss (RS0112106). Wenn die Vorinstanzen ausgehend von der in einer Anlage zum Vertrag enthaltenen Klausel, dass die verbauten Materialien und Werkstoffe den derzeit im Einsatz befindlichen, im Detail aufgelisteten chlorhaltigen Reinigungsmitteln nachhaltig standhalten, im Zusammenhalt mit der bereits bei Vertragsanbahnung gemachten Mitteilung, dass ein Chlorreiniger für das Spülgut eingesetzt werden solle, davon ausgingen, dass die Beklagte die Möglichkeit zur Verwendung chlorhaltiger Reinigungsmittel für das Spülgut  zugesagt habe, stellt dies keine im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung dar. Ausgehend von dieser jedenfalls vertretbaren Vertragsauslegung kommt dem im Vertrag enthaltenen Schriftformgebot keine entscheidende Bedeutung zu.
+[6] 		3. Ob überschießende Feststellungen in den Rahmen des geltend gemachten Rechtsgrundes oder der Einwendungen fallen und daher zu berücksichtigen sind, ist – abgesehen von Fällen krasser Fehlbeurteilung durch die zweite Instanz – eine nicht revisible Frage des Einzelfalls (RS0037972 [T15, T16]). Eine solche Fehlbeurteilung des Berufungsgerichts liegt hier nicht vor, halten sich die Feststellungen über den Inhalt der Vertragsgespräche doch im Rahmen des wechselseitigen Vorbringens der Streitteile (ON 5, 3 und ON 9, 4).
+[7] 		4. Bei den Ausführungen zur fehlenden Bevollmächtigung der bei den Vertragsgesprächen für die Beklagte agierenden Personen handelt es sich um im Revisionsverfahren unzulässige Neuerungen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00007.22A.0222.000

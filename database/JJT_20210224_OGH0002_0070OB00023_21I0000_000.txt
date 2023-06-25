@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.02.2021
+Geschäftszahl
+7Ob23/21i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei G***** L*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei B*****, vertreten durch Dr. Ralph Hofmann-Credner, Rechtsanwalt in Wien, wegen 200.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck vom 3. Dezember 2020, GZ 1 R 150/20y-91, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Dem gegenständlichen Sportunfähigkeitsversicherungvertrag für Berufssportler lagen die Allgemeinen Versicherungsbedingungen PRE001 Unfall/Krankheit und die Zusätzlichen Bedingungen PREPS1 zugrunde. Weiters bestand nachstehende
+„Individuelle Vereinbarung
+Der medizinische Fragebogen vom 20. 4. 2012 ist Bestandteil des Vertrags. Die folgenden medizinischen Ausschlüsse gelten als vereinbart:
+#4 – .../linkes Knie, linkes Sprunggelenk und linker Plexus brachialis. #4 Schadenansprüche können nur berücksichtigt werden, wenn diese durch einen Arzt medizinisch attestiert werden.
+[…]“
+[2] 		1. Die Vorinstanzen bejahten – aufgrund der von beiden Seiten zugestandenen Tatsachen – übereinstimmend die Parteifähigkeit der beklagten Verbindung nach englischem Recht (vgl RS0077060, RS0108521). Außer Streit steht weiters die Anwendung deutschen Rechts.
+[3] 		2. Der Oberste Gerichtshof ist nicht dazu berufen, für die Einheitlichkeit oder gar die Fortbildung fremden Rechts Sorge zu tragen (RS0042940 [T2, T3, T8]). Die Revision wäre aus Gründen der Rechtssicherheit nur dann zulässig, wenn ausländisches Recht unzutreffend ermittelt oder eine im ursprünglichen Geltungsbereich des maßgeblichen fremden Rechts in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt worden wäre oder hiebei grobe Subsumtionsfehler unterlaufen wären, die aus Gründen der Rechtssicherheit richtiggestellt werden müssten (RS0042940 [T9]; RS0042948 [T3]). Das ist hier nicht der Fall:
+[11] 		3.1 Der Versicherer ist bei der Berufsunfähigkeitsversicherung verpflichtet, für eine nach Beginn der Versicherung eingetretene Berufsunfähigkeit die vereinbarten Leistungen zu erbringen (§ 172 Abs 1 VVG). Berufsunfähig ist, wer seinen zuletzt ausgeübten Beruf, so wie er ohne gesundheitliche Beeinträchtigungen ausgestaltet war, infolge Krankheit, Körperverletzung oder mehr als altersentsprechenden Kräfteverfall ganz oder teilweise voraussichtlich auf Dauer nicht mehr ausüben kann (§ 172 Abs 2 VVG).
+[4] 		3.2 Art und Ursache der Krankheit, der Körperverletzung oder des Kräfteverfalls sind grundsätzlich gleichgültig. Vertraglich können jedoch Ausschlüsse vereinbart werden (Lücke in Prölls/Martin, VVG31 § 172 Rn 41; Dörner in Landheid/Wandt, Münchener Kommentar zum VVG2 [2017] § 172 Rn 133, 179, je mit zahlreichen Nachweisen aus der deutschen Rechtsprechung). Bei der Berufsunfähigkeitsversicherung werden anlässlich der Risikoprüfung regelmäßig Risikoausschlüsse wegen ernsthafter Vorerkrankungen vereinbart (Lücke aaO Rn 41; Neuhaus, Berufsunfähigskeitsversicherung4 Kapitel 15 Rn 7; Höra in  Höra, Münchener Anwaltshandbuch, Versicherungsrecht4 [2017] § 26 Rn 226, je mzwN).
+[5] 		3.3 Handelt es sich – wie hier – um einen für den konkreten Vertrag individuell ausformulierten Risikoausschluss im Sinn einer Individualvereinbarung nach § 305b BGB, kommt es auf das Verständnis des konkreten Vertragspartners und die Begleitumstände an (Neuhaus aaO Rn 9). Die Auslegung erfolgt nicht unbedingt restriktiv, sondern nach den allgemeinen Regeln der Vertragsauslegung. Er ist so zu interpretieren, wie ihn der Erklärungsempfänger nach Treu und Glauben und unter Berücksichtigung des Vertragszwecks verstehen durfte. Hat der Versicherer den Ausschluss in den Vertrag gebracht, gehen Auslegungszweifel zu seinen Lasten (Dörner aaO Rn 179 mwN).
+[6] 		3.5 Grundsätzlich genügt schon Mitursächlichkeit eines ausgeschlossenen Umstands, um den vereinbarten Risikoausschluss greifen zu lassen (Lücke aaO AVBBU § 5 Rn 3 mwN; Höra aaO Rn 228; Dörner aaO Rn 180).
+[7] 		3.6. Das  Auslegungsergebnis, dass der Kläger – vor dem Hintergrund der bereits zum Vertragsabschluss vorhandenen massiven Vorverletzungen – den individuell vereinbarten Risikoausschluss nur so verstehen konnte, dass die Versicherungsleistung für eine Sportunfähigkeit, die (auch) auf Krankheiten oder Verletzungen des linken Knies, des linken Sprunggelenks oder des linken Plexus brachialis und deren Folgen zurückzuführen ist, generell ausgeschlossen werden soll, erweist sich als nicht korrekturbedürftig. Dafür, dass der Risikoausschluss nur gelte, wenn die Berufsunfähigkeit allein durch Verletzungen oder Krankheiten der genannten Körperteile eingetreten wäre, bietet der Wortlaut keine Grundlage.
+[8] 		4.1 Nach den insoweit unbekämpft gebliebenen Feststellungen lag die Ursache der beim Kläger im Jänner 2015 eingetretenen Rennsportunfähigkeit in den Folgen der Verletzungen des rechten und linken Kniegelenks, einer linksseitigen Chopart-Arthrose und in einer Teilläsion des linksseitigen unteren Armnervengeflechts. Die Rennsportunfähigkeit des Klägers ist auch auf die Funktionsbeeinträchtigungen der vom Versicherungsschutz ausgeschlossenen Körperteile (im Sinn einer Mitursächlichkeit) zurückzuführen.
+[9] 		4.2 Die Ansicht, dass bereits die Mitursächlichkeit der Verletzungen und Krankheiten des linken Knies für die eingetretene Sportunfähigkeit, von der auch die Revision ausgeht, zur Leistungsfreiheit der Beklagten führt, ist nicht zu beanstanden.
+[10] 		5. Eine erhebliche Rechtsfrage vermag der Kläger hier nicht aufzuzeigen, ein Eingehen auf die Frage der Verjährung erübrigt sich.
+[12] 		6. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00023.21I.0224.000

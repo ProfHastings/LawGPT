@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.04.2018
+Geschäftszahl
+1Ob67/18m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Bydlinski, Mag. Wurzer, Mag. Dr. Wurdinger und die Hofrätin Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei M***** S*****, vertreten durch die Kocher & Bucher Rechtsanwälte OG, Graz, gegen die beklagte Partei K***** GmbH, *****, und den Nebenintervenienten Mag. M***** S*****, wegen 31.900 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 19. Jänner 2018, GZ 2 R 202/17v-19, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 18. September 2017, GZ 23 Cg 1/17d-15, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die dreijährige Verjährungsfrist des § 1489 Satz 1 ABGB beginnt mit dem Zeitpunkt zu laufen, in welchem dem Geschädigten sowohl der Schaden und die Person des Schädigers als auch die Schadensursache bekannt geworden ist (RIS-Justiz RS0034374, [bes T4]; RS0034951). Die Frist beginnt zwar nicht vor dem tatsächlichen Eintritt der Rechtsgutverletzung (also des „Primär- oder Erstschadens“) zu laufen. Mit der positiven Kenntnis davon wird sie aber nach ständiger Rechtsprechung auch schon dann in Gang gesetzt, wenn der Geschädigte die Höhe seines Schadens noch nicht beziffern kann, ihm noch nicht alle Schadensfolgen bekannt sind bzw diese auch noch nicht zur Gänze eingetreten sind. Der drohenden Verjährung muss der Geschädigte durch eine Feststellungsklage begegnen (RIS-Justiz RS0087615). Nach dem weiten Schadensbegriff des ABGB stellt jeder rechtliche Nachteil einen Schaden dar, an dem ein geringeres rechtliches Interesse besteht als am bisherigen (RIS-Justiz RS0022537 [insbes T7 = 1 Ob 64/04z: Vermögensnachteil durch die Vereitelung des Erwerbs eines Pfandrechts an einer Liegenschaft]).
+2. Mit Schreiben vom 23. 8. 2013 forderte der Kläger den Nebenintervenienten, der zuvor geschäftsführender Gesellschafter der beklagten Rechtsanwalts-GmbH gewesen war, auf, ihm wegen der Unterlassung der geeigneten Vorkehrungen zur Einverleibung eines Pfandrechts Schadenersatz zu zahlen. Der geforderte Betrag enthielt unter anderem eine Kreditforderung gegenüber seinem Darlehensnehmer. Nach dem Inhalt des von der Beklagten abgewickelten Darlehensvertrags hatte der Darlehensnehmer dem Kläger ein Pfandrecht an seiner Eigentumswohnung eingeräumt. Der Kläger brachte die auf Schadenersatz gestützte Mahnklage gegen die Beklagte erst am 22. 12. 2016 ein.
+3. Die Beurteilung des Berufungsgerichts, dass der vom Kläger geltend gemachte Schadenersatzanspruch gemäß § 1489 Satz 1 ABGB bereits verjährt sei, ist nicht iSd § 502 Abs 1 ZPO korrekturbedürftig. Jedenfalls vertretbar entschied es, es sei bereits im August 2013 festgestanden, dass die im Kreditvertrag vereinbarte Sicherstellung des Darlehens gescheitert war. Zu diesem Zeitpunkt sei klar gewesen, dass die Rechtsposition des Klägers durch die unterlassene Einverleibung des Pfandrechts für das zugezählte Darlehen beeinträchtigt gewesen sei; diese Beeinträchtigung der Rechtssphäre des Klägers habe den Primärschaden bewirkt.
+4. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0010OB00067.18M.0430.000

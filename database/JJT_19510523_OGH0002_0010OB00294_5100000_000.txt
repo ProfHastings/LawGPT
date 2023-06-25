@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.1951
+Geschäftszahl
+1Ob294/51
+Norm
+ABGB §829;
+ABGB §889;
+Kopf
+SZ 24/142
+Spruch
+Bei Verkauf einer im Miteigentum mehrerer stehenden Liegenschaft steht jedem Miteigentümer gegen den Käufer nur ein Anspruch auf Zahlung des seinem Liegenschaftsanteile entsprechenden Teiles des Kaufpreises zu.
+Bei Aufhebung des Vertrages hat jeder Miteigentümer nur den seinem Liegenschaftsanteil entsprechenden Teil der auf den Kaufpreis geleisteten Beträge dem Käufer zurückzuzahlen.
+Entscheidung vom 23. Mai 1951, 1 Ob 294/51.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Beklagte ist zu 11/16, ihr Bruder zu 5/16 Eigentümer einer Liegenschaft, die dem Kläger um den Betrag von 280.000 S verkauft werden sollte. Der Kläger hat auf den Kaufpreis zwei Zahlungen im Betrag von 80.000 S und 50.000 S an die Beklagte geleistet. Der weitere Kaufpreis hätte in zwei weiteren Raten geleistet werden sollen. Nach Bezahlung der genannten zwei ersten Raten kam es zum Storno des Verkaufes, für dessen Bewilligung der Kläger einen Betrag von 14.000 S bezahlen sollte. Der Kläger hätte also Anspruch auf Rückzahlung von 116.000 S gehabt. Er hat jedoch lediglich einen Betrag von 76.000 S erhalten und macht die Beklagte nun für den Restbetrag von 39.100 S haftbar.
+Das Erstgericht hat die Beklagte zur Zahlung verurteilt. Es hat angenommen, daß die beiden ersten Raten nur an die Beklagte, nicht aber an den Miteigentümer, ihren Bruder, zu leisten waren. Die Beklagte habe nun allerdings tatsächlich den Betrag von 130.000 S ihrem Hausverwalter mit dem Auftrag übergeben, die Angelegenheit mit dem Kläger in Ordnung zu bringen. Dieser habe jedoch dem Bruder der Beklagten den seinem Anteil von 5/16 entsprechenden Teil des Betrages, das sind 40.625 S, ausgefolgt und nur den Rest (abzüglich weiterer 2850 S) an den Kläger gelangen lassen. Die Behauptung der Beklagten, es sei zwischen dem Kläger und dem Bruder der Beklagten eine nachträgliche Vereinbarung zustandegekommen, daß der Verkauf hinsichtlich seiner 5/16 Anteile aufrechtbleibe und daß der ihm zugekommene Geldbetrag auf die Bezahlung aufzurechnen sei, hat das Erstgericht nicht als erwiesen erachtet.
+Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In rechtlicher Hinsicht macht die Revision geltend, daß interne Vereinbarungen zwischen den Mitberechtigten keine Wirkung auf das Verhältnis zum Schuldner ausüben. Die Revision geht also, wie im übrigen auch die Untergerichte, davon aus, daß grundsätzlich die Verkäufer einer gemeinsamen Liegenschaft hinsichtlich des Kaufpreises nur nach den Anteilen, die sie an der Liegenschaft besitzen, berechtigt sind, daß grundsätzlich auch die einzelnen Ratenzahlungen in diesem Verhältnis zu teilen sind, so daß der Käufer durch Ratenzahlungen seine Verpflichtung gegenüber den Käufern quotenmäßig befriedigt und der Käufer infolgedessen im Falle eines Stornos von den Verkäufern nur je einen quotenmäßigen Anteil der Anzahlung zurückverlangen könne. Mit Recht wird also die Meinung abgelehnt, daß die beiden Verkäufer zur ungeteilten Hand Gläubiger des Klägers waren und daß dieser von beiden Verkäufern zur ungeteilten Hand den Betrag zurückfordern könnte, den er bezahlt hat (Gschnitzer in Klang, Kommentar, 1. Aufl., zu § 889, S. 277, 280, 281, GlU. 11466 und 13064; dagegen ZBl. 1933, 146, GlUNF. 5487).
+Allerdings gilt dies, wie auch die Revision zugibt, dann nicht, wenn zwischen dem Käufer und den Verkäufern eine abweichende Vereinbarung über den Zweck der Ratenzahlungen getroffen wurde. Das Erstgericht hat nun festgestellt, der Kläger habe die Beträge von 80.000 S und 50.000 S nicht in der Weise erlegt, daß er an die Beklagte 11/16 und an Ing. B. 5/16 bezahlte und daß dieser sodann seinen Anteil der Beklagten als Darlehen zur Verfügung stellte. Ing. B. sollte vielmehr seinen Anteil an dem Kaufpreis erst mit der dritten und vierten Rate erhalten, während die ersten beiden Raten zur Gänze an die Beklagte zu bezahlen waren. Das Berufungsgericht geht mit Recht davon aus, daß diese Feststellung in der Berufung nicht angefochten wurde. Damit haben aber die Untergerichte festgestellt, daß die beiden Verkäufer nicht nur eine interne Vereinbarung über die Verwendung der ersten Raten des Erlöses getroffen haben, sondern daß sie, auch mit Wirkung für den Käufer und diesen bindend, eine Vereinbarung getroffen haben, daß die Beklagte Gläubigerin der beiden ersten Raten sein soll. Damit erledigen sich alle rechtlichen Ausführungen der Beklagten darüber, daß die Untergerichte nicht zwischen internen Vereinbarungen zwischen den Verkäufern und solchen, die auch den Käufer binden, unterschieden hätten.
+Die Revision erweist sich also auch in diesem Punkte nicht als begrundet.

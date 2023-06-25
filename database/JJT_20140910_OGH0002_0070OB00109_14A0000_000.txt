@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.09.2014
+Geschäftszahl
+7Ob109/14a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei E***** W*****, vertreten durch Dr. Ulrich Schwab & Dr. Georg Schwab, Rechtsanwälte in Wels, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Peter Lindinger und Dr. Andreas Pramer, Rechtsanwälte in Linz, wegen 69.870,86 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 7. Mai 2014, GZ 6 R 82/14t-16, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Versicherungsbedingungen (AVB) nicht „jedenfalls“, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516).
+Allgemeine Versicherungsbedingungen sind nach Vertragsauslegungsgrundsätzen (§§ 914 f ABGB) ausgehend vom Maßstab des durchschnittlich verständigen Versicherungsnehmers auszulegen (RIS-Justiz RS0050063, RS0017960). Die einzelnen Klauseln der Versicherungsbedingungen sind, wenn sie - wie hier -
+nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der Allgemeinen Geschäftsbedingungen zu berücksichtigen (7 Ob 73/02i mwN). Unzulässig ist es, neuere Fassungen von AVB zur Auslegung älterer AVB heranzuziehen (7 Ob 73/02i mwN).
+Es entspricht ständiger Rechtsprechung, dass im Bereich der privaten Unfallversicherung grundsätzlich jeder Unfall mit seinen konkreten Folgen getrennt zu beurteilen und abzurechnen ist. Ob die Vorinvalidität auf einem (damals) leistungspflichtigen Unfall beruhte oder aber auf einer Krankheit, ist unerheblich. Ein neuer Unfall ist jeweils ein neuer Versicherungsfall in der Unfallversicherung und ist als solcher zu entschädigen (RIS-Justiz RS0121647).
+Nichts anderes gilt für die vorliegenden AUVB 1998. Sie regeln auszugsweise:
+„Art 7 Dauernde Invalidität
+…
+2. Für die Bemessung des Invaliditätsgrades gilt folgende Bestimmung:
+…
+3. Lässt sich der Invaliditätsgrad nach Pkt. 2 nicht bestimmen, ist maßgebend, …
+4. Festsetzung der Versicherungsleistung
+Mehrere sich aus dem Pkt. 2 und 3 ergebende Prozentsätze werden zusammengerechnet. Der gesamte Invaliditätsgrad ist jedoch mit 100% begrenzt.“
+Im Gegensatz zu den Ausführungen in der Revision sind die den bisherigen Entscheidungen zu Grunde liegenden AUVB mit den vorliegenden (soweit hier relevant) im Wesentlichen gleichlautend. Gerade aus Art 7.4 AUVB 1998 ist eindeutig abzuleiten, dass sich die Zusammenrechnungsbestimmung ausschließlich auf die Invaliditätsfolgen aus einem Versicherungsfall beziehen.
+Die Entscheidungen der Vorinstanzen halten sich im Rahmen der Judikatur. Eine erhebliche Rechtsfrage liegt nicht vor. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00109.14A.0910.000

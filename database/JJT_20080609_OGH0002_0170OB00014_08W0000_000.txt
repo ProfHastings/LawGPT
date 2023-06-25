@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.06.2008
+Geschäftszahl
+17Ob14/08w
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Griss als Vorsitzende und durch die Hofrätin Dr. Schenk sowie die Hofräte Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei c***** GmbH, *****, vertreten durch Dr. Clemens Thiele, Rechtsanwalt in Wien, gegen die beklagten Parteien 1. M. A***** B.V., 2. Michael A*****, beide vertreten durch Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH in Graz, wegen Unterlassung und Einwilligung (Streitwert im Sicherungsverfahren 35.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 24. April 2008, GZ 1 R 51/08i-27, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin ist zur Rechtsverteidigung befugte Lizenznehmerin der für die Klassen 35 (Werbung ua) und 42 (wissenschaftliche und technologische Dienstleistungen und Forschungsarbeiten; Entwurf und Entwicklung von Computerhardware und -software ua) registrierten Gemeinschafts-Wortmarke „Cityforum" mit Priorität 3. 7. 2002; sie betreibt in Österreich das Geschäft der IT-Dienstleistungen, insbesondere Webdesign, online-Dienstleistungen und damit in Zusammenhang stehende Software-Geschäfte unter Verwendung der Domain „www.cityforum.at".
+Die Erstbeklagte, eine in den Niederlanden eingetragene Kapitalgesellschaft mit dem Zweitbeklagten als Geschäftsführer, ist Inhaberin der am 7. 4. 2006 angemeldeten Domain „www.cityforum.eu", unter der derzeit weder eine Homepage abrufbar ist, noch auf andere Weise Waren oder Dienstleistungen angeboten werden. In der vorprozessualen Korrespondenz erklärten die Beklagten durch ihren Rechtsvertreter, sie wollten die Domain künftig weltweit für nicht kommerzielle Informationen über Städte verwenden; in diesem Sinne sei das Kennzeichen beschreibend. Bei Aufruf der Domain am 3. 6. 2008 war der Hinweis „under construction" zu lesen.
+Das Rekursgericht hat die den Sicherungsantrag abweisende Entscheidung des Erstgerichts bestätigt. Die Beklagten benutzten die Gemeinschaftsmarke der Klägerin nicht rechtsverletzend, weil sie sie nicht in Bezug auf Waren oder Dienstleistungen verwendeten. Allein die Verwendung eines Zeichens zur Registrierung als Domain sei keine markenmäßige Verwendung dieses Zeichens. Sittenwidriges Domain Grabbing setze voraus, dass der Verletzer bei Registrierung und Nutzung der Domain in Behinderungsabsicht gehandelt habe; einen solchen Sachverhalt habe die Klägerin nicht bescheinigt, da der von den Beklagten angegebene Registrierungszweck nicht unplausibel sei. Anhaltspunkte für das Bestehen von Erstbegehungsgefahr lägen nicht vor.
+Rechtliche Beurteilung
+Diese Entscheidung weicht von der umfangreichen höchstgerichtlichen Rechtsprechung zu den Voraussetzungen der markenmäßigen Nutzung eines Zeichens (Registrierung als Domain genügt nicht: RIS-Justiz RS0114773) und zur Beweislast im Zusammenhang mit dem Vorwurf des Domain Grabbing nicht ab (der Kläger muss einen Sachverhalt bescheinigen, aus dem kein nachvollziehbares Eigeninteresse des Beklagten am Rechtserwerb an einer Domain erkennbar ist: RIS-Justiz RS0115378; zuletzt 17 Ob 9/08k).
+Soweit die Rechtsmittelwerberin - auch im Zusammenhang mit ihren Ausführungen zur Beweislast - davon ausgeht, die Erstbeklagte benutze ihre Domain im geschäftlichen Verkehr zur Bewerbung von Internetdienstleistungen eines Providers (in Form von „Domain Parking"), indem sie auf dessen Dienstleistungsangebot hinweise und so potenzielle Kunden der Klägerin zum Angebot eines Mitbewerbers umleite, ist ein derartiger Sachverhalt nicht bescheinigt.

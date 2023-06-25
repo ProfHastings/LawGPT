@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2011
+Geschäftszahl
+3Ob17/11p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Neumayr, die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei M***** Ges.m.b.H. & Co KG, *****, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, und ihrer Nebenintervenientin S***** Immobilien AG, *****, vertreten durch Lambert Rechtsanwälte OG in Wien, gegen die beklagte Partei K*****Handelsges.m.b.H., *****, vertreten durch Dr. Ernst Maiditsch M.B.L.-HSG Rechtsanwaltsgesellschaft in Klagenfurt, wegen 64.058,66 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. November 2010, GZ 4 R 279/10v-61, womit infolge Berufung der beklagten Partei das Zwischenurteil des Handelsgerichts Wien vom 19. Juli 2010, GZ 25 Cg 12/07s-56, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Nebenintervenientin (Liegenschaftseigentümerin) hat der beklagten Partei Lagerräumlichkeiten vermietet. Im Mietvertrag ist eine vom Wärmeverbrauch der anderen Abnehmer (Mieter von Lager- bzw Büroräumlichkeiten) unabhängige Ermittlung der Verbrauchsanteile der beklagten Partei vorgesehen. Die einzelnen Einheiten, insbesondere auch das ausschließlich von der beklagten Partei benützte Gebäude „Objekt 2“, verfügen über eigene Wärmemengenzähler, sodass der Verbrauch der beklagten Partei genau messbar und auch von den anderen Einheiten genau abgrenzbar ist.
+Die Nebenintervenientin hat der klagenden Partei die Abrechnung und das Inkasso der Heizkosten übertragen sowie ihre streitgegenständlichen Ansprüche gegen die beklagte Partei abgetreten. Nunmehr besteht Streit über die von der beklagten Mieterin zu entrichtenden Heizkosten.
+Unter Berufung auf die Entscheidung 5 Ob 193/09g hat das Berufungsgericht das Klagebegehren mit der wesentlichen Begründung abgewiesen, dass die beklagte Partei die Heizungskosten allein aufgrund einer verbrauchsabhängigen Abrechnung im Sinne des Mietvertrags schulde; die klagende Partei habe aber eine solche Abrechnung nicht erstellt, weshalb die Klagsforderung nicht fällig sei.
+Rechtliche Beurteilung
+In ihrer dagegen erhobenen außerordentlichen Revision zeigt die klagende Partei keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+1. Unstrittig ist, dass die beklagte Mieterin nur mit der Nebenintervenientin (Vermieterin), nicht aber mit dem Wärmeerzeuger in einem Vertragsverhältnis steht. Die Nebenintervenientin ist somit Wärmeabgeberin iSd § 2 Z 3 lit b Heinzkostenabrechnungsgesetz (HeizKG),  die beklagte Partei Wärmeabnehmerin  gemäß § 2 Z 4 lit b HeizKG (s auch Horvath, Heizkostenabrechnung [2003] Rz 136).
+2. Die in einem außerstreitigen Verfahren zu § 25 Abs 1 Z 8 HeizKG ergangene Entscheidung 5 Ob 193/09g  (RIS-Justiz RS0125915) sieht das HeizKG als nicht anwendbar an, wenn für jeden Wärmeabnehmer gesondert eine unmittelbare und vom Verbrauch anderer Wärmeabnehmer derselben wirtschaftlichen Einheit völlig unabhängige und unbeeinflussbare Ermittlung der Verbrauchsanteile aufgrund von Einzelverträgen (mit dem Wärmeabgeber) erfolgt. In diesem Fall kommt es nämlich nicht zu einer Aufteilung einer Gesamtsumme an Verbrauch oder Kosten auf mehrere Nutzungsobjekte/Wärmeabnehmer, sodass die Anwendbarkeit des HeizKG von vornherein zu verneinen ist.
+3. Ob diese Grundsätze - wie die Revision meint - nur dann anzuwenden sind, wenn der Wärmeabgeber mit sämtlichen Wärmeabnehmern entsprechende Einzelvereinbarungen schloss, ist nicht entscheidungserheblich:
+Der Oberste Gerichtshof hat bereits in der Entscheidung  5 Ob 150/97p (wobl 1998/14 [zust Call]) unter Hinweis auf die Materialien ausgeführt, dass das HeizKG nur die Zuordnung der Heiz- und Warmwasserkosten auf die einzelnen Nutzungsobjekte, nicht aber deren Tragung durch die einzelnen Nutzer, regelt. Im Verhältnis Vermieter/Mieter ist daher eine für den Mieter gegenüber der gesetzlichen Regelung günstigere vertragliche Vereinbarung über die Kostentragung nach allgemeinen Grundsätzen zulässig. Davon zu unterscheiden ist die hier nicht zu beantwortende Frage, wie sich die Regelungen des HeizKG auf das Verhältnis des Vermieters zu den übrigen Mietern auswirkt.
+4. Die weiteren in der außerordentlichen Revision als erheblich bezeichneten Rechtsfragen zur Auslegung des Begriffs „wirtschaftliche Einheit“ im HeizKG stellen sich daher nicht.

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.01.1952
+Geschäftszahl
+4Ob138/51
+Norm
+Arbeitsgerichtsgesetz §3;
+Handelsgesetzbuch §§105 ff;
+JN §75;
+Kopf
+SZ 25/7
+Spruch
+Die Zuständigkeitsvorschrift des § 3 ArbGerG. (Wohnsitz des Unternehmers) gilt nicht für den Ort des Wohnsitzes der einzelnen Gesellschafter einer offenen Handelsgesellschaft.
+Entscheidung vom 8. Jänner 1952, 4 Ob 138/51.
+I. Instanz: Arbeitsgericht Bad Ischl; II. Instanz: Kreisgericht Wels.
+Text
+Gegen die beim Arbeitsgericht Bad Ischl vom Kläger angebrachte Klage auf Zahlung einer Pension hat die beklagte Partei die Einrede der sachlichen und örtlichen Unzuständigkeit erhoben.
+Das Arbeitsgericht hat die Einrede der sachlichen Unzuständigkeit verworfen, der Einrede der örtlichen Unzuständigkeit dagegen Folge gegeben und die Klage zurückgewiesen.
+Dem vom Kläger gegen die Zurückweisung der Klage wegen örtlicher Unzuständigkeit erhobenen Rekurs hat das Rekursgericht Folge gegeben und den arbeitsgerichtlichen Beschluß dahin abgeändert, daß es die Einrede der örtlichen Unzuständigkeit verwarf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Beklagten Folge und stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Gestaltung der offenen Handelsgesellschaft nach dem Handelsgesetzbuch unterscheidet sich in vielen Belangen nicht von einer juristischen Person. Der Zweck der offenen Handelsgesellschaft ist der Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma (§§ 105, 161 HGB.). Die Vorschriften des ABGB. über die Gesellschaft sind nicht mehr anzuwenden. Nach § 124 HGB. kann die offene Handelsgesellschaft unter ihrer Firma Rechte erwerben und Verbindlichkeiten eingehen, Eigentum und andere dingliche Rechte an Grundstücken erwerben, vor Gericht klagen und verklagt werden. § 75 JN. normiert für die offene Handelsgesellschaft wie für juristische Personen einen allgemeinen Gerichtsstand, der sich nach ihrem sitz richtet. Im Beweisverfahren sind allerdings die persönlich haftenden Gesellschafter nicht als Zeugen, sondern als Partei zu behandeln (§ 373 ZPO.). Nicht nur die offene Handelsgesellschaft selbst ist Kaufmann, sondern auch die einzelnen Gesellschafter, auch wenn sie weder Geschäftsführungsbefugnis noch Vertretungsmacht haben. In die Handwerksrolle wird nicht die Gesellschaft, sondern jeder einzelne persönlich haftende Gesellschafter eingetragen. Die offene Handelsgesellschaft wird also teils wie eine juristische Person, teils wie eine Personenmehrheit behandelt.
+Im vorliegenden Falle ist die Zuständigkeitsvorschrift des § 3 ArbGerG. anzuwenden, derzufolge nach Wahl des Klägers das Arbeitsgericht, in dessen Bezirk sich die Betriebsstätte befindet, das Unternehmen seinen Sitz oder der Unternehmer seinen Wohnsitz (§ 66 JN.) hat, oder das Arbeitsgericht, in dessen Bezirk die Arbeit zu leisten oder der Lohn auszuzahlen ist, örtlich zuständig ist. Bei der offenen Handelsgesellschaft wird das Unternehmen von den in ihr zusammengefaßten Gesellschaftern betrieben. Der einzelne Gesellschafter ist daher nicht als Unternehmer im Sinne des § 3 ArbGerG. anzusehen, woraus folgt, daß dann, wenn nur die offene Handelsgesellschaft und nicht zugleich auch die Gesellschafter geklagt werden, der Wohnsitz des einzelnen Gesellschafters für die Zuständigkeit des Arbeitsgerichtes außer Betracht zu bleiben hat.

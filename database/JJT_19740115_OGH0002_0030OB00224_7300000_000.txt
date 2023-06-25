@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.01.1974
+Geschäftszahl
+3Ob224/73
+Norm
+EO §7 Abs1;
+EO §10a;
+Familienlastenausgleichsgesetz §1;
+Kopf
+SZ 47/2
+Spruch
+Die bloße Bestimmbarkeit einer Geldforderung, für die der Exekutionstitel besteht, genügt mangels ausdrücklicher Sonderregelung auch in den Fällen nicht, in welchen die Betragshöhe durch Heranziehung gesetzlicher Vorschriften bestimmbar wäre
+Für Exekutionstitel auf "die staatliche Familienbeihilfe in der jeweiligen gesetzlichen Höhe" entspricht nicht den Erfordernissen des § 7 EO
+OGH 15. Jänner 1974, 3 Ob 224/73 (LG Linz 13 R 542/73; (BG Linz 14 E 6221/73)
+Text
+Ferdinand G ist laut rechtskräftigen Beschluß des Bezirksgerichtes L vom 7. Juli 1973 zu einer monatlichen Unterhaltsleistung von 800 S , zuzüglich der staatlichen Familienbeihilfe in der jeweiligen gesetzlichen Höhe einschließlich der Sonderzahlungen hiezu an seine minderjährige Tochter Andrea G verpflichtet.
+Das Erstgericht bewilligte die von Andrea G (durch ihre Mutter als Sachwalterin) beantragte Lohnexekution nur hinsichtlich des behaupteten Unterhaltsrückstandes und eines laufenden Unterhaltsbetrages von 800 S monatlich, wies hingegen den Exekutionsantrag hinsichtlich der "jeweiligen Familienbeihilfe" mit der Begründung ab, daß der Exekutionstitel insoweit nicht den Erfordernissen des § 7 Abs. 1 EO entspreche.
+Das Rekursgericht bewilligte infolge Rekurses der betreibenden Partei die beantragte Exekution auch in Ansehung der Familienbeihilfe, und zwar der "für ein Kind gewährten staatlichen Familienbeihilfe in der jeweiligen gesetzlichen Höhe einschließlich der Sonderzahlungen hiezu. Es vertrat im Gegensatz zum Erstgericht die Auffassung, daß der gegenständliche Exekutionstitel bei einer sinnvollen und den Bedürfnissen der Praxis entsprechenden Auslegung des § 7 Abs. 1 EO eine taugliche Exekutionsgrundlage bilde, allerdings nur zur Hereinbringung der niedrigstmöglichen, für ein Kind gewährten Beihilfe.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach einhelliger Auffassung entspricht ein Exekutionstitel auf Geldforderungen nur dann der Bestimmung des § 7 Abs. 1 EO, wenn sich der zu zahlende Betrag aus dem Titel selbst ergibt, er ist hingegen bei bloßer Bestimmbarkeit mangels ausdrücklicher Sonderregelung - wie etwa durch § 10a EO - keine taugliche Exekutionsgrundlage (ebenso Heller - Berger - Stix in Neumann - Lichtblau's Komm. zur EO[4], 190; SZ 25/224; RZ 1935, 39 u. a.) Dies gilt auch in jenen Fällen, in welchen die Betragshöhe durch Heranziehung gesetzlicher Vorschriften bestimmbar wäre; so kann etwa eine nicht ausdrückliche im Exekutionstitel selbst ausgesprochene Solidarverpflichtung nicht berücksichtigt werden (ebenso Heller - Berger - Stix, 190; EvBl. 1964/451 u. a.), auch wenn sie sich eindeutig aus dem Gesetz ergibt; ebensowenig sind die sich unmittelbar aus dem Gesetz ergebenden gesetzlichen Verzugszinsen einer Judikatschuld vollstreckbar, wenn im Exekutionstitel selbst keine Zinsen aufscheinen (so schon Spruch 185 u. a.). Es besteht eben ein Unterschied zwischen einer auch der Höhe nach außer Zweifel materiellrechtlich gültigen Verpflichtung und einer vollstreckbaren Verpflichtung, die allein aus dem Exekutionstitel selbst ersichtlich sein muß.
+Bei Bedachtnahme auf diesen Unterschied kommt dem vom Rekursgericht hervorgehobenen "Bedürfnis" der Praxis nach einer im Ergebnis variablen Festsetzung vollstreckbarer Geldforderungen - darauf läuft die Formulierung "in der jeweiligen gesetzlichen Höhe statt eines bestimmten Betrages ja hinaus - nicht die vom Rekursgericht angenommene Bedeutung zu (auf die weitere Frage, ob der das gegenständliche Problem erst auslösende gesonderte Zuspruch der Familienbeihilfe dem Gesetz entspricht, ist hier angesichts der rechtskräftig erfolgten Unterhaltsbemessung nicht weiter einzugehen).
+Ein gewisses Bedürfnis nach vollstreckbarer Festsetzung wiederkehrender Leistungen in variabler Höhe besteht mehr oder weniger stark auch in anderen Bereichen (man denke etwa an wertgesicherte Unterhaltsforderungen oder Leibrenten); trotzdem läßt das Gesetz die sofortige Exekution zur Hereinbringung variabler, erst bestimmbarer Geldforderungen nur im Rahmen ausdrücklicher Bestimmungen - insbesondere § 10a EO - zu. Derartige Bestimmungen können jedoch wegen ihres aufgezeigten Ausnahmecharakters nicht analog auf allenfalls vergleichbare Fälle angewendet werden, für die eine entsprechende gesetzliche Regelung fehlt (ebenso Heller - Berger - Stix, 258, u. a.).
+Die vorstehenden Überlegungen gelten auch für den gegenständlichen Fall des Zuspruches der Familienbeihilfe "in der jeweiligen gesetzlichen Höhe" (vgl. Heller - Berger - Stix, 258; Pichler in RZ 1968, 126; ERZ 1967, 73, 1973, 17 u. a.), zumal bei Richtigkeit der vom Rekursgericht vertretenen Ansicht im Ergebnis dem Drittschuldner Last und Gefahr für die Evidenzhaltung der einschlägigen Gesetzesnovellen und die danach richtige Berechnung der Forderung aufgebürdet wurde (für dieses Ergebnis fehlt nicht nur eine gesetzliche Grundlage, sondern auch jede sachliche Rechtfertigung).
+Aus allen diesen Gründen war der Beschluß des Erstgerichtes Wiederherzustellen.

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.05.1952
+Geschäftszahl
+4Ob34/52
+Norm
+ABGB §1162b;
+Gewerbeordnung §84;
+Kopf
+SZ 25/119
+Spruch
+Kein Anspruch auf Kündigungsentschädigung eines zu Unrecht entlassenen Dienstnehmers, welcher im Zeitpunkt der Entlassung im Krankenstand war und während der Kündigungsfrist statt des nicht gebührenden Entgeltes das Krankengeld bezog.
+Entscheidung vom 6. Mai 1952, 4 Ob 34/52.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Kläger ist am 17. April 1951 vom Beklagten als Stukkateur aufgenommen worden. Am 8. Mai 1951 erkrankte der Kläger und bezog während der ganzen Krankheitsdauer bis 3. Juni 1951 kein Entgelt, sondern das Krankengeld. Der Beklagte entließ den Kläger mit Karte vom 11. Mai 1951. Dieser verlangt die dreitägige Kündigungsentschädigung in der Höhe von 206.65 S mit der Begründung, daß ein Entlassungsgrund nicht vorliege.
+Das Erstgericht gab der Klage statt. Die Entlassung sei ungerechtfertigt gewesen. Nach § 84 GewO. (§ 1162b ABGB.) müsse der Beklagte dem Kläger den Lohn für die dreitägige Kündigungsfrist (§ 13 des Kollektivvertrages vom 27. November 1948 in der Fassung vom 17. März 1951) bezahlen.
+Infolge Berufung des Beklagten änderte das Berufungsgericht das erstgerichtliche Urteil dahin ab, daß die Klage abgewiesen wurde. Es sei gleichgültig, ob der Kläger vom Beklagten entlassen oder gekundigt werden sollte. Jedenfalls habe der Beklagte während der Kündigungsfrist keinen Anspruch auf Entgelt gehabt, weil er zu dieser Zeit nur das Krankengeld bezogen habe. Sowohl § 1162 ABGB. (gemeint § 1162b) als auch § 85 GewO. (gemeint § 84) hätten nur den Normalfall im Auge, daß die Entlassung aus der Dienstleistung heraus vor sich gehe. Dem Entlassenen stunden aber keine weitergehenden Ansprüche zu als dem Gekundigten, wie es im Arbeitsrecht Maxime sei, daß ohne Arbeitsleistung kein Entgelt bezahlt werde.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+§ 84 GewO. bestimmt, daß der Gewerbeinhaber verpflichtet ist, dem von ihm ohne gesetzlich zulässigen Grund entlassenen Hilfsarbeiter den Lohn und die sonst vereinbarten Genüsse für die ganze Kündigungsfrist bzw. für den noch übrigen Teil der Kündigungsfrist zu vergüten. Damit ist - wie sich insbesondere auch aus § 1162b ABGB. ergibt - nichts anderes normiert, als daß der entlassene Hilfsarbeiter in dem Fall, daß die Entlassung ungerechtfertigt wäre, ebenso gestellt ist wie der gekundigte. Im § 1162b ABGB. ist dies ganz deutlich durch die Worte "behält dieser ... seine vertragsgemäßen Ansprüche auf das Entgelt für den Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch ordnungsmäßige Kündigung hätte verstreichen müssen ..." ausgedrückt. Der Beisatz von der Anrechnung des vom Dienstnehmer Ersparten oder anderweitig Erworbenen und die Einschränkung der Anrechnung auf Kündigungsfristen über drei Monate bedeutet allerdings eine Strafe für den Dienstgeber, der einen Dienstnehmer ohne Grund entläßt, denn er muß unter Umständen die Kündigungsentschädigung bezahlen, ohne daß dafür Dienst geleistet wird. Es handelt sich bei dieser Bestimmung aber um nichts anderes, als daß die Vorschriften über die Kündigungsentschädigung bei ordnungsmäßiger Kündigung, die naturgemäß von der Leistung des Dienstes während der Kündigungsfrist ausgehen, auf den Fall der ungerechtfertigten Entlassung, bei dem kein Dienst mehr geleistet wird, angepaßt werden. In beiden Fällen soll aber der Dienstnehmer möglichst gleichgestellt werden. Er soll - sei es, daß er während der Kündigungsfrist Dienst leistet oder nicht - für diese Zeit jedenfalls das Entgelt bekommen (Plen.Beschl. des Obersten Gerichtshofes vom 11. Dezember 1934, JB. 49, SZ. XVI/240, Arb.Slg. 4516; OGH.-E. v. 2. Feber 1926, SZ. VIII/41). In beiden Fällen ist aber vorausgesetzt, daß der Dienstnehmer auch bei ordnungsmäßiger Kündigung überhaupt einen Anspruch geltend machen kann.
+Kann er dies nicht, weil er sich zur Zeit der Kündigung im Krankenstand befindet und statt des nichtgebührenden Entgelts (§ 10 II 1a des Kollektivvertrages für das Bauhilfsgewerbe vom 27. November 1948) Krankengeld bezieht, ist ihm der Anspruch auf die Kündigungsentschädigung auch verwehrt, wenn er unzulässigerweise entlassen wurde. Anderenfalls würde der Dienstnehmer über den Inhalt des Gesetzes hinaus besser gestellt sein, wenn er ohne Grund entlassen wurde. Ein Größenschluß aus § 1162b ABGB., wie ihn der Revisionswerber im Auge hat, ist ausgeschlossen, weil dadurch der Dienstnehmer gegen das Gesetz, das vom "Behalten" der vertragsmäßigen Ansprüche spricht, begünstigt werden würde.
+Es kann auch nicht gesagt werden, daß § 82 lit. h GewO. bei der hier vertretenen Rechtsauffassung umgangen werden könnte. Denn wenn auch die Entlassung des Dienstnehmers bei Krankheit erst nach deren Dauer von über vier Wochen zulässig ist, ist doch die Kündigung schon früher möglich. Daß in besonders gelagerten Fällen das finanzielle Ergebnis gleich ist, vermag an der Richtigkeit der Überlegungen nichts zu ändern.

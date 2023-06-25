@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.12.1951
+Geschäftszahl
+2Ob527/51
+Norm
+ABGB §905 Abs2;
+ABGB §1412;
+Kopf
+SZ 24/347
+Spruch
+Bei Einzahlung auf ein Postscheckkonto ist die Rechtzeitigkeit der Zahlung, gleichgültig ob sie mit Erlagschein mit oder ohne eingedruckter Kontonummer (grünem oder grauem Erlagschein) vorgenommen wurde, nach dem Tage der Einzahlung beim Postamt und nicht der Gutschrift auf dem Konto zu beurteilen, weil Geldschulden Schickschulden sind.
+Entscheidung vom 28. Dezember 1951, 2 Ob 527/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die betreibende Partei macht den in einem gerichtlichen Vergleich vereinbarten Terminsverlust in einem Exekutionsantrage mit der Begründung geltend, daß die fällig gewordene Rate nicht am Fälligkeitstag bei ihr eingelangt, sondern an diesem Tag erst vom Verpflichteten mit einem Erlagschein ihres Vertreters beim Postamt eingezahlt worden sei.
+Das Erstgericht bewilligte die beantragte Exekution.
+Das Rekursgericht wies den Exekutionsantrag ab.
+Der Oberste Gerichtshof bestätigte den Beschluß des Rekursgerichtes.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Rechtsmeinung des Rekursgerichtes, daß der Inhaber eines Postscheckkontos Zahlungen auf dieses Konto gegen sich gelten lassen müsse, entspricht der herrschenden Lehre und der Rechtsprechung (E. v. 6. Juli 1933, SZ. XV/153 u. a.). Die Geschäftsbestimmungen des österreichischen Postsparkassenamtes für den Scheckverkehr unterscheiden zwar im § 14 zwischen der Einzahlung auf Erlagschein mit eingedruckter Kontonummer und der Einzahlung auf Erlagschein ohne eingedruckte Kontonummer. Im ersteren Falle gelten die Postsparkasse und ihre Sammelstellen als Beauftragte des begünstigten Kontoinhabers, in letzterem Fall bis zur Gutschrift als Beauftragte des Einzahlers. Diese Unterscheidung hat aber nur dann praktische Bedeutung, wenn der Einzahler die Kontonummer oder den begünstigten Kontoinhaber auf dem grauen Erlagschein unrichtig angegeben hat. Gemäß § 65 der Geschäftsbestimmungen für den Scheckverkehr des österreichischen Postsparkassenamtes werden Guthaben auf den Scheckkonten nicht verzinst. Geldschulden sind nach der herrschenden Lehre Schickschulden. Die Zahlung ist auch dann rechtzeitig geleistet, wenn der Betrag am Zahlungstag vom Wohnort des Schuldners abgesendet worden ist, soferne der Betrag nur beim Gläubiger wirklich einlangt (vgl. das in der Entscheidung SZ. XV/153 angegebene Schrifttum und die dort angeführte Rechtsprechung). Da die geschuldete Rate am 15. Mai 1951 von der verpflichteten Partei bei dem Postamte ihres Wohnortes auf das Postscheckkonto des Rechtsanwaltes der betreibenden Partei eingezahlt wurde, ist die Zahlung rechtzeitig geleistet, gleichgültig, wann die Gutschrift erfolgte.

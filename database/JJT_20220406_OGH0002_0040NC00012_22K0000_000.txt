@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.04.2022
+Geschäftszahl
+4Nc12/22k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und Hon.-Prof. PD Dr. Rassi als weitere Richter in der Rechtssache der klagenden Parteien 1. R* P*, 2. J* P*, beide *, vertreten durch Skribe Rechtsanwaelte GmbH in Wien, gegen die beklagte Partei E* Ltd, *, wegen 500 EUR sA, über den Ordinationsantrag der klagenden Partei den
+Beschluss
+gefasst:
+Spruch
+Als örtlich zuständiges Gericht wird das Bezirksgericht Schwechat bestimmt.
+Text
+Begründung:
+[1] 		Die Kläger beabsichtigen, Ansprüche aufgrund der Fluggastrechte-Verordnung (EG) Nr 261/2004 gegen ein Luftfahrtunternehmen mit Sitz in Großbritannien geltend zu machen. Die Ansprüche stützen sich auf die Verspätung des Fluges U28959 am 7. 7. 2019 von London nach Wien.
+[2] 		Die Kläger beantragen die Ordination nach § 28 Abs 1 Z 2 JN. Eine Rechtsverfolgung in Großbritannien stelle für sie als Verbraucher eine übermäßige Erschwernis dar. Eine Vollstreckung britischer Entscheidungen in Österreich sei mangels Gegenseitigkeit gar nicht möglich.
+Rechtliche Beurteilung
+[3] 		Der Ordinationsantrag ist berechtigt.
+[4] 		1. Für den Fall, dass für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts nicht gegeben oder nicht zu ermitteln sind, bestimmt § 28 Abs 1 Z 2 JN, dass der Oberste Gerichtshof aus den sachlich zuständigen Gerichten eines zu bestimmen hat, welches für die fragliche Rechtssache als örtlich zuständig zu gelten hat, wenn der Kläger österreichischer Staatsbürger ist oder seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre.
+[5] 		2. § 28 Abs 1 Z 2 JN soll Fälle abdecken, in denen trotz Fehlens eines inländischen Gerichtsstands ein Bedürfnis nach Gewährung von inländischem Rechtsschutz besteht, weil die Sache ein Naheverhältnis zum Inland aufweist und im Einzelfall eine effektive Klagemöglichkeit im Ausland fehlt (RS0057221 [T4]). Letzteres wird insbesondere dann angenommen, wenn eine Exekution im Inland angestrebt wird, eine am Sitz des Beklagten ergangene Entscheidung hier aber nicht vollstreckt würde (RS0046148 [T17]).
+[6] 		3. Auf dieser Grundlage hat der Oberste Gerichtshof Ordinationsanträgen bereits in einer Vielzahl von Entscheidungen stattgegeben, wenn der Kläger Ansprüche nach der EU-FluggastVO sonst in einem Drittstaat einklagen müsste und zwischen diesem Drittstaat und Österreich kein Vollstreckungsübereinkommen besteht (etwa für Serbien [6 Nc 1/19b], die Vereinigten Arabischen Emirate [4 Nc 11/19h], die Ukraine [4 Nc 23/19y], Ägypten [8 Nc 18/20v] oder Mexiko [4 Nc 20/20h]). Auch im Verhältnis zum seit 1. 1. 2021 als Drittstaat anzusehenden Vereinigten Königreich Großbritannien und Nordirland liegt eine vergleichbare Situation vor:
+[7] 		4. Entscheidungen eines britischen Gerichts, die in einem nach dem Ablauf des 31. 12. 2020 eingeleiteten gerichtlichen Verfahren ergehen, können nicht mehr nach den Regeln der EuGVVO vollstreckt werden (Art 67 Abs 2 lit a des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft, 2019/C 384 I/01). Auch eine Vollstreckung britischer Entscheidungen in Österreich nach dem EuGVÜ oder dem LGVÜ kommt nicht in Betracht (Exenberger/Karl, Anerkennung und Vollstreckung zivilgerichtlicher Entscheidungen Post-Brexit, ecolex 2021/227, 320; vgl auch Cap, BREXIT – Die justizielle Zusammenarbeit mit dem Vereinigten Königreich in Zivilrechtssachen nach 31. 12. 2020, RZ 2021, 124 [127 f]). Es bleibt damit – jedenfalls im hier zu beurteilenden Fall – nur ein Rückgriff auf den bilateralen Vollstreckungsvertrag.
+[8] 		5. Nach dem Vertrag zwischen der Republik Österreich und dem Vereinigten Königreich von Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen, BGBl 1962/224 idgF, werden grundsätzlich nur Entscheidungen in Zivil- und Handelssachen eines „oberen Gerichts“ (Art II Abs 1 iVm Art I Z 2 lit a) nach einem (auch Fragen der Zuständigkeit umfassenden) Exequaturverfahren (Art III) anerkannt und vollstreckt. Da es den Klägern im vorliegenden Fall im Hinblick auf die geringe Höhe ihrer Forderung die Erlangung einer Entscheidung eines britischen „oberen Gerichts“ kaum möglich sein wird, ist von einer faktischen Unmöglichkeit der Exekutionsführung in Österreich aufgrund eines in Großbritannien erlangten Titels auszugehen.
+[9] 		6. Die Voraussetzungen für eine Ordination nach § 28 Abs 1 Z 2 JN liegen damit vor (im Ergebnis ebenso bereits 6 Nc 1/22g [Sitz der Airline in Großbritannien]).
+[10] 		7. Bei der Auswahl des zu bestimmenden Gerichts ist auf die Kriterien der Sach- und Parteinähe sowie der Zweckmäßigkeit Bedacht zu nehmen (RS0106680 [T13]). Unter Berücksichtigung dieser Vorgaben hat eine Zuweisung an das Bezirksgericht Schwechat zu erfolgen, lag doch der Ankunftsort in dessen Sprengel.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040NC00012.22K.0406.000

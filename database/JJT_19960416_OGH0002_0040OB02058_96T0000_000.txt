@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.04.1996
+Geschäftszahl
+4Ob2058/96t
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten des Obersten Gerichtshofes HonProf.Dr.Gamerith als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr.Kodek, Dr.Niederreiter, Dr.Tittel und Dr.Griß als weitere Richter in der Rechtssache der klagenden Partei P***** GesellschaftmbH, ***** vertreten durch Dr.Harald Schmidt, Rechtsanwalt in Wien, wider die beklagte Partei R***** GesellschaftmbH, ***** vertreten durch Dr.Christian Kleinszig und Dr.Christian Puswald, Rechtsanwälte in Sankt Veit an der Glan, wegen Patenteingriffs (Streitwert S 1 Mio., Revisionsinteresse S 800.000,--), infolge außerordentlicher Revision der Beklagten gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 19. Jänner 1996, GZ 5 R 146/95-25, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision der Beklagten wird gemäß § 508 a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 22a PatG idF BGBl 1984/234 wird der Schutzbereich des Patentes und der bekanntgemachten Anmeldung (§ 101 Abs 2) durch den Inhalt der Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen. Dabei ist das Protokoll über die Auslegung des Artikels 69 des Europäischen Patentübereinkommens, BGBl 1979/350, in der jeweils geltenden Fassung sinngemäß anzuwenden.
+Auch wenn es daher richtig ist, daß - entgegen der Auffassung des Berufungsgerichtes - die Beschreibung und die Zeichnungen nicht nur dann heranzuziehen sind, wenn der Patentanspruch unklar oder zweideutig formuliert ist, folgt daraus nicht, daß der Begriff "Steuerschalter" eng auszulegen wäre. Nach der Patentbeschreibung soll "ein geeigneter Steuerschalter" das automatische Zuschalten der Lenkeinrichtung in Abhängigkeit von der Verriegelungsvorrichtung erlauben. Mit der Lenkeinrichtung sollen die Hinterräder in Abhängigkeit von der Lenkung der Zugmaschine, beispielsweise über einen elektrischen oder hydraulischen Antrieb, gelenkt werden.
+Nach den Feststellungen des Erstgerichtes ist es für den Fachmann auf dem betreffenden Gebiet klar, daß Lenkeinrichtungen und Verriegelungsvorrichtungen der in Frage stehenden Art elektrisch oder hydraulisch betätigt werden können und daß demgemäß ein "Steuerschalter" eine Steuereinrichtung bildet, die als Rechner und/oder als gesteuerter Hydraulikschalter (= Hydraulikventil) ausgebildet sein kann. Es ist daher nicht richtig, daß die Beklagte mit der elektronischen Steuerung einen "Steuerschalter" verwendete, welcher sich vom "Steuerschalter" der patentierten Erfindung wesentlich unterschiede.  Das Erstgericht hat vielmehr in Übereinstimmung mit dem von ihm eingeholten Sachverständigengutachten
+festgestellt, daß an dem vom Sachverständigen begutachteten Fahrzeug die Merkmale des Klagspatentes verwirklicht sind. Auch die  von der Beklagten zitierte Rechtsprechung (ÖBl 1985, 38 - Befestigungsvorrichtung für Fassadenelemente), wonach (nur) technische Maßnahmen, die sich von den Patentansprüchen nur unwesentlich unterscheiden, nicht aus dem Schutzbereich des Patentes fallen, kann demnach zu keinem für die Beklagte günstigeren Ergebnis führen.
+Mängel des Verfahrens erster Instanz, die das Berufungsgericht verneint, können in der Revision nicht mehr gerügt werden (stRsp ua SZ 62/157 = JBl 1990, 535 uva; Kodek in Rechberger, ZPO § 503 Rz 3). Das Beseitigungsbegehren ist nicht unbestimmt.

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob167/19p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** SE, *****, vertreten durch Walch/Zehtbauer/Motter Rechtsanwälte OG in Wien, gegen die beklagte Partei H***** GmbH, *****, vertreten durch Rechtsanwälte Greiter Pegger Kofler & Partner in Innsbruck, wegen 90.185,47 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 21. August 2019, GZ 10 R 33/19g-138, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der klagende Transportversicherer des Absenders, der den beklagten Hauptfrachtführer in Anspruch nimmt, zeigt in der Revision keine erhebliche Rechtsfrage auf:
+1. Die CMR regelt – wie auch das UGB – nicht, ob der Frachtführer auch zur Verladung und Verstauung des Gutes verpflichtet ist (RS0073725 [insb T2]). Sowohl im Anwendungsbereich der CMR als auch des UGB wird angenommen, dass die Verladung im Zweifel, namentlich – wie hier – ohne abweichende Vereinbarung, Sache des Absenders ist (RS0073756 [T1, T6]). Nach § 425 UGB übernimmt nämlich der Frachtführer (nur) die Ausführung der Beförderung von Gütern (7 Ob 135/18f). Demnach liegt das Laden außerhalb des Beförderungsvertrags (RS0073756 [T2]) und der Absender haftet für Schäden, die auf seine eigene fehlerhafte Verladung zurückzuführen sind (RS0073756 [T3]), wobei die Sicherung des Ladegutes (Sicherung durch Gurten) als Bestandteil des Verladevorgangs anzusehen ist (RS0103800). Der Oberste Gerichtshof hat auch schon mehrfach festgehalten, dass die tatsächliche Mithilfe des Fahrers bei der Verladung keine Rolle spielt, wenn die Verladung nicht dem Frachtführer oblag, weil diese Mithilfe dann nicht Gegenstand der vertraglichen Pflichten aus dem Frachtvertrag war und eine Handlung außerhalb des Haftungszeitraums darstellte (RS0073835).
+2. Die Ansicht des Berufungsgerichts, nach der
+– mangels abweichender Vereinbarung – die Versicherungsnehmerin der Klägerin (Absender) zur Verladung und Sicherung des Transportgutes verpflichtet war und daran auch die tatsächliche Vornahme der Sicherung des Ladegutes mit Gurten durch den Fahrer nichts änderte, entspricht den zuvor dargestellten Judikaturgrundsätzen. War demnach nicht die Beklagte (Hauptfrachtführer), sondern die Versicherungsnehmerin der Klägerin (Absender) zur Verladung und Sicherung des Transportgutes verpflichtet, dann kann auch der Fahrer des Subfrachtführers betreffend diese Tätigkeit nicht nach § 1313a ABGB Erfüllungsgehilfe der Beklagten gewesen sein.
+3. War die Verladung und Sicherung des Transportgutes Sache der Versicherungsnehmerin der Klägerin (Absender) und demnach die Mithilfe des Fahrers durch Anbringung der Gurten nicht Gegenstand der vertraglichen Pflichten aus dem Frachtvertrag, dann lag diese Handlung außerhalb des Obhuts- und des Haftungszeitraums des Frachtführers (RS0073835) und stand daher – entgegen der Ansicht der Klägerin – in keinem „inneren sachlichen Zusammenhang“ mit der Erbringung der vom Hauptfrachtführer geschuldeten Hauptleistung. Schließlich bestehen nach den erstgerichtlichen Feststellungen auch keinerlei Hinweise dahin, dass während des Obhuts- und Haftungszeitraums des Frachtführers, also während des Transports, allfällige Abhilfemaßnahmen des Fahrers auslösende Defizite der Ladungssicherung erkennbar geworden wären. Damit besteht insgesamt keine Grundlage für eine Haftung des Hauptfrachtführers.
+4. Die Klägerin macht demnach keine erhebliche Rechtsfrage geltend. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist daher die Revision nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00167.19P.0424.000

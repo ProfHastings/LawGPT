@@ -1,0 +1,63 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.11.2007
+Geschäftszahl
+7Ob6/07v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofes Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofes Hon.-Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, Linke Wienzeile 18, 1060 Wien, vertreten durch Kosesnik-Wehrle & Langer Rechtsanwälte KEG in Wien, gegen die beklagte Partei V*****, vertreten durch DLA Piper Weiss-Tessbach Rechtsanwälte GmbH in Wien, wegen Unterlassung und Urteilsveröffentlichung (Gesamtstreitwert EUR 26.000), über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 28. September 2006, GZ 5 R 69/06p-24, womit infolge Berufungen beider Parteien das Urteil des Handelsgerichtes Wien vom 20. Jänner 2006, GZ 19 Cg 50/05g-16, teilweise abgeändert wurde, den Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 1.315,08 (darin enthalten EUR 219,18 an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 510 Abs 3 letzter Satz ZPO kann sich die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs 1 ZPO) auf die Ausführung der Zurückweisungsgründe beschränken.
+Die Zulassungsbegründung beruft sich darauf, dass der Oberste Gerichtshof über die Zulässigkeit von Vertragsklauseln bei fondsgebundenen Lebensversicherungen noch nicht entschieden habe. Entgegen diesem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichtes ist die Revision mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig. Vorauszuschicken ist, dass hier die seit 1. 1. 2007 in Kraft stehenden Bestimmungen der §§ 174 und 176 VersVG und § 18b VAG in der Fassung des Versicherungsrechts-Änderungsgesetzes (VersRÄG) 2006, BGBl I Nr 95/2006, noch nicht anzuwenden sind (§ 191c Abs 8 VersVG, § 129j Abs 1 VAG).
+Der Oberste Gerichtshof hat sich nun bereits mehrfach mit (jeweils vom selben Kläger erhobenen) Verbandsklagen befasst, die in Allgemeinen Versicherungsbedingungen (AVB) von Lebensversicherern enthaltene Klauseln zum Gegenstand hatten. Davon haben die jeweils am 17. 1. 2007 ergangenen Entscheidungen 7 Ob 131/06z, 7 Ob 140/06y und 7 Ob 173/06a klassische (kapitalbildende) Lebensversicherungen betroffen, während sich die in den Entscheidungen zu 7 Ob 23/07v und 7 Ob 233/06z (jeweils vom 9. 5. 2007), 7 Ob 4/07z (vom 30. 5. 2007), 7 Ob 82/07w (vom 20. 6. 2007) sowie 7 Ob 151/07t (vom 17. 10. 2007) zu beurteilenden Klauseln - wie hier - auf fondsgebundene Lebensversicherungen bezogen. In diesen einschlägigen Entscheidungen wurden unter anderem auch solche Klauseln beurteilt, die den im vorliegenden Fall zu beurteilenden Klauseln 1 und 3 bis 8 (nahezu) wortgleich oder ganz vergleichbar sind. Es trifft demnach nicht (mehr) zu, dass hinsichtlich dieser Klauseln oberstgerichtliche Judikatur zu vergleichbaren Klauseln fehle. Ebenso wie in der hier angefochtenen Entscheidung wurden alle diese Klauseln vom Obersten Gerichtshof für intransparent oder sonst gesetzwidrig beurteilt.
+Die vorliegenden Klauseln lauten wie folgt:
+„Klausel 1:
+Wir führen Ihren Beitrag, soweit er nicht zur Deckung der Abschluss- und Verwaltungskosten vorgesehen ist, den Anlagestöcken zu und
+rechnen ihn in Anteilseinheiten um.
+Klausel 2:
+Wird der Einlösungsbetrag nicht rechtzeitig bezahlt, so können wir - solange die Zahlung nicht bewirkt ist - vom Vertrag zurücktreten.
+Klausel 3:
+Der Wert des zur Verfügung stehenden Deckungskapitals (vgl § 1 Z 4) zum Stichtag gemäß § 1 Z 7 mindert sich um einen prozentuellen Abzug sowie um ausstehende Beträge. Die Höhe des prozentualen Abschlages ist in der folgenden Tabelle dargestellt:
+Abzug im jeweiligen Versicherungsjahr (in %)
+Beitrags-  1   2   3   4  5  6  7  8  9  10  mehr
+zahlungs-                                    als
+dauer in                                     10
+Jahren
+5       100  25  15  8  3  0  0  0  0   0   0
+6       100  30  20 10  5  3  0  0  0   0   0
+7       100  35  25 15  8  5  3  0  0   0   0
+8       100  40  30 15 10  5  3  3  0   0   0
+9       100  45  35 20 10  8  5  3  3   0   0
+10-14     100  60  50 30 20 15 10  5  3   0   0
+15-17     100  70  60 40 25 20 15 10  5   3   0
+18-20     100  85  75 50 30 25 15 10  5   3   0
+21-23     100 100  90 60 40 30 20 10  5   3   0
+23-29     100 100 100 80 50 40 25 15 10   3   0
+über 29   100 100 100 85 50 40 25 15 10   3   0
+Klausel 4:
+Der Wert des bei Beitragsfreistellung zur Verfügung stehenden Deckungskapitals erreicht nicht unbedingt die Summe der eingezahlten Beiträge, da aus diesen auch die Abschlusskosten finanziert werden (vgl § 18) und der oben erwähnte Abzug erfolgt.
+Klausel 5:
+Nach Kündigung erhalten Sie - soweit vorhanden - den Rückkaufswert.
+... Dabei erfolgt derselbe Abzug, der bei einer Beitragsfreistellung
+nach § 6 Z 2 vorgenommen würde.
+Klausel 6:
+Der Rückkaufswert erreicht nicht unbedingt die Summe der eingezahlten
+Beiträge, da aus diesen auch die Abschlusskosten finanziert werden
+(vgl § 18) und der oben erwähnte Abzug erfolgt.
+Klausel 7:
+Ist die Leistung in ein Land außerhalb des Großherzogtums Luxemburg
+zu überweisen, trägt der Empfangsberechtigte neben den Kosten auch
+die damit verbundene Übermittlungsgefahr.
+Klausel 8:
+Durch den Abschluss von Versicherungsverträgen entstehen Kosten. Diese so genannten Abschlusskosten sind pauschal bei der Tarifkalkulation durch beitragsabhängige und beitragsunabhängige Bestandteile berücksichtigt. Die Tilgung des bei der Beitragskalkulation in Ansatz gebrachten beitragsabhängigen Bestandteiles erfolgt in gleichmäßigen Beträgen gemäß der Zahlungsweise des Beitrages aus ihren ab Versicherungsbeginn eingehenden Beiträgen bis zum Ende des zehnten Versicherungsjahres. Der beitragsunabhängige Bestandteil wird in gleichmäßigen Beträgen aus den eingehenden Beiträgen des ersten Versicherungsjahres getilgt. Das beschriebene Verrechnungsverfahren hat wirtschaftlich zur Folge, dass in der Anfangszeit Ihrer Versicherung die Abschlusskosten den zur Anlage bestimmten Teil des Beitrages (vgl § 3 Z 1) mindern. Die Klauseln 1, 3 bis 6 und 8 sind insofern einheitlich zu behandeln, als ihre Unwirksamkeit zufolge Intransparenz (§ 6 Abs 3 KSchG) und (allenfalls auch) Verstoßes gegen § 176 Abs 4 VersVG jeweils auf dem Mangel der Festsetzung und Offenlegung der Gesamtkostenbelastung (insbesondere der Höhe von Abschlusskosten, Verwaltungskosten, Rückkaufs- und Stornoabzügen) beruht (vgl 7 Ob 82/07w). Sie entsprechen im Wesentlichen - zum Teil sogar wortgleich - den jeweiligen Klauseln in den Entscheidungen 7 Ob 233/06z, 7 Ob 4/07z, 7 Ob 23/07v und 7 Ob 151/07v, die als intransparent im Sinn von § 6 Abs 3 KSchG und als unwirksam im Sinn der §§ 176 Abs 4 und 173 Abs 3 VersVG erkannt wurden. Sämtliche Argumente, die die Revisionswerberin gegen die betreffenden Ausführungen des Berufungsgerichtes vorbringt, wurden im Wesentlichen bereits in den genannten (Vor)Verfahren vorgetragen und vom Obersten Gerichtshof für nicht stichhältig befunden (7 Ob 82/07w). Da auch im vorliegenden Fall feststeht, dass die Tabelle keine Angaben zur Höhe des Stornoabzuges enthält (RIS-Justiz RS0121730), sodass sie auch nicht Vertragsinhalt wurde (7 Ob 4/07z), kommt es darauf, ob und wann allenfalls die Rückkaufswerttabellen den Versicherungsnehmern zukamen, nicht mehr an (7 Ob 151/07t = RIS-Justiz RS0121730 [T3]). Im Unterlassungsprozess nach § 28 KSchG kann auf eine etwaige teilweise Zulässigkeit der beanstandeten Bedingungen nicht Rücksicht genommen werden, für eine geltungserhaltende Reduktion ist kein Raum (RIS-Justiz RS0038205; 7 Ob 151/07t [eine gleichartige Tabelle betreffend]). Die Klausel 7 entspricht fast wörtlich der Klausel 2 (= § 9 Abs 1 AVB) in 7 Ob 233/06z, der Klausel 6 in 7 Ob 4/07z und der Klausel 3 in 7 Ob 23/07v, die in diesen Entscheidungen jeweils gemäß § 879 Abs 3 ABGB als nichtig beurteilt wurden.
+Es liegt also (nunmehr) hinsichtlich dieser Klauseln bereits ausreichend oberstgerichtliche Judikatur vor. Die angefochtene Entscheidung steht damit im Einklang. Maßgebend für die Frage, ob eine erhebliche Rechtsfrage zu entscheiden ist, ist der Stand der Rechtsprechung im Zeitpunkt der Entscheidung durch den Obersten Gerichtshof (RIS-Justiz RS0112921; 7 Ob 82/07w mwN). Den zitierten Entscheidungen lag lediglich eine der Klausel 2 entsprechende Bestimmung (noch) nicht zugrunde. Darauf kann aber die im Zusammenhang mit Verbandsklagen und AVB ergangene Judikatur ohne weiteres angewandt werden, sodass auch sie keine erhebliche Rechtsfrage aufwirft:
+Im Rahmen einer Verbandsklage muss die Auslegung von Klauseln nach ständiger Rechtsprechung stets „im kundenfeindlichsten Sinn" erfolgen; danach ist zu prüfen, ob ein Verstoß gegen ein gesetzliches Verbot oder gegen die guten Sitten vorliegt (RIS-Justiz RS0016590; 7 Ob 82/07w). Demgemäß widerspricht das in der Klausel 2 vorgesehene Rücktrittsrecht aber klar dem (nach § 42 VersVG einseitig zwingenden) § 38 Abs 3 VersVG, der die Möglichkeit dieser Rechtsfolge („Rücktritt vom Vertrag solange die Zahlung nicht bewirkt ist" [§ 38 Abs 1 Satz 1 VersVG]) nur für den Fall vorsieht, dass die Zahlungsaufforderung einen Hinweis auf das Rücktrittsrecht enthält (Knappmann in Prölss/Martin27 § 38 VVG Rn 39 [Punkt 10 c]). Die Rechtsansicht des Berufungsgerichtes, dass diese Klausel - zumindest bei kundenfeindlichster Auslegung - ein weitergehendes Rücktrittsrecht des Versicherers einräume und daher gesetzwidrig sei, ist daher nicht zu beanstanden; sie hält sich im Rahmen der Judikatur. Zuletzt macht die Revision auch noch eine Teilnichtigkeit des Berufungsurteils wegen Überschreitung der Rechtskraftgrenzen geltend, weil ein - in der Berufung der Beklagten nicht gerügter - Verstoß des Erstgerichtes gegen § 405 ZPO (Entscheidung über die Klausel 8 trotz Klagsrückziehung hinsichtlich dieses Teils des Klagebegehrens) im Berufungsverfahren nicht von Amts wegen als Nichtigkeitsgrund aufgegriffen worden sei.
+Richtig ist, dass etwa ein Verstoß gegen die Teilrechtskraft die von der Beklagten monierte Nichtigkeit des davon betroffenen Teils des Berufungsurteils begründen würde (stRsp; SZ 67/117 mwN; RIS-Justiz RS0041170; 7 Ob 271/02g mwN; Kodek in Rechberger³ Rz 2 zu § 503 ZPO). Hier ist dem Berufungsgericht allerdings - entgegen der Auffassung der Revisionswerberin - kein derartiger Vorwurf zu machen; hat es doch den Verstoß des Erstgerichtes gegen § 405 ZPO ohnehin erkannt, dazu jedoch - zutreffend - festgehalten, dass ein solcher nur einen Verfahrensmangel darstelle, der mangels Rüge in der Berufung vom Gericht zweiter Instanz nicht aufzugreifen sei (Seite 8 und 13 der Berufungsentscheidung):
+Nach ständiger Rechtsprechung, auf die der Oberste Gerichtshof auch jüngst verwiesen hat (10 Ob 39/07v), stellt ein Verstoß gegen § 405 ZPO nämlich keine unrichtige rechtliche Beurteilung der Sache und keine Nichtigkeit dar (RIS-Justiz RS0041089) und kann vom Rechtsmittelgericht nur auf Grund einer Mängelrüge beachtet werden (RIS-Justiz RS0041240). Da es sich bei einem Zuspruch in Überschreitung des Klagebegehrens also bloß um einen wesentlichen Verfahrensmangel, nicht aber eine Nichtigkeit handelt, ist es der Beklagten auch verwehrt, die in zweiter Instanz versäumte Rüge - wie nunmehr versucht wird (Seite 41 der Revision) - vor dem Obersten Gerichtshof nachzuholen (RIS-Justiz RS0041117; RS0041124; RS0041240; 3 Ob 12/07x).
+Erhebliche Rechtsfragen werden somit insgesamt nicht geltend gemacht. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+Die Kostenentscheidung gründet sich auf die §§ 41 und 50 ZPO. Der Kläger hat auf die Unzulässigkeit des Rechtsmittels seiner Prozessgegnerin hingewiesen.

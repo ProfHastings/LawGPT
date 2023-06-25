@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2020
+Geschäftszahl
+6Ob192/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Dr. Mag. E*****, vertreten durch Dr. Erich Kafka, Dr. Manfred Palkovits, Rechtsanwälte in Wien, gegen die beklagte Partei A*****, vertreten durch Mag. Robert Igali-Igalffy, Rechtsanwalt in Wien, wegen Übergabe eines Bestandobjekts, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 3. April 2019, GZ 40 R 270/18d-12, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Voraussetzung für die Wirksamkeit der Befristung bei einem Mietvertrag ist gemäß § 29 Abs 1 Z 3 lit a MRG die Einhaltung der Schriftform (RS0112243).
+1.2. Die Schriftform erfordert grundsätzlich die eigenhändige Unterschrift unter dem Text (RS0078934; P. Bydlinski in Koziol/Bydlinski/Bollenberger, ABGB5 § 886 Rz 1).
+1.3. Bei einem zweiseitig verbindlichen Vertrag wie dem Zeitmietvertrag ist dem Formerfordernis der Schriftlichkeit grundsätzlich nur dann entsprochen, wenn beide Parteien den Vertrag unterzeichnet haben (RS0017232; RS0101797 [T1]; vgl RS0014174 [T1]; Dullinger in Rummel/Lukas, ABGB4 § 886 Rz 9; Vonkilch in Hausmann/Vonkilch3 § 29 MRG Rz 23; Würth/Zingher/
+Kovanyi I23 § 29 MRG Rz 12).
+2.1. Der Oberste Gerichtshof hat zu § 29 Abs 1 Z 3 MRG bereits klargestellt, dass das österreichische Recht bei rechtsgeschäftlichen Erklärungen nicht danach unterscheidet, ob diese von einer Vertragspartei selbst oder ihrem Rechtsvertreter verfasst wurden (6 Ob 185/16y). Die eigenhändige Unterfertigung der Befristungsvereinbarung durch die Parteienvertreter steht der Unterfertigung durch die Partei daher gleich (vgl zur Bevollmächtigung RS0017983).
+2.2. Der Fall einer nur mündlich getroffenen, im Korrespondenzweg bloß (ohne Abgabe rechtsgeschäftlicher Willenserklärungen) dokumentierten Befristungsvereinbarung (vgl 6 Ob 25/00w; 6 Ob 185/16y) liegt hier nicht vor. Vielmehr ist die eine Befristung vorsehende rechtsgeschäftliche Willenserklärung im Text der (einheitlichen) Urkunde verkörpert (vgl RS0014174), die von beiden Parteienvertetern eigenhändig unterschrieben wurde.
+2.3. Die Entscheidung des Berufungsgerichts weicht von der Rechtsprechung zu § 29 Abs 1 Z 3 MRG, § 886 ABGB daher nicht ab.
+3.1. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RS0042936; RS0042871; RS0042776).
+3.2. Die Beurteilung der Vorinstanzen, dass mit der auf einem Korrespondenzstück schriftlich angebotenen und von beiden Parteienvertretern unterfertigten Befristungsabrede unabhängig vom Bestehen des im Vorprozess strittigen unbefristeten Mietverhältnisses zwischen den Streitparteien ein unbedingter Endtermin des Mietverhältnisses vereinbart wurde, ist jedenfalls vertretbar und bedarf keiner Korrektur durch den Obersten Gerichtshof im vorliegenden Einzelfall.
+4. Die vom Beklagten behaupteten Mängel des Berufungsverfahrens wurden geprüft, sie liegen jedoch nicht vor (§ 510 Abs 3 ZPO).
+5. Eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO wird in der außerordentlichen Revision daher insgesamt nicht aufgezeigt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00192.19G.0123.000

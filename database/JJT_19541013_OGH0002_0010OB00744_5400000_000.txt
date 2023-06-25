@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.10.1954
+Geschäftszahl
+1Ob744/54
+Norm
+ABGB §1338;
+Amtshaftungsgesetz §1;
+Bundesstraßengesetz §11;
+JN §1;
+Kopf
+SZ 27/256
+Spruch
+Daraus, daß eine Angelegenheit in einem Verwaltungsgesetz der Verwaltungsbehörde übertragen wurde, folgt noch nicht, daß sie eine Hoheitsangelegenheit sein muß.
+Bei der Instandhaltung einer dem Verkehr übergebenen Straße hat die Gebietskörperschaft keine Zwangsgewalt über die Benützer der Straße. Es handelt sich daher um keine Hoheitsangelegenheit.
+Entscheidung vom 13. Oktober 1954, 1 Ob 744/54.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Kläger begehren von der Stadt Wien Ersatz der Kosten der Behebung des Schadens an ihrem Wagen, der dadurch entstanden ist, daß der Wagen in eine schadhafte Stelle der Fahrbahn in der H.-Gasse fuhr, verrissen wurde und an eine Hausmauer anfuhr.
+Das Erstgericht verwarf die von der beklagten Partei erhobene Einrede der Unzulässigkeit des Rechtsweges, während das Rekursgericht ihr Folge gab und die Klage zurückwies.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Kläger Folge und änderte die Rekursentscheidung dahin ab, daß der erstgerichtliche Beschluß wieder hergestellt wurde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Entscheidend ist die Frage, ob im vorliegenden Fall das Amtshaftungsgesetz zur Anwendung gelangt. Gemäß § 1 dieses Gesetzes ist es eine Voraussetzung seiner Anwendung, daß die Organe der belangten Körperschaft bei Herbeiführung des Schadens in Vollziehung der Gesetze gehandelt haben. Darunter ist im Sektor der Verwaltung nur der Bereich der Hoheitsverwaltung zu verstehen (Loebenstein - Kaniak: Kommentar zum Amtshaftungsgesetz, S. 44). Im Gegensatz zur Hoheitsverwaltung steht die Wirtschaftsverwaltung. Die Abgrenzung beider Begriffe ist strittig. Im allgemeinen spricht man von Hoheitsverwaltung da, wo die öffentliche Gewalt dem Untertanen gegenüber mit Befehls- und Zwangsbefugnis ausgestattet ist (Loebenstein - Kaniak a. a. O.). Nach der ständigen Rechtsprechung des Obersten Gerichtshofes, welche mit der herrschenden Lehre (Adamovich: Handbuch des österreichischen Verwaltungrechtes, 5. Aufl., S. 8 ff.) in Einklang steht, ist das maßgebende Merkmal der Wirtschaftsverwaltung darin zu erblicken, daß hier eine grundsätzliche rechtliche Gleichordnung der Körperschaft öffentlichen Rechtes gegenüber den anderen Rechtssubjekten besteht. Der Oberste Gerichtshof sieht keine Veranlassung, von dieser Ansicht abzugehen und lehnt den formellen Begriff der Hoheitsverwaltung (Just: Trennung von Justiz und Verwaltung und das Amtshaftungsgesetz, ÖJZ. 1954, S. 325 f.), wonach im Sinne des Amtshaftungsgesetzes darunter jede Agende zu verstehen ist, die der Verwaltungsbehörde durch besonderes Verwaltungsgesetz anvertraut ist, ab. Diese Auslegung würde zu einer solchen Erweiterung des Begriffes der Hoheitsverwaltung führen, daß streng genommen für den Begriff der Wirtschaftsverwaltung kein Raum mehr bliebe. Denn auch diese wird letzten Endes auf Grund eines Verwaltungsgesetzes ausgeübt. Vielmehr regelt das Verwaltungsrecht meist nur die Einrichtung und den Kompetenzbereich der Organe, die zur Führung der wirtschaftlichen Aufgaben berufen sind. Die Organe führen jedoch die laufende Verwaltung nach den Grundsätzen des Privatrechtes (Adamovich a. a. O.). Daraus also, daß eine Angelegenheit in einem Verwaltungsgesetz der Verwaltungsbehörde übertragen wurde, folgt noch nicht zwingend, daß sie eine Hoheitsangelegenheit sein muß. Vielmehr muß in jedem Fall der Inhalt der übertragenen Agende überprüft werden. Es ist daher zu untersuchen, ob das Erfordernis der Gleichstellung der Körperschaft öffentlichen Rechtes mit den anderen Rechtssubjekten in Angelegenheiten der Straßenverwaltung gegeben ist. Dies muß bejaht werden. Bei Instandhaltung einer dem Verkehr übergebenen Straße hat nämlich die Körperschaft keine andere Funktion zu erfüllen, als etwa der Eigentümer einer Liegenschaft gegenüber den Passanten. Von der Ausübung einer Zwangsgewalt gegenüber den Benützern der Straße kann hiebei keine Rede sein. Weder der Umstand, daß zwischen der Körperschaft und dem Benützer der Straße kein Vertrag besteht, noch der Umstand, daß letzterer gegenüber der Körperschaft kein Klagerecht besitzt, spricht gegen die Annahme eines privatrechtlichen Verhältnisses. Dasselbe ist auch im Verhältnis des Benützers eines Gehsteiges gegenüber dem Eigentümer des Hauses, zu dem der Gehsteig gehört, der Fall. Die Straßenverwaltung fällt daher in das Gebiet der Wirtschaftsverwaltung (Adamovich a. a. O., ferner Antoniolli, allg. Verwaltungsrecht S. 13).
+Der Hinweis auf die im Zusammenhang mit Schadensfällen bei der Kehrichtabfuhr ergangenen Entscheidungen des Obersten Gerichtshofes ist deshalb verfehlt, weil die Kehrichtabfuhr in das Gebiet der sanitären Fürsorge fällt, welche dem Bereich der Hoheitsverwaltung angehört. Hier ist somit das Verhältnis der Über- und Unterordnung und das Weisungsrecht der Körperschaft öffentlichen Rechtes gegeben.

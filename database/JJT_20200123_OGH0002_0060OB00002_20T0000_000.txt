@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2020
+Geschäftszahl
+6Ob2/20t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei O***** D*****, vertreten durch ANWALTGMBH Rinner Teuchtmann in Linz, gegen die beklagte Partei B*****, vertreten durch Pallauf Meißnitzer Staindl & Partner, Rechtsanwälte in Salzburg, wegen 2.343.698,52 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 5. November 2019, GZ 3 R 125/19a-50, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Eine Gesellschaft mbH („GmbH“) wollte ihr angeblich gegen die Beklagte zustehende, hier klagsgegenständliche Forderungen von über 2.000.000 EUR einklagen. Weil sie – abgesehen von den behaupteten Forderungen gegen die Beklagte – vermögenslos war, beantragte sie Verfahrenshilfe. Da trotz entsprechenden Verbesserungsauftrags nicht alle Gesellschafter der GmbH ein Vermögensverzeichnis vorlegten, wurde der Verfahrenshilfeantrag abgewiesen. In der Folge zedierte die GmbH 2016 die Klagsforderungen an den 1996 geborenen vermögenslosen Kläger mit einem damaligen unselbstständigen monatlichen Bruttoeinkommen von 2.200 bis 2.300 EUR. Zweck der Zession war, dem Kostenrisiko des anzustrengenden Verfahrens auszuweichen.
+In weiterer Folge wurde ein Antrag auf Eröffnung eines Insolvenzverfahrens gegen die GmbH mangels kostendeckenden Vermögens abgewiesen. Das Insolvenzgericht sprach aus, neben einem vollstreckbaren Rückstandsausweis des Finanzamts von rund 200.000 EUR seien auch Exekutionen mit Ansprüchen von insgesamt über 150.000 EUR anhängig.
+Die Vorinstanzen wiesen das Klagebegehren mit der wesentlichen Begründung ab, die Zession sei sittenwidrig und rechtsmissbräuchlich und daher unwirksam gewesen, weshalb der Kläger nicht aktivlegitimiert sei.
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers zeigt keine erhebliche Rechtsfrage auf.
+1. Die Beurteilung der Vorinstanzen entspricht ständiger und gesicherter Rechtsprechung (SZ 29/56; RS0032586 [T1]; RS0016540 [T1]).
+2. Der Revisionswerber meint, folgende Rechtsfragen seien solche im Sinne des § 502 Abs 1 ZPO:
+2.1. „Spielen bei der Frage, ob Inkassozessionen sittenwidrig sind und daran anknüpfend bei Fragen der aktiven Klagslegitimation prozessrechtliche Fragen der Verfahrenshilfe eine Rolle oder kommt es hier nur auf die materielle Rechtslage an?“
+Diese Frage ist schon deshalb nicht erheblich, weil sie viel zu allgemein formuliert ist und eine konkrete Rechtsfrage nicht aufwirft.
+2.2. „Stellt es tatsächlich eine sittenwidrige und gemäß § 879 Abs 1 ABGB unzulässige Inkassozession dar, wenn eine juristische Person eine Klagsforderung zum Inkasso an eine natürliche Person abtritt, welche zwar gegenwärtig das Prozesskostenrisiko nicht tragen kann, aber noch viele Jahre monetäre Mittel erwirtschaften kann, wohingegen die juristische Person selbst zum Zeitpunkt der Abtretung und zum Zeitpunkt der Klagseinbringung zahlungsunfähig und vermögenslos sowie im Firmenbuch zu löschen ist?“
+Der Revisionswerber meint, durch die Zession sei die Beklagte im Fall ihres Obsiegens besser gestellt: Gegen die vermögenslose und gemäß § 40 FBG im Firmenbuch zu löschende GmbH hätte sie ihre Kostenforderung nicht durchsetzen können, möglicherweise aber schon gegen den noch jungen Kläger, der im Lauf seines Lebens noch zu Einkommen und Vermögen kommen könne. Die Zession sei daher nicht sittenwidrig.
+Dem ist Folgendes zu entgegnen:
+Gemäß § 63 Abs 2 Satz 1 ZPO ist einer juristischen Person oder einem sonstigen parteifähigen Gebilde die Verfahrenshilfe zu bewilligen, wenn die zur Führung des Verfahrens erforderlichen Mittel weder von ihr (ihm) noch von den an der Führung des Verfahrens wirtschaftlich Beteiligten aufgebracht werden können und die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung nicht als offenbar mutwillig oder aussichtslos erscheint.
+Nach ständiger zweitinstanzlicher Judikatur gehören in aller Regel auch die Gesellschafter einer GmbH zu den wirtschaftlich Beteiligten (OLG Wien HS 15.063 = WR 33; OLG Linz HS 16.202 = EvBl 1987/160; OLG Wien 12 R 276/04b = RW0000644; LGZ Wien MietSlg 60.624). Dies gilt jedenfalls dann, wenn sich der Ausgang des Prozesses auf das Gesellschaftskapital oder den Wert des einzelnen Geschäftsanteils auswirkt (OLG Linz HS 16.202 = EvBl 1987/160; LGZ Wien MietSlg 60.624). Davon ist im vorliegenden Fall, in dem die GmbH Forderungen von über 2.300.000 EUR behauptet, aber Verbindlichkeiten von (nur) etwas über 350.000 EUR feststehen, auszugehen.
+Unter der Voraussetzung, dass die beabsichtigte Prozessführung nicht als offenbar mutwillig oder aussichtslos erschienen wäre, wäre somit der GmbH die Verfahrenshilfe bewilligt worden, wenn auch die Gesellschafter nicht die zur Führung des Verfahrens erforderlichen Mittel hätten aufbringen können. Diesfalls hätte die GmbH das Kostenrisiko des anzustrengenden Verfahrens nicht gehabt.
+Wenn aber der Zweck der Zession die Vermeidung eben dieses Risikos war, lässt dies nur den Schluss zu, dass zumindest ein Gesellschafter der GmbH sehr wohl die zur Führung des Verfahrens erforderlichen Mittel hätte aufbringen können. Damit beabsichtigten aber die Beteiligten, dass sich der oder die Gesellschafter der GmbH entgegen der Vorschrift des § 63 Abs 2 Satz 1 ZPO die Aufbringung der Prozesskosten ersparen sollten. Damit verbunden beabsichtigten sie dadurch (zumindest vorläufig), den Bund durch den Entfall der Gerichtsgebühren und den Rechtsanwaltsstand dadurch, dass ein Rechtsanwalt die Vertretung im Rahmen der Verfahrenshilfe leisten müsste, zu schädigen. Die Sittenwidrigkeit und Rechtsmissbräuchlichkeit dieser Absicht ist evident.
+Mit der Argumentation, der Kläger biete letztlich eine bessere Bonität als die vermögenslose GmbH, versucht der Revisionswerber somit lediglich, die verwerfliche wahre mit der Zession verbundene Absicht zu verschleiern.
+An der Nichtigkeit der Zession gemäß § 879 Abs 1 ABGB und somit an der mangelnden Aktivlegitimation des Klägers ist somit nicht zu zweifeln, weshalb auf die Revisionsausführungen, warum die weiteren Argumente des Erstgerichts für die Unwirksamkeit der Zession nicht vorlägen, nicht mehr eingegangen werden muss.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00002.20T.0123.000

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.05.1963
+Geschäftszahl
+5Ob138/63
+Norm
+Einführungsgesetz zur Jurisdiktionsnorm §1;
+KO §11;
+KO §12 (1);
+Kopf
+SZ 36/70
+Spruch
+Über den Bestand der für öffentliche Abgaben erworbenen Absonderungsrechte entscheidet ausschließlich die Finanzbehörde.
+Entscheidung vom 2. Mai 1963, 5 Ob 138/63.
+I. Instanz: Kreisgericht Wels; II. Instanz: Oberlandesgericht Linz.
+Text
+Der verstorbene Benno G., über dessen Verlassenschaft am 9. November 1962 der Konkurs eröffnet wurde, besaß bei der X-Bank ein Guthaben von 33.270.70 S. Das Finanzamt pfändete mit dem Bescheid vom 15. Oktober 1962 dieses Guthaben zur Hereinbringung geschuldeter Abgaben im Betrage von 45.348 S. Das Drittverbot wurde der X-Bank als Drittschuldnerin am 19. Oktober 1962 zugestellt. Der Masseverwalter steht auf dem Standpunkt, das Finanzamt könne an dem Bankguthaben kein gültiges Pfandrecht erworben haben, weil der Pfändungsbescheid der Verlassenschaft nicht zugestellt werden konnte, da für sie kein gesetzlicher Vertreter vorhanden war, und erst nach der Konkurseröffnung zu seinen Handen zugestellt wurde. Er beantragte, ihm das Verfügungsrecht über das Bankguthaben einzuräumen, solange der Republik Österreich das Absonderungsrecht nicht durch Gerichtsurteil rechtskräftig zuerkannt ist.
+Der Konkurskommissär schloß sich den Argumenten des Masseverwalters an und gab dem Antrag statt.
+Das Rekursgericht hob infolge Rekurses der Finanzprokuratur den Beschluß als nichtig auf und wies den Antrag des Masseverwalters zurück.
+Der Masseverwalter macht im Rekurs mit Berufung auf die Entscheidung SZ. XXI 101 geltend, der Drittschuldnerin sei keine unzulässige Weisung erteilt worden, sie sei an den Gerichtsbeschluß gebunden. Das Konkursgericht habe zu entscheiden, ob eine Pfändung im Konkurse beachtlich sei. Es sei nicht richtig, daß der Konkurskommissär der Pfändung die Rechtswirksamkeit aberkannt habe, er habe nur dem Masseverwalter das Verfügungsrecht eingeräumt, weil von diesem das Absonderungsrecht bestritten und darüber noch nicht rechtskräftig entschieden wurde. Finanzamtliche Absonderungsrechte, über deren Stellung im Konkurs nur die Finanzbehörde zu entscheiden habe, gebe es nach der Konkursordnung nicht. Schließlich behauptet der Masseverwalter, die Frage, ob eine vom Finanzamt vorgenommene Pfändung rechtsgültig sei oder nicht, sei als Vorfrage im streitigen Verfahren zu entscheiden.
+Der Oberste Gerichtshof gab dem Rekurs des Masseverwalters nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Finanzamt hat durch die Zustellung des Zahlungsverbotes an die Bank als Drittschuldnerin ein gültiges Pfandrecht an der Geldforderung des Abgabenschuldners gegen die Bank erlangt (§ 65 (3) AbgEO.). Die Zustellung des Drittverbotes an den Abgabenschuldner oder Verpflichteten ist für den Pfandrechtserwerb des betreibenden Gläubigers belanglos. Daß der Pfändungsbescheid dem Abgabenschuldner vor der Konkurseröffnung nicht mehr zugestellt werden konnte und erst nach der Konkurseröffnung dem Masseverwalter zugestellt wurde, hat nur für den Beginn der Rechtsmittelfrist eine Bedeutung, ist aber auf den Pfandrechterwerb des Finanzamtes ohne Einfluß. Dieses Pfandrecht blieb, obwohl es erst in den letzten 60 Tagen vor der Konkurseröffnung durch Exekution erworben wurde, aufrecht, weil § 12
+(1) KO. Absonderungsrechte, die für öffentliche Abgaben erworben wurden, ausdrücklich ausnimmt. Absonderungsrechte werden gemäß § 11 KO. durch die Konkurseröffnung nicht berührt. Streitigkeiten über den Bestand solcher Rechte sind außerhalb des Konkursverfahrens in dem dazu vorgesehenen Rechtsweg auszutragen. Im Falle einer Abgabenexekution entscheiden darüber die Finanzbehörden, wobei sich das Rechtsmittelverfahren gemäß § 22 AbgEO. nach dem Abgabenrechtsmittelgesetz, BG. vom 9. Februar 1949, BGBl. Nr. 60, richtet. Die Entscheidungen der Finanzbehörden sind für das Gericht nach dem im Art. 94 BVG. ausgesprochenen Grundsatz der Trennung der Justiz von der Verwaltung bindend.
+Der Konkurskommissär hat sich dadurch, daß er dem Masseverwalter das Verfügungsrecht über das gepfändete Bankguthaben einräumte, eine Entscheidungsgewalt angemaßt, die ihm nicht zustand. Mit Recht wurde der Beschluß als nichtig aufgehoben und der Antrag zurückgewiesen. Die Ausführungen des Masseverwalters in seinem Rechtsmittel beruhen offenbar auf einer mißverständlichen Auslegung der Entscheidung SZ.
+XXI 101. In dieser wurde ausgesprochen, daß die Verwertung von Vermögen, das sich in der Masse (§ 1 KO.), also in Verwahrung und Verwaltung des Masseverwalters befindet, nicht dadurch gehindert wird, daß darauf Absonderungs- oder Aussonderungsansprüche erhoben werden und der Masseverwalter diese Ansprüche bestreitet. Hier liegt jedoch der Fall so, daß das Finanzamt eine dem Gemeinschuldner gehörige Forderung pfändete, wobei im Pfändungsbescheid dem Masseverwalter jede Verfügung über die Forderung und insbesondere deren Einziehung untersagt wurde. An dieses Verbot sind der Masseverwalter und das Gericht gebunden und es kann - von der Möglichkeit der Anfechtung abgesehen - nur von den Finanzbehörden in dem dafür vorgesehenen Rechtsmittelweg außer Kraft gesetzt werden. Der Beschluß des Rekursgerichtes war daher zu bestätigen.

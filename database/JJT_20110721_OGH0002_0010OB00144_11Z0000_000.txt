@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.07.2011
+Geschäftszahl
+1Ob144/11z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden und die Hofräte Univ.-Prof. Dr. Bydlinski, Dr. Grohmann, Mag. Wurzer und Mag. Dr. Wurdinger als weitere Richter in der Rechtssache der klagenden Partei Dr. Edgar B*****, vertreten durch Neumayer Walter & Haslinger Rechtsanwältepartnerschaft in Wien, gegen die beklagte Partei A***** AG, *****, vertreten durch Grohs Hofer Rechtsanwälte GmbH in Wien, wegen Wiederaufnahme des Verfahrens 48 Cg 56/10k des Handelsgerichts Wien (Streitwert 49.920 EUR sA) über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 19. Mai 2011, GZ 4 R 140/11d-5, mit dem der Beschluss des Handelsgerichts Wien vom 10. März 2011, GZ 48 Cg 36/11w-2, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird nach § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Oberste Gerichtshof hat bereits ausgesprochen, dass das Rücktrittsrecht nach § 5 Abs 1 Kapitalmarktgesetz (KMG) an die Nichtveröffentlichung eines Prospekts nach dem KMG trotz Prospektpflicht nach § 2 Abs 1 KMG anknüpfe. Die Nichtveröffentlichung bloß endgültiger Bedingungen löse hingegen kein Rücktrittsrecht nach § 5 Abs 1 KMG aus (8 Ob 38/11p; 5 Ob 56/11p).
+Die Kläger brachten in ihrer Wiederaufnahmsklage vor, sie hätten erst nach Zustellung des Urteils im Vorprozess erfahren, dass die endgültigen Bedingungen zum Wertpapier „Dragon FX Garant“ niemals auf der Homepage der irischen Börse oder jener der Irish Financial Services Regulatory Authority (IFSRA) abrufbar bzw verfügbar gewesen seien.
+Die Vorinstanzen wiesen die Klage im Vorprüfungsverfahren zurück, weil diese Tatsache für das Ergebnis des Vorprozesses nicht relevant sei.
+Der außerordentliche Revisionsrekurs des Klägers zeigt keine erhebliche Rechtsfrage auf.
+Rechtliche Beurteilung
+Noch im Rekurs sprach der Kläger wiederholt ausdrücklich von „endgültigen Bedingungen“. Sein erstmals im außerordentlichen Revisionsrekurs erhobenes Vorbringen, weder der Basisprospekt noch dessen Nachtrag habe zwingend vorgeschriebene Angaben enthalten, weshalb die Beurteilung der Chancen und Risiken des Produkts ohne Einbeziehung der „endgültigen Bedingungen“ nicht möglich sei und diese in Wahrheit einen zwingenden Prospektnachtrag iSd § 6 KMG darstellten, ist eine im Revisionsrekursverfahren unzulässige und damit unbeachtliche Neuerung. Enthält ein Rechtsmittel nur in bestimmten Punkten eine Rechtsrüge, so können nach der ständigen Rechtsprechung des Obersten Gerichtshofs zudem andere Punkte in der Revision bzw im Revisionsrekurs nicht mehr geltend gemacht werden, soweit es - wie im vorliegenden Fall - um mehrere selbständig zu beurteilende Rechtsfragen geht (RIS-Justiz RS0043353 [T33]).

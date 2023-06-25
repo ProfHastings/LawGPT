@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2018
+Geschäftszahl
+3Ob37/18i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei A*, vertreten durch Dr. Joachim Tschütscher, Rechtsanwalt in Innsbruck, gegen die beklagten Parteien 1. V*, 2. M*, beide vertreten durch Dr. Christian Pichler, Rechtsanwalt in Reutte, wegen Räumung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 21. Dezember 2017, GZ 4 R 257/17y-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ein die Auflösung eines Mietvertrags nach § 1118 zweiter Fall ABGB rechtfertigender qualifizierter Zinsrückstand liegt vor, wenn der Mieter den Zins trotz gehöriger Mahnung nicht bis zum nächsten, der Mahnung nachfolgenden Zinstermin gezahlt hat (RIS-Justiz RS0021152). Hat der Bestandgeber den Bestandnehmer vor Zustellung der Räumungsklage gemahnt, ist die auf § 1118 zweiter Fall ABGB gestützte Mietzins- und Räumungsklage des Vermieters als – mit Zustellung der Klage zugegangene – Erklärung der Auflösung des Mietverhältnisses zu werten (RIS-Justiz RS0105354). Erfolgt die Einmahnung iSd § 1118 ABGB hingegen erst durch die Klagezustellung, können Zinsrückstände das Räumungsbegehren nur dann rechtfertigen, wenn sie wenigstens zu irgendeinem Zeitpunkt des erstinstanzlichen Verfahrens qualifiziert iSd § 1118 zweiter Fall ABGB waren und der Bestandnehmer nach der Mahnung mit der rückständigen Zinsschuld für eine vorangegangene Periode länger als bis zum nächsten Zinstermin in Rückstand geblieben ist (RIS-Justiz RS0127321).
+2. Voraussetzung für den Erfolg der Räumungsklage gegen mehrere Mitmieter, wie hier die beiden Beklagten, ist nach ständiger Rechtsprechung die Einmahnung des rückständigen Bestandzinses gegen jeden einzelnen von ihnen (RIS-Justiz RS0017291; jüngst 3 Ob 191/15g). Anderes gilt nur im – hier nicht vorliegenden – Fall, dass die Parteien des Mietvertrags eine Vereinbarung getroffen haben, wonach der von einem Mieter verwirklichte Auflösungsgrund auch gegen den anderen wirkt; nur dann reicht es für die Geltendmachung eines Zahlungsrückstands als Auflösungsgrund gegen mehrere Mitschuldner auch aus, dass nur einer von ihnen vorher unter Gewährung einer Nachfrist gemahnt wurde (4 Ob 2307/96k = RIS-Justiz RS0017291 [T1]).
+3. Von dieser Rechtsprechung sind die Vorinstanzen mit ihrer rechtlichen Beurteilung, dass die nur an den Erstbeklagten adressierte Einmahnung des (letztlich bereits vor Zustellung der Räumungsklage beglichenen) rückständigen Mietzinses für November 2016 nicht auch gegen die – unstrittig nicht gesondert gemahnte –Zweitbeklagte wirkte, nicht abgewichen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E121333

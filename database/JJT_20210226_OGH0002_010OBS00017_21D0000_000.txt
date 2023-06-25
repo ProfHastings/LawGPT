@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.2021
+Geschäftszahl
+10ObS17/21d
+Kopf
+Der Oberste Gerichtshof hat in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter Mag. Martin Lotz (aus dem Kreis der Arbeitgeber) und Gerald Fida (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei J*, vertreten durch Mag. Gerhard Eigner, Rechtsanwalt in Wels, gegen die beklagte Partei Allgemeine Unfallversicherungsanstalt, 1200 Wien, Adalbert-Stifter-Straße 65, wegen Versehrtenrente über die Revision (richtig: den Rekurs) der klagenden Partei gegen das Urteil (richtig: den Beschluss) des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. November 2020, GZ 11 Rs 34/20d-18, mit dem der (Nichtigkeits-)Berufung der klagenden Partei gegen das Urteil des Landesgerichts Wels als Arbeits- und Sozialgericht vom 29. Jänner 2020, GZ 17 Cgs 191/19w-9, nicht Folge gegeben wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Das Rechtsmittel des Klägers wird zurückgewiesen.
+2. Der Kläger hat die Kosten seines Rechtsmittels selbst zu tragen.
+Text
+Begründung:
+[1] 		Die beklagte Allgemeine Unfallversicherungsanstalt anerkannte mit Bescheid vom 26. 6. 2019 die durch Lärm während der Berufsausübung verursachte Schwerhörigkeit des Klägers als Berufskrankheit, lehnte jedoch den Anspruch auf eine Versehrtenrente mangels entsprechender Minderung der Erwerbsfähigkeit ab.
+[2] 		Der Kläger begehrt in seiner Klage die Gewährung einer Versehrtenrente.
+[3] 		Die Beklagte wendete ein, der Kläger leide auch an einer lärmfremden Innenohrschwerhörigkeit. Aus den lärmbedingten Anteilen ergebe sich keine Minderung der Erwerbsfähigkeit.
+[4] 		Das Erstgericht wies die Klage ab.
+[5] 		Auf Basis des eingeholten HNO-Sachverständigengutachtens stellte es insbesondere fest, dass aufgrund der lärmfremden Komponente der Schwerhörigkeit die durch Berufskrankheit bedingte Minderung der Erwerbsfähigkeit 0 vH betrage. In der Beweiswürdigung führte es aus, dass der Kläger das elektronisch zugestellte Sachverständigengutachten nicht in Zweifel gezogen habe und trotz ausgewiesener Zustellung der Ladung zur Streitverhandlung nicht erschienen sei. Es sei davon auszugehen, dass er keine Einwendungen gegen das eingeholte Gutachten habe.
+[6] 		Der – in erster Instanz unvertretene – Kläger erhob gegen das Urteil des Erstgerichts eine Berufung aus dem (so bezeichneten) Anfechtungsgrund Mangelhaftigkeit des Verfahrens. Weder das Sachverständigengutachten noch die Ladung zur Streitverhandlung seien ihm elektronisch wirksam zugestellt worden. Er sei nicht durch E-Mail über die elektronisch erfolgte Zustellung informiert worden. Die nachträgliche Nachschau im elektronischen Postfach habe ergeben, dass das Sachverständigengutachten und die Ladung zu der – bereits versäumten – Tagsatzung mit der Zustellqualität „RSa“ im elektronischen Postfach hinterlegt worden seien. Zu diesem Zeitpunkt habe er weder das Sachverständigengutachten noch die Ladung öffnen können. Bei ordnungsgemäßer Zustellung hätte er an der Verhandlung teilnehmen und – nach allfälliger Belehrung – auch eine Gutachtenserörterung beantragen können.
+[7] 		Das Berufungsgericht trug dem Erstgericht nach § 473 Abs 2 ZPO Erhebungen zum Nachweis der elektronischen Zustellung nach § 35 Abs 3 letzter Satz ZustG inklusive aller Daten über die Verständigungen gemäß § 35 Abs 1 und 2 ZustG und die Abholung des Dokuments auf. Die vom Erstgericht eingeholte Mitteilung der Bundesrechenzentrum GmbH enthielt unter anderem folgende Informationen:
+„nonRsa, erfolgreich zugestellt am 2019-10-01 10:09:25
+Datum-Frist: 2019-10-16 00:00:00 Status: frist-verstrichen
+Verständigung gesendet am 2019-10-01T10:12:29+02:00
+Gesehen wurde die Nachricht am 2020-01-16 08:31:08
+Gelesen am 2020-01-16 2020-01-16 08:34:03
+Zustellnachweis für Versender gesendet am 2019-10-16 00:17:00 – Receiver did not pick up delivery
+RSb erfolgreich zugestellt am 2019-10-03 17:32:33
+Datum-Frist: 2019-10-18 00:00:00 Status: frist-verstrichen
+Verständigung gesendet am 2019-10-03T17:42:34+02:00
+Gesehen wurde die Nachricht am 2020-01-16 08:31:08
+Gelesen am 2020-01-16 08:33:10
+Zustellnachweis gesendet am 2019-10-18 00:27:02 – Receiver did not pick up delivery“
+[8] 		Der Kläger behauptet in seiner Stellungnahme zu dieser Mitteilung, die verwendete E-Mail-Adresse sei zum Zeitpunkt der Zustellungen nicht mehr aktiv und gelöscht gewesen.
+[9] 		Das Berufungsgericht gab der Berufung in Form eines Urteils nicht Folge. Nach ausführlicher Darstellung der Rechtslage zur gerichtlichen elektronischen Zustellung (insbesondere §§ 33 und 35 ZustG) kam es zum Ergebnis einer wirksamen elektronischen Zustellung an der dem Gericht bekanntgegebenen und für Verständigungen gespeicherten E-Mail-Adresse. Dass der Kläger von den Verständigungen des Zustelldienstes über die Möglichkeit der Abholung der Dokumente keine Kenntnis erlangt habe, sei ausschließlich Folge einer Verletzung seiner Obliegenheit, die Änderung der elektronischen Adresse bekanntzugeben. Die Revision wurde zur Klärung der wirksamen elektronischen Zustellung als Folge einer Verletzung einer Obliegenheit des Empfängers zugelassen, weil der Oberste Gerichtshof dazu noch nicht Stellung genommen habe.
+Rechtliche Beurteilung
+[10] 		Das von der beklagten Partei nicht beantwortete, als Rekurs zu wertende Rechtsmittel des Klägers, ist zufolge § 519 Abs 1 Z 1 ZPO jedenfalls unzulässig.
+[11] 		1. Der Kläger macht in seiner Berufung – ungeachtet der das Rechtsmittelgericht nicht bindenden Bezeichnung des Rechtsmittelgrundes als Mangelhaftigkeit des Verfahrens – inhaltlich ausschließlich den Nichtigkeitsgrund der Verletzung des rechtlichen Gehörs nach § 477 Abs 1 Z 4 ZPO geltend. Seiner Auffassung nach wurde er infolge einer jeweils gesetzwidrigen Zustellung von der Teilnahme an der einzigen mündlichen Streitverhandlung ausgeschlossen und konnte sich zu dem ebenfalls nicht zugestellten Sachverständigengutachten als wesentlichem Beweismittel nicht äußern (RS0005915).
+[12] 		2. Über eine derartige Berufung hat das Berufungsgericht nach § 471 Z 5 und § 473 Abs 1 ZPO – allenfalls nach (hier vorgenommenen) Erhebungen im Sinn des § 473 Abs 2 ZPO – in nichtöffentlicher Sitzung durch Beschluss zu entscheiden. Gegen einen Beschluss des Berufungsgerichts, mit dem es einer Berufung wegen Nichtigkeit nach § 477 Abs 1 Z 4 ZPO nicht Folge gibt (sie „verwirft“), ist ein Rekurs nach § 519 Abs 1 ZPO jedenfalls unzulässig (RS0043405; A. Kodek in Rechberger ZPO5 § 519 ZPO Rz 2 mwN). Diese Rechtsmittelbeschränkung kann nicht dadurch umgangen werden, dass der eindeutig geltend gemachte Anfechtungsgrund der Nichtigkeit in der Berufung unrichtig als Mangelhaftigkeit des Verfahrens bezeichnet wird.
+[13] 		3. Der Entscheidung des Berufungsgerichts ist eindeutig zu entnehmen, dass das Gericht über den vom Kläger inhaltlich allein geltend gemachten Berufungsgrund der Nichtigkeit entscheiden wollte (vgl 10 Ob 6/19h; dazu Klicka, Die „verfehlte Entscheidungsform“ im Zivilprozess – neue Rechtsprechung des OGH, ÖJZ 2020, 478). Wenn die Entscheidung in einem solchen Fall – klar erkennbar zu Unrecht – als Urteil (und nicht als Beschluss) bezeichnet wurde, ist das gegen die zweitinstanzliche Entscheidung erhobene, als Revision bezeichnete Rechtsmittel – dem Gesetz entsprechend – als Rekurs zu behandeln (RS0036258), der zufolge § 519 Abs 1 Z 1 ZPO jedenfalls unzulässig ist.
+[14] 		4. Bei einer Zurückweisung eines Rechtsmittels als absolut unzulässig scheidet ein Kostenzuspruch nach Billigkeit im Sinn des § 77 Abs 2 Z 2 lit b ASGG aus.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E131108

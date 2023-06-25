@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.11.2021
+Geschäftszahl
+8ObS6/21x
+Kopf
+Der Oberste Gerichtshof  hat als Revisionsgericht  in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Dr. Wolfgang Höfle (aus dem Kreis der Arbeitgeber) und Wolfgang Jelinek (aus dem Kreis der Arbeitnehmer) in der Sozialrechtssache der klagenden Partei H*, vertreten durch Dr. Filip Sternberg, Rechtsanwalt in Wien, gegen die beklagte Partei IEF-Service GmbH, *, wegen Insolvenzentgelt (8.216,10 EUR sA), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. September 2021, GZ 8 Rs 63/21z-10, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Ehegatte der Klägerin war vom 21. 7. 1961 bis 31. 12. 1995 als Vorstand und anschließend bis 1. 8. 2003 als Aufsichtsrat einer Aktiengesellschaft tätig. Mit Dienstvertrag vom 28. 7. 1987 wurde ihm eine Betriebspension (ab dem Tag seiner Bestellung zum Vorstandsmitglied) eingeräumt, die er ab 1997 bezog und die nach seinem Tod am 3. 7. 2017 in Höhe von 50 % auf seine Witwe – die Klägerin – überging.
+[2] 		 Über das Vermögen der im Jahr 2007 in eine GmbH umgewandelten Kapitalgesellschaft wurde mit Beschluss vom 29. 9. 2020 das Insolvenzverfahren eröffnet.
+[3] 		Die Vorinstanzen wiesen das Begehren der Klägerin auf Zahlung von Insolvenzentgelt für die Witwenpension übereinstimmend ab.
+Rechtliche Beurteilung
+[4] 		1. Bis zur Änderung des § 1 Abs 6 IESG durch die Novelle BGBl I 2005/102 waren Mitglieder des Organs einer juristischen Person, das zur gesetzlichen Vertretung der juristischen Person berufen ist, generell vom Anspruch auf Insolvenzentgelt ausgeschlossen (8 ObS 8/13d). In Umsetzung der Änderungsrichtlinie 2002/74/EG zur Insolvenzrichtlinie 80/987/EWG (spätere Neukodifikation durch die Richtlinie 2008/94/EG) wurde § 1 Abs 6 Z 2 IESG (ab 1. 10. 2005) dahin geändert, dass nur mehr Gesellschafter, denen ein beherrschender Einfluss auf die Gesellschaft zusteht, vom Anspruch auf Insolvenzentgelt ausgenommen werden (8 ObS 27/07i). In der Entscheidung 8 ObS 3/14w wurde klargestellt, dass der Vorstand einer Aktiengesellschaft auch nach der neuen Rechtslage nicht zum Kreis der nach § 1 Abs 1 IESG geschützten Personen gehört.
+[5] 		2. Die Klägerin bestreitet nicht, dass ihr mittlerweile verstorbener Ehegatte als Vorstandsmitglied der späteren Schuldnerin unter den Ausschlusstatbestand fällt. Ihre Argumentation zielt darauf ab, dass er schon seit rund 25 Jahren pensioniert gewesen sei und in dieser Zeit keinen Einfluss auf die Unternehmensführung (mehr) gehabt habe bzw auch keine Ursache für die Insolvenz habe setzen können. Der dauernde Ausschluss eines pensionierten ehemaligen Vorstandsmitglieds sei mit den Wertungen des IESG und der Insolvenzrichtlinie nicht vereinbar.
+[6] 		3. Zweck des IESG ist eine sozialversicherungsrechtliche Sicherung von Entgeltansprüchen und sonstigen aus dem Arbeitsverhältnis erwachsenden Ansprüchen von Arbeitnehmern im Falle der Insolvenz ihres Arbeitgebers (RS0076409 [T3]). Es sind nur jene Ansprüche gesichert, die mit den ein Arbeitsverhältnis kennzeichnenden Hauptpflichten und Nebenpflichten in einem solchen Sachzusammenhang stehen, dass davon ausgegangen werden kann, die Ansprüche hätten ihren Entstehungsgrund letztlich im Arbeitsverhältnis (RS0076409 [T4]). Bei einer Betriebspension handelt es sich um Entgelt aus dem Arbeitsverhältnis (RS0021444 [T2]). Als solche ist sie nach Maßgabe des § 3d IESG gesichert.
+[7] 		4. Der Klägerin ist aber entgegenzuhalten, dass der geltend gemachte Betriebspensionsanspruch zur Gänze aus der Tätigkeit ihres Ehegatten als Vorstand einer Aktiengesellschaft resultiert. Da der Entstehungsgrund daher nicht in einem vom IESG erfassten Rechtsverhältnis (vgl zum  Arbeitsverhältnis im Sinne des Arbeitsvertragsrechts, RS0076462) wurzelt, kommt eine Sicherung nach dem IESG hier von Vornherein nicht in Betracht (vgl zur Abgrenzung beim freien Dienstvertrag 8 ObS 3/14w Pkt 2 f; vgl im Übrigen nunmehr auch § 12 Abs 1 Z 4 IESG iVm § 2 AMPFG und § 2 Abs 8 AlVG).
+[8] 		Aus der Insolvenzrichtlinie 2008/94/EG ist nichts anderes abzuleiten. Die Richtlinie schützt überhaupt nur (echte) Arbeitnehmer. Wer Arbeitnehmer im Sinne der Richtlinie ist, bestimmt sich gemäß Art 2 Abs 2 grundsätzlich nicht autonom, sondern nach nationalem Recht (vgl etwa C-334/92, ECLI:EU:C:1993:945, Rn 11; 8 ObS 3/14w). Soweit die Klägerin unter Rückgriff auf die Entscheidung 8 ObS 27/07i vor Augen hat, dass ihr Ehegatte ab seiner Pensionierung bzw zumindest ab seinem Ausscheiden aus dem Aufsichtsrat der Aktiengesellschaft als Arbeitnehmer zu behandeln sei, ist ihr zu erwidern, dass damals an eine Vorstandstätigkeit ein  echtes Arbeitsverhältnis anschloss.
+[9] 		5. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision der Klägerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:008OBS00006.21X.1129.000

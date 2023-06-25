@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.11.2018
+Geschäftszahl
+10Ob86/18x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie die Hofrätinnen Dr. Fichtenau und Dr. Grohmann, den Hofrat Mag. Ziegelbauer und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei T*, vertreten durch Dr. Christian Kurz, Rechtsanwalt in Innsbruck, gegen die beklagten Parteien 1. G* Rechtsanwalts-Partnerschaft, *, vertreten durch Dr. Heinz Stöger, Rechtsanwalt in Wien, 2. Mag. T*, und 3. Mag. N*, wegen 500.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 28. August 2018, GZ 4 R 80/18y-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Wenn das Verschulden eines Rechtsanwalts in der unterlassenen Vornahme einer Prozesshandlung liegt, ist über einen daraus abgeleiteten Schadenersatzanspruch der Prozess hypothetisch nachzuvollziehen und zu beurteilen, wie er mit überwiegender Wahrscheinlichkeit geendet hätte, wäre die Prozesshandlung vorgenommen worden (RIS-Justiz RS0022706).
+2. Auf Basis der Feststellungen der Vorinstanzen, von welchen die Klägerin in ihrer Revision auf unzulässige Weise zum Teil abgeht, ist zu beurteilen, ob ein im Vorprozess erhobener Einwand, die Übernahme der Pfandhaftung durch die Klägerin (dortige Beklagte) zugunsten einer anderen GmbH mit identer Gesellschafterbeteiligung sei nach § 82 GmbHG nichtig gewesen, zur Abweisung der Hypothekarklage der Bank geführt hätte. Dies hat das Berufungsgericht im Einklang mit der höchstgerichtlichen Rechtsprechung verneint.
+3. Normadressaten des Verbots der Einlagenrückgewähr in § 82 GmbHG sind die Gesellschaft und der Gesellschafter, nicht aber auch ein Dritter (RIS-Justiz RS0105536 [T14]). Die Klägerin hätte gegenüber der Bank als Hypothekargläubigerin die Leistung nur bei – hier nicht vorliegender – Kollusion sowie einem bewussten Handeln zum Nachteil der Gesellschaft verweigern dürfen, vorausgesetzt die Bank wusste davon oder es hätte sich der Missbrauch geradezu aufdrängen müssen, ihre Unkenntnis somit auf grober Fahrlässigkeit beruht hätte (RIS-Justiz RS0105536 [T4]). Eine allgemeine Erkundigungs- und Prüfpflicht der Bank bestand nicht für alle Fälle denkmöglicher Einlagenrückgewähr. Dies wäre nur dort zu fordern gewesen, wo sich zum Zeitpunkt des Abschlusses des Rechtsgeschäfts der Verdacht schon so weit aufdrängte, dass er nahezu einer Gewissheit gleich kam (RIS-Justiz RS0105537 [T4]). Erschien der Bank eine betriebliche Rechtfertigung plausibel, bestand kein weiterer Überprüfungsbedarf (7 Ob 35/10p = RIS-Justiz RS0105537 [T6]). Die Annahme eines derartigen plausiblen Anscheins ist angesichts des nach dem Kenntnisstand der Bank nachvollziehbaren Interesses der Klägerin, Finanzierungsengpässe der mit ihr wirtschaftlich und personell verflochtenen Kreditnehmerin durch die – für die Aufstockung eines Projekt-Finanzierungskredits (nach Einschätzung der Pfandbestellerin auch nur kurzfristig) nötige – Übernahme einer Sachhaftung zu vermeiden, durchaus vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E123756

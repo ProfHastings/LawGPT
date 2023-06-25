@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2017
+Geschäftszahl
+3Ob229/16x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Mag. H*****, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der C*****, vertreten durch Rechtsanwälte Waldbauer Paumgarten Naschberger Partnerschaft in Kufstein, wider die beklagte Partei T*****, vertreten durch Ullmann, Geiler & Partner, Rechtsanwälte in Innsbruck, wegen 37.283,25 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 21. September 2016, GZ 4 R 120/16b-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Kläger zeigt keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf, weshalb seine außerordentliche Revision – kurz begründet (§ 510 Abs 3 ZPO) – zurückzuweisen ist.
+Die Beurteilung, ob dem Anfechtungsgegner die fahrlässige Unkenntnis einer Begünstigungsabsicht des späteren Insolvenzschuldners anzulasten ist und wie weit seine Nachforschungspflicht reicht, wirft grundsätzlich keine erhebliche Rechtsfrage nach § 502 Abs 1 ZPO auf; hängt doch die Bejahung oder Verneinung eines fahrlässigen Verhaltens von den besonderen Umständen des jeweiligen Einzelfalls ab (RIS-Justiz RS0042837 [T3]; RS0101976 [T1]).
+Auch wenn der Komplementär nach §§ 128, 161 UGB unmittelbar und unbeschränkbar für Schulden der KG, im Fall von Geldschulden ebenso wie die Gesellschaft, haftet (4 Ob 183/11g = RIS-Justiz RS0051836 [T3]), bedarf die von den Vorinstanzen vorgenommene Differenzierung zwischen den Schulden der Gesellschaft und den dafür bestehenden Haftungsverbindlichkeiten im Hinblick auf die Verschiedenheit von KG und den Gesellschaftern als Rechtssubjekte (vgl Schauer in Kalss/Nowotny/Schauer Gesellschaftsrecht Rz 2/481 und 2/551; Eckert in U. Torggler UGB² [2016] § 128 Rz 1 und 9) keiner Korrektur. Es ist daher konsequent, im Anfechtungsrecht bei der Beurteilung von Insolvenzindikatoren der Existenz von Haftungsverbindlichkeiten des Komplementärs nicht zwingend dieselbe Bedeutung beizumessen, wie der Säumigkeit der Gesellschaft mir der Erfüllung ihrer („eigenen“) Verbindlichkeiten: kann doch die Entwicklung in der Vergangenheit für jedes der beiden Rechtssubjekte – wie hier – sehr unterschiedlich gewesen sein. Der Kläger gesteht selbst (zutreffend) zu, die Komplementärin sei für die Beklagte im Zeitpunkt der angefochtenen Zahlung für sich betrachtet – anders als die KG, worauf die Beklagte ohnehin reagierte – nicht in dem Sinn „auffällig“ gewesen, dass sie Nachforschungen über deren Zahlungs-(un-)fähigkeit anstellen hätte müssen. Leistet die Komplementärin in einer solchen Situation unaufgefordert etwa ein Drittel der Beitragsschulden der KG, stellt die Rechtsansicht der Vorinstanzen, es fehle an ausreichend gewichtigen Indikatoren für eine Insolvenz der Komplementärin, keine unvertretbare Fehlbeurteilung dar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00229.16X.0329.000

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.1973
+Geschäftszahl
+3Ob213/73
+Norm
+Handelsgesetzbuch §117;
+Handelsgesetzbuch §127;
+Handelsgesetzbuch §146;
+Kopf
+SZ 46/129
+Spruch
+Im Stadium der Liquidation einer OHG besteht mangels anderer Vereinbarung kein Anspruch gemäß §§ 117 und 127 HGB
+OGH 20. Dezember 1973, 3 Ob 213/73 (OLG Wien 2 R 150/73; HG Wien 11 Cg 113/73)
+Text
+Der Kläger brachte vor, die Parteien seien die beiden einzigen, einzeln zeichnungs- und vertretungsbefugten Gesellschafter einer OHG, die sich auf Grund eines Gesellschafterbeschlusses seit 4 Jahren in Liquidation befinde, was allerdings im Handelsregister nicht vermerkt sei; infolge mehrerer - in der Klage detailliert angegebener - gesellschaftsschädigender Handlungen des Beklagten hinsichtlich bestimmter Teile des Gesellschaftsvermögens sei der Kläger zufolge §§ 117 und 127 HGB berechtigt, dem Beklagten die Geschäftsführungsbefugnis und Vertretungsmacht hinsichtlich der OHG zu entziehen.
+Zur Sicherung dieses Anspruches beantragte er, daß dem Beklagten bis zur rechtskräftigen Beendigung des Rechtsstreites die Befugnis zur Geschäftsführung und Vertretung der genannten OHG entzogen und ihm jede Verfügung über das Vermögen der OHG verboten werde. Das Erstgericht bewilligte die beantragte Einstweilige Verfügung der Erlag einer Sicherstellung von einer Million Schilling und sprach gemäß § 391 Abs. 1 EO aus, daß sie nicht vollzogen oder auf Antrag des Gegners aufgehoben werde, falls dieser eine Million Schilling zu Gericht erlege.
+Beide Parteien erlegten daraufhin je eine Million Schilling, der Beklagte, der unter Hinweis auf diesen Erlag die Aufhebung der Einstweiligen Verfügung (mit Beschluß vom 2. August 1973) erwirkte, ergriff jedoch außerdem dagegen Rekurs.
+Das Rekursgericht wies den Antrag des Klägers auf Erlassung der Einstweiligen Verfügung ab. Es vertrat die Auffassung daß bei der hier vom Kläger selbst behaupteten Liquidation einer OHG die Gesellschafter kraft Gesetzes (§ 146 Abs. 1 HGB) als Liquidatoren tätig werden und diese bei Mißbrauch ihre Stellung nur nach der Bestimmung des § 147 HGB abberufen werden könnten, im Liquidationsstadium also für die hier begehrte Entziehung der Geschäftsfuhrungs- und Vertretungsbefugnis eines Gesellschafters kein Raum mehr sei. Darüber hinaus sah das Rekursgericht auch die Voraussetzungen einer Gefährdung des zu sichernden Anspruches nicht als gegeben an. Der Oberste Gerichtshof gab dem Revisionsrekurs des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Durch Erlag des gemäß § 391 Abs. 1 EO festgesetzten Betrages und die dadurch erwirkte Aufhebung der Einstweiligen Verfügung begab sich der Beklagte nicht des Rechtes, gegen die Einstweilige Verfügung ein Rechtsmittel zu ergreifen (ebenso 3 Ob 179, 187/55, abgedruckt unter Nr. 13 a bei § 391 der GMA der EO 10). Das Rechtsmittelinteresse des Beklagten liegt nämlich entgegen den Ausführungen im Revisionsrekurs nicht in der Bekämpfung "der ihm auferlegten Sicherheit", also des Erlages gemäß § 391 Abs. 1 EO, weil dessen Wegfall im Ergebnis zur Wiederherstellung der Einstweiligen Verfügung führen würde und dessen Bestimmung daher in Wahrheit nur vom Kläger bekämpft werden könnte, sondern in der gänzlichen Beseitigung der bisher nur wegen des erfolgten Erlagesaufgehobenen Einstweiligen Verfügung, da der Beklagte nur dadurch die Rückerstattung seines Erlages vor rechtskräftiger Beendigung des Rechtsstreites erreichen kann.
+Zu Unrecht versucht der Kläger darzutun, daß er im vorliegenden Fall, in welchem die von den Gesellschaftern beschlossene Liquidation die behauptete mißbräuchliche Handlungsweise des Beklagten wehrlos wäre.
+Mit der Liquidation einer OHG verlieren nämlich die Gesellschafter - eine an sich mögliche anderweitige Vereinbarung wurde hier nicht behauptet - ihre Befugnisse von selbst (ebenso RG - Gross - Komm. z. DHGB[3] 11/2, Anm. 3 zu § 146 u. a.). Die Gesellschafter werden selbst dann Liquidatoren, falls ihnen die Geschäftsführungsbefugnis bzw. Vertretungsmacht gemäß §§ 117, 127 HGB entzogen war (ebenso RG - Komm. 11/2, Schlegelberger - Geßler HGB[4] II Anm. 2 zu § 146 EvBl. 1972/173 u. a.). Befindet sich daher, wie hier vom Kläger behauptet, die Firma W & L OHG in Liquidation, so war der Beklagte seither in Wahrheit nicht als Geschäftsführer, sondern als Liquidator tätig, der Kläger hat daher allenfalls - aus wichtigen Gründen, vgl. § 146 Abs. 2 bzw. § 147 HGB - Anspruch auf Ausschaltung des Beklagten in seiner Eigenschaft als Liquidator, aber während der Liquidation nicht mehr den hier von ihm verfolgten Anspruch gemäß §§ 117 und 127 HGB wie bereits das Rekursgericht zutreffend erkannte (ebenso die bereits vom Rekursgericht zitierte Entscheidungen Rspr. 1933/300 EvBl 1972/173 u. a.).
+Dem Revisiorisrekurs war daher nicht Folge zu geben, ohne daß im Rahmen dieser Entscheidung näher zu erörtern wäre, welche Möglichkeiten dem Kläger zur allfälligen Ausschaltung des Beklagten als Liquidator offen stehen (vgl. hiezu RG - Komm. z. HGB [3] 11/2, Anm. 14 und 15 zu § 147 in Verbindung mit Anm. 46 f. zu § 146, Schlegelberger - Geßler HGB[4] 11 Anm. 6 und 7 zu § 147 in Verbindung mit Anm. 18 f. zu § 146).

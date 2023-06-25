@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.07.2014
+Geschäftszahl
+4Ob113/14t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei M***** GmbH, *****, vertreten durch Zöchbauer Frauenberger Rechtsanwälte in Wien, gegen die beklagten Parteien 1. K***** KG, 2. M***** Gesellschaft m.b.H. & Co KG, beide *****, beide vertreten durch Ruggenthaler, Rest & Borsky Rechtsanwalts OG in Wien, wegen Unterlassung (Streitwert 70.000 EUR) und Urteilsveröffentlichung (Streitwert 2.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. April 2014, GZ 2 R 201/13p-50, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+1. Auch der Verstoß gegen kartellrechtliche Vorschriften, insbesondere gegen das Verbot des Missbrauchs einer marktbeherrschenden Stellung, erfüllt nur dann den Tatbestand der sonstigen unlauteren Handlung nach § 1 Abs 1 Z 1 UWG, wenn die angeblich übertretene Norm nicht auch mit guten Gründen in einer Weise ausgelegt werden kann, dass sie dem beanstandeten Verhalten nicht entgegensteht (4 Ob 60/09s = SZ 2009/94 = jusIT 2009, 181 [Staudegger] = ÖBl 2010, 64 [Gamerith] - Rechtsanwaltssoftware; RIS-Justiz RS0124957; zuletzt 4 Ob 34/11w = ÖBl 2011, 168 - Treuepunkteaktion II). Maßgebend ist daher auch im konkreten Fall nur die Vertretbarkeit der dem beanstandeten Verhalten zugrunde liegenden Rechtsauffassung.
+2. Der Tatbestand des Verkaufs unter dem Einstandspreis iSv § 5 Abs 1 Z 5 KartG ist nach vertretbarer Auffassung auf die Weiterveräußerung von (allenfalls bearbeiteter) Handelsware beschränkt (4 Ob 60/09s mwN). Das im konkreten Fall beanstandete Verhalten - die Koppelung des Verkaufs einer Tageszeitung mit der kostenlosen Abgabe von Bildern für ein Fußballer-Stickeralbum - könnte daher, wenn überhaupt, nur unter die Generalklausel des § 5 Abs 1 KartG fallen, nämlich als gezielte Kampfpreisunterbietung („predatory pricing“; RIS-Justiz RS0110383; 4 Ob 60/09s mwN). Ein konkretes Vorbringen zu den Voraussetzungen dieses Tatbestands hat die Klägerin nicht erstattet.
+3. Selbst wenn man jedoch ein auch insofern ausreichendes Vorbringen annehmen wollte, fehlt es an der nach 4 Ob 23/08y (= SZ 2008/44 = ÖBl 2008, 339 - Tageszeitung Ö) erforderlichen engen Verbindung der Märkte von Haupt- und Nebenware. Zwar werden sich die Abnehmerkreise von Tageszeitungen und Stickerbildern überschneiden; daraus folgt aber nicht, dass die Bedarfsträger des einen Marktes notwendigerweise auch potenzielle Kunden des anderen sind. Die in der Zulassungsbeschwerde behauptete Austauschbarkeit von Tageszeitungen und Stickeralben ist wegen der unterschiedlichen Funktion dieser Druckwerke selbst bei fußballbegeisterten Lesern nicht erkennbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00113.14T.0717.000

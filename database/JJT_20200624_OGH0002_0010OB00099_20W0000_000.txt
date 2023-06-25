@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.06.2020
+Geschäftszahl
+1Ob99/20w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Kodek, Mag. Wurzer, Mag. Dr. Wurdinger und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei R*****, vertreten durch Mag. Paul Hechenberger, Rechtsanwalt in Innsbruck, gegen die beklagte Partei DI O*****, vertreten durch Dr. Johann Sommer, Rechtsanwalt in Wien, wegen 43.691,46 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 4. März 2020, GZ 14 R 121/19w-21, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 3. Juli 2019, GZ 14 Cg 46/18i-17, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Pfandgläubiger ist erst nach Fälligkeit der Hauptschuld berechtigt, die Befriedigung aus der Pfandsache zu verlangen (vgl RIS-Justiz RS0106035). Dass damit – wovon das Berufungsgericht zutreffend ausging – die Fälligkeit im Verhältnis zum Personalschuldner und nicht zum Pfandschuldner (der nicht auch Personalschuldner ist) gemeint ist, ergibt sich schon daraus, dass es keine besondere Fälligkeit des Anspruchs im Verhältnis zu letzterem gibt (RS0106035 [T3]).
+Die Revisionswerberin steht auf dem Standpunkt, das Erstgericht habe eine Schuldübernahme gemäß § 1408 ABGB durch die Beklagte, der gegenüber sie ihre Klageforderung fällig gestellt habe, „festgestellt“. Konkrete Darlegungen zum behaupteten Übergang der pfandrechtlich gesicherten (persönlichen) Haftung auf die Beklagte enthält die Revision jedoch nicht. Da das bloße Aufstellen einer nicht näher begründeten Rechtsbehauptung den Anforderungen an eine gesetzmäßig ausgeführte Rechtsrüge nicht genügt (vgl RS0043603 [T6]), zeigt die Klägerin bereits aus diesem Grund keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf. Soweit ihr Rechtsmittel (hauptsächlich) Ausführungen zur Korrespondenz mit der beklagten Realschuldnerin enthält, vermag sie auch damit der rechtlichen Begründung des Berufungsgerichts, wonach gegenüber der Personalschuldnerin keine Fälligkeit der Klageforderung eingetreten sei (bzw die Klägerin dieser gegenüber keine – als Voraussetzung der gerichtlichen Geltendmachung vertraglich vereinbarte – 14-tägige Nachfrist gesetzt habe), nicht wirksam entgegenzutreten.
+Warum durch eine Zwangsversteigerung (hier: Verfahren zur Versteigerung einer gemeinschaftlichen Liegenschaft) eine Fälligstellung der auf der Liegenschaft hypothekarisch sichergestellten Forderung gegenüber dem vom Liegenschaftseigentümer verschiedenen Personalschuldner eingetreten sein soll, führt die Revisionswerberin (die dazu keine konkreten rechtlichen Überlegungen anstellt) nicht näher aus. Es erschließt sich auch nicht, warum sich daraus, dass die Personalschuldnerin der Klägerin „zur Bereinigung“ eine – deutlich unter der Klageforderung liegende – Zahlung anbot, „nach der allgemeinen Lebenserfahrung“ die Fälligkeit der Klageforderung [bzw die vertraglich vereinbarte Setzung einer 14-tägigen Nachfrist] ergeben soll.
+Weitere substantiierte Argumente enthält die Revision nicht. Sie ist daher mangels Darlegung einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO zurückzuweisen, ohne dass es einer weiteren Begründung bedürfte (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0010OB00099.20W.0624.000

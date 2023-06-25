@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.10.2018
+Geschäftszahl
+4Ob187/18f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei T***** H*****, vertreten durch Mag. Dr. Robert Hirschmann, Rechtsanwalt in Wien, gegen die beklagte Partei L***** GmbH, *****, vertreten durch Dr. Leonhard Ogris, Rechtsanwalt in Deutschlandsberg, wegen zuletzt 43.203,99 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 18. Juli 2018, GZ 4 R 78/18z-207, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Der Antrag der beklagten Partei auf Zuspruch der Kosten iher Revisionsbeantwortung wird gemäß § 508a Abs 2 Satz 2 ZPO abgewiesen.
+Text
+Begründung:
+Der Kläger beauftragte die Beklagte mit der Lieferung und Montage ua von Fenstern für eine vom Kläger errichtete Wohnhausanlage, die er mittlerweile verkauft hat. Einige der Fenster waren mangelhaft.
+Der Kläger begehrte die Rückzahlung des bereits bezahlten Entgelts und machte – in Modifikation seines ursprünglichen Prozessvorbringens – die Gesamtwandlung des Vertrags geltend. Die Fenster seien für ihn ohne Wert.
+Die Beklagte wandte ein, dass der Kläger nur zur Teilwandlung hinsichtlich der mangelhaft gelieferten Fenster berechtigt sei.
+Das Berufungsgericht änderte das klagsstattgebende und die Gesamtwandlung bejahende Urteil des Erstgerichts dahin ab, dass es dem Kläger nur 18.712,23 EUR sA zusprach. Wegen der Teilbarkeit der Leistung komme nur eine Teilwandlung bezüglich der mangelhaften Fenster in Betracht. Ausgehend vom in dritter Instanz unstrittigen Umstand, dass eine Rückstellung der mangelhaften Fenster nicht mehr möglich ist, gelangte das Berufungsgericht zum zuerkannten Betrag dadurch, dass es den auf die mangelhaften Fenster entfallenden Werklohn ermittelte und davon den nach § 273 ZPO bemessenen Restwert der mangelhaften Fenster sowie den im ersten Rechtsgang rechtskräftig zugesprochenen Betrag abzog.
+Mangels erheblicher Rechtsfrage ließ das Berufungsgericht die ordentliche Revision nicht zu.
+Rechtliche Beurteilung
+In seiner dagegen erhobenen außerordentlichen Revision zeigt der Kläger keine Rechtsfrage von erheblicher Bedeutung auf.
+1.1 Ist ein Teil einer als unteilbar behandelten Sache mit einem unbehebbaren Mangel behaftet, so kann der Vertrag nicht teilweise, sondern nur allenfalls zur Gänze gewandelt oder es kann Preisminderung verlangt werden (RIS-Justiz RS0107727).
+1.2 Die Frage der Teilbarkeit oder Unteilbarkeit der Erfüllung ist nach dem Willen beider Parteien beziehungsweise nach dem dem Kontrahenten bei Vertragsabschluss bekannten oder erkennbaren Willen einer Partei zu beurteilen (RIS-Justiz RS0018438).
+1.3 So wie Fragen der Vertragsauslegung in der Regel keine über den Einzelfall hinausgehende Bedeutung zukommt, sofern keine auffallende Fehlbeurteilung, also eine krasse Verkennung der Auslegungsgrundsätze vorliegt, die im Interesse der Rechtssicherheit wahrgenommen werden muss (RIS-Justiz RS0112106), wirft die ebenfalls nach den konkreten Umständen des Einzelfalls erfolgende Beurteilung der Teilbarkeit einer Vertragserfüllung regelmäßig keine erheblichen Rechtsfragen im Sinne des § 502 Abs 1 ZPO (RIS-Justiz RS0018438 [T5]).
+1.4 Dass bei einem Bauvorhaben eine in mehrere Gewerke und Positionen gegliederte Leistung eine nach dem objektiven Willen der Parteien teilbare Leistung sein kann, ist durch die Judikatur gedeckt (4 Ob 112/13v).
+1.5 Auch das dem Vertragsabschluss folgende Verhalten kann zur Interpretation herangezogen werden, wenn sich darin die bei Vertragsabschluss bestandene Parteiabsicht manifestiert (RIS-Justiz RS0017815, RS0110838). Wenn das Berufungsgericht auch aus dem Umstand, dass der Kläger mehrere Teilleistungen der Beklagten akzeptierte bzw stornierte, auf die subjektive Teilbarkeit schloss, begründet das nicht die Zulässigkeit des Rechtsmittels.
+2. Die Revision macht auch zum vom Berufungsgericht im Rahmen des § 273 ZPO festgesetzten Wert der mangelhaften Fenster keine erhebliche Rechtsfrage geltend (vgl RIS-Justiz RS0121220, RS0040494). Nur gravierende, an die Grenzen des Missbrauchs gehende Fehler bei der Anwendung des Ermessensspielraums könnten im Rahmen einer außerordentlichen Revision aufgegriffen werden (RIS-Justiz RS0007104). Solche zeigt die Revision nicht auf.
+3. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00187.18F.1023.000

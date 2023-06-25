@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.11.2016
+Geschäftszahl
+10ObS133/16f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat Univ.-Prof. Dr. Neumayr als Vorsitzenden, den Hofrat Dr. Schramm und die Hofrätin Dr. Fichtenau sowie die fachkundigen Laienrichter Dr. Christoph Wiesinger (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei K*, vertreten durch Dr. Christian Hirtzberger, Rechtsanwalt in St. Pölten, gegen die beklagte Partei Versicherungsanstalt öffentlich Bediensteter, 1080 Wien, Josefstädterstraße 80, wegen Versehrtenrente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. August 2016, GZ 7 Rs 47/16g-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger, der als Lehrer in einer Polizeischule tätig ist, fuhr nach Dienstende mit seinem Privat-PKW zu seinem Wohnhaus. Beim „K*wald“ hielt er das Fahrzeug an, stieg aus „und begab sich etwa 2 bis 3 m ins Gebüsch, wo er Harn ließ, wobei ihm ein Ast ins linke Auge schlug“. Er erlitt an diesem Auge eine bleibende Verletzung.
+Die Vorinstanzen wiesen das Klagebegehren ab.
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers ist mangels erheblicher Rechtsfrage unzulässig.
+1. Gemäß § 90 Abs 1 B-KUVG setzt die Anerkennung als Dienstunfall voraus, dass sich der Unfall im örtlichen, zeitlichen und ursächlichen Zusammenhang mit dem die Versicherung begründenden Dienstverhältnis ereignet hat. Als Dienstunfälle gelten auch Unfälle, die sich auf einem mit dem Dienstverhältnis zusammenhängenden Weg zur oder von der Dienststätte ereignen (§ 90 Abs 2 Z 1 B-KUVG).
+Die Beurteilung des Berufungsgerichts, ein solcher Unfall liege nach den gegebenen Umständen des Einzelfalls nicht vor, hält sich im Rahmen der Rechtsprechung des Obersten Gerichtshofs zu vergleichbaren Fällen:
+2.1 Zur Auslegung des B-KUVG sind Lehre und Rechtsprechung zu den entsprechenden Bestimmungen des ASVG heranzuziehen (RIS-Justiz RS0110598 [T2]).
+2.2 Unter Unfallversicherungsschutz steht nur der mit dem Dienst zusammenhängende direkte Weg zur oder von der Dienststätte, der in der Absicht zurückgelegt wird, die versicherte Tätigkeit aufzunehmen oder nach ihrer Beendigung wieder in den privaten Wohnbereich zurückzukehren (RIS-Justiz RS0084380).
+2.3 Abgesehen vom Fall des § 90 Abs 2 Z 6 B-KUVG (§ 175 Abs 2 Z 7 ASVG) fallen Verhaltensweisen, die der Verletzte aus persönlichen (privaten) Gründen gesetzt hat bzw die dem persönlichen Lebensbereich zuzurechnen sind, wie etwa Essen und Trinken, Einkauf von Lebensmitteln, Körperpflege, Schlafen sowie die Verrichtung der Notdurft grundsätzlich nicht unter dem Schutz der Unfallversicherung (RIS-Justiz RS0084229 [T15]). Derartige Tätigkeiten werden in der Rechtsprechung zum Unfallversicherungsrecht auch mit dem Sammelbegriff „privatwirtschaftlich“ bzw „eigenwirtschaftlich“ bezeichnet.
+3. Wird demnach im Zuge des Wegs eine dem persönlichen Lebensbereich zuzurechnende Tätigkeit verrichtet, ist eine Unterbrechung eines geschützten Wegs und damit eine Unterbrechung des Versicherungsschutzes für die Dauer der Unterbrechung anzunehmen, weil in diesem Zeitraum grundsätzlich keine Weggefahr verwirklicht wird. Solche privaten Tätigkeiten sind vom Versicherungsschutz nicht umfasst (RIS-Justiz RS0084822). Nur wenn betriebliche Einrichtungen bei der Entstehung des Unfalls wesentlich mitgewirkt hätten, also der Unfall wesentlich durch die Umstände an der Arbeitsstätte oder die Arbeitstätigkeit verursacht wurde – etwa weil sie unter erhöhtem Gefahrenrisiko selbst verursacht wurde und dieses Risiko tatsächlich zum Unfall geführt hat –, läge ein Arbeitsunfall vor (10 ObS 48/03m: Sturz am unbeleuchteten Gang zur Toilette im Quartier während eines Assistenzeinsatzes des Bundesheeres).
+4.1 Der Versicherungsschutz entfällt aber auch dann nicht, wenn eine private eigenwirtschaftliche Tätigkeit nach ihrer Art und Dauer bei natürlicher Betrachtungsweise zu einer bloß – zeitlich und räumlich – geringfügigen Unterbrechung der versicherten Tätigkeit führt und noch ein innerer Zusammenhang zwischen dem Unfallgeschehen und der betrieblichen Tätigkeit besteht (10 ObS 16/11t mwN [Fensteröffnen]; RIS-Justiz RS0084686).
+4.2 Mit seinen Ausführungen, im vorliegenden Fall bestehe der innere Zusammenhang zur dienstlichen Tätigkeit als Lehrer in der Polizeischule darin, dass er sich des Harns aufgrund seiner dienstlichen Pflichten „nicht eher habe entledigen können, als erst auf dem Heimweg“, entfernt sich der Revisionswerber aber von den – im Verfahren dritter Instanz nicht mehr angreifbaren – Tatsachengrundlagen. Auch dass ihm „kein Versäumnis vorzuwerfen sei, wenn er dem in der Dienstzeit aufgestauten Bedürfnis noch während des Nachhausewegs nachgekommen sei“, kann nicht als anspruchsbegründendes Tatbestandsmerkmal gewertet werden, weshalb auch mit diesem Vorbringen keine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO aufgezeigt wird.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E116310

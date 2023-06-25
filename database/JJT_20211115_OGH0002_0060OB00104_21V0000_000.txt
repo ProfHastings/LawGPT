@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.11.2021
+Geschäftszahl
+6Ob104/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Dr. E*, vertreten durch Mag. Thomas Fraiß, Rechtsanwalt in Wien, gegen die beklagte Partei Univ.-Prof. Dr. M*, vertreten durch Dr. Walter Müller und andere Rechtsanwälte in Linz, wegen Unterlassung und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 15. April 2021, GZ 3 R 38/21k-34, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Beklagte ist Mitherausgeber eines Sammelbandes von Beiträgen aus einer von einer österreichischen Universität mitveranstalteten Ringvorlesung. Die Klägerin, die an dieser Universität beschäftigt war, übermittelte den Herausgebern ihren für den Sammelband vorgesehenen Text, die den Verdacht schöpften, dass es sich um ein Plagiat handle. Der Text wurde den für die Plagiatsprüfung zuständigen Stellen der Universität zur Kenntnis gebracht.
+[2] 		Die Klägerin begehrt die Unterlassung der Behauptung, beim verfahrensgegenständlichen Text handle es sich um ein Plagiat, sowie die Feststellung der Haftung des Beklagten für die ihr aus der Verbreitung dieser Behauptung resultierenden Schäden.
+[3] 		Die Vorinstanzen wiesen das Klagebegehren ab, wobei das Berufungsgericht Feststellungen dazu, ob die Übermittlung an die zuständigen Stellen der Universität durch den Beklagten oder eine andere Person stattgefunden hatte, sowie Feststellungen zum Text der Klägerin für entbehrlich erachtete. Die Mitteilung eines Plagiatsverdachts durch einen Herausgeber an die für die Plagiatsprüfung zuständige Stelle der Universität gemäß § 1330 Abs 2 ABGB sei nicht rechtswidrig sodass darauf keine Schadenersatz- und Unterlassungsansprüche gegründet werden können.
+Rechtliche Beurteilung
+[4] 		Die außerordentliche Revision der Klägerin ist nicht zulässig.
+[5] 		1. Eine Nichtigkeit nach § 477 Abs 1 Z 9 ZPO ist  gegeben, wenn die Entscheidung gar nicht oder so mangelhaft begründet ist, dass sie sich nicht überprüfen lässt (RS0042133 [T10]). Aus den Entscheidungsgründen des Urteils des Berufungsgerichts geht jedoch klar hervor, dass das Berufungsgericht die Klageabweisung auf die Unschlüssigkeit der Klage gründete, weil sich die Klagebegehren nicht aus den zu ihrer Begründung vorgetragenen Tatsachenbehauptungen ableiten ließen (vgl RS0037516). Diese Beurteilung des Berufungsgerichts ist rechtlich überprüfbar. Der Nichtigkeitsgrund des § 477 Abs 1 Z 9 ZPO liegt daher nicht vor.
+[6] 		2. Die Schlüssigkeitsprüfung erfolgt aufgrund des jeweiligen Tatsachenvorbringens des Klägers in erster Instanz (RS0037516 [T7]); es bedarf daher zur Schlüssigkeitsprüfung keiner Tatsachenfeststellungen. Mit dem Revisionsvorbringen, es fehle dem Berufungsurteil am zu beurteilenden Sachverhalt, wird daher weder eine Nichtigkeit nach § 477 Abs 1 Z 9 ZPO noch eine Mangelhaftigkeit des Berufungsverfahrens iSd § 503 Abs 1 Z 2 ZPO dargetan.
+[7] 		3. Gemäß § 1330 Abs 2 Satz 3 ABGB haftet der Mitteilende nicht für eine nicht öffentlich vorgebrachte Mitteilung, deren Unwahrheit er nicht kennt, wenn er oder der Empfänger der Mitteilung an ihr ein berechtigtes Interesse hatte. Nach ständiger Rechtsprechung sind Straf- und Disziplinaranzeigen oder sonstige vertrauliche Mitteilungen an die zuständigen, zur gewissenhaften Nachprüfung der Angaben verpflichteten Stellen grundsätzlich gerechtfertigt (RS0031927 [insb T5]), wenn sie nicht – was die Klägerin hier nicht behauptet – wider besseren Wissens erfolgten (RS0114015 [T3, T8, T9, T10, T12]). Es wird generell bei Anzeigen an (zuständige [vgl RS0107664]) Behörden ein berechtigtes Interesse angenommen, damit diese bedenkliche Sachverhalte überprüfen können (RS0031927 [T6]; 6 Ob 30/19h).
+[8] 		Die außerordentliche Revision tritt der Beurteilung, dass auch die Mitteilung eines Plagiatsverdachts an die für die Prüfung eines solchen Verdachts zuständige Stelle der Universität nicht rechtswidrig ist, wenn es sich – wie hier – um einen Beitrag zu einem Sammelband zu einer von dieser Universität mitveranstalteten Ringvorlesung handelt, zutreffend nicht entgegen.
+[9] 		4. Mangels Geltendmachung einer Rechtsfrage der Qualität des § 502 Abs 1 ZPO war die außerordentliche Revision der Klägerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00104.21V.1115.000

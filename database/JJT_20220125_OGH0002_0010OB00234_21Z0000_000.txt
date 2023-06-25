@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2022
+Geschäftszahl
+1Ob234/21z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei W*, vertreten durch Mag. Ralph Kilches, Rechtsanwalt in Wien, gegen die beklagte Partei Republik Österreich (Bund), vertreten durch die Finanzprokuratur in Wien, wegen 14.881,86 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Graz vom 20. Oktober (richtig:) 2021, GZ 5 R 177/21w-36, mit dem der Beschluss des Landesgerichts Leoben vom 13. September 2021, GZ 8 Cg 27/20m-28, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Rekursgericht bestätigte den Beschluss des Erstgerichts, mit dem dieses ein Rechtsmittel (als unzulässig und auch wegen Verspätung) zurückwies. Es sprach mit Verweis auf § 528 Abs 2 Z 2 ZPO aus, dass der Revisionsrekurs jedenfalls unzulässig sei.
+Rechtliche Beurteilung
+[2] 		Der dennoch eingebrachte Revisionsrekurs ist gemäß § 528 Abs 2 Z 2 ZPO jedenfalls unzulässig.
+[3] 		Die in dieser Bestimmung normierte Rechtsmittelbeschränkung gilt bei bestätigenden Entscheidungen durch das Rekursgericht im Zivilprozess generell (1 Ob 187/18h) und damit auch für die Bestätigung der Zurückweisung eines Rechtsmittels (RIS-Justiz RS0044536 [T4, T11]), es sei denn, dass die Klage ohne Sachentscheidung aus formellen Gründen zurückgewiesen wurde (§ 528 Abs 2 Z 2 ZPO; RS0112314). Die Anfechtbarkeit von bestätigenden Beschlüssen des Rekursgerichts sieht das Gesetz nur für die definitive Versagung des Zugangs zu Gericht, also die endgültige Verweigerung der Sachentscheidung über einen materiellen Rechtsschutzantrag vor (vgl RS0044536; RS0105321). Ein solcher Ausnahmefall liegt hier nicht vor.
+[4] 		Der jedenfalls unzulässige Revisionsrekurs ist demnach zurückzuweisen. Auf die im zurückgewiesenen Rechtsmittel aufgeworfene Frage (zum Vorgehen nach § 11 AHG) wurde im Übrigen bereits im Beschluss des erkennenden Senats zu 1 Ob 206/21g eingegangen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00234.21Z.0125.000

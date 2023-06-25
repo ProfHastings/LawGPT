@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2022
+Geschäftszahl
+4Ob187/22m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, MMag. Matzka und Dr. Annerl sowie die Hofrätin Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch Dr. Patrick Gaulin, Rechtsanwalt in Innsbruck, gegen die beklagte Partei T* GmbH, *, vertreten durch Dr. Sabine Prantner, Rechtsanwältin in Innsbruck, wegen 46.795,98 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 25. August 2022, GZ 2 R 80/22i-61, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Vorinstanzen haben im gegenständlichen Arzthaftungsprozess festgestellt, dass die von den Ärzten der Beklagten an der Klägerin vorgenommenen operativen Eingriffe lege artis erfolgten und dass die Klägerin auch dann in die Operation eingewilligt hätte, wenn man ihr gesagt hätte, dass es auch sein könne, dass die Entfernung des Knochensporns an der Lendenwirbelsäule nicht so gelinge wie gewünscht und dass eine Nachoperation möglich sein könnte. Die auf Kunstfehler und Aufklärungsmangel gestützte Schadenersatzklage wurde daher abgewiesen.
+[2] 		In ihrer außerordentlichen Revision macht die Klägerin geltend, dass die Beklagte verpflichtet gewesen wäre, sie über die Möglichkeit eines großen Eingriffs als alternative operative Behandlung aufzuklären.
+Dazu ist Folgendes auszuführen:
+Rechtliche Beurteilung
+[3] 		1. Der Umfang der ärztlichen Aufklärungspflicht ist eine Frage des Einzelfalls und als solche – abgesehen von auffälligen Fehlbeurteilungen – nicht revisibel (RS0026763 [T5]).
+[4] 		2. Laut den (für den Obersten Gerichtshof bindenden) Feststellungen der Tatsacheninstanzen war es aus fachlicher Sicht indiziert, den kleineren Eingriff vorzunehmen, zumal es Standard ist, die minimal-invasive Methode zu bevorzugen.
+[5] 		3. Mangels Indikation für eine alternative Behandlung ist dem Patienten nicht ungefragt zu erläutern, welche Behandlungsmethoden theoretisch in Betracht kommen und was für und gegen die eine oder andere dieser Methoden spricht, solange der Arzt eine Methode anwendet, die dem medizinischen Standard genügt (RS0026426 [T4]).
+[6] 		4. Wenn die Vorinstanzen auf Basis des hier gegebenen Sachverhalts das Vorliegen eines Aufklärungsmangels verneinten, begründet dies somit keine (grobe) Fehlbeurteilung, die vom Obersten Gerichtshof aufzugreifen wäre.
+[7] 		Die außerordentliche Revision ist daher in Ermangelung von erheblichen Rechtsfragen zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00187.22M.1220.000

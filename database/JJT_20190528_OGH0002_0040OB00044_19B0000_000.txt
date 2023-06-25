@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.05.2019
+Geschäftszahl
+4Ob44/19b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache des Klägers Ing. Mag. M***** S*****, vertreten durch Brandstetter, Baurecht, Pritz & Partner Rechtsanwälte KG in Wien, gegen die Beklagten 1. Mag. C***** M*****, 2. Ing. G***** M*****, beide vertreten durch Dr. Wolfgang Oberhofer, Rechtsanwalt in Innsbruck, wegen Unterlassung (Streitwert 33.000 EUR) und Urteilsveröffentlichung (Streitwert 2.000 EUR), über die außerordentliche Revision des Klägers gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. Jänner 2019, GZ 15 R 181/18z-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Streitteile sind Inhaber von Fahrschulen in Wien, die zueinander im Wettbewerb stehen.
+Die Erstbeklagte bietet auf ihrer Homepage insgesamt 50 B-Führerscheinkurse an, wobei eine große Anzahl von Theoriekursen weder in ihrer Fahrschule, noch in ihrer Außenkursstelle, sondern vom Zweitbeklagten in dessen Fahrschule abgehalten wird. Erst wenn man auf der Homepage einen konkreten Kurs anklickt, erscheint ein Hinweis, dass der Theorieunterricht dieses Kurses „… in unserer Partnerfahrschule …“ abgehalten wird. In ihren AGB weist die Erstbeklagte darauf hin, dass sie für bestimmte Ausbildungsaufträge (bloß) als Auskunfts- und Anmeldebüro für die Fahrschule des Zweitbeklagten agiere und dass die Ausbildung dieser Klassen in den Räumlichkeiten und auf Rechnung dieser Fahrschule erfolge.
+Der Kläger nahm die Beklagten aufgrund dieser Vorgangsweise wegen Rechtsbruch (Verletzung der §§ 108 ff KFG) nach § 1 UWG und Irreführung nach § 2 UWG auf Unterlassung in Anspruch und beantragte unter anderem die Erlassung einer einstweiligen Verfügung.
+Der Senat wies den Revisionsrekurs gegen die Abweisung des Sicherungsantrags zurück (4 Ob 192/17i). Er billigte die Auffassung, § 108 Abs 3 KFG untersage die Entgegennahme von Anmeldungen für eine andere Fahrschule nicht und es sei überdies ausreichend, die Information über die „Partnerfahrschule“ durch einen weiteren Mausklick abrufbar zu halten, und dieser Hinweis stelle ausreichend klar, dass der Kurs nicht an einem anderen Standort der Beklagten, sondern in einer zum gleichen Franchisesystem gehörenden Partnerfahrschule abgehalten wird.
+Im Hauptverfahren hielten die Vorinstanzen diese rechtliche Beurteilung aufrecht und wiesen die Klage ab.
+Der Kläger zeigt in seiner außerordentlichen Revision keine erheblichen Rechtsfragen auf.
+Rechtliche Beurteilung
+1.1. Gibt das Berufungsgericht die Feststellungen des Erstgerichts unrichtig wieder und legt sie seiner rechtlichen Beurteilung zugrunde, verwirklicht dies – entgegen der Revision – keine Nichtigkeit, sondern eine Aktenwidrigkeit. Sie ist dadurch zu bereinigen, dass der Oberste Gerichtshof bei seiner Prüfung von den tatsächlichen Feststellungen des Erstgerichts ausgeht (RS0110055; RS0116014).
+1.2. Auch ein solcher Vorwurf ist dem Berufungsgericht aber nicht zu machen. Es nahm an, im Provisorialverfahren hätten sowohl das Rekursgericht als auch der Oberste Gerichtshof angenommen, der tatsächliche Kursort werde bei jedem der auf der Website der Erstbeklagten angebotenen Kurse über einen Mausklick angezeigt. Dies habe der Kläger im Hauptverfahren nicht zu widerlegen versucht, sodass die Berufung mit ihrer nunmehr gegenteiligen Behauptung gegen das Neuerungsverbot verstoße. Darin liegt keine grobe Fehlbeurteilung dieser Frage des Einzelfalls (vgl RS0039927 [T7]; RS0040078 [T3]).
+1.3. Ebenso verhält es sich mit der Auslegung der Feststellungen des Erstgerichts (RS0118891), dass ein solcher Hinweis auch, aber eben nicht nur bei den Kursen erfolgt, die in der Fahrschule des Zweitbeklagten abgehalten werden. Das Erstgericht hat nämlich – disloziert (vgl RS0043110) – ohnehin eine Aufklärung bei allen Kurse festgestellt (Urteil S 10).
+2. In der Entscheidung des Provisorialverfahrens hat es der Senat für vertretbar erachtet, die auch hier zu prüfende Art eines Hinweises ausreichen zu lassen, um (noch rechtzeitig) über den tatsächlichen Kursort bei solchen Theoriekursen aufzuklären, die in der Fahrschule des Zweitbeklagten stattfinden. Wenn das Berufungsgericht nunmehr davon ausging, ein solcher Hinweis reiche ebenfalls zur Aufklärung darüber aus, dass am Standort der Fahrschule der Erstbeklagten ausgeschriebene Kurse tatsächlich in ihrer Außenstelle (und umgekehrt) stattfinden und dass diese Kurse nicht „doppelt“ stattfinden (wofür es zusätzlich die unmittelbare Gegenüberstellung zu genau denselben Terminen beachtete), liegt darin ebenfalls keine korrekturbedürftige Fehlbeurteilung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00044.19B.0528.000

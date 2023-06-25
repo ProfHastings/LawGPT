@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.12.1975
+Geschäftszahl
+8Ob253/75
+Norm
+Außerstreitgesetz §16;
+Gesetz über Gesellschaften mit beschränkter Haftung §29 Abs1 Z2;
+Kopf
+SZ 48/133
+Spruch
+Die im Gesellschaftsvertrag einer GmbH (mit durchschnittlich mehr als 300 Arbeitnehmern) enthaltene Bestimmung, daß ein Aufsichtsrat bestellt werden kann, wenn die Gesellschafter dies einstimmig beschließen, verstößt nicht gegen § 29 Abs. 1 Z. 2 GmbHG. Die Beschlüsse der Untergerichte, die die Eintragung der Änderung des Gesellschaftsvertrages unter Hinweis auf diese Gesetzesbestimmung ablehnten, sind offenbar gesetzwidrig, weil sie die Gesellschafter hindern, von der ihnen durch das GmbHG eingeräumten Vertragsfreiheit Gebrauch zu machen
+OGH 10. Dezember 1975, 8 Ob 253/75 (OLG Linz 3 R 162/75; KG Wels HR
+458)
+Text
+Im Handelsregister des Kreisgerichtes Wels ist seit 13. Oktober 1969 unter HRB Nr. 458 die Handelsgesellschaft "E-werk St. Ges. m. b. H."
+mit dem Sitz in St. eingetragen.
+In der am 4. April 1975 abgehaltenen Generalversammlung wurde Punkt "Zehntens" des Gesellschaftsvertrages neu gefaßt. Nach Abs. 1 dieser Vertragsbestimmung kann ein Aufsichtsrat bestellt werden, wenn die Gesellschafter die Bestellung eines solchen einstimmig beschließen. Die weiteren Absätze enthalten Bestimmungen über die Bestellung, die Zusammensetzung, die Tätigkeit sowie die Rechte und Pflichten des Aufsichtsrates.
+Da die Anzahl der Arbeitnehmer der Einschreiterin im Durchschnitt 300 übersteigt, hat diese dem Handelsregister am 10. Juni 1975 die Bestellung eines Aufsichtsrates mitgeteilt und gleichzeitig die angeführte Abänderung des Gesellschaftsvertrages zur Eintragung angemeldet. Einer Aufforderung seitens des Erstgerichtes zur Änderung des Punkt "Zehntens" des Gesellschaftsvertrages in seinem Abs. 1 kam die Einschreiterin nicht nach.
+Mit Beschluß vom 11. September 1975 lehnte das Erstgericht hierauf die Eintragung der Änderung des Gesellschaftsvertrages ab, weil sein Punkt "Zehntens" der Bestimmung des § 29 Abs. 1 Z. 2 GmbHG, die die Bestellung eines Aufsichtsrates bei einer 300 im Durchschnitt übersteigenden Arbeitnehmerzahl zwingend vorschreibe, widerspreche.
+Das Rekursgericht gab dem Rekurs der Einschreiterin keine Folge.
+Der Oberste Gerichtshof gab dem ao. Revisionsrekurs der Einschreiterin Folge und ordnete die angestrebte Eintragung der Änderung des Gesellschaftsvertrages ins Handelsregister an.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist zulässig (SZ 39/103) und begrundet.
+In gleicher Weise wie das Registergericht sich bei der gemäß § 11 GmbHG zu prüfenden Gesetzmäßigkeit der Anmeldung einer GmbH nicht nur auf die formellen Voraussetzungen der Eintragungen beschränken darf, sondern auch die materiellen Voraussetzungen, insbesondere hinsichtlich ungesetzlicher Bestimmungen des Gesellschaftsvertrages prüfen muß (vgl. 6 Ob 96/73), hat es vor der Eintragung einer Abänderung des Gesellschaftsvertrages diese auf Verstöße gegen zwingende Gesetze zu untersuchen. Dem Ergebnis dieser Prüfung durch die Vorinstanzen, wonach der Abs. 1 des Punkt 10 des Gesellschaftsvertrages in der geänderten Fassung der zwingenden Bestimmung des § 29 Abs. 1 Z. 2 GmbHG widerspreche, vermag der Oberste Gerichtshof allerdings nicht zu folgen.
+Durch die in der Vertragsbestimmung geregelte Befugnis der Gesellschafter zur Bestellung eines Aufsichtsrates wird die in § 29 Abs. 1 Z. 2 GmbHG normierte Pflicht zur Bestellung eines Aufsichtsrates nicht berührt. Es besteht daher kein zwingender Grund, dies in einer besonderen Vertragsbestimmung ausdrücklich festzuhalten. Es kann aber auch nicht gesagt werden, daß die beschlossene Vertragsänderung so lange unzulässig sei, als die Zahl der Arbeitnehmer 300 überschreite. Es bleibt vielmehr den Gesellschaftern unbenommen, den Aufsichtsrat sei es den obligatorischen, sei es im Falle des Wegfallens der Voraussetzungen hiefür, den fakultativen - den individuellen Besonderheiten der Gesellschaft im Rahmen der gesetzlichen Schranken anzupassen (Kastner, Der Gesellschafter, 1974, 54; Kastner, JBl. 1974, 339).
+Der neugefaßte Punkt 10 des Gesellschaftsvertrages verstößt entgegen der Ansicht der Vorinstanzen - nicht gegen die zwingenden Bestimmungen des § 29 Abs. 1 Z. 2 GmbHG i. d. F. des BGBl. 82/1974. Die Beschlüsse der Vorinstanzen hindern die Gesellschafter, von der ihnen durch das GmbHG eingeräumten Vertragsfreiheit, die in Ansehung der vorliegenden Regelung insbesondere in den §§ 29 Abs. 6, § 30
+(arg. " ..... wenn der Gesellschaftsvertrag nicht anderes bestimmt,"), § 32 (arg. " ..... weitere Obliegenheiten können dem Aufsichtsrat durch Gesellschaftsvertrag übertragen werden") leg. cit. ausdrücklich verankert ist, Gebrauch zu machen. Die bekämpfte Entscheidung ist daher offenbar gesetzwidrig (vgl. 1 Ob 141/661).
+Dem gemäß § 16 AußStrG zulässigen und sachlich begrundeten außerordentlichen Revisionsrekurs war daher Folge zu geben und die Eintragung der Vertragsänderung zu bewilligen.

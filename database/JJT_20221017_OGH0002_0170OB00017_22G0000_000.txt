@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.10.2022
+Geschäftszahl
+17Ob17/22g
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende, die Hofrätinnen Mag. Malesich und Dr. Kodek und die Hofräte Dr. Stefula und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei P* GmbH, *, vertreten durch Mag. Klaus Ferdinand Lughofer und andere Rechtsanwälte in Linz, gegen die beklagte Partei Dr. R* als Masseverwalter im Insolvenzverfahren über das Vermögen der T* GmbH, vertreten durch Beurle Rechtsanwälte GmbH & Co KG in Linz, wegen 45.867,45 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 23. August 2022, GZ 1 R 74/22s-20, womit der Beschluss des Landesgerichts Linz vom 29. Juni 2022, GZ 4 Cg 106/21g-16, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Die Beschlüsse der Vorinstanzen werden dahin abgeändert, dass die Einrede der Unzulässigkeit des Rechtswegs verworfen wird.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 4.076,64 EUR (darin enthalten 679,44 EUR USt) bestimmten Kosten des Zwischenstreits binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Mit Beschluss des Landesgerichts Linz vom 4. Juli 2013 wurde über das Vermögen der T* GmbH das Insolvenzverfahren eröffnet und der Beklagte zum Masseverwalter bestellt.
+[2] 		Der nunmehrige Geschäftsführer der Klägerin war aufgrund eines zwischen dieser und der späteren Schuldnerin geschlossenen Werkvertrags ab 13. August 2012 für Letztere als Geschäftsführer tätig. Nach Insolvenzeröffnung wurde gegen ihn ein Strafverfahren wegen des Verdachts des Vergehens der grob fahrlässigen Beeinträchtigung von Gläubigerinteressen (§ 159 iVm § 161 StGB) eingeleitet; mit Urteil des Landesgerichts Linz vom 5. Mai 2020 wurde er jedoch gemäß § 259 Z 3 StPO von dem gegen ihn erhobenen Strafantrag freigesprochen. Für seine Verteidigung in diesem Strafverfahren entstanden ihm Rechtsanwaltskosten von insgesamt 45.867,45 EUR.
+[3] 		Im Insolvenzverfahren über das Vermögen der Schuldnerin wurde keine daraus resultierende Forderung angemeldet.
+[4] 		Die Klägerin begehrt den Ersatz dieser Anwaltskosten aus dem Titel der Risikohaftung nach § 1014 ABGB mit der Behauptung, sie ihrem Geschäftsführer gegen Abtretung der korrespondierenden Ansprüche bezahlt zu haben. Es handle sich um eine Masseforderung.
+[5] 		Der Beklagte wendete insbesondere ein, beim geltend gemachten Anspruch handle es sich um eine Insolvenzforderung, weshalb der Rechtsweg mangels Anmeldung im Insolvenzverfahren unzulässig sei.
+[6] 		Das Erstgericht wies die Klage wegen Unzulässigkeit des Rechtswegs zurück, weil die eingeklagte Forderung eine Insolvenzforderung sei.
+[7] 		Das Rekursgericht bestätigte diese Entscheidung und ließ den Revisionsrekurs zu, weil höchstgerichtliche Rechtsprechung zur Frage fehle, ob der bloße Umstand, dass der Machthaber vor Insolvenzeröffnung auftragsgemäß mit typischem Risiko verbundene Geschäftsbesorgungen durchgeführt habe, zur Qualifikation der sich daraus allenfalls ergebenden Risikohaftung des Machtgebers nach § 1014 ABGB als Insolvenzforderung ausreiche.
+Rechtliche Beurteilung
+[8] 		Der Revisionsrekurs des Klägers ist zulässig und im Ergebnis berechtigt.
+[9] 		1. Während Masseforderungen nach Eintritt ihrer Fälligkeit durch den Insolvenzverwalter zu befriedigen sind und bei Nichtzahlung vom Massegläubiger eingeklagt werden können (Engelhart in Konecny, Insolvenzgesetze § 46 IO Rz 9 mwN), sind Insolvenzforderungen zunächst dem Anmeldungs- und Prüfungsverfahren zu unterziehen. Der Geltendmachung einer im Insolvenzverfahren nicht angemeldeten Insolvenzforderung steht das Prozesshindernis der Unzulässigkeit des Rechtswegs entgegen (RIS-Justiz RS0039281 [T12]).
+[10] 		2. Für die Zulässigkeit des Rechtswegs sind in erster Linie der Wortlaut des Klagebegehrens und die Klagebehauptungen ausschlaggebend. Maßgeblich ist die Natur des geltend gemachten Anspruchs, wofür wiederum der geltend gemachte Rechtsgrund von ausschlaggebender Bedeutung ist (RIS-Justiz RS0045584 [T7] uva). Die Klägerin qualifiziert nun ihren im Insolvenzverfahren auch nicht angemeldeten Ersatzanspruch ausdrücklich als Masseforderung. Dem entspricht auch ihr Begehren, das konsequenterweise auf Zahlung aus der Masse und gerade nicht (auch nicht hilfsweise, wie etwa im Anlassfall der Entscheidung 8 ObA 116/03x) auf die Feststellung ihres Anspruchs als Insolvenzforderung gerichtet ist. Damit ist entgegen der Auffassung der Vorinstanzen der Rechtsweg zulässig. Ob das Klagebegehren materiell berechtigt ist, ob also eine Masseforderung vorliegt, ist hingegen für die Entscheidung über die Zulässigkeit des Rechtswegs nicht maßgeblich. Darüber ist vielmehr meritorisch zu entscheiden (vgl 9 ObA 134/95, 8 ObA 116/03x).
+[11] 		3. Dass es sich bei der geltend gemachten Forderung nach der Beurteilung der Vorinstanzen um eine Insolvenzforderung handle, weshalb richtigerweise anstelle des Zahlungsbegehrens ein anderes – nämlich auf Feststellung als Insolvenzforderung lautendes – Begehren zu erheben gewesen wäre, wobei diesem hypothetischen Begehren jedoch mangels vorheriger Anmeldung (und Bestreitung) im Insolvenzverfahren das Prozesshindernis der Unzulässigkeit des Rechtswegs entgegen stünde, führt also entgegen der Ansicht der Vorinstanzen nicht dazu, dass dieses Prozesshindernis auch für das tatsächlich erhobene (Zahlungs-)Begehren gilt.
+[12] 		4. Da angesichts der Formalentscheidung der Vorinstanzen eine Erledigung in der Sache selbst durch den Obersten Gerichtshof derzeit nicht in Betracht kommt (vgl Sloboda in Fasching/Konecny3 IV/1 § 526 ZPO Rz 26 mwN), ist die insolvenzrechtliche Qualifikation des eingeklagten Anspruchs in diesem Verfahrensstadium nicht zu prüfen.
+[13] 		5. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Der Beklagte ist im Zwischenstreit über die Zulässigkeit des Rechtswegs unterlegen; er hat der Klägerin daher deren darauf entfallende Kosten zu ersetzen (RIS-Justiz RS0035955). Mangels abgesonderter Verhandlung über die Prozesseinrede des Beklagten sind nur die Kosten der Rechtsmittelverfahren im Zwischenstreit zuzusprechen (vgl 1 Ob 80/22d mwN). Bei einer Bemessungsgrundlage von 45.867,45 EUR beträgt der Ansatz nach TP 3B nur 1.028,10 EUR und jener nach TP 3C nur 1.233,90 EUR. Die verzeichnete Pauschalgebühr für den Rekurs und den Revisionsrekurs war nicht zu entrichten und steht daher nicht zu.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00017.22G.1017.000

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2016
+Geschäftszahl
+3Ob198/16p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und  Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei F***** GmbH, *****, vertreten durch Dr. Markus Andréewitch, Rechtsanwalt in Wien, gegen die beklagte Partei T***** GmbH, *****, vertreten durch Mag. Wolfgang Vinatzer, Rechtsanwalt in Wien, wegen Einwendungen gegen den Anspruch (§ 35 EO), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 24. August 2016, GZ 46 R 233/16d-13, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der gerügte Verfahrensmangel wurde geprüft; er liegt nicht vor (§ 510 Abs 3 ZPO).
+2. Nach § 234 ZPO hat die Veräußerung einer streitverfangenen Sache oder Forderung auf den Prozess keinen Einfluss. Diese Bestimmung stellt nach der herrschenden Irrelevanztheorie insofern eine Ausnahme von der Regelung des § 406 ZPO dar, als für die Frage der Aktiv- und Passivlegitimation nicht der Schluss der Verhandlung erster Instanz, sondern vielmehr der Zeitpunkt der Streitanhängigkeit entscheidend ist (RIS-Justiz
+RS0109183 [T1]). § 234 ZPO ist eine Schutzvorschrift zu Gunsten der Gegenpartei, die verhindern soll, dass sich eine Partei durch Veräußerung des Streitgegenstands ihrer Sachlegitimation entledigt und damit einen an sich berechtigten Anspruch des Gegners zum Scheitern bringt (RIS-Justiz RS0039314 [T1]). Die Zession der eingeklagten Forderung nach Streitanhängigkeit ist deshalb für die materiell-rechtliche Beurteilung des geltend gemachten Anspruchs ohne Bedeutung (RIS-Justiz RS0039242 [T11]).
+3. Entgegen der Ansicht der Beklagten kann keine Rede davon sein, dass die Klägerin im Titelverfahren im Hinblick auf die nach Streitanhängigkeit erfolgte (und ihr bekannt gegebene) Zession der eingeklagten (jetzt betriebenen) Forderung einwenden hätte müssen, dass sie nicht zur Zahlung, sondern nur zum gerichtlichen Erlag zu verpflichten sei. Der von der Beklagten in diesem Zusammenhang zitierte Rechtssatz (RIS-Justiz RS0011442) bezieht sich auf den hier nicht vorliegenden Fall einer exekutiven Pfändung der eingeklagten Forderung; nur in dieser Konstellation ist auf die Vorschrift des § 308 EO Bedacht zu nehmen, wonach die Überweisung der gepfändeten Forderung zur Einziehung insbesondere bewirkt, dass grundsätzlich nur noch der Überweisungsgläubiger zur Geltendmachung (Einklagung) der überwiesenen Forderung gegen den Drittschuldner berechtigt ist, während dem Verpflichteten im Umfang der Pfändung die Sachlegitimation zur Geltendmachung dieser Forderung fehlt (6 Ob 89/03m mwN).
+4. Die von der Beklagten ins Treffen geführte Entscheidung 1 Ob 12/91 ist, worauf bereits die Klägerin in erster Instanz zutreffend hingewiesen hat (ON 5, AS 85), hier nicht einschlägig, weil sie einen ganz anderen Sachverhalt betraf: Dort war der späteren Oppositions- (und schließlich Amtshaftungs-)klägerin bereits in dem von einer Zessionarin eingeleiteten Titelverfahren bekannt geworden, dass die eingeklagte Forderung von der ursprünglich Berechtigten nicht nur an die Klägerin, sondern darüber hinaus auch an mehrere Banken abgetreten worden war. Vor diesem Hintergrund wurde ausgesprochen, dass die Oppositionsklägerin bereits im Titelprozess gehalten gewesen wäre, die Tatsache der (zu ergänzen: mehrfachen) Verpfändung einzuwenden, um statt zur Leistung nur zum gerichtlichen Erlag verurteilt zu werden.
+5. Dass die von der Klägerin nach Eintritt der Vollstreckbarkeit der betriebenen Forderung vorgenommene, mittlerweile rechtskräftig angenommene gerichtliche Hinterlegung des geschuldeten Betrags gemäß § 1425 ABGB schuldbefreiende Wirkung hatte (vgl RIS-Justiz RS0033610), weil sie auf die erst lange nach Schluss der Verhandlung erster Instanz aufgetretenen Unstimmigkeiten zwischen der Beklagten und der Zessionarin über die Wirksamkeit der Zession zurückzuführen war, aufgrund derer sie sowohl von der Beklagten als auch von der Zessionarin zur Zahlung der nun betriebenen Forderung aufgefordert wurde, zieht die Revisionswerberin zu Recht nicht mehr in Zweifel.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00198.16P.1018.000

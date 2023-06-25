@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.03.2017
+Geschäftszahl
+4Ob9/17b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik und Dr. Schwarzenbacher sowie die fachkundigen Laienrichterinnen Mag. Dr. Müller-Hiel und Mag. Dr. Krenn als weitere Richter in der Patentrechtssache der gefährdeten Partei B***** GmbH, *****, vertreten durch Schwarz Schönherr Rechtsanwälte KG in Wien, wider die Gegnerin der gefährdeten Partei C***** AG, *****, vertreten durch WERDNIK KUSTERNIGG Rechtsanwälte GmbH in Klagenfurt, wegen Erlassung einer einstweiligen Verfügung zur Beweissicherung (Interesse 35.000 EUR), über den Revisionsrekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 8. September 2016, GZ 34 R 84/16x-25, womit der Rekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Handelsgerichts Wien vom 20. Juli 2016, GZ 19 Cg 17/16w-20, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Der angefochtene Beschluss wird aufgehoben und dem Rekursgericht wird aufgetragen, über den Rekurs unter Abstandnahme vom gebrauchten Zurückweisungsgrund zu entscheiden.
+Die Kosten des Revisionsrekursverfahrens sind weitere Kosten des Rekursverfahrens.
+Text
+Begründung:
+Die Gefährdete ist Inhaberin des Patents EP ***** „Fein verteilte Stabilisatorzusammensetzung für halogenhaltige Polymere“. Die Gegnerin entwickelt, produziert und vertreibt ebenfalls Stabilisatorzusammen- setzungen.
+Mit ihrem Antrag auf Erlassung einer einstweiligen Verfügung zur Beweissicherung (§ 151b PatG) behauptet die Gefährdete, die Gegnerin nutze das Streitpatent aus.
+Das Erstgericht erließ die beantragte einstweilige Verfügung ohne Anhörung der Gefährdeten; sie wurde in weiterer Folge vollzogen.
+Mit dem dagegen (gemeinsam mit dem Widerspruch) erhobenen Rekurs verband die Gegnerin den hier gegenständlichen Antrag auf Einschränkung der Akteneinsicht in Bezug auf den Bericht der Sachverständigen samt allen Beilagen, den sie auf das wesentliche Argument stützt, dieser enthalte Rezepturgeheimnisse, nämlich interne Bezeichnungen aus der Rohstoff- sowie aus der Rezeptur- und Rückstellmusterdatenbank, die der Gefährdeten ohne Einschränkung einsehbar würden.
+Das Erstgericht gab dem Antrag auf Einschränkung der Akteneinsicht im Umfang von „Punkt 2.1 des Berichts ON 12 sowie der Anhänge 1, 2 und 5“ statt; den darüber hinausgehenden Antrag wies es ab.
+Das Rekursgericht wies den auf eine weitergehende Einschränkung der Akteneinsicht gerichteten Rekurs der Gegnerin zurück und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige; ein Zulassungsausspruch unterblieb. Neben § 73 EO (betreffend das Akteneinsichtsrecht im Exekutionsverfahren) verweise § 78 Abs 1 EO auf die allgemeinen Bestimmungen der ZPO. § 298 Abs 2 ZPO regle die (teilweise) Ausnahme der Akteneinsicht des Prozessgegners in vorgelegte Urkunden. Gegen einen solchen Beschluss stehe gemäß § 78 Abs 1 EO und § 298 Abs 2 ZPO iVm § 319 Abs 1 ZPO kein Rechtsmittel offen.
+Dagegen richtet sich der Revisionsrekurs der Gegnerin mit dem Antrag, die Akteneinsicht im beantragten, größeren, Umfang zu beschränken.
+Die Gefährdete beantragt in ihrer Revisionsrekursbeantwortung, den Revisionsrekurs zurückzuweisen bzw ihm nicht Folge zu geben.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig und berechtigt.
+1.1. Nach ständiger Rechtsprechung ist ein Beschluss des Rekursgerichts, mit dem ein an dieses gerichteter Rekurs zurückgewiesen wurde, nur wegen einer erheblichen Rechtsfrage und nur dann anfechtbar, wenn der Entscheidungsgegenstand (nunmehr) 30.000 EUR übersteigt. Das Rekursgericht hat daher auszusprechen, ob der ordentliche Revisionsrekurs zulässig ist (RIS-Justiz RS0044501 [T7]).
+1.2. Ein Verbesserungsauftrag an das Rekursgericht konnte hier jedoch unterbleiben, weil die Revisionsrekurswerberin eine erhebliche Rechtsfrage aufzeigte (vgl RIS-Justiz RS0002488 [T11]).
+2.1. Die Exekutionsordnung regelt in § 73, dass die Parteien und alle sonstigen Beteiligten Einsicht in die das Exekutionsverfahren betreffenden Akten begehren und auf ihre Kosten von einzelnen Aktenstücken Abschriften verlangen können.
+2.2. Die in § 78 EO normierte subsidiäre Anwendung der ZPO im Exekutionsverfahren betrifft nur konkret bezeichnete Bestimmungen, und zwar
+die allgemeinen Bestimmungen der Zivilprozessordnung über die Parteien, das Verfahren und die mündliche Verhandlung, über den Beweis, die Beweisaufnahme und über die einzelnen Beweismittel, über richterliche Beschlüsse und über das Rechtsmittel des Rekurses.
+Damit ist die ZPO nicht generell subsidiäre Verfahrensnorm für das Exekutionsverfahren, sondern nur bestimmte Teile davon, darunter unter anderem die §§ 292 bis 383 (Jakusch in Angst/Oberhammer, EO3 § 78 EO Rz 1).
+2.3. Nach § 319 Abs 1 ZPO ist gegen Beschlüsse ua nach § 298 ZPO kein Rechtsmittel zulässig.
+2.4. Der vom Rekursgericht herangezogene § 298 Abs 2 ZPO findet sich im dritten Titel des zweiten Teils der ZPO mit der Bezeichnung „Beweis durch Urkunden“. Im vorliegenden Fall handelt es sich aber nicht um einen Urkundenbeweis bzw die Akteneinsicht in eine Parteienurkunde, sondern um jene in ein Sachverständigengutachten. Der Sachverständigenbeweis ist jedoch im fünften Titel (§§ 351–367 ZPO) geregelt.
+3.1. § 65 Abs 1 EO lässt das Rechtsmittel des Rekurses für das Exekutionsverfahren generell zu, soweit die Exekutionsordnung nicht bestimmte Beschlüsse für unanfechtbar erklärt oder ein abgesondertes Rechtsmittel wider sie versagt. Die Beschlüsse, die nicht durch ein abgesondertes Rechtsmittel angefochten werden können, sind in § 66 Abs 1 EO und § 239 Abs 2 EO – nicht taxativ –genannt. Denn darüber hinaus ist gemäß § 78 EO ein abgesonderter Rekurs in jenen Fällen nicht zulässig, in denen dies nach der ZPO ausgeschlossen ist und die EO keine abweichenden Bestimmungen enthält (3 Ob 272/03a; 3 Ob 267/08y; vgl auch Rassi in Burgstaller/Deixler-Hübner, EO §§ 65–67 Rz 18 f).
+3.2. Der Rechtsmittelausschluss nach § 319 ZPO betrifft „Beschlüsse, Anordnungen und Aufträge“ nach konkret bezeichneten Bestimmungen der ZPO. Rechtsmittelausschlüsse sind Ausnahmen vom geltenden Rechtsmittelsystem, sie sind daher grundsätzlich einschränkend auszulegen (vgl 4 Ob 218/15k).
+3.3. Der Oberste Gerichtshof ging in der Entscheidung 3 Ob 28/11f, die den Ausschluss von nicht entscheidungswesentlichen Teilen einer Urkunde von der Akteneinsicht zum Gegenstand hatte, gemäß § 319 ZPO (iVm § 298 Abs 2 ZPO) vom Fehlen der Rechtsmittellegitimation aus. Ein solcher Fall liegt aber hier nicht vor. Hier geht es
+– wie bereits ausgeführt – nicht um einen Urkundenbeweis bzw die Einsicht in eine Parteienurkunde. Der Rechtsmittelausschluss nach § 319 ZPO ist daher nicht anwendbar.
+4. Mangels Rechtsmittelausschlusses ist daher der Rekurs der Gegnerin gegen den Beschluss erster Instanz zulässig. Dem Revisionsrekurs der Gegnerin ist somit Folge zu geben. Der angefochtene Beschluss ist aufzuheben und dem Rekursgericht aufzutragen, über den Rekurs meritorisch zu entscheiden.
+5. Der Kostenvorbehalt gründet sich auf § 78 EO iVm § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00009.17B.0328.000

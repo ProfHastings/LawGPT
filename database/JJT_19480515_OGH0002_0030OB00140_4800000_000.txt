@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.05.1948
+Geschäftszahl
+3Ob140/48
+Norm
+Fristengesetz §1;
+(Zweite) Kriegsmaßnahmenverordnung §32;
+(Zweite) Kriegsmaßnahmenverordnung §33;
+(Zweite) Kriegsmaßnahmenverordnung §34;
+Mietengesetz §19 Abs2 Z10;
+Mietengesetz §19 Abs2 Z13;
+Mietengesetz §19 Abs4;
+ZPO §519;
+Kopf
+SZ 21/95
+Spruch
+Die Frist des § 19, Abs. 4 MietG. ist eine Ausschlußfrist, deren Einhaltung auch ohne darauf gerichtete Einwendung der gekundigten Partei von Amts wegen, jedoch unter Bedachtnahme auf § 1 des Gesetzes vom 2. Juli 1947, BGBl. Nr. 193, wahrzunehmen ist.
+Entscheidung vom 15. Mai 1948, 3 Ob 140/48.
+I. Instanz: Bezirksgericht Salzburg, II. Instanz: Landesgericht Salzburg.
+Text
+Das Erstgericht hob die auf den Kündigungsgrund des § 19, Abs. 2, Z. 10 und 13 MietG. wegen gänzlicher Untervermietung der vom Beklagten gemieteten Wohnung seit Jänner 1945 gestützte Kündigung auf, da die Wohnung weiterhin zur Befriedigung eines regelmäßigen Wohnbedürfnisses benützt werde und die Klägerin von der Tatsache der gänzlichen Untervermietung der Wohnung bereits im Herbst 1945 erfahren habe, daher wegen Ablaufes der Frist des § 19, Abs. 4 MietG. von der Geltendmachung des Kündigungsgrundes nach § 19, Abs. 2, Z. 10 MietG. ausgeschlossen sei. Das Berufungsgericht hob das Urteil, das von der Klägerin lediglich wegen des Ausspruches angefochten wurde, daß die Voraussetzungen für den Kündigungsgrund des § 19, Abs. 2, Z. 10 nicht gegeben seien, auf und verwies die Rechtssache zur neuerlichen Verhandlung und Urteilsfällung an das Erstgericht mit der Begründung zurück, daß die Beklagte nicht eingewendet habe, die Klägerin habe bereits vor Ablauf der Frist des § 19, Abs. 4 MietG. von der Tatsache der gänzlichen Untervermietung erfahren, und daß auf diese Tatsache nicht von Amts wegen Bedacht zu nehmen sei. Außerdem bezeichnete es das Verfahren als mangelhaft, weil nicht festgestellt worden sei, ob die Klägerin auch von der Tatsache der Untervermietung vor Ablauf der dreimonatigen Frist erfahren habe. Das Berufungsgericht ordnete gemäß § 519, Z. 3 ZPO. an, daß das Verfahren erst nach Rechtskraft seiner Entscheidung fortzusetzen sei.
+Der Oberste Gerichtshof gab dem Rekurse der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Begründung:
+Der vom Beklagten gegen den Aufhebungsbeschluß erhobene Rekurs ist, soweit er sich gegen die Rechtsansicht des Berufungsgerichtes richtet, die Einhaltung der Frist des § 19, Abs. 4 MietG. sei nicht von Amts wegen wahrzunehmen, begrundet. Swoboda (Kommentar zum MietG., S. 257) stützt seine Ansicht, daß der Gekundigte die Versäumung der Frist des § 19, Abs. 4 MietG. zu behaupten und zu beweisen habe, auf die Entscheidung SZ. VI/256, die besagt, es sei die Meinung rechtsirrig, daß der Gekundigte durch einfache Erhebung der Einwendungen dem Kundigenden auch den Beweis auflaste, daß dieser vom Sachverhalt Kenntnis erlangt habe und seither nicht mehr als drei Monate verstrichen seien. Der Oberste Gerichtshof ist aber von dieser Rechtsmeinung längst abgegangen und steht seit nahezu 20 Jahren ständig auf dem Standpunkte, daß die Frist des § 19, Abs. 4 MietG. eine Ausschlußfrist ist, auf die von Amts wegen Bedacht genommen werden muß und deren Einhaltung auch ohne darauf gerichtete Einwendung des Beklagten zu berücksichtigen ist. Die Kündigung ist verwirkt, wenn der Kläger weder behauptet noch nachweist, daß er von dem Kündigungstatbestand vor weniger als drei Monaten vor Einbringung der Kündigung Kenntnis erhalten hat (so SZ. XII/300; JBl. 1937, S. 431 und die nicht veröffentlichte Entscheidung 3 Ob 603/30 vom 16. September 1930). Aus den Worten des Gesetzes "der Kündigungsgrund ... kann nicht mehr geltend gemacht werden, wenn ..." ergibt sich, daß die Einhaltung der Frist Voraussetzung für die Geltendmachung des Kündigungsgrundes ist und daß es sich somit nicht um eine Verjährungsfrist, die sich bei Vorliegen eines Unterbrechungsgrundes oder Verjährungshindernisses verlängert oder gar nicht zu laufen beginnt, sondern um eine materiell-rechtliche Ausschluß- oder Präklusivfrist handelt, die von Amts wegen wahrzunehmen ist. Dennoch mußte dem Rekurs aus nachstehenden Gründen der Erfolg versagt bleiben.
+Beide Untergerichte haben übersehen, daß sowohl nach den §§ 32 bis 34 der bis zum Inkrafttreten des Bundesgesetzes vom 3. Juli 1947, BGBl. Nr. 193, über die Zulässigkeit der Geltendmachung verjährter Rechte, gemäß Art. VIII, Abs. 2, Z. 20 des Gesetzes vom 3. Oktober 1945, StGBl. Nr. 188, aufrecht erhaltenen zweiten Kriegsmaßnahmenverordnung, DRGBl. 1944, I, S. 229, als auch nach § 1 desvvorerwähnten Bundesgesetzes vom 2. Juli 1947, BGBl. Nr. 193, Rechte trotz Ablaufes der Verjährungs- oder aller sonstigen, auch der materiell-rechtlichen Ausschlußfristen bis 30. Juni 1948 gerichtlich geltend gemacht werden können. Es wäre daher die Klägerin trotz Ablaufes der Frist des § 19, Abs. 4 MietG. vor Einbringung der Kündigung von der Geltendmachung des Kündigungsgrundes nach § 19, Abs. 2, Z. 10 MietG. nicht ausgeschlossen, weshalb der angefochtene Beschluß, wenn auch aus anderen Gründen, zu bestätigen war.

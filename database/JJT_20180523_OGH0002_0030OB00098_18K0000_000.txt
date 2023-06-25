@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2018
+Geschäftszahl
+3Ob98/18k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Dr. Christian Adam, Rechtsanwalt in Salzburg, als Insolvenzverwalter im Konkurs über das Vermögen des A*****, gegen die beklagte Partei G***** GmbH, *****, vertreten durch Mag. Gerlinde Füssel, Rechtsanwältin in Linz, wegen 39.118,57 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 29. März 2018, GZ 3 R 26/18s-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Durch Zahlung einer Schuld an den Schuldner nach Eröffnung des Insolvenzverfahrens wird der Verpflichtete gemäß § 3 Abs 2 IO nicht befreit, es sei denn, dass das Geleistete der Insolvenzmasse zugewendet worden ist oder dass dem Verpflichteten zur Zeit der Leistung die Eröffnung des Insolvenzverfahrens weder bekannt war noch bekannt sein musste, dass also die Unkenntnis nicht auf einer Außerachtlassung der gehörigen Sorgfalt beruhte. Die Beweislast dafür trifft den zahlenden Schuldner. Gelingt ihm dieser Beweis nicht, muss er an die Masse neuerlich leisten (RIS-Justiz
+RS0063862;
+RS0063845).
+Ob dem Verpflichteten die Unkenntnis der Insolvenzeröffnung vorwerfbar ist, ist nach dem objektiven Sorgfaltsmaßstab eines ordentlichen Unternehmers (§ 347 UGB) zu beurteilen (7 Ob 113/01w = RIS-Justiz RS0063845 [T6]).
+Die Beklagte informierte sich zwar tagesaktuell über allfällige Insolvenzen ihrer Vertragspartner, traf aber  keine organisatorischen Vorkehrungen, um das ihr im konkreten Fall unterlaufene Versehen zu vermeiden, dass die Insolvenz des Schuldners beim Abgleich der Insolvenzdaten mit den Daten ihrer Vertragspartner deshalb nicht erkannt wurde, weil der Schuldner in ihrem System versehentlich mit dem Vornamen statt mit dem Nachnamen erfasst war und die Abfrage nur mit Nachnamen erfolgte.
+Die Beurteilung des Berufungsgerichts, der Beklagten sei die Unkenntnis der Insolvenz (infolge leichter Fahrlässigkeit) vorwerfbar, weil es für die Anwendung der im kaufmännischen (unternehmerischen) Verkehr gebotenen Sorgfalt auch einer Organisation bedurft hätte, die entweder sicherstelle, dass es zu keiner Verwechslung von Vor- und Nachnamen kommen könne, oder aber durch Abfrage nach Vornamen, Nachnamen und gegebenenfalls Geschlechts- oder sonstigen Namen gewährleiste, dass trotz allfälliger Verwechslungen von Vor- und Nachnamen die Insolvenz eines Vertragspartners nicht übersehen werde, ist nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030OB00098.18K.0523.000

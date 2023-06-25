@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.1973
+Geschäftszahl
+3Ob12/73
+Norm
+EO §7 Abs2;
+EO §54 Abs1 Z2;
+KO §156a;
+Kopf
+SZ 46/10
+Spruch
+Enthält der Exekutionsantrag die Bezeichnung des Exekutionstitels, schadet es nicht, daß er im beantragten Beschluß nicht angeführt wird
+Beruft sich der betreibende Gläubiger im Exekutionsantrag auf Terminverlust und Wiederaufleben (§ 156 KO), ist nicht bloß der Terminverlust und das Wiederaufleben, sondern außerdem, wenn die Exekution nicht beim Konkursgericht beantragt wird, die rechtskräftige Bestätigung des Zwangsausgleiches im Sinne des § 7 Abs. 2 EO urkundlich nachzuweisen (Vorlage des Bestätigungs- und Aufhebungsbeschlusses)
+OGH 30. Jänner 1973, 3 Ob 12/73 (LG Klagenfurt 2 R 551/72; BG Althofen E 987/72)
+Text
+Die betreibende Gläubigerin beantragte beim Erstgericht (als Exekutionsgericht) die Fahrnisexekution zur Hereinbringung der Forderung von 69.510.35 S sowie der Kosten des Exekutionsverfahrens.
+Das Erstgericht bewilligte die Exekution, abgesehen von der Teilabweisung des Kostenbegehrens, antragsgemäß.
+Das Rekursgericht wies infolge Rekurses des Verpflichteten diesen Exekutionsantrag zur Gänze mit der Begründung ab, die betreibende Gläubigerin habe im Exekutionsantrag den Exekutionstitel nicht bezeichnet. Der Angabe des Titels komme wegen der keineswegs schlüssigen Ausführungen, vor allem hinsichtlich der Berechnung der betriebenen Forderung, gesteigerte Bedeutung zu.Die betreibende Gläubigerin habe auch keine mit der Vollstreckbarkeitsbestätigung versehene Ausfertigung des Exekutionstitels vorgelegt.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die betreibende Gläubigerin wendet sich gegen die Meinung des Rekursgerichtes, sie habe den Exekutionstitel nicht im Exekutionsantrag angeführt und mit diesem gleichzeitig vorgelegt. Es ist zwar den Ausführungen im Revisionsrekurs beizupflichten, daß im Exekutionsantrag einleitend auf den Wechselzahlungsauftrag des Landesgerichtes K vom 24. Juli 1969, GZ 16 Cg 347/69, und die daraus geschuldete Forderung samt Nebengebühren hingewiesen wurde. An einer anderen Stelle des Exekutionsantrages wird die vollstreckbare Forderung als durch diesen Wechselzahlungsauftrag gedeckt bezeichnet. Der Antrag enthält demnach die im § 54 Abs. 1 Z 2 Satz 1 EO vorgeschriebene Bezeichnung des Exekutionstitels. Daß der Text des beantragten Beschlusses nicht auch die Angabe des Exekutionstitels enthält, widerspricht nicht dieser Bestimmung. Es genügt, daß der dem Exekutionsantrag zugrunde gelegte Titel im Antrag angeführt ist.
+Mit Recht wendet sich die betreibende Gläubigerin auch gegen die Annahme, die vollstreckbare Ausfertigung des genannten Wechselzahlungsauftrages sei nicht dem Exekutionsantrag angeschlossen gewesen. Aus dem diesbezüglichen Vermerk in der Eingangsstampiglie des Erstgerichtes vom 20. Oktober 1972 ergibt sich, daß dem Schriftsatz 4 Beilagen angeschlossen waren. Es handelt sich hiebei offensichtlich um jene 4 Beilagen, die auch jetzt dem Exekutionsakt angeschlossen sind, nämlich um die Vollmacht, das Schreiben der betreibenden Gläubigerin vom 26. Juli 1972, einen Postübernahmsschein sowie um die vollstreckbare Ausfertigung des genannten Exekutionstitels. Dies ist auch daraus zu schließen, daß Wiese Beilagen und der Exekutionsantrag die gleichen Stempelungen des Aktenzeichens (durch Verwendung eines Nummerators) aufweisen.
+Dennoch sieht sich der Oberste Gerichtshof nicht in der Lage, dem Revisionsrekurs Folge zu geben.
+Beruft sich der betreibende Gläubiger in seinem Exekutionsantrag hinsichtlich der Berechnung und Zulässigkeit der Durchsetzung seines vollstreckbaren Anspruches auf die Rechtswirkungen des Terminverlustes und des Wiederauflebens der Forderung im Sinne des § 156 KO, so ist nicht bloß der Terminverlust und das Wiederaufleben (ÖRZ 1962, 254, EvBl. 1968/266, EvBl. 1968/347, EvBl. 1970/299; Heller - Berger - Stix, Komm. z. EO, 109), sondern außerdem, wenn die Exekution nicht beim Konkursgericht beantragt wird, die rechtskräftige Bestätigung des Zwangsausgleiches und dessen Inhalt (Höhe der Quoten und ihre Fälligkeit) im Sinne des § 7 Abs. 2 EO urkundlich nachzuweisen. Dies kann durch Vorlage des Bestätigungs- und Aufhebungsbeschlusses geschehen (vgl. Heller - Trenkwalder[3], 1473 FN 2). Das Fehlen der zum Nachweis der Vollstreckbarkeit des Anspruches im Sinne des § 7 Abs. 2 EO erforderlichen Urkunden ist ein Abweisungsgrund. Da die betreibende Gläubigerin den Inhalt des Zwangsausgleiches (Höhe und Quoten und ihre Fälligkeiten) nicht entsprechend nachgewiesen hat, ist die Entscheidung des Rekursgerichtes im Ergebnis richtig.

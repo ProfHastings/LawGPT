@@ -1,0 +1,23 @@
+Gericht
+OLG Linz
+Entscheidungsdatum
+27.04.2011
+Geschäftszahl
+8Bs121/11t
+Kopf
+Das Oberlandesgericht Linz hat durch den Richter Dr. Bergmayr als Vorsitzenden und die Richterinnen Dr. Engljähringer und Mag.a Reinberg in der Strafsache gegen M***** Z***** ua wegen § 28a Abs 1 SMG und anderer strafbarer Handlungen über die Beschwerde der A***** AG, ***** gegen den Beschluss des Landesgerichtes Salzburg vom 2. Februar 2011 (im Ermittlungsverfahren), 25 HR 40/11t-102, in nichtöffentlicher Sitzung entschieden:
+Spruch
+Der Beschwerde wird Folge gegeben; der angefochtene Beschluss wird  dahin abgeändert, dass die Kosten der A***** AG für Überwachungsmaßnahmen betreffend die Teilnehmeranschlüsse 0***** und 0***** laut Rechnung vom 25.11.2010 ***** mit EUR 1.675,44 (inklusive 20% USt) bestimmt werden.
+Text
+Begründung:
+Mit Beschluss des Landesgerichtes Salzburg vom 21.10.2010 wurde ua die Überwachung von Nachrichten und die Erteilung einer Auskunft über Daten einer Nachrichtenübermittlung für sechs Telefonnummern für den Zeitraum von 22. Oktober 2010 14:00 Uhr bis 19. November 2010 14:00 angeordnet (ON 34). Die Beschwerdeführerin war für die Überwachung der beiden Teilnehmeranschlüsse 0*****6 und 0*****9 zuständig . Zuvor hatte sie von 21. Mai bis 6. August 2010 Überwachungsmaßnahmen nur hinsichtlich des Teilnehmeranschlusses  0*****9 durchgeführt (ON 3, 7, 14), diese abgerechnet (ON 26) und die Kosten erhalten (ON 36f). Am 25.10.2010 wurde telefonisch angeordnet, bezüglich des Teilnehmeranschlusses 0*****6 alle Überwachungsmaßnahmen sofort einzustellen (AB-Bogen AV vom 25.10.2010).
+Mit Rechnung vom 25.11.2010 ***** (ON 68), bei der Staatsanwaltschaft Salzburg eingelangt am 26.11.2010, stellte die A***** AG für die Überwachungsmaßnahme in Bezug auf beide von ihr überwachten Teilnehmeranschlüsse (0*****6 und 0*****9) insgesamt EUR 1.675,44 (inklusive 20% USt) in Rechnung.
+Die Revisorin äußerte sich zur Rechnung dahingehend, dass die Überwachung eines Teilnehmeranschlusses mit Aktenvermerk vom 25. Oktober 2010 eingestellt worden sei und der Anspruch nach § 6 Abs 1  Überwachungskostenverordnung (ÜKVO) binnen vier Wochen nach dieser Einstellung bei sonstigem Verlust bei Gericht oder der Staatsanwaltschaft geltend zu machen gewesen wäre. Das Ende der Frist wäre daher der 22. November 2010 gewesen, die Rechnung sei verspätet (ON 90). Die Äußerungen der Revisorin wurde der A1 Telekom Austria AG zur allfälligen Gegenäußerung binnen zehn Tagen zugestellt. Eine Gegenäußerung wurde nicht erstattet.
+Gegen den den Anspruch wegen Verfristung iS der Äußerung der Revisorin hinsichtlich des Teilnehmeranschlusses 0*****6 teilabweisenden Beschluss des Landesgerichtes Salzburg (ON 102) richtet sich die Beschwerde der A1 Telekom Austria AG. Sie strebt den Zuspruch weiterer Kosten in Höhe von insgesamt EUR 333,54 an.
+Die Beschwerde ist berechtigt.
+Rechtliche Beurteilung
+Gemäß § 6 Abs 1 ÜKVO haben Anbieter den Ersatz ihrer Kosten binnen vier Wochen nach Beendigung der Ermittlungsmaßnahme bei sonstigem Verlust bei der Staatsanwaltschaft oder dem Gericht schriftlich in zweifacher Ausfertigung geltend zu machen. Soweit dem Anbieter durch Staatsanwaltschaft oder Gericht nicht eine vorzeitige Beendigung der Auskunftserteilung und Überwachung bekanntgegeben wurde, gilt diese für die Berechnung der Frist mit Ablauf des letzten Tages des von der Anordnung umfassten Überwachungszeitraums als beendet.
+Die Besonderheit des vorliegenden Falles liegt darin, dass die Überwachungsmaßnahme lediglich hinsichtlich eines der von der Beschwerdeführerin überwachten Teilnehmeranschlüsse mit 25.10.2010 vorzeitig beendet wurde. Die von der Erstrichterin in Aufgriff der Argumentation des Revisors vorgenommene Gesetzesauslegung, wonach an die einzelne Überwachung anzuknüpfen sei, führte zu Friktionen im Kostenbestimmungsverfahren, insbesondere den von der Beschwerdeführerin aufgezeigten im Zusammenhang mit § 12 ÜKVO und der dortigen Bezugnahme auch auf die Kostennoten. Daher ist in Fällen wie dem vorliegenden, in welcher sich die Anordnung der vom selben Anbieter vorzunehmenden Überwachung auf mehrere Telefonanschlüsse bezieht, als fristauslösend erst das Ende des letzten Überwachungszeitraumes anzusehen. Da letzteres hier erst am 19.11.2010 war, ist die Geltendmachung der Kosten innerhalb der vierwöchigen Frist und somit rechtzeitig erfolgt.
+Da die Kosten auch nicht überhöht verzeichnet wurden, war der Beschwerde zur Gänze stattzugeben.
+RECHTSMITTELBELEHRUNG:
+Gegen diese Entscheidung steht ein weiteres Rechtsmittel nicht zu.

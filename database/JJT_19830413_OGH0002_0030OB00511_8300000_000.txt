@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.04.1983
+Geschäftszahl
+3Ob511/83
+Norm
+ABGB §16;
+ABGB §1330;
+StGB §§111 ff;
+Kopf
+SZ 56/63
+Spruch
+Das Recht auf Ehre genießt als Persönlichkeitsrecht absoluten Schutz. Droht eine weitere Beeinträchtigung dieses Rechtes, steht ein Unterlassungsanspruch unabhängig davon zu, ob der Kredit, der Erwerb oder das Fortkommen gefährdet wird
+OGH 13. 4. 1983, 3 Ob 511/83 (LG Klagenfurt 3 R 257/82; BG Spittal an der Drau 4 C 567/82)
+Text
+Die Klägerin behauptete, die Beklagte mache sie bei jeder sich bietenden Gelegenheit bei Verwandten und auch bei fremden Leuten schlecht. Sie behaupte, die Klägerin sei eine "Ratschen", sei verlogen, sei eine mißratene und charakterlose Frau, uä. Obwohl die Klägerin ohne Erfolg protestiert habe, setze die Beklagte ihre herabsetzenden Äußerungen über die Klägerin fort. Die Klägerin begehrte von der Beklagten die Unterlassung der behaupteten herabsetzenden Äußerungen.
+Da die Beklagte zur ersten Tagsatzung nicht erschien, erging über Antrag der Klägerin ein dem Klagebegehren stattgebendes Versäumungsurteil.
+Das Berufungsgericht änderte infolge Berufung der Beklagten das Versäumungsurteil des Erstgerichtes dahin ab, daß das Klagebegehren abgewiesen wurde. Es sprach aus, daß der Wert des Streitgegenstandes 2000 S übersteigt. Das Berufungsgericht war der Auffassung, daß die Klage nicht schlüssig sei, weil sie keine Behauptungen iS des § 1330 Abs. 2 ABGB enthalte, wonach durch die Verbreitung der behaupteten Äußerungen der Kredit, der Erwerb oder das Fortkommen der Klägerin gefährdet würden.
+Der Oberste Gerichtshof gab der Revision der Klägerin Folge und stellte in Abänderung des Urteiles des Berufungsgerichtes das Versäumungsurteil des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Zulässigkeit einer Unterlassungsklage ist nach den Vorschriften des materiellen Rechts zu beurteilen (EvBl. 1971/317, JBl. 1975, 484; s. dazu auch ausführlich Jelinek, ÖBl. 1974, 125 f.; Schuster - Bonnott, JBl. 1976, 281; Böhm, Unterlassungsanspruch und Unterlassungsklage). Sie steht im allgemeinen erst zu, wenn die Gefahr eines künftigen Zuwiderhandelns besteht (EvBl. 1961/75; JBl. 1975, 484; Jelinek und Böhm aaO; etwas abweichend hier nur Schuster - Bonnott, der keine Wiederholungsgefahr verlangt; s. denselben auch ÖBl. 1981, 33 f. mit Erwiderung von Böhm aaO 36 f.).
+Die somit zu suchende materiellrechtliche Bestimmung findet sich in den Regeln über die sogenannten Persönlichkeitsrechte (§ 16 ABGB). Aus § 1330 ABGB und den §§ 111 ff. StGB ergibt sich, daß das Recht auf Ehre ein Persönlichkeitsrecht ist, das als solches absoluten Schutz genießt (Koziol, Haftpflichtrecht II 141; Koziol - Welser[6] I 53). Der Schutz der Ehre ist dabei umfassend und nicht auf die strafgerichtlichen Tatbestände oder die konkretisierenden Bestimmungen des § 1330 ABGB beschränkt (Koziol aaO 141, 142). Im besonderen wird im § 1330 Abs. 1 ABGB nur klargestellt, daß nur der durch eine Ehrenbeleidigung entstandene wirkliche Schaden oder der entgangene Gewinn zu vergüten sind (nicht aber zB für die Ehrenkränkung selbst eine Entschädigung zuzuerkennen ist), während gemäß § 1330 Abs. 2 ABGB bei der Verbreitung kreditschädigender Tatsachen unter gewissen Voraussetzungen auch auf Widerruf und Veröffentlichung geklagt werden kann.
+Droht (im Zusammenhang mit einer bereits erfolgten Beeinträchtigung; vgl. Jelinek aaO) die Gefahr einer Verletzung des Persönlichkeitsrechtes der Ehre, so steht bei bestehender Wiederholungsgefahr darüber hinaus - ohne Vorliegen der für Widerruf und Veröffentlichung normierten zusätzlichen Voraussetzungen - auch ein Unterlassungsanspruch zu. Daß der Unterlassungsanspruch in einer Gesetzesbestimmung ausdrücklich normiert ist, ist nicht Voraussetzung(vgl. SZ 3/51; ZBl. 1934/44; Koziol - Welser[6] I 49; Schuster - Bonnott, JBl. 1976, 282; Wolff in Klang[2] VI 33). Unabhängig davon, ob der Klägerin jetzt oder in Zukunft die Gefahr droht, in ihrem Kredit, Erwerb oder Fortkommen gefährdet zu sein, steht ihr daher nach ihren für wahr zu haltenden Behauptungen in der Klage der geltend gemachte Unterlassungsanspruch zu. An der für eine Unterlassungsklage erforderlichen Wiederholungsgefahr fehlt es nicht, weil in der Klage ausdrücklich vorgebracht wird, daß die Ehrenbeleidigungen fortgesetzt würden und Proteste der Klägerin nichts gefruchtet hätten.

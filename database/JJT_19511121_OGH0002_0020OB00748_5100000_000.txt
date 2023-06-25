@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.1951
+Geschäftszahl
+2Ob748/51
+Norm
+Arbeitsgerichtsgesetz §1 Abs1;
+Arbeitsgerichtsgesetz §2 Abs2;
+Kopf
+SZ 24/318
+Spruch
+Streitigkeiten zwischen einer offenen Handelsgesellschaft und einem Gesellschafter, der für seine Tätigkeit als Geschäftsführer von der Gesellschaft ein Entgelt bezieht, gehören nicht vor das Arbeitsgericht.
+Entscheidung vom 21. November 1951, 2 Ob 748/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die klagende Partei, die ihrer Rechtsform nach eine offene Handelsgesellschaft ist, machte gegen die beklagte Partei den Anspruch auf Bezahlung eines Betrages von 5779.86 S geltend. Die beklagte Partei sei Gesellschafterin der klagenden Partei und habe während ihrer Tätigkeit als Geschäftsführerin mehr an Entlohnung bezogen, als ihr zugebilligt worden war. Die Beklagte Partei erhob die Einrede der sachlichen Unzuständigkeit und behauptete die Zuständigkeit des Arbeitsgerichtes.
+Das Erstgericht sprach seine Unzuständigkeit aus, weil die beklagte Partei in bezug auf das Entgelt und die Arbeitszeit wie eine Angestellte behandelt worden sei.
+Das Rekursgericht wies die Einrede der sachlichen Unzuständigkeit zurück. Die beklagte Partei sei gesetzliche Vertreterin einer Personengesamtheit und gemäß § 2 Abs. 2 ArbGerG. nicht als Beschäftigte im Sinne des § 1 Abs. 1 Z. 1 dieses Gesetzes anzusehen.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der beklagten Partei nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach der ausdrücklichen Vorschrift des § 2 Abs. 2 ArbGerG. ist der gesetzliche Vertreter einer Personengesamtheit nicht als Beschäftigter im Sinne des Arbeitsgerichtsgesetzes anzusehen.
+Gesetzlicher Vertreter der offenen Handelsgesellschaft ist jeder persönlich haftende Gesellschafter. Da der Gesetzgeber in authentischer Weise zum Ausdruck gebracht hat, daß die rechtliche Stellung eines offenen Handelsgesellschafters seine Zurechnung zum Kreise der Beschäftigten dieser Gesellschaft ausschließt, kommt es darauf, ob das Verhältnis zwischen den Streitteilen als Dienstverhältnis zu werten ist, gar nicht an.

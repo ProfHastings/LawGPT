@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.10.2020
+Geschäftszahl
+3Nc22/20w
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofräte Dr. Roch und Hon.-Prof. PD Dr. Rassi als weitere Richter in der Ordinationssache der betreibenden Partei A*****, vertreten durch Mag. Johannes Koman, LL.B.oec., Rechtsanwalt in Salzburg, gegen die verpflichtete Partei M*****, Malta, wegen 130.000 EUR sA, über den Antrag auf Ordination nach § 28 JN, den
+Beschluss
+gefasst:
+Spruch
+Die Bestimmung eines zuständigen Gerichts nach § 28 JN für die beabsichtigte Rechteexekution wird abgelehnt.
+Text
+Begründung:
+[1] 		Die Antragsgegnerin ist aufgrund des rechtskräftigen und vollstreckbaren Urteils des Landesgerichts Salzburg vom 13. August 2019 schuldig, dem Antragsteller den Betrag von 130.000 EUR sA zu bezahlen. Das Erstgericht wies den aufgrund dieses Titels gestellten Antrag auf Bewilligung der Exekution nach § 331 EO durch Pfändung und Verkauf der der Antragsgegnerin zustehenden Rechte an der Domain „*****.at“ mangels örtlicher Zuständigkeit zurück. In seinem – erfolglosen – Rekurs dagegen stellte der Antragsteller auch einen Ordinationsantrag mit der Begründung, er müsste ein aufwändiges Exekutionsverfahren auf Malta beginnen, was allein aufgrund der sprachlichen Barriere nicht zumutbar sei. Abgesehen davon kenne das maltesische Exekutionsrecht lediglich einen äußerst geringen Kostenersatz und wäre es dem Antragsteller schlicht unmöglich, ein Exekutionsverfahren auf Malta vorzufinanzieren. Er sei Verbraucher, der sich in einem jahrelangen Gerichtsprozess gegen einen übermächtigen Vertragspartner, der sich ursprünglich im Internet in der Heimatsprache des Verbrauchers an diesen gewandt habe, durchsetzen habe können; ohne Ordination wäre das hart erkämpfte Urteil, das bis dato von der Antragsgegnerin schlicht ignoriert werde, für den Antragsteller wertlos.
+Rechtliche Beurteilung
+[2] 		Die Voraussetzungen für eine Ordination nach § 28 JN liegen nicht vor.
+[3] 		1. Als Rechtsgrundlage für die Bestimmung eines zuständigen Gerichts kommt im vorliegenden Fall nur § 28 Abs 1 Z 2 JN in Betracht. Demnach ist die Bestimmung eines örtlich zuständigen Gerichts durch den Obersten Gerichtshof (nur) dann zulässig, wenn die betreibende Partei ihren Wohnsitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre. Die in § 28 Abs 1 Z 2 JN genannten Voraussetzungen müssen kumulativ vorliegen. Fehlt eine davon, hat eine Ordination nicht zu erfolgen (3 Nc 29/19y mwN; RIS-Justiz RS0046320 [T14]).
+[4] 		Die Voraussetzungen des § 28 Abs 1 Z 2 JN sind nach § 28 Abs 4 zweiter Satz JN vom Antragsteller zu behaupten und zu bescheinigen, was auch für Exekutionssachen gilt (RS0124087).
+[5] 		Für den Anwendungsbereich der EuGVVO ist zu berücksichtigen, dass eine Ordination bei Verpflichteten, die in anderen Mitgliedstaaten ansässig sind, nur in Ausnahmefällen möglich ist (RS0053178 [T3 und T7]; Garber in Fasching/Konecny3 § 28 JN Rz 59 und 71; Nademleinsky in Höllwerth/Ziehensack ZPO-TaKom § 28 JN Rz 15).
+[6] 		Das Prozesskostenargument ist nur in Ausnahmefällen geeignet, einen Ordinationsantrag zu begründen (RS0046420 [T8]).
+[7] 		2. Einen solchen Ausnahmefall vermag der Antragsteller weder zu behaupten, geschweige denn zu bescheinigen.
+[8] 		2.1. Das Verlangen nach Berücksichtigung seiner Verbrauchereigenschaft übersieht, dass der Sitz der Antragsgegnerin – anders als in der zitierten Entscheidung 10 Nc 19/05h – im räumlichen Geltungsbereich der EuGVVO liegt.
+[9] 		2.2. Eine im Vollstreckungsstaat abweichend von Österreich gesprochene Sprache vermag die Unzumutbarkeit der dortigen Exekutionsführung schon wegen der Möglichkeit des Übersetzens und Dolmetschens nicht zu begründen.
+[10] 		2.3. Zu damit und allgemein mit der Exekutionsführung im Zusammenhang stehenden, vom Antragsteller – wie er behauptet – nicht vorfinanzierbaren Kosten ist auf die Möglichkeit der Verfahrens- oder Prozesskostenhilfe zu verweisen (vgl dazu die Richtlinie 2003/8/EG zur Verbesserung des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug durch Festlegung gemeinsamer Mindestvorschriften für die Prozesskostenhilfe in derartigen Streitsachen und das VH-ÜbermG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0030NC00022.20W.1007.000

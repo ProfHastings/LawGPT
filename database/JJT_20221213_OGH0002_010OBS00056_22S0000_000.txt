@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2022
+Geschäftszahl
+10ObS56/22s
+Kopf
+Der Oberste Gerichtshof hat in Arbeits- und Sozialrechtssachen durch den Hofrat Mag. Ziegelbauer als Vorsitzenden sowie die Hofrätin Dr. Faber und der Hofrat Mag. Schober als weitere Richter (Senat gemäß § 11a Abs 3 ASGG) in der Sozialrechtssache der klagenden Partei P*, vertreten durch Dr. Herbert Pochieser, Rechtsanwalt in Wien, gegen die beklagte Partei Österreichische Gesundheitskasse, 1030 Wien, Haidingergasse 1, wegen Krankengeld, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht in Arbeits- und Sozialrechtssachen vom 12. April 2022, GZ 10 Rs 35/22y-6, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Den Gegenstand des Verfahrens über den außerordentlichen Revisionsrekurs des Klägers bildet die Frage, ob die an ihn gerichtete Aufforderung der beklagten Österreichischen Gesundheitskasse, sich zu einem bestimmten Zeitpunkt zu einer Krankenstandskontrolle zu begeben, als ein mit Klage vor dem Arbeits- und Sozialgericht bekämpfbarer Bescheid zu qualifizieren ist.
+[2] 		Die beklagte Partei richtete am 1. 2. 2022 ein Schreiben mit folgendem Inhalt an den Kläger:
+„Ihre Krankmeldung vom 24. 1. 2022
+Verhaltensweise bei künftigen Krankenständen
+Sehr geehrter Herr B*!
+Wie wir feststellen mussten, haben Sie sich bereits zum wiederholten Mal im engen zeitlichen Zusammenhang mit einem für Sie vorgesehenen AMS-Termin (Fortbildungskurs, Kontrolltermin, Bewerbungsgespräch, etc) krankschreiben lassen.
+Da jede Krankmeldung naturgemäß eine entsprechende medizinische Indikation voraussetzt, sind wir aufgrund dieser Auffälligkeit – nicht zuletzt im Interesse der Versichertengemeinschaft – gehalten, Ihre Krankenstände ab nun etwas genauer zu überprüfen. Wenn Sie daher Ihr/e Ärztin/Arzt in nächster Zeit krankmeldet, bedeutet dies, dass Sie sich bis auf Widerruf am jeweils nächstfolgenden (Werk)Tag unter Mitnahme Ihrer Krankenstandsbestätigung zwischen 8.00 Uhr und 12.00 Uhr in der Kontrollstelle des Medizinischen Dienstes der Österreichischen Gesundheitskasse … einzufinden haben.
+Sollten Sie unentschuldigt
+• dem Kontrolltermin fernbleiben oder
+• diesen verspätet wahrnehmen,
+machen wir Sie bereits jetzt darauf aufmerksam, dass in diesem Fall von einem nicht gerechtfertigten Krankenstand auszugehen ist (was bis zur rückwirkenden Aberkennung des gesamten Krankenstandes führen kann) und insbesondere Ihr Krankengeldanspruch ruht; das heißt, dass dann kein Krankengeld ausbezahlt wird. ...“
+[3] 		Der Kläger brachte am 2. 3. 2022 eine Klage mit dem Begehren ein, die beklagte Partei schuldig zu erkennen,
+„der klagenden Partei im Falle der Krankmeldung Krankengeld im gesetzlichen Ausmaß auszubezahlen, insbesondere ohne eine (generelle) Bedingung, dass Krankengeld bis auf Widerruf nur unter der Bedingung ausbezahlt werde, dass die klagende Partei nach einer Krankmeldung durch ihre Ärztin/Arzt sich am jeweils nächstfolgenden (Werk) Tag unter Mitnahme ihrer Krankenstandsbestätigung zwischen 8:00 und 12:00 Uhr in der Kontrollstelle des medizinischen Dienstes der beklagten Partei in ... einfinde bzw. einzufinden habe“.
+[4] 		Das Erstgericht wies die Klage wegen Unzulässigkeit des Rechtswegs zurück. Bei dem Aufforderungsschreiben vom 1. 2. 2022 handle es sich nicht um einen Bescheid iSd § 58 Abs 1 AVG.
+[5] 		Das Rekursgericht bestätigte diese Entscheidung und ließ den Revisionsrekurs nicht zu. Aus der Formulierung des Schreibens vom 1. 2. 2022 ergebe sich in keiner Weise, dass die beklagte Partei damit bindend ein Rechtsverhältnis gestalten oder feststellen habe wollen oder etwa einen Antrag des Klägers auf Krankengeld ablehne. Vielmehr handle es sich lediglich um eine Information des Klägers, dass unter bestimmten Voraussetzungen sein Krankengeldanspruch ruhe. Mangels anfechtbaren Bescheids sei der Rechtsweg unzulässig.
+Rechtliche Beurteilung
+[6] 		In seinem außerordentlichen Revisionsrekurs zeigt der Kläger keine Rechtsfrage von erheblicher Bedeutung (§ 528 Abs 1 ZPO) auf:
+[7] 		1. Der Kläger hält an seinem Standpunkt fest, dass die beklagte Partei bereits eine als Bescheid zu qualifizierende Entscheidung getroffen habe, den Krankengeldanspruch des Klägers zum Ruhen zu bringen bzw sogar abzuerkennen, sollte er nicht den ihm aufgetragenen Verhaltensweisen nachkommen, die ihrerseits als Beschränkungen der persönlichen Freiheit zu qualifizieren seien. Eine Rechtsfolge an das unentschuldigte Fernbleiben zu knüpfen sei im Übrigen rechtswidrig. Angeregt wird ein Vorabentscheidungsersuchen an den EuGH, ob die dem Kläger erteilten Aufträge mit der GRC vereinbar seien.
+[8] 		2. Abgesehen von den hier nicht relevanten Säumnisfällen setzt eine Klage in Sozialrechtssachen einen Bescheid des Sozialversicherungsträgers voraus, der „darüber“, das heißt über den der betreffenden Leistungssache zugrundeliegenden Anspruch des Versicherten ergangen sein muss (RS0085867). Auch wenn die Bezeichnung als „Bescheid“ nicht zwingend erforderlich ist, muss sich der Inhalt der Erledigung des Sozialversicherungsträgers als eine Entscheidung oder Verfügung darstellen, durch die Rechtsverhältnisse bindend festgestellt oder begründet werden sollen (RS0085681). Demgegenüber stellen „Belehrungen“ (Mitteilungen, Verständigungen oder Informationsschreiben) des Versicherungsträgers ohne diesen erkennbaren „Bescheidwillen“ keinen Bescheid dar (RS0085557; Hengstschläger/Leeb, AVG § 58 Rz 6).
+[9] 		3.1 Das vom Kläger bekämpfte, nicht als „Bescheid“ bezeichnete Schreiben droht ein bestimmtes, den Krankengeldanspruch des Klägers betreffendes künftiges Verhalten des Sozialversicherungsträgers erst an, ohne bereits eine rechtsgestaltende oder rechtsfeststellende Verfügung in Bezug auf die Rechtsposition des Klägers zu treffen.
+[10] 		3.2 Gemäß § 143 Abs 6 Z 1 ASVG kann der Versicherungsträger als Sanktion verfügen, dass das Krankengeld ruht, wenn der Versicherte einer Ladung zum Kontrollarzt ohne wichtigen Grund zumindest leicht fahrlässig nicht Folge leistet (vgl RS0115254). § 143 Abs 6 ASVG verlangt außerdem, dass der Versicherte vorher auf die Folgen seines Verhaltens schriftlich hingewiesen worden ist.
+[11] 		3.3 Das bekämpfte Schreiben der beklagten Partei stellt eine solche gesetzlich vorgesehene Aufforderung dar, ohne dass bereits bindend ein Ruhen des Krankengeldanspruchs ausgesprochen worden wäre. Erst eine in § 143 Abs 6 ASVG angesprochene „Verfügung“ des Krankenversicherungsträgers würde bindend über den Krankengeldanspruch des Klägers absprechen; eine solche Verfügung könnte dann im Rechtsweg bekämpft werden.
+[12] 		4. Die an den Kläger gerichtete Aufforderung der beklagten Partei, sich zu einem bestimmten Zeitpunkt zu einer Krankenstandskontrolle zu begeben, ist daher im Sinn der dargestellten Rechtsprechung nicht als ein mit Klage vor dem Arbeits- und Sozialgericht bekämpfbarer Bescheid zu qualifizieren.
+[13] 		Mangels erheblicher Rechtsfrage von erheblicher Bedeutung (§ 528 Abs 1 ZPO) ist der außerordentliche Revisionsrekurs zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:010OBS00056.22S.1213.000

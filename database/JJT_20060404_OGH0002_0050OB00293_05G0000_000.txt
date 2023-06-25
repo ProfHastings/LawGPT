@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.04.2006
+Geschäftszahl
+5Ob293/05g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Floßmann als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr. Hurch, Dr. Schaumüller, Dr. Kalivoda und Dr. Höllwerth als weitere Richter in der Rechtssache der klagenden Partei A*****GmbH, *****, vertreten durch Dr. Egon Sattler, Dr. Reinhard Schanda, Rechtsanwälte in Wien, gegen die beklagte Partei E***** AG, *****, vertreten durch Fellner, Wratzfeld & Partner, Rechtsanwälte GmbH in Wien, wegen EUR 135.568,48 sA über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 21. Oktober 2005, GZ 5 R 112/05k96, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Beklagte hat die Klägerin mit der Erstellung eines Pflichtenhefts zur Umstellung eines bestehenden Risikoanalysesystems für den Wertpapierhandel auf eine andere Softwarebasis beauftragt. Unter „Pflichtenheft" verstanden die Parteien ein Produkt, das die Anforderungen an die Software beschreiben sollte, sodass die Unterlage dazu dienen könne, ein - auch anderes - SoftwareUnternehmen zur Legung eines Anbots für die konkrete Erstellung der Software aufzufordern.
+Mit diesem Auftrag war kein Auftrag auch zur Erstellung der Software an die Klägerin verbunden.
+Einem in Vorarbeiten durch die Klägerin beigesetzten CopyrightVermerk widersprach die Beklagte, worauf die Klägerin unter anderem schriftlich klarstellte, „dass sie das Dokument an andere Softwarehäuser weitergeben können, die ein Angebot für die Realisierung legen sollen und gegebenenfalls die Realisierung der Lösung übernehmen sollen". Im „Legalagreement" zwischen den Parteien ist festgehalten, dass die Beklagte berechtigt ist, das Pflichtenheft zur Anbotsstellung über die Softwareerstellung an andere Firmen weiterzugeben.
+Rechtliche Beurteilung
+Wenn die außerordentliche Revision bei dieser Sachlage meint, der Beklagten sei nach dem Vertragszweck keine Befugnis zur Weitergabe des Werks an potentielle Anbieter zugestanden, so steht dies im Widerspruch zu gefestigter höchstgerichtlicher Rechtsprechung. Bildet nämlich den Gegenstand eines Werkvertrags die Herstellung eines Werks, an dem ein Immaterialgüterrecht - wie etwa ein Urheberrecht - bestehen kann, so hängt die Entscheidung der Frage, ob dieses Recht nach Vollendung des Werks den Besteller oder den Unternehmer zusteht, von der - ausdrücklichen oder stillschweigenden - Vereinbarung ab. Für den Umfang der vertraglich gewährten Werknutzung ist die Frage nach dem Zweck des Vertrags entscheidend, wobei das Ausmaß der Befugnisse, die der Besteller erhält, im Zweifel nicht weiter auszulegen ist als für den praktischen Zweck der ins Auge gefassten Werknutzung erforderlich erscheint (ÖBl 1982, 52; ÖBl 1993, 184; ÖBl 1996, 296 jeweils mwN; RISJustiz RS0077726 ua).
+Ist - wie hier - der Auftrag für den Auftraggeber nur sinnvoll, wenn er (allein) berechtigt ist, das Arbeitsergebnis zu verwenden, dann schließt der zwischen ihm und dem Auftragnehmer zustandegekommene Vertrag die Einräumung eines Werknutzungsrechts mit ein (4 Ob 105/94 = MuR 1995, 27 ua), ohne das es dazu noch einer besonderen rechtsbegründenden Handlung bedürfte (vgl ÖBl 1996, 296).
+Davon, dass das Berufungsgericht unter Verletzung des Unmittelbarkeitsgrundsatzes eine in Widerspruch zur erstgerichtlichen Feststellung stehende Feststellung getroffen hätte, kann keine Rede sein, ist doch die Tatsache das zwischen den Parteien nichts gegenteiliges vereinbart wurde, durch die maßgeblichen erstgerichtlichen Feststellungen vollgedeckt.
+Soweit die Revision von erstgerichtlichen Feststellungen abweicht, in dem etwa behauptet wird, praktischer Zweck der vorgesehenen Werknutzung sei die Erstellung der Software durch die Klägerin selbst gewesen, fehlt es an der gesetzmäßigen Ausführung des Revisionsgrundes des § 503 Abs 4 ZPO (RISJustiz RS0043312).
+Insgesamt liegen damit die Voraussetzungen des § 502 Abs 1 ZPO nicht vor.
+Das außerordentliche Rechtsmittel der Klägerin war daher zurückzuweisen.

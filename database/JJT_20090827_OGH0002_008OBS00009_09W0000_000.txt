@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.08.2009
+Geschäftszahl
+8ObS9/09w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.Prof. Dr. Danzl als Vorsitzenden, durch die Hofräte Dr. Spenling und Mag. Ziegelbauer sowie durch die fachkundigen Laienrichter Dr. Rolf Gleißner und Wolfgang Birbamer als weitere Richter in der Sozialrechtssache der klagenden Partei Matthias H*****, vertreten durch Dr. Thomas Stampfer und Dr. Christoph Orgler, Rechtsanwälte in Graz, gegen die beklagte Partei IEFService GmbH, Geschäftsstelle Graz, 8020 Graz, Europaplatz 12, wegen 19.884 EUR InsolvenzEntgelt, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 16. April 2009, GZ 7 Rs 23/09w9, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Der Kläger war seit 13. 1. 2003 Arbeitnehmer der späteren Gemeinschuldnerin, einer Gesellschaft mit beschränkter Haftung. Er arbeitete als angestellter EDVTechniker im Außendienst im Rahmen einer vorgegebenen Arbeitszeit ausschließlich für die spätere Gemeinschuldnerin und mit deren Betriebsmitteln.
+Mit Abtretungsvertrag vom 13. 7. 2005 erwarb er 33 % der Geschäftsanteile der Gesellschaft zum Stichtag 31. 12. 2004. Weitere 67 % der Geschäftsanteile hielt der zweite Gesellschafter der Gesellschaft, der auch deren allein vertretungsbefugter handelsrechtlicher Geschäftsführer war. Dieser übte gegenüber dem Kläger auch die Arbeitgeberfunktion aus. Das Konkursverfahren über das Vermögen der Gesellschaft wurde am 19. 7. 2007 eröffnet; sämtliche vom Kläger als Arbeitnehmer geltend gemachte Ansprüche nach dem IESG beziehen sich auf Zeiträume, in denen er bereits Gesellschafter war.
+Der Gesellschaftsvertrag sah vor, dass für folgende Beschlüsse ein erhöhtes Mehrheitserfordernis von 75 % des anwesenden Stammkapitals erforderlich war:
+- Beteiligungen an anderen Unternehmen und Gesellschaften;
+- Veräußerung und Verpachtung des Unternehmens;
+- Auflösung der Gesellschaft;
+- Beschlüsse über Kapitalerhöhungen;
+- Verzicht auf Prüfung des Jahresabschlusses durch einen Wirtschaftsprüfer;
+- Gewinnverteilung;
+- Anstellung von Personen mit einem Jahresgehalt von über 600.000 ATS (43.603,70 EUR) brutto wertgesichert [...];
+- Gehaltsänderungen der Gesellschafter;
+- Investitionen über 5.000 EUR netto im Einzelfall.
+Rechtliche Beurteilung
+Das Berufungsgericht gelangte - in Übereinstimmung mit dem Erstgericht, dessen Urteil es bestätigte - zum rechtlichen Ergebnis, dass dem Kläger als Gesellschafter beherrschender Einfluss iSd § 1 Abs 6 Z 2 IESG idF BGBl I 2005/102 (früher: § 1 Abs 6 Z 4 IESG) auf die Gesellschaft zukam. Dies ist - ausgehend von den konkreten Umständen des Einzelfalls - jedenfalls vertretbar (vgl RISJustiz RS0044088).
+Zu Unrecht beruft sich der Revisionswerber darauf, dass dem Gesellschafter einer Gesellschaft nur dann beherrschender Einfluss auf diese zukomme, wenn er auch auf das eigene Arbeitsverhältnis Einfluss nehmen könne: Ein Gesellschafter kann gleichzeitig Arbeitnehmer der Gesellschaft sein (RISJustiz RS0021243; Holzer/Reissner/Schwarz, IESG4, § 1, 49). Fehlt einem Gesellschafter die Arbeitnehmereigenschaft, ist er schon deshalb gemäß § 1 Abs 1 IESG vom Anspruch auf InsolvenzEntgelt ausgeschlossen. Der persönliche Ausschließungsgrund des § 1 Abs 6 Z 2 IESG kann daher nur jene Gesellschafter betreffen, denen die Arbeitnehmereigenschaft zwar nicht fehlt, denen aber dennoch beherrschender Einfluss auf die Gesellschaft zusteht. Nicht gefolgt werden kann Liebeg in diesem Zusammenhang (IESG³ § 1 Rz 572), dass wesentlich Beteiligte iSd § 1 Abs 6 Z 2 IESG grundsätzlich keine Arbeitnehmer seien. Träfe dies zu, fehlte § 1 Abs 6 Z 2 IESG jeglicher Anwendungsbereich.
+Der vom Berufungsgericht vorgenommenen „typologischen" Abgrenzung eines Arbeitnehmerbegriffs iSd § 1 Abs 6 Z 2 IESG im Verhältnis zum „echten" Arbeitnehmer iSd § 1 Abs 1 IESG (wiederum folgend Liebeg aaO) bedarf es daher nicht. Denn auch in den (wenn auch möglicherweise nicht häufigen, vgl Holzer/Reissner/Schwarz aaO 86) Fällen, in denen der Gesellschafter gleichzeitig Arbeitnehmer der Gesellschaft ist, kann ihm - wie hier durch eine qualifizierte Sperrminorität (RISJustiz RS0077381; RS0077386) - als Gesellschafter beherrschender Einfluss auf die Gesellschaft, daher im gesellschaftsrechtlichen Sinn, zukommen. Anders als in dem zu 9 ObS 21/91 entschiedenen Sachverhalt kam dem Kläger auch in wesentlichen Angelegenheiten nach dem Gesellschaftsvertrag eine Sperrminorität zu, für die dies im Gesetz nicht ohnehin vorgesehen ist (RISJustiz RS0077386).
+Ein Widerspruch der österreichischen Regelungen mit der Insolvenzrichtlinie 80/987/EWG und der sie ändernden RL 2002/74/EG, der hier dazu führen müsste, dass die Ausschlussbestimmung unangewendet bleibt, ist schon deshalb nicht ersichtlich, weil die Richtlinie ja auch nur Arbeitnehmern im Sinne des Arbeitsvertragsrechts einen Anspruch auf InsolvenzEntgelt sichern will (jüngst 8 ObS 4/09k mwN) und sich aus der Formulierung des mit der RL 2002/74/EG neu eingeführten Art 10 lit c) ergibt, dass derjenige, der Inhaber eines wesentlichen Teils des Betriebs oder Unternehmens eines Arbeitgebers ist und auch beträchtlichen Einfluss auf dessen Tätigkeiten hat, dennoch ausgeschlossen werden kann.

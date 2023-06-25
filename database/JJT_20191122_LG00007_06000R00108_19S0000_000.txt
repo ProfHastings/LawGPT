@@ -1,0 +1,44 @@
+Gericht
+LG HG Wien
+Entscheidungsdatum
+22.11.2019
+Geschäftszahl
+60R108/19s
+Kopf
+Das Handelsgericht Wien hat als Rekursgericht durch die Präsidentin Dr.in Wittmann-Tiwald (Vorsitzende) und die Richterinnen Mag.a Hofer-Kutzelnigg M.E.S. und Mag.a Klenk in der Rechtssache der klagenden Partei A*, vertreten durch Dr. Michael Vallender, Rechtsanwalt in 1040 Wien, wider die beklagte Partei B* C*, wegen EUR 500,00 samt Anhang, über den Rekurs der klagenden Partei gegen den Beschluss des Bezirksgerichts für Handelssachen Wien vom 4.6.2019, 16 EuM 601/19z-8, in nicht öffentlicher Sitzung den
+B e s c h l u s s
+gefasst:
+Spruch
+1. Dem Rekurs wird nicht Folge  gegeben.
+2. Der Revisionsrekurs ist jedenfalls unzulässig.
+Text
+B E G R Ü N D U N G :
+Der Kläger stellte einen Antrag auf Erlass eines Europäischen Zahlungsbefehls gemäß Formblatt A nach Art 7 Abs 1 der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates zur Einführung eines Europäischen Mahnverfahrens (EuMahnVO). Den Punkt 3., Begründung der gerichtlichen Zuständigkeit, füllte er mit Code „08“ aus, was bedeutet, dass er sich auf die Zuständigkeit des Bezirksgerichts für Handelssachen Wien stützt, weil sich sein Wohnsitz im Sprengel des angerufenen Gerichts befindet. Er füllte außerdem die nach dem Formular nur für Angaben nach Code 14 (sonstiger Zuständigkeitsgrund) vorgesehenen Erläuterungen aus wie folgt: „Verbrauchergerichtsstand; Art 17, 18 VO (D*) Nr. 1215/2012 EuGVVO iVm § 252 Abs 2 ZPO“.
+Nach einem Verbesserungsverfahren erließ das Erstgericht am 5.3.2019 den beantragten europäischen Zahlungsbefehl (ON 4). Die Beklagte erhob dagegen fristgerecht Einspruch (ON 5). Mit Beschluss vom 10.4.2019 teilte das Erstgericht diesen Umstand dem Kläger mit und forderte ihn gleichzeitig gemäß § 252 Abs 3 ZPO auf, zur Fortführung des Verfahrens binnen einer Frist von 30 Tagen das für die Durchführung des ordentlichen Verfahrens zuständige Gericht namhaft zu machen (ON 6). Dieser Beschluss wurde dem Klagevertreter am 16.4.2019 zugestellt. Der Kläger erstattete darauf hin keine Eingabe und stellte keinen Antrag.
+Mit Beschluss vom 4.6.2019 wies das Erstgericht die Klage unter Verweis auf § 252 Abs 3 ZPO zurück.
+Gegen diesen Beschluss richtet sich der Rekurs des Klägers inhaltlich wegen unrichtiger rechtlicher Beurteilung mit dem Begehren, den angefochtenen Beschluss derart abzuändern, dass die Klage an das nicht offenbar unzuständige Bezirksgericht Gänserndorf überwiesen werde; eventualiter wird ein Aufhebungsantrag gestellt. Die Beklagte beteiligte sich nicht am Rekursverfahren.HTLBEU-
+Rechtliche Beurteilung
+Der Rekurs ist gemäß § 517 Abs 1 Z 1 zulässig; er ist jedoch nicht berechtigt.
+1. Zur Zulässigkeit:
+1.1. Gemäß § 252 Abs 1 ZPO sind die für den jeweiligen Verfahrensgegenstand geltenden Verfahrensvorschriften anzuwenden, soweit die EuMahnVO nichts anderes anordnet; dies entspricht inhaltlich Art 26 der EuMahnVO, wonach sich sämtliche verfahrensrechtlichen Fragen, die in dieser Verordnung nicht ausdrücklich geregelt sind, nach den nationalen Rechtsvorschriften richten. In der Frage der Anfechtbarkeit von Entscheidungen im Zuge des Europäischen Mahnverfahrens kommt daher mit Ausnahme der in ihrem Art 11 Abs 1 der EuMahnVO genannten Fällen nationales Recht zur Anwendung (HG Wien 1 R 37/14h, 50 R 50/12b, 50 R 68/10x unter Hinweis auf Kloiber, Das Europäische Mahnverfahren, ZfRV 2009/12 Seite 74).
+1.2. Artikel 11 der EuMahnVO lautet wie folgt:
+„(1) Das Gericht weist den Antrag zurück,
+a. wenn die in den Artikel 2, 3, 4, 6 und 7 genannten Voraussetzungen nicht erfüllt sind oder
+b. wenn die Forderung offensichtlich unbegründet ist, oder
+c. wenn der Antragsteller nicht innerhalb der von dem Gericht gemäß Artikel 9 Abs. 2 gesetzten Frist seine Antwort übermittelt oder
+d. wenn der Antragsteller gemäß Artikel 10 nicht innerhalb der von dem Gericht gesetzten Frist antwortet oder den Vorschlag des Gerichts ablehnt.
+Der Antragsteller wird anhand des Formblattes D gemäß Anhang IV von den Gründen der Zurückweisung in Kenntnis gesetzt.
+(2) Gegen die Zurückweisung des Antrages kann kein Rechtsmittel eingelegt werden.
+(3) Die Zurückweisung des Antrages hindert den Antragsteller nicht, die Forderung mittels eines neuen Antrags auf Erlassung eines Europäischen Zahlungsbefehls oder eines anderen Verfahrens nach dem Recht eines Mitgliedsstaates geltend zu machen.“
+1.3. Ein solcher in Art 11 EuMahnVO genannter Fall liegt hier nicht vor, die Zulässigkeit des Rekurses ist somit nach österreichischem Verfahrensrecht zu beurteilen.
+1.4. Übersteigt der Streitgegenstand an Geld oder Geldeswert wie im vorliegenden Fall nicht den Betrag von EUR 2.700,--, so können nur die in § 517 Abs 1 Z 1 bis 6 ZPO taxativ aufgezählten Beschlüsse angefochten werden. Gemäß § 517 Abs 1 Z 1 ZPO ist dies dann der Fall, wenn die Einleitung oder Fortsetzung des gesetzmäßigen Verfahrens über die Klage verweigert wurde. Ein solcher Fall liegt hier vor, sodass nach dem heranzuziehenden österreichischen Prozessrecht der Rekurs zulässig ist.
+2. Zur Berechtigung
+2.1. Der Kläger argumentiert, er habe bereits in seinem Antrag auf Erlassung eines Europäischen Zahlungsbefehls die Zuständigkeit des Gerichtes mit dem Code 08, Wohnsitz des Verbrauchers, konkret definiert und ergänzend auf die Art 17, 18 VO (D*) Nr. 1215/2012 EuGVVO iVm § 252 Abs 2 ZPO verwiesen, sodass er dem erteilten Auftrag, das zuständige Gericht namhaft zu machen, schon vorweg nachgekommen sei; das Verfahren sei somit an das Bezirksgericht Gänserndorf zu verweisen.
+2.2. Gemäß § 252 Abs 2 ZPO ist für die Durchführung des Mahnverfahrens ausschließlich das Bezirksgericht für Handelssachen Wien zuständig. Auf diese Bestimmung berief sich der Kläger in seinem Antrag auf Erlassung eines Europäischen Zahlungsbefehls somit zu recht.
+2.3. Gemäß § 252 Abs 3 ZPO hat das Gericht nach Einlangen eines fristgerechten Einspruchs diesen dem Antragsteller mit der Aufforderung zuzustellen, binnen einer Frist von 30 Tagen das für die Durchführung des ordentlichen Verfahrens zuständige Gericht namhaft zu machen. Macht der Antragsteller fristgerecht ein Gericht namhaft, so ist die Rechtssache an dieses zu überweisen. Macht der Antragsteller jedoch innerhalb der Frist kein Gericht namhaft, so ist die Klage zurückzuweisen.
+2.4. Der Kläger kam dieser Aufforderung durch das von ihm im Antrag für die Durchführung des D*-Mahnverfahrens zutreffend zuständig genannte Bezirksgericht für Handelssachen Wien nicht nach. Er nannte in seinem Antrag auf Erlassung eines Europäischen Zahlungsbefehls an keiner Stelle das Bezirksgericht Gänserndorf als das zur Führung des Verfahrens nach Einspruchserhebung zuständige Gericht. Von einer „Vorweg-Erfüllung“ des Gerichtsauftrags kann somit keine Rede sein.
+2.5. Dem danach vom Erstgericht erteilten Auftrag zur Nennung des zuständigen Gerichts kam der Kläger ebenso nicht nach.
+3. Dem Rekurs war daher ein Erfolg zu versagen.
+4. Der Ausspruch über die Unzulässigkeit des Revisionsrekurses beruht auf § 528 Abs 2 Z 1 ZPO.
+European Case Law Identifier
+ECLI:AT:LG00007:2019:06000R00108.19S.1122.000

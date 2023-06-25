@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.04.1967
+Geschäftszahl
+7Ob55/67
+Norm
+Allgemeine Bedingungen für die Kraftfahrversicherung §11 Z4;
+Versicherungsvertragsgesetz §12 (3);
+Versicherungsvertragsgesetz §158c (1);
+Kopf
+SZ 40/49
+Spruch
+Die Lebensgefährtin ist - weil gesetzlich nicht unterhaltsberechtigt - nicht als Angehörige im Sinne des § 11 Z. 4 AKB. anzusehen.
+Die Leistungspflicht des Kraftfahrzeug-Haftpflichtversicherers bleibt nach § 158 c VersVG. gegenüber dem geschädigten Dritten auch dann bestehen, wenn für den Versicherungsnehmer die Klagefrist des § 12 (3) VersVG. abgelaufen ist. Eine Beschränkung der Wirkung des § 158 c (1) VersVG. auf sogenannte Obliegenheitsverletzungen ist durch die Fassung des Gesetzestextes ausgeschlossen.
+Entscheidung vom 12. April 1967, 7 Ob 55/67.
+I. Instanz: Kreisgericht Wels; II. Instanz: Oberlandesgericht Linz.
+Text
+X. Y. verschuldete am 31. August 1964 mit einem ihm gehörigen und bei der beklagten Versicherungsanstalt haftpflichtversicherten Motorrad einen Unfall, wobei die Klägerin, die am Soziussitz des Motorrades mitgefahren war, schwer verletzt wurde. Mit rechtskräftigem Urteil des Kreisgerichtes Wels vom 15. Juni 1965 wurde X. Y. schuldig erkannt, der Klägerin einen Betrag von 24.430S samt Zinsen und Kosten zu bezahlen. Zur Hereinbringung dieser Forderung wurde der Klägerin mit Beschluß vom 2. November 1965 die Exekution durch Pfändung und Überweisung der dem X. Y. gegen die beklagte Partei als Drittschuldnerin zustehenden Forderungen aus dem Haftpflichtversicherungsvertrag bewilligt. Da die beklagte Partei als Drittschuldnerin die Forderung nicht anerkannte, brachte die Klägerin am 2. März 1966 die vorliegende Drittschuldnerklage ein. Die beklagte Partei wendete ein, sie habe schon gegenüber dem X. Y. am 14. Juni 1965 eine Leistung aus dem Versicherungsvertrag abgelehnt, weil die Klägerin die Lebensgefährtin des X. Y. sei und daher gemäß § 11 (4) AKB. Haftpflichtansprüche ausgeschlossen seien.
+Das Erstgericht gab dem Klagebegehren statt, weil die Lebensgefährtin nicht zu den in § 11 (4) AKB. genannten Personen gehöre.
+Das Berufungsgericht bestätigte diese Entscheidung. Es verneinte eine Leistungsfreiheit der beklagten Partei wegen Fristablaufes nach § 12 (3) VersVG., die in der Berufung geltend gemacht worden war, weil gemäß § 158 c VersVG. die Leistungspflicht des Versicherers gegenüber dem Dritten auch dann bestehen bleibe, wenn für den Versicherungsnehmer gemäß § 12 (3) VersVG. die Klagefrist abgelaufen sei.
+Der Oberste Gerichtshof gab der dagegen erhobenen Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Gemäß § 158 c VersVG. bleibt die Verpflichtung des Versicherers in Ansehung des Dritten bestehen, auch wenn er von der Verpflichtung zur Leistung dem Versicherungsnehmer gegenüber ganz oder teilweise frei ist. Daraus geht, wie das Berufungsgericht zutreffend unter Hinweis auf Lehre und Rechtsprechung (insbes. VersR. 1963 S. 1193) ausgeführt hat, hervor, daß die Wirkung des Fristablaufes nach § 12
+(3) VersVG. nur auf den Versicherungsnehmer beschränkt ist, der die Frist verstreichen ließ, für den geschädigten Dritten aber die in § 158 c VersVG. genannten Möglichkeiten offen bleiben. Er kann sich also, da er den Versicherer nicht direkt klagen kann, auf Grund eines gegen den Versicherungsnehmer erwirkten Urteils im Exekutionsweg die Forderung des Versicherungsnehmers gegen den Versicherer überweisen lassen und letzteren klagen, wenn dieser die Zahlung verweigert. Der Versicherer kann gegenüber dem geltend gemachten Anspruch nicht einwenden, daß er dem Versicherungsnehmer gegenüber von der Verpflichtung zur Leistung frei sei. Eine Beschränkung der Wirkung des § 158 c (1) VersVG. auf sogenannte Obliegenheitsverletzungen ist durch die Fassung des Gesetzestextes ausgeschlossen. Auch Stiefel-Wussow (6. Aufl. S. 310 Punkt 19 zu § 8 AKB.), auf die sich die beklagte Partei beruft, führen aus, daß dem geschädigten Dritten gegenüber die Wirkung des Fristablaufes unerheblich sei. Die von der beklagten Partei zitierten späteren Ausführungen betreffen Rückersatzansprüche aus Schadenversicherungen und von Sozialversicherungsanstalten.
+Die Untergerichte haben aber auch mit Recht einen Risikoausschluß nach § 11 Z. 4 AKB. verneint. Danach sind von der Versicherung Haftpflichtansprüche aus Schadensfällen von Angehörigen des Versicherungsnehmers ausgeschlossen, denen er auf Grund gesetzlicher Verpflichtung zur Zeit des Versicherungsfalles Unterhalt gewährt. Es genügt also nicht die Tatsache, daß der Versicherungsnehmer einem Angehörigen Unterhalt gewährt, sondern er muß hiezu gesetzlich verpflichtet sein. Wenn auch nunmehr vielfach die Lebensgefährtin der Ehegattin gleichgestellt wird und in diesem Sinn als Angehörige im Sinn dieser Bestimmung angesehen werden könnte, wird doch nirgends im Gesetz eine Unterhaltspflicht gegenüber der Lebensgefährtin normiert. Sie kann also nach dem klaren Wortlaut des § 11 Z. 4 AKB. nicht unter die von dieser Bestimmung betroffenen Personen eingereiht werden.

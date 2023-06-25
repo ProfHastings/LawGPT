@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.03.1954
+Geschäftszahl
+3Ob143/54
+Norm
+ABGB §1036;
+ABGB §1041;
+ABGB §1042;
+ABGB §1422;
+JN §1;
+Kopf
+SZ 27/61
+Spruch
+Unzulässigkeit des Rechtsweges für die Geltendmachung der von der Gemeinde für die Ersatzvornahme der Reparatur eines feuergefährlichen Kamins aufgewendeten Kosten.
+Entscheidung vom 3. März 1954, 3 Ob 143/54.
+I. Instanz: Bezirksgericht Neuhofen an der Krems; II. Instanz:
+Kreisgericht Wels.
+Text
+Bei der Feuerbeschau wurde der Rauchfang des Hauses des Beklagten, weil er einzustürzen drohte, wiederholt beanstandet. Am 30. Oktober 1952 wurde an die beklagte Partei vom Bürgermeister der klagenden Gemeinde ein Bescheid erlassen, mit dem sie aufgefordert wurde, den baufälligen Rauchfang längstens bis 15. November 1952 abzutragen und an seiner Statt einen neuen Zylinder aufzumauern. In der Begründung dieses Bescheides wurde ausgesprochen, daß bei Nichteinhaltung der Frist die beklagte Partei nicht nur Bestrafung, sondern auch die Beseitigung des oben erwähnten Anstandes auf ihre Kosten und Gefahr im Wege der Ersatzvornahme zu gewärtigen habe. Die klagende Partei hat nach fruchtlosem Ablauf der dem Beklagten für die Behebung des Mangels gesetzten Frist die Ersatzvornahme durch einen Maurermeister veranlaßt und hat diesem den verrechneten Betrag von 2269.12 S bezahlt. Die klagende Gemeinde verlangt Ersatz dieses Betrages, wobei sie sich als Rechtsgrundlage auf §§ 1042, 1036, 1041 und 1422 ABGB. stützt. Zuvor hat die beklagte Gemeinde die Bezirkshauptmannschaft Kirchdorf a. d. Krems um Eintreibung der Kosten im Verwaltungsweg ersucht. Die Bezirkshauptmannschaft hat die Eintreibung mit der Begründung abgelehnt, daß eine rechtskräftige Vollstreckungsverfügung fehle, weil die Androhung der Ersatzvornahme von der Gemeinde nicht in den Spruch des Bescheides, sondern nur in seine Begründung aufgenommen worden sei.
+Im gerichtlichen Verfahren hat die beklagte Partei die Einrede der Unzulässigkeit des Rechtsweges erhoben.
+Das Erstgericht gab dieser Einrede Folge, erklärte das bisherige Verfahren für nichtig und wies die Klage zurück.
+Das Rekursgericht wies die Einrede der Unzulässigkeit des Rechtsweges zurück.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist davon auszugehen, daß der Bürgermeister der klagenden Gemeinde als örtliche Feuerpolizeibehörde (§ 33 Abs. 3 Z. 7 der oberösterreichischen Gemeindeordnung 1948, LGBl. Nr. 22/1949, und § 2 der Feuerpolizeiordnung, LGBl. Nr. 8/1938) gegen den Beklagten als Eigentümer des Hauses, das sich im feuergefährlichen Zustand befand, eingeschritten ist, sowie daß der Bürgermeister gegen den Beklagten einen Verwaltungsbescheid erlassen hat, womit ihm die Beseitigung des Mangels aufgetragen wurde.
+Bei dieser Sachlage ist die gerichtliche Kompetenz zur Schaffung eines Exekutionstitels zwecks Hereinbringung der Kosten der Ersatzvornahme nicht gegeben. Denn es besteht zwischen der klagenden Gemeinde und dem Beklagten nicht das Verhältnis von "Einwohnern des Staates unter sich" (§ 1 ABGB.), sondern das Verhältnis von Obrigkeit zum Untertan.
+Wie der Oberste Gerichtshof mehrfach ausgesprochen hat (1 Ob 832/51 und 3 Ob 776/52), desgleichen der Verfassungsgerichtshof (K I- 2/52/18), kommt es bei der Beurteilung, ob ein privatrechtlicher oder ein hoheitsrechtlicher Anspruch vorliegt, nur auf den vorgebrachten Sachverhalt und nicht auf die juristische Konstruktion der Klage an. Dadurch, daß die klagende Gemeinde es unterlassen hat, die Androhung der Ersatzvornahme in den Spruch ihres an den Beklagten gerichteten Verwaltungsbescheides aufzunehmen, hat sich ihre Stellung als Obrigkeit nicht geändert, wobei es gleichgültig ist, ob die Kosten der Ersatzvornahme unmittelbar durch die Gemeinde, wie das Rekursgericht annimmt, oder im Wege der Bezirksverwaltungsbehörde hereinzubringen wären und ob die Ansicht der Bezirkshauptmannschaft Kirchdorf an der Krems, daß die Kosten der Ersatzvornahme wegen des Mangels des Bescheides im Verwaltungsweg nicht beigetrieben werden können, zutrifft oder nicht. Wenn der Gesetzgeber bestimmte Geldansprüche, wie es in § 62 Abs. 2 der oberösterreichischen Gemeindeordnung 1948 vorgesehen ist, in das Verwaltungsverfahren verweist, kann der Gläubiger, der zufolge eines ihm unterlaufenen Fehlers den Anspruch in dem vom Gesetz vorgesehenen Verfahren nicht durchsetzen kann, nunmehr nicht im Klageweg Zahlung verlangen. Die Rechtsnatur des Anspruches ist ein für allemal festgelegt und hängt nicht davon ab, ob er wegen besonderer Umstände im Verwaltungsvollstreckungsverfahren nicht geltend gemacht werden kann. Der Rechtsfall liegt gleich wie jener, der der vom Erstgericht angeführten Entscheidung Amtl. Sammlung Nr. 1515 zugrunde gelegen ist, nur daß jetzt nicht mehr durch die Kaiserliche Verordnung vom 20. April 1854, RGBl. 96, die durch die Verwaltungsverfahrensgesetze aufgehoben worden ist, sondern durch die Bestimmungen der oberösterreichischen Gemeindeordnung 1948 und des Verwaltungsvollstreckungsgesetzes der ordentliche Rechtsweg ausgeschlossen wird.

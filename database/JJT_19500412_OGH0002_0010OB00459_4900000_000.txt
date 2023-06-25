@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.04.1950
+Geschäftszahl
+1Ob459/49
+Norm
+EO §379;
+Kopf
+SZ 23/93
+Spruch
+Solange nicht behauptet und bescheinigt wird, daß der Gegner der gefährdeten Partei seine Gläubiger nicht gleichmäßig befriedigen wird, ist eine subjektive Gefährdungshandlung auch dann nicht anzunehmen, wenn die Konkurseröffnung über das Vermögen des Gegners der gefährdeten Partei bevorsteht.
+Entscheidung vom 12. April 1950, 1 Ob 459/49.
+I. Instanz: Bezirksgericht Gloggnitz; II. Instanz: Kreisgericht Wiener Neustadt.
+Text
+Ein von seinem Dienstgeber gekundigter Angestellter beantragte zur Sicherung seiner ihm gegen den Dienstgeber zustehenden Ansprüche aus dem Angestelltenverhältnis, die er übrigens bereits beim Arbeitsgericht geltend gemacht hatte, die Erlassung einer einstweiligen Verfügung.
+Das Erstgericht gab dem Antrage statt.
+Das Rekursgericht wies ihn mit der Begründung ab, daß die Gefährdung des Anspruches nicht bescheinigt sei, da weder die Überschuldung der Antragsgegnerin noch die Gefahr der vollständigen Auspfändung oder die Verfolgung durch Klagen und Exekutionen, aber auch nicht einmal "die in der letzten Zeit erfolgte zeitweise Stillegung des Unternehmens" ausreichen, um die Voraussetzungen für eine einstweilige Verfügung zur Sicherung einer Geldforderung zu schaffen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs keine Folge.
+Rechtliche Beurteilung
+Begründung:
+Der Oberste Gerichtshof konnte sich auf die Prüfung beschränken, ob die gefährdete Partei eine konkrete Gefährdungshandlung ihrer Gegnerin und damit eine subjektive Gefährdung behauptet und bescheinigt hat. Es ist dem Rekursgericht zu folgen, daß Lehre und Rechtsprechung (umfassende Zusammenstellung der Judikatur bei Heller - Trenkwalder, 1934. S. 1335 - 1337, und Hermann, Exekutionsordnung,
+8. Aufl., zu § 379; spätere Rechtsprechung unverändert) selbst dann, wenn die Lage der Antragsgegnerin derart ist, daß die Konkurseröffnung bevorsteht, keine subjektive Gefährdungshandlung anzunehmen sei, solange nicht behauptet und bescheinigt werde, daß die Gegnerin der gefährdeten Partei bei der Veräußerung ihres Unternehmens ihre Gläubiger nicht gleichmäßig befriedigen werde. Es ist daher müßig, wenn die gefährdete Partei unter Hinweis auf den Inhalt ihres Antrages auf Erlassung der einstweiligen Verfügung neuerdings darauf verweist, daß durch ihre - zufolge des schlechten Geschäftsganges des Unternehmens - erfolgte Kündigung und durch Nichtauszahlung des Gehaltes eine konkrete Gefährdungshandlung behauptet und bescheinigt worden sei.
+Ist aber eine Gefährdung als nicht bescheinigt anzusehen, dann ist der Antrag auf einstweilige Verfügung abzuweisen, ohne daß eine Sicherheitsleistung in Frage käme. Denn es kann zwar ein mangelhaft bescheinigter Anspruch durch Sicherheitsleistung ergänzt werden, niemals aber eine mangelhaft bescheinigte oder überhaupt fehlende Gefährdung.

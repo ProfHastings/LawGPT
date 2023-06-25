@@ -1,0 +1,209 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+05.12.2017
+Geschäftszahl
+133R93/17z
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie den Richter Dr. Terlitza und den fachkundigen Laienrichter Patentanwalt DI Puchberger in der Patentrechtssache der gefährdeten Partei *****, vertreten durch Gassauer-Fleissner Rechtsanwälte GmbH in Wien, wider die Gegnerin der gefährdeten Partei *****, vertreten durch Schwarz Schönherr Rechtsanwälte KG in Wien, wegen Erlassung einer einstweiligen Verfügung über den Rekurs der Gegnerin der gefährdeten Partei (Interesse: EUR 150.000) gegen die Einstweilige Verfügung des Handelsgerichts Wien vom 15.7.2017, 19 Cg 75/16z-8 in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die gefährdete Partei hat die Kosten ihrer Rekursbeantwortung vorläufig, die Gegnerin der gefährdeten Partei hat die Kosten ihres Rekurses endgültig selbst zu tragen.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000.
+Der ordentliche Revisionsrekurs ist nicht zulässig.
+Begründung
+Text
+Das Erstgericht ging von folgendem bescheinigten Sachverhalt aus:
+Die Gefährdete ist Berechtigte des Schutzzertifkats SZ 23/2005 (in der Folge kurz: ESZ) mit Wirksamkeit bis 21.12.2019 für das Erzeugnis „Kombination, umfassend Abacavir bzw ein physiologisch akzeptables Salz, Ester, Salz des Esters oder Solvat davon und Lamivudin bzw ein akzeptables Salz, Ester, Salz des Ester oder ein Solvat davon”, das auf dem europäischen Patent EP 0 817 637 B1 (in der Folge kurz: Grundpatent) und dem österreichischen nationalen Teil dieses Patents AT E 220 551 beruht.
+Das Grundpatent, angemeldet am 28.3.1996, erteilt am 25.11.2002, nimmt die Priorität vom 30.3.1995 in Anspruch und weist unter anderem folgende, für das Rekursverfahren insbesondere noch relevante Ansprüche auf [Textauszeichnung durch das Rekursgericht]:
+1.	Kombination, umfassend
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+oder ein physiologisch funktionales Derivat davon
+und
+(2R,cis)-4-Amino-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+oder ein physiologisch funktionales Derivat davon.
+9.	Verwendung von
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+und
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+in der Herstellung eines Medikaments zur Behandlung und/oder Prophylaxe einer HIV-Infektion.
+14.	Produkt, umfassend
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+und
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+als kombinierte Zubereitung zur simultanen, separaten oder aufeinander folgenden Verwendung in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+15.	Produkt, umfassend
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol,
+Zidovudin
+und
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+als kombinierte Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+16.	Produkt gemäß Anspruch 15, worin die Komponenten im Gewichtsverhältnis von 1 bis 20 : 1 bis 20 : 1 bis 10 vorhanden sind.
+17.	Produkt, umfassend
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+18.	Produkt, umfassend
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+Die Substanzen tragen auch die folgenden Bezeichnungen:
+(1S,4R)-cis-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopenten-1-methanol
+1592U89;
+Abacavir;
+ABC.
+(2R,cis)-4-Amino-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-on
+Lamivudin;
+3TC.
+Unter Verwendung der Bezeichnungen „Abacavir” und „Lamivudin” lesen sich die oben zitierten Ansprüche leichter wie folgt:
+1.	Kombination, umfassend
+Abacavir
+oder ein physiologisch funktionales Derivat davon
+und
+Lamivudin
+oder ein physiologisch funktionales Derivat davon.
+9.	Verwendung von
+Abacavir
+und
+Lamivudin
+in der Herstellung eines Medikaments zur Behandlung und/oder Prophylaxe einer HIV-Infektion.
+14.	Produkt, umfassend
+Abacavir
+und
+Lamivudin
+als kombinierte Zubereitung zur simultanen, separaten oder aufeinander folgenden Verwendung in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+15.	Produkt, umfassend
+Abacavir,
+Zidovudin
+und
+Lamivudin
+als kombinierte Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+16.	Produkt gemäß Anspruch 15, worin die Komponenten im Gewichtsverhältnis von 1 bis 20 : 1 bis 20 : 1 bis 10 vorhanden sind.
+17.	Produkt, umfassend
+Abacavir
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+Lamivudin
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+18.	Produkt, umfassend
+Lamivudin
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+Abacavir
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion.
+Die Patentanmeldung GB 9506490.3 vom 30.3.1995, deren Priorität die Gefährdete in Anspruch nimmt, bezieht sich auf therapeutisch wirksame Kombinationen mit Anti-HIV-Wirksamkeit von Abacavir, Zidovudin und Lamivudin. Es beschreibt, dass sich beim bekannten Wirkstoff Zidovudin Resistenzen entwickeln können. Die Kombination des Stoffs mit Didanosine und Calzitabine sei bekannt. Unerwartet habe sich gezeigt, dass durch die Kombination mit Abacavir und Lamivudin ein synergistischer Effekt entstehe.
+Im am 19.11.1992 veröffentlichen Dokument EP 0 513 917 A1 wird eine Kombination umfassend Lamivudin mit einem Inhibitor der HIV-Replikation beansprucht. Als Inhibitor der HIV-Replikation sind in diesem Dokument eine Liste von Wirkstoffen angeführt, wie AZT, ddl, RO 31-8959, R-82913 (TIBO). Es wird eine Kombinationen von zwei Nukleosiden, nämlich Lamivudin mit AZT, ddl, RO 31-8959 und R-82913 (TIBO) getestet. Aus den Beispielen ergibt sich eindeutig, dass Lamivudin mit der Mehrzahl der in der EP 0 513 917 A1 getesteten Wirkstoffe, nämlich AZT, ddl, RO 31-8959 und R-82913 (TIBO) synergistisch wirkte, nicht jedoch mit ddC. Eine Anregung, Abacavir zu verwenden, ist diesem Dokument an keiner Stelle zu entnehmen. [1]
+Die Gegnerin bietet das Produkt „Abacavir/Lamivudin” zur Behandlung von HIV auf dem österreichischen Markt an.
+Die Gefährdete machte ihre Ansprüche „unter Ausschluss der Offenbarung der WO 96/06844 als Stand der Technik gemäß Art 54 Abs 3 EPÜ, insbesondere unter Ausschluss des Succinatsalzes von Abacavir sowie unter Ausschluss eine Kombination des Succinatsalzes bzw von Solvaten des Succinatsalzes von Abacavir mit Lamivudin” geltend.
+Daraus hat das Erstgericht (nicht von der Antragstellerin formuliert) die folgende in Anspruch genommene Fassung des Grundpatents abgeleitet [Textauszeichnung, einheitliche Verwendung von „Abacavir” statt „ABC” und von „Lamivudin” statt „3TC” zur leichteren Lesbarkeit durch das Rekursgericht]:
+1.	Kombination, umfassend
+Abacavir
+oder ein physiologisch funktionales Derivat davon
+und
+Lamivudin
+oder ein physiologisch funktionales Derivat davon,
+unter Ausschluss des Succinatsalzes von Abacavir
+sowie unter Ausschluss einer Kombination des Succinatsalzes bzw. von Solvaten des Succinatsalzes von Abacavir mit Lamivudin.
+2.	Kombination gemäß Anspruch 1, worin das physiologisch funktionale Derivat von Abacavir oder Lamivudin ein physiologisch akzeptable(s/r) Salz, Ether, Ester, Salz eines solchen Esters oder Solvat davon ist.
+6.	[Rückbezogen auf einem der Ansprüche 1 oder 2] Kombination gemäß einem der Ansprüche 1 bis 5 zur Verwendung in der medizinischen Therapie.
+7.	[Rückbezogen auf einem der Ansprüche 1 oder 2] Pharmazeutische Formulierung, umfassend eine Kombination gemäß den Ansprüchen 1 bis 5 in Verbindung mit einem oder mehreren pharmazeutisch akzeptablen Trägern dafür.
+8.	[Rückbezogen auf einem der Ansprüche 1 oder 2] Formulierung gemäß Anspruch 7 in Einheitsarzneiform.
+9.	Verwendung von
+Abacavir
+und
+Lamivudin
+in der Herstellung eines Medikaments zur Behandlung und/oder Prophylaxe einer HIV-Infektion,
+unter Ausschluss des Succinatsalzes von Abacavir sowie
+unter Ausschluss einer Kombination des Succinatsalzes bzw von Solvaten des Succinatsalzes von Abacavir mit Lamivudin.
+11.	[Rückbezogen auf Anspruch 9] Verwendung gemäß Anspruch 9 oder 10 zur Behandlung und zur Prophylaxe einer HIV-Infektion, die resistent gegen Nukleosid- oder Nicht-Nukleosid-Hemmer ist.
+12.	[Rückbezogen auf Anspruch 9] Verwendung gemäß Anspruch 9 oder 10 in der Behandlung von AIDS.
+13.	[Rückbezogen auf Anspruch 9] Verwendung gemäß Anspruch 9 oder 10 in der Behandlung von AIDS-bezogenen Zuständen oder AIDS-Demenz-Komplex.
+14.	Produkt, umfassend
+Abacavir
+und
+Lamivudin
+als kombinierte Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung in der Behandlung und/oder Prophylaxe einer HIV-Infektion,
+unter Ausschluss des Succinatsalzes von Abacavir sowie
+unter Ausschluss einer Kombination des Succinatsalzes bzw von Solvaten des Succinatsalzes von Abacavir mit Lamivudin.
+17.	Produkt, umfassend
+Abacavir
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+Lamivudin
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion,
+unter Ausschluss des Succinatsalzes von Abacavir sowie
+unter Ausschluss einer Kombination des Succinatsalzes bzw von Solvaten des Succinatsalzes von Abacavir mit Lamivudin.
+18.	Produkt, umfassend
+Lamivudin
+als Zubereitung zur simultanen, separaten oder aufeinanderfolgenden Verwendung zusammen mit
+Abacavir
+in der Behandlung und/oder Prophylaxe einer HIV-Infektion,
+unter Ausschluss des Succinatsalzes von Abacavir sowie
+unter Ausschluss einer Kombination des Succinatsalzes bzw von Solvaten des Succinatsalzes von Abacavir mit Lamivudin.
+Die Gegnerin biete seit November 2016 das Produkt „Abacavir/Lamivudin Sandoz 600 mg/300 mg” in Österreich an; dies sei als Inverkehrbringen anzusehen.
+Das Grundpatent sei rechtsbeständig und ausreichend offenbart; dementsprechend sei auch das ESZ rechtsbeständig
+Die Gegnerin bestritt den Eingriff nicht, wandte jedoch – unter Hinweis auf einen bereits beim Patentamt gegen das ESZ eingebrachten Nichtigkeitsantrag – die Nichtigkeit des Grundpatents ein und argumentierte im Wesentlichen, die bessere Wirksamkeit von Zweierkombinationstherapien gegenüber Einzelwirkstoffen bei HIV sei im Prioritätszeitpunkt bekannt gewesen. Vorteile der Zweierkombination Abacavir-Lamivudin gegenüber bekannten Kombinationen seien in der Patentschrift nicht beschrieben.
+Der Disclaimer sei in der Anmeldung nicht offenbart. Zwar sei das Succinatsalz von Abacavir im Streitpatent als besonders bevorzugtes Salz genannt, nicht aber dessen Solvate. Der Hinweis auf Succinat fehle im Prioritätsdokument. Da das Succinat als einziges konkretes Abacavir-Salz offenbart worden sei, sei der Disclaimer für die erfinderische Tätigkeit und/oder hinreichende Offenbarung relevant und daher eine unzulässige Erweiterung. Die verbleibenden Salze von Abacavir seien nicht offenbart.
+Die Gefährdete erwiderte, der Disclaimer schränke den Schutzgegenstand ein; er zeige die bevorzugte, aber nicht die einzige geoffenbarte Ausführungsform. Die Beschreibung umfasse in ihrer ursprünglichen Form auch physiologisch funktionelle Derivate wie Ester und insbesondere Salze, von denen der Disclaimer ein einzelnes ausnehme. Der Disclaimer sei zudem nicht erforderlich, da WO 96/06844 insgesamt nicht neuheitsschädlich sei, was umso mehr für den eingeschränkten Anspruch gelte. Die Erfindung sei zudem nicht naheliegend gewesen, weil eine Fachperson im Prioritätszeitpunkt die Kombination von Abacavir mit Lamivudin wegen zu erwartender Kreuzresistenzen nicht in Erwägung gezogen hätte.
+Mit dem angefochtenen Beschluss erließ das Erstgericht die beantragte einstweilige Verfügung im Wesentlichen antragsgemäß, wobei die Abweisung der Untersagung des Besitzes der „zu [Spruchpunkt] I genannten Gegenstände” rechtskräftig wurde. Es trug der Gefährdeten eine Sicherheitsleistung von EUR 300.000 auf.
+In rechtlicher Hinsicht beurteilte das Erstgericht den bereits eingangs dieser Rekursentscheidung auszugsweise wiedergegebenen Sachverhalt dahin, dass ein Disclaimer einen Teilverzicht auf die Patentansprüche einschließe. Die Voraussetzungen für die Wirksamkeit des verbliebenen „Restpatents”, insbesondere die Neuheit und die erfinderische Tätigkeit, müssten allerdings gegeben sein. Die Beweislast für die Zulässigkeit eines Disclaimers treffe die Gefährdete.
+Im vorliegenden Fall entfalle eine Ausführungsform aus der Gruppe Salze, nämlich das Succinatsalz. Ausgehend von den Entgegenhaltungen sei das Grundpatent neu und erfinderisch.
+Gegen den stattgebenden Teil der einstweiligen Verfügung richtet sich der Rekurs der Gegnerin aus den Rekursgründen der unrichtigen Tatsachenfeststellung und der unrichtigen rechtlichen Beurteilung. Sie beantragt die Abweisung des Sicherungsantrags; hilfsweise stellt sie einen Aufhebungsantrag.
+Die Gefährdete beantragt, den Rekurs abzuweisen.
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+1. Zur Feststellungsrüge:
+1.1. Die Gegnerin kritisiert die eingangs der Rekursentscheidung in Fettdruck wiedergegebene Feststellung [1] als nicht vom Bescheinigungsverfahren gedeckt.
+Sie strebt stattdessen diese Konstatierung an:
+„Abacavir wurde erst nach dem Prioritätsdatum/Anmeldedatum von ./GUT 11 zu ./2 als Reverstranskriptaseinhibitor beschrieben, der sich gemäß Stand der Technik zur Kombinationstherapie mit anderen Reverstranskriptaseinhibitoren eignete (zB Anlage ./GUT 7, ./GUT8).
+Die Fachperson hätte ausgehend von ./GUT 11 zu ./2 nicht nur die vorbekannten Reverstranskriptaseinhibitoren zur Kombinationstherapie in Betracht gezogen, sondern auch die später (jedoch vor dem Stichtag im hg. Fall) bekannten, insbesondere Abacavir, da dieses ja auch bereits als vielversprechend für die Kombinationstherapie angepriesen wurde.”
+1.2. Der Rekurs zeigt nicht überzeugend auf, warum die bekämpfte Feststellung unrichtig ist, sondern er macht nur geltend, dass aus den dort näher dargelegten Gründen die Sachverhaltsannahme des Erstgerichts insofern zu relativieren sei, als „Abacavir [...] erst nach dem Prioritätsdatum/Anmeldedatum von ./GUT 11 zu ./2 als Reverstranskriptaseinhibitor beschrieben [wurde]”, (Rekurs S 35). Im Kontext der intendierten Zusatzfeststellung übersieht die Gegnerin also, dass die ihrer Ansicht nach zu streichende Feststellung nicht nur auf die im selben Absatz beschriebene Tatsache gestützt ist, dass Lamivudin sich mit ddC nicht als synergistisch erwiesen hat, sondern es ist auch – wie das Erstgericht richtig ausführt – aus dem gesamten Dokument EP 0 513 917 (Beilage ./GUT 11 zu Beilage ./2) keine Anregung zu entnehmen, konkret Abacavir mit Lamivudin zu kombinieren.
+1.3. Damit hat es aber bei der kritisierten Feststellung zu bleiben, denn die von der Gegnerin angestrebte „Ersatzfeststellung” ist bei richtiger Würdigung als geltend gemachter sekundärer Feststellungsmangel dem Berufungsgrund der unrichtigen rechtlichen Beurteilung zuzurechnen und daher dort zu behandeln.
+2. Zur Rechtsrüge:
+2.1. Dieser rechtliche Feststellungsmangel liegt ebenfalls nicht vor, obwohl die Frage, ob eine Entwicklung auf einer erfinderischen Tätigkeit beruht, grundsätzlich eine Rechtsfrage ist (17 Ob 24/09t, Nebivolol I; 17 Ob 13/09z, Nebivolol II). Da sich die erfinderische Tätigkeit am Stand der Technik orientiert, also am Fachwissen, über das die „Durchschnittsfachperson” auf dem betreffenden Gebiet verfügt, ist die Beurteilung, ob sich das Patent für die Fachperson in naheliegender Weise aus dem Stand der Technik ergibt, in erster Linie von einer Tatfrage abhängig (RIS-Justiz RS0071399). Es bedarf entsprechender Feststellungen, was sich
+für die Fachperson im Prioritätszeitpunkt aus den Vorveröffentlichungen ergeben hätte (vgl 17 Ob 4/11d ua).
+2.2. Der Rekurs zeigt allerdings über die bereits im Rahmen der Feststellungsrüge behandelten Argumente hinaus auch nicht auf, dass und anhand welcher Bescheinigungsmittel die begehrte Zusatzfeststellung unter dem maßgeblichen Blickwinkel der Fachperson im Bereich der HIV-Forschung zu treffen gewesen wäre. Sie kommt daher nicht in Betracht, denn mit der Rechtsrüge können Feststellungen nur insoweit angefochten werden, als sie auf Schlussfolgerungen beruhen, die mit den Gesetzen der Logik und der Erfahrung unvereinbar sind (RIS-Justiz RS0043356). Solche Widersprüchlichkeiten aufzuzeigen gelingt dem Rekurs nicht.
+2.3. Nach § 156 Abs 1 PatG kann die Gültigkeit eines Patents und damit das Vorliegen von Nichtigkeitsgründen als Vorfrage im Verletzungsstreit beurteilt werden. Die endgültige Entscheidung über den Bestand des Patents fällt jedoch in die Zuständigkeit des Österreichischen Patentamts. § 156 Abs 3 PatG ordnet eine (allfällige) Unterbrechung des Verfahrens an, wenn ein Urteil davon abhängt, ob ein Patent nichtig ist.
+Im Sicherungsverfahren ist die Schutzfähigkeit des Patents vom Gericht selbständig als Vorfrage zu prüfen. Seine Erteilung begründet einen prima-facie-Beweis für die Rechtsbeständigkeit, der allenfalls durch Gegenbescheinigung entkräftet werden kann (RIS-Justiz RS0071369; RS0103412; zuletzt 4 Ob 83/17k, Polymere; Weiser, PatG3 597).
+Die Vorfrage der Gültigkeit oder Wirksamkeit eines Patents kann daher auch im Provisorialverfahren geprüft werden, wenn in dieser Richtung eine Gegenbescheinigung angeboten ist, doch nur mit den Mitteln und in den Grenzen des Provisorialverfahrens (RIS-Justiz RS0071408; RS0103412).
+2.4. Für Patente bestehen seit dem Inkrafttreten von § 22a PatG eigene Auslegungsregeln (RIS-Justiz RS0118278; RS0030757 [T10]): Der Schutzbereich des Patents und der bekanntgemachten Anmeldung werden durch den Inhalt der Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen. Dabei ist das Protokoll über die Auslegung des Art 69 EPÜ, BGBl 1979/350, in der jeweils geltenden Fassung sinngemäß anzuwenden.
+3. Zum von der Gefährdeten erklärten Disclaimer (freiwillig eingeschränkte Anspruchsfassung):
+3.1. Die Große Beschwerdekammer des EPA hat den Begriff „Disclaimer” in der Entscheidung G 1/03 definiert und festgehalten, dass dieser Begriff in Übereinstimmung mit der ständigen Praxis im Sinne einer Anspruchsänderung verwendet wird, die in der Aufnahme eines „negativen” technischen Merkmals in den Anspruch resultiert, womit bestimmte Ausführungsformen oder Bereiche eines allgemeinen Merkmals ausgeschlossen werden.
+Die im Antrag auf Erlassung der einstweiligen Verfügung vorgenommene Einschränkung des Schutzbegehrens ist bereits prima vista ein solch einseitiger Teilverzicht in Bezug auf die Geltendmachung der Wirkung des Grundpatents gegenüber der Gegnerin. Der Schutzumfang des Grundpatents bleibt dadurch im Übrigen unverändert.
+Zu dieser Frage hat die Gefährdete bereits im Antrag auf Erlassung der einstweiligen Verfügung zutreffend auf die Entscheidungen des OGH 17 Ob 24/09t, Nebivolol I, und 17 Ob 13/09z, Nebivolol II, verwiesen. Danach spricht der Umstand, dass ein Patentanspruch in seiner ursprünglichen Fassung gegen das Stoffschutzverbot verstieß und vernichtbar war, nicht dagegen, dass er durch einen Teilverzicht wirksam auf einen schutzfähigen Swiss Claim eingeschränkt werden kann. Dass noch keine formale Einschränkung des Patents gegenüber dem Patentamt erfolgte, ist dabei unerheblich (RIS-Justiz RS0124038 [T1 und T3]):
+„Denn wenn die Rechtsbeständigkeit eines Patents im Sicherungsverfahren geprüft werden kann, muss es dem Patentinhaber möglich sein, den von ihm geltend gemachten Anspruch so zu formulieren, dass er von einer allfälligen Teilnichtigkeit der patentrechtlichen Ansprüche nicht betroffen wäre.” (17 Ob 24/09t, Nebivolol I, Pkt 3.3.4.).
+3.2. Entsprechend der Entscheidung der Großen Beschwerdekammer des EPA G 2/10 ist allerdings vorausgesetzt, dass „der nach Aufnahme des Disclaimers im Patentanspruch verbleibende Gegenstand dem Fachmann, der allgemeines Fachwissen heranzieht, [...] in der ursprünglich eingereichten Fassung der Anmeldung unmittelbar und eindeutig offenbart wird, sei es implizit oder explizit” (LS 1a). Ausschlaggebend ist also, dass kein unzulässiges Aliud erzielt wird, sondern eine Einschränkung auf eine Teilmenge des ursprünglichen Anspruchs erfolgt (17 Ob 24/09t, Nebivolol I = RIS-Justiz RS0124037 [T3]; OLG Wien, 34 R 86/14p, Lochski) oder, wie es die große Beschwerdekammer des EPA in G 2/10 formuliert:
+„Ein Disclaimer als solcher definiert mitnichten ein Merkmal der beanspruchten Erfindung. Es verhält sich genau umgekehrt. Er definiert etwas, das nicht beansprucht wird.”
+Die Frage der Unterscheidung zwischen „offenbarten” und „nicht offenbarten” Disclaimern ist allenfalls im Prüfungsverfahren einer Patentanmeldung oder einer Nichtigkeitsklage zu diskutieren, wie dies beispielsweise auch in den Prüfrichtlinien des EPA beschrieben ist (H-V3,5 und H-V4).
+3.3. Im Sicherungsverfahren ist ausgehend von diesen Grundsätzen unter Bedachtnahme auf das dort verlangte geringere Beweismaß der Bescheinigung allein wesentlich, ob der nach dem Disclaimer verbleibende Schutzumfang Rechtsbestand hat. Dies ist nach Auffassung des Rekursgerichts im Einklang mit der Rechtsansicht des Erstgerichts (BS 12 f) der Fall, auf die daher vorweg verwiesen und aus der Folgendes hervorgehoben wird (§ 78 EO iVm § 526 Abs 3, § 500a ZPO):
+„Im vorliegenden Fall entfällt eine Ausführungsform aus der Gruppe Salze, nämlich das Succinatsalz. Dass sich die Verwendung von Salzen für einen Fachmann explizit aus der Beschreibung ergibt, bedarf keiner Erörterung. Als erfinderisch wird die Kombination der drei bzw zwei aus diesen ausgewählten Wirkstoffen, auch in der Form physiologisch funktioneller Salze, beschrieben. [...] Der Disclaimer nimmt ein konkretes Derivat aus einer generell bezeichneten Gruppe aus. Es liegt daher im Disclaimer keine Erweiterung des Patentes und [es] ist zu prüfen, ob der eingeschränkte Patentumfang schutzfähig bleibt, also die erforderliche Neuheit und Erfindungshöhe aufweist.” (Hervorhebung durch das Rekursgericht)
+Der im Disclaimer genannte Verzicht auf das Succinatsalz lässt der Fachperson im Bereich der HIV-Forschung genügend Möglichkeiten für die Durchführung der patentierten Erfindung. Sie kann auf Alternativen zurückgreifen, ohne erfinderisch tätig zu sein. Ein Großteil der Offenbarung der Patentschrift bezieht sich nicht nur auf die Reinverbindungen, sondern auch auf deren physiologisch funktionellen Derivate, von denen auch Salze und Solvate umfasst sind. Die Fachperson erhält jedoch nicht nur diese Information. Vielmehr werden ihr auch spezifische Salze und andere Derivate in die Hand gegeben, die die Erfordernisse des Wirkstoffs erfüllen.
+Auf S 4 Abs 4 der ursprünglich eingereichten Fassung (Beilage ./GUT 14 zu Beilage ./2) erfolgte eine relativ umfangreiche Auflistung möglicher Salze (neben Succinat). Ferner ist sogar ein bevorzugtes Derivat von Abacavir (hier 1592U89) genannt (S 4 Abs 3).
+Es bleibt somit ein durchführbarer Überschuss, der einer in Betracht kommenden Fachperson im Bereich der HIV-Forschung ohne Anwendung eines erfinderischen Schritts zugänglich ist.
+4. Zur Prioritätsbeanspruchung:
+Das Grundpatent beansprucht das Prioritätsrecht der britischen Patentanmeldung GB 9506490.3.
+Die Gefährdete behauptet, die Priorität vom 30.3.1995 zu Recht in Anspruch zu nehmen, da der Gegenstand des Grundpatents in seiner Gesamtheit im prioritätsbegründenden Dokument geoffenbart wird.
+Die Gegnerin verneint dies mit der Behauptung, dass die sogenannte „Zweierkombination” von Abacavir und Lamivudin nicht unmittelbar und eindeutig im Prioritätsdokument genannt sei. Vielmehr sei nur eine „Dreierkombination” aus Abacavir, Lamivudin und Zidovudin geoffenbart.
+Dies trifft zwar für einen Großteil der Ausführungen des Prioritätsdokuments zu, es wird aber doch an einigen Stellen sehr wohl und dabei jeweils ausreichend deutlich die Zweierkombination beschrieben; dies trifft insbesondere auf S 5 Abs 2, S 9 Abs 7, sowie auf den Patentanspruch 16 in Beilage ./B zu. Die hier auf das Wesentliche zusammengefasste Auffassung der Gegnerin, wonach die Zweierkombination nur im Patentanspruch 16 genannt werde, überzeugt vor diesem Hintergrund nicht.
+Auch die Behauptung der Gegnerin, wonach die Verwendung eines Succinat-Salzes nicht durch das Prioritätsdokument unterstützt wird, ist nicht nachvollziehbar. Vielmehr wird in Beilage ./A S 3 Abs 4 sehr wohl beschrieben, dass eines der physiologisch akzeptablen Salze auch ein Succinat sein kann („salt of succinic acid”).
+Die Priorität ist somit im Grundpatent zu Recht beansprucht worden.
+Der Patentanspruch 16 der Prioritätsanmeldung ist klar und enthält bereits für sich allein eine präzise und nachvollziehbare Lehre der Kombination von Abacavir mit Lamivudin. Dieser Anspruch steht auch nicht isoliert in der Prioritätsanmeldung: So betrifft beispielsweise der davorstehende Anspruch 15 eine Zweierkombination, wenngleich ausgehend von Zidovudin.
+Bereits aus diesen Beispielen erhellt, dass die prioritätsbegründende Anmeldung sowohl eine Zweier- als auch eine Dreierkombination zum Gegenstand haben kann. Auch im übrigen Beschreibungstext wird auf die Kombinationsmöglichkeiten einschließlich einer Zweierkombination verwiesen, siehe S 5 Abs 2 von Beilage ./A beginnend mit „the present invention also provides the use of 1592U89 [...]”.
+Somit beruft sich die Gefährdete zu Recht auf die beanspruchte Priorität.
+5. Zur Neuheit und zur erfinderischen Tätigkeit:
+5.1. Dem Gegner der gefährdeten Partei ist es zwar grundsätzlich nicht verwehrt, die Rechtsbeständigkeit des behaupteten Anspruchs durch geeignete Bescheinigungsmittel zu bekämpfen, soweit dies mit den Mitteln des Bescheinigungsverfahrens möglich ist. Aus der Beschränkung auf parate Beweismittel (§ 274 ZPO) und aus dem summarischen Charakter des Verfahrens lässt sich der Grundsatz ableiten, dass Gegenbescheinigungsmittel nur dann aufzunehmen sind, wenn damit ein einfach gelagerter Sachverhalt glaubhaft gemacht werden soll (vgl RIS-Justiz RS0005418). Die Behauptungs- und Bescheinigungslast richtet sich dabei nach den allgemeinen Regeln des Zivilprozesses, wonach jede Partei die für ihren Rechtsstandpunkt günstigen Tatsachen zu beweisen hat (4 Ob 243/12t; zur Gegenbescheinigung s RIS-Justiz RS0005410; RS0109287). Die Gegnerin hat daher die fehlende Patentierbarkeit des Streitpatents zu behaupten und zu bescheinigen (vgl Weiser, PatG3 597 mwN).
+5.2. Da die Gefährdete die Priorität berechtigt in Anspruch nimmt, ist hinsichtlich der Neuheitsschädlichkeit und des Fehlens der erfinderischen Tätigkeit nur mehr die Entgegenhaltung WO 96/06844 (Beilage ./GUT2 zu Beilage ./2) zu berücksichtigen, zumal weitergehende Untersuchungen die Möglichkeiten und Mittel im Provisionalverfahren unter Bedachtnahme auf die eben genannten Grundsätze übersteigen würden.
+Der Anmeldetag dieser Entgegenhaltung lag vor dem Prioritätstag, während der Veröffentlichungstag nach dem Prioritätstag liegt. Geoffenbart ist in dieser Veröffentlichung das Succinatsalz von Abacavir als erfindungsgemäße Verbindung. In weiterer Folge verweist WO 96/06844 auf mögliche Kombinationen dieses Succinatsalzes mit anderen Wirkstoffen, darunter auch mit Lamivudin in einer beiläufigen Aufzählung. Die konkrete Kombination von Abacavirsuccinat und Lamivudin ist nicht durch Beispiele oder andere erläuternde Textteile gestützt. Demzufolge fehlt auch jegliche Behauptung oder Beschreibung eines synergistischen Zusammenwirkens.
+Ein bloß beiläufiges Erwähnen möglicher Kombinationen vieler Stoffe ist nach Auffassung des Rekursgerichts ungeeignet, einen Nichtigkeitsgrund zu begründen, und zwar einerlei, ob wegen Fehlens der Neuheit oder der erfinderischen Tätigkeit.
+Im vorliegenden Fall ist zudem das Succinatsalz durch den Disclaimer ohnedies vom Schutz ausgenommen.
+Unter Berücksichtigung dieser Umstände und dieser Erwägungen ist von der Neuheit des Grundpatents auszugehen, sodass sich die Fragen des Naheliegens oder der fehlenden erfinderischen Tätigkeit bei der gegebenen Prioritätslage nicht stellen.
+Davon ausgehend ist auch das ESZ, auf das der Provisiorialantrag gestützt wird, in jenem Umfang rechtsbeständig wie es das Grundpatent ist, von dem es sich ableitet.
+6. Die Eingriffshandlung selbst ([zumindest] Feilhalten nach § 22 Abs 1 PatG; s dazu RIS-Justiz RS0125407) und das Vorliegen von Wiederholungsgefahr (s auch § 151b Abs 3 PatG) sind im Rekursverfahren nicht strittig, sodass sich ein näheres Eingehen darauf erübrigt.
+7. Wendet der Beklagte in einem Verletzungsprozess die Nichtigkeit des Patents ein, so ist die Möglichkeit, dass dem Unterlassungsanspruch durch eine nachträgliche Nichtigerklärung die Grundlage entzogen werden könnte, im Sicherungsverfahren erforderlichenfalls durch Auferlegung einer Sicherheitsleistung iSv § 390 Abs 2 EO zu berücksichtigen (RIS-Justiz RS0125406; 4 Ob 271/16f, Sicherheitsleistung).
+Ungeachtet der Verpflichtung des Rekursgerichts, die Frage einer Sicherheitsleistung auch noch im Rekursverfahren amtswegig zu prüfen (4 Ob 145/14y; RIS-Justiz RS0005496), hegt das Rekursgericht gegen ihre Höhe keine Bedenken, zumal die Gegnerin dagegen auch nichts vorgetragen hat.
+8. Die Entscheidung über die Kosten der Gefährdeten beruht auf § 393 Abs 1 EO, jene über die Kosten der Gegnerin auf §§ 78, 402 Abs 4 EO iVm §§ 41, 50 Abs 1 ZPO.
+9. Der Ausspruch über den Wert des Entscheidungsgegenstands stützt sich auf §§ 78, 402 Abs 4 EO iVm § 500 Abs 2 Z 1 lit b ZPO.
+10. Der ordentliche Revisionsrekurs war nicht zuzulassen, weil Rechtsfragen der in § 528 Abs 1 ZPO genannten Qualität und von über den Einzelfall hinausgehender Bedeutung nicht zu lösen waren. Das Rekursgericht hält sich innerhalb der zitierten Rechtsprechung.
+European Case Law Identifier
+ECLI:AT:OLG0009:2017:13300R00093.17Z.1205.000

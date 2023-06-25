@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.1949
+Geschäftszahl
+3Ob179/49
+Norm
+ZPO §228;
+ZPO §235;
+Kopf
+SZ 22/124
+Spruch
+Umwandlung einer Leistungsklage in eine Feststellungsklage und umgekehrt, Klagsänderung.
+Entscheidung vom 7. September 1949, 3 Ob 179/49.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die klagende Partei beantragte Räumung eines verpachteten Grundstückes wegen Auflösung des Pachtvertrages. Im Zuge des Prozesses wurde außer Streit gestellt, daß das Pachtverhältnis spätestens am 31. Dezember 1948 aufgelöst worden sei. Nunmehr änderte die klagende Partei ihr Klagebegehren dahin ab, daß sie die Feststellung begehrte, daß sie bis 31. Dezember 1948 Pächterin des fraglichen Betriebes gewesen sei, was die Beklagte bestritten hatte.
+Das Erstgericht ließ die Klagsänderung nicht zu, wohl aber das Rekursgericht, das dem Erstgericht unter Aufhebung des erstrichterlichen Beschlusses auftrug, das Verfahren über das geänderte Klagebegehren fortzusetzen.
+Der Oberste Gerichtshof stellte den erstrichterlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist begrundet.
+Das Rekursgericht kam aus folgenden Erwägungen zur Ansicht, daß in einem Punkte der von der klagenden Partei beantragten "Klagsänderung" eine solche überhaupt nicht vorliege, sondern lediglich eine Einschränkung des Klagebegehrens: "Bei der Vergleichung des ursprünglichen, auf Leistung lautenden Klagebegehrens mit dem nunmehr geltend gemachten Feststellungsbegehren des Inhaltes, daß die klagende Partei bis 31. Dezember 1948 Pächterin war, ergibt sich, daß eine echte Klagsänderung gar nicht vorliegt. Das Feststellungsbegehren beruht auf dem gleichen Rechtsgrund wie das ursprüngliche Leistungsbegehren und beinhaltet seinem Wesen nach nichts anderes, als eine bloße Einschränkung des ursprünglichen Klagebegehrens. Es kann eine Leistungsklage in eine Feststellungsklage umgeändert werden, zu der der Kläger veranlaßt wird, wenn der Leistungsanspruch des Klägers im Laufe des Prozesses befriedigt oder aus irgend einem anderen Grund gegenstandslos wurde, der Beklagte aber trotzdem das Rechtsverhältnis weiterhin bestreitet (siehe Neumann, Kommentar, zu § 235 ZPO.). Es kommt also im vorliegenden Falle, wo gleichfalls das Leistungsbegehren gegenstandslos wurde, das demselben zugrunde liegende Rechtsverhältnis aber weiterhin strittig blieb, die Bestimmung des § 235 Abs. 4 ZPO. zur Anwendung, der zufolge es als eine Änderung der Klage nicht anzusehen ist, wenn ohne Änderung des Klagsgrundes bloß das Klagebegehren eine Einschränkung erfährt."
+Der Oberste Gerichtshof vermag der Rechtsansicht des Rekursgerichtes nicht beizupflichten. Es ist zwar richtig, daß Neumann in seinem Kommentar die Ansicht vertritt, daß bei gleichbleibendem Klagsgrunde in der Verwandlung eines auf Leistung gerichteten Klagebegehrens in ein solches auf Feststellung eine Klagsänderung nicht zu erblicken ist, sondern lediglich eine Klagseinschränkung. Der Oberste Gerichtshof schließt sich jedoch der von Pollak (Zivilprozeßrecht, 2. Aufl., S. 400 ff.) dargelegten Rechtsansicht an, daß in einer Umwandlung einer Leistungsklage in eine Feststellungsklage oder umgekehrt auf jeden Fall eine Klagsänderung zu erblicken ist. Denn eine Klagsänderung liegt immer dann vor, wenn der Erhebung des geänderten Anspruches im neuen Prozeß die Rechtskraft im ersten nicht entgegengehalten werden könnte. Da aber das ursprünglich auf Räumung gestellte Klagebegehren in der Hauptsache infolge Beendigung des strittigen Bestandverhältnisses spruchreif geworden ist, würde die Zulassung auch des ersten Teiles der Klagsänderung (Feststellungsbegehren) eine erhebliche Verzögerung und Erschwerung des Verfahrens bedeuten.
+Aber selbst wenn man der Ansicht des Rekursgerichtes folgen würde, daß hinsichtlich des Feststellungsbegehrens eine Klagsänderung nicht vorliege, sondern lediglich eine Klagseinschränkung, würde dies doch zur Zurückweisung dieses Feststellungsbegehrens mangels Vorliegens der gesetzlichen Voraussetzungen einer Feststellungsklage gemäß § 228 ZPO. führen. Denn das Recht oder Rechtsverhältnis, dessen Bestehen oder Nichtbestehen durch eine gerichtliche Entscheidung festgestellt werden soll, hat im vorliegenden Fall zur Zeit der Klageerhebung (Klagsänderung) nicht mehr bestanden, da die Beendigung des Pachtverhältnisses mit 31. Dezember 1948 außer Streit gestellt wurde, weshalb die klagende Partei ihre Ansprüche auf Grund des bereits erloschenen Bestandverhältnisses (Rechnungslegung über die Führung des gegenständlichen Betriebes in der Zeit vom 1. Februar 1948 bis 31. Dezember 1948 mit der Gewährung von Buch- und Belegeinsicht) jederzeit mittels Leistungsklage geltend machen könnte. Eine Feststellungsklage ist jedoch unzulässig, wenn der Kläger seinen Anspruch durch Leistungsklage geltend machen kann.

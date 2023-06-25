@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+8ObS9/15d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner und den Hofrat Dr. Brenn als weitere Richter sowie die fachkundigen Laienrichter Mag. Dr. Rolf Gleißner und Wolfgang Cadilek in der Sozialrechtssache der klagenden Partei M***** G*****, vertreten durch Dr. Gerhard Hiebler und Dr. Gerd Grebenjak, Rechtsanwälte in Leoben, gegen die beklagte Partei IEF-Service GmbH, Geschäftsstelle Graz, 8020 Graz, Europaplatz 12, vertreten durch die Finanzprokuratur, 1010 Wien, Singerstraße 17-19, wegen 276 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 18. Juni 2015, GZ 6 Rs 36/15h-11, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 2 ASGG, § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Über das Vermögen der Dienstgeberin des Klägers wurde am 24. 4. 2014 das Insolvenzverfahren eröffnet. Am 30. 4. 2014 wurde von der Arbeiterkammer vor Ort eine Betriebsversammlung einberufen und dazu ein Dolmetsch für die rumänische Sprache beigezogen, um Kommunikationsprobleme mit den ca 40 rumänisch-
+stämmigen Dienstnehmern zu vermeiden. Gegenstand der Versammlung war die Belehrung über das Insolvenzverfahren und im Zusammenhang damit stehende arbeitsrechtliche Fragen.
+Die Beklagte lehnte den vom Kläger erhobenen Anspruch auf Gewährung von Insolvenz-Entgelt für die entstandenen Dolmetschgebühren in Höhe des Klagsbetrags mit dem verfahrensgegenständlichen Bescheid ab. Es handle sich um nach dem IESG nicht gesicherte Kosten der außergerichtlichen Rechtsberatung des Arbeitnehmers bzw seiner Teilnahme am Verwaltungsverfahren.
+Die dagegen erhobene Klage blieb in beiden Vorinstanzen erfolglos. Das Berufungsgericht verneinte die Zulässigkeit der ordentlichen Revision mangels der Voraussetzungen des § 502 Abs 1 ZPO.
+In seiner außerordentlichen Revision wiederholt der Kläger seine Argumentation, Kosten der Überwindung sprachlicher Barrieren bei der kollektiven Rechtsberatung im Rahmen einer Betriebsversammlung seien keine Kosten des Verwaltungsverfahrens und müssten daher nach § 1 Abs 2 Z 4 IESG gesichert sein.
+Rechtliche Beurteilung
+Damit zeigt die Revision jedoch keine dem Berufungsgericht unterlaufene korrekturbedürftige Fehlbeurteilung auf.
+Die Begründung des Berufungsgerichts entspricht sowohl dem Gesetzeswortlaut als auch der von ihm zitierten ständigen Rechtsprechung.
+Nach § 1 Abs 2 Z 4 IESG sind aufrechte, nicht verjährte und nicht ausgeschlossene Ansprüche aus dem Arbeitsverhältnis gesichert, darunter die zur zweckentsprechenden Rechtsverfolgung notwendigen Kosten, insbesondere Prozesskosten (lit a, b, i), rechtskräftig zugesprochene Exekutionskosten (lit c), tarifmäßige Prozesskosten aufgrund eines rechtswirksamen Vergleichs oder solche, die in einem nach § 7 Abs 1 IO unterbrochenen Verfahren entstanden sind (lit d), Barauslagen und Kosten des Rechtsvertreters anlässlich eines außergerichtlichen Vergleichs oder Anerkenntnisses (lit e), tarifmäßige Verfahrenskosten und Barauslagen, die dem Arbeitnehmer im Zuge der Beantragung und der Teilnahme an einem Verfahren nach § 1 Abs 1 IESG (lit f, g) erwachsen sind, oder für die begehrte Ausstellung eines Dienstzeugnisses (lit h).
+Die Ansprüche des Klägers gegen seinen Dienstgeber waren nicht Gegenstand eines arbeitsgerichtlichen Verfahrens oder eines außergerichtlichen Vergleichs oder Anerkenntnisses. Die streitgegenständlichen Barauslagen könnten daher bestenfalls als Kosten der Teilnahme am Insolvenzverfahren (§ 1 Abs 2 Z 4 lit f IESG) angesehen werden. Der Oberste Gerichtshof hat dazu aber bereits ausgesprochen, dass - abgesehen von hier nicht zutreffenden Ausnahmen eines außergerichtlichen Vergleichs oder Anerkenntnisses - nach § 1 Abs 2 Z 4 IESG nur Kosten eines gerichtlichen Verfahrens, aber nicht außergerichtliche Kosten gesichert sind (8 ObS 6/06z; RIS-Justiz RS0076685).
+Gesichert könnten nach § 1 Abs 2 Z 4 lit f IESG zudem nur Kosten sein, die dem Arbeitnehmer erwachsen sind. In dieser Hinsicht ist das Klagebegehren überhaupt unschlüssig, wird doch nicht einmal behauptet, dass der Kläger die begehrten Dolmetschkosten bezahlen musste.
+Aus dem Verwaltungsakt der Beklagten geht im Gegenteil hervor, dass die Honorarnote der Dolmetscherin an deren Auftraggeber, den Insolvenzschutzverband Steiermark, gerichtet war, der sie laut Vermerk vom 9. 5. 2014 auch bezahlt hat. Der Insolvenzschutzverband für Arbeitnehmerinnen (ISA) preist seine Dienste für die Arbeitnehmer notorisch öffentlich als kostenlos an. Weshalb gerade der Kläger dennoch für Auslagen des ISA haften sollte, wurde nicht begründet.
+Auf die in der Revision relevierte Frage, ob es sich bei den Dolmetschgebühren um - ebenfalls nicht ersatzfähige - Kosten des Verwaltungsverfahrens nach § 74 Abs 1 AVG handelt, kam es für die Entscheidung daher nicht mehr an.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:008OBS00009.15D.0427.000

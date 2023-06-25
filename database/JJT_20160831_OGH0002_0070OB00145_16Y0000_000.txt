@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.08.2016
+Geschäftszahl
+7Ob145/16y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei S***** E.U., *****, vertreten durch GKP Gabl Kogler Leitner Stöglehner Bodingbauer Rechtsanwälte OG in Linz, gegen die beklagte Partei T***** GmbH, *****, vertreten durch Dr. Ivo Greiter und andere, Rechtsanwälte in Innsbruck, wegen 5.811 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Innsbruck vom 19. Mai 2016, GZ 4 R 114/16t-33, womit das Urteil des Bezirksgerichts Kufstein vom 3. März 2016, GZ 4 C 444/15p-29, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Begründung:
+Rechtliche Beurteilung
+Mehrere in einer Klage geltend gemachte Forderungen bilden nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen des § 55 Abs 1 JN erfüllt sind. Die Regelung des § 55 Abs 1 JN gilt auch für das Rechtsmittelverfahren (§ 55 Abs 4 JN) und damit für den Entscheidungsgegenstand (RIS-Justiz RS0053096, RS0037838 [T38]). Danach sind mehrere in einer Klage geltend gemachte Forderungen zusammenzurechnen, wenn sie von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und in einem tatsächlichen oder rechtlichen Zusammenhang stehen (§ 55 Abs 1 Z 1 JN) oder von mehreren Parteien gegen mehrere Parteien geltend gemacht werden, die materielle Streitgenossen nach § 11 Z 1 ZPO sind (§ 55 Abs 1 Z 2 JN).
+Mehrere Ansprüche stehen in einem tatsächlichen Zusammenhang, wenn sie aus demselben Klagssachverhalt abgeleitet werden können, wenn also das für einen Anspruch erforderliche Sachvorbringen ausreicht, um auch über die anderen geltend gemachten Ansprüche entscheiden zu können, ohne dass noch ein ergänzendes Sachvorbringen erforderlich wäre (RIS-Justiz RS0042766). Ein rechtlicher Zusammenhang liegt vor, wenn die Ansprüche aus einem einheitlichen Rechtsgeschäft oder aus einer Gesetzesvorschrift abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RIS-Justiz RS0037648). Dieser Zusammenhang besteht dann nicht, wenn jeder der mehreren Ansprüche ein verschiedenes rechtliches und tatsächliches Schicksal haben kann; in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfindet (RIS-Justiz RS0037648 [T18]; RS0037899).
+Es entspricht der ständigen Rechtsprechung des Obersten Gerichtshofs, dass Ansprüche aus verschiedenen Verträgen betreffend verschiedene Rechtsgüter auch bei Gleichartigkeit nicht in einem sachlichen oder rechtlichen Zusammenhang stehen (RIS-Justiz RS0037926 [T26], 7 Ob 37/13m mwN), und dass bei der Prüfung der Frage, ob die geltend gemachten Ansprüche in einem tatsächlichen oder rechtlichen Zusammenhang stehen, vom Vorbringen des Klägers auszugehen ist (RIS-Justiz RS0042741; RS0106759).
+Im vorliegenden Fall brachte die Klägerin vor, für die Beklagte am 26. 9. 2014 einen LKW-Transportauftrag von Frankreich nach Norwegen übernommen und ordnungsgemäß und mängelfrei durchgeführt zu haben. Die Frachtkosten habe sie mit Rechnung Nr 131387 vom 9. 10. 2014 über 3.070 EUR fakturiert. Weiters habe sie für die Beklagte am 3. 10. 2014 einen LKW-Transportauftrag von Norwegen nach Rumänien übernommen und ordnungsgemäß und mängelfrei durchgeführt. Die Frachtkosten in Höhe von 2.741 EUR habe sie der Beklagten mit Rechnung Nr 131390 vom 10. 10. 2014 fakturiert.
+Weder behauptet die Klägerin noch liegen Anhaltspunkte für einen rechtlichen oder tatsächlichen Zusammenhang der gesondert erteilten Transportaufträge iSd § 55 Abs 1 Z 1 JN vor.
+Es geht also um Ansprüche, die in keinem tatsächlichen oder rechtlichen Zusammenhang stehen, sodass mehrere Entscheidungsgegenstände vorliegen, die im Hinblick auf die Zulässigkeit der Revision gesondert zu beurteilen sind (vgl RIS-Justiz RS0042741 [T11]).
+Die Revision ist daher gemäß § 502 Abs 2 ZPO absolut unzulässig.
+Die Kostenentscheidung beruht auf den §§ 40, 50 ZPO. Die Klägerin hat auf die absolute Unzulässigkeit der Revision nicht hingewiesen (vgl 7 Ob 125/14d).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00145.16Y.0831.000

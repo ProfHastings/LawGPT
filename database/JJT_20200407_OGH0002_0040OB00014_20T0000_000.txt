@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.04.2020
+Geschäftszahl
+4Ob14/20t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin M***** GmbH, *****, vertreten durch Dr. Michael Battlogg, Rechtsanwalt in Schruns, gegen die Beklagte G***** GmbH, *****, vertreten durch Dr. MMag. Hermann Ludescher, Rechtsanwalt in Vaduz, wegen (eingeschränkt) Räumung, über die außerordentliche Revision der Beklagten gegen das Urteil des Landesgerichts Feldkirch als Berufungsgericht vom 5. November 2019, GZ 3 R 237/19d-22, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte hat von der Klägerin Geschäftsräume in deren Haus gemietet. Sie wurde mit den Mietzinszahlungen säumig. Die Klägerin schloss mit einer Bank einen Einzelzessionsvertrag, mit welchem sie Forderungen aus der Vermietung der Liegenschaft zahlungshalber abtrat.
+Die Klägerin begehrte von der Beklagten zunächst die Zahlung des ausständigen Mietzinses und Räumung des Bestandgegenstands, schränkte aber infolge Zahlung durch die Beklagte ihr Begehren auf Räumung ein.
+Die Beklagte wendete wegen der erfolgten Zession die mangelnde Aktivlegitimation der Klägerin ein.
+Die Vorinstanzen gaben dem Räumungsbegehren statt. Das Berufungsgericht erklärte die ordentliche Revision für nicht zulässig.
+In ihrer außerordentlichen Revision macht die Beklagte geltend, dass die Räumungsklage im Hinblick auf die Zession der Mietzinsforderung an eine Bank unzulässig sei. Im Zeitpunkt der Einbringung der Klage habe keine Zustimmung der Bank zur Klagsführung vorgelegen. Durch die Zession fehle es an einem Mietzinsrückstand zugunsten der Klägerin; dieser fehle es daher an der Aktivlegitimation für die Klage.
+Damit zeigt die Beklagte jedoch keine erhebliche Rechtsfrage auf.
+Rechtliche Beurteilung
+1.1. Die Revision beruft sich auf die Entscheidung 8 Ob 590/89, in der ausgeführt wurde, jede echte Zession habe grundsätzlich zur Folge, dass der Zedent nicht mehr berechtigt ist, den Schuldner im eigenen Namen auf Zahlung zu klagen.
+1.2. Bereits das Berufungsgericht hat jedoch auf die Rechtsprechung verwiesen, dass auch ein Zahlungsverzug gegenüber dem Bestandzinszessionar zur Vertragsaufhebung nach § 1118 ABGB berechtigt (RS0021138).
+2.1. Das Recht, den Bestandvertrag aufzukündigen, vorzeitig aufzulösen oder die Räumung des Objekts von einem unbefugten Benützer zu fordern, ist ein unabdingbarer und nicht abtretbarer Teil der Rechte des Bestandgebers, der aus dem Komplex dieser Rechte nicht herausgenommen und abgesondert übertragen werden kann (RS0010335; 4 Ob 79/08h).
+2.2. Zu 7 Ob 649/84 (MietSlg 36.193) wurde ausdrücklich festgehalten, dass die Zession der Mietzinsforderungen die Legitimation bezüglich der Räumungsklage nicht hindert, weil § 1118 ABGB den Vermieter zur Auflösung des Bestandvertrags schon dann berechtigt, wenn der Mietzins nicht auf die vereinbarte Art bezahlt wurde. Im Falle einer Abtretung der Mietzinsforderung an einen Dritten genügt demnach auch schon ein Zahlungsverzug gegenüber diesem Dritten. Das Recht nach § 1118 ABGB könnte der Dritte nicht ausüben.
+2.3. Im Hinblick auf die zitierte Rechtsprechung hat das Berufungsgericht daher die Aktivlegitimation der Klägerin vertretbar bejaht.
+Auf weitere Fragen, insbesondere auf die Frage des groben Verschuldens am Zahlungsverzug, kommt die Revision nicht zurück.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00014.20T.0407.000

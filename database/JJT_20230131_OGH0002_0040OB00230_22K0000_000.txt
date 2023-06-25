@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.01.2023
+Geschäftszahl
+4Ob230/22k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden, sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch Dr. Johannes Stieldorf, Rechtsanwalt in Wien, gegen die beklagte Partei N* GmbH, *, vertreten durch Dr. Bertram Broesigke, Rechtsanwalt in Wien, wegen 70.000 EUR, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 8. November 2022, GZ 5 R 92/22v-32, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger kaufte im Rahmen eines Bauherrenveranlagungsmodells Anteile an mehreren Liegenschaften mit Fremdfinanzierung. Wegen der hohen Zinsenbelastung entschloss er sich später, seine Anteile an einer der Liegenschaften zu verkaufen, um die anderen Liegenschaften lastenfrei zu stellen. Für den Verkauf erstellte ein Immobilienmakler ein Exposé.
+[2] 		Die Beklagte gab auf Basis dieses Exposés ein verbindliches Kaufanbot für den Anteil des Klägers an einem Wiener Zinshaus über 1,12 Mio EUR ab. Nach Annahme des Anbots durch den Kläger trat die Beklagte mit der Behauptung zurück, ihr Geschäftsführer hätte nicht erkannt, dass sie nur 40 % der Liegenschaft erwerbe. Tatsächlich hatte der Geschäftsführer der Beklagten erkannt, dass er ein Anbot für einen 40%-igen Anteil abgab.
+[3] 		Der Kläger ersuchte die Beklagte mehrfach vergeblich um den angekündigten Kaufvertragsentwurf. Schließlich verkaufte er die Liegenschaft für 790.000 EUR an einen anderen Interessenten. Ein höherer Kaufpreis war nicht mehr erzielbar.
+[4] 		Der Kläger begehrte 70.000 EUR an Mindererlös als Nichterfüllungsschaden (Teileinklagung).
+Die Beklagte wandte ein, sie sei zum Rücktritt berechtigt gewesen, weil ihr Geschäftsführer fälschlich angenommen habe, die Angabe der Nutzfläche im Exposé des Maklers beziehe sich nicht auf die gesamte Liegenschaft, sondern auf den 40%-Anteil.
+[5] 		Das Erstgericht gab der Klage statt. Es ging davon aus, dass die Beklagte keinem Irrtum unterlegen sei, auch nicht zur Nutzfläche. Durch den unberechtigten Rücktritt der Beklagten vom Kaufanbot und den Nichterhalt der vereinbarten Kaufsumme habe der Kläger seinen Kredit nicht schon im Frühjahr 2020 tilgen können, sondern erst nach dem Drittverkauf ein Jahr später. Dadurch seien ihm Kreditkosten in Höhe des Streitwerts entstanden.
+[6] 		Das Berufungsgericht übernahm die Feststellung des Erstgerichts nicht, dass der Geschäftsführer der Beklagten auch zum Thema Nutzfläche keiner Fehlvorstellung unterlegen sei. Diese sei irrelevant, weil der Kläger mit dem klaren Exposé seines Maklers einen allfälligen Irrtum des Geschäftsführers der Beklagten jedenfalls nicht veranlasst habe. Der Beklagten stehe damit kein Rücktrittsrecht zu. Richtig sei, dass der Kläger seinen Schadenersatzanspruch wegen schuldhaften Verzugs nie auf Kreditkosten gestützt habe. Das Klagebegehren sei daher wie begehrt als Mindererlös zuzusprechen.
+Rechtliche Beurteilung
+[7] 		Die außerordentliche Revision der Beklagten zeigt keine erheblichen Rechtsfragen auf und ist daher nicht zulässig.
+[8] 		1. Die Revision rügt als Mangelhaftigkeit des Berufungsverfahrens, dass das Erstgericht dem Kläger von ihm gar nicht begehrte Fremdfinanzierungskosten zugesprochen habe. Dabei übersieht die Beklagte offenbar völlig, dass das Berufungsgericht seinen Zuspruch anders als das Erstgericht begründete – nämlich wie in der Klage geltend gemacht als Mindererlös, der nach den Feststellungen des Erstgerichts in Höhe von 330.000 EUR bestand.
+[9] 		Richtig zeigt die Revision dagegen auf, dass über den restlichen Mindererlös und die Mehrkosten seiner Fremdfinanzierung nicht abgesprochen wurde, sodass der Kläger auch nach Abschluss dieses Verfahrens noch die Möglichkeit hat, diese Beträge einzuklagen (vgl RS0018279). Dies resultiert jedoch nicht aus einem Mangel des Berufungsverfahrens, sondern aus dem Wesen der Teileinklagung (RS0041449).
+[10] 		Zurecht hat das Berufungsgericht auch eine Unschlüssigkeit der Klage verneint. Wenn ein Schaden als einheitlicher Gesamtschaden zu betrachten ist, bedarf die Teileinklagung keiner weiteren Aufschlüsselung (RS0031014 [T36]).
+[11] 		2. Die Beklagte rügt außerdem, dass kein Sachverständigengutachten zum Verkaufserlös eingeholt wurde, den der Kläger beim Deckungsverkauf hätte erzielen können.
+[12] 		Das Berufungsgericht hat in diesem Zusammenhang einen erstinstanzlichen Verfahrensmangel geprüft und verneint. Er kann in der Revision nicht nochmals geltend gemacht werden (RS0042963).
+[13] 		3. Die Revisionsausführungen, wieso dem Berufungsgericht bei der rechtlichen Beurteilung korrekturbedürftige Fehler im Hinblick auf das Vorliegen eines Irrtums bei der Beklagten und eine Schadensminderungspflichtverletzung des Klägers unterlaufen seien, gehen unzulässigerweise nicht vom festgestellten Sachverhalt aus. Die Auffassung des Berufungsgerichts, dem Kläger könne kein Vorwurf gemacht werden, dass er nach einem Jahr erfolglosen – und kostenpflichtigen – Bemühens schließlich seinen Plan, den Anteil zu verkaufen, um die offenen Kredite zurückzuführen, mangels besseren Anbots bei einem Kaufpreis von 790.000 EUR in die Tat umsetzte, ist nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00230.22K.0131.000

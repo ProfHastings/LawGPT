@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.10.1980
+Geschäftszahl
+3Ob106/80
+Norm
+EO §371 Z2;
+EO §375 Abs1;
+Kopf
+SZ 53/126
+Spruch
+Auf Grund eines noch nicht zugestellten Wechselzahlungsauftrages darf die Exekution zur Sicherstellung nicht bewilligt werden. An dieser Rechtslage hat auch die Änderung des § 375 Abs. 1 EO durch das Konsumentenschutzgesetz nichts geändert
+OGH 1. Oktober 1980, 3 Ob 106/80 (OLG Wien 1 R 111/80; LG Eisenstadt 4 Cg 89/80)
+Text
+Das Erstgericht erließ am 9. April 1980 den von der betreibenden Gläubigerin beantragten Wechselzahlungsauftrag und bewilligte am selben Tag zur Sicherstellung der Wechselforderung von 2 216 924.06 S samt Anhang antragsgemäß die Pfändung und Verwahrung der Fahrnisse des Verpflichteten. Der Wechselzahlungsauftrag wurde dem Verpflichteten infolge eines Zustellanstandes erst am 28. April 1980 zugestellt.
+Das Rekursgericht wies den Antrag auf Bewilligung der Exekution zur Sicherstellung mit der Begründung ab, daß ein Wechselzahlungsauftrag vor seiner Zustellung an den Wechselschuldner kein wirksamer Sicherungstitel sei. Daran habe auch die Novellierung des § 371 Z. 2 EO durch das Konsumentenschutzgesetz nichts geändert. Ein Zahlungsauftrag sei erst dann "erlassen" im Sinne des § 1 Z. 2 EO, wenn er dem Beklagten nach den für Klagen geltenden Bestimmungen zugestellt worden sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach herrschender Lehre (Heller - Berger - Stix III, 2640; Pollak, System[2], 50; Walker, Österreichisches Exekutionsrecht[4], 361; Petschek - Hämmerle - Ludwig, Das österreichische Zwangsvollstreckungsrecht, II; Holzhammer, Österreichisches Zwangsvollstreckungsrecht, 52, 282) und ständiger Rechtsprechung (SZ 6/127; GlUNF 6740; JBl. 1913, 590; JBl. 1912, 293) muß der Exekutionstitel, auf Grund dessen die Bewilligung der Sicherstellungsexekution beantragt wird, zugestellt sein, es sei denn, es handelt sich um ein in Gegenwart beider Parteien verkundetes Verzichts-, Anerkenntnis- oder Urteil in Bagatellsachen (§§ 416, 452 ZPO). Das Erfordernis der Zustellung ist zwar in den §§ 370, 371 EO nicht genannt, ergibt sich aber zwingend aus der Bestimmung des § 416 Abs. 1 ZPO, derzufolge ein Urteil den Parteien gegenüber erst mit seiner Zustellung wirksam wird. Es kann daher erst vom Tage der Zustellung an einen Exekutionstitel bilden. Im übrigen ist auch aus den Worten "schon vor Eintritt der Rechtskraft" im § 370 EO zu ersehen, daß die Zustellung des Urteiles dem Exekutionsantrag vorangegangen sein muß, da sonst die Berechnung des Tages, an welchem das Urteil rechtskräftig wird und die Leistungspflicht beginnt, gar nicht stattfinden könnte (SZ 6/127). Beschlüsse, die zufolge der Anordnung des § 426 ZPO schriftlich ausgefertigt und zugestellt werden müssen, werden gleichfalls erst mit der Zustellung der schriftlichen Ausfertigung wirksam (§§ 416 Abs. 1, 426 Abs. 2 ZPO; Fasching III, 831). Es ist daher dem Rekursgericht beizupflichten, daß auf Grund eines noch nicht zugestellten Wechselzahlungsauftrages die Exekution zur Sicherstellung nicht bewilligt werden darf (Jud. 187, GlUNF 3686). Das Erfordernis, dem beim Exekutionsgericht eingebrachten Antrag auf Bewilligung der Exekution zur Sicherstellung eine Amtsbestätigung über die Erhebung von Einwendungen - gegen den Wechselzahlungsauftrag - anzuschließen, ist vom Gesetzgeber bei der Novellierung des § 375 Abs. 1 EO durch das Konsumentenschutzgesetz nur deshalb beseitigt worden, weil nunmehr schon vor Erhebung von Einwendungen gegen den Wechselzahlungsauftrag Exekution zur Sicherstellung zulässig ist. In den Erläuternden Bemerkungen zum Konsumentenschutzgesetz findet sich kein Hinweis dafür, daß der Gesetzgeber von dem Erfordernis der Zustellung des Titels vor Bewilligung der Sicherungsexekution hätte abgehen wollen. Gerade bei der Sicherungsexekution nach § 371 Z. 2 EO würde das eine außerordentliche Härte für den Verpflichteten bedeuten, weil, ohne daß er auch nur von der Klage etwas weiß, schon gegen ihn Exekution zur Sicherstellung geführt werden könnte (vgl. Berger in RZ 1980, 4).

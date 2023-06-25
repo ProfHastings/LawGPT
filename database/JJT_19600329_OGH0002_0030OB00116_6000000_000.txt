@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.1960
+Geschäftszahl
+3Ob116/60
+Norm
+Allgemeine Feuerversicherungsbedingungen Art15 Abs2 lita;
+Kopf
+SZ 33/39
+Spruch
+Auch bei Unmöglichkeit des Wiederaufbaues des versicherten Gebäudes kann nicht mehr als der Ersatz des Verkehrswertes verlangt werden.
+Entscheidung vom 29. März 1960, 3 Ob 116/60.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Kläger war Eigentümer des Wohnhauses und Wirtschaftsgebäudes in V., M.-Gasse 104. Er schloß mit den Beklagten für diesen Besitz Feuerversicherungen ab, wobei auf die Erstbeklagte 63%, auf die Zweitbeklagte 37% der Versicherungssumme entfielen. Am 7. März 1957 brannte das Wirtschaftsgebäude ab. Die Beklagten zahlten einen Betrag als Verkehrswert des Stadels, nicht aber den Zeitwert.
+Der Kläger begehrt den Betrag von 31.390 S s. A. als Unterschied zwischen dem Verkehrs- und dem Zeitwert des Gebäudes und führt aus, es sei ihm von der Gemeinde V. nicht gestattet worden, an Stelle des abgebrannten Stadels einen neuen zu erbauen, so daß er ein anderes Gebäude errichtete. Die Beklagten wendeten ein, sie seien gemäß Art. 15 Abs. 2 lit. a AFB., da das Gebäude nicht innerhalb von drei Jahren wiederaufgebaut wurde, höchstens zum Ersatz des Verkehrswertes verpflichtet.
+Das Erstgericht wies das Klagebegehren ab.
+Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Von einer Obliegenheitsverletzung kann hier nicht die Rede sein. Eine solche besteht, wenn sie nach dem Versicherungsfall erfolgt, in der Verletzung einer gegenüber dem Versicherer eingegangenen Verpflichtung, also in einer Handlung oder Unterlassung, welche auf die Feststellung des Versicherungsfalles oder auf die Feststellung oder den Umfang der dem Versicherer obliegenden Leistung von Einfluß ist (§ 6 Abs. 2 VersVG. 1958). In solchen Fällen ist der Versicherer nur insoweit leistungsfrei, als die Verletzung auf Vorsatz oder grober Fahrlässigkeit des Versicherungsnehmers beruht. Die Unterlassung des Wiederaufbaues hat aber weder mit dem einen noch mit dem anderen etwas zu tun. Der Zweck des Art. 15 Abs. 2 lit. a AFB. ist hievon gänzlich verschieden.
+Man findet eine der erwähnten Bestimmung entsprechende Vorschrift zunächst im Art. 63 Z. 1 des Schweizer VersVG., also in einem Gesetz, von wo sie in den § 76 des früheren österreichischen VersVG. übergegangen ist. Das deutsche und mit ihm übereinstimmend das neue österreichische Gesetz kennen eine solche gesetzliche Vorschrift nicht, vielmehr bestimmt § 88 VersVG. 1958, daß bei Gebäuden der Zeitwert zu ersetzen sei. Diese Gesetzesstelle ist aber nicht zwingend. Es bestehen daher keine Bedenken gegen die Gültigkeit einer Vereinbarung, daß schon die bloß objektive Unterlassung des Wiederaufbaues die Verminderung der Versicherungssumme herbeiführt.
+Wie Jaeger bei Roelli, Kommentar zum Schweizer VersVG., in Anm. 99 zu Art. 63 Z. 1 bemerkt, soll durch diese Bestimmung eine Bereicherung des Versicherungsnehmers vermieden werden, der, wenn er einen den Verkehrswert übersteigenden Bauwert erhielte, ohne daß er das Gebäude wiedererrichtet, besser gestellt wäre, als wenn er es verkaufte. Noch weiter geht Hagen bei Ehrenberg, VIII/2 S. 36, der ausführt, daß auch nach deutschem Recht dies in gewissen Fällen schon ohne eine diesbezügliche Vereinbarung gelten müsse. Es könnte sonst der Versicherungsnehmer im Falle eines Brandes von Ware das Absatzrisiko auf den Versicherer überwälzen.
+Es ist ein Grundsatz des Schadensversicherungsrechtes, daß die Versicherung zu keiner Bereicherung des Versicherungsnehmers führen darf. Sie bringt die Gefahr von unbeweisbaren Brandlegungen zum Zweck eines Versicherungsbetruges mit sich, was für den Versicherer untragbar wäre. Daß im vorliegenden Fall für eine solche Annahme nicht der geringste Anhaltspunkt besteht, ist für die Lösung der Rechtsfrage ohne Bedeutung. Der Versicherungsnehmer, der ein Gebäude nicht wiedererrichtet, darf nicht besser gestellt werden, als wenn er es verkaufte. Die Unmöglichkeit des Wiederaufbaues schafft die gleiche Rechtslage wie in der in VersR. 1957 S. 310 erwähnten Sache, daß nämlich infolge Mangels an gewissen Materialien ein Haus nur aus billigeren Stoffen wiederhergestellt werden kann, in welchem Fall der Versicherer den Zeitwert nur nach den wirklichen Kosten zu vergüten hat.
+Die Errichtung eines Gebäudes, das anderen Zwecken dient als der abgebrannte Stadel, kann nicht als Wiederaufbau im Sinne des Art. 15 Abs. 2 lit. a AFB., entsprechend dem altösterreichischen § 76 VersVG., angesehen werden (SZ. XVI 10).

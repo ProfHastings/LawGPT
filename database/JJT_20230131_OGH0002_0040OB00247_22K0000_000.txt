@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.01.2023
+Geschäftszahl
+4Ob247/22k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek, die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, *, vertreten durch die Kosesnik-Wehrle & Langer Rechtsanwälte KG in Wien, gegen die beklagte Partei P* GmbH, *, Deutschland, vertreten durch die Eisenberger & Herzog Rechtsanwalts GmbH in Wien, wegen Unterlassung und Urteilsveröffentlichung (Streitwert 36.000 EUR) aus Anlass der Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 23. September 2022, GZ 33 R 52/22t-26, mit dem das Urteil des Handelsgerichts Wien vom 9. März 2022, GZ 57 Cg 32/19k-22, geändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über den vom Obersten Gerichtshof am 20. Juli 2022 zu 3 Ob 103/22a gestellten Antrag auf Vorabentscheidung (EuGH C-565/22) unterbrochen. Nach Einlangen der Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt werden.
+Text
+Begründung:
+[1] 		Der Kläger ist ein nach § 29 Abs 1 KSchG klagebefugter Verein. Die Beklagte betreibt eine Online-Partnervermittlung und schließt dabei auch mit Konsumenten mit gewöhnlichem Aufenthalt in Österreich Verbraucherverträge im Fernabsatz.
+[2] 		Der Kläger begehrte, der Beklagten 1. konkret genannte Geschäftspraktiken im Zusammenhang mit einer Vertragsverlängerung mittels Erklärungsfiktion und 2. die Verwendung konkret genannter Klauseln ihrer Allgemeinen Geschäftsbedingungen (AGB) zu untersagen; sowie 3. Urteilsveröffentlichung. Dabei beanstandete der Kläger insbesondere, dass die Beklagte bei der Vertragsverlängerung kein Rücktrittsrecht gemäß § 11 FAGG gewährt, die Verbraucher nicht darüber informiert und auch kein Musterwiderrufsformular zur Verfügung stellt.
+[3] 		Die Beklagte wandte ein, dass sie die Konsumenten vor der automatischen Vertragsverlängerung mit E-Mails aufkläre, sodass weder eine irreführende noch eine aggressive Geschäftspraktik vorliege. Das Rücktrittsrecht des FAGG bestehe bei Vertragsverlängerung nicht, sodass die Beklagte darüber nicht belehren müsse. Ihre AGB seien zulässig.
+[4] 		Das Erstgericht gab der Klage statt.
+[5] 		Das Berufungsgericht änderte diese Entscheidung über Berufung der Beklagten insoweit ab, als es die Passage der AGB zur 12-wöchigen Kündigungsfrist als Klausel mit eigenem Regelungsinhalt und diese wiederum als zulässig beurteilte. Es wies daher den entsprechenden Teil des Unterlassungsbegehrens ab. Im Übrigen bestätigte es das Ersturteil.
+[6] 		Die Revision der Beklagten zielt auf gänzliche Klagsabweisung ab. Sie vertritt weiterhin die Rechtsansicht, dass bei Vertragsverlängerung kein Rücktrittsrecht nach § 11 FAGG zustehe und regt die Unterbrechung des Verfahrens an.
+[7] 		Der Kläger beantragt, die Revision zurück- bzw abzuweisen. Eine Unterbrechung hält er wegen acte clair nicht für geboten.
+Rechtliche Beurteilung
+[8] 		Das Revisionsverfahren ist zu unterbrechen.
+[9] 		Mit Beschluss vom 20. Juli 2022, 3 Ob 103/22a, hat der Oberste Gerichtshof dem Gerichtshof der Europäischen Union (EuGH) folgende Frage zur Vorabentscheidung vorgelegt:
+Ist Art 9 Abs 1 der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates vom 25. 10. 2011 über die Rechte der Verbraucher dahin auszulegen, dass dem Verbraucher bei „automatischer Verlängerung“ (Art 6 Abs 1 lit o der Richtlinie) eines Fernabsatzvertrags neuerlich ein Widerrufsrecht zukommt?
+[10] 		Diesem Vorabentscheidungsersuchen liegt somit ein Sachverhalt zugrunde, der in diesem Aspekt mit dem hier zu entscheidenden vergleichbar ist. Nach ständiger Rechtsprechung hat der Oberste Gerichtshof von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere Fälle als dem unmittelbaren Anlassfall anzuwenden. Aus prozessökonomischen Gründen ist daher das vorliegende Verfahren zu unterbrechen (RS0110583).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00247.22K.0131.000

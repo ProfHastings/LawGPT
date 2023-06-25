@@ -1,0 +1,59 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+07.07.2015
+Geschäftszahl
+Bsw40896/05
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer II, Beschwerdesache Gürtas Yapi Ticaret Ve Pazarlama A.S. gg. die Türkei, Urteil vom 7.7.2015, Bsw. 40896/05.
+Spruch
+Art. 1 1. Prot. EMRK, Art. 6 Abs. 1 EMRK - Schaden aufgrund fehlerhafter Grundbuchsangabe.
+Zulässigkeit der Beschwerde hinsichtlich Art. 1 1. Prot. EMRK (einstimmig).
+Unzulässigkeit der Beschwerde hinsichtlich Art. 6 Abs. 1 EMRK (einstimmig).
+Verletzung von Art. 1 1. Prot. EMRK (5:2 Stimmen).
+Entschädigung nach Art. 41 EMRK: € 60.700,– für materiellen Schaden, € 3.220,– für Kosten und Auslagen (5:2 Stimmen).
+Text
+Begründung:
+Sachverhalt:
+Bei der Bf. handelt es sich um eine Immobiliengesellschaft. Zu einem unbestimmten Datum kaufte sie ein Grundstück, dessen Fläche laut dem Hauptbuch des Grundbuchs 485.151 m2 betrug.
+Am 25.11.1998 wurde die Bf. von der lokalen Grundbuchbehörde informiert, dass bei der Übertragung von Daten in das Grundbuch ein Fehler erfolgt sei und die tatsächliche Fläche des von der Bf. gekauften Grundstücks nur 201.951 m2 betrage. Die Angaben im Grundbuch seien daher entsprechend angepasst worden.
+Die Bf. brachte am 29.11.1999 vor dem Landgericht Aliaga zum einen eine Klage auf Haftung des Staates für den aus der Führung des Grundbuchs entstandenen Schaden auf Basis des damals in Kraft stehenden Art. 917 Zivilgesetzbuch (ZGB) (Anm: Danach war der Staat für jeden aus der Führung des Grundbuchs entstandenen Schaden verantwortlich. Art. 1007 ZGB neu übernahm diese Bestimmung.) und zum anderen eine Gewährleistungsklage gegen die Verkäufer ein. Das Landgericht wies die Klage gegen die Verkäufer am 25.6.2001 ab, da ein Verkäufer gemäß Art. 215 des Obligationenrechts vom Käufer nicht für Gewährleistung herangezogen werden könne, sollte er sich nicht ausdrücklich dazu verpflichtet haben, die Beschaffenheit des Grundstücks zu garantieren und den Käufer zu entschädigen. Der Kaufvertrag enthalte aber keine solche Klausel. Das Gericht verurteilte allerdings den Staat wegen der fehlerhaften Führung des Grundbuchs zur Zahlung von umgerechnet circa € 45.000,– Schadenersatz an die Bf.
+Nachdem der Staat gegen dieses Urteil berufen hatte, hob das Kassationsgericht selbiges am 19.3.2002 auf. Es begründete dies damit, dass der dem Grundbuch beigeschlossene Plan keinen Fehler aufweisen würde und der Fehler im Hauptbuch derart sei, dass er nicht unbemerkt bleiben habe können.
+Das Landgericht folgte dem in seinem Urteil vom 25.9.2003 und wies die Klage der Bf. zurück. Das von der Bf. dagegen erhobene Rechtsmittel wurde vom Kassationsgericht am 5.5.2005 zurückgewiesen.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Die Bf. behauptet eine Verletzung von Art. 1 1. Prot. EMRK (Recht auf Achtung des Eigentums).
+Zur behaupteten Verletzung von Art. 1 1. Prot. EMRK
+(39) [...] Dieser Teil der Beschwerde ist nicht offensichtlich unbegründet [...] und auch aus keinem anderen Grund unzulässig und daher für zulässig zu erklären (einstimmig).
+(45) Der GH beobachtet, dass die Bf. ein Grundstück erworben hat, von dem sie im Vertrauen auf die Angaben im Hauptbuchblatt des Grundbuchs dachte, dass es eine Fläche von 485.151 m2 besaß. Die tatsächliche Fläche betrug jedoch nur 201.951 m2. Diese Fläche ergab sich aus dem Plan, der integraler Bestandteil des Registers war. Der Widerspruch zwischen den unterschiedlichen Teilen des Registers (Blatt und Plan) war das Ergebnis eines Übertragungsfehlers der Angaben des Katasterplans in das Blatt. Die Parteien stimmen diesbezüglich überein.
+(46) Der GH stellt fest, dass nicht bestritten wird, dass die Bf. einen Schaden erlitt: sie bezahlte einen Preis, der jenem für ein Grundstück mit 485.151 m2 entsprach, während sie tatsächlich nur über ein Grundstück von 201.951 m2 verfügte.
+(47) Die Rüge der Bf. bezieht sich exakt auf diesen vermögenswerten Verlust zugunsten der Verkäufer, für den sie eine Entschädigung verlangt hat, einerseits von Letzteren auf Basis der Regelungen über die Gewährleistung und andererseits vom Staat unter Stützung auf Art. 1007 ZGB neu.
+(49) Gegenständlich befindet der GH, dass die Rüge der Bf. unter der allgemeinen Bestimmung des Abs. 1 Satz 1 [von Art. 1 1. Prot. EMRK] geprüft werden muss.
+(50) Er bestätigt sodann, dass Art. 1 1. Prot. EMRK [...] auch bestimmte positive Verpflichtungen umfasst.
+(52) Im vorliegenden Fall hält der GH fest, dass das türkische Recht der Bf. theoretisch zwei Rechtsbehelfe bot: eine Gewährleistungsklage gegen die Verkäufer und eine Klage gegen den Staat auf Grundlage der Verantwortlichkeit desselben im Hinblick auf die Führung des Grundbuchs nach Art. 1007 ZGB neu.
+(53) Zur Gewährleistungsklage beobachtet der GH, dass diese mit Art. 215 Obligationenrecht in Widerspruch steht, der dem Käufer sein Garantierecht gegenüber dem Verkäufer nimmt, wenn das verkaufte Gut nicht die im Grundbuch gemäß einer offiziellen Messung angezeigte Beschaffenheit hat, außer Letzterer hätte sich dazu ausdrücklich verpflichtet.
+(54) Diese Bestimmung ist für sich nicht problematisch, berücksichtigt man den Umstand, dass der Ausschluss der Verantwortlichkeit des Verkäufers nicht absolut ist. In der Tat behält einerseits das Obligationenrecht die Möglichkeit vor, eine spezielle Klausel in den Kaufvertrag aufzunehmen, um den Verkäufer auf Gewährleistung zu verklagen, und andererseits ist der Ausschluss auf den Fall beschränkt, wo wie in jenem des Bf. die im Register angegebene Fläche auf einer offiziellen Messung beruht.
+(55) Eine gemeinsame Lektüre der Art. 205 Obligationenrecht und Art. 1007 ZGB neu bringt zutage, dass dieser Garantieausschluss im Fall einer offiziellen Messung, die ins Register übertragen wurde, auf der Idee beruht, dass der Käufer sich gutgläubig auf die Flächenangaben im Grundbuch verlassen kann, das in der Verantwortung des Staates liegt.
+(56) Was exakt diesen Punkt anbelangt, der im Übrigen den Hauptteil der von der Bf. angestrengten Verfahren betrifft, beobachtet der GH, dass Art. 1007 ZGB neu eine Verantwortlichkeit des Staates für die von den mit der Führung des Grundbuchs betrauten Beamten vorsieht.
+(57) Er befindet, dass eine solche Bestimmung grundsätzlich den positiven Verpflichtungen entspricht, welche die Konvention dem Staat auferlegt, um das Eigentumsrecht zu schützen und die Wirkung der Einschränkung der Gewährleistungsklage gegen die Verkäufer auszugleichen.
+(58) Er beobachtet dennoch, dass die von der Bf. eingebrachte Klage auf Haftung des Staates im vorliegenden Fall von den nationalen Gerichten zurückgewiesen wurde. Diese befanden, dass eine Konsultierung der Bestandteile des Grundbuchs, insbesondere des Plans, der die genauen Grenzen des Grundstücks angab und keinen Fehler aufwies, es der Bf. erlaubt hätte, die exakte Fläche der Sache zu bestimmen und sich bewusst zu werden, dass die im Blatt erwähnte falsch war.
+(59) Der GH akzeptiert, dass von einem Käufer eine gewisse Sorgfalt erwartet werden kann, vor allem wenn es sich bei ihm um eine Immobiliengesellschaft handelt, für welche Immobilientransaktionen Teil ihrer beruflichen Aktivitäten sind. Dennoch betont er, dass im vorliegenden Fall nach den von der Regierung nicht bestrittenen Behauptungen der Bf. das fragliche Grundstück Teil eines größeren Ganzen war, mit dem es eine natürliche Fortsetzung bildete, und keine physische Abgrenzung existierte, die es erlaubt hätte, das strittige Teilgrundstück von den benachbarten zu unterscheiden. Unter diesen Umständen ist der GH der Ansicht, dass der Ansatz der nationalen Gerichte, der darin bestand, dem Käufer aufzuerlegen, den Angaben des Hauptbuchs nicht völlig zu vertrauen und den Plan zu konsultieren, um mögliche Widersprüche festzustellen, der Bf. eine exzessive Last auferlegte, indem sie damit die Folgen eines von der Verwaltung begangenen Fehlers tragen musste, die vom Landgericht auf etwa € 45.000,– geschätzt wurden.
+(60) Er beobachtet, dass der verfolgte Ansatz umso erstaunlicher ist, als das Kassationsgericht in einem anderen Fall 1994 befunden hatte, dass man von einem Käufer nicht erwarten könne, dass er alle Dokumente des Registers konsultiere [...], sondern vielmehr auf die Angaben im Hauptbuch vertrauen könne. Das Höchstgericht hatte zudem präzisiert, dass auch Fahrlässigkeit des Betroffenen es nicht rechtfertigen könne, dass ihm die gesamte Entschädigung entzogen wurde, sondern dass dies allenfalls eine Reduktion des Entschädigungsbetrags rechtfertigen würde.
+(61) Im Ergebnis befindet der GH, dass die türkische Rechtsordnung der Bf. keinen ausreichenden Schutz ihres Eigentumsrechts bot und der erforderliche gerechte Ausgleich zwischen den Rechten der Bf. und dem Allgemeininteresse gestört wurde.
+(62) Daher erfolgte eine Verletzung von Art. 1 1. Prot. EMRK (5:2 Stimmen; gemeinsames abweichendes Sondervotum der Richter Raimondi und Spano).
+Zur behaupteten Verletzung von Art. 6 Abs. 1 EMRK
+(63) Die Bf. behauptet, dass der vom Kassationsgericht in ihrem Fall gezogene Schluss sich von jenem in früheren Fällen unterscheidet.
+(64) Zudem [...] könne es [...] nicht als unabhängiges Gericht im Sinne der Konvention betrachtet werden.
+(66) In Anbetracht der Feststellungen unter Art. 1 1. Prot. EMRK befindet der GH, dass es nicht angebracht ist, die Rüge im Hinblick auf vom Kassationsgericht im von der Bf. zitierten Fall eingenommene Position zu untersuchen (einstimmig).
+(67) Was die zweite Rüge im Hinblick auf das Recht auf ein faires Verfahren anbelangt, kann der GH [...] keinen Anschein einer Verletzung der Konvention erkennen.
+(68) Diese Rüge ist daher [...] unzulässig (einstimmig).
+Entschädigung nach Art. 41 EMRK
+€ 60.700,– für materiellen Schaden; € 3.220,– für Kosten und Auslagen (5:2 Stimmen; gemeinsames abweichendes Sondervotum der Richter Raimondi und Spano). Die Feststellung einer Verletzung bietet darüber hinaus eine ausreichende gerechte Entschädigung für den von der Bf. erlittenen immateriellen Schaden (5:2 Stimmen; gemeinsames abweichendes Sondervotum der Richter Raimondi und Spano).
+Vom GH zitierte Judikatur:
+Broniowski/PL v. 22.6.2004 (GK) = NL 2004, 135 = EuGRZ 2004, 472 = ÖJZ 2006, 130
+Kotov/RUS v. 3.4.2012 (GK) = NL 2012, 110
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 7.7.2015, Bsw. 40896/05, entstammt der Zeitschrift "Newsletter Menschenrechte" (NL 2015, 360) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im französischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/15_4/Gürtas Yapi Ticaret Ve Pazarlama A.S.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

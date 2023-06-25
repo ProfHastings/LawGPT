@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.02.2023
+Geschäftszahl
+7Ob18/23g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei P* GmbH, *, vertreten durch Mag. Karl Komann, Rechtsanwalt in Villach, gegen die beklagte Partei T* GesmbH, *, vertreten durch Ehrlich-Rogner & Schlögl Rechtsanwalts-Partnerschaft in Wien, wegen 161.355,90 EUR sA, infolge der (außerordentlichen) Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. November 2022, GZ 1 R 39/22w-80, mit dem das Urteil des Handelsgerichts Wien vom 27. Dezember 2021, GZ 48 Cg 44/20k-70, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+In Ansehung der Klagsforderung von 16.303,10 EUR sA wird der Akt dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Die Klägerin begehrt von der Beklagten die Zahlung von 161.355,90 EUR sA und zwar: 72.000 EUR an Stornogebühr und 73.052,80 EUR an Verspätungsgebühr aus von der Beklagten bei der Klägerin beauftragten Luftfracht-Charterverträgen von Shanghai nach Wien sowie 16.303,10 EUR an Schadenersatz aus einem von der Klägerin bei der Beklagten beauftragten Seefracht-Chartervertrag von Hamburg nach Korea.
+[2] 		Das Erstgericht erkannte die Klagsforderung als zu Recht und eine von der Beklagten eingewandte Gegenforderung als nicht zu Recht bestehend und verpflichtete die Beklagte zur Zahlung von 161.355,90 EUR sA.
+[3] 		Das Berufungsgericht gab der Berufung der Beklagten nicht Folge und ließ die ordentliche Revision nicht zu.
+Rechtliche Beurteilung
+[4] 		Die Beklagten erhoben dagegen eine (außerordentliche) Revision, die dem Obersten Gerichtshof vom Erstgericht vorgelegt wurde. Die Aktenvorlage an den Obersten Gerichtshof entspricht nicht der Rechtslage:
+[5] 		1.1 Werden in einer Klage mehrere Forderungen geltend gemacht, so bilden sie nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen der Zusammenrechnung nach § 55 Abs 1 JN erfüllt sind. Diese Regelung gilt auch für Rechtsmittelverfahren (§ 55 Abs 4 JN) und damit für den Entscheidungsgegenstand (RS0053096).
+[6] 		Eine Zusammenrechnung hat nach § 55 Abs 1 Z 1 JN zu erfolgen, wenn mehrere Ansprüche von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und die Ansprüche in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Fehlt es an einem tatsächlichen oder rechtlichen Zusammenhang, so muss als Entscheidungsgegenstand jeder dieser Ansprüche einzeln betrachtet werden (RS0042753; RS0053096).
+[7] 		Ein tatsächlicher Zusammenhang liegt vor, wenn die Ansprüche aus demselben Klagssachverhalt abgeleitet werden können (RS0042766). Ein rechtlicher Zusammenhang liegt etwa dann vor, wenn die Ansprüche aus derselben Rechtsnorm oder demselben Vertrag abgeleitet werden, zum Beispiel aus einem einheitlichen Liefervertrag (RS0037648). Dies gilt jedoch dann nicht, wenn jeder der mehreren Ansprüche ein ganz verschiedenes rechtliches oder tatsächliches Schicksal haben kann (RS0037648 [T11, T18, T20]).
+[8] 		Kein Zusammenhang nach § 55 Abs 1 Z 1 JN liegt vor bei Forderungen aus verschiedenen, wenn auch gleichartigen Verträgen (RS0037648 [T15]; RS0037926 [T3, T7, T23, T26, T28]), oder bloß aufgrund ständiger Geschäftsverbindung (RS0037926 [T14, T19, T22]), und zwar auch dann nicht, wenn im Rahmen der Geschäftsverbindung für alle Rechtsgeschäfte (kraft jeweiliger Unterwerfung) die Allgemeinen Geschäftsbedingungen einer Partei gelten (RS0037926 [T11]). Bei der Beurteilung ist vom Klagebegehren auszugehen (RS0106759).
+[9] 		1.2 Im vorliegenden Fall liegen keine Umstände vor, aus denen ein Zusammenhang der Forderung aus dem von der Klägerin bei der Beklagten beauftragten Seefracht-Chartervertrag mit jenen aus den von der Beklagten bei der Klägerin beauftragten Luftfracht-Charterverträgen ableitbar wäre. Soweit hier interessierend ist daher der Entscheidungsgegenstand des aus dem Seefracht-Chartervertrag geltend gemachten Anspruchs einzeln zu betrachten.
+[10] 		2.1 Hat das Berufungsgericht – wie hier – ausgesprochen, dass die ordentliche Revision mangels Vorliegens einer erheblichen Rechtsfrage nicht zulässig ist, so kann gemäß § 505 Abs 4 ZPO eine Revision (die hier nicht vorliegenden Fälle des § 502 Abs 5 ZPO ausgenommen) nur erhoben werden, wenn der Wert des Entscheidungsgegenstands 30.000 EUR übersteigt (außerordentliche Revision). Übersteigt der Entscheidungsgegenstand in zweiter Instanz zwar 5.000 EUR, nicht aber insgesamt 30.000 EUR und hat das Berufungsgericht ausgesprochen, die ordentliche Revision sei mangels Vorliegens einer erheblichen Rechtsfrage nicht zulässig, so kann eine Partei gemäß § 508 Abs 1 ZPO (nur) einen Antrag an das Berufungsgericht stellen, seinen Ausspruch über die Zulässigkeit der Revision dahin abzuändern, dass die ordentliche Revision doch für zulässig erklärt werde.
+[11] 		2.2 In Ansehung der Klagsforderung von 16.303,10 EUR übersteigt der maßgebliche Wert des Entscheidungsgegenstands 5.000 EUR, nicht aber 30.000 EUR. Das Erstgericht hat daher das Rechtsmittel hinsichtlich dieser Klagsforderung dem Berufungsgericht vorzulegen, weil derartige Rechtsmittel als Anträge im Sinn des § 508 Abs 1 ZPO zu werten sind (RS0109623).
+[12] 		3. Der Akt ist daher dem Erstgericht zurückzustellen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00018.23G.0221.000

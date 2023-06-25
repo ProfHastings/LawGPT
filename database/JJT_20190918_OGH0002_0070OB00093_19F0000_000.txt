@@ -1,0 +1,50 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.09.2019
+Geschäftszahl
+7Ob93/19f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Ing. M***** K*****, vertreten durch Dr. Norbert Bergmüller, Rechtsanwalt in Schladming, gegen die beklagte Partei A*****-Aktiengesellschaft, *****, vertreten durch Dr. Nikolaus Friedl, Rechtsanwalt in Wien, wegen 37.554 EUR sA, über die Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. März 2019, GZ 4 R 154/18y-53, womit das Urteil des Handelsgerichts Wien vom 20. August 2018, GZ 54 Cg 40/16k-38, teils bestätigt und teils aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+I. Die als Rekurs zu behandelnde „ordentliche Revision“ gegen den Aufhebungsbeschluss des Berufungsgerichts wird zurückgewiesen.
+Die klagende Partei hat die darauf entfallenden Kosten ihrer „ordentlichen Revision“ und die beklagte Partei hat die darauf entfallenden Kosten ihrer „Revisionsbeantwortung“ jeweils selbst zu tragen.
+II. Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.632,38 EUR (darin 272,06 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+I. Nach § 519 Abs 1 Z 2 ZPO ist gegen berufungsgerichtliche Beschlüsse, soweit dadurch das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wird, der Rekurs an den Obersten Gerichtshof nur zulässig, wenn das Berufungsgericht dies ausgesprochen hat. Durch diese Formulierung wird eindeutig zum Ausdruck gebracht, dass die Zulässigkeit des Rekurses gegen den berufungsgerichtlichen Aufhebungsbeschluss an einen ausdrücklichen Zulassungsausspruch des Gerichts zweiter Instanz gebunden ist (
+RS0043880). Fehlt – wie hier – ein solcher Ausspruch, ist auch ein Rekurs (oder wie hier eine „Revision“) ausgeschlossen (vgl RS0043898; 1 Ob 228/17m). Das als „Revision“ ausgeführte, als Rekurs gegen den aufhebenden Beschluss des Berufungsgerichts aufzufassende Rechtsmittel ist insoweit absolut unzulässig.
+Die Kostenentscheidung zur Zurückweisung dieses Teils der Revision des Klägers beruht auf §§ 40 und 50 ZPO. Die Beklagte hat in ihrer (richtig insoweit) Rekursbeantwortung nicht auf diese absolute Unzulässigkeit des Rekurses hingewiesen (3 Ob 2/19v; vgl 4 Ob 196/18d).
+II. Im Übrigen hängt die Entscheidung – entgegen dem den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) Ausspruch des Berufungsgerichts – nicht von der Lösung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ab. Die Entscheidung kann sich auf die Anführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO). Dem Versicherungsvertrag liegen unter anderem die Allgemeinen Bedingungen für die Haushaltsversicherung (ABH 2007) der Beklagten zugrunde, die auszugsweise wie folgt lauten:
+„Artikel 2
+Versicherte Gefahren und Schäden
+1. Versicherte Gefahren:
+[…]
+1.4 Einbruchdiebstahl (versucht oder vollbracht), einfacher Diebstahl, Beraubung und Vandalismus
+1.4.1 Versuchter oder vollbrachter Einbruchdiebstahl
+1.4.1.1 Einbruchdiebstahl liegt vor, wenn ein Täter in die Versicherungsräumlichkeiten
+- durch Eindrücken oder Aufbrechen von Türen, Fenstern oder anderen Gebäudeteilen einbricht. […]
+1.4.1.2 Einbruchdiebstahl in ein versperrtes Behältnis liegt vor, wenn ein Täter gemäß Punkt 1.4.1.1 einbricht und […]
+- ein Behältnis mit richtigen Schlüsseln öffnet, die er durch Einbruchdiebstahl in andere Räumlichkeiten als die Versicherungsräumlichkeiten oder durch Schlüsselraub an sich gebracht hat
+[...]“
+Rechtliche Beurteilung
+1.1. Nach § 61 VersVG ist der Versicherer von der Verpflichtung zur Leistung frei, wenn der Versicherungsnehmer den Versicherungsfall vorsätzlich oder durch grobe Fahrlässigkeit herbeiführt. Dabei handelt es sich um einen (verhaltensabhängigen) Risikoausschluss (RS0080128 [insb T2]). Wird der Risikoausschluss des § 61 VersVG behauptet, so muss der Versicherer auch die grobe Fahrlässigkeit des Versicherungsnehmers an der Herbeiführung des Versicherungsfalls beweisen (
+RS0080378).
+1.2. Im Versicherungsvertragsrecht ist grobe Fahrlässigkeit dann gegeben, wenn schon einfachste, naheliegende Überlegungen nicht angestellt und Maßnahmen nicht ergriffen werden, die jedermann einleuchten müssen (RS0030331; RS0080371); es muss die Schadenswahrscheinlichkeit offenkundig so groß sein, dass es ohne weiteres nahe lag, zur Vermeidung des Versicherungsfalls ein anderes Verhalten als das tatsächlich geübte in Betracht zu ziehen (
+RS0030318). Bei der Beurteilung müssen die Umstände des einzelnen Falles und die persönlichen Verhältnisse berücksichtigt werden. Bei der Zumutbarkeit von Maßnahmen ist auf jenen Personenkreis abzustellen, dem der Versicherungsnehmer angehört (
+RS0080387).
+1.3. Ob eine Fehlhandlung wegen ihres besonderen Gewichts oder einzelne, für sich genommen nicht grob fahrlässige Handlungen in ihrer Gesamtheit und Häufung die Annahme grober Fahrlässigkeit rechtfertigen, ist bei Vertretbarkeit der von den Umständen des Einzelfalls abhängigen Beurteilung grundsätzlich keine Rechtsfrage iSd § 502 Abs 1 ZPO (RS0044262 [T46, T48 bis T50]). Die Revision ist nur dann zulässig, wenn der Sachverhalt auch bei weitester Auslegung den von der Judikatur für die Annahme oder die Verneinung grober Fahrlässigkeit aufgestellten Kriterien nicht entspricht (RS0087606 [T22]). Ein solcher Fall liegt hier nicht vor.
+2.1. Über die Anordnung in Art 5.2.3 ABH 2007 hinaus, wonach bei Verlassen der Versicherungsräumlichkeiten auch für noch so kurze Zeit Behältnisse (Geldschränke) für Geld, Schmuck und dergleichen ordnungsgemäß zu versperren sind, enthält das Bedingungswerk keine konkreten Bestimmungen über die Verwahrung der Schlüssel zu einem versperrten Geldschrank iSd Art 10.1.2 ABH 2007.
+2.2. Der Wertschutzschrank, aus dem die den Gegenstand des Revisionsverfahrens bildenden Münzen gestohlen wurden, war im Büro des Kläger aufgestellt. Der Schlüssel zum Wertschutzschrank wurde in einem versperrten, aber leicht aufzubrechenden Rollcontainer aufbewahrt, der sich in unmittelbarer Nähe im selben Raum befand.
+Soweit die Revision behauptet, der Rollcontainer habe sich in einem anderen Raum befunden, geht sie nicht vom festgestellten Sachverhalt aus. Sie zeigt im Übrigen nicht auf, warum es in dieser Konstellation nicht leicht voraussehbar und naheliegend wäre, dass ein Einbrecher in einem so sichtbar in der Nähe eines Wertschutzschranks aufgestellten, wenn auch versperrten Büromöbel als einem der ersten Orte Schlüssel vermutet und einen dort aufgefundenen Schlüssel, mag er auch nicht gekennzeichnet gewesen sein, am nächstgelegenen Safe ausprobiert. Die Einschätzung schon des Erstgerichts, dass der Verwahrungsort der Schlüssel damit offenkundig untauglich und die Schadenwahrscheinlichkeit dadurch hoch war, hält sich im Rahmen der Rechtsprechung.
+2.3. Auf Sachverhaltsebene ist unstrittig, dass eine Kellertüre aufgebrochen und auf diesem Weg in das Haus des Klägers eingedrungen wurde, und dass daraus versicherte (teils Wert-)Sachen iSd Art 1.1 ABH 2007 gestohlen wurden. Es liegt damit ein Einbruchsdiebstahl im Sinn der klaren Bedingung des Art 2.1.4.1.1 ABH 2007 vor.
+Ein Anwendungsfall des Art 2.1.4.1.2 (der zur Voraussetzung hat, dass ein Einbruch nach Art 2.1.4.1.1 ABH 2007 gegeben ist), lässt sich schon aus dem Wortlaut der Bedingung und den Feststellungen nicht ableiten, weil der Wertschutzschrank mit dem richtigen Schlüssel geöffnet und dieser Schlüssel nicht durch Einbruchdiebstahl in andere Räumlichkeiten als die Versicherungsräumlichkeiten erlangt wurde; ein Rollcontainer ist nach dem klaren Wortlaut der Versicherungsbedingungen keine andere Räumlichkeit als die Versicherungsräumlichkeit. Die Entscheidungen 7 Ob 218/97b und 7 Ob 40/94 sind schon mangels vergleichbarer Bedingungslage nicht einschlägig.
+Wie sich aus den Feststellungen ein Schlüsselraub ergeben könnte, wie erstmals in der Revision behauptet wird, ist nicht nachvollziehbar.
+2.4. Da bereits die Leistungsfreiheit der Beklagten in Ansehung der Gegenstand der Revision bildenden Münzen aufgrund grob fahrlässiger Herbeiführung des Versicherungsfalls vertretbar bejaht wurde, kann die fehlende Feuersicherheit des Wertschutzschranks auf sich beruhen.
+3. Zusammengefasst hat es im Ergebnis bei der Abweisung des Teilbegehrens in Ansehung der Münzen von 25.154 EUR zu bleiben, weil dem Kläger unstrittig bereits 15.000 EUR nach Art 10.1.1.3 ABH 2007 ausgezahlt wurden. Auf die Abweisung von weiteren 100 EUR in Ansehung des Laptops kommt die Revision nicht mehr zurück; darauf war daher nicht einzugehen (RS0043338 [T13, T15]).
+4. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO; die Beklagte hat in der Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen, sie diente daher insofern der zweckentsprechenden Rechtsverteidigung. Der als zweckmäßig zu honorierende Anteil der Revisionsbeantwortung am Rechtsmittelschriftsatz der Beklagten (siehe oben Pkt I) ist nach dem Rechtsmittelinteresse zu gewichten und beträgt rund vier Fünftel (25.254/32.056). Die Beklagte hat daher nur vier Fünftel der verzeichneten Kosten ihrer Revisionsbeantwortung ersetzt zu erhalten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00093.19F.0918.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.03.1970
+Geschäftszahl
+2Ob67/70
+Norm
+Kraftfahrgesetz §62;
+Kraftfahrgesetz §63 Abs1;
+Kopf
+SZ 43/64
+Spruch
+§ 63 Abs 1 KFG 1967 räumt dem Geschädigten die Klage gegen den Haftpflichtversicherer des Schädigers ein, gleichgültig, ob dieser im Inland oder im Ausland seinen Sitz hat
+OGH 19. März 1970, 2 Ob 67/70 (OLG Graz 1 R 155/69; LGZ Graz 18 Cg 276/68)
+Text
+Am 21. Juni 1968 wurde der Kläger bei einem Verkehrsunfall, an dem die amerikanische Staatsbürgerin Helen H als Lenkerin eines PKWs mit westdeutschem Kennzeichen beteiligt war, verletzt und sein PKW beschädigt. Der von Helen H gelenkte PKW war bei der Beklagten haftpflichtversichert.
+Der Kläger begehrt Schadenersatz im Betrage von 16.072.52 S s A. Die beklagte Versicherungs-AG wendete mangelnde passive Klagslegitimation ein, bestritt das Alleinverschulden ihrer Versicherungsnehmerin und wendete hilfsweise Gegenforderungen bis zur Höhe der Klagsforderung zur Aufrechnung ein.
+Das Erstgericht wies ohne Beweisaufnahme das Klagebegehren ab, weil nach § 63 Abs 1 KFG 1967 nur ein inländischer Haftpflichtversicherer unmittelbar belangt werden könne.
+Das Berufungsgericht hob das Ersturteil auf und verwies die Rechtssache unter Rechtskraftvorbehalt zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurück. Es war der Ansicht, daß eine Beschränkung des Direktanspruches des Geschädigten auf inländische Versicherer dem Gesetz nicht entnommen werden könne.
+Der Oberste Gerichtshof gab dem Rekurse der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Rekurswerberin führt aus, als "Versicherer" i S des § 63 KFG 1967 könne nur ein im § 62 des Gesetzes genannter österreichischer Versicherer gemeint sein. Es könne nicht die Absicht des Gesetzgebers gewesen sein, eine ausländische Versicherung in die Direkthaftung einzubeziehen, da nur geregelt werden sollte, daß und wie im § 62 KFG 1967 genannte Rechtssubjekte haften.
+Dieser Ansicht kann nicht gefolgt werden. Die Verwendung von Kraftfahrzeugen mit ausländischem Kennzeichen ist im Inland dann zulässig, wenn u a die Bestimmungen des § 62 KFG 1967 eingehalten werden (§ 79 KFG 1967). Im VI. Abschnitt des Kraftfahrzeuggesetzes 1967 wird sowohl die Haftpflichtversicherung für Kraftfahrzeuge mit inländischem (§ 59) als auch mit ausländischem Kennzeichen (§ 62) geregelt. Obwohl §§ 59, 62 leg cit ausdrücklich von in Österreich zugelassenen Versicherern sprechen, gibt dann § 63 Abs 1 KFG 1967 ganz allgemein dem geschädigten Dritten die Möglichkeit, einen Schadenersatzanspruch auch gegen den Versicherer geltend zu machen. Hiemit wird also dem Geschädigten neben der weiterhin bestehen bleibenden Möglichkeit, den Schädiger zu klagen, auch die Klage gegen dessen Haftpflichtversicherer eingeräumt, gleichgültig, ob dieser im Inland oder im Ausland seinen Sitz hat. Daß nach § 62 KFG 1967 für Kraftfahrzeuge mit ausländischem Kennzeichen die Haftung eines inländischen Haftpflichtversicherers oder eines Verbandes solcher Versicherer vorliegen muß, schaltet die Haftung des ausländischen Versicherers nicht aus, sondern soll dem geschädigten Dritten die Rechtsverfolgung erleichtern, ihm also die Gewähr für einen zahlungsfähigen inländischen Haftpflichtversicherer geben und eine allfällige Exekutionsführung im Ausland ersparen. Keinesfalls tritt aber der inländische Versicherer bzw Verband an die Stelle eines vorhandenen ausländischen Haftpflichtversicherers, der ebenfalls im Inland direkt geklagt werden kann. Der Geschädigte soll in keinem Falle genötigt sein, zunächst lediglich den Schädiger zu klagen, um dann dessen Ansprüche gegen seinen Haftpflichtversicherer in Exekution zu ziehen. Die Bedeutung dieser Regelung zeigt sich besonders dann, wenn der ausländische Haftpflichtversicherer in einem weiteren Umfang haftet als dies § 62 KFG 1967 vorsieht, oder wenn ein ausländisches Kraftfahrzeug vorschriftswidrig ohne einen Nachweis gemäß § 62 Abs leg cit nach Österreich gelangt ist, aber im Ausland haftpflichtversichert ist.

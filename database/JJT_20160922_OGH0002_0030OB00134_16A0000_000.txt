@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.09.2016
+Geschäftszahl
+3Ob134/16a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Parteien 1. M***** GmbH, 2. S***** GmbH, *****, beide vertreten durch Dr. Peter Zöchbauer, Rechtsanwalt in Wien, gegen die verpflichtete Partei T***** GmbH & Co KG, *****, vertreten durch Ruggenthaler, Rest & Borsky Rechtsanwälte OG in Wien, wegen Unterlassung, über den Revisionsrekurs der betreibenden Parteien gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 4. Mai 2016, GZ 47 R 84/16z, 85/16x, 86/16v-22, womit die Beschlüsse des Bezirksgerichts Döbling vom 5. Jänner 2016, GZ 24 E 7430/15x-8, -9 und -10, abgeändert wurden, den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird nicht Folge gegeben.
+Die betreibende Partei hat die Kosten ihres Revisonsrekurses selbst zu tragen.
+Text
+Begründung:
+Die Verpflichtete hat es aufgrund einer einstweiligen Verfügung des Handelsgerichts Wien zu Zwecken des Wettbewerbs zu unterlassen, eine näher umschriebene Äußerung und/oder sinngleiche Äußerungen zu behaupten und/oder zu verbreiten.
+Komplementärin der verpflichteten KG ist eine GmbH, deren Alleingesellschafterin (im Folgenden: Muttergesellschaft) auch Alleingesellschafterin einer anderen GmbH ist. Diese ist Komplementärin jener KG, die die Medieninhaberin der hier betroffenen Website ist. Alle drei Gesellschaften haben denselben alleinvertretungsbefugten Geschäftsführer.
+Die Betreibenden beantragten die Bewilligung der Exekution gemäß § 355 EO und in der Folge die Verhängung weiterer Geldstrafen gegen die Verpflichtete (ua) mit der Behauptung, dass die Medieninhaberin der Website auf dieser an näher bezeichneten Tagen einen gegen die Unterlassungsverpflichtung verstoßenden Artikel verbreitet, abrufbar gehalten und zur Verfügung gestellt habe. Die Verbreitung des Artikels auf der Website sei vom Exekutionstitel erfasst und der Verpflichteten zuzurechnen, weil sie die Veröffentlichung des inkriminierten Artikels aufgrund der gesellschaftsrechtlichen Verflechtung hätte verhindern müssen.
+Das Erstgericht verhängte antragsgemäß über die Verpflichtete Geldstrafen (auch) wegen dieser behaupteten Titelverstöße.
+Das Rekursgericht änderte die Beschlüsse des Erstgerichts über Rekurs der Verpflichteten dahin ab, dass es den Exekutionsantrag und die beiden Strafanträge abwies, soweit sich diese auf den Artikel auf der Website bezogen. Die Verpflichtete könne auf die Medieninhaberin der Website keinen rechtlichen Einfluss nehmen oder dieser Weisungen erteilen. Das Unterlassungsgebot richte sich gerade nicht an die Alleingesellschafterin der Verpflichteten und der Medieninhaberin der Homepage. Daran ändere auch der Umstand nichts, dass die Muttergesellschaft und ihre beiden Tochtergesellschaften (die Komplementäre der beiden KG) denselben Geschäftsführer hätten, zumal dieser bei der Medieninhaberin der Homepage nach dem eigenen Vorbringen der Betreibenden gar keine Funktion habe.
+Das Rekursgericht ließ den ordentlichen Revisionsrekurs zu, weil höchstgerichtliche Rechtsprechung zur Zurechnung des Verhaltens eines Dritten im Fall der hier vorliegenden gesellschaftsrechtlichen Verflechtung fehle.
+Der Revisionsrekurs der Betreibenden ist zur Klarstellung der Rechtslage zulässig. Er ist aber nicht berechtigt.
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung erfasst eine titelmäßige Unterlassungsverpflichtung nicht nur das persönliche Handeln des Verpflichteten, sondern auch das Verhalten jener Personen, auf die er Einfluss nehmen kann, also insbesondere seiner Familienangehörigen (RIS-Justiz
+RS0004755 [T1, T5]), seiner Beauftragten und Dienstnehmer (RIS-Justiz
+RS0004484 [T2, T6]) und ihm sonst zurechenbarer Dritter, wie etwa von Besuchern, die mit seinem Wissen von ihm Rechte ableiten und mangels einer Aufklärung über die ihn treffende Unterlassungspflicht dieser zuwiderhandeln (RIS-Justiz
+RS0004423 [T1]). Nicht hingegen haftet der Titelschuldner für ein Zuwiderhandeln fremder Personen, die sich außerhalb seiner Einflusssphäre bewegen oder bei denen sein Bemühen erfolglos blieb, sie zur Abstandnahme von einem Verstoß gegen den Titel zu veranlassen (3 Ob 220/11s).
+2.1. Inwieweit zwischen miteinander verflochtenen Gesellschaften die rechtliche Möglichkeit besteht, titelwidrige Handlungen Dritter abzustellen, hängt von den Beteiligungsverhältnissen ab (vgl RIS-Justiz
+RS0049325, RS0049307 [T1]). Eine Titelschuldnerin hat demgemäß auch für Titelverstöße ihrer Tochtergesellschaften einzustehen, denen (genauer: deren vertretungsbefugten Organen) sie als Alleingesellschafterin Weisungen gemäß § 20 Abs 1 GmbHG erteilen kann (3 Ob 274/06z).
+2.2. Wäre die gemeinsame Muttergesellschaft Titelschuldnerin, hätte sie also für einen Titelverstoß der Medieninhaberin der Website als eines von ihr beherrschten Konzernunternehmens einzustehen, weil ihre Gesellschafter die rechtliche Möglichkeit hätten, die im Unternehmen der Medieninhaberin der Website erfolgten inkriminierten Verhaltensweisen zu verhindern. Auch der Geschäftsführer der Verpflichteten (und gleichzeitig ihrer Mutter- und Schwestergesellschaft) hätte, wäre er persönlich Titelschuldner, grundsätzlich (vgl RIS-Justiz RS0079521) für einen Titelverstoß der Medieninhaberin der Website zu haften. All dies ist hier jedoch nicht der Fall.
+3. Die Argumentation der Betreibenden, dass die (mittelbare) Alleingesellschafterin der Verpflichteten aufgrund der Beteiligungsverhältnisse im Konzern auch auf die Medieninhaberin der Website Einfluss nehmen könne, weshalb der Verpflichteten – insbesondere auch angesichts der Personalunion des Geschäftsführers – der Vorwurf zu machen sei, dass sie die Titelverstöße ihrer Schwestergesellschaft nicht abgestellt habe, greift hingegen zu kurz: Die Verpflichtete ist nämlich ungeachtet ihrer Konzernzugehörigkeit eine selbständige Rechtsperson. Als Personengesellschaft kann sie nur durch ihr Organ, also den Geschäftsführer ihrer Komplementär-GmbH handeln (§ 164 UGB iVm § 18 Abs 1 GmbHG). Für dessen Verhalten hat sie zwar einzustehen, allerdings nur, soweit er für sie handelt, und sie damit als ihr Organ vertritt; nicht jedoch, wenn er als Geschäftsführer eines Dritten wie etwa ihrer Schwestergesellschaft agiert (vgl 4 Ob 106/08d). Umgekehrt können ihre Gesellschafter (mittelbar also jene der gemeinsamen Muttergesellschaft) dem Geschäftsführer Weisungen namens der Verpflichteten nur erteilen, soweit es um die Vertretung der Verpflichteten selbst geht.
+4. Der Revisionsrekurs muss deshalb erfolglos bleiben.
+Die Kostenentscheidung beruht auf den §§ 40, 50 ZPO iVm § 78 EO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00134.16A.0922.000

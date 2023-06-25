@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.03.2023
+Geschäftszahl
+3Ob35/23b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei G* GmbH, *, vertreten durch Wolf Theiss Rechtsanwälte GmbH & Co KG in Wien, gegen die beklagte Partei r* AG, *, vertreten durch Cerha Hempel Rechtsanwälte GmbH in Wien, wegen Einwendungen gegen den Anspruch (§ 35 EO), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 16. Dezember 2022, GZ 47 R 261/22p-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Ob ein titulierter Anspruch des früheren Gesellschafters einer GmbH auf Gewährung von Einsicht in bestimmte Geschäftsunterlagen bereits erfüllt wurde (und damit erloschen ist), hängt naturgemäß stets von den konkreten Umständen des Einzelfalls ab und begründet daher grundsätzlich keine erhebliche Rechtsfrage.
+[2] 		2. Die Klägerin (Antragsgegnerin des Titelverfahrens und nun Verpflichtete) hat aufgrund eines Beschlusses des Handelsgerichts Wien als Firmenbuchgericht  der Beklagten (Antragstellerin des Titelverfahrens und jetzt Betreibenden) als ihrer früheren Gesellschafterin Einsicht in die zur Überprüfung der Richtigkeit der Berechnung der Bonuszahlung an eine frühere Mitarbeiterin der Klägerin für einen bestimmten Zeitraum erforderlichen, exemplarisch näher umschriebenen Unterlagen, insbesondere der Umsatzlisten und Warenausgangsrechnungen, zu gewähren und ihr die Anfertigung von Ausdrucken und Kopien zu ermöglichen.
+[3] 		3. Die Auffassung des Berufungsgerichts, der betriebene Anspruch sei durch die Vorlage von teilweise geschwärzten Unterlagen (noch) nicht erfüllt worden, ist keine aufzugreifende Verkennung des titulierten Anspruchs:
+[4] 		3.1. Zwischen den Parteien ist strittig, ob die Klägerin bei ihrer Bonusberechnung alle relevanten Umsätze berücksichtigt hat. Angesichts dessen liegt es auf der Hand, dass die Zurverfügungstellung der Umsatzlisten und Warenausgangsrechnungen, in denen umfangreiche Schwärzungen  vorgenommen wurden, mit der – für die Titelgläubigerin unüberprüfbaren – Behauptung, die geschwärzten Passagen beträfen nicht zu berücksichtigende Umsätze, keine ordnungsgemäße Erfüllung des titulierten Anspruchs darstellen kann, sieht doch der Exekutionstitel keine solchen Einschränkungsmöglichkeiten vor.
+[5] 		3.2. Zu der von der Klägerin (erst) im Zuge des Oppositionsverfahrens angekündigten Vorlage ungeschwärzter Urkunden kam es in der Folge nicht. Die Klägerin steht offenbar auf dem Standpunkt, die Beklagte habe den betriebenen Anspruch durch Ablehnung des Angebots, in die ungeschwärzten Urkunden Einsicht zu nehmen, verwirkt. Dies ist schon deshalb verfehlt, weil die Beklagte nicht gehalten war, die von der Klägerin explizit angebotene nur teilweise Erfüllung der titulierten Verpflichtung, nämlich die bloße Gewährung von Einsicht ohne die im Titel ebenso eingeräumte Möglichkeit, auch Kopien bzw Ausdrucke der Urkunden anzufertigen, zu akzeptieren. Schon im Hinblick darauf kann die vom Erstgericht getroffene Feststellung, die Schwärzungen hätten lediglich für die Beklagte irrelevante Umsätze betroffen, nicht zur Annahme der Titelerfüllung führen.
+[6] 		3.3. Dass die Klägerin der Beklagten unstrittig Einsicht in einen Teil der im Titel exemplarisch genannten Urkunden (E-Mail-Korrespondenz) gewährt hat, hat nicht zur Folge, dass dem Klagebegehren teilweise stattzugeben wäre. Anders als etwa bei einer Herausgabeverpflichtung, die durch Übergabe eines Teils der geschuldeten Fahrnisse teilweise erlöschen könnte, geht es hier um den Anspruch auf Gewährung von Einsicht in alle zur Erreichung des im Titel umschriebenen Zwecks erforderlichen Unterlagen, der erst nach vollständiger Erfüllung befriedigt ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00035.23B.0315.000

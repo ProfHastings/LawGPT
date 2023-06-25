@@ -1,0 +1,40 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+27.02.2001
+Geschäftszahl
+Bsw33354/96
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer I, Beschwerdesache Lucà gegen Italien, Urteil vom 27.2.2001, Bsw. 33354/96.
+Spruch
+Art. 6 Abs. 1 EMRK, Art. 6 Abs. 3 lit. d EMRK - Verurteilung anhand von Aussagen eines Mittäters ohne vorherige Gelegenheit zu seiner Befragung durch die Verteidigung.
+Verletzung von Art. 6 Abs. 1 EMRK iVm. Art. 6 Abs. 3 lit. d EMRK (einstimmig).
+Entschädigung nach Art. 41 EMRK: ITL 150.000.000,- für immateriellen Schaden; ITL 3.000.000,- für Kosten und Auslagen (einstimmig).
+Text
+Begründung:
+Sachverhalt:
+Gegen den Bf. war 1993 ein Haftbefehl wegen des Verdachts des Drogenhandels erlassen worden. Der den Haftbefehl ausstellende Untersuchungsrichter stützte sich dabei auf die Aussage des im Vorjahr wegen Drogenbesitzes verhafteten N., wonach der Bf. zugesichert hätte, ihn mit 500g Kokain zu versorgen. Gegen den Bf. und zwei weitere Verdächtige wurde Anklage erhoben, während die Strafsache gegen N. ausgeschieden und getrennt geführt wurde. Bei der Hauptverhandlung wurde N. als angeklagte Person eines verbundenen Strafverfahrens (imputato in procedimento connesso) aufgefordert, gegen den Bf. auszusagen. Er zog es jedoch vor, von seinem Schweigerecht gemäß § 210 ital. StPO Gebrauch zu machen. Der Verteidiger des Bf. erhob dagegen Einspruch und behauptete, § 513 ital. StPO[1] sei verfassungswidrig und widerspreche insbesondere den Verteidigungsrechten gemäß Art. 6 EMRK. Der Verfassungsgerichtshof lege den Absatz 2 des § 513 ital. StPO derart aus, dass für den Fall, dass ein in einem verbundenen Strafverfahren Angeklagter sein Schweigerecht nicht ausübt, alle seine während der Voruntersuchung getätigten Aussagen in der Hauptverhandlung vorgelesen und verwendet werden dürften. Dies habe zur Folge, dass ein Angeklagter keinerlei Möglichkeit habe, der ihr Schweigerecht ausübenden Person Fragen zu stellen oder stellen zu lassen. Das Gericht wies den Einspruch der Verteidigung zurück und ordnete die Verlesung der von N. vor dem Staatsanwalt getätigten Aussagen an: Das gesetzlich verankerte Schweigerecht diene dem Schutz des Angeklagten, von dem nicht erwartet werden könne, sich selbst durch Aussagen zu belasten. Der Grundsatz, dass während der Voruntersuchung getätigte Aussagen eines Angeklagten im Falle seines Schweigens in der Hauptverhandlung vorgelesen und verwendet werden dürfen, sei vom Verfassungsgerichtshof selbst in seinem Urteil Nr. 254/1992 aufgestellt worden.
+Der Bf. wurde zu einer mehrjährigen Freiheits- und zu einer Geldstrafe verurteilt. In seiner Urteilsbegründung führte das Gericht aus, dass sich die Verurteilung des Bf. im Wesentlichen auf die Aussagen von N. vor dem Staatsanwalt stütze. Die von letzterem bereits anlässlich seiner polizeilichen Vernehmung getätigten Aussagen hätten nicht verwertet werden dürfen, weil er lediglich als Auskunftsperson, nicht aber als Tatverdächtiger gegolten und daher auch nicht den Beistand eines Rechtsanwalts erhalten hatte. Im Übrigen seien die Aussagen von N. durchaus glaubwürdig. Er habe den Bf. anhand eines Fotos identifiziert und eine präzise Beschreibung seines Hauses und des Weges dorthin abgeliefert. Außerdem sei der Bf. bereits früher wegen Drogenhandels verurteilt und daraufhin unter polizeiliche Überwachung gestellt worden. Gegen das Urteil erhob der Bf. ein Rechtsmittel und behauptete, die Aussagen von N. seien nicht glaubwürdig und überdies in Verletzung des Grundsatzes auf eine kontradiktorische Vernehmung erfolgt, da weder der Untersuchungsrichter noch der Verteidiger des Bf. bei der Vernehmung vor dem Staatsanwalt anwesend gewesen waren. Das Urteil wurde vom Kassationsgerichtshof bestätigt: Art. 6 (3) (d) EMRK habe die Befragung von Zeugen, welche zur wahrheitsgemäßen Aussage verpflichtet wären, zum Gegenstand, nicht jedoch die Befragung eines Angeklagten, welcher sich das Recht vorbehalten dürfe, zu schweigen oder sogar zu leugnen. In Fällen, in denen ein Angeklagter die Aussage in der Hauptverhandlung verweigere, sei es durchaus üblich, bereits getätigte Aussagen als Beweis in die Akten aufzunehmen.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Der Bf. behauptet eine Verletzung von Art. 6 (1) EMRK (Recht auf ein faires Verfahren) iVm. Art. 6 (3) (d) EMRK (Recht, Fragen an die Belastungszeugen zu stellen oder stellen zu lassen und die Ladung und Vernehmung der Entlastungszeugen unter denselben Bedingungen wie die der Belastungszeugen zu erwirken), weil er aufgrund von Aussagen eines Mittäters verurteilt wurde, ohne Gelegenheit zu seiner Befragung gehabt zu haben.
+Zur behaupteten Verletzung von Art. 6 (1) EMRK iVm. Art. 6 (3) (d)
+EMRK:
+Art. 6 (3) (d) EMRK verlangt, dass Aussagen von Belastungszeugen im Rahmen eines kontradiktorischen Verfahrens zu erfolgen haben. Es sind daher grundsätzlich alle Beweise in Gegenwart des Angeklagten zu erheben, sodass dieser ausreichende und angemessene Gelegenheit hat, unmittelbare Einwendungen vorzubringen bzw. Fragen an die Zeugen zu stellen.
+Die Tatsache, dass die fragliche Aussage nicht von einem Zeugen im engeren Sinn, sondern von einem Mitangeklagten gemacht wurde, ist unerheblich. Der Begriff „Zeuge" ist nicht wortwörtlich, wie ihn der Kassationsgerichtshof verstanden hat, sondern autonom auszulegen. Die Befragung von Zeugen der Anklage in Form eines Kreuzverhörs hat üblicherweise in der Hauptverhandlung zu erfolgen, allerdings kann es unter besonderen Umständen – zB. aus Gründen des Zeugenschutzes in Verfahren gegen kriminelle Vereinigungen wie etwa die Mafia – gerechtfertigt sein, Aussagen von Zeugen während der Voruntersuchung in der Hauptverhandlung vorzulesen. In solchen Fällen genügt es, wenn dem Angeklagten zu irgendeinem Zeitpunkt des Verfahrens die Möglichkeit zur Verfügung stand, auf die Zeugenaussage in entsprechender Weise zu antworten. Nach damals geltendem Recht konnten die nationalen Gerichte die im Vorverfahren abgelegte Aussage eines Mitangeklagten im Falle seiner Aussageverweigerung in der Hauptverhandlung als zulässigen Beweis werten. Daraus folgt aber nicht, dass damit einem Angeklagten die Garantie des Art. 6 (3) (d) EMRK entzogen würde. Im gegenständlichen Fall stützte sich die Verurteilung des Bf. einzig auf die Aussage von N. während der Voruntersuchung, wobei weder der Bf. selbst, noch sein Verteidiger zu irgendeinem Zeitpunkt des Verfahrens Gelegenheit hatten, ihn zu befragen. Diese Vorgangsweise stellte eine massive Einschränkung der Verteidigungsrechte des Bf. dar und ist mit Art. 6 EMRK unvereinbar. Verletzung von Art. 6 (1) EMRK iVm. Art. 6 (3) (d) EMRK (einstimmig).
+Entschädigung nach Art. 41 EMRK: ITL 15.000.000,-- für immateriellen Schaden; ITL 3.000.000,-- für Kosten und Auslagen (6:1 Stimmen, Sondervotum von Richter Zupancic).
+Vom GH zitierte Judikatur:
+Unterpertinger/A, Urteil v. 24.11.1986, A/110 (= EuGRZ 1987, 147 =
+ÖJZ 1988, 22).
+Isgró/I, Urteil v. 19.2.1991, A/194-A.
+Lüdi/CH, Urteil v. 15.6.1992 (= NL 1992, 5, 17 = EuGRZ 1992, 300 =
+ÖJZ 1992, 843).
+Sa?di/F, Urteil v. 20.9.1993, A/261-C (= ÖJZ 1994, 322).
+Doorson/NL, Urteil v. 26.3.1996 (= NL 1996, 82 = ÖJZ 1996, 715).
+Van Mechelen ua./NL, Urteil v. 23.4.1997 (= NL 1997, 91 = ÖJZ 1998,
+274).
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 27.2.2001, Bsw. 33354/96, entstammt der Zeitschrift „ÖIMR-Newsletter" (NL 2001, 55) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im englischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/01_2/Luca.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

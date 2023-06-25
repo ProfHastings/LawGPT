@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.08.2014
+Geschäftszahl
+8ObA17/14d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Prof. Dr. Spenling als Vorsitzenden, den Hofrat Hon.-Prof. Dr. Kuras, die Hofrätin Dr. Tarmann-Prentner sowie die fachkundigen Laienrichter ADir. Brigitte Augustin und Dr. Gerda Höhrhan-Weiguni als weitere Richter in der Arbeitsrechtssache der klagenden Partei D***** P*****, vertreten durch Dr. Thomas Stampfer, Dr. Christoph Orgler, Rechtsanwälte in Graz, gegen die beklagte Partei B***** GmbH, *****, vertreten durch Waitz-Obermühlner Rechtsanwälte GmbH in Linz, wegen 4.605,44 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 13. Dezember 2013, GZ 7 Ra 52/13s-32, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 2 ASGG, § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Beklagte ist Mitglied des Fachverbandes der Versicherungsmakler und Berater in Vermögens-angelegenheiten, aber auch des Fachverbandes der Finanzdienstleister der Wirtschaftskammer Oberösterreich. Der Kläger war bei der Beklagten vom 12. 12. 2011 bis zu seinem vorzeitigen Austritt am 20. 1. 2012 als Vertriebsmitarbeiter beschäftigt und begehrt ausständiges Entgelt.
+Das Erstgericht gab dem Begehren statt und sprach dem Kläger dessen Forderungen auf Grundlage der Regelungen des Kollektivvertrags für Angestellte und Lehrlinge in Handelsbetrieben zu.
+Das Berufungsgericht bestätigte diese Entscheidung und verneinte die Voraussetzungen für die Zulässigkeit einer ordentlichen Revision.
+Die Beklagte falle aufgrund ihrer doppelten Fachverbandszugehörigkeit an sich in den Geltungsbereich zweier Kollektivverträge. Für den Kläger komme aber die in § 2 Abs 2 lit d des Kollektivvertrags für Gewerbeangestellte (KV Gewerbe) normierte Ausnahme vom persönlichen Geltungsbereich zum Tragen, weshalb sein Dienstverhältnis dem Kollektivvertrag für Handelsangestellte (KV Handel) unterliege.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Beklagten ist unzulässig, weil darin keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufgezeigt wird.
+Die Regelungen der §§ 9, 10 ArbVG für Fälle der Kollektivvertragskollision sind unmittelbar nur auf jene Fälle anwendbar, in denen der Arbeitgeber zwei oder mehreren Kollektivverträgen unterworfen ist (RIS-Justiz RS0050897 ua; 9 ObA 139/05i). Dies ist hier aber nicht der Fall; die Rechtsansicht des Berufungsgerichts, dass der Kläger aufgrund seiner Tätigkeit nicht in den persönlichen Geltungsbereich des KV Gewerbe fällt, wird in der Revision gar nicht bekämpft.
+Was zu geschehen hat, wenn in einem ungegliederten Mischbetrieb aufgrund der Ausnahmeregelung des § 2 Abs 2 KV Gewerbe einer von zwei möglichen Kollektivverträgen unanwendbar ist, sodass nur der andere verbleibt, ist in der höchstgerichtlichen Rechtsprechung im Sinne der Ausführungen des Berufungsgerichts bereits beantwortet.
+Kommt im wirtschaftlich überwiegenden Bereich eines Mischbetriebs kein Kollektivvertrag zur Anwendung, hat dies nicht zur Folge, dass der für den nicht überwiegenden Bereich geltende Kollektivvertrag verdrängt wird, vielmehr ist der Kollektivvertrag des nicht überwiegenden Bereichs auf den gesamten Betrieb anzuwenden (9 ObA 139/05i; Weiß, Tarifeinheit und Tarifvielfalt im ungegliederten Mischbetrieb?, JBl 1999, 781 [790]).
+In der Entscheidung 9 ObA 100/12i, die das Dienstverhältnis eines Vermittlungsagenten und einen Dienstgeber betraf, der - wie die Beklagte - nach seiner Fachgruppenzugehörigkeit sowohl dem KV Handel als auch dem KV Gewerbe unterlag, hat der Oberste Gerichtshof klargestellt, dass die Geltungsbereichsausnahme nach § 2 Abs 2 lit d KV Gewerbe die Kollektivvertragskollision beseitigt. Auch in diesem Fall ist schlicht der verbleibende Kollektivvertrag anzuwenden, ohne dass es auf dessen maßgebliche wirtschaftliche Bedeutung iSd § 9 Abs 3 ArbVG ankäme.
+Weshalb es, wie die Revisionswerberin meint, eine Umgehung des KV Gewerbe bedeuten würde, wenn auf Dienstverhältnisse, die nicht von seinem Geltungsbereich erfasst sind, ein anderer Kollektivvertrag zur Anwendung kommt, ist nicht verständlich. Den Kollektivvertragsparteien kommt selbstverständlich keine Kompetenz zu, auch die Anwendbarkeit fremder Kollektivverträge auszuschließen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:008OBA00017.14D.0825.000

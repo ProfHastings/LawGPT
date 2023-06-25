@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.06.2022
+Geschäftszahl
+6Ob80/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Dipl.-Ing. J*, vertreten durch Dr. Bertram Broesigke, Rechtsanwalt in Wien, gegen die beklagte Partei H*, vertreten durch DDr. Hans Wagner, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 10. März 2022, GZ 40 R 215/21w-24, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft; sie liegt nicht vor (§ 510 Abs 3 ZPO).
+[2] 		2. Der Kündigungsgrund des unleidlichen Verhaltens iSd § 30 Abs 2 Z 3 zweiter Fall MRG stellt die mietrechtliche Konkretisierung der Unzumutbarkeit des Fortbestands des Dauerrechtsverhältnisses dar (RS0014436). Zu den Grundsätzen, nach denen zu beurteilen ist, ob ein zur Kündigung berechtigendes unleidliches Verhalten vorliegt, ist bereits umfangreiche Judikatur des Obersten Gerichtshofs ergangen (s 7 Ob 109/21m [ErwGr 3.]; RS0070303; RS0067678; RS0070437; RS0070394). Regelmäßig ist dabei eine Abwägung im Einzelfall vorzunehmen (RS0042984 [T3, T11]).
+[3] 		Eine Einzelfallentscheidung zum (Nicht-)Vorliegen dieses Kündigungsgrundes ist damit im Revisionsverfahren nur dann überprüfbar, wenn das Berufungsgericht den ihm dabei eingeräumten Ermessensspielraum überschritten hätte (RS0042984 [T4]) oder ihm eine auffallende und im Interesse der Rechtssicherheit zu korrigierende Fehlbeurteilung unterlaufen wäre (RS0042984 [T5, T6, T8]; vgl auch RS0044088), was hier nicht der Fall ist:
+[4] 		3. Die gebotene Abwägung hat auf Basis des gesamten entscheidungswesentlichen Sachverhalts stattzufinden.
+[5] 		Der Beklagte (der sich im Gerichtsverfahren für seine Wortwahl entschuldigt hat) hat die ihm zur Verfügung gestellten rechtlichen Möglichkeiten nach § 37 Abs 1 Z 12 MRG iVm §§ 21–24 MRG regelmäßig ausgeschöpft und dabei auch Erfolge erzielt. Er ist – entgegen den Revisionsausführungen – mit seinen Anträgen auf Überprüfung der Betriebskostenabrechnung bei der Schlichtungsstelle für neun Jahre in Folge jeweils zumindest mit einer bekämpften Position in der Betriebskostenabrechnung durchgedrungen. Diese Positionen betrafen unterschiedliche Bereiche in einer Gesamthöhe von etwa 10.000 EUR, die der Beklagte für die Liegenschaft zu Recht zurückgefordert hat. Das Erstgericht ist zudem – anders als der Kläger dies tut – auf Sachverhaltsebene (wenn auch disloziert im Rahmen der Beweiswürdigung) gerade nicht davon ausgegangen, dass der Beklagte dabei schikanös oder in Schädigungsabsicht vorgegangen ist („nicht festzustellen war, dass die Anträge in schikanöser und schädigender Absicht zu Lasten der klagenden Partei gestellt wurden“).
+[6] 		Angesichts der in etlichen Bereichen (wiederholt) berechtigt gestellten Anträge, liegt in der Beurteilung des Berufungsgerichts, die Formulierungen des Beklagten (hinsichtlich des Vorwurfs des Betrugs) seien zwar als überzogen zu beurteilen, es sei jedoch bei Gesamtbetrachtung auch zu berücksichtigen, dass er das Gespräch gesucht, sich um Aufklärung bemüht, aber keine zufriedenstellende Aufklärung erhalten und sich um eine korrekte Verwaltung des Hauses, dem er sich sehr verbunden fühle, bemüht habe, sodass seine Entgleisungen (noch) keinen ausreichenden Anlass für eine Aufkündigung wegen unleidlichen Verhaltens geboten hätten, keine korrekturbedürftige Fehlbeurteilung.
+[7] 		Daran ändert auch der vom Kläger herausgegriffene Umstand nichts, dass der Beklagte mit seinen Anträgen in Bezug auf die Gebäudebündelversicherung niemals erfolgreich war. Dies kann ihm angesichts der sich ändernden Sachverhaltsgrundlage (das Berufungsgericht verwies dazu auf „von Jahr zu Jahr nicht unerheblich steigende Versicherungsprämien“) im Zusammenspiel mit den in etlichen anderen Bereichen immer wieder vorgekommenen, unkorrekten Abrechnungen und der fehlenden Schädigungsabsicht nicht derart schwerwiegend zum Vorwurf gemacht werden, wie dies der Kläger anstrebt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00080.22S.0622.000

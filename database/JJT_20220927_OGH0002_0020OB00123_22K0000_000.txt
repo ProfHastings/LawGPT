@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+2Ob123/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei H*, vertreten durch Hochstöger Nowotny Wohlmacher Rechtsanwälte OG in Linz, gegen die beklagte Partei H*, vertreten durch Dr. Günter Schmid, Rechtsanwalt in Linz, wegen 27.300 EUR sA über die ordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 2. Mai 2022, GZ 12 R 12/22d-19, mit dem einer Berufung der klagenden Partei gegen das Urteil des Landesgerichts Linz vom 2. März 2022, GZ 66 Cg 56/21k-15, nicht Folge gegeben wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.723,32 EUR (darin enthalten 287,22 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger begehrt als einer von zwei mit je einem Teilgrundstück einer Liegenschaft bedachten Legataren von der beklagten Alleinerbin 27.300 EUR sA Schadenersatz mit der Begründung, sie habe ihm in Schädigungsabsicht ein geringwertiges Teilgrundstück zugewiesen, das zwar seinen Pflichtteil decke, aber nicht dem Willen der Erblasserin entspreche.
+[2] 		Die Vorinstanzen wiesen die Klage ab. Der Kläger habe primär Anspruch auf Erfüllung des Vermächtnisses. Schadenersatz könne erst bei Unmöglichkeit der Legatserfüllung begehrt werden. Die bereits vorgenommene Teilung der Liegenschaft und Einverleibung des Eigentumsrechts am zweiten Teilgrundstück zu Gunsten der anderen Legatarin mache die Legatserfüllung aber nicht unmöglich.
+Rechtliche Beurteilung
+[3] 		Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts ist die Revision nicht zulässig, weil keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO zu beantworten ist.
+[4] 		1. Der Vermächtnisnehmer erhält durch die letztwillige Verfügung einen schuldrechtlichen Anspruch auf Leistung (RS0109864). § 654 Satz 1 ABGB enthält eine Regelung für den Fall, dass die Legatserfüllung unmöglich wird. Danach erhält der Vermächtnisnehmer keinen Ersatz, wenn die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich wird.
+[5] 		2. Unmöglichkeit der Leistung liegt nach ständiger Rechtsprechung vor, wenn dem Schuldner die Bewirkung der versprochenen Leistung physisch oder rechtlich dauernd (endgültig) unmöglich ist (RS0018391). Dies ist dann der Fall, wenn der Leistung ein dauerhaftes Hindernis entgegensteht. Ein solches ist anzunehmen, wenn nach der Verkehrsauffassung mit an Sicherheit grenzender Wahrscheinlichkeit anzunehmen ist, dass die Leistung auch in Zukunft nicht mehr erbracht werden kann (RS0109496). Der bloße Nichtbesitz einer Sache führt bei einer obligatorischen Verpflichtung zur Herausgabe noch nicht zur Unmöglichkeit der Erfüllung (RS0018446). Nur dann, wenn mit an Sicherheit grenzender Wahrscheinlichkeit feststünde, dass ein erforderliches Mitwirken des Dritten von diesem endgültig verweigert wird, ist von einer Unmöglichkeit der Leistung auszugehen (RS0109496 [T2]; RS0016423; RS0018446 [T4]).
+[6] 		3. Die Unmöglichkeit ist von demjenigen zu beweisen, der sich auf sie beruft (RS0034223). Will daher der Gläubiger Ersatz wegen Unmöglichkeit der Leistung, hat er diese als Anspruchsgrundlage zu beweisen, denn primär steht nur der Erfüllungsanspruch zu (vgl RS0018496 = 3 Ob 603/83). Der Schaden des Vermächtnisnehmers tritt (erst) mit der Unmöglichkeit der Legatserfüllung ein (2 Ob 2226/96h).
+[7] 		4. Die Beurteilung der Vorinstanzen, bloß die bereits erfolgte Teilung der Liegenschaft und Übereignung des Teilgrundstücks an die andere Vermächtnisnehmerin mache die Erfüllung des Legats noch nicht unmöglich, sodass dem Kläger (noch) kein Schadenersatzanspruch zustehe, entspricht daher der Rechtsprechung des Obersten Gerichtshofs.
+[8] 		5. Die vom Kläger aufgeworfene Rechtsfrage, ob er auch dann Schadenersatz fordern kann, wenn das tatsächlich ausgefolgte Vermächtnis zwar den Pflichtteilsanspruch deckt, aber der Wert des zugedachten Vermächtnisses durch schuldhaftes Verhalten der Erbin geschmälert wird, stellt sich daher nicht. Auf die Auslegung des Legats oder ein Verschulden der Beklagten kommt es daher ebenfalls (noch) nicht an.
+[9] 		6. Soweit der Kläger argumentiert, das Erstgericht hätte mit ihm erörtern müssen, dass es ihm – trotz Möglichkeit der Erfüllung – freistehe, von tatsächlich eingetretener Leistungsunmöglichkeit auszugehen, übersieht er, dass in der Berufung nicht gerügte Verfahrensmängel nicht als Revisionsgrund geltend gemacht werden können (RS0074223 [T5]).
+[10] 		7. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen (RS0112296).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00123.22K.0927.000

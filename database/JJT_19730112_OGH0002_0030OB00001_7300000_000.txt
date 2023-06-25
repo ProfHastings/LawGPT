@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.01.1973
+Geschäftszahl
+3Ob1/73
+Norm
+EO §251 Z6;
+Kopf
+SZ 46/3
+Spruch
+Die Exekutionsbefreiung nach § 251 Z. 6 EO kann grundsätzlich nur natürlichen Personen zugute kommen
+Sie findet daher auf eine OHG selbst dann keine Anwendung, wenn ein Gesellschafter das Gewerbe persönlich im Umfang eines Kleinbetriebes ausüben sollte
+OGH 12. Jänner 1973, 3 Ob 1/73 (LGZ Graz 4 R 531/72; BG Pöllau E 664/71)
+Text
+Die Verpflichtete, Firma F & Co, OHG, beantragte (unter anderem) die Einstellung der gegen sie bewilligten und vollzogenen Fahrnisexekution in Ansehung des gepfändeten Kraftwagens Opel-Caravan aus den Gründen der §§ 251 Z 6 und 252 EO.
+Nachdem das Erstgericht diesen Antrag zunächst abgewiesen hatte, weil es sich um kein für die Verpflichtete unentbehrliches Fahrzeug handle, das Rekursgericht (mit Beschluß vom 12. Juli 1972) diesen Beschluß jedoch mit der Begründung aufgehoben hatte, daß zwar die Voraussetzungen des § 251 Z 6 EO nicht gegeben seien, aber die Zubehöreigenschaft noch geklärt werden müsse, stellte das Erstgericht die Exekution hinsichtlich des genannten Kraftfahrzeuges mit der Begründung ein, daß es als Liegenschaftszubehör anzusehen sei.
+Das Rekursgericht wies den Einstellungsantrag ab, weil es die Zubehörseigenschaft schon wegen fehlender Eigentümeridentität verneinte.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Verpflichteten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Ausführungen im Revisionsrekurs richten sich ausschließlich gegen die Ansicht des Rekursgerichtes in seinem Beschluß vom 12. Juli 1972, wonach die Voraussetzungen für die Ausscheidung des Kraftwagens nach § 251 Z 6 EO, nicht gegeben seien.
+Diesen Ausführungen ist zu erwidern, daß die Exekutionsbefreiung des § 251 Z 6 EO grundsätzlich nur einem physischen Rechtssubjekt zugute kommen kann, nicht aber auch einer juristischen Person oder - wie hier - einer Handelsgesellschaft. Die Schutzbestimmung des § 251 Z 6 EO findet daher auf eine offene Handelsgesellschaft selbst darin keine Anwendung, wenn ein Gesellschafter das Gewerbe persönlich im Umfang eines Kleinbetriebes ausüben sollte (SZ 7/59; Heller - Berger - Stix, Komm. z. EO[4], 1666, Walker, Österreichisches Exekutionsrecht[4], 70), wie dies nach den Ausführungen im Revisionsrekurs auf den vorliegenden Fall zutreffen soll.
+Richtig ist aber auch die Rechtsansicht des Rekursgerichtes, wonach der Kraftwagen PZ 1 wegen der mangelnden Eigentümeridentität nicht Liegenschaftszubehör ist (SZ 19/158, SZ 39/174, SZ 40/138 u. a. Entscheidung zu § 294 AGBG). Bei der Beurteilung dieser Rechtsfrage kann von der erst vom Rekursgericht ergänzend getroffenen, aber unangefochten gebliebenen Feststellung ausgegangen werden, daß der Kraftwagen nicht den Liegenschaftseigentümern, sondern der Verpflichteten gehört.

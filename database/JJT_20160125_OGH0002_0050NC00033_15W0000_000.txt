@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2016
+Geschäftszahl
+5Nc33/15w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Familienrechtssache der Antragstellerin N***** L***** K*****, geboren am *****, vertreten durch Dr. Gudrun Truschner, Rechtsanwältin in Wels, gegen den Antragsgegner F***** K*****, wegen Unterhalt, über Vorlage des Akts AZ 1 Fam 5/15f des Bezirksgerichts Grieskirchen zur Entscheidung des negativen Kompetenzkonflikts zwischen diesem Bezirksgericht und dem Bezirksgericht Graz-Ost, den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Bezirksgericht Grieskirchen zurückgestellt.
+Text
+Begründung:
+Die Antragstellerin beantragte beim Bezirksgericht Grieskirchen die Erhöhung des ihr vom Antragsgegner, ihrem Vater, zu zahlenden monatlichen Unterhalts.
+Mit Beschluss vom 6. Mai 2015 sprach das Bezirksgericht Grieskirchen aus, dass es für das Verfahren nicht zuständig sei, und überwies die Rechtssache gemäß § 44 Abs 1 JN an das Bezirksgericht Graz-Ost. Den von der Antragstellerin erhobenen Rekurs wies das Landesgericht Wels als verspätet zurück. Der Überweisungsbeschluss erwuchs damit in Rechtskraft.
+Das Bezirksgericht Grieskirchen übermittelte den Akt daraufhin dem Bezirksgericht Graz-Ost. Mit Verfügung vom 9. November 2015 leitete dieses den Akt an das Bezirksgericht Grieskirchen mit dem Hinweis zurück, dass das Verfahren nicht übernommen werde. Dies mit der Begründung, dass doch das überweisende Gericht dafür zuständig sei.
+Das Bezirksgericht Grieskirchen legte den Akt dem Obersten Gerichtshof zur Entscheidung über den negativen Kompetenzkonflikt vor.
+Rechtliche Beurteilung
+Die Aktenvorlage ist
+verfehlt.
+1. Die Anrufung des gemeinsam übergeordneten Gerichtshofs in einem negativen Kompetenzkonflikt nach § 47 JN setzt voraus, dass die beteiligten Gerichte rechtskräftige, ihre Zuständigkeit zur Entscheidung über dieselbe Rechtssache verneinende Beschlüsse gefasst haben (RIS-Justiz RS0046354, RS0046299 [T1], RS0046374 [T5] RS0118692 [T2, T3]).
+Hier liegt zwar ein rechtskräftiger, die Zuständigkeit verneinender Beschluss des Bezirksgerichts Grieskirchen vor. Das Bezirksgericht Graz-Ost hat jedoch keinen derartigen Unzuständigkeitsbeschluss gefasst. Es hat lediglich in einer - nicht an die Parteien gerichteten und diesen daher auch nicht zugestellten - Verfügung die Übernahme des Verfahrens abgelehnt und den Akt dem Bezirksgericht Grieskirchen zurückgesandt.
+Die Voraussetzungen nach § 47 JN sind somit nicht gegeben. Im vorliegenden Fall kommt hinzu, dass der Akt durch die Rechtspflegerin des Bezirksgerichts Grieskirchen vorgelegt wurde. Die Vorlage hätte allerdings durch den zuständigen Richter erfolgen müssen. Das Ersuchen um Entscheidung eines Kompetenzkonflikts ist auch im Wirkungskreis des Rechtspflegers dem Richter vorbehalten
+(RIS-Justiz
+RS0125601, RS0046299 [T10]).
+2. Zur Vermeidung von Verfahrensverzögerungen ist auf Folgendes hinzuweisen:
+Der Überweisungsbeschluss gemäß § 44 JN bindet - unabhängig vom Zeitpunkt des Eintritts seiner Rechtskraft (vgl RIS-Justiz RS0002439 [T4, T5]) - jenes Gericht, an welches die Sache überwiesen wurde, insofern, als es seine Zuständigkeit nicht wegen der Zuständigkeit des überweisenden Gerichts verneinen kann (RIS-Justiz RS0002439 [T1], RS0046315 [T3], RS0081664). Bei einer Entscheidung nach § 47 Abs 1 JN hat der übergeordnete Gerichtshof - hier der Oberste Gerichtshof - auf diese Bindungswirkung des ersten, die Zuständigkeit verneinenden Beschlusses auch dann Bedacht zu nehmen, wenn dieser vielleicht unrichtig war (RIS-Justiz RS0002439 [T9], RS0046391 [T5], RS0039922 [T2]). Die Vorschriften über die Bindung an rechtskräftige Entscheidungen über die Zuständigkeit und an Überweisungsbeschlüsse haben schließlich den Zweck, Kompetenzkonflikte nach Möglichkeit von vornherein auszuschließen. Damit nimmt der Gesetzgeber in Kauf, dass allenfalls auch ein an sich unzuständiges Gericht durch eine unrichtige Entscheidung gebunden wird (RIS-Justiz RS0046391).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050NC00033.15W.0125.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.1950
+Geschäftszahl
+3Ob405/50
+Norm
+EO §65;
+EO §267;
+Kopf
+SZ 23/238
+Spruch
+Über das Rekursrecht einer einem anhängigen Exekutionsverfahren beigetretenen Partei.
+Entscheidung vom 30. August 1950, 3 Ob 405/50.
+I. Instanz: Bezirksgericht Liesing; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die betreibende Partei Firma A. hat am 3. Februar 1949 unter anderem die Exekution durch Pfändung und Verwahrung der in der Gewahrsame der verpflichteten Partei befindlichen beweglichen Sachen beantragt und bewilligt erhalten. Die Pfändung wurde am gleichen Tage vollzogen. Am 8. April 1950 beantragte die Firma A. den Verkauf dieser gepfändeten Gegenstände.
+Das Erstgericht wies diesen Antrag unter Hinweis auf den Ablauf der Frist des § 256 Abs. 2 EO. ab.
+Das Rekursgericht gab dem Rekurse der Firma A. Folge und bewilligte den beantragten Verkauf mit der Begründung, daß es sich beim exekutiven Pfandrecht an beweglichen Sachen um ein zeitlich beschränktes Recht handle, auf das das Bundesgesetz über die Zulässigkeit der gerichtlichen Geltendmachung verjährter Rechte, BGBl. Nr. 193/1947, anzuwenden sei, und daß daher dieses Pfandrecht trotz Ablaufes der einjährigen Frist des § 256 EO. noch bis zum 30. Juni 1950 geltend gemacht werden könne.
+Der Oberste Gerichtshof wies die Revisionsrekurse der betreibenden Parteien B und C, zu deren Gunsten ein Teil der Gegenstände nach dem Vollzug für die Firma A. gepfändet wurde, zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zur Anfechtung von Beschlüssen in einem Exekutionsverfahren sind nur die Parteien dieses Verfahrens und allenfalls noch andere daran Beteiligte befugt, nicht aber - von besonders geregelten Fällen abgesehen - dritte Personen, mögen auch ihre Rechte hiedurch berührt worden sein (Neumann - Lichtblau, Kommentar zur EO., I, S. 291). Die Exekutionsordnung kennt, wenn zugunsten mehrerer Ansprüche auf dieselben beweglichen Sachen Exekution durch Pfändung und Verkauf geführt wird, zunächst keine Vereinigung dieser Exekutionsverfahren, sondern nur eine Einheit des Verwertungs- und Verteilungsverfahrens. Die Pfändung wird daher grundsätzlich zugunsten eines jeden Anspruches abgesondert vollzogen und erst dann ein einheitliches Verkaufs- und Verteilungsverfahren durchgeführt, d. h. jeder nachfolgende Gläubiger tritt dem bereits zugunsten eines anderen Gläubigers eingeleiteten Verwertungsverfahren bei und hat dieses in der Lage anzunehmen, in der es sich gerade befindet. Er hat aber dann dieselben prozessualen Rechte wie der früher aufgetretene Gläubiger (Pollak, ZPR., 2. Aufl., S. 854 f., Neumann - Lichtblau, Kommentar zur EO., II, S. 831). Demnach sind alle betreibenden Gläubiger vom Zeitpunkte des Beitrittes an nur am Verwertungs- und Verteilungsverfahren als Parteien beteiligt, nicht aber am vorausgehenden Stadium der einzelnen Exekutionsverfahren. Daher kann ein betreibender Gläubiger, zu dessen Gunsten vorher Pfändung und Verkauf der Fahrnisse des Verpflichteten bewilligt, die Pfändung vollzogen und das Verwertungsverfahren eingeleitet worden ist, die Bewilligung der Pfändung und des Verkaufes zugunsten eines anderen Gläubigers, selbst wenn es sich um dieselben Exekutionsobjekte handelt, nicht anfechten, sondern erst die im einheitlichen Verkaufs- und Verteilungsverfahren ergehenden Beschlüsse bekämpfen, soweit sie auch seine Rechte berühren (im gleichen Sinne 1 Ob 321/50 vom 5. Juli 1950).
+Demnach fehlt den Rechtsmittelwerbern die Befugnis, die Bewilligung des Verkaufes zugunsten der Firma A. anzufechten, obwohl sie sich auf die auch zur Hereinbringung ihrer Forderungen gepfändeten Gegenstände bezieht, vielmehr käme erst eine Bekämpfung des Fortbestandes des Pfandrechtes im Zuge des etwaigen Verteilungsverfahrens in Frage. Da somit den Rechtsmittelwerbern das Recht, einen Revisionsrekurs zu erheben, nicht zusteht, waren beide Revisionsrekurse zurückzuweisen.

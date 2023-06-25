@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+8ObS14/19w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Mag. Harald Stelzer (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) in der Sozialrechtssache der klagenden Partei F*****, vertreten durch Dr. Ingo Riß, Rechtsanwalt in Wien, gegen die beklagte Partei IEF Service GmbH, *****, wegen 8.905 EUR sA (Insolvenz-Entgelt), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. September 2019, GZ 8 Rs 92/19m-65, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 2 ASGG, § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Ob und inwieweit eine verwaltungsrechtliche Entscheidung in einem anderen Verfahren Bindungswirkung entfaltet, richtet sich nach der jeweiligen Verfahrensordnung (Kneihs, Rechtskraft, ZfV 2015, 171 [191]). Die Voraussetzungen für eine Bindung des Gerichts an Entscheidungen im Verwaltungsverfahren sind von diesem selbstständig zu beurteilen und hier zu bejahen (vgl Höllwerth in Fasching/Konecny3 II/3 § 190 ZPO Rz 12).
+Der Oberste Gerichtshof vertritt in ständiger Rechtsprechung eine Bindung der Gerichte an rechtskräftige Bescheide der Verwaltungsbehörden, mit welchen eine für den Zivilrechtsstreit maßgebliche Vorfrage entschieden wurde, und zwar grundsätzlich selbst dann, wenn diese fehlerhaft (gesetzwidrig) sein sollten (RIS-Justiz RS0036880; RS0036981; RS0036864). Der Zivilrichter hat den Bescheid nicht auf seine inhaltliche Richtigkeit zu prüfen (RS0036981; RS0036975 [T4]; RS0036864).
+Im vorliegenden Fall steht aufgrund der rechtskräftigen Entscheidung des Bundesverwaltungsgerichts fest, dass der Kläger nicht der Versicherungspflicht in Österreich unterlag. Die im Verwaltungsverfahren zu treffende Entscheidung über diese Vorfrage ist nach § 74 Abs 1 ASGG für die Gerichte bindend (RS0037048).
+Der Revision ist darin beizupflichten, dass die Entscheidung in der hier maßgeblichen Hauptfrage, nämlich ob der Kläger zum Kreis der nach § 1 Abs 1 IESG gehört, den Gerichten obliegt. Entgegen den Revisionsausführungen ist diese Frage aber in der höchstgerichtlichen Rechtsprechung bereits beantwortet. Der Anwendungsbereich des IESG ist teleologisch auf Arbeitnehmer zu reduzieren, deren Beschäftigungsverhältnisse nach den §§ 1, 3 und 30 Abs 2 ASVG in die allgemeine österreichische Sozialversicherung fallen, somit auf die im Inland beschäftigten Arbeitnehmer eines im Inland in Konkurs verfallenen Arbeitgebers (RS0076447). Neben dem Territorialitätsprinzip gilt das Versicherungsprinzip, wonach grundsätzlich nur derjenige Anspruch auf Leistung hat, der Beträge geleistet hat, für den Beträge geleistet wurden bzw für den zumindest – da der Anspruch nicht von der tatsächlichen Beitragszahlung abhängig ist – im Inland Beiträge zu bezahlen gewesen wären (8 ObS 15/06y ua).
+Die Entscheidung des Berufungsgerichts steht mit dieser Rechtsprechung im Einklang.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:008OBS00014.19W.0424.000

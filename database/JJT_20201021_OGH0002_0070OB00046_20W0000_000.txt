@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob46/20w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Eigentümergemeinschaft der Liegenschaft EZ *****KG *****), vertreten durch Mag. Michael Gruner und Dr. Robert Pohle, Rechtsanwälte in Wien, gegen die beklagte Partei I***** KG, *****, vertreten durch Mag. Wolfgang Steiner und Mag. Anton Hofstetter, Rechtsanwälte in Wien, wegen 30.840 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Dezember 2019, GZ 5 R 150/19v-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+1. Grundsätzlich ist der Verwalter nach § 18 Abs 3 WEG 2002 mit der Vertretung der Eigentümergemeinschaft nach außen betraut; ihm steht im Außenverhältnis die uneingeschränkte, auch außerordentliche Maßnahmen der Verwaltung umfassende Vertretungsbefugnis zu (RS0013747), und er kann selbst wiederum rechtsgeschäftlich eine Vollmacht (Ermächtigung) erteilen (RS0013747 [T6]).
+2.1. Der Verwalter ist nach § 20 Abs 1 Satz 1 WEG 2002 verpflichtet, die Interessen der Eigentümergemeinschaft wie auch die gemeinschaftsbezogenen Interessen aller Wohnungseigentümer zu wahren. Eine allgemeine Definition der Interessenswahrungspflicht lässt sich aufgrund der Vielzahl der denkbaren Lebenssachverhalte nicht geben; sie kann sich oftmals nur aus den Umständen des Einzelfalls ergeben (vgl RS0117890).
+Der Verwalter ist nach § 837 ABGB auch Machthaber aller Miteigentümer; ihn treffen, sofern das WEG keine abweichenden Regeln aufstellt, ergänzend die Rechte und Pflichten nach §§ 1002 ff ABGB (vgl RS0013751).
+2.2. Die Haftung des Verwalters ist nicht im WEG geregelt, sondern richtet sich nach § 1012 ABGB iVm §§ 1293 ff ABGB (vgl 8 Ob 112/18f). Für den Verwalter gilt der Sorgfaltsmaßstab des § 1299 ABGB (RS0083550 [T9]); demnach hat er den typischerweise zu erwartenden Leistungsstandard seiner Berufsgruppe einzuhalten. Ob ein Verwalter die gebotene Sorgfalt eingehalten hat, kann ebenfalls nur nach den Umständen des Einzelfalls geprüft werden und ist regelmäßig keine Frage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO (vgl 8 Ob 112/18f; RS0026584 [insb T17 und T21]).
+Rechtliche Beurteilung
+3.1. Eine solche erhebliche Rechtsfrage zeigt die Revision auch nicht auf.
+3.2. Die Ansicht, dass nicht nur die Sammlung, Vorbereitung und Einreichung von Unterlagen bei der Förderstelle (vgl 6 Ob 196/18v), sondern aufgrund des Vertragsverhältnisses zwischen der WEG-Eigentümergemeinschaft und ihrem Verwalter auch die Kontrolle des Eingangs von Förderbeträgen und ihrer Verrechnung zu dessen Verwaltungsaufgaben zählen, hält sich im Rahmen der Judikatur.
+3.3. Es ist daher im Einzelfall nicht korrekturbedürftig, zumindest die Nichtkontrolle des Fördergeldeingangs und die ungeachtet des Fehlens entsprechender Eingänge erfolgte Zahlung der von der Generalunternehmerin gelegten Rechnungen in voller (die Förderungssumme übersteigender) Höhe als schadensbegründende Pflichtwidrigkeit (§ 1012 ABGB) anzusehen, auch wenn zuvor die Beklagte selbst, wie sie behauptete, über das Vorliegen einer Förderzusage bzw die Förderbarkeit des Bauvorhabens getäuscht worden wäre. Genau auf diesen Vorwurf stützte die Klägerin ihren Anspruch.
+4. Da der Klägerin bei gebotener Anwendung der Differenzrechnung (7 Ob 38/17i mwN; RS0030153) damit jedenfalls ein Schaden in Höhe der entgangenen Förderung entstanden ist, die nach den Feststellungen bei Beantragung erlangt worden wäre, ist eine behauptete Unschlüssigkeit der Klage nicht erkennbar. Auf die Auslegung der Urkunde mit der Aufstellung der Zahlungen an die Generalunternehmerin und – nach deren Insolvenz – an das Bauunternehmen, das danach Arbeiten verrichtete, kommt es nicht an.
+5. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00046.20W.1021.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2022
+Geschäftszahl
+5Ob96/22m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer und Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Rechtssache der klagenden und gefährdeten Partei F* G*, vertreten durch Mag. Angelika Fehsler-Posset, Rechtsanwältin in Wien, gegen die beklagte Partei und Gegnerin der gefährdeten Partei E* Privatstiftung, *, vertreten durch Mag. Lukas Eugen Schmied, Rechtsanwalt in Wien, wegen Feststellung und Zustimmung zur Einverleibung des Eigentumsrechts (Streitwert 31.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden und gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 19. April 2022, GZ 12 R 48/22z-32, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Der Antrag der beklagten Partei und Gegnerin der gefährdeten Partei auf Zuspruch der Kosten der Revisionsrekursbeantwortung wird abgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der Oberste Gerichtshof kann auch im Provisorialverfahren nur angerufen werden, wenn eine iSd § 528 Abs 1 ZPO bedeutsame Rechtsfrage zu lösen ist (RIS-Justiz RS0097221). Das ist hier nicht der Fall:
+[2] 		1. Das Rekursgericht bestätigte die Abweisung des Antrags auf Erlassung einer einstweiligen Verfügung mit der Begründung, dass das Klagebegehren im Hauptverfahren, auf das sich der Sicherungsantrag beziehe, nicht schlüssig sei (vgl zur Abweisung eines Sicherungsantrags bei Unschlüssigkeit des Anspruchs RS0005452 [T7, T17]; RS0005225 [T5]; RS0004864 [T4]; RS0004815 [T6]).
+[3] 			2. Der Frage, ob eine Klage oder ein Antrag auf Erlassung einer einstweiligen Verfügung ausgehend von den Behauptungen des Klägers schlüssig ist, kommt im Allgemeinen – und so auch hier – keine über den Einzelfall hinausgehende Bedeutung iSd § 502 Abs 1 ZPO bzw § 528 Abs 1 ZPO zu. Die Schlüssigkeit kann schließlich immer nur anhand der konkreten Behauptungen geprüft werden (RS0116144; RS0037780).
+[4] 		3. Der Kläger zeigt in seinem Revisionsrekurs auch keine Fehlbeurteilung auf, die aus Gründen der Rechtssicherheit aufgegriffen und korrigiert werden müsste.
+[5] 		Die Schlüssigkeit eines geltend gemachten Anspruchs ist – wie gesagt – anhand der Prozessbehauptungen zu prüfen (RS0037780). Sekundäre Feststellungsmängel kommen bei dieser Schlüssigkeitsprüfung daher von vornherein nicht in Betracht. Die Rüge des Klägers, der vom Erstgericht festgestellte Sachverhalt sei unvollständig und ergänzungsbedürftig, geht daher ins Leere.
+[6] 		Das Sicherungsverfahren ist auf den von der gefährdeten Partei zur Individualisierung des zu sichernden Anspruchs herangezogenen Rechtsgrund zu beschränken (RS0005225). Der Kläger stützt den zu sichernden Hauptanspruch auf einen Schenkungsvertrag, der ihm bei richtiger Auslegung und/oder dessen Anpassung an den wahren Willen des Geschenkgebers im Weg einer Vertragskette gegenüber der Beklagten den Anspruch auf Einverleibung des Wohnungseigentums an einem Kfz-Abstellplatz verschaffen soll.
+[7] 		Das Rekursgericht verneinte die Schlüssigkeit seiner Prozessbehauptungen, weil der Kläger nach seinem Vorbringen weder Vertragspartner des mit dem behaupteten Willensmangel behafteten Schenkungsvertrags noch der Gesamtrechtsnachfolger des Geschenkgebers, sondern der Einzelrechtsnachfolger dieses Gesamtrechtsnachfolgers sei. Nach dem Klagevorbringen stehe er auch sonst in keiner (vertraglichen) Sonderbeziehung zur Beklagten, aus der sich der geltend gemachte Anspruch auf Herstellung der angeblich dem Willen des Geschenkgebers entsprechenden Rechtslage ableiten ließe.
+[8] 		Der Kläger bestreitet die Richtigkeit dieser Beurteilung (einzig) mit dem Argument, dass der Gesamtrechtsnachfolger des Geschenkgebers kein Interesse an der Verfolgung dieses Anspruchs habe, er daher aufgrund seiner alleinigen (faktischen) Betroffenheit auch als bloßer Einzelrechtsnachfolger anspruchslegitimiert sein müsse. Das Abstellen auf das Interesse an der Anspruchsverfolgung vermag ein Abgehen von grundlegenden Rechtsprinzipien – nämlich die Differenzierung zwischen Gesamt- und Einzelrechtsnachfolge – freilich nicht zu rechtfertigen. Auch die vom Kläger (bloß) in den Raum gestellte Anlehnung an die Drittschadensliquidation vermag diesen Systembruch rechtlich nicht zu begründen.
+[9] 		4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 528a ZPO iVm § 510 Abs 3 ZPO).
+[10] 		Für die vor Freistellung durch den Obersten Gerichtshof eingebrachte Revisionsrekursbeantwortung steht der Beklagten und Gegnerin der gefährdeten Partei gemäß der analog anzuwendenden Bestimmung des § 508a Abs 2 letzter Satz ZPO kein Kostenersatzanspruch zu (RS0124792).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0050OB00096.22M.1221.000

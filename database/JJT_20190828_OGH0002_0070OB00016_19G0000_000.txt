@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.08.2019
+Geschäftszahl
+7Ob16/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Parteien 1. B***** D***** GmbH, *****, und 2. E*****-Gesellschaft mbH, *****, beide vertreten durch Dr. Harald Schwendinger und Dr. Brigitte Piber, Rechtsanwälte in Salzburg, gegen die beklagte Partei B*****gesellschaft mbH, *****, vertreten durch Graf & Pitkowitz Rechtsanwälte GmbH in Wien, und deren Nebenintervenientin S***** GbR *****, vertreten durch Dr. Klaus Perktold, Rechtsanwalt in Innsbruck, wegen 1.510.704,70 EUR sA, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. November 2018, GZ 4 R 31/18k-180, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1.1. Nur wenn sich das Berufungsgericht mit der Beweisfrage überhaupt nicht befasst, ist sein Verfahren mangelhaft (RS0043371). Dagegen ist die Entscheidung des Berufungsgerichts über eine Beweisrüge schon dann mangelfrei, wenn es dazu nachvollziehbare Überlegungen anstellt und in seinem Urteil fest hält (RS0043162 [T1, T3, T4], vgl auch RS0040165). Wenn das Berufungsgericht zu themengleichen Tatfragen auf die schon an anderer Stelle angestellte Beurteilung der Beweisergebnisse verweist, dann ist die Erledigung der Beweisrüge deshalb – entgegen der Ansicht der Klägerinnen – weder unvollständig noch nicht nachvollziehbar.
+1.2. Soweit das Berufungsgericht Feststellungen aus rechtlichen Erwägungen für nicht relevant hält, braucht es diese nicht zu übernehmen und die dazu erhobene Beweisrüge folglich auch nicht zu erledigen. Ob das Berufungsgericht die Frage der rechtlichen Relevanz der betreffenden Feststellung richtig beurteilt hat, ist keine Frage der Beweiswürdigung, sondern im Rahmen der Rechtsrüge aufzuzeigen.
+1.3. Soweit die Klägerinnen die unterbliebene Einvernahme angebotener Zeugen beanstanden, handelt es sich um einen allfälligen Mangel des erstinstanzlichen Verfahrens, dessen Vorliegen das Berufungsgericht verneint hat und der deshalb nicht mit Erfolg im Revisionsverfahren geltend gemacht werden kann (RS0042963; RS0040246 [zur unterbliebenen Aufnahme von Kontrollbeweisen]).
+1.4. Die von den Klägerinnen behauptete Mangelhaftigkeit des Berufungsverfahrens liegt somit nicht vor.
+2. Eine Aktenwidrigkeit liegt nur dann vor, wenn der Inhalt einer Urkunde, eines Protokolls oder eines sonstigen Aktenstücks unrichtig wiedergegeben und infolgedessen ein fehlerhaftes Sachverhaltsbild der rechtlichen Beurteilung unterzogen wurde (RS0043347). Ein solcher Fall ist hier aber nicht gegeben. Vielmehr hat das Berufungsgericht in der Beweiswürdigung und in der rechtlichen Beurteilung des Erstgerichts enthaltene, aber eindeutig dem Tatsachenbereich zuzuordnende Ausführungen als Tatsachenfeststellungen behandelt. Diese Vorgangsweise ist durch vorliegende Rechtsprechung gedeckt (3 Ob 81/17h; 2 Ob 62/18h; vgl RS0043110). Die von den Klägerinnen behauptete Aktenwidrigkeit liegt demnach nicht vor.
+3.1. Die Auslegung von Tatsachenfeststellungen ist eine Frage des Einzelfalls (RS0118891). Ob Tatsachenfeststellungen insbesondere die Annahme der Arglist der Klägerinnen rechtfertigen, ist stets nach den Umständen des Einzelfalls zu beurteilen und begründet in der Regel keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RS0014827 [T4, T8]). Im Übrigen ist diese Frage genauso wenig entscheidungswesentlich, wie die Anwendbarkeit der in 3 Ob 122/05w angestellten Überlegungen zur Warnpflicht des Werkunternehmers:
+3.2. Nach den (teilweise disloziert getroffenen) Feststellungen des Erstgerichts haben die Klägerinnen den Irrtum der Beklagten über die Unterstellungshöhen durchschaut. In einem solchen Fall kommt nach vorliegender Rechtsprechung der Vertrag nicht auf der Basis des irrtümlich Erklärten, sondern im Sinn des vom Erklärenden (hier: der Beklagten) tatsächlich Gewollten zustande (RS0014050; RS0014808). Schon aus diesem Grund ist eine Nachforderung der Klägerinnen auf der Grundlage des von der Beklagten irrtümlich Erklärten ausgeschlossen.
+3.3. Infolge einer wirksamen Einigung der Parteien entsprechend dem von der Beklagten tatsächlich Gewollten ist auch ein Rückgriff auf Grundsätze vergaberechtlicher Ausschreibungskonzepte und die von den Klägerinnen behauptete Bereicherung ausgeschlossen.
+4. Die Klägerinnen zeigen demnach keine erhebliche Rechtsfrage auf. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision daher nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00016.19G.0828.000

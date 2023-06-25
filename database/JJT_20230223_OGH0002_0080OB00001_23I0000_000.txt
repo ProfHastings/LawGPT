@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2023
+Geschäftszahl
+8Ob1/23i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart in der Schuldenregulierungssache des DI Dr. A*, vertreten durch Dr. Karl Schön, Rechtsanwalt in Wien, über den außerordentlichen Revisionsrekurs des Schuldners gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien vom 16. November 2022, GZ 46 R 106/22m-28, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 528 Abs 1 ZPO iVm § 252 IO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Nach ständiger Rechtsprechung des Obersten Gerichtshofs ist im Insolvenzverfahren jeder zum Rekurs befugt, der in einem konkreten Recht verletzt sein kann, während ein bloß wirtschaftliches Interesse nicht genügt (RIS-Justiz RS0065135). Eine Rechtsmittellegitimation in Angelegenheiten, die den Gang des Verfahrens oder die Mitwirkung am Verfahren betreffen, ist vor allem dann anzuerkennen, wenn ein entsprechendes Antragsrecht zusteht (8 Ob 12/14v; 8 Ob 114/16x).
+[2] 		Nach § 186 Abs 2 IO ist dem Schuldner im Schuldenregulierungsverfahren die Eigenverwaltung zu entziehen, wenn (1.) die Vermögensverhältnisse des Schuldners insbesondere wegen der Zahl der Gläubiger und der Höhe der Verbindlichkeiten nicht überschaubar sind, (2.) die Umstände erwarten lassen, dass die Eigenverwaltung zu Nachteilen für die Gläubiger führen wird, oder (3.) der Schuldner kein genaues Vermögensverzeichnis vorgelegt hat.
+[3] 		Der Oberste Gerichtshof hat bereits zu 8 Ob 114/16x ausgesprochen, dass das Gericht beim Entzug der Eigenverwaltung entweder von Amts wegen oder auf Antrag vorgehen kann, wobei zur Antragstellung jedenfalls der Schuldner und die einzelnen Insolvenzgläubiger berechtigt sind (ebenso unter Hinweis auf das ausdrücklich geregelte Antragsrecht in § 190 Abs 2 IO Konecny in Buchegger, BeitrZPR V 82; Mohr in Konecny/Schubert § 186 KO Rz 9; Kodek, Privatkonkurs3 Rn 7.82; Blatt in KLS2 § 186 IO Rz 18). Die Entscheidung des Rekursgerichts, welches die Rekurslegitimation einer Insolvenzgläubigerin gegen die Abweisung ihres Antrags auf Entzug der Eigenverwaltung bejahte, folgt damit der bisherigen Rechtsprechung des Obersten Gerichtshofs zur Rekurslegitimation im Insolvenzverfahren.
+[4] 		Ob die Voraussetzungen für einen Entzug der Eigenverwaltung nach § 186 Abs 2 IO vorliegen, ist nach den jeweiligen Umständen zu beurteilen und hat dementsprechend keine über den Einzelfall hinausgehende Bedeutung.
+[5] 		Der Revisionsrekurs vermag auch keine Argumente aufzuzeigen, die eine aus Gründen der Rechtssicherheit aufzugreifende Fehlbeurteilung durch das Rekursgericht nachweisen (§ 510 Abs 3 ZPO).
+[6] 		Das Rekursgericht hat die Eigenverwaltung entzogen, weil insbesondere bei 24 Gläubigern Verbindlichkeiten von über 10 Mio EUR bestünden und die tatsächlichen Vermögensverhältnisse des Schuldners mangels Angaben zu seiner Wohnsituation nicht nachvollziehbar seien.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00001.23I.0223.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.09.2022
+Geschäftszahl
+2Ob129/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda, und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei 1. I* L*, 2. T* P*, beide vertreten durch Dr. Christian Schoberl, Rechtsanwalt in Graz, gegen die beklagte Partei R* KG, *, vertreten durch Rechtsanwälte Lang & Schulze-Bauer OG in Fürstenfeld, und die Nebenintervenientin auf Seiten der beklagten Partei Mag. M*, vertreten durch die Scherbaum Seebacher Rechtsanwälte GmbH in Graz, wegen 77.262,40 EUR, über die außerordentliche Revision der zweitklagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Graz als Berufungsgericht vom 19. Mai 2022, GZ 6 R 8/22y-32, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		2015 verkauften die Kläger ihre sich in der roten Gefahrenzone befindliche Liegenschaft samt Wohnhaus, wobei die beklagte Partei als Maklerin und die Nebenintervenientin als Vertragserrichterin agierten. Die Beklagte erkundigte sich bei der Gemeinde als Baubehörde ua zur Bebaubarkeit der Liegenschaft. Der Amtsleiter versicherte, dass diesbezüglich keine Beschränkungen vorlägen. Die Beklagte wurde nicht darüber informiert, dass sich die Liegenschaft in der roten Zone befindet, wodurch die (weitere) Bebaubarkeit stark eingeschränkt ist. Der Käufer machte in einem Vorprozess gegen die hier klagenden Parteien die Aufhebung (Wandlung) des Kaufvertrags erfolgreich geltend.
+[2] 		Die Kläger begehren die Rückzahlung der Provision nach § 7 Abs 2 MaklerG und machen darüber hinaus als Schadenersatz die ihnen im Vorprozess entstandenen Verfahrenskosten, kapitalisierte Zinsen und die frustrierten Kosten zum aufgehobenen Vertrag (Vertragserrichtungskosten, Grunderwerbssteuer, Eintragungsgebühr) geltend.
+[3] 		Das Erstgericht verurteilte die Beklagte rechtskräftig zur Rückzahlung der Provision und wies das Schadenersatzbegehren ab. Das Berufungsgericht bestätigte diese Entscheidung.
+Rechtliche Beurteilung
+[4] 		In seiner gegen das Berufungsurteil gerichteten außerordentlichen Revision zeigt der Zweitkläger keine erhebliche Rechtsfrage auf.
+[5] 		1.1. Der Immobilienmakler ist Sachverständiger iSd § 1299 ABGB, weshalb von ihm erwartet werden kann, über einschlägige Probleme Bescheid zu wissen und richtige Auskünfte zu erteilen (RS0109996 [T7]). Er hat den Auftraggeber jedenfalls über sämtliche Umstände zu unterrichten, die für die Beurteilung des zu vermittelnden Geschäfts wesentlich sind (RS0109996 [T8]). Eine besondere Nachforschungspflicht des Maklers besteht allerdings nicht; ihn trifft keine Aufklärungspflicht, die einer anwaltlichen Beratungstätigkeit gleichkommt (RS0112587). Wenn für den Makler keine Veranlassung besteht, an der Richtigkeit einer Information zu zweifeln, darf er sie weitergeben und ist nicht zu weiteren Nachforschungen verpflichtet (6 Ob 98/19h; vgl RS0112587 [T3, T5], RS0112586 [T2]). Der Makler ist somit im Allgemeinen nicht verpflichtet, sich über die Wahrheit der ihm zugekommenen Informationen zu vergewissern (6 Ob 98/19h).
+[6] 		1.2. Die Beurteilung einer Pflichtverletzung kann nur im Einzelfall vorgenommen werden (RS0109996 [T9]) und begründet im Regelfall keine erhebliche Rechtsfrage (4 Ob 242/19w, 5 Ob 1/20p ua).
+[7] 		2. Die Rechtsansicht des Berufungsgerichts, die Beklagte habe im Anlassfall auf die Auskunft der zuständigen Baubehörde zu fehlenden Einschränkungen bei der Bebaubarkeit vertrauen können und sei mangels konkreter Anhaltspunkte für das Vorliegen einer falschen Auskunft nicht verpflichtet gewesen, diese Angaben näher zu überprüfen, deckt sich mit der Rechtsprechung und wirft keine Frage iSd § 502 Abs 1 ZPO auf.
+[8] 		3. Der Hinweis auf 4 Ob 1/17a kann die Zulässigkeit des Rechtsmittels nicht stützen. Dieser Entscheidung lag zugrunde, dass der dort beklagte Makler über die Hochwasserproblematik bei der von ihm vermittelten Liegenschaft wusste, worüber er den klagenden Käufer aber nicht aufklärte, sodass der Ersatz eines (allfälligen) Vertrauensschadens für möglich erachtet wurde. Das unterscheidet sich aber von der hier vorliegenden Konstellation, weil diese davon geprägt ist, dass die Beklagte keine Informationen vorenthalten hat.
+[9] 		4. Auch die weiteren im Rechtsmittel zitierten Entscheidungen (4 Ob 242/01v; 4 Ob 8/02h; 2 Ob 176/10m; 6 Ob 98/19h; 6 Ob 115/21m) bieten keine Veranlassung zu einer Korrektur durch gegenteilige Sachentscheidung. Aus keiner dieser Entscheidungen ist abzuleiten, dass ein Makler ohne weitere Anhaltspunkte verpflichtet sein soll, die Richtigkeit einer von ihm bei der zuständigen Behörde eingeholten Auskunft zu überprüfen.
+[10] 		5. Da der Zweitkläger keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufzuzeigen vermag, ist seine Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00129.22T.0906.000

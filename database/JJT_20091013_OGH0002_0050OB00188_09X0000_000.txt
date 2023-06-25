@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.10.2009
+Geschäftszahl
+5Ob188/09x
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat des Obersten Gerichtshofs Dr. Höllwerth als Vorsitzenden sowie die Hofrätinnen/Hofräte des Obersten Gerichtshofs Dr. Hurch, Dr. Glawischnig, Dr. Roch und Dr. Tarmann-Prentner als weitere Richter in der Rechtssache der klagenden Partei R***** & S***** S***** GmbH, *****, vertreten durch die Ramsauer Rechtsanwälte GmbH in Salzburg, gegen die beklagte Partei S***** GmbH, *****, vertreten durch Dr. Martin Morscher, Rechtsanwalt in Vöcklabruck, wegen 59.892 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 14. Juli 2009, GZ 2 R 26/09w-16, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Klägerin begehrte von der Beklagten den ihr durch vermeintlich ungerechtfertigten Vertragsrücktritt entstandenen Nichterfüllungsschaden.
+Beide Vorinstanzen werteten den zum 1. Jänner 2008 zu erfüllen gewesenen Softwarelieferungsvertrag als Fixgeschäft, den zu einem Zeitpunkt, als die Unerfüllbarkeit zu diesem Termin feststand, erklärten Rücktritt der Beklagten als gerechtfertigt und das Klagebegehren folglich für nicht berechtigt.
+Rechtliche Beurteilung
+Die außerordentliche Revision führt vor allem ins Treffen, es lägen keine hinreichenden Tatsachengrundlagen für ein schlüssiges Abweichen von einem vereinbarten Formvorbehalt vor und in der Vertragsurkunde selbst sei kein - wie erforderlich - klarer Hinweis auf ein Fixgeschäft enthalten gewesen. Damit macht die Klägerin keine erhebliche Rechtsfrage geltend:
+Die rechtliche Qualifikation der Vereinbarung als Fixgeschäft, insbesondere auch die nach § 863 ABGB zu beurteilende Frage des schlüssigen Abgehens vom Schriftformgebot (vgl RIS-Justiz RS0042936 [T9]), würde nur dann eine erhebliche Rechtsfrage darstellen, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt worden wäre (vgl RIS-Justiz RS0042936); Letzteres trifft nach den Umständen des hier vorliegenden Falls nicht zu.
+Auf das beidseitig unternehmensbezogene Geschäft der Vertragsparteien ist auch § 919 zweiter Satz ABGB (unmittelbar) anzuwenden (zum Inkrafttreten des UGB und Aufhebung des § 376 Abs 1 HGB vgl Schauer in Krejci UGB Rz 1 f zu § 376). Selbst wenn man daher die wirksame Vereinbarung eines Schriftformgebots unterstellen (trotz entsprechender Behauptung unterblieb eine Feststellung) und die Voraussetzungen für ein konkludentes einverständliches Abgehen davon bezweifeln wollte, könnte dies nach § 919 zweiter Satz ABGB nichts an der Vertretbarkeit des von den Vorinstanzen gewonnenen Auslegungsergebnisses ändern. Der Charakter eines Fixgeschäfts ergibt sich nämlich nicht nur aus der Vereinbarung, dass für den Fall der Nichterfüllung zu einer bestimmten Zeit der Vertragsrücktritt erklärt wird, sondern auch daraus, dass der dem Schuldner bekannte Zweck der Leistung entnehmen lässt, der Gläubiger habe an der verspäteten Erfüllung kein Interesse mehr (vgl RIS-Justiz RS0018381; RS0018415; Binder/Reidinger in Schwimann³, § 919 ABGB Rz 5). Diese eindeutig festgestellten und der Klägerin bekannten Umstände des Zwecks des vereinbarten Erfüllungszeitpunkts unterliegen nicht dem Schriftformgebot, sodass es auf die Frage des (wirksamen) Abgehens davon nicht entscheidend ankommt.
+Das Berufungsgericht hat - entgegen der Behauptung der Klägerin - keine neuen Feststellungen (ohne Beweiswiederholung) getroffen, weshalb auch der behauptete Mangel des Berufungsverfahrens nicht vorliegt (§ 510 Abs 3 ZPO).
+Die Klägerin vermag in ihrer Revision keine Rechtsfragen von der Qualität des § 502 Abs 1 ZPO aufzuzeigen, weshalb diese zurückzuweisen war.

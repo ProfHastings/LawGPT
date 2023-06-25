@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.03.2008
+Geschäftszahl
+4Ob38/08d
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Zechner als Vorsitzenden und die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei S*****gesellschaft mbH & Co KG, *****, vertreten durch Dr. Andreas Reischl, Rechtsanwalt in Salzburg, gegen die beklagte Partei E***** GmbH, *****, vertreten durch Knoflach Kroker Tonini Rechtsanwälte in Innsbruck, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 33.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Linz vom 17. Jänner 2008, GZ 4 R 4/08y-10, in nichtöffentlicher Sitzung den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 402 Abs 4 EO iVm § 526 Abs 2 erster Satz ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Der Antrag auf Zuspruch der Kosten der Revisionsrekursbeantwortung wird gemäß § 508a Abs 2 Satz 2 ZPO und § 521a Abs 2 ZPO abgewiesen.
+Text
+Begründung:
+1. Die Klägerin veröffentlicht unter „salzburg.com" die Online-Ausgabe ihrer Tageszeitung, die im August 2007 mehr als 13 Millionen mal aufgerufen wurde. Die Beklagte kündigte an, unter „salzburg24.at" ebenfalls ein Online Medium betreiben zu wollen. Die Vorinstanzen haben unter anderem den Antrag der Klägerin abgewiesen, der Beklagten die Nutzung der Domain „salzburg24.at" oder einer verwechselbar ähnlichen Domain „je mit und ohne Inhalt" zu verbieten.
+Rechtliche Beurteilung
+2. Die Klägerin stützt sich in ihrer Zulassungsbeschwerde auf die §§ 9 und 1 UWG sowie auf § 43 ABGB. Es gelingt ihr aber nicht, das Vorliegen einer erheblichen Rechtsfrage aufzuzeigen.
+2.1. Kennzeichenrecht: Die Klägerin zeigt zutreffend auf, dass die Top-Level-Domain bei der Beurteilung der Zeichenähnlichkeit oder Zeichenidentität regelmäßig außer Betracht zu bleiben hat (RIS-Justiz RS0121896). Die an dieser Rechtsprechung geübte Kritik (Thiele, Von 1000 Rosen nach tirolcom.at, MR 2007, 103, 108 f mwN) ist hier nicht weiter zu erörtern, da die Beklagte die Top-Level-Domain der Klägerin - anders als in 4 Ob 185/06v (- tirolcom.at) - ohnehin nicht übernommen hat.
+Damit ist zu prüfen, ob sich die Klägerin auf den Schutz der Sub-Level-Domain „salzburg" berufen kann. Das ist nicht der Fall:
+Geografische Bezeichnungen sind zwar nicht absolut schutzunfähig; es fehlt ihnen aber im Allgemeinen die zur Kennzeichnung eines bestimmten Unternehmens erforderliche Unterscheidungskraft. Sie sind daher nur dann schutzfähig, wenn sie Verkehrsgeltung gewonnen haben, die angesprochenen Verkehrskreise in ihnen also einen eindeutigen
+Hinweis auf ein bestimmtes Unternehmen erblicken (4 Ob 19/88 = wbl
+1988, 366 - Oberösterreichische; 4 Ob 59/95 = ÖBl 1996, 141 - New
+Yorker; RIS-Justiz RS0079092; allgemein zur durch Benutzung erworbenen Unterscheidungskraft 4 Ob 38/06a = ÖBl 2007, 22 [Gamerith] - Shopping City mwN).
+Dass „Salzburg" in diesem Sinn als Herkunftshinweis auf die Klägerin und ihre Dienstleistungen verstanden würde, hat das Rekursgericht mit nachvollziehbarer Begründung verneint. Damit kann sich aber die Frage der kennzeichenrechtlichen Verwechslungsgefahr von vornherein nicht stellen.
+2.2. Unlauteres Verhalten: Bei Fehlen eines besonderen Tatbestandsmerkmals des § 9 UWG konnte zwar nach der Rechtsprechung zu § 1 UWG idF vor der Novelle 2007 auf die lauterkeitsrechtliche Generalklausel zurückgegriffen werden, wenn die Zeichenverletzung (auch) als sittenwidrige Handlung zu Zwecken des Wettbewerbs anzusehen war (4 Ob 126/01k = ÖBl 2002, 20 - Das blaue Rohr mwN; zuletzt etwa 4 Ob 185/06v - tirolcom.at; dazu Thiele, MR 2007, 103, 107 ff). Allerdings durften dadurch die Grenzen des kraft Verkehrsgeltung gewährten kennzeichenrechtlichen Schutzes nicht ohne weiteres unterlaufen werden (RIS-Justiz RS0114532). Es mussten im Einzelfall zusätzliche Umstände vorliegen, die die Annäherung an die fremde Kennzeichnung als unlauter erscheinen ließen (4 Ob 126/01k; 4 Ob 185/06v).
+In 4 Ob 185/06v hatte die Beklagte die gesamte Domain der Klägerin (tirol.com) ohne nachvollziehbaren Grund in ihre eigene Sub-Level-Domain übernommen (tirolcom.at). Damit war die Domain der Beklagten jener der Klägerin bei einer auch die Top-Level-Domain einbeziehenden Gesamtbetrachtung weit ähnlicher als hier; zudem wies der Inhalt der von der Beklagten betriebenen Website keinen Bezug zur Domain „tirol.com" auf. Die Annahme von Behinderungs- oder Ausbeutungsabsicht lag daher nahe (Thiele aaO). Wenn das Rekursgericht die Frage der Unlauterkeit im vorliegenden Fall anders beurteilte, hat es seinen Beurteilungsspielraum nach altem Recht keinesfalls überschritten. Dass die UWG-Novelle 2007 zu einer auch insofern erheblichen Änderung der Rechtslage geführt hätte, behauptet der Revisionsrekurs nicht. Diese Frage ist daher nicht weiter zu prüfen.
+2.3. Namensrecht: Auf § 43 ABGB hat sich die Klägerin in erster Instanz nicht berufen. Auch im Revisionsrekurs bleibt offen, in welchen „Namen" der Klägerin - bei der es sich nicht um das Land oder die Stadt Salzburg handelt - die strittige Domain eingreifen soll. Soweit die Klägerin damit ihre Domain meint, ist sie auf die Ausführungen zu § 9 UWG zu verweisen.

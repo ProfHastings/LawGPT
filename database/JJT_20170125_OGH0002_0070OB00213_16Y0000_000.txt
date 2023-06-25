@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2017
+Geschäftszahl
+7Ob213/16y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei J***** B*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei H***** AG, *****, vertreten durch Dr. Michael Kaufmann, Rechtsanwalt in Dornbirn, wegen 263.057,60 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 19. September 2016, GZ 4 R 110/16g-33, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger ist bei der Beklagten unfallversichert. Dem Versicherungsvertrag liegen die Allgemeinen Bedingungen für die Unfallversicherung (AUVB 2008) zugrunde. Diese lauten auszugsweise:
+„Artikel 2
+Begriff des Unfalles
+1. Ein Unfall liegt vor, wenn die versicherte Person durch ein plötzlich von außen auf ihren Körper wirkendes Ereignis (Unfallereignis) unfreiwillig eine Gesundheitsschädigung erleidet.
+...
+Artikel 22
+Ausschlüsse
+Nicht versichert gelten Krankheiten, auch nicht als Unfallfolge.
+...“
+Der Kläger traf bei einem Hallenfußballspiel nicht den Ball, sondern stieß stattdessen mit seinem linken Fuß gegen eine Sprossenwand. Dabei zog er sich eine leichte Verletzung (abgerissener Teil eines Zehennagels, blutendes Nagelbett) zu, bei der es dann zu einer seltenen, lebensgefährlichen Wundinfektion (nekrotische Fasziitis) kam. Zur Rettung des Klägers musste ihm das linke Bein oberhalb des Kniegelenks amputiert werden. Der Kläger begehrte Leistung aus der Unfallversicherung. Das Berufungsgericht bestätigte das dem Klagebegehren stattgebende Urteil des Erstgerichts. Die Beklagte macht in ihrer dagegen erhobenen Revision keine erhebliche Rechtsfrage geltend:
+Rechtliche Beurteilung
+1. Ein Unfall ist ein plötzlich von außen mit mechanischer Kraft auf den Körper einwirkendes Ereignis (7 Ob 78/16w mwN, RIS-Justiz RS0058130; RS0058077). Dass auch eigenes Verhalten zum Unfall beitragen, ihn sogar herbeiführen kann, ist in der Unfallversicherung nicht zweifelhaft. Ein Unfall liegt auch bei einem Ereignis vor, das vom Versicherten bewusst und gewollt begonnen und beherrscht wurde, sich dieser Beherrschung aber durch einen unerwarteten Ablauf entzogen und dann schädigend auf den Versicherten eingewirkt hat (RIS-Justiz RS0082008). Ein solcher Fall liegt auch hier vor, weil die zunächst gewollte Bewegung des linken Beines zum Ball durch den ungewollten Anstoß des Fußes an die Sprossenwand unterbrochen wurde. Die Vorinstanzen sind daher im Einklang mit bereits vorliegender Rechtsprechung vom Vorliegen eines Unfalls ausgegangen (vgl etwa 7 Ob 2/91 [Stolpern beim Tennis]; 7 Ob 9/91 [Pressball beim Fußball]; 7 Ob 224/07b [Stolpern an einer Baumwurzel beim Joggen]).
+2. Der Versicherungsnehmer muss – wie hier geschehen – in tatsächlicher Hinsicht einen natürlichen Kausalzusammenhang zwischen dem Unfall und der Unfallfolge beweisen (RIS-Justiz RS0080927 [T1]). Die Beurteilung der Adäquanz eines an sich gegebenen Ursachenzusammenhangs ist dann ein Akt der rechtlichen Beurteilung (RIS-Justiz RS0022582 [T2]). Eine Wundinfektion und eine Amputation einer Gliedmaße nach einer an sich geringfügigen Verletzung sind zwar keine üblichen, aber auch keine außerhalb jeder Lebenserfahrung liegenden Unfallfolgen (vgl 7 Ob 130/09g; ferner 7 Ob 224/07b). Die Bejahung der Adäquanz zwischen der leichten Unfallverletzung des Klägers und der anschließenden, mit schwerwiegenden Folgen verbundenen Wundinfektion ist daher – entgegen der Ansicht der Beklagten – jedenfalls keine unvertretbare und deshalb korrekturbedürftige Rechtsansicht, sondern hält sich im Rahmen höchstgerichtlicher Rechtsprechung.
+3. Unter den Unfallversicherungsschutz fallen grundsätzlich auch (nicht primäre) Wundinfektionen und sonstige durch die Unfallverletzung erst in weiterer Folge ausgelöste Krankheiten (RIS-Justiz RS0122799). Dass die vom Kläger als Unfallfolge erlittene Wundinfektion zufolge Art 22 AUVB 2008 als nicht versichert gelte, insofern also ein sekundärer Risikoausschluss (Krankheit als Unfallfolge) vorliege, hat die Beklagte zu behaupten (vgl RIS-Justiz RS0043515; 7 Ob 2077/96h; ferner RS0107031; 7 Ob 9/16y). Selbst wenn man das erstinstanzliche Vorbringen der Beklagten in dieser Richtung verstehen wollte, so hat sie diesen – selbstständigen – Einwand, wie sie in ihrer Revision selbst einräumt, in der Berufung nicht mehr aufgegriffen, weshalb das Berufungsgericht darauf nicht einzugehen hatte (RIS-Justiz RS0043338 [insb T13]).
+4. Die Beklagte zeigt damit insgesamt das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht auf. Die außerordentliche Revision ist demnach unzulässig und zurückzuweisen. Dies bedarf nach § 510 Abs 3 ZPO keiner weiteren Begründung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00213.16Y.0125.000

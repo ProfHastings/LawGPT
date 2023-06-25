@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.05.1954
+Geschäftszahl
+1Ob200/54
+Norm
+ABGB §1365;
+Kopf
+SZ 27/125
+Spruch
+Beim Eintritt von Zahlungsschwierigkeiten des Schuldners kann der Bürge nur begehren, daß der Schuldner dem Gläubiger Sicherheit leiste, nicht aber, daß ihm (dem Bürgen) der Schuldner eine Sicherheitsstellung für seinen Rückgriffsanspruch einräume.
+Entscheidung vom 6. Mai 1954, 1 Ob 200/54.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+In seiner Klage bringt der Kläger vor, die Beklagte habe bei einem Kreditinstitut ein Darlehen von 6000 S zugezählt erhalten, wofür der Kläger mit einer dritten Person die Bürgschaft übernommen habe. Dies sei in Form einer Wechselunterfertigung erfolgt. Die beklagte Partei sei bis vor kurzem mit dem Kläger derart in Verbindung gestanden, daß sie das für das Geschäft notwendige Gebäck bei ihm bezogen habe, so daß er durch Abzug von der Detailpreissumme für die Rücklegung von Raten Vorsorge habe treffen können und daß er über den Umfang des Geschäftes informiert gewesen sei. Nunmehr sei jedoch die beklagte Partei nach eigenen Mitteilungen in Schwierigkeiten geraten, beabsichtige das Geschäft zu verkaufen und habe den Warenbezug beim Kläger eingestellt. Der Kläger beantrage daher das Urteil, die beklagte Partei sei schuldig, ihm für die geleistete Bürgschaft von 6000 S samt Anhang Sicherheit zu leisten und die Prozeßkosten zu bezahlen. Von dieser Sicherheitsleistung könne sich die beklagte Partei durch Übergabe des von ihr und der klagenden Partei gefertigten Blanco-Wechsels befreien.
+Vom Erstgericht wurde mit Versäumungsurteil vom 13. November 1953 gemäß dem Klagebegehren erkannt.
+Der Berufung der beklagten Partei gab das Berufungsgericht Folge und änderte das angefochtene Urteil dahin ab, daß das Klagebegehren abgewiesen wurde. Die Sicherstellung, die der Bürge gemäß § 1365 ABGB. vom Hauptschuldner verlangen könne, betreffe, wie das Gesetz besonders hervorhebe, die "verbürgte Schuld", also nicht, wie im Falle des § 1364 ABGB. den allfälligen Rückgriffsanspruch des Bürgen. Der Bürge könne somit nach § 1365 ABGB. nicht begehren, daß der Hauptschuldner ihm selbst Sicherheit leiste.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Ausführungen in der Revision sind nicht geeignet, die zutreffende Rechtsansicht des Berufungsgerichtes zu widerlegen. Diese Rechtsauffassung ist von Krasnopolski. Grünhuts Zeitschrift 15, 62 ff., ausführlich begrundet worden. Ihm folgen seither Lehre und Rechtsprechung (Ehrenzweig, Obligationenrecht 1928, S. 125; Ohmeyer in Klang Komm., 1. Aufl., IV. Band, S. 851, 2. Aufl., VI. Band, S. 247; Robert Mayr, Lehrbuch des bürgerlichen Rechts, 3. Buch, Reichenberg 1922, S. 103; OGH. 25. März 1931, SZ. XIII/93). Hievon abzugehen bieten die Ausführungen in der Revision keinen Anlaß.
+Das Bedenken, das der Revisionswerber aus der Notwendigkeit der Bereitstellung eines doppelten Zahlungsfonds ableiten will, wird von ihm offenbar mißverstanden. Gerade dann, wenn man der herrschenden Auffassung folgt, braucht der Schuldner die Zahlungsmittel nur einmal bereitzuhalten, weil eben der Bürge nur Anspruch darauf hat, daß der Schuldner die Zahlung an den Gläubiger, nicht aber daß er seinen, des Bürgen, Rückgriffsanspruch sicherstelle. Wollte man der Auffassung des Revisionswerbers folgen, so könnte der Bürge die Sicherstellung seiner Rückgriffsordnung verlangen, darüber hinaus wäre aber der Schuldner verpflichtet, bei Verfall dem Gläubiger zu zahlen, ohne daß er dafür die für den Bürgen gebundenen Mittel verwenden könnte. Gerade dieses Ergebnis soll aber vermieden werden.
+Auch davon, daß im Klagebegehren die Sicherstellung des Gläubigers als Minus enthalten wäre, kann keine Rede sein. Der Kläger verlangt, daß ihm für die geleistete Bürgschaft Sicherheit bestellt werde. Hievon ist aber der Anspruch des Gläubigers, Sicherheit verlangen zu können, den eben nach § 1365 ABGB. der Bürge für den Gläubiger geltend machen kann, nach Voraussetzungen und Rechtsgrund verschieden.

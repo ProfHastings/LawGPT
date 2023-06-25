@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.02.1952
+Geschäftszahl
+2Ob118/52
+Norm
+ZPO §141;
+ZPO §243 (1);
+Kopf
+SZ 25/41
+Spruch
+Unter den Voraussetzungen des § 141 ZPO. ist ein Rekurs gegen die Bewilligung einer Fristverlängerung selbst dann unzulässig, wenn es sich um eine unerstreckbare Notfrist handelt oder wenn die Voraussetzungen für eine Fristverlängerung fehlten.
+Entscheidung vom 13. Februar 1952, 2 Ob 118/52.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Beklagte hat zwei Tage vor dem Ablauf der ihm in der Dauer von vier Wochen gewährten Frist zur Erstattung der Klagebeantwortung um eine Verlängerung um weitere vier Wochen angesucht, da er seinem Vertreter infolge geschäftlicher Verhinderung noch nicht habe informieren können.
+Das Erstgericht gab dem Antrag statt.
+Das Rekursgericht wies ihn ab.
+Der Oberste Gerichtshof stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die vom Rekursgericht vertretene, allerdings der Praxis der Gerichte widersprechende Ansicht über den Charakter der Frist zur Klagebeantwortung nach § 243 Abs. 1 ZPO. als einer unerstreckbaren Notfrist ist keineswegs so abwegig, wie der Revisionsrekurs annimmt. Abgesehen von der in der angefochtenen Entscheidung zitierten Entscheidung des Oberlandesgerichtes Wien vom 18. August 1949, EvBl. 1949, Nr. 618, wird die Meinung, es handle sich um eine Maximalfrist, die auf keinen Fall, demnach auch nicht auf dem Umweg über eine Erstreckung gemäß §§ 128, 140, 141 ZPO., überschritten werden dürfe, auch von Horten, ZPO., S. 509, vertreten. Richtig ist allerdings, daß sich aus Neumann, S. 692, ableiten läßt, daß er diese Frist nicht zu den Notfristen, bzw. unerstreckbaren richterlichen Fristen (vgl. §§ 37 (2), 85 (2), aber auch 6 ZPO.) zählt und daß Sperl, S. 252, 535, die Klagebeantwortungsfrist ebenso wie Pollak, System, S. 346, ebenfalls zu den erstreckbaren rechnen.
+Die Frage muß also zumindest als strittig angesehen werden. Es kann aber dahingestellt bleiben, welche dieser Lehrmeinungen zutrifft. Denn jedenfalls kann nicht daran vorübergegangen werden, daß die Klagebeantwortungsfrist tatsächlich verlängert wurde, u. zw. im Rahmen des § 141 ZPO., nämlich zum erstenmal und nicht weiter als im Ausmaß der ursprünglichen Frist. In einem solchen Fall ist aber ein Rekurs gegen die Verlängerung der Frist unzulässig (§ 141 ZPO.). Sogar wenn unzulässigerweise eine Fristverlängerung bewilligt wurde, obwohl die Voraussetzungen dafür fehlten, z. B. weil das Ansuchen erst nach Ablauf der ursprünglichen Frist gestellt wurde, findet ein Rechtsmittel nicht statt (ZBl. 1933, Nr. 15). Eine andere Auslegung der einschlägigen Vorschriften (§§ 128, 141, 243 ZPO.) würde übrigens an der Erwägung scheitern, daß jemanden, der im Vertrauen auf eine Fristerstreckung die Klagebeantwortung in der ursprünglichen Frist nicht erstattete, nicht die Säumnisfolgen nach § 399 ZPO. treffen können. Der Rekurs des Klägers wäre darum als unzulässig zurückzuweisen gewesen, und dem Revisionsrekurs gegen die rekursgerichtliche Entscheidung, welche diese Rechtslage unbeachtet gelassen hat, kommt schon aus diesem Gründe Berechtigung zu (vgl. 2 Ob 759/50).

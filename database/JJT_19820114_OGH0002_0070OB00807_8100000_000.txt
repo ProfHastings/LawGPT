@@ -1,0 +1,47 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.01.1982
+Geschäftszahl
+7Ob807/81
+Norm
+ABGB §905;
+ABGB §1438;
+HGB §347;
+KO §3 Abs2;
+KO §19 Abs1;
+KO §20 Abs1;
+Kopf
+SZ 55/3
+Spruch
+Durch die Umbuchung des Guthabens eines Kunden von einem auf ein anderes Konto zur Verringerung des dortigen Passivstandes nimmt die Bank eine Aufrechnung vor, die nach Konkurseröffnung gegenüber der Masse keine Wirkung hat
+Ohne Vorliegen besonderer Umstände ist eine Bank nicht verpflichtet, durch tägliche telefonische Anrufe beim Konkursgericht oder Nachschau an der dortigen Amtstafel zu prüfen, ob Konkurseröffnungen einen ihrer Kunden betreffen
+OGH 14. Jänner 1982, 7 Ob 807/81 (LGZ Graz 27 R 260/81; BGZ Graz 7 C 325/81)
+Text
+Über das Vermögen des am 6.3. 1981 verstorbenen Fritz U wurde mit Beschluß des LG für ZRS Graz vom 26. 6. 1980 der Konkurs eröffnet. Eine Verständigung der beklagten Bank von der Konkurseröffnung iS des § 77 Abs. 3 KO ist nicht erfolgt.
+Zum Zeitpunkt der Konkurseröffnung unterhielt der Gemeinschuldner bei der Filiale der Beklagten am B-Platz in G zwei Konti, auf denen nach der Konkurseröffnung folgende Bewegungen stattfanden:
+A. Konto Nr. 0000-165076:
+Stand am 26. 6. 1980 zu Lasten des Gemeinschuldners ...... 6481.53 S
+3. 7. 1980 Überweisung vom zweiten Konto.................. 8500,-  S
+davon Abzug für Zinsen, Provisionen und Spesen ...........  963.47 S
+daher Stand............................................... 1055,-  S
+welcher Betrag auf das andere (zweite) Konto rückgebucht wurde.
+B. Konto Nr. 0101-022796:
+Guthaben des Gemeinschuldners am 26.6. 1980...............   86.77 S
+2. 7. 1980 Eingang ......................................11 247.91 S
+3. 7. 1980 Behebung.....................................  2 125,-  S
+8. 7. 1980 Behebung..................................... 12 872,-  S
+3. 7. 1980 die erwähnte Überweisung auf Konto A.......... 8 500,-  S
+8. 7. 1980 der erwähnte Eingang von Konto A...............1 055,-  S
+Von der Konkurseröffnung erlangte der Beklagte durch die "Grazer Zeitung" vom 4. 7. 1980 Kenntnis, die am 7. 7. 1980 in ihrer Hauptanstalt einlangte.
+Der klagende Masseverwalter begehrt Zahlung von 23 497 S samt Anhang, wobei er die Kontobewegungen vom 3. 7. 1980 (Behebung von 2125 S und Überweisung von Konto B auf Konto A von 8500 S und die Behebung vom 8. 7. 1980 in Höhe von 12 872 S als ihm gegenüber unwirksam bezeichnet, weil die Beklagte zum Zeitpunkt dieser Buchungsvorgänge bereits Kenntnis von der Konkurseröffnung hätte haben müssen.
+Während das Erstgericht eine verschuldete Unkenntnis der Beklagten von der Konkurseröffnung annahm und daher dem gesamten Klagebegehren stattgab, bestätigte das Berufungsgericht diese Entscheidung nur bezüglich des Zuspruches von 12 872 S samt Anhang (Behebung vom 8. Juli 1980), während es das Mehrbegehren von 10 625 S samt Anhang abwies. Der bestätigende Teil ist in Rechtskraft erwachsen. Bezüglich des abgewiesenen Mehrbegehrens (Behebung von 2125 S am 3. 7. 1980 und Umbuchung von 8500 S am selben Tage) vertrat es den Standpunkt, die Beklagte habe bewiesen, daß sie kein Verschulden an der Unkenntnis von der Konkurseröffnung getroffen hat. Was den Betrag von 8500 S anlange, handle es sich um eine bloße Transferierung von einem Konto auf das andere, sohin um keinen Vorgang, durch den die anderen Gläubiger benachteiligt worden seien.
+Der Oberste Gerichtshof gab der Revision des Klägers gegen den klagsabweisenden Teil des Berufungsurteils teilweise Folge und änderte das Berufungsurteil in den Zuspruch weiterer 8500 S samt Anhang ab.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Was die Behebung von 2125 S am 3. 7. 1980 anlangt, kann den Ausführungen der Revision nicht gefolgt werden. Gemäß § 3 Abs. 2 KO wird der Verpflichtete durch die Zahlung einer Schuld an den Gemeinschuldner nach der Konkurseröffnung nicht befreit, es sei denn, daß das Geleistete der Konkursmasse zugewendet worden ist oder daß dem Verpflichteten zur Zeit der Leistung die Konkurseröffnung nicht bekannt war und daß die Unkenntnis nicht auf einer Außerachtlassung der gehörigen Sorgfalt beruht. Nicht der Masseverwalter hat also zu beweisen, daß dem Schuldner zur Zeit der Leistung die Konkurseröffnung wenigstens bekannt sein mußte, sondern der auf Zahlung belangte Schuldner muß beweisen, daß ihm die Konkurseröffnung weder bekannt war, noch bekannt sein mußte (Bartsch - Pollak[3] I 54; SZ 33/40; EvBl. 1965/191 ua.).
+Im vorliegenden Fall hat auch der Kläger zugestanden, daß die Beklagte am 3. 7. 1980 noch keine Kenntnis von der Konkurseröffnung hatte. Nach Auffassung des Erstrichters wäre die Beklagte jedoch verpflichtet gewesen, sich täglich entweder durch telefonische Anrufe beim Konkursgericht oder durch das Studium der Anschläge an der Konkurstafel davon zu überzeugen, ob gegen eine ihrer Kunden der Konkurs eröffnet worden ist. Mit Recht hat das Berufungsgericht darin überspitzte Anforderungen an die Sorgfaltspflichten einer Bank erblickt. Täglich telefonische Anrufe beim Konkursgericht, die schließlich nicht nur von Banken, sondern auch von anderen größeren Unternehmungen gefordert werden müßten, würden, wie das Berufungsgericht richtig erkannt hat, zu einem Zusammenbruch der Tätigkeit des Konkursgerichtes führen. Daß aber sämtliche größeren Unternehmungen jeden Tag die Anschläge an der Amtstafel des Konkursgerichtes studieren und dahin überprüfen müßten, ob sich unter den Personen, gegen die der Konkurs eröffnet worden ist, auch Kunden befinden, ist weder üblich noch bei der Organisation von Betrieben praktisch durchführbar. Da die Verpflichtung zur amtlichen Veröffentlichung von Insolvenzverfahren besteht, wird man daher im allgemeinen eine Verfolgung dieser Veröffentlichungen im entsprechenden Amtsblatt als ausreichende Maßnahme zwecks Verschaffung der notwendigen Kenntnis ansehen müssen. Zwar muß derjenige, der Zahlungen an den Gemeinschuldner nach Konkurseröffnung geleistet hat, auch beweisen, daß seine Unkenntnis nicht auf einer Außerachtlassung der gehörigen Sorgfalt beruhte. Gerade die Umstände dieses Falles lassen aber eine solche Außerachtlassung der gehörigen Sorgfalt nicht erkennen. Der Gemeinschuldner hatte nur zwei kleine Konten bei der Beklagten. Außergewöhnliche Überziehungen dieser Konten wurden nicht festgestellt. Auch sonst spricht nichts dafür, daß aus dem Kontakt des Gemeinschuldners zur Beklagten Schlüsse auf dessen finanzielle Schwäche möglich gewesen wären. Daß im vorliegenden Fall außergewöhnliche Umstände besondere Vorsichtsmaßnahmen erfordert hätten, wurde nicht einmal behauptet.
+Mit Recht hat sohin das Berufungsgericht eine verschuldete Unkenntnis der Beklagten von der Konkurseröffnung am 3. 7. 1980 nicht angenommen, weshalb die Auszahlung der 2125 S an diesem Tage auch mit schuldbefreiender Wirkung gegenüber der Masse erfolgt ist.
+Was dagegen den Betrag von 8500 S anlangt, haben die Untergerichte unbeachtet gelassen, daß der Aktivstand des Kontos 0101-022796 nur durch den Eingang von 11 247.91 S am 2. 7. 1980, also nach Konkurseröffnung, erreicht worden ist. Nur dieser Eingang hat eine Umbuchung der 8500 S ermöglicht. Damit kann aber keinesfalls mehr davon ausgegangen werden, daß es sich bei dieser Umbuchung um einen reinen Buchungsvorgang gehandelt hat. Vielmehr wurde durch den Eingang auf das eine Konto eine Forderung des Gemeinschuldners gegen die kontoführende Bank begrundet (vgl. Bydlinski in Klang[2] IV/2, 331 f.; Koziol - Welser[5] I 184). Durch die Umbuchung des Guthabens von dem einen auf das andere Konto und die dadurch vorgenommene Verringerung des Passivstandes des anderen Kontos hat die Beklagte eine Aufrechnung vorgenommen. Nach § 19 Abs. 1 KO können jedoch nur Forderungen, die zur Zeit der Konkurseröffnung bereits aufrechenbar waren, mit Wirkung für den Konkurs vorgenommen werden. Die Aufrechnung ist dagegen gemäß § 20 Abs. 1 KO unzulässig, wenn ein Konkursgläubiger erst nach der Konkurseröffnung Schuldner der Konkursmasse geworden ist.
+Der Grundsatz der Gleichbehandlung aller Konkursgläubiger hat zur Folge, daß nach der Konkurseröffnung weder eine neue Konkursforderung entstehen noch eine bestehende durch spätere Rechtshandlungen irgendeiner Person eine Vorzugstellung vor anderen Forderungen erlangen kann. Diesem Grundsatz entspricht es, daß nach der Konkurseröffnung auch die Entstehung der Aufrechenbarkeit ausgeschlossen ist. Eine Aufrechnung, die nach § 20 Abs. 1 KO unzulässig ist, hat der Masse gegenüber keine Wirkung. Die zur Masse gehörige Forderung bleibt im vollen Umfang bestehen, die Gegenforderung ebenfalls (Bartsch - Pollak[3] I 116).
+Da sohin die Beklagte bezüglich der 8500 S mit einer erst nach Konkurseröffnung entstandenen Forderung des Gemeinschuldners aufgerechnet hat, ist dieser Vorgang gegenüber der Masse wirkungslos. Vielmehr kann der Masseverwalter die Herausgabe des Guthabens, das durch die unwirksame Aufrechnung nicht berührt worden ist, verlangen. Daß die Beklagte bei ihrer Umbuchung auf dem anderen Konto zu einem Aktivsaldo des Gemeinschuldners gelangt, ist ohne Bedeutung, weil der Buchungsvorgang als gegen das Aufrechnungsverbot verstoßend keinerlei Wirkung hat. Die Beklagte kann daher auch das andere Konto so behandeln, als ob die Aufrechnung nicht vorgenommen worden wäre. Jenes Konto jedoch, das ein Guthaben des Gemeinschuldners ergibt, muß sie auf Wunsch des Masseverwalters zu dessen Gunsten verwenden.

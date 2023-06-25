@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.09.2018
+Geschäftszahl
+10ObS77/18y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Univ.-Prof. Dr.
+Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter Mag. Dr. Rolf Gleißner (aus dem Kreis der Arbeitgeber) und Dr. Wolfgang Kozak (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei E*****, vertreten durch Vogel Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei Versicherungsanstalt für Eisenbahnen und Bergbau, 1060 Wien, Linke Wienzeile 48–52, wegen Versehrtenrente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 5. Juni 2018, GZ 23 Rs 8/18z-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Das Versicherungsbedürfnis wird durch die Maßnahmen medizinischer Rehabilitation oder der Gesundheitsvorsorge begründet, denen sich der (zu rehabilitierende) Versicherte in der Anstalt unterzieht. Der Unfallversicherungsschutz erstreckt sich nur auf Ausübungshandlungen des Versicherten, die mit der geschützten Tätigkeit im zeitlichen, örtlichen und ursächlichen Zusammenhang stehen. So sind Spaziergänge außerhalb der therapeutisch angeordneten Behandlungen dem privatwirtschaftlichen Betrieb zuzurechnen, auch wenn sie als eine zur Erhaltung und Wiederherstellung der Gesundheit dienende Maßnahme empfohlen wurden (10 ObS 238/00y, SSV-NF 14/111 = ZAS 2002/4, 25 [Taxerer]; RIS-Justiz RS0114053).
+2. Betriebliche Gemeinschaftsveranstaltungen stehen nur dann unter Unfallversicherungsschutz, wenn die Teilnahme als Erwerbstätigkeit angesehen werden kann. Die Abgrenzung zum eigenwirtschaftlichen Bereich hängt davon ab, in welcher Intensität die Veranstaltung betrieblichen Zwecken dient und inwieweit private Interessen mitspielen, insbesondere inwieweit sich die Versicherten zur Teilnahme verpflichtet fühlen mussten (10 ObS 151/15a, SSV-NF 30/20 = DRdA 2016/41, 357 [Engelhart] = DRdA-infas 2016/106, 157 [Markovic] mwN).
+3. Die Entscheidung des Berufungsgerichts, das den Unfall der Klägerin, der sich anlässlich eines von der Rehabilitationsanstalt organisierten Ausflugs ereignete, nicht als Arbeitsunfall iSd § 8 Abs 1 Z 3 lit c ASVG iVm § 175 ASVG ansah, entspricht der Rechtsprechung des Obersten Gerichtshofs. Die Klägerin nahm während ihres Rehabilitationsaufenthalts in der therapiefreien Zeit (sonntags) an einem von der Reha-Klinik organisierten Busausflug teil, bei dem nur wenige Patienten auf freiwilliger Basis und (außer dem Busfahrer) kein Personal der Klinik mitfuhren. Auch wenn die Teilnahme an derartigen Ausflügen am Wochenende den Erfolg einer Therapie positiv beeinflussen kann, wie dies generell bei einer sinnvollen Freizeitbeschäftigung außerhalb der eigentlichen Therapiezeiten der Fall ist, stellt die freiwillige Teilnahme an angebotenen Ausflügen ohne objektiv beim Versicherten ausgelöstes Empfinden, sich zur Teilnahme verpflichtet zu fühlen, keinen einen Unfallversicherungsschutz begründenden Zusammenhang mit der nach § 8 Abs 1 Z 3 lit c letzter Fall ASVG geschützten Unterbringung in einer (auch) der medizinischen Rehabilitation dienenden Einrichtung dar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:010OBS00077.18Y.0913.000

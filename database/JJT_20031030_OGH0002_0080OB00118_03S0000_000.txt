@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.10.2003
+Geschäftszahl
+8Ob118/03s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Rohrer, Dr. Spenling und Dr. Kuras sowie die Hofrätin des Obersten Gerichtshofes Dr. Lovrek als weitere Richter in der Rechtssache der klagenden Partei E***** AG, *****, vertreten durch Neudorfer, Griensteidl, Hahnkamper, Stapf & Partner, Rechtsanwälte in Wien, wider die beklagten Parteien 1. W***** GmbH, *****, 2. Andreas W*****, vertreten durch Dr. Karl F. Engelhart und andere, Rechtsanwälte in Wien, wegen EUR 334.793,20 sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 8. August 2003, GZ 1 R 146/03b14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die hier maßgebliche Wechselverpflichtung wurde zur Absicherung eines Kreditvertrages bzw eines Bürgschaftsvertrages eingegangen.
+Z 56 der Allgemeinen Geschäftsbedingungen der klagenden Sparkasse lautet wie folgt:
+"1. Das Kreditinstitut darf die ihm als Sicherheit bestellten Forderungen aller Art (einschließlich der in Wertpapieren verbrieften) bei Fälligkeit der gesicherten Forderung kündigen und einziehen. Vorher ist die Einziehung der als Sicherheit dienenden Forderung bei deren Fälligkeit zulässig. Bei drohendem Wertverlust der als Sicherheit dienenden Forderung ist deren Kündigung selbst vor ihrer Fälligkeit zulässig. Der Kunde ist davon nach Möglichkeit vorweg zu informieren. Vor Fälligkeit der besicherten Forderung eingezogene Beträge treten als Pfand an die Stelle der eingezogenen Forderung."
+Zur Besicherung der Kreditverpflichtung wurden auch Aktien verpfändet. Es wurde aber nicht vereinbart, dass die klagende Sparkasse verpflichtet ist, bei drohendem Kursverfall eine Veräußerung der verpfändeten Aktien vorzunehmen.
+Rechtliche Beurteilung
+Die Ausführungen der außerordentlichen Revision der Beklagten erschöpfen sich zusammengefasst darin, dass die klagende Sparkasse wegen des bei den verpfändeten Aktien eingetretenen Kursverlustes und weil sie selbst eine Verkaufsempfehlung für die Aktien wegen drohender Insolvenzgefährdung abgegeben habe, verpflichtet gewesen sei, die Aktien zu verkaufen. Eine dahingehende vertragliche Verpflichtung haben die Beklagten - wie ausdrücklich festgestellt wurde - nicht nachgewiesen. Soweit sie sich auf die allgemeinen Obliegenheiten und Pflichten des Pfandgläubigers und die Schutz- und Sorgfaltspflichten stützen, sind sie darauf zu verweisen, dass sich das Pfandrecht als Recht des Gläubigers darstellt und es an den Beklagten gelegen wäre, konkrete Verpflichtungen zur Verwertung des Pfandes nachzuweisen. Nach § 459 ABGB ist der Pfandgläubiger gar nicht berechtigt, die Pfandsache eigenmächtig zu veräußern (vgl Hofmann in Rummel ABGB3 § 459 Rz 2 mwN aus der Judikatur; Hinteregger in Schwimann ABGB2 § 459 Rz 2). Ausführungen dazu sowie etwa zu Art 8 Nr 15 EVHGB finden sich auch gar nicht.
+Allein aus dem Umstand, dass der Klägerin den Vertragsbestimmungen nach ein zusätzliches "Recht" eingeräumt wurde, kann nach allgemeinen Rechtsgrundsätzen eine Verpflichtung zur Ausübung dieses Rechtes nicht abgeleitet werden. Vielmehr bleibt es dem Gläubiger überlassen, ob er zur Wahrnehmung seiner Interessen dieses Recht ausübt (vgl allgemein zum subjektiven Recht als "Rechtsmacht, die dem einzelnen zur Befriedigung menschlicher Interessen von der Rechtsordnung verliehen ist und deren Geltendmachung allein vom Willen des Berechtigten abhängt", Koziol/Welser, Bürgerliches Recht12, 43; RISJustiz RS0113452). Es bedürfte daher weiterer konkreter rechtlicher Grundlagen für die Annahme einer solchen Verpflichtung, die jedoch allein in dem erwarteten Kursverfall und der in diesem Zusammenhang ergangenen Empfehlung der Klägerin nicht dargestellt werden. Dass der Zweitbeklagte (Aufsichtsratsmitglied) die Absicht gehabt hätte, seine Aktien zu verkaufen oder nicht informiert gewesen wäre, wurde gar nicht geltend gemacht. Es war für die Klägerin auch gar nicht vorhersehbar, ob ein Verkauf der verpfändeten Wertpapiere überhaupt der wirtschaftlichen Einschätzung der Eigentümer entsprochen hätte.
+Insgesamt vermögen es die Beklagten jedenfalls nicht, eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO darzustellen.

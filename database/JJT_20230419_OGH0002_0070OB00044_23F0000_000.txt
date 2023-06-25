@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+7Ob44/23f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei E* K*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG in Wien, gegen die beklagte Partei T* Limited, *, vertreten durch die DLA Piper Weiss-Tessbach Rechtsanwälte GmbH in Wien, wegen 59.383 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 13. Februar 2023, GZ 15 R 150/22x-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte hat ihren Sitz in Malta. Sie verfügt über keine nationale Glücksspiellizenz in Österreich, bietet aber hier auf einer von ihr betriebenen Website Online- Glücksspiele an. Der Kläger beteiligte sich daran und erlitt im Zeitraum August 2019 bis Juli 2021 Verluste in Höhe des Klagebetrags.
+[2] 		Die Vorinstanzen gaben der vom Kläger auf die Unwirksamkeit der Glücksspielverträge gestützten Klage auf Rückersatz statt.
+Rechtliche Beurteilung
+[3] 		Die Revision ist mangels Vorliegens einer erheblichen Rechtsfrage im Sinn von § 502 Abs 1 ZPO unzulässig:
+[4] 		1. Die behaupteten Mangelhaftigkeiten des Berufungsverfahrens wurden geprüft, liegen jedoch nicht vor (§ 510 Abs 3 Satz 3 ZPO).
+[5] 		2. Wenn sich – wie hier – ein ausländischer Dienstleister im Bereich des Glücksspiels über das Internet auf den österreichischen Markt ausrichtet, sind grundsätzlich alle vertragsrechtlichen Fragen nach dem einheitlichen Verbraucherstatut zu beurteilen (Art 6, Art 12 Abs 1 Rom I-VO). Auch die Rückabwicklung eines nichtigen Vertrags (Art 12 Abs 1 lit e Rom I-VO) richtet sich somit nach österreichischem Recht (7 Ob 213/21f mwN; 6 Ob 12/22s; 6 Ob 50/22d). Der EuGH hat auch bereits klargestellt, dass im Verbrauchergeschäft eine nicht im Einzelnen ausgehandelte Rechtswahlklausel, die den Verbraucher nicht über die von Art 6 Abs 2 Rom I-VO vorgesehene Weitergeltung der zwingenden Verbraucherschutzbestimmungen seines Heimatrechts aufklärt, missbräuchlich im Sinn des Art 3 Abs 1 der Klausel-Richtlinie ist (EuGH C-191/15, VKI/Amazon, Rn 71; 7 Ob 213/21f mwN). Ausgehend von dieser Rechtsprechung kann die Revision nicht nachvollziehbar darlegen, warum im konkreten Fall maltesisches Recht anwendbar sein sollte. Die Anwendung österreichischen Rechts durch die Vorinstanzen ist daher nicht korrekturbedürftig.
+[6] 		2.1. Der Oberste Gerichtshof hat – im Einklang mit der Rechtsprechung der beiden anderen österreichischen Höchstgerichte – auf Basis der einschlägigen Judikatur des Gerichtshofs der Europäischen Union (EuGH) in mehreren aktuellen Entscheidungen neuerlich festgehalten, dass das österreichische System der Glücksspiel-Konzessionen einschließlich der Werbemaßnahmen der Konzessionäre im hier relevanten Zeitraum nach gesamthafter Würdigung aller tatsächlichen Auswirkungen auf den Glücksspielmarkt allen vom EuGH aufgezeigten Vorgaben entspricht und nicht gegen Unionsrecht verstößt (2 Ob 221/22x; 1 Ob 171/22m; 1 Ob 25/23t, jeweils mwN). Die Beurteilung des Berufungsgerichts entspricht dieser Rechtsprechung.
+[7] 		2.2. Auch der Hinweis auf die Aufhebung von Teilen des § 25 Abs 3 GSpG durch den Verfassungsgerichtshof (G 259/2022) ändert an dieser Beurteilung nichts. Mag der Gesetzgeber durch das (primäre) Abstellen (nur) auf die Einholung einer Bonitätsauskunft den unionsrechtlich gebotenen Spielerschutz von Spielbankbesuchern nicht in einer dem Sachlichkeitsgebot entsprechenden Weise verwirklicht haben, bedeutet dies noch nicht, dass dieses Anliegen im Bereich des Online-Glücksspiels und dem System der Konzessionen nicht in kohärenter Weise verfolgt würde. Aus der teilweisen Verfassungswidrigkeit bloß einer Einzelregelung zum Spielerschutz im Bereich der Spielbanken kann nicht abgeleitet werden, dass das österreichische System der Glücksspiel-Konzessionen – entgegen der bisher ständigen Rechtsprechung – unionsrechtswidrig wäre (RS0130636 [T9]).
+[8] 		3. Die Rechtsrüge ist nicht gesetzmäßig ausgeführt, wenn sich der Revisionswerber mit den Argumenten des Berufungsgerichts bzw dessen tragender Begründung nicht auseinandersetzt (RS0043603 [T9, T16]). Zum behaupteten Ablauf der Rückforderungsfrist gemäß ihren Allgemeinen Geschäftsbedingungen (AGB) wiederholt die Beklagte lediglich ihre Berufungsausführungen, ohne auf das Argument des Berufungsgerichts einzugehen, dass – selbst wenn die AGB wirksam vereinbart wurden – einer Verkürzung der Verjährungsfrist wegen der von der Beklagten behaupteten „wirtschaftlichen Macht“ des Klägers jegliche sachliche Grundlage fehlt.
+[9] 		4. Der als Anregung zu wertende Antrag der Beklagten (vgl RS0058452) auf neuerliche Befassung des EuGH war nicht aufzugreifen, weil die unionsrechtlichen Rechtsgrundsätze geklärt sind.
+[10] 		5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00044.23F.0419.000

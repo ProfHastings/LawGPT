@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.04.2016
+Geschäftszahl
+6Ob72/16f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei B* GmbH, *, vertreten durch Doralt Seist Csoklich Rechtsanwaltspartnerschaft (OG) in Wien, gegen die beklagte Partei M* B*, vertreten durch Graff Nestl & Partner, Rechtsanwälte GmbH in Wien, wegen 32.936,35 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Graz als Berufungsgericht vom 22. Februar 2016, GZ 7 R 153/15v-24, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Dass der Bezug überhöhter Mietzinse von der Gesellschaft durch den Gesellschafter eine verbotene Einlagenrückgewähr darstellen kann, hat der erkennende Senat bereits mehrfach ausgesprochen (6 Ob 132/10w; 6 Ob 110/12p).
+2.1. Der Tatbestand der verbotenen Einlagenrückgewähr (§ 82 Abs 1 GmbHG) enthält keine subjektiven Tatbestandsmerkmale. Entscheidend ist, dass ein objektives Missverhältnis zwischen der vom Gesellschafter erbrachten Leistung und der bezogenen Gegenleistung vorliegt (6 Ob 171/15p).
+2.2. Eine Rückzahlungspflicht der Gesellschafter entfällt nur bei gutgläubigem Bezug von Gewinnanteilen (§ 83 Abs 1 Satz 1 GmbHG). Da unrechtmäßige Zahlungen das Gesellschaftsvermögen vermindern und dadurch der Haftungsfonds der Gläubiger geschmälert wird, ist die Pflicht zur Rückerstattung unrechtmäßig erlangter Zahlungen weit auszulegen und korrespondierend dazu die gesetzliche Enthaftung gutgläubiger Gesellschafter eng zu verstehen (Bauer/Zehetner in Wiener Kommentar GmbHG § 83 Rz 39; Koppensteiner/Rüffler GmbH-Gesetz3 § 83 Rz 10).
+2.3. Demgemäß gelten Gewinnanteile nur dann als gutgläubig erworben, wenn sie aufgrund eines regulären Gewinnverwendungsbeschlusses in Form einer Dividende empfangen worden sind (Reich-Rohrwig, Kapitalerhaltung 172; Bauer/Zehetner aaO § 83 Rz 41; Koppensteiner/Rüffler aaO). Bei einer hier vorliegenden verdeckten Einlagenrückgewähr ist diese Voraussetzung schon begrifflich nicht erfüllt.
+3. Völlig zu Recht haben die Vorinstanzen die Aufrechenbarkeit der Klagsforderung mit angeblichen Gegenforderungen der Beklagten verneint. Der erkennende Senat hat bereits ausgesprochen, dass die Vereinbarung einer Beschränkung der Aufrechnung mit allfälligen Rückforderungsansprüchen wegen eines Verstoßes gegen die Kapitalerhaltungsvorschriften gegen das Verbot des § 63 Abs 3 Satz 2 GmbHG verstieße (6 Ob 132/10w; 6 Ob 110/12p). Die § 63 Abs 3 Satz 2 GmbHG zugrundeliegende Wertung lässt sich auch für den hier vorliegenden, gewissermaßen „umgekehrten“ Fall fruchtbar machen. Dabei steht die Rückforderung einer verbotenen Einlagenrückgewähr der vom § 63 Abs 3 Satz 2 GmbHG ins Auge gefassten Konstellation sogar näher als der Gegenstand der Vorentscheidungen 6 Ob 132/10w und 6 Ob 110/12p bildende Sachverhalt: Ebenso wie die ursprüngliche Aufbringung der Stammeinlage nicht durch Aufrechnung erfolgen kann, ist auch eine Aufrechnung gegen Ansprüche aus der verbotenen Rückgewähr von Einlagen nicht zulässig. Der Zweck des § 83 GmbHG liegt eindeutig darin, der Gesellschaft das ihr entzogene Kapital alsbald wieder zu verschaffen. Dieser Gesetzeszweck steht einer Aufrechnung des Beklagten mit angeblichen Gegenforderungen entgegen. Im Übrigen ist nach neuerer Auffassung die gesetzliche Beschränkung der Aufrechnung und Zurückbehaltung in § 1440 Satz 2 ABGB einer Ausdehnung im Wege der Analogie zugänglich (Dullinger in Rummel ABGB3 § 1440 Rz 7; Holly in Klete?ka/Schauer, ABGB-ON § 1440 Rz 13 mwN).
+4. Entgegen den Revisionsausführungen bedarf es für die Geltendmachung der Rückforderungsansprüche nach § 83 GmbHG - anders als in den Fällen des § 35 Abs 1 Z 6 GmbHG - keines vorausgehenden Gesellschafterbeschlusses (Koppensteiner/Rüffler, GmbHG3 § 83 Rz 13). Vielmehr wären Gesellschafterbeschlüsse, die sich gegen die Geltendmachung des Rückforderungsanspruchs gesetzwidrig geleisteter Zahlungen richten, gemäß § 83 Abs 4 GmbHG nichtig (Bauer/Zehetner in Wiener Kommentar GmbHG § 83 Rz 51 und 55; Koppensteiner/Rüffler GmbHG3 § 83 Rz 13).
+5. Zusammenfassend bringt die Revision daher keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass diese spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:E114544

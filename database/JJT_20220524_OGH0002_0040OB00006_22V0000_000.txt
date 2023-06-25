@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2022
+Geschäftszahl
+4Ob6/22v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der gefährdeten Partei L* AG, *, vertreten durch Mag. Dr. Lothar Wiltschek und Dr. David Plasser, LL.M., Rechtsanwälte in Wien, gegen die Gegnerin der gefährdeten Partei P* GmbH, *, vertreten durch Mag. Alexander Todor-Kostic, LL.M., und Mag. Silke Todor-Kostic, Rechtsanwälte in Velden am Wörthersee, wegen Antrag auf Erlassung einer einstweiligen Verfügung zur Sicherung von Beweismitteln gemäß § 87c Abs 1 und 3 UrhG (Streitwert 31.000 EUR), über den Revisionsrekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 28. Oktober 2021, GZ 5 R 173/21g-15, mit dem der Beschluss des Landesgerichts Klagenfurt vom 30. August 2021, GZ 28 Cg 67/21w-2, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die gefährdete Partei hat die Kosten ihrer Revisionsrekursbeantwortung vorläufig, die Gegnerin der gefährdeten Partei hat die Kosten ihres Revisionsrekurses endgültig selbst zu tragen.
+Text
+Begründung:
+[1] 		Die Gefährdete stellt Maschinen und Zubehör für die Halbleiterfertigung her. Diese werden durch eine Software gesteuert, die bereits bei Auslieferung der Maschinen an deren Erstkäufer auf Festplatten aufgespielt ist.
+[2] 		Die Gegnerin führt unter anderem Generalsanierungen an alten Maschinen zur Halbleiterfertigung durch.
+[3] 		Mit ihrem Antrag auf Erlassung einer einstweiligen Verfügung zur Beweissicherung (§ 87c Abs 1 und 3 UrhG) behauptet die Gefährdete, die Gegnerin greife in ihre Urheberrechte an der Maschinensoftware ein, die die Gefährdete außerhalb des EWR in Verkehr gebracht habe. Die Gegnerin habe nämlich solche Maschinen der Gefährdeten ohne deren Zustimmung in den EWR (nach Österreich) reimportiert und damit ihr nicht erschöpftes Verbreitungsrecht an dieser Software verletzt. Es sei sehr wahrscheinlich, dass sich solche Maschinen auf dem Betriebsgelände der Gegnerin befinden.
+[4] 		Das Erstgericht erließ die beantragte einstweilige Verfügung gemäß § 87c Abs 4 UrhG ohne Anhörung der Gegnerin, welcher im Wesentlichen aufgetragen wurde, einem Sachverständigen samt Gerichtsvollzieher zu gestatten, ihr Betriebsgelände zu betreten, um dort Nachschau zu halten, ob sich dort die fraglichen Maschinen befinden. Dem Sachverständigen wurde eine entsprechende Befunderstattung aufgetragen. Die Gefährdete habe bescheinigt, dass die Gegnerin derartige Maschinen feilhalte, dass sich diese in Österreich befänden und dass auf den Festplatten dieser Maschinen sehr wahrscheinlich die von den Programmierern der Gefährdeten entwickelte Software aufgespielt sei. Das rechtliche Interesse der Gefährdeten an der Beweissicherung sei daher zu bejahen.
+[5] 		Gemäß dem vom gerichtlich bestellten Sachverständigen verfassten Befund wurden ihm im Zuge der Nachschau bei der Gegnerin fünf Festplatten übergeben, auf welchen Software der Gefährdeten installiert ist.
+[6] 		Das Rekursgericht bestätigte die einstweilige Verfügung des Erstgerichts, bemaß den Wert des Entscheidungsgegenstands mit 30.000 EUR übersteigend und erklärte den ordentlichen Revisionsrekurs für zulässig, weil höchstgerichtliche Rechtsprechung zur einstweiligen Verfügung zur Sicherung von Beweismitteln nach § 87c UrhG fehle und die Norm selbst im Hinblick auf die Bescheinigung nicht ausreichend klar sei.
+[7] 		Die Gegnerin macht mit ihrem Revisionsrekurs zunächst eine Mangelhaftigkeit des Rekursverfahrens geltend, die darin gelegen sei, dass das Rekursgericht im Rahmen der Behandlung der Beweisrüge zur Ansicht gelangt sei, dass die eidesstättigen Erklärungen der Mitarbeiter der Gefährdeten ausreichend wären, um die Wahrscheinlichkeit einer Rechtsverletzung zu bescheinigen. Das Rekursgericht hätte unbedenkliche Urkunden zu verlangen gehabt, aus welchen hervorgehe, wann die Gefährdete die Maschinen samt Software wo in Verkehr gebracht und den Weiterverkauf verboten habe. In der Annahme der erfolgten Bescheinigung der objektiven Wahrscheinlichkeit eines Eingriffs in Ausschließlichkeitsrechte der Gefährdeten liege eine unrichtige rechtliche Beurteilung.
+[8] 			Die Gefährdete beantragt mit ihrer Revisionsrekursbeantwortung, den Revisionsrekurs zurückzuweisen bzw ihm nicht Folge zu geben.
+[9] 		Die Gegnerin zeigt in ihrem Rechtsmittel keine erheblichen Rechtsfragen auf. Der Revisionsrekurs ist daher nicht zulässig und somit zurückzuweisen.
+Rechtliche Beurteilung
+[10] 		1. Soweit die Gegnerin geltend macht, die von der Gefährdeten angebotenen Bescheinigungsmittel würden den vom Erstgericht als bescheinigt erachteten Sachverhalt nicht tragen, ist ihr zunächst entgegenzuhalten, dass der Oberste Gerichtshof auch im Provisorialverfahren nur Rechtsinstanz und nicht Tatsacheninstanz ist und von demjenigen Sachverhalt auszugehen hat, den das Rekursgericht als bescheinigt ansah. Tatsachen, die das Rekursgericht als nicht bescheinigt annimmt, können in die rechtliche Betrachtung nicht einbezogen werden (RS0002192).
+[11] 		2. Der Senat hat zu 4 Ob 83/17k betreffend die Bestimmung des mit § 87c UrhG wortgleichen § 151b PatG ausgesprochen, dass die genannte Bestimmung nicht auf die Frage eines Patenteingriffs abstellt, sondern auf die Sicherstellung eventuell patentverletzenden Materials. Im vorliegenden Fall geht es um die (ohnehin bereits erfolgte) Sicherstellung eventuell urheberrechtsverletzenden Materials.
+[12] 		3. Was den bescheinigten Sachverhalt betrifft, so übersieht die Gegnerin, dass es an ihr gelegen wäre zu behaupten und zu beweisen, dass die betroffenen Waren von der Gefährdeten oder mit deren Zustimmung im EWR auf den Markt gebracht wurden (RS0125253). Diese Bescheinigung hat die Gegnerin jedoch nicht erbracht.
+[13] 		4. Wie schon das Rekursgericht ausgeführt hat, unterliegt die Gegnerin, die keinen Widerspruch gegen die Sicherungsverfügung erhoben hat, mit ihren Rechtsmitteln dem Neuerungsverbot. Die Frage zum Umfang der Bescheinigung hat daher im vorliegenden Fall nur theoretische Bedeutung, zumal der vom Erstgericht angenommene Sachverhalt im Rechtsmittelverfahren bindend ist.
+[14] 		5. Der Kostenausspruch beruht auf § 393 Abs 1 EO und §§ 78, 402 Abs 4 EO iVm §§ 40, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00006.22V.0524.000

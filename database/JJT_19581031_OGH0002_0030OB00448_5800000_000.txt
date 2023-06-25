@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.10.1958
+Geschäftszahl
+3Ob448/58
+Norm
+EO §301;
+EO §302;
+EO §345 Abs1 Z2;
+Kopf
+SZ 31/130
+Spruch
+Gegen den entgegen § 302 EO. erteilten Auftrag gemäß § 301 EO. ist Rekurs zulässig.
+Entscheidung vom 31. Oktober 1958, 3 Ob 448/58.
+I. Instanz: Bezirksgericht Fünfhaus; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht bewilligte dem betreibenden Gläubiger die Exekution durch Pfändung einer dem Verpflichteten gegen die Republik Österreich angeblich zustehenden Forderung und erließ gleichzeitig den Auftrag zur Abgabe einer Erklärung im Sinne des § 301 EO.
+Das Rekursgericht wies unter Hinweis auf § 302 EO. den Antrag, der Drittschuldnerin die Erklärung über die Forderung aufzutragen, ab.
+Schon vorher, aber nach Einbringung des Rekurses, hatte der betreibende Gläubiger die "Einstellung der Exekution" hinsichtlich des Auftrages an die Drittschuldnerin beantragt.
+Gegen die Entscheidung der zweiten Instanz richtet sich der Revisionsrekurs des betreibenden Gläubigers, mit dem Antrag, den Rekurs der Drittschuldnerin abzuweisen (richtig: zurückzuweisen) oder aufzuheben und den Untergerichten eine neuerliche Entscheidung aufzutragen. Der betreibende Gläubiger verweist auf § 345 Abs. 1 Z. 2 EO., nach welchem ein Rekurs gegen einen Auftrag im Sinne des § 301 EO. unzulässig ist, und auf die von ihm beantragte "Einschränkung" bzw. "Einstellung".
+Der Oberste Gerichtshof gab dem Revisionsrekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Ob ein unter Verletzung der Vorschrift des § 302 EO. an einen der dort genannten Drittschuldner erteilter Auftrag zur Erklärung mit Rekurs angefochten werden kann, ist eine Streitfrage. Sie wird zuerst vom OLG. Wien in seiner Entscheidung vom 17. Mai 1898 (zitiert bei Weißkopf, GerZ. 1901 S. 104) mit der Begründung bejaht, daß sich die Bestimmung des § 345 Abs. 1 Z. 2 EO. nicht auf den Fall beziehe, daß an die im § 302 EO. genannten Drittschuldner ein Auftrag zur Erklärung ergehe. Den gleichen Standpunkt nehmen die Entscheidung GlUNF. 1788 sowie Neumann - Lichtblau, Kommentar zur EO., II S. 1071, und Heller - Trenkwalder, Die österreichische EO. in ihrer praktischen Anwendung, 3. Aufl. S. 1123, ein. Hingegen hält Petschek, Die Zwangsvollstreckung in Forderungen, I S. 332, allerdings ohne weitere Begründung, den Rekurs für unzulässig. Weißkopf a. a. O., ferner die Entscheidung AnwZ. 1936 S. 234 und die nicht veröffentlichte Entscheidung 2 Ob 811/54 lehnen das Rekursrecht eines der im § 302 EO. genannten Drittschuldner ab, weil der Auftrag zur Erklärung nicht erzwingbar sei und erst im allfälligen Schadenersatzprozeß des betreibenden Gläubigers gegen den Drittschuldner wegen Verweigerung der Erklärung entschieden werden müsse, ob der Beschluß zu Recht ergangen sei.
+Aber schon Petschek hat (a. a. O.) dieses zuerst von Weißkopf gebrachte Argument zutreffend mit dem Hinweis bekämpft, daß der Auftrag im Sinne des § 301 EO. ein Beschluß sei, dem materielle Rechtskraft zukomme und an den die Parteien gebunden seien, so daß es nicht angehe, diese Frage erst im Schadenersatzprozeß zu entscheiden. § 301 EO. ist zum größten Teil der Bestimmung des § 840 DZPO. nachgebildet. Es besteht jedoch ein wesentlicher Unterschied darin, daß nach deutschem Recht der betreibende Gläubiger den Drittschuldner zur Erklärung auffordert, wogegen nach österreichischem Recht das Gericht hiezu einen Auftrag erteilt. Der Auftrag ist allerdings nicht vollstreckbar, da § 301 EO. als Folge des Ungehorsams nur die Schadenersatzpflicht kennt. Könnte seine Wirksamkeit nun im Prozeßweg überprüft werden, so wäre er auch nicht bindend, so daß ihm alle Merkmale einer gerichtlichen Verfügung fehlen würden. Dieser Beschluß wäre dann nichts anderes als die gerichtliche Vermittlung einer Aufforderung des betreibenden Gläubigers an den Drittschuldner. Dies trifft aber, wie dargelegt wurde, für das österreichische Recht im Gegensatz zur DZPO. nicht zu. Es kann daher keineswegs gesagt werden, daß der im § 302 EO. genannte Drittschuldner nicht des Rechtsschutzes durch Aufhebung des gesetzwidrig erteilten Auftrages zur Erklärung bedürfte.
+Entscheidend ist daher bloß, ob sich die Annahme der Zulässigkeit des Rechtsmittels mit dem Wortlaut des § 345 Abs. 1 Z. 2 EO. vereinen läßt. § 302 EO. erklärt die Bestimmung des § 301 EO. bei den dort angeführten Drittschuldnern für unanwendbar. Dasselbe gilt daher auch von der Vorschrift des § 345 Abs. 1 Z. 2 EO. Sie erklärt Beschlüsse im Sinne des § 301 EO. für unanfechtbar, nicht aber solche, auf welche sich diese Bestimmung gar nicht bezieht. Da abgesehen vom Falle des § 302 EO. jeder Drittschuldner erklärungspflichtig ist, könnte ein Rekurs nur der Verzögerung des Exekutionsverfahrens dienen. Dies wollte das Gesetz vermeiden, nicht aber die öffentlich-rechtlichen Drittschuldner gegen gesetzwidrige Aufträge schutzlos machen. Es würde dies auch gar nicht im Sinne der ihnen erteilten Begünstigung liegen.
+Das Rekursgericht hat das Rechtsmittel daher zutreffend für statthaft erklärt. Da in der Sache selbst gegen den angefochtenen Beschluß nichts eingewendet werden kann und die Sachlage zum Zeitpunkt der Fassung des erstrichterlichen Beschlusses zu prüfen ist, war dem unbegrundeten Revisionsrekurs ein Erfolg zu versagen.

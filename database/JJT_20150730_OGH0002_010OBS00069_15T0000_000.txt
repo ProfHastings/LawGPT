@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.07.2015
+Geschäftszahl
+10ObS69/15t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Fellinger als Vorsitzenden, den Hofrat Univ.-Prof. Dr. Neumayr und die Hofrätin Dr. Fichtenau sowie die fachkundigen Laienrichter Dr. Reinhard Drössler (aus dem Kreis der Arbeitgeber) und ADir. Angelika Neuhauser (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei M*****, vertreten durch Dr. Thomas Majoros, Rechtsanwalt in Wien, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Pflegegeld, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 17. April 2015, GZ 10 Rs 24/15w-16, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Klägerin hat die Kosten ihres Rechtsmittels selbst zu tragen.
+Text
+Begründung:
+Im Revisionsverfahren ist ausschließlich die Frage strittig, ob bei Festsetzung des Pflegebedarfs ein Hilfsbedarf auch für die Beheizung des Wohnraums und die Herbeischaffung des Heizmaterials anzunehmen ist, wenn aus fianziellen Gründen mit einem Holzofen geheizt wird, obwohl eine funktionstüchtige Gasetagenheizung vorhanden ist.
+Das Berufungsgericht verneinte diese Frage und wies das auf Gewährung des Pflegegeldes im gesetzlichen Ausmaß gerichtete Klagebegehren ab. Da nur ein Pflegebedarf von insgesamt 60 Stunden monatlich bestehe, seien die Voraussetzungen für die Gewährung des Pflegegeldes der Stufe 1 nicht erfüllt.
+Rechtliche Beurteilung
+Die Revision ist - entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts (§ 508a Abs 1 ZPO) - im Hinblick auf die zur dargelegten, vom Berufungsgericht als rechtserheblich bezeichnete Rechtsfrage schon vorliegende Rechtsprechung des Obersten Gerichtshofs nicht zulässig.
+1. Nach § 2 Abs 1 EinstV sind unter Hilfe aufschiebbare Verrichtungen zu verstehen, die den sachlichen Lebensbereich betreffen und zur Sicherung der Existenz erforderlich sind. Zu den Hilfsverrichtungen zählen ua auch die Beheizung des Wohnraums einschließlich der Herbeischaffung von Heizmaterial (§ 2 Abs 2 EinstV). Dafür ist ein auf einen Monat bezogener fixer Zeitwert von 10 Stunden anzunehmen (§ 2 Abs 3 EinstV). Ob die Hilfsverrichtung zur Sicherung der Existenz notwendig ist, ist nach der individuellen Situation zu prüfen (RIS-Justiz RS0106402 [T1]); beim Hilfsbedarf für die Beheizung des Wohnraums samt Herbeischaffung des Heizmaterials somit nach der konkreten Wohnsituation sowie der konkreten Heizeinrichtung.
+2.1 Es entspricht der ständigen Rechtsprechung, dass ein Bedarf nach fremder Hilfe zur Beheizung des Wohnraums einschließlich der Herbeischaffung von Heizmaterial zu verneinen ist, wenn eine funktionsfähige Zentralheizung vorhanden ist, sofern der Pflegebedürftige diese zu bedienen im Stande ist oder die Wartung und Temperatursteuerung nicht vom Pflegebedürftigen vorgenommen werden muss (zB Fernwärme, Gasetagenheizung). Trotz Anschlusses an eine bestehende Zentralheizung könnte nach der Rechtsprechung ein anzuerkennender Mehrbedarf aber dann bestehen, wenn der Wohnraum der pflegebedürftigen Person wegen deren schlechten Gesundheitszustands auch außerhalb der üblichen Heizperiode beheizt oder während dieser auf eine höhere Temperatur gebracht werden muss, was einen vermehrten Aufwand im Zusammenhang mit der Herbeischaffung des festen Heizmaterials und der Beschickung eines Herdes mit sich bringen könnte. In diesem Fall wären die damit verbundenen Hilfsverrichtungen im Pflegebedarf zu berücksichtigen (10 ObS 166/95, SSV-NF 9/83; 10 ObS 2212/96h, SSV-NF 10/79; 10 ObS 321/99z, SSV-NF 13/147; 10 ObS 342/99p, SSV-NF 14/3; 10 ObS 13/00k, SSV-NF 14/21 zust Pfeil, Bundespflegegeldgesetz und landesgesetzliche Pflegegeldregelungen [1996], 89; aA Greifeneder/Liebhart, Pflegegeld3 Rz 533).
+2.2 Auch wenn eine Gas-Zentralheizung als Beheizungsform auf niedriger Stufe gefahren und aus Kostengründen zusätzlich ein Ofen mit Holz beheizt wird, vermag der mit der Herbeischaffung des festen Heizmaterials und der Beschickung des Küchenofens verbundene Hilfsbedarf keinen Anspruch auf Berücksichtigung dieses Zeitaufwandes bei der Ermittlung des maßgeblichen Pflegebedarfs zu begründen (10 ObS 123/13f = ÖZPR 2014/9, 17 [Greifeneder]; zust Rudda, Der Einfluss der neueren Judikatur des Obersten Gerichtshofs auf Pflegegeldansprüche, ÖZPR 2014/116, 176).
+3. Die Ansicht des Berufungsgerichts, ein Hilfsbedarf sei auch zu verneinen, wenn die (vorhandene) Zentralheizung aus finanziellen Gründen - wie im vorliegenden Fall - gar nicht verwendet und nur mit einem mit Holz beheizbaren Ofen geheizt wird, steht mit der bisherigen Rechtsprechung in Einklang.
+Die Kostenentscheidung beruht auf § 77 Abs 1 Z 2 lit b ASGG. Berücksichtigungswürdige Einkommens- und Vermögensverhältnisse der Klägerin, welche einen ausnahmsweisen Kostenzuspruch nach Billigkeit rechtfertigen könnten, wurden nicht dargetan und sind aus der Aktenlage nicht ersichtlich.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:010OBS00069.15T.0730.000

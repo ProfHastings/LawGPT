@@ -1,0 +1,43 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob179/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei E***** GmbH, *****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U***** AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 29.269,96 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Mai 2020, GZ 4 R 119/19b-67, mit dem das Endurteil des Handelsgerichts Wien vom 22. August 2019, GZ 42 Cg 75/14s-63, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 1.883,16 EUR (darin 313,86 EUR an USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+B e g r ü n d u n g :
+Die Klägerin hat mit der Beklagten einen Betriebsunterbrechungsversicherungsvertrag für Selbstständige und freiberuflich Erwerbstätige mit einer Versicherungssumme für Unfall von 72.500 EUR abgeschlossen. Dem Versicherungsvertrag liegen die Klipp & Klar Bedingungen BU 91 (Fassung 10/2012) zugrunde, die auszugsweise lauten:
+„[…]
+Artikel 8
+Welche Aufwendungen des Versicherungsnehmers werden ersetzt?
+1. Aufwendungen, die der Versicherungsnehmer zur Abwendung oder Minderung des Unterbrechungsschadens macht, haben wir zu ersetzen
+-	soweit sie den Umfang unserer Entschädigungspflicht verringern oder
+-	soweit der Versicherungsnehmer sie den Umständen nach für geboten halten durfte, wegen ihrer Dringlichkeit aber unser Einverständnis vorher nicht einholen konnte. In diesem Fall sind wir über die eingeleiteten Maßnahmen unverzüglich zu verständigen.
+2. Die Aufwendungen werden nicht ersetzt, wenn
+-	sie mit der Entschädigung zusammen die Haftungssumme übersteigen, es sei denn, dass sie auf einer Weisung unsererseits beruhen.
+[…]
+Artikel 12
+Was ist nach Eintritt des Versicherungsfalles zu tun?
+Als Obliegenheiten, deren Verletzung unsere Leistungsfreiheit nach Maßgabe des § 6, Abs 3 VersVG bewirkt, werden bestimmt:
+1. Der Versicherungsnehmer hat nach Möglichkeit für die Abwendung und Minderung des Schadens zu sorgen und dabei unsere Weisungen zu befolgen; gestatten es die Umstände, so hat er solche Weisungen einzuholen. Der Ersatz von Aufwendungen hiefür ist in Artikel 8 geregelt.
+[…]“
+Die Beklagte hat nach einer Betriebsunterbrechung infolge Unfall des Geschäftsführers der Klägerin die gesamte für diesen Versicherungsfall vorgesehene Versicherungssumme von 72.500 EUR ausbezahlt.
+Das Berufungsgericht bestätigte die Klageabweisung im Umfang von 29.269,96 EUR an Rettungskosten (Lohnkosten für Ersatzkräfte) und sprach über Abänderungsantrag der Klägerin nachträglich aus, dass die ordentliche Revision zulässig sei, weil sich der Oberste Gerichtshof mit den Art 8 und 12 der Klipp & Klar Bedingungen BU 91 vergleichbaren Klauseln noch nicht auseinandergesetzt habe und diese nicht so eindeutig seien, dass nur eine Auslegung möglich erscheine.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Die Klägerin behauptet in ihrer Revision (nur), die „gegenständliche Situation“ sei für den Versicherungsnehmer gröblich benachteiligend iSd § 879 Abs 3 ABGB, weil das „Ergebnis der Auslegung“ dazu führe, dass der Versicherungsnehmer Gefahr laufe, die Leistungspflicht der Versicherung zu verlieren, wenn er seiner Schadensminderungspflicht nicht nachkomme und wenn er dieser nachkomme, müsse er die Kosten selbst tragen. Damit zeigt die Klägerin weder eine Auslegungsfrage mit der Qualität des § 502 Abs 1 ZPO noch eine gröbliche Benachteiligung iSd § 879 Abs 3 ABGB auf.
+2. Art 8 Klipp & Klar Bedingungen BU 91 entspricht in den hier wesentlichen Punkten – wie die Klägerin selbst erkennt – den Regelungen der §§ 62, 63 VersVG. Daraus folgt – entgegen der unbegründeten Behauptung der Klägerin – keineswegs, dass die Klägerin aufgewendete Rettungskosten – generell – selbst zu tragen hätte:
+Dem Versicherungsnehmer obliegt es bei Eintritt des Versicherungsfalls, unter Beachtung der Weisungen des Versicherers den Schaden nach Möglichkeit abzuwenden oder zu mindern. Aufwendungen, die der Versicherungsnehmer in Entsprechung dieser Obliegenheit macht, fallen dem Versicherer zur Last, soweit der Versicherungsnehmer sie den Umständen nach für geboten halten durfte. Die Verpflichtung des Versicherers zum Ersatz der Rettungskosten ist ein notwendiges Gegenstück zur Obliegenheit des Versicherungsnehmers nach § 62 VersVG. Weisungsgemäß gemachte Aufwendungen sind im vollen Umfang zu ersetzen (7 Ob 62/82). Die Haftungssumme bildet allerdings dann die Obergrenze, wenn der Rettungsaufwand nicht auf einer Weisung des Versicherers beruht.
+3. Besagte Entschädigungsgrenze kam hier zum Tragen, weil die Beklagte für den betreffenden Versicherungsfall die gesamte Versicherungssumme ausbezahlt hat und der Rettungsaufwand – unstrittig – nicht auf einer Weisung der Beklagten beruhte. In diesem Fall entspricht das Wirksamwerden der Entschädigungsgrenze nach Art 8 Klipp & Klar Bedingungen BU 91 der Gesetzeslage (§ 63 Abs 1 Satz 2 VersVG) und ist nicht gröblich benachteiligend, sondern Ausfluss des Äquivalenzprinzips.
+4. Im Übrigen hat sich die Klägerin aufgrund des Versicherungsfalls mehr an Lohnkosten erspart als sie aus diesem Titel an Rettungskosten aufgewendet hat. In diesem Fall würde deren Ersatz auch dem versicherungsrechtlichen Bereicherungsverbot widersprechen (Prinzip des Ersatzes nur der Vermögensminderung; vgl § 55 VersVG; ferner 7 Ob 14/89).
+5.1. Die Abweisung des Begehrens der Klägerin auf Ersatz der Rettungskosten entspricht damit der eindeutigen Sach- und Rechtslage. Die Klägerin zeigt dazu keine erhebliche Rechtsfrage auf.
+5.2. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die fehlende Zulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00179.20D.1021.000

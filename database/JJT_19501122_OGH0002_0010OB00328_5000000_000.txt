@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.1950
+Geschäftszahl
+1Ob328/50
+Norm
+JN §7;
+JN §7a;
+ZPO §227;
+ZPO §232;
+ZPO §235;
+Kopf
+SZ 23/336
+Spruch
+Die Stellung eines Eventualbegehrens ist unter der Voraussetzung des § 235 Abs. 4 ZPO keine Klagsänderung. Wird in einer Einzelrichtersache die Stellung eines Eventualbegehrens, das an sich vor den Senat gehört, vor der ersten Streitverhandlung mit vorbereitendem Schriftsatz angekundigt und in der ersten Streitverhandlung mündlich vorgetragen, so ist der Rechtsstreit über das Haupt- und Eventualbegehren vom Einzelrichter durchzuführen.
+Entscheidung vom 22. November 1950, 1 Ob 328/50.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Klagebegehren lautet auf Feststellung einer 50%igen Beteiligung des Klägers an dem Unternehmen des Beklagten, Zustimmung des Beklagten zur Eintragung des Klägers als persönlich haftenden Gesellschafters des Unternehmens des Beklagten in das Handelsregister und Rechnungslegung.
+Nach Erstattung der Klagebeantwortung nahm der Kläger zu deren Vorbringen in einem vorbereitenden Schriftsatze Stellung und schloß die Ausführungen dieses Schriftsatzes damit, daß er für den Fall, als das Gericht wider Erwarten vermeine, es sei dem Klagebegehren nicht stattzugeben, das Eventualbegehren stelle, es sei der Beklagte schuldig, ihm den Betrag von 250.000 S zu bezahlen. Dieses Begehren leitet der Kläger daraus ab, daß, wie er jetzt sehe, der Beklagte ihn durch von Anfang an nicht ernst gemeinte Zusicherungen an der Gründung einer eigenen Existenz verhindert und ihm dadurch einen Schaden in mindestens dieser Höhe zugefügt habe.
+Bei der mündlichen Streitverhandlung am 15. März 1950 brachte der Kläger dieses Eventualbegehren mündlich vor.
+Das Erstgericht ließ das Eventualbegehren nicht zu und führte in der Begründung seines Beschlusses aus, es werde nicht das Interesse im Sinne des § 235 Abs. 4 ZPO. geltend gemacht, sondern das Eventualbegehren auf einen anderen Klagsgrund, nämlich den des Schadenersatzes wegen Nichterfüllung des Vertrages gestützt, wogegen das ursprüngliche Begehren auf Erfüllung des Vertrages laute; es liege daher eine Klagsänderung vor; das Eventualbegehren, das schon im Schriftsatze, also vor Beginn der mündlichen Streitverhandlung gestellt worden sei (§ 7a JN.), würde eine erhebliche Erschwerung des Verfahrens nach sich ziehen, weil alle Voraussetzungen für die Schadenersatzforderung insbesondere die Höhe des behaupteten Schadens festgestellt werden müßten.
+Das Rekursgericht gab dem vom Kläger gegen diesen Beschluß erhobenen Rekurse Folge und änderte den angefochtenen Beschluß dahin ab, daß das Eventualbegehren zugelassen wird. In der Begründung seines Beschlusses vertritt das Rekursgericht die Rechtsansicht, daß in dem Eventualbegehren eine Klagsänderung nicht zu erblicken sei, weil es aus dem gleichen Tatbestande abgeleitet werde wie das primäre Begehren; es wäre aber auch als Klagsänderung zuzulassen, weil es erst durch das Vorbringen in der mündlichen Streitverhandlung zum Prozeßstoffe geworden sei, daher nach dem § 7 Abs. 2 (richtig § 7a Abs. 2 JN.) eine Änderung in der Kompetenz des Einzelrichters nicht eintrete; da sich der Prozeß noch im Anfangsstadium befinde, sei aus der Zulassung des Eventualbegehrens auch keine Erschwerung oder Verzögerung der Verhandlung zu besorgen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs keine Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Beklagte anerkennt selbst die Rechtsansicht des Rekursgerichts, daß im Eventualbegehren eine Klagsänderung nicht zu erblicken sei, als richtig. Dies ist aus dem vom Rekursgerichte angeführten Gründen und auch deshalb rechtlich zutreffend, weil eine Klagsänderung nicht vorliegt, wenn statt Erfüllung des Vertrages (eventuell oder ausschließlich) Schadenersatz wegen Nichterfüllung begehrt wird (ZBl. 1918, Nr. 326, JBl. 1918, S. 201, ZBl. 1933, Nr. 197). Sogar wenn das Eventualbegehren als eine bedingte Klagsänderung angesehen werden müßte, wäre es, weil es am Beginn der Streitverhandlung vorgebracht wurde, aus Gründen der Prozeßökonomie als zulässig anzusehen (ZBl. 1922, Nr. 46, 1923, Nr. 296).
+Der Rechtsansicht des Beklagten, daß das Eventualbegehren eine unzulässige Klagenhäufung darstelle, kann nicht beigepflichtet werden. Die Bestimmung des § 227 Abs. 2 ZPO. besagt, daß Ansprüche, die vor den Einzelrichter gehören, mit Ansprüchen verbunden werden können, die vor den Senat gehören, und daß zur Verhandlung und Entscheidung über solche mit derselben Klage geltend gemachte Ansprüche der Senat berufen sei. Voraussetzung dieser Gesetzesbestimmung ist also, daß die Ansprüche "mit derselben Klage", also in einer und derselben Klageschrift geltend gemacht werden. Dies trifft aber im vorliegenden Falle nicht zu, denn das Eventualbegehren wurde erst nach der Klagebeantwortung, also im Laufe des Prozesses erhoben, und es ist bezüglich dieses Begehrens nach der Vorschrift des § 232 Abs. 2 ZPO. die Streitanhängigkeit erst mit der Geltendmachung dieses Anspruches in der mündlichen Streitverhandlung eingetreten. Die Aufnahme dieses Anspruches in den vorbereitenden Schriftsatz ist nur als Ankündigung aufzufassen, daß der Kläger bei der mündlichen Streitverhandlung diesen Anspruch erheben werde. Es ist daher entgegen der Ansicht des Beklagten die Stellung des Eventualbegehrens und die darin gelegene Klagserweiterung über den Betrag von 100.000 S hinaus nicht vor der mündlichen Streitverhandlung, sondern nach Beginn derselben vorgenommen worden, weshalb gemäß dem § 7a Abs. 2 JN. der Einzelrichter die Verhandlung durchzuführen hat, worin übrigens eine Änderung der Verfahrensart nicht gelegen ist.

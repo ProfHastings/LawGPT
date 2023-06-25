@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.11.2016
+Geschäftszahl
+10ObS136/16x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat Univ.-Prof. Dr. Neumayr als Vorsitzenden, den Hofrat Dr. Schramm und die Hofrätin Dr. Fichtenau sowie die fachkundigen Laienrichter Dr. Christoph Wiesinger (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei L*****, vertreten durch Mag. Johann Juster, Rechtsanwalt in Zwettl, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Ausgleichszulage, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. August 2016, GZ 10 Rs 31/16a-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin lebt in einem (von ihr allein) angemieteten Kleinhaus. Für sie ist eine Sachwalterin bestellt. Zum Kreis der von ihrer Sachwalterin zu besorgenden Angelegenheiten gehört ua die Einkommens- und Vermögensverwaltung sowie die Vertretung vor Behörden, Gerichten und Sozialversicherungsträgern. Die zu leistenden Zahlungen für Miete, Heizung, Strom, Gemeindeabgaben etc werden über das Sachwalterkonto von der Sachwalterin abgewickelt. In dem von der Klägerin bewohnten Haus lebt auch Mag. K*****, von der die Klägerin im Jänner und Februar 2015 jeweils 120 EUR in bar für die Mitbenützung des Hauses und zur Abdeckung der sonstigen anteiligen Fixkosten erhielt. Diese Zahlungen leitete die Klägerin nicht an ihre Sachwalterin weiter, sondern verwendete sie
+– zusätzlich zu dem ihr von der Sachwalterin zur Verfügung gestellten Wirtschaftsgeld – zu Zwecken ihrer Lebensführung.
+Das Erstgericht setzte die Ausgleichszulage für die Monate Jänner und Februar 2015 mit jeweils 408,94 EUR fest und wies das Mehrbegehren auf Zahlung einer höheren Ausgleichszulage ab. Rechtlich ging das Erstgericht davon aus, dass sich die Höhe der Ausgleichszulage derart berechne, dass vom Ausgleichszulagenrichtsatz von 872,31 EUR die von der Klägerin bezogene Berufsunfähigkeitspension in Höhe von 343,37 EUR sowie der von Mag. K***** an die Klägerin geleistete monatliche Betrag von 120 EUR abzuziehen sei.
+Das Berufungsgericht bestätigte dieses Urteil.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Klägerin ist nicht zulässig.
+1. Die Ausgleichszulage ist ein Differenzbetrag, der gemäß § 292 Abs 1 ASVG einem Pensionsberechtigten gebührt, wenn – vereinfacht – die Summe aus (Brutto-)Pension und sonstigen Nettoeinkünften einen bestimmten Mindestbetrag, den Richtsatz (§ 293 ASVG) nicht erreicht.
+2. Das Ausgleichszulagenrecht geht von einem umfassenden Einkommensbegriff aus (10 ObS 67/14x; 10 ObS 160/03g, SSV-NF 18/18; 10 ObS 196/03a, SSV-NF 17/102). Bei der Feststellung des Anspruchs auf Ausgleichszulage sind grundsätzlich sämtliche Einkünfte des Pensionsberechtigten in Geld oder Geldeswert (§ 292 Abs 3 ASVG) jeweils auf den Monat bezogen zu berücksichtigen (RIS-Justiz RS0084844). Es kommt nicht darauf an, aus welchem Titel und von wem die Einkünfte zufließen, ob sie dem Empfänger für oder ohne eine Gegenleistung zufließen und ob sie allenfalls der Steuerpflicht unterliegen (RIS-Justiz RS0085296). Allein maßgeblich ist vielmehr, welche Einkünfte dem Pensionsberechtigten tatsächlich zugekommen sind. Unter dem Begriff „Nettoeinkommen“ iSd § 292 Abs 1 ASVG ist daher das Einkommen zu verstehen, das als Aktivsaldo aus allen Einkommensarten letztlich zur Verfügung steht und dessen jeweilige Höhe dem Träger der Sozialversicherung zu melden ist (§ 298 Abs 1 ASVG).
+3. Ausgenommen von der Berücksichtigung sämtlicher Einkünfte des Pensionsberechtigten sind nur die in § 292 Abs 4 ASVG taxativ aufgezählten Einkünfte (RIS-Justiz RS0085360; RS0086707). Ein Fall des § 292 Abs 4 ASVG ist hier aber unstrittig nicht zu beurteilen.
+4. Von diesen Grundsätzen weicht die Rechtsansicht der Vorinstanzen nicht ab, auch die von der Mitbewohnerin zur Abgeltung der anteiligen Wohnkosten geleistete Zahlung in Höhe von 120 EUR monatlich, die der Klägerin real zur Verfügung gestanden und von ihr zur Lebensführung verwendet worden sei, stelle anzurechnendes Nettoeinkommen nach § 292 Abs 1 ASVG dar. Mit dem Revisionsvorbringen, die Klägerin hätte über diesen Betrag innerhalb des Wirkungskreises der Sachwalterin ohne deren ausdrückliche oder stillschweigende Einwilligung rechtsgeschäftlich weder verfügen noch sich verpflichten können (§ 280 Abs 1 ABGB), sodass keine Schmälerung der Ausgleichszulage eintreten könne, wird keine Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufgezeigt. Wie bereits die Vorinstanzen ausgeführt haben, kommt es für den Bereich des Ausgleichszulagenrechts bzw für die Errechnung des anrechenbaren Nettoeinkommens (§ 292 Abs 3 ASVG) nur darauf an, dass diese Beträge der Klägerin in den Monaten Jänner und Februar 2015 real zur Verfügung gestanden sind; dies war – unbestritten – der Fall.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:010OBS00136.16X.1111.000

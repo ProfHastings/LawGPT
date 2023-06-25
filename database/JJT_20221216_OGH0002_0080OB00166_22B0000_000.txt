@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.2022
+Geschäftszahl
+8Ob166/22b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Parteien 1. D* B*, 2. S* D*, 3. M* F*, 4. Ing. J* F*, 5. M* F*, 6. A* L*, 7. W* L*, 8. B* M*, 9. A* M*, 10. E* M*, 11. Mag. K* M*, 12. M* M*, 13. A* R*, 14. E* R*, 15. Ing. M* R*, 16. D* U*, 17. S* R*, alle vertreten durch Dr. Peter Zach und Dr. Reinhard Teubl, Rechtsanwälte in Bruck an der Mur, gegen die beklagte Partei K* GmbH, *, vertreten durch Muhri & Werschitz Partnerschaft von Rechtsanwälten GmbH in Graz, wegen jeweils 18.000 EUR (Kläger zu 4., 10. und 17.) sowie jeweils 9.000 EUR (übrige Kläger) sA, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 21. Oktober 2022, GZ 2 R 166/22g-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+[1] 		1. Gegenstand des Rechtsmittelverfahrens sind (nur noch) die Eventualbegehren der Kläger auf Schadenersatz wegen baulicher Mängel ihrer von der Beklagten errichteten und verkauften Häuser, nämlich unzureichender Oberflächenentwässerung, die wiederholt bei Starkregen zu Wassereintritten in die Keller führte.
+[2] 		Das Berufungsgericht bestätigte die klagsabweisende Entscheidung des Erstgerichts wegen Verjährung der Ansprüche. Für die Kläger sei schon nach den ersten Wassereintritten im Jahre 2017 und Frühjahr 2018 die unzureichend funktionierende Oberflächenentwässerung erkennbar gewesen. Die erst im Frühjahr 2022 eingebrachte Klage sei verspätet.
+Rechtliche Beurteilung
+[3] 		2. Die außerordentliche Revision der Kläger, mit der sie Verfahrensmängel und unrichtige rechtliche Beurteilung geltend machen, ist mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+[4] 		3. Behauptete Mängel des Verfahrens erster Instanz, die das Berufungsgericht behandelt und für nicht berechtigt erachtet hat, können im Revisionsverfahren nicht neuerlich geltend gemacht werden. Dieser Grundsatz kann auch nicht durch die Behauptung umgangen werden, das Berufungsverfahren selbst sei – weil das Berufungsgericht der Mängelrüge nicht gefolgt ist – mangelhaft geblieben (RIS-Justiz RS0042963 [T58]).
+[5] 		Die Revision gesteht zu, dass sich das Berufungsgericht mit der Mängelrüge der Berufung auseinandergesetzt und auch begründet hat, weshalb es ihr nicht gefolgt ist (vgl RS0043150; RS0043268 [T4]). Der Anfechtungsgrund ist daher nicht verwirklicht.
+[6] 		Soweit die Revision meint, die unterbliebene Vernehmung beantragter Zeugen hätte Umstände erhellt, die zu einer anderen rechtlichen Beurteilung geführt hätten, wird übergangen, dass es Sache der Kläger gewesen wäre, in erster Instanz ein entsprechendes Tatsachenvorbringen zu erstatten. Fehlendes Vorbringen kann im Zivilprozess nicht durch Aussagen von Zeugen oder Parteien ersetzt werden (RS0038037 [T1]).
+[7] 		4. Die Frage, wann ein Geschädigter bei angemessener Erkundigung die für die erfolgversprechende Anspruchsverfolgung notwendigen Voraussetzungen ohne nennenswerte Mühe in Erfahrung bringen hätte können, und wo die Grenzen der Erkundigungspflicht des Geschädigten liegen, hängt immer von den Umständen des Einzelfalls ab (RS0034524 [T21, T22, T23, T32 uva]; RS0113916; RS0034327 [T3] ua).
+[8] 		Nach dem festgestellten Sachverhalt (Offenkundigkeit des wiederholten Eindringens von Oberflächenwasser bei starkem Regen; Erkennbarkeit des Umstands, dass keine Entwässerungsmulden, sondern Kiesstreifen neben den Verkehrsflächen vorhanden sind; Kenntnis der Person des Vertragspartners, dem die vereinbarungs- und fachgemäße Errichtung oblag) ist die Rechtsansicht der Vorinstanzen, dass die Kläger bei angemessener Erkundigung bereits im Jahr 2018 zur Erhebung der Klage in der Lage gewesen wären, jedenfalls vertretbar.
+[9] 		Die Argumentation der Revisionswerber, sie hätten das Problem zunächst auf Auswirkungen des Klimawandels zurückgeführt, ist unschlüssig, weil es für geltend gemachte Schadenersatzansprüche auf die vermutete Ursache für das Auftreten von Starkregen nicht ankommt.
+[10] 		Ein innerhalb des relevanten Zeitraums (nach 2018) durchgeführter Verbesserungsversuch der Beklagten, der zu einer Unterbrechung von Gewährleistungs- und Verjährungsfristen führen hätte können, wurde in erster Instanz von den Klägern so nicht vorgebracht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00166.22B.1216.000

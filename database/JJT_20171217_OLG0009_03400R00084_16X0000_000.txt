@@ -1,0 +1,42 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+17.12.2017
+Geschäftszahl
+34R84/16x
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht ***** wegen Erlassung einer einstweiligen Verfügung zur Beweissicherung (Interesse: EUR 35.000,--) über den Rekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Handelsgerichts Wien vom 20.7.2016, 19 Cg 17/16w-20, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die gefährdete Partei hat die Kosten ihrer Rekursbeantwortung vorläufig, die Gegnerin der gefährdeten Partei hat ihre Rekurskosten endgültig selbst zu tragen.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Begründung
+Text
+Die Gefährdete ist Inhaberin des Patents ***** (in der Folge kurz: Streitpatent). Die Gegnerin der Gefährdeten (in der Folge kurz: Gegnerin) wiederum entwickelt, produziert und vertreibt *****. Diese Produkte stellt sie in Österreich her, bietet sie dort an und vertreibt sie dort.
+Mit ihrem Antrag auf Erlassung einer einstweiligen Verfügung zur Beweissicherung behauptet die Gefährdete auf das Wesentliche zusammengefasst, die Gegnerin stelle in Österreich ***** unter Ausnutzung des Streitpatents her und vertreibe diese unter der Bezeichnung *****.
+Das Erstgericht erließ daraufhin ohne Anhörung der Gefährdeten die beantragte einstweilige Verfügung (ON 2); sie wurde in weiterer Folge am 1.6.2016 vollzogen (ON 10).
+Mit dem dagegen gemeinsam mit dem Widerspruch erhobenen Rekurs verband die Gegnerin den hier zu behandelnden Antrag auf Einschränkung der Akteneinsicht (ON 14) in Bezug auf den Bericht der Sachverständigen vom 7.6.2016 (ON 11) samt allen Beilagen mit dem wesentlichen Argument, der Bericht der Sachverständigen enthalte Rezepturgeheimnisse, nämlich interne Bezeichnungen aus der Rohstoff- sowie aus der Rezeptur- und Rückstellmusterdatenbank, die der Gefährdeten einsehbar würden.
+Mit dem hier angefochtenen Beschluss gab das Erstgericht unter anderem dem Antrag auf Akteneinsicht im Umfang von „Punkt 2.1 des Berichts ON 12 sowie der Anhänge 1, 2 und 5“ statt. Den darüber hinausgehenden Antrag wies es ab (Spruch, Punkt 1.).
+Gegen den abweisenden Teil dieses Beschlusses, mit dem der Gefährdeten Akteneinsicht gewährt wird, richtet sich der Rekurs der Gegnerin aus den Rekursgründen der unrichtigen rechtlichen Beurteilung und der Aktenwidrigkeit sowie wegen Nichtigkeit mit dem Antrag, vom Bericht der Sachverständigen ON 12 auch Punkt 2.2., die Tabelle Punkt 3. sowie seine Anhänge 3 und 4 auszunehmen; in eventu wird ein Aufhebungsantrag gestellt.
+Die Gefährdete beantragt, den Rekurs abzuweisen.
+Im ersten Rechtsgang wies das Rekursgericht den Rekurs zurück.
+Dem dagegen erhobenen Revisionsrekurs gab der Oberste Gerichtshof Folge und trug dem Rekursgericht auf, über den Rekurs unter Abstandnahme vom gebrauchten Zurückweisungsgrund zu entscheiden (ON 51).
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+1. Der Oberste Gerichtshof hat in seinem aufhebenden Beschluss für das Rekursgericht bindend ausgesprochen, dass ungeachtet des Vorliegens eines Beweissicherungsantrags der Befund der Sachverständigen als Sachverständigengutachten zu werten und anhand dieser Qualifikation über die hier relevante Frage der Akteneinsicht zu entscheiden ist (ON 51, Punkt 2.4. = RIS-Justiz RS0126769 [T2]).
+2.1. Bereits im ersten Rechtsgang hat das Rekursgericht auch inhaltlich zur Frage der Beschränkung der Akteneinsicht Stellung genommen (ON 25, Punkt 1.4.):
+„Art 7 Abs 1 der Richtlinie 2004/48/EG zur Durchsetzung der Rechte des geistigen Eigentums (RechtsdurchsetzungsRL) weist auf den Schutz vertraulicher Informationen hin und legt fest, dass die „betroffenen Personen spätestens unverzüglich nach der Vollziehung der Maßnahmen davon in Kenntnis zu setzen“ sind und auf Antrag eine Prüfung der angeordneten Maßnahmen stattzufinden hat, wenn Maßnahmen zur Beweissicherung ohne Anhörung der anderen Partei getroffen wurden (zur hier relevanten Umsetzungsbestimmung des § 151b PatG vgl die ErlRV, abgedruckt bei Weiser, PatG3 592 ff). Darauf verweist die Gegnerin auch zutreffend: Im Einklang damit und unter Bedachtnahme darauf hat das Erstgericht über ihren Antrag auf Beschränkung der Akteneinsicht entschieden, sodass diese Norm angemessen berücksichtigt ist.“
+2.2. An dieser Beurteilung hält das Rekursgericht fest, denn Zweck der Beschränkung der Akteneinsicht ist in concreto, ein ausgewogenes Verhältnis zwischen dem Sicherungsinteresse der Gefährdeten und dem Geheimhaltungsinteresse der Gegnerin zu effektuieren und dabei in erster Linie zu verhindern, dass über den Umweg der Akteneinsicht der Entscheidung über den Sicherungsanspruch de facto vorgegriffen wird.
+2.3. Eine solch umfassende Interessenabwägung hat das Erstgericht in seiner angefochtenen Entscheidung unter richtlinienkonformer Auslegung von § 73 EO auf differenzierende Weise unter Berücksichtigung der einschlägigen Rechtsprechung und damit zutreffend vorgenommen, sodass zur Vermeidung von Wiederholungen auf die Begründung dieses Beschlusses verwiesen werden kann (§ 78 EO iVm § 526 Abs 3 ZPO; s allg Jakusch in Angst/Oberhammer, EO3 § 73 Rz 5/1 [„Interessenabwägung“] und Rz 7).
+2.4. Ob eine „Einstweilige Verfügung zur Beweissicherung [...] überholt und nicht zulässig [ist]“ (Rekurs S 5) ist ebenso wie die geltend gemachte Nichtigkeit („Wer hat das letzte Wort?“, Rekurs S 6) keine Dimension des hier relevanten, nur vorläufigen Schutzes von Geschäfts- und Betriebsgeheimnissen.
+Zur Frage der Nichtigkeit hat zudem der Oberste Gerichtshof im Zusammenhang mit der Berechtigung des Sicherungsbegehrens zuletzt Folgendes ausgeführt (4 Ob 83/17k):
+„7. Soweit die Gegnerin neuerlich Vorbringen zur behaupteten Nichtigkeit des gefährdeten Patents erstattet, hält sich dieses im Wesentlichen auf der Tatsachenebene. Insoweit hat bereits das Rekursgericht die erfolgreiche Gegenbescheinigung der – insoweit beweis- bzw bescheinigungspflichtigen (vgl RIS-Justiz RS0071369; RS00103412 [T1,T2]) – Gegnerin verneint. Das Rekursgericht hat auch zutreffend darauf hingewiesen, dass es im vorliegenden Fall nicht um die Frage eines Patenteingriffs geht, sondern um die Sicherstellung eventuell patentverletzenden Materials.“
+3. Die Kostenentscheidung stützt sich hinsichtlich der Gegnerin auf §§ 40, 50 ZPO iVm § 78 EO, hinsichtlich der Gefährdeten auf § 393 Abs 1 EO.
+Der Ausspruch über den Wert des Entscheidungsgegenstands beruht auf § 500 Abs 2 Z 1 lit b ZPO (iVm § 526 Abs 3 ZPO iVm §§ 78, 402 Abs 4 EO) und folgt der von der Gefährdeten vorgenommenen, unbedenklichen Bezifferung.
+4. Die Unzulässigkeit des Revisionsrekurses ergibt sich aus § 78 EO iVm § 528 Abs 2 Z 2 ZPO: Für die hier relevante Frage der Akteneinsicht und für den damit im Zusammenhang stehenden Rekurs gilt die Ausnahmebestimmung des § 402 Abs 1 EO nicht. Dieser Frage kommt auch keine „richtungweisende Bedeutung für das Hauptverfahren“ zu, sodass auch keine planwidrige Lücke durch Analogieschluss zu füllen ist (vgl 4 Ob 107/07z; Kodek in Angst/Oberhammer, EO³ § 402 Rz 16; RIS-Justiz RS0112144; RS0097221).
+[Der Oberste Gerichtshof wies den Revisionsrekurs am 23.1.2018 zurück, 4 Ob 242/17t.].
+European Case Law Identifier
+ECLI:AT:OLG0009:2017:03400R00084.16X.1217.000

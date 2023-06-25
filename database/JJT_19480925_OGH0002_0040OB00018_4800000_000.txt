@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.09.1948
+Geschäftszahl
+4Ob18/48
+Norm
+JN §51 Abs1 Z1;
+JN §51 Abs1 Z3;
+JN §51 Abs1 Z6;
+JN §61;
+Kopf
+SZ 21/136
+Spruch
+Bei untrennbarem Zusammenhang der Entscheidungen über die Zuständigkeit und in der Sache selbst dürfen der Entscheidung über die Zuständigkeit des angerufenen Arbeitsgerichtes die Klagebehauptungen nicht ohneweiters zugrunde gelegt werden; es muß vielmehr im Verfahren über die Frage der Zuständigkeit die Richtigkeit der Behauptungen des Klägers untersucht werden.
+Entscheidung vom 25. September 1948, 4 Ob 18/48.
+I. Instanz: Arbeitsgericht Amstetten; II. Instanz: Kreisgericht St. Pölten.
+Text
+Die Klägerin hatte behauptet, dem Beklagten als dessen Dienstgeberin eine Wohnung als Dienstwohnung zur Verfügung gestellt zu haben und begehrte nach Lösung dieses Dienstverhältnisses die Räumung der Dienstwohnung durch den Beklagten vor dem Bezirksgerichte Amstetten als Arbeitsgericht. Dieses Gericht hatte auch dem Klagebegehren stattgegeben.
+Im Berufungsverfahren wurde die Frage der sachlichen Zuständigkeit des Arbeitsgerichtes aufgerollt; das Berufungsgericht gelangte auf Grund der Prüfung des Sachverhaltes zu dem Ergebnis, daß es sich nicht um eine Dienstwohnung handle und hat daher das gesamte Verfahren wegen sachlicher Unzuständigkeit des Arbeitsgerichtes für nichtig erklärt und die Klage zurückgewiesen.
+Dem dagegen gerichteten Rekurs der Klägerin hat der Oberste Gerichtshof nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei der Beurteilung der Zuständigkeitsfrage ist für die Entscheidung nicht die vom Kläger behauptete Sachlage maßgebend, sondern der Tatbestand, den das Gericht auf Grund des Beweisergebnisses als festgestellt ansieht. Das folgt insbesondere aus § 51, Z. 1, 3 und 6 JN., wo zur Begründung der Zuständigkeit erfordert wird, daß die Eigenschaft des Beklagten als eines Kaufmannes (einer Handelsgesellschaft) im Falle der Z. 1 des Klägers als eines Kaufmannes und der Angestellteneigenschaft des Beklagten im Falle der Z. 3 und das Bestehen der behaupteten Handelsgesellschaft im Falle der Z. 6 nachgewiesen wird. Insbesondere aber ist aus der Sonderregelung des § 61 JN. zu erschließen, daß bei unzertrennlichem Zusammenhang der Zuständigkeits- und der Sachentscheidung auch für die Lösung der Zuständigkeitsfrage die bloße Behauptung der Klagstatsachen nicht ausreicht, sondern daß auch schon im Verfahren über die Vorfrage der Zuständigkeit die Richtigkeit der Klagstatsachen untersucht werden muß. Das Berufungsgericht hat daher mit Recht nicht die Behauptung in der Klage zugrunde gelegt, daß Beklagter die Räume, deren Übergabe sie begehrt, auf Grund seines seinerzeitigen Dienstvertrages innehabe, sondern diese Frage auf Grund der Beweisergebnisse überprüft.
+Das muß auch im Verhältnis zwischen den Gerichten der ordentlichen Gerichtsbarkeit und den Arbeitsgerichten gelten. Es ist nicht angängig, daß ein vor die Arbeitsgerichte gehöriger Anspruch von den ordentlichen Gerichten aberkannt wird, wenn im Zuge des Beweisverfahrens hervorgekommen ist, daß der Kläger die Tatsachen, aus denen sich ergibt, daß es sich um einen arbeitsrechtlichen Anspruch handelt, verschwiegen oder unrichtig dargestellt und so zu Unrecht die Zuständigkeit der ordentlichen Gerichte in Anspruch genommen hat oder umgekehrt die Arbeitsgerichte angerufen hat, obwohl es sich um einen Anspruch handelt, der vor den ordentlichen Gerichten geltend zu machen ist.
+Auch die Grundsätze der Prozeßökonomie können zu keinem anderen Ergebnissen führen, weil ein Gericht, dessen Zuständigkeit nicht vereinbart werden kann, niemals mit einer Rechtssache befaßt werden darf, die seiner Zuständigkeit nicht unterliegt und die es daher nach den Prozeßvorschriften nicht meritorisch entscheiden darf.
+Der Oberste Gerichtshof lehnt daher die entgegengesetzte ständige Judikatur der Gewerbegerichte (Arb. Entsch. 3242, 3394, 3786, 4783 und 4828) ab, da sie den zwingenden Vorschriften der Prozeßgesetze widerspricht.

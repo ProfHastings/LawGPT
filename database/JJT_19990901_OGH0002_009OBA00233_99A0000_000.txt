@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.09.1999
+Geschäftszahl
+9ObA233/99a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Maier als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofes Dr. Steinbauer und Dr. Spenling sowie die fachkundigen Laienrichter Dr. Christoph Kainz und Franz Höllebrand als weitere Richter  in der Arbeitsrechtssache der klagenden Partei Josef P*****, Kraftfahrer, *****, vertreten durch Dr. Peter Cardona, Rechtsanwalt in Salzburg, gegen die beklagte Partei Josef S*****, Transportunternehmer, *****, vertreten durch Dr. Rudolf Bruckenberger, Rechtsanwalt in Salzburg, wegen S 94.899,38 brutto sA (Revisionsinteresse S 2.725,83 brutto sA), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 15. Juni 1999, GZ 12 Ra 106/99s-11, womit über Berufung der klagenden Partei das Urteil des Landesgerichtes Salzburg als Arbeits- und Sozialgericht vom 8. April 1999, GZ 20 Cga 369/98m-6, bestätigt wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit S 2.031,36 bestimmten Kosten des Revisionsverfahrens (darin S 338,56 Umsatzsteuer) binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Im Revisionsverfahren ist unstrittig, daß der Kläger zu Recht entlassen wurde. Nach dem Verbrauch von 6 Urlaubstagen im Jahr 1998 stehen ihm noch 19 Tage Resturlaub aus dem Zeitraum 1. 10. 1997 bis 11. 5. 1998 (223 Tage bzw. 31 Wochen und 6 Tage) zu. Unstrittig ist auch die Höhe des (auf einen Monat bezogenen) Urlaubsentgelts mit S 24.338,37, sodaß sich bei 22 Arbeitstagen im Monat pro Urlaubstag ein Betrag von S 1.106,28 (S 24.338,37 : 22) ergibt.
+Das Berufungsgericht vertrat die Rechtsauffassung, daß bei der Berechnung der dem Kläger zustehenden Urlaubsabfindung der ihm bereits in natura gewährte Urlaub voll auf den Anspruch auf Urlaubsabfindung anzurechnen sei. Es billigte daher die Berechnung des Erstgerichtes, das - soweit im Revisionsverfahren noch von
+Interesse - folgende Rechenoperationen anstellte:
+S 24.338,37 : 22 (Arbeitstage im Monat) =     S 1.106,28
+S 1.106,28 x 25 (gesamter Urlaubsanspruch) = S 27.657,23
+S 27.657,23 : 52 (Wochen pro Jahr) =          S   531,86
+S 531,86 x 31,5 Wochen (bis zur Beendigung
+zurückgelegte Dienstzeit) =                  S 16.763,90
+abzüglich 6 konsumierter Urlaubstage
+(S 1.106,28 x 6) =                          - S 6.637,68
+S 10.116,22
+abzüglich bezahlter S 2.067,00              - S 2.067,00
+restliche Urlaubsabfindung daher              S 8.049,22
+Diese Rechtsauffassung des Berufungsgerichtes ist zutreffend. Es reicht daher aus, auf die Richtigkeit der Begründung der angefochtenen Entscheidung zu verweisen (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+Ergänzend ist dazu wie folgt Stellung zu nehmen:
+Das Berufungsgericht hat zutreffend ausgeführt, daß der Oberste Gerichtshof von seiner früheren Rechtsprechung, die den vor Beendigung des Arbeitsverhältnisses bereits in natura verbrauchten Urlaub durch Berechnung der Urlaubsabfindung für den noch nicht konsumierten Urlaubsrest berücksichtigte (siehe im Detail SZ 55/14), mit der Entscheidung SZ 63/146 (ihr folgend: DRdA 1992,234 und Arb 11.019) abgegangen ist. In diesen Entscheidungen geht der Oberste Gerichtshof davon aus, daß der verbrauchte Urlaub auf den (für den gesamten Urlaubsanspruch ermittelten) Anspruch auf Urlaubsabfindung voll anzurechnen ist. Die Aliquotierungsbestimmung des § 10 Abs 1 Satz 2 UrlG sei schon ihrem Wortlaut nach nur auf jene Fälle anzuwenden, in denen überhaupt kein Urlaub in natura verbraucht worden sei. Es sei auf den Zweck der Urlaubsabfindung abzustellen, dem Arbeitnehmer wegen der Unmöglichkeit des Urlaubsverbrauches in natura nach Beendigung des Arbeitsverhältnisses einen Abfindungsanspruch in Geld für den nicht verbrauchten Urlaub zuzubilligen. Dem subsidiären Charakter dieser Geldleistung entspreche es, bereits in natura gewährten Urlaub voll auf diese Leistungen anzurechnen. Dadurch werde eine sachlich nicht zu rechtfertigende Schlechterstellung jener Arbeitnehmer vermieden, die im laufenden Urlaubsjahr keinen Urlaub verbraucht haben (siehe im Detail: SZ 63/146).
+Diese Rechtsprechung ist in der Lehre teilweise auf Zustimmung gestoßen (Kuderna, UrlG2 Rz 8 zu § 10; Schrank, ecolex 1991, 41;
+Tomandl, ZAS 1991, 1 ff; Grömmer/Oberhofer, DRdA 1991, 233;
+Andexlinger, RdW 1990, 410), teilweise aber auch auf Ablehnung (Cerny, Urlaubsrecht7 Rz 4 zu § 10; Floretta/Spielbüchler/Strasser, Arbeitsrecht4 318; Schwarz/Löschnigg, Arbeitsrecht7 510f). Kern der an der neuen Rechtsprechung geäußerten Kritik ist der Vorwurf, daß sie im Ergebnis auf einer im Gesetz nicht vorgesehenen Aliquotierung des Urlaubes, also auf der Annahme eines entsprechend der Beschäftigungsdauer anwachsenden Urlaubsanspruches, beruhe (Schwarz/Löschnigg aaO; Floretta/Spielbüchler/Strasser aaO). Derartiges ist aber den zitierten Entscheidungen nicht zu entnehmen. Vielmehr geht der OGH davon aus, daß bei teilweisem Urlaubsverbrauch in einem ersten Schritt - ausgehend vom gesamten für das Jahr bestehenden Urlaubsanspruch - zu ermitteln ist, welche Urlaubsabfindung zustünde, wenn kein Urlaub konsumiert worden wäre;
+in einem zweiten Schritt ist sodann - dem subsidiären Charakter der Urlaubsabfindung entsprechend - das den verbrauchten Urlaubstagen entsprechende Urlaubsentgelt in Anrechnung zu bringen, und zwar gleichmäßig in jenem Ausmaß, in dem ein einzelner Urlaubstag bei Berechnung des Urlaubsentgeltes zu Buche schlägt. Mit einer "Aliquotierung des Jahresurlaubes" hat dies nichts zu tun (in diesem Sinne: Grömmer/Oberhofer, DRdA 1991, 233).
+Es trifft auch nicht zu, daß - wie der Revisionswerber meint - die nunmehrige Rechtsprechung durch die Beschäftigungssicherungsnovelle 1993 (BGBl Nr. 502/1993) überholt sei. Das von ihm dazu ins Treffen geführte Beispiel (Cerny, aaO 227f) betrifft den Fall der Beendigung eines Arbeitsverhältnisses, das nicht länger als sechs Monate gedauert hat. Für diesen Fall hat der OGH die von Cerny befürchtete zweifache Aliquotierung bei der Ermittlung der Urlaubsabfindung in der Entscheidung 8 ObA 2318/96g = EvBl 1997/72 ausgeschlossen, indem er klargestellt hat, daß auch in diesem Fall der Berechnung der Urlaubsabfindung unverändert der gesamte Urlaubsentgeltanspruch zugrundezulegen ist, auch wenn die Entstehung des Urlaubsanspruches im ersten Halbjahr des ersten Arbeitsjahres zu Teilansprüchen führte. Daraus kann aber der Revisionswerber nichts für sich ableiten, weil diese Entscheidung nur den ersten Schritt der oben erläuterten Vorgangsweise - nämlich die Ermittlung der ohne Urlaubsverbrauch zustehenden Urlaubsabfindung - betrifft, zum zweiten Schritt - also zur Anrechnung verbrauchten Urlaubes - aber keine Aussagen trifft.
+Der erkennende Senat sieht sich daher nicht veranlaßt, von der mit SZ 63/146 eingeleiteten Rechtsprechung abzugehen. Die von den Vorinstanzen vorgenommenen Berechnungen, die dieser Rechtsprechung Rechnung tragen, sind nicht zu beanstanden.
+Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf die §§ 41, 50 Abs 1 ZPO.

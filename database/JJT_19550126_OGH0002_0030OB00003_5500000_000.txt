@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.1955
+Geschäftszahl
+3Ob3/55
+Norm
+ABGB §891;
+Handelsgesetzbuch §128;
+ZPO §411;
+Kopf
+SZ 28/21
+Spruch
+Gehört der Gesellschafter im Zeitpunkt der Einbringung der Klage gegen die Gesellschaft dieser nicht mehr an, so wirkt ein gegen die Gesellschaft ergehendes Urteil nicht gegen ihn. Es sind ihm durch dieses Urteil seine Einwendungen gegen die gegen ihn sodann erhobene Klage nicht abgeschnitten.
+Entscheidung vom 26. Jänner 1955, 3 Ob 3/55.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die Klägerin begehrt Zahlung von 10.000 S mit der Behauptung, die H.-KG. schulde der Klägerin laut Urteil des Handelsgerichtes Wien vom 23. April 1954 einen Betrag von 10.000 S und Kosten von 593 S. Der Beklagte sei bis 4. August 1953 Komplementär dieser Kommanditgesellschaft gewesen. Da der Betrag am 31. Dezember 1952 zur Zahlung fällig gewesen sei, hafte der Beklagte für die Verbindlichkeit der Gesellschaft.
+Das Erstgericht gab dem Klagebegehren ohne Aufnahme von Beweisen statt. Durch das Versäumungsurteil vom 23. April 1954 sei die Schuld der H.-KG. rechtskräftig festgestellt. Der Beklagte hafte für diese Schuld gemäß § 128 HGB. Ihm stunden nur mehr persönliche Einwendungen zu. Solche seien nicht erhoben worden. Die Einwendungen, die der Kommanditgesellschaft zugestanden wären, seien aber durch das Urteil erledigt und könnten vom Beklagten nicht mehr erhoben werden.
+Das Berufungsgericht hob dieses Urteil unter Rechtskraftvorbehalt auf. Die Rechtskraftwirkung eines Urteiles gegen die Gesellschaft erstrecke sich nur auf jene Gesellschafter, die während des Prozesses Gesellschafter waren. Die nach dem Ausscheiden des Gesellschafters eintretenden Tatsachen wirken gegen ihn aber nur, wenn sie in seiner Person eintreten. Deshalb wirke auch ein nach Ausscheiden des Gesellschafters gegen die Gesellschaft erstrittenes Urteil nicht auf den bereits ausgeschiedenen Gesellschafter zurück. Der Beklagte sei im Zeitpunkt der Einbringung der Klage gegen die Gesellschaft nicht mehr Gesellschafter gewesen. Er könne daher der Klage alle jene Einwendungen entgegensetzen, die der Gesellschaft im Zeitpunkt seines Ausscheidens zugestanden wären. Im übrigen könnte die Einwendung, daß das Versäumungsurteil auf ein bewußtes Zusammenspiel zwischen der Klägerin und der nunmehrigen Alleininhaberin der H.-KG. zurückgehe, jederzeit erhoben werden. Da somit der geltend gemachte Anspruch, von einer unrichtigen Rechtsansicht ausgehend, nicht geprüft worden sei, sei die Aufhebung des erstgerichtlichen Urteiles notwendig.
+Der Oberste Gerichtshof gab dem Rekurs der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist durchaus richtig, daß ein persönlich haftender Gesellschafter noch fünf Jahre nach seinem Ausscheiden für die während seiner Zugehörigkeit begrundeten Verbindlichkeiten der Gesellschaft haftet. Von dieser Rechtsmeinung ist aber das Berufungsgericht ausgegangen. Durch das Ausscheiden des Gesellschafters wird seine Haftung nicht verändert, wohl aber seine prozessuale Stellung. Gehört der Gesellschafter im Zeitpunkt der Einbringung der Klage gegen die Gesellschaft nicht mehr der Gesellschaft an, so wirkt ein gegen die Gesellschaft ergehendes Urteil nicht gegen den ehemaligen Gesellschafter. Er ist lediglich Solidarschuldner hinsichtlich der vor seinem Ausscheiden entstandenen Gesellschaftsschulden. Es finden lediglich die Vorschriften über das Gesamtschuldverhältnis Anwendung und fallen alle Rechtsfolgen, die sich aus einer Gesellschafterstellung ergeben, weg. Es ist daher auch das Verhalten der Gesellschaft im Prozeß ohne Einfluß auf sein Verhältnis zum Gläubiger der Gesellschaft. Es kann daher auch die nach seinem Ausscheiden erfolgte rechtskräftige Verurteilung der Gesellschaft in einem Rechtsstreit, der erst nach seinem Ausscheiden anhängig gemacht wurde, nicht mehr gegen ihn wirken. Die nach seinem Ausscheiden eintretenden Tatsachen wirken nur, wenn sie in seiner Person eingetreten sind. Es ist in Lehre und Rechtsprechung unbestritten, daß das Urteil gegen einen Gesamtschuldner nicht gegen die anderen Gesamtschuldner wirkt und daß durch ein solches Urteil dem später belangten Gesamtschuldner keinerlei Einwendungen gegen den Bestand der Forderung abgeschnitten werden. Dies muß auch für den vorliegenden Fall gelten.
+Es ist unbestritten, daß der Beklagte am 4. August 1953 als Gesellschafter im Register gelöscht wurde. Bis zu diesem Tage muß er die Eintragung gegen sich gelten lassen, falls der Klägerin das Gegenteil nicht bekannt war. Die Klage gegen die Gesellschaft wurde aber erst am 7. April 1954 eingebracht, also zu einer Zeit, da der Beklagte nicht mehr Gesellschafter der H.-KG. war. Das in diesem Rechtsstreit ergangene Versäumnisurteil bewirkt im Sinne der früheren Rechtsausführungen keine Rechtskraft gegen den Beklagten. Es stehen ihm daher noch alle Einwendungen gegen den Anspruch offen, wie er sie ohne dieses Urteil hätte erheben können.
+Zu Unrecht beruft sich die Rekurswerberin auf die Entscheidung Rspr. 1932 Nr. 366, weil dieser Entscheidung nicht mit Sicherheit zu entnehmen ist, ob ihr der gleiche Sachverhalt zugrunde liegt, ob nämlich der Gesellschafter bereits im Zeitpunkt der Einbringung der Klage gegen die Gesellschaft aus der Gesellschaft ausgeschieden war.

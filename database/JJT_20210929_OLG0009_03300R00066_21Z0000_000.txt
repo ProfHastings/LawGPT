@@ -1,0 +1,40 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+29.09.2021
+Geschäftszahl
+33R66/21z
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie die Richterin Mag. Janschitz und die Patentanwältin DI Bachinger-Fuchs in der Patentrechtssache der klagenden Partei A*****, vertreten durch die Schmidtmayr, Sorgo, Wanke Rechtsanwälte OG in Wien, wider die beklagte Partei M*****, vertreten durch die Rechtsanwälte Lang & Schulze-Bauer OG in Fürstenfeld, wegen Unterlassung, Beseitigung, Urteilsveröffentlichung, Auskunft, Rechnungslegung und Zahlung, hier wegen Prozesskosten, über den Rekurs der beklagten Partei gegen den Beschluss des Handelsgerichts Wien vom 19.5.2021, 19 Cg 21/20i-21, Rekursinteresse EUR 7.029, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird Folge gegeben.
+Die Entscheidung wird so geändert, dass der zweite Absatz des Spruchs lautet:
+«Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen an Kosten EUR 19.662,88 (darin EUR 3.247,30 USt) zu ersetzen.»
+Der erste Absatz bleibt unverändert, der dritte Absatz entfällt.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die Rekurskosten von EUR 418,78 (darin EUR 69,80 USt) zu ersetzen.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Begründung
+Text
+1. Die Klägerin brachte in der Klage vor, der Beklagte habe ihr Patent ***** (Priorität 15.6.2010) verletzt, und erhob unter anderem Unterlassungsbegehren.
+Der Beklagte bestritt die Patentverletzung und wandte unter anderem ein, er habe die Anlage, die die Klägerin als Patentverletzung inkriminiere, schon vor der Patentanmeldung hergestellt; bereits seit dem Jahr 2005 produziere er solche Anlagen. Auch andere Unternehmen hätten solche Anlagen schon vor dem Jahr 2010 hergestellt und angeboten. Damit trug er inhaltlich vor, dem Klagepatent fehle die Neuheit und der erfinderische Schritt.
+2. Tagsatzungen zur mündlichen Streitverhandlung fanden am 18.12.2020 und am 19.3.2021 statt.
+Mit Schriftsatz vom 10.3.2021 (ON 16), eingelangt somit vor dem zweiten Verhandlungstermin, beantragte der Beklagte die Unterbrechung des Verfahrens zur Stellung eines Löschungsantrags beim Patentamt und legte dazu als Beilage ./25 das Gutachten eines Patentanwalts über die Rechtsbeständigkeit des Klagepatents vor. In der darauf folgenden Tagsatzung beschloss das Erstgericht, das Verfahren zu unterbrechen, und setzte dem Beklagten eine Frist von einem Monat, um das Einbringen des Nichtigkeitsantrags beim Patentamt nachzuweisen. Vor dem Ablauf dieser Monatsfrist zog die Klägerin die Klage unter Anspruchsverzicht zurück, beantragte jedoch den vollen Kostenzuspruch (diesen Antrag hat das Erstgericht unbekämpft abgewiesen).
+Der Beklagte beantragte rechtzeitig, die Klägerin gemäß § 237 Abs 3 ZPO zum Kostenersatz zu verpflichten.
+3. Das Erstgericht verpflichtete die Klägerin, dem Beklagten die mit EUR 12.633,88 bestimmten Prozesskosten zu ersetzen. Die Kosten des Gutachtens ./25 sind darin nicht enthalten.
+4. Dagegen richtet sich der Rekurs des Beklagten mit dem Antrag, ihm auch den Ersatz der Kosten des erwähnten Gutachtens in der Höhe von EUR 7.029 zuzusprechen, insgesamt somit EUR 19.662,88 (darin enthalten EUR 3.247,30 USt); er macht unrichtige rechtliche Beurteilung geltend.
+Die Klägerin beantragt, dem Rekurs nicht Folge zu geben.
+Rechtliche Beurteilung
+Der Rekurs ist berechtigt.
+5. Zu Recht verweist der Beklagte darauf, dass die Begründung des Erstgerichts die Kostenentscheidung inhaltlich nicht zu tragen vermag, nämlich dass der anwesende Patentanwalt den Inhalt des Gutachtens in der Tagsatzung vom 19.3.2021 gemäß § 16 Abs 2 PatAnwG auch mündlich vortragen hätte können, womit der gleiche Zweck mit einem geringeren Aufwand und kostensparend erreicht worden wäre. Es gibt keine Anhaltspunkte dafür, dass die Mühewaltung und der Aufwand des Patentanwalts in diesem Fall geringer gewesen wäre.
+6.1. Zu ersetzen sind jene Kosten, die zur zweckentsprechenden Rechtsverfolgung oder -verteidigung notwendig waren. Als zweckentsprechend gilt jede – verfahrensrechtlich zulässige ? Aktion, die zum prozessualen Ziel der Partei führen kann; die Prozesshandlung muss nach objektiver Beurteilung eine Förderung des Prozesserfolgs erwarten lassen. Notwendig ist, was mit einem geringeren Aufwand nicht erreicht werden könnte. Maßgeblich ist, ob eine durchschnittlich sorgfältige und informierte Partei bei der gegebenen Sachlage den kostenverursachenden Schritt gesetzt hätte. Dies hängt von den jeweiligen objektiven Umständen des Einzelfalls ab. Die Prüfung ist aus einer ex ante-Betrachtung vorzunehmen (vgl Obermaier, Kostenhandbuch3 Rz 1.245 f).
+6.2. Nach Einschätzung des Rekursgerichts war die Einholung des Gutachtens zur zweckentsprechenden Rechtsverteidigung notwendig. Im Prozess über Patentstreitigkeiten ist einer Partei, die ihren Prozessstandpunkt auf die Nichtigkeit eines Patents stützt, in der Regel zuzubilligen, zur Begründung dieses Vorbringens ein Gutachten eines Patentanwalts einzuholen, weil diese Berufsgruppe über das Fachwissen verfügt, das der Beurteilung der komplexen patentrechtlichen und technischen Zusammenhänge dient (vgl dazu auch OLG Wien 33 R 116/20a).
+Im konkreten Fall hat sich der auf das Gutachten gestützte Vortrag des Beklagten auch als erfolgreich erwiesen, weil die Klägerin auf die Ansprüche verzichtet und die Klage zurückgezogen hat, noch ehe die Frist für den Löschungsantrag des Beklagten abgelaufen war.
+6.3. Zu bedenken ist auch, dass der Beklagte in dieser Situation nicht weiter gehalten ist, einen solchen Antrag zu stellen. Für den Fall, dass er dies tatsächlich nicht getan hat, hätte er keine Möglichkeit, den Ersatz für die Kosten des Gutachtens anzusprechen. (Für den Fall, dass er dennoch den Antrag beim Patentamt gestellt hat, wäre die dortige Antragsgegnerin, das ist die Klägerin, in der Lage, durch ein entsprechendes Vorbringen zu verhindern, dass sie dem Beklagten die Kosten dieses Gutachtens ein zweites Mal ersetzen muss.)
+6.4. Die Kostenentscheidung bedarf daher der Korrektur. Insgesamt hat die Klägerin dem Beklagten EUR 19.662,88 zu ersetzen.
+7. Der letzte Absatz im Spruch der angefochtenen Entscheidung (Kostenaufhebung in Bezug auf das Kostenbestimmungsverfahren) kann entfallen, weil das Erstgericht dem Beklagten die Kosten des Kostenbestimmungsantrags ohnedies – unangefochten – zugesprochen hat.
+8. Die Entscheidung über die Kosten des Rekursverfahrens beruht auf § 41 Abs 1, § 50 Abs 1 ZPO. Die Klägerin hat auch die Kosten des Kostenrekurses zu ersetzen.
+9. Gemäß § 528 Abs 2 Z 3 ZPO ist der Revisionsrekurs jedenfalls unzulässig.
+European Case Law Identifier
+ECLI:AT:OLG0009:2021:03300R00066.21Z.0929.000

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.11.1950
+Geschäftszahl
+2Ob767/50
+Norm
+ABGB §308;
+ABGB §547;
+ABGB §823;
+EO §382 Z6;
+Grundbuchsgesetz §61;
+Kopf
+SZ 23/353
+Spruch
+Streitanmerkung ist bei Erbschaftsklagen zulässig.
+Entscheidung vom 29. November 1950, 2 Ob 767/50.
+I. Instanz: Kreisgericht Ried i. I.; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Nachlaß des Dr. Karl M. war auf Grund eines Testamentes vom 21. August 1943 seiner Ehegattin Elisabeth M. eingeantwortet worden.
+Klägerin, die ihre Erbansprüche auf ein Testament vom 1. Juni 1950 stützte, erhob gegen Elisabeth M. die Erbschaftsklage und beantragte gleichzeitig die Anmerkung der Klage bei den zum Nachlaß gehörigen Liegenschaften.
+Das Erstgericht bewilligte die Streitanmerkung.
+Das Rekursgericht wies den Antrag ab.
+Der Oberste Gerichtshof stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof vermag sich der Auffassung des Rekursgerichtes, daß die Klage nur obligatorische Ansprüche zum Gegenstand habe, nicht anzuschließen. Aus dem Klagebegehren kann die obligatorische Natur der Ansprüche nicht abgeleitet werden. Der Erbschaftsanspruch hat einen zweifachen Inhalt: Die Feststellung des eigenen Erbrechtes und die Herstellung des diesem Erbrecht entsprechenden Zustandes. Die dingliche Natur von Erbschaftsklagen ist auch in der Entscheidung des Obersten Gerichtshofes vom 27. Jänner 1920, SZ. II/7, auf die sich die Rekursinstanz beruft, nicht bezweifelt worden. Es mag streitig sein, ob das Erbrecht zu den dinglichen oder nur zu den absoluten Rechten gehört, jedenfalls kann man es nicht - im Gegensatz zum Sprachgebrauch des § 308 ABGB. - unter die persönlichen Sachenrechte einreihen (Weiß in Klangs Komm., 2. Aufl., III., S. 5 f.). Fraglich könnte nur sein, ob einem Erbschaftskläger schon "bücherliche" Rechte zugestanden werden können. Die Rechtsprechung bejaht dies im Hinblick auf § 547 ABGB. (vgl. 6056, 15.737, OGH. Brünn vom 8. Februar 1921, AS. 908, und vom 5. November 1921, JM. 160).
+Nach § 547 ABGB. stellt der Erbe, sobald er die Erbschaft angenommen hat, in Rücksicht auf sie den Erblasser dar. Bedingung dieser Einheit des Erben mit dem Erblasser ist allerdings die Annahme der Erbschaft. Darunter ist aber nicht bloß eine formelle Erbserklärung zu verstehen, sondern beim Erben, der durch Erbschaftsklage gemäß § 823 ABGB. auf Herausgabe des Nachlasses dringt, die Anstellung der Erbschaftsklage (Unger, Erbrecht, § 36, Anm. 12, Randa, Erwerb der Erbschaft, S. 30). Da die Einantwortungsurkunde nur ein deklaratorischer Akt ist, hat die Ungültigkeit des Erbrechtstitels - und das wird von der Klage behauptet - die Ungültigkeit der Einantwortung und der auf Grund dieser Urkunde vollzogenen Einverleibung zur Folge. Es sind daher alle Voraussetzungen des § 61 GBG. vorhanden.
+Die vom Rechtsmittelwerber vertretene Auffassung von der Zulässigkeit einer Sicherung des Klageerfolges durch Streitanmerkung wird auch vom herrschenden Schrifttum (Schell in Klangs Komm., 1. Aufl., II/1, S. 845, und Ehrenzweig, System, 7. Aufl., II/2, S. 618) geteilt. Der Oberste Gerichtshof hat keine Bedenken, sich dieser Auffassung anzuschließen, er hält die in der Entscheidung SZ. II/7 bekundete Ansicht, daß die Möglichkeit einer einstweiligen Verfügung nach § 382 Z. 6 EO. die Zulässigkeit einer Streitanmerkung ausschließe, nicht mehr aufrecht.

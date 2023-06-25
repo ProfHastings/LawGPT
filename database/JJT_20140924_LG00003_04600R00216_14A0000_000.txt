@@ -1,0 +1,39 @@
+Gericht
+LG für ZRS Wien
+Entscheidungsdatum
+24.09.2014
+Geschäftszahl
+46R216/14a
+Kopf
+Das Landesgericht für Zivilrechtssachen Wien hat als Rekursgericht durch Dr. Streller als Vorsitzenden sowie die Richterinnen Mag. Wieser und Mag. Slunsky-Jost in der Schuldenregulierungssache der Schuldnerin A***** über den Rekurs der Gläubigerin c*****, vertreten durch Dr. Walter Pfliegler, Rechtsanwalt in Wien, gegen den Beschluss des Bezirksgerichts Innere Stadt Wien vom 27.5.2014, 67 S 32/10v-62, den
+B e s c h l u s s
+gefasst:
+Spruch
+Dem Rekurs wird Folge gegeben.
+Der angefochtene Beschluss wird aufgehoben und dem Erstgericht die Durchführung einer Nachtragsverteilung aufgetragen.
+Die Rekurswerberin hat ihre Rekurskosten selbst zu tragen.
+Der Wert des Entscheidungsgegenstandes übersteigt nicht € 5.000,--.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Text
+B e g r ü n d u n g :
+Das Erstgericht eröffnete mit Beschluss vom 14.4.2010 das Schuldenregulierungsverfahren und leitete nach Nichtannahme des Zahlungsplans durch die Gläubiger mit Beschluss vom 24.6.2010 das Abschöpfungsverfahren ein. Mit rechtskräftigem Beschluss vom 4.9.2013 sprach es sodann aus, dass das Abschöpfungsverfahren beendet sei und der Schuldnerin die Restschuldbefreiung erteilt werde, da mehr als drei Jahre der Laufzeit der Abtretungserklärung verstrichen seien und die Gläubiger zumindest 50 % der Forderungen erhalten hätten.
+Danach stellte sich heraus, dass ein Betrag von € 572,90, der nach Konkurseröffnung (offenbar vom Dienstgeber als Drittschuldner) auf das Gerichtskonto eingezahlt worden war und den pfändbaren Einkommensteil vom Mai 2010 darstellte (s ON 12), irrtümlich nicht an den Treuhänder überwiesen (s ON 19 u 20) und daher nicht an die Gläubiger ausgezahlt worden war.
+Mit dem angefochtenen Beschluss wies das Erstgericht die Buchhaltungsagentur des Bundes an, den Betrag an die Schuldnerin auf deren Konto zu überweisen.
+Dagegen richtet sich der Rekurs der Gläubigerin c***** mit dem Antrag, den angefochtenen Beschluss dahin abzuändern, dass der Betrag nicht an die Schuldnerin ausbezahlt sondern auf die Insolvenzgläubiger verteilt werde, in eventu wird ein Aufhebungsantrag gestellt.
+Rechtliche Beurteilung
+Der Rekurs ist berechtigt.
+Das Insolvenzrechtsänderungsgesetz 2010 - IRÄG 2010 (BGBl 2010/29) ist im gegenständlichen Verfahren nicht anzuwenden. Gemäß § 273 Abs 1 IO sind dessen Bestimmungen (vorbehaltlich Abs 8 dieser Norm) auf Insolvenzverfahren anzuwenden, die nach dem 30.6.2010 eröffnet oder wiederaufgenommen wurden. Daher wird in weiterer Folge die Abkürzung "KO" (Konkursordnung) und nicht "IO" (Insolvenzordnung) verwendet.
+Gemäß § 138 Abs 2 KO ist eine Nachtragsverteilung durchzuführen, wenn nach der Schlussverteilung oder nach der Aufhebung des Konkurses Vermögensstücke ermittelt werden, die zur Konkursmasse gehören.
+Unter einem nachträglich ermittelten Vermögen sind auch bekannte Vermögensstücke zu verstehen, deren Verwertung durch einen Irrtum bzw ein Versehen unterblieben ist (Mohr11, IO § 138 E 25). Ein solcher Fall liegt hier vor. Das bereits zum Zwecke der Verteilung am Gerichtskonto erliegende Guthaben war bekannt, die tatsächliche Verteilung unterblieb lediglich aufgrund eines Versehens.
+Weiters handelt es sich bei dem Guthabensbetrag, der nach der Aktenlage den pfändbaren Teil des Einkommens aus der Zeit nach Konkurseröffnung darstellt, um ein Vermögen, das die Schuldnerin während des Konkurses erlangte, weshalb es iSd § 1 Abs 1 KO (nunmehr § 2 Abs 2 IO) zur Konkursmasse gehört (aaO, § 2 E 65).
+Entgegen der Auffassung des Erstgerichts ist eine nachträgliche Auszahlung an die Gläubiger auch im nunmehrigen Verfahrensstadium möglich, dies aus folgenden Überlegungen:
+§ 193 Abs 2 KO verlangt vor Abstimmung über den Zahlungsplan die Verwertung des Vermögens des Schuldners. Stellt sich während des Abschöpfungsverfahrens heraus, dass entgegen § 193 Abs 2 KO vor der Abstimmung über den Zahlungsplan nicht das gesamte damals vorhandene (pfändbare) Vermögen des Schuldners verwertet wurde, so hat eine Nachtragsverteilung iSd § 138 KO (nicht durch den Treuhänder, sondern) durch das Konkursgericht stattzufinden (Kodek, Privatkonkurs, Rz 608).
+Zur Frage, ob eine Nachtragsverteilung auch nach Erteilung der Restschuldbefreiung zulässig ist, ist auf die Judikatur zum Zahlungsplan zu verweisen. Demnach hat im Falle der Aufhebung des Konkurses nach § 196 Abs 1 KO - infolgedessen der Schuldner gemäß §§ 156 iVm 193 KO von der über die Quote hinausgehenden Verbindlichkeiten befreit wird - bei Vorliegen der in § 138 Abs 2 KO genannten Voraussetzungen eine Nachtragsverteilung stattzufinden (RIS-Justiz RS0114344). Die Nachtragsverteilung nach Eintreten der Restschuldbefreiung wurde damit im Zahlungsplanverfahren für zulässig erklärt. Zuletzt hat der OGH an dieser Auffassung in der Entscheidung 8 Ob 1/08t unter Auseinandersetzung mit der gegenteiligen Meinung von Kodek in RdW 2001/363, 329 (Nachträgliches Hervorkommen von Schuldnervermögen beim Zahlungsplan) sowie in Privatkonkurs, Rz 375ff ausdrücklich festgehalten.
+Desweiteren führt Kodek, aaO Rz 703, überzeugend aus, dass bei Annahme einer Zulässigkeit der Nachtragsverteilung auch nach Abschluss des Zahlungsplans dies umso mehr für das Abschöpfungsverfahren gelten muss, zumal hier die Restschuldbefreiung ohne Zustimmung der Gläubiger erfolgte.
+Dieser Auffassung schließt sich der erkennende Senat an. Das hier nach Erteilung der Restschuldbefreiung iSd § 213 KO hervorgekommene massezugehörige Vermögen der Schuldnerin wird somit einer Nachtragsverteilung zu unterziehen sein.
+Dabei wird das Erstgericht insbesondere zu beachten haben, dass das Konkursgericht funktionell zur Beurteilung der Vorfrage, ob nach Konkursaufhebung ermittelte Vermögensstücke zur Konkursmasse gehören, zuständig ist. (RIS-Justiz RS0065222). Der Beschluss über eine Anordnung der Nachtragsverteilung ist öffentlich bekannt zu machen (8 Ob 80/06g). Da die Nachtragsverteilung in die zivilrechtliche Position des (ehemaligen) Gemeinschuldners eingreift, ist diesem ein rechtliches Gehör zu verschaffen (8 Ob 240/02f).
+Das Erstgericht wird in diesem Sinne ein Verfahren zur Nachtragsverteilung einzuleiten und durchzuführen haben. Die Aufhebung des angefochtenen Beschlusses war somit unumgänglich.
+Im Insolvenzverfahren findet ein Kostenersatz nicht statt (§ 254 Abs 1 Z 1 IO).
+Der Ausspruch zur Unzulässigkeit des Revisionsrekurses war zu treffen, weil es sich nur scheinbar um eine aufhebende, inhaltlich aber um eine abändernde Entscheidung handelt. Der Wertausspruch orientiert sich an dem zu verteilenden Betrag; daraus folgt die Unzulässigkeit des Revisionsrekurses gemäß § 528 Abs 2 Z 1 ZPO iVm § 252 IO.
+European Case Law Identifier
+ECLI:AT:LG00003:2014:04600R00216.14A.0924.000

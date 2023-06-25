@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.2022
+Geschäftszahl
+7Ob92/22p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Pertmayr und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Mag. R* E*, vertreten durch Dr. Gerhard Ebenbichler, Rechtsanwalt in Wien, gegen die beklagte Partei U* Versicherungen AG, *, vertreten durch Dr. Martin Wuelz, Rechtsanwalt in Innsbruck, wegen 55.025 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 20. April 2022, GZ 4 R 46/22d-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Parteien besteht ein Unfallversicherungsvertrag, dem die Klipp & Klar Bedingungen für die Unfallversicherung 2010 (kurz: UA00) zugrunde liegen. Diese lauten auszugsweise:
+„Was ist ein Unfall? – Artikel 6
+[...]
+3. Krankheiten gelten nicht als Unfälle. Übertragbare Krankheiten gelten auch nicht als Unfallfolgen. Dies gilt nicht für Kinderlähmung, die durch Zeckenbiss übertragene Frühsommer-Meningoencephalitis und Lyme-Borreliose im Rahmen der Bestimmungen des Art. 16 sowie für Wundstarrkrampf und Tollwut.
+[...]
+Kinderlähmung, Frühsommer-Meningoence-phalitis, Lyme-Borreliose – Artikel 16
+Der Versicherungsschutz erstreckt sich auf die Folgen der Kinderlähmung und der durch Zeckenbiss übertragenen Frühsommer-Meningoencephalitis und Lyme-Borreliose. Voraussetzung ist, dass die Erkrankung serologisch festgestellt und frühestens 15 Tage nach Beginn, jedoch spätestens 15 Tage nach Erlöschen der Versicherung, zum Ausbruch kommt. Als Krankheitsbeginn (Zeitpunkt des Versicherungsfalles) gilt der Tag, an dem erstmals ein Arzt wegen der als Kinderlähmung, Frühsommer-Meningoenzephalitis oder Lyme-Borreliose diagnostizierten Krankheit konsultiert wurde. Eine Leistung erbringen wir nur für Tod oder dauernde Invalidität.
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Nach den von den Vorinstanzen getroffenen Feststellungen wurde beim Kläger im August 2017 die „(Verdachts-)Diagnose“ Neuroborreliose mit Bannwarth Syndrom unter Zuhilfenahme der Ergebnisse des laborchemischen Befundes inklusive Liquoranalytik gestellt. Der Borrelienbefund im Liquor war zu diesem Zeitpunkt negativ. Eine nochmalige Kontroll-Lumbalpunktion zur Bestimmung des Borrelientiters im Liquor und somit zur Bestätigung der Neuroborreliose lehnte der Kläger ab. Für das vorliegende Krankheitsgeschehen kommen grundsätzlich neben Borrelien eine Reihe anderer Erreger in Frage, allen voran Viren wie Herpes simplex, FSME, Varizella-Zoster-Virus, HI-Virus und andere. Der definitive Erregernachweis für eine durch einen Zeckenbiss übertragene Borrelieninfektion konnte nicht erbracht werden.
+[3] 		2. Der Kläger erachtet die in Art 16 UA00 enthaltene Voraussetzung, wonach die Lyme-Borreliose serologisch festgestellt werden müsse, als unwirksam und nichtig, weil sie gegen § 6 Abs 1 Z 11 KSchG (Beweislast, die ihn von Gesetzes wegen nicht treffe) sowie § 6 Abs 3 KSchG (Intransparenz) verstoße und zudem objektiv ungewöhnlich iSd § 864a ABGB und gröblich benachteiligend iSd § 879 Abs 3 ABGB sei. Eine „serologische Feststellung“ wäre nur mittels einer ihn unverhältnismäßig belastenden Lumbalpunktion möglich.
+[4] 		Die vom Kläger als wesentlich relevierten Rechtsfragen stellen sich nicht. Unabhängig davon, dass die klinisch diagnostizierte Neuroborreliose mit Bannwarth Syndrom nicht serologisch festgestellt wurde (was nach Art 16 UA00 Voraussetzung für den Versicherungsschutz wäre und vom Kläger bekämpft wird), konnte er den Erregernachweis für eine durch einen Zeckenbiss übertragene Borrelieninfektion auch sonst nicht erbringen. Damit konnte der Kläger den erforderlichen Kausalzusammenhang zwischen einem Zeckenbiss und einer durch diesen übertragenen Lyme-Borreliose nicht beweisen. Die für den Versicherungsschutz (Art 16 UA00) notwendige Kausalität zwischen Zeckenbiss und Lyme-Borreliose steht gerade nicht fest. Der Eintritt des Versicherungsfalls ist aber vom Versicherten zu beweisen (RS0080013 [T1], RS0111811).
+[5] 		3. Ohne Fehlbeurteilung ging das Berufungsgericht davon aus, dass eine bloße „Verdachtsdiagnose“ (hier: Neuroborreliose mit Bannwarth Syndrom), die durchaus klinische Praxis sein möge, nicht ausreicht, um den Versicherungsschutz zu begründen.
+[6] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00092.22P.0629.000

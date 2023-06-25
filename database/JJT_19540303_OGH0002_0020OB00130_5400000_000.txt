@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.03.1954
+Geschäftszahl
+2Ob130/54
+Norm
+ABGB §276;
+ABGB §300;
+ABGB §365;
+Kopf
+SZ 27/58
+Spruch
+Bestellung eines Kurators für eine in Jugoslawien verstaatlichte Aktiengesellschaft.
+Entscheidung vom 3. März 1954, 2 Ob 130/54.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hat den Abwesenheitskurator seines Amtes enthoben und die Pflegschaft eingestellt. Es hat dies damit begrundet, daß das beim Bezirksgericht Agram registrierte Bauunternehmen Gebrüder C. Aktien-Gesellschaft von der Föderativen Volksrepublik Jugoslawien am 20. Mai 1947 verstaatlicht worden sei. Die Aktiengesellschaft, eine juristische Person, sei untergegangen und die Fortführung der Pflegschaft somit nicht mehr geboten.
+Dem vom Kurator gegen den erstinstanzlichen Beschluß erhobenen Rekurse hat das Rekursgericht nicht Folge gegeben. Es hat ausgeführt, daß zwar dem Untergange der Rechtspersönlichkeit des Unternehmens rechtserhebliche Bedeutung nicht zukomme. Denn die auf Grund konfiskatorischer Gesetze erfolgte Verstaatlichung von Unternehmungen habe nur für den Hoheitsbereich des konfiszierenden Staates und für das in diesem Staate gelegene Vermögen des Unternehmens Rechtswirksamkeit, nicht aber für die im österreichischen Rechtsbereiche gelegenen Vermögensbestandteile. Da aber nach der Aktenlage im Inlande zu verwaltendes Vermögen nicht vorhanden sei, sondern "angeblich nur Ansprüche gegen die Schuldner des seinerzeitigen Unternehmens", so bleibe es den früheren Gesellschaftern vorbehalten, diese Forderungen geltend zu machen. Daß ihre Rechte durch Verzug gefährdet wären, sei nicht behauptet worden und sei nach der Sachlage auch nicht anzunehmen. Außerdem seien die Gesellschafter nach der Aktenlage keineswegs verhindert, ihre Ansprüche selbst zu vertreten, so daß es ihnen vorbehalten bleiben könne, ihre Ansprüche gegebenenfalls auch selbst zu verfolgen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Kurators Folge und trug dem Erstgerichte nach Aufhebung der Beschlüsse der Untergerichte die Fortführung der Abwesenheitskuratel auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+In dem vom Kurator gegen den Beschluß des Rekursgerichtes erhobenen, nach § 16 AußstrG. zu beurteilenden Revisionsrekurse wird offenbare Gesetz- und Aktenwidrigkeit geltend gemacht und "die Abänderung der angefochtenen Beschlüsse der Unterinstanzen, allenfalls Aufhebung derselben und Auftragserteilung zu neuerlicher Entscheidung" beantragt.
+Der Revisionsrekurs ist begrundet.
+Zwar ist die gerügte Aktenwidrigkeit nicht gegeben, weil aus dem Zusammenhange der Begründung des angefochtenen Beschlusses hervorgeht, daß das Rekursgericht auf die im Revisionsrekurse erwähnten Ansprüche gegen die Schuldner des seinerzeitigen Unternehmens Bedacht genommen hat, wenn es diese Forderungen auch nicht als "im Inland befindliche Vermögenschaften der in Jugoslawien verstaatlichten Bauunternehmung" oder als "im Inlande zu verwaltendes Vermögen" angesehen hat. Diesbezüglich steht also nur die Frage der rechtlichen Beurteilung zur Erörterung, wobei allerdings gegenüber der Formulierung des Rekursgerichtes festzuhalten ist, daß das Vermögen einer Person aus ihren sämtlichen schätzbaren Rechten, also auch aus den Forderungen gegen dritte Personen, besteht (vgl. Ehrenzweig, Allgemeiner Teil, 1951, S. 137).
+Die Rechtsrüge des Revisionsrekurswerbers ist aber begrundet, weil der angefochtene Beschluß mit der in § 276 ABGB. getroffenen Regelung nicht vereinbar ist. Gemäß der bezogenen Bestimmung findet die Bestellung eines Kurators für Abwesende - unter anderem - dann statt, wenn sie keinen ordentlichen Sachwalter zurückgelassen haben, ohne solchen aber ihre Rechte durch Verzug gefährdet würden. Zutreffend hat zwar das Rekursgericht darauf verwiesen, daß der vom Erstgerichte für die Einstellung der Kuratel und die Enthebung des Kurators allein herangezogene Grund des durch Verstaatlichung herbeigeführten Unterganges der ausländischen Aktiengesellschaft nicht gegeben sei. Denn die im Auslande verfügte Konfiskation hat auf das in Österreich befindliche Vermögen grundsätzlich keine Wirkung, dieses Vermögen verbleibt demnach dem bisher Berechtigten (vgl. 3 Ob 773/52). Das Rekursgericht hat aber nicht die aus dieser richtigen Ansicht abzuleitenden Folgerungen gezogen. Der Hinweis des Rekursgerichtes auf die "Gesellschafter", die keineswegs verhindert seien, ihre Ansprüche selbst zu vertreten, ist verfehlt, weil die Aktionäre zur Vertretung der Aktiengesellschaft nicht ohne weiteres berufen sind und somit ein ordentlicher Sachwalter des Sondervermögens nicht bekannt ist. Daß die zu besorgende Angelegenheit, derentwegen ein Abwesenheitskurator zu bestellen ist, sowohl in einer vereinzelten Handlung wie auch in einer fortdauernden Geschäftsführung, insbesondere in der Verwaltung eines Vermögens oder in einer Prozeßführung, bestehen kann, ist herrschende Lehre (vgl. Ehrenzweig, Familien- und Erbrecht, 1937, S. 344f.). Es ist aber auch die weitere Voraussetzung für die Bestellung eines Kurators gemäß § 276 ABGB. gegeben, daß ohne Sachwalter die Rechte des Kuranden durch Verzug gefährdet würden. Denn wenn auch die Verjährung gegen diejenigen, welche ohne ihr Verschulden abwesend sind, nur unter Beschränkungen gestattet wird (vgl. § 1454 ABGB.), muß doch auch auf die Gefahr Bedacht genommen werden, daß die Forderung gegen einen derzeit solventen Schuldner später uneinbringlich werden könnte.
+Aus diesen Erwägungen war dem Revisionsrekurse Folge zu geben und wie im Spruche zu entscheiden.

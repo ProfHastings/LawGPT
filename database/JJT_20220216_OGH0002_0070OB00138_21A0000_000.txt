@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.02.2022
+Geschäftszahl
+7Ob138/21a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei A* G*, vertreten durch Mag. Franz Karl Juraczka, Rechtsanwalt in Wien, gegen die beklagte Partei U* AG, *, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 17. März 2021, GZ 1 R 156/20t-26, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 5. Mai 2020, GZ 17 C 379/19p-19, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.096,56 EUR (darin 182,76 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen den Parteien bestand von 19. 12. 2014 bis 1. 1. 2018 ein Rechtsschutz-Versicherungsvertrag, dem die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2014) zugrundelagen; diese lauten auszugsweise:
+„Artikel 2
+Was gilt als Versicherungsfall und wann gilt er als eingetreten?
+1. Für die Geltendmachung eines Personen-, Sach- oder Vermögensschadens, der auf einen versicherten Personen- oder Sachschaden zurückzuführen ist (Artikel 17 Pkt 2.1, Artikel 18 Pkt 2.1, Artikel 19 Pkt 2.1 und Artikel 24 Pkt 2.4.), gilt als Versicherungsfall das dem Anspruch zugrundeliegende Schadenereignis. Als Zeitpunkt des Versicherungsfalles gilt der Eintritt dieses Schadenereignisses.
+[…]
+Artikel 3
+Für welchen Zeitraum gilt die Versicherung? (Zeitlicher Geltungsbereich)
+1. Die Versicherung erstreckt sich grundsätzlich auf Versicherungsfälle, die während der Laufzeit des Versicherungsvertrages eintreten.
+[...]“
+[2] 		Das Berufungsgericht ließ die ordentliche Revision nachträglich zu, weil sich im Zulassungsantrag Argumente fänden, dass die Berufungsentscheidung auf einer Aktenwidrigkeit in Bezug auf das Klagsvorbringen beruhen könnte. Damit zeigt das Berufungsgericht jedoch keine erhebliche Rechtsfrage auf. Da auch der Kläger in seiner Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist sein Rechtsmittel entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+[3] 		1.1. Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ob das bisher erstattete Vorbringen so weit spezifiziert ist, dass es als Anspruchsgrundlage hinreicht, oder wie weit ein bestimmtes Vorbringen einer Konkretisierung zugänglich ist, sind Fragen des Einzelfalls, denen zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung grundsätzlich keine erhebliche Bedeutung zukommt (vgl RS0042828).
+[4] 		1.2. Wenn das Berufungsgericht im Einklang mit dem Erstgericht das Klagsvorbringen dahin ausgelegt hat, es werde der Deckungsanspruch auf eine durch Mag. * erfolgte Diskriminierung und Belästigung des Klägers als Behinderter gestützt, weil jener einen – unstrittig nachvertraglich gestellten – Antrag auf Zustimmung des Behindertenausschusses zur nachträglichen Kündigung des Klägers gestellt hätte, so ist dies keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung.
+[5] 		1.3. Die behauptete Aktenwidrigkeit liegt nicht vor. Abgesehen von den konkreten Feststellungen, ist aus dem erstinstanzlichen Vorbringen, Mag. * habe die Entlassung und die Eventualkündigung betrieben, nicht die Behauptung zu entnehmen, dass die Entlassung ebenso wie die Eventualkündigung auf die Erkrankung des Klägers gestützt worden wäre.
+[6] 		1.4. Eine in der Revision nicht näher ausgeführte, sondern in der Verletzung einer „Gesamtschau von Verfahrensgrundsätzen“ erblickte Mangelhaftigkeit des Berufungsverfahrens liegt nicht vor (§ 510 Abs 3 ZPO).
+[7] 		2.1. Für das Vorliegen eines Versicherungsfalls trifft nach der allgemeinen Risikoumschreibung den Versicherungsnehmer die Beweislast (RS0043438). Der Versicherungsnehmer, der eine Versicherungsleistung beansprucht, muss die anspruchsbegründende Voraussetzung des Eintritts des Versicherungsfalls beweisen (RS0080003).
+[8] 		2.2. Nach Art 2.1 ARB gilt als Versicherungsfall nicht der Verstoß, sondern der Eintritt des dem Anspruch zugrunde liegenden Schadenereignisses. Der Versicherungsfall ist regelmäßig jenes Ereignis, das den Anspruch begründet hat (RS0114209). Der Unterschied zum Verstoß besteht darin, dass Verstoß das Kausalereignis, also das haftungsrelevante Verhalten des Versicherungsnehmers, das den Schaden verursacht hat, ist, Schadenereignis dagegen der „äußere Vorgang“, der die Schädigung des Dritten und damit die Haftpflicht des Versicherungsnehmers unmittelbar herbeiführt. Schadenereignis ist das Folgeereignis, das mit dem Eintritt des realen Verletzungszustands gleichgesetzt wird (RS0081307), also das äußere Ereignis, das den Personen- oder Sachschaden unmittelbar ausgelöst hat (RS0081247). Der Eintritt des dem Anspruch zugrundeliegenden Schadenereignisses und damit der Versicherungsfall richten sich ebenso wie die Beurteilung der Deckungspflicht nach dem vom Kläger geltend zu machenden Anspruch, womit insofern ebenfalls eine Frage des Einzelfalls vorliegt (vgl RS0114209 [T4]).
+[9] 		3. Dass die Vorinstanzen nur die behaupteten Handlungen von Mag. * im Zusammenhang mit der Begründung und Betreibung des Verfahrens vor dem Behindertenausschuss als das dem geltend gemachten Anspruch zugrundeliegende Schadenereignis und damit als Versicherungsfall ansahen, der somit erst nach der mit Ende 2017 erfolgten Beendigung des Versicherungsvertrags eintrat, ist nicht korrekturbedürftig. Der Versuch des Klägers, nunmehr einen Zusammenhang zwischen Entlassung und Eventualkündigung mit der Behauptung  herzustellen, dass beide auf die Erkrankung des Klägers gestützt worden wären, übergeht, dass dies nach den Feststellungen nicht der Fall war, dass sein Anspruch im Haftpflichtprozess auf die Vorgänge bei der Entlassung auch nicht gestützt wurde, und dass es im Hinblick auf Art 2.1. ARB 2014 für den Eintritt des Versicherungsfalls auf das Schadenereignis und nicht darauf ankommt, wann allenfalls ein früherer Verstoß (fortgesetztes Mobbing) den Keim des Rechtsstreits in sich getragen haben könnte.
+[10] 		Die Rechtsansicht der Vorinstanzen, dass der Deckungsanspruch infolge Nachvertraglichkeit nicht besteht, hält sich somit im Rahmen der Judikatur. Auf die anderen aufgeworfenen Rechtsfragen kommt es nicht an.
+[11] 		4. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00138.21A.0216.000

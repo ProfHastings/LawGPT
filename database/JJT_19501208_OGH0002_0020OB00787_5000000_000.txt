@@ -1,0 +1,52 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.12.1950
+Geschäftszahl
+2Ob787/50
+Norm
+ABGB §440;
+EO §262;
+EO §325;
+EO §346;
+EO §347;
+EO §382 Z1;
+EO §382 Z6;
+EO §382 Z7;
+EO §384;
+EO §392;
+EO §399;
+Grundbuchsgesetz §56;
+Grundbuchsgesetz §57;
+Kopf
+SZ 23/370
+Spruch
+Auch der Anwalt einer Partei ist Dritter im Sinne der §§ 262, 347 EO., insofern er eine der Partei gehörige bewegliche Sache in deren Namen verwahrt.
+Gerichtliche Hinterlegung eines Ranganmerkungsbescheides durch einstweilige Verfügung.
+Die Wirkung der Anmerkung der Rangordnung wird durch eine auf Grund einer einstweiligen Verfügung erfolgte nachträgliche Eintragung eines Veräußerungsverbotes nicht beeinträchtigt.
+Entscheidung vom 8. Dezember 1950, 2 Ob 787/50.
+I. Instanz: Bezirksgericht Mödling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Kläger begehrten einerseits gegenüber der Beklagten die Feststellung des Rechtsbestandes eines zwischen den Parteien in Ansehung der Liegenschaft EZ. X geschlossenen Kaufvertrages und anderseits die Verurteilung der Beklagten, in die grundbücherliche Durchführung des Vertrages einzuwilligen, die hiezu notwendigen Erklärungen abzugeben und die erforderlichen Urkunden beizustellen; mit dieser Klage verbanden die Kläger den Antrag auf Erlassung folgender einstweiliger Verfügungen:
+1. Das gerichtliche Verbot an die Beklagte, die Liegenschaft EZ. X zu veräußern, zu belasten oder zu verpfänden;
+2. die gerichtliche Verwaltung der Liegenschaft;
+3. die bezügliche Anmerkung des Verbotes und der Verwaltung im Eigentums- bzw. Lastenblatt der Liegenschaft und schließlich 4. die Abnahme der einzigen Beschlußausfertigung der bewilligten Rangordnungsanmerkung der beabsichtigten Veräußerung der Liegenschaft EZ. X vom Rechtsanwalt Dr. A. D. oder einer dritten sie verwahrenden Person.
+Das Erstgericht bewilligte die zu 1. und 2. begehrten Verfügungen und wies den Antrag im übrigen ab.
+Das Rekursgericht bestätigte die Abweisung des Antrages hinsichtlich der zu 3. begehrten Verfügung, gab jedoch dem Antrag hinsichtlich der zu 4. begehrten Verfügung statt.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Beklagten keine Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zur Entscheidung steht nur mehr die Frage, ob die vom Rekursgericht bewilligte Abnahme der Beschlußausfertigung beim Antragsgegner oder einem dritten Verwahrer gesetzentsprechend ist.
+Die Frage des Zusammentreffens eines Veräußerungsverbotes mit einer früher erwirkten Anmerkung der Rangordnung ist seit langem strittig und die dadurch entstandene Rechtslage unklar (vgl. Klang, I/2, S.
+43. 223, Ehrenzweig, I/2, S. 180, Anm. 10, vgl. die Darstellung des ganzen Problems in JBl. 1937, S. 277, 1 Ob 381/37). Doch sind Lehre und Rechtsprechung heute ganz überwiegend unter Aufgabe der früheren gegenteiligen Lehre von der absoluten Wirkung des Veräußerungsverbotes der Ansicht, daß die Wirkung der Anmerkung der Rangordnung durch eine auf Grund einer einstweiligen Verfügung erfolgten nachträglichen Eintragung eines Veräußerungsverbotes nicht beeinträchtigt wird, daß die einstweilige Verfügung somit nicht gegen denjenigen wirkt, zu dessen Gunsten bereits eine Rangordnungsanmerkung erfolgt war (Klang, l. c., ebenso 2. Aufl., II., S. 183, 380, Ehrenzweig, l. c, Walker - Jaitner, S. 326, Walker, 4. Aufl., S. 377, Demelius, Anmerkung der Rangordnung, S. 62 ff., und Bemerkungen zu JBl. 1928, S. 227, Rspr. 1928, Nr. 313, GlUNF. 5913, SZ. VI/231, SZ. IX/266, SZ. XIX/141, EvBl. 1949, Nr. 118; a. M. noch SZ. IV/142, ZBl. 1921, Nr. 54, Neumann - Lichtblau,
+S. 1197). Es ist somit davon auszugehen, daß die Anmerkung der Rangordnung stärker ist, und dies entspricht dem in § 440 ABGB., §§ 56, 57 GBG. ausgesprochenen Grundsatz. Der Eigentümer ist also in seiner Verfügung über die Liegenschaft auf Grund der rangälteren Anmerkung der Rangordnung durch spätere Eintragung des Veräußerungsverbotes nicht absolut wirksam behindert und der Dritte, der in diesem Range ein bücherliches Recht erwirbt, kann die Anmerkung ebenso wie das schon eingetragene Recht des Verbotswerbers löschen lassen. Die ältere Ansicht ist demnach ebenso abzulehnen, wie die in SZ. IV/142 ausgesprochene Mittelmeinung, die die Entscheidung davon abhängig machen will, ob die Urkunde über das Erwerbungsgeschäft des Dritten vor oder nach der Anmerkung des Veräußerungsverbotes ausgestellt wurde. Maßgebend ist vielmehr nur der Zeitpunkt der Anmerkung der Rangordnung.
+Aus diesen Erwägungen erwies sich die Bewilligung des Veräußerungsverbotes, das nach dem Gesagten Verfügungen des Eigentümers nur so weit hindert, als eine frühere Rangordnungsanmerkung nicht besteht, und überdies gemäß § 384 Abs. 2 EO. nur relative Wirkung zugunsten der gefährdeten Partei besitzt, als ebenso unzulänglich zur Abwehr der dieser drohenden Gefahr einer anspruchsvereitelnden oder -gefährdenden freiwilligen Verfügung der Beklagten, wie die Bewilligung der Verwaltung, die bloß die Zahlung der Steuern und Abgaben von der Liegenschaft sichern soll.
+Es bedurfte darum auch der angestrebten Verfügung durch zwangsweise Abnahme der einzigen Beschlußausfertigung über die Rangordnungsanmerkung, weil gemäß § 56 Abs. 1 GBG. eine Ausnützung des Ranges nur unter gleichzeitiger Vorlage der Ausfertigung erfolgen kann. Die Bewilligung dieser einstweiligen Verfügung widerspricht darum nicht dem Grundsatz des § 392 EO., bzw. § 399 Abs. 1 Z. 1 EO., wonach einstweilige Verfügungen nicht in einem größeren Umfang bewilligt werden sollen, als zur Sicherung der gefährdeten Partei nötig ist, und daß unter mehreren im Einzelfall gleich anwendbaren Verfügungen jene zu bewilligen ist, die zur Hintanhaltung der Gefährdung am geeignetsten ist und zugleich den Antragsgegner am wenigsten beschwert. Jede der drei einstweiligen Verfügungen verfolgt einen anderen Zweck und erst in ihrer Gesamtheit schaffen sie der gefährdeten Partei volle Sicherung. Übrigens ist gerade die im Revisionsrekurs bekämpfte Verfügung schon bei Rintelen (Einstweilige Verfügung, S. 296 ff.) vorgesehen und ihre Zulässigkeit kann angesichts des in § 382 EO. ausgesprochenen Grundsatzes, daß zur Sicherung anderer als auf eine Geldsumme gerichteter Ansprüche jede nach Beschaffenheit des Falles zur Erreichung des Sicherungszweckes geeignete Maßnahme als einstweilige Verfügung getroffen werden kann, nicht bezweifelt werden.
+Der Vollzug der Verfügung hatte nach Analogie der §§ 346, 347 EO. zu erfolgen. Die zwangsweise Abnahme konnte daher beim Antragsgegner und bei jedem Dritten erfolgen, bei diesem aber nur unter der in § 347 EO. aufgestellten Bedingung seiner Bereitwilligkeit zur Ausfolgung. Wenn das Rekursgericht dem bezüglichen Antrag der gefährdeten Partei, der neben einem dritten Verwahrer ausdrücklich den Anwalt der Beklagten, Rechtsanwalt Dr. A. D., nannte als jene Person, gegen die sich die Zwangsabnahme zu richten habe, dahin berichtigte, die Abnahme sei beim Antragsgegner oder jedem dritten Verwahrer durchzuführen, hat es nichts anderes und vor allem nicht mehr bewilligt, als beantragt war. Denn auch der Anwalt einer Partei ist, insofern er eine dieser gehörende bewegliche Sache (und als solche ist hier der Rangordnungsanmerkungsbescheid anzusehen) in deren Namen verwahrt, als Dritter anzusehen und seine namentliche Hervorhebung war darum nicht notwendig. Primär aber richtet sich jede einstweilige Verfügung gegen den Gegner der gefährdeten Partei, weshalb dieser auch an erster Stelle als derjenige zu benennen war, bei welchem die zwangsweise Abnahme durchzuführen ist.
+Fraglich könnte höchstens sein, ob der Anwalt oder sonstige Machthaber des Antragsgegners als "Dritter" im Sinne der §§ 262, 347 EO. anzusehen ist. Die Frage ist zu bejahen, weil als Dritter jeder zu gelten hat, gegen den sich der Exekutionstitel nicht unmittelbar richtet. Daß der Anwalt in prozessualer und zivilrechtlicher Beziehung vielfach mit der Partei identifiziert wird und seine Erklärungen und Rechtshandlungen so anzusehen sind, als seien sie von der Partei selbst ausgegangen, kann nicht auf die Gewahrsame ausgedehnt werden. Die Gewahrsame des Anwaltes oder sonstigen Machthabers ist, auch wenn sie namens des Machtgebers ausgeübt wird, doch eine von der des letzteren grundsätzlich verschiedene Tatsache.
+Weigert sich der Dritte, also auch der Anwalt, die Sache herauszugeben, so darf kein Zwang gegen ihn geübt werden, sondern seine Weigerung ist im Protokoll zu beurkunden und die Wegnahme zu unterlassen (Neumann - Lichtblau, S. 1077).
+Dieser Vorgang ist nach der Aktenlage auch im vorliegenden Fall eingehalten worden, so daß die Beklagte keinen Grund zur Beschwerde hat, die übrigens niemals in der Form eines Rekurses, sondern nur in der einer Beschwerde gegen die Art des Vollzuges (§ 68 EO.) zu erfolgen hätte.
+Es war durchaus zulässig, den Versuch einer Zwangsabnahme beim Beklagtenanwalt zu unternehmen; da dieser aber die Herausgabe verweigerte, war die Amtshandlung zu beenden und ein weiterer Zwang konnte nicht ausgeübt werden und wurde auch nicht ausgeübt.
+Richtig ist, daß die Gefahr einer Umgehung des Veräußerungsverbotes besteht, weil nunmehr zum Unterschied von der Exekution ein Verfahren nach § 325 EO. mangels eines diesbezüglichen Exekutionstitels nicht eingeleitet werden kann.
+Hier könnte nur durch andere, bisher nicht beantragte einstweilige Verfügungen Abhilfe geschaffen werden, z. B. durch den Auftrag an die Beklagte, die einzige Beschlußausfertigung bei Gericht zu hinterlegen oder durch das gerichtliche Drittverbot nach § 382 Z. 7 EO., mittels dessen der Antragsgegnerin verboten wird, über ihren Herausgabeanspruch gegen ihren Machthaber betreffend den Bescheid zu verfügen.
+Aus diesen Erwägungen war dem Revisionsrekurs der Erfolg zu versagen.

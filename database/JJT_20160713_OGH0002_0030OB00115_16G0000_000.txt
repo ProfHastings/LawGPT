@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.07.2016
+Geschäftszahl
+3Ob115/16g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und  Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei P***** GmbH, *****, vertreten durch Dr. Werner Goeritz, Rechtsanwalt in Wien, gegen die beklagte Partei E***** GmbH, *****, vertreten durch Pelzmann Gall Rechtsanwälte GmbH in Wien, wegen 33.643 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. April 2016, GZ 2 R 204/15g-15, den
+Beschluss
+gefasst:
+Spruch
+I. Die Bezeichnung der beklagten Partei wird von E*****-GmbH auf E***** GmbH berichtigt.
+II. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+zu I.:
+Die
+Bezeichnung der Beklagten ist wegen einer Änderung ihrer Firma wie im Spruch zu berichtigen (§ 235 Abs 5 ZPO).
+zu II.:
+Die Beklagte zeigt in ihrer außerordentlichen Revision keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+1. Das gilt auch, wenn man davon ausgeht, der Geschäftsführer der beklagten Verkäuferin sei, als er den Kaufvertrag über die zwei Wohnungseigentumsobjekte ungelesen unterfertigte, bezüglich beider hier relevanter Punkte, die abweichend vom ersten, von ihm gelesenen Vertragsentwurf geregelt waren – Angabe der Flächen der beiden Objekte und Gewährleistung der Beklagten für dieses Flächenausmaß – einem Erklärungsirrtum unterlegen. Auch dann kann hinsichtlich der Flächen der Kaufgegenstände eine Veranlassung des Irrtums durch die Klägerin nämlich nicht damit begründet werden, dass das letztlich in den Kaufvertrag aufgenommene Flächenausmaß auf der Klägerin zuzurechnende Personen zurückgegangen wäre; ergab sich doch dieses – infolge irriger Addition der Flächen der Loggien zu den diese bereits enthaltenden Nutzflächen überhöhte – Flächenausmaß der Objekte bereits aus jenen Unterlagen, die der von der Beklagten mit der Akquirierung von Käufern beauftragte Mitarbeiter zusammengestellt hatte.
+2. Veranlassen iSd § 871 ABGB
+bedeutet adäquate Verursachung (RIS-Justiz
+RS0016195). Dafür genügt schon die Unterlassung einer gebotenen Mitteilung (RIS-Justiz
+RS0016184 [T6]). Die Frage, ob ein Vertrag aufgrund der behaupteten Verletzung von Aufklärungspflichten wegen Irrtums angefochten werden kann, ist aber jeweils nur anhand der konkreten Umstände des Einzelfalls zu beantworten, weshalb ihre Bedeutung in der Regel nicht darüber hinausreicht (RIS-Justiz
+RS0111165;
+jüngst 6 Ob 8/16v =
+RIS-Justiz
+RS0016184 [T8]). Die Ansicht der Vorinstanzen, die (durch den von ihr beauftragten und bevollmächtigten Vertragsverfasser vertretene) Klägerin habe die Beklagte durch die Mitteilung anlässlich der Übermittlung der Endfassung des Vertrags, es seien sowohl deren eigene Änderungswünsche als auch „die Änderungen des Käufers“ berücksichtigt worden, ausreichend auf die vorgenommenen Änderungen hingewiesen, stellt keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung dar:
+Gegenüber einer Unternehmerin wie der hier beklagten GmbH genügt die Mitteilung, dass in den ursprünglichen Vertragsentwurf (ua) – nicht näher spezifizierte – „Änderungen des Käufers“ aufgenommen wurden, um sie auf die Möglichkeit von allenfalls auch gravierenden Änderungen des ursprünglichen Vertragstextes (wie sie hier erfolgt sind) hinzuweisen. Der Vertragspartner des Unternehmers muss in einem solchen Fall nämlich nicht damit rechnen, dass dessen Geschäftsführer den Vertragstext trotz dieser Warnung unterfertigt, ohne ihn vorher zu lesen oder auch nur einen flüchtigen Vergleich zwischen den beiden Entwürfen anzustellen, bei dem er bezüglich der beiden hier relevanten Punkte schon aufgrund des geänderten Layouts sofort erkennen hätte können, dass eine Änderung erfolgt ist.
+Dass ein Rechtsanwalt als Vertragsverfasser dazu verpflichtet ist, die anwaltlich nicht vertretene Vertragspartei über den Inhalt der einzelnen Vertragspunkte und über deren rechtliche Bedeutung und Folgen aufzuklären (RIS-Justiz RS0026428), kann an diesem Ergebnis nichts ändern. Entscheidend ist nämlich, ob die Klägerin den Erklärungsirrtum der Beklagten durch nicht ausreichende Aufklärung veranlasst hat. Sie muss sich zwar das Verhalten des Rechtsanwalts, dessen sie sich als Erfüllungsgehilfe bediente, so zurechnen lassen, als hätte sie selbst gehandelt (RIS-Justiz RS0016310 [T8]). Die Vertretung durch den Vertragsverfasser führte allerdings nicht dazu, dass die Klägerin selbst eine weitergehende Aufklärungspflicht traf, als hätte sie selbst gehandelt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00115.16G.0713.000

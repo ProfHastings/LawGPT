@@ -1,0 +1,43 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.2017
+Geschäftszahl
+7Ob101/17d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei S***** N*****-H*****, vertreten durch Dr. Stefan Stastny, Rechtsanwalt in Kindberg, gegen die beklagte Partei Z*****AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 129.320 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Zwischenurteil des Oberlandesgerichts Graz als Berufungsgericht vom 4. April 2017, GZ 3 R 145/16t-27, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof hat die von der Beklagten behaupteten Verfahrensmängel geprüft; sie liegen nicht vor:
+1.1. Das Berufungsgericht war der Ansicht, betreffend den Inhalt des Punktes 23 des Baubewilligungsbescheids für den Zubau einen einer Aktenwidrigkeit gleichkommenden Irrtum des Erstgerichts korrigiert zu haben. Tatsächlich ist das Berufungsgericht jedoch vom – unstrittigen – Wortlaut des Bescheids ausgegangen und hat diesen ausgelegt. Das kann keine Aktenwidrigkeit begründen (vgl RIS-Justiz RS0043256 [T1, T9]), ist auch nicht Tat- oder Verfahrensfrage, sondern rechtliche Beurteilung.
+1.2. Das Berufungsgericht hat die erstgerichtlichen Feststellungen komprimiert zusammen-gefasst und aus diesen Schlussfolgerungen gezogen, was auch ohne Beweiswiederholung zulässig (vgl RIS-Justiz RS0118191) und im vorliegenden Einzelfall auch nicht zu beanstanden ist. Die Beklagte vermag nicht aufzuzeigen, zu welchen konkreten Tatfragen das Berufungsgericht angeblich von dem vom Erstgericht festgestellten Sachverhalt abgewichen sein soll.
+1.3. Nur die Frage der prozessualen Zulässigkeit eines Zwischenurteils ist eine verfahrensrechtliche Frage, deren unrichtige Beantwortung als eine Mangelhaftigkeit des Verfahrens geltend gemacht werden muss (vgl RIS-Justiz RS0040918 [T10]). Dass nach Meinung der Beklagten das Berufungsgericht in seinem Zwischenurteil nicht alle den Anspruchsgrund betreffenden Fragen geklärt habe, kann dagegen keinen Verfahrensmangel begründen, sondern ist gegebenenfalls unrichtige rechtliche Beurteilung (vgl 8 Ob 70/08i).
+2. Die Parteien haben einen Vertrag abgeschlossen, mit dem Gebäude der Klägerin gegen bestimmte Elementarereignisse versichert sind. Diesem Versicherungsvertrag liegen die Allgemeinen Bedingungen der Beklagten für die Sturmschadenversicherung (AstB 2002/2) zugrunde. Diese lauten auszugsweise:
+„Besonderer Teil
+Art. 1
+Versicherte Gefahren und Schäden
+(1) Der Versicherer gewährt nach Maßgabe der nachfolgenden Bestimmungen Versicherungsschutz gegen Schäden durch (…) Erdrutsch.
+(2) Im Sinne dieser Bestimmungen sind
+…
+d) Felssturz-, Steinschlag- oder Erdrutschschäden
+Schäden, die an den versicherten Sachen durch in Bewegung geratene Felsblöcke, Gesteinsteile oder Erdmassen verursacht werden.
+(3) Der Versicherer ersetzt den Wert bzw. die Wertminderung der zerstörten oder beschädigten versicherten Sachen, wenn die Zerstörung oder Beschädigung
+a) auf der unmittelbaren Einwirkung eines der in Abs. 1 genannten Schadensereignisse beruht.
+(…)
+(7) Der Versicherer haftet nicht
+…
+d) für Schäden durch Bewegung von Felsblöcken, Gesteins- oder Erdmassen, wenn diese Bewegungen durch Erdaufschüttungen bzw. -abgrabungen, weiters durch Sprengungen oder die Erschließung gasförmiger, flüssiger oder fester Stoffe aus dem Erdinneren verursacht wurden;
+e) für Schäden, die dadurch entstanden sind, dass sich die versicherten Gebäude in einem baufälligen Zustand befanden bzw. ganz oder teilweise mangelhaft instand gehalten wurden oder dass im Zuge von Umbauten Baubestandteile aus der üblichen Verankerung oder Befestigung gelöst wurden oder noch nicht entsprechend mit dem sonstigen Bauwerk verbunden worden sind; die Ersatzpflicht des Versicherers besteht aber, wenn der Versicherungsnehmer nachweist, dass der Schaden mit diesen Mängeln in keinem ursächlichen Zusammenhang steht.
+…“
+2.1. Das Berufungsgericht hat die Art 1.1, Art 1.2 und Art 1.3 AstB 2002/2 in der Zusammenschau im Rahmen ihres Wortlauts (RIS-Justiz RS0008901) und orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers (RIS-Justiz RS0050063) dahin ausgelegt, dass solche Erdrutschschäden versichert sind, die durch die unmittelbare Einwirkung von in Bewegung geratenen Erdmassen verursacht wurden. Diese Voraussetzungen hat das Berufungsgericht vertretbar bejaht, weil es „eine ruckartige Erdbewegung (im Zusammenhang mit großen Niederschlagsmengen) im Nahbereich des klägerischen Wohnhauses in Form eines Erdrutsches“ gewesen ist, die unmittelbarer Auslöser des Schadens am Zubau war (vgl 7 Ob 166/16m).
+2.2. Der Beklagten ist grundsätzlich dahin beizupflichten, dass im Rahmen einer Elementarrisikoversicherung auch aus der Sicht des verständigen Versicherungsnehmers schon nach allgemeinen Sprachregeln die versicherte Gefahr „Erdrutsch“ selbst dann als im Grundsatz „naturbedingtes“ Ereignis zu verstehen ist, wenn bei der Risikobeschreibung der Begriff der Naturbedingtheit nicht ausdrücklich verwendet wird. Demgegenüber widerspricht es gewohntem Sprachverständnis, einen unmittelbar vom Menschen herbeigeführten „Erdrutsch“ als „Elementar“ereignis zu qualifizieren.
+2.3. Soweit die Beklagte allerdings von einem „unzulässigen Bewässern“ ausgeht und unterstellt, „dass im konkreten Fall die Erdbewegungen, die mit entsprechenden Bauvorhaben verbunden (waren), die Instabilität des Bodens bewirkten, die dann letztlich Auslöser für einen Erdrutsch war“, führt sie die Revision nicht gesetzmäßig aus, weil sie in den wesentlichen Punkten nicht vom festgestellten Sachverhalt ausgeht. Der Schadensort ist nämlich ein geologisch unruhiger Hang mit schluffigem Erdreich und Wasserführungen in durchlässigen Bodenschichten, die zur Aufweichung der Konsistenz und zur Herabsetzung der Scherfestigkeit führen. Allein diese Umstände führten in der Vergangenheit zu Verformungen und es trat ein sogenanntes Hangkriechen auf. In Siedlungsbereichen übliche Geländemanipulationen und das Einbringen von Sickerwässern mögen risikoerhöhend gewirkt haben, waren aber nach dem vom Berufungsgericht angenommenen Sachverhalt nicht die zuletzt unmittelbaren und ursächlichen Auslöser des Erdrutsches. Das Berufungsgericht hat daher im Rahmen allgemeiner Auslegungsgrundsätze das Vorliegen des Risikoausschlusses nach Art 1.7 lit d AstB 2002/2 auf der Grundlage des zu beurteilenden Einzelfalls vertretbar verneint. Der gegenteilige Standpunkt der Beklagten, dass praktisch jedes für eine Erdbewegung mitursächliche menschliche Verhalten zum Entfall des Versicherungsschutzes führe, ist durch die Bedingungslage nicht gedeckt.
+3. Der Risikoausschluss wegen Baufälligkeit iSd Art 1.7 lit e AstB 2002/2 greift bei einem Gebäude, wenn sich dieses in einem äußerst schlechten baulichen Zustand befindet, also durch geringste, atypische Anlässe vom Einsturz bedroht ist (7 Ob 274/06d). Ein solcher Fall liegt nicht vor. Baufälligkeit und die hier für bestimmte Objektbereiche festgestellte mangelhafte Errichtung sind verschiedene Risikoausschlüsse (7 Ob 48/15g). Für letztgenannten Fall ist hier aber kein Risikoausschluss vereinbart.
+4. Die Beklagte ist letztlich noch der Ansicht, dass ihr die Klägerin die unzureichende Fundierung und das Unterlassen der Ableitung der Niederschläge in das Kanalsystem als vermeintlich gefahrenerhöhende Umstände hätte mitteilen müssen. Die unterlassene Meldung einer Gefahrenerhöhung ist aber nur relevant, wenn der Versicherungsnehmer sie kannte oder kennen musste (vgl RIS-Justiz RS0080126; RS0080030 [T1]). Dies steht aber, insbesondere nach dem Inhalt des Baubewilligungsbescheids, nicht fest, worauf sich die Klägerin auch erkennbar berufen hat.
+5. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision unzulässig und daher zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00101.17D.0705.000

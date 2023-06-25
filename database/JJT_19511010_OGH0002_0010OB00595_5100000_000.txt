@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.10.1951
+Geschäftszahl
+1Ob595/51
+Norm
+ABGB §1096;
+ABGB §1097;
+ABGB §1118;
+ABGB §1120;
+Mietengesetz §19;
+Mietengesetz §19 Abs1;
+Mietengesetz §19 Abs2 Z4a;
+Mietengesetz §21;
+Zweites Verstaatlichungsgesetz §8;
+Kopf
+SZ 24/265
+Spruch
+Im Falle einer Verstaatlichung nach dem 2. Verstaatlichungsgesetz ist die Gesellschaft, zu deren Gunsten verstaatlicht wurde, vom Zeitpunkt des Verstaatlichungsbescheides an zur Kündigung von Bestandverhältnissen legitimiert, auch wenn ihr Eigentumsrecht im Grundbuch noch nicht einverleibt ist.
+Entscheidung vom 10. Oktober 1951, 1 Ob 595/51.
+I. Instanz: Bezirksgericht Steyr; II. Instanz: Kreisgericht Steyr.
+Text
+Die Klägerin hat die Beklagten unter Berufung auf § 19 Abs. 1 und Abs. 2 Z. 4a MietG. gekundigt und vorgebracht, daß das von den Beklagten bewohnte Haus durch einen Bescheid der oberösterreichischen Landesregierung als baufällig und einsturzgefährlich erklärt und zur Räumung und Demolierung freigegeben wurde.
+Beide Untergerichte haben die Kündigung für wirksam erklärt, das Berufungsgericht hat die Revision zugelassen.
+Der Oberste Gerichtshof gab der Revision der beklagten Parteien Folge und hob in Abänderung des angefochtenen Urteiles die Aufkündigung auf.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zur Zeit der Kündigung (9. August 1949) war noch die Wohnungsaktiengesellschaft L. im Grundbuche als Eigentümerin des Hauses eingetragen, in dem sich die aufgekundigte Wohnung befindet. Das Bundesministerium für Vermögenssicherung und Wirtschaftsplanung hatte jedoch schon mit Bescheid vom 4. März 1948 ausgesprochen, daß unter anderen Häusern auch das gegenständliche Haus am 1. Jänner 1948 in das Eigentum der Klägerin übergehe. Die Beklagten vermissen zu Unrecht im zweiten Verstaatlichungsgesetz (BGBl. Nr. 81/47) eine Bestimmung darüber, von welchem Zeitpunkt an die Gesellschaft, zu deren Gunsten verstaatlicht wurde, berechtigt ist, eine Kündigung auszusprechen.
+Der § 8 bestimmt vielmehr mit voller Deutlichkeit, daß durch den Verstaatlichungsbescheid auch über den Zeitpunkt des Eigentumsüberganges entschieden wird. Die grundbücherliche Übertragung hat also im Falle der Verstaatlichung nur mehr deklarative Bedeutung. Sie bewirkt nicht erst wie im Falle des rechtsgeschäftlichen Erwerbes den Eintritt des Vermögensüberganges. Die Klägerin war also zur Zeit der Kündigung bereits legitimiert, diese vorzunehmen.
+Es ist richtig, daß die Klägerin die Ziffer 4 a des § 19 Abs. 2 MietG. angerufen hat. Der von ihr in der Kündigung geschilderte Sachverhalt entspricht aber, wenn auch nicht wörtlich, so doch sinngemäß dem vom Gesetz unter Punkt 4 als zweiter Fall angeführten Tatbestand, daß das Gebäude infolge seines gesundheitswidrigen und baufälligen Zustandes abbruchreif ist, wenn auch das Wort "abbruchreif" selbst in der Kündigung nicht enthalten ist. Wenn die Klägerin allerdings meint, daß sie auch ohne Abbruchreife auf Grund des § 19 Abs. 1 MietG. kundigen konnte, so müßte dies als verfehlt bezeichnet werden. Denn es kann ein die Tatbestandsmerkmale der Kündigungsgrunde des Abs. 2 nicht voll erfüllender Sachverhalt nur dann dem Abs. 1 unterstellt werden, wenn an Stelle des fehlenden Tatbestandsmomentes ein anderer vom Gesetz nicht erwähnter, aber ebenso wichtiger Umstand eintritt.
+Das Erstgericht hat, ohne selbst Erhebungen darüber zu pflegen, den Bauzustand auf Grund des erwähnten Bescheides des Amtes der oberösterreichischen Landesregierung festgestellt. Aus diesem Bescheid ist nichts darüber zu ersehen, welche Arbeiten notwendig wären, um die festgestellte Baufälligkeit und Einsturzgefahr zu beseitigen. Auch die Urteile der Untergerichte enthalten dementsprechend hierüber keine Feststellungen. Sie erschließen die Abbaureife lediglich aus der Erwägung, daß das Amt der oberösterreichischen Landesregierung die Abbruchgenehmigung nicht erteilt hätte, wenn es nicht die Wiederinstandsetzung des Hauses als unwirtschaftlich befunden hätte. Das Berufungsgericht fügt noch bei, die Abbruchgenehmigung sei einem Abbruchauftrag gleichzuhalten. Der letztere schließe eine Prüfung der Abbruchreife durch das Gericht aus (SZ. XIII/236).
+Die Feststellung des Zustandes eines Hauses ist eine tatsächliche Feststellung. Die Feststellung der Abbruchreife enthält bereits eine rechtliche Beurteilung, die nur auf Grund der Feststellung des Bauzustandes, der zur Beseitigung der Baufälligkeit und Einsturzgefahr erforderlichen Mittel und der für die Neuaufführung eines Gebäudes notwendigen Aufwendungen erfolgen kann, Feststellungen, die, wie erwähnt, in den Urteilen der unteren Instanzen fehlen. Der Oberste Gerichtshof ist also nicht in der Lage, die Abbruchreife auf Grund der bisher erfolgten Feststellungen zu beurteilen.
+Wenn die Untergerichte die Abbruchreife aus dem Bescheid des Amtes der oberösterreichischen Landesregierung ableiten und diesen sogar in einem Räumungsauftrag umzudeuten versuchen, so interpretieren sie ihn in unzutreffender Weise. Der Bescheid stellt lediglich die Baufälligkeit fest. Er ordnet nicht, wie dies § 49 Punkt 2 der oberösterreichischen Bauordnung vorsieht, die Räumung oder die Demolierung an, sondern er gibt das Gebäude in sinngemäßer Anwendung des § 49 Punkt 2 der oberösterreichischen Bauordnung zur Räumung und Demolierung frei. Daß damit nicht nur der Auftrag zur Räumung und Demolierung umschrieben werden sollte, ergibt sich mit voller Deutlichkeit aus der Begründung des Spruches. Nur deshalb, weil Bürgermeister und Gemeindeausschuß von der Möglichkeit, die Beseitigung der Bauschäden aufzutragen, nicht Gebrauch gemacht haben, sah sich das Amt der oberösterreichischen Landesregierung veranlaßt, dem Antrag der Klägerin auf Abtragung des einsturzgefährlichen Gebäudes zuzustimmen. Aus dem Bescheide ergibt sich also in keiner Weise die Abbruchreife des Hauses und somit weder eine Feststellung der Voraussetzungen der Ziffer 4 des § 19 Abs. 2 MietG. noch der Voraussetzungen des § 1118 ABGB. Bieten die Bauschäden trotz Baufälligkeit nicht die Voraussetzungen dieser Tatbestände und trägt die Verwaltungsbehörde der Klägerin die möglichen Ausbesserungsarbeiten, zu denen sie nach § 1096 ABGB. verpflichtet wäre, nicht auf, so steht es auch den Mietern frei, diese Ausbesserungen auf Kosten der Klägerin gemäß § 1097 ABGB. vornehmen zu lassen.
+Da die Voraussetzungen einer wirksamen Kündigung durch den Bescheid der Verwaltungsbehörde nicht nachgewiesen sind, die Klägerin sich aber in erster Instanz auf andere Beweismittel nicht berufen hat, sich sogar gegen die von den Beklagten zum Gegenbeweis angebotenen Beweismittel ausgesprochen hat, konnte eine Aufhebung des Urteiles nicht erfolgen. Das Urteil mußte vielmehr abgeändert werden, weil die erforderlichen Voraussetzungen für die Kündigung nicht nachgewiesen sind.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2016
+Geschäftszahl
+7Ob63/16i
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei Mag. R***** H*****, vertreten durch Dr. Clemens Pichler, LL.M., Rechtsanwalt in Dornbirn, gegen die beklagte Partei Schweizerische Nationalbank AG, CH-8022 Zürich, Börsenstraße 15, wegen Feststellung, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Innsbruck als Rekursgericht vom 10. März 2016, GZ 10 R 15/16f-5, womit der Beschluss des Landesgerichts Innsbruck vom 1. Februar 2016, GZ 66 Cg 1/16y-2, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+I) Der Revisionsrekurs wird zurückgewiesen.
+Die klagende Partei hat die Kosten ihres Revisionsrekurses selbst zu tragen.
+II) Die Urkundenvorlage der beklagten Partei vom 30. 5. 2016 wird zurückgewiesen.
+Text
+Begründung:
+Zu I.:
+Der Kläger begehrte die Feststellung der Haftung der beklagten Nationalbank für alle Schäden und Nachteile, die er bei Fälligkeit seines endfälligen Franken-Kredits am 1. 6. 2029 aus der Differenz des bis 14. 1. 2015 geltenden Mindestwechselkurses von 1,2 : 1,0 zwischen Schweizer Franken und Euro zu dem am 1. 6. 2029 geltenden Wechselkurs erleide. Die Beklagte habe den am 6. 9. 2011 von ihr eingeführten Mindestkurs von 1,2 CHF überraschend am 15. 1. 2015 aufgehoben. Die zuvor von ihr verbreiteten Informationen über die Beibehaltung des Mindestkurses seien bewusst falsch und irreführend gewesen. Diese Mitteilungen seien alleiniger Grund dafür gewesen, dass der Kläger von einer Konvertierung des Franken-Kredits in Euro vor dem 15. 1. 2015 abgesehen habe.
+Das Erstgericht wies die Klage a limine mangels inländischer Gerichtsbarkeit zurück. Die Aufgabe des Mindestkurses und die damit zusammenhängenden Verlautbarungen würden eine hoheitliche Tätigkeit darstellen, weshalb keine inländische Gerichtsbarkeit im Sinn des Europäischen Übereinkommens über die Staatenimmunität gegeben sei.
+Das Rekursgericht bestätigte diese Entscheidung. Die Informationspflichten der Beklagten stünden in einem derart engen Zusammenhang mit ihrer Geld- und Währungspolitik, dass die dazu gesetzten Akte als hoheitliche Maßnahmen zu qualifizieren seien. Es bewertete den Entscheidungsgegenstand mit 5.000 EUR, nicht jedoch 30.000 EUR übersteigend und sprach aus, dass der ordentliche Revisionsrekurs zulässig sei, weil höchstgerichtliche Rechtsprechung zur Frage fehle, ob und inwieweit informative Bekanntgaben einer Nationalbank als hoheitliche Maßnahmen zu qualifizieren seien.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist – entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Rekursgerichts – nicht zulässig.
+1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (RIS-Justiz RS0112921, RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt weg, wenn die bedeutsame Rechtsfrage durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RIS-Justiz RS0112921 [T5], RS0112769 [T12]).
+2. Dies ist hier der Fall. Der Oberste Gerichtshof hat in der einen vergleichbaren Sachverhalt und ebenfalls die Beklagte betreffenden Entscheidung 8 Ob 68/16g vom 17. 8. 2016 ausführlich begründet, dass die Informationspolitik der Beklagten in Bezug auf geldpolitische Entscheidungen und Absichten zu deren hoheitlichem Tätigkeitsbereich gehört bzw jedenfalls damit in einem engen und untrennbaren Zusammenhang steht, sodass – wie hier – betreffend eines aus solchen Maßnahmen der Beklagten abgeleiteten Anspruchs ihr die Immunität im Sinn des Art 27 Abs 2 des Europäischen Übereinkommens über Staatenimmunität, BGBl 1976/432, zukommt. Diese bereits von den Vorinstanzen vertretene Rechtsansicht steht somit in Einklang mit der mittlerweile vorliegenden Rechtsprechung des Obersten Gerichtshofs.
+3. Der Revisionsrekurs war daher zurückzuweisen.
+4. Die Kostenentscheidung beruht auf den §§ 40 und 50 ZPO.
+Zu II.:
+Die Anfechtung eines a limine gefassten Zurückweisungsbeschlusses findet in einem einseitigen Revisionsrekursverfahren statt (RIS-Justiz RS0039200). Die Urkundenvorlage der Beklagten war daher als unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00063.16I.0928.000

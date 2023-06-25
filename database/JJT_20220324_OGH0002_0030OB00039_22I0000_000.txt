@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.2022
+Geschäftszahl
+3Ob39/22i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Exekutionssache der betreibenden Partei M* N*, vertreten durch Mag. Herbert Nigl, Rechtsanwalt in Korneuburg, gegen die verpflichtete Partei N* S*, vertreten durch Mag. Yvonne Klein, Rechtsanwältin in Krems an der Donau, wegen Exekution nach § 350 EO, über die außerordentlichen Revisionsrekurse der verpflichteten Partei sowie des Einschreiters O* F*, vertreten durch Mag. Alexander Reinberg, Rechtsanwalt in Krems an der Donau, gegen den Beschluss des Landesgerichts Krems an der Donau als Rekursgericht vom 12. Jänner 2022, GZ 1 R 141/21x-155, mit dem der Rekurs des Einschreiters zurückgewiesen und im Übrigen der Beschluss des Bezirksgerichts Krems an der Donau vom 19. Juni 2020, GZ 6 E 1059/18v-97, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+I. Der Revisionsrekurs der verpflichteten Partei gegen die Exekutionsbewilligung wird als jedenfalls unzulässig zurückgewiesen.
+II. Der außerordentliche Revisionsrekurs des Einschreiters wird gemäß § 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zu I.:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 528 Abs 2 Z 2 ZPO iVm § 78 EO ist auch im Exekutionsverfahren – abgesehen von hier nicht vorliegenden Ausnahmen (vgl dazu 3 Ob 206/19v; 3 Ob 169/20d) – ein weiterer Rechtszug gegen eine zur Gänze bestätigende Rekursentscheidung jedenfalls unzulässig (RS0132903; 3 Ob 156/21v).
+[2] 		Der vom Rekursgericht angeführte Rechtssatz, wonach der Revisionsrekurs auch gegen solche bestätigende Beschlüsse der zweiten Instanz zulässig (richtig: nicht jedenfalls unzulässig) sei, die nur deshalb bestätigend ausgefallen seien, weil das Gericht zweiter Instanz einen Beschluss des Erstgerichts ohne Rechtskraftvorbehalt aufgehoben hatte und das Erstgericht im zweiten Rechtsgang aufgrund der Überbindung der Rechtsansicht durch die zweite Instanz anders als im ersten Rechtsgang entschied (RS0044323), ist hier nicht anwendbar, weil das Erstgericht auch schon im ersten Rechtsgang die Exekution bewilligte.
+[3] 		Die bestätigende Entscheidung des Rekursgerichts über die Exekutionsbewilligung kann vor dem Obersten Gerichtshof daher nicht mehr angefochten werden. Der insofern absolut unzulässige Revisionsrekurs der Verpflichteten war somit zurückzuweisen.
+[4] 		2. Zu den neuerlich ins Treffen geführten Befangenheits- und Strafanzeigen ist die Verpflichtete darauf zu verweisen, dass trotz der Ablehnung von Richtern in einem Rechtsmittel eine sofortige Entscheidung des übergeordneten Gerichts über das Rechtsmittel nach ständiger Rechtsprechung dann zulässig ist, wenn – wie hier – keine konkreten persönlichen Befangenheitsgründe ins Treffen geführt oder die Ablehnung offenkundig rechtsmissbräuchlich ist (RS0046015; 3 Ob 182/21t). Anschuldigungen, die ihren Grund offenkundig in der Missbilligung vorangegangener Entscheidungen haben, rechtfertigen schon von vornherein nicht die Annahme einer Befangenheit (vgl RS0046011; 3 Ob 3/22w). Entgegen ihren Behauptungen ist auch kein Ablehnungsverfahren anhängig (vgl ON 15, 47 und 75).
+Zu II.:
+[5] 		1. Ein Beschluss des Rekursgerichts, mit dem ein an dieses gerichteter Rekurs gegen eine erstinstanzliche Entscheidung zurückgewiesen wurde, ist im Regelfall nur unter den Voraussetzungen des § 528 Abs 1 ZPO anfechtbar. Ein Fall für eine analoge Anwendung des § 519 Abs 1 Z 1 ZPO liegt hier nicht vor (vgl dazu 5 Ob 230/20i).
+[6] 		2. Das Vorkaufsrecht des Einschreiters hinsichtlich der einzelnen von der Exekutionsbewilligung erfassten Liegenschaften wurde unstrittig vor der erstgerichtlichen Entscheidung im zweiten Rechtsgang im Grundbuch gelöscht. Seine Behauptung, es sei „im Löschungsverfahren ein Wiederaufnahmeverfahren anhängig, weshalb das Verfahren über die Löschung des Vorkaufsrechts nach wie vor offen“ sei, ist aus den Akten nicht ersichtlich und verstößt gegen das auch im Exekutionsverfahren grundsätzlich geltende Neuerungsverbot (RS0002371). Davon abgesehen kann eine der Wiederaufnahme nach der ZPO entsprechende Abänderung gemäß §§ 72 ff AußStrG im Grundbuchsverfahren nicht beantragt werden (§ 122 Abs 1 GBG).
+[7] 		Dem Einschreiter gelingt es mit seinen Ausführungen damit nicht, eine erhebliche Rechtsfrage aufzuzeigen. Der außerordentliche Revisionsrekurs war daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00039.22I.0324.000

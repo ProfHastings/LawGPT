@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.09.1948
+Geschäftszahl
+4Ob13/48
+Norm
+JN §55;
+ZPO §502 Abs3;
+Kopf
+SZ 21/129
+Spruch
+Wenn mehrere Dienstnehmer den gemeinsamen Dienstgeber mit gemeinsamer Klage auf Zahlung von Bezügen klagen, so sind die eingeklagten Beträge zwecks Feststellung der Revisionsgrenze nicht zusammenzurechnen.
+Entscheidung vom 21. September 1948, 4 Ob 13/48.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtsachen Wien.
+Text
+Drei Angestellte einer Aktiengesellschaft haben mit gemeinsamer Klage die Zahlung von Bezügen auf Grund ihres Dienstvertrages begehrt. Die Untergerichte haben die Klagsansprüche mit übereinstimmenden Urteilen für berechtigt erkannt. Der Oberste Gerichtshof hat die Revision der beklagten Partei zurückgewiesen, soweit die Urteile der Untergerichte das Begehren jenes Klägers für berechtigt erkannt hatten, dessen Klagsbetrag 10.000 S nicht überstieg.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Gemäß § 502, Abs. 3 ZPO. ist die Revision gegen gleichförmige Entscheidungen der Untergerichte nur dann zulässig, wenn der Streitgegestand, über den das Berufungsgericht entschieden hat, 10.000 S übersteigt. Da der vom Zweitkläger geltend gemachte Anspruch 10.000 S nicht erreicht, so hängt die Zulässigkeit der Revision bezüglich des vom Zweitkläger eingeklagten Betrages von der Beantwortung der Frage ab, ob eine Zusammenrechnung der Ansprüche der drei Kläger stattzufinden hat oder nicht.
+Es kann dahingestellt bleiben, ob eine analoge Anwendung des § 55 JN. auf den im § 502, Abs. 3 ZPO. geregelten Fall überhaupt zulässig ist, da auch bei Bejahung dieser Vorfrage eine Zusammenrechnung diesmal jedenfalls nicht stattfinden könnte, weil die Nämlichkeit des tatsächlichen oder rechtlichen Gründes der drei in einer Klage geltendgemachten Ansprüche nicht gegeben ist, da jeder der drei Kläger seinen Anspruch aus einem besonderen von ihm mit der Beklagten abgeschlossenen Sondervertrag ableitet und auch alle drei Kläger durch besondere individuell gehaltene, wenn auch inhaltlich übereinstimmende Schreiben gekundigt wurden. Ihr Anspruch beruht daher nur auf einem gleichartigen, aber nicht auf dem nämlichen Tatbestand. Eine Rechtsgemeinschaft kommt von vornherein nicht in Frage.
+Es ist daher die Zulässigkeit der Revision bezüglich jedes Klägers besonders zu beurteilen; infolgedessen war die gegen den Zweitkläger gerichtete Revision, weil die Revisionsgrenze nicht erreicht ist, zurückzuweisen.

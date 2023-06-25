@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.02.1954
+Geschäftszahl
+1Ob869/53
+Norm
+ABGB §1438;
+ABGB §1440;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art7 Nr. 10;
+Kopf
+SZ 27/27
+Spruch
+Die Aufrechnung einer gegen die Gesellschafter einer offenen Handelsgesellschaft zur ungeteilten Hand zustehenden Forderung ist gegenüber einer Forderung der Gesellschaft nicht zulässig.
+Entscheidung vom 4. Feber 1954, 1 Ob 869/53.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die Untergerichte haben die Beklagte zur Bezahlung von 151.599.25 S verurteilt. Die Revision richtet sich unter Geltendmachung der Revisionsgrunde des § 503 Z. 3 und 4 ZPO. gegen die Nichtberücksichtigung von Kompensationseinreden.
+Der Oberste Gerichtshof gab der Revision der Nebenintervenientin auf Seite der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Feststellung der Untergerichte, daß die Forderung der Klägerin mit diesem Betrag zu Recht bestehe, wird weder in den Ausführungen der Revision noch nach dem Inhalt des Revisionsantrages bestritten, wenn auch die Revision erklärt, es werde das Urteil seinem ganzen Inhalte nach angefochten.
+Die Revision ist aber nicht begrundet. Die geltend gemachte Aktenwidrigkeit spielt weder im Urteil erster noch in dem zweiter Instanz eine Rolle. Beide Gerichte haben sich mit allen Kompensationseinwendungen, die von der Beklagten oder von den Nebenintervenienten auf Seiten der Beklagten erhoben wurden, befaßt und dem Umstand, daß einzelne der Einwendungen angeblich nicht von der Beklagten, sondern nur von den Nebenintervenienten erhoben wurden, keine Bedeutung beigemessen.
+Persönlich haftende Gesellschafter der Klägerin und der beklagten Partei sind oder waren: Dipl.-Ing. Richard R.-G. und Dipl.-Kfm. K.- G. Das Berufungsgericht ist davon ausgegangen, daß die Beklagte der Forderung der Klägerin nur Gegenforderungen einwenden könne, die der klagenden Gesellschaft gegenüber bestehen, nicht aber solche, die nur einem Gesellschafter gegenüber bestehen (Art. 7 Nr. 10 Abs. 2, 4. EVzHGB.). Das Berufungsgericht schließt dabei nicht aus, daß Forderungen, die gegenüber allen Gesellschaftern der Klägerin zur ungeteilten Hand bestehen, solchen Forderungen gleichzustellen sind, die der Gesellschaft gegenüber bestehen. Es beruft sich dabei auf den Reichsgerichtsrätekommentar 9, Anm. 5 zu § 719 DBGB.; diesem Paragraphen ist die angeführte Bestimmung der 4. EVzHGB. nachgebildet. In der genannten Anmerkung werden allerdings - im Gegensatze zu Staudinger, Kommentar 9, Anm. 2 zu § 719 - den Forderungen gegen die Gesellschaft Forderungen gegen alle Gesellschafter zur ungeteilten Hand gleichgestellt. Dies wird aus § 718 DBGB. abgeleitet. Nach Anm. 5 zu diesem letzteren Paragraphen kann der Gläubiger einer Forderung, die sich gegen alle Gesellschafter einer Gesellschaft richtet, auch wenn es sich nicht um eine Forderung gegen die Gesellschaft handelt, unmittelbar in das Gesellschaftsvermögen Exekution führen. Ist dies richtig, dann muß auch die angeführte Aufrechnung möglich sein. Der Kommentar weist aber selbst darauf hin, daß eine solche Exekution in das Vermögen einer offenen Handelsgesellschaft durch § 135 HGB. ausgeschlossen wird. Dann findet aber auch die aus der Exekutionsmöglichkeit abgeleitete Aufrechnung bei der offenen Handelsgesellschaft nicht statt. Das Vermögen der offenen Handelsgesellschaft haftet zunächst den Gläubigern der offenen Handelsgesellschaft. Ließe man die unmittelbare Aufrechnung der einem Schuldner der Gesellschaft gegen die Gesellschafter zur gesamten Hand zustehenden Forderung zu, so würde damit das Gesellschaftsvermögen zum Nachteile der Gesellschaftsgläubiger vorweg gekürzt. Die Aufrechnung wird bei der offenen Handelsgesellschaft auch im Reichsgerichtsrätekommentar zum Handelsgesetzbuch, Anm. 38 zu § 124 und selbst für die Gesellschaft bürgerlichen Rechtes von Wahle in Klang[2] zu §§ 1202 f., S. 645 abgelehnt.
+Geht man von dieser Meinung aus, dann kann der Revision ein Erfolg nicht beschieden sein. Denn in ihr wird lediglich geltend gemacht, daß die Gegenforderungen, die der Forderung der Klägerin in der Revision noch entgegengestellt werden, nicht, wie das Berufungsgericht angenommen hat, nur gegen einen der Gesellschafter der Klägerin oder wohl gegen beide Gesellschafter, aber nur je zur Hälfte zustehen, sondern gegen beide Gesellschafter zur ungeteilten Hand. Selbst wenn dies der Fall wäre, bliebe die Aufrechnung dennoch ausgeschlossen.

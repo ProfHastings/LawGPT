@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.11.1962
+Geschäftszahl
+7Ob324/62
+Norm
+ABGB §1042;
+Versicherungsvertragsgesetz 1958 §67 (2);
+Kopf
+SZ 35/124
+Spruch
+Ist der Übergang der Ersatzforderung des Versicherungsnehmers auf den Versicherer nach § 67 (2) VersVG. ausgeschlossen, kann der Versicherer auch nicht nach § 1042 ABGB. gegen den Schädiger Rückgriff nehmen.
+Entscheidung vom 28. November 1962, 7 Ob 324/62.
+I. Instanz: Kreisgericht Korneuburg; II. Instanz: Oberlandesgericht Wien.
+Text
+F. T., der Vater des Beklagten, ist Halter eines bei der Klägerin gegen Haftpflicht versicherten Personenkraftwagens, mit dem der Beklagte als Lenker einen Verkehrsunfall verursachte. Der Beklagte, der keinen Führerschein besaß, wurde deshalb vom Bezirksgericht Retz rechtskräftig wegen Übertretung nach § 335 StG. verurteilt. Er unternahm die Fahrt gegen das Verbot seines Vaters.
+Die Klägerin führt aus, sie habe den Beschädigten insgesamt 34.502.94 S als Ersatz bezahlt. Da der Beklagte ohne einen Führerschein zu besitzen und ohne Erlaubnis des Halters die Fahrt unternommen habe, sei er nicht mitversichert. Sie verlange daher den Ersatz der Auslagen, die er verschuldet habe.
+Der Beklagte wendet ein, die Klage sei nicht schlüssig, da sich aus ihr nicht der Rechtsgrund ergebe. Ein allgemeiner Schadenersatzanspruch stehe der Klägerin nicht zu.
+Das Erstgericht stellte fest, daß die Klägerin die von ihr behaupteten Zahlungen geleistet habe, und gab dem Klagebegehren statt. Es verwies darauf, daß der Beklagte der Klägerin durch sein Verhalten einen vermögensrechtlichen Schaden verursacht habe.
+Das Berufungsgericht wies das Klagebegehren ab. Es führte aus, daß der Beklagte an der Klägerin kein Delikt begangen habe. Die Klägerin mache keinen Anspruch der Beschädigten auf Grund einer gesetzlichen Zession geltend.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Klägerin stützt ihr Begehren darauf, daß der Beklagte ihre Auslagen verschuldet habe, also auf ein an ihr begangenes Delikt. Davon kann aber keine Rede sein. Es ist ständige Rechtsprechung des Obersten Gerichtshofes, daß das Wort "jedermann" im § 1295 ABGB. nicht so aufzufassen ist, daß jeder, zu dessen Nachteil sich das Delikt ausgewirkt hat, Ersatz verlangen könne, sondern daß hiezu, von gewissen Ausnahmen, z. B. § 1327 ABGB., abgesehen, nur derjenige hiezu berechtigt ist, in dessen Rechte der Täter eingegriffen hat. Dies wurde insbesondere in der Entscheidung SZ. XXX 7 für den Fall des Rückgriffes eines Versicherers näher dargelegt. Der Umstand, daß es sich dort um eine Insassen- und nicht wie hier um eine Haftpflichtversicherung gehandelt hat, ist für die Entscheidung, ob die Klägerin unmittelbar aus dem Delikt des Beklagten Ersatz verlangen kann, belanglos. Von Bedeutung war dieser Unterschied nur für die Frage der Anwendbarkeit des § 67 VersVG. Der vom Erstgericht angenommene Rechtsgrund trifft daher nicht zu.
+Hingegen ist zu untersuchen, ob der Klägerin gemäß § 1042 ABGB. eine Forderung zusteht. Es handelt sich hiebei nicht, wie sie in der Revisionsschrift ausführt, um den Übergang eines Anspruches des ursprünglich Berechtigten auf sie, vielmehr entsteht durch die Bezahlung einer Schuld eine selbständige Forderung des Leistenden, die mit der des früheren Gläubigers nicht identisch ist (Ehrenzweig[2], II 1, S. 730, JB. Nr. 81 alt, SZ. XXV 259 u. a.). Es könnte daher unter dem Klageanspruch, der auf den Ersatz der vom Beklagten verschuldeten Auslagen der Klägerin gerichtet ist, wohl ein solcher nach § 1042 ABGB. verstanden werden. Damit ist aber für die Klägerin nichts gewonnen. Denn diese Bestimmung ist nicht anzuwenden, wenn auf Grund besonderer Bestimmung die Forderung auf den Zahler übergeht. Dieser muß den Ersatzanspruch des Gläubigers gegen den Schuldner geltend machen. Dies trifft sowohl bei § 1358 ABGB., § 332 ASVG. als auch bei § 67 VersVG. zu (s. Ehrenzweig a. a. O., S. 729, Swoboda bei Klang[1], II 2, S. 931, EvBl. 1955, Nr. 89, u. a.). Allerdings ist ein Forderungsübergang nach § 67 VersVG. hier nicht eingetreten, weil dem die Vorschrift des zweiten Absatzes dieser Gesetzesstelle entgegensteht. Aber gerade deshalb geht es nicht an, den Zweck des Gesetzes, nämlich zu verhindern, daß die Leistung des Versicherers für den Versicherungsnehmer wertlos sei, weil ihn der Umstand, daß gegen einen mit ihm im gemeinsamen Haushalt lebenden Familienangehörigen Rückgriff genommen wird, wirtschaftlich so trifft, als ob er selbst den Schadenersatz leisten müßte, durch Berufung auf § 1042 ABGB. zu vereiteln. Der deckungspflichtige Versicherer, auf den die Schadenersatzforderung des Vaters des Beklagten, wenn es sich um einen fremden Schädiger gehandelt hätte, übergegangen sein würde, kann in einem Fall wie dem vorliegenden daher auch nicht auf Grund des § 1042 ABGB. Ersatz verlangen.

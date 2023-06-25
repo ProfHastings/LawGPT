@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.06.1955
+Geschäftszahl
+4Ob77/55
+Norm
+ABGB §1157;
+Arbeitsgerichtsgesetz §1;
+Hausbesorgerordnung §6;
+Kopf
+SZ 28/155
+Spruch
+Der Hauseigentümer muß dem Hausbesorger darüber Auskunft geben, ob ihm die dem Hausverwalter gegebene unzulässige Ablöse zugekommen ist.
+Die Schadenersatzklage wegen Nichterteilung dieser Auskunft gehört vor das Arbeitsgericht.
+Entscheidung vom 14. Juni 1955, 4 Ob 77/55.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin bringt vor, sie habe dem Hausverwalter der Beklagten für die Überlassung des Hausbesorgerpostens 2000 S bezahlen müssen. In der Folge habe sie die Beklagte vergeblich schriftlich um Auskunft gebeten, ob sie den Betrag bekommen habe. In der Annahme, der Hausverwalter habe diesen Betrag behalten, habe sie diesen auf Rückzahlung geklagt. Im Prozeß habe jedoch ein Zeuge bekundet, daß der Betrag an die Beklagte herausgegeben worden sei. Daraufhin habe die Klägerin das Begehren gegenüber dem Hausverwalter auf 200 S eingeschränkt. Dieser sei auch gemäß dem eingeschränkten Begehren verurteilt worden. Der Klägerin seien aber 631 S 18 g Kostenersatz auferlegt worden; an eigenen Kosten seien ihr 1000 S 20 g entstanden. Da der Hausverwalter sodann den ganzen Ablösebetrag samt Zinsen abzüglich der ihm zugesprochenen Kosten bezahlt habe, sei die Klägerin noch um die Kosten von zusammen 1631 S 38 g geschädigt. Dieser Schaden sei ihr "durch die auf Grund schuldhafter Unterlassung der Beklagten erfolgte, teilweise unrichtige Klageführung" entstanden.
+Die beklagte Partei erhob die Einrede der sachlichen Unzuständigkeit.
+Das Erstgericht wies die Klage wegen sachlicher Unzuständigkeit zurück.
+Das Rekursgericht gab dem Rekurs der Klägerin Folge und änderte den angefochtenen Beschluß dahin ab, daß die Einrede der sachlichen Unzuständigkeit zurückgewiesen und dem Erstgericht die Entscheidung in der Sache selbst aufgetragen wurde.
+Der Rekurs der Beklagten blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Arbeitsgerichte sind unter anderem für bürgerliche Rechtsstreitigkeiten zwischen Unternehmern und Beschäftigten aus unerlaubten Handlungen zuständig, soweit diese mit dem Arbeitsverhältnis im Zusammenhang stehen (§ 1 Abs. 1 Z. 1 ArbGerG.). Eine besondere Qualifikation dieses Zusammenhanges, insbesondere dahin, daß es ein unmittelbarer oder ein rechtlicher Zusammenhang oder gar ein tatsächlicher und rechtlicher Zusammenhang sein müßte, ist nicht gefordert.
+Im vorliegenden Falle wäre es ohne Arbeitsverhältnis nicht zur Leistung der 1000 S durch die Klägerin an den Hausverwalter und nicht zu der unbeantwortet gebliebenen Anfrage durch die Klägerin an die Beklagte gekommen. Ein Dienstgeber, der vom Dienstnehmer verdächtigt wird, daß er einen ihm nicht zukommenden Betrag erhalten habe, ist kraft der das Dienstverhältnis beherrschenden Treuepflicht gehalten, sich darüber zu äußern. Eine solche Verpflichtung hat der Oberste Gerichtshof bereits für alle nichtigen Verträge anerkannt (SZ. XXIV 304); sie muß daher umso mehr dann gelten, wenn ein Vertrag wirksam abgeschlössen worden und nur strittig ist, ob ein Betrag auf Grund einer ungültigen Nebenvereinbarung dem Dienstgeber zugekommen ist. Der Sachverhalt, aus dem die Klägerin ihren Schadenersatzanspruch ableitet, steht daher mit dem Arbeitsverhältnis im Zusammenhang, so daß die arbeitsgerichtliche Zuständigkeit begrundet ist.
+Dem Revisionsrekurs war daher nicht Folge zu geben.

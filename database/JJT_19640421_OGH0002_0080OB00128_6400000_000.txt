@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.04.1964
+Geschäftszahl
+8Ob128/64
+Norm
+ABGB §1167;
+Kopf
+SZ 37/61
+Spruch
+Auch der einer ausdrücklichen Bedingung zuwiderlaufende Mangel rechtfertigt kein Abgehen vom Vertrag gemäß § 1167 ABGB., wenn er leicht behebbar ist.
+Entscheidung vom 21. April 1964, 8 Ob 128/64. I. Instanz:
+Bezirksgericht Vöcklabruck; II. Instanz: Kreisgericht Wels.
+Text
+Der Beklagte hat die Annahme und Bezahlung der vom Kläger gelieferten Holztreppe abgelehnt, da diese nicht wie vereinbart, aus Kirschenholz erster Klasse hergestellt worden sei. Lediglich drei Stufen bestehen aus Holz der Güteklasse 2. Die Auswechslung des Holzes dieser drei Stufen durch solches der Klasse 1 würde einen Arbeitsaufwand von 120 S erfordern. Der Unterschied im Preis des Holzes spielt dabei praktisch keine Rolle.
+Der Erstrichter sprach dem Kläger den Betrag von 7600 S s. A. zu. Darin, daß drei Stufen aus Holz der Klasse 2 bestunden, könne ein wesentlicher Mangel im Sinn des § 1167 ABGB. nicht erblickt werden, zumal teilweise auch Holz der Klasse 0 verwendet worden sei. Es handle sich dabei vielmehr nur um eine unerhebliche Minderung des Wertes im Sinn des § 932 (2) ABGB., die unbeachtlich sei.
+Das Berufungsgericht änderte das erstgerichtliche Urteil dahin ab, daß es das Klagebegehren abwies.
+Der Oberste Gerichtshof gab der Revision Folge und stellte das Urteil der ersten Instanz wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Was zunächst den vom Beklagten noch in der Revisionsbeantwortung eingenommenen Standpunkt anlangt, unter erstklassigem Holz im Sinn der Vereinbarung könne nur Holz der besten Güteklasse, also der Klasse 0, nicht aber Holz der Klasse 1, verstanden werden, so kann den Vorinstanzen insoweit gefolgt werden, daß Holz der Güteklasse 0 und 1 noch als erstklassiges Material im Sinn der Vereinbarung gewertet werden kann, während dies bei Holz der Güteklasse 2 nicht mehr zutrifft. Der Ansicht des Erstrichters, die Verwendung von Holz der Güteklasse 2 bei Herstellung von drei Stufen der Stiege habe nur eine unerhebliche Minderung des Wertes der Stiege im Sinn des § 932
+(2) ABGB. zur Folge, auf welche Minderung nicht Bedacht zu nehmen sei, ist das Berufungsgericht mit Recht nicht gefolgt. Wurde erstklassiges Holz vereinbart, dann kann nicht die Verwendung einer minderwertigeren Holzgüte, wenn auch nur für einen Teil des Werkes, als unerhebliche Wertminderung abgetan werden. Ein wegen Geringfügigkeit unbeachtlicher Mangel im Sinn der angeführten Gesetzesstelle liegt daher nicht vor.
+Dem Umstand, daß die Auswechslung des nicht der Vereinbarung entsprechenden Holzes durch Holz der Güteklasse 1 oder 0 leicht und mit verhältnismäßig geringem Kostenaufwand möglich wäre, kommt aber aus einem anderen Grund Bedeutung zu. Ein solcher leicht behebbarer Mangel kann, auch wenn er der Vereinbarung widerspricht, nicht als wesentlicher Mangel im Sinn des § 1167 erster Satz ABGB. gewertet werden. Der Beklagte hat daher im Sinn der herrschenden Lehre und Rechtsprechung (vgl. Klang-Komm.[2], V., S. 394, SZ. IX 8, EvBl. 1953, Nr. 161) nicht das Recht, vom Vertrage abzugehen, sondern nur den Anspruch auf Verbesserung oder Preisminderung. Er ist demnach weiter an den Vertrag gebunden.
+Dem Berufungsgericht kann nun nicht darin beigepflichtet werden, der Kläger könne, weil die gegenständliche Verbesserung bis heute nicht vorgenommen worden sei, nicht die Zahlung des Preises verlangen. Wie unbekämpft festgestellt wurde, hat der Beklagte nach der ersten Lieferung der Stiege unter anderem beanständet, daß drei Setz- und drei Trittstufen aus mangelhaftem Holz hergestellt seien und hat, als die Stiege nach Auswechslung dieser Stufen, Behebung einiger anderer Mängel und Vornahme der gewünschten Änderungen neuerlich geliefert werden sollte, andere Beanstandungen erhoben und schließlich die Übernahme der Stiege abgelehnt und ausdrücklich erklärt, er wolle diese Stiege nicht. Er hat auch im gegenständlichen Verfahren nicht etwa wegen Nichtauswechslung dreier anderer nach dem Sachverständigengutachten aus nicht der Vereinbarung entsprechendem Material bestehender Stufen bloß die Bezahlung des Preises von der Auswechslung dieser Stufen abhängig gemacht, sondern eindeutig seinen Willen kundgetan, diese Stiege überhaupt nicht zu übernehmen und damit auch deren Verbesserung durch Auswechslung der drei Stufen abzulehnen. Steht sonach fest, daß der Beklagte keinesfalls gewillt ist, diese Stiege zu übernehmen, dann wäre es überflüssig, vom Kläger zu verlangen, vor der klageweisen Geltendmachung des Entgeltes für das Werk vorerst die gegenständlichen drei Stufen durch solche aus Holz der Klasse 0 oder 1 zu ersetzen. Der Kläger kann vielmehr, ohne vorerst eine derartige im Hinblick auf den vom Beklagten eingenommenen Standpunkt vollkommen zwecklose Ausbesserung vorzunehmen, gemäß § 1168 ABGB. das Entgelt für die Stiege verlangen.

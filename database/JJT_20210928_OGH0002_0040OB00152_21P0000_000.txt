@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2021
+Geschäftszahl
+4Ob152/21p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Parteien 1. U* W*, 2. B* W*, 3. E* F*, alle vertreten durch Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei A*aktiengesellschaft, *, vertreten durch Dr. Günther Klepp und andere Rechtsanwälte in Linz, wegen 62.316,76 EUR sA, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Linz vom 21. Mai 2021, GZ 1 R 21/21w-21, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+[1] 		Die Beklagte ist ein Kreditunternehmen und stand mit dem im Juli 2016 verstorbenen G* W* (im Folgenden: Kreditnehmer) in jahrelanger Geschäftsverbindung. Die Kläger sind drei von vier Erben des Kreditnehmers.
+[2] 		Die Beklagte räumte dem Kreditnehmer im Jänner 2015 zwei Kredite mit einer Laufzeit bis Ende November 2015 ein. Im November 2015 vereinbarten die Vertragsparteien eine Prolongation bis 30. November 2016. Mangels fristgerechter Tilgung der Kredite Ende November 2016 belastete die Beklagte die Kreditkonten mit einer Überziehungsprovision. Die Kredite wurden 2017 nach der Einantwortung getilgt.
+[3] 		Die Kläger begehren die (anteilige) Erstattung der ihnen angelasteten Überziehungsprovision. Für das drittinstanzliche Verfahren noch von Relevanz brachten sie vor, dass der Kreditnehmer die Verträge als Verbraucher abgeschlossen habe. Die Verrechnung der Überziehungsprovision sei rechtsgrundlos erfolgt, weil die Klausel zu den Überziehungszinsen § 6 Abs 1 Z 13 KSchG verletzt habe. Darüber hinaus habe die Beklagte gegen Informationspflichten nach dem HIKrG verstoßen.
+[4] 		Die Beklagte wandte ein, dass die Klausel mit dem Kreditnehmer als Unternehmer wirksam vereinbart worden sei.
+[5] 		Die Vorinstanzen wiesen die Klage ab. Sie gingen davon aus, dass es sich bei den Krediten um reine Unternehmerkredite gehandelt habe. Das KSchG sei daher nicht anwendbar. Das HIKrG sei schon aufgrund des Vertragsabschlusses vor dem 21. März 2016 nicht anwendbar.
+[6] 		Das Berufungsgericht ließ die ordentliche Revision mangels erheblicher Rechtsfragen nicht zu.
+[7] 		In ihrer außerordentlichen Revision stützen die Kläger die Zulässigkeit des Rechtsmittels auf die von ihnen behauptete Verbrauchereigenschaft des Kreditnehmers und vermissen zur vorliegenden Konstellation Rechtsprechung.
+Rechtliche Beurteilung
+[8] 		Damit zeigen die Kläger keine erhebliche Rechtsfrage auf.
+[9] 		1. Derjenige, der den Schutz von Verbraucherschutzbestimmungen in Anspruch nehmen will, muss behaupten und nachweisen, dass die Voraussetzungen für diesen Schutz gegeben sind (RIS-Justiz RS0065264; vgl 4 Ob 91/21t für die Erben eines Kreditnehmers).
+[10] 		2.1 Nach ständiger Rechtsprechung ist die Verbraucher- bzw Unternehmereigenschaft eines Gesellschafters in wirtschaftlicher Betrachtungsweise zu beurteilen. Eine formelle Geschäftsführerstellung ist für den beherrschenden Einfluss und damit die Qualifikation eines Gesellschafters als Unternehmer nicht erforderlich (RS0121109 [T8]). Dabei kommt es maßgeblich auf die Umstände des Einzelfalls an (RS0121109 [T10]).
+[11] 		2.2  Die Judikatur bejaht die Unternehmenseigenschaft auch bei einem Gesellschafter, der nie Geschäftsführer war und auch nicht über die Mehrheit der Anteile an der Gesellschaft verfügte, jedoch sämtliche wichtige wirtschaftliche Entscheidungen nur unter seiner Einbindung und nach vorangegangener Rücksprache mit ihm getroffen wurden und der nicht nur ein eigenes wirtschaftliches Interesse, sondern auch Kenntnis über die wirtschaftlichen Verhältnisse des Unternehmens hatte (6 Ob 170/14i). Maßgeblich ist, ob die Person angesichts der Interessenidentität zwischen Gesellschafter und Gesellschaft in Wahrheit selbst unternehmerisch tätig wird (6 Ob 95/16p) und dementsprechend einen entscheidenden Einfluss auf die Geschäftsführung des Unternehmens nehmen kann (10 Ob 24/15z).
+[12] 		3. Die von den Vorinstanzen geprüfte Konstellation war davon geprägt, dass die Kredite zur Finanzierung „verschiedenster Unternehmen“ des Kreditnehmers als Einzelunternehmer, zum anderen Teil für eine Reihe von Unternehmen jener („insbesondere“ fünf) Kapitalgesellschaften verwendet wurde, an denen der Kreditnehmer maßgeblich (nämlich zwischen 50 % und 100 %) beteiligt war, dies unter anderem für Immobiliengeschäfte. Der Kreditnehmer absolvierte Besprechungen hinsichtlich dieser Kredite bei der Beklagten. Dabei wurde sowohl über die Verwendung der Kredite für die Gesellschaften als auch für sein Einzelunternehmen verhandelt. Der Kreditnehmer wurde bei der Prüfung durch die OeNB als Unternehmenskunde eingestuft. Die Kredite wurden (im Gegensatz zu Privatkrediten) aufgrund der Verwendung für unternehmerische Zwecke als „Unternehmens- und Firmenkredite“ immer nur auf ein Jahr gewährt.
+[13] 		4.1 Die jedenfalls vertretbare Beurteilung des Berufungsgerichts, der Verstorbene sei nach diesen Feststellungen in die Unternehmensführung eingebunden gewesen, habe die Finanzlage gekannt und habe sich im wirtschaftlichen Interesse, plangemäß und organisiert durch den Einsatz materieller und immaterieller Mittel aus den Tätigkeiten der solcherart von ihm ausgestatteten Gesellschaften eine dauerhafte und auf Gewinn ausgerichtete Erwerbsquelle verschaffen wollen, weshalb die Unternehmenseigenschaft zu bejahen sei, findet in der vorhandenen einschlägigen Rechtsprechung Deckung.
+[14] 		4.2 Damit bedarf auch die Verneinung des § 6 Abs 1 Z 13 KSchG keiner Korrektur durch gegenteilige Sachentscheidung, zumal diese Bestimmung nur für jene Rechtsgeschäfte gilt, an denen ein Verbraucher beteiligt ist (§ 1 Abs 1 Z 2 KSchG).
+[15] 		4.3 Mit der Begründung der Vorinstanzen, das (ebenfalls nur für Rechtsgeschäfte mit Verbrauchern geltende) HlKrG sei aufgrund des Vertragsabschlusses vor dem 21. März 2016 nach § 31 HlKrG gar nicht anzuwenden, setzt sich das Rechtsmittel nicht auseinander. Es ist insoweit nicht dem Gesetz entsprechend ausgeführt (RS0118709 [T4]).
+[16] 		5. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision der Kläger daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133066

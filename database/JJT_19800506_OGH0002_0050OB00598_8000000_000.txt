@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.05.1980
+Geschäftszahl
+5Ob598/80 (5Ob597/80)
+Norm
+ABGB §1346;
+EO §355;
+WG Art30;
+Kopf
+SZ 53/75
+Spruch
+Die Übernahme einer Wechselbürgschaft begrundet nur dann auch eine Haftung nach §§ 1346 ff. ABGB, wenn dies von den Parteien vereinbart wurde
+OGH 6. Mai 1980, 5 Ob 597, 598/80 (OLG Linz 5 R 204, 205/79; KG Wels 6 Cg 247, 248/77)
+Text
+Die Klägerin brachte vor, die beiden eingeklagten Forderungen resultierten aus zwei Darlehen, die H S bei ihr aufgenommen und für die der Beklagte die Haftung als Bürge und Zahler übernommen habe. Die fällig gestellten Forderungen seien beim Hauptschuldner uneinbringlich.
+Das Erstgericht verband die beiden Rechtssachen zur gemeinsamen Verhandlung und Entscheidung und erkannte den Beklagten unter - in Rechtskraft erwachsener - Abweisung des (die zweite Klageforderung betreffenden) Mehrbegehrens von 193 953 S samt Anhang schuldig, der Klägerin 143 716 S sowie 2 241 547 S je samt Anhang zu bezahlen. Es stellte folgenden Sachverhalt fest:
+Die Firma H S, an welcher der Beklagte finanziell beteiligt war und über deren Vermögen am 5. März 1976 der Konkurs eröffnet worden ist, erhielt von der Klägerin am 19. Jänner 1973 ein Darlehen in der Höhe von 350 000 S (Kontonummer 13500-3) und am 21. August 1975 ein Darlehen in der Höhe von 1 500 000 S (Kontonummer 14 356-1) bewilligt. Mit Stichtag 30. Juni 1979 haftet hinsichtlich des Darlehens Kontonummer 13 500-3 eine Kapitalforderung von 143 716 S und hinsichtlich des Darlehens Kontonummer 14356-1 eine solche von 2 435 500 S unberichtigt aus. H S unterfertigte hinsichtlich beider Darlehen eine Wechselverpflichtungserklärung (sowie einen Blankowechsel), aus der sich u. a. ergibt, daß er für alle wie immer gearteten Ansprüche der Klägerin gegen die Firma H S hafte. Der Beklagte gab hinsichtlich beider Darlehen eine Wechselbürgschaftserklärung ab und unterfertigte den (jeweiligen) Blankowechsel als Wechselbürge, wobei eine Einschränkung seiner Haftung nur in der Richtung erfolgte, daß er lediglich für die Forderungen der Klägerin aus den zu den angeführten Kontonummern gewährten Darlehen haften sollte.
+In rechtlicher Hinsicht führte das Erstgericht aus, der Beklagte habe einmal allein und einmal gemeinsam mit H S jun. eine Wechselbürgschaft (und zwar keinesfalls in Form einer Ausfallsbürgschaft) für die von der Firma H S aufgenommenen beiden Darlehen übernommen. Die gemäß § 1355 ABGB vor Inanspruchnahme des Bürgen vorgeschriebene Einmahnung der Schuld beim Hauptschuldner sei wegen des Konkurses der Firma H S hinfällig bzw. als mit negativem Ausgang erfolgt vorauszusetzen.
+Das Berufungsgericht gab der Berufung des Beklagten nicht Folge.
+Der Oberste Gerichtshof gab der Revision des Beklagten Folge und wies das Klagebegehren zur Gänze ab.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der OGH hat, wenn er - wie hier - in der Rechtsfrage angerufen wurde, die materiellrechtliche Richtigkeit der angefochtenen Entscheidung nach allen Richtungen hin zu prüfen (JBl. 1950, 140; RZ 1969, 52; SZ 41/68; Arb. 9230; JBl. 1975, 379 u. v. a.). Geschieht dies, so ergibt sich folgendes:
+Die Klägerin nimmt den Beklagten mit der Behauptung in Anspruch, er habe die Darlehensurkunden als Bürge und Zahler mitunterfertigt. Die Vorinstanzen stellten hingegen fest, daß der Beklagte hinsichtlich beider Darlehen (je) eine (schriftliche) Wechselbürgschaftserklärung abgab und einen Blankowechsel als Wechselbürge unterschrieb. Die beiden Wechselbürgschaftserklärungen haben nachstehenden Wortlaut:
+"Endesgefertigter .... hat zur Sicherstellung aller wie immer
+gearteter Forderungen und Ansprüche, die Ihnen aus dem laut
+Darlehensurkunde vom .... in der Höhe von .... S gewährten Darlehen
+gegenüber .... zustehen, ein Stück Blankowechsel als Wechselbürge
+mitgefertigt und bekennt sich vollinhaltlich zu vorstehender
+Wechselverpflichtungserklärung .... ".
+Die Wechselbürgschaft ist eine Institution des Wechselrechtes und von der bürgerlich-rechtlichen Bürgschaft durchaus verschieden. Auch wenn sie in der Regel wie diese als Sicherungsmittel für eine fremde Verbindlichkeit eingegangen wird, geht sie doch infolge des Formalcharakters der Wechselerklärungen und ihrer gegenseitigen Unabhängigkeit insofern über die bürgerlich-rechtliche Bürgschaft hinaus, als der Wechselbürge selbständig verpflichtet wird, wenn die Verbindlichkeit, für die er sich verbürgt hat, aus einem anderen Grund als wegen eines Formfehlers nichtig ist (Art. 32 Abs. 2 WG; JBl. 1968, 202, 1 Ob 688, 689/77; 3 Ob 656/79 u. a.). Die Bestimmungen des bürgerlichen Rechtes über die Bürgschaft sind auf die Wechselbürgschaft nicht anwendbar (Stanzl, Wechsel-, Scheck- und sonstiges Wertpapierrecht, 74; vgl. ferner Ohmeyer - Klang in Klang[2] VI, 202 und 211; Stranz, WG[14], 194 f.; Baumbach-Hefermehl, WG[12], 242). Im Zweifel ist nicht anzunehmen, daß durch die Unterfertigung eines Wechsels eine Haftung sowohl nach Wechselrecht als auch nach bürgerlichem Recht übernommen werden soll; die Übernahme einer Wechselbürgschaft begrundet vielmehr nur dann auch eine Haftung nach bürgerlichem Recht, wenn dies von den Parteien vereinbart wurde (§ 1353 ABGB; Ohmeyer - Klang a. a. O., 209; Ehrenzweig[2] II/1, 115; SZ 17/146; QuHGZ 1970, Heft 3, Nr. 71; 3 Ob 660/77; 4 Ob 579; 3 Ob 656/79 u. a.).
+Da aus den dargelegten Erwägungen durch die bloße Unterfertigung der Wechselverpflichtungserklärungen und Blankowechsel selbständige, von den eingegangenen Wechselbürgschaften unabhängige bürgerlichrechtliche Bürgschaftsverträge zwischen den Streitteilen nicht zustande gekommen sind und die Klägerin den Beklagten aus den Wechselverbindlichkeiten nicht in Anspruch nimmt - die im Akt erliegenden Blankowechsel wurden von der Klägerin gar nicht ausgefüllt -, fehlt den beiden Klageansprüchen die rechtliche Grundlage.

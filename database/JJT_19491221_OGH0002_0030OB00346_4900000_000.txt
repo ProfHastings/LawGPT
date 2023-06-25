@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.1949
+Geschäftszahl
+3Ob346/49
+Norm
+ZPO §411;
+ZPO §416;
+ZPO §529;
+ZPO §534;
+ZPO §562;
+ZPO §564;
+Kopf
+SZ 22/209
+Spruch
+Ein aus der Aktenlage erkennbarer Zustellungsmangel hindert die Rechtskraft der ergangenen Entscheidung. Die Zustellung einer Aufkündigung an eine nicht bevollmächtigte Person zieht, wenn diese die Einwendungsfrist fruchtlos verstreichen läßt, dennoch nicht die Rechtskraft des Aufkündigungsbeschlusses nach sich.
+Entscheidung vom 21. Dezember 1949, 3 Ob 346/49.
+I. Instanz: Bezirksgericht Döbling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Kläger hat in seiner auf § 529 Z. 2 ZPO. gestützten Klage das Begehren gestellt, den Kündigungsbeschluß des Bezirksgerichtes Döbling vom 14. Februar 1939 sowie das Verfahren als nichtig aufzuheben, da die Aufkündigung weder ihm noch einem von ihm bevollmächtigten Vertreter noch einem für ihn aufgestellten Kurator zugestellt worden, der Rechtsanwalt Dr. E., dem die Aufkündigung zugestellt wurde, nicht von ihm bevollmächtigt gewesen sei.
+Der Kündigungsakt ist bereits vernichtet, so daß aktenmäßige Feststellungen nicht getroffen werden konnten.
+Das Erstgericht hat nach Durchführung des Beweisverfahrens festgestellt, daß der Kläger dem Dr. E. Vollmacht erteilt hatte, die ihn zur Empfangnahme der Kündigung berechtigte, sonach die Klagebehauptungen nicht als zutreffend angenommen.
+Das Berufungsgericht hat jedoch nach Wiederholung der Beweisaufnahme in Abänderung des Urteiles der ersten Instanz, dem Klagebegehren stattgegeben, indem es annahm, daß Dr. E. vom Kläger nicht zur Empfangnahme der Aufkündigung bevollmächtigt war. Das Berufungsgericht führte in seiner Entscheidung aus, es sei die Frist zur Einbringung der Nichtigkeitsklage nach § 534 ZPO. noch nicht abgelaufen, da die Aufkündigung dem Kläger nicht zugestellt worden sei. Trotzdem müsse angenommen werden, daß die formelle Rechtskraft der Aufkündigung dadurch eingetreten ist, daß Dr. E., dem sie zugestellt worden ist, die Einwendungsfrist ungenützt verstreichen ließ. Der Eintritt der formellen Rechtskraft ergebe sich auch daraus, daß ein Streitverfahren nicht eingeleitet worden ist, wie dies im Falle der Einbringung von Einwendungen der Fall gewesen wäre. Obwohl die Aufkündigung selbst in Verlust geraten sei, ergebe sich aus der Vermutung eines geordneten Geschäftsganges und dem Verhalten der beklagten Partei, daß tatsächlich Einwendungen nicht erfolgten.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei Folge und stellte das Urteil des Prozeßgerichtes wieder her.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+Gemäß § 529 ZPO. kann nur eine rechtskräftige Entscheidung mit Nichtigkeitsklage angefochten werden. Rechtskräftig konnte aber der die Aufkündigung bewilligende Beschluß nur werden, wenn seine Zustellung an eine der Aktenlage nach zur Empfangnahme berechtigte Person gesetzmäßig erfolgte und diese keine Einwendungen erhob. Den Gedankengängen des Berufungsgerichtes, das einerseits aus der Tatsache des Mangels der Zustellung des Aufkündigungsbeschlusses an den Kläger die Rechtzeitigkeit der Einbringung der Nichtigkeitsklage ableitet, anderseits, trotzdem die Aufkündigung an eine zur Empfangnahme nicht bevollmächtigte Person zugestellt wurde, die Rechtskraft der Aufkündigung annimmt, weil Einwendungen gegen sie nicht erhoben worden sind, kann nicht gefolgt werden. Der Aktenlage nach war von Anfang an für das Gericht erkennbar, daß die Person, an die die Zustellung erfolgen sollte, nicht mit Vollmacht ausgewiesen war. Wenn dennoch die Zustellung an diese Person verfügt und durchgeführt wurde, dann lag ein offenkundiger Zustellungsmangel vor, der jederzeit von Amts wegen zu beheben war und die Erteilung einer Rechtskraftbestätigung ausschloß. Wenn der vom Kläger in der Klage behauptete Sachverhalt der Entscheidung zugrunde gelegt wird, dann kann keine Rede davon sein, daß die Kündigung rechtskräftig geworden ist.
+Aus diesem Gründe wäre das Klagebegehren mangels Schlüssigkeit der Klagsbehauptungen ohne Beweisaufnahme abzuweisen gewesen. Soweit das angefochtene Urteil Rechtsausführungen enthält, entbehren diese der Folgerichtigkeit. Die formelle Rechtskraft des Aufkündigungsbeschlusses kann der Sachlage nach nicht eingetreten sein, da der Zustellungsmangel ohne weiteres und offen erkennbar war. Dieser aus der Aktenlage ersichtliche Mangel verhinderte, daß der Beschluß vor der Behebung des Mangels rechtswirksam und rechtskräftig wurde.

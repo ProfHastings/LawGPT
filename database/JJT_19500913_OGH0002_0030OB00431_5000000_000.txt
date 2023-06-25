@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.09.1950
+Geschäftszahl
+3Ob431/50
+Norm
+Kriegsopferversorgungsgesetz §18;
+Kriegsopferversorgungsgesetz §55;
+Kriegsopferversorgungsgesetz §113;
+Lohnpfändungsverordnung §3;
+Lohnpfändungsverordnung §4;
+Lohnpfändungsverordnung §6;
+Kopf
+SZ 23/253
+Spruch
+Über die Pfändbarkeit einer nach § 18 KOVG. gewährten Pflegezulage.
+Entscheidung vom 13. September 1950, 3 Ob 431/50.
+I. Instanz: Bezirksgericht Mattersburg; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht bewilligte der betreibenden Partei die Exekution durch Pfändung der der verpflichteten Partei zustehenden Rente als Kriegsbeschädigter, wobei festgesetzt wurde, daß dem Verpflichteten ein monatlicher Betrag von 480 S rein zu verbleiben habe.
+Das Rekursgericht änderte den erstrichterlichen Beschluß dahin ab, daß es die Pflegezulage des Verpflichteten in der Höhe von 285 S (an Stelle eines Betrages von 40 S für die Pflegeperson) für unpfändbar erklärte, weil es unbillig sei, einerseits eine Pflegezulage zu bewilligen, die einem an beiden Beinen Amputierten durch das Gesetz gewährt wurde, um ihm über die durch seine Körperbehinderung bedingte Hilflosigkeit durch eine Pflegeperson hinwegzuhelfen, anderseits durch ein anderes Gesetz wieder wegpfänden zu können und dadurch den Invaliden wieder in den Zustand der Hilflosigkeit zurückzuversetzen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs der betreibenden Partei strebt die Wiederherstellung des erstrichterlichen Beschlusses an und bemängelt, daß das Rekursgericht den im § 4 Abs. 2 LohnpfändungsV. enthaltenen Billigkeitsgrundsatz in Verbindung mit dem allerdings außer Kraft gesetzten § 84 des Wehrmachtsfürsorgegesetzes vom 26. August 1938 angewendet hat.
+Der Revisionsrekurs ist nicht begrundet.
+Der rekursgerichtlichen Entscheidung kann, soweit sie sich auf § 4 Abs. 2 der LohnpfändungsV. und § 84 Wehrmachtsfürsorge- und - versorgungsG. zu stützen versucht, allerdings nicht gefolgt werden, weil § 84 des Wehrmachtsfürsorgegesetzes vom 26. August 1938, DRGBl.
+I S. I077, durch § 113 Abs. 2 Z. 5 KOVG. außer Kraft gesetzt worden ist und § 55 Abs. 1 KOVG. nur die §§ 4 Abs. 1 und 6, nicht aber den § 4 Abs. 2 der LohnpfändungsV. erwähnt.
+Nach § 55 Abs. 1 KOVG. ist eine Pfändung der nach diesem Bundesgesetze gebührenden Leistungen nach den Vorschriften der §§ 4 Abs. 1 und 6 LohnpfändungsV. zulässig. § 4 LohnpfändungsV. bestimmt, daß Renten, die wegen Verletzung des Körpers oder der Gesundheit zu entrichten sind, unpfändbar sind.
+§ 6 der LohnpfändungsV. regelt zwar die Pfändung von Arbeitseinkommen wegen Unterhaltsansprüchen, die Verwandten, Ehegatten, früheren Ehegatten oder ehelichen Kindern kraft Gesetzes zustehen, doch kann der Hinweis auf diese gesetzliche Bestimmung im KOVG. nur bedeuten, daß damit die Pfändbarkeit von Kriegsbeschädigtenrenten für Unterhaltsansprüche normiert wird. Aus der Regierungsvorlage zum KOVG., Beilage 903 zu den stenographischen Protokollen des Nationalrates (V. G. P.), geht auch hervor, daß die Vorschriften über die Pfändung von Versorgungsgebührnissen den geltenden Bestimmungen über die Pfändung von Löhnen entsprechen sollen. Demnach sind solche Renten für Unterhaltsansprüche pfändbar, jedoch muß dem Schuldner soviel belassen werden, als er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden Unterhaltspflichten bedarf. Was nun die dem Verpflichteten zustehende Pflegezulage anlangt, so wird diese gemäß § 18 KOVG. gewährt, wenn der Beschädigte infolge der Dienstbeschädigung so hilfslos ist, daß er für die lebenswichtigen Verrichtungen der Hilfe einer anderen Person bedarf. Es ist deshalb klar, daß bei Berechnung des Betrages, der dem Schuldner für seinen notwendigen Unterhalt frei bleiben muß, darauf Rücksicht zu nehmen ist, daß die Pflegezulage zur Bezahlung einer Hilfsperson dient, deren der Verpflichtete unbedingt bedarf.
+Da im § 6 LohnpfändungsV. von den in § 3 der Verordnung genannten Bezügen die unter Nr. 7 angeführten (Verstümmelungs- und Verwundetenzulagen und ähnliche Bezüge), nicht erwähnt werden, ist hieraus der Schluß zu ziehen, daß auch die Pflegezulage nach § 18 KOVG. selbst wegen der im § 6 LohnpfändungsV. aufgezählten Unterhaltsansprüche unpfändbar ist.
+Dem Rekursgericht ist daher zuzustimmen, wenn es bei der Berechnung jenes Betrages, der dem Schuldner für seinen notwendigen Unterhalt freibleiben muß, nebst einem Betrag von 400 S für seine Person und 40 S für sein eheliches Kind die Pflegezulage in der Höhe von 285 S berücksichtigt hat. Die Pflegezulage für einen Schwerbeschädigten der Stufe IV (Verlust beider Hände oder Beine) beträgt nämlich gemäß § 18 Abs. 2 KOVG. 285 S monatlich.

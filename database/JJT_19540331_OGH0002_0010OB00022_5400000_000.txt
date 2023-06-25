@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.03.1954
+Geschäftszahl
+1Ob22/54
+Norm
+ABGB §1090;
+ABGB §1098;
+Mietengesetz §1;
+ZPO §560;
+Kopf
+SZ 27/82
+Spruch
+Ein Bestandvertrag über eine Wandfläche liegt auch dann vor, wenn ein Schaukasten nicht direkt an dieser Fläche angebracht ist, sondern in geringem Abstande davor selbständig aufgestellt ist und dem Hausbesitzer dafür ein Zins gezahlt wird.
+Entscheidung vom 31. März 1954, 1 Ob 22/54.
+I. Instanz: Bezirksgericht Linz; II. Instanz: Landesgericht Linz.
+Text
+Die Kläger kundigten dem Beklagten die an der Front des Hauses neben der Haustüre befindliche vertikale Wandfläche, an der der Beklagte einen Schaukasten angebracht hat und die ihm gegen Bezahlung eines jährlichen Mietzinses überlassen worden ist, auf. Die Kläger stützen ihre Kündigung darauf, daß es sich um ein mieterschutzfreies Bestandverhältnis handle; für den Fall aber, daß die Bestimmungen des Mieterschutzes anzuwenden seien, wird die Kündigung auf § 19 Abs. 1 und § 19 Abs. 2 Z. 6 MietG. gegrundet.
+Das Erstgericht hat die Kündigung aufgehoben. Es hat auf Grund eines Lokalaugenscheines als erwiesen angenommen, daß der Schaukasten vor der Hausfront derart aufgestellt ist, "daß er mit dem Hause in keinerlei physische Berührung kommt und daß der Schaukasten mit seiner ganzen Grundfläche auf dem Gehsteige, der öffentliches Gut ist, steht".
+Das Berufungsgericht gab der Berufung der Kläger Folge und hielt die Kündigung aufrecht. Es ging davon aus, daß die Miete einer Wandfläche für geschäftliche Reklame keine Miete von Geschäftsräumlichkeiten im Sinne des § 1 Abs. 1 MietG. sei, weshalb das Bestandverhältnis auch nicht den Kündigungsbeschränkungen des Mietengesetzes unterliege. Es war der Ansicht, daß das Erstgericht es zu Unrecht unberücksichtigt gelassen habe, daß aus dem Prozeßverfahren hervorgehe, daß ein Lichtanschluß vom Schaukasten zur Wand des Hauses führt, und daß mit diesem Anschluß doch die physische Berührung mit dem Hause hergestellt sei. Im übrigen sei es einerlei, ob der Gebrauch der Wandfläche durch Anbringen des Schaukastens an der Wand oder durch Aufstellen vor der Wand gemacht werde, "weil in beiden Fällen der Gebrauchswert der Wand für die Kläger konsumiert sei".
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Revisionsgrund der Z. 4 des § 503 ZPO. wird vom Revisionswerber darin erblickt, daß im Sinne des § 1090 ABGB. Gegenstand des Verfahrens auch die Vermietung von Wandflächen zur "Anbringung" von Ankündigungen sein kann (Klang, Kommentar, 2. Aufl., zu § 1090, S. 10). Da aber im gegenständlichen Fall der Schaukasten nicht an der Wand angebracht sei, habe das Berufungsgericht eine extensive Auslegung der Gesetzesstelle vorgenommen. Außerdem habe sich aber das Berufungsgericht zu Unrecht auf die Bestimmung des § 362 ABGB. berufen (negative Seite des Eigentums), wonach es gleichgültig sein solle, ob der unselbständige Teil der Sache direkt oder die Luft vor dieser Sache gebraucht werde. Von diesen Ausführungen des Revisionswerbers ist nur so viel richtig, daß es im konkreten Falle nicht der Erörterung der Ausschlußrechte des Eigentümers bedarf und daß das Berufungsgericht die Frage unerörtert gelassen hat, ob ein Recht der Kläger auf den über die Hausfront des eigenen Hauses hinausgehenden Luftraum besteht.
+Der Oberste Gerichtshof sieht gleich dem Berufungsgericht als entscheidend an, daß die Kläger durch ihre Zustimmung zur Aufstellung des Schaukastens auf das ihnen zustehende Recht, die Wandfläche für ihre Zwecke zu gebrauchen, verzichtet und somit den Gebrauch der Wandfläche dem Beklagten überlassen haben. Das Berufungsgericht ist daher im Rechte, wenn es keinen Unterschied gemacht hat, ob der Schaukasten an der Wand angebracht oder vor der Wand aufgestellt ist. Der Revisionswerber ist im Unrecht, wenn er aus dem im zitierten Kommentar gebrauchten Worte "Anbringung" lediglich auf den Begriff "festmachen" schließt. Für die Kläger ist die Wandfläche ihres Hauses so lange nicht nutzbar, als sie durch den Schaukasten des Klägers verstellt ist. Es erübrigt sich daher, festzustellen, wie die Lichtleitung verlaufe und welche Bedeutung es habe, daß der Schaukasten früher direkt an die Hauswand angestellt war und später, wie außer Streit gestellt wurde, um 10 cm in den Gehsteig, der unbestrittenermaßen öffentliches Gut ist, vorgerückt wurde. Daß die Einräumung des Benützungsrechtes für immer oder für eine bestimmte Zeit erfolgt ist, wurde nicht behauptet. Es war daher die Aufkündigung zulässig.
+In rechtlicher Beziehung ist noch zu ergänzen, daß eine Mauerfläche zur Anbringung von Reklamvitrinen in Bestand gegeben werden kann, ohne daß es sich hiebei um einen Geschäftsraum im Sinne des Mietengesetzes handelt (SZ. X/130, MietSlg. 10.156 bis 10.161). Übrigens ist es bei Bestand eines Mietvertrages bedeutungslos, ob der Mieter den Mietgegenstand tatsächlich benützt oder nicht.

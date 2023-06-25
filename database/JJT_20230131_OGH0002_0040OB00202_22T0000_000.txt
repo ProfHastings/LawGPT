@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.01.2023
+Geschäftszahl
+4Ob202/22t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek, die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M. und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei I*, vertreten durch Mag. Gerald Vogler, Rechtsanwalt in Mattersburg, gegen die beklagte Partei Einlagensicherung AUSTRIA Ges.m.b.H., Wipplingerstraße 34/4/DG4, 1010 Wien, vertreten durch die Schmidt Pirker Podoschek Rechtsanwälte OG in Wien, und die Nebenintervenientin auf Seiten der beklagten Partei K* Rechtsanwälte GmbH, *, als Masseverwalterin im Konkursverfahren über das Vermögen der C*bank * Aktiengesellschaft, wegen 73.655,53 EUR sA, über die Revisionen der beklagten Partei und ihrer Nebenintervenientin gegen das Urteil des Oberlandesgerichts Wien vom 26. Juli 2022, GZ 4 R 14/22s-18, mit dem das Urteil des Handelsgerichts Wien vom 18. November 2021, GZ 58 Cg 54/21f-11, geändert wurde, in nichtöffentlicher Sitzung, den
+Beschluss
+gefasst:
+Spruch
+Die Revisionen werden zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 2.528,21 EUR (darin enthalten 421,37 EUR an Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Beklagte ist die mit dem Einlagensicherungs- und Anlegerentschädigungsgesetz (ESAEG) geschaffene Einrichtung zur Sicherung von Einlagen bei Kreditinstituten.
+[2] 		Der Kläger war Kunde eines Kreditinstituts, über dessen Vermögen das Insolvenzverfahren eröffnet wurde. Die Nebenintervenientin ist die Masseverwalterin des Kreditinstituts.
+[3] 		Der Kläger erhielt weniger als zwölf Monate vor Eintritt des Sicherungsfalls eine Firmenpension auf sein Girokonto beim Kreditinstitut überwiesen. Da er bereits Opfer eines Kreditkartenbetrugs geworden war, wollte er den Betrag nicht auf dem Girokonto belassen, sondern eröffnete dafür ein Sparbuch beim selben Kreditinstitut, auf das er den Großteil davon einzahlte.
+[4] 		Die Beklagte zahlte dem Kläger wegen Eintritts des Sicherungsfalls 100.000 EUR.
+[5] 		Der Kläger begehrte weitere 73.655,53 EUR als Erstattungsbetrag für gemäß § 12 ESAEG privilegierte Einlagen.
+[6] 		Die Beklagte und ihre Nebenintervenientin wendeten ein, dass der Kläger durch die Eröffnung des Sparbuchs eine bewusste Veranlagungsentscheidung getroffen habe, sodass der Schutzzweck des § 12 ESAEG weggefallen und die Privilegierung nicht mehr anwendbar sei.
+[7] 		Die Vorinstanzen sprachen den Klagsbetrag zu. Das Berufungsgericht erklärte die ordentliche Revision mit der Begründung für zulässig, dass der Oberste Gerichtshof zur Erstattung von gemäß § 12 ESAEG zeitlich begrenzt gedeckten Einlagen noch nicht Stellung genommen habe.
+Rechtliche Beurteilung
+[8] 		Die Revisionen der Beklagten und der Nebenintervenientin sind ungeachtet des – den Obersten Gerichtshof nicht bindenden – Ausspruchs des Berufungsgerichts nicht zulässig.
+[9] 		1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn sie vor der Erledigung des Rechtsmittels bereits durch eine andere Entscheidung des Obersten Gerichtshofs geklärt wurde (RS0112921 [T5]).
+[10] 		2. Nach Fassung der Berufungsentscheidung hatten der 1. und der 6. Senat des Obersten Gerichtshofs über gleichgelagerte Sachverhalte (Überweisung einer privilegierten Einlage auf ein anderes Konto bei derselben Bank) zu entscheiden (1 Ob 241/21d, 6 Ob 58/22f).
+[11] 		Sie kamen übereinstimmend zu dem Ergebnis, dass Überweisungen zwischen mehreren Konten eines Bankkunden beim selben Kreditinstitut nicht dazu führen, dass unter § 12 ESAEG fallende Einlagen nicht mehr von der Entschädigungspflicht erfasst wären. Vielmehr sind solche Einlagen weiterhin privilegiert, soweit sie bei einer Gesamtbetrachtung noch auf den Konten vorhanden sind (RS0134141). Dies gilt unabhängig davon, ob es sich dabei um Giro-, Festgeld- oder Sparkonten handelt (1 Ob 241/21d Rz 29; 6 Ob 58/22f [Pkt 2.3.2]).
+[12] 		3. Der erkennende Senat schließt sich diesen Ausführungen an.
+[13] 		Dass der Kläger das Sparkonto erst nach Erhalt der Pensionszahlung eröffnete, hat in diesem Zusammenhang keine Relevanz. Die mit der Richtlinie harmonisierten Obergrenzen der Einlagensicherung gelten grundsätzlich pro Einleger und nicht pro Einlage (1 Ob 241/21d Rz 27). Der Kunde eines Kreditinstituts kann sich daher durch die Eröffnung neuer Konten keinen erhöhten Schutz verschaffen. Umgekehrt reduziert aber die Umverteilung seiner Guthaben auf Konten beim selben Kreditinstitut – mögen diese auch neu eröffnet werden – die Einlagensicherung auch nicht.
+[14] 		4. Die Kostenentscheidung beruht auf § 41 Abs 1, § 50 Abs 1 ZPO. Dem Kläger konnten die erst später ergangenen Entscheidungen des Obersten Gerichtshofs nicht bekannt sein, sodass ihm ein Kostenersatzanspruch zusteht, auch wenn er die Unzulässigkeit der Revision anders begründete (vgl RS0112921 [T6]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00202.22T.0131.000

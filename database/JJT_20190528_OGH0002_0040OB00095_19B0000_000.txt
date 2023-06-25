@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.05.2019
+Geschäftszahl
+4Ob95/19b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei V***** Aktiengesellschaft, *****, vertreten durch DDr. Wolfgang Doppelbauer, Rechtsanwalt in Wels, gegen die beklagte Partei Dr. F*****, vertreten durch Waitz Rechtsanwälte GmbH in Linz, wegen 26.561,67 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 15. April 2019, GZ 4 R 135/18b-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Beklagte hat im Jahr 2005 bei der Klägerin einen zum 30. 9. 2017 endfälligen Kredit über 204.710 EUR aufgenommen; die Rückzahlung sollte in Schweizer Franken erfolgen. Zwischen September 2011 und Jänner 2015 wurde der Wechselkurs des Schweizer Franken von der Schweizerischen Nationalbank mit 1,20 EUR gestützt; am 15. 1. 2015 gab die Schweizerische Nationalbank diese Kursstützung auf. Der Beklagte hat seinen Fremdwährungskredit am 21. 7. 2017 zu einem Wechselkurs von 1,10 EUR konvertiert. Zum 12. 1. 2018 haftete der konvertierte Kredit unter Berücksichtigung von Zinsen und Spesen mit 26.561,67 EUR unberichtigt aus. Zwischen den Parteien wurde ein (zu kapitalisierender) Zinssatz von 4,5 % pA (0,5 % Sollzinsen und 4 % Verzugszinsen) vereinbart.
+Mit ihrer Klage vom 17. 1. 2018 begehrte die Klägerin die Zahlung des offenen Kreditsaldos zum 12. 1. 2018. Der Beklagte habe den konvertierten Kredit zum Endfälligkeitstermin am 30. 9. 2017 nicht zur Gänze zurückgezahlt. Als Kreditzinsen seien aufgrund einer Zinsgleitklausel gegenwärtig 0,5 % pA sowie Verzugszinsen von 4 % pA  jeweils mit vierteljährlicher Kapitalisierung zum Quartal vereinbart. Den Saldo habe der Beklagte weder dem Grunde noch der Höhe nach bestritten. Die von ihm eingewendete Gegenforderung aufgrund eines angeblichen Beratungsfehlers sei nicht berechtigt.
+Der Beklagte entgegnete, dass ihm aus der Fehlberatung der Klägerin eine Gegenforderung von 26.515 EUR zustehe. Die Beklagte habe ihn über die spezifischen Risiken im Zusammenhang mit der Kursstützung des Franken durch die Schweizerische Nationalbank nicht aufgeklärt. Auch sei die Klage unschlüssig, „weil sich die Klagssumme nicht aus dem Klagebegehren ableiten“ lasse.
+Die Vorinstanzen gaben dem Klagebegehren statt. Aufgrund der wiederholten Belehrungen und Hinweise der Klägerin auch im Zusammenhang mit der in Rede stehenden Kursstützung bestehe kein haftungsbegründendes Fehlverhalten der Klägerin, weshalb die eingewendete Gegenforderung nicht zu Recht bestehe. Der Einwand des Beklagten zur angeblichen Unschlüssigkeit der Klage sei nicht berechtigt. Die vom Beklagten monierten wesentlichen Salden- und Kontobewegungen ließen sich den von der Klägerin vorgelegten Urkunden entnehmen, auf die die Klägerin in ihrem Vorbringen mit hinreichender Deutlichkeit hingewiesen habe.
+Rechtliche Beurteilung
+Mit seiner außerordentlichen Revision, die sich nur mehr auf die Frage der Schlüssigkeit des Klagebegehrens bezieht, zeigt der Beklagte keine erhebliche Rechtsfrage auf:
+1. Ein Klagebegehren ist rechtlich schlüssig, wenn das Sachbegehren des Klägers materiell-rechtlich aus den zu seiner Begründung vorgetragenen Tatsachenbehauptungen abgeleitet werden kann (RIS-Justiz RS0037516). Den klagenden Kreditgeber trifft die Behauptungs- und Beweislast für die Höhe des gewährten Kreditbetrags, den Ablauf des Rückzahlungstermins und den geltend gemachten Saldo (vgl RS0019319; RS0037955 [T4]). Die Schlüssigkeit einer Klage ist anhand der konkreten Behauptungen im Einzelfall zu prüfen (RS0037780). Das Gleiche gilt für die Frage, ob das Prozessvorbringen einer Partei so weit spezifiziert ist, dass es als Anspruchsgrundlage hinreicht (RS0042828). Ob eine Klage ausgehend vom Klagebegehren und unter Zugrundelegung des klägerischen Vorbringens schlüssig ist, begründet daher in der Regel keine erhebliche Rechtsfrage (RS0037780).
+2. Das Erstgericht hat festgehalten, dass der Beklagte den Saldo zum 15. 9. 2017 (50.597,20 EUR) nicht in Zweifel gezogen hat. Der von der Klägerin genannte Saldo zum 7. 8. 2017 von 50.485,50 EUR ist damit nachvollziehbar. Das Gleiche gilt für die von der Klägerin vorgetragene Entwicklung des Saldos letztlich bis zum Klagsbetrag von 26.561,67 EUR zum 12. 1. 2018. Dazu hat das Erstgericht ausdrücklich festgestellt, dass der konvertierte Frankenkredit des Beklagten zum 12. 1. 2018 (unter Berücksichtigung von Zinsen und Spesen) noch mit 26.561,67 EUR unberichtigt aushaftet.
+Wenn die Vorinstanzen unter diesen Voraussetzungen von der Schlüssigkeit des Klagebegehrens ausgehen, weichen sie damit nicht von der Rechtsprechung ab.
+3. Zu den Ausführungen in der außerordentlichen Revision ist noch darauf hinzuweisen, dass die Klägerin in ihrem Vorbringen auch den ursprünglich gewährten Kreditbetrag, das Datum der Konvertierung und die Höhe des Wechselkurses bei der Konvertierung, das Datum der Endfälligkeit und die Höhe des vereinbarten Zinssatzes dargelegt hat, was vom Erstgericht auch festgestellt wurde.
+4. Mangels erheblicher Rechtsfrage war die außerordentliche Revision des Beklagten zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00095.19B.0528.000

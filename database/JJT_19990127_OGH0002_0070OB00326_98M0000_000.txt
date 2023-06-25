@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.1999
+Geschäftszahl
+7Ob326/98m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Kropfitsch als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr. Schalich, Dr. Tittel, Dr. Huber und Hon-Prof. Dr. Danzl als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, Wien 6., Linke Wienzeile 18, vertreten durch Dr. Heinz Kosesnik-Wehrle, Rechtsanwalt in Wien, wider die beklagte Partei E*****gesellschaft mbH, ***** vertreten durch Dr. Harald Schmidt, Rechtsanwalt in Wien, wegen Unterlassung nach dem KSchG (Streitwert S 300.000,--) und Urteilsveröffentlichung (Streitwert S 51.000,--) infolge außerordentlicher Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 17. September 1998, GZ 5 R 17/98a-10, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision der beklagten Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 28 Abs 1 KSchG kann der, der im geschäftlichen Verkehr in Allgemeinen Geschäftsbedingungen, die er von ihm geschlossenen Verträgen zugrundelegt, oder in hiebei verwendeten Formblättern für Verträge Bedingungen vorsieht, die gegen ein gesetzliches Verbot oder gegen die guten Sitten verstoßen, von den dort genannten juristischen Personen, darunter auch der klagenden Partei, auf Unterlassung geklagt werden. Das Verbot schließt auch das Verbot ein, sich auf solche Bedingungen zu berufen, die bereits unzulässigerweise vereinbart worden sind. Gemäß Abs 2 leg cit besteht die Gefahr einer Verwendung und Empfehlung derartiger Bedingungen nicht mehr, wenn der Unternehmer nach Abmahnung durch eine gemäß § 29 KSchG klageberechtigte Einrichtung binnen angemessener Frist eine mit angemessener Konventionalstrafe (§ 1336 ABGB) besicherte Unterlassungserklärung abgibt.
+Abs 2 leg cit ist seit 1. 1. 1997 in Kraft (BGBl I 1997/6) und daher auf das vorliegende Verfahren anzuwenden.
+Voranzustellen wäre, daß die strittige Klausel es der beklagten Partei unter Zugrundelegung einer kundenfeindlichsten Auslegung ermöglicht, ohne Belehrung des Kunden über ein ihm zustehendes Untersagungsrecht und ohne ausdrücklich erteilte Zustimmung des Kunden hiezu Kundendaten "in alle Welt" an jedwede andere Person ohne zeitliche Beschränkung zu übermitteln (zu verkaufen). Ein derartiges Blankett ist nach dem Sinn des Konsumentenschutzgesetzes unerlaubt, wie dies in der am 27. 1. 1999 beschlossenen Entscheidung des Obersten Gerichtshofes 7 Ob 170/98w, in der bei einem ähnlich gelagerten Fall ausgesprochen wird, daß derartige Klauseln unzulässig und gesetzwidrig sind, zum Ausdruck gebracht wurde.
+Soweit sich die Revisionswerberin gegen die Rechtsansicht des
+Berufungsgerichtes, die strittige Klausel entspreche nicht § 18 Abs 1
+DSG, wendet, weil der Kunde nicht ausdrücklich über seine Zustimmung
+hiezu aufmerksam gemacht und nicht über das ihm zustehende
+Untersagungsrecht belehrt wurde, ist sie ebenfalls auf die Begründung
+zu der zu 7 Ob 170/98w ergangenen Entscheidung zu verweisen. Im
+Gegensatz zu den Revisionsausführungen besteht sehr wohl eine
+Rechtsprechung des Obersten Gerichtshofes zur kundenfeindlichsten
+Auslegung von Allgemeinen Geschäftsbedingungen (vgl 2 Ob 523/94 =
+ecolex 1994, 537 = WBl 1994, 344 = RdW 1994, 346 = ARD 4668/22/95 =
+Kres 1h/8 = HS 25414, 25477, 25740, 25742 und 25754).
+Auch der von der Revisionswerberin herangezogenen Lehrmeinung Duschaneks (DSG 1978 § 18 Anm 5) ist zu entnehmen, daß eine unauffällig im vorgedruckten Text vorhandene Zustimmungserklärung des Kunden nicht dem Gesetz entspricht. In einer Neuauflage (Datenschutzrecht im Unternehmen, Herausgeber: Heinz Wittmann, 87 f) vertritt dieser Autor die Auffassung, daß, was unter einer "ausdrücklichen" Zustimmung zu verstehen sei, nicht klar sei; bei Anlegung einer Durchschnittsbetrachtung dürfe jedenfalls an der Tatsache über den Inhalt der Willenserklärung des Betroffenen kein Zweifel bestehen. Dieser Autor stellt die von der Datenschutzkommission (B. v. 3. 12. 1981, Zl Zf VB Dat 1982/1/6 und B. v. 7. 6. 1984, Zl 176.323 = Zf VB Dat 1986/5-6/6) vertretene Auffassung, daß die Zustimmungserklärung die zu übermittelnden Datenarten, die Empfänger und den Übermittlungszweck abschließend bezeichnen müsse, in Zweifel ohne eine vollnachziehbare Gegenlösung anbieten zu können. Er meint nur, entscheidend sei, ob der Betroffene mit einer derartigen Zustimmungserklärung im "Kleingedruckten" rechnen mußte. Dohr/Pollirer/Weiss vertreten hingegen die Auffassung der Datenschutzkommission (vgl DSG 98 ff), der sich auch der erkennende Senat anschließt.
+Wie dem auch immer sei, die von der beklagten Partei verwendete Formulierung entsprach allein schon deswegen keinesfalls § 18 Abs 6 DSG, weil der Hinweis auf ein Widerrufsrecht des Betroffenen imSinne des § 268 Abs 6 GewO fehlt.
+Bejaht man im Sinne der Entscheidung 7 Ob 170/98w die Gesetzwidrigkeit der inkriminierten "Zustimmungsklausel", so hat sich die Beklagte im Rahmen des vom klagenden Verein angestrengten Abmahnungsverfahrens nicht den von diesem berechtigt erhobenen Forderungen dem Gesetz entsprechend unterworfen; insbesondere fällt ihr die ausdrückliche und endgültige Weigerung jeglicher Besicherung des Unterlassungsanspruches des klagenden Vereines in ihrem Schreiben vom 27. 6. 1997 zur Last. Die Frage, ob das Anbot eines Unterlassungstitels in Form eines prätorischen Vergleiches das Konventionalstrafebegehren des klagenden Vereines hinfällig macht (vgl Kosesnik-Wehrle/Lehofer/Mayer, KSchG § 28 Rz 54), stellt sich daher im vorliegenden Fall gar nicht mehr. Mit der Ablehnung des Anbotes im Rahmen des Abmahnungsverfahrens war der klagende Verein daher berechtigt, ein dem § 28 KSchG entsprechendes Klagebegehren zu erheben, er war an sein ursprüngliches Anbot nicht mehr gebunden. Allein die Bestreitung des Klagebegehrens durch die beklagte Partei indiziert die Wiederholungsgefahr und läßt sich daraus auch die Berechtigung des Veröffentlichungsbegehrens ableiten; wäre sie tatsächlich erfüllungsbereit gewesen, hätte sie unter Berufung auf § 45 ZPO den Klagsanspruch anerkennen können. Im übrigen ließ sie es aber unbestritten, daß ihr Fax vom 7. 7. 1997 erst nach Büroschluß bei der klagenden Partei einlangte, und daß daher dessen Zurkenntnisnahme erst auf den 8. 7. 1997, sohin nach Ablauf der vom klagenden Verein gesetzten Frist, zu datieren ist.

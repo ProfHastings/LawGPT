@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.01.2016
+Geschäftszahl
+3Ob250/15h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in den verbundenen Rechtssachen der klagenden und widerbeklagten Partei Dr. M*****, vertreten durch Dr. Engelbert Reis, Rechtsanwalt in Horn, gegen die beklagte und widerklagende Partei Dr. O*****, vertreten durch pfletschinger.renzl Rechtsanwalts-Partnerschaft (OG) in Wien, wegen 1.) 5.000 EUR sA und 2.) 10.033,72 EUR sA, über die „außerordentliche“ Revision der klagenden und widerbeklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 7. Oktober 2015, GZ 38 R 129/15z-43, womit das Urteil des Bezirksgerichts Josefstadt vom 11. März 2015, GZ 10 C 604/12y, 683/12s-37, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision im Verfahren 10 C 604/12y des Erstgerichts wird zurückgewiesen.
+Soweit sich die Revision auf das Verfahren 10 C 683/12s des Erstgerichts bezieht, wird der Akt dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Das Erstgericht wies das Klagebegehren auf Zahlung von 5.000 EUR sA (10 C 604/12y) ab und gab dem Widerklagebegehren auf Zahlung von 10.033,72 EUR sA (10 C 683/12s) statt.
+Das Berufungsgericht gab der Berufung des Klägers und Widerbeklagten (im Folgenden: Kläger) nicht Folge. Mit der Begründung, dass es sich beim eingeklagten Betrag von 5.000 EUR sA nur um einen Teil einer insgesamt 5.000 EUR übersteigenden Forderung handle, sprach das Berufungsgericht aus, dass der Wert des Entscheidungsgegenstands (gemeint: sowohl hinsichtlich der Klage- als auch der Widerklageforderung; vgl RIS-Justiz RS0037252) 5.000 EUR, nicht aber 30.000 EUR übersteige und die ordentliche Revision mangels erheblicher Rechtsfrage nicht zulässig sei.
+Rechtliche Beurteilung
+1. Das Rechtsmittel ist gemäß § 502 Abs 2 ZPO als jedenfalls unzulässig zurückzuweisen, soweit es sich gegen die Abweisung des Klagebegehrens zu 10 C 604/12y des Erstgerichts richtet:
+Der - im Hinblick auf § 500 Abs 2 Z 1 ZPO unnötige und für den Obersten Gerichtshof nicht bindende (RIS-Justiz RS0042450 [T8]; RS0042437 [T3]) - Bewertungsausspruch des Berufungsgerichts ist hinsichtlich des Verfahrens 10 C 604/12y inhaltlich unrichtig. Abgesehen davon, dass entgegen der Ansicht des Berufungsgerichts in der Geltendmachung der aus der Vereinbarung vom 19. Oktober 2011 nach Leistung einer Teilzahlung noch aushaftenden Restforderung von 5.000 EUR von vornherein keine Teileinklagung iSd § 55 Abs 3 JN liegt, regelt die genannte Vorschrift lediglich die sachliche Zuständigkeit des Prozessgerichts. Für die hier maßgebende Beurteilung der Zulässigkeit eines Rechtsmittels ist im Fall einer Teileinklagung jedoch allein jener Streitwert maßgebend, über den das Gericht zweiter Instanz entschieden hat (RIS-Justiz RS0042348 [T1, T2, T5]).
+2. Soweit sich die „außerordentliche“ Revision gegen die Stattgebung des Widerklagebegehrens zu 10 C 683/12s des Erstgerichts wendet, entspricht ihre unmittelbare Vorlage an den Obersten Gerichtshof nicht dem Gesetz:
+Nach § 502 Abs 3 ZPO ist die Revision - außer im Fall des § 508 Abs 3 ZPO - jedenfalls unzulässig, wenn der Entscheidungsgegenstand an Geld oder Geldeswert zwar 5.000 EUR, nicht aber insgesamt 30.000 EUR übersteigt und das Berufungsgericht die ordentliche Revision - wie hier -
+nach § 500 Abs 2 Z 3 ZPO für nicht zulässig erklärt hat.
+Aus diesem Grund ist der Oberste Gerichtshof insoweit für die Behandlung der „außerordentlichen“ Revision funktionell nicht zuständig: Erhebt in den in § 508 Abs 1 ZPO angeführten Fällen eine Partei ein Rechtsmittel, so ist dieses gemäß § 507b Abs 2 ZPO dem Gericht zweiter Instanz vorzulegen. Das gilt auch dann, wenn das Rechtsmittel als „außerordentliches“ bezeichnet wird und wenn es an den Obersten Gerichtshof gerichtet ist; dieser darf darüber nur entscheiden, wenn das Gericht zweiter Instanz gemäß § 508 Abs 3 ZPO ausgesprochen hat, dass ein ordentliches Rechtsmittel doch zulässig sei. Dies gilt nach ständiger Rechtsprechung auch dann, wenn der Rechtsmittelwerber nicht iSd § 508 Abs 1 ZPO den Antrag auf Abänderung des Ausspruchs des Gerichts zweiter Instanz gestellt hat, weil dieser Mangel gemäß § 84 Abs 3 ZPO verbesserungsfähig ist (RIS-Justiz RS0109623).
+Die Vorlage der „außerordentlichen“ Revision direkt an den Obersten Gerichtshof ist daher verfehlt. Inwieweit das Rechtsmittel einer Verbesserung bedarf, bleibt der Beurteilung der Vorinstanzen überlassen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00250.15H.0120.000

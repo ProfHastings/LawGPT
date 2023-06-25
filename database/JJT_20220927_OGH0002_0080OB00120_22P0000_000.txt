@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+8Ob120/22p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei C* K*, vertreten durch Linsinger & Partner Rechtsanwälte OG in St. Johann, gegen die beklagte Partei M* GmbH, *, vertreten durch Mag. Carolin Seifriedsberger, Rechtsanwältin in Wien, wegen Beseitigung eines Verteilerkastens (Interesse 10.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 7. Juli 2022, GZ 53 R 99/22y-28, mit dem das Urteil des Bezirksgerichts Zell am See vom 22. März 2022, GZ 15 C 329/20h-23, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Auf einer im Eigentum der Klägerin stehenden Liegenschaft wurde in den Jahren 1991/92 als Teil einer Netzinfrastruktur ein Verteilerkasten samt unterirdischen Leitungen von einer GmbH errichtet, welche Telekommunikationsdienste vermietet. Die Beklagte ist ein 1994 gegründetes 100%iges Tochterunternehmen dieser GmbH und eine Mieterin ihrer Netzinfrastruktur.
+[2] 		Die Klägerin begehrt von der Beklagten die Entfernung des Verteilerkastens samt unterirdischen Leitungen. Die Beklagte habe diese Anlage ohne Zustimmung der Klägerin errichtet. Die beklagte Partei wandte mangelnde Passivlegitimation ein.
+[3] 		Das Erstgericht wies das Klagebegehren ab. Nach dem Ergebnis des Beweisverfahrens sei die Beklagte nur Nutzungsberechtigte der Anlage und zu deren Beseitigung nicht legitimiert.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung. Es übernahm die erstgerichtlichen Feststellungen nach ausführlicher Befassung mit der Beweis- und Mängelrüge der Berufungswerberin und billigte auch das rechtliche Ergebnis. Die ordentliche Revision sei zuzulassen, weil es eine erhebliche Rechtsfrage darstelle, ob die Beklagte als Tochterunternehmen der Betreiberin der Anlage verpflichtet gewesen wäre, die Klägerin selbst auf die wahren Eigentumsverhältnisse hinzuweisen.
+Rechtliche Beurteilung
+[5] 		Die Revision der Klägerin ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts nicht zulässig.
+[6] 		1. Unter dem Revisionsgrund der unrichtigen rechtlichen Beurteilung aufgrund sekundärer Feststellungsmängel wendet sich die Revision gegen die Feststellung, dass nicht die Beklagte Errichterin und Eigentümerin der Leitungsanlage sei.
+[7] 		Eine Feststellungsgrundlage ist nur dann mangelhaft, wenn Tatsachen fehlen, die für die rechtliche Beurteilung wesentlich sind und dies Umstände betrifft, die nach dem Vorbringen der Parteien und den Ergebnissen des Verfahrens zu prüfen waren (RIS-Justiz RS0053317). Werden vom Revisionswerber lediglich andere als die von den Vorinstanzen zugrunde gelegten Feststellungen begehrt, ist die Rechtsrüge nicht gesetzmäßig ausgeführt (RS0042648).
+[8] 		Soweit die Revision geltend macht, die Beklagte habe als 100%ige Tochtergesellschaft einen beherrschenden Einfluss auf ihre Muttergesellschaft und wäre aus diesem Grund selbst über die Anlage verfügungsberechtigt, fehlt es schon an einem entsprechenden erstinstanzlichen Vorbringen.
+[9] 		2. Die Entscheidung des Berufungsgerichts über eine Beweisrüge ist mangelfrei, wenn es nachvollziehbare Überlegungen über die Beweiswürdigung anstellt und in seinem Urteil festhält (RS0043150 [T1]). Dies hat das Berufungsgericht entgegen der Behauptung der Klägerin getan.
+[10] 		3. Die Beweislastverteilung kommt erst und nur dann zum Tragen, wenn ein Beweis für eine strittige, entscheidungswesentliche Tatsache nicht erbracht werden konnte (RS0039875), wenn das Beweisverfahren also ohne subsumtionsfähiges Sachverhaltsergebnis geblieben ist (RS0039872). Liegen hingegen (positive) Sachverhaltsfeststellungen vor, spielt es keine Rolle mehr, wen die Beweislast trifft (RS0039939 [T26, T29]). Eine Überprüfung der Richtigkeit der Beweiswürdigung der Vorinstanzen ist im Revisionsverfahren nicht möglich.
+[11] 		Aufgrund dieser Rechtslage sind die Revisionsausführungen über die Beweislast für die von den Tatsacheninstanzen festgestellten Eigentumsverhältnisse an der Verteilerkastenanlage ohne Relevanz.
+[12] 		4. Mangels der Voraussetzungen des § 502 Abs 1 ZPO war die Revision der Klägerin zurückzuweisen.
+[13] 		Eine Kostenentscheidung entfällt, weil die Beklagte in ihrer Revisionsbeantwortung keine Kosten verzeichnet hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00120.22P.0927.000

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.2017
+Geschäftszahl
+3Ob184/17f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie den Hofrat Dr. Jensik, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch die Dax & Partner Rechtsanwälte GmbH in Eisenstadt, gegen die beklagte Partei Dr. G*, vertreten durch die Kreissl & Pichler & Walther Rechtsanwälte GmbH in Liezen, wegen 707,15 EUR sA, über den Rekurs der klagenden Partei gegen den Beschluss des Landesgerichts Leoben als Berufungsgericht vom 8. August 2017, GZ 1 R 37/17h-25, womit die Berufung der klagenden Partei gegen das Urteil des Bezirksgerichts Liezen vom 16. November 2016, GZ 18 C 5/16s-20, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 210,84 EUR bestimmten Kosten des Rekursverfahrens (darin 35,14 EUR USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Erstgericht wies die Werklohnklage für den nachträglichen Einbau eines Ventilators zur Be- und Entlüftung eines Technikschachts sowie für den Austausch einer inzwischen durch Feuchtigkeit beschädigten Pumpe mit der Begründung ab, es wäre Aufgabe des fachkundigen Werkunternehmers gewesen, entsprechend den bei Anlagenerrichtung geltenden Regeln der Technik den Einbau eines Ventilators zu veranlassen. Die nachträgliche Werklohnforderung sei auf das Fehlverhalten des Klägers als Werkunternehmer zurückzuführen.
+Das Berufungsgericht wies die dagegen vom Kläger erhobene Berufung zurück. Diese richte sich in Wahrheit ausschließlich gegen die erstgerichtlichen Tatsachenfeststellungen (Notwendigkeit des Einbaus einer mechanischen Be- und Entlüftung in den Technikraum). Im Hinblick auf den Streitwert seien erstgerichtliche Tatsachenfeststellungen gemäß § 501 Abs 1 ZPO aber nicht bekämpfbar. Der Berufungswerber begehre auch keine seiner Meinung nach fehlenden ergänzenden Feststellungen, sondern von jenen des angefochtenen Urteils abweichende Feststellungen, was in diesem Verfahren gleichfalls unzulässig sei.
+Rechtliche Beurteilung
+Der Rekurs des Klägers, mit dem er die Aufhebung der berufungsgerichtlichen Zurückweisung seiner Berufung anstrebt, ist gemäß § 519 Abs 1 ZPO ohne Rücksicht auf den Streitwert und ungeachtet des Vorliegens einer erheblichen Rechtsfrage zulässig (RIS-Justiz RS0043861, RS0043882, RS0043886, RS0043893), aber nicht berechtigt.
+Das Erstgericht stellte – gestützt auf das eingeholte Sachverständigengutachten – fest, dass der Einbau einer mechanischen Be- und Entlüftung eine „Regel der Technik“ ist. „Regeln der Technik“ sind keine rechtlichen Phänomene, sie geben bloß ein bestimmtes oder bestimmbares Fachwissen wieder, mit dessen Hilfe ein Werk, eine Arbeit, ein Unternehmen, ein Auftrag möglichst reibungslos mangelfrei und störungsfrei durchgeführt werden kann; sie geben Auskunft, ob und wie etwas gemacht werden kann oder sollte (RIS-Justiz RS0062066). Wie das Werk ausgeführt sein muss, damit es dem Stand der Technik entspricht, betrifft aber – entgegen der vom Kläger weiterhin vertretenen Ansicht – keine Rechtsfrage, sondern den Tatsachenbereich (2 Ob 92/08f). Es war hier nicht eine Rechtsnorm auszulegen, sondern zu bestimmen, welchen tatsächlichen Anforderungen das vom Kläger zu planende und zu errichtende Werk haben sollte.
+Ob ein Sachverständigengutachten die getroffene Feststellung rechtfertigt, gehört zur Beweiswürdigung (RIS-Justiz RS0043163, RS0040586 [T2]). Dass Feststellungen oder Ergebnisse von Sachverständigengutachten gegen Gesetze der Logik oder gegen zwingende Denkgesetze verstoßen, was mit Rechtsrüge geltend gemacht werden kann (RIS-Justiz RS0043356, RS0043404), machte der Kläger in seiner Berufung nicht geltend.
+Das Berufungsgericht hat daher frei von Rechtsirrtum seiner Zurückweisungsentscheidung zugrunde gelegt, dass der Kläger inhaltlich ausschließlich eine Beweisrüge ausführte, was nach § 501 Abs 1 ZPO im Hinblick auf den 2.700 EUR nicht übersteigenden Streitwert unzulässig war. Dem Rekurs ist daher ein Erfolg zu versagen.
+Die Kostenentscheidung gründet sich auf §§ 41 und 50 ZPO (zur Zweiseitigkeit des Rekursverfahrens: RIS-Justiz RS0098745 [T21], RS0125481 [T5, T7], RS0128487 [T1]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E120235

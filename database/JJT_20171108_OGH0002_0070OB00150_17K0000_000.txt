@@ -1,0 +1,62 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.11.2017
+Geschäftszahl
+7Ob150/17k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei D***** AG, *****, vertreten durch Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei H***** GmbH, *****, vertreten durch Dr. Alexander Katholnig, MBL, Rechtsanwalt in Kitzbühel, wegen 8.037,65 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 14. Juni 2017, GZ 77 R 57/17y-20, mit dem das Urteil des Bezirksgerichts Kitzbühel vom 2. März 2017, GZ 2 C 834/16a-16, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 833,88 EUR (darin 138,98 EUR an Umsatzsteuer) bestimmten Kosten ihrer  Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Die klagende Versicherung hat mit der Beklagten einen Rechtsschutzversicherungsvertrag abgeschlossen. Diesem liegen die ARB 2010 zugrunde, die auszugsweise wie folgt lauten:
+„...
+EINFÜHRUNG UND INHALTSVERZEICHNIS
+Bitte beachten Sie, dass nur die Gemeinsamen und Besonderen Bestimmungen zusammen den Umfang und die Voraussetzungen des Versicherungsschutzes beschreiben. Die Gemeinsamen Bestimmungen gelten in jedem Fall, die Besonderen Bestimmungen nur so weit, als sie im jeweiligen Versicherungsvertrag vereinbart sind.
+…
+GEMEINSAME BESTIMMUNGEN
+Artikel 1 …
+…
+Artikel 16 …
+BESONDERE BESTIMMUNGEN
+Artikel 17 …
+Artikel 26 …
+Artikel 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+Soweit nichts anderes vereinbart ist, besteht kein Versicherungsschutz für die Wahrnehmung rechtlicher Interessen
+...
+4. aus
+…
+4.4. Versicherungsverträgen mit dem eigenen Rechtsschutz-Versicherer;
+…
+Artikel 15
+Unter welchen Voraussetzungen verlängert sich der Versicherungsvertrag oder endet er vorzeitig?
+…
+3. Im Zusammenhang mit dem Eintritt eines Versicherungsfalles - ausgenommen Fälle des Beratungs-Rechtsschutzes (Artikel 22) - kann der Versicherungsvertrag unter folgenden Voraussetzungen gekündigt werden:
+3.1. Der Versicherungsnehmer kann kündigen, wenn der Versicherer
+...
+- die Ablehnung des Versicherungsschutzes (Artikel 9.1) verspätet, ohne Begründung oder zu Unrecht ausgesprochen hat.
+…
+Artikel 23
+Allgemeiner Vertrags-Rechtsschutz
+...
+2. Was ist versichert?
+2.1. Der Versicherungsschutz umfasst die Wahrnehmung rechtlicher Interessen aus
+2.1.1. Versicherungsverträgen des Versicherungsnehmers über in Österreich belegene Risiken...“
+Die Klägerin begehrte von der Beklagten die Zahlung von Versicherungsprämien. Die Beklagte lehnte die Bezahlung mit der Begründung ab, sie habe den Versicherungsvertrag wirksam gekündigt, weil die Klägerin für einen gegen sie beabsichtigten Prozess zu Unrecht Deckung verweigert habe.
+Das Berufungsgericht sprach in seinem klagsstattgebenden Urteil aus, dass die ordentliche Revision zulässig sei, weil „die Frage des nur über Auslegung erzielbaren Sinngehalts, insbesondere, ob durch die Vereinbarung von Punkt 23.2.1.1. die allgemeine Bestimmung Punkt 7.4.4. ARB ohne weiteren Hinweis ausgehebelt werden kann, über den Einzelfall hinaus Bedeutung hat“.
+In ihrer Revision vertritt die Beklagte (weiterhin) den Standpunkt, dass Art 23.2.1.1. ARB „die Spezialbestimmung“ gegenüber Art 7.4.4. ARB sei, weshalb die Klägerin unberechtigt Rechtsschutz für einen gegen sie angestrebten Prozess verweigert und die Beklagte den Versicherungsvertrag folglich mit Recht gekündigt habe.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Allgemeine Versicherungsbedingungen sind nach Vertragsauslegungsgrundsätzen (§§ 914 f ABGB) ausgehend vom Maßstab des durchschnittlich verständigen Versicherungsnehmers auszulegen (RIS-Justiz RS0050063). Nach objektiven Gesichtspunkten als unklar aufzufassende Klauseln müssen daher so ausgelegt werden, wie sie ein durchschnittlich verständiger Versicherungsnehmer verstehen musste, wobei Unklarheiten im Sinn des § 915 ABGB zu Lasten des Verwenders der AGB, also des Versicherers gehen (RIS-Justiz RS0017960). Die einzelnen Klauseln sind, wenn sie nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der Allgemeinen Geschäftsbedingungen zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]).
+2. Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Versicherungsbedingungen (AVB) nicht „jedenfalls“, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit oder Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits oberstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (RIS-Justiz RS0121516 [T6]). Letztgenannter Fall liegt hier vor:
+3. Entgegen der Ansicht der Beklagten ist Art 23 ARB nicht „die Spezialbestimmung“ zu Art 7 ARB, die letztere verdrängt. Richtig ist vielmehr, dass Art 23 ARB
+– nicht etwa eine „besondere Bedingung“ wie jene in der von der Beklagten zitierten Entscheidung 7 Ob 192/99g, sondern – den Rechtsschutz-Baustein „Allgemeiner Vertrags-Rechtsschutz“ und darin die für diesen Baustein maßgebliche primäre Risikobeschreibung enthält. Dabei sollen mit Art 23.2.1.1. ARB (lediglich) nicht in Österreich belegene Risiken vom Allgemeinen Vertrags-Rechtsschutz ausgenommen werden. Art 7 ARB enthält demgegenüber allgemeine Risikoausschlüsse, die nicht bloß für einen bestimmten Rechtsschutz-Baustein gelten. Sollte ein allgemeiner Risikoausschluss (hier: Art 7.4.4. ARB [Wahrnehmung rechtlicher Interessen aus Versicherungsverträgen mit dem eigenen Rechtsschutz-Versicherer]) für einen bestimmten Rechtsschutz-Baustein nicht gelten, müsste dies dort klar geregelt sein. Dies ist hier nicht der Fall; vielmehr wird in der Einführung der ARB
+– ausdrücklich – darauf hingewiesen, „dass nur die Gemeinsamen und Besonderen Bestimmungen zusammen den Umfang und die Voraussetzungen des Versicherungsschutzes beschreiben“. Das vom Berufungsgericht gewonnene Ergebnis, wonach die Klägerin zufolge Art 7.4.4. ARB Rechtsschutz für einen gegen sie selbst angestrebten Prozess zu Recht abgelehnt habe, entspricht daher dem schon durch den klaren Wortlaut der ARB eindeutig vorgezeichneten Auslegungsergebnis, das auch mit der Einschätzung des verständigen durchschnittlichen Versicherungsnehmers übereinstimmt. Da somit die Voraussetzungen des § 502 Abs 1 ZPO nicht vorliegen, ist die Revision unzulässig und zurückzuweisen, ohne dass dieser Beschluss einer weitergehenden Begründung bedarf (§ 510 Abs 3 ZPO).
+4. Die Kostenentscheidung gründet auf §§ 50, 41 ZPO; die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00150.17K.1108.000

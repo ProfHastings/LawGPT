@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.02.2022
+Geschäftszahl
+13Os80/21w
+Kopf
+Der Oberste Gerichtshof hat                             am 16. Februar 2022 durch den Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Lässig als Vorsitzenden sowie die Hofrätin des Obersten Gerichtshofs Mag. Michel, den Hofrat des Obersten Gerichtshofs Dr. Oberressl und die Hofrätinnen des Obersten Gerichtshofs Dr. Brenner und      Dr. Setz-Hummel LL.M. in Gegenwart des Schriftführers Rechtspraktikant Mag. Jäger, BA, in der Finanzstrafsache gegen * K* wegen Finanzvergehen der gewerbsmäßigen Abgabenhinterziehung nach §§ 33 Abs 1, 38 Abs 1 und 13 FinStrG idF vor BGBl 2019/62 über die Nichtigkeitsbeschwerde der Finanzstrafbehörde gegen das Urteil des Landesgerichts Salzburg als Schöffengericht vom 24. März 2021, GZ 31 Hv 20/16y-167, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurde * K* von der Anklage freigesprochen, er habe im Bereich des Finanzamts Salzburg-Stadt als Komplementär und für die abgabenrechtlichen Belange Verantwortlicher der Ka* KG „vorsätzlich und für die Jahre 2009 bis 2013 zudem in der Absicht, sich durch die wiederkehrende Begehung derartiger Finanzvergehen einen nicht bloß geringfügigen abgabenrechtlichen Vorteil zu verschaffen, unter Verletzung seiner abgabenrechtlichen Anzeige-, Offenlegungs- und Wahrheitspflichten, nämlich durch Abgabe unrichtiger Umsatzsteuererklärungen […] und unrichtiger Einkommensteuererklärungen […] für die Jahre 2008 bis 2013 Abgaben, die bescheidmäßig festzusetzen sind, in der Höhe von insgesamt 1.149.579,27 Euro verkürzt bzw. zu verkürzen versucht, und zwar
+a) Umsatzsteuer:
+für das Jahr 2008 in Höhe von 39.344,42 Euro
+für das Jahr 2009 in Höhe von 46.908,27 Euro
+für das Jahr 2010 in Höhe von 46.318,88 Euro
+für das Jahr 2011 in Höhe von 83.680,19 Euro
+für das Jahr 2012 in Höhe von 97.977,70 Euro
+für das Jahr 2013 in Höhe von 100.601,68 Euro
+[...], wobei es hinsichtlich der Jahre 2012 und 2013 jeweils beim Versuch geblieben sei;
+b) Einkommensteuer:
+für das Jahr 2008 in Höhe von 54.404,06 Euro
+für das Jahr 2009 in Höhe von 94.382,52 Euro
+für das Jahr 2010 in Höhe von 86.358,16 Euro
+für das Jahr 2011 in Höhe von 147.901,93 Euro
+für das Jahr 2012 in Höhe von 176.056 Euro
+für das Jahr 2013 in Höhe von 175.645,46 Euro.“
+Rechtliche Beurteilung
+[2] 		Dagegen wendet sich die aus § 281 Abs 1 Z 5 StPO ergriffene Nichtigkeitsbeschwerde der Finanzstrafbehörde.
+[3] 		Der Einwand von „Unvollständigkeit“ (nominell Z 5 zweiter Fall), weil das Erstgericht nicht festgestellt habe,  „ob eine Verkürzungssoftware vom Angeklagten verwendet wurde oder nicht“, übersieht, dass eine Mängelrüge (Z 5)  hinsichtlich nicht getroffener Feststellungen von vornherein nicht in Betracht kommt (RIS-Justiz RS0128974).
+[4] 		Entgegen dem Vorwurf offenbar unzureichender Begründung (Z 5 vierter Fall) hat das Erstgericht seinen –  teils auf Negativfeststellungen zur objektiven und zur subjektiven Tatseite, teils auf Konstatierungen betreffend einen die gerichtliche Zuständigkeitsgrenze (§ 53 Abs 1 FinStrG) nicht erreichenden Hinterziehungsbetrag gegründeten – Freispruch keineswegs allein damit begründet, dass „die Abgabenfestsetzung nur aufgrund einer Schätzung erfolgte“. Vielmehr stützte es die bekämpften Feststellungen  auf die Verantwortung des Angeklagten, die sichergestellten Aufzeichnungen über Betriebseinnahmen, die in den beiden Kassensystemen erfassten Monatsumsätze, die allgemeine Lebenserfahrung und – bezüglich des angewandten Rohaufschlagskoeffizienten – die Gerichtsnotorietät und berechnete darauf basierend die Höhe der nicht deklarierten Umsätze (US 6 ff). Zu einer Auseinandersetzung mit sämtlichen Details dieser Beweisergebnisse war es mit Blick auf das Gebot zu gedrängter Darstellung der Entscheidungsgründe (§ 270 Abs 2 Z 5 StPO) nicht verhalten (RIS-Justiz RS0106642). Der abgabenbehördlichen Schätzung hielt das Erstgericht neben diesen Verfahrensergebnissen – aktenkonform – den Umstand entgegen, dass diese (auf sechs Jahre bezogene) Schätzung auf einem Vergleichszeitraum von nur wenigen Tagen basiert. Dass das Gericht aus den Verfahrensergebnissen insgesamt nicht die von der Beschwerdeführerin gewünschten Schlüsse zog, begründet keine Nichtigkeit (RIS-Justiz RS0098362 [T17] und RS0098400).
+[5] 		Widersprüchlich sind zwei Urteilsaussagen dann, wenn sie nach den Denkgesetzen oder grundlegenden Erfahrungssätzen nicht nebeneinander bestehen können (Ratz, WK-StPO § 281 Rz 438). Im Sinn der Z 5 dritter Fall können die Feststellungen über entscheidende Tatsachen in den Entscheidungsgründen (§ 270 Abs 2 Z 5 StPO) und deren Referat im Erkenntnis (§ 260 Abs 1 Z 1 StPO), die Feststellungen über entscheidende Tatsachen in den Urteilsgründen, die zu den getroffenen Feststellungen über entscheidende Tatsachen angestellten Erwägungen sowie die Feststellungen über entscheidende Tatsachen in den Urteilsgründen und die dazu angestellten Erwägungen zueinander im Widerspruch stehen (15 Os 51/04, SSt 2004/43; RIS-Justiz RS0119089).
+[6] 		Mit der Kritik an der Methode des Erstgerichts zur Umsatzermittlung zeigt die Rüge keinen solchen inneren Widerspruch auf.
+[7] 		Zwischen der Negativfeststellung zur subjektiven Tatseite in Bezug auf Umsatzsteuerverkürzungen durch „Unterlassung der Erklärung dieser Trinkgeldbeträge in den Jahresumsatzsteuererklärungen“ (US 3) sowie deren Begründung, der Angeklagte sei der Meinung gewesen, dass die nachträgliche Auszahlung von Trinkgeldern an die Mitarbeiter nicht umsatzsteuerpflichtig sei (US 9), und jener (allgemeinen) Erwägung, wonach der Angeklagte seine „abgabenrechtlichen Pflichten kannte“ und sich dies „auch aus seiner langjährigen unternehmerischen Tätigkeit unbedenklich“ ergebe (US 6), besteht kein Widerspruch.
+[8] 		Das übrige Vorbringen der Mängelrüge erschöpft sich darin, unter isoliertem Hervorheben einzelner Verfahrensergebnisse (siehe aber RIS-Justiz RS0116504) und anhand eigener Beweiswerterwägungen für den Beschwerdestandpunkt günstigere Schlüsse zu ziehen als das Erstgericht und wendet sich damit nach Art einer im schöffengerichtlichen Verfahren nicht vorgesehenen (§ 283 Abs 1 StPO) Berufung wegen des Ausspruchs über die Schuld in unzulässiger Weise gegen die tatrichterliche Beweiswürdigung (§ 258 Abs 2 StPO).
+[9] 		Die Nichtigkeitsbeschwerde war daher – in Übereinstimmung mit der Stellungnahme der Generalprokuratur – gemäß § 285d Abs 1 StPO bei der nichtöffentlichen Beratung sofort zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0130OS00080.21W.0216.000

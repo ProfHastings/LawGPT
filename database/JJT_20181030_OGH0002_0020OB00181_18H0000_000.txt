@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.10.2018
+Geschäftszahl
+2Ob181/18h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. E. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei H***** V*****, vertreten durch Dr. Michael Augustin und andere Rechtsanwälte in Leoben, gegen die beklagte Partei A***** AG, *****, vertreten durch Mag. Alexander Jelly, Rechtsanwalt in Villach, wegen 874.000 EUR sA und Rente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 28. Juni 2018, GZ 2 R 90/18z-120, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ob der Schädiger leichte oder grobe Fahrlässigkeit zu verantworten hat, ist nach den konkreten Umständen des Falls zu beurteilen und bildet daher nur dann eine erhebliche Rechtsfrage, wenn dem Berufungsgericht eine krasse Fehlbeurteilung unterlaufen wäre, die im Interesse der Rechtssicherheit zu korrigieren wäre (RIS-Justiz RS0087606 [T8]). Dass Vorrangverletzungen stets als grobe Fahrlässigkeit zu werten wären, trifft nicht zu (8 Ob 266/73). Vielmehr kommt es auch hier darauf an, ob ein objektiv schwerwiegender Sorgfaltsverstoß bei Würdigung der Umstände des Einzelfalls auch subjektiv schwer vorwerfbar ist (RIS-Justiz RS0030272, RS0031127) und ob der Schadenseintritt zudem als wahrscheinlich voraussehbar war (RIS-Justiz RS0030359, RS0030477). Das kann bei einer bloßen Unachtsamkeit – hier einem unterlassenen Blick in einen Verkehrsspiegel bei ansonsten ordnungsgemäßer Beobachtung des Querverkehrs – in vertretbarer Weise verneint werden. Auf dieser Grundlage kommt es auf die Erwägungen der Revision zu einer (allenfalls höheren) entgangenen Gewinnchance (vgl 2 Ob 270/98i, 2 Ob 82/00y) nicht an.
+2. Der Kläger rügt als Mangel des Berufungsverfahrens, dass das Berufungsgericht sein Vorbringen, das Erstgericht habe zu Unrecht § 273 ZPO angewendet, nicht erledigt habe. Auch damit zeigt er keine erhebliche Rechtsfrage auf.
+2.1. Ob § 273 ZPO – hier bei der Bemessung des Verdienstentgangs – anzuwenden ist, betrifft eine Frage des Verfahrens, die in der Berufung mit Mängelrüge geltend zu machen ist (RIS-Justiz RS0040282). Verneint das Berufungsgericht das Vorliegen eines Mangels, kann dies nicht mehr mit Revision aufgegriffen werden (RIS-Justiz RS0040282 [T6, T8]); wird die Mängelrüge nicht behandelt, kann darin nach allgemeinen Grundsätzen ein Mangel des Berufungsverfahrens iSv § 503 Z 2 ZPO liegen (RIS-Justiz RS0043086). Dies setzt jedoch voraus, dass der Mangel abstrakt geeignet war, eine unrichtige Entscheidung des Berufungsgerichts herbeizuführen (RIS-Justiz RS0043027), was der Rechtsmittelwerber darzulegen hat (RIS-Justiz RS0043027 [T1]).
+2.2. Im vorliegenden Fall hatte der Kläger in der Berufung die Anwendung von § 273 ZPO als Verfahrensmangel und die Negativfeststellung zum konkreten Verdienstentgang als unrichtige Tatsachenfeststellung gerügt. Das Berufungsgericht übernahm in unanfechtbarer Weise die Negativfeststellung zum Verdienstentgang. Damit erledigte es aber implizit auch die Verfahrensrüge zur Anwendung von § 273 ZPO. Denn diese Bestimmung wäre nur dann nicht anzuwenden, wenn die Höhe des (jedenfalls eingetretenen) Schadens – anders als hier – positiv festgestellt werden könnte. Auf dieser Grundlage ist nicht erkennbar, weshalb das Fehlen einer expliziten Erledigung der Verfahrensrüge abstrakt geeignet sein könnte, eine unrichtige Entscheidung des Berufungsgerichts herbeizuführen. Auch die Revision enthält dazu kein Vorbringen.
+3. Da die außerordentliche Revision auch sonst keine erhebliche Rechtsfrage aufzeigt, ist sie zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0020OB00181.18H.1030.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.02.2023
+Geschäftszahl
+17Ob1/23f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofrätinnen Mag. Malesich und Dr. Kodek und die Hofräte Dr. Stefula und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei D* GmbH, *, vertreten durch BMA Brandstätter Rechtsanwälte GmbH in Wien, dem Nebenintervenienten Mag. A* J*, gegen die beklagte Partei Mag. P* T*, vertreten durch AHP Rechtsanwälte OG in Klagenfurt am Wörthersee, dem Nebenintervenienten E* S*, vertreten durch  Dr. Gernot Murko und andere, Rechtsanwälte in Klagenfurt am Wörthersee, wegen 236.178,21 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 4. November 2022, GZ 2 R 154/22t-46, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin begehrt vom Beklagten – dem ehemaligen Insolvenzverwalter über das Vermögen der Schuldnerin – Schadenersatz nach § 81 IO. Der Beklagte habe schuldhaft eine Vielzahl (Hunderte) im Eigentum der Klägerin stehende, der Schuldnerin bloß verleaste „Werkzeuge“ verkauft und damit der Klägerin den geltend gemachten Schaden zugefügt.
+[2] 		1. Die gerügten Verfahrensmängel wurden geprüft, sie liegen nicht vor (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+[3] 		2.1 Die Haftung des Insolvenzverwalters iSd § 81 Abs 3 IO ist nicht bloß subsidiär, sodass sie nur mangels Befriedigung aus der Masse in Anspruch genommen werden könnte, sondern begründet vielmehr einen selbständigen Rechtsschutzanspruch und eine verschuldensabhängige Ersatzpflicht nach den Regeln des ABGB (RIS-Justiz RS0065416).
+[4] 		2.2 Die von der Klägerin als erheblich angesehene Frage nach dem Maß der Sorgfaltspflicht eines Insolvenzverwalters bei der Verwertung von Konkursvermögen im Zusammenhang mit der Verpflichtung zur Wahrung des Rechts des aussonderungsberechtigten Gläubigers stellt sich hier nicht.  Bei einem Begehren auf Schadenersatz obliegt dem Geschädigten der Beweis für den Kausalzusammenhang zwischen dem Verhalten des Schädigers und dem Eintritt des Schadens (RIS-Justiz RS0022686 [T2]; RS0022664 [T4, T11]; RS0037797 [T27]). Eine Negativfeststellung in diesem Punkt geht daher zu seinen Lasten (RIS-Justiz RS0022686 [T7]; RS0039903 [T5]). Der Klägerin ist aber bereits der Beweis des Eintritts eines – durch das dem Beklagten vorgeworfene Verhalten (Unterbleiben von Rückfragen, Nachforschungen und einer Inventarisierung) verursachten – Schadens nicht gelungen. Im vorliegenden Fall konnte nicht festgestellt werden, welche „Werkzeuge“, die im Eigentum der Klägerin standen, Gegenstand des Leasingvertrags mit der Schuldnerin waren, ob und welche davon zum Zeitpunkt der Insolvenzeröffnung bei der Schuldnerin vorhanden waren und, ob „Werkzeuge“ zwischen der Eröffnung des Insolvenzverfahrens und dem Schätzgutachten veräußert oder anderweitig abhanden kamen. Damit steht auch nicht fest, ob im Eigentum der Klägerin stehende „Werkzeuge“ bei der letztlich durchgeführten Versteigerung verwertet wurden.
+[5] 		2.3 Eines weiteren Eingehens auf die Bindungswirkung des § 60 Abs 2 IO erübrigt sich ebenfalls. Soweit die Klägerin argumentiert, die Anerkennung der als Insolvenzforderung angemeldeten Leasingentgelte durch den Beklagten bedeute auch ein Anerkenntnis, dass Gegenstände verleast worden seien, übergeht sie, dass die hier gegenständlichen „Werkzeuge“ im Zuge der Forderungsanmeldung nicht genannt wurden und sich auch nicht aus dem beigelegten Leasingvertrag ergaben.
+[6] 		3. Die außerordentliche Revision war zurückzuweisen, weil die Klägerin keine erhebliche Rechtsfrage aufzeigt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0170OB00001.23F.0214.000

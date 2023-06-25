@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2015
+Geschäftszahl
+8Ob136/14d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch den Vizepräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, die Hofräte Mag. Ziegelbauer und Dr. Brenn und die Hofrätin Dr. Dehn als weitere Richter in der Insolvenzsache des Schuldners Dr. E***** G*****, Insolvenzverwalter Dr. Richard Proksch, Rechtsanwalt in Wien, über den außerordentlichen Revisionsrekurs des Schuldners gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 17. Februar 2014, GZ 28 R 12/14m-148, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO iVm § 252 IO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Ein (hier außerordentlicher) Revisionsrekurs kann sich nur gegen eine konkrete Entscheidung des Rekursgerichts richten. Der Gegenstand der Entscheidung wird durch deren Inhalt bestimmt. Der Rechtsmittelwerber kann den Entscheidungsgegenstand nicht dadurch nach seinem Belieben variieren, dass er seinem der Entscheidung zugrunde liegenden Antrag einen bestimmten Bedeutungsinhalt beimisst, der von den Vorinstanzen nicht als solcher erkannt wurde.
+Der hier angefochtene Zurückweisungsbeschluss des Rekursgerichts betrifft die Note des Erstgerichts an den Schuldner, wonach - mangels erfolgter Verwertung des Vermögens - eine Tagsatzung zur Abstimmung über den Zahlungsplan noch nicht anberaumt werden kann (ON 140). Die Vorinstanzen haben dabei Pkt 1 der Eingabe des Schuldners in ON 135 als Antrag an das Erstgericht verstanden, über die Annahme des Zahlungsplans zu entscheiden. Diesen Antrag hat das Erstgericht mit seiner Note in ON 140 behandelt. Die Beurteilung des Rekursgerichts, dass der Antrag des Schuldners in ON 135 nicht als Fristsetzungsantrag im Sinn des § 91 Abs 1 GOG zu verstehen war, erweist sich als vertretbar. Der Frage, wie ein bestimmtes Vorbringen oder ein bestimmter Parteiantrag zu verstehen ist, kommt im Allgemeinen keine über den Einzelfall hinausgehende Bedeutung zu (RIS-Justiz RS0042828).
+2. Soweit sich der Schuldner mit seinem Rechtsmittel inhaltlich gegen die Entscheidung des Rekursgerichts zur Frage der Ausscheidung seiner Mietrechte (nach § 119 Abs 5 IO) wendet, versucht er in unzulässiger Weise, die Rechtsmittelbeschränkung des § 528 Abs 2 Z 2 ZPO iVm § 252 IO zu umgehen (vgl dazu 8 Ob 77/14b).
+3. Eine insolvenzgerichtliche Genehmigung der „Ausscheidungsvereinbarung“ (richtig: des dazu gefassten Beschlusses des Gläubigerausschusses) liegt entgegen dem Standpunkt des Schuldners nicht vor. Die Frage der Fristerstreckung zur Finanzierung der Zahlung des Schuldners in Höhe von 50.000 EUR (ON 110) betrifft nur die Beschlussfassung des Gläubigerausschusses bzw die Vorgangsweise des Insolvenzverwalters, nicht aber eine Entscheidung des Insolvenzgerichts.
+4. Insgesamt gelingt es dem Schuldner nicht, mit seinen Ausführungen eine erhebliche Rechtsfrage aufzuzeigen. Der außerordentliche Revisionsrekurs war daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0080OB00136.14D.0123.000

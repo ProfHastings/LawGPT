@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.08.2019
+Geschäftszahl
+4Ob124/19t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Patentrechtssache des Antragstellers N***** B*****, vertreten durch Dr. Thomas Romauch und Dr. Elke Romauch, Rechtsanwälte in Krumpendorf am Wörthersee, wegen Streitanmerkung, über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 23. Mai 2019, GZ 133 R 54/19t-3, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+A***** P***** ist der Anmelder des sogenannten Kabel-X-Patents, das sich auf eine kostengünstige Methode zum Ersatz von Kupferdrähten durch Glaskabel in bereits verlegten Kommunikationskabeln bezieht.
+Am 8./10. 8. 2001 schloss der Anmelder mit dem Antragsteller einen „Beteiligungsvertrag“, mit dem der Antragsteller mit Vermittlungs- und Vermarktungstätigkeiten betraut wurde und dafür eine prozentuelle Beteiligung an den Erträgnissen und Erlösen aus dem Patent zugesagt erhielt. Nach Punkt IV dieses Vertrags ist es dem Anmelder unter anderem untersagt, auf das Patent zu verzichten oder über dieses durch unentgeltliches Rechtsgeschäft zu verfügen.
+Mit „Geschäftsbesorgungsvertrag“ vom 5. 2. 2003 übertrug der Anmelder die exklusiven Vermarktungsrechte an die (in Gründung befindliche) K***** GmbH. Kurze Zeit später wurde das in Rede stehende Patent zur Patent-Nummer 410.611 in das österreichische Patentregister eingetragen.
+Mit Kaufvertrag vom 17. 6. 2003 übertrug A***** P***** sämtliche Schutzrechte auf seine Eltern zu einem „Kaufpreis“ von 200.000 EUR; seit 21. 9. 2004 sind seine Eltern als Patentinhaber im Patentregister eingetragen.
+Mit – der hier begehrten Streitanmerkung zugrunde liegender – Klage zu AZ ***** des Handelsgerichts Wien begehrte der Antragsteller (als dortiger Kläger) von den Patentinhabern sowie von A***** P***** die Zahlung von 52.504,44 EUR sA sowie zusammengefasst die Feststellungen, dass
+- die Beklagten zur ungeteilten Hand für die Zahlung der ihm zustehenden Erlöse aus dem Patent zu haften hätten,
+- es sich beim Kaufvertrag vom 17. 6. 2003 um eine Schenkung gehandelt habe und
+- aufgrund des rechtskräftigen Urteils zu AZ ***** des Landesgerichts Linz auch gegenüber den Patentinhabern „res iudicata“ vorliege.
+Mit dem hier zu beurteilenden Antrag begehrte der Antragsteller die Eintragung der Anmerkung der Klage zu AZ ***** des Handelsgerichts Wien zu dem in Rede stehenden Patent.
+Die Vorinstanzen wiesen den Antrag ab. Die Streitanmerkung nach § 45 PatG sei zwar nicht auf die Behauptung dinglicher Rechte beschränkt, sondern komme auch bei der Geltendmachung bloß obligatorischer Ansprüche in Betracht. Dies gelte aber nur für solche Ansprüche, die eine Übertragung des Patents an den Antragsteller zum Ziel hätten. Dies sei hier nicht der Fall, weil der Antragsteller nicht seine Registrierung als Inhaber des Patents oder eines Pfandrechts daran anstrebe.
+Mit dem dagegen erhobenen außerordentlichen Revisionsrekurs zeigt der Antragsteller keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+1. Die behaupteten Aktenwidrigkeiten liegen – wie der Oberste Gerichtshof geprüft hat – nicht vor. Auch mit diesen Ausführungen wirft der Antragsteller dem Rekursgericht in Wirklichkeit eine falsche Beurteilung der Rechtsfragen, aber nicht eine unrichtige Wiedergabe des Inhalts eines bestimmten Aktenstücks vor (vgl dazu RIS-Justiz RS0043284).
+2. Der hier beantragten Streitanmerkung im Patentregister liegt die Klage des Antragstellers (als Kläger) im Verfahren zu AZ ***** des Handelsgerichts Wien zugrunde. Demgegenüber stützt sich der Antragsteller im Revisionsrekurs auf das (Vor-)Verfahren zu AZ ***** des Landesgerichts Linz. Mit dem rechtskräftigen Urteil in diesem Vorverfahren sei der von A***** P***** mit seinen Eltern abgeschlossene Kaufvertrag vom 17. 6. 2003 als Scheingeschäft beurteilt und als Erwerbstitel für das zugrunde liegende Patent für wirkungslos erklärt worden. Das Ziel des hier vorliegenden außerordentlichen Revisionsrekurses bestehe darin, dem Urteil zu AZ ***** des Landesgerichts Linz „die Rechtskraft zuzuerkennen“, um globale Rechtssicherheit herzustellen.
+Die Rechtsmittelausführungen beziehen sich zum überwiegenden Teil nicht auf die hier anzumerkende Klage. Damit zeigt der Antragsteller jedenfalls keine erhebliche Rechtsfrage auf.
+3. Soweit die Rechtsmittelausführungen – bei großzügiger Betrachtung und aufgrund der Einbeziehung nunmehr auch der Patentinhaber in den Rechtsstreit – auch auf die zugrunde liegende Klage bezogen werden können, ist dem Antragsteller Folgendes zu entgegnen:
+Das Rekursgericht hat die Grundsätze zur Streitanmerkung nach § 45 PatG zutreffend dargelegt. Im gegebenen Zusammenhang ist maßgebend, dass die in Rede stehende Streitanmerkung zwar an die grundbuchsrechtlichen Vorschriften (§ 61 GBG) angelehnt ist, aber insoweit über diese hinausgeht, als sie auch wegen bestimmter obligatorischer Ansprüche erfolgen kann. Dafür ist allerdings vorausgesetzt, dass die Durchsetzung dieser Ansprüche einen Schritt zur allfälligen Verdinglichung des Rechts durch Eintragung des Klägers in das Patentregister bedeutet. Die Streitanmerkung ist daher dann zu versagen, wenn mit der Klage Ansprüche geltend gemacht werden, die nicht, also auch nicht mittelbar, auf eine Änderung des Registerstands zielen (vgl RS0071469; 4 Ob 2083/96v; idS auch Stadler/Gehringer/Holzweber in Stadler/Koller, PatG §§ 43-45 Rz 169). Dies gilt etwa auch für eine Klage auf Feststellung der Unwirksamkeit oder Aufhebung jenes Vertrags, der die Grundlage für eine Eintragung im Patentregister gebildet hat (4 Ob 8/13z).
+Mit der hier zugrunde liegenden Klage macht der Antragsteller (als Kläger) Entgelt- oder Schadenersatzansprüche aus dem „Beteiligungsvertrag“ vom 8./10. 8. 2001 geltend und möchte nach dem Inhalt des Feststellungsbegehrens geklärt haben, dass in Wirklichkeit A***** P***** Patentinhaber ist. Die Beurteilung der Vorinstanzen, dass eine solche Klage gemäß § 45 PatG nicht im Patentregister angemerkt werden kann, hält sich im Rahmen der Rechtsprechung.
+Der außerordentliche Revisionsrekurs war zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00124.19T.0822.000

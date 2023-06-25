@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.05.1951
+Geschäftszahl
+3Ob239/51
+Norm
+ABGB §448;
+ABGB §936;
+ABGB §983;
+EO §294;
+EO §330;
+Kopf
+SZ 24/127
+Spruch
+Die Forderung auf Erfüllung eines Darlehensvertrages ist unpfändbar.
+Entscheidung vom 9. Mai 1951, 3 Ob 239/51.
+I. Instanz: Bezirksgericht Wiener Neustadt; II. Instanz:
+Kreisgericht Wiener Neustadt.
+Text
+Das Bezirksgericht bewilligte die Pfändung einer der verpflichteten Partei gegen die X. Hypothekenanstalt auf Grund des gewährten Darlehens von ursprünglich 32.000 S angeblich zustehenden Forderung von restlicher Darlehensvaluta per 8000 S. Das Rekursgericht wies den Exekutionsantrag über Rekurs des Drittschuldners mit der Begründung ab, daß die Bindung des Darlehensgebers an seinen künftigen Schuldner insofern eine höchstpersönliche sei, als schon nach der allgemeinen Regel des § 936 ABGB. seine Verpflichtung zur Zuhaltung des Vorvertrages auf Gewährung eines Darlehens bei Vereitlung des Zweckes oder bei Wegfall des Zutrauens des einen oder des anderen Teiles erlösche, weshalb das Bestehen eines klagbaren Anspruches auf Zuhaltung des Versprechens auf Darlehensgewährung regelmäßig und bei öffentlichen Kreditinstituten ausnahmslos verneint werden müsse.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Im Revisionsrekurs sucht die betreibende Partei darzulegen, daß gegen die Pfändung kein Anstand bestehe, zumal der Darlehensbetrag bereits bücherlich sichergestellt sei. Der Revisionsrekurs ist nicht begrundet.
+Der Oberste Gerichtshof hält an seiner in der Entscheidung Slg. 15.821, ausgesprochenen und auch von Klangs Kommentar geteilten Rechtsansicht fest, daß die Forderung auf Erfüllung einer Darlehenszusage nicht Gegenstand der Pfändung sein kann.
+Die Zuzählung eines Darlehens ist Sache des persönlichen Vertrauens, das durch ein Zahlungsverbot erschüttert wird, gleichgültig, ob die Darlehenssumme durch ein Pfand gesichert ist oder nicht. Da unter solchen Umständen die Zusage der Darlehenszuzählung gemäß § 936 ABGB. nicht verbindlich ist, liegt keine im Verkehr stehende Sache im Sinne des § 448 ABGB. vor. Aus diesem Gründe sind die Voraussetzungen für eine Pfändung nicht gegeben. Der angefochtene Beschluß war demnach aus seinen zutreffenden Gründen zu bestätigen.

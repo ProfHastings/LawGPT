@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.09.2021
+Geschäftszahl
+7Ob106/21w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Stefula und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei ***** spA, *****, vertreten durch Dr. Andreas König und andere, Rechtsanwälte in Innsbruck, gegen die beklagte Partei I***** Sp.z.o.o., *****, vertreten durch Mag. Tomasz Gaj, Rechtsanwalt in Wien, wegen 138.672,76 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 8. April 2021,  GZ 1 R 41/21w-55, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die von der Revision der Beklagten geltend gemachte Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, liegt jedoch nicht vor (§ 510 Abs 3 Satz 3 ZPO).
+[2] 		2. Die Vorinstanzen haben zutreffend erkannt, dass das Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR; BGBl 1961/38) auf diesen Sachverhalt anzuwenden ist. Dies ist im Revisionsverfahren auch nicht mehr strittig.
+[3] 		2.1. Am Frachtgeschäft sind regelmäßig drei Personen beteiligt: Als Vertragspartner der Absender, welcher im eigenen Namen und auf eigene oder fremde Rechnung mit dem Frachtführer den Frachtvertrag abschließt und der Frachtführer, der die Beförderung unternimmt. Der Empfänger, dem das Gut abgeliefert werden soll, ist nicht Vertragspartner, es sei denn, er ist zugleich auch Absender (RS0116125 [insb T3] = 3 Ob 257/03w).
+[4] 		Der Frachtvertrag im Sinne der CMR ist ein Konsensualvertrag. Der Frachtbrief hat daher nicht konstitutive, sondern bloß deklarative Bedeutung (vgl Art 4 CMR; RS0062477).
+[5] 		Gemäß Art 9 Abs 1 CMR dient der Frachtbrief bis zum Beweise des Gegenteils als Nachweis für den Abschluss und Inhalt des Beförderungsvertrags sowie für die Übernahme des Gutes durch den Frachtführer. Ein gültiger, dh ordnungsgemäß von Absender und Frachtführer unterzeichneter Frachtbrief ist daher eine widerlegbare Beweisurkunde. Wer also Absender ist, ergibt sich im Allgemeinen aus dem Frachtbrief, jedoch kann die durch die Eintragung begründete Vermutung durch andere Umstände (im Prozess) widerlegt werden (RS0106763 [T4]; 4 Ob 77/06m).
+[6] 		2.2. Unstrittig ist im Revisionsverfahren, dass die Beklagte als Frachtführerin Vertragspartnerin des vorliegenden Frachtvertrags ist und, dass die Klägerin den Frachtbrief ausgestellt, sich als Auftraggeberin (Absenderin) und die M***** AG als Empfängerin genannt und unterschrieben hat. Die Beklagte hat im Verfahren erster Instanz die Echtheit des vom Erstgericht nicht zur Gänze festgestellten Frachtbriefs (Beil ./D), auf dem sowohl die Kurzbezeichnung der Beklagten als Frachtführer als auch die Unterschrift des Vertreters der Beklagten aufscheint, zugestanden, wodurch er mit diesem Inhalt der Entscheidung zu Grunde gelegt werden kann (vgl RS0121557). Damit ist die Rechtsansicht des Berufungsgerichts, wonach der Frachtvertrag zwischen der Klägerin als Absenderin und der Beklagten als Frachtführerin zustande kam, im Einzelfall nicht korrekturbedürftig, ergibt sich doch (spätestens) aus dem Frachtbrief ausreichend klar, dass die M***** AG nicht für sich selbst, sondern im Namen der Klägerin handelte. Ein Vertrag mit dem Machtgeber kommt nämlich selbst dann zustande, wenn der Machthaber zunächst im eigenen Namen kontrahiert und das Vertretungsverhältnis erst im Nachhinein offen legt, sofern der Dritte – wie hier durch seine Unterschrift auf dem Frachtbrief – dem zustimmt (vgl 4 Ob 323/00d).
+[7] 		Damit liegen auch die behaupteten sekundären Feststellungsmängel nicht vor.
+[8] 		3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00106.21W.0915.000

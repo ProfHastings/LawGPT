@@ -1,0 +1,47 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.2016
+Geschäftszahl
+7Ob27/16w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei D***** S*****, vertreten durch Dr. Karl-Heinz Plankel und andere, Rechtsanwälte in Dornbirn, gegen die beklagte Partei A*****, vertreten durch Mag. Martin Paar und Mag. Hermann Zwanzger, Rechtsanwälte in Wien, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 12. November 2015, GZ 50 R 44/15z-11, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 12. März 2015, GZ 16 C 460/14k-7, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 626,52 EUR (darin enthalten 104,42 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Der Kläger begehrt vom beklagten Rechtsschutzversicherer Deckung für die Erhebung einer Stufenklage gemäß Art XLII ff EGZPO für die Leistungsabrechnung aus dem Titel Stornoreserve gegen die Gesellschaft, bei der er als arbeitnehmerähnlicher Handelsvertreter tätig gewesen sei.
+Dem Rechtsschutzversicherungsvertrag liegen die Allgemeinen Rechtsschutzbedingungen 2003 (in Hinkunft: ARB) zugrunde. Diese lauten auszugsweise:
+„Gemeinsame Bestimmungen
+[...]
+Art 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+1. Kein Versicherungsschutz besteht für die Wahrnehmung rechtlicher Interessen [...].
+1.5. [...] aus dem Bereich des Handelsvertreterrechts;
+[...].
+Besondere Bestimmungen
+[...]
+Art 23
+Rechtsschutz in Arbeits- und Dienstrechtssachen
+Der Versicherungsschutz erstreckt sich je nach Vereinbarung auf den Berufs- und/oder Betriebsbereich
+1. Wer ist in welcher Eigenschaft versichert?
+Versicherungsschutz haben
+1.1 Im Berufsbereich
+Der Versicherungsnehmer und [...] in ihrer Eigenschaft als Arbeitnehmer im Sinn des § 51 ASGG für Versicherungsfälle, die mit der Berufsausübung unmittelbar zusammenhängen oder auf dem direkten Weg von und zur Arbeitsstätte eintreten.
+[...]“
+Das Berufungsgericht verneinte die Deckungspflicht. Es ließ die ordentliche Revision zu, weil keine Rechtsprechung des Obersten Gerichtshofs zur Anwendung von Art 7.1.5 ARB auf arbeitnehmerähnliche Handelsvertreter vorliege.
+Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig.
+Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn die bedeutsame Rechtsfrage durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RIS-Justiz RS0112921 [T5]). Dies ist hier der Fall:
+Der Oberste Gerichtshof hat in seiner Entscheidung vom 27. 1. 2016, 7 Ob 156/15i, zu den auch in der vorliegenden Rechtssache, der ein vergleichbarer Sachverhalt zugrunde liegt, aufgeworfenen Rechtsfragen zusammengefasst wie folgt Stellung genommen:
+1. Da die personale Risikoumschreibung in Art 23.1.1. ARB generell „Arbeitnehmer“ im Sinn des § 51 ASGG einschließt, erstreckt sich der Versicherungsschutz nach dieser Bestimmung auf arbeitnehmerähnliche Personen im Sinn des § 51 Abs 3 Z 2 ASGG.
+2. Art 7.1.5. ARB beschreibt den Risikoausschluss nach seinem klaren Wortlaut nicht unmittelbar personenbezogen nach der Rechtsstellung des Versicherungsnehmers. Er differenziert nicht danach, ob der Versicherungsnehmer als selbstständiger oder als arbeitnehmerähnlicher freier Handelsvertreter zu qualifizieren ist, sondern schließt den Versicherungsschutz für die Wahrnehmung rechtlicher Interessen aus dem Bereich des Handelsvertreterrechts aus. Der Risikoausschluss nach Art 7.1.5. ARB ist daher besonders anhand der faktisch ausgeübten Tätigkeit des Versicherungsnehmers und der Qualität der von ihm verfolgten Ansprüche zu beurteilen.
+3. Davon ausgehend beurteilte der Oberste Gerichtshof den Fall, dass eine arbeitnehmerähnliche Person, die im Rahmen eines Strukturvertriebs Kapitalanlagen, Bauspar- und Versicherungsverträge vertreibt, ihre Tätigkeit dabei weitgehend selbst bestimmt und gegen den Unternehmer mit einer Stufenklage die Klärung und Auszahlung von rückverrechneten Leistungsvergütungen anstrebt, mit denen sie wegen stornierter Verträge der ihr zugeordneten Mitarbeiter belastet wurde, als - dem Risikoausschluss des Art 7.1.5. ARB zu unterstellende - Wahrnehmung rechtlicher Interessen aus dem Bereich des Handelsvertreterrechts.
+4. Diese Rechtsansicht wiederholte der Oberste Gerichtshof bisher weiters in den Entscheidungen 7 Ob 177/15b, 7 Ob 213/15x, 7 Ob 9/16y und 7 Ob 20/16s.
+5. Vor diesem Hintergrund hält sich die Beurteilung des Berufungsgerichts innerhalb der nunmehr ständigen oberstgerichtlichen Judikatur, dass der Kläger, der im Rahmen eines Strukturvertriebs Finanzdienstleistungsprodukte vermittelt und gegen den Unternehmer mit einer Stufenklage die Klärung und Auszahlung der Stornoreserve anstrebt, rechtliche Interessen aus dem Bereich des Handelsvertreterrechts wahrnehme und diese Rechtsverfolgung dem Risikoausschluss nach Art 7.1.5. ARB unterliege.
+Die vom Kläger entsprechend dem Zulassungsausspruch des Berufungsgerichts aufgeworfenen Fragen sind daher nicht mehr als erheblich einzustufen, weshalb seine Revision zurückzuweisen ist.
+6. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Konnte der Revisionsgegner bei Erstattung der Rechtsmittelbeantwortung die Unzulässigkeit der Revision nicht erkennen, weil zu diesem Zeitpunkt jene Entscheidung des Obersten Gerichtshofs noch nicht ergangen war, welche die auch im Anlassfall entscheidungswesentliche erhebliche Rechtsfrage beantwortet, so stehen ihm in analoger Anwendung des § 50 Abs 2 ZPO die Kosten der Revisionsbeantwortung auch dann zu, wenn er auf die Unzulässigkeit der Revision nicht hinwies (RIS-Justiz RS0123861).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00027.16W.0316.000

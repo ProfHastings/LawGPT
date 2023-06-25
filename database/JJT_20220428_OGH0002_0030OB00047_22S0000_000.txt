@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+3Ob47/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dr. K*, Rechtsanwalt in Wien, als Insolvenzverwalter im Schuldenregulierungsverfahren über das Vermögen der KR H*, gegen die beklagte Partei V*ges.m.b.H., *, vertreten durch Univ.-Prof. DDDr. Dr.h.c. Dieter G. Kindel, Rechtsanwalt in Wien, wegen Feststellung, Unterlassung und Rechnungslegung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Jänner 2022, GZ 4 R 99/21i-74, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Dass das Berufungsgericht die erstgerichtliche Schlussfolgerung, wonach sich ua die Schuldnerin mit dem Inhalt der Treuhandvereinbarung „einverstanden zeigte“, weder als Nichtbeachtung eines Tatsachengeständnisses noch als überschießend beurteilte, begründet keine erhebliche Rechtsfrage: Die Treuhandvereinbarung mit der Beklagten wurde von der Schuldnerin zwar nicht im eigenen Namen, wohl aber namens jener GmbH unterfertigt, deren Geschäftsführerin und Alleingesellschafterin sie war. Die daraus und aus weiteren Feststellungen von den Vorinstanzen gezogenen Schlussfolgerungen sind unbedenklich gelöste Rechtsfragen der Auslegung von Willenserklärungen (vgl RS0042555).
+[2] 		2. Soweit die Beklagte unterstellt, die Schuldnerin habe zunächst den Kaufvertrag über ihre Liegenschaften unterfertigt und erst danach Kenntnis von der Treuhandvereinbarung erlangt, weshalb aus dem auf ihr Verlangen auf dem Kaufvertrag angebrachten handschriftlichen Zusatz („Ein Verkauf findet nur statt, wenn die vereinbarten Zahlungen und Abwicklungsmodalitäten nicht eingehalten werden.“) nicht abgeleitet werden könne, dass es sich im Sinn der Treuhandvereinbarung um eine bloße Sicherungsübereignung gehandelt habe (sodass dem Kläger die Aktivlegitimation fehle), entfernt sie sich von den Feststellungen. Es steht nämlich fest, dass die faktische Geschäftsführerin der Beklagten die Schuldnerin nach Unterfertigung der Treuhandvereinbarung aufforderte, zur Umsetzung der Sicherungsabrede einen Kaufvertrag über die Liegenschaften zu unterfertigen.
+[3] 		3. Entgegen der Ansicht der Beklagten wäre das ihr übertragene Sicherungseigentum an den Liegenschaften der Schuldnerin selbst dann nicht (offenbar gemeint: automatisch) in ihr Volleigentum übergegangen, wenn die GmbH der Schuldnerin ihre Verpflichtungen aus der Treuhandvereinbarung nicht (vollständig) erfüllt haben sollte (vgl nur 6 Ob 183/05p = RS0075157 [T1] zur analogen Anwendung des Verbots von Verfallsklauseln gemäß § 1371 ABGB ua auf die Sicherungsübereignung). Es bedurfte daher weder der von der Beklagten in diesem Zusammenhang vermissten ergänzenden Feststellungen noch kann es den behaupteten Verfahrensmangel des Berufungsgerichts begründen, dass das Berufungsgericht den handschriftlichen Zusatz auf dem Kaufvertrag ohne die Einvernahme näher bezeichneter Personen zur Frage, ob die GmbH die von ihr übernommenen Zahlungspflichten eingehalten hat, dahin auslegte, dass die Schuldnerin der Beklagten nicht Volleigentum, sondern bloßes Sicherungseigentum an ihren Liegenschaften übertragen habe wollen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00047.22S.0428.000

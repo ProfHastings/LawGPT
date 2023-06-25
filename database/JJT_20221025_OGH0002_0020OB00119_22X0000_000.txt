@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2022
+Geschäftszahl
+2Ob119/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, die Hofräte Dr. Nowotny, MMag. Sloboda und Dr. Kikinger, sowie die Hofrätin Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei B*, Deutschland, vertreten durch Torggler Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. R* und 2. Verlassenschaft nach W*, vertreten durch R* als erbantrittserklärte Alleinerbin, beide *, beide vertreten durch Tuscher Schmidt Rechtsanwälte GmbH in Wien, sowie die Nebenintervenienten auf Seiten der beklagten Parteien 1. K*, Schweiz und 2. Dr. J*, Deutschland, beide vertreten durch Telos Law Group Winalek, Nikodem, Weinzinger Rechtsanwälte GmbH in Wien, wegen Übertragung von Gesellschaftsanteilen (Streitwert: 70.000 EUR), über die außerordentliche Revision der Nebenintervenienten gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 22. März 2022, GZ 15 R 130/21d-62, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Bei der Prüfung der Frage, ob eine außerordentliche Revision einer weiteren Behandlung unterzogen oder verworfen werden soll, hat sich der Oberste Gerichtshof auf jene Gründe zu beschränken, die in der Zulassungsbeschwerde angeführt wurden; andere mögliche Rechtsfehler sind, selbst wenn diesen erhebliche Bedeutung zukommen könnte, nicht zu untersuchen (RS0043644 [T3, T4]).
+2. Rechtsprechung zu Art 83 Abs 4 EuErbVO:
+[2] 			2.1. Die Klägerin wendet sich gegen die Rechtsansicht des Berufungsgerichts, wonach die Rechtswahlfiktion gemäß Art 83 Abs 4 EuErbVO für die gesamte Rechtsnachfolge von Todes wegen gelte. Dies ergebe sich nicht aus der Entscheidung C-277/20 des EuGH; dieser Entscheidung liege eine bewusst vorgenommene Rechtswahl zugrunde (Art 83 Abs 2 EuErbVO). Tatsächlich liege zu Art 83 Abs 4 EuErbVO keine Rechtsprechung des EuGH (und des Obersten Gerichtshofs) vor.
+[3] 		2.2. Art 83 Abs 4 EuErbVO lautet: „Wurde eine Verfügung von Todes wegen vor dem 17. 8. 2015 nach dem Recht errichtet, welches der Erblasser gemäß dieser Verordnung hätte wählen können, so gilt dieses Recht als das auf die Rechtsfolge von Todes wegen anzuwendende gewählte Recht.“ Rechtsprechung des EuGH zu Art 83 Abs 4 EuErbVO liegt – im Gegensatz zu der in der Revision vertretenen Ansicht – vor:
+[4] 			2.2.1. Zu C-422/20 sprach der EuGH aus, für den Fall der Errichtung einer Verfügung von Todes wegen vor dem 17. 8. 2015 nach dem Recht, welches der Erblasser gemäß dieser Verordnung hätte wählen können, gelte dieses Recht gemäß Art 83 Abs 4 der EuErbVO als das auf die Rechtsfolge von Todes wegen anzuwendende gewählte Recht. Er führt in Rn 53 weiters aus: Mithin begründet diese Vorschrift für die Zeit, bevor diese Verordnung anwendbar wurde, eine Vermutung für die Wahl des auf die Rechtsfolge von Todes wegen anzuwendenden Rechts, die dieselbe Wirkung hat wie die nach den Bestimmungen dieser Verordnung getroffene Wahl (EuGH C-422/20, Rz 52, 53).
+[5] 		2.2.2. Auch zu C-80/19 sprach der EuGH aus, die Anwendung von Art 83 Abs 4 EuErbVO habe zur Folge, dass das damit (fingiert) gewählte Recht als das auf die im Ausgangsverfahren in Rede stehende Rechtsnachfolge von Todes wegen anzuwendende gewählte Recht gelte (EuGH C-80/19, Rz 94).
+[6] 		Die erwähnten Voraussetzungen für die Annahme einer fingierten Rechtswahl haben die Vorinstanzen zu Recht als vorliegend angenommen.
+[7] 		3. Die Klägerin moniert als erhebliche Rechtsfrage weiters, das Berufungsgericht habe den Erbvertrag nach deutschem Recht unrichtig ausgelegt. Der Oberste Gerichtshof ist nicht dazu berufen, für die Einheitlichkeit oder Rechtsfortbildung fremden Rechts Sorge zu tragen oder Leitlinien zum richtigen Verständnis dieses Rechts zu entwickeln (RS0042940 [T8]; RS0042948 [T20]; RS0080958 [T2]). Die Revision ist bei Anwendung fremden Rechts daher nur dann zulässig, wenn dieses Recht unzutreffend ermittelt oder eine in seinem ursprünglichen Geltungsbereich in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt worden wäre oder wenn grobe Subsumtionsfehler vorlägen, die richtiggestellt werden müssten (RS0042940 [T9]; RS0042948 [T21]). Die Rechtsrüge einer außerordentlichen Revision muss bei Anwendung fremden Rechts ein Abweichen des Berufungsgerichts von der ausländischen Entscheidungspraxis bzw Lehre oder grobe Beurteilungsfehler im Einzelfall konkret aufzeigen (RS0042948 [T9, T21]). Derartiges legt die Revision nicht dar.
+[8] 		4. Damit liegt eine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO insgesamt nicht vor.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00119.22X.1025.000

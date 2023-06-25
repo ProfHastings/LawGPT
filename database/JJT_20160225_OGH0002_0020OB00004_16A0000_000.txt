@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.02.2016
+Geschäftszahl
+2Ob4/16a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden und die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé und den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei T***** O*****, vertreten durch Prutsch & Partner, Rechtsanwälte in Graz, gegen die beklagten Parteien 1. ***** F***** M***** H*****, vertreten durch Dr. Helmut Destaller und Dr. Gerald Mader, Rechtsanwälte in Graz, 2. ***** H***** S*****, vertreten durch Dr. Edwin A. Payr, Rechtsanwalt in Graz, 3. S***** GmbH, *****, vertreten durch Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH in Graz, wegen 54.946,70 EUR sA und Feststellung (Streitwert 5.000 EUR), über die außerordentliche Revision der drittbeklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 1. Dezember 2015, GZ 3 R 175/15b-54, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. § 58a Abs 1 ÄrzteG begründet nach ständiger Rechtsprechung keine Ablauf-, sondern eine Fortlaufhemmung (10 Ob 57/06i, Zak 2007, 36; 2 Ob 263/09d, EvBl 2010/153 [zust Fidler]; RIS-Justiz RS0121579). Zwar ist es richtig, dass die Gesetzesmaterialien (auch) den Begriff „Ablauf“ verwenden; unmittelbar darauf folgt aber die Formulierung „dh der Beginn oder die Fortsetzung der begonnenen Verjährung wird hinausgeschoben“ (EB zur RV der 2. Ärztegesetz-Novelle BGBl I 2001/110, 629 BlgNR 21. GP 56). Dies kann, wie auch der Gesetzeswortlaut selbst („so ist der Lauf“ - also nicht nur der Ablauf - „der Verjährungsfrist gehemmt“), nur im Sinn einer Fortlaufhemmung verstanden werden. Tragfähige Gründe für ein Abgehen von dieser Rechtsprechung zeigt die Revision nicht auf.
+2. Die Hemmung tritt nach § 58a Abs 1 Satz 2 ÄrzteG auch ein, „wenn ein Patientenanwalt oder eine ärztliche Schlichtungsstelle vom angeblich Geschädigten oder vom angeblichen Schädiger oder von einem ihrer bevollmächtigten Vertreter schriftlich um Vermittlung ersucht wird, in welchem Falle die Hemmung an jenem Tag beginnt, an welchem dieses Ersuchen beim Patientenanwalt oder bei der ärztlichen Schlichtungsstelle einlangt“. In diesem Fall ist - anders als in jenem des § 58a Abs 1 Satz 1 ÄrzteG - keine schriftliche Erklärung des Anspruchsgegners erforderlich, dass er zu Verhandlungen über eine außergerichtliche Regelung bereit sei. Sollte die Schlichtungsstelle - wie hier behauptet - nach den internen Regelungen ihres Rechtsträgers (Ärztekammer) für den konkreten Fall nicht zuständig gewesen sein, ist das jedenfalls dann verjährungsrechtlich unerheblich, wenn sich der Anspruchsgegner - wie hier - in das Verfahren vor dieser Stelle eingelassen hat. Denn die (protokollierte und mit nachfolgendem Anwaltsschreiben bestätigte) Einlassung in dieses Verfahren ist der schriftlichen Erklärung iSv § 58a Abs 1 Satz 1 ÄrzteG jedenfalls gleichzuhalten. Damit wäre auch nach dieser Bestimmung die Fortlaufhemmung eingetreten.
+3. Richtig ist, dass an der Feststellung einer verjährten Forderung kein rechtliches Interesse besteht (RIS-Justiz RS0034358; zuletzt etwa 6 Ob 153/15s). Verjährung liegt hier aber wegen der Fortlaufhemmung gerade nicht vor.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0020OB00004.16A.0225.000

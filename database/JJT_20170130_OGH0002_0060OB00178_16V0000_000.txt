@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.2017
+Geschäftszahl
+6Ob178/16v
+Kopf
+Der  Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei P***** W*****, vertreten durch Mag. Dr. Rainer W. Böhm, Rechtsanwalt in Wien, gegen die beklagte Partei S***** GmbH, *****, vertreten durch Bichler Zrzavy Rechtsanwälte GmbH in Wien, wegen Datenlöschung (Streitwert 42.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 6. Juli 2016, GZ 12 R 32/16p-15, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 15. Februar 2016, GZ 10 Cg 57/15y-10, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Der Kläger ist schuldig, der Beklagten die mit 2.213,10 EUR (darin 368,85 EUR Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Der Kläger verfügte ab dem Jahr 2000 über eine „P*****Card“ der Beklagten, die von dieser am 17. 6. 2005 gesperrt wurde, nachdem der Kläger seinen Zahlungsverpflichtungen aus dem Kreditkartenvertrag nicht nachgekommen war. Am 21. 7. 2005 wurde über das Vermögen des Klägers das Schuldenregulierungsverfahren eröffnet, in welchem die Beklagte eine Forderung von 1.355,94 EUR anmeldete. Den am 19. 6. 2006 rechtskräftig bestätigten Zahlungsplan erfüllte der Kläger in weiterer Folge, wobei die Beklagte eine Quote von 23 % ihrer ursprünglichen Gesamtforderung erstattet erhielt. Am 24. 9. 2013 erfolgte die Löschung der Eintragung des Schuldenregulierungsverfahrens in der Insolvenzdatei.
+Die Beklagte speichert folgende Daten über den Kläger, ohne diese an Dritte – auch nicht an Banken – weiterzugeben:
+P***** W*****
+*****gasse *****
+***** W*****
+Geburtsdatum *****
+Telefon *****
+E-Mail: p*****.w*****@ inode. at
+Führerscheinnummer: *****
+*****Card: *****
+Kartenantrag erfasst: 24. 08. 2000
+Karte gesperrt am 17. 06. 2005
+Rechtsfall am: 28. 09. 2005
+Privatkonkurs erfüllt am 05. 06. 2013
+Quote 23 %
+Der Kläger begehrt die Löschung der bei der Beklagten über ihn gespeicherten Daten, welche das Schuldenregulierungsverfahren betreffen. Die Eintragung in der Insolvenzdatei sei wegen nachweislicher Erfüllung des Zahlungsplans am 24. 9. 2013 gelöscht worden; auch der KSV 1870 habe die über ihn gespeicherten Daten gelöscht. Seit Beendigung des Schuldenregulierungsverfahrens fehle es an einer rechtlichen Grundlage zur Datenspeicherung.
+Die Beklagte wendete ein, sie habe die Daten gemäß § 212 UGB und § 132 BAO sieben Jahre lang aufzubewahren, wobei die Ausbuchung der die 23%ige Quote übersteigenden Forderung erst nach Beendigung des Schuldenregulierungsverfahrens des Klägers erfolgt sei; bis dahin habe sie die offene Restforderung in ihrer Buchhaltung auszuweisen gehabt.
+Die Vorinstanzen wiesen übereinstimmend das Klagebegehren ab. Das Berufungsgericht sprach darüber hinaus aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteigt und dass die Revision zulässig ist; es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, ob eine Datenaufbewahrung aufgrund der Verpflichtungen nach § 212 UGB bzw §§ 124 ff BAO gerechtfertigt sein könne.
+Rechtliche Beurteilung
+Die Revision ist unzulässig.
+Auf die vom Berufungsgericht als erheblich bezeichnete Rechtsfrage kommt es nicht an:
+Der Kläger geht selbst nicht davon aus, dass die von ihm beanstandeten Daten ursprünglich unrichtig oder unzulässigerweise ermittelt oder gespeichert wurden. Nach § 27 Abs 1 DSG gelten zwar Daten, die für den Zweck der Datenanwendung nicht mehr benötigt werden, als unzulässig verarbeitete Daten und sind zu löschen, es sei denn, dass ihre Archivierung rechtlich zulässig und dass der Zugang zu diesen Daten besonders geschützt ist. Eine seinerzeit rechtmäßige Verarbeitung kann also durch Zeitablauf unzulässig werden, weil nach Interessenabwägung und selbst unter Bedachtnahme auf gesetzliche Vorschriften die weitere Aufbewahrung auf keinen rechtlich hinreichenden Grund mehr gestützt werden kann (Dohr/Pollirer/Weiss/Knyrim, DSG² § 27 Anm 10, § 6 Anm 10). Das Datenschutzgesetz 2000 selbst gibt dabei keine vordefinierten, fixen Fristen für die Datenspeicherung vor (Jahnel, Handbuch Datenschutzrecht [2010] Rz 4/110).
+Die Revision bekämpft nun im Ergebnis auch für die weitere Speicherung nicht konkret die Anwendung des § 212 UGB und der §§ 124 ff BAO, sodass es dem Obersten Gerichtshof verwehrt ist, die Rechtsansicht der Vorinstanzen dazu unter dem Aspekt der Geltendmachung einer erheblichen Rechtsfrage zu überprüfen (RIS-Justiz RS0102181). Die Revision bemängelt insoweit nur, dass die Daten nicht entsprechend jenen in der Ediktsdatei gelöscht wurden und dass über diese Daten auch weiter Auskunft erteilt wurde. Die Löschung der Daten in der Ediktsdatei fußt jedoch auf § 256 IO, der auf die nach § 132 BAO und § 212 UGB aufzubewahrenden „Bücher“, „Belege“  bzw  „Geschäftspapiere und  sonstige Unterlagen“ nicht zur Anwendung gelangt. Die Verpflichtung zur Erteilung der Auskunft wiederum ergibt sich aus § 26 DSG.
+Die Ausführungen der Revision zu einer „Interessenabwägung“ verkennen, dass sich die Beklagte ja gar nicht auf das Vorliegen eines überwiegenden Interesses an der Aufbewahrung von Bonitätsdaten (vgl in diesem Sinne im bestimmten Umfang selbst für Inkassobüros die Empfehlung der Datenschutzkommission zu K 211.773/0009-DSK/2007, ErwGr 2.1.) berufen (§ 8 Abs 1 Z 4 DSG) oder das Vorliegen der allgemeinen Voraussetzungen für die Archivierung (vgl § 27 Abs 1 Z 2 DSG) eingewendet, sondern im Ergebnis geltend gemacht hat, dass sie eine gesetzliche Verpflichtung (§ 212 UGB, § 132 BAO) trifft (§ 8 Abs 1 Z 1 DSG). Dass der Kläger (wie er in der Revision meint) bei der Beklagten keine Kreditkarte (mehr) bekomme, ist zum einen nicht maßgeblich, weil die Beklagte kein Kontrahierungszwang trifft (was auch der Kläger gar nicht behauptet) und auch andere Kreditkartenunternehmen in Österreich auf dem Markt tätig sind. Zum anderen entspricht diese Behauptung auch nicht den Feststellungen der Vorinstanzen. Der Kläger erhielt von der Beklagten bereits mehrfach Prepaidkarten; die Ausstellung einer Kreditkarte mit einem Rahmen von 5.000 EUR scheiterte hingegen (nur) daran, dass der Kläger nicht in der Lage war, eine Garantieerklärung seiner Bank (eine solche wird von jedem Kunden verlangt) beizubringen.
+Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Die Beklagte hat in ihrer Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00178.16V.0130.000

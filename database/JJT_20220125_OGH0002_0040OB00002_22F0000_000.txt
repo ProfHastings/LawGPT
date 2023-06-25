@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2022
+Geschäftszahl
+4Ob2/22f
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Schwarzenbacher als Vorsitzenden und die Hofräte und Hofrätinnen Hon.-Prof. PD Dr. Rassi, Dr. Kodek, MMag. Matzka sowie Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei R* OG, *, gegen die beklagte Partei S* T*, vertreten durch DAX WUTZLHOFER UND PARTNER RECHTSANWÄLTE GMBH in Oberwart, wegen 7.950,81 EUR sA, über den „Rekurs“ der klagenden Partei gegen den Beschluss des Landesgerichts Eisenstadt als Rekursgericht vom 25. November 2021, GZ 13 R 174/21t, 13 R 180/21z, 13 R 181/21x-27, womit die Rekurse der klagenden Partei gegen die Beschlüsse des Bezirksgerichts Oberwart vom 20. August 2021, GZ 5 C 95/21i-15, und vom 23. August 2021, GZ 5 C 95/21i-17, zurückgewiesen wurden, den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Das Erstgericht verlegte mit Beschluss vom 20. August 2021 eine für den 23. August 2021 anberaumte Tagsatzung auf den 4. Oktober 2021. Aufgrund des dagegen vom Kläger erhobenen Rekurses beraumte das Erstgericht mit Beschluss 23. August 2021 die Tagsatzung am 4. Oktober 2021 ab.
+[2] 		Mit dem angefochtenen Beschluss wies das Rekursgericht die Rekurse des Klägers gegen die beiden Beschlüsse des Erstgerichts wegen nachträglichen Wegfalls der Beschwer zurück. Beide Termine für die Tagsatzungen seien zum Zeitpunkt der Rekursentscheidung bereits verstrichen. Das Rekursgericht sprach dem Kläger für die Rekurse keine Kosten zu. Es nahm dabei keine hypothetische Prüfung des Erfolgs der beiden Rekurse nach § 50 Abs 2 ZPO vor, sondern begründete die Kostenentscheidung damit, dass die Rekurse nicht zur zweckentsprechenden Rechtsverfolgung notwendig gewesen seien. Es sprach aus, dass der Revisionsrekurs nicht zulässig sei, was es unter Hinweis auf § 528 Abs 2 Z 2 ZPO begründete.
+[3] 		Gegen die Rekursentscheidung richtet sich der „Rekurs“ des Klägers, den das Erstgericht unmittelbar dem Obersten Gerichtshof vorlegte.
+[4] 		Diese Vorgangsweise widerspricht der Rechtslage.
+Rechtliche Beurteilung
+[5] 		1. Der Kläger geht zu Unrecht davon aus, dass § 519 Abs 1 Z 1 Fall 2 ZPO („Vollrekurs“) auf die Zurückweisung seiner Rekurse anzuwenden ist (RS0044501). Ein (richtig:) Revisionsrekurs kommt hier vielmehr nur unter den Voraussetzungen des § 528 ZPO in Betracht (RS0044501 [T10]).
+[6] 		2. Entgegen der Rechtsansicht des Rekursgerichts ist ein Revisionsrekurs gegen die Rekursentscheidung nicht aufgrund der Bestimmung des § 528 Abs 2 Z 2 ZPO jedenfalls unzulässig.
+[7] 		2.1 Ein bestätigender Beschluss liegt grundsätzlich dann vor, wenn entweder in beiden Instanzen meritorisch oder formal entschieden wurde. Hat das Rekursgericht den Rekurs zwar zurückgewiesen, diesen aber (auch) inhaltlich behandelt, liegt ein bestätigender Beschluss vor (RS0044456 [T4, T6]). Es reicht dabei aus, dass die meritorische Überprüfung im Rahmen einer Hilfsbegründung erfolgt (RS0044232 [T16]).
+[8] 		2.2 Ein solcher Fall liegt hier nicht vor, weil das Rekursgericht auf die Entscheidungen des Erstgerichts inhaltlich nicht eingegangen ist und demnach nicht meritorisch entschieden hat. Es bleibt unklar, ob das Rekursgericht die Verlegung bzw Abberaumung der Tagsatzungen durch das Erstgericht als zutreffend erachtet.
+[9] 		3.1 Gemäß § 528 Abs 2 Z 1a ZPO ist der Revisionsrekurs aber dann unzulässig, wenn der Entscheidungsgegenstand an Geld oder Geldeswert zwar 5.000 EUR, nicht aber insgesamt 30.000 EUR übersteigt und das Rekursgericht den Revisionsrekurs für nicht zulässig erklärt hat. Ein solcher Fall liegt hier vor.
+[10] 		3.2 Eine Partei kann jedoch nach § 528 Abs 2a ZPO iVm § 508 ZPO den Antrag an das Rekursgericht stellen, seinen Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde.
+[11] 		3.3 Der Rechtsmittelschriftsatz ist in einem solchen Fall nicht dem Obersten Gerichtshof vorzulegen, sondern dem Rekursgericht (RS0109620). Ob der dem Rekursgericht vorzulegende Schriftsatz den Erfordernissen des § 528 Abs 2a ZPO und § 508 Abs 1 ZPO entspricht, bleibt der Beurteilung der Vorinstanzen vorbehalten (RS0109620 [T2], RS0109623 [T5, T8]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00002.22F.0125.000

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.2022
+Geschäftszahl
+4Ob119/22m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek sowie die Hofräte Dr. Schwarzenbacher, Dr. Nowotny und Hon.-Prof. PD Dr. Rassi und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei S* KG, *, vertreten durch Dr. Franz Krainer, Rechtsanwalt in Graz, gegen die beklagte Partei H* GmbH, *, vertreten durch die Hohenberg Rechtsanwälte GmbH in Graz, wegen 84.521,61 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz vom 12. Mai 2022, GZ 5 R 170/21s-33, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin ließ von ihr angebaute Biofrüchte bei einer lebensmittelverarbeitenden Dritten zu Saft pressen und den Saft dort lagern.
+[2] 		Die Lagerhalterin bestellte bei der Beklagten telefonisch eine Analyse zu lebensmittelchemischen Eigenschaften des Saftes, ohne die Klägerin dabei zu erwähnen.
+[3] 		Nachdem die Beklagte der Lagerhalterin ihren Prüfbericht und die Rechnung übermittelt hatte, ersuchte die Lagerhalterin, die Rechnung auf die Klägerin umzuschreiben. Diese werde die Rechnung „anstatt“ der Lagerhalterin bezahlen. Die Beklagte übermittelte der Klägerin die Rechnung mit automatisch generierter E-Mail mit dem Text: „Wir danken für Ihren Auftrag und erlauben uns in der Beilage die Rechnung in elektronischer Form zu übermitteln.“
+[4] 		Die Klägerin begehrt Schadenersatz wegen eines unrichtigen Analyseergebnisses. Der Fruchtsaft hätte bei sofortiger Bekanntgabe eines fehlerfreien Prüfberichts noch pasteurisiert und verkauft werden können. Tatsächlich sei der Saft verdorben, bevor die Beklagte ihren Berechnungsfehler bemerkt habe. Die Klägerin sei spätestens mit dem Umschreiben der Rechnung zur Vertragspartnerin der Beklagten geworden, weil diese dadurch einer befreienden Schuldübernahme durch die Klägerin zugestimmt habe.
+[5] 		Die Beklagte bestritt unter anderem die Aktivlegitimation der Klägerin. Die Lagerhalterin habe der Beklagten den Analyseauftrag im eigenen Namen erteilt und sei daher ihre Vertragspartnerin. Die Klägerin habe auch nie erklärt, in den Vertrag einzutreten, sondern nur die Rechnung „anstatt“ der Lagerhalterin zu zahlen. Selbst durch die behauptete Schuldübernahme hätte die Klägerin nur Pflichten, aber keine Rechte aus einem Vertrag zwischen Lagerhalterin und Beklagter erwerben können.
+[6] 		Die Vorinstanzen wiesen die Klage ab, weil sich aus dem Sachverhalt nicht ableiten lasse, dass die Beklagte die Klägerin als neue Vertragspartnerin akzeptiert habe. Selbst falls eine privative Schuldübernahme für die Entgeltzahlungspflicht der Lagerhalterin stattgefunden habe, habe die Klägerin damit keine Rechte aus dem Vertrag zwischen Lagerhalterin und Beklagter erworben, insbesondere kein Recht auf Erhalt eines (richtigen) Prüfberichts.
+Rechtliche Beurteilung
+[7] 		In ihrer dagegen erhobenen außerordentlichen Revision zeigt die Klägerin keine erhebliche Rechtsfrage auf.
+[8] 		Das Rechtsmittel enthält nur Argumente, wieso das Umschreiben der Rechnung als Akzeptanz einer Schuldübernahme zu werten sei. Mit der rechtlichen Beurteilung der Vorinstanzen, dass eine Schuldübernahme der Klägerin nur (einzelne oder alle) vertragliche Pflichten, aber keine Rechte übertrage, setzt sich die Klägerin dabei nicht auseinander. Die referierten Rechtsansichten sind daher für die Lösung des konkreten Falls irrelevant, also nicht präjudiziell (RS0088931 [T2, T4]). Die Revision ohne Bezug zur tragenden Begründung der Vorinstanzen ist daher zurückzuweisen (RS0118709 [T4]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00119.22M.0630.000

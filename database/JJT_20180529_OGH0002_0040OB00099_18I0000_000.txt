@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2018
+Geschäftszahl
+4Ob99/18i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei W* S*, vertreten durch Mag. Matthias Leitner, Rechtsanwalt in Wien, gegen die beklagte Partei DI J* S*, vertreten durch Dr. Alexander Skribe, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der beklagten Partei gegen das Teilurteil des Landesgerichts für Zivilrechtssachen Wien vom 7. März 2018, GZ 38 R 366/17f-126, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+1. Der Kläger ist Vermieter, der Beklagte Mieter einer Wohnung in Wien. Mit rechtskräftigem Urteil des Bezirksgerichts Innere Stadt Wien vom 2. 8. 2008 zu AZ * wurde der Beklagte zur Zahlung des Mietzinsrückstands für den Zeitraum Jänner 2005 bis Mai 2008 in Höhe von 8.938,32 EUR samt Zinsen und Kosten verurteilt. Der Beklagte hat diesen Mietzinsrückstand in der Folge nicht bezahlt.
+Mit der nunmehrigen Räumungsklage erklärte der Kläger gegenüber dem Beklagten die Auflösung des Mietverhältnisses nach § 1118 ABGB und begehrte die Räumung des Mietobjekts. Die Vorinstanzen gaben der Räumungsklage statt.
+Rechtliche Beurteilung
+Der Beklagte zeigt in der außerordentlichen Revision keine erhebliche Rechtsfrage auf.
+2. Ein die Auflösung eines Mietvertrags nach § 1118 zweiter Fall ABGB rechtfertigender qualifizierter Mietzinsrückstand liegt vor, wenn der Mieter den Mietzins trotz gehöriger Mahnung nicht bis zum nächsten, der Mahnung nachfolgenden Zinstermin gezahlt hat (RIS-Justiz RS0021152; 8 Ob 92/11d). Die Mahnung iSd § 1118 ABGB kann – wie hier im Vorverfahren – auch durch Zustellung einer Mietzinsklage (oder einer Mietzins- und Räumungsklage; vgl dazu RIS-Justiz RS0127321) erfolgen. Hat der Vermieter den Mieter schon vor Zustellung der Räumungsklage gemahnt, so ist die auf § 1118 zweiter Fall ABGB gestützte Räumungsklage des Vermieters als – mit Zustellung der Klage zugegangene – Erklärung der Auflösung des Mietverhältnisses zu werten (RIS-Justiz RS0105354; 8 Ob 83/13h; 3 Ob 37/18i).
+Trifft den Mieter am entstandenen Zahlungsrückstand ein grobes Verschulden, so entfallen – im Bereich des Kündigungsschutzes des Mietrechtsgesetzes (8 Ob 78/16b) – sowohl die Beschlussfassung gemäß § 33 Abs 2 MRG als auch die Fällung eines Teilurteils über den Mietzinsrückstand im Fall eines auf Räumung und Zahlung geführten Rechtsstreits (9 Ob 67/09g). Eine Beschlussfassung nach § 33 Abs 2 MRG entfällt überdies auch dann, wenn über den geltend gemachten Mietzinsrückstand bereits ein Zahlungstitel vorliegt (RIS-Justiz RS0070435).
+3. Die Vorinstanzen sind von dieser Rechtsprechung nicht abgewichen.
+Auch in der Beurteilung, dass sie an das rechtskräftige Urteil im Vorverfahren über die Mietzinsklage gebunden sind, ist ihnen kein korrekturbedürftiger Fehler unterlaufen.
+4.1 Bindungswirkung der rechtskräftigen Entscheidung im Vorprozess ist dann gegeben, wenn der als Hauptfrage rechtskräftig entschiedene Anspruch eine Vorfrage für den Anspruch im zweiten Prozess bildet (RIS-Justiz RS0042554; RS0041180). Die Bindungswirkung setzt demnach Präjudizialität der rechtskräftigen Vorentscheidung für den Folgeprozess voraus. Dies gilt etwa für die Verurteilung des Mieters zur Mietzinszahlung im Verhältnis zu einem folgenden Kündigungs- oder Räumungsprozess wegen Nichtzahlung dieses Mietzinses.
+4.2 Der Beklagte bezieht sich in der außerordentlichen Revision auf die Rechtsprechung, wonach im Verfahren über eine Mietzinsklage die Frage nach der Angemessenheit des Mietzinses (§ 46a MRG) oder nach der Höhe des gültig vereinbarten Mietzinses nur eine Vorfrage betrifft (RIS-Justiz RS0070570). Ein solcher Fall liegt hier aber nicht vor. Der Urteilsspruch aus dem Vorverfahren betrifft den Mietzinsrückstand des Beklagten für den Zeitraum Jänner 2005 bis Mai 2008. Vor allem wegen dieses Mietzinsrückstands hat der Kläger im hier vorliegenden Verfahren die Auflösung des Mietvertrags begehrt.
+5. Insgesamt ist die Beurteilung der Vorinstanzen, dass ein titelmäßig festgestellter qualifizierter Mietzinsrückstand des Beklagten besteht und ihn an der jahrelangen Nichtzahlung dieses Rückstands ein grobes Verschulden trifft, weshalb die Voraussetzungen für die Auflösung des Mietvertrags nach § 1118 ABGB gegeben sind, nicht korrekturbedürftig.
+Mangels erheblicher Rechtsfrage war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E121981

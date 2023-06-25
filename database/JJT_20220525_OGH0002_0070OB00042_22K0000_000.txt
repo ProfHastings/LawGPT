@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+7Ob42/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei D* GmbH, *, vertreten durch Dr. Bernhard Brehm, LL.M., Rechtsanwalt in Wien, und deren Nebenintervenientin C* GmbH, *, vertreten durch Dr. Manfred Sommerbauer, DDr. Michael Dohr, LL.M., LL.M., Rechtsanwälte in Wiener Neustadt, gegen die beklagte
+Partei H* AG, *, vertreten durch Mag. Peter Fasching, Rechtsanwalt in Wien, wegen 13.498,60 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. November 2021, GZ 60 R 119/21m-57, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 21. Juli 2021, GZ 2 C 558/19a-53, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei und der Nebenintervenientin die mit jeweils 1.017,90 EUR (darin enthalten 169,65 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Kaskoversicherungsvertrag, dem die Allgemeinen Bedingungen für die Fahrzeugkaskoversicherung (AVBK 2014) zugrunde liegen. Diese lauten auszugsweise wie folgt:
+„Artikel 1 Was kann versichert werden? (Möglicher Umfang der Versicherung)
+1. Versichert sind das Fahrzeug und seine Teile, die im versperrten Fahrzeug verwahrt oder an ihm befestigt sind, gegen Beschädigung, Zerstörung und Verlust: [...]
+2. Was kann versichert werden?
+Der nachstehend angeführte Versicherungs-
+umfang richtet sich nach der jeweils ausgewählten Kaskovariante und wird in der Polizze angeführt.
+[...]
+2.10. Naturgewalten: unmittelbare Einwirkung von Blitzschlag, Felssturz, Steinschlag, Erdrutsch, Lawinen, Schneedruck, Hagel, Hochwasser, Muren, Überschwemmungen und Sturm (wetterbedingte Luftbewegung von mehr als 60 km/h). Eingeschlossen sind Schäden, die dadurch verursacht werden, dass durch diese Naturgewalten Gegenstände auf oder gegen das Fahrzeug geworfen werden.
+[...]“
+[2] 		Das Berufungsgericht ließ die ordentliche Revision zu, weil zur Frage, ob ein Blitzschlag in der vorliegenden Konstellation eine unmittelbare Einwirkung im Sinn der AVBK 2014 darstelle, keine höchstgerichtliche Rechtsprechung vorliege. Da die Beklagte in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[3] 		1. Die behauptete Aktenwidrigkeit des Berufungsverfahrens wurde geprüft, liegt jedoch nicht vor (§ 510 Abs 3 Satz 3 ZPO).
+Rechtliche Beurteilung
+[4] 		2.1. Der Versicherungsnehmer, der eine Versicherungsleistung beansprucht, muss die anspruchsbegründende Voraussetzung des Eintritts des Versicherungsfalls beweisen (RS0080003).
+[5] 		2.2. Gemäß Art 1.1. iVm Art 2.10. AVBK 2014 ist das Fahrzeug der Klägerin gegen Beschädigung, Zerstörung und Verlust durch unmittelbare Einwirkung bestimmter Naturgewalten versichert. Das Erfordernis der „unmittelbaren“ Einwirkung von Naturgewalten ist eine primäre Risikobeschreibung (RS0128833). Unmittelbares Einwirken ist gegeben, wenn die Naturgewalt einzige oder letzte Ursache für den Schaden ist. Eine unmittelbare Einwirkung der Naturgewalt ist immer auch dann gegeben, wenn die versicherte Sache sofort in dem Zeitpunkt beschädigt oder zerstört wird, in dem die Einwirkung der Naturgewalt erfolgt. Führt dagegen das Naturereignis nur auf einem Umweg zu einem Sachschaden an versicherten Sachen, so haftet der Versicherer nur dann, wenn die Allgemeinen Versicherungsbedingungen vorsehen, dass Entschädigung auch geleistet wird, wenn die Schäden Folgen des versicherten Risikos sind (7 Ob 152/97x mwN [EKB 1993]; 7 Ob 76/13x [AKKB 2009]). Bei einem Blitzschlag ist der unmittelbare Übergang des Blitzes auf die versicherte Sache maßgebend (7 Ob 76/13x).
+[6] 		2.3. Im vorliegenden Fall bewirkte der Einschlag eines Blitzes in einen in der Nähe des Fahrzeugs befindlichen Verteilerkasten, an den das Fahrzeug nicht angeschlossen war, einen plötzlich anliegenden und hohen Potentialunterschied, wodurch das Karosseriesteuergerät, das Motorsteuergerät, die Lichtmaschine, die Batterie und diverse Sensoren des Fahrzeugs beschädigt wurden. Diese elektronischen Bauteile wurden sofort, als der Potentialunterschied auftrat und dadurch Strom fließen konnte, beschädigt. An diesem Sachverhalt vermag die selektive Wiedergabe der Feststellungen durch die Revisionswerberin, die die ihrem Zitat unmittelbar vorangehende Konstatierung über die sofortige Beschädigung des PKW vernachlässigt, nichts zu ändern.
+[7] 		2.4. Die Rechtsansicht des Berufungsgerichts, dass die versicherte Sache sofort im Zeitpunkt der Einwirkung der Naturgewalt und nicht über einen Umweg beschädigt wurde, ist nicht korrekturbedürftig, wurden die elektronischen Bauteile des Fahrzeugs doch sofort im Zeitpunkt des durch den Blitz verursachten Auftretens des Potentialunterschieds, also durch den Spannungskegel des Blitzes, beschädigt. Es kam somit zum unmittelbaren Übergang des Blitzes auf die versicherte Sache. Darin liegt der wesentliche Unterschied zur Entscheidung 7 Ob 76/13x, weil dort der Blitzschlag an der Elektrik des Hotels eine Überspannung auslöste, die sich über das an die Steckdose angeschlossene Batterie-Ladegerät auf das Fahrzeug übertrug und zum eingetretenen Schaden führte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00042.22K.0525.000

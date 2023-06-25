@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.1971
+Geschäftszahl
+7Ob29/71
+Norm
+ZPO §193 Abs2;
+ZPO §194;
+ZPO §261 Abs6;
+Kopf
+SZ 44/36
+Spruch
+Wurde die Verhandlung nach § 103 Abs 2 ZPO wieder eröffnet, so haben die Parteien die Möglichkeit, Tatsachen vorzubringen und Anträge zu stellen. Diese Wirkung der Wiedereröffnung der Verhandlung wird dadurch nicht beseitigt, daß eine nach Wiedereröffnung anberaumte Verhandlungstagsatzung abberaumt wird. Mit einem nach Wiedereröffnung eingebrachten Überweisungsantrag iS des § 261 Abs 6 ZPO verstößt der Kläger daher nicht gegen das Gebot, daß ein Überweisungsantrag nur bis zum Schluß der mündlichen Verhandlung über die Unzuständigkeitseinrede gestellt werden kann
+OGH 24. 3. 1971, 7 Ob 29/71 (OLG Innsbruck 2 R 206/70; LG Feldkirch 6 Cg 2457/69)
+Text
+Mit der Behauptung, er sei als Gast des dem Beklagten gehörigen Hotels H vor den Stufen des Hoteleinganges auf einer vereisten, jedoch nicht bestreuten Stelle zum Sturz gekommen und habe sich verletzt, macht der Kläger gegen den Beklagten Schadenersatzansprüche geltend.
+Der Erstrichter führte Beweise durch, schränkte das Verfahren auf den Grund des Anspruchs ein und verkundete in der Verhandlungstagsatzung vom 4. 3. 1970 den Schluß der Verhandlung über den Grund des Anspruchs. Mit Beschluß vom 22. 9. 1970 ordnete er jedoch die Wiedereröffnung der Verhandlung an und schrieb eine Verhandlungstagsatzung für den 14. 10. 1970 aus. Am 29. 9. 1970 beantragte der Kläger, die Rechtssache an das nicht offenbar unzuständige Bezirksgericht Bludenz zu überweisen. Daraufhin widerrief der Erstrichter die Anberaumung der Verhandlungstagsatzung, sprach unter Hinweis auf § 49 Abs 2 Z 7 JN seine Unzuständigkeit aus und überwies die Rechtssache gemäß § 261 Abs 6 ZPO an das nicht offenbar unzuständige Bezirksgericht Bludenz.
+Den vom Beklagten gegen den Überweisungsbeschluß erhobenen Rekurs wies das Rekursgericht als unzulässig zurück. Es führte aus, daß die Rechtsmittelbeschränkung des § 261 Abs 6 ZPO auch dann gelte, wenn das Gericht die Zuständigkeitsfrage von Amts wegen aufgeworfen habe, sofern nur ein Überweisungsantrag gestellt wurde. Die Überweisung selbst verstoße nicht gegen die gesetzlichen Vorschriften. Der Überweisungsantrag sei nach Wiedereröffnung der Verhandlung sohin rechtzeitig gestellt worden.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der vom Beklagten gegen diesen Beschluß erhobene Revisionsrekurs ist zwar zulässig (§ 514 Abs 1 ZPO), er ist aber nicht begrundet.
+Wie schon das Rekursgericht ausgeführt hat, ist nach § 261 Abs 6 ZPO gegen den Beschluß, mit dem das Erstgericht seine Unzuständigkeit und die Überweisung der Rechtssache an das vom Kläger genannte Gericht ausgesprochen hat - mit Ausnahme der Entscheidung über die Kosten des Zuständigkeitsstreites - ein Rechtsmittel unzulässig. Dem steht auch nicht entgegen, daß die Entscheidung über den Überweisungsantrag nach mündlicher Verhandlung zu erfolgen hat, welche Vorschrift der Erstrichter nicht befolgte. Wenn das Gesetz das Rechtsmittel des Rekurses ausdrücklich versagt, wird dieser nicht deshalb zulässig, weil ein Verstoß gegen verfahrensrechtliche Bestimmungen den Anfechtungsgrund bildet (SZ 11/60, ZBl 1933/269, 5 Ob 74/64). Nur dann, wenn die Überweisung ausdrücklich gegen die Vorschrift des § 261 Abs 6 ZPO verstößt, fällt der prozeßökonomische Grund des Rechtsmittelausschlusses weg.
+Der Beklagte ist der Ansicht, der Überweisungsantrag habe nicht der Vorschrift des § 261 Abs 6 ZPO entsprochen, weil er nicht vor Schluß der Verhandlung gestellt worden sei. Durch den Widerruf der Anberaumung der Verhandlungstagsatzung vom 14. 10. 1970 sei nämlich die Wirkung der Wiedereröffnung der Verhandlung aufgehoben worden, sodaß der Überweisungsantrag nach dem am 4. 3. 1970 verkundeten Schluß der Verhandlung gestellt worden sei.
+Diesen Ausführungen kann nicht gefolgt werden. Der Beschluß auf Wiedereröffnung einer Verhandlung bewirkt, daß die mündliche Streitverhandlung, die nach § 193 Abs 2 ZPO eine Einheit darstellt, fortgesetzt wird. Wurde die Verhandlung wieder eröffnet, so haben die Parteien die Möglichkeit, Tatsachen vorzubringen und Anträge zu stellen. Diese Wirkung der Wiedereröffnung der Verhandlung wird dadurch nicht beseitigt, daß eine nach Wiedereröffnung anberaumte Verhandlungstagsatzung abberaumt wird. Mit dem nach Wiedereröffnung eingebrachten Überweisungsantrag hat der Kläger sohin nicht gegen das Gebot verstoßen, daß ein Überweisungsantrag nur bis zum Schluß der mündlichen Verhandlung über die Unzuständigkeitseinrede gestellt werden kann.
+Die Annahme des Beklagten, der Erstrichter habe "offenbar von Amts wegen" die Rechtssache an das nicht offenbar unzuständige Bezirksgericht Bludenz überwiesen, ist unrichtig, da dem Überweisungsbeschluß der Überweisungsantrag des Klägers vorausging. Eine ausdrückliche Bezugnahme in dem Überweisungsbeschluß auf den Überweisungsantrag war nicht erforderlich.
+Das Rekursgericht hat daher den unzulässigen Rekurs des Beklagten mit Recht zurückgewiesen.

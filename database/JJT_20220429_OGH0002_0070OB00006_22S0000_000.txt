@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.04.2022
+Geschäftszahl
+7Ob6/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei T* B*, vertreten durch Mag. Daniel Wolff, Rechtsanwalt in Bregenz, gegen die beklagte Partei M* AG, *, vertreten durch Dr. Edwin A. Payer, Rechtsanwalt in Graz, wegen 470.902,46 EUR sA und Rente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 24. November 2021, GZ 5 R 133/21z-34, den
+Beschluss
+gefasst:
+Spruch
+I. Der Antrag auf Einleitung eines Vorabentscheidungsverfahrens wird zurückgewiesen.
+II. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag dem die Allgemeinen Bedingungen für die Unfallversicherung (AUVB 2008) zugrunde liegen. Diese lauten auszugsweise:
+„Abschnitt B:
+Versicherungsleistungen
+Was kann versichert werden?
+Artikel 7 – Dauernde Invalidität
+1. Wann besteht ein Anspruch auf Leistung für Dauernde Invalidität?
+Ergibt sich innerhalb eines Jahres vom Unfalltag an gerechnet, dass als Folge des Unfalles eine dauernde Invalidität (Beeinträchtigung der körperlichen oder geistigen Leistungsfähigkeit auf Lebenszeit) zurückbleibt, wird – unbeschadet der Bestimmungen des Art 7, Punkt 5 – aus der hierfür versicherten Summe der dem Grade der Invalidität entsprechende Betrag gezahlt.
+Ein Anspruch auf Leistung für dauernde Invalidität ist innerhalb von 15 Monaten vom Unfalltag an schriftlich geltend zu machen und unter Vorlage eines ärztlichen Befundberichtes, aus dem Art und Umfang der Gesundheitsschädigung und die Möglichkeit einer auf Lebenszeit dauernden Invalidität hervorgeht, zu begründen. […]“
+Rechtliche Beurteilung
+[2] 		I. Eine Prozesspartei hat nach ständiger Rechtsprechung keinen verfahrensrechtlichen Anspruch, die Einleitung eines Vorabentscheidungsverfahrens vor dem Gerichtshof der Europäischen Union durch das Gericht zu beantragen, sodass der entsprechende Antrag des Klägers zurückzuweisen war (RS0058452). Ein Vorabentscheidungsersuchen ist auch nicht erforderlich, weil sich Fragen der Auslegung von Unionsrecht im vorliegenden Fall nicht stellen.
+[3] 		II.1. Mit Art 7.1. AUVB 2008 vergleichbare Klauseln waren bereits Gegenstand zahlreicher oberstgerichtlicher Entscheidungen. Zur 15-Monatsfrist wird in ständiger Rechtsprechung die Auffassung vertreten, dass es sich dabei um eine Ausschlussfrist handelt, bei deren – auch unverschuldeter (vgl RS0034591) – Versäumung der Entschädigungsanspruch des Unfallversicherten erlischt (RS0082292). Die Zweckrichtung der Regelung liegt in der Herstellung von möglichst rascher Rechtssicherheit und Rechtsfrieden. So soll der verspätet in Anspruch genommene Versicherer vor Beweisschwierigkeiten infolge Zeitablaufs geschützt und eine alsbaldige Klärung der Ansprüche herbeigeführt werden (RS0082216 [T1]). Die durch Setzung einer Ausschlussfrist vorgenommene Risikobegrenzung soll damit im Versicherungsrecht (in aller Regel) eine Ab- und Ausgrenzung schwer aufklärbarer und unübersehbarer (Spät-)Schäden bewirken (7 Ob 156/20x mwN zu Klausel 3).
+[4] 		2. Die 15-Monatsfrist verstößt nach ständiger Rechtsprechung des Obersten Gerichtshofs weder gegen § 864a ABGB noch gegen § 879 Abs 3 ABGB oder § 6 Abs 3 KSchG (RS0082292 [T19]; RS0109447 [T8]; zuletzt 7 Ob 148/21x).
+[5] 		3. Hier hat der Kläger, nachdem er seinen Fahrradunfall vom 30. Mai 2018 in einer inhaltlich nicht näher dargelegten Unfallsmeldung angezeigt hatte, im September 2018 Rechnungen für physikalische Therapien übermittelt. Im Schreiben vom 4. Oktober 2018 wies die Beklagte den Kläger unter anderem darauf hin, dass etwaige Leistungsansprüche aus dem Titel der bleibenden Invalidität und einer – sofern versichert – Unfall-Invaliditätsrente bedingungsgemäß mittels Vorlage eines ärztlichen Befundberichts, aus dem Art und Umfang der Gesundheitsschädigung und die Möglichkeit einer auf Lebenszeit dauernden Invalidität hervorgehen, zu begründen sowie fristgerecht innerhalb von 15 Monaten zu stellen sind und, dass diese Ansprüche erlöschen, wenn sie nicht innerhalb von 15 Monaten – gerechnet ab dem Unfalltag – bei der Beklagten geltend gemacht werden. Einen Anspruch auf dauernde Invalidität machte der Betreuer des Klägers für diesen jedoch erst im Juni 2020 gegenüber der Beklagten geltend.
+[6] 		4. Selbst wenn die Unfallsmeldung ausreichende Hinweise auf eine dauernde Invalidität enthalten haben sollte, ist die Rechtsansicht der Vorinstanzen, dass die Beklagte ihrer Hinweispflicht durch das Schreiben vom Oktober 2018 nachgekommen ist und daher die Berufung auf die vereinbarte Ausschlussfrist nicht gegen den im Versicherungsrecht in besonderem Maß herrschenden Grundsatz von Treu und Glauben (zuletzt 7 Ob 137/19a mwN; RS0018055; RS0016824; RS0082222) verstößt, hier nicht korrekturbedürftig (vgl auch 7 Ob 22/21t).
+[7] 		5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00006.22S.0429.000

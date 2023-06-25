@@ -1,0 +1,43 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.1951
+Geschäftszahl
+2Ob164/51
+Norm
+ABGB §1091;
+ABGB §1101;
+ABGB §1376;
+ABGB §1380;
+ABGB §1438;
+EO §35;
+KO §§27 ff;
+KO §48 Abs4;
+KO §110;
+Kündigungsschutz- Ausführungsverordnung vom 5. September 1939, DRGBl. I
+S. 1671 §7;
+Mietengesetz §2 Abs4;
+Mietengesetz §17;
+Kopf
+SZ 24/82
+Spruch
+§ 17 MietG. findet auf Pachtverhältnisse keine Anwendung.
+An ein vom Gemeinschuldner vor Konkurseröffnung abgegebenes konstitutives Anerkenntnis ist die Konkursmasse gebunden, falls kein Anfechtungstatbestand vorliegt.
+Wenn bereits ein vollstreckbarer Titel vorliegt, ist eine Klage nach § 110 KO. auch in der Weise zulässig, daß die Konkursforderung wegen Kompensation mit einer bereits vor Entstehung des Exekutionstitels vorhanden gewesenen Gegenforderung bestritten wird.
+Entscheidung vom 21. März 1951, 2 Ob 164/51.
+I. Instanz: Kreisgericht Ried; II. Instanz: Oberlandesgericht Linz.
+Text
+Die Beklagten haben im Konkurs des B. einen ihnen mit rechtskräftigem Urteil zuerkannten Bestandzinsrückstand im Betrage von 1910.39 S, einen weiteren Bestandzinsrückstand von 976 S und einen Kostenbetrag von 30.73 S als Konkursforderungen dritter Klasse angemeldet. Bei der Prüfungstagsatzung haben die Beklagten hinsichtlich des gesamten angemeldeten Forderungbetrages das Pfandrecht gemäß § 1101 ABGB., § 48 Abs. 4 KO. geltend gemacht. Der Masseverwalter bestritt den Bestand der angemeldeten Forderung sowie eines gesetzlichen Pfandrechtes. Im Anmeldungsverzeichnis scheint die angemeldete Forderung als bestritten auf, mit dem Vermerk "Gegenforderung". Der Konkurskommissär erteilte den Beklagten zur Geltendmachung der bestrittenen Ansprüche eine Frist von sechs Wochen. Nun verlangt der Masseverwalter mit gegenständlicher Klage die Feststellung des Nichtbestandes der angemeldeten Forderung.
+Das Erstgericht hat das Klagebegehren abgewiesen.
+Das Berufungsgericht hat das Ersturteil unter Rechtskraftvorbehalt aufgehoben und die Sache zur Verfahrensergänzung an das Erstgericht zurückverwiesen.
+Der Oberste Gerichtshof gab den von beiden Parteien erhobenen Rekursen nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zum Rekurs der klagenden Partei:
+Der Rekurs der klagenden Partei ist zulässig, wenn auch der angefochtene Aufhebungsbeschluß dem in der Berufung der klagenden Partei gestellten Eventualantrag entspricht und der Rekurs die Aufhebung selbst nicht bekämpft, weil sich der Rekurs gegen die in der Begründung des angefochtenen Beschlusses dem Erstgericht erteilten "Aufträge und Bindungen" richtet (DREvBl. 1941, Nr. 143).
+Darin, daß das Berufungsgericht die Anwendbarkeit des § 17 Abs. 2 MietG. auf Pachtverträge verneint, kann keine unrichtige rechtliche Beurteilung erblickt werden. § 7 der Verordnung vom 5. September 1939, DRGBl. I S. 1671, erklärt ja nur die Vorschriften des Mietengesetzes über Kündigungsbeschränkungen als für Pachtverhältnisse entsprechend anwendbar, und § 2 Abs. 4 MietG. findet nur Anwendung, wenn das einem Unternehmen dienende Grundstück vermietet, nicht aber verpachtet ist, und spricht ausdrücklich nur von einem Miet-, nicht aber von einem Pachtzins.
+Auch die Rechtsansicht des Berufungsgerichtes, daß Anerkenntnisse des Gemeinschuldners vor der Konkurseröffnung auch für die klagende Konkursmasse beachtlich sind, ist wenigstens insofern zutreffend, als es sich um sogenannte konstitutive, mit Verpflichtungswillen abgegebene Anerkenntnisse (bzw. Verzichte) handelt. Diese können nur nach den Bestimmungen der §§ 27 ff. KO. angefochten werden.
+Zum Rekurs der beklagten Parteien:
+Der Oberste Gerichtshof hat (übereinstimmend mit Bartsch - Pollak, Komm. zur KO., 1937, I, S. 512, und unter anderem gestützt auf Jaeger, Komm. zur deutschen KO., S. 566 ff.) in seiner eingehend begrundeten Entscheidung 2 Ob 641/50 ausgesprochen, daß bei der Bestreitung einer vollstreckbaren Forderung im Konkurse dem Bestreitenden (abgesehen von einer Anfechtung nach §§ 27 ff. KO.) lediglich jene Mittel zur Verfügung stehen, die dem Gemeinschuldner zur Verfügung stehen würden, und daß der Bestreitende die materielle Richtigkeit der im Vorprozeß ergangenen Entscheidung nicht anfechten kann. Eine Anfechtung nur aus dem Gründe der behaupteten Unrichtigkeit der formell rechtskräftigen Vorentscheidung ist nicht gegeben. Soweit also die gegenständliche Klage auf eine solche Anfechtung gestützt wird, ist ihr der Erfolg versagt.
+Die Klage bringt aber auch vor, daß - abgesehen von dem urteilsmäßig zugesprochenen Betrag - in den früheren Jahren ein so großer Betrag an Bestandzins zuviel bezahlt worden ist, so daß sich zugunsten der Beklagten kein Guthaben ergibt. Dem Berufungsgericht ist daher beizustimmen, daß mit der vorstehenden Klage auch eine Gegenforderung in mindestens gleicher Höhe mit der bestrittenen Forderung aufrechnungsweise geltend gemacht und zufolge der damit eingetretenen Schuldtilgung die Feststellung des Nichtbestandes der angemeldeten Forderung begehrt wird, mag auch das Klagevorbringen und das Klagebegehren nicht glücklich gefaßt sein.
+Dem Berufungsgericht ist auch darin beizupflichten, daß die Bestreitung der vollstreckbaren Forderung durch die vorstehende Liquidierungsklage mit einer Oppositionsklage nach § 35 EO. vergleichbar ist. Die Frage der Zulässigkeit einer solchen Oppositionsklage auf Grund einer bereits vor dem Urteil des Vorprozesses bestandenen Gegenforderung ist sehr umstritten und auch vom Obersten Gerichtshof kontrovers entschieden worden (vgl. ZBl. 1929, Nr. 118, RZ. 1935, S. 56, Rsp. 1926, Nr. 120). Da im Falle einer Liquidierungsklage nach § 110 Abs. 2 KO. der Gesichtspunkt der Verschleppungsbekämpfung, der vor allem gegen die Zulassung einer Oppositionsklage nach § 35 EO. auf Grund einer bereits vor dem im Titelprozeß ergangenen Urteil bestandenen Gegenforderung spricht, wegen der Veränderung der Prozeßparteien in Wegfall kommt, erscheint es unbedenklich, die Geltendmachung einer bereits vor dem Urteil des Vorprozesses bestandenen Gegenforderung durch eine Liquidierungsklage zuzulassen.

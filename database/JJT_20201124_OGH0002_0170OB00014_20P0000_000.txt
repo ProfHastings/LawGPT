@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.11.2020
+Geschäftszahl
+17Ob14/20p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr.
+Lovrek als Vorsitzende sowie den Hofrat Dr. Musger, die Hofrätinnen Mag. Malesich und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei A***** H*****, vertreten durch Dr. Peter Hauser, Rechtsanwalt in Salzburg, gegen die beklagte Partei Dr. M***** P*****, Rechtsanwalt, als Insolvenzverwalter in der Insolvenz über das Vermögen der P***** GmbH, *****, vertreten durch Dr. Manfred Steininger, Rechtsanwalt in Wien, und die Nebenintervenientin D***** GmbH, *****, vertreten durch Dr. Heinz Stöger, Rechtsanwalt in Wien, wegen Feststellung von Insolvenzforderungen (Streitwert 49.958,85 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 16. Juli 2020, GZ 1 R 23/20p-30, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger ist Mehrheitsgesellschafter einer Komplementär GmbH & Kommanditist. Ende Oktober 2015 erwarb er von der KG deren Geschäftseinrichtung zum Gegenwert – bereits früher gewährter – noch aushaftender Darlehen und rechnete den Kaufpreis mit den Darlehensforderungen auf. Im Juli 2016 nahm er bei der Schuldnerin Rechtsberatung in Anspruch. Über das Vermögen der KG wurde am 25. 8. 2016 das Konkursverfahren eröffnet.
+Rechtliche Beurteilung
+1. Der geltend gemachte Verfahrensmangel wurde geprüft, er liegt nicht vor (§ 510 Abs 3 ZPO).
+2. Im vorliegenden Prüfungsprozess wirft der Kläger dem – der Schuldnerin zuzurechnenden – Rechtsanwalt vor, ihn nicht auf die Unzulässigkeit der Rückzahlung der Darlehen durch Aufrechnung mit dem Kaufpreis hingewiesen und ihn nicht zur Zahlung des Kaufpreises auf das Firmenkonto der KG aufgefordert zu haben, wodurch der nunmehr behauptete Schaden verursacht worden sein soll.
+3.1 Nach ständiger Rechtsprechung dürfen die Anforderungen an die Sorgfaltspflichten eines Anwalts nicht überspannt und von ihm nur der Fleiß und die Kenntnis verlangt werden, die seine Fachkollegen gewöhnlich haben (RS0026584). Ein Anwalt darf auch grundsätzlich darauf vertrauen, dass die Informationen seines Mandanten in tatsächlicher Hinsicht richtig sind. Den Anwalt trifft keine Verpflichtung, eigene Ermittlungen und Prüfungen darüber anzustellen, ob die Information des Mandanten der Wahrheit entspricht (RS0106940). Die Richtigkeit der ihm erteilten Informationen braucht er solange nicht in Zweifel zu ziehen, so lange er dafür keine erheblichen Anhaltspunkt hat (RS0026628). Ob ein Rechtsanwalt im Einzelfall die gebotene Sorgfalt eingehalten hat, kann nur nach den Umständen des Einzelfalls geprüft werden und stellt regelmäßig keine Frage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO dar (RS0026584 [T21]).
+3.2 Ausgehend von den Feststellungen informierte der Kläger anlässlich der erstmals im Juli 2016 erfolgten Rechtsberatung den Rechtsanwalt dahin, dass zum Zeitpunkt der Darlehensgewährung die Geschäftsumsätze der KG gut gewesen seien. Vor diesem Hintergrund vertrat das Berufungsgericht, dass diese Informationen keine Anhaltspunkte für das Erfordernis einer weitergehenderen Prüfung des Vorliegens einer Krise zum Zeitpunkt der Darlehensgewährung im Sinn des § 2 EKEG geliefert hätten, weshalb auch in der Unterlassung des Hinweises auf die Rückzahlungssperre nach § 14 EKEG kein vorwerfbarer Beratungsfehler gelegen sei.
+Dies stellt schon deshalb keine aufzugreifende Fehlbeurteilung dar, weil der Kläger im erstgerichtlichen Verfahren weder Tatsachenvorbringen zum Vorliegen der Voraussetzungen einer Krise im Sinn des § 2 EKEG (Zahlungsunfähigkeit, Überschuldung, Vermutung eines Reorganisationsbedarfs im Sinn des URG) erstattete, noch dazu, dass er dem Rechtsanwalt entsprechende Informationen erteilte. Er nannte auch keine Umstände, aus denen der Rechtsanwalt allenfalls auf das Vorliegen einer Krise zum Zeitpunkt der Darlehensgewährung hätte schließen und eine weitere Prüfung hätte vornehmen müssen.
+3.3 Im Gegensatz zur älteren Rechtsprechung zum Eigenkapitalersatz hat ein „Stehenlassen“ von Darlehen in einer Krise keine rechtliche Relevanz mehr (§ 3 Abs 1 Z 3 EKEG, 8 Ob 137/09w). Der Frage, ob die KG allenfalls im Oktober 2015 in der Krise war, kommt damit – abgesehen davon, dass der Kläger die Darlehen auch nicht „stehen“ ließ, sondern seine Darlehensforderungen mit der Kaufpreisforderung der KG kompensierte – keine Bedeutung zu.
+4. Auch der Einwand, dass durch die Aufrechnung gegen das Verbot der Einlagenrückgewähr verstoßen worden sei (§§ 74 ff GmbHG), worüber ihn der Rechtsanwalt hätte aufklären müssen, geht ins Leere. Die ältere Rechtsprechung, die diese Regelungen analog anwandte (RS0060076, RS0060065), ist seit Erlassung des EKEG überholt (17 Ob 1/20a mzwN).
+5. Der Kläger selbst brachte vor, dass mit dem Insolvenzverwalter der KG vereinbart sei, dass dieser mit einer Klageführung gegen den Kläger zuwarte, bis die Haftungsfrage geklärt sei. Die Beurteilung der Vorinstanzen, mangels Einbringung einer Anfechtungsklage nach § 30 IO sei die Fallfrist nach § 43 Abs 2 IO am 25. 8. 2016 abgelaufen, beruht damit auf keiner aktenwidrigen Grundlage.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0170OB00014.20P.1124.000

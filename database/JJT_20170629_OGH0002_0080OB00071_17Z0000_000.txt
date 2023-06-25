@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.2017
+Geschäftszahl
+8Ob71/17z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Brenn sowie die Hofrätinnen Mag. Korn und Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Partei A* GmbH, *, vertreten durch Dr. Wilhelm Schlein, Rechtsanwalt in Wien, gegen die beklagte Partei W* P*, vertreten durch Dr. Werner Goeritz, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 12. April 2017, GZ 40 R 77/17w-28, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Oberste Gerichtshof hat gemäß § 502 Abs 1 ZPO nur Rechtsfragen des materiellen oder des Verfahrensrechts zu lösen, von denen die Entscheidung abhängt und denen zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist. Solche Rechtsfragen wirft die Revision der klagenden Partei nicht auf.
+Fragen der Vertragsauslegung (hier: eines beim Mietvertragsabschluss des Beklagten mit der Vermieterin vereinbarten Weitergaberechts) kommt in der Regel keine über den Einzelfall hinausgehende Bedeutung zu, sofern keine auffallende Fehlbeurteilung, also eine krasse Verkennung der Auslegungsgrundsätze vorliegt, die im Interesse der Rechtssicherheit wahrgenommen werden muss (RIS-Justiz RS0042936; RS0112106 [T1]).
+Das Berufungsgericht hat seine Rechtsansicht auf Basis des festgestellten Sachverhalts eingehend und keinesfalls unvertretbar begründet, von einer krassen Fehlbeurteilung kann keine Rede sein.
+Soweit die Revisionswerberin einen Widerspruch zwischen einem vertraglichen Weitergaberecht und dem Kündigungsgrund des § 30 Abs 2 Z 4 MRG erblickt, sind ihre Ausführungen nicht nachvollziehbar.
+Beim Weitergaberecht räumt der Bestandgeber im Bestandvertrag dem Mieter das Recht ein, durch bloße Erklärung alle Rechte und Pflichten aus dem Bestandverhältnis auf einen Dritten mit der Wirkung zu übertragen, dass dieser an seiner Stelle Bestandnehmer wird, ohne dass es einer weiteren Erklärung des Bestandnehmers bedarf (RIS-Justiz RS0105786; RS0032747). Ist das Auswahlrecht des Mieters dadurch eingeschränkt, dass der Vermieter den Eintritt der namhaft gemachten Person ablehnen darf, wenn gegen diese als Mieter sachlich begründete Bedenken bestehen, so erfolgt der Mietrechtsübergang – wenn derartige Bedenken nicht bestehen – wie beim unbeschränkten Weitergaberecht durch bloße Erklärung des bisherigen Mieters.
+Bedenken gegen die Person des Nachmieters des Beklagten werden in der Revision gar nicht vorgebracht.
+Ob die zwischen dem Beklagten und seinem Nachmieter vereinbarte Ablöse für die im Bestandobjekt vorhandenen Investitionen und Übersiedlungsspesen der Höhe nach angemessen war oder nicht (§ 27 Abs 1 Z 1 MRG), betrifft das Verhältnis dieser beiden Personen. Für die Wirksamkeit der Ausübung des vertraglichen Weitergaberechts gegenüber der Vermieterin kommt dieser Frage – wie die Vorinstanzen ohne aufzugreifenden Rechtsirrtum erkannt haben – keine Relevanz zu.
+Die in der Revision zitierte Entscheidung 1 Ob 148/07g betrifft die exekutive Verwertung eines Bestandrechts und ist nicht einschlägig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E118858

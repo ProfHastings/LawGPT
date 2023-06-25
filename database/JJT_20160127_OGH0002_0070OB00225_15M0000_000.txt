@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2016
+Geschäftszahl
+7Ob225/15m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei R***** H*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei Z*****-AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 33.428,40 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 28. Oktober 2015, GZ 6 R 160/15i-13, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Das Berufungsgericht ist - entgegen der Meinung der Beklagten - nicht von den erstgerichtlichen Feststellungen abgewichen. Es hat vielmehr auf deren Grundlage (undichter Anschluss Kellerboden/Kellerwand; unauffälliger Erhaltungszustand des Hauses; Wassereintritt aufgrund starker Regenfälle mit unkontrolliertem Abfluss der Oberflächenwässer bei verklaustem Entwässerungsgraben) in rechtlicher Beurteilung das Vorliegen des Risikoausschlusses „Bauwerk … in einem baufälligen Zustand“ verneint.
+1.2. Die Beklagte hat - soweit für das Revisionsverfahren relevant - in erster Instanz behauptet, dass die mangelnde Isolierung des Kellers einen Baumangel begründe und sie hat sich zu dieser Behauptung auf die Einholung eines Sachverständigengutachtens aus dem Baugewerbe berufen. Das Erstgericht hat den undichten Anschluss Kellerboden/Kellerwand festgestellt („keine vollständige Abdichtung … im Bereich der Anschlüsse“ [Ersturteil S 4]), weshalb die ohnehin entsprechend der Behauptung der Beklagten erfolgte Feststellung keines weiteren Beweises durch ein Sachverständigengutachten bedurfte. Ob diese Feststellung die Bejahung des Risikoausschlusses „Bauwerk … in einem baufälligen Zustand“ rechtfertigt, ist - wie vom Berufungsgericht nicht rechtsirrig, sondern rechtsrichtig erkannt - eine Frage der rechtlichen Beurteilung und daher nicht Gegenstand des Sachverständigenbeweises.
+2. Das zwischen den Parteien vereinbarte Versicherungspaket umfasst (ua) eine Sturmschaden- und eine Haushaltsversicherung beinhaltend „Katastrophenschutz bei außergewöhnlichen Naturereignissen“, mit dem „Schäden durch Hochwasser und Überschwemmungen an den versicherten Gebäuden (am versicherten Wohnungsinhalt) bis zu einem Gesamtbetrag von EUR 50.000,00. (...)“ gedeckt sind.
+Die zugrundeliegenden Bedingungen für die Sturmversicherung (ASTB 2009) lauten soweit noch entscheidungsrelevant:
+„Artikel 2
+Nicht versicherte Schäden
+Nicht versichert sind, auch nicht als unvermeidliche Folge eines Schadenereignisses: (...)
+9. Schäden, die dadurch entstanden sind,
+- dass sich versicherte Bauwerke oder Teile davon in einem baufälligen Zustand befunden
+haben, (...).“
+2.1. Was unter dem Begriff „baufällig“ zu verstehen ist, wird im hier maßgeblichen Art 2.9 ASTB 2009 nicht definiert. Der erkennende Senat hat diesen Begriff gerade in der von der Beklagten zitierten Entscheidung 7 Ob 274/06d (EvBl 2007/111 = VersE 2190) bei der Beurteilung von Schneedruckschäden zum insoweit vergleichbaren Art 1 Abs 7 lit e AStB 1986 nach § 914 ABGB dahin verstanden, dass ein Gebäude allgemein dann als „baufällig“ bezeichnet wird, wenn es sich in einem äußerst schlechten baulichen Zustand befindet, also durch geringste, atypische Anlässe vom Einsturz bedroht ist.
+2.2. Das Berufungsgericht ist hier - zusammenge-fasst - davon ausgegangen, dass ein aus den 60-iger Jahren stammendes Gebäude in „unauffälligem Erhaltungszustand“, bei dem es nach starken Regenfällen, der Verklausung eines Entwässerungsgrabens und dem deshalb unkontrollierten Abfließen von Oberflächenwässern im nicht vollständig dichten Anschlussbereich zwischen Kellerboden und -wand zum Wassereintritt kam, allein deshalb nicht als „baufällig“ zu qualifizieren ist. Diese rechtliche Beurteilung findet zwanglos in der in 7 Ob 274/06d gewonnenen Definition Deckung.
+2.3. Die rechtliche Beurteilung des Berufungsgerichts setzt sich auch nicht in Widerspruch zur Entscheidung 7 Ob 48/15g. In dieser Entscheidung wird der Begriff „baufällig“ nicht definiert und in den dort zugrundegelegenen „Besonderen Bedingungen für die Versicherung von Wohn- und Bürogebäuden, Fassung 2007“, war - gerade im Unterschied zum vorliegenden Fall - die „mangelhafte Errichtung oder Instandhaltung der Gebäude“ zusätzlich als Risikoausschluss vereinbart.
+3. Im Ergebnis stellt sich keine Rechtsfrage iSd § 502 Abs 1 ZPO. Vielmehr hält sich die Entscheidung des Berufungsgerichts betreffend die Verneinung der Baufälligkeit des versicherten Objekts in dem durch die Vorentscheidung 7 Ob 274/06d (EvBl 2007/111 = VersE 2190) gezogenen Rahmen und sie steht in keinem Widerspruch zu 7 Ob 48/15g. Die außerordentliche Revision ist somit unzulässig und zurückzuweisen.
+Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00225.15M.0127.000

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2022
+Geschäftszahl
+4Ob130/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M. und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei D* Privatstiftung, *, vertreten durch Mag. Alexander Atzl, Rechtsanwalt in Wörgl, gegen die beklagte Partei I* GmbH, *, vertreten durch Dr. Peter Burgstaller, LL.M., und andere Rechtsanwälte in Linz, wegen 55.276 EUR, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 1. Juni 2022, GZ 3 R 16/22k-69, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Klägerin begründet die Zulässigkeit ihrer außerordentlichen Revision mit folgenden Rechtsfragen: Kann der Vorleistungspflichtige die Unsicherheitseinrede analog § 1052 ABGB erheben, obwohl er sich selbst in Verzug befindet? Reicht es als Gefährdung für die analoge Anwendung der Unsicherheitseinrede schon aus, dass der Vertragspartner bloß seine Nachleistungspflicht bestreitet?
+[2] 		Diese Fragen sind im vorliegenden Fall jedoch nicht präjudiziell (vgl RS0088931), weil die Klage nicht auf Erbringung der Vorleistung der Klägerin gerichtet ist. Vielmehr versucht die Klägerin die Rückzahlung einer Überzahlung durchzusetzen.
+[3] 		2. Die Beklagte hatte sich gegenüber der Klägerin verpflichtet, nach Erhalt ihrer eigenen Provision, die Provisionsansprüche einer weiteren Maklerin gegen die Klägerin zu befriedigen, sodass die Klägerin beiden Maklern insgesamt nicht mehr als 2 % Verkäuferprovision zahlt.
+[4] 		Richtig zeigt die Beklagte in ihrer außerordentlichen Revision auf, dass nach den Feststellungen ihre Zahlungspflicht aus dieser Erfüllungsübernahme iSd § 1404 ABGB noch nicht fällig war. Mangels Vertragsverletzung der Beklagten kann der Klagsanspruch auf Rückzahlung des in Summe 2 % übersteigenden Betrags damit nicht auf vertraglichen Schadenersatz gestützt werden.
+[5] 		Die Rückzahlungspflicht der Beklagten ergibt sich jedoch zwanglos aus ergänzender Vertragsauslegung. Die Parteien haben im Vertrag nämlich den später tatsächlich eingetretenen Fall nicht geregelt, dass die Klägerin die Provisionsansprüche der anderen Maklerin auf deren Aufforderung hin selbst befriedigt, bevor die Zahlungspflicht der Beklagten aus der Erfüllungsübernahme fällig wird. Daher ist unter Berücksichtigung der übrigen Vertragsbestimmungen und des von den Parteien verfolgten Zwecks sowie unter Heranziehung der Verkehrssitte zu prüfen, welche Lösung redliche und vernünftige Vertragsparteien für diesen Problemfall vereinbart hätten (RS0113932). Da die vertragliche Regelung klar vorsah, dass die Klägerin insgesamt nicht mehr als 2 % Verkäuferprovision zahlen soll, hat die Beklagte der Klägerin jenen Betrag rückzuerstatten, um den die Summe aus Zahlungen der Klägerin an die Beklagte und an die andere Maklerin die 2 %-Grenze übersteigt.
+[6] 		Im Verfahren war nie Thema, dass die Klägerin der anderen Maklerin mehr bezahlt hätte, als dieser zugestanden wäre, oder dass die Beklagte mit der anderen Maklerin einen höheren Abschlag vereinbart hätte, wenn die Beklagte die Zahlung an die andere Maklerin selbst geleistet hätte. Da derartige Tatsachen – so sie vorgelegen wären – auch bei der von den Vorinstanzen vorgenommenen Qualifikation der Klagsforderung als Schadenersatzforderung als Einwand der Verletzung der Schadensminderungspflicht vorzubringen gewesen wären, bringt die von den Vorinstanzen abweichende rechtliche Beurteilung für die Beklagte auch keine unzulässigen prozessualen Nachteile mit sich (vgl RS0120056 [T1] – keine Überraschungsentscheidung bei anderer rechtlicher Qualifikation derselben Tatsachen).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00130.22D.0923.000

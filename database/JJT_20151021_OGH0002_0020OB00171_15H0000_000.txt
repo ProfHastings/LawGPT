@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2015
+Geschäftszahl
+2Ob171/15h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden sowie die Hofräte Dr. Veith und Dr. Musger, die Hofrätinnen Dr. E. Solé und Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei M***** K*****, vertreten durch Dr. Wolfgang Ehrnberger, Rechtsanwalt in Purkersdorf, gegen die beklagte Partei R***** S*****, vertreten durch Dr. Harald Ofner, Mag. Edda Ofner, Rechtsanwälte in Wien, wegen 102.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 2. Juli 2015, GZ 11 R 81/15k-47, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Für die Ermittlung des Werts (Bewertung) von Liegenschaften gilt in allen gerichtlichen Verfahren einschließlich Zivilprozessen das Liegenschafts-bewertungsgesetz (LBG; BGBl 1992/150 idgF; RIS-Justiz RS0115307). Nach dessen in § 2 Abs 1 enthaltenem Bewertungsgrundsatz ist, sofern durch Gesetz oder Rechtsgeschäfts nichts anderes bestimmt wird, der Verkehrswert der Sache zu ermitteln.
+§ 3 Abs 1 LBG statuiert als eines der in Frage kommenden Wertermittlungsverfahren das hier vom Sachverständigen herangezogene Vergleichswertverfahren.
+Nach § 4 Abs 3 LBG dürfen beim Vergleichswertverfahren Kaufpreise, die durch ungewöhnliche Verhältnisse oder persönliche Umstände der Vertragsteile beeinflusst wurden, nur dann zum Vergleich herangezogen werden, wenn der Einfluss dieser Verhältnisse und Umstände wertmäßig erfasst werden kann.
+2. Ebensowenig wie beim Ausfall des Pflichtteils durch eine Schenkung (vgl RIS-Justiz RS0115307 [T2]) enthält das Gesetz bei der Legatskürzung nach § 783 ABGB von den Bewertungsgrundsätzen des LBG abweichende Bestimmungen. Den spezifischen Umständen des Einzelfalls wird durch Abschläge und Zuschläge zu den üblicherweise im redlichen Geschäftsverkehr zu erzielenden Preisen nach § 2 Abs 2 LBG Rechnung getragen. Für alle Liegenschaften gibt es so einen Verkehrswert (5 Ob 55/01a).
+3. Fragen wie die von der Revision als fehlend monierte Rechtssprechung zur Einbeziehung persönlicher Umstände bei der Bewertung eines Legats und im Zusammenhang mit der Bemessung einer Legatskürzung nach § 783 ABGB stellen sich im Hinblick auf diese Gesetzeslage und Rechtsprechung daher ebensowenig wie die weiter geltend gemachte Frage der Wertberechnung bei Legaten, die „keinen Verkehrswert“ haben.
+4. Die Rechtsmeinung des Berufungsgerichts, dass der Wert des Vermächtnisses aus der Differenz des Werts der Liegenschaft der Legatarin nach Einbeziehung des vermachten Grundstücksanteils im Verhältnis zum Wert der Liegenschaft vor dieser Einbeziehung zu ermitteln sei, ist zwar insofern missverständlich, als es auf die persönlichen Verhältnisse der Legatarin nicht ankommt. Das Berufungsgericht hat aber in der Folge ohnehin den (objektiven) Verkehrswert des vermachten Grundstückteils, dessen Quadratmeterpreis der Sachverständige nach dem Vergleichswertprinzip ermittelte, herangezogen und ist daher im Ergebnis dieser vom Liegenschaftsbewertungsgesetz akzeptierten Bewertungsmethode gefolgt.
+5. Soweit die Revisionswerberin meint, dass ein Verkehrswert für die Liegenschaft - mangels eigenen Zufahrtswegs - nicht habe festgestellt werden können und dass die Liegenschaft nicht verkehrsfähig sei, ist ihr zu erwidern, dass hier nicht eine Gesamtliegenschaft, sondern ein Teil einer Liegenschaft in der Form vermacht wurde, dass dieser Teil vom Grundstück der Erblasserin abgetrennt und dem benachbarten Grundstück der Legatarin hinzugeschlagen werden sollte und auch wurde. Auf die Tatsache, dass dieser Grundstücksteil mangels eigener Zufahrt für sich alleine nicht verkehrsfähig wäre, kommt es daher nicht an.
+In diesem Sinne wurde auch in einem Enteignungsfall eines „hinteren Teils einer Liegenschaft“ der für die gesamte Liegenschaft ohne weitere Differenzierung angesetzte Quadratmeterpreis herangezogen (vgl 10 Ob 43/12i).
+Im Übrigen ist bei der Bewertung von Teilen einer Liegenschaft auch nach § 3 Abs 4 LBG gegebenenfalls der Wert der Gesamtliegenschaft zu ermitteln.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0020OB00171.15H.1021.000

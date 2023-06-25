@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.01.1952
+Geschäftszahl
+4Ob129/51
+Norm
+Arbeitsgerichtsgesetz §1 (1) Z1;
+Kopf
+SZ 25/5
+Spruch
+Auch Streitigkeiten aus unerlaubten Unterlassungen fallen unter den sonstigen Voraussetzungen des § 1 Abs. 1 Z. 1 ArbGerG. in die sachliche Zuständigkeit der Arbeitsgerichte.
+Entscheidung vom 8. Jänner 1952, 4 Ob 129/51.
+I. Instanz: Arbeitsgericht Wolfsberg; II. Instanz: Landesgericht Klagenfurt.
+Text
+Der Kläger hat in der beim Arbeitsgerichte Wolfsberg eingebrachten Klage vom Beklagten die Zahlung eines Betrages von 25.000 S aus dem Titel des Schadenersatzes begehrt, weil der Beklagte einen Arbeitsunfall, den er (der Kläger) am 27. Jänner 1944 als Holzarbeiter im Dienste des Beklagten erlitten und der eine Verminderung seiner Arbeitsfähigkeit um 80% zur Folge gehabt habe, pflichtwidrigerweise nicht der Unfallversicherungsanstalt gemeldet habe, weshalb diese die Zahlung einer Unfallsrente ablehne. Das Erstgericht gab der vom Beklagten erhobenen Einrede der sachlichen Unzuständigkeit des angerufenen Gerichtes Folge und sprach aus, daß das Arbeitsgericht unzuständig und das Landesgericht Klagenfurt zuständig sei.
+Über den Rekurs des Klägers änderte das Rekursgericht diesen Beschluß dahin ab, daß die Einrede der sachlichen Unzuständigkeit verworfen werde.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß dem § 1 Abs. 1 Z. 1 ArbGerG. sind die Arbeitsgerichte unter Ausschluß der ordentlichen Gerichte ohne Rücksicht auf den Wert des Streitgegenstandes unter anderem für bürgerliche Rechtsstreitigkeiten zwischen Unternehmern und Beschäftigten aus unerlaubten Handlungen, soweit diese mit dem Arbeitsverhältnis im Zusammenhang stehen, zuständig. Diese Vorschrift wurde nach dem Vorbilde der gleichlautenden Bestimmung des § 2 Z. 1 des deutschen Arbeitsgerichtsgesetzes in das österreichische Gesetz übernommen (vergl. Kapfer, Arbeitsgerichtsgestz, S. 15 f.). Wenn nun auch im § 1 Abs. 1 Z. 1 des österreichischen Arbeitsgerichtsgesetzes ebenso wie im § 2 Z. 1 des deutschen Gesetzes von unerlaubten Handlungen gesprochen wird, so sollten damit die Ansprüche aus rechtswidrigen Unterlassungen sicherlich nicht ausgeschlossen werden; vielmehr bedeutet diese Bestimmung, daß die Arbeitsgerichte die Rechtsstreitigkeiten aus allen mit dem Arbeitsverhältnisse unmittelbar oder wenigstens mittelbar im Zusammenhange stehenden Schädigungen zuständig sind, sofern nicht der Zusammenhang ein rein äußerlicher und zufälliger ist (vergl. Kapfer, Arbeitsgerichtsgesetz, S. 21, Anm. 22; Baumbach, deutsches Arbeitsgerichtsgesetz, 3. Auflage, S. 22). Demnach ist es gleichgültig, ob der Eintritt des Schadens durch unerlaubte Handlungen oder solche Unterlassungen herbeigeführt worden ist (vergl. den von Baumbach a. a. O., S. 23 unter Anmerkung 12 aus einem der Beispiele angeführten Schadenersatzanspruch wegen Vernachlässigung der Fürsorgepflicht nach dem § 1157 ABGB.). Wie Baumbach (a. a. O., S. 22 f.) anführt, gehören jedoch Ansprüche aus bloßer Gefährdungshaftung (Haftpflicht), die nicht auf unerlaubter Handlung (Unterlassung) beruhen, nicht vor die Arbeitsgerichte. Im vorliegenden Falle handelt es sich jedoch nach dem Vorbringen des Klägers um die Haftung des Beklagten für die schuldhafte Unterlassung einer Unfallsmeldung, die er nach der Behauptung des Klägers vorzunehmen gehabt hätte. Der Zusammenhang der geltend gemachten Forderung mit dem Dienstverhältnisse ist also hier mittelbar gegeben, denn die vom Kläger behauptete Verpflichtung des Beklagten zur Meldung des Unfalles an die Versicherungsanstalt wird auf das Dienstverhältnis gegrundet, das zwischen den Streitteilen zur Zeit des Unfalles bestanden hat. Es ist daher, da es sich um eine Schadenersatzforderung handelt, die mittelbar mit dem Dienstverhältnisse zusammenhängt, das zur Zeit des Unfalles zwischen den Streitteilen bestanden hat, die ausschließliche Zuständigkeit des Arbeitsgerichtes gemäß dem § 1 Abs. 1 Z. 1 des ArbGerG. gegeben (SZ. XXIV/239).

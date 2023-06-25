@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.09.2015
+Geschäftszahl
+10ObS79/15p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Fellinger als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Neumayr und Dr. Schramm sowie die fachkundigen Laienrichter Dr. Christoph Wiesinger (aus dem Kreis der Arbeitgeber) und KR Karl Frint (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei G*****, vertreten durch Dr. Andreas Arnold, Rechtsanwalt in Salzburg, gegen die beklagte Partei Versicherungsanstalt für Eisenbahnen und Bergbau, 1060 Wien, Linke Wienzeile 48-52, wegen Entschädigung nach § 210 Abs 3 ASVG, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 28. Mai 2015, GZ 12 Rs 40/15m-9, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger erlitt am 2. 8. 2004 einen Arbeitsunfall (nach dem ASVG). Zur Abgeltung der Folgen dieses Unfalls bezog er eine Versehrtenrente von 20 vH von 18. 10. 2004 bis 17. 7. 2005. Für den Zeitraum danach wurde die unfallbedingte Minderung der Erwerbsfähigkeit mit 10 vH festgestellt. Am 5. 12. 2011 erlitt der Kläger einen Arbeitsunfall (nach dem BSVG). Für die Folgen dieses Unfalls bezieht er von der Sozialversicherungsanstalt der Bauern ab 6. 12. 2012 eine Betriebsrente entsprechend einer Erwerbsminderung von 50 vH.
+Das auf gesonderte Entschädigung nach § 210 Abs 3 lit g ASVG gerichtete Klagebegehren wies das Erstgericht ab.
+Das Berufungsgericht bestätigte dieses Urteil unter Zugrundelegung der Entscheidung des Obersten Gerichtshofs 10 ObS 67/08p (SSV-NF 22/42).
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers zeigt eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO nicht auf.
+Nach § 210 Abs 1 ASVG sind Gesamtrenten nur bei Vorliegen mehrerer Versicherungsfälle (Arbeitsunfall oder Berufskrankheit) nach dem ASVG zu bilden.
+Wird das rentenbegründende Gesamtausmaß der Minderung der Erwerbsfähigkeit für die erstmalige Feststellung einer Dauerrente oder einer Gesamtrente zwar nicht aus Versicherungsfällen nach dem ASVG, aber unter Berücksichtigung eines Arbeitsunfalls oder einer Berufskrankheit nach den §§ 148c bis 148e BSVG erreicht, so sind solche Versicherungsfälle nach dem ASVG auf Antrag ab dem Zeitpunkt, in dem eine Dauerrente (Gesamtrente) spätestens festzustellen gewesen wäre, gesondert zu entschädigen (§ 210 Abs 3 lit g ASVG).
+Eine Gesamtrente nach § 210 ASVG ist demnach im vorliegenden Fall, in dem neben einem Versicherungsfall nach dem ASVG auch ein solcher nach dem BSVG vorliegt, unstrittig nicht zu bilden (vgl 10 ObS 67/08p, SSV-NF 22/42 = RIS-Justiz RS0123628).
+Den Arbeitsunfällen und Berufskrankheiten nach den §§ 148c bis 148e BSVG ist in § 210 Abs 3 ASVG nur die Bedeutung zugewiesen, mit der von ihnen verursachten Minderung der Erwerbsfähigkeit zur Erreichung des rentenbegründenden Ausmaßes der Minderung der Erwerbsfähigkeit beizutragen (Stützfunktion). Ein Vorunfall nach dem BSVG ist daher nach § 210 Abs 3 ASVG nur insoweit zu berücksichtigen, als er hilft, das rentenberechtigende Ausmaß der Minderung der Erwerbsfähigkeit zu erreichen (10 ObS 67/08p, SSV-NF 22/42; vgl 10 ObS 114/12f, SSV-NF 26/76, zur Parallelbestimmung § 149l Abs 3 BSVG).
+In der Entscheidung 10 ObS 114/12f, SSV-NF 26/76, wurde zur Parallelbestimmung des § 149l Abs 3 BSVG bereits darauf hingewiesen, dass ein Vorunfall nach dem ASVG nur insoweit zu berücksichtigen ist, als er hilft, (für einen späteren Arbeitsunfall nach dem BSVG) das rentenberechtigende Ausmaß der Minderung der Erwerbsfähigkeit (§ 149d Abs 1 BSVG: 20 vH) zu erreichen. Es kann nämlich immer nur der neuerliche, also der zeitlich letzte Versicherungsfall, durch eine gestützte kleine Rente entschädigt werden, nicht aber auch ein bisher mangels ausreichender Minderung der Erwerbsfähigkeit unberentet gebliebener Versicherungsfall infolge späteren Hinzukommens eines weiteren Versicherungsfalls berentet werden (Riedl, Die bäuerliche Unfallversicherung 156). Auf Antrag kann daher immer nur der gestützte („spätere“) Arbeitsunfall entschädigt werden, nicht jedoch der frühere. Ein späterer (neuer) Arbeitsunfall kann einen zeitlich früheren (älteren) Arbeitsunfall nicht stützen.
+Die Rechtsansicht des Berufungsgerichts, dass nur ein späterer Arbeitsunfall nach dem ASVG gesondert nach § 210 Abs 3 lig g ASVG entschädigt werden könnte, steht mit den dargelegten Grundsätzen im Einklang. Der Arbeitsunfall des Klägers nach dem ASVG ist aber auch deshalb nicht gesondert zu entschädigen, weil nach § 210 Abs 3 erster Halbsatz iVm § 209 Abs 1 letzter Satz ASVG eine Dauerrente für den Arbeitsunfall des Klägers nach dem ASVG spätestens am 2. 8. 2006 zu bilden gewesen wäre, somit zu einem Zeitpunkt, bevor sich der Arbeitsunfall des Klägers nach dem BSVG ereignete, sodass dessen Berücksichtigung nicht möglich war und in diesem Zeitpunkt, zu dem eine Dauerrente spätestens festzustellen gewesen wäre, auch nicht zu einer rentenbegründenden Minderung der Erwerbsfähigkeit hätte führen könne.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:010OBS00079.15P.0902.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.11.2014
+Geschäftszahl
+6Ob185/14w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Firmenbuchsache der im Firmenbuch des Handelsgericht Wien zu FN ***** eingetragenen U***** GmbH mit dem Sitz in W*****, über den Revisionsrekurs der Gesellschaft und der Geschäftsführerin Dr. E***** D*****, beide vertreten durch Grohs Hofer Rechtsanwälte Gesellschaft m.b.H. in Wien, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 25. September 2014, GZ 28 R 283/14i, 28 R 284/14m-12, womit die Beschlüsse des Handelsgerichts Wien vom 18. August 2014, GZ 75 Fr 4343/14h-6 und -8, bestätigt wurden, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht verhängte mit zwei - vom Rekursgericht bestätigten - Beschlüssen über die GmbH und deren Geschäftsführerin Zwangsstrafen gemäß § 283 UGB von je 800 EUR wegen nicht rechtzeitiger Offenlegung des Jahresabschlusses zum 31. 12. 2012 für den Bestrafungszeitraum vom 1. 10. 2013 bis zum 30. 11. 2013, und zwar allein deswegen, weil in diesem Jahresabschluss die Angaben zum Vorjahr (2011) nicht enthalten waren. Wegen Nichtoffenlegung des Jahresabschlusses zum 31. 12. 2011 für den Bestrafungszeitraum vom 1. 10. 2013 bis zum 30. 11. 2013 waren über die GmbH und deren Geschäftsführerin bereits Zwangsstrafenverfügungen erlassen worden, die nicht bekämpft wurden.
+Das Rekursgericht hat den Revisionsrekurs zugelassen, weil noch keine Rechtsprechung des Obersten Gerichtshofs zur Frage vorliege, ob die Verhängung von Zwangsstrafen gemäß § 283 UGB allein deshalb, weil im offengelegten Jahresabschluss die Vorjahreszahlen fehlen, zulässig ist, obwohl die unterlassene Offenlegung des Jahresabschlusses des vorangegangenen Geschäftsjahres für den selben Bestrafungszeitraum ohnehin bereits mit Zwangsstrafen sanktioniert wurde.
+Der Revisionsrekurs ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Rekursgerichts nicht zulässig,
+Rechtliche Beurteilung
+Der Oberste Gerichtshof hat bereits in der Entscheidung 6 Ob 262/09m = wbl 2010, 421 = GesRZ 2010, 283 (zust Fragner) = ecolex 2010, 575 = RdW 2010, 505 = NZ 2011, 54, ausgesprochen:
+„Art 4 Abs 4 Satz 1 der Bilanzrichtlinie legt fest, dass in der Bilanz sowie in der Gewinn- und Verlustrechnung zu jedem Posten die entsprechende Zahl der vorhergehenden Geschäftsjahre anzugeben ist. Diese gemeinschaftsrechtlichen Vorgaben hat der österreichische Gesetzgeber in § 223 Abs 2 UGB umgesetzt. § 283 Abs 1 UGB dient - ebenso wie § 24 FBG - (auch) der Umsetzung des Art 6 der PublizitätsRL. Das Unterlassen der Angabe der Vorjahreszahlen im Jahresabschluss stellt im Hinblick auf die erwähnten gemeinschaftsrechtlichen Vorgaben auch einen Verstoß gegen die §§ 277 bis 280a UGB dar. Das Gericht hat daher gemäß § 283 Abs 1 UGB (unter anderem) die Geschäftsführer einer Gesellschaft mittels Zwangsstrafen zur Beachtung der jeweiligen (Form-)Vorschriften anzuhalten.“
+Es waren - wie hier - sowohl wegen Nichteinreichung des Jahresabschlusses des Vorjahrs (zum 30. 6. 2007) als auch wegen der Nichtanführung der Vorjahreszahlen im darauffolgenden Jahresabschluss (zum 30. 6. 2008) jeweils Zwangsstrafen verhängt worden. § 283 UGB war noch in der Fassung vor der Novellierung durch das Budgetbegleitgesetz 2011 (BGBl I 2010/111) anzuwenden. Durch diese Novelle wurde einerseits die Erstbestrafung durch Zwangsstrafverfügung (§ 283 Abs 2 und 3 UGB) eingeführt (die unionsrechtskonform ist, vgl EuGH 26. 9. 2013, C-418/11 - Texdata), andererseits die wiederholte Bestrafung nach jeweils zwei Monaten (§ 283 Abs 4 UGB).
+Diese Gesetzesänderungen tangieren aber die Beurteilung der Entscheidung 6 Ob 262/09m nicht.
+Die vom Rekursgericht aufgeworfene Rechtsfrage ist daher vom Obersten Gerichtshof durch die Entscheidung 6 Ob 262/09m schon beantwortet worden. Die Nichteinreichung des Jahresabschlusses (hier für 2012) einerseits und die Nichtanführung der Vorjahreszahlen im darauffolgenden Jahresabschluss (hier für 2012) stellen betreffend die einzelnen Jahresabschlüsse verschiedene Verstöße dar; die Entscheidung des Rekursgerichts folgt somit der Rechtsprechung des Obersten Gerichtshofs. Eine Entscheidung, die zwar bisher die
+einzige ist, die aber ausführlich begründet und mehrfach veröffentlicht wurde, zu der gegenteilige Entscheidungen nicht vorliegen und die auch vom Schrifttum ohne Kritik übernommen wurde, reicht für das Vorliegen einer gesicherten Rechtsprechung aus (RIS-Justiz RS0103384).
+Auch die Rechtsmittelwerber zeigen keine erhebliche Rechtsfrage auf, weshalb das Rechtsmittel zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0060OB00185.14W.1119.000

@@ -1,0 +1,87 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+15.09.2014
+Geschäftszahl
+34R93/14t
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht ***** wegen des Einspruchs gegen das Patent AT 507514 B1 über den Rekurs der Antragstellerin gegen den Beschluss der Technischen Abteilung des Patentamts vom 18.12.2013, 1A A 1538/2009-10,11, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000,--.
+Der ordentliche Revisionsrekurs ist nicht zulässig.
+Text
+Begründung
+1. Die Antragsgegnerinnen sind Inhaberinnen des Patents AT 507514 „Prüfstand mit mindestensen einem Dynamometer“, veröffentlicht am 15.1.2011 („Streitpatent“). Die Ansprüche dieses Patents lauten:
+«1. Prüfstand mit mindestens einem Dynamometer, wobei das oder jedes Dynamometer eine motorisch und generatorisch betreibbare Elektromaschine mit einem Stator und einem Rotor, einen dem Rotor der Elektromaschine zugeordneten Wellenzapfen und einen mit dem Wellenzapfen verbindbaren Adapter aufweist, und wobei an einer Anbindungsfläche des Adapters zumindest ein Prüfling und/oder ein Messflansch bzw. eine Drehmomentmesseinrichtung befestigbar ist, dadurch gekennzeichnet, dass der Wellenzapfen (19) einen Außendurchmesser aufweist, der mindestens dem 0,5-fachen eines Außendurchmessers eines zwischen dem Stator (13) und dem Rotor (12) der Elektromaschine (11) ausgebildeten Luftspalts (17) entspricht.
+2. Prüfstand nach Anspruch 1, dadurch gekennzeichnet, dass der Außendurchmesser des Wellenzapfens (19) mindestens dem 0,6-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+3. Prüfstand nach Anspruch 2, dadurch gekennzeichnet, dass der Außendurchmesser des Wellenzapfens (19) mindestens dem 0,7-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+4. Prüfstand nach Anspruch 3, dadurch gekennzeichnet, dass der Außendurchmesser des Wellenzapfens (19) mindestens dem 0,8-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+5. Prüfstand nach Anspruch 4, dadurch gekennzeichnet, dass der Außendurchmesser des Wellenzapfens (19) mindestens dem 1,0-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+6. Prüfstand nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass der Wellenzapfen (19) einen Außendurchmesser aufweist, der maximal dem 1,2-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+7. Prüfstand nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass ein axialer Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und einem Blechpaket (16) des Stators (13) maximal dem 1,0-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+8. Prüfstand nach Ansprüche 7, dadurch gekennzeichnet, dass der axiale Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und dem Blechpaket (16) des Stators (13) maximal dem 0,8-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+9. Prüfstand nach Ansprüche 8, dadurch gekennzeichnet, dass der axiale Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und dem Blechpaket (16) des Stators (13) maximal dem 0,7-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+10. Prüfstand nach Ansprüche 9, dadurch gekennzeichnet, dass der axiale Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und dem Blechpaket (16) des Stators (13) maximal dem 0,5-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+11. Prüfstand nach Ansprüche 10, dadurch gekennzeichnet, dass der axiale Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und dem Blechpaket (16) des Stators (13) maximal dem 0,2-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+12. Prüfstand nach einem der Ansprüche 7 bis 11, dadurch gekennzeichnet, dass der axiale Abstand zwischen der Anbindungsfläche (20) des Adapters (25) und dem Blechpaket (16) des Stators (13) mindestens dem 0,1-fachen des Außendurchmessers des Luftspalts (17) entspricht.
+13. Dynamometer, mit einer motorisch und generatorisch betreibbaren Elektromaschine, die einen Stator und einen Rotor aufweist, wobei dem Rotor der Elektromaschine ein Wellenzapfen zugeordnet ist, wobei mit dem Wellenzapfen ein Adapter verbindbar ist, und wobei an einer Anbindungsfläche des Adapters zumindest ein Prüfling und/oder ein Messflansch bzw. eine Drehmomentmesseinrichtung befestigbar ist, dadurch gekennzeichnet, dass der Wellenzapfen (19) einen Außendurchmesser aufweist, der mindestens dem 0,5-fachen eines Außendurchmessers eines zwischen dem Stator (13) und dem Rotor (12) der Elektromaschine (11) ausgebildeten Luftspalts (17) entspricht.
+14. Dynamometer nach Anspruch 13, gekennzeichnet durch Merkmale nach einem oder mehreren der Ansprüche 2 bis 12.»
+Die Patentschrift enthält folgende Skizze:
+10 Dynamometer 11 Elektromaschine 12 Rotor
+13 Stator
+14 Rotorgrundkörper
+15 Rotorblechpaket
+16 Statorblechpaket
+17 Luftspalt
+18 Wickelkopf
+19 Wellenzapfen
+20 Anbindungsfläche
+21 Lager
+22 Lagerdeckel
+23 Lagerschild
+24 Schraubverbindung
+25 Adapter
+26 Zusatzmasse
+27 Bohrung
+2. Die Antragstellerin erhob gegen dieses Patent einen Einspruch nach § 102 PatG und brachte – so weit für das Rekursverfahren relevant – vor, dass der jeweilige Gegenstand der Ansprüche 1 bis 14 nicht neu sei und nicht auf einer erfinderischen Tätigkeit beruhe (§ 102 Abs 2 Z 1 PatG).
+Dazu berief sich die Antragstellerin auf das Patent EP 1892512 A2 („Elektrische Antriebs- und Belastungsmaschine [= Dynamometer] für Hochleistungs-Prüfstände“). Sie brachte dazu vor, dass sie ein Hochleistungs-Dynamometer für Hochleistungsprüfstände entwickelt und als „DynoPrime Racing 620/17-20“ vermarktet habe. Daraus sei unter anderem das Patent EP 1892512 A2 hervorgegangen, das eine elektrische Antriebs- und Belastungsmaschine (= Dynamometer) für Hochleistungsprüfstände betreffe. Die elektrische Maschine sei sowohl motorisch als auch generatorisch betreibbar und weise einen Stator und einen Rotor auf, dem ein Wellenzapfen zugeordnet sei. Es sei ein Adapter vorgesehen, wobei an einer Anbindungsfläche ein Prüfling befestigbar sei.
+Das EP 1892512 A2 enthält folgende Skizze:
+In dieser Skizze – so die Antragstellerin – ergebe sich, dass der Wellenzapfen größer als das 0,5-Fache des Außendurchmessers des Luftspalts sei; es ergebe sich ein Verhältnis von ~ 0,6 und somit mindestens 0,5. EP 1892512 A2 zeige somit alle Merkmale der Ansprüche 1 und 13 des Streitpatents.
+Dem Streitpatent (Ansprüche 1 und 13) fehle die erfinderische Tätigkeit. Die Aufgabe werde darin gesehen, eine torsionssteife Anbindung eines Bauteils (zum Beispiel eines Prüflings) zu ermöglichen, das heißt die Torsionseigenfrequenz des Mehrmassensystems (Rotor und angebundener Bauteil) in einen solchen Bereich zu legen, der im Prüfbetrieb durch das abgefahrene Lastprofil im Prüfstand nicht angeregt werde. Die Torsionssteifigkeit und die Torsionseigenfrequenz berechneten sich nach einer bekannten Formel, aus der dem Fachmann bekannt sei, dass sowohl Torsionssteifigkeit als auch Torsioneigenfrequenz nur vom Radius und von der Länge des Wellenabschnitts abhingen. Die Anwendung allgemein bekannter physikalischer Zusammenhänge sei keine erfinderische Tätigkeit. Dabei sei egal, ob der Radius als entscheidende Größe mit einem absoluten oder mit einem relativen Wert (wie im Streitpatent, nämlich bezogen auf den Luftspaltdurchmesser) angegeben werde.
+Das Streitpatent enthalte auch keine Angabe über das zu erzielende Ausmaß der Torsionssteifigkeit. Die Torsionssteifigkeit dadurch zu erhöhen, dass man den Durchmesser der Welle vergrößert und/oder die Welle verkürzt, beruhe bloß auf handwerklichem Können.
+Die Ansprüche 2 bis 6 enthielten beliebige Verhältnisse der Durchmesser des Wellenzapfens und des Luftspalts von 0,5 bis 1,2. Dass das EP 1892512 A2 ein Verhältnis von ~ 0,6 enthalte, sei daher neuheitsschädlich.
+Der genannte Parameterbereich sei auch willkürlich gewählt und beruhe nicht auf einer erfinderischen Tätigkeit.
+Die Ansprüche 7 bis 12 bezögen sich – mit einer willkürlichen Wahl der Faktoren von 0,1 bis 1,0 – auf den auf den Hand liegenden Parameter zur Beinflussung der Torsionssteifigkeit, nämlich auf die Länge des Wellenzapfens (angegeben als relative Größe im Verhältnis zu einer anderen Größe des Dynamometers). Für den Fachmann liege auf der Hand, dass die Verkürzung des Wellenzapfens die Torsionssteifigkeit erhöhe.
+3. Die Antragsgegnerinnen wandten zur Frage der Neuheit ein, aus schematischen Zeichungen könnten nicht – wie es die Antragstellerin unter Verwendung der Skizze zum EP 1892512 A2 getan habe – relevante relative Dimensionierungen herausgelesen werden.
+Zur Erfindungshöhe brachten sie vor, die von der Antragstellerin herangezogenen Formeln zur Torsionssteifigkeit bezögen sich auf ein Einmassensystem und seien daher nicht auf die patentierte Erfindung umzulegen, die ein Mehrmassensystem betreffe. Der Fachmann könne den Formeln keinen Hinweis darauf entnehmen, den Außendurchmesser des Wellenzapfens relativ zum Außendurchmesser des Luftspalts festzulegen; ebenso wenig finde sich ein Hinweis darauf, für dieses Verhältnis mindestens das 0,6-Fache zu wählen.
+Die Kombination der Ansprüche 1, 2, 7 und 8 definiere, dass der Außendurchmesser des Wellenzapfens mindestens dem 0,6-Fachen des Außendurchmessers des Luftspalts entspreche und dass der axiale Abstand zwischen den Außenflächen des Adapters und dem Blechpaket des Stators maximal dem 0,8-Fachen des Außendurchmessers des Luftspalts entspreche, was auch in Abs 0011 der Patentschrift erörtert werde. Der Stand der Technik enthalte keinen Hinweis auf diese Paramter-Kombination.
+Selbst wenn das Herauslesen von Größen aus schematischen Zeichnungen zulässig wäre, ergäbe sich aus der Skizze in EP 1892512 A2 ein anderes Verhältnis zwischen dem Außendurchmesser des Wellenzapfens und dem Luftspaltaußendurchmesser, nämlich 0,57.
+4. Das Patentamt (Technische Abteilung) wies den Einspruch nach einer mündlichen Verhandlung ab, bejahte die – von der Antragstellerin bestrittene – Ausführbarkeit und verneinte die – von der Antragstellerin behauptete – Vorbenützung.
+Es ging sowohl von der Neuheit als auch von der Erfindungshöhe aus und bezog beide Themen auf EP 1892512 A2 als einzige Entgegenhaltung der Antragstellerin.
+4.1 Zur Neuheit erwog das Patentamt, dass auch EP 1892512 A2 ein Dynamometer offenbare, somit den Oberbegriff von Anspruch 1 des Streitpatents. Hingegen sei nicht zulässig, aus der Skizze in EP 1892512 A2 bestimmte Dimensionen abzuleiten. Die Rechtsprechung lehne dies jedenfalls insofern ab, als auf diese Weise bestimmte Werte ermittelt werden sollten. In Einzelfällen seien Messungen aus Skizzen dazu herangezogenen worden, um zu prüfen, ob verschiedene Elemente kleiner, größer oder annähernd gleich groß seien wie verglichene Elemente.
+Da somit aus der Skizze von EP 1892512 A2 kein bezifferbares Größenverhältnis „Außendurchmesser Wellenzapfen : Außendurchmesser Luftspalt“ abgeleitet werden könne, könne EP 1892512 A2 nicht neuheitsschädlich für das Streitpatent sein, das solche Quotienten beziffere.
+4.2 Das Patentamt verneinte auch die Frage, ob ein Anspruch oder mehrere Ansprüche des Streitpatents in naheliegender Weise aus EP 1892512 A2 hervorgingen. Ziel der Erfindung sei eine torsionssteife Anbindung eines Prüflings, eines Messflansches oder einer Drehmoment-Messeinrichtung an den Rotor des Dynamometers, was durch eine möglichst torsionssteife Ausbildung des Wellenzapfens erreicht werde. Daher erhöhe die Vergrößerung des Wellenzapfendurchmessers die Torsionssteifigkeit genauso wie dies die Verkürzung des Rotors tue. Auch die Verringerung des axialen Abstands zwischen der Anbindungsfläche des Adapters und dem Blechkontakt des Stators erhöhe die Torsionssteifigkeit des Wellenzapfens.
+Demgegenüber löse EP 1892512 A2 die Aufgabe, eine Rotorwelle mit einem möglichst geringen Drehmoment herzustellen. Je kleiner der Durchmesser sei, umso kleiner sei auch das Drehmoment; deshalb führe EP 1892512 A2 von der Erfindung des Streitpatents weg, bei dem der Durchmesser des Wellenzapfens zur Erhöhung der Torsionssteifigkeit vergrößert werde (auf die EP 1892512 A2 gar nicht hinweise).
+5. Dagegen richtet sich der Rekurs der Antragstellerin, die beantragt, die Entscheidung zu ändern und das Streitpatent im vollen Umfang zu widerrufen.
+Die Antragsgegnerinnen beantragen, dem Rekurs nicht Folge zu geben.
+Der Rekurs ist nicht berechtigt.
+Rechtliche Beurteilung
+6.1 Der Rekurs kommt nur mehr auf die Frage der erfinderischen Tätigkeit zurück und bemängelt im Ergebnis, dass sich das Patentamt nicht zutreffend mit jenem Stand der Technik auseinandergesetzt habe, der sich aus dem allgemeinen Fachwissen (Lehrbuchwissen) – allenfalls in Kombination mit EP 1892512 A2 – ergebe. Im Rekurs wird – kurz zusammengefasst – vorgetragen, das Streitpatent verwerte nur die allgemein bekannte Tatsache, dass die Torsionssteifigkeit mit dem Durchmesser eines Rotor korrespondiere und zur Länge des Rotors reziprok sei.
+6.2 Aufgabe des Streitpatentes ist es, einen neuartigen Prüfstand mit mindestens einem Dynamometer sowie ein neuartiges Dynamometer zu schaffen, das eine torsionssteife Anbindung des Prüflings (und/oder des Messflanschs und/oder der Drehmomentmesseinrichtung gegebenenfalls zusammen mit einer Zusatzmasse) erlaubt. Erfindungsgemäß soll dazu der Wellenzapfen einen Außendurchmesser aufweisen, der mindestens dem 0,5-Fachen eines Außendurchmessers eines zwischen dem Stator und dem Rotor der Elektromaschine ausgebildeten Luftspalts entspricht.
+Dies erlaubt eine bezüglich der zu simulierenden Lastprofile ausreichend hohe Torsionseigenfrequenz des Mehrmassensystems, bestehend aus dem Rotor des Dynamometers, dem Prüfling, allenfalls einem Messflansch, allenfalls einer Drehmomentmesseinrichtung sowie allenfalls einer Zusatzmasse.
+Der Zusammenhang zwischen der Torsionssteifigkeit und der Eigenfrequenz rotierender Massen ist für eine Fachperson als bekannt anzunehmen (siehe zum Beispiel Beilage ./J = Dubbel, Taschenbuch für den Maschinenbau). In der Beschreibungseinleitung des Streitpatentes wird zunächst erläutert, dass einem Rotor ein Wellenzapfen zugeordnet ist, an dem wiederum ein Adapter mit einer Anbindungsfläche für den Prüfling oder für eine Messeinrichtung vorgesehen ist. Aus der Forderung nach einer torsionssteifen Anbindung des Prüflings am Rotor des Dynamometers (siehe Absatz [0005]) ist nicht ohne Weiteres eine Dimensionierung des Wellenzapfenaußendurchmessers auf den 0,5-fachen Luftspaltaußendurchmesser ableitbar. Da der Prüfstand eine Reihe verschiedener sich drehender und miteinander verbundener Massen (wie Rotor, Wellenzapfen, Adapter, Kupplungen, Welle des zu prüfenden Motors sowie dazwischengeschaltete Messeinrichtungen) aufweist oder aufweisen kann, ist auch eine Vielzahl von Möglichkeiten gegeben, die Eigenfrequenz des Prüfstands zu beeinflussen.
+Allenfalls wäre aus der in der Beschreibungseinleitung gemachten Problemstellung eine an sich nicht weiter bestimmte Berücksichtigung des Adapters bei der torsionssteifen Anbindung herauszulesen, was jedoch nicht die erfindungsgemäße Ausbildung des Wellenzapfens nahelegt.
+Die Aufgabe von EP 1892512 A2 ist, wie eine Rotorwelle mit einem möglichst geringen Trägheitsmoment für hohe Dynamik sowie wie eine dreiteilige Ausbildung der Rotorwelle zur Verhinderung magnetischer Streuflüsse über die Rotorwelle gestaltet werden soll.
+Somit bestehen in der Offenbarung von EP 1892512 A2 einerseits und im Streitpatent andererseits völlig unterschiedliche Aufgabenstellungen und unterschiedliche Lösungsansätze; dazu kommt, dass sich aus der Forderung nach einem geringen Trägheitsmoment der Rotorwelle kein Hinweis auf jene Ausbildung des Wellenzapfens ableiten lässt, die im Streitpatent offenbart ist.
+Dabei ist auch nicht entscheidend, ob der Fachmann durch eine Änderung oder durch eine Anpassung des nächstliegenden Stands der Technik zu der Erfindung hätte gelangen können, sondern ob er tatsächlich dahin gelangt wäre, weil der Stand der Technik ihn dazu veranlasste.
+6.3 Die Gegenstände der unabhängigen Ansprüche 1 und 13 sowie der dazugehörenden Unteransprüche sind somit neu und erfinderisch. Die Entscheidung des Patentamts bedarf keiner Korrektur.
+7. Da die Entscheidung keine bisher von der Rechtsprechung unbeantworteten Rechtsfragen von der Qualität des § 62 Abs 1 AußStrG aufweist und über den Einzelfall hinaus nicht bedeutsam ist, ist der Revisionsrekurs nicht zulässig.
+In diesem Fall hat das Rekursgericht nach § 59 Abs 2 AußStrG auszusprechen, ob der Wert des Entscheidungsgegenstands, der – wie hier – rein vermögensrechtlicher Natur ist, aber nicht in einem Geldbetrag besteht, EUR 30.000,-- übersteigt. Diese Voraussetzung ist angesichts der Bedeutung des Patentrechts im Wirtschaftsleben gegeben.
+Oberlandesgericht Wien
+1011 Wien, Schmerlingplatz 11
+Abt. 34, am 15. September 2014
+European Case Law Identifier
+ECLI:AT:OLG0009:2014:03400R00093.14T.0915.000

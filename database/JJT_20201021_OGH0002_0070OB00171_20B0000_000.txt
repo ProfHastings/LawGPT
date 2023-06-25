@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob171/20b
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei J***** K*****, vertreten durch Mag. Thomas Frischmann, Rechtsanwalt in Bad Häring, gegen die beklagte Partei U***** AG, *****, vertreten durch Musey rechtsanwalt gmbH in Salzburg, wegen Feststellung, über den Rekurs der beklagten Partei gegen den Beschluss des Handelsgerichts Wien als Berufungsgericht vom 10. Juli 2020, GZ 60 R 39/20g-23, mit dem das Urteil des Bezirksgerichts für Handelssachen Wien vom 30. März 2020, GZ 9 C 69/19s-19, aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Die klagende Partei hat die Kosten ihrer Rekursbeantwortung selbst zu tragen.
+Text
+Begründung:
+Der Rekurs ist – ungeachtet des den Obersten Gerichtshof nicht bindenden – Ausspruchs des Berufungsgerichts nicht zulässig. Die Zurückweisung des Rekurses wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken.
+Rechtliche Beurteilung
+1.1 Artikel 20 („Ausschlüsse“) der dem Unfallversicherungsvertrag zugrunde liegenden *****Bedingungen für die Unfallversicherung 2012 (UB00) lauten auszugsweise:
+„Ausgeschlossen von der Versicherung sind Unfälle:
+[...]
+8. die die versicherte Person infolge einer wesentlichen Beeinträchtigung ihrer psychischen oder physischen Leistungsfähigkeit durch Alkohol, Suchgifte oder Medikamente erleidet;
+[...]“
+1.2 Der – einem verständigen Versicherungsnehmer ohne weiteres erkennbare – Sinn dieser Ausschlussklausel liegt darin, solche Unfälle vom Versicherungsschutz auszunehmen, die Folge einer beim Versicherten schon vor dem Unfall vorhandenen, gefahrerhöhenden Beeinträchtigung und sich daraus ergebenden Einschränkung sind (7 Ob 168/19k; vgl RS0122121). Die Bewusstseinsstörung oder Beeinträchtigung muss, um einen Ausschluss von der Versicherung zu begründen, den Unfall verursacht haben, zumindest aber mitursächlich gewesen sein (RS0082132 [T1]).
+1.3 Der Grenzwert des Alkoholisierungsgrades, ab dem der Ausschlusstatbestand der wesentlichen Beeinträchtigung der psychischen Leistungsfähigkeit erfüllt ist, hängt davon ab, ob die vom alkoholisierten Versicherten ausgeübte Tätigkeit besondere Anforderungen an die Aufnahmefähigkeit, Konzentrationsfähigkeit und Reaktionsfähigkeit stellt oder nicht (RS0081871). Die Grenzwerte der Alkoholisierung werden dahin dementsprechend verschieden sein, je nachdem, ob der Versicherte etwa Autofahrer, Radfahrer oder Fußgänger ist (vgl RS0082043 [T2]). Wenn der Blutalkohol allein für die Annahme des Ausschlussgrundes noch nicht ausreicht, ist der Begriff der wesentlichen Beeinträchtigung der psychischen Leistungsfähigkeit danach zu bemessen, ob der Versicherte noch in der Lage ist, mit der jeweiligen Situation, in der er sich in der Zeit des Unfalls befindet, einigermaßen zurechtzukommen (RS0081872).
+1.4 Wie schon das Berufungsgericht darlegte, ist nach oberstgerichtlicher Rechtsprechung (7 Ob 57/86, 7 Ob 25/88, 7 Ob 41/88) eine Bewusstseinsstörung bei einem Blutalkoholwert von 1,3 Promille jedenfalls anzunehmen. Diese Blutalkoholkonzentration ist eine Höchstgrenze, bei deren Erreichen oder Überschreiten auch der geschickteste, leistungsfähigste und alkoholverträglichste, selbst an ständigen Alkoholgenuss gewöhnte Kraftfahrer eine solche Einbuße seiner gesamten Leistungsfähigkeit erleidet, dass er mit Sicherheit fahruntüchtig ist.
+1.5 Unter Zugrundelegung dieser Rechtsprechung ging das Berufungsgericht davon aus, dass der Blutalkoholgehalt des Klägers im Unfallszeitpunkt von zumindest 1,24 Promille für sich allein für die Annahme einer wesentlichen Beeinträchtigung der Leistungsfähigkeit und den Beweis der Ursächlichkeit für den Verkehrsunfall nicht ausreiche, sodass es weiterer konkreter Feststellungen dazu bedürfe, ob diese konkrete Alkoholisierung des Klägers für den Verkehrsunfall ursächlich oder zumindest mitursächlich gewesen sei.
+1.6 Der bloße Hinweis des Berufungsgerichts auf anderslautende, der Entscheidung nicht zugrunde gelegte und auch nicht konkretisierte deutsche Rechtsprechung vermag eine rechtliche Relevanz der Frage der Reduktion des Blutalkoholgehalts von 1,3 Promille auf 1,1 Promille nicht zu begründen.
+1.7 Die für die Revisionszulässigkeit maßgebende Erheblichkeit der Rechtsfragen bestimmt sich nach objektiven Umständen. Hat das Berufungsgericht – wie hier – nach einer einheitlichen oberstgerichtlichen Rechtsprechung entschieden, dann kann die Zulässigkeit der Revision nur mit neuen bedeutsamen Argumenten begründet werden.
+1.8 Die Beklagte begnügt sich jedoch in ihrem Rekurs mit einem Verweis auf eine – noch dazu unvollständig zitierte – Stelle eines deutschen Kommentars „und der dort dargestellten entsprechenden Rechtsprechung“, ohne  inhaltliche Argumente anzuführen, die den Obersten Gerichtshof zu einem Abgehen von seiner Rechtsprechung veranlassen könnten. Allein mit dem Umstand, dass (behauptetermaßen) deutsche von österreichischer Rechtsprechung abweicht, kann eine erhebliche Rechtsfrage nicht begründet werden.
+2.1 Der Vollständigkeit halber ist auszuführen: Die Feststellungsklage ist bei gleichem Rechtsschutzeffekt subsidiär zur Leistungsklage (RS0038849, vgl auch RS0038817). Kann der Kläger bereits Leistungsklage erheben, fehlt seinem Feststellungsbegehren das rechtliche Interesse (RS0039021 [T5, T8]). Das Feststellungsinteresse ist Voraussetzung für den Feststellungsanspruch (RS0039177). Es ist vom Kläger durch Geltendmachung konkreter Umstände zu behaupten und (erforderlichenfalls) zu beweisen (RS0039239; RS0037977). Der Mangel rechtlichen Interesses an der Feststellung ist auch im Rechtsmittelverfahren von Amts wegen wahrzunehmen (RS0039123).
+2.2 Die Leistung aus der Unfallversicherung ist üblicherweise eine Kapitalzahlung (Invaliditätsentschädigung) (7 Ob 206/18x). Das fragliche Feststellungsinteresse wurde in diesem Zusammenhang bislang nicht erörtert.
+3. Der Rekurs ist damit zurückzuweisen. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO. Der Kläger hat auf die Unzulässigkeit des Rechtsmittels nicht hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00171.20B.1021.000

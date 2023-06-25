@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.10.1951
+Geschäftszahl
+2Ob82/51
+Norm
+ABGB §1358;
+ABGB §1380;
+ABGB §1395;
+ABGB §1396;
+Deutsches bürgerliches Gesetzbuch §§399 ff;
+Deutsches bürgerliches Gesetzbuch §404;
+Deutsches bürgerliches Gesetzbuch §§406 ff;
+Deutsches bürgerliches Gesetzbuch §§410 ff;
+Reichsversicherungsordnung §1542;
+Strafgesetz §335;
+Kopf
+SZ 24/276
+Spruch
+Zur Frage, inwieweit ein Verzicht des Geschädigten gegenüber dem Beschädiger für den Regreßanspruch des Versicherungsträgers nach § 1542 RVO. von Bedeutung ist.
+Entscheidung vom 17. Oktober 1951, 2 Ob 82/51.
+I. Instanz: Landesgericht für Zivilrechtssachen Graz; II. Instanz:
+Oberlandesgericht Graz.
+Text
+Der Beklagte, der bei der Likörfabrik B. als Platzmeister tätig war, verschuldete am 27. Juli 1942 den Zusammenstoß eines Personenkraftwagens mit einem von ihm gelenkten Lieferwagen dieser Firma. Durch den Zusammenstoß wurde der ebenfalls in dem Dienste der genannten Firma stehende Mitfahrer und Hilfsarbeiter Friedrich S. schwer verletzt. Der Beklagte wurde in der Folge wegen Übertretung nach § 335 StG. verurteilt, der Lenker des Personenkraftwagens jedoch freigesprochen. Die klagende Unfallversicherungsanstalt macht gegen den Beklagten die auf sie gemäß § 1542 RVO. übergegangenen Schadenersatzansprüche des Geschädigten auf Verdienstentgang und Heilungskosten in dem Umfang ihrer Aufwendungen geltend.
+Das Prozeßgericht gab dem Klagebegehren mit Ausnahme eines Betrages von 622.80 S statt; die Abweisung des Klagebegehrens in Ansehung dieses Teilbetrages beruhte darauf, daß das Prozeßgericht der Klägerin für neun Monate, während deren der Verunglückte nur zu 70% erwerbsunfähig war, nur 70% der von ihr geleisteten Renten zuerkannte.
+Das Berufungsgericht gab dem Klagebegehren auch in Ansehung des Teilbetrages Folge.
+Der Oberste Gerichtshof bestätigte das Urteil des Berufungsgerichtes.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Beklagte hat auch eingewendet, daß der Geschädigte durch einen Vergleich auf seinen Anspruch verzichtet habe. Das Gericht zweiter Instanz hat aus Anlaß eines Rekurses gegen einen Unterbrechungsbeschluß des Erstgerichtes seiner Meinung Ausdruck gegeben, daß ein Verzicht ohne rechtliche Bedeutung für die klagende Partei wäre, und sich hiebei auf den Kommentar zur Reichsversicherungsordnung von Krohn und Geigel (Der Haftpflichtprozeß) berufen. Diese Rechtsmeinung wurde vomErstgericht in seinem Urteil übernommen. In dieser Allgemeinheit wird jedoch die Bedeutungslosigkeit eines Verzichtes in der deutschen Rechtsprechung und Rechtslehre nicht behauptet. Diese verweisen vielmehr auf § 412 BGB., wonach auf die Übertragung einer Forderung kraft Gesetzes die Vorschriften der §§ 399 bis 404, 406 bis 410 BGB. Anwendung finden. Nach § 407 BGB. muß der neue Gläubiger ein Rechtsgeschäft, das nach der Abtretung zwischen dem Schuldner und dem bisherigen Gläubiger in Ansehung der Forderung vorgenommen wird, gegen sich gelten lassen, es sei denn, daß der Schuldner die Abtretung bei der Leistung oder der Vornahme des Rechtsgeschäftes kennt. Demgemäß vertreten die deutsche Rechtsprechung und Rechtslehre den Standpunkt, daß ein Rechtsgeschäft des Geschädigten gegen den Versicherungsträger wirkt, wenn der Schädiger im Augenblick der Vornahme den Übergang der Forderung nicht kannte oder kennen mußte; er brauche sich aber des Rechtsüberganges nicht bewußt sein, es genüge, wenn der Schädiger die Tatumstände kannte, die den Rechtsübergang bewirkten, also die Tatsache, daß der Geschädigte zu den versicherten Personen gehört (Geigel, 4. Aufl., Der Haftpflichtprozeß, S. 303, RVO. mit Anmerkungen, herausgegeben von Mitgliedern des Reichsversicherungsamtes, Band I, S. 160, ferner die dort angeführten reichsgerichtlichen Entscheidungen). Das österreichische Recht enthält die den Bestimmungen des § 407 BGB. analogen Vorschriften in den §§ 1395 und 1396 ABGB. Ehrenzweig II/1, S. 264, nimmt an, daß die Benachrichtigung die gleiche Bedeutung wie bei der vertragsmäßigen Abtretung auch in den Fällen des § 1358 ABGB., also der gesetzlichen Abtretung, habe. Ob dieser Ansicht beizutreten ist, kann jedoch dahingestellt bleiben, da sich aus den persönlichen Verhältnissen des Schädigers und Geschädigten als Angehörigen desselben Betriebes ergibt, daß der Beklagte die tatsächlichen Umstände, die für die Versicherungspflicht des Geschädigten maßgebend waren, kannte.
+Ein Verzicht des Geschädigten auf die ihm zustehenden Ansprüche würde daher auch dann, wenn die Wirkung des Verzichtes im Sinne der deutschen Rechtsprechung und Rechtslehre beurteilt würde, die klagende Partei nicht binden.

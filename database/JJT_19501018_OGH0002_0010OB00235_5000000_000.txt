@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.1950
+Geschäftszahl
+1Ob235/50
+Norm
+ABGB §1168a;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §425;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §429;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §431;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §432;
+Kopf
+SZ 23/292
+Spruch
+Haftung des Frachtführers bei der Abschleppung eines mit Frachtgut beladenen Fahrzeuges für Verlust des Gutes.
+Entscheidung vom 18. Oktober 1950, 1 Ob 235/50.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Beklagte hat als Frachtführer die Beförderung von drei Fässern Wein mittels Lastkraftwagens aus dem Burgenland nach Wien auszuführen übernommen. Der Kläger hat die Fuhre begleitet. Der Lastkraftwagenlenker, ein Angestellter des Beklagten namens P., stieß mit seinem Wagen derart an einen an der Straße befindlichen Betonklotz, daß der mit dem Wein beladene Lastkraftwagen nicht mehr mit eigener Kraft die Fahrt fortsetzen konnte. Da der Kläger aber unbedingt nach Wien wollte, ersuchte P. den Lenker eines nachkommenden Autos, ihn nach Wien zu schleppen. Der Kläger verhandelte mit dem fremden Lenker wegen des für das Abschleppen verlangten Preises. Bei der Weiterfahrt stieß P., der den abgeschleppten Wagen lenkte, mit einem Fahrzeug der russischen Besatzungsmacht zusammen. Durch diesen Zusammenstoß, dessentwegen P. gemäß § 431 StG. rechtskräftig verurteilt wurde, rann der Wein aus und ging verloren.
+Die unteren Instanzen haben den Beklagten gemäß § 429 Abs. 1 HGB. zum Ersatz des verlorenen Weines verurteilt.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Beklagte steht auf dem Standpunkt, daß Kläger den fremden Wagen und den fremden Lenker mit dem restlichen Transport betraut, damit aber einen neuen Frachtvertrag abgeschlossen, den Beklagten aus seiner Haftung entlassen und selbst das Risiko des weiteren Transportes auf sich genommen habe. Die unteren Instanzen unterlassen eine deutliche Feststellung, ob der Kläger oder P. den Vertrag über die Abschleppung abgeschlossen hat. Doch ist diese Feststellung nicht nötig und erscheint auch ohne sie der Standpunkt der Revision unhaltbar. Hat P. den Abschleppungsvertrag abgeschlossen, so scheidet ein Risiko des Klägers von vornherein aus. Aber selbst wenn der Kläger den Abschleppungsvertrag abgeschlossen haben sollte, hat er damit nicht einen neuen Frachtvertrag abgeschlossen und den Beklagten aus seiner Haftung entlassen. Er hat damit dem Beklagten nur eine Antriebskraft für seinen steckengebliebenen Wagen zur Verfügung gestellt, gleichsam als ob er selbst mit seinen physischen Kräften den Wagen weiterbewegt hätte. Fahrzeug und Lenker blieben unverändert. Eine Ablieferung des Frachtgutes im Sinne des § 429 Abs. 1 HGB. hat noch nicht stattgefunden, ebensowenig eine Anhaltung oder Zurückgabe im Sinne des § 432 Abs. 1 HGB. Der Kläger war lediglich dem Beklagten bei Erfüllung seiner Vertragspflicht behilflich. P., an dessen Stelle gemäß § 431 HGB. der Beklagte gesetzt werden kann, hat die Abschleppung übrigens selbst in die Wege geleitet und hat durch Weiterlenken des abgeschleppten, das Frachtgut enthaltenden Fahrzeuges die übernommene Beförderung fortgesetzt, wenn auch unter Zuhilfenahme einer anderen, ihm allenfalls durch den Kläger zur Verfügung gestellten Antriebskraft. Wenn das Abschleppen gut ausgegangen wäre, hätte der Beklagte das Gut in Wien vereinbarungsgemäß, allenfalls gegen Erfüllung der sich aus dem Frachtvertrag noch ergebenden Verpflichtungen, abgeliefert. Mit Recht spricht das Berufungsurteil aus, daß der Beklagte oder der für ihn handelnde Chauffeur, wenn er das Abschleppen für gefahrvoll oder für undurchführbar gehalten hätte, sich ihm widersetzen oder aber zumindest erklären hätte müssen, daß er das Abschleppen nur auf Gefahr des Klägers durchführe (analog § 1168a ABGB.). Da der Beklagte nicht nachgewiesen hat, daß der Verlust des Gutes auf Umständen beruht, die durch die Sorgfalt eines ordentlichen Frachtführers nicht abgewendet werden konnte, haftet er für den Schaden, der durch den Verlust des Gutes entstanden ist (§ 429 Abs. 1 HGB.). Der Vertrag mit dem Abschlepper kann überdies nicht als Frachtvertrag angesehen werden; denn wer bloß Beförderungsmittel hergibt oder nur Dienst bei einer Beförderung leistet, ist kein Frachtführer. Der Schleppvertrag ist Frachtvertrag nur, wenn der Schleppunternehmer selbst befördert, d. h. die Leitung des geschleppten Fahrzeuges hat. Stellt er bloß die Fortbewegung bei und verbleibt die Leitung des geschleppten Fahrzeuges bei dessen Lenker, liegt kein Frachtvertrag, sondern ein anderer Werkvertrag (oder Dienstvertrag) vor. Das geschleppte Fahrzeug ist nicht Frachtgut. Die Absender der Ladung des geschleppten Fahrzeuges stehen mit dem Schleppunternehmer in keinem Vertragsverhältnis

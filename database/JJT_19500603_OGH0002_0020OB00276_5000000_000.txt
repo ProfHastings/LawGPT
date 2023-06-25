@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.06.1950
+Geschäftszahl
+2Ob276/50
+Norm
+Gesetz über Gesellschaften mit beschränkter Haftung §41;
+Gesetz über Gesellschaften mit beschränkter Haftung §42;
+Gesetz über Gesellschaften mit beschränkter Haftung §44;
+JN §83b;
+ZPO §577;
+Kopf
+SZ 23/184
+Spruch
+Auch zur Entscheidung über eine Nichtigkeitsklage nach §§ 41 ff. GesmbHG. kann die Zuständigkeit eines Schiedsgerichtes vereinbart werden.
+Entscheidung vom 3. Juni 1950, 2 Ob 276/50.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die für den 18. November 1948 einberufene außerordentliche Generalversammlung der beklagten Partei (einer Gesellschaft mit beschränkter Haftung) hat unter anderem beschlossen, die Bestellung des Klägers zum Geschäftsführer mit sofortiger Wirksamkeit zu widerrufen und von ihm in seiner Eigenschaft als Gesellschafter einen Betrag von 28.500 S einzufordern, der auf seine Stammeinlage noch ausständig sei. Daraufhin hat der Kläger die Feststellung begehrt, daß die beiden Beschlüsse nichtig seien. Die beklagte Partei hat bei der ersten Tagsatzung die Einrede der Unzuständigkeit erhoben und diese in der Folge dahin ausgeführt, daß die Parteien am 19. August 1948 schriftlich vereinbart haben, alle Rechtsstreitigkeiten, die zwischen ihnen allen oder zwischen einzelnen von ihnen aus dem Gesellschaftsvertrag und den darauf beruhenden und damit zusammenhängenden Rechtsverhältnissen künftig entstehen sollten, unter Ausschluß des ordentlichen Rechtsweges durch ein Schiedsgericht entscheiden zu lassen.
+Das Prozeßgericht hat die Einrede zurückgewiesen.
+Das Rekursgericht hat ihr im Gründe Berechtigung zuerkannt und lediglich zur Klarstellung, ob der beklagten Gesellschaft nur die Gesellschafter angehören, die den Schiedsvertrag unterfertigt haben, den erstgerichtlichen Beschluß mit Rechtskraftvorbehalt aufgehoben und die Sache zur neuen Verhandlung und Entscheidung über die Einrede des Schiedsvertrages an das Prozeßgericht zurückverwiesen.
+Der Oberste Gerichtshof hat dem Revisionsrekurs des Klägers nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Prozeßgericht hat die Zuständigkeit eines Schiedsgerichtes zur Entscheidung über das Begehren des Klägers deshalb abgelehnt, weil nach § 42 Abs. 2 des Gesetzes vom 6. März 1906, RGBl. Nr. 58, über Gesellschaften mit beschränkter Haftung für die Klage auf Nichtigerklärung eines Beschlusses der Gesellschafter ausschließlich der zur Ausübung der Handelsgerichtsbarkeit zuständige Gerichtshof des Sitzes der Gesellschaft zuständig sei und nach § 83b Abs. 2 JN. die Änderung dieses Gerichtsstandes durch Vereinbarung der Parteien unzulässig sei, weil das Urteil, das einer solchen Klage stattgäbe, für und gegen sämtliche Gesellschafter wirke (§ 42 Abs. 6 GesmbHG.), weil auf Grund eines Urteiles oder Beschlusses, womit die Nichtigkeit eines in das Handelsregister eingetragenen Beschlusses der Gesellschaft rechtskräftig ausgesprochen worden sei, die nichtig erklärte Eintragung von Amts wegen zu löschen sei (§ 44 GesmbHG.), und weil schließlich nach § 577 ZPO. die Vereinbarung des Schiedsvertrages nur insoweit rechtliche Wirkung habe, als die Parteien über den Gegenstand des Streites einen Vergleich abzuschließen fähig seien, welche Voraussetzung jedoch auf das Verfahren über eine Klage nach § 41 Abs. 1 Z. 2 GesmbHG. nicht zutreffe. Das Rekursgericht hat die Rechtsansicht des Prozeßgerichtes nicht geteilt und die Entscheidung über eine Nichtigkeitsklage nach den §§ 41 ff. GesmbHG. grundsätzlich auch durch ein Schiedsgericht zugelassen. Der Oberste Gerichtshof schließt sich der Auffassung des Rekursgerichtes, das zu den vom Prozeßgericht aufgeworfenen Fragen eingehend Stellung genommen hat, vollinhaltlich an. Die in der Jurisdiktionsnorm enthaltenen Bestimmungen über die ausschließlichen Gerichtsstände und einen prorogierten Gerichtsstand betreffen nur die Rechtssachen, die vor das ordentliche Gericht gebracht werden, und sind daher nicht anwendbar, wenn die Rechtssache auf Grund einer Parteienvereinbarung vor ein Schiedsgericht gebracht werden kann. Für die Rechtswirksamkeit eines Schiedsvertrages ist aber nach § 577 Abs. 1 ZPO. lediglich Voraussetzung, daß die Parteien über den Streitgegenstand einen Vergleich zu schließen berechtigt sind. Nichts hindert aber, daß über eine Klage nach § 41 GesmbHG. ein Vergleich geschlossen werden kann, der die Aufhebung eines Generalversammlungsbeschlusses zum Inhalte hat. Wenn im § 44 GesmbHG. als Titel für die Löschung einer nichtigen Eintragung in das Handelsregister nur Urteile und Beschlüsse angeführt sind, ist davon ein Schiedsspruch, der in seinen Wirkungen einem Urteile gleichkommt, nicht ausgenommen; ein Vergleich müßte bloß in der Form eines neuen Generalversammlungsbeschlusses beurkundet werden, um die gleiche Wirkung herbeizuführen. Die Vorschrift, daß die Löschung der für nichtig erklärten Eintragung "von Amts wegen" zu erfolgen hat, hat nur die Bedeutung, daß das Registergericht, sobald es von der Entscheidung Kenntnis erlangt, die erforderliche Verfügung zu treffen hat, ohne einen Antrag abwarten zu müssen; auf welche Weise es aber zur Kenntnis der Entscheidung gelangt, ist belanglos.

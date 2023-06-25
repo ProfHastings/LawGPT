@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2022
+Geschäftszahl
+3Ob226/21p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Exekutionssache der betreibenden Partei E* GmbH, *, vertreten durch DLA Piper Weiss-Tessbach Rechtsanwälte GmbH in Wien, gegen die verpflichtete Partei G* GmbH,*, vertreten durch Eisenberger Rechtsanwälte GmbH in Graz, wegen Unterlassung, über den außerordentlichen Revisionsrekurs der Einschreiterin Republik Österreich, Einbringungsstelle, 1016 Wien, Hansenstraße 6, vertreten durch die Finanzprokuratur, 1010 Wien, Singerstraße 17–19, gegen den Beschluss des Landesgerichts Klagenfurt als Rekursgericht vom 10. November 2021, GZ 2 R 231/21d-63, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		In dem von der Betreibenden beim Erstgericht geführten Exekutionsverfahren gemäß § 355 EO wurden über die Verpflichtete aufgrund mehrerer behaupteter Verstöße gegen das Unterlassungsgebot Geldstrafen in Höhe von insgesamt 614.000 EUR verhängt.
+[2] 		Den von der Verpflichteten gegen die Exekutionsbewilligung und die nachfolgenden Strafbeschlüsse erhobenen, vom Erstgericht zur gemeinsamen Verhandlung und Entscheidung verbundenen Impugnationsklagen gab das Landesgericht Klagenfurt als Berufungsgericht in Abänderung des Ersturteils aufgrund eines im Berufungsverfahren erklärten Anerkenntnisses der Beklagten (Betreibenden) mit Anerkenntnisurteil vom 23. Juni 2021 statt.
+[3] 		Das Erstgericht stellte daraufhin die Exekution zwar gemäß § 36 Abs 3 EO ein, sprach jedoch aus, dass die verhängten, bisher nicht bezahlten Geldstrafen von insgesamt 614.000 EUR nicht widerrufen würden, weil der begründete Verdacht bestehe, dass diese Strafen nicht iSd § 359 Abs 2 EO zu Unrecht verhängt worden seien, sondern Hintergrund des Anerkenntnisses der Betreibenden vielmehr eine an sich nicht gebilligte Abtauschvereinbarung sei.
+[4] 		Das Rekursgericht hob diesen Ausspruch des Erstgerichts als nichtig auf und ließ den ordentlichen Revisionsrekurs mangels erheblicher Rechtsfrage nicht zu. Dem Ausspruch des Erstgerichts stehe die Bindungswirkung des rechtskräftigen Anerkenntnisurteils entgegen. Es bestehe keine Kompetenz des Erstgerichts, das nach zulässiger Parteiendisposition mit Anerkenntnisurteil beendete Impugnationsverfahren neuerlich aufzurollen und nachträglich zu prüfen, ob dieses Urteil gefällt werden habe dürfen oder nicht.
+Rechtliche Beurteilung
+[5] 		Der außerordentliche Revisionsrekurs ist mangels Rechtsmittellegitimation der Einschreiterin nicht zulässig.
+[6] 		1. Zum Rekurs im Exekutionsverfahren sind nach ständiger Rechtsprechung neben den Parteien auch sogenannte Beteiligte, wie insbesondere Drittschuldner, Übernahmswerber und Ersteher, legitimiert, denen ein rechtliches Interesse an einzelnen Schritten im Exekutionsverfahren zuzubilligen ist (vgl RS0002150 [T8]).
+[7] 		2. Voraussetzung für ein Rechtsmittelrecht eines (sonstigen) Beteiligten ist, dass in seine zivilrechtliche Rechtsstellung eingegriffen wird oder dass ihm aufgrund besonderer gesetzlicher Vorschriften ein Rekursrecht eingeräumt ist (vgl RS0110287). Mangels besonderer gesetzlicher Einräumung eines Rechtsmittelrechts ist die Beteiligtenstellung und Rekurslegitimation eines Dritten im Exekutionsverfahren nur ausnahmsweise zu bejahen, wenn der angefochtene Beschluss auf die Rechtsstellung des Dritten unmittelbaren Einfluss hat (vgl RS0110287 [T1]), so wenn er durch sie gesetzwidrig belastet wird oder ihm ungerechtfertigt Aufträge erteilt werden (vgl RS0002134 [T4]). Bloße wirtschaftliche Nachteile verschaffen demgegenüber keine Beteiligtenstellung (vgl RS0002134 [T13]; RS0110287 [T5]).
+[8] 		3. Die Einschreiterin will ihre Rechtsmittellegitimation daraus ableiten, dass die im Verfahren nach § 355 EO verhängten Geldstrafen seit der EO-Novelle 2000 nicht mehr dem Sozialhilfeträger, sondern dem Bund zufließen; im Fall des Widerrufs solcher Geldstrafen müsse sie daher zur Erhebung eines Rechtsmittels legitimiert sein, um vom Gesetzeszweck offenkundig nicht gebilligte Umgehungskonstruktionen bzw Abtauschvereinbarungen zu unterbinden, die einen Eingriff in ihre Gläubigerrechte darstellten.
+[9] 		Dem kann nicht gefolgt werden:
+[10] 		3.1. Es trifft zwar zu, dass die Einschreiterin insofern Begünstigte der vom Exekutionsgericht verhängten Geldstrafen ist, als ihr diese gemäß Art III Abs 16 EO-Novelle 2000 zufließen. Die durch die Fällung des Anerkenntnisurteils ausgelöste Rechtsfolge des § 359 Abs 2 EO greift allerdings nicht unmittelbar in ihre Rechtsstellung ein; vielmehr hat sie lediglich ein wirtschaftliches Interesse am Erhalt der bisher nicht bezahlten Geldstrafen, das ihre Rekurslegitimation jedoch nicht begründen kann. Daran kann auch der Umstand nichts ändern, dass die der Einschreiterin zufließenden Geldstrafen zur teilweisen Abdeckung der Kosten des Betriebs der Ediktsdatei dienen.
+[11] 		3.2. Sofern es der Gesetzgeber für erforderlich halten sollte, allfällige Einflussnahmen der Parteien auf die Einhebung von Geldstrafen (etwa in Form sogenannter Abtauschvereinbarungen) zu unterbinden, stünde es ihm frei, der Einschreiterin bzw einem ihrer Organe – analog zum Rekursrecht des Revisors in Bezug auf Entscheidungen über Verfahrenshilfeanträge (§ 72 Abs 2 ZPO) – in solchen Fällen explizit ein Rechtsmittelrecht einzuräumen. Solange dies aber nicht geschieht, ist entsprechend der oben dargelegten Rechtsprechung kein Raum für die Annahme einer Beteiligtenstellung der Einschreiterin.
+[12] 		4. Das Rechtsmittel ist daher ohne inhaltliche Prüfung zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00226.21P.0126.000

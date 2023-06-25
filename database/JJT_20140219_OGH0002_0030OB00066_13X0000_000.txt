@@ -1,0 +1,258 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2014
+Geschäftszahl
+3Ob66/13x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie den Hofrat Univ.-Prof. Dr. Neumayr, die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei F***** GmbH & Co OG, *****, vertreten durch Dr. Reinhard Schanda, Rechtsanwalt in Wien, gegen die beklagte Partei O***** AG, *****, vertreten durch Karasek Wietrzyk Rechtsanwälte GmbH in Wien, wegen 8.788.046 EUR sA, über die Revision und den Rekurs der klagenden Partei gegen das Teilurteil und den Beschluss des Oberlandesgerichts Wien als Berufungsgericht vom 20. Dezember 2012, GZ 15 R 128/12x-45, womit infolge Berufung der klagenden Partei das Urteil des Handelsgerichts Wien vom 12. April 2012, GZ 47 Cg 311/10b-41, teilweise bestätigt und teilweise aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs der klagenden Partei wird nicht Folge gegeben.
+Der Revision der klagenden Partei wird Folge gegeben.
+Die Entscheidungen der Vorinstanzen werden im Umfang des angefochtenen Teilurteils aufgehoben. Die Rechtssache wird auch insoweit zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurückverwiesen.
+Die Kosten des Rechtsmittelverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+Die beklagte Aktiengesellschaft ist für die Ökostromförderabwicklung nach dem Ökostromgesetz, BGBl I 2002/149 (in der Folge: „ÖSG“), verantwortlich. In diesem Zusammenhang zahlt die beklagte Partei unter anderem die durch Verordnung - in concreto durch die Verordnung des Bundesministers für Wirtschaft und Arbeit, mit der Preise für die Abnahme elektrischer Energie aus Ökostromanlagen festgesetzt werden (BGBl II 2002/508 idF BGBl II 2005/254; in der Folge: „EinspeisetarifV“) -
+festgelegten Vergütungen (Einspeisetarif) an die Erzeuger von Ökostrom aus. Finanziert werden die der beklagten Partei dadurch entstehenden Aufwendungen durch das von Endverbrauchern zu entrichtende Zählpunktpauschale sowie durch die von den Stromhändlern zu entrichtenden Verrechnungspreise für den diesen durch die beklagte Partei zugewiesenen Ökostrom.
+Die klagende Partei betreibt zwei von der zuständigen Landesregierung als Ökostromanlagen im Sinne des § 7 ÖSG anerkannte - Biomasse-Energieanlagen („BMK 1“ mit einer elektrischen Nennleistung von 2 MW und „BMK 2“ mit einer elektrischen Nennleistung von 10 MW) und erzeugt mit diesen Strom und Wärme. Die Biomasse-Energieanlagen der klagenden Partei unterliegen dem Förderregime des ÖSG.
+Als Brennstoff wurden in den Jahren 2006 bis 2008 seitens der klagenden Partei in ihren Biomasse-Energieanlagen folgende Fraktionen eingesetzt, wobei bei denjenigen Fraktionen, denen eine fünfstellige Schlüsselnummer der Tabelle 1 und 2 der Anlage zu § 5 Abs 1 Z 5 ÖSG zugewiesen ist, diese Schlüsselnummer jeweils in Klammer angeführt ist:
+BMK 1: Rinde (17101), Holzemballagen und Holzabfälle (17201), Holz-Siebstaub (17104), Spanplatten-Schleifstaub (17114), Spanplattenabfälle (17115), Granulat aus der Spanaufbereitung (17202), Schwemmmaterial und Wurzelholz (94902), Lebensmittelrest (Brot; 11102), holziges Strukturmaterial (17201) und Erdgas (zum Anfahren).
+BMK 2: Rinde (17101), Sägerestholz (zB Kappholz; 17102), Holz und Rinde vom Holzplatz, Holz-Siebstaub (17104), Spanplattenabfälle (17115), Schwemmholz (94902), Waldhackgut, Hackgut thermisch, holziges Strukturmaterial aus der Kompostierung (17201), Strauchschnitt/Grünschnitt, landwirtschaftliche Produkte roh, landwirtschaftliche Produkte (gesiebt), Pressölkuchen und Erdgas (zum Anfahren).
+Die beklagte Partei hat der klagenden Partei für die von ihr in den Biomasse-Energieanlagen eingesetzten Brennstoffe in den Jahren 2006 bis 2008 für die Fraktionen, denen eine fünfstellige Schlüsselnummer der Tabelle 1 und 2 der Anlage zu § 5 Abs 1 Z 5 ÖSG (BGBl I 2002/149) zugewiesen ist, lediglich die in der EinspeisetarifV für „Abfall mit hohem biogenen Anteil“ vorgesehenen Vergütungen geleistet; die beklagte Partei verweigert jedoch die Zahlung der Differenz zum - höheren - Tarif für „Biomasse“. Für den Ausgang des Verfahrens ist daher die Abgrenzung zwischen Biomasse und Abfall mit hohem biogenen Anteil entscheidend.
+Es ist zweckmäßig, an dieser Stelle die relevanten innerstaatlichen Normen wiederzugeben:
+§ 11 Abs 1 ÖSG in der hier noch anzuwendenden Fassung (BGBl I 2002/149 und BGBl I 2006/105) vor der 2. Ökostrom-Novelle 2008 (BGBl I 2008/114) ermächtigt den Bundesminister für Wirtschaft und Arbeit, durch Verordnung Preise pro kWh für die Abnahme von elektrischer Energie aus Kleinwasserkraftwerksanlagen und sonstigen Ökostromanlagen, für die eine Abnahme- und Vergütungspflicht gemäß § 10 Z 3 und 4 ÖSG besteht, festzusetzen. Die festgesetzten Preise können weitere Differenzierungen enthalten. So ist eine Differenzierung nach der Engpassleistung der Ökostromanlagen und innerhalb der Anlagenkategorien auf Basis von Biomasse oder Abfall mit hohem biogenen Anteil zulässig.
+§ 7 Abs 1 und 2 der EinspeisetarifV lautet:
+§ 7. (1) Als Preise für die Abnahme elektrischer Energie aus Stromerzeugungsanlagen (Neuanlagen), die unter ausschließlicher Verwendung des Energieträgers feste Biomasse (zB Waldhackgut) betrieben werden, werden folgende Beträge festgesetzt:
+1. bis zu einer Engpassleistung von 2 MW … 16,00 Cent/kWh;
+2. bei einer Engpassleistung über 2 MW bis einschließlich 5 MW … 15,00 Cent/kWh;
+3. bei einer Engpassleistung über 5 MW bis einschließlich 10 MW … 13,00 Cent/kWh;
+4. bei einer Engpassleistung von mehr als 10 MW … 10,20 Cent/kWh.
+(2) Als Preise für die Abnahme elektrischer Energie aus Stromerzeugungsanlagen (Neuanlagen), die unter ausschließlicher Verwendung des Energieträgers Abfälle mit hohem biogenen Anteil betrieben werden, werden folgende Beträge festgesetzt:
+1. Bei Verwendung von Primärenergieträgern gemäß allen fünfstelligen Schlüsselnummern der Tabelle 2 der Anlage zu § 5 Abs. 1 Z 5 Ökostromgesetz, die mit SN 17 beginnen, werden die in Absatz 1 festgesetzten Preise um 20 % reduziert;
+2. bei Verwendung von Primärenergieträgern gemäß allen fünfstelligen Schlüsselnummern der Tabelle 1 der Anlage zu § 5 Abs. 1 Z 5 Ökostromgesetz, die mit SN 17 beginnen, werden die in Absatz 1 festgesetzten Preise um 35 % reduziert;
+3. bei Verwendung von Primärenergieträgern gemäß allen anderen fünfstelligen Schlüsselnummern der Tabelle 1 und 2 der Anlage zu § 5 Abs. 1 Z 5 Ökostromgesetz, werden die Preise mit 2,7 Cent/kWh festgesetzt;
+4. bei Kombinationen aus Abs. 1, Abs. 2 Z 1, 2 bzw. 3 kommt ein anteiliger Tarif nach den eingesetzten Brennstoffmengen, bezogen auf die Brennstoffwärmeleistung, zur Anwendung.
+§ 5 Abs 1 Z 1, Z 4 und Z 11 ÖSG in der hier noch anzuwendenden Fassung vor der 2. Ökostrom-Novelle 2008 (BGBl I 2008/114) lautet unter der Überschrift „Begriffsbestimmungen“:
+§ 5. (1) Im Sinne dieses Bundesgesetzes bezeichnet der Ausdruck
+1. „Abfall mit hohem biogenen Anteil“ die in der Anlage 1 angeführten Abfälle aus Industrie, Gewerbe und Haushalten, definiert durch die zugeordnete 5-stellige Schlüsselnummer gemäß Anlage 5 Abfallverzeichnis der Abfallverzeichnisverordnung, BGBl. II Nr. 570/2003, in der Fassung der Verordnung BGBl. II Nr. 89/2005; ...
+4. „Biomasse“ den biologisch abbaubaren Anteil von Erzeugnissen, Abfällen und Rückständen der Landwirtschaft (einschließlich pflanzlicher und tierischer Stoffe), der Forstwirtschaft und damit verbundener Industriezweige; …
+11. „erneuerbare Energieträger“ erneuerbare, nichtfossile Energieträger (Wind, Sonne, Erdwärme, Wellen- und Gezeitenenergie, Wasserkraft, Biomasse, Abfall mit hohem biogenen Anteil, Deponiegas, Klärgas und Biogas); ...
+Die Anlage 1 zum ÖSG in der hier anzuwendenden Fassung lautet:
+Abfälle mit hohem biogenen Anteil gemäß § 5 Abs. 1 Z 1
+Abfälle mit hohem biogenen Anteil sind die nachfolgend in Tabelle 1 und (mit den angegebenen Einschränkungen) in Tabelle 2 angeführten Abfallarten, definiert durch die zugeordnete fünfstellige Schlüssel-Nummer und gegebenenfalls durch die zusätzliche zweistellige Spezifizierung gemäß Anlage 5 der Abfallverzeichnisverordnung. Teilmengen von Abfallarten, die nicht in den Tabellen 1 und 2 angeführt sind, gelten nicht als Abfälle mit hohem biogenen Anteil oder als Biomasse.
+Tabelle 1: Abfälle mit hohem biogenen Anteil
+Schlüssel-Nummer und Spezifizierung
+Abfallbezeichnung und Spezifizierung
+12	Abfälle pflanzlicher und tierischer Fetterzeugnisse
+123	Abfälle aus der Produktion pflanzlicher und tierischer Fette und Wachse
+12301	Wachse
+125	Emulsionen und Gemische mit pflanzlichen und tierischen Fettprodukten
+12501	Inhalt von Fettabscheidern
+12503	Öl-, Fett- und Wachsemulsionen
+17	Holzabfälle
+171	Holzabfälle aus der Be- und Verarbeitung
+17104	Holzschleifstäube und -schlämme
+17104 01	Holzschleifstäube und -schlämme - (aus) behandeltes(m) Holz
+17104 02	Holzschleifstäube und -schlämme - (aus) nachweislich ausschließlich mechanisch behandeltes(m) Holz
+17104 03	Holzschleifstäube und -schlämme - (aus) behandeltes(m) Holz, schadstofffrei
+17114	Staub und Schlamm aus der Spanplattenherstellung
+17115	Spanplattenabfälle
+172	Holzabfälle aus der Anwendung
+17202	Bau- und Abbruchholz 1)
+17202 01	Bau- und Abbruchholz - (aus) behandeltes(m) Holz 1)
+17202 02	Bau- und Abbruchholz - (aus) nachweislich ausschließlich mechanisch behandeltes(m) Holz
+17202 03	Bau- und Abbruchholz - (aus) behandeltes(m) Holz, schadstofffrei
+17207	Eisenbahnschwellen
+17209	Holz (zB Pfähle und Masten), teerölimprägniert
+17209 88	Holz (zB Pfähle und Masten), teerölimprägniert - ausgestuft
+18	Zellulose-, Papier- und Pappeabfälle
+184	Abfälle aus der Zelluloseverarbeitung
+18401	Rückstände aus der Papiergewinnung (Spuckstoffe) ohne Altpapieraufbereitung
+187	Papier- und Pappeabfälle
+18702	Papier und Pappe, beschichtet
+19	Andere Abfälle aus der Verarbeitung und Veredelung tierischer und pflanzlicher Produkte
+199	Andere Abfälle aus der Verarbeitung und Veredelung tierischer und pflanzlicher Produkte
+19909	Sudkesselrückstände (Seifenherstellung)
+94	Abfälle aus der Wasseraufbereitung, Abwasserbehandlung und Gewässernutzung
+947	Rückstände aus der Kanalisation und Abwasserbehandlung (ausgenommen Schlämme)
+94705	Inhalte aus Fettfängen
+949	Abfälle aus der Gewässernutzung
+94902	Rechengut aus Rechenanlagen von Kraftwerken
+1) Ohne salzimprägnierte Hölzer [Anmerkung: salzimprägnierte Hölzer können einen hohen Eintrag von Schwermetallen bedingen (Bleiweiß, CFA-Salze usw.), der bei der thermischen Behandlung nicht zerstört wird].
+Anmerkungen zu Tabelle 1:
+Der Feststoffgehalt der oben angeführten Abfälle besteht überwiegend (über 90 %) aus organischem Kohlenstoff. Dabei lassen sich drei Gruppen von Abfällen unterscheiden:
+Gruppe 1:
+Die folgenden Abfälle leiten sich direkt oder indirekt (in Form von Zellulose oder Lignin) von Holz, welches den ältesten Biobrennstoff darstellt, ab:
+17104 (gegebenenfalls mit Spezifizierung), 17114, 17115, 17202 (gegebenenfalls mit Spezifizierung), 17207, 17209 (gegebenenfalls mit Spezifizierung), 18401, 94902
+Der Feststoffanteil dieser Abfälle besteht zum überwiegenden Anteil aus organisch gebundenem Kohlenstoff biologischen Ursprungs (in Form von Zellulose und Lignin). Der Heizwert der Trockensubstanz liegt dabei in der Größenordnung von 20 MJ/kg.
+Gruppe 2:
+Die nachfolgenden Abfälle leiten sich im Wesentlichen aus tierischen und pflanzlichen Fetten ab. Der Kohlenstoffanteil ist biologischen Ursprungs und liegt im Wesentlichen in Form von Glyceriden und Fettsäuren vor. Der Heizwert der organischen Substanz liegt damit sehr hoch (Größenordnung von 30 MJ/kg).
+12301, 12501, 12503, 19909, 94705
+Gruppe 3:
+Die nachstehenden Abfälle stellen einen Verbund zwischen Abfällen der Gruppe 1 und synthetischen Polymeren (PE usw.) bzw. Metallen (Al) dar. Der spezifische Heizwert der nicht biologischen Anteile liegt zwar höher, als jener der biologischen Anteile, dennoch überwiegt der Heizwert der biologischen Anteile in der Mischung zu wesentlich mehr als 50 % (der Heizwert von PE liegt zwar etwa doppelt so hoch wie jener von Papier, doch liegt der Kunststoffanteil in der Regel unter 25 %).
+18702
+Tabelle 2: Abfälle mit hohem biogenen Anteil, soweit eine biologische Verwertung nicht möglich oder vorzuziehen ist
+Schlüssel-Nummer und Spezifizierung
+Abfallbezeichnung und Spezifizierung
+11	Nahrungs- und Genussmittelabfälle
+111	Abfälle aus der Nahrungsmittelproduktion
+11102	überlagerte Lebensmittel
+11103	Spelzen, Spelzen- und Getreidestaub
+11104	Würzmittelrückstände
+11110	Melasse
+11111	Teig
+11112	Rübenschnitzel, Rübenschwänze
+114	Abfälle aus der Genussmittelproduktion
+11401	überlagerte Genussmittel
+11402	Tabakstaub, Tabakgrus, Tabakrippen
+11404	Malztreber, Malzkeime, Malzstaub
+11405	Hopfentreber
+11406	Ausputz- und Schwimmgerste
+11415	Trester
+11416	Fabrikationsrückstände von Kaffee (zB Röstgut und Extraktionsrückstände)
+11417	Fabrikationsrückstände von Tee
+11418	Fabrikationsrückstände von Kakao
+11419	Hefe und hefeähnliche Rückstände
+11423	Rückstände und Abfälle aus der Fruchtsaftproduktion
+117	Abfälle aus der Futtermittelproduktion
+11701	Futtermittel
+11702	überlagerte Futtermittel
+12	Abfälle pflanzlicher und tierischer Fetterzeugnisse
+121	Abfälle aus der Produktion pflanzlicher und tierischer Öle
+12101	Ölsaatenrückstände
+12102	verdorbene Pflanzenöle
+123	Abfälle aus der Produktion pflanzlicher und tierischer Fette und Wachse
+12302	Fette (zB Frittieröle)
+127	Schlämme aus der Produktion pflanzlicher und tierischer Fette
+12702	Schlamm aus der Speisefettproduktion
+12703	Schlamm aus der Speiseölproduktion
+12704	Zentrifugenschlamm
+129	Raffinationsrückstände aus der Verarbeitung pflanzlicher und tierischer Fette
+12901	Bleicherde, ölhaltig
+17	Holzabfälle
+171	Holzabfälle aus der Be- und Verarbeitung
+17101	Rinde
+17102	Schwarten, Spreißel aus naturbelassenem, sauberem, unbeschichtetem Holz
+17103	Sägemehl und Sägespäne aus naturbelassenem, sauberem, unbeschichtetem Holz
+172	Holzabfälle aus der Anwendung
+17201	Holzemballagen und Holzabfälle, nicht verunreinigt
+17201 01	Holzemballagen und Holzabfälle, nicht verunreinigt – (aus) behandeltes(m) Holz
+17201 02	Holzemballagen und Holzabfälle, nicht verunreinigt – (aus) nachweislich ausschließlich mechanisch behandeltes(m) Holz
+17201 03	Holzemballagen und Holzabfälle, nicht verunreinigt – (aus) behandeltes(m) Holz, schadstofffrei
+17203	Holzwolle, nicht verunreinigt
+18	Zellulose-, Papier- und Pappeabfälle
+181	Abfälle aus der Zellstoffherstellung
+18101	Rückstände aus der Zellstoffherstellung (Spuckstoffe und Äste)
+19	andere Abfälle aus der Verarbeitung und Veredelung tierischer und pflanzlicher Produkte
+199	andere Abfälle aus der Verarbeitung und Veredelung tierischer und pflanzlicher Produkte
+19901	Stärkeschlamm
+19903	Gelatineabfälle
+19904	Rückstände aus der Kartoffelstärkeproduktion
+19905	Rückstände aus der Maisstärkeproduktion
+19906	Rückstände aus der Reisstärkeproduktion
+19911	Darmabfälle aus der Verarbeitung
+53	Abfälle von Pflanzenbehandlungs- und Schädlingsbekämpfungsmitteln sowie von pharmazeutischen Erzeugnissen und Desinfektionsmitteln
+535	Abfälle von Arzneimittelerzeugnissen
+53504	Trester von Heilpflanzen
+91	Feste Siedlungsabfälle einschließlich ähnlicher Gewerbeabfälle
+916	Marktabfälle
+91601	Viktualienmarkt-Abfälle
+917	Grünabfälle
+91701	Garten- und Parkabfälle sowie sonstige biogene Abfälle, die nicht den Anforderungen der Kompostverordnung idgF entsprechen
+94	Abfälle aus Wasseraufbereitung, Abwasserbehandlung und Gewässernutzung
+949	Abfälle aus der Gewässernutzung
+94901	Rückstände aus der Gewässerreinigung (Bachabkehr-, Abmäh- und Abfischgut)
+Anmerkungen zu Tabelle 2:
+Die in der Tabelle 2 genannten Abfälle sind biologischen Ursprungs (tierische und pflanzliche Produkte) und enthalten in der Festsubstanz im Wesentlichen Kohlenwasserstoffverbindungen; sie lassen sich wieder in drei Gruppen teilen:
+Gruppe 1:
+„Natives“ biologisches Material, dh. Pflanzen, Pflanzenteile (inklusive Extraktionsrückstände) und tierische Gewebe in ihrer natürlichen Zusammensetzung. Der Feststoffanteil besteht überwiegend aus biologisch fixiertem Kohlenstoff in Form von Zellulose/Lignin (Zellwand, Speicherkörper), Protein und Glyceriden (Zellmembran, Speicherkörper). Ein „antropogener“ Anteil ist gering (allenfalls als Verunreinigung aus der Sammlung).
+11103, 11104, 11112, 11402, 11404, 11405, 11406, 11415, 11416, 11417, 11418, 11419, 11423, 12101, 12102, 12302, 17101, 17102, 17103, 17201 (gegebenenfalls mit Spezifizierung), 17203, 18101, 19901, 19903, 19904, 19905, 19906, 19911, 53504, 91601, 91701, 94901
+Gruppe 2:
+Zu Nahrungsmittel verarbeitete pflanzliche und tierische Stoffe: Der Feststoffanteil dieser Abfälle ist überwiegend biologischen Ursprungs mit geringen Anteilen (anorganischer) Füllstoffe und allenfalls Verpackungsresten.
+11102, 11110, 11111, 11401, 11701, 11702, 12702, 12703, 12704
+Gruppe 3:
+Verarbeitungsrückstände mit einem erhöhten anorganischen Anteil, deren organischer Anteil aber zur Gänze biogenen Ursprungs ist.
+12901
+Der Rechtsstandpunkt der beklagten Partei, die die Differenzzahlung verweigert, lässt sich kurz so zusammenfassen, dass alle Brennstoffe, denen eine fünfstellige Schlüsselnummer der Tabelle 1 und 2 der Anlage zu § 5 Abs 1 Z 1 ÖSG zugewiesen ist, als „Abfall mit hohem biogenen Anteil“ unabhängig von der Herkunft der Abfälle zu qualifizieren und lediglich mit dem niedrigeren Tarif nach § 7 Abs 2 EinspeisetarifV zu vergüten sind.
+Die klagende Partei begehrt für die Jahre 2006 bis 2008 Differenzzahlungen in einer Gesamthöhe von 8.788.046 EUR mit der Begründung, dass der Umstand, dass einem Brennstoff eine fünfstellige Schlüsselnummer der Tabelle 1 und 2 der Anlage zu § 5 Abs 1 Z 1 ÖSG zugewiesen sei, noch nichts darüber aussage, ob dieser Stoff „Biomasse“ oder „Abfall mit hohem biogenen Anteil“ im Sinn des ÖSG sei; vielmehr könne diese Zuordnung erst nach Beurteilung der Herkunft des Stoffes getroffen werden.
+Die von der klagenden Partei begehrte Differenzzahlung setzt sich wie folgt zusammen:
+Jahr	Forderung	Zahlung	Differenz
+2006	  7.287.385	5.034.804	2.252.581
+2007	10.785.485	7.238.571	3.546.915
+2008	10.891.257	7.902.707	2.988.550
+8.788.046
+Das Erstgericht wies die Klage ab. Da für die Beantwortung der entscheidenden Rechtsfrage, ob alle Brennstoffe, denen eine fünfstellige Schlüsselnummer in den Tabellen 1 und 2 der Anlage zu § 5 Abs 1 Z 1 ÖSG zugewiesen sei, als Abfall mit hohem biogenen Anteil zu qualifizieren seien, oder ob die Zuordnung erst nach Beurteilung der Herkunft des Stoffes getroffen werden könne, weder eine Wortinterpretation noch eine richtlinienkonforme Auslegung ein entsprechendes Ergebnis liefere, sei auf die historische Interpretation zurückzugreifen. Zwar sei die 2. ÖSG-Novelle 2008 auf den gegenständlichen Sachverhalt noch nicht anwendbar, dennoch könne zur Auslegung auf die dazu erstatteten Gesetzesvorschläge und Materialien abgestellt werden. Daraus gehe hervor, dass der Gesetzgeber lediglich Klarstellungen zum Begriff der „Biomasse“ in dem Sinn vornehmen habe wollen, dass für die in den Tabellen 1 und 2 der Anlage 1 zum ÖSG genannten Brennstoffe jedenfalls die spezielleren Regelungen für Abfall mit hohem biogenen Anteil anzuwenden seien. Alle Brennstoffe, denen eine fünfstellige Schlüsselnummer zugewiesen sei, seien damit als Abfall mit hohem biogenen Anteil zu qualifizieren, sodass sie nur nach dem niedrigeren Tarif des § 7 Abs 2 EinspeisetarifV zu vergüten seien. Zum selben Ergebnis gelange man auch bei Auslegung der Materialien und des Gesetzestextes des am 1. Februar 2012 in Kraft getretenen ÖSG 2012. Da außer Streit stehe, dass die beklagte Partei der klagenden Partei für die Fraktionen, denen eine fünfstellige Schlüsselnummer der Tabelle 1 und 2 der Anlage zu § 5 Abs 1 Z 1 ÖSG zugewiesen sei, die in der EinspeisetarifV für Abfall mit hohem biogenen Anteil vorgesehenen Vergütungen geleistet habe, sei das Klagebegehren nicht berechtigt.
+Das Berufungsgericht bestätigte mit Teilurteil die Klageabweisung hinsichtlich eines Teilbetrags von 5.210.572 EUR sA und hob hinsichtlich eines Teilbetrags von 3.577.474 EUR sA das Ersturteil zur neuerlichen Entscheidung zur Verfahrensergänzung auf. Es verneinte eine relevante primäre Mangelhaftigkeit des erstinstanzlichen Verfahrens und führte in seiner rechtlichen Beurteilung (hier kurz zusammengefasst) aus:
+Die Definition der „Biomasse“ in § 5 Abs 1 Z 4 ÖSG stelle zunächst auf den („reinen“) Anteil an biologisch abbaubarem Material in Erzeugnissen, Abfällen und Rückständen [...] ab. Brennstoffe, die mit nicht biologisch abbaubaren Materialien verbunden oder vermengt seien, seien daher nicht mehr als Biomasse zu qualifizieren. Nur der in dieser Gesamtmenge enthaltene Anteil an biologisch abbaubarem Material sei somit Biomasse.
+Demgegenüber sei „Abfall mit hohem biogenen Anteil“ im Sinne des § 5 Abs 1 Z 1 ÖSG bereits nach dieser Definition des Gesetzgebers eine (verunreinigte) Gesamtmenge, die ein bestimmtes (arg „hohem“) Ausmaß (arg „Anteil“) an biogenem (= biologisch abbaubarem) Material enthalte.
+Die Definitionen beider Brennstoffe setzten bereits begrifflich biologische Abbaubarkeit voraus, ohne dass daraus ein wesentliches Unterscheidungskriterium zu gewinnen wäre.
+Biomasse werde in § 5 Abs 1 Z 4 ÖSG weiter dahin spezifiziert, dass es sich um den biologisch abbaubaren Anteil von Erzeugnissen, Abfällen und Rückständen aus bestimmten Wirtschaftsbereichen, nämlich der Landwirtschaft, Forstwirtschaft und damit verbundener Industriezweige handeln müsse, während „Abfall mit hohem biogenen Anteil“ im Sinne des § 5 Abs 1 Z 1 ÖSG die in der Anlage 1 (des ÖSG) angeführten Abfälle aus Industrie, Gewerbe und Haushalten, definiert durch die zugeordnete fünfstellige Schlüsselnummer gemäß Anlage 5 Abfallverzeichnis der Abfallverzeichnisverordnung, sei. Entgegen der Rechtsansicht der klagenden Partei könne aber diese „Herkunft“ der Brennstoffe („Landwirtschaft, Forstwirtschaft und damit verbundene Industriezweige“ bzw „Industrie, Gewerbe und Haushalte“) schon deshalb kein entscheidendes Unterscheidungskriterium sein, weil es dabei in weiten Bereichen zu Überschneidungen komme und damit für diesen Zweck wertlos werde. Als Beispiel sei etwa Holz genannt, welches aus der Forstwirtschaft stamme und damit „der Herkunft nach“ als Biomasse im Sinne der Z 4 zu beurteilen wäre, während ein daraus hergestelltes (Holz-)Möbelstück samt seinen übrigen (nicht biologisch abbaubaren) Bestandteilen als Abfall mit hohem biogenen Anteil beurteilt werden müsste, weil es letztlich (auch) aus dem (verarbeitenden) Gewerbe oder aus Haushalten stamme. Wie dieses Beispiel zeige, könne ein „aus“ der Landwirtschaft, Forstwirtschaft oder damit verbundener Industriezweige entstandener Brennstoff (Z 4) somit durchaus auch den in Z 1 genannten Bereichen Industrie, Gewerbe und Haushalten zugeordnet werden, sodass in der „Herkunft“ nach den in Z 1 und Z 4 genannten Bereichen kein verlässliches Unterscheidungskriterium liege.
+Vor allem bezeichne „Abfall mit hohem biogenen Anteil“ nach Z 1 ausdrücklich nur „die in der Anlage 1 angeführten Abfälle aus Industrie, Gewerbe und Haushalten, definiert durch die zugeordnete fünfstellige Schlüsselnummer gemäß Anlage 5 Abfallverzeichnis der Abfallverzeichnisverordnung“. Bereits nach dem allgemeinen Wortsinn könne diese Definition nur in dem Sinn verstanden werden, dass (nur) die in der Anlage 1 angeführten Abfälle mit der entsprechenden Schlüsselnummer als Abfall mit hohem biogenen Anteil zu qualifizieren seien, auch wenn darin - nach dem Zweck des Gesetzes - Biomasse in einem bestimmten Verhältnis enthalten sein müsse.
+Diesem Auslegungsergebnis stehe auch der zweite Einleitungssatz zu Anlage 1 nicht entgegen, wonach „Teilmengen von Abfallarten, die nicht in den Tabellen 1 und 2 angeführt sind, nicht als Abfälle mit hohem biogenen Anteil oder als Biomasse“ gelten. Dass Brennstoffe, die nicht in den beiden Tabellen genannt seien, nicht als Abfälle mit hohem biogenen Anteil zu beurteilen seien, ergebe sich bereits aus der Definition des § 5 Abs 1 Z 1 ÖSG. Mit der Ergänzung, dass solche Teilmengen (auch) nicht als Biomasse zu gelten hätten, habe der Gesetzgeber lediglich klarstellen wollen, dass dann, wenn ein Brennstoff (mangels Aufzählung in den Tabellen) nicht einmal als Abfall mit hohem biogenen Anteil zu beurteilen sei, eine solche Gesamtmenge nicht subsidiär als Biomasse beurteilt werden dürfe, um eine Umgehung dieser abschließenden Aufzählung für Abfälle mit hohem biogenen Anteil zu verhindern.
+Da somit bereits aus dieser Wortinterpretation im Zusammenhang mit einer systematischen Auslegung ein eindeutiges Ergebnis erzielt werden könne, bedürfe es nicht (auch) des Rückgriffs auf die „historische Auslegung“ der Materialien zu der hier noch nicht anwendbaren 2. ÖSG-Novelle BGBl I 2008/114.
+Zusammenfassend habe der Gesetzgeber mit der Differenzierung und den daran angeknüpften unterschiedlichen Förderungsbeträgen gemäß § 7 Abs 1 und 2 EinspeisetarifV zum Ausdruck gebracht, dass er (reine) feste Biomasse mit bestimmten Beträgen fördern möchte, während (verunreinigter) Abfall mit hohem biogenen Anteil durch prozentuelle Abschläge geringer vergütet werden solle. Diese Pauschalierung sei im Hinblick auf die dadurch bewirkte Vermeidung aufwändiger Erhebungen zum konkreten Anteil an Biomasse nach Ansicht des Berufungsgerichts durchaus sachgerecht.
+Aus der Zuordnung zu bestimmten fünfstelligen Schlüsselnummern resultiere, dass dafür entsprechend der gesetzgeberischen Intention nur eine pauschalierte Vergütung im Sinne des § 5 Abs 1 Z 1 ÖSG iVm § 7 Abs 2 EinspeisetarifV zustehe. Anders sei die Sach- und Rechtslage jedoch hinsichtlich jener Brennstoffe zu beurteilen, bei denen die klagende Partei keine entsprechenden Schlüsselnummern zugeordnet habe, weil hier unklar bleibe, ob die Voraussetzungen des § 5 Abs 1 Z 1 ÖSG („Abfall mit hohem biogenen Anteil“) erfüllt seien. Davon betroffen seien nachstehende Brennstoffe und die sich daraus ergebenden Differenzbeträge:
+2006:
+Strauchschnitt/Grünschnitt 	733.747 EUR
+Pressölkuchen	195.054 EUR
+2007:
+Strauchschnitt/Grünschnitt 	1.233.101 EUR
+Pressölkuchen	261.312 EUR
+Erdgas	657 EUR
+2008:
+Holz von Rinde vom Holzplatz	49.488 EUR
+Strauchschnitt 	1.104.115 EUR
+gesamt	3.577.474 EUR
+Hinsichtlich dieser Brennstoffe ohne Schlüsselnummern lasse sich noch nicht abschließend beurteilen, ob dafür die höhere Vergütung für Biomasse gebühre. Abgesehen davon, dass die von der klagenden Partei gewählten Bezeichnungen dieser Brennstoffe nicht ohne weiteres in eine entsprechende Klassifikation in der Anlage 1 einordnen ließen, würden Feststellungen darüber fehlen, ob diese Brennstoffe aus Industrie, Gewerbe und Haushalten im Sinne dieser Bestimmung herrühren. Auch wenn diese „Herkunftsbereiche“ nicht zur Abgrenzung zwischen Biomasse und Abfall mit hohem biogenen Anteil geeignet seien, habe sie der Gesetzgeber - offenbar zur Unterscheidung von anderen Brennstoffen - in seine Begriffsbestimmungen aufgenommen. Brennstoffe aus nicht in den in § 5 Abs 1 Z 1 ÖSG genannten Bereichen seien daher nicht einmal als Abfall mit hohem biogenen Anteil zu beurteilen. Das Verfahren sei daher insofern sekundär mangelhaft geblieben, was zur teilweisen Aufhebung des angefochtenen Urteils führe.
+Im fortzusetzenden Verfahren werde das Erstgericht mit den Parteien zunächst zu erörtern haben, ob die oben aufgezählten Brennstoffe einer entsprechenden Schlüsselnummer in Anlage 1 zum ÖSG zugeordnet werden können und ob sie aus Industrie, Gewerbe und Haushalten im Sinn des § 5 Abs 1 Z 1 ÖSG resultierten. Hinsichtlich des auch geltend gemachten (verhältnismäßig geringen) Differenzbetrags im Jahr 2007 aus dem Brennstoff Erdgas werde mit der klagenden Partei die Rechtsgrundlage zu erörtern sein, weil es sich dabei nach allgemeinem Verständnis nicht um eine feste Biomasse im Sinne des § 7 Abs 1 EinspeisetarifV handle, sodass insofern noch kein nachvollziehbares Vorbringen erstattet worden sei. Sollten die Parteien hinsichtlich der (übrigen) Brennstoffe übereinstimmend eine Zuordnung zu jeweils einer fünfstelligen Schlüsselnummer im Sinne der Anlage 1 des ÖSG vornehmen, seien dazu keine weiteren Feststellungen erforderlich. In diesem Fall wären die begehrten Differenzbeträge bereits nach dem Klagevorbringen auf der Grundlage des dargelegten Auslegungsergebnisses nicht berechtigt, weil es sich nicht um Biomasse handle. Mangels Einigung werde das Erstgericht ein Beweisverfahren zu diesem Themenkreis durchzuführen haben.
+Als Verfahrensergebnis ergebe sich daher für die Jahre 2006 bis 2008 Folgendes:
+2006:
+Aufhebung des angefochtenen Urteils hinsichtlich der Differenzbeträge für „Strauchschnitt/Grünschnitt“ und „Pressölkuchen“ von insgesamt 928.801 EUR; Bestätigung der Abweisung (für die übrigen Brennstoffe) von insgesamt 1.323.780 EUR;
+2007:
+Aufhebung hinsichtlich „Strauchschnitt/Grün-schnitt“, „Pressölkuchen“ sowie „Erdgas“ von insgesamt 1.495.070 EUR; Bestätigung der Abweisung von 2.051.845 EUR;
+2008:
+Aufhebung hinsichtlich „Strauchschnitt“ und „Holz und Rinde vom Holzplatz“ von insgesamt 1.153.603 EUR; Bestätigung der Abweisung von 1.834.947 EUR.
+Insgesamt werde das Ersturteil daher im Ausmaß der Abweisung von 5.210.572 EUR bestätigt und hinsichtlich eines Betrags von 3.577.474 EUR zur Verfahrensergänzung aufgehoben.
+Die Revision und der Rekurs seien zulässig, weil Rechtsprechung des Obersten Gerichtshofs zur Auslegung der Begriffsbestimmungen in § 5 Abs 1 Z 1 und Z 4 ÖSG idF vor der 2. Ökostromgesetz-Novelle 2008 (BGBl I 2008/114) „Abfall mit hohem biogenen Anteil“ und „Biomasse“ fehle.
+Gegen diese Entscheidung richten sich die Revision und der Rekurs der klagenden Partei aus dem Rechtsmittelgrund der unrichtigen rechtlichen Beurteilung mit dem Antrag auf Entscheidung in der Sache im klagestattgebenden Sinn. Hinsichtlich des Teilurteils wird hilfsweise ein Aufhebungs- und Zurückverweisungsantrag gestellt.
+Die beklagte Partei beantragt in ihrer Rechtsmittelbeantwortung, die Revision und den Rekurs als unzulässig zurückzuweisen, in eventu den Rechtsmitteln nicht Folge zu geben.
+Die Rechtsmittel sind aus dem vom Berufungsgericht genannten Grund zulässig. Die Revision ist im Sinne einer Aufhebung der Entscheidungen der Vorinstanzen im Umfang von 5.210.572 EUR sA berechtigt, während der Rekurs gegen den Aufhebungsbeschluss nicht berechtigt ist.
+Das ausführliche Rechtsmittelvorbringen der klagenden Partei lässt sich kurz dahin zusammenfassen, dass schon der Wortlaut des § 5 Abs 1 Z 1 und Z 4 ÖSG bei der Unterscheidung zwischen „Biomasse“ („Erzeugnisse, Abfälle und Rückstände der Landwirtschaft ...“) und „Abfall mit hohem biogenen Anteil“ (Abfälle aus Industrie, Gewerbe und Haushalten ...) ausdrücklich auf die funktionale Herkunft der Brennstoffe abstelle. Die Vorinstanzen hätten daher die funktionale Herkunft der von der klagenden Partei eingesetzten Brennstoffe Rinde, Holz-Siebstaub, Spanplatten-Schleifstaub, Sägerestholz/Kappholz, Schwemmholz, Waldhackgut und Pressölkuchen aus der Landwirtschaft, der Forstwirtschaft oder damit verbundener Industrie feststellen müssen. Bei der Sägeindustrie, der Spanplattenindustrie und dem Holzgroßhandel handle es sich um mit der Forstwirtschaft verbundene Industriezweige und bei Ölmühlen um mit der Landwirtschaft verbundene Industriezweige.
+Der Schluss des Berufungsgerichts, alle in der Anlage 1 genannten Brennstoffe seien zwingend „Abfall mit hohem biogenen Anteil“, sei unrichtig; die dort angeführten Abfall-Brennstoffe könnten auch Biomasse sein. Daneben gebe es auch noch andere Biomasse-Brennstoffe, die nicht in der Anlage 1 angeführt seien, nämlich Nicht-Abfälle. Bei in der Anlage 1 angeführten Abfall-Brennstoffen ergebe sich aus dem zweiten Einleitungssatz zur Anlage 1, dass sie im Fall der Herkunft aus der Landwirtschaft, der Forstwirtschaft oder einer damit verbundenen Industrie als Biomasse zu qualifizieren seien. Könnte ein in der Anlage 1 aufgezählter Abfall-Brennstoff nie Biomasse sein, würde der Begriff der Biomasse contra legem auf bloße Erzeugnisse beschränkt, während für Abfälle und Rückstände kein Anwendungsbereich verbliebe. Die Anführung eines Brennstoffs in der Anlage 1 sage noch nichts darüber aus, ob ein Brennstoff „Abfall mit hohem biogenen Anteil“ oder „Biomasse“ sei.
+Der Umstand, dass die klagende Partei bei einzelnen Brennstoffen Schlüsselnummern angeführt habe und bei anderen nicht, sei kein taugliches Unterscheidungskriterium. Die (unrichtige) Rechtsansicht des Berufungsgerichts weitergedacht hätte das Klagebegehren insoweit nicht abgewiesen werden dürfen, als keine Schlüsselnummern angeführt worden seien.
+Wirtschaftlich betrachtet würde die Qualifikation von bestimmten Brennstoffen nur als Abfall mit hohem biogenen Anteil bedeuten, dass die klagende Partei für Ökostrom eine viel geringere Vergütung als den Marktpreis für konventionellen Strom erhielte, sodass die Förderwirkung umgekehrt würde.
+Aus den späteren Novellierungen des ÖSG sei für die hier relevante Frage mangels authentischer Interpretation wenig zu gewinnen. Aber auch nach der geänderten Rechtslage wären die von der klagenden Partei eingesetzten und nun fraglichen Brennstoffe im Hinblick auf die biologische Abbaubarkeit überwiegend als Biomasse zu qualifizieren.
+Die beklagte Partei erwidert in ihrer Rechtsmittelbeantwortung, dass nach der gesetzgeberischen Intention die in der Anlage 1 zum ÖSG angeführten Abfälle nur als „Abfall mit hohem biogenen Anteil“ zu qualifizieren seien. Da sowohl „Biomasse“ als auch „Abfall mit hohem biogenen Anteil“ deren biologische Abbaubarkeit voraussetzen, sei daraus kein Unterscheidungskriterium zu gewinnen. Brennstoffe, die mit nicht biologisch abbaubaren Materialien verbunden oder vermengt seien, könnten nicht als „Biomasse“ qualifiziert werden. Typischerweise enthielten die in der Anlage 1 zum ÖSG genannten Abfallstoffe auch Biomasse. Allerdings sei nur der in dieser Gesamtmenge enthaltene, von der klagenden Partei aber gar nicht extra nachgewiesene Anteil an biologisch abbaubarem Material Biomasse; bei „Abfall mit hohem biogenen Anteil“ handle es sich eben um eine verunreinigte Gesamtmenge, die ein bestimmtes Ausmaß an biogenem Material enthalte. Diesem Umstand habe der Gesetzgeber dadurch Rechnung getragen, dass er auch die Ökostromerzeugung aus Abfall mit hohem biogenen Anteil - wenn auch in geringerer Höhe - fördere. Die gesetzgeberische Intention, reine Biomasse mit bestimmten Beträgen zu fördern und (verunreinigten) „Abfall mit hohem biogenen Anteil“ durch prozentuelle Abschläge geringer zu vergüten, sei zur Vermeidung aufwändiger Erhebungen zum konkreten Anteil an Biomasse durchaus sachgerecht. Abfallbrennstoffe, die nicht einmal als „Abfall mit hohem biogenen Anteil“ zu qualifizieren seien, dürften nicht subsidiär als „Biomasse“ qualifiziert werden. Die Herkunft aus bestimmten Wirtschaftsbereichen sei wegen der Überschneidungen kein maßgebliches Unterscheidungs-kriterium, abgesehen davon, dass die „funktionale Herkunft“ dem ÖSG fremd sei. Die nachfolgende Novellierung des ÖSG im Jahr 2008 bestätige die Absicht des Gesetzgebers, dass alle Stoffe, die unter die Anlage 1 zum ÖSG fallen, unabhängig von ihrer Herkunft als „Abfall mit hohem biogenen Anteil“ zu qualifizieren seien.
+Rechtliche Beurteilung
+Dazu wurde erwogen:
+1. Auf den vorliegenden Fall ist - in Übereinstimmung mit den Vorinstanzen - noch das ÖSG BGBl I 2002/149 idF vor dem Inkrafttreten der 2. Ökostromgesetz-Novelle 2008 (BGBl I 2008/114) anzuwenden. Für die hier maßgeblichen Fragen, vor allem die Definition der „Biomasse“ in § 5 Abs 1 Z 4 ÖSG, spielt die Novellierung des ÖSG (idF BGBl I 2002/149) durch BGBl I 2006/105 keine Rolle.
+2. Strittig ist im vorliegenden Fall die Qualifikation von Abfällen als Brennstoffe für die Ökostromerzeugung. Abfallbrennstoffe können nach den gesetzlichen Definitionen in § 5 Abs 1 Z 1 und Z 4 ÖSG (idF BGBl I 2006/105; in der Fassung BGBl I 2002/149 waren die „Abfälle mit hohem biogenen Anteil“ in § 5 Abs 1 Z 5 ÖSG definiert) sowohl unter „Biomasse“ als auch unter „Abfälle mit hohem biogenen Anteil“ fallen. Die Rechtsansichten der klagenden Partei und der beklagten Partei unterscheiden sich im Wesentlichen dadurch, dass die klagende Partei vorrangig von einer Honorierung nach § 7 Abs 1 EinspeisetarifV ausgeht: Demnach seien Energieträger, die der Definition für „Biomasse“ in § 5 Abs 1 Z 4 ÖSG entsprechen, unabhängig von der Zuordnung einer Schlüsselnummer auch als Biomasse zu honorieren: Demgegenüber betrachtet die beklagte Partei vorrangig „Abfälle mit hohem biogenen Anteil“ gemäß § 7 Abs 2 EinspeisetarifV und scheidet alle in der Anlage 1 zum ÖSG genannten Abfall-Brennstoffe aus dem „Biomasse“-Begriff aus, und zwar auch dann, wenn diese Energieträger an sich die Kriterien der festen Biomasse nach § 7 Abs 1 EinspeisetarifV iVm § 5 Abs 1 Z 4 ÖSG erfüllt.
+3.1. Die Verordnung des Bundesministers für Wirtschaft und Arbeit, mit der Preise für die Abnahme elektrischer Energie aus Ökostromanlagen festgesetzt werden (BGBl II 2002/508, geändert durch die Verordnung BGBl II 2005/254), beruht auf § 11 ÖSG (BGBl I 2002/149).
+Nach § 11 ÖSG hat der Bundesminister für Wirtschaft und Arbeit für die Abnahme von elektrischer Energie aus Ökostromanlagen, für die eine Abnahme- und Vergütungspflicht gemäß § 10 ÖSG besteht, Preise festzusetzen. Die Norm erlaubt dem Verordnungsgeber in ihrem Abs 1 eine Differenzierung nach der Engpassleistung der Ökostromanlagen und innerhalb der Anlagenkategorien auf Basis von Biomasse oder Abfall mit hohem biogenen Anteil sowie auf Basis von Biogas nach Energieträgern und Substraten, sowie nach anderen besonderen technischen Spezifikationen.
+3.2. Das ÖSG geht auf einen selbständigen Gesetzesantrag des Wirtschaftsausschusses zurück (AB 1243 BlgNR 21. GP 1), weshalb keine Gesetzesmaterialien zur Verfügung stehen (Zabukovec, Ökostromgesetz und Elektrizitätswesen [2005] 56). Dem § 3 ÖSG ist zu entnehmen, dass durch das ÖSG die Richtlinie 2001/77/EG des Europäischen Parlaments und des Rates vom 27. September 2001 betreffend Förderung der Stromerzeugung aus erneuerbaren Energieträgern im Elektrizitätsbinnenmarkt (ABl L 283 vom 27. Oktober 2001, 33) umgesetzt wird. § 4 ÖSG legt - ohne eigene normative Anordnungen - Ziele der Ökostromförderung fest (Rabl/Hauenschild, Ökostromrecht2 [2010] § 4 ÖSG Rz 1).
+3.3. Die Richtlinie 2001/77/EG bezweckt nach ihrem Art 1, eine Steigerung des Anteils erneuerbarer Energiequellen an der Stromerzeugung im Elektrizitätsbinnenmarkt zu fördern und eine Grundlage für einen entsprechenden künftigen Gemeinschaftsrahmen zu schaffen. Dementsprechend ergreifen die Mitgliedstaaten nach Art 3 Abs 1 geeignete Maßnahmen, um die Steigerung des Verbrauchs von Strom aus erneuerbaren Energiequellen entsprechend den nationalen Richtzielen zu fördern.
+Der Begriff der „Biomasse“ kommt in der Richtlinie dreimal vor: In den Begriffsbestimmungen wird er in Art 2 lit a unter den „erneuerbaren Energiequellen“ genannt; darunter werden erneuerbare nichtfossile Energiequellen (Wind, Sonne, Erdwärme, Wellen- und Gezeitenenergie, Wasserkraft, Biomasse, Deponiegas, Klärgas und Biogas) verstanden. Weiters wird der Begriff in Art 2 lit b definiert als „der biologisch abbaubare Anteil von Erzeugnissen, Abfällen und Rückständen der Landwirtschaft (einschließlich pflanzlicher und tierischer Stoffe), der Forstwirtschaft und damit verbundener Industriezweige sowie der biologisch abbaubare Anteil von Abfällen aus Industrie und Haushalten“. Schließlich heißt es in Erwägungsgrund (9), dass die in der Richtlinie verwendete Definition des Begriffs „Biomasse“ nicht die Verwendung einer anderen Definition in nationalen Rechtsvorschriften zu anderen Zwecken als in dieser Richtlinie präjudiziert.
+Eine Differenzierung zwischen „Biomasse“ und „Abfall mit hohem biogenen Anteil“ wie in § 5 Abs 1 ÖSG sieht die Richtlinie nicht vor; der - schon in § 40 ElWOG idF des Energieliberalisierungsgesetzes BGBl I 2000/121 verwendete, aber auch in dortigen Gesetzesmaterialien nicht erläuterte - Begriff „Abfall mit hohem biogenen Anteil“ oder eine ähnliche Umschreibung kommen in der Richtlinie nicht vor (Zabukovec, Ökostromgesetz 59 f).
+3.4. Letztlich ist aus dem Inhalt der Richtlinie wegen des den Mitgliedstaaten zur Zielerreichung vorgegebenen weiten Gestaltungsspielraums wenig Aussagekraft für die Auslegung der innerstaatlichen Regelung zu. Hinsichtlich der Bedeutung der hier relevanten Definitionen ist auch aus den Gesetzesmaterialien (ErlRV 655 BlgNR 22. GP) zur ÖSG-Novelle 2006 (BGBl I 2006/105) nichts zu gewinnen. Diese Definitionen halten sich jedenfalls verbal stark an der Richtlinie an.
+Wie bereits erwähnt versteht die Richtlinie unter „Biomasse“ Folgendes: „der biologisch abbaubare Anteil von Erzeugnissen, Abfällen und Rückständen der Landwirtschaft (einschließlich pflanzlicher und tierischer Stoffe), der Forstwirtschaft und damit verbundener Industriezweige sowie der biologisch abbaubare Anteil von Abfällen aus Industrie und Haushalten“.
+Die Stammfassung des ÖSG (BGBl I 2002/149) bezeichnete mit „Biomasse“ „den biologisch abbaubaren Anteil von Erzeugnissen, Abfällen und Rückständen der Landwirtschaft (einschließlich tierischer und pflanzlicher Stoffe), der Forstwirtschaft und damit verbundener Industriezweige“ (§ 5 Abs 1 Z 4) und als „Abfall mit hohem biogenen Anteil“ (damals § 5 Abs 1 Z 5) „die in der Anlage angeführten Abfälle aus Industrie, Gewerbe und Haushalten, definiert durch die zugeordnete fünfstellige Schlüsselnummer des österreichischen Abfallkatalogs (ÖNORM S 2100)“. Mit der Novelle BGBl I 2006/105 wurde der „Abfall mit hohem biogenen Anteil“ nunmehr in § 5 Abs 1 Z 1 ÖSG definiert als „die in der Anlage 1 angeführten Abfälle aus Industrie, Gewerbe und Haushalten, definiert durch die zugeordnete 5-stellige Schlüsselnummer gemäß Anlage 5 Abfallverzeichnis der Abfallverzeichnisverordnung, BGBl. II Nr. 570/2003, in der Fassung der Verordnung BGBl. II Nr. 89/2005“. Die Definition der „Biomasse“ in § 5 Abs 1 Z 4 ÖSG blieb unverändert („den biologisch abbaubaren Anteil von Erzeugnissen, Abfällen und Rückständen der Landwirtschaft [einschließlich pflanzlicher und tierischer Stoffe], der Forstwirtschaft und damit verbundener Industriezweige“).
+4.1. In § 7 Abs 1 EinspeisetarifV (BGBl II 2002/508 idF BGBl II 2005/254) ist ein bestimmter Preis für die Abnahme elektrischer Energie aus Stromerzeugungsanlagen festgesetzt, die unter ausschließlicher Verwendung des Energieträgers feste Biomasse (zB Waldhackgut) betrieben werden. Die (reuduzierten) Einspeistarife bei Verwendung des Energieträgers „Abfälle mit hohem biogenen Anteil“ finden sich sodann in § 7 Abs 2 EinspeisetarifV. Aus dieser gesetzlichen Systematik ist ein erster Hinweis zu gewinnen, dass der Verordnungsgeber - in Entsprechung der gesetzlichen Vorgabe im ÖSG - in erster Linie die Verwertung von (fester) Biomasse fördern will, was den Schluss nahelegt, dass diejenigen Energieträger, die die definitionsmäßigen Kriterien für (feste) Biomasse erfüllen, auch entsprechend § 7 Abs 1 EinspeisetarifV zu tarifieren sind. Werden Energieträger verwendet, die sowohl aus „Biomasse“ (§ 7 Abs 1 EinspeisetarifV) als auch aus „Abfällen mit hohem biogenen Anteil“ (§ 7 Abs 2 EinspeisetarifV) verwendet, ist ein anteiliger Tarif im Sinne von § 7 Abs 2 Z 4 EinspeisetarifV anzuwenden.
+4.2. Der in § 5 Abs 1 ÖSG enthaltenen Definition der „Biomasse“ ist zu entnehmen, dass dieser Begriff aus den „Erzeugnissen, Abfällen und Rückständen“ der Landwirtschaft, der Forstwirtschaft und der damit verbundenen Industriezweige den „biologisch abbaubaren Anteil“ umfasst. Mangels Einschränkung in der Definition ist diesbezüglich eine 100%-ige biologische Abbaubarkeit zu fordern.
+„Abfälle mit hohem biogenen Anteil“ sind demgegenüber nur Abfälle organischer Herkunft (pflanzlicher oder tierischer Art); dazu kommt, dass sie aus Industrie, Gewerbe und Haushalten stammen müssen.
+Daraus, dass das Gesetz in den Begriff der „Biomasse“ auch Abfälle bestimmter Herkunft einschließt, ist der Schluss zu ziehen, dass die Definitionen in § 5 Abs 1 Z 1 und 4 ÖSG nicht eindeutig begrifflich getrennt sind, sondern dass im Abfallbereich Überschneidungen zwischen den beiden Kategorien bestehen können.
+4.3. Schon aus der Gegenüberstellung der beiden unter 4.2. genannten Definitionen lässt sich - in Bezug auf Abfälle - der Schluss ziehen, dass der Herkunft der Abfälle eine maßgebliche Bedeutung zukommt: Stammen sie aus der Landwirtschaft, der Forstwirtschaft und damit verbundenen Industriezweigen, fallen sie - bei Erfüllung der sonstigen Voraussetzungen - unter den Begriff der „Biomasse“. Damit wird aber die alleinige Maßgeblichkeit der Zuordnung von Schlüsselnummern relativiert, sind doch als „Abfälle mit hohem biogenen Anteil“ eben nur solche bestimmter Herkunft definiert. Stammt beispielsweise Abfall aus der Land- und Forstwirtschaft, ändert die Zuordnung einer Schlüsselnummer zu dieser Abfallkategorie nichts daran, dass diese auch (feste) Biomasse im Sinne des § 7 Abs 1 EinspeisetarifV sein kann, sofern sie entsprechender Herkunft laut der Biomasse-Definition sind. Bei gegenteiliger Auffassung wären die Herkunftsarten in den gesetzlichen Begriffsdefinitionen völlig überflüssig. Das Argument des Berufungsgerichts, Rinde sei zwingend verschmutzt und deshalb keine reine Biomasse, überzeugt nicht.
+4.4. Auch der letzte Satz in dem mit „Abfälle mit hohem biogenen Anteil gemäß § 5 Abs. 1 Z 1“ überschriebenen einleitenden Absatz der Anlage 1 zum ÖSG („Teilmengen von Abfallarten, die nicht in den Tabellen 1 und 2 angeführt sind, gelten nicht als Abfälle mit hohem biogenen Anteil oder als Biomasse.“) bestätigt letztlich, dass im Fall von Abfall organischer Herkunft trotz der Zuordnung einer Schlüsselnummer auch „Biomasse“ im Sinne des § 7 Abs 1 EinspeisetarifV vorliegen kann: Ist eine Abfallkategorie nicht angeführt, kann dieser Abfall weder ein solcher mit hohem biogenen Anteil noch Biomasse sein. Abfallkategorien mit einer Schlüsselnummer können sowohl „Abfall mit hohem biogenen Anteil“ als auch „Biomasse“ sein.
+4.5. Soweit Abfälle sowohl die Kriterien der „Biomasse“ als auch der „Abfälle mit hohem biogenen Anteil“ erfüllen, ist die Frage zu lösen, ob der Gesetzgeber (bzw dem folgend der Verordnungsgeber in Bezug auf die Tarife) einem der beiden Begriffe einen Vorrang einräumen wollte. Ein solcher Vorrang ergibt sich aus den gesetzlichen Regeln über die Vergütungen (§ 11 ÖSG), speziell aus dem aus § 11 Abs 1 Satz 8 ÖSG erkennbaren Zweck Ermächtigung zur Differenzierung „innerhalb der Anlagenkategorien auf Basis von Biomasse oder Abfall mit hohem biogenen Anteil“: Die Energiegewinnung aus „Biomasse“ soll stärker gefördert werden als solche aus „Abfall mit hohem biogenen Anteil“ (in diesem Sinn - für die spätere Rechtslage - auch Potacs, Biomasse oder Abfall mit hohem biogenen Anteil? ZfV 2011, 929 [931]). Daraus folgt, dass dann, wenn die verwerteten Abfälle die Definition von („reiner“) fester Biomasse erfüllen (wozu neben der biologischen Abbaubarkeit auch die Herkunft gehört), auch die Vergütung für die Energieerzeugung aus fester Biomasse gebührt. Nur die geringere Vergütung steht dann zu, wenn die Kriterien für feste Biomasse nicht erfüllt sind (etwa wegen der Herkunft), wohl aber diejenigen für Abfälle mit hohem biogenen Anteil, sofern ihnen eine Schlüsselnummer zugeordnet ist. Bei kombinierter Verwendung von „Biomasse“ und „Abfällen mit hohem biogenen Anteil“ kommt § 7 Abs 2 Z 4 EinspeisetarifV zum Tragen.
+4.6. Die Ansicht der beklagten Partei und des Berufungsgerichts, die darauf hinausläuft, dass Abfälle mit hohem biogenen Anteil, denen eine Schlüsselnummer zugeordnet ist, keinesfalls als Biomasse qualifiziert werden können, selbst wenn sie aus der Land- und Forstwirtschaft und damit verbundenen Industrien stammen, wird daher nicht geteilt.
+5. Ausgehend von ihrer vom Obersten Gerichtshof nicht geteilten Rechtsansicht haben die Vorinstanzen keine Feststellungen zur Qualität und der Herkunft der strittigen Abfälle getroffen.
+Im fortgesetzten Verfahren ist daher zu klären, ob die strittigen Abfälle zur Gänze oder anteilsmäßig die Kriterien der Definition für (feste) Biomasse erfüllen:
+- gänzliche biologische Abbaubarkeit,
+- Herkunft der Abfälle aus der Landwirtschaft, der Forstwirtschaft oder damit verbundener Industriezweige.
+Aus dem Wort „verbunden“ geht hervor, dass die „verbundenen Industriezweige“ nicht nur in einem losen Zusammenhang mit der Land- oder Forstwirtschaft stehen dürfen; vielmehr muss eine funktional enge und unmittelbare Verbindung bestehen. In diesem Sinn ist der von der klagenden Partei genannte Holzgroßhandel kein mit der Land- oder Forstwirtschaft „verbundener Industriezweig“, ebenso wenig die Tischlereiindustrie und Spanplattenindustrie, wohl aber beispielsweise die Sägeindustrie (und aus Gleichheitsgründen auch das Sägegewerbe) oder Ölmühlen, die landwirtschaftliche Erzeugnisse unmittelbar aus dem Bereich der Landwirtschaft erwerben und verarbeiten. Daher sind auch Holzabfälle aus Bau- und Abbruchabfällen keine „Biomasse“ in diesem Sinn (ebenso Thurnher/Pfefferkorn, Handbuch Ökostromrecht [2007] 81 f).
+Im Ergebnis ist somit auch die vom Berufungsgericht verfügte Aufhebung des Ersturteils im Umfang von 3.577.474 EUR berechtigt, weshalb dem Rekurs der klagenden Partei kein Erfolg beschieden ist.
+6. Der Kostenvorbehalt beruht auf § 52 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0030OB00066.13X.0219.000

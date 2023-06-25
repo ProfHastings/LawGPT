@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.2019
+Geschäftszahl
+5Ob160/19v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragsteller 1. E*****, 2. G***** S*****, beide vertreten durch Mag. Wolfgang Kleinhappel, Rechtsanwalt in Wien, wegen Einverleibung des Eigentumsrechts ob EZ ***** KG *****, über den außerordentlichen Revisionsrekurs der Erstantragstellerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 19. Juni 2019, AZ 46 R 163/19i, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ein nach § 364c ABGB unter Nachweis der Angehörigeneigenschaft verbüchertes Belastungs- und Veräußerungsverbot bewirkt grundsätzlich – sofern keine Zustimmung des Berechtigten vorliegt oder dieser selbst eine Eintragung beantragt – eine allgemeine Grundbuchsperre für sämtliche rechtsgeschäftlich oder zwangsweise begehrten, vom Verbot erfassten Eintragungen (RIS-Justiz RS0002595 [T16]).
+2. Die Frage, ob durch eine eingetragene Verfügungsbeschränkung ein Hindernis aus dem Grundbuchstand der begehrten Bewilligung entgegensteht, ist gemäß § 94 Abs 1 Z 1 GBG im Grundbuchverfahren materiell zu prüfen. Ist dies der Fall, bedarf eine Verfügung regelmäßig der Zustimmung des Verbotsberechtigten in einverleibungsfähiger Form (5 Ob 101/16p; 5 Ob 196/11a; vgl RS0002491). Das Grundbuchsgericht darf das Ansuchen dann nur bewilligen, wenn der Urkundeninhalt nicht nur formal unbedenklich ist, sondern auch keine materiell-rechtlichen Zweifel aufkommen lässt (§ 94 Abs 1 Z 3 GBG). Es ist dem Grundbuchsgericht verwehrt, eine undeutliche und zu begründeten Zweifel Anlass gebende Urkunde auszulegen; durch den Inhalt der Urkunden erweckte und nicht restlos beseitigte Zweifel haben vielmehr zur Abweisung des Grundbuchsgesuchs zu führen (RS0060573; RS0060878).
+3. Ob die dem Grundbuchsgesuch angeschlossenen Urkunden iSd § 94 Abs 1 Z 3 GBG zu Zweifeln Anlass geben, ist eine Frage des Einzelfalls, die nur dann eine erhebliche Rechtsfrage begründen könnte, wenn dem Rekursgericht eine aus Gründen der Rechtssicherheit aufzugreifende Fehlbeurteilung unterlaufen wäre (RS0060573 [T18]; RS0060878 [T55]).
+4. Eine solche Fehlbeurteilung ist hier nicht zu erkennen. Die Revisionsrekurswerberin beruft sich auf eine Erklärung in dem vom Zweitantragsteller erstellten „Anbot auf Abschluss eines Schenkungsvertrages vom 25. 7. 2011“, mit der die aus dem Belastungs- und Veräußerungsverbot Berechtigten ihre Zustimmung zur Löschung des Belastungs- und Veräußerungsverbots erteilt hätten. Die aus dem Belastungs- und Veräußerungsverbot Berechtigten unterfertigten die Urkunde allerdings mit dem ausdrücklichen Hinweis darauf, dass sie als „übrige Parteien“ das Anbot „zur Kenntnis nehmen“, die in der Urkunde enthaltene Vollmacht erteilen und sich die „Anbotsannahme in offenen Frist vorbehalten“. Die Auffassung des Rekursgerichts, es liege keine eindeutige unbedingte Zustimmung und keine Aufsandungserklärung zur (gar nicht beantragten) Einverleibung der Löschung des Belastungs- und Veräußerungsverbots vor, ist daher losgelöst von den Fragen, die der Wortlaut der angeblichen Zustimmungserklärung nach Auffassung des Rekursgerichts aufwirft, nicht korrekturbedürftig.
+5. Der Revisionsrekurs zeigt damit keine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00160.19V.1022.000

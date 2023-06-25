@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.08.2018
+Geschäftszahl
+4Ob126/18k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin S***** GmbH, *****, vertreten durch Hofbauer & Nokaj Rechtsanwalts GmbH in Ybbs/Donau, gegen die Beklagte M***** GmbH *****, vertreten durch Dr. Stefan Gloss, Rechtsanwalt in St. Pölten, wegen 768.674,16 EUR sA, über die außerordentliche Revision der Klägerin gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. April 2018, GZ 5 R 22/18v-37, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der nunmehrige Geschäftsführer und Alleingesellschafter der beklagten GmbH war Kommanditist einer Ziviltechniker-KG. Die KG wurde aufgelöst und der Geschäftsbetrieb eingestellt. Ein Kaufvertrag über eine Vermögensübernahme durch die GmbH wurde nicht geschlossen. Die Geschäftsfälle, die von der KG geführt worden waren, wurden abgerechnet und im Anschluss daran die Arbeiten von der GmbH weitergeführt. Die Beklagte informierte die Kunden der KG, dass sie alle Geschäfte der KG mit allen Rechten und Pflichten übernehme.
+Die Klägerin begehrt von der Beklagten  768.674,16 EUR, weil die KG als „Rechtsvorgängerin der Beklagten kraft äußeren Tatbestands“ für die Klägerin statische Beratungsleistungen erbracht habe, die sich in der Folge als unrichtig erwiesen hätten. Die KG habe nämlich dahingehend beraten, dass der Schweinestall der Klägerin aufgrund von Mängeln komplett zu sanieren sei. Die Klägerin habe die angeratenen Sanierungsmaßnahmen beauftragt und den Statiker wegen vermeintlicher mangelhafter Planung geklagt, jedoch den Prozess verloren, weil weder statische noch konstruktive Mängel vorgelegen seien. Der Klagsbetrag setze sich aus frustrierten Prozesskosten, frustriertem Sanierungsaufwand und Verdienstentgang zusammen.
+Die Beklagte bestritt den Unternehmensübergang und erhob einen Verjährungseinwand. Es sei kein falscher Rat erteilt worden. Die Klägerin habe auch keinen Auftrag zur allumfassenden Befundaufnahme und Gutachtenserstattung erteilt.
+Das Erstgericht erkannte mit Zwischenurteil, dass das Klagebegehren dem Grunde nach zu Recht bestehe. Es bejahte den Unternehmensübergang, verneinte die Verjährung und bejahte die Verletzung der Schutz- und Sorgfaltspflicht der Beklagten, weil sie keine weitergehenden Untersuchungen angeregt habe und keinen Hinweis auf die Notwendigkeit einer Probebohrung, um Gewissheit über die mögliche Deckenbelastung zu erlangen, gegeben habe.
+Das Berufungsgericht wies die Klage ab und erklärte die Revision für nicht zulässig. § 38 UGB knüpfe für die Übertragung der Rechtsverhältnisse an den Erwerb eines Unternehmens unter Lebenden an; zusätzlich werde die Fortführung des Unternehmens gefordert. Ein bloß äußerer Anschein reiche für den Unternehmensübergang nicht aus. Im vorliegenden Fall liege kein Titelgeschäft für einen Unternehmensübergang vor. Die KG sei im Zusammenhang mit der Pensionierung ihres Komplementärs aufgelöst worden, eine Willenseinigung zwischen der KG und der beklagten GmbH über die Übernahme von Vermögenswerten sei den erstgerichtlichen Feststellungen nicht zu entnehmen. Der Umstand allein, dass die Beklagte mit einem Schreiben an die Kunden den Eindruck erweckt habe, das Nachfolgeunternehmen der KG zu sein, vermöge die Haftungsfolgen des § 38 UGB bzw § 1409 ABGB nicht auszulösen.
+Dagegen richtet sich die außerordentliche Revision der Klägerin mit dem Antrag auf Wiederherstellung des Zwischenurteils des Erstgerichts, in eventu Aufhebung in die zweite oder erste Instanz.
+Rechtliche Beurteilung
+Die außerordentliche Revision ist in Ermangelung von erheblichen Rechtsfragen iSv § 502 Abs 1 ZPO nicht zulässig.
+Die Revision versucht, eine uneinheitliche Rechtsprechung zu § 1409 ABGB aufzuzeigen, die tatsächlich nicht besteht, denn die einhellige jüngere Rechtsprechung und Lehre lassen einen bloßen Rechtsschein (äußerer Tatbestand der Unternehmensübernahme) nicht genügen, um eine Haftung zu begründen (vgl RIS-Justiz RS0033060). Die faktische Inbesitznahme eines Vermögens reicht nicht aus (4 Ob 71/11m), sondern die Haftung nach § 1409 ABGB setzt ein Veräußerungsgeschäft unter Lebenden voraus (7 Ob 122/05z mwN). Ein solches wurde weder behauptet noch festgestellt.
+Diese zu § 1409 ABGB ergangene Rechtsprechung, wonach Voraussetzung der Haftung für den Erwerber eine rechtsgeschäftliche Veräußerung ist, gilt umso mehr für Fälle – wie den hier gegenständlichen –, die in den Regelungsbereich des § 38 UGB fallen, zumal § 38 UGB schon vom Wortlaut her (nur) den rechtsgeschäftlichen Unternehmenserwerb im Blickpunkt hat (vgl § 38 Abs 1 UGB: „Wer ein unter Lebenden erworbenes Unternehmen fortführt, ...“, die mehrmalige Bezugnahme auf „Veräußerer“ und „Erwerber“ und den Hinweis auf die Folgen bei einer „abweichenden Vereinbarung“).
+Die Revisionswerberin vermag dagegen keine stichhältigen Argumente aufzuzeigen, die vom Obersten Gerichtshof im Sinne einer gegenteiligen Sachentscheidung aufzugreifen wären. Auf eine vertragliche Haftungsübernahme stützt sich die Klägerin nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00126.18K.0823.000

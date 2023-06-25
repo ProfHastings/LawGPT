@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.06.2018
+Geschäftszahl
+7Ob99/18m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr.
+Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** J*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei G***** AG, *****, vertreten durch Advokaturbüro Pitschmann & Santner Anwaltspartnerschaft in Feldkirch, wegen 182.525 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 4. April 2018, GZ 4 R 14/18t-102, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die Allgemeinen Bedingungen für den Premium-Unfallschutz (AUVB 2006) zugrunde liegen. Diese lauten auszugsweise:
+„F. Welche Infektionskrankheiten gelten als Unfallfolgen?
+1. Der Versicherungsschutz erstreckt sich auf die Folgen der Kinderlähmung und der durch Zeckenbiss übertragenen Frühsommer-Meningoencephalitis und Borreliose, wenn die Erkrankung serologisch festgestellt wurde und frühestens 15 Tage nach Beginn bzw spätestens 15 Tage nach Erlöschen der Versicherung zum Ausbruch kommt.
+Als Krankheitsbeginn (Zeitpunkt des Versicherungsfalls) gilt der Tag, an dem erstmals ein Arzt wegen der als Kinderlähmung, Frühsommer-Meningoencephalitis oder Borreliose diagnostizierten Krankheit konsultiert wurde.“
+Rechtliche Beurteilung
+1. Die Vorinstanzen stellten zwar fest, dass die mitversicherte Ehefrau des Klägers – im Laufe ihres Lebens – eine Borrelien-Infektion hatte. Es konnte aber weder deren Zeitpunkt festgestellt werden, noch ob jemals eine klinisch manifeste Borrelien-Erkrankung aufgetreten war und ob ein Zusammenhang zwischen der Borrelien-Infektion und der diagnostizierten Perikardergusserkrankung besteht.
+2. Der Kläger erachtet die in Art F.1 AUVB enthaltene Voraussetzung, wonach die Borreliose serologisch festgestellt sein müsse, als gröblich benachteiligend und sittenwidrig im Sinn des § 879 Abs 3 ABGB. Die Bestimmung sei geltungserhaltend dahin zu reduzieren, dass sich der Versicherungsschutz auf die Folgen einer durch Zeckenbiss übertragenen, diagnostizierten Borreliose erstrecke.
+Die vom Kläger als wesentlich relevierte Rechtsfrage stellt sich nicht. Er übersieht nämlich, dass im vorliegenden Fall schon nicht der erforderliche Zeckenbiss und damit eine durch diesen übertragene Borreliose festgestellt werden konnte.
+3.1 Soweit der Kläger – unabhängig davon, dass auch der für den Versicherungsfall notwendige Zeckenbiss nicht feststeht – meint, ihm komme beim Nachweis des Kausalzusammenhangs zwischen der Borrelien-Infektion und der Perikardergusserkrankung die Beweiserleichterung durch Erbringung des Anscheinsbeweises zugute, geht dies ins Leere.
+3.2 Der Anscheinsbeweis beruht darauf, dass bestimmte Geschehensabläufe typisch sind und es daher wahrscheinlich ist, dass auch im konkreten Fall ein derartiger gewöhnlicher Ablauf und nicht ein atypischer gegeben ist (RIS-Justiz RS0040266). Er ist daher nur zulässig, wenn eine typische formelhafte Verknüpfung zwischen der tatsächlich bewiesenen Tatsache und dem gesetzlich geforderten Tatbestandselement besteht; er darf aber nicht dazu dienen, Lücken der Beweisführung durch bloße Vermutungen auszufüllen (RIS-Justiz RS0040287).
+3.3 Es begründet keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung, dass das Berufungsgericht einen typischen Erfahrungszusammenhang zwischen der zeitlich nicht zuordenbaren Borrelien-Infektion und der durch eine solche selten hervorgerufene Perikardergusserkrankung verneinte. Auch der Kläger zeigt keine Tatsachen auf, aus denen sich der von ihm gewünschte und in jederzeit überprüfbarer Weise formulierte Erfahrungssatz ableiten ließe, zumal der Verlauf der Herzerkrankung für eine kardiale Borrelien-Infektion völlig untypisch war und die Erkrankung auf mehrere Ursachen zurückgeführt werden könnte.
+4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00099.18M.0620.000

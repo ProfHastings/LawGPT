@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.05.2020
+Geschäftszahl
+8Ob26/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei I*****, vertreten durch Dr. Waltraud Künstl, Rechtsanwältin in Wien, gegen die beklagte Partei Krankenhaus ***** Gemeinnützige GmbH, *****, vertreten durch Huainigg Dellacher & Partner Rechtsanwälte OG in Klagenfurt, wegen 103.250 EUR sA, über den „außerordentlichen Revisionsrekurs“ und die außerordentliche Revision der klagenden Partei gegen den Beschluss und das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 6. Februar 2020, GZ 2 R 151/19x, 155/19k-35, den
+Beschluss
+gefasst:
+Spruch
+I. Der „außerordentliche Revisionsrekurs“ wird zurückgewiesen.
+II. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+I. Zum „außerordentlichen Revisionsrekurs“
+Nach ständiger Rechtsprechung ist gegen einen die Zurückweisung eines Ablehnungsantrags bestätigenden Beschluss ein Revisionsrekurs an den Obersten Gerichtshof nicht zulässig (RIS-Justiz RS0098751 ua). Das gilt auch in Ablehnungssachen betreffend einen Sachverständigen (RS0046065 [T13]).  Eine Ausnahme davon ist in der höchstgerichtlichen Judikatur für einen Beschluss anerkannt, in dem das Rekursgericht eine meritorische Behandlung des gegen die erstgerichtliche Sachentscheidung (über den Ablehnungsantrag) gerichteten Rekurses aus formellen Gründen ablehnte (RS0098751 [T9]; RS0044509). Falls eine inhaltliche Prüfung der geltend gemachten Ablehnungsgründe erfolgte, ist gegen die bestätigende Entscheidung des Gerichts zweiter Instanz aber jedenfalls kein Rechtsmittel mehr zulässig (RS0098751 [T11]).
+Dass hier beide Unterinstanzen übereinstimmend zur Auffassung gelangten, der Ablehnungsantrag der Klägerin gegen den Sachverständigen sei (nicht nur verspätet, sondern auch) inhaltlich unberechtigt, räumt die Klägerin in ihrem Rechtsmittel selbst ein.
+Der absolut unzulässige Revisionsrekurs der Klägerin ist daher zurückzuweisen.
+II. Zur außerordentlichen Revision
+1. Nach ständiger Rechtsprechung kann ein Mangel des erstinstanzlichen Verfahrens, der im Rechtsmittel geltend gemacht wurde, vom Gericht zweiter Instanz aber verneint wurde, im Revisionsverfahren nicht mehr gerügt werden (RS0042963 [T45] uva). Dieser Grundsatz kann auch nicht durch die Behauptung umgangen werden, das Berufungsverfahren sei – weil das Berufungsgericht der Mängelrüge nicht gefolgt sei – mangelhaft geblieben (RS0043061 [T18]).
+Die Revisionswerberin wiederholt in der Revision nur ihre bereits in der Berufung wegen Unterbleibens der Beiziehung eines zweiten Sachverständigen und der  Einvernahme eines Zeugen erhobene Verfahrensrüge. Deren Berechtigung hat das Berufungsgericht jedoch geprüft und verneint.
+2.1 Der Arzt muss nicht stets von sich aus alle theoretisch in Betracht kommenden Behandlungs- oder Operationsmöglichkeiten mit dem Patienten erörtern, er muss ihn aber, um ihm eine selbstbestimmte Entscheidung zu ermöglichen, über mehrere zur Wahl stehende diagnostische oder therapeutische adäquate Verfahren informieren und das Für und Wider mit ihm abwägen, wenn jeweils unterschiedliche Risken entstehen können und der Patient eine echte Wahlmöglichkeit hat; eine solche Verpflichtung besteht gerade bei einem Unterschied im Risiko, den Folgen, vor allem aber in der Erfolgssicherheit und der Schmerzbelastung (RS0026426). Der Umfang der ärztlichen Aufklärungspflicht ist grundsätzlich eine Frage des Einzelfalls (RS0026529).
+2.2 Nach den Feststellungen erfolgte die (indizierte) operative Versorgung des Schienbeinbruchs der Klägerin nach den Regeln der ärztlichen Kunst, jedoch trat eine operationstypische (keinen Behandlungsfehler bildende) Komplikation insofern ein, als der vom Operateur gewählte Marknagel etwa 0,5 bis 1 cm oberhalb des Eintrittspunkts am knöchernen, körpernahen Ende des Schienbeins zu liegen kam. Die Klägerin hätte sich allerdings auch operieren lassen, wenn ihr ausdrücklich gesagt worden wäre, dass der eingebrachte Nagel überstehen und Schmerzen verursachen könne.
+2.3 Davon ausgehend kamen die Vorinstanzen zu dem Ergebnis, dass die Beklagte den Beweis des rechtmäßigen Alternativverhaltens erbracht habe, weil sich die Klägerin auch bei ordnungsgemäßer Aufklärung über das Risiko eines überstehenden Nagels jedenfalls zur Operation entschieden hätte. Daran weckt die Klägerin mit ihrer Ansicht, sie hätte über verschiedene (intraoperative) Methoden der Vermessung des Nagels aufgeklärt werden müssen, keine Bedenken, schon weil feststeht, dass auch die vom Hersteller empfohlene Methode zur Bestimmung der Nagellänge „keine hundertprozentige Zuverlässigkeit“ bewirkt und „Ungenauigkeiten jedenfalls eintreten können“. Ein – eine eigene Aufklärungspflicht auslösender – Unterschied im Risiko ist damit nicht dargetan und wird von der Klägerin auch gar nicht konkret behauptet, die nur ganz allgemein die Gleichwertigkeit der vom Operateur gewählten und der vom Hersteller empfohlenen Messmethode anzweifelt.
+3. Die außerordentliche Revision ist daher mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0080OB00026.20M.0527.000

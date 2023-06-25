@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.12.1973
+Geschäftszahl
+3Ob192/73
+Norm
+ABGB §435;
+EO §39 Abs1 Z2;
+EO §54;
+EO §55;
+Urkundenhinterlegungsgegetz §19;
+Urkundenhinterlegungsverordnung §7;
+Urkundenhinterlegungsverordnung §18;
+ZPO §411;
+Kopf
+SZ 46/120
+Spruch
+Die Rechtskraft der Bewilligung der Exekution auf ein angebliches Superädifikat steht der Überprüfung der Superädifikateigenschaft nichts entgegen
+Ob ein in Exekution gezogenes Bauwerk ein Superädifikat ist, ist im Exekutionsverfahren zu entscheiden
+Auf das Verfahren des Exekutionsgerichtes zur Prüfung der Frage, ob ein im Wege der Fahrnisexekution gepfändetes Bauwerk ein Superädifikat darstellt, sind die Bestimmungen der UrkHV (BGBl. 326/1927, nunmehr ersetzt durch UHG, BGBl. 326/1974.) nicht anwendbar
+Der durch die UrkHV (BGBl. 326/1927, nunmehr ersetzt durch UHG, BGBl. 326/1974.) vorgeschriebenen Ersichtlichmachung der vom Vermessungsamt mittels Anmeldungsbogens angezeigten Errichtung eines Bauwerkes im Grundbuch kommt für dessen rechtliche Beurteilung keine Bedeutung zu. Die Ersichtlichmachung dient nur Übersichtszwecken
+OGH 11. Dezember 1973, 3 Ob 192/73 (LGZ Graz, 2 R 141/73; GBZ Graz 11 E 1306/73)
+Text
+Das Erstgericht bewilligte der betreibenden Gläubigerin zur Hereinbringung einer vollstreckbaren Forderung von 182.960 S samt Anhang wider die verpflichtete Partei Ing. Hans H die Exekution durch Pfändung, Verwahrung und Verkauf des in deren Gewahrsame befindlichen, auf dem Grundstück Nr. 474/6 der EZ 1094 KG G errichteten Superädifikates (Doppelbungalow mit getrennten Eingängen und zwei Garagen). Über das Vermögen des Ing. Hans H wurde zur GZ 21 S 18/70 des Landesgerichtes für ZRS G mit Wirkung vom 21. September 1971 das Konkursverfahren eröffnet und Dr. Gerhard S zum Masseverwalter bestellt.
+Mit seinem Antrag ON 17 begehrte der Masseverwalter die Einstellung des Exekutionsverfahrens nach § 39 Abs. 1 Z. 2 EO sowie dessen Aufschiebung bis zur rechtskräftigen Entscheidung über seinen Einstellungsantrag mit der Begründung, bei dem gepfändeten Doppelbungalow handle es sich nicht um ein Superädifikat.
+Das Erstgericht schob das Exekutionsverfahren auf, das Rekursgericht wies den Antrag auf Exekutionsaufschiebung ab.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Beizupflichten ist allerdings den Ausführungen des Rekursgerichtes, daß auch bei Vorliegen eines Aufschiebungsgrundes nach § 42 EO die Frage, ob die Exekution aufzuschieben ist, immer von der Wahrscheinlichkeit des Erfolges der Aktion des Aufschiebungswerbers (Klage, Einstellungsantrag und dergleichen) abhängt (Heller - Berger - Stix Komm. z. EO[4], 550, JBl. 1970/259, 3 Ob 34/71, zuletzt 3 Ob 64/72). Nur eine "offenbare Aussichtslosigkeit " der Aktion des Aufschiebungswerbers rechtfertigt aber die Abweisung des Exekutionsaufschiebungsantrages bloß aus diesem Gründe (EvBl. 1967/121, 1971/220, 3 Ob 70/70, 3 Ob 64/72, zuletzt 3 Ob 146, 147/72).
+Entgegen der Ansicht des Rekursgerichtes kann aber der Einstellungsantrag des Masseverwalters nach § 39 Abs. 1 Z. 2 EO nicht als offenbar aussichtslos betrachtet werden. Die gerichtliche Hinterlegung der Pfandbestellungsurkunde im Sinne der V des Bundesministeriums für Justiz vom 18. November 1927, BGBl. Nr. 326, führte zur Begründung eines Pfandrechtes an dem vorgenannten Bauwerk nur dann, wenn dieses tatsächlich ein Superädifikat im Sinne des § 435 ABGB darstellt. Der durch die vorgenannte Verordnung vorgeschriebenen Ersichtlichmachung der vom Vermessungsamt mittels Anmeldungsbogens angezeigten Errichtung eines Bauwerkes im Grundbuch kommt nämlich für dessen rechtliche Beurteilung keinerlei Bedeutung zu. Die Ersichtlichmachung dient vielmehr nur Übersichtszwecken (Klang[2] II, 371, JABl. 1927/22, JBl. 1934/453). Die Urkundenhinterlegung ist daher auch dann zu bewilligen, wenn eine Ersichtlichmachung des Bauwerkes im Grundbuch nicht erfolgte (§ 7 Abs. 2 der V BGBl. 326/1927). Das Vorliegen eines Superädifikates wird aber vom Masseverwalter in seinem Einstellungsantrag bestritten.
+Auch der Rechtsansicht des Rekursgerichtes, daß die Frage des Vorliegens eines nach § 435 ABGB zu beurteilenden Bauwerkes nur im Rechtsweg geklärt werden könne und daher der Einstellungsantrag nicht der dem gewünschten Zweck dienende Rechtsbehelf sei, kann nicht gefolgt werden. Ob eine auf ein Bauwerk geführte Fahrnisexekution mangels Vorliegens eines Superädifikates nach § 39 Abs. 1 Z. 2 EO einzustellen ist, entscheidet das Exekutionsgericht allenfalls auch von Amts wegen. Ist dessen Entscheidung von der Feststellung strittiger Tatsachen abhängig, so ist der Sachverhalt vom Exekutionsgericht gemäß § 55 Abs. 2 und 3 EO zu erheben. Eine Verweisung auf den Rechtsweg ist in diesem Falle nicht vorgesehen (Heller - Berger - Stix 500, ZBl. 1933/310 mit in diesem Punkte zustimmender Besprechung von Petschek). § 18 Abs. 2 der V BGBl. 326/1927 enthält nur grundbuchsrechtliche Vorschriften über die Löschung der Ersichtlichmachung eines Bauwerkes, wenn im Rechtsweg oder im Einvernehmen aller beteiligter Personen festgestellt ist, daß kein nach § 435 ABGB zu beurteilendes Superädifikat vorliegt. Auf das Verfahren des Exekutionsgerichtes zur Prüfung der Frage, ob ein im Wege der Fahrnisexekution gepfändetes Bauwerk ein Superädifikat darstellt, sind daher die Bestimmungen der vorgenannten Verordnungen nicht anwendbar. Sollte sich in diesem Verfahren ergeben, daß das Bauwerk kein Superädifikat ist, so wird die Fahrnisexekution nach § 39 Abs. 1 Z. 2 EO einzustellen sein. Einer Einstellung würde auch die Rechtskraft der Exekutionsbewilligung nicht entgegenstehen, weil die Frage, ob das vorgenannte Bauwerk tatsächlich ein Superädifikat im Sinne des § 435 ABGB ist, im Bewilligungsverfahren nicht näher geprüft, sondern von den Behauptungen der betreibenden Gläubigerin ausgegangen wurde (Heller - Berger - Stix 162).

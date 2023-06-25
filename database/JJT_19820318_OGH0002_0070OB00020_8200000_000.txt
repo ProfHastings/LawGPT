@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.03.1982
+Geschäftszahl
+7Ob20/82
+Norm
+ZPO §17;
+ZPO §19 Abs1;
+Kopf
+SZ 55/39
+Spruch
+Das Interesse an der Einbringlichmachung einer ersiegten Forderung reicht für die Nebenintervention nicht aus. Der Geschädigte kann im Deckungsprozeß nur dann als Nebenintervenient auf Seite des Versicherungsnehmers eintreten, wenn er den Deckungsanspruch in Exekution gezogen hat
+Der Nebenintervenient hat ausnahmsweise eine eigene Rechtsmittelfrist gegen den Beschluß auf Nichtzulassung, wenn der Rekurs dagegen nicht mit einem Rechtsmittel gegen die Sachentscheidung verbunden werden kann
+OGH 18. März 1982, 7 Ob 20/82 (OLG Linz 1 R 180/81; LG Salzburg 1 Cg 199/79)
+Text
+Im vorliegenden Rechtsstreit des Versicherungsnehmers gegen seinen Haftpflichtversicherer auf Deckung bereits rechtskräftig zuerkannter Ansprüche des Geschädigten hat dieser, der nunmehrige Rekurswerber, seinen Beitritt als Nebenintervenient auf Seite der klagenden Partei erklärt. Während der Erstrichter die Nebenintervention gegen den Einspruch der beklagten Partei zuließ, wies die zweite Instanz sie infolge Rekurses des Gegners mit der Begründung zurück, daß kein rechtliches, sondern nur ein wirtschaftliches Interesse am Obsiegen des Klägers erkennbar und behauptet worden sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Nebenintervenienten, den er nicht als verspätet ansah, nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der vom Beitrittswerber erhobene Revisionsrekurs ist nicht verspätet, weil der Rechtssatz, wonach bei der Nebenintervention der Fristenlauf "immer" nur nach den Verhältnissen der Hauptparteien zu beurteilen ist (SZ 24/131 uva.), auf den vorliegenden Ausnahmsfall nicht paßt, in dem die Hauptpartei, zu deren Unterstützung der Nebenintervenient eintreten will, kein Rekursrecht hätte (SZ 36/81 ua.), und der Rekurs des Beitrittswerbers auch nicht mit einem vom Fristenlauf gegen die (siegreiche) Hauptpartei abhängigen Rechtsmittel in der Hauptsache verbunden werden mußte.
+Der Revisionsrekurswerber läßt die zutreffende Ansicht des Rekursgerichtes unbekämpft, daß ein bloß wirtschaftliches Interesse am Obsiegen einer Prozeßpartei für die Nebenintervention nicht ausreicht, sondern seine Rechtsstellung durch die Entscheidung zwischen den Hauptparteien unmittelbar berührt werden müßte (SZ 50/7 uva.). Entgegen seiner Behauptung gehört aber die Realisierung, also die Einbringlichmachung einer ersiegten Forderung, nicht zur Rechtssphäre des Berechtigten, sondern berührt nur seine wirtschaftliche Situation. Der Unterschied, den der Revisionsrekurswerber zwischen der Verschaffung von Exekutionsobjekten und der ausschließlichen Realisierbarkeit seiner Forderung beim Obsiegen des Klägers gegen den Haftpflichtversicherer machen will, ist nur quantitativ und daher nicht zielführend. Bei Zutreffen seiner Meinung könnte jeder Forderungsberechtigte sich an jedem Rechtsstreit, den sein Schuldner gegen einen Dritten führt, als Nebenintervenient beteiligen, um die Chancen der Einbringlichkeit seiner Forderung zu erhöhen. Daß dies nicht richtig sein kann, liegt auf der Hand (vgl. JBl. 1957, 457). Nur der Überweisungsgläubiger ist berechtigt, sein Interesse im Wege der Nebenintervention zu wahren, weil dieses Interventionsinteresse im § 310 EO anerkannt ist (JBl. 1960, 501; RZ 1969, 32). In diesem Sinn wäre es dem Revisionsrekurswerber freigestanden, den Deckungsanspruch des Klägers gegen die beklagte Partei in Exekution zu ziehen. Hingegen führt der Vergleich mit dem Interventionsinteresse im Kraftfahrzeughaftpflichtrecht wiederum nicht weiter. Dort ergibt sich die Anerkennung des rechtlichen Interesses für den Haftpflichtversicherten oder den Haftpflichtversicherer in dem jeweils gegen den anderen geführten Rechtsstreit nur aus der erweiterten Rechtskraftwirkung eines abweislichen Urteils gemäß § 63 Abs. 3 KFG. Da es einen gleichartigen unmittelbaren Anspruch des Geschädigten gegen den Haftpflichtversicherer außerhalb der Kraftfahrzeug-Haftpflichtversicherung nicht gibt, ist das dortige Interventionsinteresse hier nicht analogiefähig.

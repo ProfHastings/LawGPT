@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2018
+Geschäftszahl
+10ObS123/18p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter KAD Dr. Lukas Stärker (aus dem Kreis der Arbeitgeber) und Angela Taschek (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei B*****, vertreten durch Dr. Thomas Stoiberer, Rechtsanwalt in Hallein, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Feststellung von Schwerarbeitszeiten, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 17. September 2018, GZ 11 Rs 53/18w-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Anfechtung der Ergebnisse von Sachverständigengutachten ist in dritter Instanz nur insoweit möglich, als dabei ein Verstoß gegen zwingende Denkgesetze oder zwingende Gesetze des sprachlichen Ausdrucks unterlaufen ist (RIS-Justiz RS0043404). Werden Feststellungen aufgrund eines Sachverständigengutachtens getroffen, kann der Oberste Gerichtshof die generelle Eignung der gewählten Methode überprüfen, nicht aber das Ergebnis der Anwendung einer an sich geeigneten Methode (RIS-Justiz RS0127336).
+2. Strittig ist die Berechnung der Energieumsatzgrenze und daran anknüpfend die Ermittlung von Schwerarbeit (§ 1 Abs 1 Z 4 SchwerarbeitsVO). Die höchstgerichtliche Rechtsprechung sieht die „Energieumsatzmethode“, bei welcher der Kalorienverbrauch der betreffenden Tätigkeit aus einer Zusammenschau der einzelnen Durchschnittsbelastungen vom Sachverständigen ermittelt wird, als zulässig an (VfGH 6. 10. 2011, G 20/11, VfSlg 19.530; 10 ObS 88/18s). Das Erstgericht stellte, wie vom Obersten Gerichtshof gefordert (10 ObS 117/16b, SSV-NF 30/82 = DRdA 2017/43, 400 [Bell] mwN), die konkrete Ausgestaltung der vom Kläger im maßgeblichen Zeitraum verrichteten Tätigkeit fest. Der berufskundige Sachverständige berücksichtigte in seinem Gutachten auch einen – in der Revision thematisierten – konkreten Arbeitsvorgang, den der Kläger bei der Befundaufnahme beschrieben und vorgeführt hatte. Bemängelt der Kläger die Einstufung dieses Vorgangs nach Körperstellung und Art der Arbeit, spricht er im Ergebnis die nicht revisible Richtigkeit des Sachverständigengutachtens an. Die vom Berufungsgericht verneinten Verfahrensmängel erster Instanz (keine Einholung eines zusätzlichen Sachverständigengutachtens, keine Parteienvernehmung des Klägers) können auch in Sozialrechtssachen in dritter Instanz nicht geltend gemacht werden (RIS-Justiz RS0043061).
+3. Die Unterlassung der Parteienvernehmung begründet keine Nichtigkeit im Sinn des § 477 Abs 1 Z 4 ZPO (RIS-Justiz RS0107383 [T3, T5]; RS0042237 [T1]). Die in der Revision zitierte, im Außerstreitverfahren ergangene Entscheidung 1 Ob 4/01x ist nicht vergleichbar: Dort wurde eine Gehörverletzung angenommen, weil in zweiter Instanz ergänzende Feststellungen aus einem Ergänzungsgutachten getroffen wurden, zu dem eine Partei nicht Stellung nehmen konnte. Der Kläger hatte hier jedoch nach Zustellung des Gutachtens in erster Instanz Gelegenheit, bei der Gutachtenserörterung Fragen an den Sachverständigen zu stellen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:010OBS00123.18P.1219.000

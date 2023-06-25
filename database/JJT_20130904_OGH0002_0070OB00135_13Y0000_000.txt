@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.09.2013
+Geschäftszahl
+7Ob135/13y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei I***** J*****, vertreten durch Dr. Hans Peter Bauer, Rechtsanwalt in Salzburg, gegen die beklagte Partei W***** AG *****, vertreten durch Mag. Alexandra Knapp, Rechtsanwältin in Salzburg, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 11. Juni 2013, GZ 6 R 22/12s-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Beklagte wird aus einer Kaskoversicherung wegen des Verlusts des versicherten Fahrzeugs in Anspruch genommen. Im Versicherungsvertrag ist der Deckungsumfang - im hier interessierenden Umfang - mit „Verlust durch Diebstahl, Raub, unbefugten Gebrauch durch betriebsfremde Personen“ umschrieben.
+2. In der außerordentlichen Revision des Klägers wird geltend gemacht, dass der Deckungsumfang im Versicherungsvertrag und in Art 1.2 der diesem zugrunde gelegten „Allgemeinen Bedingungen für die Kollisionskasko-Versicherung (KK 2002)“ wortgleich umschrieben sei, weshalb es tatsächlich um die Auslegung des Begriffs Diebstahl in den Versicherungsbedingungen gehe, der über den Einzelfall hinausgehende Bedeutung zukomme. Selbst unter Zugrundelegung dieser Ansicht vermag der Kläger keinen tauglichen Grund für die Zulassung des außerordentlichen Rechtsmittels aufzuzeigen.
+3. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der Vertragsauslegung (§§ 914, 915 ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RIS-Justiz RS0050063; RS0112256 [T10]). Es findet deshalb auch die Unklarheitenregelung des § 915 ABGB Anwendung. Unklarheiten gehen daher zu Lasten der Partei, von der die diesbezüglichen Formulierungen stammen, also im Regelfall zu Lasten des Versicherers (RIS-Justiz RS0050063 [T3]). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RIS-Justiz RS0008901; 7 Ob 42/11v).
+Zwar ist die Auslegung von Versicherungsbedingungen, zu denen nicht bereits oberstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel. Dies gilt nach ständiger Rechtsprechung allerdings nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (7 Ob 42/11v). Dies trifft im vorliegenden Fall zu:
+4. Rechtsbegriffe haben in der Rechtssprache eine bestimmte Bedeutung und sind daher in diesem Sinn auszulegen. Dies gilt insbesondere dann, wenn den zu beurteilenden Rechtsinstituten nach herrschender Ansicht ein unstrittiger Inhalt beigemessen wird und sie in der Rechtssprache eine einvernehmliche Bedeutung haben (RIS-Justiz RS0123773; 7 Ob 19/09h).
+4.1 In der Revision wendet sich der Kläger nicht gegen die Beurteilung des Berufungsgerichts, dass der Verlust des Fahrzeugs durch Betrug erfolgte.
+4.2 Betrug ist nach dem insoweit völlig eindeutigen und daher auch nicht erörterungswürdigen Wortlaut der Vertragsbestimmungen nicht mitversichert. Er ist als Selbstschädigungsdelikt konzipiert und setzt grundsätzlich voraus, dass die Vermögensverminderung unmittelbar durch das eigene Verhalten des bisherigen Besitzers hervorgerufen wird. Da Diebstahl als widerrechtliche Sachentziehung inhaltlich ein Handeln gegen den Willen des Versicherungsnehmers zum dauerhaften oder zeitweisen Verbleib seines Fahrzeugs erfordert, ist eine Subsumtion des Betrugs unter den Diebstahlsbegriff ausgeschlossen (vgl BGH VersR 1975, 225, OLG Hamm VersR 1985, 490, OLG Karlsruhe NVersZ 1998, 129, OLG Saarbrücken NJOZ 2006, 3.612; Knappmann in Prölss/Martin VVG27 AKB § 12 Rn 16 mwN; Krischer in Münchener Kommentar zum VVG Band 2, 1.A, Kraftfahrtversicherung Rn 173 mwN).
+Auch jedem verständigen Versicherungsnehmer wird dies ohne weiteres klar sein. Im Übrigen lässt - entgegen der Ansicht des Klägers - gerade die Anführung konkreter Tatbestände, bei deren Vorliegen der Verlust des Fahrzeugs gedeckt ist, keinesfalls den Schluss zu, dass für jegliche Art des Verlusts Deckungsschutz gewährt wird.
+5. Einer weiteren Begründung bedarf dieser Beschluss nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0070OB00135.13Y.0904.000

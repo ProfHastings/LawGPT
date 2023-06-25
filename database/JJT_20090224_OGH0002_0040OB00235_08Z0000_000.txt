@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.02.2009
+Geschäftszahl
+4Ob235/08z
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei Manfred N*****, vertreten durch Dr. Walter Nimführ, Rechtsanwalt in Salzburg, gegen die beklagte Partei N***** Betriebsgesellschaft mbH, *****, vertreten durch Freimüller/Noll/Obereder/Pilz & Partner Rechtsanwälte GmbH in Wien, wegen Widerruf und Löschung einer Domain (Streitwert im Sicherungsverfahren 25.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 28. Oktober 2008, GZ 1 R 117/08w11, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der außerordentliche Revisionsrekurs des Klägers berührt keine erhebliche Rechtsfrage.
+Rechtliche Beurteilung
+Die angefochtene Entscheidung folgt der Rechtsprechung zur Haftung der DomainVergabestelle für Rechtsverletzungen durch einen DomainInhaber (4 Ob 166/00s - fpo.at; 4 Ob 176/01p = SZ 74/153 fpo.at II; RISJustiz RS0114374, RS0114373). Danach ist zwar eine allgemeine Prüfpflicht der Vergabestelle vor bzw im Zusammenhang mit der Registrierung einer SecondlevelDomain zu verneinen. Die Vergabestelle ist aber zum Handeln verpflichtet, wenn der Verletzte unter Darlegung des entsprechenden Sachverhalts ein Einschreiten verlangt und die Rechtsverletzung auch für einen juristischen Laien ohne weitere Nachforschung offenkundig ist. Sperrt sie in einem solchen Fall die Domain trotz Aufforderung nicht, kann sie auf Unterlassung und unter bestimmten Umständen auch auf Beseitigung in Anspruch genommen werden.
+Entgegen der Auffassung des Klägers ist der Umfang der Prüfpflicht der Vergabestelle normativ zu bestimmen und hängt nicht von der Tatfrage ab, ob sie über eine Rechtsabteilung verfügt oder nicht.
+Die Beurteilung des Rekursgerichts, eine allfällige Verletzung des Klägers in seinem Namensrecht durch unbefugten Namensgebrauch des Domaininhabers sei keineswegs offensichtlich im Sinne der Rechtsprechung, hält sich im Rahmen des ihm in dieser Frage eingeräumten Ermessensspielraums. Allein der Umstand, dass der Domaininhaber einen Namen führt, der mit der SecondlevelDomain nicht zeichengleich übereinstimmt, kann für die Annahme einer offensichtlichen, sich der Beklagten aufdrängenden Anmaßung des Namens des Klägers noch nicht ausreichen, weil ein solcher Sachverhalt keineswegs unüblich ist; andernfalls hätte nämlich die beklagte Vergabestelle in einer nahezu unbegrenzten Vielzahl von Fällen einen ihr nach allgemeinen prozessualen Regeln nicht obliegenden Entlastungsbeweis zu führen. Dass darüber hinaus unter der Domain Inhalte jener Branche aufrufbar sind, in der auch der Kläger geschäftlich tätig ist, ändert ohne das Hinzutreten von - hier nicht bescheinigten - Unlauterkeitselementen an dieser Beurteilung nichts.
+Ein substantiiertes Vorbringen zu einem für die Beklagte offenkundigen Verstoß des Domaininhabers gegen §§ 2 oder 9 UWG hat der Kläger im Verfahren erster Instanz nicht erstattet.
+Im Übrigen hängt es von den Umständen des Einzelfalls ab und ist daher idR keine Rechtsfrage erheblicher Bedeutung, ob ein juristischer Laie die Rechtsverletzung auch ohne weitere Nachforschung erkennen kann (4 Ob 78/05g = ÖBlLS 2005/2002; 4 Ob 229/06i [krit. Thiele, MR 2007, 109] = RISJustiz RS0114374 [T4]).

@@ -1,0 +1,45 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+10.07.2019
+Geschäftszahl
+133R55/19i
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie die Richterin Mag. Janschitz und den Patentanwalt DI Pawloy in der Rechtssache der klagenden Parteien 1. ***** und 2. *****, beide vertreten durch die Polak & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei *****, vertreten durch die Schwarz Schönherr Rechtsanwälte KG in Wien, wegen Feststellung und Kosten (EUR 3.252,36) über den Rekurs der klagenden Parteien gegen den Beschluss des Handelsgerichts Wien vom 29.3.2019, 11 Cg 111/18p-17, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Die von den klagenden Parteien mit dem Rekurs und die von der beklagten Partei mit der Rekursbeantwortung jeweils vorgelegte Urkunde wird zurückgewiesen.
+II. Der Rekurs der klagenden Parteien wird in Bezug auf das Rekursbegehren „das Oberlandesgericht Wien möge feststellen, dass die einstweilige Verfügung zu Unrecht nicht erlassen wurde“, zurückgewiesen.
+III. Im Übrigen wird ihm teilweise Folge gegeben und die Kostenentscheidung der angefochtenen Entscheidung geändert; sie lautet:
+«Die klagenden Parteien haben ihre Kosten des Sicherungsverfahrens vorläufig selbst zu tragen.
+Die beklagte Partei hat ihre Kosten des Sicherungsverfahrens endgültig selbst zu tragen.»
+Die klagenden Parteien haben die Kosten des Rekurses vorläufig selbst zu tragen.
+Die beklagte Partei hat die Kosten der Rekursbeantwortung endgültig selbst zu tragen.
+IV. Der Wert des Entscheidungsgegenstandes übersteigt nicht EUR 5.000.
+Der Revisionsrekurs ist hinsichtlich des Sicherungsverfahrens nicht zulässig; in Bezug auf die Kostenentscheidung ist er jedenfalls unzulässig.
+Begründung
+Text
+1. Die jeweils mit dem Rekurs und der Rekursbeantwortung vorgelegte Urkunde ist zurückzuweisen, weil damit gegen das auch im Provisorialverfahren geltende Neuerungsverbot verstoßen wird (RIS-Justiz RS0002445; allgemein RS010858; RS00420919).
+2.1. Die Klägerinnen sahen sich in ihrem Recht verletzt, das sie aus dem ergänzenden Schutzzertifikat („ESZ“) SZ 26/2005 ableiten, das sich auf das Grundpatent AT E 180249 stützt. Dieses ESZ gilt für das Erzeugnis E***** oder ein pharmazeutisch annehmbares Salz davon kombiniert mit S*****.
+Strittig im erstinstanzlichen Verfahren ist zusammengefasst die Frage, ob dieses ESZ rechtsbeständig ist, ob es also zu Recht erteilt wurde. Die Beklagte steht dazu auf dem Standpunkt, für das Erzeugnis sei bereits früher ein ESZ erteilt worden; es sei die Kombination von E***** und S***** bereits von der früheren Genehmigung des Medikaments [...] umfasst (Art 3 lit d ESZ-VO). Darüber hinaus sei die Genehmigung für das Erzeugnis nicht die erste für sein Inverkehrbringen als Arzneimittel (Art 3 lit d ESZ-VO), weil bereits zuvor für den Wirkstoff E***** ein Schutzzertifikat erteilt worden sei. Das erwähnte ältere ESZ sei für ein Erzeugnis erteilt worden, das nur den Wirkstoff E***** enthalte, während das nun geltend gemachte ESZ ein Erzeugnis schützen solle, das den Wirkstoff E***** in Kombination mit S***** enthalte.
+2.2. Das Erstgericht wies den Sicherungsantrag mit dem Argument ab, das ESZ sei nicht rechtsbeständig, und verpflichtete die Klägerinnen zum Kostenersatz in Höhe von EUR 3.252,36.
+2.3. Dagegen richtet sich der (Kosten)Rekurs der Klägerinnen aus dem Rekursgrund der unrichtigen rechtlichen Beurteilung mit dem Antrag, das Oberlandesgericht Wien möge feststellen, dass die einstweilige Verfügung vom Erstgericht zu Unrecht nicht erlassen wurde; hilfsweise wird ein Aufhebungsantrag gestellt.
+Die Klägerinnen beantragen weiters noch „die [Gegnerin der] gefährdeten Parteien zum Ersatz der Kosten des Provisialverfahrens beider Instanzen zu verpflichten“. Die Klägerinnen bewerteten den Streitwert im Rekursverfahren mit jenem Kostenbetrag (EUR 3.252,36) den das Erstgericht in der angefochtenen Entscheidung den Beklagten zusprach. Im Rubrum des Rekurses findet sich neben der Bewertung des Streitwerts noch die Erklärung „(eingeschränkt auf Kosten)“. Damit bringen die Klägerinnen gerade noch hinreichend deutlich zum Ausdruck, dass sie sich durch die angefochtene Entscheidung (nur) im Kostenpunkt beschwert erachten.
+Die Beklagte beantragte den Rekurs zurückzuweisen, in eventu abzuweisen.
+Rechtliche Beurteilung
+Dazu hat der Senat erwogen:
+3. Im Rekursverfahren ist unstrittig, dass das ESZ ausgelaufen ist. Ergänzend wird vom Rekursgericht noch festgestellt (vgl RIS-Justiz RS0121557), dass das SZ 26/2005 mit Ablauf des 2.4.2019 seine Wirksamkeit verloren hat (./A).
+Die Klägerinnen bringen in ihrem Rekurs vor, dass sie trotz des Auslaufens des ESZ durch die abweisende Entscheidung des Erstgerichtes beschwert seien. Es lägen unterschiedliche Entscheidungen des selben Gerichtes vor und die Schadenersatzansprüche der Klägerinnen richteten sich danach, ob eine Schutzzertifikatsverletzung vorgelegen sei oder nicht, komme doch der Rekursentscheidung eine Wirkung ex tunc zu.
+Die Beklagte weist in ihrer Rekursbeantwortung auf das Fehlen der Beschwer durch Ablauf des Schutzzertifikats zum „2.5.2019“ hin.
+Das ESZ, auf das die Klägerinnen in erster Instanz das Unterlassungsbegehren und den Sicherungsantrag stützten, verlor seine Wirksamkeit mit Ablauf des 2.4.2019. Somit ist eine Änderung der angefochtenen – den Sicherungsantrag abweisenden – Entscheidung für einen in der Vergangenheit liegenden Zeitraum im Sinne einer Feststellung, dass dem Unterlassungs- und Veröffentlichungsbegehren stattgegeben hätte werden müssen, jedenfalls nicht möglich, weil zum Zeitpunkt der Einbringung des Rekurses den Klägerinnen bereits die Beschwer (RIS-Justiz RS0002495) fehlte. Zulässigkeitsvoraussetzung des Rechtsmittels ist das Erfordernis eines (fortwirkenden) materiellen Rechtsschutzinteresses. Höhere Instanzen sollen nicht für die Lösung von Fragen in Anspruch genommen werden können, denen im konkreten Streitfall nur mehr theoretische Bedeutung zukommt (Zechner in Fasching/Konecny2 Vor §§ 514 ff ZPO Rz 71). Weder das Vorliegen von divergierenden Gerichtsentscheidungen noch der Umstand, dass Schadenersatzansprüche von einer antragsstattgebenden Entscheidung abhängen, können die Rechtsposition der Klägerinnen in diesem Verfahren verbessern.
+Die Frage, ob das ESZ 26/2005 rechtsbeständig war, muss im Provisorialverfahren nach dem Ablauf der Schutzfrist nicht geklärt werden.
+4.1. Allerdings besteht die Beschwer der Klägerinnen weiterhin in Bezug auf ihre Kostenersatzpflicht für das Sicherungsverfahren erster Instanz (vgl zur Relevanz im Rechtsmittelverfahren Zechner in Fasching/Konecny2 Vor §§ 514 ff Rz 57; 4 Ob 404/87).
+Auch für die auf das Rekursverfahren bezogene Kostenentscheidung wäre somit zu prüfen, ob das Rechtsmittel erfolgreich gewesen wäre. Das Gesetz fordert allerdings, dass dafür kein unverhältnismäßiger Verfahrensaufwand getrieben werden soll. Daraus ist jedenfalls abzuleiten, dass die Kostenentscheidung für die meritorische Endentscheidung in Bezug auf die über das Unterlassungsbegehren hinausgehenden Begehren nicht präjudiziell ist und auch keine weiterführenden Anhaltspunkte aus ihr abzuleiten sind.
+4.2. Summarisch und nur für die Zwecke der Kostenentscheidung – in concreto beider Instanzen – ist anzumerken, dass im Zweifel die formelle Beständigkeit des ESZ für den Standpunkt der Klägerinnen spricht, dass prima vista die Kombination der beiden genannten Wirkstoffe vom Grundpatent geschützt wird (./J Anspruch 17), dass die Judikatur des EuGH die Gewährung mehrerer ESZ auf Grund eines Grundpatents nicht ausschließt (C-484/12, Georgetown University/Octrooicentrum Nederland) und dass die Entscheidungen C-443/12, Actavis/Sanofi, und C-577/13, Actavis/Boehringer, deswegen nicht unmittelbar einschlägig zu sein scheinen, weil sich diese beiden Entscheidungen auf Sachverhalte beziehen, bei denen die Wirkstoffkombination des begehrten jeweils zweiten ESZ nicht vom jeweiligen Grundpatent umfasst war.
+Für die Zwecke der Kostenentscheidungen ist somit davon auszugehen, dass der Rekurs der Klägerinnen erfolgreich gewesen wäre. Ihre Kostenersatzpflicht ist somit aus der angefochtenen Entscheidung zu eliminieren.
+5. Nach §§ 402 Abs 4 und 78 Abs 1 EO gelten für das Rekursverfahren die Vorschriften der ZPO sinngemäß. Mangels planwidriger Gesetzeslücke ist § 519 Abs 1 Z 1 ZPO im Rekursverfahren nicht anzuwenden, weshalb auch bei der teilweisen Zurückweisung des Rekurses eine Bewertung und ein Zulässigkeitsausspruch vorzunehmen sind (5 Ob 159/99i; Kodek in Angst/Oberhammer3 § 402 EO Rz 11). Die Bewertung des Entscheidungsgegenstands orientiert sich an der Bewertung durch die Klägerinnen.
+Mangels Vorliegens einer Rechtsfrage von der Qualität des § 528 Abs 1 ZPO war der ordentliche Revisionsrekurs nicht zuzulassen.
+Gemäß § 528 Abs 2 Z 3 ZPO iVm § 78 EO ist der Revisionsrekurs in Bezug auf die Kostenentscheidung jedenfalls unzulässig.
+European Case Law Identifier
+ECLI:AT:OLG0009:2019:13300R00055.19I.0710.000

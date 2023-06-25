@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.02.1973
+Geschäftszahl
+3Ob16/73
+Norm
+ABGB §150;
+EO §331 Abs1;
+EO §336;
+Kopf
+SZ 46/17
+Spruch
+Bei Bewilligung der Pfändung ist zu prüfen, ob das Recht, dessen Pfändung beantragt wird, einer Verwertung zugänglich ist.
+Die durch § 150 ABGB normierte Beschränkung hindert nicht die Exekutionsbewilligung, sondern kann lediglich im Verwertungsverfahren zu einer Schmälerung der den Gläubigern zukommenden Erträgnisse führen.
+Daß bei Exekution auf ein bereits verbüchertes Fruchtgenußrecht wegen der damit verbundenen Grundbuchseintragung die Erlassung eines zusätzlichen Leistungsverbotes an den Drittschuldner überflüssig ist, macht dieses Leistungsverbot dann nicht entbehrlich, wenn ein noch unverbücherter Anspruch auf ein Fruchtgenußrecht in Exekution gezogen wird
+OGH 20. Feber 1973, 3 Ob 16/73 (LG Salzburg 10 R 569/72; BG Zell am See E 3010/72)
+Text
+Der betreibende Gläubiger beantragte zur Hereinbringung einer vollstreckbaren Forderung von 7560 S samt Anhang unter der Bezeichnung im Rubrum "Pfändung und Zwangsverwaltung eines Fruchtgenußrechtes sowie mit der Behauptung, der Verpflichteten sei von ihrem am 23. November 1970 verstorbenen Gatten Franz B unter anderem das "lebenslängliche Nutznießungs- und Wirtschaftsrecht" an drei Liegenschaften vermacht worden, die Pfändung dieser Anspruche, den Ausspruch eines Verfügungsverbotes an die Verpflichtete und eines Leistungsverbotes an den erbserklärten Erben Robert B als Drittschuldner, die pfandweise Beschreibung sowie zur Verwertung der gepfändeten Anspruche die Ermächtigung, diese im eigenen Namen geltend zu machen.
+Das Erstgericht bewilligte die beantragte Exekution.
+Das Rekursgericht wies den Exekutionsantrag zur Gänze ab, weil es die Auffassung vertrat, daß es sich beim gegenständlichen "Nutznießungs- und Wirtschaftsrecht" im Wesen um die rechnungsfreie Verwaltung und Verwendung des Einkommens aus den Liegenschaften eines minderjährigen Kindes durch seine Mutter handle, das gemäß § 150 ABGB nicht "in Beschlag genommen" werden könne.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des betreibenden Gläubigers dahin Folge, daß die Pfändung bewilligt und die Entscheidung über den Verwertungsantrag vorbehalten wurde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 336 EO gehören bei der Zwangsverwaltung einer dem Vater am Vermögen seines Kindes eingeräumten Fruchtnießung (§ 150 ABGB) auch die Leistungen für den standesgemäßen Unterhalt des Kindes zu den vom Verwalter unmittelbar zu berichtigenden auslagen. Aus dieser Bestimmung, die auch im Fall einer Beschränkung des Fruchtgenußrechtes im Sinne des § 150 ABGB die Zulässigkeit einer Zwangsverwaltung geradezu voraussetzt, ergibt sich eindeutig, daß die durch § 150 ABGB normierte Beschränkung nicht die Exekutionsbewilligung hindert, sondern lediglich im Verwertungsverfahren zu einer Schmälerung der den Gläubigern zukommenden Erträgnisse führen kann (ebenso Wentzel - Plessl in Klang[2] I/2, 81, Kollroß, Die Exekution auf Vermögensrechte und Unternehmungen, 51, Neumann - Lichtblau, EO-Komm.[3] 1052, Walker, Exekutionsrecht[4] 318 u. a.; die Meinung der vom Rekursgericht zitierten Entscheidung GlU 15.990 ist jedenfalls seit Geltung der Exekutionsordnung überholt).
+Der vom Gläubiger behauptete Anspruch der Verpflichteten ist inhaltlich - wie auch im Rubrum richtig festgehalten wurde - als Anspruch auf Einräumung eines Fruchtgenußrechtes anzusehen. Da dieser Anspruch ein gemäß §§ 331 ff. EO verwertbares Vermögensrecht darstellt, war die Pfändung dieses Rechtes im Sinn des § 331 Abs. 1 EO, also mit gleichzeitigem Ausspruch eines Verfügungsverbotes an die Verpflichtete und eines Leistungsverbotes an den Drittschuldner, zu bewilligen. Der Umstand, daß bei Exekution auf ein bereits verbüchertes Fruchtgenußrecht wegen der damit verbundenen Grundbuchseintragung die Erlassung eines zusätzlichen Leistungsverbotes an den Drittschuldner überflüssig ist, macht dieses Leistungsverbot im vorliegenden Fall, in welchem ein noch nicht verbücherter Anspruch in Exekution gezogen wird, nicht entbehrlich (vgl. Heller - Trenkwalder[3], 1185/86). Schließlich ist bei Bewilligung der Pfändung nur zu prüfen, ob das Recht, dessen Pfändung beantragt wird, einer Verwertung zugänglich ist (ebenso SZ 10/136 u. a.). Diese Frage ist hier zu bejahen, die weitere Frage der günstigsten Verwertungsart ist erst nach der gemäß § 331 Abs. 2 EO anzuordnenden Vernehmung der Parteien zu lösen (vgl. Kollroß, 32 f., u. a.), zumal entgegen der Meinung der Verpflichteten hier nicht von vornherein gesagt werden kann, daß die "zur Verwertung" - im Sinne einer Einleitung der Verwertung - beantragte, der Herstellung eines die Zwangsverwaltung erleichternden Grundbuchsstandes dienende Ermächtigung auf keinen Fall erteilt werden dürfte (außerdem ist bereits aus der zitierten Bezeichnung im Rubrum zu ersehen, daß der betreibende Gläubiger nach Verbücherung des Fruchtgenußrechtes dessen Zwangsverwaltung anstrebt).

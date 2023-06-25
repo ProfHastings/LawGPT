@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.1979
+Geschäftszahl
+1Ob558/79
+Norm
+ABGB §1336;
+Kopf
+SZ 52/83
+Spruch
+Eine Stornogebühr ist im Zweifel nur bei verschuldeter Nichterfüllung zu bezahlen
+OGH 16. Mai 1979, 1 Ob 558/79 (HG Wien 1 R 265/78; BGHS Wien 2 C 1262/77)
+Text
+Der Kläger verkaufte der Beklagten am 24. Feber 1977 einen PKW Datsun 200 L um den Preis von 118 000 S, wovon 38 000 S bar bezahlt und für den Restbetrag von 80 000 S ein bestimmter Altwagen "havariefrei" in Zahlung gegeben werden sollten. Als sich bei einer Überprüfung des Altwagens herausstellte, daß dieser bereits einmal eine schwere Havarie erlitten hatte, bot der Kläger eine Anrechnung mit herabgesetzten 50 000 S an, doch war die Beklagte damit nicht einverstanden. Sie hatte von dem Schaden ihres Fahrzeuges, den ein Vorbesitzer erlitten hatte, keine Kenntnis, zumal auch ein Automobilclub bei einer von ihr zwei Monate vor dem strittigen Kaufvertrag in Auftrag gegebenen Überprüfung die Havarie nicht bemerkt hatte. Nach dem zwischen den Parteien geschlossenen Kaufvertrag ist der Verkäufer bei Zahlungs- oder Übernahmeverzug des Käufers berechtigt, entweder die Erfüllung des Vertrages zu verlangen oder vom Vertrag zurückzutreten. Für den letzteren Fall kann er eine Stornogebühr von mindestens 10% des Kaufpreises begehren.
+Der Erstrichter gab dem Begehren auf Zahlung dieser Vertragsstrafe statt, weil der Kläger mit Recht vom Vertrag zurückgetreten sei.
+Das Berufungsgericht wies hingegen das Klagebegehren mit der Begründung ab, daß eine Vertragsstrafe im Zweifel nur bei verschuldeter Nichterfüllung gebühre, die hier mangels Kenntnis der Beklagten von dem Havarieschaden ihres Fahrzeuges nicht vorliege.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Das Berufungsgericht ist zutreffend und unbekämpft davon ausgegangen, daß das auf Zahlung der vereinbarten Konventionalstrafe gerichtete Klagebegehren nicht von der Berechtigung des Klägers zum Rücktritt vom Vertrag abhängt, sondern vom Verfall der Konventionalstrafe, der im Zweifel, d. i. mangels einer gegenteiligen, hier nicht einmal behaupteten Vereinbarung, nur bei verschuldeter Nichterfüllung eintritt (Ehrenzweig[2] II/1, 191; Koziol - Welser I[4], 169 f.; JBl. 1950, 241 u. v. a.; die Entscheidung EvBl. 1976/194 betraf den besonderen Fall einer für verspätete Erfüllung vereinbarten Konventionalstrafe).
+Richtig ist allerdings, daß die Beklagte für das fehlende Verschulden beweispflichtig war (§ 1298 ABGB; Wolf f a. a. O., 187; 3 Ob 745/53). Die Revisionsgegnerin hat aber diesen Beweis infolge der Feststellung, daß sie von dem Havarieschaden ihres Fahrzeuges nichts wußte, weil selbst der von ihr zur Überprüfung herangezogene Automobilclub den Schaden nicht erkannt habe, erbracht. Es ist nicht zu erkennen, auf welche andere taugliche Weise die Beklagte sich hätte vergewissern müssen, daß das in Zahlung zu gebende Fahrzeug nicht havariert sei.
+Ohne Belang ist auch, daß die Beklagte fehlendes Verschulden nicht ausdrücklich behauptet hatte. Das Gericht war nicht gehindert, auf Grund des Beweisverfahrens sogenannte überschießende Feststellungen in dieser Richtung zu treffen, die vom Kläger unbekämpft gelassen wurden.
+Bei dieser Rechtslage bleibt nur die Meinung des Revisionswerbers zu prüfen, daß die Beklagte nach Kenntnis der Unmöglichkeit, das in Zahlung zu gebende Altfahrzeug havariefrei übergeben zu können, den Restkaufpreis in bar hätte anbieten müssen und mit dieser Leistung in schuldhaften Verzug geraten sei. Dieser Ansicht kann jedoch nicht gefolgt werden, weil die Teilabstattung des Kaufpreises für ein neues Kraftfahrzeug durch "Eintausch" eines Altfahrzeuges nach der Erfahrung des täglichen Lebens geradezu typisch einer Minderung der wirtschaftlichen Belastung des Käufers dient, so daß eine Änderung der Leistungspflicht auf volle oder wie hier wesentlich erhöhte Barzahlung des Kaufpreises dem hypothetischen Parteiwillen im Sinne einer Vertragsergänzung offensichtlich nicht entspricht (vgl. SZ 49/86 und ZAS 1976, 216).

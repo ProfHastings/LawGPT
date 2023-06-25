@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.10.1961
+Geschäftszahl
+2Ob237/61
+Norm
+Reichshaftpflichtgesetz §1a;
+Kopf
+SZ 34/138
+Spruch
+§ 1a RHG. gilt nicht für den bei der Errichtung einer Leitungsanlage verursachten Schaden.
+Entscheidung vom 6. Oktober 1961, 2 Ob 237/61.
+I. Instanz: Kreisgericht Wiener Neustadt; II: Instanz:
+Oberlandesgericht Wien.
+Text
+Am 23. Juni 1959 ereignete sich auf der T.-Bundesstraße ein Verkehrsunfall, bei dem der Kläger schwer verletzt und sein Motorrad beschädigt wurde. Der Kläger befand sich auf der Fahrt von A. nach B.; am Ortseingang von B. hing ein Hanfseil von einem Draht, der in einer lichten Höhe von 2 m über die Straße gespannt war; in diesem Hanfseil verfing sich das Motorrad des Klägers. Der Zweitbeklagte war von der erstbeklagten Firma beauftragt worden, ein Kabel über die Straße zu spannen; er wollte dieses Kabel, das noch nicht unter Strom stand, mit dem Hanfseil durch die an dem Haltedraht befestigten Schlaufen ziehen; dabei rutschte das Hanfseil durch und blieb über der Fahrbahn hängen.
+Mit der vorliegenden Klage begehrt der Kläger von beiden Parteien den Ersatz seines Schadens und ein Schmerzengeld von 40.000 S. Gegen den Zweitbeklagten ist ein Versäumnisurteil ergangen. In Ansehung der erstbeklagten Partei wurde die Klage von beiden Untergerichten abgewiesen. Das Berufungsgericht ist hiebei von nachstehenden Erwägungen ausgegangen: Der Kläger habe im Verfahren erster Instanz seine Ansprüche gegen die erstbeklagte Partei allein mit deren Haftung aus der erhöhten Betriebsgefahr begrundet. Er habe in der Klage ausgeführt, daß die erstbeklagte Partei "für die betriebseigentümlichen Gefahren" hafte, und habe dieses Vorbringen in der mündlichen Streitverhandlung noch dahin erläutert, daß er "ein Auswahlverschulden im Sinne des § 1315 ABGB. nicht behaupte und die Klage nur auf die erhöhte Betriebsgefahr stütze". Demgemäß habe er auch keine Tatsachenbehauptungen aufgestellt, aus denen sich ein Eigenverschulden der erstbeklagten Partei oder deren culpa in eligendo erkennen ließe. Soweit der Kläger in der Berufung vorbringe, daß er der erstbeklagten Partei mangelnde Beaufsichtigung des Zweitbeklagten vorwerfe oder daß sie sich eines untüchtigen Besorgungsgehilfen bedient und Schutznormen übertreten habe, gehe dieses Vorbringen über den in erster Instanz ausdrücklich geltend gemachten Klagegrund hinaus und sei daher im Berufungsverfahren als unzulässige Neuerung nicht zu beachten. Soweit aber die Haftung der erstbeklagten Partei aus der Gefährlichkeit des Betriebes in Anspruch genommen werde, mangle es an der Voraussetzung des "gefährlichen Betriebes"; daraus, daß das Kabel zur Leitung elektrischen Stromes bestimmt war, könne die Gefährlichkeit des Unternehmens nicht abgeleitet werden.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der einzige im Verfahren erster Instanz geltend gemachte Haftungsgrund nach § 1a RHG. ist von den Untergerichten im Ergebnis mit Recht verneint worden. Diese Haftungsbestimmung ist, soweit sie sich nicht auf Eisenbahnen bezieht, gemäß § 22 Abs. 1 Z. 2 EKHG. auch nach dem 1. Juni 1959, dem Inkrafttreten dieses Gesetzes, in Geltung geblieben, kommt aber im vorliegenden Fall nicht zum Zug. Denn sie hat zur Voraussetzung, daß der Unfall entweder auf die Wirkungen der Elektrizität (1. Satz des § 1a RHG.) oder doch auf das Vorhandensein einer Anlage zur Fortleitung von Elektrizität (2. Satz des § 1a RHG.) zurückzuführen ist. Keine der beiden Voraussetzungen liegt vor. Insbesondere kann auch nicht vom Vorhandensein einer solchen Anlage gesprochen werden, da sie erst im Entstehen begriffen war. Der Empfehlung des 31. Deutschen Juristentages, eine Gefährdungshaftung auch für die Schäden vorzusehen, die durch den Bau einer Anlage verursacht werden, ist das Gesetz nicht gefolgt (vgl. DJ. 1943 S. 416). Die Haftungsbestimmung geht von den typischen Gefahren aus, die der Betrieb einer Leitungsanlage mit sich bringt; eine solche Gefahr ist noch nicht gegeben, wenn die Anlage erst für diesen Zweck erstellt wird. Insbesondere kann auch der Umstand, daß das stromlose Kabel über die stark frequentierte Bundesstraße verlegt wurde, keinen Grund dafür abgeben, die Haftung nach dieser Gesetzesstelle zu bejahen.

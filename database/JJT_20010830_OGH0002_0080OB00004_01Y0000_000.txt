@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.2001
+Geschäftszahl
+8Ob4/01y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr. Langer, Dr. Rohrer, Dr. Spenling und Dr. Kuras als weitere Richter in der Rechtssache der klagenden Partei Sparkasse *****, vertreten durch Dr. Christoph Schwab, Rechtsanwalt in Wels, wider die beklagte Partei Rudolf O*****, vertreten durch Dr. Josef Hofer, Rechtsanwalt in Wels, wegen S 5,447.718,- sA, infolge außerordentlicher Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 20. Oktober 2000, GZ 4 R 123/00m-56, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Die gerügte Mangelhaftigkeit des Berufungsverfahrens liegt nicht vor (§ 510 Abs 3 ZPO).
+Eine Bürgschaft kommt durch Vertrag zwischen Gläubiger und Bürgen zustande (RIS-Justiz RS0032090; 4 Ob 306/99z; Gamerith in Rummel ABGB**2, § 1346 Rz 2). In ständiger Rechtsprechung werden deshalb vorvertragliche Aufklärungspflichten der Bank gegenüber dem Bürgen angenommen. Der Umfang der Aufklärungspflichten einer Bank ist grundsätzlich eine Frage des Einzelfalls (8 Ob 33/98f; 8 Ob 341/99a; 2 Ob 104/01k), die hier von den Vorinstanzen nicht offenkundig unrichtig gelöst wurde:
+Eine Warnpflicht der Bank wird ausnahmsweise dann angenommen, wenn diese Kenntnis von der Zahlungsunfähigkeit oder dem unmittelbar bevorstehenden wirtschaftlichen Zusammenbruch des Kreditnehmers hat, diesem aber wegen der von einem Dritten geleisteten Sicherheit trotzdem noch einen Kredit gewährt (SZ 57/70; 7 Ob 625/85; 2 Ob 104/01k ua), wenn die Bank erkennt, dass der Bürge von der bedrohlichen wirtschaftlichen Lage des Hauptschuldners nichts weiß (8 Ob 629/89), oder wenn die Bank auf Grund ihrer Kenntnis der wirtschaftlichen Situation des Hauptschuldners von vornherein weiß, dass mit an Sicherheit grenzender Wahrscheinlichkeit der Hauptschuldner zur seinerzeitigen Kreditrückzahlung nicht in der Lage sein wird (SZ 57/70 ua). Ebenso hat die Bank zu warnen, wenn der falsche Schein erweckt wird, die Bürgschaft werde einen Einsatz der Kreditmittel zur Stärkung der wirtschaftlichen Position des Kreditnehmers ermöglichen, während sie tatsächlich nur zur Abdeckung eines bei der Bank notleidend gewordenen Kredits verwendet werden sollte (SZ 58/153; 7 Ob 625/85).
+Nach den Feststellungen des Erstgerichts (AS 359 = S 5 des Ersturteils) erweckte der Geschäftsstellenleiter der Klägerin beim Beklagten den Eindruck einer wirtschaftlichen Globallösung durch Umschuldung, was schon daraus erhellt, dass er erklärte, die sich dann ergebende monatliche Ratenzahlung von S 62.000,- sei vom Unternehmen - im Gegensatz zur früheren Ratenbelastung - erwirtschaftbar. Er verschwieg jedoch, dass über den von der Umschuldung betroffenen Betrag von S 5,5 Millionen hinaus noch ein weiterer von rund S 6 Millionen unberichtigt aushafte, der bei weiterlaufenden Zinsen "ruhend" gestellt, dessen Kapital somit vorerst nicht rückzahlbar war. Damit erweckte der Angestellte der Klägerin - vergleichbar den den letztgenannten Entscheidungen zugrundeliegenden Sachverhalten - bei Beklagten den falschen Schein, die Bürgschaft diene der endgültigen wirtschaftlichen Konsolidierung des Hauptschuldners, obwohl in Wahrheit nur für einen Teil der bestehenden unzureichend besicherten Verbindlichkeiten weitere Sicherheiten gewonnen werden sollten.

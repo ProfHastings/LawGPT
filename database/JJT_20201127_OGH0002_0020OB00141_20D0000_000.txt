@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.2020
+Geschäftszahl
+2Ob141/20d
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Veith als Vorsitzenden sowie den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Verlassenschaftssache nach P* W*, verstorben am * 2019, zuletzt wohnhaft *, wegen Feststellung des Erbrechts zwischen den Antragstellern 1. P* W*, vertreten durch Dr. Stefan Prokop, Rechtsanwalt in Perchtoldsdorf, und 2. DI G* W*, vertreten durch Dr. Peter Schmautzer, Rechtsanwalt in Wien, über den außerordentlichen Revisionsrekurs des Zweitantragstellers gegen den Beschluss des Landesgerichts Wiener Neustadt als Rekursgericht vom 22. Juli 2020, GZ 16 R 135/20x-39, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die geltend gemachte Aktenwidrigkeit liegt nicht vor (§ 71 Abs 3 AußStrG). Die damit im Ergebnis ausgeführte Bekämpfung der dislozierten Feststellungen des Erstgerichts über das Anbringen und Stempeln der Klebeetikette ist auch im Außerstreitverfahren in dritter Instanz nicht mehr zulässig (RS0007236; RS0108449).
+[2] 		2. Aufgrund des Errichtungszeitpunkts der zu beurteilenden letztwilligen Verfügung (19. 2. 2018) ist die Rechtslage nach dem ErbRÄG 2015 anzuwenden (§ 1503 Abs 7 Z 5 ABGB).
+[3] 		3. Nach der Rechtsprechung des erkennenden Senats ist bei einem auf zwei oder mehreren Blättern errichteten fremdhändigen Testament ein äußerer Zusammenhang der Blätter dann zu bejahen, wenn vor der Leistung der Unterschriften von Erblasser und Zeugen oder während des Testiervorgangs (das heißt uno actu mit diesem) die äußere Urkundeneinheit hergestellt wurde, indem die einzelnen Bestandteile der Urkunde (die losen Blätter) so fest miteinander verbunden wurden, dass die Verbindung nur mit Zerstörung oder Beschädigung der Urkunde gelöst werden kann, wie zB beim Binden, Kleben oder Nähen der Urkundenteile (2 Ob 143/19x; RS0132929 [T1]).
+[4] 			Den an die äußere Urkundeneinheit zu stellenden Anforderungen entspricht weder das Zusammenfügen mehrerer Blätter mittels einer Büroklammer (vgl 2 Ob 192/17a) noch die Übergabe der losen Blätter an den Testamentserrichter zur Verwahrung (vgl 2 Ob 145/19s; 2 Ob 143/19x; 2 Ob 192/17z), auch wenn dieser sie im Anschluss an die Leistung der Unterschriften mitnimmt und in sein Notariat bringt, um sie dort zu binden und zu verwahren (2 Ob 218/19a). Keine äußere Urkundeneinheit wurde auch jüngst bei Verbindung der losen Blätter mit einer Heftklammer gesehen (2 Ob 51/20v; RS0132929 [T4]).
+[5] 		4. Auch hier waren die beiden Blätter der letztwilligen Verfügung des Erblassers nur mit einer Heftklammer verbunden, als der Erblasser und die Zeugen das Testament in der Kanzlei des Testamentsverfassers unterfertigten. Allerdings brachte der Rechtsanwalt „im unmittelbaren Anschluss an die Unterfertigung durch den Erblasser und die Zeugen“ über der Heftklammer – beide Blätter umfassend – eine Klebeetikette seiner Kanzlei an und stempelte diese mit seinem Kanzleistempel so ab, dass sich ein Teil des Stempels auf der Etikette und ein Teil auf der Testamentsurkunde befand.
+[6] 		5. Wenn die Vorinstanzen diesen Vorgang dahin bewerteten, dass damit noch während des Testiervorgangs, also „uno actu“ mit diesem, die äußere Urkundeneinheit hergestellt wurde, steht dies mit den Grundsätzen der erörterten Rechtsprechung im Einklang.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E130268

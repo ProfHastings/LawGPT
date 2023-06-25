@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.04.2015
+Geschäftszahl
+3Ob44/15i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. A. Kodek als weitere Richter in der Rechtssache der klagenden Partei Mag. P*****, vertreten durch Salburg Rechtsanwalts GmbH in Wien, gegen die beklagten Parteien 1. Lic.oec. J*****, vertreten durch Hausmaninger Kletter Rechtsanwälte GmbH, 2. A***** Ltd., *****, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen 93.825,43 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Jänner 2015, GZ 5 R 178/14d-66, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die in der Zulassungsbeschwerde formulierte Rechtsfrage, ob die Zweitbeklagte infolge Marktmanipulation für den dadurch verursachten Kursverfall der Wertpapiere haftet, stellt sich im Ergebnis nicht:
+1. Gegenstand des Revisionsverfahrens ist nur noch das (auch in der außerordentlichen Revision wiederholte) Vorbringen der Klägerin, ihr sei nach Erwerb der - von ihr nach wie vor gehaltenen - Wertpapiere durch unterlassene, verspätete und unrichtige Ad-hoc-Meldungen bzw eine von der Zweitbeklagten zu verantwortende Marktmanipulation ein Schaden in Form des Kursverfalls gegenüber dem Zeitpunkt des Erwerbs entstanden. Sie begehrt den Ersatz des Kaufpreises für die Wertpapiere (abzüglich erhaltener Dividenden) Zug um Zug gegen Übertragung der Papiere.
+2. Erwirbt ein Anleger aufgrund fehlerhafter Anlageberatung ein Wertpapier, das er bei richtiger Beratung nicht gekauft hätte, hat er, weil sein Schaden bereits im Erwerb des in Wahrheit nicht gewünschten Anlageprodukts besteht, einen - vereinfacht als „Naturalrestitution“ bezeichneten - Anspruch auf Ersatz des Kaufpreises Zug um Zug gegen einen Bereicherungsausgleich durch Übertragung des noch vorhandenen Finanzprodukts an den Schädiger (RIS-Justiz RS0120784 [T3, T22]; RS0129706).
+3. Der behauptete Schaden der Klägerin liegt allerdings gerade nicht schon im Erwerb der Wertpapiere, sondern in einer erst danach eingetretenen Wertminderung. Ob, und wenn ja in welchem Ausmaß der Klägerin dadurch tatsächlich ein (durch Differenzberechnung zu ermittelnder: RIS-Justiz RS0030153) Vermögensschaden entstehen wird, kann vor einem Verkauf der Wertpapiere nicht beurteilt werden, zumal im vorliegenden Fall keine Rede davon sein kann, dass die Veranlagung mittlerweile endgültig wertlos geworden wäre (vgl RIS-Justiz
+RS0120784 [T17] und RS0030153 [T32]). Die Revisionswerberin spricht selbst von der „mangelnden Realisation eines Differenzschadens“.
+4. Aus diesem Grund erweist sich das von der Klägerin allein erhobene Begehren auf Schadenersatz durch Naturalrestitution jedoch von vornherein als verfehlt: Vor einer Veräußerung der Wertpapiere stünde ihr nur die Erhebung einer Feststellungsklage offen.
+Nach der Rechtsprechung kann das Gericht zwar dann, wenn die begehrte Leistung noch nicht fällig ist, als Minus die bloße Feststellung der Haftung des Beklagten aussprechen (RIS-Justiz RS0038981;
+RS0039172). Eine Unrichtigkeit der Entscheidung des Berufungsgerichts dahin, dass auch in der hier vorliegenden Konstellation von Amts wegen ein Feststellungsurteil zu fällen gewesen wäre, behauptet die Klägerin in ihrer außerordentlichen Revision allerdings gar nicht.
+Ebensowenig macht sie als Verfahrensmangel geltend, dass das Berufungsgericht ihr iSd § 182a ZPO die Möglichkeit geben hätte müssen, ihr Leistungsbegehren auf ein Feststellungsbegehren umzustellen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00044.15I.0421.000

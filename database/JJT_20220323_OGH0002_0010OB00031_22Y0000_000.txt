@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.03.2022
+Geschäftszahl
+1Ob31/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei T*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG, Wien, gegen die beklagte Partei T* Limited, *, vertreten durch die Brandl Talos Rechtsanwälte GmbH, Wien, wegen 26.747,11 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz
+als Berufungsgericht vom 25. November 2021, GZ 3 R 133/21f-16, mit dem das Urteil des Landesgerichts Salzburg vom 6. August 2021, GZ 2 Cg 64/21t-12, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revision selbst zu tragen.
+Die Revisionsbeantwortung wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger erlitt bei von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Online-Pokerspielen (sowie anderen Online-Glücksspielen) zwischen 2007 und 2021 Verluste in Höhe des nunmehr von ihm eingeklagten Betrags.
+[2] 		Die Vorinstanzen gaben dem (unter anderem) auf Bereicherungsrecht gestützten Klagebegehren statt. Das österreichische Glücksspielmonopol sei nicht unionsrechtswidrig. Die Durchführung einer Ausspielung ohne Konzession sei damit verbotenes Glücksspiel, was die Möglichkeit zur bereicherungsrechtlichen Rückforderung erlittener Spielverluste eröffne. Die Passivlegitimation der Beklagten als Bereicherungsschuldnerin sei zu bejahen. Die ordentliche Revision sei zulässig, weil weder „zur Frage der bereicherungsrechtlichen Rückabwicklung eines (verbotenen) Online-Pokerspiels“, noch „zu den Auswirkungen der von der Beklagten eingewendeten Unionsrechtswidrigkeit des österreichischen Glücksspielmonopols in der bis 30. 12. 2010 geltenden Fassung des GSpG auf Glücksspielverträge“ höchstgerichtliche Rechtsprechung ersichtlich sei.
+[3] 		Die dagegen erhobene Revision der Beklagten ist mangels erheblicher Rechtsfrage iSd § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[4] 		1. Die Revisionswerberin argumentiert im Wesentlichen, dass der Oberste Gerichtshof bisher weder zur Frage der Unionsrechtswidrigkeit des österreichischen Glücksspielmonopols in der bis 30. 12. 2010 geltenden Fassung des GSpG noch zur Frage, wer bei einem Online-Pokerspiel als Vertragspartner des Spielers und daher als Bereicherungsschuldner anzusehen sei, Stellung genommen habe. Beide Fragen habe das Berufungsgericht unrichtig beantwortet.
+[5] 		2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RIS-Justiz RS0112921; RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels aufgeworfene erhebliche Rechtsfrage fällt weg, wenn sie durch eine Entscheidung des Obersten Gerichtshofs bereits geklärt wurde (RS0112921 [T5]).
+[6] 		3. Der Oberste Gerichtshof hat in der ebenfalls die beklagte Partei betreffenden Entscheidung vom 2. 2. 2022 zu 6 Ob 229/21a zu beiden von der Revisionswerberin aufgeworfenen Fragen ausführlich Stellung genommen und diese zusammengefasst wie folgt beantwortet:
+[7] 		3.1. Der Anwendungsvorrang des Unionsrechts betreffend die Rechtslage bis (einschließlich) 30. 12. 2010 habe lediglich zu einem Wegfall des in § 14 Abs 2 Z 1 und § 21 Abs 2 Z 1 GSpG (idF vor BGBl I 2010/111) normierten Sitzerfordernisses geführt, die übrigen Voraussetzungen für den Erhalt einer Konzession und das Konzessions- bzw Monopolsystem aber an sich unberührt gelassen. Dass die Beklagte jemals um eine Konzession angesucht habe oder gar die übrigen, für die Erteilung einer Konzession normierten Voraussetzungen erfüllt hätte, behaupte sie nicht, sodass sie sich nicht auf den Effektivitätsgrundsatz berufen könne. Aus diesem Grund bestehe auch keine Notwendigkeit zur Einholung eines Vorabentscheidungsersuchens. Die zivilrechtliche Unerlaubtheit eines Spiels setze im Übrigen
+– entgegen der von der Beklagten auch im vorliegenden Revisionsverfahren vertretenen Ansicht – nicht zwingend die Strafbarkeit des Spiels nach § 168 StGB voraus.
+[8] 		3.2. Die Passivlegitimation der Beklagten (und damit ihre Eigenschaft als Bereicherungsschuldnerin) ergebe sich schon daraus, dass sie – als Spielorganisatorin – Empfängerin der Leistung des Klägers gewesen sei. Die wiederkehrenden Geldüberweisungen des Klägers auf ein Konto der Beklagten hätten zu ihrer unmittelbaren Bereicherung geführt. Von einer (Vorab-)Zahlung zur Abwicklung eines allfälligen, im Zeitpunkt der Einzahlung noch gar nicht abgeschlossenen Glücksvertrags mit einem künftigen Mitspieler könne keine Rede sein. Die Rolle der Beklagten gehe insofern über jene einer bloßen „Abwicklungstreuhänderin“ hinaus, als der Nutzer vorweg eine Einzahlung auf ein Konto der Beklagten tätigen müsse, um „Spielguthaben“ zu erwerben und in dessen Umfang an den von der Beklagten angebotenen Online-Glücksspielen teilnehmen zu können.
+[9] 		3.3. Im Übrigen komme dem auf Rückforderung der erlittenen Spielverluste gerichteten Klagebegehren aufgrund des rechtswidrigen (ohne Konzession nach dem GSpG erfolgten) Angebots der Glücksspiele auch insoweit Berechtigung zu, als dieses auf Schadenersatz gestützt wurde. Das Verhalten der Beklagten sei für den eingetretenen Schaden kausal gewesen, hätte doch der Kläger bei Unterbleiben des verbotenen Glücksspiels den Schaden nicht erlitten.
+[10] 		4. Der erkennende Senat schließt sich – ebenso wie bereits der 4. Senat zu 4 Ob 229/21m sowie der 2. Senat zu 2 Ob 17/22x – diesen Ausführungen an. Die Revision der Beklagten ist mit den in den beiden genannten Parallelverfahren erhobenen Rechtsmitteln inhaltlich ident und enthält keine zusätzlichen, nicht bereits in der Entscheidung zu 6 Ob 229/21a behandelten Argumente.
+[11] 		5. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO.
+[12] 		6. Die Revision wurde dem Kläger am 14. 1. 2022 (Freitag) zugestellt. Damit begann die vierwöchige Frist zur Einbringung einer Revisionsbeantwortung zu laufen (§ 507a Abs 1 ZPO). Die Frist endete gemäß § 125 Abs 2 ZPO mit Ablauf des 11. 2. 2022 (Freitag). Da die Revisionsbeantwortung erst am 14. 2. 2022 eingebracht wurde, ist diese verspätet.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00031.22Y.0323.000

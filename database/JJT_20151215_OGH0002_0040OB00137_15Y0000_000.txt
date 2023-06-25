@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2015
+Geschäftszahl
+4Ob137/15y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und  die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei T***** GmbH, *****, vertreten durch Dr. Franz Gütlbauer und andere Rechtsanwälte in Wels, gegen die beklagte Partei Dr. A***** R*****, als Masseverwalter im Insolvenzverfahren der B***** GmbH, wegen Herausgabe (Streitwert 28.400 EUR), hilfsweise Leistung von 28.411,37 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 24. April 2015, GZ 1 R 202/14b-28, womit das Urteil des Landesgerichts Wels vom 24. September 2014, GZ 1 Cg 4/14d-17, in der Hauptsache bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.771,49 EUR (darin 295,25 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Vorinstanzen wiesen die Klage gegen den Masseverwalter auf Herausgabe von Wärmestationen, die die Klägerin der Schuldnerin unter Eigentumsvorbehalt geliefert hat, ab, weil der Klägerin bekannt gewesen sei und sie schlüssig zugestimmt habe, dass die Schuldnerin die Geräte in eine Wohnanlage einbauen und diese in weiterer Folge Dritten übergeben werde. Eine Ersatzaussonderung nach § 44 Abs 2 IO sei ausgeschlossen, weil die Sachen bereits vor Konkurseröffnung veräußert worden seien.
+Das Berufungsgericht ließ die Revision nachträglich mit der Begründung zu, die Auslegung des Rechtsvorbringens der Klägerin könne allenfalls doch ein - der Annahme ihrer Zustimmung zum Einbau widersprechendes - Tatsachensubstrat aufweisen.
+Rechtliche Beurteilung
+Die Revision der Klägerin ist ungeachtet ihrer den Obersten Gerichtshof nicht bindenden Zulassung durch das Berufungsgericht nicht zulässig.
+1. Die Klägerin macht einen Aussonderungsanspruch nach § 44 IO geltend. Voraussetzung für einen solchen Anspruch ist es, dass sich in der Insolvenzmasse eine „Sache“ befindet, die dem Schuldner nicht (oder teilweise nicht) gehört und deshalb nicht zur Sollmasse zählt (8 Ob 131/07h; 8 Ob 39/14i). Es kann nur der konkrete, in der Masse noch vorhandene und individualisierbare Leistungsgegenstand ausgesondert werden (RIS-Justiz RS0064764). Der Anspruch ist daher davon abhängig, dass sich die Sachen noch in der Insolvenzmasse (RIS-Justiz RS0064504; RS0123755), und zwar in der Ist-Masse (1 Ob 290/02g), befinden. Die Ist-Masse ist die vom Insolvenzverwalter bei Insolvenzeröffnung tatsächlich vorgefundene Masse (Schulyok in Konecny/Schubert, Insolvenzgesetze § 44 KO Rz 1; 8 Ob 131/07h), wozu alle vorhandenen Sachen (und Rechte: RIS-Justiz RS0123755) zählen, die vom Insolvenzverwalter als massezugehörig behandelt werden (Petschek/Reimer/Schiemer, Das österreichische Insolvenzrecht [1973], 219 f).
+2. Im vorliegenden Sachverhalt ist unstrittig, dass die Wärmestationen weder zum Zeitpunkt der Insolvenzeröffnung, noch zum Zeitpunkt der Entscheidung in erster Instanz in der Masse vorhanden waren, weil sie bereits zuvor von der Schuldnerin in Erfüllung ihres Werkvertrags verbaut wurden. Ob es damit trotz des Eigentumsvorbehalts zu einem Eigentumsübergang kam, ist nicht entscheidungswesentlich, weil schon die Grundvoraussetzung für einen Anspruch nach § 44 IO fehlt, dass sich die Sachen in der Insolvenzmasse befinden (vgl 8 Ob 39/14i).
+3. Eine Ersatzaussonderung nach § 44 Abs 2 IO scheidet - wie schon das Erstgericht unter Verweis auf RIS-Justiz RS0039222 festhielt - ebenfalls aus, weil die Sachen bereits vor Konkurseröffnung veräußert wurden.
+4. Angesichts des aufgezeigten Fehlens der Grundvoraussetzungen des geltend gemachten Anspruchs erweisen sich die Ausführungen der Revision zum Eigentumsvorbehalt der Klägerin als abstrakte Rechtsfragen. Wenn aber bloß Fragen theoretischer Natur gelöst werden sollen, liegt keine erhebliche Rechtsfrage vor (RIS-Justiz RS0111271). Die Revision ist daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+5. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO. Der Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040OB00137.15Y.1215.000

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.04.1952
+Geschäftszahl
+1Ob280/52
+Norm
+Versicherungsvertragsgesetz §38;
+Versicherungsvertragsgesetz §39;
+Kopf
+SZ 25/78
+Spruch
+§ 38 VVG. enthält eine nicht widerlegbare Vermutung, die nur dann nicht anwendbar ist, wenn der Vertrag durch ausdrückliche oder stillschweigende Vereinbarung aufrechterhalten wurde.
+Die Klagefrist läuft vom Verfallstag der Prämie, das ist von dem Tag, da der Versicherer die Einlösung der Polizze verlangen konnte, spätestens von der Vorlegung der Polizze an. § 38 VVG., nicht § 39 VVG. anwendbar, wenn bis zum Abschluß des Versicherungsvertrages eine vorläufige Deckung zugesichert worden ist.
+Entscheidung vom 2. April 1952, 1 Ob 280/52.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Beklagte hat bei der Klägerin am 23. September 1950 Abschluß einer Autokaskoversicherung und am 17. Oktober 1950 einer Auto-Haftpflichtversicherung, Versicherungsbeginn 23. September bzw. 17. Oktober 1950, beantragt. Die darüber ausgestellten Polizzen wurden der Beklagten am 10. bzw. 17. November 1950 zur Einlösung angeboten, aber nicht eingelöst, weil sie angeblich vertragswidrig gewesen sind. Diese Einwendung war aber, wie das Erstgericht festgestellt hat, nicht begrundet; überdies verlangte die Klägerin nunmehr, daß die beiden Versicherungen womöglich in eine Polizze zusammengefaßt werden. Die Einlösung der einheitlichen Polizze, die die Klägerin dem Wunsch der Beklagten entsprechend ausgestellt hat, wurde gleichfalls am 18. April 1951 verweigert. Am 27. Juni 1951 brachte die Klägerin Klage auf Zahlung der ersten Jahresprämie ein.
+Der Erstrichter wies die Prämienklage mit der Begründung ab, daß die Klägerin dadurch vom Vertrag zurückgetreten sei, weil sie am 7. Juni 1951 gemäß § 57 Abs. 6 KfV. die Anzeige erstattet habe, daß die Haftung aus der Kraftfahrzeug-Haftpflichtversicherung am 7. Juni 1951 wegen Nichtzahlung erloschen sei.
+Das Berufungsgericht gab der Klage - mit Ausnahme einer Zinsendifferenz - Folge, weil das Fristengesetz anwendbar sei, daher die Klagebefristung nach § 38 VVG. nicht zur Anwendung komme. Auch lehnte das Berufungsgericht die Auffassung ab, daß in der Anzeige nach § 57 Abs. 6 KfV. ein Vertragsrücktritt zu erblicken sei; ein Rücktritt nach § 38 Abs. 1 VVG. müsse dem Vertragsgegner erklärt werden.
+Diese abändernde Entscheidung wird mit Revision von der Beklagten angefochten, in der ausschließlich unrichtige rechtliche Beurteilung der Sache geltend gemacht wird.
+Der Oberste Gerichtshof stellte die erstinstanzliche Entscheidung wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Entgegen der Anschauung der Revisionsbeantwortung und einzelner literarischer Äußerungen im deutschen Schrifttum hält der Oberste Gerichtshof an seiner bisherigen Praxis (Ob I 1212/27 in Veröffentl. 1928, Nr. 97) fest, daß § 28 VVG. bzw. § 38 VVG. eine nicht widerlegbare Vermutung enthält, die nur dann nicht anwendbar ist, wenn der Vertrag durch ausdrückliche oder stillschweigende Vereinbarungen beider Parteien aufrechterhalten wurde. Der Oberste Gerichtshof hat umsoweniger Anlaß von dieser Praxis abzugehen, da auch das Schweizerische Bundesgericht in der Entscheidung vom 30. September 1933, SVA. VII N 110 für den analogen ART. 21 Schweizer VVG. die gleiche Auffassung vertreten hat.
+Es kann dahingestellt bleiben, ob in der Ausstellung einer Bestätigung der Kraftfahrzeug-Pflichtversicherung nach § 57 Abs. 3 KfV. die Zusicherung einer vorläufigen Deckung zu erblicken ist, da § 1 Abs. 2 AKB. eine besondere Zusage voraussetzt. Aber selbst wenn man sich dieser Auffassung anschließen wollte, so wäre für die Klägerin nichts gewonnen, weil Deckungszusage und Versicherungsvertrag zwei selbständige Rechtsverhältnisse sind; auf die Prämie für den endgültigen Vertrag ist deshalb § 38 VVG. und nicht § 39 VVG. anzuwenden, auch wenn eine vorläufige Deckung zugesichert worden ist. Der Versicherungsvertrag, bis zu dessen Abschluß eine vorläufige Deckungszusage gewährt wurde, erlischt daher, wenn innerhalb der Frist des § 38 die Prämieneinklagung unterlassen wird.
+Das ist aber diesmal der Fall. Nach den Feststellungen des Berufungsgerichtes hat die Beklagte die ihr am 10. bzw. 17. November 1950 zur Einlösung angebotenen Polizzen zu Unrecht nicht eingelöst. Damit ist die Prämie fällig geworden und die Beklagte durch Nichtzahlung in Verzug geraten, weil sie verpflichtet war, nach § 1 Abs. 1 AKB. den Versicherungsschein einzulösen, wofern die Aufforderung zur Einlösung in einem Zeitpunkt erfolgte, der dem vereinbarten Versicherungsbeginn nachfolgt (SZ. VIII/324; X/92). Nach der Entscheidung vom 23. Oktober 1925, Veröffentl. 1925 N. 55, läuft aber die Klagefrist vom Verfallstag der Prämie, d. h. dem Tage, da der Versicherer die Einlösung der Polizze verfangen konnte, spätestens von der Vorlegung der Polizze an. Die Klägerin hätte also drei Monate nach dem 10. bzw. 17. November 1950 die Klage einbringen müssen, was sie aber nicht getan hat. Ihr Prämienanspruch ist daher erloschen.
+Daran ändert auch der Umstand nichts, daß die Beklagte, wie aus Beilage J erhellt, den Wunsch geäußert hat, die Polizzen zusammenzulegen, da dieser "Wunsch" die Fälligkeit nicht verschiebt. Auch wenn die Klägerin diesen Wunsch der Beklagten, auf den sie keinen Rechtsanspruch hatte, erfüllt hat, mußte sie die Prämie innerhalb von drei Monaten nach Eintritt des Fälligkeitstermins - Anbot der Polizzen zur Einlösung - geltend machen.
+Es war daher der Revision Folge zu geben und die Klage abzuweisen. Ein anteiliges Entgelt für die Zeit der vorläufigen "Deckung" konnte nicht zugesprochen werden, da die Klägerin in der Klage die Prämie für den Versicherungsvertrag selbst und nicht auf Grund einer angeblichen Deckungszusage eingeklagt hat.

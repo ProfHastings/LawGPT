@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.05.1971
+Geschäftszahl
+6Ob104/71
+Norm
+Außerstreitgesetz §9;
+Jugendgerichtsgesetz §27 Abs2;
+Jugendgerichtsgesetz §28;
+Jugendwohlfahrtsgesetz §28;
+Strafprozeßordnung §30;
+Strafprozeßordnung §31;
+Kopf
+SZ 44/80
+Spruch
+Keine Antragslegitimation der Staatsanwaltschaft im Pflegschaftsverfahren
+OGH 26. 5. 1971, 6 Ob 104/71 (KG Korneuburg 5 R 67/71; BG Poysdorf P 35/68)
+Text
+Über den mj Franz T ordnete das Erstgericht am 18. 6. 1968 gemäß § 28 JWG die Erziehungsaufsicht an. Der Minderjährige wurde mit Urteil des Kreisgerichtes Korneuburg vom 11. 5. 1970 wegen Verbrechens nach § 128 StG verurteilt, der Vollzug der Freiheitsstrafe vorläufig aufgeschoben und ein Bewährungshelfer bestellt. Die Staatsanwaltschaft Korneuburg erhob gegen Franz T eine neue Anklage wegen anderer Delikte und stellte den Antrag, auf vorläufige Fürsorgeerziehung hinzuwirken. Hievon verständigte das Kreisgericht Korneuburg als Strafgericht das Erstgericht, welches sich als nicht zuständig erklärte und aussprach, das Kreisgericht Korneuburg als Strafgericht sei für die Entscheidung offenbar zuständig. Unter Hinweis auf die Bestimmung des § 27 Abs 2 JG vertrat das Erstgericht die Ansicht, es sei zwar zur Aufhebung der angeordneten Erziehungsaufsicht nach Anordnung der Fürsorgeerziehung als Pflegschaftsgericht zuständig, die Anordnung der Fürsorgeerziehung im Rahmen einer Maßnahme nach § 28 Z 1 JGG sei aber selbst eine gänzlich neue und andere Erziehungsmaßnahme und bedeute daher keine bloße Änderung der Erziehungsaufsicht.
+Dem von der Staatsanwaltschaft Korneuburg dagegen erhobenen Rekurs gab das Rekursgericht nicht Folge. Zwar lehnte es die rechtlichen Erwägungen des Erstgerichtes in der Zuständigkeitsfrage ab und vertrat die Ansicht, das Pflegschaftsgericht bleibe auch bei Einleitung eines Strafverfahrens zur Änderung oder Aufhebung pflegschaftsbehördlicher Verfügungen zuständig, doch glaubte es aus anderen Erwägungen dem Rekurs einen Erfolg versagen zu müssen. Das Rekursgericht verneinte nämlich die Legitimation der Staatsanwaltschaft. Da das Erstgericht jedenfalls auch die mangelnde Antragslegitimation der Staatsanwaltschaft außerhalb des Strafverfahrens angenommen habe, sei dem Rekurs nicht Folge zu geben.
+Gegen den Beschluß des Rekursgerichtes wendet sich das als ao Revisionsrekurs bezeichnete Rechtsmittel der Staatsanwaltschaft Korneuburg aus dem Gründe der Nullität mit dem Antrag, den angefochtenen Beschluß aufzuheben und selbst auf Anordnung der vorläufigen Fürsorgeerziehung zu erkennen, allenfalls dem Erstgericht die sachliche Entscheidung über den vorliegenden Antrag aufzutragen.
+Der Oberste Gerichtshof gab dem Rekurs nicht Folge und bestätigte den angefochtenen Beschluß mit der Maßgabe, daß der Rekurs der Staatsanwaltschaft Korneuburg gegen den erstgerichtlichen Beschluß zurückgewiesen werde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das vorliegende Rechtsmittel ist kein ao Revisionsrekurs. Das Rekursgericht ging bei Fassung seines Spruches von der aktenwidrigen Annahme aus, schon das Erstgericht habe "die mangelnde Antragslegitimation der Staatsanwaltschaft außerhalb des Strafverfahrens angenommen". In Wahrheit hat das Erstgericht nur die Zuständigkeitsfrage geprüft, sich selbst für unzuständig erklärt und die offenbare Zuständigkeit des Kreisgerichtes Korneuburg als Strafgericht ausgesprochen. Dies ist etwas anderes. Ohne Bedeutung ist es in diesem Zusammenhang, daß das Erstgericht anläßlich der Aktenvorlage an das Rekursgericht Zweifel an der Rekurslegitimation der Staatsanwaltschaft geäußert hat. Bei richtiger Auslegung ergibt sich, daß das Rekursgericht die Zuständigkeitsfrage anders als das Erstgericht beurteilt hat und daß es als einzige Instanz die Legitimation der Staatsanwaltschaft verneint hat. Ungeachtet der verfehlten Fassung des Spruches liegt also nicht ein bestätigender Beschluß des Rekursgerichtes im außerstreitigen Verfahren vor, sondern ein solcher auf Zurückweisung des Rekurses wegen mangelnder Legitimation der Einschreiterin. Das vorliegende Rechtsmittel ist daher kein außerordentlicher Revisionsrekurs im Sinne des § 16 AußStrG, sondern ein einfacher Rekurs gegen die Zurückweisung durch das Rekursgericht.
+Der Rekurs ist nicht begrundet.
+Die Staatsanwaltschaft Korneuburg stützt ihren Rekurs auf die Rechtsansicht, zuständig sei nicht das Kreisgericht Korneuburg als Strafgericht, sondern gemäß § 27 Abs 2 JGG das Bezirksgericht Poysdorf als Pflegschaftsgericht.
+Die Entscheidung hierüber ergeht im Pflegschaftsverfahren. § 31 Abs 1 StPO 1960 bezeichnet genau den Wirkungskreis der Staatsanwaltschaft. Danach ist diese ausschließlich befugt, beim Gerichtshof erster Instanz, bei dem die Staatsanwaltschaft besteht und bei den zu dessen Sprengel gehörenden Bezirksgerichten einzuschreiten. Aus dem ersten Satz dieser Bestimmung ergibt sich, daß auch der zweite Satz, der von den Bezirksgerichten handelt, diese nur als Strafgerichte betrifft. Gemäß § 30 Abs 1 StPO 1960 haben sich die Staatsanwälte auf ihren Wirkungskreis zu beschränken. Wenn auch einzelne Sonderbestimmungen der Staatsanwaltschaft Aufgaben im Zivilverfahren zuweisen, so lassen sich diese Bestimmungen nicht in der Weise sinngemäß ausdehnen, daß der Staatsanwalt in jedem Verfahren einschreiten dürfe, an dessen Ausgang er ein Interesse hat. Gemäß §§ 1 ff JWG ist lediglich die Bezirksverwaltungsbehörde im Vormundschafts- oder Pflegschaftsverfahren Partei kraft Amtes.
+Im vorliegenden Fall hätte die Staatsanwaltschaft die Möglichkeit, beim Kreisgericht Korneuburg als Strafgericht die Ablehnung der Zuständigkeit zu beantragen, worüber gegebenenfalls das Oberlandesgericht zu entscheiden hätte.
+Mangels einer Parteistellung im Pflegschaftsverfahren konnte aber die Staatsanwaltschaft den Beschluß des Pflegschaftsgerichtes nicht mit Rekurs bekämpfen. Die sinngemäße Zurückweisung ihres dennoch erhobenen Rekurses durch die zweite Instanz war daher richtig, weshalb dem vorliegenden als gewöhnlichem Rekurs zu behandelnden Rechtsmittel ein Erfolg zu versagen war.

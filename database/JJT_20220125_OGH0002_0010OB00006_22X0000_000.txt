@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2022
+Geschäftszahl
+1Ob6/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Mag. S*, vertreten durch Dr. Gerhard Steiner, Rechtsanwalt in Wien, gegen die *versicherung*, vertreten durch Dr. Anton Ehm und Mag. Thomas Mödlagl, Rechtsanwälte in Wien, wegen 29.413,41 EUR sowie Feststellung (Streitwert 2.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 15. November 2021, GZ 11 R 125/21i-36, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 28. Mai 2021, GZ 14 Cg 34/19a-31, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		1. Die Klägerin zeigt in ihrer Revision, in der sie der beklagten Krankenhausträgerin – wie schon in erster und zweiter Instanz – vorwirft, von den dieser zuzurechnenden Ärzten nicht über jene alternative Operationsmethode aufgeklärt worden zu sein, die letztlich in einem anderen (privaten) Krankenhaus vorgenommen wurde, keine erhebliche Rechtsfrage gemäß § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+[2] 		2. Die ärztliche Aufklärung soll den Patienten in die Lage versetzen, die Tragweite seiner Erklärung zu überschauen (RIS-Justiz RS0026413). Sie hat ihm die für seine Entscheidung maßgebenden Grundlagen zu liefern (vgl RS0026413 [T3]). Eine Aufklärung über Behandlungsalternativen ist dann erforderlich, wenn für einen Behandlungsfall mehrere medizinisch gleichermaßen indizierte und übliche Behandlungsmethoden zur Verfügung stehen, die gleichwertig sind, aber unterschiedliche Risiken und Erfolgschancen haben (RS0026426 [T11]). Der Umfang der ärztlichen Aufklärungspflicht hängt stets vom Einzelfall ab, weshalb die Entscheidung darüber typischerweise keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (RS0026529 [insb T18, T20]).
+[3] 		3. Die Revisionsausführungen stellen sich großteils als bloß allgemeine rechtliche Erwägungen ohne Bezug zum konkreten Sachverhalt dar. Die Rechtsmittelwerberin übergeht, dass es sich bei der – letztlich in einem anderen Krankenhaus angewandten – (alternativen) Operationsmethode (Einsetzen eines Marknagels), auf die sich ihr Vorwurf einer Aufklärungspflichtverletzung bezieht, um keine in ihrer konkreten gesundheitlichen Situation medizinisch indizierte Behandlungsmethode handelte, sondern dass eine solche Operation aufgrund der chronischen Infektion des Schienbeins, der bestehenden „Weichteilproblematik“, der großen „Defektstrecke“ sowie der Zuckerkrankheit der Klägerin kontraindiziert war. Dass die Vorinstanzen darin, dass die Ärzte der Beklagten die Klägerin (zunächst) nicht über diese Methode aufklärten, sondern die – nach den erstinstanzlichen Feststellungen für einen Erhalt des Beins medizinisch alternativlose – Behandlungsmethode der Verpflanzung des Wadenbeins (Knochentransplantation) und Implantation einer Metallplatte wählten (als Alternative wäre nur eine Amputation des Beins ab dem Schienbein in Betracht gekommen), keine haftungsbegründende Aufklärungspflichtverletzung erblickten, bedarf keiner Korrektur durch den Obersten Gerichtshof.
+[4] 		4. Die Klägerin übergeht in ihrem Rechtsmittel auch die Feststellung, wonach sie sich im Verlauf ihrer Behandlung bei einem Privatarzt über alternative Behandlungsmöglichkeiten erkundigt und anschließend die behandelnden Ärzte der Beklagten über die von diesem vorgeschlagene Alternativbehandlung (Einsetzen eines Marknagels) informiert hatte, diese aber – vor allem wegen der bestehenden Entzündung – einen solchen weiteren rekonstruktiven Eingriff (zu Recht) als medizinisch nicht sinnvoll erachteten. Spätestens damit hatte die Klägerin sämtliche Informationen für ihre Entscheidung über die weitere Behandlung. Dass sie sich letztlich für die nicht indizierte Behandlungsvariante entschloss, woraus ihr Aufwendungen für die privat durchgeführte Operation entstanden, kann nicht der Beklagten angelastet werden.
+[5] 		5. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00006.22X.0125.000

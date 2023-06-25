@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+8ObA4/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Andreas Mörk (aus dem Kreis der Arbeitgeber) und Robert Hauser (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei Dr. R*, vertreten durch Dr. Remo Sacherer, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei D* AG, *, vertreten durch Lansky, Ganzger & Partner Rechtsanwälte GmbH in Wien, wegen Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 29. November 2021, GZ 8 Ra 51/21k-46, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach den Feststellungen stand die Kündigung des als Leiter der Rechtsabteilung bei der Beklagten angestellten Klägers in keinem Zusammenhang mit seinen Bonusforderungen, sondern kündigte die Beklagte ihn wegen seiner – nach Ansicht der Beklagten – nicht zufriedenstellenden Arbeitsleistungen.
+[2] 		An diese Feststellungen ist der Oberste Gerichtshof, der auch im arbeitsgerichtlichen Verfahren nur Rechts- und nicht Tatsacheninstanz (RIS-Justiz RS0002399 [T2, T3]) ist, gebunden. Die Frage, ob die Glaubhaftmachung, also Bescheinigung der behaupteten Tatsachen gelungen ist oder nicht, stellt das Ergebnis richterlicher Beweiswürdigung und keine rechtliche Beurteilung dar (RS0040286; RS0052037 [T10]).
+[3] 		2. Der Kläger argumentiert in seiner Revision, das Berufungsgericht habe § 105 Abs 5 ArbVG unrichtig angewandt. Es hätte aufgrund der Beweisergebnisse unzweifelhaft die Glaubhaftmachung des verpönten Kündigungsmotivs feststellen müssen und erst in einem weiteren Schritt prüfen dürfen, ob der Arbeitgeber glaubhaft gemacht habe, dass ein „anderes“ (sachliches) Motiv das wahrscheinlichere Motiv für die Kündigung gewesen sei. Im konkreten Fall sei aber kein „sachlicher Kündigungsgrund“ festgestellt worden.
+[4] 		2.1 Die Ausführungen des Klägers richten sich – wie er selbst zu erkennen scheint – in erster Linie gegen die Beweiswürdigung der Vorinstanzen, die in dritter Instanz nicht mehr angefochten werden kann (zB RS0112242). Diese Rechtsmittelbeschränkung kann auch nicht dadurch umgangen werden, dass ein unerwünschtes Ergebnis der Behandlung der Beweisrüge als Mangel des Berufungsverfahrens releviert wird (RS0043150 [T8]). Die zweite Instanz hat sich umfassend mit den Erwägungen des Erstgerichts zur Frage auseinandergesetzt, ob die in zeitlicher Nähe zum Kündigungsausspruch erhobenen Bonusforderungen des Klägers oder dessen in den Augen der Arbeitgeberin unzureichende Performance Motive für die Kündigung waren. Die geltend gemachte Mangelhaftigkeit des Berufungsverfahrens liegt nicht vor.
+[5] 		2.2 Der Einwand des Klägers, in dem Umstand, dass sich der Vorstand der Beklagten bessere Leistungen von ihm erwartet hätte, sei kein sachlicher Kündigungsgrund zu erblicken, ein solcher wäre aber jedenfalls verfristet, weil diese „Erwartungshaltung“ schon länger bestanden habe, geht ins Leere:
+[6] 		§ 105 Abs 3 Z 1, Abs 5 ArbVG stellt nicht auf Kündigungsgründe, sondern auf (verpönte oder erlaubte) Motive ab. Es scheiden nur gesetz- und sittenwidrige Motive als „andere Motive“ des Arbeitgebers im Sinn des § 105 Abs 5 ArbVG aus. Eine darüber hinausgehende Einschränkung der „anderen Motive“ kann dem ArbVG nicht entnommen werden (9 ObA 27/10a).
+[7] 		Es kommt daher weder auf das Vorliegen eines „sachlichen Kündigungsgrundes“ noch auf dessen rechtzeitige Geltendmachung an, sodass auch der vom Berufungsgericht in Bezug auf den Verfristungseinwand angenommene Verstoß gegen das Neuerungsverbot auf sich beruhen kann.
+[8] 		3. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision des Klägers zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00004.22D.0222.000

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.10.1955
+Geschäftszahl
+2Ob567/55
+Norm
+Betriebsrätegesetz §1;
+Betriebsrätegesetz §16 Abs. 3;
+Betriebsrätegesetz §24;
+Landarbeitsgesetz §120;
+Landarbeitsgesetz §127;
+ZPO §1;
+Kopf
+SZ 28/214
+Spruch
+Pfändbarkeit des Anspruches des Betriebsrates gegen den Betriebsratsfonds auf Ersatz des Geschäftsführungsaufwandes. Dem Betriebsrat kommt Parteifähigkeit zu.
+Entscheidung vom 5. Oktober 1955, 2 Ob 567/55.
+I. Instanz: Bezirksgericht Voitsberg; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Der betreibenden Partei steht eine Prozeßkostenforderung gegen die verpflichtete Partei aus einem Rechtsstreit zu, in welchem über eine Kündigungsanfechtung des Betriebsrates entschieden worden war. Die betreibende Partei beantragte mangels Zahlung die Bewilligung der Exekution durch Pfändung der Ansprüche der verpflichteten Partei gegen den Betriebsratsfonds aus dem Titel der Geschäftsführung (§ 127 LandarbeitsG.) in der Höhe der Kostenforderung. Das Erstgericht bewilligte den Antrag, das Rekursgericht wies ihn ab. Es sprach zwar dem Betriebsrat Rechtspersönlichkeit zu, vermeinte aber, daß ihm gegenüber dem Betriebsratsfonds aus dem Titel der Geschäftsführung eine Forderung nicht zustehen könnte.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der betreibenden Partei Folge und stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof stimmt zunächst der Rechtsansicht des Rekursgerichtes bei, daß dem Betriebsrat Parteifähigkeit zukommt. Wenn das Gesetz dem Betriebsrat die Ermächtigung erteilt, vor Gericht in Kündigungsanfechtungssachen als Kläger aufzutreten (§ 29 LandarbeitsG.), so kann an der Parteifähigkeit nicht mehr gezweifelt werden. Diese gilt aber nicht nur für das Prozeßverfahren, sondern auch für das folgende Exekutionsverfahren. Ansonsten könnte der Betriebsrat, wenn er im Rechtsstreite obsiegt hätte, auch seinerseits die ihm zugesprochenen Prozeßkosten von der Gegenpartei nicht eintreiben.
+Zu Unrecht hat das Rekursgericht aber angenommen, daß eine Forderung des Betriebsrates gegen den Betriebsratsfonds nicht bestehen könne. Daß dem Betriebsrat als solchem und nicht nur einzelnen seiner Mitglieder Kosten aus der Geschäftsführung erwachsen können, zeigt gerade der vorliegende Fall. Der Kündigungsprozeß wurde im Rahmen der dem Betriebsrat obliegenden Geschäftsführung geführt, die dabei entstandenen Prozeßkosten sind daher Kosten der Geschäftsführung. Das Gesetz ordnet ausdrücklich an, daß zur Deckung dieser Kosten eine Betriebsratsumlage eingehoben werden kann, deren Erträgnis einen eigenen, mit Rechtspersönlichkeit ausgestatteten Fonds bildet, dessen Verwaltung dem Betriebsrat obliegt. Der Betriebsrat hat daher Anspruch auf Ersatz des Geschäftsführungsaufwandes gegen den zur Deckung dieses Aufwandes geschaffenen Fonds. Daraus folgt, daß dieser Anspruch auch von Gläubigern des Betriebsrates gepfändet werden kann.
+Der Exekutionsantrag auf Forderungspfändung könnte überhaupt nur dann abgewiesen werden, wenn schon aus dem Antrag hervorginge, daß die Forderung als solche überhaupt nicht bestehen kann oder unpfändbar ist. Die Frage dagegen, ob die gepfändete Forderung im einzelnen Falle der verpflichteten Partei wirklich zusteht, ist vom Gericht bei der Exekutionsbewilligung nicht zu überprüfen, da immer nur auf Grund der bloßen Behauptungen des Antragstellers zu entscheiden ist. Auf Grund der im vorliegenden Falle aufgestellten Behauptungen der betreibenden Partei konnte aber keineswegs bereits dahin entschieden werden, daß die angegebene Forderung der verpflichteten Partei gegen den Betriebsratsfonds schon in abstracto nicht zu Recht bestehen könnte.
+Es war daher in Stattgebung des Rekurses der erstrichterliche Bewilligungsbeschluß wiederherzustellen.

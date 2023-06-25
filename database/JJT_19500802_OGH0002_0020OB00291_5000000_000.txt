@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.08.1950
+Geschäftszahl
+2Ob291/50
+Norm
+ABGB §1073;
+ABGB §1075;
+Grundbuchsgesetz §9;
+Grundbuchsgesetz §26;
+Grundbuchsgesetz §31;
+Grundbuchsgesetz §32;
+Grundbuchsgesetz §33;
+Grundbuchsgesetz §94;
+Grundbuchsnovelle 1942 §7;
+Kopf
+SZ 23/230
+Spruch
+Der Käufer einer mit einem Vorkaufsrecht belasteten Liegenschaft muß, um die Einverleibung seines Eigentumsrechtes zu erwirken, dem Grundbuchsgericht in Form einer einverleibungsfähigen Urkunde nachweisen, daß die Liegenschaft dem Vorkaufsberechtigten zum Verkauf angeboten wurde oder daß dieser mit der beantragten Einverleibung einverstanden ist. Ist der Käufer hiezu nicht imstande, so muß er diesen Nachweis sich im Prozeßwege beschaffen.
+Entscheidung vom 2. August 1950, 2 Ob 291/50.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Gisela K. ist Eigentümerin einer Liegenschaft. Auf diese Liegenschaft ist für Dr. Hugo F. ein Bestandrecht und ein Vorkaufsrecht einverleibt. Gisela K. verkaufte zwei Grundstücke ihrer Liegenschaft an Franz und Sofie P. Auf Grund des Kaufvertrages beantragten die Käufer die Abschreibung dieser Grundstücke von der Liegenschaft und Eröffnung einer neuen Einlage hiefür, unter Mitübertragung des Bestandrechtes des Dr. Hugo F., aber ohne Berücksichtigung des einverleibten Vorkaufsrechtes. Zum Nachweis dessen, daß die Liegenschaft dem Vorkaufsberechtigten angeboten worden ist, legten sie vor eine nicht unterschriebene Durchschrift eines Schreibens an Dr. Hugo F., einen Postaufgabeschein über die Absendung eines Schreibens an Dr. Hugo F., einen Rückschein über den Empfang dieses Schreibens durch Dr. Hugo F. und ein Schreiben des Vertreters der Verkäuferin mit der Behauptung, daß Dr. Hugo F. innerhalb der 30tägigen Frist vom Anbot keinen Gebrauch gemacht hat.
+Auf Grund dieser Urkunden bewilligte das Erstgericht die beantragte Abschreibung. Auf Rekurs des Vorkaufsberechtigten wies das Rekursgericht diesen Antrag ab und führte aus, die Einverleibung des Eigentumsrechtes für einen Dritten sei nur mit Zustimmung des Vorkaufsberechtigten oder mit dem Nachweis zulässig, daß die Liegenschaft dem Vorkaufsberechtigten zum Kaufe angeboten worden ist. Falls keine verbücherungsfähige Urkunde des Vorkaufsberechtigten vorgelegt werden könne, werde dieser Nachweis nur im Prozeß zu erbringen sein. Die vorgelegten Urkunden könnten nicht als Urkunden im Sinne der §§ 26 und 31, bzw. 32 und 33 GBG. angesehen werden, weshalb der Antrag abzuweisen war.
+Der Oberste Gerichtshof hat den Revisionsrekursen der Käufer und der Verkäufer nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs der Verkäufer und der Käufer, welche die Wiederherstellung des erstrichterlichen Beschlusses begehren, ist nur schwer verständlich. Er führt aus, daß die rekursgerichtliche Entscheidung deshalb verfehlt sei, weil § 7 der GBGNov. 1942 nicht beachtet worden sei. § 7 dieser Novelle sieht die Berichtigung des Grundbuches vor, wenn eine Rechtsänderung außerbücherlich eingetreten und grundbücherlich noch nicht durchgeführt ist. Eine solche Berichtigung setzt aber voraus, daß ein bezüglicher Antrag auf Berichtigung gestellt worden ist. Nun ist aber ein solcher Berichtigungsantrag nie gestellt worden; es ist daher schon aus diesem Gründe verfehlt, auf § 7 der GBGNov. 1942 zu verweisen.
+Im übrigen ist dem Rekursgerichte beizupflichten, daß die Frage, ob das Vorkaufsrecht durch Ablauf der 30tägigen Frist des § 1075 ABGB. erloschen ist, im Streitfalle nicht im Grundbuchsverfahren zu lösen ist. Zum Nachweis dessen, daß der Vorkaufsberechtigte vom Angebot der Einlösung keinen Gebrauch gemacht hat, so daß das Einlösungsrecht durch Zeitablauf erloschen ist, hätte eine vom Vorkaufsberechtigten ausgestellte Privaturkunde im Sinne des § 32 GBG. oder, falls eine solche verweigert wurde, ein Urteil vorgelagt werden müssen, womit der Vorkaufsberechtigte zur Einwilligung zur Löschung des Vorkaufsrechtes oder wenigstens zur Abschreibung der beiden Grundstücke verhalten wird. Auf Grund der vorgelegten nicht verbücherungsfähigen Urkunden konnte die beantragte Grundbuchshandlung nicht bewilligt werden.

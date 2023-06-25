@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.10.2017
+Geschäftszahl
+5Ob175/17x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Parteien 1. Josef M*****, 2. Gabriele M*****, beide vertreten durch Dr. Thomas Bründl, Rechtsanwalt in Straßwalchen, gegen die beklagte Partei Peter R***** GmbH, *****, vertreten durch Mag. Wolfgang Wamprechtshamer, Rechtsanwalt in Thalgau, wegen Räumung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 20. Juli 2017, GZ 22 R 211/17h-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Das Erstgericht verpflichtete die Beklagte, die – im Urteil näher bezeichnete – Freifläche von 50 m2 des Grundstücks 3206/3 KG ***** insbesondere vom aufgestellten Bau- und Bürocontainer samt Anlagen zu räumen.
+Das Berufungsgericht gab der Berufung der Beklagten nicht Folge und ließ die ordentliche Revision nicht zu.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Beklagten zeigt keine erhebliche Rechtsfrage auf.
+1. Das Erstgericht wies den Antrag der Beklagten, das Verfahren über die Räumungsklage bis zur Entscheidung der Telekom-Control-Kommission über ihren Antrag nach § 5 Abs 4 und 5 sowie § 6 TKG zu unterbrechen, in der Tagsatzung vom 22. 11. 2016 ab. Dagegen ist gemäß § 192 Abs 2 ZPO kein Rechtsmittel zulässig.
+2. Den in der unterlassenen Beischaffung des Akts der Telekom-Regulierungsbehörde angeblich liegenden Verfahrensmangel hat das Berufungsgericht verneint. Verneinte Verfahrensmängel können nicht an den Obersten Gerichtshof herangetragen werden (RIS-Justiz RS0042963).
+3. Einen – im Revisionsverfahren grundsätzlich zulässigen (RIS-Justiz RS0036801) – Antrag auf Unterbrechung des Revisionsverfahrens hat die Beklagte nicht gestellt. Ein Unterbrechungsgrund liegt nach den Revisionsausführungen im Übrigen schon deshalb nicht vor, weil die Regulierungsbehörde ohnedies bereits mit Bescheid vom 20. 2. 2017 über das von der Beklagten begehrte Leitungsrecht abgesprochen haben soll, dieses Verwaltungsverfahren daher offensichtlich bereits beendet ist. Überdies verwies schon das Berufungsgericht zutreffend darauf, dass der Bescheid der Regulierungsbehörde vom 20. 2. 2017 erst nach Schluss der Verhandlung erster Instanz erging und die diesbezüglichen Ausführungen jedenfalls dem Neuerungsverbot widersprachen.
+4. Soweit die Beklagte mehrfach und in unterschiedlichem Zusammenhang über den schriftlichen Mietvertrag hinausgehende mündliche Vereinbarungen behauptet – insbesondere ein angeblich mündlich vereinbartes unbefristetes Leitungsrecht iSd § 5 Abs 4 TKG –, geht sie nicht vom festgestellten Sachverhalt aus, wonach es neben dem Mietvertrag keinerlei mündliche Vereinbarung zwischen den Streitteilen gegeben hatte. Insoweit ist die Rechtsrüge nicht gesetzesgemäß ausgeführt (RIS-Justiz RS0043312).
+5. In der Entscheidung 3 Ob 125/05m (JBl 2006, 452) nahm der Oberste Gerichtshof mit ausführlicher Begründung zum auch dort behaupteten Entstehen von Leitungsrechten unmittelbar aufgrund § 5 TKG 2003 Stellung. Insbesondere aufgrund der unterschiedlichen Regelung in § 5 Abs 3 TKG betreffend öffentliches Gut und § 5 Abs 4 Z 2 lit b TKG betreffend private Liegenschaften wurde unter Bezugnahme auf die Materialien und die Bestimmung des § 6 Abs 4 TKG, wonach der Bau der Anlage vor Rechtskraft der Entscheidung der Fernmeldebehörde verboten sei, der von den Vorinstanzen zitierte Rechtssatz geprägt (RIS-Justiz RS0120434), dass das Leitungsrecht über private Liegenschaften nicht schon unmittelbar aufgrund des Gesetzes entsteht, sondern erst durch den rechtskräftigen Bescheid der Fernmeldebehörde iSd § 6 Abs 4 TKG. Soweit überblickbar  ist diese Entscheidung auf keinerlei Kritik in der Lehre gestoßen, sie kann somit als gefestigte Rechtsprechung angesehen werden. Die Ausführungen in der Revision bieten keinen Anlass davon abzugehen, zumal sie auch in diesem Zusammenhang lediglich damit argumentieren, die Vorinstanzen hätten sich nicht auf die fehlende Entscheidung der Verwaltungsbehörde berufen dürfen, weil diese ein Leitungsrecht durch Entscheidung gar nicht neu begründen dürfe, wenn eine einvernehmliche vertragliche Regelung der Parteien gemäß § 5 Abs 4 TKG zugrunde zu legen sei. Eine derartige einvernehmliche vertragliche Regelung lässt sich dem Sachverhalt aber nicht entnehmen.
+6. Auf den erstmals in der Revision erhobenen Rechtsmissbrauchseinwand ist schon aufgrund des Neuerungsverbots (§ 504 Abs 2 ZPO) nicht näher einzugehen. Im Übrigen kann die Geltendmachung eines Begehrens auf Beseitigung einer konsenslosen Benützung einer Liegenschaft in nicht unbeträchtlichem Umfang grundsätzlich nicht als schikanös bezeichnet werden (7 Ob 36/08g zur Entfernung von Telekommunikationsleitungen).
+7. Mangels erheblicher Rechtsfrage war die außerordentliche Revision somit zurückzuweisen, einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0050OB00175.17X.1023.000

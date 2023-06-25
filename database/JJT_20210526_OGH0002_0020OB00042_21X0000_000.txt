@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.05.2021
+Geschäftszahl
+2Ob42/21x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Veith als Vorsitzenden, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Verlassenschaftssache nach der am ***** 2019 verstorbenen A***** G*****, über den außerordentlichen Revisionsrekurs des Alleinerben D***** S*****, vertreten durch Dr. Christoph Neuhuber, Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 18. November 2020, GZ 42 R 408/20s-20, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Das Rekursgericht hat die testamentarische Anordnung in nicht korrekturbedürftiger Weise als „Substitutionslegat“ qualifiziert. Der Revisionsrekurs enthält auch keine Argumente, die diese Qualifikation in Frage stellen könnten.
+[2] 		Tatsächlich liegt ein uneigentliches Nachlegat vor, weil nach der Anordnung der Erblasserin aus dem dem Erben zugekommenen Nachlass beim Tod des Erben bestimmte Sachen (Liegenschaftsanteile) an begünstigte Personen auszufolgen sind. Der Nachvermächtnisnehmer erwirbt mit Eintritt der Bedingung (hier: Versterben des Erben) einen obligatorischen Anspruch auf Übertragung des Vermächtnisgegenstands (2 Ob 123/20g Rz 31 mwN; RS0107196).
+[3] 		2. Die Ausschlagung einer Erbschaft ist unwiderruflich (RS0013014) und bewirkt, dass die Erbschaft dem Ausschlagenden als nicht angefallen gilt (2 Ob 203/20x Rz 12; RS0025116). Grundsätzlich zutreffend argumentiert der Revisionsrekurswerber, dass die Ausschlagung nicht bedingt erfolgen kann (RS0110927). Welche unzulässige Bedingung der Ausschlagende seiner Ausschlagungserklärung zu Grunde gelegt haben soll, legt der Revisionsrekurs aber nicht nachvollziehbar dar. In einer nachträglichen mündlichen Erläuterung gegenüber dem Gerichtskommissär, die dem besseren Verständnis der bereits unwiderruflich abgegebenen Erklärung dienen sollte, kann jedenfalls keine Bedingung erblickt werden.
+[4] 		3. Bei der Erbsentschlagung handelt es sich um eine im Verlassenschaftsverfahren dem Abhandlungsgericht (Gerichtskommissär) gegenüber abzugebende einseitige Parteienerklärung mit auch materiell-rechtlichen Wirkungen (2 Ob 203/20x Rz 12; RS0007910). Sie unterliegt denselben Formerfordernissen wie die positive Erklärung und erfordert daher Schriftlichkeit (2 Ob 203/20x Rz 12 mwN). Mündlichen Erklärungen kommt daher nicht die Wirkung einer Ausschlagung zu.
+[5] 		4. Die Auslegung der Verzichtserklärung durch das Rekursgericht ist nicht korrekturbedürftig:
+[6] 		Bei der Auslegung von Prozesshandlungen kommt es darauf an, wie die Erklärung unter Berücksichtigung der konkreten gesetzlichen Regelung, des Prozesszwecks und der dem Gericht und dem Gegner bekannten Prozess- und Aktenlage objektiv verstanden werden muss (RS0037416). Der Wortlaut der schriftlichen Ausschlagungserklärung enthält keinen Anhaltspunkt dafür, dass sich diese auch auf das Nachvermächtnis erstrecken sollte, ist doch nur vom Verzicht auf den Erbteil die Rede. Ein weitergehender Verzichtswille müsste aber – und zwar nach den Regeln über die Auslegung sowohl von Prozesserklärungen als auch von rechtsgeschäftlichen Willenserklärungen – geradezu zweifelsfrei feststehen, wie der Oberste Gerichtshof im gegebenen Zusammenhang bereits mehrmals ausgesprochen hat (vgl 6 Ob 189/98g; 2 Ob 105/17f). Ein zweifelloser Wille des sein Erbe Ausschlagenden, auch auf seine – vom Erbrecht grundsätzlich zu trennende, bloß schuldrechtliche – Stellung als (uneigentlicher) Nachvermächtnisnehmer verzichten zu wollen, lässt sich der Erklärung im vorliegenden Fall jedenfalls nicht entnehmen. Der Meinungsstreit über die Rechtsnatur der Ausschlagung eines Vermächtnisses und wem gegenüber sie zu erklären ist, muss damit auch hier keiner Klärung zugeführt werden (vgl dazu näher 2 Ob 105/17f).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00042.21X.0526.000

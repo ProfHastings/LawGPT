@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2019
+Geschäftszahl
+8ObA57/19v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Dr. Bernhard Gruber (aus dem Kreis der Arbeitgeber) und Wolfgang Jelinek (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei B*****, vertreten durch Mag. Doris Braun, Rechtsanwältin in Graz, gegen die beklagte Partei H***** Gesellschaft mbH, *****, vertreten durch Reif und Partner Rechtsanwälte OG in Graz, wegen 3.570,67 EUR brutto sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 1.190,22 EUR brutto) gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. Juli 2019, GZ 7 Ra 29/19t-14, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Im Revisionsverfahren ist nur mehr strittig, ob zwischen den Parteien unter nachstehendem Punkt „10. Kündigung“ des Arbeitsvertrags eine dreimonatige Kündigungsfrist vereinbart wurde:
+„Das Arbeitsverhältnis kann sowohl vom Arbeitgeber als auch vom Arbeitnehmer unter vorheriger Einhaltung der Kündigungsfrist gemäß § 3 Abs 1 des anzuwendenden Kollektivvertrags zu jedem Monatsletzten beendet werden.“
+§ 3 des auf das Dienstverhältnis zur Anwendung gelangenden Kollektivvertrags für Angestellte im Metallgewerbe in der Fassung zum Vertragszeitpunkt 1. 3. 2018 lautet:
+„Geltungsdauer.
+(1) Der Kollektivvertrag tritt mit Wirksamkeit 1. Jänner 2018 in Kraft.
+(2) Der Kollektivvertrag kann von beiden Teilen unter Einhaltung einer dreimonatigen Kündigungsfrist zu jedem Monatsletzten mittels eingeschriebenen Briefes gekündigt werden.
+(3) ...“
+1. Die einzelfallbezogene Beurteilung rechtsgeschäftlicher Erklärungen rechtfertigt nur dann eine Anrufung des Obersten Gerichtshofs, wenn aus Gründen der Rechtssicherheit die Korrektur einer unhaltbaren, durch die Missachtung fundamentaler Auslegungsregeln zustande gekommenen Entscheidung geboten ist (RIS-Justiz RS0042776 [T22], s auch RS0042936). Ob auch eine andere Auslegung der Erklärungen der Parteien vertretbar wäre, ist in dem Zusammenhang nicht zu prüfen (vgl RS0042936 [T17]; 9 ObA 156/12z).
+2. Wird – wie hier – eine übereinstimmende abweichende Parteienabsicht nicht festgestellt, so ist bei der Auslegung des Vertrags von dessen Wortlaut auszugehen (RS0017831). Weder ist die subjektive Absicht des Erklärungsempfängers noch jene des Erklärenden allein entscheidend; bei Uneinigkeit ist die Erklärung vielmehr so zu verstehen, wie ein redlicher Erklärungsempfänger die Erklärung verstehen konnte (RS0014205 [T30]).
+3.1 In Anwendung dieser Grundsätze kam das Berufungsgericht zu dem Ergebnis, dass für die Klägerin die sechswöchige Kündigungsfrist des § 20 Abs 2 AngG gilt, weil weder die Wortinterpretation noch die Absicht der Parteien eine dreimonatige Kündigungsfrist ergeben würden und eine solche Erklärung auch dem Geschäftsführer der Beklagten nicht unterstellt werden könne.
+3.2 Punkt 10. des Arbeitsvertrags verweist auf § 3 Abs 1 des anzuwendenden Kollektivvertrags. Dieser nennt allerdings keine Kündigungsfrist, sondern regelt das Inkrafttreten des Kollektivvertrags. Der Verweis ist daher nicht im Sinn des § 915 Satz 2 ABGB undeutlich formuliert, sondern geht schlicht ins Leere. Für die Annahme, dass der Arbeitsvertrag (richtig) auf § 3 Abs 2 des anzuwendenden Kollektivvertrags und die darin genannte dreimonatige Frist hätte verweisen wollen, fehlen eindeutige Anhaltspunkte: Abs 2 regelt ausdrücklich nur die Frist für eine Kündigung des Kollektivvertrags und nicht von Arbeitsverträgen. Schon die von der Klägerin behauptete Prämisse, dass mit Punkt 10. des Arbeitsvertrags beidseits längere als die gesetzlichen Kündigungsfristen nach § 20 Abs 2 AngG hätten vereinbart werden sollen, ergibt sich weder aus den Feststellungen noch  denknotwendig aus dem Vertrag. Abgesehen davon entspräche die in § 3 Abs 2 des Kollektivvertrags genannte dreimonatige Frist dieser Voraussetzung nicht jedenfalls, sondern nur in concreto. Auch ohne Vereinbarung einer (längeren) Kündigungsfrist wohnt der Vertragsbestimmung aber ein Regelungsinhalt inne, weil der Beklagten damit im Einklang mit Punkt 9e. des Kollektivvertrags eine Kündigung zum Monatsletzten erlaubt wird (§ 20 Abs 3 AngG).
+Von einem unvertretbaren Auslegungsergebnis kann daher keine Rede sein, wobei die Klägerin selbst der strittigen Vertragsbestimmung im erstinstanzlichen Verfahren zunächst noch dasselbe Verständnis wie letztlich das Berufungsgericht beimaß.
+4.  Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO war die außerordentliche Revision  zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:008OBA00057.19V.0924.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.06.2021
+Geschäftszahl
+8Ob14/21y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Mag. Korn, Dr. Stefula und Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei S* GmbH, *, vertreten durch Dr. Hanno Hofmann, Rechtsanwalt in Graz, gegen die beklagte Partei B*gesellschaft m.b.H., *, vertreten durch die Graf & Pitkowitz Rechtsanwälte GmbH in Wien, wegen 94.782 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse: 82.433,45 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 14. Dezember 2020, GZ 30 R 245/20z-25, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Wenn Umstände auf Seite des Bestellers den Unternehmer zu erhöhtem Arbeitseinsatz und zu höheren Aufwendungen zwingen, gebührt dem Unternehmer eine Entschädigung durch Aufstockung des Werklohns (RIS-Justiz RS0021825). Die Grundlage für diesen Anspruch liegt im bürgerlichen Recht in § 1168 Abs 1 Satz 2 ABGB; dieser dispositiven Norm geht bei entsprechender Vereinbarung die speziellere Regelung in der ÖNORM B 2110 vor (RS0021825 [T2]). Der Anspruch ist kein Schadenersatzanspruch, sondern ein Entgeltanspruch (Erfüllungsanspruch) des Werkunternehmers.
+[2] 		Da nach § 1168 Abs 1 Satz 2 ABGB nur der Nachteil auszugleichen ist, der durch die Verzögerung entstanden ist, ist Voraussetzung für eine Mehrkostenforderung, dass die Verzögerung für den Nachteil kausal gewesen sein muss (G. Kodek, Mehrkosten beim Bauvertrag, bauaktuell 2017, 135 [137]).
+[3] 		2. Richtig wird in der Revision darauf hingewiesen, dass die ÖNORM B 2110:2013 in Pkt 7.4.2. regelt, dass Mehrkostenforderungen auf der Preisbasis des Vertrags gerechnet werden. Das ändert aber nichts daran, dass die Verzögerung für die Mehrkosten kausal gewesen sein muss. Darüber hinaus haben die Parteien auch ausdrücklich vereinbart, dass die zeitgebundenen Kosten bei Überschreitung der festgelegten Ausführungsfrist im Rahmen der gelegten Aufgliederung im tatsächlich geleisteten Umfang vergütet werden.
+[4] 		Hat daher der Auftragnehmer etwa während einer Bauverzögerung zeitgebundene Kosten im Rahmen eines Zusatzauftrags durch denselben Auftraggeber ohnehin abgedeckt, sind ihm aus dieser Position durch die Verzögerung solche Kosten gerade nicht entstanden.
+[5] 		3. Im konkreten Fall wurden allein von der Beklagten während der Bauzeitverzögerung Zusatzaufträge, die zu einer Erhöhung des Auftragsvolumens um ca das Dreifache führten, erteilt. Wenn das Berufungsgericht davon ausgeht, dass vor diesem Hintergrund die Klägerin zu konkretisieren gehabt hätte, inwieweit durch die Verzögerung eine Erhöhung der zeitgebundenen Kosten während der gesamten Bauzeit entstanden ist, hält sich das im Rahmen des gesetzlich eingeräumten Ermessensspielraums.
+[6] 		Ob das Parteivorbringen hinreichend bestimmt ist, ist eine Frage des Einzelfalls, die keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (RS0042828 [insb T29, T42]).
+[7] 		4. Mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die Revision der Klägerin zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132472

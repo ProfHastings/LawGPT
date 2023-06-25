@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.07.2013
+Geschäftszahl
+7Ob122/13m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und durch die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei Ing. R***** F*****, vertreten durch KRONBERGER Rechtsanwälte GmbH in Wien, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 36.336 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. April 2013, GZ 4 R 80/13h-30, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Zulassungsbeschwerde beruft sich darauf, das Berufungsgericht sei vom Sachverhalt abgewichen und aktenwidrig von der - gar nicht getroffenen - Feststellung ausgegangen, dass durch den (indirekten) Blitzschlag kein Schaden an einer elektrischen Einrichtung des Klägers vorlag. Außerdem fehle „entsprechende Rechtsprechung“ zur Frage des Blitzschlags (Wortdefinition: „indirekter Blitzschlag“) im Rahmen der Auslegung von AVB.
+Damit zeigt die außerordentliche Revision keine nach § 502 Abs 1 ZPO erheblichen Rechtsfragen  auf.
+Die Aktenwidrigkeit liegt nicht vor: Der Kläger meint, das Erstgericht habe im Zusammenhang mit dem „Wolke-Wolke-Blitz“ (atmosphärische Entladung) zur Frage eines möglichen Schadens an der elektrischen Einrichtung (Alarmanlage) keine Feststellungen getroffen. Dabei übersieht er die - auch im Rechtsmittel wiedergegebene - Feststellung, wonach „die für die Überwachung […] zuständige Alarmanlage durch den Fehlerschutzschalter Q2 geschützt wurde, der jedoch in der verfahrensgegenständlichen Nacht nicht auslöste“ (während der Schutzschalter Q3 von der atmosphärischen Entladung ausgelöst wurde). Im Übrigen  steht gar nicht fest, dass - wie die Revision meint - das Alarmsteuergerät „kaputt geworden“ sei. Vielmehr haben die Tatsacheninstanzen die Feststellung getroffen, dass der Kläger ein Anschlagen der Alarmanlage „nicht wahrnahm“.
+Soweit die Revision dem gegenüber weiterhin den Standpunkt vertritt, es liege ein Schaden am Alarmgerät vor, weil eine zu hohe Spannung durchgegangen sei, entfernt sie sich von der Tatsachengrundlage der angefochtenen Entscheidung.
+Mit der im Zulassungsantrag angeführten Auslegungsfrage hat sich der Oberste Gerichtshof in der Entscheidung 7 Ob 76/13x, die ebenfalls eine Deckungsklage betraf, bereits befasst. Ursache der (dortigen) Schäden an einem Pkw war nicht die unmittelbare Einwirkung eines Blitzschlags, sondern die durch einen indirekten Blitzschlag an der Elektrik des Hotels ausgelöste Überspannung, die sich über das an die Steckdose angeschlossene Batterie-Ladegerät auf das Fahrzeug übertrug und zum eingetretenen Schaden führte. Es handelte sich dort also um eine mittelbare Einwirkung des Blitzschlags auf das versicherte Fahrzeug, für deren Ersatz der Versicherer nach Art 1 AKKB 2009 nicht aufkommen musste.
+Im Rahmen dieser Rechtsprechung ist zumindest vertretbar, dass das Berufungsgericht den hier auf „indirekte Blitzschäden an Elektroinstallationen einschließlich Schalt- und Verteileranlagen sowie Elektromotore, Pumpen, Boiler, Elektro-Weidezaungeräte“ erweiterten Deckungsanspruch im konkreten Fall schon deshalb verneint hat, weil gar kein Schaden an einer elektrischen Anlage entstand; hat doch der Oberste Gerichtshof auch in der zitierten Entscheidung 7 Ob 76/13x wiederum ausdrücklich darauf hingewiesen, dass der Versicherungsnehmer, der eine Versicherungsleistung beansprucht, die anspruchsbegründende Voraussetzung des Eintritts des Versicherungsfalls nach ständiger Rechtsprechung beweisen muss (RIS-Justiz RS0043438; RS0080003; 7 Ob 71/13m; 7 Ob 161/05k mwN). Der Kläger hat diesen Nachweis nicht erbracht, weshalb sich die Frage, ob von der zitierten Haftungserweiterung atmosphärische Entladungen mitumfasst wären, gar nicht stellt.
+Die außerordentliche Revision ist daher  zurückzuweisen, was nach § 510 Abs 3 ZPO keiner weiteren Begründung bedarf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0070OB00122.13M.0703.000

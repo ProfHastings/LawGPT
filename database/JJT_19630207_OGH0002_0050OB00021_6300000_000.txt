@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.02.1963
+Geschäftszahl
+5Ob21/63 (5Ob22/63)
+Norm
+Allgemeines Sozialversicherungsgesetz §144;
+Amtshaftungsgesetz §1;
+Einführungsgesetz zur Jurisdiktionsnorm §1;
+Kopf
+SZ 36/23
+Spruch
+Der Schadenersatzanspruch wegen Nichtzulassung zur Operation durch den Vertrauensarzt einer Gebietskrankenkasse für Arbeiter und Angestellte ist ein Amtshaftungsanspruch.
+Entscheidung vom 7. Februar 1963, 5 Ob 21, 22/63.
+I. Instanz: Landesgericht Feldkirch; II. Instanz: Oberlandesgericht Innsbruck.
+Text
+In der Klage wird der Schaden geltend gemacht, der dadurch entstanden sei, daß eine Kropfoperation an der Klägerin zu spät durchgeführt wurde; der Zweitbeklagte als Vertrauensarzt der Erstbeklagten, für dessen Verschulden diese gemäß § 1313a ABGB. hafte, habe, obwohl die Klägerin auf Durchführung der Operation gedrängt habe und diese auch ärztlich indiziert worden sei, die Klägerin nicht rechtzeitig zur Operation zugelassen und die Durchführung der Operation veranlaßt. Als Haftungsgrund gegenüber dem Zweitbeklagten beruft sich die Klägerin auf die Bestimmung des § 1299 ABGB.
+Das Erstgericht wies die Klage ab.
+Das Berufungsgericht bestätigte das Ersturteil nach Beweisergänzung. Es ging in seiner Begründung von der Feststellung aus, daß die Operation an der Klägerin rechtzeitig vorgenommen wurde, normal verlaufen sei und zur Wiederherstellung ihrer Arbeitsfähigkeit geführt habe. Es fehle somit an einem Verschulden des Zweitbeklagten und damit auch an einem Haftungsgrund für die Haftung der Erstbeklagten nach § 1313a ABGB.
+Der Oberste Gerichtshof hob aus Anlaß der Revision der Klägerin das gesamte Verfahren beginnend mit der Zustellung der Klage als nichtig auf und wies die Klage wegen Unzulässigkeit des Rechtsweges zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+In der Klage wird der § 1299 ABGB. bezogen. Es wird aber gar nicht behauptet, daß der Zweitbeklagte einen Kunstfehler bei Ausübung seiner ärztlichen Praxis begangen habe, sondern es wird behauptet, daß sich der Zweitbeklagte bei Ausübung seiner Tätigkeit als Vertrauensarzt der erstbeklagten Partei, also als deren Organ, rechtswidrig verhalten habe, indem er sie zunächst zu der von ihr angestrebten Durchführung der Kropfoperation nicht zuließ. Es wird also ein Verstoß gegen die Bestimmung des § 144 ASVG. geltend gemacht, welche dem Patienten einen Rechtsanspruch auf Durchführung der Heilbehandlung in einem Krankenhaus gewährt, wenn diese notwendig ist. Damit fällt der geltend gemachte Anspruch unter die Bestimmung des § 1 AHG., wonach auch die Träger der Sozialversicherung für den Schaden haften, den die als ihre Organe handelnden Personen in Vollziehung der Gesetze durch ein rechtswidriges Verhalten schuldhaft zugefügt haben.
+Daraus folgt die Unzulässigkeit des Rechtsweges gegenüber dem Zweitbeklagten, weil gemäß § 1 des AHG. das Organ dem Beschädigten nicht haftet und gemäß § 9 (5) des Gesetzes der Geschädigte den Ersatz des Schadens, den ihm ein Organ zugefügt hat, gegen dieses im ordentlichen Rechtsweg nicht geltend machen kann. Gegenüber der erstbeklagten Partei aber folgt die Unzulässigkeit des Rechtsweges aus § 8 AHG., weil die Klägerin gar nicht behauptet hat, daß sie die erstbeklagte Partei zur Anerkennung des Ersatzanspruches schriftlich aufgefordert habe. Nur wenn dies geschehen wäre und die Erstbeklagte binnen drei Monaten nach Einlangen der Aufforderung eine Erklärung über das Begehren nicht abgegeben oder dessen Erfüllung verweigert hätte, könnte der Anspruch der klagenden Partei im Rechtswege geltend gemacht werden (SZ. XXIII 68, SZ. XXIII 349).

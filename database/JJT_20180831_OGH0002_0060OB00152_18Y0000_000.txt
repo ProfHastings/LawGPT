@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.08.2018
+Geschäftszahl
+6Ob152/18y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei S* GesmbH, *, vertreten durch Siemer-Siegl-Füreder & Partner, Rechtsanwälte OG in Wien, gegen die beklagte Partei I* KG, *, vertreten durch Gheneff-Rami-Sommer Rechtsanwälte OG in Klagenfurt, wegen 19.391,78 EUR und Zwischenfeststellung, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 13. Juni 2018, GZ 39 R 360/17f-17, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ob die Kündigung der klagenden Partei per E-Mail als rechtzeitig eingelangt zu betrachten ist, stellt – worauf schon das Berufungsgericht zutreffend hingewiesen hat – eine Frage des Einzelfalls dar, der keine von § 502 Abs 1 ZPO geforderte Bedeutung zukommt.
+2.1. Nach ständiger Rechtsprechung sind für die Beurteilung, ob objektiv mit einer Kenntnisnahme durch den Empfänger gerechnet werden kann, immer die Umstände des Einzelfalls maßgeblich (RIS-Justiz RS0014089). Dies gilt auch für die Frage des rechtzeitigen Zugangs einer empfangsbedürftigen Erklärung (RIS-Justiz RS0014089 [T1]). Dies hat der Oberste Gerichtshof zuletzt ausdrücklich für eine E-Mail-Erklärung ausgesprochen (1 Ob 149/17v).
+2.2. Für den Zugang elektronischer Willenserklärungen in den Machtbereich des Empfängers ist anerkannt, dass die Mailbox des Empfängers jedenfalls dann zu seinem Machtbereich gehört, wenn er zu erkennen gegeben hat, dass er über die E-Mail-Adresse erreichbar ist (9 Ob 56/13w Punkt 2.1 mwN).
+3.1. Nach § 12 Satz 1 ECG gelten elektronische Vertragserklärungen, andere rechtlich erhebliche elektronische Erklärungen und elektronische Empfangsbestätigungen als zugegangen, wenn sie die Partei, für die sie bestimmt sind, unter gewöhnlichen Umständen abrufen kann. Nach den Gesetzesmaterialien (ErläutRV 817 BlgNR 21. GP 31) gilt eine elektronische Erklärung nicht schon dann als zugegangen, wenn sie faktisch abrufbar ist. Mit der Wendung „unter gewöhnlichen Umständen“ in § 12 des ECG soll vielmehr sichergestellt werden, dass Erklärungen nur zu den üblichen Geschäftszeiten und nicht während der Urlaubszeit rechtswirksam zugehen (Brenn, ECG 253 und 255 f; 8 Ob 58/14h ErwGr 2). Jeder Nutzer, der sich etwa im Urlaub befindet, hat auch die Möglichkeit, diesen Umstand seinem Geschäftspartner (zB mittels E-Mail-Erklärung) mitzuteilen (8 Ob 58/14h).
+3.2. Im vorliegenden Fall hat der Erklärungsempfänger vor Absendung des gegenständlichen E-Mails eindeutig erklärt, dass „sich das Büro vom 23. Dezember 2015 bis 6. Jänner 2016 im Weihnachtsurlaub befindet“. Wenn das Berufungsgericht dieses E-Mail dahin verstanden hat, dass damit zum Ausdruck gebracht werde, die Büros der beklagten Partei würden im angeführten Zeitraum nicht besetzt sein und ihr werde daher ein Abrufen von E-Mails nicht möglich sein, ist darin keine vom Obersten Gerichtshofs aufzugreifende Fehlbeurteilung zu erblicken.
+3.3. Ein Erklärender, der trotz Hinweis auf einen bevorstehenden Betriebsurlaub eine rechtsgeschäftliche Erklärung per E-Mail an den Empfänger richtet, kann nach der im Allgemeinen Zivilrecht maßgeblichen Empfangstheorie gerade nicht davon ausgehen, dass die Erklärung in diesem Zeitraum abgerufen wird. Der Zugang ist daher bei Einlangen während der Zeit einer angekündigten Abwesenheit erst mit dem Beginn des nächsten Werktags anzunehmen.
+3.4. Zwar ist richtig, dass an einen Unternehmer höhere Anforderungen hinsichtlich seiner Sorgfaltspflicht gestellt werden. Die Auffassung, dass jeder Unternehmer dazu verpflichtet wäre, auch bei einem Betriebsurlaub ununterbrochen empfangsbereit zu sein und an das Unternehmen gerichtete E-Mails ständig abzurufen, würde jedoch die Sorgfaltsanforderungen überspannen.
+3.5. Dazu kommt, dass der von der beklagten Partei bekanntgegebene Betriebsurlaub in die übliche Urlaubszeit (Weihnachtszeit) fällt und auch von der Dauer her keineswegs als ungewöhnlich einzustufen ist. Daher kann auch von einer Vereitelung des Zugangs der Kündigung wider Treu und Glauben (dazu RIS-Justiz RS0047277, RS0028552, RS0028278, RS0117135) keine Rede sein.
+4. Zusammenfassend bringt die Revision daher keine Rechtsfragen der vom § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass sie spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E122841

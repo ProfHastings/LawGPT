@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.05.2021
+Geschäftszahl
+6Ob44/21w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek,   Dr. Nowotny, die Hofrätin Dr. Faber sowie den Hofrat Mag. Pertmayr als weitere Richter  in der Firmenbuchsache der beim Landesgericht Wels zu FN ***** eingetragenen G***** GmbH, *****, wegen Eintragung der Zustelladresse der Gesellschafterin M***** R*****, über den Revisionsrekurs der Gesellschaft, vertreten durch Denkmair Hutterer Hüttner Waldl Rechtsanwälte GmbH in Linz, gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 14. Jänner 2021, GZ 6 R 153/20t-11, womit der Beschluss des Landesgerichts Wels vom 13. November 2020, 29 Fr 3231/20v-4, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Rekursgericht hat den Revisionsrekurs  zugelassen, weil keine oberstgerichtliche Rechtsprechung zum Stellenwert der Eigenverantwortung einer Gesellschafterin für ihre zustellfähige Anschrift im Firmenbuch aufgefunden habe werden können. Ob und wann eine materiell-rechtliche Prüfpflicht des Firmenbuchgerichts in Bezug auf die Anmeldung einer zustellfähigen Anschrift einer Gesellschafterin einsetze und wie weit eine solche gegebenenfalls gehe, sei ebenfalls noch nicht geklärt. Weiters werde die Frage der materiellen Prüfpflicht des Gerichts bei Eintragungen nach § 26 GmbHG iVm § 11 FBG auch in der Literatur kontroversiell betrachtet. Und schließlich sei die oberstgerichtliche Rechtsprechung zur Frage, ob die regelmäßige Benützung einer Abgabestelle ein das Wesen der Abgabestelle bedingendes Merkmal sei oder nur eine Voraussetzung, die zusätzlich erfüllt sein müsse, wenn es die §§ 16–18 ZustG verlangten, nicht einheitlich.
+Rechtliche Beurteilung
+[2] 		Der Revisionsrekurs ist entgegen der Ansicht des Rekursgerichts unzulässig:
+[3] 		1. Im vorliegenden Fall ist nicht die vom Geschäftsführer gemäß § 26 Abs 1 GmbHG iVm § 11 FBG angemeldete Änderung der für Zustellungen maßgeblichen Anschrift eines Gesellschafters Gegenstand der erstinstanzlichen Beschlussfassung. Vielmehr hat das Erstgericht – nach der durch den Geschäftsführer angemeldeten und sodann erfolgten Eintragung der Änderung der Anschrift der Gesellschafterin – aufgrund eines Hinweises der betroffenen Gesellschafterin im Rahmen der amtswegigen Löschungsmöglichkeit nach § 10 Abs 2 FBG deren geänderte Anschrift gelöscht und die ursprüngliche Anschrift wieder eingetragen. Fragen der Prüfpflicht des Firmenbuchgerichts im Rahmen einer Anmeldung nach § 26 Abs 1 GmbHG iVm § 11 FBG stellen sich daher nicht.
+[4] 		2. Im Rahmen der amtswegigen Löschung nach § 10 Abs 2 FBG sind die allgemeinen Regeln der Prüfpflicht des Firmenbuchgerichts nicht anwendbar (vgl 6 Ob 271/03a [vorletzter Absatz]); es können auch amtswegige Erhebungen zum Vorliegen der Voraussetzungen gepflogen werden (6 Ob 90/20h [ErwGr 3.2.]). Darüber hinaus ist zu berücksichtigen, dass die Löschung unrichtiger Eintragungen im Firmenbuch im Ermessen des Firmenbuchgerichts steht (§ 10 Abs 2 FBG) und es sich dabei regelmäßig um eine Frage des Einzelfalls handelt (RS0133105).
+[5] 		3. Dass es bei der für Gesellschafter einer GmbH einzutragenden Anschrift (primär) darauf ankommt, Zustellungen an die Gesellschafter zu ermöglichen, ergibt sich eindeutig aus § 26 Abs 1 GmbHG, der auf die „für Zustellungen maßgebliche Anschrift“ abstellt. Da sich dieses Kriterium nach den einschlägigen Vorschriften des ZustG (vgl insbesondere § 2 Z 4 ZustG: „Abgabestelle“) richtet und demgemäß keineswegs mit einer im Zentralen Melderegister aufscheinenden Anschrift übereinstimmen muss, kann es für die im Firmenbuch einzutragende Anschrift eines Gesellschafters auf die im Zentralen Melderegister aufscheinenden Daten nicht maßgeblich ankommen. Der Bezug des Revisionsrekurses auf § 5 Abs 3 WiEReG, der an das Zentrale Melderegister anknüpft, geht daher ins Leere.
+[6] 		4. Zu den im letzten Satz der Zulässigkeitsbegründung des Rekursgerichts angesprochenen Merkmalen der „Abgabestelle“ enthält der Revisionsrekurs keine Ausführungen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00044.21W.0512.000

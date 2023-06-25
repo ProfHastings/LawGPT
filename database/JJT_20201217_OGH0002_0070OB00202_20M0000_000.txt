@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2020
+Geschäftszahl
+7Ob202/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei ***** G***** e.V. in Liquidation, *****, vertreten durch Mag. Florian Kreiner, Rechtsanwalt in Wien, gegen die beklagte Partei A***** SE, *****, vertreten durch Dorda Rechtsanwälte GmbH in Wien, wegen 250.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. September 2020, GZ 1 R 83/20p-49, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Im Frühjahr 2014 schloss der Kläger für eine Segelyacht bei einem Konsortium mehrerer Versicherer, die Beklagte ist mit einer Haftungsbeteiligung von 25 % das führende Versicherungsunternehmen, unter anderem einen Kaskoversicherungsvertrag ab, dem unter anderem die P*****-Yacht-Kasko-Bedingungen (PYKB) (71006/AT/0910) zugrundeliegen. Sie lauten auszugsweise:
+„§ 10 Obliegenheiten im Versicherungsfall
+...
+2. Der Versicherungsnehmer ist verpflichtet, aus eigener Initiative alle zumutbaren Maßnahmen zu ergreifen, die zur Abwendung und Minderung des Schadens als geeignet in Betracht kommen. Wenn der Versicherer hierzu Weisungen gibt, hat der Versicherungsnehmer diese Weisungen zu befolgen.
+...
+4. Wird eine der in Nummer 1 bis Nummer 3 genannten Obliegenheiten verletzt, ist der Versicherer nach Maßgabe der gesetzlichen Bestimmungen (insbesondere §§ 6, 62 VersVG) von der Verpflichtung zur Leistung frei.
+§ 11 Zahlung der Entschädigung
+...
+2. In allen Fällen der Entwendung, einschließlich des Falls betrügerischer Aneignung tritt Fälligkeit der Entschädigungsleistung frühestens zwei Monate ab Schadensmeldung ein. Wird der Verbleib entwendeter Sachen ermittelt, ist der Versicherungsnehmer nur dann verpflichtet, die Sachen wieder zu übernehmen, wenn zwischen der Schadenmeldung und dem Zeitpunkt, in dem der Versicherungsnehmer die Sachen wieder in seine Verfügung bringen kann, ein Zeitraum von nicht mehr als zwei Monaten verstrichen ist.
+...“
+Rechtliche Beurteilung
+[2] 		1.1 Nach § 62 VersVG ist der Versicherungsnehmer verpflichtet, bei Eintritt des Versicherungsfalls den Schaden möglichst abzuwenden oder zu mindern. Er hat unter gewissen Voraussetzungen Anspruch auf Ersatz des Rettungsaufwands durch den Versicherer. Mit dem Beginn des Ereignisses, das in seiner Folge wahrscheinlich den Schaden herbeiführen wird, beginnt die Abwendungs- und Minderungspflicht (RS0080451 [T3]). Die Rettungspflicht gilt zeitlich unbeschränkt, solange der Schaden abgewendet oder gemindert oder der Umfang der Entschädigung gemindert werden kann. Sie verlangt inhaltlich vom Versicherungsnehmer, die ihm in der jeweiligen Situation möglichen und zumutbaren Rettungsmaßnahmen (RS0080649 [T1]) unverzüglich und mit der im Verkehr erforderlichen Sorgfalt zu ergreifen (RS0080649 [T2]). Der Inhalt der Rettungspflicht bestimmt sich danach, wie sich der Versicherungsnehmer verständigerweise verhalten hätte, wenn er nicht versichert wäre (RS0080439).
+[3] 		1.2 Der Versicherer hat den Verstoß gegen die Obliegenheit, der Versicherungsnehmer das Fehlen von Vorsatz und grober Fahrlässigkeit zu beweisen. Misslingt dem Versicherungsnehmer dieser Beweis, so muss er nachweisen, welcher Teil des Schadens mit Sicherheit auch bei korrektem Verhalten entstanden wäre (RS0043510).
+[4] 		1.3 Die Beurteilung der Vorinstanzen, dass die Beklagte bereits aufgrund der Verletzung der Rettungsobliegenheit nach § 62 VersVG leistungsfrei sei, ist nicht zu beanstanden. Die kaskoversicherte Yacht wurde nämlich bereits zwei Tage nach ihrer Entwendung von der spanischen Küstenwache in der Nähe von M***** gesichtet, und vom Kontaktmann der Schadensabwicklerin der Beklagten in Algerien weitere zwei Tage später in Empfang genommen und in den nächstgelegenen (Militär-)Hafen in C***** gebracht. Trotz mehrmaliger Hinweise, dass die algerischen Behörden massiv auf ein Verbringen der Yacht aus dem Militärhafen drängten und daher schnellstmöglich ein Rückführungsauftrag erteilt werden möge, unterblieb aufgrund von vereinsinternen Streitigkeiten über die Finanzierung der – unbestritten nicht von der Beklagten zu deckenden – Rückholkosten die Einleitung von Rückführmaßnahmen. Es ist nicht zweifelhaft, dass ein Unversicherter – insbesondere unter Berücksichtigung des behaupteten Werts der Yacht von 300.000 EUR und der Rückholkosten von 14.701,05 EUR – nicht untätig geblieben wäre, zumal der Kontaktmann bereits kurz nach Auffinden der Yacht darauf hinwies, dass er diese innerhalb von zwei Wochen, daher innerhalb der Frist des Art 11.2 PYKB, von den algerischen Behörden übernehmen könne. Nun ist ihr Aufenthaltsort unbekannt.
+[5] 		1.4 Der Kläger hat auch den Entschuldungsbeweis nicht erbracht. Die Rückstellung durch den ohnedies in Algerien ansässigen Kontaktmann hätte die Anwesenheit der Organe des Klägers in Algerien trotz Reisewarnungen nicht erfordert. Es steht auch nicht fest, dass trotz unverzüglicher Angebotseinholung und Auftragserteilung die Yacht nicht innerhalb der Frist des Art 11.1 PYKB nach Europa gebracht hätte werden können, sodass der Kläger auch den Beweis nicht erbrachte, dass der Schaden bei korrektem Verhalten nicht entstanden wäre.
+[6] 		2. Erweist sich aber bereits die Bejahung der Leistungsfreiheit der Beklagten nach § 62 VersVG als nicht korrekturbedürftig, erübrigt sich ein Eingehen auf die weiter relevierten Rechtsfragen.
+[7] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00202.20M.1217.000

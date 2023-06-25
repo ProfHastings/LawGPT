@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2019
+Geschäftszahl
+4Ob224/19y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Parteien 1. C*****, 2. C***** GmbH, beide *****, vertreten durch Ruggenthaler, Rest & Borsky Rechtsanwälte OG in Wien, gegen die beklagten Parteien 1.B***** GmbH, 2. Mag. E***** B*****, beide *****, vertreten durch Ing. Mag. Armin Mayerhofer, LLB., Rechtsanwalt in Wien, wegen Unterlassung und Herausgabe (Streitwert im Provisorialverfahren 50.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 30. Oktober 2019, GZ 133 R 91/19h, 133 R 92/19f-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen wiesen den Sicherungsantrag der klagenden Parteien ab, wonach den Beklagten die Verwendung, Weitergabe oder Löschung der Domain dieselklage.at verboten werden sollte, hilfsweise sie für schuldig erkannt werden sollten, den Klägern die Administratorendaten „sicherungsweise“ herauszugeben.
+Dagegen zeigen die Kläger in ihrem außerordentlichen Revisionsrekurs keine erheblichen Rechtsfragen auf.
+Rechtliche Beurteilung
+1. Ob nach den im Einzelfall gegebenen Umständen Wiederholungsgefahr besteht, ist keine erhebliche Rechtsfrage im Sinn des § 528 Abs 1 ZPO (RIS-Justiz RS0042818). Mit dem Unterlassungsbegehren (Hauptsicherungsbegehren) wollen die Kläger verhindern, dass die Beklagten oder Dritte eine Website mit der Domain dieselklage.at verwenden oder löschen. Das ist bisher nie geschehen. Es steht fest, dass die entsprechende Website inaktiv gestellt wurde, das auch so bleiben soll und nichts weiter damit geplant ist. Die Verneinung einer Wiederholungsgefahr (bzw Erstbegehungsgefahr) durch das Rekursgericht ist jedenfalls vertretbar und bedarf keiner Korrektur durch gegenteilige Sachentscheidung.
+2. Hinsichtlich des auf „Herausgabe“ der Zugriffsdaten gerichteten Eventualbegehrens stützte das Rekursgericht die Antragsabweisung auf fehlendes Vorbringen zur Anspruchsgefährdung.
+2.1 Die Beurteilung des Rekursgerichts, es bedürfe bei dem auf ein positives Tun (nicht aber Unterlassung und/oder Beseitigung) gerichteten Eventualbegehren einer Gefahrbescheinigung, auch insoweit sich die Kläger auf UWG stützen, deckt sich mit der Judikatur (4 Ob 188/17a [zu einem auf die Erteilung einer Nutzungsbewilligung gerichteten Sicherungsantrag]).
+2.2 Die Unwiederbringlichkeit eines Schadens im Sinne des § 381 Z 2 EO ist grundsätzlich nach den Umständen des jeweiligen Einzelfalls zu beurteilen (RS0005270 [T5]). Das gilt auch für die Frage, ob die behauptungspflichtige gefährdete Partei dazu ein ausreichendes Vorbringen erstattet hat (RS0042828). Bei Angriffen auf den wirtschaftlichen Ruf ist neben der Behauptung im Antrag eine Gefahrenbescheinigung nur dann entbehrlich, wenn nach der Art und Intensität des Eingriffs im konkreten Einzelfall nach der Lebenserfahrung, prima-facie, auf eine Gefährdung des überdies in Geld nicht zur Gänze wiedergutzumachenden wirtschaftlichen Rufs geschlossen werden kann (RS0102054). Dabei hängt es von den Umständen des Einzelfalls ab, ob der in Geld nicht zur Gänze wiedergutzumachende (wirtschaftliche) Ruf gefährdet ist (RS0102054 [T1]). Zu einem befürchteten Ausfall von Kunden (vgl RS0113106) oder zu sonstigen Umständen zum Imageverlust findet sich kein Vorbringen. Ein solcher ist auch nicht offenkundig.
+2.3 Eine erhebliche Rechtsfrage wird im Zusammenhang mit der Gefahrbescheinigung auch nicht mit den im Rechtsmittel zum Namensrecht ergangenen Entscheidungen geltend gemacht. Die Revisionsrekurswerber übersehen hier, dass Domainbezeichnungen nur dann Schutz nach § 43 ABGB genießen, wenn sie einen Namen enthalten oder namensmäßig anmuten (RS0113105). Dies setzt originäre oder durch Verkehrsgeltung erworbene Unterscheidungskraft voraus (4 Ob 197/10i). Ersteres liegt im Anlassfall bei der rein beschreibenden Bezeichnung dieselklage.at nicht vor, Letzteres wurde nicht behauptet.
+2.4 Schon mangels bescheinigter Anpruchsgefährdung hängt der Sicherungsantrag nicht von der Frage ab, ob § 9 Abs 1 RAO überhaupt die Grundlage eines mit eV zu sichernden Anspruchs der Kläger gegenüber den Beklagten bilden kann. Die in diesem Fall gerügte Aktenwidrigkeit zum Vertretungsverhältnis der Beklagten ist daher nicht relevant (RS0043367 [T1]), weshalb die Zulässigkeit des Rechtsmittels auch darauf nicht gestützt werden kann.
+3. Aufgrund der vertretbar verneinten Wiederholungsgefahr (Hauptbegehren) bzw Anspruchsgefährdung (Eventualbegehren) werfen auch die Ausführungen im Rechtsmittel zum Behinderungswettbewerb bzw zur Passivlegitimation des Zweitbeklagten keine erheblichen Rechtsfragen auf (vgl RS0088931).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00224.19Y.1219.000

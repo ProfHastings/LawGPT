@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2022
+Geschäftszahl
+4Ob75/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei B* GmbH, *, vertreten durch Maggi Kathollnig RechtsanwaltsGmbH-Studio Legale in Klagenfurt am Wörthersee, gegen die beklagte Partei B* Gesellschaft mbH, *, vertreten durch Dr. Werner Mecenovic, Rechtsanwalt in Graz, wegen 45.461,11 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 24. Februar 2022, GZ 2 R 20/22m-36, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin begehrte von der Beklagten 39.274,27 EUR aus einer Pönalevereinbarung im Zusammenhang mit der Errichtung einer Wohnanlage, sowie 6.186,84 EUR wegen der vertragswidrigen Nichterrichtung von Lager-Freizeitboxen.
+[2] 		Die Vorinstanzen gaben der Klage mit 39.274,27 EUR statt und wiesen das Mehrbegehren von 6.186,84 EUR ab.
+[3] 		Das Berufungsgericht erklärte die ordentliche Revision für nicht zulässig.
+[4] 		Mit ihrer außerordentlichen Revision macht die Beklagte unter dem Titel der Mangelhaftigkeit des Berufungsverfahrens geltend, dass das Berufungsgericht ihre Verfahrensrüge mit einer durch die Aktenlage nicht gedeckten Begründung verworfen habe und dadurch ein Mangel des Berufungsverfahrens vorliegen würde. Dem liege zugrunde, dass das Erstgericht im Sinne einer Überraschungsentscheidung die Kompensationseinwendung der Beklagten nicht berücksichtigt bzw die richterliche Anleitungspflicht verletzt habe. In der Nichtberücksichtigung der Kompensationseinrede liege auch eine unrichtige rechtliche Beurteilung.
+Rechtliche Beurteilung
+[5] 		Damit zeigt die Beklagte jedoch keine erhebliche Rechtsfrage auf. Die Revision ist daher nicht zulässig und somit zurückzuweisen.
+[6] 		1.1. Der Revisionsgrund der Aktenwidrigkeit kann für sich allein im Allgemeinen nicht das Gewicht einer erheblichen Rechtsfrage des Verfahrensrechts haben, weil er zum Tatsachenbereich gehört (RS0042762). Allerdings kann eine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO dann vorliegen, wenn dem Berufungsgericht eine Aktenwidrigkeit unterläuft, die zugleich einen Verstoß gegen § 498 Abs 1 ZPO erfüllt (RS0042155). Die Zulässigkeit der außerordentlichen Revision ist daher dann zu bejahen, wenn das Berufungsgericht im Widerspruch zur Aktenlage etwa davon ausgeht, dass die klagende Partei ein erhebliches Vorbringen nicht erstattet hat (RS0042762 [T2]).
+[7] 		1.2. Nach ständiger Rechtsprechung (RS0042963) kann eine in zweiter Instanz verneinte Mangelhaftigkeit des Verfahrens erster Instanz nicht mehr an den Obersten Gerichtshof herangetragen werden. Dies gilt nur dann nicht, wenn sich das Berufungsgericht mit einem geltend gemachten Mangel zu Unrecht nicht befasst hat (RS0043144) oder die Mängelrüge auf vom Akteninhalt abweichender Grundlage erledigt (RS0043092 [T1], RS0043166).
+[8] 		1.3. Beides ist hier nicht der Fall. Das Berufungsgericht hat sich mit dem von der Beklagten geltend gemachten Verfahrensmangel, der Verletzung der richterlichen Anleitungspflicht, befasst und diesen auf aktenmäßiger Grundlage nachvollziehbar verneint.
+[9] 		2.1. Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist eine Frage des Einzelfalls, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung keine erhebliche Bedeutung zukommt (RS0042828). Dies gilt auch für die Frage, ob hinreichend substanziiertes Vorbringen für eine prozessuale Gegenforderung erstattet wurde (RS0042828 [T14]; RS0044273 [T58]; 2 Ob 136/03v). Die Auslegung von Prozesserklärungen ist nur dann revisibel, wenn sie mit den Sprachregeln unvereinbar ist oder gegen die Denkgesetze verstößt (RS0044273 [T53]).
+[10] 		2.2. Auch das ist hier nicht der Fall. Die Beklagte hat zwar vorgebracht, dass noch ein Werklohn zu ihren Gunsten ausständig sei und sich diesbezüglich die Erhebung einer Widerklage vorbehalten. Diese Ausführungen – und auch die entsprechenden Erörterungen des Erstgerichts – standen im Zusammenhang mit der von der Klägerin als weitere Anspruchsgrundlage geltend gemachten Überbezahlung. Es begründet daher keine (grobe, vom Obersten Gerichtshof aufzugreifende) Fehlbeurteilung, wenn die Vorinstanzen dieses Vorbringen nicht als Kompensationseinrede werteten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00075.22S.0923.000

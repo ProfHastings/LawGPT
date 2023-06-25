@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2016
+Geschäftszahl
+3Ob137/16t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Mag. J*****, Rechtsanwalt in *****, als Masseverwalter im Konkurs über das Vermögen der P***** GmbH, gegen die beklagte Partei H***** GmbH, *****, vertreten durch Mag. Roman Schmied, Rechtsanwalt in St. Florian am Inn, wegen 30.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 30. März 2016, GZ 1 R 22/16k-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte zeigt in ihrer außerordentlichen Revision keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+1.
+Indem die Revisionswerberin das Unterbleiben einer Beweiswiederholung durch das Berufungsgericht als Mangelhaftigkeit des Berufungsverfahrens rügt, will sie in Wahrheit die Feststellungen der Vorinstanzen bekämpfen. Der Oberste Gerichtshof ist allerdings nicht
+Tatsacheninstanz und Fragen der Beweiswürdigung sind nicht revisibel (RIS-Justiz
+RS0042903 [T2, T7, T10]).
+2.1.
+Gemäß § 30 Abs 1 Z 1 IO kann der Insolvenzverwalter (ua) eine nach Eintritt der Zahlungsunfähigkeit oder nach dem Antrag auf Eröffnung des Insolvenzverfahrens oder in den letzten 60 Tagen vorher vorgenommene Befriedigung eines Gläubigers anfechten, wenn der Gläubiger eine Befriedigung erlangt hat, die er nicht oder nicht in der Art oder nicht in der Zeit zu beanspruchen hatte, es sei denn, dass er durch diese Rechtshandlung vor den anderen Gläubigern nicht begünstigt worden ist.
+2.2. Ob der Gläubiger iSd § 30 Abs 1 Z 1 IO die erlangte Befriedigung „in der Zeit zu beanspruchen hatte“, in der er sie erlangte, ist danach zu beantworten, ob ihm diese im Zeitpunkt der Erlangung aufgrund eines klagbaren materiell-rechtlichen Anspruchs zustand, der schon zu Beginn der im § 30 Abs 1 IO genannten kritischen Frist gegeben war. Es genügt daher nicht, wenn der Schuldner vorzeitig leisten und der Gläubiger die vorzeitige Leistung bei Gefahr des Annahmeverzugs nicht zurückweisen durfte, weil der Gläubiger in diesem Fall eben noch keinen klagbaren materiell-rechtlichen Anspruch auf die Leistung hatte (RIS-Justiz RS0064420; 3 Ob 150/15b).
+2.3. Die Rechtsansicht der Vorinstanzen, dass die Beklagte zum Zeitpunkt der vom Kläger angefochtenen, innerhalb der kritischen Frist des § 30 Abs 1 IO getätigten Zahlung vom 10. Jänner 2014 keinen klagbaren Anspruch auf Rückzahlung des der Schuldnerin gewährten Darlehens hatte, ist nicht zu beanstanden: Nach der festgestellten Vereinbarung sollte die Schuldnerin dieses zinsenlose Überbrückungsdarlehen zurückzahlen, „wenn sie wieder über ausreichende Mittel verfügt“; dies war damals aber gerade nicht der Fall, konnte sie im Jänner 2014 doch weder die Löhne ihrer Mitarbeiter noch ihre fälligen Verbindlichkeiten gegenüber dem Finanzamt und der Gebietskrankenkasse begleichen.
+3. Ein anfechtungsfestes Zug-um-Zug-Geschäft setzt – neben einer entsprechenden Vereinbarung – einen zeitlichen und ursächlichen Zusammenhang zwischen Leistung und Gegenleistung voraus (RIS-Justiz
+RS0064633). Ein Darlehen wird nicht dadurch zum Zug-um-Zug-Geschäft, dass es zeitnah (hier: knapp sechs Wochen nach seiner Zuzählung) zurückgezahlt wird.
+4.1. Die Befriedigung eines Gläubigers durch Zahlung eines Dritten aus Vermögen, das nicht in die freie Disposition des Schuldners kommen sollte oder gekommen wäre, ist im Regelfall nicht anfechtbar, weil sie sich nicht auf die Insolvenzmasse auswirkt: Durch die Rückgängigmachung der Zahlung würde nämlich zwar die eine Forderung erlöschen, eine ebenso große aber aufleben (RIS-Justiz RS0064410; 3 Ob 79/12g). Entscheidend für die Unanfechtbarkeit eines solchen „Gläubigerwechsels“ ist aber, dass die Zahlung des Dritten den Befriedigungsfonds der Gläubiger nicht beeinträchtigt hat. Dementsprechend ist die Zahlung anfechtbar, wenn der neue Gläubiger zugunsten seiner Forderung aus einer besseren Rechtsstellung heraus – etwa als Aufrechnungs- oder Absonderungsberechtigter – auf Vermögen des Schuldners zugreifen kann (RIS-Justiz RS0064410 [T2]), sich also die Position der übrigen Gläubiger verschlechtert (RIS-Justiz
+RS0064410 [T3], RS0110262).
+4.2. Die Revisionswerberin hat sich in diesem Sinn in erster Instanz auf das Vorliegen eines anfechtungsneutralen Gläubigerwechsels berufen. Allerdings können die Feststellungen nur so verstanden werden, dass sich die Position der übrigen Gläubiger durch die angefochtene Zahlung verschlechtert hat, sodass die Befriedigungstauglichkeit der Anfechtung und die Nachteiligkeit der angefochtenen Rechtshandlung zu bejahen sind.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00137.16T.0824.000

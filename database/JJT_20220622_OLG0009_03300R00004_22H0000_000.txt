@@ -1,0 +1,32 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+22.06.2022
+Geschäftszahl
+33R4/22h
+Kopf
+Das Oberlandesgericht Wien hat durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie den Richter Dr. Schober und die Kommerzialrätin Oswald in der Rechtssache der klagenden Partei D*****, vertreten durch Mag. Alexander Henker, Rechtsanwalt in Ried im Innkreis, gegen die beklagte Partei N*****, Malta, vertreten durch Dr. Fabian Alexander Maschke, Rechtsanwalt in Wien, wegen EUR 106.000 über die Berufung der klagenden Partei gegen das Urteil des Handelsgerichts Wien vom 8.11.2021, 67 Cg 24/21k-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Dem Gerichtshof der Europäischen Union wird gemäß Art 267 AEUV folgende Frage zur Vorabentscheidung vorgelegt:
+Ist Art 6 Abs 1 der Verordnung (EG) Nr 593/2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I-VO) dahin auszulegen, dass das Recht des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, dann nicht anzuwenden ist, wenn das nach Art 4 Rom I-VO anzuwendende Recht, dessen Anwendung der Kläger begehrt und das anzuwenden wäre, wenn dem Kläger die Verbrauchereigenschaft fehlen würde, für den Kläger günstiger ist?
+II. Das Berufungsverfahren wird bis zum Einlangen der Vorabentscheidung des Gerichtshofs der Europäischen Union ausgesetzt.
+Begründung
+Text
+1. Der Kläger begehrte EUR 106.000 zuzüglich Zinsen und brachte vor, er habe beim Online-Casino „[...]“, das die Beklagte von Malta aus betreibe und über ihre Homepage auch in Österreich anbiete, im Jahr 2020 diesen Betrag gewonnen und ein Guthaben in dieser Höhe angesammelt. Die Beklagte verweigere die Auszahlung des Wettgewinns.
+Die Beklagte bestritt dieses Begehren und wandte ein, der Kläger habe gegen die allgemeinen Geschäftsbedingungen verstoßen, indem er einer dritten Person den Zugriff auf sein Nutzerkonto gewährt habe. Die Beklagte habe dem Kläger den Spieleinsatz von EUR 900 zurückgezahlt.
+Dem erwiderte der Kläger, er habe keiner dritten Person den Zugriff auf sein Nutzerkonto erlaubt; vielmehr habe ihm seine Mutter die E-Mail-Adresse zur Verfügung gestellt, damit sie das Spielverhalten des Klägers kontrollieren könne. Sie habe selbst nicht gespielt. Die allgemeinen Geschäftsbedingungen seien unwirksam.
+2. Die Streitteile haben keine Rechtswahl getroffen. Das Erstgericht, das die Klage abgewiesen hat, wendete österreichisches Recht an. Der Kläger steht erkennbar auf dem Standpunkt, es sei das Recht von Malta anzuwenden. Die Beklagte hat in der Beantwortung der Berufung nichts gegen die Anwendung des österreichischen Rechts vorgetragen.
+3. Das Erstgericht wies das Klagebegehren ab. Es erwog rechtlich, dass österreichisches Recht anzuwenden sei, weil der Tatbestand des Art 6 Abs 1 lit a Rom I-VO erfüllt sei. Der Kläger habe den Status des Verbrauchers. Mangels einer Rechtswahl folge daraus die Anwendung des österreichischen Rechts.
+Wesentliches Argument für die Abweisung des Klagebegehrens war § 1271 zweiter Satz des österreichischen Allgemeinen bürgerlichen Gesetzbuchs (ABGB), der lautet wie folgt:
+«§ 1271. Redliche und sonst erlaubte Wetten sind in so weit verbindlich, als der bedungene Preis nicht bloß versprochen; sondern wirklich entrichtet, oder hinterlegt worden ist. Gerichtlich kann der Preis nicht gefordert werden.»
+Diese Bestimmung verweigere dem Kläger das Klagerecht auf den Wettgewinn (auf den Preis aus einem Glücksspiel). Das von der Beklagten angebotene Glücksspiel sei unerlaubt gewesen, weil sie nicht die in Österreich erforderliche staatliche Genehmigung für das Glücksspiel habe.
+Das Erstgericht argumentierte auch damit, § 1271 ABGB sei eine Eingriffsnormen nach Art 9 Rom I-VO.
+Rechtliche Beurteilung
+4. Das Berufungsgericht teilt die Einschätzung des Erstgerichts, dass der Kläger Verbraucher nach Art 6 Abs 1 Rom I-VO ist und dass die Voraussetzungen von Art 6 Abs 1 lit b Rom I-VO erfüllt sind. Das Berufungsgericht hat allerdings Bedenken dagegen, dass § 1271 ABGB eine Eingriffsnormen nach Art 9 Rom I-VO ist.
+Das Berufungsgericht beurteilt die maltesische Rechtslage so, dass das Hindernis des § 1271 ABGB nach maltesischem Recht nicht greifen würde; dass das maltesische Recht eine vergleichbare Norm enthielte, ist nicht erkennbar und wurde nicht behauptet.
+Die Anwendung des österreichischen Rechts gereicht dem Kläger somit im Ergebnis zu einem Nachteil, denn wenn der Kläger kein Verbraucher wäre, wäre nach Art 4 Rom I-VO maltesisches Recht unabhängig davon anzuwenden, ob die Streitteile das maltesische Recht in Form der Rechtswahl als anwendbar vereinbart haben. Hätten die Streitteile eine Rechtswahl getroffen, wäre das gewählte Recht nur dann anzuwenden, wenn dem Kläger dadurch nicht ein Schutz entzogen würde (Art 6 Abs 2 Rom I-VO). Das Fehlen einer Rechtswahl schließt nach dem Text der Rom I-VO diese Günstigkeitsprüfung aus.
+5. Mit Blick auf den Erwägungsgrund 23 der Rom I-VO ist der Gerichtshof der Europäischen Union daher mit der oben formulierten Frage zu befassen, damit die erwähnten Bestimmungen unionsweit einheitlich ausgelegt werden können.
+European Case Law Identifier
+ECLI:AT:OLG0009:2022:03300R00004.22H.0622.000

@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2014
+Geschäftszahl
+4Ob55/14p
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin Dr. Schenk als Vorsitzende und die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei M***** GmbH, *****, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. G***** GmbH, *****, 2. F***** L*****, beide vertreten durch Muhri & Werschitz Partnerschaft von Rechtsanwälten GmbH in Graz, wegen Unterlassung, Beseitigung, Urteilsveröffentlichung und Feststellung (Streitwert im Sicherungsverfahren 105.000 EUR), über die außerordentlichen Revisionsrekurse der klagenden und der beklagten Parteien gegen den Beschluss des Oberlandesgerichts Graz vom 12. Februar 2014, GZ 5 R 7/14k-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentlichen Revisionsrekurse werden gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Zum Revisionsrekurs der Klägerin:
+Widersprüchliche Feststellungen, die eine abschließende rechtliche Beurteilung nicht ermöglichen, sind Feststellungsmängel, die grundsätzlich eine erhebliche Rechtsfrage begründen (RIS-Justiz RS0042744) und zur Aufhebung in die erste Instanz führen müssen (4 Ob 145/11v). Ein solcher Fall liegt hier aber nicht vor, weil der von der Klägerin unterstellte Zusammenhang zwischen der Aufforderung zur Preisgabe von Betriebsgeheimnissen und dem Anstellen von ehemaligen Mitarbeitern der Klägerin nicht logisch zwingend ist. Wenn das Erstgericht aufgrund der besonderen Umstände des Einzelfalls einen solchen Zusammenhang verneint, ist das eine im Revisionsrekursverfahren nicht aufgreifbare Frage der Beweiswürdigung. Dieser fehlende Zusammenhang unterscheidet den hier zu beurteilenden Sachverhalt auch von jenem, der der Entscheidung 4 Ob 374/86 zugrunde lag.
+2. Zum Revisionsrekurs der Beklagten:
+Betriebsgeheimnisse sind Tatsachen und Erkenntnisse kommerzieller oder technischer Art, die bloß einer bestimmten und begrenzten Zahl von Personen bekannt sind, nicht über diesen Kreis hinausdringen sollen und an deren Geheimhaltung ein wirtschaftliches Interesse besteht (RIS-Justiz RS0079599, vgl auch RS0079583). Der Geheimhaltungswille kann nicht nur ausdrücklich erklärt werden, sondern sich auch aus den Umständen ergeben; es genügt, dass sich ein durchschnittlicher Beschäftigter über diesen Willen klar sein muss (RIS-Justiz RS0079599 [T1]). Die Auffassung der Vorinstanzen, dass diese Bedingung bei Produktionslisten und Aufzeichnungen über Besprechungen anlässlich einer Ausschreibung zutrifft, ist jedenfalls vertretbar. Dass sich allenfalls mehr Mitarbeiter als unbedingt notwendig über den Unternehmensserver Zugang zu diesen Daten verschaffen konnten, ändert an dieser Beurteilung nichts, musste doch auch ihnen bewusst sein, dass jedenfalls eine Weitergabe nach außen unzulässig wäre.
+Anhaltspunkte für ein mögliches unlauteres Verhalten hatte die Klägerin frühestens mit der Behauptung eines ausscheidenden Mitarbeiters, die Daten auf seinem Dienstcomputer seien verloren gegangen. Einer dadurch allenfalls begründeten Nachforschungsobliegenheit (vgl RIS-Justiz RS0079945) kam die Klägerin durch die Veranlassung einer datenforensischen Untersuchung nach; nach Einlangen des Ergebnisses erhob sie innerhalb von sechs Monaten Klage. Auf dieser Grundlage ist die Annahme der Vorinstanzen, dass die Unterlassungsansprüche nicht verjährt seien, nicht zu beanstanden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00055.14P.0520.000

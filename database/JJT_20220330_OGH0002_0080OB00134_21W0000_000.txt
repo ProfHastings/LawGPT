@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8Ob134/21w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Mag. Korn, Dr. Stefula und Dr. Thunhart als weitere Richter in der Insolvenzsache der Schuldnerin J* Privatstiftung, *, über den außerordentlichen Revisionsrekurs der Schuldnerin gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 24. September 2021, GZ 6 R 134/21a-52, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 528 Abs 1 ZPO iVm § 252 IO zurückgewiesen.
+Text
+Begründung:
+[1] 		Mit Beschluss vom 6. 8. 2021 genehmigte das Erstgericht einen vom Masseverwalter abgeschlossenen Vergleich zur Bereinigung allfälliger Schadenersatzansprüche sowie der Ansprüche aus unzulässiger Einlagenrückgewähr.
+[2] 		Das Rekursgericht wies den Rekurs der Schuldnerin gegen diesen Beschluss als unzulässig zurück. Es beurteilte den Wert des Entscheidungsgegenstands mit 30.000 EUR übersteigend und sprach aus, dass der ordentliche Revisionsrekurs nicht zulässig ist.
+[3] 		Gegen diesen Beschluss wendet sich der außerordentliche Revisionsrekurs der Schuldnerin mit dem Antrag, den Beschluss dahingehend abzuändern, dass „der vom Insolvenzverwalter abgeschlossene Vergleich nicht genehmigt wird“ in eventu wird ein Aufhebungsantrag gestellt.
+Rechtliche Beurteilung
+[4] 		Der Revisionsrekurs ist mangels Vorliegens einer Rechtsfrage von erheblicher Bedeutung nicht zulässig.
+[5] 		1. Nach ständiger Rechtsprechung ist das Rechtsmittel gegen einen Beschluss des Gerichts zweiter Instanz auf Zurückweisung eines Rekurses ein Revisionsrekurs iSd § 528 ZPO, der nur unter dessen Voraussetzungen anfechtbar ist. Die Anfechtbarkeit eines solchen Beschlusses setzt damit jedenfalls auch das Vorliegen einer erheblichen Rechtsfrage voraus (RIS-Justiz RS0044501).
+[6] 		2. § 117 IO zählt die genehmigungspflichtigen Geschäfte taxativ auf. Andere als diese Geschäfte sind daher nicht genehmigungspflichtig (8 Ob 89/14t mwN). Unstrittig liegt ein solches genehmigungspflichtiges Rechtsgeschäft hier nicht vor.
+[7] 		3. Nach § 116 Abs 1 Z 1 IO hat der Insolvenzverwalter dem Insolvenzgericht mindestens acht Tage im Vorhinein zusammen mit der Äußerung des Gläubigerausschusses den Abschluss von Vergleichen mitzuteilen. Dieser Mitteilung bedarf es nicht, wenn der Wert 100.000 Euro nicht übersteigt (Abs 2).
+[8] 		Das Gericht kann das Vorhaben des Insolvenzverwalters durch eine Weisung untersagen. Diese ist nach § 84 Abs 3 IO unanfechtbar. Hält das Gericht die in Aussicht genommene Maßnahme für unbedenklich, hat es keine positive Weisung zu erteilen. Diese ist überflüssig (Jelinek in KLS § 116, Rz 5).
+[9] 		4. Dessen ungeachtet hat das Erstgericht den Vergleichsabschluss durch den Masseverwalter „genehmigt“ oder anders ausgedrückt keine gegenteilige Weisung erteilt. Gegen eine in Beschlussform ergehende Weisung des Insolvenzgerichts an den Insolvenzverwalter gemäß § 84 Abs 1 IO ist ein Rekurs gemäß § 84 Abs 3 IO nicht zulässig (RS0124961; RS0065165). Für die lediglich zur Klarstellung ausgesprochene Nichterteilung einer Weisung kann nichts anderes gelten (vgl zuletzt 8 Ob 85/15f).
+[10] 		5. Die Beurteilung des Rekursgerichts, nach der hier die Schuldnerin eine unterbliebene Weisung an den Insolvenzverwalter bekämpft und daher der Rechtsmittelausschluss des § 84 Abs 3 IO gilt, ist daher nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00134.21W.0330.000

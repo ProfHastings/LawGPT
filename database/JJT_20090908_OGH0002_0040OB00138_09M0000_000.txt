@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.09.2009
+Geschäftszahl
+4Ob138/09m
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Schenk als Vorsitzende und die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei Karin R*****, vertreten durch Höhne, In der Maur & Partner, Rechtsanwälte in Wien, gegen die beklagte Partei Hajo F*****, vertreten durch Prochaska Heine Havranek Rechtsanwälte GmbH in Wien, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 33.600 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 12. Juni 2009, GZ 30 R 53/08x20, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die zur Anwendung österreichischen Sachrechts führende Auffassung des Rekursgerichts, das österreichische IPR berufe bei Persönlichkeitsrechtsverletzungen im Internet das Recht des (dh jedes) Staates, in dem die beanstandete Website abgerufen werden könne, ist nicht entscheidungserheblich. Knüpft man statt dessen am Recht jenes Staates an, in dem das beanstandete Verhalten gesetzt wurde, so verweist das österreichische IPR im vorliegenden Fall auf belgisches Recht. Dabei handelt es sich nach § 5 Abs 1 IPRG um eine Gesamtverweisung, sodass zunächst zu prüfen ist, ob das belgische Kollisionsrecht die Verweisung annimmt.
+Nach Art 99 Abs 2 Z 1 des belgischen Code de droit international privé hat der Geschädigte bei Persönlichkeitsrechtsverletzungen die Wahl zwischen dem Recht des Staates, in dem das schädigende Verhalten gesetzt wurde oder gesetzt zu werden droht, und dem Recht jenes Staates, in dem der Schaden eingetreten ist oder einzutreten droht; die Wahl des Rechts des Erfolgsortstaats ist ausgeschlossen, wenn der Schädiger nicht vorhersehen konnte, dass der Schaden dort eintreten würde.
+Im vorliegenden Fall ist der (behauptete) Schaden am Wohnort der Klägerin in Österreich eingetreten, was für den Beklagen zweifellos vorhersehbar war. Die Klägerin stützte sich zur Begründung ihres Anspruchs ausdrücklich auf § 1330 ABGB und § 78 UrhG. Damit hat sie ihr Wahlrecht nach Art 99 Abs 2 Z 1 des belgischen Code de droit international privé ausgeübt. Die Vorinstanzen haben daher im Ergebnis zutreffend österreichisches Recht angewendet.
+In der Sache liegt keine erhebliche Rechtsfrage vor (§ 528a ZPO iVm § 510 Abs 3 ZPO).

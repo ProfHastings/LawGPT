@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.05.1950
+Geschäftszahl
+4Ob10/50
+Norm
+ABGB §1438;
+Verwaltergesetz 1946 §13;
+ZPO §391;
+Kopf
+SZ 23/149
+Spruch
+Die Tatsache, daß das Prozeßgericht für die Gegenforderung unzuständig ist, hindert die Aufrechnung im Prozeß nicht. Gegenforderungen, die nicht auf den Rechtsweg gehören, können jedoch im Zivilprozeß nicht liquidiert werden.
+Entscheidung vom 15. Mai 1950, 4 Ob 10/50.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Kläger hatte vor dem Arbeitsgericht dienstrechtliche Ansprüche geltend gemacht, wogegen die beklagte Partei eine Gegenforderung aus dem Gründe aufrechnete, weil der Kläger die Verwaltung des Betriebes unsachlich und fahrlässig durchgeführt habe.
+Das Erstgericht hatte die Gegenforderung als nicht zu Recht bestehend erkannt, das Berufungsgericht hat sie für nicht aufrechenbar erklärt, weil das Erstgericht zur Entscheidung über eine solche Schadenersatzforderung von 37.000 S nicht zuständig gewesen sei.
+Der Oberste Gerichtshof hat zwar der Revision nicht Folge gegeben, aber in den Entscheidungsgründen ausgeführt:
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Was die Gegenforderung von 37.946.14 S betrifft, die aus der völlig unsachlich, direkt fahrlässig geführten öffentlichen Verwaltung abgeleitet wird, vermag der OGH. die Ansicht des Berufungsgerichtes, daß das Arbeitsgericht zur Entscheidung dieses Schadenersatzanspruches nicht zuständig sei, nicht zu teilen. Nur dann, wenn die aufzurechnende Gegenforderung nicht auf den Rechtsweg gehört, kann sie im Rechtsweg nicht liquidiert werden. Die Tatsache, daß das Prozeßgericht für die Gegenforderung unzuständig ist, hindert das aufrechnungsweise Geltendmachen nicht (vgl. Bettelheim in Klangs Kommentar zu § 1438 ABGB.). Das Erstgericht hat sich auch mit der Gegenforderung sachlich befaßt und sie als nicht zu Recht bestehend erklärt.
+Dennoch liegt der Revisionsgrund der Mangelhaftigkeit des Berufungsurteiles nicht vor, weil die Behauptung der beklagten Partei über die Gegenforderung nicht ausreichend substantiiert ist. Nach § 13 Abs. 1 des Verwaltergesetzes 1946 haftet der öffentliche Verwalter für den Schaden, der aus schuldhafter Pflichtverletzung entstanden ist. Dem Kläger wird von der beklagten Partei nur geschäftlicher Mißerfolg vorgeworfen. Ein geschäftlicher Mißerfolg muß jedoch nicht auf schuldhafte Pflichtverletzung zurückgehen.

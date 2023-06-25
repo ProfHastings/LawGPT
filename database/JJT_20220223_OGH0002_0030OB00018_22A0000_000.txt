@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2022
+Geschäftszahl
+3Ob18/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei B* M*, vertreten durch Dr. Andreas Fink und Dr. Christopher Fink, Rechtsanwälte in Imst, gegen die beklagte Partei S* M*, vertreten durch Dr. Ewald Jenewein, Rechtsanwalt in Innsbruck, wegen 125.000 EUR sA und Feststellung, über die außerordentliche Revision und den Rekurs der beklagten Partei gegen das Teil- und Zwischenurteil und den Aufhebungsbeschluss des Oberlandesgerichts Innsbruck als Berufungsgericht vom 1. Dezember 2021, GZ 10 R 48/21s-29, den
+Beschluss
+gefasst:
+Spruch
+I. Der in der Revision enthaltene Rekurs gegen den Aufhebungsbeschluss des Berufungsgerichts wird zurückgewiesen.
+II. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Gegenstand des zugrunde liegenden Kaufvertrags vom 29. 3. 2012 ist die Veräußerung einer Liegenschaft samt Gästehaus. Die von der Klägerin (als Käuferin) geltend gemachten Ansprüche beziehen sich auf die zu geringe Anzahl der (zugesagten) Parkplätze und das Fehlen der Baubewilligung für die Sauna und den Lagerraum.
+[2] 		Soweit für das Revisionsverfahren von Bedeutung hat das Berufungsgericht mit seinem Teil- und Zwischenurteil
+- die Gewährleistungsansprüche (Zahlungsbegehren) in Bezug auf die Anzahl der Parkplätze dem Grunde nach bejaht (Pkt 1 der Klage und des Spruchs) und
+- das Urteil des Erstgerichts (Abweisung des Feststellungsbegehrens) zu den Gewährleistungsansprüchen in Bezug auf die fehlende Baubewilligung für die Sauna und den Lagerraum aufgehoben (Pkt 2b der Klage).
+[3] 		Auf den Liegenschaftskaufvertrag ist unstrittig das ABGB-Gewährleistungsrecht idF des GewRÄG 2001 anzuwenden.
+Zu I.:
+Rechtliche Beurteilung
+[4] 		Der im Rechtsmittel der Beklagten enthaltene Rekurs gegen den Aufhebungsbeschluss des Berufungsgerichts (bekämpft wird die Zulässigkeit der Feststellungsklage zu Pkt 2b der Klage) ist absolut unzulässig:
+[5] 		Nach § 519 Abs 1 Z 2 ZPO ist gegen einen Beschluss der zweiten Instanz, mit dem ein erstinstanzliches Urteil aufgehoben und dem Erstgericht eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wurde, der Rekurs nur dann zulässig, wenn das Berufungsgericht dies ausgesprochen hat (RS0043898). Dies gilt auch dann, wenn das Berufungsgericht mit seiner Entscheidung einen Teil des erstgerichtlichen Urteils bestätigt oder abändert, einen anderen Teil dieser Entscheidung aufhebt und die Rechtssache in diesem Umfang an das Erstgericht zurückverweist (RS0043854).
+[6] 		Im Anlassfall ist ein Ausspruch des Berufungsgerichts, dass gegen den Aufhebungsbeschluss der Rekurs an den Obersten Gerichtshof zulässig sei, nicht erfolgt. Der in der Revision enthaltene Rekurs ist daher unzulässig und zurückzuweisen.
+Zu II.:
+[7] 		In ihrer außerordentlichen Revision gegen das Zwischenurteil des Berufungsgerichts dem Grunde nach (Pkt 1 des Spruchs), die sich gegen die Qualifikation der zu geringen Anzahl an Parkplätzen als Rechtsmangel wendet, zeigt die Beklagte keine erhebliche Rechtsfrage auf:
+[8] 		1. Wer einem anderen eine Sache gegen Entgelt überlässt, leistet Gewähr dafür, dass sie dem Vertrag entspricht. Er haftet also dafür, dass die Sache die zugesicherten oder gewöhnlich vorausgesetzten Eigenschaften aufweist, dass sie seiner Beschreibung, einer Probe oder einem Muster entspricht und dass sie der Natur des Geschäfts oder der getroffenen Vereinbarung gemäß verwendet werden kann. Eine Leistung ist dann mangelhaft, wenn sie qualitativ oder quantitativ hinter dem vertraglich Geschuldeten zurückbleibt. Der geschuldete Vertragsgegenstand wird durch die gewöhnlich vorausgesetzten oder die ausdrücklich oder stillschweigend zugesicherten Eigenschaften bestimmt (RS0018547 [T5]; 1 Ob 166/20y).
+[9] 		Sach- und Rechtsmängel werden grundsätzlich gleich behandelt (RS0018480). Sachmängel sind Beeinträchtigungen der Substanz, wie zB Beschädigungen oder Beeinträchtigungen der Funktionalität. Ein Rechtsmangel liegt dagegen dann vor, wenn der Veräußerer dem Erwerber nicht die Rechtsposition verschafft, die er ihm nach dem Vertrag hätte verschaffen müssen. Darunter fallen privatrechtliche Nachteile, wie etwa bücherliche oder außerbücherliche Lasten oder sonstige Rechte Dritter, wodurch dem Käufer nicht das nach dem Vertrag vorgesehene Recht (uneingeschränkt) verschafft wird, sowie auch öffentlich-rechtliche Nachteile, wie etwa das Fehlen einer bau- oder gewerbebehördlichen Bewilligung (5 Ob 119/19i; vgl auch 7 Ob 184/03i; 3 Ob 5/07t). Bei Rechtsmängeln beginnt die Gewährleistungsfrist nicht mit dem Tag der Ablieferung der Sache, sondern erst mit dem Tag, an dem der Mangel dem Übernehmer bekannt wird (5 Ob 119/19i). Die Beweislast für geltend gemachte Sach- und Rechtsmängel trifft grundsätzlich den Erwerber (RS0018553; RS0018687 [T3]).
+[10] 		2.1 Im Anlassfall hat die Beklagte bei der Besichtigung des Kaufgegenstands über Frage der Käuferseite bestätigt, dass sich auf der Kaufliegenschaft neun Parkplätze befinden, die zum Zeitpunkt der Besichtigung durch eine Beschilderung als solche gekennzeichnet waren. Das vom Berufungsgericht erzielte Auslegungsergebnis, die Beklagte habe damit die Anzahl der auf der Liegenschaft befindlichen Parkplätze ausdrücklich zugesichert, steht mit den Auslegungsgrundsätzen im Einklang.
+[11] 		2.2 Mit dieser Zusicherung brachte die Beklagte für einen redlichen Erklärungsempfänger zum Ausdruck, dass sich das Liegenschaftseigentum auf alle neun Parkplätze erstreckt und diese Parkplätze vom neuen Liegenschaftseigentümer uneingeschränkt genutzt werden können. Tatsächlich befinden sich fünf dieser Parkplätze zum Teil auf öffentlichem Grund, wobei die Gemeinde ihre Rechte an den konsenswidrig in Anspruch genommenen Parkflächen bereits wiederholt (mit Bescheid vom 27. 2. 1996 gegenüber der Beklagten und mit Schreiben vom 20. 9. 2017 gegenüber der Klägerin) geltend gemacht hat.
+[12] 		2.3 Da diese Flächen – entgegen der ausdrücklichen Zusage der Beklagten – nicht in das unbeschränkte Eigentum der Käuferin übertragen wurden, hält sich die berufungsgerichtliche Qualifikation der zu geringen Anzahl an Parkplätzen als Rechtsmangel im Rahmen der Rechtsprechungsgrundsätze.
+[13] 		3. Auf die Leistungsfreiheit nach § 928 Satz 1 ABGB kann sich die Beklagte schon deshalb nicht berufen, weil sie der Klägerin die Unbeschränktheit des Eigentums an allen neun Parkplätzen – noch dazu ausdrücklich – zugesichert hat (vgl RS0014140; vgl auch RS0018512).
+[14] 		4. Da es der Beklagten mit ihren Ausführungen somit nicht gelingt, eine erhebliche Rechtsfrage aufzuzeigen, war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00018.22A.0223.000

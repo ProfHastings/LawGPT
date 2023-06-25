@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.01.2011
+Geschäftszahl
+6Ob255/10h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei E*****, vertreten durch Dr. Christian Leskoschek, Rechtsanwalt in Wien als Verfahrenshelfer, gegen die beklagte Partei U***** AG, *****, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH in Wien, wegen 343.787,84 EUR sA, Feststellung (Streitwert 3.000 EUR) und Löschung (Streitwert 3.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Juni 2010, GZ 4 R 351/09f-24, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Das Berufungsgericht hat sich mit der Beweisrüge des Klägers zur Negativfeststellung betreffend die Vornahme der Eintragung in die Warnliste auseinandergesetzt und nachvollziehbare Überlegungen angestellt, sodass die Entscheidung darüber mit Revision nicht mehr angefochten werden kann (RIS-Justiz RS0043268 [T4]; RS0043371 [T21]). Soweit der Kläger unterstellt, die Eintragung in die Warnliste sei von der Beklagten vorgenommen worden, geht die Rechtsrüge nicht vom festgestellten Sachverhalt aus und ist daher insoweit nicht gesetzmäßig ausgeführt (RIS-Justiz RS0043312 [T12]).
+2.1. Soweit der Kläger aus der Verwendung des Begriffs „Dienstleister“ durch die Beklagte in der Klagebeantwortung ableitet, diese hafte iSd § 33 Abs 1 DSG, weil sie als Dienstleisterin Daten schuldhaft verwendet habe, ist ihm die Begriffsbestimmung des § 4 Z 5 DSG entgegenzuhalten. Danach sind Dienstleister natürliche oder juristische Personen, Personengemeinschaften oder Organe einer Gebietskörperschaft bzw die Geschäftsapparate solcher Organe, wenn sie Daten (nur) zur Herstellung eines ihnen aufgetragenen Werkes verwenden. Damit sind primär Dienstleister erfasst, die Dienstleistungen iSd § 153 GewO erbringen, also Gewerbetreibende, die zur Ausübung eines Gewerbes der Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik berechtigt sind (Dohr/Pollirer/Weiss, DSG2 § 4 Anm 6). Der Begriff „Verwendung“ erfasst dabei sowohl das Verarbeiten als auch das Übermitteln von Daten iSd § 4 Z 8 DSG. § 4 Z 12 DSG definiert das Übermitteln von Daten als die Weitergabe von Daten einer Datenanwendung an andere Empfänger als den Betroffenen, den Auftraggeber oder einen Dienstleister.
+2.2. Ein ausdrückliches (§ 266 ZPO) oder schlüssiges  (§ 267 ZPO) Zugeständnis der Beklagten, sie habe ihr vom Auftraggeber zur Herstellung eines aufgetragenen Werkes überlassene Daten in diesem Sinne als Dienstleister verwendet (§ 4 Z 5 DSG), ist dem Prozessvorbringen der Beklagten auch nicht ansatzweise zu entnehmen.
+2.3. Im Übrigen würde die Missachtung eines Tatsachengeständnisses lediglich einen Mangel des Verfahrens erster Instanz begründen (RIS-Justiz RS0040118). Unterbleibt eine entsprechende Rüge im Berufungsverfahren, kann ein solcher Mangel in dritter Instanz nicht mehr bekämpft werden (RIS-Justiz RS0043111).  Vor allem aber übersieht der Kläger, dass er im Verfahren erster Instanz  kein Vorbringen in diese Richtung erstattet hat. Aus diesem Grund stellt das Fehlen entsprechender Feststellungen auch keine (sekundäre) Mangelhaftigkeit des Verfahrens dar (vgl E. Kodek in Rechberger, ZPO3 § 496 Rz 4).
+3. Zusammenfassend bringt der Kläger somit keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass die Revision spruchgemäß   zurückzuweisen war.

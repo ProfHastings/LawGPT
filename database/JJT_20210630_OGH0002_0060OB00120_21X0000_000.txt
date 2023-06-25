@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.2021
+Geschäftszahl
+6Ob120/21x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Mag. A*, vertreten durch Brauneis Klauser Prändl Rechtsanwälte GmbH in Wien, gegen die beklagte Partei Ö* Aktiengesellschaft, *, vertreten durch Wolf Theiss Rechtsanwälte GmbH & Co KG, wegen 2.500 EUR sA und Erteilung einer Auskunft nach Art 15 DSGVO im Verfahren über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. März 2021, GZ 16 R 18/21s-18, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 27. November 2020, GZ 25 Cg 56/19t-13, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren 6 Ob 120/21x wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über die Vorabentscheidungsersuchen vom 18. 2. 2021, AZ 6 Ob 159/20f, und vom 15. 4. 2021, AZ 6 Ob 35/21x, unterbrochen.
+Nach Vorliegen dieser Vorabentscheidungen wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+[1] 		Die Klägerin bringt im Wesentlichen vor, sie habe an die Beklagte am 17. 5. 2019 einen auf Art 15 Abs 1 DSGVO gestützten Antrag auf Auskunft gestellt. Diese Auskunft sei entgegen Art 12 Abs 1 Satz 1 DSGVO nicht in verständlicher Form erteilt worden. Offen bleibe die Herkunft der Daten sowie ob und an wen die Beklagte die Daten weitergegeben habe. Die Beklagte wäre jedoch gemäß Art 15 DSGVO zur Auskunft über Herkunft der Daten, Rechtsgrundlage für deren Verarbeitung sowie zu den konkreten Empfängern verpflichtet gewesen. Die Klägerin begehrt, gestützt auf Art 82 DSGVO, neben der Auskunft auch immateriellen Schadenersatz in Höhe von 2.500 EUR. Sie habe die Kontrolle über ihre Daten verloren und leide an dem „unguten“ Gefühl, dass die Beklagte über personenbezogene Informationen verfüge, die die Klägerin freiwillig nie offengelegt hätte.
+[2] 		Die Vorinstanzen wiesen das Klagebegehren ab.
+Rechtliche Beurteilung
+[3] 		Hiezu hat der Oberste Gerichtshof erwogen:
+[4] 		Mit Beschluss vom 18. 2. 2021, 6 Ob 159/20f, hat der erkennende Senat dem Gerichtshof der Europäischen Union (EuGH) folgende Frage zur Vorabentscheidung vorgelegt:
+„Ist Art 15 Abs 1 lit c der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung, ABl L 119/1 vom 4. Mai 2016, S 1) dahingehend auszulegen, dass sich der Anspruch auf die Auskunft über Empfängerkategorien beschränkt, wenn konkrete Empfänger bei geplanten Offenlegungen noch nicht feststehen, der Auskunftsanspruch sich aber zwingend auch auf Empfänger dieser Offenlegungen erstrecken muss, wenn Daten bereits offengelegt worden sind?“
+[5] 		Mit Beschluss vom 15. 4. 2021, 6 Ob 35/21x, hat der erkennende Senat dem EuGH folgende Frage zur Vorabentscheidung vorgelegt:
+„1. Erfordert der Zuspruch von Schadenersatz nach Art 82 DSGVO neben einer Verletzung von Bestimmungen der DSGVO auch, dass der Kläger einen Schaden erlitten hat, oder reicht bereits die Verletzung von Bestimmungen der DSGVO als solche für die Zuerkennung von Schadenersatz aus?
+2. Bestehen für die Bemessung des Schadenersatzes neben den Grundsätzen der Effektivität und Äquivalenz weitere Vorgaben des Unionsrechts?
+3. Ist die Auffassung mit dem Unionsrecht vereinbar, das Voraussetzung für den Zuspruch immateriellen Schadens ist, dass eine Konsequenz oder Folge der Rechtsverletzung von zumindest einigem Gewicht vorliegt, die über den durch die Rechtsverletzung hervorgerufenen Ärger hinaus geht?“
+[6] 		Nach ständiger Rechtsprechung hat der Oberste Gerichtshof von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere Fälle als dem unmittelbaren Anlassfall anzuwenden. Aus prozessökonomischen Gründen war daher das vorliegende Verfahren zu unterbrechen (RS0110583; Kohlegger in Fasching/Konecny3 Anh § 190 ZPO Rz 262).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132396

@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.1997
+Geschäftszahl
+4Ob372/97b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr.Huber als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr.Kodek und Dr.Niederreiter und die Hofrätinnen des Obersten Gerichtshofes Dr.Griß und Dr.Schenk als weitere Richter in der Rechtssache der klagenden Partei N***** GmbH, ***** vertreten durch Dr.Dieter Gorscheg, Rechtsanwalt in Gleisdorf, wider die beklagte Partei Raimund H***** GmbH, ***** vertreten durch Dr.Franz Gölles und Mag.Robert Pöschl, Rechtsanwälte in Graz, wegen Unterlassung (Streitwert S 250.000,--), infolge außerordentlicher Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Graz als Berufungsgericht vom 24.September 1997, GZ 6 R 144/97m-31, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508 a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Von der Lösung der als erheblich bezeichneten Frage - ob nämlich ein Computerunternehmen, das nicht über den Quellcode eines Programms und das Programm selbst verfügt, darin keine Einsicht und auch keine Möglichkeit hat, sich eine entsprechende Dokumentation zu verschaffen, als Mitanbieter für Service- und Schulungsleistungen und als Updatelieferant werden darf - hängt die Entscheidung nicht ab:
+Daß die Beklagte Ruf-Programme benütze und ein Programm zum Ändern oder Kopieren des Ruf-Programms anbiete - also insoweit "Mitanbieter" sei -, hat nur in den Verbotsbegehren zu lit d) und g) seinen Niederschlag gefunden. Dazu hat aber das Erstgericht ausgeführt, die Klägerin habe ein entsprechendes Anbieten der Beklagten nicht unter Beweis gestellt (S. 149 und 151). Eine gesetzmäßig ausgeführte Beweisrüge hat die Klägerin dagegen nicht erhoben; soweit sie ergänzende Feststellungen begehrt hat (S. 159f), betreffen diese zum Teil andere Fragen; soweit es sich aber um die hier maßgebliche Frage handelt, übersieht die Beklagte, daß insoweit keine Feststellungsmängel vorlagen, da das Erstgericht insoweit ja - negative - Feststellungen getroffen hat. Dabei hat sich das Erstgericht auch darauf berufen, daß sich die Behauptungen der Beklagten nicht durch Beilage C - die Gemeinde-Info 1/95 - beweisen lasse (S. 149). Aus welchen Gründen diese Feststellung unrichtig sein sollte, hat die Beklagte in der Berufung nicht dargelegt.
+Es kann daher nicht davon ausgegangen werden, daß die Beklagte Service- und Schulungsleistungen sowie Updatelieferungen für Ruf-Programme angeboten habe.

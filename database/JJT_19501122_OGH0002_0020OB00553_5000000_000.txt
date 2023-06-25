@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.1950
+Geschäftszahl
+2Ob553/50
+Norm
+ABGB §932;
+ABGB §934;
+ABGB §1118;
+Mietengesetz §21;
+Mietengesetz §38;
+Kopf
+SZ 23/343
+Spruch
+Die Klage nach § 1118 ABGB. ist eine Rechtsgestaltungsklage; das Bestandrecht erlischt erst mit rechtskräftigem Urteil, nicht schon durch außergerichtliche Erklärung oder Einbringung der Klage.
+Entscheidung vom 22. November 1950, 2 Ob 553/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Beklagte, der den Klägern seinen Schank- und Gastgewerbebetrieb einschließlich der Konzession verpachtet und sich daher auch verpflichtet hatte, bei der Gewerbebehörde um die Genehmigung der Verpachtung anzusuchen, zog sein Ansuchen wieder zurück und erklärte den Pachtvertrag gemäß § 1118 ABGB. für aufgelöst. Daraufhin begehrten die Kläger die Verurteilung des Beklagten, neuerlich bei der Gewerbebehörde um die Genehmigung der Verpachtung anzusuchen.
+Das Prozeßgericht gab dem Klagebegehren statt.
+Das Berufungsgericht hob das Urteil des Prozeßgerichtes auf und trug diesem die Prüfung auf, ob ein Auflösungsgrund nach § 1118 ABGB. gegeben sei.
+Der Oberste Gerichtshof hob das Urteil des Berufungsgerichtes auf und verwies die Sache an dieses zur neuerlichen Entscheidung über die Berufung zurück. Aus der Begründung:
+Rechtliche Beurteilung
+Das Berufungsgericht hat angenommen, daß ein Bestandverhältnis bereits durch die außergerichtliche Erklärung gemäß § 1118 ABGB. aufgelöst und beendet wird, wenn die gesetzlichen Voraussetzungen gegeben sind. Es hat damit die offensichtlich dem Urteil erster Instanz zugrundeliegende Meinung abgelehnt, daß es ähnlich wie bei der Auflösung einer offenen Handelsgesellschaft eines gerichtlichen rechtsgestaltenden Ausspruches bedarf, um das Bestandverhältnis aufzulösen, wenn der Bestandnehmer sich der Auflösungserklärung nicht fügt und so eine einverständliche Auflösung nicht zustandekommt, und sich auf den Standpunkt gestellt, das ergehende Urteil stelle nur fest, daß das Bestandverhältnis bereits erloschen ist, und verpflichte den Bestandnehmer zu einer Räumung, die er schon längst hätte vornehmen sollen. Diese Auffassung findet sich auch in den Entscheidungen RZ. 1936, S. 247, ZBl. 1934, Nr. 360, ÖJZ. 1947, EvBl. Nr. 442.
+Doch schon der Wortlaut des § 1118: "der Bestandgeber kann ... die
+... Aufhebung des Vertrages fordern ..." deutet darauf, daß erst dem
+Räumungsurteil rechtsgestaltende Wirkung zukommt. Die ähnliche Fassung der §§ 932 und 934 ABGB. führt auch bei diesen Bestimmungen zur Annahme, daß in Ermanglung einer Einigung erst das Urteil rechtsgestaltend wirkt (Gschnitzer in Klang, II/2, S. 586). Auch Klang, 2. Aufl., V, S. 122, Note 2, spricht - allerdings ohne nähere Begründung - im Falle des § 1118 von einer Rechtsgestaltungsklage.
+Aber abgesehen hievon müßte man wenigstens bei den Bestandverhältnissen, die den Kündigungsbeschränkungen des Mietengesetzes unterliegen, und dies ist hier der Fall, die letztere Meinung vertreten. Denn nach § 21 Abs. 2 und 3 MietG. ist auch der auf § 1118 gestützten Klage der Erfolg zu versagen, wenn der schuldlos säumige Bestandnehmer den Zins noch vor Schluß der Verhandlung erster Instanz erlegt. Diese Bestimmung ist mit der Vorstellung, daß das Bestandverhältnis schon durch die außergerichtliche Erklärung oder durch die Klage aufgelöst ist, kaum zu vereinen. Ebenso die Bestimmung des § 3 der Vdg. DRGBl. 1942 I S. 709, die auch für den Fall der Auflösung des Bestandverhältnisses wegen erheblich nachteiligen Gebrauches die Möglichkeit eröffnet, das Verfahren zu unterbrechen. Auch hier kann nur die Vorstellung obwaltet haben, daß das Bestandverhältnis vor oder durch die Einbringung der Klage noch nicht erloschen sei. Schließlich spricht auch der hier wohl unmittelbar nicht anwendbare § 38 MietG. (es handelt sich im gegebenen Fall nicht um Wohnräume) für die rechtsgestaltende Wirkung des Urteiles. Bei einer Verlängerung der Räumungsfrist bleiben nach dieser Bestimmung die Rechte und Pflichten aus dem Mietverhältnis "so wie bisher" auch während der Dauer der verlängerten Räumungsfrist aufrecht. Wenn Swoboda, Kommentar zum Mietengesetz, 2. Aufl., S. 305, meint, daß zwischen den Parteien kein Vertragsverhältnis mehr bestehe, so verbleibt es doch, wenn man so sagen will, bei einem gesetzlichen oder richterlichen Bestandverhältnis. Wenn die Auflosung nach § 1118 aber erst mit Rechtskraft des Urteilsspruches erfolgt, dann sind beide Teile bis zum rechtsgestaltenden Ausspruch an den Pachtvertrag gebunden, dann ist der Beklagte nicht berechtigt, schon vorher das Ansuchen um Genehmigung der Verpachtung zurückzuziehen, und ist verpflichtet, dasselbe wieder einzubringen, wenn er es vorzeitig zurückgezogen hat. Der Oberste Gerichtshof schließt sich also der Ansicht des Erstgerichtes an. Es besteht demnach kein Anlaß, das erstgerichtliche Urteil aufzuheben und die Sache zu der vom Berufungsgerichte angeordneten Prüfung an das Erstgericht zurückzuverweisen.

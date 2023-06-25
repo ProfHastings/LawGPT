@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.07.2015
+Geschäftszahl
+6Ob139/15g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Dr. Klaus Schiller als Masseverwalter im Konkurs der S***** GmbH, *****, gegen die beklagte Partei J***** M*****, vertreten durch Dr. Longin Kempf, Rechtsanwalt in Peuerbach als bestellter Verfahrenshilfeanwalt, wegen 776.584,73 EUR über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 28. Mai 2015, GZ 3 R 74/15w-33, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Bei der Regelung des § 25 GmbHG handelt es sich nach völlig einhelliger Auffassung um eine im Interesse der Allgemeinheit bzw zum Schutz der Gläubiger getroffene zwingende Bestimmung, sodass diese für alle Geschäftsführer ohne Rücksicht auf die interne Gestaltung ihres Rechtsverhältnisses zur Gesellschaft gilt. § 25 GmbHG schließt daher die Anwendung des DHG für solche Dienstnehmer einer GmbH aus, welche zugleich ihre Geschäftsführer sind (RIS-Justiz RS0054466; 9 ObA 326/99b SZ 73/20; vgl auch Reich-Rohrwig in Straube/Ratka/Rauter GmbHG § 25 Rz 47 mwN; Koppensteiner/Rüffler, GmbHG3 § 25 Rz 15 mwN).
+2. Zwar trifft den Geschäftsführer im Rahmen des § 25 GmbHG keine reine Erfolgshaftung (RIS-Justiz RS0059528); die in § 84 Abs 2 Satz 2 AktG statuierte Beweislastumkehr ist aber nach ständiger Rechtsprechung auf den Geschäftsführer einer GmbH analog anzuwenden (RIS-Justiz RS0121916, RS0059608).
+3.1. Eine allfällige Vereinbarung, durch die ein Geschäftsführer von jeder Mitwirkung an der Geschäftsführung ausgeschlossen würde, ist nach der Rechtsprechung von vornherein unwirksam (RIS-Justiz RS0059832). Auch ein - allenfalls die bloße Eigenschaft als „Strohmann“ indizierendes - auffallend geringes Entgelt entbindet den Geschäftsführer nicht von seinen gesellschaftsrechtlichen Pflichten.
+3.2. Damit fällt aber dem Beklagten die unterbliebene Überwachung der finanziellen Lage der Gesellschaft (Überschuldung und Zahlungsunfähigkeit) zur Last, sodass er auch für die ab 1. 7. 2012 getätigten Zahlungen gemäß § 25 Abs 3 Z 2 GmbHG verantwortlich ist, gleichgültig ob er seine Organfunktion tatsächlich ausgeübt oder sich auf die Rolle eines Strohmanns beschränkt hat (vgl auch 3 Ob 622/78 SZ 52/116). Eine angebliche interne Aufgabenverteilung zwischen dem Geschäftsführer und einem als faktischer Geschäftsführer agierenden Dritten vermag den Geschäftsführer insoweit nicht zu exkulpieren.
+4. Soweit die Revision behauptet, die klagende Partei habe zum Verschulden des Beklagten kein ausreichendes Vorbringen erstattet, ist ihr entgegenzuhalten, dass die unzulässigen Zahlungen schon in der Klage detailliert aufgelistet sind und ausdrücklich vorgebracht wird, der Erstbeklagte habe diese Überweisungen geduldet.
+5. Entgegen der in der Revision vertretenen Auffassung bildete der Erstbeklagte mit dem Zweitbeklagten, über dessen Vermögen zwischenzeitlich das Insolvenzverfahren eröffnet wurde, keine einheitliche Streitpartei; die Gefahr unlösbarer Verwicklungen durch divergierende Einzelentscheidungen (vgl RIS-Justiz RS0035473, RS0035496, RS0035468) besteht im vorliegenden Zusammenhang nicht, kann doch die individuelle Verantwortlichkeit der beiden Beklagten jeweils unabhängig beurteilt werden.
+6. Zusammenfassend bringt die Revision daher keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Qualität zur Darstellung, sodass sie spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0060OB00139.15G.0731.000

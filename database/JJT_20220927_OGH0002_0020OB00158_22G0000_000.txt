@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+2Ob158/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda, und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei S*, vertreten durch Schmidauer-Steindl-Rechtsanwälte GmbH in Grieskirchen, gegen die beklagten Parteien 1. T*, 2. M*, 3. O* Aktiengesellschaft, *, vertreten durch Dr. Johann Kahrer, Rechtsanwalt in Ried im Innkreis, wegen 27.921,20 EUR sA und Feststellung (Streitwert 5.000 EUR), über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 30. Juni 2022, GZ 2 R 97/22f-39, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Am 2. 1. 2021 lenkte der Erstbeklagte den von der Zweitbeklagten gehaltenen und bei der drittbeklagten Partei haftpflichtversicherten Traktor, auf dem eine mechanische Heckmulde montiert war. Der Erstbeklagte wollte gemeinsam mit dem Kläger, der in dieser Heckmulde saß, Waldarbeiten verrichten. Der Kläger setzte sich ganz an den Rand der Lademulde, wo er auch eine Möglichkeit hatte, sich anzuhalten. Diese Art des Transports ist am Land üblich. Nach den Waldarbeiten vergaß der Erstbeklagte, den Sicherungsbolzen einzusetzen. In der Folge löste sich während der Fahrt deshalb die mechanische Sicherung und die Heckmulde kippte nach unten. Der Kläger stürzte aus der Heckmulde und verletzte sich dadurch schwer.
+[2] 		Das Berufungsgericht nahm das Alleinverschulden des Erstbeklagten an. Ein allfälliges Mitverschuldens des Klägers wegen des Mitfahrens in der Heckmulde sei vernachlässigbar.
+[3] 		Die Beklagten machen als erhebliche Rechtsfrage geltend, dass die Zulässigkeit des Mitfahrens auf einer Heckmulde höchstgerichtlich noch nicht geklärt sei. Der vom Kläger selbst gewählte, absolut unzulässige Transport begründe ein Mitverschulden im Ausmaß von 50 %.
+[4] 		Damit zeigen die Beklagten keine relevanten Fragen im Sinne des § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+[5] 		1. Die Frage des Mitverschuldens des Klägers hängt im Anlassfall nicht davon ab, ob ein Personentransport in der Heckmulde eines Traktors unzulässig ist. Selbst wenn man dies im Sinne des Rechtsmittels bejaht, bedarf die Verneinung des Mitverschuldenseinwands durch die Vorinstanzen keiner Korrektur durch gegenteilige Sachentscheidung.
+[6] 		2.1. Das Mitverschulden des Geschädigten an der Herbeiführung seines eigenen Schadens setzt nicht die Rechtswidrigkeit seines Verhaltens voraus, sondern nur die Sorglosigkeit gegenüber den eigenen Gütern (RS0022681). Fragen des Mitverschuldens bilden wegen ihrer Einzelfallbezogenheit in der Regel keine erheblichen Rechtsfragen (RS0087606 [T25]).
+[7] 		2.2. Beim Vorwurf des Mitverschuldens handelt es sich stets um eine Frage der subjektiven Vorwerfbarkeit (RS0087606 [T14]).
+[8] 		2.3. Die Judikatur stellt (auch) bei der Frage des Mitverschuldens des Bei- bzw Mitfahrers eines Kraftfahrzeugs darauf ab, ob diesem die sich dann verwirklichte Gefahr des Mitfahrens bewusst bzw erkennbar war (RS0065491 [Kenntnis der mangelnden Lenkerberechtigung des Fahrers]; RS0027415 [Erkennbarkeit der Alkoholisierung bzw fehlende Fahrtüchtigkeit des Lenkers]). Das gilt auch, wenn der Geschädigte selbst vorschriftswidrig mitfährt (vgl 8 Ob 216/83 = ZVR 1985/28: „… erkennen musste, dass [das Motorrad] nur für die Beförderung des Lenkers geeignet und sein Mitfahren auf dem Gepäcksträger vorschriftswidrig war“;). Bei einem bestehenden Mitfahrverbot wurde auch als bedeutend angesehen, ob dieses Verbot im allgemeinen streng oder lax gehandhabt wird. Wenn das Verbot tatsächlich überhaupt nicht beachtet wird, könnte dies unter Umständen auch zur Ablehnung irgendeines Mitverschuldens des Geschädigten führen (RS0027223).
+[9] 		3. Wenn das Berufungsgericht unter Hinweis auf die „gängige Praxis am Land“ (in Heckmulden eines Traktors mitzufahren) und wegen des Umstands, dass ein Personentransport auf vergleichbaren Ladevorrichtungen zulässig ist (§ 106 Abs 11 KFG), davon ausgegangen ist, dass dem Kläger, der sich beim Transport anhalten konnte, eine (allfällige) Unzulässigkeit der Beförderung nicht bewusst gewesen sei und daher kein Mitverschulden vorliege, hält sich das im Rahmen der aufgezeigten Rechtsprechung.
+[10] 		4. Das Ergebnis hängt somit nicht davon ab, ob jeglicher Personentransport in einer Heckmulde unzulässig ist. Bei dieser Sachlage käme somit der Lösung der von den Beklagten als erheblich angesehenen Rechtsfrage nur theoretische Bedeutung zu. Die Anrufung des Obersten Gerichtshofs ist aber nach § 502 Abs 1 ZPO nur zulässig, wenn die Entscheidung gerade von der Lösung einer erheblichen Rechtsfrage abhängt, die angeschnittene Rechtsfrage also für die Entscheidung präjudiziell ist (RS0088931). Fehlende Relevanz für die Entscheidung des zu beurteilenden Falls schließt aber das Vorliegen einer erheblichen Rechtsfrage aus.
+[11] 		5. Mangels Präjudizialität ist die Revision daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00158.22G.0927.000

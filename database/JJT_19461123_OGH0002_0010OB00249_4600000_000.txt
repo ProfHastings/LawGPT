@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.11.1946
+Geschäftszahl
+1Ob249/46
+Norm
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §4;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §12;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §13;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §14;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §15;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §16;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §20;
+Volksgerichtsverfahrens- und Vermögensverfallsgesetz §21;
+Kopf
+SZ 21/11
+Spruch
+§§ 4, 16 Volksgerichtsverfahrens- und VermögensverfallsG. Nach dem Vermögensverfall sind Klagen gegen den Verurteilten ohne Beschränkung zulässig.
+Entscheidung vom 23. November 1946, 1 Ob 249/46.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Nach den unangefochtenen Feststellungen der beiden Untergerichte wurde mit dem Urteil des Volksgerichtes beim Landesgericht für Strafsachen Wien vom 8. Juli 1946, Vg 1 b Vr 2438/45, der Verfall des gesamten Vermögens des Angeklagten, der Alleininhaber der beklagten Firma ist, ausgesprochen. Am 26. Juli 1946 brachte die klagende Partei die vorliegende Klage ein, mit welcher sie die Verurteilung der beklagten Firma zur Zahlung des Kaufpreises für eine dieser verkaufte Maschine begehrte. Bei der 1. Tagsatzung stellte die klagende Partei gegen die nicht erschienene beklagte Partei den Antrag auf Fällung des Versäumungsurteils.
+Das Erstgericht hat sich die Entscheidung über diesen Antrag bis zum Einlangen des Ausweises über die Zustellung der Klage an die beklagte Partei vorbehalten, hat aber dann unter Bezugnahme auf die §§ 16, 21 des Gesetzes vom 19. September 1945, StGBl. Nr. 177, das Verfahren für nichtig erklärt und die Klage wegen Unzulässigkeit des Rechtsweges zurückgewiesen.
+Das Oberlandesgericht hat dem Rekurs der klagenden Partei Folge gegeben, den angefochtenen Beschluß aufgehoben und dem Erstgericht die Fortsetzung des Verfahrens aufgetragen. In der Begründung hat es im wesentlichen ausgeführt: Die strafgerichtliche Verurteilung und der Vermögensverfall berühre weder die Handlungs- und Geschäftsfähigkeit des Beklagten noch dessen Prozeßfähigkeit. Er könne daher über das nicht der Konfiskation unterliegende Vermögen frei verfügen und in allen nicht das verfallene Vermögen betreffenden Rechtsstreitigkeiten klagen und geklagt werden.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Wird das Vermögen eines Verbrechers vom Volksgericht für verfallen erklärt, so geht es gemäß § 20, Abs. 2 des oben zitierten Gesetzes auf die Republik Österreich über. Über das verfallene Vermögen hat die sogenannte Verwertungsstelle in einem besonderen Verfahren, das im § 21 des Gesetzes geregelt ist, zu verfügen. Gemäß § 21, Abs. 2 des Gesetzes gelten für das Verfahren vor der Verwertungsstelle zunächst sinngemäß die für das Verfahren bei der Vermögensbeschlagnahme gegebenen Vorschriften der §§ 12 bis 16. Gemäß § 16, Abs. 1 sind Klagen, die das beschlagnahmte Vermögen betreffen, nur nach den Bestimmungen dieses Gesetzes (§ 14) zulässig, also nur Klagen, die bücherliche Rechte an dem beschlagnahmten Vermögen, deren Rang der Anmerkung nach § 13, Abs. 2 vorausgeht, sowie dingliche Rechte an unbeweglichen Sachen, die zu ihrer Begründung keiner Eintragung im öffentlichen Buche bedürfen, zum Gegenstand haben. Diese Bestimmung dient der Sicherung des Vermögenseinziehungsanspruches des Staates, indem sie verhindert, daß der Beschuldigte durch in Form eines Zivilprozesses gekleidete Umtriebe Bestandteile seines Vermögens verschiebt und dem Zugriff des Staates entzieht.
+Durch diese Vorschrift werden im wesentlichen alle Klagen vermögensrechtlicher Natur während der Dauer der Beschlagnahme für unzulässig erklärt.
+Die Vorschrift des § 16, Abs. 1, Satz 1 des zitierten Gesetzes verliert aber ihren Sinn, sobald das Strafgericht den Verfall des gesamten Vermögens des Angeklagten ausgesprochen hat. Denn von diesem Zeitpunkt an ist nicht mehr der Verurteilte, sondern die Republik Österreich Eigentümerin der Aktiven. Schiebungen der oben angegebenen Art sind von jetzt an nicht mehr möglich, weil die Verwertungsstelle gemäß § 21, Abs. 4 selbst eine durch rechtskräftiges, gegen den verurteilten Verbrecher ergangenes Urteil festgestellte Forderung nicht anzuerkennen braucht, wenn diese Forderung begrundet wurde, um den Erfolg eines drohenden Verfalles zu vereiteln oder zu schmälern. Es besteht also nach dem Eintritt des Vermögensverfalles kein Bedürfnis und damit auch kein Raum für eine sinngemäße Anwendung des § 16, Satz 1 des Vermögenverfallsgesetzes in Bezug auf Klagen gegen den Verurteilten. Die Zulässigkeit von Klagen gegen den Staat als Übernehmer des verfallenen Vermögens ist aber im § 21, Abs. 4 des zitierten Gesetzes besonders geregelt.
+Der Oberste Gerichtshof kommt daher zu dem Schlusse, daß nach dem Vermögensverfall Klagen gegen den vom Strafgericht zum Vermögensverfall Verurteilten ohne Beschränkung zulässig sind und daß das Erstgericht demnach zu Unrecht die Unzulässigkeit des Rechtsweges angenommen hat.

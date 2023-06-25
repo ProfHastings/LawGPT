@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.04.2021
+Geschäftszahl
+6Ob62/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, den Hofrat Univ.-Prof. Dr. Kodek, die Hofrätin Dr. Faber, die Hofräte Mag. Pertmayr und MMag. Sloboda in der Firmenbuchsache der zu FN ***** beim Landesgericht Klagenfurt eingetragenen S***** GmbH mit Sitz in E***** über den außerordentlichen Revisionsrekurs der Gesellschaft, vertreten durch Mag. Dr. Josef Trampitsch, öffentlicher Notar in Spittal an der Drau, gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 18. Februar 2021, GZ 4 R 17/21h-13, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach ständiger Rechtsprechung sind korporative Regelungen des Gesellschaftsvertrags nach deren Wortlaut und Zweck in ihrem systematischen Zusammenhang objektiv (normativ) auszulegen (RS0108891 [T2, T7, T9]). Auch der objektiven Auslegung korporativer Regelungen eines Gesellschaftsvertrags kommt aber im Allgemeinen keine über den Einzelfall hinausreichende Bedeutung zu (2 Ob 138/08w; 6 Ob 48/09s; 6 Ob 251/16d).
+[2] 		2.1. Wenn die Vorinstanzen im vorliegenden Fall eine Satzungsbestimmung einer Gesellschaft mbH, wonach jeder Gesellschafter die Gesellschaft durch eingeschriebenen Brief unter Einhaltung einer sechsmonatigen Kündigungsfrist zum Ende eines Geschäftsjahres kündigen kann, die Kündigung jedoch nicht zur Auflösung der Gesellschaft führt, wenn mindestens ein Gesellschafter binnen einen Monats ab Postaufgabe der Kündigung einer Fortsetzung der Gesellschaft zustimmt und dies gegenüber den übrigen Gesellschaftern und gegenüber der Gesellschaft durch eingeschriebenen Brief erklärt, dahin verstand, dass der Aufgriffsberechtigte innerhalb der Einmonatsfrist sein Aufgriffsrecht in Form eines Notariatsakts auszuüben habe, so ist dies nicht zu beanstanden. Für diese Auffassung spricht schon der unmittelbare Zusammenhang der zitierten Satzungsregelung mit dem unmittelbar folgenden Satz, wonach der oder die fortsetzungsbereiten Gesellschafter den Anteil des Kündigenden im Verhältnis ihrer Stammeinlagen übernehmen, sofern sie nichts anderes vereinbaren.
+[3] 		2.2. Zutreffend verwies bereits das Rekursgericht darauf, dass eine Kündigung der Gesellschaft grundsätzlich die Auflösung (§ 84 Abs 1 und Abs 2 GmbHG) und die Liquidation (§ 89 Abs 1 GmbHG) der Gesellschaft zur Folge hätte. Diese Auflösung und Liquidation kann jedoch durch ein im Gesellschaftsvertrag vorgesehenes Aufgriffsrecht abgewendet werden (Zehetner in Straube/Ratka/Rauter, GmbHG § 84 Rz 118; Haberer/Zehetner in Straube/Ratka/Rauter, GmbHG § 89 Rz 9; Koppensteiner/Rüffler, GmbHG3 § 89 Rz 9; RS0059745; 1 Ob 116/71). Wird von einem derartigen Aufgriffsrecht Gebrauch gemacht, besteht die Gesellschaft als werbende Gesellschaft weiter und es bedarf weder eines Liquidationsverfahrens (Haberer/Zehetner aaO; Koppensteiner/Rüffler aaO) noch eines ausdrücklichen Fortsetzungsbeschlusses der Gesellschafter. Ein solcher wäre nur im Fall der bereits erfolgten Auflösung der Gesellschaft – analog zu § 215 AktG – erforderlich (RS0059934 [T2]; Zehetner aaO § 84 Rz 122 ff, insb 125).
+[4] 		2.3. Dass das Aufgriffsrecht in Notariatsaktsform auszuüben ist (6 Ob 180/17z; 6 Ob 198/20s; vgl auch RS0059756 [T3, T7]), wird im Revisionsrekurs nicht bestritten. Durch eine erst nach Fristablauf zur Ausübung des Aufgriffsrechts erfolgte Errichtung eines Notariatsakts tritt keine rückwirkende Heilung der ursprünglich bloß schriftlichen und damit unwirksamen Aufgriffserklärung ein (6 Ob 198/20s; 6 Ob 240/20t; vgl auch 7 Ob 110/04h). Ob zusätzlich zur Aufgriffserklärung auch noch ein weiteres notariatsaktspflichtiges Verfügungsgeschäft erforderlich gewesen wäre (vgl 6 Ob 198/20s; 6 Ob 240/20t), bedarf im vorliegenden Fall – wie ebenfalls bereits das Rekursgericht zutreffend erkannte – keiner weiteren Erörterung.
+[5] 		3. Zusammenfassend bringt der Revisionsrekurs daher keine Rechtsfrage der von § 62 Abs 1 AußStrG zur Darstellung, sodass er spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00062.21T.0415.000

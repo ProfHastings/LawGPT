@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.2019
+Geschäftszahl
+8Ob64/19y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Insolvenzsache des Schuldners Dipl.-Ing. C***** R*****, vertreten durch Dr. Johannes Eltz, Rechtsanwalt in Wien, über den außerordentlichen Revisionsrekurs des Schuldners gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 13. Mai 2019, GZ 6 R 184/19a-155, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird einschließlich der Anträge auf Vorlage gemäß Art 89 B-VG und gemäß Art 267 AEUV zurückgewiesen.
+Text
+Begründung:
+Mit Beschluss des Erstgerichts vom 11. 7. 2018, ON 1, wurde über das Vermögen des Schuldners das Konkursverfahren eröffnet und Rechtsanwältin Dr. U***** T*****, LL.M., zur Insolvenzverwalterin bestellt.
+Mit Beschluss vom 11. 4. 2019, ON 148, beraumte das Erstgericht eine Sanierungsplan- und eine Rechnungslegungstagsatzung an.
+Den Rekurs des Schuldners gegen diesen Beschluss wies das Rekursgericht mit dem angefochtenen Beschluss als unzulässig zurück; dies in erster Linie mit der Begründung, dass gemäß § 130 Abs 2 ZPO (hier iVm § 252 IO) die Anberaumung einer Tagsatzung durch ein abgesondertes Rechtsmittel nicht angefochten werden könne.
+Gegen diesen Beschluss richtet sich der Revisionsrekurs des Schuldners, ON 162, mit dem er auch eine Vorlage der Rechtssache gemäß Art 89 B-VG an den
+Verfassungsgerichtshof bzw gemäß Art 267 AEUV an den Europäischen Gerichtshof beantragt.
+Rechtliche Beurteilung
+1. Der außerordentliche Revisionsrekurs ist nicht zulässig.
+1.1. Ein Beschluss des Rekursgerichts, mit dem ein an dieses gerichteter Rekurs gegen eine erstinstanzliche Entscheidung zurückgewiesen wurde, ist grundsätzlich nur unter den Voraussetzungen des § 528 ZPO anfechtbar (RIS-Justiz RS0044501; RS0044269 [T1]). Anderes gilt, wenn sich ein Rechtsmittel gegen einen Zurückweisungsbeschluss des Rekursgerichts richtet, der auf die abschließende Verweigerung des Rechtsschutzes nach einer Klage, einem sonstigen Sachantrag oder – allgemeiner ausgedrückt – einem materiellen Rechtsschutzbegehren hinausläuft. Diesfalls ist für die Beurteilung der Zulässigkeit des Rechtsmittels § 519 Abs 1 Z 1 ZPO analog anzuwenden. Infolgedessen sind derartige Beschlüsse ungeachtet des Werts des zweitinstanzlichen Entscheidungsgegenstands und des Vorliegens einer erheblichen Rechtsfrage – also mit „Vollrekurs“ – anfechtbar (4 Ob 233/16t; 10 ObS 99/18h; 8 Ob 169/18p; Zechner in Fasching/Konecny2 § 519 ZPO Rz 21 mzwN).
+Nicht auf die abschließende Verweigerung des Rechtsschutzes nach einem materiellen Rechtsschutzbegehren läuft es unter anderem hinaus, wenn das Rekursgericht die Zurückweisung des Rekurses gegen einen verfahrensleitenden Beschluss des Erstgerichts beschließt (Zechner in Fasching/Konecny2 § 519 ZPO Rz 26), etwa das Erstgericht einen Sachverständigen bestellte und das Rekursgericht einen Beschluss hiergegen zurückwies (8 ObA 124/01w; vgl auch RS0113736; RS0043802).
+Die Anberaumung einer Tagsatzung ist ein verfahrensleitender Beschluss (vgl 2 Ob 55/15z Pkt 2.2. [zum AußStrG] mwN; G. Kodek in Fasching/Konecny2 § 246 ZPO Rz 15). Auch im Falle einer insolvenzgerichtlichen Tagsatzung läuft der Beschluss auf Zurückweisung eines Rekurses gegen deren Anberaumung nicht auf die abschließende Verweigerung des Rechtsschutzes nach einem materiellen Rechtsschutzbegehren hinaus. Die Zulässigkeit des vorliegenden Rechtsmittels bestimmt sich daher nicht in Analogie zu § 519 Abs 1 Z 1 ZPO (Vollrekurs), sondern nach § 528 ZPO.
+1.2. Gemäß § 528 Abs 1 ZPO
+ist gegen den Beschluss des Rekursgerichts der Revisionsrekurs nur zulässig, „wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Rekursgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist“. Voraussetzung für die Zulässigkeit des Revisionsrekurses ist damit, dass die Entscheidung von der Lösung einer erheblichen Rechtsfrage
+abhängt (
+RS0088931; RS0101971).
+Die Beantwortung der im Rechtsmittel aufgeworfenen Frage muss zur Lösung des konkreten Falles erforderlich sein (idS RS0088931 [T4]).
+Die Rechtsmittelzulässigkeit ist nur dann gegeben, wenn im Rechtsmittel zumindest eine erhebliche Rechtsfrage, von deren Lösung die Sachentscheidung abhängt, die also in diesem Sinn „präjudiziell“ ist, nachvollziehbar aufgezeigt wird (RS0088931 [T7]).
+Der außerordentliche Revisionsrekurs des Schuldners zeigt keine Rechtsfrage iSd § 528 Abs 1 ZPO nachvollziehbar auf, von deren Lösung die Sachentscheidung, ob der Rekurs gegen die erstgerichtliche Entscheidung auf Anberaumung einer Tagsatzung vom Rekursgericht zu Recht zurückgewiesen wurde, abhängt.
+2. Jedes Rechtsmittel ist grundsätzlich nur auf die Überprüfung der angefochtenen Entscheidung gerichtet (RS0005849 [T6]). Das Rechtsschutzziel eines Rechtsmittels gegen einen Beschluss auf Zurückweisung eines Rechtsmittels kann damit nicht auf Abänderung oder Aufhebung einer anderen Entscheidung gerichtet sein (Zechner in Fasching/Konecny2 § 526 ZPO Rz 19 mwN). Ansonsten würde das Rechtsmittelgericht eine Entscheidungskompetenz in Anspruch nehmen, die nach funktionellen Kriterien einer Vorinstanz zukommt (vgl RS0005849; RS0007037; Zechner in Fasching/Konecny2 § 503 ZPO Rz 65).
+Außerhalb der Entscheidungskompetenz des Obersten Gerichtshofs liegt hier damit entgegen der aus seinen Rechtsmittelanträgen ersichtlichen Ansicht des Schuldners, die Konkurseröffnung aufzuheben oder zu entscheiden, „dass das Verfahren gemäß §§ 181 ff IO geführt werde“, ebenso eine Aufhebung der Insolvenz über das Vermögen des Schuldners „aus sonstigen Gründen“ und „alle Einträge in der Ediktsdatei zu löschen“.
+3. Ein Antrag einer Partei auf Befassung des Verfassungsgerichtshofs ist zurückzuweisen, weil den Parteien ein diesbezügliches Antragsrecht nicht zukommt (RS0056514; RS0058452). Das Gleiche gilt auch für die Anrufung des Europäischen Gerichtshofs, weil die Parteien nur ein entsprechendes Ersuchen anregen können (RS0058452 [T17, T21]). Auch bei einer Deutung der Anträge als bloße Anregung ist hier für Erwägungen zu einer Vorlage gemäß Art 89 B-VG bzw Art 267 AEUV kein Raum, weil der außerordentliche Revisionsrekurs mangels einer Rechtsfrage erheblicher Bedeutung iSd § 528 Abs 1 ZPO unzulässig und damit keiner Behandlung zugänglich ist (vgl 9 Ob 70/18m).
+Der außerordentliche Revisionsrekurs ist daher einschließlich der Anträge auf Vorlage gemäß Art 89 B-VG und gemäß Art 267 AEUV zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0080OB00064.19Y.0627.000

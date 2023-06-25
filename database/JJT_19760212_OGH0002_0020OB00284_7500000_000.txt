@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.02.1976
+Geschäftszahl
+2Ob284/75
+Norm
+Eisenbahn- und Kraftfahrzeughaftpflichtgesetz §9;
+Kopf
+SZ 49/20
+Spruch
+Ein unabwendbares Ereignis kann nur ein solches sein, das von außen auf das Kraftfahrzeug oder dessen Lenker einwirkt, nicht aber ein Versagen des Fahrzeuges oder des Lenkers
+OGH 12. Feber 1976, 2 Ob 284/75 (OLG Innsbruck 1 R 237/75; LG Innsbruck 26 Cg 194/73)
+Text
+Am 24. Juli 1970 gegen 4.30 Uhr stieß auf der Bundesstraße Nr. 1 im Gemeindegebiet von R ein vom Kläger gehaltener LKW-Zug mit einem von Wilfried B gelenkten PKW, der auf die linke Fahrbahnhälfte geraten war, zusammen. Dabei wurde Wilfried B getötet. Er war Halter des bei der Drittbeklagten haftpflichtversicherten PKWs. Der Kläger begehrte Schadenersatz. Die Beklagten beantragten Klagsabweisung. Der Unfall sei durch ein unabwendbares Ereignis entstanden, weil Wilfried B durch eine plötzlich aufgetretene Bewußtlosigkeit (Hirnblutung auf Grund eines vorhandenen Aneurysmas) die Herrschaft über sein Fahrzeug verloren habe und deshalb auf die linke Fahrbahnhälfte geraten sei.
+Das Erstgericht verurteilte die Drittbeklagte zur Zahlung von 1.876.093 Lire samt 4% Zinsen seit 1. Juni 1972, umgerechnet in österreichische Schilling zum Kurse der Wiener Börse am Zahlungstag; das Mehrbegehren auf Zahlung von weiteren 512 490 Lire sowie das gesamte Klagebegehren gegenüber der erst- und zweitbeklagten Partei wurden abgewiesen.
+Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision der Drittbeklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Untergerichte sind von folgenden Feststellungen ausgegangen: Die Obduktion des Wilfried B hat ergeben, daß dieser eine Hirnblutung nach einer Zerreißung einer Aussackung der Hirngrundschlagader erlitten hat, die zu einer sofortigen Bewußtlosigkeit führte. Diese Hirnblutung trat unmittelbar vor dem Unfall ein, weshalb Wilfried B ohne jede Reaktion auf die linke Fahrbahnhälfte geriet und dort gegen den LKW-Zug des Klägers aufprallte. Im Leichenblut wurde ein Blutalkoholwert von 1.1%, im Leichenharn ein Reduktionswert von, 1.7% festgestellt. Wilfried B hatte also vor dem Unfall Alkohol zu sich genommen, was eine fördernde Wirkung auf die Zerreißung der Aussackung der Hirngrundschlagader hatte.
+Durch den Unfall wurde der LKW-Zug des Klägers beschädigt. Die Reparaturkosten betrugen 1.473.093 Lire, die Abschleppkosten 103.000 Lire, der Verdienstentgang (wegen der reparaturbedingten Stehzeit des LKW-Zuges für 8 Tage) 300 000 Lire.
+Das Erstgericht verneinte eine Haftungsbefreiung im Sinne des § 9 Abs. 1 EKHG, weil die durch den Alkoholgenuß geförderte Hirnblutung kein unabwendbares Ereignis darstelle.
+Das Berufungsgericht schloß dich dieser Rechtsansicht an.
+Die Revisionswerberin bringt vor, es sei zu überlegen, ob auch dann kein unabwendbares Ereignis vorliege, wenn ein Fahrzeuglenker zum Unfallszeitpunkt nicht nur bewußtlos, sondern überhaupt nicht mehr am Leben sei, wie dies nach dem Obduktionsbefund bei Wilfried B der Fall gewesen sei. Demnach sei ein führerloses Fahrzeug auf die linke Fahrbahnseite geraten, das überhaupt keinen Lenker mehr gehabt habe. Das völlige Fehlen der Reaktionsfähigkeit aus körperlichen Gründen sei ein unabwendbares Ereignis.
+Zunächst ist festzuhalten, daß nach dem Obduktionsbefund zwar als Unfallsursache die Hirnblutung zu betrachten ist, daß aber nicht festgestellt werden konnte, ob B daran oder an den Unfallsverletzungen gestorben ist. Im übrigen geben die Ausführungen der Revision keinen Anlaß, von der seit der Entscheidung ZVR 1959/266 in der Rechtsprechung vertretenen Ansicht (SZ 41/160; ZVR 1970/8; 2 Ob 170/74) abzugehen, daß eine plötzliche Bewußtlosigkeit des Lenkers keinen Haftungsausschluß nach § 9 EKHG ergibt. Ein unabwendbares Ereignis kann nur ein solches sein, das von außen auf das Kraftfahrzeug oder dessen Lenker einwirkt, nicht aber ein Versagen des Fahrzeuges oder des Lenkers (ebenso die bundesdeutsche Lehre und Rechtsprechung: Jagusch, Straßenverkehrsrecht[21], Randzahl 36 zu § 7 StVG; BGHZ 23, 20).
+Die gegenteilige Auffassung würde dem Zweck des Eisenbahn- und Kraftfahrzeughaftpflichtgesetzes, das Publikum vor Gefahren zu schützen, die von Kraftfahrzeugen ausgehen, zuwiderlaufen.

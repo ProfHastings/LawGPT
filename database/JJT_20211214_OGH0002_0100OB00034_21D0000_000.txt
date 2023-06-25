@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.2021
+Geschäftszahl
+10Ob34/21d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie die Hofrätinnen Dr. Fichtenau und Dr. Grohmann, den Hofrat Mag. Ziegelbauer und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Parteien 1. H* und 2. F*, beide vertreten durch Dr. Zsiszik & Dr. Prattes Rechtsanwälte OG in Bruck an der Mur, gegen die beklagte Partei DI B*, vertreten durch Dr. Manfred Steininger, Rechtsanwalt in Wien, und ihre Nebenintervenientin S*, vertreten durch Dr. Peter Zach, Dr. Reinhard Teubl und Mag. Harald Terler, Rechtsanwälte in Bruck an der Mur, wegen 100.422,20 EUR sA, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 29. September 2021, GZ 2 R 176/21a-54, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1 Die Ersatzpflicht des Sachverständigen nach den §§ 1299 f ABGB beschränkt sich grundsätzlich auf den aus dem Schuldverhältnis Berechtigten, also regelmäßig den Auftraggeber (RIS-Justiz RS0026234; RS0026645; 7 Ob 60/21f).
+[2] 		1.2 Eine Haftung gegenüber einem Dritten kommt dann in Betracht, wenn die objektiv-rechtlichen Schutzwirkungen auf ihn zu erstrecken sind (RS0026234 [T13]). Dies ist der Fall, wenn der Sachverständige damit rechnen musste, dass sein Gutachten die Grundlage für die Disposition des Dritten bilden wird (RS0106433; RS0026645 [T5]; RS0026234 [T4]). Der Dritte ist geschützt, wenn ein Vertrauenstatbestand vorliegt, der für den Dritten eine Entscheidungsgrundlage darstellen soll. Wesentlich ist daher vor allem der Zweck des Gutachtens (7 Ob 38/17i; 7 Ob 60/21f mwN; RS0106433 [T2]).
+[3] 		2.1 Das Berufungsgericht hat in diesem Einzelfall aufgrund des Inhalts des Gutachtensauftrags an den beklagten Sachverständigen bereits die Begründung eines Vertrauenstatbestands in Ansehung sämtlicher Mängel des begutachteten Werks verneint. Diese Beurteilung, die sich im Rahmen der Rechtsprechung bewegt (vgl 7 Ob 60/21f), bekämpfen die Kläger in der außerordentlichen Revision nicht mit konkreten Argumenten. Ihr Hinweis auf allgemeine Grundsätze der Rechtsprechung zur Erstreckung objektiv-rechtlicher Schutzwirkungen auf Dritte, ohne darzulegen, inwieweit im konkreten Fall die Beurteilung zum Nichtvorliegen eines Vertrauenstatbestands unrichtig sein sollte, reicht für die gesetzmäßige Ausführung einer Rechtsrüge nicht aus (RS0043605).
+[4] 		2.2 Die in der außerordentlichen Revision inhaltlich behandelte Frage der – vom Berufungsgericht bejahten – Subsidiarität der Haftung gegenüber Dritten, die einen deckungsgleichen Anspruch gegen ihren Vertragspartner haben oder hatten, muss deshalb nicht erörtert werden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0100OB00034.21D.1214.000

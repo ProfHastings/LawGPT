@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.1967
+Geschäftszahl
+3Ob120/67
+Norm
+KO §2;
+KO §9;
+KO §10;
+KO §59;
+KO §139;
+Kopf
+SZ 40/149
+Spruch
+Die nach § 10 KO. bestehende Exekutionssperre erlischt nicht bereits mit dem Anschlag des Aufhebungsedikts, sondern erst mit Rechtskraft der Aufhebung des Konkurses.
+Entscheidung vom 22. November 1967, 3 Ob 120/67.
+I. Instanz: Bezirksgericht Judenburg; II. Instanz: Kreisgericht Leoben.
+Text
+Das Erstgericht bewilligte am 22. August 1967 auf Grund des vollstreckbaren Urteils des Bezirksgerichtes Judenburg vom 24. April 1964 zur Hereinbringung einer Geldforderung von 6050 S s. A. die Exekution durch Pfändung des dem Verpflichteten als Angestellten gegen den Drittschuldner, Sportbekleidungshaus H., zustehenden Arbeitseinkommens und die Überweisung der gepfändeten Forderung zur Einziehung im Sinne des Antrages der betreibenden Partei.
+Das Rekursgericht gab dem vom Drittschuldner gegen diesen Beschluß erhobenen Rekurs Folge und änderte den Beschluß des Erstrichters dahin ab, daß es den Exekutionsantrag abwies. Es stellte aus dem Akt S.../66 des Kreisgerichtes Leoben fest, daß der über das Vermögen des Verpflichteten eröffnete Konkurs mit Beschluß vom 10. August 1967 gemäß § 139 KG. aufgehoben wurde. Der Aufhebungsbeschluß wurde am 18. August 1967 an der Gerichtstafel in Leoben angeschlagen. Die vierzehntägige Rechtsmittelfrist habe mit dem Tag des Anschlages zu laufen begonnen und am 1. September 1967 geendet. Der den Konkurs des Verpflichteten aufhebende Beschluß sei am Tage der Entscheidung des Erstgerichtes noch nicht rechtskräftig gewesen. Erst mit Rechtskraft des den Konkurs aufhebenden Beschlusses sei der Vollstreckungsschutz weggefallen. Der verfrüht gestellte Exekutionsantrag sei daher abzuweisen gewesen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der betreibende Gläubiger führt aus, dem Drittschuldner fehle nicht nur die Legitimation zur Bekämpfung des Exekutionsbewilligungsbeschlusses, sondern auch ein echtes Rekursbedürfnis. Da der die Aufhebung des Konkurses verfügende Beschluß unbekämpft geblieben sei, wirke der Eintritt der Rechtskraft auf den Anschlagstag zurück.
+Dem Drittschuldner steht der Rekurs gegen das Zahlungsverbot nicht nur zu, wenn ihn die Exekutionsbewilligung gesetzwidrig belastet oder wenn ihm ungerechtfertigte Aufträge erteilt werden (RiZ. 1933 S. 218, SZ. XV 148 u. a.), sondern auch, wenn die Pfändungsbewilligung dem Gesetz nicht entspricht (Neumann - Lichtblau Komm.[3] II S. 927). Die Rekurslegitimation des Drittschuldners hängt daher auch im vorliegenden Fall davon ab, ob die Pfändung der dem Verpflichteten gegen den Drittschuldner angeblich zustehenden Forderung aus dem Dienst- oder Arbeitsverhältnis dem Gesetze entsprach. Wurde dem Drittschuldner ein dem Gesetze nicht entsprechender Auftrag erteilt, die Dienst- oder Arbeitsbezüge des Verpflichteten bis zu einem gewissen Betrage einzubehalten, so ist auch sein Rekursinteresse zu bejahen.
+Der Oberste Gerichtshof billigt die Rechtsansicht des Rekursgerichtes, daß sämtliche Wirkungen der Konkursaufhebung nicht bereits mit dem Anschlag des Aufhebungsediktes (analog § 2 KO.) eintreten, sondern erst mit der Rechtskraft des Aufhebungsbeschlusses. Ausdrücklich ist dies allerdings nur für den Wiedereintritt der vollen Verfügungsfähigkeit (§ 59 KO.) und für den Wiederbeginn der unterbrochenen Verjährung (§ 9 KO.) gesagt. Es ist jedoch aus dem Zweck des Gesetzes dasselbe auch für die anderen Wirkungen der Konkursaufhebung zu schließen, weil sonst bei einer Abänderung eines Beschlusses auf Konkursaufhebung ein neuerlicher Konkurs eröffnet werden müßte, während doch der Konkurs als nicht aufgehoben gelten soll. Die gegenteilige Ansicht würde überdies zu unerträglichen Folgen führen, wenn in der Zwischenzeit vorgenommene Rechtshandlungen so beurteilt werden müßten, als wäre kein Konkurs vorhanden. Darum ist der für die Gläubiger unschädliche Zustand der Fortdauer der Konkurswirkungen bis zur Rechtskraft des Aufhebungsbeschlusses vorzuziehen (Bartsch - Pollak Komm.[3] S. 315 f.).
+Da sohin der Vollstreckungsschutz des § 10 KO. bis zur Rechtskraft des den Konkurs aufhebenden Beschlusses gilt, diese Rechtskraft jedoch erst mit Ablauf des 1. September 1967 eintrat, konnte am 22. August 1967 kein richterliches Pfandrecht an den dem Verpflichteten angeblich zustehenden Dienst- oder Arbeitsbezügen erworben werden.
+Die Ansicht des betreibenden Gläubigers, der Vollstreckungsschutz sei in dem Fall, daß der Konkursaufhebungsbeschluß unbekämpft blieb, rückwirkend auf den Tag des Anschlages der Konkursaufhebung weggefallen, kann nach der oben dargestellten Rechtsansicht nicht geteilt werden.

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2020
+Geschäftszahl
+4Ob160/20p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und  die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Hon.-Prof. PD Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache des Klägers und Widerbeklagten B***** G*****, vertreten durch Dr. Hellmut Prankl, Rechtsanwalt in Salzburg, gegen die Beklagte und Widerklägerin P***** GmbH, *****, vertreten durch Mag. Ludwig Vogl, Rechtsanwalt in Mattighofen, wegen 20.000 EUR (Klage) und 15.146,50 EUR (Widerklage), aus Anlass der „außerordentlichen Revision“ des Klägers gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 21. Juli 2020, GZ 6 R 43/20s-89, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Der Kläger begehrte von der Beklagten die Aufhebung seines mit ihr geschlossenen Ausbildungsvertrags und Rückzahlung von 20.000 EUR an Ausbildungskosten.
+[2] 		Die Beklagte beantragte die Abweisung der Klage und begehrte ihrerseits mit Widerklage die Zahlung von 15.146,50 EUR an restlichen Ausbildungskosten.
+[3] 		Das Erstgericht verband beide Verfahren zur gemeinsamen Verhandlung und Entscheidung und wies das Klagebegehren ab, während es der Widerklage stattgab.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung und sprach aus, dass die ordentliche Revision nicht zulässig sei.
+Rechtliche Beurteilung
+[5] 		Die gegen dieses Urteil erhobene „außerordentliche Revision“ des Klägers, mit der er beantragt, der Klage stattzugeben und die Widerklage abzuweisen, legte das Erstgericht unmittelbar dem Obersten Gerichtshof vor. Diese Vorgangsweise widerspricht der geltenden Rechtslage:
+[6] 		Gemäß § 502 Abs 3 ZPO ist die Revision – außer im Fall des § 508 Abs 3 ZPO – jedenfalls unzulässig, wenn der Entscheidungsgegenstand insgesamt 30.000 EUR nicht übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs 2 Z 3 ZPO für nicht zulässig erklärt hat. Unter diesen Voraussetzungen kann jedoch eine Partei gemäß § 508 Abs 1 und 2 ZPO binnen vier Wochen nach der Zustellung des Berufungserkenntnisses den beim Erstgericht (§ 508 Abs 2 erster Satz ZPO) einzubringenden Antrag an das Berufungsgericht stellen, seinen Ausspruch dahingehend abzuändern, dass die ordentliche Revision doch für zulässig erklärt werde; ein solcher Antrag, der mit der ordentlichen Revision zu verbinden ist, muss die Gründe dafür anführen, warum entgegen dem Ausspruch des Berufungsgerichts nach § 502 Abs 1 ZPO die ordentliche Revision für zulässig erachtet wird.
+[7] 		Wird eine Gegenforderung – wie hier – im Wege einer Widerklage geltend gemacht, ist ihr Streitwert hinsichtlich der Zulässigkeit der Revision zwar von Belang (RIS-Justiz RS0042639). Dies betrifft aber nur die Frage, ob der Wert der Gegenforderung überhaupt „Entscheidungsgegenstand“ ist. Die Zulässigkeit der Revision gegen die Entscheidung über die Klage ist hingegen unabhängig von der Widerklageforderung zu prüfen (RS0042941 [T4]).
+[8] 		Bei der Streitwertbestimmung nach § 502 Abs 3 ZPO müssen Klage und Widerklage folglich gesondert bewertet werden (RS0042626). So hat auch die Verbindung mehrerer Streitsachen zur gemeinsamen Verhandlung und Entscheidung auf die Zulässigkeit von Rechtsmitteln gegen das gemeinsame Urteil keinen Einfluss (RS0037252, RS0042626 [T1]). Es entspricht ständiger höchstgerichtlicher Rechtsprechung, dass die Zulässigkeit der Revision im Falle von Klage und Widerklage, selbst bei Verbindung beider Verfahren zur gemeinsamen Verhandlung und Entscheidung, jeweils gesondert zu prüfen und zu beurteilen ist (7 Ob 145/02b, RS0037252 [T10]).
+[9] 		Für die Frage der Zulässigkeit der Revision ist es auch unwesentlich, ob die in verbundenen Streitsachen geltend gemachten Ansprüche an sich in tatsächlichem oder rechtlichem Zusammenhang (§ 55 Abs 1 JN) stehen, weil deren Zusammenrechnung zur Ermittlung des Entscheidungsgegenstands jedenfalls nicht in Betracht kommt (1 Ob 166/99i; 1 Ob 87/03f; 7 Ob 218/15g).
+[10] 		In den demnach gesondert zu bewertenden Verfahren über die Klage und über die Widerklage übersteigt daher der Gegenstand, über den das Berufungsgericht entschieden hat, jeweils nicht den Betrag von 30.000 EUR.
+[11] 		Im Hinblick auf die dargestellte Rechtslage wäre das Rechtsmittel daher nicht dem Obersten Gerichtshof, sondern dem Berufungsgericht vorzulegen gewesen. Das Erstgericht wird die Vorlage an das Berufungsgericht nachzuholen haben. Ob die im Rechtsmittelschriftsatz enthaltenen Ausführungen den Erfordernissen des § 508 Abs 1 ZPO entsprechen, bleibt der Beurteilung der Vorinstanzen vorbehalten (RS0109623 [T5], RS0109501 [T12]).
+[12] 		Der Akt ist daher dem Erstgericht zurückzustellen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00160.20P.1020.000

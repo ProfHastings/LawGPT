@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.1971
+Geschäftszahl
+6Ob128/71
+Norm
+Handelsgesetzbuch §131;
+Handelsgesetzbuch §145;
+Handelsgesetzbuch §161 Abs2;
+KO §166;
+Kopf
+SZ 44/107
+Spruch
+Die Parteifähigkeit einer KG bleibt auch nach Aufhebung des Konkurses nach § 166 KO bestehen
+OGH 30. 6. 1971, 6 Ob 128/71 (OLG Innsbruck 2 R 52/71; LG Innsbruck 24 Cg 409/70)
+Text
+Die Klägerin bringt vor, sie habe sich gegenüber dem Beklagten am 25. 11. 1964 verpflichtet, ihm auf einer Liegenschaft Wohnungseigentum zu beschaffen. Der Beklagte habe eine Wohnung Nr 11 gekauft. Durch Gegenüberstellung einerseits der Verpflichtungen des Beklagten, anderseits seiner Zahlungen berechnet die Klägerin einen Saldo zu ihren Gunsten in Höhe von S 44.043.-, dessen Bezahlung sie mit der vorliegenden Klage begehrt. Die Wohnung sei im Dezember 1967 übernommen worden.
+Der Beklagte bestreitet den Anspruch.
+Das Erstgericht verhandelte zunächst zur Sache, doch hob es schließlich das bisherige Verfahren "ab Zustellung der Klage" als nichtig auf und wies die Klage zurück. Dabei ging das Erstgericht davon aus, es sei über das Vermögen der Klägerin mit Beschluß des Landesgerichtes Innsbruck vom 26. 2. 1968 der Konkurs eröffnet, jedoch mit Beschluß vom 6. 6. 1969 mangels Deckung der Kosten gemäß § 166 Abs 2 KO wieder aufgehoben worden. Die Klägerin habe infolge der Unzulänglichkeit eines zur Deckung der Kosten des Konkursverfahrens hinreichenden Massevermögens und die dadurch bedingte Beendigung des Konkurses ihre Parteifähigkeit verloren und diese durch die Aufhebung des Konkurses nicht wiedererlangt. Sie könne daher den eingeklagten Anspruch nicht geltend machen. Der Mangel der "Prozeßfähigkeit" sei aber in jeder Lage des Rechtsstreites gemäß § 6 Abs 1 ZPO von Amts wegen zu berücksichtigen.
+Mit dem nunmehr angefochtenen Beschluß hob das Rekursgericht den Beschluß erster Instanz auf und trug dem Erstgericht die Fortsetzung des Verfahrens auf. Dagegen richtet sich der Revisionsrekurs des Beklagten mit dem Antrag, den Beschluß des Rekursgerichtes aufzuheben, oder selbst den Beschluß erster Instanz wieder herzustellen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+An sich wird eine Kommanditgesellschaft durch Eröffnung des Konkurses über ihr Vermögen aufgelöst (§§ 131 und 161 Abs 2 HGB). Mit Recht hat aber das Rekursgericht darauf hingewiesen, daß zwischen der Auflösung der Gesellschaft und ihrer Beendigung ein Unterschied zu machen ist. Tritt eine Gesellschaft in den Stand der Liquidation, dann erlischt sie nicht etwa schon dadurch, sondern unabhängig von ihrer Löschung oder ihrem Verbleib im Handelsregister erst mit der Beendigung der Liquidation, mag diese nun vom Masseverwalter nach konkursrechtlichen Grundsätzen oder ohne Konkurs nach den allgemeinen gesellschaftsrechtlichen Grundsätzen (145 ff HGB) durchgeführt worden sein (Petschek - Reimer - Schiemer "Insolvenzrecht" 85).
+Ob sich die Klägerin im Stand der Liquidation befindet oder ob dies im Hinblick auf die Aufhebung des Konkurses nicht der Fall ist, braucht gar nicht untersucht zu werden, weil sie in beiden Fällen Ansprüche gegen Schuldner der Gesellschaft einklagen kann. Eine allenfalls im Liquidationsstadium befindliche Personengesellschaft verliert keineswegs ihre Parteifähigkeit, ihre Prozesse werden unter ihrem Firmennamen als Abwicklungsfirma geführt (SZ 29/39). Die Einziehung offener Forderungen gehört ja geradezu zu den Aufgaben einer Liquidation.
+Im Revisionsrekurs wird geltend gemacht, das Konkursgericht habe festgestellt, daß nichts zu verteilen sei und deshalb den Konkurs gemäß § 166 KO aufgehoben. Mit diesem Hinweis ist nichts gewonnen, weil ein solcher Beschluß Wirkungen nur für das Konkursverfahren zeitigt und kein Hindernis für die klageweise Geltendmachung eines behaupteten Anspruches darstellt.
+Der Beklagte versucht den Mangel der Parteifähigkeit der Klägerin ferner mit dem Hinweis zu begrunden, der Betriebsumfang der Klägerin sei "auf Null" gesunken, woraus sich auch ohne Liquidation eine "Beseitigung" der Gesellschaft ergebe. Ohne auf die Folgen eines Absinkens des Betriebsumfanges auf den Umfang eines Kleingewerbes eingehen zu müssen und insbesondere darauf, ob dann noch die Voraussetzungen für den Bestand einer Personengesellschaft des Handelsrechtes weiter vorliegen, muß gesagt werden, daß die Geltendmachung schon existenter behaupteter Ansprüche dadurch nicht ausgeschlossen werden kann. Dies würde ja zu dem nicht tragbaren Ergebnis führen, daß ein Schuldner bloß deshalb nicht mehr belangt wenden könnte, weil außerhalb seiner Rechtssphäre Veränderungen der gewerblichen Größenordnung vor sich gehen.
+Zusammenfassend ergibt sich, daß der Klägerin die Parteifähigkeit nach wie vor zukommt. Diese Frage ist die einzige, die bei Erledigung des vorliegenden Revisionsrekurses zu prüfen war. Dieser erweist sich als nicht stichhältig.

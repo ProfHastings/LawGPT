@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2018
+Geschäftszahl
+8Ob143/17p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Parteien 1. Y* A*, und 2. I * GmbH, *, beide vertreten durch Mag. Wolfgang Steiner und Mag. Anton Hofstetter, Rechtsanwälte in Wien, gegen die beklagte Partei C* K*, vertreten durch Dr. Martin Mahrer, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 20. September 2017, GZ 40 R 75/17a-15, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+Die Hausverwaltung mahnte in zwei Schreiben die beklagte Mieterin eines Geschäftslokals wegen offener Mietzinse und erklärte jeweils unter einem, dass man bei Nichtbegleichung des bekanntgegebenen Rückstands binnen der gesetzten Frist von jeweils fünf Tagen genötigt wäre, mit Ablauf der Frist das Mietverhältnis als aufgelöst zu betrachten. Die Beklagte beglich die Rückstände nicht fristgerecht zur Gänze, weshalb die Kläger (Eigentümer der Liegenschaft) Räumungsklage einbrachten. Zu diesem Zeitpunkt waren die Rückstände bereits beglichen.
+Das Berufungsgericht bestätigte die erstgerichtliche Abweisung der Klage primär mit der Begründung, dass für die Verwirklichung des – von den Klägern angezogenen – Auflösungstatbestands nach § 1118 Fall 2 ABGB die zeitliche Abfolge „Verzug – Mahnung samt Nachfristsetzung – Auflösungserklärung“ immer gewahrt bleiben müsse.
+In der außerordentlichen Revision machen die Kläger als erhebliche Rechtsfrage geltend, „ob bei Vorliegen eines bereits qualifizierten Mietzinsrückstands eine neuerliche Nachfristsetzung bereits mit einer Auflösungserklärung für den Fall der nicht fristgerechten Nachzahlung verbunden werden kann“.
+Rechtliche Beurteilung
+Eine erhebliche Rechtsfrage wird damit von den Klägern nicht aufgezeigt. Eine solche liegt nach § 502 Abs 1 ZPO nur vor, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist. Dies ist hier nicht der Fall.
+In den beiden Mahnschreiben wurde der Beklagten jeweils eine Nachfrist gesetzt und für den Fall der Nichtzahlung binnen dieser Frist (und damit bedingt) die Auflösung erklärt. Es erfolgte in den Schreiben also gerade keine (unbedingte) Auflösung wegen bereits abgelaufener Nachfristen, vielmehr eine Verknüpfung zwischen Nichtnutzung der im jeweiligen Schreiben gesetzten Nachfrist und Erklärung der Auflösung. Einzig diese – von der Hausverwaltung und damit den Klägern selbst
+vorgenommene – Verknüpfung gilt es zu beurteilen.
+Der Bestandgeber kann gemäß § 1118 Fall 2 ABGB „die frühere Aufhebung des Vertrages fordern, […] wenn [der Bestandnehmer] nach geschehener Einmahnung mit der Bezahlung des Zinses dergestalt säumig ist, dass er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat“. § 1118 Fall 2 ABGB gebietet die zeitliche Aufeinanderfolge der Mahnung, der Nachfristgewährung und – bei fruchtlosem Verstreichen dieser Frist – der Auflösungserklärung (1 Ob 618/93). Diese zeitliche Abfolge muss immer gewahrt sein (RIS-Justiz RS0021072 [T6]). § 1118 ABGB macht also das Begehren auf Aufhebung des Vertrags von der vorherigen Einmahnung des rückständigen Zinses abhängig (RIS-Justiz RS0021229). Die Mahnung ist Voraussetzung der angestrebten Lösung des Bestandsverhältnisses (2 Ob 762/54 = MietSlg 3.940). Sie ist der Erklärung auf Vertragsauflösung vorauszuschicken (1 Ob 267/47 = EvBl 1947/442), muss also vor ihr erfolgt sein (vgl RIS-Justiz RS0021202).
+Aus dieser gesicherten Rechtsprechung ergibt sich unmittelbar, dass es nicht zulässig ist, im Mahnschreiben die Auflösung des Mietverhältnisses für den Fall zu erklären, dass binnen der gesetzten Frist die eingemahnten Mietzinse nicht bezahlt werden, da hier die Vertragsauflösung gerade nicht erst nach dem erfolglosen Verstreichen der Nachfrist erklärt wird. Ist aus gesicherter Rechtsprechung ohne weiteres die Lösung des zu entscheidenden Falls abzuleiten, liegt keine erhebliche Rechtsfrage vor (vgl RIS-Justiz RS0016805; RS0042926).
+Die weiteren von den Revisionswerbern als erheblich betrachteten Rechtsfragen betreffen Hilfsbegründungen des Berufungsgerichts für die Abweisung der Klage. Eine nicht tragende Hilfsbegründung kann nicht zum Gegenstand eines außerordentlichen Rechtsmittels gemacht werden, weil sie für den Streitausgang nicht erheblich ist (RIS-Justiz RS0042736).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E120705

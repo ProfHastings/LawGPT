@@ -1,0 +1,17 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2007
+Geschäftszahl
+7Ob158/07x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofes Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei T***** GmbH, *****, vertreten durch Mag. Martin Machold, Rechtsanwalt in Wien, gegen die beklagte Partei S*****-Gesellschaft mbH, *****, vertreten durch Dr. Longin Josef Kempf und Dr. Josef Maier, Rechtsanwälte in Peuerbach, wegen EUR 35.024,24 sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Graz als Berufungsgericht vom 17. April 2007, GZ 5 R 44/07s-62, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Dauerschuldverhältnisse können aus einem wichtigen Grund vorzeitig aufgelöst werden. § 1117 ABGB nennt für Bestandverhältnisse derartige wichtige Gründe für eine Auflösungserklärung des Mieters. Ob der Bestandnehmer wegen von ihm behaupteter Beeinträchtigungen der Benützung des Bestandobjektes (hier wegen mangelhaften Funktionierens des der Beklagten von der Klägerin vermieteten Kommunikationssystems mit Bordcomputern) im Sinne des § 1117 ABGB zur Auflösung des Bestandverhältnisses aus wichtigem Grund berechtigt ist, hängt von den Umständen des zu beurteilenden Einzelfalles ab und ist daher - von Fällen krasser Fehlbeurteilung durch die zweite Instanz abgesehen - keine Rechtsfrage im Sinne des § 502 Abs 1 ZPO (9 Ob 24/03z, RIS-Justiz RS0020919 [T4]).
+Eine „grobe Fehlbeurteilung" wird in der Zulassungsbeschwerde der Revisionswerberin im Wesentlichen darin erblickt, dass die Vorinstanzen ihr zu Unrecht die Beweislast für die Ursache von Funktionsstörungen der gemieteten Anlage zugewiesen hätten. Dieser Vorwurf ist allerdings rechtsirrig:
+Der Umstand, dass nicht feststellbar war, ob die Ursache der aufgetretenen Funktionsstörungen in Mängeln der Bestandsache oder aber in der Sphäre der Beklagten lag, geht nach ständiger Rechtsprechung zu deren Lasten. Denn das Vorliegen wichtiger Gründe für die vorzeitige Vertragsauflösung hat derjenige zu beweisen, der die vorzeitige Vertragsauflösung erklärte (7 Ob 542/85 uva). Die Beweislast dafür, dass ein Mangel vorliegt, der eine vorzeitige Auflösung des Bestandverhältnisses oder eine Zinsminderung nach § 1096 ABGB rechtfertigt, trifft also den Bestandnehmer (RIS-Justiz RS0021416).
+Da die Beklagte dieser Beweispflicht nicht genügte (es steht nicht fest, dass tatsächlich Hardware- oder Softwarefehler Ursache der Funktionsstörungen waren), kann von einer Fehlbeurteilung der Vorinstanzen, die aus Gründen der Rechtssicherheit vom Obersten Gerichtshof korrigiert werden müsste, keine Rede sein. Auch sonst vermag die Revisionswerberin keinen tauglichen Grund für die Zulassung ihres außerordentlichen Rechtsmittels aufzuzeigen. Die außerordentliche Revision muss daher zurückgewiesen werden. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).

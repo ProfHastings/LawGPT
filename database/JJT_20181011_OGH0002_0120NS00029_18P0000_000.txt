@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.10.2018
+Geschäftszahl
+12Ns29/18p
+Kopf
+Der Oberste Gerichtshof hat am 11. Oktober 2018 durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Schroll als Vorsitzenden sowie durch die Hofräte und die Hofrätinnen des Obersten Gerichtshofs Dr. T. Solé, Dr. Oshidari, Dr. Michel-Kwapinski und Dr. Brenner in Gegenwart der Rechtspraktikantin Mag. Holzer als Schriftführerin in der Strafsache gegen Rudolf V***** wegen des Verbrechens der Unzucht mit Unmündigen nach § 207 Abs 1 StGB (aF) und einer weiteren strafbaren Handlung, AZ 12 Vr 842/97, Hv 27/97 des Landesgerichts Korneuburg, über den Antrag des Opfers auf nachträgliche Anonymisierung von personenbezogenen Daten in Betreff der Veröffentlichung des Beschlusses des Obersten Gerichtshofs vom 15. April 1999, AZ 12 Os 34/99, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+In Betreff des im Rechtsinformationssystem des Bundes (RIS) veröffentlichten Beschlusses des Obersten Gerichtshofs vom 15. April 1999, AZ 12 Os 34/99, wird nachträglich die Anonymisierung des Geburtstags und Geburtsmonats sowie des Vornamens des Opfers angeordnet.
+Text
+Gründe:
+Mit Beschluss vom 15. April 1999, GZ 12 Os 34/99-6, wies der Oberste Gerichtshof die gegen das Urteil des Landesgerichts Korneuburg als Schöffengericht vom 25. November 1998, GZ 12 Vr 842/97-46, gerichtete Nichtigkeitsbeschwerde des Angeklagten, dem als Verbrechen der Unzucht mit Unmündigen nach § 207 Abs 1 StGB (aF) und Vergehen des Missbrauchs eines Autoritätsverhältnisses nach § 212 Abs 1 StGB beurteilte Tathandlungen zugrunde lagen, zurück.
+In den Gründen der Rechtsmittelentscheidung wurde auch der Vorname und das (vollständige) Geburtsdatum des Opfers angeführt. Im Rahmen der Veröffentlichung der Entscheidung im Rechtsinformationssystem des Bundes (RIS) erfolgte keine Anonymisierung der genannten Daten.
+Mit Schreiben vom 6. Juni 2018 beantragte das Opfer die Entfernung oder zumindest die Anonymisierung dieser Daten.
+Rechtliche Beurteilung
+Der Oberste Gerichtshof hat erwogen:
+Gemäß § 15 Abs 1 OGHG sind in die Entscheidungsdokumentation Justiz des RIS alle Entscheidungen des Obersten Gerichtshofs im Volltext aufzunehmen, die sich nicht in einer begründungslosen Zurückweisung eines Rechtsmittels erschöpfen. Nach Abs 4 leg cit sind dabei Namen, Anschriften und erforderlichenfalls auch sonstige Orts- und Gebietsbezeichnungen, die Rückschlüsse auf die betreffende Rechtssache zulassen, durch Buchstaben, Ziffern oder Abkürzungen so zu anonymisieren, dass die Nachvollziehbarkeit der Entscheidung nicht verloren geht. Solche Anordnungen hat grundsätzlich der erkennende Senat bei der Beschlussfassung zu treffen (Abs 5).
+Gemäß Art 17 Abs 1 lit a der – seit 25. Mai 2018 in jedem Mitgliedstaat der EU unmittelbar geltenden – DSGVO hat jede betroffene Person das Recht, zu verlangen, dass sie betreffende personenbezogene Daten unverzüglich gelöscht werden, sofern sie für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig sind.
+Gemäß Art 4 Z 1 DSGVO sind „personenbezogene Daten“ alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
+Die erwähnten Voraussetzungen treffen auf das vorliegende Anonymisierungsbegehren zu. Denn im Hinblick auf den wenig verbreiteten Vornamen des Opfers im Zusammenhalt mit dessen vollständigen Geburtsdaten ist dieses identifizierbar. Da die Nachvollziehbarkeit der Entscheidung auch bei Anonymisierung des Geburtstags und Geburtsmonats sowie des Vornamens des Opfers gewährleistet ist, war dem Antrag – vom für die Entscheidung über eine nachträgliche Anonymisierung zuständigen (vgl 14 Os 103/02; RIS-Justiz RS0132058, RS0125183 [T1, T2]) Senat – Folge zu geben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0120NS00029.18P.1011.000

@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.2021
+Geschäftszahl
+7Ob115/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei J***** K*****, vertreten durch Mag. Friedrich Kühleitner und Mag. Franz Lochbichler Rechtsanwälte-Strafverteidiger OG in Schwarzach, gegen die beklagte Partei A*****Aktiengesellschaft, *****, vertreten durch MUSEY rechtsanwalt gmbh in Salzburg, wegen 7.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 29. März 2021, GZ 22 R 16/21p-25, womit das Zwischenurteil des Bezirksgerichts Salzburg vom 23. November 2020, GZ 17 C 322/20w-21, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 626,50 EUR (darin enthalten 104,40 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Dem von den Parteien abgeschlossenen Unfallversicherungsvertrag liegen unter anderem die Allgemeinen Bedingungen für die Unfallversicherung (AUVB 2012) zugrunde. Diese lauten auszugsweise:
+„Artikel 7 – Welche Leistungen können bei dauernder Invalidität versichert werden?
+1. Dauernde Invalidität mit Kapitalleistung
+1.1 Welche Voraussetzungen bestehen für die Leistung und in welcher Art erfolgt die Leistung?
+- Die versicherte Person ist innerhalb eines Jahres nach dem Unfall auf Dauer in ihrer körperlichen oder geistigen Funktionsfähigkeit (dauernde Invalidität) durch den Unfall beeinträchtigt.
+Ein Anspruch auf Leistung für dauernde Invalidität ist innerhalb von 15 Monaten vom Unfalltag an geltend zu machen und unter Vorlage eines ärztlichen Befundes zu begründen.
+...“
+Rechtliche Beurteilung
+[2] 		Weder das Berufungsgericht noch der Kläger zeigen die Voraussetzungen des § 502 Abs 1 ZPO auf. Die Revision ist daher entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+[3] 		1.1 Mit Art 7.1.1 AUVB 2012 vergleichbare Klauseln waren bereits Gegenstand zahlreicher oberstgerichtlicher Entscheidungen. Zur 15-Monatsfrist wird in ständiger Rechtsprechung die Auffassung vertreten, dass es sich dabei um eine Ausschlussfrist handelt, bei deren – auch unverschuldeter (vgl RS0034591) – Versäumung der Entschädigungsanspruch des Unfallversicherten erlischt (RS0082292). Die Zweckrichtung der Regelung liegt in der Herstellung von möglichst rascher Rechtssicherheit und Rechtsfrieden. So soll der verspätet in Anspruch genommene Versicherer vor Beweisschwierigkeiten infolge Zeitablaufs geschützt und eine alsbaldige Klärung der Ansprüche herbeigeführt werden (RS0082216 [T1]). Die durch Setzung einer Ausschlussfrist vorgenommene Risikobegrenzung soll damit im Versicherungsrecht (in aller Regel) eine Ab- und Ausgrenzung schwer aufklärbarer und unübersehbarer (Spät-)Schäden bewirken (7 Ob 156/20x zu Klausel 3 mwN).
+[4] 		1.2 Nach bereits vorliegender Rechtsprechung des Obersten Gerichtshofs bedeutet eine kürzere Ausschlussfrist in AVB als die im § 12 VersVG normierte Verjährungsfrist grundsätzlich noch keine Gesetzwidrigkeit. Der richtige Ansatz für die Kontrolle von Risikoabgrenzungen durch Ausschlussfristen sind nicht Verjährungsvorschriften; vielmehr hat die Prüfung solcher Ausschlussfristen im Allgemeinen über die Inhalts-, Geltungs- und Transparenzkontrolle zu erfolgen (RS0116097; vgl zuletzt 7 Ob 47/19s). In seiner jüngst ergangenen Entscheidung 7 Ob 156/20x (= RS0122119 [T7] = RS0109447 [T8] = RS0082292 [T19]) stellte der Oberste Gerichtshof nochmals klar, dass die langjährige Rechtsprechung, wonach die 15-Monatsklausel in der Unfallversicherung weder gegen § 864a ABGB noch gegen § 879 Abs 3 ABGB verstoße, ausnahmslos aufrecht erhalten werde. Für die Unfallversicherung wurde die vor der Entscheidung des EuGH vom 14. 6. 2021, C-618/10 [Branco Espanol de Crédito] (RS0128735) in 7 Ob 250/01t vertretene – in 7 Ob 47/19s bloß referierte – Rechtsansicht, wonach in dem Fall, in dem der Versicherungsnehmer vor Ablauf der Ausschlussfrist keinen Hinweis darauf habe, dass sich ein Versicherungsfall innerhalb der Frist ereignet haben könnte, der Anspruchsverlust auch bei unverzüglicher Meldung im Sinn des § 33 Abs 1 VersVG als objektiv und subjektiv ungewöhnlich nach § 864a ABGB und damit die Klausel als teilnichtig angesehen werde, ausdrücklich nicht aufrecht erhalten.
+[5] 		2. Diese Rechtsansicht ist in der Lehre teilweise auf Kritik gestoßen. Fasoli/Neissl (Verbandsklage gegen 13 teils branchenübliche Versicherungsklauseln, Entscheidungsbesprechung zu OGH 7 Ob 156/20x ecolex 2021/208) bezweifeln die Einordnung als Präklusivfrist. Gisch/Weinrauch (Private Unfall- und Rechtsschutzversicherung: 12 von 13 überprüften Klauseln unzulässig, ZVers 2021, 80) bejahen die objektive und subjektive Ungewöhnlichkeit der Klausel nach § 864a ABGB wegen des Abstellens des Beginns der Ausschlussfrist ausschließlich auf den Zeitpunkt des Unfalls und nicht auf den Zeitpunkt der Kenntnis des Versicherungsnehmers von einer (möglichen) Invalidität. Ramharter (Fallfristen und Fallstricke in der Unfallversicherung, VbR 2021/65) erachtet die 15-Monatsklausel aufgrund einer nach § 15a Abs 1 VersVG unzulässigen Einschränkung des § 12 Abs 1 Satz 1 VersVG zugrundeliegenden Prinzips für unzulässig. Leupold/Gelbmann (Private Unfall- und Rechtsschutzversicherung AGB-Kontrolle, VbR 2021/61) verweisen ohne eigene Auseinandersetzung auf die genannten Autoren. Insgesamt werden aber keine neuen Argumente gebracht, die der Obersten Gerichtshof nicht bereits bedacht hat und die ihn zu einem Abgehen von seiner Rechtsansicht veranlassen könnten.
+[6] 		3. Aus der damit gegebenen Wirksamkeit des Art 7.1.1 AUVB 2012 folgt, dass der vom Kläger mehr als 15 Monate nach dem Unfalltag geltend gemachte Anspruch auf Leistung für dauernde Invalidität erloschen ist.
+[7] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+[8] 		5. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO; die Beklagte hat auf die Unzulässigkeit des Rechtsmittels hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00115.21V.0630.000

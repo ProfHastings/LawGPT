@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.04.1954
+Geschäftszahl
+3Ob262/54
+Norm
+JN §49 Abs1;
+JN §49 Abs2 Z5;
+JN §50;
+Kopf
+SZ 27/107
+Spruch
+Wertzuständigkeit, wenn die Frage strittig ist, ob der Bestandzins auf Grund einer Wertsicherungsklausel, des Reingewinnes oder des Umsatzes zu berechnen ist.
+Entscheidung vom 14. April 1954, 3 Ob 262/54.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Klägerin begehrt die Verurteilung des Beklagten zur Bezahlung eines Betrages von 32.250 S an rückständigem Pachtzins, der auf Grund der bei Abschluß des Pachtvertrages getroffenen Vereinbarung nach dem Umsatz des dem Beklagten verpachteten Geschäftes, den die Klägerin mit 450.000 S jährlich annimmt, zu berechnen ist.
+Das Prozeßgericht wies die Klage über Unzuständigkeitseinrede des Beklagten ohne mündliche Verhandlung wegen sachlicher Unzuständigkeit zurück, weil es sich um einen Streit über die Erhöhung des Pachtzinses handle und ein solcher Streit eine Streitigkeit aus einem Bestandvertrage betreffe, weshalb gemäß § 49 Abs. 2 Z. 5 JN. das Bezirksgericht ausschließlich zuständig sei.
+Das Rekursgericht verwarf die Unzuständigkeitseinrede und trug dem Prozeßgericht die Fortsetzung des gesetzlichen Verfahrens und die Entscheidung über die Klage auf. Es war der Ansicht, daß es sich um eine Klage auf Bezahlung des Bestandzinses handle und daß nicht streitig sei, ob der Pachtzins gegenüber dem vereinbarten erhöht werden solle, sondern darum, ob der Beklagte den vereinbarten Pachtzins bezahlt habe oder ob zufolge des erhöhten Umsatzes noch ein Rückstand aus dem vereinbarten Pachtzins besteht. Das Klagebegehren sei eindeutig auf Bezahlung des rückständigen Pachtzinses gerichtet. In einem solchen Fall richte sich die Zuständigkeit nach dem Wert des Streitgegenstandes.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zunächst muß darauf verwiesen werden, daß der vom Erstrichter eingehaltene Vorgang, über die bei der ersten Tagsatzung erhobene Unzuständigkeitseinrede außerhalb einer mündlichen Verhandlung zu entscheiden, der Vorschrift des § 261 Abs. 1 ZPO. widerspricht. Ganz abgesehen davon ist die Ansicht des Erstrichters, es handle sich um einen Streit über die Erhöhung eines Pachtzinses, verfehlt, vielmehr die Meinung des Rekursgerichtes richtig, daß das Begehren auf Bezahlung des rückständigen, vereinbarten Pachtzinses gerichtet ist. Die Klägerin behauptet in der Klage, der Pachtzins sei nach dem Umsatz des verpachteten Unternehmens zu berechnen, der Umsatz habe 450.000 S jährlich betragen, der Beklagte schulde daher entsprechend der getroffenen Vereinbarung an rückständigem Pachtzins den Klagsbetrag. Aus diesem Vorbringen ergibt sich bereits, daß die sachliche Zuständigkeit des Gerichtshofes gemäß § 50 Abs. 1 JN. gegeben ist, da die Voraussetzungen des § 49 Abs. 2 Z. 5 JN. nicht vorliegen. Ob die Behauptungen der Klägerin, der Pachtzins sei nach dem Umsatz zu berechnen, richtig sind oder nicht, ist erst im Verfahren über den Anspruch selbst zu prüfen und, falls sich in diesem Verfahren ergeben sollte, daß lediglich ein bestimmter fixer Pachtzins ohne Rücksicht auf Umsatz, Reingewinn oder sonstige Umstände vereinbart wurde, das Klagebegehren meritorisch mit Urteil abzuweisen, keinesfalls ist aber im Verfahren über die Unzuständigkeitseinrede zu prüfen, ob eine derartige Vereinbarung getroffen wurde oder nicht, weil der geltend gemachte Anspruch ausdrücklich auf die Vereinbarung über den Pachtzins gestützt wird. Es besteht entgegen der Meinung des Revisionsrekurses im vorliegenden Fall kein untrennbarer Zusammenhang zwischen der Entscheidung über die Unzuständigkeitsfrage und der in der Sache selbst; denn wurde die von der Klägerin behauptete Vereinbarung nicht getroffen, dann ist nicht das Bezirksgericht für die Entscheidung gemäß § 49 Abs. 2 Z. 5 JN. zuständig, sondern es besteht der Anspruch der Klägerin nicht zu Recht. Schon aus diesem Gründe können die vom Revisionsrekurs bezogenen Entscheidungen auf die vorliegende Rechtssache nicht angewendet werden. Der vom Beklagten unternommene Vergleich mit dem Fakturengerichtsstand geht fehl, weil es sich beim Vorbringen hinsichtlich der Voraussetzungen des § 88 Abs. 2 JN. in der Klage nicht um den Anspruch, sondern lediglich um die die Zuständigkeit begrundende Behauptungen handelt.
+Es ist aber auch die Ansicht des Rechtsmittelwerbers unrichtig, es handle sich um einen Streit über das Bestehen der vereinbarten Berechnungsart des Bestandzinses, vielmehr ist der Anspruch auf Bezahlung eines nach den Klagsbehauptungen rückständigen vereinbarten Bestandzinses gerichtet. Im übrigen wäre die Zuständigkeit des Gerichtshofes auch dann gegeben, wenn die Frage strittig wäre, ob der Bestandzins auf Grund einer Wertsicherungsklausel, des Reingewinnes oder des Umsatzes zu berechnen ist, da die Art, auf welche die Klägerin den Zinsrückstand berechnet, ohne Bedeutung für den Klagegrund ist (3 Ob 337/52). Der Klagsgrund ist aber der behauptete Rückstand eines vereinbarten Bestandzinses.

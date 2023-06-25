@@ -1,0 +1,66 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.04.1949
+Geschäftszahl
+1Ob178/49
+Norm
+ABGB §879;
+Allgemeines Handelsgesetzbuch vom 17. Dezember 1862, RGBl. Nr. 1/1863
+Art98;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §109;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §121;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §122;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §339;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art7 Nr. 10;
+ZPO §503 Z2;
+ZPO §503 Z3;
+ZPO §503 Z4;
+Kopf
+SZ 22/55
+Spruch
+Gültigkeit der zwischen zwei Gesellschaftern einer offenen Handelsgesellschaft getroffenen Vereinbarung, daß der eine Gesellschafter seinen Gewinn- und Geschäftsanteil zugunsten des anderen reduziere, auch wenn die anderen Gesellschafter nicht zugestimmt haben.
+Wirtschaftliche Gleichwertigkeit der Leistungen keine Voraussetzung der Gültigkeit des Vertrages.
+Entscheidung vom 20. April 1949, 1 Ob 178/49.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die Klage auf Nichtigerklärung des unten angeführten Vertrages wurde vom Obersten Gerichtshof in Abänderung der berufungsgerichtlichen Entscheidung abgewiesen.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+I. H. A. und A. A. waren offene Gesellschafter der Firma J. A. und Söhne. Der Vater des Klägers H. A., K. A. senior, hatte gegen die Firma eine Forderung von 126.000 S und war überdies als stiller Gesellschafter mit einer Einlage von 140.000 S beteiligt; laut Klagsbehauptung betrug sein Gewinnanteil 33 1/3%.
+Nach dem Tode des K. A. senior schloß der Kläger mit seinen Geschwistern, den Beklagten, am 22. März 1940 nachstehendes Übereinkommen, das am 6. Juni 1944 vom Nachlaßgericht abhandlungsbehördlich genehmigt wurde.
+Das von H. A., Dr. A. B. und E. H. unterschriebene Übereinkommen lautet:
+"1. Die Vertragsteile Herr H. A. einerseits und die erbserklärten Erben nach K. A. senior anderseits, diese vertreten durch Herrn Dr. A. B. und Herrn E. H. sind zu folgendem Übereinkommen gelangt:
+2. H. A. reduziert seinen Gewinnanteil, bzw. Geschäftsanteil an der Firma J. A. & Söhne auf 17% als Gesellschafter.
+3. Für die obige Reduzierung wird er bezüglich seiner Schuld an den Nachlaß vollkommen kompensiert und gilt als vollkommen verrechnet mit den erbserklärten Erben.
+4. Für die neu zu grundende Gesellschaft m. b. H. als Überleitung der offenen Handelsgesellschaft ist H. A. als Geschäftsführer obiger Gesellschaft in Aussicht genommen, respektive sind Punkt 1 bis 3 daran gebunden.
+5. Als Entgelt für die Leistung als Geschäftsführer bei obiger Firma ist an Stelle eines Fixums eine Umsatzbeteiligung im Ausmaße von 2% bis 4% vereinbart, und zwar der eingegangenen Beträge.
+6. Die Entnahme dieser Beträge kann jedoch mit 600 RM beschränkt werden pro Monat.
+7. Als zweiter Geschäftsführer gilt für die Wahrung der Interessen der erbserklärten Erben Herr E. H., dem ein Fixum von 250 bis 350 RM pro Monat vom Tage der Errichtung der Gesellschaft zugesichert wird. Der Wirkungskreis beschränkt sich im Prinzip auf das Kontrollrecht.
+Bei Geschäftsfällen bis zu 10.000 RM kann der Geschäftsführer H. A. allein verfügen. Über dieses Limit hinaus nur mit Einwilligung des Vorstandes. Hier steht Herrn E. H. ein Veto-Recht zu.
+8. Herrn H. A. steht das Recht zu, die derzeit bestehende Firma O.
+K. weiterzuführen, dies jedoch nur im Rahmen, wie das Geschäft im Jahre 1939 geführt wurde.
+Eine Schädigung der Firma J. A. & Söhne muß ausgeschlossen sein.
+Als Gegenleistung für diese Zubilligung erhält die Firma J. A. & Söhne eine Umsatzbeteiligung von 2 bis 4% der eingegangenen Beträge von der Firma O. K. 9. Bezüglich der Berichtigung der Legate der Minderjährigen steht die Entscheidung beim Vormundschaftsgericht.
+10. Dieses Übereinkommen erkläre ich (scil. H. A.) verbindlich für meine Erben.
+11. Eine meiner Töchter (scil. des H. A.), die textiltechnisch geschult ist, hat Anspruch auf eine entsprechende Anstellung bei der Firma.
+12. Punkt 1 bis 11 gilt auch dann, wenn die Errichtung der Gesellschaft m. b. H. nicht zustande kommt und es bei der offenen Handelsgesellschaft bleibt, sowie auch, wenn mit Herrn A. A. keine Einigung erzielbar ist."
+Kläger begehrt die Nichtigerklärung des angeführten Übereinkommens. Das Erstgericht hat das Klagebegehren abgewiesen. Das Berufungsgericht hat dem Klagebegehren Folge gegeben, weil
+a) eine Gesellschaft nicht befugt sei, ohne Einwilligung des anderen Gesellschafters seinen Kapitalsanteil zu mindern;
+b) der Vertrag der vom Gesetz geforderten Bestimmtheit und Verständlichkeit entbehre;
+c) der Vertrag gegen die guten Sitten verstoße, weil der Kläger den Beklagten einen Vermögenswert von rund 217.000 RM durch den Vertrag zugewendet habe, dafür, daß er die Befreiung einer Schuld von 16.000 RM und eine rechtlich bedeutungslose Befreiung von der Haftung bezüglich einer Primärschuld von 84.000 RM erhalten habe.
+Die Beklagten haben gegen die berufungsgerichtliche Entscheidung die Revision erhoben, in der sie die Revisionsgrunde des § 503 Z. 2 bis 4 ZPO. geltend machen.
+II. Die Revision ist begrundet, soweit sie unrichtige rechtliche Beurteilung behauptet.
+§ 122 Abs. 2 HGB., auf den sich das Berufungsgericht beruft, ist nicht anwendbar, weil diese gesetzliche Bestimmung nur bedeutet, daß kein Gesellschafter einen Teil seiner Einlage zurückfordern darf; daher führt die eigenmächtige Entnahme von Mitteln der Gesellschaft überhaupt keine Verminderung seines Kapitalsanteiles herbei, da er zur Wiedereinzahlung verpflichtet bleibt.
+Aber auch aus Art. 7 Nr. 10 der 4. Verordnung zur Einführung handelsrechtlicher Vorschriften im Lande Österreich kann die Nichtigkeit des Punktes 2 der getroffenen Vereinbarung nicht abgeleitet werden. Diese Gesetzesstelle besagt inhaltlich dasselbe wie Art. 98 AHGB. vom 17. Dezember 1862, daß nämlich kein Gesellschafter ohne Einwilligung der übrigen Gesellschafter einen Dritten in die Gesellschaft aufnehmen dürfe und daß durch die einseitige Beteiligung eines Dritten oder die einseitige Abtretung des Anteiles an einen Dritten dieser gegen die Gesellschaft unmittelbar keine Rechte erlange. Im Verhältnis zwischen den Vertragsparteien ist aber eine Abtretung von Geschäftsanteilen oder Teilen von Gesellschaftsanteilen gültig; sie wirkt den übrigen Gesellschaftern gegenüber als Unterbeteiligung oder interne Abtretung.
+An der Gültigkeit dieser Vereinbarung hätte das Berufungsgericht bei richtiger rechtlicher Beurteilung der Sache um so weniger zweifeln dürfen, als Punkt 12 ausdrücklich die Wirksamkeit der getroffenen Vereinbarung auch für den Fall vorsieht, wenn der andere offene Gesellschafter A. A. die Zustimmung zu der getroffenen Vereinbarung ablehnen sollte.
+Daran änderte auch die Tatsache nichts, daß einzelne Punkte des Vertrages, so insbesondere Punkt 7, erst dann wirksam werden können, wenn alle Personen, deren Beitritt in Aussicht genommen war, diesem Abkommen auch tatsächlich beigetreten sind. Das kann aber nur die Folge haben, daß diese Vertragspunkte vorläufig noch nicht in Kraft treten.
+III. Rechtlich verfehlt ist ferner die Auffassung des Berufungsgerichtes, daß die Punkte 4, bzw. 5 unklar seien und daß Punkt 12 mit den Punkten 4 bis 7 im Widerspruch stehe.
+Das Berufungsgericht übersieht, daß Vereinbarungen zum Abschluß eines Ges. m. b. H.-Vertrages nur dann klagbar sind, wenn sie in Form eines Notariatsaktes abgeschlossen werden (E. v. 4. Jänner 1928, Rsp. 1928, Nr. 136). Da Punkt 4 also eine rechtliche Bindung nicht bewirken konnte, so war es durchaus sinnvoll, wenn die Parteien vorsorglich die Abmachung trafen, daß die getroffenen Vereinbarungen auch insolange gelten sollten, als der projektierte Ges. m. b. H.-Vertrag nicht zustandegekommen ist.
+Auch Punkt 4 ist vollkommen eindeutig. Er kann im Zusammenhange nur dahin verstanden werden, daß alle Bestimmungen eine Einheit bilden sollen und daß A. zum Abschluß des Ges. m. b. H.-Vertrages nur dann verpflichtet sein sollte, wenn ihm die Geschäftsführerstelle eingeräumt werde und daß er nur dann sich mit den vorgesehenen reduzierten Anteilen zufriedengeben müsse. Übrigens wäre eine Unklarheit in diesem Punkte unschädlich, weil, wie bemerkt, eine klagbare Verpflichtung zum Abschluß eines Ges. m. b. H.-Vertrages nicht besteht, Punkt 4 daher jeder verbindlichen Wirkung entbehrt und der allein wirksame Teil des Vertrages sich auf interne Regelung des Verhältnisses H. A. zu seinen Geschwistern bei Weiterbestand der offenen Handelsgesellschaft bezieht, diesbezüglich aber mit Rücksicht auf Punkt 12 des Vertrages es keinem Zweifel unterliegen kann, daß die Reduktion der Anteile H. A. im Innenverhältnis sofort wirksam sein sollte.
+Unrichtig ist ferner die Annahme des Berufungsgerichtes, daß Punkt 3 unklar sei, weil der Kläger anteilsmäßig als Gesellschafter hafte, wenn die Forderung von 126.000 S, d. s. 84.000 RM, gegen die Gesellschaft geltend gemacht werde, und daß daher der im Punkt 3 niedergelegte Verzicht wertlos sei. Diese Rechtsauffassung ist verfehlt, da die Beklagten in einem solchen Falle dem Kläger regreßpflichtig wären, wenn er von der Gesellschaft zur Zahlung seiner Quote an der erwähnten Forderung herangezogen würde, weil die Beklagten die Forderung gegen sie geltend gemacht haben. Von einer Unklarheit der Formulierung kann daher keine Rede sein.
+Nur der Vollständigkeit halber sei bemerkt, daß der Kläger allenfalls wegen Unklarheit einzelner Vertragsklauseln nur eine Feststellung der Unwirksamkeit des Vertrages hätte verlangen können, aber nicht Nichtigerklärung des Vertrages, das heißt Aufhebung des Vertrages durch Gerichtsurteil.
+IV. Abwegig ist endlich die Anschauung des Berufungsgerichtes, daß der Vertrag gegen die guten Sitten verstoße, weil Kläger Konzessionen gemacht habe, die mit den Gegenleistungen in keinem Verhältnis stehen. Wirtschaftliche Gleichwertigkeit der Leistungen ist bei einem zweiseitigen Vertrag keine Voraussetzung seiner Gültigkeit, es muß überdies ein Ausbeutungstatbestand nach § 879 Abs. 2 Z. 4 ABGB. vorliegen. Das wird aber vom Berufungsgericht gar nicht angenommen.
+Übrigens ist es gar nicht richtig, daß die gegenseitigen Leistungen in krassem Mißverhältnis stehen, denn das Berufungsgericht hat übersehen, daß K. A. stiller Gesellschafter der Firma gewesen ist und Anspruch auf ein Drittel des Reingewinnes hatte. Das stille Gesellschaftsverhältnis ist aber auch auf seine Erben übergegangen (§ 339 Abs. 2 HGB.), die Beklagten hätten daher weiterhin Anspruch auf eine entsprechende Reingewinnbeteiligung im Verhältnis zu ihrer Erbquote gehabt. Durch den vorliegenden Vertrag sollte aber das Verhältnis zwischen den Geschwistern offenkundig auf eine völlig neue Basis gestellt werden, womöglich in Form einer Gesellschaft mit beschränkter Haftung. Es sollte also die stille Gesellschaft wegfallen und damit auch die Gewinnbeteiligung und an deren Stelle eine Beteiligung als Gesellschafter einer Gesellschaft m. b. H., als offener Handelsgesellschafter oder Unterbeteiligter treten.
+Der von der Beklagten im Vertrag angegebene Wert ihrer stillen Beteiligung hätte demnach ebenfalls bei Berechnung der angemessenen Gegenleistung berücksichtigt werden müssen, wenn der Äquivalenz der Leistungen überhaupt eine rechtliche Bedeutung zukäme, was, wie bemerkt, nicht der Fall ist.
+Aus diesen Erwägungen war die erstrichterliche Entscheidung wiederherzustellen, ohne daß zu den formellen Revisionsgrunden Stellung zu nehmen war.

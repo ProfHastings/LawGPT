@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2011
+Geschäftszahl
+1Ob28/11s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Bydlinski, Dr. Grohmann, Mag. Wurzer und Mag. Dr. Wurdinger als weitere Richter in der Rechtssache der klagenden Partei B***** GmbH in Liquidation, *****, vertreten durch Engin-Deniz Reimitz Hafner, Rechtsanwälte KG in Wien, gegen die beklagte Partei Republik Österreich, vertreten durch die Finanzprokuratur in Wien, wegen Feststellung (Streitwert 205.011,83 EUR) über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. November 2010, GZ 14 R 88/10d-19, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 2. Februar 2010, GZ 31 Cg 1/09h-15, teilweise abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die klagende Partei hatte ein Konto bei einer Bank, über deren Vermögen am 27. 10. 1998 der Konkurs eröffnet wurde. Das Konkursverfahren ist nach wie vor anhängig. Die klagende Partei meldete eine Konkursforderung von 224.793,67 EUR (Kontostand zum Zeitpunkt der Eröffnung des Konkurses) an. Nach Zwischenverteilungen im Konkursverfahren ist eine Konkursforderung von 205.011,83 EUR offen.
+Die klagende Partei begehrt im Amtshaftungsverfahren die Feststellung der Haftung der beklagten Partei für den Ausfall der klagenden Partei an der noch offenen Konkursforderung samt 4 % Zinsen seit 9. 7. 1998.
+Rechtliche Beurteilung
+Thema der außerordentlichen Revision ist ausschließlich, zu welchem Zeitpunkt die Schadenersatzforderung der klagenden Partei fällig wurde und ob ihr die gesetzlichen Verzugszinsen (§ 1333 Abs 1 iVm § 1000 ABGB) aus der offenen Konkursforderung schon ab dem Tag der Konkurseröffnung oder erst ab dem Zugang des Aufforderungsschreibens am 9. 7. 2008 (so die Auffassung des Berufungsgerichts) zustehen.
+Nach der ständigen (auch jüngeren) Rechtsprechung des Obersten Gerichtshofs und der überwiegenden Lehre wird eine Schadenersatzforderung erst dann fällig, wenn der Geschädigte den Schaden zahlenmäßig bestimmt (eingemahnt) hat (RIS-Justiz RS0023392; ebenso Reischauer in Rummel3, § 1323 Rz 16 mwN; Größ in Klete?ka/Schauer, ABGB-ON 1.00 § 1334 Rz 5; vgl Harrer in Schwimann, ABGB3 VI, § 1323 Rz 63). Dieser Zeitpunkt der Fälligkeit ist maßgeblich für den objektiven Verzug (§ 1334 Satz 1 ABGB) mit der Begleichung einer Schadenersatzforderung und damit den Beginn des Laufs der gesetzlichen Verzugszinsen nach § 1333 Abs 1 - seit 1. 8. 2002 iVm § 1000 ABGB (RIS-Justiz RS0023392 [T6]; Reischauer aaO § 1334 Rz 2 und 16 mwN; Harrer aaO § 1323 Rz 63 und § 1333 Rz 3 mwN; Danzl in KBB3 § 1334 Rz 1 und 3).
+Die Revisionswerberin beruft sich auf die gegenteilige Auffassung Koziols (Österreichisches Haftpflichtrecht3 [1997] I Rz 15/6), der (nur) im Fall der objektiven Schadensberechnung für die Beurteilung der Fälligkeit einer Schadenersatzforderung und den Lauf der gesetzlichen Verzugszinsen auf den Zeitpunkt des Schadenseintritts abstellt.
+Eines Eingehens auf diese Lehrmeinung bedarf es aber im vorliegenden Fall nicht, weil hier die klagende Partei keinen objektiv-abstrakt berechneten Schadenersatz (Wert zur Zeit der Beschädigung) iSd § 1332 ABGB geltend macht, wenn sie in der Klage auf Feststellung der Haftung für den im Konkursverfahren der Bank entstehenden Forderungsausfall geltend macht, es stehe die Höhe des Schadens vor Abschluss dieses Verfahrens nicht fest.
+Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).

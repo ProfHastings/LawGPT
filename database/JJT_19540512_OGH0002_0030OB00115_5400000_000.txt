@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.05.1954
+Geschäftszahl
+3Ob115/54
+Norm
+ABGB §823;
+ZPO §1;
+ZPO §6;
+Kopf
+SZ 27/132
+Spruch
+Annahme der Erbserklärung ist keine Voraussetzung der Zulässigkeit der Erbrechtsklage.
+Ein erbserklärter Erbe kann bei widersprechenden Erbserklärungen vor Erlassung der Einantwortungsurkunde weder namens der Verlassenschaft noch im eigenen Namen für den Erblasser Prozeß führen.
+Entscheidung vom 12. Mai 1954, 3 Ob 115/54.
+I. Instanz: Kreisgericht Krems; II. Instanz: Oberlandesgericht Wien.
+Text
+Im Verlassenschaftsverfahren nach der am 14. Feber 1950 verstorbenen Elisabeth F., gab der durch die Todfallsaufnahme ausgewiesene erblasserische Neffe Hans Sch., der Kläger, die bedingte Erbserklärung auf Grund der Testamente aus den Jahren 1932 und 1936 ab, die er nach deren Auffindung dem Gerichte vorlegen wollte. Da gleichzeitig auch Erbserklärungen auf Grund eines Testamentes vom 26. November 1947 von den beklagten Parteien abgegeben worden waren, wurde der Kläger mit seinen Ansprüchen gemäß § 126 Abs. 2 AußstrG. auf den Zivilrechtsweg verwiesen; er überreichte die vorliegende Klage innerhalb der ihm hiefür erteilten Frist. Er begehrte die Nichtigerklärung des Testaments vom 26. November 1947 unter Aberkennung des Erbrechtsanspruches der Beklagten aus diesem Testament und die Nichtigerklärung des zwischen der Erblasserin als Verkäuferin und den Beklagten als Käufer abgeschlossenen Kaufvertrages über die Liegenschaft EZ. 440, Grundbuch K, und die Einbeziehung dieser Liegenschaft in das Nachlaßverfahren nach Elisabeth F. Er stützte die Klage darauf, daß die Erblasserin zur Zeit der Testamentserrichtung geistesschwach und deshalb auch zum Abschluß des Kaufvertrages unfähig gewesen wäre.
+Das Erstgericht gab der Klage statt und stellt fest, daß die Erblasserin anläßlich der gegenständlichen Vertrags- und Testamentserrichtung handlungsunfähig war und der Kaufvertrag außerdem nach § 879 Z. 4 ABGB. nichtig sei.
+Das Berufungsgericht hob das Urteil auf und verwies die Rechtssache mit Rechtskraftvorbehalt an das Erstgericht zurück. Es stimmte dem Erstgerichte in der Beurteilung der Handlungsfähigkeit der Erblasserin zu, vermeinte aber, daß die Klagslegitimation des Klägers noch nicht genügend überprüft worden sei. Die Erbrechtsklage sei eine positive Feststellungsklage, deren Gegenstand die endgültige Delation des Erbrechts an den Kläger sei. Dieser habe daher zunächst sein eigenes Erbrecht zu beweisen. Ohne einen solchen Nachweis könne er weder die Gültigkeit des Testaments vom 26. November 1947 bestreiten, noch könne ihm das rechtliche Interesse an der alsbaldigen Feststellung der Ungültigkeit des Kaufvertrages zugebilligt werden.
+Der Oberste Gerichtshof trug dem Berufungsgericht die Urteilsfällung in der Sache auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Berufungsgericht irrt zunächst darin, daß es in der erhobenen Klage eine auf das Erbrecht des Klägers Bezug habende positive Feststellungsklage erblickt. Die Fassung der Klage ergibt eindeutig, daß es sich um eine negative Feststellungsklage mit dem Ziele handelt, das Erbrecht der Beklagten auf Grund des als nichtig angefochtenen Testaments zu beseitigen. Erbrechtsklagen werden allgemein in dieser Form erhoben. Damit wird mit Wirkung zwischen den Streitparteien nur festgestellt, daß der Titel, auf den sich die Beklagten stützen, ungültig ist. Zu einer postiven Entscheidung über die Erbberechtigung des Klägers ist diese Klage nicht geeignet (vgl. 3 Ob 47/52). Wie der Urteilsantrag in einer Erbrechtsklage zu lauten hat, kann immer nur an Hand des einzelnen Falls beurteilt werden. Zu der vorliegenden Klage war der Kläger jedenfalls auf Grund der von ihm abgegebenen Erbserklärung im Zusammenhang mit der vom Abhandlungsgericht ausgesprochenen Verweisung auf den Rechtsweg legitimiert. Es war dabei ohne Bedeutung, daß seine Erbserklärung vom Gericht (scheinbar versehentlich) noch nicht angenommen worden war (GlU. 7599). Was den Urteilsspruch über die Ungültigkeit des Testaments betrifft, bedurfte es daher keiner weiteren Feststellungen über die Erbenqualität des Klägers, dies umsoweniger, als der Kläger bereits die Erklärung abgegeben hatte, daß er sich subsidiär auch auf Grund des Gesetzes als der einzige zur Erbfolge berufene Verwandte der Erblasserin erbserklären werde.
+Was aber das Begehren in bezug auf die Ungültigkeit des Kaufvertrages betrifft, den die Erblasserin mit den Beklagten abgeschlossen hatte, so ist nicht zu ersehen, in welcher Eigenschaft der Kläger die Gültigkeit des Kaufvertrages anficht. Als Erbe konnte er bestenfalls im Namen der Verlassenschaft gleich einem Nachlaßkurator einschreiten. Dies wäre ihm allerdings mit Rücksicht auf das Vorliegen widersprechender Erbserklärungen verwehrt.
+Im eigenen Namen kann der Erbe aber jedenfalls erst nach der Einantwortung auftreten. Da ihm die Parteistellung fehlt, kann es zu einer Überprüfung seines rechtlichen Interesses an der alsbaldigen Feststellung der Ungültigkeit des Kaufvertrages, wie ein solches vom Erstgericht angenommen worden ist, überhaupt nicht kommen. Das Klagebegehren war daher in diesem Punkte abzuweisen. Die vom Berufungsgericht vorgenommene Aufhebung des erstrichterlichen Urteils und die Rückverweisung der Sache an die erste Instanz war daher in jedem Falle überflüssig.

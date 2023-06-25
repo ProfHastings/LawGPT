@@ -1,0 +1,55 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2017
+Geschäftszahl
+7Ob129/17x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei T***** H*****, vertreten durch Mag. Daniel E. Jahrmann, Rechtsanwalt in Neunkirchen, und den Nebenintervenienten J***** S*****, vertreten durch Mag. Joachim Pfeiler, Rechtsanwalt in Brunn am Gebirge, gegen die beklagte Partei J***** AG, *****, vertreten durch Wiedenbauer Mutz Winkler & Partner Rechtsanwälte GmbH in Wien, wegen 9.750 EUR sA, über die Revisionen der klagenden Partei und des Nebenintervenienten gegen das Urteil des Landesgerichts Wiener Neustadt vom 21. April 2017, GZ 58 R 122/16p-32, womit das Urteil des Bezirksgerichts Neunkirchen vom 30. August 2016, GZ 3 C 956/15v-26, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revisionen werden zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 909,37 EUR (darin enthalten 145,19 EUR an USt) bestimmten Kosten des Revisionsverfahrens, binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Dem Unfallversicherungsvertrag zwischen dem Kläger und der Beklagten liegen die J***** Unfallversicherungsbedingungen Stand 1. 1. 2008 (AVB 2008) und die Zusatzbedingungen zur J***** Unfallversicherung Best Selection Stand 1. 1. 2008 (Zusatzbedingungen 2008) zugrunde. Diese lauten auszugsweise:
+AVB 2008
+„[...]
+Art 2
+Welche Leistungsarten können vereinbart werden?
+[...]
+2.1 Invaliditätsleistung
+Soweit nicht etwas anderes vereinbart ist, gilt:
+2.1.1 Voraussetzungen für die Leistung:
+2.1.1.1 [...]
+Die Invalidität ist
+- innerhalb eines Jahres nach dem Unfall eingetreten und
+- innerhalb von 15 Monaten nach dem Unfall von einem Arzt schriftlich festgestellt und von Ihnen bei
+- uns innerhalb von 18 Monaten nach dem Unfall geltend gemacht worden.
+[…]
+Art 16
+Welches Recht gilt für den Versicherungsvertrag?
+Für den Versicherungsvertrag gilt das Recht der Bundesrepublik Deutschland. Zwingende Verbraucher-schutzvorschriften sind zu Ihren Gunsten auch für diesen Vertrag gültig.
+[...]“
+Zusatzbedingungen 2008
+„[...]
+24. Fristverlängerung bei Invaliditätsansprüchen
+In Abänderung von Z 2.1.1.1 der Allgemeinen Bedingungen für die J***** Unfallversicherung muss die Invalidität
+innerhalb von 15 Monaten nach dem Unfall eingetreten sein und
+spätestens vor Ablauf einer Frist von weiteren sechs Monaten von einem Arzt schriftlich festgestellt und von Ihnen bei uns geltend gemacht werden.“
+1. Das Berufungsgericht ließ die ordentliche Revision zu der weder im erstgerichtlichen noch im Berufungsverfahren relevierten und vom Berufungsgericht inhaltlich auch nicht behandelten Frage zu, ob die „Klausel 2.1.1.1 der Versicherungsbedingungen“ im Sinn des § 6 Abs 3 KSchG unklar oder unverständlich sei.
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts ist die ordentliche Revision nicht zulässig.
+2.1 Nach § 6 Abs 3 KSchG ist eine in Allgemeinen Geschäftsbedingungen enthaltene Vertrags-bestimmung unwirksam, wenn sie unverständlich abgefasst ist. Durch das Transparenzgebot soll eine durchschaubare, möglichst klare und verständliche Formulierung Allgemeiner Geschäftsbedingungen sichergestellt werden. Der typische Verbraucher soll nicht von der Durchsetzung seiner Rechte dadurch abgehalten werden, dass ihm ein unzutreffendes oder unklares Bild seiner vertraglichen Position vermittelt wird (RIS-Justiz RS0115217 [T8]; RS0115219 [T1]).
+2.2 Mit der gegenständlichen Vertrags-bestimmung wortgleiche oder vergleichbare Fristenregelungen sind in zahlreichen Unfallversicherungsbedingungen enthalten. Sie wurden vom Obersten Gerichtshof  auch bereits unbeanstandet angewendet (vgl etwa 7 Ob 63/07a mwN; 7 Ob 102/15y). Die in der Revision relevierte Nichtigkeit iSd  § 6 Abs 3 KSchG, weil ein durchschnittlich verständiger Versicherungsnehmer die verschiedenen Fristen nicht verstehe, ist schon aufgrund des insoweit völlig eindeutigen Wortlauts der Klausel nicht gegeben.
+3. Die Rechtsmittelwerber argumentieren weiters, dass die Berufung der Beklagten auf die Fristversäumnis treuwidrig sei.
+Die Vorinstanzen gingen bei der Beurteilung von der Anwendung deutschen Rechts aus, wogegen sich die Revisionen nicht wenden.
+3.1 Der BGH vertritt, dass sich das Berufen des Versicherers auf den Ablauf der Frist zur ärztlichen Feststellung im Einzelfall als rechtsmissbräuchlich erweisen kann. Dies ist etwa dann anzunehmen, wenn dem Versicherer ein Belehrungsbedarf des Versicherungsnehmers hinsichtlich der Rechtsfolgen der Fristversäumnis deutlich wird, er aber gleichwohl eine solche Belehrung unterlässt. Davon kann auszugehen sein, wenn der Versicherte Invaliditätsansprüche rechtzeitig geltend macht, seine Angaben oder die von ihm vorgelegten ärztlichen Atteste den Eintritt eines Dauerschadens nahelegen, die erforderliche ärztliche Feststellung der Invalidität aber noch fehlt. Gleiches kommt in Betracht, wenn der Versicherer nach Geltendmachung von Invalidität von sich aus noch innerhalb der Frist zur ärztlichen Feststellung ein ärztliches Gutachten einholt, ohne den Versicherungsnehmer darauf hinzuweisen, dass er unbeschadet dessen selbst für eine fristgerechte ärztliche Feststellung der Invalidität zu sorgen habe (BGH IV ZR 154/04). Der BGH sprach weiters aus, dass es dem Versicherer nur in Ausnahmefällen verwehrt ist, sich auf eine Fristversäumnis zu berufen. (BGH IV ZR 39/11).
+3.2 Die vom Kläger mit der Schadensabwicklung bevollmächtigte Nebenintervenientin übermittelte im August 2011 der Beklagten eine Schadensmeldung über den vom Kläger am 8. 5. 2011 erlittenen Unfall sowie eine Schadensanzeige. Mit Schreiben vom 18. 8. 2011 und 31. 8. 2011 wies die Beklagte den Kläger ausdrücklich auf die Voraussetzungen für die Entstehung eines Anspruchs auf Invaliditätsleistung und auf die einzuhaltenden Fristen nach Pkt 24 der Zusatzbedingungen hin. Im September 2012 informierte eine Mitarbeiterin der Nebenintervenientin die  Beklagte telefonisch, dass der Kläger operiert werde. Die Mitarbeiterin der Beklagten meinte daraufhin, dass man die Operation abwarten müsse, sie erklärte jedoch nicht, dass die Fristen zur Geltendmachung des Invaliditätsanspruchs durch dieses Telefonat gehemmt seien. Erst ein Jahr nach der am  11. 10. 2012 durchgeführten Operation nahm der Kläger wieder Kontakt mit der Nebenintervenientin auf und übermittelte ihr den Unfall betreffende medizinische Unterlagen, welche am 21. 1. 2014 an die Beklagte weitergeleitet wurden.
+3.3 Weder die der Beklagten mitgeteilten Verletzungsfolgen (Verstauchung oder Bänderzerrung) noch die anlässlich des – innerhalb der 21-Monats-Frist
+geführten – Telefonats angekündigte, ebenfalls innerhalb dieser Frist geplante, aber nicht näher definierte Operation legten Dauerfolgen nahe. Der Kläger war auch bereits zwei Mal schriftlich auf die Voraussetzungen für das Entstehen des Anspruchs auf Invaliditätsleistung und die einzuhaltenden Fristen hingewiesen worden. Dennoch setzte er über ein Jahr nach der Operation selbst gegenüber der Nebenintervenientin keine Reaktion. Vor diesem Hintergrund hält sich die Rechtsansicht des Berufungsgerichts, selbst unter der Annahme, dass die Nebenintervenientin Versicherungsagentin der Beklagten gewesen wäre, habe nicht nochmals ausdrücklich der Hinweis erfolgen müssen, dass noch kein Nachweis über eine dauerhafte Invalidität vorliege, im Rahmen der dargestellten Rechtsprechung des BGH. Aus welchem Grund  die Berufung auf die Ausschlussfristen entgegen der  „Zusage, die Operation abzuwarten“ treuwidrig sein soll, nachdem der Kläger ein weiteres Jahr untätig geblieben war, legen die Rechtsmittelwerber nicht dar.
+4. Die Revisionen sind zurückzuweisen, da keine erhebliche Rechtsfrage aufgezeigt wird.
+Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revisionen hingewiesen. Die Kostenersatzpflicht trifft allerdings nur den Kläger und nicht seinen Nebenintervenienten (vgl RIS-Justiz RS0035816, RS0036057).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00129.17X.0927.000

@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2021
+Geschäftszahl
+3Ob168/21h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dr. med. dent. C*, vertreten durch Mag. Andreas Nowak, LL.M., Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei Ö* AG, *, vertreten durch MMag. Johannes Duy, MBA, Rechtsanwalt in Wien, wegen Einwendungen gegen den Anspruch (§ 35 EO), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 16. Juni 2021, GZ 1 R 84/21d-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 149 Abs 1 Satz 3 IO nehmen Gläubiger, deren Forderungen durch Absonderungsrechte zum Teil gedeckt sind, mit dem Ausfall (§ 132 Abs 6 IO) am Sanierungsplanverfahren teil; solange dieser jedoch nicht endgültig feststeht, sind sie bei der Erfüllung des Sanierungsplans mit dem mutmaßlichen Ausfall zu berücksichtigen. Ist bei einer teilweise gedeckten Forderung die Höhe des Ausfalls strittig und liegt darüber keine Entscheidung nach § 93 IO vor, so hat das Insolvenzgericht gemäß § 156b Abs 1 IO auf Antrag des Schuldners oder des Gläubigers die mutmaßliche Höhe der bestrittenen Forderung oder des Ausfalls vorläufig festzustellen. Gemäß § 156b Abs 2 Z 2 IO können die für den Fall des Verzugs in der Erfüllung des Sanierungsplans vorgesehenen Rechtsfolgen (§ 156a IO) den Schuldner jedenfalls dann nicht treffen, wenn er teilweise gedeckte Forderungen bis zur endgültigen Feststellung der Höhe des Ausfalls in dem Ausmaß beglichen hat, das einer vom Insolvenzgericht gemäß § 156b Abs 1 oder § 93 IO getroffenen Entscheidung entspricht.
+[2] 		2. Es trifft zwar zu, dass der Kläger angesichts der von der Beklagten selbst im Insolvenzverfahren ziffernmäßig angegebenen voraussichtlichen teilweisen Deckung der Insolvenzforderung durch ihre Absonderungsrechte zunächst davon ausgehen durfte, dass die Höhe des mutmaßlichen Ausfalls der beklagten Insolvenz- und Absonderungsgläubigerin im Sanierungsverfahren nicht strittig sei. Dies änderte sich jedoch mit Zustellung der ersten qualifizierten Mahnung der Beklagten iSd § 156a Abs 2 IO, aus der klar hervorging, dass diese bei der Berechnung der an sie zu zahlenden Sanierungsplanquote die gesamte anerkannte Insolvenzforderung (ohne Berücksichtigung ihres Absonderungsrechts an den Liegenschaftsanteilen des Klägers) zugrundelegte. Damit gehen die Revisionsausführungen des Klägers, wonach der mutmaßliche Ausfall immer unstrittig gewesen sei, in diesem entscheidenden Punkt nicht vom festgestellten Sachverhalt aus. In der Rechtsansicht des Berufungsgerichts, dass mangels (rechtzeitiger) Antragstellung des Klägers gemäß § 156b IO die Nichtbegleichung des eingemahnten Restbetrags zum Wiederaufleben der Insolvenzforderung der Beklagten führte, ist daher kein Abgehen von der insoweit klaren Rechtslage zu erkennen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133324

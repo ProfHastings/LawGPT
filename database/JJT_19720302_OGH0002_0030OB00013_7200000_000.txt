@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.03.1972
+Geschäftszahl
+3Ob13/72
+Norm
+Allgemeines Grundbuchgesetz §9;
+Allgemeines Grundbuchgesetz §130;
+Kopf
+SZ 45/26
+Spruch
+Als grundbuchswidrige Eintragungen, die mit unheilbarer Nichtigkeit behaftet sind und auf keinen Fall - auch nicht gutgläubigen Dritten gegenüber - Rechtswirkungen nach sich ziehen, sind nur solche Eintragungen anzusehen, die ihres Gegenstandes wegen nicht hätten stattfinden dürfen, also ein Recht zum Gegenstand haben, das der geltenden Rechtsordnung überhaupt fremd ist oder dessen Eintragung weder im Grundbuchsgesetz noch in anderen Gesetzen zugelassen ist, mithin einen physisch oder rechtlich unmöglichen Grundbuchsstand schaffen
+OGH 2. 3. 1972, 3 Ob 13/72 (OLG Wien 6 R 197/71; LGZ Wien 12 Cg 347/69)
+Text
+Die Kläger sind Eigentümer mehrerer Liegenschaften der KG W, die Beklagten sind je zur Hälfte Eigentümer der Liegenschaft EZ X dieser KG, in deren Lastenblatt unter COZ 1 auf Grund eines Ansuchens des "Wiener Cottagevereines" seit 19. 5. 1879 auf Grund des P IV des Kaufvertrages vom 29. 4. und 13. 5. 1879 eine als "Cottageservitut" bezeichnete, näher umschriebene Dienstbarkeit einverleibt ist.
+Die Kläger begehrten die Feststellung, daß eine von den Beklagten geplante Bauführung auf ihrer Liegenschaft den Bestimmungen der in COZ 1 einverleibten Dienstbarkeit widerspreche und die Verurteilung der Beklagten zur Unterlassung dieser Bauführung bzw zur Abtragung, soweit der Bau inzwischen bereits errichtet sein sollte.
+Die Beklagten beantragten Klagsabweisung, ua mit der Begründung, daß auf Grund der eingetragenen Dienstbarkeit allenfalls dem Wiener Cottageverein, nicht aber den Klägern Rechte zustunden, zumal ein Vertrag zugunsten Dritter nicht vorliege, ferner die - in der gegenständlichen Dienstbarkeit unter bestimmten Voraussetzungen enthaltene - Verpflichtung zur Unterlassung einer gewerblichen Tätigkeit nicht verdinglicht werden können.
+Die Kläger stellten im Zuge des Verfahrens den Zwischenantrag auf Feststellung, daß die Liegenschaft der Beklagten mit der zu COZ 1 einverleibten Dienstbarkeit zugunsten der den Klägern gehörigen Liegenschaften belastet sei.
+Das Erstgericht erkannte iS dieses Zwischenfeststellungsantrages.
+Das Berufungsgericht bestätigte die Entscheidung des Erstgerichtes mit dem Ausspruch, daß der Wert des Streitgegenstandes (des Zwischenfeststellungsantrages) S 50.000.- übersteigt.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Den Revisionswerbern ist insofern beizupflichten, daß grundbuchswidrige Eintragungen mit unheilbarer Nichtigkeit behaftet sind und daher auf keinen Fall - auch nicht gutgläubigen Dritten gegenüber - Rechtswirkungen nach sich ziehen (Klang[2] II, 345).
+Darunter fallen jedoch nur solche Eintragungen, die ihres Gegenstandes wegen nicht hätten stattfinden dürfen. Es muß sich daher um Eintragungen handeln, die ein Recht zum Gegenstand haben, das der geltenden Rechtsordnung überhaupt fremd ist, oder dessen Eintragung weder im Grundbuchsgesetz noch in anderen Gesetzen zugelassen ist, und die einen physisch oder rechtlich unmöglichen Grundbuchsstand, dem die materielle Rechtsgrundlage nicht entsprechen kann, schaffen (Ehrenzweig[2] 1/2, 268). Der Ansicht der Revisionswerber, daß grundbuchswidrige Eintragungen schon dann anzunehmen seien, wenn die ihnen zugrunde liegenden Urkunden nicht den Vorschriften des Grundbuchsgesetzes entsprechen (§§ 26 f, 32 GBG), kann nicht gefolgt werden. Diese der materiellen Rechtslage nicht widersprechenden Formverletzungen können grundsätzlich nur mit Rekurs gegen die Einverleibungsbewilligung bekämpft werden (Klang[2] II, 386, SZ 20/254). Die im Kaufvertrag vom 29. 4. bzw 13. 5. 1879 unterbliebene genaue Bezeichnung des dienenden und der herrschenden Grundstücke mit der jeweiligen Einlagezahl hätte daher nur seinerzeit mit Rekurs bekämpft werden können. Der Umstand hingegen, daß die Eigentümer der herrschenden Grundstücke nicht namentlich genannt sind, ist ebenfalls kein Hindernis für eine rechtswirksame Dienstbarkeitsbestellung, wenn sich diese - so wie hier - unschwer ermitteln lassen.
+Die unterbliebene Ersichtlichmachung der Dienstbarkeit im Gutsbestandblatt der herrschenden Grundstücke ist für den rechtswirksamen Erwerb der Dienstbarkeit ohne jede Bedeutung. Deren Erwerb erfolgt nämlich durch Eintragung im Lastenblatt des dienenden Grundstückes (Klang[2] II, 560 f).
+Auch die im P IV Abs 2 des vorgenannten Kaufvertrages vereinbarte Unterlassung einer bestimmten Gewerbeausübung auf der belasteten Liegenschaft kann Gegenstand einer Grunddienstbarkeit sein. Richtig ist, daß die Duldung oder Unterlassung des Eigentümers die Nutzung des Grundstückes selbst betreffen muß und daher nicht eine wirtschaftliche Tätigkeit des Liegenschaftseigentümers zum Gegenstand haben kann, für die das Grundstück nur zufälliger Standort ist. Aus diesem Gründe können aus Wettbewerbsgrunden dem Eigentümer einer Liegenschaft auferlegte wirtschaftliche Beschränkungen nur eine schuldrechtliche Verpflichtung nicht aber eine Dienstbarkeit begrunden (Klang[2] II, 550, SZ 28/27). Hier erfolgte aber die den Eigentümern der belasteten Liegenschaft auferlegte Verpflichtung, den Betrieb von Gewerben, die mit der Erzeugung von Lärm, übler Gerüche oder Dünste verbunden sind, zu unterlassen, in der Absicht, die Eigentümer der herrschenden Grundstücke von derartigen Belästigungen zu schützen. Die den Eigentümern der EZ X der KG W auferlegte Verpflichtung bezieht sich somit auf die Unterlassung einer bestimmten Art der Nutzung ihrer Liegenschaft, die als Dienstbarkeit vereinbart werden konnte.

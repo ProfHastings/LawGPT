@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.1950
+Geschäftszahl
+1Ob66/50
+Norm
+ABGB §141;
+ABGB §166;
+Erste Teilnovelle zum allgemeinen bürgerlichen Gesetzbuch §16;
+Vierte Durchführungsverordnung zum Ehegesetz §10;
+Vierte Durchführungsverordnung zum Ehegesetz §12;
+JN §1;
+JN §42;
+Kopf
+SZ 23/37
+Spruch
+Eheliche und außereheliche Kinder fremder Staatsangehörigkeit, die sich im Ausland aufhalten, haben ihre Unterhaltsansprüche gegen ihre Väter im streitigen Verfahren geltend zu machen.
+Entscheidung vom 22. Februar 1950, 1 Ob 66/50.
+I. Instanz: Bezirksgericht Innsbruck; II. Instanz: Landesgericht Innsbruck.
+Text
+Der Kläger, der am 10. Oktober 1945 als außerehelicher Sohn der Edith J. geboren wurde und deutscher Staatsangehöriger ist, begehrt vom außerehelichen Kindesvater, der österreichischer Staatsbürger ist, die Leistung des Unterhaltes. Nach dem übereinstimmenden Vorbringen beider Parteien hat der Beklagte die Vaterschaft zu dem Kinde vor dem Jugendamt Innsbruck anerkannt.
+Das Erstgericht hat die Klage wegen Unzulässigkeit des Rechtsweges zurückgewiesen, da die Festsetzung der Unterhaltsleistung des außerehelichen Kindesvaters, der die Vaterschaft anerkannt hat, nicht im streitigen, sondern im außerstreitigen Verfahren zu erfolgen habe.
+Das Rekursgericht gab dem Rekurs der klagenden Partei dahin Folge, daß dem Erstgericht die Fortsetzung des Verfahrens unter Abstandnahme von dem Zurückweisungsgrund aufgetragen wurde.
+Das Rekursgericht führte aus, es sei zwar richtig, daß nach § 16 der I. Teilnovelle die Festsetzung des Ausmaßes der dem außerehelichen Kindesvater, der die Vaterschaft anerkannt hat, obliegenden Leistungen im Verfahren außer Streitsachen zu erfolgen habe. Diese Bestimmung habe aber zur Voraussetzung, daß für den mj. Kläger im Inland ein Vormundschaftsgericht vorhanden sei.
+Da im vorliegenden Falle der Kläger und dessen Mutter als deutsche Staatsangehörige sich in Berlin aufhalten, somit die Zuständigkeit eines österreichischen Gerichtes zur Führung der Vormundschaft nicht gegeben sei, fehle jede Grundlage dafür, den Unterhalt im Verfahren außer Streitsachen festzusetzen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bis zur I. Teilnovelle hatte die Geltendmachung der Unterhaltsansprüche des außerehelichen Kindes gegen den unehelichen Kindesvater ausschließlich im Streitverfahren zu erfolgen. Durch die I. Teilnovelle (§ 16) trat eine Änderung dahin ein, daß das Gericht das Ausmaß der dem Vater nach dem Gesetz obliegenden Leistungen im Verfahren außer Streitsachen von Amts wegen festzusetzen hat, falls die Vaterschaft anerkannt wurde. Nur wenn die Entscheidung hinsichtlich des Ausmaßes von der Ermittlung streitiger Tatsachen abhängt, die mit Mitteln des außerstreitigen Verfahrens nicht festgestellt werden können, kann das Vormundschaftsgericht den Vormund zur Erhebung der Klage anweisen.
+Aus dieser Bestimmung ergibt sich, daß das Vormundschaftsgericht des außerehelichen Kindes verpflichtet ist, von Amts wegen alles zu unternehmen, um die Festsetzung des Ausmaßes der dem außerehelichen Kindesvater obliegenden Leistung durchzuführen.
+Diese amtswegige Wahrnehmung der Ansprüche des außerehelichen Kindes durch das Vormundschaftsgericht führte eben dazu, daß, da die Bestimmung des Unterhaltes meistens dringend ist, unter der Voraussetzung der Anerkennung der Vaterschaft aus Zweckmäßigkeitsgrunden in Verfahrensrechtlicher Hinsicht bestimmt wurde, daß der Unterhaltsbetrag im Verfahren außer Streitsachen festzusetzen ist. Dieser Rechtssatz gilt aber dort nicht, wo die amtswegige Wahrnehmung der Interessen des außerehelichen Kindes entfällt, weil, wie im gegenständlichen Falle, kein inländisches Gericht zur Vormundschaft berufen ist, das die Interessen des Minderjährigen zu wahren hätte.
+Der mj. Kläger, der außereheliche Sohn des Beklagten, ist Ausländer, hält sich im Ausland auf und steht unter der Vormundschaft eines ausländischen Gerichtes. Im Inland befindet sich daher kein Gericht, welches zur Wahrung der Ansprüche des mj. Klägers berufen wäre, weshalb die Voraussetzungen des § 16 der I. Teilnovelle nicht gegeben sind.
+Für Kinder ausländischer Staatsbürgerschaft, die sich im Ausland aufhalten, muß daher mangels eines Vormundschaftsgerichtes im Inland der Schutz des Unterhaltsanspruches dem Rechtsweg überlassen bleiben.
+Diese gleiche Regelung findet im übrigen auch bei ehelichen Kindern fremder Staatsangehörigkeit Anwendung, die sich im Ausland aufhalten und ihren leiblichen Vater wegen Unterhaltsleistung belangen, denn auch in diesem Fall gibt es im Inland kein Pflegschaftsgericht.
+Im übrigen wird auf die Entscheidungen SZ. VIII/48, SZ. XVIII/. 119, JB. 237 alt, EvBl. 1940, Nr. 241, verwiesen.
+Aus diesen Erwägungen war daher dem Revisionsrekurs der Erfolg zu versagen.

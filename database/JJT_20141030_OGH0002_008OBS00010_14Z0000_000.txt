@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.10.2014
+Geschäftszahl
+8ObS10/14z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras und Dr. Brenn, sowie die fachkundigen Laienrichter Dr. Johannes Pflug und Dr. Peter Schnöller als weitere Richter in der Sozialrechtssache der klagenden Partei S***** N*****, vertreten durch Dr. Herbert Rabitsch, Rechtsanwalt in Wien, gegen die beklagte Partei IEF-Service GmbH,*****, wegen Insolvenzentgelt (4.952,52 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 22. Juli 2014, GZ 9 Rs 68/14g-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+1. Der Kläger vertritt in der außerordentlichen Revision den Standpunkt, dass die Beklagte das Anerkenntnis der Forderung durch den Insolvenzverwalter nicht bestritten habe und ein Anerkenntnis des Insolvenzverwalters (§ 109 IO) für die Beklagte und das Gericht im IESG-Verfahren bindend sei.
+2.1 Der Oberste Gerichtshof hat in der Entscheidung 8 ObS 127/97b - nach Anrufung des Verfassungsgerichtshofs - festgehalten, dass die insolvenzrechtliche Feststellung der Forderung nach § 7 Abs 1 erster bis dritter Satz IESG (idF des IRÄG 1994, BGBl 1994/153) nur mehr dann eine Bindungswirkung entfalte, wenn sie auf einem kontradiktorischen Urteil oder einer mindestens sechs Monate vor Konkurseröffnung (oder gleichgestelltem Tatbestand) rechtskräftig gewordenen anderen Gerichtsentscheidung beruhe. Keine Bindung bestehe an eine „gewöhnliche“ insolvenzrechtliche Feststellung der Forderung. Wenn nicht einmal eine andere Gerichtsentscheidung aus den letzten sechs Monaten vor Konkurseröffnung eine Bindungswirkung entfalte, könne umso weniger eine gewöhnliche Feststellung der Forderung zu einer Bindungswirkung führen. Die gegenteilige Meinung, wonach sich die Bindung an die „gewöhnliche“ insolvenzrechtliche Feststellung (§ 109 Abs 1 KO) aus dem Wortlaut und aus systematischen Überlegungen ergäbe, überzeuge nicht, weil die Prüfung durch den Masseverwalter einem kontradiktorischen Verfahren mit den gesteigerten Möglichkeiten der Erforschung der materiellen Wahrheit nicht gleichgestellt werden könne.
+2.2 Aus diesen Ausführungen folgt klar, dass eine Feststellung der Forderung durch Anerkenntnis des Masseverwalters nach § 109 IO als „gewöhnliche“ insolvenzrechtliche Feststellung verstanden wird. Einer derartigen Erklärung kommt nicht der Charakter einer konstitutiven Willenserklärung, sondern lediglich jener einer Wissenserklärung über die nach Meinung des Erklärenden bestehenden Rechtslage zu (8 ObS 9/03m; vgl auch Konecny in Konecny/Schubert, KO § 109 Rz 3).
+An eine „gewöhnliche“ insolvenzrechtliche Feststellung der Forderung, also an ein Anerkenntnis des Masseverwalters, das nicht auf einer bindend titulierten Forderung iSd § 7 Abs 1 Satz 1 und 2 IESG beruht, besteht keine Bindung (8 ObS 200/98i; 8 ObS 9/03m). Wie sich auch ausdrücklich aus § 7 Abs 1 Satz 3 IESG ergibt (arg: „gerichtliche Feststellung“), ist die Wendung „im Insolvenzverfahren festgestellt“ durch das Wort „gerichtlich“ zu ergänzen, sodass sie richtig lautet: „im Insolvenzverfahren gerichtlich festgestellt“.
+Solange noch keine bindende gerichtliche Entscheidung vorliegt, hat die Behörde bzw das im Rahmen sukzessiver Kompetenz angerufene Gericht das Bestehen der geltend gemachten Forderungen selbstständig zu beurteilen (8 ObS 9/03m). Dies ist hier der Fall.
+3. Die Entscheidungen der Vorinstanzen stehen mit diesen Grundsätzen im Einklang. Dass die vom Kläger geltend gemachten Forderungen - ausgehend von den Feststellungen - auch ohne die von ihm behauptete Bindungswirkung gesichert wären, behauptet er in der außerordentlichen Revision nicht mehr.
+Mangels erheblicher Rechtsfrage war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:008OBS00010.14Z.1030.000

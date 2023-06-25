@@ -1,0 +1,56 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+7Ob53/23d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch Poduschka Partner Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei A* SE *, vertreten durch Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, wegen Feststellung, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 16. November 2022, GZ 1 R 116/22p-32, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 23. Juni 2022, GZ 19 C 393/21i-26, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen der Klägerin und der Beklagten besteht ein Rechtsschutzversicherungsvertrag, dem die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2003) zugrunde liegen. Diese lauten auszugsweise:
+„Gemeinsame Bestimmungen
+Artikel 6
+Welche Leistungen erbringt der Versicherer?
+1. Verlangt der Versicherungsnehmer Versicherungsschutz übernimmt der Versicherer im Falle seiner Leistungspflicht, die ab dem Zeitpunkt der Geltendmachung des Deckungsanspruches entstehenden Kosten gemäß Pkt. 6., soweit sie für die Wahrnehmung der rechtlichen Interessen des Versicherungsnehmers notwendig sind.
+[...]
+Artikel 9
+Wann und wie hat der Versicherer zum Deckungsanspruch des Versicherungsnehmers Stellung zu nehmen?
+[...]
+2. Davon unabhängig hat der Versicherer das Recht, jederzeit Erhebungen über den mutmaßlichen Erfolg der Rechtsverfolgung oder Rechtsverteidigung anzustellen. Kommt er nach Prüfung des Sachverhalts unter Berücksichtigung der Rechts- und Beweislage zum Ergebnis,
+2.1. dass hinreichende Aussicht besteht, in einem Verfahren im angestrebten Umfang zu obsiegen, hat er sich zur Übernahme aller Kosten nach Maßgabe des Artikels 6 (Versicherungsleistungen) bereit zu erklären;
+2.2. dass diese Aussicht auf Erfolg nicht hinreichen, d.h. ein Unterliegen in einem Verfahren wahrscheinlicher ist als ein Obsiegen, ist er berechtigt, die Übernahme der an die Gegenseite zu zahlenden Kosten abzulehnen;
+2.3. dass erfahrungsgemäß keine Aussicht auf Erfolg besteht, hat er das Recht, die Kostenübernahme zur Gänze abzulehnen.
+[…]
+Besondere Bestimmungen
+Artikel 21
+Allgemeiner Schadenersatz-Rechtsschutz
+Der Versicherungsschutz erstreckt sich je nach Vereinbarung auf den Privat-, Berufs- und/oder Betriebsbereich.
+1. Wer ist in welcher Eigenschaft versichert?
+Versicherungsschutz haben
+1.1. im Privatbereich
+der Versicherungsnehmer und seine Angehörigen (Artikel 5.1.) für Versicherungsfälle, die den privaten Lebensbereich, also nicht den Berufs- oder Betriebsbereich oder eine sonstige Erwerbstätigkeit, betreffen;
+[...]
+2. Was ist versichert?
+Der Versicherungsschutz umfasst
+2.1 die Geltendmachung von Ansprüchen aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts wegen eines erlittenen Schadens;
+[…]“
+[2] 		Die Klägerin begehrt die Deckung für die klageweise Geltendmachung von Ansprüchen aus dem Kauf eines (näher beschriebenen) Fahrzeugs der Marke P* um 26.000 EUR gegen den Hersteller.
+[3] 		Die Vorinstanzen haben die Deckungspflicht der Beklagten bejaht; das Berufungsgericht hat die Revision – nachträglich – zugelassen, weil in Anbetracht der Entscheidung 7 Ob 152/22m nicht ausgeschlossen werden könne, dass das Klagebegehren der Klägerin (im Haftpflichtprozess) als unschlüssig anzusehen wäre.
+[4] 		Da die Beklagte in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+[5] 		1. Entgegen der Ansicht der Beklagten hat die Klägerin konkret vorgebracht, dass sie Rechtsschutzdeckung für die Geltendmachung eines deliktischen Anspruchs (§ 874 ABGB) auf Ersatz des Minderwerts (30 % des Kaufpreises) gegen die Herstellerin ihres Fahrzeugs begehrt, dessen Motor mit einer unzulässigen Abschalteinrichtung ausgeliefert worden sei.
+2. In der Rechtsschutzversicherung ist bei Beurteilung der Erfolgsaussichten kein strenger Maßstab anzulegen (RS0081929). Eine nicht ganz entfernte Möglichkeit des Erfolgs genügt (RS0117144). Eine Vorwegnahme des Ergebnisses des zu deckenden Prozesses im Deckungsprozess durch Klärung der dort gegenständlichen
+– bisher noch nicht gelösten – Rechtsfragen zur Beurteilung der Erfolgsaussichten kommt ebenso wenig in Betracht wie die Vorwegnahme der Klärung der Tatfragen (7 Ob 65/22t mwN; 7 Ob 165/22y). Ist der Sachverhaltsvortrag des Versicherungsnehmers aber von vornherein unschlüssig oder offensichtlich unrichtig, so kann der Versicherer den Versicherungsschutz ablehnen (RS0082253).
+[6] 		2.1. Die Rechtsansicht der Vorinstanzen, dass das von der Klägerin zum Haftpflichtanspruch erstattete Vorbringen nicht unschlüssig sei, der Ausgang des Haftpflichtprozesses von nicht im Deckungsprozess zu klärenden Tatfragen (etwa andere vorhandene Mängel am Klagsfahrzeug) sowie – zumindest auch – von der Beantwortung bisher nicht gelöster Rechtsfragen abhängt (etwa Vorteilsausgleich) und das Klagebegehren im Deckungsprozess nicht zu weit gefasst sei, ist nicht korrekturbedürftig.
+[7] 		2.2. Die von der Beklagten in ihrer Revision ins Treffen geführte Entscheidung 7 Ob 152/22m ist nicht einschlägig. Der dortige Kläger beschränkte sich auf das Vorbringen, er beabsichtige die klageweise Rückabwicklung des Kaufs des vom Abgasskandal betroffenen Fahrzeugs gegenüber der Herstellerin und der Verkäuferin. Er ließ dort allerdings offen, welches Klagebegehren er in welcher Höhe gegen die Herstellerin und die Verkäuferin zu erheben beabsichtigt und ließ damit letztlich auch eine Differenzierung hinsichtlich der unterschiedlichen Schädiger und Anspruchsgrundlagen vermissen. Für die hier vorliegende Konstellation ist aus dieser Entscheidung nichts abzuleiten.
+[8] 		3. Soweit die Beklagte in ihrer Revision Ausführungen zur mangelnden (alleinigen) Käufereigenschaft der Klägerin tätigt, entfernt sie sich von den gegenteiligen erstgerichtlichen Feststellungen.
+[9] 		4. Die Revision der Beklagten ist daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+5. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO; die Klägerin hat auf die Unzulässigkeit des Rechtsmittels hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00053.23D.0419.000

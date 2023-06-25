@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.04.2015
+Geschäftszahl
+7Ob45/15s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei J***** W*****, vertreten durch Dr. Christian Boyer, Rechtsanwalt in Wien, gegen die beklagte Partei W*****- Aktiengesellschaft, *****, vertreten durch Dr. Thomas Romauch, Rechtsanwalt in Wien, und die Nebenintervenientin f***** S***** GmbH, *****, vertreten durch ScherbaumSeebacher Rechtsanwälte GmbH in Graz, wegen 76.407,72 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. Dezember 2014, GZ 2 R 118/14h-70, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Art 18 der Allgemeinen Bedingungen für die Eigenheimversicherung (ABE 2008), die der Eigenheimversicherung des Klägers zu Grunde liegen, lautet:
+„Artikel 18-Ersatzwert; Wiederherstellung; Wiederbeschaffung; Realgläubiger
+1. Gebäude
+1.1 Bei Beschädigung oder Zerstörung versicherter Gebäude hat der Versicherungsnehmer Anspruch auf Ersatz der Reparatur- bzw. Wiederherstellungskosten bis zum Neuwert (ortsübliche Kosten der Neuherstellung des versicherten Gebäudes zum Zeitpunkt des Schadenereignisses), sobald folgende Voraussetzungen gegeben sind:
+- Es ist gesichert, dass die Entschädigung zur Gänze zur Wiederherstellung verwendet wird.
+…
+- Die Wiederherstellung erfolgt binnen 3 Jahren ab dem Eintritt des Schadenereignisses. Weist der Versicherungsnehmer die Unmöglichkeit der fristgerechten Wiederherstellung nach, ist nach drei Jahren eine angemessene Fristverlängerung zu vereinbaren. Die Fristen selbst gelten schon als gewahrt, wenn innerhalb der erwähnten Fristen bindende Wiederherstellungsaufträge erteilt wurden.
+1.2 Bis zum Vorliegen der obgenannten Voraussetzungen hat der Versicherungsnehmer nur Anspruch auf Ersatz der Wiederaufbaukosten bis zum Zeitwert (Neuwert abzüglich eines dem Zustand des Gebäudes, insbesondere seines Alters und seiner Abnützung entsprechenden Betrages) höchstens aber bis zum Verkehrswert (erzielbarer Verkaufspreis des versicherten Gebäudes, wobei der Wert des Grundstückes außer Ansatz bleibt).
+...“
+Vorliegend ist der Versicherungsfall eines Leitungswasserschadens zu beurteilen.
+2.1. Es besteht eine umfangreiche Rechtsprechung zur Wiederherstellungsklausel:
+Die strenge Wiederherstellungsklausel stellt eine Risikobegrenzung dar (RIS-Justiz RS0081840). Es soll sichergestellt werden, dass der Versicherungsnehmer die Versicherungssumme nicht für frei bestimmbare Zwecke verwendet (RIS-Justiz RS0120711 [T2]). Die strenge Wiederherstellungsklausel bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechten) Sicherung abhängt (RIS-Justiz RS0120710). Wann die Verwendung gesichert ist, ist nach Treu und Glauben zu entscheiden (RIS-Justiz RS0081868). Eine 100%ige Sicherheit kann nicht verlangt werden. Es muss ausreichen, dass angesichts der getroffenen Vorkehrungen kein vernünftiger Zweifel an der Durchführung der Wiederherstellung besteht (RIS-Justiz RS0112327, RS0119959). Die Vorlage von Kostenvoranschlägen, Absichtserklärungen des Versicherungsnehmers, die bloße Bauplanung oder eine bloß behelfsmäßige Reparatur für die Sicherung der Wiederherstellung ist nicht ausreichend (RIS-Justiz RS0112327 [T5]). Auf ein Verschulden des Versicherungsnehmers an der unterbliebenen Wiederherstellung kommt es nicht an (RIS-Justiz RS0081840 [T2, T15]).
+2.2. Überlegungen zu § 6 Abs 3 KSchG und § 879 Abs 3 ABGB scheiden schon deshalb aus, weil die Wiederherstellungsklausel der gesetzlichen Regelung in § 97 VersVG zur Feuerversicherung entspricht, sie damit weder intransparent noch gröblich benachteiligend ist.
+3.1. Auch vermögenslose Personen haben (bedingt) die Möglichkeit, fristgemäß bindende Aufträge an Unternehmen für den Fall der Zahlung durch die Versicherung zu erteilen.
+3.2. Vor diesem Hintergrund ist auch eine Verfassungswidrigkeit der entsprechenden Regelung des § 97 VersVG für die Feuerversicherung infolge Verstoßes gegen den Gleichheitsgrundsatz ausgeschlossen. Damit sieht sich der Oberste Gerichtshof auch nicht veranlasst, die Bestimmung des § 97 VersVG vor dem Verfassungsgerichtshof anzufechten. Die entsprechende Anregung durch den Revisionswerber bedarf keiner besonderen beschlussmäßigen Zurückweisung (RIS-Justiz RS0056514 [T6]).
+4. Das Versicherungsverhältnis ist im besonderen Maß vom Grundsatz von Treu und Glauben beherrscht (RIS-Justiz RS0018055). Der Kläger brachte keine Umstände vor, aus denen der Schluss hätte gezogen werden können, der beklagte Versicherer hätte auf den Einwand, er entschädige nur den Zeitwert, verzichtet. Durch den Deckungsprozess tritt eine Fortlaufhemmung der dreijährigen Frist ein (7 Ob 186/13y).
+5. Die Beurteilung des Berufungsgerichts, in der bloßen Zusage des Klägers an die Professionisten, sie entsprechend den Kostenvoranschlägen zu beauftragen, sobald er Geld von der Versicherung bekäme, sei keine ausreichende Sicherung der Wiederherstellung zu erblicken, hält sich im Rahmen der zitierten Judikatur. Damit waren weder der Kläger noch die Professionisten vertraglich gebunden.
+6. Die mitversicherten Fahrnisse wurden vom Kläger nicht zum Gegenstand seiner Berufung gemacht. Eine in der Berufung nicht ausgeführte Rechtsrüge kann in dritter Instanz nicht nachgeholt werden (RIS-Justiz RS0043573 [T2, T29, T31, T33, T36, T40, T43]).
+7. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00045.15S.0409.000

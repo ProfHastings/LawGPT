@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.1949
+Geschäftszahl
+3Ob160/49
+Norm
+ABGB §1376;
+ABGB §1380;
+Arbeitsgerichtsgesetz §1;
+Kopf
+SZ 22/83
+Spruch
+Die vergleichsweise Anerkennung einer aus einem Arbeitsverhältnisse entspringenden Forderung steht der Zuständigkeit des Arbeitsgerichtes nicht im Wege.
+Entscheidung vom 25. Mai 1949, 3 Ob 160/49.
+I. Instanz: Kreisgericht Leoben; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Kläger behauptet, der Beklagte sei in der Fleischhauerei des Klägers bedienstet gewesen und es hätten sich aus diesem Dienstverhältnisse Forderungen des Klägers ergeben. Schließlich habe der Beklagte einen Vergleichsvorschlag des Klägers angenommen und sich zur Zahlung eines Betrages von 4116 S verpflichtet. Dieser Betrag setze sich zusammen aus 2000 S als Ersatz für die widerrechtliche Verwendung von Arbeitern des Klägers, 1556 S als Ersatz für eine irrtümlich geleistete Abfertigung und 560 S Vertretungskosten.
+Diese Beträge hat der Kläger beim Kreisgericht Leoben eingeklagt, das die Klage wegen sachlicher Zuständigkeit des Arbeitsgerichtes zurückwies.
+Das Rekursgericht hat diesen Beschluß abgeändert und die Unzuständigkeitseinrede mit der Begründung verworfen, daß das Arbeitsgericht nicht zuständig sei, da den Rechtsgrund der Klagsforderung nicht mehr das Arbeitsverhältnis, sondern der Vergleich bilde.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der beklagten Partei Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Begründung:
+Gemäß § 1376 ABGB. liegt ein Neuerungsvertrag vor, wenn der Rechtsgrund oder der Hauptgegenstand einer Forderung geändert wird; daß dies der Fall gewesen sei, wird in der Klage nicht behauptet.
+Es kann die Frage auf sich beruhen, ob nach dem Klagsvorbringen ein Vergleich oder ein Anerkenntnisvertrag vorliegt und ob § 1380 ABGB. dahin auszulegen sei, daß jeder Vergleich als Neuerungsvertrag zu gelten hat, denn für die Frage der Zuständigkeit des Arbeitsgerichtes ist nicht der Rechtsgrund des Anspruches, sondern die Natur seiner Entstehung maßgebend.
+Gerade so wie ein Differenzgeschäft nicht klagbar wird, wenn der Schuldner den Anspruch vergleichsweise anerkannt hat, bleibt trotz eines solchen Anerkenntnisses die Zuständigkeit des Arbeitsgerichtes bestehen, falls die Forderung ihren Ursprung in einem Arbeitsverhältnis hat. Aus diesem Gründe war die Entscheidung des Erstgerichtes wiederherzustellen.

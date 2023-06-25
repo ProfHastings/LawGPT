@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob169/21k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei H* B*, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U* AG, *, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 15. Juli 2021, GZ 4 R 98/21z-25, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht seit 31. 1. 2012 ein Firmen-Rechtsschutzversicherungsvertrag, in dem auch privatrechtliche Ansprüche versichert sind. Diesem Versicherungsvertrag liegen die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2011) zugrunde, die auszugsweise lauten:
+„Artikel 2
+Was gilt als Versicherungsfall und wann gilt er als eingetreten?
+[…]
+3. In den übrigen Fällen – insbesondere auch für die Geltendmachung eines reinen Vermögensschadens (Artikel 17 Pkt 2.1, Artikel 18 Pkt 2.1, Artikel 19 Pkt 2.1) sowie für die Wahrnehmung rechtlicher Interessen wegen reiner Vermögensschäden (Artikel 23 Pkt 2.1 und Art 24 Pkt 2.1.1) – gilt als Versicherungsfall der tatsächliche oder behauptete Verstoß des Versicherungsnehmers, Gegners oder eines Dritten gegen Rechtspflichten oder Rechtsvorschriften; der Versicherungsfall gilt in dem Zeitpunkt als eingetreten, in dem eine der genannten Personen begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen. Bei mehreren Verstößen ist der erste, adäquat ursächliche Verstoß maßgeblich, wobei Verstöße, die länger als ein Jahr vor Versicherungsbeginn zurückliegen, für die Feststellung des Versicherungsfalles außer Betracht bleiben.
+[...]
+Artikel 3
+Für welchen Zeitraum gilt die Versicherung? (Zeitlicher Geltungsbereich)
+1. Die Versicherung erstreckt sich grundsätzlich auf Versicherungsfälle, die während der Laufzeit des Versicherungsvertrages eintreten.
+[…]
+Artikel 23
+Allgemeiner Vertragsrechtsschutz
+[…]
+4. Wartefrist
+Für Versicherungsfälle, die vor Ablauf von drei Monaten ab dem vereinbarten Versicherungsbeginn eintreten, besteht kein Versicherungsschutz.
+[…]“
+[2] 		1. Der Kläger erlitt bei einem Verkehrsunfall am 13. 8. 2003 Verletzungen. Mit Rechtsschutzdeckung des für diesen Versicherungsfall bestehenden Rechtsschutzversicherers machte er in mehreren Prozessen aus dem Unfall resultierende Schadenersatzansprüche gegen den Unfallgegner/dessen Haftpflichtversicherer geltend.
+[3] 		2. Nunmehr beabsichtigt er die klageweise Inanspruchnahme seiner in einem solchen Verfahren tätigen Rechtsvertretung auf Schadenersatz. Diese habe ihn im Zusammenhang mit der am 13. 8. 2013 eingebrachten Klage nicht über die unzureichende Rechtsschutzversicherungs-summe aufgeklärt, überhöhte Beträge eingeklagt und keine notwendigen Klagseinschränkungen vorgenommen. Dadurch sei ihm ein Schaden von 32.120,37 EUR an dem Prozessgegner zu ersetzenden Prozesskosten entstanden.
+[4] 		3. Im Revisionsverfahren ist nur mehr der Zeitpunkt des Eintritts des Versicherungsfalls strittig, dessen Beurteilung die Vorinstanzen zutreffend und von den Streitteilen unbestritten nach Art 2.3 ARB vornahmen.
+Rechtliche Beurteilung
+[5] 		3.1 Ein Verstoß (Versicherungsfall) im Sinn des Art 2.3 ARB ist ein tatsächlich objektiv feststellbarer Vorgang, der immer dann, wenn er auch wirklich vorliegt oder ernsthaft behauptet wird, den Keim eines Rechtskonflikts in sich trägt, der zur Aufwendung von Rechtskosten führen kann. Damit beginnt sich die vom Rechtsschutzversicherer übernommene Gefahr konkret zu verwirklichen. Es soll sich um einen möglichst eindeutig bestimmbaren Vorgang handeln, der in seiner konfliktauslösenden Bedeutung für alle Beteiligten, wenn auch erst nachträglich, erkennbar ist. Es kommt weder auf den Zeitpunkt an, zu dem die Beteiligten von dem Verstoß Kenntnis erlangten, noch darauf, wann aufgrund des Verstoßes Ansprüche geltend gemacht oder abgewehrt werden (RS0114001). Bei mehreren (gleichartigen) Verstößen ist auf den ersten abzustellen (RS0114209). Ist kein einheitliches Verstoßverhalten des Schädigers erkennbar, handelt es sich bei den einzelnen schädigenden Verhaltensweisen jeweils um einen rechtlich selbständigen neuen Verstoß. War nach der Sachlage beim ersten Verstoß mit weiteren gleichartigen Verstößen zu rechnen, liegen in der Regel nicht mehrere selbständige Verstöße, sondern ein einheitlicher Verstoß im Rechtssinn vor. Dies kann sowohl bei vorsätzlichen Verstößen der Fall sein, bei denen der Wille des Handelnden von vornherein den Gesamterfolg umfasst und auf dessen „stoßweise Verwirklichung“ durch mehrere gleichartige Einzelhandlungen gerichtet ist, wie auch bei Fällen gleichartiger fahrlässiger Verstöße, die unter wiederholter Außerachtlassung derselben Pflichtenlage begangen werden (RS0111811). Die Bestimmung des Zeitpunkts des Versicherungsfalls im Rahmen der Rechtsschutzdeckung für die Wahrnehmung rechtlicher Interessen aus schuldrechtlichen Verträgen soll vermeiden, dass die Rechtsschutzversicherung mit Kosten solcher Rechtskonflikte belastet wird, die bei Abschluss des Versicherungsvertrags bereits die „erste Stufe der konkreten Gefahrenverwirklichung“ erreicht haben, also gewissermaßen „vorprogrammiert“ sind (7 Ob 193/18k mwN).
+[6] 		3.2 Unstrittig hat der Versicherungsschutz unter Berücksichtigung der Wartefrist des Art 23.4 ARB am 30. 4. 2012 begonnen.
+[7] 		3.3 Die Vorinstanzen vertraten die Rechtsansicht, dass im Hinblick auf die beabsichtigte Geltendmachung von Schadenersatzansprüchen im Umfang des Prozesskostenanspruchs des Prozessgegners des Klägers, die nach dessen Vortrag aus dem Unterbleiben der Aufklärung über die unzureichende Rechtsschutzversicherung, die Überklagung und das Unterbleiben von Klagseinschränkungen resultieren sollen, die vermisste Aufklärung spätestens zur Klagseinbringung (13. 8. 2013) hätte erfolgen müssen. Die Unterlassung der entsprechenden Aufklärung und der Verstoß gegen Rechtspflichten der Rechtsvertretung des Klägers sei damit innerhalb der Vertragslaufzeit erfolgt. Diese Beurteilung ist nicht zu beanstanden.
+[8] 		3.4 Das behauptete Unterbleiben der Aufklärung vor der konkreten Klagseinbringung ist nämlich keine Pflichtverletzung, die mit jener bei Führung der außergerichtlichen Vergleichsgespräche bereits absehbar oder gleichwertig wäre. Im Übrigen ist die beabsichtigte Geltendmachung von Schadenersatz im Umfang der gegnerischen Prozesskosten infolge des Unterliegens in dem konkreten Prozess keine logische Folge der behaupteten Aufklärungspflichtverletzung bereits bei Führung von bloßen Vergleichsgesprächen.
+[9] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:E133376

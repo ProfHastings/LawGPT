@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.02.1948
+Geschäftszahl
+2Ob44/48
+Norm
+ABGB §1118;
+Mietengesetz §21;
+ZPO §579;
+ZPO §583;
+ZPO §584;
+Kopf
+SZ 21/66
+Spruch
+Zulässigkeit der Vereinbarung eines Schiedsgerichtes über ein auf § 1118 ABGB. gestütztes Räumungsbegehren.
+Die Weigerung des im Schiedsvertrage bestellten Vorsitzenden des Schiedsgerichtes, dieses Amt zu übernehmen, bewirkt noch nicht das Außerkrafttreten des Schiedsvertrages.
+Entscheidung vom 11. Februar 1948, 2 Ob 44/48.
+I. Instanz: Bezirksgericht Völkermarkt; II. Instanz: Landesgericht Klagenfurt.
+Text
+Die Klägerin brachte am 8. August 1947 gegen den Beklagten die Klage ein mit dem Begehren, den zwischen den Streitteilen am 2. Jänner 1946 abgeschlossenen Pachtvertrag für aufgehoben zu erklären und den Beklagten zur Übergabe und Räumung zu verpflichten.
+Bei der am 12. September 1947 abgehaltenen ersten Streitverhandlung beantragte der Beklagte die Abweisung des Klagebegehrens und wendete insbesondere Unzuständigkeit des angerufenen Gerichtes ein, da im Pachtvertrage die Vereinbarung getroffen wurde, daß über die zwischen Pächter und Verpächter entstehenden Streitigkeiten ein Schiedsgericht zu entscheiden hat.
+Das Erstgericht wies die Unzuständigkeitseinrede zurück. Das Rekursgericht gab ihr Folge. Der Oberste Gerichtshof bestätigte diese Entscheidung.
+Rechtliche Beurteilung
+Begründung:
+Der Erstrichter wies die Einrede der Unzuständigkeit des Gerichtes zurück, weil der im Schiedsvertrage zum Vorsitzenden bestimmte Berghauptmann, wie sich aus dem Akte 3 Nc 69/47, betreffend den Antrag auf Außerkraftsetzung des Schiedsvertrages, ergeben, die Übernahme des Amtes eines Schiedsrichters abgelehnt habe, und daher der Schiedsvertrag außer Kraft getreten sei. Das Rekursgericht wies die Klage wegen Unzuständigkeit des angerufenen Gerichtes mit der Begründung zurück, daß Streitigkeiten durch einen oder mehrere Schiedsrichter entschieden werden sollen; erst dann, wenn der Schiedsvertrag durch rechtskräftigen Beschluß des Gerichtes als außer Kraft getreten erklärt wird, seien die ordentlichen Gerichte zur Entscheidung zuständig. Ein Beschluß, mit dem der Schiedsvertrag außer Kraft gesetzt wird, sei nicht ergangen. In dem gegen den Beschluß des Rekursgerichtes erhobenen Rekurse vertritt die Klägerin die Ansicht, daß der Schiedsvertrag bereits durch den Antrag eines der Beteiligten auf Außerkrafttreten des Schiedsvertrages seine Wirksamkeit verliere und daß die Entscheidung über den Antrag nur deklarative Bedeutung habe. Dieser Rechtsansicht kann nicht beigetreten werden. Wenn eine im Schiedsvertrage zum Schiedsrichter bestellte Person die Bestellung als Schiedrichter ablehnt (§ 579 ZPO.), dann hat zufolge der Bestimmung des § 583, Abs. 2 ZPO. das Gericht auf Antrag auszusprechen, daß der Schiedsvertrag außer Kraft getreten ist. Der Schiedsvertrag tritt daher nach österreichischem Recht nicht, wie nach anderen Gesetzgebungen, schon dann außer Kraft, wenn seine Erfüllung unmöglich geworden ist (Sperl, S. 789), und auch nicht dann, wenn ein Antrag auf Außerkraftsetzung des Vertrages gestellt wird, sondern erst in dem Zeitpunkte, in dem durch einen rechtskräftigen gerichtlichen Beschluß, dem ein Verfahren im Sinne des § 584 ZPO. voranzugehen hat, ausgesprochen wird, daß der Schiedsvertrag außer Kraft tritt. Da ein solcher Beschluß noch nicht ergangen ist, sind die ordentlichen Gerichte zur Entscheidung über das Klagebegehren nicht zuständig.
+Die Klägerin erblickt einen Verfahrensmangel darin, daß die Untergerichte sich nicht mit der Einwendung befassen, daß die Zwangbestimmung des Mieter- und Pächterschutzes die Anwendung der Schiedsklausel ausschließe und daß die Schiedsvereinbarung auch deshalb nicht Platz greife, weil sich das Begehren auf Auflösung des Vertrages auf die Bestimmung des § 1118 ABGB. stütze. Die Zwangsbestimmung des § 21 MietG. über die Notwendigkeit gerichtlicher Aufkündigung kommt deshalb nicht in Betracht, weil nicht über ein Kündigungbegehren, sondern über ein Räumungsbegehren zu entscheiden ist. Es handelt sich auch nicht um ein Pachtverhältnis im Sinne der Reichpachtschutzordnung vom 30. Juli 1940, DRGBl. I S. 1065. Die Tatsache, daß sich das Begehren auf die Bestimmung des § 1118 ABGB. stützt, schließt die Anwendung des Schiedsvertrages nicht aus.

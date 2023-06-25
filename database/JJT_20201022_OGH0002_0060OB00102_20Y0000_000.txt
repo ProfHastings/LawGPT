@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.2020
+Geschäftszahl
+6Ob102/20y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei *****-Kranken- und Unfallfürsorge, *****, vertreten durch Dr. Walter Müller, Mag. Dr. Wolfgang Graziani-Weiss und andere Rechtsanwälte in Linz, gegen die beklagte Partei Land *****, vertreten durch Mag. Gerald Leitgeb, Rechtsanwalt in Stallhofen, wegen 48.719,61 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz vom 3. April 2020, GZ 2 R 183/19b-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Verjährungsfrist wird durch die Kenntnis des Schadens und der Person des Ersatzpflichtigen sowie des Ursachenzusammenhangs zwischen dem Schaden und dem schadensstiftenden Verhalten in Gang gesetzt (RS0034374 [auch T4]), wobei es darauf ankommt, wann die Kenntnis des Geschädigten einen solchen Grad erreicht hat, dass mit Aussicht auf Erfolg geklagt werden kann (RS0034366 [T19]; RS0034524; RS0034374 [T28, T37, T49]).
+Die bloße Möglichkeit zur Ermittlung maßgeblicher Tatsachen ersetzt deren Bekanntsein an sich nicht (RS0034366 [T6, T20]). Der Geschädigte darf sich aber nicht einfach passiv verhalten (RS0065360; RS0034374 [T15]). Wenn er die für die erfolgreiche Anspruchsverfolgung notwendigen Voraussetzungen ohne nennenswerte Mühe in Erfahrung bringen kann, gilt die Kenntnisnahme schon als in dem Zeitpunkt erlangt, in dem sie ihm bei angemessener Erkundigung zuteil geworden wäre (RS0034327 [T1]; RS0034335; RS0034366 [T20]).
+Welche Erkundigungsmaßnahmen dem Geschädigten zumutbar sind, ohne seine Erkundigungsobliegenheit zu überspannen, hängt stets von den Umständen des Einzelfalls ab (RS0034327 [T20, T27]; RS0034374 [T31]; RS0034524 [T22, T23]).
+2. Die Vorinstanzen gingen davon aus, dass sowohl die unmittelbar Geschädigte, die während eines Aufenthalts in einem Bildungszentrum durch einen Sturz über eine nicht abgesicherte Metallhalterung Verletzungen erlitten hatte, als auch die klagende Kranken- und Unfallfürsorgeanstalt, die aufgrund des Unfalls Leistungen an die Verletzte erbracht hatte, den Schädiger unschwer hätten ermitteln können. Dies begründeten sie damit, die Klägerin habe mehr als drei Jahre vor Klageeinbringung Kenntnis davon gehabt, dass die Verletzte Hotelgast und damit in einem Vertragsverhältnis zu dem hinter dem Beherbungsbetrieb stehenden Rechtsträger gewesen sei.
+3. Diese Beurteilung begründet keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung.
+Das Berufungsgericht ist von der Rechtsprechung, wonach die Erkundigungspflicht des Geschädigten nicht überspannt werden darf (RS0034327 [T6]; RS0034374 [T26]), nicht abgewichen, sondern hat diese in vertretbarer Weise auf den vorliegenden Einzelfall angewandt.
+Mit dem Vorbringen, die Klägerin habe erst zu jenem (späteren) Zeitpunkt Kenntnis von der Person des Schädigers erlangt, zu dem die Verletzte in dem von ihr gegen zwei Beklagte geführten Schadenersatzprozess gegen die eine Beklagte durchgedrungen sei, wird keine erhebliche Rechtsfrage dargetan. Damit wird nämlich nicht aufgezeigt, aus welchen Gründen es der Klägerin nicht zumutbar gewesen sein soll, die Identität des Vertragspartners der Verletzten bereits durch einfache Erkundigungen nach dem Träger des Beherbungsbetriebs zu ermitteln.
+Die Entscheidung des Berufungsgerichts steht auch nicht im Widerspruch zu höchstgerichtlichen Entscheidungen, die dem Geschädigten zubilligen, den Ausgang eines Vorverfahrens abzuwarten (vgl RS0083144 [T1, T14] ua). Diesen Entscheidungen liegt vielmehr zugrunde, dass in den dort zu beurteilenden Fällen vor der Entscheidung im Vorverfahren eine Klage nicht mit Aussicht auf Erfolg erhoben werden konnte, etwa weil schon der Schadenseintritt unklar und Gegenstand eines Verfahrens (RS0083144 [T14]; RS0034374 [T29, T36, T46]; RS0034524 [T10, T47]) oder das Entstehen eines Schadens überhaupt vom Ausgang eines Verwaltungsverfahrens abhängig war (RS0083144 [T21]). Aus dieser Rechtsprechung kann aber nicht abgeleitet werden, dass die Klägerin im vorliegenden Fall auf den Ausgang des Vorverfahrens angewiesen gewesen wäre, um die Identität des Schädigers ohne nennenswerte Mühe zu ermitteln.
+Mit dem Fall, dass ein Makler vor dem Ausgang des Rechtsstreits über das Zustandekommen des vermittelten Geschäfts seinen Provisionsanspruch nicht mit Aussicht auf Erfolg geltend machen kann (6 Ob 38/19k) ist der vorliegende Sachverhalt nicht vergleichbar.
+4. Mangels Geltendmachung einer Rechtsfrage der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision der Klägerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00102.20Y.1022.000

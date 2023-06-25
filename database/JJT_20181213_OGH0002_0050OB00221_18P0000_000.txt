@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2018
+Geschäftszahl
+5Ob221/18p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei O*, vertreten durch Mag. Constantin Koch, Rechtsanwalt in Krems an der Donau, gegen die beklagte Partei M*, vertreten durch Dr. Franz Terp, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 5. September 2018, GZ 39 R 186/18v-10, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Hauptmiete liegt vor, wenn der Mietvertrag mit dem Eigentümer oder dem dinglich oder obligatorisch berechtigten Fruchtnießer der Liegenschaft oder mit dem Mieter oder Pächter eines ganzen Hauses geschlossen wird. Steht der Mietgegenstand im Wohnungseigentum, so wird Hauptmiete durch den Mietvertrag mit dem Wohnungseigentümer begründet. Wenn am Mietgegenstand Wohnungseigentum erst begründet werden soll, kommt durch den mit dem Wohnungseigentumsbewerber geschlossenen Mietvertrag Hauptmiete mit dem Eigentümer oder den Eigentümern der Liegenschaft zustande, doch geht mit der Begründung von Wohnungseigentum am Mietgegenstand die Rechtsstellung des Vermieters auf den Wohnungseigentümer über (§ 2 Abs 1 Satz 1–3 MRG).
+2. Untermiete liegt vor, wenn der Mietvertrag mit einer Person geschlossen wird, die in Abs 1 nicht genannt ist (§ 2 Abs 2 Satz 1 MRG).
+3. Nach dem eindeutigen Gesetzeswortlaut vermittelt nur der Fruchtnießer der gesamten Liegenschaft, nicht aber der Fruchtnießer einer Wohnung Hauptmietrechte (RIS-Justiz RS0069539 [T2]; RS0011880 [T1]).
+4. Das dritte WÄG, BGBl 1993/800, ließ den Zusatz „der Liegenschaft“ nach dem Wort „Fruchtnießer“ entfallen. Trotz des geänderten Gesetzeswortlauts vertraten Lehre und Rechtsprechung die Ansicht, dass der Gesetzgeber mit dem dritten WÄG keine Änderung beabsichtigt hätte und daher weiterhin nur der Mietvertrag mit dem Fruchtnießer der gesamten Liegenschaft ein Hauptmietverhältnis begründe. Mit der Wiederaufnahme des Zusatzes „der Liegenschaft“ mit dem WEGBeglG 2002, BGBl I 2002/71, wollte der Gesetzgeber diesem Verständnis Rechnung tragen (ErläutRV 989 BlgNR 21. GP 86).
+5. Der in der außerordentlichen Revision gewünschten Differenzierung zwischen Wohnungen, an denen Wohnungseigentum begründet wurde, und Wohnungen im „schlichten Miteigentum“ steht der klare Gesetzeswortlaut entgegen: Nur der Wohnungseigentümer oder der Wohnungseigentumsbewerber können Hauptmietverträge schließen, der Fruchtnießer nur eines Wohnungseigentümers und nicht der gesamten Liegenschaft hingegen nur Untermietverträge. Die in der Revision zitierte Kommentierung in Würth/Zingher/Kovany MRG23 § 2 MRG Rz 3 ist missverständlich: Einerseits findet sich der Fruchtnießer des Wohnungseigentümers in der Aufzählung jener Personen, die Hauptmietrechte vermitteln können,  unmittelbar danach wird der bloße Wohnungsfruchtnießer wieder ausgenommen. Angesichts der Klarstellung durch das WEGBegl 2002 gibt es keinen Anlass, den Kreis jener Personen, die zum Abschluss von Hauptmietverträgen berechtigt sind, um den Fruchtnießer eines Wohnungseigentümers zu erweitern.
+6. Das Erlöschen des Wohnungsfrucht-genussrechts an der – dem Beklagten nach diesen Kriterien nur untervermieteten – Wohnung als Folge des Tods der Fruchtnießerin (§ 529 ABGB) zieht der Revisionswerber nicht in Zweifel. Nach der Rechtsprechung erlöschen zwar von einem Fruchtnießer abgeschlossene Bestandverträge nicht mit dem Fruchtgenussrecht, weil der Eigentümer analog § 1120 ABGB in den Bestandvertrag eintritt (RIS-Justiz RS0011846; RS0013481; RS0021228 [T1]; 3 Ob 66/06m mwN). Diese Rechtsprechung bezieht sich allerdings auf Hauptmietverhältnisse und nicht auf vom bloßen Wohnungsfruchtnießer geschlossene Untermietverträge. Im
+– vom Beklagten nie bezweifelten – Anwendungsbereich des MRG stellt § 2 Abs 1 in Satz 4 und 5 klar, dass ein Eintritt ausschließlich in einen Hauptmietvertrag erfolgen kann.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E123821

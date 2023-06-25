@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.05.2019
+Geschäftszahl
+17Ob7/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende und die Hofräte Dr. Musger und Priv.-Doz. Dr. Rassi, die Hofrätin Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dr. K***** S*****, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der H***** GmbH & Co KG (*****), gegen die beklagte Partei Republik Österreich (Finanzamt *****), vertreten durch die Finanzprokuratur, wegen Feststellung zweier Insolvenzforderungen (Streitwert 30.047,77 EUR), im Verfahren über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 20. Februar 2019, GZ 1 R 88/18v-15, womit das Urteil des Landesgerichts Wels vom 27. April 2018, GZ 1 Cg 74/17b-6, in der Entscheidung über das Eventualbegehren bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Die beklagte Republik Österreich meldete im Insolvenzverfahren der Schuldnerin unter anderem folgende Forderungen an:
+-	Lohnsteuer von 18.672,27 EUR für die Zeit vor Insolvenzeröffnung als unbedingte Insolvenzforderung, dies aufgrund eines nach Insolvenzeröffnung, aber vor der Prüfungstagsatzung ausgestellten vollstreckbaren Rückstandsausweises (ON 64);
+-	Lohnsteuer von 11.375,50 EUR als bedingte Insolvenzforderung für den Fall der Ausschüttung einer „Verteilungsquote“ (offenkundig für nicht ausgezahlten Lohn) an die Arbeitnehmer oder an den Insolvenz-Ausfallgeldfonds (ON 65).
+Soweit im Revisionsverfahren noch relevant begehrt der klagende Insolvenzverwalter die Feststellung, dass diese Forderungen „keine Insolvenzforderungen darstellen und somit nicht zu Recht bestehen“.
+Mit dem angefochtenen Urteil bestätigte das Berufungsgericht die klageabweisende Entscheidung des Erstgerichts und sprach aus, dass die ordentliche Revision nicht zulässig sei. Die dagegen erhobene „außerordentliche“ Revision legt das Erstgericht zur Entscheidung vor.
+Die Akten sind dem Erstgericht zurückzustellen.
+Rechtliche Beurteilung
+1. Zwar ist trotz des Feststellungsbegehrens keine Bewertung iSv § 500 Abs 2 Z 1 ZPO erforderlich, weil in insolvenzrechtlichen Feststellungsprozessen der Wert der festzustellenden Forderung maßgebend ist (RS0042401); das hat auch bei Klagen auf Feststellung des Nichtbestehens solcher Forderungen zu gelten.
+2. Diese Forderungen sind aber im konkreten Fall nicht zusammenzurechnen.
+1.1. Werden in einer Klage mehrere Forderungen geltend gemacht, so bilden sie nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen der Zusammenrechnung nach § 55 Abs 1 JN erfüllt sind. Diese Regelung gilt auch für die Zulässigkeit von Rechtsmitteln (§ 55 Abs 4 JN) und damit für den Entscheidungsgegenstand iSv § 502 ZPO (RS0053096).
+1.2. Mehrere in einer Klage von einer Partei erhobene Ansprüche sind nach § 55 Abs 1 Z 1 JN nur dann zusammenzurechnen, wenn sie in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Mehrere Ansprüche stehen in einem tatsächlichen Zusammenhang, wenn sie allesamt aus demselben Klagesachverhalt abgeleitet werden können, wenn also das für einen Anspruch erforderliche Sachvorbringen ausreicht, um auch über den anderen geltend gemachten Anspruch entscheiden zu können, ohne dass noch ein ergänzendes Sachvorbringen erforderlich wäre (RS0042766). Ein rechtlicher Zusammenhang liegt dagegen vor, wenn die Ansprüche aus demselben Vertrag oder aus derselben Rechtsnorm abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RS0037648). Ein solcher Zusammenhang besteht jedoch dann nicht, wenn jeder der mehreren Ansprüche ein ganz verschiedenes rechtliches und tatsächliches Schicksal haben kann; in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfindet (RIS-Justiz RS0037899). Bei der Prüfung der Frage, ob die geltend gemachten Ansprüche in einem tatsächlichen oder rechtlichen Zusammenhang stehen, ist von den Klageangaben auszugehen (RIS-Justiz RS0106759).
+1.3. Im vorliegenden Fall ist nicht erkennbar, dass zwischen den beiden Forderungen ein solcher Zusammenhang besteht. Es handelt sich nach dem Klagevorbringen um Abgabenforderungen, die einerseits auf vor Insolvenzeröffnung ausgezahltem Gehalt und andererseits auf möglichen Leistungen aus der Insolvenzmasse beruhen. Damit ist die Sachverhaltsgrundlage verschieden, und die Festellungsbegehren können auch ein unterschiedliches rechtliches Schicksal haben. Die Forderungen sind daher nicht zusammenzurechnen.
+2. Auf dieser Grundlage ist der Oberste Gerichtshof derzeit nicht zur Entscheidung über das Rechtsmittel befugt.
+Da der Wert des Entscheidungsgegenstands jeweils 5.000 EUR, nicht aber 30.000 EUR übersteigt, ist keine außerordentliche Revision zulässig. Vielmehr hängt die Zulässigkeit der Revision davon ab, ob das Berufungsgericht seinen Nichtzulassungsausspruch nach § 508 Abs 3 ZPO abändert. Der Revisionswerber hat daher einen Antrag nach § 508 Abs 1 ZPO zu stellen, über den das Berufungsgericht zu entscheiden hat. Zur Durchführung dieses Verfahrens sind die Akten dem Erstgericht zurückzustellen. Ob die Ausführungen zur Zulässigkeit der „außerordentlichen“ Revision als Antrag nach § 508 Abs 1 ZPO gewertet werden können oder ob insofern ein Verbesserungsverfahren erforderlich ist, bleibt der Beurteilung der Vorinstanzen überlassen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0170OB00007.19G.0502.000

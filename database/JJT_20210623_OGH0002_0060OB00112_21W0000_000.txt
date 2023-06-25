@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.2021
+Geschäftszahl
+6Ob112/21w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek, Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr in der Firmenbuchsache der B***** GmbH, *****, vertreten durch DORDA Rechtsanwälte GmbH in Wien, über den „Rekurs“ des Einschreiters Dr. ***** H*****, Rechtsanwalt, *****, gegen den Beschluss des Oberlandesgerichts Wien vom 27. April 2021, GZ 6 R 24/21z-3, mit dem der Revisionsrekurs des Einschreiters gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 5. März 2021, GZ 6 R 24/21z-11, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem (richtig: Revisions-)Rekurs wird nicht Folge gegeben.
+Der Einschreiter hat die Kosten des Rechtsmittelverfahrens selbst zu tragen.
+Text
+Begründung:
+[1] 		Mit Beschluss vom 5. 1. 2021 wies das Erstgericht den Antrag der Gesellschaft vom 14. 8. 2020 auf Eintragung der Änderung des Gesellschaftsvertrags mit der Begründung zurück, dass – mangels Unterschrift des Einschreiters – keine Anmeldung durch sämtliche Geschäftsführer vorliege.
+[2] 		Das Rekursgericht gab dem dagegen erhobenen Rekurs der Gesellschaft mit Beschluss vom 5. 3. 2021, 6 R 24/21z-11, Folge, hob den angefochtenen Beschluss auf und trug dem Erstgericht die Fortsetzung des Eintragungsverfahrens unter Abstandnahme vom gebrauchten Zurückweisungsgrund auf. Rechtlich erörterte es, der Einschreiter sei als Geschäftsführer der Gesellschaft wirksam abberufen worden. Selbst wenn es nach § 50 Abs 4 GmbHG für seine Abberufung der Zustimmung der entsendungsberechtigten Minderheitsgesellschafterin bedurft hätte, mache dies den Abberufungsbeschluss vom 30. 6. 2020 bloß anfechtbar. Die Abberufung sei dem Einschreiter gegenüber durch die Mitteilung des Beschlussergebnisses am 2. 7. 2020 wirksam geworden. Daher sei seine Mitwirkung für die Anmeldung der Änderung des Gesellschaftsvertrags (am 14. 8. 2020) nach § 51 Abs 1 GmbHG nicht erforderlich gewesen.
+[3] 		Gegen diesen Beschluss erhob der Einschreiter (als Geschäftsführer für die Gesellschaft sowie im eigenen Namen) Revisionsrekurs.
+[4] 		Mit dem angefochtenen Beschluss wies das Rekursgericht den Revisionsrekurs zurück. Der Einschreiter sei als Geschäftsführer der Gesellschaft – jedenfalls derzeit – wirksam abberufen und in dieser Funktion rechtskräftig aus dem Firmenbuch gelöscht worden. Ihm komme im vorliegenden Firmenbuchverfahren daher weder namens der Gesellschaft noch im eigenen Namen Rechtsmittellegitimation zu.
+Rechtliche Beurteilung
+[5] 		Gegen diesen Zurückweisungsbeschluss richtet sich der Revisionsrekurs des Einschreiters, der zulässig ist, weil die Rechtsmittelbeschränkung des § 62 AußStrG nicht gilt, wenn das Rekursgericht bei der Zurückweisung eines an den Obersten Gerichtshof gerichteten Rechtsmittels als Durchlaufgericht gehandelt hat (RS0044005 [T8]; RS0007047 [T2]; 6 Ob 206/18i; Rechberger/Klicka in Rechberger/Klicka, AußStrG³ § 62 Rz 1; Schramm in Gitschthaler/Höllwerth, AußStrG² § 62 Rz 13). Er ist aber nicht berechtigt.
+[6] 		1. Zur mangelnden Rechtsmittellegitimation als Geschäftsführer der Gesellschaft:
+[7] 		1.1. Solange ein stattgebendes rechtskräftiges Urteil nicht vorliegt, mit dem der – ohne Zustimmung eines nach § 50 Abs 4 GmbHG zustimmungsberechtigten Gesellschafters gefasste – Abberufungsbeschluss nach § 41 GmbHG für nichtig erklärt wurde, ist die Abberufung wirksam, sodass dem abberufenen Geschäftsführer die Legitimation fehlt, namens der Gesellschaft Rechtsmittel zu erheben (6 Ob 38/21p betreffend den selben Einschreiter und die selbe Gesellschaft).
+[8] 		Auch im vorliegenden Rechtsmittelverfahren behauptet der Einschreiter nicht, dass der seine Abberufung bekämpfenden Nichtigkeitsklage nach § 41 GmbHG bereits rechtskräftig stattgegeben worden wäre.
+[9] 		1.2. Der Beschluss des Firmenbuchgerichts auf Eintragung der Abberufung des Geschäftsführers einer GmbH  ist nicht rechtsbegründend, sondern wirkt nur deklarativ. Die Eintragung äußert nur im Rahmen des § 15 UGB und des § 17 Abs 3 GmbHG Rechtswirkungen (RS0006938 [T5]; 6 Ob 38/21p). Auch wenn die Löschung des abberufenen Geschäftsführers aus dem Firmenbuch noch nicht erfolgt ist, ändert das damit nichts an der Beendigung seiner Organstellung.
+[10] 		Der Einschreiter kann daher daraus, dass seine Eintragung als Geschäftsführer der Gesellschaft erst am 5. 5. 2021 gelöscht wurde, keine Vertretungsbefugnis für die Gesellschaft bis zu diesem Zeitpunkt ableiten.
+[11] 		1.3. Der Einschreiter geht (auch) in seinem Revisionsrekurs davon aus, dass ihm aufgrund der Entsendung als Geschäftsführer Einzelvertretungsbefugnis zukomme. Dies ist aber – wie der erkennende Senat in der Entscheidung 6 Ob 22/21k mit eingehender Begründung dargelegt hat – nicht der Fall. Warum ein Entsendungsrecht auch ohne satzungsmäßige Grundlage dazu führen sollte, dass der entsendete Geschäftsführer abweichend von § 18 Abs 2 GmbHG einzelvertretungsbefugt wäre, ist nicht zu sehen.
+[12] 		Selbst wenn man daher davon ausgeht, dass der Einschreiter – wie dieser vorbringt – nach seiner Abberufung als Geschäftsführer neuerlich wiederbestellt wurde, würde dies nicht dazu führen, dass ihm Alleinvertretungsbefugnis zukommt.
+[13] 		2. Zur mangelnden Rechtsmittellegitimation im eigenen Namen:
+[14] 		Rekurslegitimiert sind im Firmenbuchverfahren die Parteien des Verfahrens sowie der nach § 18 FBG zu verständigende Betroffene (Kodek in Kodek/Nowotny/Umfahrer, FBG § 15 Rz 168 mwN). Die Parteistellung im Firmenbuchverfahren richtet sich nach den allgemeinen Grundsätzen des Außerstreitverfahrens. Es ist darauf abzustellen, ob der Betreffende ein rechtliches Interesse hat, das auf einem eingetragenen Recht beruht oder das in einem anderen Verfahren nicht mehr geltend gemacht werden kann (RS0059158 [T11]; 6 Ob 33/20a; 6 Ob 140/14b).
+[15] 		Gründe, aus denen sich ein eigenes rechtliches Interesse des Einschreiters ergeben sollte, das im Zusammenhang mit der im vorliegenden Verfahren beantragten Eintragung von Änderungen des Gesellschaftsvertrags stünde, werden im Rechtsmittel nicht angesprochen.
+[16] 		Dem Revisionsrekurs ist daher nicht Folge zu geben.
+[17] 		Die Kostenentscheidung beruht auf § 78 Abs 1 AußStrG.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00112.21W.0623.000

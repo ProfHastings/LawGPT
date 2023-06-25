@@ -1,0 +1,47 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.01.1959
+Geschäftszahl
+1Ob457/58
+Norm
+ABGB §1002;
+Handelsagentengesetz §1;
+Handelsgesetzbuch §383;
+Wechselgesetz 1955 Art10;
+Wechselgesetz 1955 Art17;
+Kopf
+SZ 32/1
+Spruch
+Der "Generalvertreter" oder Generalrepräsentant" im Autohandel ist in der Regel nicht Stellvertreter des Autoerzeugers, sondern Eigenhändler. Der Wechselschuldner kann daher dem Autoerzeuger Einwendungen, die ihm gegenüber dem "Generalvertreter" oder "Generalrepräsentanten" zustehen, außer bei Vorliegen der Voraussetzungen des Art. 17 letzter Satz WG. 1955 nicht entgegensetzen.
+Entscheidung vom 7. Jänner 1959, 1 Ob 457/58.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Die klagende Partei ist Inhaberin eines von Paul L. am 5. September 1957 an eigene Order ausgestellten und vom Beklagten angenommenen, am 1. Dezember 1957 fällig gewesenen Wechsels über 31.000 S.
+Gegen den Wechselzahlungsauftrag wendete der Beklagte ein:
+Der Kläger (gemeint ist anscheinend die klagende Partei) habe ihm am
+14. April 1957 einen Omnibus Marke M. zum vereinbarten
+Höchstlimitpreis von ....................................... 485.780
+S verkauft. Die bis zur Lieferung eintretenden Zollsenkungen sollten
+vereinbarungsgemäß von diesem Betrag in Abzug gebracht werden. Er
+habe an den Kläger bis zum 4. September 1957 bereits Zahlungen in
+der Höhe von ..................... 471.000 S geleistet. Hinsichtlich
+des noch aushaftenden Restbetrages, der in seiner tatsächlichen Höhe
+dem Beklagten vom Kläger bis heute noch nicht bekanntgegeben worden
+sei, habe der Beklagte dessen Generalvertreter für Österreich, Paul
+L., einen Blanko-Wechsel per 1. Dezember 1957, vom 5. September 1957
+(Ausstellungsdatum), ausgehändigt. Der sich aus obiger
+Gegenüberstellung ergebende Restbetrag von .................. 14.780
+S verringere sich aber um die eingetretenen Zollsenkungsbeträge, so
+daß der Beklagte im Zeitpunkt der Klageerhebung lediglich einen ganz
+geringen Restbetrag noch schuldig gewesen sei. Der Kläger wäre somit
+verpflichtet gewesen, den Wechsel lediglich auf diesen geringen
+Restbetrag auszustellen.
+Beide Untergerichte hielten den Wechselzahlungsauftrag aufrecht. Sie stellten fest:
+Paul L. verkaufte am 15. April 1957 dem Beklagten einen Omnibus, den er am gleichen Tag bei der Klägerin bestellte. Die Lieferung erfolgte durch die Klägerin unter gleichzeitiger Rechnungslegung am 22. Juli 1957 für Rechnung und Gefahr des Paul L. Die Bezahlung des Omnibusses erfolgte mittels eines Akkreditivs der C.-Bank, Zentrale Wien, über 57.000 RM mit Auftragsdatum 12. Juli 1957. Paul L., der seit einigen Monaten flüchtig und unbekannten Aufenthaltes ist, war selbständiger Kaufmann und hatte u. a. die Generalvertretung der Klägerin für Österreich. Zwischen den Streitteilen bestanden keine unmittelbaren vertraglichen Beziehungen.
+Unabhängig von diesem Omnibuskauf, jedoch im Zusammenhang mit einem anderen Kaufgeschäft, welches schon vorher abgewickelt worden war, gab Paul L. am 27. Mai 1958 ein Akzept des Beklagten über 40.000 S, dessen Aussteller Paul L. war, an die klagende Partei weiter. Dieser Wechsel wurde seitens der klagenden Partei zur Finanzierung eines anderen Omnibusgeschäftes verwendet. Das Akzept wurde in der Folge nach Zahlung von 10.000 S und Übernahme von 1000 S Verlängerungsspesen prolongiert; so kam es zu dem klagsgegenständlichen Prolongationsakzept über 31.000 S.
+Rechtlich kamen beide Untergerichte zu dem Ergebnis, daß die Einwendungen des Beklagten gemäß Art. 10 und 17 WG. 1955 unbegrundet seien. Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In rechtlicher Beziehung geht der Beklagte davon aus, daß ein "Generalvertreter" ein Bevollmächtigter sein müsse. Dies trifft nicht zu. Gerade im Autohandel bezeichnen sich häufig selbständige Händler als Vertreter, Generalvertreter, Repräsentanten, Generalrepräsentanten, und zwar dann, wenn sie - in der Regel als einzige Händler im Inland - Kraftwagen einer bestimmten Erzeugungsunternehmung - und manchmal auch nur diese eine Marke - verkaufen. Mit dieser Bezeichnung wird nicht zum Ausdruck gebracht, daß solche Händler immer oder auch nur vorwiegend als bloße Bevollmächtigte dieser Erzeuger und nicht als Eigenhändler auftreten. Es kommt hiebei alles auf die Umstände des einzelnen Geschäftes an. Im vorliegenden Fall ist nun der Wechsel von Paul L. im eigenen Namen ausgestellt und giriert worden; er enthält keinen Hinweis, daß L. als Bevollmächtigter der Klägerin aufgetreten wäre. Ebenso ist die vom Beklagten vorgelegte Auftragsbestätigung vom 14. April 1957 von Paul L. ohne jeden Hinweis auf ein Vollmachtsverhältnis unterschrieben. Die Bezeichnung "Generalvertretung für Österreich der K.-AG." (Klägerin) im Briefkopf genügt nicht, um ein solches Vollmachtsverhältnis annehmen zu können. Der erste Satz des Briefes: "Sie erteilen uns hiemit einen unwiderruflichen Auftrag auf Bestellung eines M.- Aussichtswagens Saturn (ohne Schiebedach) zur Weiterleitung an die K.-AG., Werk U." könnte zwar dahin verstanden werden, daß L. nicht im eigenen Namen, sondern für die Klägerin abschließen wollte, zwingt aber nicht zu diesem Schluß, weil es sich von selbst versteht, daß L. den bestellten Kraftwagen bei der Klägerin beziehen mußte und daher in diesem Sinn die Bestellung weiterleitete. Der äußere Tatbestand ist demnach sowohl nach Wechselbild wie Auftragsbestätigung keineswegs der, daß die klagende Partei, sondern vielmehr der, daß L. als Vertragspartner des Kauf- und des Wechselgeschäftes dem Kläger gegenüber aufgetreten ist. Die Bezeichnung als Generalvertreter der klagenden Partei reicht gerade im Autohandel nicht hin, um einen äußeren Tatbestand im ersten Sinn annehmen zu können. Dazu kommt, daß der Beklagte in seinen Einwendungen auch nichts in der Beziehung vorgebracht hat, daß die klagende Partei einen äußeren Tatbestand geschaffen oder geduldet hätte, für den sie haften müßte. Den Einwendungen kann höchstens entnommen werden, daß L. als Bevollmächtigter der klagenden Partei aufgetreten sei. Diese Behauptung wird aber in der Revision gar nicht mehr in dem Sinn aufrechterhalten, daß L. von der Klägerin Vollmacht für das gegenständliche Geschäft gehabt hätte. Wenn nunmehr in der Revision behauptet wird, daß die Klägerin L. "als direkten Vertreter in Österreich durch Jahre hindurch auftreten ließ, somit dies geduldet und gebilligt hat", so ist dies nicht nur nicht festgestellt, sondern auch nicht eingewendet worden.
+Nach dem Vorgesagten ist davon auszugehen, daß L. als Eigenhändler dem Beklagten den Wagen verkauft und das Blankoakzept hereingenommen hat. Dies führt aber dazu, daß der klagenden Partei der Schutz des Art. 10 WG. 1955 zugutekommt.Daß die klagende Partei beim Erwerb des Wechsels von einer vertragswidrigen Ausfüllung des Wechselblanketts gewußt hätte oder hätte wissen müssen, ist nicht behauptet worden.

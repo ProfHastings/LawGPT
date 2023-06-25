@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.2017
+Geschäftszahl
+2Ob85/17i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden und die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé und den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Ö***** AG, *****, vertreten durch Lansky, Ganzger & Partner Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. V***** GmbH, 2. V***** Aktiengesellschaft, *****, beide vertreten durch Schenz & Haider Rechtsanwälte OG in Mödling, wegen 1.302.378,33 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 15. März 2017, GZ 3 R 33/17v-112, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin ist ein Eisenbahninfrastrukturunternehmen (§ 1a EisbG). Ihre Infrastruktur wurde am 31. 10. 2007 bei der Entgleisung eines von einem Eisenbahnverkehrsunternehmen (§ 1b EisbG) betriebenen Zuges beschädigt. Ursache der Entgleisung war der Bruch eines Rades an einem Waggon, der der Erstbeklagten gehörte und von der Zweitbeklagten gehalten wurde.
+Die Klägerin begehrt von den Beklagten den Ersatz ihres Schadens. Die Vorinstanzen wiesen die Klage ab, weil zwischen den Parteien kein Vertrag bestanden habe, die Beklagten nicht nach dem EKHG oder wegen Schutzgesetzverletzung hafteten und ein ihnen zurechenbares Verschulden nicht erwiesen sei. Nach den Feststellungen hatten die Beklagten die Wartungsvorschriften eingehalten, bei der letzten Revision vor dem Vorfall waren die Räder des Waggons überprüft und als verkehrstauglich befunden worden.
+Das Berufungsgericht ließ die Revision nicht zu, weil die Rechtslage durch die Entscheidungen 2 Ob 15/16v und 2 Ob 18/16k geklärt sei.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Klägerin macht geltend, dass die Beklagten aufgrund eigenen Verschuldens oder des Verschuldens von Gehilfen hafteten. Dieses Verschulden ergebe sich aus dem Umstand, dass das Rad gebrochen sei. Für ihre Gehilfen hafteten die Beklagten nach § 1302 ABGB, da diese „als Nebentäter an der Kausalkette beteiligt“ gewesen seien. Die vorgenannten Entscheidungen wären sachverhaltsmäßig abweichend.
+Damit zeigt die Klägerin keine erhebliche Rechtsfrage auf.
+Wer zur Begründung einer außervertraglichen Haftung ein von der Gegenseite zu vertretendes Verschulden geltend macht, muss jene Tatsachen behaupten und beweisen, auf die er den Verschuldensvorwurf gründet; ungeklärte Umstände gehen zu seinen Lasten (RIS-Justiz RS0022783). Im vorliegenden Fall hat die Klägerin nur nachgewiesen, dass der Schaden an ihrer Infrastruktur durch den Bruch eines Rades am Waggon der Beklagten verursacht worden war. Allein daraus lässt sich aber kein Verschulden von Mitarbeitern der Beklagten oder der mit der Wartung beauftragten Unternehmen ableiten. Die weitere Frage, aus welchen Gründen ein solches Verschulden den Beklagten zuzurechnen wäre, stellt sich daher nicht, sodass es im Ergebnis unerheblich ist, dass die Revision die insofern maßgebende Rechtslage (§ 1315 ABGB) nicht einmal ansatzweise erörtert. Der darin angesprochene § 1302 ABGB regelt die Haftung mehrerer ursächlich handelnder Schädiger. Weshalb sich daraus die Haftung der Beklagten für (ungenannt gebliebene) Gehilfen ergeben soll, legt die Revision nicht nachvollziehbar dar. Sie ist daher zurückzuweisen, ohne dass dies einer weitergehenden Begründung bedarf (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0020OB00085.17I.0516.000

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.03.2019
+Geschäftszahl
+4Ob51/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Dr. E* O*, gegen die beklagte Partei E* S*, vertreten durch GRAFF NESTL & PARTNER Rechtsanwälte GmbH in Wien, wegen 43.344,70 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Jänner 2019, GZ 11 R 6/19m-21, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der klagende Rechtsanwalt wurde von der Beklagten mit der Errichtung eines Liegenschaftskaufvertrags und damit in Zusammenhang stehenden Vertretungsleistungen zu einem Pauschalhonorar beauftragt. Die Beklagte bevollmächtigte nach Errichtung des Vertrags eine andere Kanzlei und verweigerte die Bezahlung des Honorars sowie der Barauslagen für eine Übersetzung.
+Das Berufungsgericht sprach dem Kläger nur den auf die Vertragserrichtung entfallenden Teil von 76 % des Pauschalhonorars und den Ersatz der Auslagen zu, ohne die infolge Widerrufs der Vollmacht nicht erbrachten Vertretungsleistungen zu honorieren.
+Dagegen zeigt der Kläger keine erhebliche Rechtsfrage auf.
+Rechtliche Beurteilung
+1.1 Für die Qualifikation des Vertragsverhältnisses zwischen einem Rechtsanwalt und seinen Klienten als Werkvertrag oder als Auftragsverhältnis bzw Geschäftsbesorgungsverhältnis kommt es auf die Umstände des Einzelfalls an (RIS-Justiz RS0113156).
+1.2 In der Regel ist ein solcher Vertrag ein Bevollmächtigungsvertrag und unterliegt Auftragsrecht (RIS-Justiz RS0019392; RS0038942). Werkvertragsrecht (insbesondere in Entlohnungsfragen) ist grundsätzlich auch nicht hilfsweise anzuwenden; nur ausnahmsweise ist der Vertrag zwischen einem Rechtsanwalt und seinem Klienten auch ein Werkvertrag (8 Ob 91/08b). Maßgeblich für die Abgrenzung einer Beauftragung auch mit der Errichtung eines Vertrags ist, ob der Rechtsanwalt ein Ergebnis oder ein Bemühen schuldet und ob Verrichtungen rechtlicher Art wie bei der Geschäftsbesorgung oder mehr tatsächliche Handlungen im Vordergrund stehen (10 Ob 82/00g; 8 Ob 91/08b; RIS-Justiz RS0021911 [T2]).
+1.3 Der Kläger wurde mit Vertretungsleistungen bzw Verrichtungen rechtlicher Art (grundbücherliche Durchführung, Übernahme der treuhandschaftlichen Abwicklung, juristische Beratung im Zusammenhang mit der erforderlichen grundverkehrsbehördlichen Genehmigung und des Nachweises der Herkunft des Kaufpreises aus legalen Quellen sowie Vertretung der Beklagten gegenüber den Verkäufern) beauftragt, weshalb die Anwendung von Auftragsrecht durch das Berufungsgericht jedenfalls nicht unvertretbar ist.
+1.4 Entsprechendes gilt auch für die vom Berufungsgericht auf die (in einer vergleichbaren Konstellation ergangene) Entscheidung 3 Ob 168/05k gestützte Rechtsansicht, dass die Frage des Entlohnungsanspruchs bei nicht vollständig erbrachten Leistungen nach dem Regime des Auftragsrechts und nicht nach Werkvertragsrecht zu lösen ist. Ein Abweichen von der Entscheidung 7 Ob 636/92 liegt nicht vor, zumal die Qualifikation des vorliegenden Rechtsverhältnisses dort nicht Gegenstand des Revisionsverfahrens war.
+2. Wurde im Auftragsverhältnis – wie hier – ein Pauschalhonorar vereinbart, aber infolge Widerrufs der Vollmacht nicht die ganze bedungene Arbeit geleistet, dann kann der Rechtsanwalt nach der Aliquotierungsregel des § 1020 Satz 1 ABGB nur einen angemessenen Teil des vereinbarten Honorars verlangen (RIS-Justiz RS0019392). Diese Norm reduziert den Entgeltanspruch des Beauftragten auf den durch seine Tätigkeit bis zum Zugang des Widerrufs bereits erarbeiteten Teil des bedungenen Lohnes (1 Ob 253/36 = SZ 18/59). Die Rechtsansicht des Berufungsgerichts, dass dem Kläger deshalb nur der Aufwand für die Errichtung des Kaufvertragsentwurfs und der Ersatz der Barauslagen gebühren, hält sich im Rahmen dieser Rechtsprechung.
+3. Die geltend gemachte Mangelhaftigkeit wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+3.1 Der behauptete Verstoß gegen das Verbot von Überraschungsentscheidungen kann nicht darauf gestützt werden, dass das Berufungsgericht die Regeln des Auftragsrechts angewandt hat, zumal selbst der Kläger im erstinstanzlichen Verfahren seinem Vorbringen ein Auftragsverhältnis zugrundelegte (zB „Mandatsumfang“, „Mandat der Käuferin“, „den Kläger mandatiert“ oder „Widerruf des Mandats“).
+3.2 Dem Hinweis, wonach von der Pauschale auch noch weitere (gemeint: nicht erbrachte) Leistungen umfasst seien, mangelt es an der für einen Verfahrensmangel erforderlichen Relevanz. Für den Kläger wäre auch bei Berücksichtigung weiterer vereinbarter Leistungen nichts gewonnen. Vielmehr hätte dies die verhältnismäßige Reduktion des (ihm gebührenden) auf die Vertragserrichtung entfallenden Teils zur Folge.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E124659

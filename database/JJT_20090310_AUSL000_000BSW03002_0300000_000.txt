@@ -1,0 +1,46 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+10.03.2009
+Geschäftszahl
+Bsw3002/03 (Bsw23676/03)
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer IV, Beschwerdesache Times Newspapers Ltd gegen das Vereinigte Königreich (Nr. 1 und 2), Urteil vom 10.3.2009, Bsw. 3002/03 und Bsw. 23676/03.
+Spruch
+Art. 10 EMRK - Haftung für ehrenrührige Artikel in Internetarchiv.
+Zulässigkeit der Beschwerde hinsichtlich der behaupteten Verletzung von Art. 10 EMRK (einstimmig).
+Keine Verletzung von Art. 10 EMRK (einstimmig).
+Text
+Begründung:
+Sachverhalt:
+Die Bf. Times Newspapers Ltd ist Eigentümerin und Verlegerin der Zeitung The Times, in der am 8.9.1999 ein Artikel mit folgender Schlagzeile erschien: „Zweite russische Verbindung zu Geldwäsche". In dem Artikel wurde ein in Russland geborener Geschäftsmann namens G. L. mit Geldwäsche in Verbindung gebracht und behauptet, seine Firma stehe in Verdacht, Nuklearwaffenschmuggel zu betreiben. G. L. wurde mit vollem Namen genannt.
+Am 14.10.1999 veröffentlichte die Zeitung einen weiteren Artikel, in dem die Ehefrau des Unternehmers Lev Chernoi behauptete, ihr Mann sei ein Freund des „mutmaßlichen Mafia-Bosses" G. L. Beide Artikel wurden am Tag ihrer Veröffentlichung auf der Webseite der Bf. zum Download zur Verfügung gestellt.
+Am 6.12.1999 erhob G. L. eine Verleumdungsklage gegen die Bf., ihren Herausgeber und die beiden Journalisten, unter deren Namen die Artikel erschienen waren. Die Beklagten bestritten nicht, dass die Artikel potentiell ehrenrührig waren. Sie verteidigten sich ausschließlich damit, dass sie aufgrund der Art der Informationen zu deren Veröffentlichung verpflichtet gewesen wären. Während die erste Klage anhängig war, blieben die Artikel auf der Webseite der Bf. abrufbar. Am 6.12.2000 brachte G. L. eine weitere Klage wegen der fortgesetzten Veröffentlichung beider Artikel im Internet ein. Die beiden Klagen wurden zusammengefasst. Am 23.12.2000 fügte die Bf. einen Vermerk zu den Artikeln in ihrem Archiv hinzu, wonach diese Gegenstand einer Streitsache vor dem High Court wären.
+Im März 2001 stellten die Angeklagten einen Antrag auf Abänderung ihrer Verteidigung hinsichtlich der zweiten Klage dahingehend, dass die einzige klagbare Veröffentlichung eines Zeitungsartikels im Internet jene sei, die mit der ersten Platzierung des Artikels im Internet erfolge (Single publication rule). Die zweite Klage sei somit verjährt. Der Antrag auf Abänderung wurde vom High Court mit der Begründung abgelehnt, jede Veröffentlichung einer Ehrenbeleidigung gebe Anlass für eine separate Klage. In Bezug auf das Internet bedeute dies, dass ein neuer Klagsgrund immer dann auftrete, wenn das ehrenrührige Material abgerufen werde (Internet publication rule).
+Am 27.3.2001 erging bezüglich der zweiten Klage ein Urteil zugunsten von G. L. Die Angeklagten legten Berufung gegen das Urteil ein. Diese wurde jedoch am 5.12.2001 vom Court of Appeal abgewiesen.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Die Bf. behauptet eine Verletzung von Art. 10 EMRK (Freiheit der Meinungsäußerung).
+Zur behaupteten Verletzung von Art. 10 EMRK:
+Die Bf. beklagt, dass die Internet publication rule eine ungerechte und unangemessene Einschränkung ihres Rechts auf Meinungsäußerungsfreiheit darstelle. Diese schränke ihre Möglichkeit ein, ein öffentlich zugängliches Internetarchiv zu unterhalten.
+1. Zur Zulässigkeit der Beschwerde:
+Da die Beschwerde weder offensichtlich unbegründet, noch aus einem anderen Grund unzulässig ist, muss sie für zulässig erklärt werden (einstimmig).
+2. In der Sache selbst:
+Die zweite Klage begründete einen Eingriff in das Recht der Bf. auf freie Meinungsäußerung, da ein Urteil gegen sie erging und sie in weiterer Folge eine Zahlung an G. L. leistete. Dass der Eingriff gesetzlich vorgesehen war, ist ebenso unbestritten wie die Tatsache, dass die Internet publication rule einem legitimen Ziel dient, nämlich dem Schutz der Rechte und des guten Rufes anderer. Zu prüfen bleibt, ob der Eingriff auf ausreichenden Gründen basierte und verhältnismäßig zum verfolgten Ziel war.
+Der GH erinnert daran, dass das Recht auf Freiheit der Meinungsäußerung einen der wichtigsten Eckpfeiler einer demokratischen Gesellschaft darstellt und die der Presse gewährten Garantien in diesem Zusammenhang besonders wichtig sind. Die Presse muss jedoch verantwortungsvoll und umsichtig mit Informationen umgehen, die negative Auswirkungen auf das Ansehen und die Ehre einer Person haben könnten.
+Die Bf. behauptet, aufgrund der Einführung der Internet publication rule anstelle der Single publication rule Prozessen ohne zeitliche Beschränkung ausgesetzt zu sein. Der GH stimmt den Ausführungen der Bf. bezüglich des erheblichen Beitrags zu, den Internetarchive hinsichtlich der Aufbewahrung und Zugänglichkeit großer Mengen von Informationen leisten. Archive bilden eine wichtige Quelle für Bildung und Recherche. Während die primäre Funktion der Presse darin besteht, als „öffentlicher Wachhund" zu agieren, hat sie die wertvolle sekundäre Aufgabe, Archive zu betreiben und der Öffentlichkeit zugänglich zu machen, die frühere Berichte enthalten. Der staatliche Ermessensspielraum bei der Abwägung zwischen den betroffenen Interessen ist jedoch größer, wenn es nicht um aktuelle Berichterstattung geht, sondern um Nachrichtenarchive über vergangene Ereignisse. Da historische Informationen unter keinem Veröffentlichungsdruck stehen, unterliegt es der journalistischen Verantwortung, diese besonders genau und sorgfältig zu recherchieren.
+Der Sinn und Zweck von Verjährungsfristen für Verleumdungsklagen besteht darin, die Opfer möglichst rasch zur Klagserhebung zu bewegen, damit die beklagten Zeitungen in der Lage sind, sich ungehindert durch den im Laufe der Zeit unvermeidbaren Verlust von Unterlagen und das Verblassen der Erinnerungen zu verteidigen. Es ist Sache der Vertragsstaaten, innerhalb ihres Ermessensspielraums eine angemessene Verjährungsfrist festzusetzen und Ausnahmen für spezielle Fälle vorzusehen.
+Der GH betrachtet es im vorliegenden Fall als maßgeblich, dass die Bf., obwohl die Klagen wegen der beiden Artikel bereits im Dezember 1999 erhoben wurden, bis Dezember 2000 keine Anstalten zur Kennzeichnung der Artikel in ihrem Internetarchiv unternommen hat. Der GH verweist auf die Feststellung des Court of Appeal, wonach eine Anmerkung zu den Artikeln, die auf den möglicherweise ehrenrührigen Inhalt hingewiesen hätte, „die Gefährlichkeit" des Materials in der Regel beseitigen würde. Zu den Behauptungen der Bf., solche Pflichten wären unverhältnismäßig, stellt der GH fest, dass das besagte Archiv von der Bf. selbst betrieben wird. Es ist auch nennenswert, dass der Court of Appeal nicht vorgeschlagen hat, möglicherweise ehrenrührige Artikel völlig aus den Archiven zu löschen. Unter diesen Umständen betrachtet der GH das Erfordernis einer angemessenen Kennzeichnung eines Artikels in einem Internetarchiv, wenn dessen Erscheinen in der Presse Anlass für ein Verfahren gab, nicht als unverhältnismäßige Einschränkung des Rechts auf freie Meinungsäußerung.
+Unter Berücksichtigung dieser Feststellung betrachtet es der GH nicht mehr als notwendig, die abschreckende Wirkung der Internet publication rule im Detail zu prüfen. Dennoch stellt der GH fest, dass die beiden Klagen dieselben zwei Artikel zum Gegenstand hatten. Die erste Klage wurde zwei bis drei Monate nach der Veröffentlichung und somit innerhalb der einjährigen Verjährungsfrist eingebracht. Die zweite Klage wurde ein Jahr später eingebracht, zu dieser Zeit war das Verfahren bezüglich der ersten Klage noch im Gange. Es gibt keinen Hinweis dafür, dass die Bf. infolge des Zeitablaufs in ihrer Verteidigung hinsichtlich der Internetveröffentlichung benachteiligt war.
+Dennoch möchte der GH hervorheben, dass Verleumdungsklagen, die nach einer erheblichen Zeitspanne gegen eine Zeitung erhoben werden, außer in außergewöhnlichen Umständen, sehr wohl geeignet sind, einen unverhältnismäßigen Eingriff in die Pressefreiheit zu begründen.
+Die innerstaatlichen Urteile, wonach die Bf. durch die fortgesetzte Veröffentlichung der beiden Artikel im Internet die Rechte des Klägers verletzt hatte, waren somit eine gerechtfertigte und verhältnismäßige Einschränkung der Meinungsäußerungsfreiheit der Bf. Demzufolge hat keine Verletzung des Art. 10 EMRK stattgefunden (einstimmig).
+Vom GH zitierte Judikatur:
+Observer und Guardian/GB v. 26.11.1991, A/216, NL 1992/1, 16; EuGRZ 1995, 16; ÖJZ 1992, 378.
+Guerra u. a./I v. 19.2.1998, NL 1998, 59; EuGRZ 1999, 188; ÖJZ 1999, 33.
+Fressoz und Roire/F v. 21.1.1999, NL 1999, 11; EuGRZ 1999, 5; ÖJZ 1999, 774.
+Bladet Tromso und Stensaas/N v. 20.5.1999 (GK), NL 1999, 96; EuGRZ 1999, 453; ÖJZ 2000, 232.
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 10.3.2009, Bsw. 3002/03 und Bsw. 23676/03, entstammt der Zeitschrift "Newsletter Menschenrechte" (NL 2009, 84) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im englischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/09_2/Times.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

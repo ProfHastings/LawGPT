@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.11.1951
+Geschäftszahl
+2Ob732/51
+Norm
+Kraftfahrgesetz 1947 §1 Abs1;
+Kraftfahrzeugverkehrsgesetz §16;
+Kraftfahrzeugverkehrsgesetz §17;
+Einführungsverordnung zum Kraftfahrzeugverkehrsgesetz ArtIV;
+Kopf
+SZ 24/310
+Spruch
+Der mit einem Kraftfahrzeug verbundene Anhänger bildet mit diesem eine Einheit, auch wenn er einem anderen Halter gehört.
+§ 17 KFG. ist hier nicht anwendbar.
+Entscheidung vom 14. November 1951, 2 Ob 732/51.
+I. Instanz: Bezirksgericht Lienz; II. Instanz: Landesgericht Innsbruck.
+Text
+Die gefährdete Partei hatte eine einstweilige Verfügung zur Sicherung eines Anspruches beantragt, der ihr nach ihrer Behauptung aus dem Gründe zustand, weil durch einen dem Gegner gehörigen Kraftwagenanhänger ein Schaden verursacht worden sei, für den sie allenfalls zu haften hatte. Dieser Anhänger war an einen Lastkraftwagen gehängt worden, der nicht dem Eigentümer des Anhängers gehörte, und hatte durch sein Gewicht eine Brücke zum Einsturz gebracht. Die Haftung des Eigentümers (Halters) des Anhängers war von der gefährdeten Partei lediglich auf die Bestimmungen des Kraftfahrzeuggesetzes gestützt worden.
+Das Erstgericht bewilligte die beantragte einstweilige Verfügung.
+Das Rekursgericht wies in Abänderung dieser Entscheidung den Antrag ab.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der gefährdeten Partei nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs muß zugeben, daß ein Anhänger kein Kraftfahrzeug im Sinne des § 1 Abs. 1 Kraftfahrgesetz 1947, BGBl. Nr. 83 darstellt, weil ein solches mittels geeigneter maschineller Einrichtungen durch Maschinenkraft bewegt wird, während der Anhänger durch die von einem anderen Fahrzeug ausgehende Zugwirkung in Bewegung gesetzt wird. Damit ist allerdings die Rechtsfrage noch nicht gelöst. Denn auch der Anhängewagen bildet, sobald er mit einem Kraftfahrzeug verbunden ist, mit diesem eine Einheit, einen sogenannten Lastkraftzug, und der von einem durch das Kraftfahrzeug gezogenen Anhänger verursachte Unfall ist ein solcher beim Betriebe des Kraftfahrzeuges. Der durch einen von einem Kraftfahrzeug gezogenen Anhänger angerichtete Schaden gilt somit als durch das Kraftfahrzeug selbst verursacht, aber doch nur durch das in concreto die Funktion eines Traktors ausübende Kraftfahrzeug. Verursachen sohin Kraftfahrzeug und Anhänger verschiedener Autohalter zusammen Schaden, so greift die Regel des § 17 KFG. nicht ein. Nimmt man an, daß der Unfall nur dadurch eintrat, daß der mit Sand beladene Lastkraftwagen des Antragstellers mit dem angekoppelten Anhänger des Antragsgegners zusammen zirka 18 t wogen, demnach mehr, als das höchste zulässige Belastungsgewicht für die Brücke betrug, wobei auf den Anteil des Lastkraftwagens zirka 11 t entfielen, so wurde der Schaden im Betrieb des schleppenden Lastkraftwagens, nicht in jenem des Antragsgegners verursacht. Es kann dahingestellt bleiben, ob ein vorübergehend abgehängter Anhänger noch dem Betrieb des zugehörenden Kraftfahrzeuges zuzusprechen ist. Unzweifelhaft ist dagegen, daß ein Anhänger, der einem fremden Lastkraftwagen angekoppelt und von diesem gezogen wird, sich nicht mehr im Betriebe jenes Kraftfahrzeuges befindet, zu dem er bestimmungsgemäß gehört, sondern in dem des schleppenden Autos. Die Rechtslage gleicht durchaus der eines betriebsunfähig gewordenen, im Schlepp eines anderen Kraftfahrzeuges befindlichen Wagens. Er steht nicht "im Betrieb" jener Person, die als Autohalter anzusehen ist, und die Haftung für einen beim Abschleppen entstandenen Unfall trifft darum auch nicht den Halter des geschleppten, sondern jenen des schleppenden Fahrzeuges, u. zw. auch dann, wenn etwa ein Zusammenstoß zwischen einem dritten Fahrzeug und nur dem geschleppten Kraftfahrzeug stattfand.
+Die angefochtene Entscheidung geht dabei mit Recht von der Ansicht aus, daß der vorliegende Unfall sich nicht beim Betriebe des Kraftfahrzeuges des Antragsgegners ereignete, so daß dieser nicht als Autohalter nach den Bestimmungen des Kraftfahrzeugverkehrsgesetzes haftpflichtig gemacht werden kann.
+Daraus ergibt sich aber auch die Unanwendbarkeit der Vorschrift des § 16 KFG. im Zusammenhalt mit Art. IV, Einführungsverordnung vom 23. März 1940, DRGBl. I S. 537. Denn damit der Autohalter über die Grenze des Kraftfahrzeugverkehrsgesetzes hinaus nach den Bestimmungen des bürgerlichen Rechtes oder anderer Bestimmungen für einen Schaden haftbar gemacht werden könne, wird vorausgesetzt, daß der Schade durch das Verschulden einer Person verursacht worden ist, deren sich der Autohalter beim Betriebe seines Kraftfahrzeuges bedient und daß diese Person im Rahmen ihrer Dienstleistung beim Betriebe des Kraftfahrzeuges gehandelt hat.
+Steht aber fest, daß der Unfall nicht beim Betrieb des dem Antragsgegner gehörenden Kraftfahrzeuges sich ereignete, sondern beim Betrieb des der gefährdeten Partei selbst als Autohalter zugehörenden Lastkraftwagens, und daß der Lenker und der Mitfahrer nicht im Rahmen ihrer Dienstleistung beim Betriebe jenes Kraftfahrzeuges, zu dessen Betrieb sie angestellt waren, tätig geworden sind, sondern lediglich dem Lenker des schleppenden Lastkraftwagens bei der Durchführung der von ihm unternommenen Abschleppung des Anhängers über die Brücke behilflich waren (vgl. 1 Ob 235/50), so fehlt es an beiden Voraussetzungen für die Anwendbarkeit der früher angezogenen Vorschriften des Art. IV, Einführungsverordnung und § 16 KFG.
+Es ist daher unrichtig, wenn der Revisionsrekurs meint, daß für den Fall, als die Haftung des Antragsgegners nach dem Kraftfahrzeugverkehrsgesetz nicht gegeben wäre, eine solche nach dem allgemeinen Bürgerlichen Gesetzbuch gegeben ist.

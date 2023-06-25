@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2017
+Geschäftszahl
+2Ob92/17v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé und den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der Klägerin mj P***** S*****, vertreten durch den Vater R***** S*****, dieser vertreten durch Dr. Gerhard Rößler, Rechtsanwalt in Zwettl, gegen die Beklagte N***** GmbH, *****, vertreten durch die Partnerschaft SCHUPPICH SPORN & WINISCHHOFER Rechtsanwälte in Wien, wegen 8.500 EUR sA und Feststellung (Streitwert 16.000 EUR), über die Revision der Klägerin gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. August 2016, GZ 2 R 27/16d-18, womit das Zwischen- und Teilurteil des Landesgerichts Korneuburg vom 15. Dezember 2015, GZ 4 Cg 97/15b-12, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Die damals sechsjährige Klägerin flog im August 2015 gemeinsam mit ihrer Familie mit einem Flug der beklagten Fluglinie und wurde durch einen umkippenden, mit heißem Kaffee gefüllten Becher verbrüht. Sie macht aufgrund dieses Vorfalls Schadenersatzansprüche geltend.
+Rechtliche Beurteilung
+Nach Vorlage der Revision der Klägerin an den Obersten Gerichtshof wurde vom zuständigen deutschen Amtsgericht gemäß §§ 21, 22 dInsO zur Verhinderung nachteiliger Veränderungen in der Vermögenslage der beklagten Partei ein vorläufiger Insolvenzverwalter bestellt. Verfügungen der Schuldnerin über Gegenstände ihres Vermögens sind seither nur noch mit Zustimmung des vorläufigen Insolvenzverwalters wirksam.
+Diese Maßnahmen dienen der Sicherung des schuldnerischen Vermögens in der risikobehafteten Zeit zwischen dem Eingang eines zulässigen Insolvenzantrages beim Insolvenzgericht und dessen Entscheidung über die Eröffnung. Die Anordnung von Sicherungsmaßnahmen sichert den Bestand der Masse vor Schuldner- wie Gläubigerzugriff und ist Teil der staatlichen Garantiefunktion zur Erreichung der Insolvenzzwecke (Haarmeyer, Münchener Kommentar zur Insolvenzordnung3 [2013] § 21 Rn 1). Die Auferlegung des allgemeinen Verfügungsverbotes unter gleichzeitiger Übertragung dieser Befugnisse an den vorläufigen Insolvenzverwalter führt nach § 240 zweiter Satz dZPO in Deutschland zu einer Prozessunterbrechung (Stackmann, Münchener Kommentar zur ZPO5 [2016] § 240 Rn 13).
+Das österreichische Recht kennt in § 73 IO ebenfalls ein der Konkurseröffnung vorgelagertes Sicherungsverfahren mit Verfügungsverboten und -einschränkungen. Dennoch führt hier erst die Eröffnung des Konkurses selbst zur Prozesssperre (§ 6 IO) bzw -unterbrechung (§ 7 IO).
+Gemäß Art 15 EuInsVO gilt für die Wirkungen des Insolvenzverfahrens auf einen anhängigen Rechtsstreit über einen Gegenstand oder ein Recht der Masse ausschließlich das Recht des Mitgliedstaates, in dem der Rechtsstreit anhängig ist (vgl RIS-Justiz RS0119846; 4 Ob 160/15f), hier somit österreichisches Recht. Zu einer kumulierten Anwendung von Konkursstaatsrecht und Prozessstaatsrecht kommt es nicht. Eine Prozessunterbrechung kann daher nach dem Recht des Prozessstaates auch dann erfolgen, wenn die Rechtsordnung des Konkurseröffnungsstaates dies nicht vorsieht und umgekehrt. Sind in den beteiligten Staaten unterschiedliche Rechtsfolgen vorgesehen, sind jene Regeln des innerstaatlichen Insolvenzrechts heranzuziehen, die der Eigenart des Insolvenzeröffnungsverfahrens im Eröffnungsstaat am ehesten gerecht werden. Gleiches muss gelten, wenn im Eröffnungsstaat der eigentlichen Insolvenzeröffnung ein besonderes Sicherungsverfahren vorgelagert ist, das dort zur Prozessunterbrechung führen kann (9 Ob 135/04z AnwBl 2005/8000 [Duursma-Kepplinger] = RIS-Justiz RS0119845).
+Zweck der Prozessunterbrechung ist es in beiden Staaten, auf den Verlust der Verfügungsbefugnis des Insolvenzschuldners zu reagieren und dem bestellten Insolvenzverwalter die nötige Zeit zur Information über die Sachlage und zur Überlegung zu geben (Schubert in Konecny/Schubert, Komm zu den Insolvenzgesetzen § 7 Rz 1; 9 Ob 135/04z mit Verweis auf die deutsche Rechtslage).
+Eine zweckorientierte Anpassung von deutschem materiellen Insolvenzrecht und österreichischem Prozessrecht gebietet auch im vorliegenden Fall die Verfahrensunterbrechung iSd § 7 IO (9 Ob 135/04z).
+Es sind daher die Akten vorerst unerledigt dem Erstgericht zurückzustellen (zuletzt 2 Ob 11/17g; RIS-Justiz RS0036752; RS0037039).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0020OB00092.17V.1219.000

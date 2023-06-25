@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.02.1949
+Geschäftszahl
+1Ob52/49
+Norm
+ABGB §33;
+ZPO ArtXXIX;
+ZPO §57;
+ZPO §60;
+Kopf
+SZ 22/18
+Spruch
+Auch wenn Kläger und Beklagter dem gleichen Staat angehören, kann Bestellung einer aktorischen Kaution verlangt werden. Die Befreiung von der Kautionspflicht setzt materielle Gegenseitigkeit voraus.
+Wenn der Kläger kautionspflichtig ist, so hat er Prozeßkostensicherheit für alle im Inlande auflaufenden Kosten zu leisten, ohne Rücksicht auf den Umfang der Kautionspflicht in seinem Heimatstaat.
+Angehörige des Staates New York sind kautionspflichtig.
+Entscheidung vom 9. Februar 1949, 1 Ob 52/49.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Oberste Gerichtshof stellte den die Kautionspflicht bejahenden Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Begründung:
+Beide Streitteile sind amerikanische Staatsangehörige; Kläger hat seinen Wohnsitz in New York, die Beklagte in Wien. Kläger begehrt von der Beklagten aus dem Titel von Anwaltshonoraren Übertragung eines Fünftel-Anteiles eines Hauses, das der Beklagte im Rückstellungsweg zurückerhalten hat.
+Die Beklagte hat bei der ersten Tagsatzung beantragt, dem Kläger eine aktorische Kaution in der Höhe von 10.000 S aufzuerlegen. Das Erstgericht gab dem Antrag grundsätzlich Folge und trug dem Kläger eine Prozeßkostensicherheit in der Höhe von 5000 S auf. Das Rekursgericht wies den Antrag ab, weil ausländische Staatsbürger nicht berechtigt seien, die Bestellung einer Prozeßkostensicherheit zu verlangen; überdies gebe es in New York nur eine Sicherstellung für die Gerichtskosten und nicht für die Prozeßkosten.
+Dieser Beschluß wird von der Beklagten mit Revisionsrekurs angefochten. Er ist begrundet.
+Nach § 57 ZPO. haben alle Ausländer, das sind Personen, die im Inland nicht das Staatsbürgerrecht genießen (Art. XXIX EGzZPO.), wenn sie vor einem inländischen Gericht als Kläger auftreten, dem Beklagten auf Verlangen für die Prozeßkosten Sicherheit zu leisten. Die Kautionspflicht der Ausländer entfällt nur dann, wenn einer der im Gesetze aufgezählten Ausnahmefälle vorliegt. Der Umstand, daß der Beklagte gleichfalls Ausländer ist, ist unter den Ausnahmefällen nicht enthalten. Der Beklagte hätte das Recht, eine aktorische Kaution zu verlangen, wegen ihrer ausländischen Staatsbürgerschaft nur dann aberkannt werden können, wenn in ihrem Heimatstaat (New York) dort domizilierenden Österreichern in Fällen, in denen amerikanische Beklagte eine Kostensicherheit begehren dürfen, dieses Recht nicht zustände (§ 33 ABGB.). Da dies notorisch nicht der Fall ist, kann auch der Beklagten dieses Recht nicht verwehrt werden.
+Die Verpflichtung des Klägers zum Erlag einer aktorischen Kaution kann auch nicht mit der Begründung verneint werden, daß New York, der Heimatstaat des Klägers, die vor den Gerichten dieses Staates klagenden Österreicher hinsichtlich der Pflicht zur Sicherheitsleistung für die Prozeßkosten nicht anders als die eigenen Staatsbürger behandle, da auch von diesen eine Kaution verlangt wird, wenn sie nicht in New York wohnhaft sind. § 57 ZPO. kann nicht in dem Sinne verstanden werden, daß die Kautionspflicht bereits im Falle der Gewährung der formellen Gegenseitigkeit entfalle, da diese Gesetzesstelle ausdrücklich bestimmt, daß die Befreiung von der Kautionspflicht nur dann statt hat, wenn nach dem Gesetze des Heimatstaates des Klägers österreichische Staatsbürger im gleichen Falle zur Sicherheitsleistung für Prozeßkosten nicht verpflichtet sind. Der Wortlaut des Gesetzes läßt daher keine Zweifel, daß über die formelle Reziprozität hinaus materielle Gegenseitigkeit gefordert wird.
+Der Kläger könnte daher nur dann die Leistung einer Kostensicherheit verweigern, wenn in New York bei Klagen auf Abtretung des Miteigentums eine Kostensicherheit nicht verlangt werden könnte. Das hat aber der Kläger gar nicht behauptet und ist auch nicht der Fall.
+Auch die weiter im angefochtenen Beschluß ausgesprochene Rechtsauffassung, daß der Beklagte keine Kaution verlangen dürfe, weil in New York nur für die Gerichtskosten, nicht aber für die Prozeßkosten Sicherheit zu leisten sei, ist rechtlich verfehlt. Eine Befreiung von der Prozeßkostenersatzpflicht tritt nur ein, wenn im gleichen Fall, das heißt, in einem gleichartigen Prozeß, nach den Gesetzen des ausländischen Staates ein Österreicher nicht kautionspflichtig ist. Auf den Umfang der zu leistenden Kaution kommt es dabei nicht an. § 57 Abs. 2 Z. 2 ZPO. kann nicht dahin ausgelegt werden, daß der Ausländer immer nur gerade in dem Maße sicherungspflichtig wäre, als es der Österreicher im Auslande wäre. Die Zivilprozeßordnung kennt nur eine volle Befreiung von der Kautionspflicht oder eine volle Kautionspflicht und die völlige Befreiung greift nur Platz, wenn auch der ausländische Staat einem Österreicher volle und unbedingte Kautionsfreiheit gewährt. Ob die von den ausländischen Gerichten üblicherweise verlangte Kaution höher oder geringer ist, ob sie nur der Sicherstellung der vom Beklagten vorzustreckenden Gerichtsgebühren, insbesondere bei Sachfälligkeit in den unteren Instanzen, dient oder auch der Sicherstellung der Anwaltskosten, ist bedeutungslos. Sofern nur überhaupt eine Sicherheitsleistung verlangt wird, kann der inländische Beklagte Sicherheit für die Prozeßkosten aller Instanzen begehren.
+Es mußte daher dem Revisionsrekurse Folge gegeben und der erstgerichtliche Beschluß wiederhergestellt werden.

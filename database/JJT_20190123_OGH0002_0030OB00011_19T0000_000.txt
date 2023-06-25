@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2019
+Geschäftszahl
+3Ob11/19t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Pflegschaftssache der 1. mj L*****, geboren *****, 2. mj L*****, geboren *****, beide wohnhaft bei der Mutter Mag. P*****, vertreten durch Mag. Elisabeth Gerhards, Rechtsanwältin in Wien, über den außerordentlichen Revisionsrekurs des Vaters Mag. E*****, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 7. November 2018, GZ 43 R 455/18g-539, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Rechtsmittel wird als verspätet zurückgewiesen.
+Text
+Begründung:
+Die Obsorge über die in den Jahren 2012 und 2014 außerehelich geborenen Kinder steht der Mutter allein zu. In dem äußerst konfliktbeladenen Verfahren sind insbesondere der Umfang eines dem Vater einzuräumenden Kontaktrechts dessen Durchsetzung sowie die Besuchsrechtsmodalitäten strittig.
+Der nunmehr (vgl die Bekanntgabe der Vollmachtsauflösung: ON 531) unvertretene Vater bekämpft mit seinem – im elektronischen Rechtsverkehr von ihm eingebrachten – außerordentlichen Revisionsrekurs die Rekursentscheidung über den Umfang und die Modalitäten des ihm zu seinen Kindern eingeräumten Kontaktrechts.
+Rechtliche Beurteilung
+Das Rechtsmittel ist verspätet.
+Die Frist für einen Revisionsrekurs beträgt 14 Tage; sie beginnt mit der Zustellung der Entscheidung des Rekursgerichts (§ 65 AußStrG).
+Die Zustellung an den Vater erfolgte gemäß § 89a Abs 3 GOG nach den Bestimmungen des 3. Abschnitts des ZustG, wo die sogenannte „elektronische Zustellung“ geregelt ist (§§ 28 ff ZustG).
+Dieser Zustellweg ermöglicht Zustellungen gemäß ZustG an einen der zugelassenen Zustelldienste, der die Weiterleitung an die bei ihm registrierten Benutzer vornimmt (vgl VJ-Info 45/2014 vom 3. Dezember 2014).
+Nach § 35 Abs 1 ZustG hat der Zustelldienst den Empfänger unverzüglich davon zu verständigen, dass ein Dokument für ihn zur Abholung bereitliegt. Diese Verständigung ist an die dem Zustelldienst bekanntgegebene elektronische Adresse (E-Mail-Adresse) des Empfängers zu versenden. Diese Verständigung hat unter anderem die Internetadresse zu enthalten, unter der das zuzustellende Dokument zur Abholung bereitliegt (§ 35 Abs 1 Z 2 ZustG). Wird das Dokument nicht innerhalb von 48 Stunden nach der Verständigung abgeholt, hat eine zweite Verständigung zu erfolgen (§ 35 Abs 2 ZustG). Der Zustelldienst hat das Dokument zwei Wochen zur Abholung bereitzuhalten (§ 35 Abs 4 ZustG). In einem solchen Fall wird den Gerichten als Zustellinformation im VJ-Register der Status „elektronisch hinterlegt“ angezeigt (VJ-Info 45/2014). Die Zustellung derart „hinterlegter“ Dokumente gilt am ersten Tag nach der Versendung der ersten elektronischen Verständigung bewirkt (§ 35 Abs 6 ZustG).
+Dieser Regel ist allerdings die Bestimmung des § 35 Abs 5 ZustG vorgelagert, wonach ein zur Abholung bereitgehaltenes Dokument spätestens mit seiner Abholung als zugestellt gilt, eine elektronische Abholung des Dokuments also jedenfalls die wirksame Zustellung auslöst (Stumvoll in Fasching/Konecny3 § 35 ZustG Rz 18). Aufgrund der vom Zustelldienst übermittelten Daten wird eine solche Zustellung im VJ-Register abseits der elektronischen Hinterlegung mit dem Status „elektronisch zugestellt“ angezeigt (VJ-Info 45/2014).
+Im Anlassfall wurde die Entscheidung vom Erstgericht am 26. November 2018 an den Vater elektronisch abgefertigt und von diesem bereits am gleichen Tag abgeholt. Das wird durch die im Akt ausgewiesene Mitteilung über den elektronischen Zustellzeitpunkt („Zustellzeitpunkt gemäß § 35 ZustG, elektronisch zugestellt: 26. 11. 2018“) klar dokumentiert.
+Demgemäß ist hier für den – an die Wirkung der Zustellung geknüpften – Beginn der Rechtsmittelfrist nicht auf § 35 Abs 6 ZustG, sondern auf § 35 Abs 5 ZustG abzustellen. Dieses Ergebnis entspricht im Übrigen der Rechtslage bei der herkömmlichen (nicht elektronischen) Zustellung, wonach auch ein hinterlegtes Schriftstück jedenfalls schon dann wirksam zugestellt ist, wenn es dem Empfänger vor Beginn der Abholfrist ausgefolgt wird (RIS-Justiz RS0129524).
+Der erst nach Ablauf der 14-tägigen Rechtsmittelfrist am 11. Dezember 2018 eingebrachte Revisionsrekurs ist daher als verspätet zurückzuweisen.
+Auf den – somit irrelevanten – Umstand, dass das Rechtsmittel ohne Anwaltsunterschrift eingebracht wurde, ist  wegen der Verspätung des Rechtsmittels nicht einzugehen (RIS-Justiz RS0005946 [T4, T14]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030OB00011.19T.0123.000

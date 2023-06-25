@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.2022
+Geschäftszahl
+2Ob17/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei E*, vertreten durch Gottgeisl & Leinsmer Rechtsanwälte OG in Wien, gegen die beklagte Partei T*, vertreten durch BRANDL TALOS Rechtsanwälte GmbH in Wien, wegen 68.242,11 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 17. Dezember 2021, GZ 16 R 190/21k-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger erlitt bei von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Online-Pokerspielen zwischen 2009 und 2021 Verluste in Höhe des nunmehr eingeklagten Betrags.
+[2] 		Die Vorinstanzen gaben dem (unter anderem) auf Bereicherungsrecht gestützten Klagebegehren statt. Das österreichische Glücksspielmonopol sei nicht unionsrechtswidrig. Die Durchführung einer Ausspielung ohne Konzession sei damit verbotenes Glücksspiel, was die Möglichkeit zur bereicherungsrechtlichen Rückforderung erlittener Spielverluste eröffne. Die Passivlegitimation der Beklagten als Bereicherungsschuldnerin sei zu bejahen, weil sie die Ausspielung organisiert habe.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revision der Beklagten zeigt das Vorliegen erheblicher Rechtsfragen iSd § 502 Abs 1 ZPO nicht auf:
+[4] 		1. Die Beklagte argumentiert, dass der Oberste Gerichtshof bisher noch nicht zur Frage Stellung genommen habe, welche zivilrechtlichen Folgen die Unanwendbarkeit der Strafnorm des § 168 StGB im Zeitraum bis 31. 12. 2010 habe. Außerdem fehle Rechtsprechung zur Frage, wer bei einem Online-Pokerspiel als Vertragspartner des Spielers bzw Bereicherungsschuldner anzusehen sei.
+[5] 		2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RS0112921; RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels aufgeworfene erhebliche Rechtsfrage fällt weg, wenn sie durch eine Entscheidung des Obersten Gerichtshofs bereits geklärt wurde (RS0112921 [T5]).
+[6] 		3. Der Oberste Gerichtshof hat in einem die selbe Beklagte betreffenden Parallelverfahren nach Erhebung der Revision zu beiden, in der Revision angesprochenen Fragen in der Entscheidung 6 Ob 229/21a vom 2. 2. 2022 ausführlich Stellung genommen und diese im Sinn der Entscheidung der Vorinstanzen wie folgt beantwortet:
+[7] 		3.1. Der Anwendungsvorrang des Unionsrechts betreffend die Rechtslage bis 31. 12. 2010 habe lediglich zu einem Wegfall des in § 14 Abs 2 Z 1 und § 21 Abs 2 Z 1 GSpG (idF vor BGBl I 2010/111) normierten Sitzerfordernisses geführt, die übrigen Voraussetzungen für den Erhalt einer Konzession und das Konzessions- bzw Monopolsystem aber an sich unberührt gelassen. Dass die Beklagte jemals um eine Konzession angesucht habe oder gar die übrigen, für die Erteilung einer Konzession normierten Voraussetzungen erfüllt hätte, behaupte sie nicht, sodass sie sich nicht auf den Effektivitätsgrundsatz berufen könne. Aus diesem Grund bestehe keine Notwendigkeit zur Einholung eines Vorabentscheidungsersuchens (Rz 14 bis 17). Die zivilrechtliche Unerlaubtheit eines Spiels setze im Übrigen nicht zwingend dessen gleichzeitige Strafbarkeit nach § 168 StGB voraus (Rz 22).
+[8] 		3.2. Die Passivlegitimation der Beklagten (und damit deren Eigenschaft als Bereicherungsschuldnerin) ergebe sich schon daraus, dass diese Empfängerin der Leistung des Klägers gewesen sei. Die wiederkehrenden Geldüberweisungen des Klägers auf ein Konto der Beklagten hätten zu deren unmittelbarer Bereicherung geführt. Von einer (Vorab-)Zahlung zur Abwicklung eines allfälligen, im Zeitpunkt der Einzahlung noch gar nicht abgeschlossenen Glücksvertrags mit einem künftigen Mitspieler könne keine Rede sein. Die Rolle der Beklagten gehe insofern über jene einer bloßen „Abwicklungstreuhänderin“ hinaus, als der Nutzer vorweg eine Einzahlung auf ein Konto der Beklagten tätigen müsse, um „Spielguthaben“ zu erwerben und in dessen Umfang an den von der Beklagten angebotenen Online-Glücksspielen teilnehmen zu können. Die Rückforderbarkeit der Spielverluste werde im Hinblick auf die Zielsetzung des GSpG durch die Kenntnis des Leistenden von der Nichtschuld nicht ausgeschlossen (Rz 23 bis 27).
+[9] 		4. Der erkennende Senat schließt sich diesen Ausführungen an (ebenso bereits 4 Ob 229/21m). Zusätzliche, in der Entscheidung 6 Ob 229/21a nicht bereits behandelte Argumente enthält die Revision nicht, sodass sie zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00017.22X.0316.000

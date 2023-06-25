@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.2012
+Geschäftszahl
+8ObA51/12a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Spenling als Vorsitzenden, den Hofrat Hon.-Prof. Dr. Kuras und die Hofrätin Dr. Tarmann-Prentner sowie die fachkundigen Laienrichter Dr. Martina Rosenmayr-Khoshideh und Susanne Jonak als weitere Richter in der Arbeitsrechtssache der klagenden Partei H***** AG, *****, vertreten durch Dr. Robert Kugler, Rechtsanwalt in Klagenfurt, gegen die beklagte Partei F***** B*****, vertreten durch Mag. Klaus Heintzinger, Rechtsanwalt in Wien, wegen 2.959,81 EUR sA, über die Revision der klagenden Partei (Revisionsinteresse 2.759,99 EUR sA) gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 31. Mai 2012, GZ 6 Ra 22/12w-37, mit dem infolge Berufung der klagenden Partei das Urteil des Landesgerichts Klagenfurt als Arbeits- und Sozialgericht vom 23. November 2011, GZ 32 Cga 112/09w-33, bestätigt wurde, in nichtöffentlicher Sitzung
+I. den
+Beschluss
+gefasst:
+Spruch
+Die Revisionsbeantwortung der Beklagten wird als verspätet zurückgewiesen.
+II. zu Recht erkannt:
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei hat die Kosten ihres erfolglosen Rechtsmittels selbst zu tragen.
+Entscheidungsgründe:
+Rechtliche Beurteilung
+Ad I.
+Die Revision wurde dem Beklagtenvertreter am 16. 7. 2012 zugestellt. Da in Arbeitsrechtssachen nach § 39 Abs 4 ASGG, § 222 ZPO über die Hemmung der Notfristen nicht zur Anwendung gelangt, ist die lange nach Ablauf der vierwöchigen Frist zur Beantwortung der Revision am 14. 9. 2012 bei Gericht eingebrachte Revisionsbeantwortung als verspätet zurückzuweisen.
+Ad II.
+Die Beurteilung des Berufungsgerichts, dass ausgehend vom konkret festgestellten Sachverhalt die klagende Partei keinen Anspruch auf Rückersatz der Kosten für die verfahrensgegenständliche Ausbildung des Beklagten hat, ist zutreffend. Es ist insofern ausreichend, wenn der Oberste Gerichtshof auf die Begründung des Berufungsgerichts verweist (§ 510 Abs 3 ZPO).
+Ergänzend ist den Revisionsausführungen Folgendes entgegenzuhalten:
+Der Kläger hat sich in seinem Dienstvertrag verpflichtet, in der vom Dienstgeber vorgeschriebenen Zeit die erforderlichen Ausbildungen zu absolvieren und sich den vorgesehenen Prüfungen zu unterziehen. Weiters wurde vereinbart, dass er - nach Jahren aliquotiert - die Kosten der Ausbildung unter anderem im Fall der hier maßgeblichen Selbstkündigung zu tragen hat.
+Dem Beklagten wurde von seinem Betreuer vorgeschlagen, einen Lotus-Notes-Kurs zu besuchen. Der Beklagte hatte sich zuletzt auf den Aufbau von firmeninternen Computernetzwerken und auf Vernetzungen von Computern spezialisiert. Er hatte dabei auch mit Lotus Notes allerdings mit Vorversionen und nur als Benutzer, gearbeitet. Die hier maßgebliche Schulung war allerdings keine Schulung für Anwender des Systems, sondern für Systemadministratoren. Diese Administratoren haben Zugriff auf das System selbst, was beim Beklagten nicht der Fall war. Auch bei der Klägerin erhielt er keinerlei Administratorenberechtigung, vielmehr wurde die Administration des Systems überhaupt von einer anderen Gesellschaft vorgenommen. Die anderen Kursteilnehmer waren hingegen Administratoren anderer Firmen. Die Fachkenntnisse des Beklagten reichten nicht aus, um dem Kurs überhaupt folgen zu können. Er wartete nur den Tag ab, um aus dem Kurs zu kommen. Die Klägerin überwies für diesen Kurs an die Veranstalter 2.760 EUR. Der Beklagte verdiente bei der Klägerin 2.300 EUR netto 14 x jährlich.
+§ 2d Abs 1 AVRAG sieht für den „Ausbildungskostenrückersatz“ Folgendes vor:
+„Ausbildungskosten sind die vom Arbeitgeber tatsächlich aufgewendeten Kosten für jene erfolgreich absolvierte Ausbildung, die dem Arbeitnehmer Spezialkenntnisse theoretischer und praktischer Art vermittelt, die dieser auch bei anderen Arbeitgebern verwerten kann. …“
+Aufbauend darauf bestimmt Abs 2 des § 2d AVRAG:
+„Eine Rückerstattung ist nur hinsichtlich von Ausbildungskosten nach Abs 1 in einer schriftlichen Vereinbarung zwischen Arbeitgeber und Arbeitnehmer zulässig. …“
+Allein strittig ist hier die Frage, ob es sich beim vom Beklagten besuchten Kurs um eine „erfolgreich absolvierte Ausbildung“ gehandelt hat, die ihm „Spezialkenntnisse theoretischer und praktischer Art“ vermittelte, die er „auch bei einem anderen Arbeitgeber verwenden kann“.
+Binder (AVRAG2, 117) hält es nicht für entscheidend, ob der Erfolg in der Anwesenheit, Mitarbeit oder einer Prüfung besteht, sondern stellt auf den endgültigen positiven „Ausbildungsabschluss“ ab.
+Reissner (ZellKomm2 § 2d AVRAG Rz 9) stellt besonders darauf ab, ob für den jeweiligen Arbeitnehmer überhaupt ein erfolgreicher Abschluss möglich ist, hält aber ebenfalls Prüfungen oder Zeugnisse nicht für entscheidend.
+Oberhofer (Ausbildungskostenersatz und Konkurrenzklausel neu, ZAS 2006/24) hält die konkrete Ausgestaltung der Ausbildung für maßgeblich.
+Eypeltauer (Offene Fragen des Ausbildungskostenrückersatzes - eine Trilogie, ecolex 2007, 196) betont besonders, dass jene Ausbildungen nicht als erfolgreich anzusehen sind, die für den Arbeitnehmer am Arbeitsmarkt nicht verwertbar sind. Nur bei schuldhafter Vereitelung des Erfolgs sei der Ausbildungskostenrückersatz für eine misslungene Ausbildung zu tragen.
+Aus all diesen Lehrmeinungen ist - auch unter Berücksichtigung einer angemessenen Interessenabwägung zwischen den Vorteilen aus der besseren Ausbildung des Arbeitnehmers am Arbeitsmarkt und den Nachteilen aus der Bindungsdauer (vgl etwa früher schon RIS-Justiz RS0016712) - eindeutig abzuleiten, dass eine für den Arbeitnehmer völlig wertlose, weil nicht verständliche Ausbildung nicht als „erfolgreich“ absolvierte Ausbildung iSd § 2d AVRAG qualifiziert werden kann (vgl auch RIS-Justiz RS0125435).
+Die Ausführungen der Klägerin, wonach der Beklagte selbst eingestanden habe, über ein ausreichendes Vorwissen zu verfügen, entfernen sich von den maßgeblichen Feststellungen (RIS-Justiz RS0043312).
+Soweit die Klägerin ausführt, dass es am Beklagten gewesen wäre, gleich zu Beginn des Kurses darauf hinzuweisen, dass er dem Seminar nicht folgen könne, ist ihr entgegenzuhalten, dass sie daraus keine konkreten Ansprüche abgeleitet hat.
+Auf § 20a des hier unstrittig anzuwendenden Kollektivvertrags für Landes-Hypothekenbanken betreffend die Rückzahlung von Ausbildungskosten nimmt die Revision gar nicht mehr Bezug. Im Übrigen bestehen gegen die Überlegungen des Berufungsgerichts, dass es sich hier im Ergebnis ja um keine „Ausbildung“ im Sinne einer Verbesserung der Kenntnisse des Arbeitnehmers gehandelt habe und somit nur die als solche auch nach der früheren Rechtslage unzulässige Beschränkung des Kündigungsrechts des Arbeitnehmers verbleibt, keine Bedenken (RIS-Justiz RS0028893).
+Insgesamt war daher der Revision der Klägerin nicht Folge zu geben.
+Die Kostenentscheidung gründet sich auf die § 2 ASGG, §§ 50 und 40 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2012:008OBA00051.12A.1127.000

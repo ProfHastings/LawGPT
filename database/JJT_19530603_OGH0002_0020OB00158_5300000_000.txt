@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.06.1953
+Geschäftszahl
+2Ob158/53
+Norm
+Allgemeines bürgerliches Gesetzbuch §883;
+Allgemeines bürgerliches Gesetzbuch §916;
+Gesetz über die Gesellschaften mit beschränkter Haftung §76;
+Kopf
+SZ 26/143
+Spruch
+Gültigkeit des Kaufvertrages trotz unrichtiger Angabe des Kaufpreises in dem den Verkauf eines Geschäftsanteiles einer Ges. m. b. H. beurkundenden Notariatsakt.
+Entscheidung vom 3. Juni 1953, 2 Ob 158/53.
+I. Instanz: Landesgericht für Zivilrechtssachen Graz; II. Instanz:
+Oberlandesgericht Graz.
+Text
+Das Erstgericht hat das Klagebegehren, es werde dem Beklagten gegenüber festgestellt, daß der Notariatsakt vom 26. Juni 1950, betreffend die Abtretung eines Geschäftsanteilsteiles im Nennwerte von 2000 S (= 10% des Stammkapitales) der L.-Ges. m. b. H. durch den Beklagten an den Kläger rechtswirksam sei, abgewiesen, unter anderem, weil - wie unbestritten ist - der in dem erwähnten Notariatsakt als Gegenleistung des Klägers beurkundete Kaufpreis von 60.000 S dem zwischen den Parteien vereinbarten Kaufpreis von 80.000 S nicht entsprochen hat.
+Das Berufungsgericht hat das erstgerichtliche Urteil unter Rechtskraftvorbehalt aufgehoben.
+Der Oberste Gerichtshof hat den Beschluß des Berufungsgerichtes bestätigt.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Gedankengang des Rekurses ist, daß das beurkundete Geschäft (der Verkauf des Geschäftsanteiles um 60.000 S) als Scheingeschäft, das verdeckte Geschäft (der Verkauf des Geschäftsanteiles um 80.000 S) aber mangels der in § 76 Abs. 2 GmbHG. vorgeschriebenen Notariatsaktsform ungültig sei. Diesem Gedankengang kann nicht gefolgt werden. Wenn das beurkundete Geschäft im verdeckten Geschäft derart enthalten ist, daß es durch eine Zusatzvereinbarung (Nebenabrede) in das verdeckte Geschäft verwandelt werden kann, nach dem Zweck der für den Hauptvertrag geltenden Formvorschrift diese Nebenabrede auch formlos gültig ist und der beurkundete Vertrag sohin als Teil einer weiterreichenden gültigen Vereinbarung erscheint, kann von einem ungültigen Scheingeschäft nicht gesprochen werden, sondern nur von einem unvollkommen beurkundeten Geschäft und es erschiene unbillig, das beurkundete Geschäft wegen der unrichtigen oder besser unvollständigen Beurkundung eines (wenn auch wesentlichen, so doch den Zweck der Formvorschrift nicht berührenden) Vertragspunktes zu vernichten, wenn die Unrichtigkeit (falsa demonstratio), bzw. Unvollständigkeit, durch eine Zusatzvereinbarung aus der Welt geschafft werden kann, die nach dem Zweck der erwähnten Formvorschrift formlos sein kann (vgl. hiezu Klang - Gschnitzer, Kommentar, 2. Aufl., zu § 883 ABGB., bezüglich formloser Nebenabreden eines Formalgeschäftes in Seite 251 - 254, fernerbezüglich Änderung eines Formalgeschäftes in Seiten 248 f.).
+Auf den vorliegenden Fall angewendet, ergibt sich daraus folgendes:
+Zweck der Formvorschrift des § 76 Abs. 2 GmbHG. ist die Immobilisierung der Geschäftsanteile, die nicht zu einem Gegenstand des Handels, insbesondere des Börsenverkehrs, werden sollen (vgl. auch Pisko, Lehrbuch des Handelsrechtes, 1923, S. 433). Die Erreichung dieses Zweckes wird durch die Angabe eines zu niedrigeren Kaufpreises im Notariatsakt nicht gefährdet, weshalb formlose Nebenabreden oder Zusatzabkommen über die Erhöhung des im Notariatsakt vereinbarten Kaufpreises als gültig angesehen werden müssen. Es kann daher im gegenständlichen Falle von einem ungültigen Scheingeschäft im Sinne der obigen Ausführungen nicht die Rede sein, weil das beurkundete Geschäft im verdeckten Geschäft sozusagen darinnen steckt und durch ein solches formloses Zusatzabkommen in dasselbe jederzeit übergeleitet werden kann. Deshalb hat auch der Oberste Gerichtshof schon in seiner Entscheidung GlU. 8778 ausgesprochen, daß es sich in diesem Falle nicht um ein Scheingeschäft bezüglich des Kaufes selbst handelt, vielmehr die Vereinbarung des höheren Kaufpreises nur als eine gleichzeitig mit der Errichtung der schriftlichen Urkunde getroffene mündliche Nebenabrede anzusehen ist. Daß aber bei Abschluß eines Scheingeschäftes zwecks Gebührenhinterziehung das verdeckte Geschäft nicht ungültig ist, wurde vom Obersten Gerichtshof bereits wiederholt ausgesprochen (so z. B. neuerdings in 1 Ob 483/51). Die Berufung des Rekurses auf die Entscheidung SZ. V/22 greift nicht durch, weil dieser Entscheidung ein anderer Sachverhalt zugrunde liegt und sie (u. a. unter Berufung auf Staub - Hachenburg, Kommentar zum deutschen GmbHG., jetzt Hachenburg, 1926, S. 331) hauptsächlich die Notwendigkeit der Annahme der Abtretung des Geschäftsanteiles durch dessen Erwerber im Notariatsakt als Erfordernis der Gültigkeit der Übertragung, nicht aber die richtige und vollständige Darstellung der dem Übertragungsgeschäft zugrunde liegenden Causa behandelt.

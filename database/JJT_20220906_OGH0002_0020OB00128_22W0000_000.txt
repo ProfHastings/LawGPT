@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.09.2022
+Geschäftszahl
+2Ob128/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger in der Rechtssache der klagenden Parteien 1. G* und 2. S*, vertreten durch Schmidauer-Steindl-Rechtsanwälte GmbH in Grieskirchen, gegen die beklagte Partei E*, vertreten durch Dr. Bernhard Birek, Rechtsanwalt in Schlüßlberg, wegen Abgabe von Willenserklärungen und Duldung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Wels als Berufungsgericht vom 25. Mai 2022, GZ 22 R 120/22m-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Kläger begehren gestützt auf ein Vermächtnis den beklagten, rechtskräftig eingeantworteten Alleinerben schuldig zu erkennen, (1.) in die Teilung eines Grundstücks und die Ab- und Zuschreibung des neu gebildeten Grundstücks einzuwilligen sowie sämtliche Handlungen für die Vermessung zu dulden und weiters (2.) in die grundbücherliche Einverleibung einer Dienstbarkeit zu Gunsten der Kläger und deren Rechtsnachfolgern im Eigentum des neu gebildeten Grundstücks einzuwilligen.
+[2] 		Die Vorinstanzen gaben der Klage statt. Ob das Vermächtnis einer grundverkehrsbehördlichen Genehmigung bedürfe, habe allein die Grundverkehrsbehörde zu beurteilen. Bis zu deren Entscheidung bestehe ein Schwebezustand, während dessen der Beklagte alles zu tun habe, um das Vermächtnis zu erfüllen.
+Rechtliche Beurteilung
+[3] 		Der Beklagte zeigt mit seiner außerordentlichen Revision keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO auf.
+[4] 		1. Bei der grundverkehrsbehördlichen Genehmigung handelt es sich um eine „Rechtsbedingung“, die nicht privatautonom beigefügt, sondern vom Gesetz vorgesehen ist, sodass man sie auch als gesetzliches Tatbestandsmerkmal (Wirksamkeitserfordernis) verstehen kann (RS0034706).
+[5] 		2. Nach ständiger Rechtsprechung stellt die Genehmigung eines Vertrags durch die Grundverkehrsbehörde eine Suspensivbedingung für dessen Wirksamkeit dar (RS0038627). Bis zum Bedingungseintritt befindet sich das Rechtsgeschäft in einem Schwebezustand. Dieser endet nicht nur durch die Genehmigung des Vertrags, sondern auch durch ihre Versagung oder durch die Feststellung, dass der Vertrag keiner Genehmigung bedarf (RS0061101 [T10]).
+[6] 		3. Das Argument des Beklagten, eine aufschiebende unmögliche (RS0012666) bzw eine vom Willen eines Dritten abhängige Bedingung (RS0012711) mache die letztwillige Verfügung ungültig, geht bereits deshalb fehl, weil diese Rechtsprechung letztwillig verfügte Bedingungen betrifft (vgl § 695 ABGB). Überdies ist der Rechtserwerb nicht (von vornherein) rechtlich unmöglich, sondern – auch nach Ansicht der Revision – lediglich genehmigungsbedürftig (vgl aber ohnehin § 1 Abs 2 oöGVG: „zivilrechtliche Rechtserwerbe unter Lebenden“).
+[7] 		4. Dass (noch) keine grundverkehrsbehördliche Entscheidung vorliegt, führt nicht zur Abweisung des Klagebegehrens. Ein nach den Grundverkehrsgesetzen genehmigungspflichtiges Geschäft bindet die Parteien so lange, als nicht von der Grundverkehrsbehörde die Genehmigung versagt wird (RS0061101). Aus der Verpflichtung der Vertragspartner, alles zu unterlassen, was dem Bedingungseintritt entgegenstehen könnte, und darauf hinzuwirken, dass die Bedingung eintritt (RS0017406), resultiert der Anspruch auf Abgabe der erforderlichen Willenserklärungen. Die Genehmigungspflicht steht daher der Klage auf Zuhaltung des Vertrags nicht im Weg (RS0038693; RS0038684). Eine dem Käufer nicht zustehende Erfüllung des durch die grundverkehrsbehördliche Genehmigung bedingten Kaufvertrags tritt durch die Verurteilung des Verkäufers zur Einwilligung in die grundbücherliche Einverleibung des Käufers nicht ein (RS0038684 [T3]).
+[8] 		5. Weshalb diese Grundsätze nicht auch auf Vermächtnisse anzuwenden sein sollen, legt die Revision nicht dar. Auch der Vermächtnisnehmer erhält durch die letztwillige Verfügung einen Titel, der ihm einen schuldrechtlichen Anspruch auf Leistung gewährt. Zum sachenrechtlichen Erwerb bedarf es des Verfügungsgeschäfts (RS0109864). Der Erbe hat dem Legatar, dem ein Teil eines Grundstücks vermacht wurde, deshalb auch die nach § 74 GBG erforderlichen Voraussetzungen (Vermessung des Grundstücks, Teilungsplan usw) für die Einverleibung des Eigentumsrechts des Legatars zu verschaffen (RS0008409). Der den Klägern aufgrund des Legats zustehende, schuldrechtliche Erfüllungsanspruch führt daher dazu, dass auch der Vermächtnisschuldner alles zu unternehmen hat, um den Schwebezustand zu beenden. Dazu zählt auch die Abgabe der erforderlichen Willenserklärungen und die Duldung der Vermessung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00128.22W.0906.000

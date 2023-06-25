@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.1960
+Geschäftszahl
+2Ob21/60
+Norm
+ABGB §1304;
+ABGB §1325;
+Allgemeines Sozialversicherungsgesetz §332;
+Kopf
+SZ 33/18
+Spruch
+Die Lehre vom Deckungsfonds gilt auch bei Anwendung des § 332 ASVG.
+Entscheidung vom 19. Februar 1960, 2 Ob 21/60.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Kläger - ein Landwirt - wurde am 6. Dezember 1957 bei einem Zusammenstoß zwischen dem von ihm gelenkten Motorrad und dem vom Zweitbeklagten gelenkten LKW. verletzt. Der Halter des LKWs ist der Erstbeklagte. Die vom Erstgericht vorgenommene Verschuldensteilung im Verhältnis von 2 : 1 zum Nachteil des Klägers blieb im Rechtsmittelverfahren unbekämpft.
+Von den Schadenersatzansprüchen ist im Rechtsmittelverfahren nur mehr der von der klagenden Partei begehrte Zuspruch einer Rente für die Zeit ab 1. November 1958 strittig.
+Das Erstgericht sprach dem Kläger unter Abweisung seines Mehrbegehrens ab 1. November 1958 bis 31. Dezember 1958 eine monatliche Rente von 95 S zu. Die Abweisung des Mehrbegehrens ist in Rechtskraft erwachsen.
+Das Berufungsgericht änderte das Urteil des Erstgerichtes dahin ab, daß das Rentenbegehren zur Gänze abgewiesen wurde.
+Das Erstgericht ging bei der Berechnung der Rente von folgenden Erwägungen aus:
+Dem Kläger gebührten infolge 50%iger Erwerbsminderung 50% des durchschnittlichen Monatslohnes eines Landarbeiters, der gerichtsbekanntermaßen ca. 970 S betrage, das seien also 485 S.
+Hierauf müsse er sich aber die ihm für diese Zeitspanne zuerkannte Sozialversicherungsrente per 200 S anrechnen lassen, so daß ein monatlicher Betrag von 285 S verbleibe.
+Da der Kläger zu zwei Dritteln selbst den Unfall verschuldet habe, seien zwei Drittel hievon abzuziehen, also 190 S, so daß die Beklagten das restliche Drittel per 95 S monatlich zu leisten hätten.
+Das Berufungsgericht berechnete die Rente im Sinne der Entscheidung SZ. XXVI 87 folgendermaßen:
+Der durchschnittliche Monatslohn eines Landarbeiters betrage 970 S; der Verdienstentgang des Klägers bei 50%iger Minderung der Erwerbsfähigkeit sei 485 S, hievon ab vom Kläger zu verantwortende zwei Drittel, also 323 S 33 g, daher betrage das von den Beklagten zu verantwortende restliche Drittel 161 S 67 g.
+Da der Kläger eine monatliche Rente von 200 S beziehe, verbleibe für ihn kein Ersatzanspruch gegenüber den Beklagten.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In der Revision wird die vom Berufungsgericht im Sinne der Entscheidung SZ. XXVI 87 erfolgte Berechnung bekämpft und darauf hingewiesen, daß diese Entscheidung noch vor dem Inkrafttreten des ASVG. erfolgt ist, jetzt aber nicht mehr gerechtfertigt sei, weil wesentliche Bedenken in der Richtung bestunden, ob der Gesetzgeber die in der angeführten Entscheidung entwickelte Lehre vom Deckungsfonds ins ASVG. übernehmen wollte.
+Die Rechtsrüge schlägt nicht durch; der Revisionswerber muß selbst zugeben, daß der Wortlaut des § 332 ASVG. die vom Obersten Gerichtshofe in ständiger Judikatur (vgl. z. B. 4 Ob 52/58, wo ein nach dem Inkrafttreten des ASVG. erfolgter Unfall zugrunde lag) beibehaltene Lehre von Deckungsfonds im Sinne der Entscheidung SZ. XXVI 87 "zu bestätigen scheint".
+Alles, was der Oberste Gerichtshof zu SZ. XXVI 87 ausgeführt hat, gilt aber auch in bezug auf § 332 ASVG.; auch nach dieser Gesetzesstelle geht der privatrechtliche Schadenersatzanspruch des sozialversicherten Verletzten auf den Versicherungsträger bis zur Höhe der von ihm zu erbringenden Leistungen über. Trifft nun den Verletzten ein Mitverschulden am Schadensereignis, so könnte er vor allem selbst vom Schädiger nur die seinem Mitverschulden entsprechende Quote des Verdienstausfalles verlangen. Den Anfang der logischen Gedankenfolge muß daher stets die Ermittlung des dem Verletzten überhaupt zustehenden privatrechtlichen Anspruches bilden, denn nur er allein unterliegt der Legalzession des § 332 ASVG. bis zur Höhe der vom Sozialversicherungsträger erbrachten Leistungen, potentiell somit, wenn die Leistungen entsprechend hoch sind, zur Gänze. Nur von dem dem Verletzten überhaupt zustehenden Anspruch, der allein der Legalzession unterliegt, können die tatsächlich erbrachten Leistungen des Sozialversicherungsträgers in Abzug gebracht werden, und nur dann, wenn dem Verletzten nach Abzug dieser Leistungen des Sozialversicherungsträgers noch ein Betrag verbleibt, der nicht durch die Legalzession des § 332 ASVG. erfaßt wurde, kann er diesen Betrag gegenüber dem Schädiger selbst geltend machen.
+Der Oberste Gerichtshof sieht sich nicht veranlaßt, von seiner zu SZ. XXVI 87 ausführlich begrundeten Rechtsansicht, die auch der Bestimmung des § 332 ASVG. nach der eigentümlichen Bedeutung der Worte in ihrem Zusammenhang (§ 6 ABGB.) und der daraus hervorgehenden klaren Absicht des Gesetzgebers durchaus entspricht, abzugehen.
+Die vom Berufungsgericht vorgenommene Art der Berechnung ist daher die allein rechtsrichtige; wenn ihr gefolgt wird, stehen aber dem Kläger keine Rentenansprüche mehr zu.

@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.06.2019
+Geschäftszahl
+2Ob239/18p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Allgemeine Unfallversicherungsanstalt, Graz, Göstinger Straße 26, vertreten durch Dr. Peter Schaden und Mag. Werner Thurner, Rechtsanwälte in Graz, gegen die beklagte Partei Ö***** AG, *****, vertreten durch Dr. Uwe Niernberger und Dr. Angelika Kleewein, Rechtsanwälte in Graz, wegen zuletzt 34.693,26 EUR sA und Feststellung (Streitwert 10.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 6. November 2018, GZ 3 R 115/18h-54, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Umfang des Forderungsübergangs nach § 332 ASVG und damit der Regressanspruch des Sozialversicherungsträgers ist in zweifacher Hinsicht begrenzt, einerseits mit der Höhe des bestehenden Schadenersatzanspruchs des Geschädigten (Deckungsfonds) und andererseits mit dem Anspruch des Geschädigten auf Leistungen gegenüber dem Sozialversicherungsträger (RS0030708 [T5]; RS0040991 [T2]).
+2. Die Dauer der Ansprüche nach § 1327 ABGB hängt in erster Linie nicht von der Lebensdauer des Anspruchsberechtigten, sondern von der (fiktiven) Dauer der Unterhaltspflicht des Getöteten ab. Daher enden grundsätzlich Schadenersatzansprüche der Witwe gegen den Schädiger gemäß § 1327 ABGB spätestens zu jenem Zeitpunkt, in dem der Getötete auch ohne das schädigende Ereignis verstorben wäre (2 Ob 32/88; RS0031580).
+3. Allerdings ist als Entgang iSd § 1327 ABGB alles anzusehen, was die Hinterbliebenen erhielten, wenn der nach dem Gesetz Unterhaltspflichtige nicht getötet worden wäre. Auch die höhere Witwenpension, die eine Witwe erhalten hätte, wenn ihr Mann länger gelebt und daher auch länger Versicherungsbeiträge bezahlt hätte, ist als Entgang zu werten (RS0031573; auch RS0031291). Ab dem Zeitpunkt des fiktiven Todestags des versicherten Unterhaltspflichtigen kann daher weiterhin ein Anspruch gegen den Schädiger nach § 1327 ABGB in Höhe der Differenz zwischen dieser (höheren) fiktiven Witwenpension und jener Witwenpension, die die Witwe nach diesem Zeitpunkt tatsächlich erhält, bestehen („Pensionsschaden“; 2 Ob 113/62 ZVR 1962/257; RS0031583). Dieser bildet dann den Deckungsfonds für kongruente Leistungen eines Sozialversicherungsträgers iSd § 332 ASVG (vgl 2 Ob 80/73; 2 Ob 158/67; 2 Ob 322/66 ZVR 1967/169). Zwischen einem solchen Pensionsschaden und der Hinterbliebenenrente aus der Unfallversicherung besteht  Kongruenz, weil diese (auch) Ersatz für die der Witwe entgangene Pension aus der Pensionsversicherung ist (2 Ob 158/67; RS0031726).
+4. Die Vorinstanzen haben den Regressanspruch der klagenden Partei für die an die Witwe des getöteten Versicherten weiterhin geleistete Hinterbliebenenrente ab dem Zeitpunkt seines fiktiven Todestags mit dem der Witwe entstandenen Pensionsschaden als zur Verfügung stehendem Deckungsfonds begrenzt. Diese Beurteilung ist von der dargelegten Rechtsprechung des Obersten Gerichtshofs gedeckt.
+5. Die außerordentliche Revision ist somit mangels erheblicher Rechtsfrage iSd § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0020OB00239.18P.0625.000

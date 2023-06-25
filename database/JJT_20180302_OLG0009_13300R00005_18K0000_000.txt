@@ -1,0 +1,44 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+02.03.2018
+Geschäftszahl
+133R5/18k
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie den Richter Dr. Terlitza und den fachkundigen Laienrichter Patentanwalt DI Barger in der Patentrechtssache der gefährdeten Partei *****, vertreten durch Schwarz Schönherr Rechtsanwälte KG in Wien, wider die Gegnerin der gefährdeten Partei *****, vertreten durch WERDNIK KUSTERNIGG Rechtsanwälte GmbH in Klagenfurt, wegen Erlassung einer einstweiligen Verfügung zur Beweissicherung (Interesse: EUR 35.000,--), hier wegen Akteneinsicht, über den Rekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Handelsgerichts Wien vom 14.12.2017, 19 Cg 17/16w-75, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Die Gegnerin der gefährdeten Partei hat ihre Rekurskosten endgültig selbst zu tragen.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000,--.
+Begründung
+Text
+Die Gefährdete ist Inhaberin des Patents [...] (in der Folge kurz: Streitpatent). Die Gegnerin der Gefährdeten (in der Folge kurz: Gegnerin) wiederum entwickelt, produziert und vertreibt [...]. Diese Produkte stellt sie in Österreich her, bietet sie dort an und vertreibt sie dort.
+Mit ihrem Antrag auf Erlassung einer einstweiligen Verfügung zur Beweissicherung behauptet die Gefährdete auf das Wesentliche zusammengefasst, die Gegnerin stelle in Österreich [...] unter Ausnutzung des Streitpatents her und vertreibe diese unter der Bezeichnung [...].
+Das Erstgericht erließ daraufhin ohne Anhörung der Gefährdeten die beantragte einstweilige Verfügung (ON 2); sie wurde in weiterer Folge am 1.6.2016 vollzogen (ON 10).
+Mit dem dagegen gemeinsam mit dem Widerspruch erhobenen Rekurs verband die Gegnerin den hier zu behandelnden Antrag auf Einschränkung der Akteneinsicht (ON 14) in Bezug auf den Bericht der Sachverständigen vom 7.6.2016 (ON 11) samt allen Beilagen mit dem wesentlichen Argument, der Bericht der Sachverständigen enthalte Rezepturgeheimnisse, nämlich interne Bezeichnungen aus der Rohstoff- sowie aus der Rezeptur- und Rückstellmusterdatenbank, die der Gefährdeten einsehbar würden.
+Mit dem hier ua relevanten Beschluss vom 20.7.2016 (ON 20) gab das Erstgericht unter anderem dem Antrag auf Akteneinsicht im Umfang von „Punkt 2.1 des Berichts ON 12 sowie der Anhänge 1, 2 und 5“ statt. Den darüber hinausgehenden Antrag wies es ab.
+Gegen den abweisenden Teil dieses Beschlusses, mit dem der Gefährdeten Akteneinsicht gewährt wird, erhob die Gegnerin Rekurs.
+Im ersten Rechtsgang wies das Rekursgericht diesen Rekurs (als unzulässig) zurück.
+Dem dagegen erhobenen Revisionsrekurs gab der Oberste Gerichtshof Folge und trug dem Rekursgericht auf, über den Rekurs unter Abstandnahme vom gebrauchten Zurückweisungsgrund zu entscheiden (ON 51).
+Im zweiten Rechtsgang gab das Rekursgericht dem Rekurs mit Beschluss vom 17.11.2017, 34 R 84/16x, nicht Folge. Das Erstgericht habe eine umfassende und zutreffende Interessenabwägung vorgenommen. Der Revisionsrekurs sei nach § 78 EO iVm § 528 Abs 2 Z 2 ZPO unzulässig.
+Wie sich aus der Verfahrensautomation Justiz (obschon nicht aus dem vom Erstgericht vorgelegten Teil- und Kopienakt) ergibt, erhob die Gegnerin gegen diese Entscheidung den außerordentlichen Revisionsrekurs vom 11.12.2017, mit dem es den an das Erstgericht gerichteten Antrag verband, diesem Rechtsmittel nach § 524 Abs 2 ZPO aufschiebende Wirkung zuzuerkennen.
+Mit dem hier angefochtenen Beschluss wies das Erstgericht diesen Antrag zurück. Auch durch einen außerordentlichen Revisionsrekurs werde die Vollstreckbarkeit nicht auf Grund eines Antrags nach § 524 Abs 2 ZPO gehemmt. Selbst wenn man die Möglichkeit der Antragstellung einer aufschiebenden Wirkung bei Akteneinsicht bejahen würde, wäre der Antrag abzuweisen, da der Revisionsrekurs gemäß §§ 402 Abs 4, 78 EO, 528 Abs 2 ZPO jedenfalls unzulässig sei. Die Entscheidung über die Akteneinsicht sei keine Sachentscheidung.
+Das Erstgericht beteiligte die Gefährdete - erkennbar ausgehend von der von ihm angenommenen Unzulässigkeit des Rechtsmittels - nicht am Rekursverfahren.
+Den „außerordentlichen“ Revisionsrekurs vom 11.12.2017 wies der Oberste Gerichtshof mit Beschluss vom 23.1.2018, 4 Ob 242/17t, zurück.
+Rechtliche Beurteilung
+Der Rekurs ist nicht zulässig.
+1. Das Rekursgericht hat in dem die Frage der Akteneinsicht betreffenden zweiten Rechtsgang Folgendes ausgeführt (Beschluss vom 17.11.2017, 34 R 84/16x):
+„4. Die Unzulässigkeit des Revisionsrekurses ergibt sich aus § 78 EO iVm § 528 Abs 2 Z 2 ZPO: Für die hier relevante Frage der Akteneinsicht und für den damit im Zusammenhang stehenden Rekurs gilt die Ausnahmebestimmung des § 402 Abs 1 EO nicht. Dieser Frage kommt auch keine ‚richtungweisende Bedeutung für das Hauptverfahren‘ zu, sodass auch keine planwidrige Lücke durch Analogieschluss zu füllen ist ([…]).“
+Diese Rechtsansicht hat der Oberste Gerichtshof in seinem Beschluss vom 23.1.2018, 4 Ob 242/17t, im Grundsatz bestätigt. Folgerichtig hatte das Erstgericht diesen Antrag auch nicht ab-, sondern zurückgewiesen.
+2. Aber selbst unter der hypothetischen Annahme, dass der außerordentlichen Revisionsrekurs vom 11.12.2017 doch zulässig gewesen wäre, wäre der hier relevante Antrag und damit auch der Rekurs mittlerweile unzulässig:
+2.1. § 524 Abs 2 ZPO ist über den Verweis des § 78 Abs 1 EO auch im Sicherungsverfahren anwendbar. Nach herrschender Ansicht besteht gemäß § 524 ZPO iVm § 78 Abs 1 und § 402 Abs 4 EO auch im Sicherungsverfahren die Möglichkeit, dem Rekurs aufschiebende Wirkung zuzuerkennen (Kodek in Rechberger, ZPO4 § 524 Rz 3 mwN, König, Einstweilige Verfügungen5 Rz 6.84). Die Möglichkeit, im Verfügungsverfahren den Vollzug durch richterlichen Beschluss aufzuschieben, ergibt sich zudem bereits aus § 396 EO, nämlich aus den Worten „wegen eines angebrachten Rekurses aufgeschoben wurde“ (Rassi in Burgstaller/Deixler-Hübner, EO § 67 Rz 7).
+2.2. Soweit es in Verfahrensordnungen an Sonderbestimmungen mangelt, gelten für den Revisionsrekurs die allgemeinen Vorschriften über das Rekursverfahren (Zechner in Fasching/Konecny² § 528 ZPO Rz 3). Für den ordentlichen Revisionsrekurs fehlt es an einer § 524 Abs 1 oder 2 ZPO entsprechenden Bestimmung. § 524 Abs 1 und 2 ZPO gelten damit (analog) auch für den ordentlichen Revisionsrekurs.
+2.3. Anderes gilt nach dem OGH nur für den Fall eines außerordentlichen Revisionsrekurses (zu diesem RIS-Justiz RS0110495): Aus der Verweisung auf die Bestimmungen über die außerordentliche Revision in § 528 Abs 3 ZPO ergibt sich, dass die Vollstreckbarkeit nicht auf Grund eines Antrags nach § 524 Abs 2 ZPO einstweilen gehemmt (aufgeschoben) werden kann, sondern sofort eintritt, und – wie im Fall der außerordentlichen Revision – erst die Exekution aufgrund eines berechtigten Antrags analog §§ 42 Abs 1 Z 2a, 44 Abs 3 EO aufgeschoben werden kann (4 Ob 140/98m unter Verweis auf Fasching, Lehrbuch² Rz 2028; 4 Ob 178/98z; OLG Wien MR 1997, 265; aA Zechner in Fasching/Konecny2 § 524 ZPO Rz 15, und ihm zustimmend Kodek in Rechberger, ZPO4 § 524 Rz 3).
+2.4. Über solche Rechtsmittel ist aber nur dann meritorisch zu entscheiden, wenn der (Revisions-)Rekurs, auf den sich der in der Hemmungsfrage erlassene Beschluss bezieht, aus irgendeinem Grund – etwa wegen des Erfordernisses einer Zwischenerledigung – noch nicht spruchreif oder bereits in der Sache entschieden ist. Andernfalls fällt durch die Erledigung des ersten (Revisions-)Rekurses das Interesse des Rechtsmittelwerbers an der Bewilligung der einstweiligen Hemmung – also die Beschwer – weg (Kodek in Rechberger, ZPO4 § 524 Rz 4; Zechner in Fasching/Konecny² § 524 Rz 17; 8 Ob 44/02g; vgl RIS-Justiz RS0004527; RS0043849).
+Dies ist hier infolge der Zurückweisung des Revisionsrekurses durch den Obersten Gerichtshof, auf den sich der hier gegenständliche Hemmungsantrag bezieht, mit Beschluss vom 23.1.2018, 4 Ob 242/17t, der Fall.
+3. Die Kostenentscheidung stützt sich auf §§ 40, 50 ZPO iVm § 78 EO.
+4. Der Ausspruch über den Wert des Entscheidungsgegenstands beruht auf § 500 Abs 2 Z 1 lit b ZPO (iVm § 526 Abs 3 ZPO iVm §§ 78, 402 Abs 4 EO) und folgt der von der Gefährdeten vorgenommenen, unbedenklichen Bezifferung.
+European Case Law Identifier
+ECLI:AT:OLG0009:2018:13300R00005.18K.0302.000

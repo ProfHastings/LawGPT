@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2018
+Geschäftszahl
+6Ob170/18w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei A* AG, *, vertreten durch Mag. Franz Podovsovnik, Rechtsanwalt in Wien, gegen die beklagte Partei A*, vertreten durch Mag. Michael Braun, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 20. Juni 2018, GZ 40 R 335/17m-48, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Kündigungsgrund des erheblich nachteiligen Gebrauchs (§ 30 Abs 2 Z 3 erster Fall MRG) setzt kein Verschulden des Mieters voraus, wohl aber das Bewusstsein der Vertragswidrigkeit, wie es von einem vertrauenswürdigen Durchschnittsmieter erwartet werden kann (RIS-Justiz RS0070433 [T4]). Die Schädlichkeit seines Verhaltens muss dem Mieter nicht subjektiv erkennbar sein; es wird nur die nach einem generellen Maßstab von einem durchschnittlichen Mieter zu erwartende Erkennbarkeit gefordert (RIS-Justiz RS0020981 [T18]; RS0067957 [T5]). Für die Verwirklichung des Kündigungsgrundes ist es zudem erforderlich, dass der Mieter den Gebrauch trotz Erkennbarkeit der Schädlichkeit seines Verhaltens fortsetzt (RIS-Justiz RS0067957 [T7]).
+Bei der Beurteilung, ob ein erheblich nachteiliger Gebrauch der Bestandsache vorliegt, ist von den Umständen des Einzelfalls, aber in ihrer Gesamtheit auszugehen (RIS-Justiz RS0102020 [T3, T10]; RS0021018; RS0068103; RS0113693).
+Im vorliegenden Fall fehlte an den Wänden und im Bodenbereich um die Dusche eine Feuchtigkeitsisolierung, sodass das durch zwei undichte Silikonfugen eingedrungene Duschwasser in die Fußbodenkonstruktion gelangte. Nach einem Wasserschaden im Februar 2014 wurden die Silikonfugen erneuert. Aufgrund der Wassereintritte in der Vergangenheit war aber die Holzunterkonstruktion des Bodens so durchnässt, dass sich der Fußboden absenkte, sodass die Silikonfugen rissen und wieder undicht wurden. Dadurch kam es im November 2014 neuerlich zu einem Wasserschaden.
+Das Berufungsgericht verneinte die Erkennbarkeit des erheblich nachteiligen Gebrauchs, weil ein Mieter nicht davon ausgehen müsse, dass ein angemietetes Bad mangelhaft errichtet sei und die fehlende Wartung von Silikonfugen derart gravierende Folgen zeitige; außerdem habe der Beklagte ohne konkrete Anhaltspunkte nicht damit rechnen müssen, dass die Silikonfugen bis November 2014 neuerlich undicht würden.
+Darin kann keine aufzugreifende Fehlbeurteilung erblickt werden. Soweit die Revisionswerberin darauf abstellt, dass dem Beklagten aufgrund des Absinkens der Duschtasse der erheblich nachteilige Gebrauch hätte bewusst sein müssen, lässt sie außer Acht, dass der Zeitpunkt des Absinkens nicht festgestellt werden konnte. Diese Negativfeststellung geht zu Lasten der Revisionswerberin, die nach allgemeinen Regeln (vgl RIS-Justiz RS0037797) mit dem Beweis für jene Umstände belastet ist, aus denen ein durchschnittlicher Mieter die Nachteiligkeit seines Gebrauchs hätte erkennen können. Hier steht nicht fest, dass der Beklagte sein Verhalten – die Weiterbenützung der Dusche – nach Erkennbarkeit der Schädlichkeit noch fortgesetzt hätte.
+Wenn das Berufungsgericht angesichts dieser Umstände die Verwirklichung des Kündigungsgrundes des § 30 Abs 2 Z 3 erster Fall MRG verneinte, liegt darin keine aufzugreifende Fehlbeurteilung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E123368

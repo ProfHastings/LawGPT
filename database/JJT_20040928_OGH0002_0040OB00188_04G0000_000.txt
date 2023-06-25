@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2004
+Geschäftszahl
+4Ob188/04g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Kodek als Vorsitzenden und durch die Hofrätinnen des Obersten Gerichtshofs Hon. Prof. Dr. Griß und Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel und Dr. Jensik als weitere Richter in der Rechtssache der klagenden Partei Rosa O*****, vertreten durch Dr. Peter Burgstaller und andere Rechtsanwälte in Linz, gegen die beklagte Partei Robert H*****, vertreten durch Gabl Kogler Papesch Leitner Rechtsanwälte OEG in Linz, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Provisorialverfahren 35.340 EUR), infolge Revisionsrekurses der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 27. April 2004, GZ 4 R 68/04f27, womit der Beschluss des Landesgerichts St. Pölten vom 13. Februar 2004, GZ 1 Cg 178/02h23, teilweise bestätigt und teilweise abgeändert wurde, in nichtöffentlicher Sitzung folgenden
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.754,82 EUR (darin 292,47 EUR USt) bestimmten Kosten der Revisionsrekursbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Rechtliche Beurteilung
+Entgegen dem  den Obersten Gerichtshof nicht bindenden (§ 526 Abs 2 ZPO)  Ausspruch des Rekursgerichts hängt die Entscheidung nicht von der Lösung einer erheblichen Rechtsfrage iSd § 528 Abs 1 ZPO ab:
+Nach ständiger Rechtsprechung besteht keine allgemeine Verpflichtung zur Vollständigkeit von Werbeaussagen, weil der Werbende grundsätzlich nicht auf die Nachteile seiner eigenen Produkte hinweisen muss. Eine Aufklärungspflicht kann sich aber aus der Bedeutung ergeben, die der verschwiegenen Tatsache nach der Auffassung des Verkehrs zukommt, so dass ihre Nichterwähnung geeignet ist, das Publikum in für den Kaufentschluss erheblicher Weise irrezuführen. Das trifft insbesondere dann zu, wenn durch das Verschweigen wesentlicher Umstände ein falscher Gesamteindruck hervorgerufen wird (ÖBl 1998, 289  HExpress; wbl 2003/232  Energiekostenvergleich; 4 Ob 139/04a uva).
+Nach dem bescheinigten Sachverhalt hat der Beklagte die in Frage stehende Website in Erfüllung seines Auftrags auf Neugestaltung (Redesign) dahin verändert, dass er sowohl die Startseite des InternetAuftritts als auch die Startseiten der einzelnen aufrufbaren Rubriken unter Verwendung von "Flashanimation" (bewegte Bilder) umgestaltete. An vom Rechtsvorgänger der Klägerin gestalteten Elementen der Website verblieben nach der Neugestaltung im Wesentlichen verschiedene Texte und Fotos in Form von HTMLDateien, die  nach Aufruf über das vom Beklagten erstellte Navigationsmenü  als popupFenster aufgerufen werden können.
+Das Rekursgericht ist davon ausgegangen, dass die optische Gestaltung eines InternetAuftritts entscheidend durch die eingesetzte Animation geprägt werde; stammten sowohl die "flashanimierte" Startseite der Website als auch die "flashanimierten" Startseiten der einzelnen Unterrubriken vom Beklagten, habe dieser die äußere Erscheinung der Website derart maßgeblich beeinflusst, dass seine Bezeichnung als deren "Webdesigner" auch dann nicht irreführend sei, wenn die Person nicht genannt werde, von der die dahinter liegenden Inhaltsseiten angelegt wurden.
+Diese Beurteilung hält sich im Rahmen der eingangs wiedergegebenen höchstgerichtlichen Rechtsprechung zu § 2 UWG und bedarf keiner Korrektur durch gegenteilige Sachentscheidung. Sind  wie hier  zwei Personen für das optische Erscheinungsbild eines InternetAuftritts mitursächlich, wird immer nur im Einzelfall beantwortet werden können, wie bedeutend der Beitrag jedes von ihnen zum Gesamteindruck war, und ob die Leistungen des einen angesichts der Dominanz des Beitrags des anderen so weit in den Hintergrund treten, dass durch die alleinige Bezeichnung des letzteren als "Webdesigner" keine unrichtigen Vorstellungen hervorgerufen werden.
+Die Frage, wie die angesprochenen Verkehrskreise eine Werbeaussage verstehen und ob sie demnach zur Irreführung geeignet ist, hat im Übrigen keine über den Einzelfall hinausgehende Bedeutung und ist daher nicht erheblich im Sinn des § 502 Abs 1 ZPO (MR 1995, 233  Inseratenpreisliste; MR 2000, 321  HalbjahresAbonnement; ÖBlLS 2001/122  Wiener Werkstätten; 4 Ob 27/03d uva).
+Der Revisionsrekurs war daher wegen Fehlens einer erheblichen Rechtsfrage im Sinne des § 528 Abs 1 ZPO als unzulässig zurückzuweisen.
+Die Entscheidung über die Kosten der Klägerin beruht auf § 393 Abs 1 EO, jene über die Kosten des Beklagten auf §§ 78, 402 Abs 4 EO iVm §§ 41, 50 Abs 1 ZPO. Da der Beklagte in seiner Revisionsrekursbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, diente sein Schriftsatz der zweckentsprechenden Rechtsverteidigung.

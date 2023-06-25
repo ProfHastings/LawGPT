@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.1971
+Geschäftszahl
+7Ob164/71
+Norm
+ABGB §1425;
+Kopf
+SZ 44/149
+Spruch
+Der Erlagsgegner als Gläubiger kann den Rechtsgrund eines Erlages nach § 1425 ABGB nicht einseitig verändern
+OGH 29. 9. 1971, 7 Ob 164/71 (LGZ Wien 44 R 317/71; BG Innere Stadt Wien 12 Nc 58/71)
+Text
+Mit der Behauptung, daß der Erlagsgegner rechtswirksam aus der erlegenden Kommanditgesellschaft ausgeschlossen worden sei, ihm deshalb ein Ausscheidungsguthaben von S 10.476.174.63 zustehe, er jedoch die Annahme dieses Betrages verweigere, erlegte die "W & Co KG" den angeführten Betrag gemäß § 1425 ABGB zugunsten des Erlagsgegners bei Gericht. Mit rechtskräftigem Beschluß des Erstgerichtes vom 18. 5. 1971 wurde dieser "als Ausscheidungsguthaben des Erlagsgegners aus der KG W & Co" erlegte Betrag zu Gericht angenommen und ausgesprochen, daß dessen Ausfolgung nur auf Grund eines schriftlichen Antrages des Erlagsgegners oder einer rechtskräftigen gerichtlichen Entscheidung vorgenommen werde.
+Mit dem am 5. 7. 1971 beim Erstgericht eingelangten schriftlichen Antrag begehrte der Erlagsgegner die Überweisung des für ihn erlegten Betrages auf das von ihm angegebene Konto eines Kreditinstitutes.
+Das Erstgericht gab diesem Antrag statt.
+Das Rekursgericht gab dem Rekurs der Erlegerin nur insoweit Folge, als es die Überweisung des erlegten Betrages erst nach Rechtskraft des Überweisungsbeschlusses anordnete.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Erlegerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zunächst war festzuhalten, daß der Beschluß des Erstgerichtes durch die Entscheidung des Rekursgerichtes, wenn auch unter Aufrechterhaltung des wesentlichsten Teiles, inhaltlich geändert, also nicht zur Gänze bestätigt wurde. Da nach der ständigen Rechtsprechung des Obersten Gerichtshofes, von der abzugehen kein Anlaß besteht, die Grundsätze des Jud 56 auch für die Beurteilung der Frage gelten, ob eine bestätigende Entscheidung iS des § 16 AußStrG vorliegt (ebenso EvBl 1971/74 uva), ist der gegenständliche Revisionsrekurs nach der Bestimmung des § 14 Abs 1 AußStrG zu beurteilen.
+Zu Unrecht bezeichnet der Revisionsrekurs die Erklärung des Rekursgerichtes, daß der angefochtene Annahmebeschluß keine Ausfolgungsbedingung enthalte, mit der Begründung als aktenwidrig, die im Annahmebeschluß enthaltene Feststellung, daß der Betrag als Ausscheidungsguthaben des Erlagsgegners erlegt wurde, sei "rechtlich" als Bedingung anzusehen. Schon aus letzterer Formulierung ergibt sich ebenso wie aus der Erläuterung des Rekursgerichtes, daß im Annahmebeschluß lediglich das "Motiv" der Erlegerin für den Erlag wiedergegeben sei, daß insoweit keine Aktenwidrigkeit vorliegt, sondern vielmehr die Wiedergabe des Erlagsgrundes im Annahmebeschluß von der Rechtsmittelwerberin rechtlich anders beurteilt wird als vom Rekursgericht.
+In dieser somit die rechtliche Beurteilung betreffenden Frage ist weder der Auffassung der Rechtsmittelwerberin noch jener des Rekursgerichtes beizutreten.
+Die wiedergegebene Erklärung des Erstgerichtes, den "als Ausscheidungsguthaben ..." erlegten Betrag anzunehmen, enthält keine Ausfolgungsbedingung, die Rechtsmittelausführungen zur Frage der Erfüllung einer etwa gesetzten Ausfolgungsbedingung gehen daher hier ins Leere. Andererseits ist die angeführte Erklärung nicht bloß als Motiv für den Erlag, sondern als Angabe des Rechtsgrundes und damit als Spezifizierung jener - ohne Rechtswirksamkeit des Ausscheidens des Erlagsgegners aus der Kommanditgesellschaft gar nicht existierenden - Schuld anzusehen, welche die Erlegerin durch den Gerichtserlag tilgen wollte. Als Korrelat dazu steht dem Erlagsgegner ein Ausfolgungsanspruch nur zu, wenn er den somit eine bestimmte Schuld betreffenden Erlagsbetrag als Zahlung (allenfalls als Teilzahlung, vgl § 1415 ABGB) anzunehmen bereit ist. Der Erlagsgegner als Gläubiger kann also den Rechtsgrund des Erlages nicht einseitig verändern (so wurde beispielsweise in der Entscheidung JBl 1959, 186 die Ausfolgung eines als Mietzins erlegten Betrages bloß als Benützungsentgelt zutreffend als unzulässig angesehen).
+Im vorliegenden Fall beantragt der Erlagsgegner ohne jede Erklärung zum Rechtsgrund des Erlages die Ausfolgung des zu seinen Gunsten aus dem Rechtstitel eines Ausscheidungsguthabens erlegten Betrages. Die vom Erstgericht vorgenommene Anordnung der Überweisung auf das von ihm bezeichnete Konto geschah deshalb ohne Veränderung des im Annahmebeschluß festgehaltenen Rechtsgrundes; als solche bedurfte sie nicht der Zustimmung der Erlegerin, weil jeder Schuldner, der infolge Annahmeverweigerung des Gläubigers zwecks Tilgung seiner Schuld einen Betrag bei Gericht erlegt, schon dadurch implicite sein Einverständnis zur Ausfolgung des erlegten Betrages an den sodann annehmenden Gläubiger erklärt.
+Die dargestellte, durch den keine weitere Erklärung enthaltenden Ausfolgungsantrag geschaffene Rechtslage kann durch eine nicht dem Gericht gegenüber abgegebene abweichende Erklärung - hier das im Rekurs vorgelegte Schreiben des Vertreters des Erlagsgegners an den Vertreter des Erlegers vom 2. 7. 1971 - keine Veränderung erfahren, insbesondere kann der Erlagsgegner die zufolge § 1425 2. Satz ABGB etwa eingetretene Schuldtilgungswirkung nicht einfach dadurch beseitigen, daß er sich den bei Gericht erlegten Betrag in der dem Gericht gegenüber nicht erklärten Absicht ausfolgen läßt, ihn anschließend wiederum den Erleger aufzudrängen.
+Soweit der Revisionsrekurs in diesem Zusammenhang bloß die Begründung der rekursgerichtlichen Entscheidung bekämpft, ist er überhaupt unzulässig (vgl SZ 21/2 ua). Außerdem ist in diesem Verfahren nicht zu erörtern, welche Rechtswirkungen der vom Erlagsgegner gestellte Ausfolgungsantrag in einem anderen Rechtsstreit nach sich zieht.
+Dem Revisionsrekurs war daher nicht Folge zu geben.

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.04.2014
+Geschäftszahl
+3Ob50/14w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik, Dr. Musger und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei F*****, Deutschland, vertreten durch Dr. Erich Greger & Dr. Günther Auer, Rechtsanwälte in Oberndorf, gegen die beklagte Partei H*****, vertreten durch Haslauer, Eberl, Hubner, Krivanec & Partner, Rechtsanwälte in Salzburg, wegen Aufhebung eines Kaufvertrags (Streitwert 280.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz vom 6. Februar 2014, GZ 3 R 5/14x-25, womit über Berufung der klagenden Partei das Urteil des Landesgerichts Salzburg vom 30. Oktober 2013, GZ 10 Cg 46/11i-21, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger, der zum Zeitpunkt des Vertragsabschlusses den Wert seines Liegenschaftsanteils mit etwa 1.000.000 EUR bezifferte und diesen Wert auch dem beklagten Käufer bekannt gab, verkaufte seinen Anteil um 280.000 EUR. Er ließ sich auf das Verlustgeschäft ein, ohne Absicht, dem Beklagten einen Teil des Kaufpreises zu schenken.
+Die Vorinstanzen wiesen das auf Vertragsaufhebung wegen laesio enormis gestützte Hauptbegehren ebenso ab wie das Eventualbegehren auf Feststellung der Unwirksamkeit des Vertrags, das der Kläger darauf gegründet hatte, dass eine gemischte Schenkung vorliege, die an einem Formmangel leide.
+Der Kläger behauptet in seiner außerordentlichen Revision einen Feststellungsmangel, weil nicht feststehe, ob sein Hälfteanteil - wie von ihm zunächst in der Klage unter Hinweis auf ein eingeholtes Privatgutachten behauptet - rund 1.200.000 EUR betrage oder - wie von ihm im Zuge des Verfahrens vorgebracht - rund 1.480.000 EUR. Diese Feststellung sei wesentlich, weil der Oberste Gerichtshof in der Entscheidung 1 Ob 161/01k ausdrücklich darauf hingewiesen habe, dass eine Anfechtung wegen laesio enormis nicht ausgeschlossen sei, wenn der Verkürzte zwar bewusst ein Verlustgeschäft geschlossen habe, sich aber nachträglich eine noch größere Abweichung vom wahren Wert herausstelle.
+Rechtliche Beurteilung
+Damit zeigt die Revision jedoch keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+1. Richtig ist, dass die Anfechtung wegen laesio enormis nur dann ausgeschlossen ist, wenn der andere Teil beweist, dass der Verkürzte den wahren Wert kannte (3 Ob 520/94 SZ 68/152; RIS-Justiz RS0087574).
+2. Die vom Kläger für seinen Standpunkt ins Treffen geführte Entscheidung 1 Ob 161/01k (EvBl 2002/1) spricht nicht für, sondern gegen seinen Standpunkt: Der erste Senat führte ausdrücklich aus, dass die Anfechtung wegen laesio enormis trotz bewusstem Abschluss eines Verlustgeschäfts dann nicht ausgeschlossen ist, wenn sich nachträglich eine noch größere Abweichung vom wahren Wert herausstellt, die zur Hälfteüberschreitung führt. Der Kläger wusste nach dem dieser Entscheidung zugrundeliegenden Sachverhalt nur, dass er einen geringeren als den angemessenen Mietzins vereinbart hatte, nicht aber, dass der vereinbarte Mietzins allenfalls auch weniger als die Hälfte des erzielbaren angemessenen Mietzinses betrug.
+3. Im hier zu beurteilenden Fall war aber dem Kläger bewusst, dass er durch den Verkauf seines Liegenschaftsanteils um 280.000 EUR einen die Grenzen der laesio enormis (weit) übersteigenden Verlust hinnehmen wird. In diesem Fall ist, was sich auch aus der Formulierung des Rechtssatzes zu 1 Ob 161/01k ergibt (RIS-Justiz RS0087574 [T1]), eine Anfechtung ausgeschlossen (P. Bydlinski, Die Stellung der laesio enormis im Vertragsrecht, JBl 1983, 410 [417 f]). Die vom Kläger behauptete Differenz zwischen dem von ihm zum Zeitpunkt des Vertragsabschlusses angenommenen Wert (nach seinem Revisionsvorbringen 1.200.000 EUR) und dem tatsächlichen Wert (nach seinem Vorbringen 1.480.000 EUR) fällt im Hinblick auf die bei Liegenschaften notorische Schwankungsbreite bei Verkehrswertschätzungen nicht entscheidend ins Gewicht. Dass das Erstgericht keine Feststellung zum exakten Verkehrswert traf, ist daher unerheblich, zumal dem Kläger nach den Feststellungen „der wahre Wert“ der Liegenschaftshälfte (gemeint im Sinne einer Kenntnis, dass der Verkehrswert den vereinbarten Kaufpreis um jedenfalls mehr als das Dreifache überstieg) bekannt war (vgl auch 6 Ob 148/07v).
+4. Auf die Ausführungen in der außerordentlichen Revision zur gemischten Schenkung ist schon im Hinblick auf die bindende Feststellung, wonach der Kläger ein Verlustgeschäft schließen, dem Beklagten aber nichts schenken wollte, nicht näher einzugehen. Damit erübrigt sich auch eine Auseinandersetzung mit der Frage der Geltung des Formgebots für gemischte Schenkungen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0030OB00050.14W.0408.000

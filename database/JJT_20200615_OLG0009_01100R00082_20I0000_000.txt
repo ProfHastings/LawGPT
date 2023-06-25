@@ -1,0 +1,39 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+15.06.2020
+Geschäftszahl
+11R82/20i
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch die Senatspräsidentin des Oberlandesgerichts Dr. Hradil-Miheljak als Vorsitzende sowie den Richter und die Richterin des Oberlandesgerichts MMMag. Frank und Mag. Istjan, LL.M., in der Rechtssache der klagenden Partei A***, vertreten durch die Hartmann Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. K***, und 2. U***, wegen EUR 64.671 und Feststellung (EUR 5.000), über den Rekurs der klagenden Partei gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien vom 8. Mai 2020, GZ 4 Cg 27/20z-2, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die klagende Partei hat die Kosten ihres erfolglosen Rekurses selbst zu tragen.
+Der ordentliche Revisionsrekurs ist zulässig.
+Text
+Begründung:
+Die Klägerin begehrt die Zahlung von EUR 64.671 an Schadenersatz sowie die Feststellung, dass die Beklagten für künftige Schäden aus einer nicht lege artis durchgeführten Magenbypassoperation haften würden. Die Klägerin sei in der Ordination von Prim. Univ.-Prof. Dr. *** nicht ausreichend über die Erfolgsaussichten und Risiken einer zum dritten Mal durchgeführten Magenverkleinerung aufgeklärt worden. Bei der Operation im Krankenhaus der Erstbeklagten sei eine Anamastosenleckage aufgetreten. Trotz der dadurch auftretenden erhöhten Entzündungswerte sei die Klägerin frühzeitig und ohne ausreichende Nachsorge entlassen worden, wodurch letztlich zwei Revisionsoperationen erforderlich geworden seien. Diese Kunstfehler hätten massive Nebenwirkungen und Schmerzen mit sich gebracht und würden die Klägerin voraussichtlich lebenslang beeinträchtigen.
+Das Erstgericht wies die Klage wegen sachlicher Unzuständigkeit zurück. Für die Klage sei nach § 51 Abs 1 Z 1 JN das Handelsgericht zuständig, weil die Klägerin Ansprüche aus ihrem Behandlungsvertrag mit der erstbeklagten Formunternehmerin geltend mache.
+Dagegen richtet sich der Rekurs der Klägerin wegen unrichtiger rechtlicher Beurteilung mit dem Antrag, den Beschluss ersatzlos zu beheben. Hilfsweise beantragt sie auch die Zurückverweisung an das Erstgericht oder die Überweisung an das nicht offenbar unzuständige Handelsgericht Wien.
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+1. Die Klägerin argumentiert, dass sie gegenüber der Erstbeklagten deliktische Schadenersatzansprüche wegen Verletzung ihrer körperlichen Unversehrtheit geltend mache, sodass die Klage nicht vor ein Kausalgericht gehöre.
+1.1. Gemäß § 51 Abs 1 Z 1 JN gehören Streitigkeiten aus unternehmensbezogenen Geschäften vor die selbständigen Handelsgerichte, wenn die Klage gegen einen im Firmenbuch eingetragenen Unternehmer gerichtet ist und das Geschäft auf Seiten des Beklagten ein unternehmensbezogenes Geschäft ist.
+Deliktisches Verhalten eines Unternehmers, das zu seiner gesundheitlichen Schädigung geführt habe, fällt dagegen in die Zuständigkeit des allgemeinen Zivilgerichtes (RIS-Justiz RS0113977 [T2]).
+Die a-limine-Prüfung der (hier: sachlichen) Gerichtszuständigkeit hat dabei aufgrund der Klagsangaben zu erfolgen (RS0056159).
+1.2. Gegenüber der Erstbeklagten stützt sich die Klägerin auf Aufklärungs- und Behandlungsfehler, ohne einen Behandlungsvertrag ausdrücklich zu erwähnen.
+Die Erstbeklagte als juristische Person ist jedoch nicht selbst, sondern nur durch natürliche Personen handlungsfähig. Deliktisch haftet sie gemäß § 1315 ABGB nach ständiger Rechtsprechung nur für das Verhalten jener natürlichen Personen, die als ihre verfassungsmäßigen Organe oder in verantwortlicher, leitender oder überwachender Funktion tätig sind (sog Repräsentantenhaftung, vgl RS0009133). Aus der Klagserzählung ergibt sich kein Hinweis darauf, dass die Aufklärung in der Ordination von Prim. Univ.-Prof. *** überhaupt namens und/oder auftrags der Erstbeklagten erfolgte. Andere Personen nennt die Klägerin in ihrem Vorbringen weder namentlich noch durch eine Umschreibung einer Repräsentantenstellung. Ein deliktischer Schadenersatzanspruch der Klägerin gegen die Erstbeklagte ist daher aus der Klagserzählung nicht abzuleiten.
+1.3. Die Erstbeklagte als Gesellschaft mit beschränkter Haftung ist gemäß § 2 UGB Unternehmerin kraft Rechtsform und könnte ohne Eintragung ins Firmenbuch gar nicht bestehen (§ 2 Abs 1 FBG). Alle von ihr abgeschlossenen Geschäfte sind nach der Rechtsprechung stets unternehmensbezogen iSd § 51 Abs 1 Z 1 JN (RW0000933).
+Medizinische Heilbehandlungen erfolgen in der Regel aufgrund eines Behandlungsvertrags; ausgenommen sind Notfallbehandlungen bei Bewusstlosen oder Minderjährigen, Unterbringungen nach dem UbG oder Behandlungen bei vorliegender Einwilligungsfähigkeit trotz fehlender Geschäftsfähigkeit (Klete?ka-Pulker in Aigner/Klete?ka/Klete?ka-Pulker/Memmer, Handbuch Medizinrecht Kap. I.1.14 [Stand 1.4.2016, rdb.at]).
+Die Klägerin hat keine Tatsachenbehauptungen aufgestellt, die eine entsprechende Ausnahme nahelegen. Es ist daher nach dem Vorbringen von einem vertraglichen Schadenersatzanspruch wegen Aufklärungs-, Behandlungs- und/oder Diagnosefehlern auszugehen, der an einen - zumeist ohnedies konkludent abgeschlossenen - Behandlungsvertrag anknüpft (vgl RS0123061).
+2. Die Klägerin betont in ihrem Rekurs, dass sie jedenfalls in keinem vertraglichen Verhältnis zur Zweitbeklagten als Haftpflichtversicherin der Erstbeklagten stehe, sodass in diesem Verhältnis jedenfalls kein unternehmensbezogenes Geschäft vorliege.
+Gemäß § 5c Abs 2 KAKuG kann der geschädigte Dritte einen ihm zustehenden Schadenersatzanspruch aus der Tätigkeit einer Krankenanstalt auch direkt gegen den Haftpflichtversicherer der Krankenanstalt geltend machen. Der Versicherer und der ersatzpflichtige Versicherte haften als Gesamtschuldner. Diese Solidarhaftung und Direktklagemöglichkeit bestehen unabhängig davon, ob es sich um die Pflichthaftpflichtversicherung einer „privaten“ Krankenanstalt oder eine freiwillig abgeschlossene Haftpflichtversicherung für eine „nicht private“ Krankenanstalt handelt (7 Ob 177/17f Pkt 3.4).
+Die Bestimmung des § 5c Abs 2 KAKuG wurde 2010 durch das Bundesgesetz zur Stärkung der ambulanten öffentlichen Gesundheitsversorgung geschaffen. Der Gesetzgeber wollte durch die Direktklage des Geschädigten gegen den Versicherer gemäß § 5c Abs 2 KAKuG dem Geschädigten die Durchsetzung seiner Ansprüche nach dem Vorbild des § 26 KHVG erleichtern (ErläutRV 779 BlgNR 24. GP 22). Es ist daher davon auszugehen, dass auch der Direktanspruch nach § 5c Abs 2 KAKuG gegen den Haftpflichtversicherer auf einem gesetzlichen Schuldbeitritt beruht (vgl RS0065779 zu § 26 KHVG).
+Die Zuständigkeit der Handelsgerichte nach § 51 Abs 1 Z 1 JN setzt keinen direkten Geschäftsabschluss zwischen den Prozessparteien voraus (RS0046402). Die Handelsgerichte sind daher nach der Rechtsprechung des Oberlandesgerichts Wien auch für Klagen auf Verbindlichkeiten aus einem unternehmensbezogenen Geschäft zuständig, für die der Beklagte wegen gesetzlichen Schuldbeitritts haftet (vgl RW0000932 zum gesetzlichen Schuldbeitritt nach § 38 UGB bei Unternehmensübergang).
+Damit fehlt es an der sachlichen Zuständigkeit des Erstgerichts auch für die Klage gegen die Zweitbeklagte.
+3. Die Entscheidung über die Kosten des Rekursverfahrens stützt sich auf §§ 41 und 50 ZPO.
+4. Der ordentliche Revisionsrekurs war zuzulassen, weil keine höchstgerichtliche Rechtsprechung zur sachlichen Zuständigkeit für Direktklagen gegen den Haftpflichtversicherer einer Krankenanstalt nach § 5c Abs 2 KAKuG aufgefunden werden konnte.
+European Case Law Identifier
+ECLI:AT:OLG0009:2020:01100R00082.20I.0615.000

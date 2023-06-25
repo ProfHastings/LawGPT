@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.02.1954
+Geschäftszahl
+1Ob43/54
+Norm
+EO §3;
+EO §7;
+EO §40;
+EO §54;
+Kopf
+SZ 27/28
+Spruch
+Im Exekutionsantrage muß die Behauptung, die betriebene Forderung sei nicht bezahlt worden, nicht enthalten sein.
+Entscheidung vom 4. Feber 1954, 1 Ob 43/54.
+I. Instanz: Bezirksgericht Korneuburg; II. Instanz: Kreisgericht Korneuburg.
+Text
+Der betreibende Gläubiger hat am 28. August 1953 zur Hereinbringung einer Forderung von 20.000 S die Bewilligung der Zwangsversteigerung beantragt, u. zw. auf Grund eines Notariatsaktes, in welchem die Verpflichtete die Rückzahlung eines Darlehens im Betrage von 20.000 S für den 23. November 1953 zusagt, aber dem betreibenden Gläubiger auch das Recht eingeräumt hatte, das Kapital sofort für fällig zu erklären und gerichtlich einzutreiben, wenn die Verpflichtete ihre im Schuldschein übernommenen Verpflichtungen nicht erfüllt. Zu diesen Verpflichtungen gehörte es u. a., die Zinsen des Schuldkapitals (15% im Jahre, monatlich im nachhinein) spätestens binnen acht Tagen abzuführen.
+Das Erstgericht hat den Antrag abgewiesen mit der Begründung, es sei die frühere Fälligstellung weder behauptet noch nachgewiesen. Die im Notariatsakt bedungene Befreiung von dem Nachweis des Eintritts der Fälligkeit sei wirkungslos.
+Das Rekursgericht hat dagegen die Zwangsversteigerung unter Hinweis auf das Judikat 100 (alt) bewilligt. Es scheint allerdings auch der Meinung zu sein, daß im Antrag die Nichtzahlung einer Zinsenrate behauptet werden müsse, und sieht diese Behauptung schon in den Eingangsworten des Antrages "mangels Zahlung". Damit könne nur die Nichtzahlung der Zinsen gemeint sein. Im Revisionsrekurs wird die Wiederherstellung des erstgerichtlichen Beschlusses begehrt.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der verpflichteten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Weder in § 54 EO. noch an einer anderen Stelle verlangt das Gesetz, daß im Exekutionsantrag die rein negative Behauptung enthalten sei, die betriebene Forderung sei nicht bezahlt worden. Diese Behauptung und Einwendung ist vielmehr ausschließlich Sache des Verpflichteten, dem hiezu die in den §§ 35 und 40 EO. vorgezeichneten Wege zur Verfügung stehen. Das ist auch dann nicht anders, wenn in einem Exekutionstitel Zinsen oder sonstige Raten und die Fälligkeit des ganzen Kapitals bei Nichtbezahlung der Raten vereinbart ist. Wie die Bewilligung der Exekution zugunsten der einzelnen Raten nicht an die Voraussetzung einer besonderen Behauptung geknüpft ist, kann auch die Bewilligung der Exekution zugunsten des infolge Nichtzahlung einer Rate fälligen Kapitals nicht von dieser Voraussetzung abhängig sein. Es wäre also die Exekution auch dann zu bewilligen gewesen, wenn der betreibende Gläubiger die Wertwendung "mangels Zahlung" nicht gebraucht hätte.
+Es ist aber auch ohne Belang, daß mit der Exekution wegen des Kapitals nicht zugleich die Exekution wegen einer fälligen Rate beantragt wurde, durch deren Nichtzahlung der Terminverlust eingetreten ist. Denn der Umstand, daß Exekution für Zinsenraten nicht geführt wird, kann nicht in die Behauptung umgedeutet werden, daß Zinsenraten niemals länger als acht Tage fällig waren und die Voraussetzungen für den Terminverlust also niemals eingetreten sind.

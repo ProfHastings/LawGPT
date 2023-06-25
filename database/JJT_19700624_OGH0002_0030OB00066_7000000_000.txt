@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.06.1970
+Geschäftszahl
+3Ob66/70
+Norm
+EO §350;
+Kopf
+SZ 43/115
+Spruch
+Nach der Bestimmung des § 350 EO können nur Ansprüche, welche auf Einräumung, Übertragung, Beschränkung oder Aufhebung eines bücherlichen Rechts gerichtet sind, durch Vornahme der bezüglichen bücherlichen Eintragung bewilligt werden, nicht aber eine Unterteilung zweier Grundstücke auf Grund eines bereits vorhandenen Teilungsplanes. Der betreibende Gläubiger, für den diese Unterteilung der beiden Grundstücke Voraussetzung für die Einverleibung seines Eigentumsrechtes ist, kann aber im Exekutionswege die Einverleibung seines Eigentumsrechtes auf Grund des Exekutionstitels nach vorangegangener Unterteilung begehren
+OGH 24. Juni 1970, 3 Ob 66/70 (KG Wr Neustadt R 407/69; BG Gloggnitz E 3775/69)
+Text
+Mit Urteil des LGZ Wien vom 31. Jänner 1968 wurde die Verpflichtete schuldig erkannt, in die grundbücherliche Einverleibung des lastenfreien Eigentumsrechtes des betreibenden Gläubigers ob den zum Gutsbestand der EZ 421 der KG R gehörenden, nach dem Teilungsplan des Dipl-Ing Kurt P in G vom 1. August 1964, GZ 6485, abzutrennenden Grundstücken Nr 437/46 Garten und Nr 257/2 Baufläche einzuwilligen. Auf Grund dieses Exekutionstitels und des oben näher bezeichneten Teilungsplanes beantragte der betreibende Gläubiger die Unterteilung der Liegenschaft EZ 421 KG R gem dem Teilungsplan zu bewilligen.
+Der Erstrichter bewilligte diesen Antrag.
+Das Rekursgericht änderte den erstrichterlichen Beschluß dahin ab, daß es den Antrag des betreibenden Gläubigers abwies. Es führte aus, daß der Antrag des betreibenden Gläubigers als Exekutionsantrag und nicht als Grundbuchsgesuch zu werten, daß der durchzusetzende Anspruch bestimmt und daß es nicht erforderlich sei, in den Exekutionsantrag die Behauptung aufzunehmen, daß die Verpflichtete trotz Ablaufs der Leistungspflicht noch nicht erfüllt habe. Grundbuchsrechtliche Hindernisse stunden der beantragten Unterteilung nicht entgegen. Die beantragte Unterteilung der Liegenschaft sei durch den Exekutionstitel gedeckt. Nach der Rechtsprechung sei auch dort, wo bücherliche Eintragungen, welchen zuzustimmen der Verpflichtete nach dem Exekutionstitel verhalten sei, die Exekution nach § 350 EO zulässig. Der Exekutionsantrag sei aber dennoch abzuweisen, weil der betreibende Gläubiger nicht die exekutive Durchsetzung der Einräumung, Übertragung, Beschränkung oder Aufhebung eines bücherlichen Rechts begehre. Durch die beantragte Unterteilung von Grundstücken werden die Eigentumsrechte der Verpflichteten an diesen nicht berührt. Ein derartiges Begehren müßte in Form eines Grundbuchsgesuches beim Grundbuchsgericht gestellt werden.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Wie das Rekursgericht richtig ausgeführt hat, können nach § 350 Abs 1 EO nur Ansprüche, welche auf Einräumung, Übertragung, Beschränkung oder Aufhebung eines bücherlichen Rechts gerichtet sind, durch Vornahme der bezüglichen bücherlichen Eintragung bewilligt werden. Die vom betreibenden Gläubiger beantragte Unterteilung zweier Grundstücke auf Grund des bereits vorhandenen Teilungsplanes kann daher weder nach § 350 Abs 1 EO noch nach einer anderen exekutionsrechtlichen Bestimmung bewilligt werden.
+Daran ändert auch nichts der Umstand, daß die vorherige Unterteilung der beiden Grundstücke Voraussetzung für die Einverleibung des Eigentumsrechtes des betreibenden Gläubigers an den bestimmten Teilstücken ist. Daraus läßt sich nämlich nicht ableiten, daß der betreibende Gläubiger gesondert von dem Antrag auf Einverleibung seines Eigentums die Durchführung der bücherlichen Unterteilung der beiden Grundstücke begehren kann.
+Richtig ist wohl, daß der betreibende Gläubiger mangels bücherlichen Eigentums nicht berechtigt ist, die Teilung mit einem Grundbuchsgesuch zu beantragen. Er ist aber jedenfalls legitimiert, im Exekutionswege die Einverleibung seines Eigentumsrechtes auf Grund des Exekutionstitels nach vorangegangener Unterteilung zu begehren.

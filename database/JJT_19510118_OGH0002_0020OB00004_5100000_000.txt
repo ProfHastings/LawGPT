@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.01.1951
+Geschäftszahl
+2Ob4/51
+Norm
+ABGB §1358;
+Gesetz über die Gesellschaften mit beschränkter Haftung §70;
+Kopf
+SZ 24/22
+Spruch
+Ein Gesellschafter einer GesmbH. ist von der im § 70 GesmbHG. festgelegten Verpflichtung nicht deshalb befreit, weil er sich für Schulden der Gesellschaft verbürgt hat.
+Entscheidung vom 18. Jänner 1951, 2 Ob 4/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Masseverwalter einer Gesellschaft mit beschränkter Haftung begehrte die Verurteilung des Beklagten zur Bezahlung eines Betrages von 45.000 S, für den er als Gesellschafter gemäß § 70 GesmbHG. aufzukommen habe. Der Beklagte wendete ein, daß er mit anderen Gesellschaftern die persönliche Haftung für ein Darlehen übernommen habe, das die Gesellschaft aufzunehmen genötigt gewesen sei und das ihr ohne diese persönliche Haftung nicht gewährt worden wäre, und daß er auf Grund seiner Verpflichtung gegen die Darlehensgeberin mehr bezahlt habe, als ihn aus seinen sämtlichen Verpflichtungen als Gesellschafter treffen würde.
+Das Prozeßgericht gab dem Klagebegehren statt.
+Das Berufungsgericht bestätigte das erstgerichtliche Urteil.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Nach § 70 des Gesetzes über Gesellschaften mit beschränkter Haftung haben die übrigen Gesellschafter den Teil einer Stammeinlage, der von dem Zahlungspflichtigen nicht eingebracht werden kann, verhältnismäßig aufzubringen. Dadurch, daß der Beklagte die persönliche Haftung für ein der Gesellschaft gewährtes Darlehen übernommen hat, ist dieser Fehlbetrag nicht aufgebracht worden. Zunächst ist auch die Gesellschaft Schuldnerin des Darlehensgläubigers geworden. Wenn der Beklagte auf Grund seiner Haftung Zahlungen leistete, trat er in die Rechte des Gläubigers ein (§ 1358 ABGB.) und war befugt, von der Gesellschaft Ersatz zu verlangen. Der Fehlbetrag des säumigen Gesellschafters ist also nicht ausgeglichen, denn dem eingegangenen Darlehensbetrag steht entweder eine Forderung des Darlehensgebers gegen die Gesellschaft oder nach Tilgung der Darlehensforderung durch den Beklagten die Ersatzforderung des Beklagten gegen die Gesellschaft gegenüber. Bei diesem Sachverhalt bleibt es ohne Belang, ob der Darlehensgeber von vornherein nicht mit der Rückzahlung des Darlehens durch die Gesellschaft rechnete oder den Kredit nur wegen der persönlichen Haftung des Beklagten gewährte. Der Fehlbetrag wäre dann aufgebracht worden, wenn der Beklagte der Gesellschaft den Betrag aus einem nur ihm gewährten Darlehen zur Deckung der Ausfallshaftung zur Verfügung

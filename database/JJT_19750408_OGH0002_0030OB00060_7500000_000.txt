@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.04.1975
+Geschäftszahl
+3Ob60/75
+Norm
+ABGB §909;
+ABGB §1336;
+Kopf
+SZ 48/38
+Spruch
+Die Vereinbarung einer Stornogebühr bei ungerechtfertigtem Rücktritt des Käufers ist in der Regel die Vereinbarung einer Vertragsstrafe (keine Reugeldvereinbarung)
+Ist der Verkäufer bei unberechtigtem Rücktritt des Käufers berechtigt, eine Stornogebühr zu verlangen, kann der Käufer daraus kein Recht auf Reugeld ableiten
+Dem vertragsbrüchigen Teil ist ohne ausdrückliche Vereinbarung ein mit seinen primären Vertragspflichten (Erfüllung) in Widerspruch stehendes Recht nicht zuzugestehen
+OGH 8. April 1975, 3 Ob 60/75 (OLG Linz 5 R 166/74; KG Wels 4 Cg 600/73)
+Text
+Die klagende Partei begehrte die Verurteilung des Beklagten zur Zahlung eines Betrages von 150.000 S samt Anhang als Kaufpreis für einen vom Beklagten fix gekauften, für ihn zur Abholung bereitstehenden Kran.
+Der Beklagte beantragte Klagsabweisung, weil er von einer ausdrücklich vereinbarten, befristeten Stornierungsmöglichkeit rechtzeitig Gebrauch gemacht habe, außerdem selbst bei späterer Stornierung auf Grund der vereinbarten Geschäftsbedingungen nur zur Bezahlung von 10% des Kaufpreises verpflichtet sei.
+Das Erstgericht gab dem Klagebegehren statt. Nach den Feststellungen des Erstgerichtes unterfertigte der Beklagte am 22. Dezember 1972 einen Kaufantrag an die klagende Partei, worin er einen Ladekran HIAB 560 komplett zum Preis von 163.000 S bestellte. Er sollte nach diesem Kaufantrag prompt geliefert, vom Beklagten abgeholt und in der Form bezahlt werden, daß nach einer Anzahlung von 20% der Rest in 36 Monatsraten mit unterschiedlichem Zinsfuß zu entrichten gewesen wäre. Unmittelbar oberhalb der Unterschrift des Bestellers befindet sich auf dem Kaufantrag ein gedruckter Vermerk, wonach die umstehenden Geschäftsbedingungen zustimmend zur Kenntnis genommen wurden.
+Die auf der Rückseite des Kaufantrages abgedruckten Geschäftsbedingungen enthalten unter anderem in Punkt 7 unter der Rubrik "Stornierung" wörtlich folgende Bestimmung: "Wird der Auftrag vom Käufer widerrufen oder tritt er aus einem Gründe, der nicht schon nach dem Gesetz zum Rücktritt berechtigt, vom Geschäft zurück, ist der Verkäufer berechtigt, eine Stornogebühr in Höhe des entgangenen Gewinnes, mindestens jedoch in der Höhe von 10% des Kaufpreises zu verlangen."
+Der Beklagte hat die Geschäftsbedingungen vor Unterfertigung nicht gelesen. Von einer weitergehenden Stornierungsmöglichkeit als auf der Vorderseite (mit Befristung) vermerkt wurde nicht gesprochen.
+Von einer zusätzlich bis 27. Dezember 1972 eingeräumten Stornierungsmöglichkeit machte der Beklagte nicht rechtzeitig Gebrauch, ein am 28. Dezember 1972 zur Post gegebenes Stornierungsschreiben langte am 29. Dezember 1972 bei der Klägerin ein, welche die Stornierung nicht mehr akzeptierte, noch am 29. Dezember 1972 dem Beklagten eine Faktura über 150.000 S übersandte und ihm mitteilte, daß der Kran zur Verfügung stehe.
+Bei diesem Sachverhalt führten Erstgericht und Berufungsgericht im wesentlichen übereinstimmend aus, der Beklagte habe von dem ausdrücklich vereinbarten, mit 27. Dezember 1972 befristeten Rücktrittsrecht nicht fristgerecht Gebrauch gemacht, aus Punkt7 der dem Vertrage zugrundeliegenden Geschäftsbedingungen könne nur ein Recht der Klägerin, nicht aber das Recht des Beklagten abgeleitet werden, sich durch Zahlung der dort vorgesehenen Stornogebühr von seinen Vertragspflichten zu befreien. Schließlich sei entsprechend den Vertragsbedingungen mit 14. Feber 1973 Terminsverlust eingetreten und ab diesem Zeitpunkt der gesamte Kaufpreis gegen die (von der Klägerin angebotene) Auslieferung des Kranes fällig.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Wie bereits ausgeführt, hält der Beklagte durch Nichtanfechtung des Zuspruches von 15.000 S samt Anhang nur mehr den Einwand aufrecht, daß mit Punkt 7 der dem Vertrag zugrundeliegenden Geschäftsbedingungen auch ihm das Recht eingeräumt worden sei, gegen Zahlung eines Vergütungsbetrages die Vertragserfüllung zu verweigern, weil mit dieser Vereinbarung keine Konventionalstrafe, sondern ein Reugeld im Sinne des § 909 ABGB vereinbart worden sei.
+Dieser Auffassung kann jedoch nicht beigepflichtet werden. Zunächst war festzuhalten, daß hier keine Vereinbarung getroffen wurde, die zu einer anderen als der sich aus dem Text ergebenden Auslegung des Punktes 7 der gegenständlichen Geschäftsbedingungen nötigen würde. Nach dem Wortlaut des angeführten Punktes 7 ist im Falle einer Stornierung bzw. eines unberechtigten Rücktrittes seitens des Käufers "der Verkäufer" berechtigt, eine Stornogebühr zu verlangen; ein Recht des Käufers ist darin jedenfalls nicht ausdrücklich enthalten. Es wäre auch verfehlt, ihm ein derartiges Recht im Wege der Auslegung zuzubilligen: Bei Beachtung des Grundsatzes der Vertragstreue wäre es nämlich widersinnig, dem vertragsbrüchigen Teil ohne ausdrückliche Vereinbarung ein mit seinen primären Vertragspflichten (Erfüllung) in Widerspruch stehendes Recht zuzugestehen (ebenso Mayerhofer in FS für Arnold Herdlitczka, 1972, 187, insbesondere 188/191). Eben aus diesem Gründe wird in § 1336 Abs. 1 Satz 2 ABGB bestimmt, daß bei Vereinbarung einer Vertragsstrafe der Schuldner mangels besonderer Vereinbarung nicht das Recht hat, sich durch Zahlung der Vertragsstrafe von der Erfüllung zu befreien. Vereinbarungen einer Stornogebühr von der Art wie hier durch Punkt 7 der Geschäftsbedingungen der Klägerin sind daher grundsätzlich als Vereinbarungen über die Zahlung einer Vertragsstrafe im Sinne des § 1336 ABGB und nicht als Reugeldvereinbarung anzusehen (ebenso Mayerhofer, FS, ZBl. 1934/114, RZ 1974/42, 82 u. a.).
+Da somit die Vorinstanzen ein Recht des Beklagten, sich auf Grund des Punktes 7 der gegenständlichen Geschäftsbedingungen gegen den Willen der Klägerin durch Zahlung von 10% des Kaufpreises von der Verpflichtung zur Vertragserfüllung zu befreien, zutreffend verneint haben, liegt der allein geltend gemachte Revisionsgrund unrichtiger rechtlicher Beurteilung nicht vor.

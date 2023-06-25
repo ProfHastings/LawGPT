@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.10.1970
+Geschäftszahl
+3Ob112/70
+Norm
+ABGB §1284;
+AO §10 Abs4;
+AO §20a;
+AO §23;
+Kopf
+SZ 43/178
+Spruch
+Leibrente aus Verkauf eines Unternehmens keine bevorrechtete Forderung
+Auch für den Verkauf eines Unternehmens gegen Leibrente gilt, daß § 20a AO nicht anzuwenden ist, wenn ein Vertragsteil bereits vollständig erfüllt hat
+OGH 14. Oktober 1970, 3 Ob 112/70 (OLG Wien 3 R 173/70; HG Wien 1 Cg 61/70)
+Text
+Mit rechtskräftigem Versäumungsurteil des Erstgerichtes vom 14. April 1970 wurde der nunmehrige Verpflichtete Herbert B im wesentlichen schuldig erkannt, der nunmehr betreibenden Partei Helma B (neben einem Rückstand von 2700 S) ab 15. April 1970 eine monatliche Leibrente in Höhe von 3900 S zu bezahlen. In der diesem Exekutionstitel zugrundeliegenden Klage hatte Helma B vorgebracht, sie habe ein Unternehmen gegen eine monatliche wertgesicherte Leibrente von 3900 S sowie gegen zusätzliche Naturalleistungen an Herbert B verkauft und übergeben, ihre nach der über das Vermögen des Herbert B am 10. März 1970 erfolgten Eröffnung des Ausgleichsverfahrens fälligen Leibrentenforderungen seien vom Ausgleich unberührt und rechtlich als Alimente zu werten.
+Die auf Grund des Versäumungsurteiles vom 4. April 1970 von Helma B beantragte Fahrnisexekution wurde vom Erstgericht bewilligt, vom Rekursgericht hingegen mit der Begründung abgewiesen, daß im Hinblick auf das seit 10. März 1970 anhängige Ausgleichsverfahren die beantragte Exekution nur zugunsten einer bevorrechteten Forderung hätte bewilligt werden können, daß aber die betriebene Forderung nach dem Inhalt des Exekutionsantrages und des Titelaktes nicht als bevorrechtete Forderung angesehen werden könne.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zu Unrecht vermeint die betreibende Partei, daß die von ihr betriebene Forderung zufolge § 20a AO vom Ausgleichsverfahren nicht berührt sei. Die angeführte Gesetzesbestimmung gilt nämlich nach ihrem klaren Wortlaut lediglich für Forderungen aus einem (zweiseitigen) Vertrag, falls zur Zeit der Eröffnung des Ausgleichsverfahrens noch kein Vertragsteil den Vertrag vollständig erfüllt hat. Hat hingegen einer der Vertragsteile bereits vollständig erfüllt, so ist § 20a AO nicht anzuwenden (ebenso Bartsch - Pollak II 225 Anm 7, 227 Anm 16 und 232 Anm 38, 8 Ob 279/66 u a). Im vorliegenden Fall hat die Rechtsmittelwerberin nach ihrem eigenen Vorbringen im Titelakt das Unternehmen verkauft und übergeben, also ihrerseits den Vertrag, aus welchem sie die betriebene Forderung ableitet, zur Gänze erfüllt. Demzufolge kann hier die Bestimmung des § 20a AO nicht herangezogen werden.
+Verfehlt ist ferner der Hinweis der Rechtsmittelwerberin auf den zweiten Abs des § 20a AO sowie auf die einen Bestandvertrag betreffende Entscheidung SZ 33/25, weil § 20a Abs 2 AO voraussetzt, daß die Leistungen beider Vertragspartner teilbar sind, wie dies u a bei Bestandverhältnissen der Fall ist (ebenso Bartsch - Pollak II 230 Anm 30, SZ 33/25 u a), nicht aber beim Verkauf eines Unternehmens oder sonstiger Vermögenswerte gegen eine Zeit- oder Leibrente.
+Schließlich ist dem Rekursgericht auch zuzustimmen, daß die gegenständliche Forderung nicht als eine im Ausgleichsverfahren bevorrechtete Forderung (§§ 10 Abs 4 bzw 23 AO) anzusehen ist.
+Dem Revisionsrekurs war daher nicht Folge zu geben.

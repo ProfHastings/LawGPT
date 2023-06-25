@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.07.2013
+Geschäftszahl
+4Ob85/13y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei Z***** D*****, vertreten durch Dr. Johann Kuzmich, Rechtsanwalt in Wien, gegen die beklagte Partei S***** M*****, vertreten durch Dr. Heinz-Peter Wachter, Rechtsanwalt in Wien, wegen Feststellung (Streitwert 5.000 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 8. Februar 2013, GZ 44 R 69/13t-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Berufungsgericht hat das Urteil des Erstgerichts bestätigt, das mit Wirksamkeit zwischen den Streitteilen feststellt, dass sich der am 21. 3. 2007 abgeschlossene Scheidungsfolgenvergleich auch auf das in Kroatien gelegene Vermögen bezieht, sohin auch dieses von der Generalklausel in Punkt VI. des Scheidungsfolgenvergleichs mitumfasst ist. Nach der Generalklausel seien sämtliche Ansprüche der Streitteile gegeneinander verglichen, und zwar nicht nur die aus der Ehe resultierenden, sondern sämtliche gegenseitigen Rechte und Pflichten. Dem Kläger sei der Beweis gelungen, dass auch sein Liegenschaftsvermögen in Kroatien von der Generalklausel des Scheidungsfolgenvergleichs umfasst sei.
+Rechtliche Beurteilung
+Die außerordentliche Revision zeigt keine erhebliche Rechtsfrage auf.
+1. Der Scheidungsfolgenvergleich ist nicht nur Scheidungsvoraussetzung und allenfalls Exekutionstitel, sondern auch privatrechtlicher Vertrag, der die Ehegatten auch ohne Einhaltung der im § 55a Abs 2 EheG geforderten Form an die Vereinbarung privatrechtlich bindet (RIS-Justiz RS0037397; RS0106968).
+2. Voraussetzung für die Begründetheit des Feststellungsanspruchs ist das Vorliegen eines Feststellungsinteresses (RIS-Justiz RS0039177). Dieses ist - ebenso wie die Streitanhängigkeit - nach österreichischem Recht zu prüfen (RIS-Justiz RS0009195 [T4, T18]). Streitanhängigkeit ist dort nicht gegeben, wo die Identität der rechtserzeugenden Tatsachen nur eine teilweise ist (RIS-Justiz RS0039366 [T6]).
+3. Das von der Beklagten in Kroatien lange nach Abschluss des Scheidungsfolgenvergleichs gegen den Käufer der Liegenschaft eingeleitete Gerichtsverfahren hat die Anfechtung des Kaufvertrags zum Gegenstand und kann schon wegen der unterschiedlichen Parteien und des Streitgegenstands keine Streitanhängigkeit zum inländischen Feststellungsverfahren begründen.
+4. Ein Feststellungsinteresse liegt nach der Rechtsprechung vor, wenn eine objektive Ungewissheit über den Bestand oder Umfang eines Anspruchs besteht, die durch die Rechtskraftwirkung des Feststellungsurteils beseitigt wird (RIS-Justiz RS0038964).
+Die Zulässigkeit der Feststellungsklage beruht auf den Grundsätzen des Rechtsschutzbedürfnisses und der Prozessökonomie. Ihr daraus abzuleitender Zweck ist es, einerseits die Rechtslage zwischen den Parteien klarzustellen und andererseits vorbeugenden Rechtsschutz zu gewähren; das über sie ergehende Urteil soll Grundlage für die weiteren Rechtsbeziehungen zwischen den Parteien sein (RIS-Justiz RS0039021 [T20]).
+Ein Interesse an einer Feststellungsklage ist schon dann gegeben, wenn durch die Klarstellung der Rechtsverhältnisse künftige Streitigkeiten vermieden werden können (RIS-Justiz RS0039021 [T17]); so etwa dann, wenn der Bestand des streitigen Rechtes bestritten wird, sodass eine tatsächliche Ungewissheit und Unsicherheit besteht. Dies gilt insbesondere dann, wenn diese Ungewissheit durch ein Verhalten des Beklagten verursacht wird. Es genügt dabei, dass der Kläger in seiner Bewegungsfreiheit im Rechtsleben oder in der Vornahme wirtschaftlicher Maßnahmen behindert wird (RIS-Justiz RS0038968). Das rechtliche Interesse erfordert neben der Berühmung eines solchen Rechtes aber auch eine dadurch hervorgerufene Gefährdung der Rechtsstellung des Klägers. Als dritte Voraussetzung muss dazu kommen, dass die begehrte Feststellung das zur Beseitigung dieser Gefährdung geeignete Mittel ist (RIS-Justiz RS0039096 [T8]).
+5. Von diesen Grundsätzen höchstgerichtlicher Rechtsprechung ist das Berufungsgericht nicht abgewichen, wenn es das Feststellungsinteresse des Klägers bejaht hat.
+Nicht nachvollziehbar ist die Auffassung der Beklagten, die zwischen den Streitteilen strittige Frage, ob der kroatische Liegenschaftsbesitz des Klägers auch unter die Generalklausel des Scheidungsfolgenvergleichs falle, könne einfacher und prozessökonomischer als Vorfrage in dem in Kroatien anhängigen Verfahren zwischen der Klägerin und dem Liegenschaftskäufer geklärt werden, zumal eine allfällige Entscheidung in Kroatien in Österreich mangels staatsvertraglicher Grundlage nicht anerkannt werden würde.
+6. Ob der Kläger ein rechtliches Interesse an der alsbaldigen Feststellung iSd § 228 ZPO besitzt, richtet sich im Übrigen regelmäßig nach den Umständen des Einzelfalls (4 Ob 19/09m = RIS-Justiz RS0039096 [T12]; vgl  auch RIS-Justiz RS0039177 [T1]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0040OB00085.13Y.0709.000

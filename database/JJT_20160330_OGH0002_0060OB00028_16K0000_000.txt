@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2016
+Geschäftszahl
+6Ob28/16k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Firmenbuchsache der im Firmenbuch des Landesgerichts Feldkirch zu FN ***** eingetragen gewesenen a***** GmbH & Co KG mit dem Sitz in D***** über den außerordentlichen Revisionsrekurs der Antragstellerin G***** GmbH & Co KG, *****, vertreten durch Mag. Andreas Germann, Rechtsanwalt in Bregenz, gegen den Beschluss des Oberlandesgerichts Innsbruck als Rekursgericht vom 7. Jänner 2016, GZ 3 R 82/15f-21, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 15 FBG iVm § 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung des Obersten Gerichtshofs ist Vermögen, das einer Nachtragsliquidation zu unterziehen ist, alles, was bei kaufmännisch wirtschaftlicher Betrachtungsweise verwertbar, was zur Gläubigerbefriedigung oder gegebenenfalls zur Ausschüttung an die Gesellschafter geeignet ist, somit verteilungsfähige Aktiva (RIS-Justiz RS0060128). Dazu gehören auch (Deckungs-)Ansprüche der Gesellschaft gegen einen Haftpflichtversicherer (2 Ob 166/08p; 6 Ob 265/11f), wovon ohnehin auch das Rekursgericht ausgegangen ist.
+2. Allerdings hat der erkennende Senat erst jüngst (6 Ob 61/14k) klargestellt, dass Voraussetzung für die Bestellung eines Nachtragsliquidators außerdem die Bescheinigung eines als verwertbar anzusehenden Vermögens ist, weshalb alle verbleibenden Zweifel und Unklarheiten zu Lasten desjenigen gehen, der die Bestellung des Nachtragsliquidators beantragt. Besteht das nachträglich hervorgekommene zu verteilende Vermögen in einer Forderung, hat der Antragsteller darzutun, dass diese Forderung werthaltig ist. Die Nachtragsliquidation soll nur dann eingeleitet werden, wenn mit überwiegender Wahrscheinlichkeit davon auszugehen ist, dass diese Maßnahme die Befriedigung von Gläubigern oder die Ausschüttung an die Gesellschafter ermöglicht. Anders als in einem streitigen Zivilprozess, in dem die Beweislast für anspruchsvernichtende Einwendungen in der Regel dem Beklagten obliegt, können daher möglicherweise vorliegende anspruchsvernichtende Umstände der Bestellung eines Nachtragsliquidators entgegenstehen.
+3. Wenn die Vorinstanzen auf Grundlage der von der Antragstellerin vorgelegten Unterlagen zu der Auffassung gelangten, die Erfolgsaussicht der Geltendmachung von Deckungsansprüchen gegen die Haftpflichtversicherung der Gesellschaft, die der Antragstellerin als deren Subunternehmerin einen Schaden verursacht haben soll, sei nicht ausreichend bescheinigt, so ist darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung zu erblicken. Im Übrigen ist darauf zu verweisen, dass die Antragstellerin ihre eigenen (Regress-)Ansprüche gegen die Gesellschaft, die ja letztlich zur Deckungspflicht des Versicherungsunternehmens führen sollen, lediglich mit ihrer gegen die Gesellschaft eingebrachten Klage zu bescheinigen versucht, ohne jedoch zumindest jenes Sachverständigengutachten vorzulegen, von dem sowohl in dieser Klage als auch im E-Mail-Verkehr mit dem Versicherungsunternehmen die Rede ist und das ein schadenstiftendes Verhalten der Gesellschaft belegen soll.
+4. Damit kann die Frage dahingestellt bleiben, ob durch die Löschung der Gesellschaft die Vertretungsbefugnis der Gesellschafter als Liquitatoren beendet wurde (vgl Wasserer in U. Torggler, UGB² [2016] § 157 Rz 1 mwN).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00028.16K.0330.000

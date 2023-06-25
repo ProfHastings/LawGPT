@@ -1,0 +1,46 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+7Ob24/22p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei M* B*, vertreten durch Mag. Robert Haupt, LLM, Rechtsanwalt in Wien, gegen die beklagte Partei S* SA, *, vertreten durch die Schönherr Rechtsanwälte GmbH in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 14. Dezember 2021, GZ 5 R 170/21p-24, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		1. Der Kläger unterzeichnete am 9. November 2004 bei der Rechtsvorgängerin der Beklagten einen Antrag zum Abschluss einer Lebensversicherung des Produkts „Wealthmaster Classic“. Im Zuge der Antragstellung erhielt der Kläger neben den Polizzenbedingungen und der Verbraucherinformation eine Musterberechnung über die mögliche Entwicklung des Vertrags unter Grundlage verschiedener Wachstumsraten.
+Der Versicherungsantrag hat auszugsweise folgenden Inhalt:
+„F. Auszahlungen
+1. Einmalige Auszahlung Datum 11. 07. 2029 Betrag 155.432,-- €
+2. Regelmäßige Auszahlungen
+[…]
+Bitte beachten Sie, dass Auszahlungen erst ab dem 10. Jahrestag des Vertrags möglich sind und für ein Datum vor dem 10. Jahrestag beantragte Auszahlungen nicht erfolgen. Auszahlungen werden nicht garantiert und können nur erfolgen, wenn dem Vertrag zum entsprechenden Zeitpunkt eine ausreichende Anzahl von Anteilen am Pool mit garantiertem Wertzuwachs 2.004 zugeteilt ist.
+Bitte beachten Sie außerdem, dass der Höchstauszahlungsbetrag pro Banküberweisung nach Österreich € 40.000,-- beträgt. Auszahlungen über € 40.000,-- oder ins Ausland erfolgen durch telegrafische Überweisung. Für telegrafische Überweisungen fallt eine Gebühr von € 19,-- pro Auszahlung an. […]“
+[2] 		Der Kläger vereinbarte mit der Rechtsvorgängerin der Beklagten die Zahlung monatlicher Versicherungsprämien von 280,80 EUR (einschließlich Versicherungssteuer) für eine Laufzeit von 25 Jahren. Darüber hinaus wurde vereinbart, dass sich die monatlichen Prämien um 2,5 % pro Jahr erhöhen. Der Kläger leistete bislang sämtliche monatlichen Prämienzahlungen vollständig und pünktlich.
+Der Versicherungsschein hat auszugsweise folgenden Inhalt:
+„AUSZAHLUNGSDETAILS
+Regelmäßige Auszahlungen
+nicht zutreffend
+Einmalige Auszahlungen
+Betrag		Datum 		Währung
+155.423,00		11. Juli 2029	EUR
+[…]
+Der Wert Ihres Vertrags berücksichtigt die Wertentwicklung des Pools, in dem ihre Beiträge angelegt werden (bitte lesen Sie hierzu die Policenbedingungen und Verbraucherinformation, in denen der deklarierte Wertzuwachs sowie der Fälligkeitsbonus, der Ihrem Vertragswert gutgeschrieben wird, ausführlich erläutert ist). Auszahlungen werden Ihrem Vertrag durch Einlösen von Anteilen entnommen. Daher können Auszahlungen nur durchgeführt werden, wenn im Vertrag zum Zeitpunkt der Auszahlung eine ausreichende Anzahl von Anteilen am Pool mit garantiertem Wertzuwachs zugeteilt ist.“
+[3] 		2. Zwischen den Parteien ist strittig, ob es sich bei der im Versicherungsantrag und Versicherungsschein genannten Summe von (richtig) 155.432 EUR um einen zugesicherten Mindestbetrag oder um einen prognostizierten Betrag handelt.
+Rechtliche Beurteilung
+[4] 		3. Der Kläger zieht die Beurteilung der Vorinstanzen, wonach der geltend gemachte Anspruch nach österreichischem Sachrecht zu beurteilen sei, in der Revision  nicht in Zweifel. Auf die selbständig zu beurteilende Rechtsfrage des anwendbaren Rechts ist daher nicht einzugehen (6 Ob 236/19b; 5 Ob 190/20g).
+[5] 		4. Für die Auslegung einer zwischen den Parteien schriftlich getroffenen Vereinbarung ist der Wortlaut maßgeblich, solange – wie hier – nicht behauptet und bewiesen ist, dass aufgrund außerhalb der Urkunde liegender Umstände sich ein übereinstimmender Parteiwille oder ein vom allgemeinen Sprachgebrauch abweichender objektiver Sinn der Erklärung ergibt (RS0043422 [T6, T13]). Bei Auslegung einer Willenserklärung nach den §§ 914 ff ABGB ist zunächst vom Wortsinn in seiner gewöhnlichen Bedeutung auszugehen, dabei aber nicht stehen zu bleiben, sondern der Wille der Parteien, das ist die dem Erklärungsempfänger erkennbare Absicht des Erklärenden, zu erforschen (RS0017915). Es ist dabei das gesamte Verhalten der Vertragsteile, das sich aus Äußerungen in Wort und Schrift sowie aus sonstigem Tun oder Nichttun zusammensetzen kann, zu berücksichtigen (RS0017915 [T15, T29, T44]). Die Vertragsauslegung hängt maßgeblich von den Umständen des Einzelfalls ab; einzelfallbezogene Fragen sind vom Obersten Gerichtshof aber nur dann aufzugreifen, wenn dem Berufungsgericht eine grobe Fehlbeurteilung im Sinn eines Widerspruchs zu Grundsätzen der Rechtsprechung bei der Vertragsauslegung unterlaufen ist (RS0042936; RS0042776).
+[6] 		4.1. Ob der Kläger selbst die im Antrag und Versicherungsschein genannte Summe als zugesichert erachtet hat, ist nicht relevant, kommt es doch nach der dargestellten ständigen Rechtsprechung darauf an, wie ein redlicher Erklärungsempfänger – hier der durchschnittliche Versicherungsnehmer – die Erklärungen der Beklagten verstehen konnte. Die vom Erstgericht getroffene Feststellung zum (subjektiven) Verständnis des Klägers ist daher im vorliegenden Fall nicht rechtserheblich.
+[7] 		4.2. Die (handschriftliche) Anführung eines konkreten Auszahlungsdatums und eines bestimmten Auszahlungsbetrags im Versicherungsantrag sowie im Versicherungsschein mag für sich allein genommen möglicherweise den Schluss auf einen zugesicherten Mindestbetrag zulassen. Allerdings finden sich in den dem Kläger im Zuge des Vertragsschlusses übermittelten Dokumenten zahlreiche gegenteilige Hinweise. So wurde ihm etwa im Zuge der Antragstellung eine Modellrechnung über die mögliche Entwicklung des Vertrags unter Grundlage verschiedener Wachstumsraten übergeben. Darüber hinaus findet sich im Versicherungsantrag der Hinweis, dass Auszahlungen nicht garantiert werden und nur erfolgen können, wenn dem Vertrag eine ausreichende Anzahl von Anteilen am Pool mit garantiertem Wertzuwachs zugeteilt ist. Auch wenn sich dieser Hinweis unterhalb des Punktes 2. (regelmäßige Auszahlungen) findet, ist die Beurteilung, dass  sich für den durchschnittlich verständigen Versicherungsnehmer mit hinreichender Klarheit ergibt, dass dieser Hinweis – wie auch der Hinweis für die Kosten im Fall telegrafischer Überweisungen – für beide Auszahlungsarten gilt, unbedenklich. Im Versicherungsschein heißt es dass „der Wert des Vertrags die Wertentwicklung des Pools berücksichtigt“ und dass „Auszahlungen nur durchgeführt werden, wenn im Vertrag zum Zeitpunkt der Auszahlung eine ausreichende Anzahl von Anteilen am Pool mit garantiertem Wertzuwachs zugeteilt sind“. In den Polizzenbedingungen wird bei der Beschreibung des „Pools mit garantiertem Wertzuwachs“ unter anderem darauf hingewiesen, dass der Ertrag von der Wertentwicklung abhängt und diese deutlichen Schwankungen unterliegen kann und dass der deklarierte Wertzuwachs bei außergewöhnlich schlechten Bedingungen sehr niedrig sein kann (Punkt 2.3. und 2.4. der Bedingungen). In der Verbraucherinformation wird der Begriff „Garantie“ verwendet, dieser bezieht sich aber nach den dortigen Erläuterungen nicht auf eine bestimmte Versicherungsleistung, wird doch auch hier darauf hingewiesen, dass der Ertrag von der Wertentwicklung abhängt und diese deutlichen Schwankungen unterliegen kann (vgl Punkt 7.2. der Verbraucherinformation).
+[8] 		4.3. Wenn die Vorinstanzen unter Berücksichtigung all dieser Aspekte zur Ansicht gelangten, der durchschnittlich verständige Versicherungsnehmer habe die im Antrag und im Versicherungsschein angeführte Summe nicht als einen zugesicherten, sondern einen prognostizierten Betrag verstehen müssen, so ist dies nicht korrekturbedürftig.
+[9] 		5. Die Zweifelsregel des § 915 ABGB kommt nur zur Anwendung, wenn die erklärte Absicht der Parteien mit den Auslegungsregeln des § 914 ABGB nicht ermittelt werden kann (RS0109295; RS0017951). Kann – wie hier – mit den Auslegungsregeln des § 914 ABGB das Auslangen gefunden werden, liegt der Fall des § 915 2. Halbsatz ABGB (undeutliche Äußerung) nicht vor (RS0017752).
+[10] 		6. Die von der Revision zitierten Entscheidungen des deutschen Bundesgerichtshofs (BGH IV ZR 164/11, 122/11, 286/10, 271/10 = VuR 2013, 70 [IV ZR 151/11 = BeckRS 2012, 16672]) sind nicht einschlägig, weil die Vertrags- und Bedingungslage nicht mit dem vorliegenden Fall vergleichbar ist.
+[11] 		7. Sekundäre Feststellungsmängel liegen nicht vor, weil eine im Verfahren vorgelegte Urkunde, die ihrem Inhalt nach unstrittig ist, der Entscheidung ohne Weiteres zugrunde zu legen ist (RS0121557 [T3]).
+[12] 		8. Die Revision ist daher zusammengefasst mangels erheblicher Rechtsfrage zurückzuweisen.
+[13] 		9. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00024.22P.0428.000

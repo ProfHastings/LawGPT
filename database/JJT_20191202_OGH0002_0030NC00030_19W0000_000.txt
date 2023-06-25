@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.12.2019
+Geschäftszahl
+3Nc30/19w
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr.
+Roch als Vorsitzenden sowie den Hofrat Priv.-Doz. Dr. Rassi und die Hofrätin Dr. Kodek als weitere Richter in der Ordinationssache der Antragstellerin L*****, vertreten durch Dr. Markus Sorger, Rechtsanwalt in Gleisdorf, gegen die Antragsgegnerin V***** AG, *****, wegen Exekution nach § 331 EO, über den Antrag auf Ordination gemäß § 28 JN, den
+Beschluss
+gefasst:
+Spruch
+Der Ordinationsantrag wird abgewiesen.
+Text
+Begründung:
+Die Antragsgegnerin ist aufgrund eines rechtskräftigen und vollstreckbaren Versäumungsurteils des Bezirksgerichts Weiz vom 3. Dezember 2018 schuldig, der Antragstellerin den Betrag von 1.914,88 EUR sA zu zahlen.
+Das Erstgericht wies den aufgrund dieses Titels gestellten Antrag auf Bewilligung der Exekution nach § 331 EO durch Pfändung und Verkauf der der Antragsgegnerin zustehenden Rechte an der Domain www.v*****.at mangels örtlicher Zuständigkeit zurück.
+Das Rekursgericht bestätigte diese Entscheidung. Die inländische Gerichtsbarkeit für das Exekutionsverfahren sei zwar zu bejahen, weil ein österreichischer Titel durchgesetzt werden solle und das Exekutionsobjekt im weitesten Sinn im Inland liege, eine örtliche Zuständigkeit eines österreichischen Gerichts sei aber – ohne vorherige Ordination – zu verneinen, weil die Pfändung der Gesamtheit der schuldrechtlichen Ansprüche aus einer Internet-Domain durch Erlassung eines an den Verpflichteten gerichteten Verfügungsverbots erfolge, während ein darüber hinausgehendes Leistungsverbot an die Registrierungsstelle (mit Sitz im Sprengel des Erstgerichts) nicht stattfinde. Demgemäß sei die erste Vollzugshandlung die Zustellung der Exekutionsbewilligung an die Verpflichtete mit Sitz in der Schweiz.
+In ihrem Rekurs stellte die Antragstellerin hilfsweise einen Ordinationsantrag, in dem sie geltend machte, die Rechtsverfolgung am Sitz der Antragsgegnerin in der Schweiz sei nicht möglich, weil ein Schweizer Exekutionsgericht kein ausländisches Vermögen verwerte. Es lägen daher die Voraussetzungen nach § 28 Abs 1 Z 2 und Z 3 JN vor.
+Rechtliche Beurteilung
+Der Ordinationsantrag ist nicht berechtigt.
+1. Sind für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts nicht gegeben oder nicht zu ermitteln, hat der Oberste Gerichtshof gemäß § 28 Abs 1 JN ua dann aus den sachlich zuständigen Gerichten eines zu bestimmen, das für die fragliche Rechtssache als örtlich zuständig zu gelten hat,
+– wenn der Kläger österreichischer Staatsbürger ist oder seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre (Z 2), oder
+– wenn die inländische Gerichtsbarkeit, nicht aber ein örtlich zuständiges Gericht vereinbart wurde (Z 3).
+2. Nach der (jüngeren) Rechtsprechung des Obersten Gerichtshofs ist eine Ordination auch in Exekutionssachen möglich, wenn zwar die inländische Gerichtsbarkeit zu bejahen ist, es aber an einem (örtlich) zuständigen inländischen Gericht mangelt (3 Nc 104/02b; 3 Nc 4/04z;
+RIS-Justiz RS0053178).
+3. Eine Ordination nach § 28 Abs 1 Z 3 JN scheidet hier von vornherein aus, weil die Antragstellerin nicht einmal behauptet, die Parteien hätten eine Vereinbarung (nur) über die inländische Gerichtsbarkeit getroffen.
+4. Eine Ordination nach § 28 Abs 1 Z 2 JN erfordert – neben den hier erfüllten Voraussetzungen des Vorliegens der inländischen Gerichtsbarkeit und des Fehlens eines Gerichtsstands im Inland – auch die Unmöglichkeit oder Unzumutbarkeit einer Rechtsverfolgung im Ausland. Durch die Ordinationsmöglichkeit soll keinesfalls ein genereller Klägergerichtsstand eingeführt werden (Garber in Fasching/Konecny3 § 28 JN Rz 58).
+5. Gemäß § 28 Abs 4 zweiter Satz JN hat in streitigen bürgerlichen Rechtssachen der Kläger das Vorliegen der Voraussetzungen nach Abs 1 Z 2 oder 3 zu behaupten und zu bescheinigen. Dies gilt entgegen dem Gesetzeswortlaut auch für die anderen zivilgerichtlichen Verfahren (3 Nc 33/04i mwN;
+RS0124087), also insbesondere auch in Exekutionsverfahren (Garber in Fasching/Konecny3 § 28 JN Rz 168).
+6. Dieser Behauptungs- und Bescheinigungslast der Antragstellerin genügt deren unsubstanziierte und in keiner Weise belegte (Rechts-)Behauptung, ein Schweizer Gericht verwerte kein ausländisches Vermögen, nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030NC00030.19W.1202.000

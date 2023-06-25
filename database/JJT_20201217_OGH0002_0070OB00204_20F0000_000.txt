@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2020
+Geschäftszahl
+7Ob204/20f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei N***** F*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei B*****-AG, *****, vertreten durch Dr. Wolfgang Leitner, Dr. Max Leitner, Dr. Mara-Sophie Häusler, Rechtsanwälte in Wien, wegen 485.550 EUR sA und Rente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 7. August 2020, GZ 4 R 84/20i-57, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger hat mit der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem unter anderem die Allgemeinen Unfallversicherungsbedingungen der Beklagten (AUB 2013, Fassung 2015) zugrunde liegen. Diese lauten auszugsweise:
+„2. Welche Leistungen können vereinbart werden?
+[...]
+2.1.2 Art und Höhe der Leistung
+[...]
+2.1.2.2.1 Bei Verlust oder Funktionsunfähigkeit der nachstehend genannten Körperteile und Sinnesorgane gelten ausschließlich die folgenden Invaliditätsgrade:
+[...]
+Bei Teilverlust oder Funktionsbeeinträchtigung gilt der entsprechende Teil des jeweiligen Prozentsatzes.
+[...]
+2.1.2.2.2 Für andere Körperteile und Sinnesorgane bemisst sich der Invaliditätsgrad danach, inwieweit die normale körperliche oder geistige Leistungsfähigkeit insgesamt beeinträchtigt ist. Dabei sind ausschließlich medizinische Gesichtspunkte zu berücksichtigen.
+[...]
+2.1.2.2.4 Sind mehrere Körperteile oder Sinnesorgane durch den Unfall beeinträchtigt, werden die nach den vorstehenden Bestimmungen ermittelten Invaliditätsgrade zusammengerechnet. Mehr als 100 % werden jedoch nicht berücksichtigt.
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Die Anwendung österreichischen Rechts ist unstrittig.
+[3] 		2.1 Allgemeine Versicherungsbedingungen sind nach den Grundsätzen der Vertragsauslegung (§§ 914 ff ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insbes T5, T7, T87]).
+[4] 		2.2 Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Geschäftsbedingungen nicht jedenfalls, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits höchstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (RS0121516 [T6]; 7 Ob 122/18v). Ein solcher Fall liegt vor:
+[5] 		3.1 Eine private Unfallversicherung im Sinn der §§ 179 ff VersVG dient der Abdeckung bestimmter Folgen aus Unfällen, insbesondere auch der einer eingetretenen dauernden Invalidität. Für die Bemessung des Invaliditätsgrades werden in der „Gliedertaxe“ (Art 2.1.2.2.1 AUB) aber nur bestimmte Körperteile und Organe aufgezählt. In den AUB wird daher auch für den Fall Vorsorge getroffen, dass sich der Invaliditätsgrad danach  nicht bestimmen lässt. Dann ist nach Art 2.1.2.2.2 AUB maßgebend, inwieweit die normale körperliche oder geistige Leistungsfähigkeit insgesamt nach medizinischen Gesichtspunkten beeinträchtigt ist (vgl 7 Ob 301/03w; 7 Ob 186/09t [jeweils AUVB 1999]).
+[6] 		3.2 Der Wortlaut des Art 2.1.2.2.2 AUB ist eindeutig dahin zu verstehen, dass sich der Invaliditätsgrad außerhalb der Gliedertaxe, nach der ausschließlich nach medizinischen Gesichtspunkten zu beurteilenden insgesamt bestehenden Gebrauchsbeeinträchtigung des menschlichen Körpers einschließlich seiner geistigen Funktionen bemisst. Für den durchschnittlich verständigen Versicherungsnehmer ergibt sich völlig klar, dass aufgrund einer medizinischen Gesamtbetrachtung ermittelt werden muss, wie die Verletzungen insgesamt die körperliche und geistige Leistungsfähigkeit beeinträchtigen. Das vom Kläger gewünschte Auslegungsergebnis, dass die in den unterschiedlichen medizinischen Fachbereichen (Neurologe, Urologe, Unfallchirurg, ...) ermittelten Einzelwerte lediglich zu addieren seien, trägt der Wortlaut der Klausel hingegen nicht. Auch dem durchschnittlich verständigen Versicherungsnehmer ist völlig klar, dass es bei der Beurteilung von Funktionsbeeinträchtigungen aufgrund einer Verletzung (hier der Wirbelsäule) durch Sachverständige aus verschiedenen Fachbereichen zu Überschneidungen kommen kann und die Gesamtbeeinträchtigung der körperlichen und geistigen Leistungsfähigkeit nicht in einer bloßen Zusammenrechnung der von den Sachverständigen ermittelten – auf ihren Fachbereich bezogene – Einzelwerte besteht.
+[7] 		3.3 Aus Art 2.1.2.2.4 AUB ist für das vom Kläger gewünschte Auslegungsergebnis nichts zu gewinnen. Die Bestimmung bezieht sich gerade nicht auf die Ermittlung des Invaliditätsgrads außerhalb der Gliedertaxe. Sie regelt vielmehr die Feststellung der Gesamtinvalidität bei mehreren nach der Gliedertaxe zu bewertenden Verletzungen sowie bei Zusammentreffen eines nach der Gliedertaxe bestimmten Invaliditätsgrads mit einem außerhalb der Gliedertaxe  bemessenen Invaliditätsgrad.
+[8] 		4. Die Feststellung des Invaliditätsgrads aufgrund der Beeinträchtigung der körperlichen und geistigen Funktionsfähigkeit nach medizinischen Gesichtspunkten stellt eine Tatfrage dar, die im Revisionsverfahren nicht überprüft werden kann (RS0118909). Soweit der Kläger mit seinen Ausführungen in der Rechtsrüge darauf abzielt, dass  anstelle der festgestellten 85%igen eine 100%ige Gesamtinvalidität vorliege, bekämpft er unzulässigerweise die durch die Ergebnisse eines Sachverständigengutachtens gestützte Beweiswürdigung der Vorinstanzen, einen Verstoß des Sachverständigen gegen zwingende Denkgesetze vermag er hingegen nicht darzulegen (RS0043320 [T2, T7], RS0043404).
+[9] 		5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00204.20F.1217.000

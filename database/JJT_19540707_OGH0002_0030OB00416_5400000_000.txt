@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.07.1954
+Geschäftszahl
+3Ob416/54
+Norm
+ABGB §879;
+ABGB §1295 Abs2;
+ABGB §1438;
+Handelsgesetzbuch §414 Abs3;
+Allgemeine Österreichische Spediteurbedingungen §32;
+Kopf
+SZ 27/197
+Spruch
+Die Aufrechnung von Gegenansprüchen des Auftraggebers ist nach § 32 der Allgemeinen österreichischen Spediteurbedingungen nur dann zulässig, wenn diese anerkannt werden oder dem Auftraggeber durch rechtskräftiges Urteil zuerkannt wurden.
+Vertragsmäßiger Ausschluß der Aufrechnung ist nicht sittenwidrig.
+Entscheidung vom 7. Juli 1954, 3 Ob 416/54.
+I. Instanz: Bezirksgericht Bad Ischl; II. Instanz: Kreisgericht Wels.
+Text
+Nach dem unbestrittenen Sachverhalt schuldet die beklagte Partei dem Kläger für laufend erbrachte Transportleistungen einen Betrag von 2113.53 S, welcher Betrag mit der vorliegenden Klage begehrt wurde. Dagegen machte die beklagte Partei Gegenforderungen aus dem Titel des Schadenersatzes im Gesamtbetrage von 6124.50 S einredeweise geltend.
+Das Erstgericht gelangte zur Stattgebung des Klagebegehrens. Es hielt die Aufrechenbarkeit der eingewendeten, überdies nicht rechtzeitig angemeldeten (§ 40 AÖSp., § 10 SVS) Gegenforderungen aus dem Titel des Schadenersatzes gemäß § 32 AÖSp. überhaupt nicht für zulässig und gelangte im übrigen zu dem Ergebnis, daß die eingewendeten Gegenforderungen dem Gründe und der Höhe nach nicht zu Recht bestehen.
+Der dagegen erhobenen Berufung der beklagten Partei wurde teilweise Folge gegeben und das angefochtene Urteil dahin abgeändert, daß die klagsweise geltend gemachte Forderung im Betrag von 2113.53 S als zu Recht bestehend, die aufrechnungsweise eingewendeten Schadenersatzforderungen mit einem Teilbetrag von 395 S als zu Recht bestehend, mit einem Teilbetrag von 5613 S jedoch als nicht zu Recht bestehend erkannt wird.
+Der Oberste Gerichtshof stellte das Ersturteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Da nach den in dieser Richtung unangefochtenen Feststellungen des Erstgerichtes den laufenden Transportleistungen des Klägers und daher auch dem letzten Frachtgeschäft, aus welchem die eingewendeten Schadenersatzforderungen resultieren, nach der zwischen den Parteien stillschweigend getroffenen Vereinbarung die Allgemeinen österreichischen Speditionsbedingungen (AÖSp.) als Vertragsinhalt zugrunde gelegt wurden, gelten diese im vollen. Umfang auch dann, wenn eine Partei ihren Inhalt nicht völlig gekannt hat. Es kann in diesen Fällen insoweit von einer materiellen Normenwirkung gesprochen werden, als die Parteien durch die von ihnen gewollte Zugrundelegung der AÖSp. sich einer bereitliegenden, in sich abgeschlossenen Rechtsordnung unterwerfen, die sie demnach auch im vollen Umfang gegen sich gelten lassen müssen. Nun bestimmt § 32 der AÖSp., daß gegenüber Ansprüchen des Spediteurs eine Aufrechnung oder Zurückhaltung nur mit fälligen Gegenansprüchen des Auftraggebers, denen ein Einwand nicht entgegensteht, zulässig ist. Es sind daher die von der beklagten Partei einredeweise geltend gemachten Gegenforderungen aus dem Titel des Schadenersatzes, welche vom Kläger schon dem Gründe nach bestritten wurden, im Hinblick auf § 32 der AÖSp. zu einer Aufrechnung gegenüber den Ansprüchen des Klägers aus den von ihm erbrachten Transportleistungen überhaupt nicht tauglich, da nach der vorbezogenen Bestimmung die Aufrechnung von Gegenansprüchen des Auftraggebers nur dann zulässig erscheint, wenn diese anerkannt werden oder dem Auftraggeber durch rechtskräftiges Urteil zuerkannt wurden. Der vertragsmäßige Ausschluß der Aufrechnung kann aber auch nicht als gegen die guten Sitten verstoßend angesehen werden, da die abgesonderte Geltendmachung der Gegenansprüche, allenfalls auch im Wege der Widerklage, dem Auftraggeber jedenfalls offensteht, so daß ihm dadurch ein wesentlicher Vermögensschaden nicht erwachsen kann. Bemerkt soll werden, daß in gleicher Weise wie im § 32 der Allgemeinen deutschen Speditionsbedingungen, die den Allgemeinen österreichischen Speditionsbedingungen zugrunde lagen, auch die Allgemeinen deutschen Versicherungsbedingungen für die Krankheitskostenversicherung im § 6 Abs. 4 b sowie die Allgemeinen deutschen Versicherungsbedingungen der Privaten Krankenversicherung in § 11 Z. 6 die Bestimmung enthalten, daß eine Aufrechnung oder die Geltendmachung eines Zurückbehaltungsrechtes seitens des Versicherungsnehmers gegen Forderungen der Gesellschaft vertraglich ausgeschlossen ist. Auch die Rechtsprechung des Obersten Gerichtshofes hat Bedenken gegen den vertragsmäßigen Ausschluß der Aufrechnung im Sinne einer Sittenwidrigkeit nicht geäußert (vgl. SZ. V/106; ZBl. 1926; 101). § 32 AÖSp. bedeutet daher auch eine Abänderung der im § 414 Abs. 3 HGB. grundsätzlich zugelassenen Aufrechnung von Ansprüchen wegen Verlust, Minderung, Beschädigung oder Verspätung gegen Ansprüche des Spediteurs aus demselben Speditionsvertrag. Aus diesen Erwägungen konnte demnach auch der vom Berufungsgericht im Teilbetrag von 395 S als zu Recht bestehend festgestellten Schadenersatzforderung, deren Rechtsbestand zu prüfen entbehrlich war, die Eignung zur Aufrechnung mit der klagsweise geltend gemachten Forderung des Spediteurs von 2113.53 S nicht zuerkannt werden.

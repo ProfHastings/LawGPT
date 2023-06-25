@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.06.2015
+Geschäftszahl
+3Ob113/15m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden, die Vizepräsidentin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch sowie die Hofrätin Dr. A. Kodek als weitere Richter in der Rechtssache der klagenden Partei E*****GmbH, *****, vertreten durch Kosch & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei M***** AG, *****, vertreten durch Dr. Wolfgang Vanis Rechtsanwalt GmbH in Wien, wegen 48.375,80 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 18. März 2015, GZ 39 R 6/15v-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Berufungsgericht beurteilte den (nach Abrechnung der geleisteten Akontozahlungen) erhobenen Anspruch auf Betriebskostenfehlbeträge für das Jahr 2010, der sich auf ein unstrittig nicht dem Vollanwendungsbereich des MRG und damit der Vorschrift des § 21 Abs 3 MRG unterliegendes Objekt bezieht, als nicht verjährt. Es entspreche der Verkehrsübung, die Betriebskostenabrechnung im ersten Halbjahr des Folgejahres zu erstellen. Nur bei verspäteter Rechnungslegung komme es für den Beginn der Verjährung darauf an, zu welchem Zeitpunkt die Rechnungslegung objektiv möglich gewesen wäre.
+In ihrer außerordentlichen Revision führt die Beklagte aus, es komme nicht auf die Verkehrsüblichkeit der Rechnungslegung sondern nur darauf an, wann die Rechnungslegung objektiv möglich war.
+Rechtliche Beurteilung
+Damit wird keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufgezeigt:
+Es entspricht der Rechtsprechung des Obersten Gerichtshofs, dass für den Verjährungsbeginn zwar grundsätzlich der Zeitpunkt maßgeblich ist, zu dem die Rechnungslegung möglich war, dass aber - vom hier nicht vorliegenden Fall eines vereinbarten Rechnungslegungs-zeitpunkts abgesehen (RIS-Justiz RS0021821 [T14] - eine abweichende Verkehrsübung zu beachten ist (RIS-Justiz RS0021821 [T4]; 7 Ob 620/95; 2 Ob 2254/96a SZ 71/69; vgl auch 4 Ob 48/02s; M. Bydlinski in Rummel³ § 1486 Rz 5 letzter Absatz mwN).
+Die Verkehrsüblichkeit der Abrechnung von Betriebskosten (erst) zum Ende des auf das Abrechnungsjahr folgenden Halbjahrs bezweifelt die Revision nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00113.15M.0617.000

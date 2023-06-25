@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.09.2015
+Geschäftszahl
+17Os18/15y
+Kopf
+Der Oberste Gerichtshof hat am 14. September 2015 durch den Präsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Ratz als Vorsitzenden, die Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Danek und Hon.-Prof. Dr. Kirchbacher sowie die Hofräte des Obersten Gerichtshofs Dr. Nordmeyer und Dr. Oberressl in Gegenwart des Rechtspraktikanten Mag. Wüstner als Schriftführer in der Strafsache gegen Gerhard D***** und einen anderen Angeklagten wegen des Verbrechens des Missbrauchs der Amtsgewalt nach § 302 Abs 1 StGB und weiterer strafbarer Handlungen über die Nichtigkeitsbeschwerde, die Berufung und die „Beschwerde“ des genannten Angeklagten gegen das Urteil des Landesgerichts für Strafsachen Wien als Schöffengericht vom 16. März 2015, GZ 51 Hv 67/14s-99, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Zur Entscheidung über die Berufung und die „Beschwerde“ werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Dem Angeklagten Gerhard D***** fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+Mit dem angefochtenen Urteil wurde - soweit für das Verfahren über die Nichtigkeitsbeschwerde von Belang - Gerhard D***** mehrerer (vgl aber RIS-Justiz RS0121981) Verbrechen des Missbrauchs der Amtsgewalt nach § 302 Abs 1 StGB schuldig erkannt.
+Danach hat er in Wien als Beamter der Polizeiinspektion W***** mit dem Vorsatz, dadurch die jeweils betroffenen Personen in ihrem Recht auf Datenschutz (§ 1 DSG) zu schädigen, seine Befugnis, im Namen des Bundes als dessen Organ in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, wissentlich missbraucht, indem er ohne dienstliches Erfordernis aus folgenden (zur Erfüllung dienstlicher Aufgaben eingerichteten [vgl US 9]) elektronischen Datenbanken nachgenannte Datensätze abfragte, und zwar
+(1) aus den Protokoll- und Anzeigedaten (PAD)
+(a) am 18. September 2013 „Maya P*****“;
+(b) am 25. Oktober 2013 „Sebo B*****“;
+(2) aus dem Zentralen Kraftfahrzeugregister (KZR)
+(a) am 11. Juli 2013 „Markus H*****“;
+(b) am 13. Oktober 2013 „D*****“;
+(3) aus den Personenfahndungs- und Informationsdaten (PFI) und dem Schengener Informationssystem (SIS) am 14. Oktober 2013 „Brigitte D*****“ und „Brigitte H*****“.
+Dagegen richtet sich die auf § 281 Abs 1 Z 5, 9 lit a und (richtig:) 10a StPO gestützte Nichtigkeitsbeschwerde des Angeklagten.
+Rechtliche Beurteilung
+Nach den Urteilskonstatierungen fragte der Angeklagte aus den genannten Datenbanken, zu denen er „als Exekutivbediensteter unbeschränkt Zugang“ hatte, mit Bezug auf angeführte Namensträger - ohne deren Zustimmung (vgl RIS-Justiz RS0089544 [T1]) und ohne dienstliche Rechtfertigung - nicht allgemein zugängliche (vgl RIS-Justiz RS0114637 [T6], RS0114317 [T4]) personenbezogene Daten ab (US 9 f, 14). Dabei handelte er im Wissen, dadurch die ihm als Polizeibeamten bloß für dienstliche Zwecke eingeräumte Befugnis, solche Abfragen durchzuführen, zu missbrauchen. Zudem hielt er es ernstlich für möglich, nahm aber billigend in Kauf, dadurch die „abgefragten Personen“ in ihrem „jeweiligen Recht auf Datenschutz“ zu schädigen (US 10).
+Der Mängelrüge (Z 5) zuwider ist weder für die Schuld- noch für die Subsumtionsfrage von Bedeutung, aus welchen dienstfremden Interessen heraus der Rechtsmittelwerber die von den Schuldsprüchen 2/b und 3 erfassten Datenabfragen vornahm (RIS-Justiz RS0088761). Inwieweit als übergangen (Z 5 zweiter Fall) reklamierte Teile der - vom Erstgericht ohnedies gewürdigten (US 12) - Verantwortung des Angeklagten zur „Motivation der getätigten Abfragen“ in erörterungsbedürftigem Widerspruch zu (diese Schuldsprüche tragenden) Feststellungen über entscheidende Tatsachen (US 9 f, 14) stehen sollten, macht die Beschwerde nicht klar.
+Dass es für die Subsumtion des inkriminierten Verhaltens als Verbrechen des Missbrauchs der Amtsgewalt - über die vom Erstgericht getroffenen (US 9 f, 14) hinaus - noch weiterer Konstatierungen dazu bedurft haben soll (Z 9 lit a), „worin“ sich der Schädigungsvorsatz des Angeklagten „konkret manifestiert“ habe und „inwieweit“ schutzwürdige Geheimhaltungsinteressen bestimmter Personen „tatsächlich verletzt“ worden seien, wird ohne Ableitung aus dem Gesetz bloß behauptet (siehe aber RIS-Justiz RS0116565).
+Hinzugefügt sei, dass der Tatbestand des § 302 Abs 1 StGB, der in Bezug auf die Rechtsschädigung bloß überschießende Innentendenz regelt, den Eintritt eines Schadens nicht voraussetzt (RIS-Justiz RS0096790; RS0095844 [T9, T10]).
+Die gesetzmäßige Ausführung einer Diversionsrüge (Z 10a) erfordert eine methodisch korrekte Argumentation auf Basis der Tatsachenfeststellungen unter Beachtung der Notwendigkeit des kumulativen Vorliegens sämtlicher Diversionsvoraussetzungen (RIS-Justiz RS0124801, RS0116823).
+Soweit das dazu erstattete Rechtsmittelvorbringen bloß auf eigenständig entwickelten Überlegungen zu einzelnen Tatumständen beruht, ohne am Urteilssachverhalt Maß zu nehmen, ist es nicht nach diesen Anfechtungskriterien ausgerichtet. Die Behauptung des Fehlens spezialpräventiver Hemmnisse (§ 198 Abs 1 StPO) setzt sich mit dem Argument, der Angeklagte habe „gezeigt, dass er das Unrecht seiner Taten einsieht“, über die (just gegenteilige) Urteilsannahme (US 15) hinweg, wonach er keine Verantwortung für das ihm zur Last gelegte Tatgeschehen übernommen habe (zu dieser Voraussetzung diversionellen Vorgehens RIS-Justiz RS0116299, RS0126734). Die Beschwerdeauffassung nicht schwerer Schuld (§ 198 Abs 2 Z 2 StPO) berücksichtigt zwar den von den Tatrichtern angenommenen Milderungsgrund des bisher ordentlichen Lebenswandels (§ 34 Abs 1 Z 2 StGB), ignoriert jedoch die (zu Recht) als erschwerend gewertete „mehrfache Tatwiederholung“ (§ 33 Abs 1 Z 1 StGB). Damit gelangt der geltend gemachte (materielle) Nichtigkeitsgrund nicht zu prozessförmiger Darstellung.
+Die Nichtigkeitsbeschwerde war daher gemäß § 285d Abs 1 StPO schon bei nichtöffentlicher Beratung sofort zurückzuweisen, woraus die Zuständigkeit des Oberlandesgerichts zur Erledigung der Berufung und der (ebenfalls gegen das Urteil angemeldeten) „Beschwerde“ folgt (§ 285i StPO). Dabei ist es an den verfehlten Schuldspruch wegen mehrerer Verbrechen des Missbrauchs der Amtsgewalt (dazu RIS-Justiz RS0121981), der sich in concreto nicht zum Nachteil des Angeklagten ausgewirkt hat (vgl US 15) und daher von Amts wegen (§ 290 Abs 1 zweiter Satz StPO) nicht aufzugreifen war (Ratz, WK-StPO § 290 Rz 22 ff), angesichts der hier getroffenen Klarstellung nicht gebunden (RIS-Justiz RS0118870).
+Die Kostenentscheidung beruht auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0170OS00018.15Y.0914.000

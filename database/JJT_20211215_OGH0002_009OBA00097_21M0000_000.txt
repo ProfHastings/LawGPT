@@ -1,0 +1,51 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2021
+Geschäftszahl
+9ObA97/21m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Hopf als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Hon.-Prof. Dr. Dehn sowie die fachkundigen Laienrichter Helmut Purker (aus dem Kreis der Arbeitgeber) und Prof. Dr. Klaus Mayr (aus dem Kreis der Arbeitsnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei V*, vertreten durch Dr. Stefan Lahnsteiner, Rechtsanwalt in Ebensee, gegen die beklagten Partei G* GmbH, *, vertreten durch Bauer-Kerschbaummayr, Rechtsanwälte GbR in Linz, wegen 7.284,86 EUR brutto sA über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 15. Juni 2021, GZ 11 Ra 33/21h-20, mit dem der Berufung der klagenden Partei gegen das Urteil des Landesgerichts Wels als Arbeits- und Sozialgericht vom 17. März 2021, GZ 18 Cga 97/20k-16, nicht Folge gegeben wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der Beklagten die mit 833,88 EUR (darin enthalten 138,98 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Klägerin war ab 11. 11. 2019 bei der Beklagten beschäftigt. Mit Schreiben vom 3. 9. 2020 (zugestellt am 4. 9. 2020) kündigte die Beklagte das Arbeitsverhältnis zum 15. 10. 2020 auf.
+[2] 		Am 29. 5. 2020 hatte die Beklagte im Zusammenhang mit der „Corona-Krise“ mit dem Betriebsrat die von der Wirtschaftskammer und dem Österreichischen Gewerkschaftsbund verfasste „Corona-Kurzarbeit Sozialpartnervereinbarung/Betriebsvereinbarung“ in der Formularversion 7.0 als Betriebsvereinbarung abgeschlossen. Der Zeitpunkt des Ausspruchs der Kündigung der Klägerin fällt in die Geltungsbereich der „Corona-Kurzarbeit Sozialpartnervereinbarung/Betriebsvereinbarung“ (bis 30. 9. 2020).
+[3] 		Die Betriebsvereinbarung beinhaltet unter anderem folgende Regelungen:
+„2. Aufrechterhaltung des Beschäftigtenstands:
+a. Während der Kurzarbeit (Behaltepflicht):
+Der/die Arbeitgeber/In ist verpflichtet, jenen Beschäftigtenstand im Betrieb aufrecht zu erhalten, der unmittelbar vor Beginn des Kurzarbeitszeitraums ... bestanden hat, sofern nicht vorher festgelegte Änderungen, welche gemäß lit c zulässig sind, berücksichtigt werden (Behaltepflicht).
+[...]
+b. Nach der Kurzarbeit (Behaltefrist):
+Die Dauer der Behaltepflicht nach Ende der Kurzarbeit beträgt einen Monat.
+[...]
+c. Gemeinsame Bestimmungen:
+Arbeitgeberkündigungen dürfen frühestens nach Ablauf der Behaltefrist ausgesprochen werden. Davon ausgenommen sind jedoch Kündigungen in den unten angeführten Fällen.
+Folgende Beendigungen während der Kurzarbeit bzw innerhalb der Behaltefrist lösen keine Auffüllverpflichtung aus:
+[...]
+Folgenden Beendigungen während der Kurarbeit bzw der Behaltefrist führen zu einer Auffüllverpflichtung:
+[...]
+Kündigungen durch den/die Arbeitgeber/In aus personenbezogenen Gründen, wenn die Kündigung während der Kurzarbeit oder vor Ablauf der Behaltefrist ausgesprochen wird.
+[…]“
+[4] 		Die Klägerin begehrt den Klagebetrag als Kündigungsentschädigung für den Zeitraum 16. 10. 2020 bis 31. 12. 2020 und bringt vor, im Hinblick auf das Ende der Kurzarbeitsphase am 30. 9. 2020 wäre eine Kündigung unter Berücksichtigung der Behaltezeit frühestens am 1. 11. 2020 möglich gewesen. Die dennoch ausgesprochene Arbeitgeberkündigung sei rechtsunwirksam. Und fristwidrig. Personenbezogene Gründe seien nicht vorgelegen. Mit 11. 11. 2020 habe ein neues Arbeitsjahr begonnen, weshalb ihr ab diesem Zeitpunkt wiederum ein neuer Entgeltfortzahlungsanspruch (bis einschließlich 28. 1. 2021) zustehe.
+[5] 		Die Beklagte bestreitet. Die Kündigung der Klägerin während der Kurzarbeitsphase sei weder unwirksam noch fristwidrig erfolgt.
+[6] 		Das Erstgericht wies das Klagebegehren ab.
+[7] 		Das Berufungsgericht gab der Berufung der Klägerin nicht Folge. Eine am Wortlaut und Zweck der Sozialpartnervereinbarung orientierte Auslegung ergebe, dass den einzelnen Arbeitnehmern kein subjektiver Anspruch auf Bestand des Arbeitsverhältnisses eingeräumt werden sollte. Der Schutzzweck der Kündigungsbeschränkung spreche bei Akzeptanz des Kündigungsausspruchs durch den betroffenen Arbeitnehmer jedenfalls gegen einen diesem daraus zukommenden finanziellen Ausgleichsanspruch.
+[8] 		Die ordentliche Revision wurde vom Berufungsgericht als zulässig erachtet, weil der Frage, ob aus der Sozialpartnervereinbarung über die Kurzarbeit ein besonderer Kündigungsschutz abzuleiten sei (bzw im Fall der Akzeptanz der Kündigung Anspruch auf Kündigungsentschädigung bestehe), eine über den Einzelfall hinausgehende Bedeutung zukomme.
+Rechtliche Beurteilung
+[9] 		Die Revision der Klägerin ist entgegen dem – den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts (§ 508a Abs 1 ZPO) – mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+[10] 		1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (RS0112921, RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels aufgeworfene erhebliche Rechtsfrage fällt weg, wenn diese durch eine Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RS0112921 [T5]). Dies ist hier der Fall:
+[11] 		2.1 Der Oberste Gerichtshof hat in der Entscheidung vom 22. 10. 2021, 8 ObA 48/21y, zu der vom Berufungsgericht für erheblich erachteten Frage mit eingehender Begründung Stellung genommen. Zusammenfassend wurde die Frage, ob die Kündigungsbeschränkungen in einer vergleichbaren Kurzarbeitsvereinbarung bloß den Beschäftigtenstand in dem Unternehmen schützen sollen oder auch dem Arbeitnehmer einen individuellen Kündigungsschutz gewähren soll, dahin gelöst, dass sich aus den Bestimmungen des § 37b AMSG in Verbindung mit den maßgeblichen Regelungen der Kurzarbeitsvereinbarungen keine Unwirksamkeit einer während der Kurzarbeit oder der anschließenden Behaltefrist ausgesprochenen Kündigung ergibt, sondern die Förderung im Rahmen einer allfälligen Kündigungsanfechtung bei der Beurteilung des Vorliegens „betrieblicher Erfordernisse“ für die Kündigung (§ 105 Abs 3 Z 2 lit b ArbVG) zu berücksichtigen ist. Ebensowenig resultiert daraus eine Änderung der Kündigungsfristen und -termine.
+[12] 		2.2 In der Entscheidung vom 29. 11. 2021, 8 ObA 50/21t, hat der Oberste Gerichtshof an die Ausführungen in der Entscheidung 8 ObA 48/21y anknüpfend weiters zu der Frage Stellung genommen, ob es einen Unterschied mache, wenn der (die) Arbeitnehmer/in (Kläger/in) die Sozialpartnervereinbarung zur Kurzarbeit mitunterfertigt hat und ist zu dem Ergebnis gelangt, aus der Formulierung, dass Arbeitgeberkündigungen frühestens nach Ablauf der Behaltefrist ausgesprochen werden dürfen, sei auch kein vereinbarter individueller Kündigungsschutz abzuleiten. Auf die Begründung dieser Entscheidung kann ebenfalls verwiesen werden.
+[13] 		3.1 Im vorliegenden Fall erfolgte die Umsetzung der Sozialpartnervereinbarung nicht durch Abschluss einer Einzelvereinbarung, sondern mittels Betriebsvereinbarung. Deren Text ist exakt jener, der in der Formularversion der Sozialpartnervereinbarung vorgesehen ist (und dort „gleichzeitig“ als eine „Betriebsvereinbarung/Vereinbarung über Begleitmaßnahmen während der Kurzarbeit insbesondere gemäß § 97 Abs 1 Z 13 ArbVG [Betriebsvereinbarung über vorübergehende Verkürzung der Arbeitszeit und eine damit verbundene Nettogarantie] ...“ bezeichnet wird).
+[14] 		3.2 Haben sich Arbeitgeber und Arbeitnehmer durch Abschluss der Betriebsvereinbarung der Sozialpartnervereinbarung unterworfen, ist die Auslegung der Sozialpartnervereinbarung auch für die Auslegung der Betriebsvereinbarung maßgeblich. Lässt sich aus der Sozialpartnervereinbarung im Wege objektiver Auslegung kein individueller Kündigungsschutz ableiten, trifft dies auch auf die Betriebsvereinbarung zu. Die in der Literatur nicht einheitlich beantwortete Frage, ob ein individueller Kündigungsschutz in einer Betriebsvereinbarung nur mittels einer unechten Betriebsvereinbarung erreichbar wäre oder doch auf der Grundlage des § 97 Abs 1 Z 22 ArbVG geregelt werden könnte, kann daher dahingestellt bleiben (bejahend Pfeil, Corona-Kurzarbeit und Bestandsschutz, DRdA 2021, 179 [187]; aA Marhold ASok 2021, 238 [24]).
+[15] 		4. Auch aus der Entscheidung 9 ObA 208/01f lässt sich für den Standpunkt der Revisionswerberin nichts ableiten. Die Frage, ob die dort zu beurteilende Betriebsvereinbarung einen individuellen Kündigungsschutz gewährt, konnte dahingestellt bleiben, weil der Unternehmensbereich, dem der damalige Kläger zugehörig war, von der Kurzarbeitsvereinbarung ausgenommen war.
+[16] 		5. Den weiteren Revisionsausführungen ist nur noch entgegenzuhalten, dass dann, wenn das Arbeitsverhältnis vor Beginn des neuen Arbeitsjahres endet und kein neues Arbeitsjahr zu laufen beginnt, § 5 EFZG trotz weiter dauernden Krankenstandes keine geeignete Grundlage dafür abgibt, einen neuen Entgeltfortzahlungsanspruch nach § 2 Abs 1 EFZG entstehen zu lassen (RS0126339). Davon weicht die Rechtsansicht der Vorinstanzen nicht ab, mit dem fiktiven Beginn eines neuen Arbeitsjahres am 11. 11. 2020 sei kein weiterer Anspruch auf Entgeltfortzahlung entstanden.
+[17] 		6. Die Beurteilung der Vorinstanzen, das Klagebegehren sei abzuweisen, entspricht damit höchstgerichtlicher Rechtsprechung. Die Revision der Klägerin war daher mangels einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO zurückzuweisen.
+[18] 		7. Die Kostenentscheidung beruht auf den §§ 41, 50 ZPO. Die Beklagte konnte bei Einbringung der Revisionsbeantwortung die Unzulässigkeit der Revision nicht erkennen, weil die Entscheidungen des Obersten Gerichtshofs 8 ObA 48/21y und 8 ObA 50/21t zu dem Zeitpunkt noch nicht vorlagen (RS0123861).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:009OBA00097.21M.1215.000

@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob185/19k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka weitere Richter in der Rechtssache der klagenden Partei I***** P*****, vertreten durch Mag. Klaus P. Pichler, Rechtsanwalt in Dornbirn, gegen die beklagte Partei W***** AG *****, vertreten durch Musey rechtsanwalt gmbh in Salzburg, wegen 10.370 EUR sA und Feststellung, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Feldkirch als Berufungsgericht vom 6. August 2019, GZ 3 R 167/19k-66, womit das Teil- und Zwischenurteil des Bezirksgerichts Feldkirch vom 9. Mai 2019, GZ 8 C 603/16v-62, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.017,90 EUR (darin enthalten 169,65 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Klägerin hat mit der Beklagten einen Betriebsunterbrechungsversicherungsvertrag – „Businessschutz“ abgeschlossen. Dem Versicherungsvertrag wurden ua die Allgemeinen Bedingungen für die Betriebsunterbrechungs-Versicherung für freiberuflich und selbstständig Tätige (ABFT 1995) zugrundegelegt.
+Die ABFT 1995 lauten auszugsweise:
+„Artikel 1 Gegenstand und Umfang der Versicherung
+1. Soweit eine gänzliche oder teilweise Unterbrechung des versicherten Betriebs (Betriebsunterbrechung) durch einen Sach- oder Personenschaden (Pkt. 2. und 3.) verursacht wird, ersetzt der Versicherer nach den folgenden Bestimmungen den dadurch entstehenden Unterbrechungsschaden (Art. 3)
+[...]
+3. Als Personenschaden im Sinne des Abs. 1 gelten:
+3.1. die völlige (100%ige) Arbeitsunfähigkeit der namentlich genannten, den Betrieb verantwortlich leitenden Person wegen Krankheit oder Unfallfolgen.
+3.1.1. Die völlige (100%ige) Arbeitsunfähigkeit beginnt, wenn die den Betrieb verantwortlich leitende Person ihre berufliche Tätigkeit nach objektivem ärztlichen Urteil in keiner Weise ausüben kann und auch nicht ausübt; sie endet, wenn diese Person nach medizinischem Befund wieder arbeitsfähig ist oder ihre berufliche Tätigkeit wieder ausübt.
+3.1.2. Krankheit ist ein nach dem allgemein anerkannten Stand der medizinischen Wissenschaft anormaler körperlicher oder geistiger Zustand.
+[…]
+Artikel 6 Haftungszeit, Haftungssumme, Ende des Unterbrechungsschadens
+[...]
+2. Der Unterbrechungsschaden endet:
+[…]
+2.3. zum Zeitpunkt, in dem objektiv feststeht, dass der versicherte Betrieb nicht mehr weitergeführt werden kann, insbesondere bei dauernder Arbeitsunfähigkeit oder Tod der den Betrieb verantwortlich leitenden Person.
+[…].“
+Das Berufungsgericht ließ die ordentliche Revision nachträglich mit der Begründung zu, dass Rechtsprechung zur Frage fehle, ob allein die Tatsache der Unterlassung der Abmeldung des Gewerbes auf den Fortsetzungswillen schließen lasse und daher der Annahme einer Betriebsbeendigung entgegenstehe.
+Rechtliche Beurteilung
+Die Entscheidung hängt entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508 Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht von der Lösung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ab. Die Zurückweisung der Revision kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Nach ständiger Rechtsprechung handelt es sich bei der Betriebsunterbrechungsversicherung um eine Sachversicherung, bei der der Betrieb und nicht die Person des Betriebsinhabers versichert ist (RS0080975). Der Tatbestand der Betriebsunterbrechung ist erfüllt, wenn der Betrieb infolge eines versicherten Personen- oder Sachschadens oder eines sonstigen Verhinderungsgrundes in seiner Leistungsfähigkeit beeinträchtigt ist (RS0080975 [T7]). Leistungen aus der Betriebsunterbrechungsversicherung sind nur zu erbringen, wenn eine Fortführung des Betriebs ernstlich ins Auge gefasst wird, nicht aber im Fall einer Betriebsbeendigung. Versicherungsschutz besteht aber auch dann, wenn die Wiederaufnahme des Betriebs zwar beabsichtigt, letztlich aber aus besonderen Gründen nicht möglich ist (7 Ob 137/14v, 7 Ob 46/19v; RS0080974, insbes [T2]).
+2. Nach Art 6.2.3 ABFT 1995 endet der Unterbrechungsschaden zu dem Zeitpunkt, in dem objektiv feststeht, dass der versicherte Betrieb nicht mehr weitergeführt werden kann, insbesondere bei dauernder Arbeitsunfähigkeit der den Betrieb verantwortlich leitenden Person. Der durchschnittlich verständige Versicherungsnehmer kann die Bestimmung nur dahin verstehen, dass es für die Beurteilung der Dauer des Unterbrechungsschadens primär auf den objektiv zu beurteilenden Zeitpunkt des Eintritts der Arbeitsunfähigkeit ankommt, also den Zeitpunkt, der grundsätzlich zum endgültigen Stillstand des Betriebs führt. Hier steht fest, dass die klagende Einzelunternehmerin seit 17. 5. 2016 (und fortdauernd) zu 100 % arbeitsunfähig ist. Dass geplant war, das Gewerbe in irgendeiner Weise trotz ihrer Arbeitsunfähigkeit fortzuführen, es daher dennoch nicht zum Stillstand des Betriebs kommen sollte, wurde nicht vorgebracht. Die Klägerin will nur daraus, dass sie auf eine spätere Arbeitsfähigkeit gehofft und deshalb bloß ihr Gewerbe nach § 93 Abs 1 GewO ruhiggestellt hat, ableiten, sie habe einen relevanten Fortführungswillen gehabt. Die Rechtsansicht des Berufungsgerichts, dass sich die Klägerin damit nicht im Sinn der Judikatur auf eine trotz Arbeitsunfähigkeit mögliche Betriebsfortführung stützt, die lediglich aus besonderen Gründen letztlich nicht möglich geworden wäre, ist nicht zu beanstanden. Folgte man der Ansicht der Klägerin könnte der Versicherungsnehmer durch unbegründete subjektive Hoffnungen auf eine objektiv nicht mögliche Besserung seines Zustands das Ende des Unterbrechungsschadens jederzeit nach Belieben hinausschieben.
+4. Insgesamt wird keine entscheidungsrelevante, erhebliche Rechtsfrage aufgezeigt.
+5. Die Kostenentscheidung beruht auf §§ 41 Abs 1, 50 Abs 1 ZPO. Da die Beklagte in ihrer Revisionsbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, diente der Schriftsatz zur zweckentsprechenden Rechtsverteidigung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00185.19K.0424.000

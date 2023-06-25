@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.06.2016
+Geschäftszahl
+8Ob44/16b
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Brenn und die Hofrätinnen Dr. Korn und Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Partei I***** GmbH, *****, vertreten durch Dr. Friedrich Schubert, Rechtsanwalt in Wien, gegen die beklagte Partei F***** S*****, wegen 250.000 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien vom 4. April 2016, GZ 2 R 30/16w-5, mit dem der Beschluss des Handelsgerichts Wien vom 8. Februar 2016, GZ 47 Cg 94/15y-2, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Die Beschlüsse der Vorinstanzen werden behoben und die Rechtssache an das Erstgericht zur neuerlichen Entscheidung zurückverwiesen.
+Die Kosten des Revisionsrekursverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+Die Klägerin beantragte die Erlassung eines Wechselzahlungsauftrags. Dazu legte sie mit ihrer Klage einen eigenen Wechsel (Zahlungsversprechen „Ich zahle“ im Sinn des Art 75 Z 2 WG) im Original vor. Der untere Bereich mit dem vierzeiligen Vordruck zur näheren Bezeichnung der „Ausstellerin“ ist leer; die einzige Unterschrift findet sich links quer neben dem Wechseltext, über dem (ebenfalls querstehenden Vordruck) „Unterschrift“.
+Das Erstgericht wies den Antrag auf Erlassung des Wechselzahlungsauftrags ab und die Klage zurück. Gemäß Art 1 Z 3 WG müsse der Wechsel den Namen des Bezogenen enthalten. Aus dem von der Klägerin vorgelegten Wechsel gehe nicht hervor, wer der Aussteller sei, und damit sei auch der Bezogene nicht erkennbar. Der Wechsel besitze daher nicht alle Erfordernisse der Gültigkeit.
+Das Rekursgericht bestätigte die Entscheidung. Eine Bezeichnung des Ausstellers sei zwar beim eigenen Wechsel gemäß Art 75 WG nicht erforderlich, sondern nur dessen Unterschrift, diese müsse aber den ganzen notwendigen Wechselinhalt decken. Beim eigenen Wechsel ersetze die Unterschrift des Ausstellers gleichzeitig auch sein Akzept, weshalb auf die am Ende der Urkunde zu setzende Unterschrift nicht verzichtet werden könne.
+Der Revisionsrekurs sei zulässig, weil zu der – in ihrer Bedeutung über den Einzelfall hinausgehenden – Frage, ob beim eigenen Wechsel eine Ausstellerunterschrift links quer statt unterhalb des Wechselinhalts genüge, keine Rechtsprechung des Obersten Gerichtshofs vorliege.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist aus dem vom Rekursgericht genannten Grund zulässig. Er ist auch berechtigt.
+1. Ein Wechselzahlungsauftrag kann nur aufgrund eines gültigen und (im Bezug auf seine Echtheit) unbedenklichen Wechsels erlassen werden. Die Voraussetzungen für die Gültigkeit eines Wechsels ergeben sich aus dem WG (Art 1 und 2 WG für den gezogenen und Art 75 und 76 WG für den eigenen Wechsel). Fehlt ein zwingendes Erfordernis, so gilt die Urkunde nicht als Wechsel (8 Ob 101/13f).
+2. Der eigene Wechsel nach Art 75 WG ist ein unbedingtes Zahlungsversprechen des Ausstellers, eine bestimmte Geldsumme zu zahlen, während der gezogene Wechsel (nach Art 1 WG) eine Zahlungsanweisung enthält. Gemäß Art 75 WG, der die Gültigkeitserfordernisse für einen eigenen Wechsel regelt, ist daher – im Unterschied zur Bestimmung des Art 1 Z 3 WG für den gezogenen Wechsel – keine (namentliche) Angabe des Bezogenen notwendig.
+Gemäß Art 75 Z 7 WG hat der eigene Wechsel die Unterschrift des Ausstellers zu enthalten. Die Bezeichnung (der Name) des Ausstellers ist hingegen nicht als Gültigkeitserfordernis genannt. Der Aussteller des eigenen Wechsels haftet gemäß Art 78 Abs 1 WG wie der Akzeptant („Annehmer eines gezogenen Wechsels“) als Hauptwechselschuldner.
+3. Beim gezogenen Wechsel wird für die Unterschrift des Ausstellers gefordert, dass diese auf der Vorderseite unter dem Wechseltext stehen muss, wobei gleichgültig ist, ob sie in der Mitte oder in einer Ecke des Wechsels steht (Baumbach/Hefermehl/Casper, Wechselgesetz und Scheckgesetz²³ Art 1 Rz 19).
+4. Für die gemäß Art 75 Z 7 WG erforderliche Unterschrift des Ausstellers beim eigenen Wechsel ist nach einhelliger Lehre auch ein – wie beim Akzept durch den Bezogenen üblich – auf der Urkunde quer ge-
+schriebener Namenszug eine gültige Unterschrift (Baumbach/Hefermehl/Casper, Wechselgesetz und Scheckgesetz²³ Art 75 Rz 9; Bülow, Wechselgesetz – Scheckgesetz5 Art 75 Rz 11; Wagner, Wechsel und Protest, Kapitel VI Rz 8; Kapfer, Handkommentar zum Wechselgesetz, Art 75 lit K). Dies wird im Wesentlichen damit begründet, dass beim eigenen Wechsel der Aussteller dem Annehmenden gleich steht.
+Dieser Auffassung schließt sich der erkennende Senat an.
+Entgegen der Rechtsansicht des Rekursgerichts lässt sich aus dem Umstand, dass beim eigenen Wechsel nach Art 75 WG der (das unbedingte Zahlungsversprechen abgebende) Aussteller zwangsläufig auch der aus dem Wechsel Verpflichtete ist, kein Argument dafür gewinnen, dass seine Unterschrift nur „unterhalb“ des Textes und nicht auch an einer – wie im Anlassfall – im Vordruck ausdrücklich (und hier sogar ausschließlich) dafür vorgesehenen Stelle seitlich des Textes angebracht werden dürfte. Davon, dass diese Unterschrift den – kurzen, unmissverständlichen – Inhalt des Wechseltextes nicht „decken“ würde, kann hier keine Rede sein. Die vom Rekursgericht zitierte Entscheidung 3 Ob 630/23 ist für den vorliegenden Fall nicht einschlägig, denn sie betrifft einen gezogenen Wechsel.
+5. Der Ausspruch über die Kosten des Revisionsrekursverfahrens beruht auf den §§ 40 und 50 ZPO. Ein Zwischenstreit liegt nicht vor, denn der Beklagte ist noch nicht am Verfahren beteiligt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0080OB00044.16B.0628.000

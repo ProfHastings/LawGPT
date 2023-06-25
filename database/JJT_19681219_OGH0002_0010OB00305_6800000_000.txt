@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.1968
+Geschäftszahl
+1Ob305/68
+Norm
+ABGB §1151;
+ABGB §1165;
+Ratengesetz §1 (2);
+Kopf
+SZ 41/186
+Spruch
+Der Vertrag über die Teilnahme an einem Fernkurs ist auch dann, wenn die Lehrhefte dem Kursteilnehmer ins Eigentum überlassen werden, ein Vertrag eigener Art; auf ihn sind die Bestimmungen des RatG. daher nicht anwendbar.
+Entscheidung vom 19. Dezember 1968, 1 Ob 305/68.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Die klagende Partei begehrt die Verurteilung des Beklagten zur Zahlung des Betrages von 7656 S s. A. mit der Begründung, der Beklagte habe am 21. Februar 1967 bei ihrem Vertreter einen Lochkartenkurs für konventionelle Maschinen und IBM 1401 mit 12 Lehrheften und 5 Tagen Praktikum sowie 12 Hefte Buchhaltung zum Preis von 7656 S, zahlbar in 23 aufeinanderfolgenden Raten zu 319 S, beginnend ab 1. März 1967, bei Terminverlust und 18% Zinsen sowie einer Anzahlung von 319 S bestellt und nichts bezahlt.
+Der Erstrichter wies das Klagebegehren ab; bei dem festgestellten Geschäft - der Vereinbarung einer Teilnahme des Beklagten an einem Fernlehrkurs der klagenden Partei, zu dem sie das Lehrmaterial (die Kurshefte) beistelle, die von den Kursteilnehmern eingesandten Aufgaben überprüfe und mit den Kursteilnehmern schließlich ein 5tägiges Praktikum abhalte - handle es sich zufolge der vereinbarten Zahlungsbedingungen um ein Ratengeschäft, von dem der Beklagte innerhalb der ihm nach dem Ratengesetz für einen Rücktritt zur Verfügung stehenden Frist zurückgetreten sei.
+Das Berufungsgericht hob aus Anlaß der Berufung der klagenden Partei das Urteil des Erstrichters und das diesem vorangegangene Verfahren einschließlich der Klagezustellung als nichtig auf und wies die Klage zurück; die Kosten des Verfahrens erster Instanz und des Berufungsverfahrens hob es gegenseitig auf. Es teilte zwar die Ansicht des Erstrichters, daß ein Ratengeschäft vorliege, lehnte das Argument der klagenden Partei ab, wonach bei einem Fernunterricht das wesentliche die Überprüfung der Aufgaben und die Abhaltung des Praktikums und nicht die Beistellung der Lehrhefte sei, führte aber aus, der Erstrichter habe die sich aus der Bestimmung des § 12 RatG. ergebende absolute Unzuständigkeit des angerufenen Gerichtes übersehen. Der Beklagte habe seinen gewöhnlichen Aufenthalt in G. im Sprengel des Bezirksgerichtes Voitsberg; dort hätte die klagende Partei die Klage einbringen müssen.
+Der Oberste Gerichtshof gab dem Rekurs der klagenden Partei Folge, hob den angefochtenen Beschluß auf und verwies die Rechtssache an das Berufungsgericht mit dem Auftrag zurück, in der Sache selbst zu entscheiden.
+Rechtliche Beurteilung
+Aus der Begründung:
+Vorausgeschickt sei, daß auf den gegenständlich im Inland geschlossenen Vertrag inländisches Recht anzuwenden ist (§ 36, 1. Satz, ABGB.).
+Ein Abzahlungsgeschäft im Sinne des Ratengesetzes ist gemäß § 1 (2) RatG. ein Kaufvertrag über bewegliche körperliche Sachen, in dem sich der Verkäufer verpflichtet, die Sache vor der vollständigen Zahlung des Kaufpreises dem Käufer zu übergeben, dieser aber den Kaufpreis in Teilzahlungen zu entrichten. Der Vertrag über die Teilnahme an einem Fernkurs, bei dem das Kursinstitut das Lehrmaterial beistellt, die eingesandten Aufgaben überprüft und ein Praktikum abhält, ist aber weder ein Kaufvertrag - wie die Vorinstanzen vermeinten - noch ein Werkvertrag - wie die klagende Partei vermeint; kein Kaufvertrag, weil die Überlassung der Kurshefte ins Eigentum der Kursteilnehmer nur ein Teil der anderen, einen integrierenden Bestandteil des Vertrages bildenden Leistungen des Kursinstitutes ist; kein Werkvertrag, weil dieser begrifflich einen Arbeitserfolg, ein Werk, zum Gegenstand hat, dessen Herstellung der Leistende auf eigene Verantwortung übernimmt. Die von der klagenden Partei zu leistenden Korrekturen sind aber als solche schon Vertragsinhalt, nicht etwa ein bestimmter Erfolg dieser Tätigkeit. Der Vertrag auf Erteilung des Fernunterrichtes kann nicht eindeutig einer der im Allgemeinen bürgerlichen Gesetzbuch geregelten Vertragstypen zugeordnet werden; er ist ein Vertrag eigener Art (vgl. EvBl. 1968 Nr. 322, 6 Ob 232/68). Der Vertrag auf Erteilung eines solchen Fernkurses läßt sich mit einer Vereinbarung über die Teilnahme an einem Schreibmaschinenkurs mit mietweiser Überlassung einer Schreibmaschine, bei der der Hauptzweck darin besteht, die Kursteilnehmer zum schließlichen Ankauf der ihnen überlassenen Schreibmaschine zu veranlassen - auf welchen Fall gemäß § 2 RatG. die Bestimmungen dieses Gesetzes sinngemäß anzuwenden sind (vgl. HS. 4343 (31), Edlbacher, Komm. zum Ratengesetz, S. 36) - nicht vergleichen.

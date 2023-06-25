@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.1960
+Geschäftszahl
+5Ob306/60
+Norm
+ABGB §1353;
+KO §156 Abs4;
+Kopf
+SZ 33/89
+Spruch
+Haftung des Ausgleichsbürgen für den wiederaufgelebten Teil der Forderung nach § 156 Abs. 4 KO. nur mangels ausdrücklicher Beschränkung auf die Ausgleichsquote.
+Entscheidung vom 7. September 1960, 5 Ob 306/60.
+I. Instanz: Bezirksgericht Wels; II. Instanz: Kreisgericht Wels.
+Text
+Der Beklagte gab bei der Tagsatzung vom 3. April 1958, bei der in den Konkurssachen der Theresia R. und des Johann R. ein Zwangsausgleich abgeschlossen wurde, folgende Erklärungen zu Protokoll:
+"Ich trete der Schuld der Theresia (bzw. des Johann) R. laut ihres (seines) Zwangsausgleichsantrages vom 4. März 1958 für den Betrag von 50.000 S für die Bezahlung der Ausgleichsquoten für die Gläubiger dritter Klasse, welche mit 6% innerhalb von vierzehn Tagen nach Bestätigung des Zwangsausgleiches durch das Konkursgericht und mit 14% innerhalb eines Jahres nach Bestätigung des Zwangsausgleiches angeboten werden, als Bürge und Zahler bei unmittelbarer Vollstreckbarkeit in mein Vermögen bei."
+Beide Zwangsausgleiche wurden bestätigt. Die Bestätigungsbeschlüsse enthalten über den Inhalt des Zwangsausgleiches hinsichtlich des Bürgen folgenden Hinweis: "Bürge: Josef R., Mühlenvertreter in H., für den Betrag von 50.000 S für die Bezahlung der Ausgleichsquoten der Gläubiger dritter Klasse."
+Infolge Verzuges in der Erfüllung der Ausgleiche trat Wiederaufleben der von der Klägerin im Konkurs angemeldeten Forderung gegenüber den Gemeinschuldnern ein.
+Das Erstgericht verurteilte den Beklagten aus dem Grund des Wiederauflebens zur Zahlung des Betrages von 5784 S 40 g s. A.
+Das Berufungsgericht wies das Klagebegehren auf Zahlung dieses Betrages ab.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Gemäß § 1353 ABGB. kann die Bürgschaft nicht weiter ausgedehnt werden als sich der Bürge ausdrücklich erklärt hat. Da der Beklagte in seiner Erklärung vom 3. April 1958 ausdrücklich nur für die Zahlung der Ausgleichsquoten Bürgschaft geleistet hat, kann er zur Zahlung des darüber hinausgehenden Betrages der Forderung der Klägerin nicht verhalten werden. Richtig ist zwar, daß der Bürge im Zweifel auch für den wiederaufgelebten Teil der Forderung haftet, weil das Wiederaufleben gemäß § 156 Abs. 4 KO. eine gesetzlich vermutete Bestimmung des Zwangsausgleiches darstellt (SZ. XXVI 290). Aber er haftet eben nur im Zweifel, d. h., wenn aus dem Inhalt der Bürgschaftserklärung nichts anderes zu entnehmen ist. In dieser Erklärung kann die Haftung auf die Zahlung der Ausgleichsquote beschränkt werden (Bartsch - Pollak, KO., AO., AnfO., 3. Aufl. II S. 74). Das ergibt sich ganz zwar auch aus dem Wortlaut des § 156 Abs. 4 KO., wonach das Wiederaufleben überhaupt nur eintritt, wenn im Ausgleich nichts anderes bestimmt ist. Hier war eben hinsichtlich der Haftung des Beklagten als Bürgen etwas anderes bestimmt, nämlich daß er nur für die Bezahlung der Ausgleichsquoten Bürgschaft leiste. Zu dem gleichem Ergebnis mußte man auch kommen, wenn man den Umfang der Haftung des Bürgen, der Entscheidung DREvBl. 1941 Nr. 213 folgend, nicht nach dem Inhalt der von ihm abgegebenen Erklärung, sondern nach der Fassung beurteilte, die diese in dem rechtskräftigen Beschluß über den Ausgleich erhält. Denn auch in den den Ausgleich bestätigenden Beschlüssen war der Beklagte als Bürge nur "für den Betrag von 50.000 S für die Bezahlung der Ausgleichsquoten der Gläubiger dritter Klasse" genannt.
+An dieser Beschränkung der Haftung des Beklagten wird auch dadurch nichts geändert, daß der Beklagte den Betrag, den er nach dem Inhalt seiner Bürgschaftserklärung zu zahlen verpflichtet war, nicht zahlte und auch den Betrag von 50.000 S nicht beim Konkursgericht erlegte. Aus welchen gesetzlichen Bestimmungen die Klägerin folgert, daß dieses Versäumnis des Beklagten seine Verpflichtung auch zur Zahlung des wiederaufgelebten Teiles der Forderung zur Folge haben müßte, ist der Revision nicht zu entnehmen.

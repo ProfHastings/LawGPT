@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.11.1950
+Geschäftszahl
+2Ob385/50
+Norm
+ABGB §833;
+ABGB §837;
+ABGB §1008;
+ABGB §1029;
+Kopf
+SZ 23/351
+Spruch
+Der Teilhaber einer gemeinsamen Sache ist im Sinne des § 837 ABGB. auch dann Verwalter, wenn er einzelne Verwaltungshandlungen vornimmt. Der Abschluß eines Pachtvertrages mit außergewöhnlich langer Dauer geht über die Befugnisse eines Verwalters im Sinne des § 837 ABGB. hinaus.
+Entscheidung vom 29. November 1950, 2 Ob 385/50.
+I. Instanz: Bezirksgericht Salzburg; II. Instanz: Landesgericht Salzburg.
+Text
+Das Erstgericht hat dem auf Räumung eines Holzlagerplatzes gerichteten Klagebegehren stattgegeben. Eigentümer des Lagerplatzes seien die beiden Kläger je zur Hälfte. Der Zweitkläger habe ohne Vollmacht und Wissen des Erstklägers im Jahre 1947 nach Angabe des Beklagten einen langjährigen Pachtvertrag mit dem Beklagten geschlossen, ohne daß der Erstkläger nach seiner Rückkehr aus dem Lager Glasenbach die Abmachung genehmigt hätte. Gemäß § 833 ABGB. sei der Zweitkläger ohne die Zustimmung des anderen Hälfteeigentümers zu diesem Rechtsgeschäft nicht befugt gewesen und deshalb müsse der Beklagte, der den Lagerplatz ohne wirksamen Rechtstitel innehabe, diesen räumen.
+Infolge Berufung des Beklagten bestätigte das Berufungsgericht das erstgerichtliche Urteil. Der Vertrag sei nach § 833 ABGB. ungültig. Es brauche auch nicht untersucht zu werden, ob der Zweitkläger als Verwalter des zwischen den Klägern gemeinschaftlichen Gutes im Sinne des § 837 letzter Satz ABGB. anzusehen sei. Denn auch nach dieser Gesetzesstelle wäre der Zweitkläger zum Abschluß des einschneidenden Pachtvertrages mit seiner langen Dauer und Verlängerbarkeit nicht befugt gewesen. Auch der Verwalter nach § 837 ABGB. sei auf die ordentliche Verwaltung im Sinne des § 833 zweiter Satz ABGB. beschränkt. Der Abschluß eines Pachtvertrages über einen bisher von den Klägern benützten Lagerplatz mit äußerst einschneidenden Bedingungen gehöre nicht dazu.
+Der Oberste Gerichtshof hat der Revision der beklagten Partei nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Mit Recht hat das Berufungsgericht auf die Bestimmungen des § 837 ABGB. verwiesen. Nach dem letzten Satz dieser Gesetzesstelle gilt auch ein Teilgenosse als Verwalter des gemeinschaftlichen Gutes, wenn dieser es ohne Auftrag und in Abwesenheit der übrigen Teilnehmer verwaltet (Swoboda, Fragen aus dem Miteigentumsrecht, S. 28). Der Revisionswerber vermißt Feststellungen der Untergerichte darüber, ob der Zweitkläger tatsächlich die Verwaltung des Lagerplatzes geführt habe. Er fügt aber im gleichen Zusammenhang bei, daß seines Erachtens die Verwaltung durch den Zweitkläger außer Frage stehe. Dasselbe supponiert auch das Berufungsgericht und es ist nicht abzusehen, warum der Revisionswerber in diesem Zusammenhang überhaupt den Revisionsgrund der Mangelhaftigkeit des Verfahrens geltend macht. Irgendwelcher weiterer Beweiserhebungen dazu bedurfte es um so weniger, als der Teilhaber nicht nur dann als Verwalter anzusehen ist, wenn er die ganze Verwaltung führt, sondern auch, wenn er nur einzelne Verwaltungshandlungen vornimmt (Klang, II/1, S. 887).
+Wenn der Zweitkläger als Verwalter im Sinne des § 837 ABGB. anzusehen ist, hat er nach dem ersten Satz dieser Gesetzesstelle die Rechte eines Machthabers. Da die Vollmacht nach der Art der Sache nicht schriftlich gegeben worden ist, wird der Umfang der Vertretungsmacht nach § 1029 ABGB. aus dem Gegenstande und der Natur des Geschäftes beurteilt. Es handelt sich um eine Liegenschaftsverwaltung und der Verwalter hat die Macht, alles dasjenige zu tun, was die Verwaltung selbst erfordert und was gewöhnlich damit verbunden ist (§ 1029 zweiter Satz ABGB.). Entgegen der Rechtsansicht des Revisionswerbers steht dem Verwalter deshalb nicht das Recht zu, wichtige Veränderungen vorzunehmen, mag das betreffende Rechtsgeschäft auch nicht im § 1008 ABGB. angeführt sein (Swoboda bei Klang, II/2, S. 851, Ehrenzweig, I/2, S. 154, E. v. 2. Juli 1937, ZBl. 1938, Nr. 4, v. 3. Oktober 1935, RZ. 1936, S. 61). Der in Frage stehende Pachtvertrag mit seiner vom Beklagten behaupteten außergewöhnlich langen Dauer und leichten Verlängerbarkeit geht über den Rahmen einer normalen Bewirtschaftung des Lagerplatzes hinaus, ohne daß es der Erhebung bedurft hätte, ob und inwieweit andere Teile des Platzes an dritte Pächter vergeben worden sind (Klang, a. a. O., S. 878, E. v. 17. Dezember 1935, RZ. 1936, S. 92, v. 16. April 1918, amtl. Slg. 1903). Es ist dem Berufungsgerichte beizupflichten, daß der Pachtvertrag die Befugnisse eines Verwalters nach § 837 ABGB. übersteigt und deshalb unwirksam ist.

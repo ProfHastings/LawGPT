@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.09.1951
+Geschäftszahl
+1Ob639/51
+Norm
+JN §88 Abs2;
+Kopf
+SZ 24/229
+Spruch
+Der Fakturengerichtsstand bei Saldoklagen und bei Klagen aus gemischten Verträgen.
+Entscheidung vom 19. September 1951, 1 Ob 639/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die Klage ist eine auf einen einheitlichen Lieferungsvertrag und auf das zwischen den Streitteile bestehende Kontokorrentverhältnis gegrundete Saldoklage, für welche die örtliche Zuständigkeit auf den Fakturengerichtsstand (§ 88 Abs. 2 JN.) gestützt wird.
+Über die Einrede der örtlichen Zuständigkeit wurde gesondert verhandelt.
+Das Erstgericht hat die örtliche Zuständigkeit des Handelsgerichtes mit der Begründung bejaht, daß es sich im vorliegenden Falle zwar nicht ausschließlich um Warenlieferungen, sondern auch um Arbeitsleistungen handle, daß jedoch eine Trennung der Ansprüche aus Arbeitsleistungen und aus (im übrigen überwiegenden) Warenlieferungen prozeßunökonomisch und im Hinblick auf das bestehende Kontokorrentverhältnis auch undurchführbar sei.
+Das Berufungsgericht wies die Klage zurück, weil das Klagebegehren einen Saldo darstelle, der sich zum Teil aus Warenlieferungen, zum Teil aber aus fakturierten Arbeitsleistungen zusammensetzte, weshalb für letztere Leistungen der Fakturengerichtsstand nicht gegeben sei. Die Klägerin habe die Anspruchstrennung selbst nicht durchgeführt, weshalb die Klage zur Gänze zurückgewiesen werden konnte.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es besteht kein Anlaß, auf die Ausführungen des Revisionsrekurses, daß es im Belieben der Verkäuferin gelegen sei, auf welche Weise sie ihre Forderungen mit einem Guthaben und den weiteren Zahlungen der Käuferin verrechne, einzugehen, weil im vorliegenden Falle ein Saldo aus Warenlieferungen und Arbeitsleistungen eingeklagt wird. Hier kann zur Begründung örtlicher Zuständigkeit, wie dies die Entscheidung des Rekursgerichtes richtig ausführt, nur der allgemeine Gerichtsstand der beklagten Partei angerufen werden. Verfehlt ist der Standpunkt des Revisionswerbers, daß es Sache der Untergerichte gewesen wäre, zu errechnen, auf welche Fakturen der Klägerin die einzelnen Akontozahlungen der Beklagten verrechnet wurden, um festzustellen, für welche Warenlieferungen die Zuständigkeit des Fakturengerichtes gegeben sei. Richtig ist vielmehr die Begründung des Rekursgerichtes, warum die Zurückweisung der Klage zur Gänze vorgenommen werden mußte. Schließlich ist die Konstruktion im Revisionsrekurs abwegig, daß die hier zur Erörterung stehende Rechtsfrage schon dadurch zugunsten der klagenden Partei entschieden sei, daß der Betrag von 91.597.99 RM der Faktura Nummer 9709 schon die Höhe des eingeklagten Saldos per 85.278.07 S übersteige. Denn im vorliegenden Falle wird, wie bereits in einem anderen Zusammenhang gesagt, nicht ein Fakturenbetrag, sondern ein aus mehreren Fakturen unter Berücksichtigung von Gegenforderungen entstandener Saldo eingeklagt.
+Der Begründung der Rekursentscheidung ist ergänzend noch beizufügen:
+Zufolge Pollak (System 1932, S. 320) schließt der Begriff "Ware" den Begriff "Arbeitsleistungen" aus. Laut Neumann (Kommentar, 4. Aufl., zu § 88 JN., S. 220) kann mit Fakturen über persönliche Leistungen nicht der Gerichtsstand des § 88 Abs. 2 JN. begrundet werden. Es kommt daher der Gerichtsstand nur bei Kaufverträgen, nicht aber bei Arbeitsverträgen zur Anwendung. Die Entscheidung GlUNF. 1263 - Slg. Nowak, Neue Folge, II. Band, Nr. 356, schließt Fakturen über Lohnforderungen von der Anwendung des § 88 Abs. 2 JN. begrifflich aus, weil hier die geleistete Arbeit nicht als ein im Handelsverkehr stehendes Sachgut angesehen werden kann. Die Entscheidung GlUNF. 2378 spricht aus, daß der im 1. Absatz des § 88 JN. genannte Gerichtsstand des Erfüllungsortes unter den dort näher bezeichneten Voraussetzungen für alle Arten von Verträgen festgesetzt ist, der 2. Absatz dieser Gesetzesstelle jedoch lediglich den Fall im Auge hat, daß mit der Ware oder schon vor Einlangen derselben eine Faktura des im Gesetz näher bezeichneten Inhaltes übersendet wurde. Auch diese Entscheidung führt aus, daß der Gerichtsstand nach § 88 Abs. 2 JN. auf Lohnverträge nicht ausgedehnt werden darf, "da von einer Ware bei einem Lohnvertrag nicht gesprochen werden kann, was sich aus dem allgemeinen Sprachgebrauche dieses Wortes entnehmen lasse".

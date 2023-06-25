@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.08.2016
+Geschäftszahl
+5Ob84/16p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Partei K***** K*****, vertreten durch Dr. Friedrich Gatscha, Rechtsanwalt in Wien, gegen die beklagten Parteien 1. N***** GmbH, *****, vertreten durch Mag. Gerhard Walzl, Rechtsanwalt in Wien, 2. E***** GmbH, *****, vertreten durch Mag. Alain Danner, Rechtsanwalt in Wien, 3. Dr. A***** S*****, vertreten durch Mag. Gerhard Walzl, Rechtsanwalt in Wien, wegen 1. Übertragung der Zusage auf Einräumung von Wohnungseigentum (30.000 EUR), 2. Einverleibung von Miteigentum (50.000 EUR), 3. Zahlung (122.785,01 EUR sA), 4. Feststellung (15.000 EUR), über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 95.000 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 16. März 2016, GZ 34 R 152/15w-50, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Kläger zeigt in seiner Revision keine Rechtsfrage auf, der iSd § 502 Abs 1 ZPO zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt.
+1. Über das Vermögen der Erstbeklagten wurde im Stadium des Berufungsverfahrens das Insolvenzverfahren eröffnet. Das Berufungsgericht sprach aus, dass das Verfahren daher (nur) gegenüber der Erstbeklagten unterbrochen sei. Im Prozessrechtsverhältnis zu den Zweit- und Drittbeklagten gab es der Berufung des Klägers nicht Folge.
+Die Rechtsprechung qualifiziert Urteile, die unter Missachtung der Unterbrechung gefällt wurden, zwar als nichtig (RIS-Justiz RS0064051, RS0118054). Auf Streitgenossen des Schuldners wirkt die Unterbrechung nach § 7 Abs 1 IO aber nur dann, wenn sie mit dem Schuldner eine einheitliche Streitpartei bilden (RIS-Justiz RS0114497, RS0036752 [T6]). Eine einheitliche Streitpartei liegt hier auf Beklagtenseite trotz der Gemeinsamkeit des rechtserzeugenden Sachverhalts nicht vor, weil keine rechtliche Notwendigkeit zu einer in jedem Falle einheitlichen Entscheidung gegeben ist, abweichende Entscheidungen also nicht zu unlösbaren Verwicklungen führen (vgl RIS-Justiz RS0035473 [T1]).
+2. Zur Frage, inwieweit im Anwendungsbereich des § 6 BTVG andere gesetzliche Rücktrittsrechte in Anspruch genommen werden können, hat der Oberste Gerichtshof bereits in der Entscheidung 6 Ob 89/04p (Prader, BTVG2.08 § 6 E 1) Stellung genommen. § 6 BTVG schränkt das Recht des Bauträgers ein, vertraglich Rücktrittsrechte zu vereinbaren; gesetzliche Rücktrittsrechte etwa wegen Verzugs des Erwerbers bleiben unberührt.
+Dies hat der Gesetzgeber bei Schaffung dieser Bestimmung in den Gesetzesmaterialien klar zum Ausdruck gebracht (vgl RV 312 BlgNR XX. GP 17) und findet auch im Gesetzeswortlaut, der ausschließlich auf die Vereinbarung eines Rücktrittsrechts abstellt, Deckung. Auch im Schrifttum wird diese Auslegung nicht in Zweifel gezogen (Würth in Rummel ABGB³ § 6 BTVG Rz 1; Friedl in Illedits/Reich-Rohrwig, Wohnrecht² § 6 BTVG Rz 1; Markl in Schwimann/Kodek, ABGB4 § 6 BTVG Rz 1; Engin-Deniz, BTVG² § 6 Rz 1f; Gartner, BTVG³ § 6 Rz 1; Pittl, Kommentar zum BTVG 67).
+3. § 918 ABGB gewährt dem Gläubiger ein Rücktrittsrecht bei nicht gehöriger Erfüllung der vertraglichen Verpflichtung des Schuldners. Der Kläger will den mit der Erstbeklagten geschlossenen Vertrag in einen Kaufvertragsteil und einen Werkvertragsteil teilen und seine darin vereinbarten Mitwirkungspflichten nur auf letzteren beziehen, sodass der Verzug mit deren Erfüllung die Erstbeklagte nicht zum Rücktritt (auch) vom Kaufvertrag berechtige.
+Ist die Erfüllung als unteilbar anzusehen, hat auch die sogenannte äquivalente Nebenleistung, somit jene mit eigenem Verkehrswert, kein anderes Schicksal als die Hauptleistung. Die Nebenpflicht wird dann jedenfalls zur wesentlichen, deren Verletzung zum Rücktritt vom gesamten Vertrag berechtigt (RIS-Justiz RS0018438 [T3]).
+Die Frage der Teilbarkeit oder Unteilbarkeit der Erfüllung ist nach dem Willen beider Parteien beziehungsweise nach dem dem Kontrahenten bei Vertragsabschluss bekannten oder erkennbaren Willen einer Partei zu beurteilen (RIS-Justiz RS0018438). Diese Beurteilung hat nach den konkreten Umständen des Einzelfalls zu erfolgen und wirft daher regelmäßig keine erheblichen Rechtsfragen iSd § 502 Abs 1 ZPO auf (RIS-Justiz RS0018438 [T5]). Dem Berufungsgericht, das in Auslegung des Vertrags angesichts der von den Parteien gewollten „Wechselwirkung“ die Unteilbarkeit der vereinbarten Gegenleistung bejaht hat, ist auch keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung unterlaufen.
+4. Die behauptete Aktenwidrigkeit und Mangelhaftigkeit liegen – wie der Oberste Gerichtshof geprüft hat – nicht vor (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00084.16P.0825.000

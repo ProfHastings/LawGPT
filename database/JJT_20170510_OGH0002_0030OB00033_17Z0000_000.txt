@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.05.2017
+Geschäftszahl
+3Ob33/17z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Parteien 1. G*****, 2. P*****, beide vertreten durch Aigner Rechtsanwalts-GmbH in Wien, gegen die beklagte Partei B***** PLC, *****, Zweigniederlassung B***** PLC, *****, vertreten durch Wolf Theiss Rechtsanwälte GmbH & Co KG in Wien, wegen 40.138,23 EUR sA und Rechnungslegung, im Verfahren über den Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 6. Dezember 2016, GZ 2 R 148/16y-17, womit der Beschluss des Handelsgerichts Wien vom 18. Juli 2016, GZ 56 Cg 216/12a-10, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren 3 Ob 33/17z wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über den vom Obersten Gerichtshof am 10. Mai 2017 zu 3 Ob 28/17i gestellten Antrag auf
+Vorabentscheidung unterbrochen.
+Nach Einlangen der Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+Die Kläger mit Wohnsitz in Wien haben zwischen dem 31. Dezember 2006 und dem 8. Juni 2007 über den Sekundärmarkt insgesamt 33.111,12 EUR in das X***** Zertifikat investiert. Emittentin dieser Zertifikate ist die Beklagte, eine im Handelsregister des Vereinigten Königreichs eingetragene Bank mit Sitz in London und einer Zweigniederlassung in Frankfurt. Die Beklagte verkaufte die Zertifikate im Zuge der Emission an institutionelle Investoren, die sie am Sekundärmarkt unter anderem an Verbraucher in Österreich weiterverkauften.
+Dem Zertifikat liegt eine Unternehmensanleihe in Form einer Inhaberschuldverschreibung zugrunde. Der Rückzahlungsbetrag und damit der Wert des Zertifikats richtet sich nach einem Index, der aus einem Portfolio von mehreren Zielfonds gebildet wird, sodass der Wert des Zertifikats unmittelbar mit diesem Portfolio verknüpft ist. Dieses Portfolio sollte von der X***** GmbH errichtet und verwaltet werden. Die Emission der Zertifikate erfolgte auf Grundlage eines Basisprospekts vom 22. September 2005 und eines Konditionenblatts vom 20. Dezember 2005 samt Anhängen. Der Basisprospekt wurde auch bei der österreichischen Kontrollbank notifiziert. Das öffentliche Angebot zur Zeichnung lief von 20. Dezember 2005 bis 24. Februar 2006, die Emission erfolgte am 31. März 2006.
+Die abwickelnde Clearingstelle dieses Erwerbs war eine AG mit Sitz in Frankfurt am Main. Dort ist auch die Globalurkunde des Zertifikats hinterlegt.
+Die Beklagte überließ die Investition der durch die Schuldverschreibung lukrierten Gelder der X***** GmbH als Investmentmanager. H***** K*****, der Trading Manager und Fonds Advisor der GmbH, nutzte seinen maßgeblichen Einfluss auf diese, um durch die Investitionsentscheidungen seinem groß angelegten Schneeball-Betrugssystem neues Kapital zuzuführen. Die Gelder sind großteils verloren, die Zertifikate sind wertlos.
+Die Kläger begehren von der Beklagten nach Klageausdehnung die Zahlung von 40.138,23 EUR sA Zug um Zug gegen Übergabe ihrer näher bezeichneten Wertpapieranteile, hilfsweise die Feststellung der Haftung der Beklagten für den Schaden, der ihr aus ihren am 31. Dezember 2006, am 25. Jänner 2007 und am 8. Juni 2007 getätigten Investitionen in dieses Wertpapier entstanden und noch nicht bezifferbar sei oder künftig entstehen werde, und außerdem Rechnungslegung. Sie stützen sich einerseits auf vertragliche, andererseits auf deliktische (Schadenersatz-)Ansprüche, insbesondere Prospekthaftung.
+Zur internationalen Zuständigkeit des angerufenen Gerichts berufen sich die Kläger auf die Gerichtsstände der Art 15 iVm 16, hilfsweise des Art 5 Nr 3 EuGVVO 2001.
+Die Beklagte beantragte die Abweisung des Klagebegehrens und wendete die internationale Unzuständigkeit des Erstgerichts ein.
+Das Erstgericht erklärte sich für international unzuständig und wies die Klage zurück. Die Kläger könnten die Zuständigkeit des angerufenen Gerichts weder auf Art 15 Abs 1 noch auf Art 5 Nr 1 lit a EuGVVO 2001 stützen, weil eine über die aus dem bloßen Halten der Anleihe resultierende vertragliche Beziehung hinausgehende freiwillige Verpflichtung der Beklagten ihnen gegenüber aus dem gesamten Akteninhalt nicht erkennbar sei. Aus diesem Grund sei das Erstgericht für vertragliche Ansprüche jedenfalls nicht international zuständig. Zu den hilfsweise geltend gemachten deliktischen Ansprüchen iSd Art 5 Nr 3 EuGVVO 2001 zählten auch Prospekthaftungsansprüche. Die Kläger hätten allerdings nicht vorgebracht, dass sich der Schaden unmittelbar auf einem ihnen zuzuordnenden Bankkonto bei einer Bank in Wien verwirklicht hätte. Das angerufene Gericht sei deshalb nicht zuständig.
+Das Rekursgericht gab dem Rekurs der Kläger nicht Folge. Der Erfüllungsort iSd Art 5 Nr 1 lit a EuGVVO 2001 liege in Frankfurt, sodass die österreichischen Gerichte für die vertraglichen Ansprüche der Klägerin nicht international zuständig seien. Da der Klägerin der Gerichtsstand des Erfüllungsorts zur Verfügung stehe, könne sie sich bezüglich ihres Prospekthaftungsanspruchs nicht auf Art 5 Nr 3 EuGVVO 2001 stützen, weil dieser deliktische Anspruch in einem so engen Zusammenhang mit dem Vertrag stehe, dass das vertragliche Element auch den Charakter des deliktischen Rechtsverhältnisses entscheidend präge.
+In ihrem – vom Rekursgericht angesichts der Vielzahl gleich oder ähnlich gelagerter Fälle im Hinblick auf die Wahrung der Rechtseinheit und Rechtssicherheit zugelassenen – Revisionsrekurs machen die Kläger zusammengefasst geltend, der Erfüllungsort hinsichtlich der vertraglichen Ansprüche liege in Wahrheit in Österreich. Von ihren vertraglichen Ansprüchen sei außerdem der ebenfalls geltend gemachte Anspruch auf Schadenersatz aus dem Titel der Prospekthaftung gemäß KMG strikt zu trennen. Dieser Anspruch aus Prospekthaftung sei weder auf die Erfüllung des Anleihevertrags gerichtet noch handle es sich um einen Sekundäranspruch, der aus der Verletzung einer vertraglichen Pflicht resultiere. Vielmehr sei dieser Anspruch deliktischer Natur.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig. Über seine Berechtigung wird nach dem Einlangen der Vorabentscheidung des Europäischen Gerichtshofs in der Rechtssache des Obersten Gerichtshofs 3 Ob 28/17i zu entscheiden sein:
+In jenem Verfahren hat der Oberste Gerichtshof dem Europäischen Gerichtshof folgende Frage gestellt:
+Ist nach Art 5 Nr 3 der Verordnung (EG) Nr 44/2001 des Rates vom 22. Dezember 2000 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen für außervertragliche Ansprüche wegen Prospekthaftung dann, wenn
+- der Anleger seine durch den mangelhaften Prospekt verursachte Anlageentscheidung an seinem Wohnsitz getroffen hat
+- und er aufgrund dieser Entscheidung den Kaufpreis für das am Sekundärmarkt erworbene Wertpapier von seinem Konto bei einer österreichischen Bank auf ein Verrechnungskonto bei einer anderen österreichischen Bank überwiesen hat, von wo der Kaufpreis in der Folge im Auftrag des Klägers an den Verkäufer überwiesen wurde,
+(a) jenes Gericht zuständig, in dessen Zuständigkeitsbereich der Anleger seinen Wohnsitz hat,
+(b) jenes Gericht zuständig, in dessen Zuständigkeitsbereich der Sitz/die kontoführende Filiale jener Bank liegt, bei der der Kläger sein Bankkonto hat, von dem er den investierten Betrag auf das Verrechnungskonto überwiesen hat,
+(c) jenes Gericht zuständig, in dessen Zuständigkeitsbereich der Sitz/die kontoführende Filiale der Bank liegt, bei der sich das Verrechnungskonto befindet,
+(d) nach Wahl des Klägers eines dieser Gerichte zuständig,
+(e) keines dieser Gerichte zuständig?
+Das vorliegende Verfahren betrifft einen vergleichbaren Sachverhalt, weshalb sich auch dieselben Rechtsfragen stellen wie im Verfahren 3 Ob 28/17i.
+Der Oberste Gerichtshof hat von einer allgemeinen Wirkung der Vorabentscheidung des Europäischen Gerichtshofs auszugehen und diese auch für andere als den unmittelbaren Anlassfall anzuwenden. Aus prozessökonomischen Gründen ist dieses Verfahren daher zu unterbrechen (RIS-Justiz RS0110583).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00033.17Z.0510.000

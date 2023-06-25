@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.04.1953
+Geschäftszahl
+3Ob258/53
+Norm
+Patent-Überleitungsgesetz: (BGBl. Nr. 128/1950) §6;
+Patent- Überleitungsgesetz: (BGBl. Nr. 128/1950) §9;
+Patent- Überleitungsgesetz: (BGBl. Nr. 128/1950) §10;
+Patent- Überleitungsgesetz: (BGBl. Nr. 128/1950) §33;
+Kopf
+SZ 26/115
+Spruch
+Zur Frage des Schutzes deutscher Patentinhaber im Inland.
+Entscheidung vom 29. April 1953, 3 Ob 258/53.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Nach den Feststellungen der Vorinstanzen ist die Erstklägerin Inhaberin des österreichischen Patentes Nr. 154.833 und des deutschen Reichspatentes Nr. 717.420; die Zweitklägerin ist die ausschließliche Lizenznehmerin der Erstklägerin. Das Patent Nr. 717.420 wurde zufolge des § 2 Abs. 2 der Verordnung vom 28. April 1938 über den gewerblichen Rechtsschutz, DRGBl. I S. 456, auf das damalige Land Österreich erstreckt. Wann dieses Patent beim Reichspatentamt angemeldet wurde, ist nicht festgestellt worden. Das Patent Nr. 154.833 ist beim österreichischen Patentamt am 28. Jänner 1937 angemeldet und am 22. August 1938 mit Beginn der Patentdauer vom 15. Juni 1938 vom Reichspatentamt, Zweigstelle Österreich, eingetragen worden.
+Es steht außer Streit, daß die beklagte Partei Schablonen für Rotationsdrucker unter den Markenbezeichnungen "Durotype" und "Veratype" herstellt und verkauft, die den Gegenstand der vorerwähnten Patente bildet. Die beklagte Partei bestreitet aber, daß die klägerischen Patente Rechtsschutz genießen, weil sie wegen der deutschen Staatsangehörigkeit der Patentinhaberin mit Rücksicht auf § 9 Abs. 2 des PatentÜG. 1950, BGBl. Nr. 128, und der 2. Patentüv., BGBl. Nr. 205/1947, nicht Gegenstand der Eintragung in das Patentregister des österreichischen Patentamtes sein könnten.
+Das Erstgericht hat im Sinne des Klagebegehrens den Beklagten schuldig erkannt, 1. beiden Klägerinnen gegenüber die Herstellung, das Feilhalten und Inverkehrsetzen von Schablonen für Rotationsdrucker zu unterlassen, welche an ihrem oberen Rande Aufhängelöcher aufweisen, die im Verhältnisse zu den zugehörigen Aufhängeknöpfen eine Druckknopf-Matrize bilden, insbesondere Löcher aufweisen, deren jedes durch Überlagerung eines Kreisloches mit einem Langloch entstanden ist, wobei der Durchmesser des Kreisloches kleiner ist als der größte Durchmesser des zugehörigen Aufhängeknopfes; 2. der Zweitklägerin über die Erzeugung und den Verkauf von Schablonen für Rotationsdrucker, die unter Punkt 1 fallen, Rechnung zu legen.
+Das Berufungsgericht hat dieses Urteil bestätigt.
+Der Oberste Gerichtshof gab der Revision der Beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Durchaus zutreffend vertreten beide Vorinstanzen die Rechtsansicht, daß das Patent Nr. 154.833 unter § 6 Z. 1 lit. b PatentÜG. 1950 fällt, daß daher dieses Patent zu den zur Eintragung vorgesehenen Patenten gehört und daß daher nicht Abs. 3 des § 10 PatentÜG., wohl aber dessen Abs. 1 auf dieses Patent zur Anwendung kommt, daß daher die Rechte aus diesem Patent nach den "bisher" geltenden Vorschriften zu beurteilen sind.
+Die Auffassung der beklagten Partei, daß deutsche Patentinhaber für die gemäß § 6 PatentÜG. eintragungsfähigen Patente keinen Schutz genössen, weil deutsche Staatsangehörige gemäß § 2 der 2. PatentüV. nicht zur Antragstellung aufgerufen seien, trifft nicht zu. Es ergibt sich aus § 33 PatentÜG. mit aller Deutlichkeit, daß eine gruppenweise Aufrufung zur Antragstellung vorgesehen ist und daß die Erteilung von Patenten "jeweils" auf bestimmte, nach Staatsangehörigkeit und Wohnsitz gebildete Gruppen beschränkt werden kann. In keiner Weise wäre daher der Schluß gerechtfertigt, daß deutsche Patentinhaber dadurch, daß sie derzeit noch nicht zur Antragstellung aufgerufen sind, überhaupt von der Eintragung ihrer Patente ausgeschlossen wären. Daß jemand auf Grund der Bestimmungen des Patentüberleitungsgesetzes Schutz genießt, ohne Gebühren zu bezahlen, ist keine auf die deutschen Patentinhaber beschränkte Anomalie, sondern trifft auf alle Patentinhaber bis zum Ablauf der Anmeldefrist zu.
+Die Sonderregelung für deutsche Patentinhaber wurde nur vorläufig getroffen, u. zw. wegen der Schwierigkeiten, die sich aus der Behandlung des sogenannten deutschen Eigentums ergeben. Die Auffassung der Revision, daß die Auslegung des § 10 Abs. 1 des PatentÜG. in Widerstreit zu den Bestimmungen des Kontrollabkommens vom 28. Juni 1946 geriete, ist irrig. Die Vorschrift des § 10 Abs. 1 PatentÜG. gilt unbeschadet der der österreichischen Regierung und ihren Organen nach dem Kontrollabkommen obliegenden Verbindlichkeiten. Wenn die Veräußerung eines unter den Begriff des deutschen Eigentums fallenden Patentrechtes derzeit einem Hindernis begegnet, so handelt es sich nicht um ein Hindernis, das aus Bestimmungen des österreichischen Rechtes fließt, sondern um ein solches, das nur wegen der durch die Besetzung gegebenen Machtverhältnisse wirkt. Im übrigen haben schon die Vorinstanzen durchaus zutreffend ausgesprochen, daß die Inanspruchnahme des Untersagungsrechtes keine Verfügung über deutsches Eigentum darstellt.
+Der Oberste Gerichtshof möchte ausdrücklich beifügen, daß er die Frage nicht prüft, ob auch dem Patent Nr. 717.420 nach dem Patentüberleitungsgesetz Schutz zukommt. Um diese Frage beurteilen zu können, wäre es erforderlich, den Zeitpunkt der Anmeldung dieses Patentes beim Reichspatentamt festzustellen, eine solche Feststellung fehlt aber bisher. Es erübrigt sich aber, auf die Frage der Wirksamkeit des Patentes Nr. 717.420 näher einzugehen, weil das angefochtene Urteil allein auf die Verletzung des Patentes Nr. 154.833 gegrundet werden konnte.

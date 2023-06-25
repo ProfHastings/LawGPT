@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2019
+Geschäftszahl
+3Ob231/18v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hoch als Vorsitzenden sowie  die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei P* AG, *, vertreten durch die Schaffer Sternad Rechtsanwälte OG in Wien, gegen die verpflichtete Partei W* B*, vertreten durch Dr. Bernhard Birek, Rechtsanwalt in Schlüßlberg, wegen zwangsweiser Räumung, über den außerordentlichen Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 10. Oktober 2018, GZ 39 R 231/18m-6, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Bewilligung der Räumungsexekution nach § 349 EO setzt voraus, dass aus dem Exekutionstitel eindeutig hervorgeht, welche Teile der Liegenschaft zu überlassen oder zu räumen sind, ohne dass es weiterer Erhebungen oder Nachweise bedürfte. Wenn erst durch Vorlage von Urkunden und Plänen dargetan werden muss, welche Teile einer Liegenschaft zu räumen sind, fehlt es an der für die Bewilligung der Exekution erforderlichen Bestimmtheit des Titels (RIS-Justiz RS0000769, RS0000249).
+Allgemein gehen Unklarheiten des Exekutionstitels zu Lasten des betreibenden Gläubigers (RIS-Justiz RS0000207 [T8, T11]). Die Beurteilung, wie ein singulärer Exekutionstitel aufzufassen ist, begründet keine erhebliche Rechtsfrage (RIS-Justiz RS0000207 [T14]).
+2. Wenn das Rekursgericht davon ausgeht, der Exekutionstitel (eine gerichtliche Aufkündigung, in der nur eine Wohnungsnummer und eine Nutzfläche genannt sind) sei für die beantragte Räumungsexekution nicht ausreichend bestimmt, ist darin – entgegen der Meinung der Revisionsrekurswerberin – keine korrekturbedürftige Fehlbeurteilung zu erblicken: Hat doch die Betreibende selbst in ihrem Exekutionsantrag vorgebracht, dass diese Wohnung mit der daneben liegenden etwas größeren, nicht im Titel genannten Wohnung verbunden ist, dass die früher zur kleineren Wohnung gehörende Eingangstür erst im Zuge der Räumung wieder geöffnet, und dass eine Verbindungstür zwischen den Wohnungen verschlossen werden muss. Die Betreibende legte selbst ihrem Exekutionsantrag „zur leichteren Orientierung“ einen Plan der beiden Wohnungen mit der genauen Zuordnung der Räume zu den jeweiligen Nummern vor und erkennt damit offenbar selbst, dass in einem solchen Fall eines zusammengelegten Objekts andere Maßstäbe an die Bestimmtheit des Räumungstitels anzulegen sind als bei der gerichtlichen Aufkündigung „üblicher“ Wohnungen. Aus dem Titel allein sind die von der Aufkündigung betroffenen Räume in dem nunmehr behaupteten Wohnungsverband nicht mehr bestimmbar.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 78 EO iVm §§ 528a, 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124314

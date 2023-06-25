@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.1950
+Geschäftszahl
+2Ob471/49
+Norm
+ABGB §932;
+ABGB §1438;
+ABGB §1440;
+ZPO §232;
+ZPO §391;
+Kopf
+SZ 23/168
+Spruch
+Gewährleistungsansprüche auf Wandlung und Minderung des Kaufpreises sind Rechtsgestaltungsansprüche und können gegenüber Ansprüchen aus einem anderen Rechtsgeschäft nicht durch Aufrechnung geltend gemacht werden, da es sich um ungleichartige Ansprüche (Geldanspruch gegen Rechtsgestaltungsanspruch) handelt.
+Die Einrede einer Kompensationsforderung und die Einklagung dieser Gegenforderung begrunden nicht (gegenseitig) die Einrede der Streitanhängigkeit.
+Entscheidung vom 24. Mai 1950, 2 Ob 471/49.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Erstgericht hat dem auf Bezahlung von Weinlieferungen in der Höhe von 45.846.75 S gerichteten Klagebegehren stattgegeben. Zugleich erkannte es die Gegenforderungen des Beklagten aus dem Titel der Gewährleistung (Wandlung und Minderung) und des Schadenersatzes als nicht zu Recht bestehend. Die Gegenforderungen könnten mangels Gleichartigkeit nicht eingewendet werden, weil vorerst die Aufhebung des Vertrages, aus dem die Gegenforderungen stammten, mit rechtgestaltendem Urteil notwendig wäre. Dies könne nur mit Klage, nicht aber einredeweise gegen eine andere Forderung geschehen.
+Infolge Berufung des Beklagten hob das Berufungsgericht das erstgerichtliche Urteil im Ausspruch über die Gegenforderung wegen Mangelhaftigkeit des Verfahrens auf. Wenngleich die Gegenforderungen des Beklagten auch auf den Rechtstitel des Schadenersatzes gestützt würden, handle es sich doch nur um einen Gewährleistungsanspruch. Dieser richte sich auf Zurückzahlung oder doch Minderung des Kaufpreises aus den vom Beklagten ins Treffen geführten früheren Weinkäufen, somit um eine mit der Geldforderung der klagenden Partei gleichartige und daher kompensable Gegenforderung. Das Erstgericht müsse deshalb in die Prüfung der Gegenforderung eingehen, wobei von Streitanhängigkeit wegen klageweiser Geltendmachung der Gegenforderung nicht gesprochen werden könne.
+Der Oberste Gerichtshof hat dem Rekurs der klagenden Partei gegen diese Entscheidung nicht stattgegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist zwar dem Kläger zuzugeben, daß jeder Gewährleistungsanspruch - sei es ein Wandlungs- oder ein Minderungsbegehren - ein Rechtsgestaltungsanspruch ist. Erst das Gericht kann, wenn eine Parteienübereinkunft nicht vorliegt, aussprechen, daß der Vertrag außer Kraft gesetzt oder der Kaufpreis gemindert sei (Pisko - Klang, II/2, S. 565). Wenn dies der Fall ist, könnte die Gewährleistung zwar gegen die Ansprüche des Vertragspartners aus demselben Rechtsgeschäft einredeweise geltend gemacht werden. Die Kompensationseinrede gegenüber Ansprüchen aus einem anderen Rechtsgeschäft muß jedoch daran scheitern, daß es sich um ungleichartige Ansprüche (Geldanspruch gegen Rechtsgestaltungsanspruch) handelt, die nach § 1440 ABGB. nicht aufgerechnet werden können. Der gegenteiligen, nicht näher begrundeten Rechtsansicht des Berufungsgerichtes vermag sich der Oberste Gerichtshof nicht anzuschließen. Die rechtliche Bemängelung durch die klagende Partei kann jedoch zur sachlichen Bestätigung des erstgerichtlichen Urteils nicht führen. Denn der Beklagte hat sich auch auf Gegenforderungen aus dem Titel des Schadenersatzes berufen, für die die Annahme der Ungleichartigkeit nicht besteht. Bemerkt sei, daß die Einwendung einer Kompensationsforderung und die Einklagung dieser Gegenforderung gegenseitig nicht die Einrede der Streitanhängigkeit begrunden. Denn die Kompensationsforderung wird nicht streitanhängig. Hiezu wäre die Einbringung und die Zustellung einer Klage erforderlich (§ 232 Abs. 1 ZPO.; vgl. Melichar, Geltendmachung von Gegenforderungen, JBl. 1946, S. 50).

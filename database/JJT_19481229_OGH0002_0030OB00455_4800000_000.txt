@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.12.1948
+Geschäftszahl
+3Ob455/48
+Norm
+ABGB §1330;
+Handelsgesetzbuch §105;
+Handelsgesetzbuch §124;
+Kopf
+SZ 21/170
+Spruch
+Die Gesellschafter einer offenen Handelsgesellschaft sind zur Klage wegen Widerrufes von den Kredit, den Erwerb oder das Fortkommen der Gesellschaft gefährdenden Äußerungen über die Gesellschaft im eigenen Namen legitimiert.
+Entscheidung vom 29. Dezember 1948, 3 Ob 455/48.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Kläger, die die alleinigen Gesellschafter der offenen Handelsgesellschaft X. sind, begehren gemäß § 1330, Abs. 2 ABGB. die Verurteilung des Beklagten zum Widerrufe der Behauptung, die Firma X. sei durch die Nazi groß geworden, sie hätte ihre derzeitigen Betriebsräume nur durch ihre nazistischen Verbindungen erhalten, der Betrieb sei derzeit überhaupt nicht beschäftigt, und zur Abgabe einer Erklärung, daß er in Hinkunft jede Äußerung in diesem Sinne unterlassen werde.
+Das Prozeßgericht wies das Klagebegehren ohne Aufnahme von Beweisen mit der Begründung ab, daß die einzelnen Gesellschafter einer offenen Handelsgesellschaft nicht zur Klagseinbringung im eigenen Namen für die Gesellschaft legitimiert seien, die Klage vielmehr unter der Firmenbezeichnung durch die Gesellschaft selbst hätte eingebracht werden müssen.
+Das Berufungsgericht hob diese Urteil auf und verwies die Rechtssache zur neuerlichen Verhandlung und Urteilsfällung an das Prozeßgericht, wobei es aussprach, daß das Verfahren erst nach Rechtkraft seiner Entscheidung fortzusetzen sei. Es stellte sich auf den Standpunkt, daß zwischen der offenen Handelsgesellschaft (Firma) und der Gesamtheit ihrer Gesellschafter in wirtschaftlicher Hinsicht eine Interessengemeinschaft und sogar eine Identität der Interessen bestehe, da sich Gewinn und Verlust, Kredit, Erwerb und Fortkommen der Gesellschaft im Vermögen eines jeden einzelnen Gesellschafters auswirke, Anwürfe gegen die Firma einer Handelsgesellschaft sich tatsächlich gegen die einzelnen Gesellschafter, die die handelnden Personen seien, nicht aber gegen die Gesellschaft richten und daher den Kredit, Erwerb und das Fortkommen der einzelnen Gesellschafter gefährden, die für die Verbindlichkeiten der Gesellschaft den Gesellschaftsgläubigern persönlich haften. Es sei deshalb nicht nur die offene Handelsgesellschaft als solche, sondern auch die Gesamtheit der Gesellschafter persönlich legitimiert, weshalb auch der spätere Eintritt eines Gesellschafters belanglos sei, da auch er durch die Anwürfe gegen die Gesellschaft im Sinne des § 1330, Abs. 2 ABGB. gefährdet sei.
+Der Oberste Gerichtshof gab dem Rekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Begründung:
+Der durchaus zutreffenden und in jeder Richtung stichhältigen Begründung des angefochtenen Beschlusses ist im Hinblick auf die Rekursausführungen lediglich nachstehendes beizufügen: Nach der überwiegenden Lehre und Rechtsprechung ist die offene Handelsgesellschaft keine juristische Person und hat somit keine eigene Rechtspersönlichkeit; Träger der Rechte und Pflichten bilden die Gesellschafter in ihrer Gesamtheit. Die Firma einer offenen Handelsgesellschaft ist nicht die Firma eines selbständigen Rechtssubjektes, sie faßt nur die Gesamtheit der Gesellschafter als Inhaber des Gesellschaftsvermögens unter einer einheitlichen Bezeichnung zusammen. Träger der Rechte und Verbindlichkeiten sind die einzelnen Gesellschafter (so Schlegelberger, Anm. 28 zu § 105 HGB., S. 468; Baumbach, Kurz-Kommentar, S. 273; Flad - Gadow - Weipert II, S. 9; Dühringer - Hachenburg II, Anm. 3 zu § 105, Anm. 1 zu § 124, S. 652; Hämmerle, 2. Aufl., S. 112, und die in den angeführten Stellen zitierte Literatur und Rechtsprechung).
+Im gerichtlichen Verfahren sind die Gesellschafter in ihrer jeweiligen Zusammensetzung, durch das Gesellschaftsband untrennbar verbunden, Partei. Die Benützung der Firma für die Vereinigung der Gesellschafter bildet lediglich eine formelle Erleichterung des Geschäftsverkehrs in der Prozeßführung, sie ändert aber nichts an der materiellen Rechtlage. Nach überwiegender Lehre und Rechtsprechung sind die Gesellschafter in ihrer Vereinigung Partei im Firmenprozesse (Schlegelberger, Anm. 9 zu § 124; Dühringer - Hachenburg, Anm. 6 zu § 124 u. a. m.). Es gehen daher die Ausführungen des Rekurses fehl, die sich auf eine Entscheidung stützen, nach der dem Obmann eines Vereines, somit einer juristischen Person, die Klageberechtigung nach § 1330 ABGB. im eigenen Namen wegen Widerrufes von gegen den Verein gerichteten Äußerungen abgesprochen wurde. Gerade im vorliegenden Fall, in dem es sich um Äußerungen handelt, die sich nicht gegen die Gesellschaft als solche, die nicht selbst handeln kann, sondern gegen die Gesellschafter richtet, da ja nicht die Firma, sondern nur die Gesellschafter Beziehungen zu einer politischen Partei haben und durch eine solche gefördert werden können, muß den Gesellschaftern selbst das Klagerecht wegen Widerrufes gemäß § 1330 ABGB. zugebilligt werden.

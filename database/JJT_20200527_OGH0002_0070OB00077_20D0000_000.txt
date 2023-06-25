@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.05.2020
+Geschäftszahl
+7Ob77/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei A***** B*****, vertreten durch Dr. Christoph Reitmann, LL.M., Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Alexandra Slama, Rechtsanwältin in Klagenfurt am Wörthersee, wegen 13.500 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 15. Jänner 2020, GZ 5 R 121/19g-67, mit dem das Urteil des Landesgerichts Klagenfurt vom 5. August 2019, GZ 21 Cg 46/16y-63, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 1.017,90 EUR (darin enthalten 169,65 EUR an USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem die Allgemeinen Bedingungen für den Premium-Unfallschutz (AUVB 2012) zugrunde lagen. Diese lauten auszugsweise:
+„[…]
+Artikel 6
+Was ist ein Unfall?
+1. Ein Unfall liegt vor, wenn die versicherte Person durch ein plötzlich von außen auf ihren Körper wirkendes
+Ereignis (Unfallereignis) unfreiwillig eine Gesundheitsschädigung erleidet. [...]
+2. Als Unfall gelten auch:
+2.1. Verrenkungen von Gliedern sowie Zerrungen und Zerreißungen von an Gliedmaßen und an der Wirbelsäule befindlichen Muskeln, Sehnen, Bändern und Kapseln sowie Meniskusverletzungen infolge plötzlicher Abweichung vom geplanten Bewegungsablauf. [...]“
+Die Vorinstanzen gingen übereinstimmend davon aus, dass der Kläger das Vorliegen eines Unfalls im Sinn des Art 6.2.1. AUVB 2012 nicht habe erweisen können.
+Das Berufungsgericht sprach über Zulassungsvorstellung des Klägers nachträglich aus, dass die ordentliche Revision doch zulässig sei. Entgegen der vom Berufungsgericht in seinem Urteil vertretenen Rechtsauffassung sei es bei dem konkret feststehenden Sachverhalt nicht auszuschließen, dass vom Kläger nur der Anscheinsbeweis zu erbringen sei. Zur allfälligen Herstellung der Einzelfallgerechtigkeit sei daher die Revision für zulässig zu erklären.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Richtig ist, dass dem Versicherungsnehmer beim Nachweis des Versicherungsfalls in der Schadensversicherung Beweiserleichterungen zustehen. Es genügt, wenn er ein Mindestmaß an Tatsachen beweist, die das äußere Erscheinungsbild eines Versicherungsfalls bilden (RS0102499). Ausreichend ist daher in der Regel, dass Umstände dargetan werden, die die Möglichkeit eines Unfalls naheliegend erscheinen lassen (RS0080921 [T1]).
+2. Der Anscheinsbeweis wird in den Fällen als sachgerecht empfunden, in denen konkrete Beweise vom Beweispflichtigen billigerweise nicht erwartet werden können (RS0123919). Er beruht darauf, dass bestimmte Geschehensabläufe typisch sind und es wahrscheinlich ist, dass auch im jeweils konkreten Fall ein gewöhnlicher Ablauf und nicht ein atypischer gegeben ist (RS0040266). Gelingt dieser Beweis, ist es Sache des Versicherers, die Umstände zu behaupten und zu beweisen, die dafür sprechen, dass kein deckungspflichtiger Unfall vorliegt (RS0080921 [T5]), also den prima-facie-Beweis dadurch zu erschüttern, dass eine ernstlich in Betracht zu ziehende Möglichkeit einer anderen Ursache oder eines anderen Ablaufs dargetan wird (vgl RS0022664).
+3. Das Erstgericht hat zur Frage, ob eine plötzliche Abweichung von einem bestimmten geplanten Bewegungsablauf vorlag, eine Negativfeststellung getroffen. Das ist in erster Linie eine Tatfrage und hängt von den Umständen des Einzelfalls ab (7 Ob 5/01p). Ob der Kläger zumindest Umstände dargetan hat, die die Möglichkeit eines Unfalls naheliegend erscheinen lassen und ob die Beklagte gegebenenfalls den vom Kläger erbrachten Anscheinsbeweis erschüttern konnte, sind ebenfalls typische Einzelfallbeurteilungen. Die dazu schon vom Erstgericht vertretene Rechtsansicht, dass vom Kläger insbesondere im Hinblick auf dessen mehrfachen widersprüchlichen Unfallschilderungen der strenge Beweis des Eintritts des Versicherungsfalls zu verlangen gewesen sei, hält sich im Rahmen bereits vorliegender Rechtsprechung des Fachsenats (vgl 7 Ob 197/11p).
+4.1. Der Kläger vermag daher das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht aufzuzeigen. Die Revision ist somit nicht zulässig und folglich zurückzuweisen.
+4.2. Die Kostenentscheidung gründet auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00077.20D.0527.000

@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2023
+Geschäftszahl
+8Ob167/22z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei Bundesarbeitskammer, 1040 Wien, Prinz-Eugen-Straße 20–22, vertreten durch die Kosesnik-Wehrle & Langer Rechtsanwälte KG in Wien, gegen die beklagte Partei C* GmbH, *, wegen 12 EUR sA, über den ordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Handelsgerichts Wien als Rekursgericht vom 28. Oktober 2022, GZ 60 R 59/22i-5, mit dem der Beschluss des Bezirksgerichts für Handelssachen Wien vom 17. Mai 2022, GZ 7 C 247/22g-2, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Die Beschlüsse der Vorinstanzen werden aufgehoben. Dem Erstgericht wird die Durchführung des gesetzmäßigen Verfahrens über die Klage unter Abstandnahme vom gebrauchten Zurückweisungsgrund aufgetragen.
+Die Kosten des Rechtsmittelverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+[1] 		Die Klägerin ist ein in § 29 Abs 1 KSchG genannter privilegierter Verband, dem der Verbraucher A* P* seine Ansprüche gegen die Beklagte zum Inkasso und zur Klagsführung gemäß § 502 Abs 5 Z 3 ZPO abgetreten hat. Die Beklagte betreibt ein österreichweites Ticketservice (o*.com).
+[2] 		Die Klägerin nimmt mit ihrer beim Bezirksgericht für Handelssachen Wien eingebrachten Klage unter Berufung auf die erfolgte Abtretung die Beklagte auf Zahlung von 12 EUR in Anspruch. Sie brachte in ihrer Klage zusammengefasst vor, dass A* P* über die Beklagte sechs Eintrittskarten für Veranstaltungen erworben habe, die in weiterer Folge jeweils aufgrund der COVID-19-Pandemie abgesagt worden seien. Die Beklagte habe A* P* über den Großteil des von ihm für die Eintrittskarten entrichteten Gesamtbetrags Gutscheine iSd KuKuSpoSiG ausgestellt und zu einem kleineren Teil Rückzahlung geleistet. Einen Betrag von 2 EUR pro Karte habe A* P* weder in der einen oder anderen Form zurückerlangt. Die Beklagte habe (außergerichtlich) den Standpunkt eingenommen, es handle sich um eine nicht rückzuerstattende „Servicegebühr“. Eine solche habe A* P* mit der Beklagten aber nicht vereinbart. Auch müsse nach § 1 Abs 1a KuKuSpoSiG der Wert des Gutscheins den gesamten Eintritts- oder Teilnahmepreis oder ein vergleichbares Entgelt einschließlich etwaiger Verkaufs- oder Vermittlungsgebühren umfassen.
+[3] 		Das Erstgericht wies die Klage wegen sachlicher Unzuständigkeit a liminie zurück (§ 43 Abs 1 JN). Es handle sich um keine Streitigkeit iSd § 51 Abs 1 Z 1 JN, da die Klägerin keinen Anspruch aus einem auf Seiten der Beklagten unternehmensbezogenen Geschäft geltend mache, sie sich vielmehr direkt auf § 1 Abs 1a KuKuSpoSiG stütze.
+[4] 		Das Rekursgericht bestätigte diese Entscheidung. Dem Vertragspartner des Veranstalters einer abgesagten Veranstaltung werde auf Basis des KuKuSpoSiG einseitig ein neuer Hauptvertrag aufgezwungen. Daher sei nicht von einem engen Zusammenhang des Anspruchs auf Rückerstattung mit den seinerzeit durch das unternehmensbezogene Geschäft selbst begründeten Forderungen und Pflichten auszugehen. Vielmehr stütze sich der Anspruch direkt auf die gesetzlichen Regelungen des KuKuSpoSiG.
+[5] 		Das Rekursgericht ließ den ordentlichen Revisionsrekurs mit der Begründung zu, der Klärung der sachlichen Zuständigkeit komme wegen der Vielzahl von gleichgelagerten Ansprüchen zur Wahrung der Rechtseinheit erhebliche Bedeutung zu.
+[6] 		Gegen die rekursgerichtliche Entscheidung richtet sich der wegen unrichtiger rechtlicher Beurteilung erhobene Revisionsrekurs der Klägerin mit dem Antrag, die Beschlüsse der Vorinstanzen ersatzlos aufzuheben und dem Erstgericht die Fortsetzung des Verfahrens unter Abstandnahme vom gebrauchten Zurückweisungsgrund aufzutragen.
+[7] 		Der Revisionsrekurs ist aus dem vom Rekursgericht genannten Grund – streitwertunabhängig (§ 502 Abs 5 Z 3 iVm § 528 Abs 2 Z 1 ZPO) – zulässig und auch berechtigt.
+Rechtliche Beurteilung
+[8] 		Das Kunst-, Kultur- und Sportsicherungsgesetz (KuKuSpoSiG) regelt für den Fall, dass ein Kunst-, Kultur- oder Sportereignis aufgrund der COVID-19-Pandemie entfallen ist, die Möglichkeit, anstelle der Entgeltrückzahlung dem Besucher oder Teilnehmer einen Gutschein zu übergeben (§ 1), dessen Übertragbarkeit und Einlösung (§ 2) sowie dessen Kostenfreiheit und die Möglichkeit, von den Regelungen des KuKuSpoSiG konsensual abzuweichen (§ 3). Ob ein Anspruch auf Rückzahlung besteht, ist nicht Regelungsgegenstand des KuKuSpoSiG, sondern wird vorausgesetzt (arg § 1 Abs 1). Einen solchen macht hier die Klägerin geltend.
+[9] 		Kann eine Veranstaltung COVID-19-bedingt nicht stattfinden, so zerfällt nach § 1447 (allenfalls iVm § 880) ABGB der Vertrag und können geleistete Zahlungen grundsätzlich nach § 1435 ABGB zurückgefordert werden (statt vieler Wilfinger, Behördliche Verbote und Vertrag, ÖJZ 2020, 437 [438]; Kriegner, Kunst, Kultur, Sport: Gutscheine statt Entgeltrückzahlung, VbR 2020, 124 [124 f]).
+[10] 		Ansprüche auf Rückabwicklung eines durch Rücktritt vom Vertrag aufgelösten Rechtsgeschäfts, das auf Seiten des Beklagten ein unternehmensbezogenes Geschäft war, fallen nach der neueren Rechtsprechung unter den Zuständigkeitstatbestand des § 51 Abs 1 Z 1 JN (2 Ob 67/08d = GesRZ 2008, 296 [zust Geroldinger]; RS0123493; zust Kerschner in Artmann, UGB3 I [2019] § 343 Rz 16). Für die Vertragsauflösung nach § 1447 ABGB kann nichts anderes gelten.
+[11] 		Ob der gegen die Beklagte erhobene Zahlungsanspruch berechtigt ist, ist hier nicht zu prüfen.
+[12] 		Weil entgegen der Ansicht der Vorinstanzen das mit der Klage angerufene Gericht nach § 51 Abs 1 Z 1 (iVm § 52 Abs 1) JN sachlich zuständig ist, sind deren Entscheidungen ersatzlos aufzuheben und ist dem Erstgericht die Fortsetzung des Verfahrens unter Abstandnahme vom gebrauchten Zurückweisungsgrund aufzutragen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00167.22Z.0125.000

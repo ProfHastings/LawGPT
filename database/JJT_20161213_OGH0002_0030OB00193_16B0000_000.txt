@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2016
+Geschäftszahl
+3Ob193/16b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei R***** eGen, *****, vertreten durch Mag. Karin Leitner, Rechtsanwältin in Leoben, gegen die verpflichteten Parteien 1. O*****, 2. S*****, beide wohnhaft in *****, wegen 53.421,91 EUR sA, über den Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Leoben als Rekursgericht vom 18. Juli 2016, GZ 32 R 18/16s-38, womit der Meistbotsverteilungsbeschluss des Bezirksgerichts Leoben vom 25. Februar 2016, GZ 9 E 6/15a-35, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Gegenstand des Revisionsrekursverfahrens ist ausschließlich die Frage, ob aufgrund des zu Gunsten der Betreibenden auf der zwangsversteigerten Liegenschaft einverleibten exekutiven Pfandrechts auch die vertraglich vereinbarten Zinsen im Rang der vollstreckbaren Kapitalforderung zuzuweisen sind.
+Das Rekursgericht verneinte diese Frage mit der Begründung, es sei nur ein Pfandrecht über die vollstreckbare Forderung von 53.421,91 EUR sowie „Kosten laut Bewilligung“ unter Angabe der Geschäftszahl des Bewilligungsverfahrens bücherlich sichergestellt worden.
+Den Revisionsrekurs ließ das Rekursgericht nachträglich mit der Begründung zu, es fehle Rechtsprechung, ob der Verweis im Grundbuch auf die Exekutionsbewilligung, die in der elektronischen Urkundensammlung eingesehen werden könne, ausreiche, um ein exekutives Pfandrecht auch hinsichtlich einer im Grundbuch nicht erwähnten Nebenforderung zu begründen.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Betreibenden, mit dem sie die Wiederherstellung des erstinstanzlichen Meistbotsverteilungsbeschlusses anstrebt, ist entgegen dem den Obersten Gerichtshof nicht bindenden Zulässigkeitsausspruch des Rekursgerichts nicht zulässig.
+1. Das Rekursgericht hat im Einklang mit der ständigen Rechtsprechung darauf verwiesen, dass – von hier nicht vorliegenden Ausnahmen abgesehen – das Exekutionsverfahren einseitig ist. Das gilt auch für das Verfahren zweiter Instanz, soweit die Herstellung der Waffengleichheit im Rekursverfahren durch Anhörung des Rekursgegners nicht aus besonderen – nur von der zweiten Instanz im Einzelfall im Rahmen ihres pflichtgemäßen Ermessens beurteilbaren – Gründen geboten erscheint. Letzterer Grundsatz könnte dann zum Tragen kommen, wenn die Anrufung des Obersten Gerichtshofs jedenfalls unzulässig ist und das Rekursgericht deshalb als letzte Instanz entscheidet (RIS-Justiz RS0118686). Dieser Fall liegt hier nicht vor.
+2. Auch im Übrigen zeigt der Revisionsrekurs keine erhebliche Rechtsfrage auf.
+2.1 Die Betreibende beruft sich ausschließlich auf die Entscheidung 8 Ob 21/13s, aus der hervorgehe, dass nach § 5 GBG im Hauptbuch nur die wesentlichen Bestimmungen der bücherlichen Rechte einzutragen seien. Ließen sie eine „kurze Fassung“ nicht zu, reiche eine Berufung auf genau zu bezeichnende Stellen jener Urkunde aus, die Eintragungsgrundlage sei.
+2.2 Dabei lässt die Betreibende allerdings außer Acht, dass dem zu 8 Ob 21/13s (NZ 2015/70, 223 [Hoyer]) entschiedenen Fall eine andere als die hier vorliegende Konstellation zugrundelag: Dort war im Grundbuch die Einverleibung der Hauptforderung „samt Zinsen und Kosten gemäß Exekutionsbewilligung für....GZ“ einverleibt. Der achte Senat beurteilte diese Eintragung als zwar unbestimmte, aber aus der Urkundensammlung bestimmbare Pfandrechtseinverleibung auch hinsichtlich der vertraglich vereinbarten Zinsen. Die wesentliche Funktion des § 5 GBG liege darin, das Hauptbuch zu entlasten. Dieser Zweck werde bei umfangreichen Zinsstaffeln auch durch Verweisung auf konkrete Urkundenteile erreicht.
+2.3 Die Argumentation im Revisionsrekurs, es handle sich im hier zu beurteilenden Fall ebenfalls um eine unbestimmte, aber bestimmbare Eintragung im Grundbuch, vernachlässigt, dass bei ihr jeglicher Verweis im Hauptbuch auf Zinsen fehlt. Es liegt daher in diesem Umfang keine unbestimmte, sondern vielmehr gar keine Eintragung vor.
+2.4 Die Frage, ob bei einer in Ziffern auszudrückenden zu sichernden Geldforderung, etwa bei einer umfassenden Zinsstaffel, überhaupt eine Bezugnahme auf die Urkundensammlung möglich ist (wenn man berücksichtigt, dass der Gesetzgeber bei den in § 5 GBG genannten „wesentlichen Bestimmungen“, die eine kurze Fassung nicht zulassen, primär in Worten auszudrückende Vertragspunkte vor Augen hat), stellt sich daher nicht (verneinend Rassi in Kodek, Grundbuchsrecht² [2016] in Druck § 5 GBG Rz 8).
+2.5 Die Richtigkeit der auf Lehre und Rechtsprechung beruhenden Auffassung des Rekursgerichts, dass vertragliche Zinsen bei der Einverleibung des Kapitals eingetragen sein müssen und im Grundbuch beim Kapital nicht eingetragene vertragliche Zinsen in der Liegenschaftsexekution bei Vorliegen eines Titels nur im Rang der Anmerkung der Einleitung des Versteigerungsverfahrens berücksichtigt werden können (RIS-Justiz RS0060602; Rassi in Kodek, Grundbuchsrecht² §§ 17, 18 GBG Rz 7 mwN), bezweifelt die Betreibende nicht.
+3. Das sich der Revisionsrekurs nur
+– unzutreffend – darauf beruft, dass hier eine unbestimmte, aber bestimmbare Eintragung vorliege und damit aus den dargelegten Gründen keine erhebliche Rechtsfrage aufzeigt, kommt auch ein amtswegiges Aufgreifen der Frage, ob und unter welchen Umständen eine Berichtigung des Grundbuchs iSd § 104 Abs 3 GBG wegen des Vollzugsfehlers bei der Einverleibung möglich wäre, nicht in Betracht (vgl dazu Hoyer, NZ 2015/70 [Anm]).
+Der Revisionsrekurs ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00193.16B.1213.000

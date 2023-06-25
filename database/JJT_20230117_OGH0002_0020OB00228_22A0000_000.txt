@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.2023
+Geschäftszahl
+2Ob228/22a
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei D*, vertreten durch Abel Rechtsanwälte GmbH in Wien, gegen die beklagte Partei E*, vertreten durch Olischar Rechtsanwaltsgesellschaft mbH in Wien, wegen 130.000 EUR sA, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 10. November 2022, GZ 16 R 178/22x-17, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Durch die Neufassung des § 45 JN durch die ZVN 1983 sollte die Anfechtung von Entscheidungen über die sachliche Zuständigkeit weiter eingeengt werden; nach Eintritt der Streitanhängigkeit getroffene Entscheidungen, mit denen ein Gericht seine sachliche Unzuständigkeit ausspricht, sind demnach nur dann anfechtbar, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat (7 Ob 32/21p Rz 1 mwN).
+[2] 		2. Nach ständiger Rechtsprechung macht es für die Anwendung des § 45 JN keinen Unterschied, mit welcher Begründung über die sachliche Zuständigkeit entschieden wird (RS0103687). Ein Rechtsmittel ist daher selbst dann ausgeschlossen, wenn eine Nichtigkeit oder die Verletzung zwingenden Rechts ins Treffen geführt wird (RS0103687 [T2]).
+[3] 		3. Ausnahmen von der Rechtsmittelbeschränkung des § 45 JN lässt die Rechtsprechung nur in engen Grenzen zu. Bei der Annahme des Vorliegens einer Ausnahme vom Anfechtungsausschluss des § 45 JN ist nämlich Zurückhaltung geboten, weil der Gesetzgeber es nach dem klaren Wortlaut der Bestimmung in Kauf genommen hat, dass selbst schwere Verstöße gegen das Verfahrensrecht im Interesse der Verfahrensökonomie nicht aufgegriffen werden können (RS0116856 [T4]).
+[4] 		4. Der Oberste Gerichtshof hat bereits ausgesprochen, dass der Rechtsmittelausschluss des § 45 JN auch für den Fall gilt, dass der Rechtsmittelwerber ins Treffen führt, dass das Erstgericht einer präkludierten Unzuständigkeitseinrede des Beklagten stattgegeben habe (RS0039790). In der Entscheidung 1 Ob 52/95 betonte der Oberste Gerichtshof, dass der Rechtsmittelausschluss des § 45 JN selbst dann gelte, wenn das Erstgericht nach Einlangen der Klagebeantwortung ohne Erhebung einer Unzuständigkeits-einrede durch den Beklagten seine sachliche Unzuständigkeit ausgesprochen habe.
+[5] 		5. Vor diesem Hintergrund erweist es sich als jedenfalls vertretbar, wenn das Rekursgericht den Rekurs gegen einen Beschluss zurückgewiesen hat, mit dem das Erstgericht aufgrund einer (an sich gemäß § 43 Abs 3 JN ausgeschlossenen) Unzuständigkeitseinrede der Beklagten in der Klagebeantwortung seine sachliche Unzuständigkeit ausgesprochen hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00228.22A.0117.000

@@ -1,0 +1,29 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+12.04.2018
+Geschäftszahl
+133R22/17h
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht ***** wegen Einspruchs gegen die Erteilung des Patents [...] (hier: wegen Rückzahlung der Gebühr für den Antrag auf Anberaumung einer mündlichen Verhandlung) über den Rekurs der Antragstellerin gegen den Beschluss der Technischen Abteilung des Patentamts vom 22.9.2016, 2A A 45/2013-11, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Rekursverfahren wird fortgesetzt.
+Dem Rekurs wird nicht Folge gegeben.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Begründung
+Text
+1. Die Antragstellerin erhob gegen das [...] der Antragsgegnerin Einspruch gemäß § 102 PatG und beantragte unter Entrichtung der Gebühr von EUR 210 (§ 28 Abs 1 Z 1 PAG) die Anberaumung einer mündlichen Verhandlung vor der Technischen Abteilung des Patentamts.
+Mit Beschluss vom 30.3.2016 wies die Technische Abteilung den Einspruch ab und hielt das angegriffene Patent im vollen Umfang aufrecht, ohne eine mündliche Verhandlung durchzuführen.
+2. Mit Antrag vom 20.6.2016 begehrte die Antragstellerin die Rückzahlung der gemäß § 28 Abs 1 Z 1 PAG entrichteten Gebühr von EUR 210. Diesen Antrag wies die Technische Abteilung mit dem nunmehr angefochtenen Beschluss ab. Rechtlich führte sie dazu aus, dass das PAG keine Bestimmung über die volle oder teilweise Rückzahlung einer solchen Gebühr enthalte. Der Gesetzgeber habe bei der Einführung dieser Gebühr klargemacht, dass diese Maßnahme auch prohibitiv gegen mutwillig gestellte Anträge wirken solle. Gerade diese Wirkung könne nicht erzielt werden, wenn der Antragstellerin eine Rückzahlungsmöglichkeit bei Nichtdurchführung einer mündlichen Verhandlung offen stünde. Nach § 103 PatG liege es im Ermessen des Vorsitzenden, eine mündliche Verhandlung anzuberaumen. Die Antragstellerin habe zur Notwendigkeit einer mündlichen Verhandlung nichts vorgetragen.
+3. Gegen diesen Beschluss richtet sich der Rekurs der Antragstellerin aus dem Rekursgrund der unrichtigen rechtlichen Beurteilung mit dem Antrag, die Entscheidung zu ändern und dem Antrag auf Rückzahlung stattzugeben. Nach Ansicht der Antragstellerin sei der Beschluss per se rechtswidrig, weil er auf der Anwendung einer verfassungswidrigen Bestimmung beruhe.
+Rechtliche Beurteilung
+4. Mit Beschluss vom 5.5.2017, 133 R 22/17h-3, stellte das Rekursgericht den Antrag an den Verfassungsgerichtshof, die Verfassungsmäßigkeit von § 28 Abs 1 Z 1 PAG zu prüfen, und hielt mit der Fortführung des (Rekurs-)Verfahrens bis zur Zustellung der Entscheidung des Verfassungsgerichts inne.
+5. Mit Erkenntnis vom 7.3.2018, G 97/2017-7, wies der Verfassungsgerichtshof den Antrag, soweit er sich gegen die Wortfolge „oder der Technischen Abteilung“ in § 28 Abs 1 Z 1 PAG gerichtet hat, ab; im Übrigen wies er ihn zurück.
+Der Verfassungsgerichtshof teilte die Bedenken des Rekursgerichts nicht und hielt an seiner Rechtsprechung fest, wonach bei Gerichtsgebühren keine strenge Äquivalenz im Einzelfall in dem Sinn erforderlich sei, dass die Gebühren dem bei Gericht verursachten Aufwand entsprechen müssten. Ein Antrag gemäß § 103 Abs 2 PatG auf Durchführung einer mündlichen Verhandlung führe nämlich auch dann zu einem Mehraufwand der Behörde, wenn ihm nicht entsprochen und keine Verhandlung durchgeführt werde. Wenn eine derartige Amtshandlung beantragt werde, habe die Behörde zu begründen, warum sie eine Verhandlung nicht für erforderlich halte.
+Auch treffe die behauptete Gleichheitswidrigkeit nicht zu. Das maßgebliche Kriterium für die Durchführung einer mündlichen Verhandlung sei deren Erforderlichkeit im Sinne des Prinzips der Rechtsstaatlichkeit; erfordere diese es, sei eine mündliche Verhandlung anzuberaumen. Die Möglichkeit einer Partei, sich in dieser Verhandlung zu äußern, könne nicht davon abhängen, ob diese Partei die Gebühr in der gesetzlichen Höhe entrichtet habe oder nicht. Unter dem Gesichtspunkt des Rechtsschutzes stelle sich dabei keine Frage der Gleichheitswidrigkeit.
+6. Auf Basis dieses Erkenntnisses ist den Rekursgründen der Boden entzogen. Nach § 28 Abs 1 Z 1 PAG besteht für eine Rückerstattung der Antragsgebühr keine Rechtsgrundlage.
+7. Gemäß § 62 Abs 2 Z 3 AußStrG ist der Revisionsrekurs jedenfalls unzulässig.
+European Case Law Identifier
+ECLI:AT:OLG0009:2018:13300R00022.17H.0412.000

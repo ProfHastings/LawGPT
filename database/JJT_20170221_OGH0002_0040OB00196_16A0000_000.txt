@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.02.2017
+Geschäftszahl
+4Ob196/16a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin B* Gesellschaft m.b.H., *, vertreten durch Doralt Seist Csoklich Rechtsanwalts-Partnerschaft in Wien, gegen die Beklagte M* B*, vertreten durch Dr. Robert Galler und Dr. Rudolf Höpflinger, Rechtsanwälte in Salzburg, wegen 14.139,95 EUR sA, über die Revision der Beklagten (Revisionsinteresse 9.037,69 EUR sA) gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 4. Mai 2016, GZ 22 R 115/16i-30, womit das Urteil des Bezirksgerichts Saalfelden vom 7. Februar 2016, GZ 2 C 234/12z-25, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Beklagte ist schuldig, der Klägerin binnen 14 Tagen die mit 833,88 EUR (darin 138,98 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Die Vorinstanzen gaben dem Klagebegehren auf Rückzahlung von überhöhten Mietzinsen statt. Durch rechtskräftige Vorentscheidungen stehe fest, dass die Zinserhöhung teilnichtig sei. Eine Aufrechnungseinrede der Beklagten wurde vom Erstgericht als verspätet zurückgewiesen. Das Berufungsgericht erachtete darin keinen Verfahrensmangel.
+Das Berufungsgericht ließ die ordentliche Revision nachträglich zu, weil Rechtsprechung zur Frage fehle, ob eine an sich fremdübliche Wertsicherung des Mietzinses bei der Beurteilung der Angemessenheit einer Mietzinserhöhung iSd § 82 Abs 1 GmbHG (Verbot der Einlagenrückgewähr) auch dann einen zinserhöhenden Faktor bildet, wenn – wie hier – im ursprünglichen Mietvertrag keine Wertsicherungsvereinbarung getroffen worden und eine solche auch nicht schlüssig zustandegekommen ist.
+Rechtliche Beurteilung
+Die – von der Klägerin beantwortete – Revision der Beklagten ist ungeachtet des – den Obersten Gerichtshof nicht bindenden – Zulassungsausspruchs des Berufungsgerichts nicht zulässig.
+1. Eine allfällige Nichterledigung der von der Beklagten geltend gemachten Gegenforderung würde eine Mangelhaftigkeit des erstinstanzlichen Verfahrens nach § 496 Abs 1 Z 1 ZPO begründen (vgl RIS-Justiz RS0041486). Eine derartige Mangelhaftigkeit wurde aber vom Berufungsgericht verneint, was grundsätzlich die neuerliche Geltendmachung des behaupteten Verfahrensmangels in dritter Instanz unzulässig macht (RIS-Justiz RS0042963). Dieser Grundsatz ist dann unanwendbar, wenn das Berufungsgericht infolge einer unrichtigen Anwendung verfahrensrechtlicher Vorschriften Mängel des Verfahrens erster Instanz mit einer durch die Aktenlage nicht gedeckten Begründung verneinte (RIS-Justiz RS0043086 [T4, T5]). Derartiges wird jedoch in der Revision nicht aufgezeigt.
+2. Die zur Zulassungsfrage des Berufungsgerichts im Rechtsmittel getroffenen Ausführungen übersehen, dass sich beim vorliegenden Sachverhalt die Frage einer verbotenen Einlagenrückgewähr im Zusammenhang mit einer fehlenden Wertsicherungsklausel nicht stellt, weil eine solche nur vorliegen kann, wenn die Gesellschaft dem Gesellschafter einen zu hohen (einem Fremdvergleich nicht standhaltenden) Mietzins bezahlt hat. Besteht aber (wie hier) keine Wertsicherungsvereinbarung zwischen den Parteien, fehlt es (abgesehen vom vereinbarten Mietzins) auch an einer (zusätzlichen) Leistung der Gesellschaft an einen Gesellschafter, die ihr Vermögen gesetzwidrig verringert und beim Fremdvergleich iSd § 82 GmbHG zu berücksichtigen wäre.
+3. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO. Die Klägerin hat in ihrer Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E117393

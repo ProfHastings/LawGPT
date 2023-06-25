@@ -1,0 +1,47 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+05.03.2009
+Geschäftszahl
+Bsw77144/01 (Bsw35493/05)
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer V, Beschwerdesache Colak und Tsakiridis gegen Deutschland, Urteil vom 5.3.2009, Bsw. 77144/01 und Bsw. 35493/05.
+Spruch
+Art. 2 EMRK, Art. 6 Abs. 1 EMRK, Art. 8 EMRK - Beweislast in Schadenersatzprozess gegen Arzt.
+Keine Verletzung von Art. 2 EMRK (einstimmig).
+Keine Verletzung von Art. 8 EMRK (6:1 Stimmen).
+Keine Verletzung von Art. 6 Abs. 1 EMRK (einstimmig).
+Text
+Begründung:
+Sachverhalt:
+Im Dezember 1992 stellte der Lebensgefährte der Bf. fest, dass er an Lymphdrüsenkrebs und AIDS litt. Er erzählte der Bf. von der Krebserkrankung, verschwieg ihr aber die AIDS-Infektion. Am 21.1.1993 informierte er den gemeinsamen Hausarzt über seine Erkrankungen, untersagte diesem aber, gegenüber irgendjemandem zu erwähnen, dass er an AIDS litt. Als die Bf. am 29.1.1993 den Arzt konsultierte, verschwieg er ihr die HIV-Infektion ihres Lebensgefährten. Nachdem dieser im Dezember 1994 seinen Krankheiten erlegen war, erfuhr die Bf. im März 1995 von ihrem Hausarzt, dass ihr Partner an AIDS gelitten hatte. Einen Monat später ergab ein Test, dass sie ebenfalls HIV-positiv war.
+Die Bf. erhob beim Landgericht Wiesbaden Schadenersatzklage gegen den Hausarzt. Sie brachte vor, der Beklagte habe es verabsäumt, sie über die Infektion ihres Lebensgefährten zu informieren, wodurch sie daran gehindert worden sei, sich gegen eine Ansteckung zu schützen. Ein Sachverständiger kam zu dem Schluss, dass sich die Bf. wahrscheinlich schon vor dem 29.1.1993 mit dem Virus infiziert hatte. Das Landgericht Wiesbaden wies die Klage am 24.2.1999 mit der Begründung ab, der Arzt wäre aufgrund seiner Verschwiegenheitspflicht nur dann verpflichtet gewesen, die Bf. über die Krankheit ihres Lebensgefährten zu informieren, wenn dies die einzige Möglichkeit zur Verhinderung einer Ansteckung der Bf. gewesen wäre. Dies sei jedoch nicht anzunehmen, da der Arzt darauf vertrauen durfte, dass sein Patient seine Anweisungen zur Verhinderung einer Ansteckung befolgen würde.
+Die gegen dieses Urteil erhobene Berufung wurde am 5.10.1999 vom OLG Frankfurt abgewiesen. Im Gegensatz zum Landgericht stellte das OLG eine Missachtung der Sorgfaltspflicht des Beklagten gegenüber der Bf. fest, der als Behandlungsfehler anzusehen wäre. Da der Arzt jedoch keine medizinischen Standards missachtet, sondern lediglich seiner Verschwiegenheitspflicht zu großes Gewicht beigemessen hätte, könne nicht von einem schweren Behandlungsfehler ausgegangen werden, der eine Beweislastumkehr hinsichtlich der Kausalität zwischen dem Behandlungsfehler und der HIV-Infektion der Bf. nach sich ziehen würde. Das OLG hielt es nicht für erwiesen, dass sich die Bf. erst nach dem 29.1.1993 angesteckt hätte.
+Der BGH lehnte am 4.4.2000 die Behandlung der dagegen erhobenen Revision wegen mangelnder Aussicht auf Erfolg ab.
+Das BVerfG nahm am 14.11.2000 die Verfassungsbeschwerde der Bf. nicht zur Entscheidung an.
+Das gegen den Hausarzt eingeleitete Strafverfahren wurde im April 2003 eingestellt.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Die Bf. behauptet eine Verletzung von Art. 2 EMRK (Recht auf Leben), Art. 8 EMRK (hier: Recht auf Achtung des Privatlebens) und von Art. 6 Abs. 1 EMRK (Recht auf ein faires Verfahren).
+Zur behaupteten Verletzung von Art. 2 und Art. 8 EMRK:
+Nach Ansicht der Bf. verletzte sie die Verweigerung einer Entschädigung in ihrem Recht auf Leben und auf Achtung des Privatlebens.
+Zur Anwendbarkeit von Art. 2 EMRK erinnert der GH daran, dass diese Bestimmung den Staat auch dazu verpflichtet, angemessene Schritte zum Schutz des Lebens der seiner Hoheitsgewalt unterworfenen Personen zu setzen. Die positiven Verpflichtungen nach Art. 2 EMRK erfordern ein effektives unabhängiges Gerichtssystem, damit die Todesursache von Patienten in ärztlicher Behandlung festgestellt werden kann und die Verantwortlichen zur Rechenschaft gezogen werden können.
+Ein Ereignis, das nicht den Tod zur Folge hat, kann jedoch nur unter außergewöhnlichen Umständen eine Verletzung von Art. 2 EMRK begründen. Solche können in einer tödlichen Krankheit bestehen. Angesichts der besonderen Umstände des vorliegenden Falls geht der GH von der Annahme aus, dass die Beschwerde eine das Recht auf Leben betreffende Angelegenheit aufwirft.
+Im Bereich ärztlicher Fahrlässigkeit können die positiven Verpflichtungen unter Art. 2 EMRK erfüllt sein, wenn das Rechtssystem Opfern einen Rechtsbehelf vor den Zivilgerichten – entweder alleine oder in Kombination mit einem Rechtsbehelf vor den Strafgerichten – zur Verfügung stellt, der die Feststellung einer Haftung des betroffenen Arztes und die Erlangung angemessener zivilrechtlicher Wiedergutmachung, etwa durch Zuspruch von Schadenersatz, ermöglicht.
+Das innerstaatliche Recht sieht die Einbringung von Schadenersatzklagen vor den Zivilgerichten vor. Wie der GH außerdem feststellt, enthält § 34 StGB einen allgemeinen rechtlichen Rahmen zur Lösung des Interessenkonflikts zwischen der einem Patienten geschuldeten ärztlichen Verschwiegenheitspflicht und dem Recht eines anderen Patienten auf körperliche Unversehrtheit. Das deutsche Rechtssystem sieht damit Rechtsbehelfe vor, die den Anforderungen von Art. 2 EMRK entsprachen, da sie durch ärztliche Fahrlässigkeit verletzten Parteien sowohl strafrechtliche als auch zivilrechtliche Verfahren zur Verfügung stellen.
+Nach dem innerstaatlichen Recht trägt ein Patient, der Schadenersatz wegen ärztlicher Fahrlässigkeit verlangt, im Allgemeinen die Beweislast für den nötigen kausalen Zusammenhang zwischen der Nachlässigkeit des Arztes und der Schädigung seiner Gesundheit. Nach der ständigen Rechtsprechung der innerstaatlichen Gerichte führt nur ein schwerer Behandlungsfehler zu einer Beweislastumkehr. Ein solcher wird angenommen, wenn klare Regeln der ärztlichen Kunst eindeutig verletzt wurden. Im vorliegenden Fall anerkannte das OLG Frankfurt, dass der Arzt seine Berufspflichten gegenüber der Bf. verletzt hatte. Da dies jedoch nicht als schwerwiegender Behandlungsfehler angesehen werden konnte, war es nicht möglich, eine weniger strenge Regel hinsichtlich der Beweislast anzuwenden. Es war daher Sache der Bf. zu beweisen, dass sie sich erst nach dem Jänner 1993 angesteckt hatte.
+Als das OLG Frankfurt dieses Urteil fällte, bestand keine ständige innerstaatliche Rechtsprechung hinsichtlich der Frage, ob ein Hausarzt verpflichtet wäre, die HIV-Infektion eines Patienten gegen dessen Willen gegenüber seinem Partner zu offenbaren. Es scheint dem Geist von Art. 2 EMRK nicht zu widersprechen, wenn das OLG keinen schwerwiegenden Behandlungsfehler annahm, der eine Beweislastumkehr nach sich gezogen hätte. Dies schließt die Möglichkeit nicht aus, dass nach der Klärung der Berufspflichten eines Arztes unter solchen Umständen durch das inzwischen veröffentlichte Urteil des OLG Frankfurt in künftigen Fällen ein strengerer Standard anzuwenden sein könnte.
+Die deutschen Gerichte haben das Recht der Bf. auf Leben und körperliche Unversehrtheit ausreichend beachtet und es somit nicht verabsäumt, das innerstaatliche Recht im Geiste der Konvention auszulegen. Da sie damit die positiven Verpflichtungen beachtet haben, liegt keine Verletzung von Art. 2 EMRK vor (einstimmig). Aus denselben Gründen stellt der GH fest, dass keine Verletzung von Art. 8 EMRK vorliegt (6:1 Stimmen; Sondervotum von Richter Maruste).
+Zur behaupteten Verletzung von Art. 6 Abs. 1 EMRK:
+Soweit die Beschwerde die Weigerung der Gerichte rügt, einen weniger strengen Beweismaßstab anzulegen, wirft sie die Frage auf, ob dem Grundsatz der Waffengleichheit entsprochen wurde.
+Der GH hat angesichts der sorgfältigen Prüfung der Angelegenheit durch das OLG Frankfurt bereits festgestellt, dass die Bestimmungen des deutschen Zivilrechts über die Schadenersatzansprüche der Bf. im Geiste der Konvention ausgelegt und angewendet wurden. Selbst unter Berücksichtigung der Schwierigkeiten, mit denen Patienten konfrontiert sein können, wenn sie den Nachweis erbringen müssen, dass eine ärztliche Behandlung den erlittenen Schaden verursacht hat, ist der GH der Ansicht, dass die Bf. keinen wesentlichen Nachteil gegenüber dem Beklagten erlitten hat und daher dem Grundsatz der Waffengleichheit entsprochen wurde.
+Da das Verfahren insgesamt betrachtet fair war, stellt der GH keine Verletzung von Art. 6 Abs. 1 EMRK fest (einstimmig).
+Vom GH zitierte Judikatur:
+Calvelli und Ciglio/I v. 17.1.2002 (GK), NL 2002, 12; ÖJZ 2003, 307.
+Vo/F v. 8.7.2004 (GK), NL 2004, 180; EuGRZ 2005, 568.
+Storck/D v. 16.6.2005, NL 2005, 134; EuGRZ 2008, 582.
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 5.3.2009, Bsw. 77144/01 und Bsw. 35493/05, entstammt der Zeitschrift "Newsletter Menschenrechte" (NL 2009, 70) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im englischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/09_2/Colak.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

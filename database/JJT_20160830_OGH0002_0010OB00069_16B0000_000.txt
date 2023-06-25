@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.2016
+Geschäftszahl
+1Ob69/16b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Bydlinski, Mag. Wurzer, Mag. Dr. Wurdinger und die Hofrätin Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei H***** GesmbH, *****, vertreten durch die Schneider Rechtsanwalts KG, Wien, gegen die beklagte Partei A***** GmbH, *****, vertreten durch Mag. Christian Posch, Rechtsanwalt in Salzburg, wegen 10.945,14 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 23. Februar 2016, GZ 53 R 288/15g-46, mit dem das Urteil des Bezirksgerichts Salzburg vom 27. August 2015, GZ 34 C 8/15m-42, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision und der Schriftsatz der klagenden Partei vom 1. April 2016 werden zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 860,58 EUR (darin 143,43 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht sprach in Stattgebung des Abänderungsantrags der Klägerin aus, die ordentliche Revision sei doch zulässig, weil es möglich erscheine, dass es die Frage des Anscheinsbeweises nicht richtig gelöst habe. Außerdem liege eine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO darin, ob und in welcher Form die Mängelvermutung nach § 924 ABGB beim Eintritt des Motorschadens innerhalb von sechs Monaten nach den Reparaturarbeiten den Kausalitätsbeweis für die Ansprüche der Klägerin beeinflussen könnte.
+Rechtliche Beurteilung
+Der Oberste Gerichtshof ist bei der Prüfung der Zulässigkeit einer Revision an den Ausspruch des Berufungsgerichts nach § 500 Abs 2 Z 3 ZPO nicht gebunden (§ 508a Abs 1 ZPO). Gemäß § 510 Abs 3 letzter Satz ZPO kann sich die Zurückweisung der ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage auf die Ausführung der Zurückweisungsgründe beschränken.
+1. Jeder Partei steht nur eine einzige Rechtsmittelschrift oder Rechtsmittelgegenschrift zu. Weitere Rechtsmittelschriften, Nachträge oder Ergänzungen sind unzulässig (RIS-Justiz RS0041666; vgl RS0036673). Der Schriftsatz der Klägerin vom 1. 4. 2016, in dem sie Korrekturen ihrer Revision vornimmt, ist daher zurückzuweisen.
+2. Soweit die Klägerin in der Revision mit der Behauptung des Vorliegens rechtlicher Feststellungsmängel die vom Erstgericht getroffenen und vom Berufungsgericht übernommenen Sachverhaltsfeststellungen bekämpft, ist sie darauf zu verweisen, dass der Oberste Gerichtshof nicht Tatsacheninstanz ist und Fragen der Beweiswürdigung nicht revisibel sind (RIS-Justiz RS0042903 [T2, T10]; RS0069246 [T1, T2]).
+Im Übrigen liegen die von ihr in diesem Zusammenhang gerügten sekundären Feststellungsmängel nicht vor. Wurden – wie hier – zu einem bestimmten Thema ohnehin Feststellungen getroffen, mögen diese auch den Vorstellungen der Rechtsmittelwerberin zuwiderlaufen, kann der Vorwurf eines Feststellungsmangels nicht mehr erfolgreich erhoben werden (vgl RIS-Justiz RS0043320 [T18]; RS0043480 [T15]; RS0053317 [T1]).
+3. Grundsätzlich hat jede Partei die für ihren Rechtsstandpunkt günstigen Tatsachen zu beweisen (RIS-Justiz RS0037797; RS0039939 [T6, T7]; RS0109832 [T1]). Die Gewährleistungsklägerin hat daher den von ihr behaupteten Mangel zu beweisen (RIS-Justiz RS0018553) und als Geschädigte trifft sie auch die Beweislast für den Kausalzusammenhang (RIS-Justiz RS0022686 [T2]).
+Nach den getroffenen Feststellungen waren Fremdbauteile, die in den Brennraum des Motors gelangten, Ursache für den Schaden am Fahrzeug der Klägerin. Die von der Beklagten im März 2012 durchgeführte Reparatur am Motor war nicht ursächlich für die Fremdbauteile im Brennraum des Motors. Die Beklagte führte auch im Zeitraum Dezember 2008 bis März 2012 mehrere Reparatur- und Servicearbeiten am Fahrzeug der Klägerin durch. Keine der von ihr verrechneten Leistungen konnte den Schaden am Motor hervorrufen.
+Bei der Frage, ob der beweispflichtigen Partei der Nachweis einer bestimmten Tatsache gelungen ist, handelt es sich um eine Frage der Beweiswürdigung, die – wie schon dargelegt – im Revisionsverfahren nicht mehr überprüfbar ist (RIS-Justiz RS0112242 [T1]). Die Bejahung oder – wie hier – Verneinung der natürlichen Kausalität ist eine Frage der Tatsachenfeststellungen und damit ebenfalls irrevisibel (6 Ob 17/09g = RIS-Justiz RS0023778 [T3]; RS0043473).
+Zutreffend haben die Vorinstanzen mangels Nachweises einer mangelhaften Reparatur durch die Beklagte, die kausal zum Motorschaden geführt hätte, das Klagebegehren abgewiesen. Damit stellen sich weder Fragen zum Anscheinsbeweis noch zur Vermutung der Mangelhaftigkeit nach § 924 Satz 2 ABGB.
+4. Da somit erhebliche Rechtsfragen im Sinn des § 502 Abs 1 ZPO nicht geltend gemacht werden und auch sonst nicht zu beantworten sind, ist die Revision zurückzuweisen.
+Die Kostenentscheidung beruht auf den §§ 41 und 50 ZPO. Die Beklagte hat in ihrer Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0010OB00069.16B.0830.000

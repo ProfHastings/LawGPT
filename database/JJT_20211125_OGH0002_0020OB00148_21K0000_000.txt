@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2021
+Geschäftszahl
+2Ob148/21k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden, die Hofräte Dr. Musger und Dr. Nowotny, die Hofrätin Mag. Malesich sowie den Hofrat MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Parteien 1. H* B*, 2. H* B* und 3. D* B*, vertreten durch Donnerbauer & Partner Rechtsanwalts GmbH in Retz, gegen die beklagten Parteien 1. R* Z*, 2. H* H*, und 3. U* AG, *, alle vertreten durch Tramposch & Partner Rechtsanwälte KG in Wien, wegen 1. (erstklagende Partei) 4.162,13 EUR sA, 2. (zweitklagende Partei) 38.654,93 EUR sA und Feststellung (4.000 EUR) und 3. (drittklagende Partei) 59.080,28 EUR sA und Feststellung (4.000 EUR), über die außerordentliche Revision der drittklagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Juni 2021, GZ 15 R 65/21w-33, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Werden die Feststellungen des Erstgerichts übernommen und der Entscheidung des Berufungsgerichts zugrunde gelegt, kann darin schon begrifflich keine Aktenwidrigkeit liegen (RS0043240). Der Revisionsgrund der Aktenwidrigkeit kann auch nicht als Ersatz für eine im Revisionsverfahren generell unzulässige Beweisrüge – hier zur Würdigung des Sachverständigengutachtens durch die Vorinstanzen – herangezogen werden (RS0117019). Insgesamt richten sich die unter dem Revisionsgrund der Mangelhaftigkeit des Berufungsverfahrens zusammengefassten Vorwürfe des Drittklägers daher in Wahrheit allein gegen die in dritter Instanz nicht mehr überprüfbare Beweiswürdigung (vgl RS0043163).
+[2] 		2. Da die Kläger die Beweislast für die behauptete (objektive) Verletzung der Schutznorm des § 7 Abs 2 StVO durch den Erstbeklagten traf (RS0112234), ist der Verschuldensabwägung aufgrund der Feststellung, der Seitenabstand des 2,55 m breiten Beklagtenfahrzeugs zum rechten Fahrbahnrand habe „35,6 cm (+/– 2 cm)“ betragen, ein solcher von 33,6 cm – bei gleichzeitigem Überschreiten der in der Fahrbahnmitte angebrachten Leitlinie um nur 0,6 cm – zugrunde zu legen. Die Rechtsansicht des Berufungsgerichts, dass jedenfalls kein „eklatanter Verstoß“ des mit ca 70 km/h fahrenden Erstbeklagten gegen § 7 Abs 2 StVO vorliege und selbst ein in der Einhaltung der festgestellten Fahrlinie zu erblickendes Fehlverhalten gegenüber dem gegen § 15 Abs 4 StVO verstoßenden Überholmanöver des Erstklägers samt dessen verfrühten Fahrstreifenwechsel zu vernachlässigen wäre, steht im Einklang mit der bereits vom Berufungsgericht zitierten Rechtsprechung (8 Ob 36/87; 2 Ob 45/88; vgl RS0073997) und wirft keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf.
+[3] 		3. Eine außergewöhnliche Betriebsgefahr ist anzunehmen, wenn die Gefährlichkeit, die regelmäßig und notwendig mit dem Betrieb eines Kraftfahrzeugs verbunden ist, durch das Hinzutreten besonderer Gefahrenmomente vergrößert wird (2 Ob 217/20f mwN; RS0058467). Ein solcher Sachverhalt geht aus den Feststellungen nicht hervor. Dass die Vorinstanzen die minimale Überschreitung der Fahrbahnmitte durch das Beklagtenfahrzeug bei sonst unauffälligem Fahrverhalten nicht als außergewöhnliche Betriebsgefahr werteten, entspricht der zitierten höchstgerichtlichen Judikatur.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00148.21K.1125.000

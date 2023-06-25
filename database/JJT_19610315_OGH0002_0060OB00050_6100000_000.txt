@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.03.1961
+Geschäftszahl
+6Ob50/61
+Norm
+Gesetz über Gesellschaften mit beschränkter Haftung §41;
+Gesetz über Gesellschaften mit beschränkter Haftung §50 Abs1;
+Kopf
+SZ 34/40
+Spruch
+Nicht mit der für eine Vertragsänderung gesetzlich oder vertraglich festgesetzten Majorität in der Generalversammlung beschlossene Weisungen dürfen bei, Widerspruch zum Gesellschaftsvertrag vom Geschäftsführer nicht befolgt werden.
+Entscheidung vom 15. März 1961, 6 Ob 50/61.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die vier Kläger und die beiden Nebenintervenienten sind die sechs Gesellschafter der beklagten Gesellschaft m. b. H. Sie sind an ihr wie folgt beteiligt: die Erstklägerin zu 22.73%, die Zweitklägerin zu 7.43%, die Drittklägerin und der Viertkläger zu je 7.42%, der Erstnebenintervenient zu 28%, der Zweitnebenintervenient zu 27%. Geschäftsführer sind die Erstklägerin und der Erstnebenintervenient.
+Der Gesellschaftsvertrag enthält u. a. folgende Bestimmungen:
+"XV. Firmazeichnung. Die Vertretung der Gesellschaft und die Zeichnung der Gesellschaftsfirma erfolgt durch den Geschäftsführer, wenn mehrere Geschäftsführer bestellt sind, durch die Geschäftsführer kollektiv .....
+XVII. Generalversammlung ...... Zu nachstehenden Beschlüssen ist
+Dreiviertelmehrheit erforderlich: ......... b) rücksichtlich der
+Entscheidung, ob Prokura oder Handelsvollmacht zum gesamten
+Geschäftsbetrieb erteilt werden darf: ...... Zum Beschluß auf
+Abänderung des Gesellschaftsvertrages ist eine Mehrheit von drei
+Vierteilen der abgegebenen Stimmen erforderlich. Sonstige
+Angelegenheiten können mit einfacher Mehrheit der abgegebenen
+Stimmen von der Generalversammlung beschlossen werden, sofern der
+Gesellschaftsvertrag oder das Gesetz nichts anderes bestimmt
+......".
+In der Generalversammlung vom 31. Dezember 1959, an der sämtliche Gesellschafter teilnahmen, stellte der Zweitnebenintervenient den Antrag, die Geschäftsführer zu beauftragen, der A.-Bank gegenüber die Erklärung abzugeben, daß die Einzelzeichnungsberechtigung des als Erstnebenintervenient am Prozeß beteiligten Geschäftsführers über das bei dieser Bank geführte Konto "unbeschadet der kollektiven Verfügungsberechtigung der Geschäftsführer" bestehen bleibe. Dieser Antrag wurde mit den Stimmen der beiden Nebenintervenienten, die zusammen am Gesellschaftskapital zu 55% beteiligt sind, angenommen; die vier Kläger, deren Beteiligung zusammen 45% beträgt, erklärten Widerspruch zu Protokoll.
+Gestützt auf die Bestimmungen des § 41 GesmbHG. belangten die Kläger im vorliegenden Prozeß die durch einen Kurator vertretene Gesellschaft m. b. H. auf Nichtigerklärung dieses Beschlusses. Die beiden Nebenintervenienten sind dem Prozeß auf der Seite der beklagten Partei beigetreten.
+Der Erstrichter wies das Klagebegehren mit der Begründung ab, durch den angefochtenen Generalversammlungsbeschluß seien die Rechte der als Erstklägerin auftretenden Geschäftsführerin nicht eingeschränkt, sondern höchstens die Rechte des als Erstnebenintervenient aufgetretenen Geschäftsführers erweitert worden; dies widerspreche weder dem Vertrag noch zwingenden gesetzlichen Vorschriften.
+Das Berufungsgericht gab dem Klagebegehren statt.
+Der Oberste Gerichtshof gab den Revisionen der beklagten Partei und der beiden Nebenintervenienten keine Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Dem Berufungsgericht ist darin beizupflichten, daß sämtlichen Gesellschaftern auf Grund der Satzungsbestimmung, bei Bestellung mehrerer Geschäftsführer gelte Kollektivvertretung, ein Recht auf Einhaltung dieses Prinzips zusteht, das ohne Satzungsänderung. d. h. ohne Vertragsänderung, nicht ausgeschaltet werden kann. Der Fall unterscheidet sich nur der Intensität, nicht dem Wesen der Sache nach von dem vom Obersten Gerichtshof in JBl. 1956 S. 210 als unzulässig erklärten Versuch einer Gesellschaftermehrheit, der Minderheit die ihr durch Vertrag gesicherte Geschäftsführerstelle nach Ausschaltung ihrer bisherigen Vertrauensleute, deren Mitwirkung zur satzungsmäßigen Vertretung der Gesellschaft unerläßlich gewesen war, durch Eintragung der Kollektivvertretungsbefugnis der übriggebliebenen, als Vertrauensleute der Mehrheit fungierende Geschäftsführer zu entziehen, ohne daß eine Vertragsänderung beschlossen worden wäre. Selbst wenn man nun berücksichtigt, daß der Erstnebenintervenient nach der Aktenlage schon seit etlichen Jahren der Bank gegenüber allein zeichnet, und wenn man zugunsten der Revisionswerber unterstellt, die Kläger hätten dies längst gewußt und bis zum 31. Dezember 1959, allenfalls bis kurz vorher, nichts dagegen unternommen, ist dies für die Frage der Weitergeltung des Gesellschaftsvertrages bedeutungslos, weil eine Vertragsänderung nicht nur der Billigung durch die qualifizierte Mehrheit, sondern deren Beschluß gemäß § 49 Abs. 1 GesmbHG. auch der notariellen Beurkundung bedarf.
+Wie es dazu gekommen ist, daß der Erstnebenintervenient, der Bank gegenüber allein zeichnen konnte, wurde nicht aufgeklärt. Unterstellt man nun wieder zugunsten der Revisionswerber, daß dies seinerzeit rechtmäßig bewirkt wurde, daß die Erstklägerin dabei zwar nicht mitgewirkt hatte, hievon aber schon längst wußte und bis zur Generalversammlung vom 31. Dezember 1959, allenfalls bis kurz vorher, nichts dagegen unternahm, könnte in ihrem Verhalten möglicherweise eine von ihr als Geschäftsführerin konkludent gegebene Zustimmung zu seinem Alleinhandeln erblickt werden (vgl. dazu Gellis, Kommentar zum GesmbHG., S. 73 Anm. 5 zu § 18; SZ. XIII 95). Diese Zustimmung ist aber im Verhältnis der Geschäftsführer untereinander frei widerruflich. Daß die Erstklägerin diesen Widerruf vorgenommen hat, ergibt sich ohne weiteres daraus, daß die beiden Nebenintervenienten den im vorliegenden Prozeß angefochtenen Beschluß überhaupt beantragt haben und sie selbst dagegen Widerspruch erklärt hat.
+Das Recht der Gesellschafter, dem (den) Geschäftsführer(n) durch Generalversammlungsbeschluß Weisungen für die Geschäftsführung zu erteilen, findet seine Schranken in den Bestimmungen des Gesellschaftsvertrages. Stehen ihre Weisungen im Widerspruch zum Gesellschaftsvertrag, dann kommt es darauf an, ob sie mit der für eine Vertragsänderung gesetzlich oder vertraglich geforderten Majorität (§ 50 Abs. 1 GesmbHG.) beschlossen wurden. Wurde diese nicht erreicht, dann dürfen derartige Weisungen nicht befolgt werden; ihre Erteilung steht unter der Sanktion des § 41 GesmbHG. (vgl. dazu Gellis a. a. O. S. 78 f. Anm. 1 zu. 20). Dieser Schutz der Gesellschafterminderheit findet sein Gegenstück darin, daß die Gesellschafter, die Geschäftsführer sind, bei der Beschlußfassung an und für sich mitstimmen können, es sei denn, das Verbot des § 39 Abs. 4 des Gesetzes griffe Platz.
+Die Argumentation der Revisionswerber, aus Punkt XVII des Gesellschaftsvertrages ergebe sich, daß nur für die Erteilung einer Prokura oder einer allgemeinen Handlungsvollmacht die qualifizierte Mehrheit nötig sei, nicht aber für eine eingeschränkte bzw. nur der Bank gegenüber erteilte Vollmacht, geht schon deshalb fehl, weil gar nicht behauptet wurde, der Erstnebenintervenient habe schon bisher der Bank gegenüber mit einem ein Vollmachtsverhältnis ausdrückenden Zusatz unterschrieben bzw. solle dies in Zukunft tun, wie es sogar für den allgemeinen Handlungsbevollmächtigten vorgeschrieben ist (§ 57 HGB.). Die von den beiden Nebenintervenienten gewünschte und beschlossene "Weisung" lautete vielmehr ausdrücklich da in, die Einzelzeichnungsberechtigung des Erstnebenintervenienten als Geschäftsführer über das Konto bei der A.-Bank solle - unbeschadet der kollektiven "Verfügungsberechtigung" der Geschäftsführer - bestehen bleiben. Das ist mit Punkt XV des vorliegenden Gesellschaftsvertrages unvereinbar, gleichgültig ob der Vorbehalt bezüglich der sogenannten gemeinsamen "Verfügungsberechtigung" nur intern gedacht war oder der Bank hätte mitgeteilt werden sollen. Die vertragliche Bindung der Gesellschafter und der Widerspruch der Erstklägerin schließen auch eine Heranziehung der Bestimmungen des § 28 Abs. 1 GesmbHG. aus.

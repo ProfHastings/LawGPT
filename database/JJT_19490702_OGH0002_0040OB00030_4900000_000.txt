@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.07.1949
+Geschäftszahl
+4Ob30/49
+Norm
+Arbeitsgerichtsgesetz §25;
+Betriebsrätegesetz §25;
+Deutsche Zivilprozeßordnung. §513;
+Gewerbegerichtsgesetz 1943 §26;
+Gewerbeordnung §82;
+ZPO §396;
+ZPO §471;
+ZPO §482;
+ZPO §496;
+ZPO §503 Z2;
+ZPO §520;
+Kopf
+SZ 22/101
+Spruch
+Im arbeitsgerichtlichen Berufungsverfahren gegen ein Versäumungsurteil gilt das Neuerungsverbot nicht. In diesem Fall hat das Berufungsgericht das Verfahren selbst durchzuführen; Aufhebung ist nur in den Fällen des § 471 ZPO. und des § 496 Z. 2 und 3 ZPO. zulässig.
+Im Rekursverfahren ist weder die Stellung eines Rekursantrages noch die Geltendmachung bestimmter Rekursgrunde erforderlich.
+Entscheidung vom 2. Juli 1949, 4 Ob 30/49.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin hat gemäß § 25 Abs. 8 BRG. auf Unwirksamerklärung der Entlassung beim Arbeitsgericht Wien geklagt. Da die beklagte Partei zur mündlichen Streitverhandlung nicht erschienen ist, erließ das Erstgericht ein Versäumungsurteil im Sinne des Klageantrages. Die beklagte Partei hat gegen dieses Urteil berufen. Bei der mündlichen Berufungsverhandlung brachte die beklagte Partei neu vor, daß die Klägerin wegen Krankheit nach § 82 lit. b GewO. entlassen worden sei und daß die Voraussetzungen nach § 25 Abs. 8 BRG. nicht vorlägen. Die Klägerin hat dieses Vorbringen bestritten und Gegeneinwendungen vorgebracht. Das Berufungsgericht hat nach Protokollierung des beiderseitigen Vorbringens die Verhandlung geschlossen, der Berufung Folge gegeben, das angefochtene Versäumungsurteil aufgehoben und die Sache zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurückverwiesen.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Der Beschluß des Berufungsgerichtes wird von der Klägerin mit Revisionsrekurs, richtig Rekurs, angefochten. Sie bekämpft den Aufhebungsbeschluß, weil der Grundsatz, daß im arbeitsgerichtlichen Verfahren die volle Berufung zugelassen sei, dann keine Anwendung zu finden habe, wenn in erster Instanz ein Versäumnisurteil ergangen sei. Sie begehrt, den angefochtenen Beschluß aufzuheben und das erstrichterliche Urteil zu bestätigen.
+Der Rekursantrag ist demnach auf Wiederherstellung des erstgerichtlichen Urteiles gerichtet; das ist prozessual verfehlt, weil ein Urteil nur auf Grund einer Revision im Revisionsverfahren gefällt werden kann, nicht aber im Rekursverfahren, da die Überprüfung eines Beschlusses nur die Bestätigung, Änderung oder Aufhebung des angefochtenen Beschlusses zur Folge haben kann (SZ. VII/204).
+Dieser Verstoß der Rekurswerberin steht aber der Überprüfung des angefochtenen Beschlusses nicht entgegen, weil das Gesetz im Rekursverfahren weder die Stellung eines Rekursantrages verlangt, noch die Anfechtung von Beschlüssen auf bestimmte Rekursgrunde begrenzt; vielmehr hat das Rekursgericht, sofern ein zulässiger Rekurs erhoben worden ist, die Rechtslage von Amts wegen nach allen in Betracht kommenden Gesichtspunkten zu beurteilen und auf dieser Grundlage festzustellen, ob der Beschluß dem Gesetze entsprochen hat. Es kann daher auch der Rekurswerberin nicht zum Schaden gereichen, daß sie die Berücksichtigung von Neuerungen unrichtig als unrichtige rechtliche Beurteilung bekämpft, obwohl sie damit tatsächlich dem angefochtenen Beschluß vorwirft, daß er die für den arbeitsrechtlichen Prozeß geltenden verfahrensrechtlichen Grundsätze verletzt habe.
+Ebensowenig steht der Überprüfung des angefochtenen Beschlusses die Erwägung entgegen, daß im Revisionsverfahren die Verletzung des Neuerungsverbotes nicht revisibel ist, weil im Rekursverfahren die Beschränkungen der Mängelrüge auf die im § 503 Z. 2 ZPO. erwähnten Fälle nicht gelten.
+Der Rekurs gegen die angebliche Verletzung des Novenverbotes ist daher zulässig, aber nicht begrundet. Nach der ausdrücklichen Bestimmung des § 25 Abs. 1 Z. 3 ArbGerG. ist die Streitsache vor dem Berufungsgerichte von neuem zu verhandeln. Das Neuerungsverbot gilt im arbeitsgerichtlichen Berufungsverfahren, und zwar mangels einer positiven Bestimmung, auch dann nicht, wenn in erster Instanz ein Versäumungsurteil gefällt worden ist. Das folgt unzweideutig aus der Bestimmung, daß ein Säumnisverfahren nicht statthabe und die §§ 396 ff. ZPO. nicht anwendbar seien (§ 25 Abs. 1 Z. 3).
+Die Auffassung des Rekurses, daß eine ausdrückliche Bestimmung im Gesetz notwendig gewesen wäre, wenn man Neuerungen auch im Berufungsverfahren gegen ein Versäumungsurteil hätte zulassen wollen, ist rechtsirrig. Das Gegenteil folgt nicht nur aus dem Vergleich mit § 26 GewGerG. 1943, worauf das Berufungsgericht bereits hingewiesen hat, sondern auch aus dem Vergleich mit ausländischen Rechtsordnungen. So hat z. B. die deutsche Zivilprozeßordnung, die auch im ordentlichen Verfahren kein Neuerungsverbot im Berufungsverfahren kennt, ausdrücklich umgekehrt die Versäumungsurteile ausgenommen (§ 513 DZPO.), um zu verhindern, daß Versäumungsurteile so wie alle anderen Urteile im Berufungsverfahren unter Geltendmachung von Neuerungen angefochten werden können. Unser Gesetz, das die Versäumungsurteile im arbeitsgerichtlichen Berufungsverfahren wie alle anderen Urteile behandelt, hatte daher zur Aufnahme einer besonderen Bestimmung keinen Anlaß.
+Diese Regelung fällt wohl aus dem sonst in Österreich geltenden Prozeßrecht heraus, ist aber eine vom Gesetzgeber bewußt gewollte Ausnahme zunächst im Interesse der rechtsunkundigen Arbeitnehmer. Da aber das Gesetz diese Begünstigung nicht auf die Arbeitnehmer beschränkt, so kommt sie auch, wie diesmal, dem säumigen Arbeitgeber zugute.
+Die Bedenken der Rekurswerberin, daß diese Rechtsauslegung Verschleppungsmöglichkeiten schaffe, wäre nur dann begrundet, wenn das Berufungsgericht berechtigt wäre, bei Vorbringen von Neuerungen die Sache an die erste Instanz zurückzuverweisen, weil dann in der Tat die Parteien es in der Hand hätten, im aufgehobenen Verfahren wieder nur einen Teil ihrer Einwendungen vorzubringen und erst im wiederholten Berufungsverfahren weitere Neuerungen vorzutragen, die dann das Berufungsgericht wiederum veranlassen würden, die Sache neuerlich an die erste Instanz zurückzuverweisen.
+Eine solche Auslegung verletzt aber das Gesetz. Wer es unterlassen hat, in erster Instanz erhebliche Tatsachen vorzubringen, oder sich hat kontumazieren lassen, der hat damit eine Instanz verloren. Das Berufungsgericht ist verpflichtet, das Verfahren nur nach den Grundsätzen des erstinstanzlichen Verfahrens durchzuführen; es darf nicht, weil Neuerungen vorgebracht wurden, aufheben, weil es dazu nur in den in § 496 ZPO. taxativ aufgezählten Fällen berechtigt ist. Wenn Tatsachen in erster Instanz nicht erörtert wurden, weil sie die Parteien nicht vorgebracht haben, so leidet das erstinstanzliche Verfahren aber weder an einem Mangel (Z. 2) noch kann gesagt werden, daß nach dem Inhalt der Prozeßakten erheblich scheinende Tatsachen nicht erörtert wurden (Z. 3). Es fehlt deshalb die gesetzliche Handhabe, die Sache an die erste Instanz zurückzuverweisen.
+Das Berufungsgericht hat demnach wohl mit Recht die vorgebrachten Neuerungen zugelassen, aber dadurch, daß es die Sache nur deshalb, weil Neuerungen vorgebracht worden sind, an die erste Instanz zurückverwiesen hat, die geltenden prozeßrechtlichen Vorschriften unrichtig angewendet, weshalb dem Rekurs Folge zu geben und dem Berufungsgericht aufzutragen war, das Verfahren selbst durchzuführen und zu entscheiden.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.06.2018
+Geschäftszahl
+8Ob86/18g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter im (aufgehobenen) Konkurs über das Vermögen des Dr. G*****, Masseverwalter Dr. Klemens Dallinger, Rechtsanwalt, 1010 Wien, Schulerstraße 18, über den außerordentlichen Revisionsrekurs der B*****, vertreten durch Dr. Heinz-Wilhelm Stenzel, Rechtsanwalt in Wien, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 24. April 2018, GZ 6 R 125/18y-110, mit dem der Beschluss des Handelsgerichts Wien vom 7. März 2018, GZ 3 S 101/14v-106, teilweise bestätigt und teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Der (ehemalige) Schuldner und seine Ehegattin, die nunmehrige Rechtsmittelwerberin, waren je zur Hälfte Eigentümer von mit Wohnungseigentum verbundenen Liegenschaftsanteilen. Da die Ehegattin der Verwertung des Hälfteanteils des Schuldners vorerst nicht zustimmte, erfolgte, nachdem das Insolvenzverfahren gemäß § 123a IO iVm § 124a IO am 30. 1. 2017 aufgehoben worden war, der (freihändige) Verkauf der (mit einem Pfandrecht belasteten) Liegenschaftsanteile im Rahmen eines am 23. 6. 2017 angeordneten Nachtragsverteilungsverfahrens nach § 138 IO.
+Die Ehegattin meldete zwei Forderungen von insgesamt 5.492,54 EUR an, gegen die der Masseverwalter in der Meistbotsverteilungstagsatzung Widerspruch erhob:
+a) die Hälfte der von ihr alleine seit Februar 2017 für die Eigentumswohnung getragenen Betriebs-, Strom- und Heizkosten von 1.474,38 EUR;
+b) die Hälfte des Rückkaufswerts einer vom Masseverwalter während des Insolvenzverfahrens zur Auflösung gebrachten Lebensversicherung des (ehemaligen) Schuldners, den der Masseverwalter nicht an die Pfandgläubigerin weitergeleitet habe, von 3.561,50 EUR zuzüglich kapitalisierter Zinsen von 456,66 EUR, also 4.018,16 EUR.
+Mit Beschluss vom 7. 3. 2018 verteilte das Erstgericht den Veräußerungserlös gemäß § 49 IO, §§ 216 ff EO, ohne der Ehegattin die angemeldeten Forderungen als Vorzugsposten zuzuweisen.
+Dem gegen diesen Beschluss wegen beider unberücksichtigt gebliebener Forderungen erhobenen Rekurs der Ehegattin gab das Rekursgericht nur hinsichtlich der Forderung von 1.474,38 EUR teilweise Folge und änderte ihn dahin ab, dass es der Ehegattin 551,80 EUR an Sondermassekosten für die Hälfte der von ihr von 23. 6. 2017 bis September 2017 getragenen gebrauchsunabhängigen Betriebskosten zuwies. Es sprach aus, dass der Wert des Entscheidungsgegenstands 5.000 EUR, nicht aber 30.000 EUR übersteige und der ordentliche Revisionsrekurs nicht zulässig sei.
+Rechtliche Beurteilung
+Der dagegen erhobene außerordentliche Revisionsrekurs ist jedenfalls unzulässig.
+1. Auch bei einer außergerichtlichen Verwertung einer mit Absonderungsrechten belasteten Sondermasse sind
+– nicht nur hinsichtlich der Rangordnung (§ 49 Abs 2 IO), sondern generell – die Vorschriften der EO anzuwenden (RIS-Justiz RS0003046; RS0003381; Schulyok in Konecny/Schubert, Insolvenzgesetze § 49 KO Rz 64). Dies gilt daher auch für die Frage der Anfechtbarkeit des Verteilungsbeschlusses (8 Ob 116/05z mwN).
+2.1 Entscheidungsgegenstand des Rekursgerichts im Verteilungsverfahren ist der mit einem bestimmten Geldbetrag behauptete Teilnahmeanspruch der auf das Meistbot Verwiesenen. Für die Frage der Zulässigkeit des Revisionsrekurses ist somit die in Beschwerde gezogene Zuweisung maßgeblich (RIS-Justiz RS0003380 [T2, T3]; RS0053201; Jakusch in Angst/Oberhammer, EO3 § 65  Rz 25/2). Nebengebühren sind Teil des Entscheidungsgegenstands (RIS-Justiz RS0053201 [T4]).
+2.2 Einer Bewertung des Entscheidungsgegenstands durch das Rekursgericht bedurfte es hier daher nicht. Der dennoch vorgenommene Ausspruch ist unbeachtlich (RIS-Justiz RS0042294; RS0042410 [T22, T28]).
+3.1 Für die Berechnung der einzelnen in Beschwerde gezogenen Zuweisungen durch den Meistbotsverteilungsbeschluss sind mehrere Zuweisungen nur zusammenzurechnen, wenn sie in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Ansprüche verschiedener Gläubiger können ebenso wenig zusammengerechnet werden wie Ansprüche eines einzelnen Gläubigers, wenn dessen Forderungen auf verschiedenen Rechtstiteln beruhen (RIS-Justiz RS0003380; 3 Ob 278/07i ua).
+3.2 Mangels rechtlichen oder sachlichen Zusammenhangs zwischen dem Anspruch auf Zahlung der (anteiligen) Betriebskosten einerseits und der Hälfte des Rückkaufswerts der Lebensversicherung des (ehemaligen) Schuldners andererseits sind diese beiden Forderungen nicht zusammenzurechnen. Da die Forderungen, deren Zuweisung die Ehegattin im Rekursverfahren begehrte, jeweils 5.000 EUR nicht übersteigen, ist der Revisionsrekurs als jedenfalls unzulässig zurückzuweisen (§ 78 EO iVm § 528 Abs 2 Z 1 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0080OB00086.18G.0625.000

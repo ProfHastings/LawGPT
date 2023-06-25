@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2023
+Geschäftszahl
+2Ob44/23v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei L*, vertreten durch Mag. Reinhard Prugger, Rechtsanwalt in Wien, gegen die beklagte Partei A*, vertreten durch Dr. Thomas Fried, Rechtsanwalt in Wien, wegen 14.178,40 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. Jänner 2023, GZ 50 R 106/22b-14, womit infolge Berufung der beklagten Partei das Urteil des Bezirksgerichts für Handelssachen Wien vom 22. September 2022, GZ 16 C 165/22i-9, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 1.017,90 EUR bestimmten Kosten der Revisionsbeantwortung (darin enthalten 169,65 EUR USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger ist Verbraucher mit Wohnsitz in Kroatien, die Beklagte eine Unternehmerin mit Sitz in Wien. Der Kläger bestellte bei der Beklagten über E-Mail eine hochwertige Uhr, wobei die Einigung über Ware und Preis per E-Mail erfolgte, ohne dass es je zu einem persönlichen Kontakt zwischen den Streitteilen kam. Die Beklagte bietet ihre Waren unter anderem über ihren eigenen Webshop sowie eine Online-Plattform für Uhren an.
+[2] 		Der Kläger machte – unstrittig fristgerecht – von seinem Rücktrittsrecht nach § 11 FAGG Gebrauch.
+[3] 		Einziger Streitpunkt im Revisionsverfahren ist, ob es sich beim geschlossenen Kaufvertrag um einen „Fernabsatzvertrag“ iSd § 3 Z 2 FAGG handelt.
+[4] 		Die Vorinstanzen bejahten diese Frage.
+[5] 		Das Berufungsgericht ging davon aus, dass die Beklagte (zumindest auch) über ein für den Fernabsatz organisiertes Vertriebssystem verfüge. Sei ein solches System vorhanden, sei auch ein per E-Mail abgeschlossener Vertrag als Fernabsatzvertrag zu qualifizieren.
+[6] 		Die ordentliche Revision sei zulässig, weil Rechtsprechung des Obersten Gerichtshofs zur Frage fehle, ob und unter welchen Voraussetzungen zu vermuten sei, dass ein Fernabsatzgeschäft „im Rahmen“ eines für den Fernabsatz organisierten Vertriebssystems geschlossen worden sei.
+Rechtliche Beurteilung
+[7] 		Die Revision der Beklagten ist – entgegen dem den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) Ausspruch des Berufungsgerichts – nicht zulässig, weil sie das Vorliegen einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO nicht aufzeigt.
+[8] 		1. Nach der Legaldefinition des § 3 Z 2 FAGG bezeichnet ein „Fernabsatzvertrag“ jeden Vertrag, der zwischen einem Unternehmer und einem Verbraucher ohne gleichzeitige körperliche Anwesenheit des Unternehmers und des Verbrauchers im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems geschlossen wird, wobei bis einschließlich des Zustandekommens des Vertrags ausschließlich Fernkommunikationsmittel verwendet werden. Nach ErwGr 20 der dieser Legaldefinition zu Grunde liegenden RL 2011/83/EU soll der Begriff eines für die Lieferung im Fernabsatz organisierten Vertriebs- bzw Dienstleistungs-erbringungssystems auch von einem Dritten angebotene Fernabsatz- oder Dienstleistungssysteme erfassen, die von Unternehmern verwendet werden, wie etwa eine Online-Plattform. Er soll jedoch nicht Fälle erfassen, in denen Webseiten lediglich Informationen über den Unternehmer, seine Waren und/oder Dienstleistungen und seine Kontaktdaten anbieten.
+[9] 		Maßgeblich ist nach der Rechtsprechung, ob der Unternehmer seinen Vertrieb organisatorisch – zumindest auch – auf einen regelmäßigen Absatz per Distanzgeschäft (Fernabsatz) ausgerichtet hat, wofür auch ein von ihm selbst eingerichtetes derartiges System ausreichen kann. Erfasst werden etwa Websites mit Bestellmöglichkeit oder Onlineshops. Es genügt, wenn der Vertrieb zumindest zum Teil im Fernabsatz erfolgen kann. Nicht ausreichend sind zwar Websites, denen die Daten und der Leistungsumfang des Unternehmers zu entnehmen sind, wenn sie nur der Information des Verbrauchers und der Möglichkeit einer Kontaktaufnahme dienen, darüber hinaus aber für den Geschäftsabschluss eine persönliche Kontaktaufnahme und ein Ausverhandeln des konkreten Vertragsgegenstands und der Vertragskonditionen erforderlich sind. Hingegen reichen nach der Rechtsprechung Homepages für Warenvertrieb mit Produktpräsentation aus (6 Ob 36/20t Punkt 2.3. mwN; 9 Ob 39/22h Rz 17). Die Annahme eines Fernabsatzgeschäfts setzt keinen, insbesondere keinen standardisierten Geschäftsabschluss in einem Webshop voraus, weil auch telefonische oder per E-Mail zustande gekommene Verträge den Tatbestand des Fernabsatzes erfüllen (9 Ob 39/22h Rz 19).
+[10] 		Dass die Beklagte ihren Vertrieb organisatorisch – zumindest auch – auf einen regelmäßigen Absatz per Distanzgeschäft (Fernabsatz) ausgerichtet hat, haben die Vorinstanzen in nicht korrekturbedürftiger Weise bejaht.
+[11] 		2. Eine inhaltlich nachvollziehbare Auseinandersetzung mit der vom Berufungsgericht vor dem Hintergrund der zu Punkt 1. dargestellten Rechtslage als erheblich bezeichneten Rechtsfrage enthält die Revision nicht (vgl RS0102059). Die Beklagte behauptet zwar, dass ein Vertragsabschluss im Rahmen eines für den Fernabsatz organisierten Vertriebssystems nicht vermutet werden könne, befasst sich aber nicht einmal ansatzweise mit der vom Berufungsgericht vorgenommenen rechtlichen Beurteilung. Sie vermag schon aus diesem Grund das Vorliegen einer erheblichen Rechtsfrage nicht aufzuzeigen.
+[12] 		3. Die Wertung des fehlenden substantiellen Bestreitens als schlüssiges Tatsachengeständnis (§ 267 ZPO) hängt immer von den Umständen des Einzelfalls ab (RS0040078 [T4]). Eine Fehlbeurteilung durch das Berufungsgericht zeigt die Revision nicht auf.
+[13] 		4. Insgesamt war die Revision damit zurückzuweisen.
+[14] 		5. Die Kostenentscheidung beruht auf § 41 Abs 1 iVm § 50 Abs 1 ZPO. Da der Kläger in seiner Revisionsbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, diente sein Schriftsatz der zweckentsprechenden Rechtsverfolgung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00044.23V.0321.000

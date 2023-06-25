@@ -1,0 +1,28 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+15.12.2017
+Geschäftszahl
+133R91/17f
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht ***** wegen Erteilung eines ergänzenden Schutzzertifikats über den Rekurs der Antragstellerinnen gegen den Beschluss der Technischen Abteilung des Patentamts vom 2.5.2017, SZ 33/2016-6, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Rekursverfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen des Bundespatentgerichts (Deutschland) vom 17.10.2017, 14 W (pat) 12/17, Rechtssache C-650/17, unterbrochen. Es wird nur auf Antrag fortgesetzt.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000.
+Der ordentliche Revisionsrekurs ist nicht zulässig.
+Begründung
+Text
+Die Antragstellerinnen beantragten am 26.7.2016 die Erteilung eines ergänzenden Schutzzertifikats (in der Folge kurz ESZ) für das Erzeugnis ***** auf Basis des Grundpatents zu Patentnummer ***** mit dem Titel *****.
+Mit dem angefochtenen Beschluss wies das Patentamt die Schutzzertifikatsanmeldung aus dem Grund des § 2 Abs 2 SchZG 1996 zurück. ***** sei durch die bloße Beanspruchung eines beliebigen irreversiblen Hemmers für Epidermal-Growth-Factor Rezeptoren nicht vom Schutz des Grundpatents umfasst.
+Dagegen richtet sich der Rekurs der Antragstellerinnen wegen unrichtiger rechtlicher Beurteilung mit dem Abänderungsantrag, das ESZ zu erteilen.
+Rechtliche Beurteilung
+Das Rekursverfahren ist zu unterbrechen.
+1. Der im Rekursverfahren zu prüfende Anspruch auf Erteilung des ESZ ist davon abhängig, ob es nach Art 3 lit a ESZ-VO (VO [EG] Nr 469/2009) nicht ausreicht, wenn das fragliche Erzeugnis zwar die in den Patentansprüchen enthaltene, allgemeine funktionelle Definition einer Wirkstoffklasse erfüllt, darüber hinaus aber nicht individualisiert als konkrete Ausführungsform der mit dem Grundpatent unter Schutz gestellten Lehre zu entnehmen ist.
+2. Diese Frage hat das (deutsche) Bundespatentgericht in der vergleichbaren Rechtssache 14 W (pat) 12/17 dem EuGH gemäß Art 267 AEUV mit dem Ersuchen um Vorabentscheidung vorgelegt. [Die Entscheidung ist abrufbar unter http://juris.bundespatentgericht.de/cgi-bin/rechtsprechung/document.py?Gericht=bpatg&Art=en&Datum=2006&Sort=3&Seite=0&nr=29346 (Stand 5.12.2107).] Sie ist auch für den hier zu beurteilenden Fall maßgeblich.
+3. Alle nationalen Gerichte haben von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere als die unmittelbaren Anlassfälle anzuwenden. Ein späteres Verfahren, das – wie das vorliegende Verfahren im Verhältnis zum Verfahren 14 W (pat) 12/17 des BPatG – dieselbe Rechtsfrage betrifft, ist daher nach ständiger Rechtsprechung des OGH aus prozessökonomischen Gründen zu unterbrechen (RIS-Justiz RS0110583; 10 ObS 147/16i; 4 Ob 175/16p [beide betreffen Anfragen an den EuGH aus den Niederlanden]), wobei dazu ein Recht, aber keine Verpflichtung besteht (RIS-Justiz RS0114648; 4 Ob 5/17i, dort auch Fortsetzung nur auf Antrag).
+4. Da die Entscheidung keine Rechtsfragen von der Qualität des § 62 Abs 1 AußStrG aufwarf und über den Einzelfall hinaus nicht bedeutsam ist, ist der Revisionsrekurs nicht zulässig. Dass ein solcher Beschluss grundsätzlich anfechtbar ist, hat der OGH hingegen bereits ausgesprochen (RIS-Justiz RS0130774).
+In diesem Fall hat das Rekursgericht nach § 59 Abs 2 AußStrG auszusprechen, ob der Wert des Entscheidungsgegenstands, der – wie hier – rein vermögensrechtlicher Natur ist, aber nicht in einem Geldbetrag besteht, EUR 30.000 übersteigt. Diese Voraussetzung ist angesichts der Bedeutung von ergänzenden Schutzzertifikaten im Wirtschaftsleben gegeben.
+European Case Law Identifier
+ECLI:AT:OLG0009:2017:13300R00091.17F.1215.000

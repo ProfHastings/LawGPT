@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.10.1995
+Geschäftszahl
+4Ob1652/95
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten des Obersten Gerichtshofes Hon.Prof.Dr.Gamerith als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofes Dr.Kodek, Dr.Niederreiter, Dr.Redl und Dr.Griß als weitere Richter in der Rechtssache der klagenden Partei Firma J. Hans D*****, vertreten durch Dr.Ivo Greiter und andere Rechtsanwälte in Innsbruck, wider die beklagte Partei V***** GesellschaftmbH, ***** vertreten durch Saxinger, Baumann & Partner, Rechtsanwälte in Linz, wegen sfrs 498.974,35 sA, infolge außerordentlicher Revision des Klägers gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 5.Juli 1995, GZ 3 R 124/95-15, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision des Klägers wird gemäß § 508 a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Das gemäß Art 1 Abs 1 lit b UNK anwendbare UN-Kaufrecht - in Österreich ist das UN-Kaufrecht mit 1.1.1989 in Kraft getreten (BGBl 1988/96), in der Schweiz mit 1.3.1991 (s Hoyer/Posch, Das Einheitliche Wiener Kaufrecht XVI), der klagsgegenständliche Vertrag wurde 1989 geschlossen - regelt weder die Verjährung der aus dem Vertrag folgenden Rechte noch Regreßansprüche (s Karollus, UN-Kaufrecht 45; s auch Hoyer in Hoyer/Posch aaO 39 ff). Für diese Fragen ist das sonst anwendbare Recht maßgebend; das ist für das Verhältnis zwischen der River Steel Trade AG und der Beklagten gemäß § 36 IPRG das österreichische Recht.
+"Streckengeschäft" ist (regelmäßig) ein Dreipersonenverhältnis, bei dem der Erzeuger direkt an den Käufer seines Käufers liefert. Es liegen zwei Kaufverträge über dieselbe Sache vor, die durch eine reale Güterbewegung (Übergabe) erfüllt werden. Der Erzeuger ist gegenüber dem Zweitkäufer Erfüllungsgehilfe des Erstkäufers (SZ 55/31; s Aicher in Rummel, ABGB2 § 1061 Rz 13 ff; s auch Bydlinsky in Klang2 IV/2, 305).
+Der Kläger ist Drittkäufer; er hat von der River Steel Trade AG (Zweitkäuferin) verzinktes Drahtmaterial gekauft, welches diese von der Beklagten (Erstkäuferin) und jene vom Erzeuger gekauft hatte. Die Ware wurde vom Erzeuger direkt dem Kläger geliefert. Es liegt daher tatsächlich ein Streckengeschäft vor, bei dem die Beklagte Erfüllungsgehilfin der River Steel Trade AG war.
+Die River Steel Trade AG haftet dem Kläger für Mängel der Ware; sie hat einen Regreßanspruch gegen die Beklagte (zum Regreßanspruch des Geschäftsherrn gegen den Erfüllungsgehilfen s SZ 60/73), wenn und soweit sie dem Kläger Zahlung geleistet hat (SZ 58/6; SZ 60/73; s auch Reischauer in Rummel, ABGB2 § 1302 Rz 10; § 1313 Rz 4).
+Nach Schweizer Recht gilt nichts anderes. Auch hier entsteht der Regreßanspruch erst mit der Leistung an den Gläubiger (s von Tuhr/Escher, Allgemeiner Teil des Schweizerischen Obligationenrechts3 II 313 f; Gauch/Schluep, Schweizerisches Obligationenrecht, Allgemeiner Teil5 II Rz 3871; BGE 115 II 48).
+Die River Steel Trade AG hat (infolge Insolvenz) den Ersatzanspruch des Klägers nicht beglichen; ihr stand daher noch kein Regreßanspruch gegen die Beklagte zu. Der Abtretung nach Art 260 Schweizer Konkursgesetz lag keine Forderung der Gemeinschuldnerin zugrunde. Daß diese Abtretung einen Rechtstitel besonderer Art schafft, der am ehesten mit der Überweisung zur Einziehung nach §§ 303 ff EO verglichen werden könnte (JBl 1980, 490), hilft dem Kläger somit nicht. Ebensowenig nützt ihm, daß die Verjährung des Regreßanspruches erst mit der Zahlung des Regreßberechtigten beginnt (Gamerith in Rummel, ABGB2 § 896 Rz 11 mwN).

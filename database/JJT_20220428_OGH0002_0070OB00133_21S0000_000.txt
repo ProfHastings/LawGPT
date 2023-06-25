@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+7Ob133/21s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei T* W*, vertreten durch die Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei U* AG, *, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, wegen Feststellung, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 22. März 2021, GZ 50 R 124/20x-12, mit dem das Urteil des Bezirksgerichts für Handelssachen Wien vom 22. Juli 2020, GZ 3 C 214/20x-8, in der Hauptsache bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 626,52 EUR (darin 104,42 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Dem seit 24. 1. 2014 bestehenden Rechtsschutzversicherungsvertrag zwischen den Parteien liegen die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2014) der Beklagten zugrunde, die auszugsweise wie folgt lauten:
+„…
+Artikel 2
+Was gilt als Versicherungsfall und wann gilt er als eingetreten?
+…
+3. In den übrigen Fällen – insbesondere auch für die Geltendmachung eines reinen Vermögensschadens (Artikel 17 Pkt 2.1, Artikel 18 Pkt 2.1, Artikel 19 Pkt 2.1.1) sowie für die Wahrnehmung rechtlicher Interessen wegen reiner Vermögensschäden (Artikel 23 Pkt 2.1 und Artikel 24 Pkt 2.2.1) – gilt als Versicherungsfall der tatsächliche oder behauptete Verstoß des Versicherungsnehmers, Gegners oder eines Dritten gegen Rechtspflichten oder Rechtsvorschriften; der Versicherungsfall gilt in dem Zeitpunkt als eingetreten, in dem eine der genannten Personen begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen. Bei mehreren Verstößen ist der erste, adäquat ursächliche Verstoß maßgeblich, wobei Verstöße, die länger als ein Jahr vor Versicherungsbeginn zurückliegen, für die Feststellung des Versicherungsfalls außer Betracht bleiben. …
+…
+Artikel 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+…
+2. Vom Versicherungsschutz sind ferner ausgeschlossen
+…
+2.4 die Geltendmachung von Forderungen, die an den Versicherungsnehmer abgetreten wurden, und die Abwehr von Haftungen aus Verbindlichkeiten anderer Personen, die der Versicherungsnehmer übernommen hat, wenn die Abtretung oder Haftungsübernahme erfolgte, nachdem der Versicherungsfall eingetreten ist oder nachdem vom Versicherungsnehmer, Gegner oder einem Dritten eine den Versicherungsfall auslösende Rechtshandlung oder Willenserklärung vorgenommen wurde;
+...“
+[2] 		Die Vorinstanzen gaben übereinstimmend dem Feststellungsbegehren des Klägers statt, dass aufgrund des Rechtsschutzversicherungsvertrags für die klageweise Geltendmachung von Ansprüchen in Zusammenhang mit dem am 28. 12. 2016 erfolgten Kauf eines PKW gegenüber dem Fahrzeughersteller Rechtsschutzdeckung bestehe.
+[3] 		Das Berufungsgericht ließ die ordentliche Revision zu, weil sich der Oberste Gerichtshof noch nicht mit den Bedingungen des Risikoausschlusses von abgetretenen Forderungen im Zusammenhang mit dem Erwerb eines Gebrauchtwagens befasst habe.
+[4] 		Damit zeigt das Berufungsgericht keine erhebliche Rechtsfrage auf. Da auch die Beklagte in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist ihr Rechtsmittel entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung ordentlicher Rechtsmittel wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+[5] 		1. Der Fachsenat hat bereits wiederholt zur Deckungspflicht in der Rechtsschutzversicherung für Klagen gegen Autohersteller wegen Abgasmanipulationssoftware in Dieselfahrzeugen Stellung genommen (7 Ob 32/18h = RS0114001 [T9]; 7 Ob 206/19y):
+[6] 		Es handelt sich dabei um Deckung für die Geltendmachung reiner Vermögensschäden, bei denen nach Art 2.3 ARB (hier 2014) der tatsächliche oder behauptete Verstoß des Versicherungsnehmers, Gegners oder eines Dritten gegen Rechtspflichten oder Rechtsvorschriften als Versicherungsfall gilt. Nach dieser Bestimmung liegt der Versicherungsfall in der Rechtsschutzversicherung vor, wenn einer der Beteiligten begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen.
+[7] 		Der Zeitpunkt, in dem die Produzentin begonnen hat, in ihre Motoren Abgaswerte verfälschende Software einzubauen, hat keine Auswirkungen auf die Rechtsposition des Autokäufers. Ein zeitlich lange vorangehender Gesetzes- oder Pflichtenverstoß, mag er auch die spätere Rechtsverfolgung des Versicherungsnehmers adäquat-kausal begründet haben, kann den Versicherungsfall erst auslösen und damit den Zeitpunkt des Verstoßes in Bezug auf den konkreten Versicherungsnehmer in der Rechtsschutzversicherung festlegen, wenn dieser erstmals davon betroffen, dh in seinen Rechten beeinträchtigt wird oder worden sein soll. Dies ist im Falle des serienmäßigen Einbaus eines nicht rechtskonformen Bauteils in eine Sache der Zeitpunkt des Kaufs der mangelhaften Sache durch den Versicherungsnehmer. Erst damit beginnt sich auch die vom Rechtsschutzversicherer in Bezug auf den Versicherungsnehmer konkret übernommene Gefahr zu verwirklichen.
+[8] 		2. Hier hat der Versicherungsnehmer während des versicherten Zeitraums einen gebrauchten Diesel-PKW erworben und begehrt Deckung für gegen den Fahrzeughersteller geltend zu machende Ansprüche. Der Versicherungsfall iSd Art 2 ARB 2014 trat damit während des Deckungszeitraums ein.
+[9] 		3.1. Der Ausschluss nach Art 7.2.4 ARB 2014 stellt nach seinem klaren Wortlaut auf eine Abtretung an (oder eine Haftungsübernahme durch) den Versicherungsnehmer ab, nachdem der Versicherungsfall eingetreten ist oder nachdem vom Versicherungsnehmer, Gegner oder einem Dritten eine den Versicherungsfall auslösende Rechtshandlung oder Willenserklärung vorgenommen wurde.
+[10] 		3.2. Mit ihrem Hinweis, dass der Kläger ihm abgetretene Ansprüche iSd Art 7.2.4 ARB 2014 geltend mache, übersieht die Revision, dass diese Bestimmung als wesentlichen Beurteilungszeitpunkt nicht auf ein früheres oder erstmaliges Entstehen von Ansprüchen aufgrund eines früheren Pflichtenverstoßes gegenüber einem früheren Erwerber, sondern unmissverständlich auf den Eintritt des Versicherungsfalls abstellt, womit sich die vom Rechtsschutzversicherer in Bezug auf den Versicherungsnehmer konkret übernommene Gefahr verwirklicht. Dies ist hier aber – wie dargelegt – der Erwerb des Fahrzeugs durch den Kläger. Die für den Deckungsausschluss erforderliche zeitliche Voraussetzung einer Abtretung nach Eintritt des Versicherungsfalls (bzw der diesen auslösenden Rechtshandlung oder Willenserklärung), hier somit nach Erwerb des Fahrzeugs, ist daher nicht erfüllt (und wird von der Beklagten auch gar nicht behauptet).
+[11] 		3.3. Die von der Revision ins Treffen geführte Entscheidung 1 Ob 269/06z betraf keinen Versicherungsvertrag; für die Frage der Erfüllung des Deckungsausschlusses nach Art 7.2.4 ARB 2014 ist daraus nichts abzuleiten.
+[12] 		4. Die Revision zeigt somit keine erhebliche Rechtsfrage auf, zumal auch die Auslegung von in Versicherungsbedingungen enthaltenen Klauseln nur dann revisibel ist, wenn deren Wortlaut nicht so eindeutig ist, dass Auslegungszweifel verbleiben können (7 Ob 82/07w = RS0121516 [T6] mwN). Da dies hier nicht der Fall ist, ist die Revision der Beklagten nicht zulässig und folglich zurückzuweisen.
+[13] 		5. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Der Kläger hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00133.21S.0428.000

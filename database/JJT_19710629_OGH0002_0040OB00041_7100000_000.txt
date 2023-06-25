@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.1971
+Geschäftszahl
+4Ob41/71
+Norm
+Arbeitsgerichtsgesetz §25 Abs2;
+ZPO §477 Abs1 Z2;
+Kopf
+SZ 44/103
+Spruch
+Dem nach § 25 Abs 2 ArbGG zusammengesetzten Senat obliegt nicht nur die Sachentscheidung, sondern alle vor dem Gerichtshof erster Instanz dem Senat zukommenden Entscheidungen
+Das gilt auch für die Zurückweisung eines Rekurses gegen einen Beschluß des arbeitsgerichtlichen Berufungssenates; wird darüber nur von drei Berufsrichtern entschieden, ist der Zurückweisungsbeschluß gem § 477 Abs 1 Z 2 ZPO nichtig
+OGH 29. 6. 1971, 4 Ob 41/71 (KG Wels 17 Cg 13/71)
+Text
+Der Vorsitzende des Berufungssenates in arbeitsgerichtlichen Rechtsstreitigkeiten des Kreisgerichtes Wels verfügte mit dem Beschluß vom 23. 4. 1971, die beklagte Partei habe zur Deckung der von ihr allein beantragten Beweiswiederholung vor dem Berufungsgericht einen Kostenvorschuß von S 2500.- binnen der unerstreckbaren Frist von 14 Tagen beim dg Rechnungsführer zu erlegen; sollte der Erlag des Kostenvorschusses nicht termingemäß erfolgen, werde angenommen, daß der Antrag auf Beweiswiederholung als zurückgezogen gelte und es werde die Berufungsverhandlung ohne Ladung der Zeugen und Parteien ausgeschrieben werden.
+Gegen diesen Beschluß erhob die beklagte Partei an den Obersten Gerichtshof Rekurs, jedoch nur insoweit als darin ausgesprochen wurde, daß bei nicht termingemäßem Erlag des Kostenvorschusses angenommen werde, daß der Antrag auf Beweiswiederholung als zurückgenommen gelte und die Berufungsverhandlung dann ohne Ladung der Zeugen und Parteien ausgeschrieben werde.
+Nunmehr wies das Berufungsgericht mit Senatsbeschluß in der Besetzung mit drei Berufsrichtern den Rekurs der beklagten Partei zurück, weil der Ausspruch über die Folgen bei Unterbleiben des Erlags gemäß dem § 25 GEAV BGBl 1948/185 einen notwendigen Bestandteil des Beschlusses auf Aufforderung zum Erlag eines Kostenvorschusses darstelle und daher vom Rechtsmittelausschluß des § 349 Abs 2 ZPO bei der Bestimmung einer Frist zum Erlag eines Vorschusses für die dem Zeugen zu gewährende Vergütung (§ 332 ZPO) miterfaßt sei.
+Der Oberste Gerichtshof gab dem Rekurse der beklagten Partei Folge und hob den angefochtenen Beschluß als nichtig auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da das Kreisgericht Wels nicht als Rekursgericht, sondern als Berufungsgericht in arbeitsgerichtlichen Rechtsstreitigkeiten tätig wurde, war gemäß § 25 Abs 1 Z 3 ArbGG die Streitsache vor dem Berufungsgericht nach den Bestimmungen der Zivilprozeßordnung über das Verfahren vor den Gerichtshöfen erster Instanz von neuem zu verhandeln. Nach § 25 Abs 2 ArbGG werden dem Senate des Gerichtshofes zwei Beisitzende zugezogen, falls über die Berufung nach vorhergehender mündlicher Verhandlung zu entscheiden ist. Die Entscheidungsbefugnis dieses Senates ist aber nicht auf die Sachentscheidung beschränkt. Die vor dem Gerichtshofe erster Instanz dem Senate zukommenden Entscheidungen obliegen demnach hier gleichfalls dem Senate (vgl Stanzl, Arbeitsgerichtliches Verfahren, 57). Der angefochtene Beschluß hätte somit nur unter Zuziehung von zwei Beisitzern gefaßt werden dürfen. Das erkennende Gericht war also, weil dies unterlassen wurde, nicht vorschriftsmäßig besetzt, als es den angefochtenen Beschluß faßte, so daß eine von Amts wegen zu berücksichtigende Nichtigkeit nach § 477 Abs 1 Z 2 ZPO unterlaufen ist.

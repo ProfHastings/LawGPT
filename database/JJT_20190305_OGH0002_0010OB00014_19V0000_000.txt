@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.03.2019
+Geschäftszahl
+1Ob14/19v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und Hofrätinnen Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer, Mag. Korn und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, Wien 6, Linke Wienzeile 18, vertreten durch die Kosesnik-Wehrle & Langer Rechtsanwälte KG, Wien, gegen die beklagte Partei S***** GmbH, *****, vertreten durch Dr. Peter Lindinger und Dr. Andreas Pramer, Rechtsanwälte in Linz, wegen 5.760 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Linz vom 11. September 2018, GZ 15 R 220/18f-15, mit dem das Urteil des Bezirksgerichts Linz vom 2. Februar 2018, GZ 16 C 1306/17g-11, teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+Zur Abwendung eines gerichtlichen Unterlassungsverfahrens gab die Beklagte gegenüber dem klagenden Verbraucherschutzverband eine durch eine Konventionalstrafe abgesicherte Unterlassungserklärung ab. Darin verpflichtete sie sich, bestimmte – und auch sinngleiche – Klauseln im Geschäftsverkehr weder zu verwenden, noch sich darauf zu berufen. Für jeden Fall des Zuwiderhandelns war eine Vertragsstrafe in Höhe von 720 EUR pro Klausel und pro Zuwiderhandlung vereinbart.
+Der Kläger begehrte die Zahlung von insgesamt 5.760 EUR mit der Behauptung, die Beklagte habe zumindest in vier Fällen (jeweils) zwei sinngleiche Klauseln verwendet und damit rechtswidrig und schuldhaft gegen ihre Unterlassungsverpflichtung verstoßen.
+Anders als das Erstgericht, das das Klagebegehren zur Gänze abgewiesen hatte, sah das Berufungsgericht eine der Klauseln als sinngleich an. Es gab der Berufung teilweise Folge, sprach dem Kläger 2.880 EUR zu und erklärte die ordentliche Revision letztlich für zulässig.
+Rechtliche Beurteilung
+Die gegen diese Entscheidung erhobene Revision der Beklagten ist nach § 502 Abs 2 ZPO absolut unzulässig, woran auch der Ausspruch des Berufungsgerichts über die nachträgliche Zulassung nichts ändert (1 Ob 205/14z mwN; vgl RIS-Justiz RS0043025 [T10]):
+1. Hat das Berufungsgericht über mehrere Entscheidungsgegenstände entschieden, deren Werte nicht zusammenzurechnen sind, ist die Revisionszulässigkeit für jeden einzelnen Entscheidungsgegenstand gesondert zu beurteilen (§ 55 Abs 4 JN). § 55 Abs 1 JN ist als Ausnahme vom Grundsatz der Nichtzusammenrechnung (vgl RIS-Justiz RS0110872 [T8]) anzusehen (RIS-Justiz RS0122950). Eine Zusammenrechnung kommt nach dieser Bestimmung nur in Frage, wenn die einzelnen Ansprüche – nach den Klagsangaben (RIS-Justiz RS0042741 [insbes T7]) – in einem tatsächlichen oder rechtlichen Zusammenhang stehen.
+2. Mehrere Ansprüche stehen dann in einem tatsächlichen Zusammenhang, wenn sie allesamt aus demselben Sachverhalt abgeleitet werden können, wenn also das für einen Anspruch – zumindest für den Anspruchsgrund – erforderliche Sachvorbringen ausreicht, um auch über die anderen geltend gemachten Ansprüche entscheiden zu können, ohne dass noch ein ergänzendes Sachvorbringen erforderlich wäre (RIS-Justiz RS0042766). Ein rechtlicher Zusammenhang liegt vor, wenn die Ansprüche aus demselben Vertrag oder aus derselben Rechtsnorm abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RIS-Justiz RS0037648). Der tatsächliche oder rechtliche Zusammenhang wird nicht allein durch den Umstand hergestellt, dass es sich um gleichartige Leistungen des Anspruchsberechtigten oder um gleichartige Verträge handelt (RIS-Justiz RS0110872 [T4, T7]; RS0037648 [T15], RS0037926 [T2, T3, T7, T23, T26, T28, T30]). Auch besteht in der Regel kein Zusammenhang, wenn jeder der mehreren Ansprüche ein verschiedenes rechtliches Schicksal haben kann; in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfindet (RIS-Justiz RS0037648 [T18]; RS0037899). Beispielsweise verneint wird die Zusammenrechnung nach § 55 Abs 1 Z 1 JN bei Ansprüchen, die bei wiederholtem kartellrechtswidrigen Verhalten (das aber auf denselben verbotenen Absprachen beruht) aus bloß gleichartigen Verträgen abgeleitet werden (vgl zu den Ansprüchen eines Klägers basierend auf einer Vielzahl von Förderverträgen beim sogenannten „Aufzugskartell“ 9 Ob 44/17m mwN).
+2. Das (gesamte) Zahlungsbegehren des Klägers stützt sich auf vier verschiedene Geschäftsfälle in denen die Beklagte jeweils abredewidrig gehandelt haben soll. Die einzelnen – jeweils 5.000 EUR nicht (sondern nur 1.440 EUR pro Geschäftsfall) erreichenden – Streitwerte der erhobenen Ansprüche sind damit nicht zusammenzurechnen.
+Die Kostenentscheidung beruht auf § 40 iVm § 50 Abs 1 ZPO. Der Kläger hat in seiner Revisionsbeantwortung auf die absolute Unzulässigkeit der Revision nicht hingewiesen, weshalb sein Schriftsatz nicht als zweckentsprechende Rechtsverfolgungsmaßnahme im Sinn des § 41 Abs 1 ZPO zu qualifizieren ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0010OB00014.19V.0305.000

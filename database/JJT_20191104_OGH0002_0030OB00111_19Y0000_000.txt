@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.11.2019
+Geschäftszahl
+3Ob111/19y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat des Obersten Gerichtshofs Dr. Roch als Vorsitzenden sowie die Hofräte Priv.-Doz. Dr. Rassi und Mag. Painsi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei B* GmbH, *, vertreten durch Schuppich Sporn & Winischhofer, Rechtsanwälte Partnerschaft in Wien, gegen die verpflichtete Partei C* GmbH,  *, vertreten durch Schopf Zens Rechtsanwälte GmbH in Wien, wegen (hier) Exekution zur Erwirkung einer unvertretbaren Handlung gemäß § 354 EO, über den Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Krems an der Donau als Rekursgericht vom 29. März 2019, GZ 1 R 3/19z-139, mit dem der Beschluss des Bezirksgerichts Krems an der Donau vom 25. Oktober 2018, GZ 4 E 2793/14y-123, teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht bewilligte der Betreibenden gegen die verpflichtete GmbH ua die Exekution gemäß § 354 EO (Beantwortung näher genannter Fragen zu bestimmten Vorgängen in der GmbH). Nach Aufhebung des während des Exekutionsverfahrens über das Vermögen der Verpflichten eröffneten Konkurses nach Schlussverteilung erfolgte am 6. Oktober 2018 die amtswegige Löschung der Verpflichteten im Firmenbuch gemäß § 40 FBG.
+Das Erstgericht wies danach den mit einem weiteren Strafantrag durch die Betreibende zuletzt gestellten Antrag, der Verpflichteten (neuerlich) die Beantwortung der (nach Teileinschränkung verbliebenen, näher formulierten) Fragen bei sonstiger Verhängung der Haft in der Dauer von 14 Tagen über den namentlich genannten, seit dem Jahr 2006 im Firmenbuch eingetragenen Geschäftsführer der Verpflichteten aufzutragen, ab, weil eine Vertretung der amtswegig gelöschten Verpflichteten durch den (früheren) Geschäftsführer nicht mehr möglich sei.
+Das Rekursgericht gab dem Rekurs dagegen teilweise dahin Folge, dass es der verpflichteten GmbH die Beantwortung der Fragen „bei sonstiger Verhängung der Haft in der Dauer von 14 Tagen“ auftrug, während es den Antrag, dies bei sonstiger Verhängung der Haft über den früheren Geschäftsführer aufzutragen, abwies. Eine Androhung oder Verhängung einer Beugestrafe über den Geschäftsführer der Verpflichteten komme nach dem mit der Löschung verbundenen Wegfall seiner organschaftlichen Vertretung der GmbH nicht mehr in Betracht. Der Revisionsrekurs sei ua zulässig, weil zu dieser Frage höchstgerichtliche Rechtsprechung fehle.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Betreibenden, der nur die erwähnte erhebliche Rechtsfrage aufgreift, ist ungeachtet des nicht bindenden Ausspruchs des Rekursgerichts nicht zulässig, weil diese Rechtsfrage zwanglos anhand der Gesetzeslage und der bereits vorhandenen Leitlinien höchstgerichtlicher Rechtsprechung gelöst werden kann (RS0042656 [T48]). Das ist wie folgt kurz zu begründen (§ 78 EO iVm §§ 528a und 510 Abs 3 ZPO):
+1. Die Rechtsansicht des Rekursgerichts entspricht der völlig herrschenden Lehre (Haberer/Zehetner in Straube/Ratka/Rauter WK GmbHG [2016] § 93 Rz 28; Gelter in Gruber/Harrer GmbHG [2014] § 84 Rz 33 und § 93 Rz 17; Burgstaller/Pilgerstorfer in Jabornegg/Artmann, UGB² [2010] § 40 FBG Rz 22; Zib in Zib/Dellinger UGB [2010] § 40 FBG Rz 23; Koppensteiner/Rüffler GmbHG³ [2007] § 84 Rz 13 und § 93 Rz 10;  G. Nowotny in Kodek/Nowotny/Umfahrer, FBG [2005] § 40 Rz 24) und Rechtsprechung (6 Ob 149/10w mwN; 6 Ob 330/98t; 3 Ob 113/07z; 6 Ob 178/14s; vgl RS0050186 [T5]; RS0006937 [T2]), dass die Löschung einer Gesellschaft nach § 40 FBG mit konstitutiver Wirkung auch zum Wegfall der organschaftlichen Vertretung der bisherigen Geschäftsführer oder Liquidatoren führt, selbst wenn die Gesellschaft trotz Löschung noch fortbesteht, weil etwa noch Aktivvermögen vorhanden ist.
+2. Mit der Verhängung der Haft über den Organwalter einer juristischen Person soll gegen ihn ein Zwangsmittel vollzogen werden, damit die Gesellschaft als verpflichtete Partei durch ein Handeln jener Person, die allein für sie handeln kann, erfüllt (Repräsentationsgedanke; 3 Ob 48/11x = SZ 2011/62). Allerdings haben gemäß § 354 EO zu vollziehende Geldstrafen und Haftstrafen keinen repressiven, sondern nur einen auf die künftige Willensbeugung des Verpflichteten abzielenden Zweck (RS0010057 [T1]). Dieser Zweck kann nicht mehr erreicht werden, wenn der Organwalter, der für die Verpflichtete künftig handeln soll, nicht mehr vertretungsbefugt ist, er also gar nicht mehr (wie der Revisionsrekurs meint) „namens der Gesellschaft titelmäßig […] leisten“ kann.
+Die Verweigerung der Androhung einer Beugehaft nach § 354 EO über den früheren Geschäftsführer durch die Vorinstanzen widerspricht dieser Judikatur nicht, sondern ist vielmehr die logische Konsequenz daraus.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E126812

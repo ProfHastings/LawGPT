@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2023
+Geschäftszahl
+2Ob45/23s
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei D*, vertreten durch ABEL Rechtsanwälte GmbH in Wien, gegen die beklagte Partei E*, vertreten durch Olischar Rechtsanwaltsgesellschaft mbH in Wien, wegen 130.000 EUR sA, über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 14. Februar 2023, GZ 16 R 227/22b-33, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der Rechtsmittelausschluss des § 230a Satz 2 ZPO gilt nach der Rechtsprechung des Obersten Gerichtshofs ebenso wie der des § 261 Abs 6 Satz 4 ZPO nur dann nicht, wenn die Überweisung den einschlägigen Bestimmungen in einem solchen Maß widerspricht, dass der Sinn des Rechtsmittelausschlusses nicht mehr gegeben ist (RS0039091). Das ist etwa der Fall, wenn der Kläger keinen oder einen den Bestimmungen des § 230a ZPO widersprechenden Überweisungsantrag stellte, wenn er das Gericht, an das überwiesen wurde, gar nicht bezeichnet hat, wenn die Überweisung gegen die Bindungswirkung einer Zuständigkeitsentscheidung verstößt, wenn das Gericht eine bereits geheilte Unzuständigkeit aufgegriffen hat, oder eine Überweisung erfolgte, obwohl sich das Gericht nicht ausdrücklich oder zumindest aus der Begründung erkennbar für unzuständig erklärte (1 Ob 5/13m Punkt 2. mwN). Es kommt jedoch nicht darauf an, ob der Überweisungsbeschluss inhaltlich richtig war. Selbst eine zu Unrecht erfolgte Bejahung des Vorliegens der Voraussetzungen ist nicht als derart gravierender Verstoß anzusehen, dass ein gegen den Überweisungsbeschluss erhobenes Rechtsmittel ausnahmsweise als zulässig zu betrachten wäre (RS0039091 [T9]).
+[2] 		2. Im Anlassfall stellte die Klägerin einen mit einem Rekurs kumulierten nachträglichen Überweisungsantrag nach § 230a ZPO und stützte sich dabei darauf, dass ihr keine Gelegenheit zur Stellung eines Überweisungsantrags nach § 261 Abs 6 ZPO eingeräumt wurde. Die Möglichkeit eines solchen Antrags entspricht der Rechtsprechung (2 Ob 12/21k Rz 18 mwN; RS0039158 [T5]). Dem Antrag lag zugrunde, dass das Erstgericht nach Erhebung einer gemäß § 43 Abs 3 JN unzulässigen Einrede der sachlichen Unzuständigkeit in der Klagebeantwortung durch den ganz allgemein gehaltenen Auftrag zur Einbringung vorbereitender Schriftsätze der Klägerin die Gefahr einer Zurückweisung der Klage aufgrund der besonderen Konstellation des Einzelfalls nicht hinreichend deutlich vor Augen geführt hat. Die nach den besonderen Umständen des Falls hier vom Rekursgericht vorgenommene Qualifikation der Zurückweisung der Klage als überraschend ist damit ebenso vertretbar wie die Zurückweisung des Rekurses der Beklagten gegen den Überweisungsbeschluss (vgl auch 8 Ob 45/05h; 6 Ob 188/06z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00045.23S.0321.000

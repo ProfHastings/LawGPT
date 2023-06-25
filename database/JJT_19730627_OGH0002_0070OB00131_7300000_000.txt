@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.1973
+Geschäftszahl
+7Ob131/73
+Norm
+Gerichtsorganisationsgesetz §21 Abs2;
+ZPO §477 Abs1 Z2;
+Kopf
+SZ 46/67
+Spruch
+Die Teilnahme eines zu einem anderen Gericht ernannten fachmännischen Laienrichters an einer gerichtlichen Entscheidung bewirkt Nichtigkeit (kein "Nichturteil")
+OGH 27. Juni 1973, 7 Ob 131/73 (OLG Linz 2 R 20/73; LG Salzburg 3 Cg 72/71)
+Text
+Die Klägerin begehrte von der Beklagten nach Klagseinschränkung der Bezahlung von 146.769 S samt Anhang. Die Beklagte bestritt das Klagsvorbringen und beantragte Klagsabweisung.
+Das Erstgericht entschied mit Urteil vom 4. Oktober 1972, ONr. 49, in Senatsbesetzung als Handelsgericht im Sinne des Klagebegehrens. Dem Senat gehörte als Kommerzialrat Alfred K an, der mit Erlaß des Bundesministeriums für Justiz vom 21. Juli 1970, Z. 3552-17/70, zum fachmännischen Laienrichter aus dem Handelsstand beim Oberlandesgericht Linz ernannt wurde.
+Das Berufungsgericht sprach aus, daß das vorgenannte Urteil als nicht gefällt anzusehen sei und wies die dagegen von der Beklagten und der Nebenintervenientin erhobenen Berufungen als unzulässig zurück. Das Berufungsgericht war der Ansicht, daß es sich bei der vorgenannten Entscheidung des Erstgerichtes um ein Nichturteil handle, weil an dessen Erlassung ein nicht für den Sprengel des Landesgerichtes Salzburg ernannter fachmännischer Laienrichter aus dem Handelsstand teilgenommen habe. Den fachmännischen Laienrichter komme nämlich nur für den Sprengel, für den sie ernannt sind, Richterqualität zu.
+Der Oberste Gerichtshof gab dem Rekurs der Beklagten und der Nebenintervenientin Folge, hob den angefochtenen Beschluß des Berufungsgerichtes auf und trug diesem eine neuerliche Entscheidung über die Berufungen auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zivilurteile sind im Rahmen ihres Wirkungskreises in feierlicher Form ergangene Sachentscheidungen einer als Gericht konstituierten Behörde über zivilrechtliche Streitigkeiten. Voraussetzung für das Vorliegen eines Zivilurteiles ist daher, daß es von im Sinne der Art. 86-99 B-VG zum Richter ernannten Personen, die abstrakt zur Ausübung des Richteramtes befähigt sind, erlassen wurde. Wurde eine in Urteilsform ergangene Entscheidung von Personen gefällt, die nicht zum Richter ernannt oder vom Gesetz zur Ausübung des Richteramtes bestellt wurden oder im Zeitpunkte der Urteilsfällung die vom Gesetz für einen Richter geforderten Fähigkeitserfordernisse nicht mehr erfüllten, so liegt der Fall eines Nichturteiles vor, das keine Urteilswirkungen hat. Darunter fallen z. B. Urteile, die von Richteramtsanwärtern, Rechtspraktikanten oder Angehörigen der Geschäftsstelle gefällt wurden (Fasching III, 561; IV 15). Wurde hingegen ein Urteil wohl von einer zum Richter ernannten oder vom Gesetz zur Ausübung des Richteramtes bestellten Person gefällt, welcher nur im konkreten Fall nach dem Gesetz eine richterliche Entscheidungsgewalt nicht zukam, so ist dieses wegen nicht Vorschriftsmäßiger Besetzung des Gerichtes nach § 477 Abs. 1 Z. 2 ZPO nichtig.
+Hier gehörte dem erstgerichtlichen Senat ein fachmännischer Laienrichter aus dem Handelsstande an, der für das Oberlandesgericht Linz ernannt wurde und daher abstrakt zur Ausübung des Richteramtes in Handelssachen befähigt war. Entgegen der Ansicht des Berufungsgerichtes stellt daher das Ersturteil nicht ein Nichturteil dar, sondern ist nur wegen nicht vorschriftsmäßiger Besetzung des Erstgerichtes nach § 477 Abs. 1 Z. 2 ZPO nichtig, weil an dessen Erlassung ein fachmännischer Laienrichter aus dem Handelsstande teilnahm, dem für die konkrete Rechtssache die richterliche Entscheidungsgewalt fehlte (Fasching I, 175; IV 115). Die gegenteilige von Petschek - Stagel (im "Österreichischen Zivilprozeß" 36 und 59) vertretene Rechtsansicht läßt außer acht, daß auch die fachmännischen Laienrichter Richter im Sinne der Zivilprozeßordnung und der Jurisdiktionsnorm sind (§ 21 Abs. 2 GOG) und wird daher vom Obersten Gerichtshof nicht geteilt, der sich der vorgenannten Rechtsmeinung Faschings anschließt. Dem von Petschek - Stagel zur Begründung ihrer Rechtsansicht ins Treffen geführten Argument, daß die fachmännischen Laienrichter nur bei dem Gericht, für das sie ernannt worden sind, verwendet werden können, ist entgegenzuhalten, daß auch ob Berufsrichtern nach § 77 Abs. 1 RDG - den hier nicht in Betracht kommenden Fall der Sprengelrichter ausgenommen - eine richterliche Entscheidungsgewalt nur bei dem Gericht, für das sie ernannt sind, zukommt (Fasching IV, 116). Die Zurückweisung der Berufungen der Beklagten und der Nebenintervenientin durch das Berufungsgericht erfolgte somit zu Unrecht.

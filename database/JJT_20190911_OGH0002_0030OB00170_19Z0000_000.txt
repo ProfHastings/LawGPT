@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.09.2019
+Geschäftszahl
+3Ob170/19z
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofräte Dr. Roch und Priv.-Doz. Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei J*****, vertreten durch Dr. Uwe Foidl, Rechtsanwalt in Fügen, wider die beklagten Parteien 1. M*****, und 2. M*****, beide vertreten durch Dr. Stefan Brandacher, Rechtsanwalt in Schwaz, wegen Wiederaufnahme des Verfahrens AZ 12 Cg 91/17p des Landesgerichts Innsbruck, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Innsbruck als Rekursgericht vom 18. Juli 2019, GZ 1 R 81/19z-7, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß
+§ 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Wurde – wie hier – eine Wiederaufnahmeklage bereits vor Eintritt der Streitanhängigkeit zurückgewiesen, ist der angefochtene Beschluss, weil der Ausnahmefall des § 528 Abs 2 Z 2 zweiter Halbsatz ZPO vorliegt, nicht jedenfalls (absolut) unanfechtbar (RIS-Justiz RS0125126; RS0023346 [T13]). Dies ändert aber nichts daran, dass der Revisionsrekurs gegen den Beschluss des Rekursgerichts nur dann zulässig ist, wenn eine erhebliche Rechtsfrage iSd § 528 Abs 1 ZPO zu beantworten ist, was hier nicht der Fall ist. Das ist wie folgt kurz zu begründen (§ 528a iVm § 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Die Schlüssigkeit einer Wiederaufnahmeklage kann nur anhand der konkreten Behauptungen im Einzelfall geprüft werden (RS0037780 [T14]). Auch der Frage, wie ein bestimmtes Vorbringen zu verstehen ist, kommt grundsätzlich keine über den Einzelfall hinausgehende Bedeutung zu (RS0042828 [T3]). Eine zwar nicht wissentlich falsche, jedoch objektiv unrichtige Zeugenaussage erfüllt nach der Rechtsprechung nicht den Wiederaufnahmegrund des § 530 Abs 1 Z 2 ZPO, kann aber grundsätzlich unter dem Gesichtspunkt des § 530 Abs 1 Z 7 ZPO verwertet werden (RS0044577 [T3]).
+Die Auslegung des Vorbringens in der Wiederaufnahmeklage durch das Rekursgericht dahin, der Kläger habe den Wiederaufnahmegrund des § 530 Abs 1 Z 2 ZPO nicht geltend gemacht, ist schon im Hinblick darauf nicht korrekturbedürftig, dass eine wissentliche falsche Aussage von Zeugen im Vorprozess nicht behauptet wurde, sondern bloß inhaltlich unrichtige und unglaubwürdige Angaben.
+2. Gemäß § 530 Abs 2 ZPO ist die Wiederaufnahme aus dem Grund des hier allein zu prüfenden Abs 1 Z 7 leg cit nur dann zulässig, wenn die Partei ohne ihr Verschulden außer Stande war, die neuen Tatsachen oder Beweismittel vor Schluss der mündlichen Verhandlung, auf welche die Entscheidung erster Instanz erging, geltend zu machen. Die Behauptungs- und Beweislast für den Mangel des Verschuldens trägt der Wiederaufnahmekläger (RS0044558 [T11]; RS0044633). Die alleinige Berufung des Wiederaufnahmeklägers auf mangelndes Verschulden, ohne dies näher darzulegen und ein Tatsachensubstrat zu behaupten, aufgrund dessen die Verschuldensfrage beurteilt werden kann, ist nicht ausreichend (RS0044558 [T16]).
+Im Revisionsrekurs tritt der Kläger dem Vorwurf des Rekursgerichts, die Wiederaufnahmeklage lasse jedes Vorbringen zum fehlenden Verschulden vermissen, inhaltlich nicht entgegen, sondern versucht erstmals, den Mangel seines Verschuldens darzulegen. Damit verstößt er gegen das Neuerungsverbot, weshalb darauf nicht weiter einzugehen ist.
+Fehlt es aber am notwendigen Vorbringen, hat die insoweit nicht gesetzmäßige Ausführung des Wiederaufnahmegrundes des § 530 Abs 1 Z 7 iVm Abs 2 ZPO, die einer Verbesserung nicht zugänglich ist (RS0044558 [T9]), nach § 538 ZPO die Zurückweisung der Wiederaufnahmeklage wegen Unschlüssigkeit zur Folge.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030OB00170.19Z.0911.000

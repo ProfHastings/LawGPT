@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2018
+Geschäftszahl
+7Ob122/18v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei R***** S*****, vertreten durch Dr. Frank Riel und andere Rechtsanwälte in Krems, gegen die beklagte Partei D***** AG *****, vertreten durch Musey rechtsanwalt gmbh in Salzburg, wegen 55.200 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. April 2018, GZ 2 R 3/18b-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat bei der Beklagten eine Lebensversicherung mit Fondsveranlagung (fondsgebundene Lebensversicherung mit vorzeitigem schwerem Krankheitsfall) abgeschlossen, der auszugsweise folgende Versicherungsbedingungen (Anhang 066) zugrundelagen:
+„§ 1a. Was bietet Ihnen die Fondsgebundene Lebensversicherung?
+(1) Die Fondsgebundene Lebensversicherung bietet Versicherungsleistungen im Ablebensfall oder Erlebensfall oder bei Eintritt des schweren Krankheitsfalles, wenn der Versicherte noch mindestens 28 Tage überlebt.
+[…]
+§ 1b. Was gilt als schwerer Krankheitsfall?
+[…]
+(10) Vollständige Erwerbsunfähigkeit
+Vollständige Erwerbsunfähigkeit liegt vor, wenn der Versicherte infolge Krankheit, Körperverletzung oder Kräfteverfalles, die ärztlich nachzuweisen sind, dauerhaft und vollständig außer Stande ist, irgendeine Erwerbstätigkeit auszuüben.
+Die Verhältnisse auf dem Arbeitsmarkt können bei der Beurteilung der Erwerbsunfähigkeit nicht berücksichtigt werden.
+Der Anspruch auf die Versicherungsleistung entsteht, wenn die vollständige Erwerbsunfähigkeit … mindestens sechs Monate ununterbrochen gedauert hat.“
+Rechtliche Beurteilung
+1. Allgemeine Versicherungsbedingungen (AVB) sind nach Vertragsauslegungsgrundsätzen auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063). Die einzelnen Klauseln sind, wenn sie nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der AVB zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]).
+2. Der Oberste Gerichtshof ist zur Auslegung von AVB nicht jedenfalls, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit oder Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits höchstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (RIS-Justiz RS0121516 [T6]). Ein solcher Fall liegt hier vor:
+3. Die strittige Klausel ist beurteilt nach dem Maßstab eines durchschnittlich verständigen Versicherungsnehmers unzweifelhaft und eindeutig dahin, zu verstehen, dass es für einen Anspruch aufgrund vollständiger Erwerbsunfähigkeit im gegebenen Kontext allein darauf ankommt, ob der Versicherte noch im Stande ist, „irgendeine Erwerbstätigkeit“ auszuüben. Es soll also – offenbar entgegen der Ansicht des Klägers – gerade nicht maßgeblich sein, ob der Versicherte noch zu einer Erwerbstätigkeit in der Lage ist, die seiner Ausbildung oder seinem bisherigen beruflichen Werdegang entspricht. Aus der Regelung, dass die Verhältnisse auf dem Arbeitsmarkt bei der Beurteilung der Erwerbsunfähigkeit nicht berücksichtigt werden können, folgt, dass sich der Versicherte nicht darauf berufen kann, dass eine ihm entsprechende Erwerbstätigkeit am Arbeitsmarkt aktuell nicht angeboten werde, für ihn nicht erreichbar oder ihm nicht zumutbar sei. In diesem Sinn ist besagte Klausel auch einem Laien verständlich und daher weder unklar noch intransparent.
+4. Die Beurteilung, ob eine Klausel den Vertragspartner gröblich benachteiligt, hat sich insbesondere am dispositiven Recht als dem Leitbild eines ausgewogenen und gerechten Interessenausgleichs zu orientieren (RIS-Justiz RS0014676 [T7, T13, T43]). Die Berufsunfähigkeitsversicherung ist allerdings gesetzlich nicht geregelt (7 Ob 21/18s), hier deckt die Lebensversicherung auch die vollständige Erwerbsunfähigkeit als schweren Krankheitsfall. Es bestehen daher keine dispositiv-rechtlichen Vorgaben. Die Nichtberücksichtigung der Verhältnisse auf dem Arbeitsmarkt bei der Beurteilung der Erwerbsunfähigkeit  dient der klaren Abgrenzung der Anspruchsvoraussetzungen und der Vermeidung von andernfalls absehbaren arbeitsmarktbedingten Bewertungsfragen. Entgegen der vom Kläger vertretenen Ansicht liegt daher im zu beurteilenden Fall auch keine gröbliche Benachteiligung iSd § 879 Abs 3 ABGB vor.
+5. Das Erstgericht hat festgestellt, dass der Kläger während seiner mittelgradigen depressiven Episode zwar in seinem Leistungsvermögen deutlich beeinträchtigt, jedoch grundsätzlich in der Lage war, Tätigkeiten ohne Zeitdruck, die keines hohen Konzentrationsvermögens bedürfen durchzuführen. Es bestand in dieser Zeit auch keine zeitliche Beschränkung für die Durchführung von Tätigkeiten. Darauf bauten die Feststellung des Erstgerichts und die Beurteilung des Berufungsgerichts auf, dass der Kläger weder in der ersten noch in der zweiten Erkrankungsphase über einen Zeitraum von jeweils mindestens sechs Monaten ununterbrochen dauerhaft und vollständig außer Stande war, irgendeine Erwerbstätigkeit auszuüben. Bei dieser Sachlage hat das Berufungsgericht einen Leistungsanspruch des Klägers vertretbar verneint.
+6. Der Kläger macht insgesamt keine erhebliche Rechtsfrage geltend; seine außerordentliche Revision war daher zurückzuweisen. Einer weitergehenden Begründung bedarf dies nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00122.18V.0829.000

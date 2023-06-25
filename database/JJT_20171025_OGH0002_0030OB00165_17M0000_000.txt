@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2017
+Geschäftszahl
+3Ob165/17m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Jensik und Dr. Roch und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei H*****, vertreten durch Dr. Anton Cuber und Mag. Claudia Kopp-Helweh, Rechtsanwälte in Graz, gegen die beklagte Partei V***** AG, *****, vertreten durch Dr. Annemarie Stipanitz-Schreiner und Dr. Judith Kolb, Rechtsanwältinnen in Graz, sowie den Nebenintervenienten auf Seiten der beklagten Partei W*****, vertreten durch Dr. Robert Kugler und Mag. Michael Wohlgemuth, Rechtsanwälte in Klagenfurt, wegen 560.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 19. Juli 2017, GZ 4 R 201/16k-28, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Die Frage, ob überschießende Feststellungen in den Rahmen des geltend gemachten Rechtsgrundes oder der Einwendungen fallen und daher nach ständiger Rechtsprechung zu berücksichtigen sind, ist eine Frage des Einzelfalls (RIS-Justiz RS0037972 [T15]).
+Das Erstgericht hat hier umfangreiche Feststellungen darüber getroffen, welche Vereinbarungen der Kläger in den Jahren 2008 bis 2015 mit dem (ihm von der beklagten Bank zugeteilten) Vermögensberater (dem Nebenintervenienten, zu dem der Kläger eine intensive freundschaftliche Beziehung mit starker Vertrauensbasis hatte) mündlich getroffen hat. Der Kläger brachte vor, er habe nur sicheren Veranlagungen zugestimmt; die Beklagte und der Nebenintervenient wendeten jedoch ein, der Kläger habe dem Vermögensberater „freie Hand“ über sein Vermögen eingeräumt und den Transaktionen, die den in der Klage geltend gemachten Verlust herbeiführten, zugestimmt. Die Beurteilung des Berufungsgerichts, dass die erstgerichtlichen Feststellungen nicht überschießend seien, begegnet daher keinen Bedenken.
+Erst im Rahmen der rechtlichen Beurteilung qualifizierte das Erstgericht die festgestellten Vereinbarungen mit dem Vermögensberater als „Vermögens-verwaltungsvertrag“ und gelangte zum Ergebnis, die – letztlich nachteiligen – Investitionen in hoch spekulative Wertpapiere seien jeweils innerhalb der vom Kläger erteilten Ermächtigungen getätigt worden, sodass kein rechtswidriges Verhalten vorliege.
+Soweit die Revision „Indizien“ dafür nennt, dass der Kläger solche (direkten) Vereinbarungen mit dem Vermögensberater nicht getroffen haben könne, richtet sie sich in Wahrheit gegen die – vom Obersten Gerichtshof nicht überprüfbaren (vgl RIS-Justiz RS0042903 [T5]) – Tatsachenfeststellungen.
+2. Nach ständiger Rechtsprechung haftet der Geschäftsherr nicht nach § 1313a ABGB, wenn das Verhalten des Gehilfen aus dem allgemeinen Umkreis des Aufgabenbereichs, den der Gehilfe im Rahmen der Interessenverfolgung für den Schuldner wahrzunehmen hatte, herausfällt (RIS-Justiz RS0028499; vgl auch RS0028425; RS0121745). Die Beurteilung der Frage, ob ein Gehilfe „bei der Erfüllung“ der Pflichten des Geschäftsherrn oder bloß „gelegentlich“ der Erfüllung handelte, hängt immer von den Umständen des Einzelfalls ab (RIS-Justiz RS0028429 [T5]).
+Dazu steht fest, dass der Vermögensberater bei den für den Kläger nachteiligen Transaktionen, die zum Verlust des eingeklagten Betrags führten, die „hausinternen Richtlinien“ der Beklagten nicht einhielt, weil die Mitarbeiter der Beklagten solche hoch spekulativen Geschäfte gar nicht tätigen durften; die Transaktionen wurden daher – vom Nebenintervenienten mit Einverständnis des Klägers – über ein externes, nicht bei der Beklagten eingerichtetes Konto abgewickelt. Die Beurteilung des Berufungsgerichts, dass die vom Vermögensberater für den Kläger vorgenommenen Überweisungen, die sich als Fehlinvestitionen herausstellten und zum Verlust des Kapitals führten, nicht in den Aufgabenkreis fielen, den der Nebenintervenient für die Beklagte wahrzunehmen hatte, ist somit ebenfalls nicht korrekturbedürftig.
+3. Einer weiteren Begründung bedarf dieser Zurückweisungsbeschluss gemäß § 510 Abs 3 Satz 3 ZPO nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00165.17M.1025.000

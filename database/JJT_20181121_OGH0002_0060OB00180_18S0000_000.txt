@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2018
+Geschäftszahl
+6Ob180/18s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie Dr. Hargassner als weitere Richter in der Rechtssache der klagenden Partei B***** Gesellschaft mbH, *****, vertreten durch Doralt Seist Csoklich Rechtsanwälte GmbH in Wien, gegen die beklagte Partei M***** B*****, vertreten durch Graff Nestl & Partner Rechtsanwälte GmbH & Co KG in Wien, wegen 534.761,28 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 4. Juli 2018, GZ 2 R 48/18p-58, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Dass der Bezug überhöhter Mietzinse von der Gesellschaft durch den Gesellschafter eine verbotene Einlagenrückgewähr darstellen kann, hat der erkennende Senat bereits mehrfach – und auch bereits im Rechtsverhältnis zwischen den Parteien dieses Verfahrens – ausgesprochen (s bloß 6 Ob 72/16f). Dies war auch Gegenstand des in diesem Verfahren ergangenen Teilurteils (6 Ob 240/16m).
+2. Gegenstand dieses Revisionsverfahrens sind die von der Beklagten geltend gemachten Gegenforderungen, die von den Vorinstanzen – zutreffend – abgewiesen wurden:
+Ebenso wie die ursprüngliche Aufbringung der Stammeinlage nicht durch Aufrechnung erfolgen kann, ist auch eine Aufrechnung gegen Ansprüche aus der verbotenen Rückgewähr von Einlagen nicht zulässig. Der Zweck des § 83 GmbHG liegt darin, der Gesellschaft das ihr entzogene Kapital alsbald wieder zu verschaffen (RIS-Justiz RS0130869). Neben § 83 GmbHG, der einen Rückforderungsanspruch der Gesellschaft bei verbotener Einlagenrückgewähr vorsieht, kann sich die Gesellschaft allerdings auch auf allgemeines Bereicherungsrecht stützen (RIS-Justiz RS0128167). Dies ist insbesondere dann notwendig, wenn die in § 83 Abs 5 GmbHG normierte fünfjährige Verjährungsfrist für den Rückforderungsanspruch bereits abgelaufen ist. In der Entscheidung 6 Ob 206/17p wurde klargestellt, dass das zu § 83 GmbHG entwickelte Aufrechnungsverbot nicht auf einen auf allgemeines Bereicherungsrecht gestützten Rückforderungsanspruch übertragen werden kann. Stützt sich somit die Gesellschaft auf § 83 GmbHG, dann kann der Gesellschafter gegen den Rückforderungsanspruch nicht aufrechnen; stützt sich die Gesellschaft hingegen auf allgemeines Bereicherungsrecht, dann besteht kein Aufrechnungsverbot.
+Im vorliegenden Verfahren stützte die Klägerin ihre Ansprüche auf § 83 GmbHG und verlangte außerdem lediglich Mietzinszahlungen aus einem Zeitraum von fünf Jahren vor Klagseinbringung zurück, was die Beklagte in ihrer außerordentlichen Revision konkret auch gar nicht bestreitet.
+3. Soweit sich die Ausführungen der außerordentlichen Revision auf das (angebliche) teilweise Nichtbestehen der Klagsforderungen beziehen, ist die Beklagte auf die Entscheidung 6 Ob 240/16m zu verweisen; über diese Ansprüche wurde bereits rechtskräftig abgesprochen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0060OB00180.18S.1121.000

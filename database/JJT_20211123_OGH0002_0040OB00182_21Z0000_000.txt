@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.11.2021
+Geschäftszahl
+4Ob182/21z
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Schwarzenbacher als Vorsitzenden und die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache des Antragstellers S* H*, vertreten durch Dr. Alfred Kriegler, Rechtsanwalt in Wien, gegen die Antragsgegnerin E* H*, vertreten durch MMag. Dr. Franz Stefan Pechmann, Rechtsanwalt in Wien, wegen Unterlassung, über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 23. September 2021, GZ 48 R 117/21t-8, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die frühere Ehe der Parteien wurde rechtskräftig geschieden. Nach einer im Scheidungsverfahren erlassenen, noch aufrechten einstweiligen Verfügung wurde die Nutzung einer Villa in Frankreich dem in Wien wohnhaften Antragsteller vom 1. Februar bis 31. Juli jeden Jahres und der in England ansässigen Antragsgegnerin vom 1. August bis 31. Jänner zugewiesen.
+[2] 		Die Antragsgegnerin begehrte vom Antragsteller in einem Verfahren vor dem Erstgericht Unterhalt. Dieses Verfahren ist noch anhängig. Mit seiner dazu erhobenen (und so bezeichneten:) Widerklage begehrte der Antragsteller vor dem Erstgericht, der Antragsgegnerin für den Zeitraum vom 1. Februar bis zum 31. Juli die Benützung der Villa und die Zurücklassung von ihr gehörigen Gegenständen zu verbieten. Die Vorinstanzen wiesen die Widerklage mangels der Voraussetzungen des § 96 JN zurück.
+[3] 		Im gegenständlichen Verfahren begehrt der Antragsteller eine einstweilige Verfügung, die sich inhaltlich mit seinem Begehren der Widerklage deckt.
+[4] 		Das Erstgericht wies den Antrag wegen internationaler Unzuständigkeit zurück. Seine internationale Zuständigkeit könne nicht auf die EuGVVO gestützt werden. Auch eine Anknüpfung nach autonomem österreichischen Recht gemäß § 387 EO iVm § 27a JN komme nicht in Betracht. Ein anhängiges Verfahrens, im Rahmen dessen die begehrte einstweilige Verfügung erlassen werden könnte, liege nicht vor.
+[5] 		Das Rekursgericht bestätigte diese Entscheidung. Das Erstgericht sei nicht für die Widerklage nach § 96 Abs 1 JN zuständig. Damit könne die Zuständigkeit des Erstgerichts für den Verfügungsantrag nicht auf § 387 Abs 1 EO gestützt werden.
+[6] 		Der Kläger macht in seinem dagegen erhobenen außerordentlichen Revisionsrekurs ausschließlich geltend, dass das Rekursgericht von der höchstgerichtlichen Rechtsprechung zum Gerichtsstand der Widerklage abgewichen sei. Es bestehe ein tatsächlicher und wirtschaftlicher Zusammenhang zwischen den von der Antragsgegnerin geltend gemachten Unterhaltsansprüchen und den hinsichtlich der Benützung der Villa vom Antragsteller geltend gemachten Ansprüchen. Daraus folge die Zuständigkeit nach § 387 Abs 1 EO.
+Rechtliche Beurteilung
+[7] 		Damit zeigt der Antragsteller keine erheblichen Rechtsfragen auf. Der Revisionsrekurs ist daher unzulässig.
+[8] 		1. Der enge Sachzusammenhang zwischen Klage und Widerklage muss in einem inhaltlichen Zusammenhang (Konnexität), in der Aufrechenbarkeit (Kompensabilität) oder in der Präjudizialität bestehen (RS0046765).
+[9] 		2. Eine hier allenfalls in Betracht kommende Konnexität wäre dann gegeben, wenn sich die Begehren beider Klagen auf die gleichen Tatsachen stützen oder aus dem gleichen Tatsachenkomplex abgeleitet werden (RS0037833). Ein wirtschaftlicher Zusammenhang zwischen beiden Ansprüchen ist ausreichend (RS0037833 [T1]). Es genügt jedoch nicht, wenn bloß gleichartige Ansprüche erhoben werden (RS0110790).
+[10] 		3. Abgesehen davon, dass die Frage, ob Konnexität gegeben ist, von den Umständen des Einzelfalls abhängt und eine erhebliche Rechtsfrage damit regelmäßig nicht berührt wird (vgl RS0109428 [T3]), hält sich die Entscheidung der Vorinstanzen im Rahmen der referierten Rechtsprechung. Wenn das Rekursgericht davon ausgeht, dass weder ein identer Tatsachenkomplex noch ein wirtschaftlicher Zusammenhang vorliegt, aus denen sich die Ansprüche (Unterhalt und ausschließliches Nutzungsrecht) ergeben, bedarf das keiner Korrektur durch gegenteilige Sachentscheidung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0040OB00182.21Z.1123.000

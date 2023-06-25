@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.2018
+Geschäftszahl
+3Ob31/18g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei A***** GmbH, *****, vertreten durch Dr. Emilio Stock und Mag. Gerhard Endstrasser, Rechtsanwa?lte in Kitzbu?hel, gegen die beklagte Partei K***** GmbH, *****, vertreten durch die Brand Rechtsanwa?lte GmbH in Wien, und den Nebenintervenienten auf Seiten der beklagten Partei Dr. R*****, vertreten durch die Rechtsanwaltspartnerschaft Fo?ger & Pall in Wo?rgl, wegen (restlich) 1.304.127,22 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 28. Dezember 2017, GZ 3 R 150/17z-73, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die zwischen den Streitteilen vereinbarten AGB der Beklagten (vgl RIS-Justiz RS0014506 [T9]) sehen in Punkt 8.2. vor:
+„Schadenersatzanspru?che des Auftraggebers ko?nnen nur innerhalb von sechs Monaten ab Kenntnis von Schaden und Scha?diger, spa?testens aber innerhalb von drei Jahren nach dem anspruchsbegru?ndenden Ereignis gerichtlich geltend gemacht werden. Sollten die gesetzlichen Verja?hrungsfristen im Einzelfall fu?r den Auftragnehmer zu einer ku?rzeren Verja?hrung fu?hren, gelten diese.“
+Die Vorinstanzen wiesen das Schadenersatzbegehren der Klägerin wegen Verjährung (Klageerhebung nach Ablauf der sechsmonatigen subjektiven Verjährungsfrist) ab. Die außerordentliche Revision der Klägerin zeigt keine erheblichen Rechtsfragen auf und ist daher als nicht zulässig zurückzuweisen, was wie folgt kurz zu begründen ist (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Die gerügten Verfahrensmängel wegen Verstoßes gegen § 182a ZPO und unterbliebener Einvernahme eines Zeugen hat bereits das Berufungsgericht verneint. Solche bereits vom Berufungsgericht verneinte Mängel des Verfahrens erster Instanz können nicht (neuerlich) nach § 503 Z 2 ZPO im Revisionsverfahren geltend gemacht werden (RIS-Justiz RS0042963).
+2. Auch die Nichterledigung der Mängelrüge wegen unterlassener Wiedereröffnung des Verfahrens durch die zweite Instanz stellt keinen erheblichen Mangel des Berufungsverfahrens dar: Dient eine solche doch nur dazu, etwas nachzuholen, was das Gericht versäumte und hat daher insbesondere dann nicht zu erfolgen, wenn die sie begehrende Partei nur neues Tatsachenvorbringen oder (wie hier) neue Beweismittel anbieten will (RIS-Justiz RS0037031; vgl auch RS0036986; RS0036937 [T4]).
+3. Der Vorwurf, im Ersturteil fehle es an der Feststellung der (oben wiedergegebenen) Verjährungsklausel in den AGB der Beklagten, geht ebenfalls ins Leere, weil das Berufungsgericht dies zulässig (RIS-Justiz RS0121557) und unbeanstandet nachgeholt hat.
+4. Die Rüge fehlender Feststellungen zur Kenntnis der Klägerin vom anspruchsbegründenden Sachverhalt und von der Person des Schädigers übersieht Folgendes:
+Die Beklagte trug auch vor, die Klägerin habe bereits vor dem 21. November 2014 eine Schadenersatzklage angekündigt, sodass ihr schon damals die Anspruchsvoraussetzungen bekannt gewesen sein mussten. Dieses Vorbringen enthält die Tatsachenbehauptung, die Klägerin habe sich jedenfalls schon am 21. November 2014 in der Lage gesehen, eine Klage zu erheben. Genau darauf stellt die Judikatur aber ab, wenn sie zum Verjährungsbeginn verlangt, die Kenntnis von der Person des Ersatzpflichtigen müsse soweit reichen, dass der Beschädigte aufgrund des ihm bekannt gewordenen Materials in der Lage ist, eine Klage gegen den Schädiger mit Erfolg zu begründen (RIS-Justiz RS0034686).
+Die Klägerin hat dies nur ganz allgemein und unsubstantiiert bestritten, obwohl die vom Gegner aufgestellte Behauptung für sie offenbar leicht widerlegbar sein musste: Weder bestritt sie die Klageankündigung an sich oder stellte diese als bloß taktisches Manöver dar, noch wies sie darauf hin, damals hätten ihr die dafür erforderlichen Kenntnisse gefehlt. Es ist daher von einem schlüssigen Zugeständnis dieser gegnerischen Behauptung auszugehen (RIS-Justiz RS0039927), wonach die Klägerin jedenfalls am 21. November 2014 ausreichende Kenntnis von den Anspruchsvoraussetzungen hatte.
+Selbst wenn man aber mit Rücksicht auf das Eingeständnis der Klägerin, sie habe Kenntnis vom Schaden frühestens am 17. Februar 2014 und spätestens am 19. Februar 2015 erlangt, nur davon ausgeht, dass ihr Kenntnisstand für eine erfolgreiche Begründung einer Klage gegen die Beklagte erst am 19. Februar 2015 ausreichend war, liegt die Klageerhebung am 13. Dezember 2015 außerhalb der sechsmonatigen subjektiven Verjährungsfrist.
+5. Bejaht man den Ablauf der subjektiven Verjährungsfrist vor Klageeinbringung, dann kommt es auf die Regelung der objektiven Verjährung in den AGB der Beklagten nicht mehr an. Daher ist zu den darauf gerichteten Ausführungen der Revision schon mangels Präjudizialität nicht Stellung zu nehmen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030OB00031.18G.0627.000

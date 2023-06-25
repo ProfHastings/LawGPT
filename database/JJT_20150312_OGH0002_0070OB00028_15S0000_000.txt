@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.03.2015
+Geschäftszahl
+7Ob28/15s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich  und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei G***** GmbH, *****, vertreten durch Dr. Anton Cuber und Mag. Claudia Kopp-Helweh, Rechtsanwälte in Graz, gegen die beklagte Partei R***** eGen, *****, vertreten durch die Muhri & Werschitz Partnerschaft von Rechtsanwälten GmbH in Graz, wegen 26.293,20 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 13. November 2014, GZ 2 R 137/14f-14, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 10. April 2014, GZ 23 Cg 104/13w-10, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.540,44 EUR (darin enthalten 256,74 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht erklärte in Abänderung seines Ausspruchs im Urteil die ordentliche Revision für zulässig. Es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, inwieweit dem Dritten als Vertragspartner eines Kunden der beklagten Bank aufgrund einer „schuldhaft“ unterbliebenen Durchführung eines vom Bankkunden erteilten Überweisungsauftrags ein Schadenersatzanspruch gegen die Bank zustehe, wenn infolge Insolvenz des Bankkunden die Einbringlichkeit der Forderung nicht mehr zu erwarten sei.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage nicht zulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 letzter Satz ZPO).
+1. Der an eine Bank erteilte Überweisungsauftrag ist ein Sonderfall der bürgerlich-rechtlichen Anweisung (RIS-Justiz RS0109095; RS0019656 [T2, T3]). Er ist kein Auftrag im technischen Sinn, sondern eine einseitige, nicht zustimmungsbedürftige Weisung des Kunden an die Bank im Rahmen des bestehenden Girovertrags (RIS-Justiz RS0017140 [T8]). Die im Girovertrag vereinbarte grundsätzliche Verpflichtung der Bank, den bargeldlosen Zahlungsverkehr abzuwickeln, wird durch den Überweisungsauftrag des Kunden konkretisiert (RIS-Justiz RS0032931 [T6]).
+Dass die Bank nicht zur Durchführung des Überweisungsauftrags verpflichtet ist (vgl § 1401 Abs 1 erster Satz ABGB), wenn das Konto des Überweisenden durch die Ausführung ins Debet kommt oder bereits einen Debetstand aufweist und auch keine Kreditvereinbarung vorliegt (RIS-Justiz RS0032931 [T3]; RS0032986; 1 Ob 536/86 = SZ 59/51; 7 Ob 185/98a; 7 Ob 335/99m; Neumayr in KBB4 § 1400 ABGB Rz 5 mit weiteren Judikaturnachweisen), bestreitet die Klägerin ohnehin nicht. Sie geht nicht vom außer Streit gestellten und feststehenden Sachverhalt aus, wenn sie ihre Rechtsausführungen darauf aufbaut, dass die Beklagte rechtswidrig trotz ausreichender Kontodeckung die Überweisung an sie nicht vorgenommen hätte. Es steht vielmehr fest, dass das Konto der GmbH für die Überweisung an die Klägerin auch dann nicht hinreichend gedeckt gewesen wäre, wenn die Beklagte die zeitgleich in Auftrag gegebenen Überweisungen vom Konto einer (zwischenzeitlich ebenfalls insolventen) GmbH & Co KG, deren Komplementärin die GmbH ist, auf das Konto der GmbH durchgeführt hätte. Die Revision ist insofern nicht gesetzmäßig ausgeführt (RIS-Justiz RS0043312).
+2. Nach § 39 Abs 1 Z 1 ZaDiG darf der Zahlungsdienstleister die Ausführung eines autorisierten Zahlungsauftrags ablehnen, wenn nicht alle im Rahmenvertrag festgelegten Bedingungen erfüllt sind, wozu auch die Fälle fehlender Kontodeckung oder nicht ausreichender Kreditierungsvereinbarung gehören (vgl ErläutRV 207 BlgNR XXIV. GP 43). Beim Konto der überweisenden GmbH (Zahlerin) handelte es sich um ein Girokonto ohne Überziehungsmöglichkeit. Es wies nicht die erforderliche Deckung auf. Mangels Erfüllung dieser vereinbarten Bedingung (keine Kontoüberziehung) durfte die beklagte Zahlungsdienstleisterin die Durchführung des Überweisungsauftrags ablehnen. Da die beklagte Bank nicht rechtswidrig handelte, kommt schon aus diesem Grund eine Schadenersatzpflicht gegenüber der Klägerin als Zahlungsempfängerin nicht in Betracht.
+Es stehen keine erheblichen Rechtsfragen zur Entscheidung an.
+3. Die Kostenentscheidung gründet sich auf § 41 und § 50 ZPO. Die Beklagte verwies auf die Unzulässigkeit der Revision. Ihr stehen allerdings nur Kosten auf der Bemessungsgrundlage von 26.293,20 EUR zu.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00028.15S.0312.000

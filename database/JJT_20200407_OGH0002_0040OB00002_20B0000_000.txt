@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.04.2020
+Geschäftszahl
+4Ob2/20b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin Mag. R***** S*****, vertreten durch Aigner Rechtsanwalts-GmbH in Wien, gegen die Beklagte H***** AG, *****, vertreten durch Dr. Wolfgang Hirsch und Dr. Ursula Leissing, Rechtsanwälte in Bregenz, wegen 105.786,30 EUR sA, über die außerordentliche Revision der Klägerin (Revisionsinteresse 97.911,30 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 5. November 2019, GZ 129 R 79/19i-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin begehrte die Zahlung von 105.786,30 EUR Zug um Zug gegen die Übertragung sämtlicher Rechte und Pflichten aus den von ihr gezeichneten Wienwert Servus Wien Anleihen, die sie über Vermittlung der beklagten Bank gezeichnet hatte und deren Emittentin in der Folge insolvent wurde, in eventu die Feststellung, dass die Beklagte aufgrund rechtswidrigen und schuldhaften Verhaltens, insbesondere fehlerhafter Beratung gegenüber der Klägerin im Zusammenhang mit den Anleihen für alle zukünftigen Schäden der Klägerin hafte.
+Das Berufungsgericht wies die Klage ab. Nach Durchführung einer Beweiswiederholung stellte es fest, dass der Mitarbeiter der Beklagten mit der Klägerin zwar die Allgemeinen Risikohinweise besprochen, allerdings erklärt hat, dass er zur Wienwert-Anleihe keine Angaben machen und nicht garantieren könne, dass die Wienwert solide sei. Er hat die Klägerin hinsichtlich der Anleihe nicht beraten und ihr diese Anleihe auch nicht zum Kauf empfohlen. Aufgrund dieser eindeutigen Erklärung schloss das Berufungsgericht das Zustandekommen eines konkludenten Beratungsvertrags aus. Auch aus dem zwischen den Streitteilen geschlossenen Depotvertrag ergebe sich keine Verpflichtung der Beklagten, die Klägerin über die Anschaffung von Wertpapieren zu beraten.
+Rechtliche Beurteilung
+Mit ihrer außerordentlichen Revision releviert die Klägerin ein Abweichen von der Rechtsprechung zur Aufklärungspflicht und zum Zustandekommen eines Beratungsvertrags. Damit zeigt sie jedoch keine erhebliche Rechtsfrage auf, weshalb ihre Revision unzulässig ist.
+1.1. Ein Auskunftsvertrag mit einer Bank kommt schlüssig zustande, wenn die Umstände des Einzelfalls unter Berücksichtigung der Verkehrsauffassung und des Verkehrsbedürfnisses den Schluss zulassen, dass beide Teile die Auskunft zum Gegenstand vertraglicher Rechte und Pflichten machen wollen (RIS-Justiz RS0014562 [T2]). Dies ist etwa der Fall, wenn klar zu erkennen ist, dass der Auskunftswerber eine Vermögensdisposition treffen will und der Berater durch die Auskunft das Zustandekommen des geplanten Geschäfts fördern will (RS0014562 [T4]). Ob ein bestimmtes Vertragsverhältnis schlüssig begründet wurde, ist aber regelmäßig keine Rechtsfrage von erheblicher Bedeutung, weil dies jeweils nur einzelfallbezogen beantwortet werden kann (RS0014562 [T6]).
+1.2. Im vorliegenden Fall hat das Berufungsgericht das Zustandekommen eines konkludenten Beratungsvertrags zwischen den Streitteilen über die Wienwert-Anleihen vertretbar verneint, zumal die Beklagte der Klägerin zwar auf ihren ausdrücklichen Wunsch diese Anleihen zum Kauf vermittelt, ihr diesen Kauf aber nicht empfohlen und sie darüber auch nicht beraten hat.
+1.3. Auch der neuerliche Rückgriff der Revisionswerberin auf § 1300 ABGB schlägt fehl, weil ihr die Beklagte niemals zum Kauf der Wienwert-Anleihe geraten hat, sodass es schon an der Erteilung eines entgeltlichen Rates mangelt.
+1.4. Soweit sich die Revisionswerberin auf den zwischen den Streitteilen abgeschlossenen Depotvertrag stützt, steht der Hinweis des Berufungsgerichts, dass der Depotvertrag nicht die Anschaffung von Wertpapieren umfasst, im Einklang mit der ständigen Rechtsprechung (vgl 4 Ob 50/11y; 7 Ob 57/15f mwN). Demnach übernimmt beim (reinen) Depotgeschäft die Bank die Verwahrung und Verwaltung von Wertpapieren für andere. Hauptpflicht des Verwahrers ist die Obsorge für die anvertraute Sache. Die Depotbank hat die mit den Wertpapieren verbundenen Rechte (Zinsen, Dividenden) geltend zu machen und jährliche Depotaufstellungen zu übermitteln. Hingegen werden die Anschaffung von Wertpapieren und die Umschichtung des Wertpapierbestands davon nicht umfasst.
+2. Der Revisionsgrund der Aktenwidrigkeit wurde geprüft, er liegt nicht vor (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00002.20B.0407.000

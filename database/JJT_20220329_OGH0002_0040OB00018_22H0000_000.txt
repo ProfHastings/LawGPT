@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2022
+Geschäftszahl
+4Ob18/22h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei p* GmbH, *, vertreten durch Dr. Christian Willmann, Rechtsanwalt in Wien, gegen die beklagte Partei P* AG, *, vertreten durch Mag. Dr. Lothar Wiltschek und Dr. David Plasser, Rechtsanwälte in Wien, wegen Unterlassung, Rechnungslegung und Feststellung (Gesamtstreitwert 46.000 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. November 2021, GZ 1 R 142/21s-22, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin ist Inhaberin der am 7. 9. 1993 für Waren und Dienstleistungen unter anderem der Klassen
+12. Ketten für Fahrzeuge, Schneeketten, Gleitschutzketten, Schwerfahrzeugketten, Geländeketten, Reifenschutzketten;
+22. Seile, Gurten und Bänder aus natürlichen und künstlichen Textilfasern, Lasthebebänder, Rundschlingen und Zurrgurte;
+registrierten österreichischen Wort-Bildmarke:
+[2] 		Die in der Schweiz ansässige Beklagte wurde 1998 gegründet und vertreibt diverse Waren, unter anderem Schutzanzüge, Mundschutze, Maler-Abdeckbänder und Servietten, die sie zumindest seit dem Jahr 2017 über ihren Online-Shop mit der Top-Level-Domain „.ch“ anbietet, wobei sie unter dem folgenden Zeichen auftritt:
+[3] 		Das Berufungsgericht gab dem Unterlassungsbegehren der Klägerin in Bezug auf die Benutzung der Marke PEWAG im geschäftlichen Verkehr in Österreich, insbesondere als Firmenbestandteil oder als Internetdomain zur Kennzeichnung von Waren der Klassen 12 und 22 statt und wies die darüber hinausgehenden Rechnungslegungs- und Feststellungsbegehren ab.
+[4] 		Die dagegen von der Beklagten erhobene außerordentliche Revision ist in Ermangelung von erheblichen Rechtsfragen nicht zulässig und somit zurückzuweisen.
+Rechtliche Beurteilung
+[5] 		1.1. Die Verwendung einer Firma als Warenzeichen kann in Rechte an einer Marke eingreifen und daher unter den Voraussetzungen des § 10 Abs 1 MSchG Unterlassungsansprüche begründen (RS0128822). Die Nutzung einer Marke als Firmenbestandteil ist daher zu unterlassen, wenn sie zur Kennzeichnung von Waren oder Dienstleistungen erfolgt (vgl 4 Ob 154/14x mwN). Die Ursprungsgarantie als Hauptfunktion der Marke wird dann beeinträchtigt, wenn das Zeichen von dem Dritten für seine Waren oder Dienstleistungen in der Weise benutzt wird, dass die Abnehmer es als Herkunftskennzeichnung dieser Waren oder Dienstleistungen auffassen (EuGH Rs C-17/06, Céline, Rn 27; RS0123519 [T6]).
+[6] 		1.2. Wenn das Berufungsgericht aufgrund des festgestellten Sachverhalts, wonach die Website der Beklagten einen ausdrücklichen Hinweis auf Lieferungen ins Ausland enthält und sie unter dem Zeichen PEWAG ua Schneeketten dritter Hersteller ohne Hinweis auf diese zum Verkauf auf ihrer Website angeboten hat, eine Verletzung des Markenrechts der Klägerin iSv § 10 Abs 1 Z 2 MSchG annahm, hält sich dies im Rahmen der aufgezeigten Rechtsprechung.
+[7] 		2.1. Das Vorliegen einer Markenverletzung durch Werbung im Internet setzt einen über die bloße Abrufbarkeit einer Website hinausgehenden Inlandsbezug voraus (RS0127999). Ob dies der Fall ist, ist im Einzelfall anhand der „relevanten Indizien“ zu beurteilen (EuGH Rs C-324/09, L'Oréal/eBay, Rz 65) und hängt somit von den Umständen des Einzelfalls ab. Die Beurteilungskriterien sind ua die Top-Level-Domain, die Sprache der Website, deren Inhalt und die wirtschaftliche Ausrichtung des Unternehmens (RS0127999 [T2]). Eine Einzelfallentscheidung ist für den Obersten Gerichtshof nur dann überprüfbar, wenn im Interesse der Rechtssicherheit ein grober Fehler bei der Auslegung der anzuwendenden Rechtsnorm korrigiert werden müsste (RS0044088 [T8, T9]).
+[8] 		2.2. Ein derartiger grober Fehler liegt hier nicht vor. Wohl weist die länderspezifische Top-Level-Domain „.ch“ nicht auf Österreich hin und wurde zuletzt ein Disclaimer angebracht, wonach die Angebote nur in der Schweiz Gültigkeit haben, jedoch ist die Website in deutscher Sprache verfasst und es wurden tatsächlich Kunden in Österreich beliefert, die ihre Bestellungen bei der Beklagten per E-Mail tätigten. In Gesamtbetrachtung ist daher die berufungsgerichtliche Annahme einer relevanten wirtschaftlichen Ausrichtung der Website auf Österreich vertretbar.
+[9] 		3. Soweit die Beklagte moniert, die angefochtene Entscheidung untersage jegliche Markenbenutzung im Sinn von § 10a MSchG, obwohl die Klägerin gar nicht vorgebracht habe, dass die Beklagte alle in dieser Bestimmung genannten Benutzungshandlungen gesetzt hätte, sodass das erlassene Verbot überschießend sei, ist ihr entgegen zu halten, dass das Berufungsgericht die Formulierung „insbesondere“ gewählt hat, um das verallgemeinernd umschriebene unzulässige Verhalten (die Benutzung der Marke) durch Einzelverbote zu verdeutlichen, zumal es zulässig ist, das unzulässige Verhalten verallgemeinernd zu umschreiben und durch „insbesondere“ aufgezählte Einzelverbote zu verdeutlichen (vgl 4 Ob 88/10k). Die Fassung des Unterlassungsgebots, bei der immer auf die Umstände des einzelnen Falls abzustellen ist (RS0037671), ist daher nicht zu beanstanden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00018.22H.0329.000

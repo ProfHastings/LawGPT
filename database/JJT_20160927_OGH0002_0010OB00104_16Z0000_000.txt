@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2016
+Geschäftszahl
+1Ob104/16z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Bydlinski, Mag. Wurzer, Mag. Dr. Wurdinger und die Hofrätin Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei K***** R*****, vertreten durch Dr. Karl-Heinz Plankel, Dr. Herwig Mayrhofer und Mag. André Zankl, Rechtsanwälte in Dornbirn, gegen die beklagte Partei T***** plc, *****, Großbritannien, vertreten durch die Schönherr Rechtsanwälte GmbH, Wien, wegen Feststellung (Streitwert 30.100 EUR), über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 18. April 2016, GZ 13 R 22/16z-42, mit dem der Beschluss des Landesgerichts für Zivilrechtssachen Wien vom 10. Dezember 2015, GZ 1 Cg 7/15d-36, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird nicht Folge gegeben.
+Die Parteien haben ihre im Revisionsrekursverfahren angefallenen Kosten selbst zu tragen.
+Text
+Begründung:
+Der Kläger begehrt die Feststellung der schadenersatzrechtlichen Haftung der in Schottland ansässigen beklagten Bank für sämtliche Schäden aus der Manipulation des Referenzzinssatzes LIBOR, an der die Beklagte beteiligt gewesen sei. Er habe bei einer österreichischen Bank einen Kredit aufgenommen, bei dem die Höhe des Zinssatzes an den LIBOR gebunden sei. Durch die auch von der Beklagten zu verantwortende rechtswidrige und schuldhafte Manipulation dieses Referenzzinssatzes entstehe ihm höherer Zinsaufwand. Das angerufene (österreichische) Gericht sei gemäß Art 7 „Abs 2“ EuGVVO international zuständig, gegebenenfalls nach Art 7 „Abs 5“ und Art 17 Abs 1 lit c iVm Abs 2 EuGVVO. Für den Fall der örtlichen Unzuständigkeit beantragte der Kläger letztlich die Überweisung an das Landesgericht Linz, in dessen Sprengel die kreditgewährende Bank ihren Sitz habe; dort sei das schädigende Verhalten gesetzt worden.
+Die Beklagte erhob die Einreden der internationalen sowie der örtlichen Unzuständigkeit. Sie habe ihren Sitz in Großbritannien. Ihre österreichische Zweigniederlassung sei in die vom Kläger behaupteten Handlungen nicht involviert gewesen.
+Das Erstgericht wies die Klage wegen internationaler Unzuständigkeit zurück und den Überweisungsantrag ab. Weder aus Art 7 Z 2, noch aus Art 7 Z 5 oder aus Art 17 iVm Art 2 EuGVVO ergebe sich ein Verbrauchergerichtsstand bzw eine gerichtliche Zuständigkeit des angerufenen Gerichts oder des Landesgerichts Linz.
+Das Rekursgericht bestätigte diese Entscheidung, sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige, und erklärte den Revisionsrekurs für zulässig. Es schloss sich der Rechtsauffassung des Erstgerichts an und verwies insbesondere darauf, dass zwischen den Streitteilen keine Rechtsbeziehung bestanden habe und der behauptete Schaden des Klägers auch nicht mit der österreichischen Zweigniederlassung der Beklagten im Zusammenhang stehe. Der Revisionsrekurs sei mangels einschlägiger Rechtsprechung des Obersten Gerichtshofs zulässig.
+Rechtliche Beurteilung
+Der dagegen erhobene Revisionsrekurs des Klägers ist zulässig, aber im Ergebnis nicht berechtigt.
+Nach Erhebung des Rechtsmittels hat der Oberste Gerichtshof in gleichgelagerten Fällen zu 4 Ob 120/16z und 4 Ob 131/16t die Zuständigkeit österreichischer Gerichte für Klagen österreichischer Kreditnehmer bejaht. Da der Kläger in diesem Verfahren durch dieselben Rechtsanwälte vertreten ist und die Beklagte in allen Verfahren identisch ist, kann inhaltlich auf die genannten Entscheidungen verwiesen werden.
+Diese sind kurz dahin zusammenzufassen, dass auf den vorliegenden Fall die EuGVVO 2012 anzuwenden ist und gemäß Art 7 Nr 2 dieser Verordnung an einem Gericht jenes Ortes geklagt werden kann, an dem das schädigende Ereignis eingetreten ist oder einzutreten droht. In einem Kartellschadenersatz betreffenden Vorabentscheidungs-
+verfahren legte der EuGH (den inhaltlich Art 7 Nr 2 EuGVVO 2012 entsprechenden) Art 5 Nr 3 EuGVVO alt dahin aus, dass bei einer Klage, mit der von in verschiedenen Mitgliedstaaten ansässigen Beklagten wegen eines einheitlichen und fortgesetzten Verstoßes Schadenersatz verlangt wird, das schädigende Ereignis in Bezug auf jeden einzelnen angeblich Geschädigten eingetreten ist, entweder bei dem Gericht des Ortes klagen kann, an dem das Kartell gegründet wurde, oder bei dem Gericht des Ortes, an dem er seinen (Wohn-)Sitz hat (C-352/13). Diese Rechtsprechung zu Kartellschäden ist auch auf Fälle anzuwenden, in denen der nach seinen Behauptungen Geschädigte ein Bankkunde ist, der seine Schadenersatzklage auf eine unionsrechtswidrige Marktbeeinflussung (auch) durch die Beklagte stützt.
+Damit liegt zwar ein österreichischer inländischer Gerichtsstand vor, doch liegt der zuständigkeitsbegründende Wohnsitz des Klägers nicht im Sprengel des angerufenen Erstgerichts. Auch das Landesgericht Linz, an das die Rechtssache nach dem Antrag des Klägers im Fall der Unzuständigkeit überwiesen werden soll, ist offenbar unzuständig, hat er seinen Wohnsitz doch im Sprengel des Landesgerichts Korneuburg.
+Damit erweisen sich die Entscheidungen der Vorinstanzen im Ergebnis als richtig.
+Die Kostenentscheidung beruht auf § 50 Abs 1 ZPO iVm § 40 bzw § 41 Abs 1 ZPO. Die Revisionsrekursbeantwortung der Beklagten war zur zweckentsprechenden Rechtsverteidigung nicht erforderlich, geht sie doch auf die entscheidende Frage des örtlich zuständigen österreichischen Gerichts überhaupt nicht ein.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0010OB00104.16Z.0927.000

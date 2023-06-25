@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2020
+Geschäftszahl
+4Nc3/20h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und Priv.-Doz. Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei Dr. N*****, vertreten durch Dr. Stefan Aigner, Mag. Gerd Pichler, Rechtsanwälte in Innsbruck, gegen die beklagte Partei R*****, vertreten durch  DSC Doralt Seist Csoklich Rechtsanwälte GmbH in Wien, wegen 2.071,97 EUR sA, über den Ordinationsantrag der klagenden Partei nach § 28 JN in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Ordinationsantrag wird abgewiesen.
+Text
+Begründung:
+Der in Innsbruck wohnhafte Kläger begehrt vor dem Bezirksgericht Innsbruck vom beklagten Luftfahrtunternehmen mit Sitz in Irland die Klagssumme gemäß Art 9 der Verordnung (EG) Nr 261/2004 (FluggastrechteVO). Er und seine beiden Kinder wären als Fluggäste eines von der Beklagten durchzuführenden Flugs von München nach Dublin zu befördern gewesen. Die Beklagte habe ihnen den Zutritt zur Maschine verweigert, sodass der Kläger einen Ersatzflug bei einer anderen Fluglinie gebucht habe. Die internationale Zuständigkeit stützte der Kläger auf seinen Wohnsitz als Verbraucher. Hilfsweise stellte er für den Fall der Unzuständigkeit einen Antrag nach § 28 JN an den Obersten Gerichtshof. Dem Kläger sei die Rechtsverfolgung im Ausland wegen der enormen zusätzlichen Kosten für Übersetzungen, Anwalts- und Reisekosten unzumutbar. Für Ansprüche aus der FluggastrechteVO hätten die Mitgliedsstaaten nach Art 47 GRC einen effektiven gerichtlichen Rechtsschutz sicherzustellen. Eine Ordination sei auch dann erlaubt, wenn ein Gericht eines Mitgliedstaats (Irland oder Deutschland) zuständig wäre.
+Das Bezirksgericht Innsbruck wies die Klage mit Beschluss vom 3. Jänner 2020 mangels internationaler Zuständigkeit rechtskräftig zurück und legte dem Obersten Gerichtshof den Akt zur Erledigung des Ordinationsantrags vor.
+Rechtliche Beurteilung
+Die Voraussetzungen für eine Ordination liegen nicht vor.
+1. Sind für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts im Sinne dieses Gesetzes oder einer anderen Rechtsvorschrift nicht gegeben oder nicht zu ermitteln, so hat der Oberste Gerichtshof aus den sachlich zuständigen Gerichten gemäß § 28 Abs 1 JN eines zu bestimmen, welches für die fragliche Rechtssache als örtlich zuständig zu gelten hat, wenn Österreich aufgrund eines völkerrechtlichen Vertrags zur Ausübung von Gerichtsbarkeit verpflichtet ist (Z 1) oder der Kläger österreichischer Staatsbürger ist oder seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre (Z 2) oder die inländische Gerichtsbarkeit, nicht aber ein örtlich zuständiges Gericht vereinbart worden ist (Z 3).
+2. Die Ordination nach § 28 Abs 1 Z 1 JN setzt die internationale Zuständigkeit Österreichs voraus (Garber in Fasching/Konecny3 § 28 JN Rz 22; RIS-Justiz RS0118239; s auch RS0046326). Der Oberste Gerichtshof ist dabei an eine darüber bereits ergangene rechtskräftige Entscheidung gebunden (Garber in Fasching/Konecny3 § 28 JN Rz 25; RS0046568 [T5]). Da das Bezirksgericht Innsbruck die internationale Zuständigkeit bereits rechtskräftig verneint hat, kann eine Ordination nicht auf § 28 Abs 1 Z 1 JN gestützt werden.
+Dass die Voraussetzungen für eine Ordination nach § 28 Abs 1 Z 3 JN (Vereinbarung der inländischen Gerichtsbarkeit, nicht aber eines örtlich zuständigen Gerichts) vorliegen, wird nicht geltend gemacht.
+3.1 Der Kläger begründet den Ordinationsantrag mit einer übermäßigen Erschwernis der Durchsetzung seiner Rechte nach der FluggastrechteVO in Irland bzw in Deutschland. Er macht damit § 28 Abs 1 Z 2 JN geltend.
+3.2 Die dafür erforderliche Voraussetzung der Unmöglichkeit oder Unzumutbarkeit der Rechtsverfolgung im konkurrierenden Ausland liegt im Anlassfall aber nicht vor. Nach gesicherter Rechtsprechung kann sich der Kläger auf die Unmöglichkeit bzw Unzumutbarkeit einer Rechtsverfolgung im Ausland nicht berufen, wenn Gerichte im Geltungsbereich der EuGVVO zur Rechtsausübung berufen sind (RS0112108; RS0053178 [T3]; 2 Ob 222/14g mwN; Mayr in Rechberger/Klicka5 § 28 JN Rz 9; Garber in Fasching/Konecny³ § 28 JN Rz 71), dies abgesehen von – hier nicht vorliegenden – Ausnahmefällen (bei der Unterlassungsexekution: 3 Nc 23/19s mwN).
+Anderes gilt auch nicht für den Bereich der  FluggastrechteVO, zumal die effektive Durchsetzung der daraus abgeleiteten Rechte in allen Mitgliedsstaaten der Union gewährleistet ist.
+Ausreichende Gründe für eine Ordination nach § 28 Abs 1 Z 2 JN sind somit nicht gegeben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040NC00003.20H.0219.000

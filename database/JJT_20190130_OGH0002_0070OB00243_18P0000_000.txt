@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.2019
+Geschäftszahl
+7Ob243/18p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei M***** B*****, vertreten durch Mag. Mathias Burger, Rechtsanwalt in Wien, gegen die beklagte Partei D***** AG *****, vertreten durch Maraszto Milisits Rechtsanwälte OG in Wien, wegen 52.777,32 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Oktober 2018, GZ 2 R 119/18m-13, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat bei der Beklagten eine Haftpflichtversicherung abgeschlossen, der die Allgemeinen Bedingungen für die Haushaltsversicherung (ABH 2012) zugrundeliegen. Diese lauten auszugsweise:
+„Artikel 11
+Versicherungsfall und Versicherungsschutz
+1. Versicherungsfall ist ein Schadenereignis, das dem privaten Risikobereich (...) entspringt und aus welchem dem Versicherungsnehmer Schadenersatzverpflichtungen (...) erwachsen oder erwachsen könnten.
+(...)
+Artikel 12
+Sachlicher Umfang des Versicherungsschutzes
+1. Die Versicherung erstreckt sich auf Schadenersatzverpflichtungen des Versicherungsnehmers als Privatperson aus den Gefahren des täglichen Lebens mit Ausnahme der Gefahr einer betrieblichen, beruflichen oder gewerbsmäßigen Tätigkeit, insbesondere
+(…)
+Artikel 17
+Ausschlüsse vom Versicherungsschutz
+Nicht versichert sind:
+(...)
+6. Schäden, die zugefügt werden
+6.1. dem Versicherungsnehmer (den Versicherungsnehmern) selbst;
+6.2. Angehörigen des Versicherungsnehmers
+(als Angehörige gelten der Ehegatte, Verwandte in gerader aufsteigender und absteigender Linie, Schwieger-, Adoptiv- und Stiefeltern, im gemeinsamen Haushalt lebende Geschwister; außereheliche Gemeinschaft ist in ihrer Auswirkung der ehelichen gleichgestellt).“
+Rechtliche Beurteilung
+Der Kläger begehrt aus der Haushaltsversicherung den Ersatz der Vertretungskosten im Strafverfahren einschließlich des Privatbeteiligtenzuspruchs an die behauptete Lebensgefährtin des von ihm getöteten Vaters. Der Kläger zeigt in seiner Revision gegen die abweislichen Entscheidungen der Vorinstanzen das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht auf:
+1. Ob die vom Kläger geltend gemachten Schäden vom Ausschluss des Versicherungsschutzes nach Art 17.6.2. ABH 2012 erfasst sind, muss nicht beurteilt werden, weil die Vorinstanzen das Vorliegen einer Gefahr des täglichen Lebens im Einklang mit den dazu vom Fachsenat entwickelten Grundsätzen verneint haben und zum Begriff der „Gefahren des täglichen Lebens“ bereits eine umfangreiche Rechtsprechung des Fachsenats vorliegt (vgl die Nachweise in RIS-Justiz RS0081099), die angesichts des vorliegenden Einzelfalls keiner  Verbreiterung bedarf:
+2.1. Der Begriff der „Gefahren des täglichen Lebens“ ist nach der allgemeinen Bedeutung der Worte dahin auszulegen, dass der Versicherungsschutz für die Haftpflicht des Versicherungsnehmers jene Gefahren erfasst, mit denen üblicherweise im Privatleben eines Menschen gerechnet werden muss (RIS-Justiz RS0081099). Die Gefahr, haftpflichtig zu werden, stellt im Leben eines Durchschnittsmenschen nach wie vor eine Ausnahme dar. Deshalb will die Privathaftpflichtversicherung prinzipiell Deckung auch für außergewöhnliche Situationen schaffen, in die auch ein Durchschnittsmensch hineingeraten kann. Freilich sind damit nicht alle ungewöhnlichen und gefährlichen Tätigkeiten abgedeckt (RIS-Justiz RS0081276 [T1]). Für das Vorliegen einer „Gefahr des täglichen Lebens“ ist nicht erforderlich, dass solche Gefahren geradezu täglich auftreten; vielmehr genügt es, wenn die Gefahr erfahrungsgemäß im normalen Lebensverlauf immer wieder, sei es auch seltener, eintritt. Es darf sich nur nicht um eine geradezu ungewöhnliche Gefahr handeln, wobei Rechtswidrigkeit oder Sorglosigkeit eines Verhaltens den daraus entspringenden Gefahren noch nicht die Qualifikation als solche des täglichen Lebens nehmen. Voraussetzung für einen aus einer Gefahr des täglichen Lebens verursachten Schadensfall ist nämlich immer eine Fehlleistung oder eine schuldhafte Unterlassung des Versicherungsnehmers (RIS-Justiz RS0081070). Die Abgrenzung zwischen dem gedeckten Eskalieren einer Alltagssituation und einer nicht gedeckten ungewöhnlichen und gefährlichen Tätigkeit hängt von den Umständen des Einzelfalls ab, die in der Regel keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO begründet (7 Ob 126/17f); dies gilt auch im vorliegenden Fall, haben doch die Vorinstanzen diese Abgrenzung im Rahmen der zuvor dargestellten Grundsätze vorgenommen:
+2.2. Entgegen der Ansicht des Klägers geht insbesondere die jüngere Rechtsprechung des Fachsenats keineswegs dahin, dass nur Bosheitsakte keine Gefahr des täglichen Lebens darstellten und fahrlässiges Verhalten des Versicherungsnehmers schlechthin immer gedeckt sei. So hat der Fachsenat etwa ausgesprochen, dass eine infolge psychischer Erkrankung erfolgte Messerattacke keine solche vom gedeckten Risiko umfasste Gefahr des täglichen Lebens ist, in die ein Durchschnittsmensch im normalen Lebensverlauf üblicherweise gerät (7 Ob 145/17z).
+Es liegt auch dann keine Gefahr des täglichen Lebens vor, wenn eine schwere Körperverletzung im Zustand der vollen Berauschung verübt wird, weil ein Durchschnittsmensch – auch wenn er erheblich alkoholisiert ist – nicht in die Situation gerät, dass er als aktiv Beteiligter eine schwere Körperverletzung oder ein Vergehen der Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung nach § 287 Abs 1 (§§ 83 Abs 1, 84 Abs 1) StGB begeht (7 Ob 189/16v = RIS-Justiz RS0081276 [T5]).
+Auch aus 7 Ob 184/14f  folgt – wiederum entgegen der Ansicht des Klägers – keineswegs, dass jede Notwehrhandlung als Gefahr des täglichen Lebens zu werten sei. Vielmehr wurde dort (nur) ausgesprochen, dass für Schadenersatzverpflichtungen des Versicherten, die aus der Körperverletzung mit einer vom Versicherten mitgeführten verbotenen Waffe resultieren, selbst bei Vorliegen einer Notwehrsituation kein Versicherungsschutz besteht.
+Schließlich hat der Fachsenat in jüngerer Zeit auch in Fällen (bloß) fahrlässiger Handlungen das Vorliegen einer Gefahr des täglichen Lebens verneint (7 Ob 126/17f [unvorsichtige Schweißarbeiten]; 7 Ob 13/18i [Verletzung bei „Wasserbombenschlacht“]).
+2.3. Der Kläger hat im Zuge der Abwehr eines tatsächlich oder fahrlässig irrtümlich angenommenen Angriffs seines Vaters aus Bestürzung, Furcht oder Schrecken das gerechtfertigte Maß der Verteidigung überschritten oder sich fahrlässig einer offensichtlich unangemessenen Verteidigung bedient und seinen Vater grob fahrlässig getötet. Dabei hat der Kläger seinen Vater zu Boden gebracht, sich mit seinem Körper auf den sich in Bauchlage befindlichen Vater gelegt und mit den Knien oder Ellbögen über längere Zeit intensiven Druck gegen die obere linke Rückenregion und die linke Körperseite ausgeübt. Dadurch erlitt sein Vater ein stumpfes Brustkorbtrauma mit Brustkorbkompression, Serienrippenbrüche, eine massive Einblutung in die seitliche Brustwand mit Lungenfettembolie und verstarb infolge daraufhin eingetretenen Erstickens an einem Herz-Kreislauf-Versagen. Die Rechtsansicht der Vorinstanzen, dass eine
+– wenngleich in einer vermeintlichen Notwehrsituation vorgenommene – grob fahrlässige Tötung unter Anwendung derart massiver Gewalt keine vom gedeckten Risiko umfasste Gefahr des täglichen Lebens ist, in die ein Durchschnittsmensch im normalen Lebensverlauf üblicherweise gerät, erachtet der Senat als zutreffend.
+3. Da somit die Voraussetzungen des § 502 Abs 1 ZPO nicht vorliegen, ist die Revision nicht zulässig und daher zurückzuweisen, ohne dass dieser Beschluss einer weitergehenden Begründung bedarf (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00243.18P.0130.000

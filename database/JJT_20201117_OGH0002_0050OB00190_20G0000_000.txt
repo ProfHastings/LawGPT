@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.11.2020
+Geschäftszahl
+5Ob190/20g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei V*****, Türkei, vertreten durch Handan Ilhan, Rechtsanwältin in Istanbul (Einvernehmensanwältin Mag. Irene Oberschlick, Rechtsanwältin in Wien), gegen die beklagte Partei A-*****, vertreten durch Hausberger Moritz Schmidt, Rechtsanwälte in Wörgl, wegen 543.492,87 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 21. August 2020, GZ 3 R 19/20y-192, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Das klagende Unternehmen mit Sitz in der Türkei produzierte und verkaufte bis zur Einstellung dieser Produktion im Jahr 2011 Kunststofftragetaschen und hatte mit der Beklagten, einer in Österreich ansässigen Gesellschaft, eine Geschäftsbeziehung. Die Beklagte bestellte Plastiktragetaschen und verkaufte sie an eine Zwischenhändlerin mit Sitz in einem anderen EU-Mitgliedstaat. Die Plastiktragetaschen wurden von der Klägerin direkt an die Zwischenhändlerin geliefert. Streitpunkte des erstinstanzlichen Verfahrens waren – neben der Tatfrage des Vorliegens von Mängeln – die Einhaltung der Rügepflicht (§ 377 Abs 1 UGB) sowie deren Ausschluss (§ 377 Abs 5 UGB).
+2.1 Das Erstgericht hielt nach Erörterung des Auslandsbezugs und des UN-Kaufrechts die Einigung der Parteien fest, österreichisches Recht auf den vorliegenden Rechtsstreit anzuwenden und sämtliche Ansprüche nach österreichischem Recht zu beurteilen. In der Folge bezogen sich die Parteien in ihrem Vorbringen ausschließlich auf konkret genannte Bestimmungen des UGB, nicht jedoch auf das UN-Kaufrecht als Teil der österreichischen Rechtsordnung (RIS-Justiz RS0115967) oder auf türkisches Recht. Das Erstgericht legte seiner rechtlichen Beurteilung konkrete Bestimmungen des UGB zugrunde.
+2.2 Die Klägerin relevierte in der mit Tatfragen vermengten Rechtsrüge ihrer Berufung ebenfalls nur Bestimmungen des UGB und bekämpfte die Anwendung ausschließlich österreichischen Gewährleistungs- und Schadenersatzrechts nicht. Die selbständig zu beurteilende Rechtsfrage einer zulässigen nachträglichen Rechtswahl iSd Art 3 Abs 2 Rom I-VO sowie des nach Auffassung des Berufungsgerichts auch konkludent zulässigen Ausschlusses des UN-Kaufrechts (vgl 2 Ob 95/06v; 8 Ob 125/08b; RS0115967 [T3]) sind abschließend erledigte, in dritter Instanz nicht mehr zu erörternde, Streitpunkte (RS0043338 [T13]).
+3.1 Ein Verkäufer kann sich nach § 377 Abs 5 UGB nicht auf die Rügeobliegenheit des Käufers (§ 377 Abs 1 UGB) berufen, wenn der Käufer beweist, dass der Verkäufer den Mangel vorsätzlich oder grob fahrlässig verursacht oder verschwiegen hat. Nach den – den Obersten Gerichtshof bindenden – Tatsachenfeststellungen waren die gelieferten Tragetaschen von minderer Qualität und rissen bereits bei Befüllung mit einem Drittel des maximalen Füllgewichts, weil die Klägerin bewusst aus Kostenersparnisgründen bei der chemischen Materialzusammensetzung einen unüblich hohen Füllstoffgehalt gewählt hatte. Die Beurteilung der Vorinstanzen zum Ausschluss der Rügeobliegenheit entspricht dem Gesetz.
+3.2 § 379 Abs 1 UGB verpflichtet den Käufer, die ihm von einem anderen Ort übersendete und beanstandete Ware einstweilig aufzubewahren. Welche Relevanz diese Bestimmung für Gewährleistungs- und Schadenersatzansprüche der Beklagten haben soll, zeigt die Klägerin in der außerordentlichen Revision – sowie bereits in der Berufung – nicht auf.
+3.3 Mit ihrer Argumentation zum „Vorteilsausgleich“ (Differenz zwischen Weiterverkaufspreis und eingeklagtem Lieferpreis) wirft die Klägerin keine erhebliche Rechtsfrage auf. Sie übersieht das hohe Ausmaß der Preisminderung sowie die Tatsache, dass sich die Beklagte aufgrund der Mängel mit Forderungen der Zwischenhändlerin konfrontiert sah. Diese verzichtete nur vorläufig – gegen Verzicht auf den Einwand der Verjährung – auf die Einklagung ihrer Rückforderungsansprüche und ließ sich ein Geschäft der Beklagten (Lieferung von Verpackungsmaterialien an eine Supermarktkette) abtreten.
+4. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0050OB00190.20G.1117.000

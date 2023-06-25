@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.2009
+Geschäftszahl
+7Ob239/09m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Schaumüller, Dr. Hoch, Dr. Kalivoda und Dr. Grohmann als weitere Richter in der Rechtssache der klagenden Partei Dr. P***** M*****, vertreten durch Dr. Josef Hofer und Mag. Thomas Humer, Rechtsanwälte in Wels, gegen die beklagte Partei H***** Versicherungen AG, *****, vertreten durch Dr. Christoph LassmannWichtl, Rechtsanwalt in Wien, wegen 85.172,56 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 18. September 2009, GZ 3 R 25/09g80, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Dem zwischen den Parteien geschlossenen Vertrag liegen die Bedingungen für die BetriebsunterbrechungsVersicherung für freiberuflich Tätige (in der Folge: ABFT) zugrunde. Die hier maßgebenden Bestimmungen lauten auszugsweise:
+„Art 1
+Gegenstand der Versicherung
+...
+2.d) Als Schadensereignis im Sinn des Art 1 gilt auch die gänzliche oder teilweise Unterbrechung des versicherten Betriebes infolge Krankheit der den Betrieb verantwortlich leitenden Personen ...
+...
+6. Als Krankheit im Sinne des Vertrages gilt ein nach medizinischen Begriffen anormaler körperlicher oder geistiger Zustand, auch wenn er als Folge eines Unfalles eintritt, soferne daraus eine völlige (100%ige) Arbeitsunfähigkeit entsteht, sodass die den Betrieb verantwortlich leitende Person ihre berufliche Tätigkeit nach objektivem ärztlichen Urteil in keiner Weise ausüben kann und auch nicht ausübt, also weder mitarbeitend noch aufsichtsführend noch leitend in ihrem Beruf tätig ist und sein kann. ..."
+Für die Unterscheidung zwischen einer vereinbarten Obliegenheit und einer Risikobegrenzung ist maßgebend, ob in erster Linie ein vom Versicherungsnehmer einzuhaltendes Verhalten bedungen werden soll, an dessen Einhaltung der Versicherer ein legitimes Interesse hat, oder ob der Versicherer von vornherein gewisse Sachverhalte von seiner Haftung ausschließt, die unmittelbar geeignet sind, zum Versicherungsfall zu führen und die gegenüber der allgemeinen Risikoumschreibung ein qualitativ abweichendes Risiko darstellen (7 Ob 6/95, RISJustiz RS0080063). Mit einem Risikoausschluss begrenzt der Versicherer von vornherein den Versicherungsschutz. Auf das Verhalten des Versicherungsnehmers kommt es dabei nicht an (RISJustiz RS0080068). Der Oberste Gerichtshof hat bereits zu einer vergleichbaren Bedingungslage in seinen Entscheidungen 7 Ob 6/95 und 7 Ob 39/88 (= RISJustiz RS0080980) ausgesprochen, dass nur der totale Ausfall der Arbeitskraft des Unternehmers versichert sein soll und daher die tatsächliche Tätigkeit des Versicherten in seinem Beruf unter den Risikoausschluss fällt.
+Die Rechtsansicht der Vorinstanzen, dass Versicherungsschutz nach dem klaren Wortlaut des Art 1.6. ABFT nur gegeben ist, wenn der Versicherungsnehmer nach ärztlichem Urteil seine berufliche Tätigkeit nicht ausüben kann und der Versicherungsnehmer sie auch tatsächlich nicht ausübt, hält sich im Rahmen der Judikatur. Feststeht, dass der Kläger seine Rechtsanwaltskanzlei geöffnet hielt und sie selbst führte. Er erbrachte zum Teil selbst (einfachere) anwaltliche Leistungen, zum Teil organisierte er Hilfspersonen, die ihm die Erbringung der Leistungen (nach außen) ermöglichte. Die Beurteilung der Vorinstanzen, dass daher der Kläger im Sinn der Bedingungen im Betrieb mitgearbeitet habe sowie aufsichtsführend und leitend im Beruf tätig gewesen sei, weshalb eine Versicherungsleistung ausgeschlossen sei, ist nicht zu beanstanden. Es werden keine erheblichen Rechtsfragen geltend gemacht (§ 510 Abs 3 ZPO).

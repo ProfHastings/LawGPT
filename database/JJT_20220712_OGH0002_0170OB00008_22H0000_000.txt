@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.07.2022
+Geschäftszahl
+17Ob8/22h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofrätinnen und Hofräte Mag. Malesich, Dr. Kodek, Dr. Stefula und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei Dr. C* C*, Rechtsanwalt, *, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der Dr. D* Z*, vertreten durch Cortolezis Partner Rechtsanwälte GmbH & Co KG in Graz, gegen die beklagte Partei Ing. J* H*, vertreten durch Jaufer Rechtsanwälte GmbH in Graz, wegen 71.594,48 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 27. Jänner 2022, GZ 2 R 3/22m-19.1, womit das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 27. Oktober 2021, GZ 12 Cg 59/20g-14, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+[1] 		Der Beklagte als Bestandgeber einer Liegenschaft kündigte den Bestandvertrag mit der Schuldnerin zum 30. 11. 2015 gerichtlich auf. Mit Urteil vom 17. 5. 2017 erkannte das Bezirksgericht Graz-Ost (AZ 255 C 211/16k) die Aufkündigung als wirksam und verurteilte die Schuldnerin, das Bestandobjekt binnen 14 Tagen dem Beklagten geräumt zu übergeben.
+[2] 		Am 30. 5. 2017 eröffnete das Landesgericht für Zivilrechtssachen Graz (AZ 26 S 49/17a) über das Vermögen der Schuldnerin ein Sanierungsverfahren mit Eigenverwaltung. Der Kläger wurde zum Sanierungsverwalter bestellt.
+[3] 		Nachdem das Urteil des Bezirksgerichts Graz-Ost unbekämpft in Rechtskraft erwachsen war, beantragte der Beklagte als Betreibender die zwangsweise Räumung des Bestandobjekts, die mit Beschluss vom 11. 8. 2017 (AZ 255 E 64/17z des Bezirksgerichts Graz-Ost) bewilligt wurde. Mit Beschluss vom 18. 12. 2017 wurden die dem Beklagten als Betreibenden entstandenen Exekutionskosten mit insgesamt 71.594,48 EUR bestimmt und die Verpflichtung zum Kostenersatz ausgesprochen. Einen dagegen wegen Unzulässigkeit des Rechtswegs erhobenen Rekurs verwarf das Landesgericht für Zivilrechtssachen Graz als Rekursgericht (AZ 7 R 28/18s) mit der Begründung, dass die durch den Vollzug der Räumungsexekution entstandenen Kosten Masseforderungen seien.
+[4] 		Mit Beschluss des Landesgerichts für Zivilrechtssachen Graz vom 29. 6. 2020 wurde das Sanierungsverfahren schließlich abgebrochen, die Bezeichnung auf Konkursverfahren geändert, der Schuldnerin die Eigenverwaltung entzogen und der Kläger zum Insolvenzverwalter bestellt.
+[5] 		Der Kläger begehrt die Feststellung, dass die Forderungen des Beklagten aus der vom 9. 10. 2017 bis 18. 10. 2017 vollzogenen Räumung der Liegenschaft Insolvenzforderungen seien.
+[6] 		Der Beklagte wandte – im Hinblick auf die im Kostenbestimmungsverfahren über die Räumungskosten ergangene Entscheidung – rechtskräftig entschiedene Rechtssache ein. Weiters beantragte er die Abweisung der Klage.
+[7] 		Das Erstgericht verwarf – rechtskräftig – die Einrede der entschiedenen Rechtssache und wies das Klagebegehren ab.
+[8] 		Das Berufungsgericht bestätigte dieses Urteil. Es ließ die ordentliche Revision zu, weil zu der Frage, ob eine vormalige Bestandnehmerin einer Liegenschaft, die mit der zwangsweisen Räumung dieser Liegenschaft gemäß § 349 EO verbundenen Exekutionskosten als Masseforderungen (nicht als Insolvenzforderungen) zu tilgen habe, keine oberstgerichtliche Rechtsprechung bestehe.
+[9] 		Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+[10] 		1. Insolvenzforderungen sind vermögensrechtliche, wenn auch bedingte oder betagte Ansprüche, die einem persönlichen Gläubiger gegen den Schuldner zum Zeitpunkt der Insolvenzeröffnung zustehen (RIS-Justiz RS0063809). Es müssen zum Zeitpunkt der Insolvenzeröffnung bereits sämtliche Tatbestandsmerkmale für das Entstehen der Forderung vorhanden sein, mag sie auch noch nicht fällig oder vom Eintritt weiterer Bedingungen abhängig sein. Die Bedingung muss dabei aber nicht unbedingt auf einer rechtsgeschäftlichen Bestimmung beruhen, sondern sie kann sich auch aus dem Gesetz ergeben; ihr Eintritt darf nur nicht vom Zutun des Schuldners abhängen (RIS-Justiz RS0051527).
+[11] 		2. Voranzustellen ist, dass es hier ausschließlich um die Beurteilung des prozessualen (Exekutions-)Kostenersatzanspruchs des Beklagten als Insolvenz- oder Masseforderung geht.
+[12] 		2.1 Richtig ist zwar, dass der Oberste Gerichtshof  in seiner Entscheidung 8 Ob 235/99p vertrat, dass sich das bedingte Bestehen des Kostenersatzanspruchs des zur Räumung Berechtigten für die Rückgewinnung der Sache schon vor Insolvenzeröffnung – auch dann, wenn die Räumungskosten erst nach diesem Zeitpunkt angefallen seien – aus dem bereits zuvor infolge Vertragsauflösung zustande gekommenen materiellen Rückstellungsanspruch ergebe. Diese Rechtsansicht ist aber vereinzelt geblieben.
+[13] 		2.2 Nach ständiger neuerer Rechtsprechung des Obersten Gerichtshofs entsteht nämlich der prozessuale Kostenersatzanspruch bedingt durch den Prozesserfolg mit Vornahme der einzelnen Prozesshandlungen (vgl RIS-Justiz RS0051738 [T2, T5]; 10 Ob 27/16t; vgl auch RS0064270). Prozesskosten und Exekutionskosten bilden, wenn sie Aufwand einer Rechtsverteidigung darstellen, eine selbständige Forderung. In diesem Fall sind die bis zur Eröffnung des Insolvenzverfahrens aufgelaufenen Kosten Insolvenzforderungen (RIS-Justiz RS0051738 [T3]; RS0064270; RS0064832 [T2]). Verfahrenskosten ab Insolvenzeröffnung sind hingegen Masseforderungen (zu Exekutionskosten ausdrücklich 3 Ob 35/06b; 3 Ob 138/03w; vgl auch RIS-Justiz RS0035890).
+[14] 		2.3 Die Beurteilung der Vorinstanzen, die hier gegenständlichen – nach Eröffnung des Insolvenzverfahrens entstandenen – Kosten des Exekutionsverfahrens seien Masseforderungen, findet daher Deckung in der bereits bestehenden oberstgerichtlichen Rechtsprechung.
+[15] 		3. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO. Der Beklagte hat auf die Unzulässigkeit der Revision nicht hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00008.22H.0712.000

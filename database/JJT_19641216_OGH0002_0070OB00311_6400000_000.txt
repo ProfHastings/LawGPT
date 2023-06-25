@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.1964
+Geschäftszahl
+7Ob311/64
+Norm
+ABGB §1302;
+ABGB §1489;
+Eisenbahn- und Kraftfahrzeughaftpflichtgesetz §11;
+Versicherungsvertragsgesetz 1958 §67;
+Kopf
+SZ 37/182
+Spruch
+1. Sind mehrere Personen an einem Schadensfall schuldig und befriedigt der Haftpflichtversicherer des einen die Ansprüche des geschädigten Dritten zur Gänze, so geht die Forderung auf Ersatz des dem Verschuldensanteil entsprechenden Teiles des bezahlten Betrages gegen den anderen Schädiger auf den Versicherer über.
+2. § 1489 ABGB. ist auf den Ausgleichungsanspruch eines von mehreren Schädigern, der den Anspruch des Dritten zur Gänze befriedigt hat, nicht anzuwenden.
+Entscheidung vom 16. Dezember 1964, 7 Ob 311/64. I. Instanz:
+Bezirksgericht Laa a. d. Thaya; II. Instanz: Kreisgericht Korneuburg.
+Text
+Am 17. Juni 1961 ereignete sich in St. zwischen dem Motorradfahrer Herwig W. und der Beklagten, die ein Fahrrad benützte, ein Zusammenstoß, bei welchem u. a. der Mitfahrer Herwig W.'s, Franz K., verletzt wurde. Zwischen Herwig W. und der Klägerin bestand zur Zeit des Unfalles hinsichtlich des dabei beteiligten Motorrades ein Haftpflichtversicherungsverhältnis.
+Die Klägerin begehrt 5718.97 S samt Zinsen und führt aus, sie habe als Haftpflichtversicherin des W. an Franz K. für Schmerzensgeld, Verdienstentgang und Sachschaden den Betrag von 6000 S, dem Sozialversicherer 2578.45 S bezahlt. Die Beklagte sei an dem Unfall zu zwei Dritteln und W. zu einem Drittel schuldtragend. Sie sei daher verpflichtet, den auf sie entfallenden Teil der Klägerin zu ersetzen.
+Die Beklagte wendet ein, die Forderung sei auf die Klägerin nicht gemäß § 67 VVG. übergegangen, weil sie nicht an den Versicherungsnehmer, sondern an einen Dritten geleistet habe. Überdies werde Verjährung eingewendet, weil die Klage erst am 7. August 1964, also später als drei Jahre nach dem Unfall, eingebracht wurde.
+Das Erstgericht wies das Klagebegehren ab, da die Forderung der Klägerin verjährt sei.
+Das Berufungsgericht änderte dieses Urteil dahin ab, daß die Ansprüche der Klägerin dem Gründe nach zu Recht bestunden. Es führte aus, daß die Rückgriffsforderung im Sinne des § 1302 ABGB. keinen Schadenersatzanspruch darstelle und deshalb der 30 jährigen Verjährung unterliege. Die Forderung W.'s sei auf die Klägerin gemäß § 67 VVG. übergegangen, weil sie die Zahlung an K. namens des Versicherungsnehmers geleistet habe.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Es ist zunächst zu untersuchen, ob ein Ersatz des Schadens an den Versicherungsnehmer im Sinne des § 67 VVG. vorliegt. Die Beklagte legt Gewicht darauf, daß die Klägerin unmittelbar an K. geleistet habe. Dieser Ansicht kann nicht gefolgt werden. Gemäß § 149 VVG. hat der Haftpflichtversicherer dem Versicherungsnehmer allerdings die von diesem erbrachte Leistung zu ersetzen. Nach § 10 (1) AKB. ist es jedoch Sache des Versicherers den Dritten hinsichtlich dessen begrundeter Ansprüche zu befriedigen. Unmittelbar an den Versicherungsnehmer zu leisten, bevor dieser den Dritten entschädigt hat, würde für den Versicherer die Gefahr mit sich bringen, letzterem noch einmal zahlen zu müssen. Durch Befriedigung des Dritten hat der Versicherer den Versicherungsnehmer von seiner Schuld befreit und damit auch diesem eine Leistung erbracht. Er hat demnach im Sinne des § 67 (1) erster Satz VVG. durch sein Einschreiten dem Versicherungsnehmer den Schaden ersetzt. Die diesbezüglichen rechtlichen Einwendungen der Beklagten sind demnach unbegrundet.
+W. hatte nunmehr gemäß § 1302 letzter Halbsatz ABGB. einen Ausgleichsanspruch gegenüber der Beklagten. Es ist nun zu untersuchen, ob diese Forderung zu jenen zählt, die gemäß § 67 (1) VVG. auf den Versicherer übergehen. Auf den ersten Blick scheint die Rechtsauffassung des Berufungsgerichtes widersprechend, weil es einerseits die Voraussetzungen des § 67 VVG., also den Übergang eines Schadenersatzanspruches, annimmt, andererseits doch die Meinung vertritt, daß es sich um keine Entschädigungsklage gemäß § 1489 ABGB. handle.
+Es ist herrschende Lehre und Rechtsprechung, daß der Begriff "Schadenersatzanspruch" im § 67 VVG. ebenso, wie der ähnliche im deutschen Gesetz gebrauchte Ausdruck, im weitesten Sinn zu verstehen ist. Es muß sich nicht gerade um eine Forderung aus einer verbotenen Handlung oder einer Schuldverletzung handeln. Vielmehr fallen darunter auch Ausgleichungsansprüche. Der Sinn des § 67 VVG. ist der, daß der der Sachlage nach zur Tragung des Schadens Verpflichtete die Leistung an den Versicherer erbringen muß, wenn dieser für ihn in Vorlage getreten ist. Ansonsten würde letzterer auf Kosten des Versicherers ungerechtfertigt bereichert sein. Nur der Versicherungsnehmer und der allenfalls Mitversicherte sollen durch die Leistung des Versicherers befreit werden. Dafür bezahlt ja der Versicherungsnehmer die Prämie. Aus diesem Grund ist eine ausdehnende Anwendung des Begriffes "Schadenersatz" im § 67 VVG. gerechtfertigt (Ehrenzweig, Versicherungsvertragsrecht S. 286, Prölls[14] S. 286, Vers.-Slg. Nr. 164, ZVR. 1963 Nr. 66 S. 74 u. a.).
+Was nun die Frage der Verjährung der Forderung der Klägerin anlangt, so liegt es wohl auf der Hand, daß durch den Übergang des Anspruches die Lage des Schuldners nicht verschlechtert werden kann und daß eine gegen den ursprünglich Berechtigten laufende Verjährungsfrist dadurch nicht verkürzt werden kann. Der Anspruch des W. auf Ersatz der auf seine Rechnung an K. erbrachten Leistung stützt sich auf § 1302 ABGB. Es geht nicht an, diese Forderung als eine Entschädigung zu bezeichnen, vielmehr verjährt dieser Anspruch in 30 Jahren. Da § 1489 ABGB. zwischen Schäden durch Verletzung einer Vertragspflicht oder ohne Bezug auf einen Vertrag unterscheidet, kann diese Gesetzesstelle nur einen Schadenersatzanspruch auf Grund eines Deliktes oder einer Schuldverletzung zum Gegenstand haben (ZVR. 1963 Nr. 66 S. 74 u. a.).

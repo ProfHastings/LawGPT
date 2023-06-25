@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.11.2015
+Geschäftszahl
+3Ob182/15h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Lovrek als Vorsitzende sowie den Hofrat Dr. Jensik, die Hofrätin Dr. Grohmann, den Hofrat Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei P***** Aktiengesellschaft, *****, vertreten durch Dr. Reinfried Eberl ua, Rechtsanwälte in Salzburg, gegen die beklagte Partei I*****, vertreten durch Mag. Dr. Ferdinand Bachinger, Rechtsanwalt in Salzburg, wegen 11.208,63 EUR sA, über die ordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 21. Mai 2015, GZ 53 R 315/14a-34, womit das Urteil des Bezirksgerichts Salzburg vom 3. Oktober 2014, GZ 33 C 230/13y-26, zum Teil bestätigt und zum Teil abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 768,24 EUR bestimmten Kosten der Revisionsbeantwortung (darin enthalten 128,04 EUR an USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Revision ist ungeachtet des nicht bindenden Zulässigkeitsausspruchs nicht zulässig, weil der Beklagte keine erheblichen Rechtsfragen iSd § 502 Abs 1 ZPO aufzeigt. Die Zurückweisung ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Für einen sogenannten Einwendungsdurchgriff, also für die Möglichkeit eines (in der Regel) Käufers, Einwendungen, die ihm gegenüber dem Verkäufer zustehen, unter bestimmten Voraussetzungen auch gegenüber einem anderen Vertragspartner aus einem Finanzierungsgeschäft wirksam erheben zu können, ist sowohl nach dem - hier noch anwendbaren - § 18 KSchG (aber auch nach § 13 VKrG) als auch nach den von der Judikatur außerhalb des Anwendungsbereichs des KSchG dafür entwickelten Grundsätzen (vgl RIS-Justiz RS0021046; RS0020649; RS0020621) stets Voraussetzung, dass von einer Person nicht nur sowohl ein Kaufvertrag als auch ein Kreditvertrag mit unterschiedlichen Personen abgeschlossen wird, sondern dass darüber hinaus eine sachliche Verbundenheit der beiden Rechtsgeschäfte dergestalt besteht, dass das Kreditgeschäft der (vollen oder teilweisen) Finanzierung des Kaufvertrags dient (sog drittfinanzierter Kauf). Erst wenn diese Konstellation vorliegt, stellt sich die Frage, ob die beiden Rechtsgeschäfte allenfalls eine wirtschaftliche Einheit darstellen.
+Unabhängig von der Frage, ob ein Versicherungsvertrag überhaupt als zu finanzierendes Rechtsgeschäft in diesem Sinn in Frage kommt, fehlt im hier zu beurteilenden Fall jedenfalls die notwendige sachliche Verbundenheit des Versicherungsvertrags mit dem Kreditvertrag, weil dessen Zweck (nur) die Finanzierung des restlichen Kaufpreises aus dem Kaufvertrag mit dem Autohändler war, nicht jedoch die Finanzierung des Kfz-Kasko-Versicherungsvertrags mit der P***** Versicherungs AG.
+Da der Beklagte nicht einmal behauptete, der Abschluss des Kfz-Kasko-Versicherungsvertrags sei von der Klägerin zur Bedingung für den Abschluss des Kreditvertrags gemacht worden, mangelt es an jeder rechtlich relevanten Verbindung zwischen Kredit- und Versicherungsvertrag, die eine einheitliche Behandlung rechtfertigen könnte. Vielmehr liegen zwei rechtlich selbständige Verträge mit unterschiedlichen Vertragspartnern vor, sodass Einwendungen nur innerhalb des Rechtsverhältnisses durchgreifen, aus dem sie erwachsen sind (vgl RIS-Justiz RS0020659).
+Der in der Revision unter dem Gesichtspunkt des Vorliegens eines Feststellungsmangels thematisierten Frage, ob der Beklagte bei Vertragsabschluss Verbraucher oder Unternehmer war, kommt daher hier keine entscheidende Bedeutung zu. Damit stellt sich aber auch die vom Berufungsgericht als erheblich bezeichnete Rechtsfrage der Verbrauchereigenschaft des Beklagten nicht.
+Andere Einwände gegen die Berichtigung der Klageforderung enthält die Revision nicht.
+2. Der Beklagte hat eine der beiden in erster Instanz aus dem Titel des Schadenersatzes eingewendeten Gegenforderungen darauf gestützt, dass die Klägerin trotz Bestehens einer Vollkaskoversicherung die Reparatur des Kfz sowie die Deckung eines Unfallschadens zu Unrecht abgelehnt habe; der Schaden bestehe insbesondere in der Nichtnutzbarkeit des Kfz, der dadurch notwendigen Ersatzbeschaffung und den damit verbundenen Kosten; das Fahrzeug sei wenigstens drei Monate nicht nutzbar gewesen; für die Anmietung eines vergleichbaren Kfz würden 193 EUR täglich anfallen; der Gesamtschaden betrage daher (gemeint) wenigstens 17.300 EUR.
+Die Beurteilung des Berufungsgerichts, dass mit diesem Vorbringen nur die Kosten der noch gar nicht durchgeführten Reparatur als Gegenforderung - die im Übrigen aus den dargelegten Gründen nicht gegen die Klägerin erhoben werden kann - eingewendet wurden, bedarf keiner Korrektur. Denn der eingewendete Betrag von 17.300 EUR entspricht exakt der behaupteten Mietdauer von 90 Tagen zu je 193 EUR und lässt deshalb keinen Raum für andere Ansprüche.
+Das Berufungsgericht hat deshalb zu Recht den von der Klägerin gerügten Verstoß des Erstgerichts gegen § 405 ZPO wahrgenommen.
+3. Letztendlich macht die Revision höhere Gegenforderungen als in erster Instanz geltend und geht dabei nicht nur vom festgestellten Sachverhalt ab, sondern trägt dazu auch neue Tatsachen vor. Einer inhaltlichen Auseinandersetzung mit diesem Vorbringen bedarf es daher nicht.
+4. Die Kostenentscheidung gründet sich auf §§ 41 und 50 ZPO. Die Klägerin hat in ihrer Revisionsbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen (RIS-Justiz RS0035979 [T16]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00182.15H.1118.000

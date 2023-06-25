@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.02.2023
+Geschäftszahl
+1Ob18/23p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei R*, vertreten durch Mag. Mag. (FH) Alexander Edelhauser, LL.M., Rechtsanwalt in Wien, als Verfahrenshelfer, gegen die beklagte Partei S*, vertreten durch die Rudeck-Schlager Rechtsanwalts KG in Wien, wegen 70.000 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Dezember 2022, GZ 15 R 135/22s-91, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger, der an Diabetes mellitus und Bluthochdruck leidet, erhielt seit dem Jahr 2014 zur Behandlung eines Makulaödems in der Augenabteilung eines Krankenhauses der Beklagten intervitreale Injektionen abwechselnd in des rechte und das linke Auge verabreicht. Bis zum 22. 6. 2017 erfolgten zumindest 23 derartige operative Medikamenteneingaben. Bei dem notwendigen und lege artis durchgeführten Eingriff an diesem Tag kam es zu einer Infektion durch einen ubiquitär vorkommenden Keim im linken Auge und einer massiven entzündlichen infektiösen Reaktion des gesamten linken Auges. Dabei verwirklichte sich ein (seltenes) Operationsrisiko.
+[2] 		Die Vorinstanzen wiesen das auf die Behauptung eines Behandlungsfehlers und auf mangelhafte Aufklärung gestützte Schadenersatzbegehren des Klägers übereinstimmend ab.
+[3] 		Die gegen das Berufungsurteil gerichtete außerordentliche Revision des Klägers zeigt keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO auf:
+Rechtliche Beurteilung
+[4] 		1. Der Grundsatz, dass angebliche Mängel des Verfahrens erster Instanz, die vom Berufungsgericht nicht als solche anerkannt worden sind, nicht nach § 503 Z 2 ZPO geltend gemacht werden können, wäre nur dann unanwendbar, wenn das Berufungsgericht infolge unrichtiger Anwendung verfahrensrechtlicher Vorschriften eine Erledigung der Mängelrüge unterlassen oder sie mit einer durch die Aktenlage nicht gedeckten Begründung verworfen hätte (RS0042963 [T52]).
+[5] 		Der Kläger hat bereits in der Berufung als Mangelhaftigkeit des erstinstanzlichen Verfahrens gerügt, dass das Erstgericht nicht über seinen „Protokollberichtigungsantrag“ entschieden habe und die Ergänzung seiner Aussage unterblieben sei. Das Berufungsgericht hat sich mit diesen vermeintlichen Verfahrensmängeln befasst und sie auf aktenmäßiger Grundlage verneint. Weder liegt daher die vom Kläger nunmehr behauptete Nichtigkeit nach § 477 Abs 1 Z 4 ZPO noch eine Mangelhaftigkeit des Berufungsverfahrens vor.
+[6] 		2. Der Versuch des Klägers, die Unrichtigkeit der vom Berufungsgericht übernommenen Sachverhaltsfeststellungen des Erstgerichts aufzuzeigen, stellt sich als eine im Revisionsverfahren unzulässige Anfechtung der Beweiswürdigung der Tatsacheninstanzen dar (RS0043371 [T24]). Diese Rechtsmittelbeschränkung kann auch nicht dadurch umgangen werden, dass ein unerwünschtes Ergebnis der Behandlung der Beweisrüge als Mangel des Berufungsverfahrens releviert wird (RS0043371 [T28]). Die Entscheidung des Berufungsgerichts über eine Beweisrüge ist schon dann mängelfrei, wenn es dazu nachvollziehbare Überlegungen anstellt und in seinem Urteil festhält (RS0043162 [T4]; RS0043150). Das ist hier der Fall.
+[7] 		3. In seiner Rechtsrüge wendet sich der Kläger ausschließlich gegen die Beurteilung der Vorinstanzen, die Tatsache, dass er über die Risiken des Eingriffs nicht auch am 22. 6. 2017 aufgeklärt worden sei, begründe keinen Aufklärungsfehler, weil ihm aufgrund der festgestellten Aufklärungsgespräche anlässlich früherer Injektionen das Risiko einer Infektion bekannt war.
+[8] 		Damit lässt er allerdings die alternative Begründung des Berufungsgerichts, die selbständig tragfähig ist, unbekämpft (RS0118709), wonach der Beklagten jedenfalls der Beweis des rechtmäßigen Alternativverhaltens gelungen ist, weil der Kläger nach den Feststellungen auch im Fall einer umfassenden Aufklärung unmittelbar vor dem Eingriff am 22. 6. 2017 diesem zugestimmt hätte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00018.23P.0228.000

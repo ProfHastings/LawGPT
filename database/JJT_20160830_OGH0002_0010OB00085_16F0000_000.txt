@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.2016
+Geschäftszahl
+1Ob85/16f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Bydlinski, Mag. Wurzer, Mag. Dr. Wurdinger und die Hofrätin Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei W***** F*****, Deutschland, vertreten durch Dr. Günther Klepp und andere, Rechtsanwälte in Linz, gegen die beklagte Partei Dr. H***** H*****, vertreten durch Mag. Dagmar Hoppstädter, Rechtsanwältin in Weißkirchen an der Traun, wegen 39.000 EUR und Vertragsaufhebung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 31. März 2016, GZ 4 R 169/15y-28, mit dem das Urteil des Landesgerichts Linz vom 19. August 2015, GZ 5 Cg 79/14h-24, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+Der Kläger begehrte die Aufhebung des Kaufvertrags über einen gebrauchten und aufwendig getunten Sportwagen sowie die Zahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs an den Beklagten. In seinem außerordentlichen Rechtsmittel hält er nur noch an der Anfechtung des Vertrags wegen Irrtums gemäß § 871 ABGB fest.
+Die Vorinstanzen verneinten übereinstimmend das Vorliegen dieses Anfechtungsgrundes, weil der allein geltend gemachte Umbau von einem rechts- auf ein linksgelenktes Fahrzeug, von dem auch der Beklagte keine Kenntnis hatte, grundsätzlich kein den Fahrzeugwert reduzierender Umstand sei. Zwar folge aus dem nicht sauber ausgeführten Umbau eine Wertminderung von 3.000 EUR; der Kläger begehre aber nicht Vertragsanpassung, sondern ausschließlich die Vertragsaufhebung und Rückabwicklung.
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers ist nicht zulässig.
+1.1 Ob ein Irrtum über eine bestimmte Eigenschaft des Vertragsgegenstands Geschäfts- oder Motivirrtum ist, hängt davon ab, ob die betreffende Eigenschaft Vertragsinhalt war. Dies kann erst durch Vertragsauslegung ermittelt werden (RIS-Justiz RS0014910 [insb T8]).
+Die Auslegung einer vertraglichen Vereinbarung hat stets unter Berücksichtigung der Umstände des Einzelfalls zu erfolgen und wirft damit regelmäßig keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf (vgl RIS-Justiz RS0044358; RS0042555; RS0042936; RS0042776).
+1.2 Ein Irrtum über eine wertbildende Eigenschaft gehört zum Inhalt des Geschäfts und ist deshalb Geschäftsirrtum (RIS-Justiz RS0014922; RS0014920 [T9]). Ein solcher Geschäftsirrtum ist aber nur dann verwirklicht, wenn er für die Bestimmung der Gegenleistung maßgebend war und deshalb zum Inhalt des Geschäfts gehört (2 Ob 176/10m; 8 Ob 19/12w; Bollenberger in KBB4 § 871 ABGB Rz 7). In Abstimmung mit den Gewährleistungsregeln gehören zum Inhalt eines Vertrags all jene Eigenschaften, die üblicherweise bei entsprechenden Geschäften vorausgesetzt werden, sowie solche, die konkret zugesichert sind (RIS-Justiz RS0014944).
+2. Ausgehend von den Feststellungen hat nicht der Umstand, dass das Fahrzeug von rechts- auf linksgelenkt umgebaut wurde, zu der vom Sachverständigen ermittelten Wertminderung geführt, sondern allein die unsaubere Ausführung des Umbaus, weil im Bereich des Armaturenbretts größere Spaltmaße als bei dieser Fahrzeugmarke sonst üblich vorlagen. Ein solcher Umbau selbst ist hingegen ohne Einfluss auf die Betriebs- oder Verkehrssicherheit und stellt auch keine technische Mangelhaftigkeit dar. Damit begründet es auch keine vom Obersten Gerichtshof im Einzelfall aufzugreifende Fehlbeurteilung, wenn das Berufungsgericht bei dieser Sachlage dem weder vom Kläger noch vom Beklagten bei Vertragsabschluss erkannten Umbau des Fahrzeugs keine wertbildende Eigenschaft zumaß und das Vorliegen eines (gemeinsamen) Irrtums über den Inhalt des Geschäfts verneinte.
+3. Besteht ein erhöhtes (vergleichsweise unübliches) Reparaturrisiko und ist dieses dem Verkäufer bekannt, so kann der Käufer nach Treu und Glauben auch eine entsprechende Aufklärung erwarten (8 Ob 19/12w). Hier steht lediglich fest, dass bei Übergabe des Fahrzeugs ein Mangel in der elektronischen Spiegeleinstellung bestand, dessen Behebung 800 EUR kostet. Weder ergibt sich aus den den Obersten Gerichtshof, der ausschließlich Rechtsinstanz ist (RIS-Justiz RS0123663), bindenden Feststellungen, dass es sich dabei um eine Folge des Tausches eines Kabelbaums beim Umbau des Fahrzeugs handelt, noch dass damit weitere Mängel einhergehen könnten, wie der Kläger in seiner außerordentlichen Revision geltend macht, um aus dem Fahrzeugumbau eine erhöhte Reparaturanfälligkeit abzuleiten. Insoweit liegt auch keine dem Gesetz entsprechende Rechtsrüge vor (RIS-Justiz RS0041585; RS0043312 [T14]).
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0010OB00085.16F.0830.000

@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+7Ob33/23p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter, in der Rechtssache der klagenden Partei M*, vertreten durch Dax Wutzlhofer und Partner Rechtsanwälte GmbH in Oberwart, gegen die beklagte Partei D* AG *,  vertreten durch Lang und Schulze-Bauer, Rechtsanwälte in Fürstenfeld, wegen 6.370 EUR, über die ordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Eisenstadt als Berufungsgericht vom 23. November 2022, GZ 13 R 163/22a-17, mit dem das Urteil des Bezirksgerichts Güssing vom 19. August 2022, GZ 3 C 71/22h-11, bestätigt wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+[1] 		Zwischen dem Kläger und der Beklagten besteht ein Haushalts- und Eigenheimversicherungsvertrag, der eine Privathaftpflichtversicherung inkludiert. Die Ehefrau des Klägers ist mitversicherte Person. Dieser Versicherung liegen die Allgemeinen und Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB und EHVB 2009 idF 2012) zugrunde. Deren Art 7 lautet auszugsweise:
+„Artikel 7
+Was ist nicht versichert (Risikoausschlüsse)?
+[…]
+5. Die Versicherung erstreckt sich nicht auf Schadenersatzverpflichtungen aus Schäden, die der Versicherungsnehmer oder die für ihn handelnden Personen verursachen durch Haltung oder Verwendung von
+5.1 Luftfahrzeugen
+5.2 Luftfahrtgeräten
+5.3 […] Die Begriffe Luftfahrzeug und Luftfahrtgerät sind im Sinne des Luftfahrtgesetzes (BGBl. Nr. 253/1957), die Begriffe Kraftfahrzeug, Anhänger und behördliches Kennzeichen im Sinne des Kraftfahrgesetzes (BGBl. Nr. 267/1976), beide in der jeweils geltenden Fassung, auszulegen.
+[…]“
+[2] 		Am 24. 10. 2021 half die Ehefrau des Klägers beim Rangieren eines im Eigentum des Sportfliegerclubs stehenden Segelflugzeugs auf dem Flugplatz in Fürstenfeld. Sie verschob händisch das Segelflugzeug im Hangar; dadurch bekam die Haube einen Sprung.
+[3] 		Der Kläger begehrt von der Beklagten als Haftpflichtversicherer Zahlung von 6.370 EUR für den dabei eingetretenen Schaden.
+[4] 		Die Beklagte wendete – soweit im Revisionsverfahren relevant – ein, der eingetretene Schaden resultiere aus der Verwendung eines Luftfahrzeugs; das fiele unter den Risikoausschluss des Art 7.5.1 AHVB 2009 idF 2012.
+[5] 		Das Erstgericht wies das Klagebegehren ab. Das Verschieben des Segelflugzeugs im Hangar durch den Kläger und dessen Ehefrau sei unter „Verwendung eines Luftfahrzeuges“ zu subsumieren und damit vom eingewendeten Risikoausschluss umfasst.
+[6] 		Das Berufungsgericht bestätigte die Klagsabweisung. Es teilte die Rechtsauffassung des Erstgerichts und ließ die ordentliche Revision zu, weil eine einheitliche Rechtsprechung des Obersten Gerichtshofs zum Begriff der Verwendung eines Fahrzeugs nicht vorliege.
+[7] 		Mit seiner ordentlichen Revision wegen unrichtiger rechtlicher Beurteilung beantragt der Kläger die Abänderung im Sinne einer Klagsstattgebung; hilfsweise stellt er einen Aufhebungsantrag.
+[8] 		Die Beklagte beantragt, die Revision zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+[9] 		Die Revision ist zur Klarstellung der Rechtslage zulässig; sie ist jedoch nicht berechtigt.
+[10] 		1.1. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der Vertragsauslegung (§§ 914 f ABGB) auszulegen und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]).
+[11] 		1.2. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung, mit der festgelegt wird, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind  (vgl RS0080166 [T10]). Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikoabgrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden. Der Zweck liegt darin, dass ein für den Versicherer nicht überschaubares und kalkulierbares Teilrisiko ausgenommen und eine sichere Kalkulation der Prämie ermöglicht werden soll. Mit dem Risikoausschluss begrenzt also der Versicherer von vornherein den Versicherungsschutz, ein bestimmter Gefahrenumstand wird von Anfang an von der versicherten Gefahr ausgenommen (RS0080166; RS0080068). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammen-hangs erfordert (RS0107031).
+[12] 		2. Art 7.5.1 AHVB 2009 idF 2012 enthält nach seiner klaren Formulierung einen Risikoausschluss. Im Revisionsverfahren ist ausschließlich strittig, ob der Schaden von der Mitversicherten durch „Verwendung eines Luftfahrzeugs“ verursacht wurde.
+[13] 		2.1. Der Revisionswerber zieht zu Recht nicht in Zweifel, dass das gegenständliche Segelflugzeug ein Luftfahrzeug im Sinne des – dafür gemäß Art 7.5.3 AHVB 2009 idF 2012 relevanten – Luftfahrtgesetzes (BGBl Nr 253/1957; idF: LFG) ist.
+[14] 		2.2. Die Gefährdungshaftung nach dem LFG benutzt die zum EKHG wortgleiche Umschreibung der Haftungsvoraussetzungen („beim Betrieb“). In der Entscheidung 2 Ob 166/10s wurde daher die Frage, wann ein stehendes Luftfahrzeug in Betrieb ist, nach den Kriterien der ständigen oberstgerichtlichen Rechtsprechung zum EKHG gelöst. Danach geht von einem in verkehrstechnischer Hinsicht ordnungsgemäß geparkten Kraftfahrzeug grundsätzlich keine Betriebsgefahr mehr aus (RS0022592 [T8]). Diese Kriterien wurden auch für die Frage, ob ein abgestelltes Luftfahrzeug in Betrieb ist, herangezogen: Wenn alle nach dem Flughandbuch vorgesehenen Sicherheitsvorschriften eingehalten wurden und das Flugzeug auch nicht verkehrsbehindernd abgestellt ist, befindet es sich nicht mehr in Betrieb.
+[15] 		2.3. Der Oberste Gerichtshof hat für Kraftfahrzeuge ausgesprochen, dass der Begriff des Verwendens im Sinne des § 2 Abs 1 KHVG – der den Umfang des Versicherungsschutzes festlegt – weiter als der Begriff des „Betriebes“ im Sinne des § 1 EKHG ist und insbesondere nicht nur die Verwendung des Fahrzeugs auf Straßen, sondern die Verwendung des Fahrzeugs schlechthin betrifft (RS0116494).
+[16] 			2.4. Der dagegen eng auszulegende Risikoausschluss (vgl 7 Ob 178/22k Rz 16; RS0107031) betreffend die Verwendung eines Kraftfahrzeugs soll das besondere aus der Haltung und Verwendung von Kraftfahrzeugen resultierende Risiko ausschließen, weil es Zweck der in der Haushaltsversicherung eingeschlossenen Haftpflichtversicherung ist, Schadenersatzverpflichtungen des Versicherungsnehmers als Privatperson abzudecken (vgl 7 Ob 155/21a). Damit besteht eine Deckungspflicht des Haushaltsversicherers nur dann, wenn der Schaden nicht aus einer Verwendung eines Kraftfahrzeugs entstanden ist (vgl RS0110470 [T2]). Diese Wertungen lassen sich auf den hier zu beurteilenden Risikoausschluss für die Verwendung eines Luftfahrzeugs übertragen; auch hier gilt, dass mit einer solchen Verwendung ein spezifisches Risiko verbunden ist, welches von der in der Haushaltsversicherung eingeschlossenen Haftpflichtversicherung ausgenommen werden soll.
+[17] 		3. Die Ehefrau des Klägers hat den beim Abstellen zur Sicherung gebrauchten Gummireifen entfernt und das Segelflugzeug ein Stück verschoben. Ein Segelflugzeug lässt sich – mangels Motors – nur durch  Krafteinwirkung von außen bewegen. Daraus folgt, dass jemand, der eine Krafteinwirkung ausübt, die dazu führt, dass das Segelflugzeug aus seiner gesicherten Parkposition bewegt wird, dieses Segelflugzeug im Sinne des Risikoausschlusses verwendet.
+[18] 		Damit greift hier der Risikoausschluss des Art 7.5.1 AHVB 2009 idF 2012.
+[19] 		4. Der Revision des Klägers war daher keine Folge zu geben.
+5. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00033.23P.0419.000

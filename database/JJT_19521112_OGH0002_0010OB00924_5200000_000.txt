@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.11.1952
+Geschäftszahl
+1Ob924/52
+Norm
+ABGB §986;
+EO §7;
+Kopf
+SZ 25/301
+Spruch
+Auf Grund eines wertgesicherten Titels kann Exekution - ohne Urteil nach § 10 EO. - nur bezüglich des im Titel genannten Betrages und nicht auch hinsichtlich der errechneten Aufwertung bewilligt werden.
+Entscheidung vom 12. November 1952, 1 Ob 924/52.
+I. Instanz: Bezirksgericht Melk; II. Instanz: Kreisgericht St. Pölten.
+Text
+Am 17. Dezember 1948 schlossen die Parteien einen gerichtlichen Vergleich über 22.000 S, zahlbar in Raten zu 10.000 S und zu 12.000 S unter gleichzeitiger Vereinbarung einer auf den Weizenpreis abgestellten Wertsicherungsklausel. Es ist unbestritten, daß die Rate von 12.000 S noch nicht bezahlt ist. Im Hinblick auf die Wertsicherungsklausel beantragte die betreibende Partei Exekution zur Hereinbringung von 39.000 S samt Anhang durch Zwangsversteigerung (§ 133 EO.).
+Das Erstgericht bewilligte antragsgemäß.
+Das Rekursgericht bewilligte die Exekution nur bezüglich 12.000 S samt Anhang und wies das Mehrbegehren von 27.000 S samt Anhang mit der Begründung ab, daß im Hinblick auf § 14 GBG. ein Befriedigungsrecht nur für die im Exekutionstitel ziffernmäßig genannten Beträge bewilligt werden dürfe.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Auch eine mit Wertsicherungsklausel versehene Schuldverpflichtung kann nur dann vollstreckt werden, wenn der Gegenstand und die Zeit der Leistung genau bestimmt sind. Darf der Gläubiger nach dem Inhalt der Schuldverpflichtung einen ziffernmäßig bestimmten Betrag in wertgesicherter Höhe begehren, so kann er zunächst nur den Nennbetrag fordern, weil nur in dieser Höhe die Forderung des Gläubigers genau bestimmt ist. Erhält der Gläubiger aber zufolge der Wertsicherungsklausel das Recht, im Falle einer inzwischen eingetretenen Geldentwertung oder Währungsänderung auch jenen Betrag in der laufenden Währung zu verlangen, der der heutigen Kaufkraft des Geldes entspricht, und wird zur Feststellung dieses Umstandes ein bestimmter Warenpreis zugrunde gelegt (wie im konkreten Falle 60 Groschen für das Kilogramm Weizen im Jahre 1948 gegenüber 1.95 S im Jahre 1952), so ist der Mehrbetrag zunächst nicht vollstreckbar, da sein Umfang noch nicht feststeht. Die einseitige Behauptung des Gläubigers als betreibende Partei ist zur Exekutionsführung nicht genügend. Für eine im Exekutionstitel nicht ziffernmäßig bestimmte Forderung kann nicht die Vollstreckung bewilligt werden. Um das Mehrbegehren vollstreckbar zu machen, ist, wie dies meistens der Fall sein wird, die Einklagung der Mehrforderung notwendig. Dies hat auch im vorliegenden Falle das Rekursgericht unter Hinweis auf § 10 EO. verlangt. Erst das gemäß dieser Gesetzesstelle erzielte Urteil schafft den Exekutionstitel für die Eintreibung des Mehrbegehrens. Der Gläubiger kann daher seine Forderung nur in der Höhe des Nennbetrages sofort eintreiben. Im übrigen hat er die gerichtlichen Schritte zur Schaffung eines neuen Exekutionstitels zu unternehmen (Erdmann, NotZtg. 1950 S. 102 ff., und Schreiber, NotZtg. 1950 S. 73, letzterer im Hinblick auf bücherliche Pfandrechte. Der Oberste Gerichtshof hat in der Entscheidung 1 Ob 903/51 = JBl. 1952 S. 347 = NotZtg. 1952 S. 139, ausgesprochen, daß § 14 Abs. 1 GBG. ausdrücklich verlange, daß nur ziffernmäßig bestimmte Geldsummen Gegenstand eines Pfandrechtes sein können; daraus folgt, daß bei einer wertgesicherten Forderung nur der Nennbetrag der gesicherten Forderung hypothekarisch sichergestellt werden kann und nicht der auf Grund der Wertsicherung allenfalls sich ergebende Wert. Es ist ständige Rechtsprechung, daß die dingliche Haftung des Pfandes nicht größer sein kann als der eingetragene Betrag in Schillingwährung. War hier für das bücherliche Pfandrecht gilt, muß auch für das Befriedigungsrecht bei der Zwangsversteigerung von Liegenschaften gelten, weil, wie das Rekursgericht mit Recht hervorgehoben hat, im Falle der Einstellung der Zwangsversteigerung dem Gläubiger, falls er bis dahin noch kein bücherliches Pfandrecht besitzt, gemäß § 208 EO. im Range der Anmerkung seines Befriedigungsrechtes - ein Pfandrecht für die beizutreibende (ziffernmäßig feststehende) Forderung, nicht aber für die erst am Zahlungstag feststehende Mehrforderung zusteht. Die Meinung des Revisionsrekurses, daß dem betreibenden Gläubiger schon jetzt ein Befriedigungsrecht in der Höhe der am Tage des Exekutionsantrages aushaftenden Forderung zustehe und daher wenigstens in diesem Umfang das Befriedigungsrecht zu gewähren sei, ist im Gesetze nicht begrundet.
+Es war somit dem Revisionsrekurs nicht Folge zu geben und der angefochtene Beschluß zu bestätigen.

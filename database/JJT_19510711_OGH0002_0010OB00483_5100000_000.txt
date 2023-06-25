@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.07.1951
+Geschäftszahl
+1Ob483/51
+Norm
+ABGB §879;
+ABGB §916;
+ABGB §1174;
+Kopf
+SZ 24/183
+Spruch
+Die Angabe eines niedrigeren als des tatsächlichen Entgeltes in einer Vertragsurkunde macht das Geschäft nicht ungültig und berechtigt nicht zur Rückforderung des über den beurkundeten Betrag hinaus Geleisteten.
+Entscheidung vom 11. Juli 1951, 1 Ob 483/51.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Kläger hat vom Beklagten eine Wiese gekauft. Nach den gerichtlichen Feststellungen wurde in der Vertragsurkunde der Kaufpreis um 18.000 S niedriger angegeben. Kläger hat den vollen Kaufpreis einschließlich der 18.000 S bezahlt. Er begehrt die Rückzahlung der 18.000 S. Das Erstgericht führte aus, daß der Kaufpreis im Kaufvertrag falsch beurkundet worden sei; daß aber eine laesio enormis nicht geltend gemacht werden könne, weil im Punkt 6 des Vertrages ausdrücklich auf die Anfechtung wegen allfälliger Verletzung über die Hälfte des wahren Wertes verzichtet worden sei und weil die Angabe eines falschen Kaufpreises im Kaufvertrag den Vertrag nicht nichtig mache.
+Das Berufungsgericht fügte noch hinzu, daß der tatsächlich gezahlte Kaufpreis angemessen sei und daß der Kläger schon im Hinblick auf die Bestimmung des § 1174 ABGB. nicht rückforderungsberechtigt sei, da er die 18.000 S ohne Erwähnung im schriftlichen Kaufvertrag zur Bewirkung einer unerlaubten Handlung (Steuerhinterziehung) gegeben habe.
+Der Oberste Gerichtshof bestätigte die abweisenden Urteile.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ist nur insofern im Recht, als sie sich gegen die Anwendung des § 1174 ABGB. wendet. Durch die Zahlung der 18.000 S wurde die Steuerhinterziehung nicht bewirkt, diese lag in der Falschbeurkundung. Kläger hat daher durch die Hingabe der 18.000 S keine unerlaubte Handlung bewirkt, weil das Zahlen eines höheren als des verbrieften Betrages an sich nicht verboten war. Die Zahlung erfolgte in Erfüllung eines gültigen Vertrages; strafbar und verboten war nur die Falschbeurkundung. Diese macht aber das Geschäft nicht ungültig, weil die deutschen Steuergesetze eine solche Sanktion nicht kennen, und darauf allein kommt es an. Dem Kläger steht daher eine Rückforderung nicht zu, weil er nur das geleistet hat, wozu er vertraglich verpflichtet war.
+Die rechtliche Beurteilung der Sache durch das Berufungsgericht ist demnach richtig.

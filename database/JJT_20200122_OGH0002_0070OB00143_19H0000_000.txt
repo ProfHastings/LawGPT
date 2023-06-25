@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.01.2020
+Geschäftszahl
+7Ob143/19h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei E***** GmbH, *****, vertreten durch Urbanek & Rudolph Rechtsanwälte OG in Wien, gegen die beklagte Partei U***** AG, *****, vertreten durch Handler Rechtsanwalt GmbH in Deutschlandsberg, wegen 55.505,74 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Juni 2019, GZ 1 R 65/19i-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin (Versicherungnehmerin) und die Beklagte (Versicherer) haben mit Wirksamkeit ab 12. 10. 2016 eine Bündelversicherung abgeschlossen, die (ua) eine Einbruchdiebstahlversicherung und eine Total-Betriebsunterbrechungs-Versicherung umfasste. Diesem Versicherungsvertrag lagen (ua) die Allgemeinen Bedingungen für die Einbruchdiebstahlversicherung-Deckungsvariante Premium (E 022; AEBP Fassung 10/2011) und die Allgemeinen Bedingungen für die Sachversicherung (A96; ABS Fassung 1/96) zugrunde. Diese lauten auszugsweise:
+AEBP
+„Welche Schäden sind versichert? – Artikel 3
+Versichert sind Schäden durch versuchten oder vollbrachten Einbruchdiebstahl. Als Einbruchdiebstahl gilt, wenn der Täter in Versicherungsräume gelangt ist
+-	durch Eindrücken oder Aufbrechen der Türen, Fenster, Wände, Fußböden oder Decken, …
+…
+Welche Sicherheitsmaßnahmen sind zu treffen? Wann tritt eine Gefahrerhöhung ein? – Artikel 8
+Die gesetzlichen und behördlichen Sicherheitsvorschriften sind einzuhalten. Wenn diese nichts Strengeres festlegen gelten … folgende:
+-	Werden die Versicherungsräumlichkeiten von allen Personen verlassen, sind sie zu versperren …“
+ABS
+„Artikel 3 – Sicherheitsvorschriften
+1. Verletzt der Versicherungsnehmer gesetzliche, polizeiliche oder vereinbarte Sicherheitsvorschriften oder duldet er ihre Verletzung, kann der Versicherer innerhalb eines Monates, nachdem er von der Verletzung Kenntnis erlangt hat, die Versicherung mit einmonatiger Frist kündigen. (...)
+2. Der Versicherer ist von der Verpflichtung zur Leistung frei, wenn der Versicherungsfall nach der Verletzung eintritt und die Verletzung auf Vorsatz oder grober Fahrlässigkeit des Versicherungsnehmers beruht. Die Verpflichtung zur Leistung bleibt bestehen, wenn die Verletzung keinen Einfluss auf den Eintritt des Versicherungsfalles oder soweit sie keinen Einfluss auf den Umfang der Entschädigung gehabt hat … .“
+Rechtliche Beurteilung
+1. Die behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft; sie liegt nicht vor. Der Umstand, dass die Nebeneingangstür nicht versperrt war und dem gegenüber die versperrte Tür nur mit größerem Schaden und mit höherem Spurenaufkommen hätte geöffnet werden können, war bereits Gegenstand des erstinstanzlichen Parteivorbringens, des festgestellten Sachverhalts und der rechtlichen Beurteilung des Erstgerichts. Demnach ist das auf diesen Sachverhalt gestützte Urteil des Berufungsgerichts keine Überraschungsentscheidung im Sinn des § 182a ZPO. Insbesondere kann ein Verstoß gegen § 182a ZPO nicht daraus abgeleitet werden, dass das Berufungsgericht einen behandelten Streitpunkt rechtlich anders beurteilt als das Erstgericht (vgl RS0037300 [T51]).
+2.1. In rechtlicher Hinsicht folgte das Berufungsgericht der zu einem vergleichbaren Fall ergangenen Entscheidung 7 Ob 240/18x, in der (ua) Folgendes ausgeführt wird:
+„Der Fachsenat hat den Kausalitätsgegenbeweis bereits als misslungen angesehen, wenn durch die Obliegenheitsverletzung die Gefahr eines Einbruchdiebstahls deshalb gesteigert wird, weil einem Einbrecher, etwa durch ein Fenster in Kippstellung, weniger Widerstand geboten wird als durch ein geschlossenes Fenster (7 Ob 239/12s; vgl auch 7 Ob 94/06h). Die Verpflichtung, die Wohnung zu versperren, ist ebenfalls eine Obliegenheit mit dem jedem Versicherungsnehmer erkennbaren Zweck, ein unbefugtes Eindringen unmöglich zu machen oder zumindest erheblich zu erschweren. Dieser Zweck kann nicht bereits durch das bloße Zuziehen einer Wohnungstür erreicht werden, bietet dies doch schon nach allgemeinem Kenntnisstand einen weit geringeren Einbruchsschutz (7 Ob 76/16a). Genau in diesem Sinn steht hier fest, dass die versperrte Türe nur unter Verursachung größeren Lärms und einer längeren Zeitdauer, also nur mit wesentlich gesteigerter krimineller Energie, hätte aufgebrochen werden können. Damit ist der Nachweis, dass der Eintritt des Versicherungsfalls nicht auf der erhöhten Gefahrenlage beruhte, die typischerweise durch die Obliegenheitsverletzung entsteht, gerade nicht erbracht. Dass nur nicht mit Sicherheit ausgeschlossen werden kann, dass der Einbruch auch bei versperrter Tür erfolgt wäre, reicht – entgegen der Ansicht des Klägers – für den Kausalitätsgegenbeweis nicht aus.“
+2.2. In vergleichbarer Weise steht auch hier fest, dass die – versperrte – Nebeneingangstür nur mit größerem Schaden und mit massiverem Spurenaufkommen, also nur mit insgesamt größerer krimineller Energie, hätte überwunden werden können. Daran ändert – entgegen der Ansicht der Klägerin – der Umstand nichts, dass die Nebeneingangstür ein Glaselement aufwies und als Fluchttür auch im versperrten Zustand durch das Einschlagen des Glaselements und die Verwendung des innen angebrachten Türgriffs hätte geöffnet werden können. Diese Vorgangsweise wäre ebenfalls mit entsprechender Lärmentwicklung, erhöhter Gewalteinwirkung und vermehrter Spurenlage verbunden gewesen, weshalb die Täter gerade das vergleichsweise unauffälligere Aufdrücken der unversperrten Tür wählten. Das Berufungsgericht hat sich demnach mit Recht an der einschlägigen Vorentscheidung des Fachsenats orientiert. Die Beurteilung, dass der Klägerin der Kausalitätsgegenbeweis nicht gelungen ist, entspricht den dort maßgeblichen Grundsätzen.
+3. Da bereits das unterlassene Versperren der Nebeneingangstür eine zur Leistungsfreiheit führende Obliegenheitsverletzung begründete, kommt es nicht mehr darauf an, ob die Klägerin eine weitere Obliegenheitsverletzung (unterlassene Installation einer Alarmanlage) zu vertreten hat und ob im Fall der Deckungspflicht ein Betriebsunterbrechungsschaden zu ersetzen gewesen wäre.
+4. Die Klägerin macht insgesamt keine erhebliche Rechtsfrage geltend. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist ihre Revision somit nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00143.19H.0122.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.11.2022
+Geschäftszahl
+7Ob181/22a
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Faber und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei M* N*, vertreten durch Mag. Herbert Nigl, Rechtsanwalt in Korneuburg, gegen die beklagte Partei W* gesellschaft m.b.H., *, vertreten durch Dr. Josef Cudlin, Rechtsanwalt in Krems an der Donau, wegen Zahlung von 5.600 EUR sA und Räumung, infolge der „außerordentlichen Revision“ der beklagten Partei gegen das Urteil des Landesgerichts Krems an der Donau als Berufungsgericht vom 19. Juli 2022, GZ 1 R 39/22y-47, mit dem das Teilurteil des Bezirksgerichts Krems an der Donau vom 29. Dezember 2021, GZ 8 C 205/19s-43, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Der Kläger begehrt von der Beklagten die Räumung von in seinem Eigentum stehenden Gebäude und die Zahlung von Benützungsentgelt wegen titelloser Benützung durch die Beklagte.
+[2] 		Beide Vorinstanzen gaben dem Räumungsbegehren statt. Den Wert des Entschädigungsgegenstands bewertete das Berufungsgericht als 5.000 EUR, jedoch nicht 30.000 EUR übersteigend und ließ die ordentliche Revision nicht zu.
+[3] 		Dagegen wendet sich die Beklagte mit einer „außerordentlichen Revision“.
+Rechtliche Beurteilung
+[4] 		Das Erstgericht legte das Rechtsmittel dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise entspricht nicht der Rechtslage.
+[5] 		Im Hinblick auf die Aussprüche des Berufungsgerichts ist die ordentliche Revision nicht zulässig. Unter diesen Umständen wäre die außerordentliche Revision an den Obersten Gerichtshof nach § 505 Abs 4 ZPO nur dann zulässig, wenn es sich hier um eine Streitigkeit nach § 502 Abs 5 Z 2 ZPO handelte.
+[6] 		Nach ständiger Rechtsprechung ist die Annahme von der wertgrenzenmäßigen Beschränkung der Revisionszulässigkeit im Räumungsstreit nur dann anwendbar, wenn über das Bestandverhältnis selbst und seine wirksame Beendigung zu entscheiden ist (RS0043261), wenn also die Klage aus der Beendigung eines Bestandverhältnisses resultiert und dieses Verhältnis auch bereits in der Klage behauptet wurde (RS0122891). Wenn hingegen Klagen auf Räumung die Benützung des Objekts ohne Rechtsgrund geltend machen, gehören sie nicht zu den Streitigkeiten, die ohne Rücksicht auf den Wert des Entscheidungsgegenstands gemäß § 49 Abs 2 Z 5 JN den Bezirksgerichten zugewiesen sind (RS0046865). Für die Frage, ob der in § 502 Abs 5 Z 2 ZPO angeführte Ausnahmefall einer streitwertunabhängigen Revisionszulässigkeit vorliegt, ist von den Behauptungen des Klägers auszugehen (RS0043003), der hier sein Räumungsbegehren darauf stützt, dass die Beklagte die zu räumenden Objekte im Verhältnis zu ihm von Anfang an titellos benütze.
+[7] 		Da somit keine Ausnahme von der wertmäßigen Beschränkung der Revisionszulässigkeit nach § 502 Abs 5 Z 2 ZPO vorliegt, ist eine Revision nach § 502 Abs 3 ZPO (außer im Fall des § 508 Abs 3 ZPO) jedenfalls unzulässig, wenn – wie hier – der Entscheidungsgegenstand an Geld oder Geldeswert zwar 5.000 EUR, nicht aber insgesamt 30.000 EUR übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs 2 Z 3 ZPO für nicht zulässig erklärt hat.
+[8] 		Unter diesen Voraussetzungen kann jedoch eine Partei gemäß § 508 Abs 1 und 2 ZPO binnen vier Wochen nach der Zustellung des Berufungsurteils den beim Erstgericht einzubringenden (§ 508 Abs 2 Satz 1 ZPO) Antrag an das Berufungsgericht stellen, seinen Ausspruch dahin abzuändern, dass die ordentliche Revision doch für zulässig erklärt werde; ein solcher Antrag, der mit der ordentlichen Revision zu verbinden ist, muss die Gründe dafür anführen, warum entgegen dem Ausspruch des Berufungsgerichts nach § 502 Abs 1 ZPO die ordentliche Revision für zulässig erachtet wird.
+[9] 		Dies gilt auch, wenn das Rechtsmittel als „außerordentliches“ bezeichnet wird und wenn es an den Obersten Gerichtshof gerichtet ist; dieser darf darüber nur und erst dann entscheiden, wenn das Gericht zweiter Instanz gemäß § 508 Abs 3 ZPO ausgesprochen hat, dass ein ordentliches Rechtsmittel doch zulässig sei (RS0109623, RS0109501 [T4]).
+[10] 		Das Rechtsmittel ist demnach dem Berufungsgericht vorzulegen. Ob die im Schriftsatz enthaltenen Ausführungen den Erfordernissen des § 508 Abs 1 ZPO entsprechen, bleibt der Beurteilung der Vorinstanzen vorbehalten (RS0109623 [insb T2, T4, T5, T8], RS0109501 [insb T12]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00181.22A.1123.000

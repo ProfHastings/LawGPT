@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2001
+Geschäftszahl
+8Ob222/01g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden sowie die Hofräte des Obersten Gerichtshofes Dr. Langer, Dr. Rohrer, Dr. Spenling und Dr. Kuras als weitere Richter in der Rechtssache der klagenden Partei W***** AG, *****, vertreten durch Dr. Hans-Peter Ullmann und Dr. Stefan Geiler, Rechtsanwälte in Innsbruck, wider die beklagte Partei Dr. Günther M*****, als Masseverwalter im Konkurs über das Vermögen der Auto W***** GmbH & Co KG, 19 S 4/00m des Landesgerichtes Innsbruck, wegen S 291.044,-- sA, infolge außerordentlicher Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Innsbruck vom 5. Juli 2001, GZ 1 R 126/01s-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Die klagende Partei versucht die Zulässigkeit ihrer außerordentlichen Revision damit zu begründen, dass "noch eine Vielzahl von Fragen im Zusammenhang mit Ansprüchen aus grundloser Bereicherung im Konkursverfahren strittig sei". Dies mag durchaus zutreffen; darauf kommt es aber nicht an, sondern darauf, ob eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO im Zusammenhang mit den hier zu lösenden konkreten Rechtsfragen vorliegt.
+Dies ist jedoch zu verneinen. Das Berufungsgericht hat seine einen Einzelfall (Vertragsauslegung) betreffende Entscheidung im Rahmen der ständigen Rechtsprechung des Obersten Gerichtshofes getroffen, ohne dass ihm hiebei eine grobe Fehlbeurteilung unterlaufen wäre:
+Nach ständiger oberstgerichtlicher Rechtsprechung sind vertragliche Vereinbarungen eines Rücktrittsrechtes für den Fall des Konkurses des Vertragspartners zulässig; unwirksam sind nach § 25a KO bloß solche Vereinbarungen, die das Recht des Masseverwalters auf die vorzeitige Auflösung des Vertrages einschränken oder ausschließen würden (ecolex 1992, 846; MietSlg 34.891; SZ 56/78). Dies muss auch für den Fall gelten, dass dem Vertragspartner des späteren Gemeinschuldners nicht nur ein Rücktrittsrecht eingeräumt wurde, sondern dass vereinbarungsgemäß die Auflösung des Vertrages ipso iure mit Konkurseröffnung eintreten sollte.
+Nach der hier vorliegenden vertraglichen Vereinbarung (P 3) soll der aus dem "Werkstättenvorschuss" aushaftende Betrag mit Konkurseröffnung über das Vermögen der späteren Gemeinschuldnerin sofort in voller Höhe fällig werden. Dem Berufungsgericht ist keine grobe Fehlbeurteilung unterlaufen, wenn es diese Vereinbarung dahin auslegte, dass diese Wirkung ipso iure mit Konkurseröffnung eintrat, es hiezu keiner Erklärung der klagenden Partei bedurfte und der Masseverwalter infolge dessen weder Anlass noch Möglichkeit hatte, eine Erklärung nach § 21 KO abzugeben. Es fehlen daher auch nicht Feststellungen über die Beendigung des "Werkstättenvorschuss"-Vertragsverhältnisses, vielmehr ist dieses vereinbarungsgemäß ipso iure mit Konkurseröffnung beendet und der Rückzahlungsanspruch fällig geworden.
+Die Revisionswerberin konzediert zwar, dass nach ständiger Lehre und Rechtsprechung vertragliche Regelungen den gesetzlichen Regelungen über das Bereicherungsrecht vorgingen, will aber ihren angeblichen Bereicherungsanspruch, der nach Konkurseröffnung entstanden und daher
+eine Masseforderung sein soll (dazu SZ 44/165; EvBl 1999/84 = ZIK
+1999, 95; EvBl 1999/168 = ÖBA 2000, 429 ua) - mit dem Argument
+retten, dass nur für den Zeitraum vor Konkurseröffnung, nicht aber für den nach Konkurseröffnung eine vertragliche Regelung über den Rückforderungsanspruch getroffen wurde; im Zeitpunkt der Konkurseröffnung sei daher der Rechtsgrund, den Werkstättenvorschuss zu behalten, weggefallen. Soweit die Revisionswerberin daraus folgert, dass daher "zweifellos" von einer nach Konkurseröffnung eingetretenen Bereicherung der Masse auszugehen sei, kann ihr der erkennende Senat nicht folgen.
+Infolge dessen ist dem Berufungsgericht keine grobe Fehlbeurteilung unterlaufen, wenn es der Ansicht war, dass der Rückforderungsanspruch hinsichtlich des noch aushaftenden "Werkstättenvorschusses" im Zeitpunkt der Konkurseröffnung entstand und daher eine (ohnedies anerkannte) Konkursforderung, aber keine Masseforderung ist, weil - wie das Berufungsgericht im Einzelnen dargelegt hat - keiner der Tatbestände des § 46 Abs 1 KO, insb auch nicht dessen Z 4 oder 6, greift.

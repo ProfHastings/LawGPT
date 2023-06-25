@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.10.2017
+Geschäftszahl
+4Ob129/17z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und durch die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin S***** O*****, vertreten durch Dr. Klaus-Dieter Strobach und Dr. Wolfgang Schmidauer, Rechtsanwälte in Grieskirchen, gegen den Beklagten Dr. F***** H*****, vertreten durch Dr. Edgar Hofbauer, Rechtsanwalt in Schwanenstadt, wegen 15.000 EUR sA, über die Revision der Klägerin gegen das Urteil des Landesgerichts Wels als Berufungsgericht vom 5. April 2017, GZ 22 R 18/17d-33, womit das Urteil des Bezirksgerichts Vöcklabruck vom 7. November 2016, GZ 45 C 648/15b-29, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Klägerin ist schuldig, dem Beklagten binnen 14 Tagen die mit 1.096,56 EUR (darin 182,76 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht erklärte die ordentliche Revision wegen des Fehlens von höchstgerichtlicher Rechtsprechung zum konkreten Umfang der tierärztlichen Aufklärungspflicht für zulässig. Entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Die Revision der Klägerin ist zunächst insoweit nicht gesetzmäßig ausgeführt, als sie ihrer Rechtsrüge einen von den Feststellungen abweichenden Sachverhalt zugrunde legt, indem sie dem beklagten Tierarzt einen – den Tod ihres Pferdes verursachenden – Kunstfehler durch intraarterielle Injektion des entzündungshemmenden Medikaments vorwirft. Die Tatsacheninstanzen konnten jedoch nicht feststellen, ob das Medikament intravenös oder intraarteriell injiziert wurde. Festgestellt wurde bloß, dass das (fachlich indizierte) Medikament sowohl bei einer lege artis durchgeführten intravenösen, als auch bei einer nicht lege artis erfolgten intraarteriellen Verabreichung zu einer derart tragischen Reaktion des Tieres führen kann. Vom Vorliegen eines Kunstfehlers (wofür den Geschädigten die Beweislast trifft, vgl RIS-Justiz RS0026209) kann auf Basis der – für den Obersten Gerichtshof bindenden – Tatsachenfeststellungen keine Rede sein.
+2.1. Zur Aufklärungspflicht des Tierarztes ist voranzustellen, dass es sich sowohl bei der Frage der allgemeinen Aufklärungspflicht im Sinn einer vertraglichen Nebenpflicht (vgl RIS-Justiz RS0111165), als auch bei jener im Rahmen der humanmedizinischen Behandlung (vgl 1 Ob 121/10s) um eine solche des Einzelfalls handelt.
+2.2. Nach den von der Rechtsprechung zur Humanmedizin im Hinblick auf die Besonderheit der Arztleistung (Eingriff in die körperliche Unversehrtheit des Patienten) entwickelten Grundsätzen (vgl 9 Ob 19/16h) muss der Arzt nicht auf alle nur denkbaren Folgen der Behandlung hinweisen. Eine Aufklärung über mögliche schädliche Folgen einer Behandlung ist etwa dann nicht erforderlich, wenn die Schäden nur in äußerst seltenen Fällen auftreten und anzunehmen ist, dass sie bei einem verständigen Patienten für seinen Entschluss, in die Behandlung einzuwilligen, nicht ernsthaft ins Gewicht fallen (RIS-Justiz RS0026529 mit zahlreichen weiteren Entscheidungsnachweisen). Patienten könnten durch das Aufzählen von verschiedenen – jeweils höchst unwahrscheinlichen – denkbaren Nebenwirkungen davon abgehalten werden, eine an sich sinnvolle und in der Regel gesundheitsfördernde Maßnahme vornehmen zu lassen, zumal eine Vielzahl von Patienten auch mit Wahrscheinlichkeitsangaben im 10.000stel- oder 100.000stel-Bereich nichts anfangen kann (vgl 1 Ob 14/12h).
+2.3. Im vorliegenden Fall liegt die Wahrscheinlichkeit, dass es bei einer Injektion wie vom Beklagten verabreicht zum Tod des Pferdes kommt, bei 0,0028 %. Über derart seltene Gefahren ist auch nach der zuvor dargestellten Rechtsprechung zu Aufklärungsmängeln in der Humanmedizin grundsätzlich (wenn keine besonderen Umstände vorliegen) nicht aufzuklären. Es erübrigt sich daher eine nähere Auseinandersetzung mit der Frage des generellen Umfangs der tierärztlichen Aufklärungspflicht, weil diese jedenfalls nicht weiter reichen kann als die Aufklärungspflicht im Bereich der Humanmedizin. Nachvollziehbare Argumente, warum im konkreten Fall über die für die Arzthaftung im Allgemeinen entwickelte Rechtsprechung hinaus eine strengere Aufklärungspflicht greifen soll, hat die Klägerin nicht dargetan.
+3. Zusammenfassend hängt die Entscheidung des Falls nicht von der Lösung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ab. Die Revision der Klägerin ist daher ungeachtet ihrer Zulassung durch das Berufungsgericht zurückzuweisen.
+4. Die Kostenentscheidung beruht auf den §§ 41, 50 Abs 1 ZPO. Der Beklagte hat in seiner Revisionsbeantwortung auf die Unzulässigkeit des gegnerischen Rechtsmittels hingewiesen (vgl RIS-Justiz RS0035979).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00129.17Z.1024.000

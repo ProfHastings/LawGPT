@@ -1,0 +1,57 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob162/21f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei H* S*, vertreten durch Mag. Alexander Todor-Kostic, Mag. Silke Todor-Kostic, Rechtsanwälte in Velden am Wörthersee, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Stefan Herdey, Dr. Roland Gsellmann, Rechtsanwälte in Graz, wegen 314.083 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Revisionsgericht vom 6. August 2021, GZ 4 R 113/21a-55, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 2 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Am 4. 2. 2017 zerstörte ein Großbrand am Betriebsgelände des Klägers das bei der Beklagten feuerversicherte Sägewerk zur Gänze und die feuerversicherten  landwirtschaftlichen Gebäude zum Teil. Dem Versicherungsverhältnis – das Sägewerk betreffend – liegen unter anderem die Allgemeinen Bedingungen für die Feuerversicherung (AFB 2002/Stufe 2) und die Besondere Bedingung  der Beklagten –  Klauselpaket 1 Betriebsversicherung (BV Klauseln 1 – 2014/Stufe 5) zugrunde. Diese lauten auszugsweise:
+„Allgemeine Bedingungen für die Feuerversicherung (AFB 2002/Stufe 2)
+[...]
+Art 9
+Zahlung der Entschädigung; Wiederherstellung, Wiederbeschaffung; Realgläubiger
+1. Der Versicherungsnehmer hat vorerst nur Anspruch:
+1.1. Bei Gebäuden
+1.1.1. bei Zerstörung auf Ersatz des Zeitwerts, höchstens jedoch des Verkehrswerts;
+[...]
+1.2. Bei Gebrauchsgegenständen und Betriebseinrichtungen
+1.2.1. bei Zerstörung oder Abhandenkommen auf Ersatz des Zeitwerts;
+[...]
+2. Den Anspruch auf den die Zahlung gemäß Pkt 1. übersteigenden Teil der Entschädigung erwirbt der Versicherungsnehmer erst dann und nur insoweit als folgende Voraussetzungen erfüllt sind:
+2.1. es ist gesichert, dass die Entschädigung zur Gänze zur Wiederherstellung bzw Wiederbeschaffung verwendet wird.
+[...]
+2.2. die Wiederherstellung eines Gebäudes erfolgt an der bisherigen Stelle. Ist die Wiederherstellung an dieser Stelle behördlich verboten, so genügt die Wiederherstellung an anderer Stelle innerhalb Österreichs;
+2.3. die wiederhergestellten bzw wiederbeschafften Sachen dienen dem gleichen Betriebs- bzw Verwendungszweck;
+2.4. die Wiederherstellung bzw Wiederbeschaffung erfolgt innerhalb von drei Jahren ab dem Eintritt des Schadensereignisses.
+[...]“
+Besondere Bedingung – Klauselpaket 1 Betriebsversicherung (BV Klauseln 1 – 2014/Stufe 5):
+„[...]
+Wiederherstellung und Wiederbeschaffung
+[...]
+1. Die Wiederherstellungsfrist gemäß den AFB gilt als gewahrt, wenn innerhalb dieser Frist bindende Wiederherstellungs- bzw Wiederbeschaffungsaufträge erteilt werden, um
+1.1. Gebäude gleicher Art und Zweckbestimmung an der bisherigen Stelle wiederherzustellen; ist dies an der bisherigen Stelle aufgrund behördlicher Auflagen nicht möglich, so genügt es, wenn das Gebäude an anderer Stelle Österreichs wieder hergestellt wird;
+[...]“
+Rechtliche Beurteilung
+[2] 		I. Sägewerk:
+[3] 		1. Behauptete Mängel des Verfahrens erster Instanz, die vom Berufungsgericht nicht als solche erkannt worden sind, können in dritter Instanz nicht mehr erfolgreich geltend gemacht werden (RS0042963).
+[4] 		2. Im Verfahren strittig ist nur die Verpflichtung der Beklagten zum Ersatz der Neuwertspanne.
+[5] 		2.1. Art 9 der AFB 2002/Stufe 2 und der Besonderen Bedingungen BV Klauseln 1 – 2014/Stufe 5 (Wiederherstellung und Wiederbeschaffung), beinhalten eine sogenannte „strenge Wiederherstellungsklausel“. Die strenge Wiederherstellungsklausel stellt eine Risikobegrenzung dar (RS0081840). Sie bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechter) Sicherung abhängt (RS0120710). Die Vorlage von Kostenvoranschlägen, Absichtserklärungen des Versicherungsnehmers, die bloße Planung oder eine bloße behelfsmäßige Reparatur sind für die Sicherung der Wiederherstellung nicht ausreichend (7 Ob 92/19h; RS0112327 [T5]). Die Wiederherstellungsklausel impliziert ein Gleichartigkeits- und ein Gleichwertigkeitsgebot, sodass Sachen gleicher Zweckbestimmung, Art und Güte wieder hergestellt oder wiederbeschafft werden müssen (RS0117982). Zweck der strengen Wiederherstellungsklausel ist die Begrenzung des subjektiven Risikos, das entstünde, wenn der Versicherungsnehmer die Entschädigungssumme für frei bestimmbare Zwecke verwenden könnte (RS0120711 [insb T2]).
+[6] 		2.3. Das Berufungsgericht ging ohnehin – entgegen der Ansicht des Klägers – nicht davon aus, dass nach der konkreten Bedingungslage zusätzlich zu einer Sicherstellung des Wiederaufbaus die tatsächliche Wiederherstellung bzw Wiederbeschaffung innerhalb von drei Jahren ab Eintritt des Schadensereignisses erfolgen müsse.  Das Berufungsgericht verneinte – vor dem Hintergrund der unstrittig nicht fristgerecht erfolgten Wiederherstellung – vielmehr auch die fristgerechte Sicherstellung der Wiederherstellung des Sägewerks.
+[7] 		2.4. Der Kläger beabsichtigte nach dem Brand die Errichtung zweier anstelle ursprünglich einer Halle und eine Umstellung seines Betriebs dahin, das Holz nunmehr künstlich in einer neu zu schaffenden Kühlanlage trocknen zu lassen statt es wie vor dem Brand naturzutrocknen. Er erteilte entsprechende Aufträge über Zimmermanns-, Installations- und Elektroinstallationsarbeiten. Am 21. 1. 2020 und somit kurz vor Ablauf der dreijährigen Frist  beauftragte der Kläger als „rechtsverbindlich und unwiderruflich“ weiters ein Unternehmen mit der Errichtung einer Bergehalle 30 m und einer Bergehalle 24 m sowie ein zweites Unternehmen mit dem „Rohbau für Neubau Bergehalle und Neubau Überdachung – Baumeisterarbeiten“. Das zweite Unternehmen informierte er bereits im Vorfeld darüber, dass er „irgendeinen Auftrag“ für die Versicherung benötige. Weder der Kläger noch die Vertreter der beiden Unternehmen gingen von rechtsverbindlichen und unwiderruflichen Aufträgen aus; es lag kein übereinstimmender Wille des Klägers und der Vertreter der Unternehmen vor, die darin angeführten Leistungen tatsächlich zu erbringen. Kurz nach Ablauf der Dreijahresfrist änderte der Kläger die gegenüber den beiden Unternehmen erteilten Aufträge inhaltlich und reduzierte die Auftragssummen erheblich.
+[8] 		Wenn die Vorinstanzen – selbst unter Berücksichtigung der (zum Teil verbindlich) erteilten Aufträge über Zimmermanns-, Installations- und Elektroinstallationsarbeiten – davon ausgingen, dass schon mangels bindender Wiederherstellungsaufträge in Bezug auf die Gebäudeerrichtung an sich keine fristgerechte Sicherstellung der Wiederherstellung erfolgt sei, ist dies nicht korrekturbedürftig. Die weitere Beurteilung des Berufungsgerichts, dass vor dem Hintergrund der vom Kläger gewählten Vorgangsweise auch durch die Erteilung der Baubewilligung und durch die Bauanzeige nicht fristgerecht sichergestellt worden sei, dass der Versicherungsnehmer die Versicherungssumme nicht für frei bestimmbare Zwecke verwenden werde, ist gleichfalls nicht zu beanstanden.
+[9] 		2.5. Der Umfang vertraglicher Nebenpflichten hängt weitgehend vom Einzelfall ab (RS0044358 [T16], 7 Ob 201/09y); wann eine Aufklärungspflicht des Vertragspartners besteht, stellt jeweils eine Frage des Einzelfalls dar, der nicht die in § 502 Abs 1 ZPO geforderte Bedeutung zukommt (RS0111165). Auch die Beurteilung, ob der das Versicherungsverhältnis in besonderem Maß beherrschende Grundsatz von Treu und Glauben eine Aufklärung des Versicherungsnehmers durch den Versicherer erfordert (vgl RS0018055) ist typisch von den Umständen des jeweiligen Einzelfalls geprägt (7 Ob 201/09y).
+[10] 		Das Berufungsgericht ging in nicht zu beanstandender Weise davon aus, dass es sich bei den vom Kläger von der Beklagten erwarteten Informationen, dass die Wiederherstellung binnen der Dreijahresfrist sichergestellt sein müsse, nicht um solche handle, die der Kläger nur mit Unterstützung der Beklagten hätte erhalten können, sondern vielmehr um Wissen, das sich bereits aus den Versicherungsbedingungen ergibt. Im Übrigen zeigt die Vorgangsweise des Klägers, kurz vor Ablauf der Dreijahresfrist zumindest als „rechtsverbindlich und unwiderruflich“ bezeichnete Aufträge zu erteilen, dass er ohnehin über die entsprechenden Kenntnisse verfügte, was auch einer bewussten Irreführung durch die Beklagte – die sich im Übrigen auch aus dem Akteninhalt nicht ergibt – entgegensteht.
+[11] 		II. Landwirtschaftliche Gebäude:
+[12] 		1. Soweit der Kläger meint, dass die Beklagte zugestanden habe, dass ihm die noch geltend gemachten 15.120 EUR an Mehrkosten aufgrund behördlicher Auflagen sowie 3.378 EUR an Bauzusatzkosten auch angefallen seien, übergeht er das von der Beklagten bereits im erstgerichtlichen Verfahren erhobene Vorbringen, dass die Zahlung dieser Beträge durch den Kläger nicht nachgewiesen worden sei.
+[13] 		2.1, Grundsätzlich hat jede Partei die für sie günstigen Tatsachen zu behaupten und zu beweisen (RS0037797; RS0109832), was auch im Versicherungsrecht gilt (RS0037797 [T31]). Der Kläger muss die anspruchsbegründenden, die Beklagte die anspruchshemmenden Tatsachen beweisen (RS0106638).
+[14] 		2.2. Im Einklang mit dieser Rechtsprechung gingen die Vorinstanzen davon aus, dass der Kläger seiner Behauptungs- und Beweislast dahingehend nicht nachgekommen sei, dass ihm über die bereits von der Beklagten anerkannten und bezahlten Kosten hinaus tatsächlich noch weitere Kosten entstanden sind.
+[15] 		III. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133253

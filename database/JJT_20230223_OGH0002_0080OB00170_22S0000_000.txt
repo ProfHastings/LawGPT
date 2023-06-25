@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2023
+Geschäftszahl
+8Ob170/22s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart in der Rechtssache der klagenden Partei K*, vertreten durch Mag. Dieter Koch und Mag.a Natascha Jilek, Rechtsanwälte in Bruck an der Mur, gegen die beklagte Partei R* eGen, *, vertreten durch Muhri und Wehrschitz Partnerschaft von Rechtsanwälten GmbH in Graz, wegen 29.830,66 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz vom 4. November 2022, GZ 2 R 171/22t-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der Kläger nahm bei der Beklagten einen Schweizer-Franken-Kredit im Gegenwert von 110.000 EUR in Anspruch. Im Kreditvertrag wurde vereinbart, dass der Kredit in Schweizer Franken (CHF) zurückzuzahlen ist. Der Kläger begehrt nunmehr die Feststellung der Unwirksamkeit des Kreditvertrags und die Rückzahlung von 29.830,66 EUR sA, weil die Vertragsbedingungen zur Währungsumrechnung missbräuchlich und intransparent seien.
+[2] 		Die Vorinstanzen haben die Klage mit der Begründung abgewiesen, dass der zusätzlich zum Kreditvertrag erteilte Geldwechselauftrag keinen Einfluss auf die Wirksamkeit des Fremdwährungskreditvertrags habe. Dies entspricht der gefestigten Rechtsprechung des Obersten Gerichtshofs, wonach, wenn dem Kreditnehmer die Wahl eingeräumt wird, den Fremdwährungskredit in Fremdwährung oder in Euro abzuwickeln, zum Kreditvertrag ein (entgeltlicher) Geldwechselvertrag hinzutritt (RIS-Justiz RS0134062).
+[3] 		Der EuGH hat zu C-212/20, „A“ S.A. ausgesprochen, dass Konvertierungsklauseln in einem Kreditvertrag so formuliert sein müssen, dass sie dem Verbraucher ermöglichen zu verstehen, wie der zur Berechnung der Tilgung des Kreditvertrags verwendete Fremdwährungswechselkurs festgelegt wird. Der Oberste Gerichtshof hat in mehreren Entscheidungen darauf hingewiesen, dass daraus nicht auf die Unwirksamkeit des Kreditvertrags geschlossen werden kann und daher an der bisherigen Rechtsprechung festzuhalten ist, wonach der Fremdwährungskreditvertrag auch ohne den Geldwechselvertrag fortbestehen kann (5 Ob 54/22k; 4 Ob 15/22t; 6 Ob 76/22b).
+[4] 		Der Kläger stützt seine Rechtsansicht, wonach die Unwirksamkeit der Konvertierungsvereinbarung zum Wegfall des Kreditvertrags führen müsse, auf Art 6 Abs 1 der Klausel-RL, obwohl dort ganz im Gegenteil vorgesehen ist, dass der Vertrag für beide Parteien auf derselben Grundlage bindend bleibt, wenn er ohne die missbräuchliche Klausel bestehen kann. In der vom Kläger zitierten Entscheidung des EuGH zu C-453/10, Pereni?ová und Pereni? (insbes Rn 32), wurde ausdrücklich festgehalten, dass diese Beurteilung nach objektiven Kriterien vorzunehmen ist und nicht danach, ob der Wegfall des Vertrags im Einzelfall für den Verbraucher günstiger wäre.
+[5] 		Die unionsrechtlichen Ausführungen des Klägers zur Frage der Schließung einer durch Wegfall einer missbräuchlichen oder intransparenten Vertragsklausel entstandenen Lücke durch dispositives Recht sind ohne entscheidungswesentliche Bedeutung, weil der Oberste Gerichtshof bereits mehrfach darauf hingewiesen hat, dass der Fremdwährungskreditvertrag wirksam bleibt, selbst wenn die Konvertierungsvereinbarung entfiele und dispositives Recht nicht anwendbar wäre (1 Ob 163/21h; 9 Ob 62/21i; 5 Ob 54/22k; 1 Ob 9/22p; so auch nach der Entscheidung C-80/21 bis 82/21 6 Ob 199/22s).
+[6] 		Die vom Kläger aufgeworfenen Rechtsfragen wurden von der höchstgerichtlichen Rechtsprechung damit bereits beantwortet. Die Annahme des Berufungsgerichts, dass der Kläger die hinreichende Bestimmtheit des Kreditvertrags zugestanden habe, kann schon deshalb keinen Verfahrensmangel begründen, weil sich dies auch aus den unbekämpften Feststellungen des Erstgerichts ergibt (RS0043027; RS0116273).
+[7] 		Die außerordentliche Revision war daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00170.22S.0223.000

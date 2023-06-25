@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2015
+Geschäftszahl
+3Ob72/15g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden, die Vizepräsidentin Dr. Lovrek und die Hofräte Dr. Jensik und Dr. Roch sowie die Hofrätin Dr. A. Kodek als weitere Richter in der vormaligen Sachwalterschaftssache des Dr. A*****, wegen Akteneinsicht, über den Revisionsrekurs des Dr. A***** gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 23. Februar 2015, GZ 43 R 76/15t-128, womit über Rekurs des Dr. A***** der Beschluss des Bezirksgerichts Meidling vom 24. November 2014, GZ 2 P 74/13b-120, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Nach rechtskräftiger Einstellung des Sachwalterschaftsverfahrens (ON 81) beantragte der in Bulgarien wohnhafte ehemals Betroffene und nunmehrige Revisionsrekurswerber die Gewährung elektronischer Einsicht in den Sachwalterschaftsakt gemäß § 89i GOG. Für den Fall der Ab- oder Zurückweisung dieses Antrags stellte er den Eventualantrag auf Übersendung des kompletten Gerichtsakts zur Akteneinsicht im Rechtshilfeweg an das zuständige Zivilgericht seines Wohnorts (ON 116).
+Das Erstgericht wies beide Anträge ab.
+Das Rekursgericht gab dem Rekurs nicht Folge und sprach aus, dass der ordentliche Revisionsrekurs zulässig sei.
+Rechtliche Beurteilung
+Der gegen die Rekursentscheidung vom ehemals Betroffenen erhobene Revisionsrekurs ist ungeachtet des den Obersten Gerichtshof nicht bindenden Zulässigkeitsausspruchs des Rekursgerichts mangels erheblicher Rechtsfrage nicht zulässig:
+1. Dem Revisionsrekurswerber ist darin beizupflichten, dass ihm als Verfahrenspartei das durch Art 6 MRK geschützte Grundrecht auf Akteneinsicht zusteht, dessen Beschränkung nur aus besonderen Gründen zulässig ist (RIS-Justiz RS0110043; Gitschthaler in Gitschthaler/Höllwerth, AußStrG § 22 Rz 40 und 51; zur sinngemäßen Anwendung des § 219 ZPO im Außerstreitverfahren s RIS-Justiz RS0005803).
+2. Das Rekursgericht hat dem Revisionsrekurswerber dieses Recht jedoch ohnehin nicht abgesprochen. Es hat nur darauf verwiesen, dass die elektronische Akteneinsicht in Pflegschaftsakten aus datenschutzrechtlichen Erwägungen nicht freigegeben sei.
+3. Über die Gewährung von Akteneinsicht entscheidet zwar der zuständige Richter (Rechtspfleger) im Rahmen der Rechtsprechung (RIS-Justiz RS0005803 [T5]; 6 Ob 197/14k mwN; zum AußStrG Gitschthaler in Gitschthaler/Höllwerth, AußStrG § 22 Rz 56). Allerdings scheitert hier die beantragte elektronische Akteneinsicht schon an den vorhandenen technischen Möglichkeiten, die gemäß § 89i Abs 2 GOG Voraussetzung dafür sind, um einer Partei elektronische Akteneinsicht zu gewähren.
+4. Eine nähere Auseinandersetzung mit dem vom Rekursgericht thematisierten und als erhebliche Rechtsfrage qualifizierten Verhältnis zwischen Datenschutz im Pflegschaftsverfahren und elektronischer Akteneinsicht ist im Übrigen auch deshalb entbehrlich, weil der Revisionsrekurswerber nach seinem eigenen, im Revisionsrekurs aufrechterhaltenen Vorbringen Einsicht in alle Ermittlungsergebnisse im Verfahren seit seiner letzten Akteneinsicht im November 2012 (vgl ON 39), insbesondere in allfällige „Krankenakten oder Krankengeschichten“, nehmen möchte. Gerade diese Aktenbestandteile sind aber nicht im elektronisch geführten Pflegschaftsakt enthalten. Die dort aufrufbaren Aktenbestandteile bestehen im Wesentlichen aus den im Verfahren ergangenen Gerichtsentscheidungen, die dem Revisionsrekurswerber ohnedies zugestellt wurden, und seinen eigenen Eingaben einschließlich von ihm erhobener Rechtsmittel. Der Revisionsrekurswerber würde daher auch bei technisch möglicher Gewährung der Einsicht in den elektronischen Akt gerade in jene Ermittlungsergebnisse, die Grund für seinen Antrag waren, keine Einsicht nehmen können.
+5. Für die beantragte Übersendung des Akts an „das zuständige Zivilgericht in Bulgarien“ besteht, wie das Rekursgericht zutreffend ausführte, keine rechtliche Grundlage: Voraussetzung dafür wäre jedenfalls ein - hier nicht vorliegendes - Ersuchen um Übersendung des Akts durch das ausländische Gericht (vgl Danzl, Geo.5 § 436 Anm 14 und 15 sowie § 170 Anm 35a).
+6. Dieses Ergebnis führt auch zu keiner Gehörverletzung des ehemals Betroffenen iSd Art 6 MRK: Unabhängig von dem in § 89i Abs 1 GOG geregelten Anspruch, Ablichtungen vom Akt oder Aktenteilen zu erhalten (vgl dazu Danzl, Geo.5 § 170 Anm 17), hat der ehemals Betroffene jedenfalls ein Anrecht darauf, dass ihm sämtliche Ermittlungsergebnisse, auch wenn sie letztlich zu der von ihm angestrebten Einstellung des Sachwalterschaftsverfahrens geführt haben, zur Kenntnis gebracht werden. Das gilt insbesondere für die vom Erstgericht angeforderten Unterlagen aus den Krankenakten (ON 77), die dem Revisionsrekurswerber daher vom Erstgericht in Ablichtung zu übermitteln sein werden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00072.15G.0520.000

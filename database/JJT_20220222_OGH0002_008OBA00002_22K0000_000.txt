@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+8ObA2/22k
+Kopf
+Der Oberste Gerichtshof  hat als Revisionsgericht  in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Andreas Mörk (aus dem Kreis der Arbeitgeber) und Robert Hauser (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei N* GmbH in Liqu., *, vertreten durch Buchberger Ettmayer  Rechtsanwälte GmbH in Wien, gegen die beklagte Partei A*, vertreten durch Mag. Hermann Hinterberger, Rechtsanwalt in Salzburg, wegen 223.365,18 EUR sA, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse 220.350,28 EUR) gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 30. November 2021, GZ 12 Ra 99/21x-41, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Im Verfahren war die Frage strittig, ob sich der Beklagte als vormals einer von drei Geschäftsführern der Klägerin rechtsgrundlos sein vereinbartes Jahresgehalt übersteigende Geschäftsführervergütungen, eine Prämie sowie eine Urlaubsablöse auszahlen ließ.
+[2] 		Die Vorinstanzen gaben dem auf Rückerstattung dieser Beträge von gesamt 220.350,28 EUR brutto sA gerichteten Klagebegehren – gestützt auf die Bestimmung des § 812 dBGB – übereinstimmend statt.
+Rechtliche Beurteilung
+[3] 		1. In seiner außerordentlichen Revision meint der Beklagte unter Rückgriff auf die Beweislast- und Beweismaßregeln der ZPO, durch das Schriftgutachten sei der Beweis nicht erbracht worden, dass die Unterschriften auf zwei Beilagen nicht vom zweiten Geschäftsführer stammten, weil der Sachverständige dies nur für „wahrscheinlich“ (und nicht für „hoch wahrscheinlich“) gehalten habe.
+[4] 		Diese Ausführungen verkennen, dass das Beweismaß der vom Richter bei der Beweiswürdigung geforderte Überzeugungsgrad ist (vgl § 272 ZPO). Das Gutachten des Sachverständigen hingegen ist ein Beweismittel und unterliegt der freien Beweiswürdigung des Gerichts.
+[5] 		Das Berufungsgericht hat in Behandlung der Beweisrüge darauf verwiesen, das Gutachten sei lediglich ein Aspekt von mehreren für die Beweiswürdigung, ob die Urkunden echt seien (was wiederum nur Teil der Frage sei, ob Vereinbarungen über Gehaltserhöhungen, Prämie und Urlaubsablöse zustande gekommen seien). Mit den weiteren – vom Erstgericht ausführlich dargelegten – Gründen für dessen Annahme, dass die Urkunden nicht von einem Mitgeschäftsführer unterschrieben worden seien, setze sich der Beklagte nicht substantiiert auseinander. Ungeachtet dessen nahm das Berufungsgericht eingehend zu den Argumenten des Beklagten in der Berufung Stellung.
+[6] 		Die Behauptung des Revisionwerbers, hierbei handle es sich bloß um eine Scheinbegründung der zweiten Instanz, ist in keiner Weise nachvollziehbar. Eine Mangelhaftigkeit des Berufungsverfahrens liegt nicht vor.
+[7] 		2. Der Oberste Gerichtshof ist nicht dazu berufen, für die Einheitlichkeit oder Rechtsfortbildung fremden Rechts Sorge zu tragen oder Leitlinien zum richtigen Verständnis dieses Rechts zu entwickeln (RIS-Justiz RS0042940 [T8]; RS0042948 [T20]). Die Revision ist daher bei Anwendung fremden (im Anlassfall deutschen) Rechts nur zulässig, wenn dieses Recht unzutreffend ermittelt oder eine in seinem ursprünglichen Geltungsbereich in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt worden wäre oder wenn grobe Subsumtionsfehler vorlägen, die richtiggestellt werden müssten (RS0042940 [T9]; RS0042948 [T21]). Das ist hier nicht der Fall:
+[8] 		Wer durch die Leistung eines anderen oder in sonstiger Weise auf dessen Kosten etwas ohne rechtlichen Grund erlangt, ist ihm nach § 812 Abs 1 erster Satz dBGB zur Herausgabe verpflichtet. § 814 dBGB schließt die Rückforderung unter anderem dann aus, wenn der Leistende gewusst hat, dass er zur Leistung nicht verpflichtet war.
+[9] 		Wie bereits das Berufungsgericht ausgeführt hat, erfordert der Ausschlussgrund positive Kenntnis vom Nichtbestehen der Verbindlichkeit. Kennenmüssen genügt nicht, selbst wenn die Unkenntnis auf grober Fahrlässigkeit beruht (BGH II ZR 58/69 mwN; Jauernig/Stadler, BGB18 § 814 Rn 3 mwN).
+[10] 		Alle Erwägungen des Beklagten, die auf die Erkennbarkeit der Überzahlungen für die beiden anderen Geschäftsführer abzielen, gehen daher ins Leere.
+[11] 		Mit seinem Einwand, er als Geschäftsführer der Klägerin hätte ja nach den Feststellungen gewusst, dass die Auszahlungen an ihn rechtsgrundlos erfolgt seien, dadurch habe die leistende Gesellschaft Kenntnis von der Nichtschuld gehabt, verstößt der Beklagte gegen das Neuerungsverbot. Im Übrigen ist nicht auf die Kenntnis des Vertreters abzustellen, wenn dieser das Verbot des Insichgeschäfts nach § 181 dBGB verletzt hat (BGH II ZR 271/79).
+[12] 		3. Mangels einer erheblichen Rechtsfrage im Sinne des § 502 Abs 1 ZPO ist die außerordentliche Revision des Beklagten zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00002.22K.0222.000

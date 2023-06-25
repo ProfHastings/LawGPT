@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.09.1970
+Geschäftszahl
+3Ob107/70
+Norm
+EO §353 Abs2;
+Kopf
+SZ 43/165
+Spruch
+Der betreibende Gläubiger kann nicht gestützt auf einen Vergleich, wonach ihn die verpflichtete Partei (Ehegattin) zu verköstigen hat, unmittelbar Zwangsvollstreckung zur Zahlung der Ersatzkosten gemäß § 353 EO begehren, ohne vorher einen die verpflichtete Partei zur Kostenzahlung gesondert verpflichtenden Beschluß erwirkt zu haben
+OGH 30. September 1970, 3 Ob 107/70 (OLG Linz 3 R 63/70; LG Linz 6 Cg 153/69)
+Text
+In dem derzeit von der Verpflichteten als Klägerin gegen den betreibenden Gläubiger als Beklagten geführten Ehescheidungsprozeß schlossen die Streitteile in der Verhandlungstagsatzung am 20. Juni 1969 einen Vergleich, der, wie sich aus dem diesbezüglichen Verhandlungsprotokoll ergibt, in seinem hier interessierenden Teil folgendermaßen lautet: "Der Beklagte verpflichtet sich, der Klägerin für den Unterhalt der gesamten Familie, also für die Kinder und auch für den Beklagten, monatlich ab 1. Juli 1969 im voraus 3500 S zu bezahlen, bei sonstiger Exekution. - Die Klägerin verpflichtet sich, für den Beklagten und die Kinder den Haushalt i S der gesetzlichen Bestimmungen zu besorgen (kochen, waschen, bügeln) ...". Mit dem Hinweis, daß die Verpflichtete seit August 1969 ihrer im Vergleich übernommenen Verpflichtung zu kochen nicht mehr nachkomme und der Gegenwert seiner täglichen Verköstigung 37 S ausmache, was für die Zeit ab August 1969 bis einschließlich Jänner 1970 einen Betrag von 6808 S ergebe, stellte der betreibende Gläubiger den Antrag, ihm zur Hereinbringung der behauptetermaßen vollstreckbaren Forderung von 6808 S die Exekution gem § 353 EO zu bewilligen, und zwar durch Pfändung der der Ehefrau gegen die Republik Österreich (Zentralbesoldungsamt) als Drittschuldnerin auf Grund einer Exekutionsbewilligung zustehenden Forderung von monatlich 3500 S als jeweiligen Abzuges vom Gehalt des Ehemannes, wobei ihr monatlich 1500 S zu verbleiben haben, und ferner durch Überweisung der solcherart gepfändeten Forderung zur Einziehung. Nach dem Antragsvorbringen des betreibenden Gläubigers habe die in Frage stehende Verpflichtung seiner Frau zum Kochen eine vertretbare Handlung zum Gegenstand.
+Das Erstgericht bewilligte die Exekution antragsgemäß.
+Die zweite Instanz gab dem Rekurs der Verpflichteten Folge und wies in Abänderung des angefochtenen erstrichterlichen Beschlusses den Exekutionsantrag ab. Wie das Rekursgericht ausführte, bringe der vorerwähnte Vergleich mit den Worten "i S der gesetzlichen Bestimmungen" zum Ausdruck, daß den danach von der Ehefrau zu erbringenden Leistungen ihre eheliche Beistandspflicht nach §§ 44, 92 ABGB zugrundeliege. Dabei handle es sich aber um Obliegenheiten der Verpflichteten als Ehefrau, sohin um solche höchst persönlicher Art, mögen auch die einzelnen Verrichtungen der Haushaltsführung, wie etwa das Kochen, ohne Beeinträchtigung ihres wirtschaftlichen Wertes sich von einer dritten Person besorgen lassen und geldwerten Charakter haben. Von einer vertretbaren Handlung könne daher im vorliegenden Zusammenhang nicht gesprochen werden, weshalb eine Exekutionsführung nach § 353 EO, deren Bewilligung der betreibende Gläubiger begehre, ausgeschlossen sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der gegen die rekursgerichtlichen Entscheidung erhobene Revisionsrekurs der betreibenden Partei ist nicht gerechtfertigt.
+Die von ihr unternommene Exekutionsführung muß allein schon daran scheitern, daß sich aus dem den Exekutionstitel bildenden Vergleich die nunmehr betriebene Forderung nicht herleiten läßt. Selbst wenn man nämlich der Ansicht des betreibenden Gläubigers folgte, daß er, gestützt auf jenen Vergleich, die von ihm beantragte Zwangsvollstreckung nach § 353 EO begehren könne, wäre damit für seinen Standpunkt nichts gewonnen. Denn die eben bezeichnete Exekutionsart gibt einem betreibenden Gläubiger nur dann die Möglichkeit, von der verpflichteten Partei Kostenzahlung zu erzwingen, wenn er zunächst einen Beschluß des Gerichtes erwirkte, mit dem dem Verpflichteten die Zahlung aufgetragen wird. Erst ein solcher Beschluß ist in das Vermögen des Verpflichteten nach § 353 Abs 2 letzter Satz EO vollstreckbar (vgl MGA EO[10] § 353/24 a). Bereits aus dieser Erwägung war dem Revisionsrekurs nicht Folge zu geben.

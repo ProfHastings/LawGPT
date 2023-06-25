@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.1950
+Geschäftszahl
+3Ob277/50
+Norm
+Devisengesetz §3;
+Devisengesetz §22;
+Kopf
+SZ 23/270
+Spruch
+Ein Deviseninländer bedarf zur Hereinbringung von Prozeßkosten von einem Devisenausländer keiner Genehmigung der Oesterreichischen Nationalbank.
+Die gerichtliche Pfändung einer einem Devisenausländer gegen einen Deviseninländer zustehenden Forderung stellt keine Verfügung im Sinne des § 3 DevG. dar.
+Entscheidung vom 27. September 1950, 3 Ob 277/50.
+I. Instanz: Kreisgericht Steyr; II. Instanz: Oberlandesgericht Linz.
+Text
+Die betreibende Partei beantragte die Bewilligung der Exekution durch Pfändung und Überweisung an Zahlungsstatt der der verpflichteten Partei, einer Devisenausländerin, gegen die Antragstellerin zustehenden Forderung von rund 33.000 S bis zur Höhe der einzutreibenden Forderung von 872.47 S samt Anhang durch das an sie selbst gerichtete Verbot, die gepfändete Forderung der verpflichteten Partei, soweit die Pfändung reicht, dieser zu bezahlen und durch die an die verpflichtete Partei in Prag zu richtende Untersagung jeder Verfügung über die gepfändete Forderung, insbesondere der gänzlichen oder teilweisen Einziehung derselben.
+Das Erstgericht bewilligte die beantragte Exekution mit der Einschränkung, daß die Überweisung dem Exekutionsgericht vorbehalten wird.
+Dem gegen die Exekutionsbewilligung erhobenen Rekurse der verpflichteten Partei gab das Rekursgericht Folge und änderte den Beschluß des Erstgerichtes dahin ab, daß der Antrag der betreibenden Partei abgewiesen wird, und erkannte sie schuldig, der verpflichteten Partei die Rekurskosten zu ersetzen. Das Rekursgericht stellte sich hiebei auf den Standpunkt, daß gemäß § 22 Abs. 4 DevG. für Verfügungen im Wege der Zwangsvollstreckung die Bewilligung der Nationalbank erforderlich sei, da es sich bei der Forderung der verpflichteten Partei, die zur Befriedung herangezogen werden solle, um eine Forderung in inländischer Währung handle. Die beantragte Pfändung und Überweisung an Zahlungsstatt sei eine Verfügung über die Forderung der verpflichteten Partei, zu der gemäß § 3 Z. 2 DevG. die Bewilligung der Nationalbank erforderlich sei. Es sei aber auch die begehrte Zahlung der einzutreibenden Forderung als Verfügungsgeschäft über eine Forderung eines Inländers gegen einen Ausländer in inländischer Währung gemäß § 3 Z. 3 DevG. bewilligungsbedürftig und sei die Zwangsvollstreckung zur Erzwingung dieser Leistung gemäß § 22 Abs. 2 DevG. nur zulässig, wenn die Bewilligung hiezu erteilt worden sei. Durch die Durchführungsanordnungen der Oesterreichischen Nationalbank seien Ausnahmen von diesen Vorschriften nicht ausgesprochen worden. Vielmehr besage die Kundmachung Nr. 8 im Punkt 7, Satz 2 ausdrücklich, daß die Leistung im Wege der Zwangsvollstreckung einer Bewilligung nach § 22 DevG. bedürfe, wenn ein inländischer Gläubiger auf Grund eines Urteils, das die Befriedung nicht auf bestimmte inländische Werte einschränkt, späterhin Zwangsvollstreckung in bestimmte inländische Vermögenswerte beantrage. Da die erforderlichen Bewilligungen nicht angeschlossen worden seien, sei in Stattgebung des Rekurses der Exekutionsbewilligungsantrag abzulehnen gewesen.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der betreibenden Partei Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof hat in wiederholten Entscheidungen, so in SZ. XXIII/56 und 1 Ob 373/50, den auch von der Oesterreichischen Nationalbank eingenommenen Standpunkt vertreten, daß nur die Leistung im Wege der Zwangsvollstreckung, nicht aber auch schon die prozessuale Handlung als solche einer Bewilligung bedürftig ist. Dies wird auch in Z. 2 der Kundmachung Nr. 8 zum österreichischen Devisengesetz ausgesprochen. Schon aus diesem Gründe bedurfte die Exekutionsbewilligung, die überdies die Überweisung dem Exekutionsgericht vorbehielt, keiner Bewilligung der Oesterreichischen Nationalbank. Abgesehen davon aber besagt Z. 4 dieser Kundmachung Nr. 8, daß die Verurteilung zur Zahlung der Kosten eines gerichtlichen Verfahrens sowie die gerichtliche Festsetzung der Kosten keiner Bewilligung bedarf. Lediglich für die Bezahlung der von einem Inländer an einen Ausländer geschuldeten Kosten ist eine Bewilligung erforderlich. Aus diesen Bestimmungen der Kundmachung Nr. 8 im Zusammenhang mit der Bestimmung des Absatzes 2 des § 22 DevG., daß, wenn zur Leistung des Schuldners eine Bewilligung erforderlich ist, auch die Verurteilung oder Zwangsvollstreckung nur zulässig ist, wenn die Bewilligung erteilt worden ist, ist zu schließen, daß für die Zwangsvollstreckung der Kostenforderung der betreibenden Partei eine Bewilligung überhaupt nicht erforderlich ist, auch wenn sie sich auf eine Forderung der verpflichteten Partei gegen die betreibende Partei richtet und diese Forderung Werte in inländischer Währung betrifft.

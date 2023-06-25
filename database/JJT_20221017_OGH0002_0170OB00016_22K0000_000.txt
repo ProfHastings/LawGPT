@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.10.2022
+Geschäftszahl
+17Ob16/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende, die Hofrätinnen Mag. Malesich und Dr. Kodek sowie die Hofräte Dr. Stefula und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei Dr. F*, Rechtsanwalt, *, als ehemaliger Insolvenzverwalter im Insolvenzverfahren über das Vermögen der H* GmbH *, gegen die beklagte Partei Republik Österreich, vertreten durch die Finanzprokuratur in Wien, wegen 55.190,64 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 13. Juli 2022, GZ 2 R 92/22d-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger war Insolvenzverwalter (und ist nunmehr Treuhänder zur Überwachung des Sanierungsplans) in dem am 3. 11. 2020 über das Vermögen der H* GmbH (in weiterer Folge: Schuldnerin) eröffneten Insolvenzverfahren.
+[2] 		Er ficht eine am 4. 6. 2020 durch Überrechnung erfolgte Gutbuchung von 55.190,64 EUR auf dem Finanzamtskonto der Schuldnerin wegen fahrlässiger Unkenntnis der Beklagten von der Zahlungsunfähigkeit der Schuldnerin gemäß § 31 Abs 1 Z 2 IO an.
+[3] 		Die Vorinstanzen wiesen die Klage ab.
+Die außerordentliche Revision des Klägers zeigt das Vorliegen einer iSd § 502 Abs 1 ZPO erheblichen Rechtsfrage nicht auf:
+Rechtliche Beurteilung
+[4] 		1. Die Frage, ob dem Anfechtungsgegner fahrlässige Unkenntnis zur Last fällt, ist nach den ihm im Zeitpunkt der Vornahme der angefochtenen Rechtshandlung zu Gebote stehenden Auskunftsmitteln, dem Maß ihrer ihm vernunftgemäß zuzumutenden Heranziehung und der Ordnungsmäßigkeit ihrer Bewertung zu beantworten (RIS-Justiz RS0064794). Die Anzeichen einer wirtschaftlichen Krise müssen Anlass sein, mit zumutbaren Mitteln Erkundigungen einzuziehen (RIS-Justiz RS0064794 [T2]). Die Beurteilung, ob auf dieser Grundlage fahrlässige Unkenntnis anzunehmen ist, stellt regelmäßig eine Frage des Einzelfalls dar (RIS-Justiz RS0042837).
+2. Im vorliegenden Fall hat das Berufungsgericht seinen insofern bestehenden Beurteilungsspielraum auch unter Berücksichtigung der an ein Finanzamt zu stellenden, gegenüber anderen (außenstehenden) Gläubigern erhöhten Sorgfaltsanforderungen (vgl 6 Ob 37/01m) nicht überschritten:
+[5] 		2.1. Als eine Nachforschungspflicht auslösender Krisenindikator kommt im vorliegenden Fall die Stellung eines bloß formelhaft begründeten Stundungsantrags durch die Schuldnerin am 15. 4. 2020 in Betracht. Nach der Rechtsprechung verpflichtet die Stellung eines Ratenzahlungsersuchens durch den Schuldner für sich allein genommen den Gläubiger nicht gleichsam automatisch zu Nachforschungen (17 Ob 15/19h; 3 Ob 181/14k Punkt 5.2.). Die Rechtsansicht des Berufungsgerichts, dass der Stundungsantrag für sich genommen vor dem Hintergrund des kurz zuvor erfolgten Beginns der Corona-Pandemie unter Berücksichtigung der unauffälligen Höhe der im Antragszeitpunkt bestehenden Abgabenrückstände keinen Krisenindikator darstelle, ist damit jedenfalls vertretbar. Diese Rechtsansicht führt entgegen der Befürchtungen des Klägers auch nicht zur generellen Anfechtungsfestigkeit von nach derartigen Stundungsersuchen erfolgten Zahlungen an die Finanz. Entscheidend sind vielmehr immer die konkreten Umstände des Einzelfalls.
+[6] 		2.2. Als weiterer Krisenindikator kommt die Entwicklung des Abgabenkontos der Schuldnerin in Betracht, wobei in erster Linie die aus der von der Steuerstundung nicht umfassten Umsatzsteuervoranmeldung für Februar 2020 resultierende Soll-Buchung von rund 150.000 EUR (mit Fälligkeit zum 15. 4. 2020) hervorsticht. Dass ein Schuldner mit laufenden Beiträgen über einen Zeitraum von rund zwei Monaten nach Fälligkeit in Rückstand gerät, ist für sich allein genommen allerdings kein ausreichendes Indiz für die Zahlungsunfähigkeit (3 Ob 92/17a Punkt 4. [zu einem Sozialversicherungsträger]; ähnlich auch 3 Ob 5/18h [erneut zu einem Sozialversicherungsträger]). Mit seiner Rechtsansicht, dass vor dem Hintergrund einer pandemiebedingten Krisensituation für die Wirtschaft eine rund sechs Wochen lang fällig aushaftende Umsatzsteuerschuld (auch in Kombination mit einem Stundungsansuchen) nicht auf das Vorliegen materieller Insolvenz bei der Schuldnerin hindeute, hat das Berufungsgericht den ihm zukommenden Beurteilungsspielraum daher nicht überschritten.
+[7] 		2.3. Da sich die Frage nach dem Vorliegen fahrlässiger Unkenntnis von der Zahlungsunfähigkeit letztlich immer nur nach den konkreten Umständen des Einzelfalls beantworten lässt, zeigt der Kläger mit seiner Argumentation, der Oberste Gerichtshof habe zu Nachforschungspflichten „bei pandemiebedingt empfindlichem Umsatzrückgang“ bzw „aufgrund der Covid-19-Pandemie“ noch nicht Stellung genommen, keine erhebliche Rechtsfrage auf. Entgegen den Ausführungen des Klägers weist die vom Berufungsgericht als vergleichbar erachtete Entscheidung 3 Ob 92/17a durchaus Parallelen zum vorliegenden Sachverhalt auf, sodass auch in diesem Zusammenhang keine erhebliche Rechtsfrage zu beantworten ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00016.22K.1017.000

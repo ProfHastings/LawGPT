@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.1950
+Geschäftszahl
+3Ob648/50
+Norm
+EO §39 Abs1 Z2;
+Kriegsopferversorgungsgesetz §38;
+Kriegsopferversorgungsgesetz §55;
+Kriegsopferversorgungsgesetz §57;
+Kriegsopferversorgungsgesetz §59;
+Lohnpfändungsverordnung §4;
+Lohnpfändungsverordnung §6;
+Kopf
+SZ 23/380
+Spruch
+Die Abfertigung der Witwenrente nach § 38 KOVG. ist pfändbar.
+Entscheidung vom 13. Dezember 1950, 3 Ob 648/50.
+I. Instanz: Bezirksgericht Wels; II. Instanz: Kreisgericht Wels.
+Text
+Das Erstgericht hat zwar die Pfändung des Anspruches der verpflichteten Partei gegen das Landesinvalidenamt für Oberösterreich auf Zahlung der Abfertigung einer gemäß § 116 des Wehrmachtfürsorge- und -versorgungsgesetzes vom 26. August 1938, DRGBl. I S. 1077, zuerkannten Rente bewilligt, in der Folge aber auf Antrag der verpflichteten Partei die Exekution gemäß § 39 Abs. 1 Z. 2 EO. mit der Begründung eingestellt, daß die Abfertigung ebenso wie die Rente gemäß § 55 Abs. 1 des Kriegsopferversorgungsgesetzes vom 14. Juli 1949, BGBl. Nr. 197, unpfändbar seien.
+Das Rekursgericht hat die Abfertigung für pfändbar erklärt und den Einstellungsantrag abgewiesen, ohne klarzustellen, ob der Abfertigungsanspruch auf dem Wehrmachtfürsorgegesetze oder auf dem KOVG. beruht.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Verpflichteten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist unbestritten, daß der Abfertigungsanspruch der verpflichteten Partei sich auf ihre Wiederverehelichung grundet. Für die Pfändbarkeit des Anspruches sind nicht die zur Zeit seiner Entstehung, sondern die zur Zeit der Pfändung bestehenden exekutionsrechtlichen Vorschriften maßgebend. Da die Pfändung am 23. Mai 1950 bewilligt wurde und damals bereits das KOVG. in Geltung stand, ist die Pfändbarkeit des Anspruches nach den §§ 38, 55 des KOVG. zu beurteilen.
+Inwiefern eine Pfändung der nach dem KOVG. gebührenden Leistungen zulässig ist, bestimmt sich laut § 55 Abs. 1 dieses Gesetzes nach §§ 4 Abs. 1, 6 Lohnpfändungsverordnung. Da die Exekution nicht zur Hereinbringung eines Unterhaltsanspruches geführt wird, scheidet § 6 der Lohnpfändungsverordnung aus.
+Entscheidend ist, ob nur die Witwenrente oder auch jede Abfertigung der Witwenrente der Exekution entzogen ist.
+§ 4 Abs. 1 der Lohnpfändungsverordnung spricht von fortlaufenden Bezügen aus Witwenkassen, ohne der Abfertigung zu gedenken. Im Kommentar Stein - Jonas wird die Ansicht ausgesprochen, daß der Pfändungsschutz sich nicht auf Kapitalabfindungen erstreckt.
+Es muß auch versucht werden, aus dem Zwecke der Abfertigungen die Absicht des Gesetzgebers zu erschließen. Hier ist davon auszugehen, daß das KOVG. für Witwen zwei Arten von Abfertigungen vorsieht. Abschnitt VII behandelt die Hinterbliebenenrenten und sieht im § 38 vor, daß die Witwenrente im Falle der Wiederverehelichung erlischt;
+der Wiederverehelichten gebührt eine Abfertigung in der Höhe des dreifachen Jahresbezuges. Abschnitt XV regelt die Rentenumwandlung;
+nach § 57 Abs. 3 des KOVG. ist Voraussetzung der Umwandlung der Rente durch Auszahlung einer Abfertigung, daß die Abfertigungssumme zur Gründung oder Erhaltung einer den Lebensunterhalt voll gewährleistenden oder wenigstens wesentlich erleichternden Existenz Verwendung findet. § 59 Abs. 3 ordnet an, daß die bestimmungsgemäße Verwendung dieser Abfertigungssumme durch die Form der Auszahlung sicherzustellen ist. Diese Regelung läßt erkennen, daß die umgewandelte Rente den gleichen Zwecken dienen soll wie bisher und daß die Erreichung dieses Zweckes anzustreben ist.
+Im vorliegenden Falle wurde aber eine Abfertigung nach § 38 KOVG. gepfändet. Eine solche Abfertigung gebührt in jedem Falle und ohne Rücksicht auf die Vermögensverhältnisse des Gatten, gegen den der Wiederverehelichten gemäß § 91 ABGB. ein Unterhaltsanspruch zusteht. Die Verwendung dieser Abfertigung unterliegt auch keiner Kontrolle im Sinne des § 59 Abs. 3 KOVG., daher kann sie nicht den im § 4 Abs. 1 der Lohnpfändungsverordnung genannten fortlaufenden Bezügen gleichgestellt werden.
+Diese Erwägungen führen zur Bestätigung des angefochtenen Beschlusses.

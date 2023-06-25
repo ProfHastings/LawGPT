@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.10.1950
+Geschäftszahl
+2Ob468/50
+Norm
+ABGB §1301;
+ABGB §1304;
+Deutsches Bürgerliches Gesetzbuch §254;
+Kraftfahrzeugverkehrsgesetz §7;
+Kraftfahrzeugverkehrsgesetz §9;
+Kraftfahrzeugverkehrsgesetz §17;
+Reichshaftpflichtgesetz §1;
+Reichshaftpflichtgesetz §9;
+Sachschadenhaftpflichtgesetz §3;
+Kopf
+SZ 23/275
+Spruch
+Der Ausfall einer Lichtblinkanlage an nicht abgeschrankter Bahnkreuzung bedingt eine Erhöhung der Betriebsgefahr auf Seiten der Bahn.
+Bei Schadensteilung aus den beiderseitigen Betriebsgefahren ist in erster Linie die Verursachung und nicht das Verschulden maßgebend.
+Entscheidung vom 3. Oktober 1950, 2 Ob 468/50.
+I. Instanz: Bezirksgericht Mödling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der dem Beklagten gehörige Lastkraftwagen stieß mit einem von Wien kommenden Triebwagenzug Nr. 199 der Wiener Lokalbahnen bei der Straßenkreuzung Schillerstraße - Wiener Neudorf zusammen. An dem Triebwagen des Zuges der Badner Lokalbahn entstand ein Schaden dadurch, daß der Anstrich abgeschürft und von der Motorumschaltwalze die Verkleidung teilweise abgerissen wurde. Die Behebung dieses Schadens erforderte einen Aufwand in der Höhe von 573.80 S.
+Das Erstgericht hat den Wiener Lokalbahnen als Kläger den eingeklagten Betrag zugesprochen, auf die Berufung der beklagten Partei hat das Berufungsgericht das Ersturteil im Sinne der Abweisung des Klagebegehrens geändert.
+Der Oberste Gerichtshof hat der Revision der klagenden Partei zum Teil Folge gegeben und das Berufungsurteil zum Teil dahin abgeändert, daß der klagenden Partei ein Viertel des eingeklagten Betrages zugesprochen wurde.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In der Frage der rechtlichen Beurteilung vermag sich das Revisionsgericht dem Berufungsgericht nicht in allen Einzelheiten anzuschließen. Auszugehen ist von der Bestimmung des § 17 des Gesetzes über den Verkehr mit Kraftfahrzeugen vom 3. Mai 1909, DRGBl. S. 473. Diese Gesetzesstelle regelt die Verantwortlichkeit mehrerer bei Entstehung eines Schadens beteiligter Betriebe - der Bestimmung des § 254 DBGB. folgend - aus dem Gesichtspunkt der objektiven ursächlichen Mitwirkung, und zwar auch dann, wenn der Schaden einem der beteiligten Betriebe selbst entstanden ist. Während aber sonst dem Ersatzanspruch des Geschädigten nur sein eigenes Verschulden entgegengehalten werden kann (§ 1301 ABGB., § 1 RHG., § 9 KFG., § 3 Sachschadenhaftpflichtgesetz), wird hier eine besondere Schadensverteilung ("Ausgleichungspflicht" im Sinne der reichsdeutschen Nomenklatur) aus den beiderseitigen Betriebsgefahren und deren Ursächlichkeit bestimmt (vgl. Müller, Straßenverkehrsrecht, 15. Aufl., S. 493). Worauf schon das Berufungsgericht hingewiesen hat, ist nach der hier - weil es sich eben um ein reichsdeutsches Gesetz handelt - heranzuziehenden Spruchpraxis des Reichsgerichtes in erster Linie die Verursachung und nicht das Verschulden maßgebend (RG. V1 204/39, Das Recht 1940, Nr. 3101). Die Lehre (vgl. Wussow, Das Unfallhaftpflichtrecht, S. 210 ff.) hat als Richtlinie für die Ausgleichung auf die Betriebsgefahr, allenfalls erhöhte Betriebsgefahr, und dann erst auf das Verschulden abgestellt, wobei vielfach das Verschulden als erhöhte Betriebsgefahr qualifiziert wurde (vgl. E. d. RG. v. 6. Mai 1939, VI 291/38, VAE. 1939, Nr. 385). Das Berufungsgericht kommt allerdings, ohne es ausdrücklich auszusprechen, zu dem Schlusse, daß der Betriebsführung der Wiener Lokalbahnen, wenn auch der Triebwagenführer von einem Verschulden frei sei, doch eine Unterlassung der ihr obliegenden Verpflichtungen anzulasten wäre. Denn sie hätte entgegen dem § 8 der Verordnung vom 27. März 1947, BGBl. Nr. 60, über die Sicherung und Benützung schienengleicher Eisenbahnübergänge nach Ausfall der Lichtblinkanlage den nicht abgeschränkten Wegübergang nicht durch Aufstellung von Aufsichtspersonen gesichert. Demgegenüber verweist die Klägerin auf § 13 Abs. 3 dieser Verordnung, wonach Warnlichtanlagen, die keine Lichtzeichen senden, als Warnkreuze zu beachten und solche Eisenbahnübergänge mit besonderer Vorsicht zu übersetzen sind. Es kann dahingestellt bleiben, ob die eine oder andere Auslegung zutrifft. Ferner braucht aber auch nicht zu der im Schrifttum viel erörterten und auch von der Revision aufgeworfenen Frage Stellung genommen werden, ob trotz aufsichtsbehördlicher Genehmigung von Sicherungsmaßnahmen an Bahnübergängen unter Umständen der Bahnverwaltung nicht doch eine ungenügende Sicherung zum Verschulden zugerechnet werden kann (vgl. hiezu Pittner, "Der unabgeschränkte Wegübergang über Eisenbahnstrecken im Haftpflichtrecht der Ostmark", VAE. 1940, S. 61 ff.). Jedenfalls aber bedingt der Ausfall der Lichtblinkanlage eine Erhöhung der Betriebsgefahr auf Seiten der Bahn, die an sich schon durch ihre Schienengebundenheit, ihre große Masse und die dadurch bedingte größere Länge des Bremsweges einen Betrieb mit größeren Gefahrenquellen darstellt (vgl. E. d. RG. v. 6. Mai 1939, VI 291/38, VAE. 1939, Nr. 385). Es läßt sich daher durchaus auch ohne Annahme eines Verschuldens der Bahnverwaltung rechtfertigen, ihr die überwiegende Verursachung des Schadens zuzurechnen. Aber auch der Kraftwagen - das muß entgegen der Ansicht des Berufungsgerichtes angenommen werden - hat den Schaden verursacht, ist er doch an den Triebwagen angefahren. Der Kraftfahrzeughalter ist daher gemäß § 17 KFG. grundsätzlich haftbar, weil er sich auf keinen Haftbefreiungsgrund im Sinne des § 7 KFG. (unabwendbares Ereignis und dergleichen) berufen kann. Doch überwiegt zweifellos die Verursachung durch die Bahn, weil diese neben der an sich im Verhältnis zu einem 2 1/2tonnigen LKW. größeren Betriebsgefahr noch den zum Bereich ihrer Betriebsführung gehörigen Ausfall der Blinklichtanlage als vorwiegenden Verursachungsgrund zu vertreten hat. Dem im § 17 KFG. aufgestellten Grundsatz der Verursachung entspricht es, den Anteil der Bahn an dem Schaden mit drei Vierteln, den des Kraftwagenbetriebes mit einem Viertel zu bestimmen.

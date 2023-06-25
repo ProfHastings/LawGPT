@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.03.1950
+Geschäftszahl
+2Ob142/50
+Norm
+ABGB §1117;
+ABGB §1118;
+Kündigungsschutz-Ausführungsverordnung vom 5. September 1939, DRGBl. I
+S1671 §7;
+Mietengesetz §19 Abs6;
+Kopf
+SZ 23/61
+Spruch
+Die Vereinbarung, daß die Nichtleistung oder verspätete Leistung einer bedungenen Kaution bei einem den Kündigungsbeschränkungen des Mietengesetzes unterliegenden Pachtverhältnis als Vertragsaufhebungsgrund zu gelten habe, stellt eine Umgehung des § 19 Abs. 6 MietG. dar.
+Entscheidung vom 8. März 1950, 2 Ob 142/50.
+I. Instanz: Bezirksgericht Ebreichsdorf; II. Instanz: Kreisgericht Wiener Neustadt.
+Text
+Die Kläger hatten der Beklagten ein Gasthaus samt den dazugehörigen Wohn- und Wirtschaftsgebäuden verpachtet; im Pachtvertrage war die Beklagte verpflichtet worden, eine Kaution zu erlegen und das Bier bei einem bestimmten Depot zu beziehen; die Kaution konnte auch in Raten abgestattet werden, u. zw. durch eine Aufzahlung bei den jeweiligen Bierlieferungen. Da die Beklagte die Kaution nicht erlegt und auch das Bier nicht aus dem ihr angewiesenen Depot bezogen hat, begehrten die Kläger die Auflösung des Pachtvertrages und die Verurteilung der Beklagten zur Räumung des Bestandobjektes.
+Das Prozeßgericht gab dem Klagebegehren statt.
+Das Berufungsgericht wies es ab.
+Der Oberste Gerichtshof gab der Revision der Kläger nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Es handelt sich im vorliegenden Fall unstreitig um die Verpachtung eines Gasthauses samt zugehörenden Wohn- und Wirtschaftsgebäuden, also um die Pacht eines Gewerbebetriebes samt den zu seiner Ausübung erforderlichen Räumen.
+Der Oberste Gerichtshof hat nun in wiederholten Entscheidungen (1 Ob 115/49, 1 Ob 303/48, SZ. XXI/73, 1 Ob 550/49) in Übereinstimmung mit der Literatur (Stagel bei Pfundtner-Neubert, II b 7, S. 16, und Michlmayr, Österreichisches Recht, V, 61/2, zu § 7 KSchAusfV.) ausgesprochen, daß jede Pachtung eines gewerblichen Unternehmens seit der Erlassung der Verordnung zur Ausführung der Verordnung über den Kündigungsschutz für Miet- und Pachträume in der Ostmark vom 5. September 1939, DRGBl. I S. 1671. gleichviel, welches der Betriebsgegenstand ist, und ohne Rücksicht darauf, welche Rolle die Überlassung des Unternehmens und der Gewerbeberechtigung im Rahmen des Vertrages spielt, gemäß § 7 zit. Vdg. mietenrechtlich gegen Aufkündigung nach Maßgabe des § 19 MietG. geschützt ist.
+Unterliegt aber das streitgegenständliche Pachtverhältnis den Bestimmungen über die Kündigungsbeschränkungen nach dem Mietengesetz, so kann seine Auflösung nur nach dessen Vorschriften (§§ 19 ff. MietG.) oder jenen der §§ 1117, 1118 ABGB. erfolgen. Die von den Klägern behauptete Vereinbarung würde, ihre Richtigkeit vorausgesetzt, eine Erweiterung der Bestimmung des § 1118 ABGB. auf einen neuen, dort nicht normierten Fall beinhalten. Denn wenn nach dieser Gesetzesstelle die Abstehung vom Vertrage oder die vorzeitige Aufkündigung auch bei geschützten Bestandverhältnissen zulässig ist (Ehrenzweig, II/1, S. 472), so ist sie es doch nur, wenn einer der drei namentlich im Gesetz genannten Fälle vorliegt, also wenn a) der Bestandnehmer einen erheblichen nachteiligen Gebrauch von der Sache macht, b) wenn er nach geschehener Einmahnung mit der Bezahlung des Miet(Pacht)zinses dergestalt säumig ist, daß er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat, c) wenn das vermietete Gebäude neu aufgeführt werden muß.
+Durch den vorliegenden Pachtvertrag würde aber über diese Möglichkeit hinaus vereinbarungsgemäß auch die Nichtleistung der bedungenen Kaution oder die Verspätung der Leistung zum Rang eines Vertragsaufhebungsgrundes erhoben. Damit würde aber das Mietengesetz in der Bestimmung des § 19 Abs. 6 umgangen, welches sowohl einen Verzicht auf den Mieterschutz als auch die Schaffung neuer, im Gesetz nicht vorgesehener Kündigungsgrunde verbietet, insoweit nicht dort die Vereinbarung gewisser Fälle als Kündigungs- oder Auflösungsgrund bei Haupt-, bzw. bei Untermieten ausdrücklich vorgesehen wird (z. B. Vereinbarung eines bestimmten Falles des Eigenbedarfes, weiterreichend bei Untermieten).
+Die behauptete Vereinbarung würde darum unter allen Umständen dem § 19 Abs. 6 MietG. widersprechen, so daß schon aus diesem Gründe das Klagebegehren abzuweisen war.

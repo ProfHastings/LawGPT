@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.1974
+Geschäftszahl
+7Ob63/74
+Norm
+ABGB §37;
+ABGB §298;
+KO §67;
+Kopf
+SZ 47/71
+Spruch
+Hat der Schuldner seinen Sitz im Inland, so ist auch die Forderung im Inland gelegen und die Frage, ob der ausländische Masseverwalter zur klageweisen Geltendmachung aktiv legitimiert ist, nach österreichischem Recht zu beurteilen
+OGH 30. Mai 1974, 7 Ob 63/74 (OLG Wien 2 R 216/73; HG Wien 14 Cg 48/73)
+Text
+Die Firma R in B, Belgien, brachte am 11. September 1970 die vorliegende Klage auf Zahlung eines restlichen Kaufpreises im (eingeschränkten) Betrag von 7886.30 US-Dollar samt Anhang ein. Über das Vermögen der klagenden Partei wurde mit Beschluß des Handelsgerichtes B vom 17. September 1970 der Konkurs eröffnet. Der Klagevertreter erklärte hierauf, er stelle die klagende Partei richtig auf Rechtsanwälte X und Y als Konkursmasseverwalter der Firma R".
+Die beklagte Partei beantragte Klagsabweisung.
+Das Erstgericht wies das Klagebegehren mit der Begründung ab, die obgenannte Lieferfirma habe durch Weitergabe von Wechselakzepten, die ihr von der beklagten Partei (Käufer) übergeben worden waren, Zahlung erlangt.
+Das Berufungsgericht verwarf die Nichtigkeitsberufung der Kläger und bestätigte das erstgerichtliche Urteil unter Billigung der darin enthaltenen rechtlichen Beurteilung. Es brachte ferner zum Ausdruck, daß der im Ausland über das Vermögen der Lieferfirma eröffnete Konkurs in Österreich keine Wirkung habe und daß sich die Vertretungsmacht der von der ausländischen Konkursbehörde für die Gemeinschuldnerin bestellten Organe nicht auf die Vertretung bezüglich einer in Österreich belegenen Forderung erstrecke, so daß das Klagebegehren auch aus diesem Gründe abzuweisen gewesen sei.
+Der Oberste Gerichtshof gab der Revision der Kläger nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Da die beklagte Partei als Schuldnerin ihren Sitz im Inland hat, ist die eingeklagte Forderung im Inland gelegen. Daraus ergibt sich, daß die Frage, ob die Masseverwalter zur klageweisen Geltendmachung dieser Forderung aktiv legitimiert sind, nach österreichischem Recht zu beurteilen ist (SZ 39/217; JBl. 1969, 43).
+Untersucht man diese Frage, so ist von der zwingenden und die Anwendung entgegenstehenden fremden Rechts in einem inländischen Prozeß ausschließenden (SZ 8/319) Bestimmung des § 67 Abs. 1 KO auszugehen, wonach das im Inland befindliche bewegliche Vermögen eines Gemeinschuldners, über dessen Vermögen der Konkurs im Ausland eröffnet worden ist, der ausländischen Konkursbehörde über deren Verlangen auszufolgen ist, sofern nicht der Konkurs im Inland eröffnet wird. Gemäß dem § 67 Abs. 2 KO ist die Ausfolgung abzulehnen, insoweit der ausländische Staat nicht die Gegenseitigkeit beobachtet. Die Gegenseitigkeit ist aber im Verhältnis zu Belgien nicht gewährleistet, weil in Art. 1 Abs. 2 BGBl. 287/1961 Entscheidungen in Konkursverfahren ausdrücklich aus der vertragsrechtlichen Regelung ausgenommen werden (vgl. auch Sabaditsch, Konkurs-, Ausgleichs- und Anfechtungsordnung[5], FN 3 zu § 58 KO). Daraus folgt, daß ein Ausfolgungsverfahren nicht zum Ziel führen könnte. Die im Ausland erfolgte Konkurseröffnung wirkt grundsätzlich nicht im Inland (sie führt daher auch nicht zur Unterbrechung des Verfahrens), und der Gemeinschuldner des ausländischen Konkurses behält die Verfügungsbefugnis über sein in Österreich gelegenes Vermögen. Der im Ausland bestellte Masseverwalter besitzt daher keine Vertretungsmacht bezüglich eines solchen Vermögens und ist zur Geltendmachung von Ansprüchen auf dieses Vermögen nicht legitimiert (SZ 39/217, 14/110; Bartsch - Pollak I, 333; Petschek - Reimer - Schiemer, Das österreichische Insolvenzrecht, 237; Walker, Internationales Privatrecht[5], 506; Fasching 11, 142; Köhler, ÖJZ 1952.655).
+Die Anwendung dieser Grundsätze auf den vorliegenden Fall führt zur Erkenntnis, daß den Klägern, die mit stillschweigender Zustimmung der beklagten Partei in den Prozeß eingetreten sind, die Aktivlegitimation fehlt, und zwar gleichgültig, ob sie nach belgischem Recht die Bezeichnung Masseverwalter oder Kurator führen. Ihre Einschaltung in den vorliegenden Prozeß würde zu dem vom Gesetzgeber ausdrücklich nicht gewollten Ergebnis führen, daß trotz der fehlenden Gegenseitigkeit bewegliches Vermögen aus dem Inland in den Verfügungsbereich der ausländischen Konkursbehörde gerät. Aus diesem Gründe ist es für den vorliegenden Zusammenhang auch bedeutungslos, ob die beiden Masseverwalter, so wie dies vom Klagevertreter ausdrücklich vorgebracht wurde, als Kläger auftreten oder allenfalls als gesetzliche Vertreter des Gemeinschuldners, weil in beiden Fällen gegen den erkennbaren Willen des Gesetzgebers verstoßen würde. Im vorliegenden Fall sind jedoch die beiden Masseverwalter als Kläger in den Prozeß eingetreten und sind daher aus den erörterten Gründen nicht aktiv legitimiert. Das Klagebegehren war daher schon aus diesem Gründe, wie das Berufungsgericht - allerdings subsidiär - richtig zum Ausdruck gebracht hat, abzuweisen, ohne daß auf die im Prozeß vorgebrachten meritorischen Fragen einzugehen gewesen wäre.

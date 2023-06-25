@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2022
+Geschäftszahl
+4Ob195/22p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei O*, vertreten durch Mag. Ulrich Paulsen, Rechtsanwalt in Klagenfurt, gegen die beklagte Partei A*anstalt, *, vertreten durch Dr. Peter Schaden und Mag. Werner Thurner, Rechtsanwälte in Graz, wegen 24.750 EUR sA und Feststellung (Streitwert 10.000 EUR) über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 25. August 2022, GZ 2 R 133/22d-27, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger begehrte Schadenersatz wegen Behandlungsfehlern in Zusammenhang mit einer Fußverletzung. Die Ärzte der beklagten Krankenhausträgerin hätten nicht erkannt, dass neben einer Knöchelfraktur auch eine Achillessehnenruptur vorgelegen habe.
+[2] 		Die Vorinstanzen wiesen die Klage ab, weil die Behandlung lege artis erfolgt sei. Eine zusätzliche Achillessehnenruptur sei sehr selten. Die Ärzte hätten keine Hinweise darauf gehabt, die weitergehende Untersuchungen nahe gelegt hätten. Das Berufungsgericht verneinte sekundäre Feststellungsmängel, weil der Kläger in erster Instanz kein Vorbringen erstattet habe, dass sich bei der Gipsabnahme eine Delle am Knöchel gezeigt habe, die durch weitere Untersuchungen abzuklären gewesen wäre.
+Rechtliche Beurteilung
+[3] 		Die dagegen erhobene außerordentliche Revision des Klägers zeigt keine Rechtsfrage von erheblicher Bedeutung auf und ist daher unzulässig.
+[4] 		1. Der österreichische Zivilprozess ist vom Dispositionsgrundsatz geprägt. Die Parteien entscheiden also durch ihre Prozessbehauptungen selbst, welche Themen sie zum Gegenstand ihres Gerichtsverfahrens machen (vgl zB Konecny in Fasching/Konecny3 [2019] Einleitung Rz 6). Deshalb ist die Feststellungsgrundlage einer gerichtlichen Entscheidung nur dann mangelhaft, wenn Tatsachen fehlen, die für die rechtliche Beurteilung wesentlich sind, und dies Umstände betrifft, die nach dem Vorbringen der Parteien und den Ergebnissen des Verfahrens zu prüfen waren (RS0053317).
+[5] 		Das Gericht darf sogar bei der Beweisaufnahme hervorkommende Umstände nur insoweit berücksichtigen, als sie im Parteivorbringen Deckung finden (RS0040318). Fehlendes Vorbringen kann deshalb nicht durch eine Parteienaussage oder andere Beweisergebnisse ersetzt werden (vgl RS0040318 [T7]).
+[6] 		Selbst wenn der Kläger in seiner Aussage als Partei eine bei der Gipsabnahme sichtbare Delle im Knöchel erwähnte, war das Erstgericht ohne entsprechendes Vorbringen nicht gehalten, zu prüfen, ob diese Delle aus medizinischer Sicht weitere Untersuchungen nahegelegt hätte.
+[7] 		2. Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist eine Frage des Einzelfalls, der in der Regel keine erhebliche Bedeutung zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung zukommt (RS0042828).
+[8] 		Die Revision zeigt durch den Verweis auf die Klagserzählung, dass die Ärzte trotz mehrerer Hinweise des Klägers auf ein peitschenschlagartiges Geräusch beim Unfall nicht die notwendigen Untersuchungen veranlasst hätten, keine unvertretbare Auslegung seines Vorbringens auf. Hinweise des Klägers auf dieses Geräusch gegenüber seinen Ärzten konnte im Verfahren gerade nicht erwiesen werden. Die Ansicht der Vorinstanzen, dass auf Basis dieser Behauptungen keine Feststellungen zur Bedeutung einer Delle am Knöchel zu treffen waren, bewegt sich im Rahmen des ihnen zukommenden Ermessensspielraums.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00195.22P.1018.000

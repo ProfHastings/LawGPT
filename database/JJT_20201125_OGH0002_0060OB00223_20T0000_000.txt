@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2020
+Geschäftszahl
+6Ob223/20t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Außerstreitsache der Antragstellerin C***** S.à.r.l., *****, vertreten durch Dorda Rechtsanwälte GmbH in Wien, gegen die Antragsgegnerin B***** GmbH, *****, vertreten durch Hopmeier Wagner Kirnbauer Rechtsanwälte OG in Wien, wegen Bucheinsicht, über den außerordentlichen Revisionsrekurs der Antragsgegnerin gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 11. September 2020, GZ 6 R 129/20i-16, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der erkennende Senat hat erst jüngst seine Rechtsprechung bekräftigt, wonach dem GmbH-Gesellschafter ein allgemeiner, umfassender Informationsanspruch gegen die Gesellschaft zusteht. Dieser Informationsanspruch ist nicht näher zu begründen, das heißt die Ausübung des Informationsrechts bedarf nicht der Dartuung einer Begründung durch den Gesellschafter. Das Informationsrecht besteht zwar nicht unbeschränkt – die Gesellschaft darf die begehrte Information verweigern, wenn die Informationserteilung einem gesetzlichen Verbot zuwider liefe oder der Informationsanspruch rechtsmissbräuchlich ausgeübt wird –, die Gesellschaft, die sich auf ein Informationsverweigerungsrecht wegen Rechtsmissbrauchs des Gegners stützt, trägt aber dafür die Behauptungs- und Beweislast; sie hat konkrete Behauptungen sowohl zur Gefährdung als auch zur Wettbewerbsrelevanz der strittigen Geschäftsunterlagen, in die Einsicht genommen werden soll, aufzustellen (6 Ob 166/19h mit zahlreichen weiteren Nachweisen).
+[2] 		2. Die Antragsgegnerin (Gesellschaft) führt in ihrem außerordentlichen Revisionsrekurs lediglich aus, die Antragstellerin (Minderheitsgesellschafterin) stütze ihren Anspruch auf Bucheinsicht und Auskunft auf einen zwischen der Antragstellerin, der Antragsgegnerin und der Mehrheitsgesellschafterin abgeschlossenen Syndikatsvertrag, der jedoch (aus verschiedenen Gründen) nichtig sei; die Antragstellerin sei demnach nicht berechtigt, „aufgrund eines nichtigen Syndikatsvertrags“ Bucheinsichtsrechte gegen die Gesellschaft geltend zu machen. Wenn aber – wie dargelegt – die Ausübung des Informationsrechts ganz grundsätzlich nicht der Dartuung einer Begründung durch den Gesellschafter bedarf, könnte eine dennoch vom Gesellschafter vorgetragene Begründung nur dann schädlich sein, wenn die Gesellschaft rechtsmissbräuchliches Verhalten daraus ableiten könnte. Ein solches behauptet sie im Revisionsrekursverfahren aber gar nicht, sondern meint lediglich, „mit dem gegenständlichen Bucheinsichtsverlangen [sei] nicht das mitgliedschaftliche Rechtsverhältnis der GmbH-Gesellschafterin zu ihrer GmbH angesprochen, sondern der Antrag, ein Informationsbegehren eines Minderheitsgesellschafters gegenüber dem Mehrheitsgesellschafter zu Fragen, die einen zwischen den Gesellschaftern [richtig: den Gesellschaftern und der Gesellschaft] geschlossenen Syndikatsvertrag betreffen“.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00223.20T.1125.000

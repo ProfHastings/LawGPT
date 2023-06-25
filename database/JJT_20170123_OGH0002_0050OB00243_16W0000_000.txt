@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2017
+Geschäftszahl
+5Ob243/16w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Grohmann, Mag. Wurzer, Mag. Malesich und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Parteien 1. E* S*, 2. Dipl.-Ing. D* S*, vertreten durch Dr. Katharina Langer, Rechtsanwältin in Wien, 3. G* L*, 4. D* L*, 5. M* L*, 6. Dr. P* H*, 3.–6. Kläger vertreten durch die Hajek & Boss & Wagner Rechtsanwälte OG, Wien, gegen die beklagte Partei Dr. N*gesellschaft mbH, *, vertreten durch die Höhne, In der Maur & Partner Rechtsanwälte OG, Wien, wegen Zustimmung und Einverleibung, infolge der „außerordentlichen“ Revision der  beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 28. September 2016, GZ 35 R 123/16x-19, mit dem das Urteil des Bezirksgerichts Hietzing vom 16. März 2016, GZ 6 C 191/15s-14, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Berufungsgericht zurückgestellt.
+Text
+Begründung:
+Die Parteien sind Miteigentümer der Liegenschaft EZ 1591 KG *. Im Grundbuch ist jeweils die Zusage der Einräumung von Wohnungseigentum eingetragen.
+Die Kläger begehren, die Beklagte ihnen gegenüber zur gesamten Hand schuldig zu erkennen, 1. den [ausformuliert und dem Ersturteil als ./A angeschlossenen] Wohnungseigentumsvertrag grundbuchsfähig zu unterfertigen und 2. in die Einverleibungen der sich daraus ergebenden Eigentumsrechte ob der Liegenschaft EZ 1591 zuzustimmen.
+Das Berufungsgericht bestätigte das beiden Begehren stattgebende Urteil des Erstgerichts, sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und die ordentliche Revision nicht zulässig sei.
+Eine Entscheidung über die dagegen erhobene außerordentliche Revision der Beklagten kommt (derzeit) nicht in Betracht, weil die funktionelle Zuständigkeit des Obersten Gerichtshofs noch nicht abschließend beurteilt werden kann:
+Rechtliche Beurteilung
+1. Bilden mehrere Ansprüche den Entscheidungsgegenstand des Berufungsgerichts, hat eine Zusammenrechnung nur zu erfolgen, wenn die Voraussetzungen des § 55 Abs 1 JN erfüllt sind (RIS-Justiz RS0053096; RS0037838 [T38]). Danach sind mehrere in einer Klage geltend gemachte Forderungen zusammenzurechnen, wenn sie in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Ein rechtlicher Zusammenhang liegt dabei vor, wenn die Ansprüche aus demselben Vertrag oder derselben Rechtsnorm abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RIS-Justiz RS0037648). Er wird aber dann nicht angenommen, wenn jeder der mehreren Ansprüche ein verschiedenes rechtliches und tatsächliches Schicksal haben kann; in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfindet (RIS-Justiz RS0037648 [T18]; RS0037899).
+2. Bei der Beurteilung dieser Frage ist vom Vorbringen der Kläger auszugehen (RIS-Justiz RS0042741). Diese leiten ihr Begehren auf Unterfertigung des Wohnungseigentumsvertrags aus einer vertraglichen Verpflichtung der Beklagten ihnen gegenüber ab und stützen ihren Anspruch auf Zustimmung zur Einverleibung unter Berufung auf § 43 WEG auf deren Miteigentum an der Liegenschaft. Damit liegen die Voraussetzungen für eine Zusammenrechnung nicht vor, weil weder ein tatsächlicher noch rechtlicher Zusammenhang im Sinne der Bestimmung des § 55 Abs 1 JN gegeben ist, sodass die Revisionszulässigkeit für jeden einzelnen Entscheidungsgegenstand gesondert zu beurteilen ist (§ 55 Abs 4 JN).
+3. Das Berufungsgericht hat eine Bewertung des Entscheidungsgegenstands insgesamt vorgenommen und sich dabei an der (Pauschal-)Bewertung der Kläger orientiert, ohne dass die Voraussetzungen für eine derartige Bewertung vorgelegen hätten. Es wird daher im Sinne der vorstehenden Ausführungen eine Bewertung jedes einzelnen Entscheidungsgegenstands vorzunehmen haben.
+4. Sollte sich dabei ergeben, dass der Wert des Entscheidungsgegenstands bei getrennter Betrachtung jeweils 30.000 EUR nicht übersteigt, käme eine Zuständigkeit des Obersten Gerichtshofs zur Entscheidung nur in Betracht, wenn das Gericht zweiter Instanz gemäß § 508 Abs 3 ZPO ausspricht, dass ein ordentliches Rechtsmittel doch zulässig sei. Ob der Schriftsatz der Beklagten in einem solchen Fall den Erfordernissen des § 508 Abs 1 ZPO entspricht oder ob er einer Verbesserung bedarf, wäre dann von den Vorinstanzen zu beurteilen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E117075

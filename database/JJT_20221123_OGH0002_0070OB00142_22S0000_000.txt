@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.11.2022
+Geschäftszahl
+7Ob142/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Faber und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei M* P*, vertreten durch die Winterheller Rechtsanwalts GmbH in Tamsweg, gegen die beklagte Partei D* AG *, vertreten durch die Pilz & Burghofer Rechtsanwalts GmbH in Wien, wegen 18.076,40 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 25. Mai 2022, GZ 3 R 56/22h-30, mit dem das Urteil des Landesgerichts Salzburg vom 23. Februar 2022, GZ 9 Cg 75/21m-26, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 1.253,88 EUR (darin enthalten  208,98 EUR an Umsatzsteuer) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen dem Kläger und der Beklagten besteht ein Kaskoversicherungsvertrag, dem die Allgemeinen Bedingungen für die Kollisionskaskoversicherung für Pkw/Kombi und LKW bis 1,5 Tonnen Nutzlast (AKKB 2016) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 1
+Was ist versichert?
+1. Versichert sind das Fahrzeug und seine Teile, die im versperrten Fahrzeug verwahrt und an ihm befestigt sind, gegen Beschädigung, Zerstörung und Verlust
+durch [...]
+1.8. darüber hinaus durch Unfall, das ist ein unmittelbar von außen plötzlich mit mechanischer Gewalt einwirkendes Ereignis;
+[...]“
+[2] 		 Am 7. August 2020 stellte der Kläger sein Fahrzeug auf einem Abstellplatz vor einem Fischteich ab und verließ es, ohne den ersten Gang ordnungsgemäß einzulegen und ohne die Parkbremse zu aktivieren. Als er das Fahrzeug verließ, war keine Bewegung erkennbar. Er ging zu einer Kollegin, um ihr einen USB-Stick zu geben und ließ das Fahrzeug für diesen Zeitraum von ein paar Minuten unbeaufsichtigt. Währenddessen löste sich der erste Gang und das Fahrzeug rollte in den Teich. Bei dem hier bestehenden Gefälle von 3 % bis 6 % hätte sowohl die elektronische Parkbremse als auch das ordnungsgemäße Einlegen der ersten Getriebestufe für sich allein ein Wegrollen des Fahrzeugs verhindert.
+[3] 		Das Berufungsgericht verneinte im Gegensatz zum Erstgericht das Vorliegen grober Fahrlässigkeit und gab der Klage statt.
+[4] 		Dagegen wendet sich die Revision der Beklagten.
+[5] 		Der Kläger beantragt in seiner Revisionsbeantwortung die Revision zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+[6] 		Da die Beklagte in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[7] 		1. Die behaupteten Mängel des Berufungsverfahrens wurden geprüft, liegen jedoch nicht vor (§ 510 Abs 3 Satz 3 ZPO).
+[8] 		Die Auslegung der Urteilsfeststellungen im Einzelfall bildet regelmäßig keine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO (RS0118891). Wenn das Berufungsgericht aus den erstgerichtlichen Feststellungen andere tatsächliche (und nicht nur andere rechtliche) Schlüsse zieht als das Erstgericht, ist eine Beweiswiederholung oder Beweisergänzung in der Berufungsverhandlung nicht erforderlich (RS0118191). Die Schlussfolgerungen des Berufungsgerichts aus den Urteilsfeststellungen des Erstgerichts sind unbedenklich.
+[9] 		2.1. Im Allgemeinen ist grobe Fahrlässigkeit anzunehmen, wenn eine außergewöhnliche und auffallende Vernachlässigung einer Sorgfaltspflicht (Pflicht zur Unfallverhütung) vorliegt und der Eintritt des Schadens als wahrscheinlich und nicht bloß als möglich voraussehbar ist (RS0030644). Das entscheidende Kriterium für die Beurteilung des Fahrlässigkeitsgrades ist nicht die Zahl der übertretenen Vorschriften, sondern die Schwere der Sorgfaltsverstöße und die Wahrscheinlichkeit des Schadenseintritts (RS0085332). Grobe Fahrlässigkeit erfordert, dass ein objektiv besonders schwerer Sorgfaltsverstoß bei Würdigung aller Umstände des konkreten Falls auch subjektiv schwerstens vorzuwerfen ist (RS0030272). In diesem Sinn ist für das Versicherungsvertragsrecht anerkannt, dass grobe Fahrlässigkeit dann gegeben ist, wenn schon einfachste, naheliegende Überlegungen nicht angestellt und Maßnahmen nicht ergriffen werden, die jedermann einleuchten müssen (RS0030331 [T6]; RS0080371 [T1]). Eine Reihe jeweils für sich allein nicht grob fahrlässiger Fehlhandlungen kann in ihrer Gesamtheit grobe Fahrlässigkeit begründen. Voraussetzung hiefür ist, dass sie in ihrer Gesamtheit als den Regelfall weit übersteigende Sorglosigkeit anzusehen sind (RS0030372). Gemäß § 23 Abs 5 StVO ist der Lenker eines Kraftfahrzeugs verpflichtet, dieses vor dem Verlassen so zu sichern, dass es nicht abrollen kann. Welche Maßnahmen zu ergreifen sind, um das Abrollen eines Fahrzeugs zu verhindern, hängt von den Umständen des Einzelfalls ab (RS0075129). Selbst ein Verstoß gegen Schutzgesetze wie etwa die StVO bedeutet als solcher nicht schon grobe Fahrlässigkeit, sondern muss der ohne Zweifel objektiv besonders schwere Verstoß auch subjektiv schwerstens vorwerfbar sein (RS0111723).
+[10] 		2.2. Im vorliegenden Fall ist die Rechtsansicht des Berufungsgerichts, es liege kein grob fahrlässiges Verhalten des Klägers vor, nicht korrekturbedürftig, weil bei dem hier bestehenden geringen Gefälle schon das ordnungsgemäße Einlegen des ersten Gangs ohne zusätzliche Aktivierung der elektronischen Parkbremse ein Wegrollen verhindert hätte und für den Kläger nichts darauf hindeutete, dass er den ersten Gang nicht ordnungsgemäß eingelegt hatte. Mangels Erkennbarkeit dieses Umstands kann vom Kläger aber auch nicht eine Kontrolle durch nochmaliges Einlegen des Gangs verlangt werden. Entgegen der Ansicht der Beklagten hat der Oberste Gerichtshof in seiner bisherigen Rechtsprechung auch nicht stets grobe Fahrlässigkeit angenommen, wenn ein KFZ-Lenker nicht sowohl die Handbremse angezogen als auch einen Gang eingelegt hatte (vgl etwa 7 Ob 58/77 = ZVR 1978/282 oder 9 ObA 154/16m).
+[11] 		3. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die klagende Partei hat auf die Unzulässigkeit des Rechtsmittels hingewiesen, sodass ihr Schriftsatz der zweckentsprechenden Rechtsverteidigung diente.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00142.22S.1123.000

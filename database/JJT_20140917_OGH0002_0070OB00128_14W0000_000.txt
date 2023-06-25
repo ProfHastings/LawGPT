@@ -1,0 +1,69 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.09.2014
+Geschäftszahl
+7Ob128/14w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei S***** W*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U***** Versicherungen AG, *****, vertreten durch Dr. Martin Wuelz, Rechtsanwalt in Innsbruck, wegen 70.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 15. Mai 2014, GZ 4 R 84/14f-14, womit das Urteil des Landesgerichts Innsbruck vom 7. April 2014, GZ 5 Cg 7/14d-10, bestätigt wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 2.052,54 EUR (darin enthalten 342,09 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Der Kläger erlitt am 23. 5. 2011 einen Unfall, bei dem er sich an der linken Schulter verletzte. Dadurch trat bei ihm eine 100%ige Berufsunfähigkeit ein. Darüber hinaus verblieb eine unfallkausale dauernde Invalidität, die einen Invaliditätsgrad von 28 % nicht übersteigt.
+In der Versicherungspolizze wird als versichertes Risiko genannt:
+„Dauernde Invalidität - Progression 400 %
+Versicherungssumme EUR 168.730
+Lineare Leistung ab jedem Invaliditätsgrad
+für den 25 % übersteigenden Teil des inv. Grades 		bis 50 %: zweifache Leistung
+für den 50 % übersteigenden Teil des inv. Grades 		bis unter 91 %: dreifache Leistung
+Leistung für dauernde Invalidität ab 91 % 			  EUR 674.920
+Rehabilitationspauschale: 			EUR   1.687,30
+Unfalltod					EUR 28.120,--
+Unfallkosten bis				EUR   5.000,--
+Bergungskosten bis				EUR  10.000,--
+...
+In der Polizze findet sich weiters der Hinweis:
+„Wenn dauernde Invalidität (ausgenommen Kompaktschutz) versichert ist:
+- unfallbedingte Berufsunfähigkeit (gilt nicht für Berufssportler):
+bei unfallbedingter Berufsunfähigkeit wird zumindest die volle Versicherungssumme für dauernde Invalidität geleistet, Art 7.6.“
+Dem Versicherungsvertrag liegen die U 500 Klipp & Klar Bedingungen für die Unfallversicherung 12/2007 (in der Folge AVB) zu Grunde. Sie lauten auszugsweise:
+„Versicherungsleistungen
+Was kann versichert werden? - Artikel 7 bis 14
+Dauernde Invalidität - Artikel 7
+Soweit nichts anderes vereinbart ist, gilt:
+...
+5. Varianten der dauernden Invalidität:
+...
+5.3 Progressive Leistung 25 % bis 400 %
+In Abänderung der Regelungen über die Höhe der Versicherungsleistungen in Art 7.2.2 ff leisten wir
+- bis zu einem Invaliditätsgrad von 25 % entsprechend dem Invaliditätsgrad
+- den 25 % übersteigenden Teil des Invaliditätsgrades bis unter 50 % mit 2-facher Leistung
+- den 50 % übersteigenden Teil des Invaliditätsgrades bis unter 91 % mit 3-facher Leistung
+- ab 91 % Invaliditätsgrad werden 400 % der Versicherungssumme geleistet.
+...
+6. Berufsunfähigkeit
+Wird der Versicherte durch den Versicherungsfall dauernd vollständig berufsunfähig, bezahlen wir im Fall der dauernden Invalidität - unabhängig vom Invaliditätsgrad - 100 % der dafür versicherten Summe (gilt nicht für Kompaktschutz). Ist die Leistung aufgrund der Progression höher als 100 %, erbringen wir die höhere Leistung. ...“
+Die Beklagte bezahlte vorprozessual an den Kläger die Versicherungssumme von 168.730 EUR.
+Der Kläger begehrt die Bezahlung weiterer 70.000 EUR. Er sei zu 28 % (das sei 40 % des Armwerts) dauernd invalid. Die Entschädigungsleistung setze sich daher zusammen aus 25 % der Versicherungssumme (168.730 EUR, das seien 42.182,50 EUR) und 3 % der zweifachen Versicherungssumme (337.460 EUR, sohin 10.123,80 EUR), zusammen 52.306,30 EUR. Darüber hinaus habe er einen Anspruch aus vollständiger Berufsunfähigkeit, und zwar unabhängig vom Invaliditätsgrad, in der Höhe von 100 % der Versicherungssumme. Es handle sich dabei um eine Zusatzleistung. Auf Grund der dauernden Invalidität von 28 % falle der Kläger in die zweite Progressionsstufe (zwischen 25 % und 50 %), sodass die doppelte Versicherungssumme heranzuziehen sei. Dem Kläger stehe daher eine Berufsunfähigkeitsentschädigung in der Höhe 337.460 EUR zu. Von der ihm gebührenden Entschädigungsleistung von insgesamt 389.766,30 EUR verbleibe nach Abzug der Zahlung der Beklagten ein Restanspruch von 221.036,30 EUR. Unter aliquoter Anrechnung der Zahlung sowohl auf die Invaliditätsentschädigung als auch auf die Berufsunfähigkeitsentschädigung begehre der Kläger vorerst nur Teilbeträge, und zwar für dauernde Invalidität 20.000 EUR und für Berufsunfähigkeit 50.000 EUR.
+Die Beklagte beantragt die Klagsabweisung. Sie habe dem Kläger die volle Versicherungssumme bezahlt und damit seine Ansprüche gedeckt. Beim Kläger liege nur ein Invaliditätsgrad von 23,1 % (das sei 33 % des Armwerts) vor, wofür ihm eine Leistung für dauernde Invalidität von 38.976,63 EUR zustehe. Da aber beim Kläger unfallkausal eine 100 %ige Berufsunfähigkeit eingetreten sei, sei auch der Differenzbetrag auf die Versicherungssumme gemäß Art 7.6 AVB zu leisten gewesen. In Art 7.5 und 7.6 AVB werde nur auf „Leistung“, nicht auf „Versicherungssumme“ Bezug genommen. Das habe jedem durchschnittlichen Versicherungsnehmer klar sein müssen. Erst bei einer Invalidität von 59 % übersteige die progressive Leistung die vereinbarte Versicherungssumme, sodass erst dann eine Leistung über die Versicherungssumme hinaus zu erbringen sei.
+Das Erstgericht wies das Klagebegehren ab. Bei einem Invaliditätsgrad zwischen 25 % und 50 % sei nicht die zweifache Versicherungssumme heranzuziehen, sondern nach den AVB die zweifache Leistung. Art 7.6 AVB regle, dass bei Vorliegen einer Berufsunfähigkeit unabhängig vom Invaliditätsgrad 100 % der Versicherungssumme zu bezahlen sei. Nur wenn die progressive Leistung für dauernde Invalidität gemäß Art 7.5 AVB die Versicherungssumme übersteige, werde eine höhere Leistung erbracht, was bei einer Invalidität von rund 59 % der Fall sei. Dieser Invaliditätsgrad liege beim Kläger unstrittig nicht vor.
+Das Berufungsgericht bestätigte die Entscheidung. Ausgehend vom Text der Versicherungspolizze, nach dem bei Versicherung der dauernden Invalidität und Eintritt einer unfallbedingten Berufsunfähigkeit zumindest die volle Versicherungssumme geleistet werde, und von Art 7.6 AVB sei die Entschädigung für Berufsunfähigkeit in der Höhe von 100 % der Versicherungssumme nur dann zu leisten, wenn die Entschädigung für dauernde Invalidität geringer sei. Eine Progression sei bei der Berufsunfähigkeitsentschädigung nicht vorgesehen. Dies ergebe sich aus der Textierung „zumindest die volle Versicherungssumme“. Dass neben der Berufsunfähigkeitsentschädigung nicht auch automatisch eine Invaliditätsentschädigung zu leisten sei, sei auch daraus abzuleiten, dass beim versicherten Risiko zwar dauernde Invalidität und Rehabilitation, Unfalltod, Unfallkosten und Bergekosten angeführt seien, nicht jedoch Berufsunfähigkeit.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil zur Auslegung der Art 7.5 und Art 7.6 der U 500 Klipp & Klar Bedingungen für die Unfallversicherungen 12/2007 oberstgerichtliche Judikatur fehle.
+Dagegen richtet sich die Revision des Klägers mit einem Abänderungsantrag, hilfsweise wird ein Aufhebungsantrag gestellt.
+Die Beklagte beantragt, die Revision des Klägers zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zulässig, sie ist aber nicht berechtigt.
+Nach ständiger Rechtsprechung sind allgemeine Versicherungsbedingungen nach Vertragsauslegungsgrundsätzen (§§ 914 f ABGB) auszulegen. Die Auslegung hat sich am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063, RS0112256). Die einzelnen Klauseln sind, wenn sie - wie hier - nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). Stets ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung der AVB zu berücksichtigen (RIS-Justiz RS0112256). Nach objektiven Gesichtspunkten als unklar aufzufassende Klauseln müssen so ausgelegt werden, wie sie ein durchschnittlich verständiger Versicherungsnehmer verstehen musste, wobei Unklarheiten im Sinne des § 915 ABGB zu Lasten des Verwenders der Bedingungen, also des Versicherers gehen (RIS-Justiz RS0017960).
+Eine private Unfallversicherung im Sinn der §§ 179 ff VersVG dient der Abdeckung bestimmter Folgen eines Unfalls, insbesondere auch der einer eingetretenen dauernden Invalidität. Es handelt sich dabei um eine Summenversicherung, weil die Leistung unabhängig vom Nachweis eines konkreten Vermögensnachteils in voller Höhe gebührt. Trotzdem dient die Invaliditätsentschädigung zumindest der pauschalen Abdeckung eines typischen Einkommensausfalls, aber eben nicht dem Ausgleich des konkreten Mehraufwands (RIS-Justiz RS0118777).
+Zweck der Berufsunfähigkeitsversicherung ist es, einen sozialen Abstieg des Versicherten im Arbeitsleben und in der Gesellschaft, das heißt im sozialen Umfeld, zu verhindern. Versicherte Gefahr ist der vorzeitige Rückgang oder der Verlust der beruflichen Leistungsfähigkeit (RIS-Justiz RS0111998).
+Die Berufsunfähigkeitsversicherung hat Berührungspunkte sowohl mit der Lebensversicherung als auch mit der Unfallversicherung. Der Begriff der Berufsunfähigkeit ist weiter als der der Invalidität (Wagner in Bruck/Moeller8 VVG, Anm B 20). Das Risiko der Arbeitsunfähigkeit wird im gewissen Umfang sowohl durch die Unfall- als auch durch die Berufsunfähigkeitsversicherung abgesichert (Dörner in Langheid/Wandt, Münch Komm zum VVG2, § 177 VVG Rn 12).
+Seit Inkrafttreten des VVG-Reformgesetzes ist in Deutschland nun neben der Unfallversicherung auch die Berufsunfähigkeitsversicherung gesetzlich normiert (§§ 172 bis 177 VVG). Die Bestimmungen finden sowohl auf die selbständige Berufsunfähigkeitsversicherung als auch auf die Berufsunfähigkeitszusatzversicherung Anwendung (Dörner aaO vor § 172 VVG Rn 1 und 5).
+Zwischen den Parteien besteht ein Unfallversicherungsvertrag. Das versicherte Risiko ist (nur) die dauernde Invalidität, nicht die Berufsunfähigkeit. Anderes konnte ein durchschnittlicher Versicherungsnehmer das Vertragswerk auch nicht verstehen. Art 7 AVB wird mit „dauernder Invalidität“ überschrieben. Die AVB enthalten in Art 7.6 nur eine Zusatzvereinbarung (nicht für Berufssportler) über die Berechnung der Leistung für eine unfallbedingte, dauernde Invalidität, wenn diese zusätzlich auch noch Berufsunfähigkeit bewirkt. Dann wird jedenfalls die volle Versicherungssumme für dauernde Invalidität geleistet, das heißt auch dann, wenn der Invaliditätsgrad dies nicht rechtfertigen würde. Nur für den Fall, dass auf Grund der Progression die Leistung nach Invaliditätsgrad höher als 100 % der Versicherungssumme ist, wird die höhere Leistung, die Versicherungssumme übersteigend, erbracht. Die Bestimmung ist klar, wenn man bedenkt, dass das versicherte Risiko (nur) die dauernde Invalidität ist.
+Die Ansicht des Klägers lauft darauf hinaus, dass er so gestellt werden will, wie wenn er sowohl eine Unfallversicherung als auch eine Berufsunfähigkeitsversicherung abgeschlossen hätte. Dies ist jedoch nicht der Fall. Art 7.6 AVB ist im Gegensatz zur Rechtsmeinung des Klägers für ihn nicht nachteilig, sondern bringt ihm den - hier von ihm auch lukrierten - Vorteil, dass er die gesamte Versicherungssumme erhält, obwohl er ausgehend vom Invaliditätsgrad nur Anspruch auf eine geringere Leistung hätte.
+Die Begriffe „versicherte Summe“ und „Leistung“ in Art 7.6 AVB sind weder unklar noch erklärungsbedürftig. Dass die „Versicherungssumme“ nicht mit der „Versicherungsleistung“ ident ist, muss einem durchschnittlichen Versicherungsnehmer klar sein.
+Hätte der Kläger sowohl eine Versicherungsleistung im Fall der dauernden Invalidität als auch im Fall der Berufsunfähigkeit erlangen wollen, hätte er beide Risiken eindecken müssen.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00128.14W.0917.000

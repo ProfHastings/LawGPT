@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.03.2021
+Geschäftszahl
+2Ob11/21p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden sowie den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Parzmayr und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei M***** S*****, vertreten durch Dr. Othmar Knödl und Mag. Manfred Soder, Rechtsanwälte in Rattenberg, gegen die beklagten Parteien 1. S***** K*****, und 2. *****AG, *****, beide vertreten durch Dr. Sabine Prantner, Rechtsanwältin in Innsbruck, wegen 71.864,39 EUR sA und Feststellung (Streitwert 5.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 30. Oktober 2020, GZ 1 R 111/20p-60, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Zum Mitverschulden des Klägers:
+[2] 		1.1. Das Verhalten eines Fußgängers, der entgegen § 76 Abs 6 StVO die Fahrbahn außerhalb eines Schutzwegs oder einer Kreuzung überqueren will, ist in § 76 Abs 4 lit b und Abs 5 StVO geregelt. Danach hat er, bevor er auf die Fahrbahn tritt, sorgfältig zu prüfen, ob er die Straße noch vor Eintreffen von Fahrzeugen mit Sicherheit überqueren kann (RS0075656). Er hat sie sodann in angemessener Eile zu überqueren (RS0075672) und darauf zu achten, dass der Fahrzeugverkehr nicht behindert wird (2 Ob 140/16a mwN).
+[3] 		1.2. Nach ständiger Rechtsprechung muss sich jeder Fußgänger weiters beim Überqueren einer „breiten Fahrbahn“ bei Erreichen ihrer Mitte vergewissern, ob sich nicht von seiner rechten Seite her ein Fahrzeug nähert; er muss stehen bleiben, wenn ein Fahrzeug schon so nahe ist, dass er die Fahrbahn nicht mehr vor diesem gefahrlos überschreiten kann (2 Ob 193/19z mwN; RS0075648, RS0075656).
+[4] 		Bei den dazu ergangenen Entscheidungen (vgl RS0075656) war die Fahrbahn – von Besonderheiten im Sachverhalt wie in 2 Ob 24/02x und 2 Ob 28/07t (Fahrbahnbreite 6,15 m bzw 6 m bei jeweils langsamer Gehgeschwindigkeit) und 2 Ob 44/08x (vor Erreichen der Mitte wegen aufgestauter Fahrzeuge keine Sicht nach rechts), abgesehen – jeweils mindestens 6,9 m breit (vgl auch 2 Ob 266/77). Bei der Fahrbahnbreite von 5,8 m wurde dagegen nicht von einer „breiten Straße“ ausgegangen (2 Ob 140/16a).
+[5] 		Ob hier bei einer Straßenbreite von 6,4 m eine „breite Straße“ vorliegt, kann jedoch dahingestellt bleiben.
+[6] 		1.3. Angesichts der zu Punkt 1.1. aufgezeigten Judikatur hätte der Kläger die Fahrbahn nämlich überhaupt nicht betreten dürfen, weil sich zu diesem Zeitpunkt (2,4 sek vor der Kollision) der Erstbeklagte bei seiner Annäherungsgeschwindigkeit von 42 km/h auf der gerade verlaufenden Straße ohne Sichtbehinderungen nur noch  maximal 28 m von der Kollisionsstelle entfernt befand. Dass der Erstbeklagte in dieser Situation den Unfall mit einer bloß geringfügigen Verminderung der Geschwindigkeit (vgl 2 Ob 193/19z, wonach eine Bremsverzögerung von 2 bis 2,5 m/sek² schon nicht mehr als geringfügig anzusehen ist; vgl RS0027377) verhindern hätte können, behauptet selbst der hiefür beweispflichtige (RS0112234) Kläger nicht. Die Aussage der Entscheidung 2 Ob 88/82, dass eine Behinderung iSd § 76 Abs 5 StVO nur dann vorliegen solle, wenn das Verhalten des Fußgängers einen Kraftfahrer zu einer Vollbremsung nötigte, hat der Senat kürzlich in der Entscheidung 2 Ob 193/19z ausdrücklich abgelehnt.
+[7] 		1.4. Maßgeblich ist bei der Verschuldensabwägung vor allem die Größe und Wahrscheinlichkeit der durch das schuldhafte Verhalten bewirkten Gefahr und die Wichtigkeit der verletzten Vorschrift für die Sicherheit des Verkehrs (RS0027389) sowie der Grad der Fahrlässigkeit (RS0027466). Unter Berücksichtigung dieser Kriterien wirft die Annahme gleichteiligen Verschuldens durch die Vorinstanzen keine erhebliche Rechtsfrage auf (RS0087606; RS0042405 [T15]).
+[8] 		2. Zum Schmerzengeld:
+[9] 		2.1. Richtig ist, dass das Schmerzengeld grundsätzlich eine einmalige Abfindung für alles Ungemach des Geschädigten sein soll (RS0031307; RS0031191; RS0031055). In diese Globalbemessung sind auch künftige, nach dem gewöhnlichen Verlauf der Dinge zu erwartende Unfallsfolgen miteinzubeziehen. Diese sind daher auch grundsätzlich mit der Globalbemessung abgegolten (vgl 2 Ob 8/05y; 6 Ob 185/09p; RS0031300 [T1 und T2]; RS0031307 [T3, T4, T9 und T26]).
+[10] 		2.2. Eine Globalbemessung ist lediglich dann nicht vorzunehmen, wenn noch gar kein Dauer-(End-)zustand vorliegt, weshalb die Verletzungsfolgen noch nicht oder nicht im vollen Umfang mit hinreichender Sicherheit überblickt werden können, oder die Schmerzen in ihren Auswirkungen für den Verletzten zum Zeitpunkt des Schlusses der Verhandlung erster Instanz noch gar nicht oder nicht endgültig überschaubar erschienen (2 Ob 240/10y; 2 Ob 60/20t; RS0031082).
+[11] 		2.3. Hier steht fest, dass sich eine gänzliche Schmerzfreiheit des Klägers nicht mehr einstellen kann. Er wird pro Jahr weitere Schmerzen im Umfang von zumindest 10 Tagen leichten Schmerzen zu erleiden haben, wobei eine Ausweitung auch auf mittlere und starke Schmerzen jederzeit möglich ist und derzeit nicht prognostiziert werden kann.
+[12] 		Angesichts dieser Feststellungen ist die von den Vorinstanzen vorgenommene Teilbemessung des Schmerzengeldes vertretbar und wirft keine erhebliche Rechtsfrage auf.
+[13] 		3. In Bezug auf die geltend gemachten Haushaltshilfe- und Pflegekosten etc verweist der Kläger nur auf § 273 ZPO. Auch damit wird keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufgezeigt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00011.21P.0325.000

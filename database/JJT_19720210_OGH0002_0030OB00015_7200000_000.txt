@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.02.1972
+Geschäftszahl
+3Ob15/72
+Norm
+AO §49 Abs2;
+AO §53;
+AO §55b;
+AO §55c;
+EO §7 Abs2;
+Kopf
+SZ 45/16
+Spruch
+Der Bestätigungsbeschluß kann den Ausgleich nicht bloß hinsichtlich der Verwertungsvollmacht und der Liquidation des gesamten Vermögens des Ausgleichsschuldners bestätigen oder versagen.
+Unvollständigkeiten in den Angaben über die wesentlichen Bestimmungen des Ausgleichs sind für die Wirkung des Bestätigungsbeschlusses unbeachtlich, wenn der Beschluß eindeutig erkennen läßt, daß der bestimmt bezeichnete, von den Gläubigern angenommene Ausgleich bestätigt wird
+Während der Tätigkeit des Sachwalters kann ein Verzug des Schuldners iS des § 7 Abs 2 EO nicht eintreten
+OGH 10. 2. 1972, 3 Ob 15/72 (OLG Wien 3 R 212/71; HG Wien Sa 15/70)
+Text
+Die betreibenden Gläubiger Arthur G und Rudolf P beantragten auf Grund des Anmeldungsverzeichnisses des HG Wien, Sa 15/70, beim Titelgericht Fahrnisexekution gegen die Ausgleichsschuldnerin zur Hereinbringung der Forderungen von S 4072.- und S 4057.-.
+Das Erstgericht wies beide Exekutionsanträge ab. Der bei der Tagsatzung am 10. 6. 1970 angenommene Ausgleich hatte nämlich folgenden wesentlichen Inhalt: Die Ausgleichsschuldnerin bezahlt an die nicht bevorrechteten Gläubiger 40%, zahlbar binnen zwölf Monaten, und unterwirft sich bis zur Erfüllung des Ausgleichs der Überwachung durch einen Sachwalter; diesem erteilt sie bis 31. 12. 1973 unwiderruflich eine Verwertungsvollmacht hinsichtlich ihres gesamten Vermögens; ein die vorgesehene Quote übersteigender Erlös hat dem nicht bevorrechteten Gläubigern anteilmäßig zugutezukommen.
+Mit Beschluß vom 21. 8. 1970 war dieser Ausgleich vom Ausgleichsgericht bestätigt und im Bestätigungsbeschluß als wesentliche Bestimmungen dieses Ausgleichs folgendes angeführt worden: "1. Die bevorrechteten Forderungen werden iS der §§ 23 und 45 AO durch den Ausgleich nicht berührt und nach dem ihnen gesetzlich zustehenden Prioritätsrechte voll befriedigt. 2. Alle sonstigen Gläubiger erhalten eine 40%ige Quote, zahlbar binnen 12 Monaten nach Annahme des Ausgleichs. 7. Die Ausgleichsschuldnerin unterwirft sich gemäß § 55 Abs 2 AO bis zur Erfüllung des Ausgleiches der Überwachung durch Dr Heinz U, Rechtsanwalt, als Sachwalter der Gläubiger".
+Bei diesem Sachverhalt vertrat das Erstgericht die Ansicht, es handle sich bei dem im Titelverfahren angenommenen und bestätigten Ausgleich um eine Liquidationsausgleich; vor der Beendigung der Liquidation könne eine Säumnis der Ausgleichsschuldnerin nicht eintreten, daher sei die Fälligkeit der beiden Ansprüche nicht gegeben (§ 7 Abs 2 EO).
+Infolge Rekurses der beiden betreibenden Gläubiger änderte das Rekursgericht diesen Abweisungsbeschluß dahin ab, daß es die beantragten Fahrnisexekutionen im wesentlichen bewilligte. Es verneinte das Vorliegen eines Liquidationsausgleiches, weil "der Ausgleichsvorschlag hinsichtlich der im Bestätigungsbeschluß nicht aufscheinenden Vereinbarungen über die Liquidation des Unternehmens und die Verwertung der Liegenschaften der Ausgleichsschuldnerin nicht Inhalt des durch den Bestätigungsbeschluß geschaffenen Ausgleichs geworden" sei.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 49 Abs 2 AO hat der Bestätigungsbeschluß des Ausgleichsgerichtes die wesentlichen Bestimmungen des Ausgleichs anzugeben. Unvollständigkeiten in diesen Angaben sind für die Beschlußwirkung unbeachtlich, wenn der Beschluß eindeutig erkennen läßt, daß der bestimmt bezeichnete, von den Gläubigern angenommene Ausgleich bestätigt wird (Bartsch - Pollak[3] II, 417). Der vorliegende Bestätigungsbeschluß enthält keine Aussprüche darüber, daß der am 10. 6. 1970 abgeschlossene Ausgleich (Tagsatzungsprotokoll vom 10. 6. 1970, Sa 15/70-45) etwa bloß hinsichtlich der Verwertungsvollmacht und der Liquidation des gesamten Vermögens der Ausgleichsschuldnerin abgeändert oder versagt werde. Dies wäre im übrigen auch unzulässig (SZ 11/124, Bartsch - Pollak[3] II, 417). Das Erstgericht ist daher bei seiner Entscheidung über die beiden Exekutionsanträge zutreffend davon ausgegangen, daß der angenommene und bestätigte Ausgleich inhaltlich einen Liquidationsausgleich (Bartsch - Pollak[3] II, 93 und 477, ZBl 1934/103) darstellt, für dessen Durchführung lediglich der Sachwalter verantwortlich und auf dessen Durchführung somit die Ausgleichsschuldnerin keinen Einfluß nehmen kann. Es kann daher während der Tätigkeit des Sachwalters ein Verzug des Schuldners iS des § 7 Abs 2 EO nicht eintreten (ZBl 1933/247). Die Verpflichtungen aus dem Ausgleich sind während der Dauer seiner Tätigkeit vom Sachwalter (für den Ausgleichsschuldner) zu erfüllen. Eine Exekutionsführung einzelner Ausgleichsgläubiger ist daher nach ständigen Rechtsprechung erst nach der Beendigung der Liquidation zulässig (SZ 31/13, RZ 1971, 32; Neumann - Lichtblau[4], 111).

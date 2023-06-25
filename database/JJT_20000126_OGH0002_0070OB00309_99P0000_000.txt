@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2000
+Geschäftszahl
+7Ob309/99p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schalich als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Tittel, Hon. Prof. Dr. Danzl, Dr. Schaumüller und Dr. Kuras als weitere Richter in der Rechtssache der klagenden Partei K*****, vertreten durch Dr. Herbert Felsberger, Rechtsanwalt in Klagenfurt, gegen die beklagten Parteien 1. Sonja W*****, und 2. mj. Michael W*****, der Zweitbeklagte vertreten durch die Erstbeklagte als seine Mutter, diese vertreten durch Dr. Gerald Herzog und andere Rechtsanwälte in Klagenfurt, wegen restlich S 750.000,-- sA, über die Revision (Revisionsstreitwert S 604.463,--) des Zweitbeklagten gegen das Urteil des Oberlandesgerichtes Graz als Berufungsgericht vom 18. August 1999, GZ 4 R 114/99p-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+In der ao Revision bezeichnete Rechtsfragen (§ 506 Abs 1 Z 5 ZPO):
+a) Es fehle eine Auseinandersetzung des Obersten Gerichtshofes mit der Frage, wie der Schadensbegriff im Regressverfahren des Feuerversicherers gegenüber dem Haftpflichtversicherer eines mj. Schädigers gemäß § 1310 dritter Fall ABGB zu definieren sei; konkret "ob der (zivilrechtliche) Gesamtschaden des Geschädigten zu berücksichtigen ist, was zwar bei der Geltendmachung der Direktansprüche des Geschädigten unstrittig ist oder aber nur der gemäß § 67 VersVG auf den Feuerversicherer übergehende Schaden, was für dessen Regress wohl naheliegend wäre".
+b) In der Judikatur bleibe die Frage offen, ob dann, wenn die Deckungssumme aus der Haftpflichtversicherung jene aus der Feuerversicherung übersteige, die vom Berufungsgericht im gegenständlichen Fall angenommene Deckungsfondsberechnung stattzufinden habe (Aufteilung des Schadens im Verhältnis der Deckungsfonds zueinander und nicht, wie von Harrer in Schwimann ABGB2
+VII Rz 27 zu § 1310 vertreten im Verhältnis 1 : 1).
+c) In der bisherigen Judikatur sei die Frage ungeklärt, welche Kriterien einer Billigkeitsentscheidung gemäß § 1310 dritter Fall ABGB bei Existenz zweier Versicherungen mit ausreichender Deckungssumme zugrundezulegen seien; insbesondere, ob auch die Höhe der beiden Versicherungssummen, soferne jede einzelne den Regressanspruch des Feuerversicherers erreiche bzw übersteige, ein Abgehen von der von Harrer aaO vertretenen Meinung nach Ansicht des Obersten Gerichtshofes rechtfertige.
+d) Es fehle auch Judikatur zur Frage, ob und inwieweit die Mitverursachung auch des mj. Kindes des Geschädigten unter Bedachtnahme auf die Versicherungsdeckung des Geschädigten im Rahmen einer Haftungsaufteilung mitzuberücksichtigen sei.
+Rechtliche Beurteilung
+Die Rechtsansicht der zweiten Instanz ist durch OGH-Judikatur gedeckt:
+Ad a) Dass die Billigkeitserwägungen gemäß § 1310 dritter Fall ABGB nicht nur den von der Versicherung des Geschädigten gedeckten, sondern den gesamten Schaden zu bedenken haben, kann nicht ernsthaft bezweifelt werden (vgl MGA ABGB35 § 1310/87). Es lässt sich nicht vertreten, in Fällen, in denen die Feuerversicherung des Geschädigten nur einen Teil des Schadens abdeckt und der andere Teil etwa - wie im vorliegenden Fall - von der Haftpflichtversicherung des Schädigers bereits bezahlt wurde, letzteren Umstand bei den nach § 1310 dritter Fall ABGB anzustellenden Erwägungen unberücksichtigt zu lassen. Darin kann aber keine Rechtsfrage von erheblicher Bedeutung im Sinne des § 502 Abs 1 ZPO erblickt werden.
+Ad b) Die in den einschlägigen Entscheidungen des Obersten Gerichtshofes angestellten Erwägungen, wonach dann, wenn die Deckungsfonds beider Versicherungen den Schaden übersteigen, dieser grundsätzlich im Verhältnis der Deckungsfonds zueinander zu tragen sei, setzen keineswegs voraus, dass die Deckungssumme der Versicherung des Geschädigten jene der Haftpflichtversicherung des Schädigers übersteige. Ein solches Erfordernis erschiene auch nicht sachlich begründbar. In den vom Berufungsgericht zitierten Fällen SZ 69/156 und 7 Ob 200/98g traf dies nur zufälligerweise zu. Hingegen lag etwa zu 7 Ob 1/88 die auch im vorliegenden Fall gegebene Konstellation vor, dass also die Deckungssumme der Haftpflichtversicherung des Schädigers jene der Feuerversicherung des Geschädigten überstieg.
+Ad c) Das Berufungsgericht folgte zur Frage der Schadensaufteilung gemäß § 1310 dritter Fall ABGB der zitierten oberstgerichtlichen Judikatur (vgl zuletzt 7 Ob 200/98g mwN). Der Revisionswerber bringt nichts vor, was an der Richtigkeit dieser Judikatur zweifeln ließe. Dort wurde eingehend begründet, dass dann, wenn die Deckungsfonds beider Versicherungen den Schaden übersteigen, dieser grundsätzlich im Verhältnis der Deckungsfonds zueinander zu tragen ist.
+Ad d) Die Vorinstanzen haben im Hinblick auf die Beteiligung des 5-jährigen Sohnes des Geschädigten an der Brandverursachung eine Solidarhaftung des Beklagten angenommen. Diese Auffassung steht im Einklang mit der stRsp zu § 1302 ABGB. Auch in diesem Zusammenhang liegt daher kein tauglicher Revisionsgrund vor.

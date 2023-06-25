@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.05.1961
+Geschäftszahl
+6Ob120/61
+Norm
+ABGB §863;
+ABGB §1090;
+Mietengesetz §16a;
+Kopf
+SZ 34/80
+Spruch
+Vereinbarungen im Sinne des § 16a MietG., die schon vor der MietG.- Novelle 1955 für den Fall der Aufhebung des Verbotes einer Zinsvereinbarung geschlossen wurden, sind gültig.
+Die Bezugnahme auf den örtlich üblichen Mietzins im Bestandvertrag genügt zum Erfordernis der Bestimmbarkeit des Entgelts.
+Zur Verschweigung des Rechtes auf Leistung eines höheren Mietzinses.
+Entscheidung vom 17. Mai 1961, 6 Ob 120/61.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hob die auf die Kündigungsgrunde des § 19 Abs. 1 und Abs. 2 Z. 1 MietG. gestützte Aufkündigung betreffend die Wohnung der beklagten Partei im Haus der klagenden Partei als rechtsunwirksam auf. Es stellte fest, daß in dem zwischen den Streitteilen am 10. Jänner 1950 abgeschlossenen Mietvertrag folgende Bestimmung enthalten sei: "Sollten die Beschränkungen für die Mietzinsbildung wegfallen, so gilt ein örtlich üblicher Mietzins als vereinbart."
+Mit Schreiben vom 16. November 1959 habe der Kläger den Beklagten aufgefordert, einen Grundmietzins von 700 S pro Monat zu zahlen, widrigenfalls die Wohnung mit Wirkung vom 30. April 1960 aufgekundigt würde. Am 30. November 1959 habe dann der Kläger dem Beklagten einen Grundmietzins von 700 S pro Monat vorgeschrieben, was vom Beklagtenvertreter mit Schreiben vom 7. Jänner 1960 abgelehnt worden sei. Nach dem Gutachten des Sachverständigen Dipl.- Ing. A. sei bei freier Mietzinsbildung für die aufgekundigte Wohnung ein erzielbarer und ortsüblicher Mietzins von 14 S pro Quadratmeter Nutzfläche, somit bei einer solchen von 49.59 m2 ein Zins von 695 S monatlich, angemessen, wobei neben diesem Mietzins die das Mietobjekt betreffenden Abgaben und Betriebskosten noch anrechenbar seien.
+Auf Grund dieses Sachverhaltes hob das Erstgericht die Kündigung auf, weil nach seiner Ansicht durch die MietG.-Novelle 1955 die durch das Zinsstoppgesetz aufrechterhaltenen Beschränkungen der früheren preisrechtlichen Vorschriften nicht ex tunc, sondern lediglich ex nunc weggefallen seien. Eine freie Mietzinsbildung sei daher nur dann möglich, wenn die betreffende Vereinbarung nach dem Inkrafttreten der MietG.-Novelle 1955 getroffen werde; diesfalls sei die Vereinbarung, auf die sich die Aufkündigung stütze, aber bereits im Jahr 1950 geschlossen worden.
+Das Berufungsgericht gab der Berufung der klagenden Partei Folge, hob das erstgerichtliche Urteil unter Rechtskraftvorbehalt im Sinne des § 519 Z. 3 ZPO. auf und verwies die Sache zur neuerlichen Verhandlung und Entscheidung an das Prozeßgericht zurück.
+Der Oberste Gerichtshof gab den Rekursen beider Parteien keine Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Berufungsgericht hat im Gegensatz zum Erstgericht mit Recht angenommen, daß auch solche Vereinbarungen im Sinne des § 16a MietG., die schon vor dem Zeitpunkt des Inkrafttretens der MietG.- Novelle 1955 für den Fall der Aufhebung des Verbotes einer Zinsvereinbarung geschlossen wurden, gültig sind. Es genügt, zur Widerlegung der vom Rekurs des Beklagten dagegen vorgebrachten Argumente auf die ausführliche Begründung der auch vom Berufungsgericht zitierten Entscheidung des Obersten Gerichtshofes MietSlg. 7227 zu verweisen.
+Entgegen der vom Beklagten in seinem Rekurs vorgetragenen Ansicht fehlt der klagegegenständlichen Vereinbarung vom 10. Jänner 1950 auch nicht die Bestimmbarkeit des für die Wohnung zu leistenden Entgeltes. Das Entgelt muß beim Bestandvertrag nicht unmittelbar festgesetzt sein, der Vertrag muß nur die Elemente enthalten, welche seine Bestimmung ermöglichen (2 Ob 429/60; Klang 2. Aufl. V 14 zu § 1090 ABGB.). Daß die Bezugnahme auf einen örtlich üblichen Mietzins dem Erfordernis der Bestimmbarkeit des Entgeltes genügt, geht auch daraus hervor, daß der Gesetzgeber selbst im § 6 Abs. 8 NeuvermietungsG. auf die für die Miete "ortsüblichen Bedingungen" verwiesen hatte.
+Das Berufungsgericht hat es auch entgegen der Ansicht des Beklagten mit Recht abgelehnt, eine Verschweigung der Forderung des Klägers auf die Leistung eines ortsüblichen Mietzinses deshalb anzunehmen, weil er erst mit Schreiben vom 16. November 1959, also fast vier Jahre nach dem Inkrafttreten der MietG.-Novelle 1955, ein diesbezügliches Verlangen an den Beklagten gestellt habe. Eine Verschweigung könnte nur angenommen werden, wenn sich im Sinne des § 863 ABGB. aus dem Verhalten des Klägers zweifelsfrei ergäbe, daß er seine Rechte aus der Vereinbarung vom 10. Jänner 1950 nicht mehr geltend machen wolle. Dies kann gerade auf dem Gebiet des Mietenrechtes im Hinblick darauf, daß die Auswirkungen der MietG.- Novelle 1955 erst allmählich in der Rechtsprechung ihren Niederschlag fanden, diesfalls nicht bejaht werden. Die Bestimmung des § 1486 Z. 4 ABGB. ist aber für den vorliegenden Fall bedeutungslos, weil die höheren Zinsbeträge ohnehin erst ab 1. Dezember 1959, also nicht rückwirkend, begehrt wurden.
+Wenn aber das Berufungsgericht in bezug auf einen "örtlich üblichen Mietzins" noch eine Ergänzung des Gutachtens des in erster Instanz beigezogenen Sachverständigen für erforderlich hält, so ist dies in erster Linie ein Akt der Beweiswürdigung, die dem Berufungsgericht als der letzten Tatsacheninstanz zusteht und sich der Überprüfung in der dritten Instanz entzieht. Wenn das zweite Gericht noch klargestellt sehen will, welcher Zeitpunkt für die Bestimmung des in der Vereinbarung vom 10. Jänner 1950 genannten, örtlich üblichen Zinses nach dem Willen der Parteien in Betracht komme, so wird dies jedenfalls deshalb von Bedeutung sein, weil nicht der im Zeitpunkt des Erhöhungsbegehrens - also im November 1959 -, sondern der im Zeitpunkt des Inkrafttretens der MietG.-Novelle 1955 ortsübliche Mietzins im Sinne der Vereinbarung vom 10. Jänner 1950 in Betracht kommen könnte, da ja bereits damals im Sinne dieser Vereinbarung die Beschränkungen für die Mietzinsbildung weggefallen sind.

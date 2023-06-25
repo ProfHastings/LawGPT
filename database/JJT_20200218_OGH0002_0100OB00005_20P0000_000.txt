@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.02.2020
+Geschäftszahl
+10Ob5/20p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie die Hofrätinnen Dr. Fichtenau und Dr. Grohmann, den Hofrat Mag. Ziegelbauer und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei P*****, vertreten durch Dr. Roland Reichl, Rechtsanwalt in Salzburg, gegen die beklagte Partei T*****, vertreten durch Mag. Gernot Strobl, Rechtsanwalt in Salzburg, wegen 19.785,68 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 4. November 2019, GZ 6 R 85/19s-14, mit dem das Urteil des Landesgerichts Salzburg vom 20. Mai 2019, GZ 9 Cg 105/18v-10, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 1.332,54 EUR (darin enthalten 222,09 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Kläger platzierte bei der beklagten Buchmacherin unter Verwendung des Online-Tools der *****-App und einer im Wettlokal der Beklagten ausgestellten und aktivierten *****-Karte fünf gleiche Wetten für eine „Systemwette 8 aus 9“, was das EDV-System zuließ. Die Beklagte hatte für die Systemwette vorab ein Gewinnlimit von 30.000 EUR festgesetzt. 8 von 9 Tipps waren richtig. Der Wettgewinn für eine Wette betrug 4.580,02 EUR zuzüglich eines Bonus. Unmittelbar nach Feststehen des Wettergebnisses wies die App für den Kläger ein Guthaben von 24.772,70 EUR aus.
+Die Wettbedingungen der Beklagten enthielten folgende Regelung:
+„Die Auszahlung der Wetten erfolgt nur bis zur Höhe des vom Buchmacher festgesetzten Limits. Wenn der Wettkunde eine Wette platziert, deren Auszahlung das bereits bekannt gegebene Gewinnlimit überschreitet, haftet der Buchmacher nicht für den darüber hinausgehenden Betrag. Die Wettauszahlungen werden in diesem Fall entsprechend reduziert.“
+Gestützt auf die Bedingungen und das für die Wette festgesetzte Gewinnlimit zahlte die Beklagte dem Kläger den Wettgewinn samt Bonus nur für eine der fünf Systemwetten aus.
+Das Erstgericht wies das Begehren des Klägers auf Zahlung des restlichen Wettgewinns samt Bonus ab.
+Das Berufungsgericht gab dem Klagebegehren statt und ließ die Revision zur Frage der Auslegung der Wettbedingungen zu.
+Die – beantwortete – Revision der Beklagten ist entgegen dem nicht bindenden (§ 508a Abs 1 ZPO) Ausspruch des Berufungsgerichts nicht zulässig.
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof ist auch zur Auslegung von Klauseln in Allgemeinen Geschäftsbedingungen (AGB) nicht „jedenfalls“, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind. Für die Anrufbarkeit des Obersten Gerichtshofs genügt es nicht, dass es an einer höchstgerichtlichen Rechtsprechung zu gleichen oder ähnlichen Klauseln mangelt (RIS-Justiz RS0121516 [T3 und T4]).
+2. Allgemeine Vertrags- oder Geschäftsbedingungen sind so auszulegen, wie sie sich einem durchschnittlichen Angehörigen aus dem angesprochenen Adressatenkreis erschließen. Ihre Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RS0008901). Unklarheiten gehen zu Lasten des Verwenders (RS0008901 [T41]).
+3. Nach Ansicht des Berufungsgerichts rechtfertigen die Wettbedingungen, die eine Reduktion des Wettgewinns für den Fall des Überschreitens des Gewinnlimits vorsehen, nicht die Weigerung der Beklagten, alle, insgesamt das Gewinnlimit nicht überschreitenden Gewinne auszuzahlen.
+4. Diese Beurteilung hält sich im Rahmen der höchstgerichtlichen Rechtsprechung zur Auslegung von Allgemeinen Geschäftsbedingungen. Anders als in dem zu 8 Ob 112/03h entschiedenen Fall (Platzierung von vier identen Internet-Pferdewetten) enthalten die Wettbedingungen der Beklagten keine ausdrückliche Regelung über die Reduktion der einzelnen Wettgewinne bei Abgabe mehrerer gleicher Wetten, deren Gesamtgewinn ein Limit übersteigt. Bei den Pferdewetten hatte zudem der Gewinn aus jeder einzelnen Wette das Gesamtlimit überschritten. Dieses Ergebnis sollte nach den Überlegungen des Obersten Gerichtshofs zu 8 Ob 112/03h durch die Regelung in den Geschäftsbedingungen „Gibt ein Wetter mehrere gleiche Wetten … ab, deren Gesamtgewinn das oben genannte Limit übersteigt, hat der Buchmacher das Recht, diese Wetten anteilig so zu reduzieren, wie dies zur Erhaltung des Gewinnlimits je Wette erforderlich ist ...“ verhindert werden. Der von der Beklagten gewählte Wortlaut der Auszahlungsbedingungen steht einer Auslegung, dass die Klausel nur eine Auszahlung des über dem Gewinnlimit liegenden Gesamtgewinns verhindern soll, nicht zwingend entgegen.
+5. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO. Der Kläger hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0100OB00005.20P.0218.000

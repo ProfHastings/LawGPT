@@ -1,0 +1,45 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.2012
+Geschäftszahl
+9ObA117/12i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten des Obersten Gerichtshofs Dr. Rohrer als Vorsitzenden und die Hofräte des Obersten Gerichtshofs Dr. Hopf und Mag. Ziegelbauer sowie die fachkundigen Laienrichter KR Mag. Paul Kunsky und Claudia Holzmann als weitere Richter in der Arbeitsrechtssache der klagenden Partei A***** L*****, vertreten durch Dr. Tassilo Wallentin, Rechtsanwalt in Wien, gegen die beklagte Partei C***** AG, *****, vertreten durch Hasberger, Seitz & Partner Rechtsanwälte GmbH in Wien, wegen 11.979,66 EUR brutto sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse: 9.360,03 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 30. Juli 2012, GZ 8 Ra 28/12i-49, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+1. Im Revisionsverfahren ist nur mehr die Einstufung des Klägers nach dem Kollektivvertrag für Angestellte in Unternehmen im Bereich Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik (IT-KV) strittig. § 15 IT-KV lautet in der Fassung des hier anzuwendenden Rahmens vom 1. 1. 2007 auszugsweise:
+„§ 15 Tätigkeitsfamilien, Vorrückungsstufen und Mindestgrundgehälter
+I. Allgemeine Bedingungen:
+(1) Die Tätigkeiten in den Unternehmen werden grundsätzlich in zentrale, allgemeine, spezielle Tätigkeiten (ST 1 und ST 2) und Leitungstätigkeiten eingeteilt.
+(2) Die Tätigkeitsfamilien werden in Abschnitt II beschrieben und stellen verbindliche Einstufungskriterien dar.
+(3) Die angeführten Berufsbilder in den Tätigkeitsfamilien sind beispielhaft.
+(4) Der Dienstnehmer ist aufgrund seiner Tätigkeit in die entsprechende Tätigkeitsfamilie einzustufen. […]
+II. Tätigkeitsfamilien:
+[...]
+Allgemeine Tätigkeiten (AT):
+Allgemeine administrative, kaufmännische sowie technische Tätigkeiten.
+[…]
+Assistenz: Servicemanagement, Marketing, Schulung, Einkauf, Verkauf, Personal, Recht
+[...]
+Spezielle Tätigkeiten (ST 1):
+Spezielle administrative, kaufmännische, technische sowie IKT-Tätigkeiten, (IKT = Informations- und Kommunikationstechnologie) welche einer Qualifikation und/oder Verantwortung bedürfen und selbstständig ausgeführt werden.
+IKT-Tätigkeiten ohne Berufserfahrung aber mit fachspezifisch-berufsbildender Ausbildung (Berufsbildende Höhere Schule, Fachhochschule, Universität) oder eine dieser Ausbildung entsprechenden Praxis
+[...]
+Sachbearbeitung: Verwaltung/Finanz/Personal/Haus/Einkauf und Verkauf
+[...]
+Spezielle Tätigkeiten (ST 2):
+Spezielle kaufmännische, technische sowie IKT-Tätigkeiten, welche besonderer Qualifikation und/oder Verantwortung bedürfen und selbstständig ausgeführt werden sowie fachliche und/oder personelle Managementaufgaben.
+Bei Vorliegen obiger Tätigkeitsbeschreibung auch IKT-Tätigkeiten mit fachspezifischer-berufsbildender Ausbildung (Berufsbildende Höhere Schule, Fachhochschule, Universität) mit einer Praxis bis max 6 Monate in der Regelstufe ST 1.
+IKT-Tätigkeiten
+[…]
+Vertrieb (Key Account)
+[…]“
+Rechtliche Beurteilung
+2. Für die Einstufung in eine bestimmte Tätigkeitsfamilie ist - wie sich dies hier insbesondere auch aus § 15 Abs 4 IT-KV ergibt - die Art der ausgeübten Tätigkeit maßgeblich (9 ObA 18/10b; RIS-Justiz RS0064705 ua). Die Frage der Einstufung anhand der konkreten Tätigkeit in eine Kollektivvertragsgruppe kann immer nur nach den Umständen des Einzelfalls beurteilt werden und stellt damit - soweit es nicht um eine allgemeine Auslegungsfrage hinsichtlich des Kollektivvertrags geht - regelmäßig keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO dar (9 ObA 57/10p; RIS-Justiz RS0110650). Die Vorinstanzen haben die vom Kläger auch in der Revision hervorgehobene Verantwortung und Selbstständigkeit seiner konkret ausgeübten Tätigkeit beachtet und sind zum Ergebnis gelangt, dass der Kläger entgegen dem von der Beklagten eingenommenen Rechtsstandpunkt nicht in die Tätigkeitsfamilie Allgemeine Tätigkeiten (AT), sondern in die Tätigkeitsfamilie Spezielle Tätigkeiten (ST 1) einzustufen war.
+Ihre Rechtsansicht, dass die vom Kläger begehrte höhere Einstufung in die Tätigkeitsfamilie Spezielle Tätigkeiten (ST 2) nicht in Frage komme, weil die konkrete Arbeitstätigkeit des Klägers, der keine abgeschlossene Ausbildung im Bereich der Informationstechnologie hatte, weder besonderer Qualifikation noch Verantwortung bedurfte, ist keinesfalls unvertretbar. Eine die Revision dennoch rechtfertigende korrekturbedürftige Fehlbeurteilung des Berufungsgerichts zeigt der Revisionswerber mit seiner Behauptung, es komme auf die tatsächliche Arbeitstätigkeit des Klägers an, und dieser sei für die Betreuung von Kunden und den Absatz der Produkte allein verantwortlich gewesen, schon deshalb nicht auf, weil er damit vom festgestellten Sachverhalt abweicht. Danach durfte der Kläger Angebote nur nach unternehmensinternen Preisvorgaben erstellen und es bestand erst für die Zukunft die Absicht, ihn als selbstständiger Key-Account-Manager tätig werden zu lassen. Dem weiteren, schon vom Erstgericht ins Treffen geführten Argument, dass der Kläger die im Sinn der Tätigkeitsfamilie Spezielle Tätigkeiten (ST 2) erforderliche besondere Qualifikation auch aufgrund seines beruflichen Werdegangs vor seiner Tätigkeit für die Beklagte - der Kläger hat lediglich nicht ganz 1 ½ Jahre an facheinschlägiger Tätigkeit aufzuweisen - im konkreten Fall nicht erreicht hat, tritt der Kläger in der Revision nicht entgegen.
+Die Revision war daher mangels Vorliegens einer erheblichen Rechtsfrage gemäß § 502 Abs 1 ZPO zurückzuweisen.

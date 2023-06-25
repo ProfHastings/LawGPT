@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.2022
+Geschäftszahl
+7Ob132/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei J* S*, vertreten durch die Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 217.195,39 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 1. Juni 2022, GZ 3 R 69/22w-45, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Ein Brand auf dem landwirtschaftlichen Anwesen des Klägers zerstörte am 20. 7. 2020 ein bei der Beklagten feuerversichertes, aus einem ehemaligen Stall, einer Tenne sowie einem Garagentrakt bestehendes Gebäude zur Gänze.
+[2] 		Zwischen dem Kläger und der Beklagten besteht seit dem Jahr 2017 eine „Landwirtschaft-Versicherung“, die unter anderem eine Feuerversicherung enthält. Dem Versicherungsverhältnis liegen unter anderem die Ergänzenden Allgemeinen Bedingungen für die Sachversicherung (EABS 2015) zugrunde. Diese lauten auszugsweise:
+„Art 9 Entschädigung
+[…]
+9.3 Allgemeine Bestimmungen zur Entschädigung
+9.3.1 Entschädigungsleistung
+Die Entschädigungsleistung wird unter den Voraussetzungen erbracht, dass:
+a) die Wiederherstellung bzw. Wiederbeschaffung zur Gänze sichergestellt ist.
+[…]
+Werden die angeführten Voraussetzungen nicht erfüllt, hat der Versicherungsnehmer Anspruch
+a) für Gebäude bei Beschädigung auf Ersatz der Reparaturkosten oder bei Zerstörung auf Ersatz des Verkehrswertes, höchstens jedoch des Zeitwertes des Gebäudes.
+[...]“
+[3] 		1. Art 9 EABS 2015 enthält eine sogenannte „strenge Wiederherstellungsklausel“.
+[4] 		1.1. Sie impliziert ein Gleichartigkeits- und ein Gleichwertigkeitsgebot, sodass Sachen gleicher Zweckbestimmung, Art und Güte wiederhergestellt oder wiederbeschafft werden müssen (RS0117982). Ihr Zweck ist die Begrenzung des subjektiven Risikos, das entstünde, wenn der Versicherungsnehmer die Entschädigungssumme für frei bestimmbare Zwecke verwenden könnte (RS0120711 [T2, T4]). Die strenge Wiederherstellungsklausel stellt eine Risikobegrenzung dar (RS0081840) und bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechter) Sicherung abhängt (RS0120710). Ist die Wiederbeschaffung einmal ausreichend sichergestellt, wird der Anspruch des Versicherungsnehmers auf Bezahlung des Neuwerts fällig. Dieser fällig gewordene Anspruch besteht auch dann, wenn sich später herausstellen sollte, dass trotz Sicherstellung in der Folge die Wiederbeschaffung unterbleibt (RS0121821).
+[5] 		1.2. Wann die Verwendung gesichert ist, hat das Gericht nach Treu und Glauben zu entscheiden (RS0081868 [T2]) und hängt von den Umständen des Einzelfalls ab (RS0119959). Grundsätzlich kann eine 100%-ige Sicherheit nicht verlangt werden, sondern es muss ausreichen, wenn angesichts der getroffenen Vorkehrungen keine vernünftigen Zweifel an der Durchführung der Wiederherstellung bestehen (RS0112327; RS0119959). Der Abschluss eines bindenden Vertrags über die Wiederherstellung ist grundsätzlich ausreichend (7 Ob 167/14f), auch der Kauf von Baumaterialien kann ausreichend sein (7 Ob 65/05t). Die Vorlage von Kostenvoranschlägen, Absichtserklärungen des Versicherungsnehmers, die bloße Planung, eine behelfsmäßige Reparatur oder ein noch nicht angenommenes Angebot sind hingegen für die Sicherung der Wiederherstellung nicht ausreichend (RS0112327 [T5]).
+[6] 		1.3. Die Rechtsansicht der Vorinstanzen, dass trotz des vom Kläger unterfertigten Bauvertrags die Wiederherstellung nicht gesichert ist, bedarf angesichts der vom Erstgericht getroffenen Negativfeststellung zu den tatsächlich beabsichtigten baulichen Maßnahmen keiner Korrektur.
+[7] 		2.1. Gemäß § 94 Abs 1 VersVG ist die Entschädigung nach Ablauf eines Monats seit der Anzeige des Versicherungsfalls mit vier vom Hundert für das Jahr zu verzinsen, soweit nicht aus besonderen Gründen eine weitergehende Zinspflicht besteht. § 94 VersVG ist subsidiär zu jenen Bestimmungen, in denen aus bestimmten Gründen eine andere Verzinsung vorgesehen ist (RS0121307), wie etwa zu § 456 UGB (vgl 7 Ob 202/12z zu § 352 UGB).
+[8] 		2.2. Gemäß § 456 UGB beträgt bei der Verzögerung der Zahlung von Geldforderungen der gesetzliche Zinssatz 9,2 Prozentpunkte über dem Basiszinssatz. Diese Regelung gilt gemäß § 455 UGB für Rechtsgeschäfte zwischen Unternehmern. Unternehmer ist, wer ein Unternehmen im Sinn von § 1 Abs 2 UGB betreibt (§ 1 Abs 1 UGB). Dazu zählen auch Landwirte (RS0065380). Da der Kläger aber als Landwirt seit 2011 in Pension und daher nicht mehr Unternehmer ist, haben die Vorinstanzen ohne Korrekturbedarf den Zuspruch von Zinsen gemäß § 456 UGB verneint. Der Umstand, dass die Ehegattin des Klägers den landwirtschaftlichen Betrieb führt, spielt entgegen der Ansicht des Revisionswerbers keine Rolle, weil in der Feuerversicherung nicht der Betrieb, sondern die Sache versichert ist.
+[9] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ABGB).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00132.22W.1109.000

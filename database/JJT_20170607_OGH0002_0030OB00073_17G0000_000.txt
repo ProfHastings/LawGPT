@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.06.2017
+Geschäftszahl
+3Ob73/17g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei M*****, vertreten durch Mag. Christoph Dorner, Rechtsanwalt in Bregenz, gegen die beklagte Partei C*****, Liechtenstein, vertreten durch Mag. Antonius Falkner, Rechtsanwalt GmbH in Mieming, wegen Anfechtung (Streitwert 34.000 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 21. Februar 2017, GZ 5 R 1/17m-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen gaben der auf §§ 1 und 2 Z 3 AnfO gestützten und gegen das zugunsten der Beklagten einverleibte Belastungs- und Veräußerungsverbot auf einer Liegenschaft der gegenüber der Klägerin titelgemäß zur Zahlung von mindestens 34.000 EUR Verpflichteten gerichteten Klage statt. Die Exekutionsführung der Klägerin in Österreich sei erfolglos geblieben, die Exekution auf eine Eigentumswohnung der Verpflichteten in Rumänien erscheine aufgrund des Fruchtgenussrechts eines Dritten aussichtslos und aus dem Hälfteanteil eines landwirtschaftlichen Grundstücks mit einem Wert von 15.000 bis 20.000 EUR sei keine vollständige Befriedigung zu erwarten.
+Rechtliche Beurteilung
+Die Beklagte zeigt in ihrer außerordentlichen Revision, mit der sie weiter die Abweisung der Anfechtungsklage anstrebt, keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf.
+Die Anfechtungsbefugnis eines Gläubigers, dessen Forderung vollstreckbar ist, setzt nach § 8 Abs 1 AnfO auch voraus, dass die Exekution in das Vermögen des Schuldners nicht zur vollständigen Befriedigung des Gläubigers geführt hat oder die Aussichtslosigkeit einer noch nicht durchgeführten Exekution vorauszusehen ist. Die Befriedigungsverletzung besteht damit in der Fruchtlosigkeit oder Aussichtslosigkeit der Exekution gegen den Schuldner; es muss also die Forderung vollstreckbar und uneinbringlich sein (RIS-Justiz RS0050585 [T1]). Die Behauptungs- und Beweislast trifft den Anfechtungskläger. Die Uneinbringlichkeit ist dabei entweder aus der Ergebnislosigkeit der schon betriebenen Exekution oder aus der vorhersehbaren Aussichtslosigkeit einer erst zu betreibenden Exekution zu erschließen.
+Der Beweis einer Befriedigungsverletzung ist schon dann als erbracht anzusehen, wenn die Aussichtslosigkeit der anstehenden Exekutionsführung wahrscheinlich ist (RIS-Justiz RS0086611). Der Gläubiger muss eine voraussichtlich erfolglose Exekution nicht etwa dazu betreiben, um dadurch den Beweis der Uneinbringlichkeit anzutreten (RIS-Justiz RS0050303).
+Der Gläubiger, der voraussichtlich nicht ganz durch Exekution befriedigt werden kann, braucht die Exekution nicht vorzunehmen, sondern kann anfechten; die Anfechtung wird weder durch die Möglichkeit einer Teilbefriedigung aus dem Vermögen des Schuldners noch auf den voraussichtlich ungetilgten Rest aus der Exekution beschränkt (RIS-Jusitz RS0050296 [T1 und T2]). Die Frage nach der Befriedigungsverletzung ist nach dem Zeitpunkt der Klageerhebung zu beurteilen (RIS-Justiz RS0050585).
+Die Beurteilung der Befriedigungsverletzung im Sinn der zuvor erörterten Wahrscheinlichkeit einer aussichtslosen Exekutionsführung hat nach den konkreten Umständen des Einzelfalls zu erfolgen, weshalb regelmäßig keine Rechtsfrage erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufgeworfen wird. Wenn die Vorinstanzen hier im Hinblick auf die mit einem Fruchgenussrecht eines Dritten belastete Eigentumswohnung, deren Wert (ohne bestehenden Fruchtgenuss) bei 40.000 bis 50.000 EUR liegt, und einem Hälfteanteil eines landwirtschaftlichen Grundstücks mit einem Wert von 15.000 bis 25.000 EUR davon ausgehen, dass keine vollständige Befriedigung des Gläubigers für seine Forderung von zumindest 34.000 EUR zu erwarten ist, liegt darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung.
+Die von der Beklagten als erheblich bezeichnete Rechtsfrage, ob bei Beurteilung der Befriedigungsverletzung auch das gesamte im Unionsgebiet gelegene (Liegenschafts-)Vermögen, das der Vollstreckung nach der EuGVVO unterliegt, miteinzubeziehen ist, muss daher nicht abschließend beantwortet werden (vgl RIS-Justiz RS0050296; Kirchhof in Münchner Kommentar zum Anfechtungsgesetz, § 2 AnfG Rn 63 mwN).
+Die außerordentliche Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00073.17G.0607.000

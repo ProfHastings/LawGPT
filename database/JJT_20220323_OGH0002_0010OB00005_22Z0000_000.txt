@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.03.2022
+Geschäftszahl
+1Ob5/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Parteien 1. U* AG, *, 2. M*, 3. D*, 4. Dr. V*, 5. Dr. C*, und 6. Dr. F*, alle vertreten durch die Engin-Deniz Reimitz Hafner Rechtsanwälte KG, Wien, gegen die beklagte Partei H*, vertreten durch Dr. E*, emeritierte Rechtsanwältin in Wien als Vorsorgebevollmächtigte, wegen Räumung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 12. Mai 2021, GZ 38 R 249/20d-23, mit dem das Urteil des Bezirksgerichts Innere Stadt Wien vom 15. September 2020, GZ 45 C 352/19b-17, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die behauptete Aktenwidrigkeit wurde geprüft; sie liegt nicht vor (§ 510 Abs 3 ZPO). Dieser Revisionsgrund kann nicht als Ersatz für eine im Revisionsverfahren unzulässige Beweisrüge herangezogen werden (RIS-Justiz RS0117019).
+[2] 		2. Die Unterlassung eines Beschlusses nach § 33 Abs 2 Satz 2 MRG kann (nur) eine Mangelhaftigkeit des Verfahrens zur Folge haben (RS0043204). Das Berufungsgericht hat sich mit diesem von der Beklagten in der Berufung behaupteten Mangel des erstinstanzlichen Verfahrens befasst und ihn verneint. Ein angeblicher Mangel des erstinstanzlichen Verfahrens, der vom Berufungsgericht verneint wurde, kann in der Revision nicht mehr aufgegriffen werden (RS0042963; vgl zu § 33 Abs 2 MRG 4 Ob 83/20i mwN).
+[3] 		3. Es entspricht der höchstgerichtlichen Rechtsprechung, dass es einer Beschlussfassung nach § 33 Abs 2 MRG nicht bedarf, wenn grobes Verschulden des Mieters am Bestehen des Zahlungsrückstands vorliegt (RS0111942 [T6]; RS0069105 [T4]; RS0069149 [T2]; RS0070349 [T3]). Ob den Mieter am Bestehen des Mietzinsrückstand ein grobes Verschulden trifft, hängt jeweils von den Umständen des Einzelfalls ab (RS0042773 [T1]). Die Lösung dieser Frage begründet die Zulässigkeit der Revision nur dann, wenn das Berufungsgericht den ihm dabei eingeräumten Beurteilungsspielraum überschritten hat (vgl RS0042773 [T2, T3]). Dies ist hier nicht der Fall:
+[4] 		4. Die Revisionswerberin unterstellt – entgegen dem von den Vorinstanzen auch für den Obersten Gerichtshof bindend festgestellten Sachverhalt – es sei das (Unternehmens-)Pachtverhältnis zwischen ihr (als Mieterin) und ihrer Unternehmenspächterin aufgelöst worden. Damit geht sie nicht von dem vom Erstgericht festgestellten Sachverhalt aus und führt die Rechtsrüge nicht gesetzmäßig aus. Ausgehend vom Fortbestand des Pachtverhältnisses gehen ihre Überlegungen, es habe (weil es kein Pachtverhältnis mehr gegeben habe und daher § 12a MRG nicht mehr anwendbar gewesen sei) eine „einziehungsbedingte Überzahlung von Mietzinsen“ gegeben, ins Leere.
+[5] 		Darauf, dass ihr von den Vorinstanzen zum Vorwurf gemacht wurde, dass sie von März 2019 bis Juni 2020 überhaupt keinen Mietzins geleistet hatte, obwohl die Baustelle vor dem Geschäftslokal nur bis August 2019 bestanden hatte (wobei das Geschäftslokal auch in dieser Zeit durchgehend geöffnet gewesen war) und „Probleme mit Mäusen und Ratten“ der Hausverwaltung erst am 25. 11. 2019 mitgeteilt worden waren (woraufhin umgehend zwischen 25. 11. 2019 und 3. 12. 2019 die Ritzen, über welche die Tiere eindringen konnten, verschlossen wurden), geht die Beklagte in der Revision nicht ein. Zur Beurteilung des Berufungsgerichts, wenn sie durch viele Monate hindurch gar keinen Mietzins (also auch nicht einmal den [„nicht erhöhten“] ursprünglich vereinbarten Mietzins) zahlte (und zudem niemals eine Aufrechnung erklärte), sei von ihrem groben Verschulden auszugehen und ihr die Räumung aufzutragen, kann sie daher keinesfalls eine im Einzelfall aufzugreifende Fehlbeurteilung aufzeigen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00005.22Z.0323.000

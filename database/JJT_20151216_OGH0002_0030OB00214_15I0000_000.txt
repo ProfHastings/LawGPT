@@ -1,0 +1,57 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.2015
+Geschäftszahl
+3Ob214/15i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Mag. P*****, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen des Ing. J*****, AZ 19 S 66/13y des Landesgerichts Innsbruck, gegen die beklagte Partei Tiroler Gebietskrankenkasse, *****, vertreten durch Ullmann-Geiler & Partner, Rechtsanwälte in Innsbruck, wegen 45.201,01 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 10. September 2015, GZ 4 R 124/15i-22, womit das Urteil des Landesgerichts Innsbruck vom 9. Juli 2015, GZ 14 Cg 141/13z-18, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird in Ansehung der angefochtenen Zahlungen von 2.963,95 EUR vom 5. Oktober 2012, 1.000 EUR vom 31. Jänner 2013, 4.452,95 EUR vom 8. Februar 2013 und 4.706,31 EUR vom 8. März 2013 zurückgewiesen.
+In Ansehung der angefochtenen Zahlungen von 5.715,70 EUR vom 19. August 2012, 5.931,13 EUR vom 8. Oktober 2012, 5.025,44 EUR vom 21. Dezember 2012, 9.908,25 EUR vom 27. Februar 2013 und 5.497,28 EUR vom 12. April 2013 wird der Akt an das Erstgericht zur Vorlage an das Berufungsgericht zurückgestellt.
+Text
+Begründung:
+Die beklagte Gebietskrankenkasse brachte im Zeitraum von 3. Februar 2011 bis 21. Juni 2013 insgesamt 14 Exekutionsanträge gegen den Schuldner zwecks Einbringung von Beitragsrückständen ein, wobei sämtliche Exekutionsverfahren durch Zahlung des Schuldners eingestellt wurden, ohne dass es zu Pfändungen oder sogar exekutiven Verwertungen gekommen wäre. Insbesondere bezahlte der Schuldner folgende Beträge an die Beklagte:
+Datum
+Widmung
+Betrag
+19.08.2012
+Beiträge Mai 2012
+EUR   5.715,70
+05.10.2012
+Teil der Beiträge für Juni und Juli 2012
+EUR   2.963,95
+08.10.2012
+Rest Beiträge Juni und Juli 2012
+EUR   5.931,13
+21.12.2012
+Beiträge September 2012
+EUR   5.025,44
+31.01.2013
+Teil der Beiträge Oktober 2012
+EUR   1.000,00
+08.02.2013
+Rest Beiträge Oktober 2012
+EUR   4.452,95
+27.02.2013
+Beiträge November 2012
+EUR   9.908,25
+08.03.2013
+Beiträge Dezember 2012
+EUR   4.706,31
+12.04.2013
+Beiträge Jänner 2013
+EUR   5.497,28
+zusammen
+EUR 45.201,01
+Das Berufungsgericht gab der vom Insolvenzverwalter im Insolvenzverfahren über das Vermögen des Schuldners erhobenen, auf § 31 Abs 1 Z 2 und § 30 Abs 1 Z 3 IO gestützten Anfechtungsklage, die auf Rückzahlung sämtlicher zuvor genannter Zahlungen gerichtet war, statt. Es sprach aus, dass die ordentliche Revision im Hinblick auf die Einzelfallbezogenheit der Beurteilung des Kennenmüssens oder der fahrlässigen Unkenntnis der Begünstigungsabsicht nicht zulässig sei.
+Die „außerordentliche“ Revision der beklagten Anfechtungsgegnerin, mit der sie die Abweisung der Anfechtungsklage anstrebt, ist bezüglich der unter 5.000 EUR liegenden Zahlungen jedenfalls unzulässig. Was die zwischen 5.000 EUR und 30.000 EUR liegenden Zahlungen betrifft, fehlt (derzeit) die Entscheidungskompetenz des Obersten Gerichtshofs.
+Rechtliche Beurteilung
+Für die Revisionszulässigkeit ist zu überprüfen, ob die angefochtenen Zahlungen zusammenzurechnen sind oder nicht. Werden in einer Klage mehrere Forderungen geltend gemacht, dann bilden sie nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen des § 55 Abs 1 JN vorliegen; andernfalls sind sie getrennt zu behandeln. Diese Regelung ist gemäß § 55 Abs 4 JN auch für die Zulässigkeit von Rechtsmitteln maßgebend. Demnach sind mehrere in einer Klage von einer einzelnen Partei erhobene Ansprüche nur dann zusammenzurechnen, wenn sie im Sinn des § 55 Abs 1 Z 1 JN in einem tatsächlichen oder rechtlichen Zusammenhang stehen. Mehrere Ansprüche stehen in einem solchen Zusammenhang, wenn sie allesamt aus demselben Klagesachverhalt abgeleitet werden können, wenn also das für einen Anspruch erforderliche Sachvorbringen ausreicht, um auch über die anderen geltend gemachten Ansprüche entscheiden zu können, ohne dass noch ein ergänzendes Sachvorbringen erforderlich wäre (RIS-Justiz RS0042766). Ein rechtlicher Zusammenhang liegt dagegen vor, wenn die Ansprüche aus demselben Vertrag oder aus derselben Rechtsnorm abgeleitet werden und miteinander in einem unmittelbaren wirtschaftlichen Zusammenhang stehen (RIS-Justiz RS0037648). Ein solcher Zusammenhang besteht jedoch dann nicht, wenn jeder der mehreren Ansprüche ein ganz verschiedenes rechtliches und tatsächliches Schicksal haben kann; in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfindet (RIS-Justiz RS0037899).
+Bei der Prüfung der Frage, ob die geltend gemachten Ansprüche in einem tatsächlichen oder rechtlichen Zusammenhang stehen, ist von den Klageangaben auszugehen (RIS-Justiz RS0106759). Dass für alle Rechtshandlungen der gleiche Anfechtungstatbestand behauptet wird, reicht nach ständiger Rechtsprechung zur Annahme eines rechtlichen Zusammenhangs nicht aus (3 Ob 110/08k mwN), ebensowenig wie der Umstand, dass Zahlungen der Abdeckung einer und derselben Kreditforderung gegen die Schuldnerin dienten (3 Ob 41/11t; 3 Ob 246/10p mwN).
+Auch im vorliegenden Fall reicht der Umstand, dass sich die angefochtenen Zahlungen auf gleichartige Beitragsschulden des Schuldners bei der Gebietskrankenkasse beziehen, nicht aus. Der Insolvenzverwalter ficht nicht etwa eine zu einem bestimmten Zeitpunkt geschlossene einheitliche Ratenvereinbarung an, sondern die einzelnen Zahlungen des Schuldners, mögen die nun unter dem Druck laufender Exekutionsverfahren oder freiwillig geleistet worden sein. Jede dieser Anfechtungen kann - etwa im Hinblick auf die Erfordernisse der fristgerechten Anspruchserhebung oder des Bekanntseins oder Bekanntseinsmüssens von Zahlungsunfähigkeit oder Benachteiligungsabsicht - ein verschiedenes Schicksal haben. Mangels Vorliegens der Voraussetzungen des § 55 Abs 1 JN ist daher jede Zahlung betreffend die Zulässigkeit der Revision gesondert zu beurteilen (3 Ob 110/08k mwN).
+In Ansehung der 5.000 EUR nicht übersteigenden Zahlungen ist die Revision demnach gemäß § 502 Abs 2 ZPO jedenfalls unzulässig. Über die Zulässigkeit der in Ansehung der 5.000 EUR, nicht aber 30.000 EUR übersteigenden Zahlungen erhobenen Revision wird gemäß § 507b Abs 2 ZPO das Berufungsgericht über die Zulässigkeit der ordentlichen Revision zu entscheiden haben, weshalb die Akten zwecks Vorlage an das Gericht zweiter Instanz dem Erstgericht zurückzustellen sind (RIS-Justiz RS0109623).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00214.15I.1216.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2022
+Geschäftszahl
+4Ob105/22b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Parteien 1. Dr. G* I*, und 2. D* I*, beide vertreten durch Mag. Gerald Michael Griebler, Rechtsanwalt in Graz, gegen die beklagten Parteien 1. B* Aktiengesellschaft, *, und 2. L* OG, *, wegen Rechtsunwirksamerklärung und 403.603,70 EUR, über den außerordentlichen Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Graz vom 28. April 2022, GZ 6 R 5/22k-27, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Liegt ein rechtskräftiges Urteil vor, kann zwischen denselben Parteien derselbe Anspruch nicht mehr zum Gegenstand eines Gerichtsverfahrens gemacht werden (sog Einmaligkeitswirkung, ne bis in idem; vgl zB RS0111238 RS0041115 [T2, T4, T6]). Eine dennoch eingebrachte Klage ist zurückzuweisen (RS0039968 [T3]).
+[2] 		Identität des Anspruchs liegt dabei vor, wenn das neu gestellte Begehren sowohl inhaltlich dieselbe Leistung, Feststellung oder Rechtsgestaltung fordert, wie sie bereits Gegenstand des rechtskräftigen Vorerkenntnisses war, als auch die zur Begründung des neuen Begehrens vorgetragenen rechtserzeugenden Tatsachen dieselben sind, auf die sich auch die rechtskräftige Entscheidung gründet, sodass sie auch zwangsläufig dieselbe rechtliche Beurteilung zur Folge haben müssen (RS0041229, vgl RS0039347).
+[3] 		Ob dies zutrifft, kann immer nur aufgrund der Umstände des Einzelfalls beurteilt werden und wirft daher im Regelfall keine Rechtsfragen von erheblicher Bedeutung iSd § 528 Abs 1 ZPO auf (RS0044453 [T3], RS0041229 [T6]).
+[4] 		2. Die Vorinstanzen haben diese Rechtsprechung bei der Zurückweisung der nun vorliegenden Klage auf Feststellung der Rechtsunwirksamkeit eines Vergleichs angewendet, ohne ihren Beurteilungsspielraum zu überschreiten.
+[5] 		Die Kläger zeigen zwar richtig auf, dass eine Geschäftsunfähigkeit der Zweitklägerin iSd § 865 ABGB nicht Thema des Vorverfahrens war. Sie erstatteten jedoch im vorliegenden Verfahren kein neues Tatsachenvorbringen, etwa zu einer Minderjährigkeit, einer geistigen Behinderung oder einer psychischen Erkrankung der Zweitklägerin. Stattdessen leiten sie die nun relevierte „Geschäftsunfähigkeit“ als neue rechtliche Schlussfolgerung aus den schon im Vorprozess aufgestellten Tatsachenbehauptungen ab: Nicht die Zweitklägerin sei über den Vergleichsinhalt  verfügungsbefugt gewesen, sondern nur der Zwangsverwalter des Erstklägers als ihr Vermieter.
+[6] 		Gerade die Tatsache der Zwangsverwaltung über die Liegenschaft des Erstklägers und ihre fehlende rechtliche Relevanz für die Gültigkeit des von den beiden Klägern und den beiden Beklagten abgeschlossenen Vergleichs war jedoch bereits eines der zentralen Themen des Vorprozesses. Anspruch und rechtserzeugende Tatsachen sind daher mit jenen im Vorprozess ident.
+[7] 		3. Im Übrigen hat das Unvermögen des Versprechenden, seine Verpflichtungen zu erfüllen (sog subjektive Unmöglichkeit) keinen Einfluss auf die Gültigkeit eines Rechtsgeschäfts (RS0016378, siehe auch grundlegend: Welser/Klete?ka, Bürgerliches Recht I23 Rz 545). Aus einer mangelnden Verfügungsbefugnis der Zweitklägerin ließe sich also – völlig unabhängig von der Einmaligkeitswirkung – keinesfalls ihre Geschäftsunfähigkeit iSd § 865 ABGB und in weiterer Folge die Nichtigkeit des Vergleichs ableiten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00105.22B.0923.000

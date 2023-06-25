@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.11.2007
+Geschäftszahl
+17Ob27/07f
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin des Obersten Gerichtshofs Dr. Griss als Vorsitzende und durch die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei T***** GmbH, *****, vertreten durch Dr. Michael Krüger Rechtsanwalt GmbH in Wien, gegen die beklagte Partei E***** GmbH, *****, vertreten durch Galla & Herget Rechtsanwälte OG in Wien, wegen Unterlassung, Beseitigung, Zahlung von 2.000 EUR sA und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 30.000 EUR), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 12. September 2007, GZ 5 R 137/07i-9, den Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin betreibt seit 2004 unter den Domain-Namen „laendleimmo.at" und „ländleimmo.at" ein Internetportal für die Vermittlung von Liegenschaften in Vorarlberg; sie verfügt seit April 2005 auch über eine Wortbildmarke mit dem Wortbestandteil „laendleimmo.at". Die Beklagte ließ sich im Februar 2006 die Domain „ländleimmo.com" registrieren und betreibt darunter seit Anfang 2007 ein Internetportal für Liegenschaften in ganz Österreich. Das Rekursgericht hat die Unterscheidungskraft der Domain-Namen der Klägerin bejaht und der Beklagten daher verboten, die Domain „ländleimmo.com" oder eine andere mit den Domain-Namen der Klägerin verwechselbar ähnliche Domain beim Betrieb eines Immobilienportals für Vorarlberg zu verwenden.
+Rechtliche Beurteilung
+Dem Revisionsrekurs der Beklagten gelingt es nicht, das Vorliegen einer erheblichen Rechtsfrage aufzuzeigen.
+Domain-Namen sind grundsätzlich als Unternehmenskennzeichen schutzfähig (4 Ob 36/98t = SZ 71/35 - jusline). Wenn sie beschreibenden Charakter haben, setzt der Schutz allerdings ihre - hier strittige - Verkehrsgeltung voraus. Maßgebend ist, ob die beteiligten Verkehrskreise den Begriffsinhalt zwanglos und ohne komplizierte Schlussfolgerungen erschließen können und die Wortkombination als beschreibenden Hinweis auf die Art der Tätigkeit des betreffenden Unternehmens verstehen (RIS-Justiz RS0109431).
+Enthält das Zeichen demgegenüber nur Andeutungen einer bestimmten
+Beschaffenheit, ohne die damit bezeichnete Ware oder Dienstleistung
+konkret oder umfassend zu beschreiben, ist es nicht rein beschreibend
+und daher auch ohne Verkehrsgeltung geschützt (4 Ob 230/01d = ÖBl
+2002, 138 - the.internet.factory; 4 Ob 116/03t = ÖBl-LS 2003/158 -
+immofinanz; RIS-Justiz RS0109431 T3; zuletzt 17 Ob 3/07a = MR 2007,
+98 - immoeast). Die Bekanntheit des Zeichens ist in diesem Fall nur
+für die Bestimmung des Schutzumfangs von Bedeutung (4 Ob 116/03t - immofinanz).
+Die Abgrenzung zwischen Beschreibung und bloßer Andeutung begründet, grobe Fehlbeurteilungen ausgenommen, keine erhebliche Rechtsfrage (17 Ob 3/07a - immoeast).
+Im konkreten Fall deutet „laendleimmo.at" zwar darauf hin, dass die Klägerin Dienstleistungen in Bezug auf Immobilien in Vorarlberg anbietet. Die Auffassung des Rekursgerichts, dass die angesprochenen Kreise die Domain noch nicht als Beschreibung der konkreten Dienstleistungen (Immobilienvermittlung) verstehen, hält sich aber im Rahmen der oben dargestellten Rechtsprechung. Ein tragfähiger Unterschied zu „immoeast" (17 Ob 3/07a) ist nicht zu erkennen. Die dagegen gerichtete Argumentation des Revisionsrekurses beruht auf der Prämisse, dass schon der Kennzeichenbestandteil „immo" glatt beschreibend sei; daher gelte das auch für die Kombination mit dem ebenfalls nur beschreibenden Begriff „ländle". Diese Prämisse ist aber verfehlt: Denn der Begriff „immo" lässt gerade nicht erkennen, welche immobilienbezogenen Dienstleistungen damit bezeichnet werden. Daher kann daraus auch nicht der rein beschreibende Charakter des Gesamtzeichens abgeleitet werden.

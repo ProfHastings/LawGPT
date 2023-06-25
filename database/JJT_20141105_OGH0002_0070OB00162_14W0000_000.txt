@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.11.2014
+Geschäftszahl
+7Ob162/14w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich in der Rechtssache der klagenden Partei Dr. W***** Z*****, vertreten durch DDr. René Laurer, Rechtsanwalt in Wien, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. Juni 2014, GZ 15 R 80/14s-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger begehrt aus dem am 31. 7. 2012 abgeschlossenen Versicherungsvertrag Rechtsschutzdeckung für die Kosten eines gegen eine britische Entschädigungseinrichtung anhängig zu machenden Rechtsstreits zur Durchsetzung seines Anspruchs auf Anlegerentschädigung.
+Rechtliche Beurteilung
+1. Nach Art 19.2.1. ARB 2011 erstreckt sich der Versicherungsschutz auch auf den Schadenersatz-Rechtsschutz für die Geltendmachung von Schadenersatzansprüchen auf Grund gesetzlicher Haftpflichtbestimmungen privaten Inhalts wegen eines erlittenen Personen-, Sach- oder Vermögensschadens.
+Der Kläger tritt der Rechtsansicht der Vorinstanzen, wonach die Ansprüche, die er gegen die britische Entschädigungseinrichtung erheben möchte, unter Art 19.2.1. ARB 2011 fallen, nicht entgegen.
+2. Er wendet sich jedoch gegen den von den Vorinstanzen bejahten Einwand der Vorvertraglichkeit.
+2.1 Nach Art 2.1. ARB 2011 gilt als Versicherungsfall für die Geltendmachung eines Personen-, Sach- oder Vermögensschadens, der auf einen versicherten Personen- oder Sachschaden zurückzuführen ist (Art 17.2.1., Art 18.2.1., Art 19.2.1. und Art 24.2.3.), das dem Versicherungsfall zugrundeliegende Schadensereignis. Als Zeitpunkt des Versicherungsfalls gilt der Eintritt des Schadensereignisses.
+Gemäß Art 2.3. ARB 2011 gilt als Versicherungsfall in den übrigen Fällen - insbesondere auch für die Geltendmachung eines bloßen Vermögensschadens (Art 17.2.1., Art 18.2.1. und Art 19.2.1.) sowie für die Wahrnehmung rechtlicher Interessen wegen bloßer Vermögensschäden (Art 23.2.1. Abs 2) - der tatsächliche oder behauptete Verstoß des Versicherungsnehmers, Gegners oder eines Dritten gegen Rechtspflichten oder Rechtsvorschriften; der Versicherungsfall gilt in dem Zeitpunkt als eingetreten, in dem einer der genannten Personen begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen.
+3. Für den hier zu beurteilenden reinen Vermögensschaden ist demnach Art 2.3. ARB 2011 maßgeblich.
+3.1 Für den Eintritt des Versicherungsfalls in der Rechtsschutzversicherung bedarf es nach ständiger Rechtsprechung eines gesetz- oder vertragswidrigen Verhaltens eines Beteiligten, das als solches nicht sofort und ohne weiteres nach außen zu dringen braucht. Ein Verstoß ist ein tatsächlich objektiv feststellbarer Vorgang, der immer dann, wenn er wirklich vorliegt oder ernsthaft behauptet wird, den Kern eines Rechtskonflikts in sich trägt, der zur Aufwendung von Rechtskosten führen kann. Damit beginnt sich die vom Rechtsschutzversicherer übernommene Gefahr konkret zu verwirklichen. Es kommt nicht darauf an, ob der Handelnde sich des Verstoßes bewusst oder infolge von Fahrlässigkeit oder auch unverschuldet nicht bewusst war. Es soll sich um einen möglichst eindeutig bestimmbaren Vorgang handeln, der in seiner konfliktauslösenden Bedeutung für alle Beteiligten, wenn auch erst nachträglich, erkennbar ist. Es kommt weder auf den Zeitpunkt an, zu dem die Beteiligten von dem Verstoß Kenntnis erlangen, noch darauf, wann auf Grund des Verstoßes Ansprüche gemacht oder abgewehrt werden (RIS-Justiz RS0114001, RS0114209, RS0114210).
+3.2 Es kann dahingestellt bleiben, ob der Versicherungsfall - wie vom Berufungsgericht vertreten - mit der Insolvenz des Unternehmens, in das der Kläger sein Investment getätigt hatte, eintrat, oder - wie der Kläger meint - erst mit der Ablehnung seines Entschädigungsanspruchs durch die britische Entschädigungseinrichtung, die er in Anspruch zu nehmen beabsichtigt. Selbst wenn man dem Kläger folgte, wäre für ihn nichts gewonnen. Er übersieht nämlich, dass die Entschädigungseinrichtung seinen Anspruch bereits im November 2002 abgelehnt hat. Spätestens zu diesem Zeitpunkt wäre den Beteiligten die konfliktauslösende Bedeutung erkennbar und der Versicherungsfall - vor Abschluss des vorliegenden Versicherungsvertrags -eingetreten gewesen. Allein der Umstand, dass über nochmaligen Versuch der Geltendmachung des Anspruchs während der Laufzeit des nunmehrigen Versicherungsvertrags durch den Kläger die Entschädigungseinrichtung ihre Ablehnung mit gleicher Begründung bekräftigte, vermag weder den Versicherungsfall - neu - zu begründen, noch die von den Vorinstanzen zutreffend bejahte Vorvertraglichkeit zu beseitigen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00162.14W.1105.000

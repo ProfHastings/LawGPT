@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.11.1952
+Geschäftszahl
+2Ob855/52
+Norm
+ABGB §830;
+ABGB §841;
+Kopf
+SZ 25/313
+Spruch
+Die Aufhebung der Gemeinschaft durch Realteilung ist Gegenstand der Exekutionsordnung.
+Entscheidung vom 26. November 1952, 2 Ob 855/52.
+I. Instanz: Bezirksgericht Leibnitz; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Der betreibende Gläubiger begehrt von der Verpflichteten gemäß § 351 EO. die körperliche Teilung verschiedener Liegenschaften.
+Das Erstgericht erließ einen Teilungsbeschluß.
+Das Rekursgericht änderte den erstgerichtlichen Beschluß teilweise ab.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Verpflichteten Folge, hob die Beschlüsse der Untergerichte auf und verwies die Sache zur neuerlichen Entscheidung an das Erstgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zunächst ist der Charakter des Verfahrens zur körperlichen Teilung einer Liegenschaft zu untersuchen, weil sich danach das Rechtsmittelverfahren, aber auch die Kostenersatzpflicht bestimmen.
+Aus den Entscheidungen der Vorinstanzen im Kostenpunkt geht hervor, daß sie dieses Verfahren als außerstreitiges ansehen, weil sie den Parteien zwar die eigentlichen Teilungskosten nach Verhältnis ihrer Anteile auferlegen, zugleich aber bestimmen, daß Vertretungskosten einschließlich von Rechtsmittelkosten ohne Anspruch auf Rückersatz von ihnen selbst zu tragen sind.
+Der Oberste Gerichtshof vermag dieser von einem Teil der älteren Judikatur und von Neumann - Lichtblau (S. 1091) vertretenen Ansicht nicht zuzustimmen.
+Das Verfahren zur physischen Teilung einer Liegenschaft ist in § 351 EO. geregelt, der ursprünglich auch das Grenzerneuerungs- und - berechtigungsverfahren betraf, in diesem Punkt aber durch § 850 ABGB. in der Fassung der II. Teilnovelle, § 1, gegenstandslos geworden ist. (Neumann - Lichtblau, S. 1093; Ehmer, Novellen zum ABGB., S. 41; Klang, 2. Aufl., zu § 850 ABGB., S. 1147.) Die Aufhebung der Gemeinschaft durch Realteilung bildet jedoch nach wie vor einen Gegenstand der Exekutionsordnung, wenn auch das Verfahren der Natur der Sache nach in manchen Beziehungen einem außerstreitigen gleicht, vor allem durch die Entscheidung des Richters nach freiem (im Instanzenzuge überprüfbaren) Ermessen, die Bezugnahme auf §§ 841 ff. ABGB., und die freiere Stellung, die dem Exekutionsrichter hier im Vergleich zu den in § 55 EO. niedergelegten Grundsätzen eingeräumt ist, vor allem aber durch die Zuziehung aller Beteiligten und den Erhebungscharakter des Verfahrens. Dennoch wird das Verfahren durch diese Umstände zu keinem außerstreitigen, sondern es behält den Charakter eines Vollstreckungsverfahrens, in welchem sich betreibende und verpflichtete Partei gegenüberstehen (vgl. Choloney in GH. 1904, S. 430) und über widerstreitende Parteianträge entschieden werden muß. Daraus folgt zunächst, daß für die Zulässigkeit von Rechtsmitteln sowie deren Befristung und Beschränkung auf die Parteien nicht die Vorschriften des Abhandlungspatentes, sondern ausschließlich jene der Exekutionsordnung und Zivilprozeßordnung zu gelten haben. Es gibt demnach keinen außerordentlichen Revisionsrekurs nach § 16 AußstrG., verspätete Rechtsmittel sind zurückzuweisen und es greifen auch - abgesehen von den besonderen Rekursbeschränkungen des § 351 Abs. 2 EO. - die allgemeinen Beschränkungen des § 528 ZPO. hinsichtlich der Zulässigkeit von Rechtsmittel ein. Das ist für die ideelle Liegenschaftsteilung nach § 352 EO. anerkannt (vgl. Neumann - Lichtblau, S. 1096, GlUNF. 1167), muß aber infolge Gleichartigkeit des Rechtsgrundes auch für die Realteilung nach § 351 EO. gelten (vgl. Schmid in GZ. 1900, S. 250). Demgemäß gilt hier auch gemäß § 78 EO. das für Rekurse in streitigen und Exekutionssachen verbindliche Neuerungsverbot (Rsp. 1924, S. 16, ZBl. 1921, Nr. 79, ZBl. 1918, Nr. 277, GlUNF. 7590, 6496, 4659 u. a.).
+Hinsichtlich der Verfahrenskosten besteht kein Streit darüber, daß die Kosten des Exekutionsantrages, mit welchem das im Teilungsprozeß ergangene Urteil in Vollzug gesetzt werden soll, der betreibenden Partei nach § 74 EO. zuzusprechen sind, während die eigentlichen Teilungskosten die Parteien nach Verhältnis ihrer Anteile treffen. (Neumann - Lichtblau, S. 1091.) Dagegen divergieren die Meinungen hinsichtlich der Vertretungskosten mit Einschluß der Rechtsmittelkosten, welche Neumann - Lichtblau, S. 1091, übereinstimmend mit GlUNF. 2617, 3305 dem Rechtsmittelwerber (der Partei) ohne Anspruch auf Rückersatz auferlegen will, weil das Verfahren außerstreitigen Charakter trage und in einem solchen jede Partei die Kosten ihrer rechtsfreundlichen Vertretung selbst bestreiten müsse. Dieses Argument versagt jedoch, sobald man den exekutionsrechtlichen Charakter des Verfahrens erkannt hat. Tatsächlich hat der Oberste Gerichtshof für den Bereich des § 352 EO., in welchem die Durchführung der Versteigerung nach den Bestimmungen der § § 272 bis 280 AP. angeordnet wird, ausgesprochen, daß die Vorschriften des Abhandlungspatentes lediglich für die Vollstreckung der gerichtlichen Zwangsversteigerung, nicht aber für die Frage des Kostenersatzes gelten, zumal über diese in den bezogenen Gesetzesstellen gar nichts bestimmt wird (GlUNF. 4420). Die Kosten seien darum dem betreibenden Gläubiger zuzusprechen, der sich eines Anwaltes bediente, da er dazu jedenfalls berechtigt ist. Für das Grenzberichtigungs- und -erneuerungsverfahren, dessen außerstreitiger Charakter seit der II. Teilnovelle eindeutig feststeht, gelten ohnedies die Sondervorschriften des § 853 ABGB.
+Erkennt man somit dem Verfahren nach § 351 EO. den Charakter eines Exekutionsverfahrens zu, so wird man nicht umhin können, auch § 74 EO. usw. anzuwenden.
+Von diesen Gesichtspunkten ausgehend erscheint der Revisionsrekurs zulässig, weil ihm keine. der Rechtsmittelbeschränkungen des § 528 ZPO. entgegensteht. Er ist jedoch mit Ausnahme eines einzigen Punktes unbegrundet (wird ausgeführt).

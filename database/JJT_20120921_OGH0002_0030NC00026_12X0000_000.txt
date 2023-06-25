@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.09.2012
+Geschäftszahl
+3Nc26/12x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Neumayr und die Hofrätin Dr. Lovrek als weitere Richter in der Ordinationssache des Antragstellers P*****, vertreten durch Dr. Johannes Öhlböck LL.M., Rechtsanwalt in Wien, gegen die Antragsgegnerin D***** Ltd, *****, Vereinigtes Königreich, wegen Exekutionsführung nach § 294 EO und nach §§ 331 ff EO, infolge Antrags gemäß § 28 JN den
+Beschluss
+gefasst:
+Spruch
+1. Der Ordinationsantrag wird insoweit, als er sich auf die Bestimmung eines örtlich zuständigen Gerichts für die Bewilligung und die Vollziehung der beantragten Forderungsexekution bezieht, abgewiesen.
+2. Im Übrigen wird dem Ordinationsantrag stattgegeben.
+Für die Bewilligung und die Vollziehung der beantragten Rechteexekution (§§ 331 ff EO) wird das Bezirksgericht Salzburg als örtlich zuständiges Gericht bestimmt.
+Text
+Begründung:
+Mit dem rechtskräftigen und vollstreckbaren Versäumungsurteil des Handelsgerichts Wien vom 10. Jänner 2012 wurde die im Vereinigten Königreich ansässige beklagte Partei unter anderem verpflichtet,
+a) es zu unterlassen, eine bestimmte (auf den Namen des in Österreich wohnhaften Klägers bezogene) at-Domain abrufbar zu halten,
+b) diese Domain zur Löschung freizugeben und
+c) dem Kläger die mit 3.706,52 EUR bestimmten Prozesskosten zu ersetzen.
+Zur Hereinbringung der Kostenforderung von 3.706,52 EUR sA brachte die betreibende Partei am 25. April 2012 beim Bezirksgericht Salzburg einen auf Bewilligung der Rechteexekution und der Forderungsexekution gerichteten Exekutionsantrag ein. Im Rahmen der Rechteexekution wurde die Exekution durch Pfändung und Verkauf der der verpflichteten Partei zustehenden Rechte an zahlreichen at-Domains beantragt; im Rahmen der Forderungsexekution wurde die Pfändung und Überweisung einer der verpflichteten Partei gegen eine in Deutschland ansässige GmbH zustehenden Werbeprovisionsforderung beantragt.
+Das Erstgericht wies den Exekutionsantrag ab. Die Zuständigkeit richte sich nach dem Ort, an dem die erste Vollzugshandlung zu setzen sei. Bei der Rechteexekution erfolge die Pfändung mit Zustellung des Verfügungsverbots an die verpflichtete Partei. Im Hinblick auf den Sitz der verpflichteten Partei im Ausland fehle es an einer Zuständigkeit im Inland. Auch betreffend die Forderungsexekution fehle es an einem Inlandsbezug nach § 18 EO, weil weder die verpflichtete Partei noch die Drittschuldnerin ihren Sitz im Inland hätten.
+Das Rekursgericht gab dem Rekurs der betreibenden Partei nicht Folge und bestätigte den Beschluss des Erstgerichts mit der Maßgabe, dass der Exekutionsantrag der betreibenden Partei zurückgewiesen wurde. Das Rekursgericht sprach aus, dass der Revisionsrekurs jedenfalls unzulässig sei, und trug dem Erstgericht aus Anlass des Rekurses auf, den mit dem Rekurs verbundenen (sinngemäßen) Antrag auf Ordination des Verfahrens nach § 28 JN dem Obersten Gerichtshof vorzulegen.
+In diesem auf die Ordination bezogenen Vorbringen führte die betreibende Partei sinngemäß aus, dass in Bezug auf die begehrte Zwangsvollstreckung die inländische Gerichtsbarkeit gegeben sei, weil die Exekution auf inländische Vermögensrechte gerichtet sei.
+Rechtliche Beurteilung
+Dazu wurde erwogen:
+1. Eine Ordination ist auch in Exekutionssachen möglich, wenn bei einer Exekution zwar die inländische Gerichtsbarkeit zu bejahen ist, es aber an einem örtlich zuständigen inländischen Gericht mangelt (3 Nc 36/09p = JBl 2010, 251; RIS-Justiz RS0046326; Jakusch in Angst2, § 3 EO Rz 18d).
+Außerhalb des Falles der Immunität ist die inländische Gerichtsbarkeit für ein Exekutionsverfahren immer dann gegeben, wenn (bei der Exekution zur Hereinbringung von Geld) das Exekutionsobjekt im Inland liegt oder wenn (bei einer Exekution zur Erwirkung von Handlungen und Unterlassungen) eine ausreichende Inlandsbeziehung der durchzusetzenden Leistung besteht und das Zwangsmittel im Inland zu setzen ist (Jakusch in Angst2, § 3 EO Rz 18b mwN).
+2. Bei der Forderungsexekution auf eine gegen einen ausländischen Drittschuldner zustehende Forderung nimmt die Rechtsprechung die inländische Gerichtsbarkeit nur dann an, wenn die verpflichtete Partei ihren (Wohn-)Sitz im Inland hat (3 Ob 98/95 = SZ 69/286 = JBl 1998, 382) oder eine örtliche Zuständigkeit im Inland nach § 18 Z 3 EO - also wieder in erster Linie ein inländischer Gerichtsstand des Verpflichteten - besteht (3 Ob 100/99y). Gerade diese Voraussetzungen, unter denen die zu pfändende Forderung sozusagen „ins Inland reicht“, fehlen im vorliegenden Fall aber, ebenso wie diejenige eines inländischen Gerichtsstands für eine Drittschuldnerklage im Sinn zahlreicher zweitinstanzlicher Entscheidungen (Nachweise bei Oberhammer in Angst2 § 294 EO Rz 5). Zusammenfassend fehlt es an einer hinreichenden Anknüpfung an das Inland, wenn einem Drittschuldner mit Sitz in einem ausländischen Staat verboten werden soll, an seinen Gläubiger zu leisten, der seinen Sitz ebenfalls im Ausland hat (3 Nc 36/09p).
+Da somit in Bezug auf die begehrte Forderungsexekution die inländische Gerichtsbarkeit zu verneinen ist, fehlt es an den Voraussetzungen für die Ordination eines Gerichts in Österreich.
+3. Dagegen ist die inländische Gerichtsbarkeit für die begehrte Exekution auf die Rechte aus verschiedenen at-Domains (siehe zur Domainpfändung 3 Ob 297/08i = jusIT 2009/41, 92 [Thiele] = EvBl 2009/117, 808 [Pilz] = ecolex 2009/309, 778 [Tonninger]) zu bejahen, weil ein österreichischer Exekutionstitel durchgesetzt werden soll und sich das Exekutionsobjekt - im weitesten Sinn verstanden - im Inland befindet (vgl Jakusch in Angst2, § 3 EO Rz 18d).
+Da die örtliche Zuständigkeit des angerufenen Gerichts rechtskräftig verneint wurde, ist eine Ordination eines örtlich zuständigen Gerichts erforderlich. Im Hinblick auf den Sitz der Registrierungsstelle (nic.at) im Sprengel des angerufenen Bezirksgerichts Salzburg liegt die Ordination dieses Gerichts nahe.

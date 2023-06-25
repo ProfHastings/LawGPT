@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.08.2013
+Geschäftszahl
+3Ob134/13x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Prückner als Vorsitzenden sowie die Hofrätin Dr. Lovrek und die Hofräte Dr. Jensik, Dr. Roch und Mag. Ziegelbauer als weitere Richter in der Exekutionssache der betreibenden Partei Gemeinde Unken, *****, vertreten durch Dr. Clemens Thiele, Rechtsanwalt in Salzburg, gegen die verpflichteten Parteien 1. T***** GmbH, und 2. M***** H*****, beide vertreten durch Mory & Schellhorn OEG, Rechtsanwaltsgemeinschaft in Salzburg, wegen Unterlassung, über den Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Salzburg als Rekursgericht vom 10. April 2013, GZ 22 R 89/13m-10, womit der Beschluss des Bezirksgerichts Saalfelden vom 25. Jänner 2013, GZ 2 E 76/13x-5, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Mit einstweiliger Verfügung des Landesgerichts Salzburg vom 18. Dezember 2012, AZ 10 Cg 187/12a, wurde den Verpflichteten verboten, namensmäßige Bezeichnungen, die das Wort „Unken“ enthalten, zu verwenden, wenn die Gefahr der Zuordnungsverwirrung oder der Verwechslung mit dem von der Betreibenden (Gemeinde Unken) verwendeten Namen „Unken“ nicht durch Hinzufügen eines unterscheidungskräftigen Zusatzes ausgeschlossen ist, insbesondere es zu unterlassen, den Domain-Namen „Unken.at“ zur Kennzeichnung einer Internet-Homepage zu verwenden.
+Das Rekursgericht wies den Antrag der Betreibenden, ihr gegen die Verpflichteten wegen Zuwiderhandelns gegen die einstweilige Verfügung durch Weiterverwendung des Domain-Namens „Unken.at“ zur Kennzeichnung einer Internet-Homepage die Exekution gemäß § 355 EO zu bewilligen, mit der Begründung ab, der von der Betreibenden verfolgte Beseitigungsanspruch sei nicht Bestandteil des titulierten Unterlassungsanspruchs, den die Betreibende ausschließlich auf ihr Namensrecht iSd § 43 ABGB gestützt habe. Die im Exekutionsantrag behauptete bloße Aufrechterhaltung eines schon vor Entstehung des Exekutionstitels herbeigeführten Zustands rechtfertige keine Exekutionsführung nach § 355 EO; § 15 UWG sei ausschließlich auf lauterkeitsrechtliche Ansprüche anzuwenden.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Betreibenden, die die Wiederherstellung der erstgerichtlichen Exekutionsbe-willigung anstrebt, ist entgegen dem den Obersten Gerichtshof nicht bindenden Zulässigkeitsausspruch des Rekursgerichts nicht zulässig.
+Nur ein Verhalten des Verpflichteten, welches eindeutig gegen das im Exekutionstitel ausgesprochene Unterlassungsgebot verstößt, rechtfertigt die Exekutionsschritte gemäß § 355 EO (RIS-Justiz RS0000595).
+Der Oberste Gerichtshof hat nicht nur zu 3 Ob 215/02t, 321/02f klargestellt, dass mangels Anwendbarkeit des UWG bei einer auf § 1330 ABGB gestützten einstweiligen Verfügung mit einem Unterlassungsgebot damit nicht auch schon die Verpflichtung zur Vornahme bestimmter Beseitigungshandlungen durch den Verpflichteten tituliert ist. Daran hat der Oberste Gerichtshof (unter ausdrücklicher Ablehnung geäußerter Kritik) mehrfach festgehalten (3 Ob 261/03h; 3 Ob 166/05s; 3 Ob 149/10y mwN). Dass dies nicht nur für die Durchführung eines auf § 1330 ABGB gestützten Anspruchs, sondern ganz allgemein für Unterlassungsansprüche gilt, die nicht mit dem Wettbewerb oder vergleichbaren Rechtsgebieten im Zusammenhang stehen, wurde ebenso klargestellt. Wegen der Möglichkeit des Betreibenden, sich schon im Titelverfahren auch einen Beseitigungstitel zu verschaffen, verfängt auch die von der Betreibenden hier wiederholte Argumentation nicht, sie wäre an der Durchsetzung ihrer aus dem Namensrecht abgeleiteten Unterlassungs- und Beseitigungsansprüche gehindert (3 Ob 149/10y mwN).
+Die Entscheidung des Rekursgerichts steht daher mit den Grundsätzen der Rechtsprechung im Einklang, erhebliche Rechtsfragen iSd § 528 Abs 1 ZPO vermag die Betreibende nicht aufzuzeigen. Soweit sie sich zur Begründung ihrer Rechtsansicht auf die Entscheidung 3 Ob 8/12s stützt, ist darauf zu verweisen, dass dort ein lauterkeitsrechtlicher Unterlassungsanspruch Gegenstand des Exekutionstitels war, weshalb § 15 UWG anzuwenden war.

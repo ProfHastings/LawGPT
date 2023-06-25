@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2022
+Geschäftszahl
+4Ob31/22w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei v* GmbH, *, vertreten durch Mag. Lukas Leszkovics, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei S* GmbH, *, vertreten durch Mag. Oliver Simoncic, Rechtsanwalt in St. Pölten, wegen 772.775,54 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 13. Jänner 2022, GZ 5 R 126/21t-72, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Berufungsgericht bestätigte das Zwischenurteil des Erstgerichts, mit dem dieses aussprach, dass die Klagsforderung nicht verjährt sei.
+[2] 		Die Beklagte macht mit ihrer außerordentlichen Revision geltend, dass die Schadenersatzforderungen der Klägerin aufgrund einer Haftungsfreistellungsvereinbarung zwischen den Parteien nicht zu Recht bestünden und dass die AGB der Beklagten, die eine kürzere Verjährungsfrist vorgesehen hätten, vereinbart worden seien bzw andernfalls aufgrund von Dissens gar kein Vertrag zwischen den Streitteilen zustande gekommen sei.
+Rechtliche Beurteilung
+[3] 		Damit zeigt die Beklagte jedoch keine erheblichen Rechtsfragen auf. Die Revision ist daher nicht zulässig und folglich zurückzuweisen:
+[4] 		1.1. Beim Zwischenurteil gemäß § 393a ZPO zur (verneinten) Verjährung wird nur die allfällige Verjährung des Klagsanspruchs beurteilt und selbstständig im Instanzenzug überprüfbar, bevor ein unter Umständen umfangreiches (Beweis-)Verfahren über die übrigen Anspruchsgrundlagen des Klagsanspruchs durchgeführt werden muss (RS0127852 [T2]). Eine solche Entscheidung spricht daher verbindlich nur über den verneinten Verjährungseinwand ab, ohne dabei die – nur auf ihre Schlüssigkeit hin zu prüfenden – Anspruchsvoraussetzungen zu beurteilen. Liegt ein solches Urteil vor, kann im Instanzenzug nur die Frage der Verjährung des (behaupteten) Klagsanspruchs überprüft werden (RS0127852 [T6]).
+[5] 		1.2. Die Revision der Beklagten befasst sich jedoch im Wesentlichen mit Rechtsfragen außerhalb der Verjährungsproblematik, etwa mit jener der behaupteten Haftungsfreistellungsvereinbarung. Auf diese ist daher nicht einzugehen; auf die Tatsachen- und Beweisrüge schon deshalb nicht, weil der Oberste Gerichtshof ausschließlich als Rechtsinstanz zur Überprüfung von Rechtsfragen tätig ist (RS0123663 [T2]) und eine mangelhafte und unzureichende Beweiswürdigung im Revisionsverfahren nicht angefochten werden kann (RS0043371).
+[6] 		2. Die in der Berufung erhobenen Beweis- und Mängelrügen hat das Berufungsgericht insoweit behandelt als sie die für die Entscheidung nach § 393a ZPO einzig zu beurteilende Frage der Verjährung betrafen. Die Nichterledigung der darüber hinausgehenden Rügen konnte daher keinen Mangel des Verfahrens zweiter Instanz begründen, zumal ein solcher nur dann zur Aufhebung des Berufungsurteils führen kann, wenn er für die Entscheidung wesentlich war und sich auf diese auswirken konnte (RS0116273).
+[7] 		3.1. Soweit die Revisionswerberin moniert, dass die Vorinstanzen nicht von der Vereinbarung ihrer AGB ausgegangen seien, die eine bloß 2-jährige Frist vorsehen und zu einer Verjährung des Klagsanspruchs geführt hätten, ist ihr zunächst entgegenzuhalten, dass die Frage, ob AGB vereinbart wurden, eine nach den Umständen des Einzelfalls zu beurteilende Frage ist und die Auslegung von Willenserklärungen im Einzelfall und Auslegungsfragen über die Erklärungsabsicht im Einzelfall vom Obersten Gerichtshof – von groben Auslegungsfehlern und sonstigen krassen Fehlbeurteilungen abgesehen – nicht zu überprüfen sind (RS0044358 [T31]). Die Beurteilung, ob zwischen den Prozessparteien eine Vertragsbeziehung anzunehmen ist oder nicht, betrifft ebenfalls keine erhebliche Rechtsfrage. Dies gilt insbesondere für die Beurteilung von Willenserklärungen durch schlüssige Verhaltensweisen (T32).
+[8] 		3.2. Das Berufungsgericht hat die ständige Rechtsprechung wiedergegeben, wonach das Festhalten der Parteien am Vertrag trotz ihrer Berufung auf einander widersprechende Geschäftsbedingungen die Annahme der Teilungültigkeit gebietet. Die nicht vom Vertrag geregelten Punkte sind mittels dispositiven Rechts und ergänzender Auslegung zu ermitteln (RS0013952). Eine aufzugreifende Fehlbeurteilung liegt daher nicht vor, wenn das Berufungsgericht hier aufgrund der voneinander abweichenden Vertragserklärungen der Parteien Teilungültigkeit des Vertrags annimmt.
+[9] 		3.3. Folglich erübrigen sich sämtliche weiteren hypothetischen Überlegungen zu Rechtsfolgen bei Anwendung der AGB der Beklagten, zumal unter Heranziehung der gesetzlichen Verjährungsfristen von drei Jahren die Klagseinbringung jedenfalls rechtzeitig erfolgte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00031.22W.0329.000

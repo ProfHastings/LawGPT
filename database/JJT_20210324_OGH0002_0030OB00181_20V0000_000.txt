@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.2021
+Geschäftszahl
+3Ob181/20v
+Kopf
+Der Oberste Gerichtshof hat durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie den Hofrat Hon.-Prof. PD Dr. Rassi, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei P***** Kft., *****, vertreten durch preslmayr.legal Rechtsanwälte GmbH in Wien, gegen die beklagte Partei B*****, vertreten durch Dr. Josef Habersack, Rechtsanwalt in Graz, wegen 285.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungs- und Rekursgericht vom 15. September 2020, GZ 3 R 79/20t-54, den
+Beschluss
+gefasst:
+Spruch
+I. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+II. Der Antrag der beklagten Partei, der außerordentlichen Revision aufschiebende Wirkung zuzuerkennen, wird zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		I. Die außerordentliche Revision der Beklagten, die von den Vorinstanzen zur Rückzahlung des Kaufpreises für den der Klägerin gelieferten Schwimmbagger (Zug um Zug gegen dessen Rückgabe) verpflichtet wurde, zeigt keine erhebliche Rechtsfrage auf:
+[2] 		1. Ein allgemeiner Gewährleistungsausschluss erstreckt sich grundsätzlich auch auf geheime Mängel und solche, die normalerweise vorausgesetzte Eigenschaften betreffen (RIS-Justiz RS0018564). Er bezieht sich jedoch nicht auf arglistig verschwiegene Mängel oder auf das Fehlen zugesicherter Eigenschaften (RS0018523); dies gilt nach der Rechtsprechung des Obersten Gerichtshofs auch bei schlüssiger Zusage (RS0018561 [T2]).
+[3] 		2. Die Beurteilung des Berufungsgerichts, nach der die Beklagte die Schwimm- und Betriebsfähigkeit des der Klägerin verkauften Schwimmbaggers in Anbetracht der zum Vertragsabschluss festgestellten Begleitumstände (insbesondere die mündlichen und schriftlichen Zusagen über den „Top-Zustand“) ausdrücklich zugesichert habe, stellt – entgegen der Ansicht der Revisionswerberin – keine Fehlbeurteilung dar. Gemäß § 932 Abs 4 ABGB hat der Übernehmer (unter anderem) dann das Recht auf Wandlung, wenn der Übergeber die Verbesserung verweigert oder nicht in angemessener Frist vornimmt. Nach dem Sachverhalt war der Schwimmbagger bei seiner Anlieferung nicht schwimm- und nicht betriebsfähig; die Parteien konnten über eine Verbesserung der Mängel („wesentlichen Schadhaftigkeiten“) keine Einigung erzielen, weil die Beklagte eine solche nur gegen Kostenersatz anbot, was die Klägerin ablehnte. Die von der Klägerin der Beklagten schließlich gesetzte Frist zur Reparatur „bei sonstigem Vertragsrücktritt“ blieb ungenützt; die Beklagte verweigerte die Verbesserung. Die in der Revision mehrfach aufgeworfene Frage nach der – hier nur mit einem Mindestbetrag festgestellten – Höhe der erforderlichen Instandsetzungskosten ist daher für die Berechtigung des Wandlungsbegehrens der Klägerin nicht relevant.
+[4] 		3. Allein der Umstand, dass ein völlig gleichgelagerter (oder ähnlicher) Sachverhalt vom Obersten Gerichtshof noch nicht beurteilt wurde, bedeutet nicht, dass eine Rechtsfrage von der in § 502 Abs 1 ZPO geforderten Bedeutung vorliegt (RS0110702 uva). Das gilt insbesondere dann, wenn – wie hier – die für vergleichbare Sachverhalte entwickelten Grundsätze der Rechtsprechung auf den konkreten Sachverhalt anwendbar sind und angewendet wurden (RS0107773 [T3]), der Streitfall daher also bereits mit Hilfe vorhandener Leitlinien höchstgerichtlicher Rechtsprechung gelöst werden kann und gelöst wurde (RS0042742 [T13]; RS0042656 [T48]).
+[5] 		II. In der Zivilprozessordnung ist die Zuerkennung der aufschiebenden Wirkung einer außerordentlichen Revision nicht vorgesehen (vgl § 42 Abs 1 Z 2a EO zur Aufschiebung der Exekution). Schon deshalb war der am 11. Dezember 2020 beim Erstgericht eingebrachte, an den Obersten Gerichtshof gerichtete Antrag der Beklagten auf Zuerkennung der aufschiebenden Wirkung zurückzuweisen (6 Ob 220/19z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0030OB00181.20V.0324.000

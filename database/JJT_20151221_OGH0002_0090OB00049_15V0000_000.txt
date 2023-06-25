@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2015
+Geschäftszahl
+9Ob49/15v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden sowie die Hofrätinnen und Hofräte des Obersten Gerichtshofs Mag. Ziegelbauer, Dr. Dehn, Dr. Hargassner und Mag. Korn in der Rechtssache der klagenden Partei Mag. M***** W*****, Rechtsanwalt, *****, als Insolvenzverwalter der A. F***** GmbH, *****, gegen die beklagte Partei S***** K*****, vertreten durch Dr. Reinhard Lachinger, Rechtsanwalt in Korneuburg, wegen zuletzt 80.000 EUR sA, in eventu Feststellung (Revisionsinteresse: Feststellung, Streitwert: 30.500 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Korneuburg, GZ 22 R 88/14t-71, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Die Beklagte meint, dass die von den Vorinstanzen nach § 273 ZPO vorgenommene Bestandzinsminderung nach der relativen Berechnungsmethode ermittelt werden hätte müssen. Dazu war Folgendes zu erwägen:
+1. Das Ausmaß der Zinsminderung richtet sich grundsätzlich nach Grad und Dauer der Unbrauchbarkeit des Bestandobjekts (RIS-Justiz RS0021324) unter Heranziehung der relativen Berechnungsmethode (zB 6 Ob 73/06p mwN, 5 Ob 21/11s, 6 Ob 13/11x; Iro in KBB4 § 1096 Rz 9). Nach der relativen Berechnungsmethode ist die Herabsetzung der Leistung nach jenem Verhältnis vorzunehmen, in welchen zur Zeit des Vertragsabschlusses der Wert der Sache in mangelfreiem Zustand zu dem Wert der mangelhaften Sache gestanden haben würde (RIS-Justiz RS0018764). Diese Berechnungsmethode ist kein Selbstzweck, sondern dient der Ermittlung der Wertrelation zwischen mangelfreier und mangelhafter Sache. Mit ihr soll dieses Verhältnis zunächst anhand der jeweiligen Marktwerte der Sache (mit/ohne Mangel) als objektivierbarer Größen festgestellt werden. Zur Aufrechterhaltung der subjektiven Äquivalenz ist sodann der konkret vereinbarte Preis im selben Verhältnis zu kürzen (P:p=W:w).
+Bei Ermittlungsschwierigkeiten bezüglich des Ausmaßes der Zinsminderung nach § 1096 ABGB darf das Gericht aber auch gemäß § 273 Abs 1 ZPO eine Ermessensentscheidung treffen (RIS-Justiz RS0109646; RS0021324 [T2]; s auch Riss in Klete?ka/Schauer § 1096 Rz 31). Darin liegt kein Widerspruch, geht es doch in beiden Fällen darum, die zu ermittelnde Wertrelation, dh den Kürzungsfaktor, zu bestimmen, wobei mit § 273 ZPO auch auf allfällige Ermittlungsschwierigkeiten bezüglich der objektiven Marktwerte Bedacht genommen wird.
+2. Die Frage, ob das Gericht § 273 ZPO anwenden darf, ist eine rein verfahrensrechtliche Entscheidung (RIS-Justiz RS0040282). Ein - wie hier - vom Berufungsgericht verneinter Mangel des erstinstanzlichen Verfahrens kann im Revisionsverfahren nicht mehr geltend gemacht werden (RIS-Justiz RS0042963). Soweit das Berufungsgericht die Anwendung des § 273 ZPO billigte, ist eine nochmalige Überprüfung im Revisionsverfahren daher nicht mehr möglich (RIS-Justiz RS0040282 [T6, T9, T15]; RS0040364 [T7]).
+3. Das Vorbringen der Beklagten, das Berufungsgericht habe die Mietzinsminderung für die temporäre Behinderung durch das Baugerüst an der Hausfassade mit 15 % bemessen, dabei aber nicht berücksichtigt, dass diese Beeinträchtigung erst am 23. April 2011 begonnen habe, ist unrichtig. Das Berufungsgericht hat die Zinsminderung von 50 % schon ohne Berücksichtigung dieses Mangels als gerechtfertigt erachtet und bezüglich des Gerüsts „lediglich der Vollständigkeit halber“ eine Anmerkung zur Bewertung des Erstgerichts gemacht (Berufungsurteil S 11). Auf die konkrete Zinsminderung war dies ohne Einfluss.
+4. Da die außerordentliche Revision der Beklagten damit insgesamt keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO aufweist, ist sie zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0090OB00049.15V.1221.000

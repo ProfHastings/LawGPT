@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2022
+Geschäftszahl
+4Ob111/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei Dr. G* C*, vertreten durch Paya & Paya Rechtsanwälte GmbH in Klagenfurt, gegen die beklagten Parteien 1. Dr. M* L*, 2. Dr. B* W*, vertreten durch Mag. Alexander Jelly, Rechtsanwalt in Villach, wegen 34.555,91 EUR sA und Feststellung (Streitwert 15.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 26. April 2022, GZ 3 R 6/22k-41, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Eine Rechtsrüge, die nicht vom konkret festgestellten Sachverhalt ausgeht, kann einer weiteren Behandlung nicht zugeführt werden (RS0043603 [T8]).
+[2] 		Im vorliegenden Arzthaftungsprozess hat bereits das Berufungsgericht die dort erhobene Rechtsrüge des Klägers nicht behandelt, weil sie maßgeblich vom festgestellten Sachverhalt abwich, wonach das Erkennen der Gewebsvermehrung im Rahmen der durchgeführten Routinebefundung nicht zu erwarten war.
+[3] 		Die Rechtsrüge in der Revision – einschließlich der Geltendmachung angeblicher sekundärer Verfahrensmängel – ist daher unzulässig, zumal das Berufungsgericht mangels gesetzlicher Ausführung der Rechtsrüge in der Berufung zur Rechtsfrage nicht Stellung genommen hat (vgl RS0043480 [T5]). Im Übrigen stellen auch die Revisionsausführungen einen untauglichen Versuch dar, die Tatsachenfeststellungen und die Beweiswürdigung der Vorinstanzen zu bekämpfen (vgl RS0043480 [T2]).
+[4] 		Selbst wenn sich der Kläger darauf stützte, dass die besagte Feststellung rechtlich anders zu beurteilen sei, ist ihm entgegenzuhalten, dass Ärzte nach § 1299 ABGB den Mangel der gewissenhaften Betreuung ihrer Patienten nach Maßgabe der ärztlichen Wissenschaft und Erfahrung zu vertreten haben, also jene Sorgfalt, die von einem ordentlichen und pflichtgetreuen Durchschnittsarzt in der konkreten Situation erwartet wird (RS0038202). Dabei darf der Sorgfaltsmaßstab nicht überspannt werden (RS0026535).
+[5] 		Wenn im vorliegenden Fall die Vorinstanzen – ausgehend vom Sorgfaltsmaßstab eines durchschnittlichen Radiologen – angesichts der Feststellung, dass (von einem solchen) das Erkennen der (das Karzinom indizierenden) Gewebsvermehrung im konkreten Fall nicht erwartet werden kann, von keinem haftungsbegründenden Verhalten der Beklagten bei der Diagnoseerstellung ausgegangen sind, begründet dies keine vom Obersten Gerichtshof aufzugreifende (grobe) Fehlbeurteilung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00111.22K.0923.000

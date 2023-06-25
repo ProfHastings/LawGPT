@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.07.2017
+Geschäftszahl
+10ObS80/17p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter Dr. Wolfgang Neumaier (aus dem Kreis der Arbeitgeber) und Mag. Herbert Böhm (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei Z*****, vertreten durch Dr. Martin Wandl und Dr. Wolfgang Krempl, Rechtsanwälte in St. Pölten, gegen die beklagte Partei Pensionsversicherungsanstalt, 1020 Wien, Friedrich-Hillegeist-Straße 1, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 28. März 2017, GZ 7 Rs 96/16p-38, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin, die eine österreichische Alterspension von 7,67 EUR brutto und eine bosnische Pension von 166,76 EUR brutto bezieht, wendet sich in ihrer außerordentlichen Revision gegen die Anrechnung der von ihrem Sohn faktisch gewährten laufenden Zuwendungen  (Unterkunft und Verpflegung) auf ihren Anspruch auf Ausgleichszulage als Einkommen im Sinn des § 292 Abs 3 ASVG.
+Rechtliche Beurteilung
+Die Revision ist unzulässig:
+1. Die Ausgleichszulage ist eine auf dem Versorgungsprinzip beruhende Leistung der gesetzlichen Pensionsversicherung mit Fürsorgecharakter, nicht aber eine Erscheinungsform der Sozialhilfe (VfGH G 165/08; 10 ObS 9/16w ua; RIS-Justiz RS0085127).
+2.1 Voraussetzung des Anspruchs auf Ausgleichszulage ist, dass die Pension zuzüglich eines „aus übrigen Einkünften des Pensionsberechtigten erwachsenden Nettoeinkommens“ nicht die Höhe des für ihn geltenden Richtsatzes (§ 293 ASVG) erreicht (§ 292 Abs 1 ASVG).
+2.2 Den Begriff des Nettoeinkommens im Sinn dieser Bestimmung definiert § 292 Abs 3 ASVG als „Summe sämtlicher Einkünfte in Geld oder Geldeswert nach Ausgleich mit Verlusten und vermindert um die gesetzlich geregelten Abzüge“. Für die Bewertung von Sachbezügen gilt grundsätzlich die Bewertung für Zwecke der Lohnsteuer.
+2.3 Das Ausgleichszulagenrecht geht von einem umfassenden Einkommensbegriff aus (10 ObS 196/03a, SSV-NF 17/102). Der Gesetzgeber hat in § 292 ASVG eine taxative Aufzählung jener Bezüge vorgenommen, die nicht auf das Gesamteinkommen anzurechnen sind. Dies führt aber zu dem zwingenden Schluss, dass grundsätzlich alle in der taxativen Aufzählung nicht enthaltenen Bezüge in Geld oder Geldeswert als Einkünfte im Sinne dieses Gesetzes anzusehen sind, gleichgültig aus welchem Rechtstitel sie zufließen, ob sie auf einem gesetzlichen oder vertraglichen Anspruch beruhen oder etwa nur freiwillig geleistet werden. Schon aus der ausdrücklichen Anführung auch der Sachbezüge und der hiefür normierten Pauschalanrechnung unabhängig vom tatsächlichen Wert ergibt sich klar, dass solche wiederkehrenden Sachbezüge als Einkünfte in Geldeswert jedenfalls als Einkommen zu berücksichtigen sind. Ob diesen eine zuvor erbrachte Gegenleistung zugrunde liegt oder ob sie unentgeltlich erbracht werden, ist dabei bedeutungslos (10 ObS 26/89, SSV-NF 3/23; RIS-Justiz RS0085296). In diesem Sinn sind auch Im Fall einer Lebensgemeinschaft bedarfsmindernde Zuwendungen durch den Lebensgefährten bei der Berechnung der Ausgleichszulage zu berücksichtigen  (RIS-Justiz RS0120158 [T1]), wobei die Rechtsprechung die Sachbezugswerteverordnung als Maßstab heranzieht (10 ObS 9/16w ua). Das ist deshalb sachgerecht, weil sich derjenige, der über eine freie Station verfügt, den dafür notwendigen Geldaufwand erspart.
+2.4 Wie erwähnt kommt es darauf, aus welchem Titel und von wem die Einkünfte – somit auch Sachbezüge – zufließen, ob sie dem Empfänger für oder ohne Gegenleistung gegeben werden und ob sie allenfalls der Steuerpflicht unterliegen, nicht an (RIS-Justiz RS0085296).
+2.5 Wie schon das Berufungsgericht ausgeführt hat, ist demnach die Frage eines etwaigen Rechtsanspruchs auf den der Klägerin von ihrem Sohn zur Verfügung gestellten Sachbezug (Unterkunft, Verpflegung) nicht maßgeblich; es kommt auch nicht auf den Inhalt einer zwischen ihr und dem Sohn bestehenden etwaigen Vereinbarung (10 ObS 196/03a; SSV-NF 17/102) oder dessen Motive für die Gewährung an.
+Mangels einer Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO war die Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:010OBS00080.17P.0718.000

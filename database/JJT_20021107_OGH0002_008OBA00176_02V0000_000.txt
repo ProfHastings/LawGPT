@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.11.2002
+Geschäftszahl
+8ObA176/02v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Langer und Dr. Rohrer sowie die fachkundigen Laienrichter Mag. Martin Oedendorfer und Mag. Michael Zawodsky als weitere Richter in der Arbeitsrechtssache der klagenden Partei C***** GmbH, *****, vertreten durch Graf, Maxl & Pitkowitz, Rechtsanwälte in Wien, wider die beklagte Partei Werner M*****, vertreten durch Dr. Gustav Teicht und Dr. Gerhard Jöchl, Rechtsanwälte in Wien, wegen EUR 5.876,28 sA, infolge außerordentlicher Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 24. Mai 2002, GZ 9 Ra 142/02x-25, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 46 Abs 1 ASGG zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Da es sich vorliegenden Falls nicht um einen Streit über die Beendigung des Arbeitsverhältnisses handelt - es ist unstrittig, dass der Beklagte selbst gekündigt hat - ist die ordentliche Revision nach § 46 Abs 3 Z 1 ASGG nicht zulässig. Es geht vorliegenden Falls lediglich um die Frage, ob der Beklagte unredlich war und eine irrtümlich erhaltene Abfertigungszahlung nicht gutgläubig verbrauchen, sondern zurückzahlen muss.
+Hiebei handelt es sich um einen Einzelfall (8 ObA 289/01k = ARD 5340/18/02), den das Berufungsgericht im Rahmen der oberstgerichtlichen Rechtsprechung gelöst hat, ohne dass ihm hiebei eine grobe Fehlbeurteilung unterlaufen wäre.
+Die Rückerstattung von irrtümlich angewiesenen Bezügen kann dann nicht verlangt werden, wenn der Empfänger sie im guten Glauben erhalten und sie als redlichen Besitz verbraucht hat. Redlichkeit ist dem Arbeitnehmer aber schon dann abzusprechen, wenn er zwar nicht nach seinem subjektiven Wissen, sondern bei objektiver Beurteilung an der Rechtmäßigkeit des ihm (rechtsgrundlos) ausbezahlten Betrages auch nur zweifeln musste (RIS-Justiz RS0033826).
+Dem Berufungsgericht ist keine krasse Fehlbeurteilung unterlaufen, wenn es im vorliegenden Fall davon ausgegangen ist, dass der Beklagte an der Rechtmäßigkeit des ihm (rechtsgrundlos) ausbezahlten Betrages zweifeln musste: Er wusste, dass sein Arbeitgeber trotz mehrfacher Intervention durch den Betriebsrat die Zahlung einer freiwilligen Abfertigung abgelehnt hatte. Unter diesen Umständen durfte der Beklagte, der wusste, dass ihm infolge Selbstkündigung eine gesetzliche Abfertigung nicht zustand, ohne weitere Rückfragen beim Dienstgeber nicht annehmen, dass dieser - ohne dies ausdrücklich auszusprechen - nunmehr stillschweigend von seinem Standpunkt abgerückt wäre und bereit war, ihm unter dem Titel "gesetzliche Abfertigung" nun doch eine freiwillige Abfertigung zu zahlen. Wer unterlässt, unter diesen Umständen rückzufragen, ob der unter dem Titel "gesetzliche Abfertigung" überwiesene Betrag doch eine freiwillige Abfertigungszahlung seines Dienstgebers sein sollte, ist unredlich; er darf sich nicht damit begnügen, anzunehmen, die Interventionen hätten nachträglich doch noch genützt und die von ihm erkannte Fehlbezeichnung sei nur auf einen Fehler im Computerprogramm, nicht aber auf eine irrtümliche Anweisung zurückzuführen.
+Dieser Kondiktionsanspruch des Arbeitgebers unterliegt nicht dem
+Kollektivvertrag und kann daher auch nicht nach dessen Bestimmungen
+verfallen. Nur der typische, wesentliche oder regelmäßig
+wiederkehrende Inhalt eines Arbeitsverhältnisses kann einer
+kollektivvertraglichen Regelung unterworfen werden, dazu gehören
+nicht Kondiktionsansprüche wegen irrtümlich erbrachter
+rechtsgrundloser Leistungen iSd § 1431 ABGB (4 Ob 108/81 = SZ 54/147
+= DRdA 1983, 178 [Wachter] = ZAS 1983, 101 [Geppert] = Arb 10.057
+ua).

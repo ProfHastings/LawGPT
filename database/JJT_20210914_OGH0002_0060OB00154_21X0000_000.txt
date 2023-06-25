@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.09.2021
+Geschäftszahl
+6Ob154/21x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, durch die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Parteien 1. M*****, 2. P*****, beide *****,  vertreten durch Mag. Dieter Koch und Mag. Natascha Jilek, Rechtsanwälte in Bruck an der Mur, gegen die beklagte Partei L***** Aktiengesellschaft, *****, vertreten durch ScherbaumSeebacher Rechtsanwälte GmbH in Graz, wegen Feststellung, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 15. Juni 2021, GZ 2 R 94/21t-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die Rechtsansicht des Berufungsgerichts, wonach es sich beim Geldwechselvertrag und beim Fremdwährungskreditvertrag um zwei Verträge handelt, steht im Einklang mit der Rechtsprechung des Obersten Gerichtshofs (8 Ob 37/20d [ErwGr III.3.]). In dieser Entscheidung wurde außerdem bereits darauf hingewiesen, dass dieser Umstand auch einem typischen, nicht juristisch geschulten Kunden erkennbar ist. Der Kunde weiß demnach zum einen, dass er einen Fremdwährungskredit aufgenommen, also laienhaft ausgedrückt einen bestimmten Fremdwährungsbetrag bei der Bank ausgeliehen hat und dessen Rückzahlung zuzüglich Zinsen schuldet. Zum anderen muss der Kunde davon ausgehen, dass der Unternehmer dies nicht umsonst machen würde, also mit dem Wechseln von Geld einen Gewinn anstrebt.
+[2] 		Entgegen der in der Revision vertretenen Auffassung besteht keine Grundlage für die Annahme, dass mit der Unwirksamkeit des Geldwechselvertrags auch der Fremdwährungskreditvertrag wegfiele. Vielmehr kann der Fremdwährungskreditvertrag auch ohne den Geldwechselvertrag bestehen und durchgeführt werden. Nach dem Fremdwährungskreditvertrag nahmen die Kläger einen CHF-Kredit im Gegenwert von 84.599,81 EUR auf, der bei Ende der Laufzeit effektiv, also in Schweizer Franken, zurückzuzahlen ist. An Sollzinsen waren 2,5 % pa vereinbart. Zutreffend wiesen die Vorinstanzen bereits darauf hin, dass die Kläger nicht verpflichtet sind, die Umwechslung bei der beklagten Bank vorzunehmen (vgl auch 1 Ob 47/21z).
+[3] 		In dieser Konstellation ist auch nach den Vorgaben des Unionsrechts ein „Durchschlagen“ der Nichtigkeit des Geldwechselvertrags auf den Fremdwährungskreditvertrag nicht gefordert (vgl 9 Ob 85/17s).
+[4] 		Zudem hat das Berufungsgericht seine Entscheidung auch darauf gestützt, dass das Haupt- und die Eventualbegehren unschlüssig sind. Dazu enthält die Revision keine Ausführungen. Wird die Entscheidung der zweiten Instanz aber auf eine selbständig tragfähige Hilfsbegründung gestützt, muss auch diese im außerordentlichen Rechtsmittel bekämpft werden (RS0118709).
+[5] 		Zusammenfassend bringen die Kläger daher keine Rechtsfrage der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass die Revision spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00154.21X.0914.000

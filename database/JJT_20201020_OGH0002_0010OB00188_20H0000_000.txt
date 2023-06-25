@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2020
+Geschäftszahl
+1Ob188/20h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Familienrechtssache der Antragstellerin A*****, vertreten durch I*****, gegen den Antragsgegner Ing. J*****, vertreten durch Dr. Widukind W. Nordmeyer und andere Rechtsanwälte in Wels, wegen Unterhalts, über den Revisionsrekurs des Antragsgegners gegen den Beschluss des Landesgerichts Krems als Rekursgericht vom 7. August 2020, GZ 2 R 41/20x-59, mit dem der Beschluss des Bezirksgerichts Krems an der Donau vom 20. März 2020, GZ 17 Fam 7/19k-53, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+1. Der Revisionsrekurswerber wurde aufgrund des Erhöhungsantrags seiner volljährigen Tochter zur Zahlung von rückständigem Unterhalt verpflichtet.
+In ihrem Erhöhungsantrag hatte die Tochter (ohnehin) eine „teilweise Anrechnung der Familienbeihilfe und die Einrechnung des halben Familienbonus plus“ berücksichtigt. Der Forderung des Vaters, es habe wegen des alleinigen Bezugs des Familienbonus durch die Mutter zu einer „vollen Anrechnung der [erhöhten] Familienbeihilfe“ zu kommen, kam das Erstgericht nicht nach. Es setzte den Unterhaltsrückstand in der von der Tochter begehrten Höhe fest.
+Das Rekursgericht bestätigte diesen Beschluss. Es berief sich dafür auf die zum Unterhalt von minderjährigen Kindern ergangene Rechtsprechung (RIS-Justiz RS0132928), wonach der vom Unterhaltspflichtigen bezogene Familienbonus nicht in die Unterhaltsbemessungsgrundlage einzubeziehen ist, eine Anrechnung von Transferleistungen nicht mehr stattzufinden hat und Familienbonus sowie Unterhaltsabsetzbetrag unterhaltsrechtlich neutral bleiben. Die in der Entscheidung zu 4 Ob 150/19s dargelegten Überlegungen zur Zielsetzung bei Einführung des Familienbonus (die Entkoppelung von Unterhalts- und Steuerrecht) seien – angesichts des damit verfolgten Konzepts einer pauschalierenden steuerlichen Entlastung – auch auf die Bemessung des Unterhalts von volljährigen Kindern zu übertragen. Da aber zu 4 Ob 150/19s die Frage der steuerlichen Berücksichtigung bei der Unterhaltsbemessung Volljähriger ausdrücklich offengelassen worden sei und bisher höchstgerichtliche Rechtsprechung zu dieser Frage fehle, erklärte es den ordentlichen Revisionsrekurs für zulässig.
+Rechtliche Beurteilung
+2. Diese – vom Rekursgericht im Entscheidungszeitpunkt zu Recht als erheblich im Sinne des § 62 Abs 1 AußStrG qualifizierte – Rechtsfrage hat der 9. Senat mit (in das Rechtsinformationssystem des Bundes erst nach der Entscheidung des Rekursgerichts eingestelltem) Beschluss vom 25. 6. 2020, 9 Ob 59/19w (= RS0133181 = iFamZ 2020, 227 [Neumayr]) mit eingehender Begründung   entschieden. Er kam dabei zu folgendem Ergebnis (Pkt 6.5 der Entscheidung): „Zusammengefasst ist also davon auszugehen, dass der Steuergesetzgeber mit der Einführung des Familienbonus Plus (gemeinsam mit dem schon bestehenden Unterhaltsabsetzbetrag) die Vorgabe des Verfassungsgerichtshofs, die im Vergleich zu einer nicht unterhaltspflichtigen Person verminderte Leistungsfähigkeit durch eine entsprechende Verminderung ihrer Steuerlast zu berücksichtigen, undifferenziert erfüllen und die steuerliche Berücksichtigung der Unterhaltslast zur Gänze in das Steuerrecht verlagern wollte. Diese gesetzgeberische Intention ist auch hinsichtlich der volljährigen Unterhaltsberechtigten zu akzeptieren.“
+Die im Revisionsrekurs als einziges Thema  angesprochene Frage der (grundsätzlichen) Anrechnung von Transferleistungen seit Einführung des Familienbonus bei der Unterhaltsbemessung Volljähriger ist damit vom Obersten Gerichtshof bereits (negativ) beantwortet worden. Die Vorinstanzen haben – im Rahmen des Antrags der Tochter – im Sinne dieser Judikatur entschieden.
+Ist diese Problematik nun bereits durch andere Entscheidungen des Obersten Gerichtshofs geklärt (9 Ob 59/19w; 9 Ob 24/20z), fehlt dem Rechtsmittel die Voraussetzung des Vorliegens einer erheblichen Rechtsfrage im Sinne des § 62 Abs 1 AußStrG im – insoweit maßgeblichen (RS0112769 [T9, T11]; RS0112921 [T2]) – Zeitpunkt der Entscheidung darüber (RS0112769; zum AußStrG RS0112921 [T10, T14]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0010OB00188.20H.1020.000

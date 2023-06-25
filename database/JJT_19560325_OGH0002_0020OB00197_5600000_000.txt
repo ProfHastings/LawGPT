@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.03.1956
+Geschäftszahl
+2Ob197/56
+Norm
+ABGB §1380;
+Gerichtsorganisationsgesetz §89;
+ZPO §126;
+ZPO §204;
+Kopf
+SZ 29/31
+Spruch
+Spruchrepertorium Nr. 46 neu.
+Wird in einem gerichtlichen Vergleich die Möglichkeit seines Widerrufs durch eine innerhalb einer bestimmten Frist bei Gericht abzugebende Widerrufserklärung vorgesehen, dann ist der Widerruf mangels anderer Vereinbarung nur dann wirksam, wenn die Widerrufserklärung innerhalb dieser Frist bei Gericht eingelangt ist.
+Entscheidung vom 25. März 1956, 2 Ob 197/56.
+I. Instanz: Bezirksgericht Hall in Tirol; II. Instanz: Landesgericht Innsbruck.
+Text
+In dem vor dem Erstgericht am 9. November 1955 abgeschlossenen Vergleiche haben die Parteien abschließend festgesetzt (wörtlich):
+"Der Vergleich wird rechtswirksam, wenn er nicht innerhalb der Frist von zwei Monaten ab heute, das ist bis einschließlich 9. Jänner 1956, durch Widerrufserklärung beim Bezirksgericht Hall außer Kraft gesetzt wird. In diesem Falle wird die Streitverhandlung lediglich über Antrag einer der beiden Parteien fortgesetzt."
+In der am 9. Jänner 1956 zur Post gegebenen und beim Erstgerichte am 10. Jänner 1956 eingelangten Eingabe hat die Beklagte erklärt, den am 9. November 1955 abgeschlossenen, befristeten Vergleich "binnen offener Frist" zu widerrufen.
+Das Erstgericht wies diese Widerrufserklärung als verspätet zurück und begrundete dies damit, daß die im Rahmen des Vergleichs für die allfällige Widerrufserklärung festgelegte Frist weder eine gesetzliche noch eine richterliche, vielmehr eine durch den übereinstimmenden Parteiwillen vertraglich vereinbarte Frist sei. Sie unterliege daher nicht der Bestimmung des § 126 ZPO. Der Postenlauf sei einzurechnen. Nach dem klaren, unmißverständlichen Parteiwillen sollte der Vergleich rechtswirksam werden, wenn er nicht bis einschließlich 9. Jänner 1956 durch Widerrufserklärung beim Bezirksgericht Hall in Tirol außer Kraft gesetzt werde. Die am 9. Jänner 1956 zur Post gegebene und erst am 10. Jänner 1956 bei Gericht eingelangte Widerrufserklärung sei demnach als verspätet zurückzuweisen.
+Dem Rekurse der Beklagten gab das Rekursgericht Folge; es hob den erstinstanzlichen Beschluß auf und trug dem Erstgerichte die Fortsetzung des Verfahrens auf. Das Rekursgericht führte unter Hinweis auf den Wortlaut des Vergleiches aus, daß - abgesehen vom inneren Widerspruch, daß ein noch nicht in Kraft getretener Vergleich außer Kraft zu setzen sei - die Widerrufsmöglichkeit eine aufschiebende Bedingung sei. Der Widerruf sei in diesem Falle nicht nur eine materiellrechtliche Willenserklärung, sondern auch eine dem Prozeßgerichte gegenüber abzugebende Prozeßerklärung. Er unterliege also hinsichtlich der Beurteilung seiner Rechtzeitigkeit als Prozeßhandlung den Vorschriften der §§ 89 GOG., 125 und 126 ZPO. Daher sei die am 9. Jänner 1956 zur Post gegebene Widerrufserklärung rechtzeitig gewesen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der klagenden Partei Folge und stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist zulässig, da es sich beim angefochtenen Beschluß inhaltlich um eine Abänderung der vom Erstgerichte vorgenommenen Zurückweisung der Widerrufserklärung der Beklagten handelt; der Revisionsrekurs ist auch begrundet.
+Zutreffend weist die Revisionsrekurswerberin darauf hin, daß es sich um eine zwischen den Parteien vereinbarte Frist handle, daß der Inhalt des Vergleiches einschließlich der Leistungs- und Widerrufsfrist rechtsgeschäftlicher Natur sei und erst der Antrag auf Fortsetzung des Verfahrens eine Prozeßhandlung wäre, die aber nur wirksam sein könnte, wenn das Inkrafttreten des Vergleichs durch die rechtzeitige rechtsgeschäftliche Widerrufserklärung verhindert worden wäre. Im oben bezogenen Vergleiche wird ja eindeutig in dieser Beziehung unterschieden. In diesem Zusammenhange ist auch zu bemerken, daß die Beklagte einen Antrag auf Fortsetzung des Verfahrens (auf "Fortsetzung der Streitverhandlung" im Sinne der Formulierung im letzten Absatze des Vergleichs) gar nicht gestellt hat. Der Oberste Gerichtshof hat bereits in seiner Entscheidung SZ. XXV 188 dargelegt, daß es für die Wirksamkeit des Widerrufs eines zwischen den Parteien bedingt abgeschlossenen Vergleichs mangels anderer Vereinbarung notwendig sei, daß der Widerruf am letzten Tage der Frist bei Gericht einlange, weil die Vorschrift des § 89 GOG. über die Nichteinrechnung der Tage des Postenlaufes in die Frist nur bei gesetzlichen oder richterlichen Fristen zur Vornahme prozessualer Akte gelte, abgesehen davon, daß der Widerruf des Vergleichs eine meritorische Erklärung darstelle. Es besteht kein Anlaß, von der in SZ. XXV 188 ausgedrückten Ansicht abzugehen, zumal vorliegendenfalls im Vergleiche eindeutig zwischen der Befugnis zur Abgabe der Widerrufserklärung und dem Antrage auf Fortsetzung des Verfahrens (nach vorgenommenem Widerrufe) unterschieden worden ist. Der Hinweis des Rekursgerichtes auf die Entscheidung des Obersten Gerichtshofes SZ. XXIII 382 greift schon deshalb nicht durch, weil es sich im Falle dieser Entscheidung bloß um die Frage der Rechtzeitigkeit eines Antrages auf Fortsetzung des Verfahrens gehandelt hat. Richtig ist, daß in der Entscheidung des Obersten Gerichtshofes GlUNF. 1773 die in einem gerichtlichen Vergleiche festgesetzte Erfüllungsfrist als prozessuale Frist behandelt worden ist; dabei ist aber nicht berücksichtigt worden, daß sich die Vorschriften des § 126 ZPO. - wie übrigens auch jene des § 89 GOG. - ausdrücklich auf gesetzliche und richterliche Fristen beziehen.
+Aus diesen Erwägungen war dem Revisionsrekurse Folge zu geben und in Abänderung des angefochtenen Beschlusses jener des Erstgerichtes wiederherzustellen, wobei in formeller Hinsicht noch zu bemerken ist, daß die Zurückweisung einer verspäteten Erklärung auf Widerruf eines bedingt abgeschlossenen Vergleiches durch das Prozeßgericht in den Rahmen des im § 204 ZPO. vorgesehenen Aufgabenkreises fällt.
+Unter einem hat der zweite Senat beschlossen, den eingangs angeführten Rechtssatz unter Nr. 46 neu in das Spruchrepertorium einzutragen.

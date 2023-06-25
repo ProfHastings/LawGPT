@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2018
+Geschäftszahl
+7Ob67/18f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Mag. Katharina Winkler, PLL.M., *, als Insolvenzverwalterin im Konkurs über das Vermögen der W* GmbH, gegen die beklagte Partei W* GmbH, *, vertreten durch Mag. Elisabeth Schwendt, Rechtsanwältin in Wien, wegen 5.756,40 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 10. Jänner 2018, GZ 40 R 202/17b-13, womit das Urteil des Bezirksgerichts Liesing vom 8. Mai 2017, GZ 6 C 55/17m-9, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+Gemäß Untermietvertrag vom 1. August 2015 hat die Beklagte als Untermieterin von der Schuldnerin als Untervermieterin auf bestimmte Zeit (bis 31. Juli 2020) ein Betriebsobjekt in Bestand genommen.
+Mit als „Akontobestätigung“ bezeichnetem Schreiben vom 30. Oktober 2015 bestätigte die Untervermieterin der Beklagten eine „Akontozahlung von 74.835,02 EUR“, welche Summe „als Mietvorauszahlung bis einschließlich 31. 10. 2016 gebucht“ werde. Tatsächlich handelte es sich dabei um eine aufgrund einer zwischen den Parteien getroffenen Vereinbarung erfolgte Aufrechnung der Mietzinsforderung gegen Verbindlichkeiten der Untervermieterin der Beklagten gegenüber.
+Die Untervermieterin verfiel am 18. März 2016 in Konkurs.
+Die Klägerin begehrte den Mietzins für April 2016.
+Das Erstgericht gab der Klage statt.
+Das Berufungsgericht wies das Klagebegehren ab und ließ die ordentliche Revision zur Frage zu, ob auch eine Aufrechnung durch den Bestandnehmer unter den Begriff der Vorauszahlung in § 24 Abs 1 IO fällt.
+Rechtliche Beurteilung
+Die Revision zeigt keine erheblichen Rechtsfragen auf. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+1. Mietzinsforderungen entstehen in der Regel erst mit dem jeweiligen Fälligkeitstermin, eine vorherige Geltendmachung ist mangels entsprechender Vereinbarung mit dem Bestandgeber nicht möglich (RIS-Justiz RS0110552). Nach § 1100 ABGB ist – wenn nichts anderes vereinbart oder ortsüblich ist – der Mietzins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten.
+2. Nach den Feststellungen haben die Mietvertragsparteien eine Aufrechnungsvereinbarung getroffen. Das Berufungsgericht hat diese Vereinbarung dahin ausgelegt, dass die Mietvertragsparteien damit die Fälligkeit der Mietzinse bis einschließlich Oktober 2016 vorverlegten und diese als beglichen ansahen.
+3.1. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042936; vgl RS0042555).
+3.2. Warum hier vor dem Hintergrund der dispositiven Bestimmung des § 1100 ABGB ein unvertretbares Auslegungsergebnis vorliegen sollte, legt die Revision nicht dar. Mit ihrer bloßen Behauptung, es bestehe gar keine Vereinbarung, sondern nur eine einseitige Erklärung der Schuldnerin, geht die Revision auch nicht vom festgestellten Sachverhalt aus (RIS-Justiz RS0043312).
+4. Da nach den Feststellungen keine einseitige außergerichtliche Aufrechnung im Sinne eines durch eine empfangsbedürftige Willenserklärung unbedingt und unbefristet auszuübenden Gestaltungsrechts (RIS-Justiz RS0033970 [insb T4]) vorliegt, kommt es hier weder auf die vom Berufungsgericht aufgeworfene Zulassungsfrage noch auf die in der Revision erörterten Bestimmungen der §§ 19 f IO an.
+5.1. Die tragende Feststellung, dass die Mietvertragsparteien eine Aufrechnungsvereinbarung trafen, auf die sich die Beklagte in ihrer Berufung ausdrücklich bezog, wurde von der Revisionswerberin nicht im Hinblick auf § 468 Abs 2 ZPO bereits in der Berufungsbeantwortung bekämpft (vgl RIS-Justiz RS0042740 [T42–T45]; RS0119339 [T1]; vgl RS0112020 [T14]). Sie kann daher diese vom Berufungsgericht übernommenen Feststellungen des Erstgerichts nicht mehr bekämpfen (1 Ob 156/17y).
+5.2. Da konträre Feststellungen getroffen wurden, liegt auch kein rechtlicher Feststellungsmangel vor.
+6. Die beklagte Partei hat auf die Unzulässigkeit der Revision nicht hingewiesen; ihre Revisionsbeantwortung war daher zur zweckentsprechenden Rechtsverteidigung nicht erforderlich.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E121935

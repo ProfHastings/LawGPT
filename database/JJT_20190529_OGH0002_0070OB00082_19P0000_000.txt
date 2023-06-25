@@ -1,0 +1,47 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2019
+Geschäftszahl
+7Ob82/19p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei E***** E*****, vertreten durch Dr. Robert Eiter, Rechtsanwalt in Landeck, gegen die beklagte Partei M***** Versicherung Aktiengesellschaft, *****, vertreten durch Dr. Edwin A. Payr, Rechtsanwalt in Graz, wegen 128.756,56 EUR sA und Rente, gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 21. März 2019, GZ 4 R 17/19k-115, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat bei der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem die „Allgemeinen Bedingungen für die Unfallversicherung – AUVB 2008“ der Beklagten (kurz: AUVB) zu Grunde liegen; diese haben auszugsweise folgenden Inhalt:
+„...
+Abschnitt B
+Versicherungsleistungen
+Was kann versichert werden?
+Artikel 7 – Dauernde Invalidität
+1. Wann besteht ein Anspruch auf Leistung für dauernde Invalidität?
+Ergibt sich innerhalb eines Jahres vom Unfalltag an gerechnet, dass als Folge des Unfalles eine dauernde Invalidität (Beeinträchtigung der körperlichen oder geistigen Leistungsfähigkeit auf Lebenszeit) zurück bleibt, wird – unbeschadet der Bestimmungen des Artikel 7, Punkt 5 – aus der hierfür versicherten Summe der dem Grade der Invalidität entsprechende Betrag gezahlt.
+[…]
+2. Wie wird der Invaliditätsgrad bemessen?
+Für die Bemessung des Invaliditätsgrades gelten folgende Bestimmungen:
+2.1. Bei völligem Verlust oder völliger Funktionsunfähigkeit
+[…]
+der Sehkraft eines Auges 50 %
+[…]
+2.2. Bei teilweisem Verlust oder teilweiser Funktionsunfähigkeit der vorgenannten Körperteile oder Organe werden die Sätze des Artikel 7, Punkt 2.1, anteilig verwendet.
+[…]“
+Bei Tischlereiarbeiten prallte dem Kläger ein Holzteil in sein – nicht vorgeschädigtes – rechtes Auge, wodurch dessen Sehschärfe auf zwischen 0,1 und 0,4 reduziert und dessen dauernde Gebrauchsminderung im Ausmaß von 12 % bis 34 % verursacht wurde.
+Die Vorinstanzen wiesen das Klagebegehren ab, weil bei einer Gebrauchsminderung eines Auges von maximal 34 % eine dauernde Invalidität von 17 % vorliege, aus der sich eine Versicherungsleistung von 20.225,92 EUR ergebe, und der Kläger von der Beklagten bereits mehr als diesen Betrag erhalten habe.
+Rechtliche Beurteilung
+1. Die geltend gemachte Nichtigkeit wurde geprüft; sie liegt nicht vor. Die ergänzende Stellungnahme des Sachverständigen zur Frage der Gebrauchsminderung des Auges wurde von beiden Parteien in ihren Erörterungsanträgen ausdrücklich begehrt.
+2. Die Feststellung des Invaliditätsgrades (Beeinträchtigung der körperlichen und geistigen Funktionsfähigkeit nach medizinischen Gesichtspunkten) stellt eine Tatfrage dar, die im Revisionsverfahren nicht überprüft werden kann (stRsp: RS0118909), zumal der Oberste Gerichtshof nur Rechts- und nicht Tatsacheninstanz ist (RS0069246 uva).
+Fragen der Beweiswürdigung und bereits im Berufungsverfahren erfolglos geltend gemachte Verfahrensmängel erster Instanz können an den Obersten Gerichtshof nicht herangetragen werden (vgl RS0042903 [T2, T7, T8, T10]; RS0069246 [T1, T2]; RS0042963).
+3. Ein
+Mangel des
+Berufungsverfahrens läge dann vor, wenn sich das Berufungsgericht mit den Berufungsgründen der
+Mangelhaftigkeit des Verfahrens oder der unrichtigen Beweiswürdigung überhaupt nicht befasst hätte (RS0043141, RS0043371). Hat das Berufungsgericht hingegen – wie hier – die Beweiswürdigung des Erstgerichts überprüft und nachvollziehbare Erwägungen über die Beweiswürdigung angestellt, so ist das Berufungsverfahren mängelfrei geblieben (vgl RS0043150, RS0043268).
+4. Die Frage, ob die eingeholten Sachverständigengutachten die von den Vorinstanzen getroffenen Feststellungen rechtfertigen, gehört ebenso in das Gebiet der nicht revisiblen Beweiswürdigung (RS0043163 [T1]) wie die Frage, ob ein weiteres Sachverständigengutachten eingeholt werden soll (RS0043320).
+5. Abschließend ist noch darauf hinzuweisen, dass der Kläger übergeht, dass er einen Anspruch aus einer privaten Unfallversicherung geltend macht. Dieser ist daher nach den vereinbarten Versicherungsbedingungen zu  beurteilen. Danach ist der Invaliditätsgrad nach der (hier) körperlichen Beeinträchtigung, dem Grad der Funktionsunfähigkeit zu beurteilen. Dies ist hier geschehen.
+Eine erhebliche Rechtsfrage zeigt die Revision nicht auf.
+6. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00082.19P.0529.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.06.2021
+Geschäftszahl
+8Ob44/21k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei W***** GmbH, *****, vertreten durch Dr. Andreas Fink & Dr. Christopher Fink, Rechtsanwälte in Imst, gegen die beklagte Partei A***** T***** L***** GmbH, *****, vertreten durch Dr. Wilfried Leys, Rechtsanwalt in Landeck, wegen (Revisionsinteresse) 56.137,42 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 25. Februar 2021, GZ 2 R 167/20f-71, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+[1] 		Die Revisionsausführungen wenden sich gegen die Rechtsansicht des Berufungsgerichts, dass die im Architektenvertrag zwischen den Streitteilen vereinbarte Baukostengarantie nicht jene Positionen umfasst habe, die in der Kostenaufstellung des Beklagten ausdrücklich als „bauseits“ sowie „nicht inkludiert“ bezeichnet wurden.
+Rechtliche Beurteilung
+[2] 		Grundsätzlich wirft die Auslegung von Verträgen aufgrund ihrer Einzelfallbezogenheit keine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO auf (RIS-Justiz RS0042776; RS0112106 [T4, T6]). Dies gilt auch für die Interpretation von im Rahmen eines Garantievertrags abgegebenen Erklärungen des Garanten (RS0033002). Eine grobe Fehlbeurteilung durch die Vorinstanz, die im Interesse der Rechtssicherheit wahrgenommen werden müsste, zeigt die Revision nicht auf.
+[3] 		Der strittigen Vereinbarung lag eine detaillierte Auflistung der vom Beklagten kalkulierten Baukosten zugrunde, die in ihrer Summe bereits den unter einem garantierten Höchstbetrag ergeben haben. Die Auslegung, dass die in der Auflistung zwar als zur Verwirklichung des Bauvorhabens erforderlich angeführten, aber als „bauseits“ bzw „nicht inkludiert“ bezeichneten, in der Kostensumme nicht enthaltenen Leistungen auch nicht von der Höchstbetragsgarantie erfasst sein konnten, ist aus diesem Grund keineswegs unvertretbar.
+[4] 		Daran ändert nichts, dass sich die Beklagte verpflichtet hatte, dass die Baukosten für die angeführten Leistungen, die für den Zu- und Umbau des Hotels der klagenden Partei „notwendig sind, in Höhe von EUR 2.498.678,52 netto nicht überschritten werden“. Es handelt sich bei diesem Betrag eben genau um die Summe der aufgelisteten Einzelpositionen, sodass für eine zusätzliche Inklusion der „bauseits“ bereitgestellten Leistungen rechnerisch kein Raum bleibt.
+[5] 		Die Frage, ob die Beklagte auch die Kosten von solchen bauseitigen Maßnahmen bei einer mängelfreien Architektenleistung aufgrund von Erfahrungswerten zu kalkulieren gehabt hätte, um dem Auftraggeber Klarheit über die zu erwartende Höhe zu verschaffen, ist von der übernommenen Baukostengarantie zu trennen.
+[6] 		Die Auffassung des Berufungsgerichts, dass es nach dem klaren Wortlaut der Vereinbarung keiner zusätzlichen Aufklärung der Klägerin, die diese Arbeiten selbst mit eigenen Leuten durchführen wollte, über die darauf entfallenden Zusatzkosten bedurfte, ist jedenfalls nicht unvertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0080OB00044.21K.0625.000

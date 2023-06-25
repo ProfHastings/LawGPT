@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.2022
+Geschäftszahl
+4Ob117/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, Dr. Nowotny und Hon.-Prof. PD Dr. Rassi sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei J* K*, vertreten durch Dr. Oliver Peschel, Rechtsanwalt in Wien, gegen die beklagte Partei T* Ltd, *, Malta, vertreten durch die BRANDL TALOS Rechtsanwälte GmbH in Wien wegen 1.637.926,70 EUR sA, über die „außerordentliche Revision“ der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 12. Mai 2022, GZ 13 R 85/22y-29, mit dem der Beschluss und das Teilurteil des Landesgerichts Eisenstadt vom 11. März 2022, GZ 2 Cg 69/21p-21, bestätigt wurden, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Rechtsmittel wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger begehrt die Rückzahlung von Spielverlusten, wobei er seinen Anspruch darauf stützt, dass die von der beklagten Partei veranstalteten Glücksspiele (Online-Poker) dem österreichischen Glücksspielmonopol widersprächen.
+[2] 		Das Erstgericht verurteilte die Beklagte mit Teilurteil zur Zahlung von 1.457.875,55 EUR. Mit dem im Urteil aufgenommenen Beschluss verwarf es die von der Beklagten erhobene Einrede der fehlenden internationalen Zuständigkeit. Das Erstgericht ging davon aus, dass sich der Kläger als Verbraucher auf Art 17 Abs 1 lit c EuGVVO 2012 stützen könne.
+[3] 		Der von der Beklagten dagegen sowohl zur Verwerfung der Prozesseinrede als auch in der Hauptsache – zutreffend (vgl § 261 Abs 3 ZPO) – erhobenen Berufung gab das Berufungsgericht nicht Folge. (Nur) In den Entscheidungsgründen bejahte es ausdrücklich und begründet wegen der Verbrauchereigenschaft des Klägers die Zuständigkeit des angerufenen Gerichts.
+[4] 		Mit seinem dagegen erhobenen Rechtsmittel macht der Beklagte ausschließlich geltend, dass der Kläger als Unternehmer (professioneller Pokerspieler) zu qualifizieren sei und er sich daher nicht auf die Verbraucherschutzvorschriften der Art 17 ff EuGVVO 2012 stützen könne. Das Berufungsgericht hätte folgerichtig aussprechen müssen, dass das Erstgericht aufgrund einer zulässigen Gerichtsstandsvereinbarung hinsichtlich der Klage international unzuständig sei.
+Rechtliche Beurteilung
+[5] 		Das Rechtsmittel ist unzulässig.
+[6] 		Der (wenngleich bloß implizite gefasste, jedoch bestätigende) Beschluss des Berufungsgerichts unterliegt den Anfechtungsbeschränkungen des § 519 Abs 1 ZPO und ist somit unanfechtbar (RS0123463; Kodek in Fasching/Konecny3 § 261 ZPO Rz 87). Damit liegt aber eine den Obersten Gerichtshof bindende Entscheidung nach § 42 Abs 3 JN vor (RS0035572; RS0114196; RS0039226; RS0039774; vgl auch RS0046234; 8 Ob 136/08w; 5 Ob 28/10v).
+[7] 		Daher ist das Rechtsmittel, das als (Revisions-)Rekurs gegen die vom Berufungsgericht als Beschluss aufzufassende Entscheidung zu verstehen ist, mit der die Verwerfung der genannten Prozesseinrede bestätigt wurde, als absolut unzulässig zurückzuweisen (8 Ob 136/08w; 5 Ob 28/10v).
+[8] 		Die im Rechtsmittel aufgeworfenen unionsrechtlichen Fragen zum Verbraucherbegriff stellen sich damit nicht, sodass der Anregung auf Einholung eines Vorabentscheidungsersuchens bezüglich Art 17 ff EuGVVO 2012 schon deshalb nicht zu folgen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00117.22T.0630.000

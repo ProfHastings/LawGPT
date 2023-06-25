@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8Ob28/22h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Schuldenregulierungssache des Schuldners R* R*, vertreten durch Dr. Sabine C. M. Deutsch, Rechtsanwältin in Riegersburg, über den „außerordentlichen“ Revisionsrekurs des Schuldners gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 15. Dezember 2021, GZ 4 R 201/21i-192, mit dem der Beschluss des Bezirksgerichts Feldbach vom 8. September 2021, GZ 15 S 36/20k-118, zum Teil bestätigt und im Übrigen der Rekurs des Schuldners zurückgewiesen wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der „außerordentliche“ Revisionsrekurs wird hinsichtlich des Spruchpunkts 1.b der angefochtenen Entscheidung als jedenfalls unzulässig, im Übrigen als verspätet zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Erstgericht fasste in der vorliegenden Schuldenregulierungssache den Beschluss, den Antrag des Schuldners auf Übermittlung des Antrags auf Eröffnung des Schuldenregulierungsverfahrens zu bewilligen (Punkt 1.), seine Anträge auf Richtigstellung der Ediktsdatei und auf Übermittlung des Beschlusses zur Genehmigung der Anfechtungsklage abzuweisen (Punkte 2. und 3.) und sich die Entscheidung über die Anträge des Schuldners „auf Übermittlung der Aufzeichnung der illegalen Videokonferenz“ und auf „Freischaltung des FinanzOnline- Zugangs“ vorzubehalten.
+[2] 		Das Rekursgericht gab dem Rekurs des Schuldners in Hinsicht auf die Punkte 2. und 3. des erstgerichtlichen Beschlusses keine Folge (Punkt 1.b) und wies im Übrigen den Rekurs des Schuldners zurück (Punkt 1.a). Es sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und der Revisionsrekurs hinsichtlich Spruchpunkt 1.a nicht zulässig, hinsichtlich Spruchpunkt 1.b jedenfalls unzulässig sei.
+[3] 		Gegen diese Entscheidung richtet sich der zu ON 216 im Akt erliegende „außerordentliche“ Revisionsrekurs des Schuldners.
+Rechtliche Beurteilung
+[4] 		1. Die Anfechtungsbeschränkungen des § 528 ZPO gelten auch im Insolvenzverfahren (RIS-Justiz RS0044101 [T15]). Der Revisionsrekurs gegen einen die erstgerichtliche Entscheidung voll bestätigenden rekursgerichtlichen Beschluss ist folglich nach § 528 Abs 2 Z 2 ZPO (iVm § 252 IO) ausgeschlossen (RS0044101). Dieser absolute Rechtsmittelausschluss geht der weiteren Zulässigkeitsvoraussetzung nach § 528 Abs 1 ZPO vor und verhindert jede Anfechtung des Konformatsbeschlusses des Rekursgerichts (RS0112314 [T5]). In der Konstellation des nach § 528 Abs 2 „jedenfalls“ unzulässigen Rechtsmittels kommt auch ein „außerordentliches“ Rechtsmittel nicht in Betracht (RS0112314 [T22]).
+[5] 		Entgegen dem scheinbar eindeutigen Wortlaut von § 528 Abs 2 Z 2 ZPO schließt eine bloße Teilbestätigung die Anwendung der Konformatssperre nicht jedenfalls aus. Wurden mehrere Anträge überprüft, von denen jeder ein eigenes rechtliches Schicksal haben kann, ist die Anrufbarkeit des Obersten Gerichtshofs nach § 528 ZPO für jeden Gegenstand gesondert zu beurteilen (3 Ob 202/16a [Punkt 1.]; RS0044238 [T15]; Musger in Fasching/Konecny, Zivilprozessgesetze3 IV/1 § 528 Rz 48).
+[6] 		Jeder der Anträge, über die das Erstgericht entschied bzw sich die Entscheidung vorbehielt, kann ein eigenes Schicksal haben. Soweit das Rekursgericht die erstgerichtliche Abweisung jener Anträge bestätigte, liegt somit keine anfechtbare rekursgerichtliche Entscheidung, sondern vielmehr eine Konformatsentscheidung vor und war das Rechtsmittel daher als jedenfalls unzulässig zurückzuweisen.
+[7] 		2. Im Übrigen – somit in Hinsicht auf den zurückweisenden Teil der rekursgerichtlichen Entscheidung – war die Verspätung des „außerordentlichen“ Revisionsrekurses aufzugreifen. Aus § 520 Abs 1 S 1 HS 2 ZPO folgt sowohl für Rekurse als auch Revisionsrekurse gegen eine zweitgerichtliche Entscheidung, dass sie beim Erstgericht einzubringen sind (3 Nc 14/18s; RS0125561; Sloboda in Fasching/Konecny, Zivilprozessgesetze3 IV/1 § 520 ZPO Rz 1; Musger ebenda § 528 ZPO Rz 92, 95). Wird ein Rechtsmittel beim Rekursgericht oder beim Obersten Gerichtshof eingebracht, ist es zwar von Amts wegen dem Erstgericht zu überweisen, seine Rechtzeitigkeit aber nur nach dem Zeitpunkt seines Einlangens beim Erstgericht zu beurteilen (RS0006979; Sloboda in Fasching/Konecny, Zivilprozessgesetze3 IV/1 § 520 ZPO Rz 18).
+[8] 		Der Schuldner adressierte sein Rechtsmittel an das Rekursgericht, welches es an das Erstgericht übermittelte, wo es aber erst nach Ende der 14-tägigen Rekursfrist einlangte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00028.22H.0330.000

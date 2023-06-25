@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.04.2022
+Geschäftszahl
+2Ob192/21f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie den Senatspräsidenten Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei Dipl.-Ing. N*, vertreten durch Mag. Daniel Kornfeind, Rechtsanwalt in Wien, gegen die beklagte Partei p* GmbH, *, vertreten durch Mag. Dr. Wolfgang Graziani-Weiss und andere Rechtsanwälte in Linz, wegen  16.400 EUR sA und Feststellung (Streitwert 1.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 19. Juli 2021, GZ 12 R 17/21p-40, womit das Urteil des Landesgerichts Linz vom 14. Mai 2021, GZ 29 Cg 18/20y-36, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision der klagenden Partei wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 418,78 EUR (darin 69,80 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 			Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts ist die Revision der klagenden Partei nicht zulässig. Die Entscheidung hängt nicht von der Lösung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ab:
+Rechtliche Beurteilung
+[2] 		1. Der Oberste Gerichtshof hat sich bereits mehrfach mit der Frage des Unfallversicherungsschutzes für jene Personen befasst, die in einer Einrichtung untergebracht sind, die der medizinischen Rehabilitation oder Gesundheitsvorsorge dient (§ 8 Abs 1 Z 3 lit c letzter Fall ASVG; vgl RS0114053). Er hat auch bereits wiederholt zur Frage Stellung genommen, unter welchen Voraussetzungen der Träger der Einrichtung, in der die Rehabilitation oder Gesundheitsvorsorge erfolgt, dem gemäß § 8 Abs 1 Z 3 lit c letzter Fall ASVG in der Unfallversicherung Teilversicherten das Dienstgeberhaftungsprivileg gemäß § 333 ASVG iVm § 335 Abs 3 ASVG entgegen halten kann (2 Ob 218/06g DRdA 2008/24 [Müller]; 2 Ob 213/06x; 1 Ob 247/06i; 2 Ob 45/17s DRdA 2018/49 [krit Müller]; zuletzt 2 Ob 185/21a).
+[3] 		2. Diese Rechtsprechung zieht die Revisionswerberin nicht in Zweifel. Sie kommt auch nicht auf die Zulassungsbegründung des Berufungsgerichts zurück, sondern stützt sich ausschließlich darauf, dass eine wissenschaftlich nicht anerkannte Rehabilitationsmethode angewandt worden sei. Eine solche Methode könne nie im Zusammenhang mit der Rehabilitation stehen. Die Anwendung des Dienstgeberhaftungsprivilegs sei nicht nachvollziehbar.
+[4] 		3. Damit geht sie insoweit nicht von den Feststellungen aus, als danach diese Methode „als Psychotherapieform in Österreich“ nicht anerkannt ist. Die dieser Methode entnommene Übung, die zur Schädigung der sie ausführenden Klägerin führte, wurde hier nicht im Rahmen einer Psychotherapie angewendet, sondern war Teil einer Bewegungstherapieeinheit der Klägerin während ihres Rehabilitationsaufenthalts.
+[5] 		4. Gerade die Bewegungstherapie wurde aber in den Materialien zur 33. ASVG-Novelle, BGBl 1978/684, ErlRV 1084 BlgNR 14. GP 30, explizit als Grund für das Bedürfnis zur erweiterten Einbeziehung von in einer Einrichtung zur medizinischen Rehabilitation oder Gesundheitsvorsorge betreuten Personen in den Unfallversicherungsschutz genannt. Davor waren nämlich Patienten in solchen Anstalten zwar im Rahmen der dort durchgeführten arbeitstherapeutischen Maßnahmen als Teilnehmer an Umschulungs- bzw Nachschulungs- oder sonstigen beruflichen Ausbildungslehrgängen vom Unfallversicherungsschutz umfasst, nicht aber jene Patienten, die im Rahmen des Therapiebetriebs andere Formen der Therapie (zB Bewegungstherapie) verrichten. Der Gesetzgeber ging davon aus, dass auch bei solchen Therapien ein Versicherungsbedürfnis besteht (2 Ob 45/17g mwN).
+[6] 		Das Berufungsgericht hat daher insgesamt den erforderlichen zeitlichen, örtlichen und ursächlichen Zusammenhang zwischen der Ausübungshandlung der Versicherten (hier: Teilnahme an der Bewegungstherapie) und der medizinischen Rehabilitation und daraus folgend die Anwendbarkeit des Dienstgeberhaftungsprivilegs vertreten.
+[7] 		5. Die Kostenentscheidung beruht auf §§ 41 Abs 1, 50 Abs 1 ZPO. Da die Beklagte in ihrer Revisionsbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, diente ihr Schriftsatz der zweckentsprechenden Rechtsverteidigung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00192.21F.0426.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2015
+Geschäftszahl
+4Ob128/15z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und durch die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei M***** GmbH, *****, vertreten durch Puschner Spernbauer Rosenauer Rechtsanwälte OG in Wien, gegen die beklagte Partei V***** e.Gen., *****, vertreten durch Dr. Wolfgang Hirsch und Dr. Ursula Leissing, Rechtsanwälte in Bregenz, wegen 1.191.718,36 EUR sA, über die Revision der beklagten Partei (Revisionsinteresse 93.081,46 EUR) gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 23. April 2015, GZ 2 R 19/15h-26, womit das Urteil des Landesgerichts Feldkirch vom 1. Dezember 2014, GZ 56 Cg 136/13z-22, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 2.114,82 EUR (darin 352,47 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Vorinstanzen verurteilten die beklagte Bank zum Ersatz des Vertrauensschadens, den diese der Klägerin dadurch verursacht habe, dass sie als Hausbank maßgeblich Einfluss auf die Handlungen eines später insolvent gewordenen Kreditnehmers genommen habe. Sie habe dadurch die Klägerin vorsätzlich geschädigt. Das Berufungsgericht ging von einem (reduzierten) Schadensbetrag von 93.081,46 EUR aus. Die Revision sei zulässig, weil zur Haftung der kreditierenden Bank gegenüber einem unbezahlt gebliebenen Lieferanten des insolventen Kreditnehmers wegen sittenwidrigen Verhaltens lediglich die Entscheidung 6 Ob 49/14w vorliege, der eine abweichende Rechtsansicht in der Literatur gegenüberstehe.
+Die Revision der Beklagten ist - ungeachtet des (den Obersten Gerichtshof nicht bindenden) berufungs-gerichtlichen Zulassungsausspruchs - in Ermangelung von erheblichen Rechtsfragen iSv § 502 Abs 1 ZPO nicht zulässig:
+Rechtliche Beurteilung
+1. Ob eine Partei sittenwidrig gehandelt hat, ist eine Frage des Einzelfalls, die nicht aufzugreifen ist, wenn das Berufungsgericht bei dieser Entscheidung die Grenzen des ihm eingeräumten Ermessens nicht überschritten hat (RIS-Justiz RS0042881 [T6, T8]; RS0110900).
+2. Der Oberste Gerichtshof hat das auch hier strittige Verhalten der Beklagten bereits in der Entscheidung 6 Ob 49/14w beurteilt und die Qualifikation desselben als sittenwidrig für vertretbar befunden. Zwar stützte sich das Berufungsgericht jenes Verfahrens vorwiegend auf die Sittenwidrigkeit einzelner Rückbuchungen, der Oberste Gerichtshof billigte die Entscheidung aber mit Blick auf das Gesamtverhalten der Beklagten.
+3. Die Kritik Bollenbergers (Nichteinlösung von Lastschriften durch die kreditierende Bank und der Schaden des unbezahlten Lieferanten, Zak 2014/492) richtet sich im Wesentlichen gegen die Annahme einer Haftung für nicht durchgeführte Lastschriften. Eine derartige Haftungsbegründung ist aber hier nicht präjudiziell, hat doch das Berufungsgericht die Haftung der Beklagten auf deren maßgeblichen Einfluss auf die Geschäftsführung des Kreditschuldners (Mitwirkung an der Umsetzung eines inszenierten Konzepts zur Bestimmung des für die Beklagte optimalen Zeitpunkts der Konkurseröffnung zum eigenen Vorteil und zum Schaden der Klägerin, die zur Lieferung von Treibstoff trotz drohender Insolvenzgefahr verleitet wurde) gegründet und dies vertretbar als sittenwidrige Schädigung (§ 1295 Abs 2 ABGB) der Klägerin beurteilt.
+4. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO. Die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040OB00128.15Z.1215.000

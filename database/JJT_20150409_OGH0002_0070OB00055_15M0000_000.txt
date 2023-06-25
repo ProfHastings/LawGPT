@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.04.2015
+Geschäftszahl
+7Ob55/15m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei U***** Versicherungen AG, *****, vertreten durch Mag. Gerald Leitgeb, Rechtsanwalt in Stallhofen, gegen die beklagten Parteien 1. DI K***** M*****, 2. S***** AG, *****, und 3. S***** e.U., *****, zweit- und drittbeklagte Partei vertreten durch Dr. Walther Mörth und Dr. Georg Buder, Rechtsanwälte in Linz, wegen 60.444 EUR sA, über die außerordentliche Revision und den darin enthaltenen Rekurs der klagenden Partei gegen das Teilurteil und den Beschluss des Oberlandesgerichts Graz als Berufungsgericht vom 20. Jänner 2015, GZ 6 R 7/14t-43, womit infolge Berufung der zweit- und drittbeklagten Parteien das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 29. August 2014, GZ 44 Cg 57/13p-37, teilweise bestätigt und teilweise aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Die als Rekurs zu behandelnde außerordentliche Revision gegen den Aufhebungsbeschluss des Berufungsgerichts wird zurückgewiesen.
+2. Die außerordentliche Revision gegen das Teilurteil des Berufungsgerichts wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Klägerin bekämpft sowohl das Teilurteil als auch den Aufhebungsbeschluss des Berufungsgerichts mit ihrer außerordentlichen Revision.
+1. Soweit sich die Klägerin gegen den Aufhebungsbeschluss des Berufungsgerichts wendet, ist ihr Rechtsmittel absolut unzulässig:
+Gemäß § 519 Abs 1 Z 2 ZPO ist gegen berufungsgerichtliche Beschlüsse, soweit dadurch das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wird, der Rekurs an den Obersten Gerichtshof nur dann zulässig, wenn das Berufungsgericht dies ausgesprochen hat. Durch diese Formulierung wird eindeutig zum Ausdruck gebracht, dass die Zulässigkeit des Rekurses gegen den berufungsgerichtlichen Aufhebungsbeschluss an einen ausdrücklichen Zulassungsausspruch des Gerichts zweiter Instanz gebunden ist (RIS-Justiz RS0043880). Fehlt - wie hier - ein Ausspruch über die Zulässigkeit des Rekurses gegen den Aufhebungsbeschluss des Berufungsgerichts, dann ist nach ständiger Rechtsprechung auch ein außerordentlicher Rekurs ausgeschlossen (RIS-Justiz RS0043898). Die insoweit als Rekurs zu behandelnde außerordentliche Revision der Klägerin ist daher als jedenfalls unzulässig zurückzuweisen.
+2. In der außerordentlichen Revision zeigt die Klägerin keine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO auf:
+2.1. Die Klägerin ist Haftpflichtversicherer einer Werkbestellerin, die die Zweit- und Drittbeklagten (im Folgenden kurz: Beklagten) als Arbeitsgemeinschaft mit der Durchführung von Arbeiten an einer Sportanlage beauftragte. Am 1. 9. 2011 kam es auf dem zur Liegenschaft der Werkbestellerin benachbarten Betriebsgelände auf Grund von Erdmaterial, das bei Regenfällen vom Sportareal abgeronnen war, zu einem Schadensfall. Die Klägerin zahlte als Haftpflichtversicherer zur Schadenregulierung der Eigentümerin des Nachbargrundstücks 60.000 EUR.
+2.2. Die Klägerin argumentiert in der außerordentlichen Revision, sie mache keine Ansprüche der Versicherungsnehmerin (Werkbestellerin) gegenüber den Beklagten aus dem Werkvertrag geltend, sondern gemäß „§ 1358 ABGB iVm § 67 Abs 1 VersVG“ die „im Wege der Legalzession“ auf sie durch Erfüllung übergegangenen Ansprüche der Eigentümerin des Nachbargrundstücks, insbesondere auch nach § 364a ABGB. Den Beklagten stünden keine Einwendungen auf Grund ihrer vertraglichen Beziehung zur Versicherungsnehmerin zu. Der Liegenschaftseigentümerin gegenüber hätten die Beklagten auch solidarisch zu haften.
+2.3. Damit hat sich die Klägerin auf einen bestimmten Anspruchsgrund beschränkt, nach dem die geltend gemachten Ersatzansprüche beurteilt werden sollen, sodass andere Rechtsgründe nicht zu prüfen sind (RIS-Justiz RS0043317 [T3]; vgl auch RS0043352 [T11, T13, T14]).
+Nach § 67 Abs 1 VersVG gehen alle Ersatzansprüche des Versicherungsnehmers/Versicherten auf den Versicherer über, wobei es auf die Art eines solchen Anspruchs nicht ankommt (RIS-Justiz RS0080533 [T4: Haftpflichtversicherung]; vgl RS0081235), nicht aber Ansprüche der geschädigten Eigentümerin der Nachbarliegenschaft. Die Klägerin macht allerdings ausdrücklich nur Ansprüche der Nachbarin gegenüber den Beklagten geltend und nicht solche ihrer Versicherungsnehmerin.
+Auch von einem Forderungsübergang der Ansprüche der Liegenschaftseigentümerin nach § 1358 ABGB kann keine Rede sein. § 1358 ABGB findet zwar auf jeden Anwendung, der eine fremde Schuld bezahlt, für die er dem Gläubiger persönlich oder mit bestimmten Vermögensstücken haftet (RIS-Justiz RS0112742). Die Klägerin haftete aber nicht auf diese Weise für eine fremde Schuld, bestand doch keine Haftung gegenüber der Grundstücksnachbarin ihrer Versicherungsnehmerin. Sie zahlte vielmehr ihre eigene Schuld aus dem Haftpflichtversicherungsvertrag mit der Versicherungsnehmerin.
+Damit besteht keine Grundlage für den behaupteten Übergang eines Anspruchs der geschädigten Liegenschaftseigentümerin auf die Klägerin, sodass auf die Ansprüche selbst (insbesondere auf die Frage eines allfälligen Mitverschuldens) nicht (weiter) einzugehen ist.
+2.4. Die außerordentliche Revision ist daher als unzulässig zurückzuweisen. Dies bedarf nach § 510 Abs 3 ZPO keiner weiteren Begründung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00055.15M.0409.000

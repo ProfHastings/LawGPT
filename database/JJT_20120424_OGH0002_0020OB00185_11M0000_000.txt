@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2012
+Geschäftszahl
+2Ob185/11m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und durch die Hofräte Dr. Veith, Dr. E. Solé, Dr. Schwarzenbacher und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei B***** AG, *****, vertreten durch Dr. Reinhard Schanda, Rechtsanwalt in Wien, gegen die beklagte Partei W***** GmbH, *****, vertreten durch Dr. Ralph Mayer, Rechtsanwalt in Wien, wegen 32.091,01 EUR sA, über die Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Juli 2011, GZ 1 R 104/11p-11, womit das Urteil des Handelsgerichts Wien vom 17. Februar 2011, GZ 27 Cg 256/09s-7, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Rechtsmittel der klagenden Partei wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.049,70 EUR (keine USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht ließ die Revision zu, weil die Bestimmung des anzuwendenden Systemnutzungstarifs nach § 25 ElWOG von weit über den Einzelfall hinausgehender Bedeutung sei.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts hängt die Entscheidung nicht von der Lösung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO ab, weil die Revision eine solche nicht geltend macht:
+Die Revision enthält ausschließlich Ausführungen zur Frage der Verjährung der hier streitgegenständlichen Nutzungsentgelte.
+Das Berufungsgericht hielt die Rückforderungsansprüche hinsichtlich aller länger als drei Jahre vor dem Einlangen des Rückforderungsbegehrens bei der Energie Control Kommission am 29. 7. 2009 entrichteter Entgelte für verjährt.
+Die Revisionswerberin meint dagegen, es sei von einer 30-jährigen Verjährungsfrist gemäß § 1478 ABGB auszugehen, und ortet im Übrigen einen Widerspruch zwischen den Entscheidungen 7 Ob 269/08x sowie 1 Ob 92/08y.
+Grundsätzlich verjähren Ansprüche nach § 1431 ABGB ebenso wie nach § 1041 ABGB in 30 Jahren (RIS-Justiz RS0020167). Davon bestehen nicht nur gesetzliche Ausnahmen, wie die Lieferung und Leistung im geschäftlichen Bereich gemäß § 1486 Z 1 ABGB (vgl zum ElWOG 2 Ob 74/07g), sondern wurde auch bereits judiziert, dass Kondiktionsansprüche nach § 1431 ABGB wegen im geschäftlichen Betrieb erfolgter irrtümlicher Mehrlieferungen in vermeintlicher Erfüllung bestehender vertraglicher Verbindlichkeiten der kurzen Verjährungsfrist unterliegen (1 Ob 32/08z = RIS-Justiz RS0020167 [T9]). Ebenso wurde die bereicherungsrechtliche Rückforderung irrtümlich geleisteter und vorgeschriebener Kreditzinsen der dreijährigen Verjährungsfrist unterworfen (RIS-Justiz RS0117773). Auch der Rückforderungsanspruch nach § 1431 ABGB wegen irrtümlich zu viel bezahlten Arbeitsentgelts unterliegt nach der Rechtsprechung der kurzen Verjährungsfrist des § 1486 Z 5 ABGB (Dehn in KBB3 § 1486 ABGB Rz 9 mwN).
+Sieht man § 1486 ABGB als Ausprägung des Gedankens, dass die Verjährungsvorschriften auch ein erzieherisches Druckmittel zur Vermeidung von Nachlässigkeiten in der Rechtsausübung darstellen sollen, ist gerade von Unternehmern zu erwarten, dass sie sich um eine rasche Klärung der Sach- und Rechtslage bemühen, weshalb auch die irrtümliche Leistung in vermeintlicher Erfüllung bestehender vertraglicher Verbindlichkeiten der kurzen Verjährungsfrist unterworfen wird (vgl 1 Ob 32/08z).
+In diesem Sinne wurde in 7 Ob 269/08x eine einem Systemnutzungstarif für Energie zugeschlagene Verbrauchsabgabe der dreijährigen Verjährungsfrist unterstellt. Bereits in dieser Entscheidung wurde auf die von der Revision als dazu widersprüchlich gesehene Entscheidung 1 Ob 92/08y ausdrücklich Bezug genommen und darauf hingewiesen, dass die im letzteren Verfahren zu beurteilenden Stranded-Costs-Beiträge mit der zu Unrecht eingehobenen Gebrauchsabgabe nicht vergleichbar seien. Stranded-Costs-Beiträge hätten ihre Rechtsgrundlage in einer befristet geltenden Bestimmung des ElWOG in Verbindung mit einer Verordnung und schafften einen Ausgleich für aufgrund der Öffnung des Energiemarkts nicht mehr rentable Investitionen. Die Gebrauchsabgabe dagegen sei prozentuell vom monatlich zu entrichtenden Systemnutzungsentgelt zu berechnen und vorzuschreiben und daher als Teil des monatlichen Entgelts für die Netznutzung eine Forderung für eine Leistung im geschäftlichen Betrieb.
+Bei der Rückforderung des Nutzungsentgelts in der Höhe der Differenz zwischen dem für Netzebene 6 und für Netzebene 7 angeordneten Tarif handelt es sich hier aber um einen Kondiktionsanspruch, der sich auf eine Forderung aus dem geschäftlichen Betrieb iSd § 1486 Z 1 ABGB bezieht, sodass das Berufungsgericht im Sinne der bestehenden Judikatur von der dreijährigen Verjährungsfrist ausgehen konnte.
+Die Kostenentscheidung beruht auf § 41 Abs 1, § 50 Abs 1 ZPO. Da die Beklagte in ihrer Revisionsbeantwortung auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, diente ihr Schriftsatz der zweckentsprechenden Rechtsverteidigung.
+Im aufhebenden Teil seiner Entscheidung hat das Berufungsgericht den Rekurs an den Obersten Gerichtshof nicht zugelassen, sodass ein Rechtsmittel insoweit unzulässig ist (RIS-Justiz RS0043898).

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2020
+Geschäftszahl
+8ObA23/20w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter                                                                Johannes Püller (aus dem Kreis der Arbeitgeber) und Mag. Michaela Puhm (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei N***** S*****, vertreten durch Kitzler und Wabra Rechtsanwälte in Gmünd, gegen die beklagte Partei A***** AG, *****, vertreten durch Mag. Judith Morgenstern, Rechtsanwältin in Wien, wegen Entlassungsanfechtung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. Novemver 2019, GZ 8 Ra 42/19h-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+Der Kläger begehrte, seine von der Beklagten gemäß § 27 Z 2 AngG wegen dauernder Dienstunfähigkeit ausgesprochene Entlassung nach § 106 Abs 2 ArbVG wegen Sozialwidrigkeit für rechtsunwirksam zu erklären.
+Das Erstgericht wies das Klagebegehren ab. In seiner rechtlichen Beurteilung ging es davon aus, dass der Entlassungsgrund verwirklicht wurde.
+Das Berufungsgericht bestätigte die klagsabweisende Entscheidung und erklärte die ordentliche Revision für nicht zulässig. Es ging in seiner Begründung davon aus, dass nach dem auf das Dienstverhältnis anzuwendende Kollektivvertrag für den Fall einer unverschuldeten Dienstunfähigkeit nur eine Kündigung möglich sei. Die Beendigung des Dienstverhältnisses habe zwar wesentliche Interessen des Klägers beeinträchtigt, jedoch sei es der Beklagten gelungen, rechtfertigende Umstände im Sinn des § 105 Abs 3 Z 2 lit a ArbVG – Dienstunfähigkeit – nachzuweisen.
+Die Revision der beklagten Partei wendet sich ausschließlich gegen die Auslegung des Kollektivvertrags durch das Berufungsgericht. Sie beantragt, das angefochtene Urteil „dahin abzuändern, dass der von der Beklagten geltend gemachte Entlassungsgrund des § 27 Z 2 AngG vorlag“, in eventu wird ein Aufhebungsantrag gestellt.
+Rechtliche Beurteilung
+Die Revision ist unzulässig.
+1. Der konkrete Rechtsmittelantrag ist zunächst schon deswegen nicht geeignet, weil das Berufungsgericht das Vorliegen des Entlassungsgrundes nach § 27 Z 2 AngG nicht verneint hat. Es ist nur davon ausgegangen, dass der anzuwendende Kollektivvertrag einer Geltendmachung dieses Entlassungsgrundes entgegenstehe und hat seine Entscheidung auf eine Interessenabwägung iSd § 105 Abs 3 Z 2 lit a ArbVG gegründet.
+2. Allgemeine Voraussetzung der Zulässigkeit eines Rechtsmittels ist ein Eingriff in die geschützte Rechtssphäre (RIS-Justiz RS0006497), und zwar grundsätzlich durch den Spruch der bekämpften Entscheidung (RS0041848). Eine Beschwer bloß durch die Entscheidungsgründe kann bei einem Aufhebungsbeschluss (RS0007094) oder einem Zwischenurteil (RS0040958) vorliegen. Selbst für im Zwischenurteil obsiegende Parteien ist aber für die Zulässigkeit eines Rechtsmittels Voraussetzung, dass sie durch die Entscheidungsgründe tatsächlich beschwert wurden (RS0040958 [T1, T6]), etwa weil diese auch für die Höhe des Anspruchs bindend sind und diese Fragen andernfalls nicht mehr aufgerollt werden könnten (RS0040958 [T3, T4]).
+3. Die Bindungswirkung einer rechtskräftigen Entscheidung ist nur insoweit gegeben, als der als Hauptfrage rechtskräftig entschiedene Anspruch eine Vorfrage für den Anspruch im zweiten Prozess bildet. Maßgebend sind die rechtserzeugenden Tatsachen, die zur Individualisierung des Rechtsgrundes erforderlich sind. Bloßen Vorfragenentscheidungen kommt keine bindende Wirkung zu (RS0042554; 9 ObA 23/11i; 9 ObA 104/04s).
+Solche Umstände sind hier nicht ersichtlich. Der Kläger hat die Beendigung seines Dienstverhältnisses mit dem Ziel angefochten, sie für rechtsunwirksam zu erklären. Dieses Begehren wurde unangefochten abgewiesen. Andere Ansprüche waren nicht Gegenstand des Verfahrens.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:008OBA00023.20W.0227.000

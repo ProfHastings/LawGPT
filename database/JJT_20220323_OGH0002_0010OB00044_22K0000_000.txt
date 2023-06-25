@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.03.2022
+Geschäftszahl
+1Ob44/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei D*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG, Wien, gegen die beklagte Partei T* Limited, *, vertreten durch die Brandl Talos Rechtsanwälte GmbH, Wien, wegen 33.971,30 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Dezember 2021, GZ 11 R 206/21a-27, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 7. Oktober 2021, GZ 4 Cg 43/21d-21, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 2.119,14 EUR (darin 353,19 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger erlitt bei von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Internet-Glücksspiel im Zeitraum vom 18. 7. 2012 bis 17. 6. 2019 (hauptsächlich bei Online-Pokerspielen) Verluste in Höhe des nunmehr von ihm eingeklagten Betrags.
+[2] 		Die Vorinstanzen gaben dem (unter anderem) auf Bereicherungsrecht gestützten Klagebegehren statt. Das österreichische Glücksspielmonopol sei nicht unionsrechtswidrig. Die Durchführung einer Ausspielung ohne Konzession sei damit verbotenes Glücksspiel, was die Möglichkeit zur bereicherungsrechtlichen Rückforderung erlittener Spielverluste eröffne. Die Passivlegitimation der Beklagten als Bereicherungsschuldnerin sei zu bejahen, weil sie aufgrund des mit dem Spieler geschlossenen  Rahmenvertrags die Empfängerin der verbotenen Spieleinsätze gewesen sei. Die ordentliche Revision sei zulässig, weil noch keine höchstgerichtliche Rechtsprechung zu der Frage vorliege, ob ein Betreiber von verbotenen Online-Pokerspielen, der Einsätze entgegennehme und abzüglich einer Provision an Gewinner auszahle, für die Rückforderung solcher Einsätze aus dem Rechtsgrund der ungerechtfertigten Bereicherung passiv legitimiert sei.
+[3] 		Die dagegen erhobene Revision der Beklagten ist mangels erheblicher Rechtsfrage iSd § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[4] 		1. Die Revisionswerberin argumentiert im Wesentlichen, dass der Oberste Gerichtshof bisher nicht zur Frage Stellung genommen habe, wer bei einem Online-Pokerspiel als Vertragspartner des Spielers und daher als Bereicherungsschuldner anzusehen sei.
+[5] 		2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RIS-Justiz RS0112921; RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels aufgeworfene erhebliche Rechtsfrage fällt als solche weg, wenn sie durch eine Entscheidung des Obersten Gerichtshofs bereits geklärt wurde (RS0112921 [T5]).
+[6] 		3. Der Oberste Gerichtshof hat in der ebenfalls die beklagte Partei betreffenden Entscheidung vom 2. 2. 2022 zu 6 Ob 229/21a zu der von der Revisionswerberin aufgeworfenen Frage ausführlich Stellung genommen und diese zusammengefasst wie folgt beantwortet:
+[7] 		Die Passivlegitimation der Beklagten (und damit ihre Eigenschaft als Bereicherungsschuldnerin) ergebe sich schon daraus, dass sie – als Spielorganisatorin – Empfängerin der Leistung des Klägers gewesen sei. Die wiederkehrenden Geldüberweisungen des Klägers auf ein Konto der Beklagten hätten zu ihrer unmittelbaren Bereicherung geführt. Von einer (Vorab-)Zahlung zur Abwicklung eines allfälligen, im Zeitpunkt der Einzahlung noch gar nicht abgeschlossenen Glücksvertrags mit einem künftigen Mitspieler könne keine Rede sein. Die Rolle der Beklagten gehe insofern über jene einer bloßen „Abwicklungstreuhänderin“ hinaus, als der Nutzer vorweg eine Einzahlung auf ein Konto der Beklagten tätigen müsse, um „Spielguthaben“ zu erwerben und in dessen Umfang an den von der Beklagten (rechtswidrig) angebotenen Online-Glücksspielen teilnehmen zu können. Im Übrigen komme dem auf Rückforderung der erlittenen Spielverluste gerichteten Klagebegehren aufgrund des rechtswidrigen (ohne Konzession nach dem GSpG erfolgten) Angebots der Glücksspiele auch insoweit Berechtigung zu, als dieses auf Schadenersatz gestützt wurde. Das Verhalten der Beklagten sei für den eingetretenen Schaden kausal gewesen, hätte doch der Kläger bei Unterbleiben des verbotenen Glücksspiels den Schaden nicht erlitten.
+[8] 		4. Der erkennende Senat schließt sich – ebenso wie bereits der 4. Senat zu 4 Ob 229/21m und wie der 2. Senat zu 2 Ob 17/22x – diesen Ausführungen an. Die Revision der Beklagten ist insoweit mit den in den beiden genannten Parallelverfahren erhobenen Rechtsmitteln inhaltlich ident und enthält keine zusätzlichen, nicht bereits in der Entscheidung zu 6 Ob 229/21a behandelten Argumente.
+[9] 		5. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO (vgl RS0112921 [T6]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00044.22K.0323.000

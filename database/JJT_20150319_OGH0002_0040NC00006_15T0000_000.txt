@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.03.2015
+Geschäftszahl
+4Nc6/15t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei Dr. C***** H*****, vertreten durch Mag. Reinhard Strauss, Rechtsanwalt in Graz, gegen die beklagte Partei H***** A*****, Kanada, wegen 64.688 EUR sA, über den Antrag der klagenden Partei auf Bestimmung eines zuständigen Gerichts den
+Beschluss
+gefasst:
+Spruch
+Der Antrag wird abgewiesen.
+Text
+Begründung:
+Die Klägerin beantragt die Bestimmung eines zuständigen Gerichts nach § 28 JN. Sie beabsichtige gegen den in Kanada ansässigen Beklagten eine Forderung von 64.688 EUR geltend zu machen. Eine Klage in Kanada sei unzumutbar, weil ein kanadisches Urteil in Österreich nicht vollstreckt würde. Dies sei aber erforderlich, weil der Beklagte über Liegenschaftsvermögen in Österreich verfüge, in das sie Exekution führen wolle. Das sei nur mit einem österreichischen Titel möglich.
+Rechtliche Beurteilung
+Schon aufgrund dieses Vorbringens ist der Antrag abzuweisen.
+Die Anwendung von § 28 JN setzt voraus, dass „die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts im Sinne [der JN] oder einer anderen Rechtsvorschrift nicht gegeben oder nicht zu ermitteln“ sind. Eine Ordination hat daher nur dann zu erfolgen, wenn nicht ohnehin ein österreichisches Gericht örtlich zuständig ist (4 Nd 513/96 = SZ 69/227; RIS-Justiz RS0118239).
+Der Beklagte ist nach dem Antragsvorbringen in Kanada ansässig. Daher bestimmt sich die Zuständigkeit für eine gegen ihn gerichtete Klage nach Art 6 Abs 1 Brüssel Ia-VO (VO [EU] 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen [Neufassung]) nach nationalem Verfahrensrecht. Da der Beklagte nach dem Antragsvorbringen über Liegenschaftsvermögen in Österreich verfügt, ist der Vermögensgerichtsstand nach § 99 Abs 1 JN begründet. Der Antrag legt nicht dar, weshalb ungeachtet dessen ein örtlich zuständiges Gericht fehlen soll. Die im Antrag genannte Entscheidung 10 Nc 13/10h hält es zwar für möglich, dass ein Interesse an einer Exekution in Österreich die Unzumutbarkeit einer Klage im Ausland begründen könnte, schränkt das aber ausdrücklich auf Fälle ein, in denen nicht ohnehin der Tatbestand des § 99 JN erfüllt ist. Genau das trifft hier aber nach dem Antragsvorbringen zu.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040NC00006.15T.0319.000

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.1970
+Geschäftszahl
+2Ob342/70 (2Ob343/70)
+Norm
+Allgemeines Sozialversicherungsgesetz §332 Abs5;
+Allgemeines Sozialversicherungsgesetz §332 Abs1;
+ZPO §235;
+Kopf
+SZ 43/187
+Spruch
+§ 332 Abs 5 ASVG legt nicht einen eigenen Anspruch des Sozialversicherungsträgers fest, sondern schränkt die Legalzession nach § 332 Abs 1 ASVG ein
+OGH 22. Oktober 1970, 2 Ob 342, 343/70 (LGZ Wien 42 R 364.395/70; BG Innere Stadt Wien 30 C 1249/70).
+Text
+Die klagende Partei behauptet, daß sie an den bei ihr versicherten Borislav B Leistungen erbringen mußte, weil dieser am 5. Dezember 1967 bei einem vom Beklagten verschuldeten Verkehrsunfall verletzt worden sei. Der Schadenersatzanspruch des versicherten Verletzten sei gemäß § 332 ASVG auf sie im Rahmen ihrer Leistungspflicht übergegangen. Der Regreß gegen den Beklagten sei gemäß § 332 Abs 5 ASVG zulässig. Sie beantragte daher den Zuspruch eines Betrages in der Höhe der nach ihrer Darstellung erbrachten Sozialversicherungsleistungen.
+Der Beklagte behauptete, daß ihn nur leichtes Verschulden am Unfall treffe und ein Haftpflicht-Versicherungsschutz hinsichtlich der Verletzung des Borislav B nicht bestanden habe. Überdies treffe diesen am Unfall ein Mitverschulden von 3/4 und liege ein Arbeitsunfall vor.
+In der Tagsatzung zur Streitverhandlung vom 8. Mai 1970 erklärte der Klagsvertreter, "nunmehr" das Klagebegehren auf die Bestimmung des § 332 Abs 1 ASVG zu stützen, weil der Beklagte und der Verletzte zur Unfallszeit nicht im selben Betrieb beschäftigt gewesen seien und daher § 332 Abs 5 ASVG nicht anzuwenden sei.
+Der Beklagtenvertreter sah darin eine Klagsänderung und sprach sich gegen deren Zulassung aus.
+Das Erstgericht hat mit dem ins Urteil aufgenommenen Beschluß diese "Klagsänderung" nicht zugelassen und das Klagebegehren urteilsmäßig abgewiesen. Es vertrat die Auffassung, daß die Sache spruchreif sei; es stehe fest, daß der Beklagte und der Verletzte im Unfallszeitpunkt nicht in demselben Betrieb beschäftigt waren; das Klagebegehren könne also nicht auf die allein bezogene Bestimmung des § 332 Abs 5 ASVG gestützt werden; die spätere Berufung auf § 332 Abs 1 ASVG durch die klagende Partei bedeute eine Klagsänderung, die nicht zulässig sei, weil wegen der daraus notwendigen Beweisaufnahme eine erhebliche Erschwerung und Verzögerung des Verfahrens zu besorgen sei.
+Die Klägerin erhob gegen den Beschluß Rekurs und gegen das Urteil Berufung. Das Berufungsgericht gab den Rechtsmitteln statt; es hob den Beschluß in nichtöffentlicher Sitzung und das Urteil des Erstgerichtes nach mündlicher Verhandlung auf und wies die Sache unter Rechtskraftvorbehalt an das Erstgericht zurück. Es war der Auffassung, daß die Klägerin keine Klagsänderung vorgenommen habe, sodaß der darüber ergangene Beschluß des Erstgerichtes ersatzlos aufzuheben sei. Bei Annahme, daß eine Klagsänderung vorliege, wäre diese zulässig, weil eine wesentliche Erschwerung des Verfahrens dadurch nicht zu erwarten sei. Das Verfahren sei mangelhaft geblieben, weil das Erstgericht auf das strittige Vorbringen nicht eingegangen sei.
+Der Oberste Gerichtshof gab weder dem Revisionsrekurs noch dem Rekurs des Beklagten Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Klägerin hat ihren Anspruch bereits in der Klage auf die Legalzession nach § 332 ASVG gestützt und lediglich darüber hinaus angeführt, daß sich der Ersatzanspruch im Rahmen der Beschränkung nach § 332 Abs 5 ASVG halte. Diese Bestimmung legt aber nicht einen eigenen Anspruch des Sozialversicherungsträgers fest, sondern schränkt die Legalzession nach § 332 Abs 1 ASVG für den Fall, daß Schädiger und Verletzter zu der Unfallszeit im selben Betrieb
+beschäftigt waren, ein ("... kann einen im Sinn der Abs 1 bis 4 auf
+ihn übergegangenen Schadenersatzanspruch ... nur geltend machen,
+wenn .."). Die Beschäftigung des Schädigers und des Verletzten im selben Betrieb ist daher nicht eine Voraussetzung der Legalzession, sondern eine solche ihrer Einschränkung. Der Rechtsgrund des Regresses des Sozialversicherungsträgers ist in beiden Fällen derselbe, sodaß das Fallenlassen dieser Beschränkung nicht zu einer Änderung des Rechtsgrundes, sondern allenfalls zu einer Erweiterung des Klagebegehrens führt. Im vorliegenden Fall hat sich die Klägerin bereits in der Klage auf die Bestimmung des § 332 ASVG allgemein berufen und nach dem Fallenlassen der in der Klage erwähnten Beschränkung nach § 332 Abs 5 ASVG keinen anderen oder größeren Anspruch geltend gemacht als in der Klage. Sie hat mit ihrer Erklärung, den Anspruch auf § 332 Abs 1 ASVG zu stützen, ihr Vorbringen nur dem Verfahrensergebnissen angepaßt, aber nicht einen neuen Klagsgrund geltend gemacht oder sonst eine Klagsänderung vorgenommen. Es wurde daher mit Recht der Beschluß des Erstgerichtes aufgehoben.
+Dem Revisionsrekurs war daher nicht Folge zu geben.
+Da die Bestimmung des § 332 Abs 5 ASVG nicht einen eigenen Anspruch des Sozialversicherungsträgers festlegt, sondern nur die Geltendmachung der von Gesetzes wegen auf ihn übergegangenen Ersatzansprüche des Verletzten gegen den Schädiger unter bestimmten Voraussetzungen einschränkt, führt das Fehlen dieser Voraussetzungen zum Wegfall dieser Beschränkung, nicht aber dazu, daß die übergegangenen Ansprüche vom Sozialversicherungsträger nicht geltend gemacht werden könnten. Es wurde daher mit Recht eine Verfahrensergänzung zur Prüfung der für die Entscheidung strittigen Tatsachen aufgetragen. Die Ausführungen des Beklagten über die unterschiedliche Größe des Prozeßaufwandes zur Prüfung eines auf § 332 Abs 1 ASVG und eines auf § 332 Abs 5 ASVG gestützten Begehrens gehen daran vorbei, daß die Frage des Prozeßaufwandes nur bei der Entscheidung darüber von Bedeutung ist, ob eine vom Kläger vorgenommene Klagsänderung zuzulassen sei. Im vorliegenden Fall liegt aber eine Klagsänderung nicht vor, sodaß diese Frage bedeutungslos ist. Im übrigen wird durch das Fallenlassen der Bezugnahme auf die Bestimmungen des § 332 Abs 5 ASVG der Prozeßaufwand nicht größer, sondern kleiner.
+Es war daher auch dem Rekurs gegen den Aufhebungs- und Rückverweisungsbeschluß ein Erfolg zu versagen.
+Es wird zunächst zu prüfen sein, ob sich der Unfall bei gemeinsamer Arbeit des Verletzten und des Beklagten ereignete und daher die daraus abgeleiteten Ansprüche vor dem Arbeitsgericht geltend zu machen wären (§ 1 Abs 1 Z 2 und Abs 2, § 4 ArbGerG, AbSlg 6056, EvBl 1970/194 = RZ 1970, 127).

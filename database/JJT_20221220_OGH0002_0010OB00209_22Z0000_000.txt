@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2022
+Geschäftszahl
+1Ob209/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei B* Gesellschaft m.b.H., *, vertreten durch Mag. Dr. Christian Janda, Rechtsanwalt in Kremsmünster, gegen die beklagte Partei Republik Österreich (Bund), vertreten durch die Finanzprokuratur in Wien, wegen 25.501,36 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 19. Juli 2022, GZ 4 R 100/22m-15, mit dem das Urteil des Landesgerichts Linz vom 27. April 2022, GZ 31 Cg 25/21v-11, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.372,65 EUR bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Klägerin beantragte beim zuständigen AMS COVID-19-Kurzarbeitsbeihilfe zunächst für alle ihre Arbeitnehmer rückwirkend ab 16. 3. 2020. Nachdem ihr Mitarbeiter des AMS mitgeteilt hatten, dass für jene Arbeitnehmer, die die Voraussetzungen eines vollversicherungspflichtigen Monats bereits erfüllten, ein Antrag ab 16. 3. 2020, für die anderen ein weiterer Antrag erst ab 1. 4. 2020 zu stellen sei, zog die Klägerin ihr ursprüngliches Förderbegehren zurück und stellte einen neuen Förderantrag für 20 Arbeitnehmer ab 16. 3. 2020 und einen für weitere 13 Arbeitnehmer ab 1. 4. 2020.
+[2] 		Da sie für letztere daher vom 16. 3. bis 31. 3. 2020 keine Kurzarbeitshilfe erhielt, begehrt die Klägerin von der Beklagten aus dem Titel der Amtshaftung den Ersatz von 25.501,34 EUR sA. Sie habe ihre Anträge im Vertrauen auf die Beratung durch das AMS korrigiert und neu eingebracht, obgleich ihr ursprünglicher Antrag genehmigt worden wäre und im Nachhinein in § 37b Abs 8 AMSG normiert worden sei, dass die Nichterfüllung der Voraussetzung eines vollentlohnten Kalendermonats vor Beginn der Kurzarbeit im ersten Zeitraum der COVID-19-Kurzarbeit kein Rückforderungstatbestand sei.
+[3] 		Das Berufungsgericht bestätigte das klageabweisende Ersturteil. Nachträglich erklärte es die ordentliche Revision gemäß § 508 Abs 3 ZPO für zulässig, weil es – soweit ersichtlich – noch keine höchstgerichtliche Rechtsprechung zur Frage gebe, ob die Gewährung von Kurzarbeitsbeihilfe im Sinne der Bundesrichtlinie zur Kurzarbeitsbeihilfe der Privatwirtschaftsverwaltung oder der Hoheitsverwaltung zuzurechnen ist.
+Rechtliche Beurteilung
+[4] 		Die von der Beklagten beantwortete Revision der Klägerin ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts nicht zulässig.
+[5] 		1. Auf die vom Berufungsgericht als erheblich bezeichnete Rechtsfrage kommt es nicht an, weil selbst bei Annahme hoheitlichen Handelns kein Amtshaftungsanspruch bestünde:
+[6] 		1.1. Bei einer falschen oder unzureichenden Behördenauskunft, die eine verfehlte Disposition zur Folge hat, ist, auch wenn sie zu einem bloßen Vermögensschaden führt, Ersatz nach dem AHG zu leisten, sofern die schadensursächliche Auskunft als Hoheitsakt zu qualifizieren ist (vgl RS0113363). Ganz allgemein begründet aber nur eine unvertretbare Rechtsanwendung Amtshaftungsansprüche (RS0049912; RS0049955). Die Prüfung der Vertretbarkeit einer Rechtsauffassung hängt jeweils von den Umständen des Einzelfalls ab und entzieht sich deshalb regelmäßig einer Beurteilung als erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO (RS0110837).
+[7] 		1.2. Im vorliegenden Fall ist die Auffassung des Berufungsgerichts, die Auskunft des AMS sei richtig – und damit jedenfalls vertretbar – gewesen, nicht zu beanstanden:
+[8] 			Zur Ermittlung der „Höhe der Kurzarbeitsbeihilfe“ war nach der Fußnote 8 der damals gültigen Bundesrichtlinien zur Kurzarbeitsbeihilfe (KUA-COVID-19) „das Entgelt (§ 49 ASVG) des letzten vollentlohnten Monats/der letzten vollentlohnten vier Wochen vor Einführung der Kurzarbeit heranzuziehen“, wobei sich letzteres auf Kollektivverträge mit Wochenentlohnung bezog.
+[9] 		Auf dieser Grundlage ging das Berufungsgericht von der Richtigkeit – und damit jedenfalls Vertretbarkeit – der durch das AMS erteilten Information aus, zumal mit § 37b Abs 8 AMSG idF BGBl I Nr 135/2020 klargestellt worden sei, dass ein vollentlohnter Kalendermonat vor Beginn der Kurzarbeit grundsätzlich eine Bedingung für die Gewährung der Beihilfe sei. Diese Auffassung wird durch Stellungnahmen in der Literatur gestützt, die insbesondere auch darauf hinweisen, dass es zur ordnungsgemäßen Ermittlung der Beihilfe eines vollen Monatsbezugs im Bemessungsmonat bedürfe (Sdoutz/Zechner in Sdoutz/Zechner, ASVG: Praxiskommentar [19. Lfg 2022] 14/Kurzarbeit 5; Hofbauer/ Krammer/Seebacher, Lohnsteuer 2022 165. Kurzarbeitsbeihilfe-Prüfung Rz 1115; Wolf/Potz/Krömer/Jöst/Stella/ Hörmann/Holuschka/Scharf in Resch, Corona-HB1.06 Kap 4 Rz 177; Binder Grösswang/Pallwein-Prettner/Müllner/ Lukanec/Brammer, Betriebsschließungen Coronavirus – Arbeitsrecht [Stand 21. 12. 2020, Lexis Briefings in lexis360.at]). Die Revision zeigt nicht auf, dass diese Beurteilung vertretbar wäre.
+[10] 		1.3. War die Auskunft des AMS aber (zumindest) nicht unvertretbar, fehlt jede Grundlage für eine Haftung. Auf die Frage, ob die Auskunft in Vollziehung der Gesetze erfolgte, kommt es daher nicht an.
+[11] 		2. Die Kostenentscheidung gründet sich auf §§ 40, 50 ZPO. Die Beklagte hat auf die fehlende Zulässigkeit der Revision hingewiesen (RS0035979 [T16]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00209.22Z.1220.000

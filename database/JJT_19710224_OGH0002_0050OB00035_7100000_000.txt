@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.02.1971
+Geschäftszahl
+5Ob35/71
+Norm
+ABGB §1393;
+Wechselgesetz Art10;
+Wechselgesetz Art11;
+Kopf
+SZ 44/23
+Spruch
+Wechselrechte können nicht bloß durch Indossament, sondern auch durch Zession übertragen werden. Bei der Zession eines Blankowechsels erwirbt der Zessionar das Recht, den Wechsel zu vervollständigen und den fehlenden Teil nachzutragen
+OGH 24. 2. 1971, 5 Ob 35/71 (OLG Graz 3 R 128/70; KG Leoben 6 Cg 153/70)
+Text
+Das Erstgericht sprach aus, daß der Wechselzahlungsauftrag v 28. 4. 1970 aufrecht bleibe und die Beklagte daher schuldig sei, dem Kläger den Betrag von S 18.000.- samt 6% Zinsen seit 1. 3. 1970, die Protestspesen von S 214.40 sowie die mit S 3320.74 bestimmten Prozeßkosten binnen 3 Tagen bei Exekution zu zahlen. Es stellte folgenden Sachverhalt fest:
+Die Beklagte kaufte mit Kaufvertrag v 19. 10. 1969 von Fritz T einen Spielautomaten um S 42.000.-. Sie zahlte den Kaufpreis ua dadurch, daß sie zwei Wechsel a S 18.000.- akzeptierte und Fritz T übergab. Beide Wechsel stammten vom 19. 10. 1969 und wurden von der Beklagten selbst zur Gänze ausgefüllt. Offen blieb nur die Unterschrift des Ausstellers. Einen dieser beiden Wechsel verkaufte Fritz T, ohne ihn selbst als Aussteller unterfertigt zu haben, dem Kläger, der ihn sodann als Aussteller unterschrieb und nach Fälligkeit gegen die Beklagte geltend machte.
+In rechtlicher Hinsicht führte das Erstgericht aus, der Kläger habe durch Kauf von Fritz T den von der Beklagten unterfertigten Blankowechsel und damit die wechselmäßige Forderung gegen die Beklagte erworben. Einwendungen aus dem Grundgeschäft wären nicht zulässig, seien aber auch von der Beklagten gar nicht erhoben worden. Die gewählte Art der Weitergabe des Wechsels sei durchaus möglich, die Aktivlegitimation des Klägers daher gegeben. Der Wechsel entspreche allen gesetzlichen Voraussetzungen.
+Das Berufungsgericht bestätigte das Ersturteil. Es übernahm die erstgerichtlichen Feststellungen und führte in rechtlicher Hinsicht folgendes aus:
+In der Feststellung des Erstgerichtes, Fritz T habe den Wechsel dem Kläger "verkauft", könne nur eine Zession erblickt werden, was auch durch die Übergabe des Wechsels an den Kläger erhärtet werde. Mit der Zession der Forderung sei dem Kläger auch das Recht zur Vervollständigung des Wechsels übertragen worden. Soweit die Beklagte in ihrer Berufung behauptete, daß keine Zession vorliege, verstoße sie gegen das Neuerungsverbot.
+Unrichtig sei die Ansicht der Beklagten, sie hätte Einwendungen aus dem Grundgeschäft nur gegenüber Fritz T als Aussteller, nicht aber gegenüber dem Kläger erheben können. Der Kläger macht den wechselmäßigen Anspruch als Aussteller geltend und nicht als Indossatar. Ihm seien die Ansprüche des Fritz T aus dem Grundgeschäft und nicht wechselmäßige Rechte durch Indossament übertragen worden. Die Bestimmung des Art 17 WG wäre somit nicht zur Anwendung gekommen.
+Selbst wenn der Kläger den Blankowechsel vertragswidrig ausgefüllt hätte (was nach den unbedenklichen Feststellungen des Erstgerichtes nicht zutreffe), wäre für die Beklagte nichts gewonnen, denn gemäß Art 10 WG hätte sie in diesem Fall in ihren Einwendungen behaupten und unter Beweis stellen müssen, daß der Kläger den Wechsel in bösem Glauben oder grob fahrlässig erworben habe. Derartiges fehle sowohl in den Einwendungen als auch in der Berufung (wo es überdies gegen das Neuerungsverbot verstoßen würde).
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Wechselrechte können nicht bloß durch Indossament, sondern auch durch Zession übertragen werden, wozu allerdings die Übergabe des Wechsels treten muß, weil der Schuldner nur gegen Aushändigung des Wechsels zu zahlen verpflichtet ist (Kapfer, HdKomm z WG 72). Eine solche Zession kann wie jede andere gemäß § 1392 ABGB mit oder ohne Entgelt geschehen. Das Erstgericht hat festgestellt, daß Fritz T den Wechsel dem Kläger "verkauft" hat; das Berufungsgericht hat auch diese Feststellung übernommen und sie in rechtlicher Hinsicht als Zession qualifiziert. Dies ist vollkommen zutreffend. Der "Verkauf" eines Wechsels, durch den sowohl das Papier als auch die dem "Verkäufer" daraus zustehenden Rechte dem "Käufer" übertragen werden, bedeutet die entgeltliche Abtretung aller Rechte des "Verkäufers" an den "Käufer".
+Bei Übertragung der Wechselrechte durch Zession tritt zwar - wie Kapfer aaO ausführt - keiner der drei sogenannten Effekte des Indossaments (Transport-, Garantie- und Legitimationseffekt) ein, der Zessionar tritt aber in die volle Rechtsstellung des Zedenten (Stranz, Wechselgesetz[14] § 11 Anm 8). Bei der hier vorliegenden Zession eines Blankowechsels, bei dem nur die Unterschrift des Ausstellers fehlte, erwarb daher der Kläger von Fritz T auch das bis zur Zession diesem zustehende Recht, den Wechsel zu vervollständigen und den fehlenden Teil, nämlich die Unterschrift des Ausstellers, nachzutragen. Daß der Kläger beim Erwerb des Wechsels oder bei dessen Ausfüllung bösgläubig oder grob fahrlässig vorgegangen wäre, hat die Beklagte nicht behauptet.

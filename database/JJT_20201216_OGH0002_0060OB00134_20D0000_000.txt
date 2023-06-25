@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.2020
+Geschäftszahl
+6Ob134/20d
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Hon.-Prof. Dr. Gitschthaler, Dr. Nowotny sowie die Hofrätinnen Dr. Hofer-Zeni-Rennhofer und Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei S*****, vertreten durch Wallner Jorthan Rechtsanwalts GmbH in Wien, gegen die beklagte Partei W***** GmbH, *****, vertreten durch Cerha Hempel Rechtsanwälte GmbH in Wien, wegen 900 EUR und Beseitigung, über den Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 13. Mai 2020, GZ 15 R 32/20s-12, mit dem der Rekurs der Beklagten gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien vom 27. Jänner 2020, GZ 23 Cg 73/19b-7, zurückgewiesen wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird teilweise Folge gegeben.
+Die angefochtene Entscheidung wird aufgehoben und dem Rekursgericht eine neuerliche Entscheidung unter Abstandnahme vom gebrauchten Zurückweisungsgrund insoweit aufgetragen, als sich der Rekurs der Beklagten gegen den Ausspruch des Erstgerichts, dass der ordentliche Rechtsweg zulässig sei, richtet.
+Die Kosten des Revisionsrekursverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+[1] 		Der Kläger begehrt von der Beklagten aus dem Titel des Schadenersatzes Zahlung in Höhe von 900 EUR und darüber hinaus die Beseitigung des aufgrund mit der Beklagten abgeschlossenen Netznutzungsvertrags an seiner Messstelle in Wien (Wohnung) installierten intelligenten Messgeräts sowie die Ersetzung desselben durch ein Ferraris-Messgerät; die durch das installierte Messgerät erhobenen Verbrauchsinformationen seien personenbezogene Daten iSd Art 4 Z 1 DSGVO, womit er in seinem Grundrecht auf Datenschutz verletzt worden sei. Der Kläger habe deshalb einen Anspruch auf Schadenersatz nach Art 82 DSGVO und einen Anspruch auf Beseitigung des unrechtmäßig installierten Messgeräts.
+[2] 		Das Erstgericht sprach über Einwendung der Beklagten aus, dass der ordentliche Rechtsweg für die geltend gemachten Ansprüche zulässig und es selbst sachlich und örtlich zuständig sei.
+[3] 		Das Rekursgericht wies den Rekurs der Beklagten zurück, habe der Kläger seinen Beseitigungsanspruch doch lediglich mit 100 EUR bewertet, sodass der Entscheidungsgegenstand insgesamt nicht den von § 517 Abs 1 ZPO geforderten Betrag von 2.700 EUR erreiche; ein Ausnahmetatbestand der Z 1 bis 6 leg cit liege nicht vor. Außerdem sprach das Rekursgericht aus, dass der Wert des Entscheidungsgegenstands (insgesamt) 5.000 EUR nicht übersteigt und dass der Revisionsrekurs jedenfalls unzulässig ist.
+[4] 		Über Auftrag des Obersten Gerichtshofs vom 10. 8. 2020 (6 Ob 134/20d) ergänzte das Rekursgericht am 23. 10. 2020 seine Entscheidung dahin, dass der ordentliche Revisionsrekurs zulässig ist; die Rechtsprechung des Obersten Gerichtshofs zur Frage, ob es sich bei Ansprüchen nach dem Datenschutzgesetz um solche höchstpersönlicher Natur handelt, die einer Bewertung durch Geld unzugänglich sind, sei uneinheitlich.
+Rechtliche Beurteilung
+[5] 		Der Revisionsrekurs ist zulässig; er ist auch teilweise berechtigt.
+[6] 		1.1. Der erkennende Fachsenat hat in der bereits erwähnten Entscheidung vom 10. 8. 2020 zu AZ 6 Ob 134/20d – jedenfalls für dieses Verfahren – klargestellt, dass bei einer Verletzung im Grundrecht auf Datenschutz der Eingriff in die höchstpersönliche Rechtssphäre im Vordergrund steht. Darin unterscheide sich der Datenschutz von der Kreditschädigung nach § 1330 ABGB, bei der bereits der Gesetzestext auf „den Kredit, den Erwerb oder das Fortkommen“ des Betroffenen abstellt und welche Bestimmung systematisch im Schadenersatzrecht des ABGB angesiedelt ist, was den vermögenswerten Charakter unterstreiche. Dass Rechtsfolge einer Verletzung im Grundrecht auf Datenschutz ein geldwerter Schadenersatzanspruch sein kann, bestimme nicht den Charakter des verletzten Rechts selbst. Damit ist aber die vom Rekursgericht als erheblich bezeichnete Rechtsfrage bereits geklärt.
+[7] 		1.2. Darüber hinaus hat die Beklagte den erstinstanzlichen Beschluss zwar „seinem gesamten Inhalt nach angefochten“, hinsichtlich der sachlichen Zuständigkeit des Erstgerichts war der Rekurs jedoch gemäß § 45 JN jedenfalls unzulässig und hinsichtlich der örtlichen Zuständigkeit enthielt der Rekurs keinerlei inhaltliche Darlegungen. Insoweit war daher dem Revisionsrekurs im Ergebnis ein Erfolg zu versagen.
+[8] 		2. Allerdings hat das Rekursgericht bei Zugrundelegung der unter 1.1. dargestellten Rechtslage den Rekurs der Beklagten gegen den erstinstanzlichen Beschluss insoweit zu Unrecht zurückgewiesen, als sich dieser gegen den Ausspruch des Erstgerichts, dass der ordentliche Rechtsweg zulässig sei, richtet:
+[9] 		2.1. Nach § 501 Abs 1 ZPO kann ein Urteil, wenn das Erstgericht über einen Streitgegenstand entschieden hat, der an Geld oder Geldeswert 2.700 EUR nicht übersteigt, nur aus bestimmten Rechtsmittelgründen angefochten werden. Nach § 517 Abs 1 ZPO wiederum können, wenn der Streitgegenstand an Geld oder Geldeswert nicht den Betrag von 2.700 EUR übersteigt, nur bestimmte erstinstanzliche Beschlüsse mit Rekurs angefochten werden.
+[10] 		2.2. Es entspricht herrschender Auffassung zu § 56 Abs 2 JN, §§ 501, 517 ZPO, dass eine allenfalls vorgenommene Bewertung durch den Kläger unbeachtlich ist und eine Anwendung der Anfechtungsbeschränkungen nicht in Betracht kommt, wenn der Streitgegenstand nicht vermögensrechtlicher Natur ist (Fasching, ZPR² Rz 265; Pimmer in Fasching/Konecny IV/1³ § 501 ZPO Rz 3; Sloboda in Fasching/Konecny IV/1³ § 517 ZPO Rz 7 [„geldwertfremde Streitsachen“]). Gerade dies ist aber bei einer Verletzung im Grundrecht auf Datenschutz der Fall, weshalb das Rekursgericht zu Unrecht die Rekursbeschränkungen des § 517 ZPO zur Anwendung gebracht hat.
+[11] 		3. Die Entscheidung über die Kosten des Revisionsrekursverfahrens gründet sich auf § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00134.20D.1216.000

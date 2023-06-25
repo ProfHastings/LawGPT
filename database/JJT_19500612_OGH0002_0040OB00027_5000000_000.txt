@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.06.1950
+Geschäftszahl
+4Ob27/50
+Norm
+Aktiengesetz §97;
+Aktiengesetz §199;
+Arbeitsgerichtsgesetz §1;
+Arbeitsgerichtsgesetz §2;
+Kopf
+SZ 23/196
+Spruch
+Ansprüche von Mitgliedern des Aufsichtsrates einer Aktiengesellschaft auf Zahlung einer Pension gegen die Aktiengesellschaft gehören nicht vor die Arbeitsgerichte.
+Entscheidung vom 12. Juni 1950, 4 Ob 27/50.
+I. Instanz: Arbeitsgericht Graz; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Kläger war seit vielen Jahren bei der Beklagten (ihrer Rechtsvorgängerin, mit der sie fusioniert wurde) als Werbeleiter angestellt. Von 1939 bis 1945 gehörte er überdies dem Aufsichtsrat der beklagten Partei an, seit 30. Juni 1939 als Vorsitzerstellvertreter des Aufsichtsrates. Er begehrt die ihm angeblich zustehende Pension vor dem Arbeitsgericht. Das Erstgericht hat die Klage wegen Unzuständigkeit zurückgewiesen, weil Kläger als Vorsitzerstellvertreter des Aufsichtsrates nicht zum Kreise der Beschäftigten im Sinne des § 1 ArbGerG. gehöre.
+Das Rekursgericht hat dagegen die Einrede der Unzuständigkeit des Arbeitsgerichtes verworfen und dem Erstgericht aufgetragen, ins gesetzliche Verfahren einzugehen.
+Der Oberste Gerichtshof stellte die erstinstanzliche Entscheidung wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Entscheidend ist, ob Aufsichtsratsmitglieder einer Aktiengesellschaft als gesetzliche Vertreter von juristischen Personen im Sinne des § 2 Abs. 2 ArbGerG. anzusehen sind. Das muß aber abweichend vom Rekursgericht bejaht werden. Gesetzlicher Vertreter ist im Gegensatz zum Wahlvertreter jedes Gesellschaftsorgan, dem eine gesetzlich fest umschriebene Vertretungsbefugnis zukommt. Das trifft aber beim Aufsichtsrat und seinen Mitgliedern zu, da diesem in den in §§ 97 und 199 Abs. 2 AktienG. angeführten Fällen die gesetzliche Vertretung der Aktiengesellschaft zukommt, die ihm auch gar nicht entzogen werden kann. Daß seine Vertretungsbefugnis beschränkt ist und daß er insbesondere nicht zur laufenden Verwaltung berufen ist, kann nicht die Folge haben, daß er deswegen nicht als gesetzlicher Vertreter bezeichnet werden könnte, weil das Arbeitsgerichtsgesetz nicht verlangt, daß der "gesetzliche Vertreter" nach § 2 Abs. 2 die allgemeine Vertretungsbefugnis besitzt.
+Bei Gesellschaften des bürgerlichen Rechtes, insbesondere bei Vereinen, kann die gesetzliche Vertretung auf eine Reihe von Organen aufgespalten sein, so daß von einer allgemeinen Vertretung überhaupt keine Rede ist (vgl. z. B. die Statuten der Kärntner Landesbrandschadenversicherungsanstalt). In diesen und ähnlichen Fällen sind eben alle Organe, auch dasjenige mit bloß eingeschränkter Vertretungsmacht, als gesetzliche Vertreter anzusehen.
+Das Gesetz will die Streitigkeiten der Leitungsorgane mit der Gesellschaft von der Zwangskompetenz des Arbeitsgerichtes fernhalten. Diese Erwägungen gelten aber ohne Rücksicht auf den Umfang der Vertretungsmacht, die dem Organ zukommt. Es wäre gegen die ratio des Gesetzes, die Aufsichtsratsmitglieder, die den Vorstand bestellen und ihn kontrollieren, namens der Gesellschaft mit ihm Prozesse zu führen haben usw., nur deshalb unter die Kompetenz des Arbeitsgerichtes zu zwingen, weil sie nur eine beschränkte Vertretungsmacht haben, während die von ihnen bestellten und kontrollierten Vorstandsmitglieder von der Arbeitsgerichtsbarkeit eximiert sind.
+Der Oberste Gerichtshof kann sich daher der Auffassung des Rekursgerichtes nicht anschließen und hat den erstrichterlichen Beschluß wiederhergestellt.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2017
+Geschäftszahl
+4Ob79/17x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden sowie die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei N* W*, vertreten durch Dr. Alois Schneider, Rechtsanwalt in Rattenberg am Inn, gegen die beklagte Partei J* H*, vertreten durch Dr. Gabriele Opperer, Rechtsanwältin in Innsbruck, wegen 45.800 EUR sA und Herausgabe, infolge „außerordentlicher Revision“ der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 7. März 2017, GZ 4 R 13/17v-97, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Der Kläger kaufte vom Beklagten in einer von diesem errichteten Wohnhausanlage eine Wohnung samt Garagenabstellplatz. Er begehrt 45.800 EUR Kaufpreisminderung sowie die Herausgabe von vorerst (ON 7) vier baubezogenen Plänen (bewertet mit insgesamt 5.000 EUR) und einer Bau- und Ausstattungsbeschreibung (ebenfalls mit 5.000 EUR bewertet). Ein ausgedehntes Begehren auf Herausgabe eines Energieausweises (ON 33) wurde in der Folge auf Kosten eingeschränkt (ON 62).
+Das Erstgericht gab dem Zahlungsbegehren mit 29.946 EUR statt und wies das Zahlungsmehrbegehren von 15.854 EUR sowie das gesamte Herausgabebegehren ab.
+Das Berufungsgericht gab der gegen die Klagsabweisung gerichteten Berufung des Klägers teilweise Folge und änderte das Urteil dahin ab, dass es dem Zahlungsbegehren im Umfang von weiteren 602,59 EUR sA, insgesamt 30.548,59 EUR sA, stattgab und das Zahlungsmehrbegehren von 15.251,41 EUR sA sowie das gesamte Herausgabebegehren abwies. Den Wert des Entscheidungsgegenstands bewertete es als insgesamt 30.000 EUR nicht übersteigend und ließ die Revision nicht zu.
+Dagegen wendet sich der Kläger mit einer „außerordentlichen Revision“.
+Das Erstgericht legte das Rechtsmittel dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise widerspricht der Rechtslage:
+Rechtliche Beurteilung
+1. Für die Bewertung nach JN sind das Gericht und die Parteien – einschließlich des Klägers selbst – an die in der Klage gemäß § 56 Abs 2 JN vorgenommene Bewertung (bzw in Ermangelung einer solchen an den Zweifelsstreitwert) gebunden (RIS-Justiz RS0046474; Gitschthaler in Fasching/Konecny3 § 56 JN Rz 7; Mayr in Rechberger4 § 56 JN Rz 4).
+Die Bewertung nach § 56 JN ersetzt nicht einen Bewertungsausspruch nach § 500 Abs 2 Z 1 ZPO (RIS-Justiz RS0042296; Gitschthaler aaO).
+2. Werden in einer Klage mehrere Forderungen geltend gemacht, dann bilden sie nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen des § 55 Abs 1 JN vorliegen (RIS-Justiz RS0053096; RS0037838). Dies ist dann der Fall, wenn zwischen den Forderungen ein tatsächlicher oder rechtlicher Zusammenhang besteht, wobei vom Klagsvorbringen auszugehen ist (RIS-Justiz RS0042741; vgl RS0037905). Ein tatsächlicher Zusammenhang ist dann zu bejahen, wenn alle Klagsansprüche aus demselben Klagssachverhalt abzuleiten sind, wenn also das für einen Anspruch erforderliche Sachvorbringen ausreicht, auch über die anderen geltend gemachten Ansprüche entscheiden zu können, ohne dass noch ein ergänzendes Sachvorbringen erforderlich wäre (RIS-Justiz RS0042766; Mayr aaO § 55 JN Rz 2). Ein rechtlicher Zusammenhang besteht bei Ansprüchen, die aus demselben Vertrag oder derselben Rechtsnorm abgeleitet werden (RIS-Justiz RS0037899 [T3]; Mayr aaO § 55 JN Rz 3).
+3. Im berufungsgerichtlichen Verfahren waren noch die Forderung auf Zahlung von 15.854 EUR aus dem Titel gewährleistungsrechtlicher Preisminderung sowie ein aus demselben Vertrag abgeleitetes Herausgabebegehren strittig. Zwischen diesen Forderungen besteht demnach ein Zusammenhang nach § 55 JN, da sie aus demselben Vertragsverhältnis abgeleitet werden (vgl RIS-Justiz RS0007076 [T2]; Gitschthaler aaO § 55 JN Rz 16). Das Berufungsgericht hat damit zu Recht eine einheitliche Bewertung des Zahlungs- und der Herausgabebegehren vorgenommen, ohne Letztere gesondert bewerten zu müssen (vgl RIS-Justiz RS0042437 [T6, T18]).
+4. Der maßgebliche Wert des Entscheidungsgegenstands übersteigt somit insgesamt 5.000 EUR, nicht aber 30.000 EUR. Das Rechtsmittel war daher nicht dem Obersten Gerichtshof vorzulegen; dieser darf über das Rechtsmittel nämlich nur und erst dann entscheiden, wenn das Gericht zweiter Instanz gemäß § 508 Abs 3 ZPO ausgesprochen hat, dass ein ordentliches Rechtsmittel doch zulässig sei (RIS-Justiz RS0109623).
+Das Rechtsmittel wäre demnach – auch wenn es als „außerordentliches“ bezeichnet wird – dem Berufungsgericht vorzulegen gewesen. Es ist daher die aus dem Spruch ersichtliche Rückleitungsanordnung zu treffen. Ob aufgrund des fehlenden ausdrücklichen Antrags auf Abänderung des Zulässigkeitsausspruchs die Einleitung eines Verbesserungsverfahrens erforderlich ist, ist von den Vorinstanzen zu beurteilen (RIS-Justiz RS0109623 [T4, T5]; 4 Ob 52/16z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E118782

@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.07.2013
+Geschäftszahl
+2Ob3/13z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und durch die Hofräte Dr. Veith, Dr. E. Solé, Dr. Schwarzenbacher und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei W***** GmbH & Co KG, *****, vertreten durch Dr. Ludwig Beurle ua, Rechtsanwälte in Linz, gegen die beklagte Partei E***** GmbH, *****, vertreten durch Dr. Gernot Hain ua, Rechtsanwälte in Wiener Neustadt, wegen 96.485,49 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 24. Oktober 2012, GZ 15 R 122/12i-40, womit das Urteil des Landesgerichts St. Pölten vom 16. April 2012, GZ 3 Cg 107/09t-36, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revision der beklagten Partei wird Folge gegeben.
+Die Urteile der Vorinstanzen werden aufgehoben. Die Rechtssache wird zur neuerlichen Entscheidung nach Verfahrensergänzung an das Erstgericht zurückverwiesen.
+Die Kosten des Rechtsmittelverfahrens bilden weitere Verfahrenskosten.
+Text
+Begründung:
+Die Klägerin betreibt mehrere Windkraftanlagen und speist den erzeugten Ökostrom in das Netz der Beklagten ein. Die Streitteile haben am 11. 12./27. 12. 2001 eine Netzzutrittsvereinbarung abgeschlossen, der die Allgemeinen Bedingungen der Beklagten für den Zugang zu ihrem Verteilernetz zu Grunde gelegt wurden.
+Deren Klausel XXIII.3. lautet:
+„Im Fall der Aufhebung der amtlichen Regelung der Systemnutzungstarife hat (die beklagte Partei) dem Netzkunden jedenfalls den Netzzugang zu sachlichen und nicht diskriminierenden Bedingungen unter Zugrundelegung von an ihrem tatsächlichen Aufwand orientierten Kosten zu gewähren.“
+Gemäß § 25 ElWOG 1998 iVm § 16 Abs 1 Z 2 E-RBG bestimmte die Energie-Control-Kommission (ECK) die Systemnutzungstarife für die Nutzung der Elektrizitätsnetze, so auch das Netz der Beklagten. Die am 1. 9. 2009 von der ECK erlassene Systemnutzungstarife-Verordnung 2006 idF der Novelle 2009 (kurz SNT-VO 2009) sah erstmals die Bezahlung eines Netzverlustentgelts für die Einspeisung elektrischer Energie in das Netz der Beklagten auch für Erzeuger vor. Im Hinblick darauf schrieb die Beklagte der Klägerin ab Jänner 2009 Netzverlustentgelte, insgesamt in Höhe des Klagsbetrags, vor.
+Mit Erkenntnis vom 21. 6. 2011 stellte der Verfassungsgerichtshof fest, dass § 25 Abs 1 Z 1 und 3, § 25 Abs 4 und § 25 Abs 12 ElWOG 1998 verfassungswidrig waren. Aufgrund zahlreicher - unter anderem auch im vorliegenden Verfahren - gestellter Verordnungsprüfungs-
+anträge hob der Verfassungsgerichtshof mit Erkenntnis vom 27. 9. 2011 die SNT-VO für die Jahre 2009, 2010, 2011 infolge Wegfall der Bestimmung des § 25 Abs 4 ElWOG 1998 zur Gänze als gesetzwidrig auf.
+Vor Einbringung der Klage leitete die Klägerin ein Streitschlichtungsverfahren vor der ECK ein. Mit Bescheid vom 20. 4. 2009 wies diese den Antrag auf Feststellung der Rückzahlungsverpflichtung ab.
+Die Klägerin begehrt die gezahlten Netzverlustentgelte der Jahre 2009 bis 2011 zurück, da die Rechtsgrundlage der Zahlungspflicht aufgehoben sei.
+Die Beklagte hielt dem nach den genannten Aufhebungen durch den Verfassungsgerichtshof entgegen, dass die Rechtsgrundlage für diese Zahlungen auch die AGB der Beklagten seien.
+Das Erstgericht gab dem Klagebegehren statt.
+Das Berufungsgericht bestätigte diese Entscheidung und ließ die Revision mangels Judikatur des Obersten Gerichtshofs zur Rechtsfrage, ob die gezahlten Beträge ihre Grundlage in den Allgemeinen Geschäftsbedingungen hätten, zu.
+Gegen diese Entscheidung richtet sich die Revision der Beklagten mit dem Antrag, das Verfahren als nichtig aufzuheben und die Klage zurückzuweisen; in eventu, das Klagebegehren abzuweisen, sowie weiters in eventu, die Rechtssache an eine der Vorinstanzen zurückzuverweisen.
+Die Klägerin beantragt in ihrer Revisionsbeantwortung, die Revision wegen Unzulässigkeit zurückzuweisen, in eventu, ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision der Beklagten ist zulässig und im Sinne des Aufhebungsantrags berechtigt.
+1. Der Oberste Gerichtshof hat mittlerweile in mehreren Entscheidungen zu den in der Revision aufgeworfenen Fragen der Zulässigkeit des Rechtswegs sowie der AGB der Beklagten als mögliche Rechtsgrundlage für die Zahlung des Netzverlustentgelts Stellung genommen (4 Ob 126/12a, 5 Ob 150/12p, 1 Ob 257/12v, 1 Ob 149/12m ua; RIS-Justiz RS0128445) und ist dabei in Bezug auf die Frage des Rechtswegs zu dem Ergebnis gekommen, dass dessen Unzulässigkeit in dritter Instanz nicht mehr geltend gemacht werden kann, weil die Zulässigkeit von beiden Vorinstanzen übereinstimmend bejaht wurde (RIS-Justiz RS0039799; RS0044536, RS0042917 [T7]).
+2. In der Sache selbst hat der Oberste Gerichtshof die Allgemeinen Geschäftsbedingungen als taugliche - und weder sittenwidrige noch gesetzwidrige - Grundlage für die Leistung des Netzverlustentgelts angesehen. Private Preisregelungsvereinbarungen seien grundsätzlich zulässig und könnten nur ausnahmsweise - etwa in Ansehung sensibler Produkte der Grundversorgung - durch öffentlich-rechtliche Tarifsysteme durchbrochen werden. Werde bei einer behördlichen Preisregulierung die preisfestsetzende Norm nachträglich unanwendbar, falle die Kompetenz zur Preisvereinbarung nach der Grundregel wieder den Vertragsparteien zu. Eine solche privatautonome Preisvereinbarung bei bestehender behördlicher Preisregulierung für den Fall der Unanwendbarkeit der preisfestsetzenden Norm sei auch ex ante zulässig. Durch die Aufhebung der SNT-VO sei das gesamte Tarifsystem unanwendbar geworden und daher der in den AGB angesprochene Fall eingetreten.
+Eine unsachliche Benachteiligung von Einspeisern gegenüber Verbrauchern sei nicht erkennbar, weil auch diese grundsätzlich das Netz zum Absatz der von ihnen erzeugten Energie benötigten. Auch von einer überraschenden Klausel könne keine Rede sein.
+Da Feststellungen zur Höhe der nach den AGB am tatsächlichen Aufwand orientierten Kosten des Netzverlustentgelts fehlten, seien entsprechende Tatsachenfeststellungen nachzuholen.
+3. Der erkennende Senat schließt sich der referierten Rechtsauffassung an.
+Damit ist auch hier eine abschließende Beurteilung von Bestand und allenfalls Höhe einer rechtsgrundlosen Zahlung der Klägerin noch nicht möglich und eine Aufhebung der vorinstanzlichen Urteile notwendig.
+4. In Bezug auf das Zinsenbegehren wird das Erstgericht im fortgesetzten Verfahren im Sinne der genannten Entscheidungen festzustellen haben, ab wann der Wegfall der einschlägigen Verordnungen der Beklagten bekannt wurde.
+5. Der Kostenvorbehalt gründet sich auf § 50 Abs 1, § 52 Abs 1 ZPO.

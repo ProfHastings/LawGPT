@@ -1,0 +1,63 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.07.2022
+Geschäftszahl
+7Ob46/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende sowie die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei G*, vertreten durch die Mag. Jürgen Payer Rechtsanwalts GmbH in Wien, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 662.930 EUR und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. Jänner 2022, GZ 2 R 88/21g-31, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Im Rahmen eines „Eigenheim Premiumschutz Kombipakets“ bestehen zwischen den Parteien eine Feuerversicherung für das – durch einen Brand beschädigte – Wohnhaus des Klägers, der unter anderem die „Allgemeinen Bedingungen für die Eigenheimversicherung Fassung 2012 (AEHB 2012)“ der Beklagten zugrunde liegen, sowie eine
+– auch Feuerschäden abdeckende – Haushaltsversicherung, der unter anderem die „Allgemeinen Bedingungen für die Haushaltsversicherung Fassung 2012 (ABH 2012)“ der Beklagten zugrunde liegen.
+Die AEHB 2012 lauten auszugsweise:
+„[...]
+Artikel 13
+Zahlung der Entschädigung; Wiederherstellung/ Wiederbeschaffung; Realgläubiger
+1. Anspruch auf erste Entschädigung
+Ergänzend zu den ABS Art. 10 und AEHB 2012 Art. 11 hat der Versicherungsnehmer im Schadenfall vorerst nur Anspruch für Schäden an Gebäuden und haustechnischen Anlagen
+• bei Zerstörung auf Ersatz des Zeitwertes, höchstens jedoch des Verkehrswertes;
+• bei Beschädigung auf Ersatz des Zeitwertschadens, höchstens jedoch des Verkehrswertschadens.
+Der Zeitwertschaden (bei Beschädigung) sind die Reparaturkosten gekürzt im Verhältnis vom Neuwert zum Zeitwert der ganzen Sache.
+Der Verkehrswertschaden (bei Beschädigung) sind die Reparaturkosten gekürzt im Verhältnis vom Neuwert zum Verkehrswert der ganzen Sache.
+[...]
+2. Anspruch auf Gesamtentschädigung
+Diesen erwirbt der Versicherungsnehmer für die Sachen nach Pkt. 1 nur wenn
+• gesichert ist, dass die Entschädigung zur Gänze für die Wiederherstellung bzw. Wiederbeschaffung von Gebäuden/Sachen verwendet wird. [...];
+• die Wiederherstellung eines Gebäudes an der bisherigen Stelle oder an anderer Stelle innerhalb Österreichs erfolgt;
+• die wiederbeschafften bzw. wiederhergestellten Gebäude dem ursprünglichen Verwendungszweck dienen und die Wiederherstellung bzw. Wiederbeschaffung binnen drei Jahren ab dem Schadendatum erfolgt. Im Falle eines Deckungsprozesses wird diese Frist um die Dauer dieses Prozesses erstreckt.
+[...]“
+Die ABH 2012 lauten auszugsweise:
+„[...]
+Artikel 4
+Entschädigung
+[…]
+5. Zahlung der Entschädigung; Wiederherstellung/Wiederbeschaffung;
+5.1. Anspruch auf erste Entschädigung
+Ergänzend zu ABS Art. 10 hat der Versicherungsnehmer im Schadenfall vorerst nur Anspruch
+• bei Zerstörung oder Abhandenkommen auf Ersatz des Zeitwertes;
+• bei Beschädigung auf Ersatz des Zeitwertschadens.
+Der Zeitwert einer Sache ist der Neuwert abzüglich eines Betrages für Alter und Abnutzung.
+Der Zeitwertschaden bei Beschädigung sind die Reparaturkosten gekürzt im Verhältnis von Neuwert zum Zeitwert der ganzen Sache.
+[...]
+5.2. Anspruch auf Gesamtentschädigung
+Diesen erwirbt der Versicherungsnehmer für die Sachen nach Pkt. 1. nur, wenn
+• gesichert ist, dass die Entschädigung zur Gänze zur Wiederherstellung bzw. Wiederbeschaffung verwendet wird.
+Sachen, die zur Zeit des Eintritts des Schadenereignisses bereits vorhanden, bestellt oder in Herstellung waren, gelten nicht als Wiederherstellung bzw. Wiederbeschaffung;
+• die wiederbeschafften bzw. wiederhergestellten Sachen dem gleichen Verwendungszweck dienen und die Wiederherstellung bzw. Wiederbeschaffung binnen drei Jahren ab dem Schadendatum erfolgt. Im Falle eines Deckungsprozesses wird diese Frist um die Dauer dieses Prozesses erstreckt.
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Strenge Wiederherstellungsklauseln – wie sie hier als alleiniger Gegenstand des Revisionsverfahrens vorliegen – umschreiben eine Risikobegrenzung (RS0081840). Das bedeutet, dass zunächst im – hier unstrittig
+eingetretenen – Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechter) Sicherung abhängt (RS0120710). Damit werden an das Vorliegen eines objektiven Tatbestandsmerkmals insofern Rechtsfolgen geknüpft, als die Leistung einer den Zeitwert übersteigenden Entschädigung davon abhängig gemacht wird, dass gesichert ist, dass die Entschädigung zur Wiederherstellung verwendet wird (RS0081460 [T12]). Soweit der Versicherungsnehmer daher die Wiederherstellung (gleichgültig ob verschuldet oder nicht) gänzlich unterlässt oder verzögert, verliert er seinen Anspruch gegen den Versicherer (RS0081460 [T3]). Zweck solcher strengen Wiederherstellungsklauseln ist die Begrenzung des subjektiven Risikos, das entstünde, wenn der Versicherungsnehmer die Entschädigungssumme für frei bestimmbare Zwecke verwenden könnte (RS0120711 [insb T2]).
+[3] 		Die – nach Treu und Glauben zu entscheidende – Frage, ob die Wiederherstellung gesichert erscheint, hängt allein von den Umständen des Einzelfalles ab. Grundsätzlich kann lediglich gesagt werden, dass eine 100%ige Sicherheit nicht verlangt werden kann, sondern es ausreichen muss, wenn angesichts der getroffenen Vorkehrungen keine vernünftigen Zweifel an der Durchführung der Wiederherstellung bestehen (RS0112327). Die Vorlage von Kostenvoranschlägen, Absichtserklärungen des Versicherungsnehmers, die bloße Planung oder eine bloße behelfsmäßige Reparatur sind für die Sicherung der Wiederherstellung nicht ausreichend (7 Ob 162/21f; 7 Ob 92/19h; RS0112327 [T5]).
+[4] 		2. Die Vorinstanzen vertraten zur Begründung der Abweisung der unter anderem auf Zahlung der Neuwertspanne gerichteten Klage übereinstimmend die Auffassung, es liege nur eine Absichtserklärung des Klägers mit einzelnen Kostenvoranschlägen vor; ein allfälliger Streit über die Höhe der Neuwertentschädigung ändere nichts daran, dass dies nicht ausreiche, um die Fälligkeit der Gesamtentschädigung zu begründen.
+[5] 		3.1. Die außerordentliche Revision des Klägers führt ins Treffen, er habe ohnehin vorgebracht, er werde sein Haus wieder völlig instandsetzen, er hätte die von der Beklagten bereits geleistete Teilentschädigungssumme nicht ausgegeben, und diese würde für die Wiederherstellung verwendet. Die Tatsacheninstanzen hätten es aber unterlassen, Feststellungen zum „maßgeblichen unbeugsamen Willen des Klägers zur Fertigstellung“ zu treffen, die rechtlich den Schluss zugelassen hätten, dass mit Auszahlung des eingeklagten Differenzbetrags auf die Gesamtentschädigung die Fertigstellung geschehe.
+[6] 		3.2. Die Revision stellt damit gar nicht in Frage, dass der Kläger die Wiederherstellung weder bereits begonnen noch sonst konkret nach außen tretend – etwa durch die Erteilung von bindenden Aufträgen – gesichert hat; sowohl in erster Instanz als auch in der Revision wurde und wird bloß der Wille des Klägers betont, die Wiederherstellung vorzunehmen.
+[7] 		Die Beurteilung der Vorinstanzen, derartige Absichtsbekundungen genügten im vorliegenden Einzelfall nicht, steht im Einklang mit den dargelegten Rechtsprechungsgrundsätzen; dasselbe gälte für einen auch in der Revision angesprochenen „unbeugsamen Willen“ des Klägers oder dessen „absolutes Interesse“ an einer Wiederherstellung, wenn solche Gemütslagen – wie unstrittig hier – keinen Niederschlag etwa in tatsächlichen Arbeiten oder konkreten Aufträgen gefunden haben. Es liegen daher auch keine rechtlichen Feststellungsmängel vor.
+[8] 		4. Weitere Aspekte greift die Revision nicht mehr auf; sie zeigt insgesamt keine erheblichen Rechtsfragen auf und war daher zurückzuweisen, ohne dass dieser Beschluss einer weiteren Begründung bedarf (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00046.22Y.0707.000

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.08.2019
+Geschäftszahl
+7Ob37/19w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Ing. A***** W*****, vertreten durch Dr. Kurt Kozák, Rechtsanwalt in Salzburg, gegen die beklagte Partei D***** AG *****, vertreten durch Mag. Otmar Moser, Rechtsanwalt in Salzburg, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 17. Jänner 2019, GZ 2 R 180/18f-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Der Kläger ist Eigentümer und Halter eines Teleskoparmstaplers, der bei der Beklagten als selbstfahrende Arbeitsmaschine kfz-haftpflichtversichert ist. Dem Vertrag liegen die Allgemeinen Bedingungen für die Kraftfahrzeughaftpflichtversicherung (AKHB 2015) zugrunde, die auszugsweise lauten:
+„…
+Artikel 8
+Was ist nicht versichert? (Risikoausschlüsse)
+Der Versicherungsschutz umfasst nicht
+[…]
+3. Ersatzansprüche aus der Verwendung des versicherten Fahrzeuges als ortsgebundene Kraftquelle oder zu ähnlichen Zwecken;
+[…]“
+Der Kläger verwendete den Stapler, an dessen Arm ein Arbeitskorb montiert war und in dem sich Erntehelfer befanden, zur Kirschenernte. Für einen sicheren Stand waren die Stützen des Staplers ausgefahren, sodass das Fahrzeug nicht mehr fortbewegt werden konnte. Infolge Kippens und Absturzes des Arbeitskorbs kam es zur Verletzung von Personen.
+Rechtliche Beurteilung
+1. Ein Ausschluss der Verwendung eines Fahrzeugs als Arbeitsmaschine aus der Kfz-Haftpflichtversicherung ist grundsätzlich zulässig, weil § 4 Abs 1 Z 4 KHVG einen solchen
+Ausschluss ausdrücklich vorsieht (2 Ob 181/15d; 2 Ob 143/16t).
+2. Dieser hier vorgesehene Risikoausschluss ist wie Allgemeine Versicherungsbedingungen im Allgemeinen nach Vertragsauslegungsgrundsätzen (§§ 914 f ABGB) ausgehend vom Maßstab des durchschnittlich verständigen Versicherungsnehmers auszulegen (RS0050063). Dabei ist insbesondere der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der Allgemeinen Geschäftsbedingungen zu berücksichtigen (RS0008901 [T5, T7, T87]).
+3. Zur Frage, wann ein Fahrzeug als ortsgebundene Kraftquelle (Arbeitsmaschine) genutzt wird, liegt bereits Judikatur vor. Dies ist dann der Fall, wenn – wie hier – seine Fahrbarkeit durch Einrichtungen, etwa Auslegestützen, die seine Fortbewegung blockieren, vorübergehend aufgehoben wird und es in einer artfremden, mit den typischen Funktionen des Fahrzeugs in keinem Zusammenhang stehenden Weise eingesetzt wird (RS0128780; RS0081698).
+4. Die Verwendung eines Arbeitskorbs zur Durchführung artfremder, mit der typischen Fahrzeugfunktion in keinem Zusammenhang stehenden Arbeiten hat der Oberste Gerichtshof schon mehrfach als Verwendung des Fahrzeugs als ortsgebundene Kraftquelle beurteilt (vgl etwa 2 Ob 143/16t [Baumschnittarbeiten]; 2 Ob 114/09t [Wartungsarbeiten an der Werbetafel]; vgl auch 2 Ob 51/06y [LKW-Kran als stationärer Arbeitskran]). Die Entscheidungen der Vorinstanzen, wonach die Verwendung des Staplerteleskoparms samt Arbeitskorb zur Kirschenernte als Verwendung des Fahrzeugs als ortsgebundene Kraftquelle zu qualifizieren sei, hält sich im Rahmen dieser Rechtsprechung.
+5. Der vom Kläger behauptete Widerspruch zur Entscheidung 2 Ob 181/15d liegt nicht vor, stellte diese doch (vorrangig) auf den (fehlenden) Zusammenhang zwischen der schadenstiftenden Handlung und der Beladung des Fahrzeugs ab. Dass hier das Kirschenpflücken Vorbereitung der Fahrzeugbeladung sein sollte, ist dem festgestellten Sachverhalt nicht zu entnehmen.
+6. Der Kläger vermag demnach keine erhebliche Rechtsfrage aufzuzeigen. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision daher nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00037.19W.0828.000

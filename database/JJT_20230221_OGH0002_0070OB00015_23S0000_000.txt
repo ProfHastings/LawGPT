@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.02.2023
+Geschäftszahl
+7Ob15/23s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei Mag. P* B*, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, gegen die beklagte Partei I* AG, *, vertreten durch Brandl & Talos Rechtsanwälte GmbH in Wien, und die Nebenintervenientinnen auf Seiten der beklagten Partei 1. S* AG, *, vertreten durch Urbanek Lind Schmied Reisch, Rechtsanwälte OG in St. Pölten, 2. S* Assurance Ltd., Zweigniederlassung Deutschland, *, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, sowie 3. I* GmbH & Co KG, *, vertreten durch Lederer Hoff & Apfelbacher Rechtsanwälte GmbH in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 5. Dezember 2022, GZ 1 R 115/22w-61, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 			Die Vorinstanzen haben das Klagebegehren, die Beklagte hafte dem Kläger für alle Schäden, Folgen und Nachteile aus Fremdwährungsverlusten im Zusammenhang mit der Abdeckung eines Kredits, der aus Anlass der Zeichnung eines Pensionsvorsorgemodells vergeben wurde, abgewiesen, weil sie den Anspruch des Klägers als verjährt angesehen haben.
+[2] 			Der Kläger zeigt mit seiner außerordentlichen Revision keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+Rechtliche Beurteilung
+[3] 			1. Der bloße Umstand, dass zu lösende Fragen in einer Vielzahl von Fällen auftreten mögen, bewirkt entgegen der Ansicht des Klägers noch nicht deren Erheblichkeit iSd § 502 Abs 1 ZPO (RS0042816).
+[4] 			2. Nach mittlerweile gefestigter Rechtsprechung des Obersten Gerichtshofs ist für die Frage der Verjährung von Ansprüchen aus Beratungsfehlern bei Veranlagungs- und/oder Finanzierungskonzepten, die eine Kombination von Fremdwährungskrediten mit Tilgungsträgern vorsehen, entscheidend, zu welchem Zeitpunkt der Geschädigte erkennt, dass das Gesamtkonzept entgegen den Zusicherungen nicht oder nicht im zugesagten Ausmaß risikolos ist (RS0034951 [T38]; RS0087615 [T9, T10, T11]; RS0097976 [T8, T9]). Maßgeblich für den Verjährungsbeginn ist also die Kenntnis der Risikoträchtigkeit des gesamten Modells. Die spezifischen Gefahren, die diese Risikoträchtigkeit bedingen (Wechselkurs, Zinsentwicklung, Entwicklung des Tilgungsträgers), stehen nach der Interessenlage des durchschnittlichen Anlegers in einem derart engen Zusammenhang, dass die unterbliebene oder fehlerhafte Aufklärung über einzelne Teilaspekte verjährungsrechtlich jeweils als unselbständiger Bestandteil eines einheitlichen Beratungsfehlers zu qualifizieren ist (vgl RS0034951 [T39]). Zu welchem Zeitpunkt der Anleger konkret Kenntnis vom Primärschaden erlangte, hängt von den Umständen des Einzelfalls ab (vgl RS0113916 [T1]).
+[5] 			3. In diesem Zusammenhang ist auch darauf Bedacht zu nehmen, dass ein Primärschaden in Gestalt eines sogenannten „realen Schadens“ keine in Geld messbare Vermögenseinbuße voraussetzt; es reicht aus, dass die Zusammensetzung des Vermögens des Geschädigten nach dem schadensbegründenden Ereignis nicht seinem Willen entspricht (RS0022537 [T12, T22, T24]; vgl auch RS0129706 [T3]).
+[6] 			4. Die Beurteilung der Vorinstanzen, die dreijährige Verjährungsfrist habe spätestens Ende 2008 zu laufen begonnen, weil bereits ab Dezember 2006 in den regelmäßigen Mitteilungen der Versicherung Deckungslücken ausgewiesen waren und der Kläger ab April 2008 zur Kontoabdeckung nicht vereinbarte Zusatzleistungen in beträchtlichem Ausmaß leistete, weshalb der Kläger erkennen habe müssen, dass das Gesamtkonzept nicht seinen  Vorstellungen aufgrund der Mitteilungen im Rahmen des Beratungsgesprächs entsprochen habe, folgt der Rechtsprechung und bedarf daher keiner Korrektur.
+[7] 			5. In seiner Rechtsrüge entfernt sich der Kläger in weiten Teilen vom festgestellten Sachverhalt. Fest steht, dass er ab Oktober 2008 Kenntnis von der negativen Kursentwicklung seines Fremdwährungskredits und der daraus resultierenden Deckungslücke bei der Tilgung hatte. Die Rüge ist damit nicht gesetzmäßig ausgeführt (RS0043312; RS0043603).
+[8] 		6. Welche Auswirkungen „Beschwichtigungsversuche“ auf die Verjährung der Ansprüche von Anlegern haben, ist nur im Einzelfall zu beurteilen (RS0034951 [T34]).
+[9] 			Eine diesbezüglich aus Gründen der Einzelfallgerechtigkeit zu korrigierende Fehlbeurteilung zeigt die Revision nicht auf, die Vorinstanzen sind bereits aufgrund des Vorbringens des Klägers ohne Rechtsirrtum von keinem „In-Sicherheit-Wiegen“ ausgegangen, das auf den Beginn der Verjährungsfrist Einfluss hätte.
+[10] 			7. Die Revision war daher spruchgemäß zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00015.23S.0221.000

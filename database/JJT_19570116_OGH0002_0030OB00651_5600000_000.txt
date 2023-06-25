@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.01.1957
+Geschäftszahl
+3Ob651/56
+Norm
+ABGB §5;
+ABGB §8;
+Mietengesetz §19 Abs2 Z5;
+Mietengesetz §19 Abs2 Z6;
+Mietengesetz §19 Abs2 Z7;
+Erstes Staatsvertragsdurchführungsgesetz §12;
+Kopf
+SZ 30/4
+Spruch
+§ 12 des 1. Staatsvertragsdurchführungsgesetzes ist ein rückwirkendes Gesetz.
+Rückwirkende Gesetze sind auf anhängige Fälle auch in höherer Instanz anzuwenden.
+Eigenbedarf des Inhabers eines Fabriksunternehmens an einer im Fabriksgebäude befindlichen Wohnung kann nur nach Z. 5 oder 6, nicht auch nach Z. 7 des § 19 Abs. 2 MietG. geltend gemacht werden.
+Entscheidung vom 16. Jänner 1957, 3 Ob 651/56.
+I. Instanz: Bezirksgericht Favoriten; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hat die auf § 19 Abs. 1 MietG. gestützte Aufkündigung für rechtswirksam erklärt. Es stellte fest, daß die aufgekundigten Räume einen Teil der von der klägerischen Firma bzw. deren Alleininhaber Ing. M. bis 1947 benützten Wohnung bildeten, der Mietvertrag mit der beklagten Partei zu einem Zeitpunkt geschlossen wurde, als das Unternehmen unter der Verwaltung der USIA gestanden sei, und die Räume nunmehr wieder für Ing. M. gebraucht würden, der derzeit öffentlicher Verwalter des Unternehmens sei. Das Erstgericht würdigte den Sachverhalt dahin, daß ein dem Kündigungsgrund des § 19 Abs. 2 Z. 7 MietG. an Gewicht völlig gleichwertiger wichtiger Kündigungsgrund nach § 19 Abs. 1 MietG. vorliege.
+Das Berufungsgericht hob das erstrichterliche Urteil auf und trug dem Erstgericht ergänzende Feststellungen auf. Es unterstellte den Sachverhalt nicht dem Abs. 1 des § 19 MietG., sondern der Z. 5 des Abs. 2. dieser Gesetzesstelle. Der Eigenbedarf werde für den Alleininhaber des klägerischen Unternehmens geltend gemacht. Dem stehe auch nicht entgegen, daß Ing. M. derzeit noch öffentlicher Verwalter sei, weil nach seinem eigenen Vorbringen im Zusammenhang mit der Bestimmung des § 12 des ersten Staatsvertragsdurchführungsgesetzes davon ausgegangen werden müsse, daß er Eigentümer durch Übereignung geworden sei, nachdem er im Jahre 1946 die österreichische Staatsbürgerschaft erworben habe. Als Eigentümer stehe ihm aber, wenn er dringenden Eigenbedarf an der aufgekundigten Wohnung habe, nur der Weg einer Eigenbedarfskündigung offen. Für eine Anwendung des Abs. 1 des § 19 MietG. fehle es an einem entsprechenden, von § 19 Abs. 2 Z. 5 MietG. abweichenden Tatbestand. § 19 Abs. 2 Z. 7 MietG. könne überhaupt nicht herangezogen werden, weil er für den Eigenbedarf des Inhabers keine Anwendung finde. Um aber beurteilen zu können, ob der Kündigungsgrund nach § 19 Abs. 2 Z. 5 MietG. angenommen werden könne, bedürfe es noch der dort vorgeschriebenen Interessenabwägung. Da eine solche vom Erstgericht nicht vorgenommen worden sei und es auch an den hiezu nötigen Erörterungen und Feststellungen fehle, sei die Sache noch nicht spruchreif, so daß das Urteil habe aufgehoben werden müssen.
+Der Oberste Gerichtshof gab dem Rekurs der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Mit Recht hat das Berufungsgericht auf das erst nach Urteilsfällung erster Instanz erschienene erste Staatsvertragsdurchführungsgesetz Rücksicht genommen, weil im § 12 die Übereignung bereits rückwirkend für den 27. Juli 1955 (Inkrafttreten des Staatsvertrages) verfügt ist und rückwirkende Gesetze auf anhängige Fälle auch in höherer Instanz angewendet werden müssen. Daraus ergibt sich aber nach den eigenen Angaben der klagenden Partei in der Aufkündigung, daß Ing. M. infolge Übereignung nach § 12 des ersten Staatsvertragsdurchführungsgesetzes wieder Eigentümer der klägerischen Firma geworden ist. Als solcher kann er sich im Falle des Eigenbedarfs an einer im Fabriksgebäude befindlichen Wohnung nur auf die Kündigungstatbestände des § 19 Abs. 2 Z. 5 oder 6 MietG., nicht aber auf Z. 7 oder in Analogie dazu auf Abs. 1 dieser Gesetzesstelle stützen. Die Schlußfolgerung, daß der Tatbestand der Z. 7, der für Arbeiter und Angestellte gelte, um so mehr für den Betriebsinhaber gelten müsse, ist deshalb unrichtig, weil für den Eigenbedarf des Inhabers ein eigener Kündigungstatbestand nach Z. 5 normiert ist, in dessen Rahmen jede Art von Eigenbedarf geltend gemacht werden kann. Alle Erwägungen, die von der klagenden Partei darüber angestellt werden, wie dringend die Wohnung für Ing. M. gebraucht werde, sind im Rahmen des Tatbestandes der Z. 5 anzustellen. Es werden auch im Wege der Interessenabwägung das besondere Interesse an der Wohnung und die Begleitumstände, unter denen die klagende Partei die Wohnung verlor und die beklagte Partei in den Besitz der Wohnung gelangt ist, entsprechend zu würdigen sein. Es werden auch die notwendigen Feststellungen darüber zu treffen sein, ob die klagende Partei bzw. deren Alleininhaber Ing. M. das Haus noch vor dem Stichtag des Abs. 3 des § 19 MietG. erworben hat, wobei die Unterbrechung im Eigentumsrecht, die durch die Inanspruchnahme der Liegenschaft als deutsches Eigentum eingetreten ist, nicht zu berücksichtigen sein wird, weil es sich nicht um einen privatrechtlichen Rechtsübergang, sondern um völkerrechtliche, dem Parteiwillen entzogene Vorgänge gehandelt hat, die mit Rücksicht darauf, daß das Eigentum nunmehr wieder dem früheren Eigentümer zusteht, nicht mehr beachtet werden müssen.

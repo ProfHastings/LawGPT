@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2015
+Geschäftszahl
+9ObA89/15a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden und die Hofräte des Obersten Gerichtshofs Mag. Ziegelbauer und Dr. Hargassner sowie die fachkundigen Laienrichter ADir. Brigitte Augustin und Mag. Johann Schneller als weitere Richter in der Arbeitsrechtssache der klagenden Partei W***** K*****, vertreten durch Urbanek & Rudolph Rechtsanwälte OG in St. Pölten, gegen die beklagte Partei Dr. Peter Schobel, Rechtsanwalt in St. Pölten, als Masseverwalter im Konkurs über das Vermögen der J*****gesellschaft mbH, *****, wegen Feststellung des aufrechten Dienstverhältnisses und 15.580 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 27. Mai 2015, GZ 10 Ra 14/15z-56, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Trotz Fehlens einer ausdrücklichen Rechtsprechung des Obersten Gerichtshofs liegt dann keine erhebliche Rechtsfrage vor, wenn das Gesetz selbst eine klare und eindeutige Regelung trifft (RIS-Justiz RS0042656). Das ist hier in Bezug auf § 25 Abs 1 IO der Fall.
+Die Beendigung des Anstellungsvertrags eines GmbH-Geschäftsführers obliegt, solange die Organstellung nicht beendet wurde, grundsätzlich der Generalversammlung als zuständigem Organ (8 ObA 49/11f; RIS-Justiz RS0059817 [T1]). Verfällt die Gesellschaft jedoch in Konkurs, so übt der Insolvenzverwalter die Rechte und Pflichten der Gesellschaft als Arbeitgeber aus (§ 25 Abs 1 Satz 1 IO). Die Organisation der durch die Konkurseröffnung gemäß § 84 Z 4 GmbHG aufgelösten GmbH bleibt zwar auch im Konkurs gewahrt. Die Organe nehmen weiterhin ihre Funktionen wahr; dies jedoch nur soweit diese nicht vom Insolvenzverwalter verdrängt werden oder deren Ausübung dem Zweck des Konkurses zuwiderliefe (RIS-Justiz RS0059995; Zehetner in Straube, GmbHG § 84 Rz 47). Die Befugnisse der Gesellschaftsorgane werden somit durch die Befugnisse des Insolvenzverwalters überlagert, sodass der Insolvenzverwalter, der gemäß § 25 Abs 1 IO die Rechte und Pflichten des Arbeitgebers ausübt, auch Anstellungsverträge mit Geschäftsführern zur Auflösung bringen kann (Gelter in Gruber/Harrer, GmbHG [2014] § 84 Rz 23 mwN). Dies räumt auch der Revisionswerber als „grundsätzlich richtig“ ein. Auf seine weiteren Überlegungen zur Zusammensetzung der Generalversammlung und den Mehrheits-/Minderheitsverhältnissen kommt es nicht an. Diese sind nicht geeignet, den Insolvenzverwalter an der Wahrnehmung seiner gesetzlichen Aufgaben nach § 25 Abs 1 IO zu hindern.
+2. Ob der Entlassungsgrund der Vertrauensunwürdigkeit iSd § 27 Z 1 letzter Fall AngG vorliegt, ist nur nach den Umständen des Einzelfalls zu beurteilen, begründet daher - von Fällen einer krassen Fehlbeurteilung abgesehen - keine Rechtsfrage von der Bedeutung des § 502 Abs 1 ZPO (RIS-Justiz RS0103201 [T1]; RS0106298 [T9]). Beachtlich ist dabei, dass im Allgemeinen an Angestellte in leitender Stellung strengere Anforderungen gestellt werden, weil dem Arbeitgeber aus ihrem allfälligen Fehlverhalten typischerweise auch schwerwiegendere nachteilige Konsequenzen entstehen können (RIS-Justiz RS0029652; RS0029726).
+Schon die vom Kläger - ohne Wissen des Insolvenzverwalters - vorgenommene Speicherung von Unternehmensdaten der Gemeinschuldnerin auf einer eigenen Festplatte, um diese in weiterer Folge für eigene Zwecke zu verwenden, begründete Vertrauensunwürdigkeit und machte im Anlassfall die Weiterbeschäftigung des Klägers für die Beklagte unzumutbar (vgl RIS-Justiz RS0029833; RS0029749 [T2]). Die Entscheidungen der Vorinstanzen, die die Entlassung des Klägers aufgrund seines Gesamtverhaltens als berechtigt angesehen haben, ist daher nicht korrekturbedürftig.
+Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision des Klägers zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:009OBA00089.15A.0924.000

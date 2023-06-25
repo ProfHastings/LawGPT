@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.1952
+Geschäftszahl
+1Ob162/52
+Norm
+ABGB §34;
+Außerstreitgesetz §9;
+Reichsgesetz über Angelegenheiten der freiwilligen Gerichtsbarkeit
+§142;
+Reichsgesetz über Angelegenheiten der freiwilligen Gerichtsbarkeit
+§143;
+Handelsgesetzbuch §13b;
+Prokuraturgesetz §1 (3);
+Kopf
+SZ 25/48
+Spruch
+Auch inländische Zweigniederlassungen einer juristischen Person einer dem inländischen Recht unbekannten Struktur können, wenn sie ein Handelsgewerbe betreiben, im Handelsregister eingetragen werden.
+Kein Rekursrecht der Finanzprokuratur in Handelsregistersachen nach Eintritt der formellen Rechtskraft.
+Entscheidung vom 26. Februar 1952, 1 Ob 162/52.
+I. Instanz: Handelsgericht Wien; II Instanz: Oberlandesgericht Wien
+Text
+Das Erstgericht hat am 25. September 1950 die Eintragung einer Zweigniederlassung Wien der E. I. Trust mit dem Sitze in Vaduz und mit dem Betriebsgegenstand: Abschluß und Durchführung aller Rechtsgeschäfte, die mit der Verwaltung des in Österreich befindlichen (durch das Hauptunternehmen nach Österreich überwiesenen) Vermögens im Zusammenhang stehen, verfügt. Am 21. Juli 1951 hat das Oberlandesgericht dem Handelsgerichte aufgetragen, den Beschluß über die Eintragung der Zweigniederlassung der Finanzprokuratur zuzustellen, damit diese in die Lage versetzt werde, gegen diese Eintragung allenfalls im öffentlichen Interesse ein Rechtsmittel zu ergreifen. Der Finanzprokuratur wurde dieser Beschluß am 4. August 1951 zugestellt. Ob der Eintragungsbeschluß auftragsgemäß angeschlossen war, läßt sich aus dem Rückschein nicht ersehen. Der Finanzprokuratur wurde dann auf ihr Ersuchen der Akt am 31. August 1951 übersendet. Am 11. September 1951 langte ein Rekurs der Finanzprokuratur ein, mit dem die Eintragung der Zweigniederlassung und alle weiteren in dieser Sache ergangenen Verfügungen angefochten wurden.
+Das Oberlandesgericht hat dem Rekurs Folge gegeben und den Antrag auf Eintragung der Zweigniederlassung abgewiesen. Dagegen richtet sich der Rekurs der eingetragenen juristischen Person mit dem Antrag, die Entscheidung der ersten Instanz wiederherzustellen.
+Der Oberste Gerichtshof wies den Rekurs der Finanzprokuratur zurück; hob aber von Amts wegen auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es war zunächst die Rechtzeitigkeit des Rekurses der Finanzprokuratur zu prüfen. Der Oberste Gerichtshof folgt der schon in der Entscheidung der Obersten Rückstellungskommission Rkv 305/49 und in 1 Ob 884/51 ausgesprochenen Meinung, daß die Finanzprokuratur durch § 1 Abs. 3 des Prokuraturgesetzes nicht ermächtigt ist, ein nach Zustellung an die beteiligten Personen rechtskräftig abgeschlossenes Verfahren durch Einbringung eines Rechtsmittels wieder in Gang zu bringen. Die gegenteilige in SZ. XXI/133 hinsichtlich des Registerverfahrens aufgestellte Meinung kann nicht aufrechterhalten werden, doch sieht das Registerverfahren jederzeit die Möglichkeit einer Überprüfung der Ordnungsmäßigkeit einer Eintragung in den §§ 142 und 143 FGG. vor. Der von der Finanzprokuratur erhobene Rekurs kann also dem Oberlandesgericht Anlaß geben, im Sinne dieser Bestimmungen vorzugehen.
+Allerdings kann auch in materieller Hinsicht der Meinung des Oberlandesgerichtes nicht in allem gefolgt werden. Die Zweigniederlassung einer ausländischen juristischen Person ist nicht schon deswegen von der Eintragung nach § 13b HGB. ausgeschlossen, weil eine juristische Person ähnlicher Struktur den inländischen Gesetzen unbekannt ist. Denn die Rechtsfähigkeit einer ausländischen Person richtet sich gemäß § 34 ABGB. (SZ. XIV/132) nach ausländischem Recht. So weist auch § 13b Abs. 3 HGB. darauf hin, daß unter Umständen die Abweichungen, die das ausländische Recht notwendig macht, bei der Eintragung zu berücksichtigen sind. An sich sind also juristische Personen beliebiger Struktur eintragungsfähig, wenn sie und insbesondere auch ihre Zweigniederlassung im Inland - was allerdings einer Prüfung bedürftig ist - ein Handelsgewerbe betreiben (§ 33, 1 - 3 HGB.). Doch kann aus dem Umstande, daß eine juristische Person im Ausland in ein Öffentlichkeitsregister eingetragen ist, nicht schon erschlossen werden, daß ihre inländische Zweigniederlassung ins Handelsregister eingetragen werden kann.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.11.1953
+Geschäftszahl
+2Ob755/53
+Norm
+Allgemeines bürgerliches Gesetzbuch §1380;
+Allgemeines bürgerliches Gesetzbuch §1386;
+Zivilprozeßordnung §204;
+Zivilprozeßordnung §226;
+Zivilprozeßordnung §419;
+Kopf
+SZ 26/279
+Spruch
+Zulässigkeit einer Klage auf Einwilligung in die Verbesserung eines unrichtigen gerichtlichen Vergleiches.
+Entscheidung vom 13. November 1953, 2 Ob 755/53.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Das Erstgericht hat als erwiesen angenommen, daß der übereinstimmende Wille der Parteien bei Abschluß des Vergleiches vom 17. Jänner 1950 im Sinne des Klagebegehrens gelautet hat, daß es also nach dem übereinstimmenden Willen der Parteien in Absatz 1 des Vergleiches statt Norden richtig Osten und statt Osten richtig Norden heißen soll und daß die Diskrepanz des zu gerichtlichem Protokoll erklärten Vergleiches mit der Abmachung auf ein Sichversprechen des Klagevertreters Dr. T zurückzuführen ist, der beim Diktieren des Textes des Vergleiches die Himmelsrichtungen Osten und Norden verwechselt hat.
+Das Berufungsgericht hat diese Feststellungen des Erstgerichtes dadurch übernommen, daß es erklärt hat, daß nach den übereinstimmenden Prozeßbehauptungen der Parteien in der vorliegenden Rechtssache ihnen bei Abschluß des Vergleiches insofern ein Erklärungsirrtum unterlief, als die Himmelsrichtungen Norden und Osten verwechselt wurden.
+Das Erstgericht hat auf Grund dieses Sachverhaltes die Beklagten schuldig erkannt, einzuwilligen, daß der Punkt 1 des Vergleiches dahingehend berichtigt wird, daß die angegebenen Himmelsrichtungen Norden und Osten gegenseitig ausgetauscht werden.
+Das Berufungsgericht war der Ansicht, daß die Richtigstellung eines vor Gericht abgeschlossenen Vergleiches als Teil des Verhandlungsprotokolles nur unter den Voraussetzungen des § 212 ZPO. möglich ist, daß also die Beurkundungen des Protokolles von den Erklärungen der Parteien abweichen müssen; dies sei hier nicht der Fall. Das Berufungsgericht hat demnach das Klagebegehren abgewiesen.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei Folge und stellte das erstgerichtliche Urteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die These, daß Prozeßhandlungen wegen Willensmängel nicht angefochten werden können, weil nur die Erklärung des Willens rechtlich erheblich ist, ist für die Lösung des gegenständlichen Streitfalles nicht entscheidend. Die Prozeßhandlung als solche, das ist der Vergleich vom 17. Jänner 1950, wird von den Klägern gar nicht angefochten; die Kläger stehen ja auf dem Boden des Vergleiches, so wie er zwischen den Streitteilen zustandegekommen ist. Nur die Mitteilung, die die Streitteile über den Inhalt des Vergleiches dem Gericht gegenüber durch den Mund des Klageanwaltes Dr. T. abgegeben haben, deckt sich nicht mit der zwischen den Streitteilen zustandegekommenen Abmachung. Das Diktieren des Vergleichsinhaltes durch Dr. T. ist nicht eine prozessuale Erklärung des Willens jener Partei gewesen, die Dr. T. in der Vergleichstagsatzung vertreten hat, sondern die im Namen beider Streitteile dem Gericht gegenüber gemachte Mitteilung von dem Inhalt der erzielten Einigung. Es erscheint kaum zweifelhaft, daß ein offenkundiges Sichversprechen bei dieser Mitteilung an das Gericht nach § 212 ZPO. oder aus dem Gedanken des § 419 ZPO. heraus vom Gericht ohne weiteres in dem über die Tagsatzung aufgenommenen Protokoll berichtigt werden könnte, sofern das Gericht die Diskrepanz als eine offenbare Unrichtigkeit zu erkennen in der Lage ist (vgl. Pollak, System, S. 368).
+Trifft diese Voraussetzung nicht zu, dann könnte das Gericht wohl nur auf Grund eines übereinstimmenden Antrages die Änderung vornehmen. Weigert sich aber ein Teil, der Abänderung zuzustimmen, obwohl sie dem tatsächlichen Inhalt der Abmachung entspricht, dann kann dem anderen Teil das Recht nicht genommen werden, die Einwilligung zu der notwendigen Änderung im Klagewege zu erreichen, um die Berichtigung des zu Protokoll erklärten Inhaltes des Vergleiches zu ermöglichen.
+Der Sachverhalt ist nach dem Zeitpunkt des Vergleichsabschlusses zu beurteilen. Wäre dem Dr. T. damals die Verwechslung von Norden und Osten nicht unterlaufen, dann hätte der schriftliche Vergleich schon damals der tatsächlichen Vereinbarung und den tatsächlichen Verhältnissen entsprochen und die Kläger hätten schon damals die Möglichkeit der Verbücherung der Vereinbarung gehabt, ohne daß die Beklagten in der Lage gewesen wären, die grundbücherliche Eintragung wegen der von ihnen nun behaupteten nicht gehörigen Erfüllung des Vertrages durch die Gegenseite zu verhindern.

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.1952
+Geschäftszahl
+3Ob609/52
+Norm
+AO §50 Z4;
+AO §52;
+KO §152;
+KO §155;
+Kopf
+SZ 25/275
+Spruch
+Ein dem Ausgleich oder Zwangsausgleich zustimmender Gläubiger hat gegen den Bestätigungsbeschluß nur insofern ein Rekursrecht, als dieser Beschluß vom Inhalt des Ausgleiches abweicht.
+Entscheidung vom 22. Oktober 1952, 3 Ob 609/52.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht hat als Ausgleichsgericht mit dem Beschluß ON. 26 den bei der Tagsatzung am 22. April 1952 abgeschlossenen Ausgleich bestätigt.
+Obwohl die Rekurswerberin für den Ausgleich gestimmt hat, hat sie gegen die Bestätigung des Ausgleiches Rekurs erhoben mit dem Antrag, dem Ausgleich die Bestätigung zu versagen. Sie behauptete, die Voraussetzungen des § 50 Z. 4 AO. lägen mangels Berichtigung oder entsprechender Sicherstellung der Kosten und Gebühren des Ausgleichsverfahrens nicht vor.
+Das Rekursgericht hat den Rekurs der Ausgleichsgläubigerin mangels Rekurslegitimation zurückgewiesen.
+Der Oberste Gerichtshof gab dem Rekurs der Ausgleichsgläubigerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Rekursgericht hat mit Recht der Ausgleichsgläubigerin die Legitimation zum Rekurs abgesprochen. Gemäß § 52 AO. steht der Rekurs gegen einen Bestätigungsbeschluß einem Beteiligten nur zu, wenn er nicht ausdrücklich dem Ausgleich zugestimmt hat.
+Angesichts des dem österreichischen Konkurs- und Ausgleichsrecht eigentümlichen Grundsatzes, daß einem dem Ausgleich oder Zwangsausgleich zustimmenden Gläubiger das Rekursrecht gegen einen Bestätigungsbeschluß versagt ist, erschiene eine ausdehnende Auslegung des § 52 AO. dem Obersten Gerichtshof nur insofern möglich, als der Betätigungsbeschluß absichtlich oder versehentlich vom Inhalt des Ausgleiches abweicht (vgl. Bartsch - Pollak, I. Band, S. 647, und Rintelen, Österreichisches Konkurs- und Ausgleichsrecht, S. 469). Denn insoweit, als der Bestätigungsbeschluß mit dem angenommenen Ausgleichsvorschlag nicht übereinstimmt, kann ein Gläubiger nicht mehr als zustimmend gelten.
+Dem § 52 AO. kann nach Ansicht des Obersten Gerichtshofes aber entgegen der Meinung des Rekurses nicht entnommen werden, daß der Ausschluß des Rekursrechtes zustimmender Gläubiger in dem Falle nicht Platz greife, als der Vorschrift des § 50 Z. 4 AO. zuwider die Kosten und Gebühren des Ausgleichsverfahrens nicht fristgerecht entrichtet oder sichergestellt werden.

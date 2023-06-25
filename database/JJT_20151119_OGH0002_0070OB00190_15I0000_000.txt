@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.11.2015
+Geschäftszahl
+7Ob190/15i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr.
+Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei G***** G*****, vertreten durch Urbanek Lind Schmied Reisch Rechtsanwälte OG in St. Pölten, gegen die beklagte Partei Z*****-Aktiengesellschaft, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 19.511,63 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Juni 2015, GZ 1 R 23/15g-55, womit das Urteil des Landesgerichts Krems an der Donau vom 19. Dezember 2014, GZ 6 Cg 72/13t-48, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.189,44 EUR (darin enthalten 198,24 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Das Berufungsgericht begründete die Zulassung der ordentlichen Revision damit, dass die Beurteilung bisher noch nicht geprüfter Klauseln in Allgemeinen Geschäftsbedingungen eine erhebliche Rechtsfrage darstelle.
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Der Kläger ist bei der Beklagten unter anderem gegen Leitungswasserschäden versichert. Dem Versicherungsvertrag liegen die Allgemeinen ***** Bedingungen für die Leitungswasserversicherung (AWB 2002) und die Allgemeinen ***** Bedingungen für die Sachversicherung (ABS 2002 - Version 2010) zugrunde.
+Art 5 AWB 2002 lautet auszugsweise:
+„Artikel 5
+Obliegenheiten des Versicherungsnehmers vor dem Schadenfall
+…
+2. Werden Gebäude länger als 72 Stunden von allen Personen verlassen, sind alle Wasserzuleitungen abzusperren und geeignete Maßnahmen gegen Frostschäden zu treffen.
+...
+3. Die vorstehenden Obliegenheiten gelten als vereinbarte Sicherheitsvorschriften gemäß Artikel 3 ABS. Ihre Verletzung führt nach Maßgabe der gesetzlichen Bestimmungen zur Leistungsfreiheit des Versicherers.“
+Art 3 ABS 2002 lautet auszugsweise:
+„Artikel 3
+Sicherheitsvorschriften
+…
+2. Der Versicherer ist von der Verpflichtung zur Leistung frei, wenn der Schadenfall nach der Verletzung eintritt und die Verletzung auf Vorsatz oder grober Fahrlässigkeit des Versicherungsnehmers beruht. Die Verpflichtung zur Leistung bleibt bestehen, wenn die Verletzung keinen Einfluss auf den Eintritt des Schadenfalles oder soweit sie keinen Einfluss auf den Umfang der Entschädigung gehabt hat, oder wenn zur Zeit des Schadenfalles trotz Ablaufs der Frist die Kündigung nicht erfolgt war.
+3. Im übrigen gilt § 6 VersVG. ...“
+2. Der Oberste Gerichtshof hat sich bereits einmal mit einer zu Art 5.2. AWB 2002 vergleichbaren Klausel (Art 19 ABE 2004) im Zusammenhang mit einem - wie hier - zu Wohnzwecken benutzten Gebäude befasst und zur Frage, wann von einem „Verlassen“ des Gebäudes auszugehen ist, ausgesprochen, dass es darauf ankommt, ab wann und innerhalb welchen Zeitraums das Gebäude nicht bewohnt wurde (7 Ob 66/12z).
+Von dieser Rechtsprechung sind die Vorinstanzen nicht abgewichen, wenn sie aufgrund des unstrittigen Umstands, dass das versicherte Wohngebäude mehr als 72 Stunden vor dem Schadenfall nicht bewohnt wurde, davon ausgingen, dass der Kläger nach Art 5.2. AWB 2002 zum Absperren der Wasserleitungen sowie dazu verpflichtet gewesen wäre, geeignete Maßnahmen gegen Frostschäden zu treffen.
+3. Es ist Sache des Versicherers, den objektiven Tatbestand einer Obliegenheitsverletzung nachzuweisen. Demgegenüber hat der Versicherungsnehmer mangelndes Verschulden (oder einen geringeren Schuldgrad als grobe Fahrlässigkeit oder Vorsatz) sowie mangelnde Kausalität zu beweisen (RIS-Justiz RS0043728). Grobe Fahrlässigkeit ist im Bereich des Versicherungsvertragsrechts nach ständiger Rechtsprechung dann gegeben, wenn schon einfachste, naheliegende Überlegungen nicht angestellt und Maßnahmen nicht ergriffen werden, die jedermann einleuchten müssen; wenn jedenfalls völlige Gleichgültigkeit gegen das vorliegt, was offenbar unter den gegebenen Umständen hätte geschehen müssen (RIS-Justiz RS0080371). Die Beurteilung, ob grobe Fahrlässigkeit vorliegt oder nicht, hängt grundsätzlich von den Umständen des Einzelfalls ab.
+Die Wasserzuleitungen wurden nicht abgesperrt. Es steht nicht fest, dass die beiden Heizkreise im Haus während der Kälteperiode im Februar durchgehend in Betrieb waren und dass das Wohngebäude in einem Zeitraum von 72 Stunden vor Schadenseintritt überhaupt von irgendjemandem betreten wurde. Wenn das Berufungsgericht vor diesem Hintergrund davon ausgeht, dem klagenden Versicherungsnehmer sei es nicht gelungen, das Fehlen grober Fahrlässigkeit an der Obliegenheitsverletzung nachzuweisen, so ist dies im Einzelfall nicht zu beanstanden.
+4. Die Revision ist demnach unzulässig und zurückzuweisen.
+5. Die Kostenentscheidung beruht auf den §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00190.15I.1119.000

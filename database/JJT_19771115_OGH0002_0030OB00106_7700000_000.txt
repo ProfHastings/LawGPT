@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.11.1977
+Geschäftszahl
+3Ob106/77f
+Norm
+EO §346;
+EO §382 Z1;
+ZPO §458;
+Kopf
+SZ 50/145
+Spruch
+Die Bewilligung der Exekution zur Erwirkung der Herausgabe bestimmter beweglicher Sachen nach § 346 EO auf Grund einer im Besitzstörungsverfahren erlassenen einstweiligen Vorkehrung ist unzulässig
+OGH 15. November 1977, 3 Ob 106/77 (LGZ Wien 46 R 387/77; BG Mödling E 3061/77)
+Text
+In dem beim Erstgericht zwischen den Parteien anhängigen Besitzstörungsverfahren 3 C 237/77 wurde der nunmehrigen Verpflichteten am 8. April 1977 mit einstweiliger Vorkehrung aufgetragen, drei Tausendschilling-Stücke in Gold dem nunmehrigen betreibenden Gläubiger sofort auszufolgen.
+Das Erstgericht (als angerufenes Titel- und Exekutionsgericht) wies den Antrag des betreibenden Gläubigers, ihm zur Hereinbringung der Herausgabe dieser Sachen die Exekution nach § 346 EO zu bewilligen, zum Teil wegen Unbestimmtheit des Titels und zum Teil wegen Unzulässigkeit der Herausgabeexekution in Ansehung der noch im Umlauf befindlicher inländischer Scheidemünzen ab.
+Das Rekursgericht änderte diesen Beschluß dahin ab, daß die Exekution nach § 346 EO in Ansehung der drei Tausendschilling-Stücke in Gold bewilligt wurde.
+Der Oberste Gerichtshof stellte über den Revisionsrekurs der verpflichteten Partei den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Auf den Vollzug der gemäß § 458 ZPO im Besitzstörungsverfahren ergangenen einstweiligen Vorkehrungen sind die Bestimmungen der Exekutionsordnung über den Vollzug einstweiliger Verfügungen anzuwenden. Gemäß § 387 Abs. 1 EO geschieht der Vollzug einer einstweiligen Verfügung in der Regel sofort von Amts wegen durch das bewilligende Gericht. Der Vollzug obliegt diesem, es gibt kein von diesem verschiedenes Vollzugsgericht. Abgesehen von den Fällen des § 382 Z. 8 und § 384 Abs. 1 EO, in welchen Fällen das Provisorialverfahren mit den erteilten Aufträgen beendet ist, bildet eine einstweilige Verfügung keinen Exekutionstitel im Sinne des § 1 EO (Heller - Berger - Stix, 2822; SZ 20/94; EvBl. 1967/139; 3 Ob 11/74; 3 Ob 561/77 u. a.). Der Auftrag im Rahmen einer einstweiligen Verfügung zur Herausgabe von Sachen kann nicht als Gebot im Sinne des § 384 Abs. 1. EO aufgefaßt werden, weil sich diese Bestimmung nur auf solche Handlungen bezieht, die nach den Bestimmungen der §§ 353 bis 355 EO zu vollstrecken sind. Eine Herausgabeverpflichtung fällt hingegen unter die nach § 346 EO zu exequierenden Verpflichtungen. Die Exekutionsordnung behandelt allerdings nicht den Fall, daß der Gegner der gefährdeten Partei die streitverfangene Sache der gefährdeten Partei bereits im Provisorialverfahren herauszugeben hat. Ob eine solche einstweilige Verfügung überhaupt bzw. ob sie im vorliegenden Fall zulässig ist, ist hier nicht zu erörtern und zu prüfen. Die Exekutionsordnung regelt allerdings im § 382 Z. 1 EO die Herausgabe einer streitverfangenen Sache zum Zwecke der gerichtlichen Verwahrung. Eine solche Sicherungsmaßnahme kann zwangsweise nur durch Abnahme der Sache durch den Vollstrecker im Provisorialverfahren erfolgen, gleichgültig ob in der einstweiligen Verfügung die unmittelbare Abnahme angeordnet wurde oder ob dem Gegner der gefährdeten Partei aufgetragen wurde, die Sache selbst in gerichtliche Verwahrung zu übergeben. Eine Exekutionsführung nach § 346 EO ist in diesen Fällen ausgeschlossen (vgl. Heller - Berger - Stix, 2872; 3 Ob 11/74). Dies gilt auch für den Fall, daß eine körperliche bewegliche Sache an die gefährdete Partei sofort herauszugeben ist.

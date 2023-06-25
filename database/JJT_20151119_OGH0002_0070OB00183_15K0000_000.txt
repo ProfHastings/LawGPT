@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.11.2015
+Geschäftszahl
+7Ob183/15k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei D***** F*****, vertreten durch Dr. Egon Duschek, Rechtsanwalt in Knittelfeld, gegen die beklagte Partei V*****-Aktiengesellschaft, *****, vertreten durch Dr. Peter Schlösser, Rechtsanwalt in Graz, wegen 31.060,04 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 19. August 2015, GZ 5 R 46/15x-42, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der geltend gemachte Verfahrensmangel wurde geprüft, er liegt nicht vor (§ 510 Abs 3 ZPO).
+2. Dem Eigenheim-Versicherungsvertrag, der unter anderem eine Feuerversicherung umfasst, liegen die Allgemeinen Feuerversicherungs-Bedingungen der V***** (AFB 2003), die Allgemeinen Bedingungen für die Sachversicherung (ABS 2003), die Ergänzenden Allgemeinen Bedingungen für die Sachversicherung der V***** (EABS 2003) und die Besondere Vertragsbeilage Nr 22850 für die Sachversicherung im Eigenheim-Exklusiv-Produkt zugrunde.
+Sie lauten auszugsweise:
+EABS 2003
+„Art 4 EABS
+Versicherungsort
+Bewegliche Sachen sind nur in den Räumen versichert, die in der Polizze bezeichnet sind (Versicherungsort). Werden sie daraus entfernt, so ruht der Versicherungsschutz. Ist die Entfernung nicht nur vorübergehend, so erlischt insoweit auch der Versicherungsvertrag.
+[...]“
+Besondere Vertragsbeilage Nr 22850 für die Sachversicherung im Eigenheim-Exklusiv-Produkt
+„Allgemeiner Teil
+[...]
+1. Versicherte Objekte
+Versichert gilt ein Eigenheim [...] am Versicherungsgrundstück, ferner alle auf dem Versicherungsgrundstück befindlichen Nebengebäude, [...]. Sollten sich am Versicherungsgrundstück zwei oder mehrere gleichwertige Gebäude (Hauptgebäude) befinden, so sind diese einzeln zu bewerten, da es sich sonst um keine Nebengebäude im Sinne dieser Vereinbarung handelt.
+[...]
+Besonderer Teil
+4. Schäden an der Grundstücksinfrastruktur inklusive Umzäunungen
+Versichert gelten Schäden an der Grundstücksinfrastruktur (Außenanlagen) [...] des Versicherungsgrundstückes als Folge (auch infolge eines Löscheinsatzes) eines versicherten Schadenereignisses an versicherten Gebäuden, [...]
+5. Umzäunungen
+Versichert gelten Umzäunungen des Versicherungsgrundstückes, auf dem sich das versicherte Risiko befindet, [...]
+6. Kraftfahrzeuge (auch Mopeds) samt Anhänger, Motor- und Segelboote
+[...]
+a) Sämtliche auf den Versicherungsnehmer und dessen Ehepartner/Lebensgefährtin zugelassene bzw in Besitz stehende Fahrzeuge, wo immer auf dem in der Polizze genannten Versicherungsgrundstück befindlich, und zwar zum Neuwert nach Maßgabe von lit b
+[...]“
+2.1 Versicherungsort ist der geografische Bereich, auf dem der Versicherungsfall eintreten muss, damit Versicherungsschutz besteht (7 Ob 182/13k). Mitversicherte unbewegliche Sachen auf dem Grundstück sind solche, die sich innerhalb des Grundstücks - der „Risikoadresse“ -befinden. Durch den Ausdruck „auf dem Grundstück“ wird eine räumliche Abgrenzung vorgenommen (7 Ob 69/13t).
+2.2 Das Auslegungsergebnis des Berufungs-gerichts, durch die Anführung der Risikoadresse ***** in der Polizze sei der Versicherungsort mit der im Eigentum des Klägers stehenden Liegenschaft mit der eben genannten Adresse als Versicherungsort festgelegt worden, hingegen nicht die erst sechs Jahre nach Versicherungsvertragsabschluss angemietete Teilfläche der Nachbarliegenschaft, der die genannte Adresse gerade nicht zugeordnet ist, ist nicht zu beanstanden. Davon ausgehend erweist sich auch die Beurteilung des Berufungsgerichts als nicht korrekturbedürftig, dass das auf dem angemieteten Grundstück - und damit nicht am Versicherungsort - errichtete Carport ebensowenig vom Versicherungsschutz umfasst sei, wie die dort abgestellten Fahrzeuge samt den darin befindlichen Gegenständen aufgrund des Entfernens vom Versicherungsort.
+3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00183.15K.1119.000

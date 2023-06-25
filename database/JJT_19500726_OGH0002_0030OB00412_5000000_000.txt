@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.07.1950
+Geschäftszahl
+3Ob412/50
+Norm
+EO §399;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §133;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §140;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §142;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §145;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §146;
+Kopf
+SZ 23/229
+Spruch
+Die Aufhebung einer einstweiligen Verfügung, mit welcher einem Gesellschafter einer offenen Handelsgesellschaft die Vornahme gewisser eigenmächtiger Handlungen untersagt wurde, ist nicht schon deshalb gerechtfertigt, weil die gefährdete Partei in einem anderen Rechtsstreit rechtskräftig aus der offenen Handelsgesellschaft ausgeschlossen wurde.
+Entscheidung vom 26. Juli 1950, 3 Ob 412/50.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht hatte zur Sicherung von Unterlassungsansprüchen des Klägers die einstweilige Verfügung durch Verwaltung der zwischen den Streitteilen errichteten offenen Handelsgesellschaft bis zum Zeitpunkt der möglichen Zwangsvollstreckung des über die Klage ergehenden Urteils, längstens aber bis 31. Dezember 1950, bewilligt.
+Auf Antrag des Beklagten hob das Erstgericht nach durchgeführter Verhandlung diese einstweilige Verfügung nach § 399 EO. auf, da der Kläger aus der erwähnten offenen Handelsgesellschaft rechtskräftig ausgeschlossen, die Gesellschaft dadurch aufgelöst worden sei und die sich auf den Gesellschaftsvertrag grundenden Ansprüche des Klägers, welche durch die einstweilige Verfügung gesichert werden sollten, gegenstandslos geworden seien.
+Dem hiegegen vom Kläger erhobenen Rekurs gab das Rekursgericht Folge und wies den Antrag des Beklagten ab; da über die zu sichernden Ansprüche noch nicht rechtskräftig entschieden worden und die einstweilige Verfügung bis zum rechtskräftigen Prozeßabschluß rechtskräftig sei, könne über den Bestand dieser Ansprüche in einem Aufhebungsverfahren nach § 399 EO. nicht abgesprochen werden; abgesehen hievon, sei durch den rechtskräftig erfolgten Ausschluß des Klägers aus der nur aus ihm und dem Beklagten bestehenden offenen Handelsgesellschaft bloß das Liquidationsstadium mit den Rechten und Pflichten der Streitteile als Liquidatoren bei Gebundenheit des Gesellschaftsvermögens während der Dauer der Liquidation eingetreten und es bestunden dann nach wie vor die Gefahren, die durch die einstweilige Verfügung abgewendet werden sollten.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei seiner Ausführung, daß für die Auseinandersetzung zwischen ihm und dem Kläger als ausscheidenden Gesellschafter der Stichtag der Einbringung der Ausscheidungsklage nach § 140 Abs. 2 wohl in Verbindung mit § 142 Abs. 3 HGB. maßgebend sei, übersieht der Beklagte, daß hier nicht die Voraussetzungen des § 142 Abs. 1 HGB. vorliegen, vielmehr im Prozeßwege über seine Klage lediglich das Ausscheiden des Klägers aus der offenen Handelsgesellschaft rechtskräftig ausgesprochen wurde, welcher Ausspruch mangels eines Begehrens des Beklagten im Vorprozeß nach § 142 Abs. 1 HGB. rechtlich nach § 133 HGB. die Aufbösung und weiters nach § 145 HGB. die Liquidation der offenen Handelsgesellschaft zur Folge hatte, bei welcher nach § 146 HGB. sämtliche Gesellschafter, also beide Streitteile, als Liquidatoren zu fungieren haben. Daß aber die Gebundenheit des Gesellschaftsvermögens während der Dauer der Liquidation etwas anderes als während des Bestandes der Gesellschaft selbst bedeute, kann aus dem Gesetz nicht gefolgert werden, da es sich ja bei der Liquidation nur um die Abwicklung des Gesellschaftsvermögens handelt. Auch tritt die Liquidation nach § 145 HGB. kraft Gesetzes ein und bedarf im Gegensatze zur Rechtsansicht des Revisionsrekurswerbers keiner besonderen Klage.

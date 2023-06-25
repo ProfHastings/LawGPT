@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.05.2017
+Geschäftszahl
+3Ob16/17z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei B* GmbH, *, vertreten durch Rechtsanwaltskanzlei Dr. Wendling GmbH in Kitzbühel, wider die beklagte Partei Dipl.KH-BW J*, vertreten durch Prader, Ortner, Fuchs, Wenzel Rechtsanwälte Ges.b.R. in Innsbruck, wegen Räumung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 8. November 2016, GZ 1 R 267/16w-18, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Klägerin zeigt mit ihren Ausführungen keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf, weil sie die bestehende Judikatur missinterpretiert. Daher ist die Revision – kurz begründet (§ 510 Abs 3 ZPO) – als nicht zulässig zurückzuweisen.
+1. Gemäß § 1 Abs 2 Z 1 MRG fallen Mietgegenstände, die ua im Rahmen des Betriebs eines Verkehrsunternehmens vermietet werden, nicht in den Anwendungsbereich des MRG.
+Der Oberste Gerichtshof hat dazu bereits ausgesprochen, dass bei der Prüfung der Frage, ob die Vermietung im Rahmen des Betriebs des Verkehrsunternehmens des Vermieters erfolgte, auf den Zeitpunkt des Abschlusses des Mietvertrags abzustellen ist (RIS-Justiz RS0069644 [T4]). Wesentlich ist, ob die Vermietung nach dem Bestandzweck an sich in den Geschäftsbereich des Verkehrsunternehmens fiel und tatsächlich von diesem zu diesem Zweck („im Rahmen des Betriebs“) vermietet wurde (RIS-Justiz RS0069644 [T5]; 6 Ob 261/02d; 1 Ob 294/03x; 6 Ob 12/09x = wobl 2009/78 [zust Vonkilch]; 10 Ob 57/09v; Würth/Zingher/Kovanyi Miet- und Wohnrecht23 § 1 Rz 41). Eine „außerbetriebliche“ oder „zufällige“ Vermietung – etwa selbst nicht benötigter Räumlichkeiten – durch eines der in § 1 Abs 2 Z 1 MRG angeführten Unternehmen fällt dagegen in den Anwendungsbereich des MRG (RIS-Justiz RS0069644 [T6]; 6 Ob 261/02d).
+Damit ist von der Judikatur klargestellt, dass es nicht nur einer auf den Zeitpunkt des Abschlusses des Mietvertrags abzustellenden objektiven Prüfung bedarf, ob der Bestandzweck an sich in den Geschäftsbereich des Verkehrsunternehmens fiel, sondern auch einer solchen, ob dies damals der Absicht des Verkehrsunternehmens entsprach; wäre doch sonst keine Abgrenzung von „zufälligen“ Vermietungen erforderlich.
+Selbst wenn man angesichts der damaligen Tätigkeit des Beklagten davon ausginge, dass der Bestandzweck im Betrieb seiner Paragleiter-Flugschule gelegen war, hat die Klägerin den Nachweis nicht erbracht, die Vermietung an den Beklagten sei gerade zu diesem Zweck erfolgt. Zu Lasten der Klägerin steht nämlich fest, dass es ihr bis Dezember 2010, also auch schon beim Abschluss des Bestandvertrags im Jahr 1992, gleichgültig war, welches Geschäft der Beklagte in den gemieteten Räumen führte. Die Rechtsansicht des Berufungsgerichts, dass die Vermietung daher nicht im Rahmen des Betriebs des Seilbahnunternehmens der Klägerin erfolgt sei, ist somit jedenfalls vertretbar.
+Daraus folgt aber auch die Geltung des MRG für den vorliegenden Bestandvertrag.
+2. Die Frage, ob – wie die Klägerin meint – auch ein privat zu touristischen Zwecken betriebenes Seilbahnunternehmen zu den nach § 1 Abs 2 Z 1 MRG privilegierten Verkehrsbetrieben zählt, stellt sich somit nicht, weil ihr die Präjudizialität für die Lösung des vorliegenden Falls fehlt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E118134

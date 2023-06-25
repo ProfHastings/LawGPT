@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.2019
+Geschäftszahl
+7Ob254/18f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei W***** R*****, vertreten durch Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei H***** AG, *****, vertreten durch Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, wegen Feststellung, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. Februar 2018, GZ 50 R 131/17x-10, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 29. September 2017, GZ 18 C 304/17p-6, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 626,52 EUR (darin enthalten 104,42 EUR an USt) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Rechtsschutzversicherungsvertrag abgeschlossen. Diesem liegen die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2008) zugrunde, die auszugsweise wie folgt lauten:
+„Artikel 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+Es besteht kein Versicherungsschutz für die Wahrnehmung rechtlicher Interessen
+1. in ursächlichem Zusammenhang
+[…]
+1.6 mit der Anlage von Vermögen in Finanzinstrumente gemäß § 48 Z 3 BörseG und der damit zusammenhängenden Beratung, Vermittlung und Verwaltung.
+[…]“
+Der Kläger begehrt von der Beklagten Rechtsschutzdeckung für die klageweise Geltendmachung von Rückabwicklungsansprüchen im Zusammenhang mit dem von ihm nach § 165a VersVG erklärten Rücktritt gegenüber seinem Lebensversicherer aufgrund fehlerhafter Belehrung über sein Rücktrittsrecht.
+Rechtliche Beurteilung
+1. Die Revision der Beklagten ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RIS-Justiz RS0112921, RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt weg, wenn die bedeutsame Rechtsfrage durch eine Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RIS-Justiz RS0112921 [T5]).
+2. Dies ist hier der Fall. Der Oberste Gerichtshof hat bei identer Bedingungslage zur Auslegung des Art 7.1.6 ARB 2008, die den ausschließlichen Gegenstand des Revisionsverfahrens hier bildet, bereits in seiner Entscheidung 7 Ob 227/18k vom 19. Dezember 2018 wie folgt Stellung genommen:
+Der Ausschlusstatbestand enthält den ausdrücklichen Verweis auf die Anlage von Vermögen „in Finanzinstrumente gemäß § 48 Z 3 (richtig § 48a Abs 1 Z 3) BörseG“. Der durchschnittlich verständige Versicherungsnehmer kann diese Wortfolge nur dahin verstehen, dass unmittelbar von ihm selbst in ein explizit in § 48a Abs 1 Z 3 BörseG angeführtes Finanzinstrument getätigte Vermögensanlagen gemeint sind. Als juristischer Laie unterstellt er den Abschluss eines – in § 48a Abs 1 Z 3 BörseG gerade nicht genannten – Lebensversicherungsvertrags auch keinem der dort genannten Finanzinstrumente. Ebenso wenig schließt er aus dem Umstand, dass im Zuge einer fondsgebundenen Lebensversicherung vom Versicherer (mittelbar) Veranlagungen seiner Prämien in Finanzinstrumente vorgenommen werden auch nicht darauf, dass dies als eine von ihm erfolgte Veranlagung verstanden werden könnte.
+Die Beurteilung des Berufungsgerichts, der von der Beklagten herangezogene Ausschluss des Art 7.1.6 ARB 2008 gelange aufgrund der gebotenen engen Auslegung nicht zur Anwendung, entspricht damit der oberstgerichtlichen Rechtsprechung.
+3. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO. Der Kläger hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00254.18F.0130.000

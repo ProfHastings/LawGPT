@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.1966
+Geschäftszahl
+4Ob26/66
+Norm
+ZPO §214 (1);
+ZPO §216 (2);
+ZPO §515;
+Kopf
+SZ 39/72
+Spruch
+In den Fällen des § 515 ZPO. ist ein selbständiges Rechtsmittel zulässig, wenn eine weitere anfechtbare Entscheidung nach der Prozeßlage nicht erfließen kann (hier Beschluß über die Protokollierung im abgeschlossenen Verfahren eines Rechtshilfegerichtes, das einem fremden Rechtsmittelgericht untersteht)
+Entscheidung vom 19. April 1966, 4 Ob 26/66
+I. Instanz: Bezirksgericht Linz; II. Instanz: Landesgericht Linz
+Text
+In der vorliegenden, beim Arbeitsgericht Wien anhängigen Rechtssache wurde auf Grund eines Ersuchens des Prozeßgerichtes vom Bezirksgericht Linz als Rechtshilfegericht am 19. Oktober 1965 eine Beweisaufnahme durchgeführt und hierüber das Protokoll ON. 7 errichtet. Auf Antrag der klagenden Partei berichtigte das Rechtshilfegericht mit seinem Beschluß vom 17. Dezember 1965 dieses Verhandlungsprotokoll.
+Den Berichtigungsbeschluß des Rechtshilfegerichtes bekämpfte die beklagte Partei mit Rekurs an das Landesgericht Linz.
+Das Rekursgericht wies den Rekurs unter Bezugnahme auf die §§ 214 (1), 216 (2) ZPO, als unzulässig zurück.
+Der Oberste Gerichtshof hob den angefochtenen Beschluß auf und trug dem Rekursgericht die sachliche Entscheidung auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es trifft zwar zu, daß nach dem Wortlaut des § 216 (2) ZPO. die Bestimmungen der §§ 209 bis 215 ZPO. auch für die in § 216 (1) angeführten Protokolle, welche außerhalb einer mündlichen Verhandlung aufgenommen werden, also auch für die Protokolle über die Beweisaufnahme vor dem ersuchten Richter, Geltung haben. Nach § 214 (1) ZPO. ist daher gegen Beschlüsse und Verfügungen des ersuchten Gerichtes, die die Protokollierung betreffen, ein abgesondertes Rechtsmittel nicht zulässig. Nach § 515 ZPO. können die Parteien ihre Beschwerde gegen derartige Beschlüsse mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen.
+Ein selbständiges Rechtsmittel gegen einen nicht abgesondert anfechtbaren Beschluß ist aber dann zulässig, wenn eine weitere anfechtbare Entscheidung nach der Prozeßlage nicht erfließen kann (vgl. SpR. 215, Fasching II S. 1003). Anderenfalls käme es nämlich dazu, daß der nicht abgesondert anfechtbare Beschluß überhaupt nicht mehr bekämpft werden könnte, also zu einem nicht anfechtbaren Beschluß würde, was dem Gesetz widerspricht. Der prozessuale Grund, warum es zu einer weiteren anfechtbaren Entscheidung nicht kommen kann, muß nicht gerade nur im Abschluß der Hauptsache liegen. Er kann auch - wie im vorliegenden Fall - darin bestehen, daß ein Zwischenverfahren, etwa ein Rechtshilfeverfahren vor einem fremden Gericht, das einem fremden Rechtsmittelgericht untersteht, beendet ist und daß daher eine weitere anfechtbare Entscheidung des Rechtshilfegerichtes nicht mehr zu erwarten ist.
+Im vorliegenden Fall war das Bezirksgericht Linz als ersuchtes Gericht gemäß § 284 ZPO. befugt, über die Berichtigung seines Protokolls zu entscheiden. Der Rechtsmittelzug gegen seine Entscheidung ging an das Landesgericht Linz. Im ganzen Verfahren über die vorliegende, beim Arbeitsgericht Wien anhängige Rechtssache wird keine Möglichkeit mehr bestehen, daß das Bezirksgericht Linz als ersuchtes Gericht eine "nächstfolgende anfechtbare Entscheidung" erlassen wird (§ 515 ZPO.). Da das Landesgericht für ZRS. Wien über den Protokollberichtigungsbeschluß wegen des verschiedenen Rechtsmittelzuges nicht entscheiden kann, muß der von der beklagten Partei gegen den vom Rechtshilfegericht erlassenen Berichtigungsbeschluß an das Landesgericht Linz erhobenen Rekurs als zulässig angesehen werden.

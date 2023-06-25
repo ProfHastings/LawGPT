@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+9Ob50/20y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden sowie die Hofrätinnen und den Hofrat des Obersten Gerichtshofs Dr. Fichtenau, Hon.-Prof. Dr. Dehn, Dr. Hargassner und Mag. Korn in der Rechtssache der klagenden Partei ***** B*****, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, gegen die beklagte Partei ***** N*****, wegen der Wiederaufnahme des Verfahrens  AZ 3 Cg 113/18p des Landesgerichts St. Pölten (Streitwert: 43.370,97 EUR sA und Feststellung [5.000 EUR]), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien vom 28. August 2020, GZ 11 R 124/20s-6, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Das Erstgericht wies die auf § 530 Abs 1 Z 7 ZPO gestützte Wiederaufnahmsklage der Klägerin a limine zurück, weil es im Klagsvorbringen zum Ergebnis eines neuen Privatgutachtens (radiologische Ergänzungsbefunde zur Aussagekraft von im Vorverfahren maßgeblichen MRT-Bildern) keinen geeigneten Wiederaufnahmsgrund sah. Das Rekursgericht bestätigte den Zurückweisungsbeschluss.
+In ihrem dagegen gerichteten außerordentlichen Revisionsrekurs, der gemäß § 528 Abs 2 Z 2 zweiter HS ZPO keiner Konformitätsschranke unterliegt, zeigt die Klägerin keine Rechtsfrage von der Qualität des § 528 Abs 1 ZPO auf:
+Wie bereits vom Rekursgericht ausgeführt, ist ein Privatgutachten ein Beweismittel, das im Falle des Vorliegens der sonstigen Voraussetzungen des § 530 Abs 1 Z 7 ZPO zur Wiederaufnahme eines rechtskräftig abgeschlossenen Verfahrens führen kann. Eine Wiederaufnahme im Sinn dieser Bestimmung kommt aber nicht in Betracht, wenn das Beweisthema des Privatgutachtens bereits im Vorprozess bekannt gewesen ist und der Wiederaufnahmskläger den Sachverständigenbeweis bereits im Vorprozess hätte antreten können (s RS0040363 [T3]; RS0044834). Die Wiederaufnahmsklage ist also auch dann unzulässig, wenn die Partei schon im Vorverfahren Anlass gehabt hätte, ein Sachverständigengutachten einzuholen, dies jedoch unterlassen hat (RS0044834 [T17]). Dies ist jedoch auf jene Fälle zu beschränken, in denen die Partei ausreichende Gründe zur Annahme haben musste, ein Sachverständigengutachten wäre geeignet, zusätzlichen Erkenntnisgewinn zu bringen (RS0044834 [T18]).
+Im Vorprozess war die Frage der notwendigen Entfernung des Erbsenbeins und die Aufklärung der Klägerin darüber Beweisthema. Bei der Zeugenbefragung des behandelnden Arztes wurde erörtert, wie er zur Diagnose einer Pisotriquetralarthrose gekommen war, dies vor dem Hintergrund, dass diese Arthrose primär nicht ausdiagnostiziert war, er sich grundsätzlich „auf den Befund des Radiologen verlassen kann“, die vorgelegten MRT-Befunde einen konstanten bzw geringen Erguss auswiesen und nach den Ausführungen des handchirurgischen Gerichtssachverständigen aus einem Erguss „nicht 100%ig“ auf das Ausmaß einer Arthrose geschlossen werden kann (s Vorverfahren AS 218, 230 sowie Beil ./B und ./C). Damit hatte die Klägerin bereits im Vorverfahren Anlass zu hinterfragen, ob die den MRT-Befunden zugrunde liegenden Bilder, in die der Arzt nach seiner Aussage Einsicht genommen hatte, aus radiologischer Sicht seine Diagnose erlaubten und seine Operationsempfehlung über die vermeintlich unsichere Verdachtslage hinaus ausreichend fundierten. Die Beurteilung des Rekursgerichts, dass die Vorlage der erst nach Schluss der Verhandlung eingeholten radiologischen Ergänzungsbefunde keine Wiederaufnahme des Vorverfahrens iSd § 530 Abs 1 Z 7 ZPO ermöglicht, ist danach nicht weiter korrekturbedürftig.
+Mangels einer Rechtsfrage von der Qualität des § 528 Abs 1 ZPO ist der außerordentliche Revisionsrekurs der Klägerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0090OB00050.20Y.1021.000

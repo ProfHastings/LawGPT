@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.11.1972
+Geschäftszahl
+3Ob144/72
+Norm
+ABGB §1358;
+EO §9;
+Wechselgesetz Art17;
+Wechselgesetz Art32 Abs 3;
+ZPO §411;
+Kopf
+SZ 45/131
+Spruch
+Zwischen der Forderung aus dem Grundgeschäft und der Forderung aus einem diesbezüglichen Deckungswechsel besteht keine Identität; es liegen vielmehr zwei verschiedene Forderungen vor, die nur insofern in einem Zusammenhang stehen, als durch die Zahlung der einen Forderung auch die andere erlischt
+Wer auf den Wechsel neben anderen als Annehmer aufscheint und auf Grund eines Wechselzahlungsauftrages dem Gläubiger zahlt, kann gegen den wechselmäßigen Mitschuldner nicht auf Grund dieses Titels und des Nachweises, daß er im Grundverhältnis Bürge ist und bezahlt hat, Exekution führen
+OGH 30. 11. 1972, 3 Ob 144/72 (OLG Wien 1 R 171/72; HG Wien 30 (13) Cg 841/59)
+Text
+Im Wechselzahlungsauftrag des Handelsgerichtes Wien vom 10. 6. 1959, CZ 13 Cg 841/59-1, wurde dem betreibenden Gläubiger, dem Verpflichteten und drei weiteren Beklagten als Akzeptanten zweier Wechsel zur ungeteilten Hand aufgetragen, an die A-GmbH die Wechselsumme von S 48.746.- samt 6% Zinsen seit 6. 6. 1959 sowie die mit S 477.21 bestimmten Kosten zu bezahlen.
+Auf Grund dieses, auch gegen den Verpflichteten vollstreckbar gewordenen Wechselzahlungsauftrages, der Erklärung der A-GmbH vom 18. 11. 1960 und der Amtsbestätigung des Handelsgerichtes Wien vom 21. 11. 1960 wurde vom Erstgericht dem betreibenden Gläubiger gegen den Verpflichteten zur Hereinbringung der Forderung von S 33.676.68 samt 6% Zinsen seit 18. 11. 1960 sowie der Exekutionskosten die Fahrnisexekution bewilligt.
+In Abänderung dieses Beschlusses wies das Rekursgericht den Exekutionsantrag infolge Rekurses des Verpflichteten zur Gänze ab.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des betreibenden Gläubigers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei der vorgelegten Erklärung der A-GmbH handelt es sich um ein an den betreibenden Gläubiger gerichtetes Schreiben mit notarieller Beglaubigung der Unterschriften. Die Zeichnungsberechtigung wird durch die genannte Amtsbestätigung des Handelsgerichtes Wien nachgewiesen. In dem als Erklärung nach § 9 EO bezeichneten Schreiben bestätigt die A-GmbH, daß der betreibende Gläubiger in Erfüllung der im Finanzierungsfall A 342 904 (Darlehensantrag) übernommenen Zahlungsbürgschaft die laut Endabrechnung offene Restschuld von S 33.676.68 beglichen hat. Hierüber liege ein rechtskräftiger Wechselzahlungsauftrag des Handelsgerichtes Wien, AZ 13 Cg 841/59, vor. Schließlich wird in diesem Schreiben noch bemerkt, der betreibende Gläubiger sei gemäß § 1358 ABGB nach Maßgabe der Bestimmungen des Darlehensvertrages im Ausmaß der geleisteten Zahlung in die gegen den Kommittenten zustehende Forderung samt Nebenrechten eingetreten.
+Aus dem Exekutionstitel, von dem ausgegangen werden muß, geht hervor, daß der betreibende Gläubiger als Akzeptant zur Zahlung der vollstreckbaren Wechselforderung verpflichtet ist. Demnach hat er durch die Einlösung der Wechselforderung eine gegen ihn bestehende Forderung - und nicht eine fremde - erfüllt, wodurch diese durch Zahlung erloschen ist und daher nicht mehr abgetreten werden kann (Neumann - Lichtblau[4], 235; SZ 20/172). Der betreibende Gläubiger kann sich nicht darauf berufen, daß er für die Forderung aus dem Grundgeschäft nur gebürgt habe. Nach ständiger Rechtsprechung besteht nämlich keine Identität zwischen der Forderung aus dem Grundgeschäft und der Forderung aus einem diesbezüglichen Deckungswechsel; es liegen vielmehr zwei verschiedene Forderungen vor, die nur insofern in einem Zusammenhang stehen, als durch die Zahlung der einen Forderung auch die andere erlischt (SZ 11/5, SZ 12/17, SZ 23/247, SZ 26/217, EvBl 1960/337, Neumann - Lichtblau[4], 372). Der Übergang der Forderung aus dem Wechselzahlungsauftrag auf den betreibenden Gläubiger infolge Zahlung ist demnach ausgeschlossen, weil dieser nicht Bürge der Wechselforderung (§ 32 Abs 3 WG 1955) war. Nach dem Inhalt der Erklärung der A-GmbH vom 18. 11. 1960 kommt daher nur ein Übergang der Forderung aus dem Grundgeschäft auf den betreibenden Gläubiger im Sinn des § 1358 ABGB in Frage. Auf diese Forderung bezieht sich aber, wie ausgeführt, der Wechselzahlungsauftrag nicht. Das Rekursgericht hat daher den auf diesen Titel gestützten Exekutionsantrag zu Recht abgewiesen.

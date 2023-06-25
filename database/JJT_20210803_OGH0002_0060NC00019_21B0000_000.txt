@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.08.2021
+Geschäftszahl
+6Nc19/21b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden und die Hofräte Univ.-Prof. Dr. Kodek sowie Dr. Nowotny als weitere Richter in der Rechtssache des Antragstellers C*, vertreten durch Thurnherr Wittwer Pfefferkorn & Partner Rechtsanwälte GmbH in Dornbirn, gegen die Antragsgegnerin W* Ltd, *, Irland, über den Ordinationsantrag des Antragstellers gemäß § 28 JN den
+Beschluss
+gefasst:
+Spruch
+Der Antrag, gemäß § 28 Abs 1 Z 1 JN das Landesgericht Feldkirch als zuständiges Gericht für die vom Antragsteller einzubringende Klage in gegenständlicher Angelegenheit zu bestimmen;
+in eventu, ein anderes Landesgericht für Zivilrechtssachen als zuständiges Gericht für die vom Antragsteller einzubringende Klage in gegenständlicher Angelegenheit zu bestimmen,
+wird abgewiesen.
+Text
+Begründung:
+[1] 		Der Antragsteller bringt vor, er habe mit Schreiben vom 21. 1. 2021 die Antragsgegnerin gemäß Art 15 DSGVO um Auskunftserteilung hinsichtlich der den Antragsteller betreffenden personenbezogenen Daten ersucht. Der diesbezügliche Antrag habe auch einen Antrag auf Übermittlung einer Datenkopie iSv Art 15 Abs 3 DSGVO enthalten. Am 15. 4. 2021 sei dem Antragsteller eine Auskunft der Antragsgegnerin zugestellt worden, in der auf die Möglichkeit verwiesen worden sei, eine Kopie der im Bezug auf den Antragsteller verarbeiteten Daten elektronisch anzufordern. Der Antragsteller habe von dieser Möglichkeit Gebrauch gemacht und am 19. 4. 2021 die von der   Antragsgegnerin elektronisch zur Verfügung gestellte Datenkopie heruntergeladen.
+[2] 		Da die von der Antragsgegnerin erteilte Auskunft unvollständig sei und nicht den gesetzlichen Vorgaben entspreche und auch die zur Verfügung gestellte Datenkopie nicht vollständig sei, beabsichtigt der Antragsteller nunmehr, seine Ansprüche gemäß Art 15 DSGVO klagsweise durchzusetzen. Er habe seinen Wohnsitz und gewöhnlichen Aufenthalt in Österreich. Die Antragsgegnerin habe ihren Sitz in *, Irland, und verfüge nach den Angaben im Impressum auf ihrer Website über keine Niederlassung in Österreich. Der in Art 79 Abs 2 DSGVO vorgesehene Wahlgerichtsstand sehe zwar die internationale Zuständigkeit österreichischer Gerichte vor, regle aber nicht die örtliche Zuständigkeit, weshalb eine Ordination gemäß § 28 JN erforderlich sei.
+[3] 		Der Antrag ist nicht berechtigt.
+Rechtliche Beurteilung
+[4] 		1. Gemäß Art 79 Abs 2 DSGVO sind für Klagen gegen einen Verantwortlichen oder gegen einen Auftragsverarbeiter im Sinne der DSGVO die Gerichte des Mitgliedstaats zuständig, in dem der Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat. Ergänzend sieht Art 79 Abs 2 DSGVO einen Wahlgerichtsstand vor, wonach solche Klagen auch bei den Gerichten des Mitgliedstaats erhoben werden können, in dem die betroffene Partei ihren Aufenthaltsort hat.
+[5] 		2. Nach § 29 Abs 2 DSG ist für Klagen auf Schadenersatz in erster Instanz das mit der Ausübung der Gerichtsbarkeit in bürgerlichen Rechtssachen betraute Landesgericht zuständig, in dessen Sprengel der Kläger (Antragsteller) seinen gewöhnlichen Aufenthalt oder Sitz hat. Klagen (Anträge) können aber auch bei dem Landesgericht erhoben werden, in dessen Sprengel der Beklagte seinen gewöhnlichen Aufenthalt oder Sitz oder eine Niederlassung hat.
+[6] 		3. Der Oberste Gerichtshof hat bereits in mehreren Entscheidungen ausgesprochen, dass die Geltendmachung des Auskunftsrechts gemäß Art 15 DSGVO und des Rechts auf Erhalt einer Datenkopie gemäß Art 15 Abs 3 DSGVO parallel zur Möglichkeit der Erhebung einer Beschwerde vor der zuständigen Aufsichtsbehörde auch gerichtlich durchgesetzt werden kann (6 Ob 127/20z; 6 Ob 138/20t).
+[7] 		4.1. Daraus, dass Art 79 Abs 2 DSGVO zwar einen Wahlgerichtsstand in Österreich vorsieht, aber im Gegensatz zu Art 18 Abs 1 EuGVVO nicht auch die örtliche Zuständigkeit regelt, wurde im Schrifttum teilweise abgeleitet, dass eine Ordination gemäß § 28 JN erforderlich sei (Leupold/Schrems in Knyrim, DatKomm Art 79 Rz 46; Klauser, Rechtsdurchsetzung im Datenschutz nach der DSGVO und dem DSG 2018 aus zivilprozessualer und verbraucherrechtlicher Sicht, in Nunner-Krautgasser/Garber/Klauser, Rechtsdurchsetzung im Datenschutz nach der DSGVO und dem DSG 2018 [2019] 53 ff; vgl auch Mayr in Rechberger/Klicka, ZPO5 JN § 28 Rz 4).
+[8] 		4.2. In der eingehend begründeten, zu einem Feststellungsbegehren ergangenen Entscheidung 6 Ob 91/19d (= jusIT 2019/55 [Jahnel/Thiele]) hat der erkennende Senat zwischenzeitig jedoch bereits klargestellt, dass § 29 Abs 2 DSG nicht nur auf Schadenersatzklagen im engeren Sinn, sondern auch auf andere zivilrechtliche Ansprüche nach dem DSG bzw der DSGVO anzuwenden ist. Wenngleich sich diese Entscheidung ausdrücklich nur mit der sachlichen Zuständigkeit befasst, lassen sich die diesbezüglichen Erwägungen auch auf die örtliche Zuständigkeit übertragen.
+[9] 		5. Zusammenfassend ist somit vor dem Hintergrund der „Zweispurigkeit“ des Rechtsschutzes für datenschutzrechtliche Ansprüche § 29 Abs 2 DSG erweiternd dahingehend auszulegen, dass diese Bestimmung nicht nur Schadenersatzansprüche, sondern auch andere zivilrechtliche Ansprüche nach dem DSG bzw der DSGVO erfasst.
+[10] 		6. Einer Ordination gemäß § 28 JN bedarf es mithin nicht, sodass der diesbezügliche Antrag spruchgemäß abzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132712

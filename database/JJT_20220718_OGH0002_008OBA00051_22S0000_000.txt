@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.07.2022
+Geschäftszahl
+8ObA51/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Thunhart und die fachkundigen Laienrichter Mag. Elke Wostri (aus dem Kreis der Arbeitgeber) und Mag. Manuela  Majeranowksi-Laufer (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei C*, vertreten durch die Schmidberger-Kassmannhuber-Schwager Rechtsanwalts-Partnerschaft in Steyr, gegen die beklagte Partei F* GmbH, *, vertreten durch die DORDA Rechtsanwälte GmbH in Wien, wegen 101.111,49 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse: 47.142,49 EUR) gegen das Teilurteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 20. April 2022, GZ 11 Ra 18/22d-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin war bei der Beklagten als Sales Account Managerin beschäftigt. Die Beklagte übersendete der Klägerin am 14. 7. 2020 einen von ihr unterfertigten Aufhebungsvertrag, mit der sie der Klägerin die einvernehmliche Beendigung des Dienstverhältnisses zum 31. 12. 2020 samt einer Provisionsentschädigung von 66.592,70 EUR anbot. Noch am selben Tag wurde die Klägerin, die dieses Schreiben noch nicht erhalten hatte, wegen angeblich unerlaubter Abwesenheit vom Dienst entlassen. Tatsächlich konsumierte die Klägerin einen von ihrem Vorgesetzten genehmigten Urlaub. Am 10. 8. 2020 unterfertigte die Klägerin den Aufhebungsvertrag, der ihr in der Zwischenzeit zugegangen war.
+[2] 		Die Klägerin begehrt 101.111,49 EUR unter Berufung auf die Unwirksamkeit der Entlassung und die Vereinbarung im Aufhebungsvertrag. Das Erstgericht gab der Klage vollinhaltlich statt.
+[3] 		Mit dem angefochtenen Teilurteil wies das Berufungsgericht das Klagebegehren im bloß auf den Aufhebungsvertrag gestützten Teilbetrag von 47.142,49 EUR sA ab. Das Angebot zum Abschluss des Aufhebungsvertrags sei der Klägerin noch nicht zugegangen gewesen und durch die Entlassungserklärung hinfällig geworden. Im Übrigen verwies das Berufungsgericht die Rechtssache zur Entscheidung über die Kündigungsentschädigung an das Erstgericht zurück.
+[4] 		Die außerordentliche Revision der Klägerin ist mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[5] 		1. Auch eine ungerechtfertigte Entlassung beendet das Dienstverhältnis eines Dienstnehmers, dem kein besonderer gesetzlicher Entlassungsschutz zukommt (RIS-Justiz RS0028753). Der Angestellte behält nach § 29 Abs 1 AngG aber seine vertragsmäßigen Ansprüche auf das Entgelt für jenen Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch ordnungsgemäße Kündigung durch den Dienstgeber hätte verstreichen müssen. Darüber hinaus steht es dem Angestellten nach § 29 Abs 1 AngG frei, weitergehenden Schadenersatz geltend zu machen (RS0028735).
+[6] 		2. Die Klägerin meint, dass das Berufungsgericht von der Rechtsprechung zum Verlust einer Erwerbschance als positiver Schaden abgewichen sei, weil ihr im Zeitpunkt der unberechtigten Entlassung bereits eine gesicherte Rechtsposition zugekommen sei. Der Klägerin ist darin zuzustimmen, dass der Verlust einer Erwerbschance ein positiver Schaden ist, wenn eine rechtlich gesicherte Position besteht (RS0111898). Das ist insbesondere dann der Fall, wenn ein bindendes Vertragsanbot vorliegt (RS0030082 [T5]; RS0032927 [T19]; RS0111898 [T1]). Das trifft hier aber nicht zu.
+[7] 		3. Ein Anbot nach § 862 ABGB ist eine empfangsbedürftige Willenserklärung (RS0014030). Die Bindung an das Anbot beginnt erst mit dessen Zugang, weshalb es bis dahin noch widerrufen werden kann
+(Riedler in Schwimann/Kodek5 § 862 ABGB Rz 4; Bollenberger/P. Bydlinski in KBB6 § 862 Rz 1). Nach der Rechtsprechung muss der Widerruf des Anbots beim Empfänger spätestens gleichzeitig mit dem Anbot eintreffen (RS0014082). Die Rechtsansicht des Berufungsgerichts, dass das Vertragsanbot der Beklagten im Zeitpunkt der Entlassungserklärung noch nicht verbindlich war und deshalb durch die Entlassungserklärung widerrufen werden konnte, ist schon deshalb von der bisherigen Rechtsprechung gedeckt.
+[8] 		4. Die außerordentliche Revision der Klägerin war daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00051.22S.0718.000

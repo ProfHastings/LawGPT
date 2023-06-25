@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2022
+Geschäftszahl
+2Ob218/22f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, die Hofrätin Dr. Hofer-Zeni-Rennhofer sowie die Hofräte Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei C*, vertreten durch Widter Mayrhauser Wolf Rechtsanwälte OG in Wien, gegen die beklagte Partei H*, vertreten durch Mag. Dr. Rainer W. Böhm, Rechtsanwalt in Wien, wegen 10.309,79 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 23. August 2022, GZ 34 R 85/22k-33, womit infolge Berufung der beklagten Partei das Urteil des Bezirksgerichts Meidling vom 15. April 2022, GZ 7 C 1301/20v-28, bestätigt wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 860,58 EUR bestimmten Kosten der Revisionsbeantwortung (darin enthalten 143,43 EUR USt) binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+[1] 		Am 20. 9. 2020 ereignete sich auf einer Landesstraße in der Steiermark im Freilandgebiet ein Verkehrsunfall zwischen einem vom Kläger gelenkten Motorrad und einem bei der Beklagten haftpflichtversicherten PKW. Der mit 60 bis 70 km/h fahrende Kläger begann bei Tageslicht und trockener Fahrbahn, den mit 40 bis 50 km/h fahrenden PKW zu überholen. Als sich der Kläger mit seinem Motorrad bereits links neben dem PKW befand, begann dessen Lenker plötzlich mit einem Linksabbiegemanöver in einen in die Landesstraße einmündenden Weg. Der Lenker des PKW hatte seine Absicht, nach links abzubiegen, nicht angezeigt; er hätte den Kläger bei einem Blick in den linken Außenspiegel in Überholposition wahrnehmen können. Für den Kläger war der Unfall bei Erkennbarkeit des Linksabbiegemanövers nicht mehr zu vermeiden.
+[2] 		Die Vorinstanzen gaben dem Klagebegehren statt.
+[3] 		Das Berufungsgericht ließ die ordentliche Revision zur Klärung der Frage zu, ob § 16 Abs 2 lit b StVO auch den Schutz des überholten, allerdings vorschriftswidrig nach links abbiegenden Verkehrsteilnehmers bezwecke.
+[4] 		Die Revision der Beklagten ist aus dem vom Berufungsgericht genannten Grund zulässig, aber nicht berechtigt.
+Rechtliche Beurteilung
+[5] 		1. Einziges Thema des Revisionsverfahrens ist, ob den Kläger wegen eines Verstoßes gegen § 16 Abs 2 lit b StVO ein (Mit-)Verschulden am Verkehrsunfall trifft.
+[6] 		2. Entgegen den Ausführungen in der Revisionsbeantwortung sind die Feststellungen des Erstgerichts über den Straßenverlauf nach der Unfallstelle nicht hinreichend deutlich, um auf Sachverhaltsebene davon ausgehen zu können, dass der Kläger nicht gegen § 16 Abs 2 lit b StVO verstoßen hat.
+[7] 		3. § 16 StVO lautet auszugsweise:
+„(1) Der Lenker eines Fahrzeuges darf nicht überholen:
+a) wenn andere Straßenbenützer, insbesondere entgegenkommende, gefährdet oder behindert werden könnten oder wenn nicht genügend Platz für ein gefahrloses Überholen vorhanden ist,
+b) wenn der Unterschied der Geschwindigkeiten des überholenden und des eingeholten Fahrzeuges unter Bedachtnahme auf allenfalls geltende Geschwindigkeitsbeschränkungen für einen kurzen Überholvorgang zu gering ist,
+c) wenn er nicht einwandfrei erkennen kann, dass er sein Fahrzeug nach dem Überholvorgang in den Verkehr einordnen kann, ohne andere Straßenbenützer zu gefährden oder zu behindern [...]
+(2) Außer in den im Abs. 1 angeführten Fällen darf der Lenker eines Fahrzeuges nicht überholen: [...]
+b) bei ungenügender Sicht und auf unübersichtlichen Straßenstellen, z. B. vor und in unübersichtlichen Kurven und vor Fahrbahnkuppen; es darf jedoch überholt werden, wenn die Fahrbahn durch eine Sperrlinie (§ 55 Abs 2) geteilt ist und diese Linie vom überholenden Fahrzeug nicht überragt wird.“
+[8] 		4. Der Schutzzweck einer Norm ergibt sich aus ihrem Inhalt. Das Gericht hat das anzuwendende Schutzgesetz teleologisch zu interpretieren, um herauszufinden, ob die jeweilige Vorschrift, die übertreten wurde, den in einem konkreten Fall eingetretenen Schaden verhüten wollte. Dabei genügt es, dass die Verhinderung des Schadens bloß mitbezweckt ist. Die Norm muss aber die Verhinderung eines Schadens wie des später eingetretenen zumindest intendiert haben (RS0008775 [insb auch T2, T4]).
+[9] 		5. Der Schutzzweck der Überholverbote nach § 16 Abs 1 lit a bis c und Abs 2 lit b StVO besteht nach der Rechtsprechung grundsätzlich nicht nur darin, den Gegenverkehr gefahrlos zu ermöglichen, sondern auch darin, all jene Schäden zu verhindern, die beim Überholvorgang während des Vorbeibewegens an dem überholten Fahrzeug und beim Wiedereinordnen nach dem Überholen entstehen können (RS0027630).
+[10] 		5.1. Der Oberste Gerichtshof hat daher den Rechtswidrigkeitszusammenhang in Fällen bejaht, in denen der unzulässig Überholende das überholte Fahrzeug (zumindest denkbar) deswegen beschädigte, weil er sich wieder auf den ursprünglich benützen Fahrstreifen drängte (2 Ob 103/83 ZVR 1984/162 [Versuch, in den zwischen dem überholten Fahrzeug und dem davor fahrenden LKW vorhandenen freien Raum zu lenken]; 8 Ob 460/77 ZVR 1979/120 [knappes Einordnen]).
+[11] 		5.2. Der Senat hat jedoch bereits ausgesprochen, dass § 16 Abs 1 lit c StVO nicht den Schutz des Verkehrsteilnehmers bezweckt, der in dieselbe Richtung fährt und vorschriftswidrig nach links abbiegt, weil die vom plötzlichen Linksabbiegen ausgehende Gefahr mit der aus der Unabsehbarkeit der Möglichkeit zum Wiedereinordnen resultierenden Gefahr in keinem Zusammenhang steht (2 Ob 56/05g). Gleiches gilt für die Bestimmung des § 16 Abs 1 lit b StVO, weil eine hohe Geschwindigkeitsdifferenz zwischen Überholendem und überholtem Fahrzeug in der Regel schwerwiegendere Folgen bei einem Zusammenstoß als Folge eines vorschriftswidrigen Linksabbiegens haben wird als eine geringe Differenzgeschwindigkeit (2 Ob 40/12i).
+[12] 		5.3. Diese Überlegungen lassen sich auch auf den hier zu beurteilenden Verstoß nach § 16 Abs 2 lit b StVO übertragen. Diese Bestimmung soll andere Verkehrsteilnehmer vor der Gefahr schützen, die daraus resultiert, dass trotz ungenügender Sicht oder unübersichtlicher Straßenstelle ein Überholmanöver begonnen wird (und nicht rechtzeitig zum Abschluss gebracht werden kann). Diese Gefahr ist der aus der Unabsehbarkeit der Möglichkeit zum rechtzeitigen Wiedereinordnen (§ 16 Abs 1 lit c StVO) resultierenden vergleichbar. Ein Zusammenhang mit der vom plötzlichen Linksabbiegen ausgehenden Gefahr ist in Fortentwicklung der Entscheidung 2 Ob 56/05g somit zu verneinen.
+[13] 		Sofern sich der in diesem Punkt nicht näher begründeten Entscheidung 2 Ob 14/03b Gegenteiliges entnehmen lassen sollte, wird diese Aussage nicht aufrecht erhalten.
+5.4. Als Zwischenergebnis folgt:
+[14] 		§ 16 Abs 2 lit b StVO bezweckt nicht den Schutz eines Verkehrsteilnehmers, der in dieselbe Richtung wie das überholende Fahrzeug fährt und vorschriftswidrig nach links abbiegt.
+[15] 		6. Da der vorschriftswidrig nach links abbiegende Lenker des PKW nicht vom Schutzzweck des Überholverbots nach § 16 Abs 2 lit b StVO umfasst war, liegen weder  sekundäre Feststellungsmängel zum weiteren Verlauf der Straße und den genauen Sichtverhältnissen noch ein relevanter Mangel des Berufungsverfahrens vor.
+[16] 		7. Die Kostenentscheidung beruht auf § 41 Abs 1 iVm § 50 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00218.22F.1213.000

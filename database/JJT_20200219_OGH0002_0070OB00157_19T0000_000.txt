@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2020
+Geschäftszahl
+7Ob157/19t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei M***** LTD, *****, vertreten durch Hasch & Partner Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei G***** GmbH, *****, vertreten durch Dr. Dominik Schärmer, Rechtsanwalt in Wien, wegen 30.000 EUR, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 12. Juni 2019, GZ 6 R 46/19f-22, mit dem das Zwischenurteil des Landesgerichts Linz vom 26. Februar 2019, GZ 63 Cg 37/18i-18, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 1.883,16 EUR (darin enthalten 313,86 EUR an USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Die Klägerin begehrte wegen nicht termingerechter Lieferung zweier unterschiedlicher Grundprodukte für zwei unterschiedliche Endprodukte infolge eines Gewinnentgangs von 87.889,86 AUS bzw 24.800,20 AUS, zusammen 112.689,76 AUS, sowie alternativ gestützt auf einen aus Umsatzeinbrüchen berechneten Gewinnentgang von 51.969 AUS einen Pauschalbetrag von 30.000 EUR.
+Das Berufungsgericht wies das Klagebegehren wegen Unschlüssigkeit ab. Es sprach über Abänderungsantrag der Klägerin aus, dass die ordentliche Revision doch zulässig sei, weil zur Frage, ob eine Abweisung wegen Unschlüssigkeit eine vorherige Erörterung auch dann erfordere, wenn bereits der Gegner auf die Unschlüssigkeit hingewiesen habe, zwei unterschiedliche Judikaturlinien bestünden.
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Dass die Schlüssigkeit des Klagebegehrens weder vom Erstgericht geprüft noch von der Beklagten in ihrer Berufung – neuerlich – thematisiert wurde, hinderte das Berufungsgericht nicht, diesen Aspekt aufzugreifen. Die mangelnde Schlüssigkeit des Klagsvorbringens ist bei erhobener Rechtsrüge im Rahmen der gebotenen allseitigen rechtlichen Prüfung des Sachverhalts wahrzunehmen (RS0037854).
+2.1. Grundsätzlich muss jeder von mehreren in einer Klage geltend gemachten Schadenersatzansprüchen ziffernmäßig bestimmt und individualisiert sein (RS0031014 [insbes T2]). Bei teilweisem Einklagen eines Schadens ist dann keine Zuordnung des Begehrens zu einzelnen Teilen des Schadens erforderlich, wenn es sich um einen einheitlichen Gesamtschaden handelt (RS0037907 [T8, T9]). Ob das zutrifft, hängt davon ab, ob die einzelnen Schadenspositionen ein unterschiedliches rechtliches Schicksal haben können (2 Ob 139/18g mwN). Dabei kommt es auf die Umstände des Einzelfalls an (RS0037907 [T10]).
+2.2. Die Klägerin hat für zwei unterschiedliche Transportgüter aufgrund unterschiedlicher Gewinnentgangsberechnungen unterschiedliche (Teil-)Schadensummen ermittelt und daraus eine Pauschalsumme geltend gemacht. Bei dieser Sachlage hält sich die Rechtsansicht des Berufungsgerichts, es handle sich um eine unzulässige alternative Klagenhäufung im Rahmen vorliegender Rechtsprechung (RS0031014 [T19, T20, T21]).
+3. Auf die Zulassungsfrage, ob eine Abweisung wegen Unschlüssigkeit eine vorherige Erörterung auch dann erfordert, wenn bereits der Gegner auf die Unschlüssigkeit hingewiesen hat, kommt es nicht an. Der Rechtsmittelwerber muss nämlich in einer Verfahrensrüge wegen Verletzung der Pflichten des § 182a ZPO darlegen, welches zusätzliche oder andere Vorbringen er aufgrund der von ihm angeblich nicht beachteten überraschenden Rechtsansicht erstattet hätte (RS0037300 [T48]). Dies hat die Klägerin in ihrer Revision unterlassen, weshalb sich schon aus diesem Grund die angesprochenen Fragen nicht stellen.
+4.1. Die Klägerin vermag insgesamt das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht aufzuzeigen. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+4.2. Die Kostenentscheidung gründet auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00157.19T.0219.000

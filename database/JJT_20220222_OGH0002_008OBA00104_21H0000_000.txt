@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+8ObA104/21h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Andreas Mörk (aus dem Kreis der Arbeitgeber) und Robert Hauser (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei V*, vertreten durch Hon.-Prof. Dr. Sieglinde Gahleitner, Rechtsanwältin in Wien, gegen die beklagte Partei D*gesellschaft m.b.H., *, vertreten durch Mag. Norbert Huber, Rechtsanwalt in Innsbruck, wegen 1.482,21 EUR brutto sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 29. November 2021, GZ 7 Ra 79/21w-22, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der von 20. 1. 2020 bis 31. 8. 2020 bei der Beklagten angestellte Kläger war von 23. 3. 2020 bis 14. 6. 2020 in Kurzarbeit.
+[2] 		Die zwischen der Beklagten und den im Betrieb etablierten Betriebsräten geschlossene Sozialpartnervereinbarung-Betriebsvereinbarung zur Corona-Kurzarbeit entsprechend der WKO-ÖGB Formularversion 4.0 vom 19. 3. 2020 enthält unter Punkt IV.4. zur Kurzarbeitsunterstützung folgende Regelung:
+„c) Das vom Arbeitgeber an den Arbeitnehmer auszuzahlende Entgelt beträgt 90 % vom vor der Kurzarbeit bezogenen Nettoentgelt wenn das davor bezogene Bruttoentgelt bis zu EUR 1.700 beträgt, 85 % bei einem Bruttoentgelt zwischen EUR 1.700 und EUR 2.685 und 80 % bei höheren Bruttoentgelten.
+Ausgangspunkt der Berechnung der Nettoersatzrate ist das durchschnittliche Nettoentgelt für die Normalarbeitszeit der letzten 13 Wochen/3 Monate vor Beginn der Kurzarbeit. Insofern sind Zulagen und Zuschläge der letzten 13 Wochen miteinzubeziehen.“
+[3] 		Der Kläger bezog bis zum Beginn der Kurzarbeit ein Entgelt von monatlich brutto 3.900 EUR, ohne dass eine konkrete Überstunden- bzw Arbeitszeitabrechnung auf Basis der von ihm erbrachten Arbeitsstunden erfolgte. Während der Kurzarbeit erhielt er Kurzarbeitsentgelt auf Basis von monatlich brutto 2.789,31 EUR (Grundgehalt und All-In-Überzahlung laut Dienstvertragsurkunde).
+[4] 		Die Vorinstanzen gaben seinem Klagebegehren auf Zahlung der restlichen Entgeltansprüche für den Zeitraum der Kurzarbeit übereinstimmend statt.
+Rechtliche Beurteilung
+[5] 		1. Ob die Anwendung von Bestimmungen einer Betriebsvereinbarung zutrifft oder nicht, kann immer nur an Hand der Umstände des Einzelfalls beurteilt werden und begründet daher – von Fällen krasser Fehlbeurteilung durch die zweite Instanz abgesehen – im Allgemeinen keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO (RS0044358 [T33]).
+[6] 		2. Im schriftlichen Dienstvertrag wurde das Bruttoentgelt des Klägers bei einer durchschnittlichen wöchentlichen Dienstzeit von 54 Stunden mit gesamt 3.900 EUR, aufgeschlüsselt auf Grundgehalt, Überstundengrundgehalt und -zuschläge sowie All-In- Überzahlung, ausgewiesen. Nach den Feststellungen gingen der Kläger sowie der Geschäftsführer und der Personalmanager der Beklagten bei Vertragsabschluss davon aus, dass der Kläger monatlich fix brutto 3.900 EUR erhalten wird, „dies in Abgeltung für seine Vollzeit-Tätigkeit bei der Beklagten inklusive sämtliche durch ihn zu erbringende Leistungen, wie auch bis zu 54 Wochenstunden“. Das allgemeine Verständnis der drei Anwesenden war, dass der Kläger „einmal mehr und einmal weniger arbeiten werde“, also bis zu 54 Wochenarbeitsstunden, aber auch weniger. Eine etwaige Widerrufsmöglichkeit in Bezug auf das Entgelt wurde weder mündlich noch schriftlich thematisiert.
+[7] 		Nach Auffassung des Berufungsgerichts sind die dem Kläger als Überstundenzuschläge bzw All-In- Überzahlung geleisteten Entgeltbestandteile schon aufgrund der Sozialpartnervereinbarung-Betriebsvereinbarung bei der Berechnung der Höhe des ihm zustehenden Kurzarbeitsentgelts zu berücksichtigen, ohne dass es auf die Wertung als nicht widerrufbare Überstundenpauschale oder als Fixgehalt ankäme. Im Übrigen qualifizierte es aber das zwischen den Parteien vereinbarte Entgelt aufgrund der Feststellungen ausdrücklich als „Fixgehalt“.
+[8] 		3. Die Beklagte wendet sich ausschließlich gegen die Ansicht der Vorinstanzen, dass nach der hier entsprechend der WKO-ÖGB Formularversion 4.0 vom 19. 3. 2020 geschlossenen Sozialpartnervereinbarung-Betriebsvereinbarung (auch) eine unwiderrufliche Überstundenpauschale in die Bemessung der Nettoersatzrate bei der Corona-Kurzarbeit einzubeziehen sei. Ausgangspunkt für die Berechnung der Nettoersatzrate sei das durchschnittliche Nettoentgelt für die Normalarbeitszeit inklusive lediglich die Normalarbeitszeit betreffende Zulagen und Zuschläge.
+[9] 		Mit diesen Ausführungen zeigt die Beklagte allerdings nicht auf, aus welchen Gründen die Beurteilung des Berufungsgerichts, dass der Kläger vereinbarungsgemäß Anspruch auf ein „Fixgehalt“ von brutto 3.900 EUR unabhängig vom konkreten Ausmaß der Arbeitszeit bzw (Über-)Stundenleistung hatte, unrichtig sein sollte. Dass ein solches Gesamtentgelt der Berechnung der Nettoersatzrate zugrundezulegen ist, zieht insoweit auch die Beklagte nicht in Zweifel.
+[10] 		4. Unterlässt es die außerordentliche Revision, eine Haupt- oder eine tragende Hilfsbegründung der zweiten Instanz zu bekämpfen, so vermag sie schon aus diesem Grund keine für die Entscheidung der Rechtssache erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO darzustellen (vgl RS0118709).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00104.21H.0222.000

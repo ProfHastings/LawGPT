@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.06.1948
+Geschäftszahl
+1Ob200/48
+Norm
+ABGB §1098;
+ZPO §503 Z4;
+ZPO §575;
+Kopf
+SZ 21/111
+Spruch
+§ 1098 ABGB. Ein Unter(After)mietverhältnis setzt ein Bestandverhältnis voraus.
+Entscheidung vom 30. Juni 1948, 1 Ob 200/48.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hat der Räumungsklage mit der Begründung stattgegeben, daß die klagsgegenständliche Wohnung als Dienstwohnung dem Ehepaar S. von der Landesbauernschaft Niederdonau zugewiesen war und deren Anspruch auf Benützung dieser Wohnung mit Beendigung des Dienstverhältnisses im Jahre 1944 erloschen ist, daß der öffentlichrechtliche Titel, nämlich der Fliegerquartierschein, durch das anschließend begrundete Untermietverhältnis mit Frau S. außer Wirksamkeit getreten, dieses Untermietverhältnis mit Wegfall des Anspruches der Frau S. auf Benützung der Wohnung bei Beendigung ihres Dienstverhältnisses erloschen sei und ein Hauptmietverhältnis mit der Hausinhabung nicht begrundet worden sei, so daß der Beklagte die Wohnung ohne einen öffentlich- oder privatrechtlichen Titel benützte und das Räumungsbegehren der klagenden Partei als Liegenschaftseigentümerin daher begrundet ist.
+Das Berufungsgericht hat der dagegen erhobenen Berufung der beklagten Partei Folge gegeben und in Abänderung des erstgerichtlichen Urteils das Klagebegehren abgewiesen. Es übernahm zwar die meisten Feststellungen des Erstgerichtes, gelangte aber gleichwohl mit der Begründung zur Abweisung der Klage, daß ein Untermietverhältnis nur an einem Bestandgegenstand vom Hauptbestandnehmer eingegangen werden könne, ein Untermietverhältnis deshalb im gegenständlichen Falle nicht vorliege, obwohl die Streitteile den Bestand eines solchen zwischen S. und den Beklagten außer Streit gestellt haben, und daß daher das durch die unbestrittene Einweisung der Beklagten mit Fliegerquatierschein vom 10. November 1944 begrundete öffentlich-rechtliche Benützungsverhältnis nicht durch die Begründung eines privatrechtlichen Untermietverhältnisses außer Wirksamkeit getreten sei.
+Die klagende Partei ficht dieses Urteil seinem ganzen Inhalte nach mit Revision wegen unrichtiger rechtlicher Beurteilung, also aus dem Revisionsgrunde des § 503, Z. 4 ZPO. an und beantragt Abänderung des angefochtenen Urteils im Sinne der Wiederherstellung des erstgerichtlichen Urteils oder Aufhebung des zweitinstanzlichen Urteils und Rückverweisung der Rechtssache an das Berufungsgericht.
+Die beklagten Parteien bestreiten in ihrer Revisionsbeantwortung das Vorliegen des geltend gemachten Revisionsgrundes und beantragen Bestätigung des angefochtenen Urteils.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei Folge, hob das Urteil des Berufungsgerichtes auf und verwies die Rechtssache an das Berufungsgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Ausfertigung des angefochtenen Urteils wurde dem klägerischen Vertreter am 15. Mai 1948 zugestellt. Die Revision ist am 29. Mai 1948 beim Erstgericht überreicht worden. Da die Räumungsklage nicht auf die Rückstellung eines Bestandgegenstandes gerichtet ist, es sich vielmehr um ein Räumungsbegehren handelt, das auf das Eigentum der klagenden Partei an der Liegenschaft und den Mangel eines Rechtes der Beklagten zur Benützung der Wohnung gestützt ist, liegt keine Bestandsache im Sinne des dritten Abschnittes des 6. Teiles der ZPO. vor und ist daher § 575, Abs. 1 ZPO. nicht anzuwenden. Die Revision ist also rechtzeitig erhoben.
+Die Revision ist begrundet.
+Dem Berufungsgericht ist wohl darin beizupflichten, daß ein Unterbestandverhältnis ein Hauptbestandverhältnis voraussetzt und nur von einem Hauptbestandnehmer begrundet werden kann (§ 1098 ABGB.). Dies ändert aber nichts daran, daß auch ein anderer Benützungsberechtigter als der Hauptbestandnehmer die Ausübung seines Benützungsrechtes entgeltlich einem Dritten überlassen, also in Bestand geben kann. Wenn z. B. der Fruchtnießer einen Bestandvertrag schließt, so vermietet oder verpachtet er sein Recht und stellt diese Vermietung oder Verpachtung eine Ausübung seines Rechtes (vgl. Klang, Kommentar I/2, S. 398).
+Dies trifft auch bei der Vermietung einer Dienstwohnung durch den benützungsberechtigten Arbeitnehmer zu. Es wird dadurch zwar kein Untermietverhältnis, sondern ein Mietverhältnis begrundet, das jedoch das Benützungsrecht des Arbeitnehmers zum Gegenstand hat und daher mit dem Wegfall dieses Benützungsrechtes von selbst ein Ende finden muß.

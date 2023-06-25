@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.05.2013
+Geschäftszahl
+2Ob65/13t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und die Hofräte Dr. Veith, Dr. E. Solé, Dr. Schwarzenbacher und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei P***** Ges.m.b.H., *****, vertreten durch Goldsteiner Strebinger Rechtsanwälte GmbH in Wiener Neustadt, gegen die beklagte Partei S***** Gesellschaft m.b.H., *****, vertreten durch KÖHLER DRASKOVITS UNGER Rechtsanwälte GmbH in Wien, wegen 41.307,68 EUR sA, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 7. März 2013, GZ 1 R 37/13m-14, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Streitteile sind Partner eines Werkvertrags. Die Klägerin begehrt mit der vorliegenden Klage den Werklohn. Im schriftlichen Werkvertrag findet sich die Klausel 7, nach der für Streitigkeiten aus dem Auftrag oder im Zusammenhang damit das sachlich zuständige Gericht in ***** als Gerichtsstand vereinbart wird. Im Punkt 18 desselben Vertrags ist festgelegt, dass alle Rechtsstreitigkeiten aus dem Vertrag unter Ausschluss des Verfahrens vor den ordentlichen Gerichten von einem Schiedsgericht zu entscheiden sind, wobei bezüglich des schiedsgerichtlichen Verfahrens die Bestimmungen der Zivilprozessordnung (insbesondere die §§ 577 ff) maßgebend sind.
+Die Vorinstanzen wiesen die Klage wegen sachlicher Unzuständigkeit des Erstgerichts zurück, weil sie die Wirksamkeit der Schiedsgerichtsklausel bejahten.
+Die Klägerin meint, es liege eine erhebliche Rechtsfrage vor, weil Rechtsprechung des Obersten Gerichtshofs zur Frage der Kollision einer formularmäßig verwendeten Gerichtsstandsklausel mit einer formularmäßig verwendeten Schiedsgerichtsklausel in derselben Urkunde fehle, was sich bereits durch den mehrfachen Verweis des Rekursgerichts auf Entscheidungen des deutschen Bundesgerichtshofs zeige. Überdies sei dem Rekursgericht eine auffallende Fehlbeurteilung unterlaufen.
+Rechtliche Beurteilung
+Damit wird keine erhebliche Rechtsfrage aufgezeigt.
+Vertragsauslegung im Einzelfall wirft in der Regel keine erhebliche Rechtsfrage auf, es sei denn, dem Gericht zweiter Instanz wäre eine auffallende Fehlbeurteilung unterlaufen (RIS-Justiz RS0044298 [T27] ua). Dasselbe gilt für die Auslegung einer Schiedsvereinbarung: Das Ergebnis der Auslegung eines Schiedsvertrags ist einzelfallbezogen und begründet in der Regel keine erhebliche Rechtsfrage, sofern nicht eine unvertretbare Auslegung vorliegt (RIS-Justiz RS0044997 [T7]).
+Entscheidend für die Zuständigkeit des Schiedsgerichts ist der Text der Schiedsvereinbarung mit Berücksichtigung vernünftiger und den Zweck der Vereinbarung favorisierender Auslegung (RIS-Justiz RS0044997). Lässt der Wortlaut einer undeutlichen Erklärung zwei gleichwertige Auslegungsergebnisse zu, so gebührt jener Auslegung der Vorzug, die die Gültigkeit der Schiedsvereinbarung favorisiert (RIS-Justiz RS0044997 [T3]; RS0018023 [T4]; Hausmaninger in Fasching/Konecny2 § 581 Rz 193 mwN).
+Unter Anwendung dieser Auslegungsgrundsätze hat das Rekursgericht ausgeführt, eine in einem Vertragswerk enthaltene Schiedsvereinbarung werde bei verständiger Auslegung nicht durch eine nachfolgende Gerichtsstandsvereinbarung aufgehoben oder gegenstandslos gemacht. Dies gelte jedenfalls, wenn zusätzlich zu einer Schiedsvereinbarung eine nicht ausschließliche (einfache) Zuständigkeit staatlicher Gerichte vereinbart werde. Es gebe im Rahmen einer Schiedsvereinbarung mehrere Möglichkeiten der Inanspruchnahme der ordentlichen Gerichte, wie etwa die Erlassung einer einstweiligen Verfügung (§ 585 ZPO) oder die Feststellung des (Nicht-)Bestehens einer Schiedsvereinbarung.
+Diese Auffassung des Rekursgerichts ist durchaus vertretbar, entspricht sie doch auch der Lehre (Hausmaninger in Fasching/Konecny2, § 581 Rz 68 mwN).
+Die weiteren Argumente der Klägerin im Rechtsmittel sind nicht stichhaltig: Die Gerichtsstandsvereinbarung hat im vorliegenden Fall durchaus einen Anwendungsbereich, den das Rekursgericht bereits aufgezeigt hat. Die Klägerin übersieht etwa, dass in einem von der Schiedsklausel nicht umfassten Provisorialverfahren (vgl § 585 ZPO) die Parteirollen umgekehrt als im vorliegenden Verfahren sein können und diesfalls der allgemeine Gerichtsstand von dem im Werkvertrag vereinbarten abweicht, hat doch die klagende Partei ihren Sitz weder im Sprengel des Bezirksgerichts ***** noch in demjenigen des Landesgerichts *****.
+Die Rechtsausführungen der Revisionsrekurswerberin gehen insoweit nicht vom festgestellten Sachverhalt aus, als ein massives Machtungleichgewicht zu Ungunsten der Klägerin nicht feststeht.
+Ob der gegenständliche Werkvertrag und seine Bestimmungen als Allgemeine Geschäftsbedingungen oder Vertragsformblatt zu beurteilen sind, kann dahingestellt bleiben, weil die Klägerin auf der Basis der getroffenen Feststellungen nicht schlüssig argumentieren kann, warum die Schiedsklausel ungewöhnlich iSd § 864a ABGB oder sittenwidrig iSd § 879 ABGB sein sollte.
+Angesichts der unstrittigen Unternehmer-eigenschaft beider Streitteile (vgl auch § 2 UGB) müssen die Versuche der Klägerin, zur analogen Anwendbarkeit von § 6 Abs 3 KSchG zu gelangen, scheitern (vgl RIS-Justiz RS0065288; RS0065327).

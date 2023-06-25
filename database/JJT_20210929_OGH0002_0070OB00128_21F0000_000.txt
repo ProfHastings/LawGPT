@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2021
+Geschäftszahl
+7Ob128/21f
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Stefula und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Ing. C* Z*, vertreten durch Mag. Robert Haupt, Rechtsanwalt in Wien, gegen die beklagte Partei * AG, *, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen 7.740 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. April 2021, GZ 60 R 19/21f-26, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 3. Dezember 2020, GZ 15 C 255/18m-20, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 833,88 EUR (darin enthalten 138,98 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die am 6. 8. 2010 von der Beklagten ausgestellte und dem Kläger zugegangene Lebensversicherungspolizze enthielt unter der Überschrift „Rücktrittsrechte“ folgende Belehrung:
+„...
+Wann können Sie nach dem Versicherungsvertragsrecht zurückzutreten?
+Sie können von ihrem Versicherungsvertrag in folgenden Fällen zurücktreten:
+- Es wurden Ihnen vor Unterzeichnung des Antrags die Versicherungsbedingungen oder eine Kopie des Antrags oder die Erläuterungen nicht ausgehändigt oder
+- es wurden die gesetzlichen Mitteilungspflichten nach §§ 9a und 18b VAG nicht erfüllt.
+Sie können aus diesen Gründen binnen zweier Wochen schriftlich zurücktreten. Die Frist beginnt nach Erfüllung der vom Versicherungsvermittler vorzunehmenden gesetzlichen Mitteilungen, mit dem Erhalt der Versicherungspolizze samt Bedingungen und nach Belehrung über das Rücktrittsrecht. Es genügt, wenn die Rücktrittserklärung innerhalb dieser Frist abgesendet wird. Dieses Rücktrittsrecht erlischt jedenfalls ein Monat nach dem Erhalt der Versicherungspolizze samt der Belehrung über das Rücktrittsrecht (§ 5b Versicherungsvertragsgesetz).
+Sie sind darüber hinaus berechtigt binnen 30 Tagen nach dem Erhalt der Versicherungspolizze ohne Angabe von Gründen schriftlich zurzuücktreten (§ 165a Versicherungsvertragsgesetz).“
+Rechtliche Beurteilung
+[2] 		Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts nicht zulässig.
+[3] 		1. Die geltend gemachte Nichtigkeit wurde geprüft, sie ist nicht gegeben (§ 510 Abs 3 ZPO).
+[4] 		2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn die bedeutsame Rechtsfrage durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RS0112769 [T9, T11, T12]).
+[5] 		2.1 Zu der vom Kläger relevierten Frage, ob die Frist für das Rücktrittsrecht nach § 165a VersVG auch dann mit dem Zugang der Polizze zu laufen beginnt, wenn der Versicherungsnehmer vom Versicherer erst zu diesem Zeitpunkt und nicht schon „vor Abschluss des Vertrags“ über sein Rücktrittsrecht belehrt wurde, hat der Oberste Gerichtshof zwischenzeitig in der am 15. 9. 2021 ergangenen Entscheidung 7 Ob 121/21a Stellung genommen:
+[6] 		In dem Fall, in dem der Versicherungsnehmer erst mit der Übermittlung der Polizze und damit bei Vertragsabschluss vom Versicherer über sein Rücktrittsrecht – verspätet – in Kenntnis gesetzt wurde, ist maßgeblich, ob ihm die erstmals in der Polizze erteilte ordnungsgemäße Belehrung über sein Rücktrittsrecht nach § 165a Abs 1 VersVG die Möglichkeit nahm, sein Rücktrittsrecht im Wesentlichen unter denselben Bedingungen wie bei zuvor mitgeteilter zutreffender Information auszuüben. Dabei werden durch eine derart verspätete Belehrung der Beginn und das Ende der Rücktrittsfrist nicht berührt, knüpfen diese doch gemäß § 165a Abs 1 VersVG aF an die Verständigung vom Zustandekommen des Vertrags an, wobei der Zugang der Polizze die wirksame Annahme des Versicherungsantrags und gleichzeitig die Verständigung vom Zustandekommen des Vertrags ist. Zwar wird die Überlegungsfrist, vom Vertrag zurückzutreten, durch eine Belehrung erst mit der Polizze verkürzt, jedoch ist es dem Versicherungsnehmer objektiv möglich, sein 30-tägiges Rücktrittsrecht unter im Wesentlichen denselben Bedingungen auszuüben, wie bei einer Information „vor Abschluss des Vertrags“. Eine relevante Erschwernis des Rücktrittsrechts, die dessen unbefristete Ausübung erlauben würde, liegt allein in einer solcherart verspäteten Belehrung nicht.
+[7] 		2.2 § 165a VersVG in der hier anzuwendenden Fassung BGBl I 2006/95 lautete:
+„(1) Der Versicherungsnehmer ist berechtigt, binnen 30 Tagen nach der Verständigung vom Zustandekommen des Vertrags von diesem zurückzutreten….“
+[8] 		2.3 Der Oberste Gerichtshof hat bereits wiederholt ausgeführt, dass dann, wenn der Versicherer ein vom Interessenten an einem seiner Produkte auszufüllendes und bei ihm einzureichendes Antragsformular verwendet, für den durchschnittlichen, redlichen und vernünftigen Versicherungsnehmer klar ist, dass der Zugang der Polizze die wirksame Annahme des Versicherungsantrags und gleichzeitig die Verständigung vom Zustandekommen des Vertrags ist (7 Ob 78/19z; 7 Ob 6/20p; 7 Ob 54/20x; 7 Ob 121/21a).
+[9] 		Die vorliegende Belehrung, die zwar insoweit von § 165a VersVG aF abweicht, als sie nicht auf die Verständigung vom Zustandekommen des Vertrags, sondern auf den Erhalt der Polizze abstellt, verdeutlicht den Beginn der Rücktrittsfrist sogar.
+[10] 		2.4 Die Rechtsansicht der Vorinstanzen, die Frist für einen Rücktritt des Klägers nach § 165a VersVG aF sei mit dem Zugang der Polizze im August 2010 in Gang gesetzt worden und sein aus diesem Grund am 15. 3. 2018 erklärter Vertragsrücktritt unwirksam, entspricht der oben dargestellten Rechtsprechung.
+[11] 		3.1 Die Rücktrittsrechte nach § 5b VersVG und § 165a VersVG beruhen auf unterschiedlichen Rechtsgrundlagen und die jeweils maßgebliche Rücktrittsfrist knüpft an unterschiedliche Voraussetzungen und Zeitpunkte an.
+[12] 		3.2 Aus der drucktechnischen Hervorhebung und dem insoweit völlig klaren Wortlaut der gegenständlichen Belehrung erkennt der durchschnittlich verständige Versicherungsnehmer ohne jeden Zweifel, dass sie nicht nur zwei voneinander gesondert zu betrachtende Rücktrittsrechte betrifft, sondern auch, dass das Rücktrittsrecht nach § 165a VersVG an keine weiteren Voraussetzungen anknüpft.
+[13] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+[14] 		5. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133200

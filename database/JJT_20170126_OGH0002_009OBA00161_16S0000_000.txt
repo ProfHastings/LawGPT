@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2017
+Geschäftszahl
+9ObA161/16s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Hon.-Prof. Dr. Dehn und den Hofrat des Obersten Gerichtshofs Dr. Hargassner sowie die fachkundigen Laienrichter Dr. Johannes Pflug und KR Karl Frint als weitere Richter in der Arbeitsrechtssache der klagenden Partei Mag. M***** I*****, vertreten durch Mag. Ralph Kilches, Rechtsanwalt in Wien, gegen die beklagte Partei R***** B*****, vertreten durch Dr. Georg Getreuer, Rechtsanwalt in Wien, wegen 6.628,99 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. Oktober 2016, GZ 9 Ra 30/16x-41, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin macht mit der vorliegenden Klage gegenüber dem Beklagten einen Schadenersatzanspruch in Höhe von 70 % des ihr zustehenden Entgelts samt Urlaubsersatzleistung und Kündigungsentschädigung geltend. Diesen stützt sie darauf, dass sie der Beklagte als persönlich haftender Gesellschafter und Geschäftsführer der insolvent gewordenen Arbeitgeberin zu Unrecht nicht als Arbeitnehmerin bei der Sozialversicherung angemeldet habe. Aufgrund der unterlassenen Anmeldung habe sie keinen Anspruch auf Insolvenz-Entgelt gehabt, sondern lediglich aufgrund des Sanierungsplans eine 30%ige Quote ihrer Ansprüche erhalten.
+Die Vorinstanzen wiesen das Klagebegehren mangels Schlüssigkeit ab. Selbst wenn es der Beklagte schuldhaft unterlassen habe, die Klägerin bei der Sozialversicherung anzumelden, hätte sie bei Vorliegen der (sonstigen) im IESG normierten Voraussetzungen Anspruch auf Insolvenz-Entgelt gehabt. Der Anspruch auf Insolvenz-Entgelt sei nämlich im Allgemeinen nicht von der Entrichtung der Beiträge iSd § 12 Abs 1 Z 4 IESG oder der Anmeldung des Arbeitsverhältnisses zur Sozialversicherung abhängig. Das von der Klägerin behauptete Fehlverhalten des Beklagten könne daher schon mangels Kausalität die von ihr geltend gemachte Schadenersatzforderung nicht stützen. Im Übrigen kämen dem Beklagten als Gesellschafter gegenüber den Gesellschaftsgläubigern gemäß § 164 Abs 2 IO die Rechtswirkungen des Sanierungsplans zustatten.
+Rechtliche Beurteilung
+In ihrer außerordentlichen Revision zeigt die Klägerin keine für die Entscheidung relevante erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf. In der Zulassungsbegründung ihres Rechtsmittels (§ 506 Abs 1 Z 5 ZPO) vermisst die Klägerin eine oberstgerichtliche Rechtsprechung zur Frage, ob dem unbeschränkt haftenden Gesellschafter und zugleich Geschäftsführer einer OG bzw KG die Rechtswohltat der Restschuldbefreiung gemäß § 164 Abs 2 IO bei schuldhafter Verletzung seiner Geschäftsführungspflichten zukomme. Auf diese Frage kommt es hier aber nicht an. Wie die Vorinstanzen zutreffend ausgeführt haben, steht die behauptete Pflichtverletzung des Beklagten mit dem von der Klägerin geltend gemachten Schaden in keinem Kausalzusammenhang, weil die unterlassene Anmeldung zur Sozialversicherung durch den Beklagten den durch Entfall des Insolvenz-Entgelts entstandenen Schaden der Klägerin nicht verursacht hat. Die Leistungspflicht des Insolvenz-Entgelt-Fonds hat nämlich grundsätzlich die richtige Bezeichnung und vorherige Anmeldung des versicherungspflichtigen Arbeitsverhältnisses nicht zur Voraussetzung (RIS-Justiz RS0114474). Letztlich ist es damit nicht entscheidungsrelevant, ob und worauf sich eine nicht den Rechtswirkungen des § 164 Abs 2 IO unterfallene „Geschäftsführerhaftung“ des Beklagten gründen könnte (vgl RIS-Justiz RS0022913 ua).
+Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision der Klägerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:009OBA00161.16S.0126.000

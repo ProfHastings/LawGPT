@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.01.2021
+Geschäftszahl
+8ObA122/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die fachkundigen Laienrichter Mag. Dr. Werner Hallas (aus dem Kreis der Arbeitgeber) und ADir. Gabriele Svirak (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei S***** GmbH, *****, vertreten durch Mag. Leopold Zechner, Rechtsanwalt in Bruck an der Mur, gegen die beklagte Partei T*****, vertreten durch Mag. Lukas Held, Rechtsanwalt in Graz, wegen 12.273,30 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 15. Oktober 2020, GZ 6 Ra 42/20y-52, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Ein konstitutives Anerkenntnis liegt vor, wenn der Gläubiger seinen Anspruch ernstlich behauptet und der Schuldner die Zweifel am Bestehen des behaupteten Rechts dadurch beseitigt, dass er das Recht zugibt (RIS-Justiz RS0032496 [T6, T7, T9]). Es setzt somit die – nach der Vertrauenstheorie zu beurteilende (RS0032496 [T5]) – Absicht des Anerkennenden voraus, unabhängig von dem bestehenden Schuldgrund eine neue selbständige Verpflichtung zu schaffen (RS0032496 [T1], RS0032541 [T2]). Ein konstitutives Anerkenntnis ist insoweit nur zur Bereinigung eines ernsthaft entstandenen konkreten Streits oder Zweifels über den Bestand einer Forderung möglich. Liegt ein solcher Streit oder Zweifel nicht vor, so kann das Anerkenntnis nicht dazu verwendet werden, durch die Schaffung einer abstrakten Verbindlichkeit Zweifel und Streit präventiv auszuschließen (1 Ob 27/01d). Das konstitutive Anerkenntnis gehört damit zu den Feststellungsverträgen (RS0032779). Es ruft das anerkannte Rechtsverhältnis auch für den Fall, dass es nicht bestanden haben sollte, ins Leben und hat somit rechtsgestaltende Wirkung (RS0032496 [T6, T7]).
+[2] 		2. Demgegenüber ist ein deklaratives Anerkenntnis (Rechtsgeständnis) kein Leistungsversprechen. Es wird als bloße Bestätigung oder Bekräftigung eines vom Schuldner als bestehend angenommenen Rechtsverhältnisses im Sinne einer Wissenserklärung verstanden. Als bloße Wissenserklärung des Schuldners bildet es keinen neuen Verpflichtungsgrund, sondern im Rechtsstreit nur ein Beweismittel für das Bestehen der Forderung, das jedoch durch Gegenbeweis widerlegbar ist (vgl RS0032784 [insb T10]). Ein Gegenbeweis ist dann gelungen, wenn der Richter nicht (mehr) überzeugt ist, dass die Tatsachenbehauptungen der beweisbelasteten Partei für wahr zu halten sind. Er muss nicht deren Nichtbestehen erweisen, sondern kann auch die Glaubwürdigkeit und Überzeugungskraft der Beweismittel der beweisbelasteten Partei bekämpfen (vgl Rechberger/Klicka in Rechberger/Klicka, ZPO Vor § 266 Rz 18).
+[3] 		3. Ob ein deklaratorisches (unechtes) Anerkenntnis oder ein konstitutives (echtes) Anerkenntnis vorliegt, ist durch Auslegung des Parteienwillens im Einzelfall zu ermitteln.
+[4] 		4. Die Rechtsauffassung des Berufungsgerichts, dass die routinemäßige Saldobestätigung durch den Bevollmächtigten der Beklagten nur ein deklaratives Anerkenntnis darstellt, hält sich im Rahmen des gesetzlich eingeräumten Ermessensspielraums. Richtig verweist das Berufungsgericht dabei darauf, dass im Zweifel einer Erklärung die weniger weit gehende Wirkung eines bloß deklarativen Anerkenntnisses zuzuschreiben ist (RS0032522 [T3]). Der Bekanntgabe des Saldos wird im Ergebnis im Regelfall nur deklarative Wirkung zugemessen (RS0115012).
+[5] 		Warum, wie die Revision meint, allein aufgrund des Umstands, dass diese Saldobestätigungen regelmäßig ausgestellt wurden, ohne dass dem offenbar Auseinandersetzungen über den Bestand der Forderungen vorausgingen, von einem konstitutiven Anerkenntnis auszugehen sein soll, ist nicht nachvollziehbar.
+[6] 		5. Schon weil der Gegenbeweis, wie dargelegt, nicht mit dem Beweis des Gegenteils gleichzusetzen ist und der Beklagten im Hinblick auf die Beweiskraft des deklarativen Anerkenntnisses gelungen ist, geht die Negativfeststellung zum Bestehen der Vereinbarung über eine Verlusttragung zu Lasten der Partei, die aus dieser Vereinbarung Ansprüche ableiten will, im konkreten Fall zu Lasten der Klägerin.
+[7] 		Eine Fehlbeurteilung durch die Vorinstanzen wird in der Revision nicht aufgezeigt.
+[8] 		6. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:008OBA00122.20D.0128.000

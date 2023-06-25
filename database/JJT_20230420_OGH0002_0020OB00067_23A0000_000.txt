@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.04.2023
+Geschäftszahl
+2Ob67/23a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda, und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Parteien 1. A*, 2. F*, vertreten durch Dr. Reinhart Kolarz, Mag. Rudolf Augustin ua, Rechtsanwälte in Stockerau, gegen die beklagten Parteien 1. J*, 2. R*, 3. G*, alle vertreten durch Dr. Helmut Weinzettl, Rechtsanwalt in Wiener Neustadt, wegen 1. (erstklagende Partei) 180.380,25 EUR und Feststellung (Streitwert 20.000 EUR) und 2. (zweitklagende Partei) 20.000 EUR und Feststellung (Streitwert 5.000 EUR) über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandeslandesgerichts Wien als Berufungsgericht vom 23. Februar 2023, GZ 11 R 11/23b-54, den
+Beschluss
+gefasst:
+Spruch
+1. Das Rechtsmittel der beklagten Parteien wird hinsichtlich der vom Berufungsgericht ausgesprochenen Urteilsberichtigung zurückgewiesen.
+2. Im Übrigen wird die außerordentliche Revision gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Zu Punkt 1:
+Rechtliche Beurteilung
+[1] 		1. Insoweit sich die Revision gegen die zweitinstanzliche Urteilsberichtigung wendet, ist sie aus folgenden Gründen absolut unzulässig:
+[2] 		2. Das Berufungsgericht hat aus Anlass der Berufung der Beklagten das Urteil des Erstgerichts in dessen Punkt 5 berichtigt. Eine Urteilsberichtigung hat mit Beschluss zu erfolgen (M. Bydlinski in Fasching/Konecny3 § 419 ZPO Rz 11). Ein solcher Beschluss liegt hier vor, zumal das Berufungsgericht die Entscheidung über die Berichtigung (nur) „aus Anlass der Berufung“ und im Spruch abgesondert von der eigentlichen Berufungsentscheidung traf. Selbst wenn man davon ausgeht, dass das Berufungsgericht das Ersturteil mit Urteil berichtigt hat, richtet sich die Frage der Anfechtbarkeit nach der vom Gesetz vorgesehenen Entscheidungsform (RS0041880 [T1]; RS0041859 [T3]; RS0036324 [T12]).
+[3] 		3. Gegen einen im Berufungsverfahren ergehenden Beschluss des Berufungsgerichts ist der Rekurs nur in den in § 519 Abs 1 Z 1 und 2 ZPO genannten Fällen zulässig. Auch Urteilsberichtigungsbeschlüsse des Berufungsgerichts ergehen im Berufungsverfahren, sind aber in § 519 Abs 1 ZPO nicht aufgezählt. Die zweitinstanzliche Urteilsberichtigung ist somit unanfechtbar (RS0041738) und kann auch nicht mit dem Rechtsmittel in der Hauptsache bekämpft werden (8 ObA 28/03f).
+[4] 		4. Ob Punkt 3 der erstgerichtlichen Entscheidung (betreffend die Entscheidung über einen Teil der Schmerzengeldforderung im Ausmaß von 11.947,57 EUR) allenfalls dahin von Amts wegen zu berichtigen ist, dass in Punkt 3 eine ausdrückliche Abweisung des Klagebegehrens im Umfang von 5.973,78 EUR zu erfolgen hat, bleibt der Prüfung durch das Erstgericht vorbehalten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00067.23A.0420.000

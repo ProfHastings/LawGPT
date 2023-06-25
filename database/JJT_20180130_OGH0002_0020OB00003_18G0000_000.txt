@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.2018
+Geschäftszahl
+2Ob3/18g
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé und den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei R* S* H*, vertreten durch Dr. Stefan Glaser, Rechtsanwalt in Ried im Innkreis, gegen die beklagte Partei R* H*, Deutschland, vertreten durch Rechtsanwälte Estermann & Partner OG in Mattighofen, wegen Einwilligung in die Löschung, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 30. November 2017, GZ 3 R 152/17v-12, mit welchem der Beschluss des Landesgerichts Ried im Innkreis vom 30. Oktober 2017, GZ 2 Cg 33/17h-8, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Art 24 Nr 1 EuGVVO neu (früher Art 22 Nr 1 EuGVVO) erfasst nach ständiger Rechtsprechung – abgesehen von Miete und Pacht – nur solche immobiliarbezogene Klagen, die auf ein dingliches und nicht bloß auf auf ein persönliches (obligatorisches) Recht gestützt sind (EuGH C-518/99, Gaillard; C-417/15, Schmidt; RIS-Justiz RS0112834; zuletzt etwa 8 Ob 114/15w). Dabei ist unerheblich, ob sich ein vertraglicher Anspruch auf die Zustimmung zur Eintragung oder – wie hier – auf die Zustimmung zur Löschung eines bücherlichen Rechts richtet; in beiden Fällen macht der Kläger nicht sein dingliches Recht an der Liegenschaft geltend, sondern stützt sich auf seine vertragliche Beziehung mit dem Beklagten.
+Zwar bejahte der EuGH in C-417/15, Schmidt, die Anwendung von Art 24 Nr 1 EuGVVO neu auf eine Löschungsklage, die auf die Unwirksamkeit des der Einverleibung des Beklagten zugrunde liegenden Verpflichtungsgeschäfts gestützt war. Er begründete das aber damit, dass die Unwirksamkeit des Titels nach österreichischem Recht auch zur Unwirksamkeit des Eigentumserwerbs führe und der Kläger seinen Anspruch daher  tatsächlich auf sein Eigentum an der Liegenschaft stützen konnte. Das ist beim hier strittigen vertraglichen Anspruch nicht der Fall. An der Unanwendbarkeit von Art 24 Nr 1 EuGVVO neu besteht daher kein Zweifel. Eine andere erhebliche Rechtsfrage zeigt die Klägerin nicht auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E120886

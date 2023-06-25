@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8Ob13/22b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei A*gesellschaft m.b.H., *, vertreten durch Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei S* Y*, vertreten durch Wess Kux Kispert & Eckert Rechtsanwalts GmbH in Wien, wegen 3,227.000 EUR sA, über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 25. Oktober 2021, GZ 16 R 54/21k-41, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Frage der Wirksamkeit des Abschlusses einer Gerichtsstandsvereinbarung richtet sich nach Art 25 EuGVVO 2012. Der Begriff der Gerichtsstandsvereinbarung ist autonom auszulegen und bedeutet eine klar und deutlich ausgedrückte übereinstimmende Willenserklärung der Parteien über die Zuständigkeitsbegründung (RIS-Justiz RS0117156; RS0113571 [T9]).
+[2] 		Das Vorliegen einer übereinstimmenden Willenserklärung ist nach den Umständen des Einzelfalls zu beurteilen. Nur im Fall einer im Interesse der Rechtssicherheit aufzugreifenden Fehlbeurteilung der zweiten Instanz liegt eine erhebliche Rechtsfrage nach § 528 Abs 1 ZPO vor (RS0117156 [T5]; RS0114604 [T8]). Eine solche vermag der außerordentliche Revisionsrekurs nicht aufzuzeigen.
+[3] 		2. Voraussetzung für das Zustandekommen einer Gerichtsstandsvereinbarung iSd Art 25 EuGVVO 2012 ist, dass die zuständigkeitsbegründende Klausel tatsächlich Gegenstand einer Willenseinigung zwischen den Parteien war, die klar und deutlich zum Ausdruck gekommen ist. Es soll gewährleistet sein, dass die Einigung zwischen den Parteien tatsächlich feststeht (RS0113571 [T1]). Die Willenseinigung ist von der Partei zu beweisen, die sich  auf die Klausel beruft (RS0114192).
+[4] 		Die in Art 25 Abs 1 EuGVVO 2012 normierten Formerfordernisse stellen Wirksamkeitsvoraussetzungen  dar (RS0114193 [T7]). Die Voraussetzungen für die Gültigkeit von Gerichtsstandsvereinbarungen sind eng auszulegen (RS0114604 [T1]; EuGH 14. 12. 1976, Rs 24/76 [Estasis Salotti/Ruwa] EU:C:1976:177), weil nach der Zielsetzung des Art 25 EuGVVO Zuständigkeitsvereinbarungen nicht unbemerkt Inhalt des Vertrags werden sollen (RS0114604 [T5, T10]; RS0113570 [T7]).
+[5] 		Die Auslegung einer Gerichtsstandsvereinbarung zur Bestimmung der in ihren Anwendungsbereich fallenden Rechtsstreitigkeiten ist Sache des angerufenen nationalen Gerichts. Die vom Rekursgericht vorgenommene Auslegung der von den Parteien getroffenen Gerichtsstandsvereinbarung ist – von Fällen krasser Fehlbeurteilung abgesehen – nicht revisibel (RS0004131).
+[6] 		3. Die dem Klagsanspruch zugrunde liegende Vereinbarung vom 15. 4. 2016 enthält weder eine schriftliche Gerichtsstandsvereinbarung, noch wird darin auf die im notariellen Abtretungsvertrag vom 2. 2. 2016, mit dem die Beklagte Anteile an einer GmbH erworben hat, enthaltene Gerichtsstandsvereinbarung verwiesen. Die Unzuständigkeitseinrede der Beklagten kann sich daher nur darauf beziehen, dass der vorliegende Rechtsstreit (auch) eine Streitigkeit „aus oder  im Zusammenhang mit“ dem Anteilskaufvertrag betrifft, weil diese beiden Verträge nach dem Parteiwillen eine untrennbare Einheit bilden sollten.
+[7] 		Hier gründet sich das Klagebegehren auf eine Zahlungsverpflichtung der Beklagten, die im Abtretungsvertrag, mit dem der Erwerb des Geschäftsanteils geregelt wurde, nicht enthalten ist. Die Vertragsteile haben in dessen § 9 überdies bestätigt, dass mündliche Abreden nicht getroffen wurden und Änderungen oder Ergänzungen des Abtretungsvertrags zu ihrer Wirksamkeit der Schriftform bedürfen.
+[8] 		Bei Abschluss der schriftlichen Vereinbarung vom 15. 4. 2016 war die Beklagte bereits Gesellschafterin der GmbH. Wäre es zu keiner Willenseinigung über den Inhalt der Ergänzungsvereinbarung vom 15. 4. 2016 gekommen, hätte dies an ihrer mit dem Abtretungsvertrag vom 2. 2. 2016  erworbenen Rechtsstellung soweit ersichtlich nichts mehr geändert, mag auch der Inhalt als Teil des gemeinsamen Plans zur Finanzierung und Entwicklung der angestrebten Unternehmensgruppe bereits vor der ersten Vereinbarung besprochen gewesen sein.
+[9] 		Davon ausgehend bewegt sich die Rechtsansicht des Rekursgerichts, dass die Klage keine Streitigkeit „im Zusammenhang mit“ dem Abtretungsvertrag betrifft, der von dessen Gerichtsstandsklausel umfasst ist, im Rahmen des ihm offenstehenden Beurteilungsspielraums. Ob aufgrund der Begleitumstände allenfalls auch ein anderes Auslegungsergebnis vertretbar wäre, hat keine über den Einzelfall hinausgehende Bedeutung (vgl ua RS0108494; RS0112106 [T2]; RS0114180 [T5]).
+[10] 		Der außerordentliche Revisionsrekurs der Klägerin ist mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00013.22B.0330.000

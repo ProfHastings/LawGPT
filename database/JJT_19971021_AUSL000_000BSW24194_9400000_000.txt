@@ -1,0 +1,47 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+21.10.1997
+Geschäftszahl
+Bsw24194/94
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer, Beschwerdesache Pierre-Bloch gegen Frankreich, Urteil vom 21.10.1997, Bsw. 24194/94.
+Spruch
+Art. 6 Abs. 1 EMRK, Art. 13 EMRK, Art. 14 EMRK - Rückerstattung von Aufwendungen für einen Wahlkampf und fair trial.
+Art. 6 Abs. 1 EMRK ist nicht anwendbar (7:2 Stimmen). Keine gesonderte Behandlung der behaupteten Verletzung von Art. 14 EMRK (einstimmig).
+Art. 13 EMRK nicht anwendbar (7:2 Stimmen).
+Text
+Begründung:
+Sachverhalt:
+Der Bf. war Kandidat der UDF (Union pour la démocratie française) für die Parlamentswahlen 1993 und wurde gewählt. Er stellte einen Antrag auf Rückerstattung der Aufwendungen für die Wahlwerbung. Die Comission nationale des comptes de campagne et des financements politiques (im folgenden: CN) wies den Antrag ab: Die Berechnung der Aufwendungen wäre ungenau und unrichtig gewesen. Bei korrekter Berechnung würden diese die festgelegte Höchstgrenze um ein Vielfaches überschreiten. Die Angelegenheit wurde an den Conseil constitutionnel weitergeleitet. Der Bf. brachte daraufhin ein Rechtsmittel an den Conseil d´Etat ein und behauptete die Rechtswidrigkeit der Entscheidung der CN. Gleichzeitig beantragte er beim Conseil constitutionnel eine Unterbrechung des Verfahrens bis zur Entscheidung des Conseil d´Etat.
+Der Conseil constitutionnel gab dem Unterbrechungsantrag nicht statt und stellte fest, dass der Bf. die Höchstgrenze für Wahlkampfkosten überschritten hatte. Er erkannte ihm zudem den Sitz im Parlament ab und schloss ihn bis März 1994 von jeglicher Kandidatur für eine Wahl aus. Der Bf. stellte daraufhin einen Berichtigungsantrag, da dem Conseil constitutionnel Fehler bei der Berechnung der Wahlkampfkosten unterlaufen seien. Eine Neuberechnung ergab jedoch, dass die Aufwendungen für den Wahlkampf sogar noch höher waren als ursprünglich angenommen.
+Die CN legte daraufhin die Höhe der Ausgleichszahlung fest, die der Bf. an das Finanzministerium zu zahlen hatte. Ein dagegen erhobenes Rechtsmittel an den tribunal administratif de Paris war erfolglos. Der Conseil d´Etat erklärte das Rechtsmittel gegen die erste Entscheidung der CN für unzulässig.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Der Bf. behauptet eine Verletzung von Art. 6 (1) EMRK (Recht auf ein faires Verfahren), da das Verfahren vor dem Conseil constitutionnel nicht öffentlich gewesen sei. Er behauptet weiters ein Verletzung von Art. 14 EMRK (Diskriminierungsverbot) und Art. 13 EMRK (Recht auf eine wirksame Bsw. vor einer nationalen Instanz).
+Zur behaupteten Verletzung von Art. 6 (1) EMRK:
+Art. 6 (1) EMRK ist auch für Verfahren vor Verfassungsgerichten maßgebend, sofern dessem Ausgang für zivilrechtliche Ansprüche oder Verpflichtungen oder die Stichhaltigkeit einer strafrechtlichen Anklage ausschlaggebend ist.
+1.) Lag ein Streit (dispute) über zivilrechtliche Ansprüche oder Verpflichtungen vor?
+Unbestritten ist, dass ein Streit (dispute) vorlag. Zu prüfen ist, ob dieser zivilrechtliche Ansprüche oder Verpflichtungen betraf. Die Höhe der Ausgaben für einen Wahlkampf war gesetzlich vorgeschrieben. Der Conseil constitutionnel stellte fest, dass die gesetzlich vorgesehene Höchstsumme vom Bf. überschritten worden war, weshalb ihm der Sitz im Parlament aberkannt und er für ein Jahr von Wahlen ausgeschlossen wurde. Das Recht, für Wahlen zu kandidieren bzw. einen Parlamentssitz beizubehalten, ist politischer und nicht zivilrechtlicher Natur iSv. Art. 6 (1) EMRK, ein Streit darüber liegt außerhalb seines Geltungsbereiches. Im Verfahren vor dem Conseil constitutionnel waren zwar vermögenswerte Interessen des Bf. betroffen, jedoch nicht in dem Ausmaß, dass die betroffenen Rechte des Bf. als zivilrechtliche Ansprüche iSd. Art. 6 (1) EMRK angesehen werden könnten. Ein Streit über zivilrechtliche Ansprüche oder Verpflichtungen liegt nicht vor.
+2.) Hatte das Verfahren die Entscheidung über die Stichhaltigkeit einer strafrechtlichen Anklage zum Gegenstand?
+Zunächst ist zu prüfen, welchem Rechtsbereich (zB. Strafrecht, Disziplinarrecht) im innerstaatlichen Rechtssystem die Zuwiderhandlung zuzuordnen ist. Weiters ist die wahre Natur (very nature) der Zuwiderhandlung sowie die Natur und der Grad der Schwere (nature and degree of severity) der angedrohten Sanktion zu berücksichtigen.
+Zur wahren Natur der Zuwiderhandlung und zu ihrer Einordnung in das innerstaatliche Rechtssystem:
+Nach franz. Recht werden die Aufwendungen von Parlamentskandidaten für einen Wahlkampf rückerstattet. Die CN überprüft die Abrechnungen aller Kandidaten. Falls diese feststellt, dass die Höchstgrenze für Wahlkampfkosten überschritten worden ist, legt sie den Fall dem Conseil constitutionnel zur weiteren Überprüfung vor. Falls auch dieser feststellt, dass die Höchstgrenze überschritten worden ist, kann er den betreffenden Kandidaten von innerhalb des nächsten Jahres stattfindenden Wahlen für diesselben Vertretungskörper ausschließen. Zudem ist dieser Kandidat verpflichtet, den von der CN festgestellten Differenzbetrag zwischen den tatsächlichen und den gesetzlich höchstzulässigen Aufwendungen an das Finanzministerium zu bezahlen. Diese Bestimmungen sind eindeutig nicht Teil des franz. Strafrechts. Außerdem können Normen solchen Inhalts nicht als solche strafrechtlicher Natur angesehen werden.
+Zur Natur und zum Grad der Schwere der angedrohten Sanktion:
+Es sind drei unterschiedliche Sanktionen vorgesehen:
+a) Der Ausschluss von Wahlen innerhalb eines Zeitraums von einem Jahr bzw. die Aberkennung des Parlamentssitzes, soll die Kandidaten zur Einhaltung der Höchstgrenze für Wahlkampfausgaben zwingen. Es handelt sich um eine Maßnahme, die die ordentliche Durchführung von Wahlen zum Parlament gewährleisten soll. Im Hinblick auf den Zweck dieser Sanktion wird festgestellt, dass diese außerhalb der strafrechtlichen Sphäre liegt. Auch unter Berücksichtigung der Schwere lässt sich diese Sanktion nicht in den Bereich des Strafrechts einordnen.
+b) Die Bezahlung des Differenzbetrages zwischen den tatsächlichen und den gesetzlich höchstzulässigen Ausgaben an das Finanzministerium stellt eine Art Ausgleich an die Gesellschaft dafür dar, dass sich der Kandidat durch die Mehrausgaben im Wahlkampf einen Vorteil gegenüber Mitbewerbern verschafft hat. Zudem soll sie die ordentliche Durchführung von Parlamentswahlen gewährleisten. Abgesehen davon, dass der zu zahlende Differenzbetrag nicht auf einem festgelegten Strafrahmen basiert, unterscheidet sich diese Sanktion auch anderweitig von Geldstrafen iSd. Strafrechts: Es erfolgt keine Eintragung in das Strafregister und es kann auch keine Ersatzfreiheitsstrafe im Falle der Uneinbringlichkeit verhängt werden.
+c) Zuletzt ist auch noch eine von den ordentlichen Gerichten zu verhängende Geld- oder Freiheitsstrafe vorgesehen, deren Strafrahmen bis zu 25.000.- FF bzw. bis zu einem Jahr beträgt. Diese Sanktion war aber nicht Gegenstand der Bsw., da kein Verfahren gegen den Bf. auf Bestrafung aufgrund der dieser Strafe zugrunde liegenden Bestimmung eingeleitet worden war.
+Art. 6 (1) EMRK ist weder in seinem zivil- noch in seinem strafrechtlichen Zweig anwendbar ist (7:2 Stimmen, Sondervoten der Richter De Meyer und Lohmus).
+Zur behaupteten Verletzung von Art. 14 EMRK:
+Der Bf. behauptet, er sei aufgrund seiner politischen Anschauungen diskriminiert worden. Diese Behauptung ist aber während der Verhandlung vor dem GH nicht wiederholt worden. Zudem kommt eine Verletzung von Art. 14 EMRK nur in Verbindung mit einer anderen materiellen Konventionsnorm in Frage. Eine Prüfung der behaupteten Verletzung von Art. 14 EMRK von Amts wegen ist nicht erforderlich (einstimmig).
+Zur behaupteten Verletzung von Art. 13 EMRK:
+Der Bf. behauptet, er hätte keine Möglichkeit gehabt, eine wirksame Bsw. vor einer nationalen Instanz gegen die Entscheidung des Conseil constitutionnel zu erheben. Voraussetzung für die Anwendbarkeit von Art. 13 EMRK ist, dass sich das durch diese Bestimmung garantierte Recht nur auf ein anderes durch die Konvention geschütztes Recht beziehen kann. Im Hinblick auf die zu Art. 6 (1) EMRK und Art. 14 EMRK gemachten Ausführungen ist Art. 13 EMRK nicht anwendbar (7:2 Stimmen, Sondervoten der Richter De Meyer und Lohmus).
+Anm.: Vgl. die vom GH zitierten Fälle Engel ua./NL, Urteil v. 8.6.1976, A/22; Karlheinz Schmidt/D, Urteil v. 18.7.1994, A/291-B (= NL 94/6/3); Schouten & Meldrum/NL, Urteil v. 9.12.1994, A/304 (= NL 95/1/13); Putz/A, Urteil v. 22.2.1996 (= NL 96/2/6); Pammel/D, Urteil
+v. 1.7.1997.
+Anm.: Die Kms. hatte in ihrem Ber. v. 1.7.1996 keine Verletzung von Art. 6 (1) EMRK, Art. 13 EMRK (jeweils 9:8 Stimmen) und von Art. 14 EMRK (einstimmig) festgestellt.
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 21.10.1997, Bsw. 24194/94, entstammt der Zeitschrift „ÖIMR-Newsletter" (NL 1997, 269) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im englischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/97_6/Pierre_Bloch.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

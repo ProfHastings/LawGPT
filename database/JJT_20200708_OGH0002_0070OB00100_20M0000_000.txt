@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.07.2020
+Geschäftszahl
+7Ob100/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei V*****, vertreten durch Dr. Peter Schaden und Mag. Werner Thurner, Rechtsanwälte in Graz, gegen die beklagte Partei W***** AG *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. April 2020, GZ 5 R 20/20b-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der
+Voraussetzungen des § 502 Abs 1 ZPO
+zurückgewiesen.
+Text
+Begründung:
+Die Beklagte ist Haftpflichtversicherer von B***** S*****. Die dem Versicherungsvertrag zugrundeliegenden HH1 – Allgemeine Bedingungen für Haushaltsversicherungen – ABH lauten auszugsweise
+„Artikel 8 – Was gilt als Versicherungsfall?
+1. Versicherungsfall ist ein Schadensereignis, das dem privaten Risikobereich entspringt und aus welchem dem Versicherungsnehmer Schadensersatzverpflichtungen ... erwachsen oder erwachsen könnten. …
+Artikel 10 – Welche Gefahren sind mitversichert?
+Die Versicherung erstreckt sich auf Schadensersatzverpflichtungen des Versicherungsnehmers als Privatperson aus den Gefahren des täglichen Lebens mit Ausnahme der Gefahr einer betrieblichen, beruflichen oder gewerbsmäßigen Tätigkeit, insbesondere ...“
+Rechtliche Beurteilung
+1.1. In Art 10 ABH wird die primäre Risikoumschreibung vorgenommen (7 Ob 189/16v; 7 Ob 184/14f). Der Begriff der „Gefahren des täglichen Lebens“ ist nach der allgemeinen Bedeutung der Worte dahin auszulegen, dass der Versicherungsschutz für die Haftpflicht des Versicherungsnehmers jene Gefahren erfasst, mit denen üblicherweise im Privatleben eines Menschen gerechnet werden muss (RS0081099 [insb T10]). Die Gefahr, haftpflichtig zu werden, ist im Leben eines Durchschnittsmenschen nach wie vor eine Ausnahme. Deshalb will die Privathaftpflichtversicherung prinzipiell Deckung für außergewöhnliche Situationen schaffen, in die auch ein Durchschnittsmensch hineingeraten kann. Freilich sind damit nicht alle ungewöhnlichen und gefährlichen Tätigkeiten abgedeckt (RS0081276 [T1]). Für das Vorliegen einer „Gefahr des täglichen Lebens“ ist nicht erforderlich, dass solche Gefahren geradezu täglich auftreten; vielmehr genügt es, wenn die Gefahr erfahrungsgemäß im normalen Lebensverlauf immer wieder, sei es auch seltener, eintritt. Es darf sich nicht nur um eine geradezu ungewöhnliche Gefahr handeln, wobei Rechtswidrigkeit oder Sorglosigkeit eines Verhaltens den daraus entspringenden Gefahren noch nicht die Qualifikation als solche des täglichen Lebens nehmen. Voraussetzung für einen aus einer Gefahr des täglichen Lebens verursachten Schadensfall ist nämlich immer eine Fehlleistung oder eine schuldhafte Unterlassung des Versicherungsnehmers (RS0081070).
+Auch ein vernünftiger Durchschnittsmensch kann aus Unvorsichtigkeit eine außergewöhnliche Gefahrensituation schaffen und sich in einer solchen völlig falsch verhalten oder sich zu einer gefährlichen Tätigkeit, aus der die entsprechenden Folgen erwachsen, hinreißen lassen. Derartigen Fällen liegt eine falsche Einschätzung der jeweiligen Sachlage zugrunde (7 Ob 184/14f).
+1.2. Die Abgrenzung zwischen dem gedeckten Eskalieren einer Alltagssituation und einer nicht gedeckten ungewöhnlichen und gefährlichen Tätigkeit hängt von den Umständen des Einzelfalls ab, die in der Regel keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (7 Ob 86/19a), zumal hiezu bereits eine umfangreiche Rechtsprechung des Fachsenats vorliegt (vgl die Nachweise in RS0081099), die auch angesichts des vorliegenden Einzelfalls keiner Verbreiterung bedarf.
+2.1. Der Oberste Gerichtshof hat bereits mehrfach ausgesprochen, dass das bewusste und gewollte Schaffen einer Situation, die eine Brand- oder Explosionsgefahr mit sich bringt, ohne dass hiefür die geringste Notwendigkeit besteht, nicht unter die Gefahr des täglichen Lebens zu subsumieren ist (RS0081317).
+2.2. Drei Wochen vor seinem 18. Geburtstag verfiel der alkoholisierte Versicherte mit anderen betrunkenen Teilnehmern einer Grillparty auf die Idee, eine Mutprobe zu veranstalten, bei welcher man sich mit nacktem Hinterteil über ein durch Benzin als Brandbeschleuniger angefachtes offenes Feuer hocken sollte, um die Haare wegzusengen. Der Versicherte goss Benzin auf die nur noch leicht brennende Rasenfläche, als ein anderer Partygast mit der „Mutprobe“ begann. Dieser wurde von den auflodernden Flammen erfasst und erlitt schwere Verbrennungen.
+Dass dies vom Berufungsgericht als mutwilliger – nicht durch die Notwendigkeit des Grillens bedingter – Akt angesehen wurde, der nicht als bloße Fehleinschätzung einer gefährlichen Situation zu qualifizieren ist, und dass damit keine vom gedeckten Risiko umfasste Gefahr des täglichen Lebens vorlag, in die ein Durchschnittsmensch im normalen Lebensverlauf üblicherweise gerät, hält sich im Rahmen der Judikatur und ist im Einzelfall nicht zu beanstanden.
+2.3. Die von der Klägerin zitierte Judikatur betrifft keine vergleichbaren Rechtsfälle.
+2.4. Im Übrigen liegt auch dann keine Gefahr des täglichen Lebens vor, wenn etwa eine Straftat im Zustand der vollen Berauschung verübt wird, weil ein Durchschnittsmensch – auch wenn er erheblich alkoholisiert ist – nicht in die Situation gerät, dass er als aktiv Beteiligter eine solche Tat oder ein Vergehen der Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung nach § 287 Abs 1 StGB begeht (vgl 7 Ob 189/16v = RS0081099 [T20] = RS0081276 [T5] =
+RS0081070 [T8]).
+2.5. Eine Mutprobe mit offenem Feuer ist jedenfalls keine Gefahr des täglichen Lebens.
+3. Die Frage, ob die Klägerin, die dem Geschädigten Sozialversicherungsleistungen erbrachte, als nach § 332 ASVG regressführender Sozialversicherungsträger zur Erhebung der vorliegenden Klage auf Feststellung der Deckungspflicht des Haftpflichtversicherers des Schädigers aktiv legitimiert ist, muss daher hier nicht beantwortet werden.
+4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00100.20M.0708.000

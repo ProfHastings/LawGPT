@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.01.2016
+Geschäftszahl
+3Ob238/15v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei N*****, vertreten durch W*****, dieser vertreten durch Weinrauch & Partner Rechtsanwälte OG in Wien, gegen die beklagte Partei U*****, vertreten durch Dr. Klaus-Dieter Strobach, Dr. Wolfgang Schmidauer, Rechtsanwälte in Grieskirchen, wegen Vertragszuhaltung (Streitwert 88.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Graz als Berufungsgericht vom 19. August 2015, GZ 5 R 89/15t-54, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Ausgehend von den Feststellungen, dass sowohl die Klägerin im Inserat die bereits erfolgte („absolute“) Trockenlegung und Isolierung aller Wände und einen insgesamt sehr guten/guten Zustand, als auch ihr Vater die bereits erfolgte Trockenlegung der Wände und Erneuerung der Elektroinstallationen zusicherten und die Beklagte aufgrund dieser Zusicherungen und mangels eigener Feststellung von Mängeln bei der Besichtigung den Kaufvertrag unterfertigte, wies das Berufungsgericht die Klage auf Zuhaltung des Kaufvertrags ab. Da das Kaufobjekt entgegen den Zusicherungen - neben einer Reihe anderer Mängel - insbesondere massive Feuchteschäden an den Wänden und unzulässige Elektroinstallationen aufwies, die für die Beklagte nicht erkennbar waren, sei sie ungeachtet des unterfertigten generellen Gewährleistungsausschlusses zur Wandlung berechtigt gewesen. Auch im Fall eines Gewährleistungsausschlusses habe der Veräußerer für ausdrücklich zugesagte Eigenschaften einzustehen.
+Die Klägerin, die mit ihrer außerordentlichen Revision ihr Klagebegehren auf Vertragszuhaltung weiter verfolgt, vermag keine erheblichen Rechtsfragen im Sinn des § 502 Abs 1 ZPO aufzuzeigen.
+Rechtliche Beurteilung
+Ein - wie in diesem Fall - umfassend vereinbarter Gewährleistungsverzicht erstreckt sich zwar auch auf geheime Mängel (RIS-Justiz RS0018564), jedenfalls auf solche, die bei einer ordnungsgemäßen Untersuchung erkennbar gewesen wären (RIS-Justiz RS0018555); bei Zusage bestimmter Eigenschaften der Sache, auf die sich der Käufer verlassen darf, haftet der Verkäufer aber auch im Falle eines vereinbarten Ausschlusses der Gewährleistung (RIS-Justiz RS0018523, RS0018564 [T7, T12]).
+Vereinbarungen über die Beschränkung oder den Ausschluss der Haftung sind nach der Absicht der Parteien und der Übung des redlichen Verkehrs (§ 914 ABGB) auszulegen. Die Reichweite eines vertraglichen Gewährleistungsverzichts ist durch Auslegung zu ermitteln (RIS-Justiz RS0016561, RS0018564 [T12]). Die nach den konkreten Umständen des Einzelfalls vorzunehmende Auslegung wirft dabei regelmäßig keine erheblichen Rechtsfragen nach § 502 Abs 1 ZPO auf (vgl RIS-Justiz RS0042936, RS0042776, RS0044298).
+Es bildet keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung, wenn das Berufungsgericht im Hinblick auf die öffentliche Anpreisung des Objekts als „sehr gut/gut“ in Verbindung mit der Zusicherung, dass alle Wände des gekauften Hauses absolut trocken gelegt und isoliert seien, die Käuferin zur Wandlung gemäß § 932 Abs 1, 2 und 4 ABGB berechtigt ansah. Aufgrund der Zusicherung der genannten Eigenschaften durfte die Beklagte eine Untersuchung der Sache auf nicht bekannte oder nicht in die Augen fallende Mängel vor Vertragsabschluss unterlassen (RIS-Justiz RS0018513). Dass die beklagte Käuferin vor Unterfertigung des schriftlichen Kaufvertrags mit dem generellen Ausschluss der Haftung für Sachmängel von der Unrichtigkeit der vorher gegebenen Zusagen über die Eigenschaften des Kaufgegenstands (sehr guter/guter Zustand, absolut trocken gelegte und isolierte Wände) informiert worden wäre und sie dessen ungeachtet den Kaufvertrag schließen wollte, wurde weder behauptet noch festgestellt.
+Die außerordentliche Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00238.15V.0120.000

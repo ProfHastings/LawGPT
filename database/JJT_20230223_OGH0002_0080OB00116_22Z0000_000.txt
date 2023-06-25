@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2023
+Geschäftszahl
+8Ob116/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart   als weitere Richter in der Rechtssache der klagenden Partei W* AG *, vertreten durch Mag. Erik Focke, Rechtsanwalt in Wien, gegen die beklagte Partei E* GmbH, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 95.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 24. Juni 2022, GZ 4 R 190/21x-84, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Das Berufungsgericht hat die Grundsätze der Haftung für Besorgungsgehilfen nach § 1315 ABGB zutreffend dargelegt. Diese Ausführungen werden in der außerordentlichen Revision der Klägerin auch nicht in Frage gestellt.
+[2] 		2. Besorgungsgehilfen sind nach dem Gesetzeswortlaut Personen, deren man sich „zur Besorgung seiner Angelegenheiten bedient“. Sie können zB dauernd beschäftigt sein, aber auch bloß einmaliger Einsatz genügt. Auftrag, Ermächtigung, aber auch eine bloß faktische Beziehung reicht. Voraussetzung der Gehilfeneigenschaft ist jedoch die Eingliederung der betreffenden Person in den Herrschafts- und/oder Organisationsbereich des potentiell nach § 1315 ABGB zu Belangenden (Reischauer in Rummel, ABGB³ § 1315 Rz 1).  Ansatz für die Haftung des Geschäftsherrn ist die Besorgung von dessen Angelegenheiten. Eine Haftung des Geschäftsherrn kommt daher nur in Betracht, wenn der Gehilfe in dessen Aufgaben- und Verantwortungsbereich tätig geworden ist. Die Zurechnung erfordert weiters einen inneren Zusammenhang zwischen dem übertragenen Aufgabengebiet und der Untüchtigkeit des Gehilfen (Harrer/Wagner in Schwimann/Kodek ABGB4 VI § 1315 Rz 7; Reischauer aaO Rz 7; Ondreasova, Die Gehilfenhaftung, 149).
+[3] 		3. Nach dem Sachverhalt war die Person, die einen Untertischspeicher unfachgemäß montiert und dadurch den streitgegenständlichen Schaden verursacht hat, dabei nicht im Auftrag der Beklagten und nicht zur Besorgung von deren Angelegenheiten tätig. Diese Montage erfolgte vielmehr im unmittelbaren Auftrag und auf Rechnung der Mieterin der Geschäftsräume, die dringend einen Ersatz benötigte, um ungestört weiterarbeiten zu können. Ein Werkauftrag an die Beklagte wurde nach dem Sachverhalt nicht erteilt, sie hatte  auch kein sonstiges eigenes Interesse daran, dass ihr Mitarbeiter für die Mieterin als Speichermonteur tätig wurde.
+[4] 		4. Davon ausgehend ist die grundsätzlich einzelfallbezogene Rechtsansicht des Berufungsgerichts nicht korrekturbedürftig.
+[5] 		Den in der Revision angestellten Überlegungen zur Existenz eines Dienstnehmerüberlassungsvertrags und eines Insich-Geschäfts kommt keine entscheidungserhebliche Bedeutung zu. Es kommt für die Zurechnung darauf an, wessen Angelegenheiten der Mitarbeiter bei seiner Tätigkeit besorgt hat. Für die Beurteilung der deliktischen Haftung kommt es auch nicht darauf an, ob der – sowohl bei der Mieterin als auch bei der Beklagten vertretungsberechtigte – Geschäftsführer befugt war, dem Arbeitnehmer der Beklagten im Namen der anderen Gesellschaft Weisungen zu erteilen bzw ihn im Rahmen einer spontanen Dienstnehmerüberlassung einzusetzen, oder ob es sich dabei um ein verbotenes In-Sich-Geschäft gehandelt haben könnte. Wesentlich ist, dass diese Anweisung  tatsächlich befolgt wurde und der Arbeitnehmer dabei nach dem Sachverhalt in Angelegenheiten der Mieterin tätig war, aber nicht festgestellt werden konnte, dass er in solchen der Beklagten (etwa einem Werkvertrag) eingesetzt wurde.
+[6] 		5. Soweit sich die Revisionsausführungen mit der Höhe des Klagebegehrens befassen, ist darauf mangels Relevanz nicht  einzugehen.
+[7] 		Mangels einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO war die außerordentliche Revision zurückzuweisen.
+[8] 		Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00116.22Z.0223.000

@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2017
+Geschäftszahl
+7Ob163/17x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei B***** H*****, vertreten durch Mag. Gerald Leitgeb, Rechtsanwalt in Stallhofen, gegen die beklagte Partei H***** AG, *****,  vertreten durch Schlösser & Partner Rechtsanwälte OG in Graz, wegen Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 31. Juli 2017, GZ 3 R 105/17m-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin ist Erbin ihres Ehemanns (in Hinkunft: Versicherungsnehmer). Dieser war bei der Beklagten von 1. 9. 2002 bis 1. 9. 2012 rechtsschutzversichert. Dem Rechtsschutz-versicherungsvertrag lagen die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 1994) zugrunde, die auszugsweise lauteten:
+„Art 2
+Was gilt als Versicherungsfall und wann gilt er als eingetreten?
+1. Im Schadenersatz-Rechtsschutz (Art 17.2.1, Art 18.2.1, Art 19.2.1 und Art 24.2.3) gilt als Versicherungsfall das dem Anspruch zugrundeliegende Schadenereignis. Als Zeitpunkt des Versicherungsfalls gilt der Eintritt dieses Schadenereignisses.
+...
+Art 19
+Schadenersatz- und Strafrechtsschutz für den Privat-, Berufs- und Betriebsbereich
+...
+2. Was ist versichert?
+2.1 Der Versicherungsschutz umfasst Schadenersatz-Rechtsschutz für die Geltendmachung von Schadenersatzansprüchen auf Grund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts wegen eines erlittenen Personen-, Sach- oder Vermögensschadens.
+...“
+Im vorliegenden Fall wird die Deckung aus der Rechtsschutzversicherung für die klageweise Geltendmachung von Schadenersatzansprüchen gegen den den Versicherungsnehmer behandelnden Orthopäden begehrt.
+Rechtliche Beurteilung
+1.1 Die Beklagte erachtet die Rechtsauffassung des Berufungsgerichts, der Schadenfall sei dem Schadenersatz-Rechtsschutz zuzuordnen und daher Art 2.1 ARB 1994 maßgeblich, ausdrücklich als zutreffend. Sie hält aber ihren Einwand aufrecht, dass das Schadenereignis nicht am 24. 7. 2012 (Unterlassung der Erörterung eines MRT-Befunds mit dem Versicherungsnehmer durch den Orthopäden, aus dem sich der Verdacht auf eine Krebserkrankung bereits ergeben hatte), sondern erst am 24. 9. 2014 (Kenntnisnahme der Krebserkrankung durch den Versicherungsnehmer) und damit außerhalb des Versicherungszeitraums eingetreten sei.
+1.2 Nach Art 2.1 ARB 1994 gilt als Versicherungsfall nicht der Verstoß, sondern der Eintritt des dem Anspruch zugrundeliegenden Schadenereignisses. Der Versicherungsfall ist regelmäßig jenes Ereignis, das den Anspruch begründet hat (RIS-Justiz RS0114209). Der Unterschied zum Verstoß besteht darin, dass Verstoß das Kausalereignis also das haftungsrelevante Verhalten des Versicherungsnehmers, das den Schaden verursacht hat, ist, Schadenereignis dagegen der „äußere Vorgang“, der die Schädigung des Dritten und damit die Haftpflicht des Versicherungsnehmers unmittelbar herbeiführt. Schadenereignis ist das Folgeereignis, das mit dem Eintritt des realen Verletzungszustands gleichgesetzt wird (RIS-Justiz RS0081307), also das äußere Ereignis, das den Personen- oder Sachschaden unmittelbar ausgelöst hat (RIS-Justiz RS0081247). Der Versicherungsfall und damit die Beurteilung der Deckungspflicht richtet sich nach dem vom Kläger geltend zu machenden Anspruch und ist insofern eine Frage des Einzelfalls (RIS-Justiz RS0123775).
+Die Klägerin leitet den Anspruch, für dessen Durchsetzung Rechtsschutzdeckung begehrt wird, aus der Unterlassung von – ihrer Meinung nach – unverzüglich gebotenen Maßnahmen des Orthopäden zur Abwendung einer Verschlechterung der bestehenden Erkrankung des Versicherungsnehmers ab, wobei sie ausdrücklich vorbringt, dass sich sein Gesundheitszustand bereits im Juli 2012 auf- grund der unterlassenen Behandlung massiv verschlimmert habe.
+Die Rechtsauffassung des Berufungsgerichts, das – innerhalb des Versicherungszeitraums liegende – Schadenereignis sei nach den Behauptungen in der Klage das Nichtreagieren auf den verdächtigen MRT-Befund, ab welchem Zeitpunkt sich mangels weiterer Abklärung und Therapie der Gesundheitsschaden des Versicherungsnehmers durch das (ungehinderte) Fortschreiten der Krebserkrankung zunehmend ausgeweitet und letztlich zum Ableben geführt habe, hält sich im Rahmen der Judikatur. Auf die von der Beklagten allein herangezogene Kenntnisnahme der Diagnose durch den Versicherungsnehmer kommt es jedenfalls nicht an (vgl 7 Ob 36/17w).
+2.1 Die Beklagte argumentiert weiters, gehe man von der Beurteilung aus, dass das Schadenereignis im Juli 2012 eingetreten sei, dann sei der Anspruch aus dem Versicherungsvertrag nach § 12 VersVG verjährt.
+2.2 Die Verjährung des Anspruchs aus der Rechtsschutzversicherung beginnt zu jenem Zeitpunkt, zu dem sich die Notwendigkeit einer Interessenwahrnehmung für den Versicherungsnehmer so konkret abzeichnet, dass er mit der Entstehung von Rechtskosten rechnen muss, deretwegen er den Rechtsschutzversicherer in Anspruch nehmen will (vgl RIS-Justiz RS0054251).
+3.3 Der Versicherungsnehmer war ab Mai 2012 wegen Rückenschmerzen in Behandlung. Am 24. 9. 2014 erfuhr er die Diagnose Lungenkrebs und auch, dass sich aus dem nicht erörterten MRT-Befund vom 24. 7. 2012 bereits Krebsverdacht ergeben hatte.
+Die Rechtsansicht des Berufungsgerichts, die im Mai 2016 klageweise Geltendmachung des Deckungsanspruchs sei nicht verjährt, ist nicht zu beanstanden. Die Beklagte hält dem auch nur allgemein – ohne nähere Anhaltspunkte – entgegen, dass der Versicherungsnehmer schon früher die Fehldiagnose hätte erkennen können. Es bestehen keine Anhaltspunkte dafür,  dass er schon im Jahr 2012 ausreichende Hinweise auf einen drohenden Rechtsstreit hatte. Aus welchem Grund er den ursprünglichen Befund ohne den zweiten Befund aus dem Jahr 2014 hätte hinterfragen müssen, legt die Beklagte ohnehin nicht dar.
+3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00163.17X.1018.000

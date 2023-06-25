@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.07.2013
+Geschäftszahl
+7Ob89/13h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr.
+Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei A***** W*****, vertreten durch Dax & Partner Rechtsanwälte GmbH in Eisenstadt, gegen die beklagte Partei W***** AG *****, vertreten durch Dr. Herbert Laimböck, Rechtsanwalt in Wien, wegen 11.770,84 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Februar 2013, GZ 1 R 165/12k-31, womit das Urteil des Landesgerichts Eisenstadt vom 12. Juni 2012, GZ 27 Cg 118/11p-27, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 838,44 EUR (darin enthalten 139,74 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil oberstgerichtliche Judikatur zu Art 6 Abs 1 der Allgemeinen Bedingungen für Versicherungen gegen Leitungswasserschäden (AWB 1986) nicht vorliege. Es scheine eine Klarstellung der Frage geboten, „ob die Annahme einer groben Fahrlässigkeit beim Verstoß gegen diese Obliegenheit ein grob fahrlässiges Nichterkennen eines Drohens des konkret eingetretenen Schadensfalls voraussetzt oder ob insoweit die allgemeine Einsicht genügt, dass über viele Jahre immer wieder aus einem Wasserablaufsystem auf einen Fliesenboden überlaufendes Wasser grundsätzlich zur Verursachung eines Schadens geeignet ist“.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts liegt keine erhebliche Rechtsfrage vor. Der Zurückweisungsbeschluss kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Dem Versicherungsvertrag zwischen den Streitteilen liegen die AWB 1986 zu Grunde, deren Art 6 Abs 1 lautet:
+„ Sicherheitsvorschriften:
+…
+(1) Der Versicherungsnehmer übernimmt die Verpflichtung, für gute Instandhaltung der Wasserleitungsanlagen und, soweit Schäden durch sonstige wasserführende Anlagen in die Versicherung eingeschlossen sind, auch für gute Instandhaltung dieser Anlagen zu sorgen.“
+Der Versicherer braucht nur den objektiven Tatbestand einer Obliegenheitsverletzung nachzuweisen, während es Sache des Versicherungsnehmers ist, zu behaupten und zu beweisen, dass er die ihm angelastete Obliegenheitsverletzung weder vorsätzlich noch grob fahrlässig begangen habe (RIS-Justiz RS0081313). Grobe Fahrlässigkeit ist im Bereich des Versicherungsvertragsrechts nach ständiger Rechtsprechung dann gegeben, wenn schon einfachste, naheliegende Überlegungen nicht angestellt und Maßnahmen nicht ergriffen werden, die jedermann einleuchten müssen; wenn jedenfalls völlige Gleichgültigkeit gegen das vorliegt, was offenbar unter den gegebenen Umständen hätte geschehen müssen (RIS-Justiz RS0080371). Die Beurteilung, ob grobe Fahrlässigkeit vorliegt oder nicht, hängt grundsätzlich von den Umständen des Einzelfalls ab.
+Die Revision wirft dem Berufungsgericht zu Unrecht vor, es habe sich von den Feststellungen des Erstgerichts entfernt. Es steht zwar fest, dass der Kläger nicht erkannte, dass das über rund 14 Jahre hinweg immer wieder (zumindest ein bis zweimal jährlich) austretende Wasser aus dem Tropfbecher des Boilers in den darunter liegenden Fußboden in der Weise eindrang, dass sich über die Jahre die darunter liegende Decke ab 2006/2007 absenkte und letztlich herunterfiel. Es steht aber auch fest, dass der Kläger den Wasseraustritt aus dem Tropfbecher nach Installation des Boilers bemerkte und sich mit der Auskunft eines Installateurs im Jahr 1993 begnügte, dass er keine Ursache für einen Feuchtigkeitsfleck an der Mauer im Stiegenhaus finden könne. Diesen Sachverhalt legte das Berufungsgericht seiner Entscheidung zu Grunde.
+Wenn immer wieder Wasser aus einem Tropfbecher austritt, ist damit zu rechnen, dass ein Defekt vorliegt. Dies hat offenbar auch der Kläger erkannt, weil er einen Installateur zu Rate zog. Auch wenn dieser im Jahr 1993 (noch) nicht bemerkte, dass der Boden unter dem Boiler durchnässt war, so konnte der Kläger nicht davon ausgehen, dass auch über Jahre hinweg kein Nässeschaden entstehen werde. Wasser versickert typischerweise; es lag auf der Hand, dass der ständig wiederkehrende Wasseraustritt zur Durchnässung der Boden-/Deckenkonstruktion und zu entsprechenden Schäden führen werde. Der Kläger hätte daher die Ursache des Wasseraustritts aus dem Tropfbecher beheben lassen oder zumindest laufend Kontrollen veranlassen müssen, um die Auswirkungen auf den Boden/die Decke zu beobachten. Die Rechtsansicht des Berufungsgerichts, dass dem Kläger eine grob fahrlässige Verletzung der Instandhaltungsobliegenheit anzulasten ist, weil er den Wasseraustritt über 14 Jahre unkontrolliert anstehen ließ, hält sich im Rahmen der Judikatur und ist im Einzelfall nicht zu beanstanden.
+Es werden keine erheblichen Rechtsfragen geltend gemacht.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO. Die Beklagte wies auf die Unzulässigkeit der Revision hin.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0070OB00089.13H.0703.000

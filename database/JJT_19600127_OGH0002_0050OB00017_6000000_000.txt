@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.1960
+Geschäftszahl
+5Ob17/60
+Norm
+ABGB §1497;
+Kopf
+SZ 33/11
+Spruch
+Durch das Geständnis, daß eine Forderung entstanden sei, unter gleichzeitiger Behauptung des Erlöschens dieser Forderung durch Kompensation wird die Verjährung nicht unterbrochen.
+Entscheidung vom 27. Jänner 1960, 5 Ob 17/60.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Erstgericht wies die Klage auf Erlag eines Betrages von 53.776 S 96 g s. A. - d. i. der Kaufpreis für eine Äpfellieferung - auf ein Sperrkonto der österreichischen Länderbank aus dem Grund der Verjährung ab. Unterbrechung der Verjährung sei nicht anzunehmen. Wohl habe die Beklagte die Richtigkeit der Forderung an sich zugegeben; sie habe aber gleichzeitig zum Ausdruck gebracht, daß sie dagegen eine die Klagsforderung übersteigende Gegenforderung aufrechnen wolle.
+Das Berufungsgericht übernahm die Feststellungen des Erstgerichtes und bestätigte das Ersturteil.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Wer zugibt, daß gegen ihn eine Forderung entstanden sei, aber gleichzeitig geltend nicht, daß ihm Gegenforderungen zustehen, welche diese Forderung übersteigen, anerkennt nicht den aufrechten Bestand dieser Forderung, sondern bestreitet ihn. Durch eine solche Bestreitung wird daher die Verjährung nicht unterbrochen (vgl. Rspr. 1933 Nr. 296 und die Besprechung Wahles zu dieser Entscheidung; Klang 2. Aufl. VI 653). Daran würde sich auch nichts ändern, wenn die Behauptung der klagenden Partei richtig wäre, daß Forderung und Gegenforderung nicht kompensabel seien, weil die Forderung eine Clearing-Forderung sei, die von der Beklagten behauptete Gegenforderung aber aus einem Kompensationsgeschäft stamme. Bestreitet ein Schuldner die Verpflichtung zur Zahlung einer an sich von ihm hinsichtlich der Richtigkeit nicht bestrittenen Forderung aus dem Grund der Tilgung dieser Forderung, dann ist es für die Frage, ob durch diese Stellungnahme des Schuldners zur Forderung die Verjährung unterbrochen wurde, ohne Belang, ob die behauptete Tilgung wirklich erfolgt ist. Genauso wie durch die Erklärung des Schuldners, er sei nichts mehr schuldig, weil er die geltend gemachte Forderung bereits gezahlt habe, die Verjährung auch dann nicht unterbrochen wird, wenn eine Zahlung nicht erfolgt ist oder irgendeine vom Schuldner geleistete Zahlung auf die Schuld nicht anzurechnen ist, vermag das Geständnis, daß eine Forderung entstanden sei, die aber durch Kompensation erloschen sei, eine Unterbrechung der Verjährung auch dann nicht herbeizuführen, wenn die geltend gemachte Gegenforderung nicht besteht oder sich zur Kompensation nicht eignet. Es kann daher auch darin, daß das Berufungsgericht auf die Frage der Kompensabilität nicht eingegangen ist und hierüber keine Beweise abgeführt hat, ein Mangel des Berufungsverfahrens nicht gelegen sein.

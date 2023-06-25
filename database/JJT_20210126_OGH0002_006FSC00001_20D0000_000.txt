@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2021
+Geschäftszahl
+6Fsc1/20d
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Hon.-Prof. Dr. Gitschthaler in der Rechtssache des Antragstellers Ing. S*****, wegen Verletzung des Datenschutzes gemäß § 85 GOG, über den Antrag des Antragstellers auf elektronische Einsicht in den Akt 6 Fsc 1/20d des Obersten Gerichtshofs den
+Beschluss
+gefasst:
+Spruch
+Der Antrag vom 20. Jänner 2021 wird abgewiesen.
+Text
+Begründung:
+[1] 		Der Oberste Gerichtshof wies mit Beschluss vom 22. 7. 2020 zu AZ 6 Fsc 1/20d einen Fristsetzungsantrag des Antragstellers zurück. Nunmehr begehrt der – anwaltlich nicht vertretene – Antragsteller „elektronische Einsicht zum angegebenen Verfahren“, wobei er sich ausdrücklich auf das Verfahren 6 Fsc 1/20d bezieht.
+Rechtliche Beurteilung
+[2] 		1. § 5 Abs 1 OGHG verweist in Ansehung der vom Senatsvorsitzenden zu treffenden Entscheidung über das Recht auf Akteneinsicht allgemein auf § 89i GOG, nach dessen Abs 2 den Parteien auch elektronische Einsicht in sämtliche gemäß § 219 Abs 1 ZPO oder § 45 Abs 2, § 46 Abs 2 und § 47 Abs 2 Z 1 StPO zugängliche, ihre Sache betreffende Daten, die in der Verfahrensautomation Justiz gespeichert sind, nach Maßgabe der technischen Möglichkeiten sowie unter Bedachtnahme auf eine einfache und sparsame Verwaltung und eine ausreichende Sicherung vor Missbrauch durch dritte Personen ermöglicht werden kann.
+[3] 		2. Gemäß § 219 Abs 1 ZPO können die Parteien in sämtliche ihre Rechtssache betreffenden, bei Gericht befindlichen Akten mit Ausnahme der Entwürfe zu Urteilen und Beschlüssen, der Protokolle über Beratungen und Abstimmungen des Gerichts und solcher Schriftstücke, welche Disziplinarverfügungen enthalten, Einsicht nehmen und sich davon auf ihre Kosten Abschriften (Kopien) und Auszüge (Ausdrucke) erteilen lassen, wobei grundsätzlich anerkannt ist, dass die in § 219 ZPO normierten Ausnahmen, soweit nicht sondergesetzliche Regelungen bestehen – wie durch das Datenschutzgesetz oder bei der Inkognitoadoption –, als taxative Aufzählung zu verstehen sind (6 Ob 148/98b; 6 Ob 153/15s; RS0110043). Es ist somit nicht zweifelhaft, dass dem Antragsteller als Verfahrenspartei an sich das durch Art 6 EMRK geschützte Grundrecht auf Einsicht in den Akt 6 Fsc 1/20d, der allerdings ohnehin lediglich aus der erwähnten Entscheidung vom 22. 7. 2020 und dem Antrag auf Gewährung der Akteneinsicht besteht, zustehen würde.
+[4] 		3. Der Antragsteller beantragt jedoch ausdrücklich die Gewährung der „elektronischen“ Akteneinsicht, in welchem Zusammenhang der Oberste Gerichtshof bereits klargestellt hat, dass das Vorhandensein der technischen Möglichkeiten gemäß § 89i Abs 2 GOG Voraussetzung dafür ist, einer Partei diese konkrete Form der Gewährung von Akteneinsicht zuzuerkennen (3 Ob 72/15g zu einem Sachwalterschaftsverfahren [nunmehr: Erwachsenenschutzverfahren]). Da die technischen Möglichkeiten für eine elektronische Einsicht in Daten, die in der Verfahrensautomation Justiz gespeichert sind, bisher erst für bestimmte Gattungen von Gerichtsverfahren geschaffen wurden und die elektronische Akteneinsicht derzeit bloß für die Verfahrensarten A, C, Cg, Cga, Cgs, E, Hv und U zur Verfügung steht – worauf im Portal justizonline.gv.at ausdrücklich hingewiesen wird –, war der Antrag auf elektronische Einsicht in den Fsc-Akt mangels Vorhandenseins der technischen Möglichkeiten abzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:006FSC00001.20D.0126.000

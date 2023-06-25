@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.03.1966
+Geschäftszahl
+5Ob340/65
+Norm
+KO §110;
+Kopf
+SZ 39/60
+Spruch
+Der Gemeinschuldner ist im Prüfungsprozeß nicht passiv legitimiert
+Entscheidung vom 31. März 1966, 5 Ob 340/65
+I. Instanz: Landesgericht Innsbruck; II. Instanz: Oberlandesgericht Innsbruck
+Text
+Der Kläger brachte gegen 1. Dr. N. N. als Masseverwalter im Konkursverfahren über das Vermögen des XY und 2. gegen den Gemeinschuldner XY persönlich eine Klage im Sinne des § 110 KO. zur Feststellung einer Konkursforderung von 260.354.47 S samt Anhang in der dritten Klasse der Konkursgläubiger ein.
+Das Erstgericht wies das Klagebegehren gegenüber dem Zweitbeklagten (Gemeinschuldner) ab.
+Das Berufungsgericht bestätigte.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Das Berufungsgericht hat - im Sinne der Ausführungen in Bartsch - Pollaks Komm. 1937 I S. 502 (s. hiezu auch Lehmann S. 619) - ohne Rechtsirrtum angenommen, daß eine Klage gemäß § 110 KO. gegen den Gemeinschuldner schon deshalb nicht gerichtet werden kann, weil dessen Forderungsbestreitungen gemäß § 109 (2) KO. im Konkursverfahren ohne rechtliche Wirkung sind. Nun will der Kläger daraus, daß im Falle der Bestreitung der Forderung durch den Gemeinschuldner die Eintragung im Anmeldungsverzeichnis gemäß § 61 KO. keinen Exekutionstitel gegen den Gemeinschuldner bildet, ableiten, daß der Gemeinschuldner auch gemäß § 110 KO. passiv klagslegitimiert sei; hier übersieht der Revisionswerber, daß der im § 61 KO. vorgesehene Exekutionstitel sich nur auf das dem Gemeinschuldner zur freien Verfügung bleibende oder nach der Konkursaufhebung erworbene Vermögen bezieht. Für die Feststellung der Forderung im Konkurs hat also das Bestreitungsrecht des Gemeinschuldners keine Bedeutung, es verhindert nur gemäß § 61 KO. die Entstehung eines Exekutionstitels gegen den Gemeinschuldner auf konkursfreies oder nach der Konkursaufhebung erworbenes Vermögen. Übrigens könnte ein in einem Prüfungsprozeß ergangenes Urteil auf Feststellung des Bestandes oder Ranges einer Forderung ohnehin nach der Konkursaufhebung niemals ein Exekutionstitel gegen den Gemeinschuldner sein, da auf Grund eines Feststellungsurteils keine Exekution geführt werden könnte. Somit würde eine gemäß § 110 KO. erhobene Feststellungsklage gegenüber dem Gemeinschuldner auch deshalb des Rechtsschutzbedürfnisses ermangeln.
+Was aber den Einwand des Klägers betrifft, daß seine Forderung gegenüber dem Gemeinschuldner, falls er nicht auch gegen ihn gemäß § 110 KO. die Klage einbringe, verjähren könnte, so ist dem Kläger entgegenzuhalten, daß gemäß § 9 KO. die Verjährung der Forderung ohnehin durch die Anmeldung im Konkurs unterbrochen wird und gegenüber dem Gemeinschuldner mit dem Ablauf des Tages, an dem der Beschluß über die Aufhebung des Konkurses rechtskräftig geworden ist, von neuem beginnt; hiebei ist die Bestreitung des Gemeinschuldners im Konkurs, da sie gemäß § 109 (2) KO. für den Konkurs keine rechtliche Wirkung hat, auch ohne Wirkung für den Lauf der Verjährung (Bartsch - Pollak I S. 85 Bemerkung 9 zu Anm. 4) und berührt auch nicht den Eintritt der Unterbrechung der Verjährung und die sonstigen im § 9 KO, vorgesehenen Wirkungen (s. Lehmann-Komm. zur KO., I S. 78).
+Das Berufungsgericht hat schließlich auch mit Recht angenommen, daß die Klage diesfalls nicht zurück-, sondern abzuweisen war; denn hier handelt es sich nicht um die Frage der Handlungsfähigkeit des Gemeinschuldners, sondern um die der passiven Legitimation in einem Prüfungsprozeß zufolge einer von ihm im Konkurs erfolgten Forderungsbestreitung; diese Passivlegitimation haben die Vorinstanzen mit Recht verneint und sind deshalb zur Klagsabweisung gekommen.
+Somit war der Revision der Erfolg zu versagen.

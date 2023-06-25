@@ -1,0 +1,46 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2016
+Geschäftszahl
+7Ob76/16a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei J***** H*****, vertreten durch Dr. Peter Mayerhofer, Rechtsanwalt in Wiener Neustadt, gegen die beklagte Partei W***** AG *****, vertreten durch Dr. Herbert Laimböck, Rechtsanwalt in Wien, wegen 21.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. Februar 2016, GZ 1 R 129/15w-13, womit das Urteil des Handelsgerichts Wien vom 28. Mai 2015, GZ 56 Cg 5/15a-9, bestätigt wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.411,20 EUR (darin enthalten 235,20 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Der Kläger hat beim beklagten Versicherer eine Haushaltsversicherung für sein Reihenhaus abgeschlossen, der die Allgemeinen Bedingungen für Haushaltsversicherungen (ABH) und die Allgemeinen Bedingungen für die Sachversicherung (ABS; Fassung 1995) zugrunde liegen.
+Art 4 ABH lautet auszugsweise:
+„Welche Sicherheitsvorschriften hat der Versicherungsnehmer zu beachten?
+1. Wenn die Versicherungsräumlichkeiten auch nur für kurze Zeit von allen Personen verlassen werden, sind sie zu versperren und Sicherungen, die vertraglich mit Besonderen Bedingungen vereinbart sind, vollständig anzuwenden.
+[…]
+4. Die vorgenannten Sicherheitsvorschriften gelten als vereinbarte Sicherheitsvorschriften im Sinne des Art 3 ABS.
+[...]“
+Art 3 ABS lautet auszugsweise:
+„Sicherheitsvorschriften
+(1) Verletzt der Versicherungsnehmer gesetzliche, behördliche oder vereinbarte Sicherheitsvorschriften [...]
+(2) Der Versicherer ist von der Verpflichtung zur Leistung frei, wenn der Schadenfall nach der Verletzung eintritt und die Verletzung auf Vorsatz oder grober Fahrlässigkeit des Versicherungsnehmers beruht. Die Verpflichtung zur Leistung bleibt bestehen, wenn die Verletzung keinen Einfluss auf den Eintritt des Schadenfalles oder soweit sie keinen Einfluss auf den Umfang der Entschädigung gehabt hat oder [...]“
+Am 25. 6. 2014 drangen ein oder mehrere unbekannte Täter in das von allen Personen verlassene Reihenhaus des Klägers über die Haustür ein. Im Zeitpunkt des Einbruchs war diese lediglich zugezogen („ins Schloss gefallen“), jedoch nicht (mit dem Schlüssel) zugesperrt. Die Haustür war auf der Außenseite mit einem Knauf versehen, sodass sie von außen nicht ohne weiteres geöffnet werden konnte.
+Der Kläger begehrte von der Beklagten 21.000 EUR sA an Wertersatz für gestohlene Gegenstände. Eine Obliegenheitsverletzung nach Art 4.1. ABH liege nicht vor, weil unter „Versperrthalten“ des Objekts zu verstehen sei, dass dieses von der allgemeinen Benützung ausgeschlossen sei.
+Die Beklagte beantragte die Abweisung der Klage. Der Kläger habe die Obliegenheit nach Art 4.1. ABH grob fahrlässig verletzt, weshalb sie leistungsfrei sei. Es sei allgemein bekannt, dass eine lediglich ins Schloss gezogene Tür mit Außenknauf keinen tatsächlichen Einbruchsschutz biete. Ein durchschnittlich verständiger Versicherungsnehmer könne demnach unter dem Begriff „Versperren“ nur verstehen, dass die Haus- oder Wohnungseingangstür tatsächlich durch Betätigen des Schlüssels versperrt werden müsse, sodass der Sperrriegel in die Ausnehmung des Schließblechs fahre.
+Das Erstgericht wies die Klage ab. Nach dem allgemeinen Sprachgebrauch könne das Wort „Versperren“ in Art 4.1. ABH nur als aktive Handlung im Sinn des Umdrehens des Schlüssels im Schloss verstanden werden. Zudem liege der leicht erkennbare – hier bei einer bloß „ins Schloss gefallenen“ Tür nicht verwirklichte – Zweck dieser Bestimmung darin, Einbrechern das Eindringen in die Versicherungsräumlichkeiten zu erschweren. Das Nichtversperren der Tür sei als grob fahrlässig einzustufen; auf ein einmaliges Versehen habe sich der Kläger nicht berufen. Den Kausalitätsgegenbeweis habe er nicht angetreten.
+Das Berufungsgericht bestätigte dieses Urteil und trat der rechtlichen Beurteilung des Erstgerichts bei.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil höchstgerichtliche Rechtsprechung darüber fehle, wann eine Tür als „versperrt“ iSd Art 4.1. AHB anzusehen sei.
+Gegen dieses Urteil richtet sich die Revision des Klägers mit einem Abänderungsantrag; hilfsweise wird ein Aufhebungsantrag gestellt.
+Die Beklagte beantragt in ihrer Revisionsbeantwortung, die Revision zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zur Klarstellung der Rechtslage zulässig, sie ist aber nicht berechtigt.
+1. Nach Art 4.1. ABH sind Versicherungsräumlichkeiten zu versperren, wenn diese auch nur für kurze Zeit von allen Personen verlassen werden. Im Revisionsverfahren ist die Frage zu klären, ob es nach der Bedingungslage zum „Versperren“ bereits ausreicht, den allgemeinen Benützerkreis durch das bloße „Zuziehen“ der auf der Außenseite mit einem Knauf versehenen Haustür auszuschließen, oder ob darüber hinaus die aktive Betätigung des Schließmechanismus erforderlich ist:
+1.1. Nach ständiger Rechtsprechung sind Allgemeine Versicherungsbedingungen entsprechend den Grundsätzen der Vertragsauslegung nach den §§ 914, 915 ABGB auszulegen. Die Auslegung hat sich am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063, RS0112256). Die Klauseln sind, wenn sie - wie hier - nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RIS-Justiz RS0008901). Zu berücksichtigen ist in allen Fällen der einem objektiven Betrachter erkennbare Zweck einer Versicherungsbedingung (RIS-Justiz RS0008901 [T5, T7, T87], RS0050063 [T1, T6]). Bei Unklarheiten findet § 915 ABGB Anwendung. Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RIS-Justiz RS0050063 [T3]).
+1.2. Die Haushaltsversicherung bietet grundsätzlich Versicherungsschutz für die Wohnung im engeren Sinn, also für jene Räume, die der Versicherungsnehmer durch Versperren von der allgemeinen Benützung ausschließt (RIS-Justiz RS0081042). Art 4.1. ABH enthält in diesem Zusammenhang eine Obliegenheit mit dem jedem Versicherungsnehmer erkennbaren Zweck, ein unbefugtes Eindringen unmöglich zu machen oder zumindest erheblich zu erschweren (vgl 7 Ob 239/12s zu einer vergleichbaren Bedingungslage).
+Dieser Zweck kann in Übereinstimmung mit den Vorinstanzen und entgegen der Revision nicht bereits durch das Zuziehen einer Haustür mit einem Knauf auf der Außenseite erreicht werden, bietet dies doch nach allgemeinem Kenntnisstand einen weit geringeren Einbruchsschutz. Erst die aktive Betätigung des Schließmechanismus und die damit einhergehende Sperrfunktion bewirkt, dass ein entsprechendes Fachwissen und/oder deutliche Gewaltanwendung erforderlich ist, um über eine Haustür in die versicherten Räumlichkeiten zu gelangen. Ein durchschnittlich verständiger Versicherungsnehmer geht demnach bei dieser Bedingungslage davon aus, dass ein bloßes Zuziehen einer Haustür mit einem Knauf auf der Außenseite nicht dem geforderten „Versperren“ genügt. „Versperren“ bedeutet schon nach allgemeinem Sprachgebrauch die aktive Betätigung des Schließmechanismus.
+2. Zusammenfassend ist daher festzuhalten:
+Zur Erfüllung der Obliegenheit nach Art 4.1. ABH, beim Verlassen der Versicherungsräumlichkeiten diese zu versperren, reicht es nicht aus, eine Haus- oder Wohnungseingangstür mit einem Knauf auf der Außenseite bloß zuzuziehen. Vielmehr ist die aktive Betätigung des Schließmechanismus erforderlich.
+Nach dem zu beurteilenden Sachverhalt wurde die Haustür bloß zugezogen; der beklagte Versicherer hat demnach die Verletzung der Obliegenheit des Art 4.1. ABH nachgewiesen.
+Daraus folgt die Leistungsfreiheit des Versicherers.
+3. Der Revision war daher ein Erfolg zu versagen.
+4. Die Kostenentscheidung beruht auf den §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00076.16A.0525.000

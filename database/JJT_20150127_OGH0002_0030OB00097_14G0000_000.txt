@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2015
+Geschäftszahl
+3Ob97/14g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek und die Hofräte Univ.-Prof. Dr. Neumayr, Dr. Jensik und Dr. Roch als weitere Richter in der Exekutionssache der betreibenden Partei Dr. K*****, vertreten durch Gheneff - Rami - Sommer Rechtsanwälte OG in Wien, gegen die verpflichtete Partei Dr. W*****, vertreten durch Dr. Johann Eder, Dr. Stefan Knaus und Dr. Cornelia Mazzucco, Rechtsanwälte in Salzburg, wegen Bewilligung der Exekution nach § 355 EO, über den Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Salzburg als Rekursgericht vom 15. April 2014, GZ 53 R 84/14f-8, womit der Beschluss des Bezirksgerichts Salzburg vom 6. Februar 2014, GZ 5 E 6434/13a-4, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs der betreibenden Partei wird zurückgewiesen.
+Die verpflichtete Partei hat die Kosten ihrer Revisionsrekursbeantwortung selbst zu tragen.
+Text
+Begründung:
+Die Beurteilung, die wie ein singulärer Exekutionstitel aufzufassen ist, bildet in der Regel keine erhebliche Rechtsfrage (RIS-Justiz RS0000205 [T13]). In der den Titel bildenden einstweiligen Verfügung vom 16. September 2013 wurde dem Verpflichteten unter anderem aufgetragen, „bis zur rechtskräftigen Erledigung der im Hauptverfahren anhängigen Unterlassungsklage … es zu unterlassen, … d) persönliche Daten der Antragstellerin, insbesondere private E-Mails an Dritte weiterzugeben oder zu verbreiten“.
+Die „Antragstellerin“ ist nun betreibende Partei. Sie begründet ihren Antrag auf Bewilligung der Unterlassungsexekution gemäß § 355 EO damit, dass der Verpflichtete - ungeachtet seiner titelmäßigen Unterlassungs-verpflichtung - am 14. November 2013 freiwillig und ohne dazu aufgefordert worden zu sein, an erhebende Beamte des Landeskriminalamts Niederösterreich zwei Screenshots übergeben habe, die jeweils eine Abbildung der Maske des E-Mail-Programms Microsoft Office Outlook Web Access mit Auszügen des privaten E-Mail-Kontos der betreibenden Partei zeigten.
+Rechtliche Beurteilung
+Nach der Rechtsprechung des Obersten Gerichtshofs werden selbst in die Ehre oder den wirtschaftlichen Ruf des (Prozess-)Gegners eingreifende Parteienbehauptungen im Interesse einer ordnungsgemäßen Rechtspflege als gerechtfertigt angesehen, sofern sie nicht wider besseres Wissen erhoben wurden (RIS-Justiz RS0031798 [T19]); demgemäß bedarf die vom Rekursgericht - im Zusammenhalt mit der Begründung der Titelentscheidung - vorgenommene Auslegung der titelmäßigen Verpflichtung dahin, dass trotz der allgemein gehaltenen Formulierung („private E-Mails an Dritte weiterzugeben“) lediglich die Weitergabe der Daten an „unbefugte Dritte“ (nicht also an die in einem strafrechtlichen Ermittlungsverfahren tätigen Sicherheitsbehörden) verboten sei, keiner Korrektur im Einzelfall. Das Titelgericht hat in der Begründung seiner Entscheidung (Seite 5, Ende des ersten Absatzes) explizit auf das Verbot der Weitergabe privater, im Zusammenhang mit dem (zwischen den Streitparteien bestandenen) Dienstverhältnis erlangter Informationen „an unbefugte Dritte“ hingewiesen.
+Entgegen dem den Obersten Gerichtshof nicht bindenden Zulässigkeitsausspruch des Rekursgerichts ist daher der Revisionsrekurs der betreibenden Partei mangels erheblicher Rechtsfrage zurückzuweisen.
+Die vom Verpflichteten eingebrachte Revisionsrekursbeantwortung ist nicht zu honorieren. Das Rechtsmittelverfahren in Exekutionssachen ist - von hier nicht relevanten Ausnahmen abgesehen - einseitig ausgestaltet (RIS-Justiz RS0116198). Dieser Grundsatz, den die ZVN 2009 (BGBl I 2009/30) ausdrücklich in § 65 Abs 3 EO festgeschrieben hat (3 Ob 185/11v), gilt auch bei der Exekution nach § 355 EO (RIS-Justiz RS0118686 [T2]). Eine schematische Anwendung der auf die Feststellung streitiger Ansprüche im Erkenntnisverfahren zugeschnittenen Verfahrensgarantien des „fair trial“ für Zivilrechtssachen nach Art 6 Abs 1 EMRK würde dem Zweck des Exekutionsverfahrens nicht entsprechen (RIS-Justiz RS0116198 [T2]). Da es nicht auf Tatsachenfragen, sondern auf den Inhalt des Titels und die Behauptungen der betreibenden Partei ankam, war es nicht geboten, dem Verpflichteten im Revisionsrekursverfahren rechtliches Gehör einzuräumen. Seine vor einer Aufforderung durch den Obersten Gerichtshof eingebrachte Revisionsrekurs-beantwortung diente daher nicht der zweckentsprechenden Rechtsverteidigung, weshalb er die Kosten selbst zu tragen hat (in diesem Sinn bereits 3 Ob 32/12w).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00097.14G.0127.000

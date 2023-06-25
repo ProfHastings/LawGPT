@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2015
+Geschäftszahl
+4Ob18/15y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und durch die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei S*****, vertreten durch Dr. Anke Reisch, Rechtsanwältin in Kitzbühel, gegen die beklagte Partei S*****-AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 17.009,50 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 22. Oktober 2014, GZ 4 R 170/14v-43, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.049,04 EUR (darin 174,84 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Vorinstanzen wiesen das Schadenersatzbegehren der Klägerin, die in einem Supermarkt der Beklagten zum Sturz gekommen war, ab, weil nicht erwiesen sei, dass die Beklagte ihre nachvertraglichen Schutzpflichten gegenüber der Klägerin verletzt habe.
+Das Berufungsgericht hat die Revision nachträglich zugelassen, da - im Hinblick auf allfällige Amtshaftungsansprüche - nicht ausgeschlossen werden könne, dass das Berufungsgericht bei seiner Entscheidung, ob der Beklagten eine Verletzung ihrer vertraglichen Verkehrssicherungspflicht vorzuwerfen sei, eine unvertretbare Auffassung eingenommen habe.
+Die Klägerin macht in ihrer Revision als erhebliche Rechtsfrage geltend, dass bei Verletzung einer Schutz- und Sorgfaltspflicht dem Geschädigten der Anscheinsbeweis zugute komme. Der Schädiger habe sodann seine Schuldlosigkeit nach § 1298 ABGB nachzuweisen. Im vorliegenden Fall habe daher die Beklagte die Rutschfestigkeit ihres Bodens sowie das Erfüllen ihrer diesbezüglichen Kontrollpflicht nachzuweisen.
+Damit zeigt die Klägerin jedoch keine erhebliche Rechtsfrage iSv § 502 Abs 1 ZPO auf. Die Revision ist daher, unbeschadet des - den Obersten Gerichtshof nicht bindenden - Zulassungsausspruchs des Berufungsgerichts, nicht zulässig.
+Rechtliche Beurteilung
+1.1. Die Beweislastumkehr des § 1298 ABGB gilt sowohl bei Verletzung einer vertraglichen Nebenverpflichtung als auch bei Verletzung einer vertraglichen Schutz- und Sorgfaltspflicht (RIS-Justiz RS0026540 [T4]). (Nur) bei Nichterfüllung dieser Pflicht tritt gemäß § 1298 ABGB Umkehrung der Beweislast ein (RIS-Justiz RS0023355). Hingegen obliegt der Beweis des Bestehens einer Sorgfaltspflicht und deren Verletzung dem Geschädigten selbst (RIS-Justiz RS0023498 [T9]). Grundsätzlich trifft den Geschädigten auch die Beweislast für den Kausalzusammenhang; dies gilt auch nach § 1298 ABGB. Die Beweislastumkehrung dieser Bestimmung betrifft nur den Verschuldensbereich (RIS-Justiz RS0022686). Sie greift nur Platz, wenn der Geschädigte zunächst beweist, dass der Schädiger objektiv seine Pflicht nicht erfüllt hat. Wenn jedoch ein auch nur objektiv vertragswidriges Verhalten des Schädigers nicht feststellbar ist, kann die Beweislastumkehr nach § 1298 ABGB nur dann angewendet werden, wenn der Geschädigte beweist, dass nach aller Erfahrung die Schadensentstehung auf ein wenigstens objektiv fehlerhaftes (vertragswidriges) Verhalten des Schädigers zurückzuführen ist (RIS-Justiz RS0026290).
+1.2. Im vorliegenden Fall konnte nicht festgestellt werden, dass der Fußboden im Geschäftslokal der Beklagten am Unfallstag einen zu niedrigen Reibungskoeffizient aufwies. Der Klägerin ist daher der ihr obliegende Beweis des Bestehens einer Gefahrenquelle und damit einer Sorgfaltsverletzung der Beklagten nicht gelungen, weshalb keine Pflicht der Beklagten zum Gegenbeweis bestand.
+2.1. Ein Anscheinsbeweis ist nur in der Frage des Kausalzusammenhangs zulässig (RIS-Justiz RS0023778). Der Anscheinsbeweis beruht darauf, dass bestimmte Geschehensabläufe typisch sind und es daher wahrscheinlich ist, dass auch im konkreten Fall ein derartiger gewöhnlicher Ablauf und nicht ein atypischer gegeben ist (RIS-Justiz RS0040266). Es muss ein typischer Erfahrungszusammenhang bestehen (RIS-Justiz RS0040274; RS0039895). Der Anscheinsbeweis darf nicht dazu dienen, Lücken der Beweisführung durch bloße Vermutungen auszufüllen (RIS-Justiz RS0040287). Die Tatsache eines Sturzes allein lässt noch nicht - auch nicht prima facie - auf ein Fehlverhalten schließen (vgl RIS-Justiz RS0111453).
+2.2. Im vorliegenden Fall kommt der Klägerin die Rechtsfigur des Anscheinsbeweises schon deswegen nicht zugute, weil kein zu geringer Gleitkoeffizient des Bodens festgestellt wurde und es somit schon am Ansatz für eine typische, formelhafte Verknüpfung zwischen der Bodenbeschaffenheit und dem Sturz fehlt. Dazu kommt noch, dass die Klägerin schnell unterwegs war und eine abrupte 90°-Drehung vollführte.
+3. Auch der Verweis der Klägerin auf Kodek in Klete?ka/Schauer, ABGB-ON1.01 § 1298 Rz 39 trägt nicht - die dort zum Anscheinsbeweis zitierte Entscheidung 4 Ob 587/81 spricht aus, dass bei feststehender Sorgfaltspflichtverletzung (fehlerhafte Einweisung beim Einfahren in eine Waschstraße) die Schädigerin zu beweisen habe, dass der Einweiser die Fehlstellung nicht erkennen habe können (was ihr in conrecto nicht gelang) - weil es hier eben an der feststehenden Sorgfaltspflichtverletzung mangelt.
+4. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040OB00018.15Y.0422.000

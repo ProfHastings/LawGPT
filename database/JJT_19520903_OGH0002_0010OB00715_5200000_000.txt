@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.09.1952
+Geschäftszahl
+1Ob715/52
+Norm
+EO §353;
+ZPO §458;
+Kopf
+SZ 25/225
+Spruch
+Einstweilige Vorkehrungen auch nach Erlassung des Endbeschlusses bis zu dessen Rechtskraft zulässig; derartige Vorkehrungen sind abgesondert anfechtbar.
+Entscheidung vom 3. September 1952, 1 Ob 715/52.
+I. Instanz: Bezirksgericht Ebreichsdorf; II. Instanz: Kreisgericht Wiener Neustadt.
+Text
+Der Beklagte wurde vom Erstgericht mit Endbeschluß schuldig erkannt, das Fabriksgebäude der klagenden Partei in U. sofort zu räumen und den in seinem Besitz befindlichen Schlüssel der klagenden Partei sofort zu übergeben.
+Da sich der Antragsgegner angeblich weitere Eingriffshandlungen zuschulden kommen ließ, beantragte die gefährdete Partei am 4. Juli 1952 eine einstweilige Verfügung, die am gleichen Tage bewilligt wurde. Über Rekurs des Antragsgegners gegen die einstweilige Verfügung, hat das Rekursgericht den Antrag auf Erlassung einer einstweiligen Verfügung zurückgewiesen.
+Nach der SZ. XXI/130 seien alle einstweiligen Verfügungen, die während der Verhandlung, d. h. während des Verfahrens in einer Besitzstörungssache, erlassen werden, nach den Bestimmungen der §§ 458 und 518 Abs. 2 ZPO. zu beurteilen, auch wenn der Antrag auf die §§ 378 und 381 EO. gegrundet wird. Daraus folge die Unzulässigkeit gegen jede in einem Besitzstörungsverfahren erlassene einstweilige Verfügung.
+Das könnte aber im vorliegenden Fall nicht gelten, weil die angefochtene einstweilige Verfügung, abgesehen davon, daß sie sich ausdrücklich auf § 381 EO. beruft, nach Erlassung des Endbeschlusses erlassen wurde, und es keiner weiteren Darlegung bedürfe, daß die Worte "während der Verhandlung" im § 458 ZPO. nicht so ausdehnend ausgelegt werden können, daß hierunter auch eine Zeit verstanden werde, in der das Verfahren nur mehr - vielleicht - in zweiter Instanz anhängig sei. Das folge schon aus der naheliegenden Erwägung, daß bei gegenteiliger Auffassung im Falle des Unterbleibens eines Rechtsmittels gegen den Endbeschluß eine derartige einstweilige Verfügung überhaupt unanfechtbar wurde und nach ihrer Erlassung auch in keinem Falle ein Bedürfnis bestehen könne, da auf Grund des Endbeschlusses ohnedies schon die Möglichkeit der Exekutionsführung bestehe.
+Der Erstrichter sei daher nach Fällung seiner Endbeschlüsse zur Erlassung einer einstweiligen Verfügung oder Vorkehrung nicht mehr befugt, weshalb in Abänderung des angefochtenen Beschlusses der Antrag auf Erlassung einer einstweiligen Verfügung zurückzuweisen sei.
+Dieser Beschluß wird von der Antragstellerin mit Revisionsrekurs, richtig Rekurs, angefochten.
+Der Oberste Gerichtshof hat den Rekurs als unzulässig zurückgewiesen.
+Rechtliche Beurteilung
+Begründung:
+Das Rekursgericht ist insofern im Recht, als es im Sinne der ständigen Judikatur des Obersten Gerichtshofes die Auffassung vertritt, daß eine während des Besitzstörungsverfahrens erlassene einstweilige Vorkehrung nach § 458 ZPO. zu behandeln sei. Dabei gerät freilich das Rekursgericht mit sich selbst in Widerspruch, indem es an der einen Stelle richtig ausführt, daß es gleichgültig sei, daß der Antrag auf Erlassung einer einstweiligen Verfügung auf die §§ 378, 381 EO. gestützt werde, an einer anderen Stelle dagegen als Argument gegen die Anwendung des § 458 ZPO. sich darauf stützt, daß der Antrag selbst sich ausdrücklich auf § 381 EO. berufen habe.
+Dagegen ist die Auslegung der Worte "während der Verhandlung" in § 458 ZPO. durch das Rekursgericht verfehlt. Obwohl es im Sinne der Judikatur des Obersten Gerichtshofes (vgl. z. B. Entscheidung vom 24. April 1935, RZ. 1935 S. 167) zugibt, daß die Worte "während der Verhandlung" nichts anderes bedeuten, als "während des Verfahrens" will es doch eine einstweilige Vorkehrung nach Erlassung eines Endbeschlusses nicht mehr zulassen, obwohl das Besitzstörungsverfahren nicht mit der Erlassung des Endbeschlusses endet, sondern erst mit der Rechtskraft des Endbeschlusses. Auch während des Rechtsmittelverfahrens dauert das Verfahren fort und es endet nicht einmal mit diesem, wenn das Rechtsmittelgericht den Endbeschluß aufhebt. Das Rekursgericht stützt seine irrige Rechtsauffassung auf zwei Argumente:
+a) Mit der Erlassung des Endbeschlusses erwerbe der Kläger die Möglichkeit, Exekution zu führen. Eine einstweilige Verfügung oder Vorkehrung sei daher überflüssig.
+b) Wenn man eine einstweilige Vorkehrung nach Erlassung des Endbeschlusses zuließe, so wäre sie, wenn der Endbeschluß nicht angefochten werde, überhaupt unanfechtbar.
+Beide Argumente sind unrichtig:
+Ad a) übersieht das Rekursgericht, daß der Endbeschluß nicht durch seine Erlassung, sondern erst nach Eintritt der Rechtskraft vollstreckbar wird, und daß daher das Bedürfnis nach Erlassung einstweiliger Vorkehrungen auch nach Erlassung des Endbeschlusses, solange er nicht rechtskräftig ist, nicht verneint werden kann. Im vorliegenden Fall war im Zeitpunkte der Erlassung der einstweiligen Verfügung (Vorkehrungen) die Rechtskraft noch nicht eingetreten; es durfte daher die Zulässigkeit der begehrten einstweiligen Vorkehrung mit dieser Erwägung nicht verneint werden.
+Ad b) Diese Ausführungen übersehen die Vorschrift des Spruches 215, nach dem ein Beschluß, der an sich abgesondert nicht angefochten werden kann, dann ausnahmsweise doch für sich allein anfechtbar ist, wenn eine weitere anfechtbare Entscheidung in der Sache nicht mehr erfließen kann. Das gilt auch im Besitzstörungsverfahren. Ist der Endbeschluß erlassen, und ergeht ein weiterer Beschluß, diesmal die Erlassung einer einstweiligen Vorkehrung, so ist dieser Beschluß mit Rekurs für sich allein anfechtbar. Alle aus der Unanfechtbarkeit der einstweiligen Verfügung gezogenen Schlußfolgerungen müssen demnach als abwegig bezeichnet werden.
+Die Erwägungen des Rekursgerichtes, die dem erstrichterlichen Beschluß den Charakter einer einstweiligen Vorkehrung abgesprochen haben, sind daher unhaltbar, wobei ganz davon abgesehen wird, daß der Umstand, daß eine einstweilige Vorkehrung nicht erlassen werden darf, nur die prozessuale Folge einer meritalen Abweisung des Antrages als unbegrundet nach sich ziehen kann, die Rechtsmittelinstanz aber nicht dazu berechtigt, den Antrag zurückzuweisen.
+Diese Verstöße des Rekursgerichtes sind aber für die Entscheidung des Obersten Gerichtshofes ohne entscheidende Bedeutung, denn nach § 528 Abs. 1 ZPO. sind Rekurse gegen Entscheidungen des Gerichtes zweiter Instanz in Streitigkeiten wegen Besitzstörungen als unzulässig zurückzuweisen, wobei ein Unterschied zwischen formalen und sachlichen Entscheidungen nicht gemacht werden kann.
+Da nach den obigen Ausführungen der angefochtene Beschluß erster Instanz sich als eine einstweilige Vorkehrung nach § 458 ZPO. qualifiziert, also als einen Beschluß im Besitzstörungsverfahren, so mußte der Rekurs verworfen werden.

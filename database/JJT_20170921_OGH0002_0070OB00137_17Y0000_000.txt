@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.09.2017
+Geschäftszahl
+7Ob137/17y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Dr. K***** M*****, vertreten durch die Breiteneder Rechtsanwalt GmbH in Wien, gegen die beklagte Partei B***** AG, *****, vertreten durch die Binder Grösswang Rechtsanwälte GmbH in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. Mai 2017, GZ 4 R 19/17v-16, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Nach bereits vorliegender Rechtsprechung des Obersten Gerichtshofs ist für die Frage der Verjährung von Ansprüchen aus Beratungsfehlern bei Veranlagungs- und/oder Finanzierungskonzepten, die eine Kombination von Fremdwährungskrediten mit verschiedenen Tilgungsträgern vorsehen, entscheidend, zu welchem Zeitpunkt der Geschädigte erkennt, dass das Gesamtkonzept entgegen den Zusicherungen nicht oder nicht im zugesagten Ausmaß risikolos ist (7 Ob 56/15h, 5 Ob 177/15p mwN; 5 Ob 133/15t = VbR 2016/82 [Kolba]; mwN). Maßgeblich für den Verjährungsbeginn ist also die Kenntnis der Risikoträchtigkeit des gesamten Modells. Die spezifischen Risiken, die diese Risikoträchtigkeit bedingen (Wechselkurs, Zinsentwicklung, Entwicklung des Tilgungsträgers), stehen nach der Interessenlage eines durchschnittlichen Anlegers in einem derart engen Zusammenhang, dass die unterbliebene oder fehlerhafte Aufklärung über die einzelnen Teilaspekte verjährungsrechtlich jeweils als unselbständiger Bestandteil eines einheitlichen Beratungsfehlers zu qualifizieren ist (5 Ob 133/15t = VbR 2016/82 [Kolba]).
+2. Im Informationsschreiben der Beklagten vom 20. 9. 2012 wurde (neuerlich) eindringlich auf die besonderen Risiken der Fremdwährungsfinanzierung und ausdrücklich darauf hingewiesen, dass „bei Fortsetzung der derzeitigen ungünstigen Ertragsentwicklung der Ansparprodukte und gleichbleibender Ansparleistung aus heutiger Sicht eine vollständige Kreditabdeckung aus den Ansparprodukten am Ende der Laufzeit nicht möglich (ist). Dieses Risiko kann sich durch die Finanzierung in Fremdwährungen noch beträchtlich erhöhen“. Weiters wurden dem Kläger in diesem Schreiben verschiedene risikobegrenzende Maßnahmen und die Kontaktaufnahme mit dem Kundenbetreuer vorgeschlagen. Die inhaltlich unstrittigen Kreditkontoauszüge per 30. 6. 2012 hatten bereits einen Kursverlust (EUR/CHF) von mehr als 22 % ausgewiesen. Die Rechtsansicht des Berufungsgerichts, dass dem Kläger, der behauptet, eine sichere Investition gewünscht zu haben, jedenfalls mit dem Schreiben vom 20. 9. 2012 im Zusammenhalt mit dem bereits durch die Kreditkontoauszüge ausgewiesenen Kursverlust die Risikoträchtigkeit des Finanzierungskonzepts erkennbar gewesen sein musste und damit der Lauf der Verjährungsfrist begonnen habe, hält sich im Rahmen der Rechtsprechung.
+3. Die weitere Rechtsansicht des Berufungsgerichts, dass die angeblich unterbliebene Aufklärung des Klägers über das von ihm so bezeichnete „Worst-Case-Szenario“ (Möglichkeit der Rückzahlungspflicht in der Höhe des Zwei- bis Dreifachen „des ursprünglichen Betrags“ und Totalverlust des Tilgungsträgers) verjährungsrechtlich keine gesonderte Rolle spiele, ist beim vorliegenden Finanzierungskonzept ebenfalls durch die eingangs bezeichnete Rechtsprechung gedeckt.
+4. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision unzulässig und daher zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00137.17Y.0921.000

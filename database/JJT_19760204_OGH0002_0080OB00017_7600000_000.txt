@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.02.1976
+Geschäftszahl
+8Ob17/76
+Norm
+Versicherungsvertragsgesetz §67;
+Kopf
+SZ 49/18
+Spruch
+Gesetzt der Versicherer dem Versicherungsnehmer nur einen Teil des Schadens, so hat der Versicherungsnehmer gegenüber dem Schädiger in Ansehung seines noch ungedeckten Restschadens den Vorrang vor dem Versicherer, während der auf den Versicherer übergegangene Teil der Forderung dem beim Versicherten gebliebenen Ersatzanspruch im Range nachgeht. Der Versicherer übernimmt die Forderung seines Versicherungsnehmers gegen den Dritten mit allen Nachteilen und muß insbesondere auch die Aufrechnungslage hinsichtlich des übergangenen Anspruches gegen sich gelten lassen
+OGH 4. Feber 1976, 8 Ob 17/76 (LGfZRS Wien 42 R 543/75; BG Floridsdorf 5 C 486/74)
+Text
+Am 12. April 1974 ereignete sich in Wien ein Verkehrsunfall, an dem der Kläger als Lenker und Halter des PKW, Renault, W ....., sowie der Erstbeklagte als Lenker und Halter des bei der Zweitbeklagten haftpflichtversicherten VW-Bus W ..... beteiligt waren.
+Der Kläger begehrte die Bezahlung seiner Reparaturkosten von 8 344.23 S und schränkte dieses Begehren in der mündlichen Streitverhandlung vom 13. September 1974 auf den nach teilweiser Zahlung der Reparaturkosten durch seinen Kaskoversicherer noch offenen Selbstbehalt in der Höhe von 2.175 S samt Anhang ein. Die Beklagten bestritten das Klagsvorbringen und stellten hilfweise dem Schadenersatzanspruch des Klägers aufrechnungsweise den mit 10.116 S bezifferten Schaden am Fahrzeug des Erstbeklagten entgegen.
+Das Erstgericht erkannte, ausgehend von einer Verschuldensteilung im Verhältnis von 2: 1 zum Nachteil der Beklagten, die Klagsforderung als mit 1.450 S samt Anhang zu Recht, die Gegenforderung als mit 3.372 S samt Anhang als zu Recht bestehend und gelangte so zur Abweisung des Klagebegehrens.
+Das Berufungsgericht gab der lediglich vom Kläger erhobenen Berufung Folge und änderte das Ersturteil dahin ab, daß es - ausgehend vom Alleinverschulden des Erstbeklagten - den Anspruch mit 2.175 S als zu Recht, die Gegenforderung bis zu dieser Höhe als nicht zu Recht bestehend erkannte und dem Klagebegehren daher stattgab.
+Der Oberste Gerichtshof gab der Revision der Beklagten keine Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die von der Revision allein ventilierte Frage, ob - wie die zweite - Instanz annahm - den Erstbeklagten das Alleinverschulden trifft, oder ob das Verschulden - wie die Revision meint - im Verhältnis von 2 : 1 zu Lasten der Beklagten zu teilen ist, ist für die Beurteilung der vorliegenden Rechtssache nicht entscheidend. Auch bei Annahme eines Mitverschuldens des Klägers von einem Drittel ist der geltend gemachte Anspruch aus folgenden Erwägungen berechtigt: Es ist davon auszugehen, daß der Schaden des Klägers 8 344.23 S beträgt, wovon der Kaskoversicherer ihm den Teilbetrag von 6 169.23 S entrichtete, so daß der eingeschränkte Klagsbetrag von 2.175 S unberichtigt aushaftet. Was nun die Anrechnung der Leistung, die der Kläger von seiner Kaskoversicherung erhalten hat, anlangt, ist in Bezug auf die Anwendung der Bestimmungen des § 67 Abs. 1 VersVG nach nunmehr herrschender Lehre (Prölss - Martin[20], 379, Anm. 4 B; Ehrenzweig, Versicherungsvertragsrecht, 287; Bruck - Müller, Komm. z. VersVG 8 II, Liefg. 2 c, 738) und Rechtsprechung (VersR 1969, 385 - unter Ablehnung der in der Entscheidung SZ 33/145 zum Ausdruck gebrachten Rechtsansicht - VersR 1963, 75; VersR 1959, 986; BGH 13. März 1954, BGHZ 13, 28; BGH 30. September 1957, BGHZ 25, 340; 8 Ob 243/75, 7 Ob 262/75 u. a.) von der sogenannten Differenztheorie (= quotenvorrecht des Versicherungsnehmers) auszugehen. Ersetzt der Versicherer dem Versicherungsnehmer nur einen Teil des Schadens (z. B. beim Selbstbehalt der Kaskoversicherung), so bleibt der Versicherungsnehmer Gläubiger des Schadenersatzanspruches in der Höhe des Unterschiedes zwischen seinem Schaden und der erhaltenen Versicherungsleistung. Er hat in Ansehung seines noch ungedeckten Restschadens den Vorrang vor dem Versicherer, während der auf den Versicherer übergegangene Teil der Forderung dem beim Versicherten gebliebenen Ersatzanspruch im Range nachgeht (8 Ob 243/75, 7 Ob 262/75). Der Versicherer übernimmt die Forderung seines Versicherungsnehmers gegen den Dritten mit allen Nachteilen und muß insbesondere auch die Aufrechnungslage hinsichtlich des übergegangenen Anspruches gegen sich gelten lassen (Bruck - Müller, 752). Die Rechtfertigung der Differenztheorie liegt in der modernen Auffassung vom Wesen der Assekuranz. Diese will dem Geschädigten eine vorrangige Sicherung für den Ersatz etwaigen Schadens verschaffen, die - nur im Bereicherungsverbot ihre Grenze findet. Die Lücke zwischen Schaden und Schadenersatzanspruch soll daher nicht der Versicherungsnehmer fühlen, sondern der Versicherer, der für seine Leistung in Gestalt der Prämie bezahlt worden ist und daher seine Entschädigung zu erbringen hat, ohne Rücksicht darauf, ob und in welcher Höhe er einen Regreßanspruch gewinnt. Hiebei ist es völlig gleich, ob der Versicherungsnehmer zuerst den Dritten belangt und dann seinen Versicherer oder umgekehrt (Bruck - Müller, 738).
+Die Anwendung der dargelegten Rechtssätze auf den vorliegenden Fall führen bei Annahme des von der Revision angestrebten Mitverschuldens des Klägers von einem Drittel zu folgendem Ergebnis:
+Schaden des Klägers ........................................ 8344.23
+S abzüglich eines Drittels (infolge Mitverschuldens des Klägers)
+...................... 2781.41 S ergibt
+..................................................... 5562.82 S
+abzüglich eines Drittels der Gegenforderung von 10 116 S
+................................ 3372,-  S ergibt
+..................................................... 2190.82 S
+Da dieser Betrag von 2190.82 S, für den die Beklagten auch unter der Annahme eines Mitverschuldens des Klägers von einem Drittel und bei Berücksichtigung des dementsprechenden Teiles ihrer Gegenforderung aus dem Schadensfall zu haften haben, den dem Kläger von seiner Kaskoversicherung nicht gedeckten Schadensteilbetrag von 2175 S übersteigt, ist er diesen selbst unter Annahme eines Mitverschuldens von einem Drittel von den Beklagten zu fordern berechtigt.

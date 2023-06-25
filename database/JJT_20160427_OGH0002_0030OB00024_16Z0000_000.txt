@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+3Ob24/16z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei F*****, vertreten durch GKP Gabl Kogler Leitner Stöglehner Bodingbauer Rechtsanwälte OG in Linz, gegen die beklagte Partei B***** GmbH, *****, vertreten durch Saxinger Chalupsky & Partner Rechtsanwälte GmbH in Linz, sowie der Nebenintervenientinnen auf Seiten der beklagten Partei 1. P***** GmbH, *****, vertreten durch Dr. Michael Buresch, Mag. Dr. Ilse Korenjak, Rechtsanwälte in Wien, 2. K***** KG, *****, vertreten durch Karasek Wietrzyk Rechtsanwälte GmbH in Wien, und 3. S***** GmbH, *****, vertreten durch Dr. Filip Sternberg, Rechtsanwalt in Wien, wegen 67.650 EUR sA und Feststellung (Streitwert 7.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 9. Dezember 2015, GZ 13 R 90/15y-38, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte beauftragte die Zweitnebenintervenientin als Generalunternehmerin mit der Abtragung einer Industrieanlage. Zur Durchführung bestimmter Arbeiten bediente sich diese eines Subunternehmens, bei dem der Kläger beschäftigt war. Im Zuge der Arbeiten betrat der Kläger eine Gitterrosttafel, die kippte, sodass er etwa sechs Meter in die Tiefe stürzte und sich schwer verletzte.
+Die Vorinstanzen wiesen die Schadenersatzklage (Schmerzengeld ua sowie die Feststellung der Haftung der Beklagten für zukünftige Unfallfolgen) mangels haftungsbegründenden Fehlverhaltens der Beklagten, die die Arbeiten einer Generalunternehmerin übertragen und überdies eine Baustellenkoordinatorin bestellt habe, ab. Dass nicht habe festgestellt werden können, dass die „korrekte Weiterleitung des Tags zuvor festgestellten Sicherheitsmangels“ zu einem anderen Verhalten als dem von einem Mitarbeiter der Generalunternehmerin tatsächlich gesetzten geführt hätte, gehe zu Lasten des mit dem Kausalitätsbeweis belasteten Geschädigten.
+Rechtliche Beurteilung
+Der Kläger, der mit seiner außerordentlichen Revision sein Schadenersatzbegehren weiter verfolgt, zeigt keine erheblichen Rechtsfragen im Sinn des § 502 Abs 1 ZPO auf.
+Die Frage, ob der gemäß § 7 BauKG zu erstellende Sicherheits- und Gesundheitsschutzplan eine Schutznorm im Sinn des § 1311 ABGB bildet, ist vorliegend nicht zu beantworten. Selbst wenn dies zuträfe, wäre für den Kläger nichts gewonnen.
+Bei Verletzung eines Schutzgesetzes fordert die ständige Rechtsprechung zwar keinen strengen Beweis des Kausalzusammenhangs (RIS-Justiz RS0027640, RS0027462); spricht doch in diesen Fällen der Beweis des ersten Anscheins dafür, dass der von der Norm zu verhindernde Schaden durch das verbotene Verhalten verursacht wurde. Es obliegt dann dem Beklagten, die Kausalität der Pflichtwidrigkeit - durch Außerkraftsetzung des ihn belastenden Anscheinsbeweises -ernstlich zweifelhaft zu machen (RIS-Justiz RS0022599 [T3]; vgl RS0022474). Die Frage, ob der Anscheinsbeweis im konkreten Einzelfall erbracht werden konnte oder nicht, ist aber als eine reine Frage der Beweiswürdigung nicht revisibel (6 Ob 303/05k mwN; RIS-Justiz RS0040196 [T14; T16 bis T18]).
+Dass die korrekte Weiterleitung des am Vortag festgestellten Sicherheitsmangels zu einem anderen Verhalten als dem tatsächlich vom Mitarbeiter der Generalunternehmerin gesetzten geführt hätte, konnte das Erstgericht nicht feststellen; jedenfalls ist dies - wie sich aus den Ausführungen in der Beweiswürdigung und in der rechtlichen Beurteilung ergibt - so zu verstehen (und wurde vom Berufungsgericht auch so verstanden), dass zumindest ein allfälliger Beweis des ersten Anscheins erschüttert - wenn nicht ohnehin das Gegenteil der klägerischen Kausalitätsbehauptung festgestellt - wurde.
+Im Zusammenhang mit der weiteren Feststellung der Vorinstanzen, dass die am Vortag ausgeführte Reparatur der Gitterrosttafel (Wiederherstellung der ursprünglichen Befestigungsverschraubungen) dem üblichen technischen Standard entsprach, fehlt daher die Feststellung der Schadensverursachung als Voraussetzung für den erhobenen Schadenersatzanspruch.
+Im Übrigen ist darauf zu verweisen, dass die Beklagte als Bauherrin keine Gehilfenhaftung trifft, wenn sie - wie hier - einen Baustellenkoordinator bestellt hat, weil dieser eigenverantwortlich eigene gesetzliche Pflichten erfüllt, sie aber nur mehr für hier nicht geltend gemachtes Auswahlverschulden haftet (RIS-Justiz RS0015253). Außerdem trifft die Fürsorgepflicht des Werkbestellers im Grundsätzlichen nicht mehr ihn, sondern den Generalunternehmer, wenn er mit den Bauarbeiten einen solchen beauftragt hat und damit seine Mitwirkungspflichten weitestgehend auf den Generalunternehmer übertrug. Dieser haftet dem Subunternehmer und dessen Leuten aus dem Werkvertrag für die schuldhafte Verletzung der Fürsorgepflicht durch seine Leute nach § 1313a ABGB (1 Ob 306/99b).
+Die außerordentliche Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00024.16Z.0427.000

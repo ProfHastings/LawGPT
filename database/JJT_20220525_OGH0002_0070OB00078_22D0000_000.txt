@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+7Ob78/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Sole als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Parteien 1. Dr. M* M*, 2. Dr. E* M*, vertreten durch Dr. Martin Divitschek und andere, Rechtsanwälte in Deutschlandsberg, gegen die beklagte Partei L*, vertreten durch Dr. Edwin Mächler, und andere Rechtsanwälte in Graz, wegen Löschung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 3. März 2022, GZ 3 R 169/21d-68, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1 Dienstbarkeiten verjähren durch bloßen Nichtgebrauch gewöhnlich in 30 Jahren (§ 1479 ABGB). Eine Dienstbarkeit gilt schon dann als ausgeübt, wenn der Berechtigte Handlungen vornimmt, zu denen er nur befugt ist, weil ihm die Dienstbarkeit zusteht, wenn sie auch nur einen kleinen Teil der ihm zustehenden Befugnisse darstellen (RS0034136). Dies gilt nach § 1482 ABGB aber dann nicht, wenn die eingeschränkte Ausübung aufgrund der Untersagung oder Hinderung durch den verpflichteten Grundeigentümer erfolgt.
+[2] 		1.2.1 § 1488 ABGB verkürzt dann den Zeitraum auf drei aufeinanderfolgende Jahre, wenn sich der Verpflichtete über die gesamte Zeit der Ausübung der Dienstbarkeit widersetzt und der Berechtigte sein Recht, ohne richterliche Hilfe in Anspruch zu nehmen, nicht geltend macht („Freiheitsersitzung“) (RS0034333). Die Freiheitsersitzung nach § 1488 ABGB ist ein Fall der Verjährung einer bestehenden Dienstbarkeit und erfolgt durch die Inanspruchnahme des Vollrechts durch den Eigentümer der belasteten Liegenschaft in Verbindung mit einer manifesten Beeinträchtigung des Servitutsrechts durch ein Hindernis für eine umfassende Ausübung der Dienstbarkeit (RS0034288; RS0037141; 4 Ob 184/19s).
+[3] 		1.2.2 Die Freiheitserzsitzung kann auch zur Einschränkung der Dienstbarkeit führen (RS0034281). Die Einschränkung kann sich auf die räumliche Ausdehnung, auf den sachlichen Umfang (zB Gehrecht statt Fahrrecht), aber auch auf den Zeitraum der Ausübung beziehen (RS0034281 [T6]; 1 Ob 95/19f mwN).
+[4] 		1.3 Die vom Beklagten angesprochene Divergenz in der oberstgerichtlichen Rechtsprechung zur Sevitutsverjährung alleine durch Nichtgebrauch und zur Freiheitserzsitzung in Bezug auf den Umfang der Ausübung, um einen Verlust des Rechts hintanzuhalten, liegt nicht vor, weil beim Rechtsverlust nach § 1488 ABGB zum bloßen Nichtgebrauch durch den Sevitutsberechtigten noch ein weiteres Moment hinzutritt. Er bleibt passiv, obwohl sich der Verpflichtete der Servitutsausübung widersetzt hat. Die kurze Verjährung des § 1488 ABGB hat in dieser Situation vor allem den Zweck, die rasche Klärung einer strittigen Rechtslage herbeizuführen.
+[5] 		2.1 Ob sich der verpflichtete Teil der Ausübung einer Sevitut im Sinn des § 1488 ABGB widersetzt, ist nach den Umständen des Einzelfalls zu beurteilen (RS0034288 [T2]; RS0034241 [T9]).
+[6] 		2.2 Die Rechtsvorgänger der Kläger stellten zumindest zwischen 1986 und 1994 am Weggrundstück fest mit dem Boden verbundene Dreiecksständer auf. Der Abstand zwischen den Dreiecksständern betrug 2 m, sodass ein Passieren der beiden Hindernisse nur für einspurige Fahrzeuge sowie für mehrspurige Fahrzeuge mit einer Breite bis 1,80 m und einer Länge bis 4,30 m möglich war.
+[7] 		2.3 Den festgestellten Sachverhalt beurteilten die Vorinstanzen dahin, dass sich die Servitutsverpflichteten über drei Jahre der Ausübung des Wegerechts, soweit es ein Fahrrecht für mehrspurige Fahrzeuge über 1,8 m Breite und 4,3 m Länge beinhaltete widersetzt hätten, nicht aber dem „übrigen“ Wegerecht (Gehrecht und Fahrrecht mit ein- oder mehrspurigen Fahrzeugen bis zu einer Breite von 1,8 m und einer Länge von 4,3 m), sodass eine entsprechende Einschränkung vorzunehmen gewesen sei. Diese Beurteilung hält sich im Rahmen der oberstgerichtlichen Rechtsprechung (vgl 1 Ob 95/19f).
+[8] 		2.4 Soweit der Beklagte meint, es seien nicht durchgehend zwei Dreiecksständer aufgestellt gewesen, entfernt er sich von den erstgerichtlichen Tatsachenfeststellungen.
+[9] 		2.5 Auch der Einwand der Beklagten, ein ihm zurechenbarer Nutzer habe mit einem PKW VW Golf über einen Zeitraum von 10 bis 15 Jahren insgesamt fünf oder sechs Mal den Weg befahren, ändert nichts. Es konnte nicht festgestellt werden, wann der Nutzer den Weg genau befuhr. Sollte sein Fahrzeug breiter als 1,8 m gewesen sein, so kann dies nicht zwischen 1986 und 1994 erfolgt sein, wäre es schmäler gewesen, wäre auch ein Befahren im genannten Zeitraum irrelevant, weil die Rechtsausübung sich dann innerhalb der trotz Widerstand der Servitutsverpflichteten weiter möglichen Nutzung bewegt hätte.
+[10] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00078.22D.0525.000

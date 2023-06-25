@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.08.2021
+Geschäftszahl
+8ObA43/21p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Mag. Dr. Johanna Biereder (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei L*****, vertreten durch Schmidberger-Kassmannhuber-Schwager Rechtsanwalts-Partnerschaft in Steyr, gegen die beklagte Partei T***** GmbH, *****, vertreten durch Bruckmüller RechtsanwaltsgmbH in Linz, wegen 2.292,42 EUR brutto sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 17. Mai 2021, GZ 11 Ra 29/21w-13, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die Zurückweisung der außerordentlichen Revision der Klägerin wegen Fehlens einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO), zumal der Oberste Gerichtshof erst jüngst in der Entscheidung 9 ObA 68/21x die auch für den vorliegenden Sachverhalt einschlägige Rechtsprechung bekräftigt und ausgeführt hat:
+„1.1 Art IV Z 1 des anzuwendenden Arbeiterkollektivvertrags für das Gewerbe der Arbeitskräfteüberlassung (im Folgenden nur: 'Kollektivvertrag'), nach dem der erste Monat als Probemonat gilt, wurde vom Obersten Gerichtshof bereits dahin ausgelegt, dass eine Probezeit mangels Einschränkung auf ein 'erstes' Arbeitsverhältnis auch bei jedem neuen Arbeitsverhältnis zum Tragen kommt (8 ObA 42/05t in Ablehnung der Meinung Schindlers, Arbeitskräfteüberlassungs-Kollektivvertrag, [zuletzt] 2018, 123 f; siehe auch 9 ObA 11/16g zu einer vergleichbaren Regelung im Kollektivvertrag für Arbeiterinnen/Arbeiter in der Denkmal-, Fassaden- und Gebäudereinigung, im sonstigen Reinigungsgewerbe und in Hausbetreuungstätigkeiten).
+1.2 Bei wiederholter Beschäftigung gilt daher kraft Kollektivvertrags grundsätzlich eine neue Probezeit (Schrattbauer, AÜG Kommentar [2020] § 11 Rz 51; Rothe, Arbeiter- und Angestellten-KV Arbeitskräfteüberlassung4, Art IV Rz 8).
+2.1 Die neuerliche Probezeit im zweiten Arbeitsverhältnis setzt keinen besonderen sachlichen Grund voraus. § 11 Abs 2 Z 4 AÜG, der die Befristung eines Arbeitsverhältnisses ohne sachliche Rechtfertigung für unzulässig ansieht, bezieht sich nur auf 'vertragliche' Vereinbarungen, nicht aber auf die von Art IV Z 1 des Kollektivvertrags normierte Probezeit (8 ObA 42/05t).
+2.2 Auch außerhalb des Anwendungsbereichs des Kollektivvertrags geht die ständige Rechtsprechung davon aus, dass es den Parteien selbst dann, wenn zwischen ihnen vorher bereits ein Dienstverhältnis bestanden hat, grundsätzlich frei steht, zu Beginn eines weiteren Arbeitsverhältnisses eine Probezeit zu vereinbaren (9 ObA 11/16g; RS0028216; Krejci in Rummel, ABGB3 § 1159c Rz 25).
+2.3 Die Grenze für die Zulässigkeit einer Probezeit im zweiten Arbeitsverhältnis ist aber immer dort zu ziehen, wo unter den gegebenen Umständen eine Umgehung arbeitsrechtlicher Schutzvorschriften zu befürchten ist, beispielsweise etwa die systematische Auflösung von Arbeitsverhältnissen in der Probezeit vorgenommen wird, um sie dann erneut zu begründen (8 ObA 42/05t; 9 ObA 68/12h; Schrattbauer, AÜG Kommentar [2020] § 11 Rz 51; Rauch, Probezeit bei weiteren Arbeitsverhältnissen, ASok 2011, 347 [349]).“
+[2] 		3. Mit dieser Rechtsprechung steht die Rechtsansicht des Berufungsgerichts in Einklang, dass es einer sachlichen Rechtfertigung der (hier nicht nur vereinbarten, sondern auch) kollektivvertraglich angeordneten Probezeit für die neuerliche Beschäftigung nicht bedurfte.
+[3] 		4. Ob für einen Rechtsmissbrauch ausreichende Anhaltspunkte gegeben sind, kann nur nach den jeweiligen Umständen des Einzelfalls beurteilt werden. Selbst unter Anlegung eines strengen Maßstabs bei der Prüfung rechtsmissbräuchlicher Vorgangsweisen (Schrattbauer, AÜG Kommentar [2020] § 11 Rz 51) stellt es keine Überschreitung des Ermessensspielraums dar, wenn die Vorinstanzen im vorliegenden Fall dafür keine ausreichenden Anhaltspunkte angenommen haben. Aus dem Umstand allein, dass das erste Arbeitsverhältnis im Zuge der ersten Welle der Coronapandemie am 31. 3. 2020 einvernehmlich aufgelöst und (schon) mit 18. 6. 2020 ein neues Arbeitsverhältnis begründet wurde, kann ein Rechtsmissbrauch noch nicht abgeleitet werden, auch wenn die Klägerin bei demselben Beschäftigerbetrieb am identen Arbeitsplatz eingesetzt war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:008OBA00043.21P.0803.000

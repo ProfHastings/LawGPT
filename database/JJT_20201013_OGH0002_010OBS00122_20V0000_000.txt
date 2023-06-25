@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.10.2020
+Geschäftszahl
+10ObS122/20v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter Mag. Martin Lotz (aus dem Kreis der Arbeitgeber) und Nicolai Wohlmuth (aus dem Kreis der Arbeitnehmer) als weitere Richter in den verbundenen Sozialrechtssachen der klagenden Parteien 1. M***** und 2. S*****, beide *****, beide vertreten durch Putz-Haas & Riehs-Hilbert Rechtsanwälte OG in Wien, gegen die beklagte Partei Österreichische Gesundheitskasse, 1030 Wien, Haidingergasse 1, vertreten durch Dr. Heinz Edelmann, Rechtsanwalt in Wien, wegen Kinderbetreuungsgeld, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 27. Juli 2020, GZ 10 Rs 64/20k-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 24a Abs 4 KBGG reduziert sich der Anspruch auf Kinderbetreuungsgeld für jeden Elternteil um 1.300 EUR, wenn die in § 24c KBGG vorgesehenen Mutter-Kind-Pass-Untersuchungen nicht bis zu den vorgesehenen Zeitpunkten nachgewiesen werden.
+[2] 		2. Die Frage, ob der das Kinderbetreuungsgeld beziehende Elternteil den nicht rechtzeitigen Nachweis einer Mutter-Kind-Pass-Untersuchung zu vertreten hat, hängt von den Umständen des Einzelfalls ab (RIS-Justiz RS0130213 [T2]). Diese Frage bildet daher in der Regel keine die Zulässigkeit der Revision begründende Rechtsfrage.
+[3] 		3. Die Vorinstanzen haben die bisherige Rechtsprechung zu der Frage, ob der das Kinderbetreuungsgeld beziehende Elternteil den nicht rechtzeitigen Nachweis einer Mutter-Kind-Pass-Untersuchung zu vertreten hat, zutreffend wiedergegeben. Ausschlaggebend ist, dass die Gründe, die den Nachweis verhindern, vom beziehenden Elternteil nicht zu vertreten sind und diesem kein rechtlich relevanter Vorwurf im Sinne des § 24c Abs 2 Z 1 KBGG gemacht werden kann (10 ObS 15/20h mwN).
+[4] 		4. Das Berufungsgericht hat die in der Entscheidung 10 ObS 88/16p SSV-NF 30/53 getroffene Aussage, auch das Nichteinlangen des über die Österreichische Post AG abgeschickten Nachweises über die durchgeführte Untersuchung beim Versicherungsträger sei dem beziehenden Elternteil nicht vorwerfbar, auf den vorliegenden Fall sinngemäß anwendbar erachtet. Es ist davon ausgegangen, dass die Übergabe eines Poststücks an eine interne Postabteilung des Arbeitgebers durch den Erstkläger (samt dem Ersuchen der Zweitklägerin an den Erstkläger um Übermittlung) zwar nicht unmittelbar vergleichbar mit einer Postaufgabe bei der Österreichischen Post AG sei. Infolge der standardisierten Abläufe in der Poststelle sei jedoch anzunehmen gewesen, dass die dort zur Post gegebenen Stücke an die Österreichische Post AG weiterbefördert werden. Die Ansicht, die Kläger hätten dadurch in ausreichender Weise für die Erfüllung ihrer Nachweisobliegenheit Sorge getragen, sodass der Nichtzugang der Untersuchungsbestätigung von ihnen nicht zu vertreten sei, hält sich innerhalb des den Gerichten offen stehenden Beurteilungsspielraums und begründet keine vom Obersten Gerichtshof im Einzelfall aufzugreifende Fehlbeurteilung.
+[5] 		5. Wenngleich die Gesetzesmaterialien zu § 26a KBGG die Einbringungsarten „persönlich, postalisch oder online per elektronischer Signatur/FinanzOnline“ anführen (ErläutRV 2336 BlgNR 24. GP 2), findet sich im Gesetz selbst (§ 7 KBGG) keine Regelung, nach der nur diese Einbringungsarten zulässig sein sollten.
+[6] 		Die Revision ist daher mangels Geltendmachung einer Rechtsfrage der Qualität des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:010OBS00122.20V.1013.000

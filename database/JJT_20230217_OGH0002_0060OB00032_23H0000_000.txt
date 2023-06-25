@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2023
+Geschäftszahl
+6Ob32/23h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei A* M*, geboren am *, vertreten durch Mag. Alexander Tupy, Rechtsanwalt in Wien, gegen die beklagte Partei N* Limited, *, Malta, vertreten durch Mag. Marcus Marakovics, Rechtsanwalt in Wien, wegen 33.630 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 15. Dezember 2022, GZ 4 R 208/22y-15, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte bietet von ihrem Sitz in Malta aus über die von ihr betriebene Website Dienstleistungen im Bereich des Glücksspiels an. Sie verfügt jedoch über keine Konzession nach dem österreichischen Glücksspielrecht. Der Kläger nahm an von der Beklagten veranstalteten Online-Glücksspielen teil und erlitt im Zeitraum April 2020 bis Juli 2021 einen Wettspielverlust in Höhe des Klagsbetrags.
+[2] 		Die Vorinstanzen gaben der auf die Unwirksamkeit der Glücksspielverträge gestützten und die Rückzahlung der erlittenen Verluste gerichteten Klage statt.
+Rechtliche Beurteilung
+[3] 		Die dagegen erhobene außerordentliche Revision der Beklagten zeigt keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+[4] 		1. Verbotene Spiele erzeugen nicht einmal eine Naturalobligation. Der Verlierer kann nach gefestigter Rechtsprechung die gezahlte Wett- oder Spielschuld zurückfordern, ohne dass dem die Bestimmung des § 1174 Abs 1 Satz 1 ABGB oder § 1432 ABGB entgegenstünde, weil die Leistung nicht „zur Bewirkung“ der unerlaubten Handlung, sondern als „Einsatz“ erbracht wurde. Den Rückforderungsanspruch zu verweigern, widerspräche dem Zweck der Glücksspielverbote (6 Ob 50/22d [Rz 19]; 1 Ob 182/22d [Rz 7]; 7 Ob 102/22h [Rz 4]; RS0025607 [T1]). Damit ist § 1174 Abs 1 Satz 1 ABGB schon seinem Wortlaut nach nicht anwendbar. Darauf, ob der Spieler durch die Teilnahme am verbotenen Spiel einen Verwaltungsstraftatbestand erfüllt, konkret § 52 Abs 5 GSpG, kommt es daher nicht an (6 Ob 50/22d [Rz 20]; 1 Ob 182/22d [Rz 9]; 2 Ob 171/22v [Rz 3]; 7 Ob 102/22h [Rz 5]).
+[5] 		2. Es wurde bereits mehrmals vom Obersten Gerichtshof erläutert, dass der Verbotszweck die Rückabwicklung erfordert (6 Ob 207/21s [Rz 15]; 9 Ob 79/21i [Rz 15]), wenn sich das Verbot – wie hier – gegen den Leistungsaustausch an sich wendet und es den Schutz der Spieler bewirken soll (6 Ob 229/21a [Rz 23]; 9 Ob 79/21i [Rz 15]). Im Hinblick auf die Zielsetzung des Glücksspielgesetzes wird der Rückforderungsanspruch des Spielers nach gefestigter Rechtsprechung des Obersten Gerichtshofs durch die Kenntnis des Leistenden von der Nichtschuld nicht ausgeschlossen (6 Ob 229/21a [Rz 23]; 6 Ob 207/21s [Rz 15]; 9 Ob 79/21i [Rz 15]; 2 Ob 17/22x [Rz 8 f]). Vielmehr besteht der Rückforderungsanspruch des Spielteilnehmers auch dann, wenn ihm die Ungültigkeit seiner Verpflichtung bekannt war (1 Ob 52/22m [Rz 10]; vgl auch 6 Ob 200/22p).
+[6] 		3. Dass deutsche Amts- und Landgerichte unter Zugrundelegung der deutschen Rechtslage (§ 817 Satz 2 BGB) allenfalls eine Rückforderung ausgeschlossen haben, bietet keine Grundlage dafür, von der ständigen Rechtsprechung des Obersten Gerichtshofs zur österreichischen Rechtslage abzugehen (1 Ob 182/22d [Rz 11]; 9 Ob 54/22i [Rz 16]).
+[7] 		4. Der Oberste Gerichtshof geht – im Einklang mit der Rechtsprechung der beiden anderen österreichischen Höchstgerichte – in ständiger Judikatur davon aus, dass das österreichische System der Glücksspielkonzessionen nach gesamthafter Würdigung aller tatsächlichen Auswirkungen auf den Glücksspielmarkt den vom Gerichtshof der Europäischen Union (EuGH) aufgezeigten Vorgaben entspricht und nicht gegen Unionsrecht verstößt (jüngst etwa 1 Ob 172/22h; 6 Ob 59/22b; 7 Ob 102/22h; 1 Ob 74/22x). Die behaupteten Feststellungsmängel liegen nicht vor. Die Anregung der Beklagten auf neuerliche Befassung des EuGH war nicht aufzugreifen, weil die unionsrechtlichen Rechtsgrundsätze geklärt sind (1 Ob 172/22h; 7 Ob 102/22h ua).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0060OB00032.23H.0217.000

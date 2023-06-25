@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.12.1950
+Geschäftszahl
+4Ob91/50
+Norm
+ABGB §986;
+Kopf
+SZ 23/386
+Spruch
+Voraussetzung für die Wirksamkeit einer Wertsicherungs- oder Stabilisierungsklausel ist Bestimmtheit oder doch Bestimmbarkeit der Leistung (d. i. des Geldwertes am Stichtag).
+Entscheidung vom 18. Dezember 1950, 4 Ob 91/50.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der verstorbene Gatte der Klägerin stand seit dem Jahre 1927 bis zum Jahre 1934 im Dienst der beklagten Partei. In seinem Dienstvertrag war eine "Stabilisierungsklausel" folgenden Inhaltes vorgesehen: "In Ansehung aller durch dieses Übereinkommen zugesicherten Gehalts- und Pensionsbezüge ist vereinbart, daß, sofern der Wert des österreichischen Schillings sich gegenüber seinem Wert nach dem Stande vom 31. Dezember 1930 um mehr als 5% vermindern, bzw. erhöhen sollte, im gleichen Verhältnis auch diese Bezüge sich erhöhen, bzw. vermindern. Diese Bestimmung findet jedoch keine Anwendung, wenn trotz der Änderung im Werte des Schillings aus diesem Gründe eine Änderung in den Bezügen der Beamten unseres Unternehmens nicht stattfindet".
+Mit ihrer am 4. November 1949 eingebrachten Klage beantragte die Klägerin die Verurteilung der beklagten Partei zur Zahlung einer entsprechend der Erhöhung der Lebensmittelpreise auf das Vierfache des ursprünglichen Betrages valorisierten Pension.
+Das Erstgericht hat dem Klagebegehren im wesentlichen Folge gegeben. Es ist hiebei davon ausgegangen, daß der Index der Kleinhandelspreise sich seit dem Jahre 1930 nach einer Auskunft des Statistischen Zentralamtes bis zum Juni 1949 um 302% erhöht habe und daß demgemäß im Sinne des § 14 des Dienstvertrages die beklagte Partei die Pension im vierfachen Ausmaß des Betrages, auf den die Klägerin beim Ableben ihres Gatten im Zeitpunkt seiner Pensionierung Anspruch gehabt hätte, auszuzahlen habe.
+Das Berufungsgericht hat das Ersturteil bestätigt.
+Der Oberste Gerichtshof hat in Abänderung der Urteile der Untergerichte das Klagebegehren abgewiesen.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Voraussetzung für die Wirksamkeit einer Wertsicherungs- oder Stabilisierungsklausel ist ihre Bestimmtheit oder doch ihre Bestimmbarkeit (vgl. SZ. XXIII/60 und E. v. 3. November 1950, 3 Ob 601/50). Dem auf Geld lautenden Schuldversprechen muß daher ein anderer Wertmesser als Geld, ein Relationswert, zugrunde gelegt werden, sei es ein Edelmetall, eine Fremdwährung oder eine Ware. Diesem Erfordernis entspricht aber die Bestimmung des § 14 des Dienstvertrages nicht. Sie stellt nur auf den Wert des Schillings am 31. Dezember 1930 ab, ohne sich auf irgend einen Vergleichsfaktor zu beziehen. Die Untergerichte glaubten, diesem Mangel durch Supponierung des Index der Kleinhandelspreise abhelfen zu können. Der Oberste Gerichtshof vermag dieses Aushilfsmittel nicht zu billigen. Denn abgesehen davon, daß die Stabilisierungsklausel nicht einmal ausdrücklich auf die Kaufkraft des Schillings abgestellt ist, stehen auch die Kosten der Bedarfsgüter nicht in einem schlechthin festen Umkehrverhältnis zum Geldwert. Hiefür nur zwei Beispiele. Als im Jahre 1931 der Papierschilling ein Disagio von nahezu 40% gegenüber dem Goldschilling nach dem Schillingsrechnungsgesetz hatte, war diese Geldverschlechterung keineswegs mit einem Ansteigen der Preise der Bedarfsgüter verbunden. Im Gegenteil, da die österreichische Krise von einem Preisverfall auf dem Weltmarkte begleitet war, sind die Kosten der Bedarfsgüter sogar vielfach zurückgegangen (vgl. Janda, Die Entwicklung der österr. Goldklauselgesetzgebung, Juristische Wochenschrift 1938, S. 2598). Und die in den letzten Monaten vielfach beobachteten Preissteigerungen, die zum 4. Lohn- und Preisabkommen Anlaß gegeben haben, hängen keineswegs mit einer Verschlechterung des Schillings zusammen (er ist auf den Auslandsmärkten stabil geblieben), sondern sind eine Folge des Überganges von der Zwangswirtschaft auf die freie Wirtschaft und des dadurch bedingten Abbaues von Preisstützungsmaßnahmen. Das Berufungsgericht vertritt die Ansicht, daß bei Vorliegen einer unbestimmten Stabilisierungsklausel der Gläubiger jedenfalls eine Aufwertung nach den niedersten Vergleichsmaßstäben verlangen könne, und folgert daraus die Zulässigkeit der Basierung auf die Kleinhandelspreise. Dem vermag der Oberste Gerichtshof nicht zu folgen. Denn selbst wenn der primäre Schluß zuträfe, wäre die daraus gezogene Folgerung anfechtbar. Denn es gibt eine Reihe von Bedarfsgütern und - leistungen (man denke nur an die Mietzinse und an die Löhne), die keineswegs mit den vom Bundesamt für Statistik erfaßten Kleinhandelspreisen Schritt gehalten haben.

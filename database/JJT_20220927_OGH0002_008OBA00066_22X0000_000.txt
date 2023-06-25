@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+8ObA66/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Mag. Lena Steiger (aus dem Kreis der Arbeitgeber) und Anton Starecek (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei T* R*, vertreten durch Freimüller Obereder Pilz RechtsanwältInnen GmbH in Wien, gegen die beklagte Partei S*, vertreten durch Dr. Alice Gao, Rechtsanwältin in Wien, wegen Feststellung, in eventu Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. Juni 2022, GZ 10 Ra 11/22v-61, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Gemäß § 42 Abs 2 Z 2 VBO 1995 liegt ein Grund, der zur Kündigung berechtigt, insbesondere vor, wenn der Vertragsbedienstete für die Erfüllung seiner Dienstpflichten gesundheitlich ungeeignet ist.
+[2] 		Für den Fall partieller Dienstunfähigkeit geht die Rechtsprechung davon aus, dass der Dienstgeber im Rahmen der allgemeinen Fürsorgepflicht verhalten ist, dem Dienstnehmer auch leichtere Arbeit zuzuweisen (RIS-Justiz RS0082303 [insb T2]). Er ist aber nicht verpflichtet, seine Arbeitsorganisation umzustrukturieren oder gar nicht existierende Arbeitsplätze neu zu schaffen, nur um der eingeschränkten Leistungsfähigkeit des Vertragsbediensteten gerecht zu werden (RS0082303 [T4, T7] ua). Die Obliegenheit, dem Arbeitnehmer tunlichst leichtere Arbeiten zuzuweisen, besteht vor allem dann, wenn das Dienstverhältnis bereits lange Zeit gedauert hat und wenn der Personalstand des Dienstgebers groß ist (8 ObA 79/02d). Denn je größer dieser ist, umso eher kann eine entsprechende Verwendung gefunden werden (RS0082305).
+[3] 		Die Behauptungs- und Beweislast dafür, dass keine weitere Verwendbarkeit bestanden hätte oder mangels offener Planstellen eine solche Besetzung nicht möglich wäre, trifft den Arbeitgeber (RS0125343 [T1]). Ob dem Arbeitgeber der Beweis der mangelnden Beschäftigungsmöglichkeit für einen nur mehr partiell dienstfähigen Vertragsbediensteten gelungen ist, hängt immer von den Umständen des Einzelfalls ab.
+[4] 		Die Begründung der angefochtenen Entscheidung hält sich im Rahmen dieser in der Rechtsprechung entwickelten Grundsätze.
+[5] 		Das Berufungsgericht hat richtig zwischen dem Kündigungsgrund der mangelnden körperlichen Eignung des Klägers, der sich auf seine bisherige Verwendung bezieht, und seiner fachlichen und persönlichen Qualifikation für eine seinem eingeschränkten körperlichen Leistungskalkül noch entsprechende alternative Verwendungsmöglichkeit differenziert.
+[6] 		Diese unterschiedlichen Prüfungsebenen werden in der Revision unzulässig vermengt, wenn sie moniert, dass der Grund für die mangelnde Eignung des Klägers zum Einsatz auf einem Ersatzarbeitsplatz nicht auch als Kündigungsgrund geltend gemacht wurde. Eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO wird damit nicht angesprochen.
+[7] 		Die weitere in der Revision angesprochene Rechtsfrage, in welchem Zeitraum vor und nach der Kündigung des Klägers vorübergehend frei gewordene Arbeitsplätze in die Prüfung der Weiterverwendungsmöglichkeit einzubeziehen waren, stellt sich auf Grundlage des bindend festgestellten Sachverhalts schon deswegen nicht, weil er für keinen der überhaupt in Frage kommenden Arbeitsplätze persönlich geeignet gewesen wäre.
+[8] 		Welche zumutbaren Maßnahmen der Arbeitgeber im Rahmen seiner Fürsorgepflicht ergreifen muss, um einem partiell dienstunfähigen Vertragsbediensteten eine Weiterbeschäftigung zu ermöglichen, hängt im Übrigen typischerweise von den Umständen des Einzelfalls ab. Eine grobe Fehlbeurteilung, die ausnahmsweise zur Wahrung der Rechtssicherheit einer Korrektur bedürfte, zeigt die Revision nicht auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00066.22X.0927.000

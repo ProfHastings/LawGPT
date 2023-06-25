@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.06.1950
+Geschäftszahl
+2Ob384/50
+Norm
+ABGB §364c;
+Außerstreitgesetz §10;
+Grundbuchsgesetz §94;
+Grundbuchsgesetz §96;
+Grundbuchsgesetz §126;
+ZPO §514;
+ZPO §526;
+Kopf
+SZ 23/201
+Spruch
+Stiefkinder gehören nicht zum Personenkreis des § 364c ABGB.
+Gleich wie das Gericht nicht mehr oder etwas anderes bewilligen darf, als die Partei angesucht hat, so kann auch die Partei nicht etwas anderes im Rechtsmittelwege begehren, als was sie in ihrem Grundbuchsgesuch selbst beantragt hat. Sie ist an ihren Antrag ebenso gebunden wie das Gericht.
+Entscheidung vom 14. Juni 1950, 2 Ob 384/50.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Franz R., seine Ehegattin Agnes R. und Johann V., der Sohn der Agnes R. und Stiefsohn des Franz R., beantragten auf Grund eines notariellen Schenkungs- und Erbverzichtsvertrages die Bewilligung folgender grundbücherlicher Eintragungen:
+1. die Einverleibung des Eigentumsrechtes des Johann V. auf einen Drittelanteil einer bisher den Ehegatten Franz und Agnes R. je zur Hälfte gehörigen Liegenschaft;
+2. die Beschränkung der Ehegatten Franz und Agnes R. bei den ihnen verbliebenen Zweidrittelanteilen durch das Veräußerungsverbot zugunsten des Johann V. und
+3. die gleiche Beschränkung des Johann V. bei seinem Drittelanteil zugunsten der Ehegatten Franz und Agnes R. Das Grundbuchsgericht wies den Antrag, soweit das Eigentum des Franz R. zugunsten des Johann V. und das Eigentum des Johann V. zugunsten des Franz R. beschränkt werden sollte, ab und gab ihm im übrigen statt.
+Das Rekursgericht gab dem Rekurs des Johann V. Folge und bewilligte auch die vom Erstgericht abgelehnten Eintragungen.
+Der Oberste Gerichtshof bestätigte den von Franz R. angefochtenen Beschluß des Rekursgerichtes.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist im Rechte, wenn er das Vorbringen des Rekurses des Johann V., er sei seit seinem dritten Lebensjahr von Franz R. erzogen und erhalten worden und darum dessen Pflegekind, als Neuerung bezeichnet. Da der Grundbuchsrichter ohne vorherige Vernehmung der Parteien oder dritter Personen auf Grund der beigebrachten Urkunden und des Grundbuchsstandes zu entscheiden hat, aus welchen die Voraussetzungen für die begehrte Eintragung sich ergeben müssen (§ 94 GBG.), können Neuerungen in Rekursen in Grundbuchssachen gemäß § 126 Abs. 2 GBG. im Gegensatz zu den allgemeinen Bestimmungen des außerstreitigen Verfahrens (§ 10 AußstrG.) nicht berücksichtigt werden.
+Im Grundbuchsgesuch ist jedoch vom Bestehen eines Pflegschaftsverhältnisses keine Rede und der zur Grundlage der begehrten Eintragung dienende Notariatsakt läßt nur erkennen, daß Johann V. der Stiefsohn des Franz R., nicht aber daß er dessen Pflegekind im Sinn des § 186 ABGB. ist. Die gegenteilige Feststellung des Rekursgerichtes ist aktenwidrig.
+Das Gesetz rechnet jedoch in § 364c ABGB. nur Kinder im Sinn des § 42 ABGB., also Deszendenten, ferner Wahl- und Pflegekinder zu jenen privilegierten Personen, hinsichtlich welcher Veräußerungs- und Belastungsverbote, die zwischen ihnen und ihren Eltern, bzw. Wahl- oder Pflegeeltern begrundet werden, mit dinglicher Wirkung Dritten gegenüber im Grundbuch eingetragen werden können (Klang, 2. Aufl., II, S. 185). Denn nur bei Bestand solcher familienrechtlicher Beziehungen erkennt das Gesetz ein schutzwürdiges Interesse an der Erhaltung des Familienbesitzes an. Verschwägerte gehören nicht zu diesem Personenkreis, mit Ausnahme der im Gesetz ausdrücklich genannten Ehegatten von Kindern, Wahl- und Pflegekindern. Schon aus diesem Gründe durfte die angefochtene Eintragung nicht bewilligt werden.
+Es ist darum entbehrlich, auf die vom Revisionsrekurs aufgeworfene Frage einzugehen, ob selbst unter Zugrundelegung der rekursgerichtlichen Ansicht die Eintragung hätte bewilligt werden dürfen, weil nur eine tatsächliche Übernahme in die Pflege, nicht aber ein eigentlicher Pflegevertrag vorliege, der allein das in § 186 ABGB. erwähnte Pflegekinderverhältnis erzeugt, mit welchem die Rechtsordnung mannigfache, dem leiblichen Eltern- und Kindesverhältnis nahestehende Rechtswirkungen verbindet, darunter auch die Wirkung von Belastungs- und Veräußerungsverboten (Klang, 1. Aufl., I, S. 973, 975). Ebenso erübrigt sich die Prüfung der weiteren Einwendung, daß auch bei Annahme eines durch Pflegevertrag begrundeten Pflegekindverhältnisses die Wirkungen eines solchen mit dem Aufhören der Pflege, also in der Regel mit Erreichung der Selbsterhaltungsfähigkeit oder doch der Großjährigkeit erlöschen würden.
+Die angefochtene Entscheidung ist daher offensichtlich in mehrfacher Richtung unrichtig und gesetzwidrig.
+Dennoch ist der Oberste Gerichtshof nicht in der Lage, sie abzuändern und den zutreffenden erstrichterlichen Bescheid wiederherzustellen. Der Revisionsrekurswerber hat selbst durch einen Rechtsfreund jene Entscheidung begehrt, die, wenn auch erst infolge Rekurses des Johann V., vom Rekursgericht erlassen wurde. Er muß zu seinem Antrag stehen und kann sich nicht dadurch beschwert fühlen, daß diesem, wenngleich erst von der zweiten Instanz und infolge Bekämpfung einer von ihm selbst unangefochten gelassenen Entscheidung des Erstrichters durch den Mitantragsteller Johann V., entsprochen wurde. Ihm fehlt das Rekursinteresse, das ein Rechtsmittel rechtfertigen würde. Wenn er im Revisionsrekurs behauptet, er habe das Wesen des Veräußerungsverbotes nicht richtig erfaßt, und sich nun durch einen anderen Rechtsfreund gegen seinen eigenen Antrag stellt, so kann dieser Behauptung keinerlei rechtliche Bedeutung zuerkannt werden. Wäre er gegebenenfalls unrichtig beraten gewesen, so muß er die Folgen einer solchen Beratung selbst tragen.
+Gleichwie das Gericht nicht mehr oder etwas anderes bewilligen darf, als die Partei angesucht hat (§ 96 Abs. 1 GBG.), so kann auch die Partei nicht etwas anderes im Rechtsmittelwege begehren, als was sie in ihrem Grundbuchsgesuch selbst beantragt hat. Sie ist an ihren Antrag ebenso gebunden wie das Gericht.
+Der Oberste Gerichtshof ist darum außerstande, die unrichtige Entscheidung des Rekursgerichtes zu beheben.

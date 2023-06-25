@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.01.2016
+Geschäftszahl
+6Ob195/15t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Dr. M***** K*****, vertreten durch Dr. Tassilo Neuwirth und andere Rechtsanwälte in Wien, gegen die beklagte Partei c***** AG, *****, vertreten durch Dr. Walter Pfliegler, Rechtsanwalt in Wien, wegen Feststellung (Streitwert 5.500 EUR), über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 29. April 2014, GZ 60 R 43/12x-15, mit dem das Urteil des Bezirksgerichts für Handelssachen Wien vom 30. März 2012, GZ 4 C 839/11b-11, teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Beklagte ist schuldig, dem Kläger die mit 559,15 EUR (darin 93,19 EUR Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die ordentliche Revision nicht zulässig:
+Das Berufungsgericht, das mit Wirkung zwischen den Parteien feststellte, dass das Recht der beklagten Kreditkartenunternehmung, Zahlungsanweisungen des Klägers in Fremdwährungen zu einem nur von der Beklagten gebildeten Kurs in Euro umzurechnen, nicht besteht, hat seinen Zulässigkeitsausspruch damit begründet, es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, ob die Allgemeinen Geschäftsbedingungen der Beklagten im Sinne des Transparenzgebots hinreichend klar abgefasst sind.
+Die zwischen den Parteien strittige Klausel in den Allgemeinen Geschäftsbedingungen der Beklagten lautet: Zahlungsanweisungen des Karteninhabers in Fremdwährungen werden zu einem von C***** gebildeten und auf der Webseite www.c*****.com veröffentlichten Kurs in Euro umgerechnet. Zu einer inhaltsgleichen Klausel (Ein Fremdwährungsumsatz wird von uns mit jenem Wechselkurs in Euro umgerechnet, der auf der Homepage www.d****.at abrufbar ist und zum Stichtag des Eingangszeitpunkts [Punkt 13.3] Gültigkeit hat.) hat der Oberste Gerichtshof jedoch bereits in der Entscheidung 1 Ob 105/14v (jusIT 2014/110 [Staudegger] = ÖBA 2015/2089 [Knyrim]) klargestellt, dass diese zumindest gegen § 29 Abs 3 ZaDiG verstoße, weil die dort Beklagte überhaupt keinen Referenzwechselkurs und auch den Index oder die Grundlage für dessen Bestimmung nicht nennt; sie stelle allein auf einen Wechselkurs ab, der auf ihrer Homepage abrufbar ist.
+Auch die Entscheidung 9 Ob 26/15m hatte eine vergleichbare Klausel zum Gegenstand (Bei der Verrechnung von Bargeldbezügen beziehungsweise bargeldloser Zahlungen an POS-Kassen im Ausland wird der jeweilige Betrag der ausländischen Währung wie folgt umgerechnet: Bei zum Euro fixierten nationalen Währungseinheiten zum jeweiligen Fixkurs. Bei Währungen von Staaten, die nicht Mitgliedstaaten der Europäischen Währungsunion zum Tagesverkaufskurs der P GmbH. Die Umrechnungskurse [Referenzwechselkurse] können beim Kreditinstitut erfragt oder auf der Homepage der P**** GmbH [www.p*****.at] abgefragt werden. Der Kurstag für die Umrechnung ist der Tag, an dem die P**** GmbH die Belastung von dem ausländischen Kreditinstitut erhält. Der Kurs sowie das Kursdatum werden dem Kontoinhaber in der mit ihm für den Zugang von Erklärungen vereinbarten Form bekannt gegeben. Der Oberste Gerichtshof erachtete - unter Verweis auf 1 Ob 105/14v - auch diese Klausel als unzulässig. Mangels Offenlegung der Grundlagen für die Bildung dieses Wechselkurses sei die Bildung des Referenzwechselkurses für den Verbraucher in der Klausel weder überprüfbar noch nachvollziehbar (RIS-Justiz RS0129620 [T2]).
+Damit wurde die vom Berufungsgericht als erheblich bezeichnete Rechtsfrage vom Obersten Gerichtshof bereits mehrfach beantwortet.
+Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Der Kläger hat in der Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen. Der Schriftsatz ist daher als zur zweckentsprechenden Rechtsverteidigung notwendig anzusehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00195.15T.0114.000

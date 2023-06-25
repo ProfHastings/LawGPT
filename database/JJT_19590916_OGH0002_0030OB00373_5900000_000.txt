@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.1959
+Geschäftszahl
+3Ob373/59
+Norm
+EO §7;
+EO §355;
+Handelsgesetzbuch §116;
+Kopf
+SZ 32/104
+Spruch
+Ein Exekutionstitel, der allgemein auf Entzug der Befugnis zur Geschäftsführung einer oHG. lautet, ist hinreichend bestimmt.
+Entscheidung vom 16. September 1959, 3 Ob 373/59.
+I. Instanz: Bezirksgericht Ebreichsdorf; II. Instanz: Kreisgericht Wiener Neustadt.
+Text
+Mit rechtskräftiger einstweiliger Verfügung des Kreisgerichtes Wiener Neustadt vom 17. April 1959 wurde auf Antrag der betreibenden Partei dem Verpflichteten die Befugnis zur Geschäftsführung der oHG. Anton M. entzogen.
+Die betreibende Partei behauptet, der Verpflichtete habe am 25. Juli 1959 einen Mitarbeiter aus der Betriebshalle der oHG. gewiesen, Ende Juni 1959 die Umstellung einer Betriebsmaschine verweigert und auch in letzter Zeit auf betriebliche Entscheidungen eines Betriebsingenieurs der oHG. Einfluß zu nehmen versucht; sie beantragt die Bewilligung der Exekution zur Unterlassung aller Geschäftsführungshandlungen im Sinne der erlassenen einstweiligen Verfügung durch Androhung und Verhängung von Geldstrafen bestimmter Höhe oder von Haft.
+Das Erstgericht wies diesen Antrag mangels Bestimmtheit des Exekutionstitels ab. Es sei nicht Sache des Exekutionsgerichtes, zu entscheiden, ob eine Handlung oder Unterlassung des Verpflichteten unter den Begriff der Geschäftsführung im Sinne des § 116 HGB. falle. Das Zuwiderhandeln des Verpflichteten müsse sich schon aus dem Exekutionstitel klar ergeben.
+Das Rekursgericht bewilligte zur Erwirkung der Unterlassung aller Geschäftsführungshandlungen des Verpflichteten in bezug auf die genannte oHG. die Exekution.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Verpflichteten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+In der Sache selbst hat das Rekursgericht entgegen den Ausführungen im Revisionsrekurs aus dem Entzug der Befugnis zur Geschäftsführung eines offenen Gesellschafters im Sinn des § 117 HGB. mit Recht die Pflicht zur Unterlassung aller Geschäftsführungshandlungen für die Dauer des Entzuges abgeleitet. Art und Umfang der Geschäftsführungshandlungen bei einer oHG. stellt das Gesetz im § 116 HGB. auf alle Handlungen ab, die der gewöhnliche Betrieb des Handelsgewerbes der Gesellschaft mit sich bringt. Maßgebend ist der Gesellschaftsvertrag, Art und Umfang des Betriebes einerseits und Art, Größe und Bedeutung des Geschäftes für den Betrieb andererseits (Schlegelberger, HGB., 3. Aufl. II S. 897 Anm. 1 zu § 116; ähnlich der Reichsgerichtsräte-Kommentar zum HGB., 2. Aufl. II S. 123 Anm. 2 zu § 116). Die Generalklausel des § 116 HGB. überläßt, wie dies auch in vielen anderen Fällen des Zivilrechtes geschieht, die Entscheidung über die Zugehörigkeit einzelner Handlungen von Gesellschaftern zum gesetzlichen Begriff der Geschäftsführungshandlung den Gerichten. Eine solche Entscheidung kann entgegen der Rechtsmeinung des Erstrichters auch vom Exekutionsrichter getroffen werden. Die betreibende Partei hat in ihrem Exekutionsantrag Betriebshandlungen des Verpflichteten behauptet, die für die Betriebsführung wichtige Personal- und Sachentscheidungen betreffen und daher zu den Geschäftsführungshandlungen eines offenen Gesellschafters der Firma jedenfalls gehören können. Nur auf diese Frage allein hat sich die Prüfung bei der Entscheidung über die Exekutionsbewilligung zu beschränken. Ob diese Handlungen tatsächlich gesetzt wurden, kann im Falle der Bestreitung durch den Verpflichteten nur auf Klage nach § 36 Abs. 1 Z. 1 EO. entschieden werden (JBl. 1954 S. 361). Dem Rekursgericht ist daher darin beizupflichten, daß - ähnlich wie in Fällen von Besitzstörungen (JBl. 1955 S. 403) - beim Entzug der Geschäftsführungsbefugnis nicht einzelne konkrete Geschäftsführungshandlungen, die der betreffende Gesellschafter zu unterlassen habe, im Exekutionstitel aufzuzählen sind, weil es sonst der von der Geschäftsführung ausgeschlossene Gesellschafter in der Hand hätte, durch Setzung immer neuer verbotener Geschäftsführungshandlungen den Unterlassungstitel für die Zwangsvollstreckung unwirksam zu machen.
+Wenn im Revisionsrekurs ausgeführt wird, daß die vom Rekursgericht bewilligte Exekution dem Verpflichteten auch die Ausübung bestimmter Kontrollrechte unmöglich machen würde, ist er darauf zu verweisen, daß die Kontrollrechte, die dem von der Geschäftsführung ausgeschlossenen Gesellschafter verbleiben, im § 118 HGB. umschrieben sind und daher von einer Exekutionsführung zur Durchsetzung der Unterlassung von Geschäftsführungshandlungen nicht betroffen sein können.

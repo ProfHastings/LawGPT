@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2022
+Geschäftszahl
+2Ob185/22b
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda, und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei C*gesellschaft m.b.H., *, vertreten durch Dr. Roland Grilc und andere Rechtsanwälte in Klagenfurt am Wörthersee, gegen die beklagte Partei I* d.o.o., *, Slowenien, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen 90.255,30 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 22. Juni 2022, GZ 3 R 87/22v-50, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Streitteile schlossen einen Werkvertrag über die Lieferung und Montage einer Containeranlage durch die Klägerin. Die Vorinstanzen verurteilten die Beklagte zur Zahlung des aus der Schlussrechnung aushaftenden restlichen Betrags.
+[2] 		In ihrer außerordentlichen Revision stützt die Beklagte die Zulässigkeit ihres Rechtsmittels einerseits auf die mangelhafte Erledigung ihrer Beweisrüge und anderseits auf den Vorwurf, dass die vom Berufungsgericht vorgenommene Auslegung einer Klausel zur Abbedingung einer Warnpflicht nach § 1168a ABGB nicht im Einklang mit der höchstgerichtlichen Rechtsprechung stehe.
+Rechtliche Beurteilung
+[3] 		Damit zeigt die Beklagte keine erhebliche Rechtsfrage auf.
+[4] 		1. Der Oberste Gerichtshof hat nicht zu überprüfen, ob eine vom Berufungsgericht im Rahmen seiner Beweiswürdigung gezogene Schlussfolgerung richtig oder fehlerhaft ist (RS0043150 [T5; T7]).
+[5] 		2. Im Zusammenhang mit der Erledigung der Beweisrüge liegt ein Verfahrensmangel nur dann vor, wenn sich das Berufungsgericht damit überhaupt nicht oder nur so mangelhaft befasste, dass keine nachvollziehbaren Überlegungen über die Beweiswürdigung angestellt und im Urteil festgehalten sind (RS0043150; RS0043268 [T4]; vgl „floskelhafte Scheinbegründung“: RS0043371 [T32]). Dabei kommt es darauf an, ob das Berufungsgericht den wesentlichen Argumenten der Beweisrüge eigene Überlegungen – seien sie auch mit jenen des Erstgerichts identisch – entgegensetzt (3 Ob 211/19d; 1 Ob 49/20t). Die mängelfreie Erledigung einer Beweisrüge erfordert somit wenn auch knappe, so doch logisch nachvollziehbare Erwägungen, die sich mit den Kernargumenten des Rechtsmittelwerbers inhaltlich befassen (2 Ob 208/20g; 2 Ob 120/21t), ohne dass ein Eingehen auf jedes einzelne Argument erforderlich wäre (RS0043150 [T2]).
+[6] 		3. Im Anlassfall entspricht die Erledigung der Beweisrüge durch das Berufungsgericht den aufgezeigten Anforderungen und wirft damit keine erhebliche Rechtsfrage auf. Das Berufungsgericht hat sich mit im Rechtsmittel behaupteten Mängeln der erstgerichtlichen Beweiswürdigung (insbesondere zum Umfang der geschuldeten Leistung, zu den behaupteten Sachmängeln, zum Zeitpunkt der Leistung, zur rügelosen Abnahme und zu den behaupteten Schäden der Beklagten) auseinandergesetzt und die gegen die bekämpften Feststellungen vorgetragenen Argumente unter Berücksichtigung der dazu vorliegenden Beweisergebnisse geprüft. Dabei hat es im Detail begründet, warum es die Einwände der Beklagten für nicht stichhältig oder relevant erachtet hat.
+[7] 		4.1. Die in §§ 1168, 1168a ABGB normierte Risikoverlagerung beim Werkvertrag ist dispositiv (RS0021858). Das Rechtsmittel tritt der von den Vorinstanzen vertretenen Ansicht, dass auch die Warnpflicht des Unternehmers abgedungen werden kann, nicht entgegen. Die Beklagte rügt aber, dass die Vorinstanzen aufgrund einer bestimmten Vertragsklausel zu Unrecht von einem solchen Abbedingen ausgegangen sind. Auch damit wird keine erhebliche Rechtsfrage geltend gemacht.
+[8] 		4.2. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RS0042776 [T1, T3, T6, T10, T11, T31], RS0044358 [T31, T33, T40] ua).
+[9] 		4.3. Zwischen den Streitteilen wurde vereinbart, dass die beklagte Werkbestellerin selbst zu überprüfen hatte, ob die vorgesehene Ausführung der Systeme, Zusätze, Überbauten usw den Bauvorschriften und Benutzungsvorschriften entspricht, die am Ort der Aufstellung (hier: in Slowenien) gelten. Die Rechtsansicht der Vorinstanzen, wonach die klagende Werkunternehmerin die Beklagte aufgrund dieser Vereinbarung nicht davor warnen musste, dass die (mit-)bestellte und vertragskonform gelieferte Behindertentoilette nicht den slowenischen Vorschriften entspricht, ist jedenfalls vertretbar und wirft keine erhebliche Rechtsfrage auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00185.22B.1025.000

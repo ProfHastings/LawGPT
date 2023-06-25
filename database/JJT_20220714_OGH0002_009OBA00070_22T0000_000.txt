@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.07.2022
+Geschäftszahl
+9ObA70/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Fichtenau als Vorsitzende, den Hofrat Mag. Ziegelbauer und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter MMag. Andreas Schlegel (aus dem Kreis der Arbeitgeber) und Karl Schmid-Wilches (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei H*, vertreten durch Celar Senoner Weber-Wilfert Rechtsanwälte GmbH in Wien, gegen die beklagte Partei Z*, vertreten durch Salzborn Rechtsanwaltsgesellschaft mbH in Wien, wegen Feststellung des aufrechten Dienstverhältnisses, in eventu Kündigungsanfechtung (Streitwert 76.516,44 EUR) über die außerordentlichen Revisionen der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. April 2022, GZ 9 Ra 25/22w-44, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Regelung des § 879 Abs 1 ABGB gilt nicht nur für Verträge, sondern auch für einseitige Rechtsgeschäfte (RS0016534). Daher können auch Kündigungen wegen Sittenwidrigkeit absolut nichtig sein. Die Sittenwidrigkeit kann sich dabei nur aus den Motiven des Kündigenden ergeben, weil die Kündigung selbst nur den neutralen Zweck haben kann, das Arbeitsverhältnis aufzulösen (9 ObA 200/93).
+[2] 		2. Die in § 105 Abs 3 Z 1 ArbVG aufgezählten verpönten Motive, die zur Anfechtung der Kündigung berechtigten, würden ohne ausdrückliche Erwähnung grundsätzlich zur Sittenwidrigkeit und damit zur Rechtsunwirksamkeit der Kündigung führen. Lehre und Rechtsprechung leiten daraus ab, dass im Anwendungsbereich der speziellen Kündigungsbestimmungen des § 105 ArbVG die Geltendmachung der Rechtsunwirksamkeit der Kündigung nach § 879 ABGB ausgeschlossen ist (RS0018163; Wolligger in ZellKomm² § 105 ArbVG Rz 80).
+[3] 		3. Das Berufungsgericht hat das Vorliegen eines Anfechtungstatbestands nach § 105 Abs 3 Z 1 lit i ArbVG bejaht. Dementsprechend hat es das Hauptbegehren, das auf Feststellung des Fortbestehens des Dienstverhältnisses über den Kündigungstermin hinaus gerichtet war, abgewiesen, dem auf Rechtsunwirksamerklärung der Kündigung gerichteten Eventualbegehren dagegen Folge gegeben.
+[4] 		4. Die Klägerin bestreitet in ihrer gegen die Abweisung des Hauptbegehrens gerichteten Revision nicht, dass der Tatbestand des § 105 Abs 3 Z 1 lit i ArbVG erfüllt ist. Das Verhalten des Arbeitgebers, der die Klägerin kündigte, weil sie in einem Arbeitsrechtsverfahren einer Kollegin entgegen seiner Aufforderung keine Falschaussage machen wollte, sei jedoch so krass sittenwidrig, dass die Rechtsgestaltungsklage einen unangemessenen Rechtsbehelf darstelle.
+[5] 		5. Dabei übersieht die Klägerin, dass – wie ausgeführt – auch die Anfechtung der Kündigung wegen eines verpönten Motivs nach § 105 Abs 3 Z 1 ArbVG die Sittenwidrigkeit des Verhaltens des Arbeitgebers voraussetzt. Das Berufungsgericht hat daher nicht die Sittenwidrigkeit des Verhaltens des Beklagten verneint, sondern im Sinn der zuvor dargestellten Judikatur nicht § 879 ABGB, sondern die Rechtsfolgen der spezielleren Norm des § 105 Abs 3 ArbVG, der „nur“ eine Anfechtbarkeit der Kündigung vorsieht, angewendet.
+[6] 		Wie Wollinger (in ZellKomm² § 105 ArbVG Rz 80 mwN) darlegt, stellt die „bloße“ Anfechtung einer nach § 105 ArbVG verpönten Kündigung gegenüber der Nichtigkeit einer sittenwidrigen Kündigung keine Schlechterstellung dar, sondern eine wohlbegründete Spezialität. Sie besteht einerseits darin, dass der Arbeitnehmer aufgrund der primären Anfechtungslegitimation des Betriebsrats den Schutz des Kollektivs genießt und andererseits in der Beweiserleichterung nach § 105 Abs 5 ArbVG, sodass die Rechtsstellung des Arbeitnehmers dadurch erheblich verbessert wird.
+[7] 		6. Insgesamt gelingt es der Klägerin daher nicht, das Vorliegen einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufzuzeigen. Die außerordentliche Revision der Klägerin ist daher zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:009OBA00070.22T.0714.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.03.2023
+Geschäftszahl
+3Ob37/23x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Exekutionssache der betreibenden Partei D* GmbH, *, vertreten durch Gabler Ortner Rechtsanwälte GmbH in Wien, gegen die verpflichtete Partei E*-Aktiengesellschaft, *, vertreten durch e/n/w/c Natlacen Walderdorff Cancola Rechtsanwälte GmbH in Wien, wegen § 354 EO, über den außerordentlichen Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 18. Jänner 2023, GZ 46 R 274/22t-19, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Rekursgericht wies den Antrag der Betreibenden ab, ihr zur Erwirkung der Verpflichtung, „alle für die Abwicklung des (...) geschlossenen Kaufvertrages notwendigen Erklärungen abzugeben und Rechtshandlungen vorzunehmen, und zwar a) für den Abschluss des Treuhandvertrages: binnen 14 Tagen ab Auswahl des Treuhänders;“ die Exekution gemäß § 354 EO gegen die Verpflichtete zu bewilligen. Das Rekursgericht erachtete die titulierte Verpflichtung insbesondere deshalb nicht für ausreichend bestimmt, weil aus dem Titel nicht hervorgehe, für welchen Treuhandvertrag mit welchem Inhalt die Verpflichtete Erklärungen und Rechtshandlungen schulde.
+Rechtliche Beurteilung
+[2] 		Mit dem dagegen erhobenen außerordentlichen Revisionsrekurs zeigt die Betreibende keine erhebliche Rechtsfrage auf.
+[3] 		1. Gemäß § 7 Abs 1 EO müssen im Exekutionstitel neben der Person des Berechtigten und Verpflichteten auch der Gegenstand, die Art, der Umfang und die Zeit der geschuldeten Leistung konkret angegeben werden. Nach der Rechtsprechung ist an das Erfordernis der titelmäßigen Bestimmtheit einer (hier nach § 354 EO) zu erzwingenden Handlung kein überstrenger Formalismus anzulegen, um zu vermeiden, dass dem betreibenden Gläubiger die Exekutionsführung unmöglich gemacht wird (3 Ob 71/08z). Bei der Verpflichtung zur Unterfertigung eines Vertrags, der zur Herbeiführung eines bestimmten Zwecks erforderlich ist, muss daher der genaue Wortlaut nicht schon im Titel genannt werden (vgl RS0000500). Der Gegenstand und Umfang der titelmäßig geschuldeten Handlung ist aber dann nicht mehr ausreichend bestimmt, wenn nur die grundsätzliche Verpflichtung zur Unterfertigung feststeht, sich aber allein aus dem verfolgten Zweck der Vertragsunterfertigung kein bestimmter Inhalt des Vertrags ableiten lässt und der Verpflichtete nicht gehalten ist, jeden Vertragsentwurf, gleich welchen Inhalts, zu unterfertigen. Aus diesem Grund müssen im Exekutionstitel zumindest die wesentlichen Bestimmungen des zu unterfertigenden Vertrags angeführt werden (vgl 3 Ob 71/08z).
+[4] 		2. Nach ständiger Rechtsprechung des Obersten Gerichtshofs bildet die Auslegung eines Exekutionstitels im Einzelfall – von im Interesse der Rechtssicherheit aufzugreifenden Fehlbeurteilungen abgesehen – keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO; gleiches gilt für die Frage, ob ein Exekutionstitel bestimmt genug ist (3 Ob 302/04i mwN; 3 Ob 54/11d). Das Rekursgericht ist mit seinem Verständnis von Inhalt und Bestimmtheit des Exekutionstitels nicht von den zuvor angeführten Grundsätzen (Punkt 1.) abgewichen:
+[5] 		3.1 Nach dem objektiven Wortsinn des Titels hat die Verpflichtete einen Treuhandvertrag zu unterfertigen, der der Abwicklung eines geschlossenen Kaufvertrags dienen soll. Weder unmittelbar aus dem Gesetz noch aus dem bezeichneten Vertragszweck lässt sich mit ausreichender Bestimmtheit ableiten, für welchen Treuhandvertrag mit welchem Inhalt die Verpflichtete Erklärungen und Rechtshandlungen schuldet. Wenn das Rekursgericht deshalb eine zu Lasten der Betreibenden gehende Unbestimmtheit angenommen hat, ist dies keine im Einzelfall aufzugreifende Verkennung der Rechtslage.
+[6] 		3.2 Mit der Behauptung, dass der Exekutionstitel ausreichend bestimmt sei, weil im Anlassfall die Unterfertigung des „künftig zu erstellenden Treuhandvertrags des von der Verpflichteten ausgewählten Treuhänders“ gesichert werden solle, vermag die Betreibende die vom Rekursgericht erkannten inhaltlichen Defizite nicht zu beheben und zeigt daher keinen Verstoß gegen die dargelegten Rechtsprechungsgrundsätze auf. Der außerordentliche Revisionsrekurs war daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00037.23X.0315.000

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.10.1951
+Geschäftszahl
+2Ob576/51
+Norm
+ABGB §1313a;
+ABGB §1315;
+Sozialversicherungs-Überleitungsgesetz §5 Abs4;
+Kopf
+SZ 24/262
+Spruch
+Die Krankenkasse haftet für ihren Vertragsarzt nicht nach § 1313a, sondern nur nach § 1315 ABGB.
+Entscheidung vom 4. Oktober 1951, 2 Ob 576/51.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Kläger erhob gegen den Beklagten (den Röntgenfacharzt einer Krankenkasse) wegen eines in dessen Röntgeninstitut unterlaufenen Kunstfehlers Schadenersatzansprüche.
+Das Erstgericht erkannte mit Zwischenurteil, daß der Anspruch des Klägers dem Gründe nach zu Recht bestehe. Es nahm als erwiesen an, daß im Röntgeninstitut des Beklagten durch einen Assistenten eine Aufnahme des rechten Sprunggelenkes und des rechten Mittelfußknochens des Klägers durchgeführt wurde. Es rechnete es dem Assistenten zwar nicht als Verschulden an, daß er auf dieser Aufnahme einen Bruch des Sprungbeinkopfes nicht erkennen konnte, erblickte jedoch sein Verschulden, für das der Beklagte gemäß § 1313a ABGB. zu haften habe, darin, daß er am Röntgenbild den erkennbaren Bruch eines Mittelfußköpfchens übersehen habe und daß er bei der Untersuchung des rechten Sprungbeines nicht alle Maßnahmen (insbesondere Schrägaufnahme) getroffen habe, um einen etwaigen Bruch zu erkennen.
+Infolge Berufung des Beklagten hob das Berufungsgericht das Ersturteil unter Rechtskraftvorbehalt (§ 479 Abs. 1 ZPO.) auf und verwies die Sache zur Fortsetzung der Verhandlung und neuerlichen Entscheidung an das Erstgericht zurück.
+Der Oberste Gerichtshof hat dem Rekurse der klagenden Partei nicht stattgegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Im vorliegenden Fall ist die Rechtsfrage strittig, ob der Beklagte als Erfüllungsgehilfe der Gebietskrankenkasse anzusehen ist.
+Von den Parteien ist außer Streit gestellt worden, daß Dr. G., der den Kläger zur Röntgenuntersuchung an den Beklagten gewiesen hat, Vertragsarzt und der Beklagte Vertragsfacharzt der Gebietskrankenkasse des zuständigen Sozialversicherungsträgers des Klägers ist.
+Das Berufungsgericht hat unter dem Gesichtspunkt der rechtlichen Beurteilung auch die von den Parteien nicht aufgeworfene Frage geprüft, ob der Beklagte als Erfüllungsgehilfe dieser Krankenkasse anzusehen ist. Es hat diese Frage verneint, weil die der Krankenkasse aus ihrem Rechtsverhältnis zum Kläger obliegende Leistung nur darin bestehe, ihn in die Möglichkeit zu versetzen, die Kassenbehandlung in Anspruch zu nehmen, so daß sie für eine Fehlbehandlung der von ihr beigestellten Vertragsärzte nicht haftbar sei.
+Der Ansicht des Berufungsgerichtes ist grundsätzlich zuzustimmen. Gemäß § 5 Abs. 4 des Sozialversicherungsüberleitungsgesetzes vom 12. Juni 1947, BGBl. Nr. 142, obliegt es den Trägern der Krankenversicherung für die Gewährung der Krankenpflege, insbesondere der ärztlichen Behandlung der Versicherten und ihres Familienangehörigen, ausreichend Vorsorge zu treffen. Nach dem Inhalt der der Krankenkasse obliegenden Leistungspflicht hat diese nicht selbst die ärztliche Hilfe zu leisten, sondern ist nur verpflichtet, dafür zu sorgen, daß sie von einem Dritten dem Vertragspartner geleistet werde. In einem solchen Fall ist aber für die Anwendung des § 1313a ABGB. kein Raum, weil die Leistung der Krankenkasse in dem Augenblick erfüllt ist, wo die Krankenkasse den Partner an den Dritten gewiesen und diesen beauftragt hat, ihm ärztliche Hilfe zu leisten. Der Dritte, das ist im vorliegenden Fall der Beklagte, erfüllt aber nicht die Verpflichtung der Krankenkasse gegenüber dem Kläger, sondern eine eigene selbständige Verpflichtung als behandelnder Röntgenfacharzt. Unterlief dabei ihm oder derjenigen Person, deren er sich zur Erfüllung bedient, ein Versehen, so haftet er persönlich dem Kläger. Darüber hinaus könnte eine Haftung der Krankenkasse nur dann in Frage kommen, wenn sie ein Verschulden in der Auswahl treffe (§ 1315 ABGB., vgl. SZ. XII/226, SZ. XII/276, ZBl. 1927, Nr. 176; Ehrenzweig, Obligationsanrecht, 1928, S. 691).
+Aus den angeführten Gründen ist die von Wolff (bei Klang, Komm. zum ABGB., 2. Aufl., 6. Band, Erl. zu § 1313a) vertretene Auffassung, daß die Krankenkasse, wenn sie das erkrankte Mitglied einem Arzt zuweist, für dessen Verschulden nach § 1313a ABGB. haftet, auch wenn er den Kranken nicht in einem kasseneigenen Ambulatorium behandelt, abzulehnen.

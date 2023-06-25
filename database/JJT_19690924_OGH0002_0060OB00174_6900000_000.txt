@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.1969
+Geschäftszahl
+6Ob174/69
+Norm
+ABGB §934;
+ABGB §936;
+ABGB §1053;
+Kopf
+SZ 42/136
+Spruch
+Ein Vorvertrag zu einem Kaufvertrag kann wegen Verkürzung über die Hälfte angefochten werden.
+Entscheidung vom 24. September 1969, 6 Ob 174/69.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Die Klägerin ist grundbücherlich Eigentümerin der Liegenschaft EZ. X, zu der die Grundstücke 517/1 und 521/1 je Weide und 518 Acker gehören. Am 27. November 1953 schloß sie mit dem Beklagten ein als Vorvertrag bezeichnetes Übereinkommen, in dem die Parteien vereinbarten, künftig, und zwar innerhalb von acht Tagen nach Willenseinigung über eine Veräußerung der restlichen der Klägerin gehörigen Liegenschaften, einen Kaufvertrag in einverleibungsfähiger Form über die Grundstücke 517 Weide, 518 Acker und ein weiteres Grundstück von etwa 400 m2 als Teil des Weidegrundstückes 521/1 um einen Gesamtkaufpreis von 10.000 S, nach dem Kleinhandelsindex wertgesichert, abzuschließen. Weiter wurde ein Vorkaufsrecht an den Kaufliegenschaften zugunsten des Beklagten vereinbart, das inzwischen auch grundbücherlich einverleibt wurde.
+Die Klägerin begehrt nunmehr mit der Begründung, sie habe sich nicht einmal die Hälfte des wahren Wertes der Liegenschaften versprechen lassen, die Aufhebung des Vorvertrages.
+Das Erstgericht wies das Klagebegehren ab. Die Anfechtung wegen Verkürzung über die Hälfte komme bei einem Vorvertrag, da er kein entgeltliches Rechtsgeschäft sei, nicht in Betracht. Es müsse erst zum Abschluß des Hauptvertrages kommen; erst dann, allenfalls noch vor der Erfüllung, könne die Klägerin als die Verletzte die Aufhebung des Vertrages fordern.
+Das Berufungsgericht hob dieses Urteil unter Rechtskraftvorbehalt auf. Da der Vorvertrag auf den Abschluß eines künftigen Kaufvertrages gerichtet sei, stelle er gleich diesem ein entgeltliches Rechtsgeschäft dar. Er könne daher wegen Verletzung über die Hälfte angefochten werden. Damit bedürfe es der Erhebung des Wertes der gegenständlichen Liegenschaften im Zeitpunkt des Abschlusses des Vorvertrages.
+Der Oberste Gerichtshof gab dem Rekurs des Beklagten gegen diesen Aufhebungsbeschluß nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß § 934 ABGB. kommt eine Anfechtung eines Vertrages wegen Verkürzung über die Hälfte nur bei zweiseitig verbindlichen Geschäften in Betracht. Darunter sind, wie auch sonst im ABGB., die entgeltlichen Geschäfte zu verstehen (Gschnitzer in Klang[2] IV/1 557). Die Entscheidung hängt daher primär davon ab, ob der gegenständliche Vorvertrag als entgeltliches Rechtsgeschäft, wie ihn das Berufungsgericht beurteilte, oder nicht, welchen Standpunkt das Erstgericht einnahm, aufzufassen ist. Richtig ist nun, daß Vorverträge nicht schlechthin als entgeltliche Geschäfte angesehen werden können, da etwa die Vertragserklärung des einen Teiles das Entgelt für die des anderen bilde. Das führte zu dem Ergebnis, daß auch Vorverträge zu einem unentgeltlichen Geschäft entgeltlich wären. Die Lösung ist vielmehr, sie als Hilfsgeschäfte wie das Hauptgeschäft zu behandeln (Gschnitzer a.a.O. 438). Da im gegebenen Fall der Vorvertrag auf den künftigen Abschluß eines Kaufvertrages gerichtet ist, ist dem Berufungsgericht zu folgen, daß er gleich diesem als entgeltliches Geschäft zu behandeln ist. Da auch die Zeit des Abschlusses des künftigen Kaufvertrages - durch Bezugnahme auf eine Veräußerung der restlichen Liegenschaften durch die Klägerin - bestimmt wurde und damit in dieser Richtung gegen die Verbindlichkeit des Vorvertrages keine Bedenken bestehen (§ 936 ABGB.), ist seine Anfechtung wegen Verkürzung über die Hälfte nicht ausgeschlossen. Es bedarf daher der vom Berufungsgericht bezeichneten Prüfung des Wertes der Liegenschaften im Zeitpunkt des Abschlusses des Vorvertrages, die das Erstgericht, von seiner abweichenden Rechtsansicht ausgehend, unterließ.

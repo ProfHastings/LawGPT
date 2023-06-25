@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.06.1955
+Geschäftszahl
+3Ob286/55
+Norm
+ABGB §1295;
+ABGB §1304;
+ABGB §1380;
+Allgemeines Sozialversicherungsgesetz §332;
+Reichsversicherungsordnung §1542;
+ZPO §395;
+Kopf
+SZ 28/150
+Spruch
+Der Forderungsübergang nach § 1542 RVO. (Jetzt § 332 ASVG.) tritt nur dann und insoweit ein, als den erbrachten Sozialleistungen entsprechende Forderungen des Verletzten nach Schadenersatzrecht gegenüberstehen.
+Das Anerkenntnis einer Forderung dem Gründe nach erstreckt sich regelmäßig auf alle Prämissen des erhobenen Anspruches, also vor allem auf das Schadensereignis, die Kausalität, das Fehlen eines Mitverschuldens und die grundsätzliche Anerkennung des Forderungsüberganges.
+Entscheidung vom 8. Juni 1955, 3 Ob 286/55.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Anstreichergehilfe Johann J. wurde am 19. Juli 1952 beim Streichen von Eisenträgern der Straßenbahnoberleitung durch vorzeitige Einschaltung des elektrischen Stromes schwer verletzt. Im Rechtsstreit 27 Cg 201/54 begehrte Johann J. von der beklagten Partei den Ersatz des Verdienstentganges und Schmerzengeld, im vorliegenden Rechtsstreit die klagende Partei von der beklagten Partei den Ersatz jener Leistungen, die sie an J. erbringen mußte, im Gründe des § 1542 RVO. Es waren dies Beträge für Krankentransporte, Krankenhauskosten und Taggelder von zusammen 9223 S sowie die an J. bezahlte Unfallsrente für die Zeit vom 2. Jänner 1953 bis 31. Dezember 1954 im Betrage von 6342 S 27 g. Die beiden Verfahren wurden zur gemeinsamen Verhandlung verbunden. Die beklagte Partei hat zunächst das Klagebegehren dem Gründe und der Höhe nach bestritten, es nach Erstattung des Sachverständigengutachtens aber dem Gründe nach anerkannt.
+Das Erstgericht verurteilte die beklagte Partei zur Zahlung an die klagende Partei nach dem Klagebegehren, das Verfahren J. kontra beklagte Partei wurde fortgesetzt. Dieses Urteil wurde von der beklagten Partei nur bezüglich eines Betrages von 6342 S 27 g, der aus dem Titel der erbrachten Rentenleistungen beansprucht wurde, angefochten.
+Das Berufungsurteil hob das Urteil auf und verwies die Sache an das Erstgericht zurück, weil nach seiner Ansicht die Feststellungen zur Verurteilung der Beklagten nicht ausreichten. Nach § 1542 Abs. 1 RVO. gingen die Ansprüche eines Verletzten auf den Sozialversicherer nur in dem Umfang über, in dem sie dem Verletzten selbst zustanden. Es sei daher nicht nur die Verletzung und die Verursachung derselben durch die beklagte Partei, sondern auch der dem Verletzten entstandene Verdienstentgang sowie der Übergang des Anspruches nach § 1542 RVO. von der Klägerin nachzuweisen gewesen. Das Erstgericht habe, nachdem die Klagsforderung dem Gründe nach anerkannt worden war, bloß die Höhe der ausbezahlten Renten festgestellt. Es hätte aber auch nachgewiesen werden müssen, daß J. in der Zeit vom 2. Jänner 1953 bis 31. Dezember 1954 auch tatsächlich einen Verdienstentgang hatte, der die von der Klägerin eingeklagten Rentenbeträge erreicht hat. Die prozessuale Anerkennungserklärung der Beklagten sei nur dahin auszulegen, daß die Schadenersatzpflicht dem Gründe nach in der Richtung eines Verschuldens anerkannt wurde, nicht aber auch schon der Förderungsübergang von J. auf die klagende Partei.
+Der Oberste Gerichtshof gab dem Rekurs der klagenden Sozialversicherungsanstalt nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Dem Berufungsgericht ist in seinen Ausführungen zu folgen, wenn es, gestützt auf die Ansicht von Seitz (die Ersatzansprüche der Sozialversicherungsträger nach §§ 903 und 1542 RVO., S. 51 ff.), betont, daß der Forderungsübergang nach § 1542 RVO. nur dann und insoweit eintritt, als den erbrachten Sozialleistungen entsprechende Forderungen des Verletzten nach Schadenersatzrecht gegenüberstehen. Es ist daher richtig, daß im gegebenen Fall nicht nur die Höhe der Unfallsrente festgestellt werden mußte, sondern auch darauf Bedacht zu nehmen war, ob dem Verletzten ein entsprechender Anspruch auf Verdienstentgang zugestanden wäre. Dabei gilt - entgegen der Meinung der Rekurswerberin -, wie schon das Berufungsgericht ausführte, der Grundsatz der kongruenten Deckung, in sachlicher und zeitlicher Hinsicht (2 Ob 19/52, 2 Ob 674/53, 2 Ob 1015/53). Es mußte daher festgestellt werden, ob dem Verletzten für den in Betracht kommenden Zeitraum ein Verdienstentgang mindestens in der Höhe der zuerkannten Rente zu ersetzen gewesen wäre.
+Die klagende Partei konnte sich aber auch nicht mit Erfolg auf das Anerkenntnis der Klagsforderung dem Gründe nach berufen. Die Ansicht des Berufungsgerichtes, daß das Anerkenntnis nur ein solches des Verschuldens gewesen sei, vermag der Oberste Gerichtshof allerdings nicht zu teilen. Das Anerkenntnis einer Forderung dem Gründe nach erstreckt sich regelmäßig auf alle Prämissen des erhobenen Anspruches, in diesem Falle also vor allem auf das Schadensereignis, die Kausalität, das Fehlen eines Mitverschuldens und die grundsätzliche Anerkennung des Forderungsüberganges nach § 1542 RVO. Offen bleibt aber die Frage, in welcher Höhe ein solcher Forderungsübergang erfolgt ist, was davon abhängt, in welcher Höhe ein Verdienstentgang des Verletzten angenommen wird und ob die ausbezahlte Rente in diesem Betrage Deckung findet. Diese Feststellungen gehörten jedenfalls in den die Höhe des Anspruches feststellenden Verfahrensteil. Da es sich auch nach Ansicht des Berufungsgerichtes nur um diese Feststellungen handelte, hatte daher der Umfang des Anerkenntnisses in diesem Zusammenhange keine weitere Bedeutung.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.10.2022
+Geschäftszahl
+1Ob183/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei B*, vertreten durch Dr. Hans Georg Mayer, Rechtsanwalt in Klagenfurt, gegen die beklagte Partei S*, vertreten durch Mag. Herbert Premur, Rechtsanwalt in Klagenfurt, wegen Leistung (Streitwert 4.000 EUR) und Unterlassung (Streitwert 2.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 6. Juli 2022, GZ 4 R 17/22z-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin pachtete 2019 landwirtschaftliche Grundstücke, für deren Bewirtschaftung sie unter anderem für das Jahr 2020 (nur auf diesen Zeitraum bezieht sich die Klage) Agrarförderungen der AgrarMarkt Austria („AMA“) beantragte. Obwohl der Pachtvertrag des Beklagten über dieselben Grundstücke bereits 2018 aufgelöst worden sei und er ihre Bewirtschaftung 2019 eingestellt habe, habe er für 2020 ebenfalls Förderungen für diese beantragt. Aus diesem Grund habe die AMA der Klägerin keine Förderung bewilligt. Der Beklagte habe mit seinem unberechtigten Förderungsantrag in ihre Rechte eingegriffen. Er sei daher zur Zurückziehung dieses Antrags (in eventu zur Zahlung erlangter Förderungen an die Klägerin), zur Übertragung seiner Zahlungsansprüche (Förderungsansprüche) an die Klägerin sowie zur Unterlassung einer künftigen Inanspruchnahme von Förderleistungen „oder ähnlicher Störungen“ verpflichtet.
+[2] 		Das Berufungsgericht bestätigte die klageabweisende Entscheidung des Erstgerichts. Die Kündigung des Pachtvertrags des Beklagten durch die Verpächterin sei aufgrund eines vertraglich vereinbarten Kündigungsverzichts unwirksam gewesen. Durch die Verpachtung der Grundstücke an die Klägerin sei es zu einer Doppelverpachtung gekommen. Da die Klägerin das Pachtrecht des Beklagten erkennen hätte können (und sie auf dieses von seinem Vertreter außerdem im November 2019 ausdrücklich hingewiesen worden sei), könne sie sich diesem gegenüber nicht auf ihr später begründetes Pachtrecht berufen.
+[3] 		Das Berufungsgericht sprach aus, dass der Wert des Streitgegenstands 30.000 EUR übersteige und die Revision nicht zulässig sei.
+Rechtliche Beurteilung
+[4] 		Die dagegen erhobene außerordentliche Revision der Klägerin ist mangels Darlegung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO nicht zulässig:
+[5] 		Die Revisionswerberin zielt mit ihren Ausführungen, sie sei bei Abschluss ihres Pachtvertrags gutgläubig gewesen und daher redliche (Rechts-)Besitzerin der gepachteten Grundstücke geworden, offenkundig auf die Rechtsprechung ab, wonach eine gegen eine rechtswidrige Beeinträchtigung des Bestandrechts durch einen Dritten gerichtete (Unterlassungs-)Klage keinen Erfolg hat, wenn der Dritte selbst gutgläubig vom Bestandgeber ein Recht erworben hat (7 Ob 654/89 [verstärkter Senat]; 4 Ob 350/98v; 4 Ob 168/02p; 7 Ob 71/14p; vgl auch 3 Ob 116/92 zur Doppelverpachtung; siehe aber auch 10 Ob 134/98y, wonach bei mehrfacher Inbestandgabe jener Bestandnehmer berechtigt ist, dem die Sache zuerst übergeben wurde).
+[6] 		Auf diese – in der Literatur teilweise kritisierte (vgl etwa Holzner in Klete?ka/Schauer, ABGB-ON1.05 § 372 ABGB Rz 3; Müller in Schwimann/Kodek5 § 372 ABGB Rz 20) – Judikatur und ihre allfälligen Folgen für den vorliegenden Fall muss hier aber nicht näher eingegangen werden. Denn die Frage der Gutgläubigkeit ist von den Umständen des Einzelfalls abhängig und kann die Zulässigkeit der Revision daher nur dann begründen, wenn das Berufungsgericht seinen  Beurteilungsspielraum überschritten hat. Das ist hier nicht der Fall: Das Berufungsgericht nahm an, dass die (ortskundige und mit der Bestandgeberin verwandte) Klägerin bei Vertragsabschluss aufgrund der Nichtrückstellung des Pachtgegenstands und der Weiterbewirtschaftung über die Kündigungsfrist hinaus Zweifel „an der Rechtmäßigkeit“ ihres Pachtvertrags haben musste. Die damit begründete Annahme fehlender Gutgläubigkeit ist im Einzelfall nicht zu beanstanden. Schon aus diesem Grund kann sich die Klägerin nicht auf einen „gutgläubigen Erwerb des Pachtrechts“ im Sinn der genannten Rechtsprechung  stützen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00183.22A.1012.000

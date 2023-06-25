@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.05.1952
+Geschäftszahl
+3Ob302/52
+Norm
+KO §8;
+ZPO §234;
+Kopf
+SZ 25/141
+Spruch
+Ein vom Masseverwalter angestrengter Prozeß kann dem Gemeinschuldner zur Weiterführung überlassen werden; hierin liegt keine Veräußerung des Anspruches und keine Änderung der klagenden Partei.
+Entscheidung vom 21. Mai 1952, 3 Ob 302/52.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Es handelt sich um die Aktivprozesse zweier Konkursmassen, in die der Gemeinschuldner Karl V. auf Grund des vom Konkursgericht genehmigten Beschlusses des Gläubigerausschusses eingetreten ist.
+Das Erstgericht erklärte den Eintritt des Gemeinschuldners an Stelle der Konkursmasse für unzulässig, weil Konkursmasse und Gemeinschuldner verschiedene Rechtssubjekte seien und weil die zu einer Parteienänderung notwendige Zustimmung der Beklagten fehle.
+Das Rekursgericht änderte den erstgerichtlichen Beschluß dahin ab, daß es die Aufnahme des Verfahrens durch den Gemeinschuldner Karl V. an Stelle der Konkursmasse über das Vermögen des Karl V. zuließ und dem Erstgericht die Fortsetzung des Verfahrens auftrug. Das Rekursgericht vertrat die Auffassung, daß die Bestimmung des § 8 KO. über die Aufnahme von Aktivprozessen durch den Gemeinschuldner, die bei Konkurseröffnung bereits anhängig waren und bei denen der Masseverwalter den Eintritt in den Rechtsstreit ablehnte, analog anzuwenden seien.
+Der Oberste Gerichtshof gab den Revisionsrekursen der beklagten Parteien nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Konkurseröffnung hat die Wirkung, daß dem Gemeinschuldner die Verfügung über die Konkursmasse entzogen wird.
+Ein Rechtsübergang auf die Gläubiger oder die Masse findet hiedurch nicht statt. Der Gemeinschuldner bleibt nach wie vor Träger der die Masse bildenden Vermögensrechte. Das in einem Masseprozeß ergehende Urteil wirkt unmittelbar und ausschließlich sowohl für als auch gegen den Gemeinschuldner, der als Träger des konkursverfangenen Vermögens die vom Masseverwalter vertretene Partei ist. Es ist daher die in den Revisionsrekursen vertretene Rechtsansicht, daß Konkursmasse und Gemeinschuldner verschiedene Rechtssubjekte seien, als rechtsirrig abzulehnen.
+Nach herrschender Rechtsauffassung (Bartsch - Pollak, Band I, S. 80, S. 534; ZBl. 1929 Nr. 99) werden anhängige Aktivprozesse durch die Konkursaufhebung nicht unterbrochen, gleichgültig ob es sich um Rechtsstreitigkeiten handelt, die vor Eröffnung des Konkursverfahrens schon anhängig waren und in die der Masseverwalter eingetreten ist, oder um solche, die vom Masseverwalter nach Konkurseröffnung neu anhängig gemacht wurden. Durch die Konkursaufhebung erlischt lediglich die Vertretungsbefugnis des Masseverwalters und die Prozeßführungsbefugnis geht wieder auf den Gemeinschuldner über.
+Die gleichen Grundsätze haben auch im vorliegenden Fall zur Anwendung zu kommen. Hier wurde eine strittige, bereits im Prozeß verfangene Forderung dem Gemeinschuldner zur freien Verfügung überlassen. In Ansehung dieser Forderung ist daher der Gemeinschuldner, der von vornherein die Prozeßpartei war, berechtigt, an Stelle des Masseverwalters den Prozeß selbst weiterzuführen.
+Ohne Rechtsirrtum hat darum das Rekursgericht dem Erstgericht die Fortsetzung des Verfahrens mit dem Gemeinschuldner aufgetragen.

@@ -1,0 +1,151 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2001
+Geschäftszahl
+16Ok7/01
+Kopf
+Der Oberste Gerichtshof hat als Rekursgericht in Kartellrechtssachen durch die Hofrätin des Obersten Gerichtshofes Dr. Birgit Langer als Vorsitzende sowie die Hofräte des Obersten Gerichtshof Dr. Manfred Vogel und Dr. Gerhard Kuras sowie die fachkundigen Laienrichter Kommerzialräte Dr. Fidelis Bauer, Dkfm. Joachim Lamel, Dkfm. Alfred Reiter und Dr. Thomas Lachs in der Kartellrechtssache der Antragstellerin G***** Gesellschaft mbH, *****, vertreten durch Dr. Christian Zschocke, Rechtsanwalt in Frankfurt am Main, Guiollettstraße 54, Zustellbevollmächtigte Dorda, Brugger & Jordis Rechtsanwälte GmbH, Rechtsanwälte in Wien, wider die Antragsgegner 1. P***** Gesellschaft mbH, *****, vertreten durch Schönherr Barfuß Torggler & Partner, Rechtsanwälte in Wien, 2. S***** Aktiengesellschaft Österreich, *****, vertreten durch Siemer-Siegl-Füreder & Partner, Rechtsanwälte in Wien, wegen Abschöpfung der Bereicherung (§ 21 KartG) und Untersagung der Durchführung eines Kartells (§ 25 Abs 1 KartG), über den Rekurs der Antragstellerin gegen den Beschluss des Oberlandesgerichtes Wien als Kartellgericht vom 9. Juli 2001, GZ 29 Kt 456/99-31, den Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Text
+Begründung:
+Die Antragstellerin ist die österreichische Tochtergesellschaft eines weltweit tätigen Konzerns mit Sitz in den USA, der in verschiedenen Geschäftsbereichen tätig ist; sie bietet in Österreich unter anderem medizinische Kernspintomographen an. Auch die Antragsgegner sind österreichische Tochtergesellschaften weltweit tätiger Konzerne mit Sitz in den Niederlanden (Erstantragsgegnerin) und Deutschland (Zweitantragsgegnerin), die ebenfalls in einer großen Zahl unterschiedlicher Geschäftsfelder tätig sind; auch sie bieten in Österreich unter anderem Kernspintomographen an.
+Am 22. 7. 1997 schrieb die Landesnervenklinik Salzburg (im Folgenden: Landesnervenklinik) in einem offenen Ausschreibungsverfahren ein hochauflösendes Kernspintomographensystem für die Protonen-Bildgebung und Spektroskopie zur universellen Diagnostik am gesamten Körper aus. Vorgabe war, dass die Anlage mit einem supraleitenden Hochfeldmagnetsystem mit 1,5 Tesla Magnetfeldstärke ausgestattet sein musste (Hauptangebot); als Variante wurde ein System mit einer Feldstärke von 1,0 Tesla ausgeschrieben. An dieser Ausschreibung haben sich neben den Streitteilen noch die Firmen E*****, P***** und T***** beteiligt. Die Angebotseröffnung am 1. 10. 1997 für Haupt- und Variantenangebot ergab folgendes Ergebnis (Preise in Schilling exkl USt):
+Bieter                      Hauptangebot       Variante
+Antragstellerin             15,096.000         12,334.999
+Erstantragsgegnerin         19,500.000         15,400.000
+Zweitantragsgegnerin        22,227.080         15,538.100
+E*****                      17,100.000         kein Angebot
+P*****                      14,998.000         13,689.000
+T*****                      15,585.592         kein Angebot
+Das Hauptangebot der Erstantragsgegnerin betraf deren MR-Tomograph
+1,5 Tesla mit der Bezeichnung Gyroscan ACS-NT, ihr Variantenangebot
+den MR-Tomograph 1,0 Tesla mit der Bezeichnung Gyroscan NT 1,0. Das
+Hauptangebot der Zweitantragsgegnerin betraf deren MR-Tomograph 1,5
+Tesla mit der Bezeichnung Magnetom Vision-Plus, ihr Variantenangebot
+den MR-Tomograph 1,0 Tesla mit der Bezeichnung Magnetom Harmony. Mit
+Schreiben vom 4. 12. 1997 widerrief die Landesnervenklinik diese
+Ausschreibung, weil die Umstände ergaben, dass nicht nur eine,
+sondern zwei MR-Anlagen mit teilweise anderen technischen
+Spezifikationen angeschafft werden sollten. Am 6. 1. 1998 schrieb die
+Landesnervenklinik für sich und für die Landeskrankenanstalt Salzburg
+(im Folgenden: Landeskrankenanstalt) im Rahmen eines offenen
+Ausschreibungsverfahrens einen MR-Tomograph 1,5 Tesla und einen
+MR-Tomograph 1,0 Tesla aus. In dieser Ausschreibung wurde die
+Landesnervenklinik als Lieferadresse für den MR-Tomograph 1,5 Tesla
+und die Landeskrankenanstalt als Lieferadresse für den MR-Tomograph
+1,0 Tesla genannt. Im Rahmen dieses (zweiten)
+Ausschreibungsverfahrens bildeten die Antragsgegner unter der
+Bezeichnung "MR Salzburg" eine Bietergemeinschaft. Vereinbart wurde,
+dass die Erstantragsgegnerin den MR-Tomographen 1,5 Tesla (Gycrosan
+ACS-NT) und die Zweitantragsgegnerin den MR-Tomographen 1,0 Tesla
+(Magnetom Harmony) anbieten und im Falle des Zuschlags liefern
+sollte. An dieser zweiten Ausschreibung nahmen dieselben Unternehmen
+wie an der ersten Ausschreibung teil. Folgende Angebote wurden
+gelegt:
+Anbieter             MR-Tomograph            Preis
+(in Schilling exkl USt)
+Bietergemeinschaft   MR-Tomograph             15,990.000
+"MR Salzburg"        1,5 Tesla-Gyroscan
+ACS-NT (Erstantrags-
+gegnerin);
+MR-Tomograph             10,280.000
+1,0 Tesla-Magnetom
+Harmony (Zweitantrags-
+gegnerin)
+Gesamtpreis:             26,270.000
+Antragstellerin      MR-Tomograph
+1,5 Tesla-Sigma
+Horizon;
+MR-Tomograph
+1,0 Tesla-Highspeed
+Gesamtpreis:             28,948.127
+T*****               MR-Tomograph
+1,5 Tesla-Visa           32,494.300
+P*****               MR-Tomograph
+1,5 Tesla-Edge Eclipse;
+MR-Tomograph
+1,0 Tesla-Vista
+Polaris
+Gesamtpreis:             27,688.200
+E*****               MR-Tomographen
+Gyrex 2T Prestige
+und Prima 1TG bei        30,350.000
+Vergabe von beiden
+Systemen Sonderpreis     26,000.000
+Die Angebote wurden am 10. 2. 1998 eröffnet; den Zuschlag erhielt die Bietergemeinschaft "MR Salzburg". Am 25. 11. 1998 wurde der MR-Tomograph 1,5 Tesla von der Erstantragsgegnerin an die Landesnervenklinik und am 9. 3. 1999 der MR-Tomograph 1,0 Tesla von der Zweitantragsgegnerin an die Landeskrankenanstalt geliefert, wo zuvor noch bauliche Adaptierungen durchgeführt wurden. Die Gewährleistungsfrist ist bereits abgelaufen.
+Die Antragstellerin beantragt, den Antragsgegnerinnen gem § 21 KartG die Zahlung eines Geldbetrages zur Abschöpfung des aus der verbotenen Durchführung des Kartells entstandenen Gewinns aufzuerlegen und ihnen die Durchführung des Kartells gemäß § 25 KartG zu untersagen. Die Antragsgegnerinnen hätten in einem "Folgeausschreibungsverfahren" ein gemeinsames Angebot zur Lieferung von zwei Kernspintomographen als Bietergemeinschaft abgegeben und den Zuschlag erhalten. In einem davor durchgeführten Ausschreibungsverfahren hätte die Antragstellerin das beste Angebot abgegeben, während die Antragsgegnerinnen noch mit getrennten Angeboten teilgenommen hätten. Durch die Eingehung einer Bietergemeinschaft beschränkten die Antragsgegnerinnen das Wettbewerbsverhältnis zwischen ihnen und verstießen dadurch gegen europäisches und österreichisches Kartellrecht sowie gegen Vergaberecht. Auch den Auftraggebern sei durch die Zuschlagserteilung an die Bietergemeinschaft der Antragsgegner ein Schaden entstanden; hätten nämlich die Antragsgegnerinnen Einzelangebote gelegt, wären diese noch günstiger gewesen. Die zwischen den Antragsgegnerinnen geschlossene Vereinbarung zur Eingehung der Bietergemeinschaft sei als Kartell iSd § 10 Abs 1 KartG zu beurteilen, weil es die Beschränkung des Wettbewerbs zwischen den beiden Unternehmen bezwecke. Da dieses Kartell nicht nach § 23 Z 2 KartG angemeldet worden sei, verstoße das Verhalten der Antragsgegnerinnen gegen § 18 Abs 1 Z 1 KartG und sei zu untersagen.
+Die Antragsgegnerinnen beantragen, die Anträge als unzulässig zurückzuweisen, in eventu, sie als unbegründet abzuweisen. Der Antragstellerin fehle für ein Verfahren nach § 21 KartG die Antragslegitimation. Bei der zeitlich früheren Ausschreibung seien nicht zwei Kernspintomographen Ausschreibungsgegenstand gewesen, sondern nur ein Kernspintomograph samt einer Variantenausschreibung. Eine Bietergemeinschaft bei der zweiten Ausschreibung sei deshalb eingegangen worden, weil die Antragsgegnerinnen allein jeweils nicht in der Lage gewesen wären, ein erfolgversprechendes Angebot abgeben zu können. Der Auftraggeberin sei aus der Bildung der Bietergemeinschaft kein Schaden entstanden, weil das Landeskrankenhaus ohne Angebot der Bietergemeinschaft einen um rund 1,5 Mio S höheren Preis zu zahlen gehabt hätte. Die Bildung der Bietergemeinschaft durch die Antragsgegnerinnen sei weder nach europäischem Kartellrecht, nach österreichischem Kartellrecht oder auch nach Vergaberecht zu beanstanden. Erst durch die Bietergemeinschaft sei im zweiten Ausschreibungsverfahren zusätzlicher Wettbewerb auf der Angebotsseite durch die Bietergemeinschaft gegenüber den Auftraggebern entstanden. Selbst für den Fall, dass die Bildung der Bietergemeinschaft kartellrechtswidrig gewesen sein sollte - was bestritten werde -, liege nunmehr kein Sachverhalt mehr vor, der nach § 25 KartG untersagt werden könne. Das Erstgericht wies den Antrag, ein Verfahren nach § 21 KartG einzuleiten und den Antragsgegnerinnen die Zahlung eines Geldbetrages zur Abschöpfung des aus der verbotenen Durchführung des Kartells entstandenen Gewinns aufzuerlegen, zurück (Punkt I), stellte fest, dass das Verfahren gegen die Antragsgegnerinnen auf Abschöpfung der Bereicherung gemäß § 21 KartG von Amts wegen nicht fortgesetzt wird (Punkt II) und wies den Antrag, das Kartellgericht möge die Durchführung des Kartells zwischen den Antragsgegnerinnen gemäß § 25 KartG untersagen, ab. Die Antragstellerin sei nicht legitimiert, einen auf § 21 Abs 1 KartG gestützten Antrag zu stellen, weil sie keine Amtspartei sei. Das Ausschreibungsverfahren, in dem der Bietergemeinschaft der Antragsgegnerinnen der Zuschlag erteilt worden sei, habe der Auftraggeberin (auch nach deren eigener Ansicht) wirtschaftliche Vorteile und keine Nachteile gebracht. Ein öffentliches Interesse an einer amtswegigen Einleitung oder Fortsetzung des durch die Antragstellerin eingeleiteten Verfahrens sei nicht zu ersehen, ein Einschreiten von Amts wegen iSd § 44a KartG daher nicht notwendig. Die Durchführung eines Kartells könne nur so lange untersagt werden, als das Kartell nicht zur Gänze durchgeführt sei. Beide Kernspintomographen seien mittlerweile geliefert, auch die Gewährleistungsfrist sei abgelaufen. Von der Durchführung eines Kartells durch Eingehung einer Bietergemeinschaft könne somit nicht (mehr) gesprochen werden; der auf das Verbot eines solchen Kartells abzielende Antrag sei abzuweisen.
+Gegen diesen Beschluss richtet sich der Rekurs der Antragstellerin wegen unrichtiger Beweiswürdigung und unrichtiger rechtlicher Beurteilung mit dem Antrag, die Durchführung des Kartells zwischen den Antragsgegnern zu untersagen; hilfsweise stellt sie einen Aufhebungsantrag.
+Die Antragsgegnerinnen beantragen dem Rekurs nicht Folge zu geben.
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+Vorauszuschicken ist, dass die Rekursausführungen, soweit sie sich gegen die Ablehnung einer amtswegigen Verfahrenseinleitung richten und "anregen", den angefochtenen Beschluss in seinem Punkt II abzuändern, unzulässig sind, weil die Antragstellerin, die keine Amtspartei ist, insoweit kein Antragsrecht besitzt (§ 21 Abs 1 KartG). Damit ist die Rekurswerberin aber auch durch die Entscheidung, kein Verfahren zur Abschöpfung einer Bereicherung aus der verbotenen Durchführung eines Kartells einzuleiten, nicht beschwert, weil diese weder von einem (zulässigen) Sachantrag der Antragstellerin abweicht noch sonst die materielle oder prozessuale Rechtsstellung der Rekurswerberin beeinträchtigt (Kodek in Rechberger, ZPOý vor § 461 Rz 10). Auf die in diesem Zusammenhang in der Beweisrüge aufgeworfene Frage, ob der Auftraggeberin durch Bildung der Bietergemeinschaft wirtschaftlicher Nachteil oder sonstiger Schaden entstanden sei (die auch für die rechtliche Beurteilung des Untersagungsantrags - wie noch im Folgenden auszuführen ist - keine Bedeutung hat), muss damit nicht weiter eingegangen werden.
+Zum Untersagungsantrag vertritt die Antragstellerin die Auffassung,
+das von ihr behauptete Kartell der Antragsgegnerinnen bestünde über
+die bloße Lieferverpflichtung der hochtechnischen Geräte hinaus etwa
+dann noch weiter, falls die Antragsgegnerinnen gemeinsame Service-
+und Wartungspflichten zu erfüllen hätten. Ob dies der Fall sei, könne
+nicht abschließend beurteilt werden, weil das Erstgericht
+Untersuchungen dazu unterlassen habe; die Entscheidung sei insoweit
+mangelhaft geblieben.
+Die Rechtsmittelwerberin stellt mit diesen Ausführungen die
+zutreffende Rechtsansicht des Erstgerichts nicht in Frage, spätestens
+mit Ablauf der Gewährleistungsfrist nach Lieferung der
+ausgeschriebenen Geräte könne von einer Durchführung eines Kartells
+der Antragsgegnerinnen durch Bildung einer Bietergemeinschaft im
+Rahmen eines Ausschreibungsverfahrens keine Rede mehr sein. Richtig
+ist nämlich, dass nur ein aktuelles, im Zeitpunkt der Entscheidung
+noch andauerndes kartellrechtswidriges Verhalten Gegenstand eines
+Untersagungsauftrags gem § 25 Abs 1 KartG sein kann. Untersagt werden
+kann nach dem klaren Wortlaut dieser Bestimmung nur die Durchführung
+von bestimmten Kartellen; ist das verbotswidrige Verhalten aber
+endgültig beendet, mangelt es am Tatbestand eines Kartells, das für
+die Zukunft untersagt werden könnte (in diesem Sinne auch Gugerbauer,
+KartGý § 35 Rz 4, wonach ein Auftrag im Rahmen der
+Marktmachtmissbrauchsaufsicht ein Andauern des Missbrauchs im
+Entscheidungszeitpunkt voraussetzt; ebenso Emmerich in
+Immenga/Mestmäcker, GWB3 § 32 Rz 11, und Bornkamm in Langen/Bunte,
+Kommentar zum deutschen und europäischen Kartellrecht I9 § 32 GWB Rz
+21, zur vergleichbaren Bestimmung der Untersagungsverfügung nach § 32
+GWB im deutschen Kartellrecht). Die Frage, ob und allenfalls unter
+welchen Voraussetzungen eine Bietergemeinschaft von Wettbewerbern
+kartellrechtswidrig ist (zum Meinungsstand vgl etwa Lange, Handbuch
+zum deutschen und europäischen Kartellrecht, 93 ff und 80 ff;
+Gleiss/Hirsch, Kommentar zum EG-Kartellrecht I4, 215 ff; vgl auch
+Karollus/Artmann, Bietergemeinschaften im europäischen Kartellrecht,
+wbl 2001, 453 ff; vgl auch Karollus/Artmann, Bietergemeinschaften im
+europäischen Kartellrecht, wbl 2001, 453 ff), bedarf somit hier
+keiner weiteren Prüfung.
+Die Entscheidung ist aber auch nicht deshalb mangelhaft, weil im
+Verfahren eine über ihre Lieferpflichten hinausgehende allfällige
+weitere gemeinsame Zusammenarbeit der Antragsgegnerinnen nicht näher
+geprüft worden ist.
+Ein Untersagungsverfahren gem § 25 Abs 1 KartG ist auf Antrag
+einzuleiten; über einen solchen Antrag ist im Verfahren außer
+Streitsachen zu entscheiden (§ 43 KartG). Der im Außerstreitverfahren
+grundsätzlich postulierte Untersuchungsgrundsatz (§ 2 Abs 2 Z 5
+AußStrG) enthebt in jenen Verfahren, die nur über Antrag einzuleiten
+sind, die antragstellende Partei nicht ihrer Verpflichtung, das
+Vorhandensein der gesetzlichen Voraussetzungen für den Antrag
+wenigstens zu behaupten (SZ 25/215; vgl auch 16 Ok 8/95 = SZ 69/43).
+Bei Entscheidungen, die auf Parteiantrag im Interesse der
+Antragsteller zu erlassen sind, wird die Erhebungspflicht durch die
+Antragsbehauptungen im Kern bestimmt und ist nicht grenzenlos
+auszudehnen (6 Ob 13/85; 4 Ob 103/01b). Das Gericht hat sich in
+solchen Fällen bei seinen notwendigen amtswegigen Erhebungen im
+Rahmen der Anträge der Parteien zu halten (RIS-Justiz RS0006330).
+Die Antragstellerin hat sich im gesamten - infolge ihres Antrags
+eingeleiteten - Verfahren darauf beschränkt, die Bildung einer
+Bietergemeinschaft durch die Antragsgegnerinnen als jenen Sachverhalt
+zu bezeichnen, der ihrer Auffassung nach den Tatbestand eines
+unzulässigen Kartells verwirkliche (Schreiben vom 21. 6. 1999, ON 2,
+AS 5; Schreiben vom 10. 9. 1999, ON 4, AS 15 ff; Schreiben vom 7. 2.
+2000, ON 18, AS 115). Sie hat hingegen darüber hinaus in erster
+Instanz nicht behauptet, dass die Antragsgegnerinnen sie gemeinsam
+verpflichtende Wartungsverträge (als Form kartellrechtswidriger
+Zusammenarbeit) abgeschlossen hätten; solches wird von den
+Antragsgegnerinnen im Rekursverfahren im Übrigen bestritten. Bei
+dieser Sachlage bestand für das Erstgericht kein Anlass, über den substantiiert behaupteten Sachverhalt hinaus zu prüfen, ob die Antragsgegnerinnen nicht auch gemeinsame Service- und Wartungspflichten vereinbart haben, bejahendenfalls, ob dies als verbotene horizontale Absprache zu beurteilen ist. Dem Rekurs ist damit auch unter diesem Aspekt ein Erfolg zu versagen. Eine Kostenentscheidung entfiel, weil die Parteien im Rekursverfahren keine Kosten verzeichnet haben. Obwohl die Antragstellerin zur Gänze unterlegen ist, wäre sie im Übrigen deshalb nicht zum Kostenersatz zu verpflichten gewesen, weil ihr (mangels Rechtsprechung zu einem vergleichbaren Sachverhalt) eine mutwillige Rechtsverfolgung nicht vorgeworfen werden kann (§ 45 Abs 2 KartG).

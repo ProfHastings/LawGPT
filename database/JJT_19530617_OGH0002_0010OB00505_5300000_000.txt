@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.06.1953
+Geschäftszahl
+1Ob505/53
+Norm
+Allgemeines bürgerliches Gesetzbuch §91;
+Allgemeines bürgerliches Gesetzbuch §154;
+Allgemeines bürgerliches Gesetzbuch §1042;
+Jurisdiktionsnorm §93 Abs. 1;
+Zivilprozeßordnung §11 Z. 1;
+Kopf
+SZ 26/157
+Spruch
+Eine Klage gegen den Ehegatten und die Eltern des Spitalspfleglings auf Rückersatz der Spitalskosten begrundet keine materielle Streitgenossenschaft.
+Der Gerichtsstand nach § 93 Abs. 1 JN. ist nicht anwendbar.
+Entscheidung vom 17. Juni 1953, 1 Ob 505/53.
+I. Instanz: Bezirksgericht Innere Stadt - Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Nach dem Inhalt der Klage befand sich Adele H., die Gattin des Erstbeklagten und Mutter des Zweitbeklagten, in Spitalsbehandlung im Krankenhaus Lainz. Hiebei sind Verpflegskosten aufgelaufen, die unberichtigt aushaften. Gemäß § 1042 ABGB. wird vom Erstbeklagten, der seinen allgemeinen Gerichtsstand in Wien hat, ein Betrag von 300 S und vom Zweitbeklagten, der ständig in Liezen (Steiermark) wohnt und hinsichtlich dessen der Gerichtsstand nach § 93 Abs. 1 JN. herangezogen wird, ein Betrag von 2600 S begehrt.
+Während beide Beklagte bei der ersten mündlichen Streitverhandlung ihre Zahlungsverpflichtung bestritten haben, wurde vom Zweitbeklagten mit Rücksicht auf seinen ständigen Wohnort in Liezen noch die Einrede der örtlichen Unzuständigkeit erhoben.
+Das Erstgericht hat die Klage gegen den Zweitbeklagten wegen örtlicher Unzuständigkeit zurückgewiesen, da sich die klagende Partei nicht auf den Gerichtsstand nach § 93 Abs. 1 JN. berufen könne, weil dieser nur die eigentliche Streitgenossenschaft nach § 11 Z. 1 ZPO. zur Voraussetzung habe. Diese Streitgenossenschaft sei aber nicht gegeben, weil die Beklagten in Ansehung des Streitgegenstandes weder in Rechtsgemeinschaft stehen noch aus demselben rechtlichen und tatsächlichen Gründe verpflichtet seien, zumal sich die Unterhaltspflicht des Erstbeklagten aus § 91 ABGB., die des Zweitbeklagten aus der Tatsache ergebe, daß dieser der Sohn der durch das Krankenhaus Verpflegten sei.
+Dem Rekurs der klagenden Partei hat das Rekursgericht Folge gegeben und den angefochtenen Beschluß dahin abgeändert, daß der Antrag, die Klage wegen örtlicher Unzuständigkeit zurückzuweisen abgewiesen wurde. Wenn auch die Unterhaltspflicht des Erstbeklagten sich aus § 91 ABGB. und die des Zweitbeklagten aus der Bestimmung des § 154 ABGB. ergebe, so dürfe nicht übersehen werden, daß mit der gegenständlichen Klage die Ersatzpflicht nach § 1042 ABGB. geltend gemacht werde. Es werde der Ersatz für einen Aufwand begehrt, den die beiden Beklagten nach dem Gesetz zufolge ihrer gesetzlichen Unterhaltspflicht selbst hätten machen müssen. Aus diesen Umständen gehe aber hervor, daß die beiden Beklagten aus demselben rechtlichen und tatsächlichen Gründe verpflichtet seien. Es handle sich daher um eine eigentliche Streitgenossenschaft im Sinne des § 11 Abs. 1 ZPO., sodaß auch der Gerichtsstand nach § 93 Abs. 1 JN. gegeben sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Zweitbeklagten Folge und stellte den erstrichterlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist in Lehre und Rechtsprechung unbestritten, daß § 93 Abs. 1 JN., der den Gerichtsstand der passiven Streitgenossenschaft regelt und auf den die Zuständigkeit des angerufenen Gerichtes gestützt wird, nur die Streitgenossenschaft im Sinne des § 11 Z. 1 ZPO. zur Voraussetzung hat (EvBl. 1937, Nr. 257; Neumann zu § 93 JN.).
+Eine eigentliche Streitgenossenschaft im Sinne des § 11 Z. 1 ZPO. ist auf der passiven Seite gegeben, wenn die Beklagten in Ansehung des Streitgegenstandes in Rechtsgemeinschaft stehen der aus demselben tatsächlichen und rechtlichen Gründe verpflichtet sind.
+Daß die Beklagten in Ansehung des gemäß § 1042 ABGB. geforderten Ersatzbetrages nicht in Rechtsgemeinschaft stehen, kann füglich nicht zweifelhaft sein.
+Aber auch ein gemeinsamer Rechtsgrund kann nicht angenommen werden.
+Die im Krankenhaus in Lainz Verpflegte ist nach dem Inhalt der Klage die Gattin des Erstbeklagten und die Mutter des Zweitbeklagten.
+Es ist richtig, daß beide Beklagte, u. zw. den ersteren gemäß § 91 ABGB. und die zweitbeklagte Partei gemäß § 154 ABGB., eine Unterhaltspflicht trifft.
+Während aber den Erstbeklagten als Gatten der Adele H. die Ersatzpflicht für die geleisteten Verpflegskosten im Sinne des § 91 ABGB. in erster Linie vor den übrigen Unterhaltsverpflichteten trifft, kann der Zweitbeklagte zur Unterhaltsleistung und zum Ersatz einer Leistung gemäß § 1042 ABGB. nur herangezogen werden, wenn seine Eltern in Dürftigkeit verfallen sind. Diese Verpflichtung des Zweitbeklagten als Sohn der Adele H. ist daher eine subsidiäre und davon abhängig, daß auch der Erstbeklagte seiner Verpflichtung im Sinne des § 91 ABGB. nicht nachkommen kann.
+Bei dieser bestehenden primären Verpflichtung des Erstbeklagten als Gatten der Adele H. kann nicht gesagt werden, daß die Nämlichkeit des tatsächlichen und rechtlichen Gründes in Ansehung des Zweitbeklagten zur Leistungsverpflichtung vorliegt (Pollak I, S. 193, OG. Brünn, Slg. OG. 1142).
+Es liegt daher eine eigentliche Streitgenossenschaft im Sinne des § 11 Z. 1 ZPO. hinsichtlich der zweitbeklagten Partei nicht vor, weshalb die Klage nicht auf den Gerichtsstand des § 93 Abs. 1 JN. gestützt werden konnte.
+Mit Recht hat daher das Erstgericht in Stattgebung der Einrede der örtlichen Unzuständigkeit die Klage in Ansehung des Zweitbeklagten zurückgewiesen, weshalb in Abänderung des angefochtenen Beschlusses der erstrichterliche Beschluß wiederherzustellen war.

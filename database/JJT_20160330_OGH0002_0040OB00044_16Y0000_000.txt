@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2016
+Geschäftszahl
+4Ob44/16y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei H***** S*****, vertreten durch Salburg Rechtsanwalts GmbH in Wien, gegen die beklagten Parteien 1. M***** Aktiengesellschaft, *****, vertreten durch Kunz Schima Wallentin Rechtsanwälte OG in Wien, 2. A***** Ltd., *****, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen 18.698,47 EUR sA, über den Revisionsrekurs der erstbeklagten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 30. Dezember 2015, GZ 34 R 150/15a-7, mit welchem infolge Rekurses der erstbeklagten Partei der in Ablehnungssachen ergangene Beschluss des Handelsgerichts Wien vom 22. September 2015, GZ 1 Nc 16/15f-3, mit einer Maßgabe bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Der Antrag der klagenden Partei auf Zuspruch der Kosten der Revisionsrekursbeantwortung wird abgewiesen.
+Text
+Begründung:
+Das Erstgericht wies einen Ablehungsantrag der Erstbeklagten ab, weil er verspätet und zudem inhaltlich unberechtigt sei.
+Das Rekursgericht gab dem dagegen erhobenen Rekurs der Erstbeklagten nicht Folge, bestätigte den angefochtenen Beschluss mit der Maßgabe, dass der Antrag zurückgewiesen werde, und sprach aus, dass der Revisionsrekurs zulässig sei. Die Auffassung des Erstgerichts, dass die Ablehnung verspätet erfolgt sei, treffe zu, weswegen es auf deren inhaltliche Berechtigung nicht ankomme. Der Revisionsrekurs sei nicht jedenfalls unzulässig, weil § 24 Abs 2 JN nicht anzuwenden sei, wenn das Rekursgericht eine meritorische Behandlung des gegen die erstgerichtliche Sachentscheidung gerichteten Rekurses ablehne. Im konkreten Fall liege eine näher dargestellte Rechtsfrage erheblicher Bedeutung vor.
+Rechtliche Beurteilung
+Der gegen diese Entscheidung gerichtete Revisionsrekurs der Erstbeklagten ist unzulässig.
+Nach § 24 Abs 2 JN findet gegen die Zurückweisung eines Ablehnungsantrags der Rekurs an das zunächst übergeordnete Gericht statt. Diese Bestimmung wird in ständiger Rechtsprechung dahin ausgelegt, dass ein weiteres Rechtsmittel gegen die Entscheidung des Rekursgerichts jedenfalls - also unabhängig vom Vorliegen einer Rechtsfrage erheblicher Bedeutung iSv § 528 Abs 1 ZPO - unzulässig ist (RIS-Justiz RS0098751, RS0122963, RS0046010). Anderes gilt nur dann, wenn das Rekursgericht eine meritorische Behandlung des gegen die erstgerichtliche Sachentscheidung gerichteten Rekurses ablehnt (Mayr in Rechberger, ZPO4 § 24 JN Rz 5 mwN; RIS-Justiz RS0044509, RS0045974, RS0122963 [T3]).
+Ein solcher Fall liegt hier allerdings nicht vor. Das Erstgericht hat die Ablehnung als unberechtigt angesehen, weil sie verspätet erfolgt sei und zudem kein Ablehnungsgrund vorliege. Das Rekursgericht hat den dagegen erhobenen Rekurs nicht aus formellen Gründen zurückgewiesen, sondern den (primär) mit verspäteter Geltendmachung begründeten erstinstanzlichen Beschluss aus demselben Grund inhaltlich bestätigt. Der Revisionsrekurs ist daher jedenfalls unzulässig (3 Ob 70/10f; 4 Ob 25/12y mwN).
+Nur der Vollständigkeit halber ist hinzuzufügen, dass selbst bei Unanwendbarkeit von § 24 Abs 2 JN der Revisionsrekurs jedenfalls unzulässig wäre. Denn das Rechtsmittelverfahren in Ablehnungssachen richtet sich, soweit die JN keine Sonderbestimmungen enthält, nach den Vorschriften jenes Verfahrens, in dem die Ablehnung erfolgt (3 Ob 156/09a mwN; RIS-Justiz RS0006000). Ist das wie hier ein streitiges Verfahren, wäre daher § 528 Abs 2 Z 2 ZPO anwendbar. Da keine abschließende Verweigerung des Rechtsschutzes nach einer Klage oder einem (sonstigen) Sachantrag oder überhaupt einem (materiellen) Rechtsschutzbegehren erfolgte, liegt kein der Klagezurückweisung vergleichbarer Fall vor (3 Ob 70/10f mwN).
+Aus diesen Gründen ist der Revisionsrekurs als jedenfalls unzulässig zurückzuweisen. Das gilt zwar nach zutreffender Ansicht nicht für die Rechtsmittelbeantwortung (3 Ob 4/09y; 4 Ob 90/11f; RIS-Justiz RS0124565; anders RS0123268). Kostenersatz gebührt dafür aber nur, wenn der Rechtsmittelgegner darin auf die Unzulässigkeit des Rechtsmittels hinweist und zu den für die Zulässigkeit ins Treffen geführten Argumenten Stellung nimmt (RIS-Justiz RS0124565). Das war hier nicht der Fall. Der Antrag der Klägerin, die Erstbeklagte zum Ersatz der Kosten der Revisionsrekursbeantwortung zu verpflichten, ist daher abzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0040OB00044.16Y.0330.000

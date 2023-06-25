@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2022
+Geschäftszahl
+7Ob209/22v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei A* S*, vertreten durch Dr. Heide Strauss, Rechtsanwältin in Gänserndorf, gegen die beklagte Partei W* AG *, vertreten durch MUSEY rechtsanwalt gmbH in Salzburg, wegen 160.857,84 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Oktober 2022, GZ 1 R 120/22g-90, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Dem zwischen den Streitteilen bestehenden Unfallversicherungsvertrag liegen die Allgemeinen Bedingungen für die Unfallversicherung (AUVB Unfal-Vorsorge Premium) zugrunde, diese lauten auszugsweise:
+„Art 7 Was versteht man unter dauernder Invalidität, wann wird dafür eine Leistung erbracht?
+7.1. Dauernde Invalidität mit Progression
+Im Fall dauernder Invalidität wird die Versicherungsleistung bereits ab 1 % erbracht und ab 25%iger Invalidität progressiv steigend nach folgendem Schema erbracht:
+[...]
+- der 25 % übersteigende und 50 % nicht übersteigende Invaliditätsgrad wird vervierfacht
+- der 50 % übersteigende und 75 % nicht übersteigende Invaliditätsgrad versechsfacht
+[...]
+7.2.1. Voraussetzung für die Leistung ist
+- Die versicherte Person ist durch den Unfall auf Dauer in ihrer körperlichen oder geistigen Leistungsfähigkeit beeinträchtigt.
+[...]
+7.3.1. Bei völligem Verlust oder völliger Funktionsunfähigkeit der nachstehend genannten Körperteile und Sinnesorgane gelten ausschließlich, soweit nichts anderes vereinbart ist, die folgenden Invaliditätsgrade:
+[...]
+7.4. Für andere Körperteile und Sinnesorgane bemisst sich der Invaliditätsgrad danach, inwieweit die normale körperliche oder geistige Funktionsfähigkeit insgesamt beeinträchtigt ist. Dabei sind ausschließlich medizinische Gesichtspunkte zu berücksichtigen.
+[...]“
+Rechtliche Beurteilung
+[2] 		1.1 Wurde ein Verfahrensmangel erster Instanz in der Berufung geltend gemacht, vom Berufungsgericht aber verneint, kann der Mangel nach ständiger Rechtsprechung in der Revision nicht mehr gerügt werden (RS0042963; RS0106371).
+[3] 		1.2 Ob ein weiteres Gutachten notwendig ist oder aber das schon erstattete die Feststellungen der Vorinstanzen rechtfertigt, sind Fragen der irreversiblen Beweiswürdigung, wie auch die Notwendigkeit weiterer Beweisaufnahmen allgemein (RS0043320; RS0043414 [T6, T17, T18]). Die Rechtsmittelbeschränkung kann auch nicht dadurch umgangen werden, dass ein unerwünschtes Ergebnis der Behandlung der Beweisrüge als Mangel des Berufungsverfahrens releviert wird (RS0043371 [T28]).
+[4] 		1.3 Die Entscheidung des Berufungsgerichts über eine Mängel- oder Beweisrüge ist mangelfrei, wenn es sich mit diesen überhaupt befasst, das Verfahren des Erstgerichts überprüft, nachvollziehbare Überlegungen über die Beweiswürdigung anstellt und in seinem Urteil festhält (RS0043144; RS0043150). Das ist hier erfolgt.
+[5] 		2.1 Die – entgegen der Ansicht der Klägerin – von den Vorinstanzen ohnedies vorgenommene Feststellung des Invaliditätsgrades im Sinne des Art 7.4 AUVB (Beeinträchtigung der körperlichen und geistigen Funktionsfähigkeit nach medizinischen Gesichtspunkten) stellt nach oberstgerichtlicher Rechtsprechung eine Tatfrage dar, die im Revisionsverfahren nicht überprüft werden kann (RS0118909). Soweit die Klägerin die Feststellung zur unfallbedingten Dauerinvalidität von 20 % bemängelt, bekämpft sie unzulässigerweise die durch die Ergebnisse der Sachverständigengutachten gestützte Beweiswürdigung der Vorinstanzen; einen Verstoß der Sachverständigen gegen zwingende Denkgesetze vermag sie hingegen nicht darzulegen (RS0043320 [T2, T7]; RS0043404). Bei der Beweisaufnahme durch Sachverständige ist es deren Aufgabe, aufgrund ihrer einschlägigen Fachkenntnisse jene Methode auszuwählen, die sich zur Klärung der nach dem Gerichtsauftrag jeweils maßgebenden strittigen Tatfragen am besten eignet (RS0119439). Dass der von den Sachverständigen wahrgenommene Bewertungsvorgang den AUVB widersprechen könnte, kam nicht hervor.
+[6] 		2.2 Das Vorgehen der Vorinstanzen, ihrer Beurteilung den von den beigezogenen Sachverständigen nach medizinischen Gesichtspunkten ermittelten Invaliditätsgrad von 20 % und nicht jenen auf (subjektiver) Einschätzung der Klägerin beruhenden von 51 % zugrunde zu legen, ist nicht zu beanstanden.
+[7] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00209.22V.1213.000

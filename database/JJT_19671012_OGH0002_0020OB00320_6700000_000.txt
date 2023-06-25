@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.10.1967
+Geschäftszahl
+2Ob320/67
+Norm
+ABGB §1375;
+Eisenbahn- und Kraftfahrzeughaftpflichtgesetz §5;
+Kopf
+SZ 40/126
+Spruch
+Das Schuldanerkenntnis eines Kfz-Lenkers begrundet keine Haftung des mit dem Lenker nicht identen Halters.
+Entscheidung vom 12. Oktober 1967, 2 Ob 320/67.
+I. Instanz: Bezirksgericht Friesach; II. Instanz: Landesgericht Klagenfurt.
+Text
+Der Kläger begehrt die Klagssumme als Ersatz für Schäden, die bei einem Verkehrsunfall an seinem Kraftfahrzeug entstanden. Hiezu brachte er vor, Franz K. habe als Lenker eines PKWs, der im Eigentum des Beklagten stehe und dessen Halter der Beklagte sei, den Unfall verschuldet. Franz K. habe sein Alleinverschulden anerkannt und auch eine Verschuldenserklärung ausgestellt. Der Haftpflichtversicherer des Beklagten habe die Hälfte der Schadenssumme bezahlt und verweigere weitere Zahlungen mit der Begründung, daß den Kläger ein 50%iges Mitverschulden treffe. Diese Frage sei jedoch mit Rücksicht auf die Verschuldenserklärung nicht mehr zu prüfen. Er stütze daher seine Ansprüche einzig und allein auf die vom Fahrzeuglenker abgegebene Verschuldenserklärung.
+Das Erstgericht gab der Klage statt. Es traf Feststellungen ausschließlich über das Zustandekommen des Schuldanerkenntnisses und kam daraus zu dem Ergebnis, daß Franz K. den Unfall allein verschuldet habe. Der Beklagte hafte als Halter des Motorrades (nicht PKWs., wie in der Klage behauptet) für den Schaden des Klägers gemäß § 5 EKHG. Den nach § 9 EKHG. möglichen Entlastungsbeweis könne er mit Rücksicht auf das auch ihn bindende konstitutive Anerkenntnis Franz K.'s nicht erbringen.
+Das Berufungsgericht wies die Klage ab. Der Kläger habe seinen Anspruch ausschließlich auf das Anerkenntnis des Verschuldens durch Franz K. gestützt. Die Verschuldensfrage sei daher nicht zu prüfen. Die Verschuldensfrage sei daher nicht zu prüfen. Der Beklagte sei an das Anerkenntnis nicht gebunden, selbst wenn es als "echtes" zu beurteilen sei. Der einzig geltend gemachte Rechtsgrund versage daher.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ist nicht begrundet.
+Sie macht geltend, daß der Kläger durch Hinweis auf die Haltereigenschaft des Beklagten dessen Haftung im Sinne des § 5 EKHG. in Anspruch genommen habe. Als Halter hafte dieser für das Verschulden seines berechtigten Lenkers in dem durch die Erklärung K.'s abgegrenzten Rahmen. Aus der allgemeinen Formulierung des § 9
+(1) EKHG. ergebe sich die volle Haftung des Beklagten, dem der Entlastungsbeweis in der Richtung, daß ein für ihn unabwendbares Ereignis vorliege, durch die Verschuldenserklärung des Lenkers abgeschnitten sei.
+Dieses Vorbringen ist nicht stichhältig; es geht an den wesentlichen Erwägungen des Berufungsgerichtes vorbei.
+Der Kläger hat zwar zunächst behauptet, Franz K. habe den Unfall verschuldet, dann aber auf dessen Schuldanerkenntnis verwiesen und ausdrücklich erklärt, auf dieses allein seinen Anspruch gegen den geklagten Halter zu grunden. Damit hat er sich unmißverständlich auf einen bestimmten Rechtsgrund, nämlich den des Anerkenntnisses, unter Ausschluß jedes anderen Rechtsgrundes, festgelegt und dadurch nicht nur sich selbst, sondern auch das Gericht derart gebunden, daß der Klage aus einem anderen Rechtsgrund nicht stattgegeben werden kann. Die Anerkennung einer Forderung wirkt nur für und gegen jene Personen, die das Anerkenntnis abgegeben haben. Das Schuldanerkenntnis eines Kraftfahrzeuglenkers ist daher nicht geeignet, die Haftung des mit dem Lenker nicht identen Fahrzeughalters gemäß den Bestimmungen des Eisenbahn-Kraftfahrzeughaftpflichtgesetzes zu begrunden. Der Revisionsgrund des § 503 Z. 4 ZPO. liegt also nicht vor, sodaß der Revision ein Erfolg versagt bleiben muß.

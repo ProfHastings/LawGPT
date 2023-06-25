@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.02.2015
+Geschäftszahl
+7Ob16/15a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei Dr. K***** W*****, gegen die beklagte Partei V*****Aktiengesellschaft, *****, vertreten durch Dr. Peter Schlösser, Rechtsanwalt in Graz, wegen 31.939,50 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. November 2014, GZ 1 R 161/14z-14, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Entscheidung des Berufungsgerichts über eine Beweisrüge ist mängelfrei, wenn es - wie hier - dazu nachvollziehbare Überlegungen anstellt und in seinem Urteil festhält (RIS-Justiz RS0043162 [T4], RS0043150).
+2. Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Vertragsbedingungen (AVB) nicht „jedenfalls“, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit oder Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516, insbesondere [T37]). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits oberstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich reversibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (7 Ob 95/12i, 7 Ob 185/14b, je mwN).
+Allgemeine Versicherungsbedingungen sind nach Vertragsauslegungsgrundsätzen (§§ 914f ABGB) ausgehend vom Maßstab des durchschnittlich verständigen Versicherungsnehmers auszulegen (RIS-Justiz RS0050063), wobei Unklarheiten zu Lasten des Versicherers gehen (RIS-Justiz RS0017960). Die einzelnen Klauseln sind, wenn sie - wie hier - nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der Allgemeinen Geschäftsbedingungen zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RIS-Justiz RS0107031).
+Nichts anderes gilt für die vorliegenden ABH 1995 der Beklagten. Sie lauten auszugsweise:
+„Art 2
+...
+3.3. Haftungsbegrenzungen
+für Bargeld, Valuten, Einlagebücher ohne Klausel, Schmuck, Edelsteine, Briefmarken- und Münzensammlungen ist die Haftung mit folgenden Beträgen begrenzt:
+...“
+Die Haftungsbegrenzung des Art 2.3.3. ABH ist als objektive Risikobegrenzung anzusehen. Durch diese Bestimmung soll objektiv, unabhängig vom Vorwurf eines „schuldhaften“ Verhaltens des Versicherungsnehmers das Risiko mit einem bestimmten Betrag begrenzt werden (RIS-Justiz RS0114215 zu ABH 1989), wobei die Heranziehung der Haftungsbegrenzung das Bestehen von Versicherungsschutz an sich voraussetzt.
+Das Auslegungsergebnis der Vorinstanzen entspricht dem insoweit eindeutigen Wortlaut der ABH, insbesondere auch deshalb weil er von den vorgelegten Musterbedingungen des Verbands der Versicherungsunternehmen Österreichs abweicht. Diese nennen ausdrücklich „Gold- und Platinsachen“. Nach der klaren Formulierung der Risikobegrenzung in der ABH der Beklagten fallen Goldbarren als dort nicht genannte Edelmetalle nicht unter die in Art 2.3.3. ABH abschließend aufgezählten und vor allem auch nicht als Wertsachen übertitelten Gegenstände. Da auf Grund der eindeutigen Formulierung des Risikoausschlusses keine Auslegungszweifel verbleiben, liegt keine erhebliche Rechtsfrage vor.
+Die Entscheidung 7 Ob 18/00y ist nicht einschlägig, weil sie die Frage der Qualifizierung von goldenen edelsteinverzierten Uhren als Schmuck betraf.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00016.15A.0218.000

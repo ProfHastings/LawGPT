@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.10.1961
+Geschäftszahl
+3Ob270/61
+Norm
+ABGB §894;
+ABGB §986;
+ABGB §1357;
+Kopf
+SZ 34/133
+Spruch
+Der Bürge und Zahler kann rechtsverbindlich eine Verpflichtung zur Wertsicherung hinsichtlich der verbürgten Hauptschuld übernehmen, obwohl diese selbst nicht wertgesichert ist.
+Entscheidung vom 4. Oktober 1961, 3 Ob 270/61.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Kläger beantragt die Verurteilung der Beklagten zur Zahlung eines Betrages von 48.596.S 20 g s. A. Sie sei der Darlehensschuld ihres Gatten Josef D. an den Kläger aus dem Jahre 1952 im Betrag von 47.000 S laut schriftlicher Urkunde vom 18. August 1958 als Bürge und Zahler beigetreten und habe sich zur Rückzahlung in Monatsraten von je 750 S ab 1. Juni 1959 bei Terminsverlust im Falle eines Rückstandes von mehr als sechs Monatsraten verpflichtet. Nach der Schulderklärung habe die Beklagte ausdrücklich auch für die Wertsicherung durch eine Indexklausel gebürgt. Das nicht rückgezahlte Darlehen von 47.000 S erhöhe sich daher um 1596 S 20 g auf 48.596 S 20 g s. A.
+Der Erstrichter gab der Klage hinsichtlich des verbürgten Darlehensbetrages von 47.000 S s. A. statt und wies das Mehrbegehren aus der Wertsicherungsklausel ab. Er stellte fest, daß die Hauptschuld des Josef D. an den Kläger nicht wertgesichert gewesen sei. Dieser Hauptschuld sei die Beklagte mit Bürgschaftserklärung vom 18. August 1958 als Bürge und Zahler beigetreten, wobei eine Verbindlichkeit über die Hauptschuld hinaus rechtlich wirksam nicht habe begrundet werden können (§§ 1351, 1353 ABGB.).
+Das Berufungsgericht gab der Berufung der klagenden Partei wegen Abweisung des Mehrbegehrens aus der Wertsicherungsklausel mit Teilurteil nicht Folge. Im übrigen wurde hinsichtlich der Hauptschuld der Berufung der beklagten Partei Folge gegeben, das erstgerichtliche Urteil insoweit ohne Rechtskraftvorbehalt aufgehoben und die Sache an das Erstgericht zurückverwiesen.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei gegen das Teilurteil Folge, hob das Teilurteil und das erstgerichtliche Urteil, soweit es dadurch betroffen wurde, auf und verwies die Sache auch in diesem Umfang an das Erstgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+In Klang 2. Aufl. VI 227 zu § 1357 ABGB. wird darauf verwiesen, daß entgegen der in dem Kommentar vertretenen Lehrmeinung die herrschende Rechtsprechung dem Bürgen und Zahler unter Hinweis auf § 894 ABGB. die dem Bürgen gewährten Schutzmittel, darunter die strenge Akzessorietät im Verhältnis zur Hauptschuld nach § 1351 ABGB., aberkenne. Der Oberste Gerichtshof findet sich nicht bestimmt, von dieser Rechtsprechung abzugehen. Im § 1357 ABGB. ist ausdrücklich die Haftung des Bürgen und Zahlers als eines ungeteilten Mitschuldners für die ganze Schuld ausgesprochen. Damit ist über die Befestigung einer fremden Verbindlichkeit durch eine gewöhnliche Bürgschaft hinaus für den Bürgen und Zahler die Haftung wie aus einem Gesamtschuldverhältnis nach § 894 ABGB. gesetzlich festgelegt, wonach ein Mitschuldner durch die Eingehung lästigerer Bedingungen, die somit gestattet sind, den übrigen Mitschuldnern keinen Nachteil zuziehen kann (GlU. 7902, ZBl. 1926 Nr. 153). Das bedeutet, auf den vorliegenden Fall angewendet, daß die beklagte Partei als Bürge und Zahler rechtswirksam eine Wertsicherung vereinbaren konnte, obwohl die Hauptschuld nicht wertgesichert ist.
+Das Berufungsgericht hat nun in der Frage des aufrechten Bestehens der Hauptschuld gleich dem Erstgericht dieses Bestehen angenommen, das Urteil des Erstgerichtes aber trotzdem diesbezüglich aufgehoben, weil klare Feststellungen darüber unterlassen wurden, ob und von wem die von der beklagten Partei behaupteten Drohungen mit Strafanzeige bei Eingehung der Bürgschaftsverpflichtung erfolgten. Erst dann könne entschieden werden, ob die Sache nach § 870 ABGB. oder § 875 ABGB. zu beurteilen sei. Da dieser Aufhebungsgrund offensichtlich auch die Verpflichtung der beklagten Partei aus der Wertsicherungsklausel umfaßt, waren auch hinsichtlich des vom Berufungsgericht mit Teilurteil entschiedenen Anspruches aus der Wertsicherungsklausel beide vorgerichtlichen Urteile aufzuheben und die Sache auch insoweit an das Erstgericht zur ergänzenden Verhandlung und neuerlichen Entscheidung zurückzuverweisen.

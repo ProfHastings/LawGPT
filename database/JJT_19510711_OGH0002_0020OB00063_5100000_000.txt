@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.07.1951
+Geschäftszahl
+2Ob63/51
+Norm
+ABGB §365;
+Eisenbahnenteignungsgesetz §4;
+Eisenbahnenteignungsgesetz §44;
+Realschätzordnung §33;
+Kopf
+SZ 24/185
+Spruch
+Im außerstreitigen Verfahren ist die Realschätzordnung in ihrer Gesamtheit nicht anwendbar.
+Zu den nach § 44 Eisenbahnenteignungsgesetz zu ersetzenden Kosten gehören nicht die Kosten einer rechtsfreundlichen Vertretung.
+Entscheidung vom 11. Juli 1951, 2 Ob 63/51.
+I. Instanz: Bezirksgericht Vöcklabruck; II. Instanz: Kreisgericht Wels.
+Text
+Der Antragstellerin wurden 167 m2 aus der Baufläche 245 mit dem Haus Nr. 85 in A. und 63 m2 aus dem Gartengrundstück 1234/7 enteignet.
+Das Erstgericht hat auf Antrag der Enteigneten die zu leistende Entschädigung mit dem Betrag von 141.475 S festgesetzt.
+Das Rekursgericht hat in Abänderung der Entscheidung der ersten Instanz den von der Republik Österreich zu leistenden Entschädigungsbetrag auf 139.175 S herabgesetzt.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der Finanzprokuratur nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Dem Revisionsrekurs ist zuzugeben, daß die Ansicht, der Ertrag eines Miethauses sei ohne Einfluß auf dessen Verkehrswert, abgelehnt werden muß. Das Rekursgericht hat in seiner Begründung selbst zugegeben, daß die derzeitige Preispolitik bei den mietengeschützten Wohnungen auf den Preis von Miethäusern drückt. Als irrig muß auch die Meinung bezeichnet werden, es sei gleichgültig, ob der Enteignete selbst in dem Haus wohnt oder ob er es zur Gänze vermietet hat.
+Hingegen kann der Meinung des Revisionsrekurses nicht beigepflichtet werden, daß die Vorschriften der Realschätzordnung im gegebenen Fall angewendet werden müssen und daß die Liegenschaft daher auch einer Schätzung nach dem kapitalisierten Zinsertrag unterzogen werden muß. Nach § 33 der Realschätzordnung sind die Bestimmungen dieser Schätzordnung sinngemäß nur anzuwenden, wenn eine Schätzung von Liegenschaften vom Gericht im Konkursverfahren vorgenommen wird. Auf sonstige gerichtliche Schätzungen finden die für dieselben bestehenden Vorschriften und nicht die Vorschriften der Realschätzordnung Anwendung. Im Verfahren außer Streitsachen ist somit die Realschatzordnung als Ganzes nicht anwendbar (vgl. Entscheidung v. 24. September 1929, SZ. XI/171).
+Nach Ansicht des Obersten Gerichtshofes ist es jedoch nicht von entscheidender Bedeutung, ob die von den Untergerichten übernommene Feststellung des Gutachtens, daß die Antragstellerin selbst im Haus gewohnt hat und daß das Haus demnach nicht zur Gänze vermietet war, mit dem Inhalt der Akten in Widerspruch steht.
+Die Vorschriften der Realschätzordnung finden, wie oben festgestellt, keine Anwendung; nach § 4 des Eisenbahnenteignungsgesetzes ist der Enteigner verpflichtet, dem Enteigneten für alle durch die Enteignung verursachten vermögensrechtlichen Nachteile Entschädigung zur Bewirkung der dem § 365 ABGB. entsprechenden Schadloshaltung zu leisten, weshalb nicht der gemeine, sondern der außerordentliche Wert des Interesses, also nicht nur der Ertragswert, sondern auch der diesen übersteigende Verkehrswert zu ersetzen ist (Klang, Komm. zum ABGB., 2. Aufl., zu § 365, S. 195).
+Dem Rekursgericht ist zuzustimmen, daß die Anwendung des Judikates Nr. 15 den vom Erstgericht für das Gebäude zuerkannten Entschädigungsbetrag rechtfertigt. Das Erstgericht hat ja nicht den von den Sachverständigen für den Tag der Schätzung festgestellten Wert zugrunde gelegt, sondern aus den von den Sachverständigen nach den Stichtagen: A (Tag der Enteignung), B (Tag des Lokalaugenscheines) und C (Tag der Schätzung) ermittelten Verkehrswerten einen mittleren Wert errechnet und diesen der Enteigneten zugesprochen.
+Der Revisionsrekurs irrt, wenn er behauptet, daß damit der Neubauwert zugesprochen wurde. Dadurch, daß auch der Zeitpunkt der Schätzung und der Tag der Enteignung als Stichtage in die Berechnung miteinbezogen wurden, ist die Entscheidung des Erstgerichtes zu einem wesentlich niedrigeren Wert als dem Neubauwert gelangt und dieser Wert übersteigt auch bei vollständiger Vermietung des enteigneten Hauses den Verkehrswert nicht.
+Soweit sich der Revisionsrekurs schließlich gegen die Anwendung der im Judikat 15 zum Ausdruck gebrachten Grundsätze richtet, ist dem Revisionsrekurs entgegenzuhalten, daß der von der Antragsgegnerin selbst im Rekurs gegen die Entscheidung der ersten Instanz zugegebene Gesamtteuerungskoeffizient von 2.8 und die Tabellen über die Steigerung der Materialpreise und Löhne die Anwendung der Grundsätze des Judikates 15 bei Berechnung der im gegebenen Fall zu leistenden Entschädigung ohne weiteres rechtfertigen.
+Unbegrundet ist der Revisionsrekurs schließlich auch in dem Punkt, daß hinsichtlich der Entschädigung für die enteignete Grundfläche das Begehren auf Festsetzung der Entschädigung überhaupt abzulehnen gewesen wäre, weil sie durch ein zulässiges Übereinkommen zwischen den Parteien bestimmt worden ist. Die Parteien und die Unterinstanzen haben zwischen Grundfläche und Gebäude keinen strengen Unterschied gemacht; die Untergerichte haben vielmehr die Entschädigung für beide Vermögenswerte als Ganzes festgestellt. Die Entschädigung als solche wurde daher nicht durch ein zulässiges Übereinkommen bestimmt; es ist vielmehr nur in einem einzigen Punkt eine übereinstimmende Bewertung erzielt worden, der das Rekursgericht bei Festsetzung der Entschädigungssumme auch Rechnung getragen hat. Das Rekursgericht hat daher mit Recht die Entschädigungssumme mit dem entsprechend verminderten Wert festgestellt, ohne den Antrag, wenn auch nur teilweise, abzuweisen.
+Es ist daher auch der Anfechtungsgrund der unrichtigen rechtlichen Beurteilung, bzw. einer behaupteten Gesetzwidrigkeit nicht gegeben.
+Der Antrag auf Zuspruch von Kosten für die Äußerung zum Revisionsrekurs mußte abgewiesen werden, weil unter den Kosten des Enteignungsverfahrens und der gerichtlichen Feststellung der Entschädigung im Sinne des § 44 Eisenbahnenteignungsgesetz die Kosten rechtsfreundlicher Vertretung nicht inbegriffen sind (vgl. Klang, Komm., 2. Aufl., zu § 365 ABGB., S. 200).

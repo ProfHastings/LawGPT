@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.1952
+Geschäftszahl
+1Ob53/52
+Norm
+ABGB §37;
+Kopf
+SZ 25/17
+Spruch
+Abschluß des Vertrages im Ausland hat nicht die Anwendung des ausländischen Rechtes zur Folge, wenn der Vertrag bloß im Inland Wirkungen hervorbringen soll, die Parteien die Anwendbarkeit des ausländischen Rechtes nicht vereinbart und seine Anwendbarkeit in erster Instanz nicht erwogen haben.
+Entscheidung vom 23. Jänner 1952, 1 Ob 53/52.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Beklagte war in erster Instanz aus einem Bürgschaftsvertrag verurteilt worden. In der Berufung macht er u. a. geltend, daß nicht österreichisches, sondern schweizerisches Recht hätte angewendet werden sollen.
+Das Berufungsgericht bestätigte die erstrichterliche Entscheidung und führt hinsichtlich der Anwendbarkeit des Rechtes aus: Was die vom Beklagten erst im Berufungsverfahren angeschnittene Frage des internationalen Privatrechtes für die Beurteilung der Gültigkeit der Bürgschaft betreffe, könnte schweizerisches Recht nur dann angewendet werden, wenn einer der Vertragsteile Ausländer wäre, was nicht behauptet worden sei. Aber auch wenn dies zuträfe, müsse österreichisches Recht herangezogen werden, weil sich aus dem ganzen Verfahren ergebe, daß die Parteien österreichisches Recht hätten zugrunde legen wollen. Es habe sich ja um die Sicherstellung der Forderung eines österreichischen Kaufmannes gehandelt. Außerdem habe der Beklagte in erster Instanz auf die Tatsache des Vertragsabschlusses in Basel nicht hingewiesen, sodaß auch aus diesem Grund anzunehmen sei, daß er an der Anwendbarkeit des österreichischen Rechtes nicht gezweifelt habe.
+Gegen das Urteil des Berufungsgerichtes richtet sich die Revision des Beklagten, worin der Revisionsgrund der unrichtigen rechtlichen Beurteilung geltend gemacht wurde.
+Die Revision blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Was die allerdings von Amts wegen aufzuwerfende Frage betrifft, nach welchem Recht die Gültigkeit des Bürgschaftsvertrages vom 25. und 26. Oktober 1950 zu beurteilen sei, ist entgegen der Meinung des Revisionswerbers die normalerweise anwendbare (Klang - Verdroß, 2. Aufl., zu §§ 33 - 37 ABGB., S. 263) lex loci nicht unbedingt ausschlaggebend. Das Ortsstatut wird vielmehr durch das auch in Österreich anerkannte Wirkungsstatut (lex Causae) modifiziert (Raape, intern. Privatrecht 3, S. 137; Walker, intern. Privatrecht,
+5. Aufl., S. 496). Wenn sich nämlich die Wirkungen eines im Ausland geschlossenen Vertrages bloß auf das Inland beziehen, liegt kein Grund vor, das ausländische Recht anzuwenden, sofern nicht die Parteien dies vereinbart haben. Die Tatsache des Abschlusses im Ausland müßte dann als bloße Zufälligkeit angesehen werden, die auf die Anwendbarkeit des inländischen Rechtes keinen Einfluß hätte.
+Im vorliegenden Fall hat das Berufungsgericht Argumente angeführt, die dafür sprechen, daß die Parteien Rechtswirkungen in Österreich hervorbringen wollten. Der Schuldner hat ebenso wie der Bürge und der Gläubiger einen Wohnsitz in Wien, die im Inland entstandene Schuld ist naturgemäß hier zu erfüllen, was auch aus der Fixierung in Schillingwährung hervorgeht, der Beklagte hat seine Verpflichtung im Inland anerkannt, und die Parteien, die in erster Instanz die Anwendbarkeit des schweizerischen Rechtes gar nicht in Erwägung gezogen haben, gaben damit zu erkennen, daß nur das österreichische Recht in Frage komme (NotZtg. 1935, S. 62; RZ. 1933, S. 243). Bei dieser Rechtslage bedurfte es keiner tatsächlichen Feststellung in der Richtung, ob die Parteien die Anwendung der inländischen Rechtsvorschriften ausdrücklich bedungen haben.

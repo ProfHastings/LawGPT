@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.09.1952
+Geschäftszahl
+3Ob502/52
+Norm
+EO §7;
+Kopf
+SZ 25/228
+Spruch
+Der betreibende Gläubiger muß nicht den urkundlichen Nachweis erbringen, daß er vergeblich Zahlung gefordert hat, auch wenn im Titel (Vergleich) die Zahlungspflicht des Verpflichteten an eine vorausgegangene Mahnung geknüpft ist.
+Entscheidung vom 3. September 1952, 3 Ob 502/52.
+I. Instanz: Bezirksgericht Gleisdorf; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Laut gerichtlichem Vergleich vom 26. März 1952, 15 Cg 45/52, verpflichtet sich die verpflichtete Partei u. a., bestimmte Sachen, die dem betreibenden Gläubiger gehören, sofort auf Verlangen herauszugeben. Im Exekutionsantrag behauptete der betreibende Gläubiger, daß er am 30. März 1952 seinen Sohn Franz zusammen mit einem gewissen K. zum Verpflichteten schickte, um die Sachen zu übernehmen, daß aber der Verpflichtete die Beauftragten der betreibenden Partei von Grund und Boden verwiesen und die Herausgabe verweigert habe. Sie begehrt daher Exekution auf Herausgabe nach § 346 EO.
+Die erste Instanz bewilligte das Ansuchen, die Rekursinstanz wies das Begehren mit der Begründung ab, daß laut des den Exekutionstitel bildenden Vergleiches die Fälligkeit der Leistung erst gegeben ist, wenn die betreibende Partei die Herausgabe der ihr gehörigen Sachen verlangt. Die betreibende Partei hätte daher bei der Stellung des Exekutionsantrages durch eine öffentliche oder öffentlich beglaubigte Urkunde gemäß § 7 Abs. 2 EO. die Fälligkeit der Leistung beweisen müssen.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 7 EO. hat der betreibende Gläubiger im Exekutionsantrag nur diejenigen Voraussetzungen der Vollstreckbarkeit nachzuweisen, die von einem seitens des Berechtigten zu beweisenden Eintritte einer Tatsache abhängig sind. Es muß also die Vollstreckbarkeit oder Fälligkeit nicht nur von dem Eintritt einer Tatsache abhängig sein sondern es muß überdies dem Berechtigten die Beweislast obliegen.
+Bei Klauseln, die die Zahlung nur von einem Verlangen des betreibenden Gläubigers abhängig machen, obliegt dem betreibenden Gläubiger keine Beweislast (Entscheidung des Brünner Obersten Gerichtshofes vom 12. Oktober 1928, Slg. OG. 8372). Seit dem Judikat 100 steht es in der Judikatur fest, daß der betreibende Gläubiger nicht nachweisen muß, daß er eine Schuld angeblich gemahnt habe und daß daher Terminverlust eingetreten ist. Der Ausgleichsgläubiger kann ohneweiters auf die ganze Ausgleichsschuld Exekution führen, ohne den Nachweis erbringen zu müssen, daß die Terminverlustvoraussetzungen eingetreten sind (SZ. X/118 u. a. m.). Bei Holschulden, insbesondere Wechselschulden, muß nicht nachgewiesen werden, daß der betreibende Gläubiger einen vergeblichen Inkassoversuch vorgenommen habe usw.
+Wenn nun im vorliegenden Fall der Verpflichtete sich verpflichtet hat, über Verlangen sofort zu leisten, so kann diese Vertragsklausel nicht dahin verstanden werden, daß dem betreibenden Gläubiger der urkundliche Nachweis obliege, daß er, bevor er zur Exekutionsführung geschritten ist, den Verpflichteten zur Leistung aufgefordert, also die Schuld eingemahnt habe. Ginge die Beweislast, daß eine solche Mahnung erfolgt ist, zu Lasten des betreibenden Gläubigers, so könnte dieser eine Holschuld immer erst nach Aufnahme eines Notariatsaktes über die vorgenommene Mahnung exequieren, da bei einer Holschuld die Fälligkeit erst mit dem Verzug der Zahlung eintritt. Wechselschulden und andere Holschulden wären dann nur unter erschwerten Bedingungen exequierbar.
+Eine solche Auslegung ist aber abwegig, weil Willensbedingungen, die im ausschließlichen Ermessen der Gläubiger stehen, nicht vom betreibenden Gläubiger zu beweisen sind. Es muß also nicht nachgewiesen werden, daß er den Ausgleichsschuldner im Sinne des § 53 Abs. 2 AO. gemahnt hat, und ebensowenig kann von ihm gefordert werden, daß er den urkundlichen Nachweis erbringe, daß er vergeblich Zahlung gefordert hat, auch wenn im Vergleich die Zahlungspflicht des Verpflichteten an eine vorausgegangene Mahnung geknüpft wird.
+Es genügt, daß der betreibende Gläubiger im Exekutionsantrag behauptet, daß er den Verpflichteten zur Zahlung aufgefordert hat, die Beweislast für die Tatsache, nicht gemahnt worden zu sein, trifft den Beklagten, der sich gegen die Exekution im Klagewege zu wehren hat, wenn die Antragsbehauptungen unrichtig sind.
+Es war daher dem Revisionsrekurse Folge zu geben und der erstrichterliche Beschluß wieder herzustellen.

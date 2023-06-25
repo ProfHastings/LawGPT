@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2012
+Geschäftszahl
+7Ob192/11b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Hoch, Dr. Kalivoda, Dr. Gitschthaler und Mag. Dr. Wurdinger als weitere Richter in der Rechtssache der klagenden Partei W***** U*****, vertreten durch Dr. Herwig Hasslacher, Rechtsanwalt in Villach, gegen die beklagte Partei W***** Versicherung AG *****, vertreten durch Dr. de Cillia - Mag. Kalmann, Rechtsanwälte in Klagenfurt, wegen 7.975 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 7. Juli 2010, GZ 2 R 114/11v-38, womit das Urteil des Landesgerichts Klagenfurt vom 22. April 2011, GZ 25 Cg 180/09y-26, teilweise abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 556,99 EUR (darin enthalten 92,83 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht erklärte in Abänderung seines ursprünglichen Ausspruchs die ordentliche Revision für zulässig; es fehle oberstgerichtliche Rechtsprechung zu der Frage, welchen Einfluss die dem Versicherer bekannt gegebenen Vorerkrankungen auf den Umfang von Ersatzleistungen aus der Unfallversicherung hätten.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die ordentliche Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Dem Unfallversicherungsvertrag liegen die *****Allgemeine Bedingungen für die Unfallversicherung ***** der Beklagten (in der Folge AUVB) zu Grunde. Sie lauten auszugsweise:
+„Artikel 7 Was versteht man unter dauernder Invalidität, wann wird dafür eine Leistung erbracht?
+...
+7.2.1. Bei völligem Verlust oder völliger Funktionsunfähigkeit ... gelten ... die folgenden Invaliditätsgrade:
+... eines Beines ... 70 %.
+7.2.2. Bei Teilverlust oder Funktionsbeeinträchtigung gilt der entsprechende Teil des jeweiligen Prozentsatzes.
+...
+Artikel 23 Welche sachlichen Begrenzungen des Versicherungsschutzes sind vereinbart?
+23.1. Eine Versicherungsleistung wird von uns nur für die durch den eingetretenen Unfall hervorgerufenen Folgen (körperliche Schädigung oder Tod) erbracht.
+23.2. Bei der Bemessung des Invaliditätsgrades wird ein Abzug in Höhe einer Vorinvalidität nur vorgenommen, wenn durch den Unfall eine körperliche oder geistige Funktion betroffen ist, die schon vorher beeinträchtigt war. Die Vorinvalidität wird nach Art 7.2. und 7.3. bemessen.
+23.3. Haben Krankheiten oder Gebrechen bei der durch ein Unfallereignis hervorgerufenen Gesundheitsschädigung - insbesondere solche Verletzungen, die durch krankhaft abnützungsbedingte Einflüsse verursacht oder mitverursacht worden sind - oder deren Folgen mitgewirkt, dann ist im Falle einer Invalidität der Prozentsatz des Invaliditätsgrades, ansonsten die Leistung entsprechend dem Anteil der Krankheit oder des Gebrechens zu vermindern, sofern dieser Anteil mindestens 25 % beträgt.“
+Punkt *****-Sofortunterstützung der vierten Ergänzung der AUVB regelt die Bezahlung einer Sofortunterstützung je nach Dauer des Spitalsaufenthalts. Bei ununterbrochenem Spitalsaufenthalt von mehr als 21 Tagen beträgt sie 5.000 EUR.
+Ziffer 3 der Bedingung lautet:
+„Haben Krankheiten oder Gebrechen, die bereits vor dem Unfall bestanden haben, die Unfallfolgen beeinflusst, ist diese Sofortleistung entsprechend dem Anteil der Krankheit oder des Gebrechens zu kürzen, soferne dieser Anteil mindestens 25 % beträgt. Diese Leistung wird unabhängig von einer Leistung für dauernde Invalidität erbracht.”
+Die von der Revision vertretene Rechtsmeinung, dass dem Versicherer bekannte Vorerkrankungen die Kürzung der Versicherungsleistung im Sinn von Art 23 AUVB ausschließe, findet in den Bedingungen keine wie immer geartete Grundlage.
+Allgemeine Versicherungsbedingungen sind nach Vertragsauslegungsgrundsätzen auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063, RS0112256). Auch ein durchschnittlicher Versicherungsnehmer muss damit rechnen, dass eine Unfallversicherung nur die durch den Unfall hervorgerufenen Folgen deckt, was sich auch unschwer aus Art 23.1. AUVB ergibt. Der Versicherungsnehmer muss nachweisen, dass die Schäden im ursächlichen Zusammenhang mit dem Unfall stehen (7 Ob 289/02d = RIS-Justiz RS0117314). Diese sachliche Begrenzung bewirkt, dass nur für solche Folgen einzutreten ist, für die der Unfall (allein) kausal ist. Der „Vorzustand” der versicherten Person ist dann zu berücksichtigen, wenn beim Versicherungsnehmer bereits vorhandene Krankheiten oder Gebrechen die Unfallfolgen beeinflussen. Der Beweis für die Mitwirkung von Gebrechen oder Krankheiten an den Unfallfolgen trägt der Versicherer (7 Ob 258/04y mwN = RIS-Justiz RS0119522).
+Steht - wie hier - fest, dass die Vorerkrankung des Klägers Einfluss auf die Unfallfolgen im Ausmaß von 75 % hatten, so ist dies nach dem eindeutigen Wortlaut der AUVB zu berücksichtigen, auch wenn diese Vorerkrankungen dem beklagten Versicherer vor Abschluss des Versicherungsvertrags bekannt gewesen wären. Andernfalls würde die Unfallversicherung auch Folgen decken, die mit dem Unfall nicht in unmittelbaren Zusammenhang stehen. Es kommt daher gar nicht darauf an (dazu fehlen geeignete Feststellungen), wem die Kenntnis des „Maklers“ zuzurechnen ist (vgl RIS-Justiz RS0114041) und ob damit dem Versicherer die Vorerkrankungen überhaupt bekannt waren.
+Die vom Kläger in diesem Zusammenhang gerügte Mangelhaftigkeit des Berufungsverfahrens besteht nicht, wie der Oberste Gerichtshof geprüft hat (§ 510 Abs 3 ZPO). Der Vollständigkeit halber sei noch erwähnt, dass sich die Berufung der Beklagten ausdrücklich auf den Einfluss der Vorerkrankung bezog und daher die Feststellungen schon in der Berufungsbeantwortung hätten gerügt werden müssen (vgl RIS-Justiz RS0112020). Die Revision stellt auch nicht in Frage, dass die Vorerkrankungen des Klägers den festgestellten Einfluss auf die Unfallfolgen hatten.
+Die Revision stützt sich zwar auf §§ 864a, 879 ABGB, führt dazu aber nichts aus. Es genügt dazu der Hinweis, dass eine Einschränkung der Deckungspflicht (nur) auf unmittelbar durch den Unfall herbeigeführte Folgen - wie dargelegt - vom durchschnittlichen Versicherungsnehmer zu erwarten ist. Es liegt keine Sittenwidrigkeit vor.
+Der Vorwurf der Revision, das Berufungsgericht habe zweimal die Vorerkrankungen berücksichtigt, entbehrt jeder Grundlage. Nach den Feststellungen lag ein Vorschaden am Fuß des Klägers vor, der schon die Funktionseinschränkung halbierte. Zusätzlich hatten die (anderen) Grunderkrankungen des Klägers noch einen Anteil von 75 % an den Unfallfolgen.
+Die Entscheidung des Berufungsgerichts hält sich im Rahmen der Judikatur. Es werden keine erheblichen Rechtsfragen geltend gemacht.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO. Die Revisionsbeantwortung wies auf die Unzulässigkeit der Revision hin.

@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.2022
+Geschäftszahl
+8Ob92/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Mag. Korn, Dr. Stefula und Dr. Thunhart als weitere Richter in der Insolvenzsache der Schuldnerin M* GmbH, *, vertreten durch Mag. Dr. Maria Lisa Aidin, Rechtsanwältin in Salzburg, infolge Revisionsrekurses der Schuldnerin gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 17. März 2022 GZ 3 R 28/22w, 3 R 29/22t-51, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Mit Beschluss vom 19. 1. 2022 eröffnete das Erstgericht das Insolvenzverfahren über das Vermögen der Schuldnerin und bestellte einen Insolvenzverwalter. Gleichzeitig wies es den Antrag auf Eröffnung eines Sanierungsverfahrens mit Eigenverwaltung zurück (ON 2).
+[2] 		Mit Beschluss vom 3. 2. 2022 wies das Erstgericht den Antrag der Schuldnerin, dem Rekurs der Schuldnerin gegen den Beschluss vom 19. 1. 2022 aufschiebende Wirkung zuzuerkennen, zurück.
+[3] 		Das von der Schuldnerin angerufene Rekursgericht
+gab zu I.A. dem Rekurs, soweit er die Abweisung des Antrags auf Eröffnung eines Sanierungsverfahrens betrifft, nicht Folge;
+gab zu I.B. dem Rekurs, soweit er die Eröffnung des Insolvenzverfahrens betrifft, Folge, hob den angefochtenen Beschluss als nichtig auf und verwies die Sache in diesem Umfang zur Verfahrensergänzung und neuerlichen Beschlussfassung zurück an das Erstgericht;
+wies zu I.C. die Anträge auf Vorlage gemäß Art 89 Abs 2 B-VG an den Verfassungsgerichtshof und gemäß Art 267 AEUV an den Europäischen Gerichtshof zurück;
+[4] 		gab zu II. dem Rekurs gegen den Beschluss vom 3. 2. 2022 nicht Folge.
+Das Rekursgericht sprach weiters aus, dass der ordentliche Revisionsrekurs gegen Punkt I.A und II. dieser Entscheidung jedenfalls unzulässig ist.
+[5] 		Gegen diesen Beschluss wendet sich der Revisionsrekurs der Schuldnerin.
+[6] 		Der Revisionsrekurs ist zu den Spruchpunkten I.A., I.B. und II. jedenfalls unzulässig, im übrigen mangels Vorliegens einer Rechtsfrage von erheblicher Bedeutung unzulässig.
+1. Zum Revisionsrekurs gegen Spruchpunkt I.A. und II.:
+Rechtliche Beurteilung
+[7] 		Die Anfechtungsbeschränkungen des § 528 ZPO gelten auch im Insolvenzverfahren (RIS-Justiz RS0044101 [T15]). Der Revisionsrekurs gegen einen die erstgerichtliche Entscheidung voll bestätigenden rekursgerichtlichen Beschluss ist nach § 528 Abs 2 Z 2 ZPO (iVm § 252 IO) ausgeschlossen (RS0044101). In der Konstellation des nach § 528 Abs 2 ZPO „jedenfalls“ unzulässigen Rechtsmittels kommt auch ein „außerordentliches“ Rechtsmittel nicht in Betracht (RS0112314 [T22]).
+2. Zum Revisionsrekurs gegen Spruchpunkt I.B.:
+[8] 		Gemäß § 527 Abs 2 ZPO ist der Rekurs gegen einen Beschluss der zweiten Instanz, mit dem der angefochtene Beschluss aufgehoben und dem Erstgericht eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wurde, nur zulässig, wenn das Rekursgericht dies ausgesprochen hat. Diese Rechtsmittelbeschränkung gilt auch im Insolvenzverfahren (§ 252 IO; RS0120776).
+[9] 		Das Rekursgericht hat keinen Rechtskraftvorbehalt iSd § 527 Abs 2 ZPO in seine angefochtene Entscheidung aufgenommen. Ohne einen solchen Ausspruch ist ein Aufhebungsbeschluss jedenfalls unanfechtbar (vgl RS0044170; RS0044096).
+3. Zum Revisionsrekurs gegen Spruchpunkt I.C.:
+[10] 		Nach ständiger Rechtsprechung ist das Rechtsmittel gegen einen Beschluss des Gerichts zweiter Instanz auf Zurückweisung eines Rekurses ein Revisionsrekurs iSd § 528 ZPO, der nur unter dessen Voraussetzungen anfechtbar ist. Die Anfechtbarkeit eines solchen Beschlusses setzt damit jedenfalls auch das Vorliegen einer erheblichen Rechtsfrage voraus (RS0044501). Eine solche wird jedoch von der Schuldnerin nicht aufgezeigt.
+[11] 		Die Rechtsauffassung des Rekursgerichts, dass einer Partei weder das subjektive Recht zusteht, die Einholung einer Vorabentscheidung beim Europäischen Gerichtshof noch die Einleitung eines Gesetzesprüfungsverfahrens durch den Verfassungsgerichtshof zu beantragen, entspricht ständiger Rechtsprechung. Die Partei kann ein solches Verfahren nur anregen. Ein Antrag auf Anrufung des Verfassungsgerichtshofs ist zurückzuweisen (vgl RS0053805 [etwa T12, T13]; RS0058452).
+[12] 		Die Ausführungen der Schuldnerin lassen nicht erkennen, weshalb diese Rechtsprechung unrichtig sein soll.
+[13] 		4. Der Revisionsrekurs ist daher insgesamt zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00092.22W.0830.000

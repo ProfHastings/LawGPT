@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.03.1966
+Geschäftszahl
+3Ob22/66
+Norm
+ABGB §1480;
+EO §217 (1) Z2;
+Kopf
+SZ 39/40
+Spruch
+Die Bestimmung des § 217 (1) Z. 2 EO. bezieht sich nicht auf verjährte Zinsen. Die in einem Urteil für die Zukunft zugesprochenen Zinsen verjähren in drei Jahren
+Entscheidung vom 2. März 1966, 3 Ob 22/66
+I. Instanz: Bezirksgericht Birkfeld; II. Instanz: Landesgericht für Zivilrechtssachen Graz
+Text
+Im Konkursverfahren wurde eine Liegenschaft des Gemeinschuldners am 6. Mai 1965 kridamäßig versteigert und ein Meistbot von 470.000 S erzielt.
+Das Erstgericht wies im Meistbotsverteilungsbeschluß u. a. einer Anzahl von Gläubigern Zinsen im Gesamtbetrag von 15.824.80 S zu. Es handelt sich hiebei um Zinsen für Kapitalsforderungen, die vom Tag der Eintragung des Pfandrechtes für die jeweiligen Kapitalsforderungen bis drei Jahre vor dem Tag der Erteilung des Zuschlages zurückreichen, also um Zinsen für die Zeit vor dem 6. Mai 1962. Das Erstgericht begrundete diese Zuweisung damit, daß das Pfandrecht für diese Zinsen grundbücherlich eingetragen sei und deren Zuweisung daher gemäß § 217 (1) Z. 2 EO. zu erfolgen habe.
+Das Rekursgericht bestätigte diesen Beschluß. Es führte aus, im allgemeinen verjähren Zinsenforderungen zwar in drei Jahren, die Verjährung sei hier aber durch die Klagsführung der Gläubiger (es handelt sich um exekutive Pfandrechte auf Grund von Urteilen) unterbrochen worden. Urteilsmäßig zuerkannte Zinsen verjähren nicht nach drei Jahren.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des betreibenden Masseverwalters Folge und änderte den Beschluß des Erstgerichtes dahin ab, daß auch diese Beträge von zusammen 15.824.80 S der Konkursmasse zugewiesen werden.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei den hier zur Erörterung stehenden Zinsen handelt es sich um solche, die mit der Hauptforderung urteilsmäßig zuerkannt worden waren und die nach der exekutiven Eintragung des Pfandrechtes für die Hauptforderung samt Zinsen aufgelaufen sind. Eine Judikatsschuld verjährt zwar erst nach dreißig Jahren, die im Urteil für die Zukunft zugesprochenen Zinsen verjähren aber in drei Jahren (FME. vom 21. Juli 1858 RGBl. Nr. 105, Klang[2] VI/1 608-609, GlU. 4032, 5023, 11.954, GlUNF. 1573, 922). Die Verjährung wird zwar durch eine Exekutionsführung unterbrochen, im vorliegenden Fall beschränkte sich die Exekutionsführung der betreffenden Gläubiger aber auf die zwangsweise Einverleibung der Pfandrechte für die Hauptforderungen samt Zinsen. Wegen der nach der grundbücherlichen Sicherstellung aufgelaufenen Zinsen wurde nicht Exekution geführt. Die Verjährungszeit für diese Zinsen läuft daher ab Eintragung und war für die strittigen Zinsen, die in einer Zeit drei Jahre vor Erteilung des Zuschlags aufgelaufen sind, bereits abgelaufen. Da die Verjährung von der betreibenden Partei bereits im Widerspruch geltend gemacht wurde, ist sie beachtlich und waren diese Zinsenbeträge nicht mehr den betreffenden Gläubigern zuzuteilen, sondern der darauf entfallende Betrag der Konkursmasse zuzuweisen.

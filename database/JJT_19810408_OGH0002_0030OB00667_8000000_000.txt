@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.04.1981
+Geschäftszahl
+3Ob667/80
+Norm
+FGG §145;
+HGB §166 Abs3;
+JN §1;
+Kopf
+SZ 54/54
+Spruch
+Der ausgeschiedene Kommanditist kann Bucheinsicht nur im streitigen Verfahren verlangen
+OGH 8. April 1981, 3 Ob 667/80 (OLG Wien 5 R 112/80; KG St. Pölten 28 Nc 4/80)
+Text
+Die Antragsgegnerin ist im Handelsregister des Erstgerichtes zu HRA 368 a protokolliert. Mit dem "Abtretungsvertrag" vom 14. November 1978 hat der Antragsteller seinen Geschäftsanteil an der Antragsgegnerin an Ing. Josef W abgetreten. In Punkt 12 dieses Vertrages wurde vereinbart, daß der Antragsteller bis zum 30. April 1979 das Recht zur Einsichtnahme in alle Unterlagen hat, die "das Betonwerk, den Baustoffhandel und den Baubetrieb" betreffen; die Antragsgegnerin hat sich verpflichtet, "alle gewünschten Unterlagen, soweit diese vorhanden sind, innerhalb einer gewünschten und angemessenen Frist" zur Verfügung zu stellen.
+Mit dem am 27. Feber 1980 beim Erstgericht eingelangten "Antrag gemäß § 166 Abs. 3 HGB" beantragt der Antragsteller, der Antragsgegnerin bzw. deren persönlich haftenden Gesellschafter und Geschäftsführer Ing. Josef W der über die Bücher verfüge, aufzutragen, ihm Einsicht in die Handelsbücher und Geschäftspapiere der Antragsgegnerin unter Beiziehung eines Sachverständigen zu gewähren und bringt vor, er sei bis zum 18. Juni 1979 Kommanditist der Antragsgegnerin gewesen. Dem Antragsteller sei das in der Vereinbarung vom 14. November 1978 zugesagte Recht auf Bucheinsicht bisher verweigert worden.
+Die Antragsgegnerin beantragt Abweisung des Antrages. Als Tag des Überganges aller mit dem Geschäftsanteil des Antragstellers verbundenen Rechte und Verbindlichkeit auf den Übernehmer sei bereits der 30. April 1979 vereinbart worden. Der Antragsteller habe das ihm bis zu diesem Tag vertraglich eingeräumte Einsichtsrecht nicht genützt, so daß dieses Recht verwirkt sei.
+Das Erstgericht hat der Antragsgegnerin aufgetragen, dem Antragsteller Einsicht in ihre Handelsbücher und Geschäftspapiere zu gewähren, wobei der Antragsteller bei dieser Einsichtnahme einen Sachverständigen beiziehen dürfe. Es stellte fest, daß der Steuerberater Hermann M über Auftrag des Antragstellers am 17. Dezember 1979 eine Bucheinsicht durchgeführt habe, doch seien ihm nicht alle Unterlagen zur Verfügung gestanden; ohne weitere Bucheinsicht, die dem Antragsteller jedoch verwehrt worden sei, könne nicht ausgeschlossen werden, daß ein buchmäßig nicht erfaßter Abgang vorliege. In rechtlicher Hinsicht führte das Erstgericht aus, daß das Recht auf Bucheinsicht im Sinne des § 166 Abs. 3 HGB auch einem ausgeschiedenen Gesellschafter hinsichtlich jener Geschäfte zukomme, die bis zu seinem Ausscheiden getätigt worden seien, soferne ein wichtiger Grund hiefür gegeben sei. Dies sei hier der Fall.
+Das Rekursgericht hob den Beschluß des Erstgerichtes und das diesem vorangegangene Außerstreitverfahren wegen Nichtigkeit auf und wies den Antrag zurück. Es vertrat die Ansicht, daß zwar auch ein ausgeschiedener Kommanditist Bucheinsicht für die Zeit bis zu seinem Ausscheiden begehren könne, doch müsse er dazu den Klageweg beschreiten. Der geltend gemachte Anspruch gehöre daher auf den ordentlichen Rechtsweg.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Antragstellers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Antragsteller macht unter Hinweis auf die Entscheidung des OGH HS 4185/9 geltend, daß nach der ständigen Rechtsprechung die Geltendmachung von Kontroll- und Überwachungsrechten eines Kommanditisten grundsätzlich im Verfahren außer Streitsachen zu erfolgen habe und daß die Zulässigkeit des Rechtsweges nur dann zu bejahen sei, wenn nicht nur die Kontroll- und Überwachungsrechte als solche strittig seien, sondern auch ihre tatsächlichen und rechtlichen Grundlagen, insbesondere das Bestehen eines Gesellschaftsverhältnisses, aus dem das Kontrollrecht abgeleitet werde. Es sei bisher nicht in Frage gestellt worden, daß der Antragsteller Kommanditist der Antragsgegnerin gewesen sei.
+Es ist richtig, daß nach § 145 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit 1898, dRGBl. S 189, i.d.F. des Art. 10 Nr. 5 EVHGB die Gerichtshöfe erster Instanz u. a. auch für die nach § 166 Abs. 3 HGB vom Gericht zu erledigenden Angelegenheiten zuständig sind; daraus ergibt sich zweifelsfrei, daß der Kommanditist seinen Anspruch auf Bucheinsicht im Außerstreitverfahren geltend zu machen hat (SZ 25/183; vgl. auch SZ 50/90). Dies ändert jedoch nichts daran, daß außer den vertraglichen
+-	nicht im Gesetz selbst begrundeten - Kontrollrechten auch die Ansprüche des ausgeschiedenen Kommanditisten auf Einsicht oder Auskunft nach einheitlicher Lehre und Rechtsprechung im ordentlichen Prozeßweg zu verfolgen sind (Jansen, FGG[2] II, 558; Keidel - Kuntze
+-	Winkler, FG[11] Teil A, 1547; Baumbach - Duden, Handelsgesetzbuch[24], 603; Schlegelberger - Gessler, Handelsgesetzbuch[4] II, 1360; Schilling in Großkommentar zum Handelsgesetzbuch[3] II/2, 170; vgl. auch NZ 1953, 174, zumal die Regelung der Kontrollrechte des stillen Gesellschafters in § 338 HGB mit jener des Kommanditisten in § 166 HGB ident ist; vgl. weiter JBl. 1959, 421; SZ 8/95 und SZ 29/51, in welchen Entscheidungen der ausgeschiedene Kommanditist jeweils den Rechtsweg beschritt). In zutreffender Weise hat deshalb das Rekursgericht in analoger Anwendung des § 477 Abs. 1 Z. 6 ZPO die Nichtigkeit der im außerstreitigen Verfahren ergangenen Entscheidung des Erstgerichtes ausgesprochen und den Antrag zurückgewiesen (Fasching IV, 135).

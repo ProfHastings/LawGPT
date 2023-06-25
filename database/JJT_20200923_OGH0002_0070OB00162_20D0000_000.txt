@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2020
+Geschäftszahl
+7Ob162/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** W*****, vertreten durch Mag. Marco und Mag. Amelie Kunczicky, Rechtsanwälte in Mayrhofen, gegen die beklagte Partei U***** AG, *****, vertreten durch Mag. Thomas Anker und DI Mag. Nikolaus Gratl, Rechtsanwäte in Innsbruck, wegen Urkundeneinsicht, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 19. Juni 2020, GZ 4 R 55/20z-18, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+1. Der Kläger begehrt Einsicht in die dem Betriebshaftpflichtversicherungsverhältnis zwischen der Versicherungsnehmerin und der Beklagten zugrundeliegende Versicherungspolizze samt Versicherungsbedingungen; hilfsweise die Aushändigung von Kopien.
+2. Sinn und Zweck einer Betriebshaftpflichtversicherung ist es, alle Haftpflichtgefahren, die dem versicherten oder mitversicherten Betriebsangehörigen aus dem betreffenden Betrieb erwachsen können, unter Versicherungsschutz zu stellen. Das Betriebshaftpflichtrisiko ist daher nicht nur auf typische Betriebsgefahren beschränkt, sondern umfasst im Hinblick auf die Vielfalt der mit einem Betrieb verbundenen Haftpflichtgefahren alle Tätigkeiten, die mit diesem Betrieb in einem inneren ursächlichen Zusammenhang stehen (RS0081009, RS0081310, RS0081248).
+3.1 Allgemein gilt: In einer Versicherung für fremde Rechnung im Sinn der §§ 74 ff VersVG hat der Versicherungsnehmer das formelle Verfügungsrecht über die sachlich dem Versicherten zustehende Forderung; es handelt sich um eine Art gesetzliches Treuhandverhältnis. Der Versicherer kann daher nicht über seine Ansprüche verfügen oder sie gerichtlich geltend machen (RS0080792). Dem Versicherten steht nur dann ein eigenes Verfügungs- bzw Klagerecht zu, wenn er entweder im Besitz des Versicherungsscheins ist, der Versicherungsnehmer zustimmt oder wenn der Versicherungsnehmer nach Ablehnung durch den Versicherer den Anspruch erkennbar nicht weiter verfolgen will (RS0035281 [T7]).
+3.2 Dies gilt auch für die Geltendmachung des Anspruchs auf Einsichtgewährung in die Versicherungspolizze durch den Versicherten (7 Ob 19/93 = VersR 1984, 1196).
+4.1 Der Kläger begründet seine Legitimation damit, (Mit-)Versicherter im Versicherungsverhältnis zwischen der Versicherungsnehmerin und der Beklagten zu sein, weil er zum Unfallszeitpunkt in Ausübung einer dienstlichen Verrichtung für die Versicherungsnehmerin tätig gewesen sei.
+4.2 Die Versicherungsnehmerin war von der Werkbestellerin in deren Betriebshalle mit der Durchführung von Elektroinstallationsarbeiten beauftragt. Der Kläger, ein selbständig für die Werkbestellerin tätiger Hausmeister, hielt sich privat in der Betriebshalle auf, als er von einem Arbeitnehmer der Versicherungsnehmerin, der zuvor von einem Arbeitnehmer der Werkbestellerin mit einem Gabelstapler in die Höhe gefahren worden war, gebeten wurde, ihn hinunterzulassen. Im Zuge dessen ereignete sich ein Unfall, bei dem der Arbeitnehmer der Versicherungsnehmerin verletzt wurde und nun Schadenersatz (ua) vom Kläger fordert.
+Rechtliche Beurteilung
+4.3 Vor dem Hintergrund dieses konkret festgestellten Sachverhalts erweist sich die notwendigerweise einzelfallbezogene Beurteilung der Vorinstanzen, dass der Kläger keine dienstliche Verrichtung für den Betrieb der Versicherungsnehmerin, sondern eine solche ausschließlich für den Betrieb der Werkbestellerin (vgl 7 Ob 69/20b)  vorgenommen habe, als nicht korrekturbedürftig. Damit ist aber auch die weitere Schlussfolgerung der Vorinstanzen, der Kläger habe schon die von ihm behauptete Stellung als (mit-)versicherter Betriebsangehöriger im Versicherungs-verhältnis zwischen der Versicherungsnehmerin und der Beklagten nicht dargetan, weshalb ihm die  Legitimation auf Einsichtnahme in dieses Versicherungsverhältnis betreffende Urkunden fehle, nicht zu beanstanden.
+5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00162.20D.0923.000

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.01.1955
+Geschäftszahl
+3Ob7/55
+Norm
+JN §55;
+ZPO §502;
+Kopf
+SZ 28/10
+Spruch
+§ 55 JN. bezieht sich lediglich auf die sachliche Zuständigkeit des Prozeßgerichtes, nicht aber auf die Frage der Zulässigkeit der Revision nach § 502 Abs. 3 ZPO.
+Entscheidung vom 12. Jänner 1955, 3 Ob 7/55.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Kläger begehrt die Verurteilung des Beklagten zur Bezahlung eines Betrages von 5000 S s. A. und weiterer Beträge von 3340 S und 3000 S an vereinbarten Darlehenszinsen mit der Begründung, er habe gemeinsam mit seiner Gattin Anna Sch. im Sporttoto einen Treffer in der Höhe von 260.000 S gemacht, welcher Betrag auf ein auf seinen und seiner Gattin Anna Sch. Namen lautendes Postsparkassenkonto erlegt wurde. Von seinem Anteil habe er dem Beklagten, seinem Schwiegersohn, Darlehen im Gesamtbetrage von 87.000 S gewährt, wobei vereinbart wurde, daß der Beklagte einen Teilbetrag von 5000 S innerhalb von vier bis fünf Wochen zurückzubezahlen und von dem gesamten Darlehensbetrag Zinsen in der Höhe von wöchentlich 80 S fortlaufend bis zur Rückzahlung des ganzen Darlehensbetrages an den Kläger zu leisten habe. Der Beklagte habe jedoch trotz Fälligkeit keinerlei Zahlungen geleistet.
+Das Prozeßgericht wies das Klagebegehren mit der Begründung ab, daß nicht der Kläger, sondern dessen Gattin gemeinsam mit dem Beklagten den vom Kläger behaupteten Tototreffer gemacht und daß die Gattin des Klägers von ihrem Anteil dem Beklagten ein Darlehen von 40.000 S gewährt habe.
+Das Berufungsgericht bestätigte das Urteil des Prozeßgerichtes.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zunächst war zu prüfen, ob die Revision im Hinblick auf die Vorschrift des § 502 Abs. 3 ZPO. überhaupt zulässig ist.
+Die Bestimmung des § 55 JN., wonach der Gesamtbetrag der noch unberichtigten Kapitalsforderung maßgebend ist, wenn nur ein Teilbetrag eingeklagt wird, bezieht sich lediglich auf die sachliche Zuständigkeit des Prozeßgerichtes. Aus der Fassung des Abs. 3 des § 502 ZPO. ergibt sich eindeutig, daß für die Frage der Zulässigkeit der Revision gegen ein bestätigendes Urteil des Berufungsgerichtes nur der Wert des Streitgegenstandes, über den das Berufungsgericht entschieden hat, maßgebend ist. Das Berufungsgericht hat aber nur über den geltend gemachten Teilbetrag von 5000 S des angeblich gewährten Darlehens per 87.000 S entschieden. Was aber die Beträge von 3340 S und 3000 S anlangt, so stellen diese Zinsen, somit Nebengebühren der Forderung, dar, die an sich gemäß § 54 Abs. 2 JN. bei der Ermittlung des Streitwertes unberücksichtigt bleiben. Daran könnte auch der Umstand nichts ändern, daß die Zinsen nach den Klagsbehauptungen mit einem bestimmten Betrag und nicht mit einem Prozentsatz des Kapitals vereinbart worden sein sollen. Denn es stunde sonst einer Prozeßpartei frei, die Bestimmung des § 502 Abs. 3 ZPO. dadurch zu umgehen, daß sie die Zinsen kapitalisiert und neben der Kapitalsforderung mit einem ziffernmäßig bestimmten Betrag als weitere Kapitalsforderung geltend macht. Die im vorliegenden Falle eingeklagten Zinsen beziehen sich aber auf die ganze Darlehensforderung, somit zum größten Teil auf den nicht geltend gemachten Teil der behaupteten Gesamtforderung, und sind daher nicht Nebengebühren der eingeklagten Kapitalsforderung; die beiden Zinsenbeträge sind deshalb im vorliegenden Falle als Hauptforderungen zu beurteilen und gemäß § 55 1. Satz JN. mit der eingeklagten Kapitalsforderung zusammenzurechnen, was einen 10.000 S übersteigenden Streitwert ergibt. Die Revision ist daher zulässig; sie ist aber unbegrundet.

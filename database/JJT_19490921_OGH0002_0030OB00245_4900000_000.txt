@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.09.1949
+Geschäftszahl
+3Ob245/49
+Norm
+Devisengesetz §3;
+Devisengesetz §22;
+EO §7;
+EO §133;
+Kopf
+SZ 22/136
+Spruch
+Wenn ein Deviseninländer gegen einen Devisenausländer zur Hereinbringung einer Schillingforderung die Zwangsversteigerung der Liegenschaft des Devisenausländers beantragt, ist zur Bewilligung der Zwangsversteigerung eine Bewilligung der Nationalbank nicht erforderlich.
+Entscheidung vom 21. September 1949, 3 Ob 245/49.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz. II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Die betreibenden Parteien sind Deviseninländer und haben gegen die verpflichtete Partei, die Devisenausländer ist, einen Exekutionstitel erwirkt, laut dessen die verpflichtete Partei schuldig ist, den betreibenden Parteien vorbehaltlich der Zustimmung der Nationalbank den Betrag von 47.298.12 S s. A. zu bezahlen.
+Während das Bezirksgericht den Antrag auf Zwangsversteigerung der Liegenschaft bewilligte, wies das Landesgericht diesen Antrag unter Hinweis auf § 7 EO. ab, da die betreibenden Parteien keine Bewilligung der Nationalbank zur Exekutionsführung vorgelegt hatten.
+Rechtliche Beurteilung
+Bei Auslegung des Bundesgesetzes über die Devisenbewirtschaftung vom 25. Juli 1946, BGBl. Nr. 162, ist die Terminologie des Gesetzes über die Devisenbewirtschaftung vom 12. Dezember 1938, DRGBl. I S. 1734, zu berücksichtigen, da die hier in Frage kommenden Bestimmungen aus diesem Gesetz im wesentlichen wörtlich in das österreichische Devisengesetz hinübergenommen worden sind. Unter der Verfügung über eine Forderung im Sinne von § 14 Z. 3 des Gesetzes über die Devisenbewirtschaftung vom 12. Dezember 1938 (§ 3 des österreichischen Devisengesetzes) wird auch deren Tilgung durch Zahlung verstanden, daher darf der Devisenausländer in inländischer Währung an den Deviseninländer grundsätzlich nur mit Genehmigung der Devisenbehörden Zahlung leisten (siehe Kommentar von Flad - Berghold - Fabricius A 75). Eine solche Genehmigung ist aber nach den Richtlinien P. 15 b zum dritten Abschnitte des Gesetzes über die Devisenbewirtschaftung vom 12. Dezember 1938 nicht erforderlich für die Befriedigung eines Inländers wegen einer Forderung gegen einen Ausländer durch Verteilung des Erlöses aus der zwangsweisen Versteigerung des Grundstückes des Ausländers. In diesem Falle bedarf auch die Bewilligung der Zwangversteigerung keiner Genehmigung, wie der genannte Kommentar ausführt (A 205). Diese Bestimmung des P. 15 b der erwähnten Richtlinien wurde in die Kundmachung Nr. 8 der Österreichischen Nationalbank übernommen, wonach für die Befriedigung eines Inländers wegen einer Forderung in inländischer Währung gegen einen Ausländer durch Verteilung des Erlöses (Meistbot) aus der Zwangsversteigerung der Liegenschaft eines Ausländers eine Bewilligung nicht erforderlich ist.
+Wenn zufolge dieser Sonderbestimmung die Tilgung der Forderung durch Zahlung aus dem Meistbote keiner Bewilligung der Nationalbank bedarf, ist auch für den Antrag auf Zwangsversteigerung eine solche Bewilligung nicht zu fordern, da damit nicht ein Anspruch verfolgt wird, zu dessen Erfüllung der Schuldner einer Bewilligung nach § 22 Dev.Ges. bedarf (Kundmachung Nr. 8, Z. 2). Hiebei geht der Oberste Gerichtshof von seiner Entscheidung 3 Ob 271/49 ab. In diesem Sinne wird die Kundmachung Nr. 8 auch von der Nationalbank angewendet.
+Der im Exekutionstitel gemachte Vorbehalt hat nur für solche Zahlungen Bedeutung, die nicht auf Grund besonderer Bestimmungen von dem Bewilligungserfordernisse befreit sind; er steht daher der Bewilligung der Zwangsversteigerung und der Befriedigung aus dem Meistbote nicht entgegen.

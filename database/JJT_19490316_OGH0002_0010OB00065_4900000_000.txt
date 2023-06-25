@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.1949
+Geschäftszahl
+1Ob65/49
+Norm
+ABGB §447;
+ABGB §459;
+ABGB §1311;
+ABGB §1419;
+Währungsschutzgesetz §1;
+Währungsschutzgesetz §3;
+Kopf
+SZ 22/33
+Spruch
+Über das Wesen der Barkaution in Verbindung mit dem Währungsschutzgesetz.
+Entscheidung vom 16. März 1949, 1 Ob 65/49.
+I. Instanz: Bezirksgericht Bad Aussee; II. Instanz: Kreisgericht Leoben.
+Text
+Der Kläger hat im November 1947 vom Beklagten eine Filmkamera zum kommissionsweisen Verkauf übernommen und diesem hiefür eine Barkaution von 2700 S übergeben. Falls der Verkauf der Kamera nicht oder nur mit Verlust möglich sein sollte, sollte der Kläger Zug um Zug gegen Rückerstattung der Kaution die Kamera an den Beklagten zurückstellen. Tatsächlich wäre der Verkauf nur mit Verlust möglich gewesen, weshalb der Kläger die Kamera wieder an den Beklagten zurückstellen wollte. Dieser wollte jedoch im Hinblick darauf, daß inzwischen das Währungs-Schutzgesetz in Kraft getreten war, nur mehr ein Drittel der Kaution zurückzahlen. Der Kläger begehrte hierauf mit seiner Klage die Bezahlung des Betrages von 2700 S Zug um Zug gegen Rückstellung der Kamera.
+Das Erstgericht erkannte den Beklagten nur schuldig, den Betrag von 900 S Zug um Zug gegen Rückgabe der Kamera zu bezahlen.
+Das Berufungsgericht gab der Berufung des Klägers Folge und änderte das erstgerichtliche Urteil dahin ab, daß der Beklagte den gesamten Betrag von 2700 S im übrigen unter der vom Erstgericht genannten Bedingung, zu bezahlen habe. Es begrundete diese Entscheidung damit, daß der Beklagte durch Vermengung des vom Kläger erhaltenen Geldbetrages mit eigenem Geld Eigentümer der Summe von 2700 S geworden sei. Er habe daher den durch das Währungsschutzgesetz eingetretenen Wertverlust als einen in seinem Vermögen eingetretenen Zufall im Sinne des § 1311 ABGB. selbst zu tragen.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Meinung des Berufungsgerichtes, es könne ein Summenpfandrecht deshalb nicht angenommen werden, weil der Beklagte nicht bestimmte Stücke, sondern nur einen Geldbetrag von 2700 S erhalten habe, kann nicht beigepflichtet werden. Wäre der Beklagte auf Grund der Vereinbarung zwischen den Streitteilen verpflichtet gewesen, dieselben Banknoten oder Münzen zurückzustellen, so würde ein gewöhnliches Pfandrecht vorliegen, während bei einem Summenpfandrecht der Pfandnehmer zwar nur eine gleiche Summe zurückzustellen hat, jedoch verpflichtet ist, das, was er von dem ihm als Pfand übergebenen Betrag entnommen hat, sofort zu ersetzen, und der Pfandgeber Eigentümer des verpfändeten Geldbetrages bleibt (vgl. Klang, Kommentar, 2. Aufl., II, S. 398). Daß zwischen den Parteien vereinbart worden sei, der Beklagte habe die ihm als Kaution übergebenen Banknoten oder Münzen seinerzeit zurückzustellen oder das, was er davon entnimmt, sofort aus eigenen Beständen zu ersetzen und der Kläger habe Eigentümer des verpfändeten Geldbetrages zu bleiben, wurde jedoch von keiner der Parteien behauptet und von den Untergerichten nicht festgestellt. Der Kläger hat bloß in der Klage die Berechtigung des Beklagten zur Verwendung des ihm als Kaution übergebenen Barbetrages bestritten, ohne das Vorliegen einer dahingehenden ausdrücklichen Vereinbarung zu behaupten. Der Beklagte hat selbst vorgebracht, daß er den Kautionsbetrag nebst eigenem Gelde zum Ankauf von Photoapparaten verwendet habe. Da somit nach den Feststellungen der Untergerichte und dem Parteienvorbringen weder ein gewöhnliches Pfandrecht noch ein Summenpfandrecht vorliegt, kommt nur ein unregelmäßiges Pfandrecht in Frage, in welcher Form gewöhnlich Geld als Sicherstellung gegeben wird. Liegt aber ein pignus irregulare vor, so ist der Beklagte mit der Übergabe Eigentümer des Geldbetrages geworden und ist lediglich obligatorisch zur Rückzahlung der gleichen Summe verpflichtet. Schulden wurden nun - von Einlagen bei Geldinstituten und dergleichen abgesehen - durch das Währungsschutzgesetz überhaupt nicht berührt. Die Wirkungen dieses Gesetzes haben das vom Kläger herrührende Geld als Teil des Vermögens des Beklagten betroffen. Da es sich um eine bloße Geldschuld des Beklagten handelt, hat dieser sie daher im vollen Umfange zu erfüllen. Die Entscheidung des Berufungsgerichtes ist demnach, wenn auch zum Teil aus anderen rechtlichen Erwägungen, zutreffend und mußte deshalb der Revision des Beklagten ein Erfolg versagt bleiben.

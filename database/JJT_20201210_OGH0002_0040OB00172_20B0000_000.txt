@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.12.2020
+Geschäftszahl
+4Ob172/20b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Hon.-Prof. PD Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin S***** GmbH, *****, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, gegen die Beklagte Verwertungsgesellschaft *****, vertreten durch Korn Rechtsanwälte OG in Wien, wegen Erteilung einer Nutzungsbewilligung (Streitwert 35.000 EUR), über die Revision der Klägerin gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Mai 2020, GZ 2 R 10/20k-12, mit dem das Urteil des Handelsgerichts Wien vom 22. November 2019, GZ 17 Cg 18/19g-8, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Klägerin ist schuldig, der Beklagten binnen 14 Tagen deren mit 2.197,80 EUR (darin 366,30 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+[1] 		Die Klägerin ist eine österreichische Privatrundfunkveranstalterin, die Beklagte eine Verwertungsgesellschaft, die bestimmte eigene und abgeleitete Urheber- und Leistungsschutzrechte wahrnimmt, soweit der Berechtigte ein Rundfunkunternehmer ist. Teil der von der Wahrnehmungsgenehmigung umfassten Berechtigung ist die Wahrnehmung des Rechts der Weitersendung von Rundfunksendungen einschließlich Satellitensendungen mit Hilfe von Leitungen gemäß § 59a UrhG. Die Beklagte hat mit der VG Media Gesellschaft zur Verwertung der Urheber- und Leistungsschutzrechte von Sendeunternehmen und Presseverlegern mbH (kurz: „VG Media“) eine Repräsentationsvereinbarung geschlossen sowie mit einzelnen Rundfunkunternehmern Wahrnehmungsverträge und sie verfügt über die Rechte verschiedener ausländischer Sender.
+[2] 		Die Klägerin begehrte, die Beklagte schuldig zu erkennen, ihr eine Nutzungsbewilligung zur gleichzeitigen, vollständigen und unveränderten Weiterverbreitung im Rahmen des Dienstes Sky X der in Anlage 2 zum Rahmenvertrag zwischen der Beklagten und der Wirtschaftskammer Österreich vom 31. 7. 1998 angeführten Fernsehprogramme zu angemessenen Bedingungen zu erteilen. Die Beklagte unterliege nach § 59b Abs 2 UrhG einem Kontrahierungszwang, weil Sky X den Voraussetzungen des § 59a Abs 1 UrhG entspreche und die Beklagte zur Wahrnehmung der Weitersenderechte an den gewünschten frei empfangbaren Sendern befugt sei.
+[3] 		Die Beklagte wendete ein, dass sie über die gewünschten Rechte gar nicht verfüge. Bei Sky X handle es sich nicht um eine Weitersendung der Programmsignale über Fernsehsignalkabel, sondern um einen OTT-Dienst, bei dem die Verbreitung nicht über ein eigenes Netz, sondern über das Internet erfolge. Das Recht, einen derartigen Dienst zu lizenzieren, unterliege nicht der Verwertungsgesellschaftenpflicht nach § 59a Abs 1 UrhG und sei der Beklagten von den Rundfunkunternehmern auch nicht übertragen worden.
+[4] 		Das Erstgericht wies die Klage ab. Die Weitersendung über Internet falle nicht in den Anwendungsbereich des § 59a UrhG, weshalb in Bezug auf eine Internetverbindung (OTT) auch kein Kontrahierungszwang nach § 59 Abs 3 UrhG bestehe. Hinzu trete, dass die Beklagte nicht über die gewünschten Rechte verfüge; sie könne sie daher auch nicht weitergeben.
+[5] 		Das Berufungsgericht bestätigte diese Entscheidung und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und die ordentliche Revision zulässig sei, weil zur Frage, ob Live Streaming von ausländischen Rundfunksendungen über das offene Internet der integralen Kabelweitersendung gemäß § 59a UrhG gleichzuhalten sei, höchstgerichtliche Rechtsprechung fehle.
+[6] 		Die Klägerin beantragt mit ihrer Revision, der Klage stattzugeben. Sie beruft sich auf die technologieneutrale Auslegung der Bestimmung des § 59a UrhG. Die Wahrnehmungsbefugnis der Beklagten umfasse auch Weitersendungen über einen Internetzugangsdienst. Ihr komme für ihren Tätigkeitsbereich eine Monopolstellung zu. Es bestehe daher ein Kontrahierungszwang im Sinne einer Zwangslizenz.
+[7] 		Die Beklagte beantragt mit ihrer Revisionsbeantwortung, die Revision zurück- bzw abzuweisen.
+Rechtliche Beurteilung
+[8] 		Die Revision ist, ungeachtet des – den Obersten Gerichtshof nicht bindenden – Zulassungsausspruchs des Berufungsgerichts, in Ermangelung von erheblichen Rechtsfragen iSv § 502 Abs 1 ZPO nicht zulässig.
+[9] 		1. Der Senat hat kürzlich in der Entscheidung 4 Ob 149/20w ausgesprochen, dass Live Streaming (auch über das offene Internet) ein Anwendungsfall des § 59a UrhG ist. Eine Beschränkung des Kabelweitersenderechts auf solche Verfahren, bei denen die Verbreitung der Sendungen des Erstsenders in einem vom Weitersende-Unternehmer durchgängig kontrollierten Kommunikationsnetz erfolgt, lässt sich § 59a Abs 1 UrhG nicht entnehmen und widerspräche auch dem technologieneutralen Ansatz dieser Bestimmung. Die vom Berufungsgericht und der Klägerin als erheblich bezeichnete Rechtsfrage ist daher bereits beantwortet (vgl auch 4 Ob 185/20i).
+[10] 		2. Damit ist für die Klägerin im konkreten Fall jedoch nichts gewonnen, verfügt die Beklagte doch – wie von den Vorinstanzen festgestellt – gar nicht über die von der Klägerin gewünschten Rechte: Die Beklagte bietet in ihren Wahrnehmungsverträgen die Weitersendung von Rundfunksendungen mittels Internet (OTT) nicht an, und ihr wurden auch im Repräsentationsvertrag mit der deutschen VG Media die von der Klägerin gewünschten Rechte an den dort im Annex 3 genannten Sendern nicht übertragen. Es fehlt somit aus tatsächlichen Gründen an der Voraussetzung für die von der Klägerin begehrte Zwangslizenz.
+[11] 		3. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00172.20B.1210.000

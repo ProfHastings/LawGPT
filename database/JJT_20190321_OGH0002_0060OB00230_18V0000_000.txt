@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2019
+Geschäftszahl
+6Ob230/18v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Mag. Dr. K***** S*****, vertreten durch Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei S*****, vertreten durch Dr. Wolfgang Strasser und Mag. Dr. Christian Strasser, Rechtsanwälte in St. Valentin, wegen 7.000 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Landesgerichts St. Pölten als Rekursgericht vom 12. September 2018, GZ 21 R 152/18p-9, mit dem der Beschluss des Bezirksgerichts Haag vom 28. Juni 2018, GZ 100 C 297/18h-5, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Die Entscheidungen der Vorinstanzen werden dahin abgeändert, dass der Antrag der Beklagten auf Zurückweisung der Mahnklage abgewiesen wird.
+Die Kosten des Rechtsmittelverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+Mit Beschluss des Landesgerichts St. Pölten vom 23. 1. 2018 wurde über das Vermögen der Beklagten das Insolvenzverfahren eröffnet, in dem am 17. 4. 2018 ein Sanierungsplan angenommen und dieser am 7. 6. 2018 bestätigt wurde. Rechtskraft des Bestätigungsbeschlusses trat am 27. 6. 2018 ein.
+Bereits am 30. 5. 2018 hatte die Klägerin eine Mahnklage eingebracht, der bedingte Zahlungsbefehl war am 11. 6. 2018 erlassen worden. Gegen diesen hatte der Masseverwalter der Beklagten am 18. 6. 2018 Einspruch erhoben und die Zurückweisung der Mahnklage infolge anhängigen Insolvenzverfahrens beantragt.
+Mit Beschluss vom 28. 6. 2018 hob das Erstgericht den bedingten Zahlungsbefehl auf und erklärte das bisherige Verfahren ab Zustellung der Klage für nichtig; die Klage wies es unter Hinweis auf § 6 IO als unzulässig zurück.
+Das Rekursgericht bestätigte diese Entscheidung und sprach aus, dass der ordentliche Revisionsrekurs zulässig ist; es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, ob der Umstand, dass ein Sanierungsplan bereits angenommen wurde, aber noch keine rechtskräftige Bestätigung vorliegt, zur Klagsführung berechtigt.
+In der Sache selbst vertrat das Rekursgericht die Auffassung, § 6 IO ordne eine Prozesssperre an, sodass gegen den Schuldner ein Rechtsstreit nicht geführt werden dürfe. Die Mahnklage sei während dieser Prozesssperre eingebracht worden.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig; er ist auch berechtigt.
+1. Nach § 6 Abs 1 IO können Rechtsstreitigkeiten, welche die Geltendmachung oder Sicherstellung von Ansprüchen auf das zur Insolvenzmasse gehörige Vermögen bezwecken, nach der Eröffnung des Insolvenzverfahrens gegen den Schuldner weder anhängig noch fortgesetzt werden. Dass die hier gegenständliche Klage Ansprüche betrifft, die zur Masse gehören, ist nicht strittig.
+Der Sinn und Zweck dieser Regelung besteht darin, dass Insolvenzforderungen grundsätzlich im Insolvenzverfahren anzumelden sind. Wird die Forderung vom Insolvenzverwalter oder einem anderen Gläubiger bestritten, dann kann der Gläubiger einen Prüfungsprozess anstrengen (§ 110 IO; vgl auch 8 Ob 83/16p [ErwGr 2.]). Vor Anmeldung der Forderung und Abschluss des Prüfungsverfahrens ist der streitige Rechtsweg unzulässig (RIS-Justiz RS0064002); ohne Durchführung des Prüfungsverfahrens würde zudem das rechtliche Gehör der anderen Insolvenzgläubiger verletzt (RIS-Justiz RS0036735 [T4]).
+Wenn entgegen § 6 Abs 1 IO nach der Insolvenzeröffnung eine Klage gegen den Schuldner anhängig gemacht wird, ist der Mangel der Verfügungsfähigkeit des Schuldners wie der Mangel der Prozessfähigkeit von Amts wegen zu beachten und die Nichtigkeit des Verfahrens auszusprechen (RIS-Justiz RS0035202); eine gegen den Schuldner selbst erhobene Klage ist zurückzuweisen (RIS-Justiz RS0064062 [T2]).
+2. Für den Rechtsstandpunkt der Vorinstanzen ist daraus allerdings nichts gewonnen:
+2.1. Das Erstgericht fasste seinen Aufhebungs- und Zurückweisungsbeschluss am 28. 6. 2018, somit  einen Tag nach Eintritt der Rechtskraft des Bestätigungsbeschlusses. Mit Eintritt dieser Rechtskraft war aber gemäß § 152b Abs 2 IO das Insolvenzverfahren aufgehoben worden.
+2.2. Zur Heilung der Nichtigkeit (und damit Wegfall eines Klagezurückweisungsgrundes) kommt es beispielsweise, wenn vor der gerichtlichen Wahrnehmung der Unzulässigkeit des Rechtswegs der Prozessgegner des anmeldenden Gläubigers in der Prüfungstagsatzung eine Bestreitungserklärung abgegeben hat (RIS-Justiz RS0119602; vgl auch 2 Ob 261/05d). Dies wird in der Entscheidung 9 ObA 105/04p damit begründet, dass – wenngleich die Prozessvoraussetzungen in jeder Lage des Verfahrens gegeben sein müssen – ihr früheres Fehlen unbeachtlich wird, wenn sie noch im Laufe des Verfahrens eintreten (RIS-Justiz RS0039748). Dieser Grundsatz gilt ganz allgemein für den nachträglichen Wegfall des Prozesshindernisses der Unzulässigkeit des Rechtswegs (vgl bloß 5 Ob 523/95), aber etwa auch der inländischen Gerichtsbarkeit, der Unzuständigkeit oder der Streitanhängigkeit; maßgeblich sind die Verhältnisse im Zeitpunkt der erstgerichtlichen Entscheidung (6 Ob 598/91). Ganz allgemein gilt der Grundsatz, dass die Frage, ob eine Prozessvoraussetzung gegeben ist oder ihr Mangel ein Prozesshindernis bildet, nach dem Sachverhalt und der Rechtslage zu beurteilen ist, wie sie im Zeitpunkt der Entscheidung über die Prozesseinrede bestehen (RIS-Justiz RS0046564).
+2.3. Da zum Zeitpunkt der Beschlussfassung erster Instanz die Prozesssperre des § 6 IO bereits weggefallen war, wäre das Verfahren nunmehr gegen die Beklagte selbst fortzuführen gewesen. Dies hat die Aufhebung der Entscheidungen der Vorinstanzen und die Abweisung des Zurückweisungsantrags der beklagten Partei zur Folge.
+3. Die Entscheidung über die Kosten des Rechtsmittelverfahrens gründet sich auf § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0060OB00230.18V.0321.000

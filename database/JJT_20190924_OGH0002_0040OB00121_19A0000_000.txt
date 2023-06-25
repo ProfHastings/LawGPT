@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2019
+Geschäftszahl
+4Ob121/19a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei a* GmbH, *, vertreten durch Dr. Friedrich Schubert, Rechtsanwalt in Wien, gegen die beklagte Partei Dr. A* P*, vertreten durch Mag. Wolfgang Standfest, LL.M., Rechtsanwalt in Wien, wegen 24.525,74 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 18. April 2019, GZ 11 R 53/19y-21, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 31. Jänner 2019, GZ 26 Cg 71/17b-17, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 1.568,52 EUR (darin enthalten 261,42 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts hängt die Entscheidung nicht von der Lösung einer erheblichen Rechtsfrage ab. Die Entscheidung kann sich daher auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+1.1. Die Kriterien zur Beurteilung der Zurechnung von Verhandlungsgehilfen sind in der Rechtsprechung geklärt und wurden auch jüngst in – nahezu idente Finanzierungsleasings-(Sale-and-lease-back-)Geschäfte der Klägerin betreffenden – Parallelfällen (darunter das vom Berufungsgericht angesprochene Verfahren 9 Ob 13/19f; ebenso 4 Ob 41/19m und ähnlich 8 Ob 52/19h) wie folgt dargelegt:
+1.2. Eine Person, deren sich ein Teil im Rahmen von Vertragsverhandlungen als Gehilfe bedient, ist nicht Dritter im Sinn des § 875 ABGB. Als Gehilfe kommt in Betracht, wer auf der Seite des Erklärungsgegners steht und maßgeblich am Zustandekommen des Geschäfts mitgewirkt hat, sofern seine Erklärung zu seinem Aufgabenbereich gehört (RIS-Justiz RS0016309; 4 Ob 44/11s; 3 Ob 93/16x jeweils mwN). Der den Irrtum Veranlassende muss nicht Stellvertreter des Geschäftsherrn bzw mit Vollmacht oder Anscheinsvollmacht ausgestattet sein, er muss vom Geschäftsherrn aber jedenfalls mit der Verhandlungsführung beauftragt sein (2 Ob 176/10m). Wer sich bei der Führung von Vertragsverhandlungen eines solchen Gehilfen bedient, haftet für einen von diesem veranlassten Irrtum wie für einen, den er selbst veranlasst hätte (RS0016200). In mehreren Entscheidungen des Obersten Gerichtshofs wurden beispielsweise Immobilienmakler als Verhandlungsgehilfen ihrer Auftraggeber angesehen (2 Ob 76/10m; 6 Ob 25/16v).
+Nach diesen Grundsätzen bedarf es für die Zurechnung einer Person als Verhandlungsgehilfe im Sinn des § 875 ABGB eines besonderen Zurechnungselements. Dieses Element besteht darin, dass die Person „auf der Seite des Erklärungsgegners“ (des Geschäftspartners des Irrenden) und damit für diesen auftritt. Dazu muss er vom Erklärungsgegner mit der Verhandlungsführung beauftragt oder mit einem bestimmten Aufgabenbereich, zu dem die Verhandlungsführung zählt, betraut worden sein.
+1.3. Die rechtliche Beurteilung des Berufungsgerichts, dass der Mitarbeiter der Lieferantin, von der die Klägerin die Geräte gekauft hatte, nicht der Klägerin als Verhandlungsgehilfe zuzurechnen ist, geht von diesen Rechtsprechungsgrundsätzen aus. Die Revision zeigt keine grob unrichtige Anwendung dieser Grundsätze oder eine aus Gründen der Rechtssicherheit aufzugreifende grobe Fehlbeurteilung auf. Die Darlegungen der Revision, es sei anzunehmen, dass die Klägerin involviert gewesen sei, sie müsse eingebunden gewesen sein, bleiben spekulativ und gehen nicht vom festgestellten Sachverhalt aus. Aus diesem ergibt sich gerade nicht, dass die Lieferantin im Sinne der dargelegten Rechtsprechung mit der Verhandlungsführung oder der Erteilung von Informationen zum Leasinggeschäft beauftragt gewesen wäre. Hinzu kommt, dass nach den Bestimmungen des Leasingvertrags der Lieferant ausdrücklich nicht berechtigt war, Erklärungen für die Klägerin abzugeben oder entgegenzunehmen. Rechtliche Feststellungsmängel in diesem Zusammenhang liegen nicht vor.
+2. Die unternehmerisch tätige Beklagte hat hier zwei Geräte angeschafft, wovon das klagsgegenständliche für die private Nutzung ihres Vaters bestimmt war. Gehört aber ein Geschäft teils zur privaten, teils zur unternehmerischen Sphäre, so ist es zur Gänze als Unternehmensgeschäft zu werten (RS0115515; vgl RS0065380, RS0112255 [T2]). Auf die in der Revision angesprochene Frage der kongruenten Anbahnung eines Verbrauchergeschäfts (vgl RS0065497) kommt es nicht an.
+Aus diesem Grund zeigen auch die gegen den Zuspruch unternehmerischer Zinsen gerichtete Revisionsausführungen keine erhebliche Rechtsfrage auf. Eine Aktenwidrigkeit liegt in diesem Zusammenhang nicht vor.
+3. Insgesamt gelingt es der Beklagten mit ihren Ausführungen nicht, eine erhebliche Rechtsfrage aufzuzeigen. Die Revision war daher zurückzuweisen.
+4. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E126463

@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2012
+Geschäftszahl
+9ObA157/11w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, den Hofrat des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras, die Hofrätin des Obersten Gerichtshofs Dr. Dehn sowie die fachkundigen Laienrichter KR Mag. Paul Kunsky und Dr. Klaus Mayr in der Arbeitsrechtssache der klagenden Partei Ing. R***** D*****, vertreten durch Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, wider die beklagte Partei A***** A***** AG, *****, vertreten durch Jarolim Flitsch Rechtsanwälte GmbH in Wien, wegen 20.612,51 EUR sA, infolge der außerordentlichen Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. Oktober 2011, GZ 7 Ra 85/11p-21, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Kläger, der bei der Beklagten als Sachbearbeiter für die Beschaffung, nicht aber den Verkauf von Ersatzteilen zuständig war, erstellte in Eigeninitiative aus dem von der Beklagten geführten EDV-Lagerprogramm eine Liste von lagernden Ersatzteilen („rotable parts“), ermittelte deren Neuanschaffungswert und sandte die Information seinem Vorgesetzten mit dem Hinweis, dass daraus bei einem Verkauf schnell Kapital zu schlagen sei und Lagerkapazitäten gewonnen werden könnten. Die Beklagte, bei der für den Ersatzteilverkauf ein eigenes Sales Department bestand, hatte bereits davor verschiedene Schritte zum Verkauf der lagernden Ersatzteilbestände eingeleitet.
+Die Vorinstanzen wiesen das Begehren des Klägers auf Zahlung einer Provision von 1 % der Verkaufserlöse ab, weil keine Prämienzusage der Beklagten feststellbar war, der Verkaufsvorschlag keine patentierfähige Diensterfindung sei, bei der Beklagten keine Betriebsvereinbarung für vergütungsfähige Verbesserungsvorschläge iSd § 97 Abs 1 Z 14 ArbVG bestehe und auch die Voraussetzungen für einen Anspruch aus Bereicherung oder Geschäftsführung ohne Auftrag nicht erfüllt seien.
+Dazu zeigt die Revision des Klägers keine Fehlbeurteilung auf, die iSd § 502 Abs 1 ZPO zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung der Korrektur bedürfte:
+Die vom Kläger herangezogene - gegenüber einem Verwendungsanspruch nach § 1041 ABGB den Vorrang genießende (s nur Koziol in KBB3 § 1041 ABGB Rz 1 mwN) - Leistungskondiktion nach § 1431 ABGB setzt eine irrtümliche Zuwendung des Leistenden an den Bereicherten voraus. Das ist hier nicht der Fall.
+Der vom Kläger ins Treffen geführte Verwendungsanspruch nach § 1041 ABGB scheidet aus, wenn der Verkürzte - wie hier - die Geschäfte des Bereicherten führen will (Koziol aaO Rz 3).
+Schließlich berechtigt eine nützliche Geschäftsführung ohne Auftrag, sofern sie zum klaren und überwiegenden Vorteil des anderen erfolgt, den Geschäftsführer nur zum Ersatz der von ihm „darauf verwendeten Kosten“ (§ 1037 ABGB), sohin seines tatsächlichen Aufwands. Dass der Kläger einen dem Klagsbetrag entsprechenden Aufwand gehabt hätte, wurde von ihm nicht behauptet. Ein anderer Aufwand wurde von ihm nicht beziffert.
+Die Revision ist daher zurückzuweisen.

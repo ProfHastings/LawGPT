@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.07.2021
+Geschäftszahl
+4Nc22/21d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden sowie den Hofrat Dr. Schwarzenbacher und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden und antragstellenden Partei I*****, vertreten durch Dr. Peter Kraus, BSc, Rechtsanwalt in Wien, gegen die beklagte Partei F*****, Irland, wegen Erfüllung (Streitwert 10.000 EUR), über den Antrag des Klägers auf Bestimmung eines zuständigen Gerichts nach § 28 Abs 1 Z 3 JN, den
+Beschluss
+gefasst:
+Spruch
+Der Ordinationsantrag wird abgewiesen.
+Text
+Begründung:
+[1] 		Der in Österreich lebende Verbraucher klagt eine irische Unternehmerin auf Erfüllung einer vertraglichen Verpflichtung. Laut den AGB der Beklagten könne er Ansprüche vor jedem Gericht im Land seines Hauptwohnsitzes klären. Damit sei zwar die internationale Zuständigkeit Österreichs, aber kein konkretes Gericht vereinbart worden.
+Rechtliche Beurteilung
+[2] 		Gemäß Art 18 Abs 1 2. Fall EuGVVO 2012 kann die Klage eines Verbrauchers gegen den anderen Vertragspartner ohne Rücksicht auf dessen Wohnsitz vor dem Gericht des Ortes erhoben werden, an dem der Verbraucher seinen Wohnsitz hat. Diese Bestimmung regelt also auch die örtliche Zuständigkeit, sodass eine Ordination nicht erforderlich ist (vgl RS0116365 zur Vorgängerbestimmung Art 16 Abs 1 EuGVVO 2001).
+[3] 		Die Regelung in den AGB der Beklagten schließt diesen konkreten Gerichtsstand schon nach ihrem Wortlaut nicht aus, sondern räumt dem Verbraucher iSd Art 19 Abs 2 EuGVVO 2012 weitere Klagemöglichkeiten ein.
+[4] 		Der Ordinationsantrag war daher als unbegründet abzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0040NC00022.21D.0702.000

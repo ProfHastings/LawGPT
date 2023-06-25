@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.1972
+Geschäftszahl
+3Ob124/71
+Norm
+ZPO §524 Abs2;
+Kopf
+SZ 45/9
+Spruch
+Beschlüsse sind ungeachtet eines im bereits erhobenen Rekurs gestellten Antrages nach § 524 Abs 2 ZPO formell vollstreckbar, solange der Antrag auf Zuerkennung der aufschiebenden Wirkung nicht erledigt ist
+Der Hemmungsbeschluß gemäß § 524 Abs 2 ZPO wirkt konstitutiv ab dem Bewilligungstag. Eine vor der Hemmung ergangene Exekutionsbewilligung bleibt aufrecht
+OGH 27. 1. 1972, 3 Ob 124/71 (OLG Wien 3 R 177/71; HG Wien 26 Cg 169/70)
+Text
+Mit einstweiliger Verfügung des HG Wien vom 30. 7. 1971, wurde der Verpflichteten untersagt, im geschäftlichen Verkehr das Wort "M", es sei denn als Bestandteil ihres Firmenwortlauts und ohne blickfangartige graphische Hervorhebung innerhalb des Firmenwortlauts, zu gebrauchen. In dem am 10. 8. 1971 eingebrachten Exekutionsantrag behauptete die betreibende Gläubigerin, die Verpflichtete habe diesem Verbot durch näher bezeichnete Handlungen nach Zustellung der einstweiligen Verfügung zuwidergehandelt.
+Die von ihr beantragte Exekution nach § 355 EO wurde vom Erstgericht bewilligt, vom Rekursgericht jedoch mit der Begründung abgewiesen, daß dem gegen die einstweilige Verfügung (Exekutionstitel) am 11. 8. 1971 eingebrachten Rekurs, wenngleich nach der Exekutionsbewilligung, auf Antrag des Verpflichteten hemmende Wirkung nach § 524 Abs 2 ZPO zuerkannt worden und die einstweilige Verfügung daher bis zur Zustellung der Rekursentscheidung nicht vollstreckbar sei.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Maßgeblicher Zeitpunkt für die Entscheidung darüber, ob der einem Exekutionsantrag zugrunde gelegte Exekutionstitel formell und materiell vollstreckbar ist, ist der Zeitpunkt der Beschlußfassung des Bewilligungsgerichtes (Neumann-Lichtblau[4], 204). Im vorliegenden Fall entschied das Erstgericht über den Exekutionsantrag am 11. 8. 1971. Zu diesem Zeitpunkt lag dem Erstrichter möglicherweise schon der am selben Tag eingelangte Schriftsatz mit dem Rekurs gegen den Exekutionstitel und dem damit verbundenen Antrag nach § 524 Abs 2 ZPO vor. Eine diesbezügliche genaue Feststellung kann aus dem Titelakt nicht getroffen werden, weil weder der Abfertigungsvermerk zur Exekutionsbewilligung noch der Eingangsvermerk zum Rekurs Hinweise auf die Uhrzeit der Erledigung bzw des Einlangens enthalten. Hierauf kommt es aber auch nicht an. Maßgeblich ist vielmehr, daß das Erstgericht über den Antrag nach § 524 Abs 2 ZPO erst am 13. 8. 1971 entschieden hat. Die erst an diesem Tag bewilligte Hemmung ist ein konstitutiv wirkender Beschluß. Da eine Rückwirkung im Gesetz nicht ausgesprochen ist, bleibt eine vor dem Eintritt der Hemmung ergangene Exekutionsbewilligung aufrecht (Neumann-Lichtblau[4], 69). Beschlüsse sind daher ungeachtet des im bereits erhobenen Rekurs gestellten Antrages nach § 524 Abs 2 ZPO formell vollstreckbar, solange der Antrag auf Zuerkennung der aufschiebenden Wirkung nicht erledigt ist (Fasching IV, 431; AnwZ 1932, 297). Hiebei ist es auch unbeachtlich, ob der Richter die Entscheidung nach § 524 Abs 2 ZPO entgegen der Vorschrift des § 110 Abs 2 Geo verspätet getroffen hat oder nicht.

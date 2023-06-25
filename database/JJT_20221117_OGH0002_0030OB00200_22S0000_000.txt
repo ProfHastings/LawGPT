@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.11.2022
+Geschäftszahl
+3Ob200/22s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Dr. H*, Rechtsanwalt, *, gegen die beklagte Partei Republik Österreich, vertreten durch die Finanzprokuratur in Wien, wegen Einwendungen gegen den Anspruch (§ 35 EO) und Unzulässigkeit einer Exekution (§ 36 EO), über den Rekurs der klagenden Partei gegen den Berichtigungsbeschluss des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 5. September 2022, GZ 47 R 281/21b-30, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Berufungsgericht bestätigte das die Oppositions- und Impugnationsklage abweisende Urteil des Erstgerichts und sprach aus, dass die Revision hinsichtlich zweier betriebener Forderungen nicht zulässig und hinsichtlich der neun weiteren betriebenen Forderungen jedenfalls unzulässig sei. Mit Beschluss vom 17. August 2022 wies es den vom Kläger erhobenen Abänderungsantrag gemäß § 508 ZPO samt der ordentlichen Revision zurück.
+[2] 		Mit dem nun angefochtenen Beschluss berichtigte das Berufungsgericht von Amts wegen mehrere ihm im Beschluss vom 17. August 2022 unterlaufene offenkundige Schreibfehler.
+Rechtliche Beurteilung
+[3] 		Der dagegen erhobene Rekurs des Klägers ist verspätet:
+[4] 		1.1. Gemäß § 519 Abs 1 ZPO ist gegen einen im Berufungsverfahren ergangenen Beschluss des Berufungsgerichts der Rekurs nur unter den besonderen Voraussetzungen der Z 1 und 2 dieser Bestimmung zulässig. Demnach ist ein Rekurs gegen einen vom Berufungsgericht im Berufungsverfahren gefassten Urteilsberichtigungsbeschluss unstatthaft (vgl RS0041738).
+[5] 		1.2. Die Rekursbeschränkungen des § 519 ZPO gelten hingegen nicht für Beschlüsse des Berufungsgerichts außerhalb des Berufungsverfahrens (vgl RS0057215), insbesondere für nach Eintritt der Rechtskraft der Berufungsentscheidung, also nach Abschluss des Berufungsverfahrens gefasste Beschlüsse des Berufungsgerichts (vgl RS0041738 [T10]).
+[6] 		1.3. Ein solcher Fall liegt hier vor, weil das Berufungsgericht den Berichtigungsbeschluss erst nach Zustellung des – gemäß § 508 Abs 4 letzter Satz ZPO unanfechtbaren – Beschlusses vom 17. August 2022 und damit nach Eintritt der Rechtskraft der Berufungsentscheidung gefasst hat. Der Rekurs ist daher grundsätzlich zulässig.
+[7] 		2.1. Gemäß § 520 Abs 1 ZPO wird der Rekurs durch Überreichung eines Schriftsatzes bei dem Gericht erhoben, dessen Beschluss angefochten wird, doch sind Rekurse gegen Entscheidungen der zweiten Instanz beim Gericht erster Instanz zu überreichen. Der Rekurs ist demnach beim jeweiligen Erstgericht einzubringen. Der Begriff „bei Gericht erster Instanz“ ist aus funktioneller Sicht zu verstehen. Deshalb muss das Erstgericht nicht jedenfalls ein solches nach den Kriterien des GOG sein. So wird beispielsweise ein Oberlandesgericht bei der Entscheidung über einen Delegierungsantrag als Erstgericht tätig, weshalb Rekurse gegen solche Entscheidungen bei diesem Oberlandesgericht einzubringen sind. Rekurse gegen einen Beschluss, mit dem über einen Ablehnungsantrag entschieden wurde, sind ebenfalls bei dem Gericht einzubringen, das in der Ablehnungssache entschieden hat. Auch wenn das Berufungsgericht seine Entscheidung nach Rechtskraft und somit außerhalb des Berufungsverfahrens berichtigt, entscheidet es nicht in Ausübung der Gerichtsbarkeit in Rechtsmittelverfahren und wird damit funktionell als Erstgericht tätig. Der Rekurs gegen einen solchen Berichtigungsbeschluss ist daher beim (Berufungs-)Gericht, das ihn gefasst hat, einzubringen (vgl 1 Ob 134/22w mwN).
+[8] 		2.2. Der Rekurs gegen den Berichtigungsbeschluss wäre hier demnach beim Berufungsgericht (Landesgericht für Zivilrechtssachen Wien) einzubringen gewesen. Tatsächlich hat der Kläger ihn jedoch am letzten Tag der Rekursfrist beim Erstgericht (Bezirksgericht Döbling) eingebracht. Wenn das Rechtsmittel beim unzuständigen Gericht eingebracht und erst von diesem dem zuständigen Gericht übersendet wird, ist die Zeit dieser Übersendung in die Rechtsmittelfrist einzurechnen (RS0041584). Der erst lange nach Ablauf der Rekursfrist (im Zuge der Aktenvorlage an den Obersten Gerichtshof) beim Landesgericht für Zivilrechtssachen Wien eingelangte Rekurs ist daher verspätet.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00200.22S.1117.000

@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+7Ob51/22h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei T* W*, vertreten durch Dr. Klaus Perner, Rechtsanwalt in Salzburg, gegen die beklagte Partei W* AG, *, vertreten durch Mag. Alexandra Knapp, Rechtsanwältin in Salzburg, wegen 5.227,88 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 16. Dezember 2021, GZ 53 R 203/21s-23, womit das Urteil des Bezirksgerichts Salzburg vom 12. August 2021, GZ 11 C 67/21b-19, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 501,91 EUR (darin enthalten 83,65 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht unter anderem ein Betriebshaftpflichtversicherungsvertrag, dem die MH4 – Zusatzbedingungen zur Betriebshaftpflichtversicherung – Medium; KFZ-Reparaturbetriebe sowie die Allgemeinen und Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB und EHVB 2005) zugrunde liegen. Die Allgemeine Bedingungen für die Haftpflichtversicherung lauten auszugsweise:
+Artikel 1
+Was gilt als Versicherungsfall und was ist versichert?
+[...]
+2. Versicherungsschutz
+2.1 Im Versicherungsfall übernimmt der Versicherer
+2.1.1 die Erfüllung von Schadenersatzverpflichtungen, die dem Versicherungsnehmer wegen eines Personenschadens, eines Sachschadens oder eines Vermögensschadens, der auf einen versicherten Personen- oder Sachschaden zurückzuführen ist, aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts erwachsen (in der Folge kurz „Schadenersatzverpflichtungen“ genannt)
+2.1.2 die Kosten der Feststellung und der Abwehr einer von einem Dritten behaupteten Schadenersatzverpflichtung im Rahmen des Art 5, Pkt.5.
+[...]“
+[2] 		Die Revision ist ungeachtet des – den Obersten Gerichtshof nicht bindenden – Ausspruchs des Berufungsgerichts mangels Vorliegens einer erheblichen Rechtsfrage nicht zulässig. Die Zurückweisung der Revision kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+[3] 		1.1 Bei der Beurteilung des Wesens des Anspruchs des Versicherungsnehmers aus der Haftpflichtversicherung sind das Deckungs- und das Haftpflichtverhältnis zu unterscheiden. Der Versicherungsanspruch in der Haftpflichtversicherung ist auf die Befreiung von begründeten und die Abwehr von unbegründeten Haftpflichtansprüchen gerichtet. Unbeschadet dieser beiden Komponenten (Befreiungs- und Rechtsschutzanspruch) handelt es sich um einen einheitlichen Anspruch des Versicherungsnehmers. Er wird in dem Zeitpunkt fällig, in dem der Versicherungsnehmer von einem Dritten auf Schadenersatz wegen eines unter das versicherte Risiko fallenden Ereignisses oder einer sonstigen Eigenschaft in Anspruch genommen wird, unabhängig davon, ob die Haftpflichtforderung begründet ist, weil Versicherungsschutz auch die Abwehr unberechtigter Ansprüche in sich schließt (RS0080384; RS0081228; RS0080013; RS0080086).
+[4] 		1.2 Ab der Inanspruchnahme durch den Dritten steht dem Versicherungsnehmer (vorerst nur) ein rechtliches Interesse an der Feststellung des Versicherungsschutzes (der Deckungspflicht) zu, wenn der Versicherer die Deckung ablehnt (RS0038928, 7 Ob 126/20k).
+[5] 		1.3 Nach § 154 Abs 1 VersVG hat der Versicherer die Entschädigung binnen zwei Wochen von dem Zeitpunkt an zu leisten, in welchem der Dritte vom Versicherungsnehmer befriedigt oder der Anspruch des Dritten durch rechtskräftiges Urteil, durch Anerkenntnis oder Vergleich festgestellt worden ist. Mit der bloßen Ablehnung der Deckung geht der primär nicht auf eine Geldleistung gerichtete Befreiungsanspruch des Versicherungsnehmers nicht gleichsam automatisch in einen Zahlungsanspruch über (7 Ob 142/18k mwN). Der Befreiungsanspruch des Versicherungsnehmers verwandelt sich erst dann in einen Zahlungsanspruch, wenn der Versicherungsnehmer den Dritten befriedigt oder der Anspruch des Dritten durch rechtskräftiges Urteil durch Anerkenntnis oder Vergleich festgestellt wurde (RS0080603).
+[6] 		2. Der Kläger betreibt eine KFZ-Werkstätte. Nachdem bei einem Kundenfahrzeug eine Getriebespülung vorgenommen worden war, verlor das Getriebe Öl. Der Ölverlust führte letztlich zu einem Totalausfall des Getriebes. Der Kläger nahm über Aufforderung des Kunden den Austausch des Getriebes vor.
+[7] 		3.1 Der Kläger fordert nun von der Beklagten Deckung für die von ihm dem Kunden – durch Austausch des Getriebes – bereits erbrachte Schadenersatzleistung. Begründend führt er aus, nach der Getriebespülung sei im Bereich der Leitung zum Ölkühler eine Klammer nicht fest genug angebracht worden. Durch diese unsachgemäße Vorgehensweise sei es zum Austritt von Getriebeöl und letztlich zu dem Getriebeschaden gekommen. Der Kläger begehrt mit dem von ihm erhobenen Zahlungsanspruch die Befreiung von einer behauptetermaßen begründeten Schadensersatzverpflichtung gegenüber seinem – bereits befriedigten – Kunden.
+[8] 		3.2 Nach den den Obersten Gerichtshof bindenden Feststellungen konnte aber nicht festgestellt werden, ob der Ölverlust durch die unsachgemäße Vorgehensweise (nicht exakte Befestigung am Ölkühler) für den Totalausfall des Getriebes und damit für die Notwendigkeit des Austauschs ursächlich war. Damit steht die Kausalität des dem Kläger vom Kunden vorgeworfenen Verhaltens für die von diesem geltend gemachte Schadenersatzforderung nicht fest. Daher fehlt es bereits an einem von der Beklagten zu deckenden begründeten Haftpflichtanspruch des Klägers gegenüber seinem Kunden.
+[9] 		4. Schon daraus folgt die fehlende Leistungspflicht der Beklagten, sodass sich eine Auslegung des Art 2 der MH4-Zusatzbedingungen zur Betriebshaftpflichtversicherung; KFZ-Reparaturbetriebe ebenso erübrigt wie ein Eingehen auf das behauptete Vorliegen eines Risikoausschlusses (Art 7 AHVB) und einer Obliegenheitsverletzung (Art 8 AHVB).
+[10] 		5. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO; die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00051.22H.0428.000

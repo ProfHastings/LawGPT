@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.10.2022
+Geschäftszahl
+6Ob180/22x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei S*, vertreten durch Wallner Jorthan Rechtsanwalts GmbH in Wien, wider die beklagte Partei W* GmbH, *, vertreten durch Cerha Hempel Rechtsanwälte GmbH in Wien, wegen 900 EUR sA und Beseitigung, im Verfahren über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 19. Juli 2022, GZ 15 R 93/22i-40, womit das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 31. März 2022, GZ 53 Cg 62/21h-36, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren 6 Ob 180/22x wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen vom 15. 4. 2021, AZ 6 Ob 35/21x, unterbrochen.
+Nach Vorliegen dieser Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+[1] 		Der Kläger begehrt – soweit im Revisionsverfahren noch wesentlich – gestützt auf Art 82 DSGVO immateriellen Schadenersatz für erlittenes Ungemach (Überwachungsdruck, Kontrollverlust).
+[2] 		Das Erstgericht wies die Klage ab.
+Rechtliche Beurteilung
+[3] 		Das Berufungsgericht bestätigte diese Entscheidung mit der Begründung, es wäre der behauptete Schaden auch bei rechtmäßigem Alternativverhalten eingetreten.
+Mit Beschluss vom 15. 4. 2021, 6 Ob 35/21x, hat der 6. Senat dem Gerichtshof der Europäischen Union (EuGH) folgende Frage zur Vorabentscheidung vorgelegt:
+„1. Erfordert der Zuspruch von Schadenersatz nach Art 82 DSGVO neben einer Verletzung von Bestimmungen der DSGVO auch, dass der Kläger einen Schaden erlitten hat, oder reicht bereits die Verletzung von Bestimmungen der DSGVO als solche für die Zuerkennung von Schadenersatz aus?
+2. Bestehen für die Bemessung des Schadenersatzes neben den Grundsätzen der Effektivität und Äquivalenz weitere Vorgaben des Unionsrechts?
+3. Ist die Auffassung mit dem Unionsrecht vereinbar, dass Voraussetzung für den Zuspruch immateriellen Schadens ist, dass eine Konsequenz oder Folge der Rechtsverletzung von zumindest einigem Gewicht vorliegt, die über den durch die Rechtsverletzung hervorgerufenen Ärger hinaus geht?“
+[4] 		Nach ständiger Rechtsprechung hat der Oberste Gerichtshof von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere Fälle als dem unmittelbaren Anlassfall anzuwenden. Aus prozessökonomischen Gründen war daher das vorliegende Verfahren zu unterbrechen (RS0110583; Kohlegger in Fasching/Konecny3 II/3 Anh § 190 ZPO Rz 262).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00180.22X.1017.000

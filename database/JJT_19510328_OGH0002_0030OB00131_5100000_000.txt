@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.03.1951
+Geschäftszahl
+3Ob131/51
+Norm
+ABGB §1409;
+Kopf
+SZ 24/88
+Spruch
+Wenn der Erwerber eines Unternehmens den dem Wert des Unternehmens entsprechenden Kaufpreis im Auftrag des Veräußerers unmittelbar zur Bezahlung von Gläubigern verwendet, haftet er nicht für die noch unberichtigten Schulden.
+Entscheidung vom 28. März 1951, 3 Ob 131/51.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Die Klägerin begehrt Zahlung von 6000 S, gestützt auf § 1409 ABGB., mit der Behauptung, sie habe ihrem Schwiegersohn Rudolf St. einen Betrag von 6000 S geborgt gegen eine 10%ige Beteiligung am Reingewinn seines Geschäftes. Im Falle einer Veräußerung des Geschäftes sollte der Betrag sofort fällig sein. Rudolf St. habe sein Geschäft an die Beklagte verkauft. Trotz Kenntnis dieser Forderung habe die Beklagte diese Forderung nicht beglichen. Unbestritten ist, daß der Kaufpreis dem Werte des Geschäftes entsprach.
+Das Erstgericht gab dem Klagebegehren Folge.
+Das Berufungsgericht wies das Klagebegehren ab und sprach dabei aus, daß es sich um eine Geschäftsschuld handle und die Beklagte diese Schuld wenigstens habe kennen müssen. Allein sie habe an den Rechtsanwalt Dr. Sch., den Vertreter beider Vertragspartner bei der Vertragserrichtung, den Kaufpreis ausbezahlt, der daraus die von der Beklagten anerkannten Schulden in deren ausdrücklichem Auftrag berichtigt habe, und zwar bis zur vollen Höhe des Kaufpreises, von welchem somit kein Rest übrig geblieben sei. Damit sei dem wirtschaftlichen Zweck des § 1409 ABGB. Genüge geleistet worden; die Gläubiger hätten so viel erhalten, als dem Werte des Unternehmens entsprochen habe, und zwar seien die Gläubiger nicht von Rudolf St., sondern von der Käuferin des Unternehmens befriedigt worden. Damit sei die Beklagte von jeder weiteren Haftung frei.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Bestimmungen des § 1409 ABGB. bezwecken wohl, den Gläubigern den im Werte des übernommenen Unternehmens liegenden Befriedigungsfonds ungeschmälert zu erhalten. Das Gesetz ordnet daher an, daß der Übernehmer unmittelbar bis zur Höhe der vorhandenen Aktiven mit seinem ganzen Vermögen hafte, daß allfällige Abmachungen zwischen Veräußerer und Übernehmer den Gläubigern gegenüber unwirksam sind. Der Übernehmer kann sich also durch eine Zahlung an den Veräußerer von der Gläubigerhaftung nicht befreien. Auch wenn mit dem Veräußerer vereinbart worden wäre, daß dieser die Gläubiger aus dem erhaltenen Kaufpreis zu befriedigen habe, haftet der Übernehmer bis zur Höhe der vorhandenen Aktiven, wenn der Veräußerer dieser Verpflichtung nicht nachkommt. Diese Gesetzesstelle will aber keineswegs die Deckung der Gläubiger vermehren; der Übernehmer kann daher ohne weiteres mit Zustimmung des Veräußerers den vereinbarten Kaufpreis unmittelbar zur Befriedigung der Gläubiger verwenden. Er wird durch diese Zahlungen an die Gläubiger befreit, vorausgesetzt, daß der Kaufpreis die Höhe der Aktiven erreicht; denn damit werden die Gläubiger in dem vom Gesetze vorgesehenen Ausmaß befriedigt. Nun haben hier die Vertragsteile von vornherein vereinbart, daß der Kaufpreis zur Deckung der Geschäftsschulden verwendet werden solle,
+u. zw. wurden einige Gläubiger namentlich im Kaufvertrag genannt, während der Rest des Kaufpreises ebenfalls für diesen Zweck gewidmet wurde. Dabei ist es unbeachtlich, daß zum Teil der Kaufpreis durch die Beklagte nicht unmittelbar den Gläubigern, sondern vorerst - um mit den Worten der Revision zu sprechen - dem gemeinsamen Treuhänder übergeben wurde, welcher im Auftrage der Beklagten die Schuldenzahlung aus der Kaufsumme vornahm. Da der Kaufpreis dem Wert des Unternehmens entsprach und die Zahlungen nach den Feststellungen des Berufungsgerichtes im Auftrage der Beklagten vorgenommen wurden, hat die Beklagte bis zum Werte des Unternehmens die Gläubiger befriedigt und haftet nicht mehr für weitere Geschäftsschulden. Eine andere Auslegung des § 1409 ABGB. würde zu ungerechtfertigten und wirtschaftlich unmöglichen Folgerungen führen, weil der Erwerber auch bei größter Vorsicht in die Lage kommen könnte, den Wert des Unternehmens doppelt zu bezahlen, einmal als Kaufpreis an den Veräußerer und das zweite Mal zur Schuldentilgung an die Gläubiger, womit die Veräußerung eines Unternehmens praktisch unmöglich gemacht wäre. Daß der Verkäufer bei dieser Regelung nichts zu seiner freien Verfügung erhält, ist belanglos, da ja § 1409 ABGB. zwischen entgeltlichem und unentgeltlichem Erwerb nicht unterscheidet, daher jeder Rechtsgrund fehlt, die Gläubiger in beiden Fällen anders zu behandeln.
+Die Entscheidung SZ. XIV/90 kann zur Stützung der gegenteiligen Ansicht nicht herangezogen werden weil es sich dort um einen wesentlich anders gelagerten Sachverhalt handelte.
+Der Revision war daher der Erfolg zu versagen.

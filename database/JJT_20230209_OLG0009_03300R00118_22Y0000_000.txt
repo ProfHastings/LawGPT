@@ -1,0 +1,42 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+09.02.2023
+Geschäftszahl
+33R118/22y
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden, die Richter Dr. Schober und Mag. Janschitz in der Rechtssache der klagenden Partei F*****, vertreten durch die Battlogg Rechtsanwalts GmbH in Schruns, gegen die beklagte Partei V*****, vertreten durch die SCHOPF, ZENS Rechtsanwälte GmbH in Wien, wegen Feststellung (EUR 70.000) und Einverleibung (EUR 299.000) über den Rekurs der beklagten Partei gegen den Beschluss des Handelsgerichts Wien vom 10.10.2022, 63 Cg 44/22y-8, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die Kosten des Rekursverfahrens sind weitere Verfahrenskosten.
+Der Wert des Entscheidungsgegenstands übersteigt EUR 30.000.
+Der Revisionsrekurs ist nicht zulässig.
+Begründung
+Text
+1. Die Klage samt Auftrag zur Klagebeantwortung wurde der Beklagten im Wege der elektronischen Zustellung nach dem 3. Abschnitt des ZustG (§§ 28 ff) gemäß § 35 ZustG zugestellt.
+Die Beklagte brachte am 5.10.2022 die Klagebeantwortung ein.
+2. Mit dem angefochtenen Beschluss wies das Erstgericht die Klagebeantwortung als verspätet zurück. Es führte dazu aus, dass der letzte Tag für die Erstattung der Klagebeantwortung der 4.10.2022 gewesen sei und nicht der 5.10.2022.
+Mit Eingabe vom 12.10.2022 beantragte die Klägerin ein klagestattgebendes Versäumungsurteil.
+3. Gegen die Zurückweisung der Klagebeantwortung richtet sich der Rekurs der Beklagten mit dem Antrag auf Aufhebung des Zurückweisungsbeschlusses; in eventu wird ein Antrag auf Wiedereinsetzung in den vorigen Stand gestellt.
+Die Klägerin teilte eingangs der Rekursbeantwortung mit, dass sie den Antrag auf Erlassung eines Versäumungsurteils zurückziehe, der Rekurs und der Wiedereinsetzungsantrag seien nicht notwendig.
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+4. Die Beklagte trägt vor, dass laut Auskunft der Geschäftsabteilung 30 Cg des Handelsgerichts Wien die Klage mittels ERV am 6.9.2022 zugestellt worden sei. Aus diesem Grund beginne die Frist gemäß § 89d Abs 2 GOG erst am nächsten Tag (7.9.2022) zu laufen, sodass die Frist zur Klagebeantwortung erst am 5.10.2022 geendet habe.
+5.1 Die Beklagte geht von einem falschen (elektronischen) Zustellvorgang aus: Die Klage samt Auftrag zur Erstattung einer Klagebeantwortung wurde ihr am 6.9.2022 elektronisch gemäß § 35 ZustG zugestellt.
+Gemäß § 89a Abs 3 GOG können gerichtliche Zustellungen über elektronische Zustelldienste nach den Bestimmungen des 3. Abschnitts des ZustG erfolgen, wenn die Zustellung im elektronischen Rechtsverkehr der Gerichte oder Staatsanwaltschaften nicht möglich ist.
+Dieser Zustellweg ermöglicht Zustellungen gemäß dem ZustG an einen der zugelassenen Zustelldienste, der die Weiterleitung an die bei ihm registrierten Benutzer vornimmt (vgl VJ-Info 45/2014 vom 3.12.2014).
+Nach § 35 Abs 1 ZustG hat der Zustelldienst den Empfänger unverzüglich davon zu verständigen, dass ein Dokument für ihn zur Abholung bereitliegt. Diese Verständigung ist an die dem Zustelldienst bekanntgegebene elektronische Adresse (E-Mail-Adresse) des Empfängers zu versenden. Diese Verständigung hat unter anderem die Internetadresse zu enthalten, unter der das zuzustellende Dokument zur Abholung bereitliegt (§ 35 Abs 1 Z 2 ZustG). Wird das Dokument nicht innerhalb von 48 Stunden nach der Verständigung abgeholt, hat eine zweite Verständigung zu erfolgen (§ 35 Abs 2 ZustG). Der Zustelldienst hat das Dokument zwei Wochen zur Abholung bereitzuhalten (§ 35 Abs 4 ZustG). In einem solchen Fall wird den Gerichten als Zustellinformation im VJ-Register der Status „elektronisch hinterlegt“ angezeigt (VJ-Info 45/2014). Die Zustellung derart „hinterlegter“ Dokumente gilt am ersten Tag nach der Versendung der ersten elektronischen Verständigung als bewirkt (§ 35 Abs 6 ZustG).
+Dieser Regel ist allerdings die Bestimmung des § 35 Abs 5 ZustG vorgelagert, wonach ein zur Abholung bereitgehaltenes Dokument spätestens mit seiner Abholung als zugestellt gilt, eine elektronische Abholung des Dokuments also jedenfalls die wirksame Zustellung auslöst (Stumvoll in Fasching/Konecny3 § 35 ZustG Rz 18). Aufgrund der vom Zustelldienst übermittelten Daten wird eine solche Zustellung im VJ-Register abseits der elektronischen Hinterlegung mit dem Status „elektronisch zugestellt“ angezeigt (VJ-Info 45/2014).
+Die rechtliche Qualifikation dieses Zustellnachweises unterscheidet sich nicht von der herkömmlichen elektronischen Zustellung (Stummvoll aaO § 22 ZustG Rz 25 mwN).
+5.2 Nach der Aktenlage wurde die Klage samt Auftrag zur Klagebeantwortung am 6.9.2022 dem elektronischen Zustelldienst übergeben und am gleichen Tag an die Beklagte (mit diesem Zustellzeitpunkt gemäß § 35 ZustG) zugestellt (mit dem Vermerk „gelesen“ erfasst), was durch einen Ausdruck dieser Daten dokumentiert wurde. Dieser Zustellnachweis ist eine öffentliche Urkunde, die den Beweis erbringt, dass die Zustellung vorschriftsmäßig erfolgt ist (RS0040471 [T 8]).
+Demgemäß ist hier für den – an die Wirkung der Zustellung geknüpften – Beginn der Frist zur Erstattung der Klagebeantwortung nicht auf § 35 Abs 6 ZustG, sondern auf § 35 Abs 5 ZustG abzustellen (vgl 3 Ob 11/19t). Dieses Ergebnis entspricht auch der Rechtslage bei der herkömmlichen (nicht elektronischen) Zustellung, wonach auch ein hinterlegtes Schriftstück schon dann wirksam zugestellt ist, wenn es dem Empfänger vor dem Beginn der Abholfrist ausgefolgt wird (RS0129524).
+Davon ausgehend endete die vierwöchige Frist zur Klagebeantwortung nach zutreffender Ansicht des Erstgerichts am 4.10.2022. Die erst am 5.10.2022 eingebrachte Klagebeantwortung war verspätet.
+Dem Rekurs war ein Erfolg zu versagen.
+6. Die Zurückziehung des Antrags auf Erlassung eines Versäumungsurteils hat auf das Rekursverfahren keinen Einfluss.
+7. Der Kostenvorbehalt beruht auf § 52 ZPO. Es liegt (im Ergebnis) ein unechter Zwischenstreit vor, weil die Klägerin zwar formell eine Rekursbeantwortung erhoben hat, aber inhaltlich dem Rekurs nicht entgegengetreten ist (vgl Obermaier in Kostenhandbuch3 Rz 1.334).
+Der Ausspruch über den Wert des Entscheidungsgegenstands orientiert sich am Klagebegehren, dessen Gegenstand Forderungen sind, die EUR 30.000 übersteigen.
+Der Revisionsrekurs ist mangels erheblicher Rechtsfrage nicht zulässig.
+European Case Law Identifier
+ECLI:AT:OLG0009:2023:03300R00118.22Y.0209.000

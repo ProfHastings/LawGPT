@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.01.1984
+Geschäftszahl
+3Ob156/83
+Norm
+ZPO §528 Abs1;
+Kopf
+SZ 57/5
+Spruch
+Das Berufungsgericht, das einen Rekurs gegen seinen Aufhebungsbeschluß zurückweist, hat auszusprechen, ob der Wert des Beschwerdegegenstandes 15 000 S übersteigt, wenn der Beschwerdegegenstand nicht ausschließlich in einem Geldbetrag besteht
+OGH 11. 1. 1984, 3 Ob 156/83 (KG Krems an der Donau 1a R 21/83; BG Persenbeug 4 C 4/82)
+Text
+Das Erstgericht wies die vorliegende Exszindierungsklage ab. Das Berufungsgericht hob das Urteil des Erstgerichtes ohne Rechtskraftvorbehalt auf.
+Gegen den Aufhebungsbeschluß erhob die Beklagte ein als Revisionsrekurs bezeichnetes Rechtsmittel, in dem der Standpunkt vertreten wird, es liege aus bestimmten Gründen kein echter Aufhebungsbeschluß vor. Der Beschluß des Berufungsgerichtes sei daher trotz fehlenden Rechtskraftvorbehaltes anfechtbar.
+Das Erstgericht legte diesen Rekurs im Wege des Berufungsgerichtes vor. Dieses wies den Rekurs als unzulässig zurück. Der Zurückweisungsbeschluß des Berufungsgerichtes enthält keinen Ausspruch über den Wert des Beschwerdegegenstandes und auch keinen Ausspruch über die Zulässigkeit eines Rekurses an den OGH.
+Der Oberste Gerichtshof trug dem Gericht zweiter Instanz die Ergänzung der Entscheidung durch Nachholung des Ausspruches auf, ob der Wert des Beschwerdegegenstandes 15 000 S übersteigt.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Zulässigkeit dieses Rekurses ist unter drei Gesichtspunkten zu prüfen: 1. Ist der Beschluß der zweiten Instanz gemäß § 519 Abs. 1 ZPO unanfechtbar? 2. Ist der Rekurs an die dritte Instanz gemäß § 528 Abs. 1 Z 5 ZPO zulässig? Muß der Beschluß des Gerichtes zweiter Instanz daher den Ausspruch enthalten, ob der Wert des Gegenstandes, über den das Gericht zweiter Instanz entschieden hat, 15 000 S übersteigt? 3. Ist der Rekurs gemäß § 528 Abs. 2 ZPO zulässig? Muß der Beschluß des Gerichtes zweiter Instanz daher iS der §§ 528 Abs. 2, 526 Abs. 3 in Verbindung mit § 500 Abs. 3 ZPO den Ausspruch enthalten, ob der Rekurs zulässig ist?
+Zu 1.: § 519 Abs. 1 ZPO gilt nur für Beschlüsse des Berufungsgerichtes, die "im Berufungsverfahren" ergehen. Der jetzt bekämpfte Zurückweisungsbeschluß des Berufungsgerichtes erging aber nicht in einem Berufungsverfahren, sondern im Rahmen eines drittinstanzlichen Rekursverfahrens (Novak, JBl. 1953, 57, 64, besonders auch Anm. 61). Er fällt daher nicht unter den Rechtsmittelausschluß nach § 519 Abs. 1 ZPO.
+Zu 2.: Aus der allgemeinen Formulierung des § 528 Abs. 1 ZPO ergibt sich, daß alle möglichen Arten von Beschlüssen eines Gerichtes zweiter Instanz vom Rechtsmittelausschluß der Fälle Z 1 bis 6 erfaßt sind, gleichgültig, ob es sich um einen Beschluß des Berufungsgerichtes oder um einen Beschluß des Rekursgerichtes handelt, gleichgültig ob es sich um einen Beschluß des Berufungsgerichtes "im Berufungsverfahren" oder um einen Beschluß des Berufungsgerichtes in einem sonstigen Verfahren (zB wie hier in einem drittinstanzlichen Rekursverfahren) handelt, gleichgültig ob das Gericht zweiter Instanz meritorisch über ein Rechtsmittel abspricht oder ein Rechtsmittel zurückweist. Alle Entscheidungen eines Gerichtes zweiter Instanz über einen nicht ausschließlich in einem Geldbetrag bestehenden Beschwerdegegenstand haben daher den Ausspruch zu enthalten, ob der Wert des Beschwerdegegenstandes 15 000 S übersteigt oder nicht (4 Ob 396/83).
+Zu 3.: Die Rechtsmittelbeschränkung des § 528 Abs. 2 ZPO kommt hingegen nicht zum Tragen, weil kein Beschluß des Rekursgerichtes vorliegt (7 Ob 58/83). Eines Ausspruches über den Wert des Streitgegenstandes iS des § 502 Abs. 4 Z 2 ZPO und über die Zulässigkeit eines Rekurses gemäß § 502 Abs. 4 Z 1 ZPO bedarf es daher nicht. Falls die Wertgrenze von 15 000 S also überschritten sein sollte, ist ein Vollrekurs zulässig, falls nicht, ist überhaupt kein Rekurs zulässig.
+Es war daher gemäß §§ 430, 419 Abs. 3 ZPO der im Spruch ersichtliche Auftrag (zu oben 2) zu erteilen (MietSlg. 33.669 ua.; zur neuen Rechtslage 3 Ob 154/83 ua.). Dabei wird darauf Bedacht zu nehmen sein, daß der maßgebende Wert der einzelnen Pfandgegenstände grundsätzlich nicht zusammenzurechnen ist, weil das Eigentumsrecht an einzelnen Gegenständen in der Regel voneinander unabhängig ist (Heller-Berger-Stix 475). Nur bei Einheitlichkeit von Rechtsgrund und Erwerbsart ist der Wert aller Gegenstände maßgebend (vgl. zur alten Rechtslage Entscheidungen wie EvBl. 1970/366, ExRpflSlg. 1974/75).

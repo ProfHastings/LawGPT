@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.08.2015
+Geschäftszahl
+5Ob156/15z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache der Antragsteller 1. I***** F***** und 2. G***** F*****, beide *****, beide vertreten durch Lüth & Mikuz GnbR Rechtsanwälte in Innsbruck, wegen Einverleibung der Löschung eines Baurechts ob EZ 65 GB ***** und einer weiteren Grundbuchhandlung über den außerordentlichen Revisionsrekurs der Antragsteller gegen den Beschluss des Landesgerichts Innsbruck als Rekursgericht vom 22. Mai 2015, GZ 53 R 49/15t-6, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+1. Die Antragsteller bekämpfen die vom Rekursgericht angeordneten Grundbucheintragungen (lediglich) insoweit, als dieses die (Einverleibung der Löschung) nur „mit der Beschränkung des § 8 BauRG“ bewilligt hat. Diese Entscheidung des Rekursgerichts entspricht allerdings der insoweit völlig eindeutigen, durch § 8 BauRG vorgegebenen Rechtslage, wonach die Löschung des Baurechts vor Ablauf der Zeit, für die es bestellt ist, ohne die - hier fehlende - Zustimmung des darauf eingetragenen Pfandgläubigers nur mit der Beschränkung bewilligt werden kann, dass die Rechtswirkung in Ansehung der Pfand- und anderen dinglichen Rechte erst mit deren Löschung einzutreten hat (= relatives Erlöschen des Baurechts; vgl allgemein dazu Urbanek/Rudolph, Das Baurechtsgesetz [2004] § 8 Rz 1, Rechberger/Frauenberger, Die Baurechtshypothek, in Klete?ka/Rechberger/Zitta [Hrsg], Bauten auf fremdem Grund2 [2004] Rz 53, 56).
+2. Das Rekursgericht hat mit seinem Bewilligungsbeschluss - entgegen dem Einwand der Antragsteller - auch das die Eintragungsgrundlage bildende Versäumungsurteil zur Gänze umgesetzt, weil mit diesem eben (nur) der Masseverwalter im Konkurs der insolventen Bauberechtigten zur Einwilligung in die Löschung des Baurechts sowie in die Löschung der Baurechtseinlage verpflichtet wurde. Da aber die Zustimmung des eingetragenen Pfandgläubigers fehlt, ist trotz Einwilligung der Bauberechtigten die zwingende gesetzliche Einschränkung durch § 8 BauRG zugunsten des eingetragenen Pfandgläubigers zu berücksichtigen.
+3. Die Antragsteller halten § 8 BauRG zufolge Verstoßes gegen Art 18 Abs 1 B-VG (Legalitätsprinzip; „Klarheitsgebot“) und gegen Art 7 Abs 1 B-VG (Gleichheitsgrundsatz; Sachlichkeitgebot) deshalb für verfassungswidrig, weil dessen materiell-rechtliche Folgen völlig unklar seien. Der Oberste Gerichtshof sieht aber keinen Anlass zur Einleitung eines von den Antragstellern angeregten Gesetzesprüfungsverfahrens. § 8 BauRG ist der Regelung des § 51 Abs 1 GBG nachgebildet und dient, wie die Antragsteller selbst erkennen, dem Schutz eingetragener Pfandgläubiger sowie anderer dinglicher Berechtigter (vgl Kodek in Kodek, Grundbuchsrecht § 51 GBG Rz 6) und verwirklicht damit - einerseits völlig klar und andererseits sachlich gerechtfertigt - den Grundsatz, dass durch Verzicht oder Rechtsverlust einer Person (hier: des Bauberechtigten) die (hier: bücherlichen) Rechte Dritter nicht beeinträchtigt werden dürfen (Kodek aaO Rz 8). Welche materiell-rechtlichen Folgen dagegen die Regelung des § 8 BauRG im Detail für den Liegenschaftseigentümer hat, ist im vorliegenden Grundbuchverfahren nicht Prüfungsgegenstand und damit nicht entscheidungsrelevant.
+4. Mangels Vorliegens der Voraussetzungen des § 62 Abs 1 AußStrG ist der Revisionsrekurs unzulässig und zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0050OB00156.15Z.0825.000

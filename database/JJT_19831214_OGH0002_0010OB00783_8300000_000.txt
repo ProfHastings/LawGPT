@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.1983
+Geschäftszahl
+1Ob783/83
+Norm
+ABGB §565;
+ABGB §651;
+HfD HfD JGS 1846/964;
+Kopf
+SZ 56/187
+Spruch
+Zur Empfangnahme eines zugunsten armer Kinder ausgesetzten Legates ist der öffentliche Träger der Jugendfürsorge berufen
+OGH 14. 12. 1983, 1 Ob 783/83 (LGZ Wien 44 R 165/83; BG Hietzing 2 A 33/83)
+Text
+Die am 30. 12. 1982 verstorbene Wilhelmine W hinterließ eine letztwillige Verfügung, mit der sie ihrer Nichte Wilhelmine S zur Erbin einsetzte, 10 000 S "Heil" und den Rest armen Kindern zukommen ließ.
+Die im Testament als Erbin eingesetzte Nichte Wilhelmine S, die Revisionsrekurswerberin, gab unter Bestreitung der Gültigkeit (Echtheit) dieser letztwilligen Verfügung auf Grund des Gesetzes die unbedingte Erbserklärung zum gesamten Nachlaß ab, die vom Gericht angenommen wurde. Es wurde ihr die Besorgung und Benützung der Verlassenschaft überlassen (§§ 810 ABGB, 145 AußStrG).
+Die vom Inhalt der letztwilligen Verfügung ("... den Rest armen Kindern ... ") verständigte Stadt Wien beantragte, ein Inventar des Nachlasses zu errichten und die Absonderung "des Geldvermächtnisses" vom Vermögen der Erbin zu bewilligen. Es sei zu befürchten, daß mangels Errichtung eines Inventars die zum Nachlaß gehörenden Sachwerte unterbewertet würden und die Erbin die vorhandenen Barbeträge zur Abdeckung der angemeldeten Forderungen heranziehe, wodurch eine Schmälerung des Vermächtnisses eintreten könnte.
+Das Erstgericht wies diese Anträge mit der Begründung zurück, daß das Vermächtnis unbestimmt sei. Im Wege der Auslegung könne nicht erforscht werden, wen die Erblasserin mit den "armen Kindern" gemeint habe. Es handle sich somit um eine einer gänzlich unverständlichen Bedingung gleichzuhaltenden Verfügung, die gemäß § 697 ABGB als nicht beigesetzt anzusehen sei. Der Stadt Wien als Trägerin der Jugendwohlfahrtspflege fehle damit die Antragslegitimation.
+Das Rekursgericht gab dem Rekurs der Stadt Wien Folge und änderte den angefochtenen Beschluß dahin ab, daß es die Absonderung des Nachlasses vom Vermögen der Erbin bewilligte und die Errichtung eines Inventars anordnete. Die Erblasserin habe mit der Anordnung, den Rest ihres Bargeldes "armen Kindern" zuzuwenden, den Personenkreis der Bedachten und den Verwendungszweck ihrer Verfügung hinreichend umschrieben. Es sei die Zuwendung eines zweckgebundenen Vermögens an ein anderes Rechtssubjekt anzunehmen. Es werde Aufgabe der Stadt Wien als Trägerin der Jugendwohlfahrtspflege sein, bei der Verwendung des Vermögens dem Willen der Erblasserin möglichst nahezukommen. Die Stadt Wien sei daher antragslegitimiert. Ihr Begehren sei als Antrag auf Absonderung der Verlassenschaft von dem Vermögen des Erben iS des § 812 ABGB aufzufassen. Die Voraussetzungen für die Nachlaßabsonderung (subjektive Besorgnis des Gläubigers, Bescheinigung der Forderung) seien erfüllt.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der erbserklärten Erbin Wilhelmine S nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die von der Revisionsrekurswerberin behauptete Unbestimmtheit der zugunsten "armer Kinder" getroffenen letztwilligen Verfügung ist als Frage ihrer Gültigkeit, soweit sie von der Klärung strittiger Tatumstände abhängt, nicht im Abhandlungsverfahren zu prüfen, sondern im Rechtsweg zu entscheiden (SZ 51/138; SZ 42/69 ua.). Im Abhandlungsverfahren ist diese Frage insoweit zu beurteilen, als davon die Parteistellung der Stadt Wien, die dieses Legat wegen seiner Zweckbestimmung in Anspruch nimmt, abhängt. § 651 ABGB erwähnt Legate, die einer gewissen Klasse von Personen, als:
+Verwandten, Dienstpersonen oder Armen, zugedacht sind. Das ABGB
+begünstigt die sogenannten "frommen" ("zu frommen Absichten bestimmten") Vermächtnisse (bzw. Erbseinsetzungen) - das sind
+(jedenfalls) solche, die religiösen oder karitativen Zwecken dienen (Ehrenzweig - Kralik, Erbrecht[3], 239; weitergehend Welser in Rummel, ABGB, § 685 Rdz. 8) - sowohl materiellrechtlich (§§ 646, 685, 778 ABGB) als auch verfahrensrechtlich (§§ 159, 92 Abs. 2 Z 2 AußStrG). Es kommt bei diesen religiösen und wohltätigen Zwecken dienenden letztwilligen Verfügungen nicht auf die Einsetzung bestimmter (bestimmbarer) Einzelpersonen an; die "frommen" Vermächtnisse sind vielmehr häufig dadurch charakterisiert, daß es sich um subjektlose Zuwendungen ohne Bestimmung eines Bedachten handelt (vgl. Weiß in Klang[2], III 609). Daß das Gesetz von der Wirksamkeit solcher Zuwendungen ausgeht, ergibt sich nicht nur aus den vorerwähnten Regelungen, sondern auch daraus, daß das HfD JGS 1846/964 in Klarstellung, wer zum Empfang derartiger letztwilliger Zweckzuwendungen berechtigt ist, die Auslegungsregel aufstellt, daß Vermächtnisse für Arme, wenn der Erblasser sie nicht näher bezeichnet hat, dem Lokalarmenfonds des Erblassers (nunmehr der jetzt an dessen Stelle getretenen Institutionen) zuzuweisen sind (vgl. Welser in Rummel aaO § 651 Rdz. 3). Die empfangsberechtigte öffentliche Kasse ist mit der Auflage belastet, die Zuwendung unter die Armen zu verteilen (Weiß in Klang aaO 518). Da die Erblasserin "arme Kinder" eingesetzt hat, ist die Stadt Wien als Trägerin der Jugendfürsorge (Art. 12 Abs. 1 Z 1 B-VG, §§ 2, 3 JWG) unter gleichen Auflagen als empfangsberechtigt anzusehen.

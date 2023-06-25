@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2015
+Geschäftszahl
+4Ob15/15g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und durch die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Parteien 1. T***** GmbH, und 2. L***** GmbH, *****, vertreten durch Knoflach, Kroker, Tonini & Partner, Rechtsanwälte in Innsbruck, gegen die beklagte Partei K***** GmbH, *****, vertreten durch Saxinger Chalupsky & Partner Rechtsanwälte GmbH in Wels, wegen Unterlassung und Zustimmung (Streitwert im Provisorialverfahren 30.500 EUR sA), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 22. Dezember 2014, GZ 4 R 210/14a-11, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die Rechtsmittelwerberin hat die Kosten des Revisionsrekursverfahrens selbst zu tragen.
+Text
+Begründung:
+Das Landesgericht Salzburg erachtete sich gemäß § 53 JN für die Verhandlung und Entscheidung betreffend den Antrag auf Erlassung einer einstweiligen Verfügung sachlich und örtlich für unzuständig und überwies den Sicherungsantrag gemäß § 44 JN an das Handelsgericht Wien.
+Das Rekursgericht hob diesen Beschluss auf und trug dem Erstgericht die Fortsetzung des Verfahrens über den Sicherungsantrag auf, weil gemäß § 387 EO für die Bewilligung einstweiliger Verfügungen das Gericht zuständig sei, vor welchem der Prozess in der Hauptsache zur Zeit der ersten Antragstellung anhängig sei. Da das Erstgericht die Klage nicht a limine zurückgewiesen habe, müsse es über den Sicherungsantrag entscheiden. Den ordentlichen Revisionsrekurs ließ das Rekursgericht nicht zu.
+Rechtliche Beurteilung
+Der von der Beklagten dagegen erhobene außerordentliche Revisionsrekurs ist nicht zulässig.
+Gemäß § 45 JN idF der ZVN 1983 sind nach Eintritt der Streitanhängigkeit getroffene Entscheidungen, mit denen ein Gericht seine sachliche Zuständigkeit bejaht, nicht anfechtbar; solche, mit denen es seine sachliche Unzuständigkeit ausspricht, nur dann, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat.
+Dabei macht es keinen Unterschied, ob die Zuständigkeitsentscheidung in erster oder in zweiter Instanz ergeht (RIS-Justiz RS0046417 [T2]; RS0046328).
+Der Oberste Gerichtshof wies etwa im Zusammenhang mit einer Klage nach § 110 Abs 2 KO den Revisionsrekurs gegen die die sachliche Zuständigkeit des Insolvenzgerichts bejahende (und den Zurückweisungsbeschluss des Erstgerichts aufhebende) Entscheidung eines Rekursgerichts gemäß § 45 JN zurück, weil der Beurteilungsgegenstand der Entscheidung nach ihrem eigentlichen Inhalt keine Auseinandersetzung mit Fragen der örtlichen Zuständigkeit sei, auch wenn sich als Folge der Entscheidung über die sachliche Zuständigkeit der Verhandlungsort ändern sollte (8 Ob 17/09x mwN; vgl auch 5 Ob 302/87).
+Der hier gegebene Fall ist damit vergleichbar. § 53 JN - als Norm des ersten Abschnitts (Sachliche Zuständigkeit) des zweiten Teils der JN (§§ 49-64) - regelt die sachliche und nicht die örtliche Zuständigkeit. Der Revisionsrekurs ist daher gemäß § 45 erster Fall JN unzulässig.
+Die Kostenentscheidung beruht auf § 52 ZPO, weil es sich bei der Entscheidung über eine Prozesseinrede um einen selbstständigen Zwischenstreit handelt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040OB00015.15G.0422.000

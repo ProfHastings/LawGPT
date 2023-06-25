@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.01.2018
+Geschäftszahl
+4Ob242/17t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und Hon.-Prof. Dr. Brenn sowie die fachkundigen Laienrichterinnen Mag. Dr. Müller-Hiel und Mag. Dr. Krenn als weitere Richter in der Patentrechtssache der gefährdeten Partei B***** GmbH, *****, vertreten durch Schwarz Schönherr Rechtsanwälte KG in Wien, wider die Gegnerin der gefährdeten Partei C***** AG, *****, vertreten durch WERDNIK KUSTERNIGG Rechtsanwälte GmbH in Klagenfurt, wegen Erlassung einer einstweiligen Verfügung zur Beweissicherung (Interesse 35.000 EUR), über den „außerordentlichen“ Revisionsrekurs der Gegnerin der gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 17. November 2017, GZ 34 R 84/16x-70, womit der Beschluss des Handelsgerichts Wien vom 20. Juli 2016, GZ 19 Cg 17/16w-20 bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Gefährdete ist Inhaberin des Patents EP ***** „Fein verteilte Stabilisatorzusammensetzung für halogenhaltige Polymere“. Die Gegnerin entwickelt, produziert und vertreibt ebenfalls Stabilisatorzusammensetzungen.
+Mit ihrem Antrag auf Erlassung einer einstweiligen Verfügung zur Beweissicherung (§ 151b PatG) behauptet die Gefährdete, die Gegnerin nutze das Streitpatent aus.
+Das Erstgericht erließ teils die beantragte einstweilige Verfügung (ohne Anhörung der Gegnerin), teils wies sie das Mehrbegehren ab; die Sicherungsverfügung wurde in weiterer Folge vollzogen und erwuchs in Rechtskraft (vgl 4 Ob 83/17k).
+Mit dem (gemeinsam mit dem Widerspruch) erhobenen Rekurs gegen die einstweilige Verfügung verband die Gegnerin den hier gegenständlichen Antrag auf Einschränkung der Akteneinsicht in Bezug auf den Bericht der Sachverständigen samt allen Beilagen mit dem wesentlichen Argument, dieser enthalte Rezepturgeheimnisse, nämlich interne Bezeichnungen aus der Rohstoff- sowie aus der Rezeptur- und Rückstellmusterdatenbank, die der Gefährdeten einsehbar würden.
+Das Erstgericht gab dem Antrag auf Einschränkung der Akteneinsicht im Umfang von „Punkt 2.1 des Berichts ON 12 sowie der Anhänge 1, 2 und 5“ statt. Den darüber hinausgehenden Antrag wies es ab.
+Das Rekursgericht bestätigte diesen Beschluss im zweiten Rechtsgang (zum ersten Rechtsgang vgl 4 Ob 9/17b) und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und der Revisionsrekurs gemäß § 78 EO iVm § 528 Abs 2 Z 2 ZPO jedenfalls unzulässig sei. Für die hier relevante Frage der Akteneinsicht und für den damit im Zusammenhang stehenden Rekurs gelte die Ausnahmebestimmung des § 402 Abs 1 EO nicht.
+Dagegen richtet sich der „außerordentliche“ Revisionsrekurs der Gegnerin mit dem Begehren, ihrem Antrag zur Gänze stattzugeben; in eventu stellte sie einen Aufhebungsantrag.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Rechtliche Beurteilung
+1. § 402 Abs 1 EO nimmt nur die dort genannten Sachentscheidungen von der Konformitätssperre des § 528 Abs 2 Z 2 ZPO aus (RIS-Justiz RS0097225; König, Einstweilige Verfügungen5, Rz 6.94/2).
+2. Die Bestimmung wird zwar teilweise analog auch auf andere bestätigende Beschlüsse angewandt (vgl RIS-Justiz RS0104478; RS0106985). Analogie setzt jedoch eine planwidrige Lücke voraus; das Gesetz muss, gemessen an seiner Absicht und Teleologie, ergänzungsbedürftig sein, ohne dass diese Ergänzung einer vom Gesetz gewollten Beschränkung widerspricht (RIS-Justiz RS0008866; RS0008826 [T1]).
+3. Zum telos des § 402 Abs 1 EO hat der Senat bereits mehrfach festgehalten, dass durch diese Bestimmung der Rechtsmittelausschluss des § 528 Abs 2 Z 2 ZPO für die dort genannten Entscheidungen beseitigt werden sollte, weil diesen Entscheidungen wiederholt richtungsweisende Bedeutung zukommt und darin oft Rechtsfragen gelöst werden, die für das (anschließende) meritorische Verfahren Bedeutung haben, in dem wegen der unterschiedlichen Revisions- und Revisionsrekursbestimmungen die Rechtsmittelbeschränkung nicht gilt (4 Ob 291/01z; 4 Ob 107/07z; 4 Ob 83/08x). Solches trifft auf Entscheidungen über die (Beschränkung der) Einsicht in bestimmte Aktenstücke nicht zu (vgl 3 Ob 42/90; 4 Ob 44/08m).
+4. Die Entscheidung über die Ausnahme bestimmter Teile eines Sachverständigengutachtens von der Einsichtnahme durch eine Partei ist keine Sachentscheidung iSd § 402 Abs 1 ZPO, sondern eine verfahrensrechtliche Maßnahme zum Schutz der Vertraulichkeitsinteressen der Beklagten (vgl 4 Ob 83/17k).
+5. Die Voraussetzungen einer analogen Anwendung des § 402 Abs 1 EO liegen auch deshalb nicht vor, weil es sich um eine Entscheidung handelt, die auch im Hauptverfahren in Beschlussform zu ergehen hätte und dort (als Konformatsentscheidung) nicht mit Revisionsrekurs bekämpfbar wäre.
+Der Revisionsrekurs ist somit jedenfalls unzulässig und folglich zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00242.17T.0123.000

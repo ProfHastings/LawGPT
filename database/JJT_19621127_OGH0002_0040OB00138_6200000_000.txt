@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.1962
+Geschäftszahl
+4Ob138/62
+Norm
+ABGB §870;
+ABGB §871;
+Gewerbeordnung §82 lita;
+Mutterschutzgesetz §10;
+Mutterschutzgesetz §12 (1);
+Kopf
+SZ 35/120
+Spruch
+Ein in einem dienstrechtlichen Sondergesetz als Auflösungsgrund behandelter Irrtum des Dienstgebers bei Abschluß des Dienstvertrages wirkt nach Beginn des Arbeitsverhältnisses nur mehr als Auflösungsgrund.
+Entscheidung vom 27. November 1962, 4 Ob 138/62.
+I. Instanz: Arbeitsgericht Linz; II. Instanz: Landesgericht Linz.
+Text
+Die Klägerin war vom 9. Oktober 1961 an bei der beklagten Partei als Hilfsarbeiterin beschäftigt. Ihr wurde vor Begründung des Dienstverhältnisses ein Aufnahmebogen vorgelegt, welcher unter anderem die Frage enthielt: "Sind Sie schwanger?" Diese Frage wurde von der Klägerin verneint. Als sie der beklagten Partei am 23. Februar 1962 eine ärztliche Bestätigung über ihre bereits zur Zeit der Begründung des Dienstverhältnisses bestandene Schwangerschaft vorlegte, teilte die beklagte Partei der Klägerin mit Schreiben vom gleichen Tage mit, daß sie sich im Hinblick auf die im Fragebogen erteilte Auskunft, nicht schwanger zu sein, zur Begründung des Dienstverhältnisses bereit erklärt habe, daß sie aber nunmehr, weil diese Angabe nicht stimme, den Vertrag wegen Irreführung für ungültig erkläre. Die Klägerin habe daher mit sofortiger Wirkung ihre Arbeitsleistung einzustellen. Die Klägerin faßt das Schreiben der beklagten Partei als den Ausspruch einer fristlosen Entlassung auf, die jedoch unwirksam sei. Sie begehrte mit der vorliegenden Klage die Feststellung, daß das Dienstverhältnis zwischen den Streitteilen nach wie vor zu Recht bestehe. Die beklagte Partei wendete ein, das Dienstverhältnis mit der Klägerin sei nur auf Grund ihrer Erklärung, nicht schwanger zu sein, begrundet worden. Die Klägerin habe bei ihrer Einstellung am 9. Oktober 1961 von ihrer Schwangerschaft gewußt und durch ihre gegenteilige Erklärung die beklagte Partei absichtlich getäuscht und irregeführt. Die beklagte Partei sei daher nicht verbunden, den Vertrag einzuhalten.
+Das Erstgericht gab dem Klagebegehren statt.
+Das Berufungsgericht änderte infolge Berufung der beklagten Partei das Ersturteil dahin ab, daß es das Klagebegehren abwies.
+Der Oberste Gerichtshof gab der Revision der Klägerin Folge und stellte das Ersturteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Es trifft zwar zu, daß in der Lehre des deutschen Arbeitsrechts (so insbesondere Hueck, Arbeitsvertragsrecht, S. 58, und Nikisch, Arbeitsrecht[3], I, S. 222 ff.) die Ansicht überwiegt, ein Irrtum bei Abschluß eines Dienstvertrages berechtige auch nach Antritt des Dienstverhältnisses zur rückwirkenden Anfechtung, in welchem Fall der Dienstnehmer statt des vereinbarten Entgeltes auf Grund der faktischen Beschäftigung für diese eine angemessene Vergütung verlangen könne. Für das österreichische Arbeitsrecht ist aber Gschnitzer (in Klang[2], IV, S. 137, Iherings Jahrb. 76 S. 411) darin beizupflichten, daß in mehreren dienstrechtlichen Sondergesetzen bestimmte Fälle eines Irrtums, in dem der Dienstgeber bei Abschluß des Dienstvertrages befangen war, ausdrücklich als Gründe der vorzeitigen Auflösung bezeichnet werden, z. B. in § 82 lit. a GewO. und § 38 Z. 1 SchauspielerG., und daß, sobald das Dienstverhältnis tatsächlich begonnen hat, nach dem Grundgedanken dieser Einzelvorschriften, jedenfalls soweit es sich um davon betroffene Dienstverhältnisse handelt, Irrtum bei Abschluß des Dienstvertrages nicht mehr als Anfechtungsgrund, sondern nur als Auflösungsgrund wirkt. Das faktische Bestehen des Arbeitsverhältnisses kann nicht ungeschehen gemacht werden und bringt so wie das fehlerfrei begrundete Arbeitsverhältnis soziale Beziehungen hervor, die ihre übereinstimmende Behandlung erheischen.
+Im vorliegenden Fall wurde mit dem am 9. Oktober 1961 abgeschlossenen Dienstvertrag die Klägerin als Hilfsarbeiterin für die beklagte Partei aufgenommen. Nach den Beweisergebnissen befaßt sich diese mit der Erzeugung von Damenschuhen. Es handelt sich demnach um eine fabriksmäßig betriebene Unternehmung (§ 1c (1) GewO.), um das fabriksmäßig betriebene Gewerbe der Schuherzeugung. Die dort beschäftigten Hilfsarbeiter sind demnach gewerbliche Hilfsarbeiter im Sinne der Gewerbeordnung (s. auch Heller - Laszky - Nathansky, Kommentar zur Gewerbeordnung, I, S. 207 ff., insbesondere S. 212 f.). Wenn es nun in der Aufzählung der Entlassungsgrunde des § 82 GewO. unter lit. a heißt: "wenn der Hilfsarbeiter bei Abschluß des Arbeitsvertrages den Gewerbeinhaber durch Vorzeigung falscher oder verfälschter Ausweiskarten oder Zeugnisse hintergangen oder ihn über das Bestehen eines anderen, den Hilfsarbeiter gleichzeitig verpflichtenden Arbeitsverhältnisses in einen Irrtum versetzt hat", wobei nach der Rechtsprechung (so ArbSlg. 5200) eine ausdehnende Anwendung dieser Bestimmung auf einen nach Beschaffenheit und Bedeutung gleichwertigen Tatbestand zulässig ist, so folgt daraus nach dem früher Gesagten, daß der Irrtum des Dienstgebers bei Abschluß des Dienstvertrages nach dem tatsächlichen Beginn des Dienstverhältnisses nur mehr als Auflösungsgrund wirken soll und nicht mehr als Anfechtungsgrund ex tunc herangezogen werden kann.
+Wenn man die Erklärung der beklagten Partei vom 23. Februar 1962 als Entlassungserklärung auffaßt, so ist sie mangels Vorliegens einer der im § 12 (1) MutterschutzG. taxativ aufgezählten Entlassungsgrunde rechtsunwirksam. Auch könnte die Erklärung nicht etwa als Kündigung zur Auflösung des Dienstverhältnisses führen, weil dem die Bestimmungen des § 10 MutterschutzG. über den Kündigungsschutz entgegenstehen. Des Eingehens auf die Frage der Beschaffenheit des Irrtums bedarf es daher nicht; eine arglistige Erschleichung der Begünstigungen des Mutterschutzgesetzes liegt nach den Beweisergebnissen jedenfalls nicht vor.
+Der Revision war daher Folge zu geben und das Ersturteil wiederherzustellen.

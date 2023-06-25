@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.2020
+Geschäftszahl
+7Ob57/20p
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Parteien 1. J***** P*****, und 2. D*****gesellschaft mbH, *****, beide vertreten durch Dr. Bernhard Fink ua Rechtsanwälte in Klagenfurt am Wörthersee, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung, über den Rekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Graz als Berufungsgericht vom 20. Dezember 2019, GZ 3 R 146/19v-14m, mit dem das Urteil des Landesgerichts Klagenfurt vom 22. August 2019, GZ 49 Cg 33/19x-10, betreffend die erstklagende Partei aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der erstklagenden Partei binnen 14 Tagen die mit 2.197,80 EUR (darin 366,30 EUR an USt) bestimmten Kosten der Rekursbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Erstkläger hat mit der Beklagten einen (Berufs-)Haftpflichtversicherungsvertrag abgeschlossen. Diesem liegen die Allgemeinen und Ergänzenden allgemeinen Bedingungen für die Berufshaftpflichtversicherung (ABHV/EBHV 2000) idF 07/2012 zugrunde, die auszugsweise lauten:
+„ […]
+Artikel 8
+Ausschlüsse vom Versicherungsschutz
+[…]
+2. Vorsatz
+Die Versicherung erstreckt sich nicht auf Schadenersatzverpflichtungen
+2.1 der Personen, die den Schaden, für den sie von einem Dritten verantwortlich gemacht werden, vorsätzlich und rechtswidrig herbeigeführt haben.
+Als vorsätzlich gilt auch eine Handlung oder Unterlassung, welche die betreffende Person nicht vermeidet, obwohl sie die wahrscheinlichen schädlichen Folgen voraussehen musste, diese jedoch in Kauf genommen hat;
+2.2 infolge bewussten Zuwiderhandelns gegen für seine beruflichen Tätigkeiten geltende Gesetze, Verordnungen oder behördliche Vorschriften, sowie infolge bewussten Zuwiderhandelns gegen Anweisungen oder Bedingungen des Auftraggebers oder dessen Bevollmächtigten oder durch sonstige wissentliche Pflichtverletzung.
+[…].“
+Der Erstkläger begehrte die Feststellung der Deckungspflicht der Beklagten. Das Berufungsgericht sprach in seinem insoweit die klagsabweisende Entscheidung aufhebenden Beschluss aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteigt und der Rekurs an den Obersten Gerichtshof zulässig sei. Der Oberste Gerichtshof habe zwar jüngst in seiner Entscheidung 7 Ob 42/18k grundsätzliche Klarstellungen vorgenommen, doch fehle Rechtsprechung aus jüngerer Zeit dazu, wie die in der genannten Entscheidung entwickelten Aussagen im Fall konkurrierender Anspruchsgründe anzuwenden seien. Insoweit liege nur die ältere Entscheidung 7 Ob 295/74 vor.
+Rechtliche Beurteilung
+Der gegen den Aufhebungsbeschluss des Berufungsgerichts erhobene Rekurs ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 526 Abs 2 ZPO) – Ausspruch des Berufungsgerichts mangels Vorliegens einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO nicht zulässig. Auch die Zurückweisung eines solchen Rekurses kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 528a iVm § 510 Abs 3 letzter Satz ZPO; RS0043691):
+1.1. In ihrem Rekurs tritt die Beklagte der – vom Berufungsgericht seinem Aufhebungsbeschluss zugrunde gelegten – Entscheidung 7 Ob 142/18k nicht entgegen, sondern hält diese erklärtermaßen für zutreffend.
+1.2. Das Berufungsgericht ist von besagter Entscheidung auch nicht abgewichen, sondern hat von dieser ausgehend die Deckungspflicht der Beklagten gestützt auf den Risikoausschluss nach Art 8.2.1 ABHV 2000 insoweit verneint, als die Geschädigte dem Erstbeklagten einen durch Betrug vorsätzlich und rechtswidrig herbeigeführten Schaden vorgeworfen hat.
+2. Die weitere Rechtsansicht des Berufungsgerichts beruht auf der Entscheidung 7 Ob 295/74 (= VersRdSch 1978, 64 = VersR 1977, 556), nach welcher es im Fall einer Anspruchskonkurrenz genüge, dass einer von mehreren Sachverhalten unter das versicherte Risiko falle. Die Beklagte tritt auch dieser Rechtsansicht nicht entgegen, sondern stimmt dieser ausdrücklich zu und zeigt damit auch insoweit keine erhebliche Rechtsfrage auf.
+3.1. Strittig ist damit im Rekursverfahren lediglich, ob die Geschädigte im Haftpflichtprozess mit ihren Klagsbehauptungen neben dem unstrittigen Vorwurf eines vorsätzlichen und strafbaren Verhaltens des Erstklägers (§§ 146, 147 Abs 2 StGB) auch eine fahrlässige Verletzung von Vertragspflichten geltend macht. Dies erfordert – entgegen der Ansicht der Beklagten – nicht bloß eine unterschiedliche Verschuldensqualifikation bei identer Sachverhaltsgrundlage, sondern durchaus unterschiedliche Sachverhaltselemente nämlich den (erfolgten) Vortrag der Tatbestandsvoraussetzungen nach § 146 StGB einerseits und die Verletzung von Vertragspflichten andererseits. Ob die Klagsbehauptungen der Geschädigten im Haftpflichtprozess diesen Anforderungen entsprechen ist eine Frage der Auslegung des Prozessvorbringens und damit typischerweise eine solche des Einzelfalls und daher nicht erheblich im Sinn des § 502 Abs 1 ZPO (RS0042828), es sei denn die Auslegung des Vorbringens ist mit seinem Wortlaut unvereinbar oder verstößt gegen die Denkgesetze (RS0042828 [T11]). Ein solcher Fall liegt hier aber nicht vor:
+3.2. Die Geschädigte hat im (nur gegen den Erstkläger eingeleiteten) Haftpflichtprozess – sinngemäß und zusammengefasst – geltend gemacht, vom (hier:) Erstkläger (persönlich) steuerlich beraten worden zu sein. Kein sorgfältiger Steuerberater hätte einem Kunden zu einem Abtretungsvertrag und einem sogenannten Gewinn-Darlehen geraten. Der Erstkläger habe gegen einschlägige berufsspezifische Grundsätze als Steuerberater und Vertrauter eines Klienten verstoßen, wobei sein Verhalten als grob fahrlässig zu werten sei. Wenn das Berufungsgericht daraus und neben einem auf spezifische andere Umstände gegründeten Betrugsvorwurf die Behauptung einer fahrlässigen Verletzung von vertraglichen Sorgfaltspflichten durch die Geschädigte abgeleitet hat, dann liegt darin jedenfalls kein Verstoß gegen geltende Auslegungsgrundsätze.
+4. Hat das Berufungsgericht auf der Basis seiner nicht zu beanstandenden Rechtsansicht die Sachverhaltsfeststellungen, namentlich zur Prüfung der Erfüllung der primären Risikobeschreibung und des Risikoausschlusses nach Art 8.2.2 ABHV 2000 für ergänzungsbedürftig erachtet, kann dem der Oberste Gerichtshof nicht entgegentreten (RS0042179).
+5.1. Der Rekurs ist somit mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig und daher zurückzuweisen.
+5.2. Die Entscheidung über die Kosten des Rekursverfahrens beruht auf §§ 50, 41 ZPO. Der Erstkläger hat auf die fehlende Zulässigkeit des Rekurses hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00057.20P.0916.000

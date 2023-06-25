@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.08.2016
+Geschäftszahl
+5Ob130/16b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Partei F***** K*****, vertreten durch Mag. Matthias Leitner, Rechtsanwalt in Wien, gegen die beklagte Partei J***** L*****, vertreten durch Dr. Elisabeth Rech und Dr. Dietmar Kerschbaumer, Rechtsanwälte in Wien, wegen 55.000 EUR sA und Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Mai 2016, GZ 15 R 52/16a-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Wegehalter haftet unter anderem, sofern atypische Gefahrenquellen nicht beseitigt oder als solche erkenntlich gemacht werden (RIS-Justiz RS0023735 [T1]). Es kommt im jeweils zu prüfenden Einzelfall darauf an, ob er die ihm zumutbaren Maßnahmen getroffen hat, um eine gefahrenlose Benutzung des Wegs sicherzustellen (RIS-Justiz RS0087607; RS0030088 [T4]). Die Beurteilung, ob die Unterlassung einer zumutbaren Maßnahme als grobe Fahrlässigkeit vorzuwerfen ist, begründet ebenfalls keine Rechtsfrage von erheblicher Bedeutung (RIS-Justiz RS0087606).
+Es ist richtig, dass der Oberste Gerichtshof eine elektrische Viehsperre auf einer für den Mountainbikeverkehr freigegebenen Forststraße nicht als atypische Gefahrenquelle angesehen hat (1 Ob 260/05z = RIS-Justiz RS0023735 [T1]). Es handelte sich bei dieser Sperre aber um zwei schwarze, gelb markierte Glasfiberstäbe, die an links und rechts der Forststraße stehenden, aus 55 m wahrzunehmenden Holzpfosten angebracht waren und sich bei Durchfahrt eines Fahrzeugs automatisch öffneten. Neben einem der Holzpfosten befand sich ein Durchgang für Fußgänger.
+Diese Viehsperre war für einen herannahenden Mountainbikefahrer wesentlich auffälliger als die im vorliegenden Fall über eine (als Mountainbikestrecke zur Verfügung gestellte) Weide 80 cm über dem Boden zwischen Eisenstehern gespannte Nylonschnur. Rund 120 m vor diesem aus etwa 17 m sichtbaren Weidezaun wies ein gelbes Schild zwar auf Weidevieh und das Betreten und Befahren auf eigene Gefahr hin. Weidevieh befindet sich an dieser Stelle aber nur etwa zweimal jährlich für eine Woche bis 14 Tage. Am Tag des Unfalls war kein Vieh auf der Weide, die von vielen Radfahrern benützt wird. Die Situation ist jener vergleichbar, die der Entscheidung 4 Ob 211/11z zugrunde lag. Dort hat der Oberste Gerichtshof die Wegehalterhaftung bei Errichtung eines kaum sichtbaren, nicht gekennzeichnetem Weideabsperrbands auf einem Forstweg bejaht.
+Es ist aufgrund der Gestaltung des Weidezauns, der seltenen Benutzung der Wiese zu Weidezwecken und der häufigen Frequentierung der Strecke durch Radfahrer keine unvertretbare rechtliche Beurteilung, wenn die Vorinstanzen die Haftung des Beklagten nach § 1319a ABGB bejaht haben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00130.16B.0825.000

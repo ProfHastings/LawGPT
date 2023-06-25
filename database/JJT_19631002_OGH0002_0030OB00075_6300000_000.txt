@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.10.1963
+Geschäftszahl
+3Ob75/63
+Norm
+ABGB §364c;
+EO §133;
+Wohnbauförderungsgesetz 1954 §26;
+Kopf
+SZ 36/123
+Spruch
+Das Veräußerungsverbot nach § 26 Wohnbauförderungsgesetz 1954 verhindert nicht Exekutionsmaßnahmen.
+Entscheidung vom 2. Oktober 1963, 3 Ob 75/63.
+I. Instanz: Bezirksgericht Döbling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht bewilligte die Zwangsversteigerung der dem Verpflichteten gehörigen 7110/19.680 Anteile (verbunden mit Wohnungseigentum) der EZ. 626/KG U. D., obwohl auf diesem Grundstück das Veräußerungsverbot nach § 26 (1) Wohnbauförderungsgesetz (WBFGes.) 1954 einverleibt ist.
+Infolge Rekurses der Stadt Wien wies das Rekursgericht den Antrag auf Zwangsversteigerung ab. Es führte aus, daß das Veräußerungsverbot gemäß § 364c ABGB., wenn es im Grundbuch eingetragen ist, auch gegenüber der Zwangsversteigerung wirkt. Die Bestimmung des § 26 (2) WBFGes. 1954, daß bei einer Einverleibung des Veräußerungsverbotes das Eigentum an der Liegenschaft durch Rechtsgeschäft unter Lebenden nur mit schriftlicher Zustimmung des Landes übertragen werden kann, ändere nicht die Qualifikation des Veräußerungsverbotes und biete keinen Anlaß, dem Veräußerungsverbot eine derart einschränkende, dem Wesen des im ABGB. normierten Veräußerungsverbotes nicht entsprechende Auslegung zu geben, wonach das Veräußerungsverbot nach dem WBFGes. 1954 nicht die Einleitung des Versteigerungsverfahrens hindere. Genauso wie ein rechtsgeschäftliches Veräußerungsverbot die Exekution hindere, müsse dies auch für ein gesetzliches Veräußerungsverbot gelten. Da dem Exekutionsgesuch eine Zustimmungserklärung des Begünstigten aus dem Veräußerungsverbot nicht beigelegt wurde, hätte die Exekution nicht bewilligt werden dürfen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und stellt den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Umfang eines Veräußerungsverbotes muß, wenn es sich um ein vertragliches handelt, dem Vertrag entnommen werden, wenn es sich um ein gesetzliches handelt, dem entsprechenden Gesetz. Die Frage, ob ein Veräußerungsverbot nach § 26 WBFGes. 1954 die Einleitung eines Zwangsversteigerungsverfahrens hindert, ist daher zunächst aus den Bestimmungen des Wohnbauförderungsgesetzes selbst zu lösen. Die Wohnbauförderung erfolgt darnach entweder durch ein Darlehen oder durch Bürgschaftsübernahme oder durch Annuitäten oder Baukostenzuschüsse. Im Falle der Gewährung eines Darlehens bestimmt § 15 lit. a, daß das Darlehen sofort fällig gestellt werden kann, wenn die Zwangsverwaltung oder Zwangsversteigerung bewilligt wird. Bei der Bürgschaftsübernahme ist der Gläubiger zu verpflichten, die Landesregierung von einer von ihm beantragten oder ihm bekanntgewordenen beantragten Einleitung der Zwangsversteigerung durch einen Dritten ohne Verzug zu verständigen (§ 17 (1) f.). Da in allen diesen Fällen nach § 26 das Veräußerungsverbot einzuverleiben ist, kann sich dieses Veräußerungsverbot entsprechend dem Wortlaut des § 26 (2) nur auf das Verbot, das Eigentum an der Liegenschaft durch Rechtsgeschäfte unter Lebenden zu übertragen, beziehen, nicht aber auch auf ein Exekutionsverbot, weil einer solchen Auslegung die Bestimmungen des § 15 lit. a, § 17 (1) f und § 17 (1) Z. 2 b entgegenstehen. Das Veräußerungsverbot nach § 26 verhindert seinem ausdrücklichen Wortlaut nach daher nur Rechtsgeschäfte unter Lebenden, die ohne schriftliche Zustimmung des Landes abgeschlossen werden, nicht aber Exekutionsmaßnahmen. Damit weicht dieses Veräußerungsverbot von jenen ab, die im BGBl. Nr. 200/1929 § 4 (3) b und (5) bzw. BGBl. Nr. 192/1933 § 4 (5) festgelegt wurden und ausdrücklich Verfügungen unter Lebenden und Exekutionen verboten haben.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2020
+Geschäftszahl
+6Ob214/20v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden, die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei P*****, vertreten durch Dr. Peter Zöchbauer, Rechtsanwalt in Wien, wider die beklagte Partei P*****, vertreten durch Gheneff – Rami – Sommer Rechtsanwälte GmbH & Co KG in Wien, wegen Unterlassung, Veröffentlichung und Schadenersatz, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. August 2020, GZ 2 R 170/19p-14, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof hat bereits mehrfach ausgesprochen, dass es dann auf die Wahrheit des Inhalts der Verdächtigung ankommt, wenn die Verdachtslage überhaupt nicht oder im dargestellten Umfang nicht gegeben ist (6 Ob 141/18f; 6 Ob 220/01y = RS0115728). Nur ein wahrheitsgemäßer und neutraler Bericht über eine bestehende Verdachtslage, die im bezeichneten Umfang im Zeitpunkt der Berichterstattung tatsächlich existierte, ist also nicht tatbestandmäßig im Sinn des § 1330 ABGB (6 Ob 224/04s).
+Nach den Feststellungen bestand im Zeitpunkt der Weitergabe der Informationen durch die Beklagte der gegenständliche Verdacht gegen die Klägerin nicht mehr.
+Das Berufungsgericht hat der Beklagten nicht vorgeworfen, dieser wäre die nicht mehr bestehende Verdachtslage bekannt gewesen, sondern dass ihre Unkenntnis davon auf Fahrlässigkeit beruht habe. Die darauf gestützte Verurteilung der Beklagten zum Widerruf ist nicht zu beanstanden: Gemäß § 1330 Abs 2 ABGB kann nämlich Schadenersatz, Widerruf und die Veröffentlichung verlangt werden, wenn jemand Tatsachen verbreitet, die den Kredit, den Erwerb oder das Fortkommen eines anderen gefährden und deren Unwahrheit er kannte oder kennen musste. Der Anspruch auf Unterlassung der Verbreitung unwahrer kreditschädigender Behauptungen ist überhaupt verschuldensunabhängig (RS0031666 [T4]; RS0129709 ua).
+2. Ob jemand Kenntnis von einem bestimmten Sachverhalt hat, ist eine Tatfrage, ob eine bestimmte Tatsache einer Partei hätte bekannt sein müssen, ob also in ihrer Unkenntnis ein Verschulden liegt, ist jedoch eine Rechtsfrage (RS0043606 [T1]). (Der von der Beklagten zitierte Rechtssatz RS0011323 ist nicht einschlägig, befasst er sich doch mit dem einer Löschungsklage entgegenstehenden guten Glauben eines im Grundbuch als Eigentümer eingetragenen Dritten.) Daher war es dem Berufungsgericht nicht verwehrt, als Akt der rechtlichen Beurteilung der Beklagten ein Verschulden zuzumessen, auch wenn sich das Erstgericht dazu nicht (ausdrücklich) geäußert hat.
+Dabei hat das Berufungsgericht auch nicht die Rechtslage verkannt: Ob die Beklagte den Pflichten des MedienG unterliegt, ist wegen der sich schon aus § 1330 ABGB ergebenden Sorgfaltspflichten irrelevant. Die Herstellung des Tatbestands des § 1330 Abs 2 ABGB setzt kein grobes Verschulden voraus. Es genügt, dass der Verbreiter unwahrer Behauptungen zumindest wissen musste, dass diese unrichtig waren (RS0031775; RS0031859). Ein Verschulden des Behauptenden kann nur verneint werden, wenn er gute Gründe hatte, seine Behauptung als wahr anzusehen (RS0031775 [T4]; 6 Ob 328/00d). Ob der Täter aufgrund der gegebenen Umstände ausreichende Anhaltspunkte für die Richtigkeit der von ihm (weiter-)verbreiteten Tatsachen hatte und sie daher mit Grund als wahr ansehen durfte, ist in jedem Einzelfall zu prüfen (RS0031806 [T1]).
+Das Berufungsgericht hat die Ansicht vertreten, eine Fahrlässigkeit der Beklagten sei darin zu erblicken, dass sie keine Prüfung der Aktualität der „Sachverhaltsdarstellung“ vorgenommen und die Klägerin vor der Weitergabe der für diese nachteiligen Informationen nicht kontaktiert habe. Dabei hat es auf Seite 11 des Ersturteils verwiesen. Dieses hat dort (nur) festgestellt, der Geschäftsführer der Beklagten habe beim Rechtsvertreter der Person, die Urheber der (damals schon fast eineinhalb Jahre alten) „Sachverhaltsdarstellung“ war, nicht nachgefragt, ob die Angaben darin noch aktuell seien.
+Die Einzelfallbeurteilung des Berufungsgerichts, der Beklagten sei Fahrlässigkeit vorzuwerfen, wäre auch nicht korrekturbedürftig, wenn lediglich diese Feststellung des Erstgerichts zugrunde gelegt würde.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00214.20V.1125.000

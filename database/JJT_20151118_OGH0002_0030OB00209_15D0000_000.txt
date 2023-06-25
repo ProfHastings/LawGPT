@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.11.2015
+Geschäftszahl
+3Ob209/15d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Lovrek als Vorsitzende, den Hofrat Dr. Jensik, die Hofrätin Dr. Grohmann, den Hofrat Dr. Roch sowie die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei A***** GmbH, *****, vertreten durch Dr. Wilhelm Klade, Rechtsanwalt in Wien, gegen die beklagte Partei D***** GmbH, *****, vertreten durch Bock Fuchs Nonhoff Rechtsanwälte OG in Wien, wegen Einwendungen gegen den Anspruch (§ 35 EO), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 26. August 2015, GZ 46 R 255/15p-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte zeigt in ihrer außerordentlichen Revision keine Rechtsfrage von erheblicher Bedeutung auf.
+Rechtliche Beurteilung
+1. Die §§ 1415 Satz 2 und 1416 ABGB stehen in unmittelbarem Zusammenhang. Sie stellen eine gesetzliche Tilgungsregel für den Fall auf, dass zwischen einem Gläubiger und einem Schuldner mehrere Verbindlichkeiten („Schuldposten“) bestehen und der Schuldner eine Leistung erbringt, die zur Erfüllung aller seiner Verbindlichkeiten gegenüber dem Gläubiger nicht ausreicht (3 Ob 113/13h mwN; RIS-Justiz
+RS0033403).
+2. Auf welche der mehreren Schuldposten die Leistung angerechnet werden soll, richtet sich primär nach der zwischen den Vertragsparteien bestehenden Vereinbarung und mangels einer solchen nach der vom Schuldner vorgenommenen Widmung, sofern nicht der Gläubiger dagegen Widerspruch erhebt. In letzterem Fall greift, weil eine einseitige „Umwidmung“ durch den Gläubiger nicht möglich ist (10 Ob 42/14w; RIS-Justiz
+RS0033410 [T1]), - ebenso wie bei fehlender oder zweifelhafter Widmungserklärung - die gesetzliche Tilgungsfolge des § 1416 ABGB ein (10 Ob 42/14w; RIS-Justiz
+RS0034703 [T4]).
+3. § 1416 ABGB sieht eine Rangfolge unter den Gesichtspunkten der bereits eingeforderten, dann der schon fälligen Schulden sowie in letzter Linie der Beschwerlichkeit der einzelnen Schulden vor (RIS-Justiz
+RS0033505). Tilgungspriorität kommt also jener Schuldpost zu, die der Gläubiger bereits - gerichtlich oder außergerichtlich -eingefordert hat. Unter mehreren eingeforderten Schuldposten entscheidet die Intensität der Einforderung, die von der Rechtsprechung zum Teil auch unter dem Blickwinkel der Beschwerlichkeit beurteilt wird (7 Ob 201/13d = RIS-Justiz RS0115761 [T1]).
+Die Leistung ist somit primär auf jene Verbindlichkeit anzurechnen, deren Geltendmachung in der Abfolge Einmahnung, Einklagung (allgemeiner: Verfolgung im gerichtlichen Erkenntnisverfahren) und Zwangsvollstreckung gegenüber anderen weiter vorangeschritten ist (3 Ob 113/13h mwN). In diesem Sinn wurde bereits ausgesprochen, dass
+eine Forderung, zu deren Gunsten ein Exekutionstitel besteht, im Verhältnis zu einer solchen, bei der dies nicht der Fall ist, als dem Schuldner iSd § 1416 ABGB beschwerlicher gilt (RIS-Justiz
+RS0033531).
+4. Von dieser Rechtsprechung ist das Berufungsgericht mit seiner Beurteilung, dass die im Sanierungsverfahren angemeldeten und nicht bestrittenen, daher titulierten (§ 156c IO, § 1 Z 7 EO) Bestandzinsforderungen der Beklagten infolge der höheren Intensität ihrer Einforderung ungeachtet der durch den Sanierungsplan hinausgeschobenen Fälligkeit gegenüber den bisher „nur“ eingeklagten, nach der Aufhebung des Sanierungsverfahrens (§ 152b Abs 2 IO) und vor der zweiten Sanierungsplanrate fällig gewordenen, aber noch nicht titulierten Bestandzinsansprüchen vorrangig sind, weshalb die von der Klägerin geleistete Zahlung, wie von ihr intendiert, auf die zweite Sanierungsplanrate und nicht, wie von der Beklagten gewünscht, auf die eingeklagten Bestandzinsforderungen anzurechnen ist, nicht abgewichen.
+5. Entgegen der Ansicht der Revisionswerberin kann weder von einem „Missbrauch der Privilegien des Sanierungsplans“ noch von einer „sachlich nicht gerechtfertigten Auslegung des § 1416 ABGB“ gesprochen werden. Ihre Ansicht, die zweite Sanierungsplanrate könne „für Zwecke des § 1416 ABGB“ nur als außergerichtlich eingemahnt (und nicht als tituliert) angesehen werden, entbehrt einer gesetzlichen Grundlage. Im Hinblick darauf, dass die von der Klägerin geleistete Zahlung auf die zweite Sanierungsplanrate und nicht auf die eingeklagten Bestandzinse anzurechnen ist, sind die von der Beklagten vermissten Feststellungen zum Bestand und der Höhe dieser Forderungen entbehrlich.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0030OB00209.15D.1118.000

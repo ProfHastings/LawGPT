@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2021
+Geschäftszahl
+9Ob70/20i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden sowie die Hofrätinnen und den Hofrat des Obersten Gerichtshofs Dr. Fichtenau, Hon.-Prof. Dr. Dehn, Dr. Hargassner und Mag. Korn in der Rechtssache der klagenden Partei F***** GmbH, *****, vertreten durch Dr. Walter Schuhmeister, Mag. Franz Haydn, Rechtsanwälte in Schwechat, gegen die beklagte Partei Dr. ***** S*****, vertreten durch Dr. Klaus Schimik, Rechtsanwalt in Wien, wegen zuletzt 69.900 EUR sA (Revisionsinteresse: 45.065 EUR sA), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 16. November 2020, GZ 12 R 56/20y-46, mit dem der Berufung der beklagten Partei nicht Folge gegeben wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der beklagten Partei wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der Beklagte richtet sich in seiner außerordentlichen Revision gegen die Beurteilung der verfahrensgegenständlichen Garantien als Anzahlungsgarantien für die von ihm bestellten Küchen; es habe sich um Liefer- bzw Leistungsgarantien gehandelt. Auch fehle Rechtsprechung zur notwendigen Mindestlaufzeit der Garantie, die frühestens drei Werktage ab Ablieferung enden dürfe. Damit zeigt der Beklagte keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO auf:
+[2] 		Der echte Garantievertrag ist im Gesetz nicht geregelt. Er kann nach dem Grundsatz der Vertragsfreiheit mit verschiedenem Inhalt geschlossen werden. Die Befristung ist für eine Bankgarantie zwar üblich, aber kein Wesensmerkmal (RS0016963 [T3, T4]). Ein Garantievertrag ist kein abstraktes Schuldverhältnis, er ist auf einen Sicherungszweck, den Eintritt des Garantiefalles, bezogen. Die Bankgarantie hat daher jene Bedingungen genau zu umschreiben, von deren Erfüllung die Garantieverpflichtung abhängig gemacht wird (RS0016946 [T1, T8]). Bestand keine über den Wortsinn der Garantieurkunde hinausgehende übereinstimmende Parteiabsicht, kommt es nur auf den objektiven Erklärungswert der Urkunde, nicht aber darauf an, wie eine Partei diese subjektiv verstanden hat (RS0017783 [T4]). Garantieerklärungen sind im Zweifel eher eng auszulegen (RS0017005 [T8]).
+[3] 		Charakteristikum einer Anzahlungsgarantie ist, dass nicht der sich aus dem Vertrag ergebende Anspruch auf die Hauptleistung abgesichert wird, sondern der Anspruch auf Rückgabe der geleisteten Anzahlung, sollte die angezahlte Ware nicht geliefert werden (1 Ob 44/07p; 3 Ob 97/20s).
+[4] 		Hier ist sowohl im Angebot der Klägerin (Beil ./A) als auch in der Anzahlungsrechnung (Beil ./B) bei den Positionen Anzahlung (ab Auftragserteilung) und Lieferanzahlung (vor Lieferung) „gegen Garantie“ vermerkt. Die darauf Bezug nehmenden Garantien sind jeweils als „Anzahlungsgarantie“ betitelt (Beil ./C, ./D und ./G) und machen ihre Wirksamkeit vom Einlangen der Anzahlungen auf einem bestimmten Konto der Klägerin abhängig. Gespräche über die Laufzeit der Garantien oder ihrer Geltung bis zur Lieferung, Montage und Abnahme konnten nicht festgestellt werden. Bei dieser Sachverhaltskonstellation von Anzahlungsgarantien auszugehen ist danach nicht weiter korrekturbedürftig.
+[5] 		Ausgehend von Anzahlungsgarantien bedarf es keiner Stellungnahme zur Ansicht des Beklagten, dass eine Liefer- bzw Leistungsgarantie eine Laufzeit aufweisen müsste, die „frühestens nach drei Werktagen ab Abschluss der vereinbarten Lieferung und Montage“ (Rev S 5) endet. Angesichts der klaren Terminisierung der Garantien ist auch nicht zu erkennen, welche Rechtsfolge damit angestrebt wird. Einer verallgemeinernden Aussage zur Länge einer Befristung stünde schließlich die Notwendigkeit der Bedachtnahme auf die Umstände des Falles entgegen, die hier auch nicht erkennen lassen, warum dem Beklagten eine taggleiche Durchsicht der Lieferung nicht zumutbar gewesen wäre.
+[6] 		Die außerordentliche Revision des Beklagten ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0090OB00070.20I.0127.000

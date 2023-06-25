@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.2021
+Geschäftszahl
+2Ob145/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei A***** GmbH, *****, vertreten durch Brandtner & Doshi Rechtsanwälte OG in Feldkirch, gegen die beklagte Partei S***** GmbH, *****, vertreten durch Längle Fussenegger Singer Rechtsanwälte Partnerschaft in Dornbirn, wegen 70.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 28. Mai 2021, GZ 4 R 73/21y-28, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach § 377 Abs 3 UGB hat der Käufer  verborgene Mängel, die sich später zeigen, binnen angemessener Frist anzuzeigen. Die Dauer dieser Frist hängt von den Umständen des Einzelfalls ab, im Zweifel beträgt sie in Anlehnung an die Rechtsprechung zu Art 39 UN-Kaufrecht 14 Tage (6 Ob 76/07f = RS0122080).
+[2] 		Im vorliegenden Fall schloss der Prokurist der Klägerin aus der Rückrufaktion des Generalimporteurs auf das Vorliegen eines Mangels. Er zeigte diesen jedoch nicht der beklagten Verkäuferin an, sondern übergab die Sache einem Anwalt, der etwa sechs Wochen nach Einlangen des Rückrufschreibens bei der Klägerin die Klage erhob. Die Annahme der Vorinstanzen, dass die Klägerin damit die Frist des § 377 Abs 3 UGB versäumt habe, ist durch die eingangs zitierte Entscheidung gedeckt. Soweit die Klägerin in der Revision Erwägungen zu einer angemessenen Untersuchungsfrist anstellt, ist sie auf die Feststellung des Erstgerichts hinzuweisen, dass dem Prokuristen der Mangel schon aufgrund der Rückrufaktion bewusst war. Eine weitere Untersuchung war daher nicht erforderlich.
+[3] 		2. Die Klägerin beruft sich weiters darauf, dass die Beklagte aufgrund der auch ihr bekannten Rückrufaktion eine nachvertragliche Pflicht zur Aufklärung über den Mangel getroffen habe, deren Nichterfüllung zur Anwendung von § 377 Abs 5 UGB führe. Mit dieser Argumentation bezieht sie sich möglicherweise auf die (in der Revision allerdings nicht erörterte) Rechtsprechung des Obersten Gerichtshofs zu § 377 HGB, wonach der Umstand, dass der Mangel (nachträglich) auch dem Verkäufer bekannt wurde, jedenfalls für sich allein an der Rügepflicht nichts ändert (6 Ob 514/79 HS 10.859; 8 Ob 45/06k).
+[4] 		Es kann offen bleiben, ob – wie die Klägerin annimmt – bei Verletzung einer nachvertraglichen Aufklärungspflicht anderes gilt. Denn die Klägerin nennt (auch) in der Revision keinen Grund, weshalb die Beklagte eine solche Pflicht getroffen hätte, bevor sie selbst durch die Rückrufaktion vom Mangel erfuhr (vgl 1 Ob 103/14z: nachvertragliche Warnpflicht bei – hier nicht behaupteter – Gefährlichkeit). Ab Kenntnis der Klägerin vom Mangel käme der Tatbestand des (zumindest grob fahrlässigen) „Verschweigens“ jedenfalls nicht mehr in Betracht (RS0127766: „Verschweigen“, wenn dem Verkäufer aufgrund grober Fahrlässigkeit verborgen blieb, dass der Käufer vom Mangel keine Kenntnis hatte).
+[5] 		Damit zeigt die Revision aber auch in diesem Punkt keine erhebliche Rechtsfrage auf. Denn das pauschale Bekämpfen der Rechtsansicht des Berufungsgerichts ohne Auseinandersetzung mit der höchstgerichtlichen Rechtsprechung genügt den Anforderungen an eine Revision nicht (RS0043654 [T12]). Es ist daher nicht zu prüfen, ob und gegebenenfalls unter welchen Voraussetzungen § 377 Abs 5 UGB auch im Fall eines erst nachträglich erkennbaren  Mangels anwendbar sein könnte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00145.21V.0916.000

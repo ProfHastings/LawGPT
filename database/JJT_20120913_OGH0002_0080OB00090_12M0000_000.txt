@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.09.2012
+Geschäftszahl
+8Ob90/12m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Spenling als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Kuras, die Hofrätin Dr. Tarmann-Prentner und die Hofräte Mag. Ziegelbauer und Dr. Brenn als weitere Richter in der Rechtssache der klagenden Partei Dr. H***** D*****, vertreten durch Dr. Helmut Steiner ua, Rechtsanwälte in Baden, gegen die beklagten Parteien 1) F***** H*****, und 2) B***** GmbH (richtig: H***** GmbH), *****, vertreten durch Dr. Markus Sorger, Rechtsanwalt in Gleisdorf, wegen 40.000 EUR sA (20 % aus 200.000 EUR), über die außerordentliche Revision der zweitbeklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 30. Mai 2012, GZ 5 R 17/12b-57, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Soweit die Zweitbeklagte in der außerordentlichen Revision die von den Vorinstanzen getroffenen Tatsachenfeststellungen kritisiert, ist darauf hinzuweisen, dass die Beweiswürdigung vor dem Obersten Gerichtshof nicht mehr bekämpft werden kann (RIS-Justiz RS0043371).
+2. Die bekämpfte Entscheidung betrifft nur mehr die Haftung der Zweitbeklagten. Diese bestreitet in der außerordentlichen Revision nicht, dass sie eine gültige Wechselbürgschaft übernommen hat, und zwar für den Erstbeklagten als Wechselhauptschuldner. Der Erstbeklagte war Bezogener und Annehmer der beiden dem Klagebegehren zugrunde liegenden Wechsel.
+3. Aus dem Wechsel haften nicht nur der Annehmer als Hauptschuldner, sondern ebenso der Aussteller (Art 9 WG), die Indossanten (Art 15 leg cit) sowie allfällige Wechselbürgen (Art 32); sie sind Rückgriffsschuldner.
+Der Wechselbürge haftet nach Art 32 Abs 1 WG in der gleichen Weise wie derjenige, für den er sich verbürgt hat, also gleich dem Hauptschuldner. Er haftet somit als Bürge und Zahler iSd § 1357 ABGB (8 Ob 227/99m).
+4.1 Art 70 WG unterscheidet in Bezug auf Verjährungsbeginn und Verjährungsfristen zwischen den Ansprüchen gegen den Annehmer als Wechselhauptschuldner und den Ansprüchen gegen Rückgriffsschuldner. Die wechselrechtlichen Ansprüche gegenüber dem Annehmer verjähren gemäß Art 70 Abs 1 leg cit in drei Jahren vom Verfallstag an (RIS-Justiz RS0082503). Diese Frist gilt auch gegenüber dem Wechselbürgen des Annehmers (vgl Baumbach/Hefermehl/Casper, WG, ScheckG, Kartengestützte Zahlungen23 Art 70 WG Rz 4; Pimmer, Wechsel- und ScheckG9 Art 70 Anm 2 und E 11).
+4.2 Das Berufungsgericht ist von diesen zutreffenden Grundsätzen ausgegangen.
+Die Zweitbeklagte beruft sich zu Unrecht auf die sechsmonatige Verjährungsfrist nach Art 70 Abs 3 WG bzw auf die einjährige Verjährungsfrist nach Abs 2 leg cit. Der Kläger ist weder letzter Indossatar, der einen Erst- bzw Inhaberrückgriff geltend macht, noch ein im Rahmen des Sprungregresses in Anspruch genommener Indossant, der einen seiner Vormänner in Anspruch nimmt.
+5.1 Unrichtig ist auch, dass der Kläger zunächst eine Klage aus dem Grundgeschäft eingebracht und erst in der Verhandlung vom 7. 4. 2011 vorgebracht habe, dass sich die Ansprüche gegenüber der Zweitbeklagten auf ihre Wechselbürgschaft stützen würden. Vielmehr wurde bereits in der Klage ausgeführt, dass zur Absicherung der vereinbarten Leistungen die zwei (zugrunde liegenden) Wechsel vom Erstbeklagten unterfertigt und von der Zweitbeklagten als Bürgin mitunterfertigt worden seien. Als Fälligkeitsdatum der Wechsel sei der 30. 7. 2006 eingetragen worden.
+Mit der zugrunde liegenden Klage hat der Kläger somit (zumindest gegenüber der Zweitbeklagten) seine wechselrechtlichen Ansprüche geltend gemacht. Beim Anlassverfahren handelt es sich daher um ein Wechselverfahren und nicht um eine „bloß schuldrechtliche Klage“ (vgl dazu RIS-Justiz RS0039167). Die Wechselklage, die von der Klage aus dem Grundgeschäft zu unterscheiden ist, betrifft die formal-abstrakte Forderung aus einem Wechsel. Maßgebend ist, dass der Kläger seinen Anspruch auf den Rechtsgrund der abstrakten Wechselverpflichtung stützt. Dies ist sowohl bei der Wechselklage als auch bei der Wechselmandatsklage der Fall. Ob der Gläubiger bei Einklagung des Wechsels die Erlassung eines Zahlungsauftrags beantragt oder nicht, ist ihm selbst überlassen (8 Ob 86/97y).
+5.2 Die Verjährung wechselrechtlicher Ansprüche wird durch die Klageerhebung unterbrochen (RIS-Justiz RS0034931; 2 Ob 634/87). Dies gilt für die Einbringung sowohl einer Wechselklage als auch einer Wechselmandatsklage. Entgegen der Ansicht der Zweitbeklagten muss für die Unterbrechung der Verjährung nach Art 70 WG nicht zwingend eine Wechselmandatsklage eingebracht werden.
+Die Beurteilung des Berufungsgerichts erweist sich damit als nicht korrekturbedürftig.
+Mangels erheblicher Rechtsfrage iSd § 502 Abs 1 ZPO war die außerordentliche Revision zurückzuweisen.

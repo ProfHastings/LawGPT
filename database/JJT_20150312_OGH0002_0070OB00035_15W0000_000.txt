@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.03.2015
+Geschäftszahl
+7Ob35/15w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei B***** B*****, vertreten durch Mag. Karl Komann, Rechtsanwalt in Villach, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Werner Mecenovic Rechtsanwalt GmbH in Graz, wegen 69.825 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 11. Dezember 2014, GZ 2 R 188/14f-55, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Nichtigkeitsgrund des § 477 Abs 1 Z 9 ZPO ist nur dann gegeben, wenn die Entscheidung gar nicht oder so unzureichend begründet ist, dass sie sich nicht überprüfen lässt (RIS-Justiz RS0007484). Darüber hinaus muss ein Widerspruch im Spruch selbst oder ein Mangel der Gründe überhaupt vorliegen; eine mangelhafte Begründung reicht nicht (RIS-Justiz RS0042133).
+Die nach Durchführung einer Beweiswiederholung durch das Berufungsgericht getroffene Negativfeststellung zum Vorliegen des Versicherungsfalls (Raub) bewirkt keine Nichtigkeit des Berufungsurteils. Dieses lässt völlig klar erkennen, dass die aus S 2-5 des Ersturteils ersichtlichen, von der Beklagten bekämpften, Feststellungen zum Ablauf des behaupteten Raubüberfalls durch die genannte Negativfeststellung ersetzt und nicht ergänzt wurden.
+2. Ein dem Berufungsgericht unterlaufener Verfahrensverstoß bildet nur dann den Revisionsgrund des § 503 Z 2 ZPO, wenn er abstrakt geeignet war, eine unrichtige Entscheidung des Gerichts zweiter Instanz herbeizuführen (RIS-Justiz RS0043027). Der Rechtsmittelwerber ist zur Dartuung der abstrakten Eignung des Verfahrensmangels gehalten, wenn die Erheblichkeit des Mangels nicht offenkundig ist (RIS-Justiz RS0043027 [T10]).
+2.1 Die Klägerin erblickt eine Mangelhaftigkeit darin, dass sich das Berufungsgericht auf die Verlesung des Protokolls über die Gutachtenserörterung beschränkte und keine neuerliche mündliche Erörterung im Rahmen des Berufungsverfahrens erfolgte. Da sie aber ohnedies nur die Ausführungen des Sachverständigen in seinem schriftlichen Gutachten hervorhebt, zeigt sie keine Relevanz des behaupteten Verfahrensmangels auf.
+2.2 Gleiches gilt für den weiters gerügten Verfahrensmangel, das Berufungsgericht habe die von der Klägerin vorgelegten Urkunden berücksichtigt, ohne sie neuerlich zu verlesen.
+2.3 Der Oberste Gerichtshof ist nicht Tatsacheninstanz (RIS-Justiz RS0042903 [T7, T10]). Fragen der Beweiswürdigung können daher nicht mehr überprüft werden (RIS-Justiz RS0069246). Dies gilt auch dann, wenn das Berufungsgericht auf Grund einer Beweiswiederholung oder Beweisergänzung eigene Feststellungen getroffen hat (RIS-Justiz RS0043371 [T27], RS0123663). Allerdings kann geltend gemacht werden, dass das Revisionsverfahren an einem Mangel leidet, der eine erschöpfende Erörterung und gründliche Beurteilung der Sache zu hindern geeignet war. Dazu gehört, dass sich das Berufungsgericht mit der Beweisfrage überhaupt nicht befasst. Eine mangelhafte und unzureichende Beweiswürdigung kann grundsätzlich im Revisionsverfahren nicht angefochten werden (RIS-Justiz RS0043371).
+Das Berufungsgericht stellte schlüssig dar, auf Grund welcher Unplausibilitäten es bereits der Schilderung des Zeugen zum angeblichen Raubhergang nicht soweit folgte, dass es eine positive Feststellung zum Versicherungsfall treffen konnte, wobei es nur ergänzend darauf verwies, dass das Vorleben des Zeugen dieser Würdigung der Beweise nicht entgegenstehe.
+3. Für das Vorliegen des Versicherungsfalls trifft nach der allgemeinen Risikoumschreibung den Versicherungsnehmer die Beweislast (RIS-Justiz RS0043438), der die anspruchsbegründende Voraussetzung des Eintritts des Versicherungsfalls beweisen muss (RIS-Justiz RS0043563). Nach ständiger Rechtsprechung stehen dem Versicherungsnehmer aber bei Nachweis des Versicherungsfalls in der Schadensversicherung wegen der großen Beweisschwierigkeiten Beweiserleichterungen zu. Es genügt daher, wenn er ein Mindestmaß an Tatsachen beweist, die das äußere Erscheinungsbild eines Versicherungsfalls bilden (RIS-Justiz RS0102499). Ein solcher Fall setzt voraus, dass der Versicherungsnehmer zumindest Indizien beweist, die das Vorliegen des Versicherungsfalls nahelegen. Ein derartiger Beweis ist der Klägerin nicht gelungen, da  gerade keine Indizien für das Stattfinden eines Raubüberfalls feststehen.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00035.15W.0312.000

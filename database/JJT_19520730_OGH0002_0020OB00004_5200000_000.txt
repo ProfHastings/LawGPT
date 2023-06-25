@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.07.1952
+Geschäftszahl
+2Ob4/52
+Norm
+Eisenbahnverkehrsordnung §62 (3);
+Eisenbahnverkehrsordnung §82 (2);
+Eisenbahnverkehrsordnung §83 (2);
+Kopf
+SZ 25/211
+Spruch
+Zur Auslegung der Begriffe "außergewöhnlicher Abgang" und "Verlust von ganzen Stücken".
+Vernichtung ganzer Stücke durch Brand kein den Haftungsbefreiungsgrund ausschließender Verlust.
+Entscheidung vom 30. Juli 1952, 2 Ob 4/52.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Sachverhalt ist in der Entscheidung SZ. XXII/281 angeführt.
+Das auf Grund dieser Entscheidung wieder mit der Sache befaßte Prozeßgericht hat nunmehr das Klagebegehren abgewiesen, da es nach der Ergänzung des Beweisverfahrens zur Ansicht gelangt ist, daß den Bahnangestellten bei der Entdeckung und Bekämpfung des Brandes keine Fahrlässigkeit zur Last zu legen sei.
+Das Berufungsgericht hat das erstgerichtliche Urteil bestätigt.
+Der Oberste Gerichtshof hat der Revision der klagenden Partei, in der die oben angeführte, auch vom Berufungsgericht geteilte Ansicht des Prozeßgerichtes nicht mehr bekämpft worden ist, nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In rechtlicher Hinsicht führt die klagende Partei aus, daß die Vermutung des § 83 Abs. 2 EVO. deshalb nicht zutreffe, weil Glas durch Funkenflug nicht in Brand geraten könne. Die Verpackung sei ordnungsgemäß gewesen und seit Jahren in der gleichen Art durchgeführt worden, ohne daß sie von der Bahn beanstandet worden sei. Die beklagte Partei habe nicht den Nachweis erbracht, daß die besonderen Umstände des Falles die Anwendung der Haftungsbeschränkung rechtfertigen. Die Vermutung des § 83 Abs. 2 EVO. trete auch deshalb nicht ein, weil es sich um einen Abgang oder Verlust von ganzen Stücken handle (zweiter Satz des § 83 Abs. 2). Für die Widerlegung der Vermutung genüge der Wahrscheinlichkeitsbeweis, daß die Bahn ein Verschulden treffe. Diesen Beweis habe die klagende Partei erbracht. Schließlich wird ein Verschulden der Bahn auch in der mangelhaften Tatbestandsaufnahme erblickt. Durch die Vernachlässigung der Verpflichtung der Bahn zur Feststellung der Ursache des Schadens sei der klagenden Partei die Möglichkeit genommen, den Nachweis zu führen, welche Brandursache tatsächlich vorgelegen sei.
+Brand- und Versengungsgefahr spielt sowohl bei verpackten als auch bei unverpackten Gütern eine Rolle. Die Vermutung des § 83 Abs. 2 EVO. tritt ein, wenn aus der mit der Beförderung im offenen Wagen verbundenen Gefahr ein Schaden für Güter entstanden sein konnte. Hiebei macht es keinen Unterschied, ob der Schaden durch Einwirkung des gefahrbringenden Umstandes auf das Gut oder auf die Verpackung entstehen konnte. Die Beschaffenheit der Verpackung wäre nur dann von entscheidender Bedeutung, wenn die Beschränkung der Haftung nach § 83 Abs. 1b in Betracht käme. Für alle Folgen des Fehlens oder des mangelhaften Zustandes der Verpackung haftet gemäß § 62 Abs. 3 EVO. der Absender. Die Behauptung der klagenden Partei, daß die Eisenbahn die Voraussetzungen für die Vermutung nach § 83 Abs. 2 EVO. nicht nachgewiesen habe, geht ins Leere, weil festgestellt ist, daß der Brand durch Funkenflug entstehen konnte und der Oberste Gerichtshof an diese Tatsachenfeststellung gebunden ist.
+Der klagenden Partei ist der Nachweis, daß der Schaden durch ein Verschulden der Eisenbahn entstanden ist, nicht gelungen.
+Die Einreihung des Waggons könnte nur dann von Bedeutung sein, wenn feststunde, daß der Funkenflug von der Zuglokomotive verursacht wurde. Den Nachweis eines Verschuldens der beklagten Partei kann die klagende Partei nicht durch die unbestimmte Behauptung ersetzen, daß die Tatbestandsaufnahme mangelhaft sei. Es kann auch nicht davon die Rede sein, daß die klagende Partei einen Wahrscheinlichkeitsbeweis erbracht habe, daß die Eisenbahn an dem Brande ein Verschulden treffe. Die klagende Partei hat von allem Anfang an behauptet, daß der Brand nicht durch Funkenflug entstanden sei, sondern andere Ursachen habe, wie Heißlaufen oder Brandlegung, ohne aber tatsächliche Umstände anzuführen, die zum Nachweise einer solchen Brandursache dienen könnten. Wie das Berufungsgericht richtig ausgeführt, bedarf es nach den Erfahrungen des täglichen Lebens keines Sachverständigenbeweises, daß auch dann, wenn die Brandursache im Funkenflug gelegen ist, die Seitenwände des Waggons vollständig abbrennen konnten. Was die klagende Partei sonst noch zum Nachweise eines Verschuldens der beklagten Partei anführt, sind Tatsachen, die miteinander im Widerspruch stehen und die lediglich als Vermutung bezeichnet werden können, die die klagende Partei mit Rücksicht darauf, daß sie eine andere Brandursache annimmt, selbst nicht als wahrscheinlich ansehen kann. Unter außergewöhnlichem Abgang im Sinne des § 83 Abs. 2 letzter Satz ist ein übermäßiger Abgang zu verstehen, der bei regelmäßig laufender Beförderung nicht zu erklären ist. Gedacht wird dabei hauptsächlich an Massengüter, die unterwegs leicht verstreut werden und herabfallen. Unter Verlust "ganzer Stücke" im Sinne dieser Gesetzesstelle ist ein Abhandenkommen und nicht eine völlige oder teilweise Vernichtung des Gutes zu verstehen. Die Vernichtung ganzer Stücke durch Brand ist kein den Haftbefreiungsgrund ausschließender Verlust (E. v. 13. November 1917, Zoll und SpedZtg. 1918; 3).

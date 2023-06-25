@@ -1,0 +1,59 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2016
+Geschäftszahl
+7Ob9/16y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei H***** G*****, vertreten durch Dr. Karl-Heinz Plankel und andere, Rechtsanwälte in Dornbirn, gegen die beklagte Partei A*****, vertreten durch Mag. Martin Paar, Mag. Hermann Zwanzger, Rechtsanwälte in Wien, wegen Feststellung, über die Revisionen der klagenden und der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Oktober 2015, GZ 3 R 92/14t-24, womit das Urteil des Handelsgerichts Wien vom 8. September 2014, GZ 25 Cg 24/13i-18, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revisionen werden zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.096,56 EUR (darin enthalten 182,76 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 559,15 EUR (darin enthalten 93,19 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+B e g r ü n d u n g :
+Der Kläger begehrt vom beklagten Rechtsschutzversicherer einerseits Deckung für die (aktive) Geltendmachung eines Ausgleichsanspruchs analog § 24 HVertrG gegen die Gesellschaft, bei der er als arbeitnehmerähnlicher Handelsvertreter tätig gewesen sei, und - nach Klagsausdehnung - andererseits die Deckung für die Kosten der Rechtsmittelverfahren in dem Prozess, in dem er (passiv) von der Gesellschaft auf Zahlung von Provisionsrückforderungen in Anspruch genommen wird.
+Dem Rechtsschutzversicherungsvertrag liegen die Allgemeinen Rechtsschutzbedingungen 2003 (in Hinkunft: ARB) zugrunde. Diese lauten auszugsweise:
+„Gemeinsame Bestimmungen
+[...]
+Artikel 7
+Was ist vom Versicherungsschutz ausgeschlossen?
+1. Kein Versicherungsschutz besteht für die Wahrnehmung rechtlicher Interessen […].
+1.5. [...] aus dem Bereich des Handelsvertreterrechts;
+[…].
+Besondere Bestimmungen
+[...]
+Artikel 23
+Rechtsschutz in Arbeits- und Dienstrechtssachen
+Der Versicherungsschutz erstreckt sich je nach Vereinbarung auf den Berufs- und/oder Betriebsbereich
+1. Wer ist in welcher Eigenschaft versichert?
+Versicherungsschutz haben
+1.1. im Berufsbereich
+der Versicherungsnehmer und […] in ihrer Eigenschaft als Arbeitnehmer im Sinne des § 51 ASGG für Versicherungsfälle, die mit der Berufsausübung unmittelbar zusammenhängen oder auf dem direkten Weg von und zur Arbeitsstätte eintreten.
+[…].“
+Das Berufungsgericht, das die Verpflichtung der Beklagten zur Deckung im Aktivprozess bejahte und im Passivprozess verneinte, sprach aus, dass die ordentliche Revision zulässig sei, weil keine oberstgerichtliche Rechtsprechung zu der Frage vorliege, ob die Geltendmachung eines Ausgleichsanspruchs iSd § 24 HVertrG durch einen als arbeitnehmerähnlich iSd § 51 Abs 3 Z 2 ASGG einzustufenden Handelsvertreter sowie die Abwehr einer seitens des Unternehmers gegen einen solchen geltend gemachten Provisionsrückforderung unter den Risikoausschluss des Art 7.1.5 ARB 2003 fallen.
+Die Revisionen sind entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig.
+Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn die bedeutsame Rechtsfrage durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RIS-Justiz RS0112921 [T5]). Dies ist hier der Fall:
+Der Oberste Gerichtshof hat in seiner Entscheidung vom 27. 1. 2016, 7 Ob 156/15i, zu den auch in der vorliegenden Rechtssache, der ein vergleichbarer Sachverhalt zugrunde liegt, aufgeworfenen Rechtsfragen zusammengefasst wie folgt Stellung genommen:
+Rechtliche Beurteilung
+1.1 Da die personale Risikoumschreibung in Art 23.1.1 ARB generell „Arbeitnehmer“ im Sinn des § 51 ASGG einschließt, erstreckt sich der Versicherungsschutz nach dieser Bestimmung auch auf arbeitnehmerähnliche Personen im Sinn des § 51 Abs 3 Z 2 ASGG.
+1.2 Art 7.1.5 ARB beschreibt den Risikoausschluss nach seinem klaren Wortlaut nicht unmittelbar personenbezogen nach der Rechtsstellung des Versicherungsnehmers. Er differenziert nicht danach, ob der Versicherungsnehmer als selbstständiger oder als arbeitnehmerähnlicher freier Handelsvertreter zu qualifizieren ist, sondern schließt den Versicherungsschutz für die Wahrnehmung rechtlicher Interessen aus dem Bereich des Handelsvertreterrechts aus. Der Risikoausschluss nach Art 7.1.5 ARB ist daher besonders anhand der faktisch ausgeübten Tätigkeit des Versicherungsnehmers und der Qualität der von ihm verfolgten Ansprüche zu beurteilen.
+1.3 Davon ausgehend beurteilte der Oberste Gerichtshof den Fall, dass eine arbeitnehmerähnliche Person im Rahmen eines Strukturvertriebs Kapitalanlagen, Bauspar- und Versicherungsverträge vertreibt, ihre Tätigkeit dabei weitgehend selbst bestimmt und gegen den Unternehmer mit einer Stufenklage die Klärung und Auszahlung von rückverrechneten Leistungsvergütungen anstrebt, mit denen sie wegen stornierter Verträge der ihr zugeordneten Mitarbeiter belastet wurde, als - dem Risikoausschluss des Art 7.1.5 ARB zu unterstellende - Wahrnehmung rechtlicher Interessen aus dem Bereich des Handelsvertreterrechts.
+2. Zur Revision des Klägers:
+Die Beurteilung des Berufungsgerichts, der Kläger habe somit nach Art 23.1.1 ARB Versicherungsschutz „in seiner Eigenschaft als Arbeitnehmer iSd § 51 ASGG für Versicherungsfälle, die mit der Berufsausübung unmittelbar zusammenhängen“, hält sich damit ebenso im Rahmen der oberstgerichtlichen Rechtsprechung wie jene, dass der Kläger, der als arbeitnehmerähnliche Person im Rahmen eines Strukturvertriebs Finanzdienstleistungen vertreibt, seine Tätigkeit dabei weitgehend selbst bestimmt und vom Unternehmer die Zahlung eines Ausgleichsanspruchs analog § 24 HVertrG begehrt, rechtliche Interessen aus dem Bereich des Handelsvertreterrechts wahrnehme, weshalb die Rechtsverfolgung dem Risikoausschluss nach Art 7.1.5 ARB unterliege.
+Die vom Kläger ausschließlich entsprechend dem Zulassungsausspruch des Berufungsgerichts aufgezeigten Fragen sind daher nicht mehr als erheblich einzustufen und seine Revision ist daher zurückzuweisen.
+3. Zur Revision der Beklagten:
+Die Beklagte zeigt keine über den Zulassungsausspruch hinausgehende erhebliche Rechtsfrage auf.
+3.1 Sollten die nunmehr in der Revision erhobenen Ausführungen, der Kläger habe als selbstständiger Unternehmer eine sogenannte Betriebs-Rechtsschutzversicherung abgeschlossen, weshalb er innerhalb des Versicherungsbausteins „Rechtsschutz in Arbeits- und Dienstrechtssachen“ ausschließlich im Betriebsbereich und somit nur in seiner Eigenschaft als Arbeitgeber iSd § 51 ASGG versichert sei, darauf abzielen, dass ein Versicherungsschutz des Klägers im Berufsbereich nach Art 23.1.1 ARB nicht erfasst sei, so wurden derartige Behauptungen im erstgerichtlichen Verfahren nicht aufgestellt. Vielmehr brachte die Beklagte vor, dass nach Art 23 ARB der Versicherungsnehmer und seine Angehörigen nur in ihrer Eigenschaft als (echte) Arbeitnehmer und nicht als arbeitnehmerähnliche Personen versichert seien.
+3.2 Richtig ist, dass der Versicherungsfall in der Rechtsschutzversicherung hier vorliegt, wenn einer der Beteiligten begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen. Es bedarf eines gesetzwidrigen oder vertragswidrigen Verhaltens eines Beteiligten, das als solches nicht sofort oder nicht ohne weiteres nach außen zu dringen braucht. Ein Verstoß ist ein tatsächlich objektiv feststellbarer Vorgang, der immer dann, wenn er wirklich vorliegt oder ernsthaft behauptet wird, den Keim eines Rechtskonflikts in sich trägt, der zur Aufwendung von Rechtskosten führen kann. Dann beginnt sich die vom Rechtsschutzversicherer übernommene Gefahr konkret zu verwirklichen (RIS-Justiz RS0114001 [T1]).
+Wenn die Beklagte ausführt, bereits der vor Versicherungsbeginn abgeschlossene Agenturvertrag, in dem der Kläger - nach seinen Behauptungen - rechtlich unrichtig als Selbstständiger qualifiziert worden sei, trage den Keim eines nachfolgenden Rechtsstreits in sich, weil der Kläger sich zur Geltendmachung seines Ausgleichsanspruchs bloß auf die analoge Anwendbarkeit des § 24 HVertrG stützen könne, erübrigt sich ein weiteres Eingehen im Hinblick auf die im Zusammenhang mit dem Aktivprozess verneinte Deckungspflicht. Inwieweit der Agenturvertrag den Keim des Streits für die - auf einen fehlenden Provisionsanspruch gegründete - Rückforderung akontierter Provisionen im Passivprozess gegen den Kläger in sich tragen soll, lässt die Beklagte offen.
+3.3.1 Den Beweis für das Vorliegen eines Risikoausschlusses als Ausnahmetatbestand hat der Versicherer zu führen (RIS-Justiz RS0107031 [T3]).
+Zutreffend führt das Berufungsgericht aus, dass die Beklagte sich im Zusammenhang mit dem ausgedehnten - auf die Feststellung der Deckungspflicht im Passivprozess gegründeten - Klagebegehren nicht auf den Ausschlussgrund des Art 7.1.5 ARB berief.
+Wie dargelegt, ist der Risikoausschluss nach Art 7.1.5 ARB besonders anhand der faktisch ausgeübten Tätigkeit des Versicherungsnehmers und insbesondere auch der Qualität der von ihm verfolgten Ansprüche zu beurteilen. Damit geht aber der Einwand der Beklagten ins Leere, eine Differenzierung zwischen Aktiv- und Passivprozess sei nicht vorzunehmen, weshalb der zum Aktivprozess erhobene Einwand des Risikoausschlusses auch im Zusammenhang mit dem Passivprozess gelte. Vielmehr wäre es an der Beklagten gelegen, sich auch hinsichtlich der im Passivprozess geltend gemachten Ansprüche auf den Risikoausschluss nach Art 7.1.5 ARB zu berufen.
+3.3.2 Im Rahmen der Anleitungspflicht ist nur auf ein ergänzendes oder präzisierendes Vorbringen zu drängen, nicht jedoch darauf, dass ein bisher nicht erkennbares Tatsachenvorbringen erstattet werde, das für eine Partei günstiger sein könnte (RIS-Justiz RS0120057 [T7]).
+Dass das Berufungsgericht vor dem Hintergrund, dass die Beklagte die Verfahrenskosten erster Instanz im Passivprozess getragen und lediglich die Übernahme der Kostendeckung für die Rechtsmittelverfahren unter Hinweis auf deren Aussichtslosigkeit abgelehnt hatte, keine Veranlassung sah, die Beklagte zur Erhebung weiterer anspruchsvernichtender Einwände aufzufordern, ist nicht zu beanstanden.
+4. Die Kostenentscheidung gründet auf den §§ 41, 50 ZPO. Konnte der Revisionsgegner bei Erstattung der Rechtsmittelbeantwortung die Unzulässigkeit der Revision nicht erkennen, weil zu diesem Zeitpunkt jene Entscheidung des Obersten Gerichtshofs noch nicht ergangen war, welche die auch im Anlassfall entscheidungswesentliche erhebliche Rechtsfrage beantwortete, so stehen ihm in analoger Anwendung des § 50 Abs 2 ZPO die Kosten der Revisionsbeantwortung auch dann zu, wenn er auf die Unzulässigkeit der Revision nicht hinwies (RIS-Justiz RS0123861).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00009.16Y.0217.000

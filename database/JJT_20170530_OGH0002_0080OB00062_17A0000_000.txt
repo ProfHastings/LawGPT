@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2017
+Geschäftszahl
+8Ob62/17a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch den Vizepräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Brenn und die Hofrätinnen Mag. Korn und Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Parteien 1) B***** E*****, 2) N***** E*****, ebendort, beide vertreten durch die Aigner Rechtsanwalts-GmbH in Wien, gegen die beklagte Partei B***** PLC, *****, vertreten durch die Wolf Theiss Rechtsanwälte GmbH & Co KG in Wien, wegen 12.524,04 EUR sA und Rechnungslegung (Gesamtstreitwert 15.524,04 EUR), über den Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 27. März 2017, GZ 2 R 146/16d-18, mit dem der Beschluss des Handelsgerichts Wien vom 18. Juli 2016, GZ 56 Cg 210/12v-11, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren zu AZ 8 Ob 62/17a wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über den vom Obersten Gerichtshof am 10. Mai 2017 zu AZ 3 Ob 28/17i gestellten Antrag auf Vorabentscheidung unterbrochen. Nach Einlangen der Vorabentscheidung des Europäischen Gerichtshofs wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+Die Kläger – mit Wohnsitz in Österreich – haben über den Sekundärmarkt in „Zertifikate“ investiert, die einen Anteil an einem Portfolio mehrerer Zielfonds verbriefen. Bei den Zertifikaten handelt es sich um Inhaberschuldverschreibungen, deren Emittentin die beklagte Bank mit Sitz in London war; sie hat eine Zweigniederlassung in Frankfurt. Die Clearingstelle befindet sich in Deutschland; die Verwaltung des Portfolios erfolgte durch einen Investmentmanager.
+Die Kläger begehrten 12.524,04 EUR sA. Zudem erhoben sie auch ein Rechnungslegungsbegehren. Die Zuständigkeit des angerufenen Gerichts stützten sie auf Art 15, Art 5 Nr 3 sowie auf Art 5 Nr 1 EuGVVO 2001.
+Die Beklagten erhoben die Einrede der internationalen Unzuständigkeit des angerufenen Gerichts.
+Das Erstgericht sprach seine internationale Unzuständigkeit aus und wies die Klage zurück. Eine vertragliche Beziehung zwischen den Streitteilen sei nicht erkennbar. Es bestehe auch kein Hinweis darauf, dass sich der Schaden auf einem Bankkonto im Zuständigkeitsbereich des angerufenen Gerichts verwirklicht habe.
+In ihrem Rekurs gegen den Zurückweisungsbeschluss erhoben die Kläger in erster Linie eine Mängelrüge. In rechtlicher Hinsicht trugen sie vor, dass sie sich sehr wohl auf einen vertraglichen Anspruch aus der Inhaberschuldverschreibung stützen könnten.
+Das Rekursgericht bestätigte die Entscheidung des Erstgerichts. Hinsichtlich der Erfüllung der Anleihebedingungen könnten sich die Kläger auf Art 5 Nr 1 EuGVVO 2001 stützen. Der rechtliche Erfüllungsort sei jedoch nicht in Österreich gelegen. Da den Klägern der Gerichtsstand des Erfüllungsorts zur Verfügung stehe, könnten sie sich nicht auch auf Art 5 Nr 3 EuGVVO 2001 stützen. Der ordentliche Revisionsrekurs sei zulässig.
+Gegen diese Entscheidung richtet sich der Revisionsrekurs der Kläger, mit dem sie den Ausspruch anstreben, dass das angerufene Gericht international (örtlich) zuständig sei.
+Die Beklagte hat eine Revisionsrekursbeantwortung erstattet.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig, weil die Ansicht des Rekursgerichts zur Frage, ob sich die Kläger für die geltend gemachten deliktischen Ansprüche gesondert auf den Deliktsgerichtsstand berufen können, einer Korrektur durch den Obersten Gerichtshof bedarf. Zudem sind die Anknüpfungspunkte für die Bestimmung des Erfolgsorts nach Art 5 Nr 3 EuGVVO 2001 nicht restlos geklärt.
+Entgegen der Ansicht des Rekursgerichts ist der Kläger befugt, in einer Klage sowohl vertragliche als auch deliktische Ansprüche geltend zu machen. In einem solchen Fall ist die internationale Zuständigkeit für die einzelnen Ansprüche jeweils gesondert zu prüfen. Bei Ansprüchen aus der Prospekthaftung oder der Verletzung gesetzlicher Informationspflichten handelt es sich um deliktische Ansprüche im Sinn des Art 5 Nr 3 EuGVVO 2001. Die Kläger können für die geltend gemachten deliktischen Ansprüche daher diesen Gerichtsstand in Anspruch nehmen.
+Zur Konkretisierung der unionsrechtlichen Vorgaben nach Art 5 Nr 3 EuGVVO 2001 für die Bestimmung des Erfolgsorts, wenn der Geschädigte aus Wertpapiertransaktionen über mehrere Bankkonten verfügt, weil über sein Wertpapierkonto die Transaktionen und Zahlungen abgewickelt und die Aus- und Eingänge letztlich auf seinem Gehaltskonto verbucht werden, hat der dritte Senat des Obersten Gerichtshofs bei vergleichbarer Sachlage zu AZ 3 Ob 28/17i ein Vorabentscheidungsverfahren beim Europäischen Gerichtshof eingeleitet. Die in diesem Vorabentscheidungsersuchen gestellten Rechtsfragen sind auch für das hier vorliegende Verfahren präjudiziell. Über den Revisionsrekurses kann daher erst nach dem Einlangen der Vorabentscheidung des Europäischen Gerichtshofs entschieden werden.
+Das vorliegende Verfahren war daher aus prozessökonomischen Gründen zu unterbrechen (RIS-Justiz RS0110583; vgl auch 8 ObA 16/17m).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0080OB00062.17A.0530.000

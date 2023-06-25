@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2023
+Geschäftszahl
+6Ob11/23w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei T*, vertreten durch Mag. Volkan Kaya, Rechtsanwalt in Wien, wider die beklagte Partei H*, vertreten durch Mag. Gülay Aydemir, Rechtsanwältin in Wien, wegen Rechnungslegung und Zahlung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Juni 2022, GZ 5 R 28/22g-53, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger gründete seine Stufenklage (Rechnungslegung über Einnahmen/Ausgaben und sodann Zahlung von 50 % des „Guthabensbetrags“) darauf, dass er sich im Rahmen einer atypisch stillen Gesellschaft am Unternehmen des Beklagten beteiligt habe.
+[2] 		Die Vorinstanzen wiesen die Klage übereinstimmend ab. Nach der Absicht der Parteien sollte die im handschriftlich verfassten und von beiden Streitteilen unterzeichneten Vertrag genannte „Geschäftspartnerschaft“ erst mit der Unterfertigung einer notariell beglaubigten Vertragsurkunde begründet werden, nachdem der Kläger einen Kredit aufgenommen hatte. Zudem sollte die Geschäftspartnerschaft davon abhängig sein, dass der Kläger eine Einlage von 30.000 EUR leistet. Es kam in der Folge weder zur Kreditaufnahme noch zur Leistung einer Einlage durch den Kläger (und auch nicht zu einer notariell beglaubigten Vertragsurkunde).
+[3] 		Der Revisionsrekurs zeigt keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+[4] 		1. Die stille Gesellschaft ist eine Personengesellschaft (6 Ob 73/05m) in Form einer reinen Innengesellschaft (RS0035024; 8 Ob 114/02a). Sie bedarf als solche zu ihrer Begründung zwar eines Gesellschaftsvertrags, dieser kann aber formfrei und auch schlüssig abgeschlossen werden (6 Ob 502/94; Straube/V. Appl in Straube/Ratka/Rauter, UGB I4 § 179 Rz 16; Hochedlinger in Artmann UGB³ § 179 Rz 24).
+[5] 		2. Die Auslegung des behaupteten Gesellschaftsvertrags unterliegt § 914 ABGB (RS0109668; vgl auch RS0108891 [T13]). Fragen der Vertragsauslegung hängen regelmäßig von den konkreten Umständen des Einzelfalls (RS0042936) ab. Ihnen kommt somit im Regelfall keine darüber hinausreichende Bedeutung zu (zum Gesellschaftsvertrag 6 Ob 96/20s und 6 Ob 145/19w; zur Vertragsauslegung bei der stillen Gesellschaft 6 Ob 91/17a). Ein auch im Einzelfall zu korrigierendes unvertretbares Auslegungsergebnis wurde im vorliegenden Fall nicht erzielt.
+[6] 		Der Wortlaut der schriftlichen Vereinbarung wäre nur dann allein maßgeblich, wenn dazu nicht – wie hier – eine abweichende Absicht der Parteien festgestellt worden wäre (vgl RS0017915 [T35]). Zwischen den Streitteilen lag aber ein übereinstimmender, dem objektiven Erklärungswert vorgehender Wille (7 Ob 93/12w) dahin vor, dass die vom Kläger behauptete Geschäftspartnerschaft erst von – später nicht eingetretenen – Voraussetzungen abhängen sollte.
+[7] 		3. Nach ständiger Rechtsprechung kann die Beweiswürdigung im Revisionsverfahren nicht überprüft werden, es sei denn das Berufungsgericht hätte sich mit der Beweisfrage überhaupt nicht auseinandergesetzt (RS0043371). Das ist hier nicht der Fall. Im Gegenteil: Die Behauptung, das Berufungsgericht habe die Beilage ./B und ./C nicht gewürdigt, ist schlicht unrichtig.
+[8] 		Der Standpunkt der Revision, einer „ergänzenden Vertragsauslegung“ hätte es nicht bedurft, der „verfahrensgegenständlichen Vereinbarung sei eine weitere Bedingung hinzugedichtet“ worden, stellt sich als – in dritter Instanz unzulässiger (RS0042903 [T2]) – Angriff auf die Beweiswürdigung der Vorinstanzen dar.
+[9] 		4. Für das Bestehen einer „Vorgesellschaft, Vorgründungsgesellschaft“ oder eine[r] GesbR oder aber jegliche andere[r] Rechtsform“ bieten weder Vorbringen des Klägers noch der festgestellte Sachverhalt Anlass.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0060OB00011.23W.0217.000

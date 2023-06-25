@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.11.1962
+Geschäftszahl
+1Ob256/62
+Norm
+ZPO §6 (2);
+ZPO §6 (3);
+ZPO §155 (1);
+ZPO §527 (2);
+Kopf
+SZ 35/112
+Spruch
+§ 155 (1) ZPO. gilt auch für den Fall des Unterganges einer juristischen Person.
+Entscheidung vom 14. November 1962, 1 Ob 256/62.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Erstgericht hat das Verfahren als nichtig aufgehoben und die Klage zurückgewiesen, weil die beklagte Partei einen Auszug aus dem Handelsregister des Kantons Basel - Stadt vom 22. Jänner 1962 vorlegte, wonach die klagende Partei nach Schluß des Konkursverfahrens von Amts wegen gelöscht wurde. Der klagenden Partei mangle daher die Parteifähigkeit.
+Infolge Rekurses der klagenden Partei hat das Rekursgericht diesen Beschluß des Erstgerichtes aufgehoben und diesem die Fortsetzung des Verfahrens und die neuerliche Entscheidung unter Abstandnahme von dem gebrauchten Zurückweisungsgrund aufgetragen. Gleichzeitig hat das Rekursgericht gemäß § 527 (2) ZPO. angeordnet, daß mit dem Vollzug des dem Erstgericht erteilten Auftrages erst nach Rechtskraft der Entscheidung vorzugehen sei. Das Rekursgericht vertritt die Rechtsansicht, daß das Erstgericht der klagenden Partei, insbesondere unter Bedachtnahme auf die Bestimmung des § 234 ZPO., die Möglichkeit hätte geben müssen, die zur Herstellung der Rechts- und Parteifähigkeit der Klägerin notwendigen Schritte vor dem Konkursamt Basel - Stadt und dem Handelsregister Basel - Stadt gemäß § 6 ZPO. zu unternehmen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Auszugehen ist davon, daß das Erstgericht den während des Prozesses eingetretenen Verlust der Parteifähigkeit auf Seiten der klagenden Partei festgestellt hat und die Frage, ob der Verfahrensmangel im Sinne des § 6 (2) ZPO. beseitigt werden kann, verneint, demzufolge das eingeleitete Verfahren für nichtig erklärt und die Klage zurückgewiesen hat; ferner davon, daß das Rekursgericht den Beschluß des Erstgerichtes aufgehoben und diesem die Fortsetzung des Verfahrens aufgetragen hat. Es war gleich dem Erstgericht der Ansicht, daß die klagende Partei nicht parteifähig sei, hielt aber eine nachträgliche Behebung dieses Mangels für möglich und wies das Erstgericht an, die zur Behebung des Mangels der Parteifähigkeit geeigneten Maßnahmen zu treffen. Die Entscheidung des Rekursgerichtes ist somit keine solche im Sinne des § 6 (2) ZPO.; auf den angefochtenen Beschluß kann demnach die Vorschrift des § 6
+(3) ZPO. nicht ausdehnend angewendet werden, zumal es sich vorliegendenfalls nicht um einen angeblichen Mangel der Prozeßfähigkeit, der gesetzlichen Vertretung oder der Ermächtigung zur Prozeßführung handelt. Zufolge des vom Rekursgericht beigesetzten Rechtskraftvorbehalts nach § 527 (2) ZPO. kann sich daher der Oberste Gerichtshof mit dem Revisionsrekurs sachlich befassen.
+Nach § 155 (1) ZPO. wird durch den Tod einer Partei das Verfahren nur dann unterbrochen, wenn die verstorbene Partei weder durch einen Rechtsanwalt noch durch eine andere von ihr mit Prozeßvollmacht ausgestattete Person vertreten war. Daß diese Vorschrift nur für den Tod physischer Personen gelten sollte, ist dem Gesetz nicht zu entnehmen. Es sprechen auch keine hinreichenden sachlichen Gründe für die Einschränkung der Bestimmung des § 155 Abs. 1 ZPO. auf den Fall des Todes physischer Personen. Der Oberste Gerichtshof vertritt daher die Rechtsansicht, daß diese Vorschrift auch auf den Fall des "Todes einer juristischen Person", also auch auf den Fall anzuwenden ist, wenn eine Handelsgesellschaft durch Löschung im Handelsregister die Parteifähigkeit verliert. So auch Sperl, Lehrbuch, S. 197, und Fasching, Kommentar, Band II, S. 761. Die Verweisung Neumanns[4] I, S. 734, auf § 158 ZPO. erfolgt ohne nähere Begründung; § 158 ZPO. handelt überdies vom Verlust der Prozeßfähigkeit oder vom Wechsel in der Person des gesetzlichen Vertreters und nicht vom Verlust der Parteifähigkeit.
+Im vorliegenden Fall hat der gesetzliche Vertreter der klagenden Partei, das Konkursamt Basel - Stadt, einem inländischen Anwalt Prozeßvollmacht erteilt. Gemäß § 155 (1) ZPO. hat daher die Löschung der klagenden Partei im Handelsregister keinen Einfluß auf den Fortgang des Verfahrens und bedarf es daher nicht eines Vorgehens nach § 6 ZPO.
+Die Aufhebung des Beschlusses des Erstgerichtes und der Auftrag an dasselbe, das Verfahren unter Abstandnahme vom gebrauchten Zurückweisungsgrund fortzusetzen, war daher, wenn auch aus anderen Gründen, zu bestätigen.

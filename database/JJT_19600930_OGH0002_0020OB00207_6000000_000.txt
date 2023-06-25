@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.09.1960
+Geschäftszahl
+2Ob207/60
+Norm
+ABGB §1304;
+ABGB §1325;
+Kopf
+SZ 33/101
+Spruch
+Das vom Arbeitgeber bezahlte Krankenentgelt und die Verpflegskostenersparnis sind vor der Kürzung des Schadens um die Mitverschuldensquote vom Verdienstentgang abzuziehen.
+Entscheidung vom 30. September 1960, 2 Ob 207/60.
+I. Instanz: Bezirksgericht Mattersburg; II. Instanz: Landesgericht Eisenstadt.
+Text
+Der Kläger wurde bei einem Verkehrsunfall vom 23. Juni 1958 verletzt. Er begehrte vom Beklagte den Ersatz von 5478 S 77 g für Verdienstentgang.
+Der Erstrichter sprach ihm 3304 S 64 g zu, während er das Mehrbegehren von 2174 S 13 g abwies. Außerdem sprach er ihm die ganzen Kosten der Privatbeteiligung am Strafverfahren und ein Drittel der Prozeßkosten zu. Die dem erstrichterlichen Urteil zugrunde liegende Verschuldensaufteilung im Verhältnis von 1 : 2 zum Nachteil des Beklagten ist im Revisionsverfahren nicht mehr strittig. Der Erstrichter zog zunächst vom festgestellten Verdienstentgang von 10.316 S 46 g das Kranken- und Familiengeld von zusammen 4379 S 51 g, das Krankenentgelt von 630 S und die Verpflegskostenersparnis von 350 S ab und kürzte den Restbetrag um die Mitverschuldensquote.
+Das Berufungsgericht gab der Berufung des Beklagten teilweise Folge. Es berichtigte die Berechnung des Erstrichters dahin, daß es zunächst den Verdienstentgang um die Mitverschuldensquote kürzte und vom Restbetrag die vorerwähnten Beträge abzog. Es gelangte so zu dem Betrag von 1518 S 13 g, den es dem Kläger zusprach, während es das Mehrbegehren, soweit noch nicht rechtskräftig darüber abgesprochen war, abwies.
+Der Oberste Gerichtshof gab der Revision des Klägers Folge und sprach ihm einen Betrag von 1835 S 38 g zu.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Kläger wendet sich mit Recht dagegen, daß das Berufungsgericht die in der Entscheidung SZ. XXVI 87 = EvBl. 1953 Nr. 251 hinsichtlich der Berücksichtigung der Sozialversicherungsleistungen im Schadenersatzprozeß des Sozialversicherten Verletzten entwickelten Grundsätze auch auf das vom Arbeitgeber gezahlte Krankenentgelt von 630 S und auf die Verpflegskostenersparnis von 350 S anwendete.
+Erhebt ein durch Verschulden eines anderen Geschädigter, dem selber ein Mitverschulden zur Last fällt, einen Schadenersatzanspruch, so ist zunächst wie in jedem Schadenersatzprozeß die Höhe des Schadens zu ermitteln, wobei Schaden der Betrag ist, um den die wirtschaftlichen Nachteile die wirtschaftlichen Vorteile übersteigen (Geigel, Der Haftpflichtprozeß, 9. Aufl. Kap. 3 Nr. 2). Hat also das schädigende Ereignis für den Geschädigten nicht nur Nachteile, sondern auch solche Vorteile im Gefolge gehabt, die unter dem Gesichtspunkt der Vorteilsausgleichung zu berücksichtigen sind, dann ist der Schaden die Differenz zwischen den Nachteilen und den zu berücksichtigenden Vorteilen. Grundsätzlich ist also der dem mitschuldigen Geschädigten zu ersetzende Betrag in der Weise zu ermitteln, daß die Differenz zwischen den Nachteilen und den zu berücksichtigenden Vorteil an im Sinne des § 1304 ABGB. um die Mitverschuldensquote gekürzt wird.
+Diese Art der Ermittlung des vom Schädiger dem Geschädigten zu ersetzenden Betrages ist allerdings dann nicht uneingeschränkt anwendbar, wenn es sich bei den zu berücksichtigenden "Vorteilen," um solche Leistungen Dritter handelt, auf die der Ersatzanspruch des Geschädigten insoweit, als die Leistungen darin Deckung finden (Deckungsfonds), kraft Gesetzes übergeht. Der Geschädigte verliert nämlich in demselben Ausmaß, in dem sein Schaden durch die Leistungspflicht des Legalzessionars gedeckt ist, die Aktivlegitimation dem Schädiger gegenüber, während der Legalzessionar im Rahmen des Deckungsfonds Regreßansprüche gegen den Schädiger erwirkt. Der Geschädigte kann daher vom Schädiger nur einen allfälligen durch die Leistungspflicht des Legalzessionars nicht gedeckten Rest seines gemäß § 1304 ABGB. um die Mitverschuldensquote gekürzten Schadens verlangen.
+Bei der Ermittlung des Betrages, auf den der Geschädigte dem Schädiger gegenüber Anspruch hat, ist daher in derartigen Fällen der Schaden zunächst ohne Bedachtnahme auf die Leistungen des Legalzessionars zu ermitteln und um die Mitverschuldensquote zu kürzen. Von dem so errechneten Betrag sind die Leistungen des Legalzessionars in voller Höhe abzuziehen.
+Handelt es sich dagegen bloß um unter dem Gesichtspunkt der Vorteilsausgleichung zu berücksichtigende Leistungen Dritter oder um sonstige Vorteile, bei denen ein Anspruchsübergang im vorerwähnten Sinn nicht in Betracht kommt, dann verbleibt es bei der normalen Berechnung des Betrages, auf dessen Ersatz der mitschuldige Geschädigte dem Schädiger gegenüber Anspruch hat.
+Da eine dem § 332 ASVG. entsprechende Bestimmung zugunsten des vom Arbeitgeber bezahlten Krankenentgeltes nicht besteht und hinsichtlich der Verpflegskostenersparnis ein derartiger Anspruchsübergang naturgemäß überhaupt nicht in Betracht kommt, können diese beiden Beträge nur in der gleichen Weise wie die sonstigen den Schaden mindernden Vorteile berücksichtigt werden. Sie sind daher vor der Kürzung des Schadens um die Mitverschuldensquote vom Verdienstentgang von 10.316 S 46 g abzuziehen. Der Restbetrag von 9336 S 46 g ist um die Mitverschuldensquote von 3112 S 15 g zu kürzen. Von dem verbleibenden Betrag sind die Leistungen der Sozialversicherungsträger von 4379 S 51 g in voller Höhe abzuziehen, so daß sich ein Betrag von 1844 S 80 g ergibt. Da der Kläger mit seiner Revision lediglich dem Zuspruch von 1885 S 33 g begehrt, hat es bei diesem Betrag sein Bewenden.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2010
+Geschäftszahl
+5Ob115/10p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden sowie die Hofrätinnen Dr. Hurch und Dr. Lovrek und die Hofräte Dr. Höllwerth und Dr. Roch als weitere Richter in der Grundbuchsache der Antragstellerin Gemeinde K*****, vertreten durch Mag. Michaela Künzel-Painsipp, Mag. Kurt Painsipp, öffentliche Notare in Feldbach, gegen die Antragsgegnerin Maria S*****, vertreten durch Mag. Dr. Heike Berner, Rechtsanwältin in Feldbach, wegen Verbücherung einer Weganlage (§ 15 LiegTeilG), über den Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 24. Februar 2010, AZ 4 R 361/09a und 4 R 362/09y, womit infolge Rekurses der Antragsgegnerin die Beschlüsse des Bezirksgerichts Feldbach vom 5. August 2009, TZ 3628/09 und TZ 3631/09, aufgehoben wurden, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs der Antragstellerin wird zurückgewiesen.
+Die Antragsgegnerin hat die Kosten ihrer Revisionsrekursbeantwortung selbst zu tragen.
+Begründung:
+Rechtliche Beurteilung
+Das Rekursgericht hat zwar den Revisionsrekurs gegen seine Entscheidung für zulässig iSd § 62 Abs 1 AußStrG iVm § 32 LiegTeilG erklärt, weil noch keine höchstgerichtliche Rechtsprechung zum Erfordernis einer Rechtskraftbestätigung einer Planbescheinigung nach § 39 VermG bestehe, doch liegen entgegen diesem, den Obersten Gerichtshof nicht bindenden (§ 71 Abs 1 AußStrG) Ausspruch des Rekursgerichts die Voraussetzungen des § 62 Abs 1 AußStrG nicht vor.
+Dies ist wie folgt kurz zu begründen:
+Für die Anfechtung von Beschlüssen über Anträge, die von Vermessungsbehörden beurkundet wurden, gelten zufolge § 32 LiegTeilG idF BGBl I 2008/100 (im Folgenden: Grundbuchs-Novelle 2008) die Grundsätze des Verfahrens außer Streitsachen.
+Das Verfahren nach dem § 15 LiegTeilG ist jedoch ein grundbücherliches Urkundenverfahren (5 Ob 198/99z = NZ 2000/482, 348 [Hoyer]). Deshalb haben auch in diesem Verfahren die Vorschriften des Grundbuchsgesetzes, hier des § 94 Abs 1 Z 4 GBG zu gelten. Urkunden müssen in der Form vorliegen, die zur Bewilligung einer Einverleibung erforderlich sind.
+Es entspricht ständiger Rechtsprechung, dass eine Planbescheinigung nach § 39 VermG einen Bescheid der Verwaltungsbehörde darstellt, der inhaltlich vom Gericht nicht überprüfbar ist (vgl 5 Ob 23/90 = NZ 1991, 110), welche Ansicht auch von der Lehre (vgl Twaroch, Kataster- und Vermessungsrecht Anm 1 zu § 39 VermG; Kaluza/Burtscher, Das österreichische Vermessungsrecht³ Anm 1 zu § 39 VermG; Pregesbauer, Vermessungsrecht 67) und vom VwGH (vgl Zl 95/06/0012; 2007/06/0139) vertreten wird.
+Daran hat sich auch durch die Neufassung des § 39 VermG durch die GB-Nov 2008 nichts geändert, weil nach wie vor Voraussetzung der grundbücherlichen Durchführung von Plänen der in § 1 Abs 1 Z 1, 3 und 4 sowie Abs 2 LiegTeilG bezeichneten Personen oder Dienststellen die Bescheinigung des Vermessungsamts ist. Die Änderungen durch die GB-Nov 2008 betreffen insoweit nur die Behandlung der Pläne im elektronischen Verfahren (vgl 542 BlgNR 23. GP, 19).
+Das Erfordernis einer formgültigen Rechtskraftbestätigung von verwaltungsbehördlichen Bescheiden, die wie hier nach § 39 VermG die Voraussetzung für Grundbuchshandlungen sind, ist durch ständige höchstgerichtliche Rechtsprechung geklärt (vgl RIS-Justiz RS0099943 [T9; T14; T17; T19]), sodass die Geltung dieses Erfordernisses auch für Bescheide nach § 39 VermG keine Rechtsfrage iSd § 62 Abs 1 AußStrG aufwirft.
+Eine Bestätigung der Rechtskraft durch die Verwaltungsbehörde wird regelmäßig als die Gerichte bindend erachtet (vgl RIS-Justiz RS0008852). Davon zu unterscheiden ist aber die Frage der Beurteilung, ob eine Rechtskraftbestätigung der bescheiderlassenden Verwaltungsbehörde überhaupt vorliegt.
+Wenn das Rekursgericht hier die Unterfertigung samt Namensnennung und Stampiglie nur dem Bescheid- und Beurkundungswortlaut und nicht auch dem links darunter befindlichen Rechtskraftvermerk zugeordnet hat, so ist dies schon deshalb nicht zu beanstanden, weil bei dieser Gestaltung nicht mehr eindeutig ist, ob sich der Bestätigungswille des Unterfertigenden nur auf die Bescheidausfertigung oder auch auf die Rechtskraftbestätigung bzw auch die Bestätigung (Beurkundung) nach § 12 Abs 2 VermG bezogen hat (vgl 5 Ob 58/07a = NZ 2008, 59 [Hoyer]; RIS-Justiz RS0078934). Angesichts des Umstands, dass sowohl der Bescheid als auch die Rechtskraftbestätigung jeweils einer Unterfertigung des Genehmigenden iSd § 18 AVG bedurften, also jeweils gesonderte Unterschriftsvermerke zu erwarten wären, und überdies die Beurkundung nach § 12 Abs 2 VermG gesondert erfolgt sein sollte, hier aber lediglich eine Gesamtunterfertigung vorliegt, sind die Zweifel des Rekursgerichts jedenfalls begründet. Im Übrigen deckt auch die Unterfertigung der Bestätigung (Beurkundung) nach § 16 LiegTeilG diese Erklärung nicht ab (vgl nochmals 5 Ob 58/07a zur Frage der Gleichzeitigkeit der Bescheiderlassung mit der Beurkundung der Rechtskraft).
+Rechtsfragen von der Qualität des § 62 Abs 1 AußStrG liegen somit nicht vor.
+Dass das Rekursgericht die Eingabe der Antragsgegnerin, die inhaltlich als Einspruch iSd § 20 LiegTeilG ausgestaltet, jedoch als Rekurs bezeichnet wurde, zu Unrecht als Rekurs behandelt hätte, macht die Revisionsrekurswerberin nicht geltend.
+Die Antragsgegnerin hat auf die Unzulässigkeit des Revisionsrekurses nicht hingewiesen, weshalb deren Kosten iSd § 78 Abs 2 AußStrG iVm § 32 LiegTeilG nicht zur zweckentsprechenden Rechtsverteidigung notwendig waren.
+Es war daher spruchgemäß zu entscheiden.

@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2017
+Geschäftszahl
+7Ob193/17h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei M***** K*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei M***** AG, *****, vertreten durch Dr. Edwin Payr, Rechtsanwalt in Graz, wegen 263.875 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 18. September 2017, GZ 4 R 82/17s-96, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+1. Der Kläger hat mit der Beklagten einen Unfallversicherungsvertrag abgeschlossen. Vertragsgrundlage sind die AUVB 2010. Deren Art 7 lautet auszugsweise:
+„1. Wann besteht ein Anspruch auf Leistung für Dauernde Invalidität?
+Ergibt sich innerhalb eines Jahres vom Unfalltag an gerechnet, dass als Folge des Unfalles eine dauernde Invalidität (Beeinträchtigung der körperlichen oder geistigen Leistungsfähigkeit auf Lebenszeit) zurückbleibt, wird – unbeschadet der Bestimmung des Artikel 7, Punkt 5. – aus der hiefür versicherten Summe der dem Grade der Invalidität entsprechende Betrag gezahlt.
+Ein Anspruch auf Leistung für dauernde Invalidität ist innerhalb von 15 Monaten vom Unfalltag an geltend zu machen und unter Vorlage eines ärztlichen Befundberichtes, aus dem Art und Umfang der Gesundheitsschädigung und die Möglichkeit einer auf Lebenszeit dauernden Invalidität hervorgeht, zu begründen.
+...
+4. Was geschieht, wenn die Invalidität nicht eindeutig feststeht?
+Steht der Grad der dauernden Invalidität nicht eindeutig fest, sind sowohl der Versicherte als auch der Versicherer berechtigt, den Invaliditätsgrad jährlich bis vier Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen. …“
+Rechtliche Beurteilung
+2. Bei diesen Klauseln handelt es sich um Risikoausschlüsse, sodass bei Versäumen der darin genannten Ausschlussfristen der Entschädigungsanspruch erlischt (RIS-Justiz RS0109447 [T2]; RS0082292 [T11]; RS0122119). Der Versicherer ist auch von der Leistung frei, wenn sich die dauernde Invalidität erst nach Ablauf eines Jahres ergibt (RIS-Justiz RS0080040).
+3. Das Berufungsgericht hat im Rahmen der Judikatur erkannt, dass hier die Risikoausschlüsse nach Art 7  AUVB 2010 vorliegen:
+Der Anspruch wurde weder innerhalb von 15 Monaten (bei verschiedenen Funktionsstörungen [vgl RIS-Justiz RS0130798]), noch innerhalb von vier Jahren als Verschlechterung des bereits innerhalb von einem Jahr vorgelegenen Zustands geltend gemacht.
+Abgesehen davon, dass eine frühere Erkennbarkeit nicht behauptet wurde, geht aus dem Vorbringen des Klägers selbst hervor, dass ihm die depressive Symptomatik bereits aufgrund eines Sachverständigen-gutachtens vom August 2014, insbesondere eines weiteren von Dezember 2015 und dessen mündlicher Erörterung am 5. 8. 2016 bekannt wurde. Dennoch wurde der Anspruch erst am 18. 1. 2017 – und damit jedenfalls nicht unverzüglich (§ 33 VersVG) – weit außerhalb der Ausschlussfristen geltend gemacht.
+Auf die nicht geprüfte Negativfeststellung zum Eintritt der depressiven Symptomatik binnen eines Jahres nach dem Unfall und die Frage der Verjährung kommt es daher nicht an.
+4. Gemäß § 11 VersVG ist die Geldleistung des Versicherers grundsätzlich mit Beendigung der zur Feststellung des Versicherungsfalls und des Umfangs der Leistung des Versicherers nötigen Erhebungen fällig. Das ändert aber nichts daran, dass der dort nicht geregelte Verzug nach den allgemeinen Grundsätzen des § 1334 ABGB erst mit der Mahnung eintritt (RIS-Justiz RS0017614).
+Die Erwägung des Berufungsgerichts, dass hier jeweils die Einforderung (also Klage bzw Klageausdehnung) relevant ist, hält sich im Rahmen der Judikatur und ist daher nicht zu beanstanden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00193.17H.1220.000

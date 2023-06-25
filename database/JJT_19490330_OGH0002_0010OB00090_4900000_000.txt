@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.1949
+Geschäftszahl
+1Ob90/49
+Norm
+ABGB §1118;
+Mietengesetz §41;
+ZPO §575;
+Kopf
+SZ 22/41
+Spruch
+§ 575 Abs. 3 ZPO. gilt nicht für Urteile über die Verbindlichkeit des Bestandgebers zur Übergabe des Bestandgegenstandes an den Bestandnehmer.
+Entscheidung vom 30. März 1949, 1 Ob 90/49.
+I. Instanz: Bezirksgericht Hietzing; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Auf Grund des rechtskräftigen Urteils des Bezirksgerichtes Hietzing vom 9. März 1948, ONr. 47, hat der Verpflichtete ein Zimmer seiner Wohnung der betreibenden Partei binnen 14 Tagen bei Exekution geräumt zu übergeben. Während das Erstgericht auf Antrag der betreibenden Partei die zwangsweise Räumung des Zimmers auf Grund dieses Urteiles bewilligte, gab das Rekursgericht mit dem angefochtenen Beschluß dem dagegen erhobenen Rekurs des Verpflichteten Folge und wies in Abänderung des erstgerichtlichen Beschlusses den Exekutionsantrag mit der Begründung ab, daß der Exekutionstitel wegen Ablaufes der im § 575 Abs. 3 ZPO. bestimmten Frist die Vollstreckbarkeit verloren habe.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+So wie bei nicht fristgerechter Erhebung der Klage des Bestandgebers auf Zurückstellung und der Klage des Bestandnehmers auf Zurücknahme des Bestandgegenstandes gilt der Bestandvertrag auch nach § 575 Abs. 3 ZPO. dann als stillschweigend erneuert, wenn nicht rechtzeitig wegen Räumung oder Übernahme des Bestandgegenstandes Exekution beantragt wird (vgl. Materialien zu den österreichischen Zivilprozeßgesetzen I, S. 379). Diese Vermutung kann aber naturgemäß nur bei Exekutionstiteln Platz greifen, bei denen es sich um die Auflösung eines Bestandvertrages handelt. Wohl wird es nicht gerade nur eine Kündigung, ein Übergabs- oder Übernahmsauftrag oder ein über dagegen erhobene Einwendungen ergangenes Urteil sein müssen, sondern wird diese Bestimmung auch auf gerichtliche Räumungsvergleiche oder Urteile über Klagen im Sinne des § 1118 ABGB. oder über Räumungsklagen auf Grund der eingetretenen Beendigung eines Bestandverhältnisses anzuwenden sein, da bei diesen der gleiche Zustand der Unsicherheit herrscht und eine stillschweigende Erneuerung des Bestandverhältnisses Platz greifen kann. Keineswegs kann aber diese Vorschrift auf Urteile über die Verbindlichkeit des Bestandgebers zur Übergabe des Bestandgegenstandes an den Bestandnehmer ausgedehnt werden, da bei solchen eine Erneuerung des Bestandverhältnisses nicht in Frage kommt. Daraus, daß auf solche Streitigkeiten § 575 Abs. 1 ZPO. angewendet wird, kann daher nicht abgeleitet werden, daß die einen ganz anderen Zweck verfolgende Vorschrift des § 575 Abs. 3 ZPO. ebenfalls darauf anzuwenden ist. Demnach gilt die im § 575 Abs. 3 verfügte Beschränkung der Vollstreckbarkeit für den vorliegenden Exekutionstitel nicht und kann daher der Exekutionsantrag nicht wegen Ablaufes der Frist des § 575 Abs. 3 ZPO. abgewiesen werden. Damit entfällt aber auch eine Heranziehung des § 41 MietG.
+Da der Verpflichtete die erstgerichtliche Exekutionsbewilligung in seinem Rekurs lediglich wegen Ablaufes der Frist des § 575 Abs. 3 ZPO. bekämpft und das Rekursgericht bloß aus diesem Gründe den Exekutionsantrag abgewiesen hat, war dem Revisionsrekurs der betreibenden Partei Folge zu geben und der angefochtene Beschluß dahin abzuändern, daß dem Rekurs des Verpflichteten gegen die erstgerichtliche Exekutionsbewilligung nicht Folge gegeben wird.

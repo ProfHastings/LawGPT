@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.11.2014
+Geschäftszahl
+7Ob167/14f (7Ob188/14v)
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr.
+Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei I***** W*****, vertreten durch Blum, Hagen & Partner Rechtsanwälte GmbH in Feldkirch, und der Nebenintervenientin E***** Z*****, vertreten durch Rechtsanwälte Mandl GmbH in Feldkirch, gegen die beklagte Partei B***** Versicherungs-AG, *****, vertreten durch Dr. Michael Kaufmann, Rechtsanwalt in Dornbirn, wegen 42.916,87 EUR sA, über den Rekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Innsbruck als Berufungsgericht vom 29. Juli 2014, GZ 4 R 88/14v-50, womit der Antrag der klagenden Partei nach § 508 Abs 1 ZPO zurückgewiesen wurde, und über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 10. Juni 2014, GZ 4 R 88/14v-47, den
+Beschluss
+gefasst:
+Spruch
+1. Dem Rekurs wird nicht Folge gegeben.
+2. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zu 1.:
+Der Entscheidungsgegenstand, über den das Berufungsgericht entschied, überstieg 30.000 EUR. Es sprach in seinem Urteil aus, dass die ordentliche Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig sei.
+Die Klägerin stellte einen Antrag nach § 508 ZPO und verband ihn mit der Ausführung der ordentlichen Revision.
+Das Berufungsgericht wies den Antrag zurück, weil im Hinblick auf den Entscheidungsgegenstand im Berufungsverfahren § 508 Abs 1 ZPO nicht anwendbar sei. Die Klägerin habe vielmehr die Möglichkeit, eine außerordentliche Revision zu erheben.
+Dagegen richtet sich der Rekurs der Klägerin mit einem Aufhebungsantrag, hilfsweise wird ein Verbesserungsantrag gestellt.
+Rechtliche Beurteilung
+Der Rekurs ist zulässig (RIS-Justiz RS0044547, RS0044005), er ist aber nicht berechtigt.
+Der Einwand im Rekurs, das Berufungsgericht sei für die Zurückweisung einer außerordentlichen Revision nicht kompetent, geht ins Leere, weil das Berufungsgericht nur den Antrag nach § 508 Abs 1 ZPO zurückwies, nicht hingegen die Revision. Die Entscheidung des Berufungsgerichts entspricht der Gesetzeslage.
+Zu 2.:
+Die mit dem Antrag nach § 508 Abs 1 ZPO verbundene ordentliche Revision kann in eine außerordentliche Revision umgedeutet werden (RIS-Justiz RS0110049), über die gleich zu entscheiden ist.
+In der Revision werden keine erheblichen Rechtsfragen geltend gemacht:
+Besondere Versicherungsbedingungen haben Vorrang vor den Allgemeinen Bedingungen (RIS-Justiz RS0050063 [T11]).
+Der Einwand der Revisionswerberin, das Berufungsgericht sei von diesem Grundsatz abgegangen, entbehrt jeglicher Grundlage. Die Besonderen Bedingungen A 102 und F 102 geben eindeutig wieder, welche Artikel der Allgemeinen Bedingungen für die Feuerversicherung (AFB) abgeändert werden sollen. Nach dem eindeutigen Wortlaut soll der Ersatz zum Neuwert im Gegensatz zu den AFB nicht davon abhängen, dass das Gebäude einen Zeitwert von mindestens 40 % hat. Art 9 AFB (strenge Wiederherstellungsklausel) bleibt davon unberührt.
+Die strenge Wiederherstellungsklausel stellt nach ständiger Judikatur eine Risikobegrenzung dar (RIS-Justiz RS0081840). Es soll sichergestellt werden, dass der Versicherungsnehmer die Versicherungssumme nicht für frei bestimmbare Zwecke verwendet (RIS-Justiz RS0120711). Die strenge Wiederherstellungsklausel bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechten) Sicherstellung abhängt (RIS-Justiz RS0120710). Wann die Verwendung gesichert ist, ist nach Treu und Glauben zu entscheiden (RIS-Justiz RS0081868). Eine 100%ige Sicherheit kann nicht verlangt werden. Es muss ausreichen, dass angesichts der getroffenen Vorkehrungen kein vernünftiger Zweifel an der Durchführung der Wiederherstellung besteht (RIS-Justiz RS0112327, RS0119959). Der Oberste Gerichtshof hat bereits mehrfach ausgesprochen, dass die Vorlage von Kostenvoranschlägen, Absichtserklärungen des Versicherungsnehmers, die bloße Bauplanung oder eine bloß behelfsmäßige Reparatur für die Sicherung der Wiederherstellung nicht ausreichend ist (RIS-Justiz RS0112327 [T5]).
+Die Klägerin ist daher erst dann berechtigt, die Differenz zwischen Zeitwert und Neuwert zu begehren, wenn sie entweder die Wiederherstellung vorgenommen oder sie im Sinn des § 97 VersVG sichergestellt hat. Da die Klägerin einräumt, dass keine Wiederherstellung erfolgt ist und auch nicht etwa ein bindender Vertrag über die Wiederherstellung abgeschlossen wurde, hält sich die Rechtsansicht der Vorinstanzen im Rahmen der Judikatur.
+Schon im Hinblick auf § 97 VersVG kann keine Nichtigkeit der Wiederherstellungsklausel nach § 879 Abs 3 ABGB erkannt werden. Im Übrigen ist darauf hinzuweisen, dass Versicherungsnehmerin die Wohnungseigentümer-gemeinschaft ist, die grundsätzlich auch für die Instandhaltung der allgemeinen Teile des Hauses sorgt.
+Die Rechtsansicht der Vorinstanzen, dass es auf ein Verschulden der Klägerin an der unterbliebenen Wiederherstellung nicht ankommt, entspricht ebenfalls der Rechtsprechung (RIS-Justiz RS0081840 [T2]).
+Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00167.14F.1105.000

@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob54/20x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende sowie die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei D***** K*****, vertreten durch Mag. Astrid Roblyek, Rechtsanwältin in Klagenfurt am Wörthersee, gegen die beklagte Partei D***** AG *****,  vertreten durch Jarolim Partner Rechtsanwälte GmbH in Wien, wegen 7.339,70 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 31. Oktober 2019, GZ 4 R 325/19i-15, mit dem das Urteil des Bezirksgerichts Klagenfurt vom 15. Juli 2019, GZ 15 C 998/18y-11, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 833,88 EUR (darin 138,98 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Beklagte hat den Kläger zu seinem Antrag auf Abschluss einer fondsgebundenen Lebensversicherung im Jahr 2008 (ua) wie folgt belehrt:
+§ 165a VersVG: „Es besteht ein Rücktrittsrecht von 30 Tagen ab Zustandekommen des Vertrages.“
+Der bei Vertragsabschluss geltende § 165a VersVG (idF VersRÄG 2006, BGBl I 2006/95) lautete soweit hier relevant:
+„(1) Der Versicherungsnehmer ist berechtigt, binnen 30 Tagen nach seiner Verständigung vom Zustandekommen des Vertrags von diesem zurückzutreten.  …“
+Der Kläger stützte seinen Spätrücktritt von der Lebensversicherung auf die Abweichung der Belehrung der Beklagten („ab Zustandekommen des Vertrages“) vom Gesetzeswortlaut („nach seiner Verständigung vom Zustandekommen des Vertrags“).
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RS0112921; RS0112769). Liegt zu diesem Zeitpunkt bereits Rechtsprechung zur wesentlichen Frage vor, ist das Rechtsmittel an den Obersten Gerichtshof unzulässig (RS0112921 [T3]). Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Der Fachsenat hat zu 7 Ob 78/19z Folgendes ausgeführt:
+„7.1. Der Versicherungsvertrag ist grundsätzlich formfrei, er kann auch schlüssig oder mündlich abgeschlossen oder geändert werden (RS0014572). Er kommt – wie Verträge im Allgemeinen – grundsätzlich durch das Anbot und dessen Annahme zustande (§ 861 ABGB; RS0013984; Bollenberger in KBB5 § 861 Rz 1 f; Rummel in Rummel/Lukas ABGB4 § 861 Rz 1; Riedler in Schwimann/Kodek ABGB4 § 861 Rz 2 ff; uva). Für den Abschlusszeitpunkt von Verträgen kommt es daher regelmäßig auf den Zugang der (Annahme-)Erklärung an (RS0014094 [T1]; RS0014073; vgl auch RS0108978).
+7.2. Verwendet die Beklagte ein vom Interessenten an einem ihrer Produkte auszufüllendes und bei ihr einzureichendes Antragsformular, ist dem durchschnittlichen Versicherungsnehmer (vgl RS0050063; RS0081741; RS0008901) schon nach allgemeinen Grundsätzen verständlich, dass sein Antrag eine Annahme erfordert und dass damit der Vertrag zustandekommt. Dies ergibt sich auch schon allgemein verständlich aus dem Begriff 'Antrag'. Ein Antrag kann nicht ohne Annahmeerklärung des Vertragspartners ein Vertrag sein. Für diesen Fall ist der für den Versicherungsnehmer von seinem Empfängerhorizont wahrnehmbare Anknüpfungspunkt für den Zeitpunkt des Vertragsabschlusses jener des Zugangs der Polizze (vgl Schauer in Fenyves/Schauer VersVG § 165a Rz 14). Damit ist für den durchschnittlichen, redlichen und vernünftigen Versicherungsnehmer der Zeitpunkt des Zustandekommens des Vertrags und damit der Beginn der Rücktrittsfrist mit Zugang der Annahme seines Anbots durch den Versicherer klar. Der Zugang der Polizze als wirksame Annahme des Versicherungsantrags ist daher gleichzeitig die Verständigung vom Zustandekommen des Vertrags. …
+7.3. Die Belehrung des beklagten Versicherers über das Rücktrittsrecht entsprach daher § 165a VersVG in der damals geltenden Fassung und war auch richtlinienkonform.“
+2. An dieser Rechtsansicht hat der Fachsenat – auch nach Vorliegen des Urteils des EuGH vom 19. Dezember 2019 in den verbundenen Rechtssachen C-355/18 bis C-357/18 und C-479/18, – in seiner Entscheidung 7 Ob 6/20p festgehalten und betont:
+„Dass in der Belehrung auf das Zustandekommen [des Vertrags] und nicht auf die Verständigung davon Bezug genommen wurde, ist daher insofern unschädlich, als dem Kläger im Lichte des zu 7 Ob 78/19z Ausgeführten klar war, ab welchem Zeitpunkt die – der Dauer nach dem Unionsrecht ebenso wie dem § 165a VersVG (idF VersRÄG 2006) entsprechende – Rücktrittsfrist zu laufen begonnen hatte, und ihm dadurch nicht die Möglichkeit genommen wurde, unter denselben Bedingungen wie bei Mitteilung zutreffender Information sein Rücktrittsrecht auszuüben … .“
+3. Die Verneinung des Rücktrittsrechts des Klägers durch die Vorinstanzen entspricht damit im Ergebnis der Judikatur des Fachsenats. Eine erhebliche Rechtsfrage stellt sich nicht.
+4. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00054.20X.0424.000

@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2000
+Geschäftszahl
+7Ob60/00z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schalich als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofes Dr. Tittel, Hon. Prof. Dr. Danzl, Dr. Schaumüller und Dr. Kuras als weitere Richter in der Rechtssache der klagenden Partei Willibald K*****, vertreten durch Dr. Josef Ebner, Mag. Andrea Eisner, Rechtsanwälte in Wien, wider die beklagte Partei W***** Versicherungs Aktiengesellschaft, *****, vertreten durch Dr. Peter Rudeck, Dr. Gerhard Schlager, Rechtsanwälte in Wien, wegen S 78.494,25 sA, über die Revision der beklagten Partei gegen das Urteil des Handelsgerichtes Wien als Berufungsgericht vom 3. September 1999, GZ 1 R 370/99d-10, mit dem infolge Berufung der beklagten Partei das Urteil des Bezirksgerichtes für Handelssachen Wien vom 7. Juni 1999, GZ 1 C 72/99s-6, bestätigt wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit S 6.086,40 (darin enthalten S 1.014,40 an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Der klagende Installateur hat bei der beklagten Versicherung eine Haftpflichtversicherung abgeschlossen, der die AHVB 1986 zugrundegelegt wurden.
+Dem Kläger unterlief bei Installationsarbeiten ein Montagefehler (mangelhafte Verbindung zweier Rohrstücke), der zu einem Wasseraustritt im Nachbarlokal der Auftraggeberin und zu einem von dieser bezahlten erhöhten Wasserverbrauch führte. Deshalb wurde der Kläger rechtskräftig zum Ersatz in Höhe von S 59.805,77, darin S 32.936,33 für das ausgelaufene Wasser zuzüglich der Zinsen und Kosten, verurteilt und hatte selbst eigene Prozesskosten in Höhe von S 18.688,48 zu tragen.
+Der Kläger begehrte den Ersatz des ihm durch die Erfüllung der Schadenersatzverpflichtungen und der Kosten des Vorprozesses entstandenen Aufwandes aus der mit der Beklagten geschlossenen Haftpflichtversicherung.
+Die beklagte Versicherung beantragte die Abweisung des Klagebegehrens und wandte im Wesentlichen ein, dass entsprechend Art 1.2.1.1 der AHVB 1986 Vermögensschäden nur dann gedeckt seien, wenn sie auf einen versicherten Personen- oder Sachschaden zurückzuführen seien. Dieser liege nicht vor, da der Kläger nur ein von ihm ausgeführtes Werk mangelhaft erbracht habe. Für aus der Mangelhaftigkeit entstehende Gewährleistungsansprüche sei jedoch der Versicherungsschutz entsprechend Art 7.1.1 der AHVB 1986 ausgeschlossen.
+Das Erstgericht gab dem Klagebegehren statt. Es folgerte rechtlich, dass der erhöhte Wasserverbrauch in ursächlichem Zusammenhang mit der fehlerhaften Installation durch den Kläger stehe und als "unechter" Vermögensschaden zu qualifizieren sei. Für diesen habe die beklagte Versicherung einzustehen. Im Übrigen würde auch der Wasserverlust allein einen Sachschaden darstellen.
+Das Berufungsgericht gab der gegen dieses Urteil erhobenen Berufung der beklagten Partei nicht Folge. Es führte rechtlich aus, dass nur solche Vermögensschäden von der Versicherung ausgeklammert seien, die weder durch einen Personenschaden noch durch einen Sachschaden entstanden wären. Da der Ausschluss des Art 7.1.1 sich nur auf den Gewährleistungsanspruch beziehe, nicht aber die auf die mangelhafte Ausführung zurückzuführenden, nicht unmittelbar mit der Mängelbehebung zusammenhängende weitere Schäden erfasse, habe die Beklagte hier Deckung zu leisten. Im Übrigen könne auch Wasser dann, wenn es einer gesonderten wirtschaftlichen Verwendung zugeführt werde, als Sache im Sinne des § 285 ABGB und möglicher Gegenstand eines Kaufvertrages angesehen werden.
+Die ordentliche Revision erachtete das Berufungsgericht über Antrag der Beklagten nach § 508 Abs 1 ZPO als zulässig, da noch keine Judikatur des Obersten Gerichtshofes zur Frage vorliege, ob der den Wasserverlust auslösende Sachschaden bereits in der fehlerhaften Installationsarbeit verwirklicht wurde.
+Die gegen das Urteil des Berufungsgerichtes erhobene Revision ist zulässig, aber nicht berechtigt.
+Rechtliche Beurteilung
+Die Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB 1986) enthalten für die hier aufgeworfenen Fragen im Wesentlichen folgende Bestimmungen:
+"Art 1
+1. Versicherungsfall
+1.1 Versicherungsfall ist ein Schadenereignis, das dem verischerten Risiko entspringt und aus welchem dem Versicherungsnehmer Schadenersatzverpflichtungen (Pkt 2) erwachsen oder erwachsen könnten
+....
+.....
+2. Versicherungsschutz
+2.1 Im Versicherungsfall übernimmt der Versicherer
+2.1.1 die Erfüllung von Schadenersatzverpflichtungen, die dem Versicherungsnehmer wegen eines Personenschadens, eines Sachschadens oder eines Vermögensschadens, der auf einen versicherten Personen- oder Sachschaden zurückzuführen ist, auf Grund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts erwachsen .... .
+.....
+Art 7
+Ausschlüsse vom Versicherungsschutz
+1. Unter die Versicherung gemäß Art 1 fallen insbesondere nicht
+1.1 Ansprüche aus Gewährleistung für Mängel
+...."
+Voranzustellen ist nun, dass zwar von den AHVB 1986 weder Ansprüche aus Verletzung vertraglicher Erfüllungsansprüche noch Gewährleistungsansprüche abgedeckt werden, wohl aber sogenannte Mängelfolgeschäden, also Schäden die sich nicht unmittelbar auf die Erstellung des Werkes beziehen, sondern daraus resultieren, dass die mangelhafte Leistung an anderen Vermögenswerten Schäden hervorruft (vgl dazu SZ 61/80 mwN, aber auch Schauer, VVR3, 393, Prölss-Martin, VVG26, AHB § 4 Rz 74 ff, Späte, Haftpflichtversicherung, 480, ebenso § 1 Rz 68, 135). Da hier das Fehlverhalten des Klägers kausal für das Auslaufen des Wassers und damit für den von der Auftraggeberin des Klägers bezahlten Mehrverbrauch war (vgl zur Frage der Kausalkette auch Wussow, AHB8 § 1 Anm 60, S 150) hat die Beklagte also dafür einzustehen, wenn es sich um einen Sachschaden im Sinne des Art 2.1.1 der AHVB 1986 handelt. Entgegen der Auffassung der Revisionswerberin hat der erkennende Senat bereits in der Entscheidung 7 Ob 1/94 = VR 1995, Heft 6, 23 zu einem vergleichbaren Sachverhalt (Wasseraustritt wegen Abknickens eines Rohres zufolge mangelhafter Befestigung) und schon früher zu 7 Ob 9/88 (= SZ 61/80) ausgesprochen, dass Allgemeingüter wie Luft, fließendes Wasser oder Grundwasser nicht als Sachen im Sinne der §§ 285 ff ABGB angesehen werden, es sich aber anders verhält, wenn diese allgemeinen Güter abgegrenzt oder einer gesonderten wirtschaftlichen Verwendung zugeführt werden und dass deren Verlust durch den Versicherungsfall nicht einen reinen dh nicht zu deckenden Vermögensschaden, sondern einen zu deckenden Sachfolgeschaden darstellt.
+Der erkennende Senat erachtet daher einen Sachschaden im Sinne des Art 2.1.1 der AHVB 1986 dann für gegeben, wenn eine wirtschaftliche relevante Verminderung oder Aufhebung der Gebrauchsfähigkeit derartiger Güter bewirkt wurde (vgl dazu Wussow aaO, § 1 Anm 40 = S 87; im Ergebnis ähnlich Späte aaO § 1 Rz 124, 176). Im Leitungsrohr gefasstes und geführtes Wasser wurde im Übrigen schon früher von der Rechtsprechung bereits als eine Sache, die Gegenstand des Kaufvertrags sein kann, qualifiziert (vgl MGA ABGB35 § 1054 E 19 = GlUNF 3231). Durch das Versickern des dermaßen gefassten Wassers im Boden wird seine Gebrauchsfähigkeit aufgehoben und tritt damit der Schaden ein (vgl zB des versickernden Erdöls, Wussow aaO, § 1 Anm 60 = S 150; ähnlich Späte aaO § 1 Rz 124, 176, zur Ablehnung des durch das LG Hamburg verneinten Versicherungsschutzes bei einem durch eine fehlerhaft eingestellte Zündung eingetretenen Gasmehrverbrauchs, Späte aaO, 479, im Zusammenhang mit der Ausschlussklausel für Erfüllungsschäden; zur Sachbeschädigung durch Veränderung der Sacheinheiten - Späte aaO § 1 Rz 73, 138).
+Da also von einer vom Versicherungsschutz erfassten Sachbeschädigung auch hinsichtlich des durch die mangelhafte Erstellung der Wasserleitung durch das Auslaufen entstandenen Wassermehrverbrauchs auszugehen ist, war der Revision der Beklagten nicht Folge zu geben.
+Die Kostenentscheidung gründet sich auf die §§ 50 und 41 ZPO.

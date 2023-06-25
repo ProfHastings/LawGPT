@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2017
+Geschäftszahl
+4Ob125/17m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden sowie die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei R* GmbH, *, vertreten durch die Hopmeier Wagner Kirnbauer Rechtsanwälte OG in Wien, gegen die beklagte Partei Verein „B*“, *, vertreten durch Dr. Josef Unterweger, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 5. April 2017, GZ 39 R 23/17x-15, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Republik Österreich (Bund) schloss im Jahr 1988 mit dem (1978 entstandenen) Beklagten, einem gemeinnützigen Verein (damals unter dem Namen „*“), einen Mietvertrag über diverse Objekte ab, ohne einen Mietzweck schriftlich festzulegen. Die Klägerin als nunmehrige Liegenschaftseigentümerin kündigte den Bestandvertrag gerichtlich auf, und zwar ausdrücklich ohne Angabe von Kündigungsgründen, weil das Bestandobjekt nicht dem MRG unterliege.
+Das Erstgericht hob die Aufkündigung auf; das Berufungsgericht gab der Berufung der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Die Revision der Klägerin zeigt keine erhebliche Rechtsfrage auf.
+1. Aktenwidrigkeit und Mangelhaftigkeit des Berufungsverfahrens wurden geprüft; sie liegen nicht vor (§ 510 Abs 3 ZPO).
+2. Der Begriff der „Geschäftsräumlichkeit“ iSd § 1 Abs 1 MRG ist weit zu verstehen. Die Rechtsprechung stellt auf den „normalen Sprachgebrauch“ ab und versteht darunter ein dreidimensional abgeschlossenes, geschäftlichen Zwecken dienendes Gebilde (RIS-Justiz RS0110398 [T1]). Des weiteren wird der Begriff des Geschäftsraums durch den Vertragszweck bestimmt (RIS-Justiz RS0044863 [T2]; RS0110398 [T8]; RS0066884; vgl 7 Ob 66/11y, 10 Ob 1/12p). Es ist demnach nicht entscheidend, in welcher Art ein Raum nach dem Abschluss des Mietvertrags tatsächlich verwendet wird; maßgeblich ist, zu welchem Zweck er nach der Parteienabsicht bei Vertragsabschluss in Bestand gegeben bzw genommen wurde (RIS-Justiz RS0066884) oder welcher Zweck von den Parteien später einvernehmlich – allenfalls auch schlüssig – zum Vertragszweck gemacht worden ist (RIS-Justiz RS0070039; RS0069605). Bei sogenannten „neutralen Objekten“, die nicht von vornherein als Wohnungen oder Geschäftsräume anzusehen sind, liegt es am Mieter zu beweisen, dass das Objekt als Wohnung oder Geschäftsraum vermietet wurde und damit in den Anwendungsbereich des MRG fällt (RIS-Justiz RS0069390 [T2]; 7 Ob 87/16v). Die geschäftliche Tätigkeit selbst muss nicht unmittelbar im betreffenden Objekt ausgeübt werden, es genügt, wenn das Objekt diesen geschäftlichen Zwecken dient (5 Ob 120/10y mwN).
+3. Geschäftliche Tätigkeit muss durchaus nicht gewinnorientiert sein. Die Rechtsprechung stellt auf eine auf Dauer angelegte, wenn auch nicht auf Gewinn gerichtete Organisation ab, die nach dem Vertragszweck über die Privatsphäre hinausgeht. Darunter fällt auch die Entfaltung einer Tätigkeit, die humanitären, geistigen oder kulturellen Zwecken (RIS-Justiz RS0066868; RS0109648), der Erreichung eines statutenmäßigen Vereinsziels oder generell der Entfaltung einer den Aufgaben des Bestandnehmers entsprechenden Betätigung dient (10 Ob 1/12p mwN).
+4. Der Oberste Gerichtshof hat bereits ausgesprochen, dass die Tätigkeit eines nicht untersagten Vereins schlechthin geschäftliche Tätigkeit ist; es bedarf nicht der Entfaltung einer humanitären, geistigen oder kulturellen Zwecken dienenden Tätigkeit, um ein Bestandverhältnis dem § 1 Abs 1 MRG zu subsumieren, sofern die Voraussetzung einer auf Dauer angelegten Organisation des Mieters vorliegt (1 Ob 196/01g mwN; RIS-Justiz RS0066868 [T3]).
+5. An diese Grundsätze hat das Berufungsgericht angeknüpft und in Ansehung des Vertragszwecks bejaht, dass der Mietvertrag vom – zudem unter dem damaligen, den Vereinsgegenstand der chancengleichen Ausbildung und Integration Körperbehinderter zum Ausdruck bringenden Namen auftretenden – Beklagten in Ausübung geschäftlicher Tätigkeit abgeschlossen wurde. Bei Bestandverhältnissen über Geschäftsräumlichkeiten ist die Anwendbarkeit des MRG aber die Regel, die allfällige Kündigungsschutzfreiheit bildet einen von jener Partei, die daraus Rechtsfolgen ableitet, zu behauptenden Ausnahmefall (RIS-Justiz RS0044791 [T5]).
+In diesem Lichte hält sich die Auslegung der Vorinstanzen, dass das Rechtsverhältnis in den Geltungsbereich des § 1 Abs 1 MRG fällt und es an der Klägerin gelegen wäre, eine konkrete Ausnahme hiervon zu behaupten und unter Beweis zu stellen (RIS-Justiz RS0069235), im Rahmen der Rechtsprechung.
+6. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E119224

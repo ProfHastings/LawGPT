@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2015
+Geschäftszahl
+8ObA18/15b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner und den Hofrat Mag. Ziegelbauer als weitere Richter sowie die fachkundigen Laienrichter Dr. Rolf Gleißner und Ing. Thomas Bauer in der Arbeitsrechtssache der klagenden Partei C***** L***** (im Revisionsverfahren unvertreten), gegen die beklagte Partei Ö***** P***** AG, *****, vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen 4.804,71 EUR brutto sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 14. Jänner 2015, GZ 7 Ra 72/14h-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 2 ASGG, § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Der Beschluss des Berufungsgerichts, mit dem eine wegen Nichtigkeit (hier: wegen vermeintlich entschiedener Rechtssache) erhobene Berufung verworfen wurde, kann weder mit Revision noch mit Rekurs bekämpft werden (RIS-Justiz RS0043405).
+2. Ob die Vorinstanzen den zwischen den Parteien geschlossenen gerichtlichen Vergleich richtig ausgelegt haben, ist ein Frage des Einzelfalls; selbst wenn aufgrund der Feststellungen auch eine andere Auslegung vertretbar gewesen wäre, ergäbe sich noch keine im Interesse der Rechtseinheit und Rechtssicherheit zu korrigierende Fehlbeurteilung (RIS-Justiz RS0112106; RS0042555 [T1, T4]; RS0042776 [T2]; RS0044298 [T39]).
+Die Entscheidung des Berufungsgerichts liegt im Rahmen der ständigen höchstgerichtlichen Rechtsprechung, wonach die Bereinigungswirkung eines anlässlich der Auflösung eines Dauerschuldverhältnisses abgeschlossenen Generalvergleichs sich im Zweifel auf alle aus diesem Rechtsverhältnis entspringenden oder damit zusammenhängenden gegenseitigen Forderungen bezieht, die für die Parteien erkennbar waren, unabhängig davon, ob sie diese tatsächlich bedacht haben. Dies gilt auch für den Fall, dass eine Generalklausel nicht im Vergleich enthalten ist (RIS-Justiz RS0032470 [T2]; RS0032589 [T3; T11]).
+3. Einen hinreichend bestimmten Exekutionstitel stellt der Vergleich nicht dar. Dazu wäre es erforderlich, dass die geschuldete Leistung bestimmt bezeichnet ist, was sie nur dann ist, wenn sie aus den Angaben im Exekutionstitel mit ausreichender Sicherheit ableitbar ist (Jakusch in Angst² § 7 Rz 35b, 42 mwN).
+Dass die Sanierung eines unbestimmten Exekutionstitels (§ 7 Abs 1 EO) durch Titelergänzungsklage (§ 10 EO) grundsätzlich möglich ist, trifft zu. Auch in diesem Fall darf aber nicht im Wege der Titelergänzung ein neuer Exekutionstitel geschaffen werden, sondern es sollen nur die Mängel eines Exekutionstitels, der den Erfordernissen des § 7 Abs 1 EO nicht entspricht, behoben werden (RIS-Justiz RS0000562 [T1]; 3 Ob 162/13i; 3 Ob 38/15g). Der Anspruch muss daher zumindest hinreichend bestimmbar sein, was dann nicht der Fall ist, wenn - wie hier - die Parteien ohne nähere Konkretisierung bloß auf den Begriff des „Bruttomonatsgehalts“ abgestellt haben (letzter ausbezahlter Bezug oder Durchschnittsgehalt eines bestimmten Beobachtungszeitraums? Berücksichtigung von Überstundenentgelten, Zulagen oder Sachbezügen?). Ob sich die Parteien im Vorverfahren über den Begriffsinhalt einig waren, ist unmaßgeblich, wenn ihre Vorstellung nicht sicher nachvollziehbar ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:008OBA00018.15B.0929.000

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2023
+Geschäftszahl
+10ObS128/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat Mag. Ziegelbauer als Vorsitzenden, die Hofrätin Dr. Faber und den Hofrat Mag. Schober sowie die fachkundigen Laienrichter Mag. Dr. Werner Hallas (aus dem Kreis der Arbeitgeber) und Mag. Maria Buhr (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei R*, vertreten durch Mag. Christine Wernig LL.M., Rechtsanwältin in St. Veit an der Glan, gegen die beklagte Partei Österreichische Gesundheitskasse, 1030 Wien, Haidingergasse 1, wegen Beihilfe zum pauschalen Kinderbetreuungsgeld, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 8. September 2022, GZ 6 Rs 30/22m-18, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin bezog anlässlich der Geburt ihres Sohnes J* pauschales Kinderbetreuungsgeld sowie im Zeitraum von 5. Februar 2016 bis 31. Dezember 2016 Beihilfe zum pauschalen Kinderbetreuungsgeld von insgesamt 2.005,86 EUR.
+[2] 		Mit Bescheid vom 26. Mai 2021 widerrief die beklagte Österreichische Gesundheitskasse die Zuerkennung der Beihilfe zum pauschalen Kinderbetreuungsgeld für den genannten Zeitraum und verpflichtete die Klägerin zum Rückersatz der unberechtigt empfangenen 2.005,86 EUR.
+[3] 		Das Erstgericht wies die dagegen erhobene Klage ab. Es ging davon aus, dass die Klägerin zwischen 5. Februar 2016 – konkret ab 1. Juli 2016 – und 31. Dezember 2016, Einkünfte iSd § 8 Abs 1 Z 1 KBGG von 5.765,28 EUR bezogen habe. Diese seien auf einen Jahresbetrag umzurechnen und um 30 % zu erhöhen, was 8.993,84 EUR ergebe. Dieser Betrag überschreite den im Jahr 2016 geltenden Grenzbetrag von 6.400 EUR (§ 9 Abs 3 KBGG idF BGBl 2013/117 iVm § 50 Abs 7 KBGG) um mehr als 15 %.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung.
+Rechtliche Beurteilung
+[5] 		In ihrer außerordentlichen Revision zeigt die Klägerin keine Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO auf.
+[6] 		1. Die Klägerin geht davon aus, dass die Vorinstanzen Abzugsposten (etwa aliquote Werbungskosten- und Pendlerpauschale etc) nicht berücksichtigt hätten und ihre Einkünfte im Anspruchszeitraum nur 5.553,02 EUR betragen hätten. Da dies ihre gesamten Einkünfte des Jahres 2016, also für zwölf Monate, gewesen seien, müssten sie zuerst auf den Anspruchszeitraum (zehn Monate) „heruntergerechnet“ werden. Dafür sei der Betrag durch zwölf zu dividieren und dann mit der Anzahl der Anspruchsmonate zu multiplizieren. Erhöhe man das dabei erzielte Ergebnis von 4.627,52 EUR um 30 %, ergebe das 6.015,77 EUR. Erst dieser Betrag sei durch die zehn Anspruchsmonate zu dividieren und mit dem Faktor zwölf zu vervielfachen. Der so ermittelte Betrag von 7.218,93 EUR liege unterhalb der Grenze des § 8a Abs 2 KBGG.
+[7] 		2. Nach ständiger Rechtsprechung errechnet sich der maßgebliche Gesamtbetrag der Einkünfte nach § 8 Abs 1 Z 1 KBGG derart, dass die um 30 % erhöhte Summe der während der Anspruchsmonate zugeflossenen Einkünfte durch die Anzahl der Anspruchsmonate zu teilen und mit zwölf zu vervielfachen ist (RIS-Justiz RS0124063).
+[8] 		2.1. Selbst wenn man dieser Berechnungsmethode die nach Ansicht der Klägerin zwischen 5. Februar 2016 und 31. Dezember 2016 erzielten Einkünfte von 5.553,02 EUR zugrunde legt, ergibt das, worauf das Berufungsgericht hingewiesen hat, ein fiktives Jahreseinkommen von (gerundet) 8.662,70 EUR, das den Grenzbetrag von 6.400 EUR um mehr als 15 % übersteigt. Auf die Einkünfte ihres Gatten kommt es daher nicht mehr an (§ 8a Abs 2 letzter Satz KBGG).
+[9] 		2.2. Für den von der Klägerin vorgenommenen Zwischenschritt, mit dem sie die im Anspruchszeitraum erzielten mittleren Einkünfte ermittelt, indem sie ihre ausschließlich in der zweiten Jahreshälfte 2016 erzielten Einkünfte gleichmäßig auf alle Monate des Jahres aufteilt und den durchschnittlichen Monatsbetrag mit den (unstrittigen) zehn Anspruchsmonaten multipliziert, gibt es dagegen keine gesetzliche Grundlage, weil sie damit Teile ihrer im Anspruchszeitraum erzielten Einkünfte auf außerhalb davon liegende Monate (konkret: Jänner und Februar 2016) verlagert. Ihrer Berechnung liegen daher nicht mehr die im Anspruchszeitraum zugeflossenen Einkünfte, sondern die im Anspruchszeitraum erzielten Durchschnittseinkünfte zugrunde. Das widerspricht § 8 Abs 1 Z 1 erster Satz KBGG.
+[10] 		3. Angesichts dessen sind die in der Revision aufgeworfenen Fragen, ob neben den Bezügen nach § 67 EStG noch weitere Beträge abzugsfähig sind, für den Ausgang der Sache nicht relevant und damit nicht weiter zu behandeln (vgl RS0088931 [T2, T8]; RS0111271).
+[11] 		Mangels Rechtsmittels der Beklagten kann auch dahinstehen, ob die Vorinstanzen – offensichtlich mit Blick auf die (Teil-)Aufhebung des § 89 Abs 4 ASGG idF BGBl 1985/104 durch das Erkenntnis des VfGH zu G 264/2019 – einen Rückzahlungsauftrag zu Recht unterlassen haben (RS0128675; 10 ObS 95/22a).
+[12] 		4. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:010OBS00128.22D.0425.000

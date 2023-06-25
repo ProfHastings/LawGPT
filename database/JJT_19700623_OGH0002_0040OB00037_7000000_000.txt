@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.1970
+Geschäftszahl
+4Ob37/70 (4Ob52/70, 4Ob53/70, 4Ob54/70, 4Ob55/70, 4Ob56/70)
+Norm
+ZPO §236 Abs1;
+ZPO §259 Abs2;
+ZPO §411;
+Kopf
+SZ 43/110
+Spruch
+Nach rechtskräftiger Entscheidung über das Klagebegehren fehlt dem - noch offen gebliebenen - Zwischenfeststellungsantrag die Präjudizialität
+OGH 23. Juni 1970, 4 Ob 37/70 (4 Ob 52 - 56/70) (LGZ Wien 44 Cg 1/70)
+Text
+Die Kläger sind Angestellte des beklagten Sozialversicherungsträgers. Sie behaupten, zu Unrecht in die Verwendungsgruppe IV der DOAng eingestuft zu sein. Sie hätten nach ihrer Verwendung Anspruch auf Entlohnung nach der Verwendungsgruppe III der DOAng. Sie begehren in getrennten Klagen aus diesem Gründe für die Zeit vom 1. Jänner bis 30. April 1969 die Nachzahlung bestimmter Beträge.
+Das Erstgericht hat diese Klagen zur gemeinsamen Verhandlung und Entscheidung verbunden und allen Klagebegehren voll stattgegeben.
+Die beklagte Partei hat berufen und im Zuge des Berufungsverfahrens folgenden Zwischenantrag auf Feststellung gestellt: "Es wird festgestellt, daß den Klägern auf Grund ihres Dienstverhältnisses zur beklagten Partei Gehaltsansprüche gegen die beklagte Partei auf Grund der Einreihung der Kläger in die Verwendungsgruppe IV der Dienstordnung für die Verwaltungsangestellten bei den Sozialversicherungsträgern Österreichs (DOAng) zustehen."
+Das Berufungsgericht hat diesen Zwischenantrag auf Feststellung mit Beschluß zurückgewiesen und der Berufung mit Urteil nicht Folge gegeben. Die beklagte Partei bekämpft nur den Beschluß auf Zurückweisung des Zwischenantrages auf Feststellung. Die Stattgebung der Leistungsbegehren der Kläger ist somit in Rechtskraft erwachsen.
+Der Oberste Gerichtshof gab dem Rekurse der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurs gegen den Zurückweisungsbeschluß ist zulässig, weil die Rechtssache vom Berufungsgericht neu verhandelt wurde und der Zwischenantrag auf Feststellung nicht im eigentlichen Berufungsverfahren, sondern im Zuge der neuerlichen Verhandlung nach § 25 Z 3 ArbGG zurückgewiesen wurde (vgl Arb 5692, 6077, 6513 und SZ 37/126).
+Der Rekurs ist aber nicht begrundet. Das Rekursgericht hat den Zwischenantrag auf Feststellung mit der Begründung zurückgewiesen, daß der Zwischenantrag kein Recht oder Rechtsverhältnis betreffe, das im Laufe des Prozesses erst strittig wurde. Die Frage der Einstufung in die Verwendungsgruppe IV oder III sei gerade von Anfang an Prozeßstoff und werde bei der Entscheidung über das Leistungsbegehren entschieden. Werde dem Klagebegehren stattgegeben, so sei damit ausgesprochen, daß die Einstufung in die Verwendungsgruppe III berechtigt sei. Die Abweisung der Klagebegehren hingegen bedeute, daß es bei der Einstufung in die Verwendungsgruppe IV zu bleiben habe. Mehr, als daß die Klage abgewiesen werde, könne die beklagte Partei nicht begehren, aber auch nicht erreichen. Es mangle dem Antrag an der Präjudizialität und an dem Umstand, daß die Rechtskraftwirkung des Urteils über den Rechtsstreit hinausgehe.
+Dieser Rechtsansicht kam nicht gefolgt werden. Wohl setzt § 236 Abs 1 und § 259 Abs 2 ZPO "ein im Laufe des Prozesses streitig gewordenes Rechtsverhältnis oder Recht" voraus, doch bedeutet das vielmehr, daß das Recht oder Rechtsverhältnis noch während des Prozesses streitig geworden sein darf, daß also der Streitpunkt erst während des Rechtsstreites aufgetaucht sein muß. Entscheidend ist vielmehr, daß das Recht oder Rechtsverhältnis noch während des Rechtsstreites streitig ist und daß es bis zur Entscheidung über den Zwischenfeststellungsantrag streitig bleibt (JBl 1953, 76 und Fasching III 133).
+Dennoch kann dem Rekurs nicht Folge gegeben werden. Die Entscheidung in der Hauptsache (Zahlungsbegehren der Kläger) ist in Rechtskraft erwachsen. Nach § 236 Abs 1 und § 259 Abs 2 ZPO ist ein Zwischenantrag auf Feststellung nur zulässig, wenn das strittige Rechtsverhältnis oder Recht für die Entscheidung über das Klagebegehren präjudiziell ist. Die Entscheidung über das Klagebegehren ist im gegenständlichen Fall aber bereits rechtskräftig geworden und kann daher auch nicht bei einer etwaigen Stattgebung des Zwischenantrages auf Feststellung abgeändert werden. Es fehlt demnach zufolge der rechtskräftigen Entscheidung über das Klagebegehren an der in den oben bezogenen Gesetzesstellen angeführten Präjudizialität (so auch Fasching III 127 und 133). Der gestellte Zwischenantrag auf Feststellung wäre daher jedenfalls mit Rechtskraft der Entscheidung über die Klagebegehren zurückzuweisen gewesen, sodaß dem Rekurs im Ergebnis nicht Folge gegehen werden kann.

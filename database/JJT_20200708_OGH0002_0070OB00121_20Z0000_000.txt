@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.07.2020
+Geschäftszahl
+7Ob121/20z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende sowie die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei T***** S*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U***** AG, *****, vertreten durch MUSEY rechtsanwalt gmbh in Salzburg, wegen 11.198,79 EUR sA, über Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 26. März 2020, GZ 53 R 24/20s-42, mit dem das Urteil des Bezirksgerichts Salzburg vom 18. Dezember 2019, GZ 12 C 615/18v-37, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 860,64 EUR (darin 143,44 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht sprach – über Zulassungsvorstellung des Klägers nachträglich – aus, dass die ordentliche Revision zulässig sei, weil zur Frage der Bindung eines Versicherers an sein vorprozessuales Erhebungsergebnis (abseits eines einzelfallbezogenen Anerkenntnisses) keine Rechtsprechung des Obersten Gerichtshofs existiere.
+Rechtliche Beurteilung
+Weder das Berufungsgericht noch der Kläger zeigen in diesem Zusammenhang das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO auf. Die Revision ist daher entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Durch ein konstitutives Anerkenntnis wird eine bisherige Unsicherheit endgültig beseitigt; es bleibt auch gültig, wenn später eindeutig nachweisbar ist, was im Zeitpunkt des Anerkenntnisses noch strittig oder unsicher war. Das Anerkenntnis entfaltet somit wie ein Vergleich eine Bereinigungswirkung (RS0110121). Ob ein deklaratorisches (unechtes) Anerkenntnis oder ein konstitutives (echtes) Anerkenntnis vorliegt, ist durch Auslegung des Parteienwillens im Einzelfall zu ermitteln. Dabei sind vor allem die mit dem Anerkenntnis verfolgten Zwecke, die beiderseitige Interessenlage und die allgemeine Verkehrsauffassung über die Bedeutung eines solchen Anerkenntnisses maßgebend (RS0017965; RS0032666). Ein konstitutives Anerkenntnis kann sich auch nur auf den Teil einer Forderung oder deren Höhe (RS0122872) oder allein auf den Anspruchsgrund (7 Ob 9/15x mwN) beziehen. Im Zweifel gilt ein Regulierungsanbot nicht als eigenes Anerkenntnis des Versicherers dem Grunde nach (RS0032959).
+2.1. Im fraglichen Schreiben des beklagten Versicherers hat dieser auf der Basis eines eingeholten Gutachtens ausgehend von dem dort ermittelten unfallkausalen Dauerschaden von 5 % des Beinwerts eine näher bezifferte Leistung angeboten. In diesem Angebot werden keine einzelnen Gutachtenselemente, etwa der Umfang des „Gesamtdauerschadens“ und dessen unfallkausaler Anteil konkret angesprochen, sondern es wird lediglich das abschließend gewonnene Gutachtensergebnis der Leistungsberechnung zugrunde gelegt.
+2.2. Dem gegenüber vertritt der Kläger den Standpunkt, der beklagte Versicherer habe mit seinem Angebot auch bestimmte Gutachtenskomponenten, namentlich das Ausmaß des ermittelten „Gesamtdauerschadens“ und jenes seiner Unfallkausalität jeweils gesondert und konstitutiv anerkannt. Wenn die Vorinstanzen dieser Rechtsansicht des Klägers nicht gefolgt sind, liegt darin jedenfalls keine im Einzelfall aus Gründen der Rechtssicherheit aufzugreifende Abweichung von den wiedergegebenen Judikaturgrundsätzen, muss sich doch das Regulierungsangebot des beklagten Versicherers – aus der Sicht eines redlichen Erklärungsempfängers – als eine dem Versicherer sach- und fallgerecht erscheinende Bewertung des Gutachtensergebnisses darstellen und nicht als konstitutive Festlegung auf bis dahin zwischen den Parteien gar nicht angesprochene Einzelkomponenten der gutachterlichen Bewertung.
+3. Der Kläger zeigt somit das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht auf. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+4. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Der Beklagte hat inhaltlich zutreffend auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00121.20Z.0708.000

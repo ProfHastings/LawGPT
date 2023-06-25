@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.01.2014
+Geschäftszahl
+4Ob215/13s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei J***** GmbH, *****, vertreten durch Gugerbauer & Partner Rechtsanwälte KG in Wien, gegen die beklagte Partei P***** GmbH, *****, vertreten durch Dr. Peter Schaden und Mag. Werner Thurner, Rechtsanwälte in Graz, wegen Unterlassung (Streitwert 21.000 EUR), 25.000 EUR sA, Feststellung (Streitwert 21.000 EUR) und Urteilsveröffentlichung (Streitwert 5.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 2. Oktober 2013, GZ 5 R 123/13t-33, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Wie schon im Sicherungsverfahren (vgl dazu 4 Ob 231/12t) hat das Berufungsgericht auch im Hauptverfahren den Tatbestand des § 4 Abs 3 KartG (überragende Marktstellung der Beklagten im Vertikal-Verhältnis zu ihren Abnehmern oder Lieferanten) unter den hier gegebenen Umständen des Einzelfalls vertretbar verneint.
+Die Klägerin hat zu diesem Tatbestand im Hauptverfahren zwar ergänzend vorgebracht, wie viele ihrer Kunden zugleich Kunden der Beklagten seien, sie hat aber nicht ausgeführt, inwieweit diese Kundenidentität ein objektives Abhängigkeitsverhältnis begründet, aufgrund welchen Sachverhalts sie darauf angewiesen ist, dass die Beklagte die Schnittstelle der Klägerin in ihre Software einprogrammiert, und welche schwerwiegenden betriebswirtschaftlichen Nachteile ihr ohne eine derartige Programmfunktion drohen (vgl 4 Ob 119/09t - Suzuki; 4 Ob 187/02g - Alfa Romeo; 16 Ok 5/02 - Village Cinemas ua).
+Vom Bestehen einer marktbeherrschenden Stellung abgesehen, lassen sich dem festgestellten Sachverhalt auch keine Anhaltspunkte dafür entnehmen, dass die Beklagte ihre unternehmerische Entscheidung, künftig nur mit einer einzigen Verrechnungsstelle des Bundes durch Einbindung deren Schnittstelle in ihre Software enger zusammenzuarbeiten, aus unsachlichen Gründen getroffen hat.
+Die behauptete Nichtigkeit des Berufungsurteils nach § 477 Abs 1 Z 9 ZPO liegt nicht vor.

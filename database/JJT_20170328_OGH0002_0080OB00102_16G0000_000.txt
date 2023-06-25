@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.03.2017
+Geschäftszahl
+8Ob102/16g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Brenn sowie die Hofrätinnen Mag. Korn und Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Parteien 1. Mag. A* E*, 2. N* E*, beide vertreten durch Barnert Egermann Illigasch Rechtsanwälte GmbH in Wien, gegen die beklagte Partei W* W*, vertreten durch Dr. Stephan Rudolf Eberhardt, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 29. August 2016, GZ 38 R 103/16b-25, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 502 Abs 1 ZPO ist die Revision gegen das Urteil des Berufungsgerichts nur zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist.
+Eine solche Rechtsfrage wird in der außerordentlichen Revision der Klägerinnen nicht angesprochen. Die Zurückweisung des Rechtsmittels kann sich auf die Anführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Gemäß § 33 Abs 1 MRG können Mietverträge vom Mieter gerichtlich oder schriftlich, vom Vermieter jedoch nur gerichtlich gekündigt werden.
+Im Unterschied zur gerichtlichen Aufkündigung, die nach der Rechtsprechung zurückgenommen werden kann, sofern Einwendungen erhoben wurden (RIS-Justiz RS0039681 [T1]), ist die rein privatrechtlich zu beurteilende außergerichtliche Aufkündigung eine einseitige empfangsbedürftige Willenserklärung, die keiner Annahme durch den Gegner bedarf (6 Ob 686/81; 3 Ob 174/10z; RIS-Justiz RS0028555 [T3]) und ihre Wirkung mit Zugang entfaltet (Würth in Rummel, ABGB³ § 1116 Rz 2 mwN; RIS-Justiz RS0028555).
+2. Das Gebot der Schriftlichkeit bedeutet im Allgemeinen „Unterschriftlichkeit“, es sei denn, das Gesetz sieht ausdrücklich eine Ausnahme vor. Einfache, nicht mit elektronischer Signatur versehene E-Mails entsprechen mangels Unterschrift nicht dem Schriftformerfordernis des § 33 Abs 1 MRG (RIS-Justiz RS0068994 [T10] = 5 Ob 133/10k; ua Würth/Zingher/Kovanyi, Miet- und Wohnrecht23 MRG § 33 Rz 13 mwN).
+3. Die Bestimmung des § 886 ABGB über das Erfordernis der Unterschrift ist nicht nur auf Verträge, sondern auch auf einseitige Erklärungen anzuwenden, für welche das Gesetz, ohne eine entsprechende Einschränkung zu machen, Schriftlichkeit normiert (RIS-Justiz RS0017216). Das Erfordernis der Schriftform soll gewährleisten, dass aus dem Schriftstück der Inhalt der Erklärung, die abgegeben werden soll, und die Person, von der sie ausgeht, hinreichend zuverlässig entnommen werden können (RIS-Justiz RS0078934; RS0017221; vgl in Deutschland ua Häublein in MüKomm BGB7, § 568 Rn 5).
+4. Die Rechtsprechung hat die Maßgeblichkeit des § 886 ABGB regelmäßig auch in Fällen bejaht, in denen das MRG die Schriftform verlangt (vgl RIS-Justiz RS0068994 [T6, T8], RS0101797; RS0112243; RS0124342; RS0101797 [T2]; RS0112243 [T2]; RS0068994 [T11]; RS0068994).
+5. Nur im Einzelfall kann einem gesetzlichen Schriftlichkeitsgebot auch ohne Unterfertigung einer Erklärung entsprochen werden; die Zulässigkeit derartiger Ausnahmen richtet sich nach dem Zweck des jeweiligen Formgebots (5 Ob 77/98d mwN; 5 Ob 71/16a; P. Bydlinski in Koziol/Bydlinski/Bollenberger, ABGB4 § 886 Rz 7; Kalss in Klete?ka/Schauer, ABGB-ON1.03 § 886 Rz 7/1; Dullinger in Rummel/Lukas, ABGB4 § 886 Rz 5 mwN). Eine teleologische Reduktion von Formvorschriften ist aber mit größter Vorsicht handzuhaben (RIS-Justiz RS0017221 [T1, T4]).
+Der Oberste Gerichtshof hat im Anwendungsbereich des MRG die bloße Textform ohne Unterschrift in Fällen genügen lassen, in denen es nur um die Erfüllung von Informationspflichten, also darum geht, dem Empfänger bestimmte Angaben in dauerhafter Weise zur Verfügung zu stellen (vgl 5 Ob 71/16a - Mitteilung der einen Lagezuschlag rechtfertigenden Umstände).
+6. Davon zu unterscheiden ist aber die Abgabe von Willenserklärungen. Die Entscheidung des Berufungsgerichts, dass für die wirksame Kündigung eines Bestandverhältnisses durch den Mieter gemäß § 33 Abs 1 MRG aus Gründen der Rechtssicherheit und des vom Gesetz intendierten Schutzes des Mieters die strenge Schriftform im Sinne der Unterschriftlichkeit erforderlich ist, stellt keine durch den Obersten Gerichtshof korrekturbedürftige Fehlbeurteilung dar.
+Vielmehr bietet das Verfassen und Versenden einer einfachen, nicht mit einer qualifizierten elektronischen Signatur iSd § 4 Abs 1 SigG versehenen E-Mail keinen der eigenhändigen Unterfertigung eines Schriftstücks gleichwertigen Übereilungsschutz, da es an einem Akt fehlt, der die Bedeutung der Vertragserklärung besonders augenscheinlich macht (RIS-Justiz RS0068994 [T10]).
+Da im Anlassfall bereits die formalen Voraussetzungen für eine wirksame Mieterkündigung fehlten, kommt es auf die weiteren in der Revision bekämpften, letztlich zum gleichen rechtlichen Ergebnis führenden Ausführungen des Berufungsgerichts nicht mehr an.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E117745

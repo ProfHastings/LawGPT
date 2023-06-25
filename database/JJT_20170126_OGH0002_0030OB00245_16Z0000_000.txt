@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2017
+Geschäftszahl
+3Ob245/16z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei L* GmbH, *, vertreten durch Dr. Eike Lindinger, Rechtsanwalt in Wien, gegen die beklagte Partei D*, vertreten durch Sluka Hammerer Rechtsanwälte GmbH in Salzburg, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 19. Oktober 2016, GZ 40 R 143/16z-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Berufungsgericht bestätigte die Aufhebung der Aufkündigung betreffend den Mietvertrag über den Geschäftsraum top R 10 in dem der Klägerin gehörigen Haus mit der Begründung, es liege eine unzulässige Teilkündigung vor. Der Vormieter des Beklagten, dessen Unternehmen der Beklagte erworben habe, habe top R 10 und top R 7 mit einheitlichem Bestandvertrag gemietet.
+Rechtliche Beurteilung
+Die zwei in der Zulassungsbeschwerde der außerordentlichen Revision als erheblich iSd § 502 Abs 1 ZPO bezeichneten Rechtsfragen können die Zulässigkeit der Revision nicht begründen:
+1. Ein Verstoß des Berufungsgerichts gegen die Bindungswirkung einer näher bezeichneten Entscheidung eines anderen Rechtsmittelsenats desselben Gerichtshofs bzw gegen „das Gebot der Entscheidungsharmonie“ liegt nicht vor.
+1.1 Der in einem wohnrechtlichen Außerstreitverfahren ergangene Sachbeschluss, mit welchem das Rekursgericht dieses Verfahrens im Rahmen der Entscheidung über einen Zinsüberprüfungsantrag des Beklagten davon ausging, zwischen den Parteien sei unstrittig, dass über die Bestandobjekte zwei getrennte Mietverträge geschlossen wurden, hat der Beklagte als dortiger Antragsteller (zu 5 Ob 227/16t) bekämpft und ist somit nicht in Rechtskraft erwachsen. Schon aus diesem Grund besteht keine Bindungswirkung, die das Berufungsgericht verletzt haben könnte.
+1.2 Davon abgesehen nimmt die ganz überwiegende jüngere Rechtsprechung Bindungswirkung nur an die im Vorverfahren entschiedene Hauptfrage an, nicht aber an eine dort beurteilte Vorfrage (RIS-Justiz RS0041157 [T13, T19]; RS0041567 [T8]). Das Bedürfnis nach Entscheidungsharmonie kann die Grenzen der materiellen Rechtskraft nicht ausweiten (RIS-Justiz RS0102102). Ob ein einheitliches Bestandverhältnis vorliegt, ist auch in dem zwischen den Parteien anhängigen Mietzinsüberprüfungs-verfahren nur Vorfrage.
+1.3 Schließlich lässt auch das Abweichen des Berufungsgerichts von der Rechtsprechung eines anderen Gerichts zweiter Instanz die Leitfunktion des Obersten Gerichtshofs grundsätzlich unberührt. Unterschiedliche Entscheidungen zweier oder mehrerer Rechtsmittelsenate desselben Gerichtshofs auf der Ebene der Landes- und Oberlandesgerichte über identische Sachverhalte, die Ausdruck eines Wertungsspielraums nach höchstgerichtlichen Leitlinien sind, werfen für sich betrachtet keine erhebliche Rechtsfrage auf (RIS-Justiz RS0116241; 4 Ob 116/16m; Zechner in Fasching/Konecny² § 502 ZPO Rz 37).
+1.4 Insofern ist nur bedeutsam, wie sich die jeweilige Entscheidung des Rechtsmittelgerichts zur höchstgerichtlichen Rechtsprechung verhält; eine gegenteilige Entscheidung eines Gerichts zweiter Instanz kann die Erheblichkeit der Rechtsfrage daher nicht begründen (4 Ob 116/16m; RIS-Justiz RS0042690 [T5]). Das Ziel, bei verschiedenen Verfahren mit vergleichbaren Konstellationen eine „Entscheidungsharmonie“ zu erreichen, indiziert noch nicht das Vorliegen einer erheblichen Rechtsfrage (4 Ob 116/16m = RIS-Justiz RS0130286).
+1.5 Anderes gilt nur im – hier nicht vorliegenden – Fall, dass solche Entscheidungen eine vom Obersten Gerichtshof noch nicht gelöste Rechtsfrage zum Gegenstand haben, Instanzgerichte in Divergenzfällen unterschiedlichen Leitlinien der höchstgerichtlichen Rechtsprechung folgen oder die Praxis eines zweitinstanzlichen Senats von der Judikatur des Obersten Gerichtshofs abweicht (4 Ob 116/16m mwN).
+2. Wird – wie hier vom Berufungsgericht bejaht – ein einheitlicher Bestandvertrag über ein in der Vergangenheit bereits gemietetes und ein zugemietetes Objekt geschlossen, bestehen entgegen der Auffassung der Revision gerade nicht zwei Mietverträge über zwei Objekte. Vielmehr liegt ungeachtet der Ausfertigung zweier Mietvertragsurkunden rechtlich ein Mietvertrag über als Einheit anzusehende zwei Objekte vor. Die Vereinbarung der Einheitlichkeit des Bestandvertrags bezieht sich somit darauf, was Bestandgegenstand ist. An eine derartige „Hauptabrede“ (vgl RIS-Justiz RS0108138) ist der Einzelrechtsnachfolger des Vermieters jedenfalls gebunden (1 Ob 167/97h; 10 Ob 310/00m).
+3. Die außerordentliche Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E117151

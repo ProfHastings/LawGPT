@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.05.2021
+Geschäftszahl
+6Ob225/20m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek, Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Parteien 1. U********** AG, 2. C*****gmbH, beide *****, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei O***** AG, *****, vertreten durch Haslinger/Nagele Rechtsanwälte GmbH in Linz, und deren Nebenintervenienten 1. G***** AG, *****, vertreten durch Frotz Rechtsanwälte OG in Wien, 2. B***** AG, *****, vertreten durch Dr. Robert Briem Rechtsanwalt GmbH in Wien, 3. B***** AG, *****, vertreten durch Wess Kux Kispert & Eckert Rechtsanwalts GmbH in Wien, wegen Anfechtung eines Beschlusses der Hauptversammlung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 24. September 2020, GZ 3 R 85/20w-40, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Sind mindestens drei Aufsichtsratsmitglieder in einer Hauptversammlung zu wählen und hat ein Kandidat bei allen vorangehenden Wahlen mindestens ein Drittel der abgegebenen Stimmen erhalten, ohne in den Aufsichtsrat gewählt zu werden, so muss diese Person anstelle der Durchführung der Wahl für die letzte offene Aufsichtsratsposition als bestellt erklärt werden (§ 87 Abs 4 AktienG). Dabei handelt es sich um einen Beschluss (Eckert/Schopper in Artmann/Karollus, AktienG6 § 87 Rz 20 mwN).
+[2] 		2. Im vorliegenden Fall waren in der Hauptversammlung vom 14. 5. 2019 drei Aufsichtsratsmitglieder zu wählen. Um zu verhindern, dass ein von den Klägerinnen unterstützter Kandidat gemäß § 87 Abs 4 AktienG zum Zuge kam, wurde über Antrag einer Aktionärin eine Satzungsänderung beschlossen, wonach die Anzahl der Mitglieder des Aufsichtsrats um ein Mitglied von derzeit 12 Mitgliedern auf nunmehr 11 Mitglieder (ohne Einrechnung der Arbeitnehmervertreter) reduziert werden sollte.
+[3] 		3.1. Wenn das Berufungsgericht der gegen diesen Beschluss erhobenen Anfechtungsklage stattgab und den Beschluss für nichtig erklärte, ist darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung zu erblicken. Ob ein bestimmtes Verhalten eines Gesellschafters gegen seine Treuepflicht gegenüber der Gesellschaft oder Mitgesellschaftern verstößt, hängt regelmäßig von den besonderen Umständen des Einzelfalls ab (6 Ob 26/97; 6 Ob 37/08x), sodass es sich dabei in der Regel um keine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO handelt (6 Ob 37/08x). Auch ob Sittenwidrigkeit im Sinne des § 1295 Abs 2 ABGB vorliegt, ist regelmäßig eine Frage des Einzelfalls (RS0042881 [T5, T6, T8]).
+[4] 		3.2. Durch die vorgeschlagene Satzungsänderung sollte gezielt der vom Gesetz mit § 87 Abs 4 AktienG verfolgte Minderheitenschutz unterlaufen werden. Dadurch wurde verhindert, dass eine der Aktionärinnen im Aufsichtsrat vertreten war. Insoweit besteht auch gewisse Parallele zu dem der Entscheidung 6 Ob 140/20m zugrundeliegenden Sachverhalt. In dieser Entscheidung erblickte der Oberste Gerichtshof in der Vorgangsweise der Mehrheitsgesellschafterin, alle vier Aufsichtsratsmitglieder einseitig durchzusetzen, indem sie zusätzlich zu den von ihr bereits entsandten zwei Mitgliedern gegen die Stimmen der Minderheitsgesellschafterin in der Generalversammlung zwei Mitglieder mit einfacher Mehrheit wählte, einen diametralen Verstoß der Grundsatzeinigung der Gesellschafter über die Abgrenzung von Einflusssphären, der einen Verstoß gegen die Treuepflicht begründete.
+[5] 		4.1. Dass der von den Klägerinnen unterstützte Kandidat für das Amt des Aufsichtsratsmitglieds ungeeignet wäre, lässt sich aus den Feststellungen der Vorinstanzen nicht ableiten.
+[6] 		4.2. Im Übrigen wäre auch im Fall der mangelnden Eignung eines vorgeschlagenen Kandidaten eine Satzungsänderung, die im Ergebnis darauf hinausläuft, dass der betreffende Aktionär überhaupt keinen Vertreter im Aufsichtsrat stellen kann, überschießend.
+[7] 		5. Zusammenfassend bringt die Revision sohin keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00225.20M.0512.000

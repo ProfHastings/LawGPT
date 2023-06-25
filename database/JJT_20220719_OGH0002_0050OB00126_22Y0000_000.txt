@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.07.2022
+Geschäftszahl
+5Ob126/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer und Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei Stadt Wien – Wiener Wohnen, *, vertreten durch Mag. Wolfgang Kräutler, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei A*, vertreten durch Dr. Johann Gelbmann, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 28. Oktober 2021, GZ 40 R 259/21s-48, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Erstgericht gab dem Räumungsbegehren der klagenden Vermieterin statt. Die Klägerin habe das Bestandverhältnis wegen qualifizierter Mietzinsrückstände gemäß § 1118 zweiter Fall ABGB zu Recht aufgelöst. Da den Beklagten ein grobes Verschulden am Mietzinsrückstand treffe, könne eine sonst nach § 33 Abs 2 iVm Abs 3 MRG erforderliche Beschlussfassung über die Höhe der aushaftenden Mietzinsrückstände entfallen.
+[2] 		Das Berufungsgericht bestätigte diese Entscheidung.
+[3] 		In seiner außerordentlichen Revision rügt der Beklagte im Wesentlichen, dass die Vorinstanzen keinen Beschluss über die Höhe des geschuldeten Mietzinses gemäß § 33 Abs 2 iVm Abs 3 MRG gefasst haben. Damit kann er keine erhebliche Rechtsfrage aufzeigen:
+Rechtliche Beurteilung
+[4] 		Die Unterlassung eines solchen Beschlusses bewirkt einen Verfahrensmangel (RIS-Justiz RS0043204), der – wenn er vom Berufungsgericht verneint wurde – nicht mehr an den Obersten Gerichtshof herangetragen werden kann (vgl allgemein RS0042963). Gleiches gilt, wenn die angeblichen Mängel des Verfahrens erster Instanz nicht einmal Gegenstand des Berufungsverfahrens waren. Ein nicht geltend gemachter Mangel des Verfahrens erster Instanz kann mit der Revision nicht nachgetragen werden (RS0042963 [T30]).
+[5] 		Der Beklagte hat den Umstand, dass das Erstgericht keinen Beschluss nach § 33 Abs 2 MRG gefasst hat, in seiner Berufung nicht als Mangelhaftigkeit des Verfahrens gerügt. Er kann diesen angeblichen Mangel im Revisionsverfahren daher nicht mehr geltend machen.
+[6] 		Dem in der Revision mehrfach monierten angeblich fehlenden (groben) Verschulden des Beklagten an der Nichtzahlung des Bestandzinses käme nur im Rahmen der Nachzahlungsmöglichkeit nach § 33 Abs 2 MRG Bedeutung zu. Damit kann er die Zulässigkeit der Revision, weil das Berufungsgericht bei der Beurteilung dieser Frage von der ständigen Rechtsprechung abgewichen sei, ebenfalls nicht begründen.
+[7] 		Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0050OB00126.22Y.0719.000

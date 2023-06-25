@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.07.2020
+Geschäftszahl
+3Ob24/20f
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat des Obersten Gerichtshofs Dr. Roch als Vorsitzenden sowie den Hofrat Priv.-Doz. Dr. Rassi und die Hofrätinnen Mag. Korn, Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH, *****, gegen die beklagten Parteien 1. J*****, 2. C*****, beide vertreten durch Berlin & Partner Rechtsanwälte in Salzburg, wegen 62.409,06 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 44.497,96 EUR sA) gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 12. Dezember 2019, GZ 3 R 140/19g-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die klagende Rechtsanwalts-GmbH forderte von den Beklagten restliches Honorar für ihre Leistungen im Zuge des Kaufs einer erst zu errichtenden Eigentumswohnung.
+Die Vorinstanzen erkannten die von den Beklagten erklärte Anfechtung der Pauschalhonorarvereinbarung wegen laesio enormis als berechtigt und sprachen der Klägerin auf der Basis angemessener, tariflicher Berechnung der festgestellten erbrachten Leistungen einen Teilbetrag des Klagebegehrens zu.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Klägerin ist mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig. Das ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+1. Zur laesio enormis:
+1.1 Das Berufungsgericht hat den bereits in der Berufung geltend gemachten Mangel des erstgerichtlichen Verfahrens wegen eines angeblichen Verstoßes gegen die §§ 182, 182a ZPO aktenkonform verneint. Er kann daher nicht neuerlich in der Revision geltend gemacht werden (RIS-Justiz RS0042963).
+1.2 Der Vorwurf, das Vorgehen der Beklagten sei im Hinblick auf die getroffene Pauschalhonorarvereinbarung „unredlich“, übersieht, dass § 935 Halbsatz 3 ABGB das Anfechtungsrecht nur für den Fall ausschließt, dass dem Vertragspartner der wahre Wert bekannt war; das wurde von der Klägerin allerdings nicht behauptet.
+1.3 Die Klägerin bezweifelt die Möglichkeit der Anfechtung der Pauschalhonorarvereinbarung eines Rechtsanwalts wegen laesio enormis nicht, bemängelt aber die Ermittlung eines ihrer Ansicht nach zu geringen gemeinen Werts der von ihr zu erbringenden Leistungen im Rahmen der ex ante-Betrachtung mit nur 45 % des vereinbarten Pauschalhonorars. Sie vermag dazu aber keine erhebliche Rechtsfrage aufzuzeigen:
+1.3.1 Die gesonderte Entlohnung des von ihr errichteten (aber gar nicht von den Beklagten mit der Verkäuferin geschlossenen) Wohnungseigentumsvertrags scheitert schon daran, dass jede Darstellung der Kriterien für die Beurteilung ihrer Forderung fehlt, diesen „anteilig zu honorieren“ (zB Bemessungsgrundlage, Tarif, Ansatz und Größe des Anteils).
+1.3.2 Der Klägerin ist schon der Nachweis, dass es sich bei den beiden Besprechungen außerhalb ihrer Kanzlei (eine davon an einem Samstag) um ex ante voraussehbare Leistungen für die Verschaffung von Wohnungseigentum handelte, nicht gelungen. Deshalb erübrigt sich eine Auseinandersetzung mit den dazu bestehenden Tarifgrundlagen.
+1.3.3 Da der Klägerin die Darstellung einer unvertretbaren Fehlbeurteilung zu den obigen Positionen nicht gelungen ist, erübrigt sich eine Prüfung der Tarifpost für die Honorierung eines Grundbuchsgesuchs. Denn selbst bei Übernahme der Rechtsansicht der Klägerin und dementsprechender Erhöhung des Honorars um 1.200,47 EUR wären die Beklagten noch immer über die Hälfte verkürzt.
+2. Zum angemessenen Honorar (Bereicherungsanspruch):
+2.1 Zu der an einem Samstag abgehaltenen Besprechung mit den Beklagten steht weder fest, dass sie die Klägerin aus gerechtfertigten Gründen an diesem Tag vornehmen musste, noch, dass sie über Verlangen der Beklagten vorgenommen worden wäre (vgl § 3 Abs 2 NTG, der von der Verweisung des § 8 Abs 5 AHK erfasst ist [1 Ob 597/93], weshalb § 16 AHK nicht zur Anwendung kommt). Die Voraussetzungen für den begehrten ergänzenden Honoraranspruch sind daher nicht erwiesen. Dadurch, dass die Vorinstanzen dennoch eine Honorierung vornahmen, ist die Klägerin nicht beschwert.
+2.2 Im Übrigen begnügt sich die Revision zu dieser Rechtsfrage mit der wortwörtlichen Wiederholung der Ausführungen in der Berufung, sodass sie jede Auseinandersetzung mit den Argumenten des Berufungsgerichts vermissen lässt. Setzt sich die Revision mit den Argumenten des Berufungsgerichts aber nicht auseinander, ist damit die Rechtsrüge nicht gesetzmäßig ausgeführt (RS0043605; RS0043603 [T9]). Diesfalls ist es dem Obersten Gerichtshof verwehrt, inhaltliche Fragen zu klären (RS0043603 [T10]).
+3. Die Klägerin erachtet die Reglementierung des Honorars der Rechtsanwälte durch gesetzliche Festlegung eines Höchstbetrags (hier in § 18 NTG) wegen Verstoßes gegen das Recht der Erwerbsfreiheit als „EU-rechtswidrig“ und regt ein Vorabentscheidungsersuchen nach Art 267 AEUV an. Da der angesprochene Höchstbetrag hier nicht zur Anwendung gelangte und dieser Anregung neben der konkreten Nennung einer Norm auch jegliche Begründung eines Verstoßes gegen europäisches Recht ermangelt, sieht sich der erkennende Senat nicht zu der gewünschten Antragstellung veranlasst.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0030OB00024.20F.0708.000

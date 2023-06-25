@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.1997
+Geschäftszahl
+4Ob348/97y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr.Huber als Vorsitzenden, durch die Hofräte des Obersten Gerichtshofes Dr.Kodek und Dr.Niederreiter und die Hofrätinnen des Obersten Gerichtshofes Dr.Griß und Dr.Schenk als weitere Richter in der Rechtssache der klagenden Partei E***** Gesellschaft mbH & Co KG, ***** vertreten durch Dr.Christian Gassauer-Fleissner, Rechtsanwalt in Wien, wider die beklagte Partei Klaus M*****, vertreten durch Dr.Josef Klaunzer und Dr.Alfons Klaunzer, Rechtsanwälte in Innsbruck, wegen Unterlassung (Streitwert im Provisorialverfahren S 750.000), infolge außerordentlichen Revisionsrekurses der beklagten Partei gegen den Beschluß des Oberlandesgerichtes Wien als Rekursgerichtes vom 2.Oktober 1997, GZ 5 R 206/96t-10, den
+Beschluß
+gefaßt:
+Spruch
+Der außerordentliche Revisionsrekurs des Beklagten wird gemäß §§ 402 Abs 4 und 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528 a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Gegenstand der Erfindung im Sinn des § 22 iVm § 22a Patentgesetz ist der in den Patentansprüchen definierte Lösungsgedanke im Zusammenhang mit der durch ihn gelösten Aufgabe; er bestimmt den "Schutzumfang" des Patents. Entscheidend ist, wofür der Schutz in Anspruch genommen und gewährt worden ist. Dabei kommt es nicht auf den Wortlaut, sondern auf den Sinn der im Patentanspruch zum Ausdruck kommenden Erklärung an (stRspr ÖBl 1980, 121; ÖBl 1986, 147, Friebel/Pulitzer, Österreichisches Patentrecht2 190 f).
+Die Auffassung des Rekursgerichtes, wonach das gegenständliche Patent - anders als in dem der Entscheidung ÖBl 1986, 147 zugrundeliegenden Fall, in dem Schließanlagen mit einem System über und untergeordneter Schlüsselsysteme zu beurteilen waren - einzelne Flachschlüssel und Zylinderschlösser (Unikate) mit bestimmten Schlüsselprofilen schützt, ist angesichts der bei Beschreibung der Patentansprüche gewählten Formulierungen nicht zu beanstanden. Ob die Patentschrift auch eine andere Auslegung zulassen würde, hat keine über den Einzelfall hinausgehende Bedeutung.
+Ist aber der vorliegende (Unikats)Schlüssel mit einem bestimmten Profil als Gegenstand der Erfindung geschützter Patentgegenstand, stellt sich die Frage, ob der Erwerber einer patentrechtlich geschützten Schließanlage berechtigt ist, einzelne Nachschlüssel auch von Dritten anfertigen zu lassen, von vornherein nicht. Der vorliegende Unikatsschlüssel ist - anders als der Schlüssel in dem ÖBl 1986, 147 zugrundeliegenden Fall - eben nicht Ersatzteil des Patentgegenstandes, sondern selbst Gegenstand der Erfindung und als solcher patentrechtlich geschützt. Es geht im vorliegenden Fall somit nicht um die Herstellung von Nachschlüsseln im Sinne von Ersatzteilen für eine bei der Klägerin erworbene patentierte Schließanlage, sondern um den Nachbau und das Inverkehrbringen des Patentgegenstandes selbst durch den beklagten Dritten.
+Daß der vom Beklagten hergestellte Schlüsselrohling alle Patentansprüche verwirklicht, ergibt sich aus dem von der Klägerin beigebrachten Sachverständigengutachten. Der Beklagte hat eine Gegenbescheinigung nicht angetreten. Die Auffassung des Rekursgerichtes, wonach der Beklagte durch Herstellen und Inverkehrbringen von Schlüsselrohlingen das Patent der Klägerin verletzt hat, steht somit im Einklang mit dem von der Klägerin bescheinigten Sachverhalt und ist nicht zu beanstanden.

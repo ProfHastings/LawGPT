@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.2022
+Geschäftszahl
+7Ob163/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei F* GmbH, *, vertreten durch Mag. Daniel Schöpf, Rechtsanwalt in Salzburg, gegen die beklagte Partei E* Aktiengesellschaft, *, vertreten durch MUSEY rechtsanwalt gmbh in Salzburg, wegen Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 3. August 2022, GZ 6 R 88/22m-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Zwischen den Streitteilen bestand ein Versicherungsvertrag, der folgende Sparten beinhaltete:
+- Feuerversicherung
+- Total-Mietentgang-Betriebsunterbrechungsversicherung
+- Einbruchsdiebstahlversicherung
+- Leitungswasserversicherung
+- Glaspauschalversicherung
+- Sturmversicherung
+- Haftpflichtversicherung Haus/und Grundbesitz
+[2] 		Den einzelnen Sparten waren die jeweiligen Versicherungssummen, Jahresprämien und Steuern zugeordnet. Dem Versicherungsvertrag wurden unter anderem die Allgemeinen Bedingungen für die Feuerversicherung (AFB 2001), die Allgemeinen Bedingungen für die Feuer-Betriebs-Unterbrechungsversicherung (AFBUB 2001), die Allgemeinen Bedingungen für die kombinierte Betriebsunterbrechungsversicherung (AKBUB 2001) und die Klausel TU09 (Totalmietzinsentgang) zugrunde gelegt.
+[3] 		1. Die Feuerversicherung ist eine Sachversicherung, bei der grundsätzlich das Eigentümerinteresse als versichert anzusehen ist (7 Ob 205/06g). Bei der Betriebsunterbrechungsversicherung handelt es sich ebenfalls um eine Sachversicherung, bei der aber der Betrieb, wie er vom Versicherungsnehmer üblicherweise geführt wird (7 Ob 9/22g), versichert ist (RS0080975).
+[4] 		2.1 Eine „kombinierte“ Versicherung liegt vor, wenn mehrere Gefahren in einem einzigen Vertrag zusammengefasst werden, dem einheitliche Allgemeine Versicherungsbedingungen (AVB) zugrunde liegen. Die „kombinierte“ Versicherung führt zu einem Vertrag, der ein ungeteiltes rechtliches Schicksal hat. Er kann nur als Einheit abgeschlossen und beendet werden (7 Ob 29/93, 7 Ob 92/19h).
+[5] 		2.2 Von einer Bündelversicherung spricht man dagegen, wenn für die einzelnen Gefahren getrennte Verträge bestehen, die jedoch als einziges „Versicherungsprodukt“ angeboten werden, wofür in der Regel nur ein Versicherungsschein errichtet wird. Es werden mehrere rechtlich selbständige Versicherungsverträge zum Zweck der administrativen Vereinfachung in der Weise zusammengefasst, dass für sie zwar ein einheitliches Antragsformular verwendet und ein gemeinsamer Versicherungsschein ausgestellt wird, es werden aber dennoch mehrere selbständige Versicherungsverträge, für die unterschiedliche AVB zur Anwendung gelangen, abgeschlossen (7 Ob 112/16w). Die darin eingeschlossenen Sparten haben ein rechtlich selbständiges Schicksal (7 Ob 29/93; 7 Ob 264/07k mwN) und sind insoweit getrennt zu beurteilen (7 Ob 208/15m, 7 Ob 92/19h).
+[6] 		2.3 Die Rechtsansicht der Vorinstanzen, im hier vorliegenden Fall, in dem im Versicherungsvertrag eine Vielzahl unterschiedlicher Sparten eingeschlossen sei und dabei den einzelnen Sparten jeweils unterschiedliche Versicherungssummen, unterschiedliche Jahresprämien und unterschiedliche Allgemeine Vertragsbedingungen zugeordnet seien, handle es sich um eine Bündelversicherung, ist nicht zu beanstanden.
+[7] 		2.4 Davon ausgehend führten die Vorinstanzen weiters aus, die eingeschlossenen Sparten hätten ein rechtlich selbständiges Schicksal und die zur Total-Mietentgang-Betriebsunterbrechungsversicherung behauptete Verletzung einer Obliegenheit (unwahre Behauptungen über den Mietentgang) führe nicht zur Leistungsfreiheit hinsichtlich der durch den Brand verursachten – hier allein gegenständlichen – Sachschäden (an Betriebsgebäude, Lagerhaus, kaufmännische und technische Betriebseinrichtung, Waren, Vorräte) aus der Feuerversicherung. Diese Schlussfolgerung entspricht der oberstgerichtlichen Rechtsprechung (vgl 7 Ob 92/19h).
+[8] 		3. Das von den Vorinstanzen übereinstimmend bejahte rechtliche Interesse an der Feststellung der Deckungspflicht der Beklagten wird von dieser nicht mehr bezweifelt.
+[9] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00163.22D.1109.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.12.2020
+Geschäftszahl
+5Ob163/20m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerin S*****gesmbH, *****, vertreten durch die Müller Partner Rechtsanwälte GmbH in Wien, wegen Einverleibung von Dienstbarkeiten ob den EZ *****, ***** und ***** je KG *****, über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 24. Juni 2020, AZ 46 R 149/20g, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Antragstellerin beantragte die Einverleibung von Dienstbarkeiten ob mehreren Liegenschaften, die in ihrem Eigentum stehen.
+[2] 		Das Erstgericht wies den Antrag ab. Dienstbarkeiten seien beschränkte dingliche Nutzungsrechte an fremden Sachen.
+[3] 		Das Rekursgericht bestätigte diese Entscheidung. An seiner eigenen Sache könne der Eigentümer keine Dienstbarkeit begründen. Das ergebe sich aus der Definition der Dienstbarkeiten als beschränkte dingliche Nutzungsrechte an fremden Sachen („nemini res sua servit“) ebenso wie aus der allgemeinen Regel, dass niemand Rechte gegen sich selbst begründen und haben kann. Die Ausnahmen von dieser Regel seien allein in den grundbuchsrechtlichen Vorschriften begründet. Gemäß § 4 GBG werde die Erwerbung, Übertragung, Beschränkung und Aufhebung der bücherlichen Rechte nur durch ihre Eintragung in das Hauptbuch erwirkt (vgl auch § 1446 ABGB). Nur dem sei die Ausnahme ruhende Dienstbarkeit (§ 526 ABGB) geschuldet. Diese Variante setze aber voraus, dass das Recht – anders als hier – bereits vor Vereinigung verbüchert gewesen sei. Auch die Übereignung einer von zwei Liegenschaften desselben Eigentümers, von denen eine offenkundig der anderen dient und weiterhin dienen soll, sei mit der hier zu beurteilenden Konstellation nicht vergleichbar. Der Antragstellerin als Eigentümerin aller „betroffenen“ Liegenschaften stehe es frei, im Fall der Veräußerung derartige Dienstbarkeiten vertraglich zu begründen und grundbücherlich durchführen zu lassen oder im Fall einer Zwangsversteigerung einer Liegenschaft auf deren dienende oder herrschende Rolle hinzuweisen.
+Rechtliche Beurteilung
+[4] 		Gegen diese Entscheidung des Rekursgerichts richtet sich der außerordentliche Revisionsrekurs der Antragstellerin. Dieser zeigt keine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG auf und ist daher als unzulässig zurückzuweisen.
+[5] 			1. Es entspricht der ständigen Rechtsprechung des Obersten Gerichtshofs, dass solange Eigentümeridentität besteht, die Begründung einer Dienstbarkeit (eine sogenannte „Eigentümerdienstbarkeit“) nicht in Betracht kommt. Dem österreichischen Sachenrecht ist die Möglichkeit der Begründung einer Grunddienstbarkeit im Verhältnis zweier im Eigentum derselben Person stehenden Liegenschaften fremd; eine solche kann daher nicht ins Grundbuch eingetragen werden (RIS-Justiz RS0122304).
+[6] 		2.1. Gegenteilige Lehrmeinungen hat der Oberste Gerichtshof wiederholt abgelehnt (5 Ob 118/07z; 2 Ob 108/13s; zum Meinungsstand vgl Memmer in Klete?ka/Schauer, ABGB-ON1.04 § 472 Rz 1; Graf, Plädoyer für die Zulassung der Eigentümerservitut, FS Bittner 197 [198]). Die Antragstellerin zeigt auch keine neuen Argumente auf, die Anlass geben, von dieser Rechtsprechung abzugehen.
+[7] 		2.2. So ist aus § 526 ABGB für die Zulässigkeit einer Eigentümerdienstbarkeit nichts zu gewinnen. Diese Bestimmung lässt bei einer nachträglichen Vereinigung von herrschendem und dienendem Gut keine Eigentümerdienstbarkeit entstehen, sondern regelt nur, dass die bücherlich nicht gelöschte Dienstbarkeit nach erneuter Trennung der Liegenschaften wieder auflebt (2 Ob 108/13s). Diese Bestimmung regelt eine spezifische Ausnahme, die – wie das Rekursgericht zutreffend hervorhob – aus dem grundbuchsrechtlichen Kontext (unterbliebene Löschung) resultiert (5 Ob 118/07z).
+[8] 		2.3. Es ist zwar anerkannt, dass bei Übereignung einer von zwei Liegenschaften desselben Eigentümers, von denen eine offenkundig der anderen dient und weiterhin dienen soll, auch ohne spezifische Vereinbarung und Verbücherung unmittelbar durch den Übertragungsakt eine (außerbücherliche) Dienstbarkeit entsteht (RS0011618; RS0011547; RS0119170). Hintergrund dieser Rechtsprechung zum Entstehen einer Dienstbarkeit ist aber gerade der Umstand, dass das österreichische Sachenrecht eine Eigentümerservitut nicht vorsieht und der Alleineigentümer beider Liegenschaften die Dienstbarkeiten nicht begründen und ins Grundbuch eintragen lassen konnte (7 Ob 186/15a).
+[9] 		2.4. Auch die (von der Antragstellerin im Zusammenhang mit einer entsprechenden baubehördlichen Auflage für die beabsichtigte Nutzung der „herrschenden“ Liegenschaft argumentierte) wirtschaftliche Zweckmäßigkeit vermag nichts daran zu ändern, dass es für die Eintragung einer Eigentümerservitut an der gesetzlichen Grundlage fehlt (5 Ob 6/11k; 5 Ob 118/07z).
+[10] 		3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 71 Abs 3 AußStrG iVm § 126 Abs 2 GBG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0050OB00163.20M.1229.000

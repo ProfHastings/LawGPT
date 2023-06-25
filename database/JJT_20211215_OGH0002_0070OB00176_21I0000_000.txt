@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2021
+Geschäftszahl
+7Ob176/21i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei G* GmbH, *, vertreten durch Dr. Friedrich Helml, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei R* Aktiengesellschaft, *, vertreten durch die Lederer Hoff & Apfelbacher Rechtsanwälte GmbH in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. August 2021, GZ 5 R 14/21x-20, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin ist gewerbliche Vermögensberaterin im Sinn des § 94 Z 75 GewO 1994 und hat mit der Beklagten einen Berufshaftpflicht-Versicherungsvertrag abgeschlossen, dem unter anderem die Besonderen Vereinbarungen und Risikobeschreibung für Gewerbliche Vermögensberater in Österreich (FINANZPL-Ö) zugrunde liegen, die auszugsweise lauten:
+„I. Risikobeschreibung
+Versichert ist die rechtlich zulässige Tätigkeit als Gewerblicher Vermögensberater gemäß § 94 Z 75 Gewerbeordnung 1994 (GewO) i.V.m. § 136a GewO soweit sich diese bezieht auf die
+1. Beratung bei Aufbau, Sicherung und Erhaltung von Vermögen und Finanzierung mit Ausnahme der Anlageberatung in Bezug auf Finanzinstrumente (§ 3 Absatz 2 Z 1 Wertpapieraufsichtsgesetz 2007 (WAG));
+2. Vermittlung von Veranlagungen und Investitionen, ausgenommen Finanzinstrumente (§ 3 Absatz 2 Z 3 WAG);
+[…]“
+Rechtliche Beurteilung
+[2] 		1.1. Der Deckungsanspruch des Haftpflichtversicherten ist durch das versicherte Risiko spezialisiert und von dem vom Geschädigten erhobenen Anspruch abhängig (RS0081015). Zwar umfasst der Versicherungsschutz in der Haftpflichtversicherung auch die den Umständen nach gebotenen gerichtlichen und außergerichtlichen Kosten der Feststellung und Abwehr einer von einem Dritten behaupteten Schadenersatzpflicht. Versicherungsschutz besteht aber nur für die Abwehr jener Ansprüche, die grundsätzlich von der Deckungspflicht des Versicherers umfasst sind. Die Kostendeckung für die Anspruchsfeststellung und -abwehr reicht nicht weiter als das materiell gedeckte Risiko (RS0132326).
+[3] 		1.2. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind. (RS0080166 [T10]).
+[4] 		2.1. Es ist zwar richtig, dass die Klägerin nach dem vom Erstgericht festgestellten Sachverhalt auch hinsichtlich der Genussrechte Beratungsleistungen gegenüber der Anlegerin erbracht hat. Allerdings stützt die Anlegerin ihr Klagebegehren im Haftpflichtprozess im Zusammenhang mit dem Erwerb der Genussrechte der Klägerin nicht auf eine Fehlberatung, sondern darauf, dass sie weder der Überweisung der Rückkaufswerte aus aufgelösten Lebensversicherungsverträgen an die Klägerin noch dem damit finanzierten Erwerb der Genussrechte zugestimmt habe, der Erwerb aber dennoch durchgeführt wurde. Da der Deckungsanspruch der Klägerin von dem von der Anlegerin erhobenen Anspruch abhängig ist, bedarf die Rechtsansicht des Berufungsgerichts, dass die Anlegerin keine Fehlleistung bei der Beratung über Aufbau, Sicherung und Erhaltung von Vermögen und Finanzierung, sondern eine auftragswidrige Handlung des für die Klägerin tätigen Vermögensberaters geltend macht und deshalb keine Deckung gemäß Art I.1. FINANZPL-Ö besteht, keiner Korrektur durch den Obersten Gerichtshof.
+[5] 		2.2. Die Revision bezweifelt die Auslegung des Begriffs „vermitteln“ durch das Berufungsgericht.
+[6] 		2.3. Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Versicherungsbedingungen (AVB) nicht „jedenfalls“, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RS0121516 [T37]), wenn der Wortlaut der auszulegenden Klausel nicht so eindeutig ist, dass Auslegungszweifel verbleiben können (RS0121516 [T6]).
+[7] 		2.4. „Vermitteln“ bedeutet, zwei potentielle Vertragspartner zusammenzubringen und zum Geschäftsabschluss zu bewegen (vgl RS0118755 [T2]). Dieses Auslegungsergebnis ist klar und zweifelsfrei, sodass kein Auslegungsspielraum besteht. Eigengeschäfte sind davon nicht umfasst.
+Im vorliegenden Fall erwarb die Anlegerin eine schuldrechtliche Vermögensbeteiligung (Genussrecht) an der Klägerin (Emittentin), wobei die Klägerin bei diesem Geschäft durch einen selbstständigen – wie sie auch in der Revision selbst einräumt – ihr zuzurechnenden Vermögensberater vertreten war. Damit ist die Rechtsansicht des Berufungsgerichts, dass eine Vermittlung gemäß Art I.2. FINANZPL-Ö nicht vorliegt, weil sich nur die Vertragspartner – nämlich die Klägerin, vertreten durch den Vermögensberater, und die Anlegerin – gegenüberstanden, ebenfalls nicht korrekturbedürftig.
+[8] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00176.21I.1215.000

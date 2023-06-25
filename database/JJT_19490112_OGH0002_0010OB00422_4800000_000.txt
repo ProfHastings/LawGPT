@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.01.1949
+Geschäftszahl
+1Ob422/48
+Norm
+ABGB §918;
+ABGB §920;
+ABGB §1311;
+ZPO §503 Z2;
+ZPO §503 Z4;
+Kopf
+SZ 22/6
+Spruch
+Rücktritt nach § 918 ABGB. setzt nicht schuldhaften Leistungsverzug voraus.
+Entscheidung vom 12. Jänner 1949, 1 Ob 422/48.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Oberste Gerichtshof bestätigte die Entscheidung des Berufungsgerichtes, womit das erstgerichtliche Urteil bestätigt wurde.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+Klägerin hat bei der Beklagten 30.000 Stück Küchenmesser, lieferbar ab September 1947, wöchentlich mindestens 5000 Stück, bestellt und eine Anzahlung von 50.000 S geleistet. Da die Beklagte trotz wiederholter Mahnung nicht zeitgerecht mit der Lieferung begann, ist die Klägerin nach Nachfristsetzung im Dezember 1947 vom Vertrag zurückgetreten. Sie begehrt Rückzahlung der Anzahlung. Die Beklagte wendete ein, daß sie an der Verzögerung kein Verschulden treffe. Der Erstrichter hat der Klage Folge gegeben, das Berufungsgericht besätigte.
+Diese Entscheidung wird von der beklagten Partei mit Revision angefochten. Geltend gemacht werden die Revisionsgrunde des § 503 Z. 2 und 4 ZPO.
+Mit der Rechtsrüge bekämpft die Revision die Rechtsanschauung der Untergerichte, daß wegen Leistungsverzuges zurückgetreten werden könne, auch wenn dem Leistungspflichtigen kein Verschulden zur Last fällt. Die Rüge ist nicht begrundet.
+Aus § 920 ABGB. folgt, daß dem vertragstreuen Teil das Rücktrittsrecht wegen Vereitelung der Erfüllung nicht nur dann zusteht, wenn den Leistungspflichtigen ein Verschulden trifft, sondern auch, wenn der eingetretene Zufall, der die Erfüllung vereitelt hat, von ihm nicht zu vertreten ist, das heißt also, wenn sich der Zufall in seiner Person oder in seinem Vermögen ereignet hat (§ 1311 ABGB.). Wenn auch § 918 ABGB. eine wortwörtliche analoge Vorschrift nicht enthält, so wäre es doch wenig sinnvoll, den Fall der Verspätung der Erfüllung anders zu behandeln als den der Vereitlung.
+Diese Auslegung des Gesetzes entspricht auch allein den Anforderungen des Handelsverkehres, da einem Kaufmann, der nicht zeitgerecht von seinem Lieferanten beliefert wird, nicht zugemutet werden kann, zuzuwarten, bis das in der Person des Lieferpflichtigen eingetretene Hindernis beseitigt ist. Wer, wenn auch schuldlos, nicht vertragsgemäß liefern kann, weil ihn selbst sein Lieferant im Stich gelassen hat oder weil unvorhersehbare Hindernisse der Erzeugung eingetreten sind, ist daher wohl nicht schadenersatzpflichtig, kann aber nicht seinen Vertragspartner unter Berufung auf das ihm widerfahrene Mißgeschick am Rücktritt vom Vertrag hindern.
+Da sohin die Untergerichte das Rücktrittsrecht der klagenden Partei mit Recht bejaht haben, konnte der Revision keine Folge gegeben werden, da nach der vom Obersten Gerichtshof vertretenen Rechtsauffassung die geltend gemachten Verfahrensmängel rechtlich ohne Bedeutung sind.

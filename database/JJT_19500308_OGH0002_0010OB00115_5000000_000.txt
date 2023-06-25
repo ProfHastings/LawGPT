@@ -1,0 +1,47 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.03.1950
+Geschäftszahl
+1Ob115/50
+Norm
+ABGB §7;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §129;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §161;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §335;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §339;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §340;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art7 Nr. 9;
+ZPO §499;
+Kopf
+SZ 23/57
+Spruch
+Wird ein Komplementär einer Kommanditgesellschaft wegen einer Privatschuld geklagt, so kann er nicht eine der Kommanditgesellschaft gegen seinen Gläubiger zustehende Forderung aufrechnen.
+Entscheidung vom 8. März 1950, 1 Ob 115/50.
+I. Instanz: Landesgericht für Zivilrechtssachen Graz; II. Instanz:
+Oberlandesgericht Graz.
+Text
+Der Kläger behauptete in der Klage, mit der Beklagten, einer persönlich haftenden Gesellschafterin der Firma L., H. & Co., einen stillen Gesellschaftsvertrag abgeschlossen zu haben, wonach sich die beklagte Partei verpflichtete, gegen Übergabe von mehreren Maschinen im Werte von 30.000 S dem Kläger ein Fünftel derjenigen Erträge zu überlassen, die der Beklagten aus der Jahresbilanz der Firma L., H. & Co., Betriebsabteilung Maschinenbau, zukommen. Da die Beklagte ihren Verpflichtungen aus diesem Übereinkommen nicht nachkomme, die Bilanz für das Jahr 1947 verspätet legte, eine Überprüfung des Anteiles der Klägerin an Hand dieser Bilanz nicht möglich sei und gegen die Errechnung des klägerischen Anteiles Bedenken bestehen, begehre der Kläger a) den am 6. Juni 1947 zwischen ihm und der Beklagten abgeschlossenen Vertrag mit sofortiger Wirkung für aufgehoben zu erklären, b) die Beklagte zur Rechnungslegung hinsichtlich des Reingewinnanteiles für das Jahr 1948 und zur Rückzahlung der Einlage von 30.000 S zu verhalten.
+Die beklagte Partei hat bestritten, daß durch das obgenannte Übereinkommen ein stiller Gesellschaftsvertrag entstanden sei, und ausgeführt, daß sie ihren Verpflichtungen aus dem Übereinkommen immer nachgekommen sei. Eine Abrechnung über das Jahr 1948 sei noch nicht gelegt worden, weil bis zum Zeitpunkt der Klagseinbringung die Bilanz der Firma L., H. & Co. noch nicht erstellt gewesen sei.
+Hinsichtlich der Klagsforderung von 30.000 S machte die Beklagte compensando eine Gegenforderung geltend, u. zw. 1. den ihr als Gesellschafterin zu 19/20 Anteilen zustehenden Ersatzanspruch aus der Beschädigung einer Eisenschnellhobelmaschine per 14.649 S, 2. den ihr als Gesellschafterin zu 19/20 Anteilen zustehenden Ersatzanspruch aus der mißlungenen Herstellung von Bandsägen per
+33.158 S. Das Erstgericht hat folgenden Sachverhalt als erwiesen angenommen:
+Die beklagte Partei ist Komplementär der Kommanditgesellschaft L., H. & Co., deren weiterer Komplementär Paul L. und deren Kommanditist Aurelia L. ist.
+Mit Übereinkommen vom 6. Juni 1947 hat der Kläger seine Maschinen in das Eigentum der Beklagten übergeben, wofür die Beklagte sich verpflichtete, ein Fünftel derjenigen Erträgnisse dem Kläger zu überlassen, die sie aus der Jahresbilanz der Firma L., H. & Co., Betriebsabteilung Maschinenbau, erhält.
+Die Bilanz und Abrechnung für das Jahr 1948 hat die Beklagte im Laufe des Prozesses dem Kläger übermittelt.
+In rechtlicher Hinsicht führte das Erstgericht aus, daß zwischen den Parteien auf Grund des Übereinkommens vom 6. Juni 1947 keine stille Gesellschaft entstanden sei, da gemäß § 335 HGB. eine solche Gesellschaft nur dann entstehe, wenn der stille Gesellschafter sich an einem Handelsgewerbe eines anderen, welches dieser in seinem Namen betreibt, beteilige. Selbst wenn aber das Vertragsverhältnis zwischen den Parteien als ein stilles Gesellschaftsverhältnis anzusehen sei, sei der Kläger lediglich nur gemäß § 339 HGB. zur Kündigung berechtigt. In diesem Falle sei aber der Anspruch des Klägers auf Auszahlung der 30.000 S noch nicht fällig, da die Beklagte sich gemäß § 340 HGB. mit dem stillen Gesellschafter erst auseinanderzusetzen und dessen Guthaben zu berichtigen habe.
+Das Erstgericht hat die Beklagte nur schuldig erklärt, über den Gewinnanteil für das Jahr 1948 dem Kläger Rechnung zu legen, und ging im übrigen mit einer Abweisung des Klagebegehrens vor.
+Gegen das Urteil haben beide Parteien Berufung eingelegt.
+Das Berufungsgericht hat der Berufung der Beklagten Folge gegeben und das angefochtene Urteil dahin abgeändert, daß auch das Begehren auf Rechnungslegung für das Jahr 1948 abgewiesen wurde.
+Der hinsichtlich des abweisenden Teiles des Klagebegehrens erhobenen Berufung des Klägers hat das Berufungsgericht Folge gegeben, das angefochtene Urteil aufgehoben und die Rechtssache in diesem Umfang zur neuerlichen Verhandlung und Entscheidung an das Erstgericht unter Rechtskraftvorbehalt zurückverwiesen. Unter Übernahme der erstrichterlichen Feststellungen führte das Berufungsgericht aus, daß es zwar richtig sei, daß das zwischen den Streitteilen bestehende Rechtsverhältnis deshalb nicht als stille Gesellschaft im Sinne der §§ 335 ff. HGB. bewertet werden könne, weil eine solche die Beteiligung an dem Handelsgewerbe voraussetze, welches ein anderer als Alleininhaber betreibt. Im übrigen träfen aber die Merkmale einer stillen Gesellschaft auf das zwischen den Streitteilen begrundete Rechtsverhältnis zu, weshalb dieses Rechtsverhältnis zwar als ein solches eigener Art zu behandeln ist, gemäß § 7 ABGB. jedoch nichtsdestoweniger den Bestimmungen des Handelsgesetzbuches über die stille Gesellschaft zu unterstellen sei. Diese Rechtsansicht hat das Berufungsgericht bindend gemäß § 499 Abs. 2 ZPO. ausgesprochen.
+Unter Hinweis auf dieselbe Gesetzesstelle hat das Berufungsgericht weiters seiner Rechtsansicht dahin Ausdruck verliehen, daß die von der Beklagten einredeweise eingewendeten Gegenforderungen von 14.649 S (Ersatzanspruch der Firma L., H. & Co. aus der Beschädigung der Eisenschnellhobelmaschine) und von 33.158 S (Schadenersatzanspruch der Firma L., H. & Co. aus der mißlungenen Herstellung von Bandsägen) sich zur Aufrechnung gegen die Klagsforderung nicht eignen, weil nach dem eigenen Vorbringen der Beklagten diese Forderung nicht der Beklagten, sondern der Kommanditgesellschaft L., H. & Co. zustehen.
+Der Oberste Gerichtshof gab dem Rekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach dem eigenen Vorbringen der Beklagten wurde der Kläger von der Firma L., H. & Co. zu einer Mitarbeiterschaft herangezogen und hat anläßlich des Abladens einer Eisenschnellhobelmaschine absichtlich der obgenannten Firma einen Schaden von 15.420 S zugefügt. Weiters soll der Kläger der obgenannten Firma durch unsachgemäße Herstellung von Bandsägen einen Schaden von 35.746 S zugefügt haben.
+Wie sich aus diesem Vorbringen der Beklagten ergibt, stehen somit diese beiden Schadenersatzforderungen der Kommanditgesellschaft L., H. & Co. zu.
+Bei der Entscheidung der hier vorliegenden Rechtsfrage muß davon ausgegangen werden, daß die Kommanditgesellschaft, wie auch eine offene Handelsgesellschaft, keine juristische Person ist, sondern Träger der Rechte und Pflichten die Gesellschafter sind, denen das Gesellschaftsvermögen, daher auch die geltend gemachten Schadenersatzforderungen zur gesamten Hand zustehen (Art. 7 Nr. 9 der 4. EVzHGB.).
+Dieses Gesamtverhältnis hat aber zur Folge, daß die Forderungen der Gesellschaft nicht einem Gesellschafter allein, sondern ihm zwar als ungeteiltes Ganzes, aber nur in Verbindung mit den anderen Gesellschaftern gehören, so daß die Forderungen nicht einmal nach Quoten unter den Gesellschaftern geteilt sind.
+Das Gesellschaftsvermögen ist ein Sondervermögen, das einerseits den Gesellschaftern zur gesamten Hand zusteht und den Gesellschaftsgläubigern verhaftet ist, aber auch dem Zugriff der Privatgläubiger eines Gesellschafters entzogen ist.
+Forderungen der Privatgläubiger eines Gesellschafters berühren daher den Rechtskreis der Kommanditgesellschaft überhaupt nicht.
+Aus dieser verschiedenen Rechtsstellung ergibt sich daher, daß dem Gesellschafter, der wegen einer nur seine Person treffenden Privatschuld geklagt wird, nicht das Recht zusteht, mit einer der Kommanditgesellschaft gegen seinen Gläubiger zustehenden Forderungen zu kompensieren, da er damit über fremdes Vermögen verfügen würde (RGZ. 10, 49; 31, 84; Schlegelberger, Kommentar, I, S. 471. ACl. 2649).
+Da die rechtliche Beurteilung des Berufungsgerichtes hinsichtlich der geltend gemachten Gegenforderung geteilt wird, war dem Rekurs daher der Erfolg zu versagen.

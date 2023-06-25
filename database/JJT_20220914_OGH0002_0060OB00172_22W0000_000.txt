@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.09.2022
+Geschäftszahl
+6Ob172/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei I* W*, vertreten durch Wallner Jorthan Rechtsanwalts GmbH in Wien, gegen die beklagte Partei E* GmbH, *, vertreten durch Held Berdnik Astner & Partner Rechtsanwälte GmbH in Graz, wegen Unterlassung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 10. Februar 2022, GZ 5 R 118/21v-26, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 28. April 2021, GZ 14 Cg 107/20f-13, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.175,22 EUR (darin enthalten 195,87 EUR an Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn sie vor der Erledigung des Rechtsmittels bereits durch eine andere Entscheidung des Obersten Gerichtshofs geklärt wurde (RS0112921 [T5]; 2 Ob 98/22h).
+[2] 		2. Die vom Berufungsgericht und von der Klägerin bezeichnete Rechtsfrage betreffend die Duldung des gesetzlich vorgeschriebenen Einbaus von intelligenten Stromzählern wurde inzwischen in der Entscheidung 6 Ob 36/22w (siehe auch 9 Ob 82/21f), der eine in wesentlichen Teilen wortidente Revision derselben Klagevertreterin zugrunde lag, im Sinn des Berufungsgerichts gelöst. Es wurde ausgesprochen, dass mit dem Einbau und der Verwendung der beabsichtigten Messeinrichtung an sich weder eine der DSGVO widersprechende Datenverarbeitung noch eine schwerwiegende Beeinträchtigung der Geheimsphäre (§ 16 ABGB) verbunden sei, die ihren Einbau oder ihre Verwendung unzulässig machen würden (vgl auch VfGH V 178/2021). Die mit der beabsichtigten Funktionalität (in der Opt-Out-Variante) in Aussicht gestellte (abrechnungsrelevante) Datenverarbeitung stehe dem Einbau und der Verwendung der geplanten digitalen Messeinrichtung nicht entgegen. Die bloße Möglichkeit, dass die Beklagte die Einrichtung aus der Ferne umkonfiguriere und damit die Datenverarbeitung ausweite, spreche ebenfalls nicht gegen den Einbau und die Verwendung dieser Messeinrichtung, wozu die Beklagte nach dem zugrunde liegenden Strom-Nutzungsvertrag berechtigt sei.
+[3] 		Von dieser Rechtsprechung abzugehen, bietet die vorliegende Revision keinen Anlass.
+[4] 		3. Zu ihrer Mängelrüge ist die Klägerin darauf zu verweisen, dass angebliche Mängel des Verfahrens erster Instanz, die vom Berufungsgericht – wie hier – nicht als solche erkannt wurden, in dritter Instanz nicht neuerlich geltend gemacht werden können (RS0042963).
+[5] 		Die Revision der Klägerin ist daher in Ermangelung von erheblichen Rechtsfragen iSv § 502 Abs 1 ZPO nicht zulässig und somit zurückzuweisen.
+[6] 		4. Die Kostenentscheidung beruht auf den §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00172.22W.0914.000

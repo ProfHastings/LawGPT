@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.04.2020
+Geschäftszahl
+5Ob219/19w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in den verbundenen Rechtssachen der klagenden und widerbeklagten Partei Dr. L***** H*****, gegen die beklagte und widerklagende Partei DI Dr. H***** S*****, vertreten durch MMag. Florian Horn, Rechtsanwalt in Wien, wegen 1.) 129.867,13 EUR sA (AZ 9 Cg 13/19a) und 2.) Feststellung (AZ 9 Cg 14/19y; Streitwert 100.000 EUR), über die außerordentliche Revision der beklagten und widerklagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Oktober 2019, GZ 11 R 160/19h-56, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Vertrag zwischen Rechtsanwalt und Klient hat in der Regel – so auch hier – die entgeltliche Besorgung von Geschäften (Rechtsgeschäfte, Rechtshandlungen, Prozessführung) in Vertretung des Klienten zum Gegenstand und ist Bevollmächtigungsvertrag, somit ein mit Vollmacht erteilter Auftrag. Auf den Vertrag des Rechtsanwalts mit seinem Klienten ist zunächst die Rechtsanwaltsordnung (RAO) anzuwenden; nur hilfsweise gelten die Bestimmungen der §§ 1002 ff ABGB über den Bevollmächtigungsvertrag (RS0019392 [T4]; RS0038942 [T1]; RS0038703).
+2. Nach § 11 Abs 2 RAO ist der Rechtsanwalt berechtigt, seiner Partei die Vertretung zu kündigen, er ist in diesem Fall jedoch verpflichtet, die Partei noch durch 14 Tage von der Zustellung der Kündigung an gerechnet insoweit weiter zu vertreten, als dies nötig ist, um die Partei vor Rechtsnachteilen zu schützen (vgl § 36 Abs 2 ZPO). Nach Ablauf dieser vierzehntägigen Frist ist der Rechtsanwalt im Innenverhältnis gegenüber der eigenen Partei zu handeln weder berechtigt noch verpflichtet (RS0035772 [T1]).
+3.1. In ihrem Anwendungsbereich verdrängt diese speziellere Bestimmung des § 11 Abs 2 RAO die allgemeinen Regelungen der §§ 1021 und 1025 ABGB (Rubin in Klete?ka/Schauer, ABGB-ON1.03 § 1021 Rz 1, § 1025 Rz 1).
+3.2. Nach § 1021 Satz 1 ABGB kann der Machthaber die angenommene Vollmacht aufkündigen. Wenn er sie vor Vollendung des ihm insbesondere aufgetragenen oder vermöge der allgemeinen Vollmacht angefangenen Geschäfts aufkündigt, muss er aber, wenn nicht ein unvorhergesehenes und unvermeidliches Hindernis eingetreten ist, allen daraus entstandenen Schaden ersetzen. § 1025 ABGB sieht zudem eine Fortführungspflicht vor. Bei Beendigung der Vollmacht ist die Tätigkeit für unaufschiebbare Geschäfte noch so lange fortzusetzen, bis der Vollmachtgeber oder dessen Erben selbst Verfügungen treffen können.
+3.3. § 11 Abs 2 RAO knüpft an die Kündigung der Vertretung durch den Rechtsanwalt (nur) eine Fortführungspflicht zur Bewahrung der Partei vor Rechtsnachteilen und beschränkt diese auf den Zeitraum von 14 Tagen. Deren teleologische-systematische Auslegung ergibt, dass die Sonderbestimmung des § 11 Abs 2 RAO eine abschließende Regelung für das Recht des Rechtsanwalts zur („vorzeitigen“) Kündigung des Mandats und deren Rechtsfolgen trifft. Für die nur in § 1021 Satz 2 ABGB vorgesehene Schadenersatzpflicht bei Kündigung des Auftrags vor Vollendung des Geschäfts besteht im Anwendungsbereich der RAO daher kein Raum. Bei Einhaltung der Bestimmung des § 11 Abs 2 RAO besteht daher keine Schadenersatzpflicht des kündigenden Rechtsanwalts (Graf, Anwaltshaftung [1991] 38; Csoklich in Csoklich/Scheuba, Standesrecht der Rechtsanwälte³ 42 f).
+4. Zu dieser Frage mag zwar noch keine ausdrückliche Stellungnahme des Obersten Gerichtshofs vorliegen. Die gesetzliche Regelung ist jedoch eindeutig, sodass über die Auslegung keine ernstlichen Zweifel bestehen können. Entgegen der Auffassung des Revisionswerbers geht auch aus der Entscheidung 2 Ob 163/07w Anderes nicht hervor. Eine erhebliche Rechtsfrage stellt sich damit nicht (RS0042656).
+5. Der Revisionswerber zeigt auch sonst keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf. Insbesondere liegt der geltend gemachte Begründungsmangel der Berufungsentscheidung nicht vor (§ 510 Abs 3 ZPO).
+Die außerordentliche Revision war daher mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0050OB00219.19W.0417.000

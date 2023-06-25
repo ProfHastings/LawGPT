@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2018
+Geschäftszahl
+3Ob197/18v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei V*, vertreten durch Bechtold und Wichtl Rechtsanwälte GmbH in Dornbirn, wider die verpflichtete Partei Dr. L*, wegen Exekution nach § 355 EO, über den Revisionsrekurs der betreibenden Partei gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 9. August 2018, GZ 2 R 279/17w-50, mit dem der Beschluss des Bezirksgerichts Bregenz vom 28. Dezember 2016, GZ 9 E 3241/16v-4, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Der Revisionsrekurs ist – ungeachtet des nicht bindenden Zulässigkeitsausspruchs des Rekursgerichts – unzulässig, weil die Betreibende keine erhebliche Rechtsfrage aufzeigt. Das ist wie folgt kurz zu begründen (§ 78 EO iVm §§ 510 Abs 3, 528a ZPO):
+Rechtliche Beurteilung
+1. Die gerügten Mängel des Rekursverfahrens liegen nicht vor. Die Unterlassung von Kontrollbeweisen bewirkt keine Mangelhaftigkeit des Verfahrens zweiter Instanz (vgl RIS-Justiz RS0043406; RS0040246).
+2. Ob die in einem Exekutionsantrag nach § 355 EO enthaltene konkrete Behauptung des Zuwiderhandelns ausreichend ist oder nicht, ist keine erhebliche Rechtsfrage (RIS-Justiz RS0004745). Es bildet hier keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung, wenn das Rekursgericht das konkrete Vorbringen der Betreibenden als unschlüssig im Sinn der folgenden Grundsätze beurteilte.
+3. Das Zuwiderhandeln gegen den Exekutionstitel nach Eintritt seiner Vollstreckbarkeit ist eine Voraussetzung für die Zulässigkeit der Exekution nach § 355 EO, also eine bejahende Bedingung für den Eintritt der materiellen Vollstreckbarkeit des Unterlassungsanspruchs im Sinn des § 7 Abs 2 zweiter Satz EO. Die Betreibende hat im Antrag auf Bewilligung der Unterlassungsexekution nach § 355 EO daher konkret und schlüssig zu behaupten, dass die Verpflichtete dem Exekutionstitel nach Eintritt seiner Vollstreckbarkeit zuwidergehandelt hat. Das Fehlen diesbezüglicher Behauptungen im Exekutionsantrag ist ein inhaltlicher Mangel (3 Ob 152/13x; RIS-Justiz RS0001306, RS0004431). Die betreibende Partei hat schon im Exekutionsantrag nach § 355 EO konkrete Behauptungen über das angebliche Zuwiderhandeln des Verpflichteten aufzustellen; die bloße allgemeine Behauptung eines Zuwiderhandelns genügt nicht (RIS-Justiz RS0000709; RS0004808). Eine konkrete und schlüssige Behauptung erfordert in der Regel nähere Angaben über Zeit, Ort und Art (Beschaffenheit) des Zuwiderhandelns (3 Ob 191/16h; RIS-Justiz RS0000709 [T14]).
+4. Hier fehlen die konkreten Behauptungen in zeitlicher Hinsicht, weil nur geltend gemacht wird, der Verpflichtete habe entgegen seiner Unterlassungsverpflichtung aus dem Versäumungsurteil  „wiederum“ Schriftsätze gegen Entgelt verfasst: Davon sind nämlich jedenfalls auch Verstöße (durch Erstellung von Schriftsätzen zur Verwendung in behördlichen Verfahren) unmittelbar nach dem 12. Mai 2016 (Erlassung des Versäumungsurteils) erfasst; es werden also Verstöße vor Eintritt der Vollstreckbarkeit geltend gemacht. Daran vermag die Behauptung zum ersten Verstoß, der Schriftsatz sei am 9. September 2016 eingebracht worden, nichts zu ändern, weil der Zeitpunkt der Verwendung des Schriftsatzes in einem Verfahren keine zwingenden Rückschlüsse darauf zulässt, wann er erstellt wurde; nur darauf kommt es aber nach dem Titel an.
+5. Daher stellt sich die Frage, wie der Begriff „behördliche Verfahren“ zu verstehen ist, hier nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E123525

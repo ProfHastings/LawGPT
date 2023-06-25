@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.2023
+Geschäftszahl
+2Ob235/22f
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei M*, vertreten durch Leissner Kovaricek Rechtsanwälte OG in Wien, gegen die beklagte Partei D*, wegen Feststellung, über den „außerordentlichen Revisionsrekurs“ des Schuldners D*, vertreten durch Mag. Thomas Klein, Rechtsanwalt in Graz, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 10. Mai 2021, GZ 14 R 188/20z, 14 R 189/20x-174, und den „Rekurs“ des Schuldners gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 31. August 2021, GZ 14 R 111/21b-183, den
+Beschluss
+gefasst:
+Spruch
+Die Rechtsmittel werden als absolut unzulässig zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger begehrt die Zahlung seines Pflichtteils und erhebt eine Stufenklage nach Art XLII EGZPO.
+[2] 		Über das Vermögen des ursprünglich beklagten Schuldners wurde 2018 das Insolvenzverfahren eröffnet und die (nunmehrige) Beklagte zur Insolvenzverwalterin bestellt.
+[3] 		Das Erstgericht wies eine vom Schuldner erhobene Berufung gegen ein 2020 erlassenes Zwischenurteil  mangels Prozessfähigkeit des Schuldners im Prüfungsprozess (§ 113 IO) zurück; zudem wies es einen Verfahrenshilfeantrag des Schuldners (wegen fehlender Erfolgsaussichten des erhobenen Rechtsmittels) und einen Unterbrechungsantrag ab (ON 151).
+[4] 		Das Rekursgericht gab einem dagegen gerichteten Rekurs des Schuldners nicht Folge und bestätigte die Entscheidung mit der Maßgabe, dass es sämtliche Prozesshandlungen des Schuldners mangels Prozessfähigkeit zurückwies. Es sprach aus, dass der Revisionsrekurs nach § 528 Abs 2 Z 2 und Z 4 ZPO jedenfalls unzulässig sei (ON 174).
+[5] 		Mit einem weiteren Beschluss wies das Erstgericht einen neuerlichen Verfahrenshilfeantrag wegen fehlender Prozessfähigkeit des Schuldners sowie wegen offenbarer Mutwilligkeit zurück (ON 177).
+[6] 		Das Rekursgericht gab einem dagegen gerichteten Rekurs des Schuldners nicht Folge und bestätigte die Entscheidung mit der Maßgabe, dass es den Verfahrenshilfeantrag abwies. Es sprach aus, dass der Revisionsrekurs nach § 528 Abs 2 Z 4 ZPO jedenfalls unzulässig sei (ON 183).
+Rechtliche Beurteilung
+[7] 		Die vom Schuldner erhobenen Rechtsmittel sind jedenfalls unzulässig.
+I. Rekursentscheidung ON 174
+[8] 		1. Nach § 528 Abs 2 Z 2 ZPO ist der Revisionsrekurs jedenfalls unzulässig, wenn das Rekursgericht den erstinstanzlichen Beschluss zur Gänze bestätigt hat, es sei denn, dass die Klage ohne Sachentscheidung aus formellen Gründen zurückgewiesen wurde. Da mit dieser Ausnahme nur formalrechtlich begründete Klagezurückweisungen gemeint sind (RS0044487), greift der Rechtsmittelausschluss des § 528 Abs 2 Z 2 ZPO (auch) im Fall der Bestätigung der Zurückweisung eines Rechtsmittels (RS0044536 [T11]; 17 Ob 14/21i Rz 3 mwN). Die bestätigende Entscheidung über die (ohnehin gemäß § 192 Abs 2 ZPO unanfechtbare) Abweisung eines Unterbrechungsantrags ist ebenfalls gemäß § 528 Abs 2 Z 2 ZPO unanfechtbar.
+[9] 		2. Soweit die Rekursentscheidung einen vom Schuldner gestellten Verfahrenshilfeantrag betrifft, greift überdies der Rechtsmittelausschluss des § 528 Abs 2 Z 4 ZPO.
+[10] 		3. Der „außerordentliche Revisionsrekurs“ des Schuldners gegen den Beschluss ON 174 war damit insgesamt als absolut unzulässig zurückzuweisen.
+II. Rekursentscheidung ON 183
+[11] 		1. Da diese Rekursentscheidung ausschließlich   einen (weiteren) vom Schuldner gestellten Verfahrenshilfeantrag betrifft, kommt der Rechtsmittelausschluss des § 528 Abs 2 Z 4 ZPO zur Anwendung.
+[12] 		2. Somit war auch der „Rekurs“ des Schuldners gegen den Beschluss ON 183 als absolut unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00235.22F.0117.000

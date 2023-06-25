@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.08.1967
+Geschäftszahl
+3Ob86/67
+Norm
+EO §370;
+EO §371;
+Versicherungsvertragsgesetz §156;
+Versicherungsvertragsgesetz §157;
+Kopf
+SZ 40/106
+Spruch
+Zugunsten einer durch eine Haftpflichtversicherung gedeckten Forderung kann nicht Exekution zur Sicherstellung durch Pfändung der Ansprüche des Verpflichteten aus dem Versicherungsverhältnis gegen den Versicherer bewilligt werden.
+Entscheidung vom 9. August 1967, 3 Ob 86/67.
+I. Instanz: Landesgericht Innsbruck; II. Instanz: Oberlandesgericht Innsbruck.
+Text
+Mit Urteil des Landesgerichtes Innsbruck vom 30. Dezember 1966 wurde der Beklagte (Verpflichtete) verurteilt, dem Kläger (betreibenden Gläubiger) als Ersatz aus einem Verkehrsunfall 11.491.33 S samt 4% Zinsen seit 14. Dezember 1965 und ab 14. Dezember 1965 bis auf weiteres einen monatlichen Betrag von 500 S zu bezahlen. Der Kläger wurde verurteilt, dem Beklagten 4166.65 S an Prozeßkosten zu ersetzen. Dieses Urteil wurde infolge Berufung des Beklagten vom Oberlandesgericht Innsbruck als Berufungsgericht mit Urteil vom 20. April 1967 bestätigt und der Beklagte zum Ersatz der Kosten des Berufungsverfahrens von 752.03 S verurteilt. Gegen dieses bestätigende Urteil des Oberlandesgerichtes Innsbruck erhob der Beklagte Revision.
+Auf Grund der beiden Urteile beantragt der Kläger gemäß § 331 Z. 1 EO., gegen den Beklagten die Exekution zur Sicherstellung seiner Forderung durch Pfändung der Forderung gegen den Haftpflichtversicherer zu bewilligen.
+Das Erstgericht wies den Antrag ab. Es führte unter Hinweis auf die Lehre (Neumann - Lichtblau[3] II S. 1128 und Pollak[2] III S. 1058) aus, daß auch zur Bewilligung einer Exekution nach § 371 EO. ein Bedürfnis nach Sicherstellung vorhanden sein müsse. Im vorliegenden Fall sei bei Bedachtnahme auf § 156 VersVG. die Forderung des Klägers hinreichend gesichert, sodaß ein Bedürfnis zur Sicherstellung nicht mehr gegeben sei.
+Das Rekursgericht gab dem Exekutionsantrag mit Ausnahme des Begehrens auf Sicherstellung der Kosten zweiter Instanz statt. Es führte aus, daß es in den Fällen des § 371 EO. weder einer Gefahrbescheinigung noch einer Sicherheitsleistung bedarf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Verpflichteten Folge und änderte den zweitgerichtlichen Beschluß dahin ab, daß die Entscheidung des Erstgerichtes wiederhergestellt wurde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Dem Rekursgericht muß beigepflichtet werden, daß in den Fällen des § 371 EO. eine Gefährdung der Rechte des betreibenden Gläubigers nicht vorausgesetzt wird. Denn wenn eine solche gegeben ist, könnte schon auf Grund des § 370 EO. Exekution zur Sicherstellung beantragt werden, sodaß es der Vorschrift des § 371 Z. 1 und 2 EO. gar nicht bedürfte. Es ist jedoch davon auszugehen, daß eine Exekution zur Sicherstellung nicht bewilligt werden kann, wenn die Forderung hinlänglich sichergestellt ist. Gemäß § 376 (1) Z. 1 EO. hat in diesem Fall die Vollziehung auf Antrag zu unterbleiben und es sind bereits vollzogene Exekutionshandlungen aufzuheben. Daraus folgt, daß der Exekutionsantrag abzuweisen ist, wenn eine solche Sicherstellung schon bei der Entscheidung über dieses Begehren aktenkundig ist.
+Was nun eine "hinlängliche" Sicherstellung ist, muß nach der Lage des Falles beurteilt werden. Sie ist jedenfalls gegeben, wenn der betreibende Gläubiger praktisch alles hat, was er durch den Exekutionsantrag erreichen will. Nun hat das Erstgericht zutreffend auf § 156 VersVG. verwiesen, wonach der geschädigte Dritte, hier also der betreibende Gläubiger, durch keine wie immer geartete Verfügung daran gehindert werden kann, auf die Forderung gegen den Versicherer zu greifen und sich daraus zu befriedigen. Wenn auch § 156 VersVG. kein Pfandrecht des Beschädigten begrundet, sodaß dieser nach Rechtskraft seines Urteils erst auf die Forderung des Verpflichteten und Versicherungsnehmers oder Versicherten Exekution führen muß, so ist seine Sicherheit darum nicht geringer. Kein anderer Gläubiger kann ihm vorkommen, ebensowenig kann der Verpflichtete ihn hindern, daraus seine Befriedigung zu suchen. § 157 VersVG. sichert den Gläubiger auch für den Fall des Konkurses des Versicherungsnehmers. Es wäre sinnwidrig, eine Exekution zu bewilligen, die auf Antrag sogleich eingestellt werden müßte.
+Die beantragte Exekution zur Sicherstellung würde daher die wirtschaftliche Lage des betreibenden Gläubigers in keiner Weise zu seinen Gunsten verändern; sie hätte nur die Folge, daß dem Verpflichteten überflüssige Kosten gemacht würden.

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.09.1951
+Geschäftszahl
+3Ob298/51
+Norm
+ABGB §21;
+ABGB §865;
+ABGB §1020;
+Entmündigungsordnung §3;
+Entmündigungsordnung §4;
+Kopf
+SZ 24/244
+Spruch
+Eine Vollmacht erlischt nicht durch nachträglichen Eintritt der Handlungsunfähigkeit des Machtgebers; um einen auf Grund der Vollmacht abgeschlossenen Vertrag unwirksam zu machen, muß die Handlungsunfähigkeit bereits im Zeitpunkte der Vollmachtserteilung bestanden haben.
+Entscheidung vom 26. September 1951, 3 Ob 298/51.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Beklagte schloß am 9. September 1949 mit der Klägerin einen Kaufvertrag, wobei sie durch ihren mit notariell beglaubigter Vollmacht vom 31. August 1949 bevollmächtigten Sohn Fritz W. vertreten war. Am 12. Oktober 1949 wurde die Beklagte auf Grund eines am 20. September 1949 gestellten Antrages wegen Geisteskrankheit voll entmundigt. Der Antrag der Klägerin auf Vormerkung des Eigentumsrechtes auf Grund des Kaufvertrages wurde vom Grundbuchsgericht am 5. November 1949 unter Hinweis auf die Anmerkung der Bestellung eines vorläufigen Beistandes abgewiesen. Mit der vorliegenden Klage beantragt die Klägerin die Feststellung, daß der Kaufvertrag zu Recht bestehe.
+Das Erstgericht wies das Klagebegehren ab, weil die Beklagte an seniler Geistesschwäche leide, der Verblödungsprozeß bereits im April 1949 begonnen habe und zur Zeit der Ausstellung der beglaubigten Vollmacht vom 31. August 1949 bereits einen solchen Grad erreicht habe, daß die Beklagte nicht mehr die Tragweite ihrer Rechtshandlungen habe ermessen können, also geistig völlig unzurechnungsfähig gewesen sei.
+Das Berufungsgericht bestätigte, von der Rechtsmeinung ausgehend, daß eine Vollmacht durch den Eintritt der Handlungsunfähigkeit erlösche. Entscheidend sei daher der Tag der Vertragserrichtung. Da die Beklagte an diesem Tage jedenfalls unzurechnungsfähig gewesen sei, sei es gleichgültig, ob sie zu einem vor dem 31. August 1949 gelegenen Zeitpunkt eine Vollmacht erteilt habe.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zum Revisionsgrund der unrichtigen rechtlichen Beurteilung wird ausgeführt, das Berufungsgericht habe zu Unrecht angenommen, daß für die Beurteilung der Gültigkeit des Vertrages lediglich der Geisteszustand der Beklagten im Zeitpunkt des Vertragsabschlusses maßgebend sei, es daher gleichgültig sei, ob sich die Vertretungshandlung des Sohnes auf einen schon vorher wirksam geschlossenen Bevollmächtigungsvertrag stützen könne. Diese Ansicht widerspräche der Rechtsprechung. In diesem Punkte ist der Revision beizupflichten. Wenn von Ehrenzweig abgesehen wird - der diese Frage als strittig bezeichnet -, steht die Rechtslehre ebenso wie die Rechtsprechung auf dem Standpunkt, daß die wirksam erteilte Vollmacht durch die nachträgliche Handlungsunfähigkeit des Machtgebers nicht erlischt. So führt die Entscheidung SZ. XIII/71 unter Berufung auf zahlreiches Schrifttum aus, daß nach §§ 1020 f. ABGB. Auflösungsgrunde des Bevollmächtigungsvertrages der Widerruf, die Aufkündigung, der Tod und der Konkurs seien. Nirgends spreche aber das Allgemeine Bürgerliche Gesetzbuch, welches sonst auf den Schutz der Rasenden, Wahnsinnigen und Blödsinnigen bedacht sei, davon, daß der Eintritt der Handlungsfähigkeit ein gültig zustande gekommenes Vollmachtsverhältnis zum Erlöschen bringe. Wenn das Allgemeine Bürgerliche Gesetzbuch also den Eintritt der Handlungsunfähigkeit nicht als Erlöschungsgrund aufzähle, sei der Schluß gerechtfertigt, daß der nachfolgende Eintritt der Handlungsunfähigkeit den Fortbestand von Auftrag und Vollmacht nicht berühre. Der Oberste Gerichtshof hat keine Veranlassung, von dieser Rechtsprechung abzugehen. Entscheidend ist vielmehr, ob ein rechtswirksames Bevollmächtigungsverhältnis zustande gekommen ist oder nicht. Dies muß für den 31. August 1949, dem Zeitpunkt der Ausstellung der legalisierten Vollmacht, verneint werden. Denn an diesem Tage war nach den Feststellungen der Untergerichte der Verblödungsprozeß bei der Beklagten schon so weit fortgeschritten, daß die Beklagte nicht mehr die Tragweite ihrer Rechtshandlungen ermessen konnte, weshalb sie damals geistig völlig unzurechnungsfähig war. Die Beklagte war daher bereits an diesem Tage handlungsunfähig und nicht mehr in der Lage, eine rechtsgültige Vollmacht auszustellen.

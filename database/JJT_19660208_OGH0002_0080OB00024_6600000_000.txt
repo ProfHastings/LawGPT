@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.02.1966
+Geschäftszahl
+8Ob24/66
+Norm
+ABGB §1052;
+ABGB §1170;
+ABGB §1295 (2);
+Kopf
+SZ 39/27
+Spruch
+Beim Werkvertrag ist der Unternehmer vorleistungspflichtig
+Bis zur Verbesserung des mangelhaften Werkes kann jede Gegenleistung verweigert werden
+Entscheidung vom 8. Februar 1966, 8 Ob 24/66
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien
+Text
+Die Klägerin begehrt den Zuspruch von 2690 S für eine vom Beklagten am 19. April 1963 bestellte, am 16. Mai 1963 errichtete und vom Beklagten übernommene Blitzschutzanlage. Der Beklagte bestritt die Fälligkeit der Klagsforderung, weil die Blitzschutzanlage noch nicht ordnungsgemäß hergestellt sei. Sie weise die im Privatgutachten der Landesstelle für Brandverhütung in Steiermark vom 24. März 1964 angeführten Mängel auf.
+Das Erstgericht gab dem Klagebegehren Folge. Es stellte eine Reihe von Mängeln der bereits montierten Anlage fest. Die Anlage sei im derzeitigen Zustand unbrauchbar, weil sie gravierende Mängel aufweise und das Objekt gefährde. Bei Blitzschlag sei mit einer gewissen Wahrscheinlichkeit mit einer Entzundung zu rechnen. Für die Herstellung einer mängelfreien Anlage sei der vereinbarte Werklohn von 2690 S als Pauschalpreis angemessen. Da der Vertrag, wenn auch nicht gehörig, so doch erfüllt worden sei, könne der Beklagte nur Gewährleistungsansprüche erheben, was er aber unterlassen habe. Der Werklohn sei fällig, weil die Mangelhaftigkeit des Werkes die Fälligkeit nicht hinausschiebe.
+Das Berufungsgericht änderte das Ersturteil dahin ab, daß es das Klagebegehren abwies.
+Da nach dem Gutachten des Sachverständigen Dipl.-Ing. Dr. G. die Anlage den technischen Gegebenheiten des Hauses angepaßt werden müsse, sei der abgeschlossene Vertrag als ein Werkvertrag zu qualifizieren. Der Erstrichter sei zutreffend davon ausgegangen, daß der Beklagte die mangelhafte Leistung erfüllungsweise angenommen habe. Er habe auch dem Anspruch der Klägerin auf Bezahlung des Werklohnes nur die Einrede des nicht gehörig erfüllten Vertrages entgegengesetzt. Habe der Beklagte die unvollständige Erfüllung angenommen und verlange er deren Verbesserung, dann könne er grundsätzlich die ganze Gegenleistung bis zur Durchführung der Verbesserung verweigern. Daß der Beklagte aber auf der Verbesserung bestehe, ergebe sich klar aus seinem Vorbringen. Dem Beklagten müsse im Hinblick auf die gravierenden Mängel der erstellten Anlage auch das Recht zur vollständigen Zurückbehaltung des Werklohnes eingeräumt werden, weil die Ausübung der Einrede des nicht gehörig erfüllten Vertrages u. a. auch den Zweck verfolge, auf die Klägerin einen Druck zur Durchführung der Verbesserungsarbeiten auszuüben (vgl. Ehrenzweig, System II/1 S. 215, und Gschnitzer im Klang-Komm.[2] IV 541).
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Den zutreffenden Ausführungen des Berufungsgerichtes ist im Hinblick auf die erhobene Rechtsrüge der Revision nur folgendes hinzuzufügen:
+Der Beklagte hat einredeweise keine Gewährleistungsansprüche erhoben. Es ist auch richtig, daß der Anspruch auf Verbesserung der mangelhaften Sache einredeweise nicht erhoben, sondern nur klageweise geltend gemacht werden kann. Der Beklagte hat aber die Bezahlung des Werklohnes mit der Einrede abgelehnt, daß die Klagsforderung nicht fällig sei, weil die Blitzschutzanlage im Hinblick auf die in dem von ihm vorgelegten Privatgutachten angeführten Mängel noch nicht ordnungsgemäß hergestellt sei. Dieses Vorbringen kann sinnvoll, wie das Berufungsgericht richtig erkannt hat, nur dahin aufgefaßt werden, daß der Beklagte die Verbesserung der Mängel des hergestellten Werkes begehre und die Bezahlung des Werklohnes wegen nicht gehöriger Erfüllung verweigere. Dazu ist aber entgegen der Meinung der Klägerin der Beklagte berechtigt. Der Besteller ist auch dann, wenn er die unvollständige Erfüllung angenommen hat und deren Verbesserung verlangt, berechtigt, die ganze Gegenleistung bis zur gehörigen Erfüllung des Vertrages, also bis zur Verbesserung des mangelhaften Werkes, zu verweigern. Denn die Einrede soll nicht nur den Leistungsberechtigten sichern, sondern auch auf den Willen des Gegners einen Druck ausüben. Die Grenze dieses Rechtes auf Verweigerung der Gegenleistung liegt in dem im § 1295 (2) ABGB. festgelegten, nicht nur für den Bereich des Schadenersatzrechtes geltenden Rechtsgrundsatz, daß die Ausübung eines Rechtes nicht zur Schikane ausarten darf (vgl. ZBl. 1917 Nr. 182). Geht man von den Feststellungen der Untergerichte aus, dann handelt es sich keineswegs, wie die Klägerin darzutun versucht, um bloß unbedeutende Mängel, deren Vorhandensein sicherlich nicht die Verweigerung der Zahlung des ganzen Werklohnes rechtfertigen würde.
+Wenn schließlich die Klägerin meint, das Berufungsgericht hätte, ausgehend von seiner Rechtsansicht, den Beklagten zur eingeklagten Leistung Zug um Zug gegen die von der Klägerin zu erbringende Verbesserungsleistung verurteilen müssen, ist ihr folgendes zu erwidern:
+Wie Bettelheim im Klang-Komm.[1] bei § 1052 ABGB. unter VI S. 963 ausführt, kann der Unternehmer als Vorleistungspflichtiger den Werklohn nicht Zug um Zug gegen Erbringung seiner Gegenleistung fordern. Der Werklohn ist - wie übrigens auch in den Vertragsbedingungen festgelegt - gemäß § 1170 ABGB. in der Regel erst nach vollendetem Werk fällig, was vor Behebung der festgestellten Mängel nicht zutrifft. Vor der im Gesetz bestimmten Fälligkeitszeit ist aber der Schuldner nicht zu leisten verpflichtet; er kann daher auch vor diesem Zeitpunkt nicht zur Zahlung verurteilt werden (§§ 1413 ABGB., 406 ZPO.).

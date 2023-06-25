@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.07.1981
+Geschäftszahl
+3Ob80/81
+Norm
+ABGB §471;
+ABGB §§957 ff;
+ABGB §968;
+ABGB §1440;
+EO §259;
+EO §262;
+Kopf
+SZ 54/101
+Spruch
+Das Zurückbehaltungsrecht desjenigen, der der Pfändung zustimmte und zum gerichtlichen Verwahrer der gepfändeten Sache bestellt wurde, erlischt
+OGH 8. Juli 1981, 3 Ob 80/81 (LG Linz 13 R 2/81; BG Linz 14 E 5599/80)
+Text
+Das Erstgericht verteilte den für die versteigerte PZ 1 des Pfändungsprotokolls GZ 14 E 5407/80-2 (Personenkraftwagen) erzielten Verkaufserlös von 62 000 S. Nach Abzug der Schätzungs-, Vollzugs- und Verwahrungskosten wurden zunächst der M Automobilvertriebs-AG auf Grund der Anmeldung der Reparaturkosten vom 25. September 1980 der Betrag von 33 396.90 S laut Rechnung vom 10. September 1980, Reparaturauftrag Nr. 94150, zur gänzlichen Berichtigung der Forderung zugewiesen. Das restliche Meistbot wurde an drei betreibende Gläubiger infolge Unzulänglichkeit der Masse verhältnismäßig zugewiesen zur teilweisen Berichtigung ihrer im gleichen Rang stehenden Forderungen, und zwar Heinz G der Betrag von 1383.70 S, der Republik Österreich (Einbringungsstelle beim Oberlandesgericht Linz) 84 S und der Sparkasse L 19 855.40 S. Das Rekursgericht änderte diesen Verteilungsbeschluß infolge Rekurses der betreibenden Partei Sparkasse L dahin ab, daß der M Automobilvertriebs-AG statt des Betrages von 33 396.90 S bloß ein Betrag von 2295.62 S zugewiesen wurde; die Sparkasse L erhielt hingegen statt des Betrages von 19855.40 S den Betrag von insgesamt 50 856.68 S. Das Rekursgericht vertrat hiezu zusammenfassend die Ansicht, um ihr Zurückbehaltungsrecht am PKW zu verwirklichen, hätte die M Automobilvertriebs-AG die Pfändung des Fahrzeuges nicht zulassen bzw. sich zur Herausgabe nicht bereit erklären dürfen. Da eine Pfändung nur mit ihrer Zustimmung möglich gewesen sei, hätte sie durch Verweigerung dieser Zustimmung entweder die betreibende Partei veranlassen können, die Forderung für die Reparaturkosten zu begleichen oder doch zumindest so viel Zeit gewinnen können, um den für die Befriedigung aus dem Retentionsrecht gemäß § 371 Abs. 3 HGB erforderlichen Titel zu erwirken, sodaß sie eine spätere Pfändung und Verwertung der Sache zulassen hätte können, ohne Gefahr zu laufen, bei der Verteilung des Erlöses leer auszugehen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der M Automobilvertriebs-AG nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Revisionsrekurswerberin führt aus, durch die gerichtliche Versteigerung des Fahrzeuges sei ihr Retentionsrecht nicht untergegangen, sondern sei anstelle des Fahrzeuges der Versteigerungserlös als mit ihrem Zurückbehaltungsrecht belastet getreten. Diesen Ausführungen ist entgegenzuhalten, daß das Zurückbehaltungsrecht der Revisionsrekurswerberin hier schon anläßlich des Vollzuges der Pfändung und Verwahrung der Pfandsache untergegangen ist. Die Pfändung zugunsten der erwähnten drei betreibenden Parteien wurde gleichzeitig am 6. August 1980 in der Gewahrsame der Revisionsrekurswerberin durchgeführt. Diese hat sich laut Vollzugsbericht in 14 E 5407/80-2 gemäß § 262 EO zur Herausgabe bereit erklärt. Darüber hinaus wurde die Revisionsrekurswerberin auch noch zur gerichtlichen Verwahrerin des gepfändeten Fahrzeuges nach § 259 EO bestellt; sie hat das Kraftfahrzeug auch in Verwahrung übernommen. Durch die Herausgabe des Kraftfahrzeuges an das Gericht zum Zwecke der gerichtlichen Verwahrung ist das Zurückbehaltungsrecht der Rekurswerberin erloschen. Ihre bisherige - auf das Vertragsverhältnis mit der Verpflichteten Partei gegrundete
+-	sachenrechtliche Stellung als Zurückbehaltungsberechtigte hat durch die anschließende Übernahme der Funktion als gerichtliche Verwahrerin - trotz des mit dieser Funktion unvereinbaren Vorbehaltes des bis dahin allenfalls bestandenen Zurückbehaltungsrechtes - ein Ende gefunden. Der gerichtliche Verwahrer ist nämlich einerseits Organ des Gerichtes; er ist aber andererseits Verwahrer im Sinne des § 968 ABGB, worauf § 259 Abs. 3 EO ausdrücklich verweist. Die Rechte und Pflichten des gerichtlichen Verwahrers sind somit nach den §§ 957 ff. ABGB zu beurteilen (Heller - Berger - Stix, 1729 f.). Für ihn gilt daher auch § 1440 ABGB, wonach in Verwahrung genommene Sachen kein Grund der Zurückbehaltung sind. Nach § 259 EO gerichtlich verwahrte Gegenstände befinden sich im Sinne der §§ 253 Abs. 1 und 262 EO in der Gewahrsame des Exekutionsgerichtes; der gerichtliche Verwahrer ist bloß weisungsgebundenes Hilfsorgan des Gerichtes (Heller - Berger - Stix a. a.O.). Auf die weiteren Fragen, ob ein Zurückbehaltungsrecht nach §§ 369, 371 HGB im Verteilungsverfahren auch ohne Exekutionstitel geltend gemacht werden kann und ob hier überhaupt eine gehörige Anmeldung des aus dem Zurückbehaltungsrecht abgeleiteten Anspruches (mit Nachweis der Fälligkeit der Forderung im Zeitpunkt der Pfändung
+-	6. August 1980 gegenüber Reparaturrechnungsdatum 10. September 1980 mit "Lieferung" 3. September 1980) vorlag, ist daher nicht mehr einzugehen.

@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.03.1952
+Geschäftszahl
+1Ob203/52
+Norm
+ABGB §26;
+Kollektivvertragsgesetz §3 (2);
+ZPO §1;
+ZPO §6;
+Kopf
+SZ 25/64
+Spruch
+Der Gewerkschaftsbund ist ein Verein.
+Die einzelnen Fachgewerkschaften besitzen keine Parteifähigkeit.
+Entscheidung vom 12. März 1952, 1 Ob 203/52.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die betreibende Partei "Gewerkschaft der öffentlichen Angestellten, Betriebsgruppe des Finanzamtes für Körperschaften", Wien, hat als klagende Partei gegen den Beklagten ein Versäumnisurteil erwirkt, das in Rechtskraft erwachsen ist. Am 10. Oktober 1951 brachte die betreibende Partei einen Exekutionsantrag "auf Pfändung des dem Verpflichteten zustehenden Gesellschaftsanteiles" ein. Diese Exekution wurde mit Beschluß des Titelgerichtes vom 16. Oktober 1951 bewilligt. Der die Exekution bewilligende Richter setzte im Exekutionstitelakte den Bewilligungsbeschluß auf eine zur Stampiglienerledigung geeignete Gleichschrift des Exekutionsbewilligungsantrages, der jedoch keine Unterschrift der betreibenden Partei trägt.
+Bei der Zustellung des Exekutionsbewilligungsbeschlusses an den Drittschuldner ereignete sich ein Zustellungsanstand, weshalb das Exekutionsgericht für die Gesellschaft einen Kurator bestellte. Dieser erhob gegen die Exekutionsbewilligung namens der Filmgesellschaft Rekurs.
+Aus Anlaß dieses Rekurses stellte das Oberlandesgericht als Rekursgericht den schon erwähnten Mangel der Unterschrift einer physischen Person auf dem Exekutionsbewilligungsantrag fest. Deshalb trug das Oberlandesgericht dem Erstgerichte auf, die betreibende Partei zu veranlassen, dem Exekutionsantrag nunmehr "durch den Obmann des Österreichischen Gewerkschaftsbundes fertigen zu lassen". Die Befolgung dieses Auftrages lehnte die betreibende Partei ab. Nach Wiedervorlage des Aktes hat das Rekursgericht das Exekutionsverfahren, beginnend ab dem Exekutionsbewilligungsbeschluß, als nichtig aufgehoben und den Antrag auf Exekutionsbewilligung zurückgewiesen. Die Begründung dieses Beschlusses stützt sich darauf, daß das Rekursgericht gemäß §§ 6 Abs. 2, 7 Abs. 1 ZPO., § 78 EO. verpflichtet sei, mit dem Ausspruch der Nichtigkeit des Exekutionsverfahrens vorzugehen, weil die betreibende Partei dem Auftrag zur Verbesserung nach den §§ 84 ff. ZPO., § 78 EO. (in linea § 75 Z. 3 ZPO., § 78 EO.) nicht nachgekommen ist, vielmehr die Befolgung des Auftrages abgelehnt habe.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Exekutionsbewilligungsantrag ist - was wesentlich ist - nicht von einer Person unterschrieben, die berechtigt wäre, die betreibende Partei zu vertreten.
+Die Frage der Vertretungsbefugnis - zusammen mit der Frage der Parteifähigkeit und der Rechtspersönlichkeit - der betreibenden Partei wurde mit dem erwähnten Auftrag des Rekursgerichtes mit Recht aufgeworfen. Denn das Rekursgericht konnte füglich Zweifel haben, ob die Stelle, die als betreibende Partei faktisch eingeschritten ist, nämlich die "Gewerkschaft der öffentlichen Angestellten, Betriebsgruppe Finanzamt für Körperschaften in Wien" hiezu berechtigt war. Nach § 2 der Statuten der Österreichischen Gewerkschaften (Schriftenreihe des Österreichischen Gewerkschaftsbundes Nr. 2, mit Einleitung von Proksch) steht dem Gewerkschaftsbund Rechtspersönlichkeit zu. Nach § 6 Abs. 1 lit. v dieser Statuten sind die Gewerkschaften Organe des Gewerkschaftsbundes. Somit hat die Gewerkschaft als solche, weil sie nur Organ des Gewerkschaftsbundes ist, keine Parteifähigkeit. Daran ändert auch die Tatsache nichts, daß der Gewerkschaftsbund sich nach § 4 der Statuten in 16 Gewerkschaften "gliedert" und auch der weitere Umstand nichts, daß der Bundesvorstand gemäß § 3 Abs. 3 dieser Statuten den Gewerkschaften einzelne oder mehrere der dem Gewerkschaftsbunde selbst zustehenden Aufgaben zur direkten Durchführung übertragen kann, denn auch in dieser Tätigkeit ist die Gewerkschaft nur Organ des Bundes. In einem gewissen, jedoch nur scheinbaren Gegensatz hiezu steht der Beschluß des Obereinigungsamtes vom 4. September 1947, Zl. 2/OEA/1947, mit dem nicht nur dem Österreichischen Gewerkschaftsbund, sondern auch 15 seiner 16 Gliederungen (Fachgewerkschaften) gemäß § 3 Abs. 2 erster Satz, Kollektivvertragsgesetz, BGBl. Nr. 76/1949, die Kollektivvertragsfähigkeit zuerkannt wurde, darunter auch der Gewerkschaft der öffentlichen Angestellten, um die es sich im vorliegenden Falle handelt. Denn wie zu diesem Beschlusse des Obereinigungsamtes Hofmann (Kollektivvertragsgesetz, S. 40) ausführt, "üben diese Fachgewerkschaften, da dem Gewerkschaftsbund als solchem, nicht aber auch den einzelnen Fachgewerkschaften, Rechtspersönlichkeit zukommt, die Kollektivvertragsfähigkeit, soweit sie Kollektivverträge zeichnen, nur im Namen des Gewerkschaftsbundes aus". Damit steht die Praxis beim Abschluß von Kollektivverträgen durchaus im Einklang. Als Vertragspartner auf der Arbeitnehmerseite figurierte stets der Österreichische Gewerkschaftsbund selbst. Der Kollektivvertrag wird auch als vom Gewerkschaftsbund abgeschlossen in das Register der Kollektivverträge beim Einigungsamt eingetragen, wobei allerdings bemerkt wird, daß beim Abschluß für den Gewerkschaftsbund die betreffende Gewerkschaft eingeschritten ist.
+Z. B. "Kollektivvertrag von ... abgeschlossen zwischen der
+Bundesinnung der Maler, Anstreicher und Lackierer einerseits und dem
+Österreichischen Gewerkschaftsbund, Gewerkschaft der Bau- und
+Holzarbeiter, anderseits" (unterfertigt von Funktionären der
+Gewerkschaft der Bau- und Holzarbeiter, jedoch im Namen des
+Österreichischen Gewerkschaftsbundes). Hiezu die Erledigung des
+Einigungsamtes: "Beim Einigungsamte Wien wurde unter Ke ... ein
+Kollektivvertrag hinterlegt, welcher mit ... in Kraft tritt.
+Abgeschlossen am ... zwischen der Bundesinnung der Maler,
+Anstreicher und Lackierer und dem ÖGB. (offizieller Kurztitel für
+Österreichischen Gewerkschaftsbund), Gewerkschaft der Bau- und
+Holzarbeiter, betreffend ... ".
+Es handelt somit die einzelne Gewerkschaft, soweit es sich um den Abschluß von Kollektivverträgen handelt, als Bevollmächtigte des Österreichischen Gewerkschaftsbundes, nicht kraft eigenen Rechtes. Wollte man aber weitergehen und die Meinung vertreten, den einzelnen Gewerkschaften komme etwa, soweit der Abschluß von Kollektivverträgen in Frage kommt, Parteifähigkeit zu - eine nach dem vorhin Ausgeführten nicht haltbare Ansicht -, so würde dies noch keineswegs bedeuten, daß der Gewerkschaft allgemein Parteifähigkeit im Sinne der Zivilprozeßordnung zukommt. Ebensowenig ließe sich aus der Berechtigung der Fachgewerkschaft, im Namen des Österreichischen Gewerkschaftsbundes Kollektivverträge abzuschließen, ihre Befugnis ableiten, im allgemeinen Rechtsverkehr als Vertreterin des Gewerkschaftsbundes aufzutreten und diesen rechtsgeschäftlich zu verpflichten.
+Es war daher das Rekursgericht im Recht, wenn es die Unterzeichnung des Exekutionsantrages durch den Obmann des Österreichischen Gewerkschaftsbundes verlangte. Wäre diese Unterzeichnung erfolgt, dann hätte kein Hindernis bestanden, den Namen der Einschreiterin im Exekutionsverfahren (betreibende Partei), da jetzt die Unterschrift des zweifellos Berechtigten vorliegen würde, von Amts wegen in "Österreichischen Gewerkschaftsbund" zu berichtigen, wodurch nur eine Änderung in der Parteienbezeichnung der betreibenden Partei eingetreten wäre und keine Änderung der Partei (SZ. XXIII/7). Ob das Erstgericht - in Entsprechung des Auftrages des Rekursgerichtes - gemäß § 6 Abs. 2 ZPO. eine Frist erteilt hat oder nicht, ändert an der Zulässigkeit des Auftrages nichts, da die Befolgung des Auftrages abgelehnt wurde.

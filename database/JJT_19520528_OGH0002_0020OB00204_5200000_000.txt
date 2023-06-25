@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.05.1952
+Geschäftszahl
+2Ob204/52
+Norm
+ABGB §43;
+Devisengesetz §2 (2);
+Kopf
+SZ 25/148
+Spruch
+Vereinbarung eines höheren als des von der Nationalbank verlautbarten Kurses für die Umrechnung einer Schillingforderung in ausländische Valuta kein nach § 2 Abs. 2 DevG. unzulässiger Devisenhandel.
+Entscheidung vom 28. Mai 1952, 2 Ob 204/52.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Kläger, der amerikanischer Staatsangehöriger ist und in den USA wohnt, hatte eine Forderung gegen Ing. Walter E. in der Höhe von 40.000 S. Zwischen den beiden war vereinbart, daß für den Fall einer teilweisen Schuldtilgung in USA-Dollar ein fester Umrechnungskurs von 40 S für einen USA-Dollar gelten solle. Die Beklagte hat für die Schuld des Ing. Walter E. ihre Liegenschaft verpfändet. Auf die Forderung des Klägers sind in den USA 350 Dollar bezahlt worden. Da Ing. Walter E. mit seinen Abzahlungen in Verzug geraten ist, hat der Kläger die Verurteilung der Beklagten zur Bezahlung des aushaftenden Restes begehrt und hiebei für die in den USA empfangene Teilzahlung einen Kurs von 30 S verrechnet. Im Verfahren ist schließlich nur strittig geblieben, ob der Kläger die 350 Dollar zum Kurs von 30 S oder von 40 S für den Dollar zu verrechnen hatte.
+Das Erstgericht wies das Klagebegehren in Ansehung des Differenzbetrages von 3500 S ab.
+Das Berufungsgericht sprach dem Kläger auch die 3500 S zu.
+Der Oberste Gerichtshof stellte das erstgerichtliche Urteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In der Vereinbarung eines höheren als des von der Nationalbank verlautbarten Kurses für den Fall der Bezahlung der gegenständlichen Schillingforderung in USA-Dollar kann kein nach § 2 Abs. 2 Satz 1 DevG. unzulässiger Devisenhandel erblickt werden. Es ist, wenn schon nicht die Vereinbarung einer Wahlschuld oder einer Ersetzungsbefugnis des Schuldners, darin ein bedingter teilweiser Verzicht des Klägers, nämlich auf den den offiziellen Dollarkurs übersteigenden Teil seiner Forderung zu erblicken. Ein Verzicht des ausländischen Gläubigers auf eine ihm gegen einen inländischen Schuldner zustehende Forderung ist aber trotz des Wortlautes des § 3 Z. 2 DevGes. auch ohne Bewilligung der Nationalbank zulässig und gültig. Dies folgt aus dem natürlichen Sinn dieser Gesetzesstelle (§ 7 ABGB.), der sich wieder aus der Präambel des Devisengesetzes ergibt, das im Interesse der heimischen Wirtschaft die verfügbaren Devisen-Aktiven Österreichs erfassen und zweckmäßig verteilen und die Entstehung ausländischer Forderungen gegen das Inland kontrollieren will. Das Erlöschen der Forderung eines Ausländers gegen einen Inländer ohne Gegenleistung des Inländers kann nun ebensowenig wie der Erwerb einer Forderung gegen einen Ausländer durch einen Inländer ohne Gegenleistung des Inländers (z. B. aus einem unbeschwerten Vermächtnis) als geeignet angesehen werden, die Devisenvorräte der heimischen Wirtschaft zu vermindern. Denn dadurch wird der inländische Devisenvorrat erhöht bzw. ein drohender Wertverlust an das Ausland verhindert. Deshalb entsteht auch bei dem Erwerb einer Forderung gegen einen Ausländer für den erwerbenden Inländer gem. § 15 Abs. 2 DevGes. nur eine Anmeldungspflicht und deshalb verlangt § 14 Abs. 1 DevGes. eine Bewilligung für die Übernahme von Verpflichtungen gegenüber Ausländern, nicht aber umgekehrt für die Übernahme von Verpflichtungen durch Ausländer gegenüber Inländern. Für die hier vertretene Rechtsansicht spricht ferner, daß das Gesetz in keiner Weise Vorkehrungen gegen den ohne Bewilligung ausgesprochenen Verzicht oder Erlaß des Ausländers in bezug auf seine Forderung gegen einen Inländer trifft.
+Die Vereinbarung des Dollarkurses mit 40 S ohne Bewilligung der Nationalbank war also zulässig und gültig. Daher ist das erstgerichtliche Urteil wieder herzustellen.

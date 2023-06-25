@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2021
+Geschäftszahl
+3Ob64/21i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Stadtgemeinde G*****, vertreten durch Mag. Dr. Franz Hafner, Dr. Karl Bergthaler, Rechtsanwälte in Altmünster, gegen die beklagten Parteien 1. Dr. H***** K*****, 2. Dr. K***** K*****, beide vertreten durch Stix Rechtsanwälte Kommandit-Partnerschaft in Wien, wegen Aufkündigung, über die (richtig:) außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Wels als Berufungsgericht vom 27. Jänner 2021, GZ 23 R 106/20g-52, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1. Die Aufhebung eines Bestandverhältnisses nach § 1118 ABGB erfolgt schon durch die Aufhebungserklärung (RS0105354 [T1]), hier also (spätestens) mit Schriftsatz vom 23. März 2018. Dies gilt auch dann, wenn zu diesem Zeitpunkt noch unklar ist, ob der Mieter die Räumungsverpflichtung allenfalls mangels groben Verschuldens am Rückstand durch Nachzahlung abwenden wird können (§ 33 Abs 2 und 3 MRG); in einem solchen Fall wird die Aufhebungserklärung des Vermieters nur dann rückwirkend unwirksam, wenn der Mieter den Mietzinsrückstand bis zu dem in § 33 Abs 2 MRG angeführten Zeitpunkt entrichtet (vgl RS0107946).
+[2] 		1.2. Eine Kündigung ist für rechtsunwirksam zu erklären, wenn eine dasselbe Bestandverhältnis betreffende, zu einem früheren Kündigungstermin eingebrachte Kündigung bereits für rechtswirksam erklärt worden ist. Da nämlich in einem solchen Fall das Bestandverhältnis bereits durch diese (frühere) Kündigung aufgelöst ist, kann es nicht zu einem späteren Termin noch einmal aufgelöst werden (vgl RS0020941). Diesen Zusammenhang hat der Oberste Gerichtshof auch schon zwischen zwei aufeinanderfolgenden, auf § 1118 ABGB gestützten Räumungsbegehren hergestellt (vgl 6 Ob 572/94; zur Auflösung nach § 1117 ABGB und einer späteren Aufkündigung vgl 10 Ob 46/19s).
+[3] 		2. Von den Grundsätzen dieser Rechtsprechung ist das Berufungsgericht daher nicht abgewichen, wenn es die erst nach der vorangegangenen, rechtswirksamen Vertragsaufhebungserklärung der Klägerin gemäß § 1118 ABGB zugegangene Aufkündigung für rechtsunwirksam erachtete.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0030OB00064.21I.0520.000

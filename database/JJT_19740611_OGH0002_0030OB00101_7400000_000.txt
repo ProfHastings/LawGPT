@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.06.1974
+Geschäftszahl
+3Ob101/74 (3Ob100/74)
+Norm
+ABGB §1416;
+EO §216 Abs2;
+EO §217 Abs1 Z1;
+Allgemeines Grundbuchsgesetz §14 Abs2;
+Kopf
+SZ 47/73
+Spruch
+Bei einer Höchstbetragshypothek genießen die nicht länger als drei Jahre rückständigen Zinsen und die länger als drei Jahre rückständigen Zinsen den gleichen Rang
+Bei Unzulänglichkeit des für eine angemeldete Forderung zur Verfügung stehenden Betrages sind zuerst die Zinsen zu berücksichtigen
+OGH 11. Juni 1974, 3 Ob 100, 101/74 (LG Linz 13 R 89/74; BG Neufelden E
+Text
+Mit Meistbotsverteilungsbeschluß vom 31. Jänner 1974 wies das Erstgericht unter anderem in der bücherlichen Rangordnung der rangbesten Gläubigerin Bank für O und S auf Grund der zu ihren Gunsten einverleibten Höchstbetragshypothek entsprechend ihrer Anmeldung, gegen die kein Widerspruch erhoben wurde, ein Betrag von 993.490.77 S "zur teilweisen Berichtigung" ihrer "noch aushaftenden" Forderung (an Kapital von 2.949.658 S, 8% Zinsen vom 2. August 1962 bis 23. November 1972 im Betrag von 2.584.514.92 S und Kosten von 175.374.20 S bzw. 31.653.50 S) zu. Hiezu führte das Erstgericht in der Begründung aus, daß der zugewiesene Betrag zunächst auf die Zinsen anzurechnen sein werde und bei einer Höchstbetragshypothek auch länger als drei Jahre rückständige Zinsen zugesprochen werden könnten.
+Das Rekursgericht bestätigte diese Zuweisung mit der Begründung, ein Ausspruch, für welche Beträge sie erfolge, im Beschluß selbst sei entbehrlich, weil aus der Begründung des erstgerichtlichen Beschlusses eindeutig hervorgehe, daß dieser Betrag zur teilweisen Berichtigung der Zinsen zugewiesen werde; insoweit sei der Ansicht des Erstgerichtes beizupflichten, weil bei einer Höchstbetragshypothek auch länger als dreijährige Zinsenrückstände zuzusprechen seien.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Verpflichteten nur dahin Folge, daß er die Formulierung "zur teilweisen Berichtigung durch Barzahlung" die Worte "zur teilweisen Berichtigung der ab 2. August 1962 aushaftenden Zinsen durch Barzahlung" ersetze.
+Rechtliche Beurteilung
+Aus der Begründung:
+Hinsichtlich der Zuweisung von 993.490.77 S an die Bank für O und S wurde die primär zu lösende Frage, ob im Rahmen einer Höchstbetragshypothek auch länger als drei Jahre rückständige Zinsen zuzuweisen sind, von den Vorinstanzen zutreffend - von den Rechtsmittelwerbern unbekämpft - bejaht (ebenso Heller - Berger - Stix, 1544; NotZ 1928, 79 u. a.). Grundsätzlich ist nämlich jedes Höchstbetragspfandrecht - hier aus einem gegebenen Kredit - für alle Ansprüche aus dem der Vereinbarung zugrunde liegenden Rechtsverhältnis bestellt (ebenso insbesondere Heller - Berger - Stix, 1544), es vereinigt somit gewissermaßen die Funktion des Pfandrechtes für eine bestimmte Forderung mit jener der gleichzeitig hiezu bestellten Nebengebührenkaution.
+Ähnlich jenen Fällen, in welchen ein Gläubiger bei Einverleibung eines Pfandrechtes für eine bestimmte Forderung und gleichzeitiger Einverleibung einer Nebengebührenkaution mit sämtlichen Zinsen im gleichen Rang zum Zuge kommt (vgl. Heller - Berger - Stix, 1489; SZ 19/253 u. a.), oder wenn ein Pfandrecht bereits für einen länger als drei Jahre zurückliegenden Zinsenrückstand begrundet wurde (vgl. hiezu Neumann - Lichtblau[3], 692; SZ 13/11 u. a.), genießen somit auch bei jeder Höchstbetragshypothek die nicht länger als drei Jahre ruckständigen Zinsen und die länger als drei Jahre rückständigen Zinsen gegenüber anderen Gläubigern - insoweit abweichend von der Bestimmung des § 217 Abs. 1 Z. 1 EO - den gleichen Rang; die genannte Bestimmung, welche das Rangverhältnis der Zinsen zu anderen Hypothekargläubigern regelt und insoweit einen Unterschied im Rang normiert, kommt somit bei Höchstbetragshypotheken, bei welchen nach den vorstehenden Ausführungen alle Zinsen den gleichen Rang genießen, nicht zur Anwendung.
+Demzufolge kann bei der Zuweisung von Zinsen aus einer Höchstbetragshypothek kein rangmäßiger Unterschied zwischen den nicht länger als drei Jahre rückständigen Zinsen einerseits und den länger als drei Jahre rückständigen Zinsen andererseits gemacht werden. Bei Unzulänglichkeit des für eine angemeldete Forderung zur Verfügung stehenden Betrages sind zuerst die Zinsen zu berücksichtigen (ebenso Neumann - Lichtblau[3], 690; Heller - Berger - Stix, 1490, sowie die Praxis der Exekutionsgerichte). Da hier nach den vorstehenden Ausführungen hinsichtlich der Zinsfälligkeiten kein Rangunterschied besteht - eine teilweise Verjährung der angemeldeten Zinsen wurde nicht behauptet, was überdies mit Widerspruch hätte geltend gemacht werden müssen -, ist der zuzuweisende Betrag auf die zuerst fälligen Zinsenraten zu verrechnen (vgl. hiezu SZ 9/231; Rspr. 1936/235; MietSlg. 23.211 und VersRdSch. 1972, 369).
+Der Verteilungsbeschluß war daher in diesem Sinne zu ergänzen.

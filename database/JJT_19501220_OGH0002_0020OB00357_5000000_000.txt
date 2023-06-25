@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.1950
+Geschäftszahl
+2Ob357/50
+Norm
+ABGB §26;
+Behörden-Überleitungsgesetz §51;
+Gesetz über die erweiterte Zulassung von Schadenersatzansprüchen bei
+Dienst- und Arbeitsunfällen vom 7. Dezember 1943, DRGBl. I S. 674 §4;
+Reichsversicherungsordnung §633;
+Reichsversicherungsordnung §898;
+Reichsversicherungsordnung §903;
+Reichsversicherungsordnung §1542;
+Sozialversicherungs-Überleitungsgesetz §78;
+ZPO §1;
+Kopf
+SZ 23/388
+Spruch
+Zur Frage des Ausschlusses des einheitlichen Unternehmers von der Haftung nach § 898 RVO.
+Das Unternehmen der Österreichischen Bundesbahnen hat nicht Rechtspersönlichkeit.
+Die Republik Österreich ist einheitlicher Unternehmer hinsichtlich der Post und Eisenbahn.
+Entscheidung vom 20. Dezember 1950, 2 Ob 357/50.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht hat die auf § 1542 RVO. gestützte Klage der Allgemeinen Unfallversicherungsanstalt abgewiesen. Aus dem Zusammenstoß zwischen einer Lokomotive der Österreichischen Bundesbahnen und einem Postpaketauto, der sich bei einem Bahnübergang ereignet habe und bei dem Postbedienstete getötet worden seien, könne die Klägerin ihren Anspruch auf Rückersatz von Rentenbeträgen in der eingeklagten Höhe von 18.983.90 S nicht geltend machen. Gemäß § 51 Abs. 3 Beh-ÜG. vom 20. Juli 1945, StGBl. Nr. 94, bestehe ein selbständiger Wirtschaftskörper der Österreichischen Bundesbahnen derzeit nicht. Daran habe auch die Kundmachung vom 18. Oktober 1945, BGBl. Nr. 85/1946, nichts geändert. Die Republik Österreich umfasse sowohl die Post- als auch die Bundesbahnverwaltung als einheitliche Rechtspersönlichkeit. Sie sei in beiden Betätigungen derselbe Unternehmer und deshalb könnten die Hinterbliebenen der verunglückten unfallversicherten Postangestellten gemäß § 898 RVO. gegen die Republik Österreich keinen Schadenersatzanspruch geltend machen. Strafgerichtlich sei nicht festgestellt worden, daß der Unfall vorsätzlich herbeigeführt worden wäre. Damit entfalle der Rechtsübergang von Ansprüchen der Hinterbliebenen der Verunglückten auf die Klägerin im Sinne des § 1542 RVO. Auch § 4 des Gesetzes vom 7. Dezember 1943, DRGBl. I S. 674, spreche gegen den Bestand der klägerischen Forderung.
+Infolge Berufung der Klägerin bestätigte das Berufungsgericht das erstgerichtliche Urteil und übernahm die tatsächlichen Feststellungen und die rechtliche Beurteilung des Erstgerichtes.
+Der Oberste Gerichtshof hat der Revision der Klägerin nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Ähnlichkeit der heutigen Verwaltung der Österreichischen Bundesbahnen mit der der Deutschen Reichsbahn und die Anwendbarkeit reichsdeutscher Organisationsbestimmungen vermag über die Rechtspersönlichkeit des Inhabers des Vermögens der Bundesbahnen keine Aufklärung zu geben und keinen Beweis zu erbringen, daß es sich so wie vor 1938 um einen eigenen selbständigen Wirtschaftskörper handle. Die Beurteilung in dieser Richtung muß von der gegenwärtigen gesetzlichen Regelung ausgehen. Mit Recht verweisen die Untergerichte auf die unmißverständliche Bestimmung des § 51 Abs. 3 Beh-ÜG. vom 20. Juli 1945, StGBl. Nr. 94, in dem die Errichtung eines selbständigen Wirtschaftskörpers der Österreichischen Bundesbahnen vorbehalten und damit ausgesprochen wird, daß ein solcher Wirtschaftskörper bis auf weiteres nicht besteht (E. v. 30. Juni 1950, 2 Ob 321/50). Die von der Revisionswerberin hervorgehobene Kundmachung vom 18. Oktober 1945, BGBl. 1946, Nr. 85, konnte demgegenüber durch die Aufhebung reichsdeutscher Organisationsbestimmungen die nicht bestehende Rechtspersönlichkeit der Österreichischen Bundesbahnen nicht schaffen. Darauf hat schon das Erstgericht hingewiesen und das Berufungsgericht hat diese Rechtsmeinung übernommen, wie es die Stellungnahme des Erstgerichtes überhaupt gebilligt hat. Der Unternehmer der Österreichischen Bundesbahnen ist derselbe wie der der Post, nämlich die Republik Österreich (vgl. DJ. 1944, S. 21).
+Der Sinn des zivilrechtlichen Haftungsausschlusses des Unternehmers (§ 633 RVO.) nach § 898 RVO. liegt darin, daß diejenige Person, die unmittelbar oder gemäß § 903 RVO. im Regreßweg Aufwendungen für die Unfallversicherung (§ 78 SV-ÜG.) zu tragen hat, über diese Leistungen hinaus nicht weitergehend in Anspruch genommen werden soll, sofern nicht vorsätzliche Schadenszufügung vorliegt (E. v. 8. November 1950, 2 Ob 197/50). Die Unfallversicherten erhalten im Rahmen der Versicherung ja auch Ersatz für Unfälle, die sich ohne Verschulden einer dritten Person und des Unternehmers oder sogar aus dem Verschulden des Versicherten selbst ereignet haben (E. d. RG. v. 30. Mai 1932, RGZ. 136, S. 345, Bülow, DJ. 1944, S. 25). Wenn ein Unternehmer mehrere Betriebe besitzt, leistet er die Unfallversicherungsprämien für die unfallversicherten Beschäftigten aller Betriebe, u. zw. nicht nur gegen Arbeitsunfälle im betreffenden Betrieb selbst, sondern auch für solche, die sich in der Person der in dem einen Betrieb Versicherten, aber örtlich außerhalb, etwa in einem der anderen Betriebe, ereignen. Im vorliegenden Fall waren die verunglückten Postbediensteten gegen Unfallsfolgen, die sich beim Fahren mit Postkraftfahrzeugen und bei Zusammenstößen mit anderen Betriebsmitteln, etwa solchen der Österreichischen Bundesbahnen, ereignen könnten, versichert. Der Hinweis der Revisionswerberin auf die höhere Gefahrklasse der Unfallversicherung bei den Bundesbahnen ist belanglos, weil es nicht auf die Leistung der Versicherungsprämien für die Bundesbahnbediensteten, sondern ausschließlich nur auf die Versicherungsprämien ankommt, die für die verunglückten Postbediensteten von der beklagten Partei als einheitlichen Unternehmerin beider beteiligten Betriebe bezahlt worden sind. Diese Leistung rechtfertigt den Ausschluß der Haftung des einheitlichen Unternehmers nach § 898 RVO. (Geigel, Der HaftpflichDprozeß, 4. Aufl., 1949, S. 316, Kommentar der Mitglieder des Reichsversicherungsamtes, III, S. 436). Eine Unterscheidung, ob die Haftung des Unternehmers für Schadenersatz eine Erfolgshaftung wäre, läßt § 898 RVO. nicht zu.
+Das Gesetz vom 7. Dezember 1943, DRGBl. I S. 674 (Geigel, a. a. O., S. 321, Amtl. Begründung, DJ. 1944, S. 21 ff.) hat im Verhältnis zwischen dem Unfallversicherten und dem Unternehmer dessen Haftungsausschuß nach § 898 RVO. für die Teilnahme des Versicherten am allgemeinen Verkehr aus Billigkeitsgrunden beseitigt. Es handelt sich um eine, nicht durch die Kriegsereignisse bedingte Ausnahmsbestimmung, die nach § 4 des Gesetzes über die erweiterte Zulassung von Schadenersatzansprüchen bei Dienst- und Arbeitsunfällen vom 7. Dezember 1943, DRGBl. I S. 674, und § 1542 Abs. 1 letzter Satz RVO. der Klägerin keinesfalls zugutekommen könnte.
+Der Hinweis der Revisionswerberin auf den notwendigen Schutz des wirtschaftlich Schwächeren und auf sachlich oder zeitlich nicht anwendbare Gesetze kann bei der klaren Gesetzeslage nicht erfolgreich sein.
+Da die Klägerin einen Anspruch nach § 1542 RVO. nicht geltend machen kann, haben die Untergerichte ohne Rechtsirrtum die Klage abgewiesen.

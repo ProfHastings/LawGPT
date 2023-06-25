@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.04.2016
+Geschäftszahl
+6Ob79/16k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei K* GmbH, *, vertreten durch Dr. Heinz-Peter Wachter, Rechtsanwalt in Wien, wider die beklagte Partei E*, vertreten durch Mag. Bernhard Österreicher, Rechtsanwalt in Wien, wegen 461.765,56 EUR, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 184.347,15 EUR sA) gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 20. Jänner 2016, GZ 39 R 224/15b-68, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+In dritter Instanz ist unstrittig, dass die Mietzinszahlungen, die die klagende Gesellschaft mit beschränkter Haftung als Bestandnehmerin einer Liegenschaft in der Vergangenheit jahrelang an die Beklagte als Bestandgeberin leistete, insoweit gegen das Verbot der Einlagenrückgewähr gemäß § 82 Abs 1 GmbHG verstoßen haben, als sie höher als der angemessene Mietzins waren. Es konnte nicht festgestellt werden, ob der aus der verbotenen Einlagenrückgewähr begünstigte (mittelbare) Gesellschafter wusste, dass die bezahlten Mietzinse unangemessen hoch waren.
+Die Klägerin begehrt die Rückzahlung der Differenz zwischen dem gezahlten und dem angemessenen Mietzins (§ 83 Abs 1 GmbHG). Die Beklagte wendet ua Verjährung ein.
+Die Vorinstanzen bejahten die Konkurrenz der fünfjährigen Verjährungsfrist gemäß § 83 Abs 5 GmbHG und der allgemeinen bereicherungsrechtlichen Verjährungsfrist (RIS-Justiz RS0128167), die bei Rückforderung von zu viel bezahltem Mietzins drei Jahre betrage (8 Ob 12/13t; 5 Ob 25/15k). Sie wiesen einen Teil des Klagebegehrens wegen Verjährung ab. Das Berufungsgericht ließ die ordentliche Revision nicht zu.
+Die Klägerin sieht in ihrer außerordentlichen Revision eine erhebliche Rechtsfrage darin, dass das Berufungsgericht zur Frage der Verjährung von der oberstgerichtlichen Rechtsprechung abgewichen sei; hilfsweise sei von einer uneinheitlichen Rechtsprechung des Obersten Gerichtshofs auszugehen. Die (allgemeine) bereicherungsrechtliche Verjährungsfrist betrage im vorliegenden Fall 30 Jahre.
+Rechtliche Beurteilung
+Die außerordentliche Revision ist unzulässig.
+Nach der eingehend begründeten Entscheidung 6 Ob 110/12p konkurriert der Rückforderungsanspruch nach § 83 GmbHG mit der Rückforderung von verbotswidrigen Leistungen nach allgemeinem Bereicherungsrecht. Demnach kommt neben der Verjährungsfrist des § 83 Abs 5 GmbHG auch die allgemeine (lange) Verjährungsfrist zum Tragen. Die Privilegierung des Empfängers einer Leistung, der von deren Verbotswidrigkeit keine Kenntnis hat, in § 83 Abs 5 GmbHG schlägt nicht auf das allgemeine Bereicherungsrecht durch (RIS-Justiz RS0128167).
+Der Revisionswerberin ist zuzugestehen, dass es in dem der Entscheidung 6 Ob 110/12p (zweiter Rechtsgang) zugrundeliegenden Fall - wie hier - unter anderem um die Rückforderung (dort als Gegenforderung geltend gemacht) von zu viel bezahltem Bestandzins wegen des Verstoßes gegen das Verbot der Einlagenrückgewähr nach den §§ 82 f GmbHG ging (vgl auch 6 Ob 132/10w - erster Rechtsgang).
+Dennoch befasste sich der Oberste Gerichtshof in der Entscheidung 6 Ob 110/12p nur grundsätzlich mit der - in der Lehre umstrittenen - Frage, ob zwischen dem Anspruch auf Rückgewähr gemäß § 83 Abs 1 GmbHG und dem allgemeinen Bereicherungsanspruch Konkurrenz bestehe oder § 83 Abs 1 GmbHG gegenüber dem allgemeinen Bereicherungsrecht die speziellere Norm sei. Der Oberste Gerichtshof betonte in dieser Entscheidung zu Beginn der einschlägigen Erörterungen (Punkt 4.4.), dass die Frage einer allfälligen Verjährung im damaligen Verfahrensstadium nicht abschließend zu prüfen sei. Er bejahte nach eingehender Begründung die Konkurrenz und sprach aus, neben der Verjährungsfrist des § 83 Abs 5 GmbHG komme auch die (lange) Verjährungsfrist zum Tragen. Eine ausdrückliche Auseinandersetzung mit der Frage, ob die lange (30- oder 40-jährige) Verjährungsfrist nach allgemeinem Bereicherungsrecht auch bei der Rückforderung von zu viel bezahltem Bestandzins anzuwenden ist, findet sich in dieser Entscheidung nicht.
+Die von der Revisionswerberin ins Treffen geführten Entscheidungen 6 Ob 48/12w und 6 Ob 158/14z (vgl RIS-Justiz RS0128167) sind nicht einschlägig, weil es dort nicht um die Rückforderung von (zu viel geleisteten) Bestandzinsen ging.
+Mittlerweile liegen mehrere einschlägige neue Entscheidungen vor, die in analoger Anwendung von § 27 Abs 3 MRG und § 5 Abs 4 KlGG die dreijährige Verjährungsfrist anwenden:
+In der Entscheidung 8 Ob 12/13t (= immolex 2013, 208 [Prader] = ZRB 2013, 150 [zust Seeber] = wobl 2013, 206 = MietSlg 65.177 = MietSlg 65.360 [5] = RIS-Justiz RS0070334 [T2]) wendete der Oberste Gerichtshof die dreijährige Verjährungsfrist für die Rückforderung von gesetzwidrig vorgeschriebenen Betriebskosten außerhalb des Anwendungsbereichs des MRG (Pachtvertrag) an.
+In der Entscheidung 5 Ob 25/15k (= immolex 2016, 51 [zust Prader] = JBl 2015, 712 = RIS-Justiz RS0130321; vgl auch zust Kothbauer, immolex 2016, 64) wendete der Oberste Gerichtshof die dreijährige Verjährungsfrist auf die Rückforderung von Mietzinsen wegen Mietzinsminderung an.
+Beide Entscheidungen sind ausführlich begründet, wurden - wie die Zitate zeigen - mehrfach veröffentlicht und sind in der Lehre entweder auf keinen Widerspruch oder sogar auf ausdrückliche Zustimmung gestoßen. Dies reicht für eine gesicherte Rechtsprechung aus (RIS-Justiz RS0103384 [T8]). Die Vorinstanzen haben sich an diese Rechtsprechung gehalten. Die Revision hat daher keine erhebliche Rechtsfrage aufgeworfen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E114420

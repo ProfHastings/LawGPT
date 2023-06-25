@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.10.1966
+Geschäftszahl
+6Ob317/66
+Norm
+AO §3;
+AO §7;
+AO §8;
+Kopf
+SZ 39/169
+Spruch
+Trotz Ausgleichseröffnung können Prozesse gegen den Schuldner anhängig gemacht und fortgesetzt werden
+Entscheidung vom 14. Oktober 1966, 6 Ob 317/66
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien
+Text
+Obwohl der Kläger wußte, daß die Beklagte beabsichtigte, die Eröffnung des Ausgleichsverfahrens über ihr Vermögen zu beantragen, brachte er am 15. März 1966 die vorliegende Klage auf Zahlung von 21.829.19 S samt 9% Zinsen seit 18. März 1966 (Klagszustellungstag) ein.
+Die Beklagte beantragte am 9. März 1966 zu Sa .../66 des Handelsgerichtes Wien die Eröffnung des Ausgleichsverfahrens und führte die Forderung des Klägers mit 19.714.15 S im Vermögensverzeichnis unter den Passiven an.
+Bei der ersten Tagsatzung am 30. März 1966 anerkannte die Beklagte die eingeklagte Kapitalsforderung dem Gründe nach, der Höhe nach jedoch nur im Ausmaß einer 40%igen Ausgleichsquote. In diesem Ausmaß begehrte sie Kostenzuspruch nach § 45 ZPO., im übersteigenden Betrag Abweisung des Klagebegehrens, weil dieses infolge des Ausgleichsantrages unberechtigt sei.
+Das Erstgericht gab dem Klagebegehren zur Gänze statt und führte hiezu folgendes aus:
+Im Gegensatz zum Konkurs habe das Ausgleichsverfahren keine rechtliche Wirkung auf anhängige oder im Zuge des Ausgleichsverfahrens anhängig gemachte Rechtsstreitigkeiten über Ausgleichsforderungen. Dem Ausgleichsgläubiger stehe vielmehr das volle Klagerecht zu. Er habe aber auch ein Rechtsschutzinteresse an der Schaffung eines Exekutionstitels für die ganze Forderung, da ein allfälliger Titel, den der Kläger durch Eintragung in das Anmeldungsverzeichnis erwerben könnte, nur die Ausgleichsquote beträfe. Abgesehen davon, daß eine solche Eintragung noch nicht geschehen sei und die Beklagte die Klagsforderung in ihrem Vermögensverzeichnis niedriger beziffert habe, sei es in dem für die Entscheidung maßgeblichen Zeitpunkt des Schlusses der mündlichen Verhandlung erster Instanz noch völlig ungewiß gewesen, ob der Ausgleich angenommen und gerichtlich bestätigt werde. Auch habe immer noch die Möglichkeit bestanden, daß die Beklagte ihren Ausgleichsantrag zurückziehe.
+Dem Klagebegehren sei daher nicht nur zur Gänze stattzugeben, sondern es seien dem Kläger auch die vollen Prozeßkosten zuzuerkennen.
+Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Während die §§ 6 und 7 KO. bestimmen, daß Rechtsstreitigkeiten, welche die Geltendmachung oder Sicherstellung von Ansprüchen auf das zur Konkursmasse gehörige Vermögen bezwecken, nach der Konkurseröffnung weder anhängig gemacht noch fortgesetzt werden können und alle derartigen Rechtsstreitigkeiten durch die Konkurseröffnung unterbrochen werden, enthält - wie beide Vorinstanzen zutreffend ausgeführt haben - die Ausgleichsordnung keine derartige Bestimmung. Dies hängt, wie Bartsch - Pollak II S. 96, Anm. 28 zu § 3 AO., darlegen, damit zusammen, daß die Rechtswirkungen der Ausgleichseröffnung begrenzt sind. "Eine Hemmung oder Unterbrechung der Rechtsverfolgung der Aussonderungsberechtigten, Absonderungsgläubiger und bevorrechteten Gläubiger findet nicht statt. Die Ausgleichsgläubiger sind gleichfalls nicht gehindert, für ihre Ansprüche Exekutionstitel zu erwerben, also z. B. während des Ausgleichsverfahrens auf Zahlung zu klagen oder das bei der Verfahrenseröffnung anhängige Erkenntnisverfahren des Zivilprozesses ohne Unterbrechung fortzusetzen; nur die Exekutionsbewilligung und die Konkurseröffnung sind ihnen während des Ausgleichsverfahrens versagt (§ 10 AO.)."
+Dieselben Autoren schreiben auf S. 126 f. unter Anm. 50 zu § 8 AO.:
+"Prozesse, die während der Eröffnung des Verfahrens anhängig sind, werden (anders als nach § 7 KO.) nicht unterbrochen, auch nicht, wenn sie Ausgleichsforderungen zum Gegenstand haben. Der Gläubiger verliert daher keine Zeit. Er kann während des Verfahrens Exekutionstitel erwerben, wenn er sie auch nicht sofort benützen kann. Im Urteil ist die Leistungsfrist ohne Rücksicht auf das Ausgleichsverfahren und das Verbot begünstigender Befriedigung einzelner Gläubiger festzusetzen; es hat, wenn zur Zeit des Urteils erster Instanz noch kein rechtskräftig bestätigter Ausgleich vorliegt, auf den ganzen Betrag zu lauten."
+Die Entscheidungen beider Vorinstanzen stehen mit diesen Ausführungen, zu denen es in Lehre und Rechtsprechung keine Gegenmeinung gibt, im Einklang.
+Die Entscheidungen SZ. X 16 und 111, auf die sich die Revisionswerberin beruft, besagen nur, daß durch den nach § 53a AO. gewonnenen Exekutionstitel ein früherer, für dieselbe Forderung erlangter Exekutionstitel so weit vernichtet wird, als nach dem Inhalt des Ausgleichs gemäß § 53a AO. die Exekution bewilligt werden kann (im gleichen Sinne Bartsch - Pollak a. a. O. S. 446). Damit ist aber für die hier zu entscheidende Frage nichts gewonnen. Denn der Ausgleichsgläubiger hat selbst für den Fall des Zustandekommens des Ausgleichs nur einen Titel für die Quote und muß bei Eintritt des Wiederauflebens sich durch Klageführung einen Titel für den wiederauflebenden Forderungsteil verschaffen. Vor allem aber hat er, solange der Ausgleich nicht zustandegekommen ist, keinerlei Sicherheit dafür, daß er auch nur für die Quote einen Titel nach § 53a AO. erlangt, da der Ausgleichsantrag vom Schuldner zurückgezogen oder von den Gläubigern abgelehnt werden kann.
+Der Revisionswerberin ist zuzugeben, daß sich, falls der Ausgleich zustandekommt und erfüllt wird, der Prozeßaufwand rückschauend als unnötige Belastung des Ausgleichsschuldners darstellen kann. Abgesehen davon aber, daß diese Umstände in dem für die Entscheidung maßgeblichen Zeitpunkt des Schlusses der mündlichen Verhandlung erster Instanz noch nicht vorlagen und daher auch nicht beurteilt werden konnten, kann hierauf mangels einer gesetzlichen Bestimmung nicht Rücksicht genommen werden.

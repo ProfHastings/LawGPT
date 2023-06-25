@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2014
+Geschäftszahl
+4Ob176/14g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei R***** GmbH, *****, vertreten durch Wiedenbauer Mutz Winkler Pramberger Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. P***** OHG, *****, 2. Ing. Mag. G***** P*****, 3. Verlassenschaft nach Ing. O***** P*****, alle vertreten durch Dr. Rainer Kornfeld, Rechtsanwalt in Wien, wegen 68.000 EUR sA, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 28. Mai 2014, GZ 39 R 67/14p-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Der Vermieter schuldet die Qualität der Bestandsache während der gesamten Vertragszeit. Fehlt sie, so liegt insoweit Nichterfüllung vor. Erleidet der Mieter dadurch einen Schaden, kann er nach den Grundsätzen des Schadenersatzrechtes Ersatz verlangen. Hat der Mieter den Mangel und den dadurch verursachten Schaden nachgewiesen, obliegt es dem Vermieter, sich zu entlasten (RIS-Justiz RS0021199; Reischauer in Rummel³, § 1298 Rz 20).
+1.2. § 1097 ABGB gilt nur für den Ersatz der Behebung von Sachschäden am Mietobjekt selbst (Würth in Rummel³, § 1096 Rz 12, vgl RIS-Justiz RS0020480; zum Verhältnis von § 1097 ABGB zum Leistungsstörungsrecht siehe Fidler, Aufwendungen des Mieters zur Mangelbeseitigung, wobl 2013, 307 ff). Verschuldete Brauchbarkeitsmängel können daher Haftbarkeit für Gesundheitsschäden bzw Schmerzengeldansprüche oder Nachteile aus der herabgesetzten Verwertbarkeit des Bestandobjektes begründen (Riss in Klete?ka/Schauer, ABGB-ON1.01 § 1096 Rz 35 mwN).
+1.3. Stand aufgrund des vertragswidrigen Verhaltens des Schuldners den Aufwendungen des Gläubigers, die er auch bei vertragsgetreuem Verhalten des Schuldners zu machen hatte, keine entsprechende Gegenleistung gegenüber, so ist der so frustrierte Aufwand als Nichterfüllungsschaden zu ersetzen, wenn der Schuldner nicht beweist, dass sich der Vertrag bei ordnungsgemäßer Erfüllung durch ihn als Verlustgeschäft erwiesen hätte (RIS-Justiz RS0018499). Bei einem synallagmatischen Vertrag kann durch vertragswidriges schuldhaftes Verhalten des Vertragspartners verursachter vergeblicher Aufwand als Schaden begehrt werden (RIS-Justiz RS0016386 [T1]; 8 Ob 570/91).
+2. Von dieser Rechtsprechung ist das Berufungsgericht mit der angefochtenen Entscheidung nicht abgewichen. Im Anlassfall macht die Klägerin keine Aufwendungen im Zusammenhang mit der Behebung von Sachschäden am Mietobjekt selbst geltend, die sich nach § 1097 ABGB richten, sondern Aufwendungen, die nunmehr frustriert sind bzw durch die Nichterfüllung der Beklagten erforderlich wurden. Umzugskosten des Mieters sind zwar grundsätzlich bloß vorverlagerte Kosten (vgl 8 Ob 570/91); Mehrkosten durch einen ungeplanten und plötzlich erforderlich werdenden Umzug - wie hier von der Klägerin in Bezug auf zusätzlich erforderliches Personal begehrt (vgl ON 8, Punkt 5.3) - sind allerdings als Erhöhung des Umzugsaufwands aus dem Titel des Schadenersatzes ersatzfähig.
+3.1. Die Beklagte beruft sich auf Punkt 9. Abs 2 des Mietvertrags, wonach den Mieter auch die Instandhaltungspflicht gemäß § 1096 ABGB trifft, was auch für ernste Schäden des Hauses gelte.
+3.2. Die Verpflichtung des Vermieters zur Erhaltung des Bestandobjekts nach § 1096 ABGB ist zwar innerhalb der Grenzen der Sittenwidrigkeit und der Verkürzung über die Hälfte (RIS-Justiz RS0021233 [T6]) grundsätzlich abdingbar, wenn nicht dessen Kernbereich oder Fragen der Gesundheitsgefährdung betroffen sind, soweit nicht in den Mietrechtsgesetzen anderes festgelegt ist (7 Ob 218/00k mwN; RIS-Justiz RS0021525, RS0020841).
+Das Berufungsgericht hat aber im Anlassfall zutreffend darauf verwiesen, dass nur das Innere des Mietgegenstands vermietet ist und nicht dessen Außenfläche (Punkt 1. Abs 2). Da das Dach, dessen mangelnde Dichtheit für die geltend gemachten Schäden kausal ist, nicht zum Inneren des Mietgegenstandes gehört, kommt für diesen Teil des Hauses eine Überwälzung der Instandhaltungspflicht auf den Mieter nicht in Betracht, und auch der vereinbarte Gewährleistungsausschluss (Punkt 7. Abs 3 des Mietvertrags) kann Mängel am Dach nicht umfassen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00176.14G.1021.000

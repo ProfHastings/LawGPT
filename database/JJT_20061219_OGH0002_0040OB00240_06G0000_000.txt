@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2006
+Geschäftszahl
+4Ob240/06g
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin des Obersten Gerichtshofs Hon. Prof. Dr. Griß als Vorsitzende und die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei C***** GmbH, *****, vertreten durch Wolf Theiss, Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1) L***** Bauträger-Betriebs- und WerbegmbH, *****, 2) L***** GmbH und 3) Ing. Richard L*****, alle vertreten durch CMS Reich-Rohrwig Hainz Rechtsanwälte GmbH in Wien, wegen Unterlassung (Streitwert im Provisorialverfahren 72.000 EUR), über den außerordentlichen Revisionsrekurs der erstbeklagten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 10. Oktober 2006, GZ 5 R 131/06f-9, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78 und 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Rekursgericht hat der Erst- und der Zweitbeklagten mit einstweiliger Verfügung verboten, im geschäftlichen Verkehr zu Zwecken des Wettbewerbs (a) in öffentlichen Bekanntmachungen oder anderen Mitteilungen, die für einen größeren Personenkreis bestimmt sind, anzukündigen, dass sie Verbrauchern neben Waren und Leistungen, und zwar insbesondere neben Kinoeintrittskarten, unentgeltliche Sachzugaben, und zwar insbesondere einen Gastronomiegutschein im Wert von 2,50 EUR gewähren und (b) die Gewährung von Gutscheinen anzukündigen, und zwar insbesondere die Ankündigung „zu jeder Kinokarte 2,50 EUR Gastronomiegutschein" oder sinngleiche Ankündigungen zu machen, sofern in der entsprechenden Ankündigung nicht im gleichen Auffälligkeitsgrad darauf hingewiesen wird, dass die Einlösung des Gutscheins von weiteren Bedingungen, wie insbesondere der Konsumation von Waren im Wert von 7,50 EUR abhängt. Als erhebliche Rechtsfrage macht die Erstbeklagte geltend, der Oberste Gerichtshof habe noch nicht entschieden, ob die Haftungsbeschränkung für Zeitungsherausgeber oder -eigentümer nach § 3 Abs 1 UWG analog auch für Herausgeber/Verantwortliche eines elektronischen Mediums (Betreiber einer Website) gelte. Bejahe man dies entgegen der Ansicht des Rekursgerichts, entfiele die Haftung der Erstbeklagten für die beanstandeten Werbeankündigungen der Zweitbeklagten.
+Rechtliche Beurteilung
+Die Frage nach der analogen Anwendung des § 3 Abs 1 UWG stellt sich im vorliegenden Fall nicht.
+Die Vorinstanzen stellten fest, dass sich die beanstandete Werbeankündigung (auch) auf der Website der Erstbeklagten befand (am rechten Rand, ohne erkennbare Trennung oder erforderliche Benutzerhandlung wie „Anklicken" oder „Anscrollen"). Auf der Website der Erstbeklagten werden die geschäftlichen Aktivitäten aller Beklagten beworben.
+Der Oberste Gerichtshof hat mehrfach ausgesprochen, dass eine Haftung
+des Zeitungsunternehmens besteht, wenn es nicht nur entgeltliche
+Veröffentlichungen eines Dritten entgegengenommen, sondern sich -
+über Empfehlungen im Sinn des § 3 Abs 1 UWG hinaus - zur Förderung
+des eigenen Wettbewerbs, also des Absatzes, an den als irreführend
+beanstandeten Ankündigungen (etwa im Sinn einer Gemeinschaftswerbung)
+derart beteiligt hat, dass diese Ankündigungen auch ihm zuzurechnen
+sind (4 Ob 172/89 = ÖBl 1990, 115 - „Das große Los" ua; RIS-Justiz
+RS0078583). Die wettbewerbsrechtliche Verantwortlichkeit für die
+Ankündigung einer solchen Gemeinschaftswerbung richtet sich nicht
+nach dem objektiven Sachverhalt, also nach dem den angesprochenen
+Verkehrskreisen unbekannten Innenverhältnis zwischen dem Inserenten
+und dem Zeitungsunternehmen, sondern nach dem Eindruck, den ein noch
+erheblicher Teil der angesprochenen Leser von der Werbeaktion
+gewinnen musste (4 Ob 30/91 = ÖBl 1991, 84 - „Glücks-Schlüssel"; 4 Ob
+16/92 = ÖBl 1992, 179 - Sokol-Karikaturen-Kalender).
+Dass die Ankündigung der Zweitbeklagten auf der Website der Erstbeklagten für das Publikum den Eindruck einer Gemeinschaftswerbung im Interesse beider Beklagten hervorruft, kann mangels Erkennbarkeit der Firmenstruktur und internen Verantwortlichkeit für den durchschnittlichen Internetbenutzer nicht zweifelhaft sein. Die beanstandete Werbeankündigung ist daher auch der Erstbeklagten zuzurechnen.

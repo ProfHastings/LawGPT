@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.12.2014
+Geschäftszahl
+7Ob203/14z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und durch die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei S***** GmbH & Co KG, *****, vertreten durch Dr. Helmut Destaller und Dr. Gerald Mader, Rechtsanwälte in Graz, gegen die beklagte Partei A*****AG, *****, vertreten durch Scherbaum Seebacher Rechtsanwälte GmbH in Graz, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 2. Oktober 2014, GZ 3 R 139/14g-68, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ob die Voraussetzungen für den „Betrieb“ eines Kraftfahrzeugs im Sinn des § 1 EKHG gegeben sind, hängt von den Umständen des Einzelfalls ab und hat regelmäßig keine erhebliche Bedeutung im Sinn des § 502 Abs 1 ZPO (RIS-Justiz RS0022592; RS0111365). Dies gilt in gleicher Weise für den Begriff der „Verwendung“ eines Fahrzeugs im Sinn des § 2 KHVG.
+2. Das Berufungsgericht hat die für den „Betrieb“ und die „Verwendung“ eines Fahrzeugs erforderlichen Voraussetzungen im Sinn dieser Bestimmungen unter sorgfältiger Darstellung der von der Judikatur entwickelten Grundsätze dargelegt und auf den Fall angewandt. Davon ausgehend hat es den Risikoausschluss des Art 8.3 AKHB 2004 auf Grund der Verwendung des versicherten Fahrzeugs als ortsgebundene Kraftquelle verneint.
+3. Von den Ausführungen des Berufungsgerichts ist hervorzuheben, dass der Begriff des „Betriebs“ eines Kraftfahrzeugs im Sinn des § 1 EKHG entweder einen inneren Zusammenhang mit einer dem Kraftfahrzeug eigentümlichen Gefahr oder, wenn dies nicht der Fall ist, einen adäquat ursächlichen Zusammenhang mit einem bestimmten Betriebsvorgang oder einer bestimmten Betriebseinrichtung des Kraftfahrzeugs erfordert (RIS-Justiz RS0022592). Die Ladung eines Kraftfahrzeugs zählt zu dessen Betriebseinrichtung. Das Abstellen eines Fahrzeugs zum Zweck eines Be- oder Entladens setzt dieses noch nicht außer Betrieb; das Be- und Entladen stellt einen Betriebsvorgang dar. Allerdings ist zu prüfen, ob auch tatsächlich ein Gefahrenzusammenhang in dem Sinn besteht, dass der Unfall aus einer spezifischen Gefährlichkeit des Kraftfahrzeugs resultiert. Der Unfall muss daher mit dem eigentlichen Vorgang des Be- und Entladens zusammenhängen (RIS-Justiz RS0124207).
+4. Der Oberste Gerichtshof hat schon ausgesprochen, dass die Betätigung einer Betonpumpe nicht der Be- oder Entladung des eigenen Fahrzeugs dient, wenn der Beton von einem Mischer, der sich auf einem anderen LKW befindet, in die Betonpumpe eingebracht wird. Hier entspricht die Tätigkeit der einer ortsgebundenen Arbeitsmaschine (8 Ob 245, 246/80).
+5. Im vorliegenden Fall war die Autobetonpumpe durch Ausfahren der Stützen am Boden fixiert und ihre Fahrbarkeit aufgehoben. Der flüssige Beton wurde von einem Mischwagen in den Zwischenbehälter der Pumpe geleert und von dort weiterbefördert. Dieser Vorgang wurde nach einer geringfügigen örtlichen Verlegung von Mischwagen und Autobetonpumpe am neuen Standort auf die selbe Weise durchgeführt. Zweck dieser Ortsveränderung war nicht der Transport von Beton, sondern die Notwendigkeit, die Arbeitsgeräte an einer anderen Stelle einzusetzen. Daher wird der zuvor über den Mischer eingebrachte Beton, der sich während der Standortverlegung um nur wenige Meter noch im Zwischenbehälter und in der Rohrleitung der Betonpumpe befand, auch nicht zum transportierten Ladegut. Selbst wenn zum Zeitpunkt des Unfalls gerade dieser Beton(-rest) abgepumpt worden sein sollte, ist dies nicht dem Betriebsvorgang des Entladens der Autobetonpumpe zuzurechnen. Vielmehr wurde der außerhalb des Betriebs des Fahrzeugs liegende, durch den Standortwechsel unterbrochene Arbeitsvorgang danach lediglich fortgesetzt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00203.14Z.1210.000

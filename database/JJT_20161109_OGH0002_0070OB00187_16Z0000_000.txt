@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.2016
+Geschäftszahl
+7Ob187/16z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei Mag. V***** L*****, als Masseverwalter im Konkursverfahren über das Vermögen der E***** H*****, vertreten durch Dr. Stefan Gloß ua Rechtsanwälte in St. Pölten, gegen die beklagte Partei A*****-AG, *****, vertreten durch Mag. DDr. Nikolaus Friedl, Rechtsanwalt in Wien, wegen 72.408,42 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 25. August 2016, GZ 1 R 57/16h-30, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen haben Leistungsfreiheit der beklagten Versicherung angenommen, weil der Kläger die Obliegenheit, die wasserführenden Leitungen abzusperren, falls das Haus länger als 72 Stunden unbewohnt ist (Art 5 Z 2 AWB 1998), grob fahrlässig verletzt habe.
+Rechtliche Beurteilung
+1. Ob eine Fehlhandlung wegen ihres besonderen Gewichts oder einzelne, für sich genommen nicht grob fahrlässige Handlungen in ihrer Gesamtheit und Häufung die Annahme grober Fahrlässigkeit rechtfertigen, ist bei Vertretbarkeit der von den Umständen des Einzelfalls abhängigen Beurteilung grundsätzlich keine Rechtsfrage im Sinn des § 502 Abs 1 ZPO (RIS-Justiz RS0044262 [T46, T48 bis T50]). Die Revision ist nur dann zulässig, wenn der Sachverhalt auch bei weitester Auslegung dem von der Judikatur für die Annahme oder die Verneinung grober Fahrlässigkeit aufgestellten Kriterien nicht entspricht (RIS-Justiz RS0087606 [T22]). Ein solcher Fall liegt hier nicht vor:
+1.1. Bei der Hausübergabe an den Kläger erklärte zwar die Gemeinschuldnerin, „dass die Leitungen leer sind“, doch wurde über das (tatsächlich nicht) erfolgte Absperren des Hauptwasserhahns nicht konkret gesprochen. Eine eigene Überprüfung nahm der Kläger nicht vor, obwohl er bei der Übergabe mit seiner Mitarbeiterin an Ort und Stelle anwesend war, und er damit rechnen musste, dass das Haus in den nächsten Wochen nur fallweise betreten werde. Der Kläger wunderte sich auch darüber, dass die mit der Gemeinschuldnerin erwogene Beheizung des Hauses funktionieren könne, wenn im Innenbereich angeblich das Wasser abgesperrt sei. Der Beklagten teilte der Kläger letztlich sogar mit, „dass die Heizung eingeschaltet war und auch Öl – konkret um Frostschäden zu vermeiden – gekauft und eingefüllt wurde. Im gegenständlichen Fall konnte der Hauptwasserhahn daher nicht abgedreht werden, da für Besichtigungen zum Verkauf des Hauses auch das Wasser aufgedreht werden musste. (…)“.
+1.2. Wenn das Berufungsgericht unter den zuvor beschriebenen Umständen eine grob fahrlässige Herbeiführung des Versicherungsfalls (Wasseraustritt über defekte Zirkulationspumpe) annahm, dann liegt darin jedenfalls keine als grobe Fehlbeurteilung aufzugreifende Rechtsansicht. Diese hält sich vielmehr im Rahmen der zur Gewichtung des Verschuldens entwickelten Judikaturgrundsätze.
+2.1. Auch die Beurteilung des Gelingens des Kausalitätsgegenbeweises hängt stets von den Umständen des Einzelfalls ab und könnte wegen dieser Einzelfallbezogenheit nur dann eine erhebliche Rechtsfrage nach § 502 Abs 1 ZPO darstellen, wenn dem Berufungsgericht eine Fehlbeurteilung unterlaufen wäre, die aus Gründen der Rechtssicherheit vom Obersten Gerichtshof korrigiert werden müsste (7 Ob 201/10z mwN; 7 Ob 16/11w).
+2.2. Hier steht fest, dass „bei abgesperrtem Hauptwasserhahn (…) die austretende Wassermenge 0 Liter (beträgt), wenn nicht durch ein offenes Ventil Luft in das Leitungssystem eindringen kann. Tritt Luft in das Leitungssystem ein, kann sich ein Teil des Systems entleeren, die ausfließende Wassermenge liegt in der Größenordnung von 10 bis 20 Litern. Eine derartige Wassermenge von 10 bis 20 Litern hätte wahrscheinlich keinen Schaden nach sich gezogen (…)“. Bei dieser Sachlage bestehen gegen die Ansicht des Berufungsgerichts, dem Kläger sei der ihm obliegende Kausalitätsgegenbeweis nicht gelungen, keine Bedenken.
+3. Der Kläger zeigt damit insgesamt keine erhebliche Rechtsfrage auf. Die außerordentliche Revision ist demnach als unzulässig zurückzuweisen. Dies bedarf nach § 510 Abs 3 ZPO keiner weiteren Begründung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00187.16Z.1109.000

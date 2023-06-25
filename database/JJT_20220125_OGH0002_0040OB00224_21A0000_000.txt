@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2022
+Geschäftszahl
+4Ob224/21a
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Schwarzenbacher als Vorsitzenden und die Hofräte und Hofrätinnen Hon.-Prof. PD Dr. Rassi, Dr. Kodek, MMag. Matzka sowie Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei Univ.-Prof. Dr. T* B*, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, gegen die beklagte Partei A*aktiengesellschaft, *, vertreten durch Dr. Günther Klepp ua, Rechtsanwälte in Linz, wegen Feststellung (Streitwert 30.100 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 25. November 2021, GZ 6 R 97/21h-12, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 2 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die beklagte Bank räumte als Kreditgeberin dem Kläger als Kreditnehmer einen Fremdwährungskredit in Höhe von 636.500 EUR zur Finanzierung eines Pensionsvorsorgemodells ein, das der Kläger bei einer Aktiengesellschaft zeichnete. Mit der Kreditvaluta erwarb der Kläger bei einer Versicherung eine Lebensversicherung mit sofort einsetzenden Rentenzahlungen. Die Lebensversicherung diente als Tilgungsträger zur Rückzahlung des Fremdwährungskredits. Mit den Rentenzahlungen sollten einerseits die Kreditzinsen für den Fremdwährungskredit und andererseits die regelmäßig wiederkehrenden Prämien für eine (weitere) Lebensversicherung bei einer Limited bedient werden. Der Fremdwährungskredit wurde am 31. August 2020 fällig.
+[2] 		Mit seiner auf Schadenersatz gestützten und im April 2020 eingebrachten Klage begehrt der Kläger die Feststellung, dass die Beklagte für alle Schäden aus der Nichtbezahlung der Versicherungsprämien an die Limited zu den Fälligkeitsdaten 1. Juli 2012 und 1. August 2012 hafte.
+[3] 		Die beklagte Partei wandte unter anderem die Verjährung des Schadenersatzanspruchs ein.
+[4] 		Die Vorinstanzen wiesen die Klage ab. Sie begründeten das zum einen mit der Subsidiarität eines Feststellungsbegehrens. Die Möglichkeit eines Leistungsbegehrens schließe ein Feststellungsbegehren aus. Der Fremdwährungskredit sei zum Zeitpunkt des Schlusses der Verhandlung erster Instanz bereits fällig gewesen, sodass kein Feststellungsinteresse vorliege. Zum anderen sei der Schadenersatzanspruch zum Zeitpunkt der Klagseinbringung bereits lange verjährt gewesen.
+[5] 		In seiner dagegen erhobenen außerordentlichen Revision macht der Kläger keine erhebliche Rechtsfrage geltend.
+Rechtliche Beurteilung
+[6] 		1. Die Vorinstanzen haben den geltend gemachten Feststellungsanspruch aus zwei Gründen verneint. Primär wurde mit der Subsidiarität der Feststellungsklage argumentiert, zusätzlich auch mit der Verjährung des geltend gemachten Anspruchs. Das Rechtsmittel beschäftigt sich ausschließlich mit der Frage, ob trotz der Fälligkeit des Kredits noch eine Feststellungsklage möglich ist. Hingegen finden sich keinerlei Ausführungen zur (von der Beklagten eingewandten und von den Vorinstanzen bejahten) Verjährung des Schadenersatzanspruchs. Bereits im erstinstanzlichen Verfahren und in der Berufung ist der Kläger auf die Verjährung nicht eingegangen.
+[7] 		2. Wird die angefochtene Entscheidung auch auf eine selbständig tragfähige Hilfsbegründung gestützt, muss auch diese im Rechtsmittel bekämpft werden (RS0118709). Die Revision zeigt keine erhebliche Rechtsfrage auf, wenn sie eine derartige alternative Begründung des Berufungsgerichts unbekämpft lässt (RS0118709 [T3]).
+[8] 		3. Bei der Verjährungsfrage handelt es sich um eine solche selbständig tragfähige Begründung (vgl 1 Ob 16/19p). Da es der Kläger unterließ, auf die von den Vorinstanzen als Abweisungsgrund herangezogene Verjährung seiner Ansprüche auch nur im Ansatz einzugehen, war seine außerordentliche Revision bereits aus diesem Grund zurückzuweisen, ohne dass die Frage des Feststellungsinteresses zu prüfen war.
+[9] 		Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00224.21A.0125.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.09.1971
+Geschäftszahl
+3Ob88/71
+Norm
+ZPO §36 Abs2;
+ZPO §66 Abs2;
+ZPO §464 Abs3;
+Kopf
+SZ 44/133
+Spruch
+§ 36 Abs 2 ZPO gilt nicht für den enthobenen Armenvertreter, weil es sich um keine Kündigung der Vollmacht handelt
+OGH 15. 9. 1971, 3 Ob 88/71 (LGZ Wien 46 R 289/71; EG Wien 21 C 1/70)
+Text
+In der gegenständlichen Rechtssache legte die Klägerin nach Zustellung des erstgerichtlichen Urteils innerhalb der Berufungsfrist ein vorschriftsmäßiges Armenrechtszeugnis vor und beantragte die Bewilligung des Armenrechtes sowie die Beigabe eines Armenvertreters zur Einbringung einer Berufung gegen dieses Urteil. Infolge Bewilligung ihres Antrages (durch das Rekursgericht) wurde dem gemäß § 66 Abs 2 ZPO vom Ausschuß der Rechtsanwaltskammer zunächst bestellten Armenanwalt der Bestellungsbeschluß am 5. 3. 1971 zugestellt. Innerhalb der dadurch neu in Lauf gesetzten Berufungsfrist (§ 464 Abs 3 ZPO) bestellte der Ausschuß der Rechtsanwaltskammer am 8. 3. 1971 einen weiteren und am 17. 3. 1971 einen dritten Rechtsanwalt zum Armenvertreter der Klägerin. Letzterer gab mit der Behauptung, daß ihm seine Bestellung vom 17. 3. 1971 am "29. 3. 1971" - nach der Aktenlage vermutlich am 19. 3. 1971 - zugegangen sei, am 2. 4. 1971 die Berufung der Klägerin zur Post.
+Das Erstgericht wies die Berufung als verspätet zurück, weil es die Auffassung vertrat, daß der mit 5. 3. 1971 beginnende Lauf der Rechtsmittelfrist durch die nachfolgende Bestellung bzw Namhaftmachung anderer Armenvertreter nicht beeinflußt worden sei.
+Das Rekursgericht hob mit dem angefochtenen Beschluß den Zurückweisungsbeschluß des Erstgerichtes aus der Erwägung auf, daß bei einer innerhalb der Rechtsmittelfrist vorgenommenen Bestellung eines anderen Armenvertreters die Berufungsfrist mit der Zustellung des diesbezüglichen Dekretes neu zu laufen beginne und die somit hier frühestens am 19. 3. 1971 neu beginnende 14tägige Berufungsfrist am 2. 4. 1971 noch nicht abgelaufen gewesen sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs des Beklagten ist zwar zulässig, weil es sich inhaltlich um eine abändernde Entscheidung des Rekursgerichtes handelt (vgl hiezu Fasching IV 442, EvBl 1951/496, MietSlg 20.710 ua); er ist jedoch nicht gerechtfertigt.
+Unrichtig ist die Meinung des Beklagten, daß der Ausschuß der Rechtsanwaltskammer zufolge § 66 Abs 2 ZPO zwar einen Armenvertreter bestellen, ihn jedoch nicht seines Amtes entheben und an seiner Stelle einen anderen Armenvertreter bestellen dürfe. Aus der genannten Gesetzesbestimmung, wonach die "Bestellung des Rechtsanwaltes selbst", also die Auswahl einer bestimmten Person für den konkreten Fall der vom Prozeßgericht angeordneten Beigabe eines Rechtsanwaltes als Armenvertreter, durch den hiezu berufenen (örtlich in Betracht kommenden) Ausschuß der Rechtsanwaltskammer erfolgt, ergibt sich vielmehr implicite die Befugnis, an Stelle einer zunächst namhaft gemachten Person eine andere Person zu bestellen, falls die ursprünglich namhaft gemachte Person aus irgendwelchen Gründen (neben dem häufigsten Fall einer Interessenkollision käme auch der Verlust der Befähigung zur Ausübung der Rechtsanwaltschaft in Betracht) außerstande ist, die ihr zugedachte Funktion zu erfüllen.
+Da die Bestimmung des § 36 Abs 2 ZPO für den enthobenen Armenvertreter nicht gilt, weil es sich um keine Kündigung der Vollmacht handelt (ebenso Fasching II 446 ua), bewirkt das iS der vorstehenden Ausführungen herbeigeführte Ausscheiden eines Armenanwaltes aus der ihm ursprünglich zugedachten Funktion entsprechend den Bestimmungen der §§ 160 Abs 1 und 163 Abs 1 ZPO, daß eine im Zeitpunkt des genannten Ausscheidens noch im Lauf befindliche Rechtsmittelfrist mit der Zustellung der Bestellung eines neuen Armenanwaltes an diesen neu zu laufen beginnt (ebenso Fasching IV 52, NBlRA 1957 S 110, 6 Ob 115/65 sowie das Oberlandesgericht Wien - in seiner Eigenschaft als letzte Instanz in Sozialversicherungssachen - in JBl 1959 S 511 und 1960 S 509).
+Soweit der Kläger mit seinen Ausführungen gegen die Berechtigung der Vorgangsweise des Ausschusses der Rechtsanwaltskammer indirekt die Bestimmung des § 66 Abs 2 ZPO selbst - Auswahl der Person des vom Gericht bestellten Armenanwaltes durch eine außergerichtliche Institution - einer Kritik unterzieht, ist dieser Kritik einerseits die rechtliche Besonderheit des Institutes des Armenvertreters (vgl hiezu Fasching II 418 ff, unter anderem seine Ausführungen über den öffentlich-rechtlichen Charakter der Rechtsbeziehungen des Armenvertreters, ferner die von Fasching aaO angegebene Literatur), anderseits die praktische Erwägung entgegenzuhalten, daß die jeweilige Nominierung des Armenvertreters im Einzelfall (sowie eines allfälligen Substituten gemäß § 67 ZPO) durch das Prozeßgericht kaum praktikabel wäre.
+Aus allen diesen Gründen tritt der Oberste Gerichtshof der Ansicht des Rekursgerichtes bei, daß die gegenständliche Berufung rechtzeitig erhoben wurde.

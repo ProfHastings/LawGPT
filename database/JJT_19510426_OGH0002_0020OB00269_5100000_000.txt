@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.04.1951
+Geschäftszahl
+2Ob269/51
+Norm
+ABGB §1392;
+Kopf
+SZ 24/116
+Spruch
+Bei Forderungspfändungen muß im Exekutionsantrag die Forderung genau bezeichnet und ihr Rechtsgrund spezifiziert werden. Die Pfändung von "Forderungen aller Art" ist unzulässig. Wurde die Exekution trotzdem bewilligt, so ist gleichwohl kein Pfandrecht entstanden und die Exekution daher einzustellen.
+Entscheidung vom 26. April 1951, 2 Ob 269/51.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht bewilligte der betreibenden Partei zur Hereinbringung ihrer vollstreckbaren Forderung im Restbetrag von 4460.27 S die Exekution durch Pfändung der dem Verpflichteten auf Grund seiner Ansprüche als offener Gesellschafter angeblich zustehenden Forderung in der Höhe von vermutlich 30.000 S und deren Überweisung zur Einziehung und wies einen auf § 39 Abs. 2 EO. gestützten Einstellungsantrag des Verpflichteten ab.
+Das Rekursgericht gab dem Einstellungsantrage Folge. Der Oberste Gerichtshof bestätigte den Beschluß des Rekursgerichtes.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei der Forderungspfändung muß im Exekutionsantrag die zu pfändende Forderung des Verpflichteten genau bezeichnet sein, insbesondere müssen Rechtsgrund und Forderung spezifiziert werden. Die Pfändung von "Forderungen aller Art" ist unzulässig. Die Pfändung aller Ansprüche, die dem Verpflichteten als Gesellschafter einer bestimmten offenen Handelsgesellschaft oder Kommanditgesellschaft zustehen, ist nicht genügend, weil nach Art. 7 Nr. 11 der 4. EVzHGB. die Ansprüche eines Gesellschafters aus dem Gesellschaftsverhältnis nicht pfändbar sind. Nur die einem Gesellschafter aus der Geschäftsführung zustehenden Ansprüche, und zwar der Anspruch auf Gewinnanteil, Zinsen oder auf das Auseinandersetzungsguthaben, sind pfändbar. Wird auf eine dieser drei Forderungen des Verpflichteten gegriffen, so muß nach dem dargelegten Grundsatz der Spezialität angeführt werden, auf welchen dieser drei Ansprüche der betreibende Gläubiger Exekution führt, er muß den Rechtsgrund der gepfändeten Forderung klar darlegen (RZ. 1937, S. 421), zumal, da ihm seit der Einführung des Handelsgesetzbuches die Exekution nach § 331 EO. verwehrt ist (1 Ob 465/50). Da der betreibende Gläubiger dies unterlassen hat, ist durch die Zustellung der antragsgemäß bewilligten Pfändungsbewilligung überhaupt kein Pfandrecht entstanden. Da nach österreichischem Exekutionsrecht künftige Gewinnanteile oder Auseinandersetzungsforderungen nicht gepfändet werden können, hätte der betreibende Gläubiger, wenn er auf Forderungen dieser Art greifen will, auch behaupten müssen, daß dem Verpflichteten derzeit Ansprüche dieser Art schon zustehen. Da er dies unterlassen hat, fiel seine Exekution ins Leere. Für die vom Revisionsrekurs gewünschten Erhebungen über die Natur der der Exekution zu unterwerfenden Forderungen bietet das Rekursverfahren keinen Raum. Darum war die Exekution im Sinn der Entscheidung ZBl. 1928, Nr. 23 mit Rücksicht auf ihre Unwirksamkeit von Amts wegen aufzuheben. Da das Rekursgericht, wenn auch aus anderen Erwägungen, die Exekution eingestellt hat, mußte der dagegen ergriffene Revisionsrekurs erfolglos bleiben.

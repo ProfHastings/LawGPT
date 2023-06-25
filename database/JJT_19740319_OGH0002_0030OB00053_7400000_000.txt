@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.03.1974
+Geschäftszahl
+3Ob53/74
+Norm
+EO §294;
+EO §308;
+Kopf
+SZ 47/30
+Spruch
+Vor erfolgter Überweisung ist der Verpflichtete in seinen Verfügungen über die gepfändete Forderung nur insoweit beschränkt, als seine Verfügungen mit dem von betreibenden Gläubiger erworbenen Pfandrecht kollidieren. Rechtshandlungen des Verpflichteten, die die Sicherung des betreibenden Gläubigers nicht beeinträchtigen, sind hingegen zulässig
+Solange die Überweisung der gepfändeten Forderung nicht erfolgt ist, kann der Verpflichtete die bereits eingeklagte Forderung weiter gerichtlich verfolgen, muß allerdings, wenn der betreibende Gläubiger der Klagsführung nicht zustimmt, das Klagebegehren auf gerichtlichen Erlag einschränken
+OGH 19. März 1974, 3 Ob 53/74 (OLG Wien 1 R 22/74; HG Wien 21 Cg 1267/71)
+Text
+Das Erstgericht bewilligte als Titelgericht dem betreibenden Gläubiger auf Grund des vollstreckbaren Urteils vom 27. Feber 1972 zur Hereinbringung der vollstreckbaren Forderung von 28.000 S samt Anhang die Exekution durch Pfändung der von der verpflichteten Partei gegen ihn zur GZ 23 Cg 1049/73 des Erstgerichtes geltend gemachten "angeblichen" Forderung von 44.200 S samt Anhang. Es verbot gleichzeitig dem betreibenden Gläubiger, zur Berichtigung der gepfändeten Forderung an die verpflichtete Partei Zahlung zu leisten und untersagte dieser jede Verfügung über die gepfändete Forderung, insbesondere deren weitere klagsmäßige Geltendmachung (Zweitverbot). Die Überweisung der gepfändeten Forderung an den betreibenden Gläubiger (zur Einziehung oder an Zahlungsstatt) wurde nicht beantragt.
+Das Rekursgericht änderte den erstgerichtlichen Beschluß in der Weise ab, daß es den Antrag des betreibenden Gläubigers, der der verpflichteten Partei die weitere klagsmäßige Geltendmachung der gepfändeten Forderung zu untersagen, abwies.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Richtig ist, daß dem Verpflichteten bei der Forderungsexekution durch die Pfändung das Verfügungsrecht über die Forderung entzogen wird (§ 294 Abs. 2 EO). Vor erfolgter Überweisung ist aber der Verpflichtete in seinen Verfügungen über die gepfändete Forderung nur insoweit beschränkt als diese mit dem erworbenen Pfandrecht des betreibenden Gläubigers kollidieren (Heller - Berger - Stix, Komm. z. EO[4], 2132). Das dem Verpflichteten in Ansehung der gepfändeten Forderung erteilte Verfügungsverbot bezieht sich daher nur auf Rechtshandlungen (Verfügungen) materieller Natur (z. B. Einziehung, Schulderlaß, Zession), die eine Gefährdung des Pfandrechtes des betreibenden Gläubigers nach sich ziehen können (SZ 10/314; RSpr. 1933/122). Alle Rechtshandlungen des Verpflichteten, die die Sicherung des betreibenden Gläubigers nicht beeinträchtigen, sind hingegen zulassig (Heller - Berger - Stix, Komm. z. EO[4] III, 2131 und 2236. RSpr. 1933/122). Erst mit der erfolgten Überweisung verliert der Verpflichtete die Legitimation auch zu diesen Rechtshandlungen über die gepfändete Forderung (Heller - Berger-Stix III, 2217, SZ 15/210, 17/163; JBl. 1955, 309). Solange die Überweisung der gepfändeten Forderung nicht erfolgt ist, kann daher der Verpflichtete die bereits eingeklagte Forderung weiter gerichtlich verfolgen, muß allerdings, wenn der betreibende Gläubiger der Klagsführung nicht zustimmt, das Klagebegehren auf gerichtlichen Erlag einschränken (Heller - Berger - Stix III, 2131). Dies gilt auch dann, wenn die gepfändete Forderung die betriebene übersteigt, weil der Verpflichtete, über den die betriebene Forderung übersteigenden Betrag erst nach vollständiger Befriedigung des betreibenden Gläubigers unbeschränkt verfügen kann (SZ 10/314; JBl. 1955, 309). Mit Recht wies daher das Rekursgericht den Exekutionsantrag des betreibenden Gläubigers insoweit ab, als dieser begehrte, dem Verpflichteten jede (wie immer geartete) klagsmäßige Geltendmachung der gepfändeten Forderung zu untersagen.

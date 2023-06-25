@@ -1,0 +1,51 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.03.1966
+Geschäftszahl
+5Ob52/66
+Norm
+KO §61;
+KO §110;
+KO §139;
+KO §157;
+ZPO §411;
+Kopf
+SZ 39/64
+Spruch
+Gemäß § 61 KO. bildet zwar die Eintragung einer nicht bestrittenen und im Konkurs festgestellten Forderung einen Exekutionstitel, doch ist durch dieses Anerkenntnis keine res iudicata gegeben
+Die Konkursaufhebung vor Beendigung eines Prüfungsprozesses führt zu keiner Unterbrechung, es wird vielmehr der mit dem Masseverwalter geführte Prüfungsprozeß fortgesetzt und es tritt an Stelle des Masseverwalters der frühere Gemeinschuldner auf
+Entscheidung vom 31. März 1966, 5 Ob 52/66
+I. Instanz: Kreisgericht St. Pölten; II. Instanz: Oberlandesgericht Wien
+Text
+Die klagende Partei begehrte in der Klage gegen den Masseverwalter im Konkurse der beklagten Partei die Feststellung, daß ihre Forderung im Umfange der Anmeldung (150.981.36 S) zu Recht bestehe, schränkte jedoch das Feststellungsbegehren bei der ersten Tagsatzung auf den Betrag von 112.440.69 S ein.
+Die beklagte Partei hielt der Klage entgegen, das Feststellungsbegehren hinsichtlich einer Forderung von 112.440.69 S sei verfehlt, weil ein Teilbetrag von 82.401.11 S bereits im Konkursverfahren festgestellt und deshalb nicht strittig sei, sodaß nur mehr die Feststellung hinsichtlich des Restbetrages von 30.039.58 S Gegenstand des Verfahrens sein könne. Für den letzteren Betrag habe die klagende Partei aber Forderungszessionen an Zahlungsstatt erhalten.
+Das Erstgericht wies das Klagebegehren ab.
+Das Berufungsgericht setzte das Verfahren mit dem ehemaligen Gemeinschuldner fort, weil die Berechtigung des Masseverwalters zur Vertretung im Prozeß infolge seiner Enthebung in Wegfall gekommen sei; es bestätigte mit Teilurteil die Klagsabweisung hinsichtlich eines Betrages von 82.401.11 S, hob das angefochtene Urteil hinsichtlich der Feststellung des restlichen Betrages von 30.039.58 S auf und verwies die Rechtssache im Umfange dieser Aufhebung zur neuerlichen Verhandlung und Entscheidung ohne Rechtskraftvorbehalt an das Erstgericht zurück.
+Dem Teilurteil legte das Berufungsgericht folgenden Sachverhalt zugrunde:
+Im Konkurs über das Vermögen des Beklagten meldete die klagende Partei Forderungen von zusammen 150.981.36 S an. Davon ist bei der Prüfunstagsatzung am 7. März 1963 ein Teilbetrag 82.401.11 S anerkannt und festgestellt worden, während die restliche Forderung von 68.580.25 S bestritten wurde. Das Konkursverfahren wurde auf Grund eines abgeschlossenen Zwangsausgleiches mit Beschluß vom 9. September 1965, sohin nach Schluß der mündlichen Streitverhandlung erster Instanz (21. Juni 1965) aufgehoben und der Masseverwalter seines Amtes enthoben. Am 1. Oktober 1965 wurde dieser Beschluß hinsichtlich der Rechtskraft bestätigt. Der Masseverwalter bezahlte am 13. April 1965 die 20%ige Ausgleichsguote aus der festgestellten Forderung von 82.401.11 S an die klagende Partei.
+In rechtlicher Hinsicht führte das Berufungsgericht aus, daß schon aus dem Wortlaut des § 110 KO. sich deutlich ergebe, daß bei einer teils anerkannten, teils bestrittenen Forderung ein Rechtsschutzbedürfnis nur für die urteilsmäßige Feststellung des bestrittenen Restbetrages anzuerkennen sei. Für die bei der Prüfungstagsatzung festgestellte Teilforderung von 82.401.11 S sei durch die Eintragung in das Anmeldeverzeichnis bereits ein Exekutionstitel entstanden, sodaß das Begehren auf Feststellung dieser Teilforderung mit Recht abgewiesen worden sei. Gegenstand des Prüfungsstreites könne nur mehr die nach der Einschränkung verbleibende Restforderung von 30.039.58 S sein.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei gegen das Teilurteil des Berufungsgerichtes nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Was zunächst die Frage anlangt, ob in der zweiten Instanz das Verfahren gegen den Beklagten als früheren Gemeinschuldner durchzuführen gewesen sei, ist davon auszugehen, daß das Verfahren in erster Instanz am 21. Juni 1965 geschlossen und das der schriftlichen Ausfertigung vorbehaltene Urteil am 25. Juli 1965 erlassen wurde.
+Nach Annahme des Zwangsausgleiches im Konkursverfahren gegen den Beklagten (29. Jänner 1965, Bestätigung vom 15. Februar 1965) erfolgte mit Beschluß vom 9. September 1965 die Aufhebung des Konkurses und die Enthebung des Masseverwalters. Die Rechtskraft dieses Beschlusses wurde am 1. Oktober 1965 vom Konkursgericht bestätigt.
+Die Konkursaufhebung vor Beendigung eines Prüfungsprozesses führt zu keiner Unterbrechung, es wird vielmehr der mit dem Masseverwalter geführte Prüfungsprozeß fortgesetzt und es tritt an Stelle des Masseverwalters der frühere Gemeinschuldner auf (Bartsch - Pollak S. 517 Anm. 51, SZ. XI 43).
+Das Berufungsgericht hat daher mit Recht das Berufungsverfahren gegen die beklagte Partei persönlich fortgesetzt.
+Hinsichtlich der Rüge nach § 503 Z. 4 ZPO. führt der Revisionswerber aus, daß sich aus § 110 KO. ergebe, daß Gegenstand des Feststellungsprozesses nur die gesamte angemeldete Forderung und nicht bloß der nicht anerkannte Teil dieser Forderung sein könne; es sei daher richtigerweise das Klagebegehren auf Feststellung der gesamten Forderung von 112.440.69 S gerichtet gewesen. Der Standpunkt des Berufungsgerichtes, daß der Klageweg nur für die bei der Prüfungstagsatzung strittig gewordene Teilforderung freigegeben worden sei, widerspreche dem § 110 KO.
+Den Rechtsausführungen der klagenden Partei kommt keine Berechtigung zu.
+Gemäß § 105 KO. ist der Masseverwalter verpflichtet, bei jeder angemeldeten Forderung eine bestimmte Erklärung über ihre Richtigkeit und Rangordnung abzugeben. Der Gemeinschuldner kann die Richtigkeit der angemeldeten Forderung, aber nicht die Rangordnung bestreiten. Die Bestreitung des Gemeinschuldners ist jedoch für den Konkurs ohne rechtliche Wirkung (§ 109 (2) KO.).
+Eine Forderung gilt im Konkurs als festgestellt, wenn sie vom Masseverwalter anerkannt und von keinem hiezu berechtigten Konkursgläubiger bestritten worden ist (§ 109 KO.).
+Diesen Gesetzesstellen ist nicht zu entnehmen, daß der Masseverwalter nicht auch nur hinsichtlich eines Teilbetrages die angemeldete Forderung bestreiten kann. Wenn der Revisionswerber den Standpunkt vertritt, daß Gegenstand des Feststellungsprozesses nach § 110 (1) KO. immer nur die gesamte angemeldete Forderung und nicht bloß der nicht anerkannte Teil der angemeldeten Forderung sein kann, so geht diese Auslegung aus der Bestimmung des § 110 KO. nicht hervor. Die letztere Gesetzesstelle spricht nämlich nur von Forderungen, die in Ansehung der Richtigkeit oder Rangordnung streitig geblieben sind. Aus dieser Fassung ergibt sich, daß Gegenstand des Prüfungsprozesses auch nur Teile einer angemeldeten Forderung, sofern diese Teile vom Masseverwalter bestritten wurden, sein können.
+Daß dieser Standpunkt richtig ist, ergibt sich nicht nur aus der Bestimmung des § 110 KO. im Zusammenhang mit den §§ 105 und 109 KO., sondern auch insbesondere aus Abs. 5 des § 110 KO. selbst.
+Nach dieser Gesetzesstelle sind Konkursgläubiger, deren Forderungen in Ansehung der Richtigkeit und Rangordnung streitig geblieben sind und die bei der Prüfungstagsatzung nicht anwesend waren, vom Konkurskommissär in Kenntnis zu setzen, inwieweit ihre Forderungen bestritten worden sind.
+Hiezu führt die Denkschrift zur Konkursordnung S. 98 zu § 110 KO. folgendes aus:
+"Die Verständigung erspart stets dem Gläubiger überflüssige und kostspielige Erhebungen über die Person des Bestreitenden und namentlich über den Umfang der Bestreitung. Solche Erhebungen sind namentlich dann unerfreulich, wenn nur kleine Teilbeträge der Forderungen, Zinsen, Skontodifferenzen u. dgl. bestritten worden sind, weil die Gläubiger sich bei derartigen Bestreitungen oft mit dem Anerkenntnis des Restes zufrieden geben und die Klage unterlassen."
+Hieraus ist zu erkennen, daß der Gesetzgeber das Anerkennen bzw. das Bestreiten eines Teilbetrages hinsichtlich der angemeldeten Forderung für zulässig erklärt und den Gegenstand des Prüfungsprozesses daher nur der bestrittene Teil einer Forderung bilden kann.
+Der Prüfungsprozeß gemäß § 110 (1) KO. verfolgt den Zweck, eine Forderung für das Konkursverfahren festzustellen, damit das Konkursverfahren als solches durchgeführt werden kann. Zu einer derartigen Klage muß daher ein Rechtsschutzbedürfnis vorhanden sein. Das Rechtsschutzbedürfnis dieser Klage liegt aber nicht in der Anmeldung und Prüfung, sondern in der Bestrittenheit der angemeldeten und geprüften Forderung.
+"Nur den Gläubigern streitig gebliebenen Forderungen (Teilforderungen)" erschließt § 110 KO. die Betreibung der Feststellung (Jäger KO. II S. 559 Anm. 21).
+Im übrigen spricht auch § 112 KO. selbst von rechtskräftigen Entscheidungen über die Richtigkeit und Rangordnung der bestrittenen Ansprüche.
+Ein solches Rechtsschutzbedürfnis fehlt aber dort, wo die Feststellung der Forderung bzw. eines Teiles der Forderung gemäß § 109 (1) KO. bereits erfolgt ist.
+Da hinsichtlich eines Teilbetrages von 82.401.11 S der Masseverwalter die Forderung anerkannte, der Gemeinschuldner diesen Teilbetrag nicht bestritt und ebenso eine Bestreitung eines hiezu berechtigten Konkursgläubigers nicht vorliegt (§ 109 (1) KO.), hat das Berufungsgericht mit Recht hinsichtlich der obgenannten Forderung der Berufung nicht Folge gegeben.
+Es ist der Meinung Faschings im Komm. zu § 240 ZPO. S. 170, zuzustimmen, daß gemäß § 61 KO. die Eintragung einer nicht bestrittenen und im Konkurs festgestellten Forderung einen Exekutionstitel bildet. Nicht beigetreten werden aber kann seiner daraus gezogenen Folgerung, daß durch das Anerkenntnis der Forderung im Konkurs res judicata gegeben sei. Denn im Konkurs greift zwar eine Mitwirkung des Konkursgerichtes bei der Prüfungstagsatzung Platz, es fehlt aber diesbezüglich an einer Entscheidung des Gerichtes selbst.
+Der erhobenen Revision war aus den angeführten Erwägungen ein Erfolg zu versagen.

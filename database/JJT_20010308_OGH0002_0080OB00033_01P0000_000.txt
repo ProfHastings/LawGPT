@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.03.2001
+Geschäftszahl
+8Ob33/01p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Langer, Dr. Rohrer, Dr. Spenling und Dr. Kuras als weitere Richter in der Rechtssache der klagenden Partei Mag. Dietmar S*****, vertreten durch Dr. Georg Willenig, Mag. Ingomar Arnez, Rechtsanwälte in Villach, wider die beklagte Partei Dr. Rudolf S*****, vertreten durch Dr. Franz Niederleitner, Rechtsanwalt in Klagenfurt, wegen S 133.920 sA und Feststellung (Streitwert S 60.000), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Graz als Berufungsgericht vom 22. November 2000, GZ 4 R 202/00h-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Nach ständiger Rechtsprechung umfasst die Verpflichtung des Arztes
+aus dem Behandlungsvertrag auch die Pflicht, den Patienten über die
+Art und Schwere sowie die möglichen Gefahren und schädlichen Folgen
+einer Behandlung zu unterrichten (vgl RIS-Justiz RS0038176 mzwN, insb
+SZ 67/9, 1 Ob 254/99f; RdM 1995/15). Für die nachteiligen Folgen
+einer ohne Einwilligung oder ausreichende Aufklärung vorgenommenen
+Behandlung des Patienten haftet der Arzt, selbst dann, wenn dem Arzt
+bei der Behandlung kein Kunstfehler unterlaufen ist, es sei denn der
+Arzt beweist, dass der Patient auch bei ausreichender Aufklärung in
+die Behandlung eingewilligt hätte (vgl RIS-Justiz RS0026783, insb SZ
+62/18, EvBl 1990/87, 405, SZ 67/9, SZ 69/199; zur Beweislast
+RIS-Justiz RS0038485, insb SZ 57/207, SZ 63/152 uva). Die ärztliche
+Aufklärung soll den einwilligenden Patienten instandsetzen, die
+Tragweite seiner Einwilligung zu überschauen (vgl RIS-Justiz
+RS0026413 mzN etwa zuletzt SZ 69/199). Der Patient kann nur dann
+wirksam seine Einwilligung abgeben, wenn er über die Bedeutung des
+vorgesehenen Eingriffes und seine möglichen Folgen hinreichend
+aufgeklärt wurde (vgl RIS-Justiz RS0026499, insb SZ 55/114 = JBl
+1983, 373, SZ 57/207, SZ 59/18 = EvBl 1987/31, SZ 62/18, SZ 63/152,
+RdM 1994/2; SZ 69/199 ua).
+Der Umfang der im konkreten Fall vorzunehmenden Aufklärung ist eine Rechtsfrage (vgl RIS-Justiz RS0026763 mzwN, etwa SZ 55/114, SZ 67/9, SZ 69/199 ua). Der Umfang der Aufklärung ist dabei nach den Umständen des Einzelfalles zu beurteilen, wobei der Arzt grundsätzlich nicht auf alle nur denkbaren Folgen einer Behandlung hinzuweisen hat (vgl RIS-Justiz RS0026529 mwN etwa RZ 1973/167, 170, SZ 59/18 SZ 62/18, SZ 62/154, SZ 63/152 RdM 1994/1, SZ 69/199, RdM 1998/21). Die ärztliche Aufklärungspflicht ist aber beim Vorliegen sogenannter typischer Gefahren verschärft. Die Typizität ergibt sich nicht aus der Komplikationshäufigkeit, sondern daraus, dass das Risiko speziell dem geplanten Eingriff anhaftet und auch bei Anwendung aller größter Sorgfalt und fehlerfreier Durchführung nicht sicher zu vermeiden ist und den nichtinformierten Patienten überrascht, weil er nicht damit rechnet (vgl RIS-Justiz RS0026340 mwN etwa SZ 62/154, SZ 67/9, SZ 69/199 uva; JBl 1999, 531). Allerdings ist auch hier zu fordern, dass es sich bei diesen typischen Risken, um erhebliche Risken handelt, die geeignet sind, die Entscheidung des Patienten zu beeinflussen, ohne dass dabei nur auf die Häufigkeit der Verwirklichung dieses Risikos abzustellen wäre (vgl SZ 67/9, JBl 1999, 531; EFSlg 90.127; RIS-Justiz RS0026230; RS0026581). Schließlich reicht die ärztliche Aufklärungspflicht jedenfalls umso weiter, je weniger dringlich der Eingriff aus der Sicht eines vernünftigen Patienten geboten ist. Dann ist die ärztliche Aufklärungspflicht selbst dann zu bejahen, wenn erheblich nachteilige Folgen wenig wahrscheinlich sind; dann ist auch auf seltene - aber gravierende - Zwischenfälle hinzuweisen (vgl RIS-Justiz RS0026313, insb SZ 62/18, SZ 69/199 uvwN, RIS-Justiz RS0026772; RIS-Justiz RS0026375).
+Hier hat es nun der Beklagte unterlassen, den Kläger über die mit der Extraktion des Weisheitszahnes verbundenen Risken der Beeinträchtigung des nervus lingualis mit einer Wahrscheinlichkeit von 0,5 bis 1 % und der damit einhergehenden Sensibilitätssensorischen und sekretorischen Störungen hinzuweisen; dies obwohl ein konkreter Anlass für die Extraktion des Weisheitszahnes nicht bestand und der Kläger seine erheblichen Bedenken gegen den Eingriff vorbrachte. Ausgehend davon haben die Vorinstanzen aber ohne Rechtsirrtum eine Verletzung der ärztlichen Aufklärungspflicht angenommen. Von der Entscheidung des Obersten Gerichtshofes vom 24. 10. 1996, 6 Ob 2211/96g (= RdM 1997/28) unterscheidet sich der vorliegende Sachverhalt schon dadurch, dass damals eine Fehlstellung eines Zahnes die Extraktion indizierte und die Beeinträchtigung auch nicht durch die Extraktion, sondern durch die Anästhesie - mit einer offensichtlich anderen Wahrscheinlichkeit - eintrat. Ferner hat hier der Kläger ausdrücklich seine Vorbehalte gegen die Extraktion zum Ausdruck gebracht. Konkret wurde auch noch festgestellt, dass der Kläger bei einer umfassenden Aufklärung den Eingriff nicht hätte durchführen lassen (vgl zur Beweislast RIS-Justiz RS0038685 mwN etwa SZ 57/207, SZ 63/152 ua).
+Insgesamt vermag es der Beklagte jedenfalls nicht, eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO darzustellen.

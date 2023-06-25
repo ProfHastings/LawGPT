@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2020
+Geschäftszahl
+6Ob76/20z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Pflegschaftssache der minderjährigen H*****, geboren am ***** 2016, *****, über den Revisionsrekurs der Minderjährigen, vertreten durch das Land Wien (Stadt Wien Kinder- und Jugendhilfe Rechtsvertretung Bezirke 12, 23, 1230 Wien, Rößlergasse 15) als Kinder- und Jugendhilfeträger, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 21. Jänner 2020, GZ 44 R 16/20h-24, mit dem der Beschluss des Bezirksgerichts Liesing vom 14. November 2019, GZ 5 Pu 119/17x-18, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 71 Abs 1 AußStrG) – Ausspruch des Rekursgerichts ist der ordentliche Revisionsrekurs nicht zulässig:
+Rechtliche Beurteilung
+Das Rekursgericht, das die Frage verneinte, hat seinen Zulässigkeitsausspruch damit begründet, es fehle einheitliche Rechtsprechung des Obersten Gerichtshofs zur Frage, ob der Familienbonus Plus in die Unterhaltsbemessungsgrundlage einzubeziehen sei.
+Der Revisionsrekurs strebt eine Bejahung dieser Frage und damit eine Verbreiterung der Unterhaltsbemessungsgrundlage zugunsten des unterhaltsberechtigten Kindes und darüber hinaus auch die Einbeziehung des Unterhaltsabsetzbetrags in die Unterhaltsbemessungsgrundlage an.
+1. Der Oberste Gerichtshof hat in – seit der Entscheidung 4 Ob 150/19s (RZ 2020/1 [Spenling]) vom 11. 12. 2019 – nunmehr ständiger Rechtsprechung zum mit § 33 Abs 3a EStG idF BGBl I 2018/62 eingeführten Familienbonus Plus (FaBo+) klargestellt (RS0132928):
+Beim FaBo+ handelt es sich – so wie beim Unterhaltsabsetzbetrag nach § 33 Abs 4 EStG – um einen echten Steuerabsetzbetrag. Der Gesetzgeber hat den FaBo+ mit der Zielsetzung eingeführt, die verfassungsrechtlich gebotene steuerliche Entlastung der Geldunterhaltspflichtigen nunmehr durch die erwähnten steuergesetzlichen Maßnahmen herbeizuführen. Dadurch findet eine Entkoppelung von Unterhalts- und Steuerrecht statt. Die verfassungsrechtlich gebotene steuerliche Entlastung des Geldunterhaltspflichtigen erfolgt nunmehr durch den FaBo+ und den Unterhaltsabsetzbetrag. Der FaBo+ ist nicht in die Unterhaltsbemessungsgrundlage einzubeziehen; eine Anrechnung von Transferleistungen findet nicht mehr statt. FaBo+ und Unterhaltsabsetzbetrag bleiben damit unterhaltsrechtlich neutral. Diese Grundsätze gelten jedenfalls für die Unterhaltsbemessung von Kindern bis zur Vollendung des 18. Lebensjahrs.
+2. Die Nichtberücksichtigung des FaBo+ bei der Unterhaltsbemessungsgrundlage begründete die Leitentscheidung 4 Ob 150/19s damit, dass nach der Zielrichtung des Steuergesetzgebers der ausschöpfbare Teil des FaBo+ in generalisierender Betrachtungsweise dazu dienen soll, das Unterhaltseinkommen nach den Vorgaben des Verfassungsgerichtshofs steuerfrei zu stellen; dieses Ziel könne aber nur erreicht werden, wenn der entsprechende Betrag dem Unterhaltspflichtigen verbleibt, weshalb eine Einrechnung in die Unterhaltsbemessungsgrundlage ausscheide (ErwGr 5.2).
+3. Damit bedarf es keiner weiteren Erörterung der im Revisionsrekurs ebenfalls aufgeworfenen Frage mehr, ob ein (an sich unselbstständig erwerbstätiger) Geldunterhaltspflichtiger auf den (halben) FaBo+ anzuspannen ist, wenn er tatsächlich nur fiktiv ein Erwerbseinkommen (Anspannungseinkommen) bezieht (bejahend, jedoch ohne weitere Begründung 5 Ob 92/19v; verneinend Gitschthaler, EF-Z 2019/151). Der Geldunterhaltspflichtige ist – entgegen bisheriger Rechtsprechung (5 Ob 236/18v; 5 Ob 92/19v; 4 Ob 139/19y) – infolge dessen unterhaltsrechtlicher Neutralität auf den Bezug des FaBo+ überhaupt nicht anzuspannen (6 Ob 208/19k; 6 Ob 1/20w).
+4. Nach den Entscheidungen 1 Ob 65/03w und 3 Ob 248/09f soll der Unterhaltsabsetzbetrag auch dann, wenn er der steuerlichen Entlastung des Geldunterhaltspflichtigen dient, in die Unterhaltsbemessungsgrundlage einzubeziehen sein. Diese – in der Literatur mehrfach kritisierte (Schwimann/Kolmasch, Unterhaltsrecht9 14; Gitschthaler, Unterhaltsrecht³ Rz 284/2) – Auffassung wurde bereits in der Entscheidung 5 Ob 127/19s nicht mehr aufrecht erhalten, zumal der Unterhaltsabsetzbetrag nach der gesetzlichen Regelung an die Zahlung des Unterhalts (und deren Nachweis) geknüpft sei und daher zweckgebunden nur deshalb als Steuerabsetzbetrag zustehe, weil (und nicht: damit) der Geldunterhaltspflichtige Unterhaltsbeiträge zahlt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00076.20Z.0520.000

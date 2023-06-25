@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.2022
+Geschäftszahl
+2Ob32/22b
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei S* GmbH, *, vertreten durch Dr. Matthias Bacher, Rechtsanwalt in Wien, gegen die beklagte Partei U* AG, *, vertreten durch Dr. Manfred Sommerbauer, DDr. Michael Dohr, Rechtsanwälte in Wiener Neustadt, wegen 23.432,86 EUR sA, über die Rekurse beider Parteien gegen den Beschluss des Oberlandesgerichts Wien als Berufungsgericht vom 22. Oktober 2021, GZ 16 R 47/21f-32, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 25. Jänner 2021, GZ 53 Cg 65/19x-27, aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Rekurse werden mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 526 Abs 2 ZPO).
+Die Kosten der Rekursbeantwortungen werden gegeneinander aufgehoben.
+Text
+Begründung:
+[1] 		Die gegen den Aufhebungsbeschluss des Berufungsgerichts gemäß § 519 Abs 1 Z 2 ZPO erhobenen Rekurse sind – entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts (§ 526 Abs 2 ZPO; RS0043685) – mangels Vorliegens einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO nicht zulässig.
+1. Zur Aktivlegitimation der Klägerin:
+Rechtliche Beurteilung
+[2] 		Zwar ist es unzulässig, ein Urteil nur zu dem Zweck aufzuheben, Erörterungen über Tatsachen zu veranlassen, die im bisherigen Verfahren nicht behauptet worden sind (RS0042444). Dies gilt aber nur in Fällen, in denen vom Kläger nicht einmal im Ansatz ein bestimmter Rechtsgrund geltend gemacht wurde, und nicht, wenn es um die Ergänzung eines unvollständigen Vorbringens geht, also um eine Undeutlichkeit in den Einzelheiten (7 Ob 149/03t RS0042444 [T5]).
+[3] 		Davon ist das Berufungsgericht hier ausgegangen, weil die Klägerin im Hinblick auf die Bestreitung ihrer Aktivlegitimation als Leasingnehmerin vorbrachte, sie hätte den Schaden dennoch zu tragen gehabt.
+[4] 		Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist eine Frage des Einzelfalls, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung ebenso wenig erhebliche Bedeutung zukommt, wie jener, ob das erstattete Vorbringen so weit spezifiziert wurde, dass es als Anspruchsgrundlage hinreicht (RS0042828).
+2. Zum Vorrangverzicht:
+[5] 		2.1. Nach § 19 Abs 8 StVO darf der Lenker eines Fahrzeugs auf seinen Vorrang verzichten, wobei ein solcher Verzicht dem Wartepflichtigen deutlich erkennbar zu machen ist. Das Zum-Stillstand-Bringen eines Fahrzeugs aus welchem Grund immer gilt als Verzicht auf den Vorrang.
+[6] 		2.2. Die gesetzliche Regelung macht damit keinen Unterschied zwischen einem freiwilligen und einem in Befolgung eines gesetzlichen Gebotes erfolgten Vorrangverzicht; sie gilt gleichermaßen für beide Fälle (RS0074876). Wer sein Fahrzeug an einer Kreuzung in einer Weise zum Stillstand bringt, dass dies im Sichtbereich befindliche Verkehrsteilnehmer wahrnehmen können, muss deshalb sein weiteres Fahrverhalten darauf einstellen, dass andere Verkehrsteilnehmer dies als Vorrangverzicht auffassen (RS0074956 [T1]). Dabei genügt es, dass ein anderer Verkehrsteilnehmer den durch das Zum-Stillstand-Bringen des Fahrzeugs zum Ausdruck gebrachten Vorrangverzicht zweifelsfrei zur Kenntnis nehmen kann (RS0074862).
+[7] 		2.3. Die auf der Entscheidung 2 Ob 169/76 basierende Aussage in RS0074944, wonach kein Vorrangverzicht vorliegt, wenn der nachrangige Fahrer das vorrangige Fahrzeug erst wahrnahm, als es sich nach einem Anhalten schon wieder in Bewegung befand, wurde bereits in der Entscheidung 2 Ob 222/80 dahin präzisiert, dass dies nur dann anzunehmen ist, wenn der nachrangige Fahrer das vorrangige Fahrzeug erst wahrnehmen konnte, als es sich nach einem Anhalten schon wieder in Bewegung befand. Diese Formulierung zur objektiven Wahrnehmbarkeit findet sich auch in den übrigen Rechtssatzketten (vgl RS0074862; RS0074956; RS0075064; RS0074873).
+[8] 		2.4. Soweit in der Entscheidung 2 Ob 151/07f wieder auf den ursprünglichen Wortlaut des Rechtssatzes RS0074944 Bezug genommen wurde, war dies nicht entscheidungswesentlich, weil dort insofern eine besondere Situation vorlag, als beide am Unfall Beteiligten das Vorschriftszeichen „Vorrang geben“ zu beachten hatten, sodass die dort von links kommende Klägerin gar nicht auf einen (nicht bestehenden) Vorrang nach § 19 Abs 8 StVO verzichten hätte können.
+[9] 		2.5. Auf das subjektive Wahrnehmen des Vorrangverzichts kann aber schon aus der Überlegung heraus nicht abgestellt werden, dass ansonsten die Beurteilung der Vorrangsfrage für den Zum-Stillstand-Kommenden von der aus seiner Sicht in der konkreten Situation nicht endgültig zu klärenden Tatsache abhinge, ob der gegnerische Fahrzeuglenker ihn tatsächlich wahrgenommen hat oder nicht. Die Sicherheit und Flüssigkeit des Verkehrs verlangt aber eine eindeutige und im Einzelfall sofort überschaubare Regelung, wer im Vorrang ist (RS0074346).
+[10] 		2.6. Auch die Rechtssatzkette RS0074944 ist daher weiterhin im Sinne der sie präzisierenden Entscheidung 2 Ob 222/80 dahin zu verstehen, dass es beim Vorrangverzicht nach § 19 Abs 8 StVO auf die objektive Wahrnehmbarkeit des Zum-Stillstand-Bringens des an sich bevorrangten Fahrzeugs ankommt.
+[11] 		2.7. Wenn das Rekursgericht ausgehend von dieser richtigen Rechtsansicht den Sachverhalt für ergänzungsbedürftig hält, kann der Oberste Gerichtshof, der nicht Tatsacheninstanz ist, dem nach ständiger Rechtsprechung nicht entgegentreten (RS0042179 [T20, T22]).
+[12] 		3. Die Kostenentscheidung beruht auf §§ 41 Abs 1, 50 Abs 1, ZPO. Da beide Seiten in ihren Rekursbeantwortungen auf die Unzulässigkeit des jeweils gegnerischen Rechtsmittels hingewiesen haben, dienten ihre Schriftsätze jeweils der zweckentsprechenden Rechtsverteidigung. Die dadurch in gleicher Höhe entstandenen Kosten waren gegeneinander aufzuheben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00032.22B.0316.000

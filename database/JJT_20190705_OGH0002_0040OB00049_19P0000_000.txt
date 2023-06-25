@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.2019
+Geschäftszahl
+4Ob49/19p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache des Klägers J***** P*****, vertreten durch Mag. Alexander Gerngross und Mag. Klaus Köck, Rechtsanwälte in Premstätten bei Graz, gegen die Beklagte M***** GmbH, *****, vertreten durch Mag. Andrej Mlecka, Rechtsanwalt in Wien, wegen 67.302,02 EUR sA, über die Revision des Klägers gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Dezember 2018, GZ 5 R 137/18f-24, womit das Teilurteil des Handelsgerichts Wien vom 25. Juli 2018, GZ 10 Cg 4/18w-20, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Beklagte hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+Der Kläger leaste von einem Leasingunternehmen einen Bagger, den dieses von der Beklagten gekauft hatte. Nach dem Auftreten von Mängeln machte er von dem ihm von der Leasinggeberin abgetretenen Recht auf Wandlung des Kaufpreises Gebrauch und bekam rund 60.000 EUR Zug um Zug gegen Rückgabe des Baggers zugesprochen.
+Im vorliegenden Verfahren begehrt der Kläger von der Beklagten den Ersatz der ihm infolge der Mangelhaftigkeit des Baggers entstandenen Mangelfolgeschäden von zuletzt 67.302,02 EUR, davon 46.809,35 EUR an frustrierten Leasingraten wegen der Nichtbenützbarkeit des Baggers.
+Das Erstgericht wies das zuletzt genannte Teilbegehren ab. Nur dem unmittelbar Geschädigten stehe ein Schadenersatzanspruch zu, während der Schädiger für einen Drittschaden nicht hafte. Dem Leasingnehmer, der im Verhältnis zum Leasinggeber die Gefahr zu tragen habe, gebühre kein Ersatz frustrierter Leasingaufwendungen.
+Das Berufungsgericht bestätigte dieses Teilurteil und sprach aus, dass die ordentliche Revision zulässig sei, weil eine (aktuelle) Rechtsprechung des Obersten Gerichtshofs zur Rechtsfrage der Ersatzfähigkeit frustrierter Leasingraten gegenüber dem Verkäufer des Leasingobjekts fehle.
+Dagegen richtet sich die – von der Beklagten beantwortete – Revision des Klägers, mit der er die Klagsstattgebung beantragt.
+Rechtliche Beurteilung
+Die Revision ist, ungeachtet des Zulassungsausspruchs des Berufungsgerichts – an den der Oberste Gerichtshof nicht gebunden ist –, in Ermangelung von erheblichen Rechtsfragen iSv § 502 Abs 1 ZPO nicht zulässig.
+Der Revisionswerber macht geltend, dass er während der Unbenützbarkeit des Baggers ein Ersatzgerät anmieten habe müssen; indem er nicht die Kosten der Anmietung, sondern nur die frustrierten Leasingraten einklage, komme er seiner Schadensminderungspflicht nach. Der Schaden sei unmittelbar bei ihm, nicht aber bei der Leasinggeberin aufgetreten.
+Dazu ist zunächst auszuführen, dass bereits das Berufungsgericht den Meinungsstand und die Entwicklung der Rechtsprechung zum Thema des Ersatzes der Leasingraten dargestellt hat. Hervorzuheben ist dazu Folgendes:
+1. Dem Vermögen einer Person kommt kein absoluter Schutz zu (RIS-Justiz RS0022462). Die Verursachung eines Vermögensschadens macht nur dann ersatzpflichtig, wenn sich die Rechtswidrigkeit der Schädigung etwa aus der Verletzung vertraglicher Pflichten, aus der Verletzung absoluter Rechte oder aus der Übertretung von Schutzgesetzen ableiten lässt (RS0022462 [T1]). Den absoluten Schutz genießt nur der Eigentümer der beschädigten Sache (RS0020699). Der Leasingnehmer ist, anders als der Käufer der unter Eigentumsvorbehalt stehenden Sache, bei Beschädigung des Leasinggegenstands nicht unmittelbar Geschädigter, sein Schaden ist ein nicht ersatzfähiger Drittschaden (RS0019382).
+2.1. Mit der Entscheidung 2 Ob 17/92 wurde bei Beschädigung des Leasingobjekts durch einen Dritten dem Leasingnehmer der Ersatz der Mietwagenkosten zugesprochen. Begründet wurde dies mit der Schadensverlagerung.
+2.2. Die Fälle der Schadensüberwälzung sind eine Ausnahme vom Grundsatz, dass Drittschäden nicht ersatzfähig sind. Die Lehre, dass eine bloße Schadensverlagerung den Schädiger nicht zu entlasten vermag, beruht auf dem Gedanken, dass der für den Eintritt des Schadens verantwortliche Schädiger nicht bloß deshalb von seiner Ersatzpflicht befreit werden dürfe, weil der Schaden aufgrund eines Rechtsverhältnisses nicht beim Verletzten, sondern bei einem Dritten eintritt. Es wird also die Wertung vorgenommen, dass der verantwortliche Schädiger dem Schaden näher steht als der Dritte, den kein Vorwurf bezüglich des Schadenseintritts trifft. Der Schädiger hat jedenfalls für die typischen Folgen, welche die übertretene Norm verhindern wollte, einzustehen (RS0022830).
+2.3. Bedenken, die gegen eine Berücksichtigung des Schadens eines nur mittelbar Geschädigten bestehen, treffen in den Fällen einer Schadensverlagerung nicht zu, wenn es gerade um den Schaden geht, der typischerweise beim unmittelbar Geschädigten eintritt, im besonderen Fall aber durch ein Rechtsverhältnis auf einen Dritten überwälzt wird. Es wird also kein Schaden in die Betrachtung einbezogen, der nicht ohnehin normalerweise beim unmittelbar Geschädigten eintritt und daher zu ersetzen wäre (RS0022608; zu den Mietwagenkosten vgl RS0020815).
+3.1. Frustrierte Leasingraten sind jedoch keine typische Folge eines schadhaften Fahrzeugs, die im Allgemeinen dessen Eigentümer trifft. Sie sind auch nicht vom Schädiger verursacht und auch ohne die Beschädigung oder Mangelhaftigkeit vom Leasingnehmer zu begleichen. Die oben (zu 1.) dargestellte Rechtsprechung verneint daher den Ersatz derartiger Aufwendungen, was auch von der Lehre geteilt wird (Wagner in Schwimann/Kodek, ABGB4 Vor §§ 1293 ff Rz 37; Fischer-Czermak, ecolex 1992, 766).
+3.2. Ein Ersatz frustrierter Aufwendungen muss auf bestimmte, eng umgrenzte Fälle eingeschränkt werden, um nicht die Wertungen des Gesetzes, nach denen ideelle Schäden nur in geringerem Maße zu ersetzen sind als Vermögensschäden, zu hintergehen und zu einer untragbaren Ausweitung des Ersatzes zu gelangen (RS0022533 [T1]).
+3.3. Die Revision führt keine neuen Argumente gegen die bisherige Rechtsprechung ins Treffen. Dass der Kläger seines Erachtens in Erfüllung seiner Schadensminderungspflicht „lediglich“ die frustrierten Leasingraten einklage und nicht die Kosten der Anmietung eines Ersatzfahrzeugs, hat auf die Beurteilung der Ersatzfähigkeit der frustrierten Leasingraten keinen Einfluss.
+4. Die Kostenentscheidung gründet sich auf die §§ 40, 50 ZPO. Die Beklagte hat in ihrer Revisionsbeantwortung lediglich ausgeführt, die Revision sei nicht berechtigt; auf die Unzulässigkeit hat sie nicht hingewiesen. Ihre Revisionsbeantwortung diente daher nicht der zweckentsprechenden Rechtsverfolgung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00049.19P.0705.000

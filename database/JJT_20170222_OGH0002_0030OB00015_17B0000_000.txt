@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2017
+Geschäftszahl
+3Ob15/17b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei M*****, vertreten durch Likar Rechtsanwälte GmbH in Graz, gegen die beklagte Partei R***** regGenmbH, *****, vertreten durch Brandl & Talos Rechtsanwälte GmbH in Wien, wegen 49.094,91 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 16. November 2016, GZ 5 R 88/16z-164, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Das reine Depotgeschäft, bei dem die Bank ausschließlich die Verwahrung und Verwaltung von Wertpapieren für andere übernimmt, ist keine Dienstleistung, die den Wohlverhaltensregeln der §§ 11 ff des (hier noch anwendbaren) WAG 1997 unterliegt. Auch eine bloße Depotbank – als solche fungierte die Beklagte nach den Feststellungen im Bezug auf die vom Kläger erworbenen A*****-Genussscheine – hat jedoch als Verwalterin fremden Vermögens die Pflicht, die Interessen des Auftraggebers bestmöglich zu wahren und ihn über wichtige Umstände aufzuklären, wozu insbesondere die Kollision mit eigenen Interessen zählt. Diese Aufklärungspflicht bezieht sich nicht nur auf die Interessenkollision als solche, sondern auch auf alle anderen Umstände der Vermögensanlage, die einen Einfluss auf die Anlageentscheidung des Kunden haben können und von denen die Beklagte redlicherweise annehmen musste, dass sie den Kunden aufgrund der für sie erkennbaren Vorgangsweise der A***** Invest AG (im Folgenden: Invest AG) und der Emittentin unbekannt waren (so bereits 4 Ob 50/11y mwN; RIS-Justiz RS0127117 [T2 und T4]).
+Eine Interessenkollision der auch hier Beklagten gegenüber dem Erwerber von (hier wie dort) A*****-Genussscheinen wurde vom Obersten Gerichtshof für den Fall einer – hier aber nach den Feststellungen gerade nicht vorliegenden – engen wirtschaftlichen Verflechtung der Bank mit der Emittentin und der Vermittlerin der Genussscheine, der Invest AG, bejaht (4 Ob 50/11y = RIS-Justiz RS0127117 [T1]).
+2. Auf die vom Revisionswerber relevierte Frage, ob die Depotbank – schon im Hinblick auf die ihr bekannte „wirtschaftliche Einheit“ zwischen der Emittentin der Genussscheine und der Invest AG und die deshalb im Raum stehende mangelnde Objektivität der Beratung durch die Invest AG – gemäß § 1009 ABGB (auch) zur Aufklärung des Klägers über die für seine Anlageentscheidung wesentlichen Tatsachen verpflichtet gewesen wäre, kommt es im Ergebnis nicht an:
+Über das behauptete Fehlen einer erforderlichen Bankkonzession der Invest AG hatte die Beklagte den Kläger schon deshalb nicht aufzuklären, weil sie – nach den im Revisionsverfahren unangreifbaren (erfolglos von ihm bekämpften) Feststellungen – erst 2010 oder 2011, also mehrere Jahre nach den Investitionen des Klägers im Jahr 2007, von dem Erkenntnis des Verwaltungsgerichtshofs, GZ 2007/17/0208, vom 15. April 2010, Kenntnis erlangte (dem zufolge die Invest AG § 98 Abs 1 iVm § 1 Abs 1 Z 7 lit e BWG [in der damals geltenden Fassung] übertreten hat, indem sie – ohne Zusammenhang mit dem Vertrieb der Genussscheine und damit auch der hier zu beurteilenden Tätigkeit der Beklagten – im Zeitraum Mai 2004 bis Dezember 2005 ohne die dafür erforderliche Konzession gewerblich das Effektengeschäft betrieben, nämlich wiederholt Aktien diverser Unternehmen gekauft und kurz darauf, Kursschwankungen ausnützend, wieder verkauft hat).
+Alle anderen Umstände, hinsichtlich derer der Kläger eine Aufklärung vermisst, lagen nach den Feststellungen entweder gar nicht vor (wie insbesondere die behauptete enge wirtschaftliche Verflechtung zwischen der Beklagten und der Emittentin und der Invest AG, oder die angebliche Einschränkung der Verfügungsberechtigung über das Depot), oder aber waren inhaltlich unproblematisch, weil sie die Anleger nicht benachteiligten, wie insbesondere die „Abwicklungsrichtlinien“.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00015.17B.0222.000

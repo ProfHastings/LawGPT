@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.02.1950
+Geschäftszahl
+2Ob230/49
+Norm
+ABGB §10;
+ABGB §1048;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §346;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §380;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §382;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art4;
+Kopf
+SZ 23/29
+Spruch
+Zur Frage der Gefahrentragung der vom Verkäufer zum Transport der verkauften Ware beigegebenen Emballage (Sackmiete).
+Handelsbrauch und Verkehrssitte gehen den nachgiebigen Bestimmungen des Gesetzes vor.
+Entscheidung vom 8. Februar 1950, 2 Ob 230/49.
+I. Instanz: Kreisgericht Wels; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Erstgericht hat die Klage auf Rückgabe einer Kaution in der Höhe von 5440 S, die die Klägerin für rechtzeitige Rückstellung der von der beklagten Partei bei der Lieferung von mineralischen Ölen beigestellten Gebinde geleistet hatte, abgewiesen.
+Das Berufungsgericht hat infolge Berufung der Klägerin das Ersturteil im Sinne des Klagebegehrens geändert.
+Der Oberste Gerichtshof hat das Urteil des Erstgerichtes wieder hergestellt.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Kernfrage, von der das Schicksal des Prozesses abhängt, geht dahin, wer die Gefahr der vom Verkäufer zum Transport der verkauften Ware beigegebenen Emballage trägt. Diese Frage ist unter dem Schlagwort "Sackmiete" in der handelsrechtlichen Literatur und Rechtsprechung ausführlich behandelt und erörtert worden, hat aber keineswegs eine einheitliche Lösung gefunden (vgl. Staub-Könige, § 380, Anm. 6, § 382, Anm. 123; Gadow im Kommentar der Reichsgerichtsräte zum HGB., Anm. 6 zu § 380; Örtmann in Ehrenberg's Handbuch des Handelsrechtes, IV/2, § 51; Düringer-Hachenburg, V/1, S, 48 ff., Schlegelberger, Kommentar, S. 1215, und insbesondere die bei Staub-Könige in Anm. 123 zu § 382 angeführte Rechtsprechung).
+Das Erstgericht hat seine Annahme, daß der Käufer bis zur faktischen Rückgabe der Emballage an den Verkäufer die Gefahr ihres zufälligen Unterganges oder ihrer zufälligen Verschlechterung zu tragen habe, auf den durch den Sachverständigen Otto H. bezeugten Handelsbrauch gegrundet. Dagegen hat das Berufungsgericht einen Handelsbrauch nicht gelten lassen, weil die Frage der Gefahrtragung durch die Rechtsordnung selbst positiv gelöst sei. Dabei ist das Berufungsgericht davon ausgegangen, daß an der Anwendbarkeit der Regeln über die Tragung der Gefahr für eine vermietete oder verliehene Sache nicht gezweifelt werden könne. Das Revisionsgericht vermag aber den Schlußfolgerungen des Berufungsgerichtes nicht beizutreten. Auch im Kommentar zum Handelsgesetzbuch von Schlegelberger, S. 1215, auf den sich das Berufungsgericht in erster Linie stützt, ist die Frage der Gefahrtragung keineswegs als eindeutig hingestellt. Es wird vielmehr erklärt, daß es für die Beurteilung der Frage, wer die Gefahr und Kosten der Rückstellung des Verpackungsmaterials zu tragen habe, stets auf die Umstände des einzelnen Falles ankomme. "Allgemeine Regeln lassen sich schlecht aufstellen."
+Gegen die Unterstellung der Überlassung der Emballage unter die Regeln des Mietvertrages werden im Schrifttum dem Revisionsgericht sehr erheblich scheinende Einwendungen erhoben. Denn es fehlt bei der Überlassung von Gebinden an einem selbständigen Gebrauchszweck des Bestellers, er muß zahlen, auch wenn er die Emballage ohne anderweitige Verwendungsmöglichkeit behalten hat, ja er dürfte zu anderweitigem Gebrauch gar nicht einmal ohne weiteres berechtigt sein, endlich fehlt die zeitliche Grenze für ein Vertragsverhältnis. Ähnliche Gründe lassen sich auch gegen die Annahme des Leihvertrages anführen. Daher handelt es sich bei richtiger Betrachtung der Verhältnisse bei der Überlassung der Emballage um eine Nebenabrede zum Kaufvertrag. Das Argument, auf das das Berufungsgericht seine Entscheidung in der Hauptsache stützt, daß nämlich die Frage der Gefahrtragung durch das Gesetz selbst, u. zw. durch § 1106 und § 979 ABGB. gelöst sei, erscheint daher dem Revisionsgericht nicht überzeugend. Nur nebenbei sei noch bemerkt, daß das Revisionsgericht auch gegen das andere Argument des Berufungsgerichtes erhebliche Bedenken hat. Die im Kommentar von Schlegelberger vertretene Ansicht, nämlich, daß ein Handelsbrauch gegenüber nachgiebigen Rechtsnormen nicht durchschlage, wird in der handelsrechtlichen Literatur keineswegs einheitlich vertreten. So nimmt beispielsweise Gadow im Kommentar der Reichsgerichtsräte zum HGB. in Anm. 10 zu § 346 das Gegenteil an. "Ist auf eine Verkehrssitte Rücksicht zu nehmen, so ist diese auch in Widerspruch mit den Gesetzen zur Anwendung zu bringen, soweit diese nachgiebiges Recht enthalten."
+Nach Ansicht des Revisionsgerichtes ist dieser Meinung der Vorzug zu geben, weil bei Geschäften zwischen Kaufleuten die für den betreffenden Geschäftszweig bestehenden Handelsgebräuche als vereinbart gelten, wenn nichts anderes erklärt wird (vgl. Pisko, Österreichisches Handelsrecht, S. 25).
+Nach Ansicht des Revisionsgerichtes durfte sich daher das Erstgericht bei Lösung der prozeßentscheidenden Frage auf den für den Geschäftszweig der Streitparteien bestandenen Handelsbrauch berufen. Auch die Rechtsprechung (vgl. Staub-Könige, Anm. 123, zu § 382 HGB.) stellt überwiegend auf die Verkehrssitte ab. Für die vom Sachverständigen bezeugte Verkehrssitte sprechen auch gute innere Gründe. Es würde der Sachlage, wie sie sich einerseits aus der Notwendigkeit der Verpackung, anderseits aus dem engen Zusammenhang zwischen Emballage und Ware ergibt, nicht entsprechen, sondern hieße den Dingen Gewalt antun, wollte man in Ansehung der Gefahrtragung die Ware und die Emballage verschiedenen Regeln unterwerfen.

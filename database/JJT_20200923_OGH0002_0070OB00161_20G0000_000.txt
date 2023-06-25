@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2020
+Geschäftszahl
+7Ob161/20g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei P***** Z*****, vertreten durch Dr. Karin Prutsch und Mag. Michael Damitner, Rechtsanwälte in Graz, gegen die beklagte Partei O***** Aktiengesellschaft, *****, vertreten durch die MUSEY rechtsanwalt gmbh in Salzburg, wegen 111.698,42 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 20. Juli 2020, GZ 2 R 86/20k-22, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der
+Voraussetzungen des § 502 Abs 1 ZPO
+zurückgewiesen.
+Text
+Begründung:
+Die Beklagte ist Unfallversicherer des Klägers. Die dem Versicherungsvertrag unstrittig zugrundeliegenden AUVB 2003 der Beklagten lauten auszugsweise:
+„Artikel 6
+Begriff des Unfalles
+1. Ein Unfall liegt vor, wenn die versicherte Person durch ein plötzlich von außen auf ihren Körper wirkendes Ereignis (Unfallereignis) unfreiwillig eine Gesundheitsschädigung erleidet.
+…
+3. Krankheiten gelten nicht als Unfälle …“
+Die „Besondere Bedingung U826.2“ lautete auszugsweise:
+„Versichert sind auch Unfälle, die der Versicherte infolge eines ihn treffenden Herzinfarktes erleidet. Ebenso erstreckt sich der Versicherungsschutz auch auf einen Herzinfarkt, welcher unmittelbar durch einen Unfall ausgelöst wird.
+Der Versicherungsschutz erstreckt sich auch auf Unfälle infolge von Schlaganfällen oder Geistes- und Bewußtseinsstörungen (jedoch nicht durch Alkohol-, Medikamenten- oder Suchtgifteinfluß).“
+Rechtliche Beurteilung
+1. Nach der Einschätzung eines durchschnittlich verständigen Versicherungsnehmers (RS0017960) gehört zum Vorliegen eines Unfalls grundsätzlich eine – wenngleich auch nur geringfügige – Verletzung des Versicherten (vgl 7 Ob 130/09g, 7 Ob 103/15w, 7 Ob 32/17g); im Regelfall ist daher eine Beeinträchtigung der körperlichen Integrität des Versicherten dem Unfallbegriff inhärent (RS0131753). Ein Unfall ist ein plötzlich von außen auf den Körper der versicherten Person einwirkendes Ereignis, wodurch diese unfreiwillig eine Gesundheitsschädigung erleidet; ein von außen auf den Körper wirkendes Ereignis liegt vor, wenn Kräfte auf den Körper einwirken, die außerhalb des Einflussbereichs des eigenen Körpers liegen (7 Ob 200/18i).
+2.1. Der Kläger erlitt eine spontane intrazerebrale Blutung in der Großhirnhemisphäre („Schlaganfall“), ohne dass dies durch ein von außen auf den Körper wirkendes Ereignis ausgelöst worden wäre; dieses Blutungsgeschehen hat auch keinen Unfall herbeigeführt. Der Schlaganfall ist daher weder die Folge eines Unfalls im oben dargelegten Sinne (vgl
+7 Ob 113/19x [zur Unwirksamkeit einer Herzinfarkt und Schlaganfall als Unfallsfolge ausschließenden Klausel]), noch ist ein solcher Unfall als Folge des Schlaganfalls eingetreten.
+2.2. Ein Schlaganfall selbst ist als rein innerkörperlicher Vorgang kein Unfall iSd AUVB 2003, sodass für den Kläger aus der Entscheidung 7 Ob 32/17g nichts zu gewinnen ist. Dass die Streitteile gesondert eine uneingeschränkte und absolute Leistungsverpflichtung beim Vorliegen eines Schlaganfalls vereinbart hätten, steht nicht fest.
+3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00161.20G.0923.000

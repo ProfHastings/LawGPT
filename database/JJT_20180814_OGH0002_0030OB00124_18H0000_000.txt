@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.08.2018
+Geschäftszahl
+3Ob124/18h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Sachwalterschaftssache des F*****, über den außerordentlichen Revisionsrekurs des Sachwalters Dr. V*****, gegen den Beschluss des Landesgerichts Korneuburg als Rekursgericht vom 16. April 2018, GZ 23 R 25/18s-121, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Begründung:
+Rechtliche Beurteilung
+Der Beschluss des Erstgerichts vom 5. Februar 2018, ON 118, wurde dem Sachwalter nach dem im Akt befindlichen Zustellnachweis am 7. Februar 2018 durch Hinterlegung beim Postamt Mödling zugestellt. Nach der vorliegenden Zustellkarte war die Sendung dort schon am 7. Februar 2018 abholbereit und wurde am 9. Februar 2018 an den Empfänger, also den Sachwalter ausgefolgt.
+Das Rekursgericht wies den vom Sachwalter am 23. Februar 2018 im ERV eingebrachten Rekurs des Sachwalters zurück, bewertete den Entscheidungsgegenstand 30.000 EUR übersteigend und ließ den ordentlichen Revisionsrekurs mangels erheblicher Rechtsfrage nicht zu. Da hinterlegte Dokumente mit dem ersten Tag der Abholfrist als zugestellt gelten, habe die Rekursfrist am 21. Februar 2018 geendet. Der Rekurs sei daher verspätet.
+Dagegen erhob der Sachwalter I. eine Zulassungsvorstellung verbunden mit dem Antrag, das Rekursgericht möge den gleichzeitig erhobenen ordentlichen Revisionsrekurs für zulässig erklären, und II. einen außerordentlichen Revisionsrekurs.
+Der Sachwalter strebt die Aufhebung der Rekursentscheidung und die Zurückverweisung an das Rekursgericht zwecks Sachentscheidung an. Er macht geltend, der Beschluss ON 118 sei ihm nicht durch Hinterlegung zugestellt worden, sondern durch Ausfolgung am 9. Februar 2018, sodass die Rekursfrist erst ab diesem Datum zu laufen begonnen habe und gewahrt worden sei. Zum Nachweis legte er eine „Bestätigung des Postamts Mödling (Sendungsnachforschung) vom 9. 5. 2018“ vor (Beilage ./A). Aus dieser Urkunde und dem weiters in Kopie vorgelegten Kuvert der RSb-Sendung (Beilage ./B) ergebe sich zweifelsfrei, dass die Zustellung an den Sachwalter erst am 7. Februar 2018 um 19:23 Uhr vom Verteilerzentrum 1000 an das Verteilerzentrum Wien/Niederösterreich/Burgenland weitergeleitet und der Export „per“ 8. Februar 2018 um 10:33 Uhr erfolgt sei. Das Rekursgericht habe die Frage des Beginns der Rekursfrist gegen die dem Sachwalter in einem P-Verfahren infolge Zustellung sowohl an ihn als auch an den Kuranden unrichtig gelöst, sodass Aktenwidrigkeit, Nichtigkeit, ein wesentlicher Verfahrensmangel und unrichtige rechtliche Beurteilung verwirklicht seien.
+Die Aktenvorlage an den Obersten Gerichtshof ist verfrüht:
+Die zum selben Identcode wie die Zustellkarte vorliegende „Sendungsnachforschung“ (Beilage ./A) listet unter den „Trackevents zur Sendung“ ua folgendes auf:
+Zeitstempel	Zustellbasis	ZBez	Status		Beschreibung
+6. 2. 2018
+19:18:29  				importiert
+7. 2. 2018 	VZ 1000
+19:23:45 	W/Noe/Bgld		verteilt   	Exportiert: 8. 2. 2018 								      10:33 Uhr
+9. 2. 2018
+07:06:30 				Unterschrift 	2340
+importiert
+Dieser Urkunde ist zum einen eine Hinterlegung der Sendung nicht zu entnehmen, zum anderen scheint es nicht ausgeschlossen, dass die Sendung erst am Vormittag des 8. Februar 2018 für eine Zustellung zur Verfügung stand.
+Auch die Kopien der RSb-Sendung (Beilage ./B) lassen eine Hinterlegung nicht erkennen, weil die dafür vorgesehenen Positionen unausgefüllt blieben.
+Da derzeit die Aktenlage mit den vom Sachwalter vorgelegten Urkunden nicht in Einklang zu bringen und deshalb eine abschließende Beurteilung der Rechtzeitigkeit des Rekurses nicht möglich ist, wird das Erstgericht vor neuerlicher Vorlage des Akts zweckdienliche Erhebungen – unter Zuziehung der Parteien – über die Art und den Zeitpunkt der Zustellung des Beschlusses ON 118 an den Sachwalter zu pflegen haben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030OB00124.18H.0814.000

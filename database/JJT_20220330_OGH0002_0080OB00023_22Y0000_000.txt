@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8Ob23/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht   durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei B*, vertreten durch Salburg Rechtsanwalts GmbH in Wien, gegen die beklagte Partei T* Limited, *, vertreten durch Brandl Talos Rechtsanwälte GmbH in Wien, wegen 11.775,96 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 26. November 2021, GZ 53 R 192/21y-24, mit dem das Urteil des Bezirksgerichts Salzburg vom 13. Juli 2021, GZ 13 C 1/21m-19, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 936,72 EUR (darin 156,12 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger erlitt bei von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Online-Pokerspielen vom 16. 3. 2016 bis 30. 9. 2020 Verluste in Höhe von 11.775,96 EUR.
+[2] 		Die Vorinstanzen gaben dem (unter anderem) auf Bereicherungsrecht gestützten und auf die Rückzahlung dieses Betrags gerichteten Klagebegehren statt. Das österreichische Glücksspielmonopol sei nicht unionsrechtswidrig. Die Durchführung einer Ausspielung ohne Konzession sei damit verbotenes Glücksspiel, was die Möglichkeit zur bereicherungsrechtlichen Rückforderung erlittener Spielverluste eröffne. Die Passivlegitimation der Beklagten als Bereicherungsschuldnerin sei zu bejahen, weil sie Veranstalterin des verbotenen Online-Pokerspiels und alleinige Vertragspartnerin des Klägers sei. Die ordentliche Revision sei zulässig, weil zur Frage der bereicherungsrechtlichen Rückabwicklung eines (verbotenen) Online-Pokerspiels – soweit ersichtlich – keine gesicherte höchstgerichtliche Rechtsprechung vorliege.
+[3] 		Die dagegen erhobene Revision der Beklagten ist mangels einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[4] 		1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (vgl RIS-Justiz RS0112921; RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels aufgeworfene erhebliche Rechtsfrage fällt weg, wenn sie durch eine Entscheidung des Obersten Gerichtshofs bereits geklärt wurde (RS0112921 [T5]).
+[5] 		2. Die von der Revisionswerberin hier allein aufgeworfene Rechtsfrage „nach dem konkreten Bereicherungsschuldner“ beim Online-Pokerspiel hat der Oberste Gerichtshof in dem ebenfalls die Beklagte betreffenden Verfahren 6 Ob 229/21a kürzlich zusammengefasst wie folgt beantwortet:
+[6] 		Gemäß § 2 Abs 1 und 4 in Verbindung mit § 4 Abs 1 GSpG ist bereits das konzessionslose Veranstalten, Organisieren, Anbieten oder Zugänglichmachen von Glücksspiel durch einen Unternehmer verboten; und zwar auch dann, wenn er nicht selbst am Spiel teilnimmt und etwa die Gewinne stellt, sondern nur auf sonstige Weise an der Durchführung des Spiels mitwirkt. Vor diesem Hintergrund kann es keinem Zweifel unterliegen, dass der Vertrag, mit dem dem Kläger die Teilnahme an Online-Pokerspielen auf der Website der Beklagten ermöglicht wurde, nach § 879 Abs 1 ABGB nichtig ist.
+[7] 		Die Rechtsfolgen der Nichtigkeit eines Rechtsgeschäfts wegen Verbots- und Sittenwidrigkeit richten sich nach einer Analogie zu § 877 ABGB. Die Passivlegitimation der Beklagten ergibt sich schon daraus, dass diese Empfängerin der Leistung des Klägers gewesen ist. Durch die wiederkehrenden Geldüberweisungen des Klägers ist die Beklagte unmittelbar bereichert worden, ganz unabhängig davon, dass es sich dabei jeweils noch nicht um die Leistung eines Spieleinsatzes im Rahmen eines unerlaubten Glücksvertrags gehandelt hat. Ein Belassen der Zahlung oder die Anwendung der § 1174 Abs 1 Satz 1 ABGB oder § 1432 ABGB, auch wenn die Zahlung nicht geleistet wurde, um das verbotene Spiel unmittelbar zu bewirken, sondern „nur“ um am Spiel überhaupt teilnehmen zu können, widerspricht überdies dem Verbotszweck der §§ 2 Abs 1 und 4 in Verbindung mit § 4 Abs 1 GSpG.
+[8] 		3. Die vorliegende Revision bietet keine Veranlassung, von diesen Grundsätzen abzugehen. Die Entscheidung des Berufungsgerichts steht mit dieser Rechtsprechung im Einklang, sodass die Revision mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO zurückzuweisen war.
+[9] 		4. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO (vgl RS0112921 [T6]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00023.22Y.0330.000

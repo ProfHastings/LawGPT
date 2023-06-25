@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2022
+Geschäftszahl
+2Ob210/21b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei V* H *, vertreten durch Ortner Rechtsanwalts KG in Gmunden, gegen die beklagte Partei F*, vertreten durch Dr. Michael Böhme, Rechtsanwalt in Wien, wegen 30.585 EUR sA und Feststellung (Streitwert: 10.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. September 2021, GZ 13 R 90/21g-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin wurde als Beifahrerin auf einem (gemieteten) Quad bei einem Verkehrsunfall in Griechenland verletzt. Unfallursache war das plötzliche Ausbrechen des Quads aufgrund eines technischen Defekts. Das Quad trug keine „offizielle Nummerntafel“; ob es haftpflichtversichert war, konnte nicht geklärt werden.
+[2] 		Die Klägerin stellt auf Grundlage des § 4 Abs 1 Z 1 iVm § 9 VOEG Ansprüche gegen den beklagten Verband. Sie habe nach griechischem Recht Ansprüche aus Gefährdungshaftung.
+[3] 		Die Vorinstanzen wiesen das Klagebegehren ab. Der Klägerin sei der Nachweis des (hypothetischen) Bestehens eines Schadenersatzanspruchs nach griechischem Recht misslungen, sodass ihr schon deswegen keine Ansprüche nach § 4 iVm § 9 VOEG zustünden.
+[4] 		Die außerordentliche Revision der Klägerin zeigt das Vorliegen erheblicher Rechtsfragen iSd § 502 Abs 1 ZPO nicht auf:
+Rechtliche Beurteilung
+[5] 		1. Die Klägerin releviert ausschließlich eine unzutreffende Ermittlung griechischen Rechts durch das Berufungsgericht. Dieses hätte insbesondere eine Auskunft nach dem Europäischen Übereinkommen betreffend Auskünfte über ausländisches Recht einholen müssen.
+[6] 		2. Der Oberste Gerichtshof ist nicht dazu berufen, für die Einheitlichkeit oder Rechtsfortbildung fremden Rechts Sorge zu tragen oder Leitlinien zum richtigen Verständnis dieses Rechts zu entwickeln (RS0042940 [T8]; RS0042948 [T20]; RS0080958 [T2]). Die Revision ist bei Anwendung fremden Rechts daher nur dann zulässig, wenn dieses Recht unzutreffend ermittelt oder eine in seinem ursprünglichen Geltungsbereich in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt worden wäre oder wenn grobe Subsumtionsfehler vorlägen, die richtiggestellt werden müssten (RS0042940 [T9]; RS0042948 [T21]; vgl auch RS0113594). Die Rechtsrüge einer außerordentlichen Revision muss bei Anwendung fremden Rechts ein Abweichen des Berufungsgerichts von der ausländischen Entscheidungspraxis bzw Lehre oder grobe Beurteilungsfehler im Einzelfall konkret aufzeigen (Lovrek in Fasching/Konency³ IV/1 § 502 ZPO Rz 71 mwN; vgl 4 Ob 176/16k mwN).
+[7] 		3. Diesen Anforderungen wird die außerordentliche Revision der Klägerin nicht gerecht, beschränkt sie sich doch auf die bloße Behauptung, die Ermittlung griechischen Rechts durch das Berufungsgericht wäre unzutreffend, ohne Lehrmeinungen oder Gerichtsentscheidungen zu nennen, die das von ihr angestrebte Ergebnis der Auslegung der griechischen Normen stützen würden. Nach Maßgabe der zu Punkt 2. dargestellten Judikatur ist der Oberste Gerichtshof auch nicht dazu berufen, einen Beitrag zur Methodik der Gesetzesauslegung nach griechischem Recht zu leisten.
+[8] 		4. Gemäß § 4 Abs 1 IPRG ist fremdes Recht von Amts wegen zu ermitteln, wobei sich der Richter die entsprechenden Kenntnisse in jeder Lage des Verfahrens selbst zu verschaffen hat (RS0045163; RS0040189). Wie er sich diese notwendigen Kenntnisse des fremden Rechts verschafft, liegt in seinem Ermessen (RS0045163 [T11]; RS0040189 [T8]). Die von der Klägerin als fehlend gerügte Einholung einer Auskunft nach dem Europäischen Übereinkommen betreffend Auskünfte über ausländisches Recht stellt weder einen Mangel des Berufungsverfahrens nach § 503 Z 2 ZPO dar noch führt sie zu einer unrichtigen rechtlichen Beurteilung, wenn sich das Berufungsgericht auf anderem Weg die erforderlichen Kenntnisse verschafft hat. Ob dies zutrifft, bildet regelmäßig eine Frage des Einzelfalls (2 Ob 231/17k Punkt 4.2. mwN). Hier hat das Berufungsgericht zur Ermittlung des griechischen Rechts  unterschiedliche Fachpublikationen herangezogen und damit auf im Einzelfall jedenfalls vertretbare Weise das ausländische Recht ermittelt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00210.21B.0127.000

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.1976
+Geschäftszahl
+3Ob118/76
+Norm
+ABGB §431;
+Grundbuchgesetz §21;
+Grundbuchgesetz §94;
+Kopf
+SZ 49/104
+Spruch
+Die Bestimmungen der §§ 21 und 94 GBG verhindern im Grundbuchsverkehr jede Bedachtnahme auf die tatsächlichen Eigentumsverhältnisse, solange sie nicht im Grundbuch ihren Niederschlag gefunden haben. Eine bücherliche Eintragung gegen die noch nicht im Grundbuch einverleibten Erben ist daher unzulässig, auch wenn sie bereits nach materiellem Recht Liegenschaftseigentümer sind
+OGH 7. September 1976, 3 Ob 118/76 (LG Salzburg 32 R 222/76; BG Saalfelden E 5014/76)
+Text
+Auf Grund des Anerkenntnisurteiles des Landesgerichtes Salzburg vom 14. August 1969 bewilligte das Erstgericht zur Hereinbringung der vollstreckbaren Forderung der betreibenden Gläubigerin von 2 720 130 S samt Anhang wider die Verlassenschaft nach Carl Friedrich S die Zwangsversteigerung der Liegenschaft EZ 263 KG H, als deren Eigentümer im Grundbuch noch der Erblasser eingetragen ist.
+Das Rekursgericht hob den Beschluß der ersten Instanz als nichtig auf. Es stellte aus dem Verlassenschaftsakt A 62/73 des Bezirksgerichtes S fest, daß die Verlassenschaft des Carl Friedrich S mit Beschluß des Nachlaßgerichtes vom 23. Jänner 1975 für beendet erklärt und der Nachlaß der Gabriele C eingeantwortet worden sei. Rechtlich war das Rekursgericht der Ansicht, daß das gegen eine Verlassenschaft eingeleitete Exekutionsverfahren nichtig sei, wenn zur Zeit der Erlassung der Exekutionsbewilligung der Nachlaß bereits eingeantwortet sei. In einem solchen Fall könne die Exekution nur mehr gegen die Erben geführt werden.
+Der Oberste Gerichtshof stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Ansicht des Revisionsrekurses, daß Gabriele C noch nicht Eigentümerin der in Exekution gezogenen Liegenschaft sei, kann allerdings nicht gefolgt werden. Nach der nunmehr ständigen, mit der herrschenden Lehre (Klang, ABGB[2] II, 371) übereinstimmenden Rechtsprechung erwirbt der Erbe trotz der Bestimmung des § 436 ABGB Eigentum an den in den Nachlaß fallenden unbeweglichen Sachen nicht erst mit der Einverleibung seines Eigentumsrechtes im Grundbuch, sondern bereits mit der Einantwortung (SZ 12/70; EvBl. 1963/103 u. a.). Die grundbücherliche Einverleibung hat in diesem Fall nur mehr insofern Bedeutung, als der Erbe dadurch den bücherlichen Besitz erlangt (JBl. 1952, 16). Die Bestimmungen der §§ 21 und 94 Grundbuchgesetz verhindern jedoch im Grundbuchverkehr jede Bedachtnahme auf die tatsächlichen Eigentumsverhältnisse, solange sie nicht im Grundbuch ihren Niederschlag gefunden haben. Eine bücherliche Eintragung gegen die Erben ist daher unzulässig, auch wenn sie bereits nach materiellem Recht Liegenschaftseigentümer sind (ebenso ZBl. 1935/274). Diese Besonderheit rechtfertigt die Auffassung, daß in Ansehung von Grundbuchseintragungen die Tatsache der erfolgten Einantwortung bis zur Einverleibung des Eigentumsrechtes der Erben im Grundbuch nicht zu berücksichtigen ist. Demnach ist bis zur Einverleibung des Eigentumsrechtes der Erben im Grundbuchverkehr so vorzugehen, als ob keine rechtskräftige Einantwortung erfolgt wäre. In diesem Sinne hat der OGH auch in 1 Ob 443/53 entschieden. Heller - Berger - Stix, 223/224, geben diese Entscheidung mit dem Bemerken wieder, daß für den genannten Zeitraum wohl keine andere Möglichkeit zur Exekutionsführung bestehe, billigen also das Ergebnis dieses Erkenntnisses. An dieser Auffassung hat der OGH auch in der Entscheidung 3 Ob 122/69 festgehalten und ausgesprochen, daß in einem solchen Fall so vorzugehen ist, als ob die Verlassenschaft noch nicht rechtskräftig eingeantwortet sei. Von dieser Auffassung abzugehen,sieht sich der OGH auch diesfalls nicht veranlaßt. Es kann deshalb auch der Ansicht des Rekursgerichtes, daß die Exekutionsbewilligung nichtig sei, nicht gefolgt werden. Der vom Rekursgericht zitierten Entscheidung 7 Ob 431/55 lag ein Sachverhalt zugrunde, der mit dem gegebenen nicht zu vergleichen ist (Zustellung der Exekutionsbewilligung an eine Person, die weder vom Erblasser noch von den Erben bevollmächtigt war; bereits rechtskräftige Einstellung der Exekution im Zeitpunkt der Nichtigerklärung der Exekutionsbewilligung).

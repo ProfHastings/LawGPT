@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2017
+Geschäftszahl
+8ObA1/17f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner und den Hofrat Dr. Brenn als weitere Richter sowie die fachkundigen Laienrichter Mag. Klaus Hübner und Mag. Andreas Schlitzer in der Arbeitsrechtssache der klagenden Partei J***** B*****, vertreten durch Dr. Peter Schmautzer, Mag. Stefan Lichtenegger, Rechtsanwälte in Wien, gegen die beklagte Partei S***** AG, *****, vertreten durch Dr. Klaus Oblin, Rechtsanwalt in Wien, wegen Feststellung und Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. November 2016, GZ 9 Ra 46/16z-46, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+Die Vorinstanzen haben das (richtig:) auf Feststellung, dass das Dienstverhältnis des Klägers zur Beklagten ungeachtet der ausgesprochenen Kündigung aufrecht sei, sowie eventualiter auf Kündigungsanfechtung gerichtete Klagebegehren als nicht begründet beurteilt.
+Die außerordentliche Revision des Klägers ist unzulässig, weil darin keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO dargelegt wird.
+Die Kündigung eines Dienstverhältnisses ist grundsätzlich formfrei. Der Kläger hat weder behauptet, dass er mit der Beklagten einen Schriftformvorbehalt für die Wirksamkeit einer Kündigung vereinbart habe, noch hat das Verfahren einen Hinweis auf ein solches Formerfordernis ergeben.
+Schon weil es auf die Form der Kündigungserklärung nicht ankam, vermag die Revision mit ihren Ausführungen zu den Zeichnungsvorschriften des § 72 AktG keine verfahrensrelevante Rechtsfrage anzusprechen. Davon abgesehen missverstehen die Revisionsausführungen die Tragweite der Bestimmung, die nur eine Ordnungsvorschrift darstellt, die die Gültigkeit des gezeichneten Schriftstücks und einer darin etwa enthaltenen Vertretungshandlung nicht berührt (Nowotny in Doralt/Nowotny/Kalss, AktG2 § 72 Rz 2; Strasser in Jabornegg/Strasser, AktG II5 § 74 Rz 77).
+Die Regelung des § 72 AktG gilt für die Zeichnung des Vorstands, soweit sie erforderlich ist oder vom Vorstand oder von einem anderen Organ der Gesellschaft für erforderlich gehalten oder von einem Dritten verlangt wird. Sie hindert den Vorstand aber nicht, andere Personen wirksam zur Unterfertigung von Schriftstücken im internen wie im externen Schriftverkehr der AG zu bevollmächtigen (Strasser aaO § 74 Rz 77 ff).
+Ob einer Kündigung ein verpöntes Motiv zugrundelag, ob ihr Ausspruch gegen die guten Sitten verstoßen hat oder sozialwidrig war, kann nur nach den Umständen des Einzelfalls beurteilt werden. Mangels einer über den Anlass hinausreichenden Aussagekraft von Einzelfallentscheidungen steht die Revision zu ihrer Überprüfung nach § 502 Abs 1 ZPO nicht offen, es sei denn, dem Berufungsgericht wäre bei seiner Entscheidung eine krasse Fehlbeurteilung unterlaufen, die ausnahmsweise zur Wahrung der Rechtssicherheit einer Korrektur bedürfte. Diese Voraussetzung vermag die Revision nicht aufzuzeigen.
+Die Ausführungen des Revisionswerbers zu den Anfechtungsgründen weichen nicht nur vom für den Obersten Gerichtshof bindend festgestellten Sachverhalt ab, sondern wären auch abstrakt betrachtet ohne Relevanz für das rechtliche Ergebnis, weil im Ergebnis weder ein Anfechtungsgrund iSd § 105 Abs 3 Z 1 ArbVG dargelegt wird, noch ein Grund, der als Verstoß gegen die guten Sitten gewertet werden könnte.
+Die Verneinung der in erster Instanz behaupteten Sozialwidrigkeit der Kündigung iSd § 105 Abs 3 Z 2 ArbVG hat der Kläger im Berufungsverfahren nicht angefochten. Hat die Rechtsrüge in zweiter Instanz nur bestimmte Aspekte aufgegriffen und wurde das Ersturteil nicht aus dem nunmehr relevierten Grund bekämpft, dann kann dies in der Revision nicht mehr nachgeholt werden (RIS-Justiz RS0043338 [T10, T11, T13]). Die – außerdem neuerlich vom festgestellten Sachverhalt nicht gedeckten – Revisionsausführungen über das Fehlen eines betrieblichen Kündigungserfordernisses können die Zulässigkeit des außerordentlichen Rechtsmittels daher ebenfalls nicht begründen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:008OBA00001.17F.0530.000

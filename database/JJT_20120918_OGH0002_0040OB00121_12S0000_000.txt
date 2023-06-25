@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.09.2012
+Geschäftszahl
+4Ob121/12s
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei V*****, vertreten durch Dr. Clemens Thiele, Rechtsanwalt in Salzburg, gegen die beklagten Parteien 1. S***** Gesellschaft mbH, 2. DI R***** K*****, beide vertreten durch Mag. Gernot Strobl, Rechtsanwalt in Salzburg, wegen Unterlassung, 28.029,55 EUR sA, Beseitigung, Rechnungslegung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 33.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 7. Mai 2012, GZ 2 R 72/12i-24, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß
+§§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Das Rekursgericht hat den Umfang der zwischen den Parteien vereinbarten Werknutzungsbewilligung (Punkt 6.1. der Vereinbarung vom 13. 3. 2002) unter Anwendung des § 915 zweiter Halbsatz ABGB bestimmt, da die auslegungsbedürftige und undeutliche Textfassung von der Klägerin stammt, und ist zum (vertretbaren) Ergebnis gelangt, dass die Datenübertragung Ende 2010 auf einen Server der Erstbeklagten von der (erst im März 2011 widerrufenen) Werknutzungsbewilligung umfasst war.
+Die Klägerin zeigt in diesem Zusammenhang keine erhebliche Rechtsfrage auf. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, begründet nämlich nur dann eine erhebliche Rechtsfrage, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042936; vgl auch RS0042776). Das gilt auch dann, wenn eine andere Auslegung ebenfalls vertretbar wäre (RIS-Justiz RS0112106 [T3, T4]). Eine unvertretbare Auslegung ist dem Rekursgericht hier nicht vorzuwerfen.
+2. Auf Grundlage dieser Auslegung und der vom Rekursgericht übernommenen Negativfeststellung, eine Weitergabe der Softwarebestandteile an Dritte sei nicht feststellbar, war das zuletzt gegen die Erst- und den Zweitbeklagten erhobene Sicherungshauptbegehren jedenfalls unberechtigt.
+3. Bei vertragsgemäßer Nutzung (vor Widerruf der Werknutzungsbewilligung) kommt auch ein lauterkeitsrechtlicher Anspruch nicht in Frage; ob zwischen den Streitteilen ein Wettbewerbsverhältnis besteht, ist deshalb nicht entscheidend.

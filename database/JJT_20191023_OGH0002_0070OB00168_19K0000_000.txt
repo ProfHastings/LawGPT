@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.10.2019
+Geschäftszahl
+7Ob168/19k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei D***** M*****, vertreten durch Dr. Herbert Hubinger, Rechtsanwalt in Kirchdorf an der Krems, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Günter Schmid und Mag. Rainer Hochstöger, Rechtsanwälte in Linz, wegen 220.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 7. August 2019, GZ 6 R 23/19y-45, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Art 20 („Ausschlüsse“) der dem Unfallversicherungsvertrag zugrunde liegenden ***** Bedingungen für die Unfallversicherung 2012, Fassung 02/2016, UD00 lautet auszugsweise:
+„Ausgeschlossen von der Versicherung sind Unfälle:
+[...]
+8. die die versicherte Person infolge einer wesentlichen Beeinträchtigung ihrer psychischen oder physischen Leistungsfähigkeit durch Alkohol, Suchtgifte oder Medikamente erleidet;
+[...]“.
+1.1 Der – einem verständigen Versicherungsnehmer ohne weiteres erkennbare – Sinn dieser Ausschlussklausel liegt darin, solche Unfälle vom Versicherungsschutz auszunehmen, die Folge einer beim Versicherten schon vor dem Unfall vorhandenen, gefahrenerhöhenden Beeinträchtigung und sich daraus ergebenden Einschränkung sind (7 Ob 93/18d; vgl RS0122121). Die Bewusstseinsstörung oder Beeinträchtigung muss, um einen Ausschluss von der Versicherung zu begründen, den Unfall verursacht haben, zumindest aber mitursächlich gewesen sein (RS0082132 [T1]).
+1.2 Der Grenzwert des Alkoholisierungsgrads, ab dem der Ausschlusstatbestand der wesentlichen Beeinträchtigung der psychischen Leistungsfähigkeit erfüllt ist, hängt davon ab, ob die vom alkoholisierten Versicherten ausgeübte Tätigkeit besondere Anforderungen an die Aufnahmefähigkeit, Konzentrationsfähigkeit und Reaktionsfähigkeit stellt oder nicht (RS0081871). Die Grenzwerte der Alkoholisierung werden dementsprechend verschieden sein, je nachdem, ob der Versicherte etwa Autofahrer, Radfahrer oder Fußgänger ist (vgl RS0082043 [T2]). Wenn der Blutalkohol allein – wie hier – für die Annahme des Ausschlussgrundes noch nicht ausreicht, ist der Begriff der wesentlichen Beeinträchtigung der psychischen Leistungsfähigkeit danach zu bemessen, ob der Versicherte noch in der Lage ist, mit der jeweiligen Situation, in der er sich zur Zeit des Unfalls befindet, einigermaßen zurecht zu kommen (RS0081872); dabei handelt es sich um eine Rechtsfrage (RS0050065).
+1.3 Diese Rechtsfrage ist nach den festzustellenden, fallspezifischen Gegebenheiten zu beurteilen; der für die Annahme einer Bewusstseinsstörung bzw wesentlichen Beeinträchtigung infolge Alkoholeinwirkung anzunehmende Grenzwert hängt somit von den jeweiligen Umständen des Einzelfalls ab (RS0042975). Damit ist die Beurteilung des Vorliegens einer wesentlichen Beeinträchtigung der psychischen oder physischen Leistungsfähigkeit durch Alkohol keine erhebliche Rechtsfrage, es sei denn, es läge eine krasse Fehlbeurteilung vor, die vom Obersten Gerichtshof korrigiert werden müsste (vgl 7 Ob 93/18d).
+2. Eine solche korrekturbedürftige Fehlbeurteilung liegt vor dem Hintergrund der im vorliegenden Verfahren – im Einklang mit dem Inhalt des Strafurteils – getroffenen Feststellungen nicht vor.
+Die Klägerin wies zum Unfallszeitpunkt eine (Rest-)Blutalkoholkonzentration von mindestens 1,03 Promille (höchstens 1,24 Promille) auf. Bei einer solchen Restalkoholkonzentration, die eine dämpfende Wirkung erwarten lässt, können insbesondere bei komplexen Tätigkeiten, wie dem Führen eines Kraftfahrzeugs Koordinations- und Konzentrationsschwächen zutage treten, wobei Betroffene dazu neigen, ihre tatsächliche Leistungsfähigkeit zu überschätzen. „Restalkohol“-Konstellationen können selbst bei geringen Blutalkoholkonzentrationen zu deutlichen Fahrunsicherheiten führen. Ein alkoholtypischer Fahrfehler ist unter anderem das Nichtbewältigen von Kurven. Aufgrund der bei der Klägerin ausdrücklich festgestellten alkoholbedingten Beeinträchtigung – und der damit einhergehenden Einschränkung der Aufnahme-, Konzentrations- und Reaktionsfähigkeit – durchfuhr sie in Annäherung der späteren Unfallstelle eine Linkskurve mit der Kurvengrenzgeschwindigkeit von 96 km/h, was höchste Anforderungen an die Konzentrations- und Reaktionsfähigkeit stellt, lenkte sodann zu spät in die Rechtskurve und leitete bei Erkennen des Gegenverkehrs eine Vollbremsung ein, wodurch sie auf die Gegenfahrbahn gelangte und mit dem entgegenkommenden Fahrzeug kollidierte.
+Dass – nach Ansicht der Vorinstanzen – daraus nicht nur die (Mit-)Ursächlichkeit der durch Alkohol beeinträchtigten Leistungsfähigkeit der Klägerin am Unfall folgt, sondern damit auch der – vom Versicherer zu beweisende (vgl RS0081884; RS0082083; RS0081447) – Ausschlussgrund nach Art 20.8 der Versicherungsbedingungen verwirklicht wurde, hält sich im Rahmen der Rechtsprechung.
+Auf die Frage der Bindungswirkung des Strafurteils kommt es nicht an.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00168.19K.1023.000

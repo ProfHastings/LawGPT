@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.07.1973
+Geschäftszahl
+4Ob61/73
+Norm
+Angestelltengesetz §20 Abs2;
+KO §25;
+Kopf
+SZ 46/73
+Spruch
+Nach § 25 KO ist der Masseverwalter nur an die gesetzliche - oder an die vereinbarte kürzere - Kündigungsfrist gebunden, nicht aber an den gesetzlichen Kündigungstermin des § 20 Abs. 2 AngG
+"Gesetzliche Kündigungsbeschränkungen" im Sinne des § 25 KO sind nur die besonderen Beschränkungen für eine Kündigung "geschützter Dienstnehmer" nach dem Betriebsrätegesetz, dem Mutterschutzgesetz, dem Invalideneinstellungsgesetz oder dgl.
+OGH 10. Juli 1973, 4 Ob 61/73 (KG St. Pölten 3 Cg 2/73; Arb St. Pölten Cr 65/72)
+Text
+Die Klägerin war seit 9. Feber 1970 bei der Firma A in S als Angestellte beschäftigt. Am 28. Juli 1972 wurde über das Vermögen ihres Dienstgebers der Konkurs eröffnet und der Beklagte zum Masseverwalter bestellt. Am 2i. August 1972 kundigte der Beklagte mündlich gemäß § 25 KO das Dienstverhältnis zum 31. Oktober 1972 auf. Mit Schreiben vom 22 August 1972 wiederholte er diese Erklärung.
+Die Klägerin begehrt Kündigungsentschädigung für die Monate November und Dezember 1972 im Gesamtbetrag von 6103.40 S samt Zinsen mit der Begründung, gemaß § 20 AngG könne ein Dienstverhältnis nur mit dem Quartalsende, im vorliegenden Fall also mit 31. Dezember 1972, gekundigt werden.
+Der Beklagte beantragte, das Klagebegehren abzuweisen.
+Das Erstgericht gab dem Klagebegehren mit der Begründung statt, von den in § 25 KO erwähnten gesetzlichen Kündigungsbeschränkungen, die vom Masseverwalter zu beachten seien, sei auch der gesetzliche Kündigungstermin erfaßt, so daß der Klägerin das Dienstentgelt auch bei Anwendung des § 25 KO bis zum Quartalsende gebühre.
+Das Berufungsgericht wies das Begehren ab. Der Masseverwalter könne nach § 25 Abs. 1 KO in der Fassung des BG BGBl 253/1959 das Dienstverhältnis unter Einhaltung der gesetzlichen oder vereinbarten kürzeren Kündigungsfrist lösen, sofern nicht gesetzliche Kündigungsbeschränkungen entgegenstunden. Unter diesen gesetzlichen Kündigungsbeschränkungen seien die Vorschriften des Kündigungsschutzes zu verstehen, wie z. B. der einschlägigen Bestimmungen des ArbeitsplatzsicherungsG, des BetriebsräteG, des InvalideneinstellungsG und des MutterschutzG, jedoch nicht die Bestimmung des § 20 Abs. 2 AngG über den Kündigungstermin. Durch § 25 KO werde es dem Masseverwalter entscheidend erleichtert, Arbeitsverhältnisse mit den Dienstnehmern des Gemeinschuldners zu beenden. Ohne die Eröffnung des Konkurses über sein Vermögen hätte der Dienstgeber bei Vorliegen eines Dienstverhältnisses auf unbestimmte Zeit nur die Möglichkeit, das Dienstverhältnis unter Einhaltung gesetzlicher oder vertraglicher Kündigungsfristen und Termine unter Bedachtnahme auf die Bestimmungen des allgemeinen und des besonderen Kündigungsschutzes und auf allfällige vertragliche Kündigungsbeschränkungen zu kundigen. Die Erleichterung für den Masseverwalter liege darin, daß er nur an die gesetzliche bzw. an eine vereinbarte kürzere Kündigungsfrist und an die gesetzlichen Kündigungsbeschränkungen gebunden sei nicht gebunden sei er aber an eine im Verhältnis zur gesetzlichen Kündigungsfrist längere vereinbarte Kündigungsfrist, an gesetzliche oder vertragliche Kündigungstermine und an vertragliche Kündigungsbeschränkungen, weshalb die Kündigung zum 31. Oktober 1972 zu Recht erfolgt und der Klagsanspruch zu verneinen sei.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Rechtsauffassung des Berufungsgerichtes, der Masseverwalter sei bei der nach § 25 KO innerhalb Monatsfrist nach der Konkurseröffnung vorgenommenen Kündigung zwar an die gesetzliche Küridigungsfrist, falls eine kürzere Kündigungsfrist nicht vereinbart wurde, gebunden, nicht aber daran, daß gemäß § 20 Abs. 2 AngG das Dienstverhältnis durch Kündigung des Angestellten nur mit Ablauf eines jeden Kalendervierteljahres gelöst werden kann, entspricht nicht nur dem älteren Schrifttum (Adler - Höller in Klang; V, 329, Anm. 5), sondern auch dem neueren Schrifttum. So wird von Mayer - Maly, Österr. Arbeitsrecht 112, die Auffassung vertreten, die Konkursordnung gebe dem Masseverwalter eine einen Monat lang währende Kündigungsmöglichkeit und damit einen Kündigungstermin. Die gleiche Auffassung vertritt Wachter in ZAS 1972, 83 ff. Auch gegen die Auslegung des in § 25 KO aufscheinenden Begriffes "gesetzliche Kündigungsbeschränkungen" durch das Berufungsgericht bestehen keine Bedenken. Diese Auffassung findet ihre Stütze in den Erläuternden Bemerkungen zur Novelle BGBl. 253/1959 (51 der Beilagen zu den stenographischen Protokollen des Nationalrates, IX GP). Der Hinweis auf die gesetzlichen Kündigungsbeschränkungen wird dort deshalb für erforderlich gehalten, weil "geschützte Dienstnehmer (Betriebsräte, Invalide, schwangere Frauen usw.)" für einen teilweisen Abbau in Betracht kommen könnten.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2018
+Geschäftszahl
+7Ob173/18v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei N***** D*****, vertreten durch die Estermann & Partner OG, Rechtsanwälte in Mattighofen, gegen die beklagte Partei U***** AG, *****, vertreten durch die Musey Rechtsanwalt GmbH in Salzburg, wegen 14.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 16. Mai 2018, GZ 22 R 122/18x-30, mit dem das Urteil des Bezirksgerichts Oberndorf bei Salzburg vom 23. Februar 2018, GZ 2 C 775/16v-26, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 1.017,90 EUR (darin 169,65 EUR an Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Kläger hat mit der Rechtsvorgängerin der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem die „Klipp & Klar Bedingungen für die Unfallversicherung 2010“ zugrunde liegen. Deren Art 7.7. lautet:
+„Steht der Grad der dauernden Invalidität nicht eindeutig fest, sind sowohl die versicherte Person als auch wir berechtigt, den Invaliditätsgrad bis 4 Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen.“
+Rechtliche Beurteilung
+Das Berufungsgericht hat – nachträglich – ausgesprochen, dass die ordentliche Revision doch zulässig sei, weil zur vom Kläger relevierten Frage, ob ein rechtzeitig vor Ablauf der 4-jährigen Risikobegrenzungsfrist gestellter Neubemessungsantrag erfolgreich sein könne, wenn die Verschlechterung erst nach Fristablauf eingetreten sei, bisher keine höchstgerichtliche Rechtsprechung vorliege. Damit zeigen das Berufungsgericht und der Kläger die Voraussetzungen des § 502 Abs 1 ZPO nicht auf. Die Revision ist daher entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Der Kläger macht einen angeblichen Mangel des erstinstanzlichen Verfahrens geltend, dessen Vorliegen bereits das Berufungsgericht verneint hat und der daher in der Revision nicht mehr mit Erfolg neuerlich geltend gemacht werden kann (RIS-Justiz RS0042963).
+2. Mit der wiedergegebenen wortgleiche oder vergleichbare Klauseln waren bereits mehrfach Gegenstand höchstgerichtlicher Entscheidungen. Derartige Klauseln enthalten eine Ausschlussfrist: Wird die Antragstellung auf Neubemessung innerhalb von vier Jahren ab dem Unfalltag versäumt, bleibt es bei der bisherigen Bemessung des Invaliditätsgrades (RIS-Justiz RS0122119). Ein allenfalls von der Erstbemessung abweichender Invaliditätsgrad ist nur dann zu bemessen und zu berücksichtigen, wenn dies bis zu vier Jahre ab dem Unfalltag vom Versicherten oder vom Versicherer begehrt wird (RIS-Justiz RS0116097 [T3], RS0109447 [T2], RS0082292 [T11], RS0082173 [T1]).
+3. Der Zweck der Regelung liegt in der möglichst raschen Herstellung von Rechtssicherheit und Rechtsfrieden (RIS-Justiz RS0082216 [T1]). Beide Parteien sollen innerhalb eines überblickbaren Zeitraums Klarheit über den Grad der Invalidität erlangen können, um letztlich Beweisschwierigkeiten zu vermeiden und eine alsbaldige Klärung der Ansprüche herbeizuführen. Die durch Setzung der Ausschlussfrist vorgenommene Risikobegrenzung soll also im Versicherungsrecht eine Ab- und Ausgrenzung schwer aufklärbarer und unüberschaubarer (Spät-)Schäden herbeiführen (7 Ob 117/15d).
+4. Kommt es zu einer Neubemessung, so ist
+– nach bereits vorliegender Rechtsprechung des Fachsenats – der Invaliditätsgrad zur Zeit der Neufeststellung maßgebend, die bis maximal zum Ablauf der dafür vereinbarten Frist erfolgen kann (7 Ob 102/15y). Maßgeblich ist also der Invaliditätsgrad bis maximal zum Ablauf der hier vereinbarten Vierjahresfrist (7 Ob 195/14y; 7 Ob 117/15d). Eine (weitere) Neubemessung für einen Zeitpunkt nach Fristablauf ist ausgeschlossen und daher der Invaliditätsgrad zu einem späteren Zeitpunkt, etwa der aktuelle Invaliditätsgrad, unerheblich (7 Ob 235/16h).
+5. Der vom Kläger behauptete sekundäre Feststellungsmangel liegt nicht vor, weil das Erstgericht bindend festgestellt hat, dass eine Verschlechterung seines Zustands erst nach Fristablauf eingetreten ist. Damit haben die Vorinstanzen das Begehren des Klägers nach einer weiteren Versicherungsleistung in Übereinstimmung mit vorliegender Judikatur verneint, sodass sich keine Rechtsfrage iSd § 502 Abs 1 ZPO stellt. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+6. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00173.18V.1121.000

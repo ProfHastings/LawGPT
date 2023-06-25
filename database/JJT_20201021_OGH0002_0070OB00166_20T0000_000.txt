@@ -1,0 +1,62 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob166/20t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei I***** Gesellschaft mbH, *****, vertreten durch Dr. Christoph Erler, Rechtsanwalt in Wien, gegen die beklagte Partei A***** SE, *****, vertreten durch Mag. Martin Paar und Mag. Hermann Zwanzger, Rechtsanwälte in Wien, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. Mai 2020, GZ 2 R 134/19z-15, womit das Urteil des Handelsgerichts Wien vom 9. Juli 2019, GZ 10 Cg 14/19t-9, abgeändert wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.883,16 EUR (darin 313,86 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Die Klägerin schloss mit der Beklagten einen Rechtsschutzversicherungsvertrag ab, dem die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2015) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 7 Was ist vom Versicherungsschutz ausgeschlossen? (Allgemeine Risikoausschlüsse)
+Kein Versicherungsschutz besteht für die Wahrnehmung rechtlicher Interessen
+1. […]
+2. in ursächlichem Zusammenhang
+[…]
+2.4. mit der Tätigkeit als gesetzlicher Vertreter juristischer Personen, dessen Anstellungsverhältnis oder als Aufsichtsrat von juristischen Personen;
+[…]“
+Artikel 23
+Rechtsschutz in Arbeits- und Dienstrechtssachen
+Der Versicherungsschutz erstreckt sich je nach Vereinbarung auf den Berufs- und/oder Betriebsbereich
+1. Wer ist in welcher Eigenschaft versichert?
+Versicherungsschutz haben
+[…]
+1.2. im Betriebsbereich
+der Versicherungsnehmer in seiner Eigenschaft als Arbeitgeber iSd § 51 ASGG für Versicherungsfälle, die mit dem versicherten Betrieb oder der Tätigkeit für den Betrieb unmittelbar zusammenhängen oder auf dem direkten Weg von und zur Arbeitsstätte eintreten.
+[…]
+3. Was ist nicht versichert?
+3.1. Neben den in Artikel 7 (Allgemeine Risikoausschlüsse), insbesondere auch in Artikel 7.1.1.2. genannten Fällen besteht kein jedenfalls Versicherungsschutz (spezieller Risikoausschluss) für die Wahrnehmung rechtlicher Interessen aus dem kollektiven Arbeitsrecht.
+[…]“
+In der Versicherungspolizze ist unter der Überschrift „Rechtsschutz in Arbeits- und Dienstrechtssachen“ Folgendes vereinbart:
+„[…]
+Betriebsbereich:
+Rechtsschutz in Arbeits- und Dienstrechtssachen
+[…]
+Versicherte Personen:
+Der Versicherungsnehmer in seiner Eigenschaft als Arbeitgeber iSd § 51 ASGG für Versicherungsfälle die mit dem versicherten Betrieb oder der Tätigkeit für den Betrieb unmittelbar zusammenhängen oder auf dem direkten Weg von und zur Arbeitsstätte eintreten.“
+Die Klägerin wurde mit Klage vom 7. 12. 2018 von ihrem ehemaligen (Kurzzeit-)Geschäftsführer auf Schadenersatz wegen ungerechtfertigter Entlassung geklagt. Das Verfahren ist vor einem Arbeits- und Sozialgericht anhängig. Aufgrund rechtsgrundloser Entlassung am 23. 10. 2018 bestünden Ansprüche auf laufendes Entgelt und Kündigungsentschädigung.
+Die Klägerin meldete diese gegen sie gerichtete Klage unverzüglich der Beklagten als Schadensfall. Die Beklagte lehnte die Versicherungsdeckung unter Hinweis darauf ab, dass nach den übermittelten Unterlagen der Kläger vor dem Arbeits- und Sozialgericht Geschäftsführer der nunmehrigen Klägerin gewesen sei. Gemäß Art 7.2.4. ARB 2015 bestehe kein Versicherungsschutz.
+Die Klägerin begehrte für das arbeitsgerichtliche Verfahren Deckungsschutz und stützt sich dabei auf Art 7.2.4. ARB 2015. Es bestehe lediglich kein Versicherungsschutz für Verfahren, die aus der Tätigkeit der Versicherungsnehmerin als gesetzlicher Vertreter juristischer Personen (und dessen Anstellungsverhältnis) resultierten. Verfahren über arbeitsrechtliche Ansprüche des Geschäftsführers gegen die Klägerin seien von der Ausschlussklausel nicht umfasst.
+Die Beklagte bestritt und beantragte Klagsabweisung. Ein Deckungsschutz bestehe aufgrund des Risikoausschlusses nach Art 7.2.4. ARB 2015 nicht. Dessen Wortlaut stelle nicht auf eine bestimmte Eigenschaft des Versicherungsnehmers ab, sondern auf die Materie „Tätigkeit als gesetzlicher Vertreter juristischer Personen“, die mit der Rechtswahrnehmung, hier der Anspruchsabwehr, im ursächlichen Zusammenhang stehe.
+Das Erstgericht gab dem Klagebegehren statt. Art 7.2.4. ARB 2015 sei seinem Wortlaut nach eindeutig, wonach unter anderem die Wahrnehmung rechtlicher Interessen, die in einem ursächlichen Zusammenhang mit der Tätigkeit (des Versicherungsnehmers) als gesetzlicher Vertreter juristischer Personen vom Versicherungsschutz ausgeschlossen sei. Da der Vertrag zwischen Versicherer und Versicherungsnehmer abgeschlossen sei, könne sich diese Ausschlussklausel nur auf die Tätigkeiten des Versicherungsnehmers beziehen.
+Das Berufungsgericht gab der Berufung der Beklagten Folge und wies das Klagebegehren ab. Ein personaler Risikoausschluss in die Richtung, dass für bestimmte Personen aufgrund ihrer Rechtsstellung oder Eigenschaften die Versicherungsdeckung ausgenommen werde, sei Art 7.2.4. ARB 2015 nicht zu entnehmen. Vielmehr werde aufgrund der Satzstellung des in Rede stehenden Risikoausschlusses für die Sachmaterie „der Tätigkeit des gesetzlichen Vertreters“ der Versicherungsschutz ausgeschlossen. Damit werde in einer jeden Zweifel ausschließenden Weise zum Ausdruck gebracht, dass die gesamte Sachmaterie „Angestelltenverhältnis des gesetzlichen Vertreters einer juristischen Person“ vom Versicherungsschutz ausgenommen sei, völlig unabhängig von der Frage, ob der Versicherungsnehmer der Arbeitgeber oder der Arbeitnehmer sei.
+Das Berufungsgericht ließ die ordentliche Revision zu, weil der Umfang des Risikoausschlusses des Art 7.2.4. ARB 2015 dem Obersten Gerichtshof noch nicht zur Beurteilung vorgelegt worden sei und der Frage über den Einzelfall hinausgehende Bedeutung zukomme.
+Dagegen richtet sich die Revision der Klägerin mit einem Abänderungsantrag.
+Die Beklagte beantragt in ihrer Revisionsbeantwortung, die Revision als unzulässig zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Die Revision ist zur Klarstellung der Rechtslage zulässig, aber nicht berechtigt.
+Rechtliche Beurteilung
+1. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der Vertragsauslegung (§§ 914 f ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71], RS0112256 [T10], RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]). Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RS0050063 [T3]).
+2. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind. Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikobegrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden. Der Zweck liegt darin, dass ein für den Versicherer nicht überschaubares und kalkulierbares Teilrisiko ausgenommen und eine sichere Kalkulation der Prämie ermöglicht werden soll. Mit dem Risikoausschluss begrenzt der Versicherer von vornherein den Versicherungsschutz, ein bestimmter Gefahrenumstand wird von Anfang an von der versicherten Gefahr ausgenommen (RS0080166 [T10]; RS0080068).
+3. Nach Art 7.2.4. ARB 2015 besteht kein Versicherungsschutz für die Wahrnehmung rechtlicher Interessen im ursächlichen Zusammenhang „mit der Tätigkeit als gesetzlicher Vertreter juristischer Personen, dessen Anstellungsverhältnis oder als Aufsichtsrat von juristischen Personen“. Art 7.2.4. ARB 2015 enthält einen Risikoausschluss (vgl 7 Ob 156/15i). Als Ausnahmetatbestände, die die vom Versicherer übernommene Gefahr einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert. Den Beweis für das Vorliegen eines Risikoausschlusses als Ausnahmetatbestand hat der Versicherer zu führen (RS0107031).
+4. Art 7.2.4. ARB 2015 beschreibt den Risikoausschluss nach seinem klaren Wortlaut nicht unmittelbar personenbezogen nach der Rechtsstellung des Versicherungsnehmers, das heißt es ergibt sich aus dem Wortlaut der Klausel nicht, dass es sich dabei um eine Tätigkeit des Versicherungsnehmers selbst handeln müsste. Vielmehr erkennt auch ein durchschnittlicher Versicherungsnehmer, dass sich das Wort „als“ auf die Tätigkeit/Stellung einer Person (nicht nur auf den Versicherungsnehmer) bezieht. Es wird ein ursächlicher Zusammenhang mit dieser bestimmten Tätigkeit/Stellung im Unternehmen gefordert, nämlich jener als gesetzlicher Vertreter einer juristischen Person. Streitigkeiten der Klägerin mit ihrem Geschäftsführer wegen behaupteter ungerechtfertigter Kündigung des Anstellungsverhältnisses sind demnach solche Streitigkeiten, die im ursächlichen Zusammenhang mit der Tätigkeit eines Geschäftsführers stehen und daher vom Risikoausschluss umfasst. Daran ändert auch der Baustein „Rechtsschutz in Arbeits- und Dienstrechtssachen“ nichts, wird doch auf die Risikoausschlüsse nach Art 7 ARB verwiesen, wie bereits das Berufungsgericht zutreffend erkannt hat.
+Diese Auslegung wird auch dadurch unterstützt, dass die Klägerin als juristische Person, nicht gesetzlicher Verteter anderer juristischer Personen sein kann (vgl § 15 GmbHG; vgl auch Simotta in Fasching/Konecny3 § 51 JN Rz 101).
+5. Die von der Klägerin erkannte gröbliche Benachteiligung liegt nicht vor. Jedem Versicherungsnehmer muss das Wissen zugemutet werden, dass gewisse Begrenzungsnormen einem Versicherungsvertrag zugrunde liegen, weil es dem Versicherer freisteht, bestimmte Risiken vom Versicherungsschutz auszunehmen, solange dies – wie hier zu bejahen – für den Versicherungsnehmer (oder Versicherten) klar erkennbar geschieht (RS0016777 [T1 und T4]; vgl auch 7 Ob 63/07a; 7 Ob 86/17y).
+6. Die geltend gemachte Mangelhaftigkeit liegt nicht vor (§ 510 Abs 3 ZPO).
+7. Insgesamt war daher der Revision der Erfolg zu versagen.
+8. Die Kostenentscheidung beruht auf §§ 41 Abs 1, 50 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00166.20T.1021.000

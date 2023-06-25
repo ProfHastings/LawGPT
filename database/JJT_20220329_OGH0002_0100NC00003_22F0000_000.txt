@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2022
+Geschäftszahl
+10Nc3/22f
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie die Hofräte Mag. Ziegelbauer und Mag. Schober als weitere Richter in der Ordinationssache der Antragstellerin t* HandelsgmbH, *, vertreten durch Rechtsanwaltspartnerschaft Blümke & Schöppl in Linz, über den Ordinationsantrag der Antragstellerin den
+Beschluss
+gefasst:
+Spruch
+Zur Verhandlung und Entscheidung über die beabsichtigte Klage der Antragstellerin gegen die T* LIMITED, *, Deutschland, wegen 10.174 EUR wird das Bezirksgericht Traun als sachlich und örtlich zuständiges Gericht bestimmt.
+Text
+Begründung:
+[1] 		Die in Österreich ansässige Antragstellerin beantragt unter Vorlage des Entwurfs einer Klage die Bestimmung eines örtlich zuständigen Gerichts gemäß § 28 Abs 1 Z 3 JN.
+[2] 		Sie habe mit der T* LIMITED (künftig: Beklagte), einer private limited company nach englischem Recht mit einer Zweigniederlassung in Deutschland, am 28. September 2020 einen Kaufvertrag über Kühlzellen geschlossen, dem die Allgemeinen Geschäftsbedingungen (AGB) der Beklagten zugrunde gelegt worden seien. Vom Vertrag sei sie infolge Verzugs der Beklagten wirksam zurückgetreten und habe daher Anspruch auf Rückzahlung des von ihr bereits geleisteten Kaufpreises sowie Ersatz der ihr entstandenen Schäden. Im Rahmen der AGB hätte sie mit der Beklagten zwar die internationale Zuständigkeit Österreichs, nicht aber ein örtlich zuständiges Gericht vereinbart.
+[3] 		Die von der Klägerin vorgelegten AGB der Beklagten enthalten in deren § 8 Z 2. folgende Vereinbarung:
+„Ist der Kunde Kaufmann [...] ist für alle Streitigkeiten aus diesem Vertrag ausschließlicher Gerichtsstand der Sitz der T*  Deutschland oder Österreich.“
+Rechtliche Beurteilung
+[4] 		Der Ordinationsantrag ist berechtigt.
+[5] 		1. Die Ordination nach § 28 Abs 1 JN setzt voraus, dass zwar die inländische Gerichtsbarkeit (internationale Zuständigkeit) gegeben, ein österreichisches Gericht jedoch nicht örtlich zuständig ist (RS0118239). Die Prüfung der Ordinationsvoraussetzungen hat aufgrund der Angaben im Ordinationsantrag bzw der Aktenlage zu erfolgen (RS0117256).
+[6] 		2. Der nicht ganz eindeutigen Formulierung des § 8 Z 2 der AGB der beklagten Partei lässt sich immerhin entnehmen, dass die Kaufvertragsparteien die Zuständigkeit (auch) eines Gerichts in Österreich vereinbaren wollten, ohne dass ein örtlich zuständiges Gericht bestimmt wurde.
+[7] 		Diese Zuständigkeitsvereinbarung fällt in den Anwendungsbereich von Art 25 EuGVVO 2012 (Brüssel Ia-VO). Dem Schriftformerfordernis nach Art 25 Abs 1 lit a EuGVVO 2012 kann auch durch Bezugnahme auf AGB, in denen eine Gerichtsstandsklausel enthalten ist, entsprochen werden (6 Nc 2/20a; RS0111715).
+[8] 		Etwaige Einwände der Beklagten gegen das Vorliegen der internationalen Zuständigkeit österreichischer Gerichte sind im fortgesetzten (zweiseitigen) Verfahren zu prüfen (2 Nc 4/21t; Garber in Fasching/Konecny3 § 28 JN Rz 155 ff).
+[9] 		3. Eine wirksame Gerichtsstandsvereinbarung schließt sowohl die allgemeine Zuständigkeit als auch die besonderen Zuständigkeitsregeln der EuGVVO 2012 – hier vor allem jene nach Art 7 EuGVVO 2012 – aus (RS0121674; RS0111897; 2 Ob 63/13y ua).
+[10] 		4. Der Umstand, dass lediglich die internationale Zuständigkeit, nicht aber ein örtlich zuständiges österreichisches Gericht vereinbart wurde, schadet wegen der Ordinationsmöglichkeit gemäß § 28 Abs 1 Z 3 JN nicht (9 Nc 3/20w; RS0117156 [T3] ua). Zwar findet in diesem Fall das innerstaatliche Recht ergänzend Anwendung (RS0118240; 4 Nc 17/17p ua). Aus den Behauptungen der Klägerin ist die örtliche Zuständigkeit eines bestimmten österreichischen Gerichts nicht abzuleiten.
+[11] 		5. Damit ist nach § 28 Abs 1 Z 3 JN ein inländisches Gericht als zur Verhandlung und Entscheidung für die Rechtssache örtlich zuständig zu bestimmen.
+[12] 		Welches Gericht ordiniert wird, bleibt mangels ausdrücklicher Vorgaben in § 28 JN dem Obersten Gerichtshof überlassen, wobei die Sach- und Parteinähe bzw Zweckmäßigkeitsgründe zu berücksichtigen sind (RS0046301 [T1]; RS0106680 [T13]). Anhand dieser Kriterien hat eine Zuweisung der Sache an das Bezirksgericht Traun als dem Gericht jenes Ortes zu erfolgen, in dessen Sprengel die Klägerin ihren Sitz hat und zu dem der Kaufvertrag die größte Nahebeziehung im Inland aufweist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0100NC00003.22F.0329.000

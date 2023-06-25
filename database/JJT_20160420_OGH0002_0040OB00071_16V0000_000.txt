@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.04.2016
+Geschäftszahl
+4Ob71/16v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei A***** AG, *****, vertreten durch Ebert Huber Swoboda Oswald & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei A***** H*****, vertreten durch Dr. Patrick Ruth, Rechtsanwalt in Innsbruck, wegen Unterlassung und Urteilsveröffentlichung (Streitwert 35.000 EUR), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 25. Februar 2016, GZ 34 R 139/15h-34, mit welchem der Beschluss des Landesgerichts Korneuburg vom 15. September 2015, GZ 1 Cg 91/14x-28, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Klägerin macht gegen den Beklagten einen Unterlassungsanspruch wegen Verstößen gegen das Glücksspielrecht geltend (§ 1 Abs 1 Z 1 UWG).
+Das Erstgericht unterbrach auf Antrag des Beklagten sein Verfahren bis zur Entscheidung über ein von einem anderen Landesgericht gestelltes Vorabentscheidungsersuchen zur Auslegung von Art 56 AEUV im Zusammenhang mit der unionsrechtlichen Zulässigkeit nationaler Glücksspielmonopole.
+Infolge Rekurses der Klägerin behob das Rekursgericht diesen Beschluss und trug dem Erstgericht die Fortsetzung des Verfahrens auf. Es sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und der ordentliche Revisionsrekurs nicht zulässig sei.
+Rechtliche Beurteilung
+Der gegen diese Entscheidung gerichtete außerordentliche Revisionsrekurs des Beklagten ist unzulässig.
+1. Nach § 192 Abs 2 ZPO können die nach den §§ 187-191 ZPO erlassenen Anordnungen, soweit sie nicht eine Unterbrechung des Verfahrens verfügen, durch ein Rechtsmittel nicht angefochten werden. Die Abweisung eines Unterbrechungsantrags ist daher nach ständiger Rechtsprechung grundsätzlich unanfechtbar (RIS-Justiz RS0037071, RS0037003).
+2. Anderes gilt zwar dann, wenn die Unterbrechung zwingend vorgeschrieben ist (RIS-Justiz RS0037034, RS0037020). Das trifft hier aber nicht zu: Zwar kann eine Unterbrechung aus Anlass eines in einem anderen Verfahren gestellten Vorabentscheidungsersuchen zweckmäßig und in diesem Fall auch „geboten“ sein (RIS-Justiz RS0110583). Maßgebend dafür sind aber - wie auch sonst bei der Unterbrechung nach § 190 ZPO - die Umstände des Einzelfalls. Eine von diesen Umständen unabhängige generelle Unterbrechungspflicht besteht nach ständiger Rechtsprechung nicht (RIS-Justiz RS0114648).
+3. Es kann offen bleiben, ob die Rechtsmittelbeschränkung des § 192 Abs 2 ZPO auch dann greift, wenn das Rekursgericht einen aufgrund besonderer Vorschrift unanfechtbaren Unterbrechungsbeschluss behoben und dem Erstgericht die Fortsetzung des Verfahrens aufgetragen hat. Ein solcher Fall liegt hier nämlich nicht vor:
+3.1. Der Revisionsrekurs zeigt zwar richtig auf, dass die (unmittelbar) auf Art 267 AEUV beruhende Vorlagebefugnis aller Gerichte nicht durch Regelungen des nationalen Verfahrensrechts eingeschränkt werden darf (C-210/06, Cartesio), was zur Unzulässigkeit eines gegen das Vorabentscheidungsersuchen erhobenen Rekurses führt (16 Ok 9/96, SZ 69/274; RIS-Justiz RS0106043). Daraus lässt sich aber nicht ableiten, dass auch die Unterbrechung wegen eines von einem anderen Gericht gestellten Vorabentscheidungsersuchens unanfechtbar wäre. Denn eine solche Unterbrechung führte zu einem Stillstand des Verfahrens, ohne dass dessen Parteien im parallel anhängigen Vorabentscheidungsverfahren gehört würden, und unterscheidet sich daher grundlegend von einem eigenen Vorabentscheidungsersuchen des betroffenen Gerichts.
+3.2. Die Unanfechtbarkeit des Unterbrechungsbeschlusses ergibt sich auch nicht aus den Entscheidungen C-396/09, Interedil, und C-581/14, Naderhirn. Danach ist zwar die inhaltliche Bindung eines Gerichts an die Auslegung des Unionsrechts durch ein im Instanzenzug übergeordnetes Gericht unzulässig, wenn diese Auslegung jener durch den EuGH widerspricht (C-396/09, Rz 39; C-581/14, Rz 34 f); das Gericht muss insbesondere in der Lage sein, den Vorrang des Unionsrechts zu gewährleisten (C-581/14, Rz 36). Eine solche Bindung ergibt sich aus dem angefochtenen Beschluss allerdings nicht. Vielmehr steht es dem Erstgericht frei, das Unionsrecht in jeder ihm zutreffend erscheinenden Weise auszulegen, dessen Vorrang zu gewährleisten und in diesem Zusammenhang gegebenenfalls auch selbst ein Vorabentscheidungsersuchen an den EuGH zu richten.
+4. Aus diesen Gründen hat es bei der Anwendung von § 192 Abs 2 ZPO zu bleiben. Der Revisionsrekurs ist als jedenfalls unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0040OB00071.16V.0420.000

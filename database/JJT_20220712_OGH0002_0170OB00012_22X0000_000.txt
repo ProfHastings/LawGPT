@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.07.2022
+Geschäftszahl
+17Ob12/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende sowie den Senatspräsidenten Dr. Musger, die Hofrätinnen Mag. Malesich und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richterinnen und Richter in der Rechtssache der klagenden Partei Mag.P*, als Masseverwalter im Konkurs der S* GmbH (AZ 26 S 38/19m des Landesgerichts für Zivilrechtssachen Graz), vertreten durch Kaan Cronenberg & Partner Rechtsanwälte GmbH & Co KG in Graz gegen die beklagte Partei Mag. A*, vertreten durch Schmid & Horn Rechtsanwälte GmbH in Graz, wegen 18.300 EUR sA, über die Revision der beklagten Partei gegen das Zwischenurteil des Oberlandesgerichts Graz als Berufungsgericht vom 17. März 2022, GZ 2 R 201/21b-35, mit welchem das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 29. Juli 2021, GZ 12 Cg 32/19k-31, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 1.253,88 EUR bestimmten Kosten der Revisionsbeantwortung (darin 208,98 EUR Umsatzsteuer) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Beklagte wurde von der späteren Schuldnerin im September 2018 mit der Erstattung eines Gutachtens beauftragt, das im Jänner 2019 im Entwurf vorlag. Im März lehnte der Geschäftsführer der Schuldnerin ein Treffen zur „Feinabstimmung“ ab und ersuchte den Beklagten um Legen der Rechnung. Am 25. März 2019 zahlte die Schuldnerin den verrechneten Betrag, am 10. April 2019 wurde über ihr Vermögen das Insolvenzverfahren eröffnet. Dem Beklagten war im Zeitpunkt der Zahlung bekannt, dass die Schuldnerin zahlungsunfähig war.
+[2] 		Auf dieser Grundlage gaben die Vorinstanzen der Anfechtungsklage des Masseverwalters nach § 31 Abs 1 Z 2 Fall 1 IO statt. Das Berufungsgericht ließ die Revision nachträglich zu, weil höchstgerichtliche Rechtsprechung zur Frage fehle, ob das „von der Schuldnerin für das von ihr abbestellte Werk geleistete Entgelt (Zahlung) eine Zug-um-Zug-Abwicklung eines Geschäftes darstellt und deshalb keine anfechtbare Gläubigerdeckung vorliegt“.
+[3] 		Die ausschließlich auf das Vorliegen eines Zug-um-Zug-Geschäfts gestützte Revision des Beklagten ist ungeachtet dieses Ausspruchs nicht zulässig.
+Rechtliche Beurteilung
+[4] 		1. Die Deckungsanfechtung nach § 31 Abs 1 Z 2 Fall 1 IO setzt – ebenso wie die Anfechtung der Begünstigung nach § 30 Abs 1 Z 3 IO – Leistung an einen Gläubiger des Schuldners voraus. Diese Gläubigerstellung und damit die Anfechtbarkeit wird nach ständiger Rechtsprechung bei Zug-um-Zug-Geschäften verneint (RIS-Justiz RS0064726). Der Grund liegt darin, dass ein Vertragspartner, der nur Zug um Zug gegen Zahlung leistet, gerade kein Insolvenzrisiko eingehen will und daher nicht Gläubiger im Sinn dieser Bestimmungen ist (König/Trenker, Die Anfechtung nach der IO6 [2020] Rz 10.3 und Rz 11/34).
+[5] 		2. Weshalb aber im vorliegenden Fall ein Zug-um-Zug-Geschäft vorliegen soll, ist nicht erkennbar. Der Beklagte hat mit dem Erstellen und der Übergabe des Gutachtensentwurfs eine Vorleistung erbracht; er hat seine Leistung also gerade nicht von der Zahlung durch die Schuldnerin abhängig gemacht. Damit war er ohne jeden Zweifel Gläubiger (auch) im Sinn von § 31 Abs 1 Z 2 Fall 1 IO.
+[6] 		3. Zwar ist richtig, dass der Werkunternehmer das Werk nur Zug um Zug gegen Zahlung des Werklohns herauszugeben hat (RIS-Justiz RS0021022). Das könnte aber nur dann zu einer anfechtungsfesten Zug-um-Zug-Leistung führen, wenn der Werkunternehmer die Übergabe des Werks tatsächlich von der Zahlung des Werklohns abhängig gemacht hätte. Das traf aber hier nicht zu, weil der Gutachtensentwurf der Schuldnerin schon zwei Monate vor der Zahlung vorlag. Dass sie dann keine weiteren Leistungen („Feinabstimmung“) wünschte, kann nicht dazu führen, dass die danach erfolgte Zahlung plötzlich Zug-um-Zug-Charakter erlangte.
+[7] 		4. Die Revision ist daher zurückzuweisen. Da der Kläger in der Revisionsbeantwortung auf die Unzulässigkeit hingewiesen hat, ist der Beklagte zum Ersatz von deren Kosten verpflichtet (§ 41 iVm § 50 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00012.22X.0712.000

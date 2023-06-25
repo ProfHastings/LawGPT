@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.06.2021
+Geschäftszahl
+2Ob103/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden sowie den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei F***** GmbH, *****, vertreten durch Mag. Caterina Ortner, Rechtsanwältin in Linz, gegen die beklagte Partei C***** T*****, vertreten durch Dr. Roland Gabl Rechtsanwalts-Kommandit-Partnerschaft in Linz, wegen Aufkündigung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Linz als Berufungsgericht vom 19. April 2021, GZ 14 R 48/21h-18, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Nennung eines Kündigungstermins ist essentielles Erfordernis für eine gerichtliche Aufkündigung nach § 562 Abs 1 ZPO (RS0044846). Bei Fehlen eines Inhaltserfordernisses ist nach § 562 Abs 2 ZPO ein Verbesserungsverfahren iSd § 84 ZPO einzuleiten; erst bei dessen Erfolglosigkeit ist die Aufkündigung zurückzuweisen (1 Ob 18/09t; RS0044846 [T1]). Die höchstgerichtliche Rechtsprechung lässt allerdings die Richtigstellung eines angegebenen Kündigungstermins auch nach Erlassung der Aufkündigung zwecks Sanierung offenkundiger, dh auch für den Kündigungsgegner eindeutig erkennbarer, Ausdrucks- oder Schreibfehler zu (3 Ob 24/98w; 1 Ob 284/99t; 1 Ob 18/09t).
+[2] 		2. Eine solche Verbesserung bzw Ergänzung des Kündigungstermins ist zulässig, wenn erkennbar der richtige Termin gemeint und nur durch einen offenkundigen Ausdrucks- oder Schreibfehler ein falscher oder unvollständiger Termin angegeben wurde. Auch das Fehlen des Kündigungstermins ist iSd § 562 Abs 2 ZPO verbesserungsfähig, etwa wenn sich aus dem Inhalt des klägerischen Begehrens unzweifelhaft ergibt, dass das Bestandverhältnis unter Einhaltung einer einmonatigen Kündigungsfrist zum nächstmöglichen Kündigungstermin aufgelöst werden sollte (RS0039445 [T3, T4]). Diese Verbesserung kann auch noch im Berufungs- und im Revisionsverfahren erfolgen (2 Ob 9/10b).
+[3] 		3. Hier hat das Berufungsgericht nach diesen Kriterien die Ergänzung des Begehrens um den vorher fehlenden Kündigungstermin in der Berufungsbeantwortung akzeptiert und dazu ua auf die sich bereits aus dem Inhalt des verfahrenseinleitenden Schriftsatzes ergebende Auflösung des Bestandverhältnisses unter Einhaltung einer Kündigungsfrist von einem Monat zum jeweils nächstmöglichen Kündigungstermin hingewiesen. Seine Auffassung, dass deshalb die Verbesserung durch ausdrückliche Angabe des Kündigungstermins im Sinne der zitierten Rechtsprechung zulässig sei, ist nicht zu beanstanden. Aus der vom Beklagten zitierten Entscheidung 1 Ob 194/20s ist für seinen Standpunkt nichts zu gewinnen, weil es im dort entschiedenen Fall schon an einer Auflösungserklärung fehlte, die in der hier zu beurteilenden Aufkündigung jedoch – wenngleich unvollständig – enthalten war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00103.21T.0624.000

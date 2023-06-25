@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2022
+Geschäftszahl
+2Ob207/21m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende und den Senatspräsidenten Dr. Musger sowie die Hofräte Dr. Nowotny, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei Ing. F*, vertreten durch Beneder Rechtsanwalts GmbH in Wien, gegen die beklagte Partei Dr. A*, vertreten durch Dr. Christian Widl, Rechtsanwalt in Wien, wegen 82.733,62 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. September 2021, GZ 13 R 27/21t-66, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Richtig ist, dass der Erbe für Pflichtteilansprüche auch bei unbedingter Erbantrittserklärung nur bis zum Wert des Nachlasses haftet (Umlauft, Die Hinzu- und Anrechnung von Schenkungen im Erb- und Pflichtteilsrecht2 [2018] 204 mwN). Der Beklagte wird hier allerdings als Geschenknehmer in Anspruch genommen. Das setzt nach § 789 ABGB voraus, dass der Nachlass zur Deckung des durch Hinzurechnung von Schenkungen erhöhten Pflichtteils gerade nicht ausreicht. Nachvollziehbare Gründe, weshalb diese Regelung hier nicht anwendbar sein soll, zeigt die Revision nicht auf.
+[2] 		2. Die Ermittlung des Verkehrswerts einer Liegenschaft gehört zum Tatsachenbereich (RS0043704 [T1]). Die Wahl der Bewertungsmethode hat durch den Sachverständigen zu erfolgen (RS0066223 [T2]) und unterliegt grundsätzlich nicht der Überprüfung durch den Obersten Gerichtshof (RS0109006).
+[3] 		Anderes gilt zwar ausnahmsweise dann, wenn die Ermittlung des Verkehrswerts auf mit den Gesetzen der Logik oder der Erfahrung unvereinbaren Schlussfolgerungen oder auf abstrakten Erwägungen ohne Sachverhaltsgrundlage beruht (RS0109006 [T3, T4]). Im vorliegenden Fall hat der Sachverständige aber nachvollziehbar dargelegt, dass – entgegen dem Vorbringen des Beklagten – keine tauglichen Vergleichswerte vorlagen, weshalb er das zur Gänze vermietete Objekt ausschließlich nach dem Ertragswertverfahren bewertete. Soweit die Revision dennoch auf Vergleichswerte abstellt und daraus „mit den Gesetzen der Logik unvereinbare Schlussfolgerungen“ des Gutachtens ableiten will, übergeht sie diese – zum Tatsachenbereich gehörenden – Ausführungen des Sachverständigen.
+[4] 		Ob der ermittelte Wert mit dem seinerzeitigen Ankaufspreis der Liegenschaft vereinbar ist, ist ebenfalls eine Tatfrage.
+[5] 		3. Dass ein zugunsten der Erblasserin vereinbartes Fruchtgenussrecht bei der Wertermittlung nicht zu berücksichtigen ist, entspricht der Rechtsprechung des Senats (auch) zum neuen Pflichtteilsrecht (2 Ob 64/19d; RS0133183), von der abzugehen kein Anlass besteht (zuletzt 2 Ob 26/22w). Umso weniger kann das (zunächst) bloß faktische Überlassen von Mietzinsen die Bewertung beeinflussen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00207.21M.0530.000

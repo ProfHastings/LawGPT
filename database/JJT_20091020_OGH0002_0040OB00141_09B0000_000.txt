@@ -1,0 +1,146 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2009
+Geschäftszahl
+4Ob141/09b
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Schenk als Vorsitzende sowie die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei M***** GmbH, *****, vertreten durch Schiffner & Diebald, Rechtsanwälte in Köflach, gegen die beklagte Partei P***** GmbH, *****, vertreten durch Dr. Georg Schober, Rechtsanwalt in Wiener Neustadt, wegen Unterlassung, Rechnungslegung und Urteilsveröffentlichung (Streitwert im Provisorialverfahren 30.000 EUR), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 28. Mai 2009, GZ 1 R 96/09h17, womit der Beschluss des Landesgerichts Wiener Neustadt als Handelsgericht vom 20. März 2009, GZ 23 Cg 47/09h8, in der Fassung des Berichtigungsbeschlusses vom 15. April 2009, GZ 23 Cg 47/09h14, teilweise abgeändert und teilweise bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Der angefochtene Beschluss wird dahin abgeändert, dass er zu lauten hat:
+„Der Antrag der klagenden Partei, zur Sicherung ihres Anspruchs gegen die beklagte Partei auf Unterlassung des sklavischen Nachbaus bzw sittenwidriger schmarotzerischer Ausbeutung, worauf die Unterlassungsklage gerichtet ist, der beklagten Partei bis zur Rechtskraft des über die Unterlassungsklage ergehenden Urteils zu verbieten, im geschäftlichen Verkehr zu Zwecken des Wettbewerbs in Österreich unter der Firma „ProfiBox GmbH" oder unter der Bezeichnung „Profibox" Montageblöcke zur Montageerleichterung mindestens zweier fluidführender Leitungen, wie insbesondere Rohre und Schläuche, an die vorzugsweise Wasch- und Spültische, Waschmaschinen, Speicher/Durchlauferhitzer, Fernwärmespeicher und Gasthermen, WC, Duschen, Badewannen, Heizungsradiatoren und Verbrauchszähleinrichtungen angeschlossen werden, insbesondere
+1.1 WaschtischBox für den Trockenbau unter der Typenbezeichnung
+* WT_TKB_DN_16_O
+* WT_TKB_DN_16_U
+* WT_TKB_DN_20_O
+* WT_TKB_DN_20_U
+1.2 WaschtischBox für den Mauerwerksbau unter der Typenbezeichnung
+* WT_MWK_DN_16_O
+* WT_MWK_DN_16_U
+* WT_MWK_DN_20_O
+* WT_MWK_DN_20_U
+1.3 HandwaschbeckenBox für den Trockenbau mit der Typenbezeichnung
+* HWB_TKB_DN_16_O
+* HWB_TKB_DN_16_U
+* HWB_TKB_DN_20_O
+* HWB_TKB_DN_20_U
+1.4 HandwaschbeckenBox für den Mauerwerksbau mit der Typenbezeichnung
+* HWB_MWK_DN_16_O
+* HWB_MWK_DN_16_U
+* HWB_MWK_DN_20_O
+* HWB_MWK_DN_20_U
+1.5 SpültischBox für den Trockenbau mit der Typenbezeichnung
+* ST_TKB_DN_16_O
+* ST_TKB_DN_16_U
+* ST_TKB_DN_20_O
+* ST_TKB_DN_20_U
+1.6 SpültischBox für den Mauerwerksbau mit der Typenbezeichnung
+* ST_MWK_DN_16_O
+* ST_MWK_DN_16_U
+* ST_MWK_DN_20_O
+* ST_MWK_DN_20_U
+1.7 SpültischBox drucklos für den Trockenbau mit der Typenbezeichnung
+* ST_TKB_DN_16_O
+* ST_TKB_DN_16_U
+* ST_TKB_DN_20_O
+* ST_TKB_DN_20_U
+1.8 SpültischBox drucklos für den Mauerwerksbau mit der Typenbezeichnung
+* STD_MWK_DN_16_O
+* STD_MWK_DN_16_U
+* STD_MWK_DN_20_O
+* STD_MWK_DN_20_U
+1.9 WaschmaschinenBox für den Trockenbau mit der Typenbezeichnung
+* WME_TKB_DN_16_O
+* WME_TKB_DN_16_U
+* WME_TKB_DN_20_O
+* WME_TKB_DN_20_U
+1.10 WaschmaschinenBox für den Mauerwerksbau mit der Typenbezeichnung
+* WM_MWK_DN_16_O
+* WM_MWK_DN_16_U
+* WM_MWK_DN_20_O
+* WM_MWK_DN_20_U
+1.11 BadewanneDuschBox für den Trockenbau mit der Typenbezeichnung
+* WDU_TKB_DN_16
+* WDU_TKB_DN_20
+1.12 BadewanneDuschBox für den Mauerwerksbau mit der Typenbezeichnung
+* WDU_MWK_DN_16
+* WDU_MWK_DN_20
+1.13 WCAnschlussBox für den Trockenbau mit der Typenbezeichnung
+* WC_TKB_DN_16_O
+* WC_TKB_DN_16_U
+* WC_TKB_DN_20_O
+* WC_TKB_DN_20_U
+1.14 WCAnschlussBox für den Mauerwerksbau mit der Typenbezeichnung
+* WC_MRK_DN_16_O
+* WC_MRK_DN_16_U
+* WC_MRK_DN_20_O
+* WC_MRK_DN_20_U
+1.15 Elektrospeicher für den Trockenbau mit der Typenbezeichnung
+* ESP_TKB_DN_20_O
+* ESP_TKB_DN_20_U
+1.16 Elektrospeicher für den Mauerwerksbau mit der Typenbezeichnung
+* ESP_MWK_DN_20_O
+* ESP_MWK_DN_20_U
+1.17 FernwärmespeicherBox für den Trockenbau mit der Typenbezeichnung
+* FW1LH25OU_TKB_DN_20_U
+* FW1LH25U_TKB_DN_20_U
+* FW1LH26OU_TKB_DN_20_U
+* FW1LH26U_TKB_DN_20_U
+1.18 FernwärmespeicherBox für den Mauerwerksbau mit der Typenbezeichnung
+* FW1LH25OU_MWK_DN_20_U
+* FW1LH25U_MWK_DN_20_U
+* FW1LH26U_MWK_DN_20_U
+* FW1LH26U_MWK_DN_20_U
+1.19 ThermenAnschlussBox für den Trockenbau mit der Typenbezeichnung
+* GTH25_TKB_DN_20_O
+* GTH26_TKB_DN_20_U
+1.20 ThermenanschlussBox für den Mauerwerksbau mit der Typenbezeichnung
+* GTH25_MWK_DN_20_O
+* GTH26_MWK_DN_20_U
+1.21 AbsperrventilBox einfach für den Trockenbau mit der Typenbezeichnung
+* AS1_TKB_DN_20
+* AS1WW_TKB_DN_20
+1.22 AbsperrventilBox einfach für den Mauerwerksbau mit der Typenbezeichnung
+* AS1_MWK_DN_20
+* AS1WW_MWK_DN_20
+1.23 AbsperrventilBox doppelt für den Trockenbau mit der Typenbezeichnung
+* AS2_TKB_DN_20
+*AS2WW_TKB_DN_20
+1.24 AbsperrventilBox doppelt für den Mauerwerksbau mit der Typenbezeichnung
+* AS2_MWK_DN_20
+* AS2WW_MWK_DN_20
+1.25 ObertischKombination für den Trockenbau mit der Typenbezeichnung
+* OT2T_TKB_DN_16
+* OT2T_TKB_DN_20
+1.26 ObertischKombination für den Mauerwerksbau mit der Typenbezeichnung
+* OT2T_MWK_DN_16
+* OT2T_MWK_DN_20
+anzubieten, in Verkehr zu bringen, zu bewerben und zu vertreiben, wird abgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.119,24 EUR bestimmten Äußerungskosten (darin 186,54 EUR USt) binnen 14 Tagen zu ersetzen."
+Die klagende Partei ist weiters schuldig, der beklagten Partei die mit 3.077,82 EUR bestimmten Kosten des Rechtsmittelverfahrens (darin 512,97 EUR USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Klägerin vertreibt unter der Bezeichnung „Meisterbox" Montageblöcke aus Polyurethan, in die Kunststoff- oder Kupferrohre eingebettet sind, die für den Anschluss von Sanitär- und Heizungsgeräten vorgesehen sind. Der Geschäftsführer der Klägerin hat diese Montageblöcke entwickelt; er erlangte hiefür sowohl in Österreich als auch in Deutschland Gebrauchsmusterschutz, der inzwischen nach Ablauf der Schutzfrist ausgelaufen ist. Die Blöcke weisen für den Sanitärbereich einen vorgegebenen Abstand der Kalt- und Warmwasseranschlüsse auf, weiters auch einen Anschluss für das Abwasserrohr. Sie dienen dazu, den Anschluss von Sanitär- und Heizungsgeräten zu erleichtern. Sie werden sowohl im Trockenausbau als auch dafür verwendet, in das Mauerwerk eingestemmt und verputzt zu werden. Dadurch werden Stemmarbeiten und das Verlegen von Rohrleitungen vermieden und Installationsarbeiten erleichtert.
+Um das Produkt herzustellen und auf dem Markt anbieten zu können, hat es mehrere Entwicklungsstufen über bestimmte Zeiträume durchlaufen. Das Produkt ist im Fachhandel bekannt und wird von verschiedenen Installationsunternehmen angewendet.
+J***** H***** war vom 20. Oktober 2003 bis zum 9. November 2007 als Vertreter/Außendienstmitarbeiter und Berater bei der Klägerin beschäftigt. Das Dienstverhältnis wurde einvernehmlich aufgelöst.
+Seit 2008 vertreibt auch die Beklagte Montageblöcke für die Sanitär- und Heizungsinstallation. Die Beklagte wurde etwa einen Monat vor dem Ausscheiden J***** H*****s aus dem Unternehmen der Klägerin gegründet. Die Geschäftsführerin der Beklagten hat den Beruf eines Versicherungskaufmanns erlernt und verfiel deshalb auf die Idee, eine Montagebox für Sanitär- und Heizungsinstallationen zu entwickeln und zu vertreiben, weil hiefür ein entsprechender Bedarf im Raum Wien bestehe. J***** H***** ist nunmehr bei der Beklagten als Außendienstmitarbeiter beschäftigt.
+Die Beklagte vertreibt ihre Montageboxen unter der Bezeichnung „Profibox". Sie ist wie das Produkt der Klägerin für Installationsarbeiten im Bereich Sanitär und Heizung vorgesehen. Im Katalog für 2008 bietet die Beklagte ihre „Profibox" als die „Installationsbox der neuen Generation" an.
+Vergleicht man die Produkte der Streitteile, insbesondere das von der Beklagten vertriebene Produkt WT_TKB_DN_16_O mit dem gleichartigen Produkt der Klägerin WTTOR, so zeigt sich: Beide Produkte weisen die gleiche Formgebung und die gleichen Befestigungsschienen mit vorgebohrten Löchern auf. Die Farbgebung ist unterschiedlich, der Montageblock der Klägerin besteht aus weißem Kunststoff, der Montageblock der Beklagten aus blauem Kunststoff. Der Abstand zwischen den Warm- und Kaltwasseranschlüssen einerseits und dem Abflussanschluss andererseits ist unterschiedlich, beim Produkt der Beklagten ist er größer. Dieses Produkt weist erhabene Wandscheiben um die Anschlüsse auf. Die Warm- und Kaltwasserzuflüsse sind mit einem den Montageblock etwa 10 cm überragenden Isoliermaterial versehen. Die Beschriftung der Montageboxen der Streitteile ist unterschiedlich: Die Klägerin versieht ihre Boxen mit einem Aufkleber, der die Aufschrift „Meisterbox" trägt, beim Produkt der Beklagten scheint der Name „Profibox" auf. Dieses Wort wird bei der Herstellung in den Block eingeprägt.
+Bei oberflächlicher Betrachtung fällt vorerst nur der Farbunterschied sowie der Isolierungsüberstand auf. Erst bei näherer Betrachtung bemerkt man die erhabenen Wandscheiben bei den Kalt- und Warmwasseranschlüssen sowie die unterschiedlichen Abstände zwischen den Zuleitungsanschlüssen und dem Abflussrohr.
+Der äußere Eindruck von Übereinstimmung sowie die anhand zweier konkreter Vergleichsstücke beschriebenen Unterschiede betreffen nicht nur diese, sondern auch alle übrigen Produkte der Streitteile, welche verfahrensgegenständlich sind.
+Zur Sicherung ihres inhaltsgleichen Unterlassungsbegehrens beantragte die Klägerin, der Beklagten mit einstweiliger Verfügung zu verbieten, im geschäftlichen Verkehr zu Zwecken des Wettbewerbs in Österreich unter der Firma „ProfiBox GmbH" oder unter der Bezeichnung „Profibox" Montageblöcke zur Montageerleichterung mindestens zweier fluidführender Leitungen, wie insbesondere Rohre und Schläuche, an die vorzugsweise Wasch- und Spültische, Waschmaschinen, Speicher/Durchlauferhitzer, Fernwärmespeicher und Gasthermen, WC, Duschen, Badewannen, Heizungsradiatoren und Verbrauchszähleinrichtungen angeschlossen werden, insbesondere die näher bezeichneten Produkte, anzubieten, in Verkehr zu bringen, zu bewerben und zu vertreiben. Die Beklagte vertreibe unter der Bezeichnung „Profibox" Montageblöcke, welche mit den von der Klägerin entwickelten und unter der Bezeichnung „Meisterbox" vertriebenen Montageblöcken, für die sie auch Gebrauchsmusterschutz erlangt habe, im Sinn eines sklavischen Nachbaus identisch seien. Die Übernahme der Maße und Dimensionen des Montageblocks der Klägerin sowie die Anordnung der Anschlüsse und ihre Position zueinander beruhe auf keinerlei technischen Notwendigkeiten. Die Klägerin sei für ihre Montageboxen bekannt. Es sei offensichtlich, dass der von der Klägerin zur Beklagten gewechselte Mitarbeiter Betriebsgeheimnisse in bewusst ausbeuterischer Absicht an die Beklagte weitergegeben habe. Die Beklagte habe im Wesentlichen die von der Klägerin für ihre Montageboxen entwickelte Produktbezeichnungscodierung übernommen. Auch die Produktbeschreibung im Katalog sei im Wesentlichen wortgleich mit der Produktbeschreibung im Katalog der Klägerin. Die Beklagte habe die Montageboxen der Klägerin originalgetreu nachgeahmt. Das Anbieten von baugleichen Montageboxen, die verwechslungsfähig ausgebildet seien, ohne dass eine technische Notwendigkeit hiefür bestünde, ließe auf ein Schmarotzen am besonderen Ruf der Klägerin schließen, wenn nicht gar auf eine bewusste Irreführung der Käufer, um sich der langjährigen besonderen Marktpräsenz der Klägerin zu bedienen oder diese auszubeuten. Die Vielzahl der nachgeahmten Produkte, die dem Produktkatalog der Beklagten zu entnehmen seien, erwecke den Eindruck, dass es sich um ein planmäßiges und systematisches Nachahmen handle. Der offensichtlich vorhandene Fortsetzungsbedarf an gleichartigen Erzeugnissen werde durch die Beklagte ausgenützt. Erst durch die Entwicklung und den Vertrieb der Montageboxen durch die Klägerin sei dieser Bedarf tatsächlich geschaffen worden. Diese habe den Markt erst erschlossen.
+Die Beklagte wendete ein, die Schutzdauer für die Gebrauchsmuster sei abgelaufen. Der zur Beklagten gewechselte ehemalige Mitarbeiter der Klägerin habe nicht unerlaubt Betriebsgeheimnisse der Klägerin ausgeforscht. Er sei in die betrieblichen Abläufe und die Produktion der Montageboxen eingebunden gewesen, deshalb habe er sämtliche Informationen erhalten. Er habe keine Betriebsgeheimnisse in bewusst ausbeuterischer Absicht weitergegeben. Die von der Beklagten unter der Bezeichnung „Profibox" vertriebenen Montageblöcke seien nicht mit den Produkten der Klägerin im Sinn eines sklavischen Nachbaus technisch ident, es handle sich nicht um originalgetreue Nachahmungen. Die Beklagte habe ihren Produkten die zweckmäßigste Form unter Berücksichtigung der technischen und ökonomischen Gesichtspunkte und Erfordernisse gegeben. Es bestehe keine Verwechslungsgefahr.
+Das Erstgericht erließ die beantragte einstweilige Verfügung. Das Produkt der Beklagten sei ein nahezu identischer Nachbau der Montageblöcke der Klägerin, es sei von einer sklavischen Nachahmung auszugehen. Auch wenn der Gebrauchsmusterschutz abgelaufen sei, müsse sich ein Nachbau nicht sklavisch an das vorgegebene Produkt anlehnen, insbesondere dann, wenn andere Möglichkeiten der Ausführung bestünden. Die Nachahmung durch die Beklagte ziele geradezu darauf ab, eine Verwechslung zu bewirken, es liege daher eine schmarotzerische Ausbeutung einer fremden Leistung vor.
+Das Rekursgericht ersetzte über Rekurs der Beklagten die Wendung „unter der Firma ProfiBox GmbH bzw unter der Bezeichnung Profibox" in der einstweiligen Verfügung durch „unter der Bezeichnung oder dem sonstigen Hinweis Profibox" und beschränkte das Unterlassungsgebot durch den Beisatz „sofern (die Montageblöcke der Beklagten) eine Nachahmung der Montageblöcke der Klägerin mit der Bezeichnung „Meisterbox" darstellen oder mit diesen Montageblöcken verwechselbar ähnlich sind". Darüber hinaus machte es die Wirksamkeit der einstweiligen Verfügung vom Erlag einer Sicherheitsleistung von 60.000 EUR durch die Klägerin abhängig (Sicherheit wurde erlegt). Es sprach aus, dass der Wert des Entscheidungsgegenstands 20.000 EUR übersteige und der ordentliche Revisionsrekurs mangels erheblicher Rechtsfrage nach § 528 Abs 1 ZPO unzulässig sei. Den Montageblöcken der Klägerin komme „wettbewerbliche Eigenart" zu. Sie wiesen bestimmte Merkmale oder Gestaltungsformen auf, die im Geschäftsverkehr ihre Unterscheidung von gleichartigen Erzeugnissen anderer Herkunft ermöglichten. Sie könnten bei Installateuren ein Erinnerungsbild schaffen, das geeignet sei, Herkunftsvorstellungen auszulösen. Die Beweiswürdigungsüberlegung des Erstgerichts, es könne angenommen werden, dass der von der Klägerin zur Beklagten gewechselte Außendienstmitarbeiter seine Tätigkeit bei der Klägerin und das gewonnene Fachwissen dazu verwendet habe, um ein eigenes Produkt auf dem Markt präsentieren zu können, enthalte ein Tatsachensubstrat zu den Motiven und zur Absicht des gewechselten Mitarbeiters. An einer bewussten Nachahmung durch die Beklagte sei demnach nicht zu zweifeln. Aus der vom Erstgericht ermittelten Tatsachengrundlage folge, dass für die Beklagte andere Möglichkeiten für eine abweichende Gestaltung ihrer Montageblöcke bestanden hätten. Der Nachbau sei weder technisch, noch funktionsbedingt, noch durch konstruktive Vorgaben bestimmt. Alle relevanten Gestaltungselemente der Montageboxen der Klägerin seien bei den der Klage zu Grunde liegenden Produkten der Beklagten umgesetzt. Die festgestellten Abweichungen seien nur marginal, sie würden für die Gestaltung und Funktionalität unwesentliche Elemente betreffen und seien zum Teil auch nur durch unterschiedliche Entwicklungsstufen bedingt. Auch nach der technischfachlichen Beurteilung erscheine der Nachbau als identische bzw baugleiche Ausführung und damit als detailgetreue Nachahmung der Montageblöcke der Klägerin. Bei Gegenüberstellung der Gestaltung ergebe sich aus der Sicht des informierten Benutzers insgesamt der Eindruck der Übereinstimmung; die marginalen Abweichungen verfestigten sich nicht in seinem Erinnerungsbild. Es bestehe kein ausreichender Abstand von den Gestaltungselementen und vom Erscheinungsbild der Montageblöcke der Klägerin. Die Bezeichnung „Profibox" sei nicht geeignet, um einen ausreichenden Abstand zu begründen. Die nicht übereinstimmenden Teile der Bezeichnungen „Meisterbox" und „Profibox" seien nicht mit einem besonderen Sinngehalt verbunden; beide deuteten auf eine besondere (handwerkliche) Qualifikation hin. Die Bezeichnungen ließen vielmehr auf eine gemeinsame Herkunft der Waren schließen, allenfalls im Sinn einer verfeinerten Version (Produkte der Beklagten). Verwechslungsgefahr sei gegeben. Dies rechtfertige das Unlauterkeitsurteil. Überdies liege auch eine schmarotzerische Ausbeutung einer fremden Leistung vor. Es sei davon auszugehen, dass der gewechselte Mitarbeiter seine Tätigkeit bei der Klägerin und das dort gewonnene Fachwissen dazu verwendet habe, um ein eigenes Produkt auf dem Markt präsentieren zu können. Damit sei der Vorwurf gerechtfertigt, dass sich die Beklagte in Umsetzung des von ihrem nunmehrigen Mitarbeiter bei der Klägerin erworbenen Wissens an ein beim Publikum bekanntes Produkt ohne technische Notwendigkeit anhänge, um ein eigenes (verwechslungsfähiges) Konkurrenzprodukt auf den Markt zu bringen und den wirtschaftlichen Ruf der Klägerin auszubeuten.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Beklagten ist zulässig und berechtigt.
+Das Nachahmen eines fremden Produkts, das keinen Sonderrechtsschutz genießt, ist an sich nicht wettbewerbswidrig; ein Verstoß gegen § 1 UWG ist aber dann anzunehmen, wenn im Einzelfall besondere Umstände hinzutreten, aus denen sich die Sittenwidrigkeit der Handlung ergibt (stRsp; 4 Ob 29/03y = ÖBl 2004, 18 - GenericaTabelle mwN; RISJustiz RS0078188, RS0078138). Das ist unter anderem dann der Fall, wenn der Nachahmende das Vorbild nicht nur als Anregung zu eigenem Schaffen benützt, sondern seinem Produkt ohne ausreichenden Grund die Gestaltungsform eines fremden Erzeugnisses gibt und dadurch die Gefahr von Verwechslungen hervorruft. Der Nachahmer muss von dem nachgeahmten Erzeugnis im Rahmen des Möglichen, vor allem dann, wenn ihm eine große Anzahl von Gestaltungsmöglichkeiten zur Verfügung steht, angemessenen Abstand halten (4 Ob 29/03y mwN; RISJustiz RS0078297). Eine „vermeidbare Herkunftstäuschung" setzt voraus, dass eine bewusste Nachahmung vorliegt, die Gefahr von Verwechslungen herbeigeführt wird und eine andersartige Gestaltung zumutbar gewesen wäre. Verwechslungsgefahr ist allerdings nur dann anzunehmen, wenn dem nachgeahmten Produkt wettbewerbliche Eigenart und eine gewisse Verkehrsbekanntheit zukommt. „Wettbewerblich eigenartig" ist ein Erzeugnis dann, wenn es bestimmte Merkmale oder Gestaltungsformen aufweist, die im Geschäftsverkehr seine Unterscheidung von gleichartigen Erzeugnissen anderer Herkunft ermöglichen. Ist die wettbewerbliche Eigenart gering, kann nur ein eingeschränkter Schutz in Anspruch genommen werden; in einem solchen Fall können schon geringe Abweichungen die Gefahr von Verwechslungen beseitigen (4 Ob 29/03y mwN). Um eine Herkunftsvorstellung auszulösen, wird ein Erinnerungsbild, ein geistiges Fortleben im Gedächtnis des Publikums verlangt (4 Ob 29/03y mwN; RISJustiz RS0122071, RS0078676).
+Die hier zu beurteilenden Installationsmontageblöcke unterliegen teilweise bestimmten technischen Erfordernissen, teilweise ist eine freie Gestaltung möglich. Die Anschlussdimensionen sowohl für Zu- als auch Ableitungen sind vorgegeben, dazu auch der Abstand zwischen der Kalt- und Warmwasserzuleitung. Darüber hinaus ist wegen der (unter anderem) im Trockenbau angestrebten Verwendung eine Höchstbreite im Ausmaß des für Trägerelemente (Ständer) vorgesehenen Abstands zu beachten. Auch die Tiefe des Montageblocks ist eingegrenzt, einerseits durch die übliche Wandstärke, andererseits durch das einzubauende Rohrknie für den Abfluss. Eine gewisse Mindestgröße ist zweifellos notwendig, um dem Montageblock eine gewisse Festigkeit zu geben, zu große Montageblöcke erfordern zuviel Material für den Füllkörper bzw zu große Freiräume für die Montage. Ein die technische Aufgabe des von der Klägerin vertriebenen Montageblocks gleichfalls lösender Montageblock wird daher immer bei sehr oberflächlicher Betrachtung ähnlich sein müssen. Die Lösung der technischen Aufgabe steht aber nicht allein der Klägerin zu (abgelaufener Gebrauchsmusterschutz).
+Den Feststellungen der Vorinstanzen ist zu entnehmen, dass sich die Produkte der Streitteile in einigen Punkten unterscheiden, die Farbe des verwendeten Materials und die bei der Beklagten über den Montageblock hinaus verlängerten Rohrisolierungen fallen sogar sofort ins Auge. Hinzu kommen die bei näherer Betrachtung auffallenden vorstehenden Wandscheiben bei den Montageblöcken der Beklagten und die unterschiedliche Bezeichnung („Meisterbox" bzw „Profibox") sowie die unterschiedliche Art der Beschriftung (Aufkleber bzw eingestanzte Bezeichnung). Auch der Abstand zwischen den Zuleitungsanschlüssen einerseits und dem Abflussrohr andererseits ist unterschiedlich. Berücksichtigt man darüber hinaus, dass sich die Streitteile vor allem an ein fachkundiges Publikum wenden (Installationsbetriebe), ist im Gegensatz zu der von den Vorinstanzen vertretenen Auffassung Verwechslungsgefahr im Sinne des hervorgerufenen Eindrucks, die Produkte stammten vom selben Hersteller, zu verneinen. Auch die - der rechtlichen Beurteilung zuzurechnende - Schlussfolgerung, die von der Beklagten gewählten Abweichungen seien so marginal, dass von nahezu identen Produkten gesprochen werden müsse bzw sklavische Nachahmung vorliege, teilt der erkennende Senat nicht. Ebenso wenig liegt eine „glatte Übernahme" fremder Arbeitsergebnisse vor, die in jedem Fall gegen § 1 UWG verstieße (zuletzt 4 Ob 90/07z = ÖBlLS 2007/163 - „getuntes" Fahrzeug; RISJustiz RS0078341), weil dabei das Nachahmen mittels eines meist technischen Vervielfältigungsverfahrens unter Einsparung eigener Kosten geschieht, das Nachgeahmte also kopiert oder abgeschrieben wird (4 Ob 90/07z mwN). Derartiges geschah hier nicht.
+Besondere Umstände, welche die Übernahme einer fremden Leistung sittenwidrig machen könnten, sind abgesehen von der bereits behandelten vermeidbaren Herkunftstäuschung oder sklavischen Nachahmung das Erschleichen des fremden Arbeitsergebnisses oder sein Erlangen durch Vertrauensbruch, das systematische Nachahmen, um den Mitbewerber zu behindern, und das Ausbeuten des guten Rufs eines fremden Erzeugnisses, wobei das gesamte Verhalten des die Leistung Übernehmenden zu berücksichtigen ist (RISJustiz RS0078130; zuletzt 4 Ob 90/07z). Dass die Beklagte die Erzeugnisse der Klägerin systematisch nachahme, um diese im Wettbewerb zu behindern, etwa vom Markt zu verdrängen, haben die Vorinstanzen nicht als bescheinigt angenommen; ebensowenig einen Sachverhalt, der die Beurteilung zuließe, die Beklagte wolle den Fortsetzungsbedarf an gleichen Erzeugnissen ausnutzen (Einschieben in die Serie) oder die Markterschließung der Klägerin ausnutzen (Einhängen in den Markt). Der Fortsetzungsbedarf (für den Betrieb eines Geräts notwendige Ergänzungen oder periodisch zu ersetzende Bestandteile, Ausbau eines für Erweiterung angelegten Produkts) ist bei der Installation von Sanitär- und Heizungsanlagen nicht zu erkennen. Auch wenn die Klägerin im Sinn ihrer Behauptungen durch Erfindung der Montageboxen für diese erst einen Markt geschaffen haben sollte, darf sie diesen nach Ablauf des Sonderrechtsschutzes nicht allein für sich behalten.
+Die Klägerin behauptet überdies einen unlauteren Wissenstransfer von ihr zur Beklagten, weil ihr ehemaliger Außendienstmitarbeiter und Berater nunmehr für die Beklagte tätig sei und sich im Rahmen seiner Tätigkeit für die Klägerin umfangreiches Wissen über Aufbau und Herstellung der klägerischen Produkte verschafft habe, um nach seinem Ausscheiden aus dem Unternehmen der Klägerin diese zu konkurrenzieren bzw in bewusst ausbeuterischer Absicht an die Beklagte (die Gesellschaft seiner Lebensgefährtin) weiter zu geben. Das Erstgericht stellte nur die Tatsache der Beschäftigung des gewechselten Mitarbeiters als Vertreter und Berater zunächst bei der Klägerin und dann bei der Beklagten sowie den als auffällig beurteilten zeitlichen Zusammenhang und die von der Geschäftsführung der Beklagten angegebene Motivation (Bedarf für derartige Montageboxen im Raum Wien), die offenbar nicht geglaubt wird, fest. Das Rekursgericht verwendete die Beweiswürdigungsüberlegung des Erstgerichts, wonach angenommen werden könne, dass der gewechselte Mitarbeiter seine Tätigkeit bei der Klägerin dazu verwendet habe, sich das entsprechende Fachwissen anzueignen, um in weiterer Folge ein eigenes Produkt am Markt präsentieren zu können, als Argument dafür, dass die subjektiven Voraussetzungen der bewussten Nachahmung als wesentliches Element der Sittenwidrigkeit ohnehin festgestellt seien. Offen bleibt, ob der gewechselte Mitarbeiter schon von Anfang an oder zumindest schon lange Zeit vor Beendigung seiner Tätigkeit für die Klägerin den Entschluss gefasst hatte, möglichst viel Fachwissen bei der Klägerin zu sammeln, um sie sofort nach dem Ausscheiden mit nachgeahmten Produkten zu konkurrenzieren. Die Feststellung eines Verdachts allein reicht nicht aus, es sind vielmehr konkrete Feststellungen zur subjektiven Tatseite oder zu den äußeren Umständen erforderlich, aus denen auf eine bestimmte innere Einstellung oder Absicht geschlossen wird, um darauf Ansprüche zu gründen (vgl 3 Ob 198/08a). Die Absicht des gewechselten Mitarbeiters im Sinn eines inneren Frontwechsels (Beschaffung von Betriebsgeheimnissen mit Verwertungsabsicht vor Beendigung des Dienstverhältnisses zur Klägerin) ist nicht bescheinigt. Nur dann, wenn sich der Dienstnehmer planmäßig, also mit Vorbedacht und unbefugt in Kenntnis von Betriebsgeheimnissen gesetzt hat, um sie dann nach Dienstaustritt zum Zweck des Wettbewerbs zu verwerten, liegt Sittenwidrigkeit vor (1 Ob 643/52 = SZ 25/251 ua; RISJustiz RS0078330). Der Unterschied zur Inanspruchnahme redlich erworbenen Wissens besteht darin, dass der ehemalige Angestellte in einem solchen Fall noch während der Dauer des Arbeitsverhältnisses einen inneren Frontwechsel vorgenommen hat, indem er sich nicht mehr als loyaler Mitarbeiter seines Dienstherrn, sondern bereits als dessen künftiger Konkurrent verhalten hat (4 Ob 394/86 = ÖBl 1988, 13). Dass der ehemalige Mitarbeiter der Klägerin im Rahmen seiner (späteren) Tätigkeit für die Beklagte das von ihm bei der Klägerin erlangte Wissen zum Nutzen der Beklagten einsetzt, ist noch nicht sittenwidrig. Dass er den Wissenstransfer bereits während seiner Tätigkeit für die Klägerin beabsichtigte, ist im vorliegenden Fall nicht bescheinigt. Dass der gewechselte Mitarbeiter erst nach Ablauf der zu Gunsten der Klägerin vereinbarten Konkurrenzklausel für die Beklagte tätig wurde, stellt die Klägerin in ihrer Revisionsrekursbeantwortung nicht in Abrede (S 8).
+Da die Beklagte infolge Einhaltens eines ausreichenden Abstands zum keinen Sonderrechtsschutz mehr genießenden Produkt der Klägerin weder über die Herkunft des Produkts täuscht noch den Ruf des Produkts der Klägerin unlauter ausnützt, das Erschleichen des fremden Arbeitsergebnisses oder sein Erlangen durch Vertrauensbruch, das systematische Nachahmen, um den Mitbewerber zu behindern, oder das Ausnutzen eines Fortsetzungsbedarfs nach dem bescheinigten Sachverhalt nicht verwirklicht wurde, fehlt die Grundlage für die von der Klägerin erhobenen Ansprüche. Auf Fragen der Bestimmtheit und Reichweite des Unterlassungsgebots braucht daher nicht eingegangen zu werden. Das Sicherungsbegehren der Klägerin ist vielmehr abzuweisen.
+Die Kostenentscheidung beruht auf § 393 Abs 1 EO iVm §§ 41 und 50 ZPO.

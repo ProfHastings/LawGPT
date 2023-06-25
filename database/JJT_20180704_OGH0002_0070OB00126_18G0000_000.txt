@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.07.2018
+Geschäftszahl
+7Ob126/18g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr.
+Kalivoda als Vorsitzende und die Hofräte und Hofrätinnen Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei D***** AG *****, vertreten durch MMag. Christian Mertens, Rechtsanwalt in Innsbruck, gegen die beklagte Partei F***** P*****, vertreten durch Dr. Karl Hepperger, Rechtsanwalt in Innsbruck, wegen 97.001,88 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 8. Mai 2018, GZ 4 R 33/18m-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen der Klägerin und der Arbeitgeberin des Beklagten besteht ein Kollisionskaskoversicherungsvertrag, dem die Allgemeinen Bedingungen für die Kollisionskaskoversicherung für Pkw (AKKB 2015) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 5
+Was ist vor bzw nach Eintritt des Versicherungsfalls zu beachten?
+…
+2. Nach Eintritt des Versicherungsfalls:
+2.1 Als Obliegenheiten, deren Verletzung nach Eintritt des Versicherungsfalls die Freiheit des Versicherers von der Verpflichtung zur Leistung zur Folge haben, werden bestimmt:
+2.1.1 nach Möglichkeit zur Feststellung des Sachverhalts beizutragen.
+...
+Artikel 6
+Unter welchen Voraussetzungen kann eine Versicherungsleistung zurückgefordert werden?
+§ 67 VersVG findet gegenüber dem berechtigten Lenker bzw berechtigten Insassen nur dann Anwendung, wenn auch einem Versicherungsnehmer (als Fahrzeuglenker oder Insasse) bei gleichem Sachverhalt Leistungsfreiheit einzuwenden gewesen wäre.
+...“
+Rechtliche Beurteilung
+1. Zu im Wesentlichen gleich ausgestalteten Aufklärungsobliegenheiten (hier Art 5.2 AKKB 2015) gibt es eine ständige oberstgerichtliche Judikatur. Danach verletzt der Versicherungsnehmer seine Aufklärungspflicht dann, wenn er einen von ihm verursachten Verkehrsunfall der nächsten Polizeidienststelle nicht meldet, sofern er zur sofortigen Anzeigeerstattung nach § 4 StVO verpflichtet ist und im konkreten Fall etwas versäumt wurde, das zur Aufklärung des Sachverhalts dienlich gewesen wäre. Die Übertretung des § 4 Abs 5 StVO ist für sich allein nicht schon einer Verletzung der Aufklärungspflicht gleichzuhalten. Es ist vielmehr notwendig, dass ein konkreter Verdacht in bestimmter Richtung durch objektives Unbenützbarwerden (objektive Beseitigung) eines Beweismittels infolge Unterlassung der Anzeige im Nachhinein nicht mehr mit Sicherheit ausgeschlossen werden kann. Den konkreten Verdacht und die Unbenützbarkeit des Beweismittels muss der Versicherer behaupten und beweisen (RIS-Justiz RS0043520).
+2. Die von der Klägerin angezweifelte Rechtsansicht des Berufungsgerichts, es sei ihr nicht gelungen, eine konkrete Verdachtslage für eine Alkoholisierung des Beklagten zu beweisen, sodass bereits von einer Verletzung der Aufklärungspflicht nicht ausgegangen werden könne, hält sich im Rahmen der oberstgerichtlichen Judikatur und ist im Einzelfall nicht zu beanstanden.
+2.1 Dagegen vermag die Klägerin keine stichhaltigen Argumente vorzubringen: Die vom Berufungsgericht im Sinn der Klägerin festgestellte Übertretung des § 4 Abs 5 StVO allein schafft keine Verdachtslage für eine Alkoholisierung des Beklagten. Das Vorgehen des aufgeregten Beklagten, das Fahrzeug noch über eine kurze Distanz in seine Garage zu fahren, nachdem er seine Arbeitgeberin unverzüglich über den Unfall informiert hatte, beruht auf deren Anweisung und lässt nicht darauf schließen, dass der Beklagte infolge Alkoholisierung fahruntüchtig gewesen ist. Aufgrund eines Missverständnisses ging der Beklagte davon aus, dass die Arbeitgeberin die Polizei verständigen würde. Soweit die Klägerin ausführt, dass der Beklagte Brems- und Gaspedal verwechselt habe, entfernt sie sich vom festgestellten Sachverhalt, wonach Ursache des Unfalls war, dass der Beklagte die starke Beschleunigung des (überlassenen) Sportwagens bei Betätigung des Gaspedals unterschätzte. Die Schwere der durch den Unfall entstandenen Schäden lässt keine Rückschlüsse auf eine durch Alkohol gegebene Fahruntüchtigkeit des Beklagten zu. Auch aus dem Arbeitsumfeld des Beklagten, der als Koch in einem Gastronomiebetrieb arbeitet, kann nicht auf seine Alkoholisierung geschlossen werden. Eine allgemeine Aussage dahingehend, dass schon die mit Tätigkeiten in der Gastronomie verbundene Gelegenheit auf den tatsächlichen Konsum von Alkohol schließen lässt, kann nicht getroffen werden. Selbst beim Besuch einer Gaststätte kann ein solcher nicht grundsätzlich unterstellt werden. Der Unfallzeitpunkt (00:00 Uhr) resultiert daraus, dass der Dienst des Beklagten um 23:00 Uhr geendet hatte.
+3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00126.18G.0704.000

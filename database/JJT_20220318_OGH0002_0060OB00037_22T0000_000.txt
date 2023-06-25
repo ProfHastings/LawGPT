@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.03.2022
+Geschäftszahl
+6Ob37/22t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Dr. R*, vertreten durch Dr. Annemarie Stipanitz-Schreiner und Dr. Judith Kolb, Rechtsanwältinnen in Graz, gegen die beklagte Partei I*, vertreten durch Melicharek Rechtsanwalts GmbH in Wien, wegen Herausgabe, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 27. Jänner 2022, GZ 4 R 199/21y-48, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Ein im Eigentum des Klägers stehendes Werk von Martin Kippenberger wurde von der Beklagten während aufrechter Ehe der Streitteile im Jahr 2019 verkauft und befindet sich seither nicht mehr in ihrer Gewahrsame.
+[2] 		Das Erstgericht wies die im September 2020 eingebrachte Klage auf dessen Herausgabe wegen fehlender Passivlegitimation der Beklagten ab.
+[3] 		Das Berufungsgericht bestätigte dieses Urteil. Dem Kläger sei der ihm – als demjenigen, der sich auf einen sachenrechtlichen Herausgabeanspruch nach § 366 ABGB stützte – gemäß § 369 ABGB obliegende Beweis, dass „der Geklagte die eingeklagte Sache in seiner Macht habe“, nicht gelungen.
+[4] 		In der gegen die Entscheidung des Berufungsgerichts erhobenen Revision kann der Kläger keine erhebliche Rechtsfrage aufwerfen (§ 510 Abs 3 ZPO):
+[5] 		1. Er stützt die Zulässigkeit seiner Revision auf die Behauptung, das Berufungsgericht habe in der „relevanten Frage der Passivlegitimation und der Innehabung auf keine Judikatur zurückgreifen“ können.
+[6] 		Dies ist unzutreffend. Nach ständiger Rechtsprechung des Obersten Gerichtshofs – auf die das Berufungsgericht den Kläger bereits verwiesen hat – erfordert die Eigentumsklage die Gewahrsame des Beklagten (oder wenigstens seinen sogenannten mittelbaren Besitz) im Zeitpunkt der Zustellung der Klage oder des Schlusses der mündlichen Verhandlung (RS0010862; RS0004645).
+[7] 		2. Darüber hinaus bemängelt der Kläger – wie schon in seiner Berufung –, das Erstgericht habe zu Unrecht eine „allfällige Unmöglichkeit“ angenommen und nicht beachtet, dass Nichtbesitz der Sache (für sich) noch nicht die Unmöglichkeit der Leistung begründe, weil allein aus Nichtbesitz keineswegs folge, dass die Beklagte sich die Sache nicht verschaffen könne.
+[8] 		Eine Fehlbeurteilung durch das Berufungsgericht spricht er damit schon formell nicht an. Dieses hat ihm dazu ohnehin erwidert, dass er bei seiner – auf Judikate des Obersten Gerichtshofs gestützten Argumentation – außer Acht lässt, dass sämtliche von ihm zitierten Entscheidungen im Obligationenrecht begründete Leistungspflichten betrafen und daher für den konkreten Fall nicht einschlägig sind. Auf den Unterschied zwischen Herausgabeansprüchen, die auf vertraglicher Grundlage beruhen, und dem von ihm geltend gemachten sachenrechtlichen Herausgabeanspruch geht der Kläger in seiner (die Ausführungen in der Berufung bloß wortgleich wiederholenden) Revision gar nicht ein und kann so der Antwort des Berufungsgerichts auch in der Sache nichts Stichhältiges entgegensetzen.
+[9] 		3. Angesichts der bereits bestehenden Rechtsprechung dazu, dass dann, wenn die Gewahrsame bereits vor Klagszustellung aufgegeben wurde, nur mehr Schadenersatz- und Bereicherungsansprüche in Betracht kommen (6 Ob 556/86), vermag der Kläger in seiner Revision insgesamt keine erhebliche Rechtsfrage anzusprechen. Dies gilt auch für die von ihm aufgeworfene Frage, ob § 378 ABGB – wie er meint – auch in Fällen, in denen die Sache vor Klagszustellung verkauft wurde, anzuwenden wäre.
+[10] 		Dem steht nämlich der klare Wortlaut der Bestimmung („Wer eine Sache im Besitze hatte, und nach zugestellter Klage fahren ließ, ...“) entgegen, sodass diese Frage im Gesetz selbst eindeutig (und von der Lehre unbezweifelt [vgl G. Kodek in Fenyves/Kerschner/Vonkilch, Klang3 § 378 ABGB Rz 2; Holzner in Klete?ka/Schauer, ABGB-ON1.05 § 378 Rz 1; Winner in Rummel/Lukas, ABGB4 § 378 Rz 1 f]) gelöst ist (RS0042656). Nur der Vollständigkeit halber sei angemerkt, dass ein „Fahrenlassen“ der Sache auch vor Klagszustellung bei Gesetzeswerdung des § 378 ABGB erwogen, aber nach ausführlicher Diskussion verneint worden war (s Ofner, Der Ur-Entwurf und die Beratungsprotokolle des österreichischen Allgemeinen bürgerlichen Gesetzbuches II 523 f).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00037.22T.0318.000

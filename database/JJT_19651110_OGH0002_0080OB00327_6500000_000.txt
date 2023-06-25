@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.11.1965
+Geschäftszahl
+8Ob327/65
+Norm
+ABGB §26;
+ABGB §271;
+JN §109 (2);
+Kopf
+SZ 38/192
+Spruch
+Keine Bestellung eines Kollisionskurators für Stiftungen durch das Gericht
+Entscheidung vom 10. November 1965, 8 Ob 327/65
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien
+Text
+Die P.'sche Stiftung, der mj. Emanuel R. und die übrigen Miteigentümer der Liegenschaft EZ. X. der KG. W. verkauften diese Liegenschaft der Stadt Wien. Die genannte Stiftung war bei Abschluß des Kaufvertrages durch den Leiter der Abteilung 12 des Magistrates der Stadt Wien vertreten.
+Der gemäß § 109 (2) JN. zur Genehmigung des Kaufvertrages in Ansehung des mj. Emanuel R. dem Landesgericht für ZRS. Wien vorgelegte Vormundschaftsakt über den Minderjährigen wurde von dem Gerichtshofe dem Bezirksgericht mit dem Auftrag zurückgestellt, gemäß § 271 ABGB. für die P.'sche Stiftung zum Zwecke des Abschlusses des Kaufvertrages einen Kurator zu bestellen, weil die Gemeinde Wien die Verwaltung der Stiftung führe, aber zugleich auch als Käuferin auftrete.
+Das Erstgericht eröffnete sohin gemäß § 271 ABGB. für die Stiftung eine Kollisionskuratel, bestellte den Rechtsanwalt Dr. K. zum Kollisionskurator dieser Stiftung und ermächtigte ihn, den in Rede stehenden Kaufvertrag (namens der Stiftung) "nach Prüfung zu unterfertigen".
+Das Rekursgericht gab dem von der Stiftung gegen den Beschluß des Erstgerichtes erhobenen Rekurs nicht Folge und begrundete seine Entscheidung damit, daß in jedem Falle eines Geschäftes zwischen dem Vertretenen und seinem Vertreter gemäß § 271 ABGB. ein Kollisionskurator zu bestellen sei. Da im vorliegenden Falle die Stiftung ein Geschäft des Privatrechtes abschließe, sei sie wie ein Privatrechtssubjekt zu behandeln. Durch die Bestellung eines Kurators werde das Vertretungsrecht der Magistratsabteilung 12 nicht berührt, die Bestellung sei kein Eingriff in den Bereich der Verwaltung, sie beeinträchtige auch nicht das Aufsichtsrecht der Stiftungsbehörde. Die Kuratorbestellung sei nicht dadurch vermeidbar geworden, daß die Interessen der Stiftung durch die Stiftungsbehörde wahrgenommen werden. Da die Magistratsabteilung 62 nur ein Organ der Liegenschaftskäuferin sei, bestunde eine Interessenskollision.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der P.'schen Stiftung infolge und hob die Beschlüsse der Untergerichte und das diesen Beschlüssen vorangegangene Verfahren als nichtig auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Entgegen der im Revisionsrekurs vertretenen Ansicht ist der Magistrat der Stadt Wien trotz seiner Gliederung in zahlreiche Dienststellen und Abteilungen ein einheitlicher Verwaltungsapparat, eine einzige Behörde. Die Abteilungen stellen daher keine selbständigen, instanzenmäßig im Verhältnis der Über- oder Unterordnung stehenden Behörden, sondern nur Dienststellen des Magistrates dar und es ist die Frage, welche Abteilung oder Dienststelle im Einzelfall zum Einschreiten berufen ist, nicht eine Frage der Zuständigkeit, sondern lediglich eine solche der internen Geschäftsverteilung (EvBl. 1953 Nr. 253; u. a.; Erkenntnis des Verfassungsgerichtshofes vom 20. Dezember 1948, Slg. 1732, und die Erkenntnisse des Verwaltungsgerichtshofes Slg. NF. Nr. 674 (A.)/49 und Nr. 825 (A.)/59).
+Es ist auch dem Rekursgericht darin beizupflichten, daß die Bestimmung des § 271 ABGB. auch in anderen Fällen analog anzuwenden ist (SZ. XV 100, GlU. 11.278, vgl. Ehrenzweig, System, 1951, I/1 278). Voraussetzung der analogen Anwendung der Bestimmung des § 271 ABGB. in einem gerichtlichen Verfahren ist jedoch, daß die Regelung des Rechtsverhältnisses in die Zuständigkeit der Gerichte fällt. Dies trifft aber im vorliegenden Falle, wie im Revisionsrekurs zutreffend hervorgehoben wird, nicht zu.
+Bezüglich der Stiftungen weist § 646 ABGB. auf das öffentliche Recht hin (Hofdekret vom 7. Juni 1841, JGS. Nr. 541), nach welchem aus dem Titel der staatlichen Stiftungshoheit je nach der Kompetenzverteilung dem Bunde oder dem Lande nicht nur die Entscheidung über die Annehmbarkeit einer Stiftung, die Prüfung und Bestätigung des Stiftbriefes, die Entscheidung über die Permutation der Stiftung, sondern auch die Aufsicht über die Verwaltung der Stiftung zusteht (Adamovich, Handbuch des österreichischen Verwaltungsrechtes II 53/54). Mögen Stiftungen hinsichtlich der Verwaltung ihres Vermögens, also auch bei Veräußerung von Vermögensobjekten durch sie wie pflegebefohlene Personen zu behandeln sein, so fällt doch die Überwachung der Tätigkeit ihrer Organe mit in den Wirkungskreis der Gerichte, sondern ist Sache der Stiftungsaufsichtsbehörde (Herrnritt, Das österreichische Stiftungsrecht 1896, S. 163). Diese Unterordnung der Stiftungen unter die Aufsicht der Staatsgewalt und die Regelung des Stiftungswesens nach öffentlich-rechtlichen Gesichtspunkten schließen eine gleichzeitige pflegeschaftsgerichtliche Oberaufsicht aus (vgl. § 77 Z. 4 AußStrG., siehe auch Herrnritt, a. a. O., S. 52/53). Auch wenn die Stiftung an einem privatrechtlichen Rechtsgeschäft beteiligt ist, ändert dies nichts daran, daß die Wahrung ihrer Interessen auch in diesem Falle in die Kompetenz der Verwaltungsbehörde fällt.
+Im vorliegenden Falle hat das Vormundschaftsgericht sohin nur die Interessen des am Kaufvertrag beteiligten Minderjährigen zu wahren und demgemäß dem Vertrag die Genehmigung zu erteilen oder zu versagen, es darf aber nicht in die Zuständigkeit der Stiftungsbehörde eingreifen.
+Da somit die Untergerichte durch Bestellung eines Kollisionskurators für die in Rede stehende Stiftung in einer Rechtssache entschieden haben, die der ordentlichen Gerichtsbarkeit entzogen ist, waren ihre diesbezüglichen Beschlüsse und das diesen Beschlüssen vorangegangene Verfahren als nichtig aufzuheben (§ 42 (1) JN.).

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2018
+Geschäftszahl
+1Ob81/18w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Ing. G***** R*****, vertreten durch Mag. Michael Pontasch-Müller, Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei Republik Österreich (Bund), vertreten durch die Finanzprokuratur in Wien, wegen 1.126.015,01 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 7. März 2018, GZ 5 R 140/17y-146, mit dem das Urteil des Landesgerichts Klagenfurt vom 19. Juli 2017, GZ 29 Cg 110/02y-141, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+I. Das Verfahren über die außerordentliche Revision der klagenden Partei wird fortgesetzt.
+II. Der Antrag der klagenden Partei auf Einleitung eines Vorabentscheidungsverfahrens vor dem Gerichtshof der Europäischen Union und die Beschwerde über die Verfahrensdauer werden zurückgewiesen.
+III. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zu I.:
+Rechtliche Beurteilung
+Das Revisionsverfahren war bis zur Rechtskraft der Entscheidung über die Ablehnung der Mitglieder des Berufungssenats durch den Kläger unterbrochen und ist daher nach Eintritt der Rechtskraft (6. 8. 2018) des Beschlusses des zuständigen Senats, mit dem der „Ablehnungsantrag“ abgewiesen wurde, fortzusetzen.
+Zu II.:
+1. Eine Prozesspartei hat keinen verfahrensrechtlichen Anspruch darauf, die Einleitung eines Vorabentscheidungsverfahrens vor dem Gerichtshof der Europäischen Union (EuGH) zu beantragen. Ein solcher (gesetzlich) nicht vorgesehener Antrag ist daher zurückzuweisen (RIS-Justiz RS0058452 [T1, T5, T12, T14, T16, T21]).
+Der EuGH ist nur zur Auslegung von Gemeinschaftsrecht berufen. Welche Bestimmungen des Unionsrechts verletzt sein sollen, legt der Revisionswerber nicht dar. Der Verweis in der Revision auf Ausführungen in der Berufung ist unzulässig und damit unbeachtlich. Jede Rechtsmittelschrift ist ein in sich geschlossener selbständiger Schriftsatz und kann nicht durch die Bezugnahme auf den Inhalt anderer in derselben oder in einer anderen Sache erstatteter Schriftsätze ersetzt oder ergänzt werden (RIS-Justiz RS0007029; RS0043616).
+2. Der Kläger erhebt unter Hinweis auf die Bestimmungen der Art 6 Abs 1 und Art 13 EMRK im Rahmen der außerordentlichen Revision eine – gesetzlich nicht vorgesehene – Beschwerde betreffend die überlange Verfahrensdauer im gegenständlichen Verfahren. Es entspricht ständiger Rechtsprechung des Obersten Gerichtshofs, dass die Anfechtungsmöglichkeiten nach innerstaatlichem Recht durch die EMRK nicht erweitert werden (RIS-Justiz RS0075021; 3 Ob 44/93 mwN). Daher ist die Beschwerde als unzulässig zurückzuweisen.
+Zu III.:
+3. Der Beschluss des Berufungsgerichts, mit dem eine wegen Nichtigkeit erhobene Berufung (nach § 477 Abs 1 Z 4 und Z 9 ZPO) verworfen wurde, kann – auch dann, wenn er in das Berufungsurteil aufgenommen wurde – weder mit Revision noch mit Rekurs bekämpft werden (§ 519 Abs 1 ZPO; RIS-Justiz RS0043405). Die Anfechtungsbeschränkung nach § 519 Abs 1 ZPO kann auch nicht mit der Behauptung unterlaufen werden, das Rechtsmittelgericht sei nicht ausreichend auf bestimmte Rechtsmittelargumente eingegangen (RIS-Justiz RS0042981 [T24]).
+4. Die behauptete Aktenwidrigkeit und
+– teilweise unrichtig als Nichtigkeit geltend gemachte – Mangelhaftigkeit des Berufungsverfahrens wurden geprüft; sie liegen nicht vor (§ 510 Abs 3 ZPO).
+5. Nach der Rechtsprechung des Obersten Gerichtshofs sind Nachteile im Vermögen der Gesellschafter einer GmbH, die lediglich den Schaden der Gesellschaft reflektieren, nicht als ersatzfähiger Schaden der Gesellschafter anzusehen. Wird eine Gesellschaft mit beschränkter Haftung durch einen Dritten geschädigt, ist der Gesellschafter, dessen Geschäftsanteil entwertet wird, mit diesem Nachteil als mittelbar Geschädigter anzusehen. Anspruch auf Schadenersatz hat nur die unmittelbar geschädigte Gesellschaft selbst (RIS-Justiz RS0059432 [T3]; 1 Ob 126/01p; 10 Ob 4/03s, jeweils mwN).
+Der Kläger war geschäftsführender Gesellschafter einer GmbH, über deren Vermögen der Konkurs eröffnet wurde. Er begehrt wegen behaupteter rechtswidriger und schuldhafter Verletzung der dem Konkursgericht auferlegten Pflichten bei der Abwicklung des Konkursverfahrens der GmbH unter anderem den Schaden, den er dadurch erlitten habe, dass er für Gesellschaftsschulden aufgrund vertraglich begründeter persönlicher Haftungen gegenüber Gläubigern der GmbH einzustehen habe. Dass er den Gläubigern aufgrund seiner Haftung als Bürge bereits Zahlungen geleistet hätte, behauptet er nicht. Wenn das Berufungsgericht gestützt auf die angeführte Rechtsprechung des Obersten Gerichtshofs davon ausging, dass der Kläger als Gesellschafter nur mittelbar geschädigt sei und mangels Zahlungen ein allfälliger Schaden aus der behaupteten Verletzung von Kontroll- und Aufsichtspflichten weiterhin im Vermögen der Gemeinschuldnerin bestehe, ohne dass er bislang auf Dritte überwälzt worden wäre, und daher nur durch eine Leistung in das Gesellschaftsvermögen wieder gutgemacht werden und nicht (zusätzlich) vom Kläger begehrt werden könne, ist dies nicht zu beanstanden.
+Soweit der Kläger behauptet, bei der Gesellschaft handle es sich um sein „Eigentum“ und er sei „als Gesellschafter ... in einem absolut geschützten Rechtsgut geschädigt worden“, so verkennt er das in § 61 Abs 1 und 2 GmbHG normierte sogenannte Trennungsprinzip, das eine strikte Trennung zwischen Gesellschaft und Gesellschaftern und damit auch zwischen Gesellschaftsvermögen und Privatvermögen der Gesellschafter anordnet (vgl nur Winkler/Gruber in Gruber/Harrer, GmbHG [2014] § 61 Rz 25). Mit der Behauptung in der Revision, er sei nicht in der Lage, den Schaden, den „er durch die Exekutionen erlitten“ habe, zu bezahlen, zeigt er keinen Fall einer Schadensverlagerung auf.
+6. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0010OB00081.18W.0829.000

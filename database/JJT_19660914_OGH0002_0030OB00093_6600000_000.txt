@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.09.1966
+Geschäftszahl
+3Ob93/66
+Norm
+ABGB §297a;
+EO §37;
+EO §140;
+Kopf
+SZ 39/143
+Spruch
+Werden unter Eigentumsvorbehalt verkaufte Maschinen mit einer Liegenschaft in Verbindung gebracht, ohne daß die im § 297a ABGB. vorgesehene Anmerkung eingetragen worden wäre, so kann der Verkäufer nach Schätzung und Beschreibung der Liegenschaft und des Zubehörs der Exekution durch Zwangsversteigerung nicht mehr widersprechen
+Entscheidung vom 14. September 1966, 3 Ob 93/66
+I. Instanz: Bezirksgericht Zell am See; II. Instanz: Landesgericht Salzburg
+Text
+Die Klägerin verkaufte am 28. September 1964 der Gastwirtin Wilma W., Besitzerin der H.-Hütte in V., und deren Gatten Johann W. einen Dieselmotor und einen Drehstromgenerator samt Zubehör um den Betrag von 146.510 S. Nach den allgemeinen Verkaufs- und Lieferbedingungen der Klägerin wurde unter Punkt 8 ein Eigentumsvorbehalt der Klägerin vereinbart; demnach behielt sich die Klägerin bis zur völligen Tilgung aller finanziellen Verpflichtungen der Wilma und des Johann W. das Eigentumsrecht an den gelieferten Maschinen vor.
+Diese Maschinen wurden in der Folge in der Garage der H.-Hütte (EZ. 174 KG. V.) aufgestellt, und zwar wurden sie auf einem Betonsockel montiert, also mit dem Boden fest verbunden. Die H.-Hütte liegt in etwa 1300 m Höhe; sie findet im Winter als guteingerichtetes Skiheim und im Sommer als Ausflugsziel Verwendung. Da sie infolge ihrer Höhenlage nicht an das öffentliche Stromnetz angeschlossen ist, erfolgt die Stromversorgung über die gegenständliche Anlage.
+Es wurde im Grundbuch nicht angemerkt, daß die Maschinen einem anderen als dem Eigentümer der Liegenschaft gehörten. Zugunsten der Beklagten ist im Lastenblatt der EZ. 174 KG. V. das Pfandrecht für eine Forderung eingetragen, zu deren Hereinbringung die Beklagte Exekution durch Zwangsversteigerung führt. Die strittigen Gegenstände wurden im Zuge dieses Verfahrens als Zubehör beschrieben.
+Das Erstgericht erklärte die Exekution durch Zwangsversteigerung der Liegenschaft EZ. 174 Grundbuch V. hinsichtlich der oben bezeichneten Maschinen für unzulässig.
+In rechtlicher Hinsicht führte das Erstgericht aus, daß die genannten Maschinen infolge Unterlassung der Anmerkung gemäß § 297a ABGB. im Verhältnis zwischen der Pfandgläubigerin und der Klägerin zunächst als Zubehör zu gelten hätten. So wie der Eigentümer der Liegenschaft die Zubehöreigenschaft aufheben kann, müsse dem Eigentümer der ihm gegenüber als Zubehör geltenden Sachen das Recht eingeräumt werden, sie zurückzuverlangen und damit die Zubehöreigenschaft aufzuheben. Dies sei bis zur Rechtskraft des Versteigerungsediktes möglich.
+Das Berufungsgericht bestätigte diese Entscheidung und sprach aus, daß der Streitwert 15.000 S übersteige.
+Der Oberste Gerichtshof gab der Revision der Beklagten Folge und wies die Klage ab.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Untergerichte sind der Ansicht, der Liegenschaftseigentümer könne bis zur Rechtskraft des Versteigerungsediktes die Zubehöreigenschaft auflösen. Sie lehnen die in der Entscheidung JBl. 1957 S. 218 vertretene Meinung, daß dies nur bis zur Schätzung und Beschreibung des Zubehörs zulässig sei, ab und berufen sich auf die Entscheidung EvBl. 1956 Nr. 72. Hiezu ist vor allem zu bemerken, daß es sich dort nicht darum handelte, ob die Aufhebung der Zubehöreigenschaft noch in der Zeit zwischen der Schätzung und Beschreibung und dem Zeitpunkt der Rechtskraft des Versteigerungsediktes erfolgen kann. Es wurde dargelegt, daß dies nach dem zuletzt genannten Zeitpunkt jedenfalls nicht mehr möglich ist. Aber selbst wenn man diese Entscheidung so auffaßt, wie es die Untergerichte tun, muß doch bemerkt werden, daß diese Entscheidung vereinzelt geblieben sein würde. Der Oberste Gerichtshof bat sowohl in den vorher ergangenen Entscheidungen SZ. VII 231 und SZ. IX 50 als auch später in EvBl. 1961 Nr. 61 die Schätzung und Beschreibung der Gegenstände als Zubehör als in dieser Hinsicht maßgeblich erklärt, da hiemit der betreibende Gläubiger an den Gegenständen ein Befriedigungsrecht erworben habe. Dies ist auch der Standpunkt des Schrifttums (Ehrenzweig[2] I/2 S. 44, Walker[4] S. 195). Offenbar irrtümlich führt das Berufungsgericht aus, Walker meine, die Auflassung des Zubehörverhältnisses könne bis zur Rechtskraft des Versteigerungsediktes erfolgen.
+Durch die Beschreibung und Schätzung ist der Umfang des Befriedigungsrechtes des betreibenden Gläubigers klar festgelegt, sodaß der Verpflichtete daran nichts mehr ändern kann. Dasselbe muß auch gegenüber einem dritten Eigentümer der Fall sein, demgegenüber die Sachen wegen Unterlassung der Anmerkung nach § 297a ABGB. als Zubehör gelten. Wollte man anders entscheiden, so hieße dies die genannte Bestimmung vollkommen ihrer Wirksamkeit entkleiden. Es wäre nicht einzusehen, was die Anmerkung noch für einen Sinn haben sollte, wenn es einem solchen Eigentümer der Maschinen freistunde, später, als dem Verpflichteten gestattet ist, die Zubehöreigenschaft aufzuheben, die Ausfolgung der Sachen zu verlangen. Dies würde mit dem Wortlaut und dem Zweck der genannten Gesetzesstelle in Widerspruch stehen. Die Klägerin hätte die Möglichkeit gehabt, sich durch Veranlassung der Anmerkung gegen Pfandgläubiger zu sichern. Es treffen sie die Folgen der Unterlassung.
+Es steht also der Klägerin nicht das Recht zu, der vorliegenden Exekution zu widersprechen.

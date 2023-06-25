@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.05.2001
+Geschäftszahl
+5Ob324/00h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Klinger als Vorsitzenden sowie die Hofräte des Obersten Gerichtshofes Dr. Floßmann und Dr. Baumann und die Hofrätinnen des Obersten Gerichtshofes Dr. Hurch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Parteien 1. Wienczyslawa S*****, Kauffrau,
+2. Norbert S*****, Pensionist, beide *****, beide vertreten durch Dr. Hermann Kogler, Rechtsanwalt in Leoben, wider die beklagte Partei Bank *****AG, ***** vertreten durch Dr. Bernhard Weissborn, Rechtsanwalt in Wien, wegen Löschung von Pfandrechten (Streitwert S 1,550.883,10), infolge außerordentlicher Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichtes Graz vom 18. Oktober 2000, GZ 2 R 166/00z-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Parteien wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Nach § 451 Abs 1 ABGB und den §§ 4 und 9 GBG wird das Pfandrecht an einer verbücherten Liegenschaft als dingliches und bücherliches Recht durch Eintragung im Hauptbuch erworben. Der rechtsgeschäftliche Pfandrechtserwerb setzt in der Regel die Verpfändung durch den bücherlichen Eigentümer oder wenigstens dessen Einwilligung voraus. Für verbücherte Liegenschaften gilt der Vertrauensgrundsatz, weshalb wie die anderen bücherlichen Rechte auch die Hypothek im Vertrauen auf das Grundbuch gültig erworben werden kann, selbst wenn das Recht des Vormanns ungültig eingetragen oder erloschen ist. Ist der Verpfänder als Eigentümer eingetragen, so erwirkt der redliche Gläubiger die Hypothek auch dann, wenn die Einverleibung des Eigentümers ungültig ist (JBl 1984, 42; SZ 59/75).
+Die Gutgläubigkeit, die nach dem Grundbuchsstand zu beurteilen ist (NZ 1988, 288 [Hofmeister]), setzt voraus, dass der Pfandnehmer davon überzeugt ist, dass der Verpfänder Eigentümer ist und ihm bei dieser Annahme keinerlei Fahrlässigkeit zur Last fällt (ZVR 1957/119; 3 Ob 115/75, SZ 23/379 u.a.). Die Fahrlässigkeit schließt den guten Glauben aus (SZ 23/255; 23/287; 47/89; 55/46; 66/192 NZ 1995, 108; ecolex 1996, 96).
+Der Zeitpunkt des guten Glaubens muss auch noch im Zeitpunkt des Ansuchens um die Einverleibung gegeben sein (JBl 1956, 209; RZ 1968, 178; SZ 47/29; NZ 1980, 78 u.a.).
+Die Beweislast für den mangelnden guten Glauben trifft den Gegner, der sich darauf beruft (3 Ob 553/77; 1 Ob 7/80).
+Der Umfang der Sorgfaltspflicht bestimmt sich nach der Verkehrsübung und nach konkreten Verdachtsmomenten. Bei einer noch nicht rechtskräftigen Voreintragung ist wegen der Gefahr einer Anmerkung nach § 63 Abs 1 GBG besondere Vorsicht geboten (JBl 1991, 44 [Hoyer]; EvBl 1990/41 = RdW 1991, 41). Eine Streitanmerkung nach den §§ 69, 70 GBG schließt den guten Glauben stets aus.
+Nachforschungen im zumutbaren Aufwand (SZ 66/152) sind nur dann anzustellen, wenn sich nach den Umständen des Einzelfalls Bedenken gegen die Richtigkeit oder Vollständigkeit des Grundbuchsstandes ergeben (EvBl 1962/391; 1965/64, JBl 1976, 642; SZ 55/46).
+In Einklang mit dieser zitierten Rechtsprechung hat das Berufungsgericht die Tatsache der Anmerkung von Rekursen gegen die Einverleibung des Eigentumsrechts des Pfandbestellers dahin beurteilt, dass dadurch die Gutgläubigkeit der Beklagten nicht zerstört wurde, sondern allfällig besondere Vorsicht deshalb geboten war, weil im Fall der Stattgebung eines Rekurses das im Rang später eingetragene Pfandrecht gemäß § 57 GBG amtswegig gelöscht worden wäre.
+Erhebliche Rechtsfragen im Sinn des § 502 ZPO, die nicht schon - wie dargestellt - von höchstgerichtlicher Rechtsprechung geklärt worden wären, wirft die gegenständliche Sache nicht auf, solche werden auch im außerordentlichen Rechtsmittel nicht aufgezeigt.
+Die außerordentliche Revision der Kläger war daher zurückzuweisen.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2022
+Geschäftszahl
+8Ob121/22k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart in der Rechtssache der klagenden Partei M* AG, *, vertreten durch die Schönherr Rechtsanwälte GmbH in Wien, gegen die beklagte Partei A* Privatstiftung, *, vertreten durch Dr. Felix Michael Klement, Rechtsanwalt in Wien, wegen 1.500.000 USD sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 28. April 2022, GZ 2 R 133/21z-42, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin führte mit der Beklagten Verhandlungen über den Ankauf von zwei Sägewerken in den USA. Die Beklagte drängte auf einen baldigen Abschluss, weil beide Werke stillstanden, aber trotzdem hohe Betriebskosten verursachten. Demgegenüber verlangte die Klägerin weitere Unterlagen, welche die Beklagte erst beschaffen musste.
+[2] 		Die Beklagte räumte der Klägerin eine Kaufoption ein, die binnen 14 Tagen nach Erhalt bestimmter Unterlagen ausgeübt werden konnte. Im Gegenzug verpflichtete sich die Klägerin zur Finanzierung der laufenden Betriebskosten in der Form eines Kredits an die Betreibergesellschaften, wobei die Beklagte die Rückzahlung für den Fall garantierte, dass die Klägerin die Option nicht ausübt. Die Klägerin hat die Betriebskosten vereinbarungsgemäß bezahlt, die Option aber nicht ausgeübt. Statt dessen versuchte die Klägerin, die Sägewerke im Rahmen des nachfolgenden Insolvenzverfahrens zu erwerben.
+[3] 		Die Vorinstanzen haben die Beklagte zur Rückerstattung der bezahlten Betriebskosten verpflichtet.
+[4] 		 Die außerordentliche Revision der Beklagten ist mangels Vorliegens einer Rechtsfrage von erheblicher Bedeutung nicht zulässig.
+Rechtliche Beurteilung
+[5] 		1. Die geltend gemachte Mangelhaftigkeit des Berufungsverfahrens wurde vom Obersten Gerichtshof geprüft, liegt jedoch nicht vor (§ 510 Abs 3 ZPO).
+[6] 		2. Das österreichische Recht kennt grundsätzlich keine abstrakten Verpflichtungsgeschäfte (RIS-Justiz RS0114623; RS0014027). Eine abstrakte zweipersonale Garantie ist deshalb nicht zulässig (8 Ob 147/17a; 10 Ob 20/20v). Hier liegt aber ein dreipersonales Verhältnis vor, weil die Beklagte eine Garantie für die kreditvertragliche Rückzahlungsverpflichtung der Sägewerke übernommen hat. Ein solcher Garantievertrag ist kein abstraktes Schuldverhältnis, weil er auf einen Sicherungszweck bezogen ist (RS0016946). Nach ständiger Rechtsprechung sind solche Garantieverträge deshalb zulässig, obwohl sie zu einer von der Hauptforderung unabhängigen und in diesem Sinn abstrakten Verpflichtung führen (RS0061794).
+[7] 		3. Es besteht keine allgemeine Rechtspflicht, den Geschäftspartner über alle Umstände aufzuklären, die auf seine Entscheidung einen Einfluss haben können (RS0044348). Eine Aufklärungspflicht besteht nur, wenn der andere Teil nach den Grundsätzen des redlichen Verkehrs eine Aufklärung erwarten durfte (RS0014811; RS0016390). Beabsichtigt der Verhandlungspartner, im Vertrauen auf eine abgegebene Erklärung selbst Verbindlichkeiten einzugehen, ist er deshalb unter Umständen darauf hinzuweisen, dass man noch keinerlei Bindung entstehen lassen will (RS0014680).
+[8] 		4. Wann eine Aufklärungspflicht besteht, ist aber stets nach den Umständen des Einzelfalls zu beurteilen (RS0111165). Die Rechtsansicht des Berufungsgerichts, dass im vorliegenden Fall keine solche Aufklärungspflicht bestanden habe, weil bereits Vereinbarungen für den Fall getroffen wurden, dass die Klägerin diese Option nicht ausübt, sodass die Beklagte keinen Grund zur Annahme hatte, dass der Kaufvertrag jedenfalls zustande kommen würde, ist nicht korrekturbedürftig.
+[9] 		5. Das Verbot von Verfallsklauseln in § 1371 ABGB soll den Pfandbesteller davor schützen, dass er sich in dem Vertrauen, er werde seine Schuld begleichen können, zur Aufgabe eines die Forderung des Gläubigers übersteigenden Vermögenswerts verpflichtet (RS0075180). Das Berufungsgericht hat zutreffend darauf hingewiesen, dass § 1371 ABGB im vorliegenden Fall schon deshalb nicht (analog) anzuwenden ist, weil die Option zum Erwerb der Sägewerke insoweit keine Sicherungsfunktion hatte.
+[10] 		6. Die von der Beklagten thematisierte Frage der Sittenwidrigkeit einer zeitlich unbefristeten Bindung an einen Optionsvertrag stellt sich nicht, weil die Option der Klägerin mit 14 Tagen nach Erhalt der zugesagten Unterlagen befristet war.
+[11] 		7. Das Rechtsmittel ist daher mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00121.22K.1121.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.12.1970
+Geschäftszahl
+3Ob143/70
+Norm
+EO §7 Abs2;
+EO §10;
+EO §355;
+Kopf
+SZ 43/224
+Spruch
+Exekution zur Hereinbringung einer Konventionalstrafe wegen Verletzung einer durch gerichtlichen Vergleich übernommenen Unterlassungsverpflichtung nur bei urkundlichem Nachweis des Zuwiderhandelns
+OGH 9. Dezember 1970, 3 Ob 143/70 (OLG Linz 3 R 179/70; LG Linz 9 Cg 877/69)
+Text
+Mit dem am 9. Oktober 1969 geschlossenen gerichtlichen Vergleich verpflichteten sich die Verpflichteten unter anderem den Vertrieb von "S" Trockenkopiergeräten, welcher Type immer, welche nicht die unversehrte Etikette einschließlich Originalerzeugungsnummer aufweisen und von nicht in der Originalverpackung befindlichen "S"- Zwischenträger- und Kopierpapieren, welcher Type immer, zu unterlassen und bei Zuwiderhandeln gegen diese Verpflichtung der betreibenden Gläubigern oder der allfälligen Rechtsnachfolgerin eine Konventionalstrafe von 80.000 S bei Exekution zu bezahlen.
+Mit der Behauptung, die Verpflichteten hätten gegen die im Vergleich übernommene Verpflichtung verstoßen, beantragt die betreibende Gläubigerin zur Durchsetzung ihres Unterlassungsanspruches Exekution nach § 355 EO und zur Hereinbringung der Konventionalstrafe von 80.000 S Fahrnisexekution.
+Der Erstrichter bewilligte die Exekution antragsgemäß. Infolge Rekurses der Verpflichteten bestätigte das Rekursgericht die Exekutionsbewilligung zur Erwirkung der Unterlassungen, änderte jedoch den erstrichterlichen Beschluß, soweit dieser die Fahrnisexekution zur Hereinbringung der Konventionalstrafe bewilligt hatte, i S der Abweisung dieses Antrages ab. Diese Abweisung begrundete das Rekursgericht damit, daß die Verletzung des Unterlassungsgebotes Voraussetzung für die Verpflichtung zur Zahlung der Konventionalstrafe sei. Den Nachweis der Verletzung habe die betreibende Gläubigerin durch Vorlage öffentlicher oder öffentlich beglaubigter Urkunden zu erbringen. Die Behauptung eines Zuwiderhandelns gegen das Unterlassungsgebot genüge zwar für die Exekutionsführung nach § 355 EO, nicht jedoch für die Exekutionsführung zur Hereinbringung der für den Fall des Zuwiderhandelns vollstreckbaren Konventionalstrafe.
+Der Oberste Gerichtshof gab dem Revisionsrekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Den Ausführungen der betreibenden Gläubigerin ist entgegenzuhalten, daß es im vorliegenden Fall nicht entscheidend ist, ob das im Vergleich ausgesprochene Unterlassungsgebot mit der Verpflichtung zur Zahlung einer Konventionalstrafe in untrennbarem Zusammenhang steht. Maßgebend ist vielmehr, wie das Rekursgericht zutreffend ausgeführt hat, daß nach dem eindeutigen Wortlaut des Vergleiches die Verpflichtung zur Zahlung einer Konventionalstrafe von dem Zuwiderhandeln der Verpflichteten gegen das Unterlassungsgebot abhängt. Das Entstehen der Verpflichtung zur Zahlung der Konventionalstrafe und die Fälligkeit dieser Schuld sind daher von dem Eintritt einer Tatsache, nämlich dem Zuwiderhandeln gegen das Unterlassungsgebot, abhängig. Da sich sohin die Fälligkeit nicht aus dem Exekutionstitel selbst ergibt, muß gem § 7 Abs 2 EO der Eintritt der für die Fälligkeit maßgebenden Tatsachen mittels öffentlicher oder öffentlich beglaubigter Urkunden nachgewiesen werden. Kann ein derartiger Nachweis nicht erbracht werden, so steht dem betreibenden Gläubiger die Möglichkeit der Ergänzungsklage nach § 10 EO offen. Die Ansicht des betreibenden Gläubigers, die bloße Behauptung des Zuwiderhandelns genüge, widerspricht dem Gesetz.

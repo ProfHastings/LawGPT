@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.09.1980
+Geschäftszahl
+1Ob647/80
+Norm
+ABGB §1096;
+ABGB §1097;
+ABGB §1109;
+ABGB §1111;
+ABGB §1112;
+Haager Minderjährigenschutzabkommen, BGBl. 446/1975 Art1;
+Kopf
+SZ 53/116
+Spruch
+Der langjährige Pächter einer Landwirtschaft, der vertraglich zur Erhaltung der Inventargegenstände in dem Zustand, in dem sie sich zur Zeit der Pachtübernahme befanden, verpflichtet ist, kann vom Verpächter den Aufwand für die Erneuerung eines kurzlebigen Wirtschaftsgutes wie eines Boilers nicht verlangen
+OGH 17. September 1980, 1 Ob 647/80 (LG Klagenfurt 3 R 6/80; BG St. Veit an der Glan 5 C 245/79)
+Text
+Der Beklagte verpachtete am 20. März 1972 dem Kläger einen Teil der Liegenschaften EZ 103, 104 und 149 KG Z mit einem Ausmaß von 23 842 ha samt dem darauf befindlichen Wohnhaus und Wirtschaftsgebäude, einem Geräteschuppen und einem Schweinestall auf die Dauer von zehn Jahren zu einem wertgesicherten Pachtzins von jährlich 30 000 S. Die Punkte VI Abs. 1 und IX Abs. 1 bis 3 des Pachtvertrages haben folgenden Wortlaut:
+"VI. Bewirtschaftung.
+Der Pächter ist zur ordnungsgemäßen Wirtschaftsführung bzw. Bewirtschaftung der Liegenschaft sowie zur entsprechenden Erhaltung der Baulichkeiten und Inventargegenstände ebenso wie zur Haltung des erforderlichen Viehstandes verpflichtet.
+IX. Gebäudeinstandhaltung und Neubauten.
+Gebäude und Einrichtungen sind in dem Zustand zu erhalten, in dem sie sich zur Zeit der Pachtübernahme befunden haben.
+Die laufende Unterhaltung und die gewöhnlichen Ausbesserungen der Wohn- und Wirtschaftsbauten, Wege und Gräben sowie Einfriedungen obliegen dem Pächter auf seine Kosten.
+Der Verpächter hingegen ist verpflichtet, alle über das gewöhnliche Ausmaß hinausgehenden Instandsetzungen zu übernehmen, sofern die Ausbesserungen nicht durch Verschulden oder durch grobe Fahrlässigkeit des Pächters veranlaßt werden.
+In dem verpachteten Wohnhaus befand sich ein 1969 neu installierter Warmwasserboiler samt Ausdehnungsgefäß. Im Jahre 1977 wurde das Gerät durch nicht vom Kläger verschuldetes Rosten undicht. Davon benachrichtigte der Kläger den Beklagten, der die Übernahme der Kosten der Erneuerung des Gerätes ablehnte. Eine technisch mögliche Reparatur wäre teurer gekommen als die Neuanschaffung eines Boilers.
+Der Kläger begehrt den Zuspruch des Betrages von 9225.49 S für die von ihm bezahlte Neuanschaffung des Gerätes.
+Die Beklagte wendete ein, auf Grund des Pachtvertrages müsse der Kläger während der Pachtzeit unbrauchbar gewordene Einrichtungsgegenstände aus eigenem ersetzen.
+Das Erstgericht gab dem Klagebegehren statt. Punkt IX des Pachtvertrages unterscheide zwischen gewöhnlichen und über das gewöhnliche Ausmaß hinausgehende Instandsetzungen. Die Notwendigkeit, einen schadhaft gewordenen Boiler zu erneuern, sei ein über das gewöhnliche Ausmaß hinausgehendes Ereignis.
+Mit dem angefochtenen Urteil gab das Berufungsgericht der Berufung der Beklagten Folge und wies das Klagebegehren ab.
+Gemäß Punkt VI des Pachtvertrages sei der Kläger zur Erhaltung des Inventars, wozu auch der Boiler gehöre, verpflichtet. Zur Erhaltung des Inventars gehöre aber auch die Erneuerung eines unbrauchbar gewordenen Gegenstandes. Dies ergebe sich auch daraus, daß der Bestandgeber gemäß § 1112 ABGB eine untergegangene Bestandsache nicht wiederherstellen müsse und der Bestandnehmer gemäß § 1109 ABGB die Bestandsache in dem Zustand, in dem er sie übernommen habe, an den Bestandgeber zurückzustellen habe.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+§ 1096 ABGB bestimmt die Pflichten des Bestandgebers während der Dauer des Bestandvertrages, § 1109 ABGB enthält die Rückstellungspflicht des Bestandnehmers nach geendigtem Bestandvertrag.
+Beide Vorschriften enthalten dispositives Recht (§ 1096 ABGB; MietSlg. 28.124, 26.100, 19.104; SZ 24/163 u. a.; Koziol - Welser[5] I, 301; § 1109 ABGB; MietSlg. 29.171, 25.141, 24.153, 23.167, 5607 u. a.). Die gesetzliche Regelung des § 1109 ABGB, nach geendigtem Bestandvertrag sei dem Bestandnehmer die Sache in dem Zustand, in welchem er sie übernommen hat, zurückzustellen, ist zwar an sich einschränkend dahin auszulegen, daß der Bestandnehmer für die durch den vertragsmäßigen Gebrauch bewirkte Abnutzung des Bestandgegenstandes nicht aufzukommen hat (MietSlg. 29.171; ImmZ 1977, 22; SZ 43/142; Klang[2] V, 90, 92); der Pachtvertrag vom 20. Juli 1972 enthält aber in seinen Punkten VI Abs. 1 und IX Abs. 1 eine von den Bestimmungen der §§ 1096 und 1109 ABGB abweichende Regelung. Der Kläger ist zur Erhaltung der Inventargegenstände verpflichtet, Einrichtungen sind in dem Zustand zu erhalten, in dem sie sich zur Zeit der Pachtübernahme befunden haben. Unter Inventar ist Zugehör im Sinne der §§ 294 ff. ABGB zu verstehen (SZ 25/102 u. a.). Auch der Boiler fällt unter den Begriff "Inventar" und "Einrichtungen". Die Vertragspunkte VI Abs. 1 und IX Abs. 1 können im Zusammenhalt nur dahin verstanden werden, daß der Kläger auch während der Bestanddauer, über die Haftung des § 1111 ABGB hinaus, für die Kosten der Beseitigung aller Schäden und Abnützungserscheinungen an Inventar und Einrichtungen aufzukommen hat, somit selbst für solche, die als Folge vertragsgemäßen Gebrauchs der Bestandsache aufgewendet werden müßten. Entgegen den Ausführungen in der Revision kann aber der Begriff "erhalten" nicht so eng ausgelegt werden, daß darunter nur Ausbesserungen oder Instandsetzungen zu verstehen wären. Gerade bei kurzlebigen Wirtschaftsgütern und insbesondere bei solchen, deren Lebensdauer etwa der Vertragsdauer entspricht, kann der Kläger seiner Verpflichtung der Erhaltung der Einrichtungen in dem Zustand, in dem sie sich zur Zeit der Pachtübernahme befunden haben, nur dadurch nachkommen, daß er sie ersetzt; anders wäre er nicht in der Lage, seine vertragsmäßige Rückstellungsverpflichtung erfüllen zu können. Jedenfalls kann er den Ersatz eines tatsächlichen Aufwandes nicht verlangen. Entgegen der Ansicht des Erstgerichtes beziehen sich die Vertragspunkte IX Abs. 2 und 3 nicht auf unbrauchbar gewordene, kurzlebige Inventargegenstände. Wohn- und Wirtschaftsbauten, Wege, Gräben und Einfriedungen, für die allein in den genannten Vertragsbestimmungen eine Aufteilung der Instandsetzungspflichten nach dem Kriterium der Gewöhnlichkeit vereinbart war, sind kein Inventar. Es kommt also nicht darauf an, ob die Erneuerung des unbrauchbar gewordenen Boilers unter den Begriff "gewöhnliche Ausbesserungen" subsumiert werden könnte.

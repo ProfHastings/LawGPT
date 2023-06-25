@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.11.1981
+Geschäftszahl
+7Ob642/81
+Norm
+ABGB §1109;
+HGB §377;
+Kopf
+SZ 54/175
+Spruch
+Die Rügepflicht beim Handelskauf gilt nicht für Schäden an der rückgestellten gemieteten Sache
+OGH 26. November 1981, 7 Ob 642/81 (LGZ Graz 3 R 59/81; BG Hartberg 2 C 180/80)
+Text
+Die klagende Partei begehrt den Ersatz der einem Dritten bezahlten Kosten für die Reparatur von Kanalverbauelementen, die sie im Frühjahr 1979 der beklagten Partei vermietet hatte, auf Grund der Vereinbarung, daß sie die während der Bestandzeit entstandenen Schäden auf eigene Rechnung beheben und den Ersatz dieser Auslagen vom Mieter fordern könne.
+Im Revisionsverfahren ist nur noch strittig, ob die klagende Partei zur sofortigen Rüge der Beschädigungen anläßlich der Rückstellung des Mietgegenstandes verpflichtet gewesen wäre. Der Erstrichter hatte diese Frage bejaht und das Klagebegehren demnach abgewiesen. Das Berufungsgericht verneinte die Rügepflicht und gab dem Klagebegehren statt.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+§ 377 HGB bestimmt die Rügepflicht ausdrücklich nur für den Handelskauf. Nach § 381 HGB gilt die Vorschrift überdies für den Kauf von Wertpapieren (Abs. 1) und für die Herstellung einer nicht vertretbaren beweglichen Sache aus einem vom Unternehmer zu beschaffenden Stoff (Abs. 2). Schließlich unterliegt auch die Herstellung einer vertretbaren Sache aus dem Material des Unternehmers der kaufmännischen Rügepflicht deshalb, weil nach § 1166 ABGB ein solcher Vertrag im Zweifel als Kaufvertrag zu betrachten ist. Diese gesetzliche Regelung würde eine analoge Anwendung auf ähnliche Rechtsgeschäfte allerdings nicht ausschließen, wenn eine Lücke im Gesetz erkennbar wäre. So wendet die Lehre in der Bundesrepublik Deutschland § 377 HGB "ohne weiteres" auf den Handelstausch (Brüggemann, HGB[3] IV, 363) und überdies auf kaufähnliche Geschäfte an, die auf Veräußerung von Waren oder Wertpapieren gegen Entgelt gerichtet sind (Brüggemann a. a.O.; Schlegelberger, HGB[4] III, 2078). Der OGH hat hingegen die Vorschriften über die sofortige Rügepflicht nach § 377 HGB für den Handelstausch nicht anwendbar erklärt (HS 233, EvBl. 1958/8 = HS 1769). Eine neuerliche Prüfung der zuletzt aufgezeigten Rechtsfrage (vgl. hiezu auch SZ 43/72 und Holzhammer - Rinner, Handelsrecht, 90) erübrigt sich aber hier schon deshalb, weil selbst im weiteren Sinne der deutschen Auslegung ein Mietvertrag nicht als ein kaufähnliches Geschäft, das auf die Veräußerung von Waren oder Wertpapieren gegen Entgelt zielt, angesehen werden kann, sodaß § 377 HGB darauf jedenfalls keine Anwendung findet (Brüggemann a.a.O., 364), was umso mehr für die Rückstellung der gemieteten Sache gilt. Hier obliegt dem Vermieter bloß, aber immerhin, der Beweis der Rückstellung der Sache im beschädigten Zustand. Da die Feststellungen hierüber im vorliegenden Fall nicht bekämpft sind, wurde dem Klagebegehren von der zweiten Instanz mit Recht stattgegeben.

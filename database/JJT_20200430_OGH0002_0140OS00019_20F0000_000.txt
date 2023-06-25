@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.04.2020
+Geschäftszahl
+14Os19/20f
+Kopf
+Der Oberste Gerichtshof hat am 30. April 2020 durch den Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Danek als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Mag. Hetlinger, den Hofrat des Obersten Gerichtshofs Dr. Nordmeyer sowie die Hofrätinnen des Obersten Gerichtshofs Dr. Mann und Dr. Setz-Hummel in der Strafsache gegen ***** K***** wegen des Verbrechens des betrügerischen Datenverarbeitungsmissbrauchs nach § 148a Abs 1 und 2 erster und dritter Fall StGB über die Nichtigkeitsbeschwerde der Staatsanwaltschaft gegen das Urteil des Landesgerichts für Strafsachen Graz als Schöffengericht vom 10. Jänner 2020, GZ 17 Hv 62/19a-17, nach Anhörung der Generalprokuratur gemäß § 62 Abs 1 zweiter Satz OGH-Geo 2019 den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Text
+Gründe:
+Mit dem angefochtenen Urteil wurde ***** K***** von der wider ihn erhobenen Anklage (ON 9), er habe im Zeitraum von Jänner 2014 bis zumindest Ende 2016 (in G*****) mit auf unrechtmäßige Bereicherung gerichtetem Vorsatz die S***** Gebietskrankenkasse dadurch am Vermögen geschädigt, dass er das Ergebnis einer automationsunterstützten Datenverarbeitung durch Eingabe von Daten beeinflusste, indem er in wiederholten Angriffen die an seine Dienstnehmer über den Kollektivvertrag in Form von Umsatzbeteiligungen ausbezahlten Löhne gegenüber seinem vorsatzlos handelnden Steuerberater verschwieg und dadurch veranlasste, über das elektronische System „ELDA“ inhaltlich falsche, von den tatsächlich angefallenen Sozialversicherungsbeiträgen abweichende Beitragsnachweise und Jahreslohnzettel zu erfassen, wobei er durch die Nichtabfuhr der tatsächlich angefallenen Sozialversicherungsbeiträge einen Schaden von 1.519.727,88 Euro herbeiführte und die (mehr als zwei) Taten in der Absicht ausführte, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, gemäß § 259 Z 3 StPO freigesprochen.
+Rechtliche Beurteilung
+Dagegen richtet sich die auf § 281 Abs 1 Z 5 und 9 lit a StPO gestützte Nichtigkeitsbeschwerde der Staatsanwaltschaft, die einen Schuldspruch nach § 148a Abs 1 und 2 erster und zweiter Fall StGB anstrebt. Sie verfehlt ihr Ziel.
+Gründet das Gericht einen Freispruch auf die Annahme, dass mehrere Tatbestandsmerkmale nicht erfüllt sind, und trifft es zu diesen (negative) Feststellungen, setzt eine erfolgreiche, (hier:) auf § 281 Abs 1 Z 5 und 9 lit a StPO gestützte Urteilsanfechtung voraus, dass alle die Tatbestandsverwirklichung ausschließenden Konstatierungen (deutlich und bestimmt) als mangelhaft begründet (Z 5) bekämpft werden (RIS-Justiz RS0127315 [T4]).
+Im vorliegenden Fall traf das Schöffengericht (im Rahmen der Beweiswürdigung auf US 3) zum – für die Erfüllung des Tatbestands nach § 148a StGB erforderlichen (Kirchbacher/Sadoghi in WK2 StGB § 148a Rz 24) – Vorsatz des Angeklagten, das Ergebnis einer automationsunterstützten Datenverarbeitung zu beeinflussen, Negativfeststellungen. Diese bekämpft die Beschwerde lediglich nach Art einer im kollegialgerichtlichen Verfahren unzulässigen Schuldberufung, indem sie – unter Bezugnahme auf konkrete Beweisergebnisse und mit deren eigenständiger Würdigung – einen ebensolchen Vorsatz enthaltende „Ersatzfeststellungen“ begehrt (RIS-Justiz RS0118580 [T25]).
+Die nicht erfolgreich bekämpften Negativfeststellungen zum Vorsatz der Beeinflussung einer automationsunterstützten Datenverarbeitung stehen der von der Staatsanwaltschaft angestrebten Subsumtion und somit einer erfolgreichen Urteilsanfechtung entgegen. Damit erübrigt sich ein Eingehen auf das weitere Beschwerdevorbringen aus Z 5 (vgl RIS-Justiz RS0127315 [T3]) und geht auch die Rechtsrüge (Z 9 lit a) von vornherein ins Leere.
+Die Nichtigkeitsbeschwerde der Staatsanwaltschaft war daher – in Übereinstimmung mit der Stellungnahme der Generalprokuratur – bereits bei der nichtöffentlichen Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0140OS00019.20F.0430.000

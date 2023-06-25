@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.08.2020
+Geschäftszahl
+6Ob163/20v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden und durch die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei M*****, vertreten durch Dr. Wolfgang Schöberl, Rechtsanwalt in Wien, gegen die beklagte Partei K*****, vertreten durch DDr. Hans Wagner, Rechtsanwalt in Wien, wegen Räumung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 24. April 2020, GZ 40 R 97/20s-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Gemäß § 502 Abs 2 ZPO ist die Revision jedenfalls unzulässig, wenn der Streitgegenstand, über den das Berufungsgericht entschieden hat (Entscheidungsgegenstand), an Geld oder Geldeswert 5.000 EUR nicht übersteigt. Diese Revisionsbeschränkung gilt gemäß Abs 5 Z 2 dieser Bestimmung nicht für die unter § 49 Abs 2 Z 5 JN fallenden Streitigkeiten, wenn dabei über eine Kündigung, über eine Räumung oder über das Bestehen oder Nichtbestehen des Vertrags entschieden wird.
+1.2. Klagen auf Räumung von Wohn- und Geschäftsräumlichkeiten, die auf eine – von Anfang an – behauptete titellose Benützung gestützt sind, gehören nicht zu den Streitigkeiten, die ohne Rücksicht auf den Wert des Entscheidungsgegenstands unter die Zuständigkeitsvorschrift des § 49 Abs 2 Z 5 JN fallen (RS0046865). Ist hingegen schon nach den Klagebehauptungen das Bestehen oder Nichtbestehen eines Bestandvertrags im Rahmen des Räumungsstreits strittig, etwa weil der Räumungsanspruch wegen titelloser Benützung nach dem Klagevorbringen auf die Rechtsunwirksamkeit (3 Ob 91/03h) oder die Beendigung  von Mietverträgen (6 Ob 228/06g) über die vom Räumungsbegehren erfassten Objekte gestützt wurde,  hängt die Zulässigkeit der Revision nicht vom Streitwert ab (RS0046865 [T13]).
+1.3. Im vorliegenden Fall war nach dem Klagevorbringen zwischen den Parteien strittig, ob das zu räumende Objekt vom Beklagten angemietet worden war. Daher hängt die Zulässigkeit der Revision gemäß § 502 Abs 2 Z 2 ZPO nicht vom Streitwert ab.
+1.4. Einer Berichtigung des zweitinstanzlichen Urteils durch den Nachtrag eines Zulässigkeitsausspruchs iSd § 500 Abs 2 Z 3 ZPO bedarf es jedoch nicht, weil die Revision der Klägerin ohnedies als außerordentliche Revision ausgeführt wurde (RS0042424 [T2]).
+2.1. Die außerordentliche Revision der Klägerin ist aber nicht zulässig, weil sie keine Rechtsfrage der Qualität des § 502 Abs 1 ZPO aufzeigt:
+2.2. Ob eine konkludente Willenserklärung vorliegt und welchen Inhalt sie gegebenenfalls hat, ist regelmäßig einzelfallbezogen und begründet daher im Allgemeinen keine Rechtsfrage erheblicher Bedeutung (RS0081754 [T6]).
+2.3. Nach den Feststellungen wurde bei Abschluss des Mietvertrags über eine hier nicht gegenständliche Wohnung im Jahr 1982 vereinbart, dass dem Beklagten bei Vorliegen einer Verzichtserklärung aller Mieter auch das Benützungsrecht an der Waschküche zustehe, wozu eine gesonderte Benützungsvereinbarung getroffen werden sollte. Der Beklagte nutzt die Waschküche seit Jahrzehnten alleine als Abstellraum. 1997 informierte die Hausverwaltung die Mieter schriftlich darüber, dass sich im Jahr 1981 sämtliche Mieter mit dem Wegfall der Waschküche einverstanden erklärt hätten, wobei der beigeschlossenen Unterschriftenliste zu entnehmen war, dass nicht alle Mieter Verzichtserklärungen abgegeben hatten. Nach dem Klagevorbringen bekundeten erst im Jahr 2018 andere Mieter Interesse an der Nutzung als Waschküche.
+2.4. Bei dieser Sachlage begründet es keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung, wenn das Berufungsgericht die schlüssige Ausweitung des Mietvertrags des Beklagten auf den Raum der Waschküche annahm, weil nicht nur von der vereinbarten Schriftform (vgl RS0014378), sondern auch vom Erfordernis einer gesonderten Nutzungsvereinbarung einverständlich abgegangen werden kann.
+Die außerordentliche Revision war daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00163.20V.0828.000

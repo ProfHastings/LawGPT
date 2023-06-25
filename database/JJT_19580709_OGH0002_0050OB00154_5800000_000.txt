@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.07.1958
+Geschäftszahl
+5Ob154/58
+Norm
+ABGB §448;
+ABGB §1090;
+ABGB §1095;
+EO §320;
+EO §374 Abs1;
+Grundbuchsgesetz 1955 §9;
+Grundbuchsgesetz 1955 §13;
+Kopf
+SZ 31/98
+Spruch
+Das im Grundbuch einverleibte Bestandrecht kann nicht Gegenstand einer Pfandrechtseinverleibung sein.
+Entscheidung vom 9. Juli 1958, 5 Ob 154/58.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Das Erstgericht wies den Antrag der betreibenden Partei ab, zur Sicherung ihrer Forderung von 62.000 S s. A. für die Zeit, bis die Forderung infolge Rechtskraft des hierüber ergangenen Urteils und Ablaufes der Leistungsfrist durch Zwangsvollstreckung geltend gemacht werden könne, die Exekution durch bücherliche Vormerkung des Pfandrechtes auf dem der verpflichteten Partei zustehenden, unter EZ. 186 der Katastralgemeinde N. auf Grund des Pachtvertrages vom 21. Oktober 1948 einverleibten Bestandrechte zu bewilligen.
+Das Rekursgericht änderte diese Entscheidung dahin ab, daß es die beantragte Pfandrechtsvormerkung bewilligte.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der verpflichteten Partei Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 374 Abs. 1 EO. sieht die Vormerkung des Pfandrechtes auf an Liegenschaften haftenden Rechten als Sicherungsmittel vor. Da das im Grundbuch einverleibte Bestandrecht ein solches Recht ist, wäre die Vormerkung des Pfandrechtes an diesem Rechte durch den Wortlaut der genannten Gesetzesstelle gedeckt. Eine andere Frage ist aber die, ob überhaupt die Begründung eines Pfandrechtes an einem Bestandrecht möglich ist. Nun erachtet allerdings ein Teil der Lehre (so Neumann - Lichtblau, Kommentar zur EO., 3. Aufl. II S. 1029 f.) übereinstimmend mit einzelnen Entscheidungen des Obersten Gerichtshofes (s. ZBl. 1896 Nr. 413) die Begründung von Pfandrechten an Bestandrechten für zulässig. Es wird dabei dem Bestandrecht hypothekarischer Charakter beigelegt und damit die Möglichkeit der Eintragung eines Afterpfandrechtes eröffnet. Dem Obersten Gerichtshof erscheint diese Ansicht unvertretbar. Das Afterpfandrecht kann nur an im Grundbuch einverleibten Hypothekarforderungen begrundet werden, wie sich aus § 13 Abs. 2 GBG. 1955 ergibt. Zutreffend weist das Erstgericht darauf hin, daß in anderen gesetzlichen Bestimmungen außerhalb des Grundbuchsgesetzes weitere Fälle von Pfandrechtseinverleibungen geregelt sind. Daß jedoch an einem Bestandrecht ein Pfandrecht begrundet werden kann, sagt weder die Exekutionsordnung noch das Allgemeine bürgerliche Gesetzbuch und schon gar nicht das Grundbuchsgesetz. Im Grundbuche sind nur solche Rechte einzutragen, deren Einverleibung oder Vormerkung ein Gesetz vorsieht (s. auch SZ. XII 179). Der Einverleibung des Bestandrechtes kommt überdies nur die Wirkung zu, daß ein späterer Erwerber der Liegenschaft entgegen der Regel des § 1120 ABGB. an den einverleibten Bestandvertrag gebunden ist. Eine allgemein dingliche Wirkung gegenüber anderen Personen führt die Eintragung nicht herbei (SZ. XXIII 121). Auch darin zeigt sich, daß das einverleibte Bestandrecht nicht Gegenstand einer Pfandrechtseinverleibung sein kann. Damit ist auch die sinngemäße Heranziehung der auf die Forderungspfändung zugeschnittenen Bestimmung des § 320 EO. (so SZ. III 83) nicht möglich. Die Pfändung von Miet- und Pachtrechten hat vielmehr ausschließlich durch Erlassung eines Verfügungsverbotes an den Verpflichteten nach § 331 EO. zu erfolgen.
+Aus diesen Erwägungen ist die Pfändung von Bestandrechten durch Vormerkung eines Pfandrechts abzulehnen.

@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob170/20f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei A***** N*****, vertreten durch Dr. Hausberger, Dr. Moritz, Dr. Schmidt, Rechtsanwälte in Wörgl, gegen die beklagte Partei A*****Aktiengesellschaft, *****, vertreten durch  Dr. Nikolaus Friedl, Rechtsanwalt in Wien, wegen 139.686,52 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Mai 2020, GZ 129 R 163/19t-28, womit das Urteil des Handelsgerichts Wien vom 24. Oktober 2019, GZ 63 Cg 15/16z-22, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 2.327,40 EUR (darin enthalten 387,90 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Rechtliche Beurteilung
+1. Zwischen den Streitteilen besteht ein Betriebshaftpflichtversicherungsvertrag, dem unter anderem die Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB 2006) zugrunde liegen, die auszugsweise lauten:
+„Art 1 Was gilt als Versicherungsfall und was ist versichert?
+[...]
+2. Versicherungsschutz
+2.1 Im Versicherungsfall übernimmt der Versicherer
+2.1.1 die Erfüllung von Schadenersatzverpflichtungen, die dem Versicherungsnehmer wegen eines Personenschadens, eines Sachschadens oder eines Vermögensschadens, der auf einen versicherten Personen- oder Sachschaden zurückzuführen ist, aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts erwachsen (in der Folge kurz: „Schadenersatzverpflichtungen“ genannt).
+2.1.2 Die Kosten der Feststellung und der Abwehr einer von einem Dritten behaupteten Schadenersatzverpflichtung im Rahmen des Art 5, Punkt 5 AHVB […]
+Art 7 Was ist nicht versichert? (Risikoausschlüsse)
+1. Unter die Versicherung gemäß Art 1 AHVB fallen insbesondere nicht:
+1.1 Ansprüche aus Gewährleistung für Mängel;
+1.2 Ansprüche, soweit sie aufgrund eines Vertrags oder einer besonderen Zusage über den Umfang der gesetzlichen Schadenersatzpflicht hinausgehen;
+1.3 die Erfüllung von Verträgen und die an die Stelle der Erfüllung tretende Ersatzleistung […].“
+2.1 In der Betriebshaftpflichtversicherung ist grundsätzlich nicht die Ausführung der bedungenen Leistung versichert (RS0081685). Die Versicherung erstreckt sich daher nicht auf Erfüllungssurrogate (RS0081685 [T1]). Der Versicherungsschutz umfasst bei der Betriebshaftpflichtversicherung nur jenen Schaden, der über das Erfüllungsinteresse des Dritten an der Leistung des Versicherten hinausgeht (RS0081898). Die Kosten für die von einem Dritten vorgenommene Verbesserung der mangelhaften Leistung des Versicherten fallen daher ebenfalls nicht in die Betriebshaftpflichtversicherung (RS0081685).
+2.2 Die Werkbesteller beauftragten den Kläger mit Estricharbeiten. Die Arbeiten des Klägers waren mangelhaft. Nur wenn die Styroloseschüttung statt mit einer Höhe von 6,5 cm mit einer Höhe von 10 cm und unter Verwendung von Kies anstelle von Styrolose aufgebracht worden wäre – was im konkreten Fall auch möglich gewesen wäre –, hätte dies ausgereicht, um – ohne Berücksichtigung der Deckenunterkonstruktion – den Trittschallpegel von 48 dB nicht zu überschreiten und damit die vereinbarte ÖNORM einzuhalten.
+2.3 Diesen konkreten Sachverhalt beurteilte der Oberste Gerichtshof bereits in der – im Haftpflichtprozess zwischen Werkbestellern und Kläger ergangenen – Entscheidung (9 Ob 83/18y) rechtlich dahin: Die Auslegung des Werkvertrags ergibt, dass es ausschließlich dem Kläger mit der konkreten Ausgestaltung des Werks oblag, seine vertragliche Leistungspflicht zu erfüllen. Es liegt Schlechterfüllung vor, die zu Gewährleistungs- und Schadenersatzansprüchen führt.
+2.4 Die Rechtsansicht des Berufungsgerichts, der Austausch der Schüttung habe ausschließlich der – wenn auch nur teilweisen – Verbesserung der mangelhaften Werkleistung des Klägers gedient, sodass die von den Werkbestellern geforderte Ersatzleistung als Erfüllungssurrogat dem Risikoausschluss des Art 7.1.3 AHVB unterliege, entspricht der  dargestellten oberstgerichtlichen Rechtsprechung.
+2.5 Soweit der Kläger dem entgegen hält, tatsächlich sei im Haftpflichtprozess bindend der Zuspruch dieses Verbesserungsaufwands als Schadenersatz wegen Warnpflichtverletzungen erfolgt, was der Qualifikation als Erfüllungssurrogat entgegenstehe, übergeht er schon, dass diese vom Berufungsgericht im Haftpflichtprozess vorgenommene Beurteilung vom Obersten Gerichtshof nicht aufrecht erhalten wurde.
+3.1 Nach ständiger Rechtsprechung des erkennenden Fachsenats umfasst der Versicherungsschutz in der Haftpflichtversicherung die den Umständen nach gebotenen gerichtlichen und außergerichtlichen Kosten der Feststellung und Abwehr einer von einem Dritten behaupteten Schadenersatzpflicht, aber nur jene Ansprüche betreffend, die grundsätzlich von der Deckungspflicht des Versicherers umfasst sind. Die Kostendeckung für die Anspruchsfeststellung und -abwehr reicht daher nicht weiter als das materiell gedeckte Risiko (RS0132326).
+3.2 Die Vorinstanzen sind von diesen Grundsätzen ausgegangen, indem sie vor dem Hintergrund der Geltendmachung von nicht versicherten Erfüllungssurrogaten (Verbesserungskosten) und von – von der Beklagten mittlerweile unbekämpft – versicherten Mangelfolgeschäden (Mietentgang) für die im Haftpflichtprozess den Werkbestellern zugesprochenen und dem Kläger entstandenen Kostenbeträge Versicherungsdeckung nur (quotenmäßig) für jene Kosten bejahten, die den versicherten Schadenersatzanspruch betrafen.
+3.3 Soweit der Kläger dagegen ausschließlich einwendet, aufgrund Anspruchskonkurrenz bestehe Deckungspflicht der Beklagten für sämtliche Prozesskosten des Haftpflichtverfahrens, ist ihm entgegenzuhalten, dass zwischen dem Anspruch auf Ersatz der Verbesserungskosten und jenem auf Ersatz des Mietausfalls keine Anspruchskonkurrenz besteht. Bei einer solchen lösen nämlich mehrere Tatbestände einen auf dieselbe Leistung gerichteten Anspruch desselben Gläubigers gegen denselben Schuldner aus (4 Ob 62/09k). Das heißt, Anspruchskonkurrenz besteht nur, wenn der Gläubiger mehrere inhaltsgleiche Ansprüche auf selbständige verschiedene Anspruchsgrundlagen stützen kann, was hier nicht der Fall ist.
+4. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO, die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00170.20F.1021.000

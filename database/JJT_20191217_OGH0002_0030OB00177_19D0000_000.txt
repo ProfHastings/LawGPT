@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2019
+Geschäftszahl
+3Ob177/19d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr.
+Roch als Vorsitzenden sowie die Hofräte Priv.-Doz. Dr. Rassi und Mag. Painsi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei F*****, vertreten durch Dr. Sven Rudolf Thorstensen, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei J***** GmbH, *****, vertreten durch Dorda Rechtsanwälte GmbH in Wien, wegen (richtig:) 177.824,54 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Juli 2019, GZ 2 R 88/19d-41, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Für die Beurteilung der Gehilfenhaftung nach § 1313a ABGB ist nach ständiger Rechtsprechung maßgebend, ob der Gehilfe bei der Verfolgung der Interessen des Schuldners tätig war, das heißt ob er in das Interessenverfolgungsprogramm des Schuldners und damit in dessen Risikobereich einbezogen war (
+RIS-Justiz RS0028425). Der Schuldner haftet nicht für ein Verhalten einer Hilfsperson, das mit dem Schuldverhältnis in keinem inneren Zusammenhang mehr steht, sondern in den Bereich der allgemeinen Lebensführung des Gehilfen gehört, in deren Rahmen er seine eigenen Interessen verfolgt (RS0028582 [T7] = RS0028425 [T1]; RS0028429 [T2]). Nicht jedes Gehilfenverhalten kann deshalb als Erfüllungshandlung des Geschäftsherrn angesehen werden (
+RS0028582 [T4]). Der Geschäftsherr haftet nicht nach § 1313a ABGB, wenn das Verhalten des Gehilfen aus dem allgemeinen Umkreis des Aufgabenbereichs, den der Gehilfe im Rahmen der Interessenverfolgung für den Schuldner wahrzunehmen hatte, herausfällt (
+RS0028499).
+2.1. Von den Grundsätzen dieser – auch hier anwendbaren (§ 28 Abs 2 WAG 2007) – Rechtsprechung  sind die Vorinstanzen nicht abgewichen, indem sie eine Haftung der Beklagten für Beratungs- und Vermittlungstätigkeit ihrer vertraglich gebundenen Vermittler iSd § 1 Z 20 WAG 2007 in Bezug auf eine (bestimmte) Vermögensverwaltung verneinten, die von der Beklagten – schon mangels entsprechender Vertriebsvereinbarung – niemals angeboten bzw vertrieben wurde, weshalb die Ermächtigung ihrer vertraglich gebundenen Vermittler, in ihrem Namen und auf ihre Rechnung Beratungs- und Vermittlungstätigkeiten zu erbringen, dieses Produkt nicht erfasste.
+2.2. Auf die vom Kläger relevierte Frage, ob die Konzession der Beklagten gemäß § 3 Abs 2 Z 1 und 3 WAG 2007 – jedenfalls nach damaliger Auffassung der Finanzmarktaufsicht (bis zur Klarstellung durch den EuGH in der Entscheidung C-678/15) – auch die Beratung über und Vermittlung von Vermögensverwaltungsverträgen umfasste und dieses Verständnis auch dem Poolpartnervertrag zugrunde lag, kommt es deshalb von vornherein nicht an. Im Übrigen ist den Feststellungen auch nicht zu entnehmen, dass dem Kläger diese (unrichtige) Rechtsansicht der Finanzmarktaufsicht bekannt gewesen wäre und er tatsächlich darauf vertraut hätte. Schon aus diesem Grund ist es (auch) irrelevant, ob der Kläger auf die Rechtsansicht der Finanzmarktaufsicht vertrauen habe dürfen.
+2.3. Eine Rechtsgrundlage für die Auffassung des Klägers, die Haftung nach § 28 WAG 2007 gehe über jene nach § 1313a ABGB hinaus, sodass die Beklagte unabhängig davon hafte, ob das Finanzinstrument, über das (hier) im Februar 2012 beraten wurde, von ihr angeboten wurde, ist nicht ersichtlich; die vom Gesetzgeber intendierte Haftungsverschärfung laut der in der Revision zitierten Belegstelle (ErläutRV 1385 BlgNR 24. GP 4) bezieht sich nur auf die in § 2 Abs 1 Z 15 WAG 2007 idF BGBl I Nr 99/2011, in Kraft getreten am 1. September 2012 (§ 108 Abs 11 WAG 2007), genannten Wertpapiervermittler, ist hier also sowohl inhaltlich als auch zeitlich ohne Relevanz.
+3. Es stellt keine korrekturbedürftige Fehlbeurteilung dar, angesichts der Negativfeststellung zu den in die Vermögensverwaltung aufgenommenen Anleihen/Investmentfonds dazu eine Anlageberatung zu verneinen.
+4. Die gerügten Feststellungsmängel liegen nicht vor, weil es zum einen eine Rechtsfrage darstellt, ob die Beratung über die Vermögensverwaltung der Beklagten zuzurechnen ist, und zum anderen die vermissten Feststellungen ohnehin getroffen wurden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030OB00177.19D.1217.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.09.1948
+Geschäftszahl
+3Ob214/48
+Norm
+Außerstreitgesetz §16;
+Handelsgesetzbuch §48;
+Handelsgesetzbuch §49;
+Handelsgesetzbuch §50;
+Kopf
+SZ 21/131
+Spruch
+Eine Gesamtprokura kann nur mehreren Prokuristen, nicht aber einem Prokuristen gemeinsam mit einem Vorstandsmitglied erteilt werden.
+Entscheidung vom 22. September 1948, 3 Ob 214/48.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Das Registergericht lehnte den Antrag einer Genossenschaft m. b. H. auf Eintragung der dem Eduard S. erteilten Gesamtprokura mit dem Rechte, die Genossenschaft gemeinsam mit einem Vorstandsmitglied zu zeichnen, mit der Begründung ab, daß eine Gesamtprokura gemäß § 48, Abs. 2 HGB. eine Mehrheit von Personen voraussetze, von denen mindestens zwei gemeinsam vertretungsbefugt sein müssen, daß aber ein einzelner Gesamtprokurist eine Prokurazeichnung überhaupt nicht abgeben könne.
+Das Rekursgericht gab dem Rekurs der Antragstellerin mit der gleichen Begründung und auch deshalb keine Folge, weil die Bestimmung des § 1 der Statuten, wonach zwei Vorstandsmitglieder gemeinsam mit einem Prokuristen oder mit "besonderer Ermächtigung des Vorstandes" zwei Prokuristen den Firmenwortlaut fertigen, gegen die zwingende Vorschrift des Handelsgesetzbuches über die Prokura verstoße.
+Der Oberste Gerichtshof gab dem außergerichtlichen Revisionsrekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der außerordentliche Revisionsrekurs behauptet eine offenbare Gesetzwidrigkeit der angefochtenen Entscheidung, die darin gelegen sein soll, daß gewohnheitsrechtliche Übungen nicht berücksichtigt worden seien und daß die Entscheidung auch mit den Bedürfnissen der Praxis im Widerspruche stehe.
+Wenn auch jede offenbare Gesetzwidrigkeit als unrichtige rechtliche Beurteilung anzusehen ist, so begrundet doch nicht jede unrichtige rechtliche Beurteilung auch schon eine offenbare Gesetzwidrigkeit im Sinne des § 16 AußstrG., vielmehr gehört zum Begriffe der offenbaren Gesetzwidrigkeit, daß die der Beurteilung unterzogene Frage im Gesetze selbst ausdrücklich und in so klarer Weise gelöst sei, daß kein Zweifel über die Absicht des Gesetzgebers aufkommen kann, und trotzdem eine damit im Widerspruch stehende Entscheidung gefällt wurde. Diese Voraussetzungen treffen nicht zu.
+§ 48, Abs. 2 HGB. sagt, daß eine Gesamtprokura dann vorliege, wenn eine Prokura an mehrere Personen gemeinschaftlich erteilt werde. Es steht daher die Rechtsansicht der Untergerichte, daß schon nach dem Wortlaut des Gesetzes eine Einzelperson mangels eines zweiten kollektivvertretungsbefugten Kollegen nicht Gesamtprokurist sein könne, mit der erwähnten gesetzlichen Bestimmung nicht im Widerspruch. Die Revisionsrekurswerberin verwechselt offenbar, wie sich aus der Bezugnahme auf die Entscheidung SZ. XV/69 ergibt, den Begriff der Eintragung der Gesamtprokura mit dem der Eintragung der Kollektivzeichnung der Firma. Die bezogene Entscheidung spricht nämlich ausdrücklich aus, daß eine Kollektivprokura nur dann vorliege, wenn zwei oder mehrere Prokuristen die Firma gemeinsam zu zeichnen haben, nicht aber dann, wenn der Prokurist die Firma gemeinsam mit einem Geschäftsführer zeichnet, in welch letzterem Falle es sich nicht um eine Kollektivprokura, sondern um eine Kollektivzeichnung der Firma handle.
+Es ist aber auch die Rechtsansicht der Untergerichte nicht offenbar gesetzwidrig, daß die begehrte Eintragung eine gemäß § 50 HGB. unzulässige Einschränkung der dem Prokuristen gemäß § 49 HBG. zustehenden Rechte darstelle, da die Eintragung die Beschränkung des Zeichnungsrechtes des Prokuristen enthält, welches Recht nur durch eine Gesamtprokura, die jedoch gemäß § 48, Abs. 2 HGB. nur mehreren Prokuristen erteilt werden kann, beschränkt werden dürfe (siehe hiezu Aufsatz von Wahle "Ist die Beschränkung des Prokuristen auf die Kollektivzeichnung mit einem Gesellschafter zulässig?", ÖJZ. 1948, S. 270 ff., und die dort angeführte Lehre und Rechtsprechung). Der Revisionsrekurs ist auch nicht im Recht, wenn er behauptet, daß die begehrte Eintragung nach einer gewohnheitsrechtlichen Übung zulässig sei und die Nichtbeachtung dieser Übung eine offenbare Gesetzwidrigkeit darstelle. Der Oberste Gerichtshof hat vielmehr, von der vereinzelt gebliebenen Entscheidung 1 Ob 154/46 abgesehen, stets den oben dargelegten Standpunkt vertreten und ist auch in seiner späteren Entscheidung 1 Ob 637/47 wieder zu dieser Rechtsprechung zurückgekehrt. Es mag wiederholt vorgekommen sein, daß österreichische Gerichte derartige Eintragungen, wie die beantragte, im Widerspruch mit dem Gesetze bewilligt haben, doch vermag dieser Abusus ein Gewohnheitsrecht nicht zu begrunden. Was schließlich die wirtschaftlichen Erwägungen anlangt, die im Revisionsrekurs angestellt werden, so kann es dahingestellt bleiben, ob diese zutreffen, sie sind jedenfalls nicht geeignet, die Behauptung einer offenbaren Gesetzwidrigkeit der angefochtenen Entscheidung zu begrunden.

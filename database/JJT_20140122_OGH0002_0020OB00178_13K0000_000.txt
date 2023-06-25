@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.01.2014
+Geschäftszahl
+2Ob178/13k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und durch die Hofräte Dr. Veith, Dr. E. Solé, Dr. Schwarzenbacher und Dr. Nowotny als weitere Richter in der Verlassenschaftssache nach dem am ***** 2006 verstorbenen E***** S*****, über den außerordentlichen Revisionsrekurs der erbl Tochter J***** T*****, vertreten durch Dr. Hanns-Christian Baldinger, Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtsssachen Wien als Rekursgericht vom 25. Juni 2013, GZ 42 R 142/13p-80, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+Die Rechtsmittelwerberin möchte erreichen, dass der Inhalt eines Banksafes zur Gänze aus dem Inventar ausgeschieden wird.
+1. Gemäß § 166 Abs 2 AußStrG hat im Fall der Bestreitung der Behauptung, dass eine Sache zum Verlassenschaftsvermögen zählt, das Gericht darüber zu entscheiden, ob diese Sache in das Inventar aufgenommen beziehungsweise ausgeschieden wird. Befand sich die Sache zuletzt im Besitz des Verstorbenen, so ist sie nur dann auszuscheiden, wenn durch unbedenkliche Urkunden bewiesen wird, dass sie nicht zum Verlassenschaftsvermögen zählt.
+1.1. Für die Inventarisierung des Nachlasses ist der Besitz, nicht das Eigentum des Erblassers maßgebend (RIS-Justiz RS0007816). Sachen, an denen zumindest Mitbesitz des Erblassers vorlag, sind grundsätzlich in das Inventar aufzunehmen (2 Ob 176/12i). Dies gilt auch für Wertpapiere und Girokonten, die „auch“ auf den Namen des Erblassers lauten, also auch für Wertpapierdepots und dazugehörige Verrechnungskonten (6 Ob 287/08m = RIS-Justiz RS0007809 [T6]).
+1.2. Der Begriff der „unbedenklichen Urkunde“ iSd § 166 Abs 2 AußStrG wird so verstanden wie in § 40 EO. Es muss sich demnach um Urkunden handeln, denen eine besondere Glaubwürdigkeit zukommt (5 Ob 140/10i mwN), wie etwa Postaufgabescheine, gerichtliche Entscheidungen (RIS-Justiz RS0001391) oder Kontoauszüge und Ein- und Auszahlungsbelege eines Wertpapier-Verrechnungskontos (6 Ob 287/08m).
+1.3. Gemäß § 166 Abs 2 AußStrG ist nur darüber zu entscheiden, ob eine Sache in das Inventar aufgenommen oder ausgeschieden wird, nicht jedoch darüber, ob die Sache als Eigentum des Erblassers zum Verlassenschaftsvermögen gehört. Allzu komplizierte Eigentumsfragen sollen die Abhandlung nicht verzögern. Mit der Entscheidung, dass ein Bankguthaben in die Verlassenschaft fällt, wird noch nicht über die Berechtigung an dem Guthaben abgesprochen. Diese Entscheidung ist für die endgültige Entscheidung über die Rechtszuständigkeit (Eigentumsfrage) im streitigen Verfahren nicht präjudiziell (RIS-Justiz RS0121985 [T11]).
+2. Die Revisionsrekurswerberin argumentiert, mit der Schlussbilanz des Unternehmens des Erblassers und der Schlussrechnung im Sachwalterakt sei von unbedenklichen Urkunden auszugehen. Auch habe der Verstorbene das gegenständliche Bankschließfach, hinsichtlich dessen er Mitmieter war, selbst nie aufgesucht. Dies wäre durch das Einholen entsprechender Nachweise vom vermietenden Bankinstitut zu klären gewesen. Der Verstorbene habe daher keinerlei Besitzrechte an den eingebrachten Werten erlangt. Überdies widerspreche es der Logik, dass der Gerichtskommissär den Safeinhalt im Verlassenschaftsverfahren nach dem Vater des Erblassers mit einem Drittel zuordne, in jenem nach seiner Mutter zu 50 %, hier aber zu 100 %.
+3. Dem ist entgegenzuhalten:
+3.1. Die angeführten Urkunden sind zur Beweisführung iSd § 166 Abs 2 AußStrG dafür, dass der Inhalt des Banksafefachs nicht zum Verlassenschaftsvermögen zählt, nicht geeignet. Schon das Rekursgericht hat dazu ausgeführt, das behauptete Ergebnis des Geschäftsbetriebs des Verstorbenen sei kein zwingendes Argument dafür, dass sich der Inhalt des Safes nicht in seinem Besitz befunden habe.
+3.2. Die Frage, ob und wie oft der Verstorbene zum Banksafe Zutritt genommen hat, ist für die Frage der Besitzverhältnisse ohne Relevanz, zumal Gewahrsame und Besitz bloß die Macht über die Sache erfordern, die aber auch an einem anderen Ort und selbst durch eine dritte Person ausgeübt werden kann (RIS-Justiz RS0007911). Im vorliegenden Fall ist die Annahme von Mitbesitz des Erblassers am Safeinhalt aufgrund seiner Eigenschaft als Mitmieter des Banksafes jedenfalls vertretbar.
+3.3. Ebenfalls irrelevant ist das Ausmaß und das Verhältnis der Quotierung der Zuordnung der Besitzrechte zu den einzelnen Verlassenschaftsverfahren, zumal Mitbesitz zu jeglicher Quote ausreicht, um das fragliche Vermögen zur Inventarisierung einer Verlassenschaft zuzuordnen. Im Übrigen ist die Lösung der Eigentumsfrage allfälligen späteren streitigen Verfahren vorbehalten. Der Umstand, dass die Revisionsrekurswerberin auch Erbin nach ihren Großeltern in den ebenfalls anhängigen Verlassenschaftsverfahren sein mag, ändert nichts am Grundsatz, dass es nicht Aufgabe des Verlassenschaftsverfahrens ist, Eigentumsprozesse zu ersetzen (vgl 7 Ob 17/07m).
+4. Der außerordentliche Revisionsrekurs ist daher mangels erheblicher Rechtsfragen als unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0020OB00178.13K.0122.000

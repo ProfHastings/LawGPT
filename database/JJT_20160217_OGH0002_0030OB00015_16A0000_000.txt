@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2016
+Geschäftszahl
+3Ob15/16a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei I*****, vertreten durch Jakober Rechtsanwälte in Stuttgart & Wien, gegen die beklagte Partei D***** GmbH, *****, vertreten durch Tinzl & Frank Rechtsanwälte in Innsbruck, wegen 49.541,83 EUR sA, Festellung und Rente, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 17. Dezember 2015, GZ 2 R 158/15z-23, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Dem Kläger obliegt der Beweis des Produktfehlers und der Kausalzusammenhang zwischen Produktfehler und Schaden (RIS-Justiz RS0117103).
+Hier soll der Produktfehler nach dem Vorbringen des Klägers darin bestehen, dass die Verpackung des von der Beklagten hergestellten Schlitzputzes nur unzureichende Hinweise auf die mit seiner Verwendung, insbesondere für die Augen, verbundenen Gefahren aufgewiesen habe. Der Kläger behauptet somit einen Instruktionsfehler, der nicht das Produkt selbst, sondern nur dessen unzureichende Darbietung fehlerhaft macht (RIS-Justiz RS0107606).
+Demgemäß trifft den Kläger, wie die Vorinstanzen zutreffend erkannten, die Beweislast dafür, dass der Instruktionsfehler auch den konkreten Schaden (die Augenverletzung des Klägers) verursachte.
+Dieser Nachweis ist dem Kläger nicht gelungen, weil positiv feststeht, dass er auch dann, wenn auf der Verpackung des Schlitzputzes weitere Warnhinweise angebracht worden wären, diese nicht beachtet hätte. Dem in diesem Zusammenhang erkennbar erhobenen Vorwurf, das Berufungsgericht habe die Feststellungen des Erstgerichts „umgewürdigt“, fehlt die Grundlage: Das Berufungsgericht ging nicht davon aus, dass der Kläger das auf der Verpackung angebrachte Warnzeichen („X“) nicht sah, sondern es verwies - in Übereinstimmung mit den Feststellungen des Erstgerichts - darauf, dass der Kläger diesem Zeichen keine Beachtung schenkte.
+Es steht somit gerade nicht fest, dass der Kläger wegen unzureichender Verhaltensanweisungen nötige Vorkehrungen, wie etwa das Tragen einer Schutzbrille bei Kontakt mit dem Schlitzputz, unterließ und dadurch einen Schaden erlitt.
+Ob überhaupt ein Instruktionsfehler vorlag oder ob - wie das Erstgericht meinte - die auf der Verpackung des Produkts angebrachten Sicherheitshinweise (ua ein schwarzes „X“ auf orangem Hintergrund mit der Angabe „R35 Reizt die Augen“) selbst dann ausreichend waren, wenn man nicht auf den „idealtypischen durchschnittlichen Produktbenutzer“ (RIS-Justiz RS0071543), sondern auf die am wenigsten informierte und daher am meisten gefährdete Benutzergruppe abstellt (so 7 Ob 49/01h ecolex 2001/238 [Ch. Rabl]; 5 Ob 108/04z ua), bedarf daher keiner Prüfung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00015.16A.0217.000

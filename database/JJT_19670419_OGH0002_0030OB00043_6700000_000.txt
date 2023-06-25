@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.1967
+Geschäftszahl
+3Ob43/67
+Norm
+Außerstreitgesetz §276 (1);
+EO §352;
+Kopf
+SZ 40/52
+Spruch
+Bei der zwangsweisen Teilung einer Liegenschaft durch Feilbietung können bei Fruchtlosigkeit des ersten Termins weitere anberaumt werden, ohne daß hiezu das Einverständnis aller Miteigentümer notwendig wäre.
+Entscheidung vom 19. April 1967, 3 Ob 43/67.
+I. Instanz: Exekutionsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Zwischen den Parteien ist das Verfahren zur Teilung des Miteigentums an der Liegenschaft EZ. 435 KG. U. anhängig.
+Bei der für den 4. November 1966 anberaumten Feilbietungstagsatzung erschien kein Bieter. Das Erstgericht sprach sodann mit Beschluß vom 5. Dezember 1966 seine Unzuständigkeit aus und überwies die Sache dem Exekutionsgericht Wien. Ein dagegen vom betreibenden Gläubiger ergriffener Rekurs blieb erfolglos.
+Nunmehr beantragte der Verpflichtete unter Hinweis auf die gemäß § 352 EO. anzuwendende Bestimmung des § 276 (1) AußStrG. Löschung der Anmerkung der Einleitung des Versteigerungsverfahrens, wogegen der betreibende Gläubiger Anberaumung eines neuerlichen Feilbietungstermins begehrte.
+Das Erstgericht gab dem Begehren des betreibenden Gläubigers statt und wies den Antrag des Verpflichteten ab.
+Das Rekursgericht wies den Antrag des betreibenden Gläubigers auf neuerliche Anberaumung des Versteigerungstermins ab.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und änderte den angefochtenen Beschluß dahin ab, daß das Feilbietungsverfahren fortzusetzen ist und der Antrag des Verpflichteten, die Löschung der Anmerkung der Einleitung des Versteigerungsverfahrens anzuordnen, abgewiesen wird.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Rekursgericht vertritt im Gegensatz zu der Entscheidung, in der es in einer anderen Besetzung den Beschluß des Erstgerichtes über dessen Unzuständigkeit bestätigte, den Standpunkt, daß es mangels anderer Bestimmung durch die Parteien immer nur einen einzigen Feilbietungstermin gebe und bei Fehlen eines Anbotes kein weiterer Termin anzuberaumen sei.
+Dem Rekursgericht ist insoweit beizutreten, als es ausführt, daß es in dieser Frage an die Begründung der früheren Entscheidung nicht gebunden ist. Richtig ist auch, daß der JME. vom 25. April 1905, Z. 9244 (Anm. 2 zu § 352 EO. in der MGA. Band 7), nach dessen Punkt 8 die nicht vorgenommene Versteigerung auf Antrag eines Beteiligten jederzeit wiederaufgenommen werden kann, keine Rechtsquelle ist. Der Oberste Gerichtshof schließt sich aber der dort zum Ausdruck gebrachten Meinung an (dagegen, aber ohne weitere Begründung, Pollak, System[2] III. S. 1025).
+Wenn auch gemäß § 352 EO. auf das dort geregelte Verfahren die Bestimmungen der §§ 272 bis 280 AußStrG. anzuwenden sind, so darf doch der erhebliche Unterschied zwischen einem über Antrag aller Miteigentümer eingeleiteten Verfahren und einem solchen gemäß § 352 EO. nicht übersehen werden. Obwohl das Gericht, soweit keine zwingenden gesetzlichen Bestimmungen verletzt werden, in beiden Verfahren die Versteigerungsbedingungen nach dem übereinstimmenden Verlangen der Parteien anzuwenden hat, wird bei der exekutiven Teilung doch keine Übereinstimmung vorausgesetzt. Weichen die Begehren der Parteien bei der rein freiwilligen Feilbietung voneinander ab, so kann der Außerstreitrichter hierüber keine Entscheidung treffen, vielmehr wird die Feilbietung unmöglich. So schreibt § 275 AußStrG. vor, daß "der" Eigentümer den Ausrufspreis bestimmt anzugeben hat. Daraus folgt, daß mehrere Miteigentümer denselben Betrag nennen müssen. Anders ist dies im Verfahren nach § 352 EO. Soweit der Titel nichts Näheres enthält, hat der Exekutionsrichter den Ausrufspreis zu bestimmen. Trotz der ausdrücklichen Bestimmung des § 352 EO. ist also § 275 AußStrG. nicht anwendbar, weil diese Vorschrift das rein außerstreitige Verfahren voraussetzt. Nicht anders ist es im Fall des § 276 (1) AußStrG. Das Gesetz befreit den Außerstreitrichter von der Verpflichtung, bei fruchtloser Feilbietung einen neuerlichen Termin anzuberaumen, wenn die Teilhaber nichts anderes wünschen. Das ganze Verfahren wird ja nur über gemeinsames Begehren der Miteigentümer eingeleitet und fortgeführt. Das Gegenteil gilt im Exekutionsverfahren. Hier hat der Verpflichtete, der gewöhnlich erst durch Urteil zur Duldung der Feilbietung gezwungen worden ist, vielfach ein Interesse, die ihm unerwünschte Durchführung zu vereiteln oder doch zu verzögern. Das Erfordernis der Zustimmung beider Teile, das für das rein freiwillige Feilbietungsverfahren selbstverständlich ist, kann hier ebensowenig aufgestellt werden, wie das des § 275 hinsichtlich des Einverständnisses über den Ausrufspreis. Vielmehr gilt hier der Grundsatz, daß bei Meinungsverschiedenheit über den einzuschlagenden Vorgang der Zivilteilung der Richter zu entscheiden hat.
+Zusammenfassend ist daher zu sagen, daß es dem Wesen der Exekution nach § 352 EO. widerspricht, die Bestimmungen der §§ 272 bis 280 AußStrG., welche die Bedingungen der Feilbietung vom Einverständnis aller Miteigentümer abhängig machen, in der Weise anzuwenden, daß es vom Willen des Verpflichteten abhängt, ob die Exekution fortgesetzt werden kann oder nicht.
+Nun fehlen für das Verfahren zur Feilbietung einer gemeinschaftlichen Liegenschaft den §§ 151 (3) und 188 (4) EO. entsprechende Bestimmungen. Das Verfahren kann daher, allenfalls nach Änderung der Versteigerungsbedingungen, fortgesetzt werden. Nur wenn das Gericht zur Überzeugung kommt, daß die Liegenschaft unter den gegebenen Verhältnissen unverkäuflich ist, wird es das Verfahren in sinngemäßer Anwendung des § 39 (1) Z. 8 EO. einzustellen haben.

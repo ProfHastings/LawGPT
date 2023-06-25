@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.08.1951
+Geschäftszahl
+3Ob384/51
+Norm
+ABGB §879;
+ABGB §1197;
+Handelsgesetzbuch §105;
+Handelsgesetzbuch §120;
+Handelsgesetzbuch §121;
+Handelsgesetzbuch §122;
+Handelsgesetzbuch §167;
+Handelsgesetzbuch §336;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art7 Nr8;
+Kopf
+SZ 24/207
+Spruch
+Die Vereinbarung, daß der Kommanditist an den Verlusten der Kommanditgesellschaft nicht teilzunehmen habe, ist zulässig.
+Entscheidung vom 22. August 1951, 3 Ob 384/51.
+I. Instanz: Landesgericht Linz - Nord; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Das Prozeßgericht hat die beklagte Partei zur Zahlung eines Betrages von 31.449.60 S samt stufenweisen Zinsen als den der Klägerin noch gebührenden restlichen Gewinnanteil an den von der beklagten Partei in den Jahren 1947 und 1948 erzielten Reingewinn ihres Geschäftsunternehmens verurteilt.
+Das Berufungsgericht hat der Berufung der beklagten Partei in der Hauptsache nicht Folge gegeben.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision der beklagten Partei macht lediglich den Revisionsgrund des § 503 Z. 4 ZPO. geltend und bekämpft das Urteil des Berufungsgerichtes nur insofern, als der Anteil der Klägerin an den Geschäftsverlusten der Jahre 1943, 1944 und 1945 in der Höhe von 15.485.60 S bei Berechnung der ihr gebührenden Beträge nicht berücksichtigt wurde, vielmehr der Klägerin statt des nach Abzug dieses Verlustes vom Reingewinn per 31.449.60 S zu übergebenden Betrages von 15.964 S ein weiterer Betrag von 15.485.60 S zugesprochen wurde.
+Die Revision vertritt die Auffassung, daß die im Gesellschaftsvertrage getroffene Vereinbarung, die Klägerin sei als Kommanditistin der beklagten Kommanditgesellschaft nur am Reingewinn, nicht aber an den Verlusten der Gesellschaft beteiligt, gegen die guten Sitten verstoße, wucherisch und daher unzulässig sei.
+Diese Auffassung der Revision kann nicht geteilt werden, vielmehr schließt sich der Oberste Gerichtshof der vom Berufungsgericht vertretenen Rechtsansicht an, daß die im Gesellschaftsvertrage getroffene Vereinbarung, daß der Klägerin ein Reingewinn von 600 S monatlich garantiert werde und demzufolge die Klägerin an den Verlusten der Gesellschaft im internen Verhältnis nicht beteiligt sei, weder einen wucherischen Charakter besitze, noch gegen die guten Sitten verstoße.
+Nach § 167 HGB. sind für die Berechnung des Gewinnes und des Verlustes bei einer Kommanditgesellschaft die für die offene Handelsgesellschaft aufgestellten Bestimmungen des § 120 HGB. anzuwenden. Nach Art. 7 Nr. 8 der 4. EVzHGB. sind bei der offenen Handelsgesellschaft zunächst die Bestimmungen des Gesellschaftsvertrages über Gewinn und Verlust maßgebend. Das Gesetz enthält keine Bestimmungen, aus denen gefolgert werden könnte, daß die Vereinbarungen im Gesellschaftvertrage, der Gesellschafter habe im internen Verhältnis nur am Gewinn, nicht aber an den Verlusten teilzunehmen, nicht zulässig sei. Nach der in der Literatur einhellig vertretenen Ansicht ist eine solche Vereinbarung zulässig und gültig (siehe Schlegelberger, Kommentar zum Handelsgesetzbuch § 105, Anm. 7, § 122, Anm. 14, § 163, Anm. 2, Staub - Pisko, Kommentar zum Handelsgesetzbuch, Art. 162, § 1, Weipert, Reichsgerichtsrätekommentar, § 121, Anm. 19).
+Die Rechtsstellung des Kommanditisten kommt der eines stillen Gesellschafters einer Handelsgesellschaft sehr nahe. Nach § 336 HGB. kann im Gesellschaftsvertrag bestimmt werden, daß der stille Gesellschafter einer Handelsgesellschaft nicht am Verluste beteiligt werden soll. Es besteht kein Grund, die Anwendbarkeit dieser Bestimmung für den mit dem Kommanditisten abgeschlossenen Gesellschaftsvertrag zu vereinen.
+Wenn die Revision vermeint, daß das Begehren der Klägerin auf Bezahlung ihres Reingewinnes für die Jahre 1947 und 1948 ohne Rücksicht auf die Verluste der Gesellschaft in den vergangenen Jahren nicht berechtigt sei und gegen die guten Sitten verstoße, weil die Verluste, in den drei vorangegangenen Jahren nur 15.485.60 S betragen haben, während sich der Gewinn der Klägerin in den Jahren 1947 und 1948 bei einer Einlage von 140.000 S auf 95.847.60 S belaufe, so kann auch darin der Revision nicht gefolgt werden, weil es bei der Beurteilung dieser Fragen nicht auf die Höhe des jeweiligen Verlustes und Gewinnes ankommt, sondern nur darauf, ob die Vereinbarung im Gesellschaftsvertrage, daß die Klägerin an den Verlusten nicht beteiligt sei, sondern ihr ein monatlicher Gewinn von 600 S garantiert werde, sittenwidrig ist oder nicht.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.01.2016
+Geschäftszahl
+10ObS145/15v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Fellinger als Vorsitzenden, den Hofrat Univ.-Prof. Dr. Neumayr und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter Dr. Christoph Wiesinger (aus dem Kreis der Arbeitgeber) und KR Karl Frint (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei E*****, vertreten durch Strohmayer Heihs Strohmayer Rechtsanwälte OG in St. Pölten, gegen die beklagte Partei Pensionsversicherungsanstalt, Friedrich-Hillegeist-Straße 1, 1021 Wien, wegen Berufsunfähigkeitspension, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 28. Oktober 2015, GZ 7 Rs 111/15t-22, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof ist ausschließlich als Rechtsinstanz zur Überprüfung von Rechtsfragen tätig (RIS-Justiz RS0123663). Eine Unrichtigkeit in der Beweiswürdigung kann nicht mit Revision bekämpft werden (RIS-Justiz RS0069246).
+Die Frage, ob einem Sachverständigengutachten gefolgt werden kann oder ein weiteres einzuholen ist, ist eine solche der nicht revisiblen Beweiswürdigung (RIS-Justiz RS0043320). Eine Anfechtung der Ergebnisse von Sachverständigengutachten, die die Tatsacheninstanz ihrer Entscheidung zugrunde gelegt hat, wegen unrichtiger rechtlicher Beurteilung ist nur insoweit möglich, als dabei dem Sachverständigen bei seinen Schlussfolgerungen ein Verstoß gegen zwingende Denkgesetze oder gegen objektiv überprüfbare zwingende Gesetze sprachlichen Ausdrucks unterlaufen ist (RIS-Justiz RS0043168 [T8]). Derartiges wird aber in der Revision nicht aufgezeigt.
+2. Ein sekundärer Verfahrensmangel liegt nur dann vor, wenn Feststellungen fehlen, die für die rechtliche Beurteilung wesentlich sind. Wenn zu einem bestimmten Thema jedoch Tatsachenfeststellungen getroffen wurden, mögen diese auch von den Vorstellungen des Rechtsmittelwerbers abweichen, können diesbezüglich auch keine rechtlichen Feststellungsmängel erfolgreich geltend gemacht werden (RIS-Justiz RS0053317 [T1]).
+Im vorliegenden Fall wurden Feststellungen sowohl zur Dauer der zu erwartenden Krankenstände als auch zu notwendigen Arbeitspausen und zum Erfordernis einer Toilette in unmittelbarer Nähe zum Arbeitsplatz getroffen. Darüber hinausgehende durch erhöhten Stuhldrang bedingte Einschränkungen des Leistungskalküls konnten dagegen nicht festgestellt werden. Soweit der Kläger daher von Geräusch- und Geruchsbelästigungen, unregelmäßigen Pausen oder der Notwendigkeit einer eigenen Toilette ausgeht, entfernt er sich vom festgestellten Sachverhalt. Welche Schlussfolgerungen daraus zu ziehen sind, dass „eine Toilette in unmittelbarer Nähe zum Arbeitsplatz vorhanden sein muss“, was zweifellos dahingehend zu verstehen ist, dass eine solche in sehr kurzer Zeit erreichbar sein muss, lässt auch die Revision offen, zumal diese Möglichkeit in Bürogebäuden üblicherweise ohnehin gegeben ist.
+3. Zutreffend hat das Berufungsgericht ausgeführt, dass zu erwartende leidensbedingte Krankenstände von vier Wochen jährlich einen Versicherten nicht vom allgemeinen Arbeitsmarkt ausschließen. Die Revision verweist selbst darauf, dass nach der Judikatur des Obersten Gerichtshofs ein solcher Ausschluss vom Arbeitsmarkt erst dann angenommen wird, wenn in Zukunft mit hoher Wahrscheinlichkeit und trotz zumutbarer Krankenbehandlung leidensbedingte Krankenstände in einer Dauer von sieben Wochen und darüber im Jahr zu erwarten sind (vgl RIS-Justiz RS0084855 [T7]; RS0084898 [T12] ua). Inwiefern im Fall des Klägers eine andere Beurteilung zu erfolgen hätte, wird aber auch in der Revision nicht dargelegt.
+4. Da der Kläger unter Berücksichtigung seines Leistungskalküls nach wie vor Tätigkeiten der Beschäftigungsgruppe 3 des Kollektivvertrags für Handelsangestellte ausüben kann, was der von ihm zuletzt nicht bloß vorübergehend ausgeübten Tätigkeit als Angestellter im Außendienst entspricht, bestehen keine Bedenken gegen die Beurteilung des Berufungsgerichts, dass keine Berufsunfähigkeit vorliegt.
+Die Revision ist daher mangels erheblicher Rechtsfragen im Sinn des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:010OBS00145.15V.0119.000

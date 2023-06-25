@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.07.2022
+Geschäftszahl
+8ObA49/22x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Thunhart und die fachkundigen Laienrichter Mag. Elke Wostri (aus dem Kreis der Arbeitgeber) und Mag. Manuela Majeranowski-Laufer (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei B* e.U., *, vertreten durch Dr. Sebastian Lenz, Rechtsanwalt in Wien, wider die beklagte Partei G*, vertreten durch Rast & Musliu Rechtsanwälte in Wien, wegen Unterlassung (Streitwert: 35.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. April 2022, GZ 8 Ra 66/21s-46, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Beklagte war als Servicetechniker für Brandschutzanlagen im Unternehmen des Klägers beschäftigt. Mit „Zusatzvereinbarung zum Dienstvertrag“ vom 6. 9. 2013 verpflichtete sich der Beklagte Geschäfts- und Betriebsgeheimnisse auch nach Beendigung seines Arbeitsverhältnisses vertraulich und geheim zu halten und ausschließlich für Zwecke seines damaligen Dienstgebers zu verwerten. Nach Beendigung des Dienstverhältnisses zum Kläger ist der Beklagte nunmehr als Servicetechniker für Brandschutzanlagen bei der F* GmbH tätig und betreut dort auch Kunden, die er zuvor für den Kläger betreute.
+[2] 		Die auf Unterlassung der Verwendung von Kundendaten und Preislisten des Klägers gerichtete Klage wurde von den Vorinstanzen abgewiesen, weil nicht festgestellt werden konnte, dass der Beklagte diese Informationen verwendet hätte, um gezielt Kunden des Klägers abzuwerben.
+[3] 		Die außerordentliche Revision des Klägers ist mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[4] 		1. Die vom Kläger als erheblich bezeichnete Rechtsfrage, ob das Abwerben von Kunden gegen eine vertragliche Geheimhaltungspflicht verstößt, wurde vom Obersten Gerichtshof bereits beantwortet. Eine Geheimhaltungsvereinbarung über Geschäftsgeheimnisse ist keine Konkurrenzklausel im Sinne des § 36 AngG, die vor der Benützung dieser Geheimnisse als Mitbewerber schützen würde (RIS-Justiz RS0044166). Der Oberste Gerichtshof hat deshalb bereits ausgesprochen, dass die Kontaktaufnahme mit Kunden des früheren Arbeitgebers zwar gegen eine Kundenschutzklausel verstößt, für sich allein genommen aber noch keinen Verstoß gegen eine Geheimhaltungsvereinbarung darstellt (9 ObA 134/19z = RS0044166 [T6]).
+[5] 		Es ist auch nicht ersichtlich, inwieweit hier ein Geschäfts- oder Betriebs„geheimnis“ relevant gewesen wäre. Anders als in der von der Revision herangezogenen Vorentscheidung 9 ObA 66/03a hat sich der Beklagte hier nach den Feststellungen nicht auf ihn bekannte Wartungstermine gestützt.
+[6] 		Etwas anderes würde etwa unter dem Aspekt der §§ 1, 11 UWG gelten, wenn weitere Tatbestandselemente hinzutreten, aus denen sich die Sittenwidrigkeit eines solchen Verhaltens ergibt, etwa weil Kundenlisten auf unlautere Weise beschafft wurden (RS0078330).
+[7] 		2. Die vom Kläger aufgeworfene Rechtsfrage, ob ein Verstoß gegen § 26c UWG auch ohne das Hinzutreten weiterer Tatbestandselemente immer dann vorliegt, wenn ein Arbeitnehmer die Kunden seines früheren Arbeitgebers zu Gunsten seines neuen Arbeitgebers abwirbt, bedarf ebenfalls keiner Sachentscheidung des Obersten Gerichtshofs, weil diese Frage bereits nach dem Wortlaut der anzuwendenden Norm eindeutig gelöst ist (RS0042656). Nach § 26c Abs 2 UWG ist die Nutzung oder Offenlegung eines Geschäftsgeheimnisses nur dann unzulässig, wenn sie durch eine Person erfolgt, die (Z 1) das Geschäftsgeheimnis auf rechtswidrige Weise erworben hat oder (Z 2) gegen eine Vertraulichkeitsvereinbarung oder eine vertragliche oder sonstige Verpflichtung, das Geschäftsgeheimnis nicht offenzulegen oder nur beschränkt zu nutzen, verstößt.
+[8] 		3. Dass der Beklagte die Kundenlisten des Klägers rechtswidrig erlangt hätte, wurde nicht behauptet. Dass der Beklagte jene Kunden des Klägers, die sich an ihn gewendet haben, an seinen neuen Arbeitgeber weitergeleitet hat, bedeutet entgegen der Rechtsansicht des Klägers schon deshalb keinen Verstoß gegen die Vertraulichkeitsvereinbarung, weil damit keine geheimen Informationen offengelegt wurden. Da nicht festgestellt werden konnte, dass der Beklagte die Kundenlisten des Klägers zum Abwerben von Kunden verwendete, kann dem Beklagten auch kein Verstoß gegen die mit der „Zusatzvereinbarung zum Dienstvertrag“ übernommene Verpflichtung angelastet werden, die Geschäftsgeheimnisse ausschließlich für Zwecke seines früheren Dienstgebers zu verwerten. Die Rechtsansicht der Vorinstanzen, wonach ein Verstoß gegen § 26c Abs 2 UWG nicht nachgewiesen worden sei, ist damit keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung.
+[9] 		4. Die außerordentliche Revision der Klägerin war daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00049.22X.0718.000

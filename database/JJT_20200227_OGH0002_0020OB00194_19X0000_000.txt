@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2020
+Geschäftszahl
+2Ob194/19x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei T***** GmbH & Co KG, *****, vertreten durch Gheneff - Rami - Sommer Rechtsanwälte OG in Klagenfurt, gegen die beklagte Partei O***** M*****, vertreten durch Dr. Maximilian Motschiunig, Rechtsanwalt in Klagenfurt, wegen Vertragsaufhebung und Abgabe einer Willenserklärung (Streitwert 35.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 1. Oktober 2019, GZ 2 R 141/19a, 2 R 142/19y-95, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen  des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Ermittlung des Verkehrswertes einer Liegenschaft gehört dem Tatsachenbereich an (RS0043704 [T1]), die Wahl der Bewertungsmethode hat durch den Sachverständigen zu erfolgen (RS0066223 [T2]) und unterliegt grundsätzlich nicht der Überprüfung durch den Obersten Gerichtshof (RS0109006). Anderes gilt ausnahmsweise dann, wenn die Ermittlung des Verkehrswerts auf mit den Gesetzen der Logik oder der Erfahrung unvereinbaren Schlussfolgerungen oder auf abstrakten Erwägungen ohne Sachverhaltsgrundlage beruht (RS0109006 [T3, T4]).
+Ein solcher Fall liegt hier nicht vor: Bei der strittigen Liegenschaft konnten Erträge nur durch Vermietung an einen bestimmten Liegenschaftsnachbarn – den Beklagten – erzielt werden. Sie hingen daher von dessen Bereitschaft zur Anmietung ab. Anders war die Liegenschaft nicht nachhaltig nutzbar; zudem war die Nutzung durch den Beklagten selbst widmungswidrig. Damit bestand hohe Ertragsunsicherheit. Auf dieser Sachverhaltsgrundlage war es nicht mit den Gesetzen der Logik oder Erfahrung unvereinbar, wenn der Sachverständige vom Ertragswertverfahren absah und den Verkehrswert allein nach der Vergleichswertmethode ermittelte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00194.19X.0227.000

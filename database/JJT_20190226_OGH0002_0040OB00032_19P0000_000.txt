@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.2019
+Geschäftszahl
+4Ob32/19p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei A***** A*****, vertreten durch Stolz Rechtsanwalts-GmbH in Radstadt, gegen die beklagte Partei M***** A*****, vertreten durch Dr. Schartner Rechtsanwalt GmbH in Altenmarkt, wegen Unterlassung (Streitwert 10.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg vom 12. Dezember 2018, GZ 22 R 378/18v-13, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger wirft dem Beklagten eine Verletzung des Namensrechts am Vulgärnamen („P*****haus“) der im Eigentum des Klägers stehenden Liegenschaft vor. Der Beklagte betreibe unter Verwendung des Vulgärnamens ein Feriendorf („P*****gut“), führe den Namen in seiner Firmenbezeichnung und werbe damit auch im Internet. Durch die Verwendung sei der Kläger in seinem Interesse beeinträchtigt, weil die Ferienhütten mit dem Hof des Klägers verwechselt würden. Nach dem geänderten Klagebegehren soll dem Beklagten untersagt werden, die Bezeichnung P***** als selbständiges Wort oder als Wortteil im geschäftlichen Verkehr, insbesondere für das von ihm in W***** betriebene Chaletdorf sowie zur Kennzeichnung der entsprechenden Website bzw (ganz allgemein) im Internet zu verwenden.
+Die Vorinstanzen wiesen die Unterlassungsklage mangels Passivlegitimation ab. Nicht der Beklagte, sondern eine Gesellschaft gebrauche den Namen für deren Unternehmen und betreibe die entsprechende Website.
+Rechtliche Beurteilung
+In seiner dagegen erhobenen außerordentlichen Revision, in der der Kläger im Wesentlichen eine Haftung des Beklagten als Geschäftsführer der Gesellschaft geltend macht und den Standpunkt vertritt, dass dieser nach § 43 ABGB als „mittelbarer“ Täter haftet, zeigt der Kläger keine erhebliche Rechtsfrage auf.
+1. Die im Rechtsmittel aufgeworfene Rechtsfrage, ob nach § 43 ABGB nicht nur der unmittelbare, sondern auch der mittelbare Täter haftet, wurde in der Entscheidung 4 Ob 166/00s bereits beantwortet. Demnach richtet sich die Beurteilung der Passivlegitimation bei § 43 ABGB nach jenen Grundsätzen, die für Fälle mittelbarer Beteiligung an der Störung entwickelt wurden. Genauso wie derjenige, der den Wettbewerbsverstoß eines anderen durch eigenes Verhalten gefördert oder ermöglicht hat, für das wettbewerbswidrige Verhalten des unmittelbaren Täters (Störers) einzustehen hat, richtet sich der aus dem Namensrecht abgeleitete Unterlassungsanspruch auch gegen Mittäter und Gehilfen des eigentlichen Störers, die den Verstoß gegen das Namensrecht durch eigenes Verhalten gefördert oder überhaupt erst ermöglicht haben (vgl auch 4 Ob 176/01p; RIS-Justiz RS0114371).
+2. Aus dem klägerischen Rechtsschutzantrag ist nicht abzuleiten, dass der Kläger den Beklagten als mittelbaren Täter, Gehilfen, odgl in Anspruch nimmt. Der Kläger nahm den Beklagten als unmittelbaren Täter in Anspruch und brachte (ungeachtet des ausdrücklichen Einwands der fehlenden Passivlegitimation durch den Beklagten) im Begehren die von ihm nun im Rechtsmittel herangezogene Täterform nicht ansatzweise zum Ausdruck. Vielmehr wurde im erstgerichtlichen Verfahren auch nach der Klagsänderung auf die Verwendung des Namens für das von „ihm [also dem Beklagten, Anm] betriebenen Chaletdorf“ abgestellt und dem Beklagten vorgeworfen, er verwende den Namen auf seiner Website und habe kein „eigenes Recht“ am Namen.
+3. Wenn die Vorinstanzen aufgrund der Feststellungen, wonach die Gesellschaft (und nicht der Beklagte) das Feriendorf und eine entsprechende Website betreibe, die Passivlegitimation des Beklagten verneinten, bedarf das keiner Korrektur durch gegenteilige Sachentscheidung.
+4. Der geltend gemachte Verfahrensmangel und die behauptete Aktenwidrigkeit wurden geprüft, sie liegen schon mangels Relevanz nicht vor. Die damit im Zusammenhang aufgeworfenen Fragen zur Registrierung einer Domain sind für die Entscheidung nicht wesentlich. Es steht fest, dass sich die Gesellschaft der Website bedient hat, um damit das von ihr betriebene Feriendorf zu bewerben. Der Kläger stützte den geltend gemachten Unterlassungsanspruch darauf, dass der Beklagte die Website betreibt, ohne sich dabei auf die Registrierung einer Domain zu beziehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00032.19P.0226.000

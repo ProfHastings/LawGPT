@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.09.2014
+Geschäftszahl
+5Ob65/14s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Lovrek, Dr. Höllwerth, Dr. Grohmann und Mag. Wurzer als weitere Richter in der Grundbuchsache des Antragstellers Dipl.-Vw. N*****, vertreten durch Dr. Gerhard Benn-Ibler, Rechtsanwalt in Wien, wegen Berichtigung von Eintragungen (§ 136 GBG), über den Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts Innsbruck als Rekursgericht vom 4. Oktober 2013, GZ 52 R 107/13m-8, mit dem infolge Rekurses des Antragstellers der Beschluss des Bezirksgerichts Kitzbühel vom 1. August 2013, TZ 3376/2013-3, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen lehnten die vom Antragsteller beantragte Berichtigung des Grundbuchs durch Ersichtlichmachung einer Dienstbarkeit des Gehens und Fahrens, der Wasser- und Kanalleitung, der Telefon-, Fernseh- und Stromleitung an näher bezeichneten Grundstücken dreier näher bezeichneter, im Eigentum des Antragstellers stehender Liegenschaften mit der Begründung ab, dass bei Verbücherung des Realteilungs-, Tausch- und Dienstbarkeitsvertrags vom 16. 10. 2001 die nach Teilung gebildeten Grundstücke, die mit der Servitut belastet gewesen seien, lastenfrei abgeschrieben worden seien. Das Rekursgericht führte ergänzend aus, dass die Berichtigung nach § 136 GBG nicht zu einer Durchbrechung der Rechtskraft von Grundbuchsbeschlüssen führen dürfe. Für die Bereinigung der Situation komme daher nur eine Neueintragung der Dienstbarkeit in Betracht.
+Über Zulassungsvorstellung des Antragstellers, der im Wesentlichen geltend macht, dass mit der angestrebten Berichtigung des Grundbuchs keine Rechtskraftdurchbrechung verbunden sei, weil sich die Servitut gemäß § 844 Satz 4 ABGB nach Teilung des herrschenden Grundstücks auch auf die neu gebildeten und abgeschriebenen Trennstücke beziehe, erklärte das Rekursgericht, das den Wert des Entscheidungsgegenstands mit 30.000 EUR insgesamt nicht übersteigend bewertet hatte, den ordentlichen Revisionsrekurs für zulässig. Die in RIS-Justiz RS0125913 veröffentlichte Entscheidung 5 Ob 1/10y lasse eine gewisse Abkehr von der in RIS-Justiz RS0061091 veröffentlichten Judikaturlinie erkennen.
+Rechtliche Beurteilung
+Der Revisionsrekurs des Antragstellers ist entgegen des den Obersten Gerichtshof nicht bindenden (§ 71 Abs 1 AußStrG) Ausspruchs des Rekursgerichts nicht zulässig.
+1. Richtig ist, dass Grunddienstbarkeiten bei Teilung des herrschenden Guts auch ohne Zustimmung des Verpflichteten vom herrschenden Gut auf einen aus Trennstücken gebildeten neuen Grundbuchskörper übertragen werden (RIS-Justiz RS0011726; 5 Ob 1/10y NZ 2011/57 mwN; 8 Ob 17/13b). Für den Fall, dass das Teilstück einem bereits bestehenden Grundbuchskörper zugeschrieben wird, besteht die Servitut nur zugunsten dieses Teilstücks weiter (RIS-Justiz RS0011662).
+2. Allerdings gilt dieser Grundsatz nach der ausdrücklichen Anordnung in § 844 Satz 4 ABGB nur mangels (anderslautender) Vereinbarung.
+3. Der Realteilungs-, Tausch- und Dienstbarkeitsvertrag vom 16. 10. 2001 regelt nun in seinem Punkt V. ua bezüglich der eingetragenen Dienstbarkeiten, dass diese zwar „anteilig auf die betroffenen Grundstücke bzw Teilflächen übertragen werden“, die Parteien jedoch weiters übereinkommen, dass „... das Geh- und Fahrrecht jedoch nur entlang des L*****wegs bis zum O*****weg eingeräumt (wird), das Aufschließungsrecht in einer Breite von 2 m links oder rechts neben dem L*****weg“. Die Parteien erklärten ferner, diese Rechtseinräumung anzunehmen.
+4. Im vorliegenden Fall liegen daher Anhaltspunkte dafür vor, dass der Realteilungs-, Tausch- und Dienstbarkeitsvertrag jedenfalls im Hinblick auf die darin genannte örtliche Beschränkung dieser Servitut eine von der Zweifelsregel des § 844 Satz 4 ABGB abweichende vertragliche Vereinbarung über den Umfang derselben enthält. Es bestehen daher Zweifel darüber, ob die begehrte Berichtigung nur dazu dient, den Grundbuchstand mit der tatsächlichen Rechtslage in Einklang zu bringen. Von einer offenkundigen oder durch öffentliche Urkunden nachgewiesenen Unrichtigkeit iSd § 136 GBG (vgl dazu 5 Ob 78/07t mwN) kann daher nicht ausgegangen werden.
+Schon daran muss die begehrte Berichtigung scheitern. Eine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG stellt sich somit nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0050OB00065.14S.0904.000

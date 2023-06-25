@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2023
+Geschäftszahl
+1Nc16/23b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte Mag. Wurzer und Dr. Parzmayr als weitere Richter in der beim Landesgericht Innsbruck zu AZ 41 Cg 52/23z anhängigen Rechtssache der klagenden Partei A*, vertreten durch die Mag. Antonius Falkner Rechtsanwalt GmbH in Mieming, gegen die beklagte Partei Republik Österreich (Bund), vertreten durch die Finanzprokuratur in Wien, wegen 369.443,47 EUR sA, den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Delegierung des Verfahrens wird zurückgewiesen.
+2. Zur Verhandlung und Entscheidung über die Amtshaftungsklage wird das Landesgericht für Zivilrechtssachen Wien als zuständig bestimmt.
+Text
+Begründung:
+[1] 			Die klagende Partei macht mit ihrer auf Amtshaftung gestützten Klage Schadenersatzansprüche gegen die Republik Österreich (Bund) geltend, die sie unter anderem auch aus einer vermeintlich fehlerhaften Entscheidung des Oberlandesgerichts Innsbruck ableitet.
+[2] 			Das angerufene Landesgericht Innsbruck legte den Akt dem Obersten Gerichtshof zur Entscheidung nach § 9 Abs 4 AHG vor.
+Rechtliche Beurteilung
+[3] 			Die Fälle des § 9 Abs 4 AHG sind solche notwendiger und der Parteiendisposition entzogener Delegierung (Nachweise bei Schragel, AHG³ Rz 255). Ein Antragsrecht kommt der Partei insoweit nicht zu (RS0056449 [T27]). Der Delegierungsantrag der klagenden Partei ist daher als unzulässig zurückzuweisen (RS0056449 [T33]).
+[4] 			Nach § 9 Abs 4 AHG ist vom übergeordneten Gericht ein anderes Gericht gleicher Gattung zur Verhandlung und Entscheidung zu bestimmen, wenn der Ersatzanspruch aus der Verfügung des Präsidenten eines Landesgerichts oder eines Oberlandesgerichts oder aus einem kollegialen Beschluss eines dieser Gerichtshöfe abgeleitet wird, der unmittelbar oder im Instanzenzug zuständig wäre. Dadurch soll vermieden werden, dass auch nur der Anschein einer Befangenheit von Richtern entstehen kann.
+[5] 			Da die klagende Partei ihren Anspruch auch aus einem vermeintlich rechtswidrigen und schuldhaften Verhalten von Organen des Oberlandesgerichts Innsbruck ableitet, ist der Tatbestand des § 9 Abs 4 AHG erfüllt, sodass ein Landesgericht außerhalb des Sprengels dieses Oberlandesgerichts als zuständig zu bestimmen ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010NC00016.23B.0227.000

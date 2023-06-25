@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.2021
+Geschäftszahl
+7Ob53/21a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei D* T*, vertreten durch Dr. Wolfgang Muchitsch, Rechtsanwalt in Graz, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Stefan Herdey und Dr. Roland Gsellmann, Rechtsanwälte in Graz, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 9. Februar 2021, GZ 3 R 7/21f-12, womit das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 4. Dezember 2020, GZ 23 Cg 63/20a-8, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+[1] 		Zwischen den Parteien besteht ein Haushaltsversicherungsvertrag, der auch eine Privathaftpflichtversicherung umfasst. Der * 2010 geborene Sohn des Klägers ist mitversichert.
+[2] 		Dem Versicherungsvertrag liegen die Allgemeinen Bedingungen für die Haushaltsversicherung (AHB 2006/Stufe 2) zugrunde, die auszugsweise wie folgt lauten:
+„II. HAFTPFLICHTVERSICHERUNG
+[...]
+Art 12
+Sachlicher Umfang des Versicherungsschutzes
+1. Die Versicherung erstreckt sich auf Schadenersatzverpflichtungen des Versicherungsnehmers als Privatperson aus den Gefahren des täglichen Lebens […]
+Artikel 13
+Versicherte Personen
+1. Die Versicherung erstreckt sich auch auf gleichartige Schadenersatzverpflichtungen [...]
+1.2. der minderjährigen Kinder (auch Enkel-, Adoptiv-, Pflege- und Stiefkinder) des Versicherungsnehmers, seines mitversicherten Ehegatten oder Lebensgefährten; […]“
+Rechtliche Beurteilung
+[3] 		Das Berufungsgericht ließ die ordentliche Revision zu, weil der Oberste Gerichtshof einen unmittelbar vergleichbaren Fall noch nicht entschieden habe und die Entscheidung des Berufungsgerichts als Abgehen von der Entscheidung 7 Ob 55/87 gedeutet werden könnte. Damit zeigt das Berufungsgericht keine erhebliche Rechtsfrage auf. Da auch der Kläger in seiner Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[4] 		1. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind. In Art 12.1 AHB 2006/Stufe 2 wird eine primäre Risikoumschreibung dahin vorgenommen, dass der Risikobereich „Gefahren des täglichen Lebens“ unter Versicherungsschutz gestellt wird (7 Ob 184/14f; 7 Ob 145/17z).
+[5] 		Der versicherungsrechtliche Begriff der „Gefahr des täglichen Lebens“ ist nach ständiger Rechtsprechung so auszulegen, dass davon jene Gefahren, mit denen üblicherweise im Privatleben eines Menschen gerechnet werden muss, umfasst sind (RS0081099). Die Gefahr, haftpflichtig zu werden, stellt im Leben eines Durchschnittsmenschen nach wie vor eine Ausnahme dar. Deshalb will die Privathaftpflichtversicherung prinzipiell Deckung auch für außergewöhnliche Situationen schaffen, in die auch ein Durchschnittsmensch hineingeraten kann. Freilich sind damit nicht alle ungewöhnlichen und gefährlichen Tätigkeiten abgedeckt (RS0081276). Für das Vorliegen einer Gefahr des täglichen Lebens ist nicht erforderlich, dass sie geradezu täglich auftritt. Vielmehr genügt es, wenn die Gefahr erfahrungsgemäß im normalen Lebensverlauf immer wieder, sei es auch seltener, eintritt. Es darf sich nur nicht um eine ungewöhnliche Gefahr handeln, wobei Rechtswidrigkeit oder Sorglosigkeit eines Vorhabens den daraus entspringenden Gefahren noch nicht die Qualifikation als solche des täglichen Lebens nehmen. Voraussetzung für einen aus der Gefahr des täglichen Lebens verursachten Schadenfall ist nämlich eine Fehlleistung oder eine schuldhafte Unterlassung des Versicherungsnehmers (RS0081070). Auch ein vernünftiger Durchschnittsmensch kann aus Unvorsichtigkeit eine außergewöhnliche Gefahrensituation schaffen und sich in einer solchen völlig falsch verhalten oder sich zu einer gefährlichen Tätigkeit, aus der die entsprechenden Folgen erwachsen, hinreißen lassen. Derartigen Fällen liegt eine falsche Einschätzung der jeweiligen Sachlage zugrunde (7 Ob 184/14f; 7 Ob 145/17z). Plant der Versicherungsnehmer die Schadenszufügung von vornherein, so handelt es sich nicht um die zitierten „Ausrutscher eines Durchschnittsmenschen“, die verheerende Folgen nach sich ziehen können, sondern um gefährliche Bosheitsakte – mit ungleich höheren, im Leben eines Durchschnittsmenschen regelmäßig gar nicht vorkommenden, Gefahren als im Fall bloßer Fehleinschätzungen –, und zwar auch dann, wenn der beabsichtigte Erfolg weit über seine Erwartungen hinausgeht; solche Schadenszufügungen sind vom versicherten Risiko nicht umfasst (RS0081051 [insb auch T2]; 7 Ob 145/17z). Bei der Beurteilung derart geplanter Tätigkeiten von Kindern wird in der Rechtsprechung großzügiger vorgegangen, weil diese noch nicht in der Lage sind, das Unrechtmäßige ihrer Handlungen zu erkennen, und es auch nie gelingen wird, Kinder so zu beaufsichtigen, dass Unfughandlungen ausgeschlossen werden können (7 Ob 26/91; 7 Ob 28/91; 7 Ob 12/92).
+[6] 		2.1. Im vorliegenden Fall haben Geschädigte gegen den (damals) neunjährigen Sohn des Klägers Schadenersatzklagen erhoben, weil dieser im März 2019 über einen Zeitraum von zumindest zwei Wochen gemeinsam mit anderen, etwa gleichaltrigen Kindern mehrere geparkte Kraftfahrzeuge durch Zerkratzen des Lacks beschädigt habe.
+[7] 		Die Vorinstanzen gingen davon aus, dass bei einem neunjährigen Kind die grundsätzliche Einsicht vorauszusetzen sei, wonach ein Zerkratzen von Autos über einen Zeitraum von zwei Wochen kein harmloses, folgenloses Spiel, sondern ein Bosheitsakt sei. Es handle sich hier nicht um unbedachtes, spielerisches Handeln, um einen als Ausrutscher zu wertenden „Kinderstreich“, sondern um einen Vandalenakt, zumal der Sohn des Klägers selbst angegeben hat, sie hätten die Autos „kaputt“ machen wollen. Diese Beurteilung ist nicht korrekturbedürftig und hält sich im Rahmen der Judikatur.
+[8] 		2.2. Die vom Berufungsgericht zitierte Entscheidung 7 Ob 55/87 betrifft einerseits die Frage der vorsätzlichen Herbeiführung des Versicherungsfalls und ist andererseits auf Sachverhaltsebene nicht vergleichbar, sodass aus ihr für den vorliegenden Fall nichts zu gewinnen ist.
+[9] 		 3. Der Kläger macht insgesamt keine erhebliche Rechtsfrage geltend. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+[10] 		4. Da die Beklagte auf die Unzulässigkeit der Revision nicht hingewiesen hat, gebührt ihr kein Kostenersatz (vgl RS0112296).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132291

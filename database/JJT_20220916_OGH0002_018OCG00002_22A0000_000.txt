@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.2022
+Geschäftszahl
+18OCg2/22a
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden sowie den Senatspräsidenten Dr. Musger, die Hofräte Hon.-Prof. PD Dr. Rassi und Mag. Painsi sowie die Hofrätin Mag. Istjan, LL.M. in der Rechtssache der klagenden Partei L* GmbH, *, vertreten durch Rechtsanwalt Dr. Gahleithner & Partner OG, gegen die beklagte Partei G* Ltd, *, Vereinigtes Königreich, wegen Aufhebung eines Schiedsspruchs über die Zuständigkeit (Streitwert 100.000 EUR), den
+Beschluss
+gefasst:
+Spruch
+Die Klage wird als verspätet zurückgewiesen.
+Text
+Begründung:
+[1] 		Die klagende Partei begehrt die Aufhebung des zwischen den Streitteilen ergangenen Schiedsspruchs des Vienna International Arbitral Centre vom 31. Mai 2022 zur AZ ARB-5660. Mit dem der klagenden Partei am Freitag, 3. Juni 2022, zugestellten Schiedsspruch bejahte das Schiedsgericht seine Zuständigkeit für die Entscheidung über die Ansprüche der hier beklagten Partei. Die klagende Partei stützt ihre Aufhebungsklage auf § 611 Abs 2 Z 1 erster Fall ZPO.
+[2] 		Die an den Obersten Gerichtshof gerichtete Klage wurde am Montag, 5. September 2022, im Wege des Elektronischen Rechtsverkehrs (ERV) beim Handelsgericht Wien eingebracht. Im Rubrum der Klage findet sich folgender Hinweis:
+„Infolge dessen, dass trotz wiederholter Versuche eine Übermittlung dieses Schriftsatzes an den Obersten Gerichtshof unter seiner ERV-Kennzahl nicht möglich war bzw technisch mehrfach gescheitert ist, wird dieser Schriftsatz gewissermaßen 'nach alter Rechtslage' beim Handelsgericht Wien elektronisch eingebracht, ist dabei jedoch unmittelbar an den OGH adressiert.“
+[3] 		Die Klage wurde vom Handelsgericht Wien unter dem Aktenzeichen 16 Nc 1/22w erfasst. Am 6. September 2022 beantragte die klagende Partei beim Handelsgericht Wien die Weiterleitung der Aufhebungsklage an den Obersten Gerichtshof. Mit Note vom 7. September 2022 verfügte das Handelsgericht Wien die Übermittlung der Aufhebungsklage an den Obersten Gerichtshof. Die Klage langte im Wege des ERV am 8. September 2022 beim Obersten Gerichtshof ein.
+[4] 		Die Klage ist verspätet.
+Rechtliche Beurteilung
+[5] 		Nach § 611 Abs 4 ZPO ist die Klage auf Aufhebung innerhalb von drei Monaten zu erheben. Mit Blick auf die Zustellung am Freitag, 3. Juni 2022, und wegen § 126 Abs 2 ZPO war Montag, der 5. September 2022, der letzte Tag der Klagsfrist. Die Klage wurde beim Handelsgericht Wien eingebracht und langte erst am 8. September 2022 nach Ablauf der Klagsfrist beim Obersten Gerichtshof ein.
+[6] 		Zwar sind nach § 89 Abs 1 GOG die Tage des Postlaufs in eine prozessuale Frist nicht einzurechnen. Voraussetzung ist jedoch, dass das Schriftstück an das zuständige Gericht adressiert ist (RIS-Justiz RS0060177 [T2]). Andernfalls ist eine befristete Prozesshandlung nur dann als rechtzeitig anzusehen, wenn sie noch innerhalb der offenstehenden Frist beim zuständigen Gericht einlangt (RS0060177 [T2]). Der Postlauf zwischen dem Gericht, an welches das Schriftstück adressiert war, und dem tatsächlich zuständigen Gericht geht daher immer zu Lasten des Einschreiters. Die durch eine unrichtige Adresse ausgelöste Verzögerung des Postenlaufs geht zu Lasten der einbringenden Partei (RS0060177). Das Gesagte gilt auch in jenen Fällen, in denen die Eingabe im Weg des ERV eingebracht wurde (RS0124533).
+[7] 		An der hier vorliegenden Verspätung ändert auch der Umstand nichts, dass die beim Handelsgericht Wien eingebrachte Klage „unmittelbar an den Obersten Gerichtshof adressiert ist“. Ein im Wege des ERV übermitteltes Schriftstück kann nämlich nur dann als rechtzeitig eingebracht angesehen werden, wenn es durch Angabe des jeweils zutreffenden „Dienststellenkürzels“ an das richtige Gericht adressiert war (RS0124533). Im Anlassfall wurde die ERV-Eingabe aber an das Handelsgericht Wien adressiert (arg „beim Handelsgericht Wien elektronisch eingebracht“), was auch am ERV-Deckblatt ersichtlich ist („An HG Wien Marxergasse 1a 1030 Wien“).
+[8] 		Der behauptete Umstand, dass eine Übermittlung der Klage im Wege des ERV an den Obersten Gerichtshof nicht möglich gewesen sein soll bzw technisch mehrfach gescheitert sei, betrifft allenfalls die Verpflichtung des anwaltlichen Parteienvertreters zur Teilnahme am ERV (arg § 89c Abs 5 GOG: „nach Maßgabe der technischen Möglichkeiten“), ändert aber nichts an der aufgezeigten Verspätung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:018OCG00002.22A.0916.000

@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2019
+Geschäftszahl
+7Ob218/18m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei S***** GmbH, *****, vertreten durch Mag. Oliver Simoncic, Rechtsanwalt in St. Pölten, gegen die beklagte Partei Z*****AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. September 2018, GZ 1 R 56/18i-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Dem Berufshaftpflichtversicherungsvertrag liegen die Allgemeinen Bedingungen für die Haftpflichtversicherung von staatlich befugten und beeideten Architekten und Zivilingenieuren für Bauwesen sowie für Ingenieurkonsulenten für Vermessungswesen (AHBA) zu Grunde. Diese lauten auszugsweise:
+„Art. 6 Ausschlüsse vom Versicherungsschutz
+1. Die Versicherung erstreckt sich nicht auf Schadenersatzverpflichtungen
+[…]
+1.3.1 aus sich im Ausland auswirkenden Verstößen […]
+Art. 7 Begriff des Versicherungsfalles
+1. Versicherungsfall ist ein Verstoß (Handlung oder Unterlassung), als dessen Folge Schadenersatzverpflichtungen erwachsen könnten. […]“
+In Punkt 7.2 des Versicherungsvertrags vereinbarten die Streitteile unter anderem:
+„7.2. Örtlicher Geltungsbereich Auslandsdeckung für Europa
+7.2.1 Der Versicherungsschutz bezieht sich abweichend von Art. 6, Pkt. e 1.3.1 und 1.3.2 AHBA auch auf das europäische Ausland. […]
+7.2.2 Voraussetzung ist, dass der Verstoß in Europa gesetzt wurde, der Schaden in Europa eingetreten ist und die Geltendmachung in Europa erfolgt.
+[…]“
+Die Klägerin erstellte für ein österreichisches Unternehmen eine fehlerhafte statische Berechnung für ein Hochregallager, das dieses in Österreich produzieren ließ und das beim Endkunden in den USA montiert wurde. Die Vertragspartnerin der Klägerin begehrt von ihr den Ersatz der Sanierungskosten und stellt Schadenersatzforderungen.
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof hat bereits in seinen Entscheidungen 7 Ob 54/86 und 7 Ob 58/87 sowie jüngst in 7 Ob 16/17z ausgesprochen, dass die sogenannte Auslandsklausel (Ausschluss des Versicherungsschutzes für „Schadenersatzverpflichtungen aus sich im Ausland auswirkenden Verstößen“) die Deckungspflicht des Versicherers nicht ausschließt, wenn sich der anspruchsbegründende Sachverhalt im Verhältnis zwischen dem Versicherungsnehmer und dem Dritten zur Gänze im Inland verwirklicht hat. Der Ort des Schadenereignisses ist nämlich im Verhältnis zwischen dem Versicherungsnehmer und dem ihn in Anspruch nehmenden Dritten und nicht aufgrund von Rechtsbeziehungen zu ermitteln, an denen ausschließlich spätere Dritte und nicht mehr der Versicherungsnehmer beteiligt sind (RS0081581 [T1]).
+Dies wurde auch bereits in dem Fall bejaht, dass aufgrund von fehlerhaften Konstruktionsplänen/ Zeichnungen der Versicherungsnehmerin im Inland vom Dritten mangelhafte Produktteile gefertigt und der Mangel erst beim späteren Zusammenbau der Bauteile im Ausland entdeckt wurde (7 Ob 54/86; 7 Ob 58/87).
+2. Ausgehend von der relevanten Rechtsbeziehung zwischen der Versicherungsnehmerin und ihrem Vertragspartner wurde die fehlerhafte statische Berechnung im Inland hergestellt. Die Rechtsansicht des Berufungsgerichts, dass damit der Ort des Schadenereignisses im Inland liegt, hält sich daher im Rahmen der Judikatur.
+3. Nach den Bedingungen bestehen keine Risikoausschlüsse für Fälle, in denen der Versicherungsnehmer weiß, dass sein Beitrag zu einem Werk erfolgt, das im Ausland errichtet werden soll, oder ein Anspruch nach ausländischem Recht gegen den Versicherungsnehmer erhoben wird. Es besteht kein Anlass von der bisherigen Judikatur abzugehen.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00218.18M.0529.000

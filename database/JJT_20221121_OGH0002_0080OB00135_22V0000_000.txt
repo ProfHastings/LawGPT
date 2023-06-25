@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2022
+Geschäftszahl
+8Ob135/22v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei A* T*, vertreten durch Mag. Alexander Tupy, Rechtsanwalt in Wien, gegen die beklagte Partei N*, vertreten durch Dr. Fabian Alexander Maschke, Rechtsanwalt in Wien, wegen 10.185 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Wiener Neustadt als Berufungsgericht vom 8. August 2022, GZ 58 R 83/22m-19, mit dem das Urteil des Bezirksgerichts Baden vom 13. April 2022, GZ 7 C 1283/21b-13, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Einleitung eines Vorabentscheidungsverfahrens beim Gerichtshof der Europäischen Union wird zurückgewiesen.
+2. Die Revision wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte, eine Limited nach maltesischem Recht, bietet ua in Österreich Online-Glücksspiele an. Sie verfügt über eine maltesische Konzession, aber nicht über eine Konzession nach dem österreichischen GSpG.
+[2] 		Die Klägerin erlitt bei Online-Glücksspielen der Beklagten im Mai 2021 insgesamt einen Verlust in Höhe des Klagsbetrags. Sie wusste dabei, dass die Beklagte für Österreich keine Glücksspiellizenz hat und es war ihr die Möglichkeit, Onlinespielverluste gerichtlich rückzufordern (mit Hilfe eines Prozesskostenfinanzierers, der einen Teil des ersiegten Betrags behält), bekannt. Die Klägerin, die bereits in früheren Jahren bei Onlineglückspielen hohe Verluste erzielte und sich wegen vermuteter Spielsucht in Therapie begeben hatte, spielte auf der Plattform der Beklagten, weil sie sich subjektiv dazu gedrängt fühlte. Es steht nicht fest, dass sie ausschließlich oder überwiegend mit dem Ziel gespielt hat, im Fall eines Verlusts das Geld zurückzufordern.
+[3] 		Das Erstgericht gab dem auf Rückzahlung des Verlusts gerichteten Klagebgehren statt.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung und wies den Antrag der Beklagten auf Einleitung eines Vorabentscheidungsverfahrens zurück. Das Urteil des Erstgerichts stehe mit der Judikatur sowohl der österreichischen Höchstgerichte als auch des EuGH in Einklang. Die Bestimmung des § 1174 Abs 1 Satz 1 ABGB stehe dem Rückforderungsanspruch nicht entgegen.
+[5] 		Das Berufungsgericht erklärte die ordentliche Revision für zulässig, weil die Frage, inwieweit das Wissen des Spielers über das Fehlen der notwendigen Glücksspiellizenz und die rechtlichen Konsequenzen eine Rückforderung der Verluste ausschließen könne, über den Einzelfall hinaus bedeutend sei.
+[6] 		Die Beklagte strebt mit ihrer auf unrichtige rechtliche Beurteilung gestützten Revision die Abweisung des Klagebegehrens in der Sache, hilfsweise die Aufhebung der angefochtenen Entscheidung an.
+[7] 		Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+Rechtliche Beurteilung
+[8] 		1. Es besteht kein verfahrensrechtlicher Anspruch einer Prozesspartei auf Einleitung eines Vorabentscheidungsverfahrens. Ein darauf gerichteter Antrag ist zurückzuweisen (RIS-Justiz RS0058452 [T3]; RS0056514 [T14]).
+[9] 		2. Mit einer geänderten Rechtsprechung deutscher Gerichte auf Grundlage von in Deutschland geltenden, im inländischen Verfahren aber nicht anzuwendenden Normen kann die Zulässigkeit der Revision nicht begründet werden (RS0126988).
+[10] 		3. Soweit sich die Revision auf einen Verstoß gegen Treu und Glauben berufen will, weil die Klägerin in Kenntnis der fehlenden österreichischen Konzession der Beklagten und dem Bewusstsein der Möglichkeit, Verluste zurückzufordern, gespielt habe, übersieht sie, dass dieser Wissensstand umso mehr auf die Beklagte als Anbieterin des nichtkonzessionierten Spiels zutrifft. Es würde dem Ziel des Gesetzes widersprechen, das Verbot des nichtkonzessionierten Glücksspiels dadurch abzuschwächen, dass eine Rückabwicklung bei schon wegen vermuteter Spielsucht sich in Therapie befindenden Spielern dann rechtlich ausgeschlossen würde, wenn beide Parteien das Verbot bewusst übertreten haben.
+[11] 		Es ist das Ziel des Verbots, dass nichtkonzessionierte Glücksspiele nicht stattfinden. Die Rückabwicklung der illegal angenommenen Einsätze stellt dieses angestrebte Ergebnis zumindest in wirtschaftlicher Betrachtung wieder her. Die Frage, ob der Beklagten die Möglichkeit offenstünde, von einem Spieler in Österreich einen seinen Einsatz übersteigenden Gewinn zurückzufordern, ist mangels Anlass hier nicht zu behandeln.
+[12] 		4. Die Zulässigkeit der Revision ergibt sich auch nicht aus fehlender aktueller Rechtsprechung zur Anwendung des § 1174 Abs 1 Satz 1 ABGB in Verbindung mit dem in § 52 Abs 5 GSpG normierten verwaltungsstrafrechtlichen Verbot der Teilnahme an nicht konzessionierten Elektronischen Lotterien.
+[13] 		Der Oberste Gerichshof hat in jüngster Zeit bereits wiederholt ausgesprochen, dass § 1174 Abs 1 Satz 1 ABGB einem bereicherungsrechtlichen Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein verbotenes Online-Glücksspiel nicht entgegensteht, insbesondere weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern, um am Spiel teilzunehmen, und weil ein Belassen der Zahlung dem Zweck des Verbots des konzessionslosen Veranstaltens, Organisierens, Anbietens oder Zugänglichmachens von Glücksspiel widerspräche (RS0016325 [T15]; jüngst 6 Ob 229/21a Rz 20 und 26; 2 Ob 171/22v; 9 Ob 15/22d; 9 Ob 54/22i; 8 Ob 132/22b uva).
+[14] 		Darauf, ob die Klägerin durch ihre Teilnahme am verbotenen Spiel selbst einen Verwaltungsstraftatbestand erfüllt hat, kommt es daher nicht an (vgl jüngst 2 Ob 171/22v Rz 3; 9 Ob 54/22i Rz 14).
+[15] 		5. Insgesamt spricht die Revision der Beklagten damit keine entscheidungserhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO an.
+[16] 		Eine Kostenentscheidung entfällt, weil die Klägerin keine Revisionsbeantwortung erstattet hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00135.22V.1121.000

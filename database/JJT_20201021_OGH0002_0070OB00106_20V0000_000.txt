@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob106/20v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Parteien Z*****-AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien,    gegen die beklagte Partei C***** O*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, wegen 138.952,54 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck vom 2. April 2020, GZ 1 R 23/20x-64, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Revision will eine Abkehr von der Rechtsprechung des Obersten Gerichtshofs unter Hinweis auf deutsche Judikatur erreichen, dass nämlich bei leichter Fahrlässigkeit ein konkludenter Regressverzicht gegenüber dem Mieter des Versicherungsnehmers anzunehmen ist, wenn dieser die Versicherungsprämie zahlt. Dieser Argumentation ist schon dadurch der Boden entzogen, dass dem Beklagten keinesfalls bloß leichte Fahrlässigkeit zur Last liegt.
+2. Grobe Fahrlässigkeit ist im Bereich des Versicherungsvertragsrechts dann gegeben, wenn schon einfachste, naheliegende Überlegungen nicht angestellt und Maßnahmen nicht ergriffen werden, die jedermann einleuchten müssen (RS0080371). Dabei wird ein Verhalten vorausgesetzt, von dem der Handelnde wusste oder wissen musste, dass es geeignet ist, die Gefahr des Eintritts eines Versicherungsfalls herbeizuführen oder zu vergrößern (RS0030324). Die Schadenswahrscheinlichkeit muss offenkundig so groß sein, dass es ohne weiteres nahe liegt, zur Vermeidung eines Schadens ein anderes Verhalten als das tatsächlich geübte in Betracht zu ziehen (RS0031127 [T28]; RS0080414 [T3]). Als brauchbare Anhaltspunkte, von denen die Beurteilung im Einzelnen abhängen kann, kommen die Gefährlichkeit der Situation, die zu einer Sorgfaltsanspannung führen sollte, der Wert der gefährdeten Interessen, das Interesse des Handelnden an seiner Vorgangsweise und schließlich die persönlichen Fähigkeiten des Handelnden in Betracht (RS0030331).
+3. Der Beklagte hat hier eine systembedingt brandgefährliche Tätigkeit verrichtet, nämlich Schweißarbeiten an einer Fahrzeugkarosserie, wobei die Brandgefahr aufgrund der hohen Leitfähigkeit die gesamte Karosserie betraf. Es war daher besondere Vorsicht geboten. Der Beklagte unterließ aber die nach dem damaligen Stand der Technik unmittelbar nach Beendigung der Arbeiten (Kaltblasen) vorgesehene erste Nachkontrolle, die aus technischer Sicht noch zum Schweißvorgang selbst zu zählen ist. Er ließ das Fahrzeug ohne weitere Maßnahmen und Kontrollen unbeaufsichtigt, um sich zu einem Kunden zu begeben. Die Schadenswahrscheinlichkeit bei einem derartigen Vorgehen war offensichtlich. Die Nachlässigkeit unter den festgestellten Umständen ist als grobe Fahrlässigkeit zu beurteilen.
+Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00106.20V.1021.000

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.1963
+Geschäftszahl
+8Ob316/63
+Norm
+Handelsgesetzbuch §105;
+Handelsgesetzbuch §128;
+Einführungsgesetz zur Jurisdiktionsnorm §87;
+Einführungsgesetz zur Jurisdiktionsnorm §88;
+Kopf
+SZ 36/160
+Spruch
+Der Gerichtsstand der offenen Handelsgesellschaft ist nicht notwendig Gerichtsstand ihres Gesellschafters für Klagen aus dessen Haftung für Gesellschaftsschulden.
+Entscheidung vom 17. Dezember 1963, 8 Ob 316/63.
+I. Instanz: Landes- als Handelsgericht Linz; II. Instanz:
+Oberlandesgericht Linz.
+Text
+Der Kläger begehrt mit der beim Landes- als Handelsgericht Linz eingebrachten Klage von dem in Wien wohnhaften Beklagten die Herausgabe von Furnieren. Er stützte die Zuständigkeit des angerufenen Gerichtes auf die Bestimmung des § 87 JN. Er brachte hiezu vor, der Beklagte habe in Linz eine Betriebsstätte. Der Beklagte wendete bei der ersten Tagsatzung die örtliche Unzuständigkeit des angerufenen Gerichtes ein.
+Der Erstrichter wies die Einrede der örtlichen Unzuständigkeit zurück. Die Firma W. & Co., eine offene Handelsgesellschaft, deren persönlich haftender Gesellschafter der Beklagte sei, habe in Linz eine Betriebsstätte. Der Beklagte hafte als offener Gesellschafter gemäß § 128 HGB. persönlich für die Verbindlichkeiten der Gesellschaft. Soweit ein offener Gesellschafter wegen seiner geschäftlichen Tätigkeit für die offene Handelsgesellschaft in Anspruch genommen werde, könne er auch am Sitz einer Handelsniederlassung der offenen Handelsgesellschaft im Sinn des § 87 JN. geklagt werden.
+Das Rekursgericht gab dem Rekurs des Beklagten Folge.
+Es änderte den Beschluß der ersten Instanz dahin ab, daß es die Klage wegen örtlicher Unzuständigkeit des angerufenen Gerichtes zurückwies. Es teilte nicht die Ansicht des Erstrichters, der Beklagte könne deshalb beim angerufenen Gerichte belangt werden, weil dieses für Klagen gegen die offene Handelsgesellschaft zuständig sei und die Haftung des Beklagten im Zusammenhang mit seiner geschäftlichen Tätigkeit für die offene Handelsgesellschaft stehe. Die Betriebsstätte in Linz gehöre nicht dem Beklagten, sondern der protokollierten Firma W. & Co., Wien-Atzgersdorf, einer offenen Handelsgesellschaft. Das Vorhandensein dieser Betriebsstätte begrunde daher auch nicht einen Gerichtsstand gegen den in Wien wohnhaften Beklagten.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Den Ausführungen im Revisionsrekurs, der Beklagte habe dadurch, daß er im Telefonbuch als Teilnehmer bei der Telefonnummer der gegenständlichen Niederlassung in Linz aufscheine, einen äußeren Tatbestand gesetzt und demzufolge in der Geschäftswelt als Inhaber der Betriebsstätte in Linz zu gelten, kann nicht gefolgt werden. Den Eintragungen im Telefonbuch kann bei der Beurteilung der Frage, ob ein Gerichtsstand gegen eine bestimmte Person gegeben ist, keine entscheidende Bedeutung beigemessen werden, ganz abgesehen davon, daß der Kläger schon aus den Lieferscheinen und Rechnungen das Vorhandensein einer Handelsgesellschaft ohne weiteres hätte entnehmen können. Ebensowenig entscheidend ist, wie das zwischen der offenen Handelsgesellschaft und den persönlich haftenden Gesellschaftern bestehende Rechtsverhältnis in der Lehre beurteilt wird.
+Ein Gerichtsstand, der für Klagen gegen eine offene Handelsgesellschaft gegeben ist, kann nicht ohne weiteres auch für Klagen gegen einen persönlich haftenden Gesellschafter wegen seiner Haftung für die Verbindlichkeiten der offenen Handelsgesellschaft in Anspruch genommen werden. Dies folgt schon daraus, daß die Bestimmung des § 75 JN. über den allgemeinen Gerichtsstand von Handelsgesellschaften nur von diesen selbst und nicht auch von den Gesellschaftern spricht. Hinsichtlich des Gerichtsstandes für Klagen gegen die Gesellschafter bleibt es daher auch für Klagen, mit denen die Haftung der Gesellschafter für die Verbindlichkeiten der Gesellschaft in Anspruch genommen wird, bei der Regelung des § 66 JN., wonach der allgemeine Gerichtsstand einer Person durch deren Wohnsitz bestimmt wird. Was für den allgemeinen Gerichtsstand gilt, muß auch für den auf den Inhaber des Unternehmens, im Falle einer Handelsgesellschaft also auf diese selbst als Unternehmensinhaberin und nicht etwa auch auf die Gesellschafter, abgestellten Wahlgerichtsstand der Niederlassung im Sinn des § 87 JN. gelten. Der Gesellschafter kann daher wegen seiner Haftung für die Verbindlichkeiten der Gesellschaft bei einem für Klagen gegen die Gesellschaft gegebenen Gerichtsstand nur dann belangt werden, wenn dieser Gerichtsstand unabhängig von seiner Eigenschaft als Gesellschafter auf Grund sonstiger Zuständigkeitsbestimmungen auch für seine Person gegeben ist. Als solcher Gerichtsstand könnte der Gerichtsstand des Erfüllungsortes in Betracht kommen, weil für die Erfüllung der Verbindlichkeit nicht nur die offene Handelsgesellschaft selbst, sondern auch der offene Gesellschafter persönlich haftet (vgl. Weipert, Komm. zum HGB.[2], II, S. 203, Schlegelberger, Handelsgesetzbuch[4], II, S. 1107). Im vorliegenden Falle wurde aber nicht ein solcher Gerichtsstand des Erfüllungsortes in Anspruch genommen, sondern der Gerichtsstand des § 87 JN., der für die gegen den Beklagten gerichtete Klage nicht gegeben ist.
+Dem Revisionsrekurs war daher der Erfolg zu versagen.

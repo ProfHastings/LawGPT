@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+8Ob57/22y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Insolvenzsache der Schuldnerin R* B* OG, *, vertreten durch Dr. Maria Lisa Doll-Aidin, MAS. LL.M., Rechtsanwältin in Salzburg, über den Revisionsrekurs der  Schuldnerin gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 2. Dezember 2021, GZ 3 R 61/21x-315, mit dem der Rekurs der Schuldnerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz vom 16. März 2021, GZ 27 S 92/18h-246, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Gemäß § 28 Abs 2 ZustG richtet sich die elektronische Zustellung der Gerichte nach den §§ 89a ff des GOG. Daraus ergibt sich für die gerichtliche elektronische Zustellung insoweit der Ausschluss des gesamten zweiten Abschnitts des ZustG über die physische Zustellung (§§ 13–27) (2 Ob 239/13f; Stumvoll in Fasching/Konecny² § 1 ZustG Rz 24).
+[2] 		Gemäß § 89d Abs 2 GOG idF BGBl I Nr 26/2012 gilt als Zustellungszeitpunkt elektronisch übermittelter gerichtlicher Erledigungen und Eingaben (§ 89a Abs 2 GOG) jeweils der auf das Einlangen in den elektronischen Verfügungsbereich des Empfängers folgende Werktag, wobei Samstage nicht als Werktage gelten.
+[3] 		Der angefochtene Beschluss des Rekursgerichts wurde im elektronischen Rechtsverkehr zugestellt und gelangte am 23. 12. 2021 in den elektronischen Verfügungsbereich des damaligen anwaltlichen Vertreters der Schuldnerin. Zustelldatum war, weil die Bestimmung über die Fristenhemmung gemäß § 222 ZPO im Insolvenzverfahren gemäß § 254 Abs 1 Z 4 IO nicht anzuwenden ist, daher der folgende Werktag, der 24. 12. 2021. Dieser Tag ist der für die Ingangsetzung der Rekursfrist maßgebliche Zeitpunkt.
+[4] 		Ein Hinausschieben der Wirkungen des Einlangens der Gerichtssendung in den elektronischen Verfügungsbereich des Empfängers wegen der Ortsabwesenheit des Rechtsanwalts und seines Kanzleipersonals ist in den §§ 89a ff GOG nicht vorgesehen (2 Ob 239/13f).
+[5] 		Der von der Schuldnerin am 24. 1. 2022 eingebrachte Antrag auf Bewilligung der Verfahrenshilfe für die Erhebung eines Revisionsrekurses wurde bereits außerhalb der Rekursfrist gestellt und war nicht geeignet, diese zu unterbrechen. Der nach Zurückweisung des Verfahrenshilfeantrags durch das Erstgericht am 25. 2. 2022 eingebrachte Revisionsrekurs ist daher als verspätet zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00057.22Y.0525.000

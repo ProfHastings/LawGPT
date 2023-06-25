@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.03.1965
+Geschäftszahl
+7Ob319/64
+Norm
+Allgemeine Haftpflichtversicherungsbedingungen Art5 Punkt III;
+Allgemeine Haftpflichtversicherungsbedingungen Art36;
+Ergänzende Allgemeine Bedingungen für die Haftpflichtversicherung Punkt
+19 (1) litc;
+Kopf
+SZ 38/51
+Spruch
+Ein Moped fällt als Kraftfahrzeug unter den Versicherungsausschluß des Art. 5 III 3 b AHVB.
+Entscheidung vom 31. März 1965, 7 Ob 319/64
+I. Instanz: Kreisgericht Wels; II. Instanz: Oberlandesgericht Linz
+Text
+Der Kläger bringt vor, er habe mit der Beklagten einen Vertrag über eine Privat- und Sporthaftpflichtversicherung abgeschlossen. Es sei am 15. Februar 1961 auf der I.-Straße zu einem Unfall gekommen, bei dem Johann T. schwer verletzt worden sei. Johann T. und die Pensionsversicherungsanstalt der Arbeiter haben wegen dieses Unfalles Ansprüche gegen den Kläger erhoben. Die Beklagte weigere sich, Versicherungsschutz zu gewähren, mit der Behauptung, der Schaden habe sich im Zusammenhang mit dem Betrieb eines Kraftfahrzeuges ereignet und sei daher von der Versicherung nicht erfaßt. Die Versicherungsanstalt, bei der der Kläger gegen Haftpflicht aus dem Betrieb seines Motorfahrrades versichert sei, habe eine Schadensgutmachung abgelehnt, weil zwischen dem Unfall und dem Betrieb des Motorfahrrades kein Zusammenhang bestehe. Der Kläger begehrt daher die Feststellung, daß die Beklagte ihm Versicherungsschutz zu gewähren habe.
+Der Erstrichter hat das Klagebegehren abgewiesen.
+Das Berufungsgericht hat das Ersturteil unter Rechtskraftvorbehalt aufgehoben und die Rechtssache, zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurückverwiesen. Punkt 19 der EHVB., nach dessen Inhalt die Haftpflichtversicherung Schäden aus der Haltung und Benützung eines Fahrrades ohne Motor erfasse, lasse erkennen, daß Schäden durch ein Motorfahrrad gleich jenen Schäden, die aus der Haltung, dem Lenken und dem Gebrauch von Kraftfahrzeugen entstehen (Art. 5 III/3 b AHVB.), von dem Versicherungsschutz ausgenommen werden sollten. Es sei daher entscheidend, ob zwischen dem Gebrauch des Mopeds durch den Kläger und dem Schadensfall vom 15. Februar 1961 ein Kausalzusammenhang bestehe. Hierüber fehlen ausreichende Feststellungen.
+Der Oberste Gerichtshof gab den Rekursen beider Parteien nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Kläger wendet sich gegen die Rechtsansicht des Berufungsgerichtes, daß die Beklagte auf Grund des mit dem Kläger abgeschlossenen Versicherungsvertrages für Schäden aus dem Betrieb eines Motorfahrrades keinen Versicherungsschutz zu gewähren habe. Seine Ausführungen sind aber nicht geeignet, die Unrichtigkeit der Ansicht des Berufungsgerichtes darzutun.
+Für die Risikobegrenzung ist der Wortlaut des Versicherungsvertrages maßgebend, dessen Bestandteile die ihm angehefteten Allgemeinen Versicherungsbedingungen für die Haftpflichtversicherung (AHVB.) und die ergänzenden Bestimmungen hiezu (EHVB.) sind. Nach diesen sind Schäden aus der Haltung, dem Lenken und dem Gebrauch von Kraftfahrzeugen von der Versicherung ausgeschlossen (Art. 5 III/3 b der AHVB.). Es ist daher zu prüfen, ob das Moped des Klägers den im Art. 5 III/3 b AHVB. angeführten Kraftfahrzeugen zuzählen ist. Diese Frage hat das Berufungsgericht mit Recht bejaht. Es wird in den Versicherungsbedingungen an zwei anderen Stellen (Art. 2 I lit. d der AHVB. und Punkt 19 (1) lit. c der EHVB.) ausdrücklich auf Schäden aus der Haltung und Benützung von Fahrrädern ohne Motor hingewiesen und bestimmt, daß Schäden, die durch ihre Haltung und Benützung entstehen, von der Versicherung umfaßt sind. Daraus ergibt sich der Ausschluß von Schäden aus dem Betrieb von Fahrrädern mit Motor, da andernfalls die ausdrückliche Erwähnung der durch Fahrräder ohne Motor verursachten Schäden nicht verständlich wäre. Der Grund für den Ausschluß der Haftung für Schäden aus dem Betrieb von Motorfahrrädern ist nicht nur darin gelegen, daß für das Risiko aus diesem Betrieb ohnehin durch eine Haftpflichtversicherung vorgesorgt ist, daher kein Bedürfnis nach einer weiteren Versicherung besteht, sondern auch darin, daß es sich bei den im Art. 5 III/3 AHVB. aufgezählten Betrieben (Atomenergie, Luftfahrzeuge und Kraftfahrzeuge) um solche mit erhöhtem Risiko handelt. Ein ähnliches erhöhtes Risiko ist auch mit dem Betrieb von Motorfahrrädern verbunden. Dazu kommt, daß - wie schon das Berufungsgericht ausgeführt hat - auch Motorfahrräder durch § 79 (1) KFG. 1955 hinsichtlich der Haftpflichtversicherung den Kraftfahrzeugen gleichzuhalten sind. Die vom Kläger zitierte Entscheidung 7 Ob 62/62 (ZVR. 1963 Nr. 72 == JBl. 1963 S. 268) spricht nicht gegen die Rechtsausführungen des Berufungsgerichtes. Dort ist angeführt, daß soferne nichts anders erklärt ist, unter "Kraftfahrzeugen" nach österr. Kraftfahrrecht und damit auch nach Haftpflichtrecht die im § 1 (2) KFG. 1955 aufgezählten Fahrzeuge zu verstehen sind. Im vorliegenden fall ergibt sich jedoch aus den weiteren Bestimmungen der Allgemeinen Bedingungen zum Haftpflichtversicherungsvertrag, daß auch die Motorfahrräder als Kraftfahrzeuge gelten sollen.

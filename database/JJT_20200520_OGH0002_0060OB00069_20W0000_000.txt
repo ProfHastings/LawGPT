@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.05.2020
+Geschäftszahl
+6Ob69/20w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden, die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Dr. Stephan Riel als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der P***** GmbH, *****, gegen die beklagten Parteien 1. P*****, 2. G***** D*****, 3. W*****, alle vertreten durch Dr. Bernd Brunner, Rechtsanwalt in Tulln, wegen 579.066,72 EUR, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. Februar 2020, GZ 3 R 65/19d-42, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Eine Bindung des Zivilrichters an ein rechtskräftiges freisprechendes Strafurteil besteht nicht (RS0106015). Darüber hinaus wurden der Zweit- und der Drittbeklagte nach den Feststellungen (nur) vom Vorwurf des Betrugs und der Untreue freigesprochen. Dabei handelt es sich um Vorsatzdelikte (§§ 146, 153 iVm 7 Abs 1 StGB). Die Geschäftsführerhaftung nach § 25 GmbHG besteht aber auch bei fahrlässigem Fehlverhalten (vgl RS0116174; RS0059723; RS0049459). Die Freisprüche stehen daher der von den Vorinstanzen bejahten zivilrechtlichen Haftung des Zweit- und des Drittbeklagten nicht entgegen.
+2. Dass eine „Treuepflichtenverletzung“ des Zweit- und des Drittbeklagten gegenüber der Schuldnerin (deren Insolvenzverwalter der Kläger ist) nicht festgestellt wurde, ist irrelevant, weil es sich bei diesem Begriff um die rechtliche Beurteilung eines tatsächlichen Verhaltens handelt. Die Ausführung des Erstgerichts, es habe keinen Grund für die von der Schuldnerin an die Erstbeklagte ausgestellte Gutschrift gegeben, ist durchaus als Tatsachenfeststellung zu werten (vgl RS0043464). Diese Feststellung wurde überdies dadurch ergänzt, der Gutschrift sei keine Leistung zugrunde gelegen und es habe auch keinen anderen Rechtsgrund dafür gegeben.
+3. Die Bejahung der Geschäftsführerhaftung von Zweit- und Drittbeklagtem nach § 25 Abs 2 GmbHG durch die Vorinstanzen ist im vorliegenden Einzelfall im Ergebnis nicht korrekturbedürftig: Pflichtgemäß handelnde Geschäftsführer der nunmehrigen Schuldnerin hätten keine rechtsgrundlose Gutschrift zu deren Lasten veranlasst, die dazu führte, dass die Schuldnerin (nach außen wegen Aufrechnung) keine Forderung gegenüber der Erstbeklagten geltend machen konnte. Sie hätten vielmehr namens der Schuldnerin Zahlung der offenen Forderung von der Erstbeklagten verlangt. Dass diese bei Einforderung nicht bezahlt hätte, haben die Beklagten nicht behauptet. Insofern haben auch Zweit- und Drittbeklagter den Schaden der Schuldnerin verursacht, der in Nichtzahlung der Schuld der Erstbeklagten gegenüber der Schuldnerin besteht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00069.20W.0520.000

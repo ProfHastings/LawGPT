@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2017
+Geschäftszahl
+6Ob169/17x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei F***** S*****, vertreten durch Dr. Franz Krainer, Rechtsanwalt in Graz, gegen die beklagte Partei H***** M*****, vertreten durch Harb & Postl Rechtsanwälte OG in Graz, wegen 65.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 14. Juni 2017, GZ 5 R 20/17a-37, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof hat in der vom Kläger in seiner außerordentlichen Revision ausdrücklich erwähnten und zwischen den Parteien dieses Verfahrens ergangenen Entscheidung 4 Ob 115/17s (wiederholend [RIS-Justiz RS0019319]) klargestellt, dass bei der Darlehensklage den Gläubiger die Beweislast für die Zuzählung des Geldbetrags trifft; die Übergabe der Valuta sei eine anspruchsbegründende Tatsache der Darlehensklage (ebenso Rassi, Die Nähe zum Beweis – eine Analyse der Rechtsprechung, ÖJZ 2017, 297 [FN 46]), anspruchsbegründende Tatsachen seien von demjenigen zu beweisen, der sich darauf beruft.
+Auch im vorliegenden (Revisions-)Verfahren geht der Kläger davon aus, dem Beklagten ein Darlehen in Höhe von 100.000 EUR gewährt zu haben. Der Beweis der Zuzählung des Geldbetrags an den Beklagten ist dem Kläger hier allerdings nicht gelungen, wohingegen der Beklagte in dem der Entscheidung 4 Ob 115/17s zugrunde liegenden Fall „schließlich die offene Restverbindlichkeit [zugestanden hatte]“. Die Abweisung des Klagebegehrens durch die Vorinstanzen entspricht somit der Rechtslage.
+2. Dass es sich bei dem im Jahr 2006 abgeschlossenen (Darlehens-)Vertrag der Entscheidung 4 Ob 115/17s aufgrund der damaligen Rechtslage (§ 983 ABGB idF vor dem DaKrÄG 2010, BGBl I 2010/28) um einen Realkontrakt handelte, weshalb für die Gültigkeit des Vertrags die Darlehensvaluta wirklich übergeben worden sein musste, der hier im Jahr 2011 abgeschlossene Darlehensvertrag hingegen nach § 983 ABGB idF des DaKrÄG 2010 ein Konsensualvertrag war, der mit der Willenseinigung der Parteien zustande gekommen ist (10 Ob 31/15d), vermag daran letztlich nichts zu ändern. Konnte der (angebliche) Darlehensgeber zwar eine Darlehensvereinbarung, nicht aber auch die Zuzählung des Darlehens beweisen, kam zwar nach alter Rechtslage der Darlehensvertrag gar nicht zustande, während nach neuer Rechtslage dies das Zustandekommen eines Konsensualvertrags nicht hindert. Die tatsächliche Zuzählung des Darlehensbetrags an den Darlehensnehmer oder einen Dritten ist aber nach wie vor insofern anspruchsbegründende Tatsache, als der Darlehensgeber Rückzahlung der Darlehensvaluta nur verlangen kann, wenn er seinerseits die vertraglichen Verpflichtungen erfüllt hat (3 Ob 197/14p).
+3. Warum der Beklagte als Darlehensnehmer näher zu den Beweisen sein sollte, woraus sich seine Beweispflicht für die Zuzählung des Darlehensbetrags ergeben sollte, lässt die außerordentliche Revision ebenso offen wie eine Begründung dafür, weshalb die Vorinstanzen die „Beweislastregeln über den Anscheinsbeweis“ unrichtig angewendet haben sollen.
+4. Die in der außerordentlichen Revision behauptete Mangelhaftigkeit des Berufungsverfahrens liegt nicht vor (§ 510 ZPO). Dass dem vom Erstgericht beigezogenen Sachverständigen angeblich eine Aktenwidrigkeit unterlaufen sein soll, kann im Revisionsverfahren nicht aufgegriffen werden. Dies gilt auch für die Berücksichtigung einer „neu vorgefundene[n] Urkunde“ aus der Buchhaltung des Beklagten; nach den Feststellungen des Erstgerichts fand die „Summe von 100.000 EUR keinen Eingang in die Buchhaltungsunterlagen“.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00169.17X.1121.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.12.2021
+Geschäftszahl
+3Ob167/21m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei C*, vertreten durch Dr. Christian Perner, Rechtsanwalt in Wien, gegen die beklagte Partei G*, vertreten durch Dr. Elmar Kresbach, Rechtsanwalt in Wien, wegen 50.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 4. August 2021, GZ 5 R 56/21y-56, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die außerordentliche Revision des Klägers zeigt keine Rechtsfrage im Sinn des § 502 Abs 1 ZPO auf.
+[2] 		1. Die behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, sie liegt nicht vor. Nach ständiger Rechtsprechung des Obersten Gerichtshofs können angebliche Verfahrensmängel erster Instanz, die vom Berufungsgericht nicht als solche anerkannt worden sind, in der Revision nicht mehr geltend gemacht werden (RS0042963; RS0106371). Das Berufungsgericht verneinte den vom Kläger als Verfahrensmangel geltend gemachten „Begründungsmangel“, den er in angeblich widersprüchlichen Feststellungen zu erkennen meinte. Mit den Argumenten der Beweisrüge setzte sich das Berufungsgericht – entgegen der Ansicht des Klägers – hinreichend auseinander (vgl RS0043150). Die Beweiswürdigung ist im Revisionsverfahren nicht (mehr) überprüfbar (vgl RS0042903 [T2], RS0069246 [T1], RS0043371 [T5]).
+[3] 		2.1 Die ständige Rechtsprechung gewährt in Analogie zu § 1435 ABGB eine Kondiktion wegen Nichteintritts des erwarteten Erfolgs (condictio causa data causa non secuta). Diese setzt voraus, dass die Umstände, die nach dem Sinn und Zweck des Geschäfts die Grundlage der Leistung waren, nachträglich weggefallen sind (RS0033855).
+[4] 		2.2 Nach dem Sachverhalt kann aber vom Wegfall der Umstände, die Sinn und Zweck der Leistung des Geldbetrags des Klägers waren, nicht die Rede sein: Dem Kläger war klar, dass das von ihm überwiesene Geld dazu dienen sollte, ihm rasch eine Beteiligung am Immobilienprojekt zu verschaffen. Zu einer solchen Beteiligung ist es auch gekommen. Die mögliche Rückabwicklung hätte erfordert, dass der Kläger seine Gesellschaftsanteile abtritt, wozu er bislang nicht bereit war. Die Voraussetzungen für eine Rückforderung infolge Zwecksverfehlung analog § 1435 ABGB sind daher nicht zu erkennen.
+[5] 		3. Der Kläger kann sein Begehren auch nicht auf eine Darlehensrückforderung stützen: Fest steht nämlich, dass die schriftliche Bezeichnung der Überweisung als „Darlehen“ nur steuerliche Gründe hatte, was dem Kläger bewusst war; der Betrag wurde – der Vereinbarung entsprechend – zugunsten des Klägers für seinen Beteiligungserwerb verwendet. Eine Qualifikation dieser Vereinbarung als Darlehen hat das Berufungsgericht daher ohne Fehlbeurteilung verneint.
+[6] 		4. Eine schadenersatzrechtliche Haftung des Beklagten für den vom Kläger geleisteten Geldbetrag kommt schon deswegen nicht in Betracht, weil ein rechtswidriges und schuldhaftes Verhalten des Beklagten nicht einmal behauptet wurde.
+[7] 		5. Im Übrigen führt der Kläger inhaltlich keine gesetzmäßige Rechtsrüge aus, weil sich diese vom festgestellten Sachverhalt entfernt (vgl RS0043312).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0030OB00167.21M.1222.000

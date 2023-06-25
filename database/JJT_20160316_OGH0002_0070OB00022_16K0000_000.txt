@@ -1,0 +1,50 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.2016
+Geschäftszahl
+7Ob22/16k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei A*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Dieter Brandstätter, Rechtsanwalt in Innsbruck, wegen 9.796,50 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 13. November 2015, GZ 2 R 249/15d-55, womit das Urteil des Bezirksgerichts Innsbruck vom 6. August 2015, GZ 12 C 1276/12i-49, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revision wird Folge gegeben.
+Die Urteile der Vorinstanzen werden aufgehoben und die Rechtssache an das Erstgericht zur neuerlichen Entscheidung nach Verfahrensergänzung zurückverwiesen.
+Die Kosten des Rechtsmittelverfahrens bilden weitere Verfahrenskosten.
+Text
+Begründung:
+Zwischen den Streitteilen besteht ein Kaskoversicherungsvertrag, dem unter anderen die Allgemeinen Bedingungen für die Bonus-Kaskoversicherung mit Fixstufen (in Hinkunft: ABBKF) 2010 zugrunde liegen.
+Diese lauten auszugsweise:
+„Art 1
+Was kann versichert werden?
+...
+2.1 Bei allen Fahrzeugarten
+Schäden
+...
+- durch Brand oder Explosion und jene, die durch Kurzschlüsse und Verschmoren an Kabeln entstehen;
+...
+- durch Unfall, das ist ein unmittelbar von außen plötzlich mit mechanischer Gewalt einwirkendes Ereignis; Brems-, Betriebs- und reine Bruchschäden sind daher nicht versichert; ...“
+Am 5. 4. 2012 vergaß der Fahrer nach Fertigstellung von Kranarbeiten, den Kranarm des Fahrzeugs abzusenken. Nachdem er etwa 10 bis 15 m gefahren war, kam es zu einer unmittelbaren Berührung des Kranarms mit einer Hochspannungsleitung. Er hörte ein lautes Knistern - ähnlich wie bei Schweißarbeiten - und sah bei den Reifen Funken sprühen. Durch den Kontakt des Kranarms mit der Hochspannungsleitung wurden durch die starke Überspannung mehrere Teile des LKW beschädigt.
+Der Kläger begehrt - nach Berücksichtigung eines Selbstbehaltes - die Zahlung von 9.796,50 EUR sA. Die Schäden seien durch einen Unfall im Sinn der Versicherungsbedingungen eingetreten. Bereits die Einwirkung von Strom sei unter den Unfallbegriff zu subsumieren. Darüber hinaus beruhe die elektrische Einwirkung auf einer mechanischen Gewalteinwirkung. Abgesehen davon sei es zu einem Funkensprühen gekommen, worauf es gebrannt habe, weshalb die Schäden jedenfalls auch durch Brand oder Explosion, einen Kurzschluss oder ein Verschmoren im versicherungsrechtlichen Sinn verursacht worden seien.
+Die Beklagte beantragt die Klagsabweisung. Es liege kein Unfall, also kein unmittelbar von außen plötzlich mit mechanischer Gewalt einwirkendes Ereignis vor. Eine mechanische Einwirkung könne nicht mit Einwirkungen elektrischer oder chemischer Natur gleichgesetzt werden. Schäden die durch Überspannungen entstünden, seien nicht versichert.
+Das Erstgericht gab dem Klagebegehren statt. Es liege ein Unfall im Sinn der Versicherungsbedingungen vor.
+Das Berufungsgericht bestätigte dieses Urteil. Richtig sei, dass die schadensursächliche Überspannung an sich nicht als mechanische Einwirkung angesehen werden könne. Voraussetzung sei aber nur, dass es eine mechanische Einwirkung gegeben habe. Dies sei hier durchaus der Fall, da eine unmittelbare Berührung des Kranarms mit der Hochspannungsleitung erfolgt sei, also zwei verschiedene Körper - Kranarm einerseits und Leitung andererseits - aufeinander einwirkten. Damit sei ein unmittelbar von außen plötzlich mit mechanischer Gewalt einwirkendes Ereignis vorgelegen. Die Berührung sei kausal gewesen; dass nicht die mechanische Einwirkung an sich die Schäden bewirkt habe, sei irrelevant.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, da die Auslegung von Versicherungsbedingungen, die einen größeren Personenkreis betreffen, eine erhebliche Rechtsfrage darstelle.
+Gegen dieses Urteil wendet sich die Revision der Beklagten mit einem Abänderungsantrag; hilfsweise wird ein Aufhebungsantrag gestellt.
+Der Kläger begehrt, die Revision zurückzuweisen; hilfsweise ihr keine Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zulässig, sie ist auch im Sinn des Aufhebungsantrags berechtigt.
+1. Eine Kaskoversicherung ist eine Sparte der Sachversicherung, durch die das Interesse des Eigentümers des versicherten Fahrzeugs versichert ist (RIS-Justiz RS0080389 [T1]).
+2. Nach Art 2.1 ABBKF umfasst die Kaskoversicherung die Beschädigung des Fahrzeugs „durch Unfall, das ist ein unmittelbar von außen plötzlich mit mechanischer Gewalt einwirkendes Ereignis; Brems-, Betriebs- und Bruchschäden sind daher nicht versichert“.
+3. Nach ständiger Rechtsprechung ist für die Abgrenzung zwischen einem - von der Kaskoversicherung nicht umfassten - Betriebsschaden und einem Unfallschaden entscheidend, ob das Schadensereignis mit Rücksicht auf den Verwendungszweck des Fahrzeugs im Allgemeinen oder im Einzelfall dem Betriebsrisiko zugerechnet werden kann (RIS-Justiz RS0081193). Ein Betriebsschaden liegt vor, wenn der Schaden durch eine Einwirkung entstand, dem das Kraftfahrzeug gewöhnlich ausgesetzt ist und die es ohne weiteres überstehen muss (7 Ob 47/88, 7 Ob 136/14x). Entscheidend ist daher, ob sich Gefahren verwirklichen, denen das Fahrzeug im Rahmen seiner vorgesehenen konkreten Verwendungsart üblicherweise ausgesetzt ist; die also nur eine Auswirkung des normalen Betriebsrisikos sind, das in Kauf genommen wird (7 Ob 37/95). Demgegenüber liegt bei einem Unfall ein außergewöhnliches Ereignis vor. Um von einem Unfall sprechen zu können, muss hinzukommen, dass nach der Art, wie der versicherte Gegenstand im konkreten Fall verwendet wird, das schädigende Ereignis außergewöhnlich erscheint, sodass mit ihm vorher nicht zu rechnen war. Kein Kriterium für den Unterschied zwischen den Begriffen „Unfall“ und „Betriebsschaden“ ist, ob das Ereignis durch ein Verhalten des jeweiligen Kraftfahrzeuglenkers verursacht wird (7 Ob 136/14x).
+Das Berühren der Hochspannungsleitung mit dem nicht zur Gänze abgesenkten Kranarm zählt nicht zu den für den bestimmungsgemäßen Einsatz eines mit einem Ladekran versehenen LKW adäquaten Risiken, die dieser ohne weiteres überstehen muss. Der Einwand der Beklagten, es liege ein Betriebsschaden vor, geht ins Leere.
+4. Gegen die Beurteilung als Unfall wendet sich die Revision mit dem Argument, es liege kein unmittelbar mit mechanischer Gewalt einwirkendes Ereignis, sondern eine nicht versicherte elektrische Einwirkung vor.
+4.1 Mechanische Gewalt bedeutet, dass eine Einwirkung nach den Gesetzen der Mechanik durch Druck oder Zug (Jacobsen in Feyock/Jacobsen/Lemor, Kraftfahrzeugversicherung3 § 12 AKB Rn 120; Stadler in
+Stiefel/Maier, Kraftfahrtversicherung18 A.2.3.2 Rn 6; vgl Knappmann in Prölls/Martin Versicherungsvertragsgesetz29 A.2.3. AKB 2008 Rn 8) vorliegt. Elektrische Einwirkung kann dieser Definition nicht gleichgestellt werden (vgl Stadler aaO Rn 7). Dass die mechanische Einwirkung eine besonders intensive sein muss, kann dem Begriff nicht entnommen werden (Jacobsen aaO Rn 120; Stadler aaO Rn 6).
+4.2 Das Unfallereignis muss auch „unmittelbar“ auf das Fahrzeug einwirken. „Unmittelbar“ ist eine Ursache nur ohne das Zwischentreten einer anderen Ursache (Jacobsen aaO Rn 115; Stadler aaO Rn 21).
+4.3 Ob das bloße Berühren der Hochspannungsleitung „Gewalt“ im Sinn der Versicherungsbedingungen ist, kann dahin gestellt bleiben, es wirkte jedenfalls nicht unmittelbar: Das Berühren einer nicht unter Strom stehenden Hochspannungsleitung wäre ohne Folgen geblieben. Die Schäden entstanden daher gerade nicht durch die vom Kläger behauptete mechanische, sondern erst durch die dadurch ausgelöste - und damit dazu getretene - elektrische Einwirkung, die zu einem Funkensprühen - und nach dem weiteren Vorbringen des Klägers zum Brand - führte. Die Schäden entstanden damit nicht aufgrund eines Unfalls im Sinn von Art 1.2.1 ABBKF.
+5. Der Kläger erachtet Versicherungsschutz auch deshalb als gegeben, weil die Schäden durch Brand entstanden. Da aber weder die bisher in diesem Zusammenhang erstatteten Vorbringen der Streitteile erörtert, noch entsprechende Feststellungen getroffen wurden, ist eine Beurteilung, ob die Schäden durch Brand im Sinn des Art 1.2 ABBKF verursacht wurden, derzeit nicht möglich.
+6. Der Kostenvorbehalt gründet sich auf § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00022.16K.0316.000

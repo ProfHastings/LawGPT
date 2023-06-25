@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+2Ob199/19g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei M ***** GmbH, *****, vertreten durch Rechtsanwälte Dr. Kleinszig/Dr. Puswald Partnerschaft (OG) in St. Veit an der Glan, gegen die beklagten Parteien 1. E***** KG, 2. c***** GmbH, beide *****, beide vertreten durch Dr. Michael Böhme, LL.M., Rechtsanwalt in Wien, wegen 701.664,26 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. September 2019, GZ 4 R 72/19s-26, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Ob eine rechtsgeschäftliche Erklärung im Einzelfall richtig ausgelegt wurde, begründet nur dann eine erhebliche Rechtsfrage, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RS0042936). Das gilt auch für die Auslegung einer Effektivklausel in einer Bankgarantie (RS0017670 [T8, T10; vgl auch RS0042936 [T37, T59]).
+Im vorliegenden Fall haben die Vorinstanzen die Effektivklausel dahin ausgelegt, dass nur die Einzahlung des vollen garantierten Betrags auf ein bestimmtes Konto zur Haftung der Garantin führe. Das ist durch die Entscheidung 7 Ob 679/88 gedeckt. Die in der Revision aufgezeigten Formulierungsunterschiede ändern nichts daran, dass auch hier die Haftung der Garantin erst „mit der Einzahlung des oben genannten Betrages“, also der vollen Garantiesumme, beginnen sollte. Die in der Revision angeführten Entscheidungen 1 Ob 66/04v und 1 Ob 557/95 stehen dem nicht entgegen, weil dort bei Inanspruchnahme der Garantin jeweils der volle Garantiebetrag eingezahlt war; 1 Ob 66/04v verwies in diesem Zusammenhang sogar ausdrücklich auf 7 Ob 679/88. Auch der Entscheidung 6 Ob 105/05t lag ein solcher Sachverhalt zugrunde.
+Abgesehen davon ist hier nicht in einem Verfahren zwischen der Begünstigten und der Garantin strittig, ob die Effektivklausel im Sinn der Begünstigten ausgelegt werden kann und die Garantin daher zur Zahlung verpflichtet ist. Vielmehr ist in einem Verfahren zwischen der Garantieauftraggeberin (Klägerin) und der Begünstigten (Erstbeklagten) zu entscheiden, ob die von der Klägerin übermittelte Garantie nach der zwischen den Parteien getroffenen Vereinbarung zur „Ablöse“ des im Vertrag vorgesehenen Deckungsrücklasses geeignet ist. Bei der Auslegung dieser Vereinbarung ist zu berücksichtigen, dass es der Klägerin leicht möglich gewesen wäre, eine eindeutig im Sinn ihres Standpunkts formulierte Garantie vorzulegen, was jeden Zweifel an der wirksamen Sicherstellung zugunsten der Erstbeklagten beseitigt hätte. Hingegen müsste sich die Erstbeklagte nach einer Freigabe des Deckungsrücklasses allenfalls auf einen Rechtsstreit mit der Garantin einlassen, dessen Ausgang aufgrund der Entscheidung 7 Ob 679/88 (zumindest) sehr unsicher wäre. Bei Auslegung der Vereinbarung nach der Übung des redlichen Verkehrs (§ 914 ABGB) besteht auf dieser Grundlage kein Anlass, der Erstbeklagten das Risiko der Auslegung der Effektivklausel in einem allfälligen Folgeprozess zuzuweisen. Auch das trägt die Auffassung der Vorinstanzen, dass die von der Klägerin übermittelte Garantie die Erstbeklagte nicht zur Freigabe des Deckungsrücklasses verpflichtete.
+Auf dieser Grundlage kommt es nicht darauf an, dass die Klägerin zudem nicht Zahlung auf das in der Effektivklausel genannte Konto begehrt hatte und dass der Klagebetrag nicht zur Gänze durch die tatsächlich geleisteten Zahlungen der Erstbeklagten und den insofern zurückbehaltenen Deckungsrücklass gedeckt war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00199.19G.0424.000

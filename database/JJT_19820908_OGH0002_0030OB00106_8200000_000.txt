@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.09.1982
+Geschäftszahl
+3Ob106/82
+Norm
+ABGB §1325;
+EO §291;
+Kopf
+SZ 55/119
+Spruch
+Die Pfändung einer Schmerzengeldforderung infolge Anerkennung setzt den Abschluß eines Anerkenntnisvertrages voraus
+OGH 8. September 1982, 3 Ob 106/82 (KG Wiener Neustadt R 109/82; BG Gloggnitz E 2642/81)
+Text
+Der betreibenden Partei wurde gegen die verpflichtete Partei vom Erstgericht auf Grund des Urteiles des BG Gloggnitz vom 22. 7. 1981, 2 C 82/81, zur Hereinbringung der Forderung von 9013.20 S samt Anhang die Exekution durch Pfändung der der verpflichteten Partei gegen die Drittschuldner Johannes S und I Versicherungs-AG auf Grund des Vorfalles vom 6. 2. 1981 mit dem PKW Alfa Romeo, Kennzeichen N 475.298, angeblich zustehenden Forderung für Schmerzengeld, welches bereits von den Drittschuldnern ausdrücklich anerkannt worden sei, im Betrag von 15 000 S mehr oder weniger und Überweisung der gepfändeten Forderung zur Einziehung bewilligt.
+Die verpflichtete Partei beantragte am 6. 10. 1981 die Einstellung dieser Exekution im wesentlichen mit der Begründung, die gepfändete Schmerzengeldforderung sei weder durch Vertrag noch durch Vergleich anerkannt worden und daher gemäß § 291 EO unpfändbar.
+Mit Beschluß ON 5 wies das Erstgericht den Einstellungsantrag in Ansehung der Forderung der verpflichteten Partei gegen den Drittschuldner I Versicherungs-AG ab (Punkt 1 des Beschlusses). In Ansehung der Schmerzengeldforderung der verpflichteten Partei gegen Johannes S wurde die betreibende Partei zur Äußerung über den Einstellungsantrag aufgefordert (Punkt 2 des Beschlusses).
+Mit Beschluß ON 8 stellte das Erstgericht, insoweit unangefochten, die Exekution in Ansehung der Forderung der verpflichteten Partei gegen den Drittschuldner Johannes S gemäß § 39 Abs. 1 Z 6 EO ein.
+Mit Beschluß ON 10 hob das Rekursgericht den Beschluß des Erstgerichtes ON 5 in seinem Punkt 1 auf und verwies die Sache an das Erstgericht zur neuerlichen Entscheidung zurück.
+Das Erstgericht wies den Einstellungsantrag der verpflichteten Partei vom 6. 10. 1981 in Ansehung der Forderung der verpflichteten Partei gegen den Drittschuldner I Versicherungs-AG neuerlich ab. Es vertrat auf Grund des festgestellten Sachverhaltes die Ansicht, das in Exekution gezogene Schmerzengeld sei jedenfalls dem Gründe nach anerkannt worden und daher gemäß § 291 EO pfändbar.
+Das Rekursgericht änderte diesen Beschluß dahin ab, daß die Exekution in Ansehung der Pfändung der der verpflichteten Partei gegen den Drittschuldner I Versicherungs-AG zustehenden Schmerzengeldforderung im Betrage von 15 000 S mehr oder weniger gemäß § 39 Abs. 1 Z 2 EO eingestellt wurde. Das Rekursgericht vertrat hiezu auf Grund des festgestellten Sachverhalts zusammenfassend die Ansicht, eine vertragliche (oder vergleichsweise) Anerkennung der Schmerzengeldforderung gegen die I Versicherungs-AG sei nicht erwiesen; der Anspruch sei auch nicht gerichtlich geltend gemacht worden; unter gerichtlicher Geltendmachung iS des § 291 EO sei jene mit Klage zu verstehen, nicht aber der bloße Anschluß als Privatbeteiligter in einem Strafverfahren; überdies sei der Geschädigte im vorliegenden Fall vom Strafgericht auf den Zivilrechtsweg verwiesen worden. Die Forderung sei daher nach § 291 EO unpfändbar.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die betreibende Partei verkennt in ihren Ausführungen im Revisionsrekurs, daß es für die Pfändbarkeit einer Schmerzengeldforderung infolge Anerkennung nicht schon ausreichend ist, daß sie vom Schuldner im Zuge von Verhandlungen mit den Geschädigten teilweise als zu Recht bestehend angesehen wird; es ist vielmehr erforderlich, daß die Forderung vertraglich (zweiseitiges Rechtsgeschäft) anerkannt wird. Zum Abschluß eines Anerkenntnisvertrages betreffend die Anerkennung des gepfändeten Schmerzengeldanspruches ist es aber nach dem festgestellten Sachverhalt noch nicht gekommen, nicht einmal zu einer vertraglichen Anerkennung der Forderung dem Gründe nach. Der Drittschuldner I Versicherungs-AG hat vielmehr nach dem festgestellten Sachverhalt bisher nur - einseitig - seine Rechtsansicht über den Bestand der Schmerzengeldforderung im Zuge der Verhandlungen über die Liquidierung des Schadens geäußert, wobei er den Anspruch nur teilweise als begrundet hielt. Eine entsprechende Äußerung wurde auch im Exekutionsverfahren gemäß § 301 EO erstattet. Da auch nicht erwiesen ist, daß die in Exekution gezogene Forderung vergleichsweise anerkannt oder gegen die Drittschuldnerin I Versicherungs-AG bereits gerichtlich geltend gemacht wurde, ist es richtig, daß die Voraussetzungen des § 291 EO für die Pfändbarkeit der in Exekution gezogenen Schmerzengeldforderung nicht gegeben sind. Das Rekursgericht hat somit mit Recht die Exekution auf die Schmerzengeldforderung der verpflichteten Partei gegen die 1 Versicherungs-AG gemäß § 291 und § 39 Abs. 1 Z 2 EO eingestellt.
+Der Vollständigkeit halber wird bemerkt, daß die in den Ausführungen der zweiten Instanz und im Revisionsrekurs zitierte Entscheidung JBl. 1965, 33 die Voraussetzungen für die Vererblichkeit eines Anspruches auf Schmerzengeld betraf, während es hier nur um die Frage der Pfändbarkeit eines solchen Anspruches geht, die im § 291 EO geregelt ist.

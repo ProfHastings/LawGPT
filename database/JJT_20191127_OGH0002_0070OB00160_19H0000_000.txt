@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.2019
+Geschäftszahl
+7Ob160/19h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Dr. B***** S*****, vertreten durch Dr. Walter Müller und andere Rechtsanwälte in Linz, gegen die beklagte Partei Z*****-Aktiengesellschaft, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 29.613,61 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 12. Juni 2019, GZ 6 R 52/19p-28, mit dem das Urteil des Landesgerichts Linz vom 14. Februar 2019, GZ 5 Cg 51/18x-24 bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.883,16 EUR (darin 313,86 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Dem Vertrag zwischen den Parteien über eine „Familien-Unfallversicherung“ liegen die AUVB 2008 zugrunde, welche soweit relevant folgenden Inhalt haben:
+„[…]
+Artikel 19
+Sachliche Begrenzung des Versicherungsschutzes
+[…]
+4. Für organisch bedingte Störungen des Nervensystems wird eine Leistung nur erbracht, wenn und soweit diese Störung auf eine durch den Unfall verursachte organische Schädigung zurückzuführen ist.
+Seelische Fehlhaltungen (Neurosen, Psychoneurosen) gelten nicht als Unfallfolgen.
+[...]“
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1.1. Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist eine Frage des Einzelfalls, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung grundsätzlich keine erhebliche Bedeutung zukommt und die daher im Allgemeinen keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (RS0042828).
+1.2. Wenn die Vorinstanzen das Beklagtenvorbringen insgesamt als ausreichende Berufung auf den Risikoausschluss psychischer Fehlhaltungen iSd Art 19.4 AUVB 2008 ansahen, begründet dies nach dem Akteninhalt jedenfalls keine unvertretbare, hier aufzugreifende Fehlbeurteilung.
+2.1. Allgemeine Versicherungsbedingungen sind nach den Grundsätzen der Vertragsauslegung (§§ 914 ff ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]). Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RS0050063 [T3]).
+2.2. Der Fachsenat hat bereits wiederholt zu mit Art 19.4 AUVB 2008 wortgleichen Klauseln dahin Stellung genommen, dass es sich dabei um einen Risikoausschluss handelt, der keinen Bedenken nach § 6 Abs 3 KSchG begegnet. Demnach liegt nur dann eine von der Versicherungsdeckung umfasste Störung des Nervensystems vor, wenn sie organische Ursachen hat. Wird das Nervensystem nicht organisch geschädigt, sondern entsteht eine Neurose nur aufgrund der psychischen Haltung des Geschädigten zum Unfall und seinen Folgen, so ist die Deckung ausgeschlossen (RS0122120, 7 Ob 44/15v).
+2.3. Die Rechtsansicht der Vorinstanzen, ausgehend davon, dass eine vom Kläger behauptete psychische Verarbeitungsstörung, die zu einer weiteren Funktionsbeeinträchtigung führen solle, eine seelische Fehlhaltung, als solche keine von der Versicherungsdeckung umfasste Störung des Nervensystems und daher bei der Beurteilung des Ausmaßes der dauernden Funktionsbeeinträchtigung nicht relevant sei, hält sich im Rahmen dieser Rechtsprechung.
+2.4. Zwar wird der Versicherungsschutz nicht ausgeschlossen, wenn der Versicherte eine Gesundheitsschädigung infolge eines Schocks erleidet, der durch ein Unfallereignis hervorgerufen wird (
+RS0104038). Dass der nunmehrige Kläger durch seinen Unfall einen solchen Schock im Sinne eines unmittelbar durch den Unfall verursachten psychischen Traumas erlitten hätte, hat er ohnehin nicht behauptet.
+7 Ob 2136/96k lag ein hier nicht behauptetes „psychisches Unfalltrauma“ zugrunde, zu 7 Ob 200/18i = RS0132381 fehlte es an einem Unfall. Diese Entscheidungen sind daher nicht einschlägig.
+2.5. Der dazu behauptete Mangel des Berufungsverfahrens liegt somit nicht vor.
+3. Die Vorinstanzen haben die Leistungspflicht der Beklagten im Rahmen der Rechtsprechung des Fachsenats verneint.
+4. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00160.19H.1127.000

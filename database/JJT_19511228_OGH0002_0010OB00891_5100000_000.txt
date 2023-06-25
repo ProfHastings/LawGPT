@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.12.1951
+Geschäftszahl
+1Ob891/51
+Norm
+ABGB §912;
+EO §368;
+Handelsgesetzbuch §346;
+Handelsgesetzbuch §362;
+Handelsgesetzbuch §380;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art4;
+ZPO §226;
+ZPO §235;
+ZPO §410;
+Kopf
+SZ 24/344
+Spruch
+Handelsgewohnheit, daß eine nicht mitverkaufte Verpackung, insbesondere Säcke, zurückzustellen ist, wenn nicht ein entgegengesetzter Handelsbrauch in einzelnen Branchen vorliegt. Neben der primär geschuldeten Leistung kann alternativ das Interesse eingeklagt werden.
+Entscheidung vom 28. Dezember 1951, 1 Ob 891/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die Klägerin hat im eigenen Namen als Beauftragte des Bundeskanzleramtes (Österreichhilfe) die Beklagte mit Mehl in Jute- und Leinensäcken beliefert. Da die Beklagte die Säcke nicht zurückgestellt hat, begehrt sie unter Hinweis auf die angeblich getroffene Vereinbarung, daß diese Säcke als Eigentum der klagenden Partei der Rückgabepflicht unterliegen, Rückstellung der Säcke oder Zahlung des Betrages von 66.250 S s. A. Die beiden unteren Instanzen haben im Sinne des Klagebegehrens erkannt.
+Der Oberste Gerichtshof gab Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zu Unrecht beschwert sich ferner die Revision darüber, daß das Berufungsgericht der auf das Eigentumsrecht gestützten Klage aus dem Titel einer obligationsrechtlichen Verpflichtung stattgegeben hat. Diese Rüge wäre nur dann berechtigt, wenn sich aus dem Wortlaut der Klage eindeutig ergäbe, daß die Klägerin ihr Klagebegehren ausschließlich auf ihr angebliches Eigentumsrecht stützt und einen Zuspruch aus einem anderen Rechtstitel nicht anstrebt. Das ist aber nicht der Fall, denn aus der von der Revision bezogenen Stelle der Klage folgt, daß das Begehren einerseits auf das angebliche Eigentumsrecht der Klägerin gestützt wird anderseits aber auch auf eine Vereinbarung, daß diese Säcke der Rückgabepflicht unterliegen. Daraus ergibt sich, daß die Klägerin Rückstellung der Säcke schlechthin verlangt, ohne sich ausdrücklich auf einen bestimmten Rechtstitel festzulegen. Ist das aber der Fall, so hat nach nunmehr feststehender Judikatur des Obersten Gerichtshofes (1 Ob 271/49, 2 Ob 134/50, 3 Ob 292/51) das Gericht das Begehren nach allen in Betracht kommenden Rechtstiteln zu untersuchen. Das Berufungsgericht war demnach auch berechtigt, dem Klagebegehren aus der Erwägung stattzugeben, daß die beklagte Firma, sei es aus dem Titel des Vertrages, sei es aus dem des Schadenersatzes zur Rückstellung der Säcke verpflichtet ist.
+Aber auch die Pflicht zur Rückgabe der Säcke wurde vom Berufungsgericht mit Recht bejaht. Auch wenn man von dem Aufdruck auf den Fakturen und der vom Berufungsgericht aus der Nichtbeanstandung dieses Aufdruckes sich ergebenden stillschweigenden Vereinbarung nach § 362 HGB. absieht, ist das Klagebegehren begrundet.
+Nach Handelsgewohnheit ist eine nicht mitverkaufte Verpackung, insbesondere Säcke, nach dem Verkaufe zurückzustellen, wenn nicht ein entgegengesetzter Handelsbrauch in einzelnen Branchen vorliegt. Im vorliegenden Fall hat das Berufungsgericht weder eine abweichende Übung im Mehlhandel festgestellt, noch als erwiesen angenommen, daß die Säcke mitverkauft wurden. Beklagte ist daher zur Rückstellung der Säcke, und wenn sie nicht mehr vorhanden sind, zum Naturalersatz verpflichtet.
+Das Berufungsgericht hat aber auch mit Recht die Beklagte wahlweise zur Zahlung des Geldwertes verurteilt, da, wie das Berufungsgericht zutreffend ausführt, aus der Klagsformulierung im Zeitpunkte des Schlusses der Verhandlung erster Instanz - nur dieser ist maßgebend - sich ergibt, daß die Klägerin nicht etwa der Beklagten eine Ermächtigung nach § 410 ZPO. einräumen, sondern eine Verurteilung zum Natural- oder Geldersatz erzielen wollte.
+Ein solches verbundenes Begehren ist aber zulässig. Das österreichische Recht läßt dem Kläger die Wahl, ob er die geschuldete Leistung (Naturalersatz) oder das Interesse in Geld verlangen will (§ 235 ZPO.). Das Recht, an Stelle der Leistung das Interesse zu verlangen, ist im § 368 EO. ausdrücklich anerkannt. Doch darf daraus nicht gefolgert werden, daß die Geltendmachung des Interessenanspruches voraussetzt, daß bereits ein Leistungsurteil vorliegt, dem die Verpflichtete nicht Folge geleistet hat; ein solcher Rechtssatz stunde mit der Vorschrift des § 912 ABGB. in Widerspruch, die ausdrücklich den Zuspruch dessen vorsieht, was dem Gläubiger daran liegt, daß die Verbindlichkeit nicht gehörig erfüllt worden ist. Wenn eine Sache oder Handlung nicht fristgerecht geleistet wird, so kann der Gläubiger daher auch außerhalb des § 368 EO. an Stelle der Sache oder Handlung das Interesse verlangen. Aus diesem Rechtssatz folgt weiters, daß die bereits unter der Herrschaft der Allgemeinen Gerichtsordnung allgemein geübte Praxis, neben der primär geschuldeten Leistung alternativ auch das Interesse einzuklagen, dem heutigen Stande des österreichischen Rechtes entspricht.
+Es kann demnach im alternativen Zuspruch von Natural- und Geldersatz ein Verstoß gegen das in Österreich geltende materielle Recht nicht erblickt werden.

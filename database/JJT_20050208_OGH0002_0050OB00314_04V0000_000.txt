@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.02.2005
+Geschäftszahl
+5Ob314/04v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Floßmann als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr. Baumann, Dr. Hurch, Dr. Kalivoda und Dr. Höllwerth als weitere Richter in der Rechtssache der klagenden Parteien 1) Anneliese H*****, 2) Christian G*****, beide vertreten durch Dr. Erich Proksch, Rechtsanwalt in Wien, gegen die beklagte Partei Franz P*****, als Masseverwalter im Konkurs über das Vermögen der B*****gesmbH, *****, vertreten durch Dr. Friedrich Schubert, Rechtsanwalt in Wien, wegen EUR 33.013,39 sA über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichtes für Zivilrechtssachen Wien als Berufungsgericht vom 3. Dezember 2004, GZ 40 R 226/04p48, womit das Urteil des Bezirksgerichtes Liesing vom 16. März 2004, GZ 6 C 1876/00f37, teilweise bestätigt und teilweise abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der beklagten Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Die Zurückstellung einer Bestandsache besteht sowohl in der Räumung von eigenen Fahrnissen als auch in der Übergabe an den Bestandgeber. Diese liegt dann vor, wenn dem Bestandgeber der Besitz am Bestandobjekt entsprechend der Verkehrsübung verschafft wird (MietSlg 47.117; 50.163/42 ua). Nur dann, wenn der Bestandgeber es ablehnte, das Bestandobjekt trotz dessen Räumung und des Anbots der Übergabe zu übernehmen, ist er in Annahmeverzug geraten und fallen die widrigen Folgen auf ihn (1 Ob 195/01k = RdW 2002, 274 = ecolex 2002, 428; 4 Ob 147/02z; RISJustiz RS0020833).
+Ein gegen den Gemeinschuldner erhobenes Begehren auf Räumung eines Bestandobjektes, das er im Rahmen seines Unternehmens gemietet hat, betrifft sein zur Konkursmasse gehöriges Vermögen und ist daher eine Konkursforderung. Eine solche Konkursforderung ist aber weder anmeldungspflichtig noch Gegenstand der Prüfung, weil der Anspruch nicht aus der Masse zu befriedigen ist, sondern auf andere Weise - nämlich im Wege der Räumungsexekution nach § 349 EO durchzusetzen ist (RISJustiz RS0020903, zuletzt 5 Ob 187/02i).
+Der Revisionswerber steht offenbar auf dem Standpunkt, die Liegenschaft sei bereits im April 2002 ordnungsgemäß geräumt und der Hinterlassung nur eines Superädifikats (Tankstelle) übergeben worden, weshalb nur mehr ein Entfernungsanspruch, somit eine Konkursforderung offen gewesen sei. Diesen hätte die Kläger als in eine zum Zeitpunkt der Konkurseröffnung zu schätzende Geldforderung umzuwandeln und als Konkursforderung anzumelden gehabt.
+Dem steht aber entgegen, dass der Beklagte am 11. 7. 2002 (somit nach der behaupteten ordnungsgemäßen Räumung) ein prozessuales Anerkenntnis über seine Räumungsverpflichtung abgegeben hat, weshalb davon auszugehen ist, dass zu diesem Zeitpunkt Räumung im Sinn des § 349 EO geschuldet wurde. Dass vor dem 7. 10. 2002 (Vollzug der gerichtlichen Räumungsexekution, bei der „Gegenstände laut Liste" von der Liegenschaft entfernt wurden) einer Räumungsverpflichtung entsprochen worden wäre, hat das Berufungsgericht nach der Aktenlage zu Recht verneint.
+Es kommt daher nicht darauf an, ob ein hinter dem klagsgegenständlichen Räumungsbegehren zurückbleibender Anspruch auf Entfernung des Superädifikats gemäß § 1111 ABGB eine Konkursforderung darstellen würde (vgl SZ 54/100; 8 Ob 294/01w, beide in RISJustiz RS0065003).
+Im Weiteren entspricht es ständiger höchstgerichtlicher Rechtsprechung, dass Bestandzins bzw Benützungsentgelt, die nach Konkurseröffnung fällig werden, Masseforderungen sind (vgl RISJustiz RS0064127). Daran vermag das Teilanerkenntnis des Masseverwalters über den Räumungsanspruch nichts zu ändern.
+Ob der Beklagte die Bestandsache weiter verwendete oder nicht, ist für die Frage des Benützungsentgelts irrelevant (vgl die von Würth in Rummel3 Rz 9 zu §§ 1109, 1110 ABGB dargestellten Rechtsprechungshinweise).
+Mangels vorliegende erheblicher Rechtsfragen im Sinne des § 502 Abs 1 ZPO war daher das Rechtsmittel der Beklagten zurückzuweisen.

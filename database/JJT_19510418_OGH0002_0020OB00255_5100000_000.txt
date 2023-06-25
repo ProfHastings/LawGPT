@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.04.1951
+Geschäftszahl
+2Ob255/51
+Norm
+ABGB §1425;
+Deutsche Zivilprozeßordnung §23;
+JN §99;
+Kopf
+SZ 24/105
+Spruch
+§ 99 JN. ist auch dann anwendbar, wenn der Gegenstand der Klage nicht zum Vermögen des Beklagten gehört und auf Grund eines obligatorischen Anspruches begehrt wird. Nach dieser Gesetzesstelle ist daher für den Streit zweier Forderungsprätendenten bezüglich eines Gerichtserlages der Sitz des Verwahrschaftsgerichtes (nicht der Verwahrungsabteilung des Oberlandesgerichtes) maßgebend.
+Entscheidung vom 18. April 1951, 2 Ob 255/51.
+I. Instanz: Kreisgericht Leoben; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht wies die auf den Gerichtsstand nach § 99 JN. gegrundete Klage wegen örtlicher Unzuständigkeit zurück.
+Das Rekursgericht verwarf die Unzuständigkeitseinrede und trug dem Erstgericht die Fortsetzung des Verfahrens in der Hauptsache auf.
+Der Oberste Gerichtshof gab dem Revisionskurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 99 JN. enthält zwei Gerichtsstände, den des Vermögens und den des Klagsgegenstandes. Letzterer soll besonders die Fälle decken, wo der Gegenstand der Klage nicht zum Vermögen des Beklagten gehört. Der Gerichtsstand des Klagsgegenstandes gilt nicht nur für Klagen auf Herausgabe der Sache, die vindiziert wird, sondern auch für Klagen aus obligatorischen Ansprüchen (Neumann, Kommentar zur ZPO., 4. Auflage, 1. Band, S. 245, Stein - Jonas, Kommentar zur DZPO., 16. Auflage, 1. Band, zu § 23).
+Im vorliegenden Falle ist das Klagebegehren darauf gerichtet, es sei die beklagte Partei schuldig, in die Auszahlung eines beim Oberlandesgericht Graz im Zusammenhang mit einem beim Kreisgericht Leoben anhängig gewesenen Rechtsstreit erliegenden Betrages zu willigen. Strittig ist demnach zwischen den Parteien, ob der klagenden oder der beklagten Partei der Anspruch auf die seinerzeit von der X-AG. gemäß § 1425 ABGB. hinterlegte Geldsumme zusteht. Es handelt sich um den Streit zweier Forderungsprätendenten. Nicht der hinterlegte Geldbetrag selbst bildet den Klagsgegenstand, sondern der Anspruch auf Auszahlung dieses Betrages. Die klagende Partei will in dem Rechtsstreit festgestellt wissen, daß der Auszahlungsanspruch ihr zustehe und daß die beklagte Partei mit Bezug darauf eine Willenserklärung abzugeben habe. Dieser Anspruch bildet daher den Klagsgegenstand. In diesem Falle wird die Lage des in Anspruch genommenen Gegenstandes durch den Sitz des Verwahrschaftsgerichtes bestimmt, das allein über den Erlagsgegenstand verfügungsberechtigt ist (§ 2 Abs. 3 Gerichtserlagsverordnung, BGBl. Nr. 186/1948). Dieses ist aber das Kreisgericht Leoben. Der Umstand, daß der bei Gericht erlegte Betrag auf das Scheckkonto der Verwahrungsabteilung des Oberlandesgerichtes Graz überwiesen wurde, ist unerheblich.

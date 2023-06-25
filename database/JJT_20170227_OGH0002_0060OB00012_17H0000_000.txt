@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2017
+Geschäftszahl
+6Ob12/17h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei M***** GmbH, *****, vertreten durch Dr. Peter Zöchbauer, Rechtsanwalt in Wien, gegen die beklagte Partei S*****gesellschaft mbH, *****, vertreten durch Dr. Maria Windhager, Rechtsanwältin in Wien, wegen Unterlassung (Streitwert 31.000 EUR), Urteilsveröffentlichung (Streitwert 1.000 EUR) und Zahlung 3.000 EUR (Gesamtstreitwert 35.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. Oktober 2016, GZ 4 R 102/16y-13, womit das Urteil des Handelsgerichts Wien vom 17. Mai 2016, GZ 19 Cg 8/16x-7, abgeändert wurde in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 2.197,80 EUR (darin 366,30 EUR USt) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+1. Entgegen dem – den Obersten Gerichtshof nicht bindenden – Zulassungsausspruchs des Berufungsgerichts ist das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs nicht abgewichen: Im Hinblick auf die Formulierung des Erstgerichts, es bestünden „keine Anhaltspunkte“ dafür, dass eigene Inhalte der Beklagten vorliegen, gingen die Vorinstanzen zutreffend davon aus, dass die Postings nicht von Mitarbeitern der Beklagten verfasst wurden, sodass „fremde“ Inhalte iSd § 16 Abs 1 ECG vorliegen. In diesem Zusammenhang ist auch darauf zu verweisen, dass im Hinblick auf den Zweck des ECG darauf abzustellen ist, welchen Eindruck der Nutzer haben muss (Laga/Sehrschön/Ciresa, ECG² § 16 Rz 1 aE). Die von den Postern verwendeten Benutzernamen legen bei einem unbefangenen Betrachter auch nicht nahe, dass es sich bei diesen um Mitarbeiter der Beklagten handelt. Auf Beweislasterwägungen (dazu Zankl, ECG² § 16 Rz 275) kommt es im vorliegenden Fall daher nicht an.
+2. Soweit die Revision auf dem Standpunkt steht, § 16 ECG schließe bloß Schadenersatz-, nicht jedoch Unterlassungsansprüche aus, sind ihr die Erwägungen aus der Entscheidung 6 Ob 188/16i entgegenzuhalten: Dort wird zu Erwägungsgrund 2.1 und 2.2 eingehend dargestellt, dass selbst wenn man diese Ansicht vertritt, dennoch die Rechtswidrigkeit zu verneinen ist, wenn der Betreiber seiner aus § 16 ECG abzuleitenden Löschungsverpflichtung unverzüglich nachkommt. Dies deckt sich auch mit der Entscheidung 6 Ob 178/04a zu einem Online-Gästebuch, in der ein rechtswidriges Handeln des Betreibers verneint wurde, wenn dieser die relevanten Verpflichtungen nach dem ECG (angemessene Überwachung, Löschung etc) einhält. Dass es der Klägerin nicht möglich gewesen wäre, von der Beklagten die erforderlichen Informationen (vgl zur Herausgabepflicht § 18 Abs 4 ECG) über die jeweiligen Nutzer zu bekommen, um ihre Ansprüche gegen diese durchzusetzen, hat die Klägerin gar nicht behauptet.
+3.1. Der Sachverhalt im vorliegen Fall entspricht im Wesentlichen demjenigen, der der Entscheidung 6 Ob 188/16i zugrunde lag. Die bloße Tatsache einer „Prämoderation“, in deren Rahmen Postings teilweise automatisch auf ihre allfällige Rechtswidrigkeit überprüft und gegebenenfalls manuell freigeschalten werden, bedeutet noch nicht, dass der Beitrag damit zu einem „eigenen“ Inhalt der Beklagten wird. Ein Nutzer kann nicht annehmen, dass sich die Beklagte schon deshalb mit dem Inhalt identifiziert, bloß weil sie ihn – noch dazu durch Kennzeichnung mit dem Nutzernamen des Posters – veröffentlicht. Nach Zustellung der Klage hat die Beklagte die gegenständlichen Postings unverzüglich gelöscht, sodass das Unterlassungsbegehren abzuweisen ist (vgl 6 Ob 188/16i).
+3.2. Damit ist die im vorliegenden Fall erhebliche Rechtsfrage aber bereits durch die Entscheidung 6 Ob 188/16i geklärt. Für das Vorliegen einer erheblichen Rechtsfrage kommt es auf den Zeitpunkt der Entscheidung über das Rechtsmittel, nicht auf dessen Einbringung an (RIS-Justiz RS0112769).
+4. Die Revision war daher spruchgemäß zurückzuweisen.
+5. Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Die beklagte Partei hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00012.17H.0227.000

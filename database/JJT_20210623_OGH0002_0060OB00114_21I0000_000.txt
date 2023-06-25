@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.2021
+Geschäftszahl
+6Ob114/21i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Firmenbuchsache der B***** GmbH, *****, vertreten durch Dorda Rechtsanwälte GmbH in Wien, über den „Rekurs“ des Einschreiters Dr. L*****, Rechtsanwalt, *****, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 19. Mai 2021, GZ 6 R 25/21x-3, mit dem der Revisionsrekurs des Einschreiters gegen den Beschluss des Oberlandesgerichts Wien vom 15. März 2021, GZ 6 R 25/21x-11, zurückgewiesen wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem (richtig: Revisions-)Rekurs wird nicht Folge gegeben.
+Der Einschreiter hat die Kosten des Rechtsmittelverfahrens selbst zu tragen.
+Text
+Begründung:
+[1] 		Mit dem angefochtenen Beschluss wies das Rekursgericht den Revisionsrekurs des Einschreiters den dieser auch im Namen der Gesellschaft erhoben hatte, mit der Begründung zurück, der Einschreiter sei derzeit nicht (mehr) Geschäftsführer der Gesellschaft.
+[2] 		Hierzu hat der Oberste Gerichtshof erwogen (vgl auch 6 Ob 112/21w):
+Rechtliche Beurteilung
+[3] 		1. Der Revisionsrekurs ist zulässig, weil die Rechtsmittelbeschränkung des § 62 AußStrG nicht gilt, wenn das Rekursgericht bei der Zurückweisung eines an den Obersten Gerichtshof gerichteten Rechtsmittels als Durchlaufgericht gehandelt hat (RS0044005 [T8]; RS0007047 [T2]; 6 Ob 206/18i; Rechberger/Klicka in Rechberger/Klicka, AußStrG³ § 62 Rz 1; Schramm in Gitschthaler/Höllwerth, AußStrG² § 62 Rz 13). Er ist aber nicht berechtigt.
+[4] 		2.1. Der Einschreiter geht (auch) in seinem Revisionsrekurs davon aus, dass ihm aufgrund der Entsendung als Geschäftsführer Einzelvertretungsbefugnis zukomme. Dies ist aber – wie der erkennende Senat in der Entscheidung 6 Ob 22/21k mit eingehender Begründung dargelegt hat – nicht der Fall. Warum ein Entsendungsrecht auch ohne satzungsmäßige Grundlage dazu führen sollte, dass der entsendete Geschäftsführer abweichend von § 18 Abs 2 GmbHG einzelvertretungsbefugt wäre, ist nicht zu sehen.
+[5] 		2.2. Selbst wenn man daher davon ausgeht, dass der Einschreiter – wie dieser vorbringt – nach seiner Abberufung als Geschäftsführer neuerlich wiederbestellt wurde, würde dies nicht dazu führen, dass ihm Alleinvertretungsbefugnis zukommt.
+[6] 		3.1. Aber auch im eigenen Namen kommt dem Einschreiter keine Rekurslegitimation zu. Rekurslegitimiert sind im Firmenbuchverfahren die Parteien des Verfahrens sowie der nach § 18 FBG zu verständigende Betroffene (Kodek in Kodek/Nowotny/Umfahrer, FBG § 15 Rz 168 mwN). Die Parteistellung im Firmenbuchverfahren richtet sich nach den allgemeinen Grundsätzen des Außerstreitverfahrens. Es ist darauf abzustellen, ob der Betreffende ein rechtliches Interesse hat, das auf einem eingetragenen Recht beruht oder das in einem anderen Verfahren nicht mehr geltend gemacht werden kann (RS0059158 [T11]; 6 Ob 33/20a; 6 Ob 140/14b).
+[7] 		3.2. Gründe, aus denen sich ein eigenes rechtliches Interesse des Einschreiters ergeben sollte, das im Zusammenhang mit der im vorliegenden Verfahren beantragten Eintragung von Änderungen des Gesellschaftsvertrags stünde, werden im Rechtsmittel nicht angesprochen.
+[8] 		4. Damit erweist sich der angefochtene Beschluss als frei von Rechtsirrtum, sodass dem unbegründeten Rechtsmittel ein Erfolg zu versagen war.
+[9] 		Die Kostenentscheidung beruht auf § 78 Abs 1 AußStrG.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00114.21I.0623.000

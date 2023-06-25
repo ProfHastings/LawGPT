@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.03.1967
+Geschäftszahl
+6Ob74/67
+Norm
+ZPO §226;
+ZPO §396;
+ZPO §557;
+Kopf
+SZ 40/39
+Spruch
+Ein Wechsel kann auch im allgemeinen Prozeßverfahren abstrakt eingeklagt werden und zu einem Versäumungsurteil führen.
+Entscheidung vom 15. März 1967, 6 Ob 74/67.
+I. Instanz: Kreisgericht Korneuburg; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Kläger begrundete sein Klagebegehren, die Beklagten zur ungeteilten Hand zur Zahlung von 153.000 S samt 9% Zinsen seit 11. Dezember 1965 zu verurteilen, mit der Behauptung, die Beklagten schuldeten ihm den Kapitalsbetrag auf Grund eines am 10. November 1965 ausgestellten, am 10. Dezember 1965 fälligen Wechsels und hätten trotz Mahnung und wiederholter Zusage keinerlei Zahlung geleistet. Für den Fall der nicht rechtzeitigen Zahlung seien die kassenmäßigen Zinsen der Sparkasse W. vereinbart worden, die am Fälligkeitstag 9% betragen hätten.
+Da die Beklagten zur ersten Tagsatzung trotz ausgewiesener Ladung nicht erschienen, erließ das Erstgericht ein Versäumungsurteil im Sinne des Klagebegehrens.
+Das Berufungsgericht gab der Berufung der Beklagten keine Folge und führte in rechtlicher Beziehung aus:
+Wechselansprüche könnten sowohl im Wechselverfahren als auch im gewöhnlichen Prozeß geltend gemach werden. Auch im zweiten Fall, der hier vorliege, bleibe der Anspruch ein Wechselanspruch, der sich ausschließlich auf den Wechsel und nicht auf das zugrunde liegende Rechtsgeschäft stütze. Es seien dann zwar nicht die prozessualen Vorschriften über das Wechselverfahren, wohl aber das materielle Wechselrecht anzuwenden. Der Kläger habe sein Begehren nicht auf das dem Wechsel zugrunde liegende Geschäft, sondern ausdrücklich auf den Wechsel gestützt. Dies genüge für die Kapitalsforderung.
+Aus dem Wechsel hätte er allerdings das Begehren auf Zahlung 9%iger Zinsen nicht ableiten können, da gemäß Art. 48 (1) Z. 2 WG. ab Verfall des Wechsels nur 6% Zinsen verlangt werden können. Diesbezüglich stütze sich der Kläger aber auf die Behauptung einer außerhalb der Wechselverpflichtung getroffenen Vereinbarung, die gemäß § 396 ZPO. für wahr zu halten sei und der auch Art. 48 WG. nicht entgegenstehe.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Ein Wechsel ist das selbständig verpflichtende, abstrakte Versprechen der Zahlung einer bestimmten Geldsumme. Die abstrakte Natur der Verbindlichkeit hat zur Folge, daß es zur Begründung des Anspruchs aus dem Wechsel keines Nachweises des Kausalgeschäftes bedarf (Stranz, Wechselrecht[14] S. 34 f., Anm. 8 und S. 130, Anm. 40). . Der Gläubiger kann somit die Wechselforderung einklagen, ohne sich auf das Grundgeschäft berufen zu müssen, und es ist Sache des Schuldners, etwaige Einwendungen aus dem Grundgeschäft zu erheben und zu beweisen, soweit das Wechselgesetz dies zuläßt.
+Ob der Gläubiger bei Einklagung des Wechsels die Erlassung eines Zahlungsauftrages beantragt oder nicht, ist ihm überlassen. Stellt er keinen solchen Antrag, so ist über die Klage, falls sie sich hiefür eignet, das allgemeine Gerichtsverfahren einzuleiten (Neumann, Kommentar zur ZPO. 2. Bd. S. 1443, 1447 und 1448). Die Art des Verfahrens, in dem über den Anspruch entschieden wird, ändert aber nichts daran, daß es sich in beiden Fällen um einen Anspruch aus einem Wechsel handelt, der abstrakter Natur ist und einer Angabe des Grundgeschäftes nicht bedarf. Mit Recht haben daher beide Vorinstanzen die Klage als geeignete Grundlage für die Erlassung eines Versäumungsurteils angesehen.
+Hinsichtlich des Zinsenbegehrens hat der Kläger in der Klage eine Vereinbarung der Streitteile behauptet. Diese Behauptung ist - wie das Berufungsgericht zutreffend dargelegt hat - gemäß § 396 ZPO. für wahr zu halten und rechtfertigt auch in diesem Punkte die Erlassung des Versäumungsurteils.

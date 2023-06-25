@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.2022
+Geschäftszahl
+4Ob213/22k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte und Hofrätinnen Dr. Schwarzenbacher, Dr. Tarmann-Prentner, MMag. Matzka und Mag. Istjan, LL.M., als weitere Richter in der Pflegschaftssache des Minderjährigen *, geboren * 2007, in gemeinsamer Obsorge der Mutter *, diese vertreten durch Dr. Paul Fuchs, Rechtsanwalt in Wels, und des Vaters *, mit hauptsächlicher Betreuung im Haushalt des Vaters, in Unterhaltsangelegenheiten vertreten durch die Bezirkshauptmannschaft *, wegen Unterhalts, über den „außerordentlichen“ Revisionsrekurs der Mutter gegen den Beschluss des Landesgerichts Wels als Rekursgericht vom 5. Oktober 2022, GZ 21 R 215/22z-93, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Die Bezirkshauptmannschaft beantragte als Vertreterin des Minderjährigen in Unterhaltsangelegenheiten die Erhöhung des monatlichen Unterhaltsbeitrags um 240 EUR für März 2021, um 220 EUR für die Monate April 2021 bis Jänner 2022, um 230 EUR für Februar 2022 und um 260 EUR ab März 2022.
+[2] 		Die Mutter beantragte als Unterhaltsverpflichtete dagegen die Herabsetzung ihrer monatlichen Unterhaltszahlungen ab Jänner 2022 von bisher 210 EUR auf 130 EUR.
+[3] 		Die Vorinstanzen setzten die Unterhaltsverpflichtung wie von der Bezirkshauptmannschaft beantragt fest und wiesen den Antrag der Mutter auf Herabsetzung ab.
+[4] 		Das Erstgericht legte das von der Mutter gegen die Rekursentscheidung erhobene Rechtsmittel („außerordentlicher Revisionsrekurs“) dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise entspricht nicht dem Gesetz.
+Rechtliche Beurteilung
+[5] 		1. Hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG ausgesprochen, dass der (ordentliche) Revisionsrekurs nicht nach § 62 Abs 1 AußStrG zulässig ist, so kann gemäß § 62 Abs 5 AußStrG dennoch ein Revisionsrekurs erhoben werden, wenn der Entscheidungsgegenstand insgesamt 30.000 EUR übersteigt oder soweit er nicht rein vermögensrechtlicher Natur ist (außerordentlicher Revisionsrekurs).
+[6] 		2. Im Unterhaltsbemessungsverfahren ist der Entscheidungsgegenstand nach ständiger Rechtsprechung rein vermögensrechtlicher Natur und besteht ausschließlich in einem Geldbetrag. Maßgeblich ist gemäß § 58 Abs 1 JN der 36-fache Betrag jenes monatlichen Unterhaltsbeitrags, der zum Zeitpunkt der Entscheidung zweiter Instanz zwischen den Parteien noch strittig war (RS0122735). Wird also eine Erhöhung oder Herabsetzung eines Unterhaltsbetrags begehrt, so bildet den Streitwert nicht der Gesamtbetrag, sondern nur der dreifache Jahresbetrag der begehrten Erhöhung oder Herabsetzung (RS0046543). Liegen – wie hier – wechselseitige Anträge auf Erhöhung und Herabsetzung der Unterhaltsverpflichtung vor, sind die maßgebenden Beträge zusammenzurechnen (RS0046543 [T10]).
+[7] 		Dabei ist regelmäßig auf den laufenden Unterhalt abzustellen (RS0122735 [T8]). Gesondert begehrte, bereits fällig gewordene Ansprüche sind nicht zusätzlich neben diesem Dreifachen zu bewerten (RS0046543 [T2]), sofern der Durchschnitt dreier Jahre bereits fälligen Unterhalts nicht höher ist als das Dreifache der Jahresleistung des laufenden Unterhalts (RS0046543 [T3]).
+Im vorliegenden Fall übersteigt der Wert des Entscheidungsgegenstands daher 30.000 EUR nicht, weil folgende Beträge strittig sind:
+März 2021	240 EUR
+April bis Dezember 2021 je 220 EUR	1.760 EUR
+Jänner 2022 	300 EUR
+Februar 2022	310 EUR
+ab März 2022 (36 * 340 EUR)	12.240 EUR
+insgesamt	14.850 EUR
+[8] 		Für die Wertgrenze relevant ist hier der Wert von 12.240 EUR als 36-faches der Differenz zwischen den vom Jugendwohlfahrtsträger und dem von der Mutter beantragten monatlichen laufenden Unterhaltsbetrag.
+[9] 		3. Übersteigt der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt nicht 30.000 EUR und hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG den ordentlichen Revisionsrekurs für nicht zulässig erklärt, ist nach § 62 Abs 3 AußStrG der Revisionsrekurs – außer im Fall des § 63 Abs 3 AußStrG – jedenfalls unzulässig. Unter diesen Voraussetzungen kann eine Partei nur gemäß § 63 Abs 1 und 2 AußStrG einen – mit der Ausführung des ordentlichen Revisionsrekurses zu verbindenden – Antrag an das Rekursgericht stellen, den Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde (Zulassungsvorstellung).
+[10] 		4. Da die maßgebliche Wertgrenze nicht überschritten wird, kommt dem Obersten Gerichtshof im derzeitigen Verfahrensstadium keine Entscheidungskompetenz zu. Das Erstgericht wird zu beurteilen haben, ob es die Eingabe der Mutter als eine (mit einem ordentlichen Revisionsrekurs verbundene) Zulassungsvorstellung an das Rekursgericht (§ 63 AußStrG) oder aber als verbesserungsbedürftig ansieht (RS0109505).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00213.22K.1122.000

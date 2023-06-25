@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.1955
+Geschäftszahl
+1Ob548/55
+Norm
+ABGB §364c;
+EO §87;
+Grundbuchsgesetz 1955 §9;
+Kopf
+SZ 28/196
+Spruch
+Das im Grundbuch eingetragene Belastungsverbot kann nicht dadurch umgangen werden, daß die Einverleibung eines Pfandrechtes "unbeschadet des Belastungs- und Veräußerungsverbotes" bewilligt wird.
+Entscheidung vom 7. September 1955, 1 Ob 548/55.
+I. Instanz: Bezirksgericht Gleisdorf; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Das Erstgericht bewilligte dem betreibenden Gläubiger zur Hereinbringung der exekutiven Forderung von 4000 S s. A. gegen die Verpflichtete die Exekution mittels zwangsweiser Pfandrechtsbegründung durch bücherliche Einverleibung des Simultanpfandrechtes auf die der Verpflichteten gehörigen Liegenschaftshälften Grundbuch R. EZ. 105 als Haupteinlage und Grundbuch Ro. EZ. 45 sowie auf die ganze Liegenschaft Grundbuch R. EZ. 246 als Nebeneinlagen, jedoch nur "unbeschadet des zugunsten des Johann und der Maria M. einverleibten Belastungs- und Veräußerungsverbotes".
+Infolge Rekurses der Verpflichteten änderte das Rekursgericht den erstinstanzlichen Beschluß dahin ab, daß der Exekutionsantrag abgewiesen wurde. Das im Lastenblatt aller Liegenschaften einverleibte Veräußerungs- und Belastungsverbot lasse keinesfalls die Belastung der Liegenschaften mit einem zwangsweise begrundeten Pfandrecht zu, und zwar auch nicht mit dem vom Erstgericht gewählten Beisatz.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des betreibenden Gläubigers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Wie der Oberste Gerichtshof in zahlreichen Entscheidungen (zuletzt noch z. B. SZ. XXIII 255, SZ. XXIII 251) in Übereinstimmung mit der Lehre (Klang 2. Aufl. II 186 f., Ehrenzweig 1. Aufl. I/2 S. 183, Weiß BrJZ. 1935 S. 4 ff. u. a.) zum Ausdruck gebracht hat, hindert ein grundbücherliches Belastungsverbot nicht nur die vertragsmäßige, sondern auch die zwangsweise Einverleibung eines Pfandrechtes. Darauf deutet der Umstand, daß die in der Regierungsvorlage zur III. TN. vorgesehene Beschränkung der Wirkung auf vertragsmäßige Pfandrechte durch die Herrenhauskommission gestrichen worden ist. Das Verbot jeglicher Pfandrechtsbelastung kann nicht auf dem Wege umgangen werden, daß die Einverleibung des Pfandrechtes "unbeschadet des Belastungs- und Veräußerungsverbotes" bewilligt wird (so auch die Entscheidung des Obersten Gerichtshofes NotZ. 1936 S. 158). In dieser Formulierung liegt nichts anderes, als daß zum Ausdruck gebracht werden soll, die Einverleibung des Pfandrechtes werde entgegen dem Verbot und damit gegen das Gesetz bewilligt. Der Gedanke, es könnte das Pfandrecht auf eine Art bewilligt werden, die dem Belastungsverbot nicht zuwiderläuft, kommt mit dem Wesen des Verbotes in Widerspruch. Solange das Verbot besteht, ist jede Pfandrechtsbegründung unzulässig, und es könnte auch ein Recht des betreibenden Gläubigers auf bedingte Pfandrechtseinverleibung - nämlich für den Fall der späteren Löschung des Belastungsverbotes - nicht anerkannt werden. Die Möglichkeit, auf unbelastbare Liegenschaften die Exekution mittels zwangsweiser Pfandrechtsbegründung zu führen, entsteht erst dann, wenn das Belastungsverbot im Grundbuch gelöscht worden ist. Erst zu diesem Zeitpunkt könnte der Exekutionsantrag gestellt und das Pfandrecht einverleibt werden. Wie aus § 93 GBG. 1955 (§ 88 Abs. 2 EO.) hervorgeht, muß ein Grundbuchsgesuch hinsichtlich des Rechtes auf die beantragte Grundbuchshandlung nach dem Zeitpunkt des Einlangens der Eingabe beim Gericht beurteilt werden. Bestand zu dieser Zeit, wie im vorliegenden Fall, kein Recht auf Einverleibung, muß das Gesuch abgewiesen werden. Auf die Möglichkeit, daß die Einverleibung zu einem späteren Zeitpunkt zulässig werden könnte, kann nicht Bedacht genommen werden, auch nicht in der Form, daß die Einverleibung erst zu diesem späteren Zeitpunkt wirksam werden soll. Denn es ist unzulässig, sich für diesen in Zukunft eintretenden Fall schon jetzt einen grundbücherlichen Rang zu sichern, der keinem bestehenden Recht entspricht.
+Der Hinweis des betreibenden Gläubigers auf die fideikommissarische Substitution und das damit für den Vorerben verbundene Veräußerungs- und Belastungsverbot ist mit Rücksicht darauf nicht berechtigt, daß die Stellung des Fiduziars etwas anderes ist als die des Eigentümers einer mit einem ausdrücklichen Belastungsverbot beschwerten Liegenschaft. Übrigens hat die Judikatur der neueren Zeit (z. B. EvBl. 1955 Nr. 269, ZBl. 1935 Nr. 224, JBl. 1934 S. 433, vgl. auch JB. 209 = GlUNF. 6852) die Exekution in die Substanz durch Gläubiger des Vorerben nicht zugelassen (so auch Walker, Österreichisches Exekutionsrecht, 4. Aufl. S. 162 f.).
+Da das Rekursgericht den Exekutionsantrag mit Recht abgewiesen hat, mußte dem Revisionsrekurs der Erfolg versagt werden.

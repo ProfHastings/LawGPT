@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.08.2000
+Geschäftszahl
+4Ob190/00w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Kodek als Vorsitzenden, den Hofrat des Obersten Gerichtshofes Dr. Graf, die Hofrätinnen des Obersten Gerichtshofes Dr. Griß und Dr. Schenk und den Hofrat des Obersten Gerichtshofes Dr. Vogel als weitere Richter in der Rechtssache der klagenden Partei i***** GmbH, *****, vertreten durch Dr. Patrick Ruth, Rechtsanwalt in Innsbruck, gegen die beklagte Partei S***** GmbH, ***** vertreten durch Dr. Erwin Köll, Rechtsanwalt in Innsbruck, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Provisorialverfahren 250.000 S), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichtes Innsbruck als Rekursgericht vom 29. Mai 2000, GZ 2 R 106/00f-33, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs der beklagten Partei wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+"Überschießende Feststellungen" der ersten Instanz, also Sachverhaltsfeststellungen, die durch ein entsprechendes Prozessvorbringen nicht gedeckt sind, können nach der Rechtsprechung zumindest dann nicht unberücksichtigt bleiben, wenn sie in den Rahmen eines geltend gemachten Klagegrundes oder einer bestimmten Einwendung fallen (SZ 61/135 = MR 1988, 161 = ÖBl 1989, 118 - Gloria mwN; JBl 1999, 745; zuletzt 1 Ob 340/99b).
+Die Klägerin hat vorgebracht, dass das von ihr hergestellte Computerprogramm-Paket Ergebnis eigenständiger Schöpfung und mehrjährigen Arbeits- und Personaleinsatzes sei. Die Vorinstanzen haben für bescheinigt erachtet, dass der Geschäftsführer der Klägerin zusammen mit seinem Mitarbeiterstab jene Computerprogramme entwickelt habe, die die Beklagte ohne Berechtigung nutze, und dass die Klägerin mit ihren Mitarbeitern die Übertragung aller Rechte auf sie vereinbart habe, die mit den von den Mitarbeitern für die Klägerin erbrachten Leistungen in Zusammenhang stünden. Dieses Bescheinigungsergebnis hält sich - entgegen der Ansicht der Beklagten - im Rahmen des klägerischen Vorbringens, sodass es der rechtllichen Beurteilung zugrundezulegen ist; es rechtfertigt auch die Stattgebung des Unterlassungsbegehrens infolge Eingriffs in unbeschränkte Werknutzungsrechte, die der Klägerin gem § 40b UrhG zustehen, auch wenn die Klägerin als juristische Person nicht selbst Urheberin der Programme sein kann (SZ 65/19 = EvBl 1992/92 = ecolex 1992, 346
+[Kucsko] = MR 1992, 117 [Walter] = ÖBl 1992, 184 - Wienerwald mwN; SZ
+65/51 = MR 1992, 199 [Walter] = ÖBl 1992, 81 - Bundesheer-Formblatt; MR 1993, 72 - Programmzeitschrift; MR 1995, 62 - Österreichischer Bautagesbericht; MR 1999, 171 [Walter] - Mittelschulatlas). Ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist im Übrigen eine Frage des Einzelfalles, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung keine erhebliche Bedeutung zukommt (4 Ob 67/98a). Gleiches gilt für die von der Beklagten aufgeworfene Frage nach der Schlüssigkeit der Klage (4 Ob 1009/88; 4 Ob 302/98k uva).
+Die Beklagte gesteht in ihrem Rekurs vom 6.3.2000 (ON 25, S 14) selbst zu, dass es auch ohne Verwendung der klägerischen Software möglich sei, sämtliche Maschinen der Betriebsanlage einzeln zu betreiben; man müsste diesfalls nur auf eine maschinenübergreifende Steuerung der Gesamtanlage verzichten. Unter diesen Umständen ist die Annahme des Rekursgerichts, es lägen keine Anhaltpunkte dafür vor, dass Anlage und Bedienungsprogramme eine unteilbare Gesamtsache bildeten, nicht zu beanstanden.
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.

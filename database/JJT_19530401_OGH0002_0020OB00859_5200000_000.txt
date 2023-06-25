@@ -1,0 +1,83 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.04.1953
+Geschäftszahl
+2Ob859/52
+Norm
+Allgemeines bürgerliches Gesetzbuch §1304;
+Allgemeines bürgerliches Gesetzbuch §1325;
+Allgemeines bürgerliches Gesetzbuch §1327;
+Reichsversicherungsordnung §1542;
+Kopf
+SZ 26/87
+Spruch
+Ermittlung des Schadenersatzanspruches bei geteiltem Verschulden und einer Beitragsleistung aus der Sozialversicherung (§ 1542 RVO.).
+Entscheidung vom 1. April 1953, 2 Ob 859/52.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die sozialversicherte Klägerin leitet aus ihrem am 11. Mai 1948 erlittenen Verkehrsunfall gegen beide Beklagte Ersatzansprüche ab; sie verlangt Schmerzengeld, eine bestimmte Verdienstentgangssumme für die Zeit bis 31. August 1951 und eine laufende Monatsrente ab 1. September 1951.
+Das Erstgericht hat dem mehrfach modifizierten Klagebegehren teilweise stattgegeben, der Klägerin einen Betrag von 6901.87 S samt Zinsen sowie eine Monatsrente ab 1. September 1951 in der Höhe von je 116.06 S zuerkannt, das Mehrbegehren auf Zahlung eines weiteren Betrages von 10.130.29 S sowie einer zusätzlichen Monatsrente ab 1. September 1951 in der Höhe von je 148.94 S abgewiesen und die Prozeßkosten gegeneinander aufgehoben.
+Das Berufungsgericht bestätigte das nur von den Beklagten und der Nebenintervenientin angefochtene Urteil.
+Der Oberste Gerichtshof gab der Nebenintervenientin Folge und verpflichtete die Beklagten zur ungeteilten Hand zur Zahlung von 3000 S s. A.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Haftungsgrund der Beklagten, die Unfallsfolgen, die Erwerbsminderung der Klägerin, aber auch deren gleichteiliges Mitverschulden am Unfall sowie sämtliche ziffernmäßigen Ansätze - einschließlich der von der Beklagtenseite bereits geleisteten und daher in Abzug zu bringenden Teilzahlung von 2000 S - stehen unangefochten fest. Strittig ist nur mehr eine einzige Rechtsfrage:
+die Methode der Ersatzleistungsberechnung unter besonderer Bedachtnahme auf die Bestimmung des § 1542 RVO.
+Die Unterinstanzen haben den Gesamtschaden der Verletzten ermittelt, von ihm alle der Klägerin gewährten Sozialversicherungsleistungen abgezogen und erst den sich daraus ergebenden Differenzbetrag um den festgestellten Mitverschuldensanteil der Verletzten vermindert, vorliegendenfalls daher halbiert. Nach dieser Methode haben sie konsequenterweise sowohl den kapitalisierten Schadenersatzbetrag als auch die Rente errechnet.
+Die Revisionswerberin strebt - hinsichtlich der der Legalzession des § 1542 RVO. unterworfenen Ersatzansprüche - eine andere Berechnungsart an. Ihrer Ansicht nach sollte zuerst eine dem Mitschuldverhältnis entsprechende Teilung des Gesamtschadens vorgenommen und der auf diese Weise ermittelte Betrag um die Gesamtsumme der der Klägerin gewährten Sozialversicherungsleistungen verkürzt werden.
+Es ist längst erkannt worden, daß die beiden Berechnungsmethoden zu voneinander völlig abweichenden Ergebnissen führen.
+Die von den Unterinstanzen gewählte Berechnungsart (I) räumt der Klägerin persönlich nicht nur restliche Schmerzensgeld-, sondern auch reduzierte Verdienstentgangsansprüche ein:
+1. Kapital a) Schmerzengeld .....................................  S
+10.000.-- b) Verdienstentgang für die Zeit bis 31. August 1951
+....................   S 22.098.85; hievon ab alle in dieser
+Zeitspanne von der Klägerin bezogenen Sozialversicherungsleistungen
+...... - S 14.295.11, -------------- ergibt
+............................................... +    7.803.74 ------
+----- zusammen daher ..   S 17.803.74 Dieser Betrag, auf die dem
+Mitverschuldensanteil der Klägerin entsprechende Hälfte verkürzt
+...............   S  8.901.87 und um die bereits geleistete
+Teilzahlung von ........ - S  2.000.-- ------------- vermindert,
+ergibt restliche .........................   S  6.901.87.
+2. Monatsrente Entgangener Monatsverdienst .........  S    856.91;
+hievon ab die der Klägerin zufließenden Sozialversicherungsrenten
+...........  S    624.78, -------------- ergibt
+..............................  S    232.13 Dieser Betrag, auf die
+dem Mitverschuldensanteil der Klägerin entsprechende Hälfte
+verkürzt, ergibt ....... S    116.06.
+Ganz anders nach der von der Revisionswerberin beantragten
+Berechnungsmethode (II):
+1. Der von der Legalzession des § 1542 RVO. unberührt bleibende
+Schmerzengeldanspruch in der Höhe von ............................
+S 10.000.-- ist nur um die dem Verschuldensanteil der Klägerin
+entsprechende Hälfte ...  S  5.000.-- ------------- zu kürzen und
+daher mit .............................. S  5.000.-- zu liquidieren.
+2. Kapitalisierter Verdienstentgang für die Zeit bis 31. August 1951
+....  S 22.098.85; ------------ hievon beläuft sich die dem
+Mitverschuldensanteil der Klägerin entsprechende Hälfte auf
+............  S 11.049.42; da aber die anzurechnenden
+Sozialversicherungsleistungen sogar einen Betrag von
+....................  S 14.295.11 -------------- erreicht haben,
+ergibt sich für die Klägerin ein Saldo von
+...............................  S     --.-- 3. Monatsrente
+Entgangener Monatsverdienst .........  S    856.91; hievon beläuft
+sich die dem Mitverschuldensanteil der Klägerin entsprechende Hälfte
+auf ............  S    428.45; da aber die anzurechnenden
+Sozialrenten monatlich sogar einen Betrag von ... - S    624.78
+erreichen, ergibt sich für die Klägerin neuerdings ein Saldo von
+............................. S    ---.-- Nach dieser
+Berechnungsmethode kann daher die Klägerin überhaupt nur einen
+Schmerzengeldanspruch in der Höhe von ................ S  5.000.--
+geltend machen, der sich um die bereits erbrachte Teilleistung von
+................. - S  2.000.-- ------------- auf restliche
+......................................   S  3.000.-- reduziert.
+Es ist begreiflich, daß die beiden Berechnungsarten (I oder II) schon vielfach erörtert worden sind. Dabei ist vorwegzunehmen, daß das Schrifttum und die Rechtsprechung Deutschlands auf dem Boden der Berechnungsmethode II stehen (hiezu Geigel, Der Haftpflichtprozeß, 1952, S. 359 f., siehe aber auch die Hinweise bei Fenzl, ÖJZ. 1952, S. 316 ff.). Klang - Wolff (Kommentar VI, S. 143) bevorzugt hingegen die Berechnungsart I, führt hiefür allerdings keine Gründe an, sondern nimmt auf eine aus der Zeit vor der Einführung der RVO. stammende Entscheidung des Obersten Gerichtshofes Bezug, die ihrerseits gleichfalls keine hinreichende Begründung liefert, weil sie lediglich den Satz aufstellt, daß der Schaden in dem Unterschied zwischen den Einkommensbezügen vor und nach dem Unfall bestehe, weshalb bei der Schadensfeststellung die zur teilweisen Schadensdeckung gewährten Versicherungsbeträge von den Einkommensbezügen in Abzug zu bringen seien (ZBl. 1935, Nr. 14). Fenzl (a. a. O.) stellt im wesentlichen nur kritische und legislativpolitische Betrachtungen an, und noch mehr gilt dies von Eisenberger, der nicht zuletzt aus Billigkeitserwägungen der Berechnungsmethode I das Wort spricht (Versicherungsrundschau 1947, S. 150 ff.). Die österreichische Rechtsprechung bis 1938 hat geschwankt. Außer der bereits erwähnten Entscheidung, ZBl. 1935, Nr. 14, haben sich noch die Entscheidungen des Obersten Gerichtshofes SZ. XV/136 und ZBl. 1937, Nr. 216, für die Berechnungsart I ausgesprochen; die Entscheidung SZ. XV/136 mit einem Hinweis auf die Widmung der Sozialversicherungsleistungen, die Entscheidung ZBl. 1937, Nr. 216, mit einer nur sehr flüchtigen Begründung, gegen die Herzog ausführlich Stellung nahm (ZBl. 1937, S. 380 f.). Dagegen haben sich die Entscheidungen des Obersten Gerichtshofes SZ. XIV/162 und ZBl. 1937, Nr. 364 (mit einer zustimmenden Bemerkung Herzogs), die Lehre von Deckungsfonds zu eigen gemacht, die im Schadenersatzprozeß des Verletzten gegen den Schädiger die Anwendung der Berechnungsmethode II verlangt. Der wiedererrichtete Oberste Gerichtshof ist in seiner Entscheidung vom 20. Dezember 1951, 2 Ob 764/51, zu den Grundsätzen der Entscheidungen SZ. XV/136 und ZBl. 1935, Nr. 14, zurückgekehrt, deren Begründung - ohne Anführung neuer Gesichtspunkte - zum Teil wörtlich wiedergegeben wird.
+Bei dieser Sachlage sieht sich das Revisionsgericht veranlaßt, die strittige Frage einer neuerlichen Prüfung zu unterziehen, und kommt zu dem Ergebnis, daß nur die Berechnungsmethode II dem Wortlaut des § 1542 RVO. und den Gesetzen der Logik Rechnung trägt.
+Der § 1542 RVO. bringt nämlich - hinsichtlich der der Legalzession unterliegenden Anspruchsteile - zum Ausdruck, daß der privatrechtliche Schadenersatzanspruch des sozialversicherten Verletzten - soweit dieser den Anspruch überhaupt erheben kann - auf den Sozialversicherungsträger zur Deckung der von ihm zu erbringenden, artgleichen Leistungen übergeht. So geht insbesondere auch der privatrechtliche Gesamt-Verdienstentgangsanspruch des sozialversicherten Verletzten auf den Sozialversicherungsträger - bis zur Höhe der von ihm zu erbringenden Leistungen - über. Trifft nun den Verletzten ein Mitverschulden am Schadensereignis, so könnte er vor allem selbst vom Schädiger nur eine Quote des Verdienstausfalles verlangen, und zwar jene, die der angenommenen Verschuldensteilung entspricht. Er darf aber auch diesen so reduzierten Gesamtanspruch gemäß § 1542 RVO. insoweit nicht geltend machen, als ihm Sozialversicherungsleistungen gewährt wurden oder zu gewähren sind.
+Den Anfang der logischen Gedankenfolge bildet daher stets die Ermittlung des dem Verletzten überhaupt zustehenden privatrechtlichen Anspruchs; und ist der Verletzte mitschuldig, so kann er eben nur eine entsprechende Quote seines Gesamtschadens vom Schädiger ersetzt begehren. Jedenfalls läßt sich aber erst nach Abschluß dieser primären Ermittlung feststellen, worauf sich der vom Gesetz in der Form einer Legalzession gewährleistete Deckungsanspruch des Sozialversicherungsträgers erstreckt, was vom Verletzten selbst, und waslediglich vom Sozialversicherungsträger geltend gemacht werden kann. Wenn daher der Verletzte die ihm zugeflossenen oder gebührenden Sozialversicherungsleistungen von seinem gegen den Schädiger erhobenen Schadenersatzbegehren in Abzug bringt, so beugt er sich bloß einem gesetzlichen Gebot. Es liegt aber nicht in seiner Hand, diese Subtraktion an einer beliebigen Stelle der Gesamt-Rechenoperation vorzunehmen. Er muß sie vielmehr dort anbringen, wo die Rechte des Sozialversicherungsträgers in den Vordergrund treten, mithin nach Ermittlung der der Verschuldensteilung entsprechenden und der Legalzession zumindest potentiell zur Gänze unterliegenden Anspruchsquote.
+Die einzelnen Glieder der eben entwickelten logischen Kette vertragen weder eine Verkehrung noch eine Verschiebung. Das läßt sich an Hand einer Betrachtung des Regreßprozesses nach § 1542 RVO. erweisen.
+Wendet man im Schadenersatzprozeß des sozialversicherten Verletzten gegen den Schädiger die vom Revisionsgericht nunmehr abgelehnte Berechnungsmethode I an, so erwächst dem am Schadensereignis mitschuldigen Verletzten ein im Einzelfall variables Plus, das - und hierin stimmen alle Meinungen überein (vgl. etwa auch Eisenberger, a. a. O., S. 151) - keinesfalls dem Schädiger aufgehalst werden darf. Um diesen nun zu entlasten, müßte man ihm im nachfolgenden Regreßprozeß des Sozialversicherungsträgers die Möglichkeit einräumen, einen anspruchsmindernden Mitverschuldens-Einwand zu erheben, also eine Frage aufzuwerfen, über die bereits im Schadenersatzprozeß verhandelt und entschieden wurde, bei deren Neuaufrollung aber keine Gewähr bestunde, daß sie ebenso wie im früheren Schadenersatzprozeß gelöst würde. Ein unhaltbares ErgebnisÜ
+Ist aber dem Regreßprozeß (des Sozialversicherungsträgers gegen den Schädiger) ein Schadenersatzprozeß (des Verletzten gegen den Schädiger) nicht vorausgegangen, so tritt die oben entwickelte Gedankenfolge besonders deutlich in Erscheinung, weil sämtliche Elemente der logischen Schlußfolgerung in der ihnen eigenen Reihung zusammenhängend erfaßt werden müssen. Und hier ergibt sich mit aller Klarheit, daß die dem Mitverschuldensanteil des sozialversicherten Verletzten entsprechende und den Anspruch des Sozialversicherungsträgers begrenzende Ersatzforderung im Vorfragenrang zu ermitteln ist, weil anders ein dem § 1542 RVO. Genüge leistendes Urteil gar nicht geschöpft werden könnte.
+Das Revisionsgericht erachtet demnach nur die Berechnungsart II als logisch vertretbar und muß die von mancher Seite zugunsten des sozialversicherten Verletzten und zu Lasten des Sozialversicherungsträgers angestellten Billigkeitserwägungen bei der gegebenen Gesetzeslage unberücksichtigt lassen. Im übrigen operieren die Anhänger der Berechnungsmethode I hauptsächlich mit Analogieschlüssen aus dem Privatrecht, sei es mit der Heranziehung bürgerlich-rechtlicher Zessionsgrundsätze, sei es aber auch - und darauf wird meist besonderes Gewicht gelegt - mit einem Hinweis auf die Bestimmung des § 67 VersVG., derzufolge vom Forderungsübergang auf den Vertragsversicherer nicht zum Nachteil des Versicherungsnehmers Gebrauch gemacht werden darf. Darüber, ob die sozial- und rechtspolitischen Gedankengänge, auf die diese Konstruktionsversuche zurückzuführen sind, Beachtung verdienen, wird sich der Gesetzgeber Klarheit verschaffen müssen. Das Revisionsgericht maßt sich hier keine Entscheidungsbefugnis an. Es muß nur mit Nachdruck hervorheben, daß das dem öffentlichen Recht angehörende Sozialversicherungsrecht durch Normen der Privatrechtsordnung weder geändert noch ergänzt werden kann (hiezu Albert Ehrenzweig, Deutsches (österreichisches) Versicherungs-Vertragsrecht, 1952, S. 2 f.).
+Aus diesen Erwägungen war der Revision Folge zu geben.

@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.08.1950
+Geschäftszahl
+1Ob402/50
+Norm
+EO §35;
+EO §36;
+EO §37;
+EO §39 Abs1 Z1;
+EO §39 Abs1 Z2;
+EO §39 Abs1 Z3;
+EO §39 Abs1 Z4;
+EO §39 Abs1 Z5;
+EO §39 Abs1 Z7;
+EO §376;
+Kopf
+SZ 23/234
+Spruch
+Die Aufhebung eines Exekutionstitels (Versäumungsurteil) zufolge Wiedereinsetzung in den vorigen Stand oder durch die dritte Instanz unter Rückverweisung der Rechtssache an die erste Instanz bildet keinen Einstellungsgrund nach § 376 Abs. 1 Z. 3 EO.
+Entscheidung vom 30. August 1950, 1 Ob 402/50.
+I. Instanz: Bezirksgericht Horn; II. Instanz: Kreisgericht Krems.
+Text
+Auf Grund des Versäumungsurteiles des Handelsgerichtes Wien vom 2. März 1950 wurde der betreibenden Partei zur Sicherung der Forderung von 9613 S s. A. die Exekution mittels Pfändung und Verwahrung der in der Buchdruckerei Ferdinand B. in H. erliegenden 40.950 Bogen holzfreien Papieres bewilligt und die Exekution auch vollzogen.
+Das Handelsgericht Wien hat mit Beschluß vom 17. März 1950 die Wiedereinsetzung in den vorigen Stand bewilligt und das obgenannte Versäumungsurteil aufgehoben.
+Nunmehr beantragte die verpflichtete Partei die Einstellung der zur Sicherstellung bewilligten Exekution gemäß § 39 Abs. 1 Z. 1 EO. unter Aufhebung aller vollzogenen Exekutionsakte. Das Exekutionsgericht hat diesen Antrag abgewiesen, weil kein in § 376 EO. aufgezählter Tatbestand zur Aufhebung der Exekution glaubhaft gemacht, insbesondere aber die eingeklagte Geldforderung dem betreibenden Gläubiger nicht aberkannt worden sei. Im übrigen könne die Bestimmung des § 39 Abs. 1 Z. 1 EO. gegenüber den für die Exekution zur Sicherstellung in den §§ 370 ff. EO. angeführten Sonderbestimmungen nicht durchgreifen.
+Das Rekursgericht hat dem Rekurs der verpflichteten Partei Folge gegeben und den angefochtenen Beschluß dahin abgeändert, daß die bewilligte Exekution zur Sicherstellung gemäß § 39 Abs. 1 Z. 1 EO. eingestellt wurde. Das Rekursgericht führte aus, daß die Gründe zur Aufhebung der vollzogenen Exekutionsakte bei der Exekution zur Sicherstellung in § 376 EO. nicht taxativ angeführt seien und die Einstellung einer derartigen Exekution aus den Gründen der §§ 35, 36, 37 EO. und auch nach § 39 EO. möglich sei. Wenn im Sinne des § 376 Abs. 1 Z. 4 EO., also auf Grund einer Spezialnorm, die Exekutionsakte aufzuheben seien, falls im Mahnverfahren dem Wiedereinsetzungsgesuch rechtskräftig stattgegeben würde und der Zahlungsbefehl außer Kraft getreten sei, weil der dem Verfahren zugrunde liegende Titel, nämlich der rechtskräftige Zahlungsbefehl, außer Kraft gesetzt worden sei, so könne um so mehr die Einstellung der Exekution nach den allgemeinen Einstellungsgrunden gemäß § 39 EO. erfolgen, falls die Exekution zur Sicherstellung auf Grund eines noch nicht rechtskräftigen Versäumungsurteiles bewilligt wurde, welches im Wiedereinsetzungsverfahren aufgehoben worden ist.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und stellte in Abänderung der Entscheidung des Rekursgerichtes den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Voraussetzungen, unter denen eine bereits vollzogene Exekution zur Sicherstellung aufzuheben ist oder die Vollziehung einer bewilligten Exekution zur Sicherstellung zu unterbleiben hat, sind in den §§ 376 und 377 Abs. 2 EO. aufgezählt. Es mag zugegeben werden, daß auch bei dieser Exekutionsart Einwendungen in der Richtung der §§ 35 bis 37 EO. geltend gemacht werden können. Doch gelten die Bestimmungen des § 39 EO. nur insofern, als nicht in den §§ 370 ff. EO. etwas anderes bestimmt ist. In Übereinstimmung mit der Lehre steht der Oberste Gerichtshof auf dem Standpunkt, daß die Bestimmungen des § 39 Abs. 1 Z. 1 bis 5 EO. und die des § 39 Abs. 1 Z. 7 EO. durch § 376 Abs. 1 Z . 1 EO. ersetzt sind.
+Für den gegenständlichen Fall kommt daher nur die Bestimmung des § 376 Abs. 1 Z. 3 EO. zur Anwendung, die bestimmt, daß die vollzogenen Exekutionshandlungen aufzuheben sind, wenn die Geldforderung dem Gläubiger rechtskräftig aberkannt oder wenn deren Erlöschung rechtskräftig festgestellt wurde. Mit dem Worte "rechtskräftig" wollte der Gesetzgeber offenbar verfügen, daß Zwischenfälle, die sich nach der Bewilligung einer sicherstellungsweisen Exekution bis zur Rechtskraft des Urteiles noch ereignen können, ohne Bedeutung sind und nicht abwechselnd dem Gläubiger und Schuldner Anlaß zu weiterer entgegengesetzter Antragstellung geben können.
+Wenn es nun auch richtig ist, daß durch die Bewilligung der Wiedereinsetzung und die Aufhebung des Versäumungsurteiles der der Exekution zugrunde liegende Titel nicht mehr vorhanden ist, so kann doch nicht gesagt werden, daß die mit dem Versäumungsurteil zugesprochene Geldforderung im Sinne des § 376 Abs. 1 Z. 3 EO. rechtskräftig aberkannt oder deren Erlöschung rechtskräftig festgestellt wurde. In Übereinstimmung mit diesen Grundsätzen steht auch der Oberste Gerichtshof stets auf dem Standpunkt, daß, wenn auf Grund zweier bestätigender Urteile die Exekution zur Sicherstellung bewilligt wurde und erst in dritter Instanz die Rechtssache unter Aufhebung beider Urteile an die erste Instanz zurückverwiesen wurde, hiedurch ein Einstellungsgrund nach § 376 Abs. 1 Z. 3 EO. nicht gegeben ist.
+Aus diesen Erwägungen war dem Revisionsrekurs Folge zu geben, der angefochtene Beschluß aufzuheben und der erstrichterliche Beschluß wiederherzustellen (SZ. XV/25, 139, 194; Helier - Trenkwalder, S. 1327, und die dort angeführten Entscheidungen; Neumann - Lichtblau, S. 1156 ff.).

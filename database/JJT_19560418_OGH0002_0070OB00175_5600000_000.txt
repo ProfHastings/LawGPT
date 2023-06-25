@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.04.1956
+Geschäftszahl
+7Ob175/56
+Norm
+EO §65;
+EO §73;
+EO §294;
+EO §305;
+EO §308;
+EO §390;
+EO §400;
+Kopf
+SZ 29/35
+Spruch
+Das Exekutionsgericht kann nach Bewilligung der Pfändung und Überweisung des Anspruches auf Rückzahlung der bei Gericht erlegten Sicherheit nicht die Ausfolgung des erlegten Betrages anordnen.
+Eine Ausfolgung im Sinne des § 400 EO. darf nur erfolgen, wenn der Gegner der gefährdeten Partei keine Ersatzansprüche angemeldet hat.
+Als rekursberechtigte Beteiligte im Exekutionsverfahren sind auch diejenigen anzusehen, deren Rechte durch eine Kompetenzüberschreitung des Exekutionsgerichtes beeinträchtigt werden.
+Entscheidung vom 18. April 1956, 7 Ob 175/56.
+I. Instanz: Bezirksgericht Bad Aussee; II. Instanz: Kreisgericht Leoben.
+Text
+Zu C 163/50 des Bezirksgerichtes Bad Aussee erwirkten die verpflichteten Parteien gegen Else M., Alfons W., Eugen W., Marianne K., Edith W. und Daisy Ch. (im folgenden als Beteiligte bezeichnet) die Erlassung einer einstweiligen Verfügung gegen Sicherheitsleistung im Betrage von 200.000 S. Nach Aufhebung dieser einstweiligen Verfügung durch den Obersten Gerichtshof stellten die Beteiligten einen Antrag auf Festsetzung des Ersatzes gemäß § 394 EO. und auf Überweisung der Kaution von 200.000 S an sie. Über diesen Antrag ist noch nicht rechtskräftig entschieden.
+Die betreibende Partei war im Verfahren C 163/50 eine Zeitlang Kurator der Beteiligten. Zugunsten der ihr für diese Tätigkeit vom Bezirksgericht Bad Aussee rechtskräftig zuerkannten Kostenforderung von 1.455.597 S 45 g erwirkte sie die Bewilligung der Exekution durch Pfändung und Überweisung der den verpflichteten Parteien gegen das Bezirksgericht Bad Aussee zustehenden Forderung auf Rückzahlung der Sicherheit von 200.000 S.
+Nach Rechtskraft des die Exekution bewilligenden Beschlusses verfügte das Erstgericht als Exekutionsgericht von Amts wegen die Überweisung des restlichen Sicherheitsleistungsbetrages von 185.907 S 82 g (ein Teilbetrag war schon früher zur Berichtigung einer Kostenforderung liquidiert worden) an die betreibende Partei.
+Mit dem angefochtenen Beschluß hob das Rekursgericht infolge Rekurses der Beteiligten, denen auf ihren Antrag der Beschluß des Erstgerichtes zugestellt wurde, diesen Beschluß als nichtig auf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zu Unrecht zieht der Revisionsrekurs das Rekursrecht der Beteiligten in Zweifel. Zum Rekurse im Exekutionsverfahren sind außer den Parteien auch Beteiligte legitimiert, wie Drittschuldner, Übernahmswerber, Ersteher u. dgl., denen ein rechtliches Interesse an einzelnen Schritten des Exekutionsverfahrens zuzubilligen ist. Das Gesetz sieht neben den Parteien auch Beteiligte ausdrücklich vor (z. B. § 73 EO.), und soweit deren rechtliches Interesse als Beteiligte reicht, steht ihnen das Rekursrecht zu (Neumann - Lichtblau, Kommentar zur EO., 3. Aufl. I S. 291; EvBl. 1947 Nr. 684). Insbesondere muß das Recht zur Rekurserhebung denen zugebilligt werden, deren Rechte, wie im vorliegenden Fall, dadurch in Mitleidenschaft gezogen wurden, daß das Exekutionsgericht seine Kompetenz überschritten hat.
+Daß eine solche Kompetenzüberschreitung vorliegt, steht außer Zweifel. Mit der Bewilligung der Pfändung und Überweisung des Anspruches auf Rückzahlung der bei Gericht erlegten Sicherheit war die gesetzmäßige Tätigkeit des Exekutionsgerichtes beendet. Es stand ihm nicht zu, über den bei Gericht erlegten Betrag zu verfügen und im Exekutionsverfahren die Ausfolgung des erlegten Betrages zu beschließen (SZ. XIV 164). Diese Beschlußfassung, die noch dazu vorgenommen wurde, ohne daß ihr ein Antrag zugrunde lag, ist daher nichtig. Daran ändert es auch nichts, daß als Exekutionsgericht und Erlagsgericht zufällig dasselbe Gericht tätig war und daß zeitweise in beiden Sachen derselbe Richter amtierte, denn die ungesetzliche Erledigung im Rahmen des Exekutionsverfahrens hatte jedenfalls zur Folge, daß im Ausfolgungsverfahren die Erlagsgegner nicht vertreten waren und daß das Gericht die Rechte, die die Beteiligten als Gegner der gefährdeten Parteien im Sicherungsverfahren erworben hatten, völlig außer acht gelassen hat. Der Gegner der gefährdeten Partei erlangt ja durch den gerichtlichen Erlag einer Sicherheit an den erlegten Werten ein gesetzliches Pfandrecht für seine Ersatzforderung (§ 56 Abs. 3 ZPO., §§ 4O2 und 78 EO.). § 400 EO. ordnet an, daß die Sicherheit der gefährdeten Partei erst nach Ablauf von 14 Tagen seit Eintritt der Rechtskraft des die einstweilige Verfügung aufhebenden Beschlusses auszufolgen ist, falls der Gegner bis dahin nicht Ersatzansprüche angemeldet hat (Neumann - Lichtblau a. a. O. II S. 1242, 1243). Ist dies der Fall, so darf die Erfolglassung nicht bewilligt werden; denn es liegt in der Natur der Sache, daß die zur Sicherung des Ersatzanspruches erlegten Beträge nicht in einem Zeitpunkte ausgefolgt werden können, in welchem der Anspruch erhoben wird, zu dessen Sicherung die Kaution dient. Die Kaution muß so lange zurückbehalten werden, bis über den Ersatzanspruch entschieden ist (Neumann - Lichtblau a. a. O. II S. 1273). Die Bestimmung des § 400 EO. gibt nur den frühesten Zeitpunkt an, in welchem eine Sicherheit ausgefolgt werden darf (GerH. 1932 S. 168).
+Daraus folgt, daß der betreibenden Partei der erlegte Betrag nicht hätte ausgefolgt werden dürfen, da ihr als Überweisungsgläubigerin nicht mehr Rechte zustanden als den Verpflichteten als Überweisungsschuldnern. Ob und inwieweit mit dem gesetzlichen Pfandrechte der Beteiligten die von der betreibenden Partei als Gläubigerin einer Kostenforderung auf Grund des Gesetzes und auf Grund der Exekutionsbewilligung E 281/52-1 des Bezirksgerichtes Bad Aussee erworbenen Rechte kollidieren, hatte das Bezirksgericht Bad Aussee weder in dem vorliegenden Exekutionsverfahren noch in dem Verfahren C 163/50 zu entscheiden. Seine Tätigkeit als Exekutionsgericht war, wie bereits ausgeführt, mit der Fassung des Überweisungsbeschlusses abgeschlossen. In dem Verfahren C 163/50 aber hat sich seine Tätigkeit auf die Festsetzung des zu leistenden Schadenersatzes zu beschränken. Im übrigen kommt ihm als Verwahrschaftsgericht die Stellung eines Drittschuldners zu (§ 307 EO.). Alle Erörterungen des Revisionsrekurses, die dartun wollen, daß das Pfandrecht der betreibenden Partei dem von den Beteiligten nach § 56 Abs. 3 ZPO. erworbenen Pfandrecht im Range vorausgehe oder daß zumindest Gleichwertigkeit des Ranges vorliege, gehen daher ins Leere.
+Das Erstgericht hat als Exekutionsgericht eine ihm nicht zukommende Entscheidung getroffen und hat sich dabei über gesetzmäßige Rechte von Personen hinweggesetzt, die im Exekutionsverfahren gar nicht vertreten waren (§ 477 Abs. 1 Z. 5 ZPO.). Sein Beschluß ist nichtig. Dem Revisionsrekurs war daher nicht Folge zu geben.

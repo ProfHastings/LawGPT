@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2001
+Geschäftszahl
+4Ob92/01k
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Kodek als Vorsitzenden, den Hofrat des Obersten Gerichtshofes Dr. Graf, die Hofrätinnen des Obersten Gerichtshofes Dr. Griß und Dr. Schenk und den Hofrat des Obersten Gerichtshofes Dr. Vogel als weitere Richter in der Rechtssache der klagenden Partei V***** GmbH, ***** vertreten durch Schönherr Barfuß Torggler & Partner, Rechtsanwälte in Wien, gegen die beklagte Partei V***** Gesellschaft mbH, ***** vertreten durch Dr. Gerald Ganzger, Rechtsanwalt in Wien, wegen Unterlassung und Urteilsveröffentlichung (Streitwert im Provisorialverfahren 755.000 S), über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichtes Wien als Rekursgericht vom 23. Februar 2001, GZ 4 R 188/00x-8, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs der beklagten Partei wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Ob ein Wettbewerbsverhältnis besteht, ist nach der Verkehrsauffassung zu beurteilen. Ein Wettbewerbsverhältnis wird nach ständiger Rechtsprechung immer dann bejaht, wenn sich die beteiligten Unternehmer an einen im Wesentlichen gleichen Abnehmerkreis wenden, wobei es genügt, dass die von ihnen vertriebenen Waren (oder Leistungen) ihrer Art nach miteinander in Konkurrenz treten und einander nach der Verkehrsauffassung im Wettbewerb behindern können (ÖBl 1992, 265 - Product-Placement; ÖBl 1994, 217 - Satellitenprogramm je mwN; wbl 2000, 386).
+Der in § 14 UWG gebrauchte Begriff "verwandter Art" ist weit auszulegen; "verwandter Art" sind alle Waren und Leistungen, die geeignet sind, das gleiche Verkehrsbedürfnis zu befriedigen, und deshalb in Konkurrenz zueinander treten und sich im Absatz beeinträchtigen können; es genügt, dass sich die Parteien um denselben Kundenkreis bemühen (ÖBl 1992, 267 - Product-Placement; wbl 2000,386).
+Der Annahme eines Wettbewerbsverhältnisses steht nicht entgegen, dass die Betätigungsgebiete zweier Unternehmen nicht zur Gänze zusammenfallen, die jeweiligen Angebote also nur teilkongruent sind. Die Geschäftsbetriebe zweier Unternehmen müssen nicht in der Hauptsache übereinstimmen; es genügt, wenn dies teilweise der Fall ist (ÖBl 1991, 221 - Nachschlüssel mwN), die Kreise einander also schneiden (MR 1996, 194 = ÖBl 1997, 78 - CD-ROM; MR 1998, 163 = ÖBl 1998, 300 - Schneefall am Heiligen Abend).
+Die Streitteile verlegen Wochenzeitschriften in Form von Printmedien und sind darüber hinaus beide im Internet präsent: die Klägerin als Medieninhaberin einer ausschließlich im Internet erscheinenden Tageszeitung, die Beklagte als Betreiberin einer Homepage, auf der unter anderem der Inhalt einer von ihr verlegten Wochenzeitschrift abrufbar ist, wobei der Name dieser Zeitschrift zugleich bestimmender Teil (second-level-domain) der Internet-Adresse ist. Wenn das Rekursgericht unter diesen Voraussetzungen in Ansehung des geltend gemachten Unterlassungsanspruchs (Verbot wahrheitswidriger Aussagen über den Erfolg der Hompage der Beklagten) ein Wettbewerbsverhältnis zwischen den Streitteilen bejaht hat, hält sich diese Beurteilung im Rahmen der zuvor aufgezeigten Grundsätze höchstgerichtlicher Rechtsprechung zum Wettbewerbsverhältnis, genügt doch für dessen Bejahung schon ein teilweises Überschneiden der angesprochenen Kundenkreise. Entscheidend ist, dass sich der Verletzer durch die konkrete Wettbewerbshandlung in irgendeiner Weise zum Betroffenen in Wettbewerb stellt, sodass eine gegenseitige Behinderung im Absatz eintritt.
+Eine solche Behinderung ist bei der gegebenen Sachlage schon wegen der Überschneidung der Geschäftsbereiche der Streitteile auf dem Markt für Printmedien gegeben. Auf die von der Beklagten zur Zulässigkeit ihres Rechtsmittels aufgeworfene Frage nach der Substituierbarkeit zwischen einer kostenlos im Internet angebotenen Zeitschrift und einer entgeltlichen Printzeitschrift für den Leser kommt es damit nicht weiter an.

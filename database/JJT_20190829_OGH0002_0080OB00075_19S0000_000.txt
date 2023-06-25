@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2019
+Geschäftszahl
+8Ob75/19s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Mag. Korn, Dr. Stefula und Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei Dr. G*****, vertreten durch Dr. Matthias Lüth, Mag. Michael Mikuz, Rechtsanwälte in Innsbruck, gegen die beklagte Partei A*****, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, wegen 31.540 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 25. März 2019, GZ 2 R 23/19b-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Kläger behauptet aufgrund einer Einlösungsvereinbarung nach § 1422 ABGB Gläubiger aus einem Kreditvertrag zu sein, für dessen Rückzahlung Liegenschaftsanteile der Beklagten als Pfand haften. Die Beklagte bestreitet die Berechtigung bereits der Rechtsvorgängerin des Klägers, da diese unter Berufung auf eine angebliche Treuhandschaft im Insolvenzverfahren des eigentlich berechtigten Gläubigers zu Unrecht ein Absonderungsrecht geltend gemacht habe.
+Die Vorinstanzen gaben der Klage statt. Das Berufungsgericht ließ die ordentliche Revision nicht zu.
+Die Revision der Beklagten ist mangels Vorliegens einer Rechtsfrage von erheblicher Bedeutung zurückzuweisen.
+1. Aussonderungsansprüche erfahren durch die Eröffnung des Insolvenzverfahrens gemäß § 11 Abs 1 IO (KO) keine inhaltliche Veränderung, sie unterliegen weder dem Anmeldungszwang noch dem Prüfverfahren (RIS-Justiz RS0064210). Voraussetzung für einen Aussonderungsanspruch nach § 44 IO (KO) ist es, dass sich in der Konkursmasse eine „Sache“ befindet, die dem Gemeinschuldner nicht (oder teilweise nicht) gehört und deshalb nicht zur Sollmasse zählt (RS0123755). Der Zweck dieser Bestimmung ist es, vom Insolvenzverfahren nur solche Vermögenswerte zu erfassen, die dem Gemeinschuldner tatsächlich gehören (8 Ob 131/07h).
+Der Insolvenz-(Masse-)verwalter ist gemäß § 83 Abs 1 IO (KO) im Verhältnis zu Dritten – außer in den Fällen des § 117 IO – kraft seiner Bestellung befugt, alle Rechtsgeschäfte und Rechtshandlungen vorzunehmen, welche die Erfüllung der Obliegenheiten seines Amtes mit sich bringt, insoweit nicht das Konkursgericht im einzelnen Fall eine Beschränkung der Befugnisse des Masseverwalters verfügt und dem Dritten bekannt gegeben hat.
+2. Bereits in der Entscheidung 8 Ob 39/14i hat der Oberste Gerichtshof zu dem auch hier zu beurteilenden Sachverhalt ausgeführt, der Masseverwalter habe die von der Treugeberin geltend gemachte Aussonderungsforderung anerkannt und die für die Einverleibung der Übertragung der Pfandrechte auf den Kläger im Grundbuch erforderliche Ermächtigung des Gläubigerausschusses eingeholt. Das Insolvenzgericht habe den Beschluss des Gläubigerausschusses nicht untersagt (§ 95 IO [KO]).
+Die rechtliche Beurteilung des Berufungsgerichts, dass infolge der Rechtswirksamkeit dieser Handlungen des Masseverwalters von einer wirksamen Aussonderung auszugehen sei, sodass die Treugeberin die Verfügungsbefugnis über die ausgesonderte Forderung erlangt habe, steht mit der Rechtsprechung im Einklang.
+3. Die Revision argumentiert im Wesentlichen damit, dass die Vorinstanzen im vorliegenden Fall nicht geprüft haben, ob die „angebliche“ Treugeberin, von der der Kläger seine Ansprüche ableitet, tatsächlich über ein Aussonderungsrecht verfügt habe. Damit übergeht die Revisionswerberin aber, dass die Frage, ob die Treugeberin berechtigt war, die Aussonderungsforderung geltend zu machen, von der hier zu beurteilenden Frage zu unterscheiden ist, ob die Aussonderung wirksam erfolgte, sodass die Treugeberin die Verfügungsbefugnis über die Forderung erlangte (so ebenfalls schon 8 Ob 39/14i).
+4. Ob der Insolvenzverwalter gemäß § 116 Abs 1 IO vor dem Anerkenntnis des Aussonderungsanspruchs eine Äußerung des Gläubigerausschusses eingeholt hat und dem Insolvenzgericht eine Mitteilung von seinem Vorhaben gemacht hat, ist hier nicht zu klären, weil auch Rechtsgeschäfte, die der Insolvenzverwalter entgegen § 116 IO ohne Mitteilungsverfahren abgeschlossen hat, grundsätzlich – außer im Sonderfall der Kollusion, für den hier aber keine Anhaltspunkte bestehen – gegenüber dem Dritten wirksam sind (vgl 17 Ob 6/19k).
+5. Die Revision ist daher mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen. Einer weiteren Begründung bedarf dieser Zurückweisungsbeschluss nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0080OB00075.19S.0829.000

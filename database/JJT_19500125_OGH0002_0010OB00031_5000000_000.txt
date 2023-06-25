@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.1950
+Geschäftszahl
+1Ob31/50
+Norm
+Fristengesetz §1;
+Fristengesetz §2;
+ZPO §569;
+ZPO §575 Abs2;
+Kopf
+SZ 23/11
+Spruch
+§ 575 Abs. 3 ZPO. fällt nicht unter das Fristengesetz. Entscheidung vom 25. Jänner 1950, 1 Ob 31/50.
+I. Instanz: Bezirksgericht Fünfhaus; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Das Rekursgericht hat den Antrag der betreibenden Partei auf Räumungsexekution in Abänderung des erstrichterlichen Exekutionsbewilligungsbeschlusses abgewiesen, weil der Exekutionsantrag nach Ablauf der Frist des § 575 Abs. 3 ZPO. gestellt worden ist. Dieser Beschluß wird von der betreibenden Partei mit der Begründung angefochten, daß die Frist des § 575 Abs. 3 ZPO. durch das Fristengesetz, BGBl. Nr. 193/1947 (Fassung BGBl. Nr. 131/1949), bis 31. Jänner 1950 verlängert worden sei, so daß der am 7. November 1949 gestellte Exekutionsantrag als rechtzeitig anzusehen sei.
+Die Entscheidung, ob das Fristengesetz anwendbar ist, hängt von der Frage ab, ob die Frist des § 575 Abs. 3 ZPO. materiellrechtlicher oder prozessualer Natur ist. Der Oberste Gerichtshof hat diesbezüglich nachstehendes erwogen:
+§ 575 Abs. 3 ZPO. ist eine Anwendung des dem § 1114 ABGB. zugrunde liegenden Rechtsgedankens, daß ein erloschenes Mietverhältnis stillschweigend erneuert werde, wenn nicht der gegenteilige Wille zum Ausdruck gebracht wird. In Durchführung dieses Gedankens bestimmt § 569 ZPO., daß Bestandverträge, die durch Zeitablauf erlöschen, binnen 14 Tagen nach Ablauf der Bestandzeit aufgekundigt bzw. Klage auf Rückstellung (Rücknahme) erhoben werden müsse, und § 575 Abs. 3 ZPO., daß innerhalb von 14 Tagen nach Rechtskraft des Räumungsurteils Räumungsexekution beantragt werden müsse, widrigenfalls das Bestandverhältnis als fortgesetzt gilt. Während aber die Bestimmung des § 569 ZPO. als praesumptio juris et de jure ausgelegt wird, erblickt die ständige Praxis des Obersten Gerichtshofes in der Vorschrift des § 575 Abs. 3 ZPO. nur eine einfache Vermutung, die widerlegbar ist.
+Nach der Judikatur des Obersten Gerichtshofes kommt der Frist des § 575 Abs. 3 ZPO. eine doppelte Funktion zu; einmal eine verfahrensrechtliche, der Exekutionstitel tritt nach fruchtlosem Ablauf der 14-Tagefrist außer Kraft (SZ. XII/44; XIII/252 u. a. m.), zweitens eine materiellrechtliche. Der Ablauf der Frist schafft eine Vermutung des Erlöschens des Anspruches, daher kann trotz Ablaufes der Frist neuerlich im Klagewege die Räumung verlangt werden, wofern die Vermutung der stillschweigenden Fortsetzung des Bestandvertrages im neuerlichen Rechtsstreit widerlegt wird (insbesondere SZ. XII/44).
+Vorliegend kommt die erstangeführte Wirkung des § 575 Abs. 3 ZPO. in Betracht, da es sich um die Frage handelt, ob die Exekutionsfähigkeit des Titels außer Kraft getreten ist. Das ist aber eine Frage des Verfahrensrechtes; die Entscheidung vom 27. März 1935, AnwZ. 1935, S. 272, spricht daher zutreffend von einer prozessualen Beschränkung der Vollstreckbarkeit.
+Als eine Vorschrift des Verfahrensrechtes fällt demnach die Frist des § 575 Abs. 3 ZPO., soweit es sich um die zeitliche Vollstreckbarkeitsbeschränkung handelt, nicht unter das Fristengesetz (3 Ob 460/48). Der Oberste Gerichtshof kann daher die zu einer abweichenden Wertung der Natur der Frist des § 575 Abs. 3 ZPO. gelangende Entscheidung vom 30. August 1934, ZBl. 1934, Nr. 367, nicht aufrechterhalten, die § 575 Abs. 3 ZPO. ohne weitere Begründung als materiellrechtliche Fallfrist bezeichnet und daher den Postenlauf in diese Frist eingerechnet hat.
+Das Rekursgericht hat nach der Rechtsmeinung des Obersten Gerichtshofes infolgedessen mit Recht die Exekutionsfähigkeit des Exekutionstitels für erloschen erklärt; dem Revisionsrekurs mußte daher der Erfolg versagt bleiben.

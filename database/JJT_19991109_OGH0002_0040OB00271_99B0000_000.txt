@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.1999
+Geschäftszahl
+4Ob271/99b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Kodek als Vorsitzenden und durch den Hofrat des Obersten Gerichtshofs Dr. Graf, die Hofrätinnen des Obersten Gerichtshofs Dr. Griß und Dr. Schenk sowie den Hofrat des Obersten Gerichtshofs Dr. Vogel als weitere Richter in der Rechtssache der klagenden Parteien 1. E***** Company, *****, 2. E***** GmbH, *****, beide vertreten durch Dr. Werner Masser und andere Rechtsanwälte in Wien, unter Beiziehung von Dr. Albin Schwarz, Patentanwalt in Wien, wider die beklagte Partei L***** GmbH, *****, vertreten durch Schönherr, Barfuss, Torggler & Partner, Rechtsanwälte in Wien, unter Beiziehung von Dr. Thomas M. Haffner, Rechtsanwalt in Wien, wegen Unterlassung und Urteilsveröffentlichung (Gesamtstreitwert 1,000.000 S), infolge Revision der Klägerinnen gegen das Urteil des Oberlandesgerichts Wien vom 1. Juli 1999, GZ 6 R 2/98b-46, mit dem das Urteil des Handelsgerichts Wien vom 14. Oktober 1997, GZ 17 Cg 57/95d-41, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Klägerinnen sind zur ungeteilten Hand schuldig, der Beklagten die mit 24.997,50 bestimmten Kosten der Revisionsbeantwortung (darin 4.166,25 S USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage im Sinne des § 502 Abs 1 ZPO nicht zulässig:
+Rechtliche Beurteilung
+Das Berufungsgericht hat die Revision für zulässig erklärt, weil eine Rechtsprechung des Obersten Gerichtshofs zum Schutzbereich eines Schutzzertifikats für Arzneimittel fehlt. Die Revision der Klägerinnen enthält aber zu dieser Rechtsfrage keine Ausführungen. Nach dem Rechtsmittelvorbringen soll die Revision zulässig sein, weil das Berufungsgericht entgegen der ständigen Rechtsprechung ein unwesentliches Merkmal zur Bestimmung des Schutzbereichs des streitgegenständlichen Patents herangezogen habe.
+Die Klägerinnen verweisen auf die ständige Rechtsprechung, wonach
+unwesentliche Merkmale zur Bestimmung des Schutzbereichs nicht
+herangezogen werden, weil es nur darauf ankommt, ob die wesentlichen
+Merkmale der Erfindung erfüllt sind. So wurde wiederholt
+ausgesprochen, dass für die Entscheidung im Feststellungsstreit
+allein maßgebend ist, ob der Feststellungsgegenstand und die
+geschützte Erfindung - der Gegenstand des Patents - in einem
+wesentlichen, also kennzeichnenden Merkmal übereinstimmen oder
+zumindest patentrechtliche Äquivalenz vorliegt (OPM ÖBl 1985, 92 =
+PBl 1985, 130; OPM ÖBl 1996, 77 = PBl 1996, 11; OPM ÖBl 1997, 17 =
+PBl 1996, 244 ua).
+Dieser Rechtsprechung soll die angefochtene Entscheidung widersprechen, weil das Berufungsgericht die Entmethylierung als wesentliches Merkmal des Grundpatents gewertet hat. Nach Auffassung der Klägerinnen ist die Verwendung des Amins in der methylierten Form in der Williamson'schen Ethersynthese das unwesentliche Merkmal im Anspruch 1 des patentierten Verfahrens. Das Vorhandensein dieser Methylgruppe sei für das Gelingen der Williamson'schen Ethersynthese nicht notwendig, wie der Fachmann wisse, da die Methylgruppe lediglich in einer Vorstufe (Mannich-Kondensation) der Ethersynthese eine Funktion als Schutzgruppe gehabt habe und daher ihren Zweck zum Zeitpunkt der Williamson'schen Ethersynthese längst erfüllt habe. Ihre Abspaltung könne daher in irgendeiner Stufe des Verfahrens, auch vor der Williamson'schen Ethersynthese (wie im - von der Beklagten angewandten - Fermion-Verfahren), vorgenommen werden. Dies erkenne der Fachmann beim Studium des Lilly-Verfahrens. Gutachten von vier Universitätsprofessoren belegten dies.
+Die Klägerinnen berufen sich damit auf von ihr vorgelegte Privatgutachten, denen der vom Gericht bestellte Sachverständige nicht gefolgt ist. In Übereinstimmung mit dessen Gutachten hat das Erstgericht festgestellt, dass beim Fermion-Verfahren das Abspalten der Aminoschutzgruppe (Benzylgruppe) katalytisch unter gleichzeitiger Hydrierung vor der Ethersynthese vorgenommen wird, während beim geschützten Verfahren das Abspalten der Aminoschutzgruppe (Methylgruppe) nach der Ethersynthese durch Umsetzen mit Bromcyanid und anschließender Hydrolyse erfolgt. Das Überführen der Dimethylaminoverbindung in die Monomethylaminoverbindung durch Entmethylieren sei notwendig, um die Monomethylaminoverbindung Fluoxetin nach dem durch das Grundpatent geschützten Verfahren herzustellen.
+Nach dem festgestellten Sachverhalt treffen demnach die Rechtsmittelausführungen der Klägerinnen nicht zu, wonach es für den Fachmann selbstverständlich sei, dass die Ethersynthese auch ohne Methylgruppe vorgenommen werden könne und die Methylgruppe somit für das Gelingen des patentierten Verfahrens unwesentlich sei. Es ist damit auch die Annahme des Berufungsgerichts nicht unrichtig, dass die Methylgruppe eine Schutzgruppe für die Williamson'sche Ethersynthese darstellt.
+Hat das Berufungsgericht aber insoweit nicht geirrt, so hat es auch die Rechtsfrage richtig gelöst und die Verletzung des Schutzzertifikats zu Recht verneint. Seine Entscheidung steht nicht im Widerspruch zur ständigen Rechtsprechung.
+Das Berufungsverfahren ist auch nicht deshalb mangelhaft geblieben, weil das Berufungsgericht keinen weiteren Sachverständigen aus dem Bereich der synthetischen-anorganischen Chemie beigezogen hat. Diese Rüge der Klägerinnen zeigt, dass sie sich in Wahrheit durch den festgestellten Sachverhalt beschwert erachten, der jedoch im Revisionsverfahren nicht mehr überprüft werden kann.
+Die Revision war zurückzuweisen.
+Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Revisionsbeantwortung der Beklagten war zur zweckentsprechenden Rechtsverfolgung notwendig, weil sie auf das Fehlen einer erheblichen Rechtsfrage hingewiesen hat. Dazu waren die Fachkenntnisse eines Patentanwalts allerdings nicht erforderlich, so dass die für die Beiziehung eines Patentanwalts verzeichneten Kosten nicht zuzuerkennen waren, weil sie zur zweckentsprechenden Rechtsverfolgung nicht notwendig waren.

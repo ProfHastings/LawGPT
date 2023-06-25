@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2015
+Geschäftszahl
+5Ob138/15b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Partei R*****gesellschaft mbH, *****, vertreten durch Dr. Karl Schelling, Rechtsanwalt in Dornbirn, gegen die beklagten Parteien 1. O***** B*****, 2. K***** L*****, beide *****, beide vertreten durch Dr. Michael Battlogg, Rechtsanwalt in Schruns, wegen (restlich) 33.835,70 EUR, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 26. Mai 2015, GZ 2 R 69/15m-66, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.
+Wenn der Besteller die Behebung der Mängel durch den Unternehmer nicht mehr zulässt, kann er die Bezahlung des einem berechtigten Preisminderungsanspruch entsprechend verringerten Werklohns nicht mit der Begründung verweigern, das Werk sei noch nicht vollendet (RIS-Justiz RS0021948 [T2]; RS0021730 [T8]). Die Ablehnung der Mängelbehebung bewirkt beim Werkvertrag die Fälligkeit des Werklohns (RIS-Justiz RS0044197 [T1]).
+Ob eine solche Verbesserungsverweigerung vorliegt, ist stets nach den konkreten Umständen des Einzelfalls zu beurteilen und bildet daher im Regelfall keine iSd § 502 Abs 1 ZPO erhebliche Rechtsfrage (RIS-Justiz RS0044197 [T2]). Das Berufungsgericht nahm hier eine Verbesserungsverweigerung an, weil die Beklagten die Behebung der noch bestehenden Mängel nicht nur von der Vorlage eines Sanierungskonzepts abhängig gemacht haben (vgl 1 Ob 121/14x) sondern auch von der Unterfertigung einer Vereinbarung, wonach die Beklagten nach der Sanierung keinen offenen Werklohn mehr schulden würden. Dieses Ergebnis stellt jedenfalls keine aufzugreifende Fehlbeurteilung dar.
+2. Mangelhafte Leistungen schieben die Fälligkeit der Werklohnforderungen und damit den Verjährungsbeginn bis zur Verbesserung hinaus. Wird nicht in angemessener Frist verbessert, ist in der Regel die objektive Möglichkeit der Verbesserung ausschlaggebend (RIS-Justiz RS0020041; RS0020107). Die Werklohnforderung, der die Einrede des nicht (gehörig) erfüllten Vertrags entgegensteht, beginnt daher erst dann zu verjähren, wenn die die Fälligkeit hinausschiebenden Mängel vom Unternehmer behoben wurden oder behoben werden hätten können; dies - entgegen der Auffassung der Revisionswerber - unabhängig davon, ob der Werkunternehmer bereits Rechnung gelegt hat oder nicht. Die Einrede des nicht (gehörig) erfüllten Vertrags schiebt die Fälligkeit der Werklohnforderung also auch im Fall des Verzugs mit der Rechnungslegung hinaus. Der in ständiger Rechtsprechung vertretene Grundsatz, dass die Fälligkeit des Werklohns schon bei objektiver Möglichkeit der Rechnungslegung eintritt (RIS-Justiz RS0021821), bildet keinen eigenen, isoliert zu betrachtenden Verjährungstatbestand. Es gilt lediglich, den nicht Rechnung legenden Unternehmer verjährungsrechtlich dem Unternehmer, der Rechnung gelegt hat, gleichzustellen, damit dieser nicht die Fälligkeit und den Beginn der Verjährung willkürlich durch Verzögerung der Rechnungslegung nach seinem Belieben hinausschieben kann (vgl RIS-Justiz RS0021821 [T19]).
+Das Berufungsgericht hat hier einen objektiven Verbesserungsverzug angesichts der festgestellten laufenden Mängelbehebungen und der aufrechten Bereitschaft der Klägerin, insbesondere auch die im Verlauf des Verfahrens vom Sachverständigen festgestellten Mängel in Abstimmung mit den Beklagten zu beheben, jedenfalls vertretbar verneint. Die Beurteilung derartiger Fragen im Zusammenhang mit dem Eintritt der Verjährung hängt stets von den Umständen des Einzelfalls ab (vgl RIS-Justiz RS0034524 [insb[T23, T41]) und würde nur dann eine erhebliche Rechtsfrage darstellen, wenn im Interesse der Rechtssicherheit eine grobe Fehlbeurteilung korrigiert werden müsste (vgl RIS-Justiz RS0044088 [T8]).
+3. Die Beklagten zeigen in ihrer Revision auch sonst keine Rechtsfrage auf, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt. Diese war daher mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0050OB00138.15B.1221.000

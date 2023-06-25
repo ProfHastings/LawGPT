@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.2021
+Geschäftszahl
+2Ob116/21d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden sowie den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei S* GmbH, *, vertreten durch Denkmayr Schnötzlinger Bernauer Rechtsanwaltspartnerschaft in Ried im Innkreis, gegen die beklagte Partei Ing. R* H*, vertreten durch Posch, Schausberger & Lutz Rechtsanwälte GmbH in Wels, wegen 302.308,55 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Zwischenurteil des Oberlandesgerichts Linz als Berufungsgericht vom 12. Mai 2021, GZ 1 R 182/20w-16, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Für den unbestritten gemäß § 1489 ABGB verjährenden Ersatzanspruch gegen den Scheinvertreter (vgl Dehn in KBB6 § 1489 Rz 1) beginnt der Fristenlauf, wenn dem Geschädigten der Schaden und die Person des Schädigers bekannt geworden sind. Dies ist der Fall, wenn der Sachverhalt dem Geschädigten so weit bekannt ist, dass dieser mit Aussicht auf Erfolg klagen kann, also in der Lage ist, das zur Begründung seines Ersatzanspruchs erforderliche Sachvorbringen konkret zu erstatten (RS0034524 [T24]). Das bedingt die Kenntnis des Kausalzusammenhangs und – bei verschuldensabhängiger Haftung – auch die Kenntnis der Umstände, die das Verschulden begründen (RS0034524 [T27, T29]; vgl RS0034603; RS0034951). Bloße Mutmaßungen über die angeführten Umstände genügen nicht. Erst objektives Bekanntsein der maßgeblichen Tatumstände bedeutet Kenntnis des Schadens (RS0034547). Immer hängt aber die Frage, wann eine Klage mit Aussicht auf Erfolg erhoben werden kann, von den Umständen des Einzelfalls ab (RS0034524 [T23]).
+[2] 		2. Seit der Entscheidung eines verstärkten Senats (1 Ob 621/95 SZ 68/238) wird in ständiger Rechtsprechung judiziert, dass die kurze Verjährungsfrist nicht vor dem tatsächlichen Eintritt des Schadens zu laufen beginnt und nicht schon mit dem schädigenden Ereignis (RS0083144). Besteht Ungewissheit darüber, ob überhaupt ein Schaden entstanden ist, und ist über diese Frage ein Rechtsstreit anhängig, ist auf die Rechtskraft der Gerichtsentscheidung abzustellen, weil erst dann der Schadenseintritt „unverrückbar“ feststeht und ausreichend sichere Informationen für eine Schadenersatzklage zur Verfügung stehen (1 Ob 203/11a; 9 Ob 66/18y; RS0083144 [T14, T17, T31]; RS0034374 [T29 und T36]). Bis zur (rechtskräftigen) gerichtlichen Entscheidung kann zugewartet werden, wenn eine objektive Unklarheit über die Haftung besteht (1 Ob 162/07s), sofern nicht bereits vorher gesicherte Verfahrensergebnisse vorlagen oder der Geschädigte erdrückende Beweise ignorierte (1 Ob 12/05d; 2 Ob 214/17k; 2 Ob 7/20y; RS0083144 [T22]).
+[3] 		3. Nach ständiger Rechtsprechung sind zwar bedingte Rechtsverhältnisse feststellungsfähig.
+[4] 		Hier hat sich das ursächliche Schadensereignis der Auftragserteilung ohne ausreichende Vollmacht aber erst mit der endgültigen Klärung der Frage der Vertretungsmacht im Vorverfahren als solches herausgestellt.
+[5] 		In der Beurteilung des Berufungsgerichts, dass im vorliegenden Fall die Verjährungsfrist vor Zustellung der abschließenden Entscheidung im Vorprozess nicht zu laufen begonnen hat, ist daher insgesamt keine Fehlbeurteilung zu erkennen. Die Entscheidung 1 Ob 99/99m, die die Beklagte zwar nicht ausdrücklich, im Wesentlichen aber ihrem Inhalt nach zitiert, enthält keine Aussage zur Verjährungsfrage.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0020OB00116.21D.1214.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.07.2017
+Geschäftszahl
+3Ob39/17g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Parteien 1. Dr. H*****, 2. Maga. K*****, beide vertreten durch die Hochedlinger Luschin Marenzi Kapsch Rechtsanwälte GmbH in Wien, gegen die beklagte Partei R***** eGen, *****, vertreten durch die Muhri & Werschitz Partnerschaft von Rechtsanwälten GmbH in Graz, wegen Konvertierung einer Kreditschuld und 14.078,20 EUR sA, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 20. Jänner 2017, GZ 2 R 206/16f-18, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Die außerordentliche Revision der Kläger kann eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO nicht darstellen und ist deshalb als nicht zulässig zurückzuweisen. Das ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+1. Die gerügte Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, liegt aber nicht vor.
+2. Das Berufungsgericht führte im Rahmen der Erledigung der Beweisrüge gegen die Feststellung des Erstgerichts zur Kenntnis der Kläger ua Folgendes aus: Schon der allgemein verständlich formulierte Text des Limit-Auftrags vom 23. November 2012 machte den wirtschaftlich erfahrenen Kläger[n] bewusst, dass der Stop-Loss-Limit-Auftrag in einer stark schwankenden Marktphase (wie jener vom 15. Jänner 2015) zu einer Konvertierung zum nächsten handelbaren Kurs von 1,00 EUR = 1,03 CHF führen kann. In diesem Wissen haben sich die Kläger zur Erteilung des Stop-Loss-Limit-Auftrags an die Beklagte entschlossen.
+Ungeachtet der Platzierung im Berufungsurteil stellt dies eine Ergänzung der erstgerichtlichen Feststellungen dar, was durch deren Verwertung in der rechtlichen Beurteilung bestätigt wird (vgl RIS-Justiz RS0043110). Die Feststellungen hätten allerdings ohne Beweiswiederholung auch nicht ergänzt werden dürfen, weil dies wegen des Verstoßes gegen den Unmittelbarkeitsgrundsatz einen Mangel des Berufungsverfahrens verwirklicht (RIS-Justiz RS0042151 [T3]; RS0043057; RS0043461; RS0043026). Einen solchen Verfahrensmangel rügt die Revision aber nicht, sodass dem Obersten Gerichtshof dessen Wahrnehmung untersagt ist (Zechner in Fasching/Konecny² § 503 ZPO Rz 122; RIS-Justiz RS0037325) und eine in dritter Instanz unangreifbare bindende Feststellung zur Kenntnis der Kläger über das mit der Erteilung der Stop-Loss-Order eingegangene, später tatsächlich verwirklichte Risiko vorliegt.
+3. Angesichts dieser – sei es auch durch Aufklärung/Ratschläge von dritter Seite erlangten – Kenntnis ist aber ein Informationsdefizit der Kläger zu verneinen, weil sie über die von ihnen in erster Instanz behaupteten Risken und damit auch über den möglichen Nachteil einer Stop-Loss-Order in ihrer konkreten Situation Bescheid wussten. Dadurch waren sie in den Stand versetzt, die Auswirkungen einer Entscheidung über deren Erteilung zu erkennen.
+Daher erweisen sich die Vorwürfe sowohl eines/r unrichtigen (ungeeigneten) Rats/Auskunft als auch einer unzureichenden Aufklärung über das Abweichen des Ausführungs- vom Limit-Kurs und der daraus allenfalls folgenden Nachteiligkeit der Erteilung der Stop-Loss-Order als haltlos.
+4. Der Versuch der Kläger, die Bestimmung des § 919 2. Satz ABGB auf die erteilte Stop-Loss-Order anzuwenden, muss scheitern. § 919 ABGB betrifft relative Fixgeschäfte, die dadurch charakterisiert sind, dass die Leistung auch nach Verstreichen des fest bestimmten Erfüllungszeitpunkts grundsätzlich noch erbracht werden könnte (Hödl in Schwimann ABGB TaKom³ § 919 Rz 1). Die Anwendung der Norm setzt daher voraus, dass eine Erfüllung zum vereinbarten Zeitpunkt unterblieben ist. Ein solcher Sachverhalt ist hier aber nicht zu beurteilen, weil die Beklagte der Stop-Loss-Order bei Eintritt der gesetzten Bedingung unstrittig zeitgerecht nachkam.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0030OB00039.17G.0704.000

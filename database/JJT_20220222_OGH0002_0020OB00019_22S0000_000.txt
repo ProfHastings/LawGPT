@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+2Ob19/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Parzmayr und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei C *, vertreten durch Dr. Gabriele Schmid, Rechtsanwältin in Wien, gegen die beklagte Partei J*, vertreten durch Dr. Anton Keuschnigg, Rechtsanwalt in Kitzbühel, wegen 60.000 EUR sA, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse: 45.030,92 EUR sA) gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 7. Jänner 2022, GZ 3 R 102/21f-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin ist die Tochter des Erblassers, dessen Nachlass der Beklagten als testamentarischer Alleinerbin eingeantwortet wurde. Verlasszugehörig war unter anderem ein geschlossener Hof iSd § 1 THG.
+[2] 		Die Vorinstanzen gaben dem Begehren der Klägerin auf Zahlung ihres Pflichtteils statt, wobei sie dessen Berechnung einen Übernahmswert des geschlossenen Hofs von 294.975 EUR zu Grunde legten.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revision der Beklagten, die sich ausschließlich mit Fragen der Ausmittlung des Übernahmswerts befasst, zeigt das Vorliegen erheblicher Rechtsfragen iSd § 502 Abs 1 ZPO nicht auf:
+[4] 		1. Im vorliegenden Fall ist die (an sich zwingend vorgesehene: RS0036902) Festsetzung des Übernahmswerts im bereits rechtskräftig abgeschlossenen Verlassenschaftsverfahren unterblieben. Daher hat das Prozessgericht im Pflichtteilsprozess diese Frage selbständig als Vorfrage zu beantworten (RS0050217).
+[5] 		2. Durch das THG soll der bäuerliche Mittelbetrieb geschützt werden, dessen Durchschnittsertrag zur angemessenen Erhaltung von mindestens zwei erwachsenen Personen ausreicht, ohne das Zehnfache eines solchen Ertrags zu überschreiten (§ 3 Abs 1 und § 5 Abs 1 THG). Bei kleineren als solchen Normbetrieben soll der Übernehmer zwar nach der Judikatur auch noch begünstigt werden, bei der Festsetzung des Übernahmswerts nach § 21 THG kommt dem Ertragswert aber nicht mehr die entscheidende Rolle zu. In diesen Fällen ist dem Verkehrswert ein prozentuell höheres Gewicht beizumessen, je kleiner der Betrieb im Verhältnis zum Normbetrieb ist. Dem Gericht steht bei der regelmäßig einzelfallbezogenen Beurteilung, inwieweit Ertragswert- und Verkehrswertkomponenten ihren Niederschlag im Übernahmswert finden sollen, ein sehr weiter Ermessensspielraum zu (zu alldem zuletzt 2 Ob 165/19g mwN [bereits zu § 3 THG idF Tir LGBl 2016/96]).
+[6] 		3. Da im vorliegenden Fall das Höferecht (nur) aufgrund formaler Kriterien anwendbar ist (§ 1 THG [Eintragung in der Höfeabteilung des Grundbuchs]), nach den Feststellungen aber kein lebensfähiger Betrieb vorliegt, hat das Berufungsgericht durch die besondere Gewichtung der Verkehrswertkomponente – der angenommene Übernahmswert entspricht 75 % des Verkehrswerts, der Ertragswert ist zu vernachlässigen – den ihm zur Verfügung stehenden Beurteilungsspielraum nicht überschritten. Unter in etwa vergleichbaren Voraussetzungen hat der erkennende Fachsenat sogar die Festsetzung des Übernahmswerts „nahe dem Verkehrswert“ (2 Ob 148/17d) oder mit „rund 80 % des Verkehrswerts“ (2 Ob 165/19g) als vertretbar gebilligt.
+[7] 		4. Auf die in der Revision zitierten Entscheidungen kann sich die Beklagte nicht mit Erfolg berufen. In der einen in etwa vergleichbaren Sachverhalt betreffenden Entscheidung 6 Ob 181/00m war es dem Obersten Gerichtshof nämlich schon aus prozessualen Gründen verwehrt, den Verkehrswert mit mehr als 50 % zu gewichten, weil nur mehr die Anerbin als Rechtsmittelwerberin auftrat. Den weiteren Entscheidungen 6 Ob 109/11i und 6 Ob 156/13d lag ein bloßes Auseinanderklaffen von Verkehrs- und Ertragswert, nicht aber ein nicht lebensfähiger Hof zu Grunde. Die dort angestellten Erwägungen sind daher auf den hier vorliegenden Fall nicht unmittelbar zu übertragen (vgl dazu 2 Ob 38/20g Rz 6).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00019.22S.0222.000

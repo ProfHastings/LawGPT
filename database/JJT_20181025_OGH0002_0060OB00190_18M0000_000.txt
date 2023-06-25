@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2018
+Geschäftszahl
+6Ob190/18m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden, durch die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie durch die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei V*, vertreten durch Mag. Julian A. Motamedi de Silva, Rechtsanwalt in Wien, wider die beklagte Partei P* GesmbH, *, vertreten durch Dr. Michael Lesigang, Rechtsanwalt in Wien, und den Nebenintervenienten auf Seiten der beklagten Partei DI A* A*, vertreten durch Mag. Wolfgang Gartner, Dr. Isabella Zwickl-Festl, Rechtsanwälte in Wien, wegen Anfechtung und Feststellung der Nichtigkeit von Gesellschafterbeschlüssen gemäß § 41 GmbHG, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. Juli 2018, GZ 5 R 50/18m-44, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Nach oberstgerichtlicher Rechtsprechung ist in der Generalversammlung einer GmbH ein Gesellschafter über einen Antrag, einen von der Gesellschaft an diesen Gesellschafter bezahlten Betrag von diesem zurückzuverlangen, nicht stimmberechtigt (1 Ob 102/52 SZ 25/33; RIS-Justiz RS0059877; vgl auch 6 Ob 130/05v).
+Die Entscheidung des Berufungsgerichts entspricht dieser Rechtsprechung.
+Wenn die Pflicht des Gesellschafters, etwas an die Gesellschaft zurückzuzahlen, – wie hier – strittig ist, liegt es in der Natur der Sache, dass im Zeitpunkt der Abstimmung in der Generalversammlung nicht sicher ist, ob der Anspruch besteht. Denn dann wird die Gesellschaft den Anspruch gegen den Gesellschafter mit dem stets bestehenden mehr oder weniger großen Prozessrisiko einklagen müssen.
+Dem steht auch nicht der gerichtliche Vergleich vom 18. 6. 2014 entgegen, womit nach der Behauptung der Beklagten auch die den Gegenstand der Beschlussfassung in der Generalversammlung der beklagten GmbH bildenden Ansprüche mitverglichen worden sein sollen. Der Vergleich könnte nämlich zB (absolut) nichtig sein, etwa wenn er gegen das Verbot der Einlagenrückgewähr verstieße (RIS-Justiz RS0117033 [T2]). Der Vollständigkeit halber sei angemerkt, dass es für die Geltendmachung von Ansprüchen nach § 83 GmbHG keines vorausgehenden Gesellschafterbeschlusses bedarf (6 Ob 72/16f).
+Dass im Verfahren 40 Cg 30/15k des Handelsgerichts Wien mit Urteil des Berufungsgerichts vom 28. 9. 2017 das Begehren auf Aufhebung des genannten Vergleichs wegen Irrtums über die Vergleichsgrundlage rechtskräftig abgewiesen wurde, kann im vorliegenden Verfahren nicht berücksichtigt werden, weil der Entscheidung die Sachlage im Zeitpunkt des Schlusses der mündlichen Verhandlung erster Instanz (hier 6. 7. 2017) zugrunde zu legen ist (RIS-Justiz RS0036969 [T11]).
+Selbst eine Berücksichtigung dieses Urteils stünde gegebenenfalls einer Beurteilung des Vergleichs als absolut nichtig (vgl dazu schon oben) nicht entgegen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E123403

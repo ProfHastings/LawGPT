@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.12.1970
+Geschäftszahl
+2Ob432/70
+Norm
+ABGB §1392;
+ABGB §1393;
+ABGB §1394;
+Allgemeines Sozialversicherungsgesetz §332;
+Beamten-Kranken- und Unfallversicherungsgesetz §125;
+Kopf
+SZ 43/223
+Spruch
+Eine vertragliche, aber auch eine gesetzliche Zession kann auch noch nach dem Zeitpunkt des Schadensfalles erfolgen
+OGH 9. Dezember 1970, 2 Ob 432/70 (OLG Graz 4 b R 76/70; LG Klagenfurt 24 Cg 449/69)
+Text
+Der Postbeamte Josef D wurde am 19. Dezember 1966 bei einem vom Beklagten allein verschuldeten Verkehrsunfall schwer verletzt. Die Klägerin erbrachte an D auf Grund des BKUVG ab 1. Juli 1967 für Heilmittel und insbesondere Invalidenrenten Leistungen, deren Ersatz sie, auf die Legalzession nach § 125 BKUVG gestützt, vom Beklagten begehrt. Weiters begehrt sie die Feststellung, daß ihr der Beklagte alle Leistungen zu ersetzen habe, die sie künftig an D erbringen müsse.
+Das Erstgericht wies das Klagebegehren ab. Es stellte folgenden Sachverhalt fest:
+Der Unfall Ds wurde als Dienstunfall anerkannt. Die Klägerin wurde vom Schiedsgericht der Sozialversicherung verurteilt, Josef D ab 1. Juli 1967 eine Versehrtenrente in der Höhe von 50% der Vollrente zu bezahlen. Rechtlich führte das Erstgericht aus, die Legalzession an die Klägerin sei nicht eingetreten, weil die Bestimmungen des § 125 BKUVG nicht mit rückwirkender Kraft ausgestattet worden seien. Eine Legalzession trete im Unfallszeitpunkt ein, damals habe die Klägerin aber noch nicht bestanden, weshalb sie zur Klage nicht legitimiert sei.
+Das Berufungsgericht hob das Urteil unter Rechtskraftvorbehalt auf und verwies die Rechtssache an das Erstgericht zurück. Es führte aus, der Gesetzgeber wollte mit der Bestimmung des § 164 Abs 1 BKUVG auch Dienstunfälle entschädigen, die sich vor dem 1. Juli 1967 ereignet haben. Daraus folge aber im Zusammenhang mit der Bestimmung des § 125 Abs 1 BKUVG, daß die dem Geschädigten zustehenden Ersatzansprüche ab 1. Juli 1967 auf die Klägerin übergegangen seien, soweit sie Leistungen an den Geschädigten erbracht habe. Das Erstgericht müsse daher den Bestand und die Höhe des Deckungsfonds, die von der Klägerin erbrachten Leistungen und die Voraussetzungen für das Feststellungsbegehren erörtern.
+Der Oberste Gerichtshof gab dem Rekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gem § 1394 ABGB sind die Rechte des Übernehmers mit den Rechten des Überträgers in Rücksicht auf die überlassene Forderung dieselben. Der Zessionar kann also vom debitor cessus nicht mehr verlangen, als der Zedent verlangen hätte können. Gem § 125 Abs 1 BKUVG geht der Anspruch von Personen, der ihnen auf Grund anderer Rechtsvorschriften zusteht, auf die Versicherungsanstalt insoweit über, als diese Leistungen hierauf zu erbringen hat. Auf die Klägerin konnte daher nach dieser Legalzession nicht mehr an Forderungen übergehen als dem Geschädigten gegen den Beklagten zustanden. Der Umfang dieser Rechte richtet sich nach dem Zeitpunkt des Schadensfalles. Es ist im vorliegenden Fall daher zu prüfen, welche Forderungen der geschädigte Dritte aus dem Unfall gegen den Beklagten geltend hätte machen können und welche davon von der Klägerin befriedigt wurden. Die durch § 125 BKUVG verfügte Legalzession beinhaltet also keine Rückwirkung, sondern besagt nur, daß ab Inkrafttreten des Gesetzes, also ab 1. Juli 1967, die Forderungen des Geschädigten gegen den Schädiger auf die Klägerin übergegangen sind, soweit sie sie befriedigt hat oder noch zu befriedigen haben wird. Die vom Beklagten zitierten Entscheidungen JBl 1969, 34 und ZVR 1957/131, wonach die Legalzession im Zeitpunkt des Schadenseintrittes wirksam wird, besagen nichts anderes, denn auch darin wird ausgeführt, daß der Umfang der übergegangenen Rechte sich nach dem Schadenszeitpunkt bestimmt, nicht aber daß ein späterer Übergang nicht möglich ist. Eine vertragliche, aber auch eine gesetzliche Zession, ist auch später möglich, sie muß nicht im Zeitpunkt des Schadensfalls erfolgen. Das wird in der ebenfalls vom Beklagten zitierten Entscheidung JBl 1966, 257, ausdrücklich gesagt. Falls im Unfallszeitpunkt dem Geschädigten Ersatzansprüche (etwa nach dem ABGB) gegen den Beklagten zustanden, dann sind diese mit Wirksamkeit des BKUVG und Eintritt der darin bestimmten Voraussetzungen auf die Klägerin übergegangen. War die Forderung aber bereits im Schädigungszeitpunkt auf Grund einer Legalzession auf eine andere Versicherungsanstalt übergegangen, was vom Beklagten nicht behauptet wird, dann ist die Klägerin nunmehr auf Grund des Gesetzes Nachfolgerin dieses Versicherungsträgers und damit jedenfalls zur Klage legitimiert. Da das Erstgericht zu Unrecht die Klagslegitimation verneint und sich daher mit den geltend gemachten Ersatzansprüchen nicht befaßt hat, wurde seine Entscheidung mit Recht aufgehoben.

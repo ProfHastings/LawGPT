@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.03.2023
+Geschäftszahl
+7Ob28/23b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei C* K*, vertreten durch Dr. Christoph Reitmann, Rechtsanwalt in Klagenfurt am Wörthersee, der Nebenintervenientin *EG, *, vertreten durch MMag. Dr. Elisa Florina Ozegovic und Dr. Ernst Maiditsch, Rechtsanwälte in Klagenfurt amWörthersee, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Maximilian Motschiunig, Rechtsanwalt in Klagenfurt am Wörthersee, wegen 134.963,41 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 5. Jänner 2023, GZ 5 R 133/22a-210, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die Allgemeinen Versicherungsbedingungen für die Unfallversicherung (AUVB 2006 idF 7/2012) zugrunde liegen. Diese lauten auszugsweise:
+„G. Was versteht man unter „Dauernder Invalidität“? Wie wird der Invaliditätsgrad gemessen?
+1. Dauernde Invalidität liegt vor, wenn die versicherte Person durch den Unfall auf Lebenszeit in ihrer körperlichen oder geistigen Leistungsfähigkeit beeinträchtigt ist. Der Eintritt dauernder Invalidität ist notwendige Voraussetzung für Zahlungen aus den Leistungsarten Unfallkapital, Zusatzkapital und Unfallrente [...]
+2. Die dauernde Invalidität muss
+- innerhalb eines Jahres nach dem Unfall eingetreten sein und
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Gegenstand des Revisionsverfahrens ist nur mehr die Frage der Leistungspflicht der Beklagten für eine (weitere) 10%ige dauernde Invalidität wegen aufgrund der durch den Unfall vom 6. 3. 2014 verursachten Kopfschmerzen.
+[3] 		2.1 Nach Art G.1 iVm Art G.2 AUVB ist Voraussetzung für die Versicherungsleistung, dass die versicherte Person durch den Unfall auf Dauer in ihrer körperlichen oder geistigen Leistungsfähigkeit beeinträchtigt ist und diese Invalidität innerhalb eines Jahres nach dem Unfall eingetreten ist.
+[4] 		2.2 „Dauernde Invalidität“ ist der gänzlich oder teilweise Verlust von Körperteilen oder Organen und/oder die Einschränkung der körperlichen, organischen oder geistigen Funktionsfähigkeit (7 Ob 301/03w). Eine dauernde Invalidität liegt vor, wenn sie objektiv vorhanden („eingetreten“) ist. Nicht entscheidend ist nach den Versicherungsbedingungen, dass sie der Versicherungsnehmer auch innerhalb der Frist eines Jahres erkannt haben muss. Eine dauernde Invalidität kann auch schon eingetreten sein, ohne dass sie der Betroffene als solche erkennt (vgl RS0109450).
+[5] 		2.3 Dauerinvalidität in der Unfallversicherung erfordert, dass die Invalidität auf Lebensdauer feststeht, oder nach dem ärztlichen Wissensstand zur Zeit der Beurteilung und der Erfahrung des Arztes die Prognose besteht, dass mit hoher Wahrscheinlichkeit zu erwarten ist, dass die Invalidität lebenslang andauern wird (RS0122988). Nur wenn sich innerhalb eines Jahres nach dem Unfall diese Prognose ergibt, ist die erste Voraussetzung für eine allfällige Leistungspflicht des Versicherers erfüllt. Ändert sich die Prognose erst zu einem späteren Zeitpunkt in Richtung Dauerinvalidität, dann besteht kein Anspruch (7 Ob 185/07t, 7 Ob 191/15m). Die Bestimmung, der Versicherer habe die vereinbarte Leistung zu erbringen, falls sich innerhalb eines Jahres vom Unfallstag an ergibt, dass eine dauernde Invalidität zurückbleibt, ist ein Risikoausschluss in dem Sinn, dass der Versicherer leistungsfrei ist, wenn sich die dauernde Invalidität erst nach Ablauf dieses einen Jahres ergibt (RS0080040 [T4], 7 Ob 191/15m).
+[6] 		3.1 Soweit die Klägerin meint, die Beklagte habe erstmals in ihrer Berufung – sieben Jahre nach Klagseinbringung – den Einwand des Risikoausschlusses gemäß Art G.2 AUVB erhoben, ist dem entgegenzuhalten: Dieser Risikoausschluss war bereits Gegenstand der Aufhebungsbeschlüsse des Berufungsgerichts vom 27. 11. 2019 (erster Rechtsgang) und vom 8. 7. 2020 (zweiter Rechtsgang), mit denen dem Erstgericht die Verbreiterung der Sachverhaltsgrundlage dahin aufgetragen wurden, ob infolge der Kopfschmerzen innerhalb der einjährigen Frist des Art G.2 AUVB eine dauernde Invalidität eingetreten und bejahendenfalls welcher Invaliditätsgrad vorgelegen ist.
+[7] 		3.2 Im dritten Rechtsgang beurteilte das Berufungsgericht den nunmehr entsprechend ergänzten Sachverhalt dahin, dass die Kopfschmerzen der Klägerin zwar eine dauernde Invalidität bewirkten, diese aber nicht innerhalb der Jahresfrist des Art G.2 AUVB eingetreten sei. Die Kopfschmerzen seien nämlich erstmals mit Gutachten vom Juli 2021 als dauernde Invalidität bewertet worden. Davor – bei den Begutachtungen im Jänner 2016 und auch noch im November 2019 – seien die Kopfschmerzen ausdrücklich nicht als dauerhaft festgestellt oder prognostiziert worden. Da sich die dauernde Invalidität damit erst nach Ablauf des Jahres ergeben habe, habe die Beklagte den Risikoausschluss des Art G.2 AUVB und ihre Leistungsfreiheit dargelegt.
+[8] 		3.3 Diese Beurteilung entspricht der bestehenden oberstgerichtlichen Rechtsprechung, wogegen die Klägerin keine stichhaltigen Argumente bringt.
+[9] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00028.23B.0322.000

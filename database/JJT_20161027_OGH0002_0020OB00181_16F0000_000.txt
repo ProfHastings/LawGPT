@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.10.2016
+Geschäftszahl
+2Ob181/16f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden und die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé und den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei W*****-AG, *****, vertreten durch Dr. Bruno Pedevilla, Rechtsanwalt in Lienz, gegen die beklagte Partei T***** V.a.G., *****, vertreten durch Dr. Paul Bauer und Dr. Anton Triendl, Rechtsanwälte in Innsbruck, und der auf Seiten der beklagten Partei beigetretenen Nebenintervenientin U***** AG, *****, vertreten durch Dr. Josef M. Danler, Rechtsanwalt in Innsbruck, wegen 41.098,59 EUR sA und Feststellung (Streitwert 2.500 EUR), über die außerordentliche Revision der beklagten Partei (Revisionsinteresse 41.098,59 EUR) gegen das Teilzwischenurteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 30. Juni 2016, GZ 10 R 35/16x-46, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin begehrt von der Beklagten Regress (§ 11 EKHG), weil die Lenkerin des Beklagtenfahrzeugs beim Vorbeifahren an einem auf ihrer Fahrbahnhälfte abgestellten Fahrzeug das entgegenkommende Klagsfahrzeug behindert und dadurch dessen Vollbremsung ausgelöst habe, was wiederum zu – von der Klägerin ersetzten – Schäden eines dritten Unfallbeteiligten geführt habe. Die Vorinstanzen bejahten mit Zwischenurteil den Grund des (Leistungs-)Anspruchs.
+Rechtliche Beurteilung
+In ihrer außerordentlichen Revision macht die Beklagte geltend, dass die Klägerin weder ein Verschulden der Lenkerin des Beklagtenfahrzeugs noch die Kausalität deren Verhaltens für den eingetretenen Schaden bewiesen habe. Damit zeigt sie allerdings keine erhebliche Rechtsfrage auf. Das Berufungsgericht hat die Frage der Beweislast in beiden Punkten im Einklang mit der Rechtsprechung beurteilt:
+1. Zur schuldhaften Verletzung eines Schutzgesetzes:
+Wird ein Schadenersatzanspruch auf die Verletzung eines Schutzgesetzes gestützt, dann hat der Geschädigte (nur) den Schadenseintritt und die objektive Verletzung des Schutzgesetzes zu beweisen. Demgegenüber hat der Schädiger zu beweisen, dass ihm die objektive Übertretung des Schutzgesetzes nicht als Verhaltensunrecht anzulasten ist (RIS-Justiz RS0112234 [insb T2]; 2 Ob 242/14y mwN).
+Im konkreten Fall ist erwiesen, dass die Lenkerin des Beklagtenfahrzeugs durch das begonnene Vorbeifahren an einem auf ihrer Fahrbahnhälfte abgestellten Fahrzeug das entgegenkommende Klagsfahrzeug behindert und damit objektiv gegen § 17 Abs 1 StVO verstoßen hat. Die Beklagte hätte daher beweisen müssen, dass die Lenkerin daran kein Verschulden traf, weil sie das Klagsfahrzeug bei Beginn des Vorbeifahrens nicht wahrnehmen konnte (vgl 2 Ob 152/11h und 2 Ob 242/14y zur Wahrnehmbarkeit eines bevorrangten Fahrzeugs). Dieser Beweis ist ihr aufgrund der diesbezüglichen Negativfeststellung der Vorinstanzen nicht gelungen. Damit ist von einer schuldhaften Schutzgesetzverletzung auszugehen.
+2. Zur Kausalität der Schutzgesetzverletzung:
+Bei Verletzung eines Schutzgesetzes ist kein strenger Beweis des Kausalzusammenhangs erforderlich (RIS-Justiz RS0027640, RS0027462). Zwar kommt es zu keiner Umkehr der Beweislast, allerdings spricht der Beweis des ersten Anscheins dafür, dass der von der Norm zu verhindernde Schaden durch das verbotene Verhalten verursacht wurde (RIS-Justiz RS0027517; 2 Ob 213/13g mwN). Es obliegt dann dem Beklagten, die Kausalität der Pflichtwidrigkeit – durch Außerkraftsetzung des ihn belastenden Anscheinsbeweises – ernsthaft zweifelhaft zu machen (RIS-Justiz RS0022599, RS0022474 [T1, T5]; zuletzt etwa 2 Ob 213/13g mwN). Ob der Anscheinsbeweis im Einzelfall erbracht werden konnte oder nicht, ist als Frage der Beweiswürdigung nicht revisibel (6 Ob 303/05k mwN; RIS-Justiz RS0040196 [T14; T16 bis T18]; zuletzt etwa 3 Ob 24/16z).
+Im konkreten Fall spricht der erste Anschein dafür, dass das den Gegenverkehr behindernde Fahrmanöver des Beklagtenfahrzeugs die zum Unfall führende Vollbremsung des Klagsfahrzeugs verursacht hatte. Ob es der Beklagten gelang, diesen Anscheinsbeweis zu entkräften, ist eine vom Obersten Gerichtshof nicht zu prüfende Frage der Beweiswürdigung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0020OB00181.16F.1027.000

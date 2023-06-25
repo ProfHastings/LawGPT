@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.02.1948
+Geschäftszahl
+3Ob51/48
+Norm
+ABGB §1116;
+ABGB §1117;
+ABGB §1118;
+Mietengesetz §19 Abs2 Z 3;
+Mietengesetz §19 Abs2 Z4;
+ZPO §560;
+Kopf
+SZ 21/75
+Spruch
+§§ 1116 ABGB., 560 ZPO.: Eine gerichtlich Aufkündigung setzt das Vorliegen eines Bestandverhältnisses voraus. Mangels eines solchen kann sie eine Räumungsklage nicht ersetzen.
+Entscheidung vom 25. Februar 1948, 3 Ob 51/48.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hat die auf die Kündigungsgrunde des § 19, Abs. 2, Z. 3 und 4 MietG. gestützte Aufkündigung des von dem Beklagten untergemieteten Zimmers und des Kabinettes für wirksam erkannt. Es war außer Streit gestellt worden, daß die Beklagten diese Räume nur auf Grund ihrer mittels Fliegerquartierscheines vom Mai 1945 erfolgten Einweisung und nicht auf Grund eines Untermievertrages benützen. Das Erstgericht war der Meinung, daß die Einweisung der Beklagten ungültig sei, weil alle nach dem 19. April 1945 erfolgten Einweisungen nach einem Erlaß des Bürgermeisters der Stadt Wien ihre Gültigkeit verloren hätten, wenn sie nicht nachträglich von der paritätischen Kommission legalisiert worden wären. Da also die Beklagten die Räume ohne Rechtstitel benützten, hätten sie einer Räumungsklage des Klägers weichen müssen. Daß dieser das mildere Mittel der gerichtlichen Aufkündigung gewählt hat, könne ihm aber nicht zum Nachteil gereichen, zumal in jeder Kündigung ein Räumungsbegehren enthalten sei.
+Der gegen dieses Urteil von den Beklagten ergriffenen Berufung gab das Berufungsgericht Folge, indem es die Aufkündigung für unwirksam erkannte. Es zog aus der erwähnten Außerstreitstellung abweichend vom Erstgerichte den Schluß, daß dem Kläger nur eine Räumungsklage gegen die Beklagten, nicht aber eine Aufkündigung zustunde. Eine solche ersetze eine Räumungsklage deswegen nicht, weil Räumungs- und Kündigungsbegehren völlig verschiedener Art seien, was sich schon aus der Verschiedenheit der Rechtsmittelfrist und aus den Exekutionsbeschränkungen ergäbe.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+Der Oberste Gerichtshof verweist auf die zutreffende Begründung des Berufungsgerichtes und fügt dieser nur bei, daß eine Aufkündigung, wie sich aus § 1116 ABGB. und § 560 ZPO. ergibt, immer das Vorhandensein eines Bestandverhältnisses voraussetzt. Wo ein solches nicht vorliegt, kann daher auch nicht gekundigt werden. Die Kündigung kann daher eine Räumungsklage in einem solchen Falle nicht ersetzen. Dem steht nicht entgegen, daß bei einer vorzeitigen Auflösung eines Bestandverhältnisses nach §§ 1117 und 1118 ABGB. der Bestandgeber zwischen einer Aufkündigung und einer Räumungsklage die Wahl hat, denn hier ist die Voraussetzung einer Aufkündigung, das Vorliegen eines Bestandvertrages gegeben. Wo ein solches nicht vorliegt, ist eben nur die Räumungsklage möglich.

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2006
+Geschäftszahl
+4Ob168/06v
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin des Obersten Gerichtshofs Hon. Prof. Dr. Griß als Vorsitzende und durch die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Parteien 1. G***** GmbH, 2. Dr. Manfred B*****, beide vertreten durch Dr. Helmut Destaller und andere Rechtsanwälte in Graz, gegen die beklagte Partei T***** GmbH, *****, vertreten durch Dr. Peter Primus, Rechtsanwalt in Graz, wegen Unterlassung und Veröffentlichung (Streitwert im Sicherungsverfahren 25.000 EUR), über den außerordentlichen Revisionsrekurs der Kläger gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 5. Juli 2006, GZ 6 R 112/06x-14, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Beklagte betreibt ein Fitnesscenter. Sportwissenschaftler führen dort auf Wunsch Laktattests durch, indem sie vor und während einer sich steigernden Belastung acht bis zehn Mal einen Blutstropfen durch einen Stich ins Ohr des Kunden entnehmen und auf einen Messstreifen auftragen. Diesen Messstreifen werten sie mit einem Gerät aus, das auch medizinische Laien zur Selbstdiagnose erwerben können. Die Ergebnisse vergleichen sie mit Werten aus einer Tabelle und ziehen daraus Schlussfolgerungen für eine Trainingsempfehlung. Die Vorinstanzen haben es als vertretbare Rechtsansicht gewertet, dass diese Tätigkeit nicht in den ärztlichen Vorbehaltsbereich fällt, und daher den auf § 1 UWG gestützten Sicherungsantrag der Kläger abgewiesen.
+Rechtliche Beurteilung
+Diese Entscheidung steht im Einklang mit der wettbewerbsrechtlichen
+Rechtsprechung zum ärztlichen Vorbehaltsbereich. Der Senat hat es in
+zwei Entscheidungen als mit guten Gründen vertretbar (RIS-Justiz
+RS0077771) angesehen, dass die Verwendung von Geräten, die der
+Selbstdiagnose dienen und ohne medizinisches Fachwissen bedient
+werden können, nicht in diesen Bereich fällt (4 Ob 170/02g = RdM
+2003, 93 - Venenscreening; 4 Ob 256/02d = ÖBl 2003, 270 = RdM 2004,
+113 - Blutscreening). Das gilt auch dann, wenn die vom Hersteller
+dieser Geräte vorgesehene Abnahme von Blut zur Unterstützung des Probanden von einem Dritten vorgenommen wird (zB von einem Apotheker, 4 Ob 256/02d - Blutscreening).
+Die in der Zulassungsbeschwerde gegen die Auffassung der Vorinstanzen vorgebrachten Argumente können nicht überzeugen.
+Die Messung von Blutwerten mit vollautomatischen Geräten, die auf eine Nutzung durch Laien angelegt sind, kann nicht mit einer wissenschaftlichen Blutanalyse unter Laborbedingungen verglichen werden, für die zudem eine Gewerbeberechtigung erforderlich ist (so schon die Differenzierung in der vom Revisionsrekurs angeführten Entscheidung 4 Ob 17/04k = RdM 2004, 117 - Labordiagnostik). Es mag zwar zutreffen, dass es für die Kunden der Beklagten unpraktisch wäre, die Blutabnahme selbst durchzuführen. Darin liegt aber kein relevanter Unterschied zur Blutscreening-Entscheidung. Denn auch bei einer bloß einmaligen Blutabnahme ohne gleichzeitige körperliche Belastung können Ungeschicklichkeit oder Ängstlichkeit dazu führen, dass die Untersuchung - wie hier - faktisch nur mit Hilfe eines Dritten möglich ist. Mögliche Differenzierungen (etwa zur konkreten Methode der Blutabnahme) sind jedenfalls nicht so zwingend, dass die Vertretbarkeit der Rechtsauffassung verneint werden müsste. Es ist richtig, dass die bei der Beklagten beschäftigten Sportwissenschaftler die Ergebnisse der Laktattests für das Erstellen von Trainingsempfehlungen auswerten. Auch das fällt aber nicht zwingend unter § 2 Abs 2 ÄrzteG. Die dort demonstrativ aufgezählten Tätigkeiten beziehen sich (abgesehen von der Geburtshilfe) in erster Linie auf Krankheiten und ihre Folgen. Es ist daher mit guten Gründen vertretbar, dass das Erstellen von Trainingsempfehlungen für grundsätzlich gesunde Menschen nicht in den Vorbehaltsbereich fällt, und zwar auch dann nicht, wenn diese Tätigkeit auf der Auswertung von Blutwerten oder anderen Indikatoren für die körperliche Leistungsfähigkeit beruht.

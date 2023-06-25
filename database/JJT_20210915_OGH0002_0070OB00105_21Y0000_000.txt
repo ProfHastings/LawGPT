@@ -1,0 +1,46 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.09.2021
+Geschäftszahl
+7Ob105/21y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Stefula und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei T***** P*****, vertreten durch die Weinrauch Rechtsanwälte GmbH in Wien, gegen die beklagte Partei E*****-AG, *****, vertreten durch Dr. Franz Schöberl, Rechtsanwalt in Wien, wegen 58.776,30 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. März 2021, GZ 4 R 169/20g-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger hat mit der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem unter anderem die Allgemeinen Unfallversicherungsbedingungen der Beklagten (AUVB 2012) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 7 – Welche Leistungen können bei dauernder Invalidität versichert werden?
+1. Dauernde Invalidität mit Kapitalleistung
+[…]
+1.3. Wie wird der Invaliditätsgrad bemessen?
+[...]
+1.3.1. Bei völligem Verlust oder völliger Funktionsunfähigkeit der nachstehenden genannten Körperteile und Sinnesorgane gelten ausschließlich die folgenden Invaliditätsgrade:
+[…]
+der Sehkraft eines Auges…………………… 50 %
+[…]
+1.3.3. […] Waren betroffene Körperteile oder Sinnesorgane oder deren Funktionen bereits vor dem Unfall dauernd beeinträchtigt, wird der Invaliditätsgrad um die Vorinvalidität gemindert. (Sachliche Begrenzung des Versicherungsschutzes, siehe Art. 19 Pkt. 2). [...]
+[...]
+3. Unfall-Invaliditäts-Rente mit Berufsunfähigkeitsschutz
+[...]
+3.4. Welche Leistungskürzung erfolgt bei einer bestehenden Vorinvalidität [...]
+Bei einer bestehenden Vorinvalidität wird der Invaliditätsgrad um die Vorinvalidität gemindert (siehe Art. 19 Pkt. 2). […]
+[…]
+Artikel 19 – Welche sachlichen Begrenzungen gibt es?
+Sachliche Begrenzung des Versicherungsschutzes
+1. Eine Versicherungsleistung wird nur für die durch den eingetretenen Unfall hervorgerufenen Folgen (körperliche Schädigung oder Tod) erbracht.
+2. Waren vom Unfall betroffene Körperteile oder Sinnesorgane oder deren Funktion bereits vor dem Unfall dauernd beeinträchtigt, wird der Invaliditätsgrad um die Vorinvalidität gemindert.
+Die Vorinvalidität wird nach Art. 7 Pkt. 1.3. bemessen. [...]“
+Rechtliche Beurteilung
+[2] 		1.1. Nach ständiger Rechtsprechung ist im Bereich der privaten Unfallversicherung grundsätzlich jeder Unfall mit seinen konkreten Folgen getrennt zu beurteilen und abzurechnen. Ob die Vorinvalidität auch bereits auf einem leistungspflichtigen Unfall beruhte oder auf einer sonstigen Krankheit, ist unerheblich. Ein neuer Unfall ist jeweils ein neuer Versicherungsfall in der Unfallversicherung und ist als solcher zu entschädigen (RS0121647).
+[3] 		Nach Art 7.1.3.3. und 7.3.4. iVm Art 19.2. AUVB 2012 wird, wenn durch einen Unfall ein Körperteil oder Sinnesorgan oder deren Funktion betroffen wird, die schon vorher dauernd beeinträchtigt waren, der Invaliditätsgrad um diese Vorinvalidität gemindert. Es ist daher zunächst die Gesamtinvalidität festzustellen, von ihr der Grad der Vorinvalidität abzuziehen und von den verbleibenden Invaliditätsgraden die Leistung zu errechnen (zu den AUB 99: RS0123988 = 7 Ob 120/08k; zu den AUVB 2003: 7 Ob 92/07s).
+[4] 		Wird der zweite Folgeschaden, der zu einem neuen selbständigen Versicherungsfall führt, ausschließlich durch das zweite Trauma „überlagert“ und wäre daher auch ohne Vorschädigung so entstanden, so kann allerdings von einer Anspruchskürzung bedingenden Betroffenheit des in Frage stehenden Körperteils oder dessen Funktion durch die bereits vor dem Unfall gegebene (anderweitige) dauernde Beeinträchtigung und damit Vorinvalidität im Sinne der AUVB nicht ausgegangen werden. Vorschäden in einer nicht betroffenen Funktion haben daher auch unberücksichtigt zu bleiben (RS0121647 [T2] = 7 Ob 92/07s zum inhaltsgleichen Art 18 AUVB 2003; 7 Ob 42/11v zum inhaltsgleichen Art 18 AUVB 1995).
+[5] 		1.2. Der Kläger erlitt im Jahr 1993 einen Unfall, bei dem ihm mit einer Luftdruckpistole in das linke Auge geschossen wurde. Seitdem hatte er eine verminderte Sehkraft am linken Auge. Am 8. Mai 2017 schnellte ein Seil, das während des Rasenmähens abgetrennt wurde, dem Kläger in das linke Auge. Dieser Unfall führte dazu, dass das linke Auge funktionell blind ist. Der Invaliditätsgrad bestimmt sich nicht nach dem Ausmaß der Schädigung selbst, sondern nach deren Auswirkungen auf die körperliche Funktionsfähigkeit. Bei den Augen bildet die Beeinträchtigung deren Funktionsfähigkeit den relevanten Invaliditätsgrad (7 Ob 133/20i). Es geht damit um die Beeinträchtigung der Sehkraft.
+[6] 		1.3. Das Vorbringen des Klägers, es seien beim nunmehrigen Unfall und beim Vorunfall unterschiedliche anatomische und funktionelle Bereiche des Auges verletzt worden, verstößt gegen des Neuerungsverbot und ist schon deshalb unbeachtlich.
+[7] 		2. Die Beurteilung der Vorinstanzen, dass die Vorinvalidität des Klägers die bereits die Sehkraft des linken Auges herabsetzte, bei der Bemessung der Versicherungsleistung zu berücksichtigen ist, hält sich im Rahmen der Judikatur und ist daher nicht zu beanstanden.
+[8] 		3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00105.21Y.0915.000

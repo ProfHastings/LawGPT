@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+8ObS4/16w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden und durch die Hofrätinnen Dr. Tarmann-Prentner und Dr. Weixelbraun-Mohr sowie die fachkundigen Laienrichter Mag. Dr. Rolf Gleißner und Wolfgang Cadilek als weitere Richter in der Sozialrechtssache der klagenden Partei F*****, vertreten durch Dr. Walter Reichholf, Rechtsanwalt in Wien, gegen die beklagte Partei IEF-Service GmbH, Geschäftsstelle Wien, 1150 Wien, Linke Wienzeile 246, vertreten durch die Finanzprokuratur, 1011 Wien, Singerstraße 17-19, wegen Insolvenz-Entgelt (3.296 EUR netto), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 17. Dezember 2015, GZ 9 Rs 63/15y-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+Nach § 3a Abs 1 Satz 3 IESG sind nicht ausgeglichene Zeitguthaben nur dann gesichert, wenn die abzugeltenden Arbeitsstunden in den in § 3a Abs 1 Satz 1 genannten Zeiträumen geleistet wurden und wenn das Zeitguthaben im Sicherungszeitraum in eine fällige Geldforderung (rück-)umgewandelt wurde (8 ObS 4/14t = RIS-Justiz RS0129469; 8 ObS 7/07y = RS0122693).
+Die Voraussetzung, dass die nicht ausgeglichenen Arbeitsstunden im Sicherungszeitraum geleistet wurden, ist im Anlassfall unstrittig nicht erfüllt; das vom Kläger geltend gemachte Guthaben betrifft sämtliche Arbeitsstunden, die vor dem Sicherungszeitraum geleistet wurden.
+Der Revisionswerber beruft sich auf § 19f Abs 2 und Abs 3 AZG (idF BGBl I 2007/61), wonach der Arbeitnehmer eine Umwandlung seines nicht verbrauchten Zeitguthabens in eine Geldforderung mangels einer entsprechenden Einigung letztlich erst mehr als sechs Monate nach Erbringung seiner (zusätzlichen) Arbeitsstunden verlangen könne. Daraus leitet er die Notwendigkeit ab, entgegen dem Wortlaut des Gesetzes § 3a Abs 1 Satz 2 IESG auch auf Zeitausgleichguthaben anzuwenden, sodass auch ältere, vor dem Sicherungszeitraum geleistete Zeitausgleichguthaben gesichert seien, sofern sie binnen sechs Monaten ab Entstehen eingeklagt wurden. Dieses Verständnis des Gesetzes steht nicht nur mit dem eindeutigen Wortlaut des Gesetzes und der dazu ergangenen, oben wiedergegebenen Rechtsprechung in Widerspruch sondern auch mit dem auf den Zeitraum der Arbeitsverrichtung abstellenden Zweck der Begrenzung der Sicherung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:008OBS00004.16W.0427.000

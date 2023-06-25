@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.12.2022
+Geschäftszahl
+2Ob229/22y
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofrätin Dr. Hofer-Zeni-Rennhofer und die Hofräte Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Verlassenschaftssache nach dem am * 2017 verstorbenen H*, über den außerordentlichen Revisionsrekurs des Mag. H*, vertreten durch Mag. Werner Purr, Rechtsanwalt in Graz, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 28. September 2022, GZ 4 R 100/22p-102, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Erblasser hinterlässt seine Ehegattin sowie einen Sohn und eine Tochter. Mit wechselseitigem Testament vom * 2003 setzten der Erblasser und seine Ehegattin einander als Universalerben des gesamten Vermögens ein (Punkt II.). Punkt III. dieses Testaments lautet:
+„Der Zweitversterbende von uns beiden Ehegatten [...] und zwar ich, [...] und ich, [...] setzen unseren Sohn […] zu unserem Universalerben ein.
+Unser Sohn hat somit das gesamte Vermögen zu erhalten, das der Zweitversterbende hinterlässt.”
+[2] 		Die Vorinstanzen erblickten in dieser Anordnung – von der Erbin unbekämpft – eine Nacherbschaft auf den Überrest (§ 609 ABGB idFd ErbRÄG 2015) zu Gunsten des Sohnes und nahmen eine entsprechende Beschränkung in den Einantwortungsbeschluss, mit dem die Verlassenschaft der Witwe aufgrund des Testaments zur Gänze eingeantwortet wurde, auf.
+Rechtliche Beurteilung
+[3] 		Der außerordentliche Revisionsrekurs des Sohnes, mit dem er eine Abänderung im Sinne einer Einantwortung mit der Beschränkung der „vollen“ Nacherbschaft anstrebt, ist mangels Aufzeigens einer Rechtsfrage der Qualität des § 62 Abs 1 AußStrG nicht zulässig.
+[4] 		1. Zwar kann eine vom Rekursgericht verneinte Gehörverletzung auch noch im Revisionsrekurs geltend gemacht werden (RS0121265 [insbes T4]). Mit der Behauptung, das Erstgericht hätte im Rahmen der durchgeführten Tagsatzung seine ihm nach § 182 ZPO iVm § 14 AußStrG obliegende Erörterungspflicht verletzt, wird aber kein Gehörverstoß, sondern ein Verfahrensmangel (RS0037095; RS0048529) erster Instanz geltend gemacht. Dieser im Rekurs nicht gerügte Verfahrensverstoß kann im Revisionsrekurs aber nicht mehr geltend gemacht werden (RS0043111 [insbes T20, T26]; RS0074223 [insbes T7, T8]).
+[5] 		Den im Rekurs mit der unterbliebenen Einvernahme des Revisionsrekurswerbers begründeten Verfahrensmangel hat das Rekursgericht verneint, sodass auch insoweit eine Geltendmachung im Revisionsrekursverfahren ausscheidet (RS0050037).
+[6] 		2. Der Auslegung letztwilliger Erklärungen kommt in der Regel keine über den Einzelfall hinausgehende Bedeutung zu (RS0042555 [T12, T21, T24]). Eine erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG läge daher nur dann vor, wenn dem Rekursgericht eine krasse Fehlbeurteilung unterlaufen wäre (RS0042555 [T6, T11, T17]).
+[7] 		3. Nach der Rechtsprechung liegt in der Klausel eines von Ehegatten errichteten wechselseitigen Testaments, nach dem Ableben des zweitversterbenden Eheteils habe das in dessen Hand befindliche gesamte Vermögen den gemeinsamen Kindern zuzufallen, eine Nacherbschaft auf den Überrest (RS0012532). Wenn die Vorinstanzen auch obige Testamentsklausel als Nacherbschaft (bloß) auf den Überrest zu Gunsten des Sohnes verstanden haben, stellt dies daher keine aufzugreifende Fehlbeurteilung dar.
+[8] 		Auch der Hinweis auf Punkt IV. des Testaments, in dem die letztwillig Verfügenden festhalten, davon auszugehen, dass auch der Sohn ein Haus (errichtet auf einer im jeweiligen Hälfteeigentum der Verfügenden stehenden Liegenschaft) erhält, vermag kein unvertretbares Auslegungsergebnis im Zusammenhang mit der Annahme einer Nacherbschaft bloß auf den Überrest aufzuzeigen. Vielmehr steht die Passage (nur) im Zusammenhang mit der in diesem Punkt enthaltenen Anordnung, die Tochter aufgrund der Anrechnung diverser Vorempfänge auf den Pflichtteil zu setzen, und dem Wunsch, dass nach dem Tod des erstverstorbenen Elternteils keine Pflichtteilsansprüche gestellt werden. Eine – ohnehin nur die Verlassenschaft nach dem ersten Erblasser und daher nur dessen Liegenschaftshälfteanteil betreffende – Verfügungsbeschränkung des Überlebenden zu dessen Lebzeiten (RS0012535; RS0012549 [Vorerbe als Fruchtnießer]) oder ein uneigentliches Nachlegat in Bezug auf das auf der Liegenschaft errichtete Haus ist daraus nicht abzuleiten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00229.22Y.1213.000

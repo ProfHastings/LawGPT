@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2022
+Geschäftszahl
+8Ob48/22z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Schuldenregulierungssache des Schuldners R* R*, vertreten durch Dr. Sabine C. M. Deutsch, Rechtsanwältin in Riegersburg, über den „außerordentlichen“ Revisionsrekurs des Schuldners gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 9. Februar 2022, GZ 4 R 19/22a-220, mit dem der Beschluss des Bezirksgerichts Feldbach vom 24. Dezember 2021, GZ 15 S 36/20k-183, hinsichtlich Spruchpunkt I. bestätigt und hinsichtlich Spruchpunkt II. der Rekurs des Schuldners zurückgewiesen wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der „außerordentliche“ Revisionsrekurs wird hinsichtlich Spruchpunkt I.2. der angefochtenen Entscheidung als jedenfalls unzulässig, im Übrigen mangels erheblicher Rechtsfrage zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Schuldner brachte in der vorliegenden Schuldenregulierungssache am 21. 12. 2021 jeweils einen Schriftsatz ein, mit dem er jeweils zu Punkt I. einen Rekurs erhob, zu Punkt II. beantragte, dem Rekurs aufschiebende Wirkung zuzuerkennen, und zu Punkt III. einen auf Abberaumung aller anberaumten Tagsatzungen gerichteten Antrag stellte (ON 179 und ON 180).
+[2] 		Das Erstgericht fasste den Beschluss auf Abweisung der Anträge auf Zuerkennung der aufschiebenden Wirkung (Spruchpunkt I.) sowie auch der Abberaumungsanträge (Spruchpunkt II.).
+[3] 		Das Rekursgericht gab dem Rekurs des Schuldners in Hinsicht auf Spruchpunkt I. nicht Folge (Spruchpunkt I.2. der rekursgerichtlichen Entscheidung) und wies den Rekurs des Schuldners gegen den Spruchpunkt II. zurück (Spruchpunkt I.1. der rekursgerichtlichen Entscheidung). Letzteres begründete es damit, dass die Anberaumung einer Tagsatzung nicht abgesondert anfechtbar sei.
+[4] 		Das Rekursgericht sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und der ordentliche Revisionsrekurs gegen seinen Spruchpunkt I.1. nicht zulässig und gegen seinen Spruchpunkt I.2. jedenfalls unzulässig sei.
+[5] 		Gegen diese Entscheidung richtet sich der mit 7. 3. 2022 datierte „außerordentliche“ Revisionsrekurs des Schuldners.
+Rechtliche Beurteilung
+[6] 		1. Die Anfechtungsbeschränkungen des § 528 ZPO gelten auch im Insolvenzverfahren (RS0044101 [T15]). Der Revisionsrekurs gegen einen die erstgerichtliche Entscheidung voll bestätigenden rekursgerichtlichen Beschluss ist folglich nach § 528 Abs 2 Z 2 ZPO (iVm § 252 IO) ausgeschlossen (RS0044101). Dieser absolute Rechtsmittelausschluss geht der weiteren Zulässigkeitsvoraussetzung nach § 528 Abs 1 ZPO vor und verhindert jede Anfechtung des Konformatsbeschlusses des Rekursgerichts (RS0112314 [T5]). In der Konstellation des nach § 528 Abs 2 „jedenfalls“ unzulässigen Rechtsmittels kommt auch ein „außerordentliches“ Rechtsmittel nicht in Betracht (RS0112314 [T22]).
+[7] 		Entgegen dem scheinbar eindeutigen Wortlaut von § 528 Abs 2 Z 2 ZPO schließt eine bloße Teilbestätigung die Anwendung der Konformatsperre nicht jedenfalls aus. Wurden mehrere Anträge überprüft, von denen jeder ein eigenes rechtliches Schicksal haben kann, ist die Anrufbarkeit des Obersten Gerichtshofs nach § 528 ZPO für jeden Gegenstand gesondert zu beurteilen (3 Ob 202/16a [Punkt 1.]; RS0044238 [T15]; Musger in Fasching/Konecny, Zivilprozessgesetze3 IV/1 § 528 ZPO Rz 48).
+[8] 		Jeder der Anträge, über die das Erstgericht entschied, kann ein eigenes Schicksal haben. Soweit das Rekursgericht die erstgerichtliche Abweisung jener Anträge bestätigte, liegt somit keine anfechtbare rekursgerichtliche Entscheidung, sondern vielmehr eine Konformatsentscheidung vor und war das Rechtsmittel daher als jedenfalls unzulässig zurückzuweisen.
+[9] 		2. Hinsichtlich der Zurückweisung des Rekurses mangels gesonderter Anfechtbarkeit des betreffenden Punktes des erstgerichtlichen Beschlusses wird im Revisionsrekurs nichts ausgeführt. Weil demnach auch keine erhebliche Rechtsfrage im Sinne des § 528 Abs 1 ZPO aufgezeigt wird, ist der Revisionsrekurs auch insofern zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00048.22Z.0422.000

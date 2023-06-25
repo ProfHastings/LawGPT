@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.11.1948
+Geschäftszahl
+2Ob159/48
+Norm
+Mietengesetz §1;
+Mietengesetz §19 Abs1;
+Mietengesetz §19 Abs2 Z3;
+Mietengesetz §19 Abs2 Z4;
+Mietengesetz §19 Abs2 Z5;
+Mietengesetz §22;
+Kopf
+SZ 21/163
+Spruch
+Teilkündigung unter Beschränkung auf einen unter Mieterschutz stehenden Hausgarten ist zulässig.
+Entscheidung vom 26. November 1948, 2 Ob 159/48.
+I. Instanz: Bezirksgericht Feldkirch; II. Instanz: Landesgericht Feldkirch.
+Text
+Der Beklagte hat eine Wohnung samt Nebenräumen und die 796 m2 große Hausbundt (Gp. 384), jedoch ausschließlich des Obstnutzens, den sich der Kläger vorbehalten hat, gemietet.
+Das Erstgericht hat die auf § 19, Abs. 1 und 2, Z. 3, 4, 5 MietG. gestützte Kündigung aufgehoben, weil es keinen der angeführten Kündigungsgrunde für gegeben und das Eventualbegehren auf Teilkündigung der Hausbundt für unzulässig erachtete.
+Das Berufungsgericht erkannte die Kündigung hinsichtlich der Hausbundt für zulässig.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen des Berufungsgerichtes:
+Was die Annahme des dringenden Eigenbedarfes betrifft, so ist dieser beim Kläger zweifellos gegeben, aber das Erstgericht hat ohne Rechtsirrtum bei der Abwägung der beiderseitigen Interessen festgestellt, daß diese zugunsten des Beklagten ausfällt, weil er sonst mit seiner großen Familie obdachlos würde. Dies betrifft aber nicht die Hausbundt, welche für die Benützung der Wohnung aus dem Gesichtspunkte der Obdachlosigkeit nicht unentbehrlich ist. Es ist festgestellt, daß der Kläger seine übrigen Grundstücke seit vielen Jahren verpachtet hat, daß er derzeit zu seiner eigenen Verfügung (er hat Frau und zwei Kinder im Alter von vier und sechs Jahren) kein anderes Grundstück hat und daß er ein solches zum Anbau von Kartoffeln und Gemüse für den eigenen Bedarf dringend braucht, während der Beklagte außerdem (neben anderen Grundstücken) 20 a Acker gepachtet hat, so daß für ihn das Hausgrundstück entbehrlich ist. Welches seiner Grundstücke der Kläger bei Eigenbedarf in Anspruch nehmen will, steht in seinem Ermessen; überdies muß angenommen werden, daß er die seit Jahren verpachteten anderen Grundstücke wegen des noch bestehenden Pächterschutzes gar nicht freibekommen würde.
+Es ergibt sich also die Frage, ob hinsichtlich der Hausbundt eine Teilkündigung rechtlich zulässig ist. Teilkündigungen sind nach der ständigen Rechtsprechung (SZ. VIII/238) auch bei anderen als den im § 22 MietG. ausdrücklich genannten Kündigungsgrunden zulässig, wenn dies aus der Absicht des Gesetzes begrundet erscheint. § 1, Abs. 1 MietG. unterscheidet die Miete von 1. Wohnungen oder Wohnungsbestandteilen samt mitgemieteten Grundstücken, 2. Geschäftsräumlichkeiten aller Art (wozu auch Lagerplätze gehören),
+3. Übungsplätzen des Bundesheeres. Daraus ergibt sich, daß mitgemietete Grundstücke wie Wohnungen zu behandeln sind, so daß schon darnach der Eigenbedarf nach § 19, Abs. 2, Z. 5 MietG. sich auf solche Grundstücke erstrecken kann. Aus der Fassung des § 22, Abs. 1 MietG. darf also nicht geschlossen werden, daß mitgemietete Grundstücke nicht Gegenstand einer Teilkündigung sein können. Absatz 5 diese Paragraphen schafft darüber hinaus für mitgemietete Grundstücke, die nicht unter Mieterschutz stehen, eine besondere Möglichkeit der Teilkündigung, die nicht Eigenbedarf zur Voraussetzung hat; er will aber nicht jede andere Möglichkeit einer Teilkündigung ausschließen. Mitgemietete Grundstücke, die unter Mieterschutz oder auch nur unter Kündigungsschutz nach der Verordnung vom 5. September 1939, DRGBl. I S. 1671 stehen, sind wie andere Nebenbestandteile einer Wohnung zu behandeln und können daher wie solche Gegenstand einer Teilkündigung sein.
+Aus diesen Gründen hat das Berufungsgericht die Entscheidung abgeändert und der Teilkündigung hinsichtlich der Hausbundt Folge gegeben.
+Der Oberste Gerichtshof bestätigte diese Entscheidung.
+Entscheidungsgründe des Obersten Gerichtshofes:
+Die Einwendungen der Revision, der mitgemietete Stadel könne ohne Hausbundt nicht mehr zweckentsprechend verwendet werden, wurde vor dem Erstgericht nicht erhoben, obwohl der Kläger schon in der ersten Verhandlung am 4. Dezember 1947 das Eventualbegehren gestellt hatte, die Kündigung zumindest hinsichtlich der Hausbundt als rechtswirksam zu erklären. Abgesehen hievon kann eine Teilkündigung nach § 22, Abs. 1 MietG. auch dann ausgesprochen werden, wenn der restliche Teil des Mietgegenstandes ohne unverhältnismäßige Schwierigkeiten abgesondert benutzbar gemacht werden kann, was im gegebenen Fall nach der Sachlage offenkundig ohne weiteres möglich ist. Die in der Revision vertretene Ansicht, die Teilkündigung rücksichtlich eines mitgemieteten Hausgartens - unter Aufrechterhaltung des Bestandverhältnisses hinsichtlich der Wohnung - sei nur dann zulässig, wenn das Grundstück nicht unter Mieterschutz steht, ist rechtirrig. Die Bestimmung des § 22, Abs. 5 MietG. kann nur dann richtig verstanden werden, wenn man sich vor Augen hält, daß der den Hausgarten betreffende Schlußsatz dieses Absatzes erst durch die Novelle des Jahres 1929 hinzugefügt wurde, mit welcher zugleich bestimmt wurde, daß Hausgärten und sonstige Grundstücke mit einer Grundfläche von mehr als 120 m2 von den Bestimmungen des Mietengesetzes ausgenommen sind. Für diese nunmehr (1929) nicht mehr unter Mietenschutz stehenden Hausgärten und Grundstücke wurde der Absatz 5 des § 22 MietG. entsprechend ergänzt. Damit ist aber keineswegs angesprochen, daß eine Kündigung nicht auf den unter Mieterschutz stehenden Hausgarten beschränkt werden könnte.
+Den dringenden Eigenbedarf des Klägers nach dem Hausgarten und das Überwiegen der Interessen des Klägers im Sinne des § 19, Abs. 2, Z. 5 MietG. hat das Berufungsgericht aus den von ihm angenommenen, im Revisionsverfahren nicht anfechtbaren tatsächlichen Verhältnissen ohne Rechtsirrtum bejaht.
+Von einer unrichtigen rechtlichen Beurteilung der Sache durch das Berufungsgericht kann daher keine Rede sein, weshalb der Revision nicht Folge gegeben wurde.

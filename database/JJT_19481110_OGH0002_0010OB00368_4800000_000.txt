@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.11.1948
+Geschäftszahl
+1Ob368/48
+Norm
+ABGB §923;
+EO §39 Abs1 Z8;
+EO §299;
+Kopf
+SZ 21/154
+Spruch
+Gewährleistungsansprüche können erst dann gepfändet werden, wenn der Eviktionsanspruch gegen den Verpflichteten erfolgreich geltend gemacht worden ist.
+Entscheidung vom 10. November 1948, 1 Ob 368/48.
+I. Instanz: Bezirksgericht Urfahr; II. Instanz: Landesgericht Linz - Nord.
+Text
+Die von der ersten Instanz bewilligte Exekution wurde von den beiden oberen Instanzen abgewiesen.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Die betreibende Gläubigerin beantragt Pfändung des Rückgriffanspruches der Verpflichteten, der diesen für den Fall gegen die Verkäuferin eines Grundstückes zusteht, wenn der gegen die Verpflichteten von einem Dritten eingeleitete Rückstellungsstreit, betreffend diese Liegenschaft zuungunsten der Verpflichteten entschieden werden sollte. Die erste Instanz gab dem Exekutionsantrag statt, die zweite wies ihn ab, weil die Exekution auf künftige Rechte, deren Existenz derzeit noch ungewiß sei und für dessen Wirksamkeit derzeit noch die Voraussetzungen fehlen, unzulässig sei.
+Der Revisionsrekurs der betreibenden Gläubigerin bekämpft die Auffassung des Rekursgerichtes, daß es sich vorliegend um künftige Ansprüche handle, weil der Rückgriffsanspruch der Verpflichteten mit Rücksicht auf die ex-tunc-Wirkung der Entscheidung im Rückstellungsverfahren bereits derzeit als ein bestehender Anspruch anzusehen sei.
+Diese Auffassung ist rechtsirrig. Nach § 923 ABGB. ist erst dann Gewähr zu leisten, "wenn das Widerspiel hervorkommt". Daher haftet der Veräußerer einer fremden Sache nicht schon dann, wenn der Eviktionsanspruch gegen den Erwerber gerichtlich geltend gemacht wird (Entscheidung des Obersten Gerichtshofes vom 14. November 1877, GlU. 6651), sondern erst von dem Augenblick an, da er zur Herausgabe verurteilt wird oder sie freiwillig ohne Prozeß herausgibt. Erst in diesem Zeitpunkt wird der Gewährleistungsanspruch existent; vorher besteht nur eine tatsächliche Möglichkeit, daß ein Rückgriffanspruch zur Entstehung gelangen wird.
+Künftige Ansprüche sind aber nur dann pfändbar, wenn bereits derzeit eine Möglichkeit besteht, sich aus ihnen zu befriedigen. Dies folgt aus der Erwägung, daß nach österreichischem Recht, von dem Fall der zwangsweisen Begründung eines Pfandrechtes an einer Liegenschaft abgesehen, Exekutionen nichtzzu den Zwecke bewilligt werden können, um dem betreibenden Gläubiger eine Sicherung zu gewähren - diesem Zwecke dienen die Exekution zur Sicherstellung und die einstweilige Verfügung -, sondern nur zu dem Zwecke, dem Gläubiger die Möglichkeit zu bieten, sich aus dem Exekutionsobjekt zu befriedigen. Exekutionen, die kein Ergebnis bringen können, sind nach dem Gedanken des § 39, Z. 8 EO. als zwecklos gar nicht zu bewilligen (Entscheidung des Obersten Gerichtshofes vom 28. April 1936, Rspr. 1936, Nr. 142).
+Aus § 299 EO. kann nun wohl gefolgert werden, daß auch künftige Forderungen von der Exekution nicht ausgeschlossen sind (Entscheidung des Obersten Gerichtshofes vom 28. April 1936, Rspr. 1936, Nr. 142, und vom 30. November 1937, RZtg. 1938, S. 66), immer aber ist vorausgesetzt, daß bereits derzeit mindestens eine laufende Befriedigung möglich ist.
+Das ist aber bei zukünftig entstehenden Gewährleistungsansprüchen nicht der Fall, weil das Existentwerden des Rückgriffanspruches der verpflichteten Partei davon abhängig ist, daß das Rückstellungsverfahren zu Ende geführt und die verpflichtete Partei sachfällig wird. Ein solcher eventuell entstehender Gewährleistungsanspruch hat daher derzeit überhaupt keinen realisierbaren Wert und ist demnach auch nicht der Exekution unterworfen. Daß ein solcher künftiger Anspruch derzeit bereits an dritte Personen im Wege eines Rechtsgeschäftes übetragen werden kann, macht ihn nicht pfändbar, weil unveräußerliche Sachen zwar unpfändbar sind, aber nicht umgekehrt jede unpfändbare Sache deswegen schon dem Verkehr entzogen ist.
+Es konnte daher dem Revisionsrekurs keine Folge gegeben werden.

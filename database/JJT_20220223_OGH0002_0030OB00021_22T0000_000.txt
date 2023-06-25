@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2022
+Geschäftszahl
+3Ob21/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei L*, vertreten durch Mag. Gottfried Forsthuber, Rechtsanwalt in Baden, gegen die beklagte Partei M* OG, *, vertreten durch Mag. Jörg Hemmer, Rechtsanwalt in Wien, und ihre Nebenintervenientin J* Rechtsanwalt GmbH, *, wegen 102.346,29 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 11. November 2021, GZ 13 R 160/21a-106, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 879 Abs 2 Z 4 ABGB sind Verträge nichtig, wenn jemand den Leichtsinn, die Zwangslage, Verstandesschwäche, Unerfahrenheit oder Gemütsaufregung eines anderen dadurch ausbeutet, dass er sich oder einem Dritten für eine Leistung eine Gegenleistung versprechen oder gewähren lässt, deren Vermögenswert zu dem Wert der Leistung in auffallendem Missverhältnis steht. Das Gesetz missbilligt so die Ausbeutung eines Vertragspartners durch auffallende objektive Äquivalenzstörung der beiderseitigen Hauptleistungen in Fällen der gestörten Freiheit der Willensbildung (3 Ob 62/20v mwN). Die Rechtsfolge der Unwirksamkeit eines Vertrags wegen Wuchers iSd § 879 Abs 2 Z 4 ABGB setzt a) das auffallende Missverhältnis zwischen Leistung und Gegenleistung, b) die mangelnde Möglichkeit der Wahrung der Äquivalenz durch den Bewucherten wegen Leichtsinns, Zwangslage, Verstandesschwäche, Unerfahrenheit oder Gemütsaufregung sowie c) die Ausnützung der Lage des Bewucherten durch den Wucherer voraus (vgl RS0016864, RS0016861). Wenn nur eine dieser Voraussetzungen fehlt, liegt kein wucherisches Geschäft vor (4 Ob 76/17f = RS0016864 [T7]).
+[2] 		2. Die Klägerin zieht in dritter Instanz nicht mehr in Zweifel, dass der im von ihr wegen Wuchers angefochtenen Kaufvertrag vereinbarte Kaufpreis (rund 80 % des Verkehrswerts) nicht in einem auffallenden Missverhältnis zum Wert der veräußerten Liegenschaft steht.
+[3] 		3. Es trifft zwar zu, dass nach der Rechtsprechung ein Geschäft mangels Vorliegens aller drei Tatbestandsmerkmale des § 879 Abs 2 Z 4 EO nach § 879 Abs 1 ABGB nichtig sein kann, wenn ein dem fehlenden Tatbestandsmerkmal gleichwertiges, den individuellen Fall prägendes, besonderes zusätzliches Element der Sittenwidrigkeit hinzukommt (vgl RS0016864 [T3]). Die Klägerin hat allerdings kein Vorbringen erstattet, aus dem sich ein solches zusätzliches (also über das Vorbringen, das geeignet wäre, den Wuchertatbestand zu erfüllen, hinausgehendes) Element der Sittenwidrigkeit ableiten ließe.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00021.22T.0223.000

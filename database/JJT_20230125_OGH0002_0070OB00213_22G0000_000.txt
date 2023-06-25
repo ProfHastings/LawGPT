@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2023
+Geschäftszahl
+7Ob213/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei Mag. C* W*, vertreten durch Mag. Markus Gunacker, Rechtsanwalt in Wien, gegen die beklagte Partei W* AG *, vertreten durch Mag. Dr. Otto Ranzenhofer, Rechtsanwalt in Wien, wegen 52.449 EUR sA und Feststellung, über die außerordentlichen Revisionen beider Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Oktober 2022, GZ 4 R 61/22b-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentlichen Revisionen werden gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der mittlerweile verstorbene Ehemann der Klägerin erwarb von der Rechtsvorgängerin des beklagten Versicherers unter Einschaltung einer Versicherungsvermittlerin ein Versicherungsprodukt, bei dem es sich um eine Kombination aus einem Lebens- und Rentenversicherungsvertrag mit zwei eigenständigen Polizzen handelte. Für den Fall seines Ablebens legte der Versicherungsnehmer zunächst fest, dass die Klägerin sowie seine Tochter je zur Hälfte bezugsberechtigt seien. Nach Auftreten von Differenzen mit seiner Tochter veranlasste er im Jahr 2013 über die Versicherungsvermittlerin eine Änderung der Bezugsberechtigung auf die Klägerin allein. Nach seinem Ableben zahlte die Beklagte die gesamte Versicherungssumme aus der Rentenversicherung an die Klägerin aus, jene aus der Lebensversicherung allerdings nur zur Hälfte, weil ihr zu dieser keine (schriftliche) Änderung der Bezugsberechtigung zugekommen sei.
+[2] 		Die von der Klägerin einerseits und der Tochter andererseits beanspruchte Versicherungssumme von 52.449 EUR erlegte die Beklagte daraufhin nach § 1425 ABGB bei einem Bezirksgericht.
+[3] 		Das Berufungsgericht gab dem Zahlungsbegehren der Klägerin über 52.449 EUR sA statt, wies jedoch das Feststellungsbegehren ab. Es erklärte die ordentliche Revision für nicht zulässig.
+Rechtliche Beurteilung
+[4] 		Beide Parteien zeigen in ihren außerordentlichen Revisionen keine erheblichen Rechtsfragen im Sinn des § 502 Abs 1 ZPO auf.
+I. Zur Revision der Beklagten:
+[5] 		1.1. Das Auftreten mehrerer Forderungsprätendenten allein berechtigt den Schuldner noch nicht zum gerichtlichen Erlag nach § 1425 ABGB, wenn die konkurrierenden Ansprüche offenkundig unbegründet sind und dies für den Schuldner, insbesondere wenn er rechtskundig ist, leicht erkennbar ist (RS0033644). Ein gerichtlicher Erlag ohne zureichenden Hinterlegungsgrund befreit den Schuldner nicht (RS0033890). Zudem ist der Schuldner, der sich selbst in die Lage der Unklarheit gebracht hat, zur Hinterlegung nicht berechtigt (RS0043237).
+[6] 		1.2. Nach den Feststellungen geriet die vom Versicherungsnehmer ausgefüllte schriftliche Anzeige der Änderung des Bezugsrechts in der Sphäre der Beklagten in Verstoß. Die Beklagte bestreitet nicht, dass sie sich die Handlungen und Unterlassungen der von ihr eingesetzten Versicherungsmittlerin und deren Angestellten zuzurechnen hat, ist doch nach § 45 Abs 1 Z 2 VersVG die Versicherungsmittlerin bevollmächtigt, sonstige das Versicherungsverhältnis betreffende Erklärungen vom Versicherungsnehmer entgegenzunehmen.
+[7] 		Die Beurteilung des Berufungsgerichts, dass sich die Beklagte selbst in die Situation gebracht habe, die vom Versicherungsnehmer auch für den Lebensversicherungsvertrag bestimmte und ausgefüllte Bezugsänderungserklärung (zugunsten der Klägerin) nicht mehr auffinden zu können, sie damit den Grund für den dadurch entstandenen Prätendentenstreit in ihrer Sphäre gesetzt habe und ausgehend davon der Erlag der streitgegenständlichen Versicherungssumme nach § 1425 ABGB aus dem Lebensversicherungsvertrag nicht schuldbefreiend gewesen sei, ist nicht zu beanstanden. Die Beklagte vermag keine Gründe für eine schuldbefreiende Hinterlegung des klagsgegenständlichen Betrags aufzuzeigen.
+[8] 		2. Bei verschuldeter Nichterfüllung richtet sich die Ersatzpflicht nach den allgemeinen Regeln des Schadenersatzes, weshalb dem Schuldner gemäß § 1298 ABGB der Beweis obliegt, an der Erfüllung der vertragsmäßigen Verbindlichkeit ohne sein Verschulden verhindert gewesen zu sein (RS0018309).
+[9] 		Die Klägerin macht einen Schadenersatzanspruch aufgrund eines behaupteten vertragswidrigen Verhaltens der Beklagten geltend. Diese hat ihr Bezugsrecht schuldhaft vereitelt (§ 1298 ABGB) und sich damit schadenersatzpflichtig gemacht. Im österreichischen Recht gilt der Grundsatz des Primats der Naturalrestitution (§ 1323 Satz 1 ABGB). In der Entscheidung des Berufungsgerichts ist kein Abweichen von der Rechtsprechung des Obersten Gerichtshofs zu erblicken (vgl 6 Ob 155/14h).
+II. Zur Revision der Klägerin:
+[10] 		3. Wird die Feststellung der Haftung für künftige Schäden begehrt, so ist in der Klage aufzuzeigen, welcher Art die möglichen Schäden sein können (RS0038949 [T7]).
+[11] 		4. Die Klägerin begründete ihr Feststellungsbegehren, die Beklagte sei schuldig, ihr für sämtliche zukünftigen Schäden aus der nicht erfolgten Änderung der Bezugsberechtigung Ersatz zu leisten, erstinstanzlich damit, dass sie im Hinblick auf die erfolgte Hinterlegung mit möglichen Prozesskosten konfrontiert werden könnte. Zuletzt erklärte sie, dass derzeit völlig ungewiss sei, ob über die hinterlegte Summe ein Prozess (zwischen ihr und der Tochter) geführt werde.
+[12] 		Die Beurteilung des Berufungsgerichts, dass das Feststellungsbegehren schon deshalb nicht berechtigt sei, weil der Klägerin die behaupteten Schäden nicht drohten, weil sie kein Verfahren gegen ihre Tochter führen müsse, ist im konkreten Einzelfall aufgrund des erstinstanzlichen Vorbringens der Klägerin nicht korrekturbedürftig. Wenn sie sich – wie erstmals im Berufungsverfahren – auf weitere Gründe für die Berechtigung ihres Feststellungsbegehrens stützt, verstößt dieses Vorbringen gegen das Neuerungsverbot (§ 482 Abs 1, § 504 Abs 2 ZPO).
+[13] 		5. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00213.22G.0125.000

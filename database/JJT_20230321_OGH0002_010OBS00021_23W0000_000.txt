@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2023
+Geschäftszahl
+10ObS21/23w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat Mag. Ziegelbauer als Vorsitzenden, die Hofrätin Dr. Faber und den Hofrat Mag. Schober sowie die fachkundigen Laienrichter Prof. Franz Neuhauser (aus dem Kreis der Arbeitgeber) und Alfred Iser (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei R*, vertreten durch Mag. Dr. Johannes Reisinger, Rechtsanwalt in Mureck, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Invaliditätspension, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. Jänner 2023, GZ 7 Rs 4/23x-25, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Gegenstand des Revisionsverfahrens ist ausschließlich die Frage, ob die Klägerin im Rahmen des § 255 Abs 3 ASVG auf den allgemeinen oder nur noch auf einen regionalen Arbeitsmarkt verwiesen werden kann.
+[2] 		Nach ständiger Rechtsprechung wird ein Versicherter wegen einer Gehbehinderung solange nicht vom allgemeinen Arbeitsmarkt ausgeschlossen, als er ohne wesentliche Einschränkung ein öffentliches Verkehrsmittel benützen und die dazu erforderlichen Arbeitswege zurücklegen kann (RS0085049). Dies ist abstrakt und somit unabhängig vom konkreten Wohnort oder von konkret verfügbaren öffentlichen Verkehrsmitteln zu prüfen, weil die versicherte Person sonst durch die Wahl ihres Wohnorts die Voraussetzungen für die Gewährung der Pension beeinflussen könnte (jüngst 10 ObS 126/22k mwN). Sofern nicht medizinische Gründe entgegenstehen, hat der Versicherte durch entsprechende Wahl seines Wohnorts, allenfalls Wochenpendeln, die Bedingungen für die Erreichung des Arbeitsplatzes herzustellen, die für Arbeitnehmer im Allgemeinen gegeben sind (RS0085017; RS0084939; RS0084871 [T4]; 10 ObS 107/22s).
+[3] 		Das Berufungsgericht verneinte eine Einschränkung der Verweisbarkeit der Klägerin auf den regionalen Arbeitsmarkt, weil das medizinische Leistungskalkül der Klägerin eine Wohnsitzverlegung und Wochenpendeln nicht ausschließt.
+[4] 		In der außerordentlichen Revision wird keine Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufgezeigt, weil sie sich mit der Möglichkeit der Wohnsitzverlegung und des Wochenpendelns nicht auseinandersetzt.
+[5] 		Die behauptete Abweichung von der Rechtsprechung des Obersten Gerichtshofs zur Erreichung des Arbeitswegs (vgl RS0085049) liegt nicht vor, weil die Klägerin eine Gehstrecke von einem Kilometer in 20 Minuten bewältigen kann. Diese Feststellung bezieht sich allgemein auf die Bewältigung von Wegstrecken, sodass der behauptete rechtliche Feststellungsmangel zum Rückweg von der Arbeit (im Gegensatz zum Anmarschweg zur Arbeitsstätte) nicht vorliegt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:010OBS00021.23W.0321.000

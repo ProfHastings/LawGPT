@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.2022
+Geschäftszahl
+4Ob44/21f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi sowie MMag. Matzka und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei G* d.o.o., *, Serbien, vertreten durch die Schönherr Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. G* GmbH, *, 2. S* D*, 3. G* d.o.o., *, Serbien, und 4. M* GmbH, *, alle vertreten durch MMag. Ewald Lichtenberger und andere Rechtsanwälte in Wien, wegen Unterlassung, Beseitigung, Rechnungslegung und Zahlung sowie Urteilsveröffentlichung, hier: wegen Erlassung einer einstweiligen Verfügung (Streitwert im Sicherungsverfahren 43.200 EUR), infolge Revisionsrekurses der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 28. Jänner 2021, GZ 30 R 244/20b-26, mit dem der Beschluss des Handelsgerichts Wien vom 28. September 2020, GZ 53 Cg 26/20z-20, teils bestätigt und teils abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Das „Ersuchen um Klarstellung an das Vorlagegericht“ des Gerichtshofs der Europäischen Union zu GZ C-423/21-Nr 21, ist wie folgt zu beantworten:
+„1.1. Die Klägerin stellt in ihrem Vorbringen auf das Ergebnis ab, dass die Programme nach ihren Behauptungen (und den Feststellungen des Erstgerichts) von einem „Testkäufer“ im Zeitraum 30. 4. bis 15. 6. 2020 auch ohne Verwendung eines VPN-Tunnels nicht abgedunkelt abgerufen werden konnten.
+1.2. Die Beklagten hielten dem entgegen, sie hätten sich an die Pflicht zur Verdunkelung gehalten, eine Abrufbarkeit in Österreich könne nur durch einen – von ihnen nicht zu verhindernden – VPN-Tunnel geschehen sein.
+2. Die Feststellung im Provisorialverfahren, wonach die klagsgegenständlichen Sendungen im Zeitraum von 30. 4. 2020 bis 15. 6. 2020 mehrmals über die Plattform der Drittbeklagten in Österreich abgerufen werden konnten, ohne dass ein VPN-Tunnel verwendet wurde, stützt sich vorerst nur auf parate Urkunden (eidesstättige Erklärungen eines von der Klägerin namhaft gemachten Privatdetektivs), insofern nicht jedoch auf die Aufnahme von hierzu von beiden Parteien für das Hauptbegehren angebotenen weiteren Beweisen (zB die unmittelbare Vernehmung von Zeugen).
+Hierzu und zu den Behauptungen der Beklagten wird daher in der Verhandlung zum deckungsgleichen Hauptbegehren des Ausgangsverfahrens Beweis aufzunehmen und zu entscheiden sein. Es ist daher absehbar, dass beide im Ersuchen um Klarstellung angesprochenen Aspekte im weiteren Verlauf des Ausgangsverfahrens relevant sein werden.
+3. Die vom Obersten Gerichtshof an den Europäischen Gerichtshof gestellte Frage I. wird daher dahin präzisiert, dass am Ende des vorletzten Gedankenstrichs statt des Worts 'jedoch' das Wort 'oder' zu stehen hat.
+Die Frage I. hat daher insgesamt zu lauten wie folgt:
+'Ist der Begriff der ''öffentlichen Wiedergabe'' in Art 3 Abs 1 Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft (ABl L 167, S 10) dahin auszulegen, dass diese vom (hier nicht in der Union ansässigen) unmittelbaren Betreiber einer Streamingplattform vorgenommen wird, der
+– allein über den Inhalt und die Abdunkelung von von ihm verbreiteten TV-Sendungen entscheidet und diese technisch durchführt,
+– die alleinigen Administratorenrechte für die Streamingplattform hat,
+– Einfluss darauf nehmen kann, welche TV-Programme vom Endnutzer über den Dienst empfangen werden können, jedoch ohne Einfluss auf den Inhalt der Programme nehmen zu können,
+– und alleiniger Kontrollpunkt dafür ist, welche Programme und Inhalte wann auf welchen Territorien zu sehen sind,
+wenn dabei jeweils
+– dem Nutzer Zugriff nicht nur auf Sendungsinhalte vermittelt wird, deren Online-Nutzung die jeweiligen Rechtsinhaber erlaubt haben, sondern auch auf solche geschützte Inhalte, bei denen eine entsprechende Rechteklärung unterblieben ist, und
+– der unmittelbare Betreiber der Streamingplattform weiß, dass sein Dienst auch den Empfang von geschützten Sendungsinhalten ohne Zustimmung der Rechteinhaber ermöglicht, indem die Endkunden VPN-Dienste verwenden, die suggerieren, die IP-Adresse und Gerät der Endkunden befinde sich in Gebieten, für die eine Zustimmung des Rechteinhabers vorliegt, oder
+– der Empfang von geschützten Sendungsinhalten über die Streamingplattform ohne Zustimmung der Rechteinhaber auch ohne VPN-Tunnelung für mehrere Wochen tatsächlich möglich war?'“
+Rechtliche Beurteilung
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00044.21F.0627.001

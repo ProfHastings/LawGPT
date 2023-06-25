@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2021
+Geschäftszahl
+7Ob77/21f
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich,  MMag. Matzka und MMag. Sloboda als weitere Richter in der außerstreitigen Rechtssache des Antragstellers Dr. A***** G*****, vertreten durch Grünbart-Lison Rechtsanwälte GmbH in Ried im Innkreis, wegen Überprüfung der Zulässigkeit freiheitsbeschränkender Maßnahmen nach dem Epidemiegesetz, über den Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts Ried im Innkreis als Rekursgericht vom 26. Mai 2020, GZ 6 R 40/20d-5, womit der Beschluss des Bezirksgerichts Ried im Innkreis vom 24. April 2020, GZ 5 Ub 1/20x-2, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Das Revisionsrekursverfahren wird von Amts wegen fortgesetzt.
+2. Dem Revisionsrekurs wird nicht Folge gegeben.
+Text
+Begründung:
+[1] 		Mit Bescheid der Bezirkshauptmannschaft Ried im Innkreis vom 1. 4. 2020 wurde dem Antragsteller aufgetragen, bis einschließlich 11. 4. 2020 unter größtmöglicher Vermeidung von Kontakten mit anderen Personen in seiner Wohnung zu verbleiben. Der Antragsteller sei aufgrund eines Kontakts zu einer SARS-CoV-2 infizierten Person als „Kontaktperson mit Hoch-Risiko-Exposition“ einzustufen. Es sei zwar noch kein Nachweis des Virus erfolgt, dennoch sei aufgrund der Risikobeurteilung im Zusammenhang mit dem Kontakt zu einer infizierten Person ein Auftreten der Infektion innerhalb der Inkubationszeit von 14 Tagen nicht auszuschließen. Wegen der Möglichkeit einer Weiterverbreitung der Krankheitskeime sei im Interesse des öffentlichen Wohls der Bescheid als unaufschiebbare Maßnahme gemäß § 57 Abs 1 AVG ohne vorangegangenes Ermittlungsverfahren zu erlassen.
+[2] 		Mit Antrag vom 21. 4. 2020 begehrte der Antragsteller gemäß § 7 Abs 1a Epidemiegesetz iVm dem zweiten Abschnitt des Tuberkulosegesetzes (insbesondere §§ 14 ff Tuberkulosegesetz) die Überprüfung der Zulässigkeit der Freiheitsbeschränkung und den Ausspruch, dass die häusliche Absonderung des Antragstellers gemäß dem angeführten Bescheid der Bezirkshauptmannschaft Ried im Innkreis unzulässig, jedenfalls unverhältnismäßig gewesen sei.
+[3] 		Das Erstgericht wies den Antrag zurück. Im Epidemiegesetz (in der Folge: EpiG) und TuberkuloseG sei eine nachträgliche Überprüfungsmöglichkeit der Zulässigkeit der Freiheitsbeschränkung nicht vorgesehen.
+[4] 		Das Rekursgericht bestätigte diese Entscheidung. Sowohl das EpiG als auch das TuberkuloseG enthielten keine Bestimmungen, die die nachträgliche Überprüfung der Zulässigkeit freiheitsbeschränkender Maßnahmen ermöglichten.
+[5] 		Das Rekursgericht ließ den ordentlichen Revisionsrekurs zu.
+[6] 		Dagegen richtet sich der Revisionsrekurs des Antragstellers mit dem Antrag, dem Erstgericht die Fortsetzung des Verfahrens unter Abstandnahme vom gebrauchten Zurückweisungsgrund aufzutragen; hilfsweise in der Sache selbst die Unzulässigkeit der Anhaltung festzustellen.
+Rechtliche Beurteilung
+[7] 		Der Revisionsrekurs ist zulässig, er ist aber nicht berechtigt.
+[8] 		Da der Oberste Gerichtshof Bedenken gegen die Verfassungskonformität des § 7 Abs 1a Satz 2 EpidemieG idF BGBl I 2016/63, wonach die angehaltene Person bei dem Bezirksgericht, in dessen Sprengel der Anhaltungsort liegt, die Überprüfung der Zulässigkeit und Aufhebung der Freiheitsbeschränkung nach Maßgabe des zweiten Abschnitts des TuberkuloseG beantragen könne, hegte, wurde mit Beschluss vom 2. November 2020, AZ 7 Ob 139/20x, ein entsprechender Gesetzesprüfungsantrag an den Verfassungsgerichtshof gestellt.
+[9] 		Mit Erkenntnis vom 10. März 2021, G 380/2020 ua, hat der Verfassungsgerichtshof § 7 Abs 1a zweiter Satz EpiG idF BGBl I 2016/63 wegen Verstoßes gegen das Bestimmtheitsgebot des Art 18 Abs 1 iVm Art 83 Abs 2 B-VG als verfassungswidrig aufgehoben und ausgesprochen, dass frühere gesetzliche Bestimmungen nicht wieder in Kraft treten.
+[10] 		Nach Zustellung dieses Erkenntnisses des Verfassungsgerichtshofs war das unterbrochene Revisionsrekursverfahren von Amts wegen fortzusetzen.
+[11] 		In der vorliegenden Außerstreitsache, der die Anlasswirkung zugute kommt, führt die Aufhebung von § 7 Abs 1a zweiter Satz EpiG idF BGBl I 2016/63 zur sachlichen Unzuständigkeit des angerufenen Bezirksgerichts für die vorliegende Antragstellung zur Überprüfung einer Freiheitsbeschränkung nach dem Epidemiegesetz. Die Zurückweisung des Antrags durch die Vorinstanzen war damit im Ergebnis zutreffend.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00077.21F.0428.000

@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.06.2014
+Geschäftszahl
+4Ob93/14a
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin Dr. Schenk als Vorsitzende und die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Partei B***** T*****, vertreten durch Dr. Romuald Artmann, Rechtsanwalt in Klosterneuburg, gegen die beklagte Partei M***** G*****, vertreten durch Angerer-Harreiter Rechtsanwälte OG in Bad Aussee, wegen Wiederaufnahme des Verfahrens 3 Cg 124/10t des Landesgerichts für Zivilrechtssachen Wien (Streitwert 56.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 28. März 2014, GZ 12 R 203/13f-10, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin bringt vor, sie habe schon während des Verfahrens, dessen Wiederaufnahme sie beantragt, gewusst, dass eine bestimmte Zeugin „über den Gegenstand des Verfahrens vermutlich irgendetwas aussagen“ könne. Damals sei diese Zeugin aber noch in einem Naheverhältnis zum Beklagten gestanden, weswegen die Klägerin nicht mit einer für sie günstigen Aussage rechnen konnte. Daher sei sie nicht verpflichtet gewesen, mit der Zeugin Kontakt aufzunehmen und deren Einvernahme zu beantragen. Nach Ende des Naheverhältnisses habe ihr die Zeugin mitgeteilt, dass sie Wahrnehmungen gemacht habe, die den Standpunkt der Klägerin stützten. Damit sei die Zeugin ein neues Beweismittel iSv § 530 Abs 1 Z 7 ZPO.
+Das Erstgericht wies die Wiederaufnahmeklage zurück. Das Rekursgericht bestätigte diese Entscheidung, weil sich aus dem Vorbringen der Klägerin ein Verschulden iSv § 530 Abs 2 ZPO ergebe.
+Rechtliche Beurteilung
+Diese Auffassung ist durch die Rechtsprechung des Obersten Gerichtshofs gedeckt. Ein Verschulden iSv § 530 Abs 2 ZPO liegt insbesondere dann vor, wenn eine Partei bereitstehende Beweismittel nicht anbietet, obwohl deren Bedeutung ohne weiteres erkennbar war (RIS-Justiz RS0106894; 6 Ob 84/09k); bereits benützbare Beweismittel dürfen nicht einem Wiederaufnahmeverfahren vorbehalten werden (RIS-Justiz RS0117483). Daher ist eine Wiederaufnahmeklage ausgeschlossen, wenn die Partei das Beweismittel bei Anwendung ordnungsgemäßer Aufmerksamkeit schon im Vorverfahren hätte finden können (RIS-Justiz RS0044533 [T12]); dazu zählt auch die Ermittlung eines möglichen Zeugen (RIS-Justiz RS0044533 [T7]). Die Annahme, ein bestimmter Zeuge würde wegen eines Naheverhältnisses zur anderen Partei keine für den Beweisführer günstige Aussage machen, rechtfertigt das Unterbleiben eines Beweisantrags im Regelfall nicht, weil einem Zeugen nicht ohne konkrete Anhaltspunkte die Bereitschaft zu einer gerichtlich strafbaren falschen Aussage unterstellt werden darf. Mit einer nachträglich erkannten Fehleinschätzung des Beweiswerts der unterbliebenen Zeugenaussage lässt sich eine Wiederaufnahme nach § 530 Abs 1 Z 7 ZPO daher nicht erfolgreich begründen (6 Ob 84/09k; RIS-Justiz RS0117483 [T2]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0040OB00093.14A.0624.000

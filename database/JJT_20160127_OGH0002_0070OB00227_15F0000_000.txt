@@ -1,0 +1,57 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2016
+Geschäftszahl
+7Ob227/15f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei S***** Gesellschaft mbH, *****, vertreten durch Dr. Annemarie Stipanitz-Schreiner und andere, Rechtsanwälte in Graz, gegen die beklagte Partei A***** Versicherungs-AG, *****, vertreten durch Dr. Nikolaus Friedl, Rechtsanwalt in Wien, wegen 16.300 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. September 2015, GZ 2 R 99/15s-19, womit das Urteil des Handelsgerichts Wien vom 26. April 2015, GZ 11 Cg 28/14a-15, bestätigt wurde, zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.049,04 EUR (darin enthalten 174,84 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Die Klägerin betreibt ein Möbelhaus. Sie hat beim beklagten Versicherer eine Leitungswasserversicherung abgeschlossen, der die Allgemeinen Bedingungen für die Leitungswasserversicherung (AWB 1998) und die Besondere Bedingung Nr. 9560 S***** & H***** - Waren und Vorräte in Räumen unter Erdniveau (in der Folge: Bes.Bed. 9560) zugrunde liegen.
+Art 1 und 2 AWB 1998 lauten auszugsweise:
+„Artikel 1
+Versicherte Gefahren und Schäden
+1. Versichert sind Schäden, die
+1.1 durch die unmittelbare Einwirkung von Leitungswasser eintreten, das aus wasserführenden Rohrleitungen, Armaturen oder angeschlossenen Einrichtungen austritt (Schadenereignis).
+1.2 als unvermeidliche Folge dieses Schadenereignisses eintreten.
+...
+Artikel 2
+Nicht versicherte Schäden
+Nicht versichert sind, auch nicht als unvermeidliche Folge eines Schadenereignisses:
+…
+12. Schäden an unter Erdniveau befindlichen Waren, die nicht mindestens 12 cm über dem Fußboden lagern;
+...“
+Die Bes.Bed. 9560 lautet:
+„Es gelten folgende Ergänzungen bzw. Erweiterungen zu den Allgemeinen Bedingungen für die Leitungswasserversicherung (AWB) 1998:
+Im Rahmen der Versicherungssumme für Betriebseinrichtung und/oder Waren, Vorräte gelten mitversichert:
+Waren, Vorräte unter Erdniveau
+Schäden an Waren, Vorräten in Räumen unter Erdniveau gelten mitversichert, sofern sie mindestens 12 cm über dem Fußboden lagern.“
+Aufgrund eines Defekts bei einem Wasserhahn trat im Möbelhaus der Klägerin Wasser aus. Dabei wurden in einem unter Erdniveau gelegenen Ausstellungsraum ihr gehörige Gegenstände beschädigt, die sich nicht mindestens 12 cm über dem Fußboden befanden.
+Die Klägerin begehrte von der Beklagten 16.300 EUR sA an Wertersatz für die beschädigten Gegenstände. Da diese zum Verkauf präsentiert und nicht gelagert worden seien, greife der Risikoausschluss des Art 2.12 AWB 1998 nicht.
+Die Beklagte beantragte die Abweisung der Klage. Die Voraussetzungen des Risikoausschlusses des Art 2.12 AWB 1998 lägen vor, weshalb sie leistungsfrei sei.
+Das Erstgericht wies die Klage ab. Der Risikoausschluss nach Art 2.12 AWB 1998 sei verwirklicht. Dieser sei aus der Sicht eines durchschnittlichen, objektiven Erklärungsempfängers eindeutig dahin zu verstehen, dass sämtliche bewegliche Sachen, die in Souterrainräumen nicht so aufbewahrt werden, dass sie sich 12 cm über dem Fußboden befinden, von der Versicherungsdeckung ausgenommen seien. „Lagern“ sei nicht als „einlagern“ im kaufmännischen Sinn zu verstehen, sondern beschreibe jede Form der Positionierung von beweglichen Sachen. Dies ergebe sich schon daraus, dass die AWB 1998 ganz allgemein für Leitungswasserversicherungen formuliert worden seien. Zudem sei im ersten Halbsatz ganz allgemein von „Schäden an unter Erdniveau befindlichen Waren“ die Rede.
+Das Berufungsgericht bestätigte dieses Urteil. Es verwies ergänzend auf die Bes.Bed. 9560, wonach Schäden an „Waren, Vorräten“ in Räumen unter Erdniveau nur bei entsprechender bodenferner Lagerung mitversichert seien. Auch hier werde nicht zwischen Lager- und Verkaufsware unterschieden.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil höchstgerichtliche Rechtsprechung darüber fehle, ob die Klausel in der Möbelbranche anders auszulegen sei.
+Gegen dieses Urteil richtet sich die Revision der Klägerin mit einem Abänderungsantrag; hilfsweise wird ein Aufhebungsantrag gestellt.
+Die Beklagte beantragt in ihrer Revisionsbeantwortung, die Revision zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zur Klarstellung der Rechtslage zulässig, sie ist aber nicht berechtigt.
+1. Nach Art 1.1 AWB 1998 sind in der Leitungswasserversicherung Sachschäden versichert, die durch die unmittelbare Einwirkung von Leitungswasser eintreten, das aus wasserführenden Rohrleitungen, Armaturen oder angeschlossenen Einrichtungen austritt (vgl RIS-Justiz RS0123409). Art 2 AWB 1998 enthält dazu Risikoausschlüsse. Nach Art 2.12 AWB 1998 sind - auch nicht als unvermeidliche Folge eines Schadenereignisses - Schäden an unter Erdniveau befindlichen Waren, die nicht mindestens 12 cm über dem Fußboden lagern, nicht versichert. Im Revisionsverfahren ist allein die Frage zu klären, ob dieser Risikoausschluss im hier vorliegenden Fall eines Schadeneintritts in einem Möbelhaus auch ausgestellte Gegenstände umfasst.
+2.1. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der §§ 914, 915 ABGB auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RIS-Justiz RS0050063, RS0112256). Bei Unklarheiten findet § 915 ABGB Anwendung. Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RIS-Justiz RS0050063 [T3]).
+Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RIS-Justiz RS0008901).
+Gegenüber der Auslegungsregel des § 915 ABGB kommt den Auslegungsgrundsätzen des § 914 ABGB Anwendungsvorrang zu. Kann mit den Auslegungsregeln des § 914 ABGB das Auslangen gefunden werden, liegt der Fall des § 915 2. Halbsatz ABGB (undeutliche Äußerung) nicht vor (RIS-Justiz RS0017752). Es ist daher zu prüfen, ob sich nach den Auslegungsregeln des § 914 ABGB ein eindeutiger Sinn der Vertragserklärungen ergibt.
+2.2. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahr und für welchen Bedarf versichert sind. Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikoabgrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden. Der Zweck liegt darin, dass ein für den Versicherer nicht überschaubares und kalkulierbares Teilrisiko ausgenommen und eine sichere Kalkulation der Prämie ermöglicht werden soll. Mit dem Risikoausschluss begrenzt also der Versicherer von vornherein den Versicherungsschutz, ein bestimmter Gefahrenumstand wird von Anfang an von der versicherten Gefahr ausgenommen (RIS-Justiz RS0080166 [T10]). Als Ausnahmetatbestände, die die vom Versicherer übernommene Gefahr einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert. Den Beweis für das Vorliegen eines Risikoausschlusses als Ausnahmetatbestand hat der Versicherer zu führen (RIS-Justiz RS0107031).
+3. Die Revisionswerberin strebt eine Berücksichtigung des Verwendungszwecks der Waren an, wenn sie zu ihren Gunsten eine Differenzierung zwischen „gelagerten“ und „ausgestellten“ Waren reklamiert. Dieser Rechtsansicht ist nicht zu folgen.
+3.1. In diesem Zusammenhang haben bereits die Vorinstanzen zutreffend darauf verwiesen, dass der einleitende Wortlaut des Art 2.12 AWB 1998, wonach der Schadenseintritt an unter dem Erdniveau befindlichen Waren ausgeschlossen wird, nicht zwischen verschiedenen Formen der Aufbewahrung unterscheidet. Beschrieben wird damit jede Form der Positionierung von Waren; eine Einschränkung auf „eingelagerte“ Waren im kaufmännischen Sinn ist dem gerade nicht zu entnehmen. Das Wort „lagern“ kommt erst im Beisatz vor; dieser befasst sich jedoch allein mit der örtlichen Situierung der Waren in Souterrainräumen, weshalb schon dieser Umstand dafür spricht, dass das Wort „lagern“ ganz allgemein im Sinn von „aufgestellt/positioniert“ zu verstehen ist.
+3.2. Weiters ist der offenkundig mit dieser Klausel verfolgte Zweck zu berücksichtigen, die höhere Schadensneigung im Rahmen einer Leitungswasserversicherung bei in tiefer gelegenen Gebäudeteilen situierten Waren zu reduzieren, sammelt sich doch Wasser grundsätzlich dem Gesetz der Schwerkraft folgend in den unteren Bereichen an. Diese Gefahr ist vom Grund für die Aufbewahrung unabhängig. Auch dies spricht dafür, dass mit der Verwendung des Begriffs „lagern“ im Beisatz nur der Umstand der Aufstellung (in einer bestimmten Höhe), nicht jedoch die Einschränkung auf den Verwendungszweck der „Einlagerung“ angesprochen wird.
+3.3. Damit in Einklang unterscheidet die Bes.Bed. Nr. 9560 nicht zwischen Lagerware („Vorräte“) und anderen Warenbeständen, worunter auch Ausstellungsstücke fallen. Hier wird die Mitversicherung einheitlich von einer entsprechenden bodenfernen Lagerung abhängig gemacht.
+3.4. Für ein anderes Auslegungsergebnis für die Möbelbranche bieten die Bedingungen keinen Raum. Die Vorinstanzen haben bereits zutreffend darauf verwiesen, dass es sich bei der Leitungswasserversicherung um kein besonderes Versicherungsprodukt für die Möbelbranche, sondern um eine grundsätzlich für jedermann offenstehende Versicherung handelt. Damit sind branchenspezifische Überlegungen nur dann zu berücksichtigen, wenn sie in die Vertragsgespräche gesondert Eingang gefunden haben; dafür gibt es aber keine Anhaltspunkte.
+3.5. Nach Art 2.12 AWB 1998 sind auch Waren in unter Erdniveau befindlichen Ausstellungsräumen vom Versicherungsschutz ausgenommen, wenn diese nicht mindestens 12 cm über dem Fußbodenniveau aufgestellt sind.
+4. Der Revision ist daher ein Erfolg zu versagen.
+5. Die Kostenentscheidung beruht auf den §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00227.15F.0127.000

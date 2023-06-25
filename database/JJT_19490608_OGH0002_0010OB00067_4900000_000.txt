@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+08.06.1949
+Geschäftszahl
+1Ob67/49
+Norm
+Kündigungsschutz-Ausführungsverordnung vom 5. September 1939, DRGBl. I
+S. 1671 §1;
+Mietengesetz §1;
+Mietengesetz §19;
+Mietengesetz §20;
+Mietengesetz §21;
+Mietengesetz §22;
+Mietengesetz §23;
+Mietengesetz §19 Abs2 Z5;
+Mietengesetz §19 Abs3;
+Kopf
+SZ 22/85
+Spruch
+§ 19 Abs. 3 Satz 1 MietG. ist auf die Aufkündigung von Wohnräumen, die in Neubauten im Sinne des § 1 Abs. 2 Z. 2 MietG. gelegen sind, nicht anwendbar (Nr. 46).
+Entscheidung vom 8. Juni 1949, 1 Ob 67/49.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Die klagende Partei hat das Haus, in dem sich die gekundigte Wohnung befindet, im Jahre 1931 erbaut, nachdem sie das Grundstück, auf dem das Haus steht, im Jahre 1929 durch Kauf erworben hatte.
+Das Erstgericht hat die auf den Kündigungsgrund des Eigenbedarfes nach § 19 Abs. 2 Z. 5 MietG. gestützte Kündigung unter Berufung auf die Vorschrift des § 19 Abs. 3 MietG. aufgehoben, ohne auf den geltend gemachten Kündigungsgrund einzugehen.
+Infolge Berufung der klagenden Partei hat das Berufungsgericht das Urteil des Erstgerichtes aufgehoben und diesem die Fortsetzung der Verhandlung über den geltend gemachten Kündigungsgrund und eine neuerliche Entscheidung nach Rechtskraft des Aufhebungsbeschlusses aufgetragen. Es vertrat die Meinung, daß der § 1 der Verordnung vom 5. September 1939, DRGBl. I S. 1671, die Kündigungsbeschränkungen der §§ 19 bis 23 MietG. auf die im § 1 Abs. 2 Z. 2 MietG. genannten Neubauten nur insofern ausgedehnt habe, als ein Vermieter das Mietverhältnis nur bei Vorliegen von wichtigen Kündigungsgrunden im Sinne des Mietengesetzes mit Erfolg kundigen könne, daß aber durch die zitierte Verordnung das Kündigungsrecht des Vermieters nicht so weit eingeschränkt werden sollte, daß § 19 Abs.3 MietG. nunmehr auch auf Neubauten anzuwenden sei. Den Eigentümern von Neubauten im Sinne des § 1 Abs. 2 Z. 2 MietG. stehe daher auch bei rechtsgeschäftlichem Erwerb nach dem im § 19 Abs. 3 MietG. genannten Zeitpunkt das Kündigungsrecht auf Grund des § 19 Abs. 2 Z. 5 MietG. zu.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Was zunächst die Auslegung der Vorschrift des § 19 Abs. 3 1. Satz MietG. an sich - ohne Rücksicht auf die Verordnung vom 5. September 1939, DRGBl. I S. 1671 - betrifft, so steht der Oberste Gerichtshof in ständiger Rechtsprechung auf dem Standpunkt, daß diese Vorschrift nur dann Anwendung finden kann, wenn das nach dem 31. Juli 1914, bzw. nach dem 31. Dezember 1917 abgeschlossene Rechtsgeschäft das Haus, in dem der Mietgegenstand liegt, und nicht ein unverbautes Grundstück zum Gegenstand hatte, auf dem dieses Haus erst später errichtet wurde (E. v. 7. April 1948, 3 Ob 81/48 (SZ. XXI/86), v. 11. August 1948, 3 Ob 291/48 (JBl. 1948, S. 533) u. a.) Häuser für welche die behördliche Baubewilligung erst nach dem 27. Jänner 1917 erteilt worden war und die später durch ein Rechtsgeschäft unter Lebenden auf einen neuen Eigentümer übergingen, waren vor dem Inkrafttreten der oben angeführten Verordnung auch unter dem neuen Eigentümer gemäß dem § 1 Abs. 2 Z. 2 MietG. vom Anwendungsbereich des Mietengesetzes ausgenommen.
+Da durch § 1 der zitierten Verordnung die Kündigungsbeschränkungen der §§ 19 bis 23 MietG. auch auf Neubauten im Sinne des § 1 Abs. 2 Z. 2 MietG. ausgedehnt wurden, erhob sich nunmehr die Frage, ob der Eigentümer eines derartigen Neubaues, der dieses Haus erst nach dem im § 19 Abs. 3 MietG. angegebenen Stichtag durch Rechtsgeschäft unter Lebenden erworben hatte, ebenfalls von der Möglichkeit der Kündigung wegen dringenden Eigenbedarfes nach § 19 Abs. 2 Z. 5 MietG. gemäß dem § 19 Abs. 3 MietG. ausgeschlossen sei. Auch diese Frage wurde vom Obersten Gerichtshof (E. v. 6. April 1949, 2 Ob 110/49 (Nr. 46)) bereits dahin entschieden, daß § 19 Abs. 3 1. Satz MietG. auf diese Neubauten auch nach der durch die zitierte Verordnung vorgenommenen Ausdehnung des Kündigungsschutzes nicht Anwendung findet, daß daher der Eigentümer eines solchen Neubaues nicht gehindert ist, ein Bestandverhältnis über einen in diesem Neubau gelegenen Wohnraum wegen dringenden Eigenbedarfs gemäß § 19 Abs. 2 Z. 5 MietG. aufzukundigen. Denn die zitierte Verordnung entzog zwar den Eigentümern von Neubauten das ihnen bis dahin zugestandene Recht der freien Kündigung und nötigte auch sie, sich zur Rechtfertigung der Aufkündigung auf wichtige Kündigungsgrunde zu berufen, wollte sie aber den Eigentümern der Althäuser, für welche die behördliche Baubewilligung schon vor dem 27. Jänner 1917 erteilt worden war, nur gleichstellen, nicht aber diesen gegenüber noch weiter benachteiligen. Die in dem angefochtenen Beschluß und auch im Rekurs erwähnte Entscheidung des Obersten Gerichtshofes vom 29. Dezember 1947, 1 Ob 909/47 (JBl. 1948, S. 387), steht mit den oben angeführten Entscheidungen bei genauer Betrachtung nicht im Widerspruch, denn der Oberste Gerichtshof ist in dieser Entscheidung auf die Frage der Zulässigkeit einer Aufkündigung auf Grund des § 19 Abs. 2 Z. 5 MietG. von Bestandobjekten, die in Neubauten im Sinne des § 1 Abs. 2 Z. 2 MietG. gelegen sind, nicht ausdrücklich eingegangen, weil in diesem Rechtsstreit im ersten Rechtsgange eine Behauptung, daß die kundigende Partei das Haus nicht durch Rechtsgeschäft erworben, sondern erst im Jahre 1930 erbaut habe, nicht aufgestellt worden war.

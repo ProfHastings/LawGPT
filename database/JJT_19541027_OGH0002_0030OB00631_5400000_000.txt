@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.10.1954
+Geschäftszahl
+3Ob631/54
+Norm
+ABGB §879 Abs2 Z4;
+ABGB §1392;
+ABGB §1394;
+ABGB §1396;
+Wuchergesetz §7;
+Kopf
+SZ 27/269
+Spruch
+Zum Generalausgleich nach § 7 WucherG. und zur Frage der Weiterhaftung der für die Wucherforderung bestellten Pfänder. Der Zessionar, dem vom bewucherten Zessus die Wuchereinrede mit Recht entgegengesetzt wird, ist zur Geltendmachung der gemäß § 7 WucherG. dem Zedenten zustehenden Rechte befugt. Der Bewucherte kann dem Zessionar, der die wucherische Forderung geltend macht, gemäß § 1396 ABGB. alle Einwendungen entgegenhalten, die er gegen den Zedenten hat, somit auch die Einwendung des Wuchers.
+Entscheidung vom 27. Oktober 1954, 3 Ob 631/54.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Gattin des Klägers ist wegen Vergehens des Wuchers nach § 2 Z. 1 und 3 WucherG. rechtskräftig verurteilt worden, unter anderem auch wegen Weitergabe der wucherischen Forderung im Teilbetrag von 9800 S an den Kläger. Die Gattin des Klägers hat diesem auch einen für die wucherische Forderung verpfändeten Pfandschein des Dorotheums übergeben. Der Kläger begehrt Ersatz der Kosten für das Umsetzen und die Auslösung des Pfandes.
+Das Erstgericht wies das Begehren ab, weil der Kläger seine Forderung nur im Rahmen des im § 7 WucherG. vorgesehenen Generalausgleiches nicht aber abgesondert geltend machen könne.
+Das Berufungsgericht hob dieses Urteil auf.
+Der Oberste Gerichtshof bestätigte den Aufhebungsbeschluß.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Frage, ob das wucherische Geschäft absolut nichtig oder nur relativ unwirksam ist, kann im vorliegenden Fall auf sich beruhen.
+War das wucherische Geschäft bis zu seiner Anfechtung nicht unwirksam, wäre schon aus diesem Gründe die Zession der Forderung rechtswirksam. Freilich könnte der Bewucherte dem Zessionar, der die wucherische Forderung geltend macht, gemäß § 1396 ABGB. alle Einwendungen entgegenhalten, die er gegen den Zedenten hat, also auch die Einwendung des Wuchers. Da das wucherische Geschäft nicht nur im Wege der Klage, sondern auch mittels Einrede angefochten werden kann, liegt in dieser Einwendung die Anfechtung des wucherischen Geschäftes. Gemäß § 1394 ABGB. sind nun die Rechte des Übernehmers mit den Rechten des Überträgers in Rücksicht auf die überlassene Forderung eben dieselben. Wird der geltend gemachten Forderung der Wuchereinwand mit Recht entgegengesetzt, ist der Zessionar auch berechtigt, alle Rechte des Zedenten, welche diesem gemäß § 7 Wuchergesetz zustehen, geltend zu machen. Der Zessionar wäre nicht nur berechtigt, den Kapitalsbetrag samt gesetzliche Zinsen aus dem Titel des § 7 WucherG. geltend zu machen, sondern wäre auch verpflichtet, die übergebene Sache, nämlich den Pfandschein oder die ausgelöste Sache, gegen Ersatz der notwendigen und nützlichen Aufwendungen zurückzustellen. Daraus folgt, daß der Kläger berechtigt wäre, seine notwendigen nützlichen Forderungen vom Beklagten ersetzt zu begehren. Dieser Forderung könnte allerdings der Beklagte alle seine Forderungen, die er aus dem wucherischen Geschäft gemäß § 7 Wuchergesetz zu stellen hat, entgegenhalten.
+War aber das wucherische Geschäft absolut nichtig und damit auch die Zession nichtig, so kann deshalb allein die Stellung des Bewucherten keine ungünstigere sein; sonst könnte sich ein Gesetz, das zum Schutze des Bewucherten geschaffen wurde, für diesen nachteilig auswirken. Ist also der Kläger auf Grund eines verbotenen Geschäftes in den Besitz des Pfandscheines gekommen, ist er jedenfalls auch berechtigt, seine notwendigen und nützlichen Aufwendungen gegen den Beklagten geltend zu machen. Der Beklagte wird aber dieser Forderung, die mit dem wucherischen Geschäft in rechtlichem Zusammenhang steht, seinerseits alle seine Einwendungen die ihm nach § 7 WucherG. gegen den Wucherer zustehen, dem Kläger entgegenstellen können (vgl. Entscheidung des Brünner OG. vom 8. Jänner 1924, Slg. OG. 3367).
+Was die Frage der verbotenen Geschäftsführung anlangt, so haftet gemäß § 7 WucherG. die Sicherstellung für den Mehranspruch des Wucherers. Solange die gegenseitige Verrechnung nicht erfolgt, ist der Kläger auch nicht verpflichtet, die Sicherstellung herauszugeben, weil erst dann feststehen kann, ob er die Pfandsache zur weiteren Sicherstellung behalten darf oder nicht. Es ist deshalb belanglos, ob der Beklagte den Pfandschein bereits früher zurückbegehrte oder nicht. Keinesfalls kann vor der notwendigen Verrechnung von einer verbotenen Geschäftsführung gesprochen werden. Dabei mag es dahingestellt bleiben, ob der Kläger zum Umsetzen und Auslösen des Pfandscheines verpflichtet war oder nicht.

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2008
+Geschäftszahl
+2Ob267/08s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Baumann als Vorsitzenden und die Hofräte Dr. Veith, Dr. Grohmann, Dr. E. Solé und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Friedrich H*****, vertreten durch Mag. Otto Stadler, Rechtsanwalt in Mistelbach, gegen die beklagte Partei Anna G*****, vertreten durch Mag. Markus Adam, Rechtsanwalt in Wien, wegen Einräumung einer Servitut, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Korneuburg als Berufungsgericht vom 28. August 2008, GZ 21 R 219/08s46, mit dem das Urteil des Bezirksgerichts Mistelbach vom 7. März 2008, GZ 9 C 1299/03t42, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Text
+Begründung:
+Der Kläger bewertete das Klagebegehren, das auf Feststellung des Bestehens einer Servitut und Abgabe der Aufsandungserklärung gerichtet ist, mit 5.800 EUR. Die Beklagte bemängelte nach § 7 RATG die Höhe des Streitwerts als zu hoch. Das Erstgericht setzte nach der zwischen den Parteien erzielten Einigung den Streitwert mit 3.500 EUR fest.
+Das Erstgericht gab dem Klagebegehren statt.
+Das Berufungsgericht bestätigte diese Entscheidung; es sprach aus, dass der Wert des Entscheidungsgegenstands 4.000 EUR nicht übersteigt und die Revision jedenfalls unzulässig sei.
+Die Beklagte bekämpft das Urteil des Berufungsgerichts in ihrer „außerordentlichen" Revision mit dem Abänderungsantrag, das Klagebegehren abzuweisen, hilfsweise wird ein Aufhebungsantrag gestellt.
+Rechtliche Beurteilung
+Die Revision ist jedenfalls unzulässig.
+Das Berufungsgericht hat über den Wert des Entscheidungsgegenstands abzusprechen. Es ist dabei nicht an die Bewertung des Klägers gebunden (RISJustiz RS0042617; RS0042410 [T19]). Die vom Berufungsgericht vorgenommene Bewertung ist grundsätzlich unanfechtbar und für den Obersten Gerichtshof bindend, es sei denn, das Berufungsgericht hätte zwingende gesetzliche Bewertungsvorschriften verletzt oder den ihn vom Gesetzgeber eingeräumten Ermessensspielraum überschritten (RISJustiz RS0042515 [T9]; RS0042385 [T15]).
+Eine derartige zwingende Bewertungsvorschrift ist die Bestimmung des § 60 Abs 2 JN. Danach ist bei unbeweglichen Sachen auf den „Steuerwert für die Gebührenbemessung" abzustellen. Die Bewertung hat aufgrund jenes Betrags zu erfolgen, der im Normalfall für die Bemessung der Grunderwerbssteuer maßgeblich ist; das ist nach § 6 GrEStG der dreifache Einheitswert (RISJustiz RS0046526 [T5 und T6]). Die Bestimmung des § 60 Abs 2 JN ist aber nur dann anzuwenden, wenn eine grundsteuerpflichtige unbewegliche Sache streitverfangen ist (RISJustiz RS0046509). Auf den hier vorliegenden Streit um den Bestand einer Servitut und die Einwilligung zu ihrer Einverleibung trifft dies nicht zu (RISJustiz RS0046509 [T4]).
+Ebensowenig liegt der von der Beklagten angenommene Ermessensmissbrauch bei der Bewertung des Entscheidungsgegenstands vor. Die Beklagte verweist auf den durchschnittlichen Quadratmeterpreis von in Niederösterreich gelegenen Baugrundstücken, setzt diesen in Relation zu der von der Servitut betroffenen Fläche im Ausmaß von 99 m2 und kommt zum Ergebnis eines Verkehrswerts dieser Fläche von 10.030,68 EUR. Die Relationen zwischen den Beträgen von 10.030,68, 5.800 und 4.000 EUR sprechen aber nicht dafür, dass das Berufungsgericht in krasser Weise seinen Ermessensspielraum überschritten hat.
+Richtig ist der in der Revision enthaltene Hinweis, dass der Oberste Gerichtshof in der Entscheidung 1 Ob 63/08h = RISJustiz RS0123691 die zu RISJustiz RS0042228 vertretene Judikaturlinie, die eine Zurückweisung von nach § 502 Abs 2 ZPO jedenfalls unzulässigen Revisionen durch das Erstgericht ausschließt, abgelehnt hat. Diese Judikaturdivergenz ist aber im konkreten Fall ohne Bedeutung. Das Erstgericht hat nämlich - anders als in dem zu 1 Ob 63/08h zu beurteilenden Fall - die Revision nicht als unzulässig zurückgewiesen, sondern die Vorlage an den Obersten Gerichtshof verfügt. In dieser Variante beurteilt der Oberste Gerichtshof, ob die Revision sofort als absolut unzulässig zurückzuweisen ist (Zechner in Fasching/Konecny2 § 502 ZPO Rz 177; vgl 2 Ob 189/06t). In einer solchen Konstellation nimmt das Rechtsmittelgericht „devolvierend" die Kompetenz des Erstgerichts wahr (2 Ob 189/06t mit Hinweis auf Zechner aaO § 507 Rz 5 iVm Rz 2).
+European Case Law Identifier
+ECLI:AT:OGH0002:2008:0020OB00267.08S.1217.000

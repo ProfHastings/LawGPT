@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.05.1951
+Geschäftszahl
+2Ob256/51
+Norm
+ABGB §369;
+ABGB §428;
+KO §44 Abs1;
+KO §44 Abs2;
+KO §117;
+Kopf
+SZ 24/138
+Spruch
+Ist eine dem Gemeinschuldner nicht gehörige Sache nach Konkurseröffnung veräußert worden, tritt an die Stelle des Aussonderungsanspruches der Anspruch auf Ersatzaussonderung; das Aussonderungsbegehren ist abzuweisen.
+Entscheidung vom 17. Mai 1951, 2 Ob 256/51.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Kläger begehrte von der Konkursmasse der Firma W. die Herausgabe aller in der Masse vorhandenen Formen, Stanzen und Schnitte; die beanspruchten Fahrnisse waren jedoch mit Zustimmung des Gläubigerausschusses und des Konkursgerichtes der Firma F. entgeltlich überlassen worden. Die Firma F. trat der beklagten Konkursmasse als Nebenintervenientin bei.
+Das Prozeßgericht wies das Klagebegehren ab.
+Das Berufungsgericht bestätigte das erstgerichtliche Urteil und sprach aus, daß der Wert des Streitgegenstandes 10.000 S übersteige.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision spricht zunächst die Ansicht aus, die gegenständliche Aussonderungsklage sei keine Eigentumsklage und könne auf sie § 369 ABGB. nicht angewendet werden. Es werde vielmehr ein obligatorischer Anspruch aus einem Leihvertrag, bzw. einem Prekarium geltend gemacht und sei es gleichgültig, ob die beklagte Partei im Zeitpunkt der Klagserhebung, bzw. im Zeitpunkt des Schlusses der mündlichen Verhandlung noch im Besitze der klagsgegenständlichen Schnitte, Formen und Stanzen war oder nicht. Diese Ausführungen der Revision gehen fehl. Zunächst wird das Klagebegehren ausdrücklich darauf gestützt, daß die gegenständlichen Formen, Schnitte und Stanzen Eigentum des Klägers seien, nicht aber auf ein Vertragsverhältnis, und wurde dieser Klagegrund nie geändert. Aber selbst wenn ein persönliches und nicht ein dingliches Recht auf Aussonderung mit der gegenständlichen Klage geltend gemacht werden würde, wäre gemäß § 44 Abs. 1 KO. Voraussetzung des Aussonderungsanspruches, daß sich die von der Aussonderung erfaßten Sachen in der Konkursmasse befinden. Das wäre also auch gemäß § 6 Abs. 1 und 2 KO. überhaupt die Voraussetzung für die Möglichkeit der Anhängigmachung eines Rechtsstreites nach der Konkurseröffnung. Dem trägt das Klagebegehren auch Rechnung, da ausdrücklich nur die Herausgabe der in der Konkursmasse vorhandenen Formen, Stanzen und Schnitte begehrt wird. Schon nach dieser Fassung des Klagebegehrens ist also die Abweisung des Klagebegehrens berechtigt, wenn keine Formen, Stanzen und Schnitte in der Konkursmasse vorhanden sind, was auf dasselbe hinausläuft wie die Forderung des § 369 ABGB. nach dem Beweise, daß die beklagte Partei die Sachen in ihrer Macht habe. Ist eine dem Gemeinschuldner nicht gehörige Sache nach der Konkurseröffnung veräußert worden, tritt an die Stelle des Aussonderungsanspruches gemäß § 44 Abs. 2 KO. der Anspruch auf Ersatzaussonderung und muß das trotzdem gestellte Aussonderungsbegehren abgewiesen werden.
+Es ist den unteren Instanzen darin beizupflichten, daß die klagsgegenständlichen Stanzen, Formen und Schnitte spätestens am 18. Feber 1948 aus dem Besitze der beklagten Partei in den Besitz des Nebenintervenienten gelangt sind (nachdem die Innehabung schon viel früher übergegangen war), also jedenfalls vor Erhebung der gegenständlichen Klage am 8. März 1948, so daß die Abweisung des Klagebegehrens mangels Vorhandenseins der gegenständlichen Formen, Stanzen und Schnitte in der Konkursmasse zu Recht erfolgt ist. Nach den eingangs erwähnten Feststellungen erfolgte der Besitzübergang am 18. Feber 1948 durch Erklärung (durch Übergabe kurzer Hand oder Besitzauflassung, traditio brevi manu, § 428 ABGB.) nämlich durch Erklärung des Masseverwalters (Beilage 5), - daß der Nebenintervenient, der die Sachen schon innehatte, deren Eigentümer sein solle, - nach vorhergegangener Einigung zwischen der beklagten Partei und dem Nebenintervenienten über den Eigentumsübergang durch Verkauf und nach erfolgter Bezahlung des Kaufpreises. Das Schreiben Beilage 5 genügt zur erweislichen Willensäußerung des Veräußerers (§ 428 ABGB.). Daß der Masseverwalter zu dieser Besitzübertragung (nur auf diese und nicht auf die Eigentumsübertragung kommt es bei Beurteilung der Frage an, ob die beklagte Partei zur Zeit der Klagserhebung die Sachen noch in ihrer Macht hatte, bzw. ob sich damals die Sachen noch in der Konkursmasse befanden) am 18. Feber 1948 befugt war, kann nicht zweifelhaft sein, da er mit Genehmigung des Gläubigerausschusses und mit Genehmigung des Konkurskommissärs vom 11. Feber 1948 (vgl. § 117 KO.) handelte.

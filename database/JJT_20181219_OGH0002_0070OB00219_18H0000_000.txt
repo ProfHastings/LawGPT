@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.12.2018
+Geschäftszahl
+7Ob219/18h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei W***** AG *****, vertreten durch die Schönherr Rechtsanwälte GmbH in Wien, gegen die beklagte Partei M***** L*****, vertreten durch die Shamiyeh & Reiser Rechtsanwälte GmbH in Linz, wegen 80.456,51 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 20. September 2018, GZ 3 R 106/18f-14, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Nach § 1431 ABGB (Zahlung einer Nichtschuld) kann, wenn jemandem aus einem Irrtum, wäre es auch ein Rechtsirrtum, eine Sache geleistet worden, wozu er gegen den Leistenden kein Recht hat, in der Regel die Sache zurückgefordert werden.
+Die Voraussetzungen dieser condicitio indebiti sind das Fehlen der Verbindlichkeit, auf die geleistet wurde, und ein Irrtum des Leistenden über ihren Bestand. Der Zahler muss in der Absicht geleistet haben, eine Verbindlichkeit zu erfüllen, und die Zahlung muss auf einem Irrtum beruhen, der die zu zahlende Schuld oder den Gegenstand, den der Zahler leistete, betrifft. Ob der Zuwendende seinen Irrtum verschuldet hat, ist bedeutungslos. Hat der Leistende über das Bestehen der Schuld aus Fahrlässigkeit geirrt, so ist dies noch kein ausreichender Grund dafür, dem Empfänger gegen den Willen des Irrenden einen unentgeltlichen Vorteil zu belassen (RIS-Justiz
+RS0033607; vgl RS0033591).
+2. Nach Präs 1025/28 = SZ 11/86 = Jud 33 neu können von den Österreichischen Bundesbahnen an ihre Angestellten aufgrund irrtümlicher Berechnung des Ruhegenusses ausbezahlte Beträge im Falle redlichen Verbrauchs nicht zurückgefordert werden (RIS-Justiz RS0010271). Diese Rechtsprechung zu Arbeitsentgelt wurde in der Folge sinngemäß auf die Rückforderung irrtümlich gezahlter Unterhaltsbeiträge angewandt (RIS-Justiz RS0033609). Die neuere Rechtsprechung hat diese Grundsätze nicht auf Unterhaltsleistungen im eigentlichen Sinn beschränkt, sondern sie auch dann gelten lassen, wenn die irrtümlich erbrachte Leistung, wirtschaftlich gesehen – ohne Rücksicht auf ihre rechtliche Konstruktion – die Funktion hatte, dem Lebensunterhalt des Empfängers zu dienen (2 Ob 9/96 = RIS-Justiz RS0033609 [T2]).
+3. Generell gilt aber, dass ohne Rechtsgrundlage gezahlte (Unterhalts-)Beträge (mangels echter Bereicherung) nur dann nicht zurückgefordert werden können, wenn sie gutgläubig verbraucht wurden (RIS-Justiz RS0033609 [T3, T4], RS0010271 [T1, T16]). Der gute Glaube wird aber nicht nur durch auffallende Sorglosigkeit des Empfängers ausgeschlossen, sondern schon dann verneint, wenn er zwar nicht nach seinem subjektiven Wissen, aber bei objektiver Beurteilung an der Rechtmäßigkeit des ihm ausgezahlten Betrags auch nur zweifeln musste (RIS-Justiz
+RS0033826, RS0010271 [T19, T29]).
+Ob der Empfänger unredlich war und die irrtümliche Zahlung nicht gutgläubig verbrauchen konnte, ist eine Frage des Einzelfalls (RIS-Justiz RS0033826 [T5] = RS0010271 [T25]).
+4. Hier hat der klagende Versicherer der beklagten Versicherungsnehmerin einer Lebensversicherung, nachdem diese den Vertrag vorzeitig gekündigt hatte, den Rückkaufswert ausbezahlt. Die Auszahlung erfolgte durch einen Irrtum des Sachbearbeiters der Klägerin trotz bestehender Verpfändung und Vinkulierung an eine Bank als alleinige Bezugsberechtigte, die der Kündigung nicht zugestimmt hatte. Die Beklagte hat das Geld für die behindertengerechte Adaptierung ihrer Wohnung und für Möbel zur Gänze verbraucht.
+5.1. Die Vorinstanzen sahen nach den hier im Einzelfall maßgeblichen Vinkulierungs- und Pfändungsvereinbarungen (vgl RIS-Justiz RS0106149) die Beklagte als im Zeitpunkt der Zahlung jedenfalls nicht bezugsberechtigt und die Rückforderung der dennoch an sie erfolgten Leistung des Rückkaufswerts als Anwendungsfall des § 1431 ABGB an (vgl 7 Ob 43/02b). Dies hält sich im Rahmen der Rechtsprechung und wird von der Revision auch nicht in Frage gestellt.
+5.2. Dass ein durchschnittlich verständiger Versicherungsnehmer, der seinen Versicherungsvertrag wiederholt zur Besicherung eigener und fremder Kredite verwendet, bei objektiver Beurteilung zumindest Zweifel dahin hegen musste, ob die Erklärung eines ehemaligen Kreditgläubigers eine ausreichende Grundlage für die Freigabe des Bezugsrechts sein kann, ist im Einzelfall nicht zu beanstanden, zumal die Beklagte zuvor einen ausdrücklichen brieflichen Hinweis auf die richtige Gläubigerbank erhalten, sich an diese aber nicht gewandt hatte. Warum die Beklagte davon ausgehen durfte, dass Erklärungen der früheren Kreditgeberin der nunmehr Bezugsberechtigten zurechenbar sein sollten, ist den Feststellungen nicht zu entnehmen und zeigt die Revision nicht auf (vgl auch – zur Rechtsnatur des Sparkassen-Haftungsverbunds – 4 Ob 148/16t).
+5.3. Dass der zur Auszahlung an die Beklagte führende Irrtum eines Sachbearbeiters der Klägerin an der (Un-)Redlichkeit der Beklagten nichts ändern könnte, hält sich im Rahmen der oben in Pkt 1 dargelegten Rechtsprechung.
+5.4. Da grundsätzlich von der Handlungsfähigkeit einer natürlichen Person auszugehen ist, hat derjenige, der sich auf eine Geschäftsunfähigkeit beruft, die Behauptungs- und Beweislast für die Umstände, aus denen auf die Geschäftsunfähigkeit geschlossen werden kann (RIS-Justiz
+RS0014645 [T5]). Soweit die Revision geistige Beeinträchtigungen der Beklagten ins Treffen führt, geht sie nicht vom festgestellten Sachverhalt aus.
+5.5. Gegen die Auffassung des Berufungsgerichts, die Beklagte habe zudem anlässlich der Behauptung, die Polizze sei verlorengegangen und es bestehe weder Vinkulierung noch Verpfändung, die Verpflichtung übernommen, die Beklagte gegen diesbezügliche Ansprüche Dritter schad- und klaglos zu halten, führt die Revision nichts ins Treffen (vgl RIS-Justiz RS0118709).
+6. Auf die in der Revision erörterte Frage des Unterhaltscharakters der Versicherungsleistung kommt es daher nicht an; aus diesem Grund liegt auch der behauptete Mangel des Berufungsverfahrens nicht vor.
+7. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00219.18H.1219.000

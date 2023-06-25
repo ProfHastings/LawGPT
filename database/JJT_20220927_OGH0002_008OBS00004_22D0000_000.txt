@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+8ObS4/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Mag. Lena Steiger (aus dem Kreis der Arbeitgeber) und Anton Starecek (aus dem Kreis der Arbeitnehmer) in der Sozialrechtssache der klagenden Partei F* H*, vertreten durch Dr. Karl Klein, Rechtsanwalt in Wien, gegen die beklagte Partei IEF-Service GmbH, Geschäftsstelle Eisenstadt, 7000 Eisenstadt, Neusiedlerstraße 10, wegen 65.318 EUR sA (Insolvenz-Entgelt), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. März 2022, GZ 9 Rs 7/22y-26, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Zweck des IESG ist eine sozialversicherungsrechtliche Sicherung von Entgeltansprüchen und sonstigen aus dem Arbeitsverhältnis erwachsenden Ansprüchen von Arbeitnehmern im Falle der Insolvenz ihres Arbeitgebers. Versichertes Risiko ist im Kernbereich die Gefahr des gänzlichen oder teilweisen Verlusts ihrer Entgeltansprüche, auf die sie typischerweise zur Bestreitung des eigenen Lebensunterhalts sowie des Lebensunterhalts ihrer unterhaltsberechtigten Angehörigen angewiesen sind (RIS-Justiz RS0076409; 8 ObS 12/17y; 8 ObS 4/20a).
+[2] 		Zwar kann regelmäßig allein aus der zeitlichen Komponente des „Stehenlassens“ von Entgeltansprüchen noch nicht auf eine missbräuchliche Überwälzung des Finanzierungsrisikos auf den Insolvenzentgeltfonds geschlossen werden, sehr wohl aber dann, wenn weitere Umstände hinzutreten, die dies konkret indizieren (RS0119679; RS0116935).
+[3] 		Ob diese Annahme zutrifft, ist im Rahmen eines Fremdvergleichs mit einem typischen Arbeitnehmer zu beurteilen. Ergibt sich daraus, dass auf einen zumindest bedingten Vorsatz zur sittenwidrigen Inanspruchnahme des Insolvenzfonds zu schließen ist, kann dieses Folgerung nicht durch den Beweis über die konkreten Absichten des Arbeitnehmers widerlegt werden (RS0114470). Der  Fremdvergleich hängt stets von den Umständen des Einzelfalls ab, sodass dessen Ergebnis – vom Fall einer krassen Fehlbeurteilung durch die zweite Instanz abgesehen – regelmäßig die Zulässigkeit der Revision nicht rechtfertigen kann (RS0111281 [T10]).
+[4] 		Mit dieser ständigen Rechtsprechung steht die bekämpfte Entscheidung des Berufungsgerichts im Einklang.
+[5] 		Es steht fest, dass der Kläger seit Beginn seines Dienstverhältnisses das vereinbarte und seiner Klage zugrundegelegte Entgelt nicht erhalten hat, und auch davon ausging, dass seine Dienstgeberin kein Geld hat. Dennoch setzte er aber seine Arbeit fort und wirkte sogar an einer falschen Anmeldung zur Sozialversicherung mit, auch um den „finanziellen Druck der Gesellschaft“ zu reduzieren. Dem Kläger – der auch selbst Finanzpläne erstellte – war dabei bewusst, dass die jahrelange Nichtzahlung seines vereinbarten Gehalts auf fehlendem finanziellen Leistungsvermögen der Dienstgeberin beruhte, weil diese betriebsnotwendige Investitionen Dritter nicht lukrieren konnte.
+[6] 		Die Rechtsansicht der Vorinstanzen, dass das Verhalten des Klägers nach den Umständen des Einzelfalls als Versuch der sittenwidrigen Überwälzung des Ausfallrisikos auf die Beklagte zu beurteilen war, ist bei diesem Sachverhalt in keiner Weise korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBS00004.22D.0927.000

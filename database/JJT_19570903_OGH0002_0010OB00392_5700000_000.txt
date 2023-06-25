@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.09.1957
+Geschäftszahl
+1Ob392/57
+Norm
+ABGB §1413;
+JN §99;
+Kopf
+SZ 30/43
+Spruch
+Auch ein geringfügiger Betrag, der in keinem Verhältnis zum Streitwert steht, ist ein Vermögen im Sinne des § 99 JN.
+Der Vermögensgerichtsstand ist aber dann nicht begrundet, wenn der Geldbetrag wegen Verweigerung der Annahme durch den Beklagten bei einer Sparkasse auf ein Devisensperrkonto erlegt wurde.
+Entscheidung vom 3. September 1957, 1 Ob 392/57.
+I. Instanz: Landesgericht Feldkirch; II. Instanz: Oberlandesgericht Innsbruck.
+Text
+Das Erstgericht hat der Einrede der örtlichen Unzuständigkeit hinsichtlich der auf § 99 JN. gestützten Klage nach abgesonderter Verhandlung nicht Folge gegeben.
+Das Rekursgericht hat zufolge Rekurses der beklagten Partei der Einrede stattgegeben und die Klage zurückgewiesen.
+Der Oberste Gerichtshof gab dem Rekurs der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Zunächst steht der Begriff "Vermögen" zur Entscheidung. Der Oberste Gerichtshof ist gleich dem Rekursgerichte der Rechtsansicht, daß ein Betrag von 42 S 45 g ungeachtet des Umstandes, daß der Streitwert 31.542 S 56 g beträgt, ein Vermögen im Sinne des § 99 JN. ist. Diese Rechtsansicht entspricht der überwiegenden Rechtsprechung (Stagel - Michlmayr, ZPO., zu § 99 Punkt D Z. 3). Die wenigen abweichenden Entscheidungen (a. a. O. Punkt 5. wie z. B. 10 S bei einem Streitwert von 5000 S) blieben vereinzelt und sind nicht überzeugend.
+Die entscheidende Frage liegt aber im vorliegenden Fall nicht in der Höhe des Vermögens, sondern in der Tatsache, ob es sich im Falle des Beklagten um sein Vermögen handelt. Diese Frage ist gleich dem Rekursgerichte zu verneinen. Der Betrag von 42 S 45 g ist unter Beachtung der Voraussetzungen des materiellen Rechtes nur dann Vermögen des Beklagten, wenn ihm die Zahlung dieses Betrages, den ein Dritter, das ist B., dem Beklagten angeblich schuldet, zugekommen ist.
+Das Erstgericht hat festgestellt, und diese Feststellung wurde vom Rekursgericht übernommen, daß der Beklagte von einer Verrechnung des ihm allenfalls von B. geschuldeten Betrages nichts wissen wollte, obwohl er auf einen ihm etwa daraus zustehenden Betrag nicht verzichtet hat, sondern die Verrechnung einem späteren Zeitpunkt vorbehalten wollte. Jedenfalls lehnte es der Beklagte ab, den Geldbetrag von 42 S 45 g anzunehmen. Bei dieser Rechtslage standen dem B. zwei Wege offen: entweder - um seiner Schuld gegenüber dem Beklagten ledig zu werden - die Zahlung durch Übersendung des Betrages nochmals zu versuchen oder den Betrag bei Gericht nach § 1425 ABGB. zu erlegen. Den letztgenannten Weg hat B. unbestrittenermaßen nicht gewählt. Was jedoch als Zahlung anzusehen ist, bestimmt § 1413 ABGB. Hat - wie im vorliegenden Fall - der Gläubiger einer Geldforderung nicht eine bestimmte Zahlungsform ausdrücklich vorgeschrieben, so kann der Schuldner jede verkehrsübliche Zahlungs- oder Übersendungsart wählen (2 Ob 414/49). Da die Geldschuld im Zweifel eine Schickschuld ist (SpR. 228 = GlUNF. 6668 u. a. m.), hätte B. trachten müssen, daß der Geldbetrag von 42 S 45 g dem Beklagten übermacht wird. Dies konnte aber nicht dadurch erreicht werden, daß B. den erwähnten Betrag auf ein Devisensperrkonto, lautend auf den Namen des Beklagten, an seinem, des Erlegers, Wohnort deponierte. Der Oberste Gerichtshof hat keine Veranlassung, von der Entscheidung SZ. XXIII 59 abzugehen, die besagt, daß die Einzahlung eines Betrages bei einer Sparkasse zwecks Auszahlung an den Gläubiger nur dann als Zahlung gilt, wenn der angewiesene Betrag dem Gläubiger wirklich ausgezahlt wird oder auf sein Konto gutgebracht worden ist. Solange der Betrag nur bei der Bank des Erlegers oder Absenders (hier des Schuldners B.) eingegangen ist, ist er dem Gläubiger nicht zugekommen. Dies alles trifft im vorliegenden Falle nach den Feststellungen der Untergerichte zu. Dadurch, daß B. den Betrag auf ein Konto mit dem Namen des Beklagten erlegte, ist dem Beklagten kein Konto erstanden. Ob der Beklagte schon vor dem vorliegen den Rechtsstreit von der Tatsache des Erlages Kenntnis erhalten hat, ist nicht entscheidend, weil es gleichfalls unbestritten ist, daß der Betrag noch auf Devisensperrkonto der Sparkasse erliegt. Die Frage, ob B. und die Sparkasse in F. nach den bestehenden Vorschriften über EZU-Devisen in der Höhe des mehrfach genannten Schillingbetrages imstande gewesen wären, das Geld, das der Inländer im Inland (Österreich) zugunsten eines Ausländers im Ausland (Italien) erlegt hat, zu übermachen, ist von sekundärer Bedeutung; vielmehr ist die Tatsache, daß dies im vorliegenden Falle zulässig ist, ein Indiz dafür, daß B. theoretisch imstande gewesen wäre, im Sinne der materiellrechtlichen Vorschriften über die Bezahlung seiner Schuld vorzugehen, ganz abgesehen davon, daß - solange der Gläubiger den geschuldeten Betrag nicht annehmen will - die Schuld nicht als getilgt angesehen werden kann.
+Es ist daher bei der gegebenen Sach- und Rechtslage dem Beklagten in Österreich durch den Vorgang des B. kein Vermögen entstanden. Diese Tatsache muß die klagende Partei gegen sich gelten lassen, weshalb die Zurückweisung der Klage durch das Rekursgericht zu Recht erfolgt ist.

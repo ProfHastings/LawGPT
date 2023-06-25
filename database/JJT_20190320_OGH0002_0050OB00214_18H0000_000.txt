@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.03.2019
+Geschäftszahl
+5Ob214/18h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Painsi,  Dr. Steger und Dr. Parzmayr als weitere Richter in der wohnrechtlichen Außerstreitsache des Antragstellers Dr. W* K*, vertreten durch Dr. Erich Kafka, Dr. Manfred Palkovits, Rechtsanwälte in Wien, gegen die übrigen Mit- und Wohnungseigentümer der Liegenschaft EZ * KG * (Grundstücksadresse *), als Antragsgegner, wegen § 52 Abs 1 Z 4 und 5 WEG (§§ 24 Abs 6, 29 WEG), über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Sachbeschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 23. Mai 2018, GZ 40 R 59/18z-14, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 37 Abs 3 Z 16 MRG iVm § 52 Abs 2 WEG und § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+1. Die Hausbesorgerwohnung gehört zu den Teilen der Liegenschaft, die infolge deren rechtsgeschäftlicher oder tatsächlicher Zweckbestimmung einer ausschließlichen Benützung durch einen Wohnungseigentümer entzogen sind. Sie steht als allgemeiner Teil im schlichten Miteigentum der Teilhaber der Liegenschaft (RIS-Justiz RS0082959 [T2]).
+2. Die Vermietung einer solchen Hausbesorgerwohnung nach Beendigung des Hausbesorgerverhältnisses an eine Person, die nicht Wohnungseigentümer ist, ist eine Angelegenheit der ordentlichen Verwaltung der Liegenschaft (§ 28 Abs 1 Z 8 WEG; AB 1050 BlgNR XXI. GP 9; 5 Ob 205/10y; vgl RIS-Justiz RS0111493).
+3. Zwar gilt auch im Wohnungseigentum, dass nur eine Vermietung zu ortsüblichen Bedingungen an Dritte unter die ordentliche Verwaltung fällt (5 Ob 154/17h; zu § 833 ABGB: RIS-Justiz RS0013564 [T3, T9]). Die vom Antragsteller in seinem Revisionsrekurs zur Begründung seiner Zulässigkeit aufgeworfene Frage, ob daher die Vermietung der Hausbesorgerwohnung als außerordentliche Verwaltungsmaßnahme oder gar als Verfügung zu qualifizieren wäre, wenn diese die Kündigung und Rückforderung der nach dem WFG 1968 gewährten Wohnbaudarlehen zur Folge hätte, stellt sich im hier zu beurteilenden Fall aber nicht. Die Vermietung der ehemaligen Hausbesorgerwohnung erfüllt den vom Antragsteller geltend gemachten Kündigungsgrund des § 12 lit d WFG 1968 idF BGBl Nr 280/1967 nämlich nicht.
+4. Nach § 12 lit d WFG 1968 hat das Land das Darlehen unter Einhaltung einer Kündigungsfrist von mindestens sechs Monaten zu kündigen, wenn der Schuldner ohne Zustimmung des Landes „Wohnungen oder Wohnräume in Räume anderer Art umwandelt, sonst widmungswidrig verwendet oder zwei oder mehrere bisher getrennt benützte Wohnungen miteinander vereinigt oder an der Baulichkeit wertvermindernde Änderungen vornimmt oder solche Handlungen zulässt“. Die widmungswidrige Verwendung im Sinn dieses Kündigungstatbestands zielt eindeutig auf die Verwendung von Wohnungen oder Wohnräumen zu anderen als zu Wohnzwecken ab, auch wenn diese nicht zugleich „in Räume anderer Art umgewandelt“ werden. Die Vermietung an Dritte als Wohnung ist daher nicht erfasst. Abgesehen davon, wäre die Vermietung einer ehemaligen Hausbesorgerwohnung an Dritte auch im Allgemeinen nicht als widmungswidrig anzusehen. Nach der als Auslegungskriterium für die Ermittlung des Inhalts der Widmung eines Objekts heranzuziehenden Verkehrsauffassung ist die Vermietung einer Hausbesorgerwohnung, die nach Beendigung des Hausbesorgerverhältnisses nicht mehr zu ihrem ursprünglichen Zweck verwendet wird, als Regelfall der Folgeverwendung schon von der ursprünglichen Widmung umfasst.
+5. Trotz Fehlens einer ausdrücklichen Rechtsprechung des Obersten Gerichtshofs zu einer konkreten Fallgestaltung liegt dann keine die Zulässigkeit eines Revisionsrekurses begründende erhebliche Rechtsfrage iSd § 62 Abs 1 AußStrG vor, wenn das Gesetz selbst – wie hier –eine klare, das heißt eindeutige Regelung trifft (RIS-Justiz RS0042656). Der Revisionsrekurs ist daher unzulässig und zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124929

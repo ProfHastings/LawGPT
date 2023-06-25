@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.1961
+Geschäftszahl
+6Ob306/61
+Norm
+Geschäftsordnung für die Gerichte erster und zweiter Instanz §537
+Abs2;
+ZPO §36;
+Kopf
+SZ 34/129
+Spruch
+Das Gericht hat die Vollmachtskündigung zwischen Anwalt und Parteien nicht durch Zustellung des Schriftsatzes zu vermitteln.
+Entscheidung vom 28. September 1961, 6 Ob 306/61.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht nahm die ihm mit Schriftsatz vom Klagevertreter mitgeteilte Kündigung seiner ihm vom Kläger erteilten Vollmacht mit seinem Beschluß vom 8. Mai 1961 nicht zur Kenntnis, weil die Auflösung des Vollmachtsverhältnisses ohne gleichzeitige Mitteilung der Bestellung eines anderen Rechtsanwaltes unwirksam sei.
+Das Rekursgericht änderte den erstgerichtlichen Beschluß dahin ab, daß der Antrag der klagenden Partei, von der Vollmachtskündigung des Klagevertreters durch Zustellung je einer Ausfertigung beide Prozeßparteien und durch Zustellung einer Halbschrift den Klagevertreter zu verständigen, abgewiesen wurde; das Erstgericht habe nicht darüber zu entscheiden gehabt, ob es die Vollmachtskündigung zur Kenntnis nehme oder nicht, weil ein solcher Antrag gar nicht gestellt worden sei. Es habe lediglich über die beantragte Zustellung je einer Ausfertigung des Schriftsatzes über die Vollmachtskündigung an die beiden Prozeßparteien und einer Halbschrift an den Klagevertreter zu entscheiden gehabt. Nun erfordere aber die Kündigung einer Vollmacht als rechtsgeschäftliche Handlung die Mitwirkung des Gerichtes, überhaupt nicht und erlange im übrigen dem Prozeßgegner gegenüber nur unter den Voraussetzungen des § 36 ZPO. rechtliche Wirksamkeit. Die Bekanntgabe der Vollmachtskündigung durch den Klagevertreter habe daher keine prozessualen Wirkungen und könne deshalb auch keine Prozeßhandlungen nach sich ziehen. Deshalb allein sei schon der Antrag, der eine solche prozessuale Handlung zum Ziel habe, nämlich die Zustellung an den Kläger selbst, an seinen Vertreter und an den Beklagten, abzuweisen gewesen.
+Der Oberste Gerichtshof gab dem vom Klagevertreter im eigenen Namen und namens der klagenden Partei erhobenen Revisionsrekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei einer Vollmachtskündigung als einer rechtsgeschäftlichen Handlung ist zwischen den materiellrechtlichen Wirkungen im Verhältnis zwischen dem bevollmächtigten Rechtsanwalt und dem Machtgeber - diesfalls der klagenden Partei - und den prozessualen Wirkungen gegenüber dem Prozeßgegner - diesfalls der beklagten Partei - und dem Gericht zu unterscheiden.
+Entgegen der im Revisionsrekurs vertretenen Rechtsansicht wird die Auflösung des Vollmachtsverhältnisses im Anwaltsprozeß nach dem klaren Wortlaut des § 36 Abs. 1 ZPO. gegenüber dem Prozeßgegner - und nach der ständigen Rechtsprechung (vgl. in der Manzschen Ausgabe der ZPO. von Stagel - Michlmayr, 12. Aufl. S. 401 E. Nr. 2 zu § 36 ZPO.) auch gegenüber dem Gericht - erst dann wirksam, wenn die Bestellung eines anderen Rechtsanwaltes von der Partei, der das Vollmachtsverhältnis aufgekundigt wurde, angezeigt wird.
+Daraus ergibt sich, daß das Erstgericht die gegenständliche Vollmachtskündigung, mit der die Anzeige von der Bestellung eines anderen Rechtsanwaltes nicht verbunden war, überhaupt nicht zu berücksichtigen hatte; ein Beschluß des Inhaltes, daß diese Vollmachtskündigung nicht zur Kenntnis genommen werde, war überflüssig.
+Dem Rekursgericht ist aber auch darin beizustimmen, daß eine Zustellung von Ausfertigungen bzw. einer Halbschrift des Schriftsatzes, der die prozessual gegenüber dem Gegner und dem Gericht wirkungslose Vollmachtskündigung bekanntgab, nicht zu erfolgen hatte. Denn eine Zustellung an den Prozeßgegner wäre zwecklos, weil die gegenständliche Vollmachtskündigung ihm gegenüber entsprechend der eindeutigen Bestimmung des § 36 ZPO. prozessual wirkungslos ist; eine Zustellung an die vom Klagevertreter bisher vertretene klagende Partei war aber deshalb abzulehnen, weil es sich hier um einen rechtsgeschäftlichen Akt zwischen dem Klagevertreter und seinem bisherigen Mandanten handelt und es nicht Sache des Gerichtes ist, diesen Akt der Vollmachtskündigung zwischen dem Anwalt und seiner Partei zu vermitteln (vgl. Stagel - Michlmayr a. a. O. E. Nr. 4).
+Auch die Anmerkung 1 zu § 537 Abs. 2 Geo. stellt nicht in Abrede, daß Kündigung und Widerruf einer Vollmacht als rechtsgeschäftliche Handlungen die Mitwirkung des Gerichtes ebensowenig erfordern wie die Erteilung einer Vollmacht; der weiters dort vertretenen Ansicht, daß dennoch die Zustellung eines entsprechenden Schriftsatzes zu empfehlen sei", weil dies größere Klarheit verschaffe, kann zumindest dann, wenn im Anwaltsprozeß lediglich die Vollmachtskündigung angezeigt und nicht gleichzeitig die Bestellung eines anderen Rechtsanwaltes dem Gericht zur Kenntnis gebracht wird, nicht beigestimmt werden. Die Zustellung eines Schriftsatzes an den Prozeßgegner über eine ihm gegenüber prozessual wirkungslose Erklärung würde eher Unklarheit schaffen, weil der Gegner unter Umständen dann annehmen könnte, daß die Vollmachtskündigung ihm gegenüber trotz der Bestimmung des § 36 Abs. 1 ZPO. doch irgendwelche Wirkungen haben könnte. Die Zustellung an den eigenen Mandanten des Rechtsanwaltes, der die Vollmacht gekundigt hat, wäre aber eine überflüssige Einschaltung des Gerichtes in die internen rechtlichen Beziehungen zwischen diesen beiden Personen, die schon deshalb untunlich wäre, weil das Gericht in deren Innenverhältnis gar keinen Einblick hat.

@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2017
+Geschäftszahl
+7Ob195/17b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und Dr. Hofer-Zeni-Rennhofer als weitere Richter in der Rechtssache der klagenden Partei I***** GmbH & Co KG, *****, vertreten durch Melicharek Rechtsanwalts GmbH in Wien, und der Nebenintervenientin P***** GmbH, *****, vertreten durch Schaffer Sternad Rechtsanwälte OG in Wien, gegen die beklagte Partei Z*****Aktiengesellschaft, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 11. September 2017, GZ 5 R 95/17b-13, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen den Streitteilen besteht ein Gebäudeversicherungsvertrag, dem die Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB 2007) und die Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung (EHVB 2007) zugrunde liegen.
+Die EHVB 2007 lauten auszugsweise:
+„Abschnitt B:
+Ergänzende Regelungen für spezielle Betriebs- und Nichtbetriebsrisiken
+…
+11. Haus- und Grundbesitz
+1. Der Versicherungsvertrag erstreckt sich nach Maßgabe des Deckungsumfanges der AHVB auf Schadenersatzverpflichtungen
+1.1. aus der Innehabung, Verwaltung, Beaufsichtigung, Versorgung, Reinhaltung, Beleuchtung und Pflege der versicherten Liegenschaft einschließlich der in oder auf ihr befindlichen Bauwerke und Einrichtungen wie zB Aufzüge, Heizungs- und Klimaanlagen, Schwimmbecken, Kinderspielplätze und Gartenanlagen […]
+1.2 aus der Durchführung von Abbruch-, Bau-, Reparatur- und Grabarbeiten an der versicherten Liegenschaft, wenn die Gesamtkosten des Bauvorhabens unter Einrechnung etwaiger Eigenleistungen EUR 100.000 nicht überschreiten. […] Für solche Bauvorhaben sind Schadenersatzverpflichtungen des Versicherungsnehmers als Bauherr mitversichert.
+...“
+Rechtliche Beurteilung
+1. Allgemeine Versicherungsbedingungen (AVB) sind nach Vertragsauslegungsgrundsätzen auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063). Die einzelnen Klauseln sind, wenn sie nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Beobachter erkennbare Zweck einer Bestimmung der AVB zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RIS-Justiz RS0107031 [T1]).
+Dabei ist der Oberste Gerichtshof zur Auslegung von AVB nicht jedenfalls, sondern nur dann berufen, wenn das Berufungsgericht höchstgerichtliche Rechtsprechung missachtet hat oder für die Rechtseinheit oder Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits oberstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass kein Auslegungszweifel verbleiben kann (RIS-Justiz RS0121516 [T6]). Ein solcher Fall liegt hier vor:
+2. Die Klägerin ließ auf ihrer Liegenschaft ein Wohnhaus zu einem vereinbarten Werklohn von 988.305 EUR revitalisieren (Sanierung der allgemeinen Teile, Ausbau des Dachgeschoßes, Einbau eines Lifts). Zu diesem Zweck wurde auf der Liegenschaft ein Kran aufgestellt, der in der Nacht vom 11. auf den 12. 7. 2014 umstürzte und auf ein Gebäude des Nachbargrundstücks fiel.
+3. Ein nachbarrechtlicher Ausgleichsanspruch gemäß § 364a ABGB ist eine gesetzliche Haftpflichtbestimmung privatrechtlichen Inhalts im Sinne der Versicherungsbedingungen (RIS-Justiz RS0029498). § 364a ABGB wird auch analog herangezogen, um dem Nachbarn Ausgleich für Schäden durch Bauführung zu bieten (vgl RIS-Justiz RS0106324, RS0010668). Darauf, ob Ansprüche nach § 364a ABGB ihre Grundlage in der in Art 11.1.1 EHVB angeführten Innehabung haben, kommt es hier nicht an.
+4.1 Im vorliegenden Fall umfasst der Versicherungsvertrag ausdrücklich auch eine „Bauherren-Haftpflicht“. Nach Art 11.1.2 erstreckt sich die Versicherung  auf Schadenersatzverpflichtungen aus der Durchführung von Abbruch-, Bau-, Reparatur- und Grabarbeiten an der versicherten Liegenschaft, aber nur, wenn die Gesamtkosten des Bauvorhabens unter Einrechnung etwaiger Eigenleistungen 100.000 EUR (im hier vorliegenden Fall individuell vereinbart 400.000 EUR) nicht überschreiten.
+4.2 Bereits der eindeutige Wortlaut lässt keinen Zweifel daran, dass durch eine speziellere Norm, nämlich Art 11.1.2 EHVB, der Versicherungsschutz für Schadenersatzverpflichtungen aus den dort angeführten Tätigkeiten gesondert und abschließend geregelt wird, dies unabhängig davon, auf welche schadenersatzrechtliche Grundlage der Geschädigte seinen Anspruch gegenüber dem Versicherungsnehmer stützt. Aus der insoweit völlig klaren Bedingungslage folgt daher, dass der Versicherungsschutz für Schadenersatzverpflichtungen aus der Durchführung der dort genannten Baumaßnahmen ausschließlich nach dieser Bestimmung zu beurteilen ist.
+4.3 Sinn einer Beschränkung des Baukostenrisikos mit einem bestimmten Gesamtkostenbetrag ist es, die mit Bauvorhaben größeren Umfangs verbundene Vielzahl nicht überschaubarer und für den Versicherer kaum oder nur schwer kalkulierbarer Risiken vom Versicherungsschutz auszuschließen. Es handelt sich dabei um einen Risikoausschluss (7 Ob 33/15a, RIS-Justiz RS0081896).
+4.4 Zu einem Bauvorhaben gehören alle Maßnahmen, die notwendig sind, um das Bauziel zu erreichen (7 Ob 30/88), hier das Aufstellen eines Krans. Da die Gesamtkosten des Umbaus die festgelegte Summe – weit – überschreiten, ist die Verneinung des Deckungsschutzes durch die Vorinstanzen  nicht zu beanstanden.
+5. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00195.17B.1220.000

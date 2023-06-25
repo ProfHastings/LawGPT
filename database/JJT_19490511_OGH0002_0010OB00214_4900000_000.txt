@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.05.1949
+Geschäftszahl
+1Ob214/49
+Norm
+ABGB §367;
+ABGB §§1112 ff;
+EO §17;
+EO §349;
+Kopf
+SZ 22/68
+Spruch
+Der Umstand, daß der Untermieter mit dem Hauptvermieter unmittelbar einen Mietvertrag abgeschlossen hat, bringt den Hauptmietvertrag zwischen Hauseigentümer und Untervermieter nicht zum Erlöschen.
+In dem auf Grund der Kündigung der Untermietverhältnisse durchgeführten Exekutionsverfahren kann sich der ehemalige Untermieter nicht auf den mit dem Hauseigentümer abgeschlossenen Mietvertrag berufen.
+Entscheidung vom 11. Mai 1949, 1 Ob 214/49.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Oberste Gerichtshof bestätigte den Aufhebungsbeschluß des Berufungsgerichtes.
+Rechtliche Beurteilung
+Aus der Begründung:
+Am 3. November 1941 hat der Kläger als Hauptmieter der Wohnung Wien I., .... die von ihm gemietete Wohnung an die Beklagten untervermietet. Das Erstgericht hat die Kündigung des Untermietverhältnisses aufgehoben, weil die Untermieter über diese Wohnung am 15. Februar 1945 mit den Eigentümern einen Hauptmietvertrag abgeschlossen haben und weil dadurch der Untermietvertrag erloschen sei. Das Berufungsgericht hat diese Entscheidung unter Rechtskraftvorbehalt aufgehoben.
+Der gegen den Aufhebungsbeschluß erhobene Rekurs ist nicht begrundet.
+Die Rechtsanschauung des Berufungsgerichtes, daß der Abschluß eines Hauptmietvertrages zwischen Untermieter und Hauseigentümer den Untermietvertrag nicht berühre, ist richtig. Durch Abschluß eines Untermietvertrages wird ein Schuldverhältnis zwischen Untervermieter und Untermieter begrundet, das so lange besteht, als das Untermietverhältnis nicht aufgelöst ist; die Tatsache, daß der Hauseigentümer die gegenständliche Wohnung einem Dritten weitervermietet, bringt das bestehende Hauptmietverhältnis und daher auch das Untermietverhältnis nicht zum Erlöschen, dies auch dann nicht, wenn der bisherige Untermieter mit dem Hauseigentümer einen unmittelbaren Mietvertrag abgeschlossen hat. Obligatorische Rechtsverhältnisse werden durch Vertrag zwischen dritten Personen nicht berührt. Anders wäre nur dann zu entscheiden, wenn Umstände vorlägen, die den ersten Mietvertrag aufgelöst haben.
+Die Tatsache allein, daß die Beklagten die Wohnung vom Hauseigentümer gemietet haben, steht daher der Kündigung des Untermietverhältnisses und der Verurteilung zur Räumung nicht entgegen, weil der Mietvertrag mit dem Hauseigentümer den Beklagten kein Recht an der Wohnung gibt, das sie dem Kläger, dem sie durch den Vertrag mit dem Hauseigentümer die Wohnung entzogen haben, einredeweise entgegensetzen könnten. Die Bemerkung in der Begründung des Aufhebungsbeschlusses, daß der Untervermieter erst einen weiteren Räumungsprozeß gegen die Beklagten führen müsse, wenn diese im Exekutionsverfahren sich auf ihren mit dem Hauseigentümer abgeschlossenen Mietvertrag berufen sollten, muß deshalb als rechtsirrig abgelehnt werden.
+Ein guter Glaube nach Analogie des § 367 ABGB. kommt den Beklagten nicht zugute, da sie Untermieter waren und daher durch Abschluß des Vertrages mit der Hausverwaltung den mit dem Kläger abgeschlossenen Vertrag verletzt haben. Die irrige Annahme, das Hauptmietverhältnis des Klägers sei erloschen, schützt sie nicht, sie müssen den strikten Nachweis erbringen, daß der Hauptmietvertrag zwischen dem Kläger und dem Hauseigentümer nicht mehr besteht.

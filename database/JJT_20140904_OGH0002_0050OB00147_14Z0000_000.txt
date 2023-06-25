@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.09.2014
+Geschäftszahl
+5Ob147/14z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden sowie die Hofräte und Hofrätinnen Dr. Lovrek, Dr. Höllwerth, Dr. Grohmann und Mag. Wurzer als weitere Richter in der Grundbuchsache des Antragstellers Christian K*****, vertreten durch Mag. Günter Novak-Kaiser, Rechtsanwalt in Murau, wegen Einverleibung eines Dienstbarkeitsrechts über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts Leoben als Rekursgericht vom 5. Juni 2014, AZ 1 R 292/13b, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+1. Auch Dienstbarkeiten können Gegenstand einer Schenkung sein (3 Ob 599/83 = RIS-Justiz RS0018891), wenn die für eine Schenkung wesentliche Absicht einer unentgeltlichen Zuwendung vorliegt (5 Ob 339/99k mwN).
+2. Nach dem Wortlaut der vorliegenden, nicht in Form eines Notariatsakts errichteten Vertragsurkunde räumten die Eigentümer einer Liegenschaft dem Antragsteller unentgeltlich ein persönliches, auf Lebenszeit beschränktes Wohnungsgebrauchsrecht (§ 521 ABGB) ein, dessen Verbücherung das Rekursgericht wegen Verletzung der Notariatsaktspflicht (§ 1 Abs 1 lit d NotAktsG) ablehnte.
+3. Ein Notariatsakt ist nach der höchstgerichtlichen Rechtsprechung im Grundbuchsverfahren dann entbehrlich, wenn im Vertrag auch vom Geschenkgeber bestätigt wird, dass die Übergabe bereits erfolgt ist (RIS-Justiz RS0018923). Eine solche ausdrückliche Bestätigung enthält der Vertrag jedoch nicht. Dass die im Vertrag angegebene Wohnanschrift des Berechtigten identisch ist mit der Adresse der Liegenschaft und der Eigentümer, reicht für die geforderte Bestätigung der tatsächlichen Übergabe der vom Wohnungsgebrauchsrecht erfassten Räumlichkeiten keineswegs aus.
+4. Die Verbücherung eines Wohnungsgebrauchsrechts kann zufolge § 26 Abs 2 GBG nur aufgrund von Urkunden erfolgen, die einen gültigen Rechtstitel enthalten. Die bloße Einräumung der Dienstbarkeit genügt für eine Einverleibung nicht (RIS-Justiz RS0113380).
+5. Völlig konträr zu seiner Argumentation noch im Rekurs verneint der Antragsteller nunmehr in seinem außerordentlichen Revisionsrekurs das Vorliegen einer Schenkung als Rechtstitel für das Wohnungsgebrauchsrecht, indem er insbesondere auf die vertraglich vereinbarte Tragung von Aufwendungen für die Liegenschaft (beispielsweise die Beteiligung an Abgaben und Betriebskosten) verweist, die er als äquivalente Gegenleistung für das eingeräumte Recht ansieht. Es muss sich aber aus der Vertragsurkunde selbst ergeben, aus welchem Rechtsgrund die Dienstbarkeit eingeräumt wurde, sei es durch Kauf, Schenkung oder in Erfüllung einer bereits bestehenden Verpflichtung (5 Ob 339/99k; 5 Ob 247/02p). Gegenleistungen könnten - wie der Antragsteller selbst darlegt - allenfalls eine (überwiegende) Entgeltlichkeit begründen und einer Schenkungsabsicht entgegenstehen, sie ersetzen aber nicht den Rechtsgrund. Sollte daher keine notariatsaktspflichtige Schenkung vorliegen, müsste das Grundbuchsgesuch am fehlenden Rechtstitel scheitern.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0050OB00147.14Z.0904.000

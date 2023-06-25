@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.03.2022
+Geschäftszahl
+1Ob34/22i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei F*, vertreten durch Dr. Günter Wappel, Rechtsanwalt in Wien, gegen die beklagte Partei M*, vertreten durch Mag. Petra Thurner, Rechtsanwältin in Wien, wegen Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 15. Dezember 2021, GZ 42 R 332/21s-55, mit dem das Urteil des Bezirksgerichts Fünfhaus vom 14. Juni 2021, GZ 3 C 23/19x-50, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Der Kläger wurde gerichtlich zur Zahlung eines monatlichen (nachehelichen) Unterhalts von 170 EUR an die Beklagte verpflichtet. Mit seiner nunmehrigen Klage begehrt er die Feststellung, dass er ihr – aufgrund geänderter Einkommensverhältnisse beider Parteien – zu keinen Unterhaltszahlungen mehr verpflichtet sei.
+[2] 		Das Berufungsgericht bestätigte die der Klage stattgebende erstinstanzliche Entscheidung und sprach aus, dass die ordentliche Revision nicht zulässig sei.
+[3] 		Dagegen erhob die Beklagte eine „außerordentliche“ Revision, die das Erstgericht unmittelbar dem Obersten Gerichtshof vorlegte.
+[4] 		Dies entspricht nicht dem Gesetz.
+Rechtliche Beurteilung
+[5] 		In den im § 49 Abs 2 Z 2 JN bezeichneten familienrechtlichen Streitigkeiten ist die Revision nach § 502 Abs 4 ZPO – außer im Fall des § 508 Abs 3 ZPO – jedenfalls unzulässig, wenn der Entscheidungsgegenstand in zweiter Instanz insgesamt 30.000 EUR nicht übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs 2 Z 3 ZPO für nicht zulässig erklärt hat.
+[6] 		Nach ständiger Rechtsprechung des Obersten Gerichtshofs umfasst § 49 Abs 2 Z 2 JN auch Rechtsstreitigkeiten, in denen zu klären ist, ob ein Unterhaltsanspruch erloschen ist (RIS-Justiz RS0046467 [T2, T5]). Damit fällt auch die vom Kläger angestrebte Feststellung, er sei gegenüber der Beklagten zu keinen Unterhaltszahlungen mehr verpflichtet, unter diese Bestimmung. Der Wert des Entscheidungsgegenstands des Berufungsgerichts bemisst sich dabei gemäß § 58 Abs 1 JN mit dem 3-fachen der Jahresleistung der bisherigen Unterhaltsverpflichtung (vgl RS0046541), hier also mit 6.120 EUR (36 x 170 EUR).
+[7] 		Wurde die Revision bei einem solchen Streitwert des Berufungsverfahrens – wie hier – vom Berufungsgericht nicht zugelassen, kann die Partei nur gemäß § 508 Abs 1 und 2 ZPO binnen vier Wochen nach Zustellung des Berufungsurteils den beim Erstgericht einzubringenden Antrag an das Berufungsgericht stellen, seinen Ausspruch dahin abzuändern, dass die ordentliche Revision doch für zulässig erklärt werde. Das Rechtsmittel der Beklagten wäre vom Erstgericht daher nicht dem Obersten Gerichtshof (auch wenn es als „außerordentliches“ bezeichnet wird), sondern allenfalls gemäß § 507b Abs 2 ZPO dem Berufungsgericht vorzulegen gewesen (RS0109620).
+[8] 		Ob der Schriftsatz den Erfordernissen des § 508 Abs 1 ZPO entspricht oder ob er einer Verbesserung bedarf, bleibt der Beurteilung der Vorinstanzen vorbehalten (RS0109501 [T12]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00034.22I.0323.000

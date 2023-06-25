@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.02.2017
+Geschäftszahl
+7Ob223/16v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei W***** GmbH, *****, vertreten durch Dr. Ralph Mayer, Rechtsanwalt in Wien, gegen die beklagte Partei Dr. M***** L*****, als Masseverwalter im Konkurs über das Vermögen der P***** P***** P***** GmbH, vertreten durch Kosch & Partner, Rechtsanwälte GmbH in Wiener Neustadt, die Erstnebenintervenientin J***** GesmbH, *****, vertreten durch Mag. Christian Schönhuber, Rechtsanwalt in Schwanenstadt, den Zweitnebenintervenienten W***** K***** und den Drittnebenintervenienten Ing. H***** S*****, beide *****, beide vertreten durch Alix Frank Rechtsanwälte GmbH in Wien, wegen 199.384,28 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 21. Oktober 2016, GZ 4 R 110/16g-47, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Die Klägerin behauptet, ihr stehe der Ersatz für den erlittenen Kabelschaden nicht nur aufgrund des von den Vorinstanzen bejahten Vertrags mit Schutzwirkungen zu ihren Gunsten zu, sondern nach ihrer Wahl auch aufgrund deliktischer Haftung der Gemeinschuldnerin (P*****). Diese Haftungsgrundlage, die für die Klägerin wegen eines dann vermeintlich nicht anzurechnenden eigenen Verschuldens günstiger sei, habe das Berufungsgericht nicht geprüft.
+1.2. Es mag zutreffen, dass die Klägerin ihren Anspruch (wahlweise) auch auf eine deliktische Haftung der P***** stützen könnte (vgl 5 Ob 258/75 = RIS-Justiz RS0038090 [T3]). Das Berufungsgericht ist aber im Ergebnis zutreffend davon ausgegangen, dass die Klägerin auf deliktischer Grundlage kein für sie günstigeres Ergebnis erzielen könnte (allgemein zur strengeren Vertragshaftung vgl RIS-Justiz RS0026091). Die Klägerin verweist nämlich in ihrer Revision nur pauschal auf die vertraglichen Vereinbarungen über die Bauabwicklung, zeigt aber keine allgemeine (gesetzliche) Verkehrssicherungspflicht auf, die die P***** konkret verletzt haben soll. Überdies hat die P***** die maßgeblichen Arbeiten an die Nebenintervenienten übertragen, für die die P***** im Fall deliktischer Haftung nur nach § 1315 ABGB einstehen müsste (RIS-Justiz RS0023938; RS0017185 [T2]), wofür in tatsächlicher Hinsicht keine Grundlage besteht. Auf deliktischer Grundlage vermag daher die Klägerin keine Haftung der P***** darzutun.
+2. Die Tatfrage kann im Revisionsverfahren nur aufgegriffen werden, wenn sie von den Vorinstanzen in unrichtiger Anwendung der Verfahrensgesetze gelöst wurde (RIS-Justiz RS0042903 [T9]), was hier nicht der Fall ist:
+2.1. Der Hinweis des Berufungsgerichts, es genüge nicht, dass der Berufungswerber einen anderen, etwa gleich wahrscheinlichen Sachverhalt aus den Beweisergebnissen abzuleiten vermag, sondern es müsse ein „Beweiswürdigungsfehler“ aufgezeigt werden, ist – entgegen der Ansicht der Klägerin – keine Verkennung des Beweismaßes, sondern beschreibt die Erfolgsvoraussetzungen für eine Beweisrüge.
+2.2. Die von der Klägerin behaupteten widersprüchlichen Feststellungen im Zusammenhang mit den Wahrnehmungen des Zeugen H***** T***** liegen nicht vor.
+2.3. Die Ausführungen der Klägerin zur Beweiskraft von Verfahrensergebnissen oder zur Wahrscheinlichkeit eines bestimmten Sachverhalts stellen eine in dritter Instanz unzulässige Bekämpfung der Beweiswürdigung dar (RIS-Justiz RS0043131).
+3. Das Ausmaß eines allfälligen Mitverschuldens des Geschädigten begründet wegen seiner Einzelfallbezogenheit regelmäßig keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO (RIS-Justiz RS0022681 [T11]). Maßgeblich ist dabei, ob der Geschädigte, hier der der Klägerin zuzurechnende, für die Datenverwaltung zuständig gewesene Mitarbeiter (RIS-Justiz RS0009113), jene Sorgfalt außer Acht gelassen hat, die eine verständige Person in dieser Lage angewandt hätte, um einen Schaden zu verhindern (RIS-Justiz RS0022681 [T15]). Dieser Mitarbeiter der Klägerin hat mehrfache Anfragen über die Tiefenlage ihres Starkstromkabels unbeantwortet gelassen. Dass dieses Verhalten eine ganz wesentliche Vergrößerung des Schadensrisikos begründete, ist jedem vernünftigen Menschen einsichtig. In der Schadensteilung von 1:1 ist daher in Bezug auf die Klägerin ein korrekturbedürftiger Rechtsirrtum nicht zu erkennen.
+4. Die Klägerin zeigt damit insgesamt das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht auf. Die außerordentliche Revision ist demnach unzulässig und zurückzuweisen. Dies bedarf nach § 510 Abs 3 ZPO keiner weiteren Begründung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00223.16V.0215.000

@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.06.2014
+Geschäftszahl
+7Ob98/14h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei M***** E*****, vertreten durch Dr. Othmar Knödl und Mag. Manfred Soder, Rechtsanwälte in Rattenberg, gegen die beklagte Partei W***** Versicherungs AG, *****, vertreten durch Tramposch & Partner, Rechtsanwälte in Innsbruck, wegen 7.364,24 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 3. April 2014, GZ 53 R 39/14p-30, womit das Urteil des Bezirksgerichts Salzburg vom 30. Dezember 2013, GZ 23 C 68/13a-26, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 744,43 EUR (darin enthalten 124,07 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil die Auslegung von Versicherungsbedingungen betreffend Obliegenheits-verletzung und Kausalitätsgegenbeweis bei einem Haarriss an Armatur oder Rohrleitung in der höchstgerichtlichen Judikatur noch nicht behandelt worden sei. Gleiches gelte für die Frage, ob der unzureichende Rat eines pensionierten Versicherungsmaklers zur Vorgangsweise anlässlich der Schadenbehebung dem Versicherten zuzurechnen sei.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage nicht zulässig. Die Entscheidung kann sich auf die Anführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Der gerügte Verfahrensmangel liegt nicht vor. Das Berufungsgericht hat den vermeintlichen Mangel des Verfahrens erster Instanz bereits verneint (RIS-Justiz RS0042963). Die Revision lässt überdies offen, welche entscheidungserheblichen Tatsachen durch die ihrer Meinung nach übergangenen Beweismittel hätten bewiesen werden können.
+Die Beweiswürdigung kann vor dem Obersten Gerichtshof nicht angefochten werden (RIS-Justiz RS0043371). Es ist von den Feststellungen der Vorinstanzen auszugehen.
+Nach ständiger Rechtsprechung ist der Versicherungsmakler zwar regelmäßig ein Doppelmakler, wird aber trotzdem als Hilfsperson des Versicherungsnehmers dessen Sphäre zugerechnet und hat primär als „Bundesgenosse“ des Versicherten dessen Interessen zu wahren. Davon zu unterscheiden ist der Versicherungsagent im Sinn des § 43 VersVG, der vom Versicherer ständig betraut ist, Versicherungsverträge zu ermitteln oder zu schließen, damit zum Versicherer ein Naheverhältnis hat und dessen Sphäre zugerechnet wird. Der Versicherer haftet selbst für den Makler, wenn das wirtschaftliche Naheverhältnis zum Makler so intensiv ist, dass es zweifelhaft scheint, ob dieser in der Lage ist, überwiegende Interessen des Versicherungsnehmers zu wahren (RIS-Justiz RS0114041).
+Die Rechtsansicht des Berufungsgerichts, dass S***** M*****, der als unabhängiger Versicherungsmakler tätig gewesen, mit der Beklagten nie in einer wirtschaftlichen Nahebeziehung gestanden und im Zeitpunkt des Versicherungsfalls bereits pensioniert gewesen war, dem Kläger als dessen Vertreter zuzurechnen sei, hält sich im Rahmen der Judikatur.
+Dem Eigenheimversicherungsvertrag, der auch die Deckung von Leitungswasserschäden umfasst, liegen die Allgemeinen Bedingungen für die Eigenheimversicherung (AB 2004) zugrunde. Soweit hier von Bedeutung lauten sie:
+„Art 15 - nicht versicherte Schäden (Ausschlüsse):
+...
+4. Ausschlüsse zu Leitungswasser:
+...
+4.7. Schäden durch Holzfäule, Vermorschung oder Schwammbildung, auch wenn sie auf Leitungswasseraustritt zurückzuführen sind.
+Art 21 - Obliegenheiten des Versicherungs-nehmers im Versicherungsfall:
+...
+3. Schadenaufklärungspflicht
+3.1. Dem Versicherer ist nach Möglichkeit jede Untersuchung über die Ursache und Höhe des Schadens und über den Umfang seiner Entschädigungsleistung zu gestatten.
+3.2. Bei der Schadenermittlung ist unterstützend mitzuwirken und auf Verlangen sind dem Versicherer entsprechende Unterlagen zur Verfügung zu stellen.
+...
+3.4. Der durch den Schaden herbeigeführte Zustand darf, solange der Schaden nicht ermittelt ist, ohne Zustimmung des Versicherers nicht verändert werden, es sei denn, dass eine solche Veränderung zum Zwecke der Schadenminderung oder im öffentlichen Interesse notwendig ist.“
+Zu den Fragen der Verletzung der Aufklärungsobliegenheit (hier Art 21.3. AB 2004) und des Kausalitätsgegenbeweises besteht umfangreiche Judikatur. Obliegenheiten nach dem Versicherungsfall dienen dem Zweck, den Versicherer vor vermeidbaren Beweisbelastungen und ungerechtfertigten Ansprüchen zu schützen. Die Drohung mit dem Anspruchsverlust soll den Versicherungsnehmer motivieren, die Verhaltensregeln ordnungsgemäß zu erfüllen; ihr kommt eine generalpräventive Funktion zu (RIS-Justiz RS0116978). Den Versicherer trifft die Beweislast für das Vorliegen des objektiven Tatbestands einer Obliegenheitsverletzung. Bei einem solchen Nachweis ist es Sache des Versicherungsnehmers, zu behaupten und zu beweisen, dass er die ihm angelastete Obliegenheitsverletzung weder vorsätzlich noch grob fahrlässig begangen hat (RIS-Justiz RS0081313). Leichte Fahrlässigkeit bleibt demnach ohne Sanktion (RIS-Justiz RS0043728). Gelingt dem Versicherungsnehmer der Beweis der leichten Fahrlässigkeit nicht, so steht ihm nach § 6 Abs 3 VersVG auch bei „schlicht“ vorsätzlicher oder grob fahrlässiger Obliegenheitsverletzung der Kausalitätsgegenbeweis offen. Darunter ist der Nachweis zu verstehen, dass die Obliegenheitsverletzung weder auf die Feststellung des Versicherungsfalls noch auf die Feststellung oder den Umfang der Leistungspflicht des Versicherers einen Einfluss gehabt hat (RIS-Justiz RS0116979). Nur wenn der Versicherungsnehmer eine Obliegenheit mit dem Vorsatz verletzt, die Beweislage nach dem Versicherungsfall zu Lasten des Versicherers zu manipulieren (sogenannter „dolos coloratus“), ist der Kausalitätsgegenbeweis ausgeschlossen und der Anspruch verwirkt (RIS-Justiz RS0081253). Der Kausalitätsgegenbeweis ist strikt zu führen (RIS-Justiz RS0079993). Ob der Kausalitätsgegenbeweis gelungen ist, hängt von den Umständen des Einzelfalls ab.
+Eine Aufklärungsobliegenheit verpflichtet nach ständiger Rechtsprechung den Versicherten, nach Möglichkeit zur Feststellung des Sachverhalts beizutragen und alles Zweckdienliche zur Aufklärung des Schadenereignisses selbst dann vorzunehmen, wenn es seinen eigenen Interessen zum Nachteil gereichen sollte (RIS-Justiz RS0080972). Damit sollen nicht nur die nötigen Feststellungen über den Ablauf, die Verantwortlichkeit der Beteiligten und den Umfang des erlittenen Schadens ermöglicht, sondern auch die Klarstellung aller Umstände gewährleistet werden, die für allfällige Regressansprüche des Versicherers von Bedeutung sein können (RIS-Justiz RS0081010). Der Versicherer soll ganz allgemein in die Lage versetzt werden, sachgemäße Entscheidungen über die Behandlung des Versicherungsfalls zu treffen. Für den Vorsatz im Sinn des § 6 Abs 3 VersVG genügt das allgemeine Bewusstsein, dass der Versicherungsnehmer bei der Aufklärung des Sachverhalts nach besten Kräften mitzuwirken hat (RIS-Justiz RS0080477).
+Die Rechtsansicht des Berufungsgerichts, dass dem Kläger der Kausalitätsgegenbeweis nicht gelungen sei, ist im Einzelfall nicht zu beanstanden. Auch mit den vom Kläger hergestellten Fotografien kann der durch den Schaden verursachte Zustand, der vom Kläger komplett verändert wurde, bevor er dem Versicherer eine Besichtigung ermöglichte, nicht mehr zweifelsfrei rekonstruiert werden. Die von ihm angefertigten Fotografien lassen etwa keinen eindeutigen Aufschluss darüber zu, ob der Ausschlussgrund nach Art 15.4.7 (Holzfäule, Vermorschung oder Schwammbildung) vorlag oder nicht. Ebenso lässt sich nicht mehr zweifelsfrei erkennen, ob die durchgeführten Reparaturen notwendig waren.
+Damit kommt es auf die anderen geltend gemachten Rechtsfragen nicht an.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO. Die Revisionsbeantwortung wies auf die Unzulässigkeit der Revision hin.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0070OB00098.14H.0625.000

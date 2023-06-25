@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.10.2022
+Geschäftszahl
+8Ob132/22b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die Hofräte Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei A* G*, vertreten durch Gottgeisl & Leinsmer Weber Rechtsanwälte GmbH in Wien, gegen die beklagte Partei N*, vertreten durch Dr. Fabian Maschke, Rechtsanwalt in Wien, wegen 12.560 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 9. August 2022, GZ 22 R 153/22m-17, mit dem das Urteil des Bezirksgerichts Zell am See vom 10. Mai 2022, GZ 16 C 476/21k-13, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Einleitung eines Vorabentscheidungsverfahrens beim Gerichtshof der Europäischen Union wird zurückgewiesen.
+2. Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 939,24 EUR (darin 156,54 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+[1] 		Die Beklagte, eine Limited nach maltesischem Recht, bietet ua in Österreich Online-Glücksspiele an. Sie verfügt über eine maltesische Konzession, aber nicht über eine Konzession nach dem österreichischen GSpG.
+[2] 		Der Kläger erlitt bei Online-Glücksspielen der Beklagten, deren Ergebnis ausschließlich oder überwiegend vom Zufall abhängt, von März bis Juli 2021 nach Abzug ausgezahlter Gewinne einen Verlust in Höhe des Klagsbetrags.
+[3] 		Das Erstgericht gab dem auf Rückzahlung des Verlusts gerichteten Klagebegehren statt.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung und wies den Antrag der Beklagten auf Einleitung eines Vorabentscheidungsverfahrens zurück. Das Urteil des Erstgerichts stehe mit der Judikatur sowohl der österreichischen Höchstgerichte als auch des EuGH in Einklang. Auch die Bestimmung des § 1174 Abs 1 Satz 1 ABGB stehe dem Rückforderungsanspruch nicht entgegen.
+[5] 		Das Berufungsgericht erklärte die ordentliche Revision für zulässig, weil in der zweitinstanzlichen Rechtsprechung deutscher Gerichte neuerdings in Anwendung des § 871 Satz 2 BGB, einer mit § 1174 Abs 1 ABGB vergleichbaren Bestimmung, die Rückforderbarkeit von Spielverlusten verneint worden sei. Der Oberste Gerichtshof habe seit dem Inkrafttreten des Verwaltungsstraftatbestands des § 52 Abs 5 GSpG noch nicht zu dieser über den Einzelfall hinaus bedeutenden Rechtsfrage inhaltlich Stellung genommen.
+[6] 		Die Beklagte strebt mit ihrer auf unrichtige rechtliche Beurteilung gestützten Revision die Abweisung des Klagebegehrens in der Sache, hilfsweise die Aufhebung der angefochtenen Entscheidung an.
+[7] 		Der Kläger begehrt, die Revision als unzulässig zurückzuweisen, jedenfalls aber ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+[8] 		Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+[9] 		1. Es besteht kein verfahrensrechtlicher Anspruch einer Prozesspartei auf Einleitung eines Vorabentscheidungsverfahrens. Ein darauf gerichteter Antrag ist zurückzuweisen (RIS-Justiz RS0058452 [T3]; RS0056514 [T14]).
+[10] 		2. Mit einer geänderten Rechtsprechung Deutscher Gerichte auf Grundlage von in Deutschland geltenden, im inländischen Verfahren aber nicht anzuwendenden Normen kann die Zulässigkeit der Revision nicht begründet werden (RS0126988).
+[11] 		3. Soweit sich die Revision auf eine unrichtige Auslegung des § 1174 Abs 1 Z 1 ABGB durch das Berufungsgericht stützt, weil dieses nicht berücksichtigt habe, dass der Kläger bösgläubig in Kenntnis, zumindest aber fahrlässiger Unkenntnis der fehlenden österreichischen Konzession der Beklagten an Glücksspielen teilgenommen habe, um risikolos spielen zu können, ist die Rechtsrüge nicht gesetzmäßig ausgeführt, weil sie nicht vom festgestellten Sachverhalt ausgeht, dem ein solcher Wissensstand des Klägers nicht zu entnehmen ist.
+[12] 		Zur Argumentation, die Beklagte hätte ihre Dienste gar nicht zur Verfügung gestellt, wenn der Kläger von vornherein bekundet hätte, dass er zwar allfällige Spielgewinne behalten, aber Verluste zurückfordern werde, ist klarzustellen, dass eben dieses, nämlich die Verhinderung des Angebots an nicht konzessioniertem Glücksspiel, gerade den Zweck der einschlägigen Normen bildet. Dass die Beklagte selbstverständlich weiß, dass sie über keine Konzession für das Anbieten von Glücksspiel in Österreich verfügt, stellt sie nicht in Abrede.
+[13] 		4. Die Zulässigkeit der Revision ergibt sich auch nicht aus fehlender aktueller Rechtsprechung zur Anwendung des § 1174 Abs 1 Satz 1 ABGB in Verbindung mit dem in § 52 Abs 5 GSpG normierten verwaltungsstrafrechtlichen Verbot der Teilnahme an nicht konzessionierten Elektronischen Lotterien.
+[14] 		Der Oberste Gerichtshof hat in jüngster Zeit bereits mehrfach ausgesprochen, dass § 1174 Abs 1 Satz 1 ABGB einem bereicherungsrechtlichen Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein verbotenes Online-Glücksspiel nicht entgegensteht, insbesondere weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern, um am Spiel teilzunehmen, und weil ein Belassen der Zahlung dem Zweck des Verbots des konzessionslosen Veranstaltens, Organisierens, Anbietens oder Zugänglichmachens von Glücksspiel widerspräche (RS0016325 [T15]; jüngst 6 Ob 229/21a Rz 20 und 26; 2 Ob 171/22v; 9 Ob 15/22d; 9 Ob 54/22i uva).
+[15] 		Darauf, ob der Kläger durch seine Teilnahme am verbotenen Spiel selbst einen Verwaltungsstraftatbestand erfüllt hat, kommt es nicht an (vgl jüngst 2 Ob 171/22v Rz 3; 9 Ob 54/22i Rz 14).
+[16] 		5. Insgesamt spricht die Revision der Beklagten damit keine entscheidungserhebliche Rechtsfrage iSd § 502 Abs 1 ZPO an.
+[17] 		Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Der Kläger hat in seiner Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen, sodass sein Schriftsatz der zweckentsprechenden Rechtsverfolgung diente (RS0035979 [T22]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00132.22B.1024.000

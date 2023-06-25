@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.09.1951
+Geschäftszahl
+2Ob531/51
+Norm
+EO §8;
+EO §55 Abs2;
+EO §350;
+EO §367 Abs2;
+Kopf
+SZ 24/242
+Spruch
+Nach § 367 Abs. 2 EO. muß die Erbringung der Gegenleistung nicht nur behauptet, sondern bewiesen werden.
+Entscheidung vom 26. September 1951, 2 Ob 531/51.
+I. Instanz: Kreisgericht Ried i. I.; II. Instanz: Oberlandesgericht Linz.
+Text
+Mit dem Urteil vom 30. Juli 1948 war die verpflichtete Partei schuldig erkannt worden, Zug um Zug gegen Bezahlung eines Betrages von 4000 S der betreibenden Partei eine Urkunde auszustellen und darin die Einwilligung zu erteilen, daß bei den der verpflichteten Partei zugeschriebenen ideellen Hälften von Liegenschaften das Eigentumsrecht für die betreibende Partei einverleibt werden könne.
+Das Prozeßgericht bewilligte auf Grund dieses Urteiles gemäß § 350 EO. die Exekution durch bücherliche Einverleibung des Eigentumsrechtes der betreibenden Partei auf den vorangeführten Liegenschaftshälften.
+Das Rekursgericht wies den Exekutionsantrag ab. Zur Begründung seiner Entscheidung führte es an, daß die von der verpflichteten Partei abzugebende Willenserklärung nach § 367 Abs. 2 EO. erst dann als abgegeben anzusehen sei, wenn der betreibende Gläubiger die Gegenleistung bewirkt habe. Die Exekutionsbewilligung nach § 350 EO. sei somit in den Fällen einer Zug um Zug zu erbringenden Gegenleistung nur möglich, wenn die betreibende Partei die Bewirkung der ihr auferlegten Gegenleistung nachweise. Die bloße Behauptung der betreibenden Partei im Exekutionsantrag, daß die Gegenleistung durch die Aufrechnung von Gegenforderungen, die im übrigen nach Art und Höhe gar nicht näher bezeichnet wurden, abgegolten worden sei, könne nicht als Nachweis bezeichnet werden.
+Der Oberste Gerichtshof bestätigte den Beschluß des Rekursgerichtes.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 367 EO. ist eine Ausnahme von § 8 EO. Er findet Anwendung, wenn eine Verpflichtung zur Abgabe einer Willenserklärung von einer Gegenleistung abhängig ist. Das Gesetz verlangt hier Vorausleistung der Gegenleistung (vgl. Pollak, System des österreichischen Zivilprozeßrechtes, S. 1027). Die Exekution nach den §§ 350, 367 EO. besteht in der gesetzlichen Fiktion, die Willenserklärung sei abgegeben. Wenn nun aber nach § 367 Abs. 2 EO. diese Fiktion erst mit der Bewirkung der Gegenleistung durch den betreibenden Gläubiger eintritt, dann ist es nicht möglich, daß das Gericht vor Bewirkung der Gegenleistung die Exekution bewilligt und nur mit deren Vollzug innehält. Hieraus folgt, daß die betreibende Partei schon bei Stellung des Exekutionsantrages dem Gericht den Nachweis der Zahlung oder der gerichtlichen Hinterlegung erbringen muß (vgl. Ev.Bl. Nr. 614/46). Die bloße Behauptung, die Zug-um-Zug-Leistung sei durch Gegenforderungen im Aufrechnungswege abgegolten, genügt nicht. Die betreibende Partei kann auch vom Gericht nicht verlangen, daß es ein Verfahren zur Feststellung der behaupteten Tatsache der erbrachten Gegenleistung durchführe, denn nach § 55 Abs. 2 EO. ist es Pflicht des betreibenden Gläubigers, alle für die von ihm beantragte gerichtliche Entscheidung wesentlichen Umstände dem Gericht nachzuweisen; dem Gericht ist es prinzipiell verwehrt, die verpflichtete Partei über den Antrag auf Bewilligung der Exekution einzuvernehmen.

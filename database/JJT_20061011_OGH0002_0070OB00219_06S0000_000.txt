@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.10.2006
+Geschäftszahl
+7Ob219/06s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofes Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei Dr. Reinhard K*****, vertreten durch Hopmeier & Wagner Rechtsanwälte OEG in Wien, gegen die beklagte Partei Dkfm Dr. Herbert W*****, vertreten durch Grohs Hofer Rechtsanwälte Gesellschaft m.b.H. in Wien, wegen EUR 77.238,72 sA, über die außerordentliche Revision des Klägers (Revisionsinteresse EUR 69.971,44) gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 22. Juni 2006, GZ 1 R 99/06w-17, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Mit welcher von zwei im selben Haus niedergelassenen Gesellschaften, deren Firma sich im Wesentlichen nur durch die Angabe der Gesellschaftsform (GmbH bzw S.A.) unterscheidet, ein Vertrag zustandegekommen ist, hängt von den Umständen des Einzelfalles ab. Dies stellt daher keine erhebliche Rechtsfrage im Sinne des § 502 Abs 1 ZPO dar, es sei denn, dem Berufungsgericht wäre eine Fehlbeurteilung unterlaufen, die aus Gründen der Rechtssicherheit vom Obersten Gerichtshof korrigiert werden müsste.
+Das trifft hier aber nicht zu: Nur der Unternehmensgegenstand der S.A., nicht aber jener der GmbH umfasst die Verwahrung von Aktien. Zudem kam es dem Kläger, der von der Existenz zweier Gesellschaften gar nichts wusste, nur auf den Geschäftszweck und nicht darauf an, entweder mit der einen oder der anderen Gesellschaft zu kontrahieren. Unter diesen Umständen ist die Rechtsansicht der Vorinstanzen, der Vertrag sei, auch wenn das Bestätigungsschreiben (offenbar irrtümlich) auf Geschäftspapier der GmbH verfasst wurde, mit der S.A. zustandegekommen, zumindest vertretbar.
+Da schon deshalb eine Haftung des Beklagten als Geschäftsführer (und [Minderheits-]Gesellschafter) der GmbH nicht in Betracht kommt, müssen auch die sehr umfangreichen Ausführungen des Revisionswerbers zum Problemkreis der Haftung des Geschäftsführers gegenüber Gläubigern der Gesellschaft ins Leere gehen. Im Übrigen steht die Rechtsansicht der Vorinstanzen, für den Kläger wäre auch dann nichts gewonnen, wenn man annehmen könnte, der Verwahrungsvertrag sei mit der GmbH zustandegekommen, mit gesicherter oberstgerichtlicher Judikatur in Einklang. Danach haftet der Geschäftsführer in der Regel nur der GmbH. Eine unmittelbare Haftung gegenüber Gesellschaftsgläubigern besteht außer in den - hier nicht relevanten - Fällen der §§ 56 Abs 3 und 64 Abs 2 GmbHG nur nach den allgemeinen Grundsätzen der deliktischen Haftung (Kostner/Umfahrer, GmbH5 Rn 281;
+Koppensteiner Komm GmbH-Gesetz2 § 25 Rz 34; Reich-Rohrwig, GmbH-Recht
+I2 Rz 2/441, jeweils mwN). Für die Nichteinhaltung von Verträgen, die
+die GmbH binden, haftet der Geschäftsführung dem geschädigten Dritten
+grundsätzlich nicht, sofern nicht dem Gläubiger aus dem Vertrag mit
+der GmbH eine besonders geschützte Rechtsstellung erwächst, sodass
+die Vertragsverletzung zugleich einen Eingriff in absolut geschützte
+Rechtsgüter des Gläubigers darstellt (zB Verkauf einer fremden Sache,
+für die ein Aussonderungsanspruch besteht), oder wenn die
+Vertragsverletzung eine vorsätzliche sittenwidrige Schädigung des
+Dritten darstellt (Reich-Rohrwig aaO Rz 2/495 mit zahlreichen
+Judikaturnachweisen in den FN 516 bis 520). (Nur) im letzteren Fall
+besteht die Haftung des Geschäftsführers auch für bloße
+Vermögensschäden (ecolex 1992, 707 = RdW 1992, 403 = GesRZ 1993, 164
+= WBl 1992, 333; GesRZ 1993, 166 = WBl 1993, 329; ecolex 1995, 901;
+vgl RdW 1992, 142).
+Auch das Unterlassen vorvertraglicher Aufklärungspflichten kann nach herrschender Meinung die Eigenhaftung des handelnden Geschäftsführers zur Folge haben, wenn dieser ein persönliches, die Vertragsverhandlungen beeinflussendes Vertrauen des Vertragspartners in Anspruch genommen hat (Kostner/Umfahrer, aaO Rz 287 mwN). Das Bestehen eines erheblichen unmittelbaren wirtschaftlichen Eigeninteresses am Vertragsabschluss kann eine solche Eigenhaftung in diesem Fall ebenfalls begründen (Kostner/Umfahrer aaO mwN). Da nach den vom Erstgericht getroffenen und vom Berufungsgericht sämtlich gebilligten Sachverhaltsfeststellungen diese Haftungsvoraussetzungen nicht verwirklicht sind, entspricht auch die Verneinung einer Geschäftsführer-Haftung des Beklagten gesicherter oberstgerichtlicher Judikatur.
+Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.12.2020
+Geschäftszahl
+2Ob172/20p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Dr. G***** H*****, Rechtsanwalt, *****, gegen die beklagte Partei H***** Versicherung AG, ***** vertreten durch Dr. Hanns Christian Baldinger, Rechtsanwalt in Wien, wegen zuletzt 133.217,71 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 5. August 2020, GZ 15 R 66/20s-50, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Lenker eines bei der beklagten Partei haftpflichtversicherten PKW kollidierte bei Nacht auf einer Freilandstraße mit vier Pferden (Poloponys) des Klägers, die zeitnah davor aus dessen Koppel entlaufen waren. Dadurch wurden drei der Pferde getötet, das vierte Pferd musste aufgrund seiner Verletzungen eingeschläfert werden.
+[2] 		Die Vorinstanzen gaben dem Schadenersatzbegehren des Klägers großteils statt. Sie gingen von einem Alleinverschulden des PKW-Lenkers am Unfall aus.
+[3] 		Die dagegen gerichtete außerordentliche Revision der beklagten Partei zeigt keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+Rechtliche Beurteilung
+[4] 		1. Nach ständiger Rechtsprechung hängt das Maß der Sorgfaltspflichten bei Verwahrung und Beaufsichtigung durch den Tierhalter immer von den Umständen des Einzelfalls ab und wirft daher in der Regel keine erhebliche Rechtsfrage auf (RS0030567; RS0030157). Welche Maßnahmen im Einzelfall notwendig sind, richtet sich nach den dem Tierhalter bekannten oder erkennbaren Eigenschaften des Tieres und den jeweiligen Umständen (RS0030058).
+[5] 		2. Für die Verwahrung von Pferden in einer Koppel in Straßennähe wurde zwar ein 1,10 m hoher Zaun als nicht ausreichend beurteilt (RS0030100; vgl auch 2 Ob 15/82). Ob der im vorliegenden Fall ohnehin zumindest 1,28 m hohe stabile Holzzaun für die Verwahrung der Poloponys des Klägers ausreichend war, muss aber mangels Kausalität nicht beurteilt werden. Denn die Pferde entwichen nicht über den Zaun aus der Koppel, sondern weil (unbekannt gebliebene) Unbefugte die oberste der einen selten benützten Zugang versperrenden Querlatten in der Dunkelheit entfernt und die Pferde herausgetrieben hatten.
+[6] 		3. Die Verwahrung eines Tieres in unmittelbarer Nähe einer stark frequentierten Straße muss besonders sorgfältig erfolgen (RS0030107). Dabei kann zwar auch das Abschließen von Weidetoren erforderlich sein, wenn der Halter mit deren Benützung durch Dritte rechnen musste (2 Ob 19/93 [Wanderer, Motorradfahrer]; 5 Ob 509/81 [Wegbenützer]; vgl RS0030418). Der Oberste Gerichtshof hat aber zur Verwahrung von Pferden auf Koppeln auch in diesem Fall etwa selbstschließende (aber nicht versperrte) Gattertore als ausreichend erachtet (5 Ob 509/81).
+[7] 		Im vorliegenden Fall wurde die Koppel nicht von dritten Personen benützt. Der Zugang bestand auch nicht zu diesem Zweck und konnte nur durch Entfernung der Querlatten geöffnet werden. Zwar entkamen zwei Jahre vor dem gegenständlichen Vorfall ebenfalls aufgrund eines Sabotageakts eines unbefugten Dritten, der bei einer anderen Koppel des Klägers ein Tor geöffnet hatte, dort Pferde. Mit seiner Ansicht, der Kläger sei trotz dieses bereits längerer Zeit zurückliegenden Vorfalls seiner Verwahrungspflicht im konkreten Fall ausreichend nachgekommen, weil er mit dem Heraustreiben der Pferde aus der Koppel durch einen unbefugten Dritten nicht rechnen habe müssen, hat das Berufungsgericht den ihm zukommenden Beurteilungsspielraum nicht überschritten.
+[8] 		4. Auf die Feststellung, er habe trotz sofortiger Reaktion die Kollision mit den Pferden nicht verhindern können, kann die beklagte Partei ein fehlendes Verschulden des PKW-Lenkers am Unfall nicht erfolgreich stützen. Denn die Vorinstanzen haben ihm eine Verletzung des Fahrens auf Sicht (§ 20 Abs 1  StVO) zur Last gelegt, weil er bei eingeschaltetem Abblendlicht mit einer überhöhten Geschwindigkeit von 93 km/h fuhr (vgl 2 Ob 11/85). Wäre er bei Verwendung des Abblendlichts auf Sicht, also mit maximal 60 km/h gefahren, hätte er nach den Feststellungen die Kollision mit den langsam auf die Fahrbahn tretenden oder sich dort bereits beinahe im Stillstand befundenen Pferden verhindern können. Eine erhebliche Rechtsfrage zeigt die Revisionswerberin somit auch in diesem Punkt nicht auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00172.20P.1218.000

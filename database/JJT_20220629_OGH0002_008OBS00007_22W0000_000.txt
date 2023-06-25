@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.2022
+Geschäftszahl
+8ObS7/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner und den Hofrat Dr. Stefula als weitere Richter sowie die fachkundigen Laienrichter Mag. Wolfram Hitz (aus dem Kreis der Arbeitgeber) und Mag. Philipp Brokes (aus dem Kreis der Arbeitnehmer) in der Sozialrechtssache der klagenden Partei U* B*, vertreten durch Orsini und Rosenberg & Striessnig Rechtsanwälte OG in Wien, gegen die beklagte Partei IEF-Service GmbH, 1150 Wien, Linke Wienzeile 246, wegen 37.006 EUR sA (Insolvenz-Entgelt), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. April 2022, GZ 8 Rs 106/21y-11, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der anspruchsberechtigte Personenkreis nach § 1 Abs 1 IESG stellt ua auf Arbeitnehmer und insoweit auf den Arbeitnehmerbegriff des Arbeitsvertragsrechts ab. Wurden durch den Arbeitnehmer überwiegend Arbeitgeberfunktionen ausgeübt, ist eine Arbeitnehmereigenschaft nicht gegeben (RIS-Justiz RS0076462). Unternehmerische Tätigkeit im Sinn erheblicher rechtlicher und faktischer Einflussmöglichkeiten auf die Willensbildung eines Unternehmens ist nicht vom Schutzbereich des IESG erfasst (8 ObS 3/14w).
+[2] 		Bereits in der Entscheidung 8 ObS 8/13d hat der Oberste Gerichtshof zu einem geschäftsführenden Gesellschafter ausgesprochen, dass es für die Abgrenzung zwischen einem freien Dienstnehmer und einem Unternehmer nur auf die wirtschaftliche Bestimmungsbefugnis ankommen könne. Wenn dem Geschäftsführer selbst ein erheblicher, selbstbestimmter Einfluss auf die Willensbildung in der Generalversammlung zukomme, sei es auch nur rein faktisch, und sich sein Handeln nicht primär als Verwaltung fremden Gesellschaftsvermögens im Interesse der Gesellschafter, sondern als unternehmerische Tätigkeit unter Verfolgung eigener Vorstellungen und wirtschaftlicher Interessen darstelle, sei er weder Arbeitnehmer noch freier Dienstnehmer im arbeitsrechtlichen Sinn. Die Übernahme des unternehmerischen Risikos spreche als wesentlicher Aspekt für die Arbeitgeberstellung und gegen ein (auch nur freies) Dienstverhältnis.
+[3] 		Die Beantwortung der Frage, ob ein Geschäftsführer als (freier) Dienstnehmer oder unternehmerisch tätig war, hängt typischerweise von den Umständen des Einzelfalls ab. Sie ist im Revisionsverfahren nur dann überprüfbar, wenn im Interesse der Rechtssicherheit ein grober Fehler bei der Auslegung der anzuwendenden Rechtsnorm korrigiert werden müsste.
+[4] 		Die Entscheidung des Berufungsgerichts steht mit den dargestellten Grundsätzen der Rechtsprechung im Einklang. Soweit die außerordentliche Revision davon ausgeht, dass die Klägerin wenigstens in früheren Jahren in ihrer Rolle als Gesellschafter-Geschäftsführerin in persönlicher Abhängigkeit wie eine Arbeitnehmerin agiert habe, verlässt sie den Boden des bindend festgestellten Sachverhalts. Eine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO wird damit nicht angesprochen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBS00007.22W.0629.000

@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.07.2011
+Geschäftszahl
+6Ob123/11y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei A***** S*****, vertreten durch Dr. Peter Selemond und andere, Rechtsanwälte in Innsbruck, gegen die beklagte Partei R***** GmbH, *****, vertreten durch Czernich Haidlen  Guggenberger & Partner  Rechtsanwälte in Innsbruck, wegen 33.116,81 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 4. Mai 2011, GZ 1 R 86/11y-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Revisionswerber releviert als erhebliche Rechtsfrage, es existiere keine Rechtsprechung des Obersten Gerichtshofs und auch nicht des deutschen Bundesgerichtshofs zur Frage, ob das von der Beklagten gelieferte Notleuchtensystem eine Sache ist, die entsprechend ihrer üblichen Verwendungsweise für ein Bauwerk verwendet worden ist und dessen Mangelhaftigkeit verursacht hat, sodass beim hier anzuwendenden deutschen Recht gemäß § 438 Abs 1 Z 2 lit b BGB die 5-jährige Verjährungsfrist (statt der von den Vorinstanzen angenommenen 2-jährigen Verjährungsfrist gemäß § 438 Abs 1 Z 3 BGB) anzuwenden sei.
+Eine erhebliche Rechtsfrage wird dadurch aber nicht aufgezeigt: Wird eine Rechtsfrage über die Auslegung einer ausländischen Norm, die bisher noch keinen Entscheidungsniederschlag im Heimatstaat gefunden hat, zum ersten Mal an den Obersten Gerichtshof Österreichs herangetragen, so ist es nicht Aufgabe dieses Höchstgerichts, einen Beitrag zur Auslegung ausländischen Rechts zu liefern (RIS-Justiz RS0042948 [T10]).
+Selbst wenn im Sinne des Revisionswerbers gemäß § 438 Abs 1 Z 2 lit b BGB die 5-jährige Verjährungsfrist betreffend Mängel der Sache anzuwenden wäre, wäre damit für den Revisionswerber nichts gewonnen: Nach den Feststellungen wurde das Notleuchtensystem am 18. 7. 2005 geliefert. Am 2. 8. 2005 wurde außerdem die Inbetriebnahmeanleitung übermittelt. Auch die im September 2007 vom Kläger bei der Beklagten bestellten 117 Stück Überwachungsbausteine wurden geliefert und vom Kläger übernommen.
+Hat der Gläubiger eine ihm als Erfüllung angebotene Leistung als Erfüllung angenommen, so trifft ihn nach § 363 BGB die Beweislast, wenn er die Leistung deshalb nicht als Erfüllung gelten lassen will, weil sie eine andere als die geschuldete Leistung oder weil sie unvollständig gewesen sei.
+Nach dieser Bestimmung trifft daher den Kläger der Beweis, dass der Mangel der Überwachungsfunktion eine Unvollständigkeit der Leistung der Beklagten darstellt (Wenzel in MünchKomm BGB5 § 363 Rz 1 ff, insb 4;  Dennhardt, Beck-Online BGB § 363 Rz 4; vgl auch Stürner in Jauernig, BGB13 § 363 Rz 2). Der Gewährleistungsberechtigte ist nach der Rechtsprechung des BGH selbst dann noch beweisbelastet iSd § 363 BGB, wenn bereits eine Nachbesserung erfolgte (vgl BGH NJW 2009, 1341 = VIII ZR 274/07; zust Dennhardt, Beck-Online BGB § 363 Rz 4). Nach hM ist auch eine mangelhafte Leistung eine unvollständige Leistung iSd § 363 BGB (Wenzel in MünchKomm BGB5 § 363 Rz 4).  Der Käufer muss daher den Mangel beweisen, wenn er die Sache angenommen hat, die Gefahr also auf ihn übergegangen ist. Die Beweislastumkehr kann sich je nach Lage des Falls auch auf die Mitlieferung von Zubehör erstrecken (Wenzel aaO).
+Nach den Feststellungen des Erstgerichts kann jedoch die genaue Ursache dieser Fehlfunktion nicht festgestellt werden. Unter den vom Erstgericht festgestellten vier möglichen Ursachen für die Fehlfunktion sind auch solche, die nicht von der Beklagten als Lieferantin der Elemente zu vertreten sind. Dem Kläger ist daher der Beweis der Mangelhaftigkeit der Sache gemäß § 363 BGB nicht gelungen.

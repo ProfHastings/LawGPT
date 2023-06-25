@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.1977
+Geschäftszahl
+3Ob76/77
+Norm
+ABGB §1262;
+KO §1;
+KO §176;
+Kopf
+SZ 50/131
+Spruch
+Trotz bestandener Gütergemeinschaft zwischen einem Gemeinschuldner und dessen Ehegattin ist eine gegen diese beantragte Fahrnisexekution zu bewilligen; nur bei Pfändung von zum Gemeinschaftseigentum gehörigen Fahrnissen kann der Masseverwalter Widerspruch erheben
+OGH 18. Oktober 1977, 3 Ob 76/77 (KG Ried im Innkreis R 102/77; BG Engelhartszell E 117/77)
+Text
+Mit Beschluß vom 15. Feber 1977 bewilligte das Erstgericht auf Grund eines gegen die Verpflichtete am 3. November 1976 ergangenen vollstreckbaren Versäumungsurteiles die von der betreibenden Partei beantragte Fahrnisexekution. Noch vor Zustellung dieser Exekutionsbewilligung zur Hereinbringung einer Forderung von 60 000 S und 800 S je samt Anhang an die Verpflichtete erhob der Masseverwalter im Konkurs über das Vermögen des Ehegatten der Verpflichteten Rekurs mit der Begründung, infolge der zwischen ihm und der Verpflichteten bestehenden Gütergemeinschaft unter Lebenden sei auch das Vermögen der Verpflichteten in die Konkursmasse des mit Beschluß des Kreisgerichtes Ried im Innkreis vom 21. Oktober 1975, S 10/75, eröffneten Konkurses über das Vermögen des Ehegatten einzubeziehen; die vom Erstrichter bewilligte Exekution sei daher unzulässig, allenfalls könne sie lediglich gemäß §§ 331 ff. EO geführt werden.
+Mit dem angefochtenen Beschluß wies das Rekursgericht infolge dieses Rekurses den Exekutionsantrag der betreibenden Partei ab. Es führte im wesentlichen aus, sowohl dem Erstgericht als auch dem Rekursgericht sei bekannt, daß zwischen dem Gemeinschuldner und der Verpflichteten eine allgemeine Gütergemeinschaft unter Lebenden besteht, daher auch das Vermögen der Verpflichteten konkursverfangen sei und ihr kein Verfügungsrecht darüber zustehe; eine Exekution auf das Vermögen der Verpflichteten sei daher unzulässig.
+Über den Revisionsrekurs der betreibenden Partei änderte der Oberste Gerichtshof den Beschluß des Rekursgerichtes dahin ab, daß der Rekurs des Masseverwalters im Konkurs über das Vermögen des Ehegatten der Verpflichteten gegen den erstgerichtlichen Beschluß zurückgewiesen wurde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Rekursgericht hat übersehen, daß die Konkursmasse durch die mit dem erstgerichtlichen Beschluß erfolgte Exekutionsbewilligung nicht beschwert sein kann, weil auf Grund dieser Exekutionsbewilligung nur die im Alleineigentum der Verpflichteten stehenden (pfändbaren) Fahrnisse gepfändet und verwertet werden können. Das Vorhandensein derartiger Fahrnisse ist im Hinblick auf den § 1262 ABGB, wonach die gegenständliche Gütergemeinschaft mit 21. Oktober 1975 erloschen ist, durchaus denkbar. Denn das von der Verpflichteten etwa nach Konkurseröffnung erworbene Vermögen fällt nicht in die Konkursmasse (ebenso Weiß in Klang[2] V, 966 u. a.). Eine Exekutionsführung auf derartige Fahrnisse berührt die Interessenssphäre der Konkursmasse und damit des Masseverwalters überhaupt nicht. Falls jedoch auf Grund der von der betreibenden Partei beantragten Exekutionsbewilligung Gegenstände gepfändet werden sollten, welche Gemeinschaftseigentum der Ehegatten und deshalb konkursverfangen sind, könnte der Masseverwalter gegen die erfolgte Pfändung Widerspruch erheben (vgl. Heller - Berger - Stix, 456; JB 35 neu u. v. a.).

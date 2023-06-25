@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.01.2023
+Geschäftszahl
+4Ob180/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei *fonds, *, vertreten durch die Vavrovsky Heine Marth Rechtsanwälte GmbH in Wien, gegen die beklagte Partei v* AG, *, Schweiz, vertreten durch Braunsberger-Lechner & Loos Rechtsanwälte in Steyr, wegen Unterlassung (90.000 EUR) und Urteilsveröffentlichung (20.000 EUR) über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Juni 2022, GZ 2 R 50/22w-36, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger veranstaltet die * Festspiele und ist Inhaber einer Wortbildmarke mit dem Wortlaut „* Festspiele“.
+[2] 		Die Beklagte betreibt eine Internetplattform, auf der Veranstaltungstickets auf dem Sekundärmarkt gehandelt werden.
+[3] 		Die Vorinstanzen untersagten der Beklagten – zunächst mit einstweiliger Verfügung, nun mit Urteil –
+1. den Verkauf von Eintrittskarten für abgesagte Veranstaltungen und/oder von noch nicht ausgegebenen Eintrittskarten für Veranstaltungen der * Festspiele zu ermöglichen;
+2. die Marktteilnehmer über die von ihren Usern angebotenen Festspielkarten dadurch irrezuführen, dass sie
+a. die Identität der User nicht offenlegt;
+b. die Ticketart als personalisierte Tickets nicht offenlegt;
+3. die Bezeichnung „* Festspiele“ ohne Zustimmung des Klägers zu verwenden;
+und gaben den Urteilsveröffentlichungsbegehren zu 2. und 3. statt.
+[4] 		Die gegen das Urteil erhobene außerordentliche Revision der Beklagten zeigt keine erhebliche Rechtsfrage auf und ist somit unzulässig.
+Rechtliche Beurteilung
+[5] 		1. Die Beklagte argumentiert, dass sie nicht als Gehilfin der Marktplatz-User hafte, weil sie keine positive Kenntnis von deren Rechtsverletzungen durch falsche Angaben zur Gültigkeit der Tickets gehabt habe, und diese auch nicht gefördert habe. Außerdem komme ihr das Host-Provider-Privileg nach § 16 ECG zu Gute.
+[6] 		Dabei übersieht die Beklagte jedoch, dass sie laut dem festgestellten Sachverhalt den Ticketkäufern auch selbst unrichtige Informationen erteilte. Sie teilte diesen per E-Mail nämlich fälschlich mit, dass tatsächlich abgesagte Veranstaltungen nur verschoben worden wären und dass die Personalisierung der Tickets auf einen fremden Namen keinen Einfluss auf den Einlass zu den Veranstaltungen hätte.
+[7] 		Sie übernahm also entgegen ihrer Argumentation nicht nur die Rolle eines Host-Providers im Sinn des ECG, sondern trug durch aktives Tun selbst dazu bei, bei Ticketkäufern Fehlvorstellungen auszulösen oder diese zu verstärken.
+[8] 		2. Auch die Argumentation der Beklagten, sie habe die Marke des Klägers beim Keyword Advertising nur beschreibend genutzt, und gerade keinen Eindruck eines wirtschaftlichen oder organisatorischen Zusammenhangs erweckt, geht nicht von den Feststellungen aus.
+[9] 		Nach diesen vertreibt der Kläger die Tickets zu seinen Veranstaltungen ausschließlich selbst oder durch autorisierte Kartenbüros. Er untersagt in seinen AGB ausdrücklich das öffentliche Anbieten von Tickets zum Weiterverkauf, insbesondere auch über Internetmarktplätze.
+[10] 		Durch die Verwendung der für den Kläger registrierten Marke als Schlüsselwort beim Keyword Advertising und als eigene Ticketkategorie auf der Internetplattform sowie die von ihr an Käufer versendeten Mails, dass sie die Ticketausstellung durch den Kläger nicht beschleunigen könne, erweckt die Beklagte deshalb sehr wohl den Eindruck, Teil des vom Kläger autorisierten selektiven Vertriebssystems zu sein.
+[11] 		3. Schließlich moniert die Beklagte, dass eine Urteilsveröffentlichung nicht geboten sei, weil die abgesagten Festspiele 2020 schon länger zurückliegen würden. Jedenfalls würden die Vorinstanzen im Zusammenhang mit der Urteilsveröffentlichung in korrekturbedürftiger Weise von der ständigen Rechtsprechung zum Talionsprinzip abweichen. Eine Veröffentlichung auf der Website der Beklagten sei jedenfalls ausreichend, die in Printmedien in Österreich, Deutschland und der Schweiz angeordnete Veröffentlichung sei überschießend.
+[12] 		Der Frage, ob und in welchem Umfang eine Urteilsveröffentlichung nach den Umständen des Falls zur Aufklärung des Publikums geboten ist, kommt abgesehen von einer – hier nicht gegebenen – korrekturbedürftigen Fehlbeurteilung keine erhebliche Bedeutung zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung zu (RS0042967; RS0079820 [T20]).
+[13] 		Zweck der Urteilsveröffentlichung (§ 25 UWG) ist es, unlautere Wettbewerbshandlungen in der Öffentlichkeit aufzudecken und die beteiligten Verkehrskreise über die wahre Sachlage aufzuklären. Sie dient insbesondere auch dazu, ehemalige Vertragspartner der Beklagten über die Rechtswidrigkeit einzelner Geschäftspraktiken aufzuklären. Dadurch werden diese Kunden nicht nur vor neuerlichen Vertragsabschlüssen aufgrund ähnlicher Praktiken gewarnt, sondern auch in die Lage versetzt, allfällige Rückforderungsansprüche geltend zu machen. Diese ehemaligen Vertragspartner werden in vielen Fällen – verärgert über die Geschäftspraktiken der Beklagten – gerade nicht auf deren Internetseiten zurückkehren. Damit ist laut der jüngeren Rechtsprechung nur durch die Veröffentlichung des Urteils auch in Printmedien sichergestellt, dass ehemalige Kunden der Beklagten erreicht werden können (vgl 4 Ob 18/08p Pkt 3 mwN; undifferenzierter noch 4 Ob 219/03i Pkt 2; vgl auch RS0123550).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00180.22G.0131.000

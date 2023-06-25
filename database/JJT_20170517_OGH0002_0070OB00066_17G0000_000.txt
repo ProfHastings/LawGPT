@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.05.2017
+Geschäftszahl
+7Ob66/17g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Mag. Dr. J***** E***** K*****, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Rudolf Deitzer, Rechtsanwalt in Wien, wegen 5.120,41 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. Jänner 2017, GZ 60 R 56/16i-26, mit dem das Urteil des Bezirksgerichts für Handelssachen Wien vom 21. Juni 2016, GZ 13 C 526/15w-19, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Text
+Begründung:
+Der Kläger begehrt aus einer bei der Beklagten bestehenden Gruppenversicherung die Erstattung von Kosten für Heilmittel, die teils ihm selbst, teils seinem mitversicherten Sohn verschrieben wurden. Von dem vom Kläger zuletzt insgesamt begehrten Kapitalbetrag von 5.120,41 EUR entfallen (zumindest) 389,61 EUR auf Heilmittel, die dem Sohn des Klägers verschrieben wurden.
+Das Erstgericht verpflichtete die Beklagte zur Zahlung von 1.364,16 EUR sA betreffend ein dem Kläger verschriebenes Heilmittel und wies das Mehrbegehren auf Zahlung weiterer 3.756,25 EUR sA ab.
+Das Berufungsgericht gab den von beiden Parteien erhobenen Berufungen nicht Folge. Es sprach aus, dass die Revision zur Klärung einer näher bezeichneten Auslegungsfrage zulässig sei.
+Rechtliche Beurteilung
+Die vom Kläger erhobene Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts jedenfalls unzulässig:
+1. Gemäß § 502 Abs 2 ZPO ist die Revision jedenfalls unzulässig, wenn der Streitgegenstand, über den das Berufungsgericht entschieden hat, an Geld oder Geldeswert 5.000 EUR nicht übersteigt. In diesem Fall ist der Ausspruch des Gerichts zweiter Instanz über die Zulässigkeit der Revision wirkungslos (vgl 7 Ob 229/16a; 1 Ob 205/14z; RIS-Justiz RS0043025 [T10]).
+2. Werden in einer Klage mehrere Forderungen geltend gemacht, so bilden sie nur dann einen einheitlichen Streitgegenstand, wenn die Voraussetzungen der Zusammenrechnung nach § 55 Abs 1 JN erfüllt sind. Diese Regelung gilt auch für Rechtsmittelverfahren (§ 55 Abs 4 JN) und damit für den Entscheidungsgegenstand (RIS-Justiz RS0053096; RS0037838 [T38]).
+3. Ein tatsächlicher Zusammenhang liegt vor, wenn die Ansprüche aus demselben Klagesachverhalt abgeleitet werden können, wenn also das für einen Anspruch erforderliche Sachvorbringen ausreicht, um auch über den anderen Anspruch ohne ergänzendes weiteres Sachvorbringen entscheiden zu können (RIS-Justiz RS0042766). Ein rechtlicher Zusammenhang liegt etwa dann vor, wenn die Ansprüche aus demselben Vertrag oder derselben Rechtsnorm abgeleitet werden. Dies gilt jedoch dann nicht, wenn jeder der mehreren Ansprüche ein ganz verschiedenes rechtliches und tatsächliches Schicksal haben kann (RIS-Justiz RS0037648 [T11 und T20]); in einem solchen Fall ist jeder Anspruch gesondert zu beurteilen, ohne dass eine Zusammenrechnung stattfände.
+4. Der Kläger stützt sein Klagebegehren auf einen bestimmten Gruppenversicherungsvertrag. Allerdings betrifft sein Begehren den Ersatz von Heilmitteln, die teils dem Kläger selbst, teils seinem Sohn verschrieben wurden. Vom zuletzt geltend gemachten Kapitalbetrag von 5.120,41 EUR entfallen (zumindest) 389,61 EUR auf Heilmittel, die dem Sohn des Klägers verschrieben wurden. Demnach übersteigt weder der die Behandlungskosten des Klägers betreffende Teil noch jener für Behandlungskosten seines Sohnes den Betrag von 5.000 EUR. Dass diese Begehren (sogar wenn sie ein und denselben Versicherten betreffen) ein unterschiedliches rechtliches Schicksal haben können, machen schon die Entscheidungen der Vorinstanzen deutlich, hängt doch die rechtliche Beurteilung (ua) davon ab, ob es sich bei den betreffenden Heilmitteln um „(nicht) registrierte Arzneimittel“ handelt. Da schon eine Zusammenrechnung der den Kläger einerseits und seinen Sohn andererseits betreffenden Kosten für unterschiedliche Heilmittel ausgeschlossen ist, erweist sich die Revision zufolge § 502 ZPO als jedenfalls unzulässig und ist daher zurückzuweisen.
+5. Die Entscheidung über die Kosten der Revisionsbeantwortung gründet auf §§ 40, 50 ZPO. Die Beklagte hat auf den maßgeblichen Rechtsmittelausschluss nicht hingewiesen und muss deshalb die Kosten ihrer nicht der zweckentsprechenden Rechtsverfolgung dienenden Revisionsbeantwortung selbst tragen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00066.17G.0517.000

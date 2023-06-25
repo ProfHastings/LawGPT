@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.05.2021
+Geschäftszahl
+4Ob91/21t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei S*****, AKTIENGESELLSCHAFT, *****, vertreten durch Dr. Tobias Mitterauer, Rechtsanwalt in Salzburg, gegen die beklagten Parteien 1. L***** P*****, 2. A***** P*****, beide *****, 3. M***** R***** und 4. T***** P*****, alle vertreten durch Dr. Klaus Plätzer, Rechtsanwalt in Salzburg, wegen 40.894,47 EUR sA, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 25. März 2021, GZ 3 R 28/21i-40, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das klagende Kreditunternehmen schloss mit dem Vater der Beklagten drei Abstattungskreditverträge und einen Kontokorrentkredit ab. Nach dem Tod des Vaters wurden die Kreditverhältnisse durch die Beklagten übernommen. Die Beklagten führten in weiterer Folge eine Umschuldung zu einer anderen Bank durch. Im Zuge dieser Umschuldung wurden die Salden aus den drei Abstattungskreditverträgen getilgt, dies einschließlich einer von der Klägerin jeweils verrechneten Vorfälligkeitsentschädigung.
+[2] 		Die Klägerin macht den offenen Saldo aus dem Kontokorrentkredit geltend.
+[3] 		Die Beklagten hielten (für das drittinstanzliche Verfahren noch von Relevanz) der Höhe der Klagsforderung die von ihnen geleistete Vorfälligkeitsentschädigung entgegen. Die entsprechende Vereinbarung sei nach dem KSchG unwirksam.
+[4] 		Die Vorinstanzen gaben der Klage statt. Die Klägerin habe die Vorfälligkeitsentschädigung zu Recht vereinnahmt, die entsprechenden Beträge seien daher nicht von der Klagsforderung abzuziehen. Die Zahlung sei durch die Beklagten vorbehaltlos erfolgt. Nachdem zwischen den Streitteilen zunächst strittig gewesen sei, ob bei der Umschuldung die Vorfälligkeitsentschädigung zu leisten sei, liege in der späteren vorbehaltlosen und vollständigen Zahlung der Beklagten ein schlüssiges und konstitutives Anerkenntnis, das eine Rückforderung nach § 1431 ABGB ausschließe.
+[5] 		Das Berufungsgericht ließ die ordentliche Revision mangels erheblicher Rechtsfragen nicht zu.
+[6] 		In ihrer außerordentlichen Revision zeigen die Beklagten keine erhebliche Rechtsfrage auf.
+[7] 		1. Ob die Zahlung aus der Sicht des Empfängers als schlüssiges Anerkenntnis verstanden werden durfte, das eine Rückforderung ausschließt, ist eine nach den konkreten Umständen zu lösende Frage des Einzelfalls und somit keine erhebliche Rechtsfrage (RIS-Justiz RS0113193).
+Rechtliche Beurteilung
+[8] 		2. Von den Beklagten wird das Vorliegen eines konstitutiven Anerkenntnisses an sich nicht bestritten und im Rechtsmittel ausdrücklich „hier noch gar nicht releviert“. Die Beklagten machen hier im Wesentlichen nur geltend, dass sie Verbraucher seien und daher eine gesetzwidrige (weil dem § 16 VKrG widersprechende) Verbindlichkeit nicht anerkennen könnten, weshalb eine Rückforderung nach § 1431 ABGB möglich sei.
+[9] 		3. Es muss aber nicht geklärt werden, ob der (erstmals im Rechtsmittel) behauptete Verstoß gegen § 16 VKrG (iVm § 3 VKrG) überhaupt die Wirksamkeit eines Anerkenntnisses verhindert.
+[10] 		3.1 Die Anwendung des VKrG setzt nämlich voraus, dass der Kreditnehmer Verbraucher im Sinne des KSchG ist (§ 2 Abs 2 VKrG). Derjenige, der die Eigenschaft als Konsument für sich in Anspruch nehmen will, muss aber behaupten und nachweisen, dass die Voraussetzungen für diesen Schutz gegeben sind (RS0065264).
+[11] 		3.2 Den Beklagten ist dieser Beweis nicht gelungen. Es steht fest, dass sich die Geschäftsverbindung der Streitteile auf die Vermietungstätigkeit der Beklagten zur geerbten Liegenschaft bezog. Die Beklagten erbten von ihrem Vater die entsprechende Liegenschaft mit einem Supermarkt und zwölf bis dreizehn Wohnungen, die zum Großteil vermietet waren, wobei die Mieten über das Kontokorrentkreditkonto abgewickelt wurden. Die Liegenschaft wurde vom Viertbeklagten verwaltet. Die Rechtsansicht des Erstgerichts, der auch das Berufungsgericht nicht entgegengetreten ist, dass in einer solchen Konstellation die Beklagten als Unternehmer zu qualifizieren sind, ist zutreffend und entspricht der Rechtsprechung (RS0065317).
+[12] 		3.3 Mangels Verbrauchereigenschaft hängt das Ergebnis somit nicht davon ab, ob § 16 VKrG die Wirksamkeit des Anerkenntnisses einer Vorfälligkeitsentschädigung verhindert. Bei dieser Sachlage käme somit der Lösung der von den Beklagten als erheblich angesehenen Rechtsfrage nur theoretische Bedeutung zu. Die Anrufung des Obersten Gerichtshofs ist aber nach § 502 Abs 1 ZPO nur zulässig, wenn die Entscheidung gerade von der Lösung einer erheblichen Rechtsfrage abhängt, die angeschnittene Rechtsfrage also für die Entscheidung präjudiziell ist (RS0088931). Fehlende Relevanz für die Entscheidung des zu beurteilenden Falls schließt das Vorliegen einer erheblichen Rechtsfrage aus.
+[13] 		4. Da somit keine erheblichen Rechtsfragen zu lösen sind, ist die außerordentliche Revision als unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0040OB00091.21T.0527.000

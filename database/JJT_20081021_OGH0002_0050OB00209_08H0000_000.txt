@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2008
+Geschäftszahl
+5Ob209/08h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Floßmann als Vorsitzenden sowie die Hofrätinnen/Hofräte des Obersten Gerichtshofs Dr. Hurch, Dr. Höllwerth, Dr. Grohmann und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei G. B***** & Co, *****, vertreten durch Dr. Wolfgang Spitzy und Dr. Esther Lenzinger, Rechtsanwälte in Wien, gegen die beklagte Partei Dipl.Ing. A. W*****gesellschaft mbH, *****, vertreten durch Dr. Markus Freund, Rechtsanwalt in Wien, wegen Aufkündigung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 9. Juli 2008, GZ 38 R 57/08a10, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Die durch § 33 Abs 1 zweiter Satz MRG normierte Eventualmaxime für die gerichtliche Aufkündigung bedeutet, dass der geltend gemachte Kündigungsgrund bereits in der Kündigung individualisiert werden muss, wozu die Angabe einer bestimmten Gesetzesstelle nur dann genügt, wenn diese nur einen Tatbestand enthält (vgl 6 Ob 376/97f = MietSlg 50.449; zuletzt 1 Ob 253/04v = MietSlg 57.383 mwN).
+Der Kündigungsgrund des § 30 Abs 2 Z 4 MRG enthält zwei Tatbestände, weshalb eine Individualisierung in der Aufkündigung erforderlich ist und die ziffernmäßige Nennung der Gesetzesstelle nicht genügen würde (vgl zuletzt MietSlg 57.383). Unklare oder mangelhafte Ausführungen des Kündigungsgrunds gehen immer zu Lasten des Kündigenden (vgl RISJustiz RS0069041).
+Unter „Weitergabe" im Sinn des § 30 Abs 2 Z 4 MRG wird jede unentgeltliche oder entgeltliche Gebrauchsüberlassung verstanden, sohin auch und gerade eine Untervermietung (vgl RISJustiz RS0070650; RS0070718). Die Entgeltlichkeit der Weitergabe ist aber nur für den zweiten Tatbestand des § 30 Abs 2 Z 4 MRG wesentlich. Hätte der Vermieter in der Aufkündigung vorgebracht, dass die Vermietung zu einem übermäßigen Mietzins erfolgt, hätte er zweifelsfrei den zweiten Fall des § 30 Abs 2 Z 4 MRG geltend gemacht, sodass der erste Fall nicht berücksichtigt hätte werden können (vgl 3 Ob 562/80 = MietSlg 32.418/26). Für den Fall, dass in der Aufkündigung aber lediglich „Untervermietung" als Kündigungstatbestand geltend gemacht wird, wurde schon die Ansicht vertreten, dass damit der Kündigungstatbestand des § 30 Abs 2 Z 4 erster Fall MRG beansprucht wurde (vgl 7 Ob 710/89 = wobl 1991/32 mit Zustimmung Würth).
+Die Ansicht des Berufungsgerichts, dass damit eine ausreichende Individualisierung des Kündigungsgrunds erfolgt sei, ist damit jedenfalls vertretbar.
+Nach den maßgeblichen Feststellungen ist eine Zustimmung zur tatsächlich erfolgten gänzlichen Untervermietung des Bestandobjekts seitens des Bestandgebers nicht erwiesen. Nur das könnte einen Verzicht auf die Geltendmachung des Kündigungsgrunds des § 30 Abs 2 Z 4 erster Fall MRG bewirken (vgl RISJustiz RS0068729).
+Die Revisionswerberin verkennt Inhalt und Bedeutung der Bestimmung des § 11 MRG, die in Abs 1 Z 1 und 2 die gesetzlichen Kündigungstatbestände des § 30 Abs 1 Z 4 erster und zweiter Fall MRG wiedergibt. Abgesehen davon, dass sich der Vermieter im vorliegenden Fall nicht auf ein vereinbartes, sondern ein gesetzliches Untermietverbot beruft, stellen Sachverhalte im Sinn des § 30 Abs 1 Z 4 erster und zweiter Fall MRG ohnedies stets einen „wichtigen Grund" gegen die Untervermietung dar, sind also vom Vermieter jedenfalls durchzusetzen, soweit nicht, wie ausgeführt, eine Zustimmung erteilt wurde.
+Insgesamt wirft daher die außerordentliche Revision der Beklagten keine Fragen von der Qualität des § 502 Abs 1 ZPO auf. Die außerordentliche Revision war daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2008:0050OB00209.08H.1021.000

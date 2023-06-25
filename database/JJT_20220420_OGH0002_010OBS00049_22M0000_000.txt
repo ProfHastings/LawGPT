@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.04.2022
+Geschäftszahl
+10ObS49/22m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofräte Mag. Ziegelbauer und Dr. Annerl sowie die fachkundigen Laienrichter Mag. Markus Schrottmeyer (aus dem Kreis der Arbeitgeber) und Sylvia Zechmeister (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei V*, vertreten durch Mag. Iliyana Sirakova, Rechtsanwältin in Wien, gegen die beklagte Partei Pensionsversicherungsanstalt, Friedrich-Hillegeist-Straße 1, 1021 Wien, wegen Weitergewährung des Rehabilitationsgeldes, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 22. Februar 2022, GZ 8 Rs 111/21h-52, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+[1] 		Die Vorinstanzen wiesen das Begehren der Klägerin, ihr über den 31. 1. 2020 hinaus Rehabilitationsgeld zu gewähren, im Hinblick auf eine wesentliche Besserung der Leistungsfähigkeit ab.
+Rechtliche Beurteilung
+[2] 		In ihrer außerordentlichen Revision macht die Klägerin keine Rechtsfrage von erheblicher Bedeutung geltend.
+[3] 		1.1. Die Klägerin verweist – wie schon in der Berufung – darauf, dass das vom Erstgericht eingeholte neurologisch-psychiatrische Sachverständigengutachten nicht schlüssig sei und gegen zwingende Erfahrungssätze verstoße.
+[4] 		1.2. Ob ein schon in der Berufung behaupteter Mangel des Verfahrens erster Instanz vom Berufungsgericht zu Recht verneint wurde, ist vom Revisionsgericht – auch in Sozialrechtssachen – nicht mehr zu prüfen (RS0043061). Darüber hinaus sind die hier angesprochenen Fragen, ob einem Sachverständigengutachten gefolgt werden kann (RS0043320) und ob es schlüssig ist (RS0043371 [T15]), solche der nicht revisiblen Beweiswürdigung. Eine Anfechtung der Ergebnisse von Sachverständigengutachten, die die Tatsacheninstanzen ihrer Entscheidung zugrunde gelegt haben, wegen unrichtiger rechtlicher Beurteilung ist nach der Rechtsprechung nur insoweit möglich, als dabei dem Sachverständigen bei seinen Schlussfolgerungen ein Verstoß gegen zwingende Denkgesetze oder gegen objektiv überprüfbare zwingende Gesetze sprachlichen Ausdrucks unterlaufen ist (RS0043404; RS0043168 [T8]). Derartiges wird mit der Behauptung, der Sachverständige hätte bestimmte Diagnosen nicht oder unrichtig befundet, aber nicht aufgezeigt.
+[5] 		2.1. Die Klägerin sieht überdies einen Begründungsmangel darin, dass das Berufungsgericht davon ausgegangen sei, dass der Sachverständige ihr Migräneleiden berücksichtigt habe, weil dies im Gutachten nicht erkennbar sei.
+[6] 		2.2. Eine mangelhafte und unzureichende Beweiswürdigung kann im Revisionsverfahren nicht angefochten werden (RS0043371). Befasst sich das Berufungsgericht mit der Beweiswürdigungsrüge nicht oder nur so mangelhaft, dass keine nachvollziehbaren Überlegungen über die Beweiswürdigung angestellt und im Urteil festgehalten sind, kann ein Mangel des Berufungsverfahrens vorliegen (RS0043371 [T13]). Das Berufungsgericht hielt der Tatsachenrüge der Klägerin entgegen, dass ein offenbarer Irrtum bei Angabe eines ICD-10-Codes nicht den Schluss zulasse, dass das Sachverständigengutachten deswegen in den entscheidungswesentlichen Fragen des Leistungskalküls und der Verbesserung des Gesundheitszustands unrichtig wäre, sowie dass die Migränebeschwerden im Gutachten ohnedies berücksichtigt worden seien. Damit setzte sich das Berufungsgericht mit der Tatsachenrüge auseinander, sodass der geltend gemachte Begründungsmangel nicht vorliegt.
+[7] 		3.1. Schließlich vermisst die Klägerin Feststellungen zur Frage, ob ihr ein Umzug oder ein (Wochen-)Pendeln zumutbar seien sowie zur Verweisbarkeit auf den regionalen Arbeitsmarkt.
+[8] 		3.2. Auch damit wird keine Rechtsfrage von erheblicher Bedeutung (§ 502 Abs 1 ZPO) aufgezeigt. Es entspricht ständiger Rechtsprechung, dass es für die zumutbare Erreichbarkeit eines Arbeitsplatzes grundsätzlich nicht auf die Verhältnisse am Wohnort des Versicherten ankommt, sondern auf die Verhältnisse am allgemeinen Arbeitsmarkt, weil der Versicherte sonst durch die Wahl seines Wohnorts die Voraussetzungen für die Gewährung einer Pension beeinflussen könnte (10 ObS 110/21f; 10 ObS 47/18m SSV-NF 32/40). Auf einen regionalen Arbeitsmarkt ist vielmehr nur dann abzustellen, wenn dem Versicherten aus medizinischen Gründen Wohnsitzverlegung und Wochenpendeln nicht möglich sind (RS0124116; RS0084415). Eine solche Einschränkung lässt sich dem festgestellten Leistungskalkül der Klägerin nicht entnehmen.
+[9] 		4. Die Revision ist daher mangels Geltendmachung einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:010OBS00049.22M.0420.000

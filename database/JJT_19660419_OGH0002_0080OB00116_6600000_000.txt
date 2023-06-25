@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.1966
+Geschäftszahl
+8Ob116/66
+Norm
+ABGB §1295;
+EO §36 (1) Z3;
+ZPO §442 (1);
+Kopf
+SZ 39/74
+Spruch
+Eine Schadenersatzklage, mit der das auf Grund eines angeblich erschlichenen Versäumungsurteiles im Exekutionsweg Hereingebrachte rückgefordert wird, ist unzulässig
+Entscheidung vom 19. April 1966, 8 Ob 116/66
+I. Instanz: Bezirksgericht Fünfhaus; II. Instanz: Landesgericht für Zivilrechtssachen Wien
+Text
+Die Klägerin begehrt von der Beklagten die Zahlung des Betrages von 567.33 S s. A. Sie brachte vor, die Beklagte habe entgegen der Vereinbarung, eine auf Zahlung des Betrages von 1808 S gerichtete Klage zurückzuziehen und die bereits angeordnete erste Tagsatzung nicht zu besuchen, bei der ersten Tagsatzung ein Versäumungsurteil auf Zahlung des genannten Betrages erwirkt. Auf Grund dieses Versäumungsurteiles habe sie gegen die Klägerin Exekution geführt. Da sich die Beklagte zur Einstellung der Exekution nur unter der Bedingung bereit erklärt habe, daß die Prozeßkosten von 321.10 S die Kosten der Exekutionsbewilligung von 154.93 S und die Zinsen von 91.30 S (zusammen also 567.33 S) bezahlt würden, habe die Klägerin, um zu verhindern, daß durch Versteigerung der gepfändeten Gegenstände ein noch größerer Schaden entstehe, den genannten Betrag der Beklagten unter Protest bezahlt. Durch das vereinbarungswidrige schuldhafte Verhalten der Beklagten sei der Klägerin ein Schaden in Höhe des klagsgegenständlichen Betrages entstanden.
+Das Erstgericht fällte infolge Ausbleibens der Beklagten von der ersten, zur Vornahme der mündlichen Streitverhandlung bestimmten Tagsatzung, gemäß § 442 (1) ZPO. ein Versäumungsurteil im Sinne des Klagebegehrens.
+Das Berufungsgericht gab der Berufung der Beklagten Folge. Es änderte das Versäumungsurteil dahin ab, daß es das Klagebegehren abwies. Es war der Ansicht, der von der Klägerin vorgebrachte und für wahr zu haltende Sachverhalt rechtfertige nicht ein Urteil im Sinne des Klagebegehrens. Gegen das erschlichene Versäumungsurteil hätte sich die Klägerin nur mit einer Klage nach § 36 EO. zur Wehr setzen können, was sie jedoch versäumt habe.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Klägerin versucht darzutun, die Beklagte habe sich durch die Erschleichung des Versäumungsurteiles und Erwirkung der Exekution auf Grund des erschlichenen Versäumungsurteiles schadenersatzpflichtig gemacht und sei daher verpflichtet, der Klägerin die nur unter dem Druck der Exekutionsführung bezahlten Zinsen- und Kostenbeträge rückzuerstatten.
+Diesen Ausführungen kann nicht gefolgt werden. Wohl hat die Rechtsprechung dem auf Grund eines erschlichenen Versäumungsurteiles zu einer Leistung Verpflichteten die Berechtigung zugebilligt, der zwangsweisen Durchsetzung eines solchen erschlichenen Versäumungsurteiles mit einer Klage nach § 36 (1) Z. 3 EO. entgegenzutreten. Die Berechtigung zu einer solchen Klage auf Unzulässigkeit der Exekution wurde jedoch nicht, wie die Klägerin meint, auf die Grundsätze des Schadenersatzrechtes gestützt, sondern daraus abgeleitet, daß die Vereinbarung, die Tagsatzung nicht zu besuchen und ein Versäumungsurteil nicht zu erwirken, als wirksamer vertraglicher Verzicht auf die Einleitung und Durchführung der Exekution auf Grund eines dennoch erwirkten Versäumungsurteiles zu werten ist, welcher Verzicht mit einer Klage nach § 36 (1) Z. 3 EO. geltend gemacht werden kann (vgl. Fasching, Komm. zu den Zivilprozeßgesetzen, zu § 396 ZPO. Anm. 12, SZ. XXII 148, JBl. 1957 S. 271). Dieser von der Rechtsprechung dem aus einem erschlichenen Versäumungsurteil Verpflichteten gewährte Rechtsbehelf kann nicht dahin ausgedehnt werden, daß die Folgen eines solchen Urteiles unter Heranziehung der Grundsätze des Schadenersatzrechtes schlechthin wieder rückgängig gemacht werden können und das im Exekutionswege Hereingebrachte oder zur Vermeidung der Exekution Bezahlte aus dem Titel des Schadenersatzes wieder rückgefordert werden kann. Derartige Schadenersatzklagen wurden als mit der Rechtskraft des Urteiles unvereinbar angesehen, mag auch hier wegen der mangelnden Identität des Begehrens die Rechtskraft lediglich ihre Bindungswirkung äußern (vgl. Fasching, Komm. zu den Zivilprozeßgesetzen, zu § 411 ZPO. Anm. 58, SZ. XIV 31).
+Dem Berufungsgericht ist daher darin beizupflichten, daß die Klägerin die klagsgegenständlichen Zinsen- und Kostenbeträge, die der Beklagten mit dem Versäumungsurteil und dem Exekutionsbewilligungsbeschluß zugesprochen wurden und die die Klägerin der Beklagten bezahlte, um die Einstellung der Exekution zu erwirken, nicht aus dem Titel des Schadenersatzes wieder zurückverlangen kann.

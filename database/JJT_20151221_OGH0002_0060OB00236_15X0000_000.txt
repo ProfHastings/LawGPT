@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2015
+Geschäftszahl
+6Ob236/15x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Ing. W***** H*****, vertreten durch Dr. Iris Harrer-Hörzinger, Rechtsanwältin in Salzburg, gegen die beklagte Partei W***** AG, *****, vertreten durch Ebner Aichinger Guggenberger Rechtsanwälte GmbH in Salzburg, wegen 60.184,61 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 20. Oktober 2015, GZ 4 R 65/15d-33, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1.1. Ist in einem Werkvertrag im Vorhinein kein festes Entgelt vereinbart, so beginnt die Verjährungsfrist nicht mit der Vollendung des Werks, sondern erst mit der Zumittlung der Rechnung an den Besteller (RIS-Justiz RS0034319). Die Verjährung beginnt dabei bereits mit dem Zeitpunkt, in dem die Forderung geltend gemacht werden kann (RIS-Justiz RS0021821 [T1]). Dabei ist der Zeitpunkt maßgeblich, in dem eine Rechnungslegung objektiv möglich gewesen wäre (RIS-Justiz RS0021821 [T9]).
+1.2. Ist der Unternehmer mit der Rechnungslegung säumig, so beginnt die Verjährung schon in dem Zeitpunkt zu laufen, in welchem dem Unternehmer die Zumittlung der Rechnung objektiv möglich gewesen wäre. Dem liegt die Erwägung zugrunde, dass der Unternehmer die Fälligkeit und damit den Beginn der Verjährung nicht willkürlich durch Verzögerung der Rechnungslegung hinausschieben und damit den Zweck der kurzen Verjährungsfrist, die baldige Klarstellung des rechtlichen Bestandes von Forderungen des täglichen Lebens zur Vermeidung der sonst besonders großen Beweisschwierigkeiten, zunichte machen darf (RIS-Justiz RS0021821 [T19]; vgl auch RS0021887).
+1.2. War ein Werkvertrag noch nicht zur Gänze erfüllt, ist entscheidend, ob und wann die klagende Partei aufgrund der Umstände des Falls erkennen konnte, dass die beklagte Partei das Werk bereits für vollendet hält oder die Vollendung offenbar nicht mehr will. Ab diesem Zeitpunkt beginnt nach Ablauf einer angemessenen Frist, innerhalb derer die Rechnungslegung objektiv möglich gewesen wäre, die Verjährung zu laufen (9 Ob 253/99t mwN; vgl auch 2 Ob 25/02v).
+2. Im vorliegenden Fall gelangte das Erstgericht auf der Tatsachenebene zu dem Ergebnis, dass der Kläger spätestens am 29. 1. 2008 wusste, dass die Beklagte keine weiteren auftragsgegenständlichen Tätigkeiten mehr vom Kläger wünschte. Der Umstand, dass sich die diesbezüglichen Ausführungen des Erstgerichts teilweise im Rahmen der Beweiswürdigung, teilweise im Rahmen der rechtlichen Beurteilung finden, ändert nichts an der Zuordnung dieser Ausführungen zum Tatsachenbereich. Es handelt sich sohin um - wenn auch dislozierte - Tatsachenfeststellungen. Das Berufungsgericht hat die Feststellungen des Erstgerichts übernommen. Damit läuft aber die Revision darauf hinaus, die Tatsachengrundlage zu bekämpfen, was vor dem Obersten Gerichtshof jedoch nicht zulässig ist (RIS-Justiz RS0069246, RS0043312).
+3. Hinsichtlich der nach dem Juli 2008 noch bis in das Jahr 2012 erbrachten Leistungen des Klägers gelangte das Erstgericht zu dem Ergebnis, dass alle diese Leistungen von der Beklagten nicht mehr beauftragt bzw gewollt waren und die Beklage an diesen zusätzlichen Leistungen des Klägers kein Interesse mehr hatte, zumal die Beklagte zwischenzeitlich mit mehreren Hauseigentümern eine Einigung erzielt hatte, ohne dass dabei auf Unterlagen des Klägers zurückgegriffen wurde. Gerade auf diese Objekte bezog sich aber offenbar ein Großteil der Leistungen des Klägers in den Jahren 2010 bis 2012. Wenn die Vorinstanzen bei dieser Sachlage zu dem Ergebnis gelangten, dass dem Kläger (auch) diesbezüglich kein Honorar zusteht, ist darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung zu erblicken.
+4. Mängel des erstinstanzlichen Verfahrens hat der Revisionswerber in der Berufung nicht gerügt, sodass darauf nicht weiter einzugehen ist (RIS-Justiz RS0043111).
+5. Damit bringt die Revision aber keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Qualität zur Darstellung, sodass diese spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0060OB00236.15X.1221.000

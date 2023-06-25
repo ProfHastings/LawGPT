@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.02.1970
+Geschäftszahl
+2Ob58/70 (2Ob32/70)
+Norm
+EO §10;
+Versicherungsvertragsgesetz §67;
+ZPO §259 Abs2;
+ZPO §411;
+Kopf
+SZ 43/39
+Spruch
+Ein rechtskräftiges Zwischenurteil über die Haftung des Haftpflichtversicherten (Kfz-Halter) gegenüber dem anderen Unfallsbeteiligten hat bindende Wirkung auch für Ansprüche des Haftpflichtversicherers nach § 67 VersVG
+OGH 12. Februar 1970, 2 Ob 32, 58/70 (OLG Wien 8 R 191/69; KG Krems 12 Cg 176/69)
+Text
+Am 24. Juli 1964 stießen im Ortsgebiet von Z ein von Karl W gelenktes Motorrad und ein von der Beklagten gelenkter PKW zusammen. Dabei fand Alois G, der auf dem Motorrad mitgefahren war, den Tod. Karl W wurde vom Strafgericht verurteilt, die Beklagte jedoch freigesprochen. Sie belangte Karl W beim Bezirksgericht Langenlois zu C .../66 auf Ersatz ihres Fahrzeugschadens. In diesem Rechtsstreit wurde auf Grund eines vom Beklagten W gestellten Zwischenantrages auf Feststellung erkannt, daß der Klagsanspruch zu 75% und die Gegenforderung des Karl W zu 25% dem Gründe nach zu Recht bestehe und daß die nunmehrige Beklagte dem Karl W für den Aufwand, den dieser aus Anlaß des Unfalls vom 24. Juli 1964 an dritte Personen zu erbringen habe, zu 25% hafte.
+Mit der vorliegenden Klage begehrte nun die Klägerin als Haftpflichtversicherer des Karl W von der Beklagten gemäß § 67 VersVG die Bezahlung von 50.000 S. Die Klägerin habe ihrem Versicherungsnehmer Karl W, der auf Grund eines außergerichtlichen Vergleiches an die Allgemeine Unfallversicherungsanstalt und an die Land- und Forstwirtschaftliche Sozialversicherungsanstalt als Legalzessionare der Hinterbliebenen des Alois G 210.000 S zu zahlen hatte, 200.000 S zur Verfügung gestellt und begehre den Ersatz von 25% dieses Betrages.
+Die Beklagte beantragte die Abweisung des Klagebegehrens. Das Urteil im Vorprozeß habe mangels Identität der Parteien keine Wirkung für den vorliegenden Rechtsstreit. Das Alleinverschulden an dem Unfall treffe den Karl W. Der Höhe nach wurde gegen die Klagsforderung keine Einwendung erhoben.
+Beide Unterinstanzen gaben dem Klagebegehren statt. Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revisionswerberin wendet sich mit der Rechtsrüge gegen die Ansicht der Untergerichte, daß die oben bezeichnete Entscheidung im Vorprozeß auch im Verhältnis zwischen den jetzigen Prozeßparteien bindende Wirkung habe; dies jedoch zu Unrecht.
+Grundsätzlich steht nach SZ 28/265 = Jud 63 neu einer neuerlichen Leistungsklage des Übernehmers einer Forderung die Rechtskraft des für die Forderung vom Überträger erwirkten Leistungsurteils entgegen. Derselbe Gedanke wurde auf die dem § 67 VersVG ähnliche Rechtslage des § 158f VersVG in der Entscheidung 7 Ob 116/64 angewendet. Die Kritik Wahles an dieser Entscheidung und die Erwiderung Gaisbauers in VersR 1966, 273 und 941 beziehen sich nicht auf diesen Rechtssatz. Wahle hat vielmehr in der Besprechung der Entscheidung 7 Ob 166/64 in VersR 1966. 248 unter Hinweis auf das Jud 63 neu hervorgehoben, daß bereits urteilsmäßig zugesprochene Beträge vom Zessionar nicht neuerlich nach § 158f VersVG eingeklagt werden können. Die Entscheidung 2 Ob 439/53 VersRdsch 1954, 91 und ihr folgend i e Entscheidungen 3 Ob 857/54 und 2 Ob 293/69 haben die bindende Wirkung des im Schadenersatzdirektprozeß ergangenen Urteile lediglich für den Regreßprozeß nach § 1542 RVO (= § 332 ASVG) aus der Erwägung verneint, daß im Sozialversicherungsrecht die Legalzession schon im Unfallszeitpunkt eintrete und der Schadenersatzanspruch sogleich auf den Sozialversicherungsträger insoweit übergehe, als dieser Leistungen zu erbringen habe.
+Da Feststellungserkenntnissen dieselbe Wirkung gegenüber dem späteren Zessionar zukommt wie Leistungsurteilen, erweist sich die rechtliche Beurteilung der Unterinstanzen als zutreffend, zumal die Beklagte nicht vorgebracht hat, daß die Klägerin schon vor der Rechtskraft des Zwischenurteils im Vorprozeß jene Leistungen erbracht habe, welche die Legalzession auslösten (vgl Pollak, System[2], 540 f). Wegen der Rechtskraft des Urteils im Rechtsstreit des Versicherungsnehmers Karl W gegen die jetzige Beklagte auch für und gegen den Versicherer (die jetzige Klägerin) kann der Rechtsbestand der Forderung des Ausgleichsanspruches nach § 11 EKHG, die dem Gründe nach gemäß § 67 VersVG auf die Klägerin übergegangen ist, nicht nochmals geprüft werden. Die Höhe dieses Anspruches steht außer Streit.

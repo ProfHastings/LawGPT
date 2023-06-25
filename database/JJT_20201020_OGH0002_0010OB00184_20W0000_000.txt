@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2020
+Geschäftszahl
+1Ob184/20w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei H*****, vertreten durch die Saxinger Chalupsky & Partner Rechtsanwälte GmbH, Linz, gegen die beklagte Partei A***** GmbH, *****, vertreten durch Dr. Johann Gelbmann, Rechtsanwalt in Wien, wegen 49.763 EUR sA sowie Feststellung (Streitwert 6.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom  10. August 2020, GZ 16 R 72/20f-14, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 30. März 2020, GZ 6 Cg 70/19m-10, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Eine behauptete, vom Berufungsgericht aber verneinte Mangelhaftigkeit des erstinstanzlichen Verfahrens – hier das Unterlassen der Einholung eines Sachverständigengutachtens – kann in dritter Instanz nicht mehr angefochten werden (RIS-Justiz RS0042963 [T64]). Dies kann nicht durch die Behauptung umgangen werden, das Berufungsverfahren sei – weil das Berufungsgericht der Mängelrüge nicht gefolgt sei – mangelhaft geblieben (RS0042963 [T58]). Ob zur Klärung einer strittigen Tatsache ein
+Sachverständigengutachten erforderlich gewesen wäre, fällt in den Bereich der irrevisiblen Beweiswürdigung (RS0113643 [T4]; vgl auch RS0043414 [T6]).
+2. Die Frage des Umfangs von Verkehrssicherungspflichten und der Zumutbarkeit geeigneter Vorkehrungen gegen einen Schadenseintritt hängt jeweils von den Umständen des Einzelfalls ab und begründet regelmäßig keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO (RS0023487 [T20]; RS0029874 [T5, T9]; RS0111380). Hier steht fest, dass das zum Sturz der Klägerin führende technische Gebrechen des Aufzugs (Öffnen der Aufzugstüre, obwohl sich die Kabine etwa 10 cm über dem Niveau des angefahrenen Stockwerks befand) „spontan“ auftrat und für die Beklagte weder vorhersehbar noch vermeidbar war, sowie dass Mitarbeiter der Beklagten zumindest dreimal täglich sämtliche Aufzüge im Einkaufszentrum auf allfällige technische Auffälligkeiten kontrollierten. Mangels Erkennbarkeit der Gefahr (vgl RS0023487 [T5, T6, T12, T14]) und da keine permanente Kontrolle einer potenziellen Gefahrenquelle verlangt werden kann (vgl 1 Ob 11/19b), begegnet es keinen Bedenken, dass das Berufungsgericht einen Verstoß der Beklagten gegen ihre Verkehrssicherungspflichten verneinte.
+3. Soweit die Revisionswerberin den Standpunkt vertritt, dass die Haftung der Beklagten nach vertraglichen Grundsätzen und dabei nach einem „weit strengeren“ Maßstab als bei der „allgemeinen“ (sich aus dem Ingerenzprinzip ergebenden; vgl RS0022778) Verkehrssicherungspflicht zu prüfen gewesen wäre, ist ihr zu entgegnen, dass auch vertragliche Verkehrssicherungspflichten nicht überspannt werden dürfen (RS0023487 [T17]) und im vertraglichen Bereich ebenfalls nur jene Maßnahmen ergriffen werden müssen, die nach der Verkehrsauffassung verlangt werden können (vgl 6 Ob 221/18w), soll doch auch die vertragliche Verkehrssicherungspflicht keine vom Verschulden unabhängige Haftung des Sicherungspflichtigen zur Folge haben (1 Ob 62/10i). Welche konkreten Sicherheitsvorkehrungen (Wartungs- und Kontrollpflichten) die Beklagte missachtet haben soll, vermag die Revisionswerberin nicht konkret darzulegen.
+4. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0010OB00184.20W.1020.000

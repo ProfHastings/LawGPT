@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2021
+Geschäftszahl
+9ObA117/21b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden und die Hofrätinnen des Obersten Gerichtshofs Dr. Fichtenau und Hon.-Prof. Dr. Dehn sowie die fachkundigen Laienrichter Helmut Purker (aus dem Kreis der Arbeitgeber) und ADir. Gabriele Svirak (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei E*, vertreten durch Beneder Rechtsanwalt GmbH in Wien, gegen die beklagte Partei W* GmbH & Co KG, *, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH in Wien, wegen Kündigungsanfechtung, über die außerordentlich Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. August 2021, GZ 8 Ra 61/21f-66, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1 Nach der Rechtsprechung können als personenbezogene Kündigungsgründe auch Krankenstände herangezogen werden (RS0051801). Dabei ist nicht nur die Dauer der bisherigen Krankenstände zu berücksichtigen, sondern auch die zukünftige Entwicklung der Verhältnisse nach der Kündigung so weit einzubeziehen, als sie mit der angefochtenen Kündigung noch in einem sachlichen und zeitlichen Zusammenhang stehen (RS0051785).
+[2] 		1.2 Der Arbeitgeber, der eine Kündigung wegen überhöhter Krankenstände ausspricht, muss daher eine Zukunftsprognose über die weitere Arbeitsfähigkeit des Arbeitnehmers anstellen. Entscheidend ist, dass ein verständiger und sorgfältiger Arbeitgeber bei objektiver Betrachtung berechtigt davon ausgehen konnte, dass Krankenstände in erhöhtem Ausmaß mit hoher Wahrscheinlichkeit auch in Zukunft zu erwarten sind, etwa wenn sich eine ungünstige Prognose aus der anhaltend steigenden Zahl der Krankheitstage bei regelmäßigen Krankenständen ableiten lässt (9 ObA 137/17p mwN).
+[3] 		2. In der Vergangenheit aufgetretene Krankenstände sind dann für die künftige Einsatzfähigkeit des Arbeitnehmers nicht aussagekräftig, wenn die zugrundeliegende Krankheit überwunden wurde. Insoweit ist auch die Art der Erkrankung des Arbeitnehmers und deren Ursache sowie die zumutbare Krankenbehandlung für die Zukunftsprognose von Relevanz. Ein personenbezogener Kündigungsgrund liegt daher dann nicht vor, wenn der grundsätzlich dienstfähige Dienstnehmer zwar in der Vergangenheit überdurchschnittlich lange im Krankenstand war, in der Zukunft aber (ausgehend vom Kündigungszeitpunkt) nicht mehr mit überhöhten Krankenständen zu rechnen ist (8 ObA 53/11v).
+[4] 		3. Für das Vorliegen des personenbezogenen Kündigungsgrundes ist der Dienstgeber behauptungs- und beweispflichtig. Setzt sich der Dienstgeber in Ansehung des Rechtfertigungsgrundes bei Erstellung der Zukunftsprognose nicht mit der Art der Erkrankung und deren Ursachen auseinander, trägt er das Risiko, dass sich der von ihm angenommene personenbezogene Kündigungsgrund später (im gerichtlichen Verfahren) als nicht berechtigt erweist (9 ObA 53/20i; 8 ObA 53/11v; krit Marhold-Weinmeier, Ex-post-Beurteilung statt Zukunftsprognose über die weitere Dienstfähigkeit? ASoK 2018, 248).
+[5] 		4. Dass die bei der Beklagten beschäftigte Klägerin, die bis zur Kündigung in einem erhöhten Ausmaß Krankenstände in Anspruch nahm, nunmehr eine positive Zukunftsprognose aufweist, weil ihre bisherigen Gallenprobleme durch eine Operation behoben werden konnten, wird in der außerordentlichen Revision der Beklagten nicht mehr in Frage gestellt.
+[6] 		Die außerordentliche Revision der Beklagten ist daher zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:009OBA00117.21B.1125.000

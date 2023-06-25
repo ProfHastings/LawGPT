@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.03.2010
+Geschäftszahl
+7Ob178/09s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und durch die Hofräte des Obersten Gerichtshofs Dr. Schaumüller, Dr. Hoch, Dr. Kalivoda und Dr. Roch als weitere Richter in der Rechtssache der klagenden Parteien 1. C***** und 2. G*****, beide *****, vertreten durch Sluka Hammerer Rechtsanwälte GmbH in Salzburg, gegen die beklagte Partei Dr. D***** S*****, vertreten durch Dr. Katharina Sedlazeck-Gschaider, Rechtsanwältin in Salzburg, wegen Anfechtung eines Kaufvertrags und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 1. Juli 2009, GZ 4 R 94/09k-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Revision ist aus folgenden Gründen nicht zulässig:
+1. Zur Irrtumsproblematik:
+Der Geschäftsirrtum im engeren Sinn erstreckt sich auf die unrichtige Vorstellung über innerhalb des Geschäfts liegende Punkte; bezieht sich der Irrtum auf außerhalb des Geschäfts liegende Umstände, dann liegt Motivirrtum vor (RIS-Justiz RS0014901; RS0014910; RS0014902). Was bei richtiger Auslegung eines Vertrags für die daraus folgenden Pflichten unerheblich ist, gehört nicht zu dessen Inhalt. Ein diesbezüglicher Irrtum wäre nur ein grundsätzlich unbeachtlicher Motivirrtum (RIS-Justiz RS0014901 [T3]). Erst durch Vertragsauslegung kann jeweils festgestellt werden, ob der Umstand, über den geirrt wurde, zum Geschäft selbst gehört (RIS-Justiz RS0014910 [T7] = RS0014913 [T5] = RS0014902 [T2]).
+Der Auslegung einer konkreten Vereinbarung kommt aber wegen der Einzelfallbezogenheit grundsätzlich keine Bedeutung nach § 502 Abs 1 ZPO zu (RIS-Justiz RS0042776; RS0042936; RS0044298; RS0044358; RS0112106 ua). Ob eine Vereinbarung im Einzelfall richtig ausgelegt wurde, ist nach ständiger Rechtsprechung nur dann eine Rechtsfrage im Sinn der zitierten Bestimmung, wenn in Verkennung der Auslegungsgrundsätze ein unvertretbares, aus Gründen der Einzelfallgerechtigkeit zu korrigierendes Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042769; RS0042776; RS0042936; RS0044298; RS0044358; RS0112106 ua). Dies ist etwa dann der Fall, wenn die Interpretation mit Sprachregeln, allgemeinen Erkenntnissätzen oder gesetzlichen Auslegungsregeln in Widerspruch steht (7 Ob 111/06h mwN). Ob auch eine andere Auslegung vertretbar wäre, also ob bloß eine andere Interpretation in Betracht käme, stellt ebenso wenig eine erhebliche Rechtsfrage dar (RIS-Justiz RS0042776; RS0042936; RS0112106 ua). Auch bei der Abgrenzung zwischen Geschäftsirrtum im engeren Sinn und bloßem Motivirrtum handelt es sich in der Regel um keine erhebliche Rechtsfrage, kann die Abgrenzung doch nur im Einzelfall nach dessen konkreten Umständen vorgenommen werden (RIS-Justiz RS0014913 [T7]). Eine erhebliche Fehlbeurteilung durch die Vorinstanzen, die vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifen wäre, vermögen die Revisionswerber nicht aufzuzeigen.
+Das Erstgericht hat den von den Klägern geltend gemachten gemeinsamen Geschäftsirrtum über das Flächenausmaß des gekauften, erst herausgemessenen Grundstücks verneint, weil mangels Grenzbeschreitung das Grundstück in den Grenzen laut Plan Gegenstand des Kaufvertrags geworden sei. Das Berufungsgericht nahm zu dieser Rechtsansicht nicht Stellung (weil es die Beachtlichkeit des behaupteten gemeinsamen Irrtums ablehnte).
+Beide Vertragsseiten sind zwar davon ausgegangen, dass der Zaun der Papiergrenze entspricht; sie haben also über den Verlauf der vermessenen Grenze in der Natur geirrt. Entscheidend ist aber, ob die Maßgeblichkeit der Naturgrenze zum Inhalt des Kaufvertrags gemacht wurde. Berücksichtigt man, dass
+keine gemeinsame Besichtigung und/oder Begehung der Grenzen stattfand,
+(nur) auf Basis der Vermessungsurkunde verhandelt wurde, ohne den Zaun als Grenze je zu thematisieren,
+(auch) im schriftlichen Kaufvertrag kein Bezug auf die tatsächliche Situation in der Natur genommen wurde, vielmehr
+für das an sich unbebaute Grundstück auf allfällig „erd-, mauer-, niet- und nagelfest“ Verbundenes Bedacht genommen wurde,
+erweist sich die Rechtsansicht, es liege gar kein Geschäftsirrtum im engeren Sinn vor, der zur Vertragsanfechtung/-anpassung berechtige, nicht als korrekturbedürftige Fehlbeurteilung.
+2. Zum Feststellungsbegehren:
+Das Berufungsgericht hat diesem die Berechtigung zum einen mangels tragfähiger Sachverhaltsgrundlage und zum anderen mit der Begründung versagt, es sei auf die Haftung für bereits entstandene Schäden gerichtet, sodass es von vornherein an einem Feststellungsbegehren nach § 228 ZPO fehle. Mit dem zweiten, selbständigen Abweisungsgrund setzt sich die Revision mit keinem Wort auseinander, sodass der Oberste Gerichtshof dazu nicht mehr Stellung zu nehmen hat (RIS-Justiz RS0043338 [T17 und T18]; RS0043352 [T18]).

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.12.2021
+Geschäftszahl
+4Ob184/21v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi, MMag. Matzka sowie die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der Klägerinnen 1. T* Ltd., *, 2. T* Limited, *, beide vertreten durch Gassauer-Fleissner Rechtsanwälte GmbH in Wien, gegen die Beklagten 1. T* GmbH, *, 2. DI (FH) S* B*, 3. C* GmbH, *, 4. C* GmbH, *, alle vertreten durch Zacherl Schallaböck Proksch Manak Kraft Rechtsanwälte GmbH in Wien, wegen Unterlassung, Beseitigung und Feststellung (Streitwert im Provisorialverfahren 500.000 EUR), über den außerordentlichen Revisionsrekurs der Klägerinnen gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 29. September 2021, GZ 1 R 109/21p-20, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerinnen sind Entwicklerinnen der T*-App und Betreiberinnen der T*-Unterhaltungsplattform. Die Erstbeklagte ist Berechtigte aus der Marke „t*“, der Zweitbeklagte ist Geschäftsführer der Erstbeklagten.
+[2] 		Die Erstbeklagte nimmt in einem – noch nicht rechtskräftig beendeten – Verfahren vor dem Handelsgericht Wien ein drittes Internetunternehmen auf Unterlassung des Vertriebs von ua Dienstleistungen der Informationstechnologie unter Verwendung eines mit der Marke t* (für die die Erstbeklagte lizenzberechtigt sei) verwechselbaren Kennzeichens in Anspruch.
+[3] 		Im hier gegenständlichen Verfahren begehren die Klägerinnen von der Erst- und dem Zweitbeklagten klageweise bzw mittels eines Sicherungsantrags im Wesentlichen, es zu unterlassen, Anträge auf Erlassung einer einstweiligen Verfügung zu stellen oder weiter zu verfolgen, die darauf gerichtet sind, Dritten zu verbieten, die Zeichen T* oder T* für Waren oder Dienstleistungen der Informationstechnologie zu benutzen. Die gegen den Dritten gerichtete Klage bzw der Sicherungsantrag sei unlauter, sittenwidrig und rechtsmissbräuchlich.
+[4] 		Die Beklagten wendeten ein, sie verteidigten vollkommen legitim ihr Recht aus einer Marke mit eindeutig besserer Priorität.
+[5] 		Das Erstgericht wies den Sicherungsantrag (im zweiten Rechtsgang neuerlich) ab, weil nicht bescheinigt worden sei, dass die Erstbeklagte und der Zweitbeklagte die im Parallelverfahren des Handelsgerichts Wien gegen Dritte geltend gemachten Ansprüche rechtsmissbräuchlich oder mit Schädigungsvorsatz erhoben oder bewusst oder offensichtlich unwahre Behauptungen aufgestellt hätten.
+[6] 		Das Rekursgericht bestätigte diese Entscheidung, bemaß den Wert des Entscheidungsgegenstands mit 30.000 EUR übersteigend und erklärte den ordentlichen Revisionsrekurs für nicht zulässig.
+[7] 		Mit ihrem außerordentlichen Revisionsrekurs machen die Klägerinnen geltend, ihrem potenziellen Schaden in Milliardenhöhe stehe ein Interesse der Beklagten von einigen zehntausend Euro gegenüber. Dieses krasse Missverhältnis begründe den Rechtsmissbrauch der Beklagten durch ihre Klagsführung.
+Rechtliche Beurteilung
+[8] 		Damit zeigen die Klägerinnen jedoch keine erheblichen Rechtsfragen auf. Der Revisionsrekurs ist daher nicht zulässig und folglich zurückzuweisen.
+[9] 		1.1. Nach der Rechtsprechung kann nicht nur der Erwerb einer Marke, sondern auch die Geltendmachung von darauf beruhenden Ansprüchen sittenwidrig und rechtsmissbräuchlich sein (RS0121116). Ob ein formal bestehender Anspruch rechtsmissbräuchlich geltend gemacht wird, ist nach allgemeinen Grundsätzen aufgrund einer Interessenabwägung zu entscheiden, wobei Rechtsmissbrauch nicht nur dann vorliegt, wenn die Schädigungsabsicht den einzigen Grund der Rechtsausübung darstellt, sondern auch dann, wenn zwischen den vom Handelnden verfolgten eigenen Interessen und den beeinträchtigten Interessen des anderen ein krasses Missverhältnis besteht (RS0026265; RS0026271 [T19, T23, T24]).
+[10] 		1.2. Abgesehen vom Verwirkungstatbestand nach § 9 Abs 5 UWG iVm § 58 MSchG dient die Durchsetzung älterer Kennzeichenrechte grundsätzlich legitimen Interessen des Inhabers. Sie kann daher, wenn überhaupt, nur in ganz engen Ausnahmefällen sittenwidrig sein (RS0121116 [T1]).
+[11] 		1.3. Der Senat hat auch zu 4 Ob 58/93 gegenüber dem Unterlassungsbegehren des Eigentümers den Schikaneeinwand verneint, weil diesem nicht vorgeworfen werden konnte, so augenscheinlich eine Schädigung des Unternehmers zu bezwecken, dass andere Ziele der Rechtsausübung in den Hintergrund treten. In einer weiteren Entscheidung (2 Ob 106/00b) wurde ausgesprochen, dass auch bereits vorgenommene große Investitionen im öffentlichen Interesse die Ausübung des Eigentumsrechts nicht zur Schikane machen.
+[12] 		2. Im vorliegenden Fall haben die Vorinstanzen vertretbar den klägerseits behaupteten Rechtsmissbrauch der Beklagten, der in der Inanspruchnahme ihrer Markenrechte gelegen sein soll, verneint. Den Klägerinnen ist es insgesamt nicht gelungen, Gründe für einen – wie von der Rechtsprechung gefordert – krassen Ausnahmefall darzulegen, bei dem ihren Interessen ein größeres Gewicht zukäme als dem legitimen Interesse der Beklagten am Markenschutz.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0040OB00184.21V.1216.000

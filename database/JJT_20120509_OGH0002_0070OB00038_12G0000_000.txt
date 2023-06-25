@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.05.2012
+Geschäftszahl
+7Ob38/12g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Dr. Dehn als weitere Richter in der Rechtssache der klagenden Partei K***** S*****, vertreten durch Dr. Martin Leitner, Rechtsanwalt in Wien, gegen die beklagte Partei N***** Versicherung AG, *****, vertreten durch Dr. Andreas Grundei, Rechtsanwalt in Wien, wegen 6.500 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 28. November 2011, GZ 60 R 14/11f-17, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 23. Dezember 2010, GZ 16 C 328/10t-13, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revision wird Folge gegeben.
+Die Entscheidungen der Vorinstanzen werden aufgehoben. Die Rechtssache wird zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurückverwiesen.
+Die Kosten des Rechtsmittelverfahrens sind weitere Verfahrenskosten.
+Text
+Begründung:
+Zwischen der Wohnungseigentümergemeinschaft ***** und der Beklagten besteht ein Versicherungsvertrag, dem die Allgemeinen und Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB 2003 und EHVB 2003) zugrunde liegen.
+Art 9 regelt:
+„Der Versicherungsanspruch darf vor seiner endgültigen Feststellung ohne ausdrückliche Zustimmung des Versicherers weder abgetreten noch verpfändet werden.“
+Der Kläger ist Wohnungseigentümer. Infolge eines Wassereintritts im Jahr 2007 entstanden Schäden an seiner Wohnung. Die Eigentümergemeinschaft trat an den Kläger ihre Ansprüche gegen die Beklagte am 7. 4. 2010 ab. Am 22. 11. 2010 bestätigte sie dies und erteilte dem Kläger die Berechtigung, die Ansprüche aus dem Wasserschaden im eigenen Namen gegen die Beklagte klagsweise geltend zu machen. Die Beklagte wollte die durch die Wassereintritte notwendigen Tischlerarbeiten nur zur Hälfte decken, weil diverse Teilansprüche nicht von der Gebäudeversicherung, sondern von der Haushaltsversicherung zu ersetzen seien.
+Der Kläger begehrt den Ersatz von Schäden, die durch den Wassereintritt wegen baulicher Mängel entstanden seien. Ihm sei die Forderung wirksam abgetreten worden. Das Zessionsverbot sei nach § 6 Abs 3 KSchG unwirksam. Es sei nicht klar erkennbar, was unter endgültiger Feststellung gemeint sei. Die Versicherungsnehmerin sei die Wohnungseigentümergemeinschaft. Diese sei Konsumentin. Die Bestimmung sei überdies auch nach § 879 Abs 3 ABGB unwirksam, weil sie gröblich benachteiligend sei.
+Die Beklagte beantragt die Abweisung der Klage. Sie wendet unter anderem die fehlende Aktivlegitimation des Klägers ein. Nur der Versicherungsnehmer sei berechtigt, gegen den Versicherer Deckungsklage zu erheben. Aufgrund des wirksam vereinbarten Zessionsverbots sei die Abtretung an den Kläger unwirksam.
+Das Erstgericht wies das Klagebegehren ab. Die Vereinbarung eines Zessionsverbots sei wirksam. Die Abtretbarkeit von Versicherungsansprüchen werde durch die AVB insoweit beschränkt, als eine Zession erst dann zulässig sei, wenn die Ansprüche endgültig festgestellt seien. Da dies hier nicht der Fall sei, sei die Abtretung unwirksam und der Kläger nicht aktivlegitimiert. Die Zessionsbeschränkung sei  nicht intransparent. Endgültig festgestellt sei ein Anspruch erst, wenn er dem Grunde und der Höhe nach feststehe. Eine abweichende Auslegung lege der Wortlaut der Klausel nicht nahe.
+Das Berufungsgericht bestätigte das Urteil und folgte der Rechtsauffassung des Erstgerichts. Solange der Versicherungsanspruch strittig sei, dürfe er nicht abgetreten werden.
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil der Oberste Gerichtshof zum Abtretungsverbot im Lichte des Transparenzgebots des § 6 Abs 3 KSchG noch nicht ausdrücklich Stellung genommen habe.
+Dagegen richtet sich die Revision des Klägers mit einem Abänderungsantrag, hilfsweise wird ein Aufhebungsantrag gestellt.
+Die Beklagte beantragt, die Revision zurückzuweisen, hilfsweise ihr nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist zulässig, sie ist auch berechtigt.
+Beim vorliegenden Versicherungsvertrag handelt es sich um einen solchen für fremde Rechnung im Sinn der §§ 74 ff VersVG. Der Abschluss einer Versicherung für fremde Rechnung setzt voraus, dass die Absicht des Versicherungsnehmers auf eine solche Versicherung gerichtet war und dass der Versicherer diese Absicht aus den Umständen erkennen konnte (RIS-Justiz RS0080895). Dies trifft hier zu: Die Wohnungseigentümergemeinschaft schließt die Gebäudeversicherung (auch) im Interesse der einzelnen Wohnungseigentümer, die die Miteigentümer der Liegenschaft sind, ab.
+Bei einer Versicherung für fremde Rechnung steht das formelle Verfügungsrecht über die sachlich dem Versicherten zustehende Forderung dem Versicherungsnehmer zu (RIS-Justiz RS0080863, RS0080792). Die Rechtsbeziehung zwischen dem Versicherungsnehmer und dem Versicherten ist im Hinblick auf die Verfügungsmacht des Versicherungsnehmers als eine Art gesetzliches Treuhandverhältnis anzusehen (RIS-Justiz RS0080862, RS0080792).
+Nach herrschender Ansicht kann die Abtretung des Versicherungsanspruchs grundsätzlich vertraglich ausgeschlossen werden. Eine Abtretung des Versicherungsanspruchs an den Fremdversicherten gibt es jedoch insofern gar nicht, als der Versicherte ja gemäß § 75 Abs 1 VersVG Gläubiger des Anspruchs ist. Überträgt der Versicherungsnehmer seine Rechte an den Versicherten, handelt es sich also nicht um eine „echte“ Abtretung, sondern um einen Verzicht auf die Verfügungsrechte zugunsten des Versicherten. Vereinbaren Versicherungsnehmer und Versicherer - wie hier -, dass eine Zession ausgeschlossen ist, wird in der Regel anzunehmen sein, dass auch dieser Verzicht des Versicherungsnehmers ausgeschlossen ist (7 Ob 234/06x, mwN; Schauer, Versicherungsvertragsrecht³, 168 mwN).
+Bei der Versicherung für fremde Rechnung verstößt die Berufung des Versicherers auf die Abbedingung der in § 75 Abs 2 VersVG genannten Voraussetzungen für ein eigenes Verfügungsrecht des Versicherten ohne sachlichen Grund und daher mangels eigener Schutzbedürftigkeit gegen Treu und Glauben und ist rechtsmissbräuchlich. Dies ist insbesondere dann der Fall, wenn für den Versicherer leicht feststellbar ist, dass der den Anspruch erhebende Versicherte in den Deckungsbereich des Versicherungsvertrags einbezogen ist. Es kommt dann nur darauf an, ob der Versicherungsnehmer einer gerichtlichen Geltendmachung des Deckungsanspruches durch den Versicherten zugestimmt oder eine eigene Klagserhebung aus nicht billigenswerten Gründen unterlassen hat oder der Versicherte im Besitz eines Versicherungsscheins ist (7 Ob 234/06x = RIS-Justiz RS0121526).
+Im vorliegenden Fall steht der klagende Wohnungseigentümer für die Beklagte als Versicherter namentlich fest. Sie ist mit ihm auch bereits in Verhandlungen getreten. Es ist kein billigenswerter Grund für die Ablehnung der Beklagten erkennbar, sich trotz Zustimmung des Versicherungsnehmers direkt mit dem Versicherten auseinanderzusetzen. Die Beklagte kann sich auf das Abtretungsverbot daher nicht berufen.
+Das Erstgericht hat daher das Verfahren fortzusetzen und sich mit den geltend gemachten Ansprüchen auseinanderzusetzen.
+Der Kostenvorbehalt gründet sich auf § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2012:0070OB00038.12G.0509.000

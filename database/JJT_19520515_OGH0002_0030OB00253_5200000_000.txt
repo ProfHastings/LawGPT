@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.05.1952
+Geschäftszahl
+3Ob253/52
+Norm
+ABGB §825;
+ABGB §828;
+ABGB §1120;
+Kopf
+SZ 25/135
+Spruch
+Wer einem Hauptmietverhältnis, das durch einen Untermietvertrag belastet ist, beitritt, tritt dadurch als Mitbestandgeber in den Untermietvertrag ein. Er kann daher, wenn der ursprüngliche Hauptmieter ausscheidet, gegen den Untermieter nicht mit einer Räumungsklage, sondern nur mit einer Kündigung vorgehen.
+Entscheidung vom 15. Mai 1952, 3 Ob 253/52.
+I. Instanz: Bezirksgericht Innere Stadt - Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Hertha M. war alleinige Hauptmieterin der Wohnung 6 a in W., X.Gasse. Sie schloß mit dem Erstbeklagten einen Untermietvertrag auf unbestimmte Zeit bezüglich zweier Zimmer dieser Wohnung. Mit Bescheid vom 17. Feber 1951 genehmigte die Mag.Abt. 50 den Beitritt des Klägers zum Mietvertrag der Hertha M. hinsichtlich dieser Wohnung gemäß § 20a WAG. Daraufhin schloß der Kläger am 10. März 1951 mit der Hausverwaltung einen Mietvertrag ab. Am 15. März 1951 verzichtete Hertha M. gegenüber der Hausverwaltung auf ihre Mietrechte an dieser Wohnung, weil sie nicht mehr in der Lage war, den auf sie entfallenden Teil des Mietzinses aufzubringen. Der Kläger begehrte nun mit Klage die Räumung der beiden Zimmer durch die Beklagten mit der Behauptung, sie benützten diese Räume im Hinblick auf den Wegfall des Mietrechtes ihrer Unterbestandgeberin ohne jeden Titel.
+Beide Untergerichte wiesen das Klagebegehren ab. Der Kläger sei dem Mietvertrag der Hertha M. beigetreten, nur insoweit sei ihm auch die Genehmigung der Verwaltungsbehörde erteilt worden. Damit sei für beide Hauptmieter eine gemeinschaftliche Berechtigung entstanden, auf welche die Bestimmungen der §§ 888, 825 ff. ABGB. sinngemäße Anwendung zu finden hätten. An dieser Rechtsgemeinschaft ändere auch nichts die gegenteilige Behauptung im Mietvertrag des Klägers, wonach sein Mietvertrag von dem der Hertha M. unabhängig sein sollte, da nur der Beitritt zum Mietvertrag der Hertha M. und nicht ein mit dem Kläger allein abzuschließender Mietvertrag genehmigt worden sei. Durch den Verzicht der Hertha M. sei der Kläger Alleinmieter geworden. Das Untermietrecht der Beklagten wäre aber nur dann erloschen, wenn der Kläger ohne rechtlichen Zusammenhang mit dem bisherigen Hauptmietverhältnis ein neues Hauptmietverhältnis geschlossen hätte und daher nur Zeitnachfolger nach Hertha M. wäre. Aber selbst bei der Konstruktion einer Rechtsnachfolge im Sinne eines Subjektwechsels auf Seite des Hauptbestandnehmers mit Zustimmung der Hausverwaltung wäre für den Kläger nichts gewonnen, da dann in analoger Anwendung des § 1120 ABGB. der Untermieter nur nach gehöriger Aufkündigung zu weichen hätte.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Kläger bekämpft die Annahme einer Rechtsnachfolge, die mit der Annahme einer Rechtsgemeinschaft in einem gewissen Widerspruch stehe. Eine Rechtsgemeinschaft könnte sich nur auf die Beziehungen zwischen Hauptbestandgeber und Hausinhabung beziehen, zu den Untermietern des anderen Hauptbestandnehmers stehe der Kläger in keinen Rechtsbeziehungen.
+Die Ausführungen der Revision sind nicht geeignet, die zutreffende Rechtsansicht des Berufungsgerichtes zu erschüttern. Wie der Kläger selbst vorbringt und wie es auch der Genehmigung der Verwaltungsbehörde entsprach, ist der Kläger dem Mietvertrag der Hertha M. beigetreten. Der Kläger und M. waren damit gemeinsame Mieter dieser Wohnung. Wenn es auch im Mietvertrag des Klägers heißt, das Hauptmietverhältnis des Klägers sei vom Bestehen des Hauptmietverhältnisses der Hertha M. unabhängig, so besagt dies nicht, daß hinsichtlich des gleichen Objektes zwei unabhängige Mietverträge geschlossen worden sind, sondern nur, daß ein Endigungsgrund in der Person des einen Hauptmieters das Mietverhältnis des anderen nicht betreffen solle. Der rechtliche Zusammenhang zwischen den beiden Verträgen ergibt sich aus der Urkunde selbst, da ja die Solidarverpflichtung hinsichtlich des Mietzinses im Punkte 6 des Vertrages ausdrücklich festgelegt wurde. Ist aber der Kläger dem Mietvertrag der Hertha M. durch Abschluß eines Mietvertrages mit der Hausverwaltung beigetreten, dann ist der Kläger auch in alle Rechte und Verbindlichkeiten der Hertha M. hinsichtlich des Bestandgegenstandes eingetreten. Diese gemeinsame Berechtigung und Verpflichtung besteht nicht nur der Hausverwaltung, sondern auch den Untermietern der Hertha M. gegenüber. Der Kläger ist eben einem Hauptmietvertrage, der durch einen Untermietvertrag belastet war, beigetreten. Damit ist er in das Unterbestandverhältnis als Mitbestandgeber eingetreten. Dem Kläger steht deshalb auch gegen die Beklagten kein Räumungsanspruch zu. Er könnte dieses Unterbestandverhältnis nur nach Maßgabe der vertraglichen Bestimmungen und des Mietengesetzes durch Kündigung zur Lösung bringen.

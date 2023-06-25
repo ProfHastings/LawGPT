@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.05.1951
+Geschäftszahl
+2Ob57/51
+Norm
+ABGB §922;
+ABGB §929;
+ABGB §932;
+ABGB §933;
+EO §35;
+Kopf
+SZ 24/120
+Spruch
+Ein Gewährleistungsanspruch kann nicht mehr geltend gemacht werden, wenn der Erwerber gegen die Klage des Veräußerers auf Leistung des vertraglichen Entgeltes für die Lieferung der mangelhaften Sache das Bestehen des Mangels trotz Kenntnis nicht eingewendet hat.
+Entscheidung vom 4. Mai 1951, 2 Ob 57/51.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin begehrte in einer Oppositionsklage die Unzulässigkeitserklärung einer von der beklagten Partei gegen sie eingeleiteten Exekution mit der Behauptung, daß die Lieferung, deretwegen sie in dem Vorprozeß, der mit dem den Exekutionstitel bildenden Vergleich beendet worden war, belangt worden, mangelhaft gewesen sei.
+Das Prozeßgericht wies das Klagebegehren ab.
+Das Berufungsgericht bestätigte das erstgerichtliche Urteil.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In Lehre und Rechtsprechung überwiegt die Meinung, daß ein Erwerber, der den Mangel der geleisteten Sache bereits gekannt hat und ihn gegen die Klage der Veräußerers aus demselben Rechtsgeschäft als Wandlungs- oder Minderungseinrede hätte erheben können, von einer späteren Geltendmachung des Mangels ausgeschlossen ist, weil in der Unterlassung der Einrede ein stillschweigender Verzicht auf den Gewährleistungsanspruch erblickt werden muß (vgl. Pisko in Klangs Kommentar, 1. Aufl., §§ 922 ff., S. 565).
+Diese Schlußfolgerung, die auch das Berufungsgericht gezogen hat, kann im gegebenen Fall ohne Bedenken aus dem festgestellten Verlauf des Titelprozesses abgeleitet werden, weil sich die Revisionswerberin im Titelprozeß auf den Rechtsstreit eingelassen und mehrere andere Einwendungen erhoben hat, ohne die Frage der Gewährleistung zu berühren. Gerade der vom Berufungsgericht als erwiesen angenommene Umstand, daß sich die Revisionswerberin an die Firma H. wegen Behebung der hervorkommenden Mängel gewandt hat und dennoch eine entsprechende Einwendung im Prozeß nicht erhoben, sondern sich zur Zahlung des eingeschränkten Betrages verpflichtet hat, spricht für die Annahme des Berufungsgerichtes, daß die Revisionswerberin den behaupteten Gewährleistungsanspruch nur gegen ihre Lieferfirma H. geltend machen wollte und gegenüber der beklagten Partei auf die Geltendmachung dieses Anspruchs verzichtet hat.
+Die Möglichkeit, daß die Lieferfirma H. die behauptete Zusage der Behebung der Mängel nicht einhalten wird, konnte von der Revisionswerberin von vornherein jedenfalls nicht ausgeschlossen werden; es hätte daher eines entsprechenden Vorbehaltes bedurft, wenn die Revisionswerberin bei Abschluß des Vergleiches sich den Anspruch auf Minderung des Entgeltes gegenüber der Prozeßgegnerin hätte wahren wollen.
+Ist in dem Verhalten der Revisionswerberin im Titelprozeß ein Verzicht auf die Geltendmachung des Gewährleistungsanspruches gegenüber der beklagten Partei gelegen, dann kann in dem Umstand, daß die Lieferfirma H. die Gewährleistungsansprüche zwar entgegengenommen hat, ihrer Verpflichtung aber nicht nachgekommen ist, keineswegs ein Tatbestand im Sinne des § 35 EO. gelegen sein und es kommt daher auf den Zeitpunkt, zu welchem die Unterlassung der Mängelbehebung durch die Firma H. für die Revisionswerberin feststand, nicht an.

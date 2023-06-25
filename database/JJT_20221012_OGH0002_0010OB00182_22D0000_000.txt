@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.10.2022
+Geschäftszahl
+1Ob182/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei L* M*, vertreten durch Mag. Mathias Burger, Rechtsanwalt in Wien, gegen die beklagte Partei T* Limited, *, Malta, vertreten durch die BRANDL TALOS Rechtsanwälte GmbH in Wien, wegen 5.487,32 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 8. Juni 2022, GZ 22 R 120/22h-19, mit dem das Urteil des Bezirksgerichts Hallein vom 22. März 2022, GZ 1 C 1184/21k-13, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Kläger erlitt bei von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Online-Glücksspielen, fast ausschließlich Online-Pokerspiele, zwischen März 2013 bis Jänner 2021 Verluste in Höhe des eingeklagten Betrags.
+[2] 		Die Vorinstanzen gaben der vom Kläger auf die Nichtigkeit der Glücksspielverträge gestützten Klage auf Rückersatz statt.
+[3] 		Das Berufungsgericht führte aus, eine Verwaltungsübertretung nach § 52 Abs 5 GSpG, die dem Kläger angelastet werden könnte, habe nicht den Zweck, den bereicherungsrechtlichen Rückforderungsanspruch zu beschränken. § 52 Abs 5 GSpG diene dem Spielerschutz, nicht dem Schutz der Glücksspielanbieter. Die Rückzahlung von Spielverlusten sei nicht durch § 1174 Abs 1 Satz 1 ABGB ausgeschlossen. Aufgrund der Nichtigkeit der Glücksspielverträge wegen fehlender Konzession könne der Kläger seine Spieleinsätze zurückfordern. Es sprach aus, dass die Revision zulässig sei, weil sich der Oberste Gerichtshof zur Relevanz des Verwaltungsstraftatbestands des § 52 Abs 5 GSpG für Rückforderungsansprüche noch nicht geäußert habe.
+Rechtliche Beurteilung
+[4] 		Die dagegen erhobene Revision der Beklagten ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts (§ 508a Abs 1 ZPO) mangels der Voraussetzungen des § 502 Abs 1 ZPO nicht zulässig.
+[5] 		1. Die Durchführung einer Ausspielung ohne Konzession stellt ein verbotenes Glücksspiel dar. Nach der Rechtsprechung sind jene Spiele im Sinn des § 1174 Abs 2 ABGB verboten und damit nichtig im Sinn des § 879 Abs 1 ABGB, die den in § 168 Abs 1 StGB und § 1 Abs 1 GSpG angeführten Charakter haben, bei denen also Gewinn und Verlust ausschließlich oder vorwiegend vom Zufall abhängen (RS0038378; RS0102178).
+[6] 		Auch der Vertrag, mit dem die Beklagte – konzessionslos – dem Kläger die Teilnahme an Online-Pokerspielen auf ihrer Website ermöglichte, ist nach § 879 Abs 1 ABGB nichtig und die Spieleinsätze aus dem verbotenen Glücksspiel können bereicherungsrechtlich zurückgefordert werden (6 Ob 229/21a ua).
+[7] 		2. Verbotene Spiele erzeugen nicht einmal eine Naturalobligation. Der Verlierer kann die gezahlte Wett- oder Spielschuld zurückfordern, ohne dass dem die Bestimmung des § 1174 Abs 1 Satz 1 ABGB oder § 1432 ABGB entgegenstünde, weil die Leistung „nicht zur Bewirkung“ der unerlaubten Handlung, sondern als „Einsatz“ erbracht wurde. Den Rückforderungsanspruch zu verweigern, widerspräche dem Zweck der Glücksspielverbote (RS0025607 [T1]). Eine uneinheitliche Rechtsprechung liegt daher nicht vor. Auch die in der Revision zitierten Ausführungen von Klausberger/Riss (Glücksspiel- und Kondiktionsausschluss, RdW 2021/542, 676 ff) bieten keine Gründe, von dieser ständigen Rechtsprechung abzugehen (so bereits 9 Ob 54/22i).
+[8] 		3. Dass ein Spieleinsatz in der Regel nicht gegeben wird, um das verbotene Spiel zu bewirken, sondern um am Spiel teilzunehmen bzw um den Gewinn zu bezahlen, entspricht nicht nur der ständigen Judikatur, sondern auch der Lehre (vgl Krejci/Böhler in Rummel/Lukas, ABGB4 §§ 1267–1274 Rz 81; Karner in KBB6, §§ 1267–1274 ABGB Rz 9; Binder/Denk in Schwimann/Kodek, ABGB4 § 1271 Rz 1a).
+[9] 		Damit ist § 1174 Abs 1 Satz 1 ABGB schon seinem Wortlaut nach nicht anwendbar. Darauf, ob der Spieler durch die Teilnahme am verbotenen Spiel einen Verwaltungsstraftatbestand erfüllt, konkret § 52 Abs 5 GSpG (der eine Strafbarkeit „angesichts der besonderen kriminalitäts- und suchtbezogenen Risiken im Bereich des Remote Gamblings aus ordnungspolitischen Gründen“ anordnet; vgl ErläutRV 318 BlgNR 23. GP, 3 [zu § 52 Abs 3 GSpG aF]), kommt es daher nicht an (vgl 9 Ob 54/22i; 7 Ob 102/22h).
+[10] 		4. Diese Rechtsauffassung entspricht – entgegen den Ausführungen in der Revision – auch dem wesentlichen Verbotszweck, nämlich Vermögensnachteile durch verbotene Spiele zu verhindern.
+[11] 		Dass deutsche Amts- und Landesgerichte unter Zugrundelegung der deutschen Rechtslage (§ 817 Satz 2 BGB) allenfalls eine Rückforderung ausgeschlossen haben, bietet keine Grundlage dafür, von der ständigen Rechtsprechung des Obersten Gerichtshofs zur österreichischen Rechtslage abzugehen (so wiederum 9 Ob 54/22i).
+[12] 		5. Die Revision der Beklagten ist daher mangels Vorliegens einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO zurückzuweisen.
+[13] 		6. Die Kostenentscheidung beruht auf § 41 und § 50 ZPO. Der Kläger hat auf die fehlende Zulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00182.22D.1012.000

@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+7Ob83/22i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei A* G*, vertreten durch Mag. Robert Suppan, Mag. Arthur Berger, Rechtsanwälte in St. Veit an der Glan, gegen die beklagte Partei U* AG, * vertreten durch Mag. Claudia Egarter, Rechtsanwältin in Klagenfurt, wegen 15.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 9. Februar 2022, GZ 2 R 225/21x-27, womit das Urteil des Bezirksgerichts St. Veit an der Glan vom 10. August 2021, GZ 3 C 472/20s-23, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihrer Revisionsbeantwortung selbst zu tragen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der Kläger schloss mit der Beklagten für sein Wohnhaus eine Wohnungs-/Eigenheimversicherung ab, der unter anderem die Allgemeinen Bedingungen für die Raiffeisen Eigenheimversicherung (ABEH/RV 06.2014) sowie die Allgemeinen Bedingungen für die Raiffeisen Wohnungsversicherung (ABWH/RV 06.2014) zugrunde liegen. Art 3.5. ABWH/RV 06.2014 und Art 3.7. ABWH/RV 06.2014 lauten übereinstimmend wie folgt:
+„5./7. Katastrophenhilfe-Grunddeckung
+[...]
+Versichert sind
+[...]
+- Schäden infolge Hochwasser
+das sind Schäden an den versicherten Sachen, die durch das Übersteigen des jeweiligen Wasserstandgrenzwertes eines stehenden oder fließenden Gewässers infolge von außergewöhnlichen Niederschlägen oder außergewöhnlicher Schneeschmelze verursacht werden.
+Als Wasserstandgrenzwert findet das vom öffentlichen hydrographischen Dienst publizierte 10-jährliche niedrigste Jahreshochwasser Verwendung.
+- Schäden infolge Überschwemmungen
+das sind Schäden an versicherten Sachen, die durch Austritt von Wasser aus der Wasserführung eines fließenden oder stehenden oberirdischen Gewässers infolge von außergewöhnlichen Niederschlägen oder außergewöhnlicher Schneeschmelze verursacht werden.
+[…]
+- Schäden infolge Rückstau
+Rückstau ist dann gegeben, wenn die vorhandenen Entwässerungssysteme (gilt nicht für Versickerung) auf Grund von Witterungsniederschlägen, oder Schmelzwasser in ihrer Kapazität überlastet sind und das Wasser nicht abführen können.
+[…]
+Nicht versichert sind
+- Schäden durch Grundwasser
+[...]“
+[2] 		Da der Kläger in seiner Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[3] 		1.1. Allgemeine Versicherungsbedingungen (AVB) sind nach den Grundsätzen der Vertragsauslegung (§§ 914 f ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen; dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]). Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RS0050063 [T3]). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RS0107031).
+[4] 		1.2. Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind. Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikobegrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden. Der Zweck liegt darin, dass ein für den Versicherer nicht überschaubares und kalkulierbares Teilrisiko ausgenommen und eine sichere Kalkulation der Prämie ermöglicht werden soll. Mit dem Risikoausschluss begrenzt also der Versicherer von vornherein den Versicherungsschutz, ein bestimmter Gefahrenumstand wird von Anfang an von der versicherten Gefahr ausgenommen (RS0080166 [T10]; vgl RS0080068).
+[5] 		2. Der Oberste Gerichtshof ist zur Auslegung von Allgemeinen Geschäftsbedingungen nicht jedenfalls, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RS0121516). Dass die Auslegung von Versicherungsbedingungen, zu denen nicht bereits höchstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel ist, gilt nach ständiger Rechtsprechung dann nicht, wenn der Wortlaut der betreffenden Bestimmung so eindeutig ist, dass keine Auslegungszweifel verbleiben können (RS0121516 [T6]; 7 Ob 204/20f). Ein solcher Fall liegt hier vor:
+[6] 		3.1. Am 16. November 2019 kam es aufgrund starker Niederschläge zu intensiven Überschwemmungen im Umfeld des versicherten Gebäudes. Der Grundwasserspiegel stieg aufgrund außergewöhnlicher und extremer Niederschläge um rund 2 m über den normalen Grundwasserstand. Ein Grundwassereintritt in den Keller des Gebäudes führte dort zu Feuchtigkeitsschäden. Eine Überflutung des Grundstücks und Eindringen von Oberflächengewässern in das Gebäude und den Keller des Klägers fanden nicht statt.
+[7] 		3.2. Die Rechtsansicht der Vorinstanzen, dass die im Keller des Gebäudes durch Grundwassereintritt entstandenen Schäden nicht vom Versicherungsschutz umfasst seien, ist angesichts des eindeutig formulierten Risikoausschlusses nicht korrekturbedürftig. Entgegen der Ansicht des Revisionswerbers will dieser Risikoausschluss nach seinem klaren Wortlaut Schäden, die infolge bestimmter – grundsätzlich versicherter – Naturkatastrophen am versicherten Gebäude entstanden sind, wieder ausnehmen. Es kann daher im vorliegenden Fall sogar dahin gestellt bleiben, ob der beim Kläger eingetretene Schaden tatsächlich von der primären Risikoumschreibung der Art 3.5. ABWH/RV 06.2014 bzw Art 3.7. ABWH/RV 06.2014 umfasst war, weil jedenfalls der vereinbarte Risikoausschluss für Schäden durch Grundwasser greift. Die Entscheidungen 7 Ob 216/07a und 7 Ob 56/16k sind aufgrund abweichender Bedingungslage nicht einschlägig.
+[8] 		4. Zusammengefasst sind die vom Kläger geltend gemachten Schäden nach dem eindeutigen, keinen Auslegungsspielraum zulassenden Wortlaut der Versicherungsbedingungen nicht gedeckt. Da der Versicherungsnehmer stets mit solchen Risikoausschlüssen und -begrenzungen rechnen muss, weil es in Österreich keine All-Risk-Versicherung gibt (RS0119747), zeigt die Revision insgesamt keine erhebliche Rechtsfrage auf.
+[9] 		5. Da die Beklagte auf die Unzulässigkeit der Revision nicht hingewiesen hat, gebührt ihr kein Kostenersatz (vgl RS0112296).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00083.22I.0824.000

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.1948
+Geschäftszahl
+3Ob253/48
+Norm
+ABGB §367;
+ABGB §879;
+EO §37;
+EO §178;
+Kopf
+SZ 21/138
+Spruch
+§ 367 ABGB., § 178 EO., Hofdekret vom 6. Juni 1838, JGS. Nr. 277. Voraussetzung des Eigentumserwerbes an beweglichen Sachen durch öffentliche Versteigerung.
+Umtriebe und Verabredungen, durch die Mitbieter vom Bieten abgehalten werden, machen die Versteigerung nicht ungültig, sondern verpflichten zum Schadenersatz.
+Entscheidung vom 29. September 1948, 3 Ob 253/48.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die klagende Partei begehrte die Verurteilung des Beklagten zur Herausgabe von Maschinen und Büroeinrichtungsgegenständen, die der Beklagte bei einer gegen die Klägerin anhängig gewesenen Zwangsversteigerung erstanden hatte. Das Klagebegehren wurde unter anderem damit begrundet, daß der Beklagte vor Beginn der Versteigerung Bieter mit der unwahren Behauptung, die Versteigerung werde nicht stattfinden, weggeschickt, sich dadurch eines Betruges schuldig gemacht und die klagende Partei dadurch, daß die Gegenstände nur um den halben Schätzwert versteigert wurden, geschädigt habe.
+Das Prozeßgericht wies das Klagebegehren mit der Begründung ab, daß der Beklagte wegen des Wegschickens der Bieter nur aus dem Titel des Schadenersatzes auf Zahlung, nicht aber aus dem Titel des Eigentums nach § 367 ABGB. auf Rückstellung geklagt werden könne.
+Das Berufungsgericht gab der Berufung der klagenden Partei Folge und gab dem Klagebegehren statt. Es stellte sich auf den Standpunkt, der Beklagte habe Mitbieter mit der unwahren Behauptung, die Versteigerung werde nicht stattfinden, weggeschickt und sich dennoch an der Versteigerung beteiligt, er sei deshalb nicht im guten Glauben an die Ordnungsmäßigkeit der Versteigerung gewesen, da nur eine solche zum Eigentumserwerb nach § 367 ABGB. hinreichend sei.
+Der Oberste Gerichtshof gab der Revision des Beklagten Folge und stellte das Urteil des Prozeßgerichtes wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Rechtsansicht des Berufungsgerichtes, daß der Beklagte nicht redlicher Eigentümer geworden sei, weil er Mitbieter vom Versteigerungstermin weggeschickt habe, trifft nicht zu.
+Die Entscheidung GlUNF. 1600, auf die das angefochtene Urteil Bezug nimmt, bezieht sich auf einen ganz anders gelagerten Fall, in welchem nicht der Verpflichtete, sondern ein Dritter, der Eigentumsrechte an den versteigerten Sachen besaß und es verabsäumt hatte, eine Klage nach § 37 EO. einzubringen, unter Hinweis auf sein Eigentumsrecht den schlechtgläubigen Ersteher, dem im Zeitpunkte der Versteigerung das Eigentumsrecht des Dritten an den Gegenständen bekannt war, auf Herausgabe seines Eigentums geklagt hatte. Auch die im Urteile des Berufungsgerichtes bezogene Entscheidung SZ. VI/228 kann nicht zur Stützung der Rechtsansicht des Berufungsgerichtes herangezogen werden. Denn diese Entscheidung sagt lediglich, daß für den Begriff der öffentlichen Versteigerung im Sinne des § 367 ABGB. die funktionelle Zuständigkeit des die Versteigerung vornehmenden Organes, die ordnungsgemäße Ankündigung der bevorstehenden Versteigerung und der ordnungsgemäße Vorgang bei der Vornahme Voraussetzungen sind, und daß es an einer öffentlichen Versteigerung fehle, wenn eines dieser drei Elemente fehlt. Der Entscheidung lag der Fall zugrunde, daß eine Kommission, die zur Vornahme von öffentlichen Versteigerungen nicht befugt war und die Bestimmungen der Exekutionsordnung über den Vorgang bei einer öffentlichen Versteigerung nicht eingehalten hatte, eine Versteigerung vornahm. Die drei erwähnten Voraussetzungen sind jedoch im vorliegenden Falle gegeben. Denn die Versteigerung wurde nach gehöriger Kundmachung von einem vom zuständigen Exekutionsgericht beauftragten Vollstreckungsorgan entsprechend den Bestimmungen der Exekutionsordnung durchgeführt. Der Begriff des "ordnungsgemäßen Vorganges" bezieht sich lediglich auf das Verhalten des die Versteigerung durchführenden Vollstreckungsorganes, von welchem die Klägerin nicht einmal behauptet hat, daß es die Bestimmungen der Exekutionsordnung über die Durchführung von Zwangsvollstreckungen auf bewegliche Sachen nicht eingehalten hätte. Umtriebe und Verabredungen dritter Personen, durch die Bieter abgehalten werden sollen, sind zwar verboten und unwirksam, vermögen jedoch nach dem Hofdekret vom 6. Juni 1838, JGS. Nr. 277, die Anfechtung einer Versteigerung wegen Ungültigkeit nicht zu begrunden. Sie berechtigen lediglich den durch eine solche Handlungsweise Geschädigten - es kann dies auch der Verpflichtete sein - zum Begehren auf Schadenersatz (Klang II/2 zu § 879 ABGB.; Neumann - Lichtblau zu § 178 EO.). Das Verhalten des Beklagten bei der Versteigerung hat daher deren Rechtskraft nicht behoben, die klagende Partei hat durch den Zuschlag ihr Eigentumsrecht verloren und ist zur Rückforderung der versteigerten Gegenstände aus dem Titel des Eigentumsrechts nicht berechtigt.

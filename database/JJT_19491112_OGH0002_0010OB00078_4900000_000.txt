@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.11.1949
+Geschäftszahl
+1Ob78/49
+Norm
+Sachschadenhaftpflichtgesetz vom 29. April 1940, DRGBl. I S. 691 §1;
+Sachschadenhaftpflichtgesetz vom 29. April 1940, DRGBl. I S. 691 §2;
+Versicherungsvertragsgesetz §1;
+Kopf
+SZ 22/172
+Spruch
+Haftung der Bahn für Schäden beim Abholen von Wagen auf dem Anschlußgleise nach § 1 Sachschadenhaftpflichtgesetz.
+Entscheidung vom 12. November 1949, 1 Ob 78/49.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Am 26. August 1946 um 17 Uhr 30 traf der fahrplanmäßige Lastzug in der Haltestelle G. der österreichischen Bundesbahnen ein. Die Lokomotive fuhr vom Hauptgleis auf das zur X-Zuckerfabrik gehörige Industriegleis, von dem das Schleppbahngleis der Walzmühle bei der Weiche 2 abzweigt, um von diesem letzteren Gleis neun Waggons wegzuführen. Die Zugstange des ersten Wagens, der an die Lokomotive angeschlossen werden sollte, war gerissen. Durch das Anfahren der Lokomotive, das nicht mit besonderer Heftigkeit erfolgte, gerieten die Eisenbahnwagen, die weiters nicht gesichert waren, ins Rollen und stießen an einen am Gleis in einiger Entfernung von den Wagen stehenden Lastkraftwagen an.
+Dieser Lastkraftwagen gehört dem Transportunternehmer Andreas E. und wurde eben damals an dieser Stelle entladen. Durch den Anprall wurde das Auto beschädigt.
+Von den Parteien wurde außer Streit gestellt, daß die Rechtsverhältnisse zwischen der beklagten Partei und dem Anschlußgleisinhaber Leopold H. mit den allgemeinen Bedingungen für Privatgleisanschlüsse vom 1. Juli 1922 (PAB) und mit dem Schreiben der Deutschen Reichsbahn vom 20. Oktober 1939 geregelt wurden, wobei insbesondere als Wagenübergabsstelle die Weiche Nr. 2 gilt. Das Erstgericht, das die Verhandlung auf den Grund des Anspruches einschränkte, hat mit Zwischenurteil ausgesprochen, daß der auf § 1 VersVG. und § 1 Sachschadenhaftpflichtgesetz gestützte Anspruch der klagenden Partei auf Schadenersatz dem Gründe nach nicht zu Recht besteht.
+In rechtlicher Beziehung führt es, ohne die Frage zu erörtern, ob eine mangelhafte Betriebseinrichtung oder ein Verschulden der Bahnorgane vorliegt, aus, daß eine Haftung der beklagten Partei nicht eintrete, da der Sachschaden sich im Bereiche des Anschlußgleises ereignet habe, zumal gemäß § 18 Abs. 2 der "PAB" der Anschließer auch für Verschulden der Bahnorgane, die im Anschlußbetrieb verwendet werden, hafte.
+Der wider dieses Urteil aus den Gründen der Mangelhaftigkeit des Verfahrens, der Aktenwidrigkeit und der unrichtigen rechtlichen Beurteilung erhobenen Berufung der klagenden Partei gab das Berufungsgericht Folge und änderte das erstrichterliche Urteil dahin ab, daß der Anspruch der klagenden Partei dem Grund nach als zu Recht bestehend erkannt wurde.
+Das Berufungsgericht übernahm die erstrichterlichen Feststellungen und führte in rechtlicher Beziehung aus, daß dem Kläger gegenüber lediglich die österreichischen Bundesbahnen als Betriebsunternehmer in Betracht kämen und Haftbefreiungsgrunde im Sinne des § 2 Sachschadenhaftpflichtgesetz nicht geltend gemacht wurden. Die beklagte Partei sei daher haftpflichtig, wobei nur im Verhältnis zwischen der beklagten Partei und dem Anschlußgleisbesitzer die Frage des Verschuldens zu lösen wäre.
+Die Revision der klagenden Partei blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Unter Anrufung des Revisionsgrundes der unrichtigen rechtlichen Beurteilung wird ausgeführt, daß eine Haftung der beklagten Partei nicht gegeben sei, da das schädigende Ereignis sich im Bereich des Anschlußgleises ereignet habe und die beklagte Partei weder auf Grund der "PAB" noch auf Grund wirtschaftlicher Gesichtspunkte als Betriebsunternehmer für den Bereich des Anschlußgleises anzusehen sei. Als ein Betriebsunternehmer sei nur das Rechtssubjekt anzusehen, das den Betrieb für eigene Rechnung und auf eigene Gefahr ausübe.
+Die zu lösende Rechtsfrage geht dahin, ob die Beklagte oder der Anschlußgleisbesitzer als Betriebsunternehmer im Sinne des § 1 des Sachschadenhaftpflichtgesetzes bei dem gegenständlichen Verschub anzusehen ist.
+Betriebsunternehmer ist nicht derjenige, welcher den technischen Betrieb ausführt oder ausführen läßt, sondern derjenige, auf dessen Kosten und Gefahr der Betrieb stattfindet.
+Es ist der Revision zuzustimmen, daß ein Besitzer von Anschlußgleisen, die seine Betriebsstätte mit der Hauptbahn verbinden, Betriebsunternehmer ist, wenn er das Zubringen und Abholen der Wagen auf den Anschlußgleisen in seinem Interesse und auf seine Kosten selbst zu besorgen hat. Werden daher bei solchen Anschlußgleisen die Wagen von der Hauptbahn bis zu einem Merkpfahl der Hauptstrecke gefahren und dort von den Leuten der Fabrik übernommen und von diesen über die Anschlußgleise befördert, so ist die Haftung territorial derartig begrenzt, daß jede Unternehmung für die auf ihrem Territorium sich ereignenden Sachschäden die Verantwortung trägt.
+In den Fällen, wo sich an den Wagentransport des Anschlußgleisbesitzers die Abholung und Überführung der Wagen durch die Lokomotive der Hauptbahn auf die Hauptbahn anschließt, kann freilich bei einem teilweisen Ineinandergreifen der beiderseitigen Betriebe die Abgrenzung im Einzelfall zweifelhaft werden und es wirft sich nun die Frage auf, ob die Abholung und Überführung zum Betrieb des Anschlußgleises gehört oder ob das räumlich in das Gebiet des Betriebes hinübergreifende Abholen der Wagen zum Betrieb der Hauptbahn gerechnet werden kann.
+Die Abmachungen zwischen dem Inhaber eines Anschlußgleises und der Bahn können einen unmittelbaren Einfluß auf die Frage nach der Haftpflicht nicht haben; denn die Haftpflicht kann nicht vertragsmäßig auf jemanden abgewälzt werden, in dessen Person die gesetzlichen Voraussetzungen nicht zutreffen.
+In diesen Fällen kommt es darauf an, ob die beim Abholen entwickelte Transporttätigkeit wirtschaftlich als Betrieb der Hauptbahn anzusehen oder nur eine Dienst- und Hilfeleistung für den Betrieb des Anschlußgleises ist.
+Werden diese Grundsätze auf den gegenständlichen Fall angewendet, so bedeutet dies, daß die beklagte Partei als Betriebsunternehmer anzusehen ist.
+Da die beklagte Partei, wie sich auf Grund der Feststellungen der Untergerichte ergibt, gegenüber dem Anschlußgleisbesitzer die Verpflichtung übernommen hat, die Wagen abzuholen (bzw. zuzuführen), stellt sich diese beim Abholen entwickelte Tätigkeit wirtschaftlich nicht als eine Dienst- oder Hilfeleistung der Hauptbahn zu dem Betrieb des Anschlußgleises dar, sondern muß diese Tätigkeit der beklagten Partei wirtschaftlich als Betrieb der Hauptbahn angesehen werden und gilt daher die beklagte Partei als Betriebsunternehmer im Sinne des § 1 Sachschadenhaftpflichtgesetz, auch wenn dieses Abholen auf dem Anschlußgleise erfolgte.
+Da anläßlich der Abholung von Wagen ein Sachschaden eingetreten ist und Haftbefreiungsgrunde nach § 2 des obzitierten Gesetzes vom 29. April 1940, DRGBl. I S. 691, nicht geltend gemacht wurden, erscheint daher der Ausspruch des Berufungsgerichtes, daß der Anspruch der klagenden Partei dem Gründe nach zu Recht besteht, gerechtfertigt.
+Der Revision war daher der Erfolg zu versagen.

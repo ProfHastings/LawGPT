@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.11.1950
+Geschäftszahl
+1Ob323/50
+Norm
+ABGB §1157;
+ABGB §1169;
+ABGB §1295;
+ABGB §1320;
+Reichsversicherungsordnung §537;
+Reichsversicherungsordnung §898;
+Reichsversicherungsordnung §1042;
+Strafgesetz §335;
+Strafgesetz §391;
+Strafgesetz §431;
+ZPO §503 Z4;
+Kopf
+SZ 23/325
+Spruch
+Wer einem andern ein Tier zur Beaufsichtigung übergibt, hat hiebei jene Sorgfalt anzuwenden, die eine Gefährdung des Übernehmers ausschließt.
+Entscheidung vom 15. November 1950, 1 Ob 323/50.
+I. Instanz: Kreisgericht Leoben; II. Instanz: Oberlandesgericht Graz.
+Text
+Der Kläger hat in seiner Jugend seiner Mutter durch zehn Monate beim Viehhüten geholfen. Als Strafhäftling wurde er am 31. Oktober 1943 außerhalb der Strafanstalt bei der beklagten Partei zum Viehhüten verwendet. Unter seiner Aufsicht weideten auf einer Wiese 10 bis 20 Stück Rinder, darunter ein Ochse, der dem Kläger vor Übernahme dieser Arbeit von Angestellten der beklagten Partei wiederholt als bösartig bezeichnet worden war. Der Kläger, der sich selbst als Viehhüter angeboten hatte, hat auf diese Warnung hin erklärt, er kenne sich beim Vieh aus, er sei schon öfter beim Vieh gewesen. Der erwähnte Ochse mußte im Auge behalten werden. Er hatte schon einmal einen Angestellten der beklagten Partei Peter K. von rückwärts angefallen und umgeworfen. Als nun am 31. Oktober 1943 der Kläger ein anderes Rindvieh aus der ihm anvertrauten Herde beobachtete, überfiel ihn der bösartige Ochse von rückwärts, trat ihn nieder und verletzte ihn schwer. Der Kläger verlangt Schadenersatz für die erlittene Körperbeschädigung.
+Das Erstgericht hat mit Zwischenurteil festgestellt, daß der Klagsanspruch dem Gründe nach nicht zu Recht bestehe. Da der Kläger von den Angestellten der beklagten Partei gewarnt worden sei, treffe die beklagte Partei keinerlei Verschulden.
+Das Berufungsgericht hat erkannt, daß der Klagsanspruch dem Gründe nach zur Hälfte zu Recht und zur anderen Hälfte nicht zu Recht bestehe. Die beklagte Partei habe gemäß § 1320 ABGB. nicht bewiesen, daß sie für erforderliche Verwahrung und Beaufsichtigung des Ochsen gesorgt habe, Kläger sei durch seine Unachtsamkeit trotz der ihm zugekommenen Warnung an seinem Unfalle mitschuldig.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei Folge, hob das Urteil des Berufungsgerichtes auf und wies die Sache zur neuerlichen Verhandlung und Entscheidung an das Berufungsgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Kläger war nicht unfallversichert im Sinne des § 537 RVO. (Entscheidung des Bundesministeriums für soziale Verwaltung vom 18. Februar 1947, Z. II 48.768-4/46, Entscheidung des Schiedsgerichtes der Sozialversicherung für Steiermark vom 12. Oktober 1948, 1 Csv 82/48-6, vgl. auch JME. vom 19. September 1946, Z. 46.309/46). Daher scheidet ein Haftungsausschluß nach den §§ 898, 1042 RVO. aus. Auch ein Haftpflichtausschluß nach § 23 Abs. 1 des Gesetzes, betreffend die Unfallfürsorge für Gefangene vom 30. Juni 1900, DRGBl. S. 536, findet nicht statt, weil das erwähnte Gesetz in Österreich nicht eingeführt worden ist.
+Da zwischen den Streitteilen ein Vertragsverhältnis über vom Kläger der beklagten Partei zu leistende Dienste nicht bestanden hat - ein solches bestand nur zwischen der Gefangenhausverwaltung L. und der beklagten Partei - kommt eine Haftung der beklagten Partei gegenüber dem Kläger aus einem Vertrage nicht in Frage. Wenn aber auch eine direkte Anwendung der §§ 1157, 1169 ABGB. im gegenständlichen Falle nicht möglich ist, erachtet das Revisionsgericht doch die analoge Heranziehung dieser Bestimmungen für zulässig. Daher wird zunächst festzustellen sein, ob die beklagte Partei alles vorgekehrt hat, um Leben und Gesundheit des Beklagten, den in diesem Belange schlechter zu stellen als einen Dienstnehmer der beklagten Partei kein Grund vorliegt, zu schützen, soweit es nach der Natur seiner Dienstleistung möglich war (vgl. hiezu Hofrichter, Das mittelbare Arbeitsverhältnis, Deutscher Rechtsverlag, 1939, insbesondere S. 60 und - im Ergebnis richtig - S. 201).
+Abgesehen davon, könnte aber auch eine deliktische Haftung der beklagten Partei bestehen. Diese kann nicht schon deswegen ausgeschlossen werden, weil der Kläger auf sein Anbot von der beklagten Partei zum Viehhüter bestellt und vor dem bösartigen Ochsen gewarnt worden war (vgl. SZ. VII/209). Wenn jemand ein Tier einem anderen zur Beaufsichtigung übergibt, ergibt sich schon aus §§ 335, 431 im Zusammenhalt mit § 391 StG., daß er hiebei jene Sorgfalt anzuwenden verpflichtet ist, die eine Gefährdung des Übernehmers ausschließt. Eine Verletzung dieser Sorgfaltspflicht ist als Verschulden (§ 1295 ABGB.) zuzurechnen. Erst die genaueste Feststellung der Umstände, die den gegenständlichen Unfall verursachten, insbesondere der für den Kläger bestehenden Möglichkeit, den Ochsen bei der Verrichtung der ihm übertragenen Arbeit immer im Auge zu behalten und sich dadurch vor Schaden zu schützen, wird die Beurteilung zulassen, ob die beklagte Partei im gegenständlichen Falle jene Sorgfalt angewendet hat, die ihr vernünftigerweise zugemutet werden kann.
+Das Berufungsgericht hat in den ausgeführten Richtungen keine Feststellungen vorgenommen. Denn die nicht näher begrundete Behauptung des Berufungsgerichtes, daß die beklagte Partei den Ochsen nicht auf einer offenen Weide hätte frei weiden lassen dürfen, sondern ihn am besten im Stalle belassen hätte, welche Behauptung nicht erkennen läßt, ob sie das Gericht aus eigener Sachkenntnis geschöpft hat, spricht eher die vom Obersten Gerichtshof abgelehnte Rechtsansicht aus, § 1320 ABGB. verlange, daß der Tierhalter jede Möglichkeit der Beschädigung durch das Tier ausschließe (vgl. hiezu Klang - Wolff, Komm., 2. Aufl., zu § 1320 ABGB. S. 114, Fußnote 47), als eine auf Grund eigener Sachkenntnis getroffene Feststellung über den Umfang der Fürsorgepflicht, bzw. Sorgfaltspflicht der beklagten Partei im oben ausgeführten Sinne. Dieser Umfang wird genau festzustellen sein. Dabei wird auch allenfalls die Feststellung notwendig werden, ob die dem Kläger zugekommene Warnung nach den Umständen ausreichend gewesen ist, insbesondere ob er darauf aufmerksam gemacht wurde, daß der Ochse nicht aus den Augen gelassen werden dürfe, da er Menschen von rückwärts anzugehen pflege.
+Da sonach der geltend gemachte Revisionsgrund des § 503 Z. 4 ZPO. sich als berechtigt erweist, dem gestellten Antrag auf Abänderung des Berufungsurteiles aber nicht stattgegeben werden kann, weil der bei der richtigen rechtlichen Beurteilung der Sache nach Inhalt der Prozeßakten maßgebende Sachverhalt im Berufungsurteil nicht festgestellt erscheint, ist der Revision Folge zu geben, das Berufungsurteil aufzuheben und die Sache zur Verfahrensergänzung an das Berufungsgericht zurückzuverweisen (JB. 230).

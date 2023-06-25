@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2023
+Geschäftszahl
+7Ob217/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei I* M*, vertreten durch Dr. Stephan Duschel, Rechtsanwalt in Wien, gegen die beklagte Partei A* SE *, vertreten durch die Mag. Martin Paar, Rechtsanwalt in Wien, wegen 33.485,10 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 8. November 2022, GZ 5 R 87/22h-60, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Rechtsschutzversicherungsvertrag, dem die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB 2003) zugrunde liegen.
+[2] 		Die Klägerin begehrte von ihrem ehemaligen Lebensgefährten Zahlung von 585.313,10 EUR sA sowie die Feststellung der Haftung für zukünftige Schäden, weil er sie vom Balkon gestoßen und dadurch schwer verletzt habe. Diese Klage hat das Landesgericht für Zivilrechtssachen Wien mit Urteil vom 24. August 2021 rechtskräftig abgewiesen. Der Klagsvertreter stellte seine Honorarforderung am 1. Dezember 2021 gegenüber der Klägerin fällig, stundete jedoch den Betrag bis zum rechtskräftigen Abschluss des Deckungsprozesses. Die Klägerin ersetzte bislang weder dem Gegner des Haftpflichtprozesses dessen Kosten, noch beglich sie die Honorarforderung des Klagsvertreters.
+[3] 		Die Klägerin begehrt vom beklagten Rechtsschutzversicherer die Zahlung der Kosten des Haftpflichtprozesses und in eventu die Feststellung der Versicherungsdeckung.
+[4] 		Die Vorinstanzen wiesen sowohl das Hauptbegehren als auch das Eventualbegehren ab.
+[5] 		Dagegen wendet sich die außerordentliche Revision der Klägerin.
+Rechtliche Beurteilung
+[6] 		1. Die Rechtsschutzversicherung als passive Schadensversicherung (RS0127808) schützt den Versicherungsnehmer gegen das Entstehen von Verbindlichkeiten (Passiva). Sie bietet Versicherungsschutz gegen die Belastung des Versicherungsnehmers mit Rechtskosten (7 Ob 50/22m). Die Hauptleistungspflicht des Versicherers in der Rechtsschutzversicherung besteht in der Tragung der dem Versicherungsnehmer entstehende Kosten (§ 158j Abs 1 VersVG; RS0081895 [T1]; 7 Ob 50/22m mwN).
+[7] 		2.1. Vor Fälligkeit des Leistungsanspruchs kann nur auf Feststellung dahin geklagt werden, dass der Versicherer verpflichtet ist, Rechtsschutzdeckung in bestimmten Angelegenheiten zu gewähren. Nach Eintritt der Fälligkeit ist die Frage der Deckungspflicht sodann Vorfrage für den Leistungsanspruch (RS0127808 [T4]). Beim Leistungsanspruch handelt es sich aber (zunächst) nur um einen Befreiungsanspruch, somit nicht (primär) um einen Geldanspruch. Nur wenn der Versicherungsnehmer seinen Kostengläubiger bereits selbst befriedigt hat, kann sich sein Befreiungsanspruch in einen Kostenerstattungsanspruch gegen den Rechtsschutzversicherer verwandeln (RS0129063 [T1]).
+[8] 		2.2. Im vorliegenden Fall ist nicht strittig, dass der Leistungsanspruch der Klägerin gegenüber dem beklagten Versicherer fällig ist. Der dadurch gegebene Freistellungsanspruch geht auf Befreiung von den bei der Wahrnehmung des versicherten rechtlichen Interesses entstehenden Kosten. Dieser Freistellungsanspruch ist aber – wie ausgeführt – einem Geld-/Zahlungsanspruch nicht gleichgestellt. Vielmehr kann er sich erst dann in einen Kostenerstattungsanspruch gegen den Rechtsschutzversicherer verwandeln, wenn der Versicherungsnehmer seinen Kostengläubiger bereits selbst befriedigt hat (vgl 7 Ob 50/22m; 7 Ob 122/22z). Der Versicherungsnehmer hat nach Fälligkeit seines Leistungsanspruchs aber auch kein rechtliches Interesse an der Feststellung der Versicherungsdeckung (§ 228 ZPO) mehr, weil die Möglichkeit der Leistungsklage (im vorliegenden Stadium: auf Freistellung) nach ständiger Rechtsprechung bei gleichem Rechtsschutzeffekt die Feststellungsklage verdrängt (RS0038849, RS0039021; 7 Ob 122/22z).
+[9] 		3. Hier hatten die Parteien in der mündlichen Verhandlung übereinstimmend erklärt, dass der Haftpflichtprozess rechtskräftig abgeschlossen ist, worauf das Erstgericht darlegte, dass die Klägerin nunmehr eine Leistungsklage erheben müsse. Infolge dieser Erörterung stellte die Klägerin ihr Feststellungsbegehren auf ein Zahlungsbegehren um. Dagegen wandte die Beklagte ein, dass nach der Rechtsprechung des Obersten Gerichtshofs ein Zahlungsbegehren unzulässig sei, weil die Kostengläubiger noch nicht befriedigt worden seien. Dennoch ließ der Klagsvertreter das Zahlungsbegehren unverändert und erhob lediglich eventualiter ein Begehren auf Feststellung der Versicherungsdeckung. Da das Geldleistungsbegehren mangels Zahlung der Kostenschuld und das eventualiter gestellte Feststellungsbegehren wegen Fehlens des rechtlichen Interesses nicht berechtigt ist, und der Mangel des rechtlichen Interesses in jeder Lage des Verfahrens von Amts wegen wahrzunehmen ist (vgl RS0039123 [insb T18]), bedarf die von den Vorinstanzen vorgenommene Klagsabweisung keiner Korrektur.
+[10] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00217.22W.0125.000

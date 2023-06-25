@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.08.2019
+Geschäftszahl
+4Ob108/19i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin B***** GmbH, *****, vertreten durch Hämmerle & Hämmerle Rechtsanwälte GmbH in Rottenmann, gegen den Beklagten B***** S*****, vertreten durch Mag. Andreas Pazderka, Rechtsanwalt in Bruck an der Leitha, wegen 92.717,50 EUR sA, über die außerordentliche Revision (Interesse 42.717,50 EUR) der Klägerin gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 17. April 2019, GZ 2 R 6/19w-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Beklagte verkaufte der Klägerin einen gebrauchten Lkw. Beide Parteien gingen irrtümlich davon aus, dass das Fahrzeug eine Kilometerleistung von rund 360.000 anstelle der tatsächlichen 1.360.000 absolviert habe.
+Die Klägerin begehrte aus dem Titel der Irrtumsanfechtung die Rückzahlung des Kaufpreises von 50.000 EUR Zug um Zug gegen Übergabe des Lkw sowie den Ersatz der Aufwendungen in Höhe von 42.717,50 EUR.
+Das Erstgericht gab der Klage mit 50.000 EUR statt und wies das Mehrbegehren von 42.717,50 EUR ab.
+Das von der Klägerin angerufene Berufungsgericht bestätigte diese Entscheidung und sprach aus, dass die ordentliche Revision nicht zulässig sei. Die Aufwendungen der Klägerin (im Wesentlichen im Zusammenhang mit dem Ladeaufbau) hätten zu keiner Werterhöhung im Rahmen des Gesamtwerts geführt. Die Klägerin habe selbst vorgebracht, dass der Lkw an seinem Nutzungsende angelangt und unverkäuflich sei und keinerlei Wert mehr repräsentiere.
+Rechtliche Beurteilung
+Die dagegen von der Klägerin erhobene, auf den Zuspruch des Mehrbegehrens von 42.717,50 EUR gerichtete außerordentliche Revision ist in Ermangelung von erheblichen Rechtsfragen nicht zulässig.
+1. Der von den Streitteilen geschlossene Kaufvertrag wurde aufgrund eines gemeinsamen Irrtums (über den wahren Kilometerstand) aufgehoben; es erfolgt somit eine Rückabwicklung nach § 877 ABGB. Inhalt und Umfang richten sich nach den allgemeinen bereicherungsrechtlichen Grundsätzen (RIS-Justiz RS0016361 [T4]). Die Rechtsfolgen der Rückabwicklung nach § 877 ABGB entsprechen jenen der §§ 1431 und 1437 ABGB (RS0123426). Dem Kondiktionsschuldner gebührt, soweit er als redlicher Besitzer anzusehen ist, Aufwandersatz iSd § 331 ABGB und, soweit er als unredlicher Besitzer anzusehen ist, Aufwandersatz iSd § 336 ABGB (RS0010232).
+1.2. Hat der redliche Besitzer an die Sache entweder zur fortwährenden Erhaltung der Substanz einen notwendigen, oder, zur Vermehrung noch fortdauernder Nutzungen einen nützlichen Aufwand gemacht, so gebührt ihm nach § 331 ABGB der Ersatz nach dem gegenwärtigen Wert, insofern er den wirklich gemachten Aufwand nicht übersteigt. Der Ersatz des Aufwands ist zweifach begrenzt: Einerseits durch den noch vorhandenen, also den gegenwärtigen Wert der Aufwände und andererseits, wenn diese Wertsteigerung den wirklichen Aufwand übersteigt, durch diesen. Anders gesagt: Fruchtloser Aufwand wird ebenso wenig ersetzt wie eine den Aufwand übersteigende Werterhöhung. Es trägt daher der Besitzer die Gefahr des bereits ursprünglich fehlschlagenden Aufwands, aber auch die Gefahr der nachträglichen Vereitelung eines erfolgreichen Aufwands (RS0130237).
+1.3. Das Berufungsgericht legte – auf Basis der für den Obersten Gerichtshof bindenden Tatsachenfeststellungen – rechnerisch nachvollziehbar dar, dass für einen gemäß § 331 ABGB ersatzfähigen Aufwand im Rahmen des noch vorhandenen Werts kein Raum bleibt. Das Rechtsmittel setzt sich damit nicht auseinander. Es behauptet lediglich, es fehle Rechtsprechung zur Frage des ersatzfähigen Aufwands, ohne dies näher darzulegen. Tatsächlich sind die eingangs dargelegten Grundsätze in der Rechtsprechung geklärt.
+2.1. Zur Darlegung ihres Ersatzanspruchs zitiert die Revisionswerberin den Rechtssatz RS0108249. Dieser lautet:
+Tätigt der redliche Bereicherungsschuldner Aufwendungen auf die zurückzustellende Liegenschaft, die dadurch nur eine geringere Wertsteigerung erfährt als die aufgewendeten Mittel ausmachen, so bemisst sich der Aufwandersatzanspruch nur nach dem geringeren Betrag; dabei ist die Nützlichkeit für den Kondiktionsgläubiger nach objektivem Maßstab zu beurteilen.
+2.2. Das Berufungsgericht hat dem Rechnung getragen, indem es sinngemäß darauf hinwies, dass die spezielle Beschaffenheit (des von der Klägerin umgestalteten Lkw-Aufbaus) nach den Bedürfnissen der Klägerin nicht maßgeblich sei. Schon das Erstgericht hat erkannt, dass der Aufbau keinen Wert hat, wenn der Lkw nicht betrieben werden kann. Damit sind die Vorinstanzen aber ohnedies von einer objektiven Betrachtung ausgegangen. Die Entscheidungen der Vorinstanzen halten sich daher im Rahmen der Rechtsprechung des Obersten Gerichtshofs. Eine unvertretbare Fehlbeurteilung vermag die Revision nicht darzulegen.
+3. Die weiteren Ausführungen der Revision gehen nicht vom festgestellten Sachverhalt aus und sind daher unbeachtlich.
+Die mangels erheblicher Rechtsfragen unzulässige außerordentliche Revision ist somit zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00108.19I.0822.000

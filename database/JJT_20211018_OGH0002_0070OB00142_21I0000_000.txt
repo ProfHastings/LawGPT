@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob142/21i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei L*, vertreten durch die Steßl und Kasper Rechtsanwälte GmbH in Graz, gegen die beklagte Partei W* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Mai 2021, GZ 3 R 9/21x-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen der Ö* Z* und der Beklagten besteht ein Amtshaftpflicht-versicherungsvertrag für Rechtsträger. Die Klägerin ist mitversichert.
+[2] 		Dem Versicherungsvertrag liegen unter anderem die 62 H – Amtshaftpflicht-Versicherungs-Bedingungen für Rechtsträger für Körperschaften öffentlichen Rechts und Sozialversicherungsträger (AVBR 1997) und die 63 H – Amtshaftpflicht-Versicherungsbedingungen für Organe von Körperschaften öffentlichen Rechts und Sozialversicherungsträgern (AVBO 1997) zugrunde, die gleichlautend auszugsweise wie folgt lauten:
+„Der Versicherungsschutz (Artikel 1–4)
+Artikel 1
+Gegenstand der Versicherung
+1. Der Versicherer hat den Versicherungsnehmer schadlos zu halten, wenn und insoweit dieser in seiner Eigenschaft als Rechtsträger aufgrund des Amtshaftungsgesetzes (BGBl. 20/1949) in der jeweils geltenden Fassung für den Schaden am Vermögen oder an der Person haftet, den die als seine Organe handelnden Personen in Vollziehung der Gesetze durch ein rechtswidriges Verhalten Dritten schuldhaft zugefügt haben.
+[...]“
+Rechtliche Beurteilung
+[3] 		1.1. Der Versicherungsschutz in der Haftpflichtversicherung umfasst die den Umständen nach gebotenen gerichtlichen und außergerichtlichen Kosten der Feststellung und Abwehr einer von einem Dritten behaupteten Schadenersatzpflicht, aber nur jene Ansprüche betreffend, die grundsätzlich von der Deckungspflicht des Versicherers umfasst sind. Die Kostendeckung für die Anspruchsfeststellung und -abwehr reicht daher nicht weiter als das materiell gedeckte Risiko (RS0132326).
+[4] 		1.2. Der Deckungsanspruch des Haftpflicht-versicherten ist durch das versicherte Risiko spezialisiert und von dem vom Geschädigten erhobenen Anspruch abhängig (RS0081015). Andernfalls hätte es nämlich der Versicherungsnehmer in der Hand durch bloße, dem Anspruch des Geschädigten widersprechende, Behauptungen Deckung zu erlangen. Grundlage für die Prüfung, ob ein gedeckter Versicherungsfall vorliegt, ist daher der geltend gemachte Anspruch ausgehend von dem vom Geschädigten behaupteten Sachverhalt. Damit bedarf es nur der Feststellung, welchen Anspruch der Geschädigte geltend macht und der Prüfung, ob dieser vom Versicherungsvertrag gedeckt ist. Feststellungen zum Tathergang sind entbehrlich, weil nicht entscheidungsrelevant (7 Ob 142/18k = RS0081927 [T7] und RS0081015 [T1]). Einen – hier nicht relevanten – Sonderfall bilden Tatsachen, die für die Beurteilung sowohl der Berechtigung des Deckungsanspruchs des Versicherungsnehmers als auch dessen Haftung entscheidungsrelevant sind (RS0132326 [T1]; vgl auch RS0131696).
+[5] 		1.3. Im Haftpflichtprozess macht der Geschädigte keine Ansprüche gegen den öffentlichen Auftraggeber, sondern gegen die (hier) Klägerin wegen Verletzung ihrer Mitwirkungspflichten bei der Vergabe eines Kassenvertrags (ausdrücklich nicht nach Vergaberecht) geltend. Er behauptet, diese habe ihn falsch gereiht und damit ihre Pflicht zur korrekten Mitwirkung an der Vergabe der Kassenvertragsstelle grob schuldhaft verletzt. Die Beurteilung der Vorinstanzen, dass der Geschädigte damit seinen Schadenersatzanspruch auf die Verletzung eines Schutzgesetzes im Sinne des § 1311 ABGB und nicht auf hoheitliches Handeln stützt, ist nicht korrekturbedürftig, entspricht diese Ansicht doch der ständigen Rechtsprechung (vgl RS0115622; RS0115620; RS0115621).
+[6] 		1.4. Die Revisionswerberin argumentiert nun, die vom Berufungsgericht herangezogene, aus dem Jahr 2001 stammende Rechtsprechung (RS0115622) sei überholt. Allerdings kann sie nicht nachvollziehbar darlegen, welche der von ihr angeführten Normen (§ 337 BVergG 2008, § 112 BVergGKonz 2018 und/oder VergabeRL 2014/24/EU) im vorliegenden Fall eine Änderung der Rechtsprechung bewirken müsste. Im Übrigen stammt die letzte Entscheidung des Obersten Gerichtshofs zu dieser Rechtsfrage aus dem Jahr 2016 (vgl 1 Ob 176/15m). Die Argumentation der Klägerin scheitert aber auch daran, dass sich die vom Geschädigten im Haftpflichtprozess erhobenen Ansprüche gerade nicht gegen den Auftraggeber richten. Schließlich hat schon das Berufungsgericht darauf hingewiesen, dass das Bundesvergabegesetz Konzessionen 2018 (BGBl I 65/2018; BVergGKonz 2018) schon deshalb nicht zur Anwendung kommen kann, weil es erst nach der Vergabe der Kassenstelle in Kraft getreten ist.
+[7] 		1.5. In weiterer Folge vermengt die Klägerin in ihren Revisionsausführungen das Deckungs- und das Haftpflichtverhältnis (vgl dazu insb 7 Ob 142/18k). Die Frage, ob – wie von der (hier) Klägerin im Haftpflichtprozess eingewendet – richtigerweise vergaberechtliche Bestimmungen anzuwenden wären und der Geschädigte Amtshaftungsansprüche erheben hätte müssen, sind nicht im Deckungsprozess zu klären (siehe Punkt 1.2. der Entscheidung). Im vorliegenden Verfahren wird nur die Deckung des vom Geschädigten erhobenen Anspruchs formal, ohne den zugrundeliegenden Lebenssachverhalt, geprüft.
+[8] 		2. Die Abweisung des Klagebegehrens durch das Berufungsgericht hält sich im Rahmen der Judikatur.
+[9] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133368

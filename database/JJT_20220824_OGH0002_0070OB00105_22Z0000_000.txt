@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+7Ob105/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei R* T*, vertreten durch Dr. Sven Rudolf Thorstensen, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei S* SE, *, vertreten durch die DLA Piper Weiss-Tessbach Rechtsanwälte GmbH in Wien, wegen 50.367,11 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 21. April 2022, GZ 3 R 4/22s-56, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die E* & S* GmbH (in der Folge E&S oder Versicherungsnehmerin) hatte mit der Beklagten eine Versicherungs-Rahmenvereinbarung zur Vermögensschadenhaftpflicht für Wertpapiervermittler und Vermögensberater der Kooperationspartner abgeschlossen. Die darin vereinbarten „Consultor Allgemeine und Ergänzende Allgemeine Bedingungen für die Berufshaftpflichtversicherung für die Bereiche, Recht, Wirtschaft und Immobilien (C_ABHV/EBHV) lauten auszugsweise:
+„Artikel 9
+Verhalten des Versicherungsnehmers während der Laufzeit des Vertrages
+1 Obliegenheiten
+Als Obliegenheiten, deren Verletzung die Leistungsfreiheit des Versicherers gemäß § 6 VersVG bewirkt, werden bestimmt:
+[…]
+1.4 Der Versicherungsnehmer hat den Versicherer umfassend und unverzüglich spätestens innerhalb einer Woche ab Kenntnis zu informieren und zwar schriftlich, falls erforderlich auch fernmündlich oder fernschriftlich.
+Insbesondere sind anzuzeigen
+1.4.1 der Versicherungsfall
+1.4.2 die Geltendmachung einer Schadenersatzforderung
+[…]
+1.4.4 alle Maßnahmen Dritter zur gerichtlichen Durchsetzung von Schadenersatzforderungen
+1.5. Der Versicherungsnehmer hat den Versicherer bei der Feststellung und Erledigung oder Abwehr des Schadens zu unterstützen.
+[...]
+1.5.3 Der Versicherungsnehmer ist nicht berechtigt, ohne vorherige Zustimmung des Versicherers einen Schadenersatzanspruch ganz oder zum Teil anzuerkennen – es sei denn, der Versicherungsnehmer konnte die Anerkennung nicht ohne offenbare Unbilligkeit verweigern – oder zu vergleichen.
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Der Kläger zieht die Beurteilung der Vorinstanzen, wonach der geltend gemachte Anspruch nach österreichischem Sachrecht zu beurteilen sei, in der Revision nicht in Zweifel. Auf die selbständig zu beurteilende Rechtsfrage des anwendbaren Rechts ist daher nicht einzugehen (7 Ob 24/22p mwN).
+[3] 		2.1. Der Kläger als Geschädigter hat gegen die E&S (Versicherungsnehmerin) durch deren Untätigkeit ein Versäumungsurteil erwirkt und sich aufgrund dessen den Deckungsanspruch pfänden und überweisen lassen, um gegen die Beklagte (Versicherer) vorgehen zu können. Nach der ständigen Rechtsprechung des Obersten Gerichtshofs stehen im Rechtsstreit des Geschädigten gegen den Versicherer diesem dann alle Einwendungen wie gegen den Versicherungsnehmer offen, vor allem jene der Leistungsfreiheit. Das vom Geschädigten gegen einen Versicherungsnehmer erwirkte Versäumungsurteil hat mangels Aufforderung zum Streitbeitritt keine Bindungswirkung zum Nachteil des Versicherers und führt nicht zu einem Verlust von Einwendungen, die diesem gegen den Versicherungsnehmer zustehen (3 Ob 152/20d; 7 Ob 181/20y; 7 Ob 152/20h; 7 Ob 153/20f; 7 Ob 149/20t; 7 Ob 204/19d mwN).
+[4] 		2.2. Entgegen der Ansicht des Klägers sind die Entscheidungen der Vorinstanzen auch unter der Annahme, dass der Beklagten im Haftpflichtprozess wirksam der Streit verkündet wurde, nicht korrekturbedürftig. Nach ständiger Rechtsprechung hat das im Haftpflichtprozess ergangene Urteil mit Rücksicht auf die Rechtsnatur und den Zweck des Haftpflichtversicherungsvertrags nämlich nur die Bindungswirkung, dass die Ersatzpflicht des Versicherten nach Bestand und Betrag im Deckungsprozess gegen den Versicherer nicht nachgeprüft werden darf (RS0041315 [T4]; 7 Ob 125/18k). Die Bindungswirkung gilt aber nicht für die aus dem Versicherungsverhältnis resultierende Einwendung der Leistungsfreiheit aufgrund der Verletzung der Obliegenheiten gemäß Art 9.1.4.1, 9.1.4.2, 9.1.4.4 sowie 9.1.5.3 C_ABHV/EBHV (vgl 7 Ob 51/83 = VersR 1985, 51; BGH VersR 1978, 1105), weil die Beklagte diese im Haftpflichtprozess gegen die E&S gar nicht wirksam erheben hätte können (vgl RS0035474). Die Rechtsansicht der Vorinstanzen, dass die genannten Obliegenheiten im nachfolgenden Deckungsprozess selbständig zu prüfen sind, weil sie nicht die Ersatzpflicht des Versicherten nach Bestand und Betrag betreffen, ist daher von der Rechtsprechung des Obersten Gerichtshofs gedeckt.
+[5] 		3. Die weiter relevierte Frage, ob durch die hier vorliegende Streitverkündung (des Prozessgegners) die Mitteilungsobliegenheit der Versicherungsnehmerin beendet wurde, ist schon deshalb nicht entscheidungsrelevant, weil jedenfalls die Obliegenheit, nicht ohne Zustimmung des Versicherers den Schadensanspruch anzuerkennen – was auch durch Ergehenlassen eines Versäumungsurteils erfolgen kann (vgl RS0080453) – verletzt wurde, wusste doch der Geschäftsführer der Versicherungsnehmerin in diesem Zeitpunkt nicht einmal, ob der Anspruch des Klägers zu Recht bestand, und ließ dennoch das Versäumungsurteil ergehen.
+[6] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00105.22Z.0824.000

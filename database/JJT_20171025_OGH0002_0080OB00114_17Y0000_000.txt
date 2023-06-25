@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2017
+Geschäftszahl
+8Ob114/17y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Dr. Brenn, Mag. Korn und Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei DI H*****, vertreten durch Mag. Gottfried Stoff, Rechtsanwalt in Graz, gegen die beklagte Partei U*****, vertreten durch Dr. Gerhard Richter, Dr. Rudolf Zahlbruckner, Rechtsanwälte in Graz, wegen 35.492,64 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom  14. August 2017, GZ 3 R 101/17y-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Darlehensvertrag begründet ein Dauerschuldverhältnis. Er kann auf bestimmte oder auf unbestimmte Zeit abgeschlossen werden (§ 986 Abs 1 ABGB). Eine Befristungsvereinbarung muss ausreichend bestimmt und unzweifelhaft erfolgen. Der Zeitpunkt der Beendigung des Vertrags muss von vornherein objektiv feststellbar und darf nicht vollkommen ungewiss sein. Die Laufzeit kann sich auch aus dem Zweck des Vertrags oder aus der Parteienabsicht ergeben (Ertl in Fenyves/Kerschner/Vonkilch, ABGB³ [Klang] § 986 Rz 7; 1 Ob 160/07x).
+Möglich ist auch die Vereinbarung einer Mindestdauer. Auf solche Verträge sind nach Ablauf der Mindestzeit die Regeln über unbefristete Verträge anzuwenden (Aichberger-Beig in Klete?ka/Schauer, ABGB-ON § 986 Rz 3).
+2. Ob die konkrete Vertragsgestaltung diesen Grundsätzen entspricht, ist durch Vertragsauslegung zu ermitteln. Dabei handelt es sich um eine typische Einzelfallbeurteilung, die in der Regel keine erhebliche Rechtsfrage begründet.
+Nach den Feststellungen haben die Parteien vereinbart, dass das vom Kläger dem Beklagten gewährte Darlehen zurückgezahlt werden sollte, wenn der Beklagte den mit der Firma M***** GmbH als Gegenleistung für den Verzicht auf bestimmte Rechte vereinbarten Betrag von 1.000.000 EUR erhalten hat. Dieser Betrag wird in monatlichen Raten von 12.500 EUR abgezahlt, sollte aber nach Einstieg eines Investors auf einmal ausbezahlt werden.
+Die Ansicht der Vorinstanzen, dass damit das Darlehen jedenfalls nicht vor dem Zeitpunkt zur Rückzahlung fällig ist, zu dem der Beklagte die 1.000.000 EUR erhalten hat, ist nicht korrekturbedürftig.
+Entgegen der Ansicht der Revision ist die weitere Feststellung, dass die Parteien hofften, dass eine Zahlung durch einen Investor in einem Zeitraum von ein bis drei Jahren erfolgt, nicht geeignet die grundsätzliche Vereinbarung über den frühesten Rückzahlungstermin in Frage zu stellen. Auch der Kläger behauptet nicht, dass derzeit Zweifel an einer regelmäßigen Ratenzahlung bestehen und damit, selbst wenn kein Investor eine Einmalzahlung leistet, die Abzahlung der 1.000.000 EUR und damit die Fälligkeit des Darlehens nicht in einem zeitlich überschaubaren Rahmen erfolgen kann.
+3. Die außerordentliche Revision ist daher mangels Vorliegens einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0080OB00114.17Y.1025.000

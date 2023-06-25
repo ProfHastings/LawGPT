@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.10.2019
+Geschäftszahl
+3Nc28/19a
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Roch als Vorsitzenden sowie den Hofrat Priv.-Doz. Dr. Rassi und die Hofrätin Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei Dr. Günther Viehböck als Masseverwalter im Konkurs über das Vermögen der Z***** Gesellschaft mbH, *****, vertreten durch Gheneff – Rami – Sommer Rechtsanwälte OG in Wien, gegen die verpflichtete Partei H***** GmbH, *****, Deutschland, wegen Unterlassungsexekution (§ 355 EO), infolge Vorlage nach § 28 JN den
+Beschluss
+gefasst:
+Spruch
+Die Bestimmung eines zuständigen Gerichts nach § 28 JN für die beabsichtigte Unterlassungsexekution wird abgelehnt.
+Text
+Begründung:
+Der Betreibende beantragte beim Bezirksgericht Innere Stadt Wien gegen die Verpflichtete mit Sitz in Deutschland unter Hinweis auf eine einstweilige Verfügung die Exekution nach § 355 EO.
+Zur Zuständigkeit führte er in Punkt 14 seines Exekutionsantrags aus:
+„Bei einer Exekution nach § 355 EO bestimmt sich das Exekutionsgericht nach dem Wohnsitz (Sitz) der verpflichteten Partei, weil dort die Exekutionsbewilligung zugestellt werden kann. Ist ein österreichisches Titelgericht vorhanden, fehlt aber ein Wohnsitz (Sitz) der verpflichteten Partei im Inland, ist der Gerichtsakt von Amts wegen dem OGH vorzulegen, der gemäß § 28 JN ein Exekutionsgericht zu ordinieren hat (RIS-Justiz RS0053178).“
+Das Bezirksgericht Innere Stadt Wien legte dem Obersten Gerichtshof den Akt unter Hinweis auf Punkt 14 des Exekutionsantrags zur Entscheidung über den Antrag nach § 28 JN vor.
+Rechtliche Beurteilung
+Die Voraussetzungen für eine Ordination nach § 28 JN liegen nicht vor.
+1. Die Bestimmung der Zuständigkeit durch den Obersten Gerichtshof nach § 28 JN, die auch in Exekutionssachen möglich ist (RIS-Justiz RS0053178; RS0046326 [T2]), setzt das Fehlen der örtlichen Zuständigkeit voraus.
+2. Die örtliche Zuständigkeit bestimmt sich bei der Exekution gemäß § 355 EO nach § 18 Z 4 zweiter Fall EO, wonach als Exekutionsgericht das Bezirksgericht einzuschreiten hat, in dessen Sprengel die erste Exekutionshandlung tatsächlich vorzunehmen ist. Diese die Zuständigkeit begründende erste Exekutionshandlung ist bei Unterlassungsexekutionen die Zustellung der Exekutionsbewilligung (RS0053178 [T2]; RS0121995 [T3]).
+3. Eine Ordination ist grundsätzlich dann möglich, wenn die Verpflichtete keinen Sitz im Inland hat und es deshalb an einem Anknüpfungsgrund für die örtliche Zuständigkeit eines inländischen Gerichts fehlt.
+4. Als Rechtsgrundlage für die Bestimmung eines zuständigen Gerichts kommt im vorliegenden Fall nur § 28 Abs 1 Z 2 JN in Betracht. Deren Voraussetzungen sind nach § 28 Abs 4 zweiter Satz JN allerdings vom Antragsteller zu behaupten und zu bescheinigen, was auch für Exekutionssachen gilt (RS0124087).
+5. Vom Betreibenden wurde nicht ansatzweise behauptet und bescheinigt, dass im Anlassfall die exekutive Rechtsverfolgung in Deutschland nicht möglich oder unzumutbar wäre. Dem Vorbringen des Betreibenden ist auch nicht zu entnehmen, er hätte die Durchsetzung seines titulierten Anspruchs in Deutschland schon erfolglos versucht, oder die Erfolglosigkeit wäre nach bisheriger Rechtsprechung Deutscher Gerichte zu erwarten. Dabei ist gerade für den Anwendungsbereich der EuGVVO zu berücksichtigen, dass eine Ordination bei Verpflichteten, die in anderen Mitgliedstaaten ansässig sind, nur in Ausnahmefällen möglich ist (RS0053178 [T3, T6 und T7]).
+6. Angesichts dieser Rechtslage sind daher die Voraussetzungen der Ordination gemäß § 28 Abs 1 Z 2 JN bei erforderlicher Vollstreckung in einem Mitgliedstaat ohne Behauptung eines bestehenden Bedürfnisses nach Gewährung inländischen Rechtsschutzes nicht gegeben.
+Ob die Rechtsprechung, wonach eine Ordination auf die Unmöglichkeit einer Exekutionsführung gemäß § 355 EO in der Bundesrepublik Deutschland gestützt werden kann (vgl RS0053178 [T4]), noch aufrecht zu erhalten ist, kann dahinstehen. Auch den Entscheidungen dieser Rechtsprechung lag stets ein Vorbringen zugrunde, dass die Rechtsverfolgung in Deutschland wegen näher bezeichneter Gründe nicht möglich sei (vgl zB 3 Nc 21/17v und 3 Nc 10/16z).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030NC00028.19A.1023.000

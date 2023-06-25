@@ -1,0 +1,48 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob146/21b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei D* P*, vertreten durch Dr. Peter Vögel, Rechtsanwalt in Wien, gegen die beklagte Partei D* AG *, vertreten durch die Themmer, Toth & Partner Rechtsanwälte GmbH in Wien, wegen 5.264,21 EUR sA und Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. März 2021, GZ 2 R 136/20i-21, womit das Urteil des Handelsgerichts Wien vom 22. Oktober 2020, GZ 63 Cg 44/20w-17, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.411,20 EUR (darin 235,20 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen der Klägerin und der Beklagten besteht ein Rechtsschutzversicherungsvertrag, dem die Allgemeinen Bedingungen über die Rechtsschutzversicherung (ARB 2005) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 1
+Was ist Gegenstand der Versicherung?
+Der Versicherer sorgt für die Wahrnehmung der rechtlichen Interessen des Versicherungsnehmers und trägt die dem Versicherungsnehmer dabei entstehenden Kosten.
+[…]
+Artikel 5
+Wer ist versichert und unter welchen Voraussetzungen können mitversicherte Personen Deckunqsansprüche geltend machen?
+1. Versichert sind der Versicherungsnehmer und die in den Besonderen Bestimmungen jeweils genannten mitversicherten Personen.
+[...]
+Artikel 6
+Welche Leistungen erbringt der Versicherer?
+1. Verlangt der Versicherungsnehmer Versicherungsschutz, übernimmt der Versicherer im Fall seiner Leistungspflicht die ab dem Zeitpunkt der Geltendmachung des Deckungsanspruchs entstehenden Kosten gemäß Pkt. 6., soweit sie für die Wahrnehmung der rechtlichen Interessen des Versicherungsnehmers notwendig sind.
+[…]
+6. Der Versicherer zahlt
+6.1. die angemessenen Kosten des für den Versicherungsnehmer tätigen Rechtsanwalts bis zur Höhe des Rechtsanwaltstarifgesetzes oder, sofern dort die Entlohnung für anwaltliche Leistungen nicht geregelt ist, bis zur Höhe der Autonomen Honorarrichtlinien;
+[…]
+Artikel 8
+Welche Pflichten hat der Versicherungsnehmer zur Sicherung seines Deckungsanspruches zu beachten? (Obliegenheiten)
+1. Verlangt der Versicherungsnehmer Versicherungsschutz, ist er verpflichtet,
+[…]
+1.4. alles zu vermeiden, was die Kosten unnötig erhöht oder die Kostenerstattung durch Dritte ganz oder teilweise verhindert.
+[…]“
+[2] 		Das Berufungsgericht ließ die ordentliche Revision zu, weil der Oberste Gerichtshof zur Auslegung von Art 1 und Art 6 ARB 2005 im Zusammenhang mit der Frage des Ersatzes von Prozesskosten bei gemeinsamer Vertretung des Versicherungsnehmers und eines nicht Mitversicherten durch einen Rechtsanwalt noch nicht Stellung genommen habe. Damit zeigt das Berufungsgericht keine erhebliche Rechtsfrage auf. Da auch die Klägerin in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+[3] 		1. Bei der Rechtsschutzversicherung sorgt der Versicherer für die Wahrnehmung der rechtlichen Interessen des Versicherungsnehmers in den im Vertrag umschriebenen Bereichen und trägt die dem Versicherungsnehmer dabei entstehenden Kosten (§ 158j Abs 1 erster Satz VersVG). Die Rechtsschutzversicherung ist eine passive Schadens-versicherung (RS0127808) und schützt den Versicherungsnehmer gegen das Entstehen von Verbindlichkeiten (Passiva). Sie bietet Versicherungsschutz gegen die Belastung des Vermögens des Versicherungsnehmers mit Rechtskosten (7 Ob 215/11k; 7 Ob 143/20k).
+[4] 		2. Bei der Auslegung einer Willenserklärung nach den §§ 914 ff ABGB ist zunächst vom Wortsinn in seiner gewöhnlichen Bedeutung auszugehen, dabei aber nicht stehen zu bleiben, sondern der Wille der Parteien, das ist die dem Erklärungsempfänger erkennbare Absicht des Erklärenden, zu erforschen (RS0017915). Es ist dabei das gesamte Verhalten der Vertragsteile, das sich aus Äußerungen in Wort und Schrift sowie aus sonstigem Tun oder Nichttun zusammensetzen kann, zu berücksichtigen (RS0017915 [T15, T44]). Eine langjährige Abwicklungspraxis kann im Sinne einer authentischen Interpretation auf den seinerzeitigen Geschäftswillen schließen lassen (vgl RS0110779).
+[5] 		Die Beklagte hat in einem Vorverfahren, in dem die versicherte Klägerin und eine weitere nicht bei der Beklagten versicherte Person als Unterlassungskläger auftraten, sämtliche Kosten des Klagsvertreters abzüglich eines Streitgenossenzuschlags von 5 % bezahlt. Im hier maßgeblichen Verfahren wurden die Klägerin und die vorgenannte Person auf Unterlassung bestimmter Handlungen (Verwehren des Zugangs und der Zufahrt zu einer Werkstätte) in Anspruch genommen. Die Beklagte hat sich in ihrer Deckungszusage für dieses Verfahren bereit erklärt, das Kostenrisiko im Rahmen des bestehenden Versicherungsvertrags und der zur Verfügung stehenden Versicherungssumme, jedoch nur anteilig für die Klägerin zu übernehmen. Somit ist die Rechtsansicht der Vorinstanzen, die Deckungszusage der Beklagten kann selbst unter Berücksichtigung ihres Verhaltens im Vorverfahren nicht dahingehend verstanden werden, dass die Beklagte (erneut) die gesamten Vertretungskosten des Unterlassungsverfahrens abzüglich des Streitgenossenzuschlags von 5 % – also letztlich rund 95 % der Gesamtkosten – bezahlen wird, nicht korrekturbedürftig, wies sie doch ausdrücklich und unmissverständlich darauf hin, dass die (nicht versicherte) zweitbeklagte Partei ihre Kosten selbst zu tragen habe.
+[6] 		3. Soweit die Klägerin in der Revision vorbringt, sie sei als Solidarschuldnerin verpflichtet, dem Klagsvertreter die gesamten Vertretungskosten zu ersetzen, weshalb auch ihr Befreiungsanspruch die gesamten Kosten umfassen müsse, ist ihr entgegenzuhalten, dass eine Solidarhaftung mehrerer Auftraggeber für Anwaltskosten nur dann besteht, wenn sie nicht ausdrücklich oder durch konkludente Handlungen ausgeschlossen wurde (RS0017356; 9 Ob 14/11s). Im vorliegenden Fall hat der Klagsvertreter der Klägerin aber gerade nicht die gesamten Kosten in Rechnung gestellt, sondern beiden Parteien jeweils nur einen Teilbetrag, sodass darin schon ein konkludentes Abgehen von der Solidarhaftung liegt.
+[7] 		Dass eine zwischen einem versicherten und nicht versicherten Streitgenossen getroffene Vereinbarung über die Übernahme der Prozesskosten, die zu einer massiven und weit überproportionalen Belastung der versicherten Person mit Vertretungskosten führt, gegen die Kostenschonungs-obliegenheit gemäß Art 8.1.4 ARB 2005 verstößt und damit den Rechtsschutzversicherer nicht bindet, ist offensichtlich. Somit ist die Rechtsansicht der Vorinstanzen, dass die Klägerin gegenüber der Beklagten im vorliegenden Einzelfall nur einen Anspruch auf Befreiung von 50 % der Vertretungskosten hat, nicht korrekturbedürftig.
+[8] 		4. Die Klägerin macht insgesamt keine erhebliche Rechtsfrage geltend. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+[9] 		5. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133369

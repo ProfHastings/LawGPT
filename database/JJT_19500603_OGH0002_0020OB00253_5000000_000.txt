@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.06.1950
+Geschäftszahl
+2Ob253/50
+Norm
+JN §65;
+JN §87;
+JN §87a;
+JN §88;
+JN §104;
+KO §111;
+Kopf
+SZ 23/183
+Spruch
+Der Gerichtsstand einer Konkursmasse richtet sich nach dem des Gemeinschuldners und nicht des Masseverwalters.
+Entscheidung vom 3. Juni 1950, 2 Ob 253/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Eine Gläubigerin des Gemeinschuldners beantragte bei dem für den Masseverwalter zuständigen Bezirksgericht wegen einer Masseforderung Exekution.
+Das Erstgericht gab dem Antrage statt.
+Das Rekursgericht hob den Beschluß des Erstgerichtes wegen örtlicher Unzuständigkeit auf und überwies die Sache an das für den Gemeinschuldner zuständige Bezirksgericht.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Frage, ob für Prozesse über Masseforderungen in örtlicher Beziehung der Gerichtsstand des Gemeinschuldners oder des Masseverwalters entscheidend ist, wird vom Schrifttum in überwiegendem Sinne dahin beantwortet, daß der allgemeine Gerichtsstand des Gemeinschuldners maßgebend list (Bartsch - Pollak, I, S. 520, Trammer, NotZtg. 1915, S. 21, dagegen Rintelen, Handbuch des österr. Konkurs- und Ausgleichsrechtes, 1915, S. 187, 329). Der Gemeinschuldner bleibt Eigentümer des Konkursvermögens, er ist daher auch in den die Masse betreffenden Prozessen Prozeßpartei. Die Konkursmasse ist auch nicht ein von der Person des Gemeinschuldners verschiedenes Rechtssubjekt (GlUNF. 5814), es ist daher der Gerichtsstand des Gemeinschuldners maßgebend. Wenn es auch hiedurch geschehen kann, daß die Klage oder der Exekutionsantrag beim Gericht des Wohnsitzes des Schuldners, statt bei dem für den Masseverwalter bequemeren eingebracht wird, so hat dies § 111 Abs. 2 KO. dadurch in Kauf genommen, daß er nicht die Zuständigkeit des Konkursgerichtes vorschrieb. Für die Klage des Massegläubigers kommen übrigens auch die besonderen Gerichtsstände (§§ 88 Abs. 1, 87, 87a, 104 JN. u. a.) in Betracht (Bartsch - Pollak, S. 521), so daß die Ausführungen des Revisionsrekurses, es entspreche der Absicht des Gesetzgebers, die Prozeß(Exekutions-)führung möglichst nahe an das einschreitende Organ der beklagten (verpflichteten) Partei heranzubringen, nicht überzeugen können.

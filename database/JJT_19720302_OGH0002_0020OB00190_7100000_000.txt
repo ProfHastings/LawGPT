@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.03.1972
+Geschäftszahl
+2Ob190/71
+Norm
+ABGB §1327;
+Kopf
+SZ 45/25
+Spruch
+Die Abhandlungskosten sind vom Schädiger nicht zu ersetzen
+OGH 2. 3. 1972, 2 Ob 190/71 (OLG Wien 8 R 33/71; KG St Pölten 2 c Cg 216/70)
+Text
+Am 12. 3. 1967 wurde der Vater des minderjährigen Klägers bei einem vom Beklagten verschuldeten Verkehrsunfall schwer verletzt. Er starb an den Folgen des Unfalles am 20. 3. 1967. Sein Nachlaß wurde zu zwei Achteln der Witwe und zu drei Achteln den Kindern Elisabeth und Thomas (Kläger) eingeantwortet.
+Der Kläger begehrte ua die Bezahlung von drei Achteln der Kosten des Verlassenschaftsverfahrens, die er mit S 163.384.68 angab, somit S 61.269.-.
+Der Beklagte anerkannte im ersten Rechtsgang S 10.464.28 und bestritt das restliche Begehren auf Ersatz der Kosten des Verlassenschaftsverfahrens, soweit es Sachverständigengebühren betrifft (S 11.684.10), der Höhe nach, soweit es sich um die Kosten des Klagevertreters handelt (S 123.795.88), auch bezüglich ihrer Notwendigkeit.
+Das Erstgericht sprach zunächst mit Teilurteil (ON 13) dem Kläger S
+10.464.28 zu und wies das Teilmehrbegehren von S 50.804.76 (= drei Achtel von S 135.479.98) ab.
+Das Berufungsgericht hob das Ersturteil im abweisenden Teil auf und verwies die Rechtssache in diesem Umfang unter Rechtskraftvorbehalt an das Erstgericht zurück. Ein Rekurs gegen diesen Beschluß wurde nicht erhoben.
+Im zweiten Rechtsgang sprach das Erstgericht mit Teilurteil (ON 20) dem Kläger einen weiteren Teilbetrag von S 11.289.15 zu und wies das Mehrbegehren von S 39.515.61 ab.
+Die Berufung des Klägers gegen den abweisenden Teil des Ersturteils blieb erfolglos.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Beide Untergerichte waren der Ansicht, daß der Schädiger nach § 1327 ABGB für die Kosten eines Rechtsanwaltes im Verlassenschaftsverfahren nur dann aufzukommen habe, wenn die Vertretung durch einen Rechtsanwalt vorgeschrieben sei oder wegen der Schwere der Materie und des Mangels an sonstiger fachlicher Betreuung geboten sei. Nur insoweit stellten die Anwaltskosten überhaupt einen unfallskausalen Schaden dar. Diese Voraussetzungen hätten aber hier nicht vorgelegen. Dem Kläger gebühre daher nur der Ersatz der Kosten, die bei Durchführung der Abhandlung durch einen Notar als Gerichtskommissär entstanden wären.
+Der Revisionswerber bekämpft diese Ansicht als unrichtig. Er sei berechtigt gewesen, sich eines Rechtsanwaltes zu bedienen, zumal es sich um keinen einfachen Nachlaß gehandelt habe. Der Beklagte habe die Notwendigkeit der Beiziehung eines Rechtsanwaltes gar nicht bestritten, sondern lediglich die Höhe des Honorars. Das Berufungsverfahren sei insoweit mangelhaft geblieben, als die Honorierung der notwendigen Vertretungshandlungen nicht überprüft worden sei.
+Der Beklagte hat bereits in der Klagebeantwortung die Anwaltskosten zur Gänze bestritten und eingewendet, sie könnten in dieser außergewöhnlich großen Höhe keinesfalls als unbedingt notwendig mit dem Verlassenschaftsverfahren verbunden angesehen werden. Der Beklagte hat sich somit eindeutig gegen die Verrechnung von Anwaltskosten gewendet.
+In einigen Entscheidungen wurde allerdings die Meinung ausgedrückt, die Kosten des Verlassenschaftsverfahrens seien "Kosten" iS des § 1327 ABGB, die vom Schädiger ebenso wie die Begräbniskosten zu ersetzen seien (ZVR 1963/119, ZVR 1966/280). Die vorliegende Rechtssache gibt jedoch Anlaß, diese in den erwähnten Entscheidungen nur mit dem Hinweis begrundete Ansicht, die Abhandlungskosten belasteten ebenso wie die Begräbniskosten aus Anlaß der Tötung den Nachlaß, zu überprüfen. Für diese Ansicht findet sich nämlich in der Rechtslehre kein Anhaltspunkt. Weder Krasnopolski, Obligationenrecht 199 f, noch Swoboda, Schuld- und Erbrecht 105, noch Gutenstein, Kommentar zum Autohaftpflichtgesetz 48, noch Wolff in Klang[2] VI 148, noch Ehrenzweig; II/1, 633, noch Gschnitzer (Schuldrecht, Besonderer Teil und Schadenersatz, 175) erwähnen im Zusammenhang mit § 1327 ABGB eine Pflicht des Schädigers, auch die Kosten der Verlassenschaftsabhandlung zu tragen. Die Gleichstellung dieser Kosten mit denen des Leichenbegängnisses läßt sich auch nicht aufrechterhalten: Im Sinne der §§ 1325 ff ABGB soll der Schädiger dazu verhalten werden, für die Heilung des Verletzten und - wenn diese nicht mehr möglich - für die Kosten seiner Bestattung aufzukommen, aber doch nicht dafür, daß die Erben Kosten gehabt haben, um das Vermögen des Verstorbenen zu erlangen. Solche Kosten schmälern zwar den Stamm des Nachlasses, doch müssen sich die Erben diesen ohnehin nicht als Vorteil anrechnen lassen. Die Kosten des Begräbnisses müssen übrigens gar nicht von den Erben getragen worden sein; wem immer sie erwachsen sind, der kann sie ersetzt verlangen. Die Kosten des Verlassenschaftsverfahrens können hingegen nur die Erben belasten, aber die Erbenstellung als solche wird durch § 1327 ABGB nicht geschützt (ZVR 1972/27). Es geht daher nicht an, die Abhandlungskosten, die ebenso wie die Erbschaftssteuern eine Folge des Erbganges sind (vgl JBl 1970, 625 = ZVR 1970/234), den Begräbniskosten gleichzustellen.
+Da somit der revisionsverfangene Anspruch schon dem Gründe nach nicht besteht, kann die Revision des Klägers keinen Erfolg haben.

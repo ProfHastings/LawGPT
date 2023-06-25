@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.10.1996
+Geschäftszahl
+4Ob2297/96i
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten des Obersten Gerichtshofes Hon.Prof.Dr.Gamerith als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Dr.Kodek und Dr.Niederreiter sowie die Hofrätinnen des Obersten Gerichtshofes Dr.Griß und Dr.Schenk als weitere Richter in der Rechtssache der klagenden Partei S***** GmbH & Co KG, ***** vertreten durch Dr.Peter Zauner, Rechtsanwalt in Wien, wider die beklagte Partei E***** GmbH, ***** vertreten durch Mag.DDr.Paul Hopmeier, Rechtsanwalt in Wien, wegen S 484.650,-- sA (Revisionsinteresse S 400.000,--) infolge außerordentlicher Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 6.Dezember 1995, GZ 1 R 94/96s-93, den
+Beschluß
+gefaßt:
+Spruch
+Die außerordentliche Revision der beklagten Partei wird gemäß § 508 a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Das Erstgericht hat ausdrücklich erklärt, es könne nicht festgestellt werden, daß eine nicht vorschriftsgemäße Wartung/Bedienung der Anlage durch die Klägerin oder die Verwendung untauglichen Beschriftungsmaterials Ursache der aufgetretenen Mängel (Druckausfälle und unleserliches Schriftbild) war; Druckausfälle seien auch vorgekommen, wenn keine Wartungs- oder Bedienungsfehler vorlagen (Bd II, S. 29). Damit ist aber klargestellt, daß die Feststellung, es könne nicht festgestellt werden, welche Ursachen für diese immer wiederkehrenden Fehler verantwortlich waren, nur dahin zu verstehen ist, daß es unklar geblieben sei, welche konkrete technische Ursache das Werk der Beklagten mangelhaft mache, daß die Mängel aber nicht auf Fehler der Klägerin zurückzuführen sind. (Siehe auch Erwägungen zur Beweiswürdigung Bd II S. 20: "für sämtliche aufgetretenen Druckausfälle/unleserlichen Schriftbilder kann und ist nach gefestigter Überzeugung des Erstgerichtes ein solcher Umstand aber nicht ursächlich gewesen").
+Soweit die Vorinstanzen dem Klagebehren aus dem Rechtsgrund der erfolgreichen Anfechtung des Vertrages wegen wesentlichen Irrtums stattgegeben haben, hält sich dies durchaus im Rahmen der Rechtsprechung des Obersten Gerichtshofes:
+Die Beklagte hat der Klägerin vertraglich zugesichert, einen zur Beschriftung tauglichen Drucker (samt Software) zu liefern (Bd II S. 17). Sie hat dabei - im Einklang mit der eigenen Überzeugung (Bd I S. 411) - in der Klägerin den Eindruck erweckt, sie könne dies liefern; der Drucker werde die zugesagten Eigenschaften aufweisen.
+Die Anfechtung wegen Geschäftsirrtums ist unabhängig von einem Verschulden des Gegners möglich (Rummel in Rummel, ABGB2, Rz 15 zu § 871). Nach den Feststellungen der Vorinstanzen hätte die Klägerin bei Kenntnis der wahren Beschaffenheit der Werkleistung den Vertrag nicht geschlossen (Bd II S. 29).
+Auf den Einwand, daß die Klägerin die Mängel nicht rechtzeitig und ausreichend detailliert gerügt habe (Bd I S. 27), ist die Beklagte in der Berufung nicht mehr zurückgekommen; er war daher nicht zu beachten (EvBl 1985/154; MR 1987, 221; ÖBl 1992, 21 uva).
+Da sich der Zuspruch von S 400.000,-- aus der Irrtumsanfechtung (§ 877 ABGB) ableiten läßt, ist auf die Frage, welcher Schadenersatz bei Verletzung vorvertraglicher Aufklärungspflichten gebührt, nicht einzugehen. Auch die prozessuale Frage - ob nämlich (auch) der siegreiche Kläger gehalten ist, die vom Erstgericht abgelehnten Rechtsgründe in der Berufungsbeantwortung aufrechtzuerhalten - ist ohne Bedeutung, weil ohnehin der von der Klägerin im Berufungsverfahren behandelte Irrtumseinwand zu bejahen ist.

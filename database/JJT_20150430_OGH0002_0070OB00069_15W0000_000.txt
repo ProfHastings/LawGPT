@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.04.2015
+Geschäftszahl
+7Ob69/15w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr.
+Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH, *****, vertreten durch Dr. Klaus Plätzer, Rechtsanwalt in Salzburg, gegen die beklagte Partei Z***** AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 36.542,61 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 26. Februar 2015, GZ 3 R 27/15h-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Wie der Oberste Gerichtshof bereits wiederholt ausgesprochen hat, bezieht sich das Leistungsversprechen des Versicherers in Art 1.2.1.1 AHVB 2007 (insofern wortgleich mit den AHVB 1978, 1986, 1995, 1997) nicht auf den Gesamtbereich des Schadensbegriffs des § 1293 ABGB, sondern nur auf die Deckung von Personenschäden und Sachschäden sowie solche Vermögensschäden, die auf einen versicherten Personenschaden oder Sachschaden zurückzuführen sind. Demgegenüber sind sogenannte „reine“ Vermögensschäden, das sind Schäden, die weder durch einen versicherten Personenschaden noch durch einen versicherten Sachschaden entstanden sind, nach dieser Klausel nicht mitversichert. Es kommt auf den Ursachenzusammenhang an. Ist der betreffende Vermögensschaden ein Schaden der mit dem versicherten Personenschaden oder Sachschaden in einem ursächlichen Zusammenhang im Sinn der Lehre der Adhäsionstheorie steht, so ist ein solcher Vermögensschaden als „unechter“ Vermögensschaden regelmäßig gedeckt (RIS-Justiz RS0081414).
+Eine Beschädigung liegt vor, wenn auf die Substanz einer Sache körperlich so eingewirkt wird, dass deren zunächst vorhandener Zustand beeinträchtigt und dadurch ihre Gebrauchsfähigkeit aufgehoben oder gemindert wird (7 Ob 147/07d, 7 Ob 231/13s mwN). Sachbeschädigung im aufgezeigten Sinn ist die Wertminderung einer Sache als Folge einer Einwirkung, durch die deren Brauchbarkeit zur Erfüllung des ihr eigentümlichen Zwecks wirtschaftlich betrachtet, beeinträchtigt wird (RIS-Justiz RS0081367).
+Im vorliegenden Fall entstanden der Auftraggeberin der Klägerin durch die - aufgrund mangelnder Überwachung durch die Klägerin - auf Dauerbetrieb gestellte Rampenheizung erhöhte Stromkosten, auf deren Ersatz die Klägerin in Anspruch genommen wurde.
+Die - unter Berücksichtigung der eben dargestellten Rechtsprechung des Obersten Gerichtshofs und unter Hinweis auf die fehlende Einschlägigkeit der von der Klägerin bereits in der Berufung zitierten Entscheidungen erfolgte - Beurteilung der Vorinstanzen, der Strom sei seinem bestimmungsgemäßen Gebrauch, nämlich der Speisung und Erwärmung der Tiefgaragenheizung zugeführt worden, weshalb von einer Verminderung oder Aufhebung der Gebrauchsfähigkeit des Stroms und damit schon von einer Beschädigung keine Rede sein könne, woran der Umstand, dass es wirtschaftlich betrachtet einen frustrierten Aufwand darstelle, wenn eine Heizung bei sommerlichen Temperaturen in Betrieb sei, nichts ändere, ist nicht korrekturbedürftig. Die Frage, ob Energie überhaupt eine (körperliche) Sache ist, stellt sich daher nicht.
+Daran ändert auch die nunmehr in der Revision noch herangezogene Entscheidung 2 Ob 296/59 nichts. Dort ging es um die - hier nicht interessierende - Frage eines vom Schutzzweck der verletzten Norm (§§ 7 und 20 StPolO) umfassten Sachschadens unmittelbar Geschädigter.
+Die Klägerin zeigt keine erhebliche Rechtsfrage auf, einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00069.15W.0430.000

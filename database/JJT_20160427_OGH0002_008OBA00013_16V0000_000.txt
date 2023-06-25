@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+8ObA13/16v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die fachkundigen Laienrichter Mag. Dr. Rolf Gleißner und Wolfgang Cadilek als weitere Richter in der Arbeitsrechtssache der klagenden Partei H*****, vertreten durch Mag. Dr. P*****, als bestellter Sachwalter, dieser vertreten durch Rechtsanwälte Dr. Amhof & Dr. Damian GmbH in Wien, gegen die beklagten Parteien 1. i***** GmbH, 2. H*****, beide vertreten durch Dr. Roland Mühlschuster, Rechtsanwalt in Wels, wegen 1. 6.307,92 EUR brutto zuzüglich 611,87 EUR netto sA, 2. Rechnungslegung (Streitwert 3.000 EUR) und 3. Dienstzeugnis (Streitwert 730 EUR), über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 9.919,79 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 22. Dezember 2015, GZ 8 Ra 108/15h-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Eine Verletzung des Unmittelbarkeitsgrund-satzes durch das Berufungsgericht liegt vor, wenn dieses von den Feststellungen des Erstgerichts ohne Beweiswiederholung oder aufgrund einer unvollständigen Wiederholung der mit dem Beweisthema zusammenhängenden Beweise, auf die das Erstgericht entscheidende Feststellungen gestützt hat, abgeht oder wenn es ohne Beweiswiederholung Feststellungen aufgrund der in erster Instanz aufgenommenen Beweise ergänzt (RIS-Justiz RS0043057).
+Wenn - wie im vorliegenden Fall - jedoch nur zur beispielhaften Ergänzung der rechtlichen Argumente auf einen aus den Urkunden ableitbaren Sachverhalt verwiesen wird, ohne dass dieser als solcher der rechtlichen Beurteilung zu Grunde gelegt wird, stellt dies keinen Verfahrensmangel dar.
+1.2. Unstrittige Tatsachen, wie der Umstand, dass die Rechtsvorgängerin der Erstbeklagten bei Abschluss des Dienstvertrags ein Einzelunternehmen war, bedürfen keiner Feststellungen, um der Entscheidung zugrunde gelegt werden zu können.
+2. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn infolge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042936; vgl auch RS0044358; RS0044298).
+2.1. Ob die zwischen den Parteien getroffene Vereinbarung („Der finanzielle Überschuss nach Abzug aller Kosten zu sämtlichen Projekten wird im Verhältnis 50 % Dienstnehmer und 50 % Dienstgeber aufgeteilt - die Abrechnung erfolgt halbjährlich nach Endabrechnung bzw allen Zahlungseingängen“) einen Anspruch des Dienstnehmers auf Provision oder auf Gewinnbeteiligung begründet, stellt eine solche Auslegungsfrage im Einzelfall dar.
+2.2. Die Provision ist eine meist in Prozenten ausgedrückte Beteiligung am Wert solcher (einzelner) Geschäfte des Arbeitgebers, die durch die Tätigkeit (Vermittlung oder Abschluss) eines Angestellten zustande gekommen sind; sie richtet sich nach dem Ergebnis der Arbeit, ist also Leistungsentgelt, das vorwiegend vom persönlichen Geschick und der Ausdauer des Angestellten, aber auch von den Marktgegebenheiten abhängt. Bei einer Gewinnbeteiligung ist hingegen bedungen, dass das Entgelt ganz oder zum Teil in einem Anteil am Gewinn aus allen oder aus bestimmten Geschäften (zB einer Filiale oder einer einzelnen Abteilung) besteht, oder dass der Gewinn in anderer Art für die Höhe des Entgelts maßgebend sein soll (RIS-Justiz RS0028048).
+Wenn das Berufungsgericht unter Berücksichtigung dieser Grundsätze zum Ergebnis gelangte, dass die finanzielle Beteiligung des Klägers an den Projekten der Beklagten nicht nur auf die durch ihn vermittelten Geschäfte bezogen ist und damit unabhängig von der Bezeichnung im Dienstvertrag als Gewinnbeteiligung zu beurteilen ist, ist dies nicht korrekturbedürftig.
+2.3. Aufgrund des vom Berufungsgericht erzielten Auslegungsergebnisses ist aber auch die Berufung auf die Unklarheitenregel des § 915 ABGB nicht zielführend, ist diese doch nur subsidiär anwendbar, wenn mit den Auslegungsregeln des § 914 ABGB nicht das Auslangen gefunden werden kann (RIS-Justiz RS0109295; RS0017951).
+3. Leitet der Arbeitnehmer aus einer unberechtigten Entlassung Ansprüche ab, ist er für das Vorliegen einer Entlassung (Entlassungserklärung) behauptungs- und beweispflichtig (RIS-Justiz RS0028248). Der Dienstgeber hat hingegen den Nachweis eines im Zeitpunkt der Entlassungserklärung vorliegenden Entlassungsgrundes zu erbringen (9 ObA 59/97k; vgl auch RIS-Justiz RS0028980).
+Der Kläger stützte seine Ansprüche auf eine einseitige und vorzeitige Beendigung des Dienstverhältnisses durch die Beklagte. Er selbst brachte ausdrücklich vor, dass von einer ungerechtfertigten Entlassung auszugehen sei. Dass die Entlassungserklärung seinem Sachwalter nicht zugegangen ist, hat er in erster Instanz dagegen nicht behauptet. Eine mögliche Unwirksamkeit der Entlassungserklärung war daher nicht Gegenstand des erstinstanzlichen Verfahrens und kann auch im Rechtsmittelverfahren nicht geltend gemacht werden.
+4. Die außerordentliche Revision ist mangels Vorliegens einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:008OBA00013.16V.0427.000

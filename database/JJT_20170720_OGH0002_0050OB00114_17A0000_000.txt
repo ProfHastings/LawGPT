@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.07.2017
+Geschäftszahl
+5Ob114/17a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerin R***** OG, *****, vertreten durch Dr. Johannes Eltz, Rechtsanwalt in Wien, wegen amtswegiger Löschung von Wohnungseigentum ob der EZ ***** KG ***** über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 31. März 2017, AZ 46 R 108/17y, mit dem der Rekurs der Antragstellerin gegen den Beschluss des Bezirksgerichts Josefstadt vom 23. Dezember 2016, TZ 4559/2016, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Text
+Begründung:
+Das Erstgericht sprach aus, der Aufforderung zur amtswegigen Löschung des Wohnungseigentums könne seitens des Grundbuchgerichts nicht nachgekommen werden und verwies auf §§ 130, 131 GBG.
+Das Rekursgericht wies den Rekurs der Antragstellerin mangels Rechtsmittelbefugnis zurück, sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und ließ den ordentlichen Revisionsrekurs nicht zu.
+Rechtliche Beurteilung
+Der außerordentliche Revisionsrekurs der Antragstellerin zeigt keine erhebliche Rechtsfrage auf.
+1. Die Rechtsauffassung des Rekursgerichts, die Maßnahmen nach §§ 130 und 131 GBG dienten der Grundbuchbereinigung von Amts wegen, sodass den Parteien kein Antragsrecht und kein Rechtsmittel, sondern nur die Möglichkeit einer Anregung zustehe, entspricht der ständigen Rechtsprechung des erkennenden Senats (RIS-Justiz RS0060931). Die von Kodek (in Kodek, Grundbuchsrecht2 § 130 GBG Rz 22) vertretene Auffassung, die Löschung unzulässiger Eintragungen nach § 130 GBG sei zwingend, für ein gerichtliches Ermessen bestehe hier kein Raum, bedarf im konkreten Fall schon deshalb keiner näheren Erörterung, weil § 130 GBG sich lediglich auf schon ursprünglich abstrakt unzulässige Eintragungen bezieht, nicht aber auf abstrakt zulässige Eintragungen, die nur im konkreten Fall zu Unrecht bewilligt wurden (vgl RIS-Justiz RS0020435; Kodek in Kodek, Grundbuchsrecht2 § 130 GBG Rz 4/1). Abstrakt unzulässig ist das hier einverleibte Wohnungseigentum aber selbst unter Berücksichtigung der aus dem Grundbuchstand hervorgehenden Ersichtlichmachung der Verpflichtung zur Abtragung des Zubaus gemäß Punkt 1 des Bescheids vom 23. 7. 1953 nicht.
+2. Die von Kodek in Kodek, Grundbuchsrecht2 § 132 GBG Rz 10 lediglich referierte Auffassung eines zweitinstanzlichen Gerichts (KG Wels RPflSlgG 169), nach welcher einer die Berichtigung nach § 131 GBG ablehnende Beschluss ausnahmsweise dann anfechtbar sei, wenn der angefochtene Beschluss eine Erledigung der Sache enthalte, wurde vom Obersten Gerichtshof bereits wiederholt ausdrücklich abgelehnt (RIS-Justiz RS0060928 [T1], RS0060962 [T4], zuletzt 5 Ob 165/16z).
+3. Im Fall einer – hier behaupteten – grundbuchswidrigen unheilbar nichtigen Eintragung ist § 136 GBG nach völlig einheitlicher Rechtsprechung nicht anzuwenden (RIS-Justiz RS0060992 [T8]; 5 Ob 209/16w).
+4. Worin die vom Rekursgericht verneinten verfassungsrechtlichen Bedenken (offenbar gegen den in § 132 Abs 2 GBG vorgesehenen Ermessensspielraum und den Rechtsmittelausschluss) konkret begründet wären, führt der Revisionsrekurs nicht aus. Ein Rechtsschutzdefizit für die Antragstellerin besteht schon deshalb nicht, weil zur Beseitigung einer nichtigen Wohnungseigentumsbegründung nach grundbücherlicher Durchführung die Löschungsklage grundsätzlich zur Verfügung steht (RIS-Justiz RS0083429 [T1]).
+5. Mangels eines zulässigen Rekurses hatte das Rekursgericht die Frage der Nichtigkeit des Wohnungseigentums ebensowenig zu beurteilen wie die Ausübung des Ermessens durch das Erstgericht. Ob eine nicht erfolgte amtswegige Löschung hinzunehmen ist und die Nichterhebung eines außerordentlichen Revisionsrekurses Rechtsfolgen für das Amtshaftungsverfahren haben könnte, ist nicht Gegenstand des hier zu beurteilenden Grundbuchsverfahrens.
+6. Dass das Rekursgericht einen Ausspruch über den Wert des Entscheidungsgegenstands und die Zulässigkeit des ordentlichen Revisionsrekurses tätigte, beruht auf § 126 Abs 1 GBG iVm § 59 AußStrG und bringt keinerlei Zweifel an seiner eigenen Rechtsansicht zum Ausdruck.
+7. Die Entscheidung des Rekursgerichts entspricht somit ständiger Rechtsprechung des Obersten Gerichtshofs, eine Rechtsfrage im Sinn des § 62 Abs 1 AußStrG stellt sich nicht, weshalb der Revisionsrekurs als unzulässig zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0050OB00114.17A.0720.000

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.2019
+Geschäftszahl
+5Ob252/18x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der wohnrechtlichen Außerstreitsache des Antragstellers T*, vertreten durch Dr. Daniela Altendorfer-Eberl, Rechtsanwältin in Wien, gegen die Antragsgegner 1. G*, 2. B*, beide vertreten durch Dr. Susi Pariasek, Rechtsanwältin in Wien, wegen § 37 Abs 1 Z 2 MRG iVm §§ 3, 6 MRG, über den Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 29. August 2018, GZ 38 R 231/18d-16, mit dem der Rekurs gegen den Sachbeschluss des Bezirksgerichts Innere Stadt Wien vom 18. Mai 2018, GZ 42 Msch 18/17m-13, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Der angefochtene Beschluss wird aufgehoben und dem Rekursgericht die neuerliche Entscheidung über den Rekurs unter Abstandnahme vom gebrauchten Zurückweisungsgrund aufgetragen.
+Text
+Begründung:
+Das Erstgericht wies den auf die §§ 3, 6 MRG gestützten Antrag auf Wiederherstellung eines straßenseitigen Fensters des Bestandobjekts ab.
+Das Rekursgericht wies den Rekurs des Antragstellers als verspätet zurück. Die 4-wöchige Rekursfrist habe am 21. 6. 2018 geendet. Der erst am 22. 6. 2018 elektronisch eingebrachte Rekurs sei somit verspätet. Über Zulassungsvorstellung des Antragstellers ließ das Rekursgericht den Revisionsrekurs nachträglich zu. Es habe die Einhaltung der Rekursfrist ungeachtet der am Vortag per Telefax vorab übermittelten Eingabe nur anhand der per ERV übermittelten Ausfertigung des Rekurses geprüft.
+In seinem Revisionsrekurs beantragt der Antragsteller, den angefochtenen Beschluss ersatzlos zu beheben und dem Rekursgericht die inhaltliche Entscheidung über den Rekurs aufzutragen, in eventu den angefochtenen Beschluss aufzuheben und die Rechtssache zur Verfahrensergänzung und neuerlichen Entscheidung über die Rechtzeitigkeit des Rekurses an das Rekursgericht oder das Erstgericht zurückzuverweisen.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig; er ist auch berechtigt.
+1. Weist das Gericht zweiter Instanz „im Rahmen des Rekursverfahrens“ den Rekurs gegen die erstinstanzliche Sachentscheidung wegen Verspätung zurück, ist (auch) dieser Beschluss nur unter den Voraussetzungen des § 62 AußStrG anfechtbar (RIS-Justiz RS0120565 [T2, T3, T14], RS0120974 [T7, T8, T9, T12]). Die Anfechtbarkeit des Zurückweisungsbeschlusses setzt daher voraus, dass die Entscheidung von der Lösung einer erheblichen Rechtsfrage iSd § 62 Abs 1 AußStrG abhängt. Eine solche – konkret einen im Interesse der Rechtssicherheit und Rechtseinheit aufzugreifenden Fehler in der Fristberechnung (vgl 6 Ob 138/18i) – zeigt der Revisionsrekurs des Antragstellers auf.
+2. Das Revisionsrekursverfahren gegen die Zurückweisung des Rekurses ist einseitig (6 Ob 138/18i = RIS-Justiz RS0132250, RS0120614 [T2]; vgl auch RS0120860).
+3.1. Die Frist für den Rekurs gegen einen Sachbeschluss im mietrechtlichen Außerstreitverfahren beträgt – abweichend von § 46 Abs 1 AußStrG – vier Wochen (§ 37 Abs 3 Z 15 MRG). Der Sachbeschluss des Erstgerichts wurde der Antragstellervertreterin im Wege des ERV am 24. 5. 2018 zugestellt. Der letzte Tag der 4-wöchigen Rekursfrist war daher der 21. 6. 2018.
+3.2. Die Antragstellervertreterin hat den Rekurs zunächst am 21. 6. 2018, um 18:40 Uhr, per Telefax an die Telefaxnummer des Erstgerichts übermittelt und am 22. 6. 2018 elektronisch per ERV eingebracht.
+3.3. Eingaben mittels Telefax sind in analoger Anwendung des § 89 Abs 3 GOG zulässig und fristwahrend, wenn sie durch Beibringung einer gleichlautenden und mit eigenhändiger Unterschrift des Einschreiters versehenen Ablichtung verbessert werden, weil die auf dem Telefax aufscheinende fernkopierte Unterschrift dem § 75 Z 3 ZPO nicht entspricht (RIS-Justiz RS0006955 [insb T5]; RS0119013). Im Fehlen der Unterschrift liegt ein Formgebrechen, das durch Verbesserung zu beseitigen ist, wobei es keinen Unterschied macht, ob die Verbesserung aus eigenem Antrieb der Partei (durch Nachreichung eines Bestätigungsschriftsatzes innerhalb angemessener Frist) oder aufgrund eines gerichtlichen Auftrags erfolgt (RIS-Justiz RS0006955 [T9]). Dabei sind Rechtsanwältinnen und Rechtsanwälte gemäß § 89c Abs 5 Z 1 GOG nach Maßgabe der technischen Möglichkeiten zur Teilnahme am elektronischen Rechtsverkehr verpflichtet (RIS-Justiz RS0128266). (Auch) Ein Verstoß gegen diese Bestimmung ist wie ein Formmangel zu behandeln, der zu verbessern ist (§ 89c Abs 6 GOG).
+3.4. Die Antragstellervertreterin hat den vom Rekursgericht als verspätet erachteten Rekurs demnach fristwahrend am letzten Tag der Rekursfrist per Telefax eingebracht und – wenn auch ohne entsprechenden gerichtlichen Auftrag – gemäß § 89c Abs 5 und 6 GOG durch Einbringung mittels ERV zeitnah verbessert. Das Rekursgericht hat demnach zu Unrecht Fristversäumnis angenommen.
+4. Der angefochtene Beschluss war daher aufzuheben; das Rekursgericht wird ihn nunmehr meritorisch zu erledigen haben.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124127

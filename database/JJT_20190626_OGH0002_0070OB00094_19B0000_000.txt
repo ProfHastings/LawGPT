@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.06.2019
+Geschäftszahl
+7Ob94/19b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei G***** K*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei U***** AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 33.215 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 30. April 2019, GZ 2 R 66/19t-54, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die „Klipp- und Klar-Bedingungen für die Unfallversicherung 2005“ (U 500) zugrunde liegen. Diese lauten auszugsweise:
+„Dauernde Invalidität - Art 7:
+Soweit nichts anderes vereinbart ist, gilt:
+1. Voraussetzung für die Leistung:
+Die versicherte Person ist durch den Unfall auf Dauer in ihrer körperlichen oder geistigen Leistungsfähigkeit beeinträchtigt. Die Invalidität ist innerhalb eines Jahres nach dem Unfall eingetreten und von einem Arzt schriftlich festgestellt und bei uns geltend gemacht worden [...].
+8. Steht der Grad der dauernden Invalidität nicht eindeutig fest, sind sowohl die versicherte Person als auch wir berechtigt, den Invaliditätsgrad jährlich bis 4 Jahre ab dem Unfallstag ärztlich neu bemessen zu lassen.
+In welchen Fällen und nach welchen Regeln entscheidet die Ärztekommission? - Art 18
+1. Im Fall von Meinungsverschiedenheiten über Art und Umfang der Unfallfolgen und darüber in welchem Umfang die eingetretene Beeinträchtigung auf den Versicherungsfall zurückzuführen ist, entscheidet die Ärztekommission. Auch über die Beeinflussung der Unfallfolgen durch Krankheit oder Gebrechen sowie im Fall des unter 'Dauernde Invalidität' angeführten Art 7.8 entscheidet die Ärztekommission.
+2. In dem nach Punkt 1 der Ärztekommission zur Entscheidung vorbehaltenen Meinungsverschiedenheiten kann der Anspruchsberechtigte innerhalb von 6 Monaten nach Zugang unserer Erklärung Widerspruch erheben und mit Vorlage eines medizinischen Gutachtens unter Bekanntgabe seiner Forderung [...] die Entscheidung der Ärztekommission beantragen.
+[...]
+4. Für die Ärztekommission bestimmen der Anspruchsberechtigte und wir je einen in der österreichischen Ärzteliste eingetragenen Arzt mit ius-practicandi (Recht zur Berufsausübung). [...]. Die beiden Ärzte bestellen einvernehmlich vor Beginn ihrer Tätigkeit einen weiteren Arzt als Obmann, der für den Fall, dass sie sich nicht oder nur zum Teil einigen sollten, im Rahmen der durch die Gutachten der beiden Ärzte gegebenen Grenzen entscheidet [...]“
+Rechtliche Beurteilung
+1.1 Die Vereinbarung einer Ärztekommission ist ein Schiedsgutachtervertrag im Sinn des § 184 Abs 1 VersVG (RS0081371). § 184 Abs 1 VersVG bestimmt, dass eine von der Ärztekommission getroffene Feststellung (nur dann) nicht verbindlich ist, wenn sie offenbar von der wirklichen Sachlage erheblich abweicht. In diesem Fall hat die Feststellung durch gerichtliches Urteil zu erfolgen, während die Einrichtung einer Ärztekommission ansonsten im Sinn der angestrebten Kosten- und Zeitersparnis eine Gerichtsentscheidung erübrigen soll (7 Ob 220/10v; 7 Ob 148/14m).
+1.2 Die Frage der Verbindlichkeit der Sachverständigenfeststellung im Ärztekommissionsgutachten stellt sich hier nicht. Der mit vorliegendem Urteil festgestellte Invaliditätsgrad entspricht jenem, der zum Zeitpunkt der Erstattung des Ärztekommissionsgutachtens gegeben war und der – bereits geleisteten – Invaliditätsentschädigung durch die Beklagte zugrunde liegt.
+2.1 Ein allenfalls von der Erstbemessung abweichender Invaliditätsgrad ist nur dann neu zu bemessen und zu berücksichtigen, wenn dies bis zu vier Jahren ab dem Unfallstag vom Versicherten oder vom Versicherer begehrt (beantragt) wird. Wird die Antragstellung auf Neubemessung vom Versicherer (oder Versichertem) innerhalb von vier Jahren ab dem Unfalltag versäumt oder erfolgt sie nicht fristgerecht, bleibt es bei der bisherigen Bemessung des Invaliditätsgrades (vgl RS0129970).
+2.2 Bei der (mitversicherten) Ehefrau des Klägers trat nachträglich eine Verschlechterung der Unfallfolgen ein. Abgesehen davon, dass der Kläger im erstgerichtlichen Verfahren nur die Unrichtigkeit des Ärztekommissionsgutachtens und damit der Erstbemessung geltend machte, wäre ein Antrag auf Neubemessung bereits zum Zeitpunkt der Klagseinbringung (19. 9. 2017) aufgrund des bereits am 19. 4. 2013 eingetretenen Unfalls verfristet, wovon der Kläger selbst ausgeht.
+3. Der Kläger meint aber, er habe aufgrund der irreführenden Darstellung der Endbeurteilung im Ärztekommissionsgutachten verabsäumt, einen Antrag auf Neubemessung zu stellen.
+3.1 Sollten diese Ausführungen darauf abzielen, dass eine Berufung auf die Ausschlussfrist des Art 7.8 U 500 durch die Beklagte gegen Treu und Glauben verstoße (vgl RS0016788), so übersieht er, dass er einerseits keine Neubemessung beantragte und andererseits, dass eine Verschlechterung des Zustands seiner Ehefrau oder der Eintritt einer weiteren Einschränkung der Funktion zum Zeitpunkt der Feststellung durch die Ärztekommission gar nicht vorhersehbar war.
+3.2 Aus dem gleichen Grund scheidet auch eine allenfalls auf Schadenersatz gegründete Forderung, die gleichfalls nicht erhoben wurde, aus.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00094.19B.0626.000

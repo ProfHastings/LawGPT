@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2018
+Geschäftszahl
+3Ob2/18t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Parteien 1. Mag. C* T*, 2. Mag. M* T*, beide vertreten durch Dr. Wolfgang Leitner und andere Rechtsanwälte in Wien, gegen die verpflichteten Parteien 1. DI T* W*, 2. DI M* W*, beide vertreten durch die List Rechtsanwalts GmbH in Wien, wegen Einräumung bücherlicher Rechte (§ 350 EO), über den außerordentlichen Revisionsrekurs der betreibenden Parteien gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 9. November 2017, GZ 47 R 319/17k-8, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht bewilligte aufgrund eines rechtskräftigen und vollstreckbaren Urteils, nach dem die verpflichteten Parteien schuldig sind, der Abschreibung eines Teilstücks vom Gutsbestand ihrer Liegenschaft und der Zuschreibung dem  Gutsbestand der Liegenschaft der betreibenden Parteien einzuwilligen, die Exekution nach § 350 EO und ordnete die entsprechende bücherliche Ab- und Zuschreibung an.
+Das Rekursgericht änderte diese Entscheidung im abweisenden Sinn, weil die Exekutionsbewilligung von einem Bescheid im Sinne des § 13 Abs 5 Wr BauO abhängig sei, den die Betreibenden nicht vorgelegt und auf den sie sich im Exekutionsantrag auch nicht berufen hätten.
+Rechtliche Beurteilung
+Die Betreibenden zeigen in ihrem dagegen erhobenen außerordentlichen Revisionsrekurs keine erheblichen Rechtsfragen iSd § 528 Abs 1 ZPO auf.
+1. Bei der Exekution nach § 350 EO werden bücherliche Rechte an Liegenschaften begründet, weshalb grundsätzlich die grundbuchsrechtlichen Vorschriften, welche die Voraussetzungen der bücherlichen Eintragungen regeln, von Amts wegen zu beachten sind (RIS-Justiz RS0122492, RS0126965; jüngst 3 Ob 127/17y).
+2. Der grundbuchsrechtliche Fachsenat des Obersten Gerichtshofs hat bereits aufgezeigt, dass die Bewilligung einer Ab- und Zuschreibung von Grundstücken im Wiener Bauland den urkundlichen Nachweis einer Bewilligung oder einer (erledigten) Anzeige iSd § 13 Wr BauO voraussetzt (5 Ob 19/06i; vgl auch RIS-Justiz RS0120975).
+3. Die Rechtsmittelwerber stellen diese Rechtslage nicht in Frage und ihr Hinweis, der Grundstücksstreifen sei von ihnen im Wege der Ersitzung originär erworben worden, kann die Zulässigkeit des Rechtsmittels ebenfalls nicht stützen. Auch wenn im Fall einer Ersitzung die begehrte Eintragung nach § 136 GBG (Berichtigung) in Form der Einverleibung zu erfolgen hat, ändert dies nämlich nach gesicherter Rechtsprechung nichts daran, dass eine grundbücherliche Eintragung die Einhaltung der gesetzlichen (also auch der verwaltungsrechtlichen) Bestimmungen voraussetzt (5 Ob 301/98w; RIS-Justiz RS0079847).
+4. Der entscheidenden Rechtsfrage, ob § 13 Wr BauO nur im Fall derivativen oder auch originären Rechtserwerbs anzuwenden ist, kommt daher schon angesichts der eindeutigen gesetzlichen Regelung entgegen der Ansicht der Revisionsrekurswerber keine Erheblichkeit iSd § 528 Abs 1 ZPO zu: Hat der Oberste Gerichtshof doch bereits in der Entscheidung 5 Ob 301/98w zur vergleichbaren Rechtslage  nach § 10 Nö BauO ausgesprochen, dass das Gesetz nicht zwischen abgeleitetem und ursprünglichem Rechtserwerb unterscheidet (vgl auch 1 Ob 15/90; RIS-Justiz RS0010997) und dabei auch an die Judikatur des Verwaltungsgerichtshofs im Zusammenhang mit der Teilung von Grundstücken angeknüpft, wonach die entsprechenden verwaltungsbehördlichen Vorschriften durch die zivilrechtlichen Bestimmungen über die Ersitzung nicht berührt werden (VwGH 92/05/0284 = ZfVB 1994/926).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E120652

@@ -1,0 +1,54 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+7Ob29/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei C* K*, vertreten durch die Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei H* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung (Streitwert 7.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 18. September 2021, GZ 60 R 66/21t-18, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 27. April 2021, GZ 19 C 18/21t-12, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Zwischen dem Ehegatten der Klägerin und der Beklagten besteht ein Rechtsschutzversicherungsvertrag (Komplett-Rechtsschutz mit Verkehrs-Rechtsschutz), bei dem die Klägerin Mitversicherte ist. Dem Versicherungsvertrag liegen die ARB 1994 zugrunde, die auszugsweise wie folgt lauten:
+„Besondere Bestimmungen
+Artikel 17
+Schadenersatz-, Straf- und Führerschein-Rechtsschutz für Fahrzeuge (Fahrzeug-Rechtsschutz) je nach Vereinbarung mit oder ohne Fahrzeug-Vertrags-Rechtsschutz
+[...]
+2. Was ist versichert?
+Der Versicherungsschutz umfasst
+2.1. Schadenersatz-Rechtsschutz
+für die Geltendmachung von Schadenersatzansprüchen aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts wegen eines erlittenen Personen-, Sach- oder Vermögensschadens, soweit diese aus der bestimmungsgemäßen Verwendung des versicherten Fahrzeuges entstehen.
+2.1.1. Kein Versicherungsschutz besteht für die Geltendmachung von Ansprüchen aus schuldrechtlichen Verträgen sowie die Geltendmachung von Ansprüchen wegen reiner Vermögensschäden, die aus der Verletzung vertraglicher Pflichten entstehen und über das Erfüllungsinteresse hinausgehen, oder aus der Verletzung vorvertraglicher Pflichten entstehen (versicherbar in Pkt. 2.4.).
+[…]
+2.4. Fahrzeug-Vertrags-Rechtsschutz
+Wenn vereinbart, umfasst der Versicherungsschutz auch die Wahrnehmung rechtlicher Interessen aus schuldrechtlichen Verträgen, die versicherte Fahrzeuge und Anhänger einschließlich Ersatzteile und Zubehör betreffen.
+Als Wahrnehmung rechtlicher Interessen aus schuldrechtlichen Verträgen gilt auch die Geltendmachung und Abwehr von Ansprüchen wegen reiner Vermögensschäden, die aus der Verletzung vertraglicher Pflichten entstehen und über das Erfüllungsinteresse hinausgehen, oder aus der Verletzung vorvertraglicher Pflichten entstehen.
+[…]
+Artikel 19
+Schadenersatz- und Straf-Rechtsschutz für den Privat-, Berufs- und Betriebsbereich
+Der Versicherungsschutz erstreckt sich je nach Vereinbarung auf den Privat-, Berufs- und/oder Betriebsbereich.
+[…]
+2. Was ist versichert?
+Der Versicherungsschutz umfasst
+2.1. Schadenersatz-Rechtsschutz
+für die Geltendmachung von Schadenersatzansprüchen aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts wegen eines erlittenen Personen-, Sach- oder Vermögensschadens;
+[…]
+3. Was ist nicht versichert?
+3.1. Zur Vermeidung von Überschneidungen mit anderen Rechtsschutz-Bausteinen umfasst der Versicherungsschutz nicht
+3.1.1. Fälle, welche beim Versicherungsnehmer und den mitversicherten Personen in ihrer Eigenschaft als Eigentümer, Halter, Zulassungsbesitzer, Leasingnehmer oder Lenker von Motorfahrzeugen zu Lande, zu Wasser und in der Luft sowie Anhängern eintreten (versicherbar in Artikel 17 und 18);
+[…]“
+Rechtliche Beurteilung
+[1] 		Da die Klägerin in ihrer Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[2] 		1. Die Klägerin begehrt Rechtsschutzdeckung für die Geltendmachung eines deliktischen Anspruchs auf Ersatz des Minderwerts (30 % des Kaufpreises) gegen die Herstellerin ihres Fahrzeugs, dessen Motor mit einer unzulässigen Abschalteinrichtung ausgeliefert worden sei.
+[3] 		2.1. Die Allgemeinen Rechtsschutzbedingungen decken wegen der schweren Überschaubarkeit und Kalkulierbarkeit sowie der Größe des Rechtskostenrisikos im gesamten Bereich des privaten wie auch öffentlichen Rechts nur Teilgebiete ab. Eine universelle Gefahrenübernahme, bei der der Versicherer jeden beliebigen Bedarf des Versicherungsnehmers nach Rechtsschutz decken müsste, ist in Österreich nicht gebräuchlich. Die Allgemeinen Rechtsschutzbedingungen sind einerseits in die „Gemeinsamen Bestimmungen“ (Art 1 bis 16 ARB) und andererseits in die „Besonderen Bestimmungen“ (Art 17 bis 29 ARB) unterteilt. Diese stellen die sogenannten „Rechtsschutzbausteine“ dar, die jeweils die Eigenschaften und Rechtsgebiete, für die Versicherungsschutz bestehen, umschreiben (7 Ob 115/19s mwN).
+[4] 		2.2. Der Oberste Gerichtshof hat jüngst in der Entscheidung 7 Ob 91/22s mit ausführlicher Begründung dargelegt, dass der Anspruch weder von Art 17.2.1 ARB 2008 noch von Art 17.2.4 ARB 2008, sondern von Art 19.2.1 ARB 2008 umfasst ist. Dies gilt auch für die in diesem Fall anwendbaren (gleichlautenden) ARB 1994. Der von der Klägerin geltend gemachte Anspruch untersteht daher dem Rechtsschutzbaustein des Art 19.2.1 ARB 1994.
+[5] 		3.1. Die Klägerin hat aber im Verfahren erster Instanz ihren Deckungsanspruch ausdrücklich und ausschließlich auf Art 17 ARB 1994 gestützt und bestritten, dass der Versicherungsfall unter die Bestimmung des allgemeinen Schadenersatzrechtsschutzbausteins falle. Auch im Berufungsverfahren hat sie dezidiert die „Irrelevanz des Art 19 ARB“ geltend gemacht. Grundsätzlich wird zwar der Streitgegenstand durch das Klagebegehren und den rechtserzeugenden Sachverhalt bestimmt (RS0037419 [insb T2]) und ist eine offenbar unrichtige Qualifizierung, durch den Kläger bedeutungslos (RS0058348; RS0037659). Dies gilt aber nicht, wenn das Klagebegehren ausdrücklich und ausschließlich auf einen bestimmten Rechtsgrund beschränkt ist. Dann ist es dem Gericht nach der herrschenden Rechtsprechung verwehrt, dem Begehren aus anderen Gründen stattzugeben. (RS0037610 [T43]).
+[6] 		3.2. Die erstmalige Berufung auf Art 19 ARB 1994 zeigt daher keinen Korrekturbedarf der Berufungsentscheidung auf.
+[7] 		4. Die Revision der Klägerin ist somit zurückzuweisen.
+[8] 		5. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00029.22Y.0824.000

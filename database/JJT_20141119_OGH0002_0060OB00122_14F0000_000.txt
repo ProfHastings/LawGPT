@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.11.2014
+Geschäftszahl
+6Ob122/14f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Mag. R***** K*****, gegen die beklagte Partei Mag. H***** R*****, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH, wegen 70.000 EUR sA, über den Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 19. Mai 2014, GZ 3 R 40/14w-11, mit dem der Beschluss des Handelsgerichts Wien vom 17. März 2014, GZ 41 Cg 12/14v-4, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird Folge gegeben.
+Der angefochtene Beschluss wird dahin abgeändert, dass die Entscheidung des Erstgerichts wiederhergestellt wird.
+Der Kläger ist schuldig, dem Beklagten die mit 3.765,78 EUR (darin 627,63 EUR Umsatzsteuer) bestimmten Kosten des Rechtsmittelverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Parteien sind jeweils Minderheitsgesellschafter der D***** GmbH, der Beklagte war außerdem deren Geschäftsführer.
+Der Kläger begehrt mit seit 14. 2. 2014 gerichtsanhängiger Klage vom Beklagten die Zahlung von 70.000 EUR an die Gesellschaft, der durch Untätigkeit des Beklagten in seiner Funktion als Geschäftsführer ein Schaden entstanden sein soll. Am 7. 3. 2014 wurde mit Beschluss des Handelsgerichts Wien zu ***** über das Vermögen der Gesellschaft das Konkursverfahren eröffnet.
+Das Erstgericht unterbrach das Verfahren gemäß § 7 IO. Der Kläger verfolge in eigenem Namen einen Anspruch der Gesellschaft, weshalb der Streitgegenstand dieses Verfahrens Einfluss auf den Stand der Sollmasse der Gesellschaft habe.
+Das Rekursgericht behob den Unterbrechungsbeschluss ersatzlos und trug dem Erstgericht die Fortsetzung des Verfahrens auf. Es ließ den ordentlichen Revisionsrekurs zu, weil Rechtsprechung des Obersten Gerichtshofs zur Frage fehle, ob § 7 IO auch Fälle einer gesetzlichen Prozessstandschaft - wie hier nach § 48 GmbHG - erfasse, wenn über das Vermögen des Dritten - hier der Gesellschaft - das Insolvenzverfahren eröffnet werde.
+In der Sache selbst verwies das Rekursgericht auf den Wortlaut des § 7 Abs 1 IO, wonach eine Unterbrechung des Verfahrens nur dann in Betracht komme, wenn der Schuldner selbst Kläger oder Beklagter ist. Gerade dies sei hier aber hinsichtlich der Gesellschaft nicht der Fall.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist zulässig; er ist auch berechtigt.
+1. Der Kläger gründet die hier geltend gemachten Ansprüche auf den Titel des Schadenersatzes und stützt sich dabei auf § 48 Abs 1 GmbHG. Nach dieser Bestimmung können unter bestimmten Voraussetzungen unter anderem der Gesellschaft gegen Geschäftsführer zustehende Ansprüche auch von Minderheitsgesellschaftern geltend gemacht werden. Das Begehren solcher Klagen hat auf Leistung an die Gesellschaft zu lauten; es handelt sich um eine actio pro socio (Koppensteiner/Rüffler, GmbHG³ [2007] § 48 Rz 11; Enzinger in Straube, GmbHG [2013] § 48 Rz 16; RIS-Justiz RS0060387 [T1]), der klagende Gesellschafter ist gesetzlicher Prozessstandschafter.
+2. Nach § 7 Abs 1 IO werden alle anhängigen Rechtsstreitigkeiten (mit hier nicht in Betracht kommenden Ausnahmen), in denen der Schuldner Kläger oder Beklagter ist, durch Eröffnung eines Insolvenzverfahrens unterbrochen. Zwar ist nun - wie das Rekursgericht zutreffend erkannt hat - die Gesellschaft, über die hier das Konkursverfahren eröffnet wurde, in diesem Verfahren weder Kläger noch Beklagter. Allerdings hat der Oberste Gerichtshof in der Entscheidung 8 Ob 543/87 (SZ 60/151) ausgeführt, bei Ersatzforderungen, die von Gläubigern einer Aktiengesellschaft gemäß § 84 Abs 5 AktG gegen deren Vorstandsmitglieder geltend gemacht werden, handle es sich inhaltlich immer um Forderungen der Gesellschaft; wie sich aus dem letzten Satz dieser Gesetzesstelle ergebe, komme im Fall der Eröffnung des Konkurses über das Vermögen der Gesellschaft diese bloße Verfolgungsbefugnis der Gläubiger wieder zum Erlöschen und gehe die Wahrnehmung dieses Ersatzanspruchs auf den Masseverwalter über; die im Zeitpunkt der Verhängung des Gesellschaftskonkurses von Gesellschaftsgläubigern schon anhängig gemachten Rechtsstreitigkeiten über solche Ansprüche würden - in analoger Anwendung des § 7 KO durch die Konkurseröffnung - unterbrochen.
+3. Auch wenn § 48 GmbHG eine dem § 84 Abs 5 letzter Satz AktG („Ist über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet, so übt während dessen Dauer der Masse- oder Sanierungverwalter das Recht der Gläubiger gegen die Vorstandsmitglieder aus.“) vergleichbare Regelung nicht enthält, liegt im Fall der Eröffnung eines Insolvenzverfahrens über das Vermögen der Gesellschaft die selbe Interessenlage vor. Der Gläubiger der Aktiengesellschaft und der Minderheitsgesellschafter der Gesellschaft mit beschränkter Haftung nehmen jeweils den gesetzlichen Vertreter der Gesellschaft mit der Begründung in Anspruch, dieser habe der Gesellschaft in seiner Funktion als deren Vertreter einen Schaden zugefügt. Der wirtschaftliche Erfolg der Klagsführungen soll jeweils der insolventen Gesellschaft zugutekommen. Deren Massen werden vom Insolvenzverwalter vertreten, der somit auch den Ersatzanspruch wahrnehmen soll. § 7 Abs 1 IO ist daher analog anzuwenden.
+4. Damit war aber der erstinstanzliche Beschluss, mit dem das Verfahren unterbrochen wurde, wiederherzustellen.
+Die Entscheidung über die Kosten gründet sich auf § 52 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:0060OB00122.14F.1119.000

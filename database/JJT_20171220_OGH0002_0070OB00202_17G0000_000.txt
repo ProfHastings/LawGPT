@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2017
+Geschäftszahl
+7Ob202/17g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Dr. G***** F*****, vertreten durch Dr. Wolfgang Riha, Rechtsanwalt in Wien, gegen die beklagte Partei U***** AG, *****, vertreten durch die Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 52.474,80 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. September 2017, GZ 1 R 86/17z-59, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die „Klipp und Klar Bedingungen für die Unfallversicherung Fassung 12/2007“ (U 500) lauten auszugsweise wie folgt:
+„In welchen Fällen und nach welchen Regeln entscheidet die Ärztekommission? – Artikel 18
+1. Im Fall von Meinungsverschiedenheiten über Art und Umfang der Unfallfolgen oder darüber, in welchem Umfang die eingetretene Beeinträchtigung auf den Versicherungsfall zurückzuführen ist, entscheidet die Ärztekommission. Auch über die Beeinflussung der Unfallfolgen durch Krankheiten oder Gebrechen sowie im Falle des unter 'Dauernde Invalidität' angeführten Artikel 7 Pkt. 8 entscheidet die Ärztekommission.
+…
+7. Die Entscheidung der Ärztekommission ist dann nicht verbindlich, wenn sie offenbar von der wirklichen Sachlage erheblich abweicht. Die Feststellung erfolgt in diesem Fall durch gerichtliches Urteil.
+…
+… Was ist nach Eintritt des Versicherungsfalles zu tun? – Artikel 24
+…
+2.4. Nach dem Unfall ist unverzüglich ärztliche Hilfe in Anspruch zu nehmen und die ärztliche Behandlung bis zum Abschluss des Heilverfahrens fortzusetzen. Ebenso ist für eine angemessene Krankenpflege und nach Möglichkeit für die Abwendung und Minderung der Unfallfolgen zu sorgen. …“
+Das Berufungsgericht ist davon ausgegangen, dass dem Kläger zur Behebung der Unfallfolgen eine Kataraktoperation am linken Auge zumutbar und er folglich nach § 183 VersVG sowie gemäß Art 24.2.4. U 500 zu einer solchen Operation verpflichtet sei. Dem hält der Kläger in seiner außerordentlichen Revision entgegen, das Berufungsgericht sei von der ständigen Rechtsprechung des Obersten Gerichtshofs abgewichen, weil es nicht von der bindenden Wirkung der Feststellung der Ärztekommission betreffend die Unzumutbarkeit der Kataraktoperation ausgegangen sei. Damit zeigt der Kläger keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+1. Die Vereinbarung der Einrichtung einer Ärztekommission ist ein Schiedsgutachtervertrag iSd § 184 Abs 1 VersVG (vgl auch § 64 Abs 1 VersVG; vgl RIS-Justiz RS0081371). Die bestellten Sachverständigen sind nur zur Feststellung einzelner Tatbestandselemente berufen (vgl RIS-Justiz RS0080464). Die Entscheidungskompetenz der Ärztekommission umfasst nach Art 18.1. U 500 Art und Umfang der Unfallfolgen, in welchem Umfang die eingetretene Beeinträchtigung auf den Versicherungsfall zurückzuführen ist, die Beeinflussung der Unfallfolgen durch Krankheiten oder Gebrechen sowie den Fall des unter „Dauernde Invalidität“ angeführten Art 7.8. U 500.
+2. Die Pflicht, sich einer Krankenbehandlung zu unterziehen, ist eine Obliegenheit nach § 183 VersVG und Art 24.2.4. U 500, die grundsätzlich auch eine zumutbare Operation umfasst (vgl 7 Ob 129/09k). Ob aber der Versicherer wegen einer Obliegenheitsverletzung, hier wegen Ablehnung einer zumutbaren Operation, leistungsfrei ist, hat das Gericht zu entscheiden (vgl RIS-Justiz RS0080449). Die Beurteilung damit im Zusammenhang stehender Tatbestandselemente fällt nicht in die in Art 18.1. U 500 umrissene Entscheidungskompetenz der Ärztekommission. Schon aus diesem Grund war deren Ansicht für das Berufungsgericht nicht bindend.
+3. Die vom Kläger ins Treffen geführten Entscheidungen 7 Ob 184/06v und 7 Ob 92/07s betrafen jeweils die Feststellung des Invaliditätsgrades und damit eine nach der Bedingungslage in die Entscheidungskompetenz der Ärztekommission fallende Frage. Diese Entscheidungen sind demnach nicht einschlägig.
+4. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision unzulässig und daher zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0070OB00202.17G.1220.000

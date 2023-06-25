@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+7Ob127/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei B* F*, vertreten durch Mag. Ronald Kartnig, Rechtsanwalt in Wien, gegen die beklagte Partei G* AG, *, vertreten durch Kueß & Beetz Rechtsanwälte Partnerschaft in Wien, wegen 31.537,92 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. Mai 2022, GZ 1 R 10/22f-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1  § 12 Abs 1 VersVG enthält eine die Verjährung von Versicherungsansprüchen regelnde Sonderbestimmung (RS0080075). Nach § 12 Abs 1 Satz 1 VersVG gilt grundsätzlich die allgemeine Regelung des § 1478 ABGB, wonach für den Versicherungsnehmer die Verjährung mit dem Zeitpunkt beginnt, zu dem das Recht hätte ausgeübt werden können (7 Ob 268/03t, 7 Ob 176/17h). Der Lauf der Verjährungsfrist beginnt demnach mit jenem Zeitpunkt, zu dem die Fälligkeit der geforderten Leistung eintritt (RS0080324; RS0080075 [T2]; vgl auch RS0034362 [T1]).
+[2] 		1.2 Wenn der Versicherer die Versicherungsleistung endgültig ablehnt, wird der Entschädigungsanspruch sofort fällig (RS0114507), sodass die Versicherungsleistung mit Leistungsklage geltend gemacht werden kann (RS0080481 [T5]). Damit endet auch die in § 12 Abs 2 VersVG vorgesehene Hemmung der Verjährung für die Zeit zwischen der Anmeldung des Anspruchs und der Entscheidung des Versicherers in geschriebener Form mit der Anführung der der Ablehnung zugrunde gelegten Tatsachen und gesetzlichen oder vertraglichen Bestimmungen (RS0114507).
+[3] 		1.3 Das Berufungsgericht qualifizierte das Ablehnungsschreiben der Beklagten vom Dezember 2013 als ausreichend nach § 12 Abs 2 VersVG. Dies ist nicht zu beanstanden:
+[4] 		1.3.1 Auch wenn an ein solches Ablehnungsschreiben strenge Anforderungen zu stellen sind (RS0080224), so wurde hier – selbst wenn dies sachlich unrichtig gewesen sein sollte – auch für den durchschnittlich verständigen Versicherungsnehmer notwendig klar und ausreichend eindeutig zum Ausdruck gebracht, dass die geltend gemachte Versicherungsleistung aus der Unfallversicherung verweigert wurde, weil nach Ansicht der Beklagten keine versicherte, sondern eine bloß degenerative Bandscheibenschädigung vorlag.
+[5] 		1.3.2 Die Ausführungen des Klägers, die Ablehnung sei mangels Einhaltung der Schriftform (Fehlen einer eigenhändigen Unterschrift) nicht wirksam, sind ebenfalls nicht zielführend: § 12 Abs 2 VersVG idF BGBl I Nr 34/2002 fordert eine in geschriebener Form übermittelte Entscheidung des Versicherers. Nach der Definition der „geschriebenen Form“ in § 1b Abs 1 VersVG idF BGBl I Nr 34/2012 ist keine Unterschrift oder qualifizierte elektronische Signatur erforderlich, wenn aus der Erklärung – wie hier – die Person des Erklärenden hervorgeht.
+[6] 		2. Damit erweist sich die – nach mehr als siebenjähriger Untätigkeit des Klägers – erfolgte klageweise Geltendmachung des Versicherungsanspruchs als verjährt.
+[7] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00127.22K.0824.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.02.2003
+Geschäftszahl
+7Ob301/02v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schalich als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei P*****, vertreten durch Saxinger Chalupsky Weber & Partner, Rechtsanwälte GmbH in Wels, gegen die beklagte Partei G***** Allgemeine Versicherungs-AG, ***** vertreten durch Dr. Walter Müller, Rechtsanwalt in Linz, wegen EUR 95.194,15 samt Anhang, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 1. Oktober 2002, GZ 3 R 105/02k-29, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502  Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Beklagte schloss mit der Rechtsvorgängerin der Klägerin einen Versicherungsvertrag ab, mit dem unter anderem Sturmschäden an einem Betriebsgebäude versichert sind.
+Der sogenannte Mastervertrag vom 1. 1. 2000 enthält unter Punkt 6.18 eine mit "Erweiterte Anerkennung" überschriebene Klausel:
+"Der Versicherer erkennt an, dass ihm alle Umstände bekannt geworden sind, die im Zeitpunkt der Antragstellung gegeben und für die Übernahme der Gefahr erheblich waren. Dies gilt jedoch nicht für Umstände, die arglistig verschwiegen worden sind".
+Der eigentliche oder "lokale" Versicherungsvertrag vom 1. 5. 2000 enthält unter der Überschrift "Besondere Vereinbarungen: Anerkennung" folgende Klausel:
+"Die Versicherer erkennen an, dass ihnen bei Abschluss des Vertrages alle Umstände bekannt waren, die für die Beurteilung des Risikos erheblich sind, es sei denn, dass irgendwelche Umstände arglistig verschwiegen wurden. Die Verpflichtung des Versicherungsnehmers, nachträglich eingetretene Gefahrenerhöhungen gemäß § 27 VersVG anzuzeigen, bleibt unberührt."
+Vom 1. 1. bis 30. 4. 2000 gab die Beklagte eine vorläufige Deckungszusage.
+Die Anerkennungsklausel war von der Klägerin als Mindesterfordernis gewünscht worden. Die Beklagte prüfte von Oktober bis Dezember 1999, ob das Risiko per 1. 1. 2000 gezeichnet werde und führte auch Risikobesichtigungen lokal durch. Die am 11. 8. 2000 vom Sachverständigen im Zuge der Sanierung des Daches auf dem Dach der Lackierhalle festgestellten schweren Schäden sind zum Großteil auf Windeinwirkungen zurückzuführen, wobei sich der Entstehungszeitpunkt nicht exakt feststellen lässt. Die vorhandenen Korrosionsspuren, Schmutzablagerungen und Verkrustungen deuten darauf hin, dass die Schadenseinwirkung schon längere Zeit, jedenfalls vor dem Versicherungszeitraum, besteht. Die übliche Lebenserwartung der Dachfolie beträgt 5 bis 15 Jahre. Das Dach wies neben den Spuren der Windeinwirkungen auch die typischen altersbedingten Schrumpfungserscheinungen mit den Folgespannungen an den Befestigungselementen auf.
+Das Erstgericht fällte ein Zwischenurteil und erkannte den Klagsanspruch als dem Grunde nach zu Recht bestehend. Das Berufungsgericht änderte das angefochtene Urteil in eine gänzliche Klagsabweisung ab. Es übernahm die Feststellung, wonach mit der Anerkennungsklausel ausdrücklich (mündlich) vereinbart auch allfällige Schäden - ausgenommen arglistig verschwiegene - so wie besichtigt übernommen worden seien, nach Beweiswiederholung nicht. Zum Inhalt der Anerkennungsklausel seien keine Gespräche geführt worden.
+Rechtliche Beurteilung
+Allgemeine Versicherungsbedingungen sind nach nunmehr ständiger Rechtsprechung nach Vertragsauslegungsgrundsätzen (§§ 914 ff ABGB) auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (7 Ob 205/02 a; 7 Ob 56/02i; 7 Ob 73/02i; VR 1992/284; RIS-Justiz RS0050063). Die einzelnen Klauseln der Versicherungsbedingungen sind, wenn über ihren Inhalt nicht näher gesprochen wurde - wie hier - , objektiv unter Beschränkung auf ihren Wortlaut auszulegen (7 Ob 205/02a; RIS-Justiz RS0008901).
+Nach dem eindeutigen Wortlaut der Anerkennungsklausel übernimmt damit der Versicherer nur die alleinige Umschreibung des Risikos, sodass der Versicherungsnehmer von allen Angaben dazu (ausgenommen arglistig verschwiegene Umstände) befreit ist. Die Klausel nimmt keinen Bezug auf eine Deckung von Vorschäden und soll insbesondere dem Versicherungsnehmer nicht den Beweis des Eintritts des Versicherungsfalles nach Vertragsabschluss abnehmen. Aus den Feststellungen ergibt sich kein Hinweis darauf, dass eine versicherungsfreie Zeit abzudecken gewesen wäre. Gründe dazu, warum für einen bestimmten Zeitraum eine Doppelversicherung vereinbart hätte werden sollen, sind nicht erkennbar.
+Im Übrigen greift die Klägerin unzulässigerweise die Beweiswürdigung des Berufungsgerichtes an.
+Es gibt keinen Hinweis auf eine Rückwärtsversicherung (vgl RIS-Justiz RS0080169).
+Die Revision hat keine erheblichen Rechtsfragen geltend gemacht.

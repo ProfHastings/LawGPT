@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+7Ob70/22b
+Kopf
+Der Oberste Gerichtshof hat durch die Hofrätin  Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Dr. S* P*, als Masseverwalterin im Konkursverfahren über das Vermögen der S* GmbH, gegen die beklagte Partei P* GmbH, *, vertreten durch Dr. Gerhard Seirer und Mag. Herbert Weichselbraun, Rechtsanwälte in Lienz, wegen 59.509,13 EUR sA, über den außerordentlichen Revisonsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 4. Februar 2022, GZ 2 R 4/22h-20, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der Oberste Gerichtshof ist nur Rechts- und nicht Tatsacheninstanz (RS0002399 [T2]). Fragen der Beweiswürdigung – wie sie die Revisionsrekurswerberin anschneidet – können an den Obersten Gerichtshof nicht herangetragen werden (vgl RS0043414 [T11]).
+[2] 		2. Aktenwidrigkeit kann nicht als Ersatz für eine im Revisionsrekursverfahren generell unzulässige Beweisrüge herangezogen werden (vgl RS0117019). Eine Aktenwidrigkeit einer Rechtsmittelentscheidung wäre nur bei einem Widerspruch zwischen dem Inhalt eines bestimmten Aktenstücks und dessen Zugrundelegung und Wiedergabe durch das Rechtsmittelgericht verwirklicht (vgl RS0043284; RS0043397). In der Übernahme der Feststellungen des Erstgerichts durch das Rekursgericht – wie hier – kann schon begrifflich eine Aktenwidrigkeit nicht liegen (RS0043240; RS0043347 [T12]). Das Rekursgericht hat (die von den Parteien im Rekursverfahren unbekämpften) Feststellungen des Erstgerichts zum Zustellvorgang vollinhaltlich übernommen. Die Voraussetzungen für eine dem Rekursgericht unterlaufene Aktenwidrigkeit liegen damit nicht vor.
+[3] 		3. Selbst wenn man mit der Rechtsmittelwerberin von der (unmittelbaren oder analogen) Anwendung von § 468 Abs 2 ZPO im Rekursverfahren ausgeht, wäre für sie nichts gewonnen. Die Beklagte hat im Rekurs eine Rechtsrüge ausgeführt und sich dabei auf die Feststellungen bezogen, die ausdrücklich als solche im so bezeichneten Abschnitt des erstinstanzlichen Beschlusses zusammengefasst wurden (vgl RS0112020). In diesem Fall hätte die Revisionsrekurswerberin die für sie nachteiligen Feststellungen bei späterem Ausschluss schon in der Rekursbeantwortung bekämpfen müssen (vgl RS0041773 [T7]).
+[4] 		4. Abgesehen davon, dass das Gericht im Rahmen der amtswegigen Überwachung des Zustellwesens (§ 87 Abs 1 ZPO) die gesetzmäßige Zustellung selbständig zu überprüfen hat (vgl RS0111270 [T1]), brachte die Beklagte ausdrücklich vor, dass eine nicht in ihrem Unternehmen beschäftigte Person die „Verständigung über die Hinterlegung eines behördlichen Dokuments mittels Übernahmebestätigung ... unterfertigt“ habe. Die Behauptung, die Beklagte habe kein entsprechendes Tatsachenvorbringen erstattet, trifft daher nicht zu.
+[5] 		5. Soweit die Revisionsrekurswerberin behauptet, das Erstgericht habe „die wirksame Zustellung des Zahlungsbefehls festgestellt“, argumentiert sie nicht auf der Grundlage des festgestellten Sachverhalts und führt damit ihre Rechtsrüge nicht gesetzmäßig aus (vgl RS0043312 [T12, T14]; RS0043603 [T2, T8]).
+[6] 		Durch Hinterlegung darf – wie sich aus § 17 Abs 1 ZustG ergibt – erst zugestellt werden, wenn weder dem Empfänger noch einem Ersatzempfänger zugestellt werden kann. Andernfalls ist die Hinterlegung gesetzwidrig und die Zustellung rechtsunwirksam (RS0111049). Die vom Rekursgericht darauf gegründete rechtliche Beurteilung bekämpft die Rechtsmittelwerberin nicht.
+[7] 		6. Einer weiteren Begründung bedarf dieser Beschluss nicht (§§ 528a, 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00070.22B.0525.000

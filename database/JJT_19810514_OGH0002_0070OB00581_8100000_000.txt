@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.05.1981
+Geschäftszahl
+7Ob581/81
+Norm
+JN §104;
+KSchG §1 Abs1 Z1;
+KSchG §14;
+KSchG §39 Abs1;
+Kopf
+SZ 54/74
+Spruch
+Der Rechtsanwalt ist im Verhältnis zum Klienten Unternehmer im Sinn des Konsumentenschutzgesetzes. Auch als Zusatz zu einem schon vor dessen Inkrafttreten zustande gekommenen Vertragsverhältnis kann eine nun unzulässige Gerichtsstandsvereinbarung nicht mehr wirksam geschlossen werden
+OGH 14. Mai 1981, 7 Ob 581/81 (KG Steyr R 227/80; BG Enns C 367/80)
+Text
+Der Kläger, ein in Enns ansässiger Rechtsanwalt, brachte seine Honorarklage gegen den in Salzburg wohnhaften Beklagten, einen Studenten. Unter Berufung auf die in einer undatierten, aber unbestrittenermaßen nach dem 1. Oktober 1979 unterfertigten Vollmacht enthaltenen Gerichtsstandvereinbarung beim Bezirksgericht Enns ein.
+Während der Erstrichter die Unzuständigkeitseinrede des Beklagten verwarf, gab ihr das Rekursgericht statt und wies die Klage mit Rücksicht auf die Rückziehung des zunächst vom Kläger gestellten Überweisungsantrages mit der Begründung zurück, daß die Gerichtsstandvereinbarung zufolge § 14 Abs. 1 KSchG nach dem 1. Oktober 1979 nicht mehr wirksam geschlossen werden konnte.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurswerber bestreitet nicht, daß im vorliegenden Rechtsverhältnis er als Unternehmer und der Beklagte als Konsument im Sinne des KSchG anzusehen ist. Entgegen der Meinung von Kaltenbäck, Anw 1979, 394, ist tatsächlich auch ein Rechtsanwalt bei Geschäften, die zum Betrieb seines Unternehmens gehören, als Unternehmer im Sinne des § 1 Abs. 1 Z. 1 KSchG anzusehen, weil dieses Gesetz für die sogenannten Konsumentenverträge des ersten Hauptstückes keinen Unterschied zwischen Sach- und Dienstleistungen auch höherer Art macht und der Gesetzeszweck, die schematischen Ungleichheiten zwischen Unternehmern und Verbrauchern zu beseitigen oder zu mildern, auch für die Bevollmächtigung eines Rechtsanwaltes zutrifft. Es ist auch unrichtig, daß der Gesetzgeber nicht daran gedacht habe, es könne irgend jemand auf den Gedanken kommen, das Konsumentenschutzgesetz auf Leistungen von Freiberuflern überhaupt anzuwenden; das Gegenteil war schon bei der Gesetzwerdung klar (vgl. 744 BlgNR, XIV. GP, 16 sub II 3), entspricht dem grundsätzlichen Zweck besonderen Schutzes des (in Rechtsangelegenheiten gerade gegenüber einem Rechtsanwalt) schwächeren Verbrauchers und ist auch in der übrigen Lehre unbestritten (Kosesnik - Wehrle, Konsumentenschutzgesetz, 22; Krejci - Schilcher - Steininger, Konsumentenschutzgesetz, ABGB und Verfahrensrecht, 58; Schragel, Konsumentenschutz im Zivilprozeß, in: Verbesserter Zugang zum Recht, Vorträge bei der Richterwoche 1979, 220 Kohlegger, Das österreichische Konsumentenschutzgesetz, herausgegeben vom Bundesministerium für Justiz, 22; Friedberg, Anw. 1979, 258; Moser, Anw. 1979, 337).
+Bei dieser Rechtslage kann in der Sache selbst der Ansicht des Rekurswerbers nicht gefolgt werden, daß § 14 Abs. 1 KSchG über die Beschränkung der Zulässigkeit einer Gerichtsstandvereinbarung bei Konsumentenverträgen im vorliegenden Fall deshalb nicht anwendbar sei, weil das Vollmachtsverhältnis schon vor dem Inkrafttreten des KSchG begrundet worden sei. Nach der zutreffenden Ansicht des Rekursgerichtes war die Gerichtsstandvereinbarung ab dem Inkrafttreten des KSchG mit 1. Oktober 1979 nicht mehr zulässig. Aus der Bestimmung des § 39 Abs. 1 KSchG, wonach das Bundesgesetz auf "Verträge", die vor seinem Inkrafttreten geschlossen worden sind, nicht anzuwenden ist, kann entgegen der Ansicht des Rekurswerbers keinesfalls abgeleitet werden, daß zu einem vorher geschlossenen Vertrag nach dem Inkrafttreten des KSchG nun unzulässig gewordene Vertragsbestimmungen vereinbart werden könnten. Vielmehr ist diese Zusatzvereinbarung selbst als unzulässiger Vertrag anzusehen. Die Richtigkeit dieser Ansicht ergibt sich aus dem Zweck des Gesetzes, den Konsumenten ab dem 1. Oktober 1979 vor unzulässiger Vertragsbestandteilen (vgl. § 6 KSchG) zu schützen; es wäre widersinnig anzunehmen, daß bisher fehlende und nun verbotene Bestimmungen zu einem Vertrag, der in der bisherigen Gestaltung sogar dem KSchG entsprochen hätte, nach dem Inkrafttreten des KSchG wirksam vereinbart werden könnten. Auf den bloßen Zusammenhang der Gerichtsstandvereinbarung mit einem schon bestandenen Vertragsverhältnis kommt es daher nicht entscheidend an.

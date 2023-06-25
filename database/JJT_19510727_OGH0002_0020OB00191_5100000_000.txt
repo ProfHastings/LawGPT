@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.07.1951
+Geschäftszahl
+2Ob191/51
+Norm
+EO §35;
+EO §39;
+EO §41 Abs2;
+EO §87;
+EO §96;
+Kopf
+SZ 24/197
+Spruch
+Auch bei der zwangsweisen Pfandrechtsbegründung ist das Exekutionsverfahren erst mit der Einstellung beendet.
+Entscheidung vom 27. Juli 1951, 2 Ob 191/51.
+I. Instanz: Bezirksgericht Döbling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Erstgericht hat die auf § 35 EO. gestützte Klage mit der Begründung abgewiesen, daß die Exekution durch zwangsweise Pfandrechtsbegründung mit der Eintragung des Pfandrechtes im Grundbuch abgeschlossen und beendet sei und daß nachher Tatsachen, die den Anspruch aufheben oder hemmen, nur mit einer Klage auf Einwilligung in die Löschung geltend gemacht werden können.
+Das Berufungsgericht hat das Urteil des Erstgerichtes aufgehoben und die Sache an dieses mit Rechtskraftvorbehalt zur neuerlichen Verhandlung und Entscheidung zurückverwiesen.
+Der Oberste Gerichtshof hat dem Rekurs der Beklagten nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof pflichtet der Meinung des Berufungsgerichtes bei, daß unter Bedachtnahme auf die Bestimmungen des § 96 EO. die bisher in der Rechtsprechung nicht einheitlich gelöste Frage, wann die Exekution durch zwangsweise Pfandrechtsbegründung beendet ist, nur dahin entschieden werden kann, daß auch die zwangsweise Pfandrechtsbegründung erst mit ihrer Einstellung zur Aufhebung der eingeleiteten Zwangsvollstreckung und aller vollzogenen Exekutionsakte führt. Andernfalls hätte der Gesetzgeber die im § 96 EO. vorgesehene Aufhebung des zwangsweise begrundeten Pfandrechtes oder dessen Einschränkung nicht von einem schlichten Antrag des Verpflichteten abhängig machen können und die Entscheidung dem Exekutionsgericht in einer Form überlassen, in der über Einschränkungsanträge entschieden wird.
+Daraus, daß der Gesetzgeber für den im § 96 EO. geregelten besonderen Fall der Einschränkung der Exekution nicht den Weg der Klage mit dem Begehren auf Einwilligung in die Löschung gewählt hat, sondern nur einen Antrag im Exekutionsverfahren, muß geschlossen werden, daß die Exekutionsordnung auch nach Vollzug der grundbücherlichen Eintragung das Verfahren durch zwangsweise Pfandrechtsbegründung noch für anhängig hält.
+Ob es sich hiebei um eine Korrektur der ursprünglichen Einverleibung handelt, ist nicht entscheidend; § 96 EO. ist nur ein Spezialfall der im § 41 Abs. 2 vorgesehenen Einschränkung; wenn auch § 96 EO. einen Antrag des Verpflichteten vorsieht, so kann der betreibende Gläubiger doch gewiß nicht daran gehindert werden, die Einschränkung der Exekution selbst anzuregen oder vorzunehmen, wenn er einem Antrag des Verpflichteten zuvorkommen will.
+Nach den Bestimmungen des § 96 EO. hat das Exekutionsgericht auch nach rechtskräftiger Einverleibung des Zwangspfandes weiter Verfügungen zu treffen, ein Vorgang, der nicht möglich wäre, wenn die Exekution durch zwangsweise Pfandrechtsbegründung mit der vollzogenen Einverleibung bereits ihr Ende gefunden hätte.
+Die Einschränkung der Exekution durch zwangsweise Pfandrechtsbegründung kann ohneweiters mit der Einschränkung bei einer Exekution auf das bewegliche Vermögen verglichen werden, bei der nur die Pfändung und nicht auch der Verkauf beantragt worden ist. Dieses Pfandrecht kann nach den Bestimmungen des § 256 Abs. 2 EO. zunächst ohne Verkaufsantrag durch ein Jahr hindurch bestehen. Wenn innerhalb dieses Jahres Verfügungen notwendig werden, die die Einstellung oder Einschränkung der Exekution zum Gegenstand haben, dann dürfte es keinem Zweifel begegnen, wenn hiezu das Exekutionsgericht für zuständig erachtet wird.

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.09.2020
+Geschäftszahl
+2Ob154/20s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei R***** P*****, vertreten durch Vavrovsky Heine Marth Rechtsanwälte GmbH in Wien, gegen die beklagte Partei A***** P*****, vertreten durch Dr. Alexander Hofmann, Rechtsanwalt in Wien, wegen 139.000 EUR sA, über den Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 15. Juli 2020, GZ 14 R 28/20w-8, mit welchem der Beschluss des Landesgerichts für Zivilrechtssachen Wien vom 3. Februar 2020, GZ 65 Cg 1/20z-4, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die klagende Partei hat die Kosten ihrer Rechtsmittelbeantwortung selbst zu tragen.
+Text
+Begründung:
+[1] 		Die Parteien sind in Österreich ansässig. Ihr Vater ist im Jahr 2002 gestorben, sein Nachlass wurde in der Türkei abgehandelt.
+[2] 		Die Klägerin bringt in ihrer am 31. Dezember 2019 eingebrachten Klage vor, dass ihr nach den Ergebnissen des türkischen Verfahrens drei Achtel des Nachlasses zustünden. Der Beklagte habe Konten des Vaters bei einer deutschen Bank verschwiegen, weswegen diese bei der Aufteilung des Vermögens nicht berücksichtigt worden seien. Vielmehr habe sich der Beklagte die gesamten Guthaben zugeeignet. Er sei nach Bereicherungs- und Schadenersatzrecht zur Herausgabe der Quote verpflichtet, wobei aus anwaltlicher Vorsicht nur ein Teil geltend gemacht werde. Da die Konten in Deutschland geführt worden seien, sei die EuGVVO (alt) anwendbar; die internationale Zuständigkeit der österreichischen Gerichte ergebe sich aus deren Art 2.
+[3] 		Der Beklagte wendet internationale Unzuständigkeit ein. In Wahrheit handle es sich um einen Streit über die Erbteilung, weswegen der Ausnahmetatbestand des Art 1 Abs 2 lit a EuGVVO (alt) erfüllt sei. Eine örtliche Zuständigkeit iSv § 27a JN liege nicht vor („§§ 106–108 AußStrG idF vor dem BGBl I Nr. 111/2003“). Der Verstorbene sei türkischer Staatsbürger mit Wohnsitz in der Türkei gewesen, er habe in Österreich kein Vermögen hinterlassen, die Klageführung in Deutschland oder der Türkei wäre möglich und zumutbar.
+[4] 		Das Erstgericht wies die Klage wegen internationaler Unzuständigkeit zurück.
+[5] 		Das Rekursgericht hob diesen Beschluss ersatzlos auf und trug dem Erstgericht die Fortsetzung des Verfahrens unter Abstandnahme vom gebrauchten Zurückweisungsgrund auf. Der Ausnahmetatbestand des Art 1 Abs 2 lit a EuGVVO (alt) sei nicht erfüllt, weil das Erbrecht nur als Vorfrage eines schuldrechtlichen Anspruchs zu beurteilen sei. Die Zuständigkeit der österreichischen Gerichte ergebe sich daher aus Art 2 EuGVVO (alt).
+[6] 		Den Revisionsrekurs ließ das Rekursgericht zu, weil Rechtsprechung zur Frage fehle, „ob ein auf Schadenersatz und/oder Bereicherungsrecht gestützter Anspruch eines nach ausländischem Recht eingeantworteten Erben gegen den anderen eingeantworteten Erben auf Ersatz eines die rechtskräftig festgelegte Erbquote übersteigend zugeeigneten Teils des Nachlassvermögens unter den Ausnahmetatbestand des Art 1 Abs 2 lit a EuGVVO (alt) bzw Art 1 Abs 2 lit f EuGVVO (neu) fällt“.
+[7] 		Der ausschließlich diese Frage aufgreifende Revisionsrekurs des Beklagten ist ungeachtet dieses den Obersten Gerichtshof nicht bindenden Ausspruchs  nicht zulässig.
+Rechtliche Beurteilung
+[8] 		1. Eine erhebliche Rechtsfrage iSd § 528 Abs 1 ZPO kann nur vorliegen, wenn die Entscheidung des konkreten Falls von deren Lösung abhängt; die Rechtsfrage muss daher präjudiziell sein (RS0088931). Fehlende Relevanz schließt das Vorliegen einer erheblichen Rechtsfrage aus (4 Ob 101/13a; 2 Ob 89/15z; 2 Ob 40/19z).
+[9] 		Letzteres trifft hier zu: Sollte die EuGVVO 2012 anwendbar sein (nur diese kommt nach ihrem Art 66 Abs 1 aus zeitlicher Sicht in Betracht), ergibt sich die Zuständigkeit der österreichischen Gerichte aus ihrem Art 4 Abs 1. Bei Unanwendbarkeit der EuGVVO 2012 wäre nationales Zuständigkeitsrecht anzuwenden. In diesem Fall folgte dasselbe Ergebnis aus § 27a iVm §§ 65 f JN.  Gründe, weshalb die auf Schadenersatz und Bereicherung gestützte Klage bei Unanwendbarkeit der EuGVVO 2012 nicht am allgemeinen Gerichtsstand des Beklagten erhoben werden könnte, zeigt der Revisionsrekurs nicht auf. Die EuErbVO kann der Klage schon deswegen nicht entgegenstehen, weil sie wegen des Todes des Erblassers im Jahr 2002 noch nicht anwendbar ist (Art 83 Abs 1 EuErbVO).
+[10] 		2. Damit kann offen bleiben, ob der geltend gemachte Anspruch unter den Ausnahmetatbestand des Art 1 Abs 2 lit f EuGVVO 2012 fällt. Denn die bloß theoretische Frage, ob die internationale Zuständigkeit bei Tod des Erblassers nach dem 16. August 2015 (Art 83 Abs 1 EuErbVO) nach der EuGVVO 2012 oder der EuErbVO zu beurteilen wäre, ist hier nicht zu beantworten. Ebenso bloß theoretische Bedeutung hat die Frage, ob die EuGVVO 2012 überhaupt anwendbar sein kann, wenn der Wohnsitz beider Parteien im Inland liegt. Der Revisionsrekurs ist daher mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückzuweisen. Ein Vorabentscheidungsersuchen ist weder erforderlich noch möglich, weil die Entscheidung nicht von der Auslegung des Unionsrechts abhängt.
+[11] 		3. Die Klägerin hat zwar die Unzulässigkeit des Revisionsrekurses eingewendet, nicht aber auf den wahren Zurückweisungsgrund hingewiesen. Damit war ihre  Rechtsmittelbeantwortung  nicht zur zweckentsprechenden Rechtsverfolgung erforderlich. Sie hat deren Kosten daher selbst zu tragen (RS0035962 [T6, T30], 5 Ob 15/19w).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00154.20S.0917.000

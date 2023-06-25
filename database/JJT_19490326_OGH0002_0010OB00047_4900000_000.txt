@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.03.1949
+Geschäftszahl
+1Ob47/49
+Norm
+ABGB §225;
+ABGB §270;
+Verordnung über die Behandlung feindlichen Vermögens vom 15. Jänner
+1940, DRGBl. I S. 191 §12;
+Verordnung über die Behandlung feindlichen Vermögens vom 15. Jänner
+1940, DRGBl. I S. 191 §14;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §17;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §50;
+Verwaltergesetz 1946 §5;
+Verwaltergesetz 1946 §6;
+Verwaltergesetz 1946 §7;
+ZPO §6;
+ZPO §503 Z. 4;
+Kopf
+SZ 22/39
+Spruch
+§§ 5, 6 Verwaltergesetz vom 26. Juli 1946, BGBl. Nr. 157. Der öffentliche Verwalter ist der gesetzliche Vertreter desjenigen, dem das Unternehmen, die Vermögenschaft oder das Vermögensrecht gehört, und hat daher in dessen Namen zu klagen und geklagt zu werden.
+Entscheidung vom 26. März 1949, 1 Ob 47/49.
+I. Instanz: Bezirksgericht Innsbruck; II. Instanz: Landesgericht Innsbruck.
+Text
+Die Republik Österreich (Österreichische Bundesbahnen) hat als öffentliche Verwalterin namens der Gemeinnützigen Baugesellschaft X m. b. H. den Beklagten die von ihnen gemietete Wohnung aufgekundigt. Die Beklagten haben in ihren dagegen erhobenen Einwendungen unter anderem den Mangel der Aktivlegitimation der klagenden Partei mit der Begründung behauptet, daß der öffentliche Verwalter nach den Bestimmungen des Bundesgesetzes vom 26. Juli 1946, BGBl. Nr. 157, nur im eigenen Namen kundigen könnte.
+Das Erstgericht erklärte in seinem Urteil vom 29. November 1947 die Aufkündigung für wirksam und hielt unter anderem die Aktivlegitimation der klagenden Partei deshalb für gegeben, weil alle Ansprüche, die sich aus der öffentlichen Verwaltung ergeben oder auf das verwaltete Vermögen beziehen, gegen die verwaltete Masse, vertreten durch den öffentlichen Verwalter, geltend zu machen seien.
+Das Berufungsgericht gab der Berufung der Beklagten Folge und erklärte in Abänderung des erstgerichtlichen Urteils die Kündigung wegen der mangelnden Aktivlegitimation der klagenden Partei mit der Begründung für unwirksam, der öffentliche Verwalter sei weder Vertreter der klagenden Gesellschaft m. b. H., noch des Gesamtkomplexes der klägerischen Vermögensrechte, sondern nur berechtigt und verpflichtet, das im Bestellungsdekret näher bezeichnete Vermögen als solches zu vertreten; daher könne nicht die klägerische Gesellschaft m. b. H., vertreten durch den Verwalter, sondern ähnlich wie im Konkurs nur die der Verwaltung unterworfene Vermögensmasse, vertreten durch den öffentlichen Verwalter, in dem das verwaltete Vermögen betreffenden Rechtsstreite aktiv auftreten.
+Der Oberste Gerichtshof gab der Revision Folge, hob das zweitinstanzliche Urteil auf und wies die Rechtssache zur neuerlichen Entscheidung an das Berufungsgericht zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Handelt es sich um eine protokollierte Firma, so hat der öffentliche Verwalter das Unternehmen unter Verwendung des zugehörigen Firmennamens zu führen (vgl. Heller - Rauscher - Baumann, "Kommentar zum Verwaltergesetz usw.", II. Aufl., S. 60). Da gemäß § 17 HGB. unter der Firma geklagt werden kann, ist aus dem Gebrauch der Firma im Rechtsstreit gar nicht zu entnehmen, ob damit überhaupt die physische oder juristische Person, der das Unternehmen gehört, gemeint ist. Hievon abgesehen besagen die §§ 5 Abs. 1 und 6 Abs. 1 des Bundesgesetzes vom 26. Juli 1946. BGBl. Nr. 157, nur, daß mit der Bestellung des Verwalters die bisherigen Verfügungsberechtigten dispositionsunfähig werden, daß der öffentliche Verwalter deren Befugnisse ausübt und daß er das Unternehmen nach außen vertritt. Bei Verlust der Dispositionsfähigkeit über ein Unternehmen, über Vermögenschaften oder Vermögensrechte bedarf es eben eines Vertreters, der die dem Eigentümer oder sonstigen Berechtigten entzogene Verfügungsbefugnis in dessen Namen und mit Wirkung für und gegen ihn ausübt (vgl. Pollak, "Zivilprozeßrecht", 2. Aufl., S. 117). Dies ist beim Gemeinschuldner der Fall, der von dem, wenn auch im Interesse der Konkursgläubiger handelnden Masseverwalter vertreten wird, aber auch beim Zwangsverwalter, der den Verpflichteten hinsichtlich der zwangsverwalteten Liegenschaft vertritt (vgl. Pollak, a. a. O., S. 119 f., 945; Bartsch, "Grundriß des Ausgleichs- und Konkursrechtes", S. 43 f.; Ehrenzweig, "System des österreichischen allgemeinen Privatrechts", I/1, S. 169). Ebenso wie diese ist der öffentliche Verwalter der gesetzliche Vertreter des Eigentümers oder des sonstigen bisherigen Verfügungsberechtigten, allerdings beschränkt auf das Unternehmen, die Vermögenschaften oder Vermögensrechte, für die er bestellt worden ist. Seine Stellung ist ähnlich jener des zur Verwaltung eines bestimmten Vermögens bestellten Kurators, wie z. B. in dem nicht mehr praktischen Falle der §§ 225, 270 ABGB., erster Fall. Sein Wirkungskreis ähnelt auch jenem des Filialprokuristen nach § 50 HGB. Daraus, daß § 6 Abs. 1 Verwaltergesetz besagt, der öffentliche Verwalter vertrete das Unternehmen nach außen, kann noch nicht geschlossen werden, daß das Unternehmen mit der Bestellung des Verwalters selbst rechtsfähig geworden sei. Dies wäre schon deshalb nicht möglich, weil ja die Bestellung eines öffentlichen Verwalters am Bestande des Eigentumsrechtes nichts ändert und nur das Ruhen der bisherigen Verfügungsrechte bewirkt. § 6 Abs. 1 Verwaltergesetz meint ebenso wie § 5 Abs. 3 nicht das Unternehmen im eigentlichen Sinne, sondern den Unternehmer in Ansehung des Unternehmens, mag er eine physische Person oder eine Gesellschaft des Handelsrechtes sein. Die Verordnung über die Behandlung feindlichen Vermögens vom 15. Jänner 1940, DRGBl. I S. 191, die wegen der den §§ 5 und 7 Verwaltergesetz ähnlichen Regelung in ihrem § 14 offenbar dem ersten Verwaltergesetz und damit auch dem nunmehr geltenden Verwaltergesetz als Vorbild gedient haben dürfte, spricht übrigens im § 12 Abs. 1 ausdrücklich aus, daß unter Unternehmen auch juristische Personen des Privatrechtes und Personenvereinigungen zu verstehen sind.
+Demnach ist der öffentliche Verwalter gesetzlicher Vertreter des bisherigen Verfügungsberechtigten, sei dieser eine physische oder juristische Person, in Ansehung des Unternehmens, der Vermögenschaften oder Vermögensrechte, für die er bestellt ist und hat daher in deren Namen zu handeln (vgl. die Entscheidung des Obersten Gerichtshofes von 19. Oktober 1946, 1 Ob 255/46, JBl. 1947, S. 40).
+Daraus, daß im vorliegenden Fall als klagende Partei "Gemeinnützige Baugesellschaft X m. b. H., vertreten durch den öffentlichen Verwalter" angegeben ist, kann demnach nicht, wie es das Berufungsgericht tut, der Mangel der Aktivlegitimation abgeleitet werden. Daher ist der Revisionsgrund des § 503 Z. 4 ZPO. gegeben.
+Da das Berufungsgericht bloß wegen Bezeichnung der klagenden Partei mit dem Firmennamen der Gesellschaft m. b. H. die Aktivlegitimation verneint und zur Frage der Berechtigung der Aufkündigung überhaupt nicht Stellung genommen hat, ist der Oberste Gerichtshof nicht in der Lage, in der Sache selbst zu entscheiden. Es mußte daher der Revision Folge gegeben, das angefochtene Urteil aufgehoben und die Rechtssache zur neuerlichen Entscheidung an das Berufungsgericht zurückverwiesen werden.

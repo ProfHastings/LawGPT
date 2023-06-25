@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2017
+Geschäftszahl
+10ObS37/17i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, den Hofrat Dr. Schramm und die Hofrätin Dr. Grohmann sowie die fachkundigen Laienrichter Dr. Christoph Wiesinger (aus dem Kreis der Arbeitgeber) und Mag. Hannes Schneller (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei J***** F*****, vertreten durch Dr. Herwig Ernst, Rechtsanwalt in Korneuburg, gegen die beklagte Partei Niederösterreichische Gebietskrankenkasse, 3100 St. Pölten, Kremser Landstraße 3, vertreten durch Urbanek Lind Schmied Reisch Rechtsanwälte OG in St. Pölten, wegen Kostenübernahme, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 30. Jänner 2017, GZ 8 Rs 74/16k-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Nach der Rechtsprechung des Obersten Gerichtshofs gelten Batterien für Hörgeräte als Betriebsmittel, für die von den Krankenversicherungsträgern keine Kosten zu übernehmen sind (10 ObS 236/99z, SZ 73/92 = SSV-NF 14/60; RIS-Justiz RS0113664).
+2. Der Kläger rechtfertigt sein – von den Vorinstanzen abgewiesenes – Begehren auf Übernahme der Kosten des Quartalsbedarfs an Batterien für sein beidseitiges Cochlea-Implantat mit dem Unterschied traditioneller Hörgeräte zu derartigen Implantaten, die bei bereits tauben Patienten einsetzbar seien und deren Stromversorgung einen untrennbaren Teil des Gesamtsystems darstelle.
+Eine erhebliche Rechtsfrage zeigt er damit nicht auf.
+3. Ein Cochlea-Implantat ist nach den Feststellungen der Vorinstanzen ein implantierbares Hörsystem, das stark hörbehinderten oder tauben Patienten wieder ein gutes Hörvermögen bzw ein Sprachverständnis ermöglicht. Es besteht aus zwei Teilen: Einem implantierbaren Empfängerteil, das in den Knochen im Ohr eingesetzt und von dem ein Elektrodenkabel in die Schnecke eingeführt wird. Dieser Teil selbst besitzt keine eigene Stromversorgung. Die Übertragung der Signale erfolgt elektromagnetisch durch Kopfhaut und Schläfenbeinknochen ausgehend von der außen liegenden Senderspule, die den zweiten Teil des Implantats bildet. Diese Spule haftet magnetisch an der Außenseite des Kopfes über der Empfängerspule. Sie wird von einem daran angeschlossenen Hörprozessor bedient, der naturgemäß nur funktioniert, wenn er mit Energie versorgt wird. Das erfolgt über austauschbare Batterien. Die Stromversorgung des Implantats stellt einen untrennbaren Teil der Gesamteinheit dar, der für die Funktion des Systems erforderlich ist.
+4. Diese Tatsache des notwendigen Zusammenspiels zwischen Implantat, außenseitig haftender Senderspule und Stromversorgung ist ohne Bedeutung, weil auch ein traditionelles, wie die Senderspule außen liegendes Hörgerät nur mit Batterien funktioniert. Dass dieses im Vergleich zu Hörgeräten wesentlich teurere Hörsystem auch bei Patienten ohne Resthörvermögen eingesetzt werden kann, zwingt nicht zur Annahme einer Verpflichtung des Krankenversicherungsträgers, zusätzlich zu den Operations-
+und Materialkosten auch noch den Aufwand für Batterien zu übernehmen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:010OBS00037.17I.0425.000

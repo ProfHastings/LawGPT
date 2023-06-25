@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.02.2013
+Geschäftszahl
+6Ob25/13i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden und gefährdeten Partei Mag. (FH) C***** S*****, vertreten durch Dr. Josef Pfurtscheller und andere Rechtsanwälte in Innsbruck, gegen die beklagte Partei und Gegner der gefährdeten Partei Prof. Dr. K***** S*****, vertreten durch Mag. Dr. Hansjörg Pichler, Rechtsanwalt in Innsbruck, wegen Unterlassung (Streitwert im Provisorialverfahren 36.000 EUR), über den Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Innsbruck als Rekursgericht vom 14. Dezember 2012, GZ 1 R 236/12h-16, mit dem der Beschluss des Landesgerichts Innsbruck vom 6. November 2012, GZ 17 Cg 204/11h-11, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Der Beklagte ist schuldig, dem Kläger die mit 1.959,48 EUR (darin 326,58 EUR Umsatzsteuer) bestimmten Kosten der Revisionsrekursbeantwortung binnen 14  Tagen zu ersetzen.
+B e g r ü n d u n g :
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§§ 402, 78 EO, § 526 Abs 2 ZPO) - Ausspruch des Rekursgerichts ist der ordentliche Revisionsrekurs nicht zulässig:
+1. Das Rekursgericht hat seinen Zulässigkeitsausspruch damit begründet, es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, ob ein einer Person (hier: Krankenhausarzt) zurechenbares Verwenden von Daten (Verarbeiten und Übermitteln) im Sinn des Datenschutzgesetzes 2000 gegeben ist, wenn diese Person bei Verlassen ihres Zimmers (im Krankenhaus) den PC ungesichert eingeschaltet lässt und damit einer anderen Person ein Abrufen von Daten (hier: Krankenakte des Klägers) ermöglicht. Auf diese Rechtsfrage kommt der Beklagte in seinem Revisionsrekurs jedoch nicht konkret zurück.
+2. Vielmehr argumentiert der Beklagte dahin, er habe sich weder widerrechtlich Zugang zur Krankenakte des Klägers verschafft noch „irgendeine Beihilfe dazu geleistet, dass sich die Ehegattin des Klägers widerrechtlich Zugang zu dieser Krankenakte verschaffen habe können“. Er bestreitet somit seine Passivlegitimation.
+In diesem Zusammenhang ist allerdings auf die erst jüngst ergangene Entscheidung 6 Ob 126/12s (MuR 2012, 328) zu verweisen. Dort hat der erkennende Senat in einem durchaus vergleichbaren Fall klargestellt, dass auch vom bloß mittelbaren Störer Unterlassung und nicht bloß Einwirkung auf den unmittelbaren Störer begehrt werden kann; mittelbarer Störer ist dabei derjenige, der die tatsächliche und rechtliche Möglichkeit hat, die auf ihn zurückgehende, aber unmittelbar vom Dritten vorgenommene Störhandlung zu steuern und gegebenfalls auch zu verhindern. Im vorliegenden Fall ging die Handlung der Ehegattin des Klägers insofern auf den Beklagten zurück, als dieser seinen PC einschaltete, den Password-gesicherten Zugang zu den Krankenakten öffnete und dann das Zimmer verließ, in welchem sich noch die Ehegattin des Klägers aufhielt, die der Beklagte dort allein ließ. Der Beklagte hätte somit die Handlung der Ehegattin des Klägers verhindern können, weshalb an seiner Passivlegitimation kein Zweifel besteht.
+3. Die Frage, ob im Einzelfall Wiederholungsgefahr gegeben ist, übersteigt in ihrer Bedeutung das konkrete Verfahren nicht.
+4. Damit war der Revisionsrekurs zurückzuweisen.
+Die Entscheidung über die Kosten des Revisionsrekursverfahrens gründet sich auf §§ 41, 50 ZPO. Der Kläger hat in der Revisionsrekursbeantwortung auf die Unzulässigkeit des Revisionsrekurses hingewiesen. Der Schriftsatz ist daher als zur zweckentsprechenden Rechtsverteidigung notwendig anzusehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0060OB00025.13I.0227.000

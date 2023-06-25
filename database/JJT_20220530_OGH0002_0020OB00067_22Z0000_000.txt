@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2022
+Geschäftszahl
+2Ob67/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende, den Senatspräsidenten Dr. Musger sowie die Hofräte Dr. Nowotny, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei Ö*, vertreten durch Mag. Ferdinand Kalchschmid, Rechtsanwalt in Innsbruck, wider die beklagte Partei L*, vertreten durch Mag. Christof Heel, Rechtsanwalt in Innsbruck, sowie die Nebenintervenienten auf Seiten der beklagten Partei 1. F*, vertreten durch Altenweisl Wallnöver Watschinger Zimmermann Rechtsanwälte GmbH in Innsbruck und 2. M*, vertreten durch Dr. Gernot Gasser und Dr. Sonja Schneeberger, Rechtsanwälte in Lienz, wegen 68.139,93 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 24. Februar 2022, GZ 2 R 150/21g-77, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Vorinstanzen wiesen das auf die Verletzung von Verkehrssicherungspflichten gestützte Klagebegehren aufgrund deren Übertragung auf den Erstnebenintervenienten als selbständigen Unternehmer ab. Ein Auswahl- oder Überwachungsverschulden sei nicht erkennbar. Aus dem zwischen der Klägerin und der V* (GmbH) abgeschlossenen Beförderungsvertrag lasse sich keine Haftung der beklagten Alleingesellschafterin ableiten.
+[2] 		Mit ihrer außerordentlichen Revision zeigt die Klägerin keine Rechtsfrage in der Qualität des § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+[3] 		1. Werden die Aufgaben des Wegehalters durch jemanden besorgt, der wie ein selbständiger Unternehmer einen eigenen Organisations- und Verantwortungsbereich begründet, so gehört er nicht mehr zu den Leuten des Wegehalters. In einem solchen Fall trifft nicht der Wegehalter die an sich in seinen Verantwortungsbereich fallenden Maßnahmen (RS0029995). Im Falle der Übertragung der aus § 1319a ABGB resultierenden Pflichten an einen selbständigen Unternehmer haftet der Verkehrssicherungspflichtige nur noch für ein eigenes, ihm zurechenbares Auswahl- oder Überwachungsverschulden (RS0124737; RS0029995 [T4]).
+[4] 		Diese Rechtsprechung zieht die Klägerin nicht in Zweifel, sondern wendet sich im Ergebnis lediglich gegen die Feststellung des Erstgerichts, der Erstnebenintervenient sei als selbständiger Unternehmer mit der winterdienstlichen Räumung und Streuung der Unfallstelle beauftragt gewesen. Entgegen der Ansicht der Revision haben die Vorinstanzen nicht bestimmte äußere Umstände rechtlich als konkludenten Vertragsabschluss gewertet, sondern sind von einer ausdrücklichen Auftragserteilung ausgegangen.
+[5] 		2. Bei der GmbH handelt es sich um ein von den Gesellschaftern verschiedenes Rechtssubjekt (RS0035042), dies gilt auch für Einpersonengesellschaften (vgl RS0022657; vgl RS0059840). Allfällige vertragliche Verkehrssicherungspflichten der GmbH gegenüber der Klägerin aus dem Beförderungsvertrag treffen daher nicht ihre beklagte Alleingesellschafterin. Tatsachenvorbringen, das ausnahmsweise einen Haftungsdurchgriff, also eine Zusatzhaftung des Gesellschafters für Schulden der Gesellschaft (RS0009107), rechtfertigen könnte (zB: qualifizierte Unterkapitalisierung oder faktische Geschäftsführung: vgl 6 Ob 2/15k mwN), wurde nicht erstattet.
+[6] 		Der Hinweis der Klägerin auf einen Vertrag mit Schutzwirkung zu Gunsten Dritter geht bereits deshalb fehl, weil sie einerseits ohnehin selbst Vertragspartnerin der GmbH ist und sie andererseits auch nicht darlegt, welche Vertragsgrundlage zwischen der beklagten Gesellschafterin und der GmbH Schutzwirkungen zu ihren Gunsten entfalten sollte.
+[7] 		Die eine Haftung der Beklagten als Gesellschafterin der GmbH aus dem zwischen der Klägerin und der GmbH abgeschlossenen Beförderungsvertrag ablehnenden Entscheidungen der Vorinstanzen halten sich daher im Rahmen der Rechtsprechung des Obersten Gerichtshofs.
+[8] 		3. Die behauptete Aktenwidrigkeit liegt nicht vor (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00067.22Z.0530.000

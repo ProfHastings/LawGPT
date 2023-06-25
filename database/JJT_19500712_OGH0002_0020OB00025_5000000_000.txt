@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.07.1950
+Geschäftszahl
+2Ob25/50
+Norm
+ABGB §372;
+ABGB §373;
+ABGB §374;
+ABGB §480;
+ABGB §523;
+ABGB §1500;
+ZPO §232;
+ZPO §233;
+ZPO §240;
+ZPO §519;
+ZPO §530;
+Kopf
+SZ 23/225
+Spruch
+Actio negatoria und actio confessoria begrunden gegenseitig nicht Streitanhängigkeit.
+Auch dem nicht verbücherten Servitutsberechtigten steht die publizianische Klage nach §§ 372 ff. ABGB. zu Gebote, wenn er seinen redlichen, rechtmäßigen und echten Besitz nachzuweisen in der Lage ist.
+Eine vertragliche, nicht verbücherte Dienstbarkeit ist gegenüber dem Rechtsnachfolger des Bestellers wirksam, wenn dieser von der Servitut Kenntnis hatte.
+Entscheidung vom 12. Juli 1950, 2 Ob 25/50.
+I. Instanz: Bezirksgericht Rosegg; II. Instanz: Landesgericht Klagenfurt.
+Text
+Die Klägerin hatte beim Bezirksgericht Rosegg Klage auf Feststellung eingebracht, daß die Beklagten kein Fahrrecht über die Liegenschaft der Klägerin haben; ferner begehrte sie die Untersagung des weiteren Fahrens der Beklagten über diese Liegenschaft. Anderseits hatten die Beklagten bei demselben Bezirksgericht die Klage auf Anerkennung und Duldung ihres Fahrrechtes anhängig gemacht.
+Das Erstgericht hatte die Klage der Liegenschaftseigentümerin auf Servitutsfreiheit abgewiesen, der Klage der Servitutsansprecher aber stattgegeben.
+Das Berufungsgericht hat der Berufung der Klägerin nicht Folge gegeben.
+Der Oberste Gerichtshof hat die wegen Nichtigkeit des Verfahrens erhobene Revision der Klägerin mit Beschluß verworfen, im übrigen der Revision mit Urteil nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ficht das Berufungsurteil als nichtig an, weil das Berufungsgericht auch über die von den Revisionsgegnern erhobene Klage sachlich entschieden hat, ohne gemäß § 240 Abs. 3 ZPO. zu berücksichtigen, daß wegen des nämlichen Anspruches zwischen den gleichen Parteien der Streit beim Bezirksgericht anhängig sei. Die Revisionswerberin hat die Einrede der Streitanhängigkeit erst im Berufungsverfahren erhoben, u. zw. hat sie die behauptete Streitanhängigkeit mit Nichtigkeitsberufung geltend gemacht, welche Nichtigkeitsberufung vom Berufungsgericht mit Beschluß verworfen wurde. Gegen diesen Beschluß steht gemäß § 519 ZPO. kein Rekursrecht zu. Da aber die Streitanhängigkeit jederzeit, also auch in dritter Instanz von Amts wegen zu berücksichtigen ist, muß die wegen Nichtigkeit aus diesem Gründe erhobene Revision in Behandlung gezogen werden.
+Richtig ist, daß zur Zeit der Einbringung der vorliegenden Klage die Klage der Revisionsgegner schon zugestellt, demnach die Streitanhängigkeit schon begrundet war.
+Der Oberste Gerichtshof hat in seiner Entscheidung vom 4. Oktober 1927, SZ. IX/243, ausgesprochen, daß der Servitutsberechtigte, auch wenn gegen ihn die Negatoria bereits erhoben wurde, die Confessoria erheben kann, ohne daß ihm die Einwendung der Streitanhängigkeit entgegengesetzt werden könnte. Dagegen hat der Oberste Gerichtshof in seiner Entscheidung vom 2. Oktober 1929, JBl. 1930, S. 151, ausgesprochen, daß der Anspruch auf Unterlassung in der Negatoria und auf Duldung in der Confessoria ident sind und die Tatsache, daß es bei gleichzeitiger Durchführung der beiden Rechtsstreite zu widersprechenden Entscheidungen kommen kann, genügt, die prozeßhindernde Streitanhängigkeit anzunehmen.
+Die Streitanhängigkeit ist als im Entstehen begriffene Rechtskraft anzusehen. Nun ergibt sich, daß eine rechtskräftig entschiedene erfolgreiche Negatoria oder Confessoria die Einbringung der entgegengesetzten Klage ausschließt, während bei Scheitern der Negatoria oder Confessoria dies nicht der Fall ist. Es kann nicht beiden Klagen rechtskräftig stattgegeben werden; wird aber die eine abgewiesen, so ist die andere weder unstatthaft noch überflüssig. Wird die Negatoria abgewiesen, kann der Servitutsberechtigte auf Grund dieser Abweisung allein seinen Anspruch auf Duldung nicht erzwingen, dazu muß er sich durch die Confessoria einen Titel verschaffen. Wird umgekehrt die Confessoria abgewiesen, kann der damit belangte Eigentümer auf Grund dieser Abweisung allein seinen Unterlassungsanspruch nicht exekutiv durchsetzen dazu muß er sich durch die Negatoria einen Titel verschaffen. Vor der rechtskräftigen Entscheidung einer der beiden Klagen, solange unsicher ist, wie diese ausfällt, kann dem Gegenkläger der Rechtsschutz wegen Streitanhängigkeit nicht verweigert werden, den er während des Verfahrens über die erste Klage oft dringend benötigen wird und den er, wie gezeigt, durch die Abweisung der ersten Klage nie erhalten kann. Prozeßhindernde Streitanhängigkeit setzt nach § 233 Abs. 1 ZPO. Nämlichkeit des Anspruches voraus. Der Anspruch der Negatoria ist mit dem Anspruch der Confessoria nun nicht ident, sondern entgegengesetzt, beide Ansprüche können zwar nicht gleichzeitig bestehen, die Abweisung des einen schafft aber noch keinen Exekutionstitel für den anderen. Wird einer der beiden Ansprüche rechtskräftig bejaht, steht der Fortsetzung des anderen Verfahrens sofort die Rechtskraft eines die Streitsache betreffenden Urteiles entgegen, die gemäß § 240 Abs. 3 ZPO. jederzeit von Amts wegen zu berücksichtigen ist, nach Schluß des anderen Verfahrens ist der Wiederaufnahmegrund des § 530 Abs. 1 Z. 6 ZPO. gegeben. Es ist dies ein Fall, in dem, obzwar die Streitanhängigkeit eine im Entstehen begriffene Rechtskraft ist, die prozeßhindernde Rechtskraft entsteht, ohne daß ihr eine prozeßhindernde Streitanhängigkeit vorangegangen wäre.
+Es konnte daher auch im gegenständlichen Verfahren eine Prozeßhindernde Streitanhängigkeit nicht angenommen werden.
+Wenn die Revision unter dem Gesichtswinkel der unrichtigen rechtlichen Sachbeurteilung ein Klagerecht des im Grundbuche nicht eingetragenen Servitutsberechtigten bestreitet, kann ihr gleichfalls nicht gefolgt werden. Auch der nichtverbücherte Servitutsberechtigte hat die publizianische Klage nach §§ 372 bis 374 ABGB., wenn er seinen redlichen, rechtmäßigen und echten Besitz nachzuweisen in der Lage ist (Klang, Kommentar, 2. Aufl., zu § 523 ABGB.). Eine vertragliche, nichteinverleibte Dienstbarkeit ist sogar gegenüber dem Rechtsnachfolger des Bestellers wirksam, wenn er von der Servitut Kenntnis hatte (Klang, a. a. O., zu § 480 ABGB.); wieviel mehr arg. a min. erst gegenüber dem Besteller selbst. Hat der Berechtigte den Besitz der Dienstbarkeit erlangt, kann er sich der Negatoria des Eigentümers gegenüber mit der Einrede aus dem Rechte zum Besitze schützen. Setzt der Eigentümer der publizianischen Confessoria des Berechtigten die Einrede des bücherlichen lastenfreien Eigentumes entgegen, hat der Berechtigte die replicatio, daß die Servitut vertragsmäßig bestellt worden sei und er den Besitz daran erlangt habe. Der Unterschied gegenüber dem im Grundbuch eingetragenen Servitutsberechtigten besteht im Verhältnis zum Servitutsbesteller nur darin, daß der außerbücherliche Servitutsberechtigte keine Möglichkeit zu einer bücherlichen Verfügung hat und seine Stellung durch bücherliche Verfügungen des Eigentümers gegenüber einem gutgläubigen Dritten gefährdet werden kann (Klang, a. a. O., zu § 431 ABGB., S. 357).

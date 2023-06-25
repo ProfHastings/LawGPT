@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.06.1967
+Geschäftszahl
+2Ob172/67
+Norm
+Eisenbahn- und Kraftfahrzeughaftpflichtgesetz §1;
+Kopf
+SZ 40/80
+Spruch
+Ein stehendes Kraftfahrzeug ist auch dann in Betrieb, wenn der auf ihm montierte Hebekranmechanismus durch Umkupplung vom Motor betrieben wird.
+Entscheidung vom 13. Juni 1967, 2 Ob 172/67.
+I. Instanz: Bezirksgericht Oberpullendorf; II. Instanz:
+Landesgericht Eisenstadt.
+Text
+Der Beklagte schuldet der Klägerin den klagsweise geltend gemachten Betrag für die Lieferung von 18 Kubikmeter Sand. Er wendet gegen diese Forderung aufrechnungsweise Gegenforderungen von zusammen 11.000 S ein und bringt hiezu vor:
+Der Gatte der Klägerin habe am 16. Juni 1966 in B. auf einen der Klägerin gehörigen LKW mittels eines Ladegerätes (Kranes) Baumstämme verladen. Der Beklagte, dessen Aufgabe es gewesen sei, die durch den Kran hochgehobenen Stämme auf der Ladefläche zu schlichten, sei infolge unsachgemäßer Handhabung des Kranes durch den Gatten der Klägerin vom LKW geschleudert und dabei verletzt worden. Durch die Verletzungsfolgen habe er einen Verdienstentgang in Höhe von 5000 S erlitten; auch beanspruche er ein Schmerzengeld von 6000 S. Die Klägerin hafte für das Verschulden ihres Gatten.
+Die Haltereigenschaft der Klägerin wurde außer Streit gestellt, doch wendete diese ein, daß der LKW im Unfallszeitpunkt nicht in Betrieb gewesen sei und daß der Beklagte den Unfall allein verschuldet habe.
+Das Erstgericht wies die Klage auf Grund der ersterwähnten Einwendung ab, weil unter "Betrieb" nur die bestimmungsgemäße Verwendung des Kraftfahrzeuges als Fahrmittel, also zur Ortsveränderung unter Benutzung seiner Maschinenkraft zu verstehen sei und kein Betriebsunfall vorliege, wenn beim Abladen von Waren von einem stehenden Kraftfahrzeug Schaden verursacht werde.
+Das Berufungsgericht hob das Ersturteil mit Rechtskraftvorbehalt auf. Die der älteren Rechtsprechung und Lehre folgende Rechtsansicht des Erstgerichtes sei überholt. Nach der durch die neuere Rechtsprechung bedingten extensiven Auslegung des Begriffes "beim Betrieb" in § 1 EKHG. sei auch ein LKW, dessen Motorkraft einen Hebekranmechanismus betreibe, als "in Betrieb" im Sinn dieser Bestimmung anzusehen. Das Aufladen der Baumstämme auf den LKW mit Hilfe des vom Motor betriebenen Kranes stelle einen Betriebsvorgang dar, mit dem der behauptete Unfall des Beklagten in örtlichem, sachlichem und ursächlichem Zusammenhang stehe. Mangels Feststellungen über die Höhe der Gegenforderung über ein allfälliges Mitverschulden des Beklagten sei die Sache nicht spruchreif.
+Der Oberste Gerichtshof gab dem Rekurs der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Klägerin meint, daß die Gefährdungshaftung nach dem Kraftfahrzeughaftpflichtgesetz nur dann in Betracht komme, wenn ein Kraftfahrzeug als Transportmittel eingesetzt und dadurch die an sich jeder Maschine innewohnende Gefahr durch Eigenbewegung mit einem unbestimmt großen Personenkreis "in Berührung kommen könne". Werde hingegen die motorische Kraft durch Umkupplung auf den Kranmechanismus von den - eingebremsten - Rädern des Fahrzeuges ferngehalten, dann könne wohl noch von einer Maschine, jedoch nicht mehr von einem Fahrzeug gesprochen werden. Die Gefährdungshaftung stelle einen Ausnahmefall dar, die weite Gesetzesauslegung durch das Berufungsgericht sei durch die bestehende Rechtsordnung nicht gedeckt.
+Der Oberste Gerichtshof vermag sich diesen Argumenten nicht anzuschließen.
+Grundlage der verschärften Haftung nach dem Eisenbahn- und Kraftfahrzeughaftpflichtgesetz bildet der einzelne Betriebsvorgang des einzelnen Kraftfahrzeuges. In Betrieb ist jedes Kraftfahrzeug, sobald sein Motor als Kraftquelle der Bewegung in Gang gebracht ist. Es kann nicht entscheidend sein, welcher Art diese Bewegung ist. Insbesondere ist es nicht erforderlich, daß der Motor zum Zweck der Fortbewegung von Ort zu Ort in Gang gesetzt wurde. So ist beispielsweise auch ein Kraftfahrzeug in Betrieb, dessen Motor zum Schmieren des Getriebes läuft. Ist aber das Kraftfahrzeug nach seiner Bauart und seiner Bestimmung in einer solchen Weise eingerichtet, daß es mit Hilfe seiner motorischen Kraft außer der reinen Fortbewegung auch andere Funktionen erfüllen kann, dann stellen alle diese Funktionen eine Betriebseinheit dar. Es würde geradezu dem Sinn des Gesetzes widersprechen, wollte man Kraftfahrzeuge, die kraft ihres motorischen Antriebes und ihrer speziellen Einrichtung auch andere Arbeitsvorgänge leisten können, von der verschärften Haftung ausnehmen. Denn gerade von derartigen Kraftfahrzeugen wird nicht selten eine erhöhte Gefahr für den übrigen Verkehr ausgehen. Der Schutz vor der Summe der Gefahren, die der Betrieb des betreffenden Fahrzeuges durch seine Eigenheiten unter den gegebenen Umständen für die beteiligten Personen oder Güter mit sich bringt, ist aber der Zweck des Eisenbahn- und Kraftfahrzeughaftpflichtgesetzes.
+Die Rekursausführungen sind somit nicht geeignet, die zutreffende Rechtsansicht des Berufungsgerichtes zu widerlegen.

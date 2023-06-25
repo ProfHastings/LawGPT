@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2017
+Geschäftszahl
+6Ob64/17f
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei T***** GmbH, *****, vertreten durch Mag. Gernot Götz, Rechtsanwalt in Spittal an der Drau, wider die beklagte Partei F***** GmbH & Co KG, *****, vertreten durch Dr. Peter Lindinger und Dr. Andreas Pramer, Rechtsanwälte in Linz, wegen 34.846,84 EUR sA und Feststellung (Revisionsinteresse 18.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 17. Jänner 2017, GZ 6 R 180/16g-160, womit das Urteil des Landesgerichts Wels vom 22. Juli 2016, GZ 2 Cg 41/12z-156, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.253,88 EUR (darin enthalten 208,98 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu bezahlen.
+Begründung:
+Rechtliche Beurteilung
+Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs 1 ZPO) kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 Satz 4 ZPO).
+Das Berufungsgericht hat die Revision zugelassen, weil zur Frage der Aktivlegitimation eines Leasingnehmers hinsichtlich merkantiler Wertminderung (zu ergänzen: bei Schädigung des Leasingobjekts durch einen Dritten) bei vertraglich vereinbartem Veräußerungsverbot des Leasingobjekts durch den Leasingnehmer keine oberstgerichtliche Rechtsprechung existiere.
+Die aufgeworfene Rechtsfrage ist nicht erheblich: Ob bei einem Leasingvertrag der Leasingnehmer (hier die Klägerin) oder der Leasinggeber eine merkantile Wertminderung bei Beschädigung des Leasingobjekts durch einen Dritten (hier die Beklagte) von diesem verlangen kann, richtet sich nach den zwischen den Vertragspartnern des Leasingvertrags getroffenen Vereinbarungen, sofern solche existieren. Es geht also um Vertragsauslegung im Einzelfall, der außer bei auffallender Fehlbeurteilung des Berufungsgerichts keine über den Einzelfall hinausgehende Bedeutung zukommt (RIS-Justiz RS0112106 [T1] ua). Daran ändert auch nichts, dass hier Allgemeine Geschäftsbedingungen zu beurteilen sind, weil der Oberste Gerichtshof auch zur Auslegung von AGB-Klauseln nicht „jedenfalls“, sondern nur dann berufen ist, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Dass es sich hier um Allgemeine Geschäftsbedingungen bestimmter Geschäftsbranchen handelt, die regelmäßig für eine größere Anzahl von Kunden und damit Verbrauchern bestimmt und von Bedeutung sind, haben die Parteien nicht behauptet. Überdies liegt hier kein Verbrauchergeschäft vor.
+Im Leasingvertrag zwischen der Klägerin als Leasingnehmerin und der nicht im Verfahren beteiligten Leasinggeberin finden sich ua folgende Bestimmungen:
+„9. Gewährleistung und Haftung:
+9.1 Der Leasinggeber haftet nicht und leistet nicht Gewähr für einen bestimmten Umfang, eine bestimmte Eigenschaft oder Eignung des Leasingobjektes, insbesondere nicht für den vom Leasingnehmer beabsichtigten Verwendungszweck und für den Eintritt eines bestimmten vom Leasingnehmer beabsichtigten steuerlichen Effektes. Stattdessen tritt der Leasinggeber dem Leasingnehmer sämtliche Gewährleistungs-, Erfüllungs- und Schadenersatzansprüche wegen Mangelhaftigkeit des gelieferten Leasingobjektes gegen den Lieferanten, Hersteller, Spediteur oder Frächter ab, ausgenommen Rechtsmängel. Der Leasingnehmer nimmt diese Abtretung an und verpflichtet sich, die daraus erwachsenden Rechte gegenüber den Genannten im eigenen Namen und auf eigene Rechnung wahrzunehmen. […]
+11. Schadensabwicklung:
+[…]
+11.2 […] In allen Schadensfällen hat der Leasingnehmer […] den Reparaturauftrag im eigenen Namen zu erteilen […].
+11.3 […] Der Leasingnehmer hat alle, aus welchem Grund auch immer, durch eine Versicherung nicht gedeckte Schäden am Leasingobjekt sowie sämtliche mit dem Schadensfall verbundene Kosten und Nachteile zu tragen.
+11.4 Nur der Leasinggeber als Eigentümer des Leasingobjektes ist berechtigt, Ansprüche gegen Dritte, die nicht im Punkt 9. genannt sind, aus einem Schadensfall geltend zu machen. Kann der Leasinggeber seine Schadenersatzforderungen nicht unverzüglich einbringlich machen, so hat der Leasingnehmer dem Leasinggeber gegen Abtretung der Forderungen des Leasinggebers den Schaden zu ersetzen. Bei ergebnisloser Klage gegen Dritte ist der Leasingnehmer verpflichtet, dem Leasinggeber die hiefür entstandenen Kosten und Gebühren unverzüglich zu ersetzen, soweit diese zur Rechtsverfolgung notwendig und zweckmäßig sind. […]“
+Das Berufungsgericht hat ausgeführt, aus Punkt 11.4 der AGB ergebe sich, dass nur der Leasinggeber als Eigentümer des Leasingobjekts berechtigt sei, Ansprüche, die nicht in Punkt 9. genannt seien, aus einem Schadensfall geltend zu machen. Dazu gehöre auch der Anspruch auf Ersatz  der Wertminderung durch eine Beschädigung des Leasingobjekts durch Dritte.
+Die Revisionswerberin stützt sich darauf, dass bei einem – hier vorliegenden – Teilamortisationsvertrag der Leasingnehmer, hier also die Klägerin, hinsichtlich des kalkulierten Restwerts das Risiko der Wertminderung zu tragen habe.
+Die Revisionsgegnerin hat demgegenüber zutreffend erwidert, für diese Behauptung fehle jedes Vorbringen in erster Instanz. Im Übrigen weist die Beklagte auch schlüssig auf die Regelung des Punktes 17.2 der von der Klägerin vorgelegten AGB hin, wonach eine allfällige vom Leasinggeber aus einem Schadensfall erlöste Wertminderung zu Gunsten des Leasingnehmers anzurechnen ist.
+Ausgehend vom Vorbringen der Klägerin in erster Instanz ist die Vertragsauslegung des Berufungsgerichts keineswegs korrekturbedürftig im Sinne der dargestellten Rechtsprechung.
+Eine andere erhebliche Rechtsfrage macht die Revisionswerberin nicht geltend.
+Die Kostenentscheidung gründet sich auf die §§ 50, 41 ZPO. Die Revisionsgegnerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00064.17F.0529.000

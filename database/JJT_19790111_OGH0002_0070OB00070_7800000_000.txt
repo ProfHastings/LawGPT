@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.01.1979
+Geschäftszahl
+7Ob70/78f
+Norm
+Kraftfahrgesetz 1967 §63;
+Versichernngsvertragsgesetz §158c (2);
+Kopf
+SZ 52/4
+Spruch
+Aus Verkehrsunfällen innerhalb der Monatsfrist des § 158c Abs. 2 VersVG ist die Direktklage gegen den Haftpflichtversicherer unbeschadet der Abmeldung des Kraftfahrzeuges zulässig
+OGH 11. Jänner 1979, 7 Ob 70/78 (LGZ Wien 42R 372/78; BG Fünfhaus 5 C 799/77)
+Text
+Der Kläger begehrt die Zahlung eines Betrages von 18 880 S mit der Begründung, der Erstbeklagte habe am 5. Juli 1977 mit seinem PKW, der am selben Tag beim Verkehrsamt abgemeldet worden und jedenfalls an diesem Tag bei der zweitbeklagten Partei haftpflichtversichert gewesen sei, den PKW des Klägers beschädigt.
+Die zweitbeklagte Partei gab das Alleinverschulden des Erstbeklagten an diesem Unfall zu, beantragte aber Abweisung des gegen sie erhobenen Klagebegehrens wegen Fehlens der Passivlegitimation. Der Erstbeklagte habe nämlich Stunden vor dem Unfall seinen PKW abgemeldet, so daß im Unfallszeitpunkt weder eine vertragliche noch eine gesetzliche Haftpflichtversicherung zugunsten des PKW des Erstbeklagten bestanden habe. Nach dem § 63 Abs. 1 KFG setze die Direktklage gegen den Versicherer voraus, daß das betreffende Fahrzeug zum Verkehr zugelassen sei.
+Das Erstgericht wies das gegen die zweitbeklagte Partei gerichtete Klagebegehren ab. Es ging in tatsächlicher Hinsicht davon aus, daß der Erstbeklagte seinen bei der zweitbeklagten Partei haftpflichtversicherten PKW "Stunden" vor dem Unfall beim Verkehrsamt abgemeldet und die Kennzeichentafel abgegeben hatte. Da der PKW somit im Unfallszeitpunkt zum Verkehr nicht zugelassen gewesen sei, hafte die zweitbeklagte Partei infolge Erlöschens des Versicherungsschutzes nicht mehr.
+Das Berufungsgericht änderte das erstgerichtliche Urteil, das hinsichtlich eines abgewiesenen Teilbetrages von 5880 S samt Anhang unbekämpft geblieben war, dahin ab, daß es die zweitbeklagte Partei zur Zahlung eines - der Höhe nach letztlich außer Streit stehenden - Betrages von 13 000 S samt Anhang an den Kläger verurteilte. Es bejahte die - allein strittige - Passivlegitimation der zweitbeklagten Partei aus dem Gründe der §§ 63 Abs. 1 KFG, 158 c Abs. 2 VersVG.
+Der Oberste Gerichtshof gab der Revision der Zweitbeklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Entgegen der Auffassung der Revisionswerberin muß im gegenständlichen Fall bei der Beurteilung der Passivlegitimation des Versicherers auch auf die Bestimmung des § 158c Abs. 2 VersVG Bedacht genommen werden. Gemäß dem § 63 Abs. 1 KFG kann der geschädigte Dritte den ihm gegen einen durch eine Kraftfahrzeug-Haftpflichtversicherung .....
+Versicherten zustehenden Schadenersatzanspruch im Rahmen des betreffenden Versicherungsvertrages auch gegen den Versicherer (direkt) geltend machen. Der Versicherer und der ersatzpflichtige Versicherte haften als Gesamtschuldner. Trotz der im Innenverhältnis dem Versicherungsnehmer gegenüber bestehenden Leistungsfreiheit des Versicherers bleibt dessen Verpflichtung zur Leistung nach der Bestimmung des § 158c Abs. 1 VersVG in Ansehung des geschädigten Dritten bestehen. Ein Umstand, der das Nichtbestehen oder die Beendigung des Haftpflichtversicherungsverhältnisses zur Folge hat, wirkt nach dem Abs. 2 leg. cit. dem geschädigten Dritten gegenüber erst mit dem Ablauf eines Monats, nachdem der Versicherer diesen Umstand der hiefür zuständigen Stelle angezeigt hat. Da im vorliegenden Fall die Abmeldung des PKW einige Stunden vor dem Unfall erfolgt ist, kommt dem Beginn der Monatsfrist hier keine rechtliche Bedeutung zu. Die zweitbeklagte Partei ist unabhängig von den auf das Innenverhältnis zum Erstbeklagten beschränkten Rechtsfolgen dem Kläger gegenüber zur Leistung verpflichtet. Dieser Deckungsanspruch des geschädigten Dritten fällt jedoch "in den Rahmen des betreffenden Versicherungsvertrages" im Sinne des § 63 Abs. 1 KFG und des durch diese Gesetzesstelle begrundeten Gesamtschuldverhältnisses (vgl. dazu 186 BlgNR, GP) und kann daher direkt gegen den Versicherer geltend gemacht werden (in diesem Sinne auch 7 Ob 53/77; 7 Ob 69/77 und 7 Ob 76/77; vgl. auch Soche, ZVR 1971, 231). Das Berufungsgericht hat demnach mit Recht die Passivlegitimation der zweitbeklagten Partei bejaht.

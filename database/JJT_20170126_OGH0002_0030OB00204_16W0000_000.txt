@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.2017
+Geschäftszahl
+3Ob204/16w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Dr. Bernhard Birek, Schlu?ßlberg, Marktplatz 4, als Masseverwalter im Konkurs über das Vermögen der M*GmbH, *, gegen die beklagte Partei S*, vertreten durch die Puttinger Vogl Rechtsanwa?lte GmbH in Ried im Innkreis, wegen 33.360 EUR sA, u?ber die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 30. August 2016, GZ 1 R 117/16f-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Der Kläger zeigt – auch angesichts der Besonderheiten der außergewöhnlichen Fallkonstellation – keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf, weshalb die außerordentliche Revision als nicht zulässig zurückzuweisen ist. Das ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+1. Schon mangels Darstellung der Relevanz des angeblichen Verstoßes gegen die Erörterungspflicht des Berufungsgerichts liegt keine taugliche Mängelrüge vor (RIS-Justiz RS0037095 [T6, T14, T16] ua).
+2. Die Feststellungen des Erstgerichts zu den von der Schuldnerin (einer BauGmbH) erbrachten Leistungen und deren Wertlosigkeit sind nicht überschießend, weil sie im vorliegenden Einzelfall in den Rahmen des Vorbringens der Beklagten fallen (RIS-Justiz RS0037972 [T9, T13, T15]).
+3. Die vom Kläger geltend gemachten Feststellungsmängel liegen nicht vor:
+3.1. Die Revision zeigt gar nicht auf, welche weiteren Leistungen der Schuldnerin, die über die vom Erstgericht angeführten hinausgingen, sie behauptet habe und festgestellt haben wolle. Abgesehen davon wurden die diesbezüglichen Tatsachenannahmen des Erstgerichts abschließend getroffen, das heißt, dass es weitere Leistungen der Schuldnerin als nicht erbracht ansah.
+3.2. Eine Auseinandersetzung mit der Tatfrage, welche Leistungen der Geschäftsführer der Schuldnerin für diese erbrachte, war nicht erforderlich, weil der Kläger die Klageforderung zuletzt nur mit der Tätigkeit von vier Arbeitern der Schuldnerin unter Verwendung von deren Material, nicht jedoch mit Leistungen des Geschäftsführers begründete.
+3.3. Die Behauptungen des Klägers zur Aufschlüsselung der Klageforderung, also zum geltend gemachten Verlust des Gesellschaftsvermögens/der Insolvenzmasse, sind von den Feststellungen des Erstgerichts vollkommen abgedeckt, auch wenn sie der Höhe nach nicht vollständig seinem Vorbringen entsprechen. Feststellungsmängel liegen daher nicht vor (RIS-Justiz RS0053317).
+4. Der Kläger verlangt die Rückerstattung einer verbotenen Einlagenrückgewähr nach § 83 GmbHG in Form von Wertersatz für unentgeltlich erbrachte Arbeits- und Materialleistungen der Schuldnerin.
+Mit der primären Begründung des Berufungsgerichts für eine Verneinung eines Rückerstattungsanspruchs dem Grunde nach, dass die Erbringung von wertlosen Leistungen an einen Gesellschafter keine verbotene Einlagenrückgewähr darstellt, setzt sich der Kläger in der Revision nur soweit auseinander, als er die Feststellungen zur Wertlosigkeit – unzutreffend – als unbeachtlich ansieht. Inhaltlich führt er jedoch nichts gegen die Beurteilung des Berufungsgerichts ins Treffen, sodass hiezu jedenfalls keine erhebliche Rechtsfrage aufgezeigt wird. Auch die weiteren Überlegungen zur Anspruchshöhe sind somit nicht präjudiziell.
+5. Der Kläger stützt seinen Anspruch auf Wertersatz weiters auf eine Schenkungsanfechtung nach § 29 Z 1 IO.
+5.1. Die Haftung eines Anfechtungsgegners ist jedoch darauf beschränkt, dem Gläubiger das zu leisten, was dem Schuldnervermögen durch die anfechtbare Handlung entging oder daraus veräußert wurde (RIS-Justiz RS0050372; RS0064617; vgl jüngst 3 Ob 233/15h mwN). Da sich der Anfechtungsanspruch somit nach dem Verlust, den das Schuldnervermögen durch die Rechtshandlung erlitten hat, bestimmt, ist es gleichgültig, ob der Anfechtungsgegner aus der angefochtenen Rechtshandlung bereichert war oder noch ist ([zur AnfO:] 3 Ob 233/15h; RIS-Justiz RS0050318 [T5 und T7]). Die Höhe des geschuldeten Wertersatzes orientiert sich vielmehr an der Schmälerung des Befriedigungsfonds; zu ersetzen ist der objektive Wert, also der Erlös oder Ertrag, den der Masseverwalter hätte erzielen können, wenn sich die Sache noch in der Masse befunden hätte (Rebernig in Konecny/Schubert, § 39 KO Rz 26; vgl 2 Ob 198/98a [zu § 13 AnfO]). Für die Wertberechnung ist grundsätzlich auf den Zeitpunkt der erfolgreichen Anfechtung, also auf den Schluss der Verhandlung erster Instanz abzustellen (RIS-Justiz RS0064614).
+5.2. Hier stand zum Zeitpunkt des Schlusses der mündlichen Verhandlung erster Instanz fest, dass die von der Schuldnerin erbrachten Leistungen wertlos waren; mangels gegenteiliger Behauptungen des Klägers ist daher davon auszugehen, dass der Masseverwalter dafür auch von Dritten kein Entgelt erzielen hätte können. Das bedeutet, dass der Befriedigungsfonds der Gläubiger durch die unentgeltliche Verfügung der Schuldnerin im vorliegenden besonderen (und wohl auch seltenen) Einzelfall keine Schmälerung erfahren hat.
+5.3. Selbst wenn man darin aber nicht bereits eine fehlende Befriedigungstauglichkeit erblicken wollte, wäre ein dem Kläger geschuldeter Wertersatz der Höhe nach mit Null zu bemessen. Die Verneinung des Ersatzanspruchs durch das Berufungsgericht unter Hinweis auf die Wertlosigkeit der Leistungen bedarf daher keiner Korrektur.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E117194

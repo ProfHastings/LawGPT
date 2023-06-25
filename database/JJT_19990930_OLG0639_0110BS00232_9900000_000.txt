@@ -1,0 +1,25 @@
+Gericht
+OLG Graz
+Entscheidungsdatum
+30.09.1999
+Geschäftszahl
+11Bs232/99
+Kopf
+Das Oberlandesgericht Graz hat in der Strafsache gegen unbekannte Täter wegen §§ 146, 147 Abs 2, 148 erster Fall StGB über die Beschwerde der *****gegen den Beschluss der Ratskammer des Landesgerichtes Klagenfurt vom 17.8.1999, 7 RK 57/99-3, nach Anhörung der Oberstaatsanwaltschaft Graz in nichtöffentlicher Sitzung den
+B e s c h l u s s
+gefasst:
+Spruch
+Die Beschwerde wird als unzulässig zurückgewiesen.
+Text
+Begründung:
+Im vorliegenden Verfahren werden vom Landesgericht Klagenfurt Vorerhebungen gegen vorerst unbekannte Täter geführt, die im Verdacht stehen, als Inhaber der Mehrwertnummer *****das Verbrechen des schweren gewerbsmäßigen Betruges nach den §§ 146, 147 Abs 2, 148 erster Fall StGB begangen zu haben.
+Mit dem angefochtenen Beschluss ordnete das Erstgericht gemäß § 149 a StPO unter gleichzeitiger Aufhebung des Fernmeldegeheimnisses die Überwachung des Fernmeldeverkehrs an, und zwar durch Erhebung bei der Telekom Austria und jeder anderen in Frage kommenden Anlagebetreiberin, unter anderem darüber, von welchen Rufnummern aus die Mehrwertnummer *****seit dem 12.5.1999 angewählt wurde.
+Dagegen richtet sich die Beschwerde der *****, die nach den Ausführungen in der Beschwerde vom Landesgendarmeriekommando für Kärnten per Telefax am 30.8.1999 zur Bekanntgabe der Rufdaten aufgefordert worden ist. Die Beschwerdeführerin bringt im Wesentlichen vor, dass sie als Telekommunikationsunternehmen zur Wahrung des Fernmeldegeheimnisses verpflichtet sei, wobei unter anderem die Weitergabe von Informationen ohne Einwilligung der beteiligten Benutzer unzulässig sei und eine derartige Einwilligung nicht vorliege.
+Die Beschwerde ist jedoch als unzulässig zurückzuweisen.
+Rechtliche Beurteilung
+Die im angefochtenen Beschluss unter Punkt a) angeordnete nachträgliche Überprüfung von Vermittlungsdaten iSd § 28 Z 3 Fernmeldegesetz (sogenannte "äußere Gesprächsdaten" oder "Verbindungsdaten") im Fernmeldeverkehr stellt einen Anwendungsfall der §§ 149 a ff StPO der Überwachung eines Fernmeldeverkehrs dar (JBl 1997, 260; OLG Graz 12.9.1996, 11 Bs 336/96; Schmölzer, Rückwirkende Überprüfung von Vermittlungsdaten im Fernmeldeverkehr, JBl 1997, 211).
+§ 149 b Abs 5 StPO regelt ausdrücklich, wem ein Beschwerderecht gegen einen Beschluss, mit dem die Überwachung eines Fernmeldeverkehrs angeordnet wird, zukommt. Es sind dies der Staatsanwalt, der Inhaber der Anlage und der Beschuldigte.
+Es stellt sich somit die Frage, ob die *****als Anbieter von öffentlichen Telekommunikationsdiensten, somit als Betreiber im Sinne des Telekommunikationsgesetzes (TKG, BGBl 1997/I/100), als Inhaber der Anlage iSd §§ 149 a ff StPO anzusehen ist.
+Vor dem Inkrafttreten des Fernmeldegesetzes 1993 bzw des Poststrukturgesetzes 1996 war ausschließlich die Post- und Telegraphenverwaltung die zuständige Einrichtung für den Fernmeldeverkehr. Die Post- und Telegraphenverwaltung wurde jedoch nur hinsichtlich der nicht öffentlich zugänglich Fernmeldeanlagen innerhalb ihrer Amtsräumlichkeiten als Inhaber der Anlage iSd §§ 149 a ff StPO angesehen (JBl 1984, 475).
+Mittlerweile sind zahlreiche Anbieter von öffentlichen Telekommunikationsdiensten, wie etwa auch die Beschwerdeführerin, an die Stelle der Post- und Telegraphenverwaltung getreten. § 89 TKG beinhaltet eine Verpflichtung dieser privaten Betreiber zur Bereitstellung aller zur Überwachung des Fernmeldeverkehrs erforderlichen Einrichtungen sowie zur Mitwirkung an der Überwachung des Fernmeldeverkehrs. Diese Verpflichtung trifft somit auch die Beschwerdeführerin als Betreiber iSd TKG. § 87 Abs 2 TKG sieht vor, dass die Bestimmungen der Strafprozessordnung durch die Bestimmungen dieses Abschnittes des TKG, somit auch durch die Bestimmung des § 89 TKG, unberührt bleiben. Der Gesetzgeber hat damit zu erkennen gegeben, dass nach Inkrafttreten des TKG die privaten Betreiber - wie zuvor die Post (siehe oben) - nicht als Inhaber der Anlage iSd §§ 149 a ff StPO angesehen werden können. Eine Änderung des § 149 b Abs 5 StPO dahin, dass die privaten Betreiber als Inhaber der Anlage anzusehen und somit beschwerdelegitimiert wären, wurde nicht vorgenommen.
+Da somit der Beschwerdeführerin als Betreiber iSd TKG nach § 149 b Abs 5 StPO ein Beschwerderecht nicht zukommt, war die Beschwerde als unzulässig zurückzuweisen.

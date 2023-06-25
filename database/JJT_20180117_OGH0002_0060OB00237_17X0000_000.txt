@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.2018
+Geschäftszahl
+6Ob237/17x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch den Senatspräsidenten Dr. Schramm und die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei D***** GmbH, *****, vertreten durch Dr. Kurt Bayr und Dr. Marco Rovagnati, Rechtsanwälte in Innsbruck, gegen die beklagte Partei s***** gmbh, *****, vertreten durch SWS Scheed Wöss Rechtsanwälte OG in Linz, wegen 44.386,40 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Landesgerichts Innsbruck als Rekursgericht vom 12. Oktober 2017, GZ 3 R 170/17x-18, mit dem der Beschluss des Bezirksgerichts Innsbruck vom 26. April 2017, GZ 16 C 945/16y-13, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die Klägerin ist schuldig, der Beklagten die mit 2.219,58 EUR (darin 369,93 EUR Umsatzsteuer) bestimmten Kosten der Revisionsrekursbeantwortung binnen 14 Tagen zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 526 Abs 2 ZPO) – Ausspruch des Rekursgerichts ist der ordentliche Revisionsrekurs nicht zulässig:
+Das Rekursgericht hat seinen Zulässigkeitsausspruch damit begründet, es fehle Rechtsprechung des Obersten Gerichtshofs zur Frage, wie § 104 JN im europarechtlichen Kontext, nach dessen Zuständigkeitsrecht für die Wirksamkeit einer Gerichtsstandsvereinbarung die im nationalen Recht geforderte „Unterschriftlichkeit“ nicht maßgeblich ist, zu behandeln ist.
+Es ist zwischen den Parteien nicht strittig (und wurde dies von den Vorinstanzen auch so festgestellt), dass die „Offertkonditionen & Werklieferungsvertrag“ (Allgemeine Geschäftsbedingungen) der Klägerin, in welchen die Schlussbestimmung „ausschließlicher Gerichtsstand ist ***** AT“ enthalten ist, der Beklagten mittels E-Mail-Anhangs übermittelt wurde und keinerlei Unterschriften enthält; darüber hinaus weist die Geschäftsbeziehung zwischen den Parteien, in deren Rahmen die Beklagte von der Klägerin diverse Betonteile gekauft hat, keinerlei Auslandsbezug auf.
+1. Nach § 104 Abs 1 letzter Satz JN muss die Vereinbarung über die Zuständigkeit urkundlich nachgewiesen werden. Urkundlich nachgewiesen ist eine Parteienerklärung aber nur insoweit, als deren Inhalt durch die Unterschrift gedeckt ist (RIS-Justiz RS0046701; zuletzt 3 Nc 32/14g). Diese Voraussetzungen liegen hier nicht vor.
+2. Der Hinweis auf den „europarechtlichen Kontext“ geht fehl, weil nach ständiger Rechtsprechung des Obersten Gerichtshofs die europarechtlichen Zuständigkeitsbestimmungen bei Rechtsstreitigkeiten nicht anzuwenden sind, an denen als Kläger und Beklagter ausschließlich Personen beteiligt sind, die im Inland ihren (Wohn-)Sitz haben (RIS-Justiz RS0111491; insbesondere 9 Ob 151/03a). Dies entspricht auch der Rechtsprechung des Gerichtshofs der Europäischen Union (EuGH 17. 11. 2011, C-327/10 [Hypote?ní banka a.s./Lindner] Rz 29).
+3. Die Überlegungen des Revisionsrekurses, wonach „jede Rechtsprechung sich anpasst und einer gewissen Entwicklung unterliegt und sich auch den Erfordernissen anpasst [wobei] für die Wirksamkeit einer Gerichtsstandsvereinbarung nach europäischem Zuständigkeitsrecht die früher im nationalen Recht geforderte 'Unterschriftlichkeit' keineswegs maßgeblich“ sei, müssen sich an den österreichischen Gesetzgeber richten; der Oberste Gerichtshof hat die nach wie vor bestehenden (insoweit völlig eindeutigen) Regelungen des § 104 JN anzuwenden.
+4. Die Entscheidung über die Kosten des Revisionsrekursverfahrens gründet sich auf §§ 41, 50 ZPO. Die Beklagte hat in der Revisionsrekursbeantwortung auf die Unzulässigkeit des Revisionsrekurses hingewiesen. Der Schriftsatz ist daher als zur zweckentsprechenden Rechtsverteidigung notwendig anzusehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0060OB00237.17X.0117.000

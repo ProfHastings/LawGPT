@@ -1,0 +1,39 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.12.1949
+Geschäftszahl
+2Ob542/49
+Norm
+Mietengesetz §1;
+Mietengesetz §2;
+Mietengesetz §5;
+Mietengesetz §7;
+Mietengesetz §14;
+Mietengesetz §15;
+Mietengesetz §16;
+Mietengesetz §16a;
+Mietengesetz §19 Abs2 Z1;
+Mietengesetz §21;
+ZPO §267;
+ZPO §562;
+Kopf
+SZ 22/193
+Spruch
+Die Nichtzahlung des auf den Mieter entfallenden Betriebskostenanteiles verwirklicht den Kündigungsgrund des § 19 Abs. 2 Z. 1 MietG., wenn der Vermieter vor der Kündigung gemahnt hat.
+Wenn in den in bestimmter Richtung konkretisierten Einwendungen nicht vorgebracht ist, daß eine Mahnung unterblieben ist, kann auf diese Frage nicht eingegangen werden.
+Entscheidung vom 7. Dezember 1949, 2 Ob 542/49.
+I. Instanz: Bezirksgericht Hietzing; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Prozeßgericht erklärte die durch die Nichtzahlung der vereinbarten Wassergebühren veranlaßte, auf § 19 Abs. 2 Z. 1 MietG. gestützte Kündigung für rechtswirksam.
+Das Berufungsgericht hob die Kündigung auf.
+Der Oberste Gerichtshof stellte das erstgerichtliche Urteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Ansicht des Berufungsgerichtes, nur die Nichtzahlung des Hauptmietzinses (§ 2 Abs. 1 lit. a MietG.), nicht aber auch die Rückständigkeit des Betriebskostenanteiles (§ 2 Abs. 1 lit. b MietG.) verwirkliche den Kündigungsgrund des § 19 Abs. 2 Z. 1 MietG., findet nicht nur im Gesetz und der ständigen Rechtsprechung keine Unterlage, sie steht vielmehr in offenem Widerspruch mit dem Gesetz. Nach § 19 Abs. 2 Z. 1 MietG. gilt es als wichtiger Kündigungsgrund, wenn der Mieter "... mit der Bezahlung des den Bestimmungen dieses Gesetzes entsprechenden Mietzinses (§ 2 Abs. 1 und 4, §§ 7 und 14 Abs. 1 MietG.), Zuschlages (§ 2 Abs. 4, § 5) oder sonstigen Entgeltes (§ 14 Abs. 2 und § 15 MietG.) oder eines gültig (§ 1 Abs. 3, § 7 Abs. 1, §§ 16 und 16a) vereinbarten höheren Mietzinses..." im Rückstand ist. Durch die Bezugnahme auf § 2 Abs. 1 wird eindeutig klargestellt, daß nicht nur Rückstände am sogenannten Hauptmietzins, sondern auch solche am Betriebskostenanteil und dem Anteil an den in lit. c genannten, von der Liegenschaft zu entrichtenden öffentlichen Abgaben den Kündigungsgrund verwirklichen, weil sich nach dem Einleitungssatz des § 2 Abs. 1 MietG. der gesetzliche Mietzins aus den in den folgenden drei Punkten (lit. a, b und c) genannten Bestandteilen zusammensetzt. Die Bezugnahme auf § 2 Abs. 1 deckt und umfaßt demnach alle drei Komponenten des sogenannten gesetzlichen Mietzinses. Die gegenteilige Ansicht des Berufungsgerichtes widerstreitet also dem klaren Wortlaut des Gesetzes.
+Das Berufungsgericht vertritt auch die Ansicht, daß das Verfahren erster Instanz mangelhaft sei, weil die Frage nicht erörtert wurde, ob der Beklagte zur Zahlung der Betriebskostenrückstände gemahnt wurde.
+Voraussetzung der Kündigung nach § 19 Abs. 2 Z. 1 ist lediglich die Fälligkeit des Mietzinses, der Ablauf der üblichen oder vereinbarten, zumindest achttägigen Frist und die Mahnung vor der Kündigung (2 Ob 280/35, Sternberg, Rsp. Nr. 924). Diese bildet also ein objektives Tatbestandsmerkmal dieses Kündigungsgrundes und muß darum im Falle von Einwendungen vom Kundigenden bewiesen werden (Handl, Nr. 484, Swoboda, S. 282).
+Auch darin ist dem Berufungsgericht zuzustimmen, daß die Einmahnung rückständiger Zinse vor der Erhebung der Kündigung (oder Räumungsklage) erfolgt sein muß (Sternberg, Rsp. Nr. 922). Das übersieht die Revision, wenn sie, an sich zutreffend, die Unnötigkeit der Einmahnung aus der beharrlichen Weigerung des Beklagten, den Zins zu entrichten, ableitet, die allerdings zutreffendenfalls eine besondere Mahnung entbehrlich machen würde.
+Aber die Kläger haben in der Kündigung, die ja an und für sich die vom Gesetz geforderte Mahnung nicht ersetzen kann (vgl. Handl, Nr. 189), eine Behauptung des Inhaltes unterlassen, daß sie den Beklagten vergeblich gemahnt hätten oder daß sich dieser schon vor der Kündigung grundsätzlich geweigert habe, die rückständigen Wassergebühren zu bezahlen. Diese Unterlassung hätte, da die Mahnung ein objektives Tatbestandsmerkmal des Kündigungsgrundes darstellt, das nicht mehr während des Prozesses nachgeholt werden kann, das Schicksal der Kündigung negativ entschieden.
+Allein der Beklagte hat es einerseits verabsäumt, das Unterbleiben der Mahnung einzuwenden, und hat erst in der Berufung neuerungsweise und darum unbeachtlich behauptet, daß eine Mahnung nach eingetretener Fälligkeit unterblieben sei, wodurch er wiederum die neuerungsweise Gegenbehauptung der Kläger in der Berufungsmitteilung auf den Plan rief, er sei vor der Kündigung wiederholt mündlich und schriftlich, sogar mit rekommandiertem Brief, gemahnt worden.
+Wohl ist es richtig, daß die bloße Erhebung von Einwendungen mit oder ohne Berufung auf das Mietengesetz genügt, um dem Kundigenden die Beweislast für das Vorliegen des geltend gemachten Kündigungsgrundes aufzuerlegen (Swoboda, S. 282, Handl, Nr. 484). Wenn aber der Gekundigte seine Einwendungen in ganz bestimmter Richtung konkretisiert und aus den mehreren Tatbestandskomponenten des angerufenen Kündigungsgrundes nur eine einzige bestreitet und gegebenenfalls auch in dieser Richtung Gegenbeweise anbietet, kann gemäß § 267 Abs. 1 ZPO. angenommen werden, daß die übrigen in den Einwendungen nicht bekämpften Tatbestandsmerkmale, bzw. die sich auf sie beziehenden Tatsachenbehauptungen der kundigenden Partei als zugestanden anzusehen sind. Der Beklagte hat in seinen Einwendungen die Kündigung ausdrücklich nur deswegen bekämpft, weil die Wassergebühren übermäßig hoch und auf einen abnormalen, durch Bewässerung des Obst- und Gemüsegartens der klägerischen Parteien begrundeten Mehrverbrauch zurückzuführen seien. Den der Vereinbarung entsprechenden aliquoten Anteil am normalen Wasserverbrauch zu bezahlen, hat sich die gekundigte Partei in den Einwendungen ausdrücklich bereit erklärt. Der Streit drehte sich somit nur um die Höhe der geschuldeten Wassergebühren, während die Frage der Fälligkeit, der Rückständigkeit und der Mahnung gar nicht zur Diskussion gestellt war.

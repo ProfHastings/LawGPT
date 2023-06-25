@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.06.1963
+Geschäftszahl
+5Ob87/63
+Norm
+ABGB §547;
+Außerstreitgesetz §72;
+KO §1;
+KO §72;
+ZPO §155;
+Kopf
+SZ 36/85
+Spruch
+Durch den Tod des Gemeinschuldners tritt keine Unterbrechung des gegen den Nachlaß fortzuführenden Konkursverfahrens ein. Die Durchführung eines Verlassenschaftsverfahrens neben dem Konkursverfahren ist nicht ausgeschlossen.
+Entscheidung vom 14. Juni 1963, 5 Ob 87/63.
+I. Instanz: Kreis- als Handelsgericht St. Pölten; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Das Erstgericht sprach mit dem Beschluß vom 3. Jänner 1963 aus, daß das durch den Tod des Gemeinschuldners am 7. Jänner 1962 unterbrochene Verfahren von Amts wegen gegen dessen Nachlaß fortgesetzt werde.
+Das Rekursgericht gab dem Rekurs des Masseverwalters Folge und hob den erstgerichtlichen Beschluß auf. Es lehnte die von Bartsch - Pollak, I, S. 691, vertretene Ansicht, der Tod des Gemeinschuldners unterbreche das Konkursverfahren, doch könne dieses sogleich von Amts wegen gegen den Nachlaß fortgesetzt werden, ab. Gemäß § 172 KO. seien die Vorschriften der ZPO. auf das Konkursverfahren nur sinngemäß, also nur soweit anzuwenden, als dies mit dessen außerstreitigem Charakter vereinbar ist. Eine Unterbrechung des Konkursverfahrens stehe jedoch damit in Widerspruch. Überdies könne § 155 ZPO. auch deshalb nicht angewendet werden, weil im Konkursverfahren durch den Masseverwalter stets für eine Vertretung gesorgt, die Masse demnach trotz des Todes des Gemeinschuldners niemals unvertreten sei. Es sei daher der von Rintelen (Handbuch des Konkurs- und Ausgleichsrechtes, S. 102) und Jaeger (Kommentar zur deutschen KO[6] und [7], II, S. 864) vertretenen Ansicht beizupflichten, daß der Tod des Gemeinschuldners auf das Konkursverfahren keinen Einfluß übe.
+Auch die Fortsetzung des Verfahrens gegen den Nachlaß des Gemeinschuldners entspreche nicht dem Gesetz, da hinsichtlich des konkursverfangenen Vermögens nicht gleichzeitig ein Nachlaßverfahren durchgeführt werden könne. Überdies läge in der Ersetzung der Person des Gemeinschuldners durch den Nachlaß ein unzulässiger Parteienwechsel, da an Stelle einer physischen Person der Nachlaß trete. Es sei daher infolge des Todes des Gemeinschuldners lediglich die Parteibezeichnung in "Konkurs über das Vermögen des verstorbenen N. N." zu berichtigen.
+Der Oberste Gerichtshof wies den von der Witwe des Gemeinschuldners Josefine Sch. erhobenen Revisionsrekurs zurück. Den anderen Revisionsrekursen gab er nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der von Josefine Sch. "als Witwe nach Alois Sch." erhobene Revisionsrekurs war zurückzuweisen, da die Rekurswerberin nicht als am Konkursverfahren beteiligt und daher auch nicht als rekursberechtigt angesehen werden kann (SZ. XXI 5).
+Den übrigen Revisionsrekursen kommt im Ergebnis keine Berechtigung zu.
+Dem Masseverwalter fehlt ein Rechtsschutzinteresse an der Erhebung eines Revisionsrekurses, da die angefochtene Entscheidung des Rekursgerichtes ohnedies im Sinne seines primären Rekursantrages (ersatzlose Aufhebung des erstgerichtlichen Beschlusses) ergangen ist. Er kann sich daher nicht darüber beschweren, daß nicht im Sinne seines Eventualantrages der erstgerichtliche Beschluß hinsichtlich der Unterbrechung des Konkursverfahrens bestätigt und im übrigen dahin abgeändert wurde, daß das Verfahren nur auf Antrag eines Gläubigers fortgesetzt würde.
+Der Oberste Gerichtshof pflichtet der auf die Ausführungen Rintelens und Jaegers gestützten Begründung des Rekursgerichtes in der Frage der Unterbrechung des Konkursverfahrens bei und lehnt die gegenteilige, von Bartsch - Pollak vertretene Ansicht ab. Im Konkursverfahren tritt daher im Falle des Todes des Gemeinschuldners keine Unterbrechung nach § 155 ZPO. ein, wie ja auch eine Unterbrechung des Konkursverfahrens nach § 190 ZPO. unzulässig ist (EvBl. 1962 Nr. 423).
+Dem Revisionsrekurs der Gebietskrankenkasse Z. für Arbeiter und Angestellte, der sich im wesentlichen auf die Ausführungen des Kommentars von Bartsch - Pollak stützt, kommt daher keine Berechtigung zu.
+Den Ausführungen dieses Rekurses ist allerdings insofern beizupflichten, als das Konkursverfahren nicht nur eines Vermögens, sondern auch eines Rechtssubjektes bedarf (vgl. Jaeger, a. a. O.). Als solches kommt nach dem Ableben des Gemeinschuldners nur der Nachlaß in Betracht (§ 547 ABGB.), der, soweit er die konkursverfangenen Rechte und Verbindlichkeiten betrifft, als Rechtssubjekt an die Stelle des Verstorbenen tritt (vgl. Weiss in Klang[2], III., S. 123). Es ist daher im Falle des Todes des Gemeinschuldners das Konkursverfahren gegen dessen Verlassenschaft von Amts wegen weiterzuführen, ohne daß es eines bezüglichen Antrages oder einer Beschlußfassung hierüber bedarf.
+Sofern dieser Nachlaß eines Vertreters bedarf, ist aber auch die Einleitung eines Verlassenschaftsverfahrens zulässig, um den Erben Gelegenheit zu geben, Erbserklärungen abzugeben und die Vertretung des Nachlasses zu übernehmen. Wohl kann, solange der Konkurs anhängig ist, der konkursverfangene Nachlaß nicht eingeantwortet werden. Es muß aber den Erben, wenn sie es wünschen oder wenn sonst die Notwendigkeit ihrer Beteiligung am Konkursverfahren erkannt wird (siehe etwa §§ 99, 100 KO.), Gelegenheit geboten werden, am Konkursverfahren teilzunehmen und die Befugnisse auszuüben (siehe etwa § 140 KO.), die dem Gemeinschuldner zustehen. Darüber zu entscheiden, wer als Erbe zum Einschreiten befugt ist, ist aber nur das Verlaßenschaftgericht berufen, das Gegegebenfalls auch die Bestellung eines Erbenkurators vorzunehmen haben wird.
+Die Ausführungen des Revisionsrekurses der Sparkasse L. zur angeblichen Nichtigkeit des angefochtenen Beschlusses gehen fehl. Denn gleichviel, ob nun der erstgerichtliche Beschluß nichtig war oder nicht, so wurde er vom Rekursgericht jedenfalls behoben. Auch wenn dieses in seinem Aufhebungsbeschluß auf die angebliche Nichtigkeit nicht eingegangen ist, läge darin allenfalls ein Begründungsmangel, keinesfalls kann daraus eine Nichtigkeit des angefochtenen Beschlusses gefolgert werden.
+Nicht ganz verständlich ist die Behauptung der Mangelhaftigkeit des Verfahrens sowie der Aktenwidrigkeit, die darin liegen sollen, daß das Rekursgericht den Tod des Gemeinschuldners als Tatsache hingenommen hat, obwohl hierüber kein Nachweis vorliegt. Es genügt auf den von der Rekurswerberin nicht widerlegten Bericht des Masseverwalters zu verweisen, wonach der Gemeinschuldner laut Auskunft des Gemeindeamtes Y. am 7. Jänner 1962 gestorben ist.
+Soweit schließlich auch dieser Revisionsrekurs die Feststellung begehrt, daß durch den Tod des Gemeinschuldners eine Unterbrechung des Konkursverfahrens eingetreten sei, kann auf die obigen Ausführungen verwiesen werden.

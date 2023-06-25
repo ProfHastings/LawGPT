@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.04.2021
+Geschäftszahl
+1Ob47/21z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei M*****, vertreten durch Mag. Daniel Wolff, Rechtsanwalt in Bregenz, gegen die beklagte Partei *****bank *****, vertreten durch die DSC Doralt Seist Csoklich Rechtsanwälte GmbH, Wien, wegen Feststellung (Streitwert 35.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Feldkirch als Berufungsgericht vom 20. Jänner 2021, GZ 3 R 316/20y-11, mit dem das Urteil des Bezirksgerichts Dornbirn vom 14. September 2020, GZ 3 C 619/20p-7, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO
+mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der Kläger begehrt die Feststellung, dass der mit der Beklagten abgeschlossene (Fremdwährungs-)Kreditvertrag nicht wirksam zustande gekommen sei (in eventu „aufgehoben wird“), weil mehrere Klauseln des Vertrags bzw der Allgemeinen Geschäftsbedingungen der Beklagten nicht gültig Vertragsinhalt geworden seien, was die Unwirksamkeit des gesamten Vertrags bewirke.
+[2] 		2. Das Berufungsgericht bestätigte die klageabweisende Entscheidung des Erstgerichts. Zwar seien einzelne Klauseln unwirksam, dies habe aber nicht die Unwirksamkeit des gesamten Kreditvertrags zur Folge, der bei objektiver Betrachtung auch ohne diese Klauseln bestehen könne. Andere vom Kläger beanstandete Klauseln seien hingegen wirksam.
+[3] 		3. Der Kläger stützt sich in dritter Instanz nur mehr auf jene – seiner Ansicht nach unwirksamen – Klauseln, die vom Berufungsgericht als rechtswirksam angesehen wurden. Sie regeln die bei Zuzählung der Kreditvaluta, bei den Raten-, Zins- und Tilgungszahlungen sowie bei einer Konvertierung des Kredits vorzunehmende Währungs-
+umrechnung auf Basis eines nach Ansicht des Revisionswerbers nicht ausreichend transparent formulierten bzw sittenwidrigen Wechselkurses. Der Kläger legt in seinem Rechtsmittel zwar dar, warum diese Klauseln seiner Ansicht nach – entgegen der Rechtsansicht des Berufungsgerichts – unwirksam seien und die durch ihren Entfall entstehende Vertragslücke weder durch dispositives Recht noch durch ein nach den allgemeinen Regeln der Vertragsinterpretation gewonnenes Auslegungsergebnis zu füllen sei. Auf die für die Berechtigung seines (seiner) Feststellungsbegehren(s) zentrale Frage, warum sich daraus – auch bei behauptetem ersatzlosen Entfall der Klauseln – die Unwirksamkeit des gesamten Kreditvertrags ergeben soll, geht er aber nur am Rande ein.
+[4] 		4.1. Für die behauptete Gesamtnichtigkeit des Kreditvertrags, die nur dann vorläge, wenn das Geschäft ohne die unwirksame(n) Abrede(n) nicht (fort-)bestehen könnte (vgl dazu RIS-Justiz RS0014676 [T5]; RS0016431 [T6]; RS0016420 [T2]), beruft sich der Revisionswerber allein darauf, er könne ohne einen unmissverständlich vereinbarten objektiven Wechselkurs die „Höhe seiner Raten- und Zinszahlungen nicht eruieren“ und Zinsen und Raten sohin nicht in Euro bezahlen.
+[5] 		4.2. Nach dem Kreditvertrag sollten die Zahlungen des Klägers aber (primär) in CHF erfolgen, womit der Vertrag dem Konzept eines Fremdwährungskredits entspricht, bei dem die fremde Währung (auch) die Grundlage für die Rückzahlungsverpflichtung des Kreditnehmers ist (vgl 1 Ob 163/15z; 1 Ob 190/16x). Hat er seine Zahlungen in der vereinbarten Fremdwährung zu leisten, so muss er sich diese zuvor – nicht notwendigerweise beim Kreditgeber – beschaffen (vgl 1 Ob 190/16x; siehe auch 8 Ob 37/20d). Entfiele nun jene (vom Revisionswerber beanstandete) Klausel, in der bestimmt wird, dass der Kläger seine Zahlungen anstatt in CHF – zum jeweils aktuellen Wechselkurs – auch in EUR leisten kann, so bliebe es weiter dabei, dass die Zahlungen in CHF zu erfolgen haben. Der Kreditvertrag wäre auf dieser Basis zu erfüllen und könnte ohne die unwirksame Klausel fortbestehen. Warum dennoch Gesamtnichtigkeit eintreten sollte, legt der Revisionswerber nicht dar.
+[6] 		5. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0010OB00047.21Z.0421.000

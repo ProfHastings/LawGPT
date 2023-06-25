@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.09.2020
+Geschäftszahl
+3Ob68/20a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr. Roch als Vorsitzenden sowie den Hofrat Hon.-Prof. PD Dr. Rassi, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Parteien 1. D*****, 2. F*****, beide vertreten durch Dr. Christopher Kempf, Rechtsanwalt in Spittal an der Drau, gegen die beklagte Partei A*****, vertreten durch Mag. Roland Schratter, Rechtsanwalt in Wolfsberg, wegen 6.171,51 EUR sA und Feststellung, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 13. August 2019, GZ 4 R 98/19g-39, mit dem das Urteil des Bezirksgerichts Wolfsberg vom 30. Jänner 2019, GZ 4 C 1527/17d-30, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, den klagenden Parteien die mit 688,92 EUR (darin 114,82 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Der Beklagte verpflichtete sich gegenüber den Klägern zur Lieferung einer näher spezifizierten Abwasserreinigungsanlage und zur Erstellung eines Einreichprojekts für deren wasserrechtliche Bewilligung. Die Kläger leisteten an den Beklagten vereinbarungsgemäß eine Vorauszahlung sowie das Honorar für die Projekterstellung. Nach dessen Einreichung bei der Wasserrechtsbehörde teilte diese den Klägern im Vorprüfungsverfahren mit, dass das Projekt derzeit nicht bewilligungsfähig sei und die Erteilung  einer wasserrechtlichen Bewilligung „überhaupt nicht wahrscheinlich“ sei. Darauf zogen die Kläger ihren Bewilligungsantrag zurück und erklärten gegenüber dem Beklagten den Vertragsrücktritt. Sie fordern (soweit in dritter Instanz noch relevant) die Rückzahlung der bereits an den Beklagten geleisteten Zahlungen. Beide Vorinstanzen erachteten den Vertragsrücktritt der Kläger als nach § 3a KSchG berechtigt und verpflichteten den Beklagten zur Zahlung gemäß § 4 KSchG.
+Rechtliche Beurteilung
+[2] 		Die dagegen erhobene Revision des Beklagten ist – ungeachtet des nachträglichen, nicht bindenden Zulässigkeitsausspruchs des Berufungsgerichts (§ 508a Abs 1 ZPO) – nicht zulässig, weil keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO aufgezeigt wird. Das ist wie folgt kurz zu begründen (§ 510 Abs 3 ZPO):
+[3] 		1. Der „Stand der Technik“ gehört ausschließlich dem Tatsachenbereich an (RIS-Justiz RS0048339). Die Annahme der Vorinstanzen, „das Einreichprojekt“ habe nicht dem Stand der Technik entsprochen, stellt daher eine Feststellung dar, deren Bekämpfung in dritter Instanz nicht mehr zulässig ist (RS0042903 [T2]).
+[4] 		2. Gegen die Anwendbarkeit des § 3a Abs 1 KSchG trägt die Revision nur zwei Argumente vor:
+[5] 		2.1 Die Rüge einer fehlenden Feststellung dazu, dass der Beklagte die Erwirkung der wasserrechtlichen Bewilligung als wahrscheinlich dargestellt habe, ist unberechtigt. Das Erstgericht stellte nämlich – zwar disloziert im Rahmen der Beweiswürdigung, aber dennoch beachtlich (RS0043110 [T3]) – fest, dass die wasserrechtliche Bewilligung vom Beklagten mit großer Sicherheit und zeitnah in Aussicht gestellt wurde.
+[6] 		2.2 Den Einwand, er habe sich gegenüber den Klägern zu einer angemessenen Vertragsanpassung im Sinn des § 3a Abs 4 Z 3 KSchG bereit erklärt bzw eine solche erklären wollen, hat der Beklagte in erster Instanz nicht erhoben; vielmehr steht fest, dass er den von den Klägern erklärten Vertragsrücktritt nie bestritten hat. Auch ist der festgestellte Versuch des Beklagten gegenüber der Wasserrechtsbehörde, die Bewilligungsfähigkeit zu erreichen, nicht mit einem Angebot an die Kläger zur Vertragsanpassung gleichzusetzen. Der erstmals in der Revision vorgetragene Vorwurf, die Kläger hätten ihm pflichtwidrig trotz seiner Bereitschaft dazu eine Vertragsanpassung unmöglich gemacht, verstößt daher gegen das Neuerungsverbot und ist deshalb unbeachtlich.
+[7] 		2.3 Die vom Berufungsgericht als erheblich angesehene Rechtsfrage greift die Revision nicht auf (vgl RS0102059; RS0048272 [T1]).
+[8] 		3. Gegen die jedenfalls vertretbare Auslegung des Berufungsgerichts jener Bestimmung der AGB des Beklagten, die im Fall eines Rücktritts der Kläger eine Stornogebühr von 50 % des Auftragsvolumens vorsieht (vgl allerdings zur von den Klägern bestrittenen Wirksamkeit dieser Klausel 4 Ob 229/13z = RS0016914 [T63]), dahin, dass sie den hier gegebenen Fall des Rücktritts nach § 3a KSchG nicht erfasse, trägt die Revision nichts vor.
+[9] 		4. Die Kostenentscheidung beruht auf den §§ 41 Abs 1, 50 Abs 1 ZPO. Die Kläger haben auf die fehlende Zulässigkeit der Revision hingewiesen (vgl RS0035979).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0030OB00068.20A.0902.000

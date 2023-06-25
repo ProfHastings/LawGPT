@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2022
+Geschäftszahl
+14Os79/22g
+Kopf
+Der Oberste Gerichtshof hat am 24. August 2022 durch die Senatspräsidentin des Obersten Gerichtshofs Mag. Hetlinger, den Hofrat des Obersten Gerichtshofs Hon.-Prof. Dr. Nordmeyer, die Hofrätinnen des Obersten Gerichtshofs Dr. Mann und Dr. Setz-Hummel LL.M. sowie den Hofrat des Obersten Gerichtshofs Dr. Haslwanter LL.M. in Gegenwart des Schriftführers Mag. Turner in der Strafsache gegen * G* wegen des Vergehens des Diebstahls durch Einbruch nach §§ 127, 129 Abs 1 Z 3 StGB und weiterer strafbarer Handlungen über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts Feldkirch als Schöffengericht vom 11. Februar 2022, GZ 50 Hv 7/22v-71, sowie seine Beschwerde gegen den zugleich gefassten Beschluss nach § 494a StPO nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde und die Berufung wegen des Ausspruchs über die Schuld werden zurückgewiesen.
+Zur Entscheidung über die Berufung gegen den Strafausspruch und den Privatbeteiligtenzuspruch sowie die Beschwerde werden die Akten dem Oberlandesgericht Innsbruck zugeleitet.
+Dem Angeklagten fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurde * G* – soweit hier von Bedeutung – unter anderem der Vergehen des Diebstahls durch Einbruch nach §§ 127, 129 Abs 1 Z 3 StGB (I/A/1) und der Entfremdung unbarer Zahlungsmittel nach § 241e Abs 1 StGB (I/A/2) schuldig erkannt.
+[2] 		Danach hat er
+I/ am 22. Juli 2021 in D*
+A/ im bewussten und gewollten Zusammenwirken (§ 12 erster Fall StGB) mit zwei abgesondert verfolgten Mittätern
+1/ anderen fremde bewegliche Sachen mit auf unrechtmäßige Bereicherung gerichtetem Vorsatz weggenommen, und zwar
+c/ * B* ein Kartenetui samt Inhalt aus dessen unversperrtem Pkw;
+e/ dem Gewahrsamsträger einer (im Urteil nicht festgestellten) Trafik durch Öffnen einer Sperrvorrichtung mit einem widerrechtlich erlangten Schlüssel Zigaretten im Wert von 92,40 Euro, indem er diese mit der im Zuge der zuvor weggenommenen (I/A/1/c und I/A/2) Bankomatkarte an einem Zigarettenautomaten bezahlte;
+2/ sich die Bankomatkarte des B*, mithin ein fremdes unbares Zahlungsmittel, mit auf unrechtmäßige Bereicherung durch dessen Verwendung im Rechtsverkehr gerichtetem Vorsatz verschafft, indem er die Bankomatkarte im Zuge der zu I/A/1/c beschriebenen Tat wegnahm, um in weiterer Folge damit Zigaretten zu kaufen.
+Rechtliche Beurteilung
+[3] 		Die dagegen aus § 281 Abs 1 Z 10 StPO ergriffene Nichtigkeitsbeschwerde des Angeklagten ist nicht im Recht.
+[4] 		Sie kritisiert inhaltlich ausschließlich die Subsumtion der von Punkt I/A/1/e erfassten Tat nach §§ 127, 129 Abs 1 Z 3 StGB und strebt insoweit eine solche nach § 148a StGB an. Sie stimmt zunächst der Einordnung einer Behebung an einem Geldausgabeautomaten unter missbräuchlicher Verwendung einer Bankomatkarte als Diebstahl durch Einbruch durch die oberstgerichtliche Rechtsprechung (vgl etwa RIS-Justiz RS0132707, RS0130882) ausdrücklich zu. Indem sie davon ausgehend für den vorliegenden Fall einen Unterschied darin zu erkennen vermeint, dass sich der Beschwerdeführer unter Verwendung der vorher weggenommenen Bankomatkarte nicht Bargeld, sondern Zigaretten aus einem Automaten verschaffte, argumentiert sie nicht methodengerecht (vgl RIS-Justiz RS0116565) und entzieht sich damit einer inhaltlichen Erwiderung.
+Insbesondere wird nicht erklärt, welche Auswirkung die behauptete Ersatzpflicht der „Bank“ (zur allfälligen Haftung der – kontoführenden – Bank im Verhältnis zum Kontoinhaber, dessen Karte verwendet wurde, gem § 67 ZaDiG 2018 vgl Haghofer in Weilinger/Knauder/Miernicki, ZaDiG 2018 § 66 Rz 10 und § 67 Rz 10; vgl auch [zur früheren Rechtslage] RIS-Justiz RS0113753, RS0121805) auf die (für Diebstahl entscheidende) Frage nach einem Gewahrsamsbruch zum Nachteil des (automatenaufstellenden) Bankinstituts (vgl RIS-Justiz RS0106207) habe.
+[5] 		Gegen die Annahme eines Gewahrsamsbruchs ins Treffen geführte oberstgerichtliche Entscheidungen (12 Os 45/06v; RIS-Justiz RS0094718) betreffen Überweisungsvorgänge (also Manipulationen mit Giralgeld) und sind für die hier in Rede stehende Wegnahme fremder beweglicher Sachen ohne Bedeutung.
+[6] 		Gleiches gilt für die zitierte Kommentarstelle zur Subsumtion der Benützung von fremden Bankomatkarten an einer Bankomatkassa (Kirchbacher/Sadoghi in WK2 StGB § 148a Rz 31, vgl aber auch ebd Rz 28).
+[7] 		Dass der Betreiber des Zigarettenautomaten mit der Ausgabe von Zigaretten an einen zur Verwendung der Bankomatkarte nicht Autorisierten einverstanden gewesen sei (vgl Salimi, SbgK § 127 Rz 143; Stricker in WK2 StGB § 127 Rz 147; vgl hingegen Kienapfel/Schmoller BT II2 § 127 Rz 103), wird (ohne Bezug zum Urteilssachverhalt) bloß behauptet.
+[8] 		Weshalb es für die Qualifikation der Bankomatkarte als widerrechtlich erlangter Schlüssel (§ 129 Abs 1 Z 1 StGB) auf die Eingabe des PIN-Codes ankomme, wird ebenso wenig erklärt (vgl im Übrigen 14 Os 138/20f; allgemein zum Begriff des „Schlüssels“ Stricker in WK2 StGB § 129 Rz 54; Salimi, SbgK § 129 Rz 52).
+[9] 		Die Nichtigkeitsbeschwerde war daher – ebenso wie die im kollegialgerichtlichen Verfahren nicht vorgesehene (§ 283 Abs 1 StPO) Berufung gegen den Ausspruch über die Schuld (§ 296 Abs 2 iVm § 294 Abs 4 StPO) – bei der nichtöffentlichen Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO).
+[10] 		Daraus folgt die Zuständigkeit des Oberlandesgerichts zur Entscheidung über die Berufung gegen den Strafausspruch und den Privatbeteiligtenzuspruch sowie und die Beschwerde (§§ 285i, 498 Abs 3 letzter Satz StPO).
+[11] 		Der Kostenausspruch beruht auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0140OS00079.22G.0824.000

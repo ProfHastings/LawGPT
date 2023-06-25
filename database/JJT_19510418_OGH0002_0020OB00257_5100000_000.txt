@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.04.1951
+Geschäftszahl
+2Ob257/51
+Norm
+JN §87;
+JN §104;
+ZPO §261 Abs1;
+Kopf
+SZ 24/106
+Spruch
+Eine Gerichtsstandausschließungsvereinbarung ist zulässig, kann jedoch ebenso wie eine positive Gerichtsstandvereinbarung nur durch Urkunden nachgewiesen werden. Es genügt daher nicht, wenn die Vereinbarung lediglich in den im Geschäftslokal angeschlagenen allgemeinen Geschäftsbedingungen des einen Vertragspartners vorgesehen war, welche von der anderen Partei nicht unterfertigt wurden.
+Entscheidung vom 18. April 1951, 2 Ob 257/51.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Der Kläger begehrte von einer ausländischen Schiffahrtsgesellschaft, die im Inland eine Zweigniederlassung hat, bei dem für die Zweigniederlassung zuständigen Gericht den Rückersatz der von ihm am 3. September 1938 bei der Zweigniederlassung für fünf Schiffspassagen bezahlten Fahrpreise, da von den Schiffspassagen, wie sich erst nachträglich infolge der besonderen Verhältnisse ergab kein Gebrauch gemacht werden konnte. Die beklagte Partei wendete die örtliche Unzuständigkeit ein, da als Gerichtsstand die im Ausland gelegene Stadt der Hauptniederlassung vereinbart worden sei.
+Das Prozeßgericht gab nach einem Beweisverfahren der Unzuständigkeitseinrede Folge und wies die Klage zurück.
+Das Rekursgericht verwarf die Einrede der Unzuständigkeit und trug dem Erstgerichte die sachliche Entscheidung über die Klage auf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die behauptete negative Gerichtsstandvereinbarung ist eine ausschließliche und besagt, daß Streitigkeiten aus "Fahrschein"- Verträgen vor dem Gericht im Ausland ausgetragen werden müssen und der Kompetenz einer anderen Gerichtsbehörde entzogen sind, auch wenn sie mit dem Streitfall in Zusammenhang gebracht werden könnten. Darin ist eine sogenannte Gerichtsstandausschließungsvereinbarung zu erblicken, da für die Klage auch andere in der Jurisdiktionsnorm enthaltene Gerichtsstände, vor allem der des § 87 JN., angerufen werden könnten, bzw. angerufen werden.
+Es ist richtig, daß die hier auftauchende Frage, ob der Beklagte eine solche, die Zuständigkeit des vom Kläger angerufenen Gerichtes ausschließende Vereinbarung urkundlich nachweisen müsse, wie dies § 104 JN. für die Gerichtsstandvereinbarung verlangt, u. zw. bei Gelegenheit der Ausführung der erhobenen Unzuständigkeitseinrede, in der Judikatur nicht ganz einheitlich beantwortet worden ist. Der Oberste Gerichtshof schließt sich aber der von Sperl (Vereinbarung der Zuständigkeit und Gerichtsstand des Erfüllungsortes, Graz, 1897, S. 147) vertretenen Ansicht an, daß eine solche Vereinbarung sogleich urkundlich dargetan werden muß und daß es dem Beklagten, der das angerufene Gericht für unzuständig erklärt, obliegt, diesen Nachweis zu erbringen, ebenso wie der Kläger, wenn er ein an sich unzuständiges Gericht auf Grund einer Prorogationsvereinbarung in Anspruch nimmt. "Wo immer", sagt Sperl, "eine Partei im Angriff oder in der Verteidigung vereinbarte Zuständigkeit geltend macht, muß sie sogleich urkundlichen Nachweis im Sinn des § 104 JN. erbringen.
+Das einzige vom Gesetz überhaupt zugelassene Beweismittel ist die Urkunde (abgesehen vom Fall eines gerichtlichen Geständnisses)." In diesem Sinne hat der Oberste Gerichtshof auch schon zu GlUNF. 3975 entschieden (vgl. auch ZBl. 1928, Nr. 73, und die Bemerkung von Weinberger zu dieser Entscheidung; a. M. GlUNF. 5411, ZBl. 1927, Nr. 115). In GlUNF. 3975 wird diese Ansicht mit voller Prägnanz ausgesprochen und zugleich ausgesprochen, daß der Erstrichter die angebotenen Zeugenbeweise darum hätte übergehen sollen.
+Die von Sperl gegebene Begründung ist überzeugend und entspricht dem Grundsatz der gleichmäßigen Behandlung beider Streitparteien. Die an und für sich gewiß zulässige Vereinbarung muß sowohl eine ausdrückliche sein (Neumann, S. 255, Sperl, S. 140 ff.), so daß eine stillschweigende Abmachung, z. B. durch unterlassene Beanständung aufliegender Formulare oder plakatierter Beförderungsbedingungen, nicht hinreicht. Sie muß auch urkundlich nachgewiesen, wenn auch nicht errichtet werden, und dieser Nachweis muß zwar nicht bei der Erhebung der Einrede (§ 261 Abs. 1 ZPO.), aber doch bei der ersten mündlichen Streitverhandlung, bei welcher über die Einrede verhandelt und entschieden wird, erbracht werden.
+Das Erstgericht hat festgestellt, daß eine schriftliche Vereinbarung zwischen den Parteien nicht nachweisbar ist. Zwar würde auch eine mündliche Vereinbarung genügen (Neumann, S. 255), aber auch diese müßte urkundlich im Sinn der §§ 292 ff. ZPO. nachgewiesen werden. Ein solcher Nachweis ist nicht erbracht, denn die vorgelegten Urkunden betreffen nicht den gegenständlichen Streitfall oder sind bloß Formulare, und nur im Wege der Annahme, daß auch im vorliegenden Fall ein gleichartiger Vorgang beobachtet worden sein dürfte, erschließt das Erstgericht und mit ihm der Revisionsrekurs, daß tatsächlich eine schriftliche Abmachung, die ja ausdrücklich von der Beklagten behauptet wird, getroffen worden ist. Schlußfolgerungen vermögen aber den vom Gesetz geforderten urkundlichen Nachweis, durch den allein der Beweis im Sinn des § 104 JN. erbracht werden kann, nicht zu ersetzen. Der vom Erstrichter aufgenommene Zeugenbeweis war darum ungeeignet, die zu erweisende Tatsache darzutun, und hätte unterbleiben sollen.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.05.2022
+Geschäftszahl
+6Ob88/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr. Nowotny als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Hargassner, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei mj M*, vertreten durch Dr. Astrid Wagner, Rechtsanwältin in Wien, gegen die beklagte Partei R*, vertreten durch Knirsch Gschaider & Cerha Rechtsanwälte OG in Wien, wegen 20.000 EUR und Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. März 2022, GZ 33 R 116/21b-53, womit das Urteil des Handelsgerichts Wien vom 5. Oktober 2021, GZ 33 Cg 60/19a-48, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.647,18 EUR (darin enthalten 274,53 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Nach einer komplikationslos durchgeführten Ohrenoperation (Einsatz von Paukenröhrchen) im Krankenhaus der Beklagten litt der Kläger an einer bakteriellen Infektion in den Ohren. Es konnte nicht festgestellt werden, dass sich der Kläger den Keim während seines Krankenhausaufenthalts zugezogen hatte oder ob dies bereits davor oder danach erfolgt war.
+[2] 		Der Kläger begehrt Schadenersatz (Schmerzengeld) und brachte vor, er habe sich im Krankenhaus der Beklagten eine Infektion mit einem multiresistenten Krankenhauskeim zugezogen, an deren Folgen er immer noch leide. Über das bei der Operation bestehende Risiko einer solchen Infektion sei die Mutter des Klägers nicht aufgeklärt worden.
+[3] 		Die Beklagte wendete ein, der Kläger habe sich nicht im Krankenhaus mit einem Keim angesteckt. Die geschilderten Beschwerden könnten ein Operationsrisiko sein, das sich verwirklicht habe, wobei die Mutter des Klägers darüber aufgeklärt worden sei.
+[4] 		Das Erstgericht wies die Klage ab. Einer Aufklärung über die Gefahr von Krankenhauskeimen habe es nicht bedurft. Dem Kläger sei der ihm obliegende Beweis, dass er sich den Keim in der Klinik der Beklagten zugezogen habe, nicht gelungen.
+[5] 		Das Berufungsgericht bestätigte diese Entscheidung. Es war der Ansicht, die Beweislast dafür, dass sich ein Behandlungsrisiko verwirklicht habe, über das aufzuklären gewesen wäre, treffe den Kläger. Es stehe aber nicht fest, dass sich ein solches Behandlungsrisiko verwirklicht habe. Schon deshalb sei das Klagebegehren abzuweisen. Ob die Beklagte verpflichtet gewesen wäre, über das Risiko einer Infektion mit einem sogenannten Krankenhauskeim aufzuklären, könne dahinstehen. Auch auf die Frage der konkreten Aufklärung und ihres Umfangs komme es daher gegenständlich nicht an.
+[6] 		Das Berufungsgericht ließ die Revision zu, weil noch keine gesicherte Rechtsprechung des Obersten Gerichtshofs zur Frage vorliege, ob und unter welchen Umständen die bei Nachweis eines Behandlungsfehlers bejahte Möglichkeit eines erleichterten Kausalitätsnachweises auch bei der Verletzung der Aufklärungspflicht gelte oder ob und wann eine Beweislastverschiebung eintrete, wenn offen bleibe, ob jenes Risiko zur Schädigung des Patienten geführt habe, über das aufzuklären gewesen wäre.
+Rechtliche Beurteilung
+[7] 		Die dagegen gerichtete Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig:
+[8] 		1. Die Zulässigkeit eines Rechtsmittels an den Obersten Gerichtshof setzt voraus, dass der Rechtsmittelwerber die für die Entscheidung maßgeblichen erheblichen Rechtsfragen in seinen Rechtsmittelausführungen auch aufgreift. Er muss wenigstens in Ansätzen versuchen eine erhebliche Rechtsfrage des materiellen Rechts oder des Verfahrensrechts aufzuwerfen, bei deren Beurteilung er von der Rechtsansicht der zweiten Instanz abweicht (5 Ob 9/21s; RS0102059 [T13]). Der Oberste Gerichtshof ist nicht dazu berufen, theoretisch zu einer Rechtsfrage Stellung zu nehmen, deren Lösung durch die zweite Instanz vom Rechtsmittelwerber gar nicht bestritten wird (vgl RS0102059 [T8, T18]).
+[9] 		2. Die in der Revision aufgeworfene Frage muss, um als Rechtsfrage im Sinn des § 502 Abs 1 ZPO zu gelten, zur Lösung des konkreten Falls erforderlich, also präjudiziell sein (RS0088931 [T2, T4]; vgl 6 Ob 205/20w). Die Revision vermag keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO darzustellen, wenn sie eine alternative Begründung des Berufungsgerichts, die selbständig tragfähig ist, unbekämpft lässt (1 Ob 88/21d; 6 Ob 112/18s [ErwGr 6.]; vgl RS0118709 [T3]). Erst recht muss die Hauptbegründung der zweiten Instanz bekämpft werden (vgl 9 ObA 129/19i).
+[10] 			3. Die Revision geht auf die die Klagsabweisung rechtlich (selbständig) tragende Begründung des Berufungsgerichts, dem Kläger sei der ihm obliegende Kausalitätsbeweis misslungen, nicht ein. Sie beschränkt sich darauf geltend zu machen, der Kläger (dessen Mutter) wäre über das Risiko eines sogenannten „Krankenhauskeims“ aufzuklären gewesen. Diese Frage hat das Berufungsgericht aber ausdrücklich als nicht rechtserheblich offen gelassen. Warum diese Auffassung des Berufungsgerichts unrichtig sei, legt die Revision nicht dar. Damit zeigt sie keine erhebliche und auch präjudizielle Rechtsfrage auf. Im Übrigen handelte es sich nach den Feststellungen ohnehin gar nicht um einen multiresistenten Problemkeim.
+[11] 		4. Da somit Rechtsfragen im Sinn des § 502 Abs 1 ZPO nicht zu beurteilen sind, ist die Revision zurückzuweisen.
+[12] 		5. Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00088.22T.0518.000

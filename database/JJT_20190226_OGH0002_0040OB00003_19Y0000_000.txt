@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.02.2019
+Geschäftszahl
+4Ob3/19y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Kläger 1. H* M*, 2. A* E*, beide vertreten durch Musey Rechtsanwalt GmbH in Salzburg, gegen den Beklagten P* R*, vertreten durch Dr. Ägidius Horvatits Rechtsanwalts GmbH in Salzburg, wegen restlich 8.713,84 EUR sA, über die Revision des Beklagten gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 28. August 2018, GZ 22 R 230/18d-90, womit das Urteil des Bezirksgerichts Oberndorf bei Salzburg vom 28. Mai 2018, GZ 2 C 12/14k-86, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Der Beklagte ist schuldig, den Klägern die mit 833,88 EUR (darin 138,98 EUR USt) bestimmten Kosten ihrer Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Kläger begehrten vom Beklagten die Rückzahlung einer Kaution nach Beendigung eines Pachtverhältnisses.
+Der Beklagte wendete aufrechnungsweise Gegenforderungen aufgrund nicht ordnungsgemäßer Rückstellung des Pachtobjekts ein.
+Das Erstgericht gab (nach rechtskräftiger Abweisung einer Teilforderung im ersten Rechtsgang) dem restlichen Zahlungsbegehren mit 8.658,64 EUR statt und wies das Mehrbegehren von 55,20 EUR ab. Weitere Schäden, die den Klägern zuzurechnen wären, könnten nicht festgestellt werden, da der Beklagte das Pachtobjekt nach Beendigung des Bestandverhältnisses verkaufte und die von ihm bemängelten Umstände auf den Kaufpreis keinen Einfluss hatten.
+Das Berufungsgericht bestätigte diese Entscheidung und ließ nachträglich die Revision zu, weil zur Frage, ob § 1111 ABGB dem Bestandgeber auch dann einen Schadenersatzanspruch in Bezug auf die Kosten der Wiederherstellung und der damit zusammenhängenden weiteren Vermögensschäden gewähre, wenn das Pachtobjekt nach Beendigung des Bestandverhältnisses verkauft wurde und die Mängel auf den Kaufpreis keinen Einfluss hatten, keine höchstgerichtliche Rechtsprechung bestehe.
+Die Revision des Beklagten, mit welcher er die vollinhaltiche Klagsabweisung begehrt, ist ungeachtet des  (den Obersten Gerichtshof nicht bindenden) Zulassungsausspruchs des Berufungsgerichts nicht zulässig.
+Rechtliche Beurteilung
+1.1. Der Schadenersatzanspruch nach § 1111 ABGB richtet sich in erster Linie auf Naturalrestitution; jedenfalls nach Rückstellung des Bestandobjekts besteht der Anspruch auf Geldersatz (RIS-Justiz RS0020636).
+1.2. Ein Schadenersatzanspruch kann einerseits subjektiv-konkret, andererseits objektiv-abstrakt berechnet werden:
+1.2.1. Bei subjektiv-konkreter Berechnung sind alle Auswirkungen und damit auch tatsächliche Entwicklungen nach Eintritt des schädigenden Ereignisses auf das Vermögen des Geschädigten zu beachten (RIS-Justiz RS0030119; RS0030138; RS0030273). Im Rahmen einer solchen Betrachtung hat der Schädiger den Geschädigten grundsätzlich so zu stellen, wie er „heute“ ohne das schädigende Ereignis stünde, wobei der maßgebliche Vergleichszeitpunkt – in der Regel – der Schluss der mündlichen Verhandlung erster Instanz ist (RIS-Justiz RS0030153 [T35]; 7 Ob 161/14y).
+1.2.2. Bei Untunlichkeit oder Unmöglichkeit der Wiederherstellung besteht ein Anspruch auf Ersatz des gemeinen Werts bzw der objektiven Wertminderung (1 Ob 74/09b). Diese Voraussetzung ist hier zufolge Weiterverkaufs der Liegenschaft grundsätzlich gegeben (vgl 10 Ob 51/15w [I.2.3] mwN).
+1.2.3. Steht dem Geschädigten ein Anspruch auf Ersatz des gemeinen Werts zu, handelt es sich aber nicht um eine subjektiv-konkrete, sondern um eine objektiv-abstrakte Berechnung (vgl RIS-Justiz RS0030108; RS0030119).
+1.2.4. Bei einer solchen Berechnung ist grundsätzlich der Zeitpunkt der Beschädigung (RIS-Justiz RS0022715), konkret bei § 1111 ABGB der Zeitpunkt der Rückstellung des Bestandobjekts (RIS-Justiz RS0020746) maßgebend. Bei abstrakter Berechnung ist zudem unerheblich, ob der Geschädigte die Sache nach Eintritt des Schadens veräußert hat und welchen Erlös er dafür erzielte (5 Ob 275/06m; 8 Ob 652/92; 1 Ob 358/98y; RIS-Justiz RS0030369; RS0030329; vgl auch RS0030285 [T1]; zum merkantilen Minderwert: RS0030400; RS0030381; 7 Ob 187/18b). Abzustellen ist auf die Differenz des gemeinen Werts der Sache (RIS-Justiz RS0030119), die nach überwiegender Rechtsprechung selbst dann zuzusprechen ist, wenn das subjektiv berechnete Interesse geringer wäre (RIS-Justiz RS0030075).
+2.1. Auch bei rechtlicher Sonderverbindung zwischen Schädiger und Geschädigtem hat der Geschädigte den Eintritt des behaupteten Schadens, dessen Höhe und den Kausalzusammenhang zwischen dem Verhalten des Schädigers und dem Schadenseintritt zu behaupten und zu beweisen (RIS-Justiz RS0022862).
+2.2. Im konkreten Fall hat der Beklagte keine objektive Wertminderung des Bestandobjekts behauptet. Die in der Revision gerügten sekundären Feststellungsmängel beziehen sich auf vom Sachverständigen ermittelte Kosten einer Rückgängigmachung einzelner Änderungen. Jedenfalls in einem Fall wie dem hier vorliegenden, in dem Veränderungen an einem verpachteten Gebäude zu beurteilen sind, bezieht sich der Ersatzanspruch aber auf eine allfällige objektive Wertminderung am gesamten Bestandobjekt (vgl RIS-Justiz RS0123734). Eine solche liegt hier – anders als bei der Zerstörung oder Beschädigung einer Sache – nicht derart nahe, dass sie ohne Behauptung des für den Eintritt und die Höhe des Schadens beweisbelasteten (RIS-Justiz RS0022862) Beklagten zu prüfen gewesen wäre.
+2.3. Damit zeigt der Revisionswerber keine erhebliche Rechtsfrage auf. Die Revision ist daher mangels erheblicher Rechtsfrage iSd § 502 Abs 1 ZPO zurückzuweisen.
+3. Die Kostenentscheidung beruht auf den §§ 41, 50 ZPO. Die Kläger haben in der Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen, sodass diese der zweckentsprechenden Rechtsverteidigung diente (RIS-Justiz RS0112296; RS0035962; RS0035979).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124464

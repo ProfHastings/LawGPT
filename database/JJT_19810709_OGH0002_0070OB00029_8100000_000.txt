@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.07.1981
+Geschäftszahl
+7Ob29/81
+Norm
+VersVG §69;
+VersVG §70;
+Kopf
+SZ 54/102
+Spruch
+Versicherungsverträge über Liegenschaften können vom Erwerber nicht vor Überreichung des Grundbuchsgesuches wirksam gekundigt werden
+OGH 9. Juli 1981, 7 Ob 29/81 (LGZ Wien 45 R 843/80; BG Hernals 4 C 262/80)
+Text
+Klagsgegenstand sind Prämien aus Feuerversicherungen einer Betriebsliegenschaft für die Zeit vom 1. August 1979 bis 31. Jänner 1980. Die Beklagte bestreitet diesen Klagsanspruch, weil sie die Liegenschaft bereits zum erstgenannten Zeitpunkt verkauft und die Käuferin die Versicherung aufgekundigt habe.
+Der Erstrichter wies das Klagebegehren ab. Nach seinen Feststellungen hatten die Streitteile am 15. Jänner 1979 eine Ratenzahlung der strittigen Versicherung ab Jänner 1979 vereinbart. Die Beklagte verkaufte dann die Liegenschaft am 1. August 1979 an die Ing. D GesmbH und vereinbarte mit ihr, daß die Liegenschaft zum genannten Zeitpunkt "in wirtschaftlicher Hinsicht übergeben" werde. Die Käuferin kundigte die Feuerversicherungsverträge mit Schreiben vom 27. Juli 1979, die bei der Klägerin am 1. August 1979 einlangten. Da aber das Verkaufsgeschäft nicht im Grundbuch aufschien, wies die Klägerin die Kündigung mit Schreiben von 23. August 1979 zurück. Erst im Feber 1980 wurde das Eigentumsrecht der Käuferin grundbücherlich einverleibt. Die Klägerin hat daraufhin am 25. Feber 1980 die Versicherungsverträge storniert.
+Nach der Rechtsansicht des Erstgerichtes laufe die Frist für die Erwerberkündigung nach § 70 Abs. 2 lit. c VersVG ab dem gleichen Zeitpunkt, zu dem nach § 61 Abs. 2 VersVG der Erwerber eines versicherten Objektes mit Abschluß des Veräußerungsgeschäftes in die Rechte und Pflichten aus dem Versicherungsverhältnis eintrete.
+Das Berufungsgericht gab der Berufung der klagenden Partei Folge und änderte das Ersturteil im Sinne der Klage ab. Es übernahm zwar die Feststellungen des Erstrichters als Ergebnis einer zutreffenden Beweiswürdigung und eines mängelfreien Verfahrens, vertrat aber unter Hinweis auf die Entscheidung des OGH 7 Ob 6/80 (SZ 53/47) die Rechtsansicht, daß der Erwerber das Versicherungsverhältnis erst ab Zustellung des Bewilligungsbeschlusses kundigen könne.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Hinweis des Berufungsgerichtes auf die Entscheidung 7 Ob 6/80 =
+SZ 53/47 = EvBl. 1980/120, trifft allerdings nicht den Kern der
+Sache, weil dort die Frage zu entscheiden war, ob der Erwerber das Versicherungsverhältnis schon innerhalb eines Monats ab dem Grundbuchsgesuch kundigen müsse, und die Rechtsfrage offen gelassen wurde, ab wann der Erwerber kundigen könne. Andererseits ist zwar die Rechtsansicht der Revisionsgegnerin richtig, daß der Veräußerer die Prämie für die laufende Versicherungsperiode ungeachtet vereinbarter Raten noch zu zahlen hat (§ 69 Abs. 2, § 70 Abs. 3 VersVG); es fehlt aber eine Feststellung, daß die strittigen Forderungen zur Gänze noch auf die laufende Versicherungsperiode entfielen.
+Das Berufungsgericht hat aber zutreffend erkannt, daß die Veräußerung einer versicherten Sache im Sinne des § 69 VersVG mit der Folge des Kündigungsrechtes des Erwerbers nach § 70 Abs. 2 VersVG bei verbücherten unbeweglichen Sachen die Verbücherung voraussetzt, weil erst damit das Eigentum, auf dessen Dauer § 89 Abs. 1 VersVG ausdrücklich abstellt, erworben wird (§ 431 ABGB); das ist im Gegensatz zur früheren Rechtslage (vgl. SZ 13/147) nun unbestritten (Ehrenzweig,
+Deutsches/Österreichisches/Versicherungsrecht, 229 f., 234 f.; Bruck - Möller - Sieg, VVG[8] II, 843; Prölss - Martin, VVG[22], 429). Fraglich blieb, wie in der Entscheidung EvBl. 1980/120 näher dargestellt wurde, bloß die Bedeutung der Zeitverschiebung zwischen dem Einlangen des Grundbuchsgesuches und der Zustellung der Erledigung. Diese Frage ist aber im vorliegenden Fall ohne Bedeutung, weil die beklagte Partei nicht einmal behauptet hat, daß im Zeitpunkt der vom Erwerber ausgesprochenen Kündigung (viele Monate vor der grundbücherlichen Eintragung seinen Eigentumsrechtes) ein Grundbuchsgesuch bereits überreicht gewesen wäre. Die Kündigung war demnach verfrüht und unwirksam (Bruck - Möller - Sieg a.a.O. 876; Prölss - Martin a.a.O., 434; SZ 32/151 u.a.).

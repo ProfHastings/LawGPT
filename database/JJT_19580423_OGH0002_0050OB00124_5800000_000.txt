@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.04.1958
+Geschäftszahl
+5Ob124/58
+Norm
+ABGB §1095;
+ABGB §1120;
+Liegenschaftsteilungsgesetz §3 Abs2;
+Kopf
+SZ 31/65
+Spruch
+§ 3 Abs. 2 LiegTeilG. ist auf verbücherte Bestandrechte nicht anwendbar
+Entscheidung vom 23. April 1958, 5 Ob 124/58.
+I. Instanz: Bezirksgericht Oberwart; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Gemeinde H. veräußerte von der ihr gehörigen Grundparzelle Nr. 318 EZ. 325 eine Fläche von 39 m2 und von der Grundparzelle Nr. 319 EZ. 627 eine Fläche von 2 m2 an die Genossenschaftsmolkerei O. In EZ. 325 ist an bestimmten, im § 1 des Mietvertrages bezeichneten Räumlichkeiten zugunsten der Republik Österreich (Landesgendarmeriekommando für das Burgenland) das Bestandrecht einverleibt.
+Das Erstgericht bewilligte die Abschreibung des neu gebildeten Grundstückes Nr. 818/2 Baufläche im Ortsried von der EZ. 325 und die Eröffnung der neuen EZ. 712, ohne das Bestandrecht mitzuübertragen.
+Das Rekursgericht wies den Antrag der Genossenschaftsmolkerei O. auf Abschreibung und Eigentumseinverleibung ab.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Antragstellerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 3 Abs. 1 GBG. 1955 ist der Grundbuchskörper als ein Ganzes zu behandeln. Darum bestimmt auch § 3 Abs. 1 LiegTeilG., daß zur Abschreibung einzelner Bestandteile eines Grundbuchskörpers die Zustimmung der Buchberechtigten erforderlich ist, wenn die Rechte der Buchberechtigten nicht mitübertragen werden. Eine Ausnahme enthält Abs. 2 dieser Gesetzesstelle nur für Grunddienstbarkeiten, wenn sie auf bestimmte räumliche Grenzen beschränkt sind. Bestandrechte sind obligatorische Rechte; durch die Verbücherung nehmen sie die Natur einer persönlichen Dienstbarkeit an; sie sind aber keine Grunddienstbarkeiten. Eine ausdehnende Auslegung ist im Hinblick auf den klaren und eindeutigen Wortlaut dieser Gesetzesstelle nicht möglich.
+Das Bestandrecht kann sich auf bestimmte Räumlichkeiten des in der Einlage enthaltenen Gebäudes beziehen, das Recht haftet aber immer auf dem ganzen Grundbuchskörper. Von einer durch Vertrag eingeräumten Sicherstellung kann der Eigentümer des dienenden Grundstückes nicht abgehen; ebensowenig ist der Grundbuchsrichter in der Lage, ohne Vertrag oder richterlichen Spruch die lastenfreie Abschreibung eines Trennstückes zu bewilligen. Zutreffend weist das Rekursgericht darauf hin, daß Bestandrechte gemäß §§ 150 und 227 EO. Anspruch auf Entschädigung aus dem Erlös des ganzen Grundbuchskörpers geben und daher die Abschreibung einzelner Trennstücke ohne Mitübertragung dieser Rechte zu einer Minderung des Verkaufserlöses und damit zu einer Beeinträchtigung der Rechte des Buchberechtigten führen könnte.

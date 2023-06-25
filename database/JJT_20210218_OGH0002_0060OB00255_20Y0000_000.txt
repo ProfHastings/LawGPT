@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.02.2021
+Geschäftszahl
+6Ob255/20y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden sowie die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny und Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei M*****, vertreten durch Univ.-Prof. Dr. Max Leitner (SFU) und Dr. Mara-Sophie Häusler, L.L.M., Rechtsanwälte in Wien, gegen die beklagte Partei R***** AG, *****, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH in Wien, und deren Nebenintervenientin C***** GmbH in Liquidation, *****, vertreten durch Wess Kux Kispert & Eckert Rechtsanwalts GmbH in Wien, wegen 29.246,79 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. August 2020, GZ 3 R 38/20k-44, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Bei der Frage des Ausmaßes der Erkundungspflicht des Geschädigten über den die Verjährungsfrist auslösenden Sachverhalt kommt es immer auf die Umstände des Einzelfalls an (RS0113916).
+[2] 		2.1. Die Auffassung des Berufungsgerichts, hinsichtlich der Verjährung sei das Unterbleiben einer erforderlichen Aufklärung über „Weichkosten“ im Verhältnis zum Risiko des Totalverlusts grundsätzlich nicht als eigener abgrenzbarer Aufklärungsfehler zu qualifizieren, weil erhebliche „Weichkosten“ die Werthaltigkeit des Investments beeinflussen, steht im Einklang mit der ständigen Rechtsprechung (6 Ob 118/16w; 4 Ob 94/17b; 7 Ob 95/17x; 4 Ob 8/18b). Bei dem Hinweis auf „Weichkosten“ handelt es sich vielmehr bloß um einen – keine eigene Verjährungsfrist auslösenden – Teilaspekt des Totalverlustrisikos (4 Ob 8/18b mwN).
+[3] 		2.2. Der Oberste Gerichtshof hat auch bereits darauf hingewiesen, dass dies – entgegen der von der Klagevertreterin in einer Publikation vertretenen Auffassung (Häusler, ecolex 2018, 12 ff) – nicht eine verjährungsrechtliche Unterscheidung in Aufklärungsfehler mit eigener und solche ohne eigene Verjährungsfrist bedeutet, sondern dass auch dieser Aspekt der Werthaltigkeit jedenfalls dann verjährt ist, wenn Natur der Veranlagung oder die Wertlosigkeit der Investition insgesamt nicht mehr releviert werden könne (4 Ob 94/17b).
+[4] 		2.3. Anderes würde nur in dem Sonderfall des „Ausschüttungsschwindels“ gelten, wenn der Anleger bereits über die Qualität der Ausschüttung als solche getäuscht und zur Annahme verleitet wurde, er enthalte eine Verzinsung des eingesetzten Kapitals (vgl 4 Ob 164/17x mwN). Diese Sonderkonstellation liegt im vorliegenden Fall jedoch gerade nicht vor, wurde die Klägerin doch ausdrücklich darauf hingewiesen, dass die Ausschüttung „ganz oder teilweise Rückzahlungen aus der geleisteten Einlage enthalten“ könne und dass es sich dabei nicht um Kapitalverzinsungen handle (vgl Beilagen ./61, ./66, und ./74).
+[5] 		2.4. Der Revisionswerberin ist zuzugeben, dass der Oberste Gerichtshof einmal obiter die Entscheidung 6 Ob 118/16w als von der Rechtsprechung „abweichend“ und „vereinzelt“ bezeichnet hat (2 Ob 172/17h). Zu diesem Punkt enthält die Entscheidung des zweiten Senats allerdings keine näheren Ausführungen, weil dort die Rechtsrüge als nicht gesetzmäßig ausgeführt angesehen wurde. Zwischenzeitlich haben sich zudem – wie ausgeführt – weitere Senate der Auffassung des erkennenden Senats angeschlossen.
+[6] 		3. Es entspricht auch ständiger Rechtsprechung, dass die Aufklärung über das Totalverlustrisiko die Aufklärung über die Rückforderbarkeit von „aus der Substanz“ geleisteten „Gewinnausschüttungen“ nach deutschem Handelsrecht mit umfasst (5 Ob 133/15t; 6 Ob 193/15y).
+[7] 		4. Zusammenfassend bringt die Revision daher keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00255.20Y.0218.000

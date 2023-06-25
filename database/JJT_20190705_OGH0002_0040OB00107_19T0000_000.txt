@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.2019
+Geschäftszahl
+4Ob107/19t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Mag. H* S*, vertreten durch Dr. Johannes Olischar MBA, Rechtsanwalt in Wien, gegen die beklagte Partei Z* M*, vertreten durch die Kronberger Rechtsanwälte GmbH in Wien, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 3. April 2019, GZ 40 R 268/18k-71, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1.1. Ein erheblich nachteiliger Gebrauch des Mietgegenstands iSd § 30 Abs 2 Z 3 erster Fall MRG liegt vor, wenn durch eine wiederholte, länger währende vertragswidrige Benützung des Bestandobjekts – oder durch eine längere Reihe von Unterlassungen notwendiger Vorkehrungen (RIS-Justiz RS0021148) – eine erhebliche Verletzung der Substanz des Mietgegenstands erfolgte oder auch nur droht (RS0068076; RS0067832; RS0020940 [T6]; RS0020981; RS0102020; RS0067939), oder wenn durch das nachteilige Verhalten des Mieters wichtige wirtschaftliche oder persönliche Interessen des Vermieters oder der anderen Mieter gefährdet werden (RS0020940 [T11]; RS0021031; RS0070348).
+Dies kann gegeben sein, wenn ein Mieter – wie hier – eine Dusche ohne baubehördliche Bewilligung unsachgemäß ohne ausreichende Feuchtigkeitsisolierung durch nichtbefugte Gewerbsleute installiert (vgl RS0070359).
+1.2. § 30 Abs 2 Z 3 erster Fall MRG soll die Möglichkeit für die Auflösung des Bestandverhältnisses bieten, weil das für sein Weiterbestehen erforderliche Vertrauen weggefallen ist. Grundlage für einen Auflösungsanspruch ist daher, dass sich der Mieter so vertragswidrig verhalten haben muss, dass er nicht mehr vertrauenswürdig ist (7 Ob 199/11g mwN; RS0020867; vgl RS0020981 [T14, T17]). Ein Verschulden des Mieters ist nicht erforderlich; es genügt, dass er sich des nachteiligen Verhaltens bewusst war oder bewusst sein musste, wobei der Maßstab eines durchschnittlichen Mieters zugrunde zu legen ist (RS0070433 [T1, T5]; RS0070243 [insb T1, T4]; RS0020981 [zu § 1118 ABGB]). Für die Verwirklichung des Kündigungsgrundes ist es weiters erforderlich, dass der Mieter den erkannten oder erkennbaren erheblich nachteiligen Gebrauch bewusst fortsetzt (RS0067957).
+1.3. Damit im Zusammenhang steht die Rechtsprechung des Obersten Gerichtshofs, wonach der Mieter für das Fehlverhalten eines von ihm zur Durchführung von Arbeiten herangezogenen Fachmanns nur dann einzustehen hat, wenn er die Unfähigkeit oder die Fehlleistung des Fachmanns erkennen hätte müssen. Ein durchschnittlich vertrauenswürdiger Mieter wird sich zur Durchführung solcher Arbeiten eines entsprechenden Fachmanns bedienen; das ausnahmsweise Fehlen der erforderlichen Kenntnisse und der notwendigen Aufmerksamkeit bei diesem Fachmann kann ihm regelmäßig nicht vorgeworfen werden (7 Ob 199/11g mwN; RS0020881).
+Insbesondere wer sich für Umbauarbeiten nicht befugter Gewerbsleute bedient, muss demnach alles vorkehren, damit keine Schäden an der Substanz entstehen; treten Schäden auf, muss er sofort Abhilfe schaffen (RS0103639).
+1.4. Maßgeblich für die Beurteilung, ob ein geltend gemachter Kündigungsgrund verwirklicht wird, ist der Zeitpunkt der Zustellung der Aufkündigung (RS0041219; RS0063244; RS0070282; RS0070378; RS0069693; RS0044892).
+1.5. Ob ein erheblich nachteiliger Gebrauch anzunehmen ist und dies dem Mieter auch bewusst sein musste, hängt von den Umständen des Einzelfalls ab (RS0021018; RS0068103; 8 Ob 96/04g), deren rechtliche Würdigung vom Obersten Gerichtshof nicht zu überprüfen ist, außer es läge eine auffallende und im Interesse der Rechtssicherheit zu korrigierende Fehlbeurteilung der Zumutbarkeit einer Fortsetzung des Bestandverhältnisses vor (RS0113693).
+2.1. Das Berufungsgericht ist von den geschilderten Grundsätzen der Rechtsprechung nicht abgewichen. Es vertrat die Auffassung, dass dem aus dem Grund des § 30 Abs 2 Z 3 erster Fall MRG gekündigten Mieter unter den konkreten Umständen des Einzelfalls sein nachteiliges Verhalten durch Einbau einer Dusche ohne Feuchtigkeitsisolierung – vor 16 Jahren und ohne dass es seither Schäden gegeben habe – weder erkennbar noch bewusst gewesen sein hat müssen, zumal er bei deren Herstellung Fachleute beschäftigt hätte. Dies ist im Lichte der Rechtsprechung zumindest vertretbar (vgl nochmals 8 Ob 96/04g).
+Mit dem nicht auf dem Boden der Rechtsprechung stehenden Argument, bereits die Durchführung von Umbauarbeiten durch andere als befugte Gewerbsleute sei als Verwirklichung des Kündigungsgrundes anzusehen, zeigt der Revisionswerber keine erhebliche Rechtsfrage auf.
+2.2. Mit der Behauptung, dass auch bei Räumen mit Belüftung nach außen Schimmelbildung kaum ausgeschlossen werden könne, umso mehr drohe konkret eine solche Schimmelbildung in einem weiteren vom Beklagten durch Abteilung geschaffenen Raum ohne direkte Belüftung, geht der Revisionswerber nicht vom festgestellten Sachverhalt aus.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E125686

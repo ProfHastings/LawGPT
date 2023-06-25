@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.02.1970
+Geschäftszahl
+5Ob40/70
+Norm
+ZPO §30;
+ZPO §37;
+Kopf
+SZ 43/52
+Spruch
+Im Berufungsverfahren kann der Nachweis der Bevollmächtigung nach § 30 ZPO nicht durch den Hinweis auf eine Vollmacht, die bei den Akten eines anderen Gerichts erliegt, mag dies auch das Prozeßgericht sein, erbracht werden; auch die amtswegige Beischaffung einer solchen Vollmacht kommt nicht in Betracht
+OGH 25. Februar 1970, 5 Ob 40/70 (OLG Wien 2 R 236/69; HG Wien 14 Cg 80/69)
+Text
+In der ersten Tagsatzung am 20. Februar 1969 wies RA Dr K seine Bevollmächtigung durch die Beklagte durch Bezugnahme auf eine zu 14 Cg 856/68 des HG Wien erliegende Vollmacht nach. In der Folge brachte er keine weitere Beurkundung seiner Bevollmächtigung mehr bei, auch nicht anläßlich der Erhebung der Berufung gegen das Ersturteil. Mit Beschluß des Erstgerichts vom 17. Oktober 1969 wurde er daraufhin aufgefordert, zwecks Rechtsmittelvorlage eine Vollmacht innerhalb von 5 Tagen vorzulegen.
+Nach fruchtlosem Ablauf dieser Frist legte das Erstgericht die Berufung unter Anschluß der Akten dem Berufungsgericht vor.
+Das Berufungsgericht wies die Berufung mangels Nachweises der Bevollmächtigung gem § 37 Abs 1 ZPO zurück. Der Mangel der Vollmacht sei in jeder Lage des Rechtsstreits zu berücksichtigen. Die Beklagte sei zwar im Verfahren vor dem Erstgericht ordnungsgemäß vertreten gewesen, doch habe Dr K seine Bevollmächtigung dem Berufungsgericht gegenüber nicht nachgewiesen.
+Der Oberste Gerichtshof gab dem Rekurs der Beklagten, welchem eine neue, allerdings nicht datierte Vollmacht angeschlossen war, nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Beklagte stellt nicht in Abrede, daß die ihrem Vertreter zur Beibringung seiner Vollmacht gesetzte Frist nicht eingehalten wurde, beruft sich aber neuerlich auf die in den Akten 14 Cg 856/68 des Erstgerichts erliegende Vollmacht und vertritt die Meinung, die beim Erstgericht eingebrachte Berufung sei durch diese Vollmacht "gedeckt".
+Gem § 30 Abs 1 ZPO haben Rechtsanwälte und sonstige Bevollmächtigte bei der ersten von ihnen in einer Streitsache vorgenommenen Prozeßhandlung ihre Bevollmächtigung durch eine Urkunde (Vollmacht) darzutun, die in Urschrift oder beglaubigter Abschrift vorzulegen ist und bei Gericht zurückbehalten werden kann. Es entspricht der Gerichtspraxis, daß dieser Nachweis der Bevollmächtigung auch durch Bezugnahme auf eine in anderen Akten desselben Gerichts erliegende Vollmachtsurkunde als erbracht angesehen werden kann, wobei das Vorhandensein der Vollmacht vom Gericht von Amts wegen zu überwachen ist (Neumann, Komm z d ZPG[4] I 499; Fasching, Komm z d ZPG II 263; GlUNF 7428). Für das Prozeßgericht bestand also, solange das Verfahren bei ihm anhängig war, kein Grund, weitere Vollmachtsurkunden abzufordern. Anders verhält sich aber die Sache, sobald das Verfahren bei einem anderen Gericht anhängig werden soll. Wird dem Berufungsgericht die Vollmacht nicht gem § 30 Abs 1 ZPO vorgelegt und kann sich die Partei auch nicht auf eine bei diesem Gericht, also beim Berufungsgericht, in einem anderen Akt erliegende Vollmacht berufen, so tritt der in § 37 Abs 1 ZPO vorgesehene Mangel der Vollmacht ein, der in jeder Lage des Verfahrens von Amts wegen zu berücksichtigen ist. Die Berufung auf eine Vollmacht, die bei den Akten eines anderen Gerichts erliegt, mag dies auch das Prozeßgericht sein, genügt nicht zum Nachweis der Bevollmächtigung vor dem Berufungsgericht. Eine Beischaffung einer solchen Vollmacht von Amts wegen ist mit § 30 Abs 1 ZPO nicht vereinbar (JBl 1936, 479).
+Mit Recht ist daher das Berufungsgericht von einem für den Bereich des Berufungsverfahrens vorliegenden Mangel der Bevollmächtigung ausgegangen.

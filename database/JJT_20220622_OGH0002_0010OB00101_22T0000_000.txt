@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.06.2022
+Geschäftszahl
+1Ob101/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. HR Dr. Bydlinski als Vorsitzenden sowie die Hofrätin und die Hofräte Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Ka*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG, Wien, gegen die beklagte Partei T* Limited, * Malta, *, vertreten durch die BRANDL TALOS Rechtsanwälte GmbH, Wien, wegen 15.022,07 EUR sA, über die Revision der beklagten Partei, gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 10. März 2022, GZ 11 R 35/22f-27, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 9. Dezember 2021, GZ 9 Cg 87/21m-21, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte verfügte jedenfalls in dem für dieses Verfahren relevanten Zeitraum über keine Konzession nach dem österreichischen Glücksspielgesetz. Dennoch bot sie auf ihrer Website auch in Österreich die Teilnahme an verschiedenen Glücksspielen an. Der Kläger nützte dieses Angebot als Verbraucher und ausschließlich von Österreich aus. Bei der Registrierung des Spielerkontos akzeptierte er unter anderem die damals gültigen AGB der Beklagten. Er verlor im Zeitraum von 23. 3. 2013 bis 12. 11. 2020 – überwiegend bei Online-Pokerspielen – insgesamt 15.022,07 EUR.
+[2] 		Das Berufungsgericht bestätigte die Entscheidung des Erstgerichts, mit der es den Anspruch des Klägers auf Rückzahlung seines Spieleinsatzes für berechtigt erkannte, feststellte, dass von der Beklagten erhobene Gegenforderungen nicht zu Recht bestehen, und diese zur Zahlung des Klagebetrags verurteilte. Da die Durchführung einer Ausspielung ohne Konzession verboten sei, sei der Kläger berechtigt, die ungerechtfertigte Bereicherung der Beklagten zurückzufordern. Die Revision erklärte es für zulässig, weil keine höchstgerichtliche Rechtsprechung zur Frage vorliege, ob der Betreiber von verbotenen Online-Pokerspielen, der Einsätze entgegennehme und abzüglich einer Provision an Gewinner auszahle, aus dem Rechtsgrund der ungerechtfertigten Bereicherung passiv legitimiert sei.
+[3] 		Die (vom Kläger nicht beantwortete) Revision ist entgegen dem Ausspruch des Berufungsgerichts, an den der Oberste Gerichtshof nicht gebunden ist (§ 508a Abs 1 ZPO), nicht zulässig. Das ist kurz zu begründen:
+Rechtliche Beurteilung
+[4] 		1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage entfällt, wenn sie durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RS0112921 [T5]).
+[5] 		2. Der Oberste Gerichtshof hat in den  Entscheidungen zu 6 Ob 229/21a und 6 Ob 207/21s die bereicherungsrechtliche Passivlegitimation der (auch hier) Beklagten bejaht, weil sie die Empfängerin der Leistungen des Klägers war. Auch ein späterer Wegfall eines einmal eingetretenen Nutzens (durch Auszahlung von Gewinnen an andere) befreie den Bereicherungsschuldner nicht.
+[6] 		3. In der Entscheidung zu 4 Ob 229/21m schloss sich der 4. Senat dieser Rechtsansicht an und wies eine im Wesentlichen inhaltsgleiche Revision der Beklagten zurück, weil zu den als erheblich angesehenen Rechtsfragen bereits Entscheidungen des Obersten Gerichtshofs vorlagen. Dass die Feststellungen im vorliegenden Fall nicht wortgleich den Sachverhalten in den durch den Obersten Gerichtshof bereits entschiedenen Fällen entsprechen mögen, kann entgegen der Ansicht der Beklagten in ihrer Revision keine abweichende Beurteilung rechtfertigen. Wie zu 6 Ob 229/21a steht auch im vorliegenden Fall fest, dass der Kläger auf der Webseite der Beklagten ein Spielerkonto einrichtete, was – ebenso wie ein Spielguthaben – Voraussetzung für seine Teilnahme an den von ihr angebotenen Online-Glücksspielen war. Gewinne und Verluste, welche durch die Teilnahme entstanden, wurden  mit dem Spielerkonto verrechnet. Die Beklagte kann nicht schlüssig darlegen, aus welchen tatsächlichen Gründen die Frage ihrer bereicherungsrechtlichen Passivlegitimation anders zu beurteilen wäre.
+[7] 		4. Das Urteil des Berufungsgerichts steht mit den in der Rechtsprechung des Obersten Gerichtshofs zu den als erheblich erachteten Rechtsfragen nunmehr vertretenen Grundsätzen in Einklang. Fragen im Sinn des § 502 Abs 1 ZPO kann die Beklagte mit ihren Revisionsausführungen nicht aufzeigen (so schon 1 Ob 86/22m zu einer weiteren im Wesentlichen inhaltsgleichen Revision der Beklagten).
+[8] 		5. Einer weiteren Begründung bedarf es nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00101.22T.0622.000

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.06.1950
+Geschäftszahl
+2Ob283/50
+Norm
+ABGB §986;
+ABGB §1413;
+EO §7;
+EO §54;
+Kopf
+SZ 23/185
+Spruch
+Die im Exekutionsantrage vorgenommene Umrechnung des für eine Forderung in ausländischer Währung einzutreibenden Betrages in inländische Währung schließt eine Befriedigung des Gläubigers zu einem anderen als dem der Umrechnung zugrunde gelegten Kurs nicht aus.
+Entscheidung vom 3. Juni 1950, 2 Ob 283/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Auf der im Eigentum der verpflichteten Partei stehenden Liegenschaft ist auf Grund eines notariellen Schuldscheines das Pfandrecht für die Darlehensforderung der betreibenden Partei in der Höhe von 1500 US-Dollar samt 8% Zinsen und 12% Verzugs- und Zinseszinsen sowie für eine Nebengebührensicherstellung in der Höhe von 150 US-Dollar einverleibt. Die betreibende Partei hat hinsichtlich der seit dem 1. Juli 1938 rückständigen Zinsen und Zinseszinsen, die sie mit 1301.11 Dollar errechnet hat, die Exekution durch Zwangsverwaltung der Liegenschaft beantragt und hiebei bemerkt, daß die 1301.11 Dollar nach dem amtlichen Kurs 13.011.10 S seien. Der mit dem 16. August 1949 datierte Exekutionsantrag ist am 2. September 1949 überreicht worden.
+Das Erstgericht hat der betreibenden Partei zur Hereinbringung der vollstreckbaren Zinsenrückstände seit 1. Juli 1938 im Betrage von 1301.11 Dollar, das sind 13.011.10 S, und der Kosten die begehrte Zwangsverwaltung bewilligt.
+Das Rekursgericht hat auf Grund eines Rekurses der betreibenden Partei den Beschluß dahin abgeändert, daß die Worte "das sind 13.011.10 S" zu entfallen haben.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der verpflichteten Partei nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da bei der Bezahlung einer auf ausländische Währung lautenden Schuld in inländischer Währung die Umrechnung nach dem Kurs des Zahlungstages zu erfolgen hat (SZ. I/13), kam der Berechnung des Dollarbetrages im Exekutionsantrage, der der damalige amtliche Kurs zugrunde gelegen war, nur für die Gebühren und Kosten Bedeutung zu, sie konnte jedoch nicht bereits den Betrag endgültig festsetzen, mit dem die Forderung der betreibenden Partei zur Befriedigung gelangen wird. Auch die dem Exekutionsantrag angeschlossene Bewilligung der Oesterreichischen Nationalbank vom 11. August 1949 bestimmte, daß der in Exekution gezogene Dollarbetrag zum amtlichen Wiener Mittelkurs an dem der Zahlung vorausgehenden Werktag umzurechnen sei. Durch die Aufnahme des von der betreibenden Partei errechneten Schillingbetrages in den Exekutionsbewilligungsbeschluß blieb unberücksichtigt, daß es sich um eine effektive Dollarschuld handelt; das Rekursgericht hat daher mit Recht den Schillingbetrag aus dem Bewilligungsbeschluß entfernt.

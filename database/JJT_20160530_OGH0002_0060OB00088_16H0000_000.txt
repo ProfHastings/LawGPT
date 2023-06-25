@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.05.2016
+Geschäftszahl
+6Ob88/16h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei H***** H*****, vertreten durch Dr. Christoph Schneider, Rechtsanwalt in Bludenz, gegen die beklagte Partei L***** K*****, vertreten durch Dr. Michael Battlogg, Rechtsanwalt in Schruns, wegen Aufhebung eines Vertrags und Löschung (Streitwert 31.000 EUR) über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 16. Februar 2016, GZ 1 R 102/15g-31, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung ist der listig Irregeführte für die Tatbestandsvoraussetzungen des § 870 ABGB beweispflichtig (RIS-Justiz RS0014792). Dies gilt auch für die Frage, ob ein für die Willensbildung erheblicher Umstand verschwiegen wurde (1 Ob 1538/95; 3 Ob 205/10h Erwägungsgrund 3.3; 10 Ob 84/15y Erwägungsgrund 4).
+2.1. Gemäß § 482 Abs 2 ZPO dürfen neue Beweise im Berufungsverfahren nur zur Dartuung oder Widerlegung der Berufungsgründe vorgebracht werden (vgl RIS-Justiz RS0105484). Im Fall der Beweiswiederholung bleibt der entscheidungserhebliche Sachverhalt und damit der Entscheidungsstoff unverändert; es soll nur seine Wertung geändert werden (RIS-Justiz RS0041961 [T2]). Auch wenn das Berufungsgericht eine Beweiswiederholung angeordnet hat, gilt das Neuerungsverbot (RIS-Justiz RS0041969). Wenn das Berufungsgericht die in einem Strafverfahren nach Schluss der mündlichen Verhandlung erster Instanz abgelegte Aussage des Zeugen N***** als im Sinne des § 482 Abs 2 ZPO unzulässige Neuerung qualifizierte, ist dies daher nicht zu beanstanden.
+2.2. Gegen das Neuerungsverbot bestehen auch keine verfassungsrechtlichen Bedenken, zumal der Klägerin für den Fall, dass der Zeuge im Zivilverfahren eine falsche Beweisaussage begangen hätte, die Wiederaufnahmsklage nach § 530 Abs 1 Z 2 ZPO offensteht, wobei die Klägerin im Fall ihres Obsiegens auch einen Anspruch auf Kostenersatz hätte.
+3. Dass die Einvernahme der Zeugin W***** bereits in erster Instanz unterblieben ist, kann nach ständiger Rechtsprechung mit Revision nicht geltend gemacht werden (RIS-Justiz RS0042963). Die Unterlassung von Kontrollbeweisen verwirklicht nicht den Revisionsgrund der Mangelhaftigkeit des Berufungsverfahrens (RIS-Justiz RS0043406, RS0040246). Die Frage der Aufnahme von Kontrollbeweisen, insbesondere über seinerzeitige Darstellungen von Vorgängen durch eine im Rechtsstreit als Zeugen oder Partei vernommene Person gegenüber anderen Personen, gehört in den Bereich der irrevisiblen Beweiswürdigung (6 Ob 524/85). Auch die Frage, ob Zeugen und Parteien einander gegenüberzustellen sind oder ob die Gegenüberstellung mit Rücksicht auf Klarheit, Bestimmtheit und Unzweideutigkeit einer der beiden Aussagen unterbleiben kann, fällt ausschließlich in das Gebiet der Beweiswürdigung (RIS-Justiz RS0040529, RS0043262).
+4. Soweit die Revisionswerberin einen Verfahrensmangel des Berufungsverfahrens im Unterbleiben von Erörterungen erblickt, ist entgegenzuhalten, dass sie nicht konkret darlegt, was sie bei einer solchen Erörterung ergänzend vorgebracht hätte (vgl RIS-Justiz RS0037095 [T6, T14, T16]) bzw dieses Vorbringen keine relevante Fehlbeurteilung aufzeigt (vgl auch oben 3.).
+5. Zur Frage, wann der Kaufvertrag unterfertigt wurde, hat das Berufungsgericht auch in Auseinandersetzung mit der diesbezüglichen Beweisrüge eine ausdrückliche Feststellung getroffen. Der Sachverhalt ist daher nicht weiter anfechtbar (vgl RIS-Justiz RS0069246).
+6. Zusammenfassend bringt die Revision keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass sie spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00088.16H.0530.000

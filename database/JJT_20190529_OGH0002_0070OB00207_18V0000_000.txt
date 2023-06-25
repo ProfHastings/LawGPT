@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2019
+Geschäftszahl
+7Ob207/18v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei G*****, vertreten durch Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Andreas Lintl, Rechtsanwalt in Wien, wegen Feststellung über die Revision der beklagten Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 3. Juli 2018, GZ 1 R 106/18m-18, mit dem das Urteil des Bezirksgerichts für Handelssachen Wien vom 1. Februar 2018, GZ 15 C 349/17h-12, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig der klagenden Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Zwischen den Parteien besteht ein Rechtsschutzversicherungsvertrag, dem die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2011) zugrunde liegen. Sie lauten auszugsweise wie folgt:
+„Art. 7
+Was ist vom Versicherungsvertrag ausgeschlossen?
+1. Sofern nichts anderes vereinbart ist, besteht kein Versicherungsschutz für die Wahrnehmung rechtlicher Interessen
+[...]
+1.14 in ursächlichem Zusammenhang mit der Anlage von Vermögen in Finanzinstrumenten gem. § 48a Z 3 Börsegesetz (Anhang) und der damit zusammenhängenden Beratung, Vermittlung und Verwaltung.
+[...]“
+Die Klägerin begehrt von der Beklagten Rechtsschutzdeckung für die klageweise Geltendmachung von Rückabwicklungsansprüchen im Zusammenhang mit dem von ihr nach § 165a VersVG erklärten Rücktritt gegenüber ihrem Lebensversicherer aufgrund fehlerhafter Belehrung über ihr Rücktrittsrecht.
+Rechtliche Beurteilung
+1. Die Revision der Beklagten ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung des Rechtsmittels kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+2. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen (7 Ob 254/18f; vgl RS0112921, RS0112769). Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt weg, wenn die bedeutsame Rechtsfrage durch eine Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RS0112921 [T5]).
+3. Dies ist hier der Fall. Der Oberste Gerichtshof hat bei vergleichbarer Bedingungslage zur Auslegung des Art 7.1.6 ARB 2008 bereits in seinen Entscheidungen 7 Ob 227/18k und 7 Ob 254/18f (RS0112256 [T32], RS0050063 [T88], RS0080068 [T5]) dargelegt, dass der Ausschlusstatbestand der Wahrnehmung rechtlicher Interessen in ursächlichem Zusammenhang mit der Anlage von Vermögen in „Finanzinstrumente gemäß § 48 Z 3 BörseG“ und der damit zusammenhängenden Beratung, Vermittlung und Verwaltung, vom durchschnittlich verständigen Versicherungsnehmer nur dahin verstanden werden kann, dass damit unmittelbar von ihm selbst in ein explizit in § 48a Abs 1 Z 3 BörseG angeführtes Finanzinstrument getätigte Vermögensanlagen gemeint sind. Als juristischer Laie unterstellt er den Abschluss eines – in § 48a Abs 1 Z 3 BörseG gerade nicht genannten – Lebensversicherungsvertrags keinem der dort genannten Finanzinstrumente. Ebenso wenig schließt er aus dem Umstand, dass im Zuge einer fondsgebundenen Lebensversicherung vom Versicherer (mittelbar) Veranlagungen seiner Prämien in Finanzinstrumente vorgenommen werden, darauf, dass dies als eine von ihm erfolgte Veranlagung verstanden werden könnte.
+4. Die Beurteilung des Berufungsgerichts, der von der Beklagten herangezogene Ausschluss des Art 7.1.14 ARB 2011 gelange aufgrund der gebotenen engen Auslegung nicht zur Anwendung, entspricht der oberstgerichtlichen Rechtsprechung. Auf den sekundären Risikoeinschluss kommt es daher nicht an.
+5. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO. Die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00207.18V.0529.000

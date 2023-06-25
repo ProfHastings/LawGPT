@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.06.1963
+Geschäftszahl
+3Ob96/63
+Norm
+EO §78;
+EO §88 (2);
+Grundbuchsgesetz 1955 §95 (1);
+Notariatsordnung §5 (1);
+ZPO §520 (1);
+Kopf
+SZ 36/90
+Spruch
+Auch im Exekutionsverfahren ist ein Notar nicht befugt, namens der Partei schriftliche Rekurse zu fertigen.
+Die Verbesserung des Rechtsmittels durch Nachbringung der Unterschrift eines Rechtsanwaltes ist im Verfahren zur Bewilligung einer zwangsweisen Pfandrechtsbegründung nicht zulässig.
+Entscheidung vom 21. Juni 1963, 3 Ob 96/63.
+I. Instanz: Bezirksgericht Scheibbs; II. Instanz: Kreisgericht St. Pölten.
+Text
+Das Erstgericht bewilligte auf die dem Verpflichteten gehörigen Liegenschaften und Liegenschaftshälften zur Hereinbringung des Betrages von 3854 S s. A. die Exekution durch zwangsweise Pfandrechtsbegründung.
+Das Rekursgericht wies den Exekutionsantrag hinsichtlich des Erstverpflichteten ab, den Rekurs der Zweitverpflichteten zurück, weil deren Vertreter keine Vollmacht vorgelegt habe. Gemäß § 95 (1) GBG. 1955 in Verbindung mit § 88 (2) EO. sei es unzulässig, die Verbesserung der Eingabe durch nachträgliche Vorlage der Vollmacht anzuordnen.
+Der Oberste Gerichtshof wies den Rekurs der Zweitverpflichteten gegen die Zurückweisung ihres Rekurses zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Vertreter der Verpflichteten ist nicht Rechtsanwalt, sondern Notar. Gemäß § 520 (1) ZPO. in Verbindung mit § 78 EO. hätte der schriftliche Rekurs die Unterschrift eines Rechtsanwaltes enthalten müssen. Notare sind zur Fertigung einer solchen Eingabe nicht befugt. Dies ist durch § 5 (1) NotO. in der Fassung des Gesetzes BGBl. 139/1962, klargestellt. Es heißt dort, daß Notare in Exekutionssachen, soweit kein Anwaltszwang besteht, vertreten können. Da in I. Instanz gemäß § 52 EO. ausnahmslos die Vertretung durch Rechtsanwälte nicht geboten ist, kann sich diese Vorschrift nur auf das Rechtsmittelverfahren beziehen, sodaß der Notar nicht befugt ist, an Stelle eines Rechtsanwaltes einen schriftlichen Rekurs zu fertigen (in diesem Sinne EB., Beilagen zu den stenographischen Protokollen des Nationalrates IX. GP., Nr. 629 S. 12).
+Eine Verbesserung des Rechtsmittels durch Auftrag, die Unterschrift eines Anwaltes beizubringen, ist gemäß § 95 (1) GBG. 1955 in Verbindung mit § 88 (2) EO. unzulässig. Es genügt, in dieser Hinsicht auf die vom Rekursgericht zitierte Entscheidung 7 Ob 547/55, abgedruckt in der MGA. Band 7 Nr. 12 a bei § 88 EO. und auf SZ. XXVII 225 zu verweisen. Die Ansicht der Zweitverpflichteten, es könne die Behebung eines Mangels erfolgen, weil § 95 GBG. 1955 Zwischenerledigungen nur "in der Regel" ausschließe, ist unzutreffend. Das Gesetz führt die Ausnahmen von dieser Regel selbst an. Die Bestimmung wäre ohne Bedeutung, wenn es im Ermessen des Gerichtes stunde, eine Zwischenerledigung zu treffen.
+Der unzulässige Rekurs war daher zurückzuweisen.
+Daß die II. Instanz diesen Mangel übersehen und dem Rekurs des Erstverpflichteten stattgegeben hat, ist für die Beurteilung dieses Rechtsmittels ohne rechtliche Bedeutung.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.1951
+Geschäftszahl
+1Ob792/51
+Norm
+ABGB §1338;
+Betriebsrätegesetz §16;
+Betriebsrätegesetz §25 Abs. 4;
+Betriebsrätegeschäftsordnung §33 Abs5;
+JN §1;
+ZPO §499;
+ZPO §511;
+ZPO §519 Z2;
+Kopf
+SZ 24/315
+Spruch
+Schadenersatzansprüche gegen den Vorsitzenden eines Betriebsrates wegen mangelhafter Anfechtung einer Kündigung gehören vor die ordentlichen Gerichte.
+Entscheidung vom 21. November 1951, 1 Ob 792/51.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Laut Klage hat der Beklagte als Vorsitzender des Hauptbetriebsrates der Vereinigten ... Werke Aktiengesellschaft auf Verlangen des Klägers die gegen ihn ausgesprochene Kündigung seines Anstellungsverhältnisses gemäß § 25 Abs. 4 BRG. wegen "unbilliger Härte" zwar fristgerecht, aber gemäß § 33 Abs. 5 BRGO. mangelhaft beim Einigungsamte angefochten, weil er es unterlassen habe, die Anfechtungsgrunde anzuführen, so daß es zur Zurückweisung des Einspruches kam. Der Kläger, der behauptet, dem ordnungsmäßig instruierten Einspruch wäre Erfolg beschieden gewesen, sieht in dieser Unterlassung des Beklagten eine grobe Fahrlässigkeit, weshalb er Schadenersatz verlange.
+Das Erstgericht hat die Klage meritorisch abgewiesen, weil der Beklagte gemäß § 16 BRG. "nur der Betriebsversammlung verantwortlich, sonst an keinerlei Weisungen gebunden sei". Es sei daher auch der Kläger für seine allfälligen Unterlassungen nicht verantwortlich.
+Das Berufungsgericht hat aus Anlaß der Berufung das Urteil des Erstgerichtes und das demselben vorangegangene Verfahren einschließlich der Klagszustellung als nichtig aufgehoben und die Klage zurückgewiesen; es hat die Kosten beider Instanzen gegenseitig aufgehoben. Das Berufungsgericht war der Ansicht, daß Klagen gegen den Betriebsrat und somit auch gegen den Obmann des Hauptbetriebsrates nicht auf den ordentlichen Rechtsweg gehören.
+Der Oberste Gerichtshof gab dem Rekurs des Klägers Folge und trug dem Berufungsgerichte die Sachentscheidung auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Oberste Gerichtshof hält entgegen der Ansicht des Berufungsgerichtes den ordentlichen Rechtsweg für zulässig, weil es sich im vorliegenden Falle um einen Schadenersatzanspruch handelt. Gemäß § 1338 ABGB. "muß das Recht zum Schadenersatz in der Regel, wie jedes andere Privatrecht, bei dem ordentlichen Richter angebracht werden". Aus dieser Bestimmung des Allgemeinen Bürgerlichen Gesetzbuches als einer Generalklausel glaubt die ständige Rechtsprechung des Verfassungsgerichtes folgern zu müssen, daß über Schadenersatzansprüche aller Art grundsätzlich die ordentlichen Gerichte zu entscheiden haben. Von dieser allgemeinen Regel des § 1338 ABGB. könne nur abgegangen werden, wenn die Entscheidung über einen Schadenersatzanspruch bestimmter Art einer Verwaltungsbehörde durch ein Gesetz ausdrücklich übertragen werde. Daran kann also im vorliegenden Falle der Umstand nichts ändern, daß die Tätigkeit eines Betriebsrates (Vertrauensmannes) eine öffentlich-rechtliche Tätigkeit ist und daß sich wegen dieser Tätigkeit unter Umständen die daran interessierten Personen auch mit Beschwerden an die zuständige Verwaltungsbehörden wenden können. Denn das Betriebsrätegesetz enthält für Schadenersatzansprüche keine Bestimmung, die eine Ausnahme von der allgemeinen Regel des § 1338 ABGB. festlegen und dadurch die Anwendung dieser Gesetzesstelle ausschließen würde. Es muß somit auch mit Wirkung für den vorliegenden Fall dabei verbleiben, daß gemäß § 1 JN. privatrechtliche Ansprüche vor die ordentlichen Gerichte gehören, soweit nicht durch Gesetz etwas anderes angeordnet wird. Es kann daher angesichts der ständigen Judikatur des Verfassungsgerichtshofes der vom Berufungsgericht ausgesprochene gegenteilige Satz: "Aus der Verletzung einer öffentlich-rechtlichen Verpflichtung seitens eines öffentlich-rechtlichen Organes kann ein Schadenersatzanspruch nur dann abgeleitet und im ordentlichen Rechtsweg geltend gemacht werden, wenn die Beschreitung des Rechtsweges durch ein besonderes Gesetz zulässig erklärt wird", nicht aufrechterhalten werden.
+Es erwies sich daher der Rekurs des Klägers als begrundet, weshalb der Beschluß, der die Nichtigkeit des bisherigen Verfahrens aussprach und die Klage zurückwies (§ 519 Abs. 1 Z. 2 ZPO.) aufzuheben und dem Berufungsgericht die Sachentscheidung aufzutragen war, ohne daß eine Bindung in der Rechtsansicht hinsichtlich des Meritums bezüglich dieses Schadenersatzanspruches gemäß §§ 499, 511 ZPO. ausgesprochen werden konnte. Auch das Berufungsgericht hat seine Entscheidung über die Nichtigkeit des bisherigen Verfahrens mit dem Bemerken gefällt, "daß es nicht notwendig war, auf die vom Kläger behauptete Verletzung der den Beklagten als Betriebsobmann obliegenden Verpflichtungen einzugehen".

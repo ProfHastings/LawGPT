@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2021
+Geschäftszahl
+7Ob157/21w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Painsi und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei S* V*, vertreten durch Dr. Alexander Bosio, Rechtsanwalt in Zell am See, gegen die beklagte Partei W* AG *, vertreten durch Dr. Christoph Schützenberger, Rechtsanwalt in Wien, wegen 32.300 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 8. Juli 2021, GZ 3 R 73/21g-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Der Antrag auf Zuspruch der Kosten der Revisionsbeantwortung wird gemäß § 508a Abs 2 Satz 2 ZPO abgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Krankenversicherungsvertrag, dem die Allgemeinen Versicherungsbedingungen für die Krankenhaus-Tagegeld-Versicherung bzw Sonderklasseversicherung mit Wertanpassung nach Tarif WWH (AVB-WWH) zugrunde liegen. Diese lauten auszugsweise:
+„§ 9. Mit welchen Einschränkungen des Versicherungsschutzes müssen Sie rechnen?
+[…]
+(2) Kein Versicherungsschutz besteht für die Heilbehandlung
+[…]
+- von Unfällen sowie deren Folgen, die [...] bei der Begehung einer gerichtlich strafbaren Handlung, die Vorsatz voraussetzt, entstehen;
+[...]“
+Rechtliche Beurteilung
+[2] 		1. Ein Verstoß gegen die Bindungswirkung des rechtskräftigen verurteilenden Strafurteils bewirkt eine nicht im Katalog der Nichtigkeitsgründe des § 477 ZPO genannte Nichtigkeit (RS0074230).
+[3] 		1.2. Das Berufungsgericht verwarf die vom Kläger geltend gemachte Nichtigkeit der Missachtung der Bindungswirkung des rechtskräftigen Strafurteils in Bezug auf die dort angenommene Schuldform.
+[4] 		1.3. Eine vom Berufungsgericht verneinte Nichtigkeit des Verfahrens erster Instanz kann in der Revision nicht mehr bekämpft werden (RS0042981). Die Verneinung einer Nichtigkeit kann in dritter Instanz weder als Nichtigkeit oder Mangelhaftigkeit des Berufungsverfahrens noch unter dem Revisionsgrund der unrichtigen rechtlichen Beurteilung der Sache geltend gemacht werden (RS0042981 [T5, T14, T15, T28]).
+[5] 		1.4. Die behauptete – aber rechtskräftig verneinte – Nichtigkeit unterliegt daher nicht mehr der revisionsgerichtlichen Überprüfung.
+[6] 		2.1. In der Entscheidung 7 Ob 70/21a sprach der Oberste Gerichtshof aus, dass der Versicherer nach Art 19.1.2 AUVB 2012 leistungsfrei ist, wenn der Unfall bei einer strafbaren Handlung eintritt, die vorsätzlich versucht oder begangen wird. Das vom Kläger gewünschte Auslegungsergebnis, der Risikoausschluss setze eine gerichtlich strafbare vorsätzliche Handlung voraus, welche durch ein Strafgericht auch abgeurteilt wurde, findet keine Deckung im insoweit eindeutigen Wortlaut der Bestimmung. Art 19.1.2 AUVB 2012 ist auch weder überraschend nach § 864a ABGB noch gröblich benachteiligend nach § 897 Abs 3 ABGB.
+[7] 		Diese Entscheidung betraf denselben Sachverhalt, allerdings machte der Kläger Ansprüche aus einem Unfallversicherungsvertrag geltend.
+[8] 		2.2. Die Ansicht der Vorinstanzen, dass die zitierte Rechtsprechung auch auf die vorliegende Bedingungslage anzuwenden ist, bedarf keiner Korrektur. Die Formulierung in § 9.2. AVB-WWH ist zwar nicht ident mit jener in Art 19.1.2 AUVB 2012, die Bestimmungen sind aber inhaltsgleich, macht es doch keinen inhaltlichen Unterschied, ob die strafbare Handlung des Versicherungsnehmers „Vorsatz voraussetzt“ oder für die strafbare Handlung des Versicherungsnehmers „Vorsatz Tatbestandsmerkmal“ ist. Lediglich die versuchte Begehung der Vorsatztat ist in § 9.2. AVB-WWH – anders als in Art 19.1.2 AUVB 2012 – nicht angeführt. Der insoweit bestehende Unterschied in der Bedingungslage ist aber hier nicht relevant.
+[9] 		2.3. Dem Kläger war bewusst und hielt er es auch ernstlich für möglich, dass sein festgestelltermaßen ungewöhnliches und auffallend sorgfaltswidriges Verhalten im Zuge des illegalen Straßenrennens die Gefahr für Leib und Leben einer von ihm verschiedenen Person herbeiführt, womit er sich abfand. Ausgehend von diesen den Obersten Gerichtshof bindenden Feststellungen ist die Beurteilung der Vorinstanzen, dass der Kläger den Tatbestand des § 89 StGB vorsätzlich verwirklichte, nicht korrekturbedürftig.
+2.4. Vor diesem Hintergrund hält sich die von den Vorinstanzen angenommene Leistungsfreiheit der Beklagten aufgrund des Vorliegens der Voraussetzungen des Risikoausschlusses des § 9.2. AVB-WWH im Rahmen der Judikatur und ist im Einzelfall nicht zu beanstanden.
+[10] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+[11] 		4. Ein Kostenersatz für die ohne Mitteilung nach § 508a Abs 2 Satz 1 ZPO eingebrachte Revisionsbeantwortung steht der Beklagten nach § 508a Abs 2 Satz 2 ZPO nicht zu (RS0043690 [T6, T7]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E133254

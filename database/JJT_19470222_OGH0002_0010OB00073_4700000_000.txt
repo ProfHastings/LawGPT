@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.1947
+Geschäftszahl
+1Ob73/47
+Norm
+ABGB §1480;
+ABGB §1483;
+ZPO §482;
+ZPO §503 Z3;
+ZPO §503 Z4;
+Kopf
+SZ 21/20
+Spruch
+Der Pfandgläubiger kann sich aus dem in seinen Händen befindlichen Pfand zwar für eine verjährt Hauptforderung, nicht aber für die gemäß § 1480 ABGB. verjährten Zinsen Befriedigung verschaffen.
+Entscheidung vom 22. Februar 1947, 1 Ob 73/47.
+I. Instanz: Bezirksgericht Deutschlandsberg; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Die Klage auf Herausgabe von als Faustpfand übergebenen Gegenständen wurde vom Berufungsgericht abgewiesen.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen des Berufungsgerichtes:
+Prozeßentscheidend ist die Lösung der Rechtsfrage, ob auch im Fall einer durch ein Faustpfand versicherten Forderung die Zinsen gemäß § 1480 ABGB. in drei Jahren verjähren oder ob in einem solche Falle auch für die Zinsen die allgemeine 30jährige Verjährungsfrist gilt. Wenn auch die beklagte Partei im erstgerichtlichen Verfahren hierauf nicht ausdrücklich hingewiesen hat, so liegt in dem diesbezüglichen Vorbringen der Berufung doch keine unbeachtliche Neuerung, weil durch den Antrag auf Abweisung des Klagebegehrens die Abweisung aus allen für die beklagte Partei sprechenden Rechtsgrunden gedeckt ist. Im Berufungsverfahren werden durch dieses Vorbringen der beklagten Partei keine neuen Tatumstände und Beweise eingeführt, sondern bloß auf einen bisher unbeachtlich gebliebenen rechtlichen Gesichtspunkt hingewiesen.
+Hinsichtlich der oben formulierten Rechtsfrage widersprechen sich die Auffassungen von Schrifttum und Rechtsprechung. Der Oberste Gerichtshof hat in GlUNF. 3358 ausgesprochen, daß die dreijährige Verjährung für die durch ein Faustpfand gedeckten Zinsen nicht gelte. Demgegenüber reden Ehrenzweig, System des österr. Privatrechtes I/1, S. 287, und Klang's Kommentar IV, S. 637 der dreijährigen Zinsenverjährung auch in solchen Fällen das Wort. Zur Begründung wird ausgeführt, daß der rechtspolitische Grund, der zur Normierung der kurzfristigen Zinsenverjährung den Anlaß gab, dafür spreche, die fortdauernde Pfandhaftung aus § 1483 ABGB. verjährten Zinsen nicht zugute kommen zu lassen. Diese Begründung hält das Berufungsgericht nicht für so überzeugend, um von der im GlUNF. 3358 ausgesprochenen Rechtsabsicht abgehen zu müssen. § 1483 ABGB. hat zweifellos den Zweck, das Anwachsen vererblicher Zinsenrückstände hintanzuhalten. Nimmt man aber für eine pfandrechtlich versicherte Forderung an, daß Zinsen auch über drei Jahre hinaus haften, so findet das Anwachsen der Zinsenschuld doch seine Grenze faktisch im Wert des Pfandes. Weiter ist zu berücksichtigen, daß der Gläubiger, dem ein Pfand gesetzt ist, hiedurch in besonderer Weise für seine Forderung gesichert werden soll, so daß auch aus diesem Gesichtspunkt kein rechtspolitischer Grund für die Annahme der kurzen Zinsenverjährung zu finden ist. Schließlich ist es eben Sache des Schuldners, der aus seinem Vermögen ein Pfand gegeben hat und durch die Belassung des Pfandes das Bestehen der Forderung samt Zinsen anerkennt, sich mit dem Gläubiger beizeiten auseinanderzusetzen und nicht erst nach Jahrzehnten auf die Klarstellung des Rechtsverhältnisses und Rückgabe der Pfänder zu dringen.
+Das Berufungsgericht ist aus den obigen Erwägungen der Rechtauffassung, daß die verpfändeten Gegenstände auch weiter für die rückständigen Zinsen haften. Da daher die Pfandforderung nicht voll bezahlt ist, begehrt die Klägerin jedenfalls zur Zeit zu Unrecht die Rückgabe der Pfänder.
+Der Oberste Gerichtshof hob diese Entscheidung auf.
+Aus der Begründung des Obersten Gerichtshofes:
+Die Revision der klagenden Partei wird auf die Revisionsgrunde der Ziffer 3 und 4 des § 503 ZPO. gestützt. Den Revisionsgrund der Ziffer 3 des § 503 ZPO. erblickt die Revision in einer angeblichen Verletzung des Neuerungsverbotes (§ 482 ZPO.) durch das Berufungsgericht. Das Berufungsgericht ist jedoch mit Recht auf die erst in der Berufung klar herausgearbeitete Rechtsansicht des Beklagten eingegangen, daß die Klägerin ihre Schuld nicht voll bezahlt habe, weil sie auch die mehr als drei Jahre rückständigen Zinsen zu bezahlen schuldig sei. Die in dem angefochtenen Urteil für die Zulässigkeit dieses Vorganges gegebene Begründung ist zutreffend und wird vom Obersten Gerichtshof übernommen.
+Hingegen kann der Oberste Gerichtshof der Rechtsansicht des Berufungsgerichtes nicht beistimmen, daß gemäß dem § 1483 ABGB. die Pfandhaftung auch für verjährte Zinsen fortdauere, solange der Gläubiger das Pfand in Händen hat. Er stimmt vielmehr der hauptsächlich auf rechtspolitische Erwägungen gegrundeten Ansicht von Zeiller (Kommentar IV, S. 243), Klang (Kommentar IV, S. 637) und Ehrenzweig (Band I/1, S. 287) bei, wonach der § 1483 ABGB. dem Pfandgläubiger das Recht gibt, sich aus dem in seinen Händen befindlichen Pfande zwar für eine verjährte Hauptforderung, nicht aber auch für die gemäß § 1480 ABGB. verjährten Zinsen Befriedigung zu verschaffen. Die entgegengesetzte, in der Entscheidung vom 20. März 1906, GlUNF. Nr. 3358 zum Ausdruck gekommene Auslegung des § 1483 ABGB., die im wesentlichen mit der Stellung der §§ 1480 und 1483 ABGB. im System dieses Gesetzbuches begrundet wurde, wird mit Rücksicht auf die einheitliche, den Bedürfnissen des praktischen Lebens Rechnung tragende Rechtslehre nicht aufrechterhalten. Es ist daher bei der Entscheidung über die vorliegende Klage davon auszugehen, daß die Klägerin durch den gerichtlichen Erlag ihre Zahlungsverpflichtungen, soweit sie nicht verjährt sind, voll erfüllt hat.
+Da es das Berufungsgericht von seinem durch den Obersten Gerichtshof nicht gebilligten Rechtsstandpunkt aus abgelehnt hat, in die Prüfung aller vom Beklagten geltend gemachten Berufungsgrunde einzugehen, war das angefochtene Urteil aufzuheben und die Sache zur neuerlichen

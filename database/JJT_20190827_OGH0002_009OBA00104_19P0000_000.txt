@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.08.2019
+Geschäftszahl
+9ObA104/19p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, die Hofrätinnen Hon.-Prof. Dr. Dehn und Mag. Korn sowie die fachkundigen Laienrichter Dr. Johanna Biereder und Wolfgang Jelinek als weitere Richter in der Arbeitsrechtssache der klagenden Partei Ing. Mag. A*****, vertreten durch Dr. Werner Loibl, Rechtsanwalt in Wien, gegen die beklagte Partei W*****, vertreten durch Maxl & Sporn Rechtsanwälte GmbH in Wien, wegen Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 29. April 2019, GZ 7 Ra 103/18w-52, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Voraussetzung für das Vorliegen einer verwerflichen und mit Erfolg anfechtbaren Motivkündigung ist, dass das iSd § 105 Abs 3 Z 1 ArbVG verpönte Motiv für die Kündigung zumindest ein wesentlicher Beweggrund – wenn auch nicht der ausschließliche – war (8 ObA 3/19b; RS0051661). Die Frage, welches Motiv für die Kündigung als bescheinigt angenommen werden kann, ist eine Frage der vom Obersten Gerichtshof unüberprüfbaren Beweiswürdigung (RS0052037 [T10]).
+Nach den Feststellungen war den entscheidungsbefugten Personen der Beklagten das Interesse des Klägers an einer Tätigkeit als Betriebsratsmitglied nicht bekannt und stand die Kündigung damit in keinem Zusammenhang. Damit konnte der Kläger das Vorliegen der Voraussetzungen nach § 105 Abs 3 Z 1 lit e ArbVG nicht glaubhaft machen.
+Ob die Kündigung zu einem Zeitpunkt erfolgte, als der Kläger schon Kündigungsschutz nach § 120 ArbVG genossen hat, womit die außerordentliche Revision argumentiert, war schon deshalb nicht zu prüfen, weil der Kläger sich auf diesen Kündigungsschutz nicht berufen hat.
+2. Bei der Anfechtung einer Kündigung nach § 105 Abs 3 Z 2 ArbVG ist zunächst zu prüfen, ob dem Arbeitnehmer durch die Kündigung erhebliche soziale Nachteile entstehen, die über die normale Interessenbeeinträchtigung bei einer Kündigung hinausgehen (RS0051746 [T7]). Ist dies der Fall, so ist das Vorliegen von subjektiven oder objektiven Kündigungsrechtfertigungsgründen zu prüfen und anschließend eine Interessenabwägung vorzunehmen (RS0116698).
+In die Untersuchung, ob durch eine Kündigung wesentliche Interessen des Arbeitnehmers beeinträchtigt sind, ist nicht nur die Möglichkeit der Erlangung eines neuen, einigermaßen gleichwertigen Arbeitsplatzes, sondern die gesamte wirtschaftliche und soziale Lage des Arbeitnehmers und seiner (allfälligen) Familienangehörigen einzubeziehen (RS0051741; RS0051806; RS0051703).
+Bei der Beurteilung des Anfechtungsgrundes des § 105 Abs 3 Z 2 ArbVG ist auf den Zeitpunkt der durch die angefochtene Kündigung herbeigeführten Beendigung des Arbeitsverhältnisses (Konkretisierungszeitpunkt) abzustellen (RS0051772).
+Zu diesem Zeitpunkt war der Kläger aber bereits über mehrere Monate wieder im Inland tätig und bezog demzufolge auch keine Auslandszulagen mehr. Dafür, dass diese Tätigkeit nur vorübergehend gewesen wäre, ein weiterer Auslandsaufenthalt absehbar war oder die Rückberufung missbräuchlich zur Schmälerung der Ansprüche des Klägers erfolgte, bieten die Feststellungen keinen Anhaltspunkt.
+Damit haben die Vorinstanzen aber zu Recht bei Beurteilung der Interessenbeeinträchtigung des Klägers auf sein Einkommen zum Zeitpunkt der Beendigung des Arbeitsverhältnisses abgestellt und nicht auf ein im Zusammenhang mit einem theoretischen Auslandseinsatz erzielbares Einkommen.
+3. Wenn das Berufungsgericht aufgrund des Einkommens des Klägers (auch unter Berücksichtigung der von der Beklagten bezahlten Versicherungsbeiträge), seiner gesamten Vermögenssituation, den festgestellten monatlichen Ausgaben und den guten Chancen in absehbarer Zeit einen gleichwertigen Arbeitsplatz mit gutem, wenn auch etwas geringerem Einkommen zu finden, die Beeinträchtigung wesentlicher Interessen des Klägers durch die Kündigung verneinten, hält sich diese Beurteilung im Rahmen des gesetzlichen Ermessensspielraums.
+Auf die Frage, ob die Beklagte sich zu Recht auf das Vorliegen persönlicher Kündigungsgründe gestützt hat, muss daher nicht weiter eingegangen werden.
+4. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision des Klägers zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:009OBA00104.19P.0827.000

@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.05.1950
+Geschäftszahl
+2Ob267/50
+Norm
+ABGB §908;
+ABGB §918;
+ZPO §477;
+ZPO §496;
+ZPO §503 Z1;
+ZPO §503 Z2;
+Kopf
+SZ 23/142
+Spruch
+Die besondere Bestimmung des § 908 ABGB. kennt nicht die Festsetzung einer angemessenen Nachfrist.
+Die Unterlassung der Entscheidung über eine von mehreren erhobenen Berufungen begrundet nicht eine Nichtigkeit, sondern eine Mangelhaftigkeit des Berufungsverfahrens.
+Entscheidung vom 6. Mai 1950, 2 Ob 267/50.
+I. Instanz: Bezirksgericht Hartberg; II. Instanz: Landesgericht für Zivilrechtssachen Graz.
+Text
+Der Kläger hatte beim Abschluß eines Kaufvertrages über ein Hengstfohlen dem Beklagten ein Angeld gegeben. Da der Vertrag nicht erfüllt wurde, begehrte er die Verurteilung des Beklagten zur Bezahlung des doppelten Angeldes.
+Das Prozeßgericht sprach dem Kläger nur die Hälfte des Klagsbetrages zu, da nach seiner Ansicht beide Parteien die Nichterfüllung des Vertrages verschuldet hätten; das Urteil wurde von beiden Teilen mit Berufung angefochten.
+Das Berufungsgericht gab der Berufung des Klägers Folge und verurteilte den Beklagten auch zur Zahlung des restlichen Klagsbetrages, unterließ jedoch eine Erledigung der Berufung des Beklagten.
+Der Oberste Gerichtshof hob das Urteil des Berufungsgerichtes auf und verwies die Rechtssache an dieses zur neuerlichen Entscheidung zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Berufungsgericht hat nicht nur über die Prozeßkosten erster Instanz nicht entschieden, was eine den Streitparteien unnötige Kosten verursachende Ergänzung des Urteiles zur Folge hatte, es hat sich auch mit der Berufung der beklagten Partei nicht befaßt. Es hat auf diese Berufung weder im Spruch seiner Entscheidung noch auch in deren Gründen irgendwie Bezug genommen. Diese Unterlassung begrundet allerdings nicht Nichtigkeit des Berufungsurteiles, wohl aber dessen Mangelhaftigkeit im Sinne des § 503 Z. 2 ZPO., weil durch die Nichterörterung der Berufung des Beklagten eine grundliche Beurteilung der Streitsache offenbar nicht verbürgt ist. Nach Ansicht des Revisionsgerichtes ist die Nichterörterung einer Berufung im Berufungsstadium in gleicher Weise als eine Mangelhaftigkeit des Verfahrens zu stigmatisieren, wie nach § 496 Abs. 1 ZPO. die Nichterledigung von Sachanträgen in der ersten Instanz. Aus diesen Erwägungen war das Berufungsurteil aufzuheben.
+Bei der neuen Entscheidung, die unter Bedachtnahme auf die Ausführungen der Berufung des Beklagten zu fällen sein wird, wird das Berufungsgericht insbesondere zu erwägen haben, daß bei festgestellter schuldhafter Verzögerung des einen Vertragsteiles der andere Vertragsteil die Rechte aus § 908 ABGB. geltend machen kann, ohne daß er verpflichtet wäre, eine Nachfrist zu setzen. Wenn eine Vorausgabe vorliegt, dann sind nicht die allgemeinen Bestimmungen der §§ 918 ff. ABGB., sondern es sind die Spezialbestimmungen des § 908 anzuwenden, die die Festsetzung einer angemessenen Nachfrist nicht kennen (vgl. Pisko in Klangs Komm., II/2, S. 464, Ehrenzweig, II/1, S. 187, SpR. 270, amtl. Slg. NF. 1838, SZ. V/268). Das Berufungsgericht wird daher bei der rechtlichen Beurteilung der Streitsache zu erwägen haben, ob daraus, daß der Beklagte dem Kläger eine Nachfrist gesetzt hat, wozu er, wenn er die Rechte nach § 908 ABGB. ausüben wollte, gar nicht verpflichtet gewesen wäre, und diese Nachfrist unzureichend war, dem Beklagten ein Verschulden an der Nichterfüllung des Kaufvertrages zugerechnet werden kann und, bejahendenfalls, ob ihm das alleinige Verschulden zugerechnet werden kann.

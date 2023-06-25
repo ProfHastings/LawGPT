@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2018
+Geschäftszahl
+3Ob22/18h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei E*****, vertreten durch Mag. Johannes Schmidt MBA, Rechtsanwalt in Wien, gegen die beklagte Partei Dr. K*****, Rechtsanwalt in Wien, wegen 356.653,11 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 6. Dezember 2017, GZ 13 R 147/17h-15, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Frage, ob ein Rechtsanwalt im Einzelfall die gebotene Sorgfalt bei der Beratung oder Vertretung seines Klienten eingehalten hat, kann nur nach den Umständen des Einzelfalls geprüft werden und ist regelmäßig nicht von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO (RIS-Justiz RS0023526 [T16]).
+Die Revision geht nicht vom festgestellten Sachverhalt aus, wenn sie dem Beklagten vorwirft, er habe einen – für den Kläger nachteiligen – Vertrag errichtet, laut dem dieser (als Darlehensgeber) zur sofortigen Zahlung des von ihm zugesagten Betrags an seinen Vertragspartner (eine GmbH) verpflichtet gewesen sei. Fest steht nämlich, dass der Beklagte den Kläger im Zuge der Vertragserrichtung darauf hinwies, dass er vor der Verbücherung seines (vertraglich vereinbarten) Pfandrechts, die vereinbarungsgemäß vom Treuhänder der GmbH durchgeführt werden sollte, keine Zahlungen leisten „dürfe“, und dass der Kläger daraufhin meinte, das sei „ja selbstverständlich“. Eine Fehlbeurteilung der Vorinstanzen, die einen Verstoß des Beklagten gegen seine anwaltlichen Sorgfaltspflichten verneinten, zeigt das Rechtsmittel nicht auf.
+2. Die dreijährige Verjährungsfrist des § 1489 Satz 1 ABGB beginnt mit dem Zeitpunkt zu laufen, in dem dem Geschädigten sowohl der Schaden und der Schädiger als auch die Schadensursache bekannt geworden ist (RIS-Justiz RS0034951; RS0034374). Sie beginnt schon dann, wenn dem Berechtigten der Kausalzusammenhang zwischen dem schädigenden Ereignis und dem eingetretenen Schaden erkennbar war oder erkennbar sein musste, wenn also die objektive Möglichkeit der Klagseinbringung gegeben war. Die Kenntnis der Höhe des Schadens ist hierzu nicht erforderlich; es genügt die Möglichkeit der Ermittlung desselben (RIS-Justiz RS0034366).
+Der Kläger wusste (spätestens) seit August 2013, dass seine Investition in das Projekt der GmbH, die er mit seinem Darlehen unterstützt hatte, zum Großteil verloren war. Dennoch erhob er seine Schadenersatzklage gegen den Beklagten als Vertragserrichter erst im November 2016 und damit mehr als drei Jahre nach Kenntnis von Schaden und Schädiger. Die Revision vermag nicht nachvollziehbar zu konkretisieren, in welchem Umfang und aus welchem Grund der Kläger zu diesem Zeitpunkt noch „keine hinreichende Gewissheit über den Kausalzusammenhang zwischen der anwaltlichen Tätigkeit des Beklagten und dem entstandenen Schaden“ gehabt haben sollte. Die den drei vom Revisionswerber zitierten Entscheidungen des Obersten Gerichtshofs zugrunde liegenden Sachverhalte sind mit dem hier entschiedenen Fall nicht vergleichbar: Im Verfahren zu 6 Ob 30/60 wurde die Klage wegen Verjährung aufgrund nicht gehöriger Fortsetzung eines ruhenden Verfahrens abgewiesen; den Entscheidungen zu 1 Ob 25/78 und 1 Ob 653/86 (im Rechtsmittel offenbar irrig „1 Ob 635/86“) lagen jeweils Schadenersatzbegehren zugrunde, für die der Kausalzusammenhang (im ersten Fall zwischen Bauarbeiten und einem Rückgang einer Quellergiebigkeit, im zweiten zwischen dem bauphysikalischen Mangel eines Daches und Wassereintritten bei Schneebelastung) erst durch (mehrere) von den Geschädigten eingeholte Sachverständigengutachten (hinreichend klar) erkennbar wurde.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030OB00022.18H.0425.000

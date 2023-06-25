@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2023
+Geschäftszahl
+8ObS2/23m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Thunhart und die fachkundigen Laienrichter Mag. Antonia Oberwalder (aus dem Kreis der Arbeitgeber) und Werner Stepanowsky (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei D*, vertreten durch Mag. Patrick Gaulin, Rechtsanwalt in Innsbruck, gegen die beklagte Partei I*, wegen 26.419 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 21. Dezember 2022, GZ 25 Rs 61/22i-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Text
+Begründung:
+[1] 		Der Kläger war von 1. 3. 2018 bis 28. 2. 2019 als Handelsvertreter für die mittlerweile insolvente E* GmbH tätig. Im Gegensatz zu den anderen Arbeitnehmern im Unternehmen wurde dem Kläger von Anfang an weder Gehalt noch Provisionen bezahlt, doch war vereinbart, dass er mit den ihm zustehenden Provisionen 50 % der Firmenanteile der E* GmbH erwerben werde. Zahlungen der E* GmbH über 2.000 EUR wurden als „Coaching Rechnungen“ tituliert.
+Rechtliche Beurteilung
+[2] 		Die Vorinstanzen haben die auf Gewährung von Insolvenz-Entgelt gerichtete Klage abgewiesen. Die dagegen erhobene außerordentliche Revision des Klägers ist mangels Vorliegens einer erheblichen Rechtsfrage unzulässig.
+[3] 		1. Zweck des I* ist eine sozialversicherungsrechtliche Sicherung von Entgeltansprüchen und sonstigen aus dem Arbeitsverhältnis erwachsenden Ansprüchen von Arbeitnehmern im Falle der Insolvenz ihres Arbeitgebers. Versichertes Risiko ist im Kernbereich die Gefahr des gänzlichen oder teilweisen Verlusts ihrer Entgeltansprüche, auf die sie typischerweise zur Bestreitung des eigenen Lebensunterhalts sowie des Lebensunterhalts ihrer unterhaltsberechtigten Angehörigen angewiesen sind (RIS-Justiz RS0076409).
+[4] 		2. Zwar kann regelmäßig allein aus der zeitlichen Komponente des „Stehenlassens“ von Entgeltansprüchen noch nicht auf eine missbräuchliche Überwälzung des Finanzierungsrisikos auf den Insolvenzentgeltfonds geschlossen werden, sehr wohl aber dann, wenn weitere Umstände hinzutreten, die dies konkret indizieren (RS0119679; RS0116935). Ob diese Annahme zutrifft, ist im Rahmen eines Fremdvergleichs mit einem typischen Arbeitnehmer zu beurteilen. Ergibt sich daraus, dass auf einen zumindest bedingten Vorsatz zur sittenwidrigen Inanspruchnahme des Insolvenzfonds zu schließen ist, kann diese Folgerung nicht durch den Beweis über die konkreten Absichten des Arbeitnehmers widerlegt werden (RS0114470).
+[5] 		3. Der Kläger macht geltend, dass er das Entgelt gegenüber seiner Arbeitgeberin nicht eingefordert habe, weil er davon ausgegangen sei, dass damit der Kaufpreis für die Gesellschaftsanteile beglichen werden würde. Dabei übersieht er freilich, dass der Kaufpreis für diese Gesellschaftsanteile nicht der Gesellschaft, zu der er ein Arbeitsverhältnis behauptet, sondern dem Gesellschafter gebühren würde, der diese Gesellschaftsanteile veräußert. Abgesehen davon macht es für den Fremdvergleich keinen Unterschied, ob der Arbeitnehmer, der seine Entgeltansprüche stehen lässt, auf eine spätere Zahlung oder die spätere Übertragung von Gesellschaftsanteilen hofft.
+[6] 		4. Der Fremdvergleich hängt stets von den Umständen des Einzelfalls ab und stellt damit – vom Fall einer krassen Fehlbeurteilung abgesehen – regelmäßig keine erhebliche Rechtsfrage dar (RS0111281 [T10]). Berücksichtigt man, dass der Kläger über zwölf Monate hinweg weder Gehalt noch Provisionen beansprucht hat und selbst die von ihm vereinnahmten Zahlungen nicht auf das Arbeitsverhältnis angerechnet wurden, ist die Rechtsansicht der Vorinstanzen, wonach das Verhalten des Klägers als Versuch der sittenwidrigen Überwälzung des Ausfallrisikos auf die Beklagte zu beurteilen war, nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:008OBS00002.23M.0329.000

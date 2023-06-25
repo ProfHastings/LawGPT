@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2020
+Geschäftszahl
+6Ob240/20t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Schramm als Vorsitzenden sowie durch die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny und die Hofrätin Dr. Faber als weitere Richter in der Firmenbuchsache der zu FN ***** beim Landesgericht K***** eingetragenen M***** GmbH mit Sitz in der politischen Gemeinde K*****, über den Revisionsrekurs der E*****gesellschaft mbH, *****, vertreten durch Dr. Robert Mogy, Rechtsanwalt in Klagenfurt, gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 28. Oktober 2020, GZ 4 R 153/20g-8, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG iVm § 15 Abs 2 FBG).
+Text
+Begründung:
+Rechtliche Beurteilung
+[1] 		1.1. Der Oberste Gerichtshof hat bereits wiederholt zur Formpflicht des § 76 Abs 2 GmbHG Stellung genommen (zuletzt 6 Ob 198/20s). Demnach sind von der Formpflicht sowohl Verpflichtungsgeschäft als auch Verfügungsgeschäft erfasst (6 Ob 198/20s mwN). Wenn Anbot und Annahme in zwei Urkunden getrennt sind, dann bedürfen beide der Notariatsaktsform (4 Ob 517/80; 6 Ob 180/17i; 6 Ob 198/20s).
+[2] 		1.2. Den Grundsatz, dass von der Formpflicht sowohl Verpflichtungs- als auch Verfügungsgeschäfte erfasst sind, hat der erkennende Senat in den Entscheidungen 6 Ob 180/17i und 6 Ob 198/20s unter eingehender Auseinandersetzung mit Lehre und Rechtsprechung bekräftigt.
+[3] 		2.1. In der Entscheidung 6 Ob 198/20s hat der erkennende Senat für eine dem vorliegenden Fall vergleichbare Situation ausgesprochen, dass dann, wenn nach dem Gesellschaftsvertrag ein bestimmter Sachverhalt erst die Pflicht zur Stellung eines Abtretungsangebots auslöst, der Gesellschaftsvertrag gerade kein unmittelbares Aufgriffsrecht in dem Sinn ermöglicht, dass ein Gesellschafter durch einseitige Erklärung einen Geschäftsanteil erwerben könnte, also eine „zweistufige“ Konstruktion (vgl 6 Ob 63/20b) vorliegt, in der sowohl für das Angebot als auch für dessen Annahme jeweils ein Notariatsakt erforderlich ist.
+[4] 		2.2. In diesem Zusammenhang bekräftigte der Oberste Gerichtshof auch die Auffassung, dass gerade unter dem Aspekt der Rechtssicherheit ein gesellschaftsvertraglich angeordneter ipso iure-Übergang eines Geschäftsanteils unzulässig ist (6 Ob 198/20s; so schon 6 Ob 150/08i; Rauter in WK-GmbHG § 76 Rz 130 mwN).
+[5] 		3. Auch im vorliegenden Fall sieht der Gesellschaftsvertrag vor, dass der Gesellschafter „vor Abtretung seiner Geschäftsanteile oder eines Teiles hievon an einen Nichtgesellschafter verpflichtet [ist], diesen den anderen Gesellschaftern [...] anzubieten“. Dazu hat der Oberste Gerichtshof in der bereits zitierten Entscheidung 6 Ob 198/20s darauf hingewiesen, dass auch die Ausübung des Gestaltungsrechts in der vorgeschriebenen Form erfolgen muss und es der Satzung nicht zusteht, diesbezüglich eine Erleichterung vorzusehen (6 Ob 198/20s ErwGr 2.2). Zwar könnte eine – entgegen § 76 Abs 2 GmbHG – zunächst nicht in Notariatsaktsform abgeschlossene Vereinbarung über die Übernahme von Gesellschaftsanteilen zu einem späteren Zeitpunkt durch Abschluss eines Notariatsakts saniert werden. Einer derartigen Heilung käme jedoch keine „rückwirkende“ Wirkung auf den Zeitpunkt der nicht formwirksamen Erklärung zu (6 Ob 180/17i ErwGr 3.3.3; 6 Ob 198/20s ErwGr 2.3).
+[6] 		4. Zusammenfassend bringt der Revisionsrekurs sohin keine Rechtsfragen der von § 62 Abs 1 AußStrG geforderten Bedeutung zur Darstellung, sodass er spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00240.20T.1217.000

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2020
+Geschäftszahl
+7Ob168/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Parteien 1. M***** P*****, 2. Z***** A*****, beide *****, vertreten durch Dr. Edgar Veith, Rechtsanwalt in Götzis, gegen die beklagte Partei A***** SE *****, vertreten durch Mag. Martin Paar und Mag. Hermann Zwanzger, Rechtsanwälte in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 9. Juni 2020, GZ 4 R 57/20v-24, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+1.1 Die Rechtsschutzversicherung als passive Schadensversicherung (RS0127808) schützt den Versicherungsnehmer gegen das Entstehen von Verbindlichkeiten (Passiva). Sie bietet Versicherungsschutz gegen die Belastung des Vermögens des Versicherungsnehmers mit Rechtskosten. Die Hauptleistungspflicht des Versicherers in der Rechtsschutzversicherung besteht in der Kostentragung (RS0081895 [T1]).
+1.2 Die dem Versicherungsvertrag zugrunde liegenden Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2003) lauten auszugsweise:
+„Artikel 6
+Welche Leistungen erbringt der Versicherer?
+[…]
+6. Der Versicherer zahlt
+6.1 die angemessenen Kosten des für den Versicherungsnehmer tätigen Rechtsanwalts bis zur Höhe des Rechtsanwaltstarifgesetzes oder, sofern dort die Entlohnung von anwaltlichen Leistungen nicht geregelt ist, bis zur Höhe der Autonomen Honorarrichtlinien für Rechtsanwälte.“
+1.3 Da das Anwaltshonorar unmittelbar vom Streitwert und bei freier Bewertungsmöglichkeit von der gewählten Bewertung abhängt, ist die Frage nach den „angemessenen Kosten“ untrennbar mit der Frage der „angemessenen Bewertung“ verbunden (7 Ob 198/98p).
+2.1 Die Kläger beabsichtigen infolge behaupteten (teilweisen) Erlöschens der Dienstbarkeit des Geh- und Fahrtrechts die Einbringung einer auf Feststellung, Einverleibung und Unterlassung gerichteten Klage gegen die Eigentümer der herrschenden Liegenschaft.
+2.2 Für diese Klagsführung begehren sie im vorliegenden Verfahren Rechtsschutzdeckung vom beklagten Versicherer. Aus der Formulierung ihres Klagebegehrens im Zusammenhang mit dem Klagsvorbringen ergibt sich, dass sie mit ihrem Hauptbegehren nicht bloß die Deckungspflicht der Beklagten im Allgemeinen, sondern im Besonderen für die Kosten auf der Basis von insgesamt 75.500 EUR (Feststellung 35.000 EUR, Einverleibung 5.500 EUR und Unterlassung 35.000 EUR) anstreben.
+Rechtliche Beurteilung
+2.3 Begehrt der Kläger aber Rechtsschutzdeckung ausdrücklich auf Basis eines bestimmten Streitwerts, der keiner gesetzlichen, sondern – wie hier – der freien Bewertung (vgl RS0046509 [T26]) unterliegt, so erfordert dies im Deckungsprozess eine schlüssige Darstellung der der Bewertung zugrunde gelegten Tatsachen. Der Versicherungsnehmer hat in diesem Fall die ihm bekannten oder ohne weiteres erkundbaren Parameter für seine Bewertung darzulegen (vgl 7 Ob 180/14t).
+2.4 Die Frage, ob ausreichendes Vorbringen zu der begehrten Bewertung erstattet wurde, kann nur jeweils nach den konkreten Umständen im Einzelfall beurteilt werden und stellt demgemäß keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO dar.
+2.5 Die Kläger begründen die angestrebte Bewertung mit einer infolge des Erlöschens der Dienstbarkeit behaupteten Aufwertung ihrer Liegenschaft von 100.000 EUR und einer Abwertung der herrschenden Liegenschaft von 255.000 EUR – insgesamt 355.000 EUR – und nahmen davon ausgehend die nicht näher substanziierte Bewertung mit 75.500 EUR vor. Zum einen besteht schon kein wie immer geartetes Interesse der Kläger an der Abwertung der Liegenschaft der Prozessgegner, sodass die – ein solches Interesse berücksichtigende – Bewertung jedenfalls nicht herangezogen werden kann. Zum anderen haben die Kläger auch nicht dargelegt, auf Grundlage welcher Tatsachen die behauptete Aufwertung selbst ihrer Liegenschaft basiert, sondern lediglich – ohne jeden Nachweis – eine nicht weiter nachvollziehbare Zahl genannt. Wenn die Vorinstanzen vor diesem Hintergrund davon ausgingen, dass die Kläger keine ausreichenden Parameter für ihre Bewertung aufgestellt haben, ist dies nicht zu beanstanden.
+2.6 Damit ist die Abweisung des – ausdrücklich – auf die nicht weiter schlüssig gestellte Bewertung gegründeten Kostendeckungsbegehrens nicht korrekturbedürftig, ohne dass es zu dieser Frage Beweisaufnahmen und einer weiteren Prüfung des Vorliegens einer Obliegenheitsverletzung im Sinn des Art 8.1.4 ARB bedurfte.
+3. Dem Eventualbegehren auf Feststellung der Deckungspflicht der Beklagten für die angestrebte Klagsführung im Allgemeinen, das dem vom Kläger gewünschten „Minus-Zuspruch“ des Hauptbegehrens entspricht, wurde stattgegeben. Die Bekämpfung erfolgt offenbar im Ergebnis lediglich aus Kostengründen. Auch das ist nicht nachvollziehbar, hat doch auch ein (teilweises) Unterliegen mit dem Hauptbegehren Kostenfolgen. Die Ausführungen der Kläger, es stelle eine Mangelhaftigkeit des Verfahrens dar, dass ihrem Eventualbegehren – und nicht einem gleichlautenden Minus zum Hauptbegehren – stattgegeben worden sei, lässt damit schon keine Relevanz erkennen.
+4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00168.20M.1021.000

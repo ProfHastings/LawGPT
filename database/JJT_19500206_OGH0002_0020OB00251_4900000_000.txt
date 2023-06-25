@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.02.1950
+Geschäftszahl
+2Ob251/49
+Norm
+ABGB §879;
+ABGB §918;
+ABGB §1336;
+ABGB §1447;
+Reichshaftpflichtgesetz §1;
+ZPO §510;
+Kopf
+SZ 23/22
+Spruch
+Sittenwidrigkeit einer Vereinbarung, daß der Lieferant bei unverschuldeter Unmöglichkeit auf Seiten des Bestellers vom Vertrag zurücktreten und eine Vertragsstrafe verlangen kann, während der Besteller nur bei Vorliegen eines schweren Verschuldens des Lieferers rücktrittsberechtigt ist.
+Entscheidung vom 6. Februar 1950, 2 Ob 251/49.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Beklagte hat vertragsmäßig dem Kläger Waren zu liefern. Die für Herstellung dieser Waren erforderlichen Eisenfreistellungs- und sonstigen Materialbezugscheine hat der Kläger zu beschaffen und spätestens 4 Wochen nach erfolgter Auftragsbestätigung der Beklagten (Lieferfirma) zur Verfügung zu stellen. Abschnitt 5 der Lieferungsbedingungen der Beklagten bestimmt:
+"Erfolgt Rücktritt, so sind wir (Lieferfirma) verpflichtet, die vom Besteller geleistete Teilzahlung abzüglich eines 15 %igen Unkostenbeitrages von der gesamten Bestellsumme zurückzuersetzen und verzichtet der Besteller aus diesem Titel an uns (Lieferfirma) irgendwelche Ansprüche stellen zu dürfen.
+Hingegen ist der Besteller zum Rücktritt und Rückforderung seiner bis zur vollen Höhe geleisteten Anzahlung berechtigt, falls uns (Lieferfirma) als Lieferer schweres Verschulden an der Lieferungsverzögerung trifft."
+Da Kläger die Materialscheine nicht beistellte, trat die Beklagte unter Einbehaltung des 15prozentigen Unkostenbeitrages zurück. Der Klage auf Zahlung des Unkostenbeitrages wurde vom Erstgericht stattgegeben, das Berufungsgericht wies ab, der Oberste Gerichtshof hob auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Bei Beurteilung der rechtlichen Seite des Streitfalles tritt das Revisionsgericht zunächst der Auffassung des Berufungsgerichtes bei, daß sich aus dem Schlußbrief vom 30. September 1946 und den zu seinem integrierenden Bestandteil erklärten Verkaufsbedingungen die Verpflichtung des Klägers zur Beschaffung der Eisenscheine ergibt und daß der zweite Satz des Punktes 4 der erwähnten Verkaufsbedingungen nur ein Avis für den Besteller darstellte, wie er am besten zu den Eisenscheinen gelangen könne. Es erübrigt sich, den zutreffenden Gründen des Berufungsgerichtes in diesem Punkte noch etwas beizufügen. Bei dieser Sachlage war ein Eingehen auf die vom Kläger und auch vom Zeugen Sch. behaupteten angeblichen Zusagen der beklagten Partei entbehrlich, denn nach Punkt 5 lit. c der Verkaufsbedingungen wären mündliche Abreden unverbindlich.
+Das Revisionsgericht folgt den Untergerichten auch bei der rechtlichen Qualifikation des "Unkostenbeitrages". Schon aus seiner Höhe von 15 % der gesamten Bestellsumme ergibt sich eindeutig sein Charakter als Vergütungsbetrag im Sinne des § 1336 ABGB. Was aber die Voraussetzungen für das Einbehaltendürfen des Vergütungsbetrages betrifft, vermag sich das Revisionsgericht der rechtlichen Beurteilung des Berufungsgerichtes nicht anzuschließen, als dieses aus den Verkaufsbedingungen den Verfall des Vergütungsbetrages auch bei zufälliger (unverschuldeter) Nichterfüllung eines Vertragspunktes durch den Besteller folgert. Ist die Leistung durch einen Umstand unmöglich geworden, den der Schuldner nicht zu vertreten hat, so ist im Zweifel nach herrschender Lehre und Rechtsprechung eine Vertragsstrafe nicht zu zahlen. Allerdings können die Vertragschließenden auch den Verfall der Vertragsstrafe für den Fall vereinbaren, daß kein allgemeiner Haftungsgrund vorliegt (vgl. Wolff in Klangs Kommentar, 2. Aufl., VI, S. 187). Die Fassung des Punktes 5 lit. f der Verkaufsbedingungen zwingt nicht unbedingt zu der Auslegung, daß der Unkostenbeitrag, also die Vertragsstrafe, auch verfällt, wenn dem Besteller die Erfüllung eines Punktes der Verkaufsbedingungen infolge Zufalles oder höherer Gewalt unmöglich wird. Aber auch dann, wenn die eben erwähnte Bestimmung der Verkaufsbedingungen diesen Inhalt hätte, so würde sie an sich dem Klagebegehren nicht entgegenstehen. Denn nach Ansicht des Obersten Gerichtshofes wäre diese Bestimmung als gegen die guten Sitten verstoßend insoweit unwirksam. Es können die Parteien zwar den Verfall einer Vertragsstrafe auch bei einer unverschuldeten Unmöglichkeit der Erfüllung von Vertragsbestimmungen vereinbaren. Aber in einem solchen Falle müssen doch beide Teile ungefähr gleich behandelt werden. Davon wäre aber, würde man den Vertragsbedingungen den Sinn geben, den ihm das Berufungsgericht beilegt, keine Rede. Denn es würde der Lieferant bei unverschuldeter Unmöglichkeit auf Seiten des Bestellers nicht nur vom Vertrag zurücktreten, sondern auch die Vertragsstrafe behalten dürfen, während hingegen der Besteller zum Rücktritt nur bei Vorliegen eines schweren Verschuldens des Lieferers berechtigt wäre. Eine solche Inkongruenz in den vertraglichen Rechten des Bestellers und des Unternehmers müßte aber als sittenwidrig erscheinen und würde dazu Anlaß geben, die Vertragsstrafe nur dann verfallen zu lassen, wenn nicht Zufall oder höhere Gewalt die Erfüllung eines Vertragspunktes verhindert haben.
+Der Kläger hat für die von ihm behauptete Unmöglichkeit der Beschaffung von Eisenscheinen infolge höherer Gewalt den Beweis durch Parteienvernehmung angeboten. Dieser Beweis muß ihm offengehalten werden. Allerdings wird der Kläger, um mit seinem Begehren Recht zu behalten, nachweisen müssen, daß er sich um die Beschaffung von Eisenscheinen bei allen nach dem Sitz seiner Unternehmungen in Betracht kommenden Stellen bemüht hat und daß er insbesondere der beklagten Partei einen Antrag auf Zuweisung von Eisenscheinen zur Bestätigung rechtzeitig übersandte.
+Aus diesen Erwägungen waren das angefochtene Urteil sowie das Ersturteil im Sinne des § 510 Abs. 1 ZPO. aufzuheben und die Rechtssache an das Erstgericht zur Durchführung des ausständigen Beweises zurückzuverweisen.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2018
+Geschäftszahl
+2Ob151/18x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Veith als Vorsitzenden, den Hofrat Dr. Musger, die Hofrätin Dr. E. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Verlassenschaftssache des am * 2015 verstorbenen H* T*, wegen Feststellung des Erbrechts zwischen den Antragstellern 1. des erblasserischen Sohnes H* T*, vertreten durch Mag. Dr. Martin Dercsaly, Rechtsanwalt in Wien, und 2. der erblasserischen Stieftochter M* L*, vertreten durch Widter Mayrhauser Wolf Rechtsanwälte OG in Wien, über den außerordentlichen Revisionsrekurs des Erstantragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 14. Juni 2018, GZ 43 R 504/17m-82, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+1. Die Auslegung einer letztwilligen Verfügung hängt von den Umständen des Einzelfalls ab. Ihr kommt regelmäßig keine erhebliche Bedeutung im Sinn des § 502 Abs 1 ZPO bzw § 62 Abs 1 AußStrG zu. Das gilt auch für die Frage, ob auch eine andere Auslegung vertretbar wäre (RIS-Justiz RS0043485 [T4, vgl auch T2]). Der Revisionsrekurs wäre daher nur dann zulässig, wenn dem Gericht zweiter Instanz eine krasse Fehlbeurteilung unterlaufen wäre (vgl RIS-Justiz RS0043463 [T12]).
+2. Eine solche Fehlbeurteilung liegt nicht vor.
+2.1. Das Erstgericht hat im Verfahren über das Erbrecht festgestellt, dass es der letzte Wille des Erblassers „ist“, dass die im früheren Testament bedachte Zweitantragstellerin Alleinerbin sei, während die im späteren „Kodizill“ genannten Personen jeweils ein Viertel des Werts des Kleingartens erhalten sollten.
+Im Rahmen der Beweiswürdigung traf es die (dislozierte) weitere Feststellung, die Verwendung ua des Begriffs „Kodizill“ (iSd § 553 ABGB idF vor dem ErbRÄG 2015, BGBl I 2015/87: keine Erbeneinsetzung) durch den Notar bedeute „nicht, dass dem Willen des Erblassers nicht Rechnung getragen worden wäre, sondern ganz im Gegenteil, dass dies genau mit ihm besprochen und abgestimmt wurde im Hinblick auf das vorangegangene Testament […], das auch ausdrücklich nicht aufgehoben wurde […]“.
+2.2. Die Auslegung einer letztwilligen Verfügung richtet sich nach dem wahren Willen des Erblassers im Zeitpunkt der Verfügung (RIS-Justiz RS0012370 [T3];  RS0012238 [T1, T2, T8]; RS0012342; RS0012598).
+Aus den Ausführungen des Erstgerichts ergibt sich auf Tatsachenebene eindeutig, dass es den festgestellten Willen des Erblassers (auch) für den Zeitpunkt der Errichtung des Kodizills angenommen hat.
+Da der maßgebliche Wille des Erblassers somit feststeht, kommt es auf die vom Rechtsmittelwerber herangezogenen, von der Rechtsprechung herausgebildeten Regeln zur Auslegung letztwilliger Verfügungen bei Zweifeln am Willen des Erblassers und die damit verbundenen Beweislastregeln nicht an (RIS-Justiz RS0012243; RS0012245; vgl aber auch – für die Beweislast des Rechtsmittelwerbers sprechend – RS0012236; RS0012250).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E123066

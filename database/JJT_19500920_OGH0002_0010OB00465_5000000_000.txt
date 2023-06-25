@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.09.1950
+Geschäftszahl
+1Ob465/50
+Norm
+EO §39 Abs1 Z2;
+EO §39 Abs1 Z8;
+EO §331;
+EO §333;
+Handelsgesetzbuch vom 10. Mai 1897, DRGBl. S. 219 §135;
+KO §12;
+Kopf
+SZ 23/254
+Spruch
+Die Ansprüche eines offenen Handelsgesellschafters gegen seine Gesellschaft können nur nach § 135 HGB. in Exekution gezogen werden, nicht aber nach §§ 331, 333 EO.
+Entscheidung vom 20. September 1950, 1 Ob 465/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Laut vollstreckbarem Vergleich vom 21. November 1947 schuldet der Verpflichtete dem betreibenden Gläubiger 50.000 S samt Nebengebühren.
+Zur Hereinbringung des noch offenen Restbetrages von 26.000 S samt Nebengebühren beantragte der betreibende Gläubiger 1. die Pfändung des dem Verpflichteten als offenen Gesellschafter der offenen Handelsgesellschaft Anton G.'s Erben zustehenden Anspruches auf dasjenige, was ihm bei der Auseinandersetzung zukommt, 2. auf pfandweise Beschreibung dieses Rechtes, 3. auf Verwertung durch Ermächtigung des betreibenden Gläubigers, dieses Recht des Verpflichteten in dessen Namen geltend zu machen.
+Das Erstgericht bewilligte am 7. Dezember 1949 die erbetene Exekution, wobei es die Entscheidung über den Verwertungsantrag vorbehielt. Der Bewilligungsbeschluß ist der Firma Anton G.'s Erben am 12. Dezember 1949 zugestellt worden. Mit diesem Tag ist daher die Pfändung des Auseinandersetzungsguthabens wirksam geworden.
+Am 7. März 1950, also nach mehr als 60 Tagen nach Erwerb des erwähnten exekutiven Pfandrechtes, wurde über das Vermögen der Firma Anton G.'s Erben und über das Privatvermögen des Verpflichteten, des Gesellschafters Rudolf G., das Konkursverfahren eröffnet. Am 23. März 1950 wiederholte der betreibende Gläubiger seinen Antrag auf Verwertung des Gesellschaftsanteiles nach § 333 EO.
+Das Erstgericht hat mit Beschluß vom 4. April 1950 den Antrag, den betreibenden Gläubiger zu ermächtigen, den gepfändeten Anspruch gemäß § 333 EO. im Namen des Verpflichteten geltend zu machen, abgewiesen und zugleich ausgesprochen, daß nach Rechtskraft dieses Beschlusses die Exekution nach § 39 Abs. 1 Z. 2 EO. eingestellt werde; die Begründung dieses Beschlusses ging dahin, daß durch die Konkurseröffnung der Untergang des Pfandgegenstandes eingetreten sei, weshalb auch keine Verwertung mehr bewilligt werden könne.
+Das Rekursgericht änderte diesen Beschluß dahin ab, daß es die erbetene Ermächtigung nach § 333 EO. erteilte. Die Ansicht des Erstgerichtes, daß der Pfandgegenstand untergegangen ist, sei nicht zutreffend. Da der Konkurs erst am 7. März 1950, also mehr als 60 Tage nach Entstehung des Pfandrechtes eröffnet worden ist, sei das Pfandrecht nach § 12 KO. von der Konkurseröffnung nicht berührt worden, demnach stehe auch der beantragten Verwertung dieses Absonderungsrechtes nach § 333 EO. kein Hindernis entgegen.
+Dieser Beschluß wurde vom Verpflichteten, vertreten durch den Masseverwalter, angefochten. Der Revisionswerber beantragt Abänderung des angefochtenen Beschlusses und Wiederherstellung des erstinstanzlichen Beschlusses, allenfalls die Abstandnahme von der Einstellung der Exekution gemäß § 39 Abs. 1 Z. 2 EO.
+Der Oberste Gerichtshof erkannte im Sinne des Eventualantrages.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Verwertung des nach § 135 HGB. gepfändeten Auseinandersetzungsguthabens eines offenen Handelsgesellschafters erfolgt durch Überweisung dieses Anspruches, wodurch der betreibende Gläubiger die Befugnis zur Kündigung der Gesellschaft und damit zur Geltendmachung des Auseinandersetzungsguthabens erwirkt. Neben dieser im § 135 HGB. geregelten Exekution ist für eine nach §§ 331, 333 EO. zu führende Exekution kein Raum, weil sonst die Schranken, die § 135 HGB. der Exekutionsführung in den Auseinandersetzungsguthaben setzt, umgangen werden könnten. Der Oberste Gerichtshof hat daher bereits unter der Herrschaft des alten Handelsgesetzbuches in einem ähnlichen Fall eine Exekutionsführung auf Bewilligung der Exekution nach §§ 331 ff. EO. abgelehnt (SZ. IX/142). Daran hält der Oberste Gerichtshof auch unter der Herrschaft des 1939 eingeführten Deutschen Handelsrechtes fest; er verneint daher die Zulässigkeit der Doppelgeleisigkeit einer wahlweisen Exekutionsführung nach § 135 HGB. oder §§ 331 ff. EO.
+Da der betreibende Gläubiger nicht die allein zulässige, im § 135 HGB. vorgesehene Verwertung beantragt hat, so war die beantragte Verwertung abzuweisen und insoweit der erstrichterliche Beschluß wieder herzustellen. Dagegen ist die Frage, ob die Exekution einzustellen ist, derzeit noch nicht spruchreif. Dem Rekursgericht ist beizupflichten, daß die Eröffnung des Konkursverfahrens an sich das durch Pfändung erworbene Absonderungsrecht des betreibenden Gläubigers unberührt läßt. Da aber die Handelsgesellschaft, an der der Verpflichtete beteiligt ist, sich im Konkurs befindet, so ist es immerhin zweifelhaft, ob man überhaupt zugunsten des Verpflichteten mit einem Auseinandersetzungsguthaben rechnen kann, das die voraussichtlichen Exekutionskosten übersteigt (§ 39 Abs. 1 Z. 8 EO.).
+Da diese Frage bisher nicht erörtert worden ist, mußte der

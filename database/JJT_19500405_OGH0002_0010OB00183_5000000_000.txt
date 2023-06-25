@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.04.1950
+Geschäftszahl
+1Ob183/50
+Norm
+ABGB §833;
+ZPO §448;
+ZPO §452;
+ZPO §502 Abs2;
+ZPO §503 Z1;
+ZPO §503 Z2;
+ZPO §503 Z4;
+Kopf
+SZ 23/88
+Spruch
+Der Umstand, daß das Erstgericht über den Klagsanspruch in mehreren die Bagatellgrenze nicht übersteigenden Teilurteilen entschieden hat, bewirkt nicht, daß die Entscheidungen als im Bagatellverfahren ergangen zu behandeln sind.
+Entscheidung vom 5. April 1950, 1 Ob 183/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Kläger begehrt Herausgabe einer Reihe von Sachen, deren Wert er mit 2500 S bezifferte.
+Das Erstgericht erließ ein Teilanerkenntnisurteil. In der Berufungsmitteilung bewertete die Klägerin den Teilanspruch, über den der Erstrichter erkannt hatte, mit 50 S und beantragte, die Berufung als unzulässig zu verwerfen.
+Das Berufungsgericht bejahte die Zulässigkeit der Berufung, weil eine Teilbewertung der vom angeblichen Anerkenntnis betroffenen Gegenstände in erster Instanz nicht vorgenommen worden sei; in der Sache selbst gab es der Berufung Folge, weil der Beklagte den Klagsanspruch auch nicht teilweise anerkannt habe, und wies den Antrag auf Erlassung eines Teilanerkenntnisurteiles ab.
+Klägerin hat gegen diese Entscheidung des Berufungsgerichtes die Revision erhoben, in der sie die Revisionsgrunde der Z. 1, 2 und 4 des § 503 ZPO. geltend macht.
+Der Revisionsgrund der Z. 1 wird darin erblickt, daß der Teilanspruch, über den Anerkenntnisurteil gefällt wurde, als Bagatellanspruch hätte qualifiziert werden sollen, weshalb eine Revision nach § 502 Abs. 2 ZPO. unzulässig sei.
+Der Oberste Gerichtshof gab der Revision nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die behauptete Nichtigkeit liegt nicht vor. Eine Sache ist nur dann im Bagatellverfahren zu behandeln, wenn ein die Bagatellgrenze nicht übersteigender Anspruch geltend gemacht wird, oder wenn im Zuge des Prozesses das Klagebegehren auf einen die Bagatellgrenze nicht übersteigenden Betrag eingeschränkt wird. Der Umstand, daß das Erstgericht nicht mit einem einzigen Urteil über den Klagsanspruch, sondern darüber in mehreren Teilurteilen entschieden hat, kann eine Verfahrensänderung nicht bewirken, weil sonst die Parteien durch Fällung von Teilurteilen um das ihnen nach dem Gesetz zustehende Berufungs-(Revisions-)recht gebracht werden könnten (JB. 249 alt und SZ. XVI/144). Das Berufungsgericht hat daher zutreffend die Berufung für zulässig erachtet und über sie meritorisch entschieden.

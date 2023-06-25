@@ -1,0 +1,34 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+12.10.2021
+Geschäftszahl
+3R85/21y
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Mag. Iby als Vorsitzenden sowie die Richter Mag. Guggenbichler und Dr. Stiefsohn in der Rechtssache der klagenden Partei A* GmbH, **, vertreten durch Mag. Karl Peter Resch, Rechtsanwalt in Knittelfeld, wider die beklagte Partei B* GmbH, C*, ** D*, vertreten durch die Estermann Pock Rechtsanwälte GmbH in Wien, wegen EUR 59.303,28 sA, über den Rekurs der beklagten Partei gegen den Beschluss des Handelsgerichts Wien vom 26.8.2021, 31 Cg 66/21x-8, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird nicht Folge gegeben.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 1.883,34 (darin enthalten EUR 313,89 USt) bestimmten Kosten des Rekursverfahrens binnen 14 Tagen zu ersetzen.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Text
+Begründung
+Mit ihrer am 14.6.2021 beim LG Leoben eingebrachten Mahnklage begehrte die Klägerin von der Beklagten die Zahlung des ihrer Ansicht nach offenen Werklohns für die Planung der Haustechnik beim Bauvorhaben E*straße F*, ** D*, in der Höhe von EUR 59.303,28 sA.
+Der bedingte Zahlungsbefehl wurde der Beklagten am 23.6.2021 per Post zugestellt.
+Am 22.7.2021 brachte die Beklagte einen Einspruch gegen den Zahlungsbefehl ein, in dem sie die Zurückweisung der Klage wegen örtlicher Unzuständigkeit und hilfsweise die Abweisung des Klagebegehrens beantragte.
+Am 10.8.2021 unterwarf sich die Klägerin der Unzuständigkeitseinrede und beantragte die Überweisung der Rechtssache an das HG Wien. Am 11.8.2021 überwies das LG Leoben die Rechtssache antragsgemäß.
+Das HG Wien wies den Einspruch mit dem angefochtenen Beschluss als verspätet zurück und verwies darauf, dass der Einspruch einen Tag nach dem Ablauf der Einspruchsfrist eingebracht worden sei.
+Gegen diesen Beschluss richtet sich der Rekurs der Beklagten wegen Nichtigkeit, Mangelhaftigkeit des Verfahrens und unrichtiger rechtlicher Beurteilung mit dem Antrag, den Beschluss ersatzlos zu beheben und dem Erstgericht die Einleitung des ordentlichen Verfahrens über die Klage aufzutragen. (Hilfsweise beantragt sie die Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Einspruchsfrist.)
+Die Klägerin beantragt, dem Rekurs nicht Folge zu geben (und den Wiedereinsetzungsantrag abzuweisen).
+Rechtliche Beurteilung
+Der Rekurs ist nicht berechtigt.
+1. Die Beklagte argumentiert zu allen Rekursgründen einheitlich, der Zahlungsbefehl sei ihr nicht wirksam zugestellt worden, sodass die Einspruchsfrist nicht zu laufen begonnen habe. Die Beklagte nehme an der elektronischen Zustellung (§ 1b E-GovG) teil und habe das Recht auf elektronischen Verkehr mit den Gerichten (§ 1a E-GovG). Die Gerichte seien verpflichtet gewesen, bis spätestens 1.1.2020 die technischen und organisatorischen Voraussetzungen für einen elektronischen Verkehr mit den Beteiligten gemäß § 1a E-GovG zu schaffen (§ 25 Abs 1 E-GovG). Das Recht der Beklagten auf elektronischen Verkehr wäre bedeutungslos, wenn die Art der Zustellung im Belieben der Gerichte stünde. Die Beklagte habe ihr Recht auf elektronischen Verkehr dadurch geltend gemacht, dass sie an der elektronischen Zustellung gemäß § 1b E-GovG teilnehme und im Teilnehmerverzeichnis gemäß § 28a ZustG angemeldet sei, was das Gericht durch Abfrage des Teilnehmerverzeichnisses zu prüfen gehabt hätte. Die Zustellung des Zahlungsbefehls sei ohne vorherige Abfrage des Teilnehmerverzeichnisses auf postalischem Weg erfolgt, sodass sie rechtswidrig gewesen sei. Der Lauf der Einspruchsfrist habe dadurch nicht in Gang gesetzt werden können.
+2. Dieser Argumentation ist, wie die Klägerin in der Rekursbeantwortung zutreffend aufzeigt, nicht zu folgen:
+2.1. Die elektronische Zustellung der ordentlichen Gerichte richtet sich nach den §§ 89a ff GOG (§ 28 Abs 2 Satz 1 ZustG). Gemäß § 89a Abs 2 GOG kann das Gericht anstelle schriftlicher Ausfertigungen gerichtlicher Erledigungen sowie anstelle von Gleichschriften von Eingaben, die elektronisch angebracht worden sind, die darin enthaltenen Daten an Einschreiter, die Eingaben elektronisch anbringen, auch elektronisch übermitteln. Das von der Beklagten angesprochene allgemeine Recht auf elektronischen Verkehr mit Gerichten und Verwaltungsbehörden in den Angelegenheiten, die in der Gesetzgebung Bundessache sind (§ 1a E-GovG), gilt daher im Bereich der ordentlichen Gerichte noch nicht ausnahmslos: Vielmehr steht es den Gerichten gemäß § 89a Abs 2 GOG nach wie vor frei, postalische Zustellungen an die Parteien zu verfügen. Die Zustellung des Zahlungsbefehls an die Beklagte ist daher gesetzmäßig erfolgt.
+3. Für die Beklagte wäre aber auch nichts gewonnen, wollte man den behaupteten Zustellmangel (zunächst) bejahen: Unterlaufen nämlich im Verfahren der Zustellung Mängel, so gilt die Zustellung gemäß § 7 ZustG als in dem Zeitpunkt dennoch bewirkt, in dem das Dokument dem Empfänger tatsächlich zugekommen ist. Die Beklagte bestreitet nicht, dass ihr der Zahlungsbefehl am 23.6.2021 tatsächlich zugekommen ist. Ein allfälliger Zustellmangel wäre spätestens zu diesem Zeitpunkt geheilt gewesen, sodass der 21.7.2021 der letzte Tag der vierwöchigen Einspruchsfrist (§ 248 Abs 2 ZPO) war. Da der Einspruch erst am 22.7.2021 und damit verspätet eingebracht wurde, war er ohne Verhandlung mit Beschluss zurückzuweisen (vgl § 249 Abs 1 ZPO).
+4. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO.
+5. Der Ausspruch über die Unzulässigkeit des Revisionsrekurses gründet auf § 528 Abs 2 Z 2 ZPO. Der angefochtene Beschluss wurde zur Gänze bestätigt.
+6. Das Erstgericht wird nunmehr den hilfsweise erhobenen Wiedereinsetzungsantrag der Beklagten zu behandeln haben.
+European Case Law Identifier
+ECLI:AT:OLG0009:2021:00300R00085.21Y.1012.000

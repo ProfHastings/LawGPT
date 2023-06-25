@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2020
+Geschäftszahl
+7Ob205/20b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und die Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Ö***** C*****, vertreten durch Mag. German Bertsch, Rechtsanwalt in Feldkirch, gegen die beklagte Partei D***** Versicherung AG *****, vertreten durch Mag. Daniela Weiss und Dr. Bernhard Ess, Rechtsanwälte in Feldkirch, wegen 31.912,67 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 30. September 2020, GZ 4 R 97/20a-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Eine Gefahrenerhöhung nach § 23 Abs 1 VersVG ist eine nachträgliche Änderung der bei Vertragsabschluss tatsächlich vorhandenen gefahrenerheblichen Umstände, die den Eintritt des Versicherungsfalls oder eine Vergrößerung des Schadens wahrscheinlicher macht und den Versicherer deshalb vernünftigerweise veranlassen kann, die Versicherung aufzuheben oder nur gegen erhöhte Prämie fortzusetzen (RS0080357, RS0080237). Darunter wird ein Gefährdungsvorgang verstanden, der seiner Natur nach geeignet ist, einen neuen Gefahrenzustand von so langer Dauer zu schaffen, dass er die Grundlage eines neuen natürlichen Schadenverlaufs bilden kann und damit den Eintritt des Versicherungsfalls generell zu fördern geeignet ist (RS0080491). Zu einer Gefahrenerhöhung im Sinn des § 23 Abs 1 VersVG kann es auch durch den Einsatz eines nicht mehr verkehrssicheren Fahrzeugs kommen, was etwa dann der Fall ist, wenn abgefahrene Reifen verwendet werden (RS0080147; 7 Ob 78/71 = VersE 518; 7 Ob 123/73 = VersE 598 = VersR 1974, 454; 7 Ob 65/76 = VersE 775; 7 Ob 31/77 = VersE 819).
+[2] 		2.1. Der Personenkraftwagen des Klägers, der in Österreich zugelassen war, durfte während des Zeitraums 1. 11. bis 15. 4. bei winterlichen Fahrbahnverhältnissen wie insbesondere Schneefahrbahn, Schneematsch oder Eis nur dann in Betrieb genommen werden, wenn an allen Rädern Winterreifen angebracht sind (§ 102 Abs 8a KFG), die eine Profiltiefe von mindestens 4 mm (Reifen in Radialbauart) aufweisen (§ 4 Abs 4 Z 4 Kraftfahrgesetz-Durchführungsverordnung 1967).
+[3] 		2.2. Die Vorinstanzen wiesen das Begehren des Klägers auf Leistung aus dem mit der Beklagten geschlossenen Kaskoversicherungsvertrag wegen Gefahrenerhöhung ab, weil die Profiltiefe der hinteren beiden Reifen nur mehr rund 2,2 mm war, sodass davon auszugehen sei, dass keine hinreichend betriebssichere Bereifung vorgelegen sei. Diese Beurteilung hält sich im Rahmen der zitierten Judikatur.
+[4] 		2.3. Entgegen der Ansicht des Klägers ist im Zusammenhang mit der Gefahrenerhöhung nicht „lediglich das grob fahrlässige Aufrechterhalten gefahrerhöhender Umstände maßgeblich“. Wie sich aus § 25 Abs 2 Satz 1 VersVG ergibt, genügt jeder Grad schuldhaften Verhaltens des Versicherungsnehmers, also bereits leichte Fahrlässigkeit. Er bestreitet nicht, dass ihm der nicht mehr betriebssichere Zustand der Hinterreifen bekannt sein musste (vgl auch 7 Ob 123/73).
+[5] 		2.4. Der Kläger hat seinen Wohnsitz, die Beklagte ihren Sitz in Österreich. Die Parteien des Kaskoversicherungsvertrags vereinbarten zusätzlich die Anwendung österreichischen Rechts. Ohne Fehlbeurteilung ging das Berufungsgericht davon aus, dass dem Kaskoversicherungsvertrag österreichische Vorschriften zugrundezulegen sind. Für die Gefahrenerhöhung ist damit allein die sehr deutliche Unterschreitung der Mindestprofiltiefe von 4 mm (nur 2,2 mm auf der Hinterachse) bei winterlichen Fahrbahnverhältnissen maßgeblich. Die Rechtsansicht der Vorinstanzen, dass es darauf, dass sich der Unfall in Deutschland (bei der Fahrt nach W*****) ereignete und nach den dortigen Vorschriften bei Glatteis, Schneeglätte, Schneematsch, Eisglätte oder Reifglätte lediglich die Verwendung von Winterreifen mit einer Mindestprofiltiefe von 1,6 mm vorgeschrieben war (§ 2 Abs 3a Satz 1 [deutsche] Straßenverkehrs-Ordnung; § 36 Abs 3 Satz 4 [deutsche] Straßenverkehrs-Zulassungs-Ordnung), nicht ankomme, ist damit nicht korrekturbedürftig.
+[6] 		3. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00205.20B.1217.000

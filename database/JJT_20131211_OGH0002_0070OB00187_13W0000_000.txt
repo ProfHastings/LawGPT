@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.12.2013
+Geschäftszahl
+7Ob187/13w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei G***** Versicherung AG, *****, vertreten durch Dr. Peter Lindinger und Dr. Andreas Pramer, Rechtsanwälte in Linz, gegen die beklagte Partei F***** M*****, vertreten durch Dr. Stefan Vargha, Rechtsanwalt in Salzburg, wegen 5.644,94 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 6. Juni 2013, GZ 53 R 106/13i-25, womit das Urteil des Bezirksgerichts Salzburg vom 12. Februar 2013, GZ 12 C 1187/11a-21, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 559,15 EUR (darin enthalten 93,19 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht vertrat die Rechtsansicht, dass der Beklagte schon deshalb nicht regresspflichtig sei, weil die Klägerin kein Zuwiderhandeln gegen Obliegenheiten des § 5 Abs 1 KHVG behauptet habe. Es sprach aus, dass die ordentliche Revision zulässig sei, weil ein Spannungsverhältnis zwischen den Entscheidungen des Obersten Gerichtshofs 7 Ob 119/00s und RIS-Justiz RS0119238 einerseits und RIS-Justiz RS0080866 und RS0058240 andererseits bestehe. Erhebliche Rechtsfrage sei, ob und unter welchen Voraussetzungen der mitversicherte Lenker regresspflichtig werde, wenn er (für den Versicherungsnehmer) Handlungen setze, die den Hergang des verschuldeten Unfalls unklar werden ließen.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die ordentliche Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Zwischen den Parteien besteht ein Kraftfahrzeughaftpflichtversicherungsvertrag, dem die AKHB 2009 zugrunde liegen. Art 9.3 lautet auszugsweise:
+„Als Obliegenheiten, deren Verletzung nach Eintritt des Versicherungsfalls die Freiheit des Versicherers von der Verpflichtung zur Leistung bewirkt (§ 6 Abs 3 VersVG), werden bestimmt,
+...
+3.4. Nach Möglichkeit zur Feststellung des Sachverhalts beizutragen. ...“
+Beide Parteien erkennen zutreffend, dass der vom Berufungsgericht vermutete Widerspruch in der Rechtsprechung nicht besteht. Das Berufungsgericht unterscheidet zu Unrecht nicht zwischen Obliegenheiten vor und solchen nach Eintritt des Versicherungsfalls. § 5 KHVG, der dem Rechtssatz RIS-Justiz RS0119238 zugrunde liegt, regelt Obliegenheiten vor Eintritt des Versicherungsfalls. Die Aufklärungsobliegenheit (§ 6 KHVG) besteht hingegen nach Eintritt des Versicherungsfalls.
+Grundsätzlich ist in der Kraftfahrzeughaftpflichtversicherung der mitversicherte Lenker, hinsichtlich dessen Person die Versicherung als für fremde Rechnung abgeschlossen gilt, nach § 78 VersVG zur Erfüllung der gegenüber dem Versicherer bestehenden Obliegenheiten verpflichtet (RIS-Justiz RS0080866). Der Versicherer muss die objektive Verletzung einer Obliegenheit durch den Versicherungsnehmer beweisen. Der Versicherungsnehmer muss beweisen, dass er die ihm angelastete Obliegenheitsverletzung weder vorsätzlich noch grob fahrlässig begangen hat (RIS-Justiz RS0081313).
+Entgegen der Rechtsmeinung des Berufungsgerichts ist hier sehr wohl zu prüfen, ob dem Beklagten eine Obliegenheitsverletzung anzulasten ist oder nicht. Dies führt aber, ausgehend von der ständigen oberstgerichtlichen Rechtsprechung, zu keiner anderen Beurteilung des Rechtsfalls.
+Der Versicherte verletzt seine Aufklärungspflicht, wenn er einen von ihm verursachten Verkehrsunfall der nächsten Polizei- oder Gendarmeriedienststelle verspätet (oder gar nicht) meldet, sofern er zur sofortigen Anzeigeerstattung nach dieser Gesetzesstelle verpflichtet ist und im konkreten Fall etwas verabsäumt wurde, das zur Aufklärung des Sachverhalts dienlich gewesen wäre. Die Übertretung des § 4 Abs 5 StVO ist für sich allein nicht schon einer Verletzung der Aufklärungsobliegenheit gleichzuhalten. Es ist vielmehr notwendig, dass ein konkreter Verdacht in bestimmter Richtung durch objektives Unbenützbarwerden eines Beweismittels infolge Unterlassung der Anzeige im Nachhinein nicht mehr mit Sicherheit ausgeschlossen werden kann. Der konkrete Verdacht und die Unbenützbarkeit des Beweismittels infolge Unterlassung (Verspätung) der Anzeige muss vom Versicherer behauptet und bewiesen werden (RIS-Justiz RS0043520).
+Falsche Angaben über ein Schadensereignis bedeuten grundsätzlich nur dann eine Obliegenheitsverletzung, wenn sie gegenüber dem Versicherer abgegeben werden. Infolge dessen stellen falsche Angaben gegenüber der Polizei keinen Verstoß gegen die Aufklärungspflicht des Versicherungsnehmers dar, wenn dieser dem Versicherer den wahren Sachverhalt mitgeteilt und nicht beispielsweise dem Versicherer gegenüber auf die vor der Polizei gemachten Angaben verwiesen hat (RIS-Justiz RS0080929).
+Der Beklagte verstieß zwar gegen § 4 Abs 5 StVO und er machte auch der Polizeibehörde gegenüber falsche Angaben (er täuschte einen Diebstahl des versicherten Fahrzeugs vor). Entscheidend ist aber im Sinn der dargelegten Judikatur, dass der Beklagte der Klägerin gegenüber nie unrichtige Angaben machte. Die Klägerin kann keinen konkreten Verdacht, der auf Grund des Verhaltens des Beklagten nicht mehr mit Sicherheit ausgeschlossen werden kann, oder die Unbenützbarkeit eines Beweismittels behaupten und beweisen. Die Rechtsansicht des Erstgerichts, dass dem Versicherten damit keine Obliegenheitsverletzung anzulasten ist, hält sich daher im Rahmen der Judikatur. Es werden keine erheblichen Rechtsfragen geltend gemacht.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO. Die Revisionsbeantwortung weist auf die Unzulässigkeit der Revision hin.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0070OB00187.13W.1211.000

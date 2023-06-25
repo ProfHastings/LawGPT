@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.05.2017
+Geschäftszahl
+4Ob74/17m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Rechtsschutzverband der Fotografen Österreichs, *****, vertreten durch Mag. Florian Pitner, Rechtsanwalt in Pregarten, gegen die beklagte Partei s ***** GmbH, *****, vertreten durch Pacher & Partner Rechtsanwälte GmbH & Co KG in Graz, sowie des Nebenintervenienten auf Seiten der beklagten Partei Dr. Christian Lind, Rechtsanwalt, St. Pölten, Domgasse 2, als Masseverwalter im Konkurs über das Vermögen der I***** GesmbH, wegen Unterlassung (Streitwert 18.000 EUR) und Urteilsveröffentlichung (Streitwert 2.000 EUR), über die Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Jänner 2017, GZ 5 R 57/16p-22, womit das Urteil des Handelsgerichts Wien vom 28. Jänner 2016, GZ 30 Cg 5/15k-14, teilweise bestätigt und teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 917,02 EUR (darin 152,84 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die beklagte Partei bewarb im Internet ein Musterhaus der Nebenintervenientin mit Lichtbildern, die der Fotograf M***** S***** für die Nebenintervenientin herstellte. Dieser hatte der Nebenintervenientin die Lichtbilder als elektronische Datei übermittelt, samt einem „Copyright“-Hinweis in den Metadaten der Datei (das sind Daten mit Informationen über andere Daten). Die Nebenintervenientin stellte der beklagten Partei diese Fotos zur Verfügung. Die beklagte Partei veröffentlichte die Fotos ohne Herstellerbezeichnung des Fotografen.
+Der vom Fotograf mit der Wahrnehmung seiner Rechte beauftragte klagende Verein beantragte, der beklagten Partei zu verbieten, diese Lichtbilder zu veröffentlichen, insbesondere ohne Herstellerbezeichnung iSd § 74 Abs 3 UrhG. Weiters stellte er ein dazu korrespondierendes Urteilsveröffentlichungsbegehren.
+Die Vorinstanzen untersagten der beklagten Partei die Veröffentlichung der Lichtbilder ohne Herstellerbezeichnung und gaben dem Urteilsveröffentlichungsbegehren statt. Das Berufungsgericht wies in Abänderung der zur Gänze stattgebenden Entscheidung des Erstgerichts das auf ein generelles Veröffentlichungsverbot der Bilder abzielende Mehrbegehren rechtskräftig ab. Die Vorinstanzen gingen übereinstimmend davon aus, dass ein Hinweis in den Metadaten einer elektronischen Bilddatei für den Anspruch nach § 74 Abs 3 UrhG ausreicht.
+Das Berufungsgericht sprach aus, dass der Wert des Entscheidungsgegenstands 5.000 EUR, nicht aber 30.000 EUR übersteigt und ließ die ordentliche Revision zur Frage zu, ob das Anbringen eines Herstellervermerks in den Metadaten ausreicht, um die Verpflichtung zur Namensnennung zu begründen.
+Die Revision der beklagten Partei ist ungeachtet des – den Obersten Gerichtshof nicht bindenden – Zulassungsausspruchs des Berufungsgerichts nicht zulässig.
+Rechtliche Beurteilung
+Der Senat hat jüngst in seiner Entscheidung vom 28. 3. 2017 zu 4 Ob 43/17b klargestellt, dass auch Hinweise in den Metadaten einer digitalen Bilddatei eine ausreichende Verbindung zum Bild schaffen und daher das Recht nach § 74 Abs 3 UrhG begründen. Damit ist die vom Berufungsgericht und von der Revisionswerberin aufgeworfene Rechtsfrage bereits hinreichend geklärt.
+Der Umstand, dass die Entscheidung erst nach der angefochtenen Berufungsentscheidung ergangen ist, kann die Zulässigkeit des Rechtsmittels nicht begründen. Das Vorliegen einer erheblichen Rechtsfrage ist nämlich für den Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn die bedeutsame Rechtsfrage durch eine andere Entscheidung des Obersten Gerichtshofs bereits vorher geklärt wurde (RIS-Justiz RS0112921 [T5]). Wegen der Klärung der hier allein entscheidungswesentlichen Rechtsfrage durch die Entscheidung 4 Ob 43/17b ist die von der beklagten Partei aufgeworfene Rechtsfrage nicht (mehr) als erheblich einzustufen. Das Rechtsmittel ist daher zurückzuweisen.
+Für die Kostenentscheidung ist allerdings zu beachten, dass die klagende Partei die Unzulässigkeit der Revision bei Einbringung ihrer Rechtsmittelbeantwortung nicht erkennen konnte, weil zu diesem Zeitpunkt die Entscheidung 4 Ob 43/17b noch nicht abgefertigt war. Die Kosten der Revisionsbeantwortung sind unabhängig davon zuzusprechen, ob ausdrücklich auf die Unzulässigkeit der Revision hingewiesen wurde (8 Ob 23/08b mwN).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00074.17M.0503.000

@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2022
+Geschäftszahl
+4Ob201/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr. Schwarzenbacher als Vorsitzenden sowie die Hofräte und Hofrätinnen Hon.-Prof. PD Dr. Rassi, Dr. Kodek, MMag. Matzka und Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei H*, vertreten durch Mag. Robert Bumberger, Rechtsanwalt in Linz, gegen die beklagte Partei G*, vertreten durch Mag. Christof Heel, Rechtsanwalt in Innsbruck, wegen 303.943,67 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 20. Oktober 2021, GZ 2 R 147/21s-58, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Im gegenständlichen Arzthaftungsprozess macht der Kläger in seiner außerordentlichen Revision ausschließlich Verfahrensmängel des Berufungsverfahrens geltend, die er darin erblickt, dass das Berufungsgericht erstgerichtliche Verfahrensmängel zu Unrecht verneint und die erstgerichtlichen Feststellungen bestätigt habe, obwohl sie auf Basis eines widersprüchlichen Gutachtens getroffen worden seien. Damit zeigt er keine erheblichen Rechtsfragen auf.
+Rechtliche Beurteilung
+[2] 		1. Verfahrensmängel des Erstgerichts, die in der Berufung geltend gemacht und vom Berufungsgericht verneint wurden, können nach ständiger Rechtsprechung im Revisionsverfahren grundsätzlich nicht mehr geltend gemacht werden (RS0042963, RS0106371). Der Oberste Gerichtshof könnte nur eine Mangelhaftigkeit des Berufungsverfahrens aufgreifen, wenn das Berufungsgericht infolge unrichtiger Anwendung verfahrensrechtlicher Vorschriften eine Erledigung der Mängelrüge unterlassen oder sie mit einer durch die Aktenlage nicht gedeckten Begründung verworfen hätte (RS0042963 [T52]). Ein solcher Fall liegt hier aber nicht vor.
+[3] 		2.1. Der Oberste Gerichtshof ist nur Rechts- und nicht Tatsacheninstanz (RS0123663). Ob ein (weiteres) Sachverständigengutachten einzuholen gewesen wäre, hat als Frage der Beweiswürdigung daher das Berufungsgericht abschließend zu beurteilen (RS0043320, RS0042963 [insbes T42, T44, T57, T64]).
+[4] 		2.2. Auch in diesem Zusammenhang war das Berufungsverfahren mangelfrei, weil sich das Berufungsgericht mit der Beweisrüge befasst, die Beweiswürdigung des Erstgerichts überprüft, nachvollziehbare Überlegungen zur Beweiswürdigung angestellt und in seinem Urteil festgehalten hat (vgl RS0043150).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00201.21V.0125.000

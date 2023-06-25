@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2022
+Geschäftszahl
+4Ob194/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, MMag. Matzka und Dr. Annerl sowie die Hofrätin Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei A* GmbH, *, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, gegen die beklagten Parteien 1. G* (Verein), 2. G* GmbH, beide *, vertreten durch Dr. Brigitte Birnbaum, Dr. Rainer Toperczer, Rechtsanwälte in Wien, wegen Unterlassung, Herausgabe, Feststellung und Urteilsveröffentlichung (Gesamtstreitwert 75.000 EUR), über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Juli 2022, GZ 2 R 47/22d-41, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin schloss als Inhaberin der Wortbildmarke „Genuss Region Österreich“ mit der Erstbeklagten einen Lizenzvertrag, für deren Umsetzung die Zweitbeklagte verantwortlich war. Letzterer wurde im Rahmen einer Nutzungsvereinbarung gestattet, das „Logo“ (die genannte Marke) zu verwenden. Nach der Kündigung der Vereinbarungen durch die Klägerin setzten die Beklagten die Verwendung der Marke dennoch weiter fort und meldeten eine ähnliche Marke zur Eintragung an.
+[2] 		Das Erstgericht wies die marken- und kennzeichenrechtlichen Ansprüche der Klägerin mangels kennzeichenmäßiger Benutzung ab, gab jedoch den lauterkeitsrechtlichen Ansprüchen (Unterlassung, Domain-Übertragung, Urteilsveröffentlichung) teilweise statt.
+[3] 		Das von beiden Seiten angerufene Berufungsgericht bestätigte diese Entscheidung und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteige und die ordentliche Revision nicht zulässig sei.
+[4] 		Dagegen richtet sich die außerordentliche Revision der Beklagten mit dem Antrag, die Klage zur Gänze abzuweisen.
+Rechtliche Beurteilung
+[5] 		Die Revision wirft keine erheblichen Rechtsfragen auf, die im Kern nicht schon mit der Entscheidung im Provisorialverfahren zu 4 Ob 168/20i – auf welche verwiesen wird – beantwortet wurden. Die Revision ist somit nicht zulässig und folglich zurückzuweisen.
+[6] 		1.1. Die Beklagten machen geltend, die Klägerin wäre im Rahmen des Lizenzvertrags zu einer (Neu-) Anmeldung der Marke als Gewährleistungsmarke verpflichtet gewesen. Die Beklagten hätten durch ihre Markenanmeldung die Sache berechtigterweise selbst verbessert.
+[7] 		1.2. Diesen Ausführungen ist entgegenzuhalten, dass Gewährleistungsfragen aus dem Lizenzvertrag zwischen den Streitteilen hier nicht präjudiziell sind. Abgesehen vom mangelnden Vorbringen zum angeblichen Vertragsbruch der Klägerin wurde bereits im Provisorialverfahren (4 Ob 168/20i) ausgesprochen, dass der Berechtigte sogar bei unentgeltlicher Lizenzvergabe nicht hinnehmen muss, dass der (ehemalige) Vertragspartner ein (nahezu) identes Zeichen auf demselben Markt verwendet. Die Vorinstanzen sind daher vertretbar von lauterkeitswidrigem Behinderungswettbewerb (vgl RS0077533) der Beklagten ausgegangen.
+[8] 		2. Die Frage der Rückübertragung des Webinhalts der Internetdomain haben die Vorinstanzen unter Zugrundelegung einer vertretbaren Vertragsauslegung gelöst, die jedenfalls nicht als auffallende Fehlbeurteilung zu qualifizieren ist (vgl RS0112106 [T1]).
+[9] 		3. Der Frage, ob und in welchem Umfang eine Veröffentlichung des Urteils nach den Umständen des Falls zur Aufklärung des Publikums geboten ist, kommt keine erhebliche Bedeutung zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung zu (RS0042967 [T8]). Hier haben die Vorinstanzen das Interesse der Klägerin an der Urteilsveröffentlichung schon wegen der großen Zahl der (ehemaligen) Lizenznehmer der Klägerin vertretbar bejaht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00194.22S.1220.000

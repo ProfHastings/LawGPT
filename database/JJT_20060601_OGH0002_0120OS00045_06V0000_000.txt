@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.06.2006
+Geschäftszahl
+12Os45/06v (12Os46/06s)
+Kopf
+Der Oberste Gerichtshof hat am 1. Juni 2006 durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schindler als Vorsitzenden sowie die Hofräte des Obersten Gerichtshofes Dr. Zehetner, Dr. Schwab, Dr. Lässig und Dr. Solé als weitere Richter, in Gegenwart der Richteramtsanwärterin Mag. Dachler als Schriftführerin, in der Strafsache gegen Hanspeter P***** wegen des Vergehens des betrügerischen Datenmissbrauchs nach § 148a Abs 1 StGB über die vom Generalprokurator erhobene Nichtigkeitsbeschwerde zur Wahrung des Gesetzes gegen die Urteile des Bezirksgerichtes Innsbruck vom 1. Oktober 2002, GZ 9 U 362/02a-8, und des Landesgerichtes Innsbruck als Berufungsgericht vom 4. April 2003, AZ II Bl 53/03, ON 14 der U-Akten, nach öffentlicher Verhandlung in Anwesenheit des Vertreters des Generalprokurators, Generalanwalt Dr. Fabrizy, zu Recht erkannt:
+Spruch
+Im Strafverfahren zum AZ 9 U 362/02a des Bezirksgerichtes Innsbruck verletzen die Urteile dieses Gerichtes vom 1. Oktober 2002 (ON 8) und des Landesgerichtes Innsbruck als Berufungsgericht vom 4. April 2003 (II Bl 53/03, ON 14) das Gesetz in der Bestimmung des § 148a Abs 1 StGB.
+Text
+Gründe:
+Mit Urteil des Bezirksgerichtes Innsbruck vom 1. Oktober 2002, GZ 9 U 362/02a-8, wurde Hanspeter P***** - dem Strafantrag des Bezirksanwaltes entsprechend - des Vergehens des Diebstahles nach § 127 StGB schuldig erkannt. Danach hat er am 18. März 2002 in Innsbruck „fremde Sachen, und zwar einen Betrag von 250 Euro, welchen er bei der Raiffeisen-Landesbank Marktplatz mittels der aufgefundenen Bankomatkarte der Herlinde W***** von ihrem Konto auf sein Konto überweisen ließ, mit dem Vorsatz weggenommen, sich durch die Zueignung unrechtmäßig zu bereichern".
+Der dagegen erhobenen Berufung der Staatsanwaltschaft wegen Nichtigkeit (ON 10), mit welcher die Anklagebehörde die rechtliche Beurteilung der Tat als Vergehen des betrügerischen Datenverarbeitungsmissbrauchs nach § 148a (Abs 1) StGB anstrebte, gab das Landesgericht Innsbruck mit Urteil vom 4. April 2003, AZ II Bl 53/03 (ON 14 der U-Akten), nicht Folge.
+Beide Urteile stehen mit dem Gesetz nicht im Einklang.
+Rechtliche Beurteilung
+Das Tatbild des Vergehens des Diebstahles nach § 127 StGB erfordert ua eine Sachwegnahme unter Bruch der tatsächlichen Sachherrschaft des Gewahrsamsinhabers. In diesem Sinn beurteilt die ständige Rechtsprechung die Behebung von Bargeld bei einem Bankomaten mittels unbefugter Benützung einer fremden Bankomatkarte als Diebstahl (SSt 56/85 = JBl 1986, 261; EvBl 1990/40 = JBl 1992, 605; RZ 1997/50; 15 Os 139, 140/02, SSt 64/88).
+Vorliegend hat der Angeklagte aber nicht Geld der Bank durch unberechtigte Behebung bei einem Bankomat weggenommen, sondern - getragen von einem Schädigungs- und Bereicherungsvorsatz - bei einem Überweisungsautomaten unter Verwendung einer entfremdeten Bankomatkarte zwei Geldüberweisungen vom Konto der Berechtigten auf sein eigenes Bankkonto durchgeführt. Mangels einer durch Gewahrsamsbruch erfolgten Sachwegnahme erfüllt dieses Vorgehen nicht den Tatbestand des Diebstahles nach § 127 StGB; vielmehr ist dadurch der Tatbestand des betrügerischen Datenverarbeitungsmissbrauchs nach § 148a Abs 1 StGB infolge der mit der Tatbegehung verbundenen Beeinflussung des Ergebnisses einer automationsunterstützten Datenverarbeitung durch Eingabe von Daten verwirklicht (vgl 15 Os 131/95, 15 Os 99/05f; Kirchbacher/Presslauer WK² § 148a Rz 4, 11, 16, 18, 31).
+Die unrichtige Subsumtion war aufgrund der vom Generalprokurator erhobenen Nichtigkeitsbeschwerde zur Wahrung des Gesetzes als Verletzung des materiellen Rechtes festzustellen. Mangels eines - zufolge Gleichheit der Sanktionsdrohungen - Nachteiles für den Angeklagten liegt kein Anlass für eine Maßnahme gemäß § 292 letzter Satz StPO vor.

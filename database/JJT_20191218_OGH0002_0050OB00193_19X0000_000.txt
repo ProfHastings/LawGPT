@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.12.2019
+Geschäftszahl
+5Ob193/19x
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerinnen 1. W***** und 2. G*****, beide vertreten durch Thurnher Wittwer Pfefferkorn & Partner Rechtsanwälte GmbH in Dornbirn, wegen Grundbuchseintragungen in EZ *****1 und *****0, beide KG *****, über den Revisionsrekurs der Antragstellerinnen gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 22. August 2019, AZ 2 R 191/19g, mit dem der Beschluss des Bezirksgerichts Bludenz vom 2. Juli 2019, TZ 2518/2019, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Erstantragstellerin ist Eigentümerin der Liegenschaft EZ *****1, die Zweitantragstellerin ist Miteigentümerin der benachbarten Liegenschaft EZ *****0. Mit ihren Miteigentumsanteilen ist Wohnungseigentum am Objekt W 1 verbunden.
+Das Erstgericht wies den Antrag, aufgrund des Dienstbarkeitsvertrags vom 20. 4. 2018 in EZ *****1 eine Grunddienstbarkeit (übertragbares Nutzungsrecht an Räumlichkeiten der EZ *****1) für den jeweiligen Eigentümer der Miteigentumsanteile, mit denen Wohnungseigentum an W 1 verbunden ist, einzuverleiben, ab. Die Einverleibung des unbefristet eingeräumten Benutzungsrechts als Grunddienstbarkeit sei ohne zeitliche Beschränkung nicht zulässig.
+Das Rekursgericht teilte diese Ansicht und gab dem Rekurs der Antragstellerinnen nicht Folge. Es ließ den Revisionsrekurs zu, weil sich die bisherige Rechtsprechung zur notwendigen zeitlichen Beschränkung nicht auf die Nutzung von Räumen auf einer fremden Liegenschaft bezogen habe.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Antragstellerin ist entgegen dem den Obersten Gerichtshof nicht bindenden (§ 71 Abs 1 AußStrG) Ausspruch des Rekursgerichts nicht zulässig.
+1. Das Recht, bestimmte Räumlichkeiten auf einer fremden Liegenschaft zu nutzen, kann nach der Rechtsprechung entweder Fruchtgenuss- oder Gebrauchsrecht sein. Je nachdem, ob Räume nur zum persönlichen Bedarf oder ohne diese Einschränkung benützt und demnach an Dritte überlassen werden dürfen, liegt Gebrauchsrecht oder Fruchtnießung vor (RIS-Justiz RS0011826). In beiden Varianten handelt es sich um eine Personaldienstbarkeit (§ 478 ABGB).
+2. Grunddienstbarkeiten werden dadurch charakterisiert, dass den Eigentümer des belasteten Grundstücks Duldungs- oder Unterlassungspflichten treffen und der jeweilige Eigentümer des herrschenden Grundstücks berechtigt ist (RS0011597 [T2]).
+3. Eine Dienstbarkeit, die gewöhnlich eine persönliche ist (das Fruchtgenussrecht), kann auch als Grunddienstbarkeit bestellt werden (stRsp; RS0011621). Eine solche Verbücherung ist jedoch nach Rechtsprechung und Lehre nur mit einer zeitlichen Beschränkung möglich, um die dauernde Schaffung geteilten Eigentums zu verhindern (RS0011621 [T1]; RS0115508; 5 Ob 212/18i; Rassi in Kodek Grundbuchsrecht² § 12 GBG Rz 21; Koch in KBB5 § 479 Rz 1).
+4. Die Zweitantragstellerin ist nach dem samt Plan vorgelegten Dienstbarkeitsvertrag berechtigt, die (offenbar iSd § 521 ABGB bewohnbaren) Räumlichkeiten auf der Nachbarliegenschaft in eigenem Namen und auf eigene Rechnung vergleichbar mit der Rechtsstellung eines Eigentümers zu nutzen und zu vermieten, zu diesem Zweck am Markt aufzutreten und ihr Wohnungseigentumsobjekt samt dem Nutzungsrecht an Dritte zu veräußern.
+5. Die Auslegung des Rekursgerichts, es handle sich dem Inhalt nach um eine Personalservitut (aufgrund der eigentümerähnlichen, die Überlassung an Dritte zulassenden Rechtsposition ein Fruchtgenussrecht), die zugunsten des jeweiligen Mit- und Wohnungseigentümers einer benachbarten Liegenschaft als unregelmäßige Grunddienstbarkeit einverleibt werden soll, begegnet keinen Bedenken. Die Forderung nach einer zeitlichen Beschränkung eines derartigen Nutzungsrechts setzt sich auch nicht in Widerspruch zu der im Revisionsrekurs zitierten Rechtsprechung, welche die Begründung einer Grunddienstbarkeit des Parkplatzes auf einer fremden Liegenschaft zugunsten einzelner Mindestanteile von Wohnungseigentümern ohne zeitliche Beschränkung zulässt (zuletzt insbesondere 5 Ob 238/18p mwN). Das Recht, auf einem bestimmten Teil einer fremden Liegenschaft irgendein Kraftfahrzeug zu parken oder abzustellen, ist vom Typ her nicht als auf die individuellen Bedürfnisse des Berechtigten zugeschnittene Personaldienstbarkeit wie das (Wohnungs-)Fruchtgenuss- oder Gebrauchsrecht ausgestaltet, sondern eine reguläre Grunddienstbarkeit. Als solche wurde sie in den Entscheidungen des Obersten Gerichtshofs auch behandelt.
+6. Richtig ist, dass zu 5 Ob 271/00i die Verbücherung eines Fruchtgenussrechts als (unregelmäßige) Grunddienstbarkeit – ohne Begründung – unbefristet zugelassen wurde. Diese Entscheidung ist jedoch aufgrund der jüngeren Rechtsprechung (RS0115508, zuletzt 5 Ob 212/18i) als überholt anzusehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00193.19X.1218.000

@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.1972
+Geschäftszahl
+3Ob45/72
+Norm
+ABGB §6;
+EO §35;
+EO §36;
+EO §37;
+EO §50;
+EO §51;
+JN §7 Abs2;
+Kopf
+SZ 45/64
+Spruch
+Die Vorschrift des § 50 EO, wonach die Bestimmungen über die Beiziehung eines fachmännischen Laienrichters auf die Ausübung der Gerichtsbarkeit im Exekutionsverfahren nicht anzuwenden sind, gilt nicht für Rechtsstreitigkeiten nach der Exekutionsordnung. Sowohl in § 50 EO als auch in § 51 EO sind unter "Exekutionsverfahren" nicht auch die im Zusammenhang mit einem Exekutionsverfahren entstehenden Prozeßverfahren, wie jene nach §§ 35 bis 37 EO zu verstehen
+Stehen die Erläuternden Bemerkungen einer Regierungsvorlage im eindeutigen Widerspruch zum Gesetz, können sie zur Auslegung des Gesetzes nicht herangezogen werden
+OGH 25. 5. 1972, 3 Ob 45/72 (OLG Linz 4 R 213/71; LG Linz 9 Cg 643/71)
+Text
+Über eine gemäß § 36 EO beim Titelgericht eingebrachte Klage hatte das Erstgericht durch einen Einzelrichter als Handelsgericht, das Berufungsgericht unter Beiziehung eines fachmännischen Laienrichters verhandelt und entschieden.
+Der Oberste Gerichtshof gab der Revision nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Zunächst ist die Frage zu prüfen, ob das Verfahren des Berufungsgerichtes nicht an einer (auch von Amts wegen wahrzunehmenden) Nichtigkeit insofern leidet, als das Berufungsgericht etwa nicht vorschriftsmäßig besetzt war (§ 477 Abs 1 Z 2 ZPO).
+Nach § 50 EO finden die gesetzlichen Bestimmungen über die Beiziehung eines fachmännischen Laienrichters auf die Ausübung der Gerichtsbarkeit im Exekutionsverfahren keine Anwendung. Wäre § 50 EO auch auf Rechtsstreitigkeiten nach der Exekutionsordnung (wie hier nach § 36 EO) anwendbar, so wäre das Berufungsverfahren nach der zitierten zwingenden Bestimmung nichtig, obgleich die Ablehnung des Einschreitens eines Berufungssenates in der für die Ausübung der Gerichtsbarkeit in Handelssachen vorgeschriebenen Zusammensetzung unterlassen wurde. Die Zusammensetzung des Berufungssenates iS des § 8 Abs 2 JN wäre in diesem Fall der Disposition der Parteien durch Antragstellung (oder deren Unterlassung) iS des § 479a ZPO entzogen.
+Ein in der MGA EO[10] zu § 50 481 abgedrucktes Gutachten des Obersten Gerichtshofes vertritt in Übereinstimmung mit den EB zum RegEntw (Mat I, 483 f) die Ansicht, die Vorschrift des § 50 EO sei auch auf Klagen nach § 35 bis 37 EO anwendbar. Diese Ansicht wird auch von Neumann, System der Exekutionsordnung, 9, Neumann - Lichtblau[3], 268. Walker, Österreichisches Exekutionsrecht[4], 15 f, und Fasching I, 176 und 182 vertreten, letzterer beruft sich hiebei lediglich auf das bereits erwähnte Gutachten des Obersten Gerichtshofes. Nach Petschek - Hämmerle - Ludwig, 24, haben in den durch ein Exekutionsverfahren hervorgerufenen Prozessen die Handelsgerichte nur durch Berufsrichter zu entscheiden. Sie berufen sich hiebei auf § 7 Abs 2 letzter Satz JN und nicht ausdrücklich auf § 50 EO.
+Der Senat vermag sich dieser Rechtsansicht nicht anzuschließen. Wie Pollak, System[2], 277 und 279 (ohne nähere Begründung) und Neumann - Lichtblau[4], 605 f mit ausführlicher Begründung bemerken, bezieht sich § 50 EO, ebenso wie § 51 EO, nicht auf die im Zusammenhang mit einem Exekutionsverfahren entstehenden Prozeßverfahren, wie jene nach §§ 35 bis 37 EO. Daß dies für § 51 EO gilt, ist in Lehre und Rechtsprechung nunmehr vorherrschende Meinung (Fasching I, 510, Walker[4], 15f; Rspr 1930/367, SZ 14/189, SZ 19/279, RZ 1938, 27). Es besteht kein Grund zur Annahme, daß unter "Exekutionsverfahren" im § 50 EO etwas anderes zu verstehen ist, als im § 51 EO, nämlich das in der Bewilligung und im Vollzug einer Exekution bestehende Verfahren, nicht aber exekutionsrechtliche Zivilrechtsstreitigkeiten (vgl hiezu die deutliche Unterscheidung im § 58 Abs 2 EO). Die zitierten EB zum RegEntw stehen eindeutig im Widerspruch zum Gesetz. In einem solchen Fall können die Erläuternden Bemerkungen zur Auslegung des Gesetzes nicht herangezogen werden (vgl JBl 1961, 425. EvBl 1963/22 und SZ 40/16).
+Pollak aaO und Neumann - Lichtblau[4], 607 ist aber auch insofern beizupflichten, als sie die Ansicht vertreten, exekutionsrechtliche Rechtsstreitigkeiten, die beim Titel- als Bewilligungsgericht anhängig zu machen sind, seien in Ausübung der Gerichtsbarkeit in Handelssachen zu erledigen, wenn dies auch im Titelverfahren der Fall war. Die Individualzuständigkeit, insbesondere jene nach §§ 35 und 36 EO wurde geschaffen, weil der Titelrichter (Einzelrichter oder Senat) am berufensten angesehen wurde, über die im Zusammenhang mit der Vollziehung seines Erkenntnisses entstandenen Rechtsstreite zu entscheiden.
+Geht man davon aus, daß der § 50 EO für die exekutionsrechtlichen Rechtsstreitigkeiten nach §§ 35 bis 37 EO unanwendbar ist, so mußte das Berufungsgericht auch schon deshalb in der für die Ausübung der Handelsgerichtsbarkeit vorgeschriebenen Zusammensetzung über die vorliegende Berufung entscheiden, weil eine Ablehnung einer solchen Zusammensetzung des Berufungssenates im Sinn des § 479a ZPO unterblieben ist.
+Die Entscheidung des Berufungsgerichtes unter Beiziehung eines fachmännischen Laienrichters begrundet daher nicht eine Nichtigkeit im Sinn des § 477 Abs 1 Z 2 ZPO.

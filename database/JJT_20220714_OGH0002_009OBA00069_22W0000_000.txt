@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.07.2022
+Geschäftszahl
+9ObA69/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Fichtenau als Vorsitzende, den Hofrat Mag. Ziegelbauer und die Hofrätin Mag. Korn sowie die fachkundigen Laienrichter MMag. Andreas Schlegel (aus dem Kreis der Arbeitgeber) und Karl Schmid-Wilches (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei Dr. R*, vertreten durch Dr. Viktor Igali-Igalffy, Rechtsanwalt in Wien, gegen die beklagte Partei A*, vertreten durch Dr. Anton Ehm, Mag. Thomas Mödlagl, Rechtsanwälte in Wien, wegen 47.612,80 EUR brutto sA und Feststellung (Streitwert: 750 EUR), über die außerordentliche Revision der klagenden Partei (Revisionsinteresse: 2.750 EUR brutto sA und Feststellung) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 27. April 2022, GZ 10 Ra 4/22i-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 			1. Das Dienstverhältnis des Klägers unterlag der Dienstordnung A für die Angestellten bei den Sozialversicherungsträgern Österreichs (DO.A). Diese ist ein Kollektivvertrag (RS0054394).
+[2] 		2. Der Auslegung einer Kollektivvertrags-bestimmung kommt regelmäßig wegen des größeren Personenkreises der hievon betroffenen Arbeitgeber und Arbeitnehmer erhebliche Bedeutung iSd § 46 Abs 1 ASGG zu. Allerdings gelingt es dem Kläger im vorliegenden Fall nicht eine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO aufzuzeigen.
+[3] 		3. Gegen die Richtigkeit der von der Beklagten nach § 87 DO.A errechneten Bemessungsgrundlage sowie der nach § 97 DO.A ermittelten anrechenbaren fiktiven gesetzlichen Pension wendet sich der Kläger nicht. § 97 Abs 4 DO.A bestimmt – soweit im vorliegenden Fall relevant – weiters: „Würde nach Anrechnung der fiktiven gesetzlichen Pension das Ausmaß der Leistung nach diesem Pensionsrecht die Differenz zwischen der Pension aus der gesetzlichen Pensionsversicherung (...) und der Pensionseinkommensgrenze (das sind 80 % der durchschnittlichen Pensionsbeitragsgrundlagen gemäß § 101 Abs 2a der letzten zwölf Monate, ...) überschreiten, so gebührt nur die Differenz; der die Pensionseinkommensgrenze übersteigende Leistungsanteil ruht maximal im
+Ausmaß von 40 % der ohne Berücksichtigung der Pensionseinkommensgrenze ermittelten Dienstgeberleistung. (…)“
+[4] 		4. Im Revisionsverfahren ist nur noch strittig, ob die bei Ausscheiden des Klägers aus dem Dienstverhältnis bezahlte Urlaubsersatzleistung sowie die Abgeltung der „Stunden ohne Zuschlag“ (nach der Gleitzeitregelung noch bestehende Gutstunden) bei Berechnung der Pensionseinkommensgrenze zu berücksichtigen sind.
+[5] 		Die Revision argumentiert, aus § 101 Abs 2 DO.A ergebe sich, dass sämtliche Bezüge, für die Beiträge nach der gesetzlichen Pensionsversicherung zu leisten seien, auch für die Pensionsversicherung nach der DO.A beitragspflichtig seien und daher in die Berechnung der Pensionseinkommensgrenze einzubeziehen seien. Dabei übersieht sie, dass § 101 Abs 2a DO.A konkret determiniert, welche Leistungen als (beitragspflichtige) Bezüge gelten. Durch den Verweis in § 97 Abs 4 DO.A auf § 101 Abs 2a DO.A wird damit klargestellt, dass nur diese Bezüge der Berechnung der Pensionseinkommensgrenze zugrunde zu legen sind. Dass die Urlaubsersatzleistung sowie die Abgeltung der „Stunden ohne Zuschlag“ entgegen der Rechtsauffassung der Vorinstanzen unter eine der Positionen des § 101 Abs 2a DO.A zu subsumieren wäre, behauptet die Revision nicht.
+[6] 		5. Soweit der Kläger eine Gleichheitswidrigkeit daraus ableiten möchte, dass sich die Pensionseinkommensgrenze aus dem Durchschnitt der letzten 12 Monate und nicht der 12 besten Monate errechnet, handelt es sich um eine unzulässige Neuerung. In erster Instanz wurde ein solches Vorbringen nicht erstattet. Im Übrigen lässt die Revision offen, was sie daraus ableiten möchte.
+[7] 		6. Insgesamt gelingt es dem Kläger daher nicht das Vorliegen einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO aufzuzeigen. Die außerordentliche Revision des Klägers ist daher zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:009OBA00069.22W.0714.000

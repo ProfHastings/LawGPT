@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.2000
+Geschäftszahl
+8Ob66/00i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Langer, Dr. Rohrer, Dr. Spenling und Dr. Hoch als weitere Richter in der Rechtssache der klagenden Partei Dr. Gerhard U***** GesmbH, *****, vertreten durch Dr. Peter Fichtenbauer ua, Rechtsanwälte in Wien, wider die beklagten Parteien 1. P*****, vertreten durch Prettenhofer & Jandl Partnerschaft, Rechtsanwälte in Wien, 2. R***** reg GenmbH, *****, vertreten durch Dr. Reinhard Zimmermann, Rechtsanwalt in Wien, wegen S 1,008.600 s.A., über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 2. Dezember 1999, GZ 4 R 196/99v-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der klagenden Partei wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+Bei der Frage, ob die beteiligten Banken bei Hereinnahme des Verrechnungsschecks zu einer Prüfung der materiellen Berechtigung des durch eine geschlossene Indossamentenkette ausgewiesenen Einreichers (Art 19 ScheckG) wegen besonderer Verdachtsmomente verpflichtet gewesen wären, deren Unterlassung als grob fahrlässig zu beurteilen wäre (Art 21 ScheckG), handelt es sich um einen Einzelfall, den das Berufungsgericht im Rahmen der oberstgerichtlichen Rechtsprechung
+gelöst hat (insb 4 Ob 501/91 = EvBl 1991/110 = ecolex 1992, 528 = ÖBA
+1991, 751 [Iro] = WBl 1991, 300, die sich auch mit der neueren
+deutschen Rechtsprechung und Lehre zu diesen Problem eingehend auseinandersetzt - vgl dazu Baumbach/Hefermehl, Wechsel und ScheckG21 Art 21 ScheckG Rz 8 ff, insb 10b, 12, 14a ff, 18 sowie Art 39 [= 38 ÖScheckG] insb Rz 2 f jeweils mwN -, sowie aus jüngster Zeit 8 Ob 59/99f).
+In der Rechtsansicht des Berufungsgerichtes, dass die beklagten
+Banken im vorliegenden Fall - anders als in den erwähnten
+Entscheidungen - mangels besonderer Verdachtsmomente zu keiner
+materiellen Prüfung der materiellen Berechtigung des Einreichers des
+Verrechnungsschecks verpflichtet waren, kann keine krasse
+Fehlbeurteilung erblickt werden, die als erhebliche Rechtsfrage vom
+Obersten Gerichtshof aufgegriffen werden müsste. Der Umstand, dass
+die Schecksumme hoch war (ca S 1 Mio), der im Verrechnungsscheck
+genannte Begünstigte ein ausländisches (italienisches) Unternehmen
+war und das Konto, auf dem der Scheck zur Einziehung eingereicht
+wurde, von einem deutschen Staatsbürger in Österreich ca zwei Monate
+vor Einreichung des Schecks eröffnet wurde, verpflichtete zu keiner
+besonderen Nachforschungspflicht hinsichtlich der materiellen
+Berechtigung des Einreichers, der durch eine geschlossene, äußerlich
+unbedenkliche Indossamentenkette ausgewiesen war. Daran kann auch der
+Umstand nichts ändern, dass der ursprünglich im Scheck genannte
+Berechtigte ein Unternehmen war, das üblicherweise Schecks nicht an
+Dritte zur Einziehung weitergibt, weil dieser Umstand allein, selbst
+wenn die Gutschrift auf ein Privatkonto des Einreichers erfolgt,
+keinen ausreichenden Verdachtsgrund gibt; anderes wäre zB nur dann
+der Fall, wenn die Bank weiß, dass der Einreicher ein Angestellter
+des auf dem Scheck genannten Unternehmens ist (siehe 8 Ob 31/97k =
+WBl 1999/157 = ÖBA 1999/780 [Iro]), was aber hier nicht der Fall ist.
+Im vorliegenden Fall kann auch nicht von einer offenkundigen Umgehung des Barzahlungsverbots (Art 38 ScheckG) durch die Scheckeinreichung ausgegangen werden, weil anders als in den eingangs genannten Fällen, das Konto bereits zwei Monate zuvor eröffnet wurde, der Einreicher nicht auf sofortige Verfügung durch Barabhebung drängte, sondern den gutgeschriebenen Betrag erst eine Woche später in Teilbeträgen abhob.
+Die genannten Entscheidungen (und die dort zitierten Nachweise aus Lehre und Rechtsprechung) liegen keineswegs Jahrzehnte zurück; auf die geänderten Kommunikationsmöglichkeiten konnte dort bereits Bedacht genommen werden. Soweit im Rahmen der Rechtsrüge nunmehr behauptet wird, der Scheck sei manipuliert worden, weil die Worte "not negotiable" - wonach der Scheck nicht durch Indossament sondern nur durch Abtretung übertragbar gewesen sei - nachträglich gestrichen worden seien, solche Streichungen hätten ein weiteres Verdachtsmoment begründen und Anlass zu Nachforschungen geben müssen, handelt es sich um eine im Revisionsverfahren unzulässige Neuerung.

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.10.2013
+Geschäftszahl
+7Ob148/13k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Huber als Vorsitzende und die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei A***** B***** GmbH, *****, vertreten durch Dr. Hans Gradischnig, MAS, Rechtsanwalt in Villach, gegen die beklagte Partei U***** AG, *****, vertreten durch Mag. Oliver Lorber Rechtsanwalts-GmbH in Klagenfurt, wegen 29.250 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 6. Juni 2013, GZ 3 R 73/13z-11, womit das Urteil des Landesgerichts Klagenfurt vom 12. März 2013, GZ 49 Cg 67/12m-7, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.608,84 EUR (darin enthalten 280,14 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil die strittige Versicherungsklausel einen größeren Personenkreis betreffen dürfte und der Wortlaut nicht so eindeutig sei, dass keine Auslegungszweifel verblieben.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage  unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken.
+Der Oberste Gerichtshof ist zur Entscheidung über Klauseln in Allgemeinen Geschäftsbedingungen nicht „jedenfalls“, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Die Auslegung von Versicherungsbedingungen ist nur dann revisibel, wenn deren Wortlaut nicht so eindeutig ist,
+sodass Auslegungszweifel verbleiben können (7 Ob 82/07w = RIS-Justiz RS0121516 [T6]). Die vorliegende Rechtsfrage betrifft nicht einmal Allgemeine Versicherungsbedingungen, sondern eine individuelle Vereinbarung zwischen dem Versicherer und dem  Versicherungsnehmer, deren Auslegung im Einzelfall  keine Schwierigkeiten bereitet.
+Die Parteien vereinbarten eine Maschinenbruchversicherung hinsichtlich einer Hackschnitzelanlage, die auf einem LKW aufgebaut ist und von dessen Motor angetrieben wird. In der Versicherungspolizze ist festgehalten, dass die Beklagte für die „mobile Hackschnitzelanlage ... aufgebaut auf LKW (dieser gilt von der Versicherung ausgeschlossen)“ die Maschinenbruchversicherung übernimmt. Die Versicherungssumme betrug 200.000 EUR, der Kaufpreis für die Anlage 220.000 EUR.
+Die Rechtsansicht der Vorinstanzen, dass auf Grund des eindeutig formulierten und über den Wortlaut hinaus nicht interpretationsbedürftigen Risikoausschlusses keine Deckung für einen Motorschaden des LKW bestehe, ist im Einzelfall nicht zu beanstanden. Auch wenn die Hackschnitzelanlage nur mit dem LKW-Motor, der für diese Zwecke auch umgebaut wurde, betrieben wird, gehört doch  der Motor zweifellos zum LKW, der vom Versicherungsschutz ausgeschlossen ist. Der Motor wird nach den Feststellungen immerhin zu 48 % nur zum Betrieb des LKW verwendet. Die Hackschnitzelanlage könnte auch mit einem anderen Motor, zum Beispiel dem Motor eines Traktors, betrieben werden. Eine untrennbare Verbindung des Motors zur Anlage besteht also nicht. Im Einzelfall ist auch noch, worauf das Erstgericht bereits zutreffend hinweist, zu berücksichtigen, dass sich schon aus der Versicherungssumme und dem Kaufpreis der Hackschnitzelanlage (ohne Motor) ergibt, dass ein Motor vom Versicherungsschutz nicht umfasst sein sollte.
+Es werden keine erheblichen Rechtsfragen geltend gemacht.
+Die Kostenentscheidung gründet sich auf §§ 50, 41 ZPO. Die Beklagte wies auf die Unzulässigkeit des Rechtsmittels hin.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.1983
+Geschäftszahl
+3Ob134/83
+Norm
+EO §68;
+RPflG §10 Abs2;
+RPflG §14 Z3;
+Kopf
+SZ 56/189
+Spruch
+Die Erledigung einer Beschwerde über die Art des Exekutionsvollzuges nach § 68 EO obliegt dem Richter und nicht dem Rechtspfleger
+OGH 14. 12. 1983, 3 Ob 134/83 (LG Salzburg 33 R 277/83; BG Salzburg 7 E 7104/82)
+Text
+Die betreibende Partei führt gegen die verpflichtete Partei zur Hereinbringung von 51 124 S sA Fahrnisexekution. Gepfändet wurde ua. ein Perserteppich (PZ 50 des Pfändungsprotokolles 7 E 7831/80). Hinsichtlich dieses Gegenstandes ordnete das Exekutionsgericht den Verkauf in der Auktionshalle Salzburg an (Beschluß ON 3). In der Auktionshalle fand am 12. 11. 1982 ein Versteigerungstermin statt, bei dem kein Anbot erfolgte, worauf unverzüglich ein Freihandverkauf durchgeführt wurde. Karl E erwarb den Pfandgegenstand um den halben Schätzwert (45 000 S).
+Bei der Verteilungstagsatzung erhob die verpflichtete Partei eine Beschwerde nach § 68 EO und beantragte, den Freihandverkauf an Karl E für wirkungslos zu erklären. Es habe einerseits keine Einschaltung des Versteigerungsediktes in der Tageszeitung stattgefunden, zum anderen habe das Exekutionsgericht überhaupt noch keinen Freihandverkauf angeordnet, schließlich sei der Schätzwert viel zu niedrig angesetzt worden.
+Über die Vollzugsbeschwerde entschied ein Rechtspfleger des Erstgerichtes dahin, daß der Beschwerde stattgegeben, der Freihandverkauf als wirkungslos erklärt und der Freihandkäufer aufgefordert wurde, den Teppich Zug um Zug gegen Rückerstattung des Kaufpreises herauszugeben, widrigens die verpflichtete Partei mit ihrem Herausgabeanspruch auf den Rechtsweg verwiesen werde.
+Gegen diesen Beschluß des Rechtspflegers erhob der Freihandkäufer Karl E Rekurs.
+Das Gericht zweiter Instanz hob den Beschluß des Rechtspflegers als nichtig auf und trug dem zuständigen Exekutionsrichter die Entscheidung über die Beschwerde nach § 68 EO auf. Das Gericht zweiter Instanz sprach aus, daß der Wert des Streitgegenstandes 60 000 S, nicht aber 300 000 S übersteige und mit dem Vollzug des erteilten Auftrages erst nach Eintritt der Rechtskraft des Beschlusses vorzugehen sei.
+Der Oberste Gerichtshof gab dem Rekurs der verpflichteten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da es zur Auslegung des § 10 Abs. 2 RPflG, soweit erkennbar, keine Judikatur des OGH gibt und im Schrifttum hier doch zumindest mißverständliche Positionen vertreten werden, ist der Rekurs gemäß §§ 526 Abs. 2, 527 Abs. 2 ZPO zulässig.
+Gemäß § 14 Z 3 RPflG umfaßt zwar der Wirkungskreis eines Rechtspflegers in Exekutionssachen insbesondere die gesamte Exekution auf das bewegliche Vermögen nach den §§ 249 bis 345 EO; gemäß § 10 Abs. 2 RPflG sind aber Rechtsmittel und Beschwerden stets vom Richter zu erledigen. Diese Bestimmung kann nicht dahin ausgelegt werden, daß damit nur Rechtsmittel und Beschwerden gegen einen Beschluß des Rechtspflegers selbst gemeint sind. Die Anfechtung von Entscheidungen des Rechtspflegers ist vielmehr im § 12 RPflG geregelt, während sich § 10 RPflG auf Geschäftsstücke bezieht, die der Rechtspfleger immer dem Richter vorzulegen hat. Der Umstand, daß das Gesetz "Rechtsmittel und Beschwerden" anführt, spricht dafür, daß nicht nur Rechtsmittel im engeren Sinn gemeint sind, sodaß auch eine "Beschwerde nach § 68 EO" unter die genannte Bestimmung fällt. Rechtsmittel oder Beschwerden stellen auch in der Regel immer Geschäftsstücke dar, deren Bearbeitung Schwierigkeiten rechtlicher oder tatsächlicher Art ergibt und welche der Rechtspfleger daher auch unter dem Gesichtspunkt des § 10 Abs. 1 Z 3 RPflG dem Richter vorzulegen hätte; dies spricht gleichfalls für die Auslegung, daß auch die Erledigung einer Beschwerde nach § 68 EO dem Richter vorbehalten ist. Wenn bei Holzhammer, Österr. Zwangsvollstreckungsrecht[2], 107, der Satz aufscheint, daß Beschwerden nach § 68 EO, die sich nicht als Aufsichtsbeschwerde, sondern als Vollstreckungsbeschwerde in engerem Sinn darstellen, "vom Richter (Rechtspfleger) als Rechtsprechungsorgan" zu erledigen seien (ebenso Feil, EO, Anm. 4 zu § 68 EO), wird doch die Bestimmung des § 10 Abs. 2 RPflG ohne nähere Begründung vernachlässigt (welche Bestimmung übrigens bei Holzhammer aaO S 9 Z 8 2 e durchaus zutreffend dargestellt wird), sodaß nach Ansicht des erkennenden Senates kein Grund für eine andere Auslegung des § 10 Abs. 2 RPflG gegeben ist.
+Daß der Vorsteher des Erstgerichtes die Beschwerde, weil er sie nicht als Aufsichtsbeschwerde auffaßte, dem Rechtspfleger "zur Erledigung der Vollzugsbeschwerde nach § 68 EO" übermittelte, konnte nicht bewirken, daß dadurch eine Entscheidungsgewalt des Rechtspflegers entstand, sondern bedeutete nur, daß die Sache vom zuständigen Rechtsprechungsorgan zu erledigen sei und daher iS des oben Gesagten der Rechtspfleger den Akt dem zuständigen Richter vorlegen mußte.
+Daß es einen Nichtigkeitsgrund nach § 477 Abs. 1 Z 2 ZPO darstellt, wenn der Rechtspfleger in Überschreitung der ihm vom Gesetz eingeräumten Entscheidungsgewalt entschieden hat, wurde wiederholt ausgesprochen (SZ 46/41; SZ 47/37).

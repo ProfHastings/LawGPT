@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.05.2020
+Geschäftszahl
+2Ob50/20x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé und die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Ing. U***** T*****, vertreten durch Schlösser & Partner Rechtsanwälte OG in Graz, gegen die beklagte Partei Stadt *****, vertreten durch den Bürgermeister *****, dieser vertreten durch Dr. Horst Kilzer, Rechtsanwalt in Villach, wegen 7.334,40 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Klagenfurt als Berufungsgericht vom 22. Jänner 2020, GZ 2 R 172/19z-94, mit welchem das Urteil des Bezirksgerichts Villach vom 12. Juni 2019, GZ 9 C 1176/15t-90, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 833,88 EUR bestimmten Kosten der Revisionsbeantwortung (darin 138,98 EUR Umsatzsteuer) zu ersetzen.
+Text
+Begründung:
+Auf einer Liegenschaft der beklagten Gemeinde standen zwei Bäume, die bei einem Sturm mit Windspitzen bis zu 110 km/h umstürzten und den Zaun des Klägers beschädigten. Die Bäume waren etwa 1970 auf einer ausreichend durchwurzelbaren Fläche gepflanzt worden. Die Tiefe des durchwurzelbaren Bodens betrug aber wegen darunter liegenden Grobschotters nur 30 bis 40 cm, weswegen sich nur Flachwurzeln ausbildeten. Das Pflanzen solcher Bäume war damals üblich. Nach heutigem Stand der Technik wäre aber ein tieferer Untergrund erforderlich gewesen.
+Die Bäume waren gesund; bis zum Schadensereignis wurden sie regelmäßig durch ein von der Beklagten beauftragtes Unternehmen kontrolliert. Die Kontrollen erfolgten nach den ÖNORMEN L 1125 (Anforderungen an einen Baumkataster) und L 1122 (Baumpflege und Baumkontrolle) sowie nach den Richtlinien einer anerkannten Forschungsgesellschaft für Landschaftsentwicklung und Landschaftsbau (FLL-Richtlinie); sie wurden in einem Baumkataster dokumentiert. Die fehlende Ausbildung einer „Herzwurzel“ war bei einer Überprüfung nach diesen Vorgaben nicht erkennbar.
+Während des Unwetters stürzten in der Gemeinde etwa 150 Bäume um. Es kann auch bei uneingeschränkter Wurzelausbildung für keinen Baum garantiert werden, dass er Windböen von 110 km/h standhält.
+Das Erstgericht wies das Begehren des Klägers auf Ersatz des Schadens an seinem Zaun ab.
+Das Berufungsgericht bestätigte diese Entscheidung und ließ die ordentliche Revision zu. Das Pflanzen solcher Bäume sei im Jahr 1970 üblich gewesen; der Beklagten sei der Entlastungsbeweis nach § 1319 ABGB (analog) gelungen. Die Revision sei zulässig, weil Rechtsprechung zur Frage fehle, ob ein Baum, der nach heutigem Stand der Technik auf einem für die Wurzelbildung nicht ausreichend tiefen Untergrund gesetzt worden war, als „Gefahrenquelle“ im Sinn des Ingerenzprinzips zu werten sei.
+Die gegen diese Entscheidung gerichtete Revision des Klägers ist ungeachtet dieses den Obersten Gerichtshof nicht bindenden Ausspruchs nicht zulässig.
+Rechtliche Beurteilung
+1. Schäden, die durch das Umstürzen von Bäumen verursacht werden, sind im Weg der Analogie in den Anwendungsbereich von § 1319 ABGB einzubeziehen (RS0029932; RS0026229; 2 Ob 193/09k mwN). Bei Bäumen liegt der Grund der dadurch verschärften Haftung nicht darin, dass sie (grundsätzlich) als gefährlich angesehen werden, sondern darin, dass aufgrund eines Mangels eine erhöhte Gefährlichkeit besteht, also dann, wenn durch den Zustand eines Baumes von diesem eine besondere Gefahr ausgeht. Diese kann auf einer mechanischen Verletzung des Baumes oder auf einer Krankheit beruhen (2 Ob 193/09k mwN); dem wird eine unzureichende Wurzelausbildung gleichzuhalten sein. Die für die Anwendung von § 1319 ABGB erforderliche besondere Gefahr war daher zweifellos gegeben.
+2. Der beklagte Eigentümer hat (auch) im Fall der Schädigung durch das Umstürzen eines Baumes zu behaupten und zu beweisen, dass er alle Vorkehrungen getroffen hat, die vernünftigerweise nach den Umständen von ihm erwartet werden können (RS0030035). Das Maß der Zumutbarkeit geeigneter Vorkehrungen gegen den Schadenseintritt bestimmt sich nach den Umständen des Einzelfalls (RIS-Justiz RS0029991).
+3. Im vorliegenden Fall hatte die beklagte Gemeinde die Überprüfung der auf ihren Liegenschaften stehenden Bäume einem fachkundigen Unternehmen übertragen. Das genügt im Regelfall für den Entlastungsbeweis nach § 1319 ABGB (1 Ob 277/97k mwN). Anderes kann zwar bei Erkennbarkeit mangelhafter Leistungen durch dieses Unternehmen gelten (RS0023835). Im konkreten Fall handelte das Unternehmen aber ohnehin nach dem Stand der Technik, der sich (insbesondere) in den ÖNORMEN widerspiegelte (RS0062063).
+Soweit der Kläger in der Revision in diesem Zusammenhang behauptet, dass sich aus dem Stand der Technik weitere Überprüfungspflichten ergeben hätten, geht sie nicht vom festgestellten Sachverhalt aus; zudem fehlte jeder Anhaltspunkt, dass dies auch der Beklagten erkennbar gewesen wäre. Insofern unterscheidet sich der hier zu beurteilende Sachverhalt von jenem, der der Entscheidung 2 Ob 203/11h zugrunde lag. Denn dort hatte die Gemeinde die Überprüfung der Bäume zwar ebenfalls einem Unternehmen übertragen, dieses hatte aber über Jahre keine regelmäßigen Kontrollen durchgeführt und nicht einmal den in Auftrag gegebenen Baumkataster vollständig angelegt. Das hätte der Gemeinde bei der gebotenen Überprüfung der Leistungserbringung  zweifellos auffallen müssen.
+Dass Organe der Beklagten Kenntnis von der besonderen Gefahr der „Flachwurzler“ gehabt hätten, ist nicht hervorgekommen. Es kann daher offen bleiben, ob sie in diesem Fall weitergehende Pflichten getroffen hätten.
+3. Die Auffassung des Berufungsgerichts, dass die Beklagte im konkreten Fall die zumutbaren und damit erforderlichen Maßnahmen zur Schadensabwehr gesetzt habe, ist damit durch die einschlägige Rechtsprechung gedeckt. Die Revision ist daher zurückzuweisen.
+4. Da die Beklagte auf die Unzulässigkeit des Rechtsmittels hingewiesen hat, hat der Kläger die Kosten der Revisionsbeantwortung zu ersetzen (§§ 41, 50 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00050.20X.0526.000

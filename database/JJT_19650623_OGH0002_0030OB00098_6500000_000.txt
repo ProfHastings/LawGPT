@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.1965
+Geschäftszahl
+3Ob98/65
+Norm
+Deutsche Zivilprozeßordnung §704 (1);
+Deutsche Zivilprozeßordnung §705;
+Österreichisch-deutscher Vollstreckungsvertrag, BGBl. Nr. 105/1960 Art5
+(1);
+Österreichisch-deutscher Vollstreckungsvertrag, BGBl. Nr. 105/1960
+Art7;
+Kopf
+SZ 38/103
+Spruch
+Zulässigkeit der Exekutionsführung auf Grund eines rechtskräftigen, wenn auch nur vorläufig vollstreckbaren deutschen Urteils ("Vorbehaltsurteil")
+Entscheidung vom 23. Juni 1965, 3 Ob 98/65
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien
+Text
+Das Erstgericht bewilligte der betreibenden Gläubigerin auf Grund des vollstreckbaren und rechtskräftigen Vorbehaltsurteiles des Landgerichtes M. (Deutsche Bundesrepublik), Kammer für Handelssachen, vom 21. Dezember 1964, zur Hereinbringung der vollstreckbaren Forderung von 12.000 DM (= 78.000 S) s. A. wider die Verpflichtete eine Fahrnis- und Forderungsexekution.
+Das Rekursgericht bestätigte infolge Rekurses der Verpflichteten den erstgerichtlichen Beschluß.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Verpflichteten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs der Verpflichteten ist gemäß § 83 (3) EO. zulässig; er ist jedoch nicht begrundet.
+Wie das Rekursgericht zutreffend ausführte, konnte auf Grund des vorliegenden Vorbehaltsurteiles bei Zutreffen der Voraussetzungen des Art. 7 (1) des österreichisch-deutschen Vollstreckungsvertrages vom 6. Juni 1959, BGBl. Nr. 105/1960, wie auf Grund eines rechtskräftigen und vollstreckbaren Endurteiles in Österreich Exekution geführt werden und war die Exekution zufolge Vorliegens dieser Voraussetzungen zu bewilligen.
+Wenn die verpflichtete Partei darzulegen sucht, daß auf Grund des den Exekutionstitel bildenden, in der Bundesrepublik Deutschland ergangenen Vorbehaltsurteiles zur Hereinbringung der darin der betreibenden Gläubigerin zugesprochenen Geldleistung in Österreich nicht Exekution geführt werden könne, dann ist sie auf folgendes zu verweisen: Gemäß § 704 (1) DZPO. findet die Zwangsvollstreckung statt aus Endurteilen, die rechtskräftig oder für vorläufig vollstreckbar erklärt sind. Der auf den vorliegenden Rechtsfall anzuwendende österreichisch-deutsche Vollstreckungsvertrag vom 6. Juni 1959, BGBl. Nr. 105/1960, erklärt laut Art 5 (2), Art. 10 lediglich bei auf eine Geldleistung lautenden vorläufig vollstreckbaren Entscheidungen (Vorbehaltsurteilen) von Gerichten in der Bundesrepublik Deutschland, die nicht rechtskräftig sind, nur die Exekution zur Sicherstellung für zulässig. Ist ein solches Vorbehaltsurteil hingegen formell (im Sinne der deutschen Terminologie "äußerlich", § 705 DZPO.) rechtskräftig geworden, dann kommen - da nicht nur ein für vorläufig vollstreckbar erklärtes, sondern auch ein rechtskräftiges Urteil vorliegt - die in Art. 5 (1) und Art 7 des zitierten Vollstreckungsvertrages für die Vollstreckung rechtskräftiger Entscheidungen enthaltenen Bestimmungen zur Anwendung. Alle Schranken der Zwangsvollstreckung, die sich für die betreibende Gläubigerin aus der bloß vorläufigen Vollstreckbarkeit des Urteiles ergeben haben, sind mit dem Eintritt der formellen Rechtskraft des Vorbehaltsurteiles weggefallen (vgl. Rosenberg, Lehrbuch des deutsche Zivilprozeßrechtes[9], S. 908). Da die Voraussetzungen der Art. 1 (eine in Handelssachen ergangene Entscheidung eines Gerichtes der Bundesrepublik Deutschland), Art. 2 (Fehlen eines der dort angeführten Versagungsgrunde nach der Aktenlage), Art. 5 (1) (Rechtskraft der in der Bundesrepublik Deutschland vollstreckbaren gerichtlichen Entscheidung) und Art 7 des Vollstreckungsvertrages (Beibringung bestimmter Urkunden) erfüllt sind, haben die Untergerichte dem Exekutionsantrag der betreibenden Partei mit Recht stattgegeben.

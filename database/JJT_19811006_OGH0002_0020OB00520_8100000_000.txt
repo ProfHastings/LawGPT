@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.10.1981
+Geschäftszahl
+2Ob520/81
+Norm
+ABGB §586;
+AußstrG §9;
+AußstrG §66;
+Kopf
+SZ 54/136
+Spruch
+Die Berechtigung des gesetzlichen Erben, die Beeidigung von Zeugen einer mündlichen letztwilligen Anordnung im Sinne des § 580 ABGB zu verlangen, ist von der Abgabe einer Erbserklärung durch ihn unabhängig
+OGH 6. Oktober 1981, 2 Ob 520/81 (LGZ Wien 46 R 1043/81; BG Döbling 3 A 601/80)
+Text
+Johann S stellte als Bruder der Verstorbenen Maria M beim Verlassenschaftsgericht den Antrag, die von diesem kundgemachte "angebliche mündliche letzte Anordnung der Maria M" gemäß § 586 ABGB durch die eidliche Aussage der drei Zeugen zu bestätigen.
+Das Erstgericht wies diesen Antrag mit der Begründung ab, daß ein von drei Zeugen eigenhändig gefertigter Aufsatz vorliege, weshalb gemäß § 65 AußStrG sogleich mit der Kundmachung dieses Testamentes vorzugehen und eine Vernehmung von Zeugen in diesem Falle nicht vorgesehen sei.
+Das Rekursgericht wies den von Johann S erhobenen Rekurs mangels Rekurslegitimation zurück. Er habe als allenfalls nach dem Gesetz berufener Erbe noch keine Erbserklärung abgegeben und sei daher nach ständiger Rechtsprechung nicht zur Rekurserhebung befugt. Auch aus der Bestimmung des § 586 ABGB könne kein solches Recht abgeleitet werden. Der Umstand, daß ein hiezu Berufener keine Erbserklärung abgebe, zeige, daß er zumindest derzeit noch nicht die Stellung eines Erben anstrebe. Seine rechtlichen Interessen würden somit aber vom Gang des Abhandlungsverfahrens nicht berührt.
+Der Oberste Gerichtshof gab dem Rekurs des Johann S Folge, hob den Beschluß des Rekursgerichtes auf und trug diesem die neuerliche Entscheidung auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurs ist zulässig, weil nicht eine bestätigende Entscheidung, sondern ein die Überprüfung des erstinstanzlichen Beschlusses ablehnender Zurückweisungsbeschluß bekämpft wird (SZ 40/1; SZ 43/234; RZ 1967, 109 u. a.); er ist auch gerechtfertigt.
+Es ist dem Rekursgericht darin beizupflichten, daß einem allenfalls berufenen Erben, solange er noch keine Erbserklärung abgegeben hat, von der Rechtsprechung grundsätzlich (SZ 46/117; SZ 50/96; EvBl. 1974/300 u. a.) keine Rekurslegitimation zugestanden wird. Von dieser Regel gibt es jedoch Ausnahmen, wie der OGH schon mehrfach ausgesprochen hat (SZ 46/117 und die darin zitierte Entscheidung 6 Ob 42, 43/68; EvBl. 1969/381; EvBl. 1974/300; 1 Ob 295/75 u. a.). Eine solche Ausnahme ist auch in der vom Rekurswerber zur Stützung seines Antrages herangezogenen Bestimmung des § 586 ABGB, somit schon im Gesetze selbst, begrundet. Nach dieser Bestimmung muß eine mündliche letzte Anordnung "auf Verlangen eines jeden, dem daran gelegen ist", durch die übereinstimmende eidliche Aussage der drei, unter Umständen wenigstens von zwei, Zeugen bestätigt werden, widrigens diese Erklärung des letzten Willens unwirksam ist.
+Unter "jeden, dem daran gelegen ist", versteht die übereinstimmende Lehre und Rechtssprechung (Pfaff - Hoffmann, Kommentar zum österreichischen allgemeinen bürgerlichen Gesetzbuch.
+Erbrecht II/1, 172 f.; Krasnopolski, Österreichisches Erbrecht, 66; Gschnitzer, Erbrecht, 35; Koziol - Welser[4] II, 257; SZ 23/107) jeden "Interessenten". Als solcher gilt sowohl derjenige, der die Zeugenaussage in Zweifel zu ziehen, als auch derjenige, der sie außer Zweifel zu setzen Interesse hat, im ersteren Falle also der gesetzliche oder in einem früheren Testament eingesetzte Erbe (Pfaff - Hoffmann a.a.O.; Ehrenzweig, System[2] II/2, 438).
+Einem solchen Erben steht zufolge der Anordnung des § 586 ABGB somit aber ohne jede weitere Voraussetzung allein auf Grund eines derartigen Interesses das Recht zu, die Beeidigung der Zeugen durch das Verlassenschaftsgericht zu verlangen. Schon auf Grund seines diesbezüglichen Antrages wird er daher in Ansehung des Verfahrens nach § 586 ABGB, § 66 AußStrG zum Beteiligten des Verlassenschaftsverfahrens. Diese Beteiligtenstellung ist damit unabhängig von der Abgabe einer Erbserklärung. Das Verlassenschaftsgericht ist allerdings nicht verpflichtet, bei Vorliegen eines mündlichen Testamentes die voraussichtlichen gesetzlichen Erben zu verständigen und zu einer Antragstellung nach § 586 ABGB aufzufordern (SZ 25/19). Liegt jedoch ein solcher Antrag eines - wie hier auf Grund des Inhaltes der Todesanzeige ausgewiesenen - allenfalls berufenen gesetzlichen Erben vor, so hat es gemäß § 66 Abs. 1 AußStrG eben die Beeidigung der Zeugen jedenfalls vorzunehmen, ohne daß es der vorherigen Abgabe einer Erbserklärung durch den "Bittsteller" (§ 66 AußStrG) bedürfte.
+Unter diesen Gesichtspunkten kommt dem Rekurswerber somit aber die Legitimation zu, den erstgerichtlichen Beschluß mit Rekurs zu bekämpfen.

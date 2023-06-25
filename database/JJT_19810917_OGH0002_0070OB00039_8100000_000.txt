@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.09.1981
+Geschäftszahl
+7Ob39/81
+Norm
+VersVG §38 Abs1;
+Kopf
+SZ 54/127
+Spruch
+Die Vermutung des Rücktrittes des Versicherers vom Vertrag gemäß § 38 Abs. 1 Satz 2 VersVG kann nur durch eine Vereinbarung der Parteien, mit der dem Versicherungsnehmer Deckung gewährt wird, widerlegt werden, nicht aber durch einseitiges Verhalten des Versicherers
+OGH 17. September 1981, 7 Ob 39/81 (OLG Linz 5 R 85/81; KG Wels 1 Cg 317/80)
+Text
+Die klagende Partei begehrt mit der am 16. September 1980 eingebrachten Klage den Klagsbetrag als rückständige Prämie der Jahre 1979/1980 aus der Betriebsschutzversicherung, die der Beklagte am 13. Juli 1979 abgeschlossen hat und deren Erstprämie bis 1. Dezember 1979 gestundet worden sei.
+Der Erstrichter wies das Klagebegehren ab, weil die Erstprämie nicht innerhalb der dreimonatigen Frist des § 38 VersVG geltend gemacht wurde, sodaß Rücktritt vom Vertrag angenommen werden müsse. Das Berufungsgericht bestätigte dieses Urteil.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Nach der zutreffenden und insoweit unbekämpften Ansicht des Berufungsgerichtes gilt gemäß § 38 Abs. 1 Satz 2 VersVG die Vermutung, daß der Versicherer vom Vertrag zurückgetreten ist, wenn er die Erstprämie nicht binnen drei Monaten nach Fälligkeit eingeklagt hat. Dieser Bestimmung liegt der Gedanke zugrunde, daß die haftungsfreie Zeit drei Monate nicht übersteigen dürfe (Wahle zur Entscheidung VersR 1964, 599). Sie ist deshalb nur dann nicht anwendbar, wenn der Vertrag durch eine ausdrückliche oder stillschweigende Vereinbarung der Parteien aufrechterhalten wurde (SZ 32/35; VersR 1962, 339). Das wäre entgegen der Meinung des Berufungsgerichtes auch vor dem Ablauf der Frist möglich (vgl. SZ 23/348; SZ 35/123), wegen § 42 VersVG aber nur durch eine dem Versicherungsnehmer günstigere Abrede d. i. Aufrechterhaltung der Versicherungsdeckung (Ehrenzweig, Anm. zu SZ 23/348 in JBl. 1953, 67; vgl. auch SZ 35/123 mit Anm. von Wahle in VersR 1964, 602). Nach der zutreffenden Ansicht des Berufungsgerichtes kann die sonst unwiderlegbare Vermutung des Rücktrittes vom Vertrag jedoch keinesfalls aus einem Verhalten des Versicherers während der dreimonatigen Klagefrist widerlegt werden (SZ 32/35).
+In der Sache selbst kann deshalb der Revisionswerberin der Umstand nicht zugute kommen, daß der Beklagte am 6. Feber 1980 die Prämienforderung begleichen wollte, wenn sie die Annahme der Leistung verweigerte und dennoch die Klage nicht rechtzeitig erhob. Nachträgliche Besprechungen des Beklagten mit einem Vertreter der klagenden Partei haben aber nach den Feststellungen der Vorinstanzen zu keiner neuen Vereinbarung geführt, aus der die Revisionswerberin Rechte ableiten könnte.

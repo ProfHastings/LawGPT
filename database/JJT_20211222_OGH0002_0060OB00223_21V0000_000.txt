@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.12.2021
+Geschäftszahl
+6Ob223/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei H*, vertreten durch Dr. Hans Peter Bauer, Rechtsanwalt in Salzburg, gegen die beklagte Partei M*-Gesellschaft mbH, *, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, und deren Nebenintervenienten 1. G* F* GmbH, *, vertreten durch Müller & Schubert Rechtsanwälte OG in Salzburg, 2. F* Gesellschaft mbH, *, vertreten durch Holzer Kofler Mikosch Kasper Rechtsanwälte OG in Klagenfurt am Wörthersee, wegen 5.490 EUR sA und Feststellung, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 7. Oktober 2021, GZ 22 R 253/21s-90, womit das Urteil des Bezirksgerichts Salzburg vom 19. Juli 2021, GZ 13 C 741/19g-80, teilweise abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 958,58 EUR (darin 159,76 EUR USt) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts nicht zulässig:
+[2] 		1. Der konkrete Inhalt einer Verkehrssicherungspflicht hängt immer von den Umständen des Einzelfalls ab (vgl RS0029874).
+[3] 		Eine Abweichung von der Rechtsprechung des Obersten Gerichtshofs durch das Berufungsgericht liegt nicht vor. In der Entscheidung 4 Ob 18/15y leitete der Oberste Gerichtshof aus der (Negativ-)Feststellung, es stehe nicht fest, dass der Fußboden im Geschäftslokal der dort Beklagten am Unfallstag einen zu niedrigen Reibungskoeffizienten aufwies, ab, dass der dort Klägerin der ihr obliegende Beweis des Bestehens einer Gefahrenquelle und damit einer Sorgfaltsverletzung der dort Beklagten nicht gelungen war. Anknüpfend an diese Entscheidung verneinte der Oberste Gerichtshof in der Entscheidung 10 Ob 53/15i eine Verletzung der Verkehrssicherungspflicht im Hinblick auf die mangelhafte Rutschfestigkeit der Bodenfliesen, weil im konkreten Fall nicht einmal feststand, dass durch die Fliesen überhaupt eine Gefahrenquelle bzw Erhöhung der Gefahr vorlag und ob die Fliesen im Unfallzeitpunkt der maßgebenden ÖNORM entsprachen.
+[4] 		Wenn die Vorinstanzen im vorliegenden Fall in Anbetracht des Umstands, dass der Fliesenboden in der Damentoilette des Supermarkts der Beklagten am Unfalltag einen zu niedrigen Reibungskoeffizienten aufgewiesen hatte und nur bei Setzen zusätzlicher Maßnahmen eine Einstufung als rutschhemmend zugelassen hätte, davon ausgingen, dass der Klägerin der (Anscheins-)Beweis einer Verletzung der Verkehrssicherungspflichten der Beklagten gelungen sei, ist dies nicht zu beanstanden. Damit bestand aber nach § 1298 ABGB die Vermutung eines Verschuldens der beklagten Partei (10 Ob 53/15i).
+[5] 		2. Das Berufungsgericht hat das Prozessvorbringen der Beklagten dahin verstanden, dass diese sich nicht darauf berufen hatte, sie würde deshalb kein Verschulden treffen, weil sie auf die Produktbeschreibung der Herstellerfirma vertrauen hätte dürfen. Jedenfalls lagen nach den Feststellungen der Vorinstanzen gar keine konkreten Angaben der Herstellerfirma zum µ-Wert der gegenständlichen Fliesen und zu ihrer Klassifizierung nach der Tabelle 2 der ÖNORM Z 1261 vor. Die Auffassung, dass ein erst acht Jahre nach dem Einbau datierendes Zertifikat der Herstellerfirma für den der Beklagten obliegenden Entlastungsbeweis nicht ausreicht, zumal nicht einmal klar ist, ob ein derartiges „Zertifikat“ zum Zeitpunkt des Einbaus der Fliesen im Jahr 2013 bereits vorlag, ist nicht zu beanstanden.
+[6] 		3. Das Ausmaß des Mitverschuldens des Geschädigten begründet wegen seiner Einzelfallbezogenheit regelmäßig keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RS0087606).
+[7] 		Die von der beklagten Partei zitierte Rechtsprechung, wonach von jedem Fußgänger verlangt werden kann, dass er der einzuschlagenden Wegstrecke Aufmerksamkeit zuwendet (RS0023787), was auch für die Besucher eines Kaufhauses gilt (RS0023787), ist nicht dahin zu verstehen, dass der Blick stets nach unten unmittelbar vor die Füße gerichtet werden muss. In Anbetracht der geringen Entfernung zwischen der Schiebetür und dem Waschbecken sowie des Umstands, dass die mangelnde Rutschfestigkeit nach den Feststellungen der Vorinstanzen nicht erkennbar war, ist nicht zu beanstanden, wenn das Berufungsgericht ein ins Gewicht fallendes Mitverschulden der Klägerin verneinte.
+[8] 		Zusammenfassend bringt die Beklagte sohin keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass die Revision spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00223.21V.1222.000

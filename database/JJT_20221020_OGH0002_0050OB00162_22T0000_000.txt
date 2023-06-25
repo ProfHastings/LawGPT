@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.10.2022
+Geschäftszahl
+5Ob162/22t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer und Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerin H* GmbH, *, vertreten durch Mag. Dr. Maria Lisa Aidin, Rechtsanwältin in Salzburg, wegen Eintragungen ob den Liegenschaften EZ *, über den außerordentlichen Revisionsrekurs der Antragstellerin sowie der Einschreiterin M* GmbH, *, ebenfalls vertreten durch Mag. Dr. Maria Lisa Aidin, Rechtsanwältin in Salzburg, gegen den Beschluss des Landesgerichts Leoben als Rekursgericht vom 26. Juli 2022, AZ 1 R 145/22y, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Die Ergänzungen der Revisionsrekurswerberinnen (Anträge und Urkundenvorlage) werden zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Vorinstanzen wiesen den Antrag auf Einverleibung eines Simultanpfandrechts für eine Forderung im Höchstbetrag von 2.500.000 EUR ob den Liegenschaften EZ * ab. Auf den Liegenschaften sei die Eröffnung des Insolvenzverfahrens über das Vermögen der Liegenschaftseigentümerin am 19. Jänner 2022 angemerkt; dies stehe der begehrten Einverleibung entgegen.
+[2] 		Der von der Antragstellerin gemeinsam mit der Liegenschaftseigentümerin dagegen erhobene außerordentliche Revisionsrekurs zeigt keine Rechtsfrage von erheblicher Bedeutung auf.
+Rechtliche Beurteilung
+[3] 		1.1 Für die Beurteilung der Berechtigung eines Grundbuchsgesuchs nach § 93 GBG ist die Sach- und Rechtslage maßgebend, die beim Einlangen des Ansuchens (hier 14. April 2022) besteht (RIS-Justiz RS0061117; RS0010717 [T8]). Im Grundbuchsverfahren ist eine Änderung der Entscheidungsgrundlagen im Zeitraum zwischen Einlangen des Gesuchs bei Gericht und dessen Erledigung unerheblich (RS0010717 [T7]).
+[4] 		1.2 Nach § 13 IO besteht während des Insolvenzverfahrens grundsätzlich eine Grundbuchssperre; sie beginnt mit dem auf die Eröffnung folgenden Tag (vgl RS0121707). Der Anmerkung der Insolvenzeröffnung kommt nur deklarative Wirkung zu; ein Antrag, für den nicht im Sinn des § 13 IO ein vor dem Tag der Insolvenzeröffnung liegender Rang in Anspruch genommen werden kann, ist daher unabhängig davon abzuweisen, ob die Insolvenzeröffnung im Grundbuch angemerkt ist, oder nicht (vgl RS0034769; Kodek in Kodek, Grundbuchsrecht2 § 25 Rz 2 mwN).
+[5] 		1.3 Durch eine Aufhebung des Insolvenzeröffnungsbeschlusses und Zurückverweisung der Sache an das Erstgericht zur Verfahrensergänzung und neuerlichen Entscheidung bleiben die Wirkungen der Insolvenzeröffnung solange aufrecht, bis nicht eine rechtskräftige Ab- oder Zurückweisung des Eröffungsantrags vorliegt (RS0118048; vgl auch Höllwerth in KLS § 13 Rz 5).
+[6] 		2.1 Den Eröffnungsbeschluss über das Vermögen der Liegenschaftseigentümerin vom 19. Jänner 2022 hob das Rekursgericht mit Insolvenzverfahren mit Beschluss vom 17. März 2022 auf und verwies die Insolvenzsache zur neuerlichen Entscheidung über den Insolvenzeröffnungsantrag an das Erstgericht zurück; das Erstgericht wies schließlich am 28. Juni 2022 den Antrag auf Eröffnung des Insolvenzverfahrens ab. Die abweisende Entscheidung über das am 14. April 2022 eingebrachte Gesuch auf Einverleibung des Simultanpfandrechts entspricht damit der Rechtslage und erhebliche Rechtsfragen im Sinn des § 62 Abs 1 AußStrG sind nicht erkennbar.
+[7] 		2.2 Entgegen der Auffassung im außerordentlichen Revisionsrekurs kann von einem „gesetzlich nicht gedeckten Schwebezustand“ infolge der aufhebenden Entscheidung im Insolvenzverfahren nicht die Rede sein. Für ein im Rechtsmittel gefordertes „Innehalten“ des Gerichts mit seiner Entscheidung über das Grundbuchsgesuch existiert keine Rechtsgrundlage; die Bestimmung des § 29 AußStrG über das Innehalten des Verfahrens ist im Grundbuchsverfahren nicht anzuwenden (Kodek in Kodek, Grundbuchsrecht2 § 75 Rz 58 mwN; Gitschthaler in Gitschthaler/Höllwerth, AußStrG2 § 29 Rz 11 mwN). Davon abgesehen ist – wie erwähnt – die Sach- und Rechtslage im Zeitpunkt des Einlangens des Ansuchens für dessen Beurteilung maßgeblich, weshalb auch eine spätere Entscheidung darüber nicht anders hätte lauten können.
+[8] 		3. Die Ergänzungen der Antragstellerinnen zu ihrem außerordentlichen Revisionsrekurs (Anträge vom 14. September 2022 und Urkundenvorlage vom 27. September 2022) sind zurückzuweisen, weil jeder Partei nur eine einzige Rechtsmittelschrift zusteht (RS0041666; RS0100170 [T2]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0050OB00162.22T.1020.000

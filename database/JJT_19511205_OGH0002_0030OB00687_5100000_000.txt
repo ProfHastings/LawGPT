@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.12.1951
+Geschäftszahl
+3Ob687/51
+Norm
+ABGB §822;
+Dritte Teilnovelle zum Allgemeinen Bürgerlichen Gesetzbuch §73;
+Dritte Teilnovelle zum Allgemeinen Bürgerlichen Gesetzbuch §75;
+Außerstreitgesetz §142 Abs2;
+EO §379 Abs4;
+EO §384 Abs2;
+Grundbuchsgesetz §21;
+Grundbuchsgesetz §24;
+Kopf
+SZ 24/334
+Spruch
+Auf Grund einer einstweiligen Verfügung nach § 75 der III. Teilnovelle kann auch ein Belastungs- und Veräußerungsverbot bei einer dem Erben noch nicht eingeantworteten Liegenschaft angemerkt werden. Weder die Bestimmung des § 21 GBG. noch jene des § 379 Abs. 4 EO. ist in einem solchen Falle anwendbar.
+Entscheidung vom 5. Dezember 1951, 3 Ob 687/51.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht hat zur Sicherung des Anspruches der gefährdeten Parteien auf Zahlung von 15.993.06 S u. a. der Antragsgegnerin die Veräußerung, Belastung und Verpfändung des ihr in dem Nachlaß nach der am 12. April 1948 verstorbenen Leopoldine R. angefallenen Liegenschaftsanteiles an der Liegenschaft EZ. 4 Kat.Gem. W. mit dem Wohnhaus Nr. 4, sowie die Veräußerung, Belastung und Verpfändung der zum Nachlaß gehörigen Liegenschaft EZ. 18 Kat.Gem. Sch., Grundbuch des Bezirksgerichtes W. i. L. mit dem Wohnhaus Nr. 23 in Sch. (mit Ausnahme der Übertragung der Liegenschaft an die Legatarin Rosa S.) verboten. Es hat die Anmerkung dieser Verbote in den bezüglichen Grundbuchseinlagen angeordnet.
+Auf den Rekurs der Antragsgegnerin hat das Rekursgericht die einstweilige Verfügung des Erstgerichtes dahin geändert, daß die Anmerkung der Veräußerungs- und Belastungsverbote in den Grundbuchseinlagen EZ. 4 Kat.Gem. W. und EZ. 18 Kat.Gem. Sch. zu entfallen haben.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der gefährdeten Parteien Folge und stellte den erstrichterlichen Beschluß zur Gänze wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Vor der III. Teilnovelle konnten gemäß § 822 ABGB. (alter Fassung) die Erbengläubiger das dem Erben angefallene Erbgut vor der Einantwortung mit Verbot, Pfändung und Vormerkung belegen. Sie konnten auch exekutive Pfandrechte erwirken (vgl. Krasnopolski, Erbrecht, S. 270, Note 3, und die dort angeführte Literatur und Rechtsprechung). Allerdings konnte bücherliche Sicherstellung nach § 822 ABGB. (alt) nur mit dem Vorbehalt erteilt werden, daß sie den bei der Verlassenschaft vorkommenden Ansprüchen nicht nachteilig und erst von der Zeit der erlangten Einantwortung wirksam sein solle. Darin lag eine vom Grundbuchsgesetz selbst (§ 24 GBG.) sanktionierte Ausnahme von dem Prinzip des bücherlichen Vormannes nach § 21 GBG.
+Die Regelung der §§ 73 bis 75 der III. Teilnovelle sollte den Grundgedanken des § 822 ABGB. auf eine einfachere Formel bringen, indem jede Exekution der Erbengläubiger auf Nachlaßbestandteile vor der Einantwortung an den Erben ausgeschlossen, die sofortige Vollstreckung nach der Einantwortung durch rechtzeitige Verständigung des Erbengläubigers und durch Zulassung einstweiliger Verfügungen in möglichst weitem Umfang aber praktisch gesichert werden sollte (vgl. Materialien zur III. Teilnovelle, S. 242). Aus den Materialien (Herrenhausbericht 78 der Beilagen 21. Session 1912) ergibt sich somit, daß die Erbengläubiger grundsätzlich nicht schlechter gestellt werden sollten, als durch die alte Regelung, sondern daß nur der gleiche Zweck auf andere Art erreicht werden sollte. Aus den Materialien geht weiter hervor, daß die unter der Überschrift "Sicherungsmittel der Gläubiger des Erben" zusammengefaßten Normen der §§ 73 bis 75 der III. Teilnovelle gewissermaßen eine Einheit bilden, obwohl nur die erste Bestimmung als § 822 in das Allgemeine Bürgerliche Gesetzbuch selbst aufgenommen wurde.
+Diese Erwägungen rechtfertigen es, den § 24 GBG. nunmehr auf die Vorschrift des § 75 der III. Teilnovelle zu beziehen, dies um so mehr, da sie ja bei einer wörtlichen Interpretation keinen Sinn mehr hätte. Denn § 822 ABGB. in der neuen Fassung stellt seinen Anwendungsbereich nur auf Gegenstände des Nachlasses, die dem Erben nach § 145 Abs. 2 des Abhandlungspatentes in den rechtlichen Besitz überantwortet werden, somit nur auf bewegliche Sachen, ab. Es ist daher die Auffassung des Revisionsrekurses grundsätzlich zu billigen, daß ein Belastungs- und Veräußerungsverbot nach § 75 der III. Teilnovelle nicht nur vom Verbot des § 379 Abs. 4 EO. sondern auch von dem des § 21 GBG. ausgenommen ist und daß demgemäß nach § 384 Abs. 2 EO. auch solche Verbote anzumerken sind. Die Zulässigkeit der Anmerkung eines Veräußerungs- und Belastungsverbotes nach § 75 der III. Teilnovelle wird auch von Bartsch in seinem Grundbuchsgesetz (Wien 1933. § 77 S. 513) anerkannt.
+Aus diesen Erwägungen war dem Revisionsrekurs Erfolg zu geben.

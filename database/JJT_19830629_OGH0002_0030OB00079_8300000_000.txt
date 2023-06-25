@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.1983
+Geschäftszahl
+3Ob79/83
+Norm
+EO §7;
+EO §39 Abs1 Z2;
+EO §87;
+ZPO §406 Satz 2;
+Kopf
+SZ 56/115
+Spruch
+Die Exekution durch zwangsweise Pfandrechtsbegründung kann auch auf Grund eines Titels, wonach Unterhalt oder eine sonstige Rente laufend zu leisten ist, nur zur Hereinbringung künftig fällig werdender Beträge bewilligt werden. Eine dennoch bewilligte Exekution ist gemäß § 39 Abs. 1 Z 2 EO einzustellen
+OGH 29. 6. 1983, 3 Ob 79/83 (LGZ Wien 46 R 51/83; BG Klosterneuburg E 589/81)
+Text
+Die betreibende Partei beantragte, ihr zur Hereinbringung eines schon fälligen Betrages von 169 656.72 S und der ab 1. 2. 1981 bis einschließlich 10.4. 2023 am 1. eines jeden Monates im vorhinein fällig werdenden Beträge von je 4359.50 S, sowie der am 1. 12. eines jeden Jahres zusätzlich fällig werdenden Beträge von 8719.20 S, abzüglich einer Zahlung von 1787.74 S, die Exekution durch zwangsweise Pfandrechtsbegründung auf zwei Liegenschaften der verpflichteten Partei zu bewilligen.
+Das Erstgericht bewilligte die Exekution antragsgemäß.
+Über Antrag der betreibenden Partei wurde mit Beschluß vom 22. 4. 1981 wegen Bezahlung des Betrages von 169 656.72 S sA sowie Bezahlung der für die Zeit vom 1. 2. 1981 bis 30. 4. 1981 fällig werdenden Rentenbeträge die Exekution auf die seit 1. 5. 1981 fällig werdenden Rentenbeträge eingeschränkt. Der Exekutionsbewilligungsbeschluß und dieser Einschränkungsbeschluß wurden der verpflichteten Partei am 23. 4. 1981 zugestellt und erwuchsen mangels Anfechtung in Rechtskraft. Der Exekutionsbewilligungsbeschluß wurde im Grundbuch vollzogen (17. 5. 1981), ein Vollzug des Einschränkungsbeschlusses wurde nicht angeordnet. Mit einem weiteren Beschluß vom 19. 11. 1982 wurde die Exekution auf die seit 1. 11. 1982 fällig werdenden Rentenbeträge eingeschränkt. Auch hier wurde kein Vollzug im Grundbuch angeordnet.
+Am 15. 10. 1982 beantragte die verpflichtete Partei die Einstellung der Exekution gemäß § 39 EO und die Löschung der einverleibten Zwangspfandrechte mit der Begründung, die vollstreckbare Forderung von 169 656.72 S samt der mit 2211.21 S bestimmten Kosten des Exekutionsantrages sei bezahlt worden.
+Die betreibende Partei beantragte unter Hinweis auf den Umstand, daß die Pfandrechte auch für die künftigen Rentenleistungen hafteten, die Abweisung des Einstellungsantrages.
+Mit Beschluß vom 19. 11. 1982 wies das Erstgericht den Einstellungsantrag der verpflichteten Partei unter Hinweis auf die in Zukunft fällig werdenden Rentenbeträge zurück.
+Das Rekursgericht änderte diesen Beschluß dahin ab, daß die Exekution gemäß § 39 Abs. 1 Z 2 EO eingestellt werde, weil trotz Rechtskraft der Exekutionsbewilligung hinsichtlich der unzulässigen Exekution zur Hereinbringung der noch gar nicht fälligen künftigen Rentenbeträge ein Einstellungsbeschluß zulässig sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß § 7 Abs. 2 EO darf vor Eintritt der Fälligkeit einer Forderung und vor Ablauf der in einem Urteil oder in einem anderen Exekutionstitel für die Leistung bestimmten Frist die Exekution nicht bewilligt werden. Auch wenn ein Titel zur Zahlung eines Unterhaltsbetrages oder einer sonstigen Rente vorliegt (§ 406 Satz 2 ZPO), kann gleichwohl Exekution erst nach Fälligkeit der einzelnen Raten zu deren Hereinbringung, nicht aber zur Durchsetzung des ganzen Rechtes bewilligt werden. Nur zugunsten der im § 6 Abs. 3 LPfG genannten Forderungen ist es zulässig, auf Arbeitseinkommen und gleichgestellte Bezüge Zwangsvollstreckung zur Hereinbringung künftig abreifender Beträge zu führen. Auf andere Exekutionsobjekte kann nur zur Befriedigung der fälligen Unterhaltsforderungen gegriffen werden (Heller - Berger - Stix 195).
+Die Exekutionsbewilligung war daher hinsichtlich der künftig fällig werdenden Rentenbeträge von Anfang an gesetzwidrig erteilt worden. Der Verpflichtete hätte sich dagegen mit Rekurs wehren können. Neben dem Rekursrecht steht aber auch das Recht zu, die Einstellung der Exekution nach § 39 Abs. 1 Z 2 EO zu begehren; denn auf eine Liegenschaft kann nur zur Befriedigung erst künftig fällig werdender Rentenbeträge nicht Exekution geführt werden. Wenn auch der vorliegende Sachverhalt nicht gerade den typischen Anwendungsfall des § 39 Abs. 1 Z 2 EO darstellen mag, so ist diese Bestimmung doch sinngemäß auch in den Fällen anzuwenden, in denen ein unzulässiges Exekutionsmittel in Anspruch genommen wird oder dergleichen mehr (Heller - Berger - Stix 503). Die Rechtskraft der Exekutionsbewilligung steht in einem solchen Fall dem Einstellungsantrag nicht entgegen (vgl. SZ 43/8; 46/120; Heller - Berger - Stix 160-163, 503).

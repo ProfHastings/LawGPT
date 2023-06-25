@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.09.2013
+Geschäftszahl
+6Ob117/13v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr.
+Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei B*****, vertreten durch Dr. Bernhard Eder, Rechtsanwalt in Wien, gegen die beklagte Partei Verlassenschaft nach W***** Z*****, vertreten durch Mag. Wolfgang Ruckenbauer, Rechtsanwalt in Wien als Verlassenschaftskurator, wegen Aufkündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 24. April 2013, GZ 39 R 218/12s-27, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Der Antrag auf Zuspruch der Kosten der Revisionsbeantwortung wird abgewiesen (§ 508a Abs 2 Satz 2 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Gesellschaften bürgerlichen Rechts kommt keine Rechtspersönlichkeit zu. Zurechnungssubjekte bei Rechten und Pflichten sind vielmehr deren Gesellschafter, die auch Vertragspartner des Dritten sind (vgl RIS-Justiz RS0022132 [T2], RS0022490; Riedler in Koziol/Bydlinski/Bollenberger³ § 1175 ABGB Rz 4 mwN). Anders als bei den Personengesellschaften vor der Handelsrechtsreform sind bei der Gesellschaft bürgerlichen Rechts damit die einzelnen Gesellschafter als Träger der die Gesellschaft bürgerlichen Rechts betreffenden Rechte und Pflichten Mitmieter des Geschäftslokals (Ofner, Der Veräußerungstatbestand des § 12 Abs 3 MRG im Spiegel der Rechtsprechung, wobl 1989, 42).
+Nach der Rechtsprechung zu den Personenhandelsgesellschaften vor der Handelsrechtsreform (vgl dazu in Würth in Rummel, ABGB³ § 1094 Rz 10), war bei einem Mietvertrag über ein Geschäftslokal mit einer offenen Handelsgesellschaft mangels anderer Vereinbarung der Parteiwille dahin zu verstehen, dass als Vertragspartner der jeweilige Inhaber des Unternehmens gelten soll (RIS-Justiz RS0014370). Der mit der Gesellschaft abgeschlossene Mietvertrag wird durch deren Auflösung nicht aufgelöst, sondern geht auf den das Geschäftslokal übernehmenden Gesellschafter über (RIS-Justiz RS0021236). Ein Bestandvertrag mit einer Handelsgesellschaft bleibt in der Regel durch den Wechsel der Gesellschafter, die Umwandlung in eine Einzelfirma oder Weiterveräußerung des Unternehmens unberührt (vgl RIS-Justiz RS0032807).
+Diese für Personenhandelsgesellschaften entwickelten Grundsätze können nach der Lehre auch auf eine Gesellschaft bürgerlichen Rechts angewendet werden, wenn gegenüber dem Vermieter die Gesellschaft als von dem wechselnden Gesellschafter bestandunabhängige Einheit, etwa unter einer besonderen Geschäftsbezeichnung, aufgetreten ist. Dann ist davon auszugehen, dass die jeweiligen Gesellschafter als Vertragspartner des Vermieters eintreten (Ch. Nowotny, Einfluss von Änderungen im Gesellschaftsverhältnis auf die Geschäftsraummiete, GesRZ 1986, 20).
+Nach dispositivem Recht sind jedenfalls die einzelnen Gesellschafter Mitmieter. Durch den Tod eines Mitgesellschafters gehen daher dessen (Mit-)Mietrechte nach § 1116a ABGB auf seine Erben über. Demgegenüber normiert § 1206 ABGB vor allem die Rechtsstellung des Erben gegenüber den verbliebenen Gesellschaftern (Wittmann-Tiwald in Klete?ka/Schauer, ABGB-ON § 1206 Rz 1), nicht jedoch seine Stellung gegenüber dritten Vertragspartnern des Erblassers.
+§ 1116a ABGB ist nachgiebiges Recht (Würth in Rummel, ABGB³ § 1116a Rz 1; Riss in Klete?ka/Schauer, ABGB-ON § 1116a Rz 4, vgl RIS-Justiz RS0021319). Die Frage, ob die Parteien im Einzelfall von der dispositiven gesetzlichen Regelung abweichen wollten, bildet jedoch keine erhebliche Rechtsfrage. Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn infolge einer wesentlichen Verkennung der Rechtslage ein geradezu unvertretbares Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042936).
+Damit bringt die Revision aber keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Qualität zur Darstellung, sodass diese spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0060OB00117.13V.0909.000

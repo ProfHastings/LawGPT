@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.06.2018
+Geschäftszahl
+4Ob97/18w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Klägerin S***** GmbH, *****, vertreten durch Dr. Markus Kroner, Rechtsanwalt in Salzburg, gegen die Beklagte B***** GmbH, *****, vertreten durch Greiter, Pegger, Kofler & Partner, Rechtsanwälte in Innsbruck, wegen restlich 911.017,01 EUR sA, über die außerordentliche Revision der Beklagten gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 29. März 2018, GZ 2 R 14/18b-95a, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Berufungsgericht hielt die von der Beklagten formulierte und für sie günstigere Verzugszinsenklausel im Werkvertrag für sittenwidrig und gegen § 864a ABGB verstoßend und sprach der Klägerin die gesetzlichen Zinsen von 8 % über dem Basiszinssatz (§ 352 UGB aF) aus dem rechtskräftig zugesprochenen Werklohn von mehr als 600.000 EUR zu.
+Die Beklagte bekämpft mit außerordentlicher Revision den Zinsenzuspruch wegen unrichtiger rechtlicher Beurteilung. Aufgrund der Parteienvereinbarung gebühre bloß der Basiszinssatz und nicht der (zugesprochene) gesetzliche Zinssatz. Die Beklagte lasse sich aber 2 % darüber „aus Vorsichtsgründen anrechnen“. Überdies sei hinsichtlich eines Teilbetrags ein Haftrücklass vereinbart gewesen, sodass der Zinsenlauf diesbezüglich erst nach Ablauf der Gewährleistungsfrist beginne.
+Rechtliche Beurteilung
+Dazu ist zunächst festzuhalten, dass Zinsen und Kosten, die als Nebenforderungen (neben einer Hauptforderung) geltend gemacht werden, bei der Frage der Zulässigkeit der Revision unberücksichtigt bleiben (RIS-Justiz RS0108266). Richtet sich aber – wie hier – die Revision nur gegen den Zinsenzuspruch, ist für die Revisionszulässigkeit ausschließlich der übrige Entscheidungsgegenstand maßgeblich (vgl 2 Ob 88/17f), der hier weit über 5.000 EUR liegt, weshalb die Zulässigkeit der Revision vom Vorliegen einer erheblichen Rechtsfrage iSv § 502 Abs 1 ZPO abhängt. Eine solche zeigen aber die Revisionsausführungen nicht auf:
+1. Die Beurteilung der „Ungewöhnlichkeit“ einer Klausel iSd § 864a ABGB ist stets von der Kasuistik des Einzelfalls geprägt und auf die singuläre Rechtsbeziehung der Streitteile zugeschnitten, sodass darin grundsätzlich keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO zu erblicken ist (RIS-Justiz RS0122393).
+2. Zu den konkreten Voraussetzungen des § 864a ABGB hat das Berufungsgericht bereits im ersten Rechtsgang ausgeführt, dass im Zusammenhang mit der Regelung von Geldüberweisungen im Auftrags-Leistungsverzeichnis ein Vertragspartner nicht damit zu rechnen brauche, dass an dieser Stelle Bestimmungen über die Höhe von Verzugszinsen enthalten seien, weshalb die Regelung überraschend und (wegen der geringen Höhe) ungewöhnlich im Sinne der genannten Gesetzesbestimmung sei. Die Revision enthält zur Frage des Vorliegens der Voraussetzungen des § 864a ABGB keine konkreten Sachargumente. Da somit bereits die Voraussetzungen des § 864a ABGB nicht weiter in Frage gestellt werden, kommt es auf die im Rechtsmittel auch angesprochene Frage der Sittenwidrigkeit nach § 879 Abs 1 ABGB nicht an.
+3. Was das „Zugeständnis“ der Beklagten hinsichtlich eines Zinssatzes von 2 % über dem Basiszinssatz und ihre Ausführungen zur geltungserhaltenden Reduktion der beanstandeten Vertragsklausel betrifft, so finden sich in den Feststellungen der Tatsacheninstanzen keine Anhaltspunkte für einen hypothetischen Parteiwillen (vgl RIS-Justiz RS0127810), die gesetzlichen Verzugszinsen abzubedingen.
+4. Hinsichtlich des vorgebrachten späteren Beginns des Zinsenlaufs wegen des Haftrücklasses hat bereits das Berufungsgericht darauf verwiesen, dass die Beklagte in erster Instanz den Beginn des Zinsenlaufs nicht substantiiert bestritten hat. Sie verstößt somit insoweit gegen das Neuerungsverbot.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00097.18W.0611.000

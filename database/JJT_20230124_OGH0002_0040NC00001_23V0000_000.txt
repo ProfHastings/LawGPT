@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2023
+Geschäftszahl
+4Nc1/23v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie den Hofrat Dr. Schwarzenbacher und die Hofrätin Mag. Fitz als weitere Richter in der Rechtssache der  klagenden Partei Mag. H*, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, gegen die beklagte Partei P*, Vereinigte Staaten von Amerika, wegen 77.736,76 EUR sA, über den Ordinationsantrag der klagenden Partei den
+Beschluss
+gefasst:
+Spruch
+Als örtlich zuständiges Gericht wird das Landesgericht für Zivilrechtssachen Wien bestimmt.
+Text
+Begründung:
+[1] 		Der Kläger begehrt von der Beklagten den Ersatz der von ihm im Zuge des im Rahmen der Beendigung einer längeren Geschäftsbeziehung zur Beklagten abgeschlossenen Generalvergleichs aufgewendeten Rechtsanwaltskosten in Höhe von 77.736,76 EUR sA aufgrund der im Rahmen dieses Vergleichs getroffenen Vereinbarung.
+[2] 		Das Landesgericht für Zivilrechtssachen Wien wies seine Klage mit rechtskräftigem Beschluss vom 2. 1. 2023 zurück. Der Kläger könne sich zur Begründung eines Gerichtsstands der Beklagten nicht auf § 99 JN stützen, weil das behauptete Vermögen der Beklagten in Form von Gesellschaftsanteilen im Inland ihr nicht ad personam gehöre, sondern einer amerikanischen Holding-Gesellschaft.
+[3] 		Am 13. 1. 2023 beantragte der Kläger beim Obersten Gerichtshof gemäß § 28 JN unter Anschluss der einzubringenden Klage die Ordination eines für seine Klage örtlich zuständigen Gerichts in Österreich. Er brachte dazu  vor, die inländische Gerichtsbarkeit (gemeint: internationale Zuständigkeit) österreichischer Gerichte sei im Generalvergleich vereinbart worden. Im Übrigen sei eine Rechtsverfolgung in den USA unzumutbar, weil Urteile aus den USA in Österreich nicht vollstreckbar seien und die Exekutionsführung im Inland geplant sei.
+Rechtliche Beurteilung
+[4] 		Die Voraussetzungen für eine Ordination durch den Obersten Gerichtshof sind gegeben.
+[5] 		1. Für den Fall, dass für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts nicht gegeben oder nicht zu ermitteln sind, bestimmt § 28 Abs 1 JN, dass der Oberste Gerichtshof aus den sachlich zuständigen Gerichten eines zu bestimmen hat, welches für die fragliche Rechtssache als örtlich zuständig zu gelten hat, wenn Österreich aufgrund eines völkerrechtlichen Vertrags zur Ausübung von Gerichtsbarkeit verpflichtet ist (Z 1) oder der Kläger österreichischer Staatsbürger ist oder seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre (Z 2) oder die inländische Gerichtsbarkeit, nicht aber ein örtlich zuständiges Gericht vereinbart worden ist (Z 3).
+[6] 		2. Die Ordination nach § 28 Abs 1 Z 3 JN setzt die internationale Zuständigkeit Österreichs voraus  (RS0118239; 3 Nc 3/18y; RS0046326; Garber in Fasching/Konecny³ I [2013] § 28 JN Rz 22). Diese ist vom Obersten Gerichtshof im Ordinationsverfahren zu prüfen (RS0046568 [T1]). Der Oberste Gerichtshof ist dabei allerdings an eine darüber bereits ergangene rechtskräftige Entscheidung gebunden (Garber aaO Rz 25; 2 Nc 17/12s;      2 Nc 4/21t; 5 Nc 12/22t). Das Erstgericht hat in der Begründung seines mittlerweile in Rechtskraft erwachsenen Beschlusses zwar auch – offenbar irrtümlich – die internationale Zuständigkeit erwähnt, inhaltlich aber nur eine Entscheidung über den Gerichtsstand nach § 99 JN getroffen. Die internationale Zuständigkeit ist daher vom Obersten Gerichtshof zu prüfen (vgl 2 Nc 4/21t).
+[7] 		3. Die Kläger stützen ihren Ordinationsantrag auf eine Vereinbarung im Sinne des § 28 Abs 1 Z 3 JN. Der vertragsautonom auszulegende Begriff der Gerichtsstandsvereinbarung (Art 25 Abs 1 EuGVVO 2012) verlangt eine übereinstimmende Willenserklärung über die Zuständigkeitsbegründung (RS0117156). Im einseitigen Ordinationsverfahren (vgl RS0114932) ist von den Klagebehauptungen auszugehen (2 Nc 4/21t; 5 Nc 12/22t). Danach haben die Parteien in dem im Ordinationsverfahren vorgelegten Generalvergleich schriftlich die Zuständigkeit österreichischer Gerichte, nicht aber ein örtlich zuständiges Gericht, vereinbart.
+[8] 		4. Der Umstand, dass lediglich die internationale Zuständigkeit, nicht aber ein örtlich zuständiges österreichisches Gericht vereinbart wurde, schadet wegen der Ordinationsmöglichkeit gemäß § 28 Abs 1 Z 3 JN nicht. Dann ist vielmehr nach der zuletzt genannten Bestimmung ein inländisches Gericht als für die Rechtssache zur Verhandlung und Entscheidung örtlich zuständig zu bestimmen (5 Nc 12/22t mwN).
+[9] 			5. Für die Auswahl des zu ordinierenden Gerichts (in örtlicher Hinsicht) enthält § 28 JN zwar keine ausdrücklichen Vorgaben; es ist dabei jedoch auf die Kriterien der Sach- und Parteinähe sowie der Zweckmäßigkeit Bedacht zu nehmen (RS0106680 [T13]). Unter Berücksichtigung dieser Vorgaben und entsprechend dem Vorbringen des Klägers erweist sich eine Zuweisung der vorliegenden Rechtssache an das Landesgericht für Zivilrechtssachen Wien als zweckmäßig, wurde doch die vorliegende Klage bei diesem Gericht bereits behandelt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040NC00001.23V.0124.000

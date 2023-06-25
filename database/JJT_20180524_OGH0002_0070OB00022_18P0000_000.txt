@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2018
+Geschäftszahl
+7Ob22/18p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei R***** G*****, vertreten durch Mag. Christoph Kaltenhauser, Rechtsanwalt in Mittersill, gegen die beklagte Partei A***** SE *****, vertreten durch Mag. Martin Paar, Mag. Hermann Zwanzger, Rechtsanwälte in Wien, wegen Feststellung, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 25. Oktober 2017, GZ 53 R 142/17i-11, womit das Urteil des Bezirksgerichts Zell am See vom 5. Mai 2017, GZ 16 C 75/17h-7, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei hat die Kosten ihres erfolglosen Rechtsmittels selbst zu tragen.
+Text
+Begründung:
+Das Berufungsgericht ließ die ordentliche Revision mangels einschlägiger Rechtsprechung zur Frage der Deckungspflicht zur Durchsetzung eines Anspruchs gegen die Betriebshaftpflichtversicherung auf Prozesskosten aus einem auch Gewährleistungsansprüche betreffenden Verfahren zu.
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts hängt die Entscheidung nicht von der Lösung einer erheblichen Rechtsfrage ab:
+Zwischen den Streitteilen besteht eine aufrechte Rechtsschutzversicherung, in welcher auch „Versicherungsvertrags-Rechtsschutz” für den Betriebsbereich umfasst ist. Grundlage sind unter anderem die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung und Ergänzenden Bedingungen für die Rechtsschutz-Versicherung zum jeweiligen gültigen Stand, hier ARB 2014 und ERB 2014.  Artikel 9. ARB 2014 lautet auszugsweise:
+„Wann und wie hat A***** zum Deckungsanspruch des Versicherungsnehmers Stellung zu nehmen?
+...
+2. Davon unabhängig hat ARAG das Recht, jederzeit Erhebungen über den mutmaßlichen Erfolg der Rechtsverfolgung oder Rechtsverteidigung anzustellen. Kommt die beklagte Partei nach Prüfung des Sachverhaltes unter Berücksichtigung der Rechts- und Beweislage zum Ergebnis,
+…
+2.3. dass erfahrungsgemäß keine Aussicht auf Erfolg besteht, hat die A***** das Recht, die Kostenübernahme zur Gänze abzulehnen.“
+Zwischen dem Kläger und seinem Betriebshaftpflichtversicherer sind die Allgemeinen und Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung (AHVB 2004 und EHVB 2004) der U***** vereinbart.
+Artikel 7.1. der AHVB 2004 lautet:
+„Was ist nicht versichert? (Risikoausschlüsse)
+1. Unter die Versicherung gemäß Art. 1 fallen insbesondere nicht
+1.1 Ansprüche aus Gewährleistung für Mängel;
+…
+1.3 die Erfüllung von Verträgen und die an die Stelle der Erfüllung tretende Ersatzleistung;“
+1. In der Rechtsschutzversicherung ist bei der Beurteilung der Erfolgsaussichten kein strenger Maßstab anzulegen (7 Ob 20/17t; 7 Ob 171/16x; RIS-Justiz RS0081929). Im Deckungsprozess sind Feststellungen über Tatfragen, die Gegenstand des Haftpflichtprozesses sind, für den Haftpflichtprozess nicht bindend, daher überflüssig und soweit sie getroffen wurden, für die Frage der Deckungspflicht unbeachtlich. Eine Vorwegnahme der Beweiswürdigung und des Ergebnisses des Haftpflichtprozesses kommt bei Beurteilung der Erfolgsaussichten grundsätzlich nicht in Betracht (RIS-Justiz RS0081927), sondern können die zur Verfahrenshilfe entwickelten Grundsätze übernommen werden. Die Beurteilung, ob „keine oder nicht hinreichende Aussicht auf Erfolg“ besteht, hat sich am Begriff „nicht als offenbar aussichtslos“ des die Bewilligung der Verfahrenshilfe regelnden § 63 ZPO zu orientieren. „Offenbar aussichtslos“ ist eine Prozessführung, die schon ohne nähere Prüfung der Angriffs- oder Verteidigungsmittel als erfolglos erkannt werden kann (insbesondere bei Unschlüssigkeit, aber auch bei unbehebbarem Beweisnotstand, RIS-Justiz RS0116448, RS0117144). Eine nicht ganz entfernte Möglichkeit des Erfolgs genügt (RIS-Justiz RS0117144).
+2. Eine Vorwegnahme des Ergebnisses des zu deckenden Prozesses im Deckungsprozess durch Klärung der dort gegenständlichen – bisher noch nicht gelösten – Rechtsfragen zur Beurteilung der Erfolgsaussichten kommt ebenso wenig in Betracht wie die Vorwegnahme der Klärung der Tatfragen. Hängt daher der Ausgang im zu deckenden Prozess bei Fehlen einer klaren Gesetzeslage von einer bisher nicht gelösten Rechtsfrage ab, rechtfertigt dies nicht die Annahme, dass keine oder keine hinreichende Aussicht auf Erfolg besteht (7 Ob 161/16a = RIS-Justiz RS0124256 [T3]).
+3. Zur hier zu beurteilenden Frage fehlt es an eindeutiger Gesetzes- bzw Bedingungslage und klarstellender Judikatur, sodass aus diesem Grund ohne weitere Erwägungen zur Rechtsfrage die Annahme, dass keine oder keine hinreichende Aussicht auf Erfolg besteht, nicht von vorneherein gerechtfertigt ist und die klagsstattgebende Entscheidung der Vorinstanzen daher im Ergebnis jedenfalls vertretbar ist.
+4. Die Kostenentscheidung beruht auf §§ 40 Abs 1, 50 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00022.18P.0524.000

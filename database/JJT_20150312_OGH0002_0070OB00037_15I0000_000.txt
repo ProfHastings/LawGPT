@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.03.2015
+Geschäftszahl
+7Ob37/15i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei Mag. J***** M*****, vertreten durch MMMag. Dr. Franz Giesinger Rechtsanwalt GmbH in Götzis, gegen die beklagte Partei A***** AG, *****, vertreten durch Dr. Thomas Lederer, Rechtsanwalt in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. Dezember 2014, GZ 5 R 171/14z-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. In seiner Entscheidung 7 Ob 226/09z (RIS-Justiz RS0125845) hat der Oberste Gerichtshof bereits ausgesprochen: „Zu Recht unstrittig ist zwischen den Parteien, dass die 'gewerbliche Vermittlung von Secondhand-Polizzen an einen Investor' [...] nicht unter die Versicherungsvermittlung gemäß § 137 Abs 1 GewO fällt, sondern unter die Tätigkeit des Vermögensberaters nach § 136 GewO (Fletzberger, Secondhand-Polizzen: eine rechtliche Bestandsaufnahme, ÖZW 2006, 70 und Fenyves, Die Secondhand-Polizze in der Haftpflichtversicherung des Versicherungsmaklers, RdW 2008, 94, 137). Dieser Ansicht ist zu folgen, weil bei der 'Vermittlung von Secondhand-Polizzen' kein neues Versicherungsverhältnis begründet wird (eine entgeltliche, selbständige neue Risikoübernahme erfolgt nicht), sondern lediglich die Ansprüche aus einem bestehenden Vertrag, der aufrecht bleibt, entgeltlich übertragen werden.“
+1.1 Der Kläger argumentiert, diese Entscheidung sei nicht einschlägig, weil dort lediglich das Bezugsrecht übertragen worden sei. Im vorliegenden Fall hingegen seien sämtliche Rechte und Pflichten aus den Versicherungsverträgen auf seinen Kunden übergegangen, die vom Kläger treuhändisch wahrgenommen würden. Der wesentliche Unterschied bestehe daher im Wechsel des Versicherungsnehmers.
+Der Kläger übersieht, dass auch bei der von ihm ins Treffen geführten Vertragsübernahme durch seinen Kunden die ursprünglichen Verträge weitergeführt wurden und eine selbstständige neue Risikoübernahme gerade nicht erfolgte. Das versicherte Risiko bezieht sich weiterhin auf den ursprünglichen Versicherungsnehmer.
+1.2 Der Kläger hält der genannten oberstgerichtlichen Entscheidung weiters entgegen, dass die Parteien dort die Zuordnung des Handelns mit Polizzen zur Vermögensberatung außer Streit gestellt hätten und damit eine rechtliche Überprüfung dieser Frage durch den Obersten Gerichtshof nicht erfolgt sei.
+Außerstreitstellungen, die nicht Tatsachen, sondern nur die rechtliche Qualifikation eines Sachverhalts betreffen, sind unwirksam (RIS-Justiz RS0039938 [T1]). Demgemäß wurde in der Entscheidung 7 Ob 226/09z auch die - auf den dortigen Sachverhalt gründende - übereinstimmende Rechtsansicht der Parteien geprüft und geteilt.
+1.3 Die Beurteilung der Vorinstanzen, die Tätigkeit des Klägers zähle gemäß § 136a Abs 1 Z 2 GewO als Vermittlung von Veranlagungen und Investitionen zur nicht versicherten Vermögensberatung, hält sich damit im Rahmen der oberstgerichtlichen Rechtsprechung.
+2. Vor diesem Hintergrund ging das Berufungsgericht weiters davon aus, dass, weil die (kreditfinanzierte) Vermittlung der Secondhand-Polizzen schon keine eigene Leistung eines Versicherungsmaklers darstelle, die gleichzeitige Vermittlung der Kreditverträge diese auch nicht nach § 32 GewO wirtschaftlich sinnvoll ergänzte und damit Versicherungsschutz allein für die Vermittlung der Kreditverträge zu verneinen sei. Diese Beurteilung ist nicht korrekturbedürftig.
+3. Das Berufungsgericht vertrat darüber hinaus, dass der Kläger für gegen ihn geltend gemachte Schadenersatzansprüche Deckung begehre, deren Gegenstand das gesamte Modell (Kreditarrangements samt den von ihm angeratenen Lebensversicherungen und Secondhand-Polizzen) und nicht der Abschluss der beiden Lebensversicherungen alleine sei, sodass die Beklagte nicht zur teilweisen Deckung verpflichtet werden könne. Gegen diese Rechtsansicht führt der Kläger keine Argumente ins Treffen.
+4. Vielmehr beruft er sich nunmehr in der Revision darauf, dass eine versicherte Tätigkeit, wenn schon nicht in der Vermittlung der Abtretung von Ansprüchen aus dem Versicherungsvertrag, so jedenfalls in seinem nachfolgenden Mitwirken bei ihrer Verwaltung und Erfüllung liege.
+Nach ständiger Rechtsprechung des Obersten Gerichtshofs können aber, wenn in der Berufung nur in bestimmten Punkten eine Rechtsrüge ausgeführt wurde, andere Punkte in der Revision - jedenfalls wenn es um mehrere selbstständig zu beurteilende Rechtsfragen geht - nicht mehr geltend gemacht werden (RIS-Justiz RS0043573 [T43]).
+5. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00037.15I.0312.000

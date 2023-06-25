@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.10.1970
+Geschäftszahl
+8Ob221/70
+Norm
+ABGB §1293;
+ABGB §1295;
+Kopf
+SZ 43/177
+Spruch
+Der Hersteller des mangelhaften Bestandteiles eines Gebrauchsgegenstandes haftet jedem Benützer desselben, der durch den Mangel zu Schaden gekommen ist, wenn das Hinzutreten weiterer Ursachen für diese Beschädigung nicht ganz außergewöhnlich ist
+OGH 13. Oktober 1970, 8 Ob 221/70 (OLG Wien 4 R 74/70; LGZ Wien 27 Cg 235/68)
+Text
+Als der Kläger am 7. September 1966 die Fassade eines seinem Dienstgeber gehörigen Hauses weißen wollte und zu diesem Zwecke auf eine ihm von seinem Dienstgeber zur Verfügung gestellte Leiter stieg, trat auf dieser Leiter ein Bruch auf. Der Kläger stürzte zu Boden und zog sich Verletzungen zu. Er begehrt aus diesem Grund von der Beklagten, die über Auftrag der Herstellerfirma S den vom Bruch betroffenen Bestandteil der Leiter angefertigt hatte, den Ersatz seines Schadens.
+Das Erstgericht erkannte mit Zwischenurteil den Schadenersatzanspruch des Klägers dem Gründe nach als zu Recht bestehend. Es stellte fest: Der Bruch ist einerseits darauf zurückzuführen, daß infolge mangelnder Eignung der Getriebekonstruktion die auf den in Form eines Vierkants ausgeführten Getriebezapfen ausgeübte Spannung unzulässig hoch war. Diesen Mangel hat die Firma S zu vertreten, über deren Anweisung die Beklagte die Getriebekonstruktion angefertigt hat. Eine Mitursache war aber auch ein Materialfehler des gebrochenen Getriebezapfens, welcher Materialfehler darin seine Ursache hat, daß das Material infolge nicht fachgerechter Warmbehandlung durch die Beklagte viel zu wenig gehärtet war. Es hätte wohl die unzweckmäßige Konstruktion allein früher oder später zum Bruch des Getriebezapfens geführt. Diese Bruchgefahr wurde aber durch den von der Beklagten zu vertretenden Materialfehler noch erhöht. Das Erstgericht war der Ansicht, die Beklagte hafte, da sich die Anteile der auf beide Schadensursachen zurückzuführenden Beschädigungen nicht feststellen ließen, solidarisch mit der Firma S für den Schaden des Klägers.
+Das Berufungsgericht bestätigte diese Entscheidung.
+Der Oberste Gerichtshof gab der Revision der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Soweit die Beklagte darzutun versucht, daß der in der unzureichenden Härtung des Getriebezapfens bestehende Materialfehler für den Unfall überhaupt nicht kausal gewesen sei, handelt es sich im wesentlichen um eine im Revisionsverfahren nicht mehr zulässige Bekämpfung der Beweiswürdigung der Vorinstanzen. Daß durch diesen Materialfehler die auf die mangelnde Eignung des Getriebes zurückzuführende Bruchgefahr erhöht wurde, ist eine Tatsachenfeststellung. Daß die Beklagte keinesfalls damit habe zu rechnen brauchen, daß die unzulängliche Härtung des Materials zum Bruch des Getriebezapfens beitragen könne, weil ein solcher Bruch bei entsprechender Eignung der Getriebekonstruktion nicht eingetreten wäre, kann bei dem festgestellten Sachverhalt nicht gesagt werden. Die eingetretene Folge der nicht fachgerechten Behandlung eines wichtigen Konstruktionsbestandteiles kann keineswegs als atypisch angesehen werden. Die Beklagte konnte sich nicht darauf verlassen, daß die von der Firma S zu verantwortende Getriebekonstruktion so sicher sein werde, daß eine nicht fachgerechte Behandlung des für den Getriebezapfen verwendeten Materials ohne Belang sein werde. Nach herrschender Rechtsprechung reicht es aber für die Bejahung der Kausalität aus, wenn das Hinzutreten einer weiteren Ursache, wenn auch nicht gerade normal, so doch wenigstens nicht ganz außergewöhnlich ist (vgl JBl 1966, 619, ZVR 1969/142 u a). Ebensowenig ändert etwas an der Kausalität des von der Beklagten zu verantwortenden Materialfehlers, daß früher oder später der Bruch auch ohne diesen Materialfehler eingetreten wäre. Ist doch auf Grund der Feststellungen der Vorinstanzen davon auszugehen, daß der vorliegende Bruch, der zur Verletzung des Klägers geführt hat, durch den Materialfehler begünstigt wurde.
+Der Meinung der Beklagten, für einen bloßen Materialfehler sei überhaupt nicht einzustehen, kann in dieser Form nicht beigepflichtet werden. Der von der Beklagten in diesem Zusammenhang angeführten Entscheidung ZVR 1967/130 lag ein anders gearteter Sachverhalt zugrunde.
+War aber der von der Beklagten zu vertretende Materialfehler für den Unfall mitursächlich, dann kann der Kläger mit Recht die Haftung der Beklagten für den ihm aus dem Unfall erwachsenen Schaden in Anspruch nehmen. Denn die Verwendung eines nicht fachgerecht behandelten Bestandteiles bei der Konstruktion einer Leiter, die, wenn sie nicht völlig sicher ist, bei bestimmungsgemäßer Verwendung leicht zu einem Unfall führen kann, muß als Verstoß gegen das aus den Bestimmungen der §§ 335, 431 StG und 1293 ff ABGB abzuleitende allgemeine Gefährdungsverbot gewertet werden. Ein solcher Verstoß berechtigt auch den am Vertragsverhältnis nicht beteiligten Dritten zur Geltendmachung von Schadenersatzansprüchen (vgl EvBl 1959/174 u a).
+Die Heranziehung der Bestimmung des § 1302 ABGB durch die Vorinstanzen wird in der Revision nicht bekämpft. Sie ist bei dem festgestellten Sachverhalt auch gerechtfertigt.
+Der Revision war daher der Erfolg zu versagen.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.02.2016
+Geschäftszahl
+2Ob7/16t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Danzl als Vorsitzenden, die Hofräte Dr. Veith und Dr. Musger, die Hofrätin Dr. E. Solé sowie den Hofrat Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei L***** P*****, vertreten durch Dr. Karl-Heinz Plankel und andere, Rechtsanwälte in Dornbirn, wider die beklagte Partei W***** AG, *****, vertreten durch Dr. Friedrich Schubert, Rechtsanwalt in Wien, sowie der Nebenintervenientin auf Seiten der beklagten Partei F***** GmbH, *****, vertreten durch Dr. Michael Meyenburg, Rechtsanwalt in Wien, wegen 17.194,54 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. Oktober 2015, GZ 5 R 147/15x-45a, womit infolge Berufung der klagenden Partei das Urteil des Handelsgerichts Wien vom 17. April 2015, GZ 41 Cg 5/15s-18, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei und der Nebenintervenientin die mit je 1.049,04 EUR (darin enthalten 174,84 EUR USt) bestimmten Kosten der jeweiligen Revisionsbeantwortung binnen 14 Tagen zu bezahlen.
+Begründung:
+Rechtliche Beurteilung
+Das Berufungsgericht hatte folgende in Allgemeinen Geschäftsbedingungen enthaltene Klausel zu beurteilen:
+„5.3. Der LG [Leasinggeber] haftet für Mängel nur im Umfang der gegenüber dem Lieferanten auf Grund dessen Liefer- und Garantiebedingungen durchsetzbaren Gewährleistungsansprüche. Der LG tritt mit Ausnahme allfälliger Wandlungsansprüche alle gegenüber dem Lieferanten bestehenden Gewährleistungs- und Garantieansprüche an den LN [Leasingnehmer] ab. Der LN hat solche Ansprüche im eigenen Namen und auf eigene Rechnung gegenüber dem Lieferanten geltend zu machen und haftet dem LG für schuldhafte Unterlassung. Die gesetzlichen Gewährleistungsansprüche des LN gegen den LG werden hiervon nicht berührt.“
+Die Vorinstanzen beurteilten die Klausel dahingehend, dass damit nicht auch Schadenersatzansprüche vom Leasinggeber an den Leasingnehmer abgetreten worden seien.
+Das Berufungsgericht ließ die Revision zu, weil die Auslegung von Klauseln in Allgemeinen Geschäftsbedingungen bestimmter Geschäftsbranchen, die regelmäßig für eine größere Anzahl von Kunden und damit Verbrauchern bestimmt und von Bedeutung seien, eine erhebliche Rechtsfrage darstelle, sofern solche Klauseln bisher vom Obersten Gerichtshof noch nicht zu beurteilen gewesen seien (RIS-Justiz RS0121516). Die Frage, ob mit der Klausel 5.3. der gegenständlichen AGB dem Leasingnehmer nicht nur Gewährleistungs- und Garantieansprüche, sondern auch Schadenersatzansprüche nach § 933a ABGB zur klagsweisen Geltendmachung gegen den Lieferanten abgetreten worden seien, habe daher über den Einzelfall hinausgehende Bedeutung.
+Dazu wird ausgeführt:
+Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs 1 ZPO) kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 Satz 4 ZPO).
+Der Oberste Gerichtshof ist auch zur Auslegung von AGB-Klauseln nicht „jedenfalls“, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Es genügt für die Anrufbarkeit des Obersten Gerichtshofs nicht schon der Umstand, dass es an einer höchstgerichtlichen Rechtsprechung zu gleichen oder ähnlichen Klauseln mangelt (RIS-Justiz RS0121516 [T4]). Da Klauseln in AGB in aller Regel einen größeren Personenkreis betreffen, ist ihre Auslegung, sofern dazu nicht bereits eine Rechtsprechung des Obersten Gerichtshofs vorliegt, revisibel, es sei denn, die betreffende Regelung wäre so eindeutig, dass nur eine Möglichkeit der Beurteilung in Betracht zu ziehen ist (RIS-Justiz RS0121516 [T17]).
+Im vorliegenden Fall ist aus dem Umstand, dass (nur) „Gewährleistungs- und Garantieansprüche“ abgetreten werden, hinreichend eindeutig, dass nicht auch Schadenersatzansprüche, die sich (abgesehen von hier nicht in Frage kommenden Fällen einer Gefährdungs- oder Eingriffshaftung) von Gewährleistungsansprüchen und Garantieansprüchen vor allem durch das Erfordernis eines Verschuldens unterscheiden, abgetreten werden. Die ohne jegliche Belegstelle vom Revisionswerber aufgestellte Behauptung, mit der Abtretung von Gewährleistungsansprüchen würden „gleichzeitig im Sinne eines Automatismus auch die Ansprüche aus Schadenersatz statt Gewährleistung abgetreten“, ist demgegenüber unvertretbar, weil dies (für eine solche oder eine vergleichbare Klausel) weder im Gesetz angeordnet noch in Rechtsprechung oder Lehre vertreten wird.
+Nach den oben angeführten Kriterien liegt in der Auslegung der zitierten Klausel daher keine erhebliche Rechtsfrage vor.
+Auch der Revisionswerber zeigt keine (sonstige) erhebliche Rechtsfrage auf: Soweit er mit der Drittschadensliquidation wegen einer Schadensverlagerung argumentiert, ist ihm - wie dies schon das Berufungsgericht ausgeführt hat - das Neuerungsverbot entgegenzuhalten, hat doch der Kläger in erster Instanz kein entsprechendes Vorbringen erstattet.
+Weiter releviert der Revisionwerber als erhebliche Rechtsfrage, es gebe keine oberstgerichtliche Rechtsprechung zur Frage, „ob ein Bankkunde für die Rückzahlung von Krediten hafte, die er überhaupt nicht benötige und die ihm nur verkauft und gewährt würden, um ein Hebelgeschäft zu finanzieren“.
+Inwiefern diese Frage zur Beurteilung des vorliegenden Falls relevant sein soll, ist nicht nachvollziehbar.
+Die Kostenentscheidung gründet sich auf die §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0020OB00007.16T.0225.000

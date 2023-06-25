@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.03.2019
+Geschäftszahl
+3Ob37/19s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie  die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei T*, vertreten durch Mag. Cedric Müller, Rechtsanwalt in Obersdorf, wider die beklagte Partei K*, vertreten durch Mag. Bernhard Schuller, Rechtsanwalt in Mistelbach, wegen Räumung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Korneuburg als Berufungsgericht vom 3. Jänner 2019, GZ 22 R 44/18b-21, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Klägerin gelingt es aus folgenden Gründen nicht, eine korrekturbedürftige Fehlbeurteilung des Berufungsgerichts aufzuzeigen (§ 510 Abs 3 ZPO):
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung wird eine Rechtssache unrichtig beurteilt, wenn der Entscheidung unzulässige überschießende Feststellungen zugrunde gelegt werden (RIS-Justiz RS0040318 [T2]; RS0036933 [T10, T11, T12]; RS0037972 [T11]; RS0112213 [T1, T4]; 7 Ob 74/17i mwN). Die rechtliche Beurteilung des Berufungsgerichts, die Feststellung des Erstgerichts zur mündlichen Einforderung des Mietzinses im Februar 2018 sei überschießend, blieb in der Revision unbeanstandet. In dritter Instanz ist dies somit  nicht mehr zu prüfen (RIS-Justiz RS0043338), weshalb die erwähnte Feststellung auch vom Obersten Gerichtshof unberücksichtigt zu bleiben hat.
+2. Darauf, ob eine Mietzins- und Räumungsklage als die nach § 1118 2. Fall ABGB erforderliche Mahnung zu beurteilen ist, kommt es hier nicht an:
+2.1. Eine Einmahnung iSd § 1118 ABGB ist jedenfalls in der Zustellung einer Zins- oder Räumungsklage zu erblicken, sofern die Mietzinsschuldigkeit darin hinreichend konkretisiert ist (RIS-Justiz RS0021229 [T6]). Es muss aber immer die zeitliche Abfolge – Mahnung, Nachfristgewährung und Auflösungserklärung – gewahrt werden (RIS-Justiz RS0021072 [T6]; RS0020952 [T12]; RS0020978 [T7]). Die Aufhebung des Bestandvertrags kann also erst nach erfolgloser Mahnung erklärt werden; demgemäß kann – wenn mangels außergerichtlicher Mahnung die Klage erst die Mahnung ersetzt – nicht die Klage selbst, sondern nur die Weiterführung des Verfahrens als konkludente Vertragsaufhebungserklärung angesehen werden (3 Ob 179/11m mwN; 3 Ob 133/13z). Eine Auflösungserklärung iSd § 1118 ABGB wird nicht wirksam, wenn der Mieter den Mietzinsrückstand vor Zustellung der Erklärung beglichen hat (RIS-Justiz RS0020935). Das Räumungsbegehren ist also nur dann berechtigt, wenn der qualifizierte Mietzinsrückstand zum Zeitpunkt der Abgabe der Auflösungserklärung (oder der diese ersetzenden Fortführung des Räumungsprozesses) noch bestand (3 Ob 25/11i mwN = RIS-Justiz RS0021072 [T7] = RS0020952 [T13]; RS0020978 [T8]; 3 Ob 37/18i).
+2.2. War – wie hier – die Mietzins- und Räumungsklage (erst) die Mahnung, bedurfte es nach der Nachfristgewährung auch einer (allenfalls konkludenten) Vertragsaufhebungserklärung, die nicht in bloßer Untätigkeit des Bestandgebers bis zur nächsten Tagsatzung (ON 13) erblickt werden kann (vgl Lovrek in Rummel/Lukas ABGB4 § 1118 Rz 101). Die Klägerin hat zwar ihr Zahlungsbegehren davor durch zwei Schriftsätze um die Mietzinse für Mai und Juni 2018 (ON 7 und 11) ausgedehnt; diese gelangten dem Beklagten aber erst mit der Zustellung am 2. Juli 2018 zur Kenntnis, also – wie schon des Berufungsgericht betonte – erst nach Zahlung des damals bestehenden Rückstands am 29. Juni 2018. Für die Maßgeblichkeit einer stillschweigenden Willenserklärung ist jedoch der Eindruck entscheidend, den der Erklärungsempfänger von der Erklärung haben musste (RIS-Justiz RS0014158 [T5]; RS0014142; RS0014165 [T4]; Rummel in Rummel/Lukas ABGB4 § 863 Rz 24). Aus der relevanten Sicht des Beklagten erfolgte die Zahlung des Rückstands somit vor Zugang einer (schlüssigen) Auflösungserklärung, sodass diese ihm gegenüber keine Wirkung entfalten konnte.
+3. Die Abweisung der Räumungsklage durch das Berufungsgericht ist daher nicht korrekturbedürftig.
+4. Mangels Zulässigkeit des Rechtsmittels erübrigte sich die Durchführung eines Verbesserungsverfahrens für den Rechtsmittelschriftsatz, den der Rechtsvertreter entgegen § 89c Abs 5 Z 1 GOG per Post, also nicht im Elektronischen Rechtsverkehr einbrachte (7 Ob 155/16y; vgl auch RIS-Justiz RS0128266 [T1, T12, T19]; 6 Ob 18/16i; jüngst 5 Ob 151/18v mwN).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124623

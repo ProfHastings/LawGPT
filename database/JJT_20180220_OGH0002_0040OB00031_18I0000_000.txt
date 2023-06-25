@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.02.2018
+Geschäftszahl
+4Ob31/18i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei P*****  Aktiengesellschaft, *****, vertreten durch Dr. Reinfried Eberl und andere Rechtsanwälte in Salzburg, gegen die beklagten Parteien 1. S***** GmbH, *****, vertreten durch Dr. Heinz Neuner, Rechtsanwalt in Wien, 2. Mag. (FH) P***** S*****, vertreten durch Dr. Alexander Pflaum, Rechtsanwalt in Wien, wegen 16.264,99 EUR sA, über die Revision der zweitbeklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 6. November 2017, GZ 1 R 153/17a-28, womit das Urteil des Landesgerichts Salzburg vom 22. August 2017, GZ 6 Cg 85/16b-23, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die zweitbeklagte Partei ist schuldig, der klagenden Partei binnen 14 Tagen die mit 1.175,22 EUR (darin 195,87 EUR USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Die klagende Partei als Leasinggeberin und der Zweitbeklagte als Leasingnehmer schlossen einen Restwertleasingvertrag über ein Kraftfahrzeug, wobei der Zweitbeklagte angab, Einzelunternehmer zu sein und das Fahrzeug betrieblich nutzen zu wollen. Nach A.2.1 der dem Vertrag zugrundeliegenden AGB der klagenden Partei trägt der Leasingnehmer alle mit dem Besitz und dem Betrieb verbundenen Gefahren. Punkt A.2.5 lautet:
+2.5. Haftung:
+Soweit P***** Schäden nicht von dritter Seite ersetzt werden, haftet der Kunde, gleichgültig, ob diese durch persönliches Verschulden, Verschulden Dritter oder höhere Gewalt bewirkt werden …
+Ein halbes Jahr nach Abschluss des Vertrags vereinbarten die Streitteile, dass die erstbeklagte Partei dem Leasingvertrag als Solidarschuldnerin beitritt. Der Zweitbeklagte wurde mehrfach darauf hingewiesen, dass seine Haftung vollumfänglich aufrecht bleibt. Danach nutzte die erstbeklagte Partei (nicht aber der Zweitbeklagte, der ein größeres Fahrzeug geleast hatte) das Fahrzeug. Eine Person ohne Führerschein, die das Auto über die erstbeklagte Partei erhielt, verschuldete alkoholisiert einen Verkehrsunfall, bei dem das Leasingobjekt einen Totalschaden erlitt. Die Kaskoversicherung lehnte die Haftung ab.
+Die klagende Partei begehrt den aus dem Leasingvertrag aushaftenden Klagsbetrag.
+Das Erstgericht gab der Klage statt; das Urteil gegen die erstbeklagte Partei erwuchs in Rechtskraft. Das Erstgericht qualifizierte die Vereinbarung der Haftung für Schäden, die durch dritte Personen verursacht werden, nicht als sittenwidrig im Sinne des § 879 Abs 3 ABGB.
+Das Berufungsgericht bestätigte die Entscheidung. Bei der Prüfung nach § 879 Abs 3 ABGB sei auf den Zeitpunkt des Vertragsabschlusses abzustellen, sodass der spätere Schuldbeitritt nicht zu berücksichtigen sei. Die Willensfreiheit des zweitbeklagten Unternehmers sei durch den späteren Umstieg auf ein anderes Fahrzeug nicht in besonderem Maß verdünnt gewesen. Er habe frei wählen können, ob er den Leasingvertrag bestehen lasse, kündige oder einen weiteren Leasingnehmer für einen Vertragsbeitritt namhaft mache und diesem die Nutzung des Fahrzeugs gestatte. Die Aufrechterhaltung der Sachgefahr nach dem Vertragsbeitritt der erstbeklagten Partei sei zulässig gewesen, ungeachtet dessen, dass ab diesem Zeitpunkt nur mehr diese das Leasingfahrzeug genutzt habe. Ein auffallendes Missverhältnis liege nicht vor. Es bestehe auch keine dispositive Regelung, die einer Haftung der Beklagten zur ungeteilten Hand nach dem Vertragsbeitritt entgegenstehe, weil es nicht nur zulässig, sondern geradezu typisch sei, dass bei einem Vertragsbeitritt der Eintretende kumulativ alle Rechte und Pflichten übernehme, sodass beide Schuldner solidarisch haften.
+Das Berufungsgericht ließ die Revision zur höchstgerichtlichen Klärung zu, ob die Aufrechterhaltung der Sachhaftung des Leasingnehmers nach dem Vertragsbeitritt eines Dritten, der sich zur Zahlung des Leasingentgelts verpflichtet und das Leasingfahrzeug nutzt, aufgrund gröblicher Benachteiligung nichtig sei.
+Rechtliche Beurteilung
+Die Revision des Zweitbeklagten ist ungeachtet des – den Obersten Gerichtshof nicht bindenden – Zulassungsausspruchs des Berufungsgerichts nicht zulässig.
+1. Im Revisionsverfahren ist nur mehr strittig, ob A.2.5 der AGB gröblich benachteiligend im Sinne des § 879 Abs 3 ABGB ist.
+2. Nach der Rechtsprechung ist beim (hier vorliegenden) Finanzierungsleasing die Überwälzung der Sach- und Preisgefahr auf den Leasingnehmer für die Zeit nach ordnungsgemäßer und mängelfreier Übergabe grundsätzlich zulässig (RIS-Justiz RS0018487 [T4], RS0019481, RS0016625). Daran haben sich die Vorinstanzen orientiert.
+3. Die Rechtsansicht des Berufungsgerichts, dass der (notwendigerweise) später erfolgte Schuldbeitritt der erstbeklagten Partei nicht zur Sittenwidrigkeit der Klausel führt, hält sich im Rahmen der Rechtsprechung, wonach für die Angemessenheitskontrolle nach § 879 Abs 3 ABGB auf den Zeitpunkt des Vertragsabschlusses abzustellen ist (RIS-Justiz RS0017936, RS0016913).
+4. Nach gesicherter Rechtsprechung begründet der Schuldbeitritt eine Solidarverpflichtung von Alt- und Neuschuldner (RIS-Justiz RS0108117). Dass das Berufungsgericht in diesem Zusammenhang eine für die Beurteilung nach § 879 Abs 3 ABGB relevante Abweichung vom dispositiven Recht (RIS-Justiz RS0014676, RS0016914) verneint hat, bedarf daher keiner höchstgerichtlichen Korrektur.
+5. Schließlich wirft auch das Argument des Revisionswerbers, die Gefahrtragung des Leasingnehmers sei nur durch dessen Sachherrschaft zu rechtfertigen, keine erhebliche Rechtsfrage auf. Entgegen der Revision begründet die Judikatur die Zulässigkeit der Überwälzung der Gefahr auf den Leasingnehmer nämlich mit der Ähnlichkeit von Finanzierungsleasing und Kauf (3 Ob 12/09z; 4 Ob 59/09v) und der insoweit einem Eigentümer angenäherten Stellung des Leasingnehmers (4 Ob 24/15f). Für den Übergang der Gefahr ist nach eindeutiger Rechtslage (§§ 1064, 1048 ff ABGB) beim Kaufvertrag aber alleine die tatsächliche Verfügungsgewalt im Zeitpunkt der (bedungenen) Übergabe ausschlaggebend (vgl 3 Ob 173/15k). Die Rechtsansicht des Berufungsgerichts, dass die später freiwillig aufgegebene (faktische) Sachherrschaft nicht zur Sittenwidrigkeit der Klausel führt, kann die Zulässigkeit der Revision somit nicht stützen.
+6. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die klagende Partei hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00031.18I.0220.000

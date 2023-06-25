@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2016
+Geschäftszahl
+5Ob114/16z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache der Antragstellerin H***** GmbH (FN *****), *****, vertreten durch die K-B-K Kleibel Kreibich Bukovc Hirsch Rechtsanwälte GmbH in Salzburg, wegen Einverleibung des Eigentumsrechts und weiterer Grundbuchshandlungen ob EZ ***** GB *****, über den außerordentlichen Revisionsrekurs des Dr. P***** S***** als Masseverwalter im Konkurs der P***** GmbH (FN *****), AZ 17 S 118/15z des Landesgerichts Linz, *****, vertreten durch die Shamiyeh & Reiser Rechtsanwälte GmbH in Linz, gegen den Beschluss des Landesgerichts Salzburg als Rekursgericht vom 28. April 2016, AZ 53 R 32/16m, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG ist gegen einen im Rahmen des Rekursverfahrens ergangenen Beschluss der Revisionsrekurs nur dann zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt. Eine solche Frage zeigt der außerordentliche Revisionsrekurs nicht auf:
+1. Im Fall einer Sprungeintragung nach § 22 GBG muss jeder Zwischenerwerber das einzutragende Recht in verbücherungsfähiger Art und Weise erworben haben und durch eintragungsfähige Urkunden nachweisen. Der Sachverhalt darf nicht anders beurteilt werden, als wenn jedes einzelne Erwerbsgeschäft gesondert zur Verbücherung gelangt wäre (vgl RIS-Justiz RS0060662, RS0060710, RS0107463).
+2. Der Revisionsrekurswerber bestreitet das Vorliegen einer solchen geschlossenen Kette von Übertragungsakten zwischen dem bücherlichen Vormann und der Eintragungswerberin. Der verbücherungsfähige Zwischenerwerb aufgrund des von der Schuldnerin als der ersten Verkäuferin abgeschlossenen Kaufvertrags sei gescheitert, weil zum Zeitpunkt der Eröffnung des Konkursverfahrens der Käuferin im Hinblick auf die im Kaufvertrag vereinbarte Treuhandabwicklung noch keine entsprechende Anwartschaft auf Erwirkung der Eigentumsübertragung zugekommen sei. Zumindest habe die Eintragungswerberin die Voraussetzung dafür nicht urkundlich nachgewiesen.
+3. Nach § 13 IO können Einverleibungen und Vormerkungen in den öffentlichen Büchern über unbewegliche Sachen auch nach der Eröffnung des Insolvenzverfahrens bewilligt und vollzogen werden, wenn sich der Rang der Eintragung nach einem vor der Eröffnung des Insolvenzverfahrens liegenden Tage richtet. Die Antragstellerin begehrt die Sprungeintragung im Rang einer vor der Eröffnung des Konkursverfahrens angemerkten Rangordnung für die beabsichtigte Veräußerung. Eine solche Anmerkung der Rangordnung behält gemäß § 56 Abs 3 GBG trotz Eröffnung des Insolvenzverfahrens seine Wirksamkeit, wenn ein nachweislich schon vor der Konkurseröffnung perfektioniertes Rechtsgeschäft verbüchert werden soll (RIS-Justiz RS0060941, vgl auch RS0060935, RS0121707).
+4. Nach Auffassung des Revisionsrekurswerbers war der (erste) Verkauf der Liegenschaft durch die Schuldnerin in diesem Sinn nicht schon vor Eröffnung des Konkurses perfektioniert, weil der im Kaufvertrag zur grundbücherlichen Abwicklung bestellte Treuhänder den Treuhandauftrag ausdrücklich annehmen hätte müssen und diese Annahme im Grundbuchsgesuch behauptet und urkundlich nachgewiesen werden hätte müssen. Erforderlich wäre ein solcher urkundlicher Nachweis aber nur, wenn der Rechtserwerb von der aufschiebenden Bedingung der Kaufvertragsabwicklung durch den Treuhänder in der vereinbarten Form abhängig gemacht worden sein könnte (vgl RIS-Justiz RS0105966, RS0060269 [T9], RS0060277 [T2], RS0060364 [T7, T8, T10, T13]). Eine derartige konditionale Verknüpfung zwischen dem Verbücherungsanspruch der Käuferin und der vereinbarten Treuhandabwicklung kann hier dem Kaufvertrag aber nicht entnommen werden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00114.16Z.1025.000

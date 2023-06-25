@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2018
+Geschäftszahl
+7Ob79/18w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr.
+Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Dr. Höllwerth, Dr. E. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Ing. K***** H*****, vertreten durch MM Metzler & Musel Rechtsanwälte GmbH in Linz, gegen die beklagte Partei W*****Aktiengesellschaft, *****, vertreten durch Raits Bleiziffer Rechtsanwälte GmbH in Salzburg, wegen 23.740,29 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 26. Februar 2018, GZ 6 R 17/18i-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Insolvenzverwalterin in der Insolvenz des Klägers beendete das zwischen den Streitteilen bestehende Versicherungsverhältnis. Der vom Kläger geleistete Einmalerlag wurde von der Beklagten rückerstattet und floss der Insolvenzmasse zu. Der nicht zur Befriedigung der Gläubiger des Klägers verbrauchte Betrag wurde an den Kläger ausbezahlt.
+Der Kläger beruft sich nun auf das aufrechte Bestehen des mit der Beklagten abgeschlossenen Versicherungsvertrags mit der Begründung, die Insolvenzverwalterin habe das Vertragsverhältnis unwirksam aufgekündigt, weshalb die Beklagte weiterhin zur Versicherungsleistung (Rentenzahlungen) verpflichtet sei.
+Rechtliche Beurteilung
+1. Der behauptete Verstoß nach § 498 Abs 1 ZPO liegt nicht vor. Das Berufungsgericht ist entgegen der Ansicht des Revisionswerbers nicht vom festgestellten Sachverhalt abgewichen, sondern hat diesen rechtlich anders als das Erstgericht beurteilt.
+2. Im Hinblick auf das auf Zuhaltung des Vertrags gerichtete Klagebegehren stellen sich keine schadenersatz- und bereicherungsrechtlichen Fragen.
+3.1 Nach § 165 Abs 2 VersVG können vom Versicherungsnehmer zwar bestimmte Kapitalversicherungen mit Einmalprämie, nicht aber Rentenversicherungen gegen Einmalzahlung (Sofortrente) – wie hier vorliegend – gekündigt werden. Dass dem Versicherungsnehmer bei einer Rentenversicherung mit bloßer Einmalprämie (und bereits begonnener Leistungspflicht des Versicherers) kein ordentliches Kündigungsrecht nach dieser Bestimmung zusteht, ist darin begründet, dass der Versicherungsnehmer durch Leistung der Prämie ohnehin schon den Versicherungsschutz für die gesamte Vertragsdauer und bereits einen von keiner Gegenleistung mehr abhängigen Rentenanspruch erworben hat (RIS-Justiz RS0128574).
+3.2 Den Parteien eines Vertragsverhältnisses steht es aber grundsätzlich frei, einen Vertrag einvernehmlich aufzulösen. Durch den contrarius consensus werden die Rechtswirkungen des Vertrags beseitigt (RIS-Justiz RS0018563).
+Die Beklagte reagierte auf die Aufkündigung des Vertragsverhältnisses durch die Insolvenzverwalterin mit der Mitteilung, dass eine solche nicht erfolgen könne, jedoch bedingungsgemäß die Möglichkeit der Rückabwicklung des Vertrags bestehe, woraufhin die Insolvenzverwalterin, wenn auch unter der Verwendung des Begriffs „Kündigung“, tatsächlich um die Rückabwicklung des Vertrags ersuchte und diese von der Beklagten auch durchgeführt wurde. Wenn das Berufungsgericht im vorliegenden Fall in Anbetracht dieser Umstände von einer einvernehmlichen Vertragsauflösung ausging, ist darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung zu erblicken.
+4. Der Kläger beruft sich weiters darauf, dass die Insolvenzverwalterin keinen Aufhebungsvertrag hätte wirksam schießen können, weil der Versicherungsvertrag nicht zur Masse gehöre.
+4.1 Nach § 83 Abs 1 IO ist der Insolvenzverwalter, außer in dem – hier nicht vorliegenden  –  Fall des § 117 IO, kraft seiner Bestellung befugt, alle Rechtsgeschäfte und Rechtshandlungen vorzunehmen, welche die Erfüllung der Obliegenheiten seines Auftrags mit sich bringt. Unter Rechtshandlungen, die die Masse betreffen, sind nicht nur Rechtsgeschäfte, sondern alle Handlungen, die rechtliche Wirkungen hervorbringen, zu verstehen (RIS-Justiz RS0068855).
+4.2 Gemäß § 2 Abs 2 IO gehört das gesamte der Exekution unterworfene Vermögen des Schuldners zur Insolvenzmasse. Nicht zur Insolvenz-(Konkurs-)Masse gehören Rechte des Gemeinschuldners, die nicht das Vermögen betreffen, wie Persönlichkeitsrechte und dergleichen, weiters der Exekution entzogene Sachen und Rechte, die zwar in der Gewahrsame des Gemeinschuldners sind, aber einem anderen gehören, zum Beispiel solche, an denen Aussonderungsrechte bestehen (RIS-Justiz RS0063707).
+4.3 In der Rechtsprechung wurden Versicherungsverträge bereits als der Masse zugehörige Vermögenswerte qualifiziert (vgl RIS-Justiz RS0064477; RS0128748), wobei das Fehlen einer Kündigungsmöglichkeit nichts an der grundsätzlichen Massezugehörigkeit ändert.
+4.4 Vor diesem Hintergrund erweist sich die Rechtsansicht des Berufungsgerichts, den Versicherungsvertrag als zur Masse gehörend anzusehen, als nicht korrekturbedürftig. Anhaltspunkte für das Vorliegen von Pfändungsbeschränkungen nach § 290a Abs 1 EO sind aus dem Akteninhalt nicht ersichtlich.
+5. Der in § 25b Abs 2 IO geregelte Fall der Vereinbarung eines Rücktrittsrechts oder der Vertragsauflösung für den Fall der Eröffnung des Insolvenzverfahrens liegt hier nicht vor.
+6. Dass der Versicherungsvertrag im Rahmen einer prämienbegünstigten Zukunftsvorsorge nach § 108g EStG geschlossen wurde, wurde nicht behauptet.
+7. Die Rechtsansicht des Berufungsgerichts, der Aufhebungsvertrag sei wirksam, hält sich somit im Rahmen der Judikatur.
+8. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0070OB00079.18W.0524.000

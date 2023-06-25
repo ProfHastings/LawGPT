@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.11.2016
+Geschäftszahl
+6Ob197/16p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Firmenbuchsache der im Firmenbuch des Landesgerichts Salzburg zu FN ***** eingetragenen „B*****“ *****-GmbH mit dem Sitz in S***** über den Revisionsrekurs der Gesellschaft und deren Geschäftsführerin Mag. M***** M*****, vertreten durch Pallauf Meissnitzer Staindl & Partner Rechtsanwälte in Salzburg, gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 30. August 2016, GZ 6 R 152/16i, 6 R 153/16m-11, mit dem die Beschlüsse des Landesgerichts Salzburg vom 25. Juli 2016, GZ 24 Fr 2696/16g-6 und -7, bestätigt wurden, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 15 FBG iVm § 71 Abs 1 AußStrG) – Ausspruch des Rekursgerichts ist der ordentliche Revisionsrekurs nicht zulässig:
+Das Rekursgericht hat seinen Zulässigkeitsausspruch damit begründet, es fehle Rechtsprechung des Obersten Gerichtshofs zum mit Rechnungslegungs-Änderungsgesetz 2014 (BGBl I 2015/22) neu geschaffenen § 285 Abs 1 UGB.
+Über das Vermögen der Gesellschaft wurde mit Beschluss des Landesgerichts Salzburg vom 16. 3. 2015 das Konkursverfahren eröffnet, welches am 9. 5. 2016 mangels kostendeckenden Vermögens gemäß § 123a IO wieder aufgehoben wurde. Mit Zwangsstrafverfügungen vom 21. 6. 2016 wurden über die Gesellschaft und deren Geschäftsführerin Zwangsstrafen gemäß §§ 277 ff UGB in Höhe von jeweils 700 EUR wegen Nichteinreichung der Bilanz für das Geschäftsjahr 2014 verhängt.
+Die Vorinstanzen gaben den dagegen erhobenen Einsprüchen der Gesellschaft und deren Geschäftsführerin keine Folge. § 285 Abs 1 UGB verbiete zwar die Verhängung von Zwangsstrafen während eines Insolvenzverfahrens; nach dessen Aufhebung müssten jedoch wieder Zwangsstrafen verhängt werden, wenn das Unternehmen fortgeführt werde, es sei denn das Insolvenzverfahren führe zur Abwicklung und letztendlich zur Löschung des Unternehmens. Eine Abwicklung sei jedoch nicht behauptet worden.
+Rechtliche Beurteilung
+Nach § 285 Abs 1 Satz 1 UGB idF RÄG 2014 sind während der Dauer eines Insolvenzverfahrens [...] keine Zwangsstrafverfügungen nach § 283 UGB zu erlassen. Die ErläutRV (367 BlgNr 25. GP 20) verweisen dabei darauf, dass „eine zentrale Funktion der Offenlegung, nämlich rechtzeitig sowohl den Unternehmer wie auch den Gläubiger und Dritte vor einer Verschlechterung der Vermögenslage zu warnen, gegenstandslos [sei],“ sobald ein Insolvenzverfahren eröffnet wird. Wird das Unternehmen nach Aufhebung des Insolvenzverfahrens fortgeführt, lebe die Offenlegungspflicht wieder auf, „nicht jedoch, wenn das Insolvenzverfahren zur Abwicklung und letztendlich zur Löschung des Unternehmens führt“. Nach Zib (in Zib/Dellinger, UGB [2015] § 285 Rz 5) „können“ nach Ende des Insolvenzverfahrens wieder Zwangsstrafverfügungen gegen die Organvertreter, und zwar auch zur Erzwingung der Offenlegung über Zeiträume während des Insolvenzverfahrens, verhängt werden, „sofern der Rechtsträger fortbesteht (zB Sanierung)“.
+Die Gesellschaft und deren Geschäftsführerin haben in ihren Einsprüchen gegen die Zwangsstrafverfügungen lediglich ausgeführt, „aufgrund der Rechtskraft des Aufhebungsbeschlusses [des Insolvenzgerichts] schließ[e] sich nunmehr die amtswegige Löschung der Gesellschaft an“. Auf eine tatsächlich bereits erfolgte Abwicklung des Unternehmens haben sie sich somit nicht berufen, sondern vielmehr in ihrem Rekurs darauf hingewiesen, dass ein Löschungsverfahren noch nicht eingeleitet worden sei, weil die Gesellschaft Komplementärin einer Kommanditgesellschaft sei. Damit liegt aber der von den ErläutRV erwähnte Ausnahmefall einer Abwicklung und Löschung der Gesellschaft (jedenfalls derzeit) nicht vor.
+Dass auch die Liquidatoren einer Gesellschaft nach deren Auflösung für die Offenlegung früherer Jahresabschlüsse verantwortlich sind, entspricht ständiger Rechtsprechung des Obersten Gerichtshofs (6 Ob 152/02z; 6 Ob 176/11t).
+Die Verhängung der Zwangsstrafen über die Gesellschaft und deren Geschäftsführerin durch die Vorinstanzen ist somit durchaus berechtigt. Dass die Geschäftsführerin offenkundig durch ein unvorhergesehenes oder unabwendbares Ereignis an der fristgerechten Offenlegung gehindert gewesen wäre (§ 283 Abs 2 UGB), haben weder sie selbst noch die Gesellschaft im erstinstanzlichen Verfahren behauptet.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00197.16P.1129.000

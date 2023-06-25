@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2012
+Geschäftszahl
+6Ob52/12h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Ö***** Gesellschaft mbH, *****, vertreten durch Dr. Roland Weinrauch, Rechtsanwalt in Wien, gegen die beklagte Partei U***** AG, *****, vertreten durch Scherbaum Seebacher Rechtsanwälte GmbH in Graz, wegen 137.700 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 9. Februar 2012, GZ 3 R 15/12v-16, in nichtöffentlicher Sitzung, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Ob ein Vertrag im Einzelfall richtig ausgelegt wurde, stellt nur dann eine erhebliche Rechtsfrage dar, wenn in Folge einer wesentlichen Verkennung der Rechtslage ein unvertretbares Auslegungsergebnis erzielt wurde (RIS-Justiz RS0042936). Eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO liegt selbst dann nicht vor, wenn (auch) die vom Rechtsmittelwerber angestrebte Vertragsauslegung vertretbar ist (6 Ob 105/05t mwN). Auch die im Rahmen eines Garantievertrags abgegebenen Erklärungen des Garanten unterliegen den Auslegungsregeln der §§ 914, 915 ABGB (RIS-Justiz RS0033002, RS0017670), sodass deren Interpretation regelmäßig keine erheblichen Rechtsfragen aufwirft (6 Ob 105/05t mwN).
+In der zur Besicherung eines Haftrücklasses abgegebenen Garantieerklärung der Beklagten heißt es:
+„... die gegenständliche Garantie ist gültig ab 17. Juni 2008 und erlischt - soweit die Zahlungsverpflichtung nicht schon vorher bis zum Höchstbetrag in Anspruch genommen wurde - am 31. März 2011; das heißt, die schriftliche Geltendmachung ihres Anspruchs aus dieser Garantie muss bis spätestens an diesem Tag bei der [Beklagtenvertreterin] einlangen. Eine schriftliche Aufforderung mittels Telefax am letzten Tag der First ist ausreichend, wenn das Originalschriftstück innerhalb weiterer drei Tage bei der [Beklagtenvertreterin] einlangt. ...“
+Die Auslegung dieser Garantieerklärung durch das Berufungsgericht dahin, dass sie bei verständiger Würdigung ihres gesamten Inhalts von der begünstigten Klägerin nur dahin habe verstanden werden können, dass ihr die Inanspruchnahme der Garantie bis 31. 3. 2011 habe möglich sein sollen, wobei gegen Fristende hin eine Abrufung im Telefaxweg dann genüge, wenn binnen drei Tagen das Originalschriftstück in der Kanzlei der Beklagtenvertreterin einlange, ist ebenso vertretbar wie die weitere Auffassung des Berufungsgerichts, dass mangels näherer Regelung der Berechnung der Tagesfrist die Ablaufhemmung nach § 903 Satz 3 ABGB zum Tragen komme. Nach ständiger Rechtsprechung steht der Grundsatz der formellen Garantiestrenge einer Auslegung eines Garantievertrags gemäß den §§ 914, 915 ABGB nicht entgegen, weil dieser Grundsatz kein Selbstzweck ist, sondern nur so weit trägt, als dies dem Willen der Vertragsparteien entspricht (RIS-Justiz RS0033002).

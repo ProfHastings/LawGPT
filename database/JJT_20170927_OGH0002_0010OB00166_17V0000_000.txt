@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2017
+Geschäftszahl
+1Ob166/17v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Sailer als Vorsitzenden sowie die Hofräte Univ.-Prof. Dr. Bydlinski, Mag. Wurzer, Mag. Dr. Wurdinger und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei U***** AG, *****, vertreten durch die Beck & Dörnhöfer & Partner Rechtsanwälte, Eisenstadt, gegen die beklagte Partei Dr. P***** H*****, Brasilien, vertreten durch Dr. Karl Schön, Rechtsanwalt in Wien, und die Nebenintervenientin A***** GmbH, *****, vertreten durch Mag. Jürgen Dorner, Rechtsanwalt in Wien, wegen 140.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 3. August 2017, GZ 16 R 97/17b-30, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 10. März 2017, GZ 23 Cg 59/15p-21, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+B e g r ü n d u n g :
+Rechtliche Beurteilung
+1. Bei einer abstrakten Bankgarantie ist der Garantievertrag vom Bestand der gesicherten Hauptschuld grundsätzlich unabhängig, wobei die Abstraktheit durch Formulierungen der Zahlungspflicht mit den Worten etwa „auf erstes Abfordern“ oder „ohne Einwendungen“ besonders betont wird (RIS-Justiz RS0016992 [T3, T13]). Bei der Abstraktheit der Garantie sind nur solche Einwendungen zulässig, die sich aus der Auslegung des Garantietextes selbst ergeben (6 Ob 105/05t mwN = RIS-Justiz RS0016984 [T2]). Es ist gerade der Sinn einer solchen Garantie, dem Begünstigten eine sichere und durch Einwendungen nicht verzögerte Zahlung zu gewährleisten (7 Ob 53/15t mwN = RIS-Justiz RS0016992 [T15]).
+2.1. Der Begünstigte aus einer Bankgarantie ist aber nicht schutzwürdig, wenn er eine Leistung in Anspruch nimmt, obwohl eindeutig feststeht, dass er keinen derartigen Anspruch gegen den Dritten hat und ihm die Inanspruchnahme des Garanten deshalb als Rechtsmissbrauch (vgl § 1295 Abs 2 ABGB) vorzuwerfen ist (RIS-Justiz RS0018006; vgl RS0018027 [T8]). Ist hingegen die Abrufung der Bankgarantie aufgrund einer vertretbaren Auslegung des im Valutaverhältnis abgeschlossenen Vertrags erfolgt, liegt kein Rechtsmissbrauch vor (RIS-Justiz RS0016950).
+2.2. Für den Vorwurf des Rechtsmissbrauchs kommt es auf den Wissensstand bzw die Beweislage im Zeitpunkt der Inanspruchnahme der Garantie an (RIS-Justiz RS0017042; 7 Ob 145/97t = RS0018006 [T4]). Ein Missbrauchsfall liegt nur dann vor, wenn das Nichtbestehen des Anspruchs des Begünstigten im Valutaverhältnis zur Zeit der Inanspruchnahme der Garantie evident erwiesen ist. Hält sich der Begünstigte hingegen aus vertretbaren Gründen für berechtigt, kann ihm kein arglistiges oder rechtsmissbräuchliches Verhalten vorgeworfen werden (RIS-Justiz RS0017997).
+3. Die Auslegung der vorliegenden Garantieerklärungen und die Beurteilung, ob die für die Annahme von Rechtsmissbrauch geforderten Voraussetzungen vorliegen oder nicht, sind jeweils Fragen des Einzelfalls, die beide in der Regel die Voraussetzungen des § 502 Abs 1 ZPO nicht begründen (zur Auslegung der Bankgarantie: 6 Ob 35/15p = RIS-Justiz RS0017670 [T15]; RS0033002 [T11]; RS0042936 [T20, T37, T59]; 7 Ob 53/15t = RS0042776 [T46]; zum Rechtsmissbrauch bei Abruf der Bankgarantie: RS0017997 [T5]; RS0018027 [T18]). Eine aufzugreifende Fehlbeurteilung durch die Vorinstanzen, die entgegen dem Regelfall die Zulässigkeit der Revision rechtfertigen könnte, zeigt der Beklagte nicht auf.
+Auch die Frage, ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache (hier: der Rechtsmissbrauch) als vorgebracht anzusehen ist, ist eine solche des Einzelfalls (RIS-Justiz RS0042828). Die Beurteilung des Berufungsgerichts, der Beklagte habe im erstinstanzlichen Verfahren kein ausreichendes Vorbringen zu einer rechtsmissbräuchlichen Inanspruchnahme der Garantie durch die Klägerin erstattet, ist vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0010OB00166.17V.0927.000

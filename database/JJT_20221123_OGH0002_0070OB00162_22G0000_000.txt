@@ -1,0 +1,110 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.11.2022
+Geschäftszahl
+7Ob162/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Faber und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei K* GmbH, *, vertreten durch die CHG Czernich Haidlen Gast & Partner Rechtsanwälte GmbH in Innsbruck, gegen die beklagte Partei T* VaG, *, vertreten durch die Haslwanter Rechtsanwälte GmbH in Telfs, wegen 2.299.755,11 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 14. Juli 2022, GZ 4 R 69/22m-30, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die Klägerin betreibt ein Gletscherskigebiet. Dort wurden am 30. Oktober 2018 zwei Schlepplifte durch den Abgang einer Nassschneelawine derart massiv beschädigt, dass sie nicht weiter betrieben werden konnten. Die Klägerin errichtete im Jahr 2019 anstelle der beiden Schlepplifte eine Funifor-Bahn [Luftseilbahn mit zwei Seilen und einer großen Kabine].
+[2] 		Zum Zeitpunkt des Schadensereignisses bestand zwischen den Streitteilen ein Versicherungsvertrag, der eine Versicherung der Seilbahnanlagen beinhaltete. Dem Vertrag lagen die Allgemeinen Bedingungen für die Sachversicherung, Fassung 2014 (ABS14) [1], die Allgemeinen Bedingungen für die Versicherung zusätzlicher Gefahren zur Feuerversicherung von Seilbahnen  SEC14 (AVB SEC14) [2] sowie die Sonderbedingungen zur Tiroler Seilbahnversicherung SBS14 (SBS14) [3] zugrunde. Diese lauten auszugsweise:
+[1] „Allgemeine Bedingungen für die Sachversicherung […]
+Geltungsbereich
+Die Allgemeinen Bedingungen für die Sachversicherung (ABS) gelten als Allgemeiner Teil jener Bedingungen für Sparten der Sachversicherung, die auf die Geltung der Allgemeinen Bedingungen für die Sachversicherung (ABS) ausdrücklich hinweisen.
+[…]
+Art 10
+Zahlung der Entschädigung
+[...]
+Für die Zahlung der Entschädigung sind außerdem die in den Versicherungsbedingungen der betreffenden Sachversicherungssparte oder in sonstigen vertraglichen Vereinbarungen getroffenen speziellen Regelungen zu beachten (z.B. Wiederherstellungsklauseln in Neuwertversicherungen).
+[…]
+[2] Allgemeine Bedingungen für die Versicherung zusätzlicher Gefahren zur Feuerversicherung von Seilbahnen
+[...]
+Artikel 1
+Versicherte Gefahren und Schäden
+[...]
+1.10 Lawinen und Lawinenluftdruck
+[…]
+Artikel 3
+Versicherte Sachen und Kosten
+[...]
+2.2.3 Abbruch- und Aufräumkosten [...]
+[…]
+Artikel 8
+Versicherungswert
+1. Spezielle Bestimmungen zum Versicherungs-wert
+1.1 Als Versicherungswert von Gebäuden kann vereinbart werden:
+1.1.1 der Neuwert.
+Als Neuwert eines Gebäudes gelten die ortsüblichen Kosten seiner Neuherstellung einschließlich der Planungs- und Konstruktionskosten;
+[…]
+1.2 Als Versicherungswert von Gebrauchsgegen-ständen und Betriebseinrichtungen kann vereinbart werden:
+1.2.1 der Neuwert.
+Als Neuwert gelten die Kosten für die Wiederbeschaffung von neuen Sachen gleicher Art und Güte;
+[…]
+Artikel 9
+Entschädigung
+1. Für Gebäude, Gebrauchsgegenstände und Betriebseinrichtungen (Artikel 8, Punkt 1.1 und 1.2):
+1.1 Ist die Versicherung zum Neuwert gemäß Artikel 8 vereinbart,
+[...]
+Artikel 12
+Zahlung der Entschädigung; Wiederherstellung, Wiederbeschaffung;
+1. Der Versicherungsnehmer hat vorerst nur Anspruch:
+1.1 Bei Gebäuden
+1.1.1 bei Zerstörung auf Ersatz des Zeitwertes, höchstens jedoch des Verkehrswertes;
+1.1.2 bei Beschädigung auf Ersatz des Zeitwertschadens, höchstens jedoch des Verkehrswertschadens.
+1.2 Bei Gebrauchsgegenständen und Betriebseinrichtungen
+1.2.1 bei Zerstörung oder Abhandenkommen auf Ersatz des Zeitwertes;
+1.2.2 bei Beschädigung auf Ersatz des Zeitwertschadens.
+[...]
+2. Den Anspruch auf den die Zahlung gemäß Punkt 1 übersteigenden Teil der Entschädigung erwirbt der Versicherungsnehmer erst dann und nur insoweit, als folgende Voraussetzungen erfüllt sind:
+2.1 es ist gesichert, dass die Entschädigung zur Gänze zur Wiederherstellung bzw. Wiederbeschaffung verwendet wird. [...]
+2.2 die Wiederherstellung eines Gebäudes erfolgt an der bisherigen Stelle. Ist die Wiederherstellung an dieser Stelle behördlich verboten, so genügt die Wiederherstellung an anderer Stelle innerhalb Österreichs;
+2.3 die wiederhergestellten bzw. wiederbeschafften Sachen dienen dem gleichen Betriebs- bzw. Verwendungszweck;
+2.4 die Wiederherstellung bzw. Wiederbe-schaffung erfolgt innerhalb von drei Jahren ab dem Eintritt des Schadenereignisses
+[...]
+[3] Sonderbedingungen zur TIROLER Seilbahnversicherung
+[...]
+Abschnitt I:
+Allgemeine Bestimmungen für alle Versicherungssparten
+1. Allgemeine Vertragsgrundlagen
+Allgemeine Bedingungen für die Sachversicherung (ABS), Fassung 2014
+[…]
+Allgemeine Bedingungen für die Versicherung zusätzlicher Gefahren zur Feuerversicherung von Seilbahnen, Fassung 14,
+[…]
+Abschnitt II:
+Besondere Bestimmungen zu den einzelnen Versicherungssparten
+[…]
+2. Deckungserweiterung zur Feuerversicherung (Extended Coverage)
+[…]
+2.4.13 Wiederherstellung und Wiederbeschaffung gemäß Abschnitt II, Punkt 13
+[…]
+2.5.1.8 Mehrkosten aufgrund behördlicher Auflagen gemäß Abschnitt IV, Punkt 5.8
+[...]
+Abschnitt III:
+Besondere Vereinbarungen in den Sachversicherungssparten und in der Betriebsunterbrechungsversicherung
+[…]
+13. Wiederherstellung und Wiederbeschaffung
+13.1 Die Wiederherstellungsfrist gemäß den zugrundeliegenden Allgemeinen Bedingungen, gilt als gewahrt, wenn innerhalb dieser Frist bindende Wiederherstellungs- bzw. Wiederbeschaffungsaufträge erteilt werden, um
+13.1.1 Gebäude in gleicher Art und Zweckbestimmung an der bisherigen Stelle wiederherzustellen; ist dies an der bisherigen Stelle aufgrund behördlicher Auflagen nicht möglich, so genügt es, wenn das Gebäude an anderer Stelle Österreichs wiederhergestellt wird;
+[…]
+Abschnitt IV:
+Besondere Bestimmungen zu den mitver-sicherten Deckungen in den Sachversicherungssparten und der Betriebsunterbrechungsversicherung
+[…]
+5.8.1 Als Mehrkosten gelten jene Kosten, die die Kosten der Wiederherstellung des ursprünglichen Zustandes überschreiten und die der Versicherungsnehmer aufgrund gesetzlicher Bestimmungen oder behördlicher Auflagen nach einem Schadenereignis im Fall der Wiederanschaffung der Betriebseinrichtung oder der Wiedererrichtung von Gebäuden aufwenden muss.
+5.8.2 Der Versicherer ersetzt diese aufgrund gesetzlicher Bestimmungen oder behördlicher Auflagen entstandenen Mehrkosten soweit er zur Neuwertentschädigung verpflichtet ist [...]
+[…]“
+[3] 		Die Vorinstanzen verneinten übereinstimmend das Vorliegen der Voraussetzungen für die geltend gemachte Neuwertentschädigung sowie für die Mehrkosten aufgrund behördlicher Auflagen.
+[4] 		Dagegen wendet sich die außerordentliche Revision der Klägerin.
+[5] 		1.1. Art 12 SEC14 und Art 13 in Abschnitt III SBS14 enthalten unstrittig eine sogenannte „strenge Wiederherstellungsklausel“. Ihr Zweck ist die Begrenzung des subjektiven Risikos, das entstünde, wenn der Versicherungsnehmer die Entschädigungssumme für frei bestimmbare Zwecke verwenden könnte (RS0120711 [T2, T4]). Die strenge Wiederherstellungsklausel stellt eine Risikobegrenzung dar (RS0081840) und bedeutet, dass zunächst im Versicherungsfall nur ein Anspruch auf den Zeitwert entsteht und der Restanspruch auf den Neuwert von der Wiederherstellung oder deren (fristgerechter) Sicherung abhängt (RS0120710). Ist die Wiederbeschaffung einmal ausreichend sichergestellt, wird der Anspruch des Versicherungsnehmers auf Bezahlung des Neuwerts fällig. Dieser fällig gewordene Anspruch besteht auch dann, wenn sich später herausstellen sollte, dass trotz Sicherstellung in der Folge die Wiederbeschaffung unterbleibt (RS0121821).
+[6] 		1.2. Die strenge Wiederherstellungsklausel impliziert ein Gleichartigkeits- und ein Gleichwertigkeitsgebot, sodass Sachen gleicher Zweckbestimmung, Art und Güte wiederhergestellt oder wiederbeschafft werden müssen (RS0117982). Die Wiederherstellungsklausel enthält aber kein Modernisierungsverbot, die neu angeschafften Sachen müssen aber von gleicher Gesamtgröße, vergleichbarer Zweckbestimmung sowie Art und Güte sein (7 Ob 153/06k mwN). Eine Wiederherstellung im Sinne der genannten Klausel liegt daher etwa vor, wenn ein dem zerstörten Gebäude nach Lage, Gesamtgröße und Zweck vergleichbares neues Gebäude errichtet wird, wobei es allerdings nicht erforderlich ist, dass sich die beiden Gebäude in allen Einzelheiten gleichen (7 Ob 67/06p mwN). Unter diesem Aspekt hat die stets von den Umständen des Einzelfalls abhängige Beurteilung, ob ein Gebäude gleicher Art und Zweckbestimmung an gleicher Stelle errichtet wurde, nach strengen Kriterien zu erfolgen (RS0120711; RS0081840 [T7]).
+[7] 		1.3. Die Rechtsansicht der Vorinstanzen, dass die anstelle der beiden Schlepplifte errichtete Luftseilbahn mit zwei Seilen und einer großen Kabine (Funifor-Bahn) dem Gleichartigkeits- und Gleichwertigkeitsgebot nicht entspricht bedarf keine Korrektur, zumal die neue Bahn in ihrer Art und Gesamtgröße (zB Funifor-Stationen anstelle von Holzhütten) sowie unter Berücksichtigung der Errichtungskosten (maximal 3 Mio EUR für die Schlepplifte im Vergleich zu 13,5 Mio EUR für die Funifohr-Bahn) weit über eine (bloße) Modernisierung der Schleppliftanlagen hinausgeht. Angesichts dieser gravierenden Unterschiede vermag an dieser Beurteilung auch der Umstand nichts zu ändern, dass sich die Zweckbestimmung (Beförderung von Wintersportlern) und die Lifttrasse durch die Neuerrichtung der Seilbahn nicht geändert haben. Entgegen der Ansicht der Beklagten ist auch die zum Verlust von Schmuckstücken ergangene Rechtsprechung (etwa 7 Ob 169/03h) mangels vergleichbarem Individualstückcharakter nicht einschlägig, wie dies schon das Berufungsgericht dargelegt hat.
+[8] 		1.4. Der geltend gemachte Ersatz von Mehrkosten aufgrund behördlicher Auflagen scheitert schon daran, dass diese an die Neuwertentschädigung geknüpft sind (vgl Art 5.8.2. SBS14).
+[9] 		2. Die Rechtsansicht der Vorinstanzen, dass für die von der Klägerin selbst durchgeführten Aufräumarbeiten nicht die von ihr geltend gemachten Kosten für (fiktive) Fremdleistungen anzusetzen seien, sondern ein in Anwendung des § 273 ZPO reduzierter Betrag, ist nicht korrekturbedürftig, zumal die Klägerin ansonsten bereichert wäre (zum allgemeinen versicherungsrechtlichen Bereicherungsverbot vgl etwa 7 Ob 214/20a) und keine konkreten Anhaltspunkte für das Ausmaß Reduktion vorlagen. Soweit die Klägerin in der Revision geltend macht, sie hätte ohnehin nur einen reduzierten „Mischstundensatz“ begehrt, verstößt sie gegen das Neuerungsverbot.
+[10] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00162.22G.1123.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.2018
+Geschäftszahl
+3Nc24/18m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie den Hofrat Dr. Roch und die Hofrätin Dr. Weixelbraun-Mohr als weitere Richter in der Ordinationssache des Antragstellers J*****, vertreten durch Dr. M. Einsle ua, Rechtsanwälte in Bregenz, gegen die Antragsgegnerin v***** AG, *****, wegen Exekution nach § 331 EO, über den Antrag auf Ordination gemäß § 28 JN, den
+Beschluss
+gefasst:
+Spruch
+Für die Bewilligung und Vollziehung der beantragten Rechteexekution (§ 331 EO) wird das Bezirksgericht Salzburg als örtlich zuständiges Gericht bestimmt.
+Text
+Begründung:
+Mit rechtskräftigem Versäumungsurteil des Bezirksgerichts Bregenz vom 21. Februar 2018 wurde die in der Schweiz ansässige Antragsgegnerin zur Zahlung an den Antragsteller verpflichtet. Zur Hereinbringung seiner Forderung brachte der Antragsteller am 7. Juni 2018 als betreibende Partei beim Bezirksgericht Salzburg einen auf Bewilligung der Rechteexekution gerichteten Exekutionsantrag ein und beantragte die Exekution durch Pfändung und Verwertung der der Antragsgegnerin als Verpflichtete zustehenden Rechte an der Internetdomain *****.at.
+Das Erstgericht wies den Exekutionsantrag mangels örtlicher Zuständigkeit zurück. Die inländische Gerichtsbarkeit für das Exekutionsverfahren sei zu bejahen, weil ein österreichischer Exekutionstitel durchgesetzt werden solle und das Exekutionsobjekt im weitesten Sinne im Inland liege. Nach der Entscheidung 3 Ob 287/08i könnten auch die Rechte aus einer Internet-Domain gepfändet werden. Die erste Vollzugshandlung für die beantragte Pfändung (Zustellung der Exekutionsbewilligung) liege aber nicht in Österreich; die Verständigung der Registrierungsstelle sei rein faktischer Natur. Das Erstgericht sei daher nicht örtlich zuständig.
+Das Rekursgericht bestätigte über Rekurs des Betreibenden den Beschluss des Erstgerichts. Nach gesicherter Rechtsprechung sei die Gesamtheit der schuldrechtlichen Ansprüche aus einer Internet-Domain ein pfändbares Vermögensrecht im Sinn des § 331 EO. Die Pfändung erfolge durch ein Verfügungsverbot an den Verpflichteten; ein Leistungsverbot an die Registrierungsstelle finde nicht statt, diese sei allerdings dem Verwertungsverfahren beizuziehen. Der Rekurswerber zeige keine unrichtige rechtliche Beurteilung durch das Erstgericht auf.
+Das Rekursgericht sprach aus, dass der Revisionsrekurs jedenfalls unzulässig sei und trug dem Erstgericht auf, den mit dem Rekurs verbundenen Antrag auf Ordination des Verfahrens nach § 28 JN dem Obersten Gerichtshof vorzulegen.
+Im Ordinationsantrag führte der Betreibende aus, die inländische Gerichtsbarkeit sei unstrittig gegeben; wenn der Rekurs nicht erfolgreich sei, dann seien damit die Voraussetzungen für eine Ordination durch den Obersten Gerichtshof erfüllt.
+Rechtliche Beurteilung
+Dazu wurde erwogen:
+1. Eine Ordination ist auch in Exekutionssachen möglich, wenn bei einer Exekution zwar die inländische Gerichtsbarkeit zu bejahen ist, es aber an einem örtlich zuständigen inländischen Gericht mangelt (3 Nc 26/12x mwN).
+2. Für die begehrte Exekution auf die Rechte aus der Internet-Domain ist – wie hier bereits Erstgericht und Rekursgericht zutreffend ausführten – die inländische Gerichtsbarkeit zu bejahen, weil – ebenso wie in dem der Entscheidung 3 Nc 26/12x zugrunde liegenden Fall – ein österreichischer Exekutionstitel durchgesetzt werden soll und sich das Exekutionsobjekt (eine Internetdomain mit at-Adresse, s dazu Jakusch in Angst/Oberhammer, EO3 § 3 Rz 18/2) im Inland befindet (vgl auch Öhlböck, Anm zu 3 Nc 26/12x, jusIT 2012, 209; Thiele, Alles läuft – run.cool.eu – die österreichische Domainjudikatur 2012, MR 2013, 96 ff [101 f]).
+Da hier die örtliche Zuständigkeit des angerufenen Gerichts rechtskräftig verneint wurde, ist eine Ordination eines örtlich zuständigen Gerichts erforderlich. Im Hinblick auf den Sitz der Registrierungsstelle (nic.at) im Sprengel des angerufenen Bezirksgerichts Salzburg liegt die Ordination dieses Gerichts nahe.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030NC00024.18M.1214.000

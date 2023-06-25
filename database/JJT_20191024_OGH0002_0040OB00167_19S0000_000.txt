@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.10.2019
+Geschäftszahl
+4Ob167/19s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Priv.-Doz. Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache des Klägers W***** S*****, vertreten durch Poduschka Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei V***** AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 27.463,92 EUR sA (in eventu wegen 6.000 EUR sA und Feststellung), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 10. Juli 2019, GZ 2 R 105/19b-21, mit dem das Urteil des Landesgerichts Linz vom 23. April 2019, GZ 38 Cg 52/18m-17, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.711,46 EUR (darin 273,26 EUR USt [19 %]) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Der Kläger erwarb mit Kaufvertrag vom 15. November 2013 bei einem inländischen Händler ein Kraftfahrzeug, dessen Dieselmotor von der Beklagten hergestellt wurde. Zwischen den Streitteilen besteht kein Vertragsverhältnis.
+Der Kläger begehrt 27.463,92 EUR sA Zug um Zug gegen die Rückgabe des Fahrzeugs, hilfsweise die Zahlung von 6.000 EUR, in eventu die Feststellung der Haftung der Beklagten ihm gegenüber für jeden Schaden, der ihm aus dem Kauf des Fahrzeugs und dem darin verbauten Dieselmotor eines bestimmten Typs zukünftig entstehe. In dem von ihm erworbenen Fahrzeug sei eine Manipulationssoftware verbaut gewesen, die bewirkt habe, dass zumindest die Stickoxydwerte (NOx-Werte) nicht den Angaben im Typenschein entsprochen hätten. Der Kläger stützte sich dabei auf vertragliche und deliktische Schadenersatzansprüche. Zum einen machte er geltend, dass ihn die Beklagte (als nicht vertragsbeteiligte Dritte) vorsätzlich in Irrtum geführt habe. Sie hafte daher nach § 874 ABGB, weswegen er die Rückabwicklung des Kaufvertrags im Wege der Naturalrestitution begehre. Darüber hinaus hafte die Beklagte nach allgemeinen Grundsätzen für den dadurch verursachten Schaden nach § 1295 iVm § 1323 ABGB sowie § 2 UWG auch deliktisch. Dem Kläger sei der Schaden bereits mit dem Erwerb des Fahrzeugs entstanden. Sein Schaden bestehe darin, ein Fahrzeug zu besitzen, das nicht den gesetzlichen Bestimmungen entspreche. Es könne auch nicht ausgeschlossen werden, dass das Fahrzeug wegen der Software oder des Softwareupdates in Zukunft einen Wertverlust erleiden werde.
+Das Berufungsgericht bestätigte die Entscheidung des Erstgerichts, das das Haupt- und Eventualbegehren abwies. Es legte seiner rechtlichen Beurteilung zugrunde, dass der Kläger das Auto auch bei Wissen um die Softwaremanipulation gekauft hätte, weshalb sämtliche Anspruchsgrundlagen schon an der fehlenden Kausalität des angeblich vorsätzlich irreführenden Verhaltens der Beklagten scheiterten. Das Berufungsgericht ließ die Revision mangels Judikatur zur Frage der Mangelhaftigkeit eines Fahrzeugs, das von der EG-Typengenehmigung abweichend hergestellt worden sei, zu.
+Gegen diese Entscheidung richtet sich die Revision des Klägers, die auf eine Stattgebung des Klagebegehrens abzielt.
+Mit ihrer Revisionsbeantwortung beantragt die Beklagte, das Rechtsmittel der Gegenseite zurückzuweisen, in eventu, diesem den Erfolg zu versagen.
+Rechtliche Beurteilung
+Entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts ist die Revision nicht zulässig.
+1. Trotz Zulässigerklärung der Revision durch das Berufungsgericht muss der Rechtsmittelwerber eine Rechtsfrage im Sinn des § 502 Abs 1 ZPO aufzeigen. Macht er hingegen nur solche Gründe geltend, deren Erledigung nicht von der Lösung einer erheblichen Rechtsfrage abhängt, so ist das Rechtsmittel ungeachtet des Zulässigkeitsausspruchs zurückzuweisen. Dies ist hier der Fall.
+2. Der Oberste Gerichtshof hat bereits in der Entscheidung 5 Ob 62/18f zu einem vergleichbaren Fall bei einem fast identen Vorbringen des dortigen klagenden Fahrzeugkäufers und der ebenfalls getroffenen Feststellung, dass der Kläger den Pkw in Kenntnis der manipulierten Software zu denselben Bedingungen gekauft hätte, die Klagsabweisung nicht als korrekturbedürftig qualifiziert. An dieser Entscheidung konnten sich die Vorinstanzen orientieren.
+3. Grundsätzlich hat jede Partei die für ihren Rechtsstandpunkt günstigen Tatsachen zu beweisen (RIS-Justiz RS0037797; RS0039939 [T6, T7]; RS0109832 [T1]). Bei einem Begehren auf Schadenersatz obliegt dem Geschädigten regelmäßig der Beweis für den Kausalzusammenhang zwischen dem Verhalten des Schädigers und dem Eintritt des Schadens (RS0022664 [T4]).
+4. Nach den für den Obersten Gerichtshof bindenden und damit maßgeblichen Feststellungen wusste der Kläger bei Ankauf des Fahrzeugs zwar nicht, dass eine die Abgasrückführungsrate am Prüfstand beeinflussende Software im Motorsteuerungsgerät installiert war, er hätte das Fahrzeug aber zu denselben Bedingungen gekauft, wenn er darüber in Kenntnis gewesen wäre. Damit begründet es keine im Einzelfall aufzugreifende Fehlbeurteilung des Berufungsgerichts, wenn es die Kausalität des angeblichen vorsätzlich irreführenden Verhaltens der Beklagten für den geltend gemachten Schadenersatz verneinte.
+5. Das Rechtsmittel ist auf die Schlussfolgerung des Berufungsgerichts, dass mangels Kausalität sämtliche Anspruchsgrundlagen scheitern müssten, argumentativ nicht näher eingegangen. Damit sind die auch im Rechtsmittel aufgeworfenen Fragen nicht relevant.
+6. Ausgehend vom festgestellten Sachverhalt stellen sich auch die vom Kläger in seiner Revision zur Verordnung (EG) 715/2007 angesprochenen Fragen nicht, sodass auch die von ihm angeregte Vorlage an den EuGH zur Vorabentscheidung nach Art 267 AEUV nicht in Betracht kommt.
+7. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+8. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen. Da die Beklagte ihren Sitz in Deutschland hat, ist bei den begehrten Rechtsanwaltskosten Umsatzsteuer lediglich in Höhe der in Deutschland zu entrichtenden Umsatzsteuer zuzusprechen (RS0114955 [T12]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0040OB00167.19S.1024.000

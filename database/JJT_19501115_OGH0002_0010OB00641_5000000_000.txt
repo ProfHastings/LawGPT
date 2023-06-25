@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.11.1950
+Geschäftszahl
+1Ob641/50
+Norm
+ABGB §107;
+ABGB §117;
+ABGB §547;
+ABGB §796;
+ABGB §1243;
+EO §379;
+EO §382 Z8;
+Lohnpfändungsverordnung §5;
+Lohnpfändungsverordnung §6;
+Kopf
+SZ 23/329
+Spruch
+§ 382 Z. 8 EO. ist auf Ansprüche nach § 796 ABGB. nicht anwendbar.
+Entscheidung vom 15. November 1950, 1 Ob 641/50.
+I. Instanz: Bezirksgericht Innere Stadt; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin begehrt von der Verlassenschaft ihres verstorbenen Gatten gemäß § 796 ABGB. den anständigen Unterhalt und begehrt, zur Sicherung dieses Anspruches der Antragsgegnerin aufzutragen, ihr ab 1. Februar 1950 eine monatliche Alimentation von 500 S zu leisten.
+Das Erstgericht hat den Antrag auf Erlassung einer einstweiligen Verfügung abgewiesen, weil mit dem Tode des Gatten der Antragstellerin der gesetzliche Unterhaltsanspruch erloschen sei. § 117 ABGB. komme nicht zur Anwendung, weil es sich dort um den einstweiligen Unterhalt im Falle der Trennung, jetzt Scheidung, handle. Es sei daher auf den vorliegenden Anspruch nicht § 382 Z. 8 EO., sondern nur § 379 Abs. 2 Z. 1 EO. anwendbar, dessen Voraussetzungen gar nicht behauptet worden seien; die bloße Bescheinigung der Notlage genüge daher nicht zur Erlassung der erbetenen einstweiligen Verfügung; es hätte eine subjektive Gefährdung glaubhaft gemacht werden müssen.
+Das Rekursgericht hat den erstrichterlichen Beschluß in diesem Punkte aufgehoben. Wohl spreche § 382 Z. 8 EO. nur vom vorläufigen Unterhalt, den der Ehemann der Gattin zu leisten hat, doch sei diese Gesetzesstelle auch auf den Unterhalt anzuwenden, den die Witwe von der Verlassenschaft ihres Gatten im Sinne des § 796 ABGB. zu fordern hat. Wenn es auch richtig sei, daß durch den Tod des Gatten der gefährdeten Partei deren Ehe aufgelöst worden sei, so sei doch der Anspruch der Witwe an den Nachlaß nach § 796 ABGB. ein Unterhaltsanspruch, wenn auch anderen Umfanges. Daß die Lösung der Ehe dem Bande nach durch Scheidung einen - soll richtig heißen keinen - Einfluß auf die Anwendbarkeit des § 382 Z. 8 EO. habe, wurde vom Obersten Gerichtshof in wiederholten Entscheidungen ausgesprochen. Es sei daher nicht einzusehen, warum nicht auch in dem Falle, daß eine Ehe durch den Tod aufgelöst sei, trotzdem noch von einem vom Ehemann zu leistenden Unterhalt an die Ehegattin im Sinne des § 382 Z. 8 EO. gesprochen werden könne, zumal nach § 547 ABGB. die Verlassenschaft den Erblasser darstelle. Das Rekursgericht kam daher zum Ergebnis, daß § 382 Z. 8 EO. anzuwenden sei und hob, da die Voraussetzungen dieser Gesetzesstelle vom Erstgericht infolge seiner abweichenden Rechtsansicht nicht erörtert wurden, den angefochtenen Beschluß auf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Gegnerin der gefährdeten Partei Folge und trug dem Rekursgerichte eine neuerliche Entscheidung unter Abstandnahme von den Aufhebungsgrunden auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der gegen diesen Beschluß erhobene Revisionsrekurs ist begrundet. § 382 Z. 8 EO. ist ebenso wie §§ 107, 117 ABGB. eine Vorschrift, welche den vorläufigen Unterhalt der Gattin und der Kinder gegenüber dem Ehemann sichern will. Der Ehemann ist zur Erfüllung der ihm obliegenden vorläufigen Unterhaltspflicht gegenüber den in § 382 Z. 8 EO. genannten Personen anzuhalten, auch wenn die Voraussetzungen des § 379 EO. nicht gegeben sind. Dies folgt aus dem familienrechtlichen Naheverhältnis, in dem der Gegner der gefährdeten Partei zu seiner Gattin (seinen Kindern) steht. Da der Unterhaltsanspruch nach der Scheidung nur eine Modifikation des während der Ehe bestandenen Unterhaltsanspruches darstellt, so hat die Judikatur aus § 117 ABGB. abgeleitet, daß die Begünstigung des § 382 Z. 8 EO. auch der getrennten Ehegattin zugute kommt und hat die Praxis dieses Privileg nach Einführung des Ehegesetzes auch der geschiedenen Gattin zuerkannt (SZ. XXII/16 und 186). Wenn der Ehemann aber gestorben ist, so ist das Naheverhältnis, das bisher zwischen der Berechtigten und dem Zahlungsverpflichteten bestand, weggefallen. Der Erbe kann ein vollkommen Fremder sein, der mit dem Erblasser weder verwandt noch verschwägert ist. Das Arbeitseinkommen des unbedingt erbserklärten Erben, gegen den ein Anspruch nach § 796 ABGB. geltend gemacht wird, ist daher nur nach § 5 LohnpfändungsV. und nicht nach § 6 der Pfändung unterworfen. Da er nicht in dem Naheverhältnis zu der gefährdeten Partei steht, wie der Ehemann, sein Erblasser, so ist es daher auch folgerichtig, daß ihm gegenüber die Begünstigungsvorschrift des § 382 Z. 8 EO. keine Anwendung findet.
+Die Rechtslage ist aber auch keine andere, wenn ein Anspruch gegen die Verlassenschaft für nach dem Tod des Ehemannes angeblich entstandene Unterhaltsraten nach § 796 ABGB. geltend gemacht wird. Solange der Ehemann lebte, standen die Unterhaltsansprüche der Frau in gleicher Priorität mit seinen sonstigen Schulden. Nach seinem Tode hat die Witwe einen Anspruch auf eine Rente nach § 796 ABGB. nur dann, wenn die vor dem Tod des Erblassers entstandenen Schulden gedeckt sind, weil bei Nachlaßüberschuldung ein Anspruch nach § 796 ABGB. - abweichend vom Anspruch nach § 1243 ABGB. - gar nicht entsteht. Die Anwendbarkeit des § 382 Z. 8 EO. auf solche Fälle würde die Nachlaßgläubiger der Gefahr aussetzen, daß die ihnen verfangene Masse zugunsten der erblasserischen Witwe ganz oder teilweise entzogen wird.
+Die vom Rekursgericht angeordneten Erhebungen über den Wert der Verlassenschaft kann diese Gefahr nicht bannen, da es nicht nur auf den Wert der Nachlaßmasse, sondern auf die Höhe der Nachlaßverbindlichkeiten ankommt, über deren Höhe die gefährdete Partei übrigens nicht einmal Behauptungen aufgestellt hat. Eine amtswegige Schuldenstandserhebung ist aber im Provisorialverfahren ausgeschlossen. Auch das beweist die Unanwendbarkeit des § 382 Z. 8 EO. auf den gegenständlichen Fall.
+Eine analoge Anwendung des § 382 Z. 8 EO. auf den Anspruch nach § 796 ABGB. ist demnach abzulehnen.

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.11.1981
+Geschäftszahl
+7Ob765/81
+Norm
+ABGB §1431;
+UStG §1;
+UStG §3;
+UStG §4;
+Kopf
+SZ 54/178
+Spruch
+Bei Rückforderung einer ungerechtfertigt erbrachten Leistung kann mangels einer abgabenrechtlichen Verpflichtung Umsatzsteuer auch von den Zinsen des zurückgeforderten Betrages nicht verlangt werden
+OGH 26. November 1981, 7 Ob 765/81 (OLG Wien 3 R 119/81; KG Wiener Neustadt 2 Cg 206/80)
+Text
+Die klagende Kommanditgesellschaft begehrt vom Beklagten als ihrem Kommanditisten und früheren kollektiv zeichnungsberechtigten Geschäftsführer der Komplementärgesellschaft die Rückzahlung einer von ihm zu Unrecht an sich selbst überwiesenen Mietzinsvorauszahlung abzüglich der bis zur Kündigung des Mietverhältnis anerkannten Mietzinse.
+Der Erstrichter verwarf die Einrede der sachlichen Unzuständigkeit und gab der Klage bis auf ein geringes Mehrbegehren statt. Nach seinen Feststellungen lag für die Überweisung des strittigen Betrages, die überdies statt von drei nur von zwei Geschäftsführern gezeichnet war, weder ein Gesellschafterbeschluß noch eine sonstige Zustimmung der nach dem Gesellschaftsvertrag notwendigen Zweidrittelmehrheit vor. Nach der Rechtsansicht des Erstrichters ist deshalb der Beklagte zur Rückzahlung des Klagsbetrages, den er sich unrechtmäßig zugewendet hat, verpflichtet.
+Das Berufungsgericht bestätigte den in das Ersturteil aufgenommenen Beschluß über die Verwerfung der Unzuständigkeitseinrede und gab der Berufung im übrigen nur der Höhe nach zu einem geringen Teil Folge. Es übernahm die Feststellungen des Erstrichters als unbedenkliches Ergebnis eines mängelfreien Verfahrens und trat seiner rechtlichen Beurteilung im noch strittigen Umfang bei. Die weitere Feststellung des Erstrichters, die Streitteile hätten eine befristete Unkundbarkeit des Mietvertrages nicht vereinbart, sei rechtlich ohne Bedeutung.
+Der Oberste Gerichtshof wies den Revisionsrekurs des Beklagten zurück und gab der Revision nur dahin teilweise Folge, daß das Begehren auf Umsatzsteuer von den Zinsen abgewiesen wurde.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Da die Rechtsrüge nur noch zur Frage der Berechtigung der Klagsforderung auf 18% Mehrwertsteuer aus dem begehrten Zinsenbetrag ausgeführt ist, ist auf die sonstigen Klagsforderungen nicht mehr einzugehen (vgl. EvBl. 1980/178).
+Der Zuspruch von Umsatzsteuer von den Zinsen aus dem jeweiligen Rückforderungsguthaben der klagenden Partei besteht nach der im Ergebnis zutreffenden Ansicht des Revisionswerbers nicht zu Recht. Es geht hier nicht darum, daß der Schädiger einen nach Art. XII Z. 3 EGUStG 1972 zustehenden Rückersatzanspruch erst in einem getrennten Rechtsstreit geltend machen kann (SZ 50/8 u. v. a.), sondern um die steuerrechtliche Vorfrage, ob die aufgetragene Ersatzleistung überhaupt umsatzsteuerpflichtig ist, weil nach dem Grundsatz des § 4 UStG Nebenentgelte wie Zinsen das umsatzsteuerliche Schicksal des Hauptentgelts teilen (vgl. z. B. Doralt - Ruppe, Grundriß des österreichischen Steuerrechts I, 211). Das ist zwar dann zu bejahen, wenn der Geschädigte Wertersatz oder Reparaturkosten begehrt, weil er hier um den Schadenersatzbetrag eine umsatzsteuerpflichtige Lieferung oder sonstige Leistung im Sinne des § 3 UStG bewirken können soll, für die erst dann ein allfälliger Vorsteuerabzug in Frage kommt. Im vorliegenden Fall findet aber eine Rückabwicklung einer ungerechtfertigt erbrachten Leistung statt, die weder eine Gegenleistung für eine Lieferung oder sonstige Leistung darstellt noch der Bewirkung einer solchen Gegenleistung dient. In diesem Fall ist wie beim "echten" Schadenersatz mangels eines Leistungsaustausches (vgl. VwGH Slg. 2795 F und Doralt - Ruppe a. a.O., 213 f.) die Hauptleistung nicht umsatzsteuerpflichtig und demnach in gleicher Weise auch nicht die Zinsen aus dieser Hauptforderung. Die klagende Partei erleidet insoweit überhaupt und nicht erst durch eine nachträgliche Möglichkeit des Vorsteuerabzuges keinen Schaden.

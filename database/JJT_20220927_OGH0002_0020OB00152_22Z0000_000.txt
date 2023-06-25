@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.09.2022
+Geschäftszahl
+2Ob152/22z
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Pflegschaftssache des minderjährigen Kindes S*, geboren am *, über den „außerordentlichen Revisionsrekurs“ des Vaters R*, vertreten durch Martin Fürthaler, LL.M. (WU), MSc (WU), Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 18. März 2022, GZ 48 R 219/21t-77, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Das Erstgericht setzte den laufenden Unterhalt (statt wie bisher mit 100 EUR monatlich) ab 1. 10. 2016 mit zusätzlichen 300 EUR – insgesamt sohin 400 EUR – fest.
+[2] 		Der Vater strebte mit seinem Rekurs erkennbar die Abweisung des gesamten Unterhaltserhöhungsantrags ab.
+[3] 		Das Rekursgericht gab dem Rekurs des Vaters nicht Folge. Es sprach aus, dass der ordentliche Revisionsrekurs nicht zulässig sei.
+Rechtliche Beurteilung
+[4] 		Das dagegen vom Vater erhobene, als „außerordentlicher Revisionsrekurs“ bezeichnete Rechtsmittel legte das Erstgericht dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise entspricht nicht dem Gesetz.
+[5] 		Hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG ausgesprochen, dass der (ordentliche) Revisionsrekurs nicht nach § 62 Abs 1 AußStrG zulässig ist, so kann gemäß § 62 Abs 5 AußStrG dennoch ein Revisionsrekurs erhoben werden, wenn der Entscheidungsgegenstand insgesamt 30.000 EUR übersteigt oder soweit er nicht rein vermögensrechtlicher Natur ist (außerordentlicher Revisionsrekurs).
+[6] 		Im Unterhaltsbemessungsverfahren ist der Entscheidungsgegenstand nach ständiger Rechtsprechung rein vermögensrechtlicher Natur und besteht ausschließlich in einem Geldbetrag. Maßgeblich ist gemäß § 58 Abs 1 JN der 36-fache Betrag jenes monatlichen Unterhaltsbeitrags, der zum Zeitpunkt der Entscheidung zweiter Instanz zwischen den Parteien noch strittig war, wobei regelmäßig auf den laufenden Unterhalt abzustellen ist (RS0122735; 10 Ob 44/20y). Der Wert des Entscheidungsgegenstands beträgt im vorliegenden Fall 10.800 EUR (= 36 x 300).
+[7] 		Übersteigt der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 30.000 EUR nicht und hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG den ordentlichen Revisionsrekurs für nicht zulässig erklärt, ist nach § 62 Abs 3 AußStrG der Revisionsrekurs – außer im Fall des § 63 Abs 3 AußStrG – jedenfalls unzulässig. Unter diesen Voraussetzungen kann eine Partei nur gemäß § 63 Abs 1 und 2 AußStrG einen – mit der Ausführung des ordentlichen Revisionsrekurses zu verbindenden – Antrag an das Rekursgericht stellen, den Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde (Zulassungsvorstellung).
+[8] 		Da die maßgebliche Wertgrenze nicht überschritten wird, kommt dem Obersten Gerichtshof im derzeitigen Verfahrensstadium keine Entscheidungskompetenz zu. Das Erstgericht wird zu beurteilen haben, ob es die Eingabe des Vaters als eine (mit einem ordentlichen Revisionsrekurs verbundene) Zulassungsvorstellung an das Rekursgericht (§ 63 AußStrG) oder aber als verbesserungsbedürftig ansieht (RS0109505).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00152.22Z.0927.000

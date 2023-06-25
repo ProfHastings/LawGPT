@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2021
+Geschäftszahl
+7Ob131/21x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Stefula und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei B***** D*****, vertreten durch MMMag. Dr. Franz Josef Giesinger Rechtsanwalt GmbH in Götzis, gegen die beklagte Partei D***** AG *****, vertreten durch Dr. Horst Lumper, Rechtsanwalt in Bregenz, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 6. Mai 2021, GZ 4 R 67/21s-31, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Parteien besteht ein Haushaltsversicherungsvertrag, der auch eine Privathaftpflichtversicherung umfasst. Der Ehegatte der Klägerin ist mitversichert.
+[2] 		Dem Versicherungsvertrag liegen unter anderem die Allgemeinen Bedingungen für die Haushaltsversicherung (ABH 2016) zugrunde, die auszugsweise wie folgt lauten:
+„II. Haftpflichtversicherung
+Artikel 11
+Versicherungsfall und Versicherungsschutz
+1. Versicherungsfall
+Versicherungsfall ist ein Schadenereignis, das dem privaten Risikobereich (siehe Artikel 12, Punkt 1.) entspringt und aus welchem dem Versicherungsnehmer Schadenersatzverpflichtungen (Punkt 2.) erwachsen oder erwachsen könnten.
+[…]
+Artikel 17
+Ausschlüsse vom Versicherungsschutz
+Nicht versichert sind:
+[...]
+3. Schadenersatzverpflichtungen der Personen, die den Schaden, für den sie von einem Dritten verantwortlich gemacht werden, rechtswidrig und vorsätzlich herbeigeführt haben. Dem Vorsatz wird gleichgehalten eine Handlung oder Unterlassung, bei welcher der Schadenseintritt mit Wahrscheinlichkeit erwartet werden musste, jedoch in Kauf genommen wurde.“
+Rechtliche Beurteilung
+[3] 		1. Der Deckungsanspruch des Haftpflicht-versicherten ist durch das versicherte Risiko spezialisiert und von dem vom Geschädigten erhobenen Anspruch abhängig (RS0081015) das heißt unter Zugrundelegung des vom Geschädigten behaupteten Sachverhalts. Von diesem Grundsatz ist (auch beim vorweggenommenen Deckungsprozess) nicht abzugehen, andernfalls hätte es der Versicherungsnehmer nämlich in der Hand durch bloße, dem Anspruch des Geschädigten widersprechende, Behauptungen Deckung zu erlangen. Grundlage für die Prüfung, ob ein gedeckter Versicherungsfall vorliegt, ist daher der geltend gemachte Anspruch ausgehend von dem vom Geschädigten behaupteten Sachverhalt. Damit bedarf es nur der Feststellung, welchen Anspruch der Geschädigte geltend macht und der Prüfung, ob dieser vom Versicherungsvertrag gedeckt ist. Feststellungen zum Tathergang sind entbehrlich, weil nicht entscheidungsrelevant (7 Ob 142/18k = RS0081015 [T1]).
+[4] 		2. Im vorliegenden Fall behauptet der Geschädigte sowohl im Anspruchsschreiben vom 15. März 2019 als auch in seiner während des Deckungsprozesses erhobenen Klage gegen den mitversicherten Ehegatten der Klägerin, dass ihm dieser mit einer schweren Eisenstange mehrere Schläge gegen den Kopf versetzt habe. Die Beurteilung der Vorinstanzen, dass darin die Behauptung einer Vorsatztat liegt, ist nicht korrekturbedürftig. Das Erstgericht hat zwar keine Feststellungen zum Inhalt der Klage des Geschädigten getroffen, allerdings konnte deren wesentlicher Inhalt der Revisionsentscheidung als unstrittig zugrundegelegt werden (vgl RS0121557 [insb auch T2, T3]).
+[5] 		3. Da der Geschädigte somit seinen Schadenersatzanspruch auf eine Vorsatztat stützt, ist die Deckung nach Art 17.3 ABH 2016 ausgeschlossen. Die Frage der Gefahr des täglichen Lebens ist zwar im Deckungsprozess zu klären, und es sind dazu daher auch Feststellungen zu treffen. Darauf kommt es aber hier wegen des Risikoausschlusses nicht an, sodass auch der von der Revisionswerberin behauptete Widerspruch in der Judikatur des Obersten Gerichtshofs nicht vorliegt.
+[6] 		4. Im vorliegenden Verfahren wird nur die Deckung des vom Geschädigten erhobenen Anspruchs formal, ohne den zugrundeliegenden Lebenssachverhalt, geprüft. Ergibt die Prüfung des Lebenssachverhalts im Haftpflichtprozess einen anderen (gedeckten) Anspruch, so steht diesem der Ausgang des vorliegenden Deckungsprozesses nicht entgegen.
+[7] 		5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00131.21X.0929.000

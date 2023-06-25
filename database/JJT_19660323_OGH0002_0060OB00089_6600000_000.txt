@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.03.1966
+Geschäftszahl
+6Ob89/66
+Norm
+ABGB §365;
+JN §1;
+Verwaltergesetz §5;
+Verwaltergesetz §6;
+Kopf
+SZ 39/55
+Spruch
+Für die Klage eines Aktionärs einer im Ausland entschädigungslos enteigneten AG., für deren im Inland befindliches Vermögen ein öffentlicher Verwalter bestellt ist, auf Zahlung des seinem Anteil entsprechenden Betrages ist der Rechtsweg unzulässig Entscheidung vom 23. März 1966, 6 Ob 89/66
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien
+Text
+Die D. Industrie-Anlagen AG. wurde in Ungarn nationalisiert. Sie war Eigentümerin der inländischen Liegenschaft EZ. 16 KG St. Bei der Versteigerung dieser Liegenschaft ergab sich ein Meistbotsrest von
+136.918.34 S. Die Klägerin behauptet nun in der vorliegenden, gegen die Republik Österreich als Sondervermögen der D. Industrie-Anlagen AG., vertreten durch den öffentlichen Verwalter, gerichteten Klage, ihrem Vater hätten faktisch sämtliche Aktien gehört. Als seine Erbin habe sie Anspruch auf 69.185% seines Nachlasses. Es gebühre ihr daher von dem Meistbotsrest, den der öffentliche Verwalter im Auftrage des Bundesministeriums für Finanzen verwalte, der Teilbetrag von 94.724 S. Sie beantragt Verurteilung der Beklagten zur Zahlung dieses Betrages samt Anhang.
+Das Erstgericht wies die Klage ab. Es stellte im wesentlichen fest:
+für das im Inland befindliche Vermögen der Aktiengesellschaft bzw. der unbekannten Aktionäre dieser Aktiengesellschaft sei ein öffentlicher Verwalter bestellt worden, weil aus der Versteigerung der oben bezeichneten Liegenschaft ein Meistbotsrest zu erwarten gewesen und hinsichtlich der Aktionäre angenommen worden sei, daß sie flüchtig, unbekannten Aufenthaltes oder aus anderen Gründen abwesend seien und nicht zurückkehren und ihre Rechte vertreten können.
+Rechtlich führte das Erstgericht aus, das im Inland befindliche Sondervermögen der Aktiengesellschaft bilde keinen Bestandteil des Vermögens der Republik Österreich, sondern sei als Sondervermögen aktiv und passiv legitimiert. Die Republik Österreich sei daher nicht passiv legitimiert. Es habe aber auch die Klägerin keinen unmittelbaren Anspruch auf einen Teil des Meistbotsrestes, sie könne bei Zutreffen der sonstigen Voraussetzungen lediglich einen verhältnismäßigen Anteil an dem nach einer ordnungsgemäßen Liquidation erzielten Erlös haben.
+Das Berufungsgericht hob aus Anlaß der Berufung der Klägerin das erstgerichtliche Urteil und das ihm vorangegangene Verfahren als nichtig auf und wies die Klage zurück. Die im Ausland durchgeführte Konfiskation erfasse nur das ausländische Vermögen. Hinsichtlich des im Inland befindlichen Vermögens bildeten die Aktionäre eine communio incidens. Die Klägerin gehöre, falls ihr Vater Aktionär der Aktiengesellschaft gewesen und sie seine Erbin sei, zu dieser und habe damit Anspruch auf einen Teil des Vermögens. Für das Sondervermögen sei jedoch ein öffentlicher Verwalter bestellt. Die Klägerin verlange mit ihrer Klage eine Maßnahme, die im Verwaltungsverfahren zu behandeln, für die aber nicht die Zuständigkeit des Gerichtes gegeben sei. Das durchgeführte Verfahren sei daher nichtig gemäß § 477 (1) Z. 6 ZPO.
+Der Oberste Gerichtshof gab dem Rekurs der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Berufungsgericht ging im Sinne der Rechtsprechung des Obersten Gerichtshofes zutreffend davon aus, daß die im Ausland durchgeführte Konfiskation nur das in dem konfiszierenden Staat befindliche Vermögen erfaßt (SZ. XXVII 286, SZ. XXVIII 1, EvBl. 1961 Nr. 354). Die früheren Aktionäre der in Ungarn nationalisierten D. Industrie-Anlagen AG. setzen im Inland zwar nicht die Gesellschaft fort, sie sind aber als Miteigentümer des inländischen Vermögens zu behandeln und können als solche gemäß der ihnen am Hauptstamm zustehenden Quotenbeteiligung verfügen (SZ. XXVIII 1, SZ. XXI 114). Gegen diese Rechtsansicht wurden zwar Bedenken vorgebracht, der Oberste Gerichtshof vermochte sich ihnen aber nicht anzuschließen (EvBl. 1961 Nr. 354).
+Soweit nun die Klägerin mit der Behauptung, sie sei Erbin nach ihrem Vater, der Aktionär gewesen sei, eine solche Verfügungsbefugnis über das im Inland befindliche Vermögen der Aktiengesellschaft in Anspruch nimmt, ist jedoch wesentlich, daß für dieses Vermögen bzw. für das der Aktionäre vom Bundesministerium für Finanzen ein öffentlicher Verwalter nach dem Verwaltergesetz bestellt ist. Gemäß § 5 Verwaltergesetz 1952 ruhen nun während der Dauer der öffentlichen Verwaltung die Befugnisse des bisher Verfügungsberechtigten und bei juristischen Personen die Befugnisse ihrer Organe und Mitglieder, von hier nicht in Betracht kommenden Ausnahmen abgesehen. Der öffentliche Verwalter übt vielmehr gemäß § 6 Verwaltergesetz 1952 alle Rechte und Pflichten des Verfügungsberechtigten (der Organe) aus, vertritt das Unternehmen nach außen und hat gemäß § 7 die Weisungen des bestellenden Ministeriums zu befolgen. Daraus folgt aber, daß durch die Bestellung eines Verwalters die Dispositionsbefugnis über das verwaltete Vermögen den bisher Verfügungsberechtigten entzogen und alle Befugnisse dem Verwalter übertragen werden, der sie unter Kontrolle der zuständigen Aufsichtsbehörde auszuüben hat. Der Klägerin bleibt es unbenommen, gegen Maßnahmen des öffentlichen Verwalters Abhilfe bei der Verwaltungsbehörde zu suchen, den Rechtsweg kann sie aber nicht beschreiten. Soweit die Klägerin zu diesen Ausführungen in der vom Berufungsgericht bezogenen Entscheidung SZ. XXI 18 vermeint, es sei ihr ein anderer Sachverhalt zugrunde gelegen, ist es wohl richtig, daß dort ein Räumungsanspruch gegen den Verwalter geltend gemacht wurde, hinsichtlich der auch in diesem Verfahren zu lösenden Frage der Zulässigkeit des Rechtsweges für einen Anspruch des an dem verwalteten Vermögen Verfügungsberechtigten gegen den öffentlichen Verwalter macht dies aber keinen Unterschied.

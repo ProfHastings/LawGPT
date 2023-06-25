@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2019
+Geschäftszahl
+6Ob153/19x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden,  die Hofräte Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Mag. Oliver Simoncic als Masseverwalter im Konkurs über das Vermögen der K*****, sowie ihrer Nebenintervenientin S*****, vertreten durch Mag. Lydia Lindner, Rechtsanwältin in Linz, gegen die beklagte Partei g*****, vertreten durch die Gibel Zirm Rechtsanwälte GmbH & Co KG in Wien, wegen 206.438 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 18. Juli 2019, GZ 3 R 9/19t-78, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Fragen der Berechtigung der Unsicherheitseinrede gemäß § 1052 Satz 2 ABGB stellen sich schon deshalb nicht, weil der Vertrag nach der Beurteilung der Vorinstanzen und nach der insoweit übereinstimmenden Ansicht der Parteien durch Rücktritt gemäß § 918 ABGB aufgelöst ist (unabhängig davon, welche Partei nun berechtigt den Rücktritt erklärt hat). Überdies steht auch aufgrund der Konkurseröffnung und Schließung des Unternehmens der vormals klagenden Schuldnerin fest, dass diese allenfalls geschuldete Werkleistungen (Verbesserung von Mängeln) nicht mehr erbringen kann und wird. Dann aber geht es nur noch darum, gemäß § 921 ABGB die aus der Vertragsauflösung entstandenen wechselseitigen, hier ausschließlich Geldforderungen und den Saldo daraus zu ermitteln. Wenn hier das Berufungsgericht die Forderungen der Beklagten gegen die Schuldnerin höher als die berechtigte Klageforderung angenommen hat, ist diese eben durch Aufrechnung getilgt.
+2. Aus den Feststellungen der Vorinstanzen und den Rechtsausführungen des Berufungsgerichts geht eindeutig hervor, dass sich die einzelnen Positionen der Gegenforderung aus Kosten der Mängelbehebung und Wertminderung (wegen Mängeln) zusammensetzen. Demgemäß liegen keine nicht zu ersetzenden „Sowieso-Kosten“ vor.
+3. Soweit die Revisionswerberin vorbringt, die Häuser seien (ohne Reparatur der Mängel) weiterverkauft worden, weshalb der Beklagten die fiktiven Reparaturkosten nur bis zur Höhe des gemeinen Werts der beschädigten Sache zu ersetzen seien, setzt sie sich nicht mit der diesbezüglichen Begründung des Berufungsgerichts auseinander. Danach habe die Beklagte durchaus Reparaturabsicht (durch Drittunternehmen) behauptet (vgl überdies RS0030285 [auch T11, T12, T15, T18]).
+4. Die gerügten Aktenwidrigkeiten sind solche des Erstgerichts und können mangels Relevierung in der Berufung in der Revision nicht mehr geltend gemacht werden (RS0041773). Die geltend gemachten Verfahrensmängel sind solche der ersten Instanz und wurden vom Berufungsgericht verneint, sodass ihre neuerliche Geltendmachung im Revisionsverfahren nicht möglich ist (RS0042963). Soweit Tatsachenfeststellungen aufgrund unrichtiger Beweiswürdigung ausdrücklich (als „Berufungsgrund“) oder schlüssig bekämpft werden, liegt kein Revisionsgrund vor (§ 503 ZPO).
+5. Soweit die Revisionswerberin (sekundäre) Feststellungsmängel rügt (zB Kosten für das Nachfädeln eines Anschlusskabels), hat sich das Berufungsgericht teilweise damit auseinandergesetzt (zB Berufungsurteil Punkt 4.2.4.). Im Übrigen bedarf es einer Auseinandersetzung damit schon deshalb nicht, weil selbst die Summe aller Beträge, die nach den Revisionsausführungen bei Beseitigung der Feststellungsmängel von der Gegenforderung der Beklagten abzuziehen wären, geringer ist als die vom Berufungsgericht errechnete Differenz von 17.494,22 EUR zwischen zumindest bestehender Gegenforderung (186.467,49 EUR) und zu Recht bestehender Klageforderung (168.973,27 EUR).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0060OB00153.19X.0829.000

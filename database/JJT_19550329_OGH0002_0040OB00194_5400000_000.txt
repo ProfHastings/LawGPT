@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.1955
+Geschäftszahl
+4Ob194/54
+Norm
+KO §5 Abs1;
+KO §6;
+Kopf
+SZ 28/86
+Spruch
+Durch eigene Tätigkeit des Gemeinschuldners erworbene Ansprüche werden erst durch Überlassung konkursfreies Vermögen.
+Entscheidung vom 29. März 1955, 4 Ob 194/54.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtsachen Wien.
+Text
+Der Kläger begehrt von der beklagten Partei die Bezahlung eines Betrages von 3188 S 02 g aus einem behaupteten Dienstverhältnis. Da der Kläger trotz ausgewiesener Zustellung zur mündlichen Streitverhandlung nicht erschienen ist, wurde gegen ihn über Antrag der beklagten Partei Versäumungsurteil gefällt und das Klagebegehren abgewiesen.
+Aus Anlaß der seitens des Klägers dagegen erhobenen Berufung wurde das Versäumungsurteil des Erstgerichtes aufgehoben, das Verfahren einschließlich, der Klagszustellung für nichtig erklärt und die Klage zurückgewiesen.
+Das Berufungsgericht führte hiezu aus:
+Im Zuge des Berufungsverfahrens sei hervorgekommen, daß über das Vermögen des Klägers der Konkurs eröffnet wurde, und habe eine telefonische Anfrage bei der Konkursabteilung die Richtigkeit dieser Behauptung ergeben, wonach das Konkursverfahren seit 12. Februar 1954 zu S 20/54 des Landesgerichtes für Zivilrechtssachen Wien anhängig sei. Somit sei die Nichtigkeit des Verfahrens gegeben, da dem Kläger eine Verfügungsfähigkeit über die Forderung als Gemeinschuldner nicht mehr zustehe und ihm daher die Prozeßfähigkeit mangle. Es liege demnach Nichtigkeit nach § 477 Abs. 1 Z. 5 ZPO. vor, so daß die Klage unter Nichtigerklärung des Verfahrens ab Klagszustellung zurückzuweisen gewesen sei.
+Gegen diese Entscheidung richtet sich der Rekurs der klagenden Partei mit dem Antrag, den angefochtenen Beschluß aufzuheben und dem Berufungsgericht aufzutragen, über die Berufung ohne Bedachtnahme auf die behauptete Nichtigkeit des Verfahrens neuerlich zu entscheiden.
+Der Oberste Gerichtshof bestätigte.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Durch eigene Tätigkeit des Gemeinschuldners erworbene Ansprüche (§ 5 Abs. 1 KO.) gehören grundsätzlich zur Masse und scheiden erst dann aus, wenn sie vom Masseverwalter dem Gemeinschuldner überlassen werden. Sie werden demnach erst durch den konstitutiv wirkenden Überlassungsakt konkursfreies Vermögen, über das der Gemeinschuldner frei verfügen kann, so daß in diesem Fall bei ihrer Geltendmachung eine Vertretung des Gemeinschuldners durch den Masseverwalter nicht stattfindet (§ 6 Abs.3 KO.). Daß eine solche Überlassung des geltend gemachten Anspruches an den Gemeinschuldner erfolgt sei, ist jedoch in den Tatsacheninstanzen gar nicht behauptet worden. Das diesbezügliche Vorbringen im Revisionsrekurs ist als Neuerung unbeachtlich. Mit Recht hat daher das Berufungsgericht das angefochtene Urteil sowie das vorangegangene Verfahren aus dem Gründe des § 477 Abs. 1 Z. 5 ZPO. als nichtig aufgehoben.

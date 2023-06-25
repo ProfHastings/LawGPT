@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2016
+Geschäftszahl
+5Ob254/15m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache der Antragsteller 1. A***** S***** und 2. R***** S*****, beide *****, beide vertreten durch Dr. Hanns Christian Baldinger, Rechtsanwalt in Wien, wegen Einverleibung einer Dienstbarkeit ob der Liegenschaft EZ 6686 GB *****, über den außerordentlichen Revisionsrekurs der Antragsteller gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 10. November 2015, AZ 47 R 302/15g, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+1.1. Damit eine Dienstbarkeit bücherlich einverleibt werden kann, bedarf es zufolge § 26 Abs 2 GBG des urkundlichen Nachweises eines hiefür gültigen Rechtsgrundes (5 Ob 114/08p NZ 2009/10; vgl auch 5 Ob 147/14z). Gemäß § 480 ABGB gibt jeder Vertrag einen tauglichen Rechtsgrund für eine Dienstbarkeitsbestellung ab (5 Ob 2036/96i = SZ 69/110; 5 Ob 131/10s NZ 2011/765 [GBSlg] [Hoyer] = wobl 2011/149). Es muss aber aus der Vertragsurkunde zu entnehmen sein, warum die Dienstbarkeit eingeräumt wurde, sei es etwa durch Kauf, Schenkung oder in Erfüllung einer bereits bestehenden (zB beim Verkauf eines Grundstücks übernommenen) Verpflichtung (5 Ob 339/99k NZ 2001/493 [GBSlg] [Hoyer] = immolex 2000/131). Dienstbarkeiten können auch und zwar dann Gegenstand einer Schenkung sein (3 Ob 599/83), wenn die für eine Schenkung wesentliche Absicht einer unentgeltlichen Zuwendung vorliegt (5 Ob 339/99k NZ 2001/493 [GBSlg] [Hoyer] = immolex 2000/131 mwN; 5 Ob 147/14z MietSlg 66.588).
+1.2. Zufolge § 26 Abs 2 GBG reicht es für die Einverleibung jedenfalls nicht, wenn die betreffende Urkunde nur die Einräumung der Dienstbarkeit ausweist (vgl 5 Ob 147/14z). Ein solcher Hinweis genügt nämlich nicht, die causa des Rechtsgeschäfts nachzuweisen (5 Ob 131/10s mwN NZ 2011/765 [GBSlg] [Hoyer]).
+2.1. Der vorliegende, nicht in Form eines Notariatsakts errichtete „Servitutsvertrag“ enthält den von den Antragstellern in ihrem Revisionsrekurs betonten Hinweis, dass die Eigentümerin der dienenden Liegenschaft die Dienstbarkeit „zur Sicherung des fortdauernden Wasserleitungsrechtes“ der Eigentümer der herrschenden Liegenschaft bestellt (Vertragspunkt III.).
+2.2. Es mag nun zutreffen, dass die vertragliche Vereinbarung der grundbücherlichen Sicherung eines (bestehenden obligatorischen) Wasserleitungsrechts mangels Typenzwangs im österreichischen Vertragsrecht eine taugliche Grundlage für die Einverleibung einer Dienstbarkeit sein könnte; allein dem vorliegenden Vertrag ist eine solche Vereinbarung gerade nicht zu entnehmen. Vielmehr wird lediglich die Bestellung der Dienstbarkeit dokumentiert, insbesondere ohne dass klar wird, ob eine solche vertragliche Verpflichtung mit dem „Servitutsvertrag“ neu begründet werden soll oder diese wie das Wasserleitungsrecht selbst auf nicht näher beschriebener Rechtsgrundlage bereits länger bestanden hat.
+2.3. Schließlich enthält Vertragspunkt IV. den ausdrücklichen Hinweis, dass die Eigentümerin der dienenden Liegenschaft die Dienstbarkeit „unentgeltlich“ bestellt, wobei die körperliche Übergabe des Servitutsobjekts (Wasserleitung) erst in Zukunft mit dessen Fertigstellung und dem Anschluss an das öffentliche Wassernetz erfolgen soll.
+3. Im Ergebnis folgt somit, dass aus Punkt III. des die Eintragungsgrundlage bildenden „Servitutsvertrags“ lediglich die Bestellung einer Dienstbarkeit, nicht aber deren rechtliche Grundlage hervorgeht, während nach Punkt IV. auch das Vorliegen einer Schenkung (ohne wirkliche Übergabe) vorliegen könnte. Wenn das Rekursgericht bei dieser Vertragslage keine ausreichende Klarstellung des Rechtsgrundes der bestellten Dienstbarkeit erkannte, liegt darin jedenfalls keine als unvertretbar aufzugreifende rechtliche Beurteilung. Der Revisionsrekurs ist daher mangels der Voraussetzungen des § 62 Abs 1 AußStrG unzulässig und somit zurückzuweisen, ohne dass weitere Abweisungsgründe zu prüfen sind (RIS-Justiz RS0060544).
+4. Da sich der Revisionsrekurs als unzulässig erwies, erübrigt sich die Einleitung eines Verfahrens zur Verbesserung des im Postweg und nicht im elektronischen Rechtsverkehr eingebrachten Rechtsmittels (5 Ob 240/12y; 5 Ob 20/13x; 5 Ob 35/13b; 5 Ob 64/13t; 5 Ob 235/13i).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00254.15M.0125.000

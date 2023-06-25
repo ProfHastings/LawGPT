@@ -1,0 +1,48 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.1951
+Geschäftszahl
+2Ob561/51
+Norm
+EO §1;
+Handelskammergesetz §29;
+Handelskammergesetz §31;
+Handelskammergesetz §57;
+JN §1;
+Umlagenordnung §5;
+Umlagenordnung §6;
+Umlagenordnung §7;
+Umlagenordnung §9;
+Umlagenordnung §§10 ff;
+Umlagenordnung §12;
+Umlagenordnung §13;
+Verwaltungsvollstreckungsgesetz §1;
+Kopf
+SZ 24/209
+Spruch
+Einverleibungsgebühren, die anläßlich der Erlangung von Berechtigungen zum Betrieb kammerzugehöriger Unternehmen zu entrichten sind, sind öffentliche Abgaben, die im Verwaltungsweg und nicht im Rechtsweg einzutreiben sind.
+Entscheidung vom 29. August 1951, 2 Ob 561/51.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Eine Innung hatte die sogenannte Einverleibungsgebühr für einen Gewerbeschein im Wege der Klage begehrt.
+Das Erstgericht hatte der bei der ersten Tagsetzung erhobenen Einrede der Unzulässigkeit des Rechtsweges stattgegeben.
+Das Rekursgericht hatte in Abänderung des erstgerichtlichen Beschlusses diese Einrede verworfen.
+Der Oberste Gerichtshof hat dem Revisionsrekurs der beklagten Partei Folge gegeben und den erstgerichtlichen Beschluß wiederhergestellt.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Innung ist als Fachgruppe im Sinne des Abschnittes III A. § 29 des HKG. anzusehen und stellt deswegen als Organisation der gewerblichen Wirtschaft eine Körperschaft des öffentlichen Rechtes nach § 7 Abs. 2 HKG. dar. Ihr obliegt darum auch für ihren Bereich die Beschlußfassung über die Höhe der sogenannten Einverleibungsgebühren, die anläßlich der Erlangung von Berechtigungen zum Betrieb kammerzugehöriger Unternehmen zu entrichten sind, und deren Einhebung (§ 57 Abs. 7 HKG.).
+Das Erstgericht hat seine Entscheidung damit begrundet, daß diese Gebühren öffentlich-rechtliche und darum gemäß § 57 Abs. 10 HKG. im Verwaltungswege einzutreiben sind. Das Rekursgericht lehnt die Anwendung dieser Gesetzesstelle deswegen ab, weil sie nur von "Umlagen" spricht, ein Begriff, den es mit dem der in § 57 Abs. 2 HKG. genannten "Grundumlage", vielleicht auch mit dem der in § 57 Abs. 3 genannten Zuschläge zur Gewerbesteuer, die in § 9 Umlagenordnung die Bezeichnung "Kammerumlage" erhalten haben, gleichstellt. Dieser Ansicht kann nicht zugestimmt werden.
+Darüber, daß auch die sogenannten Einverleibungsgebühren nach § 57 Abs. 2 HKG. und § 13 Umlagenordnung als öffentliche Abgaben anzusehen sind, kann kein Zweifel bestehen. Dieser Charakter kommt ihnen zu, weil sie
+1. in Beziehung zu den Organisationen der gewerblichen Wirtschaft stehen, die nach dem HKG. gebildet und Körperschaften öffentlichen Rechtes sind,
+2. unter jenen Beiträgen genannt sind, welche der Deckung der Kosten dienen (§ 57 HKG.).
+3. unter den in der Umlagenordnung genannten Umlagen und Gebühren behandelt erscheinen (§ 13 UmlagenO.),
+4. weil der Beschluß über die Höhe der Gebühren der Genehmigung des Bundesministeriums für Handel und Wiederaufbau unterliegt (§ 57 Abs. 7 HKG.),
+5. weil die Fachgruppen einen Teil dieser Einnahmen ihrem Fachverband (§ 31 HKG.) für Zwecke der Wirtschaftsförderung abzuführen haben (§ 57 Abs. 7, Abs. 11, Abs. 12 HKG.),
+6. weil für die Einbringung der Einverleibungsgebühr als einer öffentlichen Abgabe die Bestimmungen des AbgEG. maßgebend sind (§ 1 AbgEG.),
+7. die Einverleibungsgebühren vom Bundesministerium für Handel und Wiederaufbau mit Wirksamkeit vom 31. Dezember 1949 mit Erlaß vom 11. Jänner 1949, Z. 80691-IV/15a/1948 (abgedruckt in den Amtl. Nachrichten des Bundesministeriums für Handel und Wiederaufbau Nr. 1 des 2. Jahrganges), genehmigt wurden.
+Die Bezugnahme auf § 1 Z. 3 VVG. in der angefochtenen Entscheidung ist rechtsirrig - es käme allenfalls § 3 Abs. 4 VVG. in Betracht -, da es sich um eine Eintreibung von Geldleistungen zugunsten einer öffentlich-rechtlichen Körperschaft handelt, der zu diesem Zwecke die politische Exekution gewährt ist. Denn während in § 6 UmlagenO. ausdrücklich bestimmt ist, daß die rückständigen Grundumlagen im Verwaltungswege einzutreiben sind (§ 57 Abs. 10 HKG.), wobei jedoch die von den Landeskammern ausgefertigten Rückstandsausweise zugleich auch einen Exekutionstitel im Sinne des § 1 EO. bilden, so daß die Hereinbringungsexekution gemäß § 3 Abs. 4 VVG. auch beim zuständigen Gericht beantragt werden kann (vgl. Mitteilung JABl. 1925, S. 101, P. 2, 3), wird hinsichtlich der Kammerumlage, die ja einen Zuschlag zur Gewerbesteuer darstellt, in §§ 88 ff. UmlagenO. sowohl die Einhebung durch die Finanzämter (§ 1 Abs. 3 VVG.) als auch die Selbsteinhebung durch die Landeskammern zugelassen. Bei Selbsteinhebung gelten aber hinsichtlich der zwangsweisen Eintreibung nach § 12 UmlagenO. die Bestimmungen der §§ 5 bis 7 UmlagenO. sinngemäß. Da die Kammern auf Grund ihrer Organisation und der ihnen eingeräumten Umlagenhoheit die Stellung einer Selbstverwaltungsbehörde besitzen, die allerdings selbst keine Vollstreckungsmaßnahmen durchführen können, steht ihnen darum der Weg der gerichtlichen oder gemäß § 6 UmlagenO. der der politischen Exekution offen.
+Hinsichtlich der Einverleibungsgebühren bestimmt § 13 Abs. 3 UmlagenO., daß sie von jedem Bewerber durch die Fachgruppe (den Fachverband) einzuheben ist. Daraus folgt, daß die nämlichen Grundsätze wie bei der Selbsteinhebung der Kammerumlage durch die Landeskammern (§§ 10 ff. UmlagenO.) anzuwenden sind, demnach sowohl der Weg der politischen Exekution als auch auf Grund der als Exekutionstitel anzusehenden rechtskräftigen Vorschreibung der der gerichtlichen Vollstreckung eingeschlagen werden kann (§ 2 AbgEG.).
+Diese Bestimmungen, welche der Abgrenzung der politischen von der gerichtlichen Exekution dienen, entscheiden aber nicht die hier allein maßgebende Frage, ob das Vorschreibungsverfahren und die Erwirkung eines Titels im Verwaltungswege oder aber im ordentlichen Rechtswege zu erfolgen hat. Der Begriff der bürgerlichen Rechtssache ist in § 1 JN. zu entnehmen. Den Landeskammern bzw. den Fachgruppen als Organen der Selbstverwaltung, denen die Umlagenhoheit in gewissen Grenzen vom Gesetzgeber eingeräumt ist, steht das Recht zu, diese Umlagen, hier also die sogenannte Einverleibungsgebühr, nach § 57 Abs. 7 HKG. selbständig nach Maßgabe der von der Bundeskammer erlassenen Rahmenordnung festzusetzen. Die Höhe der Gebühren wird durch Beschluß der Fachgruppe bestimmt, der der Bestätigung der Landeskammer bedarf, zu der noch die Genehmigung des Bundesministeriums für Handel und Wiederaufbau zu treten hat (§ 13 Abs. 1 UmlagenO.). Die Vorschreibung der auf Grund dieser generellen Normen fallweise zu entrichtenden Gebühr fällt somit in den Rahmen der Kammerautonomie und erfolgt nach den Bestimmungen des AVG. und den speziellen Normen des HKG. und der UmlagenO. Für eine Überprüfung dieser im Verwaltungsweg getroffenen Entscheidungen durch die Gerichte im Streitverfahren bietet das Gesetz hier keinen Raum. Die Entscheidung der Fachgruppe über die Höhe der im Einzelfall vom Berechtigten zu entrichtenden Umlage oder Einverleibungsgebühr stellt sich als eine von einer Verwaltungsbehörde getroffenen Entscheidung dar (vgl. E. d. VerwGH. Z. 2057/49, JBl. 1950 S. 511), die einer Überprüfung durch die ordentlichen Gerichte entzogen ist.
+Aus diesen Gründen ist der Rechtsweg zur Geltendmachung der Einverleibungsgebühr unzulässig. Es steht der Klägerin frei, auf Grund der rechtskräftig gewordenen Vorschreibung, die als Bescheid anzusehen ist, die Exekution in der weiter oben dargetanen Form einzuleiten.

@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.03.2016
+Geschäftszahl
+5Ob25/16m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache der Antragsteller 1. J***** O*****, geboren am *****, 2. D***** O*****, geboren am *****, beide *****, 3. J***** O*****, geboren am *****, alle vertreten durch Dr. Manfred Wild, öffentlicher Notar in Obernberg am Inn, wegen Einverleibung des Eigentumsrechts und weiterer Grundbuchshandlungen ob den EZ 32, 33 und 150, jeweils GB *****, über den außerordentlichen Revisionsrekurs des Drittantragstellers gegen den Beschluss des Landesgerichts Ried im Innkreis als Rekursgericht vom 10. Dezember 2015, AZ 6 R 137/15m, mit dem der Beschluss des Bezirksgerichts Ried im Innkreis vom 24. September 2015, TZ 3721/2015, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Text
+Begründung:
+Der Revisionsrekurs gegen einen im Rahmen des Rekursverfahrens ergangenen Beschluss ist gemäß § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG nur dann zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt. Eine solche Frage zeigt der außerordentliche Revisionsrekurs nicht auf:
+Rechtliche Beurteilung
+1. Wenn es um den Erwerb oder die Änderung eines dinglichen Rechts geht, kann die Einverleibung aufgrund von Privaturkunden nur bewilligt werden, wenn dieser Urkunde ein gültiger Rechtsgrund für das einzutragende Recht zu entnehmen ist (§ 26 Abs 2 GBG; vgl RIS-Justiz RS0061070).
+2. Das Grundbuchsgericht hat das Ansuchen und dessen Beilagen gemäß § 94 Abs 1 GBG einer genauen Prüfung zu unterziehen und darf eine grundbücherliche Eintragung (ua) nur dann bewilligen, wenn das Begehren durch den Inhalt der beigebrachten Urkunden begründet erscheint (§ 94 Abs 1 Z 3 GBG). Es entspricht der ständigen Rechtsprechung des Obersten Gerichtshofs, dass es im Rahmen dieser Verpflichtung des Grundbuchsgerichts dessen Aufgabe ist, auch zu prüfen, ob der Urkundeninhalt nicht nur in formeller Beziehung unbedenklich erscheint, sondern auch in materiell-rechtlicher Hinsicht frei von Zweifel ist. Ein Ansuchen kann somit nur dann bewilligt werden, wenn der Urkundeninhalt auch bezüglich der materiell-rechtlichen Fragen keinerlei Zweifel aufkommen lässt (RIS-Justiz RS0060878). Es ist dem Grundbuchsgericht verwehrt, eine undeutliche und zu begründeten Zweifeln Anlass gebende Urkunde auszulegen. Durch den Inhalt der Urkunden erweckte und nicht restlos beseitigte Zweifel haben vielmehr zur Abweisung des Grundbuchsgesuchs zu führen (
+RIS-Justiz
+RS0060573
+).
+Anderes gilt nur für durch den Wortlaut der Urkunden gedeckte, unmittelbare logische
+Schlussfolgerungen (RIS-Justiz
+RS0060573 [T16]).
+3. Gegenstand des Revisionsrekursverfahren ist der - auf eine im außerbücherlichen Eigentum des Drittantragstellers stehende Liegenschaft bezogene - Antrag auf Einverleibung des Eigentumsrechts für den Erstantragsteller und die Zweitantragstellerin je zur Hälfte und Eintragung eines Belastungs- und Veräußerungsverbots für den Drittantragsteller. Diesem Grundbuchsgesuch liegt ein Schenkungsvertrag zugrunde. Die Vorinstanzen gingen aufgrund der konkreten Vertragsformulierung davon aus, dass der darin enthaltene Rechtsgrund für das einzutragende Eigentumsrecht die Schenkung durch den Drittantragsteller und dessen Ehegattin (und nicht eine Schenkung durch den Drittantragsteller allein) bildet, zumindest aber bilden könnte. Die Schenkung (auch) durch die Ehegattin des Drittantragstellers setzt einen vom Drittantragsteller abgeleiteten außerbücherlichen Zwischenerwerb eines Miteigentumsanteils voraus. Der für eine derartige Sprungeintragung iSd § 22 GBG erforderliche (vgl RIS-Justiz RS0060662, RS0060710, RS0107463) urkundliche Nachweis liegt hier jedoch unstrittig nicht vor.
+4. Ob die dem Gesuch angeschlossenen Urkunden im Lichte der § 94 Abs 1 Z 3 GBG zu Zweifeln Anlass geben, ist eine typische Frage des Einzelfalls (5 Ob 74/14i). Das Rekursgericht hat unter Hinweis auf einzelne in diesem Sinn interpretierbare Vertragsbestimmungen zumindest in Zweifel gezogen, dass der Geschenkgeber des Schenkungsvertrags der Drittantragsteller allein ist. Darin liegt nach eben diesen Umständen des Einzelfalls keine unvertretbare Rechtsansicht, die vom Obersten Gerichtshof aufgegriffen werden müsste. Der Drittantragsteller wiederholt in seinem Revisionsrekurs lediglich seine schon im Rekurs angeführten Argumente, denen bereits das Rekursgericht überzeugend entgegnet hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00025.16M.0322.000

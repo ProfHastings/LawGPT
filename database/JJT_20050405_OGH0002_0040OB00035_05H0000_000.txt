@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.04.2005
+Geschäftszahl
+4Ob35/05h
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin des Obersten Gerichtshofs Hon. Prof. Dr. Griß als Vorsitzende und die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Gitschthaler als weitere Richter in der Rechtssache der klagenden Partei C***** GmbH, *****, vertreten durch Reif und Partner Rechtsanwälte OEG in Graz, gegen die beklagte Partei N***** GmbH, *****, vertreten durch HauerPuchleitnerMajer Rechtsanwälte OEG in Gleisdorf, wegen Unterlassung und Veröffentlichung (Streitwert im Provisorialverfahren 42.000 EUR), über den außerordentlichen Revisionsrekurs der Beklagten gegen den Beschluss des Oberlandesgerichts Graz vom 11. Jänner 2005, GZ 6 R 267/04p18, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+Rechtliche Beurteilung
+1. Die Beklagte macht als erhebliche Rechtsfrage geltend, dass die angefochtene Entscheidung nichtig sei. Das Erstgericht habe von der Klägerin vorgelegte Urkunden seiner Entscheidung zugrunde gelegt, ohne ihr Gelegenheit zur Äußerung zu geben. Die Beklagte übersieht, dass im Provisorialverfahren der Grundsatz des rechtlichen Gehörs nicht gilt (4 Ob 91/89 = ÖBl 1990, 32 - VERGLEICHSANGEBOT AN DRITTE mwN). Schon aus diesem Grund liegt insoweit keine erhebliche Rechtsfrage vor.
+2. Nach § 2 Z 1, § 40a UrhG sind Computerprogramme Werke der Literatur (und damit urheberrechtlich geschützt), wenn sie das Ergebnis der eigenen geistigen Schöpfung ihres Urhebers sind. Geschützt wird dabei nicht ein durch ihre Anwendung erzieltes Arbeitsergebnis, sondern die durch die Kombination vieler Programmschritte erreichte und damit individuell geprägte Problemlösung (4 Ob 282/99w = MR 1999, 346; Kucsko, Geistiges Eigentum [2003] 1115). Sie sind häufig mühevolle, unter entsprechendem Arbeitsaufwand hergestellte Leistungen (4 Ob 292/98i = MR 1999, 171 [Walter] - MITTELSCHULATLAS). Voraussetzung für ihren Schutz ist, dass sie eine gewisse Komplexität aufweisen (Schramböck, Urheberrechtsschutz von InternetWebsites und anderen Bildschirmdarstellungen von Computerprogrammen, ecolex 2000, 126).
+Die Beklagte macht als erhebliche Rechtsfrage geltend, dass Rechtsprechung zur Frage fehle, ob das Gericht als bescheinigt annehmen könne, dass ein Computerprogramm ein Werk im Sinne des Urheberrechtsgesetzes ist, wenn Vorbringen dazu gänzlich fehle. Diese Frage stellt sich schon deshalb nicht, weil die Beklagte die - von der Klägerin behauptete (insbesondere AS 8 f) - Werkeigenschaft des Programms in erster Instanz gar nicht in Zweifel gezogen hat. Sie hat vielmehr vorgebracht, Miturheberin des Programms zu sein (insbesondere AS 21, 29).
+3. Keine erhebliche Rechtsfrage bildet auch die Frage der Anwendbarkeit des § 40d UrhG sowie der Auslegung dieser Bestimmung. § 40d UrhG regelt die freie Werknutzung von Computerprogrammen. Danach dürfen Computerprogramme vervielfältigt und bearbeitet werden, soweit dies für ihre bestimmungsgemäße Benutzung durch den zur Benutzung Berechtigten notwendig ist; hiezu gehört auch die Anpassung an dessen Bedürfnisse (§ 40d Abs 2 UrhG).
+Die Beklagte hat sich in erster Instanz nicht auf die freie Werknutzung berufen. Sie hat vielmehr geltend gemacht, sie habe das alleinige und ausschließliche Werknutzungsrecht eingeräumt erhalten, ein wesentlicher Teil der Programme stamme von ihr und sie sei daher Miturheberin (AS 29). Nach dem festgestellten Sachverhalt hat die Beklagte ihren Kunden auch zugesichert, die Software werde „uneingeschränkt gewartet, weiterentwickelt und dem neuesten Stand der Technik angepasst" (AS 151). Für die - überdies als unzulässige Neuerung unbeachtliche - Berufung auf die freie Werknutzung fehlt daher jede Grundlage.
+Insgesamt war der außerordentliche Revisionsrekurs somit zurückzuweisen.

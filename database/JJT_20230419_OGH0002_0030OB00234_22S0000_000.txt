@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+3Ob234/22s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Erlagssache der Antragstellerin D* AG, *, vertreten durch Weh Rechtsanwalt GmbH in Bregenz, gegen die Antragsgegner 1) D* T*gesmbH, *, Deutschland, vertreten durch Mag. Martin Ulmer und Mag. Florin Reiterer, Rechtsanwälte in Bregenz, und 2) W* GmbH & Co KG, *, vertreten durch Weh Rechtsanwalt GmbH in Bregenz, wegen Erlag gemäß § 1425 ABGB, über den außerordentlichen Revisionsrekurs der Antragstellerin und der Zweitantragsgegnerin gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 13. September 2022, GZ 2 R 231/22v-14, den
+Beschluss
+gefasst:
+Spruch
+I. Der von der Zweitantragsgegnerin erhobene „außerordentliche Revisionsrekurs“ wird zurückgewiesen.
+II. Der außerordentliche Revisionsrekurs der Antragstellerin wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Gegenstand des Verfahrens ist ein Erlagsantrag der Antragstellerin (Drittschuldnerin = Bank der Zweitantragsgegnerin) nach § 1425 ABGB hinsichtlich der zugunsten der Erstantragsgegnerin (Betreibenden) exekutiv gepfändeten Guthaben der Zweitantragsgegnerin (Verpflichteten) aus Kontoverbindungen und nicht ausgenützten Krediten bei der Drittschuldnerin. Die Antragstellerin beruft sich auf eine unklare Rechtslage aufgrund eines von der Zweitantragsgegnerin behaupteten Prätendentenstreits zwischen dieser und der Erstantragsgegnerin. Nach der Behauptung der Zweitantragsgegnerin sei die von der zugrunde liegenden Forderungsexekution umfasste Forderung der Betreibenden durch Aufrechnung getilgt.
+Rechtliche Beurteilung
+[2] 		Das Rekursgericht wies den Erlagsantrag ab.
+Zu I.:
+[3] 		Nach der Rechtsprechung des Obersten Gerichtshofs liegt im Fall der Abweisung eines Erlagsantrags nach § 1425 ABGB – auch bei Benennung mehrerer Erlagsgegner – keine Beeinträchtigung der materiellen Rechtsstellung des Erlagsgegners vor, weshalb das Rechtsmittel mangels Beschwer als unzulässig zurückzuweisen ist (7 Ob 219/15d mwN).
+Zu II.:
+[4] 		1. Das Rekursgericht ist bei der Beurteilung der Erlagsvoraussetzungen nach § 1425 ABGB von den zutreffenden Rechtsgrundsätzen ausgegangen. Wird ein Erlagsantrag – wie hier – damit begründet, dass mehrere Forderungsprätendenten auf den Erlagsgegenstand Anspruch erheben und der oder die wahren Gläubiger nicht mit zumutbarem Aufwand zu ermitteln sind, so ist im Rahmen der dem Erlagsgericht obliegenden Schlüssigkeitsprüfung zu beurteilen, ob die Angaben des Erlegers über die auf den Erlagsgegenstand geltend gemachten Ansprüche rechtlich plausibel sind und ob schlüssig dargelegt wurde, dass der wahre Gläubiger mit zumutbarem Aufwand nicht ermittelt werden kann (5 Ob 135/03v; 3 Ob 190/03t). Die Beurteilung der Schlüssigkeit des Erlagsantrags richtet sich nach den Umständen des Einzelfalls und begründet in der Regel keine erhebliche Rechtsfrage (RS0112198 [T21]; 5 Ob 75/20w).
+[5] 		2. Im Anlassfall ist die Antragstellerin an die rechtskräftige Exekutionsbewilligung gebunden (vgl 7 Ob 266/98p). Damit ist ihr untersagt, über die gepfändeten Guthaben der Zweitantragsgegnerin auf eine Weise zu verfügen, die der Pfändung samt Überweisung zuwiderläuft.
+[6] 		3. Zur angeblichen Tilgung der Titelforderung durch Aufrechnung der Zweitantragsgegnerin stützt sich die Antragstellerin darauf, dass die Zweitantragsgegnerin die Kompensationserklärung schon im Titelverfahren in Deutschland erhoben habe, diese wegen des dort beurteilten Aufrechnungsverbots aber nicht berücksichtigt worden sei und die Zweitantragsgegnerin daher in Deutschland eine (gesonderte) Zahlungsklage gegen die Erstantragsgegnerin eingebracht habe.
+[7] 		Schon aus diesem eigenen Vorbringen der Antragstellerin folgt, dass eine Aufrechnung bislang offenbar nicht erfolgreich war. Eine Zahlungsklage der Zweitantragsgegnerin könnte gegebenenfalls zu einem Titel gegen die Erstantragsgegnerin führen, was derzeit der erwirkten Pfändung und dem Verfügungsverbot nicht entgegensteht. Damit vermag sich die Zweitantragsgegnerin im Hinblick auf die zur Hereinbringung der Titelforderung gepfändeten Guthaben auf keinen plausiblen Auszahlungsanspruch gegenüber der Antragstellerin zu berufen. Für die Antragstellerin kann daher auch nicht zweifelhaft sein, wem das gepfändete Guthaben zusteht.
+[8] 		Die Beurteilung des Rekursgerichts, dass sich das Vorbringen der Antragstellerin zum angeblichen Prätendentenstreit nach der Aktenlage als unschlüssig erweise und das Vorliegen eines tauglichen Erlagsgrundes iSd § 1425 ABGB zu verneinen sei, ist demnach keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung.
+[9] 		4. Inwieweit sich die Antragstellerin als österreichische Gesellschaft in einem österreichischen Erlagsverfahren – im Zusammenhang mit einem Aufrechnungsverbot nach deutschem Recht – auf das unionsrechtliche Diskriminierungsverbot aus Gründen der Staatsangehörigkeit berufen können sollte, vermag sie nicht nachvollziehbar darzulegen.
+[10] 		5. Mangels erheblicher Rechtsfrage war der außerordentliche Revisionsrekurs der Antragstellerin zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00234.22S.0419.000

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.04.2016
+Geschäftszahl
+6Ob70/16m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden und gefährdeten Partei Mag. R***** F*****, vertreten durch die Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH & Co KG in Graz, gegen die beklagten Parteien und Gegner der gefährdeten Partei 1. B***** L*****, 2. Mag. K***** H*****, 3. D***** GmbH, *****, zweit- und drittbeklagte Parteien vertreten durch Mag. Thomas Klein, Rechtsanwalt in Graz, wegen 1. Unterlassung, 2. Beseitigung, 3. Widerruf/Veröffentlich-ung, 4. Schadenersatz/Rettungsaufwand und 5. Feststellung, über den Revisionsrekurs der zweitbeklagten Partei gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 3. Februar 2016, GZ 5 R 6/16s-42, womit insoweit die einstweilige Verfügung des Landesgerichts für Zivilrechtssachen Graz vom 26. November 2015, GZ 10 Cg 87/15b-32, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag der Zweitbeklagten, die Rechtssache gemäß Art 89 B-VG dem Verfassungsgerichtshof bzw gemäß Art 267 AEUV dem Gerichtshof der Europäischen Union zur Prüfung vorzulegen, wird zurückgewiesen.
+2. Der Revisionsrekurs wird zurückgewiesen.
+3. Die klagende und gefährdete Partei hat die Kosten der Revisionsrekursbeantwortung vorläufig selbst zu tragen.
+Begründung:
+Rechtliche Beurteilung
+1. Zum Spruchpunkt 1.:
+Eine Prozesspartei hat nach ständiger Rechtsprechung keinen verfahrensrechtlichen Anspruch, die Einleitung eines Gesetzesprüfungsverfahrens vor dem Verfassungsgerichtshof oder die Einleitung eines Vorabentscheidungsverfahrens vor dem Gerichtshof der Europäischen Union durch das Gericht zu beantragen, sodass der entsprechende Antrag der Zweitbeklagten zurückzuweisen ist (RIS-Justiz RS0058452 [T3, T5, T14, T21]). Amtswegig besteht kein Grund, an den Verfassungsgerichtshof oder den Gerichtshof der Europäischen Union heranzutreten, zumal die Rechtsmittelwerberin zu keiner einzigen Norm konkrete von einem dieser Gerichte zu prüfende Fragen darstellt und solche auch nicht ersichtlich sind.
+2. Zum Spruchpunkt 2.:
+2.1. Die Zurückweisung eines ordentlichen Revisionsrekurses wegen Fehlens einer erheblichen Rechtsfrage im Sinn des § 528 Abs 1 ZPO kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 letzter Satz iVm § 528a ZPO iVm § 402 Abs 4 iVm § 78 EO).
+2.2.1. Die Revisionsrekurswerberin sieht in ihrem Antrag nach § 528 Abs 2a ZPO erhebliche Rechtsfragen darin, dass
+a) „alleine die Frage der Passivlegitimation eines ehemaligen Directors [gemeint: der Zweitbeklagten] einer gelöschten Gesellschaft [gemeint: die vormals viertbeklagte Limited nach englischem Recht] zu einer Handlung im Rahmen einer einstweiligen Verfügung, die er tatsächlich nicht (weder technisch noch faktisch) ausführen kann“
+b) sowie die Frage, „ob eine Dritte [gemeint: die Klägerin] Persönlichkeitsrechte eines anderen geltend machen kann, ohne dass ein Beweisergebnis darüber getroffen wurde, dass eine Nahebeziehung zwischen tatsächlich Betroffenem und Drittem besteht“.
+2.2.2. Damit hat die Revisionsrekurswerberin keine erheblichen Rechtsfragen aufgezeigt:
+Zu a) Die Rechtsmittelwerberin geht nicht vom festgestellten Sachverhalt aus: Dass die Zweitbeklagte (die nicht nur „Director“ der im englischen Register gelöschten vormaligen Viertbeklagten, einer Limited nach englischem Recht, war, sondern auch Geschäftsführerin der drittbeklagten GmbH ist) eine Handlung im Rahmen einer einstweiligen Verfügung tatsächlich nicht (weder technisch noch faktisch) ausführen kann, wurde nicht festgestellt. Vielmehr steht fest, dass die Zweitbeklagte auch nach Löschung der vormals Viertbeklagten Betreiberin der gegenständlichen Homepage ist. Die Vorinstanzen haben sie als Diensteanbieterin nach § 3 Z 2 ECG qualifiziert, auf die § 16 Abs 1 ECG anzuwenden ist; diese Bestimmung setzt aber die Möglichkeit des Diensteanbieters auf einen Zugriff auf Informationen in einem elektronisch im Fernabsatz auf individuellen Abruf des Empfängers bereitgestellten Dienst (vgl § 3 Z 1 ECG) voraus.
+Zu b) Diese Frage ist schon deshalb nicht relevant, weil die Klägerin nicht Persönlichkeitsrechte eines Dritten, sondern eigene Persönlichkeitsrechte geltend macht.
+2.3.1. Das Rekursgericht hat erst nachträglich (§ 528 Abs 2 Z 1a und Abs 2a iVm § 508 ZPO iVm § 402 Abs 4 iVm § 78 EO) den Revisionsrekurs zugelassen, weil keine hinreichend gefestigte Judikatur zur Haftung für Rechtsverletzungen in Websites bei Verschleierung des Impressums bestehe.
+2.3.2. Diese Frage ist irrelevant, weil das Rekursgericht die einstweilige Verfügung nur gegen die drittbeklagte Domaininhaberin mit dem Argument, das Impressum sei verschleiert worden, bewilligt hat. Partei des Revisionsrekursverfahrens ist aber nur die Zweitbeklagte; gegen diese wurde die einstweilige Verfügung nicht wegen Verschleierung, sondern aus den oben unter Punkt 2.2.2. a) genannten Gründen bewilligt.
+2.4. Im Übrigen enthält das Rechtsmittel nur die Rüge von bereits vom Rekursgericht verneinten Verfahrensmängeln (Verstoß gegen § 405 ZPO [vgl RS0041089], unrichtige Belehrung der Auskunftspersonen) sowie eine Rüge der Beweiswürdigung der Vorinstanzen. Beides kann in dritter Instanz nicht mehr geltend gemacht werden (RIS-Justiz RS0042963 [T4]; Zechner in Fasching/Konecny, ZPO2 § 528 Rz 40).
+3. Zum Spruchpunkt 3.:
+Die Kostenentscheidung gründet sich auf die §§ 393 Abs 1, 78 Abs 1, 402 Abs 4 EO, §§ 40, 50 ZPO. Ein Kostenzuspruch für die Revisionsrekursbeantwortung ist im Hauptverfahren grundsätzlich möglich, weil die Klägerin auf die Unzulässigkeit des Revisionsrekurses hingewiesen hat. Eine Kostenentscheidung betreffend die Kosten der zweitbeklagten Partei für den Revisionsrekurs entfällt, weil die zweitbeklagte Partei im Rechtsmittel keine Kosten verzeichnet hat.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00070.16M.0426.000

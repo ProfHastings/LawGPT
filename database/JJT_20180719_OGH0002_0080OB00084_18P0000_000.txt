@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.07.2018
+Geschäftszahl
+8Ob84/18p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, den Hofrat Mag. Dr. Wurdinger die Hofrätin Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Insolvenzsache des Schuldners F*, Insolvenzverwalter Mag. Gerald Niesner, Rechtsanwalt in Graz, über den außerordentlichen Revisionsrekurs der Gläubigerin A*, vertreten durch Dr. Peter Schaden, Mag. Werner Thurner, Rechtsanwälte in Graz, gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 19. April 2018, GZ 3 R 34/18x-56, mit dem der Rekurs der Gläubigerin gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz vom 28. Februar 2018, GZ 26 S 104/15m-52, zurückgewiesen wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO iVm § 252 IO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Das Erstgericht hat mit Beschluss vom 28. 2. 2018 das über das Vermögen des Schuldners eröffnete Insolvenzverfahren gemäß § 139 IO aufgehoben. Das Rekursgericht hat den dagegen von der Gläubigerin  A* erhobenen Rekurs mit der Begründung als unzulässig zurückgewiesen,  die Gläubigerin hätte in Form von Erinnerungen gegen den Verteilungsentwurf oder mit Rekurs gegen den diesen Verteilungsentwurf genehmigenden Beschluss geltend zu machen gehabt, dass der vom Insolvenzverwalter bestrittene Teil ihrer verspätet angemeldeten Forderung nicht berücksichtigt bzw sichergestellt worden war.
+2. Bestrittene (nicht titulierte) Forderungen sind gemäß § 131 Abs 3 IO bei der Verteilung nur zu berücksichtigen, wenn die Frist zur Erhebung der Klage (§ 110 Abs 4 IO) noch offen oder wenn die Klage spätestens an dem Tage angebracht worden ist, an dem der Insolvenzverwalter den Antrag auf Verteilung gestellt hat (vgl 8 Ob 2138/96m = ZIK 1997, 148).
+Dass eine Forderung bestritten ist, verhindert nicht die (vorläufige) Berücksichtigung. Solange eine Forderung nicht festgestellt ist, kommt zwar eine Auszahlung der Quote nicht in Betracht. Diese ist aber nach §§ 131 Abs 1, 133 Abs 1 IO sicherzustellen (Kodek in Bartsch/Pollak/Buchegger, InsR4 § 131 KO Rz 3 und 7).
+Wenn die Frist des § 110 Abs 4 IO noch nicht abgelaufen ist, etwa weil – wie hier – die besondere Prüfungstagsatzung über eine verspätet angemeldete Forderung mit der Schlussrechnungs- und Verteilungstagsatzung verbunden wurde, ist abzuwarten, ob der Gläubiger rechtzeitig die Prüfungsklage einbringt. Die Schlussverteilung kann in diesem Fall sofort erfolgen; allerdings ist der auf die bestrittene Forderung entfallende Betrag gemäß § 131 Abs 1 IO sicherzustellen (RIS-Justiz RS0112866; 8 Ob 125/99m) und nach Ablauf der Klagefrist gemäß § 138 IO nachträglich zu verteilen (Kodek aaO § 136 KO Rz 17).
+Die Tatsache, dass eine (bestrittene) Forderung nicht im Verteilungsentwurf aufgenommen wurde oder darin nicht angegeben wurde, ob die bestrittene Forderung sichergestellt wird, ist mit Erinnerungen gegen den Verteilungsentwurf oder Rekurs gegen den Verteilungsbeschluss geltend zu machen (1 Ob 113/07k; Fuchsbauer/Kolland-Twaroch/Kolland, Die Behandlung bestrittener abgabenrechtlicher Insolvenzforderungen im Prüfungsverfahren nach § 110 IO und deren Sicherstellung; ZIK 2015, 55, 56).
+Der Beschluss, mit dem das Insolvenzverfahren gemäß § 139 IO aufgehoben wird, kann nicht mehr mit dem Einwand der Unrichtigkeit des Verteilungsentwurfs bekämpft werden (zum inhaltsgleichen § 139 Abs 1 KO: 8 Ob 2062/96k; 8 Ob 288/98f; Kodek aaO § 136 KO Rz 13).
+3. Die Beurteilung des Rekursgerichts steht mit dieser Rechtslage im Einklang.
+Die Gläubigerin hat den am 8. 1. 2018 in die Insolvenzdatei aufgenommenen Beschluss vom selben Tag, mit dem der Schlussverteilungsentwurf des Insolvenzverwalters genehmigt wurde, unbekämpft in Rechtskraft erwachsen lassen, obwohl darin eine aufgrund der damals noch offenen Klagefrist gebotene Sicherstellung ihrer vom Insolvenzverwalter bestrittenen Forderung nicht vorgesehen war.
+Vor diesem Hintergrund zeigt die Gläubigerin weder mit der Behauptung, der Verteilungsbeschluss sei bis zur Klageeinbringung als „richtig“ anzusehen gewesen, noch mit dem Hinweis, sie hätte binnen 14 Tagen Rekurs gegen den Verteilungsbeschluss erheben müssen, demgegenüber aber eine einmonatige Frist zur Einbringung der Prüfungsklage eingeräumt bekommen, eine erhebliche Rechtsfrage auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E122497

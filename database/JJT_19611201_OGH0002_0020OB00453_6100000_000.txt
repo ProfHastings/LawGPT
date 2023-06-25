@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.12.1961
+Geschäftszahl
+2Ob453/61
+Norm
+KO §1;
+KO §7;
+ZPO §234;
+Kopf
+SZ 34/178
+Spruch
+Keine Unterbrechung des Rechtsstreites nach § 7 KO., wenn der Streitgegenstand zufolge Veräußerung an einen Dritten zwischen Prozeßbeginn und Konkurseröffnung kein Bestandteil der Soll-Konkursmasse ist.
+Entscheidung vom 1. Dezember 1961, 2 Ob 453/61.
+I. Instanz: Bezirksgericht Döbling; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Mit der am 10. März 1961 erhobenen Klage hat Karl S. als Altmieter der seinerzeitigen Wohnung Nr. 3 im Hause Wien 19., W.-Gasse 2 a, gegen die Miteigentümer der Liegenschaft das Begehren auf Verurteilung zur Anbietung gemäß § 20 WWG. gestellt. Die Beklagten haben diesen Anspruch bestritten. Es steht - u. a. - außer Streit, daß das Wohnungseigentum der Beklagten noch nicht grundbücherlich eingetragen ist. Im Zuge einer Zwangsversteigerung hat Karl M. am 17. April 1961 den Miteigentumsanteil des Erstbeklagten Franz K. (80/1000) erstanden. Über das Vermögen des Erstbeklagten ist vom Landesgericht für Zivilrechtssachen am 28. April 1961 der Konkurs eröffnet worden.
+Das Erstgericht hat ausgesprochen, daß das Verfahren zufolge Eröffnung des Konkurses über das Vermögen des Erstbeklagten Franz K. hinsichtlich aller beklagten Parteien unterbrochen sei.
+Zufolge des Rekurses des Klägers hat das Rekursgericht diesen Punkt des erstinstanzlichen Beschlusses aufgehoben.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der übrigen beklagten Parteien nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist zulässig. Es liegen inhaltlich difforme Beschlüsse der Untergerichte vor; das Rekursgericht hat ja im Gegensatz zur Erledigung des Erstgerichtes den Ausspruch der Unterbrechung des Rechtsstreites gemäß § 7 KO. abgelehnt. Es kommt aber auch die Rechtsmittelbeschränkung des § 192 Abs. 2 ZPO. nicht zur Anwendung, weil es sich nicht um Verfügungen prozeßleitender Natur im Sinne der §§ 187 ff. ZPO., sondern um die Anwendung der Bestimmungen der §§ 159 ZPO. und 7 KO. handelt (vgl. Rspr. 1927 Nr. 56 sowie die grundsätzlichen Ausführungen des SpR. 22 neu).
+Der sonach zulässige Revisionsrekurs ist aber im Ergebnis nicht begrundet.
+In materieller Hinsicht sind beide Vorinstanzen mit Recht von der ständigen Praxis des Obersten Gerichtshofes (vgl. z. B. SZ. XXVI 179, MietSlg. 7607) ausgegangen, daß wegen des Anspruches des Altmieters nach § 20 WWG. alle Miteigentümer geklagt werden müssen, solange nicht hinsichtlich der einzelnen Räume der Liegenschaft das Wohnungseigentum grundbücherlich eingetragen ist. Da nun nach der bezogenen Außerstreitstellung das Wohnungseigentum der Beklagten noch nicht grundbücherlich eingetragen worden ist, bilden die Beklagten als Liegenschaftseigentümer vor der bezogenen Eintragung eine einheitliche Streitpartei im Sinne des § 14 ZPO. Dies hätte aber zur Folge, daß die Unterbrechung des Rechtsstreites in bezug auf den Erstbeklagten Franz K. nach § 7 KO. auf seine sämtlichen Streitgenossen wirksam wäre; dies ist in § 7 Abs. 1 Satz 2 KO. normiert. Zutreffend hat nun das Rekursgericht die Annahme der Unterbrechung des Prozesses wegen der Eröffnung des Konkurses über das Vermögen des Erstbeklagten (28. April 1961) abgelehnt. Denn wenn auch die Streitigkeit vermögensrechtlicher Natur ist, wie beide Untergerichte angenommen haben, bildet doch der Streitgegenstand deswegen keinen Passivbestandteil der in dieser Hinsicht maßgeblichen Soll-Konkursmasse (vgl. Bartsch - Pollak, KO., AO. AnfO., 3. Aufl. I S. 16 f., 72; Jaeger - Lent, Konkursordnung, 8. Aufl. I S. 173 in Verbindung mit S. 1 f.), weil das Miteigentumsrecht des Erstbeklagten und seine darauf beruhende Anbotsverpflichtung nach § 20 WWG. bereits am 17. April 1961, also noch vor der Konkurseröffnung, zufolge der ausdrücklichen Anordnung des § 237 EO. aus dem Vermögen des Erstbeklagten ausgeschieden waren; der Ersteher Karl H. hatte bei der Zwangsversteigerung schon durch den Zuschlag vom 17. April 1961 Eigentum hinsichtlich des früheren Miteigentumsanteils des Erstbeklagten erworben (in diesem Zusammenhang kommt es auf die Erteilung des Zuschlages, nicht auf dessen Rechtskraft an; vgl. Klang 2. Aufl. II 355 f.). Im maßgeblichen Zeitpunkt der Konkurseröffnung (28. April 1961) hat also zur Soll-Masse der bezeichnete Passivbestandteil nicht mehr gehört, und aus diesem Grund ist die Unterbrechung dieses Rechtsstreites nicht eingetreten.
+Der Beurteilung des Rekursgerichtes über die Bedeutung des § 234 ZPO. kann allerdings nicht beigepflichtet werden. Denn nach der Praxis des Obersten Gerichtshofes (vgl. z. B. SZ. XXV 82) und überwiegender Lehrmeinung (vgl. z. B. Sperl, Lehrbuch der bürgerlichen Rechtspflege, S. 199 f.; Pollak, System des österreichischen Zivilprozeßrechtes, 2. Aufl. S. 188; in dieser Hinsicht ist auch auf Lehre und Rechtsprechung zu § 265 Abs. 2 DZPO.
+- vgl. Baumbach - Lauterbach, Kommentar zur ZPO., 26. Aufl. S. 474 ff. - zu verweisen) ist unter Veräußerung einer im Streit verfangenen Sache im Sinne des § 234 ZPO. jede Art von Einzelrechtsnachfolge in den Streitgegenstand zu verstehen. Damit ist aber für die Beschwerdeführer hinsichtlich der Frage der Unterbrechung dieses Rechtsstreites nichts gewonnen, weil es auf die Eventualbegundung der Vorinstanz nicht ankommt. Prozeßpartei bleibt allerdings weiterhin der Erstbeklagte Franz K., auch wenn Karl H. dessen Liegenschaftsanteil am 17. April 1961 erworben hat. Die Frage der Unterbrechung des Prozesses, die Gegenstand dieses Zwischenstreites ist, muß aber trotz der Eröffnung des Konkurses über das Vermögen des Erstbeklagten am 28. April 1961 im Sinne der Erledigung des Rekursgerichtes aus den obigen Erwägungen gelöst werden.

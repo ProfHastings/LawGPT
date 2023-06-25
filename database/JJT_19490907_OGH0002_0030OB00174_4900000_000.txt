@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.09.1949
+Geschäftszahl
+3Ob174/49
+Norm
+Außerstreitgesetz §1;
+Außerstreitgesetz §9;
+Außerstreitgesetz §19;
+Gesetz über Gesellschaften mit beschränkter Haftung §38;
+Gesetz über Gesellschaften mit beschränkter Haftung §41;
+Gesetz über Gesellschaften mit beschränkter Haftung §42;
+Vierte Einführungsverordnung zum Handelsgesetzbuch Art9;
+Kopf
+SZ 22/123
+Spruch
+Die Registrierung von Beschlüssen einer Gesellschaft mit beschränkter Haftung kann von einem Gesellschafter nur mittels Nichtigkeitsklage, nicht aber mittels Rekurses im Verfahren außer Streitsachen angefochten werden.
+Entscheidung vom 7. September 1949, 3 Ob 174/49.
+I. Instanz: Landesgericht Klagenfurt; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Registergericht ordnete auf Grund der notariellen Beurkundung über die bei der außerordentlichen Generalversammlung der AH. Gesellschaft mit beschränkter Haftung vom 4. Februar 1949 gefaßten Beschlüsse die Eintragung einer Reihe von Änderungen im Handelsregister an, darunter die Abberufung des Geschäftsführers Rudolf St. Den von diesem sowohl in Vertretung der Gesellschaft als auch im eigenen Namen als Gesellschafter erhobenen Rekurs verwarf das Rekursgericht, weil er dem Rekurswerber in seiner Eigenschaft als Gesellschafter nicht zustehe, während seine Vertretungsbefugnis für die Gesellschaft nicht mehr bestehe. Zur Begründung führt das Rekursgericht aus: Nach Artikel 9 der vierten handelsrechtlichen Einführungsverordnung sind in den Angelegenheiten, die von den Gerichten nach dem 7. Abschnitt ("Handelssachen") des FGG. zu behandeln sind, zwar die Vorschriften der §§ 1 bis 19 AußstrG. anzuwenden, somit auch die Bestimmungen der §§ 9 ff. über Rechtsmittel. Dies gilt jedoch nur dann, wenn das Gesetz nicht in Sondervorschriften über die Anfechtbarkeit abweichende Anordnungen trifft. Eine derartige Sondervorschrift stellt das GesmbHG. auf, indem es im § 41 den Gesellschafter mit dem Begehren um Nichtigerklärung von Generalversammlungsbeschlüssen auf den Klageweg beschränkt, ihm daher die Anfechtung von Registereintragungen, die auf angeblich nichtige Beschlüsse zurückgehen, im Wege des Rekurses versagt. Diese Auffassung deckt sich mit der vom Obersten Gerichtshof in seiner Entscheidung SZ. IV/145 vertretenen Ansicht, derzufolge die Registrierung von Beschlüssen einer Gesellschaft mit beschränkter Haftung von einem Gesellschafter nur mittels Nichtigkeitsklage, nicht aber mittels Rekurses im Außerstreitverfahren angefochten werden kann. Auf Grund der bei der außerordentlichen Generalversammlung vom 4. Februar 1949 gefaßten, im Notariatsakt GZ. 38 des öffentlichen Notars beurkundeten Beschlüsse wurde am 17. Februar 1949 St. als Geschäftsführer der Gesellschaft gelöscht und Dr. G. als alleiniger Geschäftsführer eingetragen. Durch diese Registereintragungen wurde die formelle Vertretungsbefugnis des Rekurswerbers für die Gesellschaft beseitigt, jene des Dr. G. aber hergestellt. Der dadurch herbeigeführte Verlust der formellen Legitimation des Rekurswerbers zur Vertretung der Gesellschaft genügt, ihm die Rekursberechtigung für die Gesellschaft abzusprechen - mag sie auch in der von ihm unter 15 Cg 60/49 des Erstgerichtes erhobenen Klage auf Nichtigerklärung der zugrunde liegenden Gesellschafterbeschlüsse materiell angefochten sein -, rechtfertigt daher die Verwerfung seines Rekurses, soweit er ihn als vermeintlicher Geschäftsführer der Gesellschaft erhoben hat.
+Der Oberste Gerichtshof wies den Revisionsrekurs zurück.
+Rechtliche Beurteilung
+Begründung:
+Wie der Oberste Gerichtshof bereits in seiner Entscheidung vom 19. Dezember 1922, SZ. IV/145, ausgesprochen hat, kann die Registrierung von Beschlüssen einer Ges. m. b. H. von einem Gesellschafter nur mittels Nichtigkeitsklage, nicht aber mittels Rekurses im Verfahren außer Streitsachen angefochten werden (§§ 41 und 42 GesmbHG.). Die Rechtsmittel, die einem Gesellschafter einer Ges. m. b. H. zustehen, sind in Abs. 2 und 4 des § 41 des Gesetzes vom 6. März 1906, RGBl. Nr. 58, genau umschrieben. Es ist dies die nur unter den dort genau angegebenen Voraussetzungen innerhalb bestimmter Frist einzubringende Nichtigkeitsklage, wozu noch allenfalls der Antrag auf Erlassung einer einstweiligen Verfügung behufs Aufschiebung der Ausführung des angefochtenen Beschlusses (§ 42 Abs. 4) kommt. Die Anfechtung der Eintragung von Beschlüssen im außerstreitigen Verfahren ist dem Gesellschafter jedoch versagt, wie auch aus den Motiven zum Herrenhausbericht zu dem bezogenen Gesetze hervorgeht (Beilage 236, S. 71 und 272, S. 11 und 21 zu den Protokollen des Herrenhauses, XVIII. Session).
+Daran hat auch der Artikel 9 der 4. Verordnung zur Einführung handelsrechtlicher Vorschriften im Lande Österreich vom 24. Dezember 1938 (DRGBl. I S. 1999, GBlÖ. Nr. 86/1939) nichts geändert. Auf Grund dieser Bestimmungen sollten lediglich mit Rücksicht auf die Einführung des deutschen Handelsgesetzbuches vom 10. Mai 1897 im österreichischen Rechtsgebiete an Stelle des in Österreich nicht in Geltung stehenden deutschen FGG. die Vorschriften der §§ 1 bis 19 des AußstrG. in Handelssachen Anwendung zu finden haben, womit nur der bisherige Rechtszustand bestätigt wurde, nicht aber wurde hiedurch die in den §§ 41 ff. GesmbHG. normierte Sonderregelung berührt.
+Da das Registergericht in den Gründen seines Eintragungsbeschlusses feststellte, daß der Gesellschafter Dr. G. den im § 38 GesmbHG. vorgeschriebenen Förmlichkeiten Genüge geleistet hat, somit die formellen Voraussetzungen zur beantragten Registereintragung gemäß § 38 GesmbHG. gegeben waren, steht dem Revisionsrekurswerber ein Rekursrecht nicht zu, sondern eben nur die in den §§ 41 ff. GesmbHG. vorgesehene Nichtigkeitsklage.

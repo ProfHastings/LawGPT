@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.06.1969
+Geschäftszahl
+2Ob102/69
+Norm
+Angestelltengesetz §8;
+Angestelltengesetz §40;
+Dienstordnung für die Verwaltungsangestellten bei den
+Sozialversicherungsträgern Österreichs §24;
+Kollektivvertragsgesetz §2;
+Kopf
+SZ 42/90
+Spruch
+Der Anspruch auf Fortzahlung des Entgelts nach § 8 AngG. kann auch nicht durch einen Kollektivvertrag beschränkt werden.
+Entscheidung vom 12. Juni 1969, 2 Ob 102/69.
+I. Instanz: Bezirksgericht für Zivilrechtssachen Graz; II. Instanz:
+Landesgericht für Zivilrechtssachen Graz.
+Text
+Am 25. September 1966 kam es zum Zusammenstoß zwischen dem PKW. des Dr. P. und jenem des Beklagten. Hiebei wurde die Gattin des Dr. P., Eleonore, verletzt. Sie war Angestellte der Klägerin und befand sich vom 26. September bis 2. November 1966 im Krankenstand, erhielt aber für diese Zeit ihre Dienstbezüge von der Klägerin ausbezahlt.
+Sowohl Dr. P. als auch der Beklagte wurden wegen dieses Verkehrsunfalles strafgerichtlich verurteilt.
+Die Klägerin begehrt den Ersatz von 7808.21 S vom Beklagten, weil nach § 24 der Dienstordnung für die Verwaltungsangestellten bei den Sozialversicherungsträgern Österreichs (DO-Ang.) der Schadenersatzanspruch der Eleonore P. auf sie übergegangen sei. Der Anspruch sei aber auch nach § 1042 ABGB. begrundet.
+Der Beklagte beantragt die Abweisung der Klage.
+Das Erstgericht wies die Klage ab, weil Eleonore P. nach § 8 (1) und
+(2) AngG. Anspruch auf Weiterzahlung des Entgelts gehabt habe, so daß ihr kein Schaden entstanden sei. Der Geschädigte könne auch nicht auf Lohnansprüche zum Nachteil des Schädigers verzichten, denn dann hätte er seinen Schaden selbst verursacht (RiZ. 1961 S. 199). Es handle sich um einen mittelbaren Schaden des Dienstgebers, den dieser nach der herrschenden Auslegung des § 1295 ABGB. auch nicht auf dem Umweg über § 1042 ABGB. ersetzt verlangen könne.
+Das Berufungsgericht gab der Klage statt. Es war der Ansicht, daß die DO-Ang. als Satzung zu werten und im Sinne der Bundesverfassung als Verordnung anzusehen sei. Somit lege eine allgemein verbindliche Norm den Übergang der dem Geschädigten zustehenden Ansprüche auf den Dienstgeber fest. Es handle sich um eine Legalzession ähnlich wie im § 332 ASVG. § 8 AngG. stehe dem nicht entgegen, weil § 24 DO-Ang. als Ausnahmsfall anzusehen sei.
+Der Oberste Gerichtshof stellte das Urteil des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Revisionswerber verweist darauf, daß die DO-Ang. eine dem § 8 AngG. nachrangige Bestimmung sei. Der Eleonore P. sei kein Schaden entstanden, der auf die Klägerin übergehen hätte können.
+Die Revisionsgegnerin wendet sich gegen die Auffassung, sie mache einen mittelbaren Schaden geltend. Es handle sich hier um eine Zession von Schadenersatzansprüchen. Der Dienstvertrag wäre mit Eleonore P. gar nicht abgeschlossen worden, wenn sie sich nicht der Satzung unterworfen und von vornherein der Zession ihrer Schadenersatzansprüche zugestimmt hätte. Sie erhalte nur deshalb ihre Bezüge weiter, weil sie schon im voraus ihre Schadenersatzansprüche abgetreten habe. Im übrigen habe die DO-Ang. Verordnungscharakter und könne der Anspruch auch auf § 1042 ABGB. gestützt werden.
+Der Revisionswerber bezeichnet die DO-Ang. als eine Verwaltungsverordnung. Der Inhalt des § 24 DO-Ang. ("Übergang von Ansprüchen. Haben dienstunfähige Angestellte aus einem die Dienstunfähigkeit begrundenden Ereignis Ansprüche gegen einen Dritten, gehen diese bis zur Höhe der weitergezahlten Bezüge einschließlich der vom Versicherungsträger als Dienstgeber getragenen sonstigen Aufwendungen auf diesen über, ausgenommen die Ansprüche auf Ersatz von Sachschaden und Heilungskosten sowie Schmerzengeld ...") stehe offensichtlich mit § 8 AngG. in Widerspruch, weil er für die Fortzahlung des Lohnes durch den Dienstgeber einen Übergang von Ansprüchen des Angestellten vorsieht. Es ergebe sich daher die Frage, ob eine gesetzwidrige Verordnung vorliege, deren Aufhebung beim Verfassungsgerichtshof zu beantragen wäre. Dies ist deshalb nicht der Fall, weil die DO-Ang. keine Verordnung, sondern ein Kollektivvertrag ist (Arb. 8167, 8381), so daß eine Anrufung des Verfassungsgerichtshofes nicht in Betracht kommt (SZ. XXVIII 157, 4 Ob 20/67 = ZAS. 1968, S. 50). Auf die Frage, ob die DO-Ang. auch Satzung sei, braucht nicht näher eingegangen zu werden, weil die Erklärung eines Kollektivvertrages zur Satzung nur die Bedeutung hat, daß die Bestimmungen des Kollektivvertrages auch außerhalb seines Geltungsbereiches für gleichartige Dienstverhältnisse maßgeblich sind (§ 14 (1) Kollektivvertragsgesetz). Am Wesen des Kollektivvertrages selbst in seinem ursprünglichen Geltungsbereich wird dadurch nichts geändert. Die Satzung verdrängt nicht den Kollektivvertrag, sondern dehnt seinen Geltungsbereich aus. Jeder (spätere) Kollektivvertrag setzt daher für seinen Geltungsbereich eine bestehende Satzung außer Kraft (§ 17 (4) Kollektivvertragsgesetz). Im vorliegenden Fall geht es aber nicht um eine Ausdehnung des Geltungsbereiches der DO-Ang. Wenn nun ein Kollektivvertrag eine Bestimmung enthält, die mit zwingendem Recht in Widerspruch steht, hat dies zur Folge, daß die betreffende Bestimmung nicht rechtsgültig und daher wirkungslos ist (Hofmann, KollektivvertragsG. S. 35, Arb. 7107).
+Nach § 8 (1) und (2) AngG. hat ein Angestellter für den Fall der Dienstverhinderung einen fortlaufenden Entgeltanspruch. Dieses Recht des Angestellten kann durch den Dienstvertrag weder aufgehoben noch beschränkt werden (§ 40 AngG.). § 24 DO-Ang. widerspricht also zwingendem Recht, weil für den Anspruch des Angestellten eine Gegenleistung, nämlich der Übergang des Schadenersatzanspruches auf den Dienstgeber, statuiert wird. Diese Bestimmung ist somit wirkungslos. Von zwingenden Rechtsvorschriften abweichende Regelungen kann ein Kollektivvertrag nur dann rechtswirksam treffen, wenn die Rechtsvorschrift ausdrücklich eine solche Ermächtigung vorsieht, wie z. B. § 17 (10) AngG. (Hofmann, a.a.O.) Aus § 1164 (2) ABGB. läßt sich nichts anderes ableiten, weil der Gesetzgeber eine entsprechende Regelung für den Bereich des Angestelltengesetzes (§ 40) nicht getroffen hat, vielmehr jede Beschränkung der Rechte des Angestellten u. a. aus § 8 AngG. durch den Dienstvertrag ausschließt, wogegen durch § 1164 (2) ABGB. die Möglichkeit einer abweichenden Regelung durch Kollektivvertrag offengehalten werden sollte (Erl. Bem. zu § 1164 (2) ABGB.; Tomandl, ÖJZ. 1962, S. 34). Hiebei verschlägt es nichts, daß nach § 61 DO-Ang. die Dienstbezüge bei Erkrankung in einem wesentlich weiteren Ausmaß weitergezahlt werden als nach § 8 AngG., weil die Krankheitsdauer im vorliegenden Falle den Rahmen des § 8 AngG. nicht überschreitet.
+Der Klagsanspruch kann nach ständiger Rechtssprechung auch nicht auf § 1042 ABGB. gestützt werden, weil mit Hilfe dieser Bestimmung der Ersatz mittelbaren Schadens nicht erreicht werden kann (2 Ob 361/66 = EvBl. 1967, Nr. 270).

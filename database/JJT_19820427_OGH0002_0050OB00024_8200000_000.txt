@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.1982
+Geschäftszahl
+5Ob24/82
+Norm
+ABGB §1078;
+Kopf
+SZ 55/57
+Spruch
+Bei Schenkung einer Liegenschaft kann ein Vorkaufsrecht, das vereinbarungsgemäß für alle Veräußerungsfälle gelten soll, für das jedoch nicht bereits bei der Vorkaufsrechteinräumung ein bestimmter oder auf eine festgelegte Weise bestimmbarer Preis vereinbart wurde, nicht ausgeübt werden; es ist auf den Beschenkten zu übertragen
+OGH 27. April 1982, 5 Ob 24/82 (LGZ Wien 46 R 1509/81; BG Hietzing TZ 4521/81)
+Text
+Auf Grund des Schenkungsvertrages vom 30. 6. 1981 begehrte der Antragsteller mit dem am 27. 10. 1981 beim Erstgericht überreichten Gesuch die Einverleibung seines Eigentumsrechtes zu einem Drittelanteil an der ganzen Liegenschaft EZ 180 des Grundbuches über die KG A zu Lasten der einverleibten zwei Drittelanteile der Miteigentümerin Dr. Karin N. An diesem Tage war die Liegenschaft, die zu zwei Drittelanteilen Dr. Karin N und zu einem Drittelanteil Agatha S gehörte, mit einem Fruchtgenußrecht für Anastasia V und der Dr. Karin N gehörige Anteil mit einem Vorkaufsrecht gemäß Punkt 10 des Schenkungsvertrages vom 2. 4. 1974 für Dr. Edith N und Agatha S belastet.
+Nach der Bestimmung des Punktes 10 des Schenkungsvertrages vom 2. 4. 1974 zwischen der damaligen Alleineigentümerin der oben bezeichneten Liegenschaft, Anastasia V, und den von dieser mit je einem Drittelanteil beschenkten Frauen Dr. Edith N, Erika H und Agatha S räumten die Beschenkten einander in Ansehung der von ihnen erworbenen Miteigentumsanteile "das Vorkaufsrecht gemäß § 1072 ff. ABGB für alle Veräußerungsarten, daher auch gemäß § 1078 ABGB" wechselseitig ein.
+Das Erstgericht bewilligte die vom Antragsteller begehrte Einverleibung.
+In Stattgebung eines Rekurses der vorkaufsberechtigten Miteigentümerin Agatha S wies das Gericht zweiter Instanz das Grundbuchgesuch des Antragstellers ab. Es sprach die Ansicht aus, daß das einverleibte Vorkaufsrecht nach Punkt 10 des Schenkungsvertrages vom 2. 4. 1974, das alle Veräußerungsarten, also auch eine Schenkung, erfasse, durch den Schenkungsvertrag zwischen Dr. Karin N und dem Antragsteller ausgelöst worden sei; deshalb hätte der Nachweis erbracht werden müssen, daß "die Liegenschaft" der Vorkaufsberechtigten zum Ankauf angeboten, von dieser aber das Vorkaufsrecht nicht ausgeübt worden sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Antragstellers Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es ist allgemein in Lehre und Rechtsprechung anerkannt, daß auch die Schenkung zu den Veräußerungsarten zählt, die iS der Anordnung des § 1078 ABGB ein Vorkaufsrecht auslösen können (Bydlinski in Klang[2] IV/2, 873; Faistenberger, Das Vorkaufsrecht 110; SZ 35/91 ua.). Während sich die Rechtsprechung bisher - soweit überschaubar - mit diesem Problem noch nicht befaßte, besteht in der Lehre Streit darüber, was rechtens ist, wenn nicht bereits bei der Vorkaufseinräumung ein bestimmter oder auf eine festgelegte Weise bestimmbarer Preis vereinbart wurde. Bydlinski (aaO 880) ist der Ansicht, es sei die erweiterte Vorkaufsabrede zugleich als Einigung auf den durch Schätzung zu ermittelnden gemeinen Wert (§ 305 ABGB) der Vorkaufssache zu verstehen; Faistenberger hingegen meint (aaO 115), in einem solchen Fall könne das Vorkaufsrecht nicht ausgeübt werden, weil es an einem Wertmaßstab für den Einlösungspreis vollständig fehle.
+Gegen die Annahme des gemeinen Wertes der Sache spricht, daß der Geschenkgeber einen in Geld ausdrückbaren "Gegenwert" (Freude, Dankbarkeit, Wohlwollen, gute Meinung uä.) für seine unentgeltliche Leistung in aller Regel nicht im Auge hat; käme es ihm auf einen in Geld ausdrückbaren Gegenwert an, dann würde er nicht schenken, sondern verkaufen oder tauschen. Wenn überhaupt, so könnten nur subjektive Wertvorstellungen des Geschenkgebers maßgebend sein, die aber nicht durchschaubar sind. Der OGH teilt deshalb mit Faistenberger die Ansicht, daß infolge vollständigen Fehlens eines Wertmaßstabes das Vorkaufsrecht nicht ausgeübt werden kann; es ist aber in einem solchen Fall auf den Beschenkten zu übertragen (SZ 35/91; EvBl. 1967/275). Dies ist hier geschehen, denn der Miteigentumsanteil des Antragstellers ist, wie dem in den Akten erliegenden Grundbuchsauszug mit Abfragedatum 1982-03-19 zu entnehmen ist, mit dem Vorkaufsrecht gemäß Pkt 10 des Schenkungsvertrages vom 4. 2. 1974 für Dr. Edith N und Agatha S belastet.

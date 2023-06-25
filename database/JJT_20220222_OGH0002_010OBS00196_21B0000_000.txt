@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.02.2022
+Geschäftszahl
+10ObS196/21b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofräte Mag. Ziegelbauer und Mag. Schober sowie die fachkundigen Laienrichter Mag. Antonia Oberwalder (aus dem Kreis der Arbeitgeber) und Gerald Fida (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei H*, vertreten durch Dr. Astrid Wagner, Rechtsanwältin in Wien, gegen die beklagte Partei Pensionsversicherungsanstalt, Friedrich-Hillegeist-Straße 1, 1021 Wien, wegen Invaliditätspension, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 21. Oktober 2021, GZ 8 Rs 94/21h-39, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+[1] 		Die Vorinstanzen wiesen das Begehren des Klägers, ihm ab 1. Dezember 2019 die Invaliditätspension, in eventu Rehabilitationsgeld zu gewähren, ab.
+[2] 		Der Kläger genieße keinen Berufsschutz. Da es ihm trotz der gesundheitlichen Einschränkungen möglich sei, Tätigkeiten auf dem allgemeinen Arbeitsmarkt nachzugehen, liege keine vorübergehende oder dauernde Invalidität vor.
+[3] 		In seiner außerordentlichen Revision sieht der Kläger eine Rechtsfrage von erheblicher Bedeutung darin, dass die Tatsacheninstanzen der Einschätzung (der Ärzte) des BBRZ Med, wonach er nicht arbeitsfähig sei, keine Bedeutung zugemessen hätten. Das sei nicht nachvollziehbar, werde doch das BBRZ Med vom AMS regelmäßig herangezogen, um die Zweckmäßigkeit beruflicher Maßnahmen der Rehabilitation zu beurteilen. Zur Frage, ob eine Verweisung auf den allgemeinen Arbeitsmarkt zulässig sei, obwohl eine Einrichtung des AMS von der Arbeitsunfähigkeit des Versicherten ausgehe, fehle es an höchstgerichtlicher Judikatur.
+Rechtliche Beurteilung
+[4] 		1. Damit zeigt der Kläger keine Rechtsfrage im Sinn des § 502 Abs 1 ZPO auf.
+[5] 		2. Der Oberste Gerichtshof hat bereits in der Entscheidung 10 ObS 138/09f (SSV-NF 23/72) ausgeführt, dass Gutachten des BBRZ der freien Beweiswürdigung des Gerichts unterliegende Beweismittel darstellen und
+– ungeachtet des damaligen § 8 Abs 3 AlVG (idF vor dem SRÄG 2010, BGBl I 2010/62) – auch keine Bindungswirkung im sozialrechtlichen Verfahren entfalten. Diese Ansicht wurde trotz vereinzelter Kritik der Lehre (Reisenhofer, Anmerkung zu 10 ObS 138/09f, EvBl 2010/31, 224) in den Entscheidungen 10 ObS 157/10a und 10 ObS 104/11h ausdrücklich aufrecht erhalten (RS0125422).
+[6] 		3. Darauf aufbauend ist dem Kläger zu entgegnen:
+[7] 		3.1. Die Beurteilung, ob und in welchem Umfang durch bestehende Leidenszustände die Leistungsfähigkeit des Versicherten eingeschränkt ist, stellt eine nicht revisible Tatfrage dar, die durch die Gerichte erster und zweiter Instanz aufgrund von Gutachten ärztlicher Sachverständiger zu klären ist (RS0084399 [T5]). Auch die Feststellungen, welche Tätigkeiten aufgrund des medizinischen Leistungskalküls noch verrichtet werden können und welche Berufsanforderungen bestehen, gehören ausschließlich dem Tatsachenbereich an (RS0043118). Ein Akt der nicht revisiblen Beweiswürdigung ist es auch, wenn das Gericht einem (medizinischen) Sachverständigengutachten folgt und dessen Einschätzungen seinen Feststellungen zugrundelegt (RS0043163 [T7]).
+[8] 		3.2. Mit seiner Kritik, die vom Gericht bestellten Sachverständigen seien trotz Kenntnis der Einschätzung des BBRZ Med zu einem anderen Ergebnis als das BBRZ Med gekommen, spricht der Kläger allein die Beweiskraft der Gutachten an, wendet sich also gegen die vor dem Obersten Gerichtshof unanfechtbare Beweiswürdigung der Vorinstanzen (RS0042903 [T2]).
+[9] 		4. Zusammenfassend wurden die Feststellungen zur „Arbeitsunfähigkeit“ des Klägers daher in freier Würdigung der auch den Entlassungsbericht des BBRZ Med berücksichtigenden Sachverständigengutachten getroffen, was in dritter Instanz nicht überprüfbar ist (RS0113643 [T7]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:010OBS00196.21B.0222.000

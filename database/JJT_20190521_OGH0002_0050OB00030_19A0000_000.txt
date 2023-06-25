@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.05.2019
+Geschäftszahl
+5Ob30/19a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei C***** GmbH, *****, vertreten durch die BLS Rechtsanwälte Boller Langhammer Schubert GmbH in Wien, gegen die beklagte Partei T***** Z*****, vertreten durch Dr. Wulf Kern, Rechtsanwalt in Wien, wegen 34.602,82 EUR sA, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse 29.495,13 EUR) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 19. November 2018, GZ 11 R 106/18s-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Beim Schuldbeitritt (kumulative Schuldübernahme) tritt der Übernehmer neben dem Altschuldner in das Schuldverhältnis ein. Der Schuldbeitritt kommt durch einen Vertrag zwischen Altschuldner und Neuschuldner (Schuldnervertrag) beziehungsweise einen solchen zwischen Neuschuldner und Gläubiger (Gläubigervertrag) zustande (RIS-Justiz RS0108117).
+2. Ob ein Vertrag im Einzelfall – insbesondere unter Erforschung der im konkreten Fall verfolgten Parteiabsicht – richtig ausgelegt wurde, wirft nach ständiger Rechtsprechung nur dann eine erhebliche Rechtsfrage (§ 502 Abs 1 ZPO) auf, wenn in krasser Verkennung der Auslegungsgrundsätze ein unvertretbares, aus Gründen der Einzelfallgerechtigkeit zu korrigierendes Auslegungsergebnis erzielt wurde (RS0042936; RS0112106; RS0042776 [T31]; RS0044358 [T20, T31]).
+3. Ein unvertretbares Auslegungsergebnis vermag die Revision nicht aufzuzeigen.
+Die aus einer Erklärung abzuleitenden Rechtsfolgen sind nicht danach zu beurteilen, was der Erklärende sagen wollte oder was der Erklärungsempfänger darunter verstanden hat, sondern danach, wie die Erklärung bei objektiver Beurteilung der Sachlage zu verstehen war (RS0014205). Bei Auslegung der Willenserklärung nach den §§ 914 f ABGB ist zunächst vom Wortsinn in seiner gewöhnlichen Bedeutung auszugehen, dabei aber nicht stehen zu bleiben, sondern der Wille der Parteien, das ist die dem Erklärungsempfänger erkennbare Absicht des Erklärenden, zu erforschen und die Willenserklärung letztlich so zu verstehen, wie es der Übung des redlichen Verkehrs entspricht, wobei die Umstände der Erklärung und die im Verkehr geltenden Gewohnheiten und Gebräuche heranzuziehen sind (RS0017915). Abzustellen ist auf den objektiven Erklärungswert der Willensäußerung (RS0014160), der (erst) dann seine Bedeutung verliert, wenn der natürliche Konsens der Parteien damit nicht übereinstimmt (RS0014160 [T22]; RS0017839 [T1]).
+Die Auffassung des Berufungsgerichts, der Schuldbeitritt des Beklagten sei seinem objektiven Erklärungswert nach als unbedingter Schuldbeitritt zu verstehen, hält sich im Rahmen dieser Rechtsprechungsgrundsätze und bedarf keiner Korrektur im Einzelfall. Die in der Revision aufgeworfenen Fragen der ergänzenden Vertragsauslegung stellen sich nicht. Eine solche würde eine planwidrige Unvollständigkeit des Vertrags voraussetzen (5 Ob 58/18t; RS0017829). Für die Annahme einer solchen „Vertragslücke“ bleibt nach dem festgestellten Sachverhalt ebenso wenig Raum, wie für die vom Beklagten behauptete Haftungsbefreiung zufolge eines treuwidrigen Verhaltens der Klägerin.
+4. Der Beklagte zeigt in seiner Revision somit keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf. Die behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO). Die Revision war daher als unzulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00030.19A.0521.000

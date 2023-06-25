@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.10.1949
+Geschäftszahl
+2Ob442/49
+Norm
+ABGB §1295;
+ABGB §1323;
+EO §35;
+EO §36 Z3;
+ZPO §228;
+ZPO §240;
+ZPO §411;
+ZPO §502;
+ZPO §503 Z3;
+Kopf
+SZ 22/148
+Spruch
+Wenn die Unterinstanzen hinsichtlich eines die Revisionsgrenze nicht übersteigenden Teiles des Klagebegehrens gleichförmig entschieden haben, ist die Revision gegen diesen Teilausspruch auch dann unzulässig, wenn der Wert des gesamten Klagebegehrens 10.000 S übersteigt.
+Hat der Gläubiger auf die Einleitung der Exekution verzichtet, kann der Schuldner nur unter der Voraussetzung, daß bereits gegen ihn eine Exekution bewilligt worden ist, nach § 36 Z. 3 EO. auf Unterlassung, vom Exekutionstitel Gebrauch zu machen, klagen; eine Feststellungsklage - unabhängig von einer Exekutionsführung - ist wegen der materiellen Rechtskraft unzulässig.
+Entscheidung vom 7. Oktober 1949, 2 Ob 442/49.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Klägerin hat einerseits die Verurteilung des Beklagten zur Zahlung eines Betrages von 6500 S s. A. und andererseits die Feststellung beantragt, daß der Anspruch des Beklagten aus einem Versäumungsurteil auf Zahlung von 4685 S s. A. u. a. nicht zu Recht bestehe.
+Das Prozeßgericht hat dem Leistungsbegehren stattgegeben, das Feststellungsbegehren jedoch abgewiesen.
+Das Berufungsgericht, das von beiden Parteien angerufen worden war, hat auch dem Feststellungsbegehren stattgegeben und hinsichtlich des Leistungsbegehrens das erstgerichtliche Urteil bestätigt.
+Der Oberste Gerichtshof hat die Revision des Beklagten, soweit sie gegen den bestätigenden Teil des berufungsgerichtlichen Urteiles gerichtet war, zurückgewiesen, ihr im übrigen Folge gegeben und das erstgerichtliche Urteil in seinem abweisenden Teil wiederhergestellt.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Revision ist, soweit sie gegen den bestätigenden Teil des berufungsgerichtlichen Urteiles gerichtet ist, nach § 502 Abs. 3 ZPO. unzulässig, weil das Leistungsbegehren auf Zahlung von 6500 S samt 5% Zinsen ab 1. März 1947 gerichtet war, demnach 10.000 S nicht überstieg. Haben beide Unterinstanzen gleichförmig hinsichtlich eines die Revisionsgrenze nicht übersteigenden Teiles des Klagebegehrens entschieden, ist die Revision gegen diesen Teilausspruch auch dann unzulässig, wenn der Wert des gesamten Klagebegehrens 10.000 S übersteigt.
+Es erübrigt sich daher eine Erörterung des zu diesem Punkt des angefochtenen Urteils geltend gemachten Revisionsgrundes des § 503 Z. 3 ZPO.
+Dagegen ist die Revision berechtigt, soweit sie den abändernden Teil der berufungsgerichtlichen Entscheidung bekämpft.
+Das Erstgericht stützte die Abweisung des Feststellungsbegehrens auf die Erwägung, daß die Rechtssache des Landesgerichtes für Zivilrechtssachen Wien rechtskräftig entschieden sei und es darum nicht angehe, in Form eines neuerlichen Klagebegehrens feststellen zu lassen, daß ein rechtskräftiges Urteil nicht zu Recht bestehe.
+Die zweite Instanz fand diese Begründung unzureichend und rechtsirrig und verwies, offenbar zur Begründung des Bestehens eines rechtlichen Interesses der klagenden Partei an der alsbaldigen Feststellung des Nichtbestehens jenes urteilsmäßigen Anspruches, darauf, daß der Beklagtenanwalt mit Schreiben vom 7. März 1947 der klagenden Partei mitgeteilt habe, er werde aus dem Versäumnisurteil "ohne Auftrag" seines Mandanten keine wie immer gearteten rechtlichen Folgen ableiten. Wohl könne der Kläger sich gegen eine allfällige Exekution mit Klage nach § 35 EO. wehren. Eine solche Exekution sei zwar bisher nicht geführt worden, die klagende Partei könne aber auf Grund des bezogenen Schreibens mit einer solchen Exekutionsführung rechnen und habe darum ein Feststellungsinteresse, daß der Anspruch aus dem Versäumungsurteil nicht zu Recht bestehe.
+Dieser von der Revision mit der Rechtsrüge bekämpften Ansicht vermag sich der Oberste Gerichtshof nicht anzuschließen.
+Wenn auch das Begehren nicht auf Aufhebung oder Unwirksamerklärung des vollstreckbaren Urteiles, sondern des Anspruches aus diesem gerichtet ist, wird durch dieses Begehren jedenfalls die materielle Rechtskraft eines Urteiles bekämpft. Der Oberste Gerichtshof hat wiederholt ausgesprochen, daß durch ein rechtskräftiges Urteil über den Klagsanspruch endgültig entschieden wird und daß, solange es zu Recht besteht, eine neuerliche Entscheidung darüber unzulässig ist. Eine Aufhebung des Urteiles selbst kann nur in den in der Zivilprozeßordnung angeführten Fällen (Wiedereinsetzung, Nichtigkeits- und Wiederaufnahmsklage) erfolgen, vermittels der dort vorgesehenen Rechtsbehelfe und Rechtsmittelklagen. Abgesehen davon ist es wegen der über alle anderen Erwägungen zu stellenden Bedeutung der Beachtung der materiellen Rechtskraft unzulässig, ein Urteil, das formell rechtskräftig ist, aufzuheben oder für rechtsunwirksam zu erklären (vgl. SZ. XIV/1, 31, SZ. XII/303, ZBl. 1931, Nr. 116). Diese Ansicht entspricht auch der Lehre (Neumann, S. 1176, Pollak, S. 532, Sperl, S. 816, 819 ff. und vor allem S. 830, ebenso Petschek in ZBl. 1927, S. 631 zu SZ. X/27) und der Oberste Gerichtshof hat die vereinzelt (SZ. X/27) vertretene Ansicht, daß bei Leistungsurteilen dem formellen Mißbrauch der Rechtskraft, zum Beispiel bei vertragswidrig erwirkten oder erschlichenen Versäumungsurteilen, im Weg einer auf Wiederherstellung des früheren Zustandes gerichteten Schadenersatzklage nach §§ 1295, 1323 ABGB., mit der die Unwirksamerklärung des Urteiles oder des aus ihm erwachsenen Anspruches begehrt wird, entgegengetreten werden könne, in einer Reihe gegenteiliger späterer Entscheidungen längst aufgegeben. Nur dann, wenn der Beklagte auf Grund des vertragswidrig erwirkten Versäumungsurteiles bereits Exekution beantragt hätte und diese bewilligt worden wäre, könnte unter der im vorliegenden Fall allerdings gegebenen Voraussetzung, daß er sich vergleichsweise verpflichtet hat, von dem erwirkten Urteil keinen Gebrauch zu machen, die Exekution wirksam mit einer Klage bekämpft werde. Diese Klage wäre aber nicht, wie das Berufungsgericht irrig annimmt, die sogenannte Oppositionsklage des § 35 EO., da der als anspruchsaufhebende oder hemmende Tatsache angerufene Vergleich bereits vor Entstehung des Exekutionstitels errichtet worden ist, sondern die sogenannte Impugnationsklage des § 36 EO. Mit der auf § 36 Z. 3 EO. gestützten Klage hätte der Kläger dann zu behaupten, daß der betreibende Gläubiger auf die Einleitung der Exekution verzichtet hat, wobei es unerheblich ist, ob dieser Verzicht auf die Exekutionsführung vor oder nach Beginn der Exekution bzw. vor oder nach Entstehung des Exekutionstitels erfolgte (ZBl. 1928, Nr. 180, SZ. V/51, Neumann - Lichtblau, S. 176). Fehlt es auch an dieser Voraussetzung, erweist sich weder der Weg der Klage nach § 35 EO. noch jener nach § 36 EO. als gangbar (Neumann - Lichtblau, S. 163, Anmerkung 2).
+Das Begehren wäre im Fall eines Verzichtes des Gläubigers auf Einleitung der Exekution dahin zu formulieren gewesen, der Beklagte sei schuldig, zu unterlassen, von diesem Urteil Gebrauch zu machen. Allein dieses Klagebegehren würde, wie dargelegt, als Einwendung gegen die Exekutionsbewilligung nach § 36 Z. 3 EO. voraussetzen, daß bereits gegen den Verpflichteten Exekution auf Grund des vertragswidrig erwirkten Versäumungsurteiles bewilligt wurde. Diese Voraussetzung trifft im vorliegenden Fall nicht zu.
+Eine Feststellungsklage erweist sich aus den angeführten Gründen als unzulässig.

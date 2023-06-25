@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.09.2019
+Geschäftszahl
+7Ob148/19v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei G***** R*****, vertreten durch Dr. Christoph Reitmann, Rechtsanwalt in Klagenfurt, gegen die beklagte Partei D***** G*****, vertreten durch Dr. Thomas Krankl, Rechtsanwalt in Wien, wegen 5.876 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Wiener Neustadt als Berufungsgericht vom 31. Mai 2019, GZ 58 R 11/19v-37, mit dem das Urteil des Bezirksgerichts Mödling vom 21. Dezember 2018, GZ 4 C 1044/17h-30, teilweise bestätigt und teilweise abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 418,78 EUR (darin enthalten 69,80 EUR an USt) bestimmten Kosten des Revisionsverfahrens zu ersetzen.
+Text
+Begründung:
+Der Kläger (= Käufer) begehrte vom Beklagten (= Verkäufer) nach dem Erwerb eines Kraftfahrzeugs aus dem Titel der Wertminderung die Zahlung des Klagsbetrags wegen des Fehlens eines „lückenlosen“ Servicehefts. Im Revisionsverfahren ist strittig, was zwischen den Parteien im Zusammenhang mit dem dem Käufer zur Verfügung zu stellenden Serviceheft als vertraglich geschuldet gelten sollte.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Eine Verletzung des Unmittelbarkeitsgrundsatzes durch das Berufungsgericht liegt vor, wenn dieses von den Feststellungen des Erstgerichts ohne Beweiswiederholung abgeht oder wenn es ohne Beweiswiederholung Feststellungen aufgrund der in erster Instanz aufgenommenen Beweise ergänzt (RS0043057). Derartiges liegt hier aber – entgegen den Behauptungen des Klägers – nicht vor. Das Berufungsgericht hat lediglich (auch) dislozierte Feststellungen des Erstgerichts berücksichtigt, was mit vorliegender Rechtsprechung im Einklang steht (RS0043110). Demnach wurde zwischen den Parteien „nicht ausdrücklichen besprochen, in welchem Umfang Eintragungen in dem Serviceheft vorhanden sein müssen“.
+2. Bei der darauf aufbauenden Erforschung des wahren Parteiwillens handelt es sich um eine gemischte Frage (quaestio mixta), bei der zwischen der Sammlung von Indizien für den Parteiwillen als Tatsachenfeststellung und deren rechtlicher Bewertung zu unterscheiden ist (RS0017797 [T11]). Demnach sind die im Zug von Vertragsverhandlungen von den Parteien über den Abschluss eines Vertrags abgegebenen gegenseitigen Erklärungen sowie ihre diesen Erklärungen allenfalls nicht entsprechende, jedoch übereinstimmende Absicht Gegenstand der Tatsachenfeststellungen. Hingegen ist die Frage, welche Rechtswirkungen dadurch erzielt wurden, eine Frage der rechtlichen Beurteilung der Sache (RS0017882 [T2]).
+3. Aus den vorliegenden Feststellungen ergibt sich in tatsächlicher Hinsicht nur die Pflicht des Beklagten zum Nachreichen eines inhaltlich nicht spezifizierten Servicehefts. Die Werteinschätzung durchschnittlicher Kunden ersetzt nicht eine konkrete Leistungsvereinbarung. Ausgehend von den abgegebenen Vertragserklärungen der Parteien haben die Vorinstanzen den geschuldeten Leistungsinhalt (im Zusammenhang mit dem Serviceheft) rechtlich unterschiedlich beurteilt.
+4. Ob aber ein Vertrag im Einzelfall richtig ausgelegt wird, ist keine erhebliche Rechtsfrage (RS0042776; RS0044298), es sei denn, es läge infolge einer wesentlichen Verkennung der Rechtslage ein Auslegungsergebnis vor, das in dem durch die maßgeblichen Auslegungskriterien (§§ 914 f ABGB) gesteckten Rahmen nicht mehr Deckung findet. Diese Voraussetzungen sind hier nicht gegeben. Die Rechtsansicht des Berufungsgerichts, dass die unspezifizierte Vereinbarung nicht als Verpflichtung des Beklagten zum Nachweis einer lückenlosen Servicierung zu verstehen ist, hält sich im Rahmen der Judikatur.
+5. Der Kläger vermag insgesamt das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht aufzuzeigen. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+6. Die Kostenentscheidung gründet auf §§ 41, 50 ZPO. Der Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0070OB00148.19V.0918.000

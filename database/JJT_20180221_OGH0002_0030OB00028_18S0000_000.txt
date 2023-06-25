@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.02.2018
+Geschäftszahl
+3Ob28/18s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Exekutionssache der betreibenden Partei DI A*, vertreten durch Nistelberger & Parz Rechtsanwälte OG in Wien, gegen die verpflichteten Parteien 1. Dkfm. B*, 2. Mag. M*, 3. DI I*, alle vertreten durch Dr. Corvin Hummer, Mag. Birke Schönknecht, Rechtsanwälte in Wien, wegen Teilung gemäß § 351 EO, über den Revisionsrekurs der verpflichteten Parteien gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 27. Dezember 2017, GZ 47 R 318/17p-15, womit der Beschluss des Bezirksgerichts Döbling vom 26. August 2017, GZ 26 E 19/17m-11, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die betreibende Partei hat die Kosten ihrer Revisionsrekursbeantwortung selbst zu tragen.
+Text
+Begründung:
+Das Erstgericht bewilligte dem Betreibenden gegen die Verpflichteten aufgrund eines vollstreckbaren Urteils des Landesgerichts für Zivilrechtssachen Wien, mit dem die Miteigentumsgemeinschaft der Parteien an einer Liegenschaft durch Begründung von Wohnungseigentum gemäß § 3 Abs 1 Z 3 WEG 2002 aufgehoben wurde, die Exekution gemäß § 351 EO.
+Das Erstgericht unterbrach das Verfahren auf Antrag der Verpflichteten bis zur rechtskräftigen Entscheidung über eine von den Verpflichteten gegen den Betreibenden eingebrachte Feststellungsklage, deren Gegenstand für die Entscheidung im Exekutionsverfahren präjudiziell sei.
+Das Rekursgericht wies den Unterbrechungsantrag infolge Rekurses des Betreibenden ab. Der Rekurs sei trotz der Rechtsmittelbeschränkung des § 351 Abs 2 EO zulässig, weil diese nur den Zweck habe, eine Verzögerung des Verfahrens zu vermeiden, und Beschlüsse, durch die – wie hier – die Fortsetzung des Verfahrens verweigert werde, nach der Rechtsprechung anfechtbar seien. Eine Unterbrechung des Exekutionsverfahrens komme aus mehreren Gründen nicht in Betracht.
+Das Rekursgericht ließ den ordentlichen Revisionsrekurs zur Frage zu, ob mangels Vorliegens der Voraussetzungen der §§ 42 ff EO die Unterbrechung eines Exekutionsverfahrens nach § 351 EO in (analoger/subsidiärer) Anwendung des § 190 ZPO in Betracht komme.
+Rechtliche Beurteilung
+Der Revisionsrekurs der Verpflichteten ist absolut unzulässig.
+Gemäß § 351 Abs 2 EO sind die im Teilungsverfahren ergehenden Beschlüsse mit Ausnahme des Beschlusses, wodurch die Teilung endgültig bestimmt wird, unanfechtbar. Diese Bestimmung ist im Hinblick auf ihren Zweck, jede Verzögerung des Verfahrens zu vermeiden, insofern einschränkend auszulegen, als Beschlüsse, mit denen die Einleitung oder Fortsetzung des Verfahrens verweigert wird, wie insbesondere ein Einstellungsbeschluss, anfechtbar sind (RIS-Justiz RS0004296 [T3, T4]). Gleiches gilt für die (stattgebende oder abweisende) Entscheidung über den  Exekutionsantrag (RIS-Justiz RS0116633; RS0004296 [T5]) und wegen ihres Zusammenhangs mit dem jedenfalls anfechtbaren Teilungsbeschluss auch für die – für die Liegenschaftsteilung durch Begründung von Wohnungseigentum erforderliche – Nutzwertfestsetzung (3 Ob 259/03i = RIS-Justiz RS0118837, RS0004296 [T6]). Ein Rekurs gegen die Bewilligung der Fortsetzung des Teilungsverfahrens ist hingegen unzulässig (3 Ob 118/78 = RIS-Justiz RS0004296 [T1]).
+Ausgehend von dieser Rechtsprechung hat das Rekursgericht den Unterbrechungsbeschluss des Erstgerichts zwar zutreffend als anfechtbar beurteilt; die Abweisung des Unterbrechungsantrags durch das Rekursgericht ist allerdings unanfechtbar, was auch den zu § 192 Abs 2 ZPO zugrunde liegenden Wertungen entspricht.
+Der dagegen erhobene Revisionsrekurs ist daher zurückzuweisen.
+Der Antrag auf Zuspruch von Kosten der Revisionsrekursbeantwortung ist abzuweisen, weil das Rechtsmittelverfahren in Exekutionssachen – von hier nicht vorliegenden Ausnahmen abgesehen – einseitig ist. Nach ständiger Rechtsprechung des erkennenden Senats ist eine dennoch erstattete Revisionsrekursbeantwortung mangels gesetzlicher Anordnung nicht zurückzuweisen (RIS-Justiz RS0118686 [T1]; sie dient allerdings nicht der zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung und ist daher nicht zu honorieren (RIS-Justiz RS0118686 [T12]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E121063

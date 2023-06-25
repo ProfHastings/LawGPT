@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.1965
+Geschäftszahl
+6Ob84/65
+Norm
+ABGB §1170;
+ABGB §1486 Z1;
+Kopf
+SZ 38/44
+Spruch
+Der nicht im vorhinein fix vereinbarte Werklohn wird erst mit der innerhalb verkehrsüblicher Frist erfolgten Zumittlung der Rechnung fällig, mit der der Lauf der Verjährungsfrist beginnt
+Entscheidung vom 24. März 1965, 6 Ob 84/65
+I. Instanz: Bezirksgericht Wiener Neustadt; II. Instanz:
+Kreisgericht Wiener Neustadt
+Text
+Der Kläger hat für die Beklagte Baumeisterarbeiten geleistet, die Ende August 1961 zur Gänze abgeschlossen waren. Das Gerüst wurde erst Mitte September 1961 abgeholt, nachdem es schon vorher abgebaut worden war. Die Rechnung über diese Arbeiten datiert vom 18. September 1961.
+Das Erstgericht wies das auf Zahlung eines restlichen Werklohnes von 10.217.47 S gerichtete Klagebegehren auf Grund dieses außer Streit stehenden Sachverhaltes ohne Aufnahme weiterer Beweise ab. Es führte aus, die dreijährige Verjährungsfrist nach § 1486 Z. 1 ABGB. beginne mit der objektiven Möglichkeit der Klageeinbringung zu laufen. Dies sei beim Werkvertrag gemäß § 1170 ABGB. mangels anderer Vereinbarung mit der Vollendung des Werkes und nicht erst mit der Rechnungslegung, demnach im vorliegenden Fall mit Ende August 1961. Da die Klage erst am 11. September 1964 eingebracht wurde, sei der ihr zugrundeliegende Anspruch verjährt.
+Das Berufungsgericht hob dieses Urteil auf und verwies die Sache unter Rechtskraftvorbehalt zu neuer Verhandlung und Entscheidung an das Erstgericht zurück. Hiezu führte es aus, ganz allgemein setze der Beginn der Verjährung von Geldforderungen deren Fälligkeit voraus. Falls bei Werkverträgen im vorhinein ein bestimmter Pauschalpreis vereinbart sei, der Besteller also wisse, wieviel er zu zahlen habe, möge der Lauf der Verjährung mit der Beendigung der Arbeiten beginnen. Mangels eines solchen im vorhinein fixierten Pauschalpreises jedoch ergebe sich aus der Natur der Sache die Notwendigkeit einer der Arbeitsvollendung nachfolgenden Abrechnung oder Rechnungslegung. Diese führe erst die Fälligkeit des Anspruches herbei und löse den Beginn der Verjährungsfrist aus. Eine Rechnungslegung 18 Tage nach Beendigung der Arbeiten sei während der Bausaison keinesfalls unangemessen oder unüblich.
+Im fortgesetzten Verfahren werde daher zu klären sein, ob der auf die ursprünglich in Auftrag gegebenen Verputzarbeiten entfallende Lohn von 15.200 S, auf den die Beklagte unbestrittenermaßen 10.000 S bezahlt habe, ein fix vereinbarter Pauschalpreis war, der einer Rechnungslegung dicht bedurfte, in welchem Falle die Restforderung von 5200 S verjährt sein könnte; hinsichtlich des auf die nachträglich in Auftrag gegebenen Arbeiten entfallenden Betrages fehle es überhaupt an Tatsachenbehauptungen für die Annahme der Verjährung.
+Der Oberste Gerichtshof gab dem Rekurs der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 1170 ABGB. besagt, daß beim Werkvertrag in der Regel, nämlich wenn nicht die Ausnahme des Satzes 2 dieser Gesetzesstelle Platz greift, das Entgelt nach Vollendung des Werkes zu entrichten ist, das heißt, der Unternehmer kann es nicht früher fordern und der Besteller braucht es nicht früher zu entrichten. Es ist daher in der Regel die Vollendung des Werkes mit der Fälligkeit des Werklohnes gleichzusetzen, sofern nicht eine andere Vereinbarung oder eine andere Verkehrsübung die Annahme einer späteren Fälligkeit rechtfertigen (SZ. XXIII 26, 8 Ob 192/62).
+Es ist daher dem Berufungsgericht darin beizupflichten, daß dann, wenn der Werklohn im vorhinein fix vereinbart ist, sodaß es keiner Rechnungslegung nach Vollendung des Werkes bedarf, der Regelfall des § 1170 ABGB. Platz zu greifen hat, daß also der Werklohn mit der Vollendung des Werkes fällig wird und auch die Verjährungsfrist mit diesem Zeitpunkt zu laufen beginnt. Es ist jedoch dem Berufungsgericht auch darin zu folgen, daß dann, wenn eine solche fixe Pauschalvereinbarung nicht vorliegt, sondern der Unternehmer seine Forderung erst detailliert errechnen muß, was naturgemäß erst nach Beendigung der Arbeiten geschehen kann, der Regelfall nicht gegeben ist, sondern die Fälligkeit des Werklohnes erst mit der Zumittlung der Rechnung an den Besteller eintritt. Vorher kann ja weder der Unternehmer einen bestimmten Betrag fordern, noch der Besteller einen solchen bezahlen.
+Wie der Oberste Gerichtshof wiederholt ausgesprochen hat, beginnt die Verjährung von Werklohnforderungen in einem gewerblichen oder geschäftlichen Betrieb, wenn keine anderen Vereinbarungen vorliegen, in dem Zeitpunkt zu laufen, in dem eine Rechnungslegung objektiv möglich ist, wie überhaupt die Verjährungsfrage grundsätzlich auf objektive Kriterien abzustellen ist (JBl. 1958 S. 522, 6 Ob 443/59).
+Gewiß wäre es nicht angängig, daß der Unternehmer durch absichtliche oder unabsichtliche Verzögerung der Rechnungslegung die Fälligkeit und damit den Beginn des Verjährungsablaufes nach seinem Belieben hinausschiebt. Hiebei wird auf die Verkehrsübung Bedacht zu nehmen und danach zu beurteilen sein, ob der Zeitraum zwischen der Vollendung des Werkes und der Zumittlung der Rechnung an den Besteller nach der Geschäftsbranche, der Saison, der räumlichen Entfernung, einer allfälligen Gepflogenheit zwischen den Parteien und dergleichen mehr als verkehrsüblich gelten kann. Eine Verzögerung von nicht einmal einem Monat wird in der Baubranche innerhalb der Bausaison, wenn nicht besondere Umstände vorliegen, nicht als unüblich bezeichnet werden können.
+Die Ansicht der Rekurswerberin, die Verjährungsfrist beginne auch dann mit der Vollendung des Werkes zu laufen, wenn die Höhe des Werklohnes nicht bekannt sei, kann nicht geteilt werden, da - wie oben dargelegt wurde - der Beginn der Verjährung die Fälligkeit der Forderung voraussetzt, und diese, wenn die Höhe nicht von vornherein feststeht, erst durch Zumittlung der Rechnung eintritt.

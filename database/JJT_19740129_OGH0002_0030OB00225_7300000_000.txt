@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.01.1974
+Geschäftszahl
+3Ob225/73
+Norm
+ZPO §192;
+ZPO §391;
+ZPO §519;
+Kopf
+SZ 47/5
+Spruch
+Gegen die Verweigerung eines Teilurteils ist ein Rechtsmittel nicht zulässig, gleichgültig, ob die Erlassung des Teilurteils von der I. oder II. Instanz verweigert wurde und aus welchen Gründen dies geschah. Ein in diesem Fall beigesetzter Rechtskraftvorbehalt des Berufungsgerichts ist unbeachtlich
+OGH 29. Jänner 1974, 3 Ob 225/73 (OLG Wien 2 R 160i[1]73; HG Wien 12 Cg 68/72)
+Text
+Die Klägerin hatte der Erstbeklagten, deren persönlich haftender Gesellschafter der Zweitbeklagte ist, vor längerer Zeit den Alleinvertrieb ihrer mit dem Warenzeichen I versehenen Reifen in Österreich übertragen. Das Vertragsverhältnis wurde von der Klägerin mit Schreiben vom 11. Juni 1971 zum 31. Dezember 1971 aufgekundigt.
+Mit der vorliegenden Klage begehrt die Klägerin von den Beklagten für "im Zuge dieser Geschäftsverbindung" gelieferte Fahrzeugreifen unter Berücksichtigung der Gutschriften für zurückgestellte Reifen zuletzt die Zahlung zur ungeteilten Hand von 26.064.85 Pfund (einschließlich der Verzugszinsen bis 31. Mai 1972) samt stufenweisen Zinsen ab 1. Juni 1972, umgerechnet in öS zum Kurse der Wiener Börse Devisens-Ware, London am Zahlungstag.
+Die Beklagten bestritten die Richtigkeit der Klagsforderung und wendeten mehrere Gegenforderungen zur Aufrechnung ein.
+Das Erstgericht entschied mit Teilurteil, daß die Klagsforderung zu Recht, eine der eingewendeten Gegenforderungen nicht zu Recht bestehe. Es verurteilte die Beklagten im Sinne des Klagebegehrens und behielt die Entscheidung über die übrigen Gegenforderungen und über die Kostenersatzpflicht dem Endurteil vor. Das Erstgericht war der Ansicht, daß nur eine der eingewendeten Gegenforderungen mit der Klagsforderung in einem rechtlichen Zusammenhang stehe und die Fällung eines Teilurteils daher zulässig sei. Über Berufung der Beklagten hob das Berufungsgericht das Teilurteil der ersten Instanz unter Rechtskraftvorbehalt auf und verwies die Sache zur Verhandlung und Entscheidung an das Erstgericht zurück, weil die Zulässigkeit eines Teilurteils nicht eindeutig bejaht werden könne. Ein rechtlicher Zusammenhang mit der Klagsforderung sei bei zwei Gegenforderungen gegeben und könne bei der dritten Gegenforderung nicht eindeutig verneint werden.
+Der Oberste Gerichtshof wies den Rekurs der Klägerin als unzulässig zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Frage, ob die Entscheidung über die Erlassung oder Verweigerung eines Teilurteils im Rechtsmittelverfahren überprüfbar ist, wurde von Lehre und Rechtsprechung nicht einheitlich beantwortet (vgl. die Zusammenstellungen in DR EvBl. 1940/30 und JBl. 1950, 137). Nach der neueren Rechtsprechung ist die Verweigerung eines Teilurteils unanfechtbar, weil es sich um eine den Bestimmungen der §§ 188, 189 ZPO zu unterstellende Ermessensentscheidung prozeßleitender Natur handelt (SZ 11/167; ZBl. 1933/270, EvBl. 1956/191 u. a.). Dieser Ansicht tritt auch Fasching bei (Komm. zu den ZPG II, 939, III, 570). Es macht hiebei keinen Unterschied, aus welchen Gründen das Gericht die Fällung eines Teilurteils verweigert, ob es diese Verweigerung in Beschlußform zum Ausdruck bringt oder lediglich dadurch, daß es ohne diesbezüglichen Beschluß kein Teilurteil fällt, oder ob die Fällung eines Teilurteils vom Erstgericht oder erst vom Gerichtshof zweiter Instanz abgelehnt wird.
+Im vorliegenden Fall hat, wie bereits eingangs ausgeführt, das Erstgericht ein Teilurteil gefällt, das Berufungsgericht hat dieses Urteil aufgehoben weil sich den Feststellungen nicht eindeutig entnehmen laßt, ob ein rechtlicher Zusammenhang zwischen der Klagsforderung und sämtlichen Gegenforderungen zu verneinen sei. Da aber nur die Erlassung eines Teilurteils im Instanzenweg bekämpft werden kann (soferne es sich nicht um die Ermessensfrage handelt ob die Fällung eines Teilurteils zweckmäßig war), ist der Rekurs gegen den Aufhebungsbeschluß des Berufungsgerichtes, der erst die Voraussetzung für die Beurteilung schaffen soll, ob ein Teilurteil zu fällen oder zu verweigern ist, unzulässig. Der dem Beschluß beigesetzte Rechtskraftsvorbehalt ist wirkungslos und eröffnet den Parteien keine Rekursmöglichkeit, weil die Anfechtung des Aufhebungsbeschlusses bereits zufolge der weitergehenden Rechtsmittelbeschränkung des § 192 Abs. 2 ZPO ausgeschlossen ist (vgl. Fasching IV, 408, 412).

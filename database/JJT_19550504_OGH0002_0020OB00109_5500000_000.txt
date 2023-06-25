@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.05.1955
+Geschäftszahl
+2Ob109/55
+Norm
+ABGB §1304;
+Allgemeines Sozialversicherungsgesetz §334 Abs2;
+Reichsversicherungsordnung §899 Abs1;
+Reichsversicherungsordnung §903;
+ZPO §268;
+Kopf
+SZ 28/117
+Spruch
+Bindung des Zivilgerichtes an die Feststellung eines schuldigsprechenden Strafurteiles hinsichtlich der Eigenschaft des Beklagten als "Arbeiteraufsehers". Der Ersatzanspruch des Sozialversicherungsträgers nach § 903 RVO. ist nicht vom Versicherten abgeleitet, diesem Ersatzanspruch gegenüber kann daher nicht Mitverschulden des Versicherten geltend gemacht werden.
+Entscheidung vom 4. Mai 1955, 2 Ob 109/55.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Mit Urteil des Landesgerichtes Linz wurde der Beklagte schuldig erkannt, er habe am 30. Juni 1950 in Kremsdorf als aufsichtführender Arbeiter der Straßenbaufirma ASDAG. durch Außerachtlassung der nötigen Versichtsmaßnahmen beim Abbau von Schotter, und zwar dadurch, daß er entgegen den Bestimmungen der Steinbruchverordnung vom 29. Mai 1908, RGBl. Nr. 116, und entgegen den Unfallverhütungsvorschriften die über 2 m hohe Wand der linken Grubenseite nicht böschen und den Abraum nicht abräumen ließ, eine Handlung begangen, von welcher er schon nach ihren natürlichen, für jedermann leicht erkennbaren Folgen sowie vermöge besonders bekanntgemachter Vorschriften und nach seinem Berufe einzusehen vermochte, daß sie eine Gefahr für das Leben und die körperliche Sicherheit von Menschen herbeizuführen geeignet sei, wodurch der Tod des Thomas M. und eine schwere körperliche Beschädigung des Franz B. erfolgte; er habe hiedurch das Vergehen gegen die Sicherheit des Lebens nach § 335 StG. begangen. Dieses Urteil wurde vom Oberlandesgericht Linz als Berufungsgericht bestätigt.
+Die Klägerin, ein Sozialversicherungsträger, verlangt vom Beklagten den Ersatz der von ihr geleisteten und noch zu leistenden Witwen- und Waisenrenten und des Sterbegeldes nach Thomas M.
+Das Erstgericht hat den Beklagten schuldig erkannt, der Klägerin 13.534 S 38 g samt Zinsen und die monatlich durch die Klägerin an die Hinterbliebenen nach Thomas M. jeweils laut Rentenbescheid zu zahlenden Witwen- und Waisenrenten, derzeit 429 S 84 g monatlich, ab 1. Oktober 1952 zu bezahlen.
+Die Berufung und die Revision der beklagten Partei hatten keinen Erfolg.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen des Obersten Gerichtshofes:
+Ob der Beklagte ein Arbeiteraufseher im Sinne des § 899 Abs. 1 RVO.(Jetzt § 333 Abs. 4 ASVG.) war, ist eine Rechtsfrage. Sie ist zu bejahen, wenn dem Beklagten die Überwachung der Arbeit anderer Arbeiter mit der Befugnis, selbständig der zweckmäßigen und gefahrlosen Ausführung der Arbeiten dienliche Anordnungen zu treffen (SZ. XXIV 211; 1 Ob 182/54; Geigel, Haftpflichtprozeß, 7. Aufl. S. 428), übertragen war. Diese Übertragung ist durch das Strafgericht für das Zivilgericht bindend festgestellt. Schon der Spruch des verurteilenden Erkenntnisses des Strafgerichtes erster Instanz setzt voraus (arg. "ließ"), daß der Beklagte die Befugnis hatte, die nach seiner Sachkenntnis nötigen Sicherungsarbeiten (Böschen und Abräumen) durch die ihm anvertrauten Arbeitersführen zu lassen. Aus den Gründen der strafgerichtlichen Entscheidungen bei der Instanzen, die zur Klärung der Tragweite dieses Spruches heranzuziehen sind (vgl. die bei Stagel - Michlmayr ZPO., 10. Aufl. zu § 268 ZPO. unter Nr. 6 angeführten Entscheidungen), geht hervor, daß der Beklagte mit den drei Hilfsarbeitern als deren sachkundiger, für die zweckmäßige und sichere (gefahrlose) Durchführung der Arbeit dem Unternehmer verantwortlicher Leiter nach Belehrung über die Sicherheitsvorschriften durch den Polier zur Arbeit in die Schottergrube entsendet wurde. Da diese vom Strafgericht festgestellten Tatsachen die Voraussetzung der vom Strafgericht dem Beklagten angelasteten Pflichtverletzungen und sohin des Schuldspruches nach § 335 StG. sind, ist das Zivilgericht nach § 268 ZPO. an ihre Feststellung durch das Strafgericht gebunden. Der Beklagte haftet sohin als Arbeiteraufseher im Sinne des § 899 Abs. 1 RVO., bezüglich dessen durch das Strafgericht festgestellt erscheint, daß er fahrlässig mit Außerachtlassung derjenigen Aufmerksamkeit, zu der er vermöge seines Berufes besonders verpflichtet war, den Unfall verschuldet hat, gemäß § 903 Abs. 1 und 4 RVO. (Jetzt § 334 Abs. 2 ASVG.) für den durch den Unfall verursachten Aufwand der Klägerin, ohne sich auf ein Mitverschulden der Verunglückten berufen zu können (1 Ob 182/54, Geigel a. a. O. S. 432 oben).
+Wenn das Berufungsgericht in Bindung an ein rechtskräftiges verurteilendes Straferkenntnis gemäß § 268 ZPO. einen Sachverhalt feststellt, könnte dies auch in dem (hier nicht vorliegenden) Fall, daß es damit von einer dieser Gesetzesstelle widerstreitenden, also gesetzwidrigen, erstgerichtlichen Tatsachenfeststellung ohne Beweiswiederholung abgeht, keinen Verfahrensmangel darstellen.

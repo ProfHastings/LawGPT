@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2022
+Geschäftszahl
+6Ob241/21s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei E*, vertreten durch Dr. Karin Prutsch und Mag. Michael Damitner, Rechtsanwälte in Graz, gegen die beklagte Partei Stadt G*, vertreten durch Dr. Uwe Niernberger und Dr. Angelika Kleewein, Rechtsanwälte in Graz, wegen 20.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 29. Oktober 2021, GZ 2 R 194/21y-28, mit dem das Urteil des Landesgerichts für Zivilrechtssachen Graz vom 11. Juni 2021, GZ 37 Cg 10/20k-23, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.332,54 EUR (darin enthalten 222,09 EUR an Umsatzsteuer) bestimmten Kosten ihrer Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die in dem von der Beklagten betriebenen Pflegewohnheim betreute Mutter der Klägerin verstarb am 22. 9. 2018 daran, dass ihr eine Pflegekraft aufgrund einer Verwechslung ein für eine andere Heimbewohnerin bestimmtes Medikament verabreicht hatte.
+[2] 		Die Klägerin erhebt einen auf die Einbeziehung in den Schutzbereich des Heimvertrags und ein Organisationsverschulden der Beklagten gestützten Schmerzengeldanspruch, weil die Beklagte kein standardisiertes Vorgehen etabliert und ihre Mitarbeiter nicht darauf eingeschult habe, Patienten in Fällen einer Medikamentenverwechslung wie hier Aktivkohle zu verabreichen.
+[3] 		Die Vorinstanzen wiesen das Klagebegehren ab.
+[4] 		Das Berufungsgericht ließ die Revision zu, weil der Fall Anlass gebe, die Rechtsprechung zu vertraglichen Sorgfaltspflichten gegenüber Dritten, die der vertraglichen Leistung nahe stünden, fortzuentwickeln.
+[5] 		Rechtlich führte es aus, die Klägerin sei vom Schutzbereich des Heimvertrags nicht erfasst, die Verabreichung von Aktivkohle sei zum Zeitpunkt des ärztlichen Einschreitens nicht mehr möglich gewesen, ein Organisationsverschulden durch mangelnde Implementierung von Prozessen und mangelnde Einschulung sei nicht hervorgekommen und die Behauptung eines Organisationsverschuldens aufgrund einer zu geringen Personalausstattung und eines zu hohen Zeitdrucks in der Pflege widerspreche dem Neuerungsverbot.
+Rechtliche Beurteilung
+[6] 		Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch des Berufungsgerichts nicht zulässig.
+[7] 		1. Vertragliche Schutz- und Sorgfaltspflichten bestehen nicht nur gegenüber dem Vertragspartner, sondern auch gegenüber Dritten, wenn die objektive Auslegung des Vertrags ergibt, dass eine Sorgfaltspflicht auch in Bezug auf die dritte Person übernommen wurde (RS0017195). Im Fall eines solchen Vertrags mit Schutzwirkungen zugunsten Dritter erwirbt der Dritte unmittelbare vertragliche Ansprüche gegen den Schuldner (RS0037785 [T34, T45]), der dann auch gemäß § 1313a ABGB für das Verschulden jener Personen haftet, deren er sich zur Erfüllung bediente (RS0037785 [T34]; 5 Ob 82/19y).
+[8] 		1.2. Die vom Gesetzgeber getroffene unterschiedliche Ausgestaltung von Deliktsrecht und Vertragsrecht soll nicht aufgehoben oder verwischt werden, weshalb der Kreis der durch den Vertrag mit Schutzwirkungen zugunsten Dritter geschützten Personen eng gezogen werden muss (RS0022814 [T2]). Begünstigte Personen in diesem Sinn sind (nur) Dritte, deren Kontakt mit der vertraglichen Hauptleistung bei Vertragsabschluss voraussehbar war, die also der vertraglichen Leistung nahestehen und an denen der Vertragspartner ein sichtbares eigenes Interesse hat oder hinsichtlich welcher ihm selbst offensichtlich eine Fürsorgepflicht zukommt (RS0017195 [T5, T12]; RS0037785 [T5, T21, T22]; RS0034594). Der begünstigte Personenkreis ist dabei aufgrund einer objektiven Auslegung des Vertrags zu bestimmen (RS0037785 [T25]; RS0034594 [T19]; 5 Ob 82/19y).
+[9] 		1.3. Für die Beurteilung ist maßgebend, dass bei objektivem Verständnis typischerweise, bei üblichen Sozialstrukturen, eine auffallende innige familiäre Nahebeziehung zu erwarten ist, sodass der aus dem Vertrag Hauptleistungspflichtige mit der Einbeziehung der fraglichen Personengruppe in den geschützten Personenkreis rechnen musste (4 Ob 176/19i; 7 Ob 105/17t).
+[10] 		1.4. Nach diesen Grundsätzen wertete der Oberste Gerichtshof den Schmerzengeld für einen Trauerschaden mit Krankheitswert begehrenden Ehegatten einer Patientin als eine der Leistung aus dem ärztlichen Behandlungsvertrag nahestehende Person, sofern die Lebensgemeinschaft aufrecht war und keine Hinweise auf eine bereits eingetretene Entfremdung bestanden (9 Ob 83/09k).
+[11] 		Hingegen geht die Rechtsprechung bei erwachsenen Geschwistern nicht von einer typischen, für Dritte erkennbaren objektiven typisierten Nahebeziehung aus, die die Einbeziehung in den Schutzbereich eines fremden Behandlungsvertrags rechtfertigt (7 Ob 105/17t; 4 Ob 176/19i [unabhängig von starren Altersgrenzen]).
+[12] 		1.5. Entscheidend für die Frage, welche vertragsfremden Dritten in den Schutzbereich eines Vertrags einzubeziehen sind, ist immer die Auslegung des Vertrags nach den Umständen des Einzelfalls (RS0022814 [T6]; RS0017043 [T5]; 6 Ob 21/04p; 2 Ob 68/21w).
+[13] 		1.6. Im vorliegenden Fall verneinte das Berufungsgericht eine typischerweise bestehende innige Nahebeziehung von im Heim untergebrachten Personen zu Außenstehenden.
+[14] 		Dieser Vertragsauslegung tritt die Klägerin in der Revision nicht konkret entgegen. Sie meint vielmehr, der vertraglichen Leistung deshalb nahe zu stehen, weil sie ein Eigeninteresse daran habe, ihre aus der Fürsorgepflicht resultierende Pflicht zur Pflege der Mutter auf den Heimträger zu überbinden. Damit wird aber die Frage, ob das Berufungsgericht bei seiner Beurteilung des Vorliegens einer typisierten, durch Dritte erkennbaren innigen Nahebeziehung den ihm eingeräumten Beurteilungsspielraum überschritten hat, gar nicht aufgegriffen. Weitere Ausführungen zu der vom Berufungsgericht angesprochenen Fortentwicklung der Rechtsprechung enthält die Revision nicht. Eine Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO wird daher in diesem Zusammenhang nicht dargetan.
+[15] 		2. In der Revision wird auf die – von den Umständen des Einzelfalls abhängende (RS0042828 [T35]) – Beurteilung, ein Organisationsverschulden im Sinn einer zu geringen Personalausstattung und eines zu hohen Zeitdrucks sei eine unzulässige (§ 482 ZPO) Neuerung, nicht eingegangen.
+[16] 		Auch zu dieser Frage fehlt es daher an der Geltendmachung einer Rechtsfrage von erheblicher Bedeutung iSd § 502 Abs 1 ZPO.
+[17] 		3. Die Entscheidung über die Kosten des Revisionsverfahrens beruht auf §§ 41, 50 ZPO. Die Beklagte hat auf die fehlende Zulässigkeit der Revision hingewiesen (RS0112296).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00241.21S.0829.000

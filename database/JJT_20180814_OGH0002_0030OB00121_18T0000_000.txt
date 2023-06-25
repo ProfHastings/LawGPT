@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.08.2018
+Geschäftszahl
+3Ob121/18t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei B* GmbH in Liquidation, vertreten durch Mag. Christian Podoschek, Rechtsanwalt in Wien, dieser vertreten durch Preslmayr Rechtsanwälte OG in Wien, gegen die beklagte Partei Stadt Wien, Wien 8, Rathaus, wegen Wiederaufnahme des Verfahrens AZ 5 C 1030/10b des Bezirksgerichts Donaustadt, über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 18. April 2018, GZ 38 R 93/18k-10, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ein vom Rekursgericht verneinter Verfahrensmangel erster Instanz (hier: Unterbleiben eines Verbesserungsauftrags zur Schlüssigstellung der Wiederaufnahmsklage, wobei die Relevanz dieses Mangels im Rekurs nicht dargetan wurde) kann im Revisionsrekursverfahren nicht nochmals geltend gemacht werden (RIS-Justiz RS0043919).
+2. Eine auf § 530 Abs 1 Z 7 ZPO gestützte Wiederaufnahmsklage ist insbesondere dann bereits im Vorprüfungsverfahren (§ 538 ZPO) zurückzuweisen, wenn das neue Beweisthema in keinem rechtlich beachtlichen Zusammenhang mit dem wiederaufzunehmenden Verfahren steht. Im Vorprüfungsverfahren ist also zunächst abstrakt zu prüfen, ob die als Wiederaufnahmsgrund nach § 530 Abs 1 Z 7 ZPO geltend gemachten Umstände – ihre Richtigkeit unterstellt (RIS-Justiz RS0044631 [T2]) – ersichtlich von vornherein keinen Einfluss auf die Entscheidung in der Hauptsache haben können. Trifft Letzteres zu, ist die Wiederaufnahmsklage unschlüssig (RIS-Justiz RS0044504 [T4, T5, T7, T8]; RS0117780). Eine über eine solche „eingeschränkte Beweiswürdigung“ hinausgehende Beurteilung des Beweiswerts der neuen Beweismittel hat im Vorprüfungsverfahren nicht zu erfolgen (RIS-Justiz RS0036544 [T4]).
+3. Die Schlüssigkeit einer Klage kann nur anhand der konkreten Behauptungen im Einzelfall geprüft werden. Ob eine Klage schlüssig ist, also die Frage, ob sich der Anspruch aus dem behaupteten Sachverhalt ergibt, stellt daher grundsätzlich keine erhebliche Rechtsfrage dar. Dies gilt auch für die Prüfung der Schlüssigkeit einer Wiederaufnahmsklage (RIS-Justiz RS0037780 [T14]).
+4. Nach den im wiederaufzunehmenden Räumungsverfahren getroffenen Feststellungen nahm die  Wiederaufnahmsklägerin (dort Beklagte) einerseits von der dortigen Klägerin (der Wiederaufnahmsbeklagten) und andererseits insbesondere von der D* diverse Flächen bzw Objekte in Bestand; die von den Bestandverträgen mit der D* umfassten Flächen waren jedoch nicht Gegenstand dieses Räumungsverfahrens. Demgemäß ist die Beurteilung der Vorinstanzen, aus der in der Wiederaufnahmsklage als neues Beweismittel zur angeblich (teilweise) fehlenden Aktivlegitimation der Wiederaufnahmsbeklagten angeführten, in einem Besitzstörungsverfahren abgelegten Aussage der Zeugin Mag. I* vom 25. September 2017 ergebe sich von vornherein kein Anhaltspunkt für eine Unrichtigkeit der Feststellungen des Vorverfahrens zur Aktivlegitimation der Wiederaufnahmsbeklagten, nicht korrekturbedürftig.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E122506

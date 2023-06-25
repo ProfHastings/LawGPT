@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.11.1953
+Geschäftszahl
+3Ob453/53
+Norm
+Handelsgesetzbuch §125 Abs3;
+Handelsgesetzbuch §126;
+Zivilprozeßordnung §562;
+Kopf
+SZ 26/274
+Spruch
+Die passive Einzelvertretungsmacht bezieht sich auch auf die Empfangnahme von Kündigungen, hingegen nicht auf die Erhebung von Einwendungen gegen Aufkündigungen, die sich als gerichtliche Rechtshandlung im Sinne des § 126 HGB. darstellen.
+Ein nur kollektivvertretungsbefugter Gesellschafter ist nicht zur Vertretung vor Gericht für sich allein befugt.
+Entscheidung vom 11. November 1953, 3 Ob 453/53.
+I. Instanz: Bezirksgericht Innere Stadt - Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die klagende Partei hat der offenen Handelsgesellschaft N-garage B. & Co. das Bestandverhältnis über die von dieser im Hause Wien, II., N.straße 36 gemieteten Garageräumlichkeiten und Betriebsanlagen aufgekundigt und als Kündigungsgrund einen Zinsrückstand sowie von der beklagten Partei ohne Bewilligung der Baubehörde und des Hauseigentümers vorgenommene bauliche Veränderungen geltend gemacht.
+Die offene Handelsgesellschaft besteht aus zwei Gesellschaftern und zwar Hugo K. und Josef B. Nach Punkt 10 des Gesellschaftsvertrages ist Gesamtvertretung vereinbart.
+Das Erstgericht hat die Aufkündigung aufgehoben, von der Erwägung ausgehend, daß die Aufkündigung eines von einer offenen Handelsgesellschaft abgeschlossenen Bestandvertrages sämtlichen Gesellschaftern zugestellt werden müsse.
+Infolge Berufung des Klägers hat die Berufungsinstanz die Aufkündigung für rechtswirksam erklärt. Das Berufungsgericht war der Ansicht, daß zufolge der Bestimmung des § 125 Abs. 2 Satz 3 HGB. die gegenüber einem vertretungsbefugten Gesellschafter abgegebene Kündigungserklärung genüge, daß aber Einwendungen gegen die Aufkündigung nur von den gesamtvertretungsberechtigten Gesellschaftern abgegeben werden können; diesem Erfordernis sei im vorliegenden Fall nicht genügt, da die Einwendungen nur vom Gesellschafter Hugo K. erhoben worden seien, dieser aber für sich allein nicht vertretungsbefugt ist.
+Der Oberste Gerichtshof hob aus Anlaß der Revision die Urteile beider Instanzen und das diesen vorangegangene Verfahren als nichtig auf, wies die Einwendungen der beklagten Partei zurück und trug gemäß § 51 Abs. 1 ZPO. dem ohne ausreichende Vertretungsmacht für die beklagte Partei eingeschrittenen Gesellschafter Hugo K. den Ersatz der Kosten des Verfahrens aller drei Instanzen an den Kläger auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß § 125 Abs. 2 dritter Satz HGB. hat jeder Gesamtvertreter kraft Gesetzes passive Einzelvertretungsmacht. Daß sich die passive Einzelvertretungsmacht auch auf die Empfangnahme von Kündigungen bezieht, ist unbestritten. Die Erhebung von Einwendungen gegen eine Kündigung vor Gericht fällt aber nicht mehr in den Rahmen der sogenannten passiven Einzelvertretungsmacht, sondern stellt sich als ein aktives Handeln der Gesellschaft, als eine gerichtliche Rechtshandlung im Sinne des § 126 HGB. dar.
+Der Oberste Gerichtshof hat schon im Spruchrepertorium Nr. 221 aus Art. 117 AHGB. den Schluß abgeleitet, daß ein nur kollektivvertretungsberechtigter Gesellschafter zur Vertretung der Gesellschaft vor Gericht für sich allein nicht befugt sei. Dieser Spruch ist für den vor 1939 in Geltung gestandenen Art. 117 AHGB. ergangen; im Bereich des nunmehr geltenden Handelsgesetzbuches ist die Rechtslage noch eindeutiger.
+Die Vollmacht hat für die beklagte offene Handelsgesellschaft N.garage B. & Co. nur der Gesellschafter Hugo K. allein unterschrieben. Die Vollmacht ist also nur von einem der Kollektivisten unterfertigt. Der Unterfertigte war zur Vertretung der Gesellschaft für sich allein nicht befugt, die Gesellschaft war daher in dem auf die Einwendungen hin eröffneten Kündigungsstreit nicht vertreten. Es fehlt daher an einer absoluten Prozeßvoraussetzung und liegt die Nichtigkeit des den Einwendungen nachgefolgten Verfahrens nach § 477 Abs. 1 Z. 5 ZPO. vor. Diese Nichtigkeit ist gemäß §§ 7 und 510 ZPO. von Amts wegen wahrzunehmen.
+Es mag dahingestellt bleiben, ob das in § 6 Abs. 2 ZPO. vorgesehene Sanierungsverfahren auch bei Vollmachtsmängeln anwendbar ist. Denn dieses Verfahren kann im vorliegenden Fall schon deshalb nicht zur Anwendung gelangen, weil feststeht, daß der zweite Gesellschafter Josef B. es ablehnt, sich am Verfahren zu beteiligen.
+Aus Anlaß der Revision waren daher die beiden vorinstanzlichen Urteile und das ihnen vorangegangene Verfahren aufzuheben und waren gemäß § 562 Abs. 3 ZPO. die von einem nicht Vertretungsberechtigten erstatteten Einwendungen zurückzuweisen (vgl. SZ. VIII/239).
+Kläger hat nach Erhebung der Einwendungen unter Vorlage eines Handelsregisterauszuges auf die Unbeachtlichkeit der Einwendungen hingewiesen und hat um Rechtskraftbestätigung ersucht. Den Kläger trifft daher an der Weiterführung des Verfahrens keinerlei Schuld, dieses Verfahren ist vielmehr ausschließlich auf das Verhalten des nicht vertretungsbefugten Gesellschafters Hugo K. zurückzuführen. Deshalb waren diesem im Sinne des § 51 Abs. 1 ZPO. die Kosten des Verfahrens aller drei Instanzen aufzuerlegen.

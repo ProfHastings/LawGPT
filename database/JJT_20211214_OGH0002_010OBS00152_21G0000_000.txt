@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.12.2021
+Geschäftszahl
+10ObS152/21g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr. Neumayr als Vorsitzenden, die Hofrätin Dr. Fichtenau und den Hofrat Mag. Ziegelbauer sowie die fachkundigen Laienrichter Dr. Bernhard Kirchl (aus dem Kreis der Arbeitgeber) und Wolfgang Cadilek (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei Dr. P* W*, vertreten durch Mag. Christof Brunner, Rechtsanwalt in Salzburg, gegen die beklagte Partei Österreichische Gesundheitskasse, 1030 Wien, Haidingergasse 1, vertreten durch Ebner Aichinger Guggenberger Rechtsanwälte GmbH in Salzburg, wegen Rückforderung von Kinderbetreuungsgeld, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 15. Juni 2021, GZ 11 Rs 46/21w-10, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger, ein in einem Krankenhaus beschäftigter Arzt, bezog aus Anlass der Geburt seiner Tochter im Zeitraum von 31. 8. 2016 bis 30. 10. 2016 Kinderbetreuungsgeld als Ersatz des Erwerbseinkommens. Er war in diesem Zeitraum weder selbständig noch unselbständig erwerbstätig. Am 16. 9. 2019 wurde dem Kläger ein Betrag von 676,93 EUR an Privathonoraren aus selbständiger Erwerbstätigkeit überwiesen. Diese Honorare betrafen Leistungen, die der Kläger vor dem 31. 8. 2016 erbrachte.
+[2] 		Mit Bescheid vom 25. 9. 2020 widerrief die beklagte Österreichische Gesundheitskasse die Zuerkennung des Kinderbetreuungsgeldes und verpflichtete den Kläger zum Rückersatz von 4.026 EUR.
+[3] 		Die Vorinstanzen gaben der Klage auf Feststellung, dass der Rückersatzanspruch gegenüber dem Kläger nicht zu Recht bestehe, statt. Das Berufungsgericht führte aus, dass für die Ermittlung der Zuverdienstgrenze (§ 24 Abs 1 Z 3 KBGG) nur jene Einkünfte im Sinn des § 8 Abs 1 Z 2 KBGG maßgeblich seien, die aus einer während des Anspruchszeitraums ausgeübten Tätigkeit stammen. Die in § 8 Abs 1 Z 2 KBGG vorgesehene Möglichkeit, bei selbständigen Erwerbseinkünften einen zeitlichen Zuordnungsnachweis zu erbringen, stelle eine das sonst geltende Zuflussprinzip durchbrechende Ausnahmeregelung dar.
+Rechtliche Beurteilung
+[4] 		In ihrer außerordentlichen Revision zeigt die Beklagte keine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO auf:
+[5] 		1. Die rechtliche Beurteilung des Berufungsgerichts zur Ermittlung der maßgeblichen Einkünfte aus selbständiger Tätigkeit (§ 8 Abs 1 Z 2 KBGG) entspricht der Rechtsprechung des Obersten Gerichtshofs (ausführlich 10 ObS 144/19b SSV-NF 33/77 mwH).
+[6] 		2. Die Behauptung der Revisionswerberin, der Oberste Gerichtshof sei in den Entscheidungen 10 ObS 31/20m und 10 ObS 52/21a von dieser Rechtsprechung abgewichen, trifft nicht zu. Beide Entscheidungen betreffen ausschließlich nach § 8 Abs 1 Z 1 KBGG zu beurteilende Einnahmen aus nichtselbständiger Tätigkeit und sind für den hier zu entscheidenden Fall nicht einschlägig, wie bereits das Berufungsgericht in Bezug auf 10 ObS 31/20m ausgeführt hat.
+[7] 		3. Die Revisionswerberin begründet den von ihr behaupteten Widerspruch der Entscheidung 10 ObS 144/19b zur Entscheidung des VfGH G 128/08 ua, VfSlg 18705/2009 lediglich wiederum mit dem Verweis auf das steuerrechtliche Zuflussprinzip und die bereits genannten Entscheidungen 10 ObS 31/20m und 10 ObS 52/21a. Sie übergeht damit die differenzierende Begründung des Verfassungsgerichtshofs, der auf die unterschiedliche Behandlung von Einkünften aus unselbständiger Tätigkeit und aus selbständiger Tätigkeit in § 8 KBGG verwiesen hat. Insbesondere hält er auch fest, dass – bei Einkünften aus selbständiger Erwerbstätigkeit – der Gesetzgeber des KBGG in verfassungskonformer Weise grundsätzlich an das Jahreseinkommen anknüpft und die Verhältnisse des Anspruchszeitraums nur dann für relevant erachtet, wenn der Antragsteller entsprechende Nachweise über die zeitliche Lagerung der Einkünfte vorlegen kann (Pkt 2.3.2). Damit stimmt die Rechtsprechung des Obersten Gerichtshofs überein: Abweichend von Einkünften aus unselbständiger Arbeit gemäß § 8 Abs 1 Z 1 KBGG, für die ausnahmslos das Zuflussprinzip gilt (10 ObS 31/20m), ist bei Einkünften aus selbständiger Tätigkeit (§ 8 Abs 1 Z 2 KBGG) eine Abgrenzung möglich: Für die Ermittlung der Zuverdienstgrenze sind nur jene Einkünfte maßgeblich, die aus einer während des Anspruchszeitraums ausgeübten Tätigkeit stammen (10 ObS 93/21f; RS0132947).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:010OBS00152.21G.1214.000

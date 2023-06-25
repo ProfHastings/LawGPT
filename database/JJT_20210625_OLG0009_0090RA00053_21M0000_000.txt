@@ -1,0 +1,89 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+25.06.2021
+Geschäftszahl
+9Ra53/21m
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht in Arbeits- und Sozialrechtssachen durch die Senatspräsidentin des Oberlandesgerichts Dr. Blaszczyk als Vorsitzende und die Richterin und den Richter des Oberlandesgerichts Mag. Oberbauer und Dr. Annerl (Senat gemäß § 11a Abs 2 Z 2 ASGG) in der Arbeitsrechtssache der klagenden Partei A*****, vertreten durch MMag. Maria Größ, Rechtsanwältin in Wien, gegen die beklagte Partei B*****, wegen EUR 10.443,68 brutto abzüglich EUR 1.331,31 netto sA (= EUR 9.112,37), über den Kostenrekurs der klagenden Partei (Rekursinteresse: EUR 380,16) gegen die im Zahlungsbefehl des Arbeits- und Sozialgerichts Wien vom 23.2.2021, 30 Cga 19/21i-2 enthaltene Kostenentscheidung, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Rekurs wird Folge gegeben und die angefochtene Kostenentscheidung dahin abgeändert, dass sie – einschließlich des bereits rechtskräftig zuerkannten Kostenbetrags von EUR 1.142,19 – nunmehr insgesamt lautet:
+„Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 1.522,35 (darin EUR 127,89 USt und EUR 755,-- Barauslagen) bestimmten Kosten binnen 14 Tagen zu ersetzen.“
+Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 169,75 (darin EUR 28,29 USt) bestimmten Rekurskosten binnen 14 Tagen zu ersetzen.
+Der Revisionsrekurs ist jedenfalls unzulässig.
+Text
+Begründung:
+Mit seiner Mahnklage begehrte der Kläger EUR 10.443,68 brutto abzüglich EUR 1.331,31 netto sA und brachte dazu vor, dass er beim Beklagten vom 14.10.2019 bis 20.10.2020 als Lehrling im Lehrberuf Friseur beschäftigt gewesen sei, die Lehrlingsentschädigung zuletzt EUR 660,-- brutto monatlich betragen habe, auf das Lehrverhältnis der Kollektivvertrag für Arbeiter bei Friseuren und Perückenmachern anzuwenden sei, das Lehrverhältnis durch berechtigten vorzeitigen Austritt wegen Entgeltvorenthaltens geendet habe und Schadenersatz gemäß § 1162b ABGB von 21.10.2020 bis 20.1.2021 geltend gemacht werde. Das Klagebegehren schlüsselte der Kläger in der Rubrik Anspruchsbeschreibung wie folgt auf:
+Code
+Angaben über Forderung
+BelegNr
+von
+bis
+Betrag
+13
+Lehrlingsentschädigung Differenz EUR 6.812,83 brutto abzgl EUR 1.331,31 netto
+Lehrlingse
+14.10.2019
+20.10.2020
+5.481,52 EUR
+14
+WR
+14.10.2019
+20.10.2020
+116,87 EUR
+14
+UZ
+14.10.2019
+20.10.2020
+116,87 EUR
+14
+UZ
+01.01.2020
+20.10.2020
+455,10 EUR
+14
+WR
+01.01.2020
+20.10.2020
+455,10 EUR
+16
+KE
+21.10.2020
+20.01.2021
+2.002,00 EUR
+16
+UZ KE
+21.10.2020
+20.01.2021
+166,35 EUR
+16
+WR KE
+21.10.2020
+20.01.2021
+166,35 EUR
+16
+UEL KE
+21.10.2020
+20.01.2021
+130,47 EUR
+16
+SZ UEL KE
+21.10.2020
+20.01.2021
+21,74 EUR
+Das Erstgericht erließ den Zahlungsbefehl und sprach anstatt der verzeichneten Kosten von EUR 1.522,35 (Normalkosten TP 3 RATG zuzüglich einer Insolvenzabfragegebühr von EUR 12,--) nur Kosten von EUR 1.142,19 zu.
+Gegen die Honorierung der Mahnklage nur nach TP 2 RATG richtet sich der Kostenrekurs des Klägers mit dem Antrag, die Kostenentscheidung dahin abzuändern, dass dem Beklagten nach TP 3A RATG ein weiterer Kostenersatz von EUR 380,16 auferlegt werde.
+Der Beklagte beteiligte sich nicht am Rekursverfahren.
+Rechtliche Beurteilung
+Der Rekurs ist berechtigt.
+1. Der Kläger macht geltend, dass die Klage nicht nur auf Zahlung des Entgelts für geleistete Arbeit gerichtet gewesen, sondern auch Kündigungsentschädigung samt Sonderzahlungen und Urlaubsersatzleistung zur Kündigungsentschädigung geltend gemacht worden sei. Bei der Kündigungsentschädigung handle es sich nicht um einen Entgelterfüllungsanspruch, sondern um einen aus dem Gesetz abgeleiteten, hinsichtlich des Entgelts für die ersten drei Monate pauschalierten Schadensersatzanspruch. Schadenersatzklagen seien im taxativen Katalog der TP 2 RATG nicht aufgezählt und daher nach TP 3A RATG zu honorieren. Klagen, mit denen auch ein Anspruch auf Kündigungsentschädigung geltend gemacht werde, würden daher nach der Rechtsprechung nach TP 3A RATG honoriert.
+2.1. Klagen auf Zahlung des Entgelts für Arbeiten und Dienste fallen grundsätzlich unter TP 2 RATG. Macht ein Arbeitnehmer Ansprüche im Zusammenhang mit einem Arbeitsverhältnis geltend, ist im Zweifel anzunehmen, dass es sich dabei um Entgeltansprüche handelt, sodass eine Honorierung nach TP 2 RATG erfolgt, sofern eine kurze Darstellung des Sachverhalts ausreicht (OLG Wien RW0000011). Die Geltendmachung der in der vorliegenden Mahnklage enthaltenen Ansprüche auf laufenden Bezug (EUR 6.812,83 brutto abzüglich EUR 1.331,31 netto) und auf Sonderzahlungen (WR und UZ von insgesamt EUR 1.143,94) wären daher nur nach TP 2 RATG zu entlohnen.
+2.2. Der Kläger begehrt darüber hinaus allerdings Schadenersatz in Form einer Kündigungsentschädigung von insgesamt EUR 2.486,91. Im Fall des – in der Mahnklage behaupteten – berechtigten vorzeitigen Austritts aus dem Lehrverhältnis ist ein Lehrling nicht nur berechtigt, den noch offenen Rest seiner Lehrlingsentschädigung bzw der  Sonderzahlungen zu verlangen, sondern auch seine vertragsmäßigen Ansprüche auf das Entgelt für den Rest der bedungenen Lehrzeit, was die Rechtsprechung als Schadenersatzanspruch nach § 1162b ABGB ansieht (8 ObA 192/97m). Bei dem vom Kläger geltend gemachten und ausdrücklich als Schadenersatzanspruch nach § 1162b bezeichneten Anspruch auf Kündigungsentschädigung handelt es sich daher um einen Schadenersatzanspruch, der nicht in TP 2 RATG aufgezählt ist und dessen Geltendmachung nach der Rechtsprechung nach TP 3A RATG zu honorieren ist (OLG Wien RW0000618, RW0000246; vgl auch RW0000011).
+2.3. Werden – wie hier – Ansprüche, deren klageweise Geltendmachung nach TP 2 RATG zu entlohnen ist, gemeinsam mit Ansprüchen in einer Klage geltend gemacht, die nach TP 3A RATG zu entlohnen sind, ist die Klage grundsätzlich nach TP 3A RATG zu entlohnen, wobei in dem Fall, in dem die nach TP 3A zu entlohnende Forderung die in § 43 Abs 2 erster Fall ZPO genannte Grenze der Geringfügigkeit von rund 10 % der Gesamtforderung nicht übersteigt, ein Kostenersatz nach TP 2 RATG für die gesamte Klage angenommen wird (OLG Wien RW0000864, 10 Ra 77/20x). Angesichts der Höhe der geltend gemachten Kündigungsentschädigung ist von einer solchen Geringfügigkeit nicht auszugehen, sodass die Mahnklage insgesamt nach TP 3A zu honorieren ist.
+3. Es war daher dem Rekurs Folge zu geben, die gegenständliche Mahnklage nach TP 3A zu honorieren und dem Kläger der begehrte Mehrbetrag von EUR 380,16 zuzuerkennen.
+4. Die Entscheidung über die Kosten des Rekursverfahrens gründet sich §§ 2 ASGGG, 41, 50 ZPO. Der verzeichnete ERV-Zuschlag gemäß § 23a erster Satz RATG in Höhe von EUR 4,10 gebührt nur für verfahrenseinleitende, nicht jedoch für fortgesetzte Schriftsätze, unter denen auch alle Rechtsmittelschriftsätze zu verstehen sind (RS0126594 [T1]; nunmehr EUR 2,10).
+5. Gemäß §§ 2 ASGG, 528 Abs 2 Z 3 ZPO ist der Revisionsrekurs jedenfalls unzulässig.
+European Case Law Identifier
+ECLI:AT:OLG0009:2021:0090RA00053.21M.0625.000

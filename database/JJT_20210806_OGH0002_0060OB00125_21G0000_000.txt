@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.08.2021
+Geschäftszahl
+6Ob125/21g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei Mag. K*, vertreten durch Achammer & Mennel Rechtsanwälte OG in Feldkirch, gegen die beklagten Parteien 1. D* GmbH, sowie 2. D* GmbH & Co KG, beide *, vertreten durch Reiterer Ulmer Rechtsanwälte in Bregenz, wegen Nichtigerklärung eines Gesellschafterbeschlusses und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 18. Mai 2021, GZ 2 R 45/21s-15, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach ständiger Rechtsprechung kommt der objektiven Auslegung korporativer Regelungen eines Gesellschaftsvertrags im Allgemeinen keine über den Einzelfall hinausreichende Bedeutung zu (6 Ob 62/21t; RS0108891 [T15]).
+[2] 		2. Ein Beschluss im Sinne der Errichtungserklärung der Erstbeklagten (Punkt V.4.11) über Betragsgrenzen, deren Überschreitung die Zustimmung der Generalversammlung erfordert, wurde für das Geschäftsjahr 2020 nicht gefasst. Zwar sieht die für die Erstbeklagte erlassene Geschäftsordnung vom 29. 5. 2020 vor, dass Investitionen, die 30.000 EUR als Einzelinvestition bzw 100.000 EUR pro Jahr übersteigen, der Zustimmung der Generalversammlung bedürfen. Im vorliegenden Fall geht es jedoch nicht um eigene Investitionen der Erstbeklagten, sondern um Entscheidungen der Erstbeklagten als selbständig vertretungsbefugter Geschäftsführerin der Zweitbeklagten.
+[3] 		Dessen ungeachtet fand eine Generalversammlung statt, in der mit einfacher Mehrheit die gegenständlichen Investitionen genehmigt wurden. Eine einfache Mehrheit reicht aber, soweit das Gesetz oder der Gesellschaftsvertrag nichts anderes bestimmen, gemäß § 39 Abs 1 GmbHG aus.
+[4] 		3.1. Die Anwendung des § 35 Abs 1 Z 7 GmbHG scheitert schon daran, dass es gerade nicht um „dauernd zum Geschäftsbetriebe bestimmte Anlagen oder unbewegliche Gegenstände“ der Erstbeklagten ging, sondern um solche der GmbH & Co KG, sohin der Zweitbeklagten.
+[5] 		3.2. Der pauschale Verweis der Revision auf die „Organtheorie“ vermag daran nichts zu ändern. Vielmehr richten sich Umfang und Befugnisse einer Komplementär-GmbH nach den §§ 114 ff UGB. Die von der Revision angezogene Rechtsprechung zur Anwendung der Kapitalerhaltungsgrundsätze der GmbH auf die GmbH & Co KG (vgl 2 Ob 225/07p; RS0123863) beruht im Wesentlichen auf der Überlegung, dass der Gesetzgeber in den letzten Jahrzehnten in mehreren Regelungen die GmbH & Co KG den Kapitalgesellschaften gleichgestellt hat. Für eine von der Revision ohne nähere Ausführungen postulierte „Organtheorie“, aus der sich ergeben soll, dass Mehrheitserfordernisse für bestimmte Investitionsentscheidungen der GmbH auch dann zur Anwendung kämen, wenn die GmbH nicht im eigenen Namen, sondern als Geschäftsführerin einer GmbH & Co KG diese Investitionen tätigen will, ist daraus nichts abzuleiten.
+[6] 		4. Zusammenfassend bringt die Revision daher keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass sie zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E132658

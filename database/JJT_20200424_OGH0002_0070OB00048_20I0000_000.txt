@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob48/20i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei M***** H*****, vertreten durch Mag. Helmut Gruber, Rechtsanwalt in St. Jakob im Haus, gegen die beklagte Partei H***** AG *****, vertreten durch Dr. Christoph Arbeithuber, Rechtsanwalt in Linz, wegen 53.050,15 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Linz als Berufungsgericht vom 16. Dezember 2019, GZ 32 R 108/19m-115, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Unfallversicherungsvertrag abgeschlossen, dem die Allgemeinen Bedingungen für die Unfallversicherung (AUVB 2008) zugrundeliegen. Diese lauten auszugsweise:
+„[…]
+Abschnitt B: Versicherungsleistungen
+[…]
+Artikel 7
+Dauernde Invalidität
+1. Voraussetzungen für die Leistung:
+Die versicherte Person ist durch den Unfall auf Dauer in ihrer körperlichen oder geistigen Leistungsfähigkeit beeinträchtigt. Die Invalidität ist innerhalb eines Jahres nach dem Unfall eingetreten.
+[…]
+6. Steht der Grad der Dauernden Invalidität nicht eindeutig fest, sind sowohl die versicherte Person als auch der Versicherer berechtigt, den Invaliditätsgrad jährlich bis 4 Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen.
+[…]“.
+Rechtliche Beurteilung
+Die Beklagte zeigt in ihrer erhobenen Revision keine erhebliche Rechtsfrage auf:
+1. Die Feststellung des Invaliditätsgrades (Beeinträchtigung der körperlichen und geistigen Funktionsfähigkeit nach medizinischen Gesichtspunkten) stellt eine Tatfrage dar, die im Revisionsverfahren nicht überprüft werden kann (RS0118909). Die Vorinstanzen sind in tatsächlicher Hinsicht von einer dauernden Invalidität des Klägers im Ausmaß von 25 % vom Gesamtbeinwert rechts und 20 % vom Gesamtbeinwert links ausgegangen. Soweit die Beklagte behauptet, es liege nur ein geringerer Invaliditätsgrad vor, weil innerhalb der 4-Jahres-Frist keine verwertbare abschließende neurologische Beurteilung zustandegekommen sei, legt die Beklagte nicht den festgestellten Sachverhalt zugrunde und führt daher insoweit ihre Revision nicht gesetzmäßig aus (RS0043603 [insb T2]).
+2. Der von der Beklagten behauptete Widerspruch zu den Entscheidungen 7 Ob 195/14y und 7 Ob 47/16m liegt schon deshalb nicht vor, weil die Vorinstanzen keine Neubemessung vorgenommen haben, sondern eine Erstbemessung, bei der der Kläger einen über der Einschätzung der Beklagten gelegenen Invaliditätsgrad nachzuweisen vermochte.
+3. Die Beklagte macht insgesamt keine erhebliche Rechtsfrage geltend. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist daher die Revision nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00048.20I.0424.000

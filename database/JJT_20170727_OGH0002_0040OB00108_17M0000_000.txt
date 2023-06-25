@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.07.2017
+Geschäftszahl
+4Ob108/17m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Schwarzenbacher, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Ing. W* B*, vertreten durch Dr. Klaus Dengg und andere Rechtsanwälte in Zell am Ziller, gegen die beklagte Partei A* R*, vertreten durch Dr. Karl Hepperger, Rechtsanwalt in Innsbruck, wegen zuletzt 43.651,45 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 24. April 2017, GZ 4 R 37/17y-45, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen gaben dem auf Werkvertrag gestützten Klagebegehren im Ausmaß von 35.887,05 EUR sA statt und wiesen das Mehrbegehren von 7.764,40 EUR rechtskräftig ab. In seiner gegen die Stattgebung erhobenen außerordentlichen Revision zeigt der beklagte Werkbesteller keine erhebliche Rechtsfrage iSv § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+1. Nach gesicherter Rechtsprechung wird der Werklohn fällig, wenn eine Verbesserung wegen der Unbehebbarkeit der Mängel nicht in Betracht kommt oder der Besteller die Verbesserung durch den Unternehmer nicht zulässt (RIS-Justiz RS0019929 [T8, T14, T16]). Das Leistungsverweigerungsrecht entfällt auch bei Fehlen der nötigen Kooperation zur Bewerkstelligung der Mängelbehebung durch den Verpflichteten (RIS-Justiz RS0019929 [T18]).
+1.1 Die Beurteilung der Vorinstanzen, die die Fälligkeit des Werklohnanspruchs deshalb bejaht haben, weil der Beklagte eine Verbesserung durch den dazu bereiten Kläger vereitelt und später ausdrücklich abgelehnt hat, hält sich daher im Rahmen der aufgezeigten Rechtsprechung und wirft keine erhebliche Rechtsfrage auf, zumal der Beklagte auch im zweiten Rechtsgang und selbst in der Revision damit argumentiert, dass ihm eine Verbesserung durch den Kläger nicht zumutbar sei.
+1.2 Wegen der dokumentierten dauerhaften Weigerung des Beklagten kommt seinem Hinweis, dass zuletzt (auch) der Kläger an einer Verbesserung nicht mehr interessiert sei, für die Frage der Fälligkeit keine Relevanz zu, weshalb darauf keine Frage iSd § 502 ZPO gestützt werden kann.
+2. Die nur allgemein gehaltenen Ausführungen des Revisionswerbers zum Wandlungsanspruch des Werkbestellers lassen unberücksichtigt, dass das Berufungsgericht das Vorliegen einer entsprechenden Einrede auf Wandlung durch den Beklagten ausdrücklich verneint hat, was in der Revision nicht ansatzweise als Fehlbeurteilung releviert wird. Abgesehen davon, dass der Auslegung von Prozesserklärungen keine erhebliche Bedeutung zukäme (RIS-Justiz RS0042828), können die Ausführungen des Beklagten, ihm stehe bei Misslingen eines Verbesserungsversuchs ein Wandlungsrecht zu, daher die Zulässigkeit des Rechtsmittels nicht begründen.
+3.1 Insoweit der Beklagte mit einem vereinbarten Pauschalpreis von 140.000 EUR argumentiert, ist die Rechtsrüge nicht gesetzmäßig ausgeführt, weil sie sich von den getroffenen Feststellungen entfernt (RIS-Justiz RS0043312).
+3.2 Mit seinem Hinweis, es wäre „im Sinne des Konsumentenschutzgesetzes unzulässig, dem Kläger als Unternehmer dahingehend Glauben zu schenken, dass kein Pauschalpreis in Höhe von 140.000 EUR vereinbart worden sei“, versucht der Beklagte unzulässigerweise Fragen der Beweiswürdigung in dritter Instanz zu relevieren.
+3.3 Schließlich lässt sich aus dem klaren Wortlaut des § 1299 ABGB keine die Höhe eines vereinbarten Werklohnanspruchs betreffende Beweislastregel ableiten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:E119097

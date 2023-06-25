@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.04.2021
+Geschäftszahl
+8Ob37/21f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Insolvenzsache des Schuldners W***** B*****, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, wegen Erteilung der Restschuldbefreiung, über den außerordentlichen Revisionsrekurs des Schuldners gegen den Beschluss des Oberlandesgerichts Innsbruck als Rekursgericht vom 9. Februar 2021, GZ 1 R 183/20a-124, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO iVm § 252 IO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Mit Beschluss vom 5. 9. 2007 wurde über das Vermögen des Schuldners das Konkursverfahren eröffnet. Dieses führte zur Ausschüttung einer Quote von 0,79 % an die Insolvenzgläubiger. Nach Ablehnung eines vom Schuldner angebotenen Zahlungsplans wurde mit Beschluss vom 25. 11. 2008 das Abschöpfungsverfahren eingeleitet und ein Treuhänder bestellt. Nach dessen Schlussbericht vom 30. 12. 2015 errechnete sich nach Ablauf der Abtretungserklärung und Durchführung der Schlussverteilung für die Insolvenzgläubiger eine (weitere) Quote von 0,732 %.
+[2] 		Mit Beschluss vom 4. 7. 2017 wurde das Abschöpfungsverfahren beendet, die Entscheidung über die Restschuldbefreiung bis 31. 12. 2019 ausgesetzt und dem Schuldner unter Verweis auf § 213 Abs 3 (aF) IO „bis zum 31. 12. 2019 die Erfüllung der noch offenen, berechneten Quote von 8,478 % bzw 64.853,15 EUR aufgetragen“.
+[3] 		Mit Beschluss vom 24. 1. 2020 wurde dem Schuldner aufgetragen, binnen 14 Tagen die Erfüllung der Quote von 8,478 % bzw der Ergänzungszahlung von 64.853,15 EUR laut Beschluss vom 4. 7. 2017 nachzuweisen. Der Schuldner erklärte am 20. 2. 2020 zu gerichtlichem Protokoll, dass er die erforderlichen Zahlungen „diese Woche geleistet und die geforderte Quote erfüllt habe“, und legte entsprechende Belege vom 18. 2. 2020 vor.
+[4] 		Das Erstgericht gab dem Restschuldbefreiungsantrag statt.
+[5] 		Das Rekursgericht änderte mit dem angefochtenen Beschluss diese Entscheidung über Rekurs einer Insolvenzgläubigerin dahin ab, dass dem Schuldner die Restschuldbefreiung versagt wird. Es begründete dies im Wesentlichen damit, dass ein Fall des § 213 Abs 3 IO (aF) vorliege und nach dessen letzten Satz das Gericht (nur) bei Nachweis fristgerechter Zahlungen auszusprechen habe, dass der Schuldner von den im Verfahren nicht erfüllten Verbindlichkeiten gegenüber den Insolvenzgläubigern befreit sei.
+Rechtliche Beurteilung
+[6] 		Der Schuldner bringt in seinem außerordentlichen Revisionrekurs keine Rechtsfrage von der Qualität des § 528 Abs 1 ZPO zur Darstellung.
+[7] 		1. Auf ein anhängiges Schuldenregulierungsverfahren, in dem das Abschöpfungsverfahren nach § 213 Abs 3 IO aF für beendet erklärt und die Entscheidung über die Restschuldbefreiung unter Auferlegung von bestimmten Ergänzungszahlungen ausgesetzt wurde, ist § 280 IO nF nicht anzuwenden (RIS-Justiz RS0132015; 8 Ob 95/18f mwH).
+[8] 		2. Hier wurde nach § 213 Abs 3 IO aF das Abschöpfungsverfahren für beendet erklärt, die Entscheidung über die Restschuldbefreiung bis zu drei Jahren ausgesetzt und festgelegt, inwieweit der Schuldner den sich auf die 10%-Quote ergebenden offenen Forderungsbetrag einzelner oder aller Verbindlichkeiten noch erfüllen muss, damit er von den nicht erfüllten Verbindlichkeiten befreit ist. Nach dem letzten Satz der zitierten Vorschrift hat das Gericht bei Nachweis der fristgerechten Zahlungen auszusprechen, dass der Schuldner von den im Verfahren nicht erfüllten Verbindlichkeiten gegenüber den Insolvenzgläubigern befreit ist. Wie vom Senat bereits in 8 Ob 145/15d (Pkt 7) festgehalten, sind wegen der ausdrücklichen Anordnung des Gesetzes in einem Fall wie dem hier vorliegenden nur fristgerechte Zahlungen des Schuldners zu berücksichtigen. Dass bei § 213 Abs 3 KO/IO aF aufgrund des eindeutigen Gesetzeswortlauts die Restschuldbefreiung von der pünktlichen Zahlung der auferlegten Leistungen abhängt, ist auch einhellige Auffassung in der Literatur (Mohr in Konecny/Schubert, Insolvenzgesetze [1998] § 213 KO Rz 19; G. Kodek, Privatkonkurs2 [2015] Rz 688 mwH; Schneider, Zahlung nach Ablauf der Verlängerungsfrist im Abschöpfungsverfahren, ZIK 2016, 126 [127]).
+[9] 		3. Die im Revisionsrekurs zitierten Passagen der Entscheidung 8 Ob 145/15d (Pkt 6) tätigte der Senat zu § 213 Abs 4 IO aF. Auf den Unterschied zwischen Abs 3 und 4 leg cit hinsichtlich der Berücksichtigbarkeit verspäteter Zahlungen machte der Senat in Pkt 7 der Entscheidung 8 Ob 145/15d aufmerksam.
+[10] 		Mangels Rechtsfrage erheblicher Bedeutung iSd § 528 Abs 1 ZPO ist der außerordentliche Revisionsrekurs zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0080OB00037.21F.0430.000

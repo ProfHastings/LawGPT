@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.03.1976
+Geschäftszahl
+7Ob21/76
+Norm
+ABGB §531;
+Außerstreitgesetz §97;
+Versicherungsvertragsgesetz §168;
+Kopf
+SZ 49/41
+Spruch
+Bei der Kapitalversicherung hat der Begünstigte bis zum Eintritt des Versicherungsfalles im Zweifel lediglich ein - unvererbliches - Anwartschaftsrecht; nur bei ausdrücklich vereinbarter Unwiderruflichkeit der Begünstigung tritt der Rechtserwerb schon vor dem Versicherungsfall ein
+OGH 18. März 1976, 7 Ob 21/76 (OLG Linz 1 R 222/75; LG Salzburg 9 Cg 137/75)
+Text
+Der am 10. April 1973 angeblich nach einem Unfall verstorbene Ing. Karl S hatte bei der Beklagten eine bis zum Jahre 1981 laufende Unfallversicherung über 200 000 S abgeschlossen, auf Grund deren im Falle seines unfallsbedingten Ablebens die Versicherungssumme an die Begünstigte Josefine C ausgezahlt werden sollte, Josefine C ist jedoch bereits am 2. November 1972 verstorben.
+Unter Berufung auf die im Versicherungsvertrag aufscheinende Begünstigung begehrt nunmehr die Verlassenschaft nach Josefine C die Auszahlung der Versicherungssumme von 200 000 S samt Nebengebühren.
+Die beklagte Versicherung beantragte Klagsabweisung und wendete u.
+a. ein, infolge des Ablebens der Begünstigten vor dem Versicherungsnehmer sei die Begünstigung hinfällig geworden.
+Beide Untergerichte wiesen das Klagebegehren ab. Das Berufungsgericht führte hiebei in rechtlicher Hinsicht aus: Da die Begünstigungsklausel keinen Vermerk der Unwiderruflichkeit oder einen sonstigen Vermerk, aus dem die Vererblichkeit des Anwartschaftsrechtes zu ersehen wäre, enthalte, sei durch den Tod der Begünstigten die Begünstigung unwirksam geworden. Der begünstigte Dritte erwerbenämlich, wenn nicht Abweichendes im Versicherungsvertrag festgelegt sei, erst mit dem Eintritt des Versicherungsfalles, also im vorliegenden Fall mit dem unfallsbedingten Ableben des Versicherten, sein Recht. Das vorausgehende Anwartschaftsrecht des Begünstigten sei daher nicht als vererblich anzusehen. Aus diesem Gründe müsse nicht überprüft werden, ob das Verlassenschaftsverfahren nach Josefine C noch anhängig sei, weil mangels Vererblichkeit des Anwartschaftsrechtes durch den nach dem Tod der Josefine C eingetretenen Versicherungsfall der Verlassenschaft kein Recht aus dem Versicherungsvertrag anfallen habe können.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Gemäß § 168 VersVG steht das Recht auf die Leistung des Versicherers, falls es bei einer Kapitalversicherung vom bezugsberechtigten Dritten nicht erworben wird, dem Versicherungsnehmer zu. Der Hauptfall des Nichterwerbes dieses Rechtes durch den Begünstigten ist dessen Tod vor Eintritt des Versicherungsfalles. Da nämlich nach § 166 Abs. 2 VersVG ein als bezugsberechtigt bezeichneter Dritter, wenn der Versicherungsnehmer nichts Abweichendes bestimmt, das Recht auf die Leistung des Versicherers erst mit dem Eintritt des Versicherungsfalles erwirbt, kann ein solcher Erwerb bei vorher eingetretenem Tod des Begünstigten nicht erfolgen. Der Begünstigte hat bis zum Eintritt des Versicherungsfalles nur ein Anwartschaftsrecht, das unvererblich ist (Ehrenzweig, Versicherungsvertragsrecht, 411; Prölß - Martin, VersVG[20], 946; Klang[2] III, 17; Preslmayr in JBl. 1961, 402). Nur wenn die Begünstigung umwiderruflich wäre, würde der Rechtserwerb schon vor dem Versicherungsfall eintreten, was zu seiner Vererblichkeit führen müßte. Im Hinblick auf § 166 Abs. 2 VersVG müßte dies jedoch ausdrücklich vereinbart werden. Eine solche Vereinbarung wurde hier nie behauptet.
+Die schon in der Berufung zitierten Entscheidungen und die dort genannte Literaturstelle (Gschnitzer, Erbrecht, 7) haben nicht Fälle zum Gegenstand, in denen der Begünstigte vor Eintritt des Versicherungsfalles verstorben ist.
+Aus den aufgezeigten Erwägungen hält der OGH daran fest, daß das Anwartschaftsrecht des Begünstigten umvererblich ist. Geht man davon aus, dann kann nach dem Tod des Begünstigten auf Grund des nur bis zu seinem Tode wirksamen Anwartschaftsrechtes ein Anspruch auf den Versicherungsvertrag nicht mehr entstehen. Es ist daher unerheblich, ob unter solchen Umständen bei Eintritt des Versicherungsfalles die Verlassenschaftsabhandlung nach dem Begünstigten schon abgeschlossen war oder nicht. Zweck der Verlassenschaftsabhandlung ist die Zuweisung des Nachlasses an die Erben (§§ 797 ff. ABGB). Nachlaß ist gemäß § 531 ABGB der Inbegriff der Rechte und Verbindlichkeiten des Verstorbenen, wobei gemäß § 97 Abs. 1 AußStrG in die Abhandlung nur Rechte einzubeziehen sind, die dem Erblasser zur Zeit seines Todes zustanden. Unvererbliche Anwartschaftsrechte sind nicht Gegenstand des Nachlasses. Die Anhängigkeit der Verlassenschaftsabhandlung hat mit der Frage der Vererblichkeit eines Rechtes nichts zu tun. Auf die Frage der Beendigung oder Nichtbeendigung der Abhandlung nach der begünstigten Person kommt es somit nicht an.

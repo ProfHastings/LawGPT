@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.04.2018
+Geschäftszahl
+5Ob64/18z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer Mag. Pansi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei T*, vertreten durch Dr. Thomas Geser, Rechtsanwalt in Innsbruck, gegen die beklagte Partei Ta*, vertreten durch Dr. Christian Fuchshuber LL.M., Rechtsanwalt in Innsbruck, wegen Räumung, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 18. Jänner 2018, GZ 4 R 2/18z-16, mit dem das Urteil des Bezirksgerichts Innsbruck vom 10. Oktober 2017, GZ 11 C 579/16p-12, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 418,78 EUR (darin 69,80 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Erstgericht verpflichtete die Beklagte zur Räumung des in einer Tiefgarage gelegenen KFZ-Abstellplatzes Nummer 10, der im Zubehör-Wohnungseigentum der Klägerin steht.
+Das Berufungsgericht bestätigte dieses Urteil und erklärte die Revision für zulässig, weil „oberstgerichtliche Rechtsprechung zu einer vergleichbaren Fallkonstellation nicht vorliege, insbesondere dahin, ob Tatsachenfeststellungen, die in einem Vorverfahren, obwohl sie für eine endgültige Entscheidung ungenügend erscheinen, zu einer endgültigen Erledigung geführt haben, auch Bindungswirkung für das nachfolgende Verfahren entfalten, oder ob in diesem Fall das Gericht des Folgeverfahrens anhand der vorliegenden Beweisergebnisse neue und letztlich vom Vorverfahren abweichende Tatsachenfeststellungen treffen darf“.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem den Obersten Gerichtshof nicht bindenden Ausspruch (§ 508a Abs 1 ZPO) des Berufungsgerichts nicht zulässig.
+1. Bindungswirkung im Sinn der Präjudizialität der rechtskräftigen Entscheidung im Vorprozess liegt vor, wenn der als Hauptfrage rechtskräftig entschiedene Anspruch eine Vorfrage für den Anspruch im zweiten Prozess bildet. Jeweils im Einzelfall ist konkret zu prüfen, worüber im Vorprozess als Hauptfrage bzw Hauptgegenstand entschieden wurde (RIS-Justiz RS0127052). Die bloße Lösung als Vorfrage in den Entscheidungsgründen des Vorprozesses löst demgegenüber keine Bindungswirkung aus und erwächst ebenso wenig in Rechtskraft wie die Tatsachenfeststellungen des Gerichts (RIS-Justiz RS0042554; RS0041180; RS0041342). Die Entscheidungsgründe sind nur zur Auslegung und Individualisierung des rechtskräftigen Anspruchs heranzuziehen (RIS-Justiz RS0043259; RS0041357).
+2.1 Die Nutzung des dem Wohnungseigentum der Klägerin als Zubehör zugewiesenen KFZ-Abstellplatzes durch die Beklagte war bereits Gegenstand eines Rechtsstreits zwischen ihr und der Rechtsvorgängerin der Klägerin. In jenem Verfahren wurde das Begehren der Rechtsvorgängerin, die Beklagte habe es zu unterlassen, Fahrzeuge oder sonstige Fahrnisse auf dem Parkplatz abzustellen, wegen einer bestehenden Vereinbarung über die Nutzung des KFZ-Abstellplatzes abgewiesen. Wie im vorliegenden Verfahren war auch im Vorprozess das Bestehen (oder Nichtbestehen) einer Vereinbarung über die Nutzung des KFZ-Abstellplatzes nicht Haupt- sondern Vorfrage, sodass sich die vom Berufungsgericht aufgeworfene Frage nach einer Bindung an die Ergebnisse des Vorprozesses schon deshalb nicht stellt.
+2.2 Die Vorinstanzen haben diese Vereinbarung im vorliegenden Verfahren als Bittleihe (§ 974 ABGB) qualifiziert, weil nach der Abrede der jederzeitige Widerruf vereinbart war (dazu RIS-Justiz RS0019196; RS0019221). Die Beklagte zieht diese Beurteilung ebenso wenig in Zweifel wie die vom Berufungsgericht bejahte Legitimation der Klägerin zum Widerruf, von der sie nach den Feststellungen durch die Aufforderung ihres Anwalts an die Beklagte, den KFZ-Abstellplatz zurückzustellen, noch vor Einbringung der Klage Gebrauch gemacht hat. Damit waren in den beiden Verfahren unterschiedliche Rechtsfragen zu beantworten, was die Beklagte außer Acht lässt, wenn sie eine Durchbrechung der Rechtskraft geltend macht, weil ihr der Erfolg im Vorprozess genommen würde. Ihre Ansicht, sie sei zur Rückgabe des KFZ-Abstellplatzes (sinngemäß) nur unter der Bedingung verpflichtet, dass ihr die Klägerin das Nutzungsrecht am Abstellplatz Nummer 17 verschaffe, findet in den Feststellungen keine Deckung.
+3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+4. Die Kostenentscheidung beruht auf § 41 iVm § 50 ZPO. Die Klägerin hat darauf hingewiesen, dass die Revision nicht zulässig ist, sodass sie Anspruch auf Ersatz der Kosten für die Rechtsmittelbeantwortung hat. Die Bemessungsgrundlage beträgt nach der Bewertung des Streitgegenstands durch sie jedoch nur 2.800 EUR.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E121620

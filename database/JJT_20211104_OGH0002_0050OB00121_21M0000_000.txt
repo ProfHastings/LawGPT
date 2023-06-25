@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.11.2021
+Geschäftszahl
+5Ob121/21m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei E* GmbH & Co KG, *, vertreten durch Mag. Gregor Michalek, Rechtsanwalt in Wien, gegen die beklagte Partei C* W*, vertreten durch Mag. Christian Weimann, Rechtsanwalt in Wien, wegen Aufhebung einer Miteigentumsgemeinschaft (Streitwert 70.177,73 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. April 2021, GZ 13 R 47/21h-75, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Begründung von Wohnungseigentum als Sonderform der Naturalteilung (RIS-Justiz RS0106352 [T1]; RS0013236 [T2]) setzt voraus, dass sie tunlich und möglich ist. Die Naturalteilung ist in der Regel dann möglich und tunlich, wenn die Sache (physisch und im Rechtssinn) geteilt werden kann, ohne dass es im Verhältnis der Summe der Einzelwerte zum Wert der ungeteilten Sache zu einer wesentlichen Wertminderung käme und die Sache zwischen den Teilhabern so aufgeteilt werden kann, dass die entstehenden Teile den Anteilen etwa gleichwertig und diese annähernd gleich beschaffen sind, ohne dass ein unverhältnismäßiger Wertausgleich notwendig wird (RS0013829 [T13]; RS0013831 [T10]; RS0013854 [T9]; vgl auch RS0110440; RS0013230; RS0013852; RS0013851; RS0013856).
+[2] 		Die Realteilung ist demnach (ua) dann unmöglich bzw untunlich, wenn sie zu einer beträchtlichen Wertminderung der geteilten Sache im Vergleich zur ungeteilten Sache führt (5 Ob 109/21x). Bei der Frage der „Beträchtlichkeit“ der Entwertung ist auch der absolute Betrag des Wertunterschieds als wichtiges Kriterium zu berücksichtigen (5 Ob 132/11i).
+[3] 		2. Die Frage der Möglichkeit und Tunlichkeit einer Realteilung ist immer eine Einzelfallbeurteilung, die nur bei einer groben Überschreitung des Beurteilungsspielraums eine erhebliche Rechtsfrage begründet (5 Ob 109/21x; 5 Ob 198/19g mwN; RS0013852 [T12, T13]).
+[4] 		Eine ausnahmsweise im Interesse der Rechtssicherheit auch im Einzelfall aufzugreifende Fehlbeurteilung des Berufungsgerichts liegt nicht vor. Die Rechtsprechung hat eine 5,28%ige Wertminderung als unwesentlich angesehen, nicht jedoch eine 15%ige Wertminderung und dementsprechend darüber liegende Prozentsätze wie etwa 20 % oder 41 % (5 Ob 132/11i mwN).
+[5] 		In der Entscheidung 5 Ob 132/11i wurde die Rechtsansicht, eine Wertverminderung von 12,6 % oder 13,5 % sei beträchtlich und die Realteilung daher untunlich, auch in Anbetracht der absoluten Höhe des Wertverlusts nicht als korrekturbedürftig angesehen. In der Entscheidung 5 Ob 109/21x sah der Fachsenat aber auch in der Beurteilung des Berufungsgerichts, eine Wertdifferenz von 11,76 % hindere selbst unter Berücksichtigung der absoluten Höhe des Wertverlusts die Realteilung nicht, keine Überschreitung des bestehenden Ermessensspielraums. Gegenstand dieses Zurückweisungsbeschlusses ist jene Entscheidung des Berufungsgerichts, die es in der hier angefochtenen Entscheidung zum Maßstab genommen hat. Das Berufungsgericht wies zutreffend daraufhin, dass die Wertdifferenz hier nur minimal höher [0,79 %] und in absoluten Beträgen viel geringer ist. Die Rechtsansicht des Berufungsgerichts, vor dem Hintergrund der den Vorrang der Naturalteilung vor der Zivilteilung betonenden Rechtsprechung sei auch diese Wertdifferenz gerade noch nicht so groß, dass sie eine Naturalteilung durch die Begründung von Wohnungseigentum hindere, hält sich daher im Rahmen der Rechtsprechung des Obersten Gerichtshofs.
+[6] 		3. Die außerordentliche Revision war somit mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:E133461

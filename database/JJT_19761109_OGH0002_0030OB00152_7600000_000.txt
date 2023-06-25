@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.1976
+Geschäftszahl
+3Ob152/76
+Norm
+EO §10a;
+Kriegsopferversorgungsgesetz §55;
+Kopf
+SZ 49/130
+Spruch
+Für die Ermittlung des auf Grund einer Relation zum Nettoeinkommen gebührenden Unterhaltsbetrages sind die tatsächlichen Bezüge (Einkünfte) des Unterhaltspflichtigen auch dann maßgebend, wenn Teile dieser Bezüge gesetzlich unpfändbar bzw. rechtsgeschäftliche Verfügungen darüber unwirksam sind, wobei es keinen Unterschied macht, auf welcher Bestimmung die jeweilige (regelmäßig zwingend angeordnete) Unpfändbarkeit beruht
+OGH 9. November 1976, 3 Ob 152/76 (OLG Wien 5 R 151, 152/76; LG f. ZRS Wien 7 Cg 77/75)
+Text
+Die Ehe der Parteien wurde mit Urteil des Erstgerichtes vom 16. Jänner 1973 aus beiderseitigem Verschulden geschieden. Im Scheidungsverfahren schlossen die Parteien am 16. Jänner 1973 einen gerichtlichen Vergleich, laut dessen Punkt 1 sich der nunmehrige Kläger verpflichtete, der nunmehrigen Beklagten ab Rechtskraft der Scheidung einen monatlichen Unterhaltsbeitrag in der Höhe von "20% seines jeweiligen Nettoeinkommens aus welchem Titel auch immer" im vorhinein zu leisten.
+Der Beklagten steht infolge ihrer am 15. Oktober 1973 erfolgten Neuverehelichung ab diesem Zeitpunkt kein weiterer Unterhaltsanspruch zu.
+Mit rechtskräftiger Exekutionsbewilligung des Erstgerichtes (als Titelgericht) vom 7. Jänner 1975 wurde ihr zur Hereinbringung des von ihr für die Zeit vom 1. Feber bis 15. Oktober 1973 behaupteten Unterhaltsrückstandes von insgesamt 3642.22 S die Exekution durch Pfändung und Überweisung der dem Kläger gegen die Pensionsversicherungsanstalt der gewerblichen Wirtschaft zustehenden Forderung auf in Geld zahlbares Einkommen bewilligt.
+In seiner wegen dieser Exekutionsführung erhobenen Oppositionsklage brachte der Kläger in wesentlichen vor, er habe durch Zahlungen von insgesamt 9437 S seine Schuld zur Gänze betilgt.
+Die Beklagte beantragte Klagsabweisung, weil trotz der unbestrittenen Zahlung von insgesamt 9437 S noch die betriebene Restforderung offen sei. Das unterschiedliche Ergebnis der von den Parteien angestellten Berechnungen ist im wesentlichen auf die Divergenz ihrer Auffassung zurückzuführen, ob die gesamte Rente des Klägers nach dem Kriegsopferversorgungsgesetz oder nur ein Teil n in die Bemessungsgrundlage einzubeziehen ist.
+Das Erstgericht gab dem Klagebegehren statt. Es führte zwar aus, daß auch die in der Rente des Klägers nach dem Kriegsopferversorgungsgesetz enthaltene Pflegezulage sowie das Kleiderpauschale bei Ermittlung der Bemessungsgrundlage zu berücksichtigen sei, meinte jedoch, daß von dem solcherart ermittelten Anspruch der Beklagten jeweils 20% dieser gemäß § 55 KOVG unpfändbaren Bezugsteile wieder abgezogen werden müßten.
+Das Berufungsgericht gab dem Oppositionsbegehren des Klägers nur in Ansehung eines Teilbetrages von 750.82 S statt und wies das Mehrbegehren in Ansehung eines Betrages von 2891.40 S ab.
+Das Berufungsgericht hielt zunächst fest, im vorliegenden Fall sei der Rechtsweg (insoweit in Abgrenzung gegenüber einem Antrag nach § 10a Abs. 2 EO) zulässig, ferner sei das gesamte Einkommen des Klägers mit 61 642 S zu errechnen (darauf entfallen auf Bezüge nach dem Kriegsopferversorgungsgesetz insgesamt 43 072 S auf Bezüge von der
+Pensionsversicherungsanstalt der gewerblichen Wirtschaft insgesamt 18 570 S.
+Zu der von den Parteien unterschiedlich beurteilten Frage führte das Berufungsgericht aus, bei Verpflichtung zu einer quotenmäßigen Unterhaltsleistung müsse der Unterhaltspflichtige, falls der Titel nichts anderes bestimme, die jeweilige Quote von seinen gesamten tatsächlichen Bezügen, also unabhängig davon leisten, ob Teile dieser Bezüge als solche unpfändbar wären, es seien daher Hilflosenzuschüsse, Aufwandsentschädigungen und dergleichen grundsätzlich in die Berechnungsgrundlage einzubeziehen. Auch die Beurteilung des gegenständlichen, wörtlich grammatikalisch auszulegenden Exekutionstitels rechtfertige die Unpfändbarkeit der dem Kläger gemäß § 18 KOVG gewährten Pflegezulage, welche in ihrer Funktion dem Hilflosenzuschuß nach § 105a ASVG gleichkomme, nicht die Ausscheidung dieses Bezugsteiles bei Berechnung des mit 20% des Nettoeinkommens des Klägers fixierten Unterhaltsanspruches der Beklagten.
+Der Oberste Gerichtshof gab der Revision des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Der Kläger wiederholt in der Revision seine Argumentation, die gemäß § 55 Abs. 1 KOVG unpfändbaren Bezugsteile seien nicht in die Bemessungsgrundlage einzubeziehen, also nicht als "Nettoeinkommen aus welchem Titel immer" im Sinne des von den Parteien abgeschlossenen Vergleiches vom 16. Jänner 1973 anzusehen, weil zufolge § 55 Abs. 2 KOVG jede Verfügung über derartige Bezugsteile ohne Rechtswirkung sei, was auch für den gegenständlichen Vergleich gelte; dieser sei daher in Ansehung der allenfalls davon erfaßten, jedoch gemäß § 55 KOVG jeder Verfügung entzogenen Bezugsteile seiner Rente unwirksam.
+Diesen Ausführungen ist entgegenzuhalten, daß mit dem gegenständlichen Vergleich vom 16. Jänner 1973 keine rechtsgeschäftliche Verfügung über derartige Teilbezüge getroffen, sondern zwischen den Parteien eine Unterhaltszahlung vereinbart wurde, bei welcher an Stelle einer betragsmäßigen Fixierung - etwa mit 1500 S monatlich - die Höhe des vom Kläger zu leistenden Unterhaltsbetrages in Relation zu seinem "Nettoeinkommen aus welchem Titel immer" gesetzt wurde. Für die Ermittlung des auf Grund dieser Relation der Beklagten gebührenden Unterhaltsbetrages sind die tatsächlichen Bezüge (Einkünfte) des Unterhaltspflichtigen auch dann maßgebend, falls Teile dieser Bezüge gesetzlich unpfändbar bzw. rechtsgeschäftliche Verfügungen unwirksam sind (ebenso Heller - Berger - Stix, 265/66; SZ 37/83 u. a.; vgl. auch EvBl. 1952/268, 1967/66 u. a.), wobei es keinen Unterschied macht, auf welcher Bestimmung die jeweilige (regelmäßig zwingend angeordnete) gesetzliche Unpfändbarkeit beruht (ebenso insbesondere Heller - Berger - Stix, 252).
+Der OGH tritt daher in diesem entscheidenden Punkt der vom Berufungsgericht vertretenen Rechtsansicht bei.

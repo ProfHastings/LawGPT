@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.05.1955
+Geschäftszahl
+2Ob260/55
+Norm
+ABGB §1295;
+ABGB §1313a;
+ABGB §1315;
+Kopf
+SZ 28/135
+Spruch
+Sturz eines Kunden, im Geschäftslokal infolge Bodenglätte. Keine vertragliche Haftung des Geschäftsinhabers für Verkehrssicherheit des Geschäftslokales gegenüber seinen Kunden.
+Entscheidung vom 18. Mai 1955, 2 Ob 260/55.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Klägerin ist nach einem Einkauf im Lederwarengeschäft des Beklagten gestürzt. Durch diesen Sturz hat sie sich einen Bruch des linken Oberschenkels zugezogen. Mit der Behauptung, daß der Boden des Geschäftslokals frisch geölt gewesen und sie infolgedessen darauf ausgeglitten sei, verlangt sie vom Beklagten Schadenersatz in der Höhe von 20.696 S s.A.
+Das Erstgericht hat das Klagebegehren abgewiesen.
+Der Berufung der Klägerin hat das Berufungsgericht nicht Folge gegeben.
+Der Oberste Gerichtshof hat die Revision der Klägerin abgewiesen.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Auch beim Kaufvertrage ist als vertragliche Nebenverpflichtung des einen Vertragsteils anerkannt (vgl. Geigel, Haftpflichtprozeß, 7. Aufl. S. 333), das körperliche Wohlbefinden des Vertragspartners nicht zu verletzen; der Verkäufer muß die gefahrlose Wegnahme der Sache durch den Käufer ermöglichen (vgl. Gramm in Palandts Kurzkommentar zum BGB., 12. Aufl. S. 445). Der Umfang dieser vertraglichen Nebenverpflichtung des Verkäufers darf aber nicht so weit verstanden werden, daß eine vertragliche Haftung des Verkäufers für die verkehrssichere Beschaffenheit der Ladenräume gegenüber den den Verkaufsladen in Kaufabsicht betretenden oder den Raum nach Kaufabschluß verlassenden Personen anzunehmen wäre (vgl. Gramm a. a. O. S. 445 sowie Geigel a. a. O. S. 359). Es besteht hier ein Unterschied gegenüber den Verpflichtungen, die z. B. einem Gastwirt, Pensionsinhaber oder dem Unternehmer eines Bade- und Kurmittelhauses in der Art obliegen, ihren Gästen das Verweilen in den zum Betriebe gehörenden Räumen zu gewährleisten. Zutreffend hat daher das Berufungsgericht die vertragliche Haftung des Beklagten gegenüber der Klägerin aus dem streitgegenständlichen Unfalle abgelehnt. In dieser Hinsicht ist übrigens das Urteil der Vorinstanz von der Klägerin gar nicht angefochten worden, die zwar auch in der Revision ein schuldhaftes Verhalten des Beklagten behauptet, ohne sich dabei auf eine vertragliche Verpflichtung des Beklagten zustützen. Damit entfällt aber auch die Annahme der Haftung des Beklagten für das Verhalten seiner Angestellten Elfriede P. unter dem Gesichtspunkte des § 1313a ABGB. Denn eine derartige Haftung kommt doch nur dann in Betracht, wenn die Vorfrage zu bejahen ist, ob der Schuldner selbst, wenn er persönlich in gleicher Weise wie sein Gehilfe gehandelt hätte, damit seine Schuldverbindlichkeit verletzt hätte; hätte der Schuldner dabei lediglich eine außerhalb seiner Schuldverbindlichkeit liegende unerlaubte Handlung begangen, ist die Haftung nach § 1313a ABGB. nicht gegeben (vgl. Ehrenzweig 2. Aufl. II/1 S. 296 sowie die vom Berufungsgerichte zutreffend herangezogenen Grundsätze des Plenarbeschlusses des Obersten Gerichtshofes vom 27. Oktober 1936, JB. 50 neu).
+Dem Klagebegehren könnte also nur aus dem Gründe eines eigenen, außervertraglichen Verschuldens des Beklagten oder unter dem Gesichtspunkte der Haftung des Beklagten für seine Angestellte Elfriede P. nach dem ersten Falle des § 1315 ABGB. (Haftung für den untüchtigen Besorgungsgehilfen) Berechtigung zukommen. Im Hinblick auf seine tatsächlichen Feststellungen, die auch im Revisionsverfahren maßgeblich geblieben sind, hat aber das Berufungsgericht die Haftung des Beklagten unter jedem dieser beiden Gesichtspunkte mit Recht abgelehnt.
+Theoretisch richtig weist zwar die Revisionswerberin darauf hin, daß "von einem Geschäftsmann, zu dem Kunden kommen, verlangt werden müsse, alle Gefährenquellen, soweit wie möglich, auszuschalten". Von dieser Ansicht ist auch die Vorinstanz ausgegangen, sie hat aber dazu ausgeführt - und das läßt die Revisionswerberin unberücksichtigt -, daß der Beklagte durch den im Geschäfte erteilten, oben erwähnten Auftrag, bezüglich dessen ihm eine Zuwiderhandlung bis auf den vorliegenden Fall nicht bekannt geworden war, seiner Obsorgeverpflichtung entsprochen habe. Gegen die Richtigkeit dieser Argumentation hat die Revisionswerberin auf der Grundlage der vorinstanzlichen Tatsachenfeststellungen selbst nichts vorbringen können, so daß es genügt, in dieser Hinsicht darauf zu verweisen, daß zufolge dieser Feststellungen ein Verschulden des Beklagten in mangelnder Beaufsichtigung seiner Hilfskräfte oder in verfehlter Arbeitseinteilung nicht vorliegt.
+Aber auch unter dem Gesichtspunkte der Haftung für den untüchtigen Besorgungsgehilfen gemäß § 1315 ABGB. hat das Berufungsgericht auf der Grundlage seiner Tatsachenfeststellungen den Anspruch der Klägerin gegenüber dem Beklagten zutreffend verneint. Dem nach der herrschenden Lehre (vgl. Ehrenzweig a. a. O. S. 689 Anm. 10) und der nunmehr ständigen Rechtsprechung des Revisionsgerichtes (vgl. z. B. SZ. XXV 68 und SZ. XXV 84) beweist das Versagen des Gehilfen in einem einzelnen Falle noch nicht dessen Untüchtigkeit, so daß die Erfolgshaftung des Geschäftsherrn für den Untüchtigen (vgl. Ehrenzweig a. a. O. S. 688) in einem derartigen Falle noch nicht gegeben ist.

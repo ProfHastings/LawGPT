@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.01.2021
+Geschäftszahl
+7Ob175/20s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende sowie die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei V*****, vertreten durch Kosesnik-Wehrle & Langer Rechtsanwälte KG in Wien, gegen die beklagte Partei W***** AG *****, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen Unterlassung und Urteilsveröffentlichung, infolge der Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 17. Juni 2020, GZ 5 R 157/19y-16, mit dem das Urteil des Handelsgerichts Wien vom 1. Oktober 2019, GZ 11 Cg 12/19f-12, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren AZ 7 Ob 175/20s wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen vom 25. November 2020 des Obersten Gerichtshofs Wien zu AZ 6 Ob 77/20x unterbrochen.
+Nach Ergehen dieser Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt.
+Text
+Begründung:
+[1] 		Der klagende Verein ist ein nach § 29 KSchG klagebefugter Verein. Die beklagte Partei ist ein Versicherungsunternehmen.
+[2] 		Der Kläger begehrt gestützt auf seine Aktivlegitimation nach den §§ 28, 29 KSchG, die Beklagte schuldig zu erkennen, es im geschäftlichen Verkehr mit Verbrauchern zu unterlassen, in Allgemeinen Geschäftsbedingungen, die diese von ihr geschlossenen Verträgen zugrundelegt und/oder in hierbei verwendeten Vertragsformblättern (hier konkret als „Datenschutzhinweis“ betitelt), sechs näher bezeichnete und sinngleiche Klauseln zu verwenden oder sich darauf zu berufen, weil diese nach Ansicht des Klägers gegen die im Einzelnen angeführten Bestimmungen der DSGVO verstoßen.
+[3] 		Die Beklagte beantragte die Abweisung des Klagebegehrens und erwiderte (ua), dem Kläger fehle schon die Aktivlegitimation. Eine Verbandsklagebefugnis für Datenschutzverletzungen unter der DSGVO habe der Gesetzgeber nicht geschaffen. Dem Kläger käme daher nur dann ein Klagerecht zu, wenn die Datenschutzinformation als AGB zu werten seien, was hier nicht zutreffe.
+[4] 		Das Erstgericht gab dem Klagebegehren statt.
+[5] 		Das Berufungsgericht änderte diese Entscheidung im Sinn der Abweisung der Klagebegehren mit der wesentlichen Begründung ab, dass dem „Datenschutzhinweis“ im vorliegenden Fall kein Vertragserklärungscharakter (kein Rechtsfolgewille) zukomme. Es sprach aus, dass die ordentliche Revision zulässig sei, weil es sich um einen vom Obersten Gerichtshof bisher noch nicht beurteilten „Datenschutzhinweis“ einer Geschäftsbranche handle, welcher regelmäßig für eine größere Anzahl von Kunden und damit Verbrauchern bestimmt und von Bedeutung sei; überdies sei die Rechtslage nicht so eindeutig, dass nur eine Möglichkeit der Beurteilung in Betracht käme.
+[6] 		Gegen diese Entscheidung richtet sich die Revision des Klägers mit dem Antrag auf Abänderung im Sinn der Wiederherstellung des dem Klagebegehren stattgebenden Ersturteils. In der Revision vertritt der Kläger (ua) die Rechtsansicht, dass die Verbandsklagebefugnis auch für Verstöße gegen die DSGVO bestehe.
+[7] 		Die Beklagte erstattete eine Revisionsbeantwortung und beantragte, die Revision zurückzuweisen, hilfsweise dieser nicht Folge zu geben.
+[8] 		Das Revisionsverfahren ist zu unterbrechen:
+Rechtliche Beurteilung
+[9] 		1. Dem Obersten Gerichtshof liegt zu AZ 6 Ob 77/20x eine Rechtssache vor, in der ebenfalls der auch hier einschreitende klagende Verein – unabhängig von der Behauptung einer konkreten Verletzung von Datenschutzrechten einer betroffenen Person und ohne behaupteten Auftrag einer solchen Person – gestützt auf die Klagebefugnis nach §§ 28, 29 KSchG Unterlassungsbegehren stellt. Dieses richtet sich ebenfalls gegen Klauseln in Vertragsformblättern, die nach Ansicht des Klägers gegen die DSGVO verstoßen.
+[10] 		2. In seinem Vorabentscheidungsersuchen vom 25. November 2020 des Obersten Gerichtshofs Wien zu AZ 6 Ob 77/20x, legte dieser dem Gerichtshof der Europäischen Union folgende Frage zur Vorabentscheidung vor:
+„Stehen die Regelungen in Kapitel VIII, insbesondere in Art. 80 Abs. 1 und 2 sowie Art. 84 Abs. 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung, ABl. L 119/1 vom 4. Mai 2016, S. 1; im Folgenden 'DSGVO') nationalen Regelungen entgegen, die – neben den Eingriffsbefugnissen der zur Überwachung und Durchsetzung der Verordnung zuständigen Aufsichtsbehörden und den Rechtsschutzmöglichkeiten der betroffenen Personen – einerseits Mitbewerbern und andererseits nach dem nationalen Recht berechtigten Verbänden, Einrichtungen und Kammern die Befugnis einräumen, wegen Verstößen gegen die DSGVO unabhängig von der Verletzung konkreter Rechte einzelner betroffener Personen und ohne Auftrag einer betroffenen Person gegen den Verletzer im Wege einer Klage vor den Zivilgerichten unter den Gesichtspunkten des Verbots der Vornahme unlauterer Geschäftspraktiken oder des Verstoßes gegen ein Verbraucherschutzgesetz oder des Verbots der Verwendung unwirksamer Allgemeiner Geschäftsbedingungen vorzugehen?“
+[11] 		3. Die Beantwortung dieser Frage ist auch für das vorliegende Verfahren zur Beurteilung der Aktivlegitimation des Klägers relevant. Da der Oberste Gerichtshof auch in Rechtssachen, in denen er nicht unmittelbar Anlassfallgericht ist, von einer allgemeinen Wirkung der Vorabentscheidung des Gerichtshofs der Europäischen Union auszugehen und diese auch für andere als die unmittelbaren Anlassfälle anzuwenden hat, ist das vorliegende Verfahren aus prozessökonomischen Gründen zu unterbrechen (RS0110583 mwN).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00175.20S.0127.000

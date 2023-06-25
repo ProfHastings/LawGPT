@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2020
+Geschäftszahl
+7Ob156/19w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei L***** W*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei D***** AG, *****, vertreten durch MMag. Christian Mertens, Rechtsanwalt in Innsbruck, und deren Nebenintervenientin R***** GmbH, *****, vertreten durch CHG Czernich Haidlen Gast und Partner Rechtsanwälte GmbH in Innsbruck, wegen 572.149,74 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 22. Juli 2019, GZ 4 R 78/19f, 4 R 79/19b-49, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Versicherungsvertrag (Eigenheimversicherung) abgeschlossen, der (ua) eine Feuerversicherung umfasste. Dieser lagen (ua) die Sonderbedingungen (31Z) für die Neuwertversicherung von Gebäuden und Einrichtungen, soweit sie industriell oder gewerblich genutzt sind oder Wohn- und Bürozwecken dienen, zugrunde, die auszugsweise lauten:
+„Gebäude und Einrichtungen sind zum Neuwert versichert. …
+I.
+Als Ersatzwert gelten bei Gebäuden der ortsübliche Neubauwert … zur Zeit des Eintritts des Schadensfalles.
+…
+II.
+Ist der Zeitwert einer Sache niedriger als 40 % des Neuwertes, so gilt als Ersatzwert der Zeitwert.
+...“
+Weiters haben die Streitteile vereinbart:
+„UNTERGRENZE NEUWERT-ENTSCHÄDIGUNG-ZIVIL-GEWERBE
+In Ergänzung des Punktes II. der Sonderbedingungen für die Neuwertversicherung von Gebäuden und Einrichtungen, soweit sie industriell oder gewerblich genutzt sind oder Wohn- und Bürozwecken dienen, gilt vereinbart, dass ständig gewartete und zu Ihrem Zweck genutzten Gebäude sowie ständig genutzte und in Benützung stehende Einrichtungen einen Zeitwert von mindestens 40 % haben und somit im Schadensfall volle Neuwertentschädigung zusteht.“
+Das Berufungsgericht ging davon aus, dass dem Kläger mangels ständiger Wartung des Objekts lediglich der unter 40 % des Neuwerts gelegene Zeitwert zu ersetzen sei.
+Rechtliche Beurteilung
+1. Die behaupteten Mängel des Berufungsverfahrens hat der Senat geprüft; sie liegen nicht vor:
+1.1. Die – zur Frage einer ständigen Wartung des Gebäudes – im erstinstanzlichen Verfahren nicht erfolgte Einholung eines gerichtlichen Sachverständigengutachtens wäre – gegebenenfalls – ein Mangel des erstinstanzlichen Verfahrens, den der Kläger in seiner Berufung nicht gerügt hat und der nicht mehr erfolgreich in der Revision geltend gemacht werden kann (RS0042963 [insb T30]). Die Frage, welche Bedeutung die Tatsacheninstanzen einem von einer Partei vorgelegten Privatgutachten beigemessen haben, betrifft die in dritter Instanz nicht angreifbare Beweiswürdigung (RS0043291 [T3]). Der vom Kläger zitierten Entscheidung 17 Ob 21/10b lag keine vergleichbare Verfahrenslage zugrunde.
+1.2. Das Berufungsgericht war nach §§ 182, 182a ZPO nicht verpflichtet, den Kläger zur Geltendmachtung eines neuen, im erstinstanzlichen Verfahren auch nicht andeutungsweise vorgetragenen Rechtsgrundes (Anerkenntnis) anzuleiten (RS0120057 [T2]).
+2. Die vom Kläger behauptete unrichtige Beurteilung, liegt nicht vor, weil die Behauptung, die Beklagte habe mit ihrem Schreiben vom 3. 8. 2015 die Zahlungspflicht für eine Versicherungssumme in der Höhe von 327.360 EUR konstitutiv anerkannt, eine im Revisionsverfahren unzulässige Neuerung darstellt. Die Vorlage dieser Urkunde als Beweismittel vermochte ein entsprechendes erstinstanzliches Prozessvorbringen nicht zu ersetzen (RS0037915).
+3. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist die Revision somit nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00156.19W.0219.000

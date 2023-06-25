@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.08.2016
+Geschäftszahl
+8Ob52/16d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, den Hofrat Dr. Brenn sowie die Hofrätinnen Mag. Korn und Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Partei M***** AG, *****, vertreten durch Dr. Bernhard Krause, Rechtsanwalt in Wien, gegen die beklagte Partei Ing. Dr. R***** L*****, vertreten durch Estermann & Partner OG, Rechtsanwälte in Mattighofen, wegen 8.800 EUR sA und Herausgabe (Interesse 30.000 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 7. April 2016, GZ 3 R 43/16t-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Gegenstand der Revisionsausführungen ist nur mehr die Frage, ob der Beklagte gutgläubig Eigentum an einem in Deutschland von einem nicht dazu berechtigten Privaten (seinem Schwiegersohn) gekauften Pkw erworben hat, obwohl ihm trotz Nachfrage die „Zulassungsbescheinigung II“ nicht übergeben werden konnte. Die Vorinstanzen haben diese Frage auf Grundlage des (unstrittig) anzuwendenden deutschen Rechts verneint.
+Rechtliche Beurteilung
+Wie die Revision selbst einräumt, begründet der Mangel einer Rechtsprechung des Obersten Gerichtshofs zum anzuwendenden ausländischen Sachrecht grundsätzlich keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RIS-Justiz RS0042948). Das Vorliegen einer qualifizierten Rechtsfrage wäre nur dann denkbar, wenn der Rechtsmittelwerber darlegen könnte, dass ausländisches Recht unzutreffend ermittelt oder eine im ursprünglichen Geltungsbereich des fremden Rechts in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt wurde (RIS-Justiz RS0042948 [T3; T4; T7; T9]).
+Diese Voraussetzungen zeigt die Revision nicht auf.
+Die Vorinstanzen haben sich auf die in Deutschland herrschende Rechtsprechung zu § 932 BGB gestützt, wonach derjenige grob fahrlässig handelt, der sich beim Kauf eines Gebrauchtwagens die Zulassungsbescheinigung Teil II nicht im Original vorlegen lässt (vgl BGH II ZR 222/95 = NJW 1996, 2226 [2227]; BGH VIII ZR 82/03 = NJW 2005, 1365; zum Kauf von einem Familienmitglied: OLG Oldenburg 19. 10. 2004, 9 U 66/04; s.a. Oechsler in MüKomm BGB6 § 932 Rz 53; Schulte/Nölke in Schulze ua BGB § 932 Rn 14; W. Bayer in Erman, BGB14 § 932 Rz 14 mwN; Prütting/Wegen/Weinreich, BGB10 § 932 Rn 17; Beck'scher OK BGB § 932 Rz 17).
+Die Beurteilung des Verschuldensgrades unter Anwendung der richtig dargestellten Grundsätze, ohne dass ein wesentlicher Verstoß gegen maßgebliche Abgrenzungskriterien vorläge, ist immer einzelfallbezogen (RIS-Justiz RS0087606). Aus diesem Grund sind auch die in der Revision zitierten deutschen Instanzentscheidungen, in denen auf den konkreten Sachverhalt bezogen ein grobes Verschulden des Beklagten verneint wurde, nicht geeignet, die dargestellte Rechtslage grundsätzlich in Frage zu stellen.
+Ob nach den festgestellten besonderen Umständen allenfalls auch eine andere Lösung vertretbar gewesen wäre, begründet aber keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO (RIS-Justiz RS0108494; RS0107768).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0080OB00052.16D.0817.000

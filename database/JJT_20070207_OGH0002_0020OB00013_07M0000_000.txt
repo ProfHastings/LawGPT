@@ -1,0 +1,17 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.02.2007
+Geschäftszahl
+2Ob13/07m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Baumann als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Veith, Dr. Grohmann und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Hans-Peter S*****, vertreten durch Mag. Martin Kratky, Rechtsanwalt in Baden, gegen die beklagte Partei Dr. Ingeborg H*****, vertreten durch Dr. Michael Prager RechtsanwaltsGmbH in Wien, wegen Feststellung (Streitinteresse: EUR 21.000), infolge außerordentlicher Revision der beklagten Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 21. November 2006, GZ 12 R 153/06t-59, in nichtöffentlicher Sitzung den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Begriff „Betrieb" iSd § 1 EKHG ist dahin zu verstehen, dass entweder ein innerer Zusammenhang mit einer dem Kraftfahrzeugbetrieb eigentümlichen Gefahr oder, wenn dies nicht der Fall ist, ein adäquat ursächlicher Zusammenhang mit einem bestimmten Betriebsvorgang oder einer bestimmten Betriebseinrichtung des Kraftfahrzeuges bestehen muss (RIS-Justiz RS0022592). Ob diese Voraussetzungen gegeben sind, kann nur anhand der Umstände des Einzelfalls entschieden werden und geht über die Bedeutung des Einzelfalls nicht hinaus (2 Ob 33/06a; RIS-Justiz RS0111365).
+Ein Kraftfahrzeug ist in Betrieb, sobald sein Motor als Kraftquelle der Bewegung in Gang gebracht wird (RIS-Justiz RS0058213). Beim Starten des Motors des PKWs der Beklagten handelte es sich daher um einen Betriebsvorgang, der mit dem dabei ausgelösten Brand und dessen Schadensfolgen in einem adäquat ursächlichen Zusammenhang steht. Der Oberste Gerichtshof hat auch schon klargestellt, dass es für die Annahme eines Betriebsunfalles nicht entscheidend ist, ob der Motor (als „Kraftquelle der Bewegung") tatsächlich zum Zweck der Fortbewegung von Ort zu Ort in Gang gesetzt wird (SZ 40/80 = ZVR 1968/94 [zum Schmieren des Getriebes]; vgl ferner die Zitate in RIS-Justiz RS0058248). Die Haftung nach dem EKHG setzt weiters nicht voraus, dass der haftungsbegründende Betrieb des Kraftfahrzeuges auf einer Straße mit öffentlichem Verkehr erfolgt (2 Ob 151/99s; RIS-Justiz RS0058090).
+Die auf die einschlägige Rechtsprechung des Obersten Gerichtshofes und auf die Gesetzesmaterialien zu § 1 EKHG gestützte Rechtsansicht des Berufungsgerichtes, das Starten des Motors des in einer Lagerhalle eingestellten Kraftfahrzeuges der Beklagten sei auch dann, wenn mit diesem Vorgang nur ein „Festgehen der Kolben" vermieden werden sollte, als Inbetriebnahme des Kraftfahrzeuges zu qualifizieren, stimmt mit den dargelegten Grundsätzen überein und lässt keine erhebliche Fehlbeurteilung erkennen.
+Aus den im Rechtsmittel zitierten Entscheidungen sind keine Erkenntnisse zu gewinnen, die eine Korrektur der Rechtsansicht des Berufungsgerichtes aus Gründen der Einzelfallgerechtigkeit erfordern würde. Weder der Entscheidung 9 ObA 36/03i noch der Entscheidung 2 Ob 243/98v lag ein Unfall zugrunde, der sich bei laufendem Motor eines Kraftfahrzeuges, oder beim Versuch, diesen zu starten, ereignet hat.

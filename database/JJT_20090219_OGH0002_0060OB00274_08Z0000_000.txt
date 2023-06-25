@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2009
+Geschäftszahl
+6Ob274/08z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek sowie die Hofrätin des Obersten Gerichtshofs Dr. Tarmann-Prentner als weitere Richter in der Rechtssache der klagenden Partei K*****N***** GmbH, *****, vertreten durch Mag. Ralph Kilches, Rechtsanwalt in Wien, gegen die beklagte Partei I***** I***** Ges.m.b.H., *****, vertreten durch Dr. Friedrich Schubert, Rechtsanwalt in Wien, wegen 35 EUR und Unterlassung (Streitwert 30.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 17. September 2008, GZ 2 R 95/08t-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Vorweg ist festzuhalten, dass die in der Revisionsschrift gemäß § 32 Abs 6 DSG zur Nebenintervention aufgeforderte Datenschutzkommission mit Schreiben vom 20. 11. 2008, GZ K212.089/0002-DSK/2008, erklärt hat, nicht in das Verfahren einzutreten.
+Im Revisionsverfahren ist nur mehr strittig, ob die Beklagte für den Wettbewerbsverstoß der F***** GmbH verantwortlich gemacht werden kann.
+Ein wettbewerbsrechtlicher Unterlassungsan- spruch richtet sich zunächst gegen den unmittelbaren Täter, aber auch gegen Mittäter, Anstifter und Gehilfen des eigentlichen Störers. Für wettbewerbswidriges Verhalten eines anderen hat jeder einzustehen, der den Wettbewerbsverstoß durch eigenes Verhalten gefördert oder überhaupt ermöglicht hat (ÖBl 1999, 229 - Erinasolum; ÖBl 2003, 22; 4 Ob 156/03z; 4 Ob 227/03s).
+Unmittelbarer Täter ist jene Person, von der die Beeinträchtigung ausgeht und auf deren maßgeblichem Willen sie beruht (4 Ob 279/01k MR 2002, 156 - Aufzugsanlagen). Als (Mit)Täter eines Eingriffs in fremde Rechte haftet nach ständiger Rechtsprechung, wer tatbestandsmäßig handelt (RIS-Justiz RS0079462 [T13], RS0079765 [T30]). Für eine aktive (Mit)Täterschaft der Beklagten bieten im vorliegenden Fall die - im Revisionsverfahren nicht mehr bekämpfbaren - Tatsachenfeststellungen überhaupt keinen Anhaltspunkt. Als „Gehilfe" haftet nur, wer den Täter bewusst fördert (ÖBl 1991, 101 - Einstandsgeschenk ua). Er muss zur Ausführung der Tat beitragen oder diese erleichtern (vgl § 12 StGB und § 7 VStG; ÖBl 2003, 22 mwN; RIS-Justiz RS0031329, RS0079462). Da der „Gehilfe" im Sinne des § 1301 ABGB eine adäquate Ursache für die Störungshandlungen eines anderen setzt, muss er auch die Tatbestände, die sein rechtswidriges Verhalten begründen, kennen, also Kenntnis vom beabsichtigten Rechtsbruch des Dritten haben oder diesen jedenfalls in Kauf nehmen. Er muss den Sachverhalt kennen, der den Vorwurf gesetzwidrigen Verhaltens begründet oder zumindest eine diesbezügliche Prüfpflicht verletzt haben (RIS-Justiz RS0079765, RS0031329 [T9]). Diese Prüfpflicht ist auf grobe und auffällige Wettbewerbsverstöße beschränkt (4 Ob 50/07t).
+Ohne konkreten Anlass für ein Misstrauen muss ein Unternehmer nicht damit rechnen, dass ein anderer Unternehmer fremde Daten, die ihm zufällig im Zuge einer Vertragsbeziehung (hier: als „Provider") zur Kenntnis gelangen, rechtswidrig für eigene Zwecke verwenden wird. Dass für die Beklagte bereits vor dem klagsgegenständlichen Vorfall ein solcher Anlass bestanden hätte, kann dem festgestellten Sachverhalt aber nicht entnommen werden.
+Mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO war die außerordentliche Revision der Klägerin zurückzuweisen.

@@ -1,0 +1,42 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+07.05.2019
+Geschäftszahl
+133R36/19w
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht durch den Senatspräsidenten Dr. Hinger als Vorsitzenden sowie den Richter Dr. Schober und den Patentanwalt DI Nemec in der Rechtssache der klagenden Parteien 1. *****, und 2. *****, beide vertreten durch die Polak & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei *****, vertreten durch die Kletzer Messner Mosing Schnider Schultes Rechtsanwälte OG in Wien, wegen Unterlassung und anderer Ansprüche (Sicherungsinteresse EUR 43.200) über den Rekurs der klagenden Parteien und den Kostenrekurs der beklagten Partei (Interesse EUR 3.005) gegen den Beschluss des Handelsgerichts Wien vom 18.2.2019, 30 Cg 31/18p-11, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Der Rekurs der klagenden Parteien wird in Bezug auf das Unterlassungsbegehren zurückgewiesen. Im Übrigen wird ihm teilweise Folge gegeben und die Kostenentscheidung der angefochtenen Entscheidung geändert; sie lautet:
+«Die klagenden Parteien haben ihre Kosten des Sicherungsverfahrens vorläufig selbst zu tragen.
+Die beklagte Partei hat ihre Kosten des Sicherungsverfahrens endgültig selbst zu tragen.»
+Die klagenden Parteien haben die Kosten des Rekurses vorläufig selbst zu tragen.
+Die beklagte Partei hat die Kosten der Rekursbeantwortung endgültig selbst zu tragen.
+II. Die beklagte Partei wird mit ihrem Kostenrekurs auf diese Entscheidung verwiesen.
+Die Streitteile haben die Kosten des Kostenrekurses und der Kostenrekursbeantwortung endgültig selbst zu tragen.
+III. Der Wert des Entscheidungsgegenstands zum Sicherungsbegehren übersteigt EUR 30.000.
+Der Revisionsrekurs ist hinsichtlich des Sicherungsverfahrens nicht zulässig; in Bezug auf den Kostenrekurs ist er jedenfalls unzulässig.
+Begründung
+Text
+1.1. Die Klägerinnen sahen sich in ihrem Recht verletzt, das sie aus dem ergänzenden Schutzzertifikat („ESZ“) SZ 26/2005 ableiten, das sich auf das Grundpatent AT E 180249 stützt. Dieses ESZ gilt für das Erzeugnis E***** oder ein pharmazeutisch annehmbares Salz davon kombiniert mit S*****.
+Strittig ist die Frage, ob dieses ESZ rechtsbeständig ist, ob es also zu Recht erteilt wurde. Die Beklagte steht dazu auf dem Standpunkt, für das Erzeugnis sei bereits früher ein ESZ erteilt worden (nämlich SZ 20/2003; Art 3 lit c ESZ-VO); die Genehmigung für das Erzeugnis sei nicht die erste für sein Inverkehrbringen als Arzneimittel (Art 3 lit d ESZ-VO). Das erwähnte ältere ESZ sei für ein Erzeugnis erteilt worden, das nur den Wirkstoff E***** enthalte, während das nun geltend gemachte ESZ ein Erzeugnis schützen solle, das den Wirkstoff E***** in Kombination mit S***** enthalte.
+1.2. Das Erstgericht wies den Sicherungsantrag mit dem Argument ab, das ESZ sei nicht rechtsbeständig, und verpflichtete die Klägerinnen zum Kostenersatz.
+1.3. Dagegen richtet sich der Rekurs der Klägerinnen mit dem Antrag, die einstweilige Verfügung zu erlassen, und der Kostenrekurs der Beklagten (zum Umfang der ihr zu ersetzenden Kosten).
+Die Streitteile beantragen jeweils, dem Rechtsmittel der Gegenseite nicht Folge zu geben.
+Rechtliche Beurteilung
+Dazu hat der Senat erwogen:
+2. Das ESZ, auf das die Klägerinnen das Unterlassungsbegehren und den Sicherungsantrag stützten, verlor – wie das Erstgericht unbekämpft und in Übereinstimmung mit der dazu vorliegenden Urkunde als bescheinigt festhielt – seine Wirksamkeit mit Ablauf des 2.4.2019. Somit ist eine Änderung der angefochtenen – den Sicherungsantrag abweisenden – Entscheidung im Sinn einer Stattgebung des Sicherungsantrags zum Zeitpunkt der Entscheidung des Rekursgerichts nicht möglich und es fehlt den Klägerinnen die auf das Unterlassungsbegehren bezogene Beschwer (RIS-Justiz RS0002495).
+Die Frage, ob das ESZ 26/2005 rechtsbeständig war, muss im Provisorialverfahren nicht geklärt werden.
+3.1. Allerdings besteht die Beschwer der Klägerinnen weiterhin in Bezug auf ihre Kostenersatzpflicht für das Sicherungsverfahren erster Instanz (vgl zur Relevanz im Rechtsmittelverfahren Zechner in Fasching/Konecny2 Vor §§ 514 ff Rz 57; 4 Ob 404/87).
+3.2. Überdies ist eine Kostenentscheidung für das Rekursverfahren zu treffen, bei der § 50 Abs 2 ZPO (iVm § 78 EO) anzuwenden ist, weil das Rechtsschutzinteresse der Klägerinnen am Rechtsmittel nachträglich weggefallen ist. Auch für die auf das Rekursverfahren bezogene Kostenentscheidung wäre somit zu prüfen, ob das Rechtsmittel erfolgreich gewesen wäre. Das Gesetz fordert allerdings, dass dafür kein unverhältnismäßiger Verfahrensaufwand getrieben werden soll. Daraus ist jedenfalls abzuleiten, dass die Kostenentscheidung für die meritorische Endentscheidung in Bezug auf die über das Unterlassungsbegehren hinausgehenden Begehren nicht präjudiziell ist und auch keine weiterführenden Anhaltspunkte aus ihr abzuleiten sind.
+3.3. Summarisch und nur für die Zwecke der Kostenentscheidung – in concreto beider Instanzen – ist anzumerken, dass im Zweifel die formelle Beständigkeit des ESZ für den Standpunkt der Klägerinnen spricht, dass prima vista die Kombination der beiden genannten Wirkstoffe vom Grundpatent geschützt wird (Anspruch 17), dass die Judikatur des EuGH die Gewährung mehrerer ESZ auf Grund eines Grundpatents nicht ausschließt (C-484/12, Georgetown University/Octrooicentrum Nederland) und dass die Entscheidungen C-443/12, Actavis/Sanofi, und C-577/13, Actavis/Boehringer, deswegen nicht unmittelbar einschlägig zu sein scheinen, weil sich diese beiden Entscheidungen auf Sachverhalte beziehen, bei denen die Wirkstoffkombination des begehrten jeweils zweiten ESZ nicht vom jeweiligen Grundpatent umfasst war.
+Für die Zwecke der Kostenentscheidungen ist somit davon auszugehen, dass der Rekurs der Klägerinnen erfolgreich gewesen wäre. Ihre Kostenersatzpflicht ist somit aus der angefochtenen Entscheidung zu eliminieren.
+4.1. Die Beklagten sind zu ihrem Kostenrekurs auf diese Erwägungen zu verweisen. Die Frage, ob die Klägerinnen auch die Kosten eines patentanwaltlichen Gutachtens zu ersetzen hätten, hat angesichts der Tatsache, dass die angefochtene Entscheidung – nur aus dem Blickwinkel der Kostenfrage – nicht hätte bestätigt werden können, keine praktische Relevanz, sondern nur mehr eine theoretische Bedeutung.
+4.2. In Bezug auf die Kosten des Kostenrekurses und der Kostenrekursbeantwortung ist § 50 Abs 2 ZPO wegen der Subsidiarität dieses Rechtsmittels nicht anwendbar (Obermaier, Kostenhandbuch3 Rz 1.98); ein darauf bezogener Kostenersatz findet nicht statt.
+5. Nach §§ 402 Abs 4 und 78 Abs 1 EO gelten für das Rekursverfahren die Vorschriften der ZPO sinngemäß. Mangels planwidriger Gesetzeslücke ist § 519 Abs 1 Z 1 ZPO im Rekursverfahren nicht anzuwenden, weshalb auch bei der Zurückweisung des Rekurses eine Bewertung und ein Zulässigkeitsausspruch vorzunehmen sind (5 Ob 159/99i; Kodek in Angst/Oberhammer3 § 402 EO Rz 11). Die Bewertung des Entscheidungsgegenstands orientiert sich an der Bewertung durch die Klägerinnen.
+Mangels Vorliegens einer Rechtsfrage von der Qualität des § 528 Abs 1 ZPO war der ordentliche Revisionsrekurs nicht zuzulassen.
+Fragen des Kostenersatzes können jedenfalls nicht an den OGH herangetragen werden (§ 528 Abs 2 Z 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OLG0009:2019:13300R00036.19W.0507.000

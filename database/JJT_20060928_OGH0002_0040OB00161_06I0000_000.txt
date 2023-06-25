@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.09.2006
+Geschäftszahl
+4Ob161/06i
+Kopf
+Der Oberste Gerichtshof hat durch die Vizepräsidentin des Obersten Gerichtshofs Hon. Prof. Dr. Griß als Vorsitzende und durch die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Partei C***** S.a.l., *****, vertreten durch Dr. Lothar Hofmann, Rechtsanwalt in Wien, gegen die beklagte Partei A***** GmbH, *****, vertreten durch Dr. Gottfried Bischof, Rechtsanwalt in Wien, wegen Herausgabe und Feststellung (Streitwert im Sicherungsverfahren 50.000 EUR), über den außerordentlichen Revisionsrekurs der Klägerin gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 16. Juni 2006, GZ 4 R 106/06x-11, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen (§ 528a iVm § 510 Abs 3 ZPO).
+Text
+Begründung:
+1. Die Klägerin begehrt von der Beklagten die Herausgabe von Wartungsunterlagen für ein nun von ihr geleastes Luftfahrzeug. Sie stützt sich dabei auf § 56 der Zivilluftfahrzeug- und Luftfahrtgerät-Verordnung 2005 (ZLLV 2005, BGBl II 2005/424). Diese Bestimmung begründe einen zivilrechtlichen Herausgabeanspruch; ihre Verletzung sei auch als wettbewerbswidriges Verhalten iSv § 1 UWG anzusehen. Im Provisorialverfahren strebt die Klägerin eine inhaltsgleiche einstweilige Verfügung an, die sie einerseits auf § 24 iVm § 15 UWG und andererseits auf § 381 Z 2 EO stützt. Die Beklagte beruft sich auf ein zivilrechtliches Zurückbehaltungsrecht wegen eines auf das Flugzeug gemachten Aufwands. Die Voraussetzungen für eine einstweilige Verfügung lägen nicht vor.
+Rechtliche Beurteilung
+2. Die Vorinstanzen haben einen Wettbewerbsverstoß mit der Begründung verneint, dass wegen der von der Beklagten angestrebten Durchsetzung von zivilrechtlichen Ansprüchen kein Handeln in Wettbewerbsabsicht festgestellt werden könne. Diese Ansicht ist nicht zu beanstanden.
+Ein Handeln zu Zwecken des Wettbewerbs iSv § 1 UWG liegt in jedem
+Verhalten, das objektiv geeignet ist, relative Wettbewerbspositionen
+zu beeinflussen, also den Absatz oder Bezug eines Unternehmens zum
+Nachteil eines Mitbewerbers zu fördern, und das darüber hinaus
+subjektiv von der entsprechenden Wettbewerbsabsicht getragen wird (4
+Ob 353/82 = ÖBl 1983, 127 - Immobilienmakler- Abgabeprovision; 4 Ob
+348/86 - ÖBl 1987, 23 - Recyclingpapier; 4 Ob 107/03v = ÖBl 2004, 71
+- Bauträgerverträge). Ob Wettbewerbsabsicht vorliegt, ist eine Tat-,
+keine Rechtsfrage (RIS-Justiz RS0043607).
+Bei Handlungen wettbewerblichen Charakters ist die Wettbewerbsabsicht zwar grundsätzlich zu vermuten (RIS-Justiz RS0088261). Diese Vermutung kann aber nicht mehr eingreifen, wenn die mögliche Auswirkung auf den Wettbewerb - wie hier - nur mittelbare Folge der versuchten Durchsetzung eines zivilrechtlichen Anspruchs ist, der nicht von vornherein als völlig unbegründet abgetan werden kann (vgl allgemein zu Handlungen mit fehlendem Wettbewerbscharakter RIS-Justiz RS0040241). Die Negativfeststellung der Vorinstanzen zur Wettbewerbsabsicht - die überdies im Gesamtzusammenhang wohl eher als unglücklich formulierte Positivfeststellung des Nichtvorliegens zu deuten ist - geht daher zur Lasten der Klägerin.
+Die behauptete Aktenwidrigkeit - die Beklagte habe das Bestehen von Ansprüchen im Verfahren nicht bestritten - ist bei dieser Sachlage irrelevant. Zudem ist die Auslegung von Parteivorbringen idR keine Rechtsfrage erheblicher Bedeutung iSv § 528 Abs 1 ZPO (vgl RIS-Justiz RS0042828).
+Ein wettbewerbsrechtlicher Anspruch scheidet daher von vornherein aus. Es ist daher nicht zu prüfen, ob § 56 ZLLV 2005 überhaupt anwendbar ist (die Beklagte behauptet vorrangige Regelungen des Gemeinschaftsrechts), ob die Beklagte mit der Nichtherausgabe an die Klägerin, die nicht Halterin ist, überhaupt gegen diese Bestimmung verstößt, und ob der - einer Sicherung nach § 24 UWG grundsätzlich
+zugängliche (4 Ob 102/93 = wbl 1994, 195 - Jahresbonifikation; 4 Ob
+90/95 = wbl 1996, 212 - Feuerlöschgeräte) - Beseitigungsanspruch nach § 15 UWG auch ein Herausgabebegehren rechtfertigen kann. Eine Sicherheitsleistung kann die gänzlich fehlende Anspruchsbescheinigung nicht ersetzen (RIS-Justiz RS0005694).
+3. Die Klägerin stützt ihren Sicherungsantrag auch auf die Gefahr eines unwiederbringlichen Schadens iSv § 381 Z 2 EO. Selbst wenn eine solche Gefahr bestünde, könnte eine einstweilige Verfügung aber nur erlassen werden, wenn aus § 56 ZLLV 2005 tatsächlich ein zivilrechtlicher Anspruch auf Herausgabe der Unterlagen abzuleiten wäre. Das ist zweifelhaft: § 56 ZLLV 2005 könnte auch als bloße verwaltungsrechtliche Absicherung von im Übrigen zivilrechtlich begründeten (und daher im Streitfall auch zivilrechtlich zu begründenden) Ansprüchen angesehen werden. In diesem Fall müsste sich die Klägerin an ihren Vertragspartner halten, der wiederum (allenfalls über weitere Zwischenpersonen) gegen die Beklagte vorgehen könnte.
+Aber auch bei Annahme einer unmittelbaren zivilrechtlichen Wirkung scheiterte der Sicherungsantrag aus zwei Gründen: Zum einen stünde der Anspruch nach § 56 ZLLV 2005 nur dem neuen Halter zu, der hier eine von der Klägerin verschiedene Person ist; ein eigenes Recht auf Leistung an Dritte kann die Klägerin aus dieser Bestimmung keinesfalls ableiten. Zum anderen wäre ein drohender Kundenverlust oder eine Existenzgefährdung zwar ein unwiederbringlicher Schaden iSv § 381 Z 2 EO (RIS-Justiz RS0005256, RS0005309). Das Erstgericht hat aber keine Tatsachen als bescheinigt angenommen, die diese Annahmen tragen würden. Die fehlende Gefährdungsbescheinigung kann nicht durch eine Sicherheitsleistung ersetzt werden (RIS-Justiz RS0005141).

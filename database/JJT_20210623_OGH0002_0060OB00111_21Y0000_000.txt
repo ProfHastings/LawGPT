@@ -1,0 +1,20 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.2021
+Geschäftszahl
+6Ob111/21y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden, die Hofräte Univ.-Prof. Dr. Kodek und Dr. Nowotny, die Hofrätin Dr. Faber und den Hofrat Mag. Pertmayr als weitere Richter in der Firmenbuchsache der im Firmenbuch des Landesgerichts ***** zu FN ***** eingetragenen T***** GmbH mit Sitz in ***** über den außerordentlichen Revisionsrekurs der Gesellschaft und der Geschäftsführerin D***** A*****, beide *****, vertreten durch Dr. Peter-Leo Kirste, Rechtsanwalt in Salzburg, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 16. April 2021, GZ 30 R 42/21y, 30 R 43/21w-11, -12 den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die Frist für die Einreichung des Jahresabschlusses zum Firmenbuch wurde vom Gesetzgeber aus Anlass der COVID-19-Pandemie – abweichend von § 277 Abs 1 UGB – auf spätestens 12 Monate nach dem Bilanzstichtag und somit auf das nach Art 30 der Richtlinie 2013/34/EU (Bilanz-Richtlinie) erlaubte Höchstausmaß ausgedehnt (§ 3a Abs 2 COVID-19-GesG; Artmann in Resch, Corona-Handbuch1.04 Kap 12 Rz 46 [Stand 29. 1. 2021, rdb.at]). Der Bilanzstichtag der Gesellschaft ist der 31. 12., sodass der Jahresabschluss für das Jahr 2019 spätestens bis 31. 12. 2020 beim Erstgericht einzureichen gewesen wäre.
+[2] 		Der pauschale Verweis des Revisionsrekurses auf die Pandemie vermag von der gesetzlichen Verpflichtung zur Aufstellung und Offenlegung des Jahresabschlusses nicht zu entbinden (vgl 6 Ob 259/20m). Die Abhaltung einer Generalversammlung wäre auch in virtueller Form möglich gewesen (vgl § 1 COVID-19-GesG); konkrete Gründe für die Unmöglichkeit der Erstellung des Jahresabschlusses vermag der Revisionsrekurs nicht aufzuzeigen.
+[3] 		Auch der Hinweis auf eine angeblich zwischen dem BMJ und der VdRÖ akkordierte „Toleranzperiode“ geht ins Leere. Abgesehen davon, dass der Jahresabschluss nicht einmal innerhalb dieser angeblichen „Toleranzperiode“ eingereicht wurde, sondern erst neun Tage nach deren Ablauf, ist das Gericht nicht an Stellungnahmen oder Ansichten des BMJ oder der VdRÖ gebunden. Ein allfälliges Vertrauen darauf, die gerichtlichen Entscheidungsorgane würden ihrer in § 283 Abs 1 UGB festgeschriebenen gesetzlichen Pflicht, wonach die Zwangsstrafe nach Ablauf der Offenlegungsfrist zwingend zu verhängen ist, einen Monat und neun Tage lang nicht nachkommen, ist nicht schutzwürdig.
+[4] 		Der Revisionsrekurs vermag sohin keine Rechtsfragen der von § 62 Abs 1 AußStrG geforderten Qualität aufzuzeigen, sodass er spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00111.21Y.0623.000

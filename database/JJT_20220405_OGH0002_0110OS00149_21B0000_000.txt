@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.04.2022
+Geschäftszahl
+11Os149/21b
+Kopf
+Der Oberste Gerichtshof hat am 5. April 2022 durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Schwab als Vorsitzenden sowie die Vizepräsidentin des Obersten Gerichtshofs Mag. Marek, die Hofrätinnen des Obersten Gerichtshofs Dr. Bachner-Foregger und Mag. Fürnkranz und den Hofrat des Obersten Gerichtshofs Dr. Oberressl als weitere Richter in der Strafsache gegen * B* wegen des Vergehens der Untreue nach § 153 Abs 1, Abs 3 erster Fall StGB über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts Wiener Neustadt als Schöffengericht vom 27. September 2021, GZ 42 Hv 55/21p-17, sowie die Beschwerde des Angeklagten gegen den zugleich damit ergangenen Beschluss nach § 494 StPO nach Anhörung der Generalprokuratur gemäß § 62 Abs 1 zweiter Satz OGH-Geo 2019 den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Zur Entscheidung über die Berufung und die Beschwerde werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Dem Angeklagten fallen die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurde * B* des Vergehens des betrügerischen Datenverarbeitungsmissbrauchs nach § 148a Abs 1, Abs 2 zweiter Fall StGB (idF vor BGBl I 2021/201, die sowohl zur Tatzeit als auch zum Zeitpunkt der Urteilsfällung in erster Instanz noch in Geltung stand) schuldig erkannt.
+[2] 			Danach hat er vom 26. Februar 2020 bis zum 16. März 2020 in T* mit auf unrechtmäßige Bereicherung gerichtetem Vorsatz einen anderen dadurch am Vermögen geschädigt, dass er das Ergebnis einer automationsunterstützten Datenverarbeitung durch Löschung von Daten beeinflusste, wobei er durch die Tat einen 5.000 Euro übersteigenden Schaden herbeiführte, indem er 51 Zahlungen von zusammen 66.500 Euro für die Teilnahme an Online-Spielen beim Internet-Spieleanbieter Be* Limited und für ein Investment bei der R* Limited bei dem dazwischen geschalteten Finanzdienstleister P* Limited unter Verwendung seines „eBanking-Accounts“ bei der B* in Auftrag gab und durch die Eingabe seiner Verfügungsdaten autorisierte, sodass der jeweilige Zahlungsbetrag auf der Internetseite des betreffenden Vertragspartners (Be* Limited oder R* Limited) für ihn freigegeben wurde, jedoch anschließend den jeweiligen Auftrag im eigenen „eBanking-Account“ wieder stornierte „und die Zahlungsaufträge aus der Auftragsmappe löschte“, weshalb die Überweisung des Geldbetrages unterblieb.
+Rechtliche Beurteilung
+[3] 		Dagegen wendet sich die aus § 281 Abs 1 Z 9 lit a StPO erhobene Nichtigkeitsbeschwerde des Angeklagten.
+[4] 		An sich zutreffend (vgl RIS-Justiz RS0094395) bringt sie vor, das Löschen der Zahlungsaufträge aus der Auftragsmappe des „eBanking-Accounts“ (US 3) erfülle den Tatbestand des § 148a Abs 1 StGB nicht. Sie versäumt es jedoch, nach Maßgabe juristisch geordneter Gedankenführung darzulegen, weshalb dies zur – angestrebten – rechtlichen Konsequenz eines Freispruchs führen sollte (siehe aber RIS-Justiz RS0116565).
+[5] 		Dass die (dem Löschen aus der Auftragsmappe vorangegangene) Stornierung des jeweils erteilten Zahlungsauftrags (US 3) ebenfalls kein nach § 148a StGB tatbildliches Verhalten sein sollte, behauptet sie nämlich – zu Recht (vgl Kirchbacher/Sadoghi in WK2 StGB § 148a Rz 20; Leukauf/Steininger/Flora, StGB4 § 148a Rz 13) – nicht.
+[6] 		Hinzugefügt sei, dass das Erstgericht die jeweilige Löschung aus der Auftragsmappe ohnedies – zutreffend – nicht als Ausführungs-, sondern als (dieser nachfolgende) Verschleierungshandlung ansah (US 3).
+[7] 		Aus welchem Grund der Tatbestand des § 148a Abs 1 StGB – entgegen dessen Wortlaut – (über den hierauf gerichteten Vorsatz hinaus auch) den Eintritt einer unrechtmäßigen Bereicherung erfordern sollte, macht die weitere Rüge nicht klar.
+[8] 		Der – zudem nicht auf der Basis des festgestellten Sachverhalts (US 2 ff) entwickelte – Einwand, es sei „zu keiner unrechtmäßigen Bereicherung gekommen“, geht schon deshalb ins Leere.
+[9] 		Nach dem Urteilssachverhalt (US 2 ff) erhielt der Glücksspielanbieter, dessen Dienste der Angeklagte in Anspruch nahm, dafür wider Erwarten (und vereinbarungswidrig) kein entsprechendes Äquivalent (vgl Kirchbacher/Sadoghi in WK2 StGB § 146 Rz 67).
+[10] 		Dass darin dennoch kein (im Sinn des § 148a Abs 1 StGB tatbestandsmäßiger) Vermögensschaden zu erblicken sein sollte, weil die zugrunde liegenden Verträge „nichtig“ seien und den Beschwerdeführer „ausschließlich zur Teilnahme am illegalen Glücksspiel des Glücksspielanbieters“ „berechtigt“ hätten, bei dem er keinen „ausbezahlt[en]“ „Gewinn“ erzielt habe, wird ohne Ableitung aus dem Gesetz bloß behauptet.
+[11] 		Hinzugefügt sei, dass auch die entgeltlich eingeräumten Gewinnchancen aus einem Glücksgeschäft dem – für § 148a StGB ebenso maßgeblichen (Kirchbacher/Sadoghi in WK2 StGB § 148a Rz 4) – wirtschaftlichen Vermögensbegriff unterfallen (11 Os 31/02, RIS-Justiz RS0094471 [insbesondere T1]; allgemein zu diesem Vermögensbegriff RIS-Justiz RS0094171). Dafür ist bedeutungslos, ob das Rechtsgeschäft ungültig, verboten, strafbar oder wegen List oder Irrtums anfechtbar ist, ob Leistung oder Gegenleistung unklagbar sind und ob die Vermögensverfügung einem unerlaubten, unsittlichen oder strafgesetzwidrigen Zweck dient (Kirchbacher/Sadoghi in WK2 StGB § 146 Rz 62, 70 mwN; RIS-Justiz RS0094657).
+[12] 		Dass ein Glücksspiel verboten ist und dafür geleistete Einsätze zurückgefordert werden könnten (vgl RIS-Justiz RS0025607 [T1], jüngst 3 Ob 200/21i), schließt Tatbestandsmäßigkeit nach § 148a StGB daher nicht aus (vgl Kienapfel/Schmoller, BT II2 § 146 Rz 122, 132 und 134).
+[13] 		Die Nichtigkeitsbeschwerde war daher – in weitgehender Übereinstimmung mit der Stellungnahme der Generalprokuratur – gemäß § 285d Abs 1 StPO bereits bei der nichtöffentlichen Beratung sofort zurückzuweisen.
+[14] 		Die Entscheidung über die Berufung und die (gemäß § 498 Abs 3 dritter Satz StPO als erhoben zu betrachtende) Beschwerde kommt dem Oberlandesgericht zu (§§ 285i, 498 Abs 3 letzter Satz StPO).
+[15] 		Die Kostenentscheidung gründet sich auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0110OS00149.21B.0405.000

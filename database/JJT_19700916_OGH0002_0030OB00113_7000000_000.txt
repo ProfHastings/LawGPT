@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.1970
+Geschäftszahl
+3Ob113/70
+Norm
+EO §58;
+EO §195 Abs2;
+EO §196;
+EO §199 Abs2;
+Kopf
+SZ 43/156
+Spruch
+Die 14tägige Frist des § 196 EO hat Zwangswirkung und ist gemäß § 58 EO unerstreckbar
+Daher kann auch ein geringfügiger, durch einen Rechenfehler verursachter Abgang an dem zu erlegenden Überbotsviertel nicht nach Ablauf der Frist ersetzt werden
+Ein § 196 EO nicht entsprechendes Überbot ist zurückzuweisen
+OGH 16. September 1970, 3 Ob 113/70 (LG Klagenfurt 1 R 393/70; BG Klagenfurt 8 E 58/69)
+Text
+Bei der Versteigerung am 22. April 1970 wurde die Liegenschaft EZ 473 KG M, die samt Zubehör einen Schätzwert von 64.000 S hatte, dem Josef M um das Meistbot von 35.000S zugeschlagen. Die Zuschlagserteilung wurde am 8. Mai 1970 verlautbart. Am 20. Mai 1970 erklärte Leopold Sch bei Gericht, ein Überbot von 44.750S zu stellen und die Versteigerungsbedingungen zu erfüllen. Er wies am gleichen Tag nach, daß er einen Betrag von 10.000 S auf das Konto des BG Klagenfurt eingezahlt habe. Am 19. Juni 1970 zahlte er einen weiteren Betrag von 1200 S auf das Konto des Erstgerichtes ein.
+Das Erstgericht nahm das Überbot des Sch an und wies die Erklärung des Erstehers M vom 18. Juni 1970, sein Meistbot auf den Betrag des Überbotes zu erhöhen, zurück, weil er vom Überbot am 26. Mai 1970 verständigt worden sei und die dreitägige Frist des § 197 EO nicht eingehalten habe.
+Das Rekursgericht änderte den Beschluß dahin ab, daß es das Überbot des Leopold Sch zurückwies. Da der Überbieter einen Preis von 44.750 S angeboten habe, hätte er nachweisen müssen, daß er den vierten Teil dieses Betrages, also 11.187.50 S sichergestellt habe. Da er das innerhalb der gesetzlichen Frist nicht getan habe, sei sein Überbot zurückzuweisen gewesen. Die Differenz von 1187.50 S könne nicht mehr als geringfügig bezeichnet werden.
+Der Oberste Gerichtshof gab den Revisionsrekursen der betreibenden Partei, der verpflichteten Partei und des Leopold Sch nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß § 196 Abs 1 EO ist gleichzeitig mit dem Überbot nachzuweisen, daß der Überbieter den vierten Teil des von ihm angebotenen Kaufpreises sichergestellt hat. Auch diese Bedingung ist wie die anderen in den §§ 195 und 196 EO genannten Bedingungen unerläßlich. Selbst ein rechtzeitig überreichtes Überbot ist zurückzuweisen, wenn diese Sicherstellung nicht innerhalb von 14 Tagen erlegt und ausgewiesen wurde (JBl 1890, 361). Der von den Rechtsmittelwerbern zitierten Entscheidung des Obersten Gerichtshofes vom 26. Februar 1915 (GlUNF 7331), ein geringfügiger durch einen Rechenfehler verursachter Abgang an dem zu erlegenden Überbotsviertel könne auch nach Ablauf der 14tägigen Frist ersetzt werden, kann nicht zugestimmt werden. Sie nimmt nämlich der 14tägigen Frist des § 196 EO die Zwangswirkung. Sie versucht ihren Standpunkt durch den der Exekutionsordnung zugrundeliegenden Gedanken der möglichst günstigen Verwertung des Exekutionsobjektes zu rechtfertigen, wobei sie analog die Vorschriften des § 1338 ABGB und des § 419 ZPO über Vergleiche und Urteile gemäß den §§ 6, 914 ABGB heranzieht. Die letztere Bestimmung des materiellen Rechts kann aber nicht in der rein formellen Rechtsfrage der Bedeutung einer prozessualen Frist herangezogen werden, wo weder die Auslegung einer unklaren Gesetzesbestimmung noch die Auslegung eines Vertrages in Betracht kommt. Die genannte Entscheidung macht die Bestimmung des § 58 EO über die Unerstreckbarkeit der in der Exekutionsordnung bestimmten Fristen und über die Unzulässigkeit der Wiedereinsetzung in den vorigen Stand illusorisch (vgl Neumann - Lichtblau[4] 1398). Der ebenfalls von den Rechtsmittelwerbern zitierten Entscheidung SZ 35/98 lag ein anderer Sachverhalt zugrunde. Dort handelte es sich nicht um einen Rechenfehler bei der Berechnung des Viertels des Überbotsbetrages, sondern es wurde vom Überbieter in seinem Antrag die Erklärung, bereit zu sein, die festgestellten Versteigerungsbedingungen zu übernehmen, nicht aufgenommen. Da der Überbieter gemäß § 199 Abs 2 EO mit der Erteilung des Zuschlags als Ersteher gilt, der alle gemäß den Versteigerungsbedingungen dem Ersteher obliegenden Verpflichtungen zu erfüllen hat, kann die im § 195 Abs 2 EO von ihm geforderte entsprechende Erklärung nur als Formvorschrift angesehen werden, die nachgeholt werden kann. Bei dem im § 196 EO geforderten Erlag eines Viertels des angebotenen Kaufpreises handelt es sich aber nicht um eine bloße Formvorschrift. Der Überbieter ist im vorliegenden Fall dieser zwingenden Vorschrift nicht nachgekommen, denn er hat statt 11.187.50 S nur 10.000 S erlegt und er konnte den Fehlbetrag nicht nachträglich erlegen, weil wie bereits ausgeführt wurde, die 14tägige Frist unerstreckbar ist und auch eine Wiedereinsetzung in den vorigen Stand nicht möglich ist. Daher waren Erhebungen darüber, wie es zur Aufnahme des Protokolls vom 20. Mai 1970 kam (die übrigens nachträglich gemacht wurden), unerheblich. Das Überbot wurde vom Rekursgericht mit Recht zurückgewiesen, dies hätte bereits vom Erstgericht geschehen sollen, weshalb auch die Verständigung des Erstehers vom Überbot zu entfallen hatte und die nur auf Grund dieser Verständigung erfolgte Erhöhung des Meistbots bedeutungslos ist.

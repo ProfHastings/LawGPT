@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2015
+Geschäftszahl
+8Ob93/15g
+Kopf
+Der Oberste Gerichtshof hat durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, die Hofräte Mag. Ziegelbauer und Dr. Brenn sowie die Hofrätin Dr. Weixelbraun-Mohr als weitere Richter in der Rechtssache der klagenden Partei mj T***** K*****, vertreten durch den Vater M***** K*****, vertreten durch Mag. Josef Koller, Rechtsanwalt in Perg, gegen die beklagte Partei O*****-AG, *****, vertreten durch Dr. Eckhard Pitzl, Dr. Gerhard W. Huber LL.M. Anwaltspartnerschaft in Linz, wegen 14.253,08 EUR sA (Revisionsinteresse) und Feststellung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 24. Juli 2015, GZ 6 R 117/15s-30, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Eine Aktenwidrigkeit liegt nur vor, wenn ein Widerspruch zwischen dem Akteninhalt und den darauf beruhenden wesentlichen Tatsachenfeststellungen im Urteil besteht, der nicht das Ergebnis eines richterlichen Werturteils ist, also nicht bloß in der Gewinnung von Feststellungen aufgrund von Schlussfolgerungen liegt (RIS-Justiz RS0043421 [T2; T4]). Dies ist hier nicht der Fall.
+Das Berufungsgericht hat die erstgerichtliche Feststellung übernommen, dass die am Kläger durchgeführte Lymphknotenentfernung auch ohne explizite Darstellung des im Operationsgebiet verlaufenden Nervus accessorius sachgerecht, das Übersehen und Durchtrennen dieses Nervs aber ein Fehler war (ON 25, S 5). Mit der Formulierung, die Beurteilung als sachgerecht habe sich nur auf einen „Teil der Operation“ (offenkundig gemeint: nicht auf jenen Schnitt, mit dem der Nerv durchtrennt wurde) bezogen, hat das Berufungsgericht diese Feststellung lediglich mit etwas anderen Worten zusammengefasst. Ein Widerspruch zu einem Beweisergebnis besteht nicht.
+2. Das Berufungsgericht ist auch nicht von den erstgerichtlichen Feststellungen abgegangen.
+Das Erstgericht ist davon ausgegangen, dass der Operateur bei seinem Eingriff die große Struktur des Nervus accessorius übersehen hat und ein derartiger Fehler einem Arzt nicht unterlaufen sollte. Wie die Revision daraus ableiten will, es sei kein Behandlungsfehler festgestellt worden, ist nicht nachvollziehbar.
+Der Umstand, dass es sachgerecht war, von einer vorherigen „Darstellung“ des Nervs (Freipräparieren zwecks besserer Erkennbarkeit) Abstand zu nehmen, ändert selbstverständlich nichts daran, dass er lege artis nicht durchtrennt werden durfte.
+3. Entgegen den Revisionsausführungen ist die Nervenschädigung des Klägers kein „mangelnder Erfolg der Operation“ (die Lymphknotenentfernung verlief durchaus erfolgreich), sondern Ergebnis einer bei dieser Operation zugefügten Verletzung.
+Die Vorinstanzen haben entgegen den Ausführungen der Revisionswerberin nicht deswegen einen Behandlungsfehler angenommen, weil eine Gesundheitsschädigung des Klägers eingetreten ist, sondern weil feststeht, dass der behandelnde Arzt während der Operation eine in der Nähe verlaufende große Nervenstruktur übersehen und durchschnitten hat.
+4. Steht ein Behandlungsfehler objektiv fest, kehrt sich gemäß § 1298 ABGB die Beweislast für das Verschulden des Verursachers um. Die Vorinstanzen sind in Übereinstimmung mit dieser Rechtslage davon ausgegangen, dass es Sache der Beklagten gewesen wäre, die Schuldlosigkeit des Operateurs zu beweisen (vgl RIS-Justiz RS0026412). Die Revision wirft daher keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO auf.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0080OB00093.15G.0929.000

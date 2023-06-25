@@ -1,0 +1,51 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob211/19h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Mag. M***** N*****, vertreten durch Dr. Roland Mühlschuster, Rechtsanwalt in Wels, gegen die beklagte Partei D***** AG *****, vertreten durch Zauner  Mühlböck und Partner, Rechtsanwälte in Linz, wegen 6.425 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Landesgerichts Steyr als Berufungsgericht vom 24. Juni 2019, GZ 2 R 13/19s-49, mit dem das Urteil des Bezirksgerichts Steyr vom 22. Oktober 2018, GZ 13 C 694/17b-45, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 626,52 EUR (darin enthalten 104,42 EUR an USt) bestimmten Kosten der Revisionsbeantwortung zu ersetzen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Gebäudeversicherungsvertrag mit Versicherungsbeginn 31. 12. 2014 abgeschlossen. Dem Versicherungsvertrag liegen (ua) die „992 – Allgemeine Bedingungen für Versicherungen gegen Leitungswasserschäden“ (AWB) und die „W16 – Besondere Bedingung zur Leitungswasserversicherung im Eigenheim Superschutz“ zugrunde.
+Die AWB lauten auszugsweise:
+„[…]
+Artikel 1
+Versicherte Gefahren und Schäden
+Versichert sind:
+1. Schäden durch Austreten von Leitungswasser aus wasserführenden Anlagen oder angeschlossenen Einrichtungen.
+2. Bei der Versicherung von Gebäuden zusätzlich:
+2.1 Schäden durch Bruch im wasserführenden Rohrsystem.
+[…]
+Artikel 2
+Nicht versicherte Gefahren und Schäden
+[…] nicht versichert sind:
+1. Schäden, die vor Beginn des Versicherungsschutzes entstanden sind, auch wenn sie erst nach Beginn des Versicherungsschutzes in Erscheinung treten.
+[…]
+8. Schäden am Rohrsystem durch Korrosion, auch Verschleiß und Abnützung.
+[…]
+10. Schäden am Rohrsystem außerhalb des Gebäudes.
+[…]
+HINWEIS: Die Punkte 8 bis 10 können nur aufgrund besonderer Vereinbarung mitversichert werden.
+[…]“
+Die W 16 lauten auszugsweise:
+„[…]
+Abweichend von Artikel 1, Punkt 2.1, Artikel 2, Punkt 8 und Artikel 8, Punkt 1.3 der AWB sind Schäden an Zu- und Ableitungsrohren, die sich innerhalb des versicherten Gebäudes und außerhalb (auch Mischwasserkanäle) auf dem Grundstück (Hof, Garten, Vorgarten) befinden, ohne Rücksicht auf die Entstehungsursache versichert (auch gegen Schäden durch Korrosion, auch Verschleiß und Abnützung).
+[…]“
+Der Kläger begehrte von der Beklagten aus der Gebäudeversicherung die Zahlung der Kosten und Spesen für die Erneuerung des (außerhalb des Gebäudes gelegenen) Hausanschlusskanals, der unbrauchbar geworden ist, weil es infolge einer Setzung des Rohrsystems immer wieder zu Verstopfungen kommt.
+Das Erstgericht konnte nicht feststellen, „dass die Senke bereits vor Abschluss der […] Versicherung durch den Kläger bereits bestanden hat“.
+Das Berufungsgericht sprach über Abänderungsantrag des Klägers aus, dass die ordentliche Revision doch zulässig sei. Die anzuwendenden Versicherungsbedingungen (AWB und W16) seien für eine größere Anzahl von Kunden von Bedeutung und zu deren nicht eindeutigen Auslegungszusammenhang liege keine höchstgerichtliche Rechtsprechung vor.
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Der behauptete Verfahrensmangel wurde geprüft; er liegt nicht vor. Der Kläger bekämpft mit seiner Verfahrensrüge – im Revisionsverfahren unzulässig (vgl RS0043414) – die Beweiswürdigung zur Negativfeststellung über den Zeitpunkt der Setzung des Rohrsystems.
+2. Der Kläger macht – entgegen seinen Ausführungen in der Revision – nicht einen durch die Verstopfung bedingten, im August 2015 aufgetretenen Schaden geltend, sondern „Schäden am Rohrsystem außerhalb des Gebäudes“ im Sinn von Art 2.10 AWB, die er im Hinblick auf die eingangs wiedergegebene Zusatzvereinbarung der besonderen Bedingung W16 als gedeckt erachtet. Wann diese Setzungen eingetreten sind, steht allerdings nicht fest. Der Kläger konnte daher nicht nachweisen, dass der Schaden während der Versicherungszeit eingetreten und demnach als Versicherungsfall zu behandeln ist (7 Ob 25/79 = RS0043496; 7 Ob 81/09a). Für das Vorliegen eines Versicherungsfalls trifft den Versicherungsnehmer die Beweislast (RS0080003, RS0043438). Schon aus diesem Grund erweist sich das Klagebegehren als nicht berechtigt, ohne dass es auf andere Rechtsfragen, insbesondere auf die Auslegung des Regelungszusammenhangs zwischen Art 2.8 sowie 2.10 AWB und der Zusatzvereinbarung der besonderen Bedingung W16 ankäme.
+3.1. Der Kläger vermag insgesamt das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht aufzuzeigen. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+3.2. Die Kostenentscheidung gründet auf §§ 41, 50 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00211.19H.0424.000

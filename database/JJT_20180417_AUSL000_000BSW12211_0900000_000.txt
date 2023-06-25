@@ -1,0 +1,61 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+17.04.2018
+Geschäftszahl
+Bsw12211/09
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer III, Beschwerdesache Uche gg. die Schweiz, Urteil vom 17.4.2018, Bsw. 12211/09.
+Spruch
+Art. 6 Abs. 1 EMRK - Nichtbehandlung einer Rüge wegen mangelnder Begründung der Strafanklage durch Höchstgericht.
+Zulässigkeit der Beschwerde (einstimmig).
+Verletzung von Art. 6 Abs. 1 EMRK (einstimmig).
+Entschädigung nach Art. 41 EMRK: € 2.000,– für immateriellen Schaden, € 1.720,– für Kosten und Auslagen (einstimmig).
+Text
+Begründung:
+Sachverhalt:
+Im Jahr 2002 wurde der Bf., der Staatsangehöriger sowohl der Schweiz als auch Nigerias ist, wegen des Verdachts des Drogenhandels unter Telefonüberwachung gestellt. Die aufgezeichneten Unterhaltungen in nigerianischen Landessprachen wurden in der Folge übersetzt. Auf dieser Grundlage wurde der Bf. am 4.10.2002 inhaftiert.
+Am 21.1.2004 wurde er unter anderem wegen Verstößen gegen das Betäubungsmittelgesetz und wegen Geldwäsche angeklagt. Ihm wurde insbesondere der Import, der Kauf und Verkauf unbekannter Mengen (jedoch jedenfalls mehr als 1.748,80 Gramm) einer Kokainmischung und einer Heroinmischung zur Last gelegt. Der Kaufwert wurde auf insgesamt mindestens CHF 180.700,– (€ 155.600,–) geschätzt.
+Das BG Bern-Laupen erkannte den Bf. am 19.11.2004 der Geldwäsche sowie des Imports, Kaufs und Verkaufs von 4,4 Kilo Kokain und 153 Gramm Heroin für schuldig und verurteilte ihn zu einer Haftstrafe von 69 Monaten.
+Der Bf. erhob gegen diese Entscheidung Berufung und machte darin geltend, dass der Anklagegrundsatz verletzt worden sei, da in der Anklageschrift nicht die vollständige Drogenmenge angegeben worden wäre. Er rügte zudem die Rechtswidrigkeit der Telefonüberwachung, weil die Identität des Übersetzers nicht offengelegt worden wäre. Das Obergericht des Kantons Bern wies die Berufung am 21.8.2007 ab. Es wies insbesondere darauf hin, dass die Anklageschrift ausreichend genau gewesen wäre, um es dem Bf. zu erlauben, die Größenordnung der Drogenmenge zu bestimmen und seine Verteidigung dementsprechend vorzubereiten. Das Gericht erkannte zudem keine Notwendigkeit, den Übersetzer offenzulegen oder die Qualität der Übersetzung in Frage zu stellen.
+Daraufhin erhob der Bf. eine Beschwerde in Strafsachen an das Bundesgericht. Er machte eine Verletzung des Anklagegrundsatzes geltend, da die Anklageschrift unvollständig gewesen sei – der Staatsanwalt hätte von 1.748,80 Gramm Drogen gesprochen, während er dann im Hinblick auf mehr als vier Kilo verurteilt worden sei. Er rügte auch erneut die Zulassung der Telefonüberwachung als Beweis. Das Bundesgericht wies die Beschwerde am 20.6.2008 ab. Es behandelte dabei lediglich die Fragen betreffend die Telefonüberwachung, nicht aber auch jene betreffend eine Verletzung des Anklagegrundsatzes.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Der Bf. behauptete eine Verletzung von Art. 6 Abs. 1 iVm. Abs. 3 EMRK (Recht auf ein faires Verfahren und Verteidigungsrechte), in concreto Abs. 3 lit. a, wegen Verstoßes gegen den Anklagegrundsatz. Er rügte zudem eine Verletzung von Art. 6 Abs. 1 EMRK alleine durch die fehlende Behandlung seiner Rüge betreffend die Verletzung des Anklagegrundsatzes durch das Bundesgericht. Unter Art. 6 Abs. 1 iVm. Abs. 3 lit. d EMRK beschwerte er sich daneben über die Qualität der Übersetzung der Telefonüberwachung sowie darüber, dass ihm die Identität des Übersetzers nicht bekannt gemacht worden sei.
+Zur behaupteten Verletzung von Art. 6 Abs. 1 und Abs. 3 lit. a EMRK
+Zulässigkeit
+(20) Die Regierung bringt vor, der Bf. habe die innerstaatlichen Rechtsbehelfe nicht erschöpft. Dieser hätte vielmehr die Revision des Urteils des Bundesgerichts vom 20.6.2008 verlangen können, weil Letzteres die Rüge betreffend die Verletzung des Anklageprinzips nicht behandelte. [...]
+(22) Der GH erinnert zunächst daran, dass ein Bf. außer unter speziellen Umständen nicht gehalten ist, von einem außerordentlichen Rechtsbehelf Gebrauch zu machen, um die innerstaatlichen Rechtsbehelfe [...] zu erschöpfen.
+(23) Der Bf. hat das Bundesgericht mit einer Beschwerde in Strafsachen gegen das Urteil des Obergerichts des Kantons Bern vom 21.8.2007 befasst. In seinem Rechtsbehelf an das Bundesgericht berief sich der Bf. auf eine Verletzung des Anklageprinzips, indem er geltend machte, die Anklageschrift sei unvollständig gewesen. Daher versuchte der Bf., in der vorgeschriebenen Form und Frist und über ein geeignetes Rechtsmittel vor dem höchsten nationalen Gericht die Wiedergutmachung der behaupteten Verletzung zu erhalten.
+(24) Deshalb kann man nach Ansicht des GH im vorliegenden Fall vom Bf., der die zur Bereinigung der gerügten Verletzung geeigneten innerstaatlichen Rechtsbehelfe korrekt erschöpfte, nicht verlangen, zusätzlich von einem außerordentlichen Rechtsbehelf Gebrauch zu machen, um die fehlende Prüfung seiner Rüge durch das Bundesgericht auszugleichen, obwohl dieses die Möglichkeit hatte, sich zu dieser Frage zu äußern.
+(25) Folglich weist der GH die von der Regierung erhobene Einrede betreffend die Nichterschöpfung des innerstaatlichen Rechtsweges zurück.
+(26) Im Übrigen ist diese Rüge nicht offensichtlich unbegründet [...] und auch aus keinem anderen Grund unzulässig. Sie muss daher für zulässig erklärt werden (einstimmig).
+In der Sache
+(30) Im vorliegenden Fall betont der GH, dass dem Bf. auf Basis der Anklageschrift bekannt war, dass die Drogenmenge mehr als 1.748,80 Gramm betrug und die verkauften Drogen zumindest einem Wert von CHF 180.700,– entsprachen. Er musste daher ahnen, dass die Drogenmenge beträchtlich war. Es ist dennoch nicht entscheidend, ob der Bf., der von einem Anwalt unterstützt wurde und nicht behauptete, diese Frage vor dem BG Bern-Laupen aufgeworfen zu haben, die Drogenmenge beurteilen konnte. Tatsächlich veränderte sich der Anklagegrund nicht und der Bf. verfügte spätestens nach dem Urteil des BG vom 19.11.2004, das die letztlich zu berücksichtigende Drogenmenge bestimmte, über ausreichende Elemente, um die gegen ihn erhobenen Beschuldigungen vollständig verstehen und seine Verteidigung angemessen vorbereiten zu können. Diesbezüglich hat der Bf. abgesehen von dem Umstand, dass er ab der Anklageschrift in der Lage war, die Natur der Anschuldigung gegen ihn zu erfassen, die Möglichkeit gehabt, seine Rüge betreffend eine Verletzung des Anklagegrundsatzes vor dem Obergericht des Kantons Bern vorzutragen und dieses konnte sich einer umfassenden Prüfung des Falles des Bf. widmen. Die Mängel, die das Verfahren vor dem BG beeinträchtigen konnten, wurden daher vor dem Obergericht bereinigt.
+(31) Aus diesem Grund erfolgte keine Verletzung von Art. 6 Abs. 1 und Abs. 3 lit. a EMRK (einstimmig).
+Zur behaupteten Verletzung von Art. 6 Abs. 1 EMRK
+Zulässigkeit
+(34) Der GH erinnert daran, dass er die Einrede der Regierung wegen Nichterschöpfung des innerstaatlichen Instanzenzugs zurückgewiesen hat (siehe Rn. 25 oben). Er hält fest, dass diese Rüge nicht offensichtlich unbegründet [...] und auch aus keinem anderen Grund unzulässig ist. Sie muss daher für zulässig erklärt werden (einstimmig).
+In der Sache
+(37) Der GH erinnert daran, dass gerichtliche Entscheidungen gemäß seiner ständigen Rechtsprechung, die einen mit der ordentlichen Rechtspflege verbundenen Grundsatz reflektiert, auf ausreichende Weise die Gründe angeben müssen, auf die sie sich stützen. Das Ausmaß dieser Pflicht kann je nach Natur der Entscheidung variieren und muss vor dem Hintergrund der Umstände jedes Falles beurteilt werden. Ohne dass dadurch eine detaillierte Antwort auf jedes Argument des Bf. verlangt wird, setzt diese Verpflichtung voraus, dass die Partei eines gerichtlichen Verfahrens sich eine konkrete und explizite Antwort auf die für den Ausgang des betreffenden Verfahrens entscheidenden Punkte erwarten können muss [...]. Aus einer Entscheidung muss hervorgehen, dass die wesentlichen Fragen des Falles behandelt wurden.
+(40) Im vorliegenden Fall stellt der GH fest, dass das Bundesgericht die Rüge des Bf. betreffend die Verletzung des Anklagegrundsatzes in seinem Urteil vom 20.6.2008 nicht behandelt hat. Besagte Rüge wurde vom Bf. [...] in seiner Beschwerdeschrift an das Bundesgericht allerdings ausreichend klar und detailliert untermauert. Darin wurde zudem auch auf Art. 6 Abs. 3 EMRK Bezug genommen. Sie unterfiel einer völlig anderen rechtlichen Kategorie als die Rüge betreffend die Telefonüberwachung und war in der Beschwerde ausreichend als erste Rüge formuliert. Dabei handelte es sich außerdem um einen für den Ausgang des Verfahrens wesentlichen Aspekt, der in den Anwendungsbereich von Art. 6 Abs. 3 lit. a EMRK fällt und von dem Kantonsgericht in der Sache geprüft wurde. Wenn das Bundesgericht ihn für begründet erachtete, hätte es die Beschwerde zulassen müssen. Wenn es ihn demgegenüber für unbegründet erachtete, hätte es ihn unter Angabe von Gründen für die Unzulässigkeit zurückweisen müssen.
+(41) Mangels ausdrücklicher Antwort ist es unmöglich zu wissen, ob das Bundesgericht die Rüge betreffend den Anklagegrundsatz einfach übersehen hat oder sie zurückweisen wollte und – unter der Annahme des Letzteren – mit welcher Begründung.
+(42) Daher kommt der GH zum Schluss, dass eine Verletzung von Art. 6 Abs. 1 EMRK erfolgt ist (einstimmig).
+Zur behaupteten Verletzung von Art. 6 Abs. 1 und Abs. 3 lit. d EMRK
+(44) Der GH betont, dass die Schweizer Gerichte die Tatsachen sorgfältig geprüft haben und ihre Entscheidungen detailliert begründet waren. Insbesondere geht aus der Akte hervor, dass dem Bf. die Möglichkeit geboten wurde, die Übersetzung der Telefonüberwachung anzufechten, sie den Aufnahmen gegenüberzustellen und vor dem Kantonsgericht die Passagen zu präsentieren, die er wünschte hinzuzufügen. Dem Bf., der von dieser Möglichkeit nicht Gebrauch machte, waren somit ausreichend Mittel für seine Verteidigung geboten.
+(45) Daraus folgt, dass diese Beschwerde offensichtlich unbegründet [...] und deshalb [...] [als unzulässig] zurückzuweisen ist (einstimmig).
+Entschädigung nach Art. 41 EMRK
+€ 2.ooo,– für immateriellen Schaden; € 1.720,– für Kosten und Auslagen (einstimmig).
+Vom GH zitierte Judikatur:
+Ruiz Torija/E v. 9.12.1994
+Hiro Balani/E v. 9.12.1994 = ÖJZ 1995, 350
+García Ruiz/E v. 21.1.1999 (GK) = NL 1999, 12 = EuGRZ 1999, 10
+Dallos/H v. 1.3.2001
+Mulosmani/ALB v. 8.10.2013
+C. M./CH v. 17.1.2017
+Moreira Ferreira/P (Nr. 2) v. 11.7.2017 (GK) = NLMR 2017, 332
+Hinweis:
+Das vorliegende Dokument über das Urteil des EGMR vom 17.4.2018, Bsw. 12211/09, entstammt der Zeitschrift "Newsletter Menschenrechte" (NLMR 2018, 144) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Das Urteil im französischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/18_2/Uche.pdf
+Das Original des Urteils ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2022
+Geschäftszahl
+4Ob226/21w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Hofrat Dr. Schwarzenbacher als Vorsitzenden und die Hofrätinnen und Hofräte, Hon.-Prof. PD Dr. Rassi, MMag. Matzka, Dr. Faber und Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei V* G*, vertreten durch Mag. Dr. Stefan Rieder, Rechtsanwalt in Salzburg, gegen die beklagte Partei G-*gesellschaft mbH, *, vertreten durch Univ.-Prof. Dr. Friedrich Harrer und Dr. Iris Harrer-Hörzinger, Rechtsanwälte in Salzburg, wegen 40.070 EUR und Feststellung (Gesamtstreitwert 45.070 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 23. September 2021, GZ 6 R 93/21w-69, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Grundlage für die Haftung eines Arztes oder (wie hier) Krankenhausträgers wegen Verletzung der – auch bei medikamentöser Heilbehandlung bestehenden (vgl RS0026529 [T7]; RS0038176 [T6]) – Aufklärungspflicht ist das Selbstbestimmungsrecht des Patienten, in dessen körperliche Integrität eingegriffen wird. Der Patient muss daher in die konkrete Maßnahme einwilligen; Voraussetzung für seine sachgerechte Entscheidung ist eine entsprechende Aufklärung durch den Arzt. Dessen Haftung beschränkt sich aber auch bei Annahme einer Aufklärungspflichtverletzung auf die Verwirklichung des Risikos, auf das er hinweisen hätte müssen; das zur Begründung des Anspruchs herangezogene pflichtwidrige Verhalten – hier die nach Auffassung der Klägerin ohne ausreichende Aufklärung erfolgte und daher rechtswidrige, aber auch an sich nicht lege artis erfolgte Verordnung der Medikamenteneinnahme – muss den geltend gemachten Schaden verursacht haben (vgl 5 Ob 28/21k mwN).
+[2] 		2.1. Hier steht fest, dass das von der Klägerin während der Schwangerschaft zur Behandlung ihrer Tumorerkrankung eingenommene Medikament zwar mit sehr hoher Wahrscheinlichkeit plazentagängig ist, es aber mit hoher Wahrscheinlichkeit – und damit dem Regelbeweismaß der ZPO (RS0110701) – auszuschließen ist, dass diese Einnahme zu intrauteralen Hirnblutungen ihres Sohnes geführt oder auch nur das Risiko dafür erhöht hätte (vgl 9 Ob 80/17f).
+[3] 		2.2. Die Revision vermag daher im Zusammenhang mit behaupteter nicht ausreichender Aufklärung über Gefahren der Einnahme des Medikaments  keine erhebliche Rechtsfrage aufzuzeigen.
+[4] 		3.1. Soweit die Revision ein Abweichen einer jüngeren Entscheidung des Obersten Gerichtshofs (6 Ob 137/20w) von der ständigen Rechtsprechung zur Frage des Beweismaßes für die Kausalität zwischen Behandlungsfehler und Gesundheitsschaden (RS0038222, insbes jüngst 1 Ob 11/21f) ins Treffen führt, zeigt sie ebenfalls keine relevante Rechtsfrage auf:
+[5] 		3.2. Es steht nämlich nicht nur fest, dass die Medikamenteneinnahme der Klägerin für die Schlaganfälle ihres Sohnes weder kausal noch risikoerhöhend war, sondern auch, dass der Beklagten weder in Ansehung der (Wieder-)Verordnung des Medikaments noch im Zusammenhang mit einer in erster Instanz noch behaupteten, in der Revision aber nicht mehr konkret angesprochenen Fehlbehandlung durch Unterbleiben einer Notsectio Behandlungsfehler unterlaufen sind.
+[6] 		Die aufgeworfene Rechtsfrage ist daher hier nicht entscheidungserheblich; die Beantwortung von Fragen rein theoretischer Natur ist aber nicht Aufgabe des Obersten Gerichtshofs (vgl RS0111271).
+[7] 		3. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00226.21W.0223.000

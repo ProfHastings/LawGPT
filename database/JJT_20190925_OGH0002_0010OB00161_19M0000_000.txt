@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.09.2019
+Geschäftszahl
+1Ob161/19m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Bydlinski als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Dr. Hofer-Zeni-Rennhofer und Dr. Parzmayr als weitere Richter in der Pflegschaftssache des mj L***** D*****, geboren am ***** 2003, vertreten durch die Mutter C***** P*****, wegen Unterhalts, über den „außerordentlichen Revisionsrekurs“ des Vaters Mag. C***** D*****, vertreten durch Dr. Elmar Kresbach, Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts Korneuburg als Rekursgericht vom 3. Juli 2019, GZ 20 R 119/19v-77, mit dem der Beschluss des Bezirksgerichts Gänserndorf vom 21. Mai 2019, GZ 5 Pu 70/15m-71, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Akten werden dem Erstgericht zurückgestellt.
+Text
+Begründung:
+Das Erstgericht erhöhte die zuletzt mit 350 EUR festgesetzte Unterhaltspflicht des Vaters für seinen Sohn um monatlich 750 EUR auf 1.100 EUR beginnend mit 1. 5. 2019 bis zur Selbsterhaltungsfähigkeit des Kindes und verpflichtete den Vater zur Zahlung des vom 1. 1. 2017 bis 30. 4. 2019 aufgelaufenen Unterhaltsrückstands in sechs aufeinanderfolgenden Monatsraten beginnend mit 1. 7. 2019.
+Das Rekursgericht gab dem Rekurs des Vaters nicht Folge und sprach aus, dass der ordentliche Revisionsrekurs nicht zulässig sei.
+Gegen diesen Beschluss erhob der Vater einen „außerordentlichen Revisionsrekurs“, den das Erstgericht unmittelbar dem Obersten Gerichtshof zur Entscheidung vorlegte.
+Rechtliche Beurteilung
+Diese Vorlage widerspricht dem Gesetz.
+Nach § 62 Abs 3 und 4 AußStrG ist der Revisionsrekurs, soweit der Entscheidungsgegenstand rein vermögensrechtlicher Natur ist, jedenfalls unzulässig, wenn der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 30.000 EUR nicht übersteigt und das Rekursgericht den Revisionsrekurs für nicht zulässig erklärt hat (§ 59 Abs 1 Z 2 AußStrG). Unter diesen Voraussetzungen kann eine Partei nur einen Antrag an das Rekursgericht (Zulassungsvorstellung gemäß § 63 Abs 1 und 2 AußStrG) stellen, den Zulässigkeitsausspruch dahin abzuändern, dass der Revisionsrekurs doch für zulässig erklärt werde; mit dieser Zulassungsvorstellung ist der ordentliche Revisionsrekurs zu verbinden.
+Der Anspruch des Kindes auf Unterhalt ist rein vermögensrechtlicher Natur im Sinn des § 62 Abs 4 AußStrG (RIS-Justiz RS0007110 [T32]). Wird eine Erhöhung oder Herabsetzung eines Unterhaltsbetrags begehrt, so bildet grundsätzlich der dreifache Jahresbetrag der begehrten Erhöhung oder Herabsetzung den Streitwert im Sinn des § 58 Abs 1 JN (RS0046543). Für die Bewertung des Entscheidungsgegenstands des Rekursgerichts ist daher der 36-fache Betrag jenes monatlichen Unterhaltsbetrags maßgeblich, der zum Zeitpunkt von dessen Entscheidung noch strittig war. Ein Rückstand ist der dreifachen Jahresleistung nicht hinzuzurechnen (RS0103147 [T14, T26]).
+Maßgeblich ist daher der 36-fache Betrag der (bis zuletzt strittigen) Differenz zwischen dem zuletzt mit 350 EUR festgesetzten laufenden monatlichen Unterhalt und dem von den Vorinstanzen nunmehr zugesprochenen Betrag von 1.100 EUR. Daraus errechnet sich ein Wert des Entscheidungsgegenstands des Rekursgerichts von 27.000 EUR (750 EUR x 36).
+Da somit die nach § 62 Abs 3 AußStrG maßgebliche Wertgrenze von 30.000 EUR nicht erreicht wird, kommt ein außerordentlicher Revisionsrekurs nicht in Betracht. Das Erstgericht wird zu beurteilen haben, ob es die Eingabe des Vaters als mit einem ordentlichen Revisionsrekurs verbundene Zulassungsvorstellung an das Rekursgericht (§ 63 AußStrG) oder aber als verbesserungsbedürftig ansieht (RS0109505; RS0109516 [T10]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0010OB00161.19M.0925.000

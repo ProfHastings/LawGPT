@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2004
+Geschäftszahl
+4Ob259/04y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr.Kodek als Vorsitzenden und die Hofrätinnen des Obersten Gerichtshofs Hon. Prof. Dr. Griß und Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel und Dr. Jensik als weitere Richter in der Rechtssache der klagenden Partei C***** GmbH, *****, vertreten durch Dr. Wilhelm Jöstl, Rechtsanwalt in Innsbruck, gegen die beklagte Partei Roland A*****, vertreten durch Dr. Josef Pfurtscheller und andere Rechtsanwälte in Innsbruck, wegen 6.708,25 EUR sA, über die Revision des Beklagten gegen das Urteil des Landesgerichts Innsbruck vom 14. Juni 2004, GZ 1 R 123/04a-54, mit dem infolge Berufung der Klägerin das Urteil des Bezirksgerichts Innsbruck vom 1. Jänner 2004, GZ 29 C 725/01v-50, abgeändert wurde, folgenden
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Der Beklagte ist schuldig, der Klägerin die mit 499,39 EUR bestimmten Kosten der Revisionsbeantwortung (darin 83,23 EUR USt) binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage im Sinne des § 502 Abs 1 ZPO nicht zulässig:
+Das Berufungsgericht hat aufgrund eines Antrags nach § 508 ZPO ausgesprochen, dass die Revision doch für zulässig erklärt werde. Es hat die Abänderung des Zulässigkeitsausspruchs damit begründet, dass die vom Beklagten aufgeworfenen Fragen erhebliche Rechtsfragen im Sinne des § 502 Abs 1 ZPO seien.
+Der Beklagte macht als erhebliche Rechtsfrage geltend, dass keine Rechtsprechung zur Frage bestehe, ob Handlungen des Geschäftsführers einer GmbH diesem als Urheber persönlich zuzurechnen seien. Rechtsprechung fehle auch zu der vom Berufungsgericht angewendeten "Beweisregel", wonach den beiden Miturhebern klar gewesen sei, dass die Klägerin das Computerprogramm nicht zur Erbringung von Dienstleistungen für Gastronomiebetriebe verwendet, sondern auch durch Weitergabe an Selbstanwender vertrieben habe. Gleiches gelte für die Qualifikation der in einer Zeugenaussage abgegebenen Erklärung eines weiteren Miturhebers als nachträgliche Willenserklärung.
+Keine diese Fragen ist für die Entscheidung erheblich:
+Die Klägerin hat dem Beklagten den Vertrieb eines Computerprogramms gegen Zahlung eines Lizenzentgelts gestattet. Im August 2000 hat der Beklagtenvertreter einen der Miturheber über die "Besonderheiten des Urheberrechts an Computerprogrammen" aufgeklärt, worauf dieser den Beklagten anwies, die Lizenzgebühren auszusetzen. Der Beklagte hat die Zahlungen mit der Begründung eingestellt, dass die Klägerin "urheberrechtlich nicht zur Verwertung des Computerprogramms" berechtigt sei.
+Nach dem festgestellten Sachverhalt wurde das Programm von mehreren Personen geschaffen, deren Leistungen die Klägerin abgegolten hat. Weiters ist festgestellt, dass keiner der Urheber der Klägerin oder dem Beklagten im maßgebenden Zeitraum (August, September, Oktober 2000) die Verwendung/den Vertrieb des Programms untersagt oder nachträglich dagegen Einwendungen erhoben hätte, obwohl ihnen der Vertrieb des Programms durch den Beklagten von Anfang an bekannt war oder jedenfalls bekannt wurde.
+Der Beklagte war damit in keiner Weise gehindert, das Programm in diesen drei Monaten ebenso wie in den Jahren zuvor zu vertreiben, so dass der von ihm behauptete Rechtsmangel ohne jede Auswirkung geblieben ist. Das schließt einen Entfall oder eine Minderung des von ihm geschuldeten Entgelts unabhängig davon aus, ob den Urhebern bewusst war, dass ihnen als (Mit)Schöpfer eines Werks urheberrechtliche Verwertungsrechte zustehen und das ihnen zufließende Entgelt daher auch als Abgeltung dieser Verwertungsrechte zu verstehen war.
+Die angefochtene Entscheidung steht im Übrigen mit der ständigen Rechtsprechung zur Einräumung von Verwertungsrechten im Einklang:
+Wird ein Werk im Auftrag eines anderen geschaffen, so wird diesem damit jedenfalls schlüssig das Recht eingeräumt, das Werk zu dem Zweck zu verwenden, zu dem es in Auftrag gegeben wurde. Die schlüssige Rechtseinräumung liegt bereits in der Übernahme und Ausführung des Auftrags (4 Ob 105/94 = MR 1995, 27 - Anpfiff; 4 Ob 2161/96i = ÖBl 1997, 38 - Buchstützen ua). Welchen Umfang die eingeräumten Rechte haben, hängt vom Zweck des Auftrags und damit von den Umständen des konkreten Falls ab.
+Die Revision war zurückzuweisen.
+Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Klägerin hat auf die Unzulässigkeit des Rechtsmittels des Beklagten hingewiesen; ihre Revisionsbeantwortung war daher zur zweckentsprechenden Rechtsverfolgung notwendig.

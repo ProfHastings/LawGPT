@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.03.2022
+Geschäftszahl
+8ObA20/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Johannes Püller (aus dem Kreis der Arbeitgeber) und Mag. Thomas Kallab (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei Mag. Dr. G* L*, vertreten durch Dr. Christoph Orgler, Rechtsanwalt in Graz, gegen die beklagte Partei F* GmbH, *, vertreten durch Mag. Christine Ulm, Rechtsanwältin in Graz, wegen Kündigungsanfechtung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. Jänner 2022, GZ 7 Ra 63/21w-49, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach ständiger Rechtsprechung wirft die konkrete Abwägung der durch die Kündigung beeinträchtigten wesentlichen Interessen des gekündigten Arbeitnehmers gegen die vom Arbeitgeber nachgewiesenen personenbezogenen Kündigungsgründe iSd § 105 Abs 3 Z 2 lit a ArbVG wegen ihrer Einzelfallbezogenheit im Regelfall keine Rechtsfrage iSd § 502 Abs 1 ZPO auf (RIS-Justiz RS0051818 [T7, T8]).
+[2] 		2. Die Vorinstanzen sind zu dem Ergebnis gelangt, dass die Kündigung des Klägers dessen soziale Situation zwar erheblich beeinträchtigt hat, aber die Abwägung mit dem festgestellten personenbezogenen Kündigungsgrund der mangelnden fachlichen Eignung zu seinen Lasten ausschlägt und dem Anfechtungsbegehren entgegensteht. Die angefochtene Entscheidung des Berufungsgerichts hält sich im Rahmen des den Gerichten bei einer solchen Abwägung eingeräumten Beurteilungsspielraums.
+[3] 		3. Soweit die Revision eine Verfristung des Kündigungsgrundes erblickt, weil die festgestellten qualitativ unbefriedigenden Arbeitsergebnisse des Klägers der Beklagten bereits längere Zeit vor dem Kündigungsausspruch bekannt gewesen und geduldet worden seien, zeigt sie keine erhebliche Rechtsfrage auf.
+[4] 		Richtig ist, dass der Oberste Gerichtshof nicht nur im Zusammenhang mit Entlassungen und mit der Kündigung von Vertragsbediensteten und Arbeitnehmern in besonders kündigungsgeschützten Dienstverhältnissen, sondern auch für personenbezogene Kündigungsgründe nach § 105 Abs 3 Z 2 lit a ArbVG das Gebot der Unverzüglichkeit der Geltendmachung postuliert (vgl RS0109392 [T1]). Es liegt nämlich auf der Hand, dass ein widriger Umstand, den der Arbeitgeber ohne Konsequenzen hingenommen hat, nicht viel später bei der Abwägung gegen wesentliche Interessen des Gekündigten auf einmal größeres Gewicht erlangen kann als ihm ursprünglich vom Arbeitgeber selbst beigemessen wurde.
+[5] 		Nach dem hier festgestellten Sachverhalt ist das Berufungsgericht von dieser Rechtsprechung aber nicht abgewichen. Liegt nämlich ein fortgesetzter Kündigungs- oder Entlassungsgrund vor, bei dem das Ausmaß der Unzumutbarkeit der Weiterbeschäftigung mit der Dauer zunimmt, und hat sich daran bis zum Ausspruch der Kündigung trotz unmissverständlicher Hinweise auf die Notwendigkeit einer Verbesserung nichts geändert, geht das Beendigungsrecht nicht durch die Annahme eines schlüssigen Verzichts verloren (vgl RS0029396; RS0028859; RS0028881 ua).
+[6] 		Im vorliegenden Fall wurde mit dem Kläger in einem Mitarbeitergespräch im Mai 2019 wegen der hervorgekommenen Probleme bei der Erledigung seiner Aufgaben zunächst eine Änderung seiner Tätigkeitsschwerpunkte vereinbart. „Im Sommer 2019“, also jedenfalls nach diesem Gespräch und kurz vor Ausspruch der Kündigung am 28. 8. 2019, kamen aber bei seiner Mitwirkung an der Veranstaltung „Financial Days“ neuerlich gravierende Kompetenzmängel zutage. Die Beurteilung der Vorinstanzen, dass diese Mängel einerseits in einer Gesamtbetrachtung als Fortsetzung der bereits davor festgestellten Unzukömmlichkeiten zu würdigen waren, und andererseits ohne schädlichen Verzug durch die Kündigung geltend gemacht wurden, hält sich im Rahmen der ständigen Rechtsprechung.
+[7] 		4. Bei den hier wesentlichen Kündigungsgründen in der Person des Klägers bedurfte es auch keiner weiteren Ermahnung (vgl RS0065151).
+[8] 		Die wesentliche Frage, ob die vom Arbeitgeber geltend gemachten personenbezogenen Kündigungsgründe in ihrer Gesamtheit so bedeutend sind, dass sie seine Interessenbeeinträchtigung aufwiegen können, ist im Anfechtungsprozess ohnehin Gegenstand der einzelfallbezogenen Abwägung nach § 105 Abs 3 Z 2 lit a ArbVG.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBA00020.22G.0330.000

@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.05.2022
+Geschäftszahl
+3Ob66/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei H* H*, vertreten durch Mag. Werner Felix Diebald, Rechtsanwalt in Köflach, gegen die beklagte Partei E* GmbH, *, vertreten durch Mag. Wolfgang Kempf, Rechtsanwalt in Linz, wegen 56.687,30 EUR sA und Feststellung, über die außerordentlichen Revisionen der klagenden Partei und der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 2. März 2022, GZ 4 R 11/22b-50, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentlichen Revisionen werden gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Erstgericht erkannte dem Kläger ausgehend von einer Verschuldensteilung von 1 : 1 die Hälfte der verfallskausalen Ansprüche zu und stellte die Haftung der Beklagten für künftige Schäden zur Hälfte fest.
+[2] 		Das Berufungsgericht bestätigte diese Entscheidung.
+Rechtliche Beurteilung
+[3] 		Die Parteien zeigen mit ihren dagegen erhobenen außerordentlichen Revisionen keine erhebliche Rechtsfrage auf.
+I. Zur außerordentlichen Revision der Beklagten:
+[4] 		1.1 Nach gesicherter Rechtsprechung haftet der Werkbesteller dem Unternehmer und dessen Leuten, denen sich dieser bei der Werkherstellung bedient, aus dem Werkvertrag für die schuldhafte Verletzung der Fürsorgepflicht nach §§ 1157, 1169 ABGB durch ihn und seine Erfüllungsgehilfen. Diese Fürsorgepflicht betrifft primär den Schutz des Lebens und der Gesundheit des beauftragten Unternehmers und seiner Leute und bezieht sich insbesondere auf die Sicherheit der Arbeitsstätte (RS0021480; RS0021602 [T3]; RS0021827 [T11]; 1 Ob 174/16v). Die Reichweite der Fürsorgepflicht bestimmt sich danach, wieweit sich der Unternehmer mit seinen Leuten in einen der Sphäre des Bestellers zuzuordnenden Bereich zu begeben hat, in dem er gefährdet ist (2 Ob 240/12a). Zu den Leuten des geschützten Unternehmers gehören seine Dienstnehmer, aber auch die Subunternehmer und deren Leute (RS0021827 [T6 und T12]; 2 Ob 129/15g).
+[5] 		Für die Zurechnung eines Erfüllungsgehilfen zum Besteller muss es sich um einen Schaden handeln, der durch den Gehilfen bei der Erfüllung vertraglicher (Neben-)Verpflichtungen (hier: Fürsorgepflicht) des Bestellers zugefügt wurde (RS0028566). Für die Beurteilung der Gehilfenhaftung nach § 1313a ABGB ist somit maßgebend, ob der Gehilfe bei der Verfolgung der Interessen des Bestellers (= Beklagte) tätig war, dh, ob er in das Interessenverfolgungsprogramm der Beklagten und damit in deren Risikobereich einbezogen war (RS0028425).
+[6] 		1.2 Das Berufungsgericht ist von diesen Rechtsprechungsgrundsätzen nicht abgewichen.
+[7] 		Der Hinweis der Beklagten auf die Entscheidung zu 6 Ob 129/15g, wonach sich die Haftung des Bestellers nicht auf die Verwirklichung jener Risiken beziehe, die allein in den Tätigkeitsbereich des Unternehmers fallen, stützt die Zulässigkeit des Rechtsmittels nicht. Ausgehend von den bindenden Feststellungen war es stets Aufgabe der Beklagten, den C-Haken von einem zu wartenden Kran zu entfernen und zu lagern. Dementsprechend hatte der Kläger jeweils einen Mitarbeiter der Beklagten um diese Veranlassung zu ersuchen. Im Anlassfall musste der Kläger sogar noch zuwarten, bis der Kran von der Beklagten nicht mehr benötigt wurde. Bei der Abnahme des C-Hakens durch einen Mitarbeiter der Beklagten war er gar nicht anwesend. Die Ansicht des Berufungsgerichts, dass das erwähnte Ersuchen des Klägers an den Mitarbeiter der Beklagten diesen nicht zum Erfüllungsgehilfen des Klägers gemacht habe und dieser Mitarbeiter gemäß § 1313a ABGB der Beklagten zuzurechnen sei, ist keine Verkennung der dargelegten Rechtsprechungsgrundsätze.
+[8] 		Auch aus der von der Beklagten zitierten Entscheidung zu 4 Ob 122/16v, die sich auf die (vergleichbare) Fürsorgepflicht des Generalunternehmers gegenüber seinem Subunternehmer und seinen Leuten bezieht, ist nichts anderes abzuleiten.
+[9] 		1.3 Soweit die Beklagte neuerlich ausführt, dass für die Wartung bzw Reparatur des Krans der C-Haken gar nicht hätte abgenommen werden müssen, weicht sie von der bindenden Tatsachengrundlage ab.
+[10] 		1.4 Fragen der Verschuldensteilung sind regelmäßig einzelfallbezogen und begründen daher im Allgemeinen keine erhebliche Rechtsfrage (vgl RS0087606).
+[11] 		Das Berufungsgericht hat auch die von der Beklagten ins Treffen geführten Umstände in die Abwägung miteinbezogen. Eine Überschreitung des dem Berufungsgericht in dieser Hinsicht zukommenden Ermessensspielraums zeigt die Beklagte nicht auf.
+II. Zur außerordentlichen Revision des Klägers:
+[12] 		2.1 Mit dem Argument, dass seine Mithaftung nicht in Betracht komme, weil er keine Handlungsalternative gehabt habe, spricht der Kläger keine erhebliche Rechtsfrage an. Nach den bindenden Feststellungen waren dem Kläger die besonderen Gefahren, die mit dem C-Haken wegen seiner Beschaffenheit verbunden sind, bekannt und nahm er bei seiner Rückkehr zum Kran wahr, dass der C-Haken nur angelehnt und unsachgemäß gelagert war. Dennoch hat er sich um den C-Haken nicht weiter gekümmert und mit dem Rücken zu diesem die Wartungsarbeiten am Kran ausgeführt. Warum er in dieser Situation keine Handlungsalternative zur Sicherstellung seines Selbstschutzes gehabt haben soll, ist nicht nachvollziehbar.
+[13] 		Die Schlussfolgerung des Berufungsgerichts, dass die dazu vom Kläger ins Treffen geführten Entscheidungen, insbesondere jene zu 2 Ob 68/21w nicht einschlägig seien, ist keine korrekturbedürftige Fehlbeurteilung. Auch auf die Entscheidung zu 8 ObA 69/21m kann sich der Kläger nicht erfolgreich stützen, weil aus dem dort zugrunde gelegenen Sachverhalt gerade nicht abzuleiten war, dass sich der dortige Kläger in einen als gefährlich erkennbaren Bereich begeben hatte, während hier für den Kläger die Gefahr erkennbar war.
+[14] 		2.2 Mit dem bloß pauschalen Hinweis auf höchstgerichtliche Entscheidungen, in denen dem Geschädigten ein geringerer (Mit-)Verschuldensanteil als dem Schädiger zugewiesen worden sei, zeigt der Kläger ebenfalls keine erhebliche Rechtsfrage auf. Ein Grundsatz, dass das Opfer einer Schadenshandlung generell ein geringeres Mitverschulden treffe, besteht in der Rechtsprechung nicht.
+[15] 		2.3 Bei der Bemessung des Schmerzengeldes ist regelmäßig auf die Umstände des Einzelfalls abzustellen, weshalb in der Regel keine erhebliche Rechtsfrage vorliegt (vgl RS0044088 [T8 und T9]). Eine Revision wäre daher nur bei eklatanter Fehlbemessung, die völlig aus dem Rahmen der ständigen oberstgerichtlichen Rechtsprechung fällt, zur Vermeidung gravierender Ungleichbehandlungen ausnahmsweise zulässig (RS0031075 [T7]; RS0022442 [T10]).
+[16] 		Solche besonderen Umstände, die vom Berufungsgericht unberücksichtigt geblieben wären, zeigt das Rechtsmittel des Klägers nicht auf.
+[17] 		3. Mangels erheblicher Rechtsfrage waren die Revisionen des Klägers und der Beklagten zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00066.22K.0519.000

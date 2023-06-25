@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2022
+Geschäftszahl
+4Ob188/22h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei N*, vertreten durch Dr. Karin Prutsch und Mag. Michael F. Damitner, Rechtsanwälte in Graz, gegen die beklagte Partei S*, vertreten durch Dr. Christian Gamauf, Rechtsanwalt in Wien, wegen 45.000 EUR sA und Feststellung (Streitwert 5.100 EUR) über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. August 2022, GZ 13 R 22/22h-73, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin begehrte Schadenersatz wegen Aufklärungs- und Behandlungsfehlern in Zusammenhang mit mehreren Operationen an der Speiseröhre, unter anderem beim Setzen eines Zentralvenenkatheters am 29. 2. 2016. Außerdem sei die Klägerin am 30. 1. 2016 im Spital der Beklagten gegen ihren Willen sediert worden, was bei ihr einen erheblichen psychischen Gesundheitsschaden verursacht habe.
+[2] 		Das Erstgericht sprach der Klägerin 4.500 EUR Schmerzengeld wegen einer verspäteten Lagekorrektur des lege artis gesetzten und dann in Fehllage geratenen Katheters zu. Die Gabe von Medikamenten mit sedierender Wirkung sei medizinisch indiziert gewesen und immer nur mit dem Einverständnis der Klägerin erfolgt. Auch sonst seien der Beklagten keine Aufklärungs- oder Behandlungsfehler vorzuwerfen. Das Feststellungsbegehren sei abzuweisen, weil Spät- und Dauerfolgen ausgeschlossen seien.
+[3] 		Das Berufungsgericht bestätigte diese Entscheidung.
+Rechtliche Beurteilung
+[4] 		Die dagegen erhobene außerordentliche Revision der Klägerin zeigt keine Rechtsfrage von erheblicher Bedeutung auf und ist daher unzulässig.
+[5] 		1. Die Klägerin rügt, dass das Berufungsgericht sich inhaltlich nicht mit ihrer Mängelrüge wegen Abweisung des Antrags auf Einholung eines psychiatrischen Gutachtens auseinandergesetzt habe.
+[6] 		1.1. Mangelhaftigkeiten des erstinstanzlichen Verfahrens können nach ständiger Rechtsprechung nur vom Gericht zweiter Instanz, nicht aber vom Obersten Gerichtshof überprüft werden (RS0042963). Jedoch ist das Berufungsverfahren selbst mangelhaft, wenn das Berufungsgericht sich mit der Mängelrüge des Berufungswerbers überhaupt nicht oder nicht auf aktenmäßiger Grundlage befasst hat (RS0042963 [T9, T12, T28]).
+[7] 		1.2. Im vorliegenden Fall prüfte das Berufungsgericht sowohl das Vorliegen von primären als auch sekundären Feststellungsmängeln in Zusammenhang mit der unterbliebenen Einholung eines psychiatrischen Sachverständigengutachtens und verneinte beide.
+[8] 		1.3. Eine aktenwidrige Grundlage für diese Einschätzung des Berufungsgerichts legt die Revision nicht nachvollziehbar dar. Vielmehr räumt sie selbst ein, dass die Klägerin diesen Beweis (nur) für ihre psychische Gesundheitsschädigung als Folge einer unzulässigen Sedierung angeboten habe. Ein derartiges rechtswidriges Verhalten der Beklagten konnte im Verfahren jedoch gerade nicht erwiesen werden, sodass auch das Feststellungsbegehren abgewiesen werden kann, ohne seine angeblichen Folgen abzuklären.
+[9] 		2. Nach Ansicht der Klägerin unterlief den Vorinstanzen außerdem eine krasse rechtliche Fehlbeurteilung, weil der Krankenhausträger dem Patienten nach einem Kunstfehler auch für Schmerzen aus lege artis erfolgten Behandlungen hafte, die erst durch einen Kunstfehler erforderlich geworden seien. Daher wären jedenfalls Feststellungen zu den psychischen Gesundheitsschäden zu treffen gewesen.
+[10] 		2.1. Das Erstgericht stellte fest, welche Folgen der Behandlungsfehler im Zusammenhang mit dem Katheter verursachte, insbesondere seine Auswirkungen auf den Heilungsverlauf und die dadurch verursachten Schmerzen. Auf dieser Basis ermittelte es ein Schmerzengeld, das diese Folgen zur Gänze abgelten sollte. Künftige Schäden sind nach den Feststellungen auszuschließen.
+[11] 		2.2. Das Vorbringen der Klägerin zu darüber hinausgehenden psychischen Gesundheitsschäden erschöpft sich darin, dass sie ab 30. 1. 2016 (dem Datum der Sedierung) an Panikattacken gelitten habe. Ansprüche für derartige Beeinträchtigungen können schon deshalb nicht aus der verspäteten Lagekorrektur des Katheters abgeleitet werden, weil dieser Behandlungsfehler erst rund einen Monat später, nämlich am 29. 2. 2016 erfolgte.
+[12] 		2.3. Auf die in der Revision angesprochene Beweislastverteilung in Arzthaftungsprozessen kommt es wegen der Chronologie der Ereignisse im vorliegenden Fall daher nicht an.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00188.22H.1018.000

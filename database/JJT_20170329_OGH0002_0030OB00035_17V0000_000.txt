@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2017
+Geschäftszahl
+3Ob35/17v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Mag. F*, vertreten durch Dr. Walter Waizer, Rechtsanwalt in Innsbruck, gegen die beklagte Partei M*, vertreten durch Dr. Karl Hepperger, Rechtsanwalt in Innsbruck, und der Nebenintervenientin auf Seiten der beklagten Partei Mag. S*, vertreten durch Mag. Martin Pancheri, Rechtsanwalt in Innsbruck, wegen 50.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 12. Jänner 2017, GZ 2 R 153/16s-33, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Gegenstand des Revisionsverfahrens ist der zwischen den Streitteilen geschlossene Liegenschaftskaufvertrag.
+Das Erstgericht wies das Hauptbegehren auf Zahlung von 50.000 EUR infolge Preisminderung bzw Vertragsanpassung wegen Irreführung rechtskräftig ab und gab dem Eventualbegehren auf Aufhebung des Liegenschaftskaufvertrags wegen eines wesentlichen Geschäftsirrtums statt.
+Das Berufungsgericht bestätigte das Ersturteil.
+Rechtliche Beurteilung
+Die Beklagte zeigt in ihrer außerordentlichen Revision keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf:
+1. Bei einem Eventualbegehren handelt es sich um eine zulässige (vgl RIS-Justiz RS0037470) Eventualklagenhäufung, bei der ein Klageanspruch erstrangig und ein anderer Klageanspruch nur für den Fall der Erfolglosigkeit des erstrangigen Anspruchs gestellt wird; dabei kann es sich um gleiche, aber auch um in Widerspruch zueinander stehende oder einander sogar ausschließende Klagegründe handeln (RIS-Justiz RS0074353).
+2. Die Auffassung der Revisionswerberin, das Erstgericht hätte dem Eventualbegehren nicht stattgeben dürfen, weil es erst etwa eineinhalb Jahre nach Einbringung der Klage unmittelbar vor Schluss der Verhandlung erster Instanz gestellt wurde, trifft somit nicht zu: Ein Eventualbegehren kann auch während des Rechtsstreits erhoben werden (RIS-Justiz RS0037675; 3 Ob 14/15b). Selbst wenn man davon ausginge, dass das nachträglich im Verfahren gestellte Eventualbegehren eine Klageänderung war (vgl RIS-Justiz RS0039393; 3 Ob 14/15b), ist daher für die Beklagte nichts gewonnen, weil sie das Eventualbegehren inhaltlich bestritt (S 15 in ON 26) und damit über die geänderte Klage verhandelte, ohne gegen die Änderung Einwendungen zu erheben (§ 235 Abs 2 Satz 2 ZPO).
+3. Das prozessuale Vorgehen der Klägerin rechtfertigt auch nicht den von der Beklagten gezogenen Schluss, die Klägerin sei selbst von der Unwesentlichkeit des Irrtums ausgegangen: Es steht vielmehr fest, dass die Klägerin bei Kenntnis der vorhandenen – gravierenden – Mängel nicht bereit gewesen wäre, das Haus zu kaufen (dies auch nicht zu einem geringeren Kaufpreis), und dass die Beklagte ihrerseits nicht bereit gewesen wäre, das Haus zu einem geringeren Preis zu verkaufen.
+4. Abgesehen davon, dass die Beklagte durch eine fehlende Begründung der Abweisung des Hauptbegehrens im Ersturteil – die von der Klägerin nicht bekämpft wurde – nicht beschwert sein kann, hat das Erstgericht diese Abweisung ohnedies erkennbar mit der Wesentlichkeit des Geschäftsirrtums begründet.
+5. Grundsätzlich schließt ein Verzicht auf Gewährleistung die Anfechtung des Vertrags wegen Irrtums nicht aus (3 Ob 111/09h mwN). Allerdings kann die Vertragsauslegung im Einzelfall ergeben, dass der Ausschluss der Gewährleistung für einen bestimmten Umstand auch einen Verzicht auf die Irrtumsanfechtung für diesen Umstand umfasst. Das wird im Regelfall für schlicht veranlasste Eigenschaftsirrtümer gelten, weil Vertragspartner, die einen Ausschluss der Gewährleistung für einen bestimmt bezeichneten Umstand vereinbaren, erkennbar auch jedes andere (unverschuldete) Einstehenmüssen für diesen Umstand ausschließen wollen (9 Ob 10/15h = RIS-Justiz RS0014900 [T7]; 8 Ob 98/08g; 3 Ob 111/09h).
+6. Hier steht jedoch fest, dass die Beklagte die Klägerin nicht nur bewusst über das Baujahr des Hauses täuschte (was insbesondere im Hinblick darauf von Bedeutung ist, dass dessen Wärmedämmung nicht dem im angeblichen Baujahr 2000 geltenden Standard entsprach), sondern überdies ausdrücklich – über Nachfrage der Klägerin – einen Ölverbrauch von bloß 2.000 l pro Jahr zusagte, der tatsächliche Ölverbrauch aber 3.000 l pro Jahr beträgt. Auch der übergebene Energieausweis war im Ergebnis falsch, weil er zumindest teilweise auf Basis unrichtiger Angaben/Annahmen (der Beklagten bzw ihres Ehegatten) erstellt wurde. Schon für das Fehlen ausdrücklich zugesicherter Eigenschaften gilt der hier vereinbarte – im Übrigen eingeschränkte – Gewährleistungsverzicht nicht (RIS-Justiz RS0018564 [T7, T12]). Umso weniger kann sich die Beklagte darauf berufen, dass sich der Verzicht auch auf das von ihr vorgetäuschte Baujahr bzw auf die Irreführung über den ausdrücklich zugesagten Energieverbrauch beziehe.
+7. Die Beurteilung der Vorinstanzen, ein Verzicht auf die Irrtumsanfechtung wegen verschwiegener Mängel sei nicht vereinbart worden, ist im Hinblick darauf, dass in Punkt IX. des Kaufvertrags lediglich festgehalten wird, die Vertragsteile könnten „nach ihrer Überzeugung“ keine Gründe für eine Anfechtung dieses Rechtsgeschäfts wegen Irrtums erkennen, zumindest vertretbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E117798

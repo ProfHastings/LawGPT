@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.1952
+Geschäftszahl
+1Ob763/52
+Norm
+ABGB §276;
+Außerstreitgesetz §216;
+JN §1;
+Kopf
+SZ 25/270
+Spruch
+Der Kurator kann Ersatzansprüche aus Kuratelsgeschäften erst nach genehmigter Schlußrechnung im Rechtsweg geltend machen; anders bei Ansprüchen auf Aufwandersatz, den er ohne Ermächtigung des Kuratelsgerichtes als negotiorum gestor gemacht hat.
+Entscheidung vom 22. Oktober 1952, 1 Ob 763/52.
+I. Instanz: Kreisgericht Korneuburg; II. Instanz: Oberlandesgericht Wien.
+Text
+Klägerin war bis zum Sommer 1949 Kurator des Beklagten, hat aber dessen Geschäfte auch nach der Enthebung noch bis Ende 1949 weitergeführt. Sie begehrt für die Zeit, da sie Kurator war, und für die weitere Zeit, da sie die Geschäfte tatsächlich weitergeführt hat, den Betrag von 17.094.05 S als Geschäftsführer, ferner Ersatz der für den Beklagten aus eigenem Geld gemachten Auslagen von 2137.03 S und aus persönlich aufgenommenen Darlehen und weitere Auslagen von 25.694.28 S bzw. 10.380.84 S samt Zinsen per 2700 S, also insgesamt 57.926.20 S. Dieser Betrag wird, da beide Streitteile inzwischen in Konkurs geraten sind, mit Liquidierungsklage geltend gemacht.
+Das Erstgericht hat das Verfahren für nichtig erklärt, weil bisher das Kuratelsgericht nicht über die geltend gemachten Ansprüche entschieden hat.
+Das Rekursgericht hat dem Erstgericht aufgetragen, das Verfahren fortzusetzen, weil die Gehaltsforderung von 17.094.05 S nicht als Kuratorentlohnung verlangt wurde, sondern aus dem Titel der Geschäftsführung. Auch die weiteren Ersatzforderungen hängen nach der Klage keineswegs mit der Tatsache zusammen, daß Anna P. nicht bloß als Ehegattin (richtig Schwägerin) und Geschäftsführerin des Robert P. auftrat, sondern auch seine Abwesenheitskuratorin war.
+Dieser Beschluß wird vom Beklagten mit Revisionsrekurs angefochten.
+Der Oberste Gerichtshof hob bezüglich des Teilbetrages von 17.094.05 S auf und gab im übrigen dem Revisionsrekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Soweit die Klägerin für die Zeit ihrer Kuratorschaft eine Entschädigung für Zeit und Mühewaltung verlangt, kann sie dies nur aus dem Titel ihrer Eigenschaft als Kurator tun, da ihre Geschäftsführungsbefugnis sich auf die Kuratorbestellung stützt, und daher eine Geschäftsführung aus einem anderen Titel gar nicht in Betracht kommt, geschweige denn eine Geschäftsführung aus dem Titel der negotiorum gestio. Daß Klägerin in der Klage diesen Anspruch anders konstruiert, ist rechtlich bedeutungslos, weil das Gericht selbständig die rechtliche Natur eines Anspruches beurteilt. Soweit sich aber eine Streitigkeit auf Ansprüche aus Kuratelsgeschäften bezieht, kann vor gelegter Schlußrechnung im Rechtswege kein Ersatz verlangt werden (§ 216 AußstrG.). Die Entlohnungsansprüche gehören daher, wie der Erstrichter richtig erkannt hat, nicht auf den Rechtsweg, aber nur bis zur rechtskräftigen Enthebung, weil eine Betätigung nach der Enthebung mit der ehemaligen Kuratorbestellung nichts zu tun hat und als eine gewöhnliche negotiorum gestio anzusehen ist; die Ansprüche aus dieser gehören auf den Rechtsweg.
+Es ist daher vorerst klarzustellen, welche Beträge Klägerin für die Zeit vor und welche sie für die Zeit nach der Enthebung der Kuratel geltend macht. Da dies bisher nicht erörtert wurde, mußten die beiden unterinstanzlichen Beschlüsse in diesem Punkt aufgehoben werden.
+Im übrigen ist der Revisionsrekurs nicht begrundet. Wenn ein Kurator aus eigenem ohne Ermächtigung des Kuratelsgerichtes Aufwendungen macht, Darlehen im eigenen Namen aufnimmt usw., so macht er dies nicht in seiner Eigenschaft als Kurator, sondern als negotiorum gestor, da er ohne Rechtsgrund Aufwendungen für einen Dritten macht. Diese Ansprüche fallen deshalb nicht unter § 216 AußstrG. Sie können daher auch ohne vorhergehende außergerichtliche Bestimmung im Prozeßweg geltend gemacht werden. Daher war in diesem Punkt der rekursgerichtliche Beschluß zu bestätigen.

@@ -1,0 +1,156 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2005
+Geschäftszahl
+10ObS23/05p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schinko als Vorsitzenden, die Hofräte des Obersten Gerichtshofes Dr. Fellinger und Hon. Prof. Dr. Neumayr sowie die fachkundigen Laienrichter Dr. Jörg Krainhöfner (aus dem Kreis der Arbeitgeber) und Mag. Ernst Löwe (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei Elfriede H*****, Pensionistin, *****, vertreten durch Brandstetter Pritz & Partner Rechtsanwälte KEG in Wien, gegen die beklagte Partei Pensionsversicherungsanstalt, Friedrich Hillegeist-Straße 1, 1021 Wien, vertreten durch Dr. Vera Kremslehner und andere Rechtsanwälte in Wien, wegen Alterspension, infolge außerordentlicher Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 22. Dezember 2004, GZ 7 Rs 18/03y-15, womit infolge Berufung der klagenden Partei das Urteil des Landesgerichtes St. Pölten als Arbeits- und Sozialgericht vom 21. September 2002, GZ 6 Cgs 230/01g-8, teilweise abgeändert wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird Folge gegeben.
+Die Urteile der Vorinstanzen werden dahin abgeändert, dass sie ingesamt zu lauten haben:
+„Die beklagte Partei ist schuldig, der klagenden Partei ab dem 1. 7. 2001 die Alterspension in Höhe von monatlich EUR 1.795,53 (ATS 24.707,--) unter Anrechnung der bereits bezahlten Pensionsbeträge zu gewähren und die seither fällig gewordenen Beträgen binnen 14 Tagen nachzuzahlen."
+Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 666,24 (darin EUR 111,04 Umsatzsteuer) bestimmten Kosten des Rechtsmittelverfahrens zu ersetzen.
+Text
+Entscheidungsgründe:
+Mit Bescheid vom 28. 4. 1997 hat die Pensionsversicherungsanstalt der Angestellten den Anspruch der am 18. 6. 1941 geborenen Klägerin auf Gleitpension ab 1. 1. 1997 anerkannt und die Höhe der Pension mit 15.547,40 ATS monatlich brutto ermittelt, dies aufgrund folgender Berechnung:
+(1) Versicherungsmonate:
+- in Österreich nach dem ASVG        347
+- für Kindererziehung 63 Versicherungsmonate, wovon sich 4 mit
+anderen Versicherungsmonaten überlagern, daher verbleiben
+59
+- nach dem GSVG                       60
+466
+(2) Bemessungsgrundlagen nach dem ASVG
+(in Schilling)
+- BGl gemäß § 238 ASVG            33.980
+- BG2 gemäß § 239 ASVG für Kindererziehung (KE
+6.252
+(3) Ermittlung der Pension (§ 261 ASVG)
+- Steigerungsbetrag für 407 VM: 63,510 % der BGl
+21.580,70
+- Steigerungsbetrag für 59 VM: 9,436 % der
+BG2                                  589,90
+- Steigerungsbetrag für 4 VM: 0,639 % der
+BG2                                   40,00
+Gesamtpension                     22.210,60
+Als Teilpension gebührten gemäß § 253c
+ASVG 70 %, das sind               15.547,40
+Nachdem die Klägerin das Anfallsalter für die Alterspension erreicht hatte, hat die Pensionsversicherungsanstalt der Angestellten mit Bescheid vom 2. 8. 2001 ausgesprochen, dass die Gleitpension ab 1 7. 2001 als Alterspension gebühre und 23.975 ATS (= 1.742,33 EUR) brutto betrage. Die Berechnung wurde von der Pensionsversicherungsanstalt der Angestellten folgendermaßen vorgenommen:
+Bemessungsgrundlagen nach dem ASVG (in Schilling)
+- BG1 gemäß § 238 ASVG               35.223
+- BG2 gemäß § 239 ASVG für Kindererziehung (KEZ)
+6.521
+Ermittlung der Pension (§ 261 ASVG)
+- Steigerungsbetrag1: 63,510 % der BGl
+22.370,10
+- Steigerungsbetrag2: 9,436 % der BG2   615,30
+- Steigerungsbetrag3: 0,639 % der BG2    41,70
+Gesamtsteigerungsbetrag              23.027,10
+Erhöhung laut § 261b ASVG für 54 Monate
+(x 1,041153)                         23.975,00
+Die Klägerin begehrt die beklagte Partei schuldig zu erkennen, ihr ab 1. 7. 2001 eine Alterspension im gesetzlichen Ausmaß, mindestens in Höhe von 24.707 ATS (= 1.795,53 EUR) zu gewähren. Die Berechnung der Pension sei unrichtig. Weil der Stichtag der Gleitpension vor dem 1. 1. 1998 liege, habe die Berechnung der Alterspension zum 1. 7. 2001 nach § 261b ASVG in der am 31. 12. 1997 geltenden Fassung zu erfolgen (§ 572 Abs 14 ASVG). Korrekt sei die Rechnung der beklagten Partei betreffend den den Hundertsatz des Steigerungsbetrages erhöhenden Faktors (§ 261b Abs 3 ASVG in der am 31. 12. 1997 geltenden Fassung). Dieser Faktor betrage 1,041153. Die beklagte Partei habe aber den neuen (erhöhten) Steigerungsbetrag von 75,948 nicht - wie es § 261b Abs 4 ASVG in der am 31. 12. 1997 geltenden Fassung vorschreibe - auf eine Gesamtbemessungsgrundlage angewandt. Die Gesamtbemessungsgrundlage sei wie folgt zu berechnen:
+457 Versicherungsmonate (davon 54 während des Bezugs der Gleitpension erworbene) mit Ausnahme der Ersatzmonate für Zeiten der Kindererziehung; 59 "blanke" Kindererziehungsmonate; 4 deckende Kindererziehungsmonate.
+-	Beitragsgrundlage aufgrund § 238 ASVG
+35.223
+- Beitragsgrundlage für Zeiten der Kindererziehung
+8.437
+Daraus ergebe sich folgende Rechnung:
+457 x 35.223              16,096.911
+59 x 8.437                   497.783
+4 x 43.660                   174.640
+520                       16,769.334
+16,769.334 : 520 = 32.249 (Gesamtbemessungsgrundlage)
+Der Steigerungsbetrag sei folgendermaßen zu ermitteln:
+- 407 "normale" Versicherungsmonate einschließlich 4 mit
+Kindererziehungsmonaten deckende Monate; dafür gebührten nach der
+Rechtslage zum 31. 8. 1996 grundsätzlich 62,875 %
+- 59 "blanke" Kindererziehungsmonate      9,342 %
+Steigerungsbetrag daher                  72,217 %
+Dieser Steigerungsbetrag sei, da die Gleitpension von der Klägerin sechs Monate nach dem Anfallsalter für die vorzeitige Alterspension in Anspruch genommen worden sei, um den Faktor 1,010101 zu erhöhen; dies ergebe einen Prozentsatz von 72,964. Bis hierher erfolge die Berechnung gemäß § 261 ASVG in der am 31. 8. 1996 geltenden Fassung und in Übereinstimmung mit der Berechnung der beklagten Partei. Der so ermittelte Steigerungsbetrag sei gemäß § 261b ASVG um den Faktor 1,041153 auf 75,948 % der Bemessungsgrundlage zu erhöhen, sodass sich der Pensionsanspruch mit
+32.249 x 75,948 % = 24.492,50 ATS (= 1.779,94 EUR) errechne. Für den Fall, dass die Bemessungsgrundlage für Ersatzzeiten der Kindererziehung 6.521 ATS betrage (wie die beklagte Partei angenommen habe), habe die Gesamtbemessungsgrundlage eine Höhe von 32.032 ATS und die Pension eine Höhe von 24.327,70 ATS (= 1.767,96 EUR). Der zentrale Unterschied zu der von der beklagten Partei im angefochtenen Bescheid vertretenen Rechtsansicht liege in der Frage, ob und wie eine Gesamtbemessungsgrundlage zu ermitteln sei. Entgegen dem klaren Wortlaut des § 572 Abs 14 ASVG habe die beklagte Partei nicht § 261b ASVG in der am 31. 12. 1997, sondern in der am 31. 8. 1996 geltenden Fassung zur Anwendung gebracht, indem sie bei der Berechnung der Alterspension keine Gesamtbemessungsgrundlage ermittelt habe. Entsprechend dem ausdrücklichen Gesetzesbefehl des § 261b Abs 4 ASVG in der am 31. 12. 1997 geltenden Fassung sei die Gesamtbemessungsgrundlage zum Monatsersten zu bilden, der auf die Erreichung des Anfallsalters für die Alterspension folge. Dieser Tag trete für die Berechnung der Gesamtbemessungsgrundlage an die Stelle des Stichtags, wie sich aus dem Zusammenhalt der §§ 238 und 240 ASVG ergebe.
+Die beklagte Partei beantragte Klageabweisung und wendete ein, dass die Berechnung im angefochtenen Bescheid richtig sei. Die Erhöhung der Bemessungsgrundlage für Kindererziehungszeiten auf den Richtsatz für Alleinstehende sei erst mit der 54. ASVG-Novelle mit Wirksamkeit ab 1. 1. 2000 und somit nach dem Stichtag 1. 1. 1997 erfolgt. Aus diesem Grund sei die Bemessungsgrundlage für Kindererziehungszeiten weiterhin mit dem zum Stichtag geltenden Betrag unter Berücksichtigung der jährlichen Aufwertung anzusetzen, weil der 1. 7. 2001 keinen neuen Stichtag darstelle. Weiters sei der Berechnung der klagenden Partei entgegen zu halten, dass sie die nach dem Stichtag für die Gleitpension erworbenen Monate wie übrige Versicherungsmonate behandle, was eindeutig dem § 261b ASVG aF widerspreche, auf dessen Grundlage Monate, die während des Bezugs einer Gleitpension erworben worden seien, geringer bewertet würden, weil in dieser Zeit bereits eine Leistung aus der Pensionsversicherung bezogen worden sei. Insgesamt sei die Berechnung zum Stichtag 1. 1. 1997 heranzuziehen, wobei die Steigerungsbeträge 1 : 1 zu übernehmen seien, während die Bemessungsgrundlage neu zu erstellen sei.
+Das Erstgericht hat das Klagebegehren abgewiesen. Die von der beklagten Partei vorgenommene Pensionsberechnung entspreche der Rechtslage; der Klägerin stehe dementsprechend eine monatliche Pension von 1.742,33 EUR zu.
+Das Berufungsgericht gab der Berufung der Klägerin im zweiten Rechtsgang teilweise Folge und sprach ihr die Alterspension in Höhe von ATS 24.442,66 (EUR 1.776,32) zu; das Mehrbegehren wurde abgewiesen. Unter Hinweis auf die vom Obersten Gerichtshof im Beschluss vom 27. 7. 2004, 10 ObS 20/04w-14, dargelegte Rechtslage berechnete es die Alterspension der Klägerin ab 1. 7. 2001 in folgender Weise (eine Erörterung mit den Parteien wurde nicht durchgeführt):
+Die Gesamtbemessungsgrundlage gemäß § 240 ASVG sei die Summe der Bemessungsgrundlagen (§§ 238 Abs 1, 239, 241 ASVG) aller für das Ausmaß der Pension nach dem ASVG, dem GSVG, dem BSVG und dem FSVG zu berücksichtigenden Versicherungsmonate, geteilt durch die Summe der Versicherungsmonate. Die Kindererziehungszeiten seien nach § 239 Abs 1 und 3 ASVG idF zum 1. 7. 2001 mit ATS 8.437,-- zu bewerten. Daraus ergebe sich für die Klägerin (Werte in ATS):
+407 Versicherungsmonate zu 35.223   14,335.761
+59 Kindererziehungsmonate zu 8.437    497.783
+(4) überdeckende Monate zu 8.437       33.748
+466                                 14,867.292
+Gesamtbemessungsgrundlage: 14,867.292 : 466 = 31.904,06
+Für die Ermittlung des Steigerungsbetrages seien die als Grundlage
+für den rechtskräftigen Bescheid vom 28. 4. 1997 herangezogenen
+unterschiedlichen Steigerungsprozentsätze anzuwenden und noch mit dem
+Vervielfachungsfaktor (unstrittig 1,041153) zu multiplizieren.
+Steigerungsbetrag für Versicherungsmonate   63,510 %
+Steigerungsbetrag für Kindererziehungszeiten 9,436 %
+Steigerungsbetrag für überdeckende
+Kindererziehungsmonate                       0,639 %
+73,585 %
+x 1,041153                                  76,613 %
+Die Pensionshöhe errechne sich aus der Gesamtbemessungsgrundlage und dem vervielfachten Steigerungsbetrag:
+31.904,06 x 76,613 % = 24.442,66 ATS (EUR 1.776,32)
+Die ordentliche Revision sei nicht zulässig, weil die Entscheidung nicht von einer Rechtsfrage der in § 502 Abs 1 ZPO normierten Qualität abhängig gewesen und das Berufungsgericht nicht von der im Aufhebungsbeschluss des Obersten Gerichtshofes überbundenen Rechtsansicht abgewichen sei.
+Gegen diese Entscheidung richtet sich die außerordentliche Revision der Klägerin aus dem Revisionsgrund der unrichtigen rechtlichen Beurteilung mit dem Antrag auf Abänderung des angefochtenen Urteils im klagsstattgebenden Sinn. Hilfsweise wird ein Aufhebungs- und Zurückverweisungsantrag gestellt.
+Die beklagte Partei weist in ihrer Revisionsbeantwortung darauf hin, dass keine Berechnung der Leistung unter Berücksichtigung einer Gesamtbemessungsgrundlage vorzunehmen sei.
+Rechtliche Beurteilung
+Die Revision ist zulässig, da das Berufungsgericht teilweise von der vom Obersten Gerichtshof im Aufhebungsbeschluss vom 27. 7. 2004, 10 ObS 20/04w-14, vorgegebenen (Neu)Berechnung der Höhe der Alterspension der Klägerin abgewichen ist; sie ist auch berechtigt.
+Die Klägerin hat vor dem Beginn des Bezugs der Teilpension 347
+Versicherungsmonate nach dem ASVG und 60 Versicherungsmonate nach dem
+GSVG erworben (= 407 Versicherungsmonate), weiters 63 Monate für
+Kindererziehung, wovon sich 4 mit anderen Versicherungsmonaten
+überlagern. Insgesamt liegen daher 466 Versicherungsmonate vor.
+Während des Bezugs der Teilpension hat sie weitere 54
+Versicherungsmonate erworben, sodass sich eine Gesamtzahl von 520
+Versicherungsmonaten (einschließlich Kindererziehungszeiten) ergibt.
+Der Oberste Gerichtshof hat in seinem Aufhebungsbeschluss vom 27. 7.
+2004, 10 ObS 20/04w-14, die Art und Weise der (Neu)Berechnung der
+Höhe der Alterspension der Klägerin vorgegeben; die Aufhebung
+erfolgte allein im Hinblick auf § 510 Abs 1 letzter Satz ZPO, um die
+vom Berufungsgericht vorzunehmende Berechnung überprüfbar zu machen.
+Im Folgenden wird daher allein die vom Berufungsgericht vorgenommene
+Berechnung auf ihre Übereinstimmung mit den Vorgaben des Obersten
+Gerichtshofes nachvollzogen.
+1. Bemessungsgrundlage für die vier "überdeckenden" Monate:
+Zieht man für die vier „überdeckenden" Monate - wie von der Klägerin
+in der Revision gefordert - eine Bemessungsgrundlage von ATS
+43.660,-- (und nicht von ATS 8.437,--) heran, kommt es zu einer
+doppelten Berücksichtigung dieser vier Monate, wenn bei den
+"regulären" Versicherungsmonaten (Bemessungsgrundlage von jeweils ATS
+35.223,--) von 407 Monaten ausgegangen wird. Darin sind nämlich auch
+schon die vier überdeckenden Monate (mit-)enthalten, auf die eine
+Bemessungsgrundlage von jeweils ATS 35.223,-- anzuwenden ist. Da es
+sich eben bei den vier Monaten um "überdeckende" handelt, ist neben
+der - schon erfolgten - Berücksichtigung dieser Monate als
+Versicherungsmonate mit einer Bemessungsgrundlage von ATS 35.223,--
+nur mehr ihre weitere Berücksichtigung als Kindererziehungsmonate mit
+einer Bemessungsgrundlage von ATS 8.437,-- notwendig, sodass die vom
+Berufungsgericht herangezogene Bemessungsgrundlage richtig ist.
+Dieser Punkt wirkt sich aber nicht aus, da die Berechnung anders zu
+erfolgen hat:
+2. Auswirkungen des Erwerbs von weiteren Versicherungsmonaten während
+des Bezugs der Teilpension:
+Im Aufhebungsbeschluss wurde vorgegeben, dass der Erwerb von weiteren
+Versicherungsmonaten in Form der Anwendung eines
+Vervielfachungsfaktors abgegolten wird (und nicht durch eine
+Neuberechnung der Steigerungsprozentsätze unter Einbeziehung der
+weiteren, während des Bezugs der Teilpension erworbenen
+Versicherungszeiten). Weiters wurde vorgegeben, dass zu dem auf den
+Zeitpunkt des Erreichens des Anfallsalters für die Alterspension
+folgenden Monatsersten die (Gesamt)Bemessungsgrundlage neu zu ermitteln ist.
+Dem hat das Berufungsgericht nicht entsprochen, sondern ist bei der Ermittlung der Gesamtbemessungsgrundlage von 407 Versicherungsmonaten zu ATS 35.223,-- ausgegangen und nicht von 461 (einschließlich der von der Klägerin während des Bezugs der Teilpension erworbenen weiteren 54 Versicherungsmonate).
+Bei richtiger Berechnung ergibt sich eine Gesamtbemessungsgrundlage
+in Höhe von ATS 32.248,72:
+461 Versicherungsmonate zu 35.223,-- 16.237.803
+59 Kindererziehungsmonate zu 8.437,--  497.783
+(4) überdeckende Monate zu 8.437,--     33.748
+520                                  16.769.334
+16.769.334 : 520 = 32.248,72
+Die Pensionshöhe errechnet sich aus der Gesamtbemessungsgrundlage und dem vervielfachten Steigerungsbetrag von 76,613 % mit ATS 24.707,--. (32.249 x 76,613 % = ATS 24.707,-- = EUR 1.795,53)
+Soweit die Revision nicht 461, sondern nur 457 Versicherungsmonate berücksichtigt haben will und dafür die vier "überdeckenden Monate" auf einer höheren Bemessungsgrundlage von ATS 43.660,-- (= ATS 35.223,-- + ATS 8.437,--), ändert sich nichts am Ergebnis der Ermittlung der Gesamtbemessungsgrundlage von ATS 32.248,72, wie das Rechenbeispiel zeigt:
+457 Versicherungsmonate zu 35.223,-- 16.096.911
+59 Kindererziehungsmonate zu 8.437,--  497.783
+4 überdeckende Monate zu 43.660,--    174.640
+520                                  16.769.334
+16.769.334 : 520 = 32.248,72
+Die Kostenentscheidung beruht auf § 77 Abs 1 Z 2 lit b ASGG.

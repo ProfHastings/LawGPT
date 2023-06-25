@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.09.2022
+Geschäftszahl
+2Ob141/22g
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Pflegschaftssache der minderjährigen Kinder M*, geboren am * und H*, geboren am *, über den „außerordentlichen Revisionsrekurs“ des Vaters DI J*, vertreten durch Mag. Hannes Huber, Rechtsanwalt in Melk, gegen den Beschluss des Landesgerichts St. Pölten als Rekursgericht vom 11. Mai 2022, GZ 23 R 139/22x-89, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Das Erstgericht setzte den laufenden Unterhalt (statt wie bisher mit je 480 EUR monatlich) ab 1. 7. 2021 mit zusätzlichen 130 EUR je Kind – insgesamt sohin 610 EUR je Kind – fest und verpflichtete den Vater außerdem zur Zahlung rückständigen Unterhalts für den Zeitraum ab 1. 1. 2019.
+[2] 		Die Kinder, die im erstinstanzlichen Verfahren noch eine Erhöhung des Unterhalts auf je 800 EUR angestrebt hatten, ließen die Abweisung ihres Unterhaltsmehrbegehrens unbekämpft, erhoben jedoch im allein den Unterhaltsrückstand betreffenden Zinsenpunkt Rekurs.
+[3] 		Der Vater hielt in seinem Rekurs seinen im erstinstanzlichen Verfahren gestellten Antrag auf Reduktion des monatlichen Unterhalts auf 170 EUR je Kind aufrecht.
+[4] 		Das Rekursgericht gab dem Rekurs der Kinder zur Gänze und jenem des Vaters teilweise Folge. Es sprach aus, dass der ordentliche Revisionsrekurs nicht zulässig sei.
+Rechtliche Beurteilung
+[5] 		Das dagegen vom Vater erhobene, als „außerordentlicher Revisionsrekurs“ bezeichnete Rechtsmittel legte das Erstgericht dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise entspricht nicht dem Gesetz.
+[6] 		Hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG ausgesprochen, dass der (ordentliche) Revisionsrekurs nicht nach § 62 Abs 1 AußStrG zulässig ist, so kann gemäß § 62 Abs 5 AußStrG dennoch ein Revisionsrekurs erhoben werden, wenn der Entscheidungsgegenstand insgesamt 30.000 EUR übersteigt oder soweit er nicht rein vermögensrechtlicher Natur ist (außerordentlicher Revisionsrekurs).
+[7] 		Im Unterhaltsbemessungsverfahren ist der Entscheidungsgegenstand nach ständiger Rechtsprechung rein vermögensrechtlicher Natur und besteht ausschließlich in einem Geldbetrag. Maßgeblich ist gemäß § 58 Abs 1 JN der 36-fache Betrag jenes monatlichen Unterhaltsbeitrags, der zum Zeitpunkt der Entscheidung zweiter Instanz zwischen den Parteien noch strittig war, wobei regelmäßig auf den laufenden Unterhalt abzustellen ist (RS0122735; 10 Ob 44/20y). Der Wert des Entscheidungsgegenstands ist für jedes Kind einzeln zu berechnen; eine Zusammenrechnung der Begehren mehrerer Unterhaltsberechtigter hat nicht stattzufinden (RS0112656; RS0017257). Der Wert des Entscheidungsgegenstands beträgt daher im vorliegenden Fall je Kind 15.840 EUR (= 36 * [610–170]).
+[8] 		Übersteigt der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 30.000 EUR nicht und hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG den ordentlichen Revisionsrekurs für nicht zulässig erklärt, ist nach § 62 Abs 3 AußStrG der Revisionsrekurs – außer im Fall des § 63 Abs 3 AußStrG – jedenfalls unzulässig. Unter diesen Voraussetzungen kann eine Partei nur gemäß § 63 Abs 1 und 2 AußStrG einen – mit der Ausführung des ordentlichen Revisionsrekurses zu verbindenden – Antrag an das Rekursgericht stellen, den Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde (Zulassungsvorstellung).
+[9] 		Da die maßgebliche Wertgrenze bei keinem der Kinder überschritten wird, kommt dem Obersten Gerichtshof im derzeitigen Verfahrensstadium keine Entscheidungskompetenz zu. Das Erstgericht wird zu beurteilen haben, ob es die Eingabe des Vaters als eine (mit einem ordentlichen Revisionsrekurs verbundene) Zulassungsvorstellung an das Rekursgericht (§ 63 AußStrG) oder aber als verbesserungsbedürftig ansieht (RS0109505).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00141.22G.0906.000

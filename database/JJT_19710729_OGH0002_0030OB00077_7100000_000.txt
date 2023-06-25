@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.07.1971
+Geschäftszahl
+3Ob77/71 (3Ob75/71, 3Ob76/71)
+Norm
+EO §139 Abs3;
+EO §145 Abs1;
+Kopf
+SZ 44/120
+Spruch
+Die Aufforderung zur Vorlage von Versteigerungsbedingungen darf nicht gleichzeitig an den "führenden" betreibenden Gläubiger und die beigetretenen Gläubiger ergehen
+OGH 29. 7. 1971, 3 Ob 75 - 77/71 (LG Linz 13 R 154/71; BG Neufelden E 1513/70)
+Text
+Mit Beschluß vom 6. 8. 1970 bewilligte das Erstgericht der Firma Leopold A als betreibender Partei zu E 1513/70 die Zwangsversteigerung der der Maria E gehörigen Liegenschaftshälften EZ 243 und 159 der KG St. Später wurde der Bank X die Zwangsversteigerung auch hinsichtlich der Liegenschaftshälfte EZ 159 des Franz E und der AGesellschaft mbH, die Zwangsversteigerung der genannten Liegenschaftshälften des Franz E und dessen Liegenschaft EZ 216, KG St, bewilligt. Die zunächst getrennt geführten Versteigerungsverfahren wurden mit Beschluß vom 11. 12. 1970 verbunden und der Akt E 1513/70 zum führenden Akt bestimmt. Am 25. 1. 1970 forderte das Erstgericht die betreibenden Gläubiger Firma B, A-GmbH und die Bank X auf, innerhalb von drei Wochen den Entwurf von Versteigerungsbedingungen vorzulegen, widrigenfalls das Versteigerungsverfahren eingestellt würde. Es legte den Aufgeforderten nahe, sich über die Versteigerungsbedingungen abzusprechen.
+Keine dieser betreibenden Parteien legte innerhalb der gesetzten Frist Versteigerungsbedingungen vor, worauf das Erstgericht diese Verfahren gemäß § 145 Abs 1 EO einstellte.
+Dem Rekurs der Bank X und der A-GmbH gab das Rekursgericht Folge, hob den Beschluß des Erstgerichtes hinsichtlich dieser beigetretenen Gläubiger auf und trug ihm die Fortsetzung des Verfahrens auf. Es führte aus, die Aufforderung zur Vorlage der Versteigerungsbedingungen hätte nur an den ersten betreibenden Gläubiger, also die Firma B, gerichtet werden sollen. Im Falle ihrer Säumnis wäre das von dieser Gläubigerin betriebene Versteigerungsverfahren einzustellen und davon die anderen betreibenden Gläubiger mit der Aufforderung zu verständigen gewesen, nunmehr innerhalb einer neu zu bestimmenden Frist einen Entwurf der Versteigerungsbedingungen vorzulegen. Da dieser Vorgang nicht eingehalten worden sei, habe das Erstgericht das Verfahren hinsichtlich der beiden Rekurswerber fortzusetzen.
+Der Oberste Gerichtshof gab den Revisionsrekursen der verpflichteten Parteien nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der von den verpflichteten Parteien gegen den Beschluß des Rekursgerichtes erhobene Revisionsrekurs ist zulässig, weil durch den Aufhebungsbeschluß tatsächlich der Beschluß des Erstgerichtes abgeändert wurde, denn es wird die Einstellung des Versteigerungsverfahrens behoben, er ist aber nicht berechtigt.
+Gemäß § 139 Abs 3 EO hat zwar der beitretende Gläubiger dieselben Rechte, als wenn das Verfahren auf seinen Antrag eingeleitet worden wäre, das besagt aber nicht, daß nun alle betreibenden Gläubiger gemeinsam etwa zur ungeteilten Hand verpflichtet wären, jene Handlungen vorzunehmen, die zur Fortführung des Exekutionsverfahrens notwendig sind. Diese Verpflichtung trifft zunächst immer den im besten Rang befindlichen betreibenden Gläubiger (vgl dazu auch Neumann - Lichtblau[4], 1149). Denn wenn die Aufforderung, diese Handlungen vorzunehmen, wie das vom Erstgericht geschehen ist, an alle betreibenden Gläubiger gleichzeitig erginge, würde dies höchst unzweckmäßig sein und unnötige Kosten verursachen. Eine gemeinsame Absprache aller betreibenden Gläubiger und gemeinsame Vorlage der Versteigerungsbedingungen ist in der Praxis meist nicht möglich, besonders dann nicht, wenn die betreibenden Gläubiger verschiedene Wohnsitze haben. Ein ausdrücklicher Rechtssatz, daß die Aufforderung zur Vorlage der Versteigerungsbedingungen zuerst an den "führenden" betreibenden Gläubiger zu richten sei, besteht zwar nicht, aus Zweckmäßigkeitsgrunden wendet man sich aber an die betreibenden Gläubiger nach der Reihenfolge der Exekutionsführung (vgl Neumann - Lichtblau[4], 1106 und 1167). Jedenfalls ist die Aufforderung immer nur an einen der betreibenden Gläubiger zu richten und erst falls dieser der Aufforderung nicht nachkommt, sind die anderen betreibenden Gläubiger von der Einstellung des Versteigerungsverfahrens hinsichtlich dieses Gläubigers zu verständigen und aufzufordern, nunmehr ihrerseits Versteigerungsbedingungen vorzulegen, wobei es zweckmäßig ist, sie der Rangfolge nach hiezu aufzufordern (Neumann - Lichtblau[4] aaO). Da dieser Vorgang vom Erstgericht nicht eingehalten wurde, erging der Aufhebungsbeschluß des Rekursgerichtes mit dem Auftrag, das Verfahren fortzusetzen, zu Recht.

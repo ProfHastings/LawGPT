@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+18.10.2022
+Geschäftszahl
+4Ob164/22d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M. und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei L*, vertreten durch Dr. Stefan Gloyer, Rechtsanwalt in Innsbruck, gegen die beklagten Parteien 1. B* GmbH & Co KG, * und 2. B* GmbH, *, beide vertreten durch Dr. Othmar Knödl, Mag. Manfred Soder, Rechtsanwälte in Rattenberg, wegen 281.850,71 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 29. Juni 2022, GZ 1 R 84/22w-40, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 			Die Vorinstanzen haben die Klage auf Schadenersatz aus dem vom Kläger bei einem Sturz anlässlich einer Skiabfahrt erlittenen Anprall an eine Liftstütze abgewiesen.
+Rechtliche Beurteilung
+[2] 			In seiner außerordentlichen Revision zeigt der Kläger keine erhebliche Rechtsfrage auf.
+[3] 		1. Behauptete Mängel des erstinstanzlichen Verfahrens, die das Berufungsgericht geprüft und verneint hat, können im Revisionsverfahren nicht mehr erfolgreich geltend gemacht werden (RS0042963).
+[4] 		2. Die in der Revision behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+[5] 			3. Mit Abschluss des Beförderungsvertrags übernimmt der Liftunternehmer als Pistenhalter die Pflicht, im unmittelbaren Bereich des von ihm eröffneten Schiverkehrs die körperliche Integrität seiner Vertragspartner durch nach der Verkehrsauffassung erforderliche und zumutbare Maßnahmen zu schützen. Er ist verpflichtet, dort entsprechende Schutzmaßnahmen zu ergreifen, wo dem Schifahrer durch nicht oder schwer erkennbare Hindernisse Gefahren drohen. Nach ständiger Rechtsprechung hat er demnach atypische Gefahren zu sichern, also solche Hindernisse, die der Schifahrer nicht ohne weiteres erkennen kann, und solche, die er trotz Erkennbarkeit nur schwer vermeiden kann (6 Ob 64/22p mwN). Die Reichweite der den Pistenhalter treffenden Sicherungspflichten hängt von der konkreten örtlichen Situation ab, weshalb sie generellen Aussagen im Allgemeinen nicht zugänglich ist (RS0023237 [T3]; RS0109002).
+[6] 		4. Für die Art und den Umfang der Pistensicherungspflicht ist das Gesamtverhältnis zwischen der Größe und der Wahrscheinlichkeit der atypischen Gefahr sowie ihrer Abwendbarkeit einerseits durch das Gesamtverhalten eines verantwortungsbewussten Benützers der Piste und andererseits durch den Pistenhalter mit nach der Verkehrsauffassung adäquaten Mitteln maßgebend (RS0023469 [T8]). Die den Pistenhalter treffende Pflicht zur Sicherung der Piste bedeutet nicht die Verpflichtung, den Skifahrer vor jeder möglichen Gefahr zu schützen, die ihm von der Piste her droht, würde doch eine solche Forderung dem Pistenhalter unerträgliche Lasten aufbürden, die in keinem angemessenen Verhältnis zum Schutzeffekt stünden; eine vollkommene Verkehrssicherung ist weder auf Skipisten noch sonstwo zu erreichen (RS0023233).
+[7] 		5. Eine Verkehrssicherungspflicht entfällt, wenn sich jeder selbst schützen kann, weil die Gefahr leicht, also ohne genauere Betrachtung erkennbar ist. Umfang und Intensität von Verkehrssicherungspflichten richten sich dabei vor allem danach, in welchem Maß der Verkehrsteilnehmer selbst vorhandene Gefahren erkennen und ihnen begegnen kann (RS0114360). Jeder Skifahrer muss kontrolliert fahren, das vor ihm liegende Gelände genau beobachten und seine Geschwindigkeit auf die Geländeverhältnisse einrichten; jeder Skifahrer hat seine Fahrweise seinem Können anzupassen (RS0023429 [T4]). Verhältnisse und Zustände, die auf Pisten durchaus nicht ungewöhnlich sind, erfordern keine Sicherungsvorkehrung (3 Ob 213/14s). Ein Skifahrer muss auf einer Piste einen so großen Raum vor sich beobachten, dass er bei auftretenden Kollisionsgefahren in der Lage ist, dem Hindernis rechtzeitig auszuweichen oder vor diesem anzuhalten (RS0023544).
+[8] 			6. Die Liftstütze war bei den am Unfallstag herrschenden guten Sichtverhältnissen leicht erkennbar und als Hindernis nicht überraschend; die Piste war ausreichend breit und nicht sehr steil, sodass der Kläger der von der Liftstütze ausgehenden Gefahr leicht begegnen hätte können. Die Ansicht der Vorinstanzen, dass die Beklagten mit der von ihnen verwendeten Absicherung der Liftstütze durch zwei versetzt angebrachte Aufprallmatten jedenfalls in Anbetracht des Gefälles von bloß 17 º und der zureichenden Pistenbreite ihren Verkehrssicherungspflichten entsprochen haben, entspricht der dargestellten Rechtsprechung und stellt keine im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung im Einzelfall dar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00164.22D.1018.000

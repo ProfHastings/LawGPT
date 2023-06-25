@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+11.06.1947
+Geschäftszahl
+1Ob387/47
+Norm
+ABGB §1109;
+Mietengesetz §21;
+ZPO §560;
+ZPO §567;
+ZPO §569;
+ZPO §571;
+ZPO §575;
+Kopf
+SZ 21/39
+Spruch
+Für die Berechnung der Berufungsfrist sind nur die Behauptungen maßgebend, auf die der Kläger seinen Anspruch stützt.
+Das SpR. 196 ist auf Räumungsklagen anwendbar, in denen die einverständliche Auflösung eines Mietvertrages behauptet wird.
+Entscheidung vom 11. Juni 1947, 1 Ob 387/47.
+I. Instanz: Bezirksgericht Innsbruck; II. Instanz: Landesgericht Innsbruck.
+Text
+Das Berufungsgericht hat die Berufung der Beklagten als verspätet zurückgewiesen. Der Oberste Gerichtshof gab dem gegen diesen Beschluß erhobenen Rekurs keine Folge.
+Rechtliche Beurteilung
+Begründung:
+Das Erstgericht hat der Räumungsklage, welche behauptete, der Beklagte habe die außergerichtliche Aufkündigung für den 1. September 1946 angenommen und sich zur Räumung der gekundigten Wohnung zu diesem Termin verpflichtet, sein Versprechen jedoch nicht zugehalten, stattgegeben. Die am 13. Tage nach Zustellung des Urteils vom Beklagten ergriffene Berufung wurde vom Berufungsgericht unter Hinweis auf die Entscheidung des Obersten Gerichtshofes vom 9. Jänner 1907 SpR. 196 (Geller's Zentralblatt, Bd. 25, Nr. 149), als verspätet zurückgewiesen. Der Klage liegt die Behauptung zugrunde, daß das Bestandverhältnis zwischen den Parteien einvernehmlich per 1. September 1946 aufgelöst worden sei. Die Räumungsklage sei darum eine Klage aus einem, wenn auch bereits erloschenem, Mietvertrag gemäß § 1109 ABGB., so daß die Analogie des § 567, Abs. 1 ZPO. zutreffe.
+Gegen diesen Beschluß richtet sich der Revisionsrekurs, der geltend macht, daß die Klagsbehauptungen über die Vertragsauflösung bestritten waren und bei richtiger Beweiswürdigung nicht hätten als erwiesen angesehen werden dürfen.
+Allein für die Beurteilung der Rechtzeitigkeit einer Berufung sind nur die Behauptungen maßgebend, auf welche der Kläger seinen Anspruch grundet (E. v. 31. März 1932, ZBl. 1932 Nr. 283, SZ. XVIII/8.). Nach den Klagsbehauptungen handelt es sich aber um eine auf § 1109 ABGB. gestützte Klage aus einem Bestandvertrag, dessen einverständliche Auflösung durch einwendungslose Entgegennahme einer außergerichtlichen Kündigung unter gleichzeitiger Übernahme einer Verpflichtung zur Räumung per 1. September 1946 behauptet und unter Beweis gestellt wurde.
+In rechtlicher Beziehung bekämpft der Rekurs das Vorhandensein der Voraussetzungen, unter denen die Entscheidung SpR. 196 die kürzeren Rechtsmittelfristen des § 575, Abs. 1 ZPO. für anwendbar erklärt. Denn wenn es sich um eine Klage aus einem (erloschenen) Bestandvertrag handelte, hätte die Klage innerhalb der Fristen des § 569 ZPO. erhoben werden müssen.
+Diese Anschauung trifft nicht zu, da es sich nicht um einen Bestandvertrag handelt, der auf bestimmte Zeit errichtet war und durch den Zeitablauf auch ohne vorherige Aufkündigung erlischt, sondern um einen auf unbestimmte Zeit abgeschlossenen, der durch Aufkündigung zur Beendigung gebracht werden muß. Der Fall des § 569 ZPO. liegt also nicht vor. Die Aufkündigung hätte an sich, da es sich nach der Aktenlage um ein mietengeschütztes Bestandobjekt handeln dürfte, gerichtlich erfolgen müssen (§ 21, Abs. 1 MietG.). Doch hat auch eine außergerichtliche Aufkündigung dann rechtliche Bedeutung, wenn sie zur ausdrücklichen Annahme durch den Mieter und damit zu einer Vereinbarung über die Auflösung des Mietverhältnisses führt. Der Vertrag wurde also nicht durch Zeitablauf beendet, sondern durch Dissolution.
+Der Oberste Gerichtshof hält an der wiederholt (vgl. SZ. VI/115, XV/251) geäußerten Rechtsansicht fest, wonach die kürzeren Fristen des Bestandverfahrens einschließlich der des § 575, Abs. 1 ZPO. auch im Verfahren über Klagen gilt, in denen der Bestandgeber die Übergabe einer in Bestand genommenen Sache begehrt. Dafür spricht sowohl die Absicht des Gesetzgebers, Streitigkeiten aus Bestandverträgen zu beschleunigen, als auch die Erwägung, daß die §§ 571, 575 im dritten Abschnitt des sechsten Teiles der ZPO. stehen, welcher die Marginarubrik "Verfahren bei Streitigkeiten aus dem Bestandvertrag" trägt. Um eine solche, auf § 1109 ABGB. gestützte Klage handelt es sich aber im vorliegenden Falle, so daß es nicht notwendig ist, die Analogie des § 567 ZPO. heranzuziehen. Dadurch unterscheidet sich eine auf das Bestehen bzw. das Erlöschen eines bestandenen Mietvertrages gegrundete Räumungsklage von einer solchen, die lediglich Mangel eines Benützungsrechtes auf Seite des Beklagten behauptet. Diese stellt nur eine Klage aus dem Eigentumsrecht (Negatorienklage) dar und unterfällt darum nicht den besonderen Vorschriften des dritten Abschnittes des sechsten Hauptstückes der Zivilprozeßordnung, §§ 560 ff. In einer Klage wie der vorliegenden wird dagegen behauptet, daß der frühere Mieter weiter Rechte an dem Bestandobjekt ausübe, wiewohl der Mietvertrag bereits aufgehoben oder sonst beendet sei. Es besteht also die gleiche Regelung, wie sie § 567 ZPO. für den Fall des Auftrages zur Übergabe der Bestandsache trifft. Die Grundsätze des SpR. 196 treffen daher auch im vorliegenden Falle zu, und das Rekursgericht hat zutreffend die Abkürzung der Rechtsmittelfristen wie im Kündigungsverfahren auf die vorliegende Berufung angewendet.
+Dem unbegrundeten Rekurs war darum nicht Folge zu geben.

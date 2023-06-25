@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.1956
+Geschäftszahl
+7Ob561/55
+Norm
+ABGB §1166;
+JN §88 Abs2;
+Kopf
+SZ 29/6
+Spruch
+Bei Werklieferungsverträgen gibt es keinen Fakturengerichtsstand.
+Entscheidung vom 25. Jänner 1956, 7 Ob 561/55.
+I. Instanz: Kreisgericht Steyr; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Kläger, der mit der vorliegenden Klage vom Beklagten die Zahlung eines restlichen Betrages von 9979 S 60 g aus der Bestellung einer Ganzstahl-Sonderkarosserie begehrt, stützt die örtliche Zuständigkeit des angerufenen Gerichtes auf § 88 JN. und führt aus, daß die dem Beklagten vor und bei der Übergabe ausgehändigten Fakturen die Klausel "zahlbar und klagbar in Steyr" enthielten und vom Beklagten unbeanstandet übernommen wurden.
+Das Prozeßgericht wies die von der beklagten Partei erhobene Einrede der örtlichen Unzuständigkeit mit der Begründung zurück, daß der Gerichtsstand des § 88 Abs. 1 JN. gegeben sei, weil sich aus der vorgelegten Korrespondenz im Zusammenhalte mit den Angaben des Beklagten eindeutig ergebe, daß der Vertrag nach Übereinkunft der Parteien in Steyr zu erfüllen war.
+Das Rekursgericht hat den Beschluß infolge Rekurses des Beklagten dahin abgeändert, daß der Einrede der Unzuständigkeit Folge gegeben und die Klage zurückgewiesen wurde. Es war der Ansicht, daß der Gerichtsstand des § 88 Abs. 1 JN. nicht gegeben sei, weil der vereinbarte Erfüllungsort in den Urkunden nicht namentlich angeführt sei, und daß auch der Gerichtsstand des § 88 Abs. 2 JN. nicht anzunehmen sei, weil kein Kaufvertrag, sondern ein Werkvertrag vorliege.
+Der Oberste Gerichtshof gab dem Revisionsrekurse der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Kläger bekämpft nicht die Ablehnung des Gerichtsstandes des vereinbarten Erfüllungsortes nach § 88 Abs. 1 JN., auf den er sich in der Klage nicht berufen hat; seine Ausführungen sind nur dagegen gerichtet, daß der Fakturengerichtsstand des § 88 Abs. 2 JN. nicht angenommen wurde. Die Ablehnung des Gerichtsstandes erfolgte aber zu Recht. Der Ansicht des Rekursgerichtes, daß der zwischen den Parteien zustandegekommene Vertrag einen Werkvertrag, keinen Kaufvertrag darstelle, ist zuzustimmen, da der Wagenaufbau auf Grund der Bestellung des Beklagten für dessen Unternehmen nach seinen Wünschen und Bedürfnissen und somit nicht als Gattungssache hergestellt wurde. Zutreffend verweist das Rekursgericht in diesem Zusammenhange auf den Inhalt der vorgelegten Schreiben; es erhellt überdies aber auch aus dem Klagevorbringen selbst, in dem das Entgelt für besondere Aufträge des Beklagten begehrt wird. Das Rechtsgeschäft stellt sich darum, obwohl der Kläger das Material für das Werk geliefert hat, nach Lehre und Rechtsprechung als sogenannter Werklieferungsvertrag, demnach als eine Art des Werkvertrages, dar. Bei Werkverträgen ist aber der Fakturengerichtsstand nicht zulässig und wirksam, wie sich aus dem Gebrauch der Worte "Ware", "Faktura" und "Zahlung" im 2. Absatz des § 88 JN. eindeutig ergibt. Liegt aber kein Kaufvertrag, sondern ein Werkvertrag vor, können die Frage, ob der Beklagte den Personen, die ein Handelsgewerbe betreiben, zuzuzählen ist, und die weitere Frage, ob ihm eine ordnungsgemäße Faktura "übersendet" wurde, auf sich beruhen.

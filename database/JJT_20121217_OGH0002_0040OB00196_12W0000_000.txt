@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.12.2012
+Geschäftszahl
+4Ob196/12w
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Schenk als Vorsitzende und durch die Hofräte Dr. Vogel, Dr. Jensik, Dr. Musger und Dr. Schwarzenbacher als weitere Richter in der Rechtssache der klagenden Parteien 1. A*****, 2. A***** GmbH, *****, vertreten durch Gassauer-Fleissner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei G***** GmbH, *****, vertreten durch Mag. Dr. Lothar Wiltschek, Rechtsanwalt in Wien, wegen Unterlassung, Zurückziehung eines Antrags, Beseitigung, Rechnungslegung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 150.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 17. September 2012, GZ 30 R 31/12t-13, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Unstrittig ist, dass der von den Klägern erhobene Vorwurf eines Patenteingriffs voraussetzt, dass die beanstandeten Arzneimittel der Beklagten ein Geliermittel enthalten und damit Merkmal vier des Klagepatents („enthaltend ein Geliermittel“) erfüllen. Als Geliermittel definiert das Klagepatent alle Substanzen, die bei Kontakt mit Wasser ein Gel bilden. Unstrittig ist auch, dass nach dem Stand der Technik oszillatorische rheologische Messungen, die den Gelpunkt bestimmen, die Frage beantworten, ob ein Gel vorliegt (Revisionsrekurs S 13); ein solches Gutachten hat die Klägerin nicht vorgelegt.
+Das Rekursgericht hat die Entscheidung bestätigt, mit der das Erstgericht den Sicherungsantrag abgewiesen hat; die Tatsacheninstanzen haben es nämlich als nicht bescheinigt angesehen, dass Viscarin GP 209 (welcher Lebensmittelzusatzstoff in den von der Beklagten angebotenen Tabletten enthalten ist) ein Gelbildner ist.
+Rechtliche Beurteilung
+Mit ihren weitwendigen Ausführungen bekämpft die Rechtsmittelwerberin in dritter Instanz letztlich die Beweiswürdigung der Vorinstanzen zum aufgezeigten Beweisthema, was ihr verwehrt ist.
+Der im Zusammenhang mit der Erledigung der Beweisrüge behauptete Verfahrensmangel läge nur vor, wenn sich das Berufungsgericht damit überhaupt nicht (RIS-Justiz RS0043371) oder nur so mangelhaft befasst hätte, dass keine nachvollziehbaren Überlegungen über die Beweiswürdigung angestellt und im Urteil festgehalten sind (RIS-Justiz RS0043371 [T13], RS0043150). Davon kann hier keine Rede sein. Eine Verpflichtung zur Auseinandersetzung mit jedem einzelnen Argument der Rechtsmittelwerber besteht nicht (RIS-Justiz RS0043162, vgl auch RS0040165, RS0043371 [T18]).
+Auch die Frage, welche „Bescheinigungskraft“ die Tatsacheninstanzen einem von der Beklagten vorgelegten Privatgutachten beigemessen haben, betrifft die in dritter Instanz nicht angreifbare Beweiswürdigung.
+Eine formale Bindung an Entscheidungen ausländischer Gerichte besteht nicht (17 Ob 13/09z). Einer ipso-iure-Anerkennung der von den Klägerinnen genannten gerichtlichen Entscheidungen aus anderen Mitgliedstaaten der Europäischen Union (Art 33 EuGVVO) steht hier schon aus verfahrensrechtlicher Sicht entgegen, dass die Beklagte nicht Partei der den Entscheidungen vorangegangenen Verfahren war.
+Es ist zwar nicht ausgeschlossen, die Gründe dieser Entscheidungen als Bescheinigungsmittel in einem Sicherungsverfahren heranzuziehen; die Entscheidungen können daher der Bescheinigung eines entsprechenden Vorbringens im Verletzungsstreit dienen. Dazu ist ein solches Vorbringen erforderlich; der bloße Hinweis auf die Existenz der Entscheidungen reicht nicht aus. In weiterer Folge ist es eine dem Obersten Gerichtshof grundsätzlich entzogene Frage der Beweiswürdigung, ob die Gründe der Entscheidungen - auch angesichts der sonstigen Bescheinigungsmittel zum strittigen Thema - tatsächlich geeignet sind, strittige Tatsachen zu bescheinigen (vgl 17 Ob 24/09t).

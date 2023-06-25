@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.1980
+Geschäftszahl
+5Ob19/80
+Norm
+ABGB §451;
+GBG §103;
+Kopf
+SZ 53/115
+Spruch
+Der Liegenschaftseigentümer, der sich vertraglich nicht anders verpflichtet hat, kann in seinem Grundbuchsgesuch wegen Einverleibung der Pfandrechte mehrerer Gläubiger die Rangordnung selbst bestimmen
+OGH 16. September 1980, 5 Ob 19/80 (LGZ Wien 46 R 1404/80; BG Döbling TZ 2827/79)
+Text
+Die Antragstellerin begehrte auf Grund der entsprechenden Urkunden (Kaufvertrag, Schuldscheine usw.) in Ansehung der Dipl.-Ing. H W gehörigen und untrennbare mit Wohnungseigentum an der Wohnung Nr. 6 auf Stiege II verbundenen Miteigentumsanteile an der Liegenschaft EZ 21 des Grundbuches über die Katastralgemeinde G u. a. die Einverleibung:
+A. ihres Eigentumsrechtes und B folgender Pfandrechte: a) (im
+laufenden Range) Für die Darlehensforderung von ..... zugunsten der
+X-Bank und b) "im Range darnach" für die Darlehensforderung von
+..... für die Y- Bank.
+Das Erstgericht bewilligte dieses Eintragungsbegehren unter Streichung der Worte "im Range darnach" hinsichtlich des zu lit. B b bezeichneten Pfandrechtes, ohne diese Streichung in irgendeiner Weise zu begrunden.
+Das Gericht zweiter Instanz änderte den wegen dieser Streichung von der Antragstellerin angefochtenen Beschluß des Erstgerichtes dahin ab, daß es die zu lit. B b bewilligte Pfandrechtseinverleibung "im laufenden Rang" ersatzlos aufhob und das dieser Eintragung zugrunde liegende Begehren der Antragstellerin abwies. Das österreichische Grundbuchsrecht kenne eine Pfandrechtseinverleibung im Range der angemerkten Rangordnung und eine solche in der laufenden Rangordnung, es sei ihm aber eine Einverleibung "im Range darnach" völlig fremd. Ein derartiges Begehren sei im Gesetz nicht begrundet und auch inhaltlich völlig unbestimmt, denn es werde darin nicht gesagt, ob die für die Y-Bank begehrte Rangordnung eine Minute oder eine Woche, einen Monat oder ein Jahr oder welche Zeit auch immer nach der Rangordnung der Pfandrechtseinverleibung für die Forderung der X-Bank liegen soll. Dies habe der Rechtspfleger des Erstgerichtes offenbar auch erkannt. Da aber die begehrte Pfandrechtseinverleibung ("im Range darnach") gegenüber der von ihm bewilligten (im laufenden Range) ein Minus sei, habe er unzulässigerweise mehr als begehrt bewilligt. Deshalb sei die von ihm bewilligte Eintragung ersatzlos aufzuheben und das ihr zugrunde liegende Eintragungsbegehren abzuweisen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Antragstellerin Folge und änderte den Beschluß des Rekursgerichtes dahin ab, daß der Beschluß des Erstgerichtes in seinem Punkt B b zu lauten hat:
+"Im Range nach der zu lit. B a bewilligten Pfandrechtseinverleibung:
+Die Einverleibung des Pfandrechtes für die Darlehensforderung von 875 000 S für die Bank."
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Liegenschaftseigentümer, der sich ohne Festlegung einer
+bestimmten Rangordnung mehreren Gläubigern gegenüber vertraglich zur
+Grundverpfändung verpflichtet hat, ist in der Bestimmung darüber, in
+welcher Rangordnung die einzelnen Pfandrechte nach seinem Ansuchen
+einverleibt werden sollen, frei. Um die gewünschte Rangordnung in
+der Verbücherung der einzelnen Pfandrechte zu erreichen, kann er
+deshalb auch in einem Grundbuchsgesuch, das auf die Einverleibung
+aller Pfandrechte gerichtet ist, selbst die Rangordnung der
+einzelnen Pfandrechtseinverleibungen bestimmen. Es hieße das Wesen
+der nur die Konkurrenz mehrerer Anspruchswerber regelnden Anordnung des § 29 GBG (§ 103 GBG) verkennen, zwänge man ihn, die Bestimmung der Rangordnung nur im Wege der zeitlich aufeinanderfolgenden Einbringung der einzelnen Eintragungsgesuche erreichen zu können.
+Mit Recht hat deshalb die Antragstellerin in Ansehung des Pfandrechtes zugunsten der Y-Bank die Einverleibung im Range nach dem Pfandrecht zugunsten der X-Bank begehrt.

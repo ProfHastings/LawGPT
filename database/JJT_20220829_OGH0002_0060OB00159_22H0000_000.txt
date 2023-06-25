@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2022
+Geschäftszahl
+6Ob159/22h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden und gefährdeten Partei H*, vertreten durch JEANNEE Rechtsanwalt GmbH in Wien, gegen die beklagte und Gegnerin der gefährdeten Partei O*, vertreten durch Singer & Kessler Rechtsanwälte OG in Wien, wegen Feststellung der Nichtigkeit eines Gesellschafterbeschlusses (hier wegen einstweiliger Verfügung), über den außerordentlichen Revisionsrekurs der beklagten und Gegnerin der gefährdeten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 30. Juni 2021, GZ 1 R 82/21t-5, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger ist als (Minderheits-)Gesellschafter zu 47,5 % an der beklagten Gesellschaft beteiligt. Die Beklagte wurde gegenüber dem Kläger urteilsmäßig dazu verpflichtet, einen über ihr Gastgewerbeunternehmen abgeschlossenen Kaufvertrag rückabzuwickeln und den vor Abschluss des Kaufvertrags bestehenden Zustand wiederherzustellen (siehe 6 Ob 96/21t). Sie klagt (daher) ihrerseits die Käuferin (und deren Rechtsnachfolgerin) vor dem Handelsgericht Wien zu AZ 31 Cg 23/20x auf Rückstellung des Unternehmens.
+[2] 		In einer Generalversammlung der Beklagten im April 2021 wurde mit einfacher Mehrheit (und gegen die Stimme des Klägers) beschlossen, den eingeklagten Anspruch zu verkaufen. Der Kläger ficht diesen Beschluss im vorliegenden Verfahren an.
+[3] 		Das Rekursgericht erließ – ohne Anhörung der Gegenseite – zur Sicherung dieses Anspruchs die von der Beklagten bekämpfte einstweilige Verfügung, mit der ihr verboten wird, diesen Beschluss bis zur Rechtskraft des über die Klage ergehenden Urteils umzusetzen.
+[4] 		Der von der Beklagten gegen die einstweilige Verfügung erhobene Widerspruch blieb erfolglos.
+[5] 		In ihrem dem Widerspruch nachgereihten außerordentlichen Revisionsrekurs meint die Beklagte, deshalb, weil der Ausgang dieses von ihr gegen die Käuferin (und deren Rechtsnachfolgerin) geführten Verfahrens noch ungewiss sei – hätten doch die dort Beklagten zahlreiche Einwendungen erhoben und müsse der Anspruch im Erfolgsfall erst noch durchgesetzt werden –, komme dem beschlossenen Verkauf des Rückübertragungsanspruchs der Charakter eines Glücksgeschäfts zu. Deswegen könne der Beschluss nicht den Regeln des § 237 AktG per analogiam unterworfen sein.
+Rechtliche Beurteilung
+[6] 		Gegensätzliche Standpunkte sind aber Voraussetzung von Rechtsstreitigkeiten, die Notwendigkeit der (exekutiven) Durchsetzung einer im Gerichtsweg erwirkten Entscheidung deren häufige Folge. Die Entscheidung des Gerichts hängt nicht von einem aleatorischen Zufallselement, wie es Glücksverträgen innewohnt, ab. Sie ergibt sich vielmehr aus dem Gesetz (mag dabei dem Entscheidungsorgan auch in einigen Fällen ein gewisser Entscheidungsspielraum eingeräumt sein) als die an den festgestellten Sachverhalt geknüpfte Rechtsfolge. Weder ist also der Verkauf des Rückübertragungsanspruchs ein Glücksgeschäft, noch kann die Beklagte im Übrigen darlegen, was die Annahme eines Glücksgeschäfts an den Stimmerfordernissen für das gültige Zustandekommen eines Beschlusses über die Veräußerung des gesamten Gesellschaftsvermögens ändern könnte.
+[7] 		Dass es sich bei dem dem angefochtenen Beschluss unterliegenden Vermögenswert um das gesamte Gesellschaftsvermögen handelt, zieht die Beklagte (zu Recht) nicht in Zweifel. Sie setzt sich auch weder mit der vom Rekursgericht herangezogenen Judikatur zur analogen Anwendung von § 237 AktG bei der GmbH (s 6 Ob 38/18h) auseinander noch mit der Bestimmung des § 90 Abs 4 GmbHG.
+[8] 		Da der Revisionsrekurs damit insgesamt keine erhebliche Rechtsfrage anspricht, ist er als nicht zulässig zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00159.22H.0829.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2017
+Geschäftszahl
+5Ob126/17s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Pflegschaftssache der mj Kinder 1. M***** P*****, 2. K***** P*****, 3. M***** P*****, wegen Obsorge, über den außerordentlichen Revisionsrekurs der Mutter S***** P*****, vertreten durch die Niedermayr Rechtsanwalt GmbH in Steyr, gegen den Beschluss des Landesgerichts Steyr als Rekursgericht vom 18. Mai 2017, GZ 1 R 94/17t-103, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+Die Entscheidung des Rekursgerichts wurde dem Vertreter der Mutter im elektronischen Rechtsverkehr (ERV) am 31. 5. 2017 zugestellt. Dieser brachte am 13. 6. 2017 ebenfalls im ERV den vorliegenden außerordentlichen Revisionsrekurs ein, allerdings nicht an das Erstgericht adressiert (§ 65 Abs 2 AußStrG), sondern an das Rekursgericht als Folgeeingabe zu dessen Aktenzeichen. Das Rekursgericht verfügte am 19. 6. 2017 die Übermittlung des Rechtsmittels an das Erstgericht, in dessen (mit jener des Rekursgerichts vereinigten) Einlaufstelle es noch am 19. 6. 2017 einlangte.
+Rechtliche Beurteilung
+Der Revisionsrekurs ist verspätet.
+1. Wird das Rechtsmittel beim unzuständigen Gericht eingebracht und erst von diesem dem zuständigen Gericht übersendet, ist die Zeit dieser Übersendung in die Rechtsmittelfrist einzurechnen (RIS-Justiz RS0041584). Die unrichtige Bezeichnung des Adressatgerichts schließt also die Anwendung des § 89 GOG aus, die dadurch ausgelöste Verzögerung des Postenlaufs geht zu Lasten des Rechtsmittelwerbers (RIS-Justiz RS0041608; RS0060177). Das Rechtsmittel ist nur dann als rechtzeitig anzusehen, wenn sie noch innerhalb der Rechtsmittelfrist beim zuständigen Gericht einlangt (RIS-Justiz RS0041608 [T7, T8, T12]; RS0060177 [T2]).
+2. Das gilt auch dann, wenn das Rechtsmittel im ERV eingebracht wurde. Ein im Wege des ERV übermitteltes Schriftstück kann nur dann
+– unter Nichteinrechnung des Postenlaufs – als rechtzeitig eingebracht angesehen werden, wenn es durch Angabe des jeweils zutreffenden „Dienststellenkürzels“ an das richtige Gericht adressiert war. Langte der Schriftsatz wegen unrichtiger Bezeichnung des Adressatgerichts beim falschen Gericht ein, das ihn (mit Zeitverzögerung) an das zuständige Gericht übermitteln musste, so ist die Eingabe nur dann als rechtzeitig anzusehen, wenn sie noch innerhalb der Rechtsmittelfrist beim zuständigen Gericht einlangt (RIS-Justiz RS0124533). Für die Beurteilung der Fristwahrung von im ERV eingebrachten Rechtsmitteln kommt dem Vorhandensein vereinigter Einlaufstellen iSd § 37 Abs 2 Geo keine Relevanz zu (RIS-Justiz RS0124533 [T4], RS0041726 [T13]).
+3. Die Frist für den Revisionsrekurs beträgt 14 Tage. Sie beginnt mit der Zustellung der Entscheidung des Rekursgerichts (§ 65 Abs 1 AußStrG). Hier wurde der Beschluss des Rekursgerichts dem Vertreter der Mutter am 31. 5. 2017 zugestellt. Den am 13. 6. 2017 eingebrachten Revisionsrekurs adressierte dieser unrichtig (§ 65 Abs 2 AußStrG) an das Rekursgericht, das diesen an das zuständige Erstgericht übermittelte. Dort ist der Revisionsrekurs erst am 19. 6. 2011, also nach Ablauf der 14-tägigen Revisionsrekursfrist eingelangt.
+4. Der Revisionsrekurs ist daher als verspätet zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0050OB00126.17S.0829.000

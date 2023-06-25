@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.07.2019
+Geschäftszahl
+5Ob97/19d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei S***** AG, *****, vertreten durch Kreissl & Pichler & Walther Rechtsanwälte GmbH in Liezen, gegen die beklagte Partei U*****, vertreten durch Mag. Alexander Fuchs, Rechtsanwalt in Linz, wegen 32.750 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 26. April 2019, GZ 2 R 63/19f-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Klägerin nimmt die Beklagte aus einer von ihr übernommenen Bürgschaft für einen Kredit zur Finanzierung der Übernahme eines Geschäftsbetriebs in Anspruch.
+Das Erstgericht gab der Klage statt.
+Das Berufungsgericht bestätigte dieses Urteil und ließ die ordentliche Revision nicht zu.
+Rechtliche Beurteilung
+Die außerordentliche Revision der Beklagten zeigt keine erhebliche Rechtsfrage auf.
+1. Gemäß § 25c KSchG hat der Gläubiger den Verbraucher, der einer Verbindlichkeit als Interzedent beitritt, auf die wirtschaftliche Lage des Schuldners hinzuweisen, wenn er erkennt oder erkennen muss, dass der (Haupt-)Schuldner seine Verbindlichkeit voraussichtlich nicht oder nicht vollständig erfüllen wird. Der Gläubiger hat je nach Art und Ausmaß der Verbindlichkeit eine sorgfältige Bonitätsprüfung unter Verwendung der ihm zugänglichen Instrumente vorzunehmen, sich also in jenem Umfang Kenntnis von der wirtschaftlichen Lage des Hauptschuldners zu verschaffen, wie dies ein sorgfältiger Kreditgeber üblicherweise tut (RIS-Justiz RS0115984). Ob der Gläubiger erkennen muss, dass der Hauptschuldner seine Verbindlichkeiten voraussichtlich nicht oder nicht vollständig erfüllen werde, lässt sich nur einzelfallbezogen beantworten und begründet daher meist keine erhebliche Rechtsfrage (RS0116208).
+2. Die Behauptungs- und Beweislast dafür, dass der Gläubiger die wirtschaftliche Notlage des Hauptschuldners kannte oder kennen musste, trifft den Interzedenten (RS0120350). Wird der Kreditgeber selbst aktiv, um die Einbeziehung der Interzedentin in das Schuldverhältnis zu erreichen, weist dies zwar prima facie darauf hin, dass er die Einbringung der Forderung beim Hauptschuldner als nicht gesichert ansah (RS0113882). Steht aber fest, dass die Klägerin nicht erkannt hat, dass der Hauptschuldner seine Verbindlichkeiten voraussichtlich nicht oder nicht vollständig erfüllen werde, ist ein solcher Anschein bereits widerlegt; einen Anschein des Kennenmüssens gibt es nicht (RS0113882 [T6]; jüngst 3 Ob 214/18v).
+3. Hier stellte das Erstgericht fest, dass der Klägerin die Gefahr einer Uneinbringlichkeit des der Hauptschuldnerin für die Geschäftsübernahme gewährten Kredits nicht bekannt gewesen sei; dass damit ein allfälliger erster Anschein der mangelnden Einbringlichkeit der Forderung beim Hauptschuldner widerlegt ist, entspricht der ständigen Rechtsprechung. Die Auffassung der Vorinstanzen, allein aufgrund der negativen Haushaltsrechnung der Hauptschuldnerin, die aufgrund des von der Führung des Unternehmens unabhängigen Einkommens nicht in der Lage gewesen wäre, die eingegangene Verbindlichkeit abzudecken, sei nicht von einem negativen Ergebnis der Bonitätsprüfung auszugehen, weil das Betriebsergebnis laut der positiven Planrechnung voraussichtlich ausreichen hätte müssen, die Kreditrückzahlung zu ermöglichen, kann sich auf – bereits vom Erstgericht zitierte – höchstgerichtliche Rechtsprechung (5 Ob 161/15k; 6 Ob 19/14h) stützen und wird in der Revision nicht bezweifelt. Damit kommt es auf die als erheblich angesehene Rechtsfrage, ob die Klägerin verpflichtet gewesen wäre, der Beklagten ein negatives Ergebnis der Haushaltsrechnung mitzuteilen, aber nicht an. Wenn die klagende Bank weder erkannte noch erkennen musste, dass die Hauptschuldnerin ihre Verbindlichkeiten voraussichtlich nicht erfüllen werde können, kommt eine Aufklärungspflicht nach § 25c KSchG nicht in Betracht.
+4. Das Mäßigungsrecht nach § 25d KSchG ist nicht mehr Gegenstand des Revisionsverfahrens.
+5. Damit war die außerordentliche Revision zurückzuweisen, ohne dass dieser Beschluss einer weiteren Begründung bedürfte (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00097.19D.0731.000

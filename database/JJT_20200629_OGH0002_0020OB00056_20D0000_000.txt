@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.2020
+Geschäftszahl
+2Ob56/20d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Veith als Vorsitzenden und den Hofrat Dr. Musger, die Hofrätin Dr. Solé sowie die Hofräte Dr. Nowotny und Mag. Pertmayr als weitere Richter in der Rechtssache der klagenden Partei S***** S*****, vertreten durch Dr. Peter Lessky, Rechtsanwalt in Wien, gegen die beklagte Partei ÖBB-Personenverkehr Aktiengesellschaft, Wien 10, Am Hauptbahnhof 2, vertreten durch die Finanzprokuratur, und der Nebenintervenientin auf Seiten der beklagten Partei ÖBB-Infrastruktur Aktiengesellschaft, Wien 2, Praterstern 3, vertreten durch Dr. Uwe Niernberger und Dr. Angelika Kleewein, Rechtsanwälte in Graz, wegen 5.176,36 EUR sA und Feststellung (Streitwert: 2.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 13. September 2019, GZ 50 R 35/19g-27, womit infolge Berufung der klagenden Partei das Urteil des Bezirksgerichts für Handelssachen Wien vom 14. Dezember 2018, GZ 2 C 281/17p-22, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 522,10 EUR und der Nebenintervenientin die mit 626,52 EUR (darin 104,42 EUR USt) bestimmten Kosten der Revisionsbeantwortung jeweils binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die über ein gültiges Ticket verfügende Klägerin rutschte am 26. 9. 2016 auf dem Bahnhof Leoben beim Einsteigen mit ihrem Koffer in einen von der beklagten Partei betriebenen Zug mit ihrem Fuß vom Trittbrett des Waggons ab, stürzte in den 26 cm breiten Spalt zwischen Trittbrett und Bahnsteigkante und verletzte sich.
+Die Klägerin begehrte die Zahlung von 5.176,36 EUR sA an Schadenersatz sowie die Feststellung der Haftung der beklagten Partei für alle künftigen Schäden aus dem Unfall. Sie berief sich auf eine Vertragshaftung und eine Haftung nach dem EKHG und brachte vor, Ursache für den Sturz sei der zu breite Spalt zwischen Trittbrett und Bahnsteigkante gewesen.
+Die beklagte Partei wendete ein, der Spalt sei nicht zu breit gewesen. Sie habe jegliche Sorgfalt gewahrt. Das alleinige Verschulden am Unfall treffe die Klägerin.  Auch eine Haftung nach dem EKHG besteht nicht.
+Das Erstgericht wies das Klagebegehren ab. Die beklagte Partei habe keine Verkehrssicherungspflichten verletzt. Sie hafte wegen des Vorliegens eines unabwendbaren Ereignisses auch nicht nach dem EKHG.
+Das Berufungsgericht teilte die Ansicht des Erstgerichts und bestätigte dieses Urteil. Es sprach zunächst aus, dass die ordentliche Revision nicht zulässig sei. Über Antrag der Klägerin ließ das Berufungsgericht die ordentliche Revision nachträglich mit der Begründung zu, es könne nicht ausgeschlossen werden, dass der Oberste Gerichtshof eine Gefährdungshaftung nach dem EKHG bejahe.
+Die dagegen gerichtete Revision der Klägerin ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Weder in der Zulassungsbegründung noch in der Revision wird eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO aufgezeigt:
+Rechtliche Beurteilung
+1. Wird ein Schaden auf die Verletzung eines Schutzgesetzes gestützt, hat der Geschädigte den Schadenseintritt und die Verletzung des Schutzgesetzes als solches zu beweisen (RS0112234 [T12]).
+Die Revisionswerberin behauptet weiterhin eine Überschreitung des in der ÖNORM EN 15273-1 vorgesehenen Mindestabstands der Bahnsteigkante von der Gleismitte um 5 cm (1,7 statt 1,65 m). Gegen die Ansicht des Berufungsgerichts, daraus könne keine Normwidrigkeit abgeleitet werden, führt die Revisionswerberin keine Argumente ins Treffen. Ob es sich überhaupt um ein Schutzgesetz handelt (vgl Karner in KBB6 § 1311 Rz 4), muss nicht erörtert werden.
+Auf eine den gesetzlichen Vorgaben des § 20 Abs 1 EisbBBV für Neubauten von Bahnsteigen widersprechende Höhe der Bahnsteigkante hat sich die Klägerin im erstinstanzlichen Verfahren nicht gestützt. Auch das Vorliegen der Voraussetzungen für die Anwendbarkeit dieser Bestimmung im vorliegenden Fall hat sie nicht behauptet (vgl RS0027425). Auf dieser Grundlage ist die Beurteilung des Berufungsgerichts, die erstmals in der Berufung aufgestellte Behauptung einer Verletzung der erwähnten Vorschrift verstoße gegen das Neuerungsverbot, nicht korrekturbedürftig.
+2. Umfang und Intensität von Verkehrssicherungspflichten richten sich danach, in welchem Maß die Verkehrsteilnehmer selbst vorhandene Gefahren erkennen und ihnen begegnen können (RS0023726). Der konkrete Inhalt einer Verkehrssicherungspflicht hängt immer von den Umständen des Einzelfalls ab (RS0110202; RS0111380).
+Für die Sorgfaltspflicht des Betriebsunternehmers, die die Haftung nach § 9 EKHG ausschließt, gilt zwar ein strenger Maßstab (RS0058278; RS0058206). Dennoch betont die ständige Rechtsprechung, dass auch diese Sorgfaltspflicht nicht überspannt werden darf, soll eine vom Gesetzgeber nicht gewollte Erfolgshaftung vermieden werden (2 Ob 214/19p; RS0058278 [T5]; RS0058425 [T3]). Auch der Umfang der gemäß § 9 Abs 2 EKHG gebotenen Sorgfalt hängt von den besonderen Umständen des Einzelfalls ab (RS0111708).
+Der Oberste Gerichtshof hat zu 2 Ob 265/06v bereits ausgesprochen, dass selbst in städtischen U-Bahnstationen die Tatsache einer Spaltbreite von 24 cm zwischen Bahnsteig und Waggon für sich alleine nicht ausreicht, um eine Verschuldenshaftung oder die (strengere) Gefährdungshaftung nach EKHG zu begründen.
+Die Ansicht der Vorinstanzen, die im vorliegenden Fall bestehende Spaltbreite von 26 cm bedeute keine Verletzung der der beklagten Partei obliegenden Verkehrssicherungspflicht, hält sich ebenso im Rahmen der Rechtsprechung wie jene, die beklagte Partei habe auch die gemäß § 9 Abs 2 EKHG gebotene Sorgfalt eingehalten.
+3. Da es somit der Lösung von Rechtsfragen iSd § 502 Abs 1 ZPO nicht bedarf, ist die Revision zurückzuweisen.
+4. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die beklagte Partei und die Nebenintervenientin haben in ihren Revisionsbeantwortungen auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0020OB00056.20D.0629.000

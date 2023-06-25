@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.09.2022
+Geschäftszahl
+6Ob130/22v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in den verbundenen Rechtssachen der klagenden und widerbeklagten Partei K*, vertreten durch Längle Fussenegger Singer Rechtsanwälte Partnerschaft in Dornbirn, gegen die beklagte und widerklagende Partei G*, vertreten durch Dr. Wilhelm Schlein Rechtsanwalts GmbH in Wien, wegen 5.162.636,09 EUR sA, Verbesserung, Feststellung und Rechnungslegung (Hauptklageverfahren AZ 14 C 10/19g) und Duldung (Widerklageverfahren AZ 14 C 49/19t), über die außerordentliche Revision der beklagten und widerklagenden Partei gegen das Urteil des Landesgerichts Linz als Berufungsgericht vom 21. Februar 2022, GZ 14 R 180/21w-213, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Nach ständiger Rechtsprechung können vom Berufungsgericht verneinte Verfahrensmängel des Verfahrens erster Instanz vor dem Obersten Gerichtshof nicht mehr releviert werden (RS0042963). Dies betrifft hier die gerügte Unterlassung der Gutachtenserörterung nach § 357 Abs 2 ZPO. Eine durch die Aktenlage nicht gedeckte Begründung des Berufungsgerichts (RS0042981 [T19]) dafür liegt insofern nicht vor, als dieses – von der Revisionswerberin unbekämpft – eine überraschende Rechtsansicht des Erstgerichts verneint und auf ein von der Revisionswerberin erstattetes, vom Erstgericht zu Recht als verspätet zurückgewiesenes Vorbringen verwiesen hat.
+[2] 		2. Fragen der Auslegung des § 1096 ABGB stellen sich nicht, weil die Parteien „in einvernehmlicher Abänderung der dem § 1096 ABGB entsprechenden Pflichten“ diese Bestimmung abbedungen und durch detaillierte Vereinbarungen betreffend die Pflicht zur Wartung und Reparatur bestimmter Teile des Bestandobjekts einerseits und deren Erneuerung andererseits ersetzt haben.
+[3] 		3. Fragen der Vertragsauslegung kommt in der Regel keine über den Einzelfall hinausgehende Bedeutung zu, sofern keine Fehlbeurteilung, also eine Verkennung der Auslegungsgrundsätze vorliegt, die im Interesse der Rechtssicherheit wahrgenommen werden muss (vgl RS0112106 [T1]).
+[4] 		Die Vorinstanzen haben die ergänzende Vertragsauslegung dahingehend vorgenommen, dass eine unmögliche oder eine technisch nicht zielführende Reparatur, weil der entsprechende Gebäudebestandteil seine wirtschaftliche Lebensdauer erreicht hat, im Sinn eines logischen konsequenten Weiterdenkens der 55%-Klausel (Erneuerungspflicht, wenn die Reparaturkosten zum selben Zeitpunkt mehr als 55 % der Erneuerungskosten betragen würden) zur Erneuerungsverpflichtung führt.
+[5] 		Diese Auslegung ist nicht korrekturbedürftig.
+[6] 		4. Soweit die Revisionswerberin (als Vermieterin) behauptet, die eingeschränkte Brauchbarkeit oder Unbenutzbarkeit sei (vertragswidrig) von der Revisionsgegnerin (als Mieterin) herbeigeführt worden, negiert sie die gegenteiligen Feststellungen des berufungsgerichtlichen Urteils (S 37).
+[7] 		5. Die Revision vertritt die Ansicht, beim gegenständlichen Umbau des Objekts bestehe nach § 1 Abs 2 Z 1 lit a des oö Aufzugsgesetzes im Zusammenhang mit dem Betriebsanlagenrecht keine Verpflichtung zum Einbau behindertengerechter Lifte. Sie setzt sich allerdings nicht mit der Begründung des Berufungsgerichts auseinander, wonach gemäß § 31 Abs 1 Z 3 und 13, Abs 4 Z 2 und Abs 5 Z 2 des oö Bautechnikgesetzes 2013 diese Verpflichtung sehr wohl besteht.
+[8] 		6. Da die Vorinstanzen (im Hauptklageverfahren) die Vermieterin zur Erneuerung von (teilweise) im Inneren des Bestandobjekts gelegenen Teilen verpflichtet haben, liegt keine aufzugreifende Fehlbeurteilung darin, dass sie das Widerklagebegehren, die Mieterin zur Duldung des Zutritts zum Bestandobjekt zur Durchführung von (eben nicht geschuldeten, bloßen) Reparaturarbeiten an im Inneren des Objekts gelegenen Gegenständen zu verpflichten, abgewiesen haben (§ 1096 ABGB; vgl auch RS0021509).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0060OB00130.22V.0914.000

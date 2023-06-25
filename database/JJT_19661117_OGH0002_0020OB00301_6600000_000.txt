@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.11.1966
+Geschäftszahl
+2Ob301/66
+Norm
+ABGB §1095;
+ABGB §1102;
+ABGB §1120;
+Kopf
+SZ 39/197
+Spruch
+Eine Mietzinsvorauszahlung an den früheren Eigentümer muß der Erwerber der Liegenschaft nur gegen sich gelten lassen, wenn er sie kannte; fahrlässige Unkenntnis genügt nicht
+Entscheidung vom 17. November 1966, 2 Ob 301/66
+I. Instanz: Bezirksgericht Linz; II. Instanz: Landesgericht Linz
+Text
+Die Beklagten sind zufolge Mietvertrages vom 7. September 1961 Mieter einer im ersten Stock des den Klägern gehörenden Hauses gelegenen Wohnung. Die Kläger haben dieses Haus mit Kaufvertrag vom 6. August 1963 von den Voreigentümern erworben. Auf Grund des Mietvertrages haben die Beklagten den Voreigentümern eine Mietzinsvorauszahlung für die Zeit vom 1. September 1961 bis 31. August 1971 in der Höhe von 48.000 S (400 S mal 120) geleistet. Der Bestandvertrag ist nicht verbüchert, die Mietzinsvorauszahlung nicht angemerkt. Auf das Mietverhältnis finden die Bestimmungen des Mietengesetzes Anwendung.
+Die Kläger begehren die Verurteilung der Beklagten zur Zahlung des Mietzinses für die Zeit vom 1. März 1964 bis Juni 1966 im Betrag von
+11.200 S.
+Die Beklagten beantragten Klagsabweisung und wendeten ein, daß den Klägern die Tatsache der Mietzinsvorauszahlung von den Voreigentümern bekanntgegeben worden sei und daß die beiderseitigen Rechte und Pflichten aus dem Mietvertrag vereinbarungsgemäß auf die Kläger übergehen sollten. Im Laufe des Verfahrens erster Instanz stellten die Beklagten den Zwischenantrag auf Feststellung, daß die Kläger als Erwerber der Liegenschaft in den von den Voreigentümern mit den Beklagten abgeschlossenen Mietvertrag hinsichtlich aller seiner Bestimmungen, soweit diese nicht die Dauer des Mietverhältnisses betreffen, eingetreten seien.
+Das Erstgericht wies die Klage und den Zwischenfeststellungsantrag ab. Es verwies auf die höchstgerichtliche Rechtsprechung, wonach der Erwerber eines Bestandgegenstandes im Sinn des § 1120 ABGB. in den Bestandvertrag eintrete, wobei alle Bedingungen, ausgenommen die die Dauer des Bestandvertrages betreffenden, selbst dann aufrecht blieben, wenn der Erwerber den Inhalt des Bestandvertrages nicht gekannt habe. Der Erwerber sei daher an die von seinem Vorgänger getroffenen Mietzinsvereinbarungen gebunden. Der Zwischenfeststellungsantrag sei wegen sofortiger Entscheidung in der Sache selbst aus Gründen der Prozeßökonomie abzuweisen gewesen.
+Das Gericht zweiter Instanz gab sowohl der Berufung des Klägers gegen das abweisliche Urteil wie dem Rekurs der Beklagten gegen den den Zwischenfeststellungsantrag abweisenden Beschluß Folge. Es hob beide Entscheidungen auf und verwies die Sache zur neuerlichen Verhandlung und Entscheidung an das Erstgericht zurück. Zugleich sprach es aus, daß das Verfahren in erster Instanz erst nach Rechtskraft dieses Beschlusses fortzusetzen sei.
+Der Oberste Gerichtshof gab dem Rekurs der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Berufungsgericht ging davon aus, daß der vom Erstgericht angeführte Grundsatz, betreffend die Bindung des Erwerbers einer Liegenschaft an die vom Voreigentümer abgeschlossenen Mietverträge, neben der vom Erstgericht genannten Einschränkung hinsichtlich der Bestanddauer eine weitere Einschränkung durch die Bestimmung des § 1102 ABGB. erfahre, wonach der Bestandnehmer, der mehr als eine Fristzahlung vorausgeleistet hat, dieselbe einem später eingetragenen Gläubiger oder einem neuen Eigentümer nur dann entgegensetzen kann, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist. Ebensowenig wie sich ein Liegenschaftserwerber auf den Grundbuchsstand berufen könne, wenn er den Widerspruch zwischen bücherlichem und tatsächlichem Stand gekannt habe oder hätte kennen müssen, könne dies ein Erwerber im Sinn des § 1102 ABGB. Entscheidungswesentlich sei, ob die Kläger von der Vorauszahlung der Beklagten vor Einverleibung ihres Eigentumsrechtes gewußt hätten, allenfalls, ob ihre Unkenntnis auf Fahrlässigkeit beruhe. Hierüber seien die von den Beklagten angebotenen Beweise aufzunehmen (§ 496
+(1) Z. 2 ZPO.).
+Der Oberste Gerichtshof vermag sich dieser Rechtsansicht nur insoweit anzuschließen, als es sich um die Kenntnis der Kläger von der Mietzinsvorauszahlung, nicht aber, soweit es sich um eine fahrlässige Unkenntnis in diesem Belang handelt. Es darf nicht übersehen werden, daß die Verbücherung eines Bestandvertrages gemäß § 1095 ABGB. - als unerläßliche Voraussetzung für die Zulässigkeit der Anmerkung der Vorauszahlung des Mietzinses (vgl. Klang[2] V 76) - nicht zwingend vorgeschrieben ist, sondern dem Parteiwillen überlassen bleibt und daß sie gegenüber der weitaus überwiegenden Zahl nichtverbücherter Bestandverträge die Ausnahme darstellt. Kennen und Kennenmüssen kann daher diesfalls nicht gleichgesetzt werden. Wohl aber müssen die Kläger die Mietzinsvorauszahlung gegen sich gelten lassen, wenn sie von ihr Kenntnis hatten. Nur darauf werden sich daher die ergänzenden Beweiserhebungen des Erstgerichtes zu erstrecken haben.

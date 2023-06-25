@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.03.1964
+Geschäftszahl
+3Ob16/64
+Norm
+AO §10 (1);
+AO §13;
+EO §87;
+EO §88;
+Grundbuchsgesetz 1955 §29;
+KO §10 (1);
+KO §13;
+Kopf
+SZ 37/42
+Spruch
+Die Zulässigkeit einer zwangsweisen Pfandrechtsbegründung ist davon abhängig, ob das Ansuchen vor dem Anschlag des Edikts über die Eröffnung des Konkurses oder Ausgleiches beim Grundbuchsgericht eingelangt ist; der Tag des Vollzuges im Grundbuch ist ohne Bedeutung.
+Entscheidung vom 25. März 1964, 3 Ob 16/64. I. Instanz:
+Bezirksgericht Linz - Land; II. Instanz: Landesgericht Linz.
+Text
+Auf Grund des am 31. Mai 1963 bei Gericht eingelangten Antrages hat das Erstgericht mit Beschluß vom 4. Juni 1963 die Exekution mittels zwangsweiser Pfandrechtsbegründung ob der dem Verpflichteten gehörigen Liegenschaftshälfte EZ. 776 des Grundbuches über die KG. P. zur Hereinbringung der vollstreckbaren Forderung der betreibenden Partei im Betrage von 26.000 S samt Anhang bewilligt. Die bewilligte Exekution wurde am 12. Juni 1963 durch Eintragung in das Grundbuch vollzogen. Über das Vermögen des Verpflichteten wurden am 6. Juni 1963 (Sa 10/63 des Landesgerichtes Linz) das Ausgleichsverfahren und am 6. September 1963 (S 24/63 des obangeführten Gerichtes) der Anschlußkonkurs eröffnet.
+Der Masseverwalter im Konkurs des Verpflichteten begehrt Löschung des zwangsweise begrundeten Pfandrechtes, da dieses Pfandrecht innerhalb von 60 Tagen vor Eröffnung des Ausgleiches erworben worden sei (§ 12 AO. bzw. § 12 KO.).
+Diesen Antrag hat das Erstgericht unter Hinweis auf § 13 AO. bzw. § 13 KO. abgewiesen.
+Infolge Rekurses des Masseverwalters hat das Rekursgericht den erstrichterlichen Beschluß dahin abgeändert, daß es die Einstellung der Exekution und die Einverleibung der Löschung des zwangsweise begrundeten Pfandrechtes angeordnet hat. Nach Eröffnung des Konkurses oder des Ausgleiches dürften richterliche Absonderungsrechte nicht mehr neu begrundet werden. Da ein Pfandrecht durch dessen bücherliche Einverleibung begrundet werde, diese im vorliegenden Fall nach der Eröffnung des Ausgleichsverfahrens liege, sei das richterliche Absonderungsrecht erst nach der Eröffnung des Ausgleiches erworben worden. Die Liegenschaft sei in diesem Zeitpunkt einer abgesonderten Exekutionsführung entzogen gewesen, sodaß die Exekution nach § 39 Z. 2 EO. einzustellen sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Ausführungen des Rekursgerichtes, daß der Masseverwalter sein Ansuchen um "Löschung" des zwangsweise begrundeten Pfandrechtes nicht mit Erfolg auf § 12 AO. (§ 12 KO.) stützen könne, entsprechen der Rechtsprechung (SZ. XXXII 126 insbesondere S. 334 f.).
+Nicht gefolgt kann dem Rekursgericht jedoch darin werden, daß für die Frage der Zulässigkeit der zwangsweisen Pfandrechtsbegründung im Sinne der §§ 10 (1), 13 AO. (§§ 10 (1), 18 KO.) nicht der Tag des Einlangens des Antrages beim Grundbuchsgericht, sondern jener des Vollzuges der bewilligten Eintragung maßgebend sein soll. § 18 AO. (KO.) gilt auch für die Eintragung richterlicher Absonderungsrechte, die gemäß § 10 AO. (KO.) unzulässig sind. Auch hier ist nicht der Vollzug der Eintragung im Grundbuch entscheidend, sondern das Einlangen des Antrages und, wenn die Exekution von einem anderen als dem Buchgericht bewilligt wurde, das Einlangen des Vollzugsersuchens beim Grundbuchsgericht. Ist dieses spätestens am Tage vor dem Anschlag des Konkursediktes beim Grundbuchsgericht eingelangt, so ist die Eintragung zulässig, andernfalls unzulässig (vgl. Bartsch - Pollak, AO. - KO. 1937, Band I zu § 13 Anm. 10 S. 100 f.; Bartsch, Grundbuchsgesetz[7], S. 85; Rintelen, Handbuch des österreichischen Konkurs- und Ausgleichsrechts, 1915, S. 146). Die vom Rekursgericht herangezogenen Ausführungen in Bartsch - Pollak, nach denen nicht das Einlangen des Gesuches oder die Bewilligung durch den Richter, sondern der Vollzug maßgebend ist, beziehen sich auf die Fahrnisexekution; dies ergibt sich nicht nur daraus, daß hinsichtlich der grundbücherlichen Eintragungen auf die Ausführungen zu § 13 KO. verwiesen wird, sondern auch aus der Erläuterung, daß für den Vollzug die Verzeichnung jedes einzelnen Gegenstandes im Pfändungsprotokoll maßgebend ist. Die Ansicht des Rekursgerichtes würde nicht nur einem der Grundsätze des österreichischen Grundbuchsrechtes (§ 29 GBG.) widersprechen, sie würde die Zulässigkeit der Pfandrechtsbegründung von zufälligen Ereignissen abhängig machen (beispielsweise Verzögerung des Vollzuges infolge einer Überlastung oder Erkrankung des Grundbuchführers oder infolge einer Vorplombe). Der Sachverhalt der SZ. VII 257 betrifft nicht die hier entscheidende Frage.
+Es liegen sohin die Voraussetzungen für die vom Masseverwalter beantragte "Löschung des Pfandrechtes" nicht vor, sodaß der erstrichterliche Beschluß, in Abänderung der rekursgerichtlichen Entscheidung, wiederherzustellen war.

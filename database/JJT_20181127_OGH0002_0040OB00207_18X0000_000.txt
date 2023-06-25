@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.11.2018
+Geschäftszahl
+4Ob207/18x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Bundeskammer für Arbeiter und Angestellte, *****, vertreten durch Dr. Walter Reichholf, Rechtsanwalt in Wien, gegen die beklagte Partei I*****, vertreten durch Dorda Brugger Jordis Rechtsanwälte GmbH in Wien, wegen Unterlassung (Streitwert 31.000 EUR und 12.000 EUR) und Urteilsveröffentlichung (Streitwert 6.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. September 2016, GZ 4 R 33/16a-14, mit dem das Urteil des Handelsgerichts Wien vom 15. Dezember 2015, GZ 39 Cg 32/14w-10, bestätigt wurde, beschlossen und zu Recht erkannt:
+Spruch
+I. Das Revisionsverfahren wird fortgesetzt.
+II. Der Revision der klagenden Partei wird nicht Folge gegeben.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 2.197,80 EUR (darin enthalten 366,30 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Entscheidungsgründe:
+Die klagende Kammer ist zur Geltendmachung von Unterlassungsansprüchen nach § 28a KSchG bzw § 14 UWG berechtigt. Die beklagte Bank betreibt österreichweit das Bankgeschäft und verwendet im geschäftlichen Verkehr mit Verbrauchern Allgemeine Geschäftsbedingungen (AGB).
+Die Beklagte bietet unter der Bezeichnung „Direkt-Sparkonto“ Online-Sparkonten an, auf die bzw von denen ihre Kunden im Wege des Telebanking Einzahlungen und Abhebungen vornehmen können. Diese Überweisungen muss der jeweilige Kunde stets über ein auf ihn lautendes Referenzkonto tätigen. Hierbei muss es sich um ein Girokonto handeln, das der Kunde auch bei einer anderen Bank als der Beklagten unterhalten kann. Zu Lasten des „Direkt-Sparkontos“ löst die Beklagte weder Lastschriften noch Schecks ein, auch Barauszahlungen werden nicht vorgenommen.
+Die Klägerin begehrte, – soweit für das Revisionsverfahren noch von Relevanz – der Beklagten zu verbieten, Zahlungsdienstnutzern Änderungen des Rahmenvertrags auf der Grundlage einer Vereinbarung nach § 28 Abs 1 Z 6 lit a ZaDiG ohne Hinweis gemäß § 29 Abs 1 Z 2 lit b ZaDiG vorzuschlagen und ihnen Informationsschreiben zu vorgeschlagenen Änderungen nach § 29 Abs 1 ZaDiG zu übermitteln, die aus von der Klägerin näher genannten Gründen unzureichend seien. Die „Direkt-Sparkonten“ der Beklagten seien als Zahlungskonten nach § 3 Z 13 ZaDiG zu qualifizieren, weshalb insbesondere § 29 ZaDiG anzuwenden sei.
+Die Beklagte wandte ein, dass das ZaDiG nicht auf „Direkt-Sparkonten“ anwendbar sei, weil damit keine Teilnahme am Zahlungsverkehr ermöglicht werde. Es seien nur Überweisungen vom und auf das „Referenzkonto“ vorgesehen. Diese seien keine Zahlungsdienstleistungen.
+Die Vorinstanzen wiesen die Klage ab und schlossen sich hinsichtlich der Anwendung des ZaDiG der Rechtsansicht der Beklagten an.
+Gegen diese Entscheidung richtet sich die Revision der Klägerin, in der sie im Wesentlichen damit argumentiert, dass das ZaDiG auf die „Direkt-Sparkonten“ der Beklagten anwendbar sei.
+Rechtliche Beurteilung
+Der Senat hat das Revisionsverfahren mit Beschluss vom 28. 3. 2017 bis zur Entscheidung des Europäischen Gerichtshofs über das vom Obersten Gerichtshof zu 8 Ob 88/16y gestellte Vorabentscheidungsersuchen unterbrochen.
+Der 8. Senat legte dem EuGH folgende Frage zur Vorabentscheidung vor:
+Ist Art 4 Nr 14 der Zahlungsdienste-Richtlinie dahin auszulegen, dass auch ein Online-Sparkonto, auf das der jeweilige Kunde (mit täglicher Fälligkeit und ohne besondere Mitwirkung der Bank) im Wege des Telebanking Einzahlungen auf ein auf ihn lautendes und Abhebungen von einem auf ihn lautenden Referenzkonto (ein Girokonto in Österreich) durchführen kann, unter den Begriff des „Zahlungskontos“ zu subsumieren ist und daher vom Anwendungsbereich der Richtlinie erfasst wird?
+Aufgrund der mittlerweile getroffenen Entscheidung des EuGH vom 4. Oktober 2018, C-191/17, Bundeskammer für Arbeiter und Angestellte/ING-DiBa Direktbank Austria ist das Verfahren hiermit fortzusetzen.
+Die Revision der Klägerin ist aus dem vom Berufungsgericht herangezogenen Grund zulässig, das Rechtsmittel ist aber nicht berechtigt.
+In der zitierten Entscheidung beantwortete der EuGH die Vorlagefrage wie folgt:
+Art 4 Nr 14 der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom 13. November 2007 über Zahlungsdienste im Binnenmarkt, zur Änderung der Richtlinien 97/7/EG, 2002/65/EG, 2005/60/EG und 2006/48/EG sowie zur Aufhebung der Richtlinie 97/5/EG ist dahin auszulegen, dass ein Sparkonto mit täglicher Fälligkeit, auf das bzw. von dem Einzahlungen und Abhebungen nur über ein Girokonto vorgenommen werden können, nicht unter den Begriff „Zahlungskonto“ fällt.
+Der im Revisionsverfahren zu prüfende Unterlassungsanspruch ist davon abhängig, ob das ZaDiG, mit dem die Zahlungsdienste-Richtlinie 2007/64/EG (nunmehr 2015/2366) umgesetzt wurde, hier anwendbar ist, weil die Klägerin ihren Unterlassungsanspruch darauf stützt, dass die Beklagte gegen dieses Gesetz verstoße. Die dafür maßgebliche Frage wurde vom EuGH zu Art 4 Nr 14 Zahlungsdienste-Richtlinie 2007/64/EG im Sinne der Vorentscheidungen beantwortet. Für die gleichlautende Bestimmung des nunmehr geltenden Art 4 Nr 12 Zahlungsdienste-Richtlinie 2015/2366 gilt Entsprechendes.
+Mangels Anwendung des ZaDiG auf die „Direkt-Sparkonten“ der Beklagten ist der Unterlassungsanspruch unberechtigt, weshalb die Vorinstanzen die Klage damit zu Recht abgewiesen haben.
+Die Kostenentscheidung beruht auf §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0040OB00207.18X.1127.000

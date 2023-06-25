@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.09.2017
+Geschäftszahl
+5Ob161/17p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann, die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der wohnrechtlichen Außerstreitsache der Antragstellerin Mag. E*, vertreten durch Mag. Martin Kasbauer, Rechtsanwalt in Wels, gegen die Antragsgegner 1. M*, vertreten durch Dr. Herbert Veit, Rechtsanwalt in Linz, 2. O* gemeinnützige GmbH, *, und die übrigen Mit- und Wohnungseigentümer der Liegenschaft EZ * KG *, wegen Aufhebung eines Mehrheitsbeschlusses (§ 29 WEG), über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Sachbeschluss des Landesgerichts Wels als Rekursgericht vom 21. Juni 2017, GZ 22 R 72/17w-41, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 52 Abs 2 WEG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Nur Maßnahmen der (ordentlichen oder außerordentlichen) Verwaltung können nach der Rechtsprechung Gegenstand einer Beschlussfassung der Eigentümergemeinschaft sein, nicht jedoch Verfügungen iSd § 828 ABGB, die der Einstimmigkeit bedürfen (5 Ob 216/15y; RIS-Justiz RS0108763; RS0130070 [T1]; RS0109840 [T2]). Beschlüsse, die keine Verwaltungs-, sondern Verfügungshandlungen sind, können unbefristet bekämpft werden (RIS-Justiz RS0083156 [T17]; RS0108763 [T3]; RS0109840 [T3]).
+1.1 Bauliche Maßnahmen, die ausschließlich allgemeine Teile betreffen (hier: Errichtung einer Solarzellenanlage auf dem Dach des Hauses mit einem geschätzten, in der Rücklage um ein Vielfaches gedeckten Aufwand von maximal 25.000 EUR und einer anteiligen Belastung der Antragstellerin mit 137 EUR) sind der Verwaltung zuzuordnen, wenn die Veränderung gemeinschaftlichen Interessen (hier: Energieersparnis) dient. In diesem Fall kommt die Entscheidungskompetenz grundsätzlich der Eigentümergemeinschaft und damit der Mehrheit zu. Der überstimmte Wohnungseigentümer ist dann auf seine Minderheitsrechte verwiesen (vgl 5 Ob 216/16y mwN).
+1.2 Die Antragstellerin begründet das Erfordernis einer Einstimmigkeit mit der ihrer Ansicht nach drohenden (aufgezwungenen) Eigenschaft der Eigentümergemeinschaft bzw jedes einzelnen Wohnungseigentümers als dem GSVG unterliegender Netzbetreiber. Die dabei befürchtete Einspeisung in das Netz eines Energieversorgers ist nach den Feststellungen der Vorinstanzen aber auszuschließen. Eine Einspeisung in das öffentliche Stromnetz ist nicht vorgesehen. Der Bezug des Betriebsstroms aus dem öffentlichen Netz wird dann unterbrochen, wenn Solarstrom in ausreichendem Maß zum autarken Betrieb produziert wird.
+2. Die Fristen für die Anfechtung von Beschlüssen der Eigentümergemeinschaft nach § 24 Abs 6 und § 29 Abs 1 Satz 1 WEG sind materiell-rechtliche Ausschlussfristen (RIS-Justiz RS0106946). Der Antragsteller muss den bestimmten Rechtsgrund, auf den er die Anfechtung stützt, fristgerecht geltend machen. Das Gericht hat nicht von sich aus völlig andere Tatbestandsvoraussetzungen zu prüfen. Verspätet geltend gemachte („nachgeschobene“) Anfechtungsgründe sind präkludiert (zu § 24 Abs 6 WEG: 5 Ob 20/16a; RIS-Justiz RS0130835; zu § 29 WEG 5 Ob 234/16x).
+2.1 Die Antragstellerin hat ihr Sachvorbringen,  aus dem sie die Rechtsfolge einer übermäßigen Beeinträchtigung (§ 29 Abs 2 Z 1 WEG) ableitet, erstmals nach Ablauf der dreimonatigen Anfechtungsfrist erstattet. Die rechtliche Beurteilung des Rekursgerichts zur Verfristung dieses Anfechtungsvorbringens greift sie nur insofern an, als sie eine Anleitung durch das Erstgericht fordert. Dieser angebliche, im Rekurs nicht gerügte Verfahrensmangel erster Instanz kann auch im wohnrechtlichen Außerstreitverfahren nicht im Revisionsrekurs geltend gemacht werden.
+3. Einer weiteren Begründung bedarf es nicht (§ 71 Abs 3 AußStrG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E119747

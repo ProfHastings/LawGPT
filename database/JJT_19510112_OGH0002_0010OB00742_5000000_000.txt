@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.01.1951
+Geschäftszahl
+1Ob742/50
+Norm
+Gerichtsorganisationsgesetz §89;
+Geschäftsordnung 1937 §62 Abs2;
+Geschäftsordnung 1937 §62 Abs3;
+Geschäftsordnung 1952 §60 Abs. 2;
+Geschäftsordnung 1952 §60 Abs3;
+ZPO §38;
+ZPO §126;
+Kopf
+SZ 24/12
+Spruch
+Wer an zwei Anwälte gleichzeitig Vollmacht erteilt hat, von denen nur einer im Sprengel des Prozeßgerichtes seinen Sitz hat, muß trotz telegraphischer Erhebung eines Rechtsmittels die schriftliche Ausführung innerhalb der Rechtsmittelfrist einbringen, mag auch das Rechtsmittel von dem außerhalb des Prozeßgerichtssprengels wohnhaften Anwalt eingebracht werden.
+Entscheidung vom 12. Jänner 1951, 1 Ob 742/50.
+I. Instanz: Kreisgericht Wels; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Berufungsurteil wurde dem Vertreter des Klägers Dr. Franz B., Rechtsanwalt in X. am 9. November 1950 zugestellt. Die Rechtsmittelfrist lief daher am 23. November 1950 ab. An diesem Tage hat der Revisionswerber durch einen Rechtsanwalt in Y., der seine Zulassung nach § 38 ZPO. begehrte, telegraphisch die Revision erhoben, so daß das Telegramm am nächsten Tag in X. (beim Prozeßgerichte) einlangte. Am 27. November 1950 langte beim Prozeßgerichte vom Anwalt aus Y. ein Schriftsatz ein, der am 25. November 1950 zur Post gegeben war, mit welchem das Telegramm bestätigt und gleichzeitig eine neue Vollmacht vorgelegt wurde.
+Der Oberste Gerichtshof hat die Revision als verspätet zurückgewiesen.
+Rechtliche Beurteilung
+Aus der Begründung:
+§ 89 Abs. 2 GOG., § 62 Abs. 2 Geo. 1930 (Nunmehr § 60 Abs. 2 Geo. 19 52) bestimmen, daß der das Telegramm bestätigende Schriftsatz dann als am Tage der Aufgabe des Telegramms überreicht gilt, wenn diese Eingabe innerhalb von drei Tagen nach Ablauf der für die Eingabe festgesetzten Frist bei Gericht einlangt. Dies war hier der Fall, da der dritte Tag auf einen Sonntag fiel, die Frist daher gemäß § 126 ZPO. erst am darauffolgenden Werktag ablief. Allein Abs. 3 des § 62 Geo. 1930 bestimmt, daß Abs. 2 dann keine Anwendung findet, wenn die Partei oder ihr Bevollmächtigter am Orte oder im Sprengel des Gerichtes, bei dem die Eingabe zu überreichen ist, wohnt. Nun ist aber der Kläger durch einen Anwalt vertreten, der seinen Sitz in X. hat, also im Sprengel des Gerichtes, bei welchem die Eingabe zu überreichen war. Seine Vollmacht ist bis heute nicht widerrufen, daher noch aufrecht. Der Bevollmächtigte des Klägers hat sohin seinen Sitz am Orte des Prozeßgerichtes erster Instanz, weshalb gemäß Abs. 3 des § 62 Geo. 1930 (Nunmehr § 60 Abs. 2 Geo. 1952) die Vorschrift des Abs. 2 keine Anwendung findet. Es hätte daher der Schriftsatz mit der Bestätigung des Telegramms noch innerhalb der ursprünglichen Frist, also spätestens am 23. November 1950 zur Post gegeben werden müssen, um die Rechtsmittelfrist zu wahren. Daran ändert nichts, daß der Kläger nun einen zweiten Anwalt bestellt, der seinen Sitz in Y. hat. Denn auch dann, wenn die Partei mehrere Anwälte mit ihrer Vertretung betraut und auch nur einer dieser Bevollmächtigten seinen Sitz im Sprengel des Gerichtshofes erster Instanz hat, tritt eine Verlängerung der Rechtsmittelfrist gemäß § 62 Abs. 3 Geo. 1930 nicht ein, weil auch in diesem Fall der Bevollmächtigte am Orte des Gerichtes, bei dem die Eingabe zu überreichen ist, wohnt. Da somit im gegenständlichen Fall § 62 Abs. 2 Geo. 1930 (Nunmehr § 60 Abs. 2 Geo. 1952) nicht zur Anwendung kommt, die Rechtsmittelschrift erst am 25. November 1950 zur Post gegeben wurde, ist diese verspätet.

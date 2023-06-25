@@ -1,0 +1,200 @@
+Gericht
+OLG Wien
+Entscheidungsdatum
+19.08.2014
+Geschäftszahl
+34R34/14s
+Kopf
+Das Oberlandesgericht Wien hat als Rekursgericht ***** wegen Teilverzichts des Patents E 166 346, über die als Rekurs zu wertende Beschwerde der Antragstellerin gegen den Beschluss der technischen Abteilung des Patentamts vom 18.12.2012, E 166 346-22, in nicht öffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Antrag auf Durchführung einer mündlichen Verhandlung wird abgewiesen.
+Dem Rekurs wird Folge gegeben. Die angefochtene Entscheidung der technischen Abteilung des Patentamts wird geändert und lautet:
+«Aufgrund des Teilverzichts des Patents E 166 346 lauten die Patentansprüche nunmehr wie folgt:
+1. 	Benzimidazole der allgemeinen Formel
+(I),
+in der
+R1 ein Chloratom, eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder einer Trifluormethylgruppe,
+R2 eine 5-, 6- oder 7-gliedrige Alkyleniminogruppe, in welcher eine Methylengruppe durch eine Carbonyl- oder Sulfonylgruppe ersetzt ist,
+eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Phenylgruppe mono- oder disubstituierte Maleinsäureimidogruppe, wobei die Substituenten gleich oder verschieden sein können,
+eine gegebenenfalls in 1-Stellung durch eine Alkylgruppe mit 1 bis 6 Kohlenstoffatomen oder eine Cycloalkylgruppe substituierte Benzimidazol-2-yl- oder 4,5,6,7-Tetrahydro-benzimidazol-2-yl-gruppe, wobei der Phenylkern einer der vorstehend erwähnten Benzimidazolgruppen zusätzlich durch ein Fluoratom, eine Methyl- oder Trifluormethylgruppe substituiert sein kann, eine Imidazo[2,1-b]thiazol-6-yl-, Imidazo[1,2-a]pyridin-2-yl-, 5,6,7,8-Tetrahydroimidazo[1,2-a]pyridin-2-yl-, Imidazo[1,2-a]-pyrimidin-2-yl-, Imidazo[4,5-b]pyridin-2-yl-, Imidazo[4,5-c]-pyridin-2-yl-, Imidazo[1,2-c]pyrimidin-2-yl-, Imidazo[1,2-a]-pyrazin-2-yl-, Imidazo[1,2-b]pyridazin-2-yl-, Purin-8-yl-, Imidazo[4,5-b]pyrazin-2-yl-, Imidazo[4,5-c]pyridazin-2-yl-oder Imidazo[4,5-d]pyridazin-2-yl-gruppe,
+eine Pyridylgruppe oder
+eine in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Benzylgruppe substituierte Imidazol-4-yl-gruppe, welche zusätzlich im Kohlenstoffgerüst durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituiert sein kann,
+R3 eine Alkylgruppe mit 1 bis 5 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 5 Kohlenstoffatomen und
+R4 eine Carboxy- oder IH-Tetrazolylgrppe bedeuten,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+2. 	Benzimidazole der allgemeinen Formel I gemäß Anspruch 1, in der
+R1 eine Methylgruppe oder ein Chloratom,
+R2 eine 5-, 6- oder 7-gliedrige Alkyleniminogruppe, in welcher eine Methylengruppe durch eine Carbonyl- oder Sulfonylgruppe ersetzt ist,
+eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Phenylgruppe mono- oder disubstituierte Maleinsäureimidogruppe, wobei die Substituenten gleich oder verschieden sein können,
+eine gegebenenfalls in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Benzimidazol-2-yl- oder 4,5,6,7-Tetrahydro-benzimidazol-2-yl-gruppe, wobei der Phenylkern einer der vorstehend erwähnten Benzimidazolgruppen zusätzlich durch ein Fluoratom substituiert sein kann, eine Imidazo[1,2-a]pyridin-2-yl-, 5,6,7,8-Tetrahydro-imidazo[1,2-a]-pyridin-2-yl-, Imidazo[1,2-a]pyrimidin-2-yl- oder Imidazo-[2,1-b]thiazol-6-yl-gruppe oder
+eine in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Imidazol-4-yl-gruppe,
+R3 eine Alkylgruppe mit 1 bis 5 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 5 Kohlenstoffatomen und
+R4 eine Carboxy- oder IH-Tetrazolylgruppe bedeuten,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+3. 	Folgende Benzimidazole der allgemeinen Formel I gemäß Anspruch 1:
+(a)	4’-[[2-n-Propyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(b)	4’-[[2-n-Propyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(c)	4’[[2-n-Propyl-4-methyl-6-(butansultam-1-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(e)	4’-[(2-Cyclopropyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(f)	4’-[(2-n-Propyl-4-methyl-6-(1-methyl-5-fluor-benzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(g)	4’-[(2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyrimidin-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(h)	4’-[(2-n-Propyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(i)	4’-[(2-n-Propyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(j)	4’-[(2-n-Propyl-4-chlor-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrahol-5-yl)-biphenyl,
+(k)	4’[[2-n-Propyl-4-methyl-6-(imidazo[2,1-b]thiazol-6-yl]-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(m)	4’-[[2-n-Butyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(n)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyridin-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(o)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyridin-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(p)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[2,1-b]thiazol-6-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(q)	4’-[(2-n-Propyl-4-methyl-6-(1-methyl-6-fluor-benzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure und
+(r)	4’-[(2-Ethyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+4. 	4’-[[2-n-Propyl-4-methyl-6-(I-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure und dessen Salze mit anorganischen oder organischen Säuren oder Basen.
+5. 	4’-[(2-Ethyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo[1,2-a]-pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure und dessen Salze mit anorganischen oder organischen Säuren oder Basen.
+6. 	Physiologisch verträgliche Salze der Verbindungen nach mindestens einem der Ansprüche 1 bis 5 mit anorganischen oder organischen Säuren oder Basen.
+7. 	Arzneimittel, enthaltend eine Verbindung nach mindestens einem der Ansprüche 1 bis 5 oder ein physiologisch verträgliches Salz gemäß Anspruch 6 gegebenenfalls in Kombination mit Bendroflumethiazid, Chlorthiazid, Hydrochlorthiazid, Spironolacton, Benzthiazid, Cyclothiazid, Ethacrinsäure, Furosemid, Metoprolol, Prazosin, Atenolol, Propranolol, (Di)hydralazin-hydrochlorid, Diltiazem, Felodipin, Nicardipin, Nifedipin, Nisoldipin oder Nitrendipin, neben gegenbenfalls einem oder mehreren inerten Trägerstoffen und/oder Verdünnungsmitteln.
+8. 	Verwendung einer Verbindung nach mindestens einem der Ansprüche 1 bis 6 zur Herstellung eines Arzneimittels mit Angiotensin-antagonistischer Wirkung.
+9. 	Verfahren zur Herstellung eines Arzneimittels gemäß Anspruch 7, dadurch gekennzeichnet, dass auf nichtchemischem Wege eine Verbindung nach mindestens einem der Ansprüche 1 bis 6 in einen oder mehrere inerte Trägerstoffe und/oder Verdünnungsmittel eingearbeitet wird.
+10.	Verfahren zur Herstellung der Benzimidazole gemäß den Ansprüchen 1 bis 6, dadurch gekennzeichnet, dass
+a) 	eine Verbindung der allgemeinen Formel
+(II),
+in der
+R1 und R2 wie in den Ansprüchen 1 bis 5 definiert sind, einer der Reste X1 oder Y1 eine Gruppe der allgemeinen Formel
+und der andere der Reste X1 oder Y1 eine Gruppe der allgemeinen Formel
+darstellen, wobei
+R3 und R4 wie in den Ansprüchen 1 bis 5 definiert sind,
+R8 ein Wasserstoffatom oder eine R3CO-Gruppe, wobei R3 wie vorstehend erwähnt definiert ist,
+Z1 und Z2, die gleich oder verschieden sein können, gegebenenfalls substituierte Aminogruppen oder gegebenenfalls durch niedere Alkylgruppen substituierte Hydroxy- oder Mercaptogruppen oder
+Z1 und Z2, zusammen ein Sauerstoff- oder Schwefelatom, eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Iminogruppe, eine Alkylendioxy oder Alkylendithiogruppe mit jeweils 2 oder 3 Kohlenstoffatomen bedeuten, wobei jedoch einer der Reste X1 oder Y1 eine Gruppe der allgemeinen Formel
+oder
+darstellen muss, cyclisiert und ein gegebenenfalls so erhaltenes entsprechendes N-Oxid reduziert wird oder
+b)	eine Benzimidazol der allgemeinen Formel
+(III),
+in der
+R1 bis R3 wie in den Ansprüchen 1 bis 5 definiert sind, mit einer Biphenylverbindung der allgemeinen Formel
+(IV),
+in der
+R4 wie in den Ansprüchen 1 bis 5 definiert ist und
+Z3 eine nukleophile Austrittsgruppe darstellt, umgesetzt wird oder
+c)	zur Herstellung einer Verbindung der allgemeinen Formel I, in der R4 eine Carboxygruppe darstellt, eine Verbindung der allgemeinen Formel
+(V),
+in der
+R1 bis R3 wie in den Ansprüchen 1 bis 5 definiert sind und
+R4’ eine mittels Hydrolyse, Thermolyse oder Hydrogenolyse in eine Carboxygruppe überführbare Gruppe darstellen, in eine entsprechende Carboxyverbindung überführt wird oder
+d)	zur Herstellung einer Verbindung der allgemeinen Formel I, in der R4 eine IH-Tetrazolylgruppe darstellt, ein Schutzrest von einer Verbindung der allgemeinen Formel
+(VI),
+in der
+R1, R2 und R3 wie in den Ansprüchen 1 bis 5 definiert sind und R4“ eine 1- oder 3-Stellung durch einen Schutzrest geschützte 1H-Tetrazolylgruppe darstellt, abgespalten wird oder
+e)	zur Herstellung einer Verbindung der allgemeinen Formel I, in der R4 eine 1H-Tetrazolylgruppe darstellt, eine Verbindung der allgemeinen Formel
+(VII),
+in der
+R1 bis R3 wie in den Ansprüchen 1 bis 5 definiert sind, mit Stickstoffwasserstoffsäure oder deren Salzen umgesetzt wird oder
+f)	zur Herstellung von Verbindungen der allgemeinen Formel I, in der R2 eine der in den Ansprüchen 1 bis 5 erwähnten Imidazo[1,2-a]pyridin-2-yl-, Imidazo[1,2-a]pyrimidin-2-yl-, Imidazo[1,2-c]pyrimidin-2-yl-, Imidazo[1,2-a]pyrazin-2-yl-, Imidazo[1,2-b]pyridazin-2-yl- oder Imidazo[2,1-b]thiazol-6-ylgruppen darstellt, eine Verbindung der allgemeinen Formel
+(VIII),
+in der
+einer der Reste A, B, C oder D eine gegebenenfalls durch eine Methylgruppe substituierte Methingruppe oder ein Stickstoffatom und die übrigen der Reste A, B, C oder D Methingruppen der A und B jeweils eine Methingruppe und die –C=D-Gruppe ein Schwefelatom bedeuten, mit einer Verbindung der allgemeinen Formel
+(IX),
+in der
+R1, R3 und R4 wie in den Ansprüchen 1 bis 5 definiert sind und Z4 eine nukleophile Austrittsgruppe wie ein Halogenatom, z.B. ein Chlor- oder Bromatom, darstellt, umgesetzt wird oder
+g)	zur Herstellung von Verbindungen der allgemeinen Formel I, in der R2 eine der in den Ansprüchen 1 bis 5 erwähnten Benzimidazol-2-yl-, Imidazo[4,5-b]pyridin-2-yl-, Imidazo[4,5-c]-pyridin-2-yl-, Imidazo[4,5-b]pyrazin-2-yl-, Imidazo[4,5-c]-pyridazin-2-yl-, Imidazo[4,5-d]pyridazin-2-yl- oder Purin-8-yl-gruppen darstellt, eine Verbindung der allgemeinen Formel
+(X),
+in der
+null, einer oder zwei der Reste A1, B1, C1 oder D1 ein Stickstoffatom und
+die verbleibenden Reste der Reste A1, B1, C1 oder D1 Methingruppen sowie
+R11 ein Wasserstoff- oder Fluoratom, eine Methyl- oder Trifluormethylgruppe,
+einer der Reste X2 oder Y2 eine R13-NH-Gruppe und der andere der Reste X2 oder Y2 eine Gruppe der allgemeinen Formel
+darstellen, wobei R1, R3 und R4 wie in den Ansprüchen 1 bis 5 definiert sind,
+einer der Reste R13 oder R14 ein Wasserstoffatom und der andere der Reste R13 oder R14 ein Wasserstoffatom, eine Alkylgruppe mit 1 bis 6 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 7 Kohlenstoffatomen,
+Z5 und Z6, die gleich oder verschieden sein können, gegebenenfalls substituierte Aminogruppen oder gegebenenfalls durch niedere Alkylgruppen substituierte Hydroxy- oder Mercaptogruppen oder
+Z5 und Z6, zusammen ein Sauerstoff- oder Schwefelatom, eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Iminogruppe, eine Alkylendioxy- oder Alkylendithiogruppe mit jeweils 2 oder 3 Kohlenstoffatomen bedeuten, cyclisiert und ein gegebenenfalls so erhaltenes entsprechendes N-Oxid reduziert und eine so erhaltene Verbindung gegebenenfalls anschließend hydrolysiert wird und erforderlichenfalls ein während der Umsetzung a) bis g) zum Schutze von reaktiven Gruppen verwendeter Schutzrest abgespalten wird und/oder
+erforderlichenfalls ein so erhaltenes Isomerengemisch in seine Isomeren aufgetrennt wird und/oder
+eine so erhaltene Verbindung der allgemeinen Formel I in ihr Salz, insbesondere für die pharmazeutische Anwendung in ihr physiologisch verträgliches Salz mit einer anorganischen oder organischen Säure oder Base, übergeführt wird.»
+Der Antrag auf Zuspruch von Kosten für die Beschwerde wird abgewiesen.
+Begründung
+Text
+Die Antragstellerin ist Inhaberin des am 31.1.1992 angemeldeten europäischen Patents EP 0 502 314 B1 (in Österreich E 166 346) mit der Bezeichnung „Benzimidazole, diese Verbindungen enthaltende Arzneimittel und Verfahren zu ihrer Herstellung“. Die Patentansprüche 1 bis 10 in der erteilten Fassung lauten wie folgt:
+***
+1. 	Benzimidazole der allgemeinen Formel
+in der
+R1 ein Fluor-, Chlor- oder Bromatom, eine Alky- Cycloalkyl-, Fluormethyl-, Difluormethyl- oder Trifluormethylgruppe,
+R2 eine gegebenenfalls durch eine oder zwei Alkylgruppen oder durch eine Tetramethylen- oder Pentamethylengruppe substituierte 5-, 6- oder 7-gliedrige Alkylenimino- oder Alkenyleniminogruppe, in welcher eine Methylengruppe durch eine Carbonyl- oder Sulfonylgruppe ersetzt ist,
+eine gegebenenfalls durch eine Alkyl- oder Phenylgruppe mono- oder disubstituierte Maleinsäureimidogruppe, wobei die Substituenten gleich oder verschieden sein können,
+eine gegebenenfalls in 1-Stellung durch eine Alkylgruppe mit 1 bis 6 Kohlenstoffatomen oder eine Cycloalkylgruppe substituierte Benzimidazol-2-yl- oder 4,5,6,7-Tetrahydro-benzimidazol-2-yl-gruppe, wobei der Phenylkern einer der vorstehend erwähnten Benzimidazolgruppen zusätzlich durch ein Fluoratom, eine Methyl- oder Trifluormethylgruppe substituiert sein kann, eine Imidazo[2,1-b]thiazol-6-yl-, Imidazo[1,2-a]pyridin-2-yl-, 5,6,7,8-Tetrahydroimidazo[1,2-a]pyridin-2-yl-, Imidazo[1,2-a]-pyrimidin-2-yl-, Imidazo[4,5-b]pyridin-2-yl-, Imidazo[4,5-c]-pyridin-2-yl-, Imidazo[1,2-c]pyrimidin-2-yl, Imidazo[1,2-a]-pyrazin-2-yl-, Imidazo[1,2-b]pyridazin-2-yl-, Purin-8-yl-, Imidazo[4,5-b]pyrazin-2-yl-, Imidazo[4,5-c]pyridazin-2-yl-oder Imidazo[4,5-d]pyridazin-2-yl-gruppe,
+eine Pyridylgruppe oder
+eine gegebenenfalfs in 1-Stellung durch eine Alkyl- oder Benzylgruppe über ein Kohlenstoffatom gebundene Imidazolylgruppe, welche zusätzlich im Kohlenstoffgerüst durch eine Alkylgruppe substituiert sein kann,
+R3 eine Alkylgruppe mit 1 bis 5 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 5 Kohlenstoffatomen und
+R4 eine Carboxy- oder IH-Tetrazolylgruppe bedeuten,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen,
+wobei, soweit nichts anderes erwähnt wurde, ein vorstehend erwähnter Alkylteil jeweils 1 bis 3 Kohlenstoffatome sowie ein vorstehend erwähnter Cycloalkylteil jeweils 3 bis 7 Kohlenstoffatome enthalten kann.
+2. 	Benzimidazole der allgemeinen Formel I gemäß Anspruch 1, in der
+R1 ein Chloratom, eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder eine Trifluormethylgruppe,
+R2 eine 5-, 6- oder 7-gliedrige Alkyleniminogruppe, in welcher eine Methylengruppe durch eine Carbonyl- oder Sulfonylgruppe ersetzt ist,
+eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Phenylgruppe mono- oder disubstituierte Maleinsäureimidogruppe, wobei die Substituenten gleich oder verschieden sein können,
+eine gegebenenfalls in 1-Stellung durch eine Alkylgruppe mit 1 bis 6 Kohlenstoffatomen oder eine Cycloalkylgruppe substituierte Benzimidazol-2-yl- oder 4,5,6,7-Tetrahydro-benzimidazol-2-yl-gruppe, wobei der Phenylkern einer der vorstehend erwähnten Benzimidazolgruppen zusätzlich durch ein Fluoratom, eine Methyl- oder Trifluormethylgruppe substituiert sein kann, eine Imidazo[2,1-b]thiazol-6-yl-, Imidazo[1,2-a]pyridin-2-yl-, 5,6,7,8-Tetrahydroimidazo[1,2-a]pyridin-2-yl-, Imidazo[1,2-a]-pyrimidin-2-yl-, Imidazo[4,5-b]pyridin-2-yl-, Imidazo[4,5-c]-pyridin-2-yl-, Imidazo[1,2-c]pyrimidin-2-yl-, Imidazo[1,2-a]-pyrazin-2-yl-, Imidazo[1,2-b]pyridazin-2-yl-, Purin-8-yl-, Imidazo[4,5-b]pyrazin-2-yl-, Imidazo[4,5-c]pyridazin-2-yl- oder Imidazo[4,5-d]pyridazin-2-yl-gruppe,
+eine Pyridylgruppe oder
+eine in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Benzylgruppe substituierte Imidazol-4-yl-gruppe, welche zusätzlich im Kohlenstoffgerüst durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituiert sein kann,
+R3 eine Alkylgruppe mit 1 bis 5 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 5 Kohlenstoffatomen und
+R4 eine Carboxy- oder IH-Tetrazolylgruppe bedeuten,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+3. 	Benzimidazole der allgemeinen Formel I gemäß Anspruch 1, in der
+R1 eine Methylgruppe oder ein Chloratom,
+R2 eine 5-, 6- oder 7-gliedrige Alkyleniminogruppe, in welcher eine Methylengruppe durch eine Carbonyl- oder Sulfonylgruppe ersetzt ist,
+eine gegebenenfalls durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen oder durch eine Phenylgruppe mono- oder disubstituierte Maleinsäureimidogruppe, wobei die Substituenten gleich oder verschieden sein können,
+eine gegebenenfalls in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Benzimidazol-2-yl- oder 4,5,6,7-Tetrahydro-benzimidazol-2-yl-gruppe, wobei der Phenylkern einer der vorstehend erwähnten Benzimidazolgruppen zusätzlich durch ein Fluoratom substituiert sein kann, eine Imidazo[1,2-a]pyridin-2-yl-, 5,6,7,8-Tetrahydro-imidazo[1,2-a]- pyridin-2-yl-, Imidazo[1,2-a]pyrimidin-2-yl- oder Imidazo-[2,1-b]thiazol-6-ylgruppe oder
+eine in 1-Stellung durch eine Alkylgruppe mit 1 bis 3 Kohlenstoffatomen substituierte Imidazol-4-yl-gruppe,
+R3 eine Alkylgruppe mit 1 bis 5 Kohlenstoffatomen oder eine Cycloalkylgruppe mit 3 bis 5 Kohlenstoffatomen und
+R4 eine Carboxy- oder IH-Tetrazolylgruppe bedeuten,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+4. 	Folgende Benzimidazole der allgemeinen Formel I gemäß Anspruch 1 :
+(a)	4’-[[2-n-Propyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(b)	4’-[[2-n-Propyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(c)	4’[[2-n-Propyl-4-methyl-6-(butansultam-1-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(d)	4’[[2-n-Butyl-6-(2,3-dimethylmaleinsäureimino)-4methylbenzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(e)	4’-[(2-Cyclopropyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(f)	4’-[(2-n-Propyl-4-methyl-6-(1-methyl-5-fluor-benzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(g)	4’-[(2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyrimidin-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(h)	4’-[(2-n-Propyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+(i)	4’-[(2-n-Propyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(j)	4’-[(2-n-Propyl-4-chlor-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-2-(1H-tetrahol-5-yl)-biphenyl,
+(k)	4’[[2-n-Propyl-4-methyl-6-(imidazo[2,1-b]thiazol-6-yl]-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(l)	4’[[2-Ethyl-4-methyl-6-(butansultam-1-yl)-benzimidazol-1-yl]-methyl]-2(1H-tetrazol-5-yl)-biphenyl,
+(m)	4’-[[2-n-Butyl-4-methyl-6-(1-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(n)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyridin-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure,
+(o)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[1,2-a]pyridin-2-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(p)	4’-[[2-n-Propyl-4-methyl-6-(imidazo[2,1-b]thiazol-6-yl)-benzimidazol-1-yl]-methyl]-2-(1H-tetrazol-5-yl)-biphenyl,
+(q)	4’-[(2-n-Propyl-4-methyl-6-(1-methyl-6-fluor-benzimidazol-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure und
+(r)	4’-[(2-Ethyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo-[1,2-a]pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure,
+und deren Salze mit anorganischen oder organischen Säuren oder Basen.
+5. 	4’-[[2-n-Propyl-4-methyl-6-(I-methylbenzimidazol-2-yl)-benzimidazol-1-yl]-methyl]-biphenyl-2-carbonsäure und dessen Salze mit anorganischen oder organischen Säuren oder Basen.
+6. 	4’-[(2-Ethyl-4-methyl-6-(5,6,7,8-tetrahydro-imidazo[1,2-a]-pyridin-2-yl)-benzimidazol-1-yl)-methyl]-biphenyl-2-carbonsäure und dessen Salze mit anorganischen oder organischen Säuren oder Basen.
+7. 	Physlologisch verträgliche Salze der Verbindungen nach mindestens einem der Ansprüche 1 bis 6 mit anorganischen oder organischen Säuren oder Basen.
+8. 	Arzneimittel, enthaltend eine Verbindung nach mindestens einem der Anspruche 1 bis 6 oder ein physiologisch verträgliches Salz gemäß Anspruch 7 neben gegebenenfalls einem oder mehreren inerten Trägerstoffen und/oder Verdünnungsmitteln.
+9. 	Verwendung einer Verbindung nach mindestens einem der Ansprüche 1 bis 7 zur Herstellung eines Arzneimittels mit Angiotensin-antagonistischer Wirkung.
+10.	Verfahren zur Herstellung eines Arzneimittels gemäß Anspruch 8, dadurch gekennzeichnet, dass auf nichtchemischem Wege eine Verbindung nach mindestens einem der Ansprüche 1 bis 7 in einen oder mehrere inerte Trägerstoffe und/oder Verdünnungsmittel eingearbeitet wird.
+***
+Mit Antrag vom 30.12.2011 begehrte die Antragstellerin einen Teilverzicht gemäß § 46 PatG und legte zu diesem Zweck einen abgeänderten Anspruchssatz bestehend aus 10 Ansprüchen vor. Die Abänderungen betrafen die ursprünglichen Ansprüche 1 bis 4 (nunmehr Ansprüche 1 bis 3 [in Anspruch 3 wurden die Verbindungen gemäß (d) und (l) gestrichen]) und den ursprünglichen Anspruch 8 (nunmehr Anspruch 7).
+Mit dem angefochtenen Beschluss wies das Patentamt den Teilverzicht zurück und sprach aus, dass die bisherigen Patentansprüche 1 bis 11 aufrecht bleiben. Begründend wurde ausgeführt, dass im Antrag die Änderung des Anspruchs durch Aufnahme von Merkmalen aus der Beschreibung erfolgt sei. Die ständige Rechtsprechung des Patentamts folge der Überlegung, dass durch die Aufnahme von Merkmalen aus der Beschreibung eine Merkmalskombination entstehe, die weder recherchiert noch geprüft worden sei, und dass dadurch eine angemessene Rechtssicherheit für Dritte nicht mehr gegeben wäre, weil man sich nicht mehr auf den Schutzumfang einmal erteilter Ansprüche verlassen könnte. Durch die Nennung von weiteren, konkreten Wirkstoffen verschiebe sich der zentrale Gegenstand des Anspruchs von der allgemeinen Verbindung hin zur Wirkstoffkombination. Während zunächst nur die grundsätzliche Möglichkeit des Mischens mit weiteren Verbindungen offengelassen werde, so wäre nun die Wirkstoffkombination der wesentliche Gegenstand des Anspruchs. Es liege somit eine Verschiebung des Erfindungsgegenstands vor. Die Abänderung des Anspruchs 7 (ursprünglich Anspruch 8) im Sinn eines Teilverzichts sei daher nicht zulässig.
+Gegen die ursprünglichen Ansprüche 1 bis 4 (nunmehr Ansprüche 1 bis 3) bestünden keine Bedenken.
+Dagegen richtet sich nunmehr die an die Rechtsmittelabteilung des Patentamts gerichtete Beschwerde der Antragstellerin, die nach der Gesetzesänderung durch die Patent- und Markenrechts-Novelle 2014, BGBl I 2013/126, ab 1.1.2014 als Rekurs zu werten ist, über den das Oberlandesgericht Wien zu entscheiden hat (§ 176b Abs 1 Z 1 PatG). Beantragt wird, eine mündliche Verhandlung anzuberaumen, den angefochtenen Beschluss aufzuheben und den Teilverzicht zur Kenntnis zu nehmen sowie die Beschwerdegebühr zurückzuerstatten.
+Rechtliche Beurteilung
+Der Rekurs ist berechtigt.
+1. Verfahrensgesetze sind, sofern nicht ausdrücklich eine andere Regelung getroffen wurde, immer nach dem letzten Stand anzuwenden (RIS-Justiz RS0008733). § 139 PatG ordnet die sinngemäße Anwendung des AußStrG an.
+Eine mündliche Verhandlung findet im Rekursverfahren nach § 52 Abs 1 erster Satz AußStrG nur statt, wenn sie das Rekursgericht für erforderlich erachtet. Selbst bei Vorliegen eines Antrags ist eine Verhandlung nicht zwingend vorzunehmen (RIS-Justiz RS0120357; zustimmend Klicka in Rechberger, AußStrG² § 52 Rz 1).
+Besondere Sachverhaltsfragen stellen sich hier nicht, und auch die Rechtslage ist nicht von besonderer Komplexität. Die Beurteilung der Einschränkung eines Patents erfolgt rein durch Auslegung der jeweiligen Patentansprüche. Aus diesem Grund steht Artikel 6 MRK dem Unterbleiben einer Verhandlung nicht entgegen.
+2.1 Gegenstand der vorzunehmenden Prüfung ist ausschließlich der beantragte Teilverzicht auf das dem Patentinhaber bereits erteilte Patent, insbesondere in Bezug auf seine Begründetheit und Zulässigkeit. Dabei wird unmittelbar am erteilten Patent angeknüpft, wobei die materielle Verfügungsbefugnis des Patentinhabers über sein Schutzrecht anerkannt und demzufolge der Rechtsbestand des Patents per se nicht in Frage gestellt wird. Grundsätzlich bedeutet die Registrierung des Patents einen – allenfalls durch Gegenbeweis entkräftbaren – prima-facie-Beweis für die Rechtsbeständigkeit (RIS-Justiz RS0071369 ua).
+2.2 § 91 Abs 3 PatG ermöglicht Änderungen der Beschreibung und der Patentansprüche im Erteilungsverfahren vor der Fassung des Erteilungsbeschlusses. Ein Verzicht auf das schon erteilte Patent ist aber auch davon unabhängig jedenfalls zulässig (§ 46 Abs 1 Z 3 PatG). Betrifft der Verzicht nur einzelne Teile des Patents, so bleibt das Patent in seinen übrigen Teilen aufrecht, sofern diese noch den Gegenstand eines selbstständigen Patents bilden können (vgl 17 Ob 26/08k, Op 1/13).
+2.3 Nach Art 69 EPÜ wird der Schutzbereich europäischer Patente durch den Inhalt der Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen. Zu achten ist insbesondere auf die Formulierung der (kennzeichnenden Teile der) Patentansprüche: Diese können abschließend oder mehr oder weniger offen textiert sein.
+Im konkreten Fall lautete der Anspruch 8 wie folgt: „Arzneimittel, enthaltend eine Verbindung nach mindestens einem der Ansprüche 1 bis 6 oder ein physiologisch verträgliches Salz gemäß Anspruch 7 neben gegebenenfalls einem oder mehreren inerten Trägerstoffen und/oder Verdünnungsmitteln.“
+Durch den nunmehr beantragten Anspruch 7 erfolgt aus der Nennung der Kombination mit weiteren Wirksubstanzen, nämlich Bendroflumethiazid, Chlorthiazid, Hydrochlorthiazid, Spironolacton, Benzthiazid, Cyclothiazid, Ethacrinsäure, Furosemid, Metoprolol, Prazosin, Atenolol, Propranolol (Di)hydralazin-hydrochlorid, Diltiazem, Felodipin, Nicardipin, Nifedipin, Nisodipin oder Nitrendipin, neben gegebenenfalls einem oder mehreren inerten Trägerstoffen und/oder Verdünnungsmitteln, eine Einschränkung, weil die bisher (nur) in der Methodenbeschreibung genannten Wirksubstanzen (Seite 12 Zeile 55 und Seite 13 Zeilen 5 ff und 10 der EP 0 502 314 B1) nunmehr in den kennzeichnenden Teil des Patentanspruchs aufgenommen wurden. Der Schutzbereich wurde daher kleiner als der eines Anspruchs für den Gegenstand per se (vgl E der großen Beschwerdekammer G 2/88 = GRURInt 1999, 522 – reibungsverringernder Zusatz).
+Durch den verkleinerten Schutzbereich wurde auch die ursprüngliche Offenbarung nicht überschritten (vgl 17 Ob 26/08k – Pantoprazol; 17 Ob 24/09t – Nebivolol; Op 1/13 ua): Die nunmehr in Anspruch 7 angeführten Wirksubstanzen als Kombinationsmittel waren bereits in der Beschreibung des ursprünglichen Patents EP 0 502 314 B1 enthalten. Durch ihre Aufnahme in den Anspruch wurde die ursprüngliche Offenbarung daher nicht verletzt.
+Unter diesen Voraussetzungen – keine Überschreitung der ursprünglichen Offenbarung und keine Erweiterung des Schutzbereichs – wäre selbst ein Kategoriewechsel zulässig (vgl 17 Ob 26/08k).
+Darüber hinaus ist der nunmehr beantragte Arzneimittelanspruch 7 auf die Kombinationspräparate aus einem Wirkstoff aus den Patentansprüchen 1 bis 6 und einem weiteren Wirkstoff aus einer stofflich bestimmt eingehaltenen Anzahl bereits bekannter Wirkstoffe beschränkt. Diese stofflich bestimmt eingehaltene Anzahl der mit den erfindungsgemäßen Wirkstoffen zu kombinierenden bereits bekannten Wirkstoffe ist als Teilgegenstand der Erfindung in der Beschreibung des Patents angeführt (siehe Seite 12 Zeile 55 und Seite 13 Zeilen 5 ff und 10 der EP 0 502 314 B1).
+2.4 Durch die Wortwahl „enthaltend“ ist eine offene Anspruchsformulierung gewählt worden. Daher bewirkt die nunmehr im Patentanspruch beantragte explizite Beschränkung des erteilten Arzneimittelanspruchs 8 auf Kombinationswirkstoff-Präparate kein unzulässiges Aliud, sondern eine Einschränkung. In der konkret vermittelten Lehre zur Dosierung der Wirkstoffe in dieser kombinierten Formulierung, anstelle gesonderter Formulierungsbeispiele (in der Beschreibung), kommt der Teilgegenstand der patentgemäßen Erfindung zweifelsfrei zum Ausdruck. Dieser Teilgegenstand wird darüber hinaus vom erteilten Patentanspruch 8 erfasst, und zwar aufgrund der Wendung „enthaltend“.
+Es bestehen daher keine Bedenken, die Kombinationspräparate dann zu übernehmen, wenn der Patentgegenstand im erteilten Anspruch offen formuliert ist und der auf die reinen Stoffansprüche rückbezogene Arzneimittelanspruch dann außer Frage steht, sowie wenn diese Kombinationspräparate und die zu kombinierenden Wirkstoffe in der Beschreibung als zur betreffenden Erfindung gehörend offenbart sind (vgl BGH-Entscheidung „Piperazinoalkylpyrazole“, GRUR 1977, 212).
+2.5 Das Rekursgericht teilt die Einschätzung des Patentamts nicht, dass dadurch eine Merkmalskombination entstehe, die weder recherchiert noch geprüft worden sei, und dass dadurch keine angemessene Rechtssicherheit für Dritte gegeben sei, die sich nicht mehr auf den Schutzumfang einmal erteilter Ansprüche verlassen könnten. Der Schutzbereich des Patents wurde nicht erweitert, weil die Änderung der Patentansprüche eine Beschränkung bewirkt. Die ursprüngliche Offenbarung des Patents wurde auch nicht verletzt (überschritten), weil die Wirkstoffkombinationen bereits in der Beschreibung genannt waren. Durch die Aufnahme in den kennzeichnenden Teil wird der Erfindungsgegenstand nur präzisiert (und nicht verschoben).
+3. Ein Kostenersatz findet nach § 139 Z 7 PatG nicht statt.
+4. Gegen diese Entscheidung ist kein weiterer Rechtszug vorgesehen. Ein Ausspruch über den Wert des Entscheidungsgegenstands kann daher entfallen.
+European Case Law Identifier
+ECLI:AT:OLG0009:2014:03400R00034.14S.0819.000

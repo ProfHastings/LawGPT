@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2022
+Geschäftszahl
+4Ob129/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, MMag. Matzka und die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Parteien 1. Mag. R* S*, 2. V* S*, und 3. R* S*, alle vertreten durch Mag. Sylvia Weiländer, Rechtsanwältin in Wien, gegen die beklagte Partei E* E*, vertreten durch Dr. David Christian Bauer, Rechtsanwalt in Wien, als bestellter Verfahrenshelfer, wegen 13.164,96 EUR sA und Räumung, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse: 8.351,80 EUR sA und Räumung) gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 20. April 2022, GZ 39 R 127/22y-28, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der Beklagte hat eine ordentliche Revision samt Abänderungsantrag nach § 508 ZPO eingebracht. Eines Antrags auf Abänderung des Ausspruchs des Berufungsgerichts über die Unzulässigkeit der Revision gemäß § 508 Abs 1 ZPO bedurfte es im vorliegenden Fall jedoch nicht, weil eine Streitigkeit im Sinn des § 49 Abs 2 Z 5 JN vorliegt (§ 502 Abs 5 Z 2 ZPO). Hat das Berufungsgericht in einem solchen Fall die Revision für nicht zulässig erklärt, kommt nur das Rechtsmittel der außerordentlichen Revision in Betracht. Die mit dem Antrag nach § 508 Abs 1 ZPO verbundene Revision kann in eine außerordentliche Revision nach § 505 Abs 4 ZPO umgedeutet werden (RS0110049, RS0123405).
+[2] 			2. Ein in zweiter Instanz verneinter Mangel des Verfahrens erster Instanz ist in dritter Instanz nicht mehr anfechtbar (RS0042963).
+[3] 		3. Der Beklagte begründet die Zulässigkeit seiner außerordentlichen Revision mit der Frage, ob die Judikatur zu behördlichen Schließungen im Rahmen von Maßnahmen zur Verhinderung der Verbreitung von COVID-19 bei der Geschäftsraummiete auch zu einer Mietzinsbefreiung für Wohnungsmieter führen könne, wenn der Mieter pandemiebedingt nicht in der Lage sei, für den Mietzins aufzukommen. Damit zeigt der Beklagte keine erhebliche Rechtsfrage auf. Trotz Fehlens einer ausdrücklichen Rechtsprechung des Obersten Gerichtshofs zu einer konkreten Fallgestaltung liegt dann keine erhebliche Rechtsfrage vor, wenn das Gesetz selbst eine klare, das heißt eindeutige Regelung trifft (RS0042656).
+[4] 		3.1. Zu den in § 1104 ABGB ausdrücklich genannten Elementarereignissen gehört die „Seuche“ und somit auch COVID-19. Die aus dem Elementarereignis resultierenden hoheitlichen Eingriffe (Betretungsverbote für bestimmte Geschäftslokale) hatten zur Folge, dass diese Objekte „gar nicht gebraucht oder benutzt werden“ konnten (RS0133812). Eine gänzliche oder teilweise Unbrauchbarkeit kann zu einer – gänzlichen oder teilweisen – Mietzinsminderung gemäß §§ 1104 f ABGB führen.
+[5] 		Diese gesetzliche Regelung hat bereits nach ihrem eindeutigen Wortlaut – der auf die Unbrauchbarkeit der Bestandsache selbst abstellt – mit einer sonstigen pandemiebedingten finanziellen Notlage nichts zu tun.
+[6] 		3.2. Der Gesetzgeber hat im Übrigen im 2. COVID-19-Justiz-Begleitgesetz – 2. COVID-19-JuBG, Art 37, § 1 einen zeitlich limitierten Kündigungs- und Räumungsschutz geschaffen, der Zahlungsrückstände als Folge der COVID-19-Pandemie im Zeitraum vom 1. April 2020 bis 30. Juni 2020 berücksichtigt. Diese Sonderregelung wurde vom Gesetzgeber für spätere Mietzinsperioden jedoch nicht mehr erlassen.
+[7] 		4. Die Revision war daher spruchgemäß zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00129.22G.0923.000

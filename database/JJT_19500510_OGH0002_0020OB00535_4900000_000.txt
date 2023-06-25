@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.05.1950
+Geschäftszahl
+2Ob535/49
+Norm
+EO §1 Z7;
+KO §61;
+KO §102;
+KO §104;
+KO §105;
+KO §109;
+KO §172;
+ZPO §6;
+ZPO §37;
+ZPO §38;
+ZPO §94;
+ZPO §477 Abs1 Z5;
+Kopf
+SZ 23/145
+Spruch
+Der Zustellungsbevollmächtigte nach § 104 Abs. 3 KO. ist zur Empfangnahme gerichtlicher Schriftstücke befugt, kann aber nicht selbständig Prozeßhandlungen vornehmen, also auch nicht Forderungen im Konkurs anmelden.
+Das Anerkenntnis einer unbestrittenen und eingetragenen Forderung durch den Masseverwalter hat die Wirkungen eines rechtskräftigen Urteiles über den Bestand der Forderung, aber nur, wenn die Forderungsanmeldung von einer vertretungsbefugten Person erstattet worden ist. Die Beurteilung der prozessualen Vorfrage der Vertretungsbefugnis kann im Zuge des Konkursverfahrens anläßlich eines Rechtsmittels auch nach dem Eintritt dieser Rechtskraftwirkung vorgenommen werden.
+Entscheidung vom 10. Mai 1950, 2 Ob 535/49.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Der Masseverwalter hat den Antrag gestellt, die Forderungsanmeldungen des Dr. Z. H. für eine Reihe von Gläubigern als nichtig zurückzuweisen. Dr. Z. H. sei für die in Frage kommenden Gläubiger bloß zum Zustellungsbevollmächtigten nach § 104 Abs. 3 KO. bestellt worden und deshalb zur Forderungsanmeldung nicht befugt gewesen. Der Mangel an Vertretungsbefugnis mache seine Forderungsanmeldungen nichtig.
+Das Erstgericht hat den Antrag abgewiesen und den Standpunkt vertreten, daß der gerügte Mangel, wenn er überhaupt vorhanden war, geheilt sei. Soweit der Masseverwalter die von Dr. Z. H. angemeldeten Forderungen anerkannt habe, stehe sein Anerkenntnis einem zivilgerichtlichen Urteil in seiner Rechtskraft-, Tatbestands- und Vollstreckungswirkung gleich. Soweit aber der Masseverwalter die von Dr. Z. H. angemeldeten Forderungen bestritten habe, sei deren Bestand ohnedies vom Ausgang der allfälligen Prüfungsprozesse abhängig.
+Infolge Rekurses des Masseverwalters hob das Rekursgericht den erstgerichtlichen Beschluß auf und trug dem Erstgericht auf, über die Nichtigkeit der Anmeldungen erst nach Setzung einer angemessenen Frist zur Heilung der wahrgenommenen Mängel zu entscheiden. Dr. Z. H. sei als bloßer Zustellungsbevollmächtiger nach § 104 Abs. 3 KO. anzusehen und in dieser Eigenschaft zur Anmeldung von Gläubigerforderungen und zum Kostenbegehren nicht befugt gewesen. Wenngleich der Masseverwalter einen Teil der angemeldeten Forderungen anerkannt habe, könne nach der allgemeinen Regel des § 6 ZPO. auch ohne Verweisung auf den Rechtsweg die von Amts wegen wahrzunehmende Nichtigkeit infolge Mangels der Vertretungsmacht im Zuge des Konkursverfahrens behoben werden. Es sei aber die Möglichkeit gegeben, den Mangel zu heilen.
+Der Oberste Gerichtshof hat dem Revisionsrekurs des Masseverwalters nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Masseverwalter vertritt die Meinung, es habe einer Aufhebung des erstgerichtlichen Beschlusses gar nicht bedurft, sondern die Forderungsanmeldungen des Dr. Z. H. stellten sich als Anmeldungen einer Person dar, der im Konkursverfahren die Parteifähigkeit abgehe, weil Dr. Z. H. weder Konkursgläubiger, noch Vertreter eines solchen sei. Entgegen der Rechtsansicht des Dr. Z. H. ist zwar die Ansicht des Rekursgerichtes, Dr. Z. H. sei nur zum Zustellungsbevollmächtigten, nicht aber zum Abwesenheitskurator nach § 276 ABGB. für verschiedene Gläubiger bestellt worden, zutreffend. Denn wenn auch der Wortlaut des Bestellungsbeschlusses vom 7. September 1948 in der Umschreibung der Befugnisse des Dr. Z. H. zu Zweifeln Anlaß geben könnte, geht doch aus der unmißverständlichen Zitierung des § 104 Abs. 3 KO. und dem Gebrauche des Wortes "Zustellungsbevollmächtigter" sowie aus dem ganzen Zusammenhang hervor, daß an eine Kuratorbestellung im Sinne des § 276 ABGB. vom Erstgerichte nicht gedacht worden ist. Hiezu wäre das Konkursgericht gar nicht zuständig gewesen. Auch wenn sich beim Konkursgericht und beim Masseverwalter nachträglich eine irrige Meinung über die rechtliche Stellung des Dr. Z. H. herausgebildet haben sollte, vermöchte dies seine Befugnisse als Zustellungsbevollmächtigter nicht zu erweitern. Der Zustellungsbevollmächtigte nach § 104 Abs. 3 KO. ist zur Empfangnahme gerichtlicher Schriftstücke befugt (§§ 172 KO., 94 Abs. 1 ZPO.), kann aber nicht selbständig Prozeßhandlungen vornehmen, also auch nicht Forderungen im Konkurs anmelden.
+Der prozessuale Mangel aber, an dem die Forderungsanmeldungen des Dr. Z. H. und die Erklärungen des Masseverwalters dazu leiden, bezieht sich entgegen der Ansicht des Masseverwalters nicht auf die Parteifähigkeit. Denn es kann kaum angezweifelt werden, daß die Personen, in deren Namen Dr. Z. H. angemeldet hat, rechts- und daher parteifähig sind. Die vom Rekursgericht angenommene Nichtigkeit betrifft vielmehr die Vertretungsmacht des Dr. Z. H., sei es als Abwesenheitskurator und damit gesetzlichen Vertreters, sei es als gewillkürten Bevollmächtigten. In beiden Fällen (§§ 172 KO., 6 Abs. 1, 2, 37 Abs. 1, 38 Abs. 2 ZPO.) kann die Nichtigerklärung des vom Mangel betroffenen Verfahrens erst nach dem Versuch seiner Sanierung ausgesprochen werden (§ 477 Abs. 1 Z. 5 ZPO.). Zu diesem Zweck war es gesetzentsprechend, den erstgerichtlichen Beschluß aufzuheben und Dr. Z. H. Gelegenheit zu geben, seine Vertretungsmacht oder die Genehmigung seiner prozessualen Schritte nachträglich zu erlangen und darzutun.
+Soweit der Masseverwalter die von Dr. Z. H. angemeldeten Forderungen anerkannt hat, ist dieses Anerkenntnis allerdings mit den Wirkungen eines rechtskräftigen Urteiles über den Bestand der Forderung ausgestattet (§§ 105 Abs. 3, 109 Abs. 1 KO., Bartsch - Pollak, I, S. 490, Bartsch, Grundriß 2. Aufl., S. 120; E. v. 1. Februar 1927, SZ. IX/17, einschränkend E. v. 5. Mai 1937, SZ. XIX/156). Allein diese als Entscheidung eines Zwischenstreites anzusehende Anerkennung durch den Masseverwalter liegt nicht auf derselben rechtlichen Ebene wie das Konkursverfahren selbst. Nur in diesem ist die prozessuale Frage zu lösen, ob eine Forderungsanmeldung von einer vertretungsbefugten Person erstattet worden ist. Denn diese Entscheidung ist überhaupt erst die Voraussetzung dafür, daß der Masseverwalter seine Anerkennung wirksam abgeben, daß somit über die angemeldete Forderung entschieden werden kann. Die Beurteilung der prozessualen Vorfrage der Vertretungsbefugnis eines Zustellungsbevollmächtigten zum Zweck der Forderungsanmeldung ist somit aus der Rechtskraftwirkung der Anerkennung durch den Masseverwalter herausgehoben und kann im Zuge des Konkursverfahrens anläßlich eines Rechtsmittels auch nach dem Eintritt dieser Rechtskraftwirkung vorgenommen werden.

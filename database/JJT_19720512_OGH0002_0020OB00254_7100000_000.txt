@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.05.1972
+Geschäftszahl
+2Ob254/71
+Norm
+ABGB §1323;
+ABGB §1333;
+ABGB §1334;
+Kopf
+SZ 45/63
+Spruch
+Die vom Geschädigten im Interesse des Schädigers aufgewendeten Kosten der Schadensbehebung fallen nicht unter den durch die Verzugszinsen pauschalierten Schadenersatz, sondern stellen einen Teil des dem Geschädigten als Folge der Beschädigung entstandenen Schadens dar
+OGH 12. 5. 1972, 2 Ob 254/71 (OLG Innsbruck 2 R 99/71; LG Innsbruck 1 Cg
+26/70)
+Text
+Der Kläger verlangt vom Beklagten Zahlung eines Schadenersatzbetrages von S 167.971.- samt 9% Zinsen aus S 163.030.- vom 1. 3. 1967 bis 15. 11. 1967 und aus S 167.971.- ab 16. 11. 1967 mit der Behauptung, der Beklagte habe diesen Unfall verschuldet.
+Der Beklagte beantragte Abweisung des Klagebegehrens mit der Behauptung, der Lenker Josef P habe den Unfall verschuldet.
+Das Erstgericht verurteilte den Beklagten zur Zahlung von S 157.671.- samt 9% Zinsen seit 1. 3. 1967, wobei es von einem Alleinverschulden des Beklagten ausging. Das Mehrbegehren von S 10.300.- wies es ab.
+Das Berufungsgericht änderte das Ersturteil im Ausspruch über die Zinsen dahin ab, daß es dem Kläger 9% Zinsen nur aus S 152.730.- vom 9. 8. 1967 bis 15. 11. 1967 und aus S 157.671.- ab 16. 11. 1967 zuerkannte und das darüber hinaus gehende Zinsenmehrbegehren abwies.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Im Revisionsverfahren ist nur mehr die Verschuldensfrage und die Berechtigung eines über 4% hinausgehenden Zinsenbegehrens strittig.
+Der Kläger nützt seit 9. 12. 1966 ununterbrochen einen den Klagsbetrag übersteigenden Kredit der Bank für Arbeit und Wirtschaft aus, den er mit 9% zu verzinsen hat.
+Die Vorinstanzen waren übereinstimmend der Ansicht, daß dem Beklagten ein Verstoß gegen die Bestimmungen der §§ 7 und 10 StVO 1960 anzulasten sei, während dem Fahrer des Klägers weder ein Verstoß gegen eine Verkehrsvorschrift noch ein fahrtechnisch unrichtiges Verhalten nachgewiesen werden könne, sodaß für eine Schadensteilung kein Anlaß bestehe.
+Zur Frage des Zinsenbegehrens vertrat das Berufungsgericht die Auffassung, daß dem Kläger 9% Zinsen ab Klagstag ohne Rücksicht auf den Grad des Verschuldens des Beklagten an dem Zahlungsverzug gebühren, weil die vom Geschädigten zur Schadensbehebung zweckmäßig aufgewendeten Mittel zu ersetzen seien, zu denen auch die Zinsen für verwendetes Fremdkapital zu zählen seien.
+Die Rechtsrüge ist nicht gerechtfertigt. Soweit darin ausgeführt wird, daß auf Grund der getroffenen Feststellungen ein "wesentliches Mitverschulden" des Klägers anzunehmen gewesen wäre, ist sie nicht gesetzmäßig ausgeführt, denn sie geht nicht vom festgestellten Sachverhalt aus. Der Beklagte legt der Beurteilung der Frage, ob der Fahrer des Klägers auf Sicht gefahren sei oder eine nach den Umständen unzulässig hohe Geschwindigkeit eingehalten habe, willkürlich eine Sichtweite von nur 20 m zugrunde, obwohl eine solche von 25 bis 30m festgestellt ist, die also jedenfalls größer ist als der mit 22.9 m ermittelte Anhalteweg des Fahrzeuges des Klägers. Mit der Behauptung, es wäre auf Grund der Parteienaussage des Beklagten mit einer Sichtweite von nur 20 m auszugehen gewesen, wird also wieder nur ein unzulässiger Angriff auf die Beweiswürdigung unternommen. Damit geht aber auch das weitere Vorbringen, unter diesen Umständen könne dem Beklagten ein Verstoß gegen die Bestimmungen der §§ 7 Abs 1 und 2, 10 StVO 1960 nicht angelastet werden ins Leere.
+Schließlich kann dem Beklagten auch darin nicht gefolgt werden, daß dem Kläger nur die gesetzlichen Verzugszinsen zuzusprechen gewesen wären. Wie der Oberste Gerichtshof wiederholt ausgesprochen hat (2 Ob 358/69. EvBl 1970/92, 2 Ob 51/71, 8 Ob 109/71), ist der Schädiger gemäß § 1323 ABGB, um den Ersatz eines verursachten Schadens zu leisten, verpflichtet, alles in den vorigen Stand zurückzuversetzen oder bei Untunlichkeit den Schätzungswert zu vergüten. Die Regel, daß der Schädiger den Zustand wiederherzustellen hat, der ohne das schädigende Ereignis bestanden hätte, ist im Haftpflichtrecht vielfach unanwendbar, sodaß die Behebung des Schadens dem Geschädigten überlassen bleibt, jedoch zu Lasten des Schädigers oder des sonst Ersatzpflichtigen geht. Dieser hat demgemäß für die zur Schadensbehebung zweckmäßig aufgewendeten Mittel aufzukommen und die Kosten für die Beschaffung der erforderlichen Mittel zu tragen. Darunter fallen auch die Zinsen für die Verwendung von Fremdkapital. Arbeitet der Kläger - wie hier festgestellt - mit Bankkredit, der den zuerkannten Schadenersatzbetrag übersteigt und mit 9% zu verzinsen ist, dann hat der Beklagte für diesen Aufwand als Schadenersatzpflichtiger aufzukommen. Die vom Geschädigten im Interesse des Schädigers aufgewendeten Kosten der Schadensbehebung fallen also nicht unter den durch die Verzugszinsen pauschalierten Schadenersatz, sondern stellen einen Teil des dem Kläger als Folge der Beschädigung entstandenen Schadens dar. Die oben zitierte Rechtsprechung bedeutet daher kein Abgehen von dem Grundsatz, daß über das gesetzliche Ausmaß von 4% hinausgehende Zinsen nur im Falle der Absicht oder einer auffallenden Sorglosigkeit des Schuldners zu ersetzen sind (vgl dazu 2 Ob 358/69, wo auf den erwähnten Unterschied ausdrücklich Bedacht genommen wurde). Daß der Kläger sich damit begnügt hat, 9% Zinsen zu begehren und eine Bankbestätigung vorzulegen, die die Inanspruchnahme eines den Klagsbetrag übersteigenden, mit 9% zu verzinsenden Kredites betrifft, ohne dazu weitere Ausführungen zu machen, kann zu keiner anderen Beurteilung führen. Es kann nämlich davon ausgegangen werden, daß der Kläger bei sofortigem Ersatz seines Schadens den Bankkredit um den Betrag dieses Ersatzes hätte senken und sich dadurch der entsprechenden Zinsenlast entledigen können. Daß der Kläger den Schaden durch Verwendung billigeren Geldes hätte geringer halten können, hat der Beklagte nicht behauptet. Für eine Verletzung der Schadensminderungspflicht wäre aber er behauptungs- und beweispflichtig gewesen.

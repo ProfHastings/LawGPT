@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.12.2022
+Geschäftszahl
+1Ob239/22m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei N* F*, vertreten durch Mag. Rainer Ebert, Rechtsanwalt in Hollabrunn, gegen die beklagte Partei D* A*, vertreten durch die Claus & Berthold Rechtsanwaltspartnerschaft KG in Mistelbach, wegen Ehescheidung, über (richtig:) den Rekurs, den Revisionsrekurs und die außerordentliche Revision der beklagten Partei gegen den Beschluss und das (Teil-)Urteil des Landesgerichts Korneuburg (als Berufungs- und Rekursgericht) vom 14. Juli 2022, GZ 20 R 149/22k-94, den
+Beschluss
+gefasst:
+Spruch
+1. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+2. Der in der Revision enthaltene Rekurs wird zurückgewiesen.
+3. Der Revisionsrekurs wird zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Das Berufungsgericht sprach dem Inhalt nach mit (richtig:) Teilurteil die Scheidung der Ehe der Parteien aus dem Verschulden des Beklagten (§ 49 EheG) aus (vgl zur Zulässigkeit RS0040735) und erklärte diesbezüglich die ordentliche Revision für nicht zulässig.
+[2] 		Das als außerordentliche Revision umzudeutende und zu behandelnde Rechtsmittel des Beklagten, der irrig eine Abänderung des Rechtsmittelzulässigkeitsausspruchs des Berufungsgerichts anstrebt (RS0110049), ist mangels erheblicher Rechtsfragen im Sinn des § 502 Abs 1 ZPO nicht zulässig. Dies bedarf gemäß § 510 Abs 3 Satz 3 ZPO keiner weiteren Begründung.
+[3] 		2. Das Berufungsgericht erachtete die Frage der Mitschuld der Klägerin und die allfällige Gewichtung der Verschuldensanteile noch als erörterungsbedürftig (vgl RS0040735) und hob mit Beschluss den Ausspruch des Erstgerichts, dass (auch) die Klägerin ein Verschulden an der Zerrüttung der Ehe treffe, auf.
+[4] 		Auch gegen diesen Teil der Entscheidung richtet sich das als „Revision“ bezeichnete Rechtsmittel des Beklagten. Insofern liegt ein Rekurs gegen einen Aufhebungsbeschluss des Berufungsgerichts vor, der absolut unzulässig ist:
+[5] 		Nach § 519 Abs 1 Z 2 ZPO ist gegen einen Beschluss der zweiten Instanz, mit dem ein erstinstanzliches Urteil aufgehoben und dem Erstgericht eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wurde, der Rekurs nur dann zulässig, wenn das Berufungsgericht dies ausgesprochen hat; in diesem Fall ist auch kein außerordentlicher Rekurs möglich (RS0043898). Im Anlassfall ist ein Ausspruch des Berufungsgerichts, dass gegen den Aufhebungsbeschluss der Rekurs an den Obersten Gerichtshof zulässig sei, nicht erfolgt. Auch aus der Beschlussbegründung ist kein Zulassungswille des Berufungsgerichts im Sinn des § 519 Abs 1 Z 2 ZPO wegen Vorliegens der Voraussetzungen nach § 502 ZPO erkennbar (§ 519 Abs 2 ZPO), aus dem geschlossen werden könnte, dass ein Ausspruch über die Zulässigkeit des Rekurses an den Obersten Gerichtshof im Spruch des Aufhebungsbeschlusses bloß versehentlich unterblieben wäre (vgl RS0043986 [T10]).
+[6] 		Der in der „Revision“ enthaltene Rekurs ist daher zurückzuweisen.
+[7] 		3. Das Erstgericht sprach dem Beklagten als Gegner der gefährdeten Partei Kosten eines vorangegangenen Sicherungsverfahrens zu.
+[8] 		Dem gegen den 383,40 EUR übersteigenden Kostenzuspruch gerichteten Rechtsmittel der Klägerin als gefährdeter Partei im Sicherungsverfahren gab das Gericht zweiter Instanz als Rekursgericht Folge und hob den angefochtenen Zuspruch der Kosten ersatzlos auf. Es sprach aus, dass der Revisionsrekurs gemäß § 528 Abs 2 Z 3 ZPO jedenfalls unzulässig sei.
+[9] 		Der dagegen erhobene Revisionsrekurs des Beklagten ist zurückzuweisen. Rechtsmittel an den Obersten Gerichtshof gegen Entscheidungen des Gerichts zweiter Instanz im Kostenpunkt sind ausnahmslos unzulässig (§ 528 Abs 2 Z 3 ZPO; vgl RS0044228; RS0044233; RS0053407).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00239.22M.1220.000

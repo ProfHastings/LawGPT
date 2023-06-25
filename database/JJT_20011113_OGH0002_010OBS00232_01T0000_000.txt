@@ -1,0 +1,54 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.11.2001
+Geschäftszahl
+10ObS232/01t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Bauer als Vorsitzenden, die Hofräte des Obersten Gerichtshofes Dr. Steinbauer und Dr. Hoch sowie die fachkundigen Laienrichter Mag. Waltraud Bauer und Dr. Peter Wolf (beide aus dem Kreis der Arbeitgeber) als weitere Richter in der Sozialrechtssache der klagenden Partei Maria S*****, vertreten durch DDr. Heinz Mück und andere Rechtsanwälte in Linz, gegen die beklagte Partei Sozialversicherungsanstalt der Bauern, 1031 Wien, Ghegastraße 1, im Revisionsverfahren nicht vertreten, wegen Bemessung der vorzeitigen Alterspension wegen Erwerbsunfähigkeit, infolge Revision der klagenden Partei gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 27. März 2001, GZ 11 Rs 41/01f-15, womit infolge Berufung der klagenden Partei das Urteil des Landesgerichtes Steyr als Arbeits- und Sozialgericht vom 12. September 2000, GZ 24 Cgs 126/00a-9, bestätigt wurde, in nichtöffentlicher Sitzung zu Recht erkannt:
+Spruch
+Der Revision wird nicht Folge gegeben.
+Die Klägerin hat die Kosten ihres Rechtsmittels selbst zu tragen.
+Text
+Entscheidungsgründe:
+Die am 5. 9. 1942 geborene Klägerin führte von 1. 8. 1991 bis 31. 12. 1999 einen land- und forstwirtschaftlichen Betrieb mit einem Einheitswert von S 151.000. Sie erwarb in der Zeit von 1. 10. 1957 bis 31. 12. 1999 insgesamt 323 für die Pensionsleistung zu berücksichtigende Versicherungsmonate. Darin enthalten sind 196 Ersatzmonate für Zeiten der Kindererziehung ohne zeitliche Deckung. In dem für die Berechnung der Bemessungsgrundlage zu berücksichtigenden Beitragszeitraum erwarb die Klägerin ab dem erstmaligen Eintritt in die Pflichtversicherung 127 Beitragsmonate.
+Die Bemessungsgrundlage, die sich daraus aufgrund der monatlichen Gesamtbeitragsgrundlagen nach entsprechender Aufwertung und Vervielfachung mit den maßgeblichen Beitragsbelastungsfaktoren ergibt (§ 113 Abs 1 BSVG), beträgt für die Zeit der 127 Beitragsmonate (= 323 Versicherungsmonate abzüglich 196 Kindererziehungsmonate ohne zeitliche Deckung) - unstrittig - S 16.345, die (feste) Bemessungsgrundlage für die Zeiten der Kindererziehung beträgt S
+8.312 (§ 114 Abs 1 BSVG iVm § 141 Abs 1 lit a sublit bb BSVG) und der (reduzierte) Steigerungsbetrag (§ 116 BSVG iVm § 130 Abs 1, 2 und 4 BSVG) steht mit 48,333 % außer Streit.
+Mit Bescheid vom 7. 3. 2000 erkannte die beklagte Partei der Klägerin ab 1. 1. 2000 eine vorzeitige Alterspension wegen Erwerbsunfähigkeit in der monatlichen Höhe von S 5.544,30 brutto zu. Die beklagte Partei ging dabei von einer Gesamtbemessungsgrundlage von S 11.471 aus, die wie folgt errechnet wurde:
+Bemessungsgrundlage für die Zeit der Beitragsmonate
+S 16.345 x 127                                S 2,075.815
+Bemessungsgrundlage für die Zeiten der Kindererziehung
+S 8.312 x 196                                 S 1,629.152
+S 3,704.967
+Diese Summe der Bemessungsgrundlagen von S 3,704.967 geteilt durch die 323 Versicherungsmonate ergebe eine Gesamtbemessungsgrundlage von S 11.471, sodass sich unter Berücksichtigung der Steigerungspunkte von 48,333 eine Bruttopension von S 5.544,30 errechne.
+Das Erstgericht wies die allein gegen die Ermittlung der Gesamtbemessungsgrundlage gerichtete Klage im Wesentlichen mit der Begründung ab, dass die beklagte Partei die Pensionshöhe richtig berechnet habe. Nachdem für Kindererziehungszeiten keine Beiträge zu entrichten seien, gebe es für diese Zeiten auch keine Beitragsgrundlagen. Die §§ 113 und 114 BSVG könnten daher nicht vermengt oder "kombiniert" werden. Für die Ermittlung der Gesamtbemessungsgrundlage gemäß § 116 BSVG sei daher einerseits die Bemessungsgrundlage gemäß § 113 BSVG mit 127 Versicherungsmonaten zu multiplizieren, andererseits die Bemessungsgrundlage gemäß § 114 BSVG von S 8.312,-- mit 196 Monaten der Kindererziehung. Die sich daraus ergebende Summe sei durch 323 Versicherungsmonate zu dividieren. Die Gesamtbemessungsgrundlage sei daher richtig errechnet worden.
+Das Berufungsgericht bestätigte dieses Urteil. In rechtlicher Hinsicht hielt es zunächst fest, die Klägerin habe nunmehr akzeptiert, dass die gemäß § 130 Abs 2 BSVG ermittelte Summe der Steigerungspunkte wegen der frühen Inanspruchnahme der Leistung entsprechend zu vermindern sei, sodass der maßgebliche Prozentsatz (48,333) außer Streit stehe. Zu der von der Klägerin weiter aufrechterhaltenen Rechtsansicht, 53 Monate der Kindererziehungszeiten müssten bei der Bildung der Bemessungsgrundlage nach § 113 BSVG berücksichtigt werden, führte das Berufungsgericht aus wie folgt: In dieser Bestimmung sei, wie schon das Erstgericht zutreffend betont habe, nur von Beitragsgrundlagen iSd § 118 BSVG und - wie zu ergänzen sei - von Beitragsmonaten die Rede. Der zweite Satz des § 113 Abs 1 BSVG treffe gerade für Fälle wie den vorliegenden (weniger als 180 Beitragsmonate) eine ausdrückliche Regelung für die Bildung der Bemessungsgrundlage. Dabei werde auf die Summe der monatlichen Gesamtbeitragsgrundlagen (nicht zu verwechseln mit der Gesamtbemessungsgrundlage nach § 116 BSVG) aus den vorhandenen Beitragsmonaten, geteilt durch die um ein Sechstel erhöhte Zahl dieser Beitragsmonate, abgestellt. Nach der von der Klägerin vertretenen Berechnung würde demgegenüber die Bemessungsgrundlage nach § 113 Abs 1 BSVG unter Heranziehung von Zeiten der Kindererziehung im Ausmaß von 53 Monaten, bei denen es sich um Ersatzzeiten und daher nicht um Beitragszeiten handle, gebildet. Das Erstgericht habe somit die für die Berechnung des Steigerungsbetrages heranzuziehende Gesamtbemessungsgrundlage (§ 116 BSVG) zutreffend aus der Summe der - damit zu trennenden - Bemessungsgrundlagen nach § 113 Abs 1 und § 114 BSVG aller für das Ausmaß der Pension nach den entsprechenden Sozialversicherungsgesetzen zu berücksichtigenden Versicherungsmonate, geteilt durch die Summe der Versicherungsmonate, gebildet.
+Gegen dieses Urteil richtet sich die Revision der Klägerin aus dem Revisionsgrund der unrichtigen rechtlichen Beurteilung mit dem Antrag, das angefochtene Urteil im Sinne des Zuspruchs einer vorzeitigen Alterspension wegen Erwerbsunfähigkeit in der Höhe von monatlich S 5.791 abzuändern.
+Die beklagte Partei beantragt der Revision nicht Folge zu geben.
+Rechtliche Beurteilung
+Die Revision ist nicht berechtigt.
+Die rechtliche Beurteilung des Berufungsgerichts ist zutreffend, sodass es genügt, auf deren Richtigkeit zu verweisen (§ 510 Abs 3 ZPO).
+Die Klägerin steht weiterhin auf dem Standpunkt, dass die Kindererziehungszeiten nach § 114 BSVG (die mit einer fiktiven Beitragsgrundlage iSd Richtsatzes nach § 141 BSVG wie Beitragszeiten mit einem fiktiven Einkommen zu berechnen seien) in den 180 höchsten Beitragsgrundlagen (gemäß § 113 BSVG) berücksichtigt werden müssten.
+Damit sei ihres Erachtens folgende Berechnung anzustellen:
+S 16.345 x 127 Beitragsmonate                 S 2,075.815
+S 8.312 x 53 Kindererziehungsmonate             S 440.536
+"Summe 180 höchste Bemessungs-
+grundlage"                                   S 2,516.351.
+Es ergebe sich daher eine monatliche Bemessungsgrundlage von S 11.982,62 (= S 2,516.351 : 210 [§ 113 Abs 1 Satz 1 GSVG]), woraus unter Heranziehung des gekürzten Steigerungsbetrages von 48,333 % eine monatliche Pension von S 5.791,60 (gerundet) zu errechnen sei.
+Dieser Argumentation vermag sich der Senat nicht anzuschließen:
+Nach § 113 Abs 1 Satz 1 BSVG ist Bemessungsgrundlage für die
+Leistungen aus der Pensionsversicherung die Summe der 180 höchsten
+monatlichen Gesamtbeitragsgrundlagen (§ 118 BSVG) aus dem Zeitraum
+vom erstmaligen Eintritt in die Versicherung bis zum Ende des letzten
+vor dem Stichtag oder dem Bemessungszeitpunkt gemäß § 134 BSVG
+liegenden Kalenderjahres. § 113 Abs 1 Satz 2 BSVG enthält eine
+ausdrückliche Regelung für den Fall, dass weniger als 180
+Beitragsmonate vorliegen: In diesem Fall ist die Bemessungsgrundlage
+die Summe der monatlichen Gesamtbeitragsgrundlagen aus den
+vorhandenen Beitragsmonaten, geteilt durch die um ein Sechstel
+erhöhte Zahl dieser Beitragsmonate.
+Wie sich aus dem Verweis auf die monatlichen Gesamtbeitragsgrundlagen sowie auf § 118 BSVG ergibt, werden auch in § 113 Abs 1 Satz 1 BSVG nur Beitragsmonate angesprochen, nicht aber Ersatzzeiten: Die Bemessungsgrundlage wird aus den "besten" 180 Beitragsmonaten gebildet (A. Radner ua, Bauernsozialversicherung3, 2. Lfg [1997], § 113 Anm 3). Zeiten der Kindererziehung können nicht zu diesen Beitragsmonaten gezählt werden, da es sich bei diesen Zeiten um Ersatzzeiten handelt (§§ 107a, 107b BSVG; A. Radner ua aaO § 107a Anm 2).
+Für Kindererziehungszeiten wurde mit der 18. BSVG-Novelle (51. ASVG-Novelle, 19. GSVG-Novelle) in § 114 BSVG ein starrer, von den Einkommensverhältnissen unabhängiger Betrag als Bemessungsgrundlage festgelegt, was nichts daran ändert, dass es sich bei diesen Zeiten nicht um Beitragszeiten handelt, weshalb in dem hier gegebenen Fall, dass nicht zumindest 180 Beitragsmonate erreicht wurden, § 113 Abs 1 Satz 2 BSVG eingreift (10 ObS 288/01b mwN).
+Für die Pensionsberechnung (Berechnung des Steigerungsbetrages) ist nach § 116 BSVG die Gesamtbemessungsgrundlage heranzuziehen. Diese ist ein (gewichteter Durchschnitt der "Bemessungsgrundlage zum Stichtag" (§§ 113 bzw 117 BSVG) und der Bemessungsgrundlage für Kindererziehungszeiten (§ 114 BSVG) im Verhältnis der zu berücksichtigenden Versicherungsmonate, wobei sämtliche für die Ermittlung des Steigerungsbetrages zu berücksichtigenden Zeiten der Kindererziehung, in Anschlag zu bringen sind. Der Standpunkt der Klägerin, die Zeiten der Kindererziehung nur zur Ergänzung der auf 180 Monate fehlenden Beitragszeiten bis zum Höchstmaß von insgesamt 180 Monaten bei der Ermittlung der Gesamtbemessungsgrundlage einbezogen wissen will, jedoch davon ausgeht, dass bei der Ermittlung des Steigerungsbetrages auch darüber hinausgehende Zeiten der Kindererziehung zu berücksichtigen sind, entspricht nicht dem Gesetz.
+Da die beklagte Partei und die Vorinstanzen die Pensionshöhe gesetzeskonform berechnet haben (vgl auch 10 ObS 357/01x), ist der Revision ein Erfolg zu versagen.
+Die Kostenentscheidung gründet sich auf § 77 Abs 1 Z 2 lit b ASGG.

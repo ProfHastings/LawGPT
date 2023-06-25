@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.10.1949
+Geschäftszahl
+3Ob307/49
+Norm
+ABGB §983;
+ABGB §1415;
+ABGB §1416;
+Ehegesetz §49;
+ZPO §§266 ff;
+Kopf
+SZ 22/161
+Spruch
+Dem Beklagten, der behauptet, daß für die eingeklagte Darlehensschuld Wechsel begeben und diese bezahlt wurden, obliegt die Beweislast, daß die Wechsel zur Sicherstellung der Darlehensschuld gegeben wurden.
+Zahlungen sind zunächst auf Wechselschulden und erst in zweiter Reihe auf gemeinrechtliche Forderungen zu verrechnen.
+Entscheidung vom 19. Oktober 1949, 3 Ob 307/49.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+A. machte als Zessionar des B. eine Darlehensforderung geltend; C. wendete ein, daß er dem B. zur Deckung der Darlehensforderung Wechsel gegeben habe, die eingelöst worden sind. Die unteren Instanzen verurteilten den Beklagten, weil sie den Nachweis nicht als erbracht ansahen, daß die Wechsel für die Klagsforderung gegeben worden seien.
+Die Revision des Beklagten blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus der Begründung des Obersten Gerichtshofes:
+Aus dem Revisionsgrunde der unrichtigen rechtlichen Beurteilung macht die Revision dem Urteil des Berufungsgerichtes zum Vorwurf, daß dieses dem Beklagten die negative Beweislast dafür, daß dem Rechtsvorgänger der Klägerin außer der eingeklagten keine zweite Forderung gegen den Beklagten zustand, aufbürde. Dieser Vorwurf ist unbegrundet, denn das Berufungsgericht hat festgestellt, daß es sich um zwei verschiedene Forderungen handle, und deshalb lediglich den Standpunkt vertreten, der Beklagte habe zu beweisen, daß es sich um idente Forderungen handle, oder daß die Wechselforderung ein Teil der Klagsforderung sei. Diese Rechtsansicht des Berufungsgerichtes ist aber vollkommen richtig.
+Die Klägerin hat lediglich zu beweisen, daß ihr eine Forderung zusteht, der Beklagte, daß er diese Forderung bezahlt hat. Da nach den Feststellungen des Berufungsgerichtes zwei verschiedene Forderungen vorliegen, die eine des B. gegen D. (Akzeptant) auf Grund von Wechseln, die andere nunmehr der Klägerin abgetretene gegen den Beklagten aus dem Rechtsgrunde des Darlehens, so wäre es, wie das Berufungsgericht vollkommen richtig erkannt hat, Sache des Beklagten, zu beweisen, daß die Wechselforderung mit der Darlehensforderung ident ist und daß durch die Bezahlung der Wechselforderung ein Teil der Darlehensforderung berichtigt wurde. Denn letztere Behauptung wurde vom Beklagten aufgestellt und dieser ist daher für die von ihm behauptete rechtsaufhebende Tatsache beweispflichtig.
+Bei dieser Rechtslage bestand für die Untergerichte kein Anlaß zu prüfen, welcher Rechtsgrund der Wechselforderung zugrunde lag, da der Beklagte einen Beweis dafür, daß durch die Überweisung in der Erlagssache des Amtsgerichtes Linz, die nach dem Akteninhalt sich nur auf die Wechselforderung gegen D. bezieht, eine Zahlung auf die gegenständliche Schuld geleistet wurde, nicht erbracht hat. Daß der Kurator des Beklagten sich in einem Beweisnotstand befindet, vermag die Verteilung der Beweislast nicht zu beeinflussen. Es ist auch die Ansicht der Revision verfehlt, daß das Urteil des Berufungsgerichtes zum Ausdruck gebracht habe, der Darlehensgeber, der sich von seinem Darlehensschuldner einen Wechsel habe ausstellen lassen, habe nunmehr zwei Forderungen gegen seinen Schuldner und könne daher zweimal Zahlung verlangen. Das Urteil des Berufungsgerichtes hat lediglich festgestellt, daß ein Zusammenhang der Wechselforderung mit der eingeklagten Forderung nicht bewiesen sei und daß der Beklagte einen derartigen Beweis hätte erbringen müssen, da er eine solche Behauptung aufgestellt habe. Diese Ansicht ist aber, wie bereits erörtert, frei von Rechtsirrtum.
+Unter Anrufung des Revisionsgrundes der Mangelhaftigkeit des Verfahrens, in Wahrheit aber aus dem der unrichtigen rechtlichen Beurteilung, macht die Revision noch geltend, es wäre festzustellen gewesen, ob die Zahlung einverständlich auf die Wechsel- oder auf die Darlehensforderung verrechnet wurde, bzw. welche der beiden Forderungen mangels eines solchen Einverständnisses getilgt worden seien.
+Daß ein Einverständnis hinsichtlich der Verrechnung im Sinne des § 1415 ABGB. vorgelegen sei, hat der Beklagte nicht behauptet; im übrigen ergibt sich aus der im Akte Hl 40/39 des Amtsgerichtes Wien unter ONr. 60 erliegenden Eingabe des D., aus dessen Vermögen ja faktisch die Zahlung geleistet wurde, daß dieser die angemeldete Wechselforderung des B. anerkenne und mit deren Berichtigung einverstanden sei, daß die Zahlung somit mit Einverständnis des Wechselschuldners und des Gläubigers auf die Wechselforderung erfolgte. Aber auch wenn ein solches Einverständnis nicht vorgelegen wäre, würde die Zahlung auf die Wechselforderung zu verrechnen sein, da eine Wechselschuld einer gemeinrechtlichen vorangeht (GlU. 6476) und die Wechselforderung bereits eingeklagt, somit im Sinne des § 1416 ABGB. eingefordert war, während die Darlehensforderung erst jetzt klagsweise geltend gemacht wurde. Das Berufungsgericht hat daher mit Recht festgestellt, daß eine Zahlung auf die Klagsforderung nicht bewiesen sei. Der in allen Punkten unbegrundeten Revision war deshalb der Erfolg zu versagen.

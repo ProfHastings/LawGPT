@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.07.2012
+Geschäftszahl
+8Ob64/12p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Spenling als Vorsitzenden, den Hofrat Hon.-Prof. Dr. Kuras, die Hofrätin Dr. Tarmann-Prentner und die Hofräte Mag. Ziegelbauer und Dr. Brenn als weitere Richter in der Rechtssache der klagenden Partei Dr. Gerhard Götschhofer als Masseverwalter im Konkurs über das Vermögen der S*****, vertreten durch Dr. Gerhard Götschhofer, Rechtsanwalt in Vorchdorf, gegen die beklagte Partei U***** AG, *****, vertreten durch Saxinger Chalupsky Weber & Partner Rechtsanwälte GmbH in Linz, wegen 126.714,82 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 26. März 2012, GZ 4 R 41/12w-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Gegenstand des Revisionsverfahrens ist ausschließlich die Frage, ob der Anspruch des Gemeinschuldners auf Zahlung von Maklerprovisionen gegen die beklagte Versicherung bereits vor oder nach Konkurseröffnung iSd §§ 19, 20 IO entstanden ist. Nicht weiter strittig ist, dass die maßgeblichen vermittelten Verträge bereits vor Konkurseröffnung abgeschlossen wurden.
+Die Vorinstanzen haben übereinstimmend das Entstehen der Ansprüche vor der Konkurseröffnung und die Aufrechenbarkeit bejaht.
+Nach § 19 Abs 1 IO müssen Forderungen, die zur Zeit der Eröffnung des Insolvenzverfahrens bereits aufrechenbar waren, im Insolvenzverfahren nicht geltend gemacht werden. § 19 Abs 2 IO erleichtert darüber hinaus die Aufrechnung. Diese wird nicht dadurch ausgeschlossen, dass die Forderung des Gläubigers oder des Schuldners zur Zeit der Eröffnung des Insolvenzverfahrens noch bedingt oder betagt war. Die Aufrechnung ist nach § 20 Abs 1 erster Halbsatz IO aber zwingend ausgeschlossen, wenn ein Konkursgläubiger erst nach der Konkurseröffnung Schuldner der Konkursmasse geworden ist, der Rechtsgrund der Schuld somit erst nach Konkurseröffnung entstanden ist (RIS-Justiz RS0064332 uva). Wurde also die Verpflichtung, wenn auch nur bedingt, vor Konkurseröffnung begründet, so kann aufgerechnet werden.
+Die außerordentliche Revision des Klägers stützt sich im Wesentlichen darauf, dass der Anspruch nach § 30 Abs 2 MaklerG erst entstehe, wenn die geschuldete Prämie bezahlt werde.
+§ 30 Abs 2 erster Satz MaklerG lautet wie folgt:
+„Der Anspruch auf Provision entsteht mit der Rechtswirksamkeit des vermittelten Geschäfts, wenn und soweit der Versicherungskunde die geschuldete Prämie bezahlt hat oder zahlen hätte müsse, hätte der Versicherer seine Verpflichtung erfüllt.“
+Als aufschiebend bedingte Forderungen im Sinne der IO sind nicht nur solche anzusehen, die zufolge rechtsgeschäftlicher Bestimmung von einem Ereignis abhängen; hierher gehören vielmehr auch gesetzlich bedingte Ansprüche (RIS-Justiz RS0051527). Als bedingt entstanden im Sinne dieser Bestimmung ist eine Forderung schon dann anzusehen, wenn ihr Rechtsgrund vorhanden oder der rechtserzeugende Tatbestand zum Teil gegeben ist (RIS-Justiz RS0017507 ferner auch RS0004018; zum „weiten Bedingungsbegriff“ auch Gamerith in Buchegger, Österreichisches Insolvenzrecht4 § 19 Rz 23; Schubert in Konecny/Schubert, Insolvenzgesetze §§ 19, 20 KO Rz 68). Dies spricht schon nach dem klaren Wortlaut des § 30 MaklerG dafür, den Anspruch des Versicherungsmaklers nach dieser Bestimmung als eine Forderung anzusehen, die bereits mit der Rechtswirksamkeit des vermittelten Geschäfts iSd §§ 19, 20 IO entsteht, aber mit der Zahlung der Prämie „bedingt“ ist (vgl etwa auch Noss, Maklerrecht3, 118; Fromherz, Komm zum Maklergesetz Rz 22; schon früher RIS-Justiz RS0064169; 4 Ob 100/02p).

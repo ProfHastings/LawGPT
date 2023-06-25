@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.11.2022
+Geschäftszahl
+2Ob207/22p
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Verlassenschaftssache nach dem am * 2019 verstorbenen G*, wegen Erweiterung des Wirkungskreises der Verlassenschaftskuratorin über den außerordentlichen Revisionsrekurs der G* GmbH, *, vertreten durch Dr. Michael Battlogg, Rechtsanwalt in Schruns, gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 6. September 2022, GZ 3 R 158/22s-79, mit dem ihr Rekurs gegen den Beschluss des Bezirksgerichts Bludenz vom 10. Mai 2022, GZ 7 A 510/19p-75, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Der 2019 verstorbene Erblasser war mit einem 2015 an einen Dritten übertragenen Geschäftsanteil von 15 % an der Revisionsrekurswerberin (Gesellschaft) beteiligt. Die Wirksamkeit des Übertragungsvorgangs war Gegenstand eines Rechtsstreits zwischen der Gesellschaft und den (potentiellen) Gesellschaftern.
+[2] 		Das Erstgericht wies einen Antrag der Gesellschaft, den Wirkungskreis der bereits für die Teilnahme an ihrer Generalversammlung bestellten Nachlasskuratorin auf die Ausübung des Stimmrechts zu erweitern, ab, weil die Nachlasszugehörigkeit des Geschäftsanteils nicht abschließend geklärt sei.
+[3] 		Das Rekursgericht wies einen Rekurs der Gesellschaft mangels Parteistellung im Verlassenschaftsverfahren zurück.
+Rechtliche Beurteilung
+[4] 		Der außerordentliche Revisionsrekurs der Gesellschaft ist unzulässig.
+[5] 		1. Verlassenschaftsgläubiger haben im Verlassenschaftsverfahren nur dann Beteiligtenstellung und ein Rekursrecht, wenn durch die angefochtene Verfügung in ihre rechtliche Position eingegriffen wurde. Ein solcher Eingriff ist grundsätzlich nur in Ansehung der Gläubigerrechte nach den §§ 811, 812 und 815 ABGB und dann anzunehmen, wenn in Gläubigerrechte unmittelbar eingegriffen wurde, etwa wenn der Nachlass einem anderen Gläubiger an Zahlung statt überlassen wurde (RS0006611 [T18]).
+[6] 		Gläubiger haben gemäß § 811 zweiter Halbsatz ABGB das Recht, zur Vertretung der Verlassenschaft die Bestellung eines Kurators zu verlangen. Gläubiger iSd § 811 ABGB ist jeder, der gegen den Nachlass Rechte geltend machen will; einer Anspruchsbescheinigung bedarf es nicht. Es genügt die Behauptung eines Anspruchs gegen die Verlassenschaft (RS0133697).
+[7] 		Ob die Gesellschaft überhaupt Gläubigerin iSd § 811 ABGB im Zusammenhang mit der Stimmrechtsausübung des Nachlasses in ihrer Generalversammlung ist und ihr daher Antragslegitimation nach § 811 zweiter Halbsatz ABGB und ein Rekursrecht zukommt, kann dahinstehen.
+[8] 		2. Nach ständiger Rechtsprechung setzt jedes Rechtsmittel eine Beschwer – also ein Anfechtungsinteresse – voraus (RS0002495). Die Beschwer muss zum Zeitpunkt der Einbringung des Rechtsmittels gegeben sein und zum Zeitpunkt der Entscheidung über das Rechtsmittel noch fortbestehen; andernfalls ist das Rechtsmittel als unzulässig zurückzuweisen (RS0041770; RS0006880). Diese Grundsätze gelten auch im Verfahren außer Streitsachen (RS0006598).
+[9] 		3. Mittlerweile wurde auch mit Wirkung für die Verlassenschaft rechtskräftig festgestellt (6 Ob 4/22i), dass die Veräußerung des Geschäftsanteils des Erblassers 2015 wirksam war. Dieser ist daher nicht Bestandteil des Nachlasses, sodass die von der Gesellschaft angestrebte Erweiterung des Wirkungskreises der Nachlasskuratorin auf die Vertretung und Stimmrechtsausübung des Nachlasses bei Generalversammlungen (vgl dazu RS0086640) schon deshalb nicht (mehr) in Betracht kommt. Ob der Gesellschaft Rechtsmittellegitimation gegen die Abweisung ihres Erweiterungsantrags zukommt, ist daher nur mehr von theoretisch-abstrakter Bedeutung und vermag ihre Beschwer nicht zu begründen (vgl RS0002495).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0020OB00207.22P.1122.000

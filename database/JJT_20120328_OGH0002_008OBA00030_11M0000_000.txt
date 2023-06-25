@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.03.2012
+Geschäftszahl
+8ObA30/11m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Dr. Spenling als Vorsitzenden, den Hofrat Hon.-Prof. Dr. Kuras, die Hofrätin Dr. Tarmann-Prentner sowie die fachkundigen Laienrichter Hermann Furtner und Mag. Regina Bauer-Albrecht als weitere Richter in der Arbeitsrechtssache der klagenden Partei J***** B*****, vertreten durch Dr. Helga Hofbauer, Rechtsanwältin in Wien, gegen die beklagte Partei O*****, vertreten durch Korn Rechtsanwälte OG in Wien, wegen Abgabe einer Willenserklärung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. Februar 2011, GZ 8 Ra 101/10x-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Die Auslegung von Betriebsvereinbarungen bildet in der Regel keine Rechtsfrage, der iSd § 502 Abs 1 ZPO erhebliche Bedeutung für die Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung zukommt.
+Auch wenn die Betriebsvereinbarung P-BV 3 der beklagten Partei allgemein auf einen größeren Personenkreis anwendbar ist, kommt der konkret im Verfahren aufgeworfenen Auslegungsfrage nur für solche Dienstnehmer Relevanz zu, die wie der Kläger bereits Jahre vor Anfall der Pension zur Gänze aus dem Unternehmen ausgeschieden sind und eine Abfertigung erhalten haben. Schon ausgehend vom Klagsvorbringen war aber gerade der Beschäftigungsverlauf des Klägers im Unternehmen der Beklagten völlig außergewöhnlich, sodass kein Anhaltspunkt für die typische Betroffenheit eines größeren Personenkreises besteht.
+2. Darüber hinaus zeigt die Revision aber auch keine begründeten erheblichen Bedenken iSd § 502 Abs 1 ZPO gegen die rechtliche Beurteilung des Berufungsgerichts auf (§ 510 Abs 3 ZPO).
+Für Betriebsvereinbarungen sind die Grundsätze des ABGB zur Interpretation von Gesetzen heranzuziehen (RIS-Justiz RS0050963, RS0010088; RS0008782 [T1, T3]; RS0008874; Posch in Schwimann³ § 6 ABGB Rz 39 ff).
+Die relevanten Bestimmungen der P-BV 3 lauten wie folgt:
+„Erbringung der Versorgungsleistungen
+§ 11. (1) Die Erbringung der Versorgungsleistungen erfolgt auf schriftlichen Antrag des Arbeitnehmers [...] an die Pensionskasse. Die Versorgungsleistungen fallen erstmals mit dem auf die Erfüllung der Anspruchsvoraussetzungen folgenden Monatsersten an. [...]
+(2) Die Versorgungsleistungen ruhen für jene Anzahl von Monaten, für die eine Abfertigung nach dem Angestelltengesetz bezahlt wird. Dieser Ruhenszeitraum wird in Jahresschritten von der Anzahl der Monate, für die eine Abfertigung nach dem Angestelltengesetz bezahlt wird, auf jene Anzahl verlängert, die dem tatsächlichen Abfertigungsvielfachen entspricht. [...]
+(3) Verlangt der Arbeitnehmer nicht im schriftlichen Antrag gemäß Abs 1 das Ruhen nach Abs 2, so wird die Versorgungsleistung mit dem Anfallszeitpunkt gemäß Abs 1 vermindert um das versicherungsmathematische Äquivalent für den Ruhenszeitraum erbracht. [...]“
+Gerade der dritte Absatz des § 11 P-BV 3 lässt keinen sachlich begründbaren Zweifel daran offen, dass die Ruhensbestimmung des zweiten Absatzes nicht (nur) der Verhinderung einander zeitlich überdeckender Versorgungsleistungen dient, sondern die auf die Anzahl der gesetzlichen Abfertigungsmonate entfallende ruhende Leistung von vornherein bei der Berechnung der Höhe der Pension einkalkuliert ist. Es ist daher folgerichtig, dass die Pensionsleistung geringer ausfällt, wenn sie früher als vorgesehen einsetzen soll.
+Die Revision versucht, durch eine aus dem Zusammenhang gerissene Interpretation der Worte „für die eine Abfertigung … bezahlt wird“ darzulegen, dass damit nur eine zeitlich überdeckende Leistung gemeint sein könne, übergeht dabei aber den Satzbeginn („... ruhen für jene Anzahl von Monaten, für die ...“), der eine gerade gegenteilige Aussage trifft.
+Auch mit dem Argument, die Beklagte habe unter dem Regime des vormaligen Pensionszuschussregulativs (PZR) Mitarbeitern, die vor Pensionsantritt noch Sonderunterstützung in Anspruch genommen haben, bereits in diesem Zeitraum die Pension ruhend gestellt, zeigt die Revision keine Fehlbeurteilung auf. Abgesehen davon, dass der Kläger keinen Anspruch nach dem PZR geltend macht, besagen die Revisionsausführungen nur, dass auch früher eine anteilige Leistungskürzung erfolgt ist, weil ein Ruhen der Pension begrifflich immer erst nach ihrem Anfall möglich ist.
+Der Anspruch auf Abfertigung ist zudem grundsätzlich ein einmaliger, auch wenn er gemäß § 23 Abs 4 AngG nach Gutdünken des Dienstgebers zum Teil in Raten befriedigt werden kann. Die Konsequenz der Ansicht der Revision würde zu dem offenkundig unsachlichen Ergebnis führen, dass eine Betriebspension mangels überdeckender Auszahlungsmonate auch dann nicht nach § 11 Abs 2 P-BV 3 ruhen könnte, wenn die Beklagte einem Dienstnehmer die gesamte Abfertigung auf einmal bezahlen würde.
+Die Rechtsansicht des Berufungsgerichts, dass die Ruhensbestimmungen der P-BV 3 auch im Fall eines längeren Intervalls zwischen der Auszahlung der Abfertigung und dem Pensionsanfall anzuwenden sind, ist daher unter den Prämissen des § 502 Abs 1 ZPO keineswegs korrekturbedürftig.
+Ob die Beklagte dem Kläger eine bestimmte Pensionshöhe verbindlich zugesagt hat, ist ein Problem der Auslegung ihrer maßgeblichen Erklärung und damit eine typische Frage des Einzelfalls, der die Zulässigkeit der Revision nicht begründet (RIS-Justiz RS0042555; RS0042936 ua). Soweit sich die Revisionsausführungen mit der Frage einer direkten Leistungszusage der Beklagten beschäftigen, gehen sie am Gegenstand des Verfahrens, dem Begehren auf Abgabe einer Erklärung gegenüber der Pensionskasse über die Zurücklegung der Wartezeit, vorbei.
+Einer weiteren Begründung bedarf diese Entscheidung nicht (§§ 2 ASGG, 510 Abs 3 ZPO).

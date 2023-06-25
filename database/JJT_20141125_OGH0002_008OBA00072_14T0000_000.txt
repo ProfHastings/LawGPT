@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.11.2014
+Geschäftszahl
+8ObA72/14t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Prof. Dr. Spenling als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras und Dr. Brenn sowie die fachkundigen Laienrichter Dr. Manfred Engelmann und Mag. Thomas Kallab als weitere Richter in der Arbeitsrechtssache der klagenden Partei J***** S*****, vertreten durch Plankel Mayrhofer & Partner, Rechtsanwälte in Dornbirn, gegen die beklagte Partei S***** GmbH, *****, vertreten durch die Kraft & Winternitz Rechtsanwälte GmbH in Wien, wegen 3.949,11 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 26. September 2014, GZ 10 Ra 84/14t-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Text
+Begründung:
+1.1 Der Kläger hat die Klage auf die Rechtsansicht gestützt, dass es sich bei der Mandanten-Bonifikation um eine Folgeprovision handle, die als weitere Vermittlungserfolgsprovision anzusehen sei. Ein Abstellen auf Mindesteinheiten im Sinn von Neueinheiten („Mindest-Entry-Level“) für die Auszahlung von Folgeprovisionen (bei Wirtschafts- bzw Finanzberatern) stelle eine unangemessene Schmälerung der zustehenden Provisionen dar und sei daher gröblich benachteiligend im Sinn des § 879 ABGB.
+1.2 Die Vorinstanzen haben sich mit dieser Argumentation umfassend auseinandergesetzt. Dabei sind sie zum Ergebnis gelangt, dass nach dem zugrunde liegenden Vertragswerk mit der Abschlussprovision die Leistungen des Agenten abgegolten würden. Davon gesondert sehe die Vergütungsordnung zusätzlich eine Mandanten-Bonifikation vor, die - abgesehen von einer bestimmten Abstufung - ein bestimmtes Mindestvolumen von im laufenden Jahr vom jeweiligen Agenten neu produzierten Einheiten voraussetze. Bei der Mandanten-Bonifikation handle es sich daher nicht um eine Provision oder Folgeprovision, sondern um ein „anderes Entgelt“ im Sinn eines Bonus oder einer Prämie. Im Rahmen der Parteiendisposition bestehe die Möglichkeit, die Schwelle der für die Vergütung erforderlichen „Verdienstlichkeit“ privatautonom zu gestalten. Das im Vertragswerk vereinbarte Abstellen auf produzierte Mindesteinheiten sei daher zulässig.
+2.1 In der außerordentlichen Revision geht der Kläger auf diese Argumentation nicht näher ein, sondern wiederholt im Wesentlichen seinen Standpunkt, wonach die Mandanten-Bonifikation als Folgeprovision den relativ zwingenden Bestimmungen des § 9 Abs 2 HVertrG unterliege.
+Rechtliche Beurteilung
+Damit zeigt der Kläger keine erhebliche Rechtsfrage auf.
+2.2 Der Oberste Gerichtshof hat in seinen Vorjudikaten zur Mandanten-Bonifikation der Beklagten nicht ausgesprochen, dass es sich dabei um eine Provision handle. Vielmehr wurde die Mandanten-Bonifikation zutreffend dem „anderen Entgelt“ (§ 8 Abs 1 HVertrG) zugeordnet, auf das die teilweise zwingenden Regelungen für Provisionen (insbesondere § 9 Abs 2 und 3 iVm § 27 HVertrG) nicht anwendbar sind (vgl 9 ObA 107/10s; 9 ObA 76/14p).
+Richtig ist, dass auch mit dem „anderen Entgelt“ grundsätzlich die „verdienstliche Tätigkeit“ des Agenten nach ihrer Erbringung vergütet werden soll. Dazu sind im Hinblick auf die mangelnde Anwendbarkeit der Regelungen über die Provisionen auf das „andere Entgelt“ aber abweichende Vereinbarungen zulässig. Insbesondere besteht (jedenfalls) für das „andere Entgelt“ auch die Möglichkeit, die Schwelle der „Verdienstlichkeit“ zu gestalten (vgl 9 ObA 107/10s).
+2.3 Entgegen der Ansicht des Klägers folgt aus dem Element der „Verdienstlichkeit“ im Anlassfall gerade nicht die Anwendbarkeit des § 9 Abs 2 HVertrG. Der Kläger vermag auch keine tragfähigen Argumente für ein Sittenwidrigkeitsurteil gegenüber der vertraglichen Regelung, wonach die Mandanten-Bonifikation bei Wirtschafts- bzw Finanzberatern vom Erreichen bestimmter Mindesteinheiten abhängt, vorzutragen. Dass der Agent - auch unterjährig - den Vertrag erst dann kündigen kann, wenn er die erforderlichen Mindesteinheiten erreicht hat, stellt in Anbetracht der grundsätzlichen Zulässigkeit von - objektiv auf zumutbare Weise erreichbaren - Schwellenwerten keine sittenwidrige Knebelung an den Unternehmer dar. Nicht erlaubt wäre, im Fall der Kündigung durch den Agenten das Entstehen der Prämie zusätzlich vom aufrechten Bestand des Vertragsverhältnisses zu einem bestimmten Stichtag abhängig zu machen (vgl RIS-Justiz RS0028206). Dazu hat das Berufungsgericht nicht korrekturbedürftig darauf hingewiesen, dass der Anspruch des Klägers nicht an einer Stichtagsregelung, sondern daran gescheitert ist, dass er die geforderten Mindesteinheiten im Sinn von produzierten Neueinheiten nicht erreicht hat.
+3. Mangels Aufzeigens einer erheblichen Rechtsfrage war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2014:008OBA00072.14T.1125.000

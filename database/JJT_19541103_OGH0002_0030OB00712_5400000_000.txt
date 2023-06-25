@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.11.1954
+Geschäftszahl
+3Ob712/54
+Norm
+ABGB §1009;
+Wechselgesetz;
+Kopf
+SZ 27/280
+Spruch
+Art. 8 WG. nur auf unbefugte Vertreter anwendbar. Keine Haftung des Bevollmächtigten, der im Rahmen seiner Vollmacht für einen Dritten einen Wechsel, sei es unter dem eigenen Namen als Vertreter, sei es unter dem Namen des Vertretenen unterschreibt.
+Entscheidung vom 3. November 1954, 3 Ob 712/54.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Gegen den erlassenen Wechselzahlungsauftrag hat der Beklagte eingewendet, daß er den Wechsel für die darin als Bezogene genannte Firma I. unterschrieben hatte, deren Inhaber sein Vater sei, mit dessen Wissen er diese Wechselverbindlichkeiten eingegangen war.
+Das Erstgericht hob den Wechselzahlungsauftrag auf, indem es feststellte, daß der Beklagte im Geschäft seines Vaters als dessen Bevollmächtigter angesehen wurde, dort schaltete und waltete, wie er wollte, stets für die Firma zeichnete und im Laufe von zwei Jahren zirka 2000 Wechsel unterschrieben hatte.
+Das Berufungsgericht bestätigte dieses Urteil.
+Die Revision des Klägers blieb ohne Erfolg.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die Rechtsrüge ist unbegrundet. Das Berufungsgericht hat die Anwendung des Art. 8 WG. auf den vorliegenden Fall verneint, weil diese Gesetzesbestimmung nur von den unbefugten Vertretern handelt, nicht aber von Bevollmächtigten. Die Richtigkeit dieser Ansicht ergibt sich eindeutig aus dem Wortlaut. Das Wechselgesetz enthält überhaupt keine Vorschrift darüber, ob und mit welcher Wirkung die Vertretung bei der Wechselzeichnung zulässig ist. Diese Frage ist nach bürgerlichem Recht zu beurteilen. Im übrigen ist nicht zu erkennen, was der Revisionswerber mit seinen Ausführungen über die Anwendung des Art. 8 und dessen Auslegung angesichts der getroffenen Feststellungen erreichen will. Er scheint nachweisen zu wollen, daß in den Fällen, in welchen die Vollmacht nicht aus dem Wechsel selbst erkenntlich ist, immer der Machthaber wechselmäßig haftet. Die von ihm angeführten Belegstellen bringen aber einen solchen Rechtssatz keineswegs zum Ausdruck. Hat der Beklagte im Rahmen der erteilten Vollmacht für die Firma I. den Wechsel unterfertigt, so wurde daraus nur die Firma I., nicht aber der Beklagte selbst wechselmäßig verpflichtet, daher ist es irrelevant, ob er unter dem eigenen Namen - in seiner Eigenschaft als Vertreter - oder unter dem Namen der Vertretenen unterfertigt hat. Der Rechtsansicht der Untergerichte haftet daher kein Rechtsirrtum an. Auch der Hinweis auf § 557 Abs. 2 ZPO. vermag kein anderes Ergebnis zu zeitigen. Dort wird nur die Beibringung der Vollmacht des Machtgebers zwecks Erwirkung eines Wechselzahlungsauftrages angeordnet, nichts aber darüber abgesprochen, wann eine wechselmäßige Verpflichtung des Machthabers einzutreten hat. Die Berufung auf alte Entscheidungen des Obersten Gerichtshofes geht fehl, weil die Rechtslage seit Einführung der Genfer Wechselgesetze und der Aufhebung der lex Jasinski sich wesentlich geändert hat.
+Die Revision erweist sich daher in jeder Richtung als unberechtigt.

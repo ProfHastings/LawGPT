@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.02.2008
+Geschäftszahl
+4Ob243/07z
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Zechner als Vorsitzenden und die Hofrätin des Obersten Gerichtshofs Dr. Schenk sowie die Hofräte des Obersten Gerichtshofs Dr. Vogel, Dr. Jensik und Dr. Musger als weitere Richter in der Rechtssache der klagenden Parteien 1. A***** UK Ltd, London, *****, Großbritannien, 2. A***** GmbH, *****, beide vertreten durch Gassauer-Fleissner Rechtsanwälte GmbH in Wien, unter Mitwirkung von Dr. Martin Müllner, Patentanwalt in Wien, gegen die beklagte Partei r***** Vertriebs-GmbH, *****, vertreten durch Ploil Krepp & Partner Rechtsanwälte GmbH in Wien, unter Mitwirkung von DI Harald Nemec, Patentanwalt in Wien, wegen Unterlassung, Antragsrückziehung, Beseitigung, Rechnungslegung und Urteilsveröffentlichung (Streitwert im Sicherungsverfahren 850.000 EUR), über den außerordentlichen Revisionsrekurs der klagenden Parteien gegen den Beschluss des Oberlandesgerichts Wien vom 22. Oktober 2007, GZ 1 R 156/07d-15, den Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 402 Abs 4 EO iVm § 526 Abs 2 erster Satz ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Eine äquivalente Benützung der patentierten Erfindung, die
+Unterlassungsansprüche begründet, liegt nach der Rechtsprechung des
+Obersten Gerichtshofs und des Obersten Patent- und Markensenats vor,
+wenn der Fachmann im Prioritätszeitpunkt, ausgerüstet mit dem
+allgemeinen Fachwissen unter Berücksichtigung des Standes der
+Technik, ohne erfinderisches Bemühen die ausgetauschten Merkmale den
+Patentansprüchen als funktionsgleiche Lösungsmittel entnimmt (4 Ob
+321/84 = SZ 57/68 - Befestigungsvorrichtung für Fassadenelemente; 4
+Ob 1128/94; 4 Ob 178/03k = ÖBl 2005, 244 [Wolner/Nemec] - Amlodipin;
+RIS-Justiz RS0118280, RS0071084; OPM Op 4/99 = PBl 2001, 100; OP 2/01
+= PBl 2004, 26). Die leicht abweichende Formulierung in 4 Ob 178/03k
+und OPM Op 4/99 („... als den Patentansprüchen funktionsgleiche
+Lösungsmittel ...") ändert nichts am Sinngehalt dieses Rechtssatzes.
+Denn auch nach diesen Entscheidungen ist Äquivalenz nur anzunehmen, wenn die alternative Lösung „im Rahmen des Erfindungsgedankens liegt" (Op 4/99) bzw den „durch die Ansprüche vorgezeichneten Lösungsweg der patentierten Erfindung" beibehält (4 Ob 178/03k). Auch der Revisionsrekurs verwendet beide Formulierungen, ohne zwischen ihnen zu differenzieren.
+Ob Äquivalenz vorliegt, ist zwar in erster Linie eine Rechtsfrage. Welches Verständnis ein Fachmann im maßgebenden Zeitpunkt hatte, ist allerdings ein objektivierendes, dem Beweis zugängliches Element. Hat der Beklagte das alternative Verfahren offen gelegt, trifft die Behauptungs- und Beweislast für äquivalenzbegründende Umstände den Kläger (4 Ob 178/03k).
+2. Im vorliegenden Fall werfen die Klägerinnen der Beklagten vor, sie habe bei der Herstellung einer chemischen Verbindung einen Lösungsweg gewählt, der dem patentierten Verfahren äquivalent sei. Das Rekursgericht hat es allerdings aufgrund von Gutachten als bescheinigt angenommen, dass der alternative Lösungsweg - der sich im Ablauf der chemischen Reaktionen und in der Anzahl der Reaktionsschritte vom patentierten Verfahren unterscheidet - im Prioritätszeitpunkt für einen Fachmann aufgrund des Patents und des (sonstigen) Fachwissens insgesamt nicht nahe liegend gewesen sei, sondern einen erfinderischen Schritt erforderte. Schon damit musste der Sicherungsantrag der Klägerin scheitern, ohne dass es auf die weiteren Erwägungen des Rekursgerichts - insbesondere zur Auslegung einzelner Begründungselemente der Entscheidung Op 2/01 - angekommen wäre.
+3. Den Klägerinnen, die einzelne Formulierungen der Rekursentscheidung aus ihrem Zusammenhang reißen, gelingt es nicht, das Vorliegen einer auch für den konkreten Fall erheblichen Rechtsfrage aufzuzeigen:
+3.1. Die vom Rekursgericht aufgestellten und im Revisionsrekurs (Punkte 1.1. und 1.2.) als zu weitgehend kritisierten „allgemeinen Regeln" zur Prüfung der Äquivalenz hatten in Wahrheit keinen Einfluss auf die Entscheidung. Denn das Rekursgericht hat die beiden Verfahren ohnehin umfassend miteinander verglichen und damit im Ergebnis gerade nicht jene zergliedernde Betrachtungsweise angewendet, die der Revisionsrekurs bekämpft. Die im Rechtsmittel angeführten Plausibilitätsargumente - insbesondere der Vergleich zwischen den strittigen chemischen Reaktionen und den für den Zusammenbau eines Kleiderkastens erforderlichen Schritten - betreffen in Wahrheit die Beweiswürdigung des Rekursgerichts und können schon aus diesem Grund keine Rechtsfrage erheblicher Bedeutung begründen. Im Übrigen hätte den Klägerinnen wegen der sie treffenden Beweislast auch eine Negativfeststellung des Rekursgerichts nicht geholfen.
+3.2. Das Rekursgericht hat richtig erkannt, dass für die Prüfung der Äquivalenz der Prioritätszeitpunkt des Klagepatents maßgebend ist (Op 4/99; 4 Ob 178/03k). Ob für die Ermittlung des zu diesem Zeitpunkt gegebenen oder nicht gegebenen Fachwissens auch auf danach erschienene Literatur Bedacht genommen werden kann (Revisionsrekurs Punkt 1.3.), hängt von den Umständen des Einzelfalls ab und kann letztlich nur durch Sachverständige beurteilt werden. Auch insofern bekämpft der Revisionsrekurs daher in Wahrheit die Beweiswürdigung des Rekursgerichts. Gleiches gilt für die Frage, ob allgemeine Formulierungen in Lehrbüchern für den Fachmann auf eine bestimmte technische Vorgangsweise schließen lassen.
+3.3. Entgegen den Ausführungen des Revisionsrekurses (Punkt 1.4.) hat das Rekursgericht nicht angenommen, dass sich der alternative Lösungsweg allein aus dem Patent ergeben müsse. Vielmehr hat es Feststellungen zum Fachwissen im Prioritätszeitpunkt getroffen und (erst) auf dieser Grundlage die Äquivalenz verneint.
+4. Den Klägerinnen gelingt es somit nicht, eine erhebliche Rechtsfrage iSv § 528 Abs 1 ZPO aufzuzeigen. Ihr außerordentliches Rechtsmittel ist daher zurückzuweisen.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.10.1981
+Geschäftszahl
+3Ob562/81
+Norm
+ABGB §143 Abs2;
+EheG §68;
+EheG §71;
+Kopf
+SZ 54/140
+Spruch
+Die Unterhaltspflicht der Kinder steht nur der Unterhaltspflicht eines früheren Ehegatten, nicht aber seiner erst durch Richterspruch zu begrundenden Beitragspflicht im Sinne des § 68 EheG im Rang nach
+OGH 7. Oktober 1981, 3 Ob 562/81 (LGZ Graz 1 a R 31/81; BGZ Graz 27 C 507/80)
+Text
+Die Ehe der Streitteile wurde aus beiderseitigem gleichem Verschulden geschieden. Die Klägerin begehrte einen Unterhalt in Höhe von 3000 S monatlich. Der Beklagte beantragte die Abweisung der Klage mit der Einwendung, die Klägerin könne ihren Unterhalt aus ihrem eigenen Vermögen und aus den Unterhaltszahlungen ihrer ehelichen Kinder bestreiten.
+Das Erstgericht wies die Klage auf Grund der Feststellungen über die Leistungsfähigkeit der sieben ehelichen Kinder der Streitteile ab, weil der Beklagte gemäß § 68 EheG erst nach diesen ehelichen Kindern zu einer Unterhaltsleistung an die Klägerin herangezogen werden könne.
+Das Berufungsgericht billigte diese Rechtsansicht und bestätigte das Urteil des Erstgerichtes.
+Der Oberste Gerichtshof erachtet die Revision für zulässig, weil nicht die Höhe des Unterhaltes bzw. die dafür maßgebenden Verhältnisse strittig sind, sondern die nur den Grund des Unterhaltsanspruches betreffende Rechtsfrage zu beurteilen ist, ob bei einem Unterhaltsbegehren nach § 68 EheG der geschiedene Ehegatte primär oder erst subsidiär nach ehelichen Kindern unterhaltspflichtig ist oder nicht (SZ 22/140; vgl. auch SZ 51/110), gab aber der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Die von der Klägerin bekämpfte Rechtsansicht der Vorinstanzen entspricht herrschender Auffassung. Danach kann eine "Beitragspflicht" nach § 68 EheG u.a. nur dann begrundet werden, wenn der Unterhalt des bedürftigen Ehegatten nicht in ausreichendem Maße durch unterhaltspflichtige Verwandte gedeckt werden kann. Der in § 68 EheG enthaltene Hinweis auf die "nach § 71 unterhaltspflichtigen Verwandten" ist nicht so zu verstehen, daß diese Verwandten überhaupt erst zur Unterhaltspflicht heranzuziehen sind, wenn der geschiedene Ehegatte im Sinne der in § 71 Abs. 1 Satz 2 EheG vorkommenden Regelung bei Berücksichtigung seiner sonstigen Verpflichtungen den eigenen angemessenen Unterhalt gefährden würde, sondern er bekräftigt nur die Norm des § 71 Abs. 1 Satz 3 EheG, wonach diese Verwandten den Unterhalt immer dann zu gewähren haben, soweit einem geschiedenen Ehegatten ein Unterhaltsanspruch gegen den anderen Ehegatten nicht zusteht. Bei einer Scheidung aus beiderseitig gleichem Verschulden ist aber grundsätzlich kein unterhaltspflichtiger Ehegatte vorhanden. Im Gegensatz zu den sonstigen Unterhaltsansprüchen des Ehegesetzes wird hier der "Unterhaltsanspruch" erst durch den Richterspruch rechtsgestaltend begrundet ("zugebilligt"); es wird auch kein echter Unterhaltsanspruch gewährt, sondern entgegen dem Wesen eines solchen nur ein Teil des zur Deckung des gesamten Lebensbedarfes erforderlichen Betrages ("ein Betrag zu seinem Unterhalt") zugesprochen (Schwind in Klang[2] I/1, 881 ff. und 890, sowie in seinem Handkommentar des Eherechtes[2], 280; SZ 22/140; EFSlg 13 995 u. a.). Auch aus § 143 Abs. 2 ABGB (i.d.F. BGBl. 403/1977) ist damit für den Rechtsstandpunkt der Klägerin nichts zu gewinnen, da die Unterhaltspflicht der Kinder nur der Unterhaltspflicht eines früheren Ehegatten, aber nicht der durch Richterspruch zu begrundenden Beitragspflicht im Sinne des § 68 EheG im Range nachgeht. Den Gesetzesmaterialien zum Bundesgesetz vom 30. Juni 1977 über die Neuordnung des Kindschaftsrechtes, BGBl. 403/1977, ist nicht zu entnehmen, daß durch die Schaffung der Bestimmung des § 143 Abs. 2 ABGB der bisherige Inhalt des § 68 EheG verändert werden sollte. Daß ein Unterhaltszuspruch nach § 68 EheG auch schon ab dem Klagstage möglich ist, wurde längst klargestellt (Schwind in Klang[2] I/1, 881 Anm. 2, und dort angeführte Rechtsprechung), besagt aber nicht, daß bei einer aus beiderseitig gleichem Verschulden geschiedenen Ehe ein Ehegatte ein Unterhaltspflichtiger im Sinne der §§ 71 EheG, 143 Abs. 2 ABGB ist.

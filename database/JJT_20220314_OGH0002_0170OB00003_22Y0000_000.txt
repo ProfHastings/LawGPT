@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.03.2022
+Geschäftszahl
+17Ob3/22y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Präsidentin Hon.-Prof. Dr. Lovrek als Vorsitzende und den Hofrat Dr. Musger, die Hofrätinnen Mag. Malesich und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Mag. W*, Rechtsanwalt, *, als Masseverwalter im Insolvenzverfahren über das Vermögen der G* GmbH, gegen die beklagte Partei Ing. S*, vertreten durch Metzler & Partner Rechtsanwälte GmbH in Linz, wegen 34.731,36 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 10. Dezember 2021, GZ 1 R 98/21v-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Der gerügte Verfahrensmangel wurde geprüft; er liegt nicht vor (§ 510 Abs 3 ZPO).
+[2] 		2.1. Die Wirksamkeit einer Sicherungszession hängt von der Beachtung der für eine Pfandrechtsbegründung hinreichenden Publizitätsakte ab (RS0011386). Sowohl die Mantelzession als auch die Globalzession werden wegen des Doppelzwecks der Abtretung von Forderungen zur Sicherung des Kredits und zur Befriedigung aus dem Realisat als Unterarten der Sicherungszession angesehen. Wegen der Sicherungsfunktion sind auch bei der Globalzession die besonderen Publizitätserfordernisse wie beim Pfandrechtserwerb einzuhalten. Für den Modus der Abtretung ist entweder eine Verständigung des übernommenen Schuldners oder die Eintragung eines Buchvermerks des buchführenden Schuldners vorzunehmen (RS0011386 [T8]).
+[3] 		2.2. Dass das Berufungsgericht die bloße Anführung der Kontonummer des Beklagten (des Geschäftsführers der Schuldnerin) in den von der späteren Schuldnerin an ihre Kunden ausgestellten Rechnungen nicht als ausreichende Drittschuldnerverständigung wertete (und die Zession daher als unwirksam beurteilte), begründet keine erhebliche Rechtsfrage (vgl 17 Ob 9/20b). Auf die vom Berufungsgericht ebenfalls verneinte ausreichende Bestimmtheit der Zessionsvereinbarungen zwischen der Schuldnerin und dem Beklagten kommt es daher nicht an.
+[4] 		3.1. Es entspricht gesicherter höchstgerichtlicher Rechtsprechung, dass die Begünstigung eines Gläubigers nicht nur dadurch erfolgen kann, dass der Schuldner diesem seine Forderung direkt erfüllt, sondern auch auf Umwegen mittelbar geschehen kann. Bei der Anfechtung wegen Begünstigung ist deshalb auch eine „Zuwendung auf Umwegen“ anfechtbar, sofern sie nur auf Kosten der Masse erfolgt; anfechtbar ist in diesem Fall der Gesamttatbestand, durch den die Masse verringert wird (vgl 2 Ob 554/89; 2 Ob 582/91; 3 Ob 116/08t = RS0124341; 1 Ob 45/03d je mwN).
+[5] 		3.2. Von den Grundsätzen dieser Rechtsprechung ist das Berufungsgericht nicht abgewichen, indem es die aufgrund der (bloßen) Angabe der Kontonummer des Beklagten von den Drittschuldnern in den letzten 60 Tagen vor Insolvenzeröffnung an diesen (statt an die spätere Schuldnerin) geleisteten, vom Kläger nach § 30 Abs 1 Z 2 IO angefochtenen Zahlungen als mittelbare Zahlungen der Schuldnerin wertete. Ob die Angabe der Kontonummer als Anweisung iSd § 1400 ABGB zu werten ist, ist in diesem Zusammenhang nicht entscheidend.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0170OB00003.22Y.0314.000

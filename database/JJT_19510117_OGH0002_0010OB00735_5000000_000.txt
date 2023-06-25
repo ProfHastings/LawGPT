@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.01.1951
+Geschäftszahl
+1Ob735/50
+Norm
+ABGB §1118;
+KO §1;
+KO §6 Art1;
+KO §6 Abs3;
+KO §7 Abs1;
+KO §23;
+KO §24;
+ZPO §396;
+Kopf
+SZ 24/17
+Spruch
+Das Bestandrecht an der Wohnung des Gemeinschuldners fällt in die Konkursmasse.
+Entscheidung vom 17. Jänner 1951, 1 Ob 735/50.
+I. Instanz: Bezirksgericht Innere Stadt Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die klagende Partei brachte gegen den Beklagten Rudolf Franz A., Alleininhaber der prot. Firma K. & Cie., über die seit 26. Juli 1949 das Konkursverfahren eröffnet ist, und gegen den Kaufmann Richard K. die Klage nach § 1118 ABGB. wegen Zinsrückstandes seit November 1948 ein.
+Die Klage wurde nicht nur den beiden Beklagten, sondern auch dem Masseverwalter des Erstbeklagten zu eigenen Handen zugestellt. Zur mündlichen Streitverhandlung ist von den Beklagten niemand erschienen, weshalb auf Antrag der klagenden Partei gegen die beiden Beklagten Versäumnisurteil nach § 396 ZPO. erging. Dieses Versäumnisurteil wurde für den Erstbeklagten dem Masseverwalter zugestellt, der ebensowenig wie der Zweitbeklagte ein Rechtsmittel ergriff. Am 13. Mai 1950 wurde dieses Urteil vom Erstgericht für rechtskräftig und vollstreckbar erklärt. Jetzt begehrte der Erstbeklagte die Nichtigerklärung des Verfahrens, allenfalls Aufhebung der Vollstreckbarkeitsbestätigung mit der Behauptung, nicht er persönlich sei in Konkurs, sondern nur seine Firma K. & Cie., es handle sich um seine Privatwohnung, das Urteil hätte daher an ihn persönlich zugestellt werden müssen.
+Dieser Antrag wurde vom Erstgerichte abgewiesen.
+Das Rekursgericht gab aber dem Rekurs des Erstbeklagten insoweit statt, als die Vollstreckbarkeitsbestätigung aufgehoben und die Zustellung des Versäumungsurteiles an den Erstbeklagten persönlich angeordnet wurde. Daraufhin hob das Erstgericht die Vollstreckbarkeitsbestätigung auch hinsichtlich des Zweitbeklagten auf, weil ein ungeteiltes Schuldverhältnis vorliege. Beide Beschlüsse wurden von der klagenden Partei nicht angefochten. Innerhalb 14 Tagen, nach Zustellung des Versäumnisurteiles an ihn, erhob der Erstbeklagte persönlich Berufung wegen unrichtiger rechtlicher Beurteilung und Nichtigkeit nach § 477 Z. 6 ZPO. Das Berufungsgericht hat die Berufung wegen Nichtigkeit verworfen, im übrigen hat es ihr keine Folge gegeben. Gleichzeitig wurde ausgesprochen, daß der Wert des Streitgegenstandes 10.000 S übersteigt. Das Berufungsgericht führt aus, daß Mietrechte an einer Wohnung nicht in die Konkursmasse gehören, es komme daher nicht § 6 Abs. 1, sondern § 6 Abs. 3 KO. zur Anwendung. Es konnte deshalb die Räumungsklage ungeachtet der Konkurseröffnung gegen den Erstbeklagten gegen ihn anhängig gemacht werden. Da das Klagsvorbringen, das nach § 396 ZPO. für wahr zu halten sei, schlüssig sei, sei dem Klagebegehren mit Recht stattgegeben worden.
+Der Oberste Gerichtshof hob aus Anlaß der Revision des Erstbeklagten, die die Klagsabweisung oder die Unterbrechung nach § 7 Abs. 1 KO. anstrebt, das gesamte Berufungsverfahren als nichtig auf und wies die Berufung des Erstbeklagten als unzulässig zurück.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Das Konkursverfahren läuft nicht gegen eine offene Handelsgesellschaft, sondern gegen den Erstbeklagten persönlich. Das gesamte Vermögen des Erstbeklagten, soweit es der Exekution unterworfen ist, unterfällt daher dem Konkursverfahren, also auch die Bestandrechte. Hinsichtlich der Bestandverträge bestehen jedoch Sondervorschriften in den §§ 23 und 24 KO. Gemäß § 23 KO. werden Bestandverträge des Gemeinschuldners durch die Konkurseröffnung grundsätzlich nicht berührt, nur übt der Masseverwalter die Rechte und Pflichten des Gemeinschuldners als Bestandgeber oder Bestandnehmer aus. Dabei unterscheidet § 23 KO. keineswegs zwischen Geschäftsräumlichkeiten und der Wohnung des Gemeinschuldners, so daß diese Vorschriften sowohl für die Geschäftsräumlichkeiten als auch für die Wohnung des Gemeinschuldners gelten. Es bleibt daher auch das Bestandverhältnis an der Wohnung des Gemeinschuldners aufrecht, doch ist beiden Teilen ein Recht auf vorzeitige Kündigung gegeben. Dieses Kündigungsrecht wird für den Gemeinschuldner vom Masseverwalter ausgeübt. Ist aber vor oder nach Konkurseröffnung eine Tatsache eingetreten, die einer Partei die sofortige Auflösung des Bestandverhältnisses gestattet, kann der dazu berechtigte Teil die Auflösung auch während des Konkurses vornehmen. Sind somit die Voraussetzungen des § 1118 ABGB. eingetreten, kann der Bestandgeber den Bestandvertrag auflösen. Die Räumungsklage ist gegen den Masseverwalter zu richten. Hingegen hat der Masseverwalter nicht die Möglichkeit, eine Erklärung abzugeben, in den Bestandvertrag nicht eintreten zu wollen.
+Nun hat die klagende Partei die auf § 1118 ABGB. gestützte Räumungsklage gegen die beiden Beklagten eingebracht. Richtigerweise wurde diese Räumungsklage für den Erstbeklagten dem Masseverwalter zu eigenen Handen zugestellt. Nur dieser allein wäre berechtigt gewesen, für den Erstbeklagten irgendwelche Prozeßhandlungen vorzunehmen. Auch das Versäumnisurteil war wieder nur dem Masseverwalter, nicht aber dem Gemeinschuldner selbst zuzustellen. Da nur der Masseverwalter zur Einbringung eines Rechtsmittels für den Erstbeklagten befugt war, ist nach Ablauf der Rechtsmittelfrist, d. i. der 14tägigen Frist, nach Zustellung des Urteiles an den Masseverwalter und den Zweitbeklagten das Urteil in Rechtskraft erwachsen. Die vom Rekursgericht angeordnete neuerliche Zustellung des Urteiles an den Gemeinschuldner persönlich war verfehlt. Umso mehr war es dem Gemeinschuldner verwehrt, nach eingetretener Rechtskraft des Urteiles das Rechtsmittel der Berufung zu ergreifen. Das Berufungsgericht hat demnach über eine Berufung entschieden, die sich gegen ein bereits rechtskräftiges Urteil richtete. Eine solche Entscheidung ist ihm verwehrt. Die Rechtskraft eines Urteiles ist in jeder Lage des Verfahrens von Amts wegen zu beachten. Aus diesem Gründe war auch vom Obersten Gerichtshof von Amts wegen die Rechtskraft der Entscheidung wahrzunehmen und aus Anlaß der Revision das gesamte Berufungsverfahren als nichtig aufzuheben und die Berufung als unzulässig zurückzuweisen.
+Da die klagende Partei die Nichtigkeit des Verfahrens nicht geltend gemacht hat, waren die Kosten des Rechtsmittelverfahrens gemäß § 51 ZPO. gegenseitig aufzuheben.

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.08.2020
+Geschäftszahl
+8ObA67/20s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Wessely-Kristöfel als weitere Richter sowie die fachkundigen Laienrichter Helmut Purker (aus dem Kreis der Arbeitgeber) und Karl Schmid (aus dem Kreis der Arbeitnehmer) in der Arbeitsrechtssache der klagenden Partei B*, vertreten durch Dr. Peter Lessky, Rechtsanwalt in Wien, gegen die beklagte Partei U* AG, *, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen Anfechtung einer einvernehmlichen Auflösung und Feststellung des aufrechten Dienstverhältnisses, in eventu 19.243,16 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 27. April 2020, GZ 10 Ra 4/20m-27, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die seit 1. 4. 2007 bei der Beklagten als kaufmännische Angestellte beschäftigte Klägerin wurde am 17. 7. 2018 vom Dienst suspendiert und am 27. 7. 2018 entlassen. Mit Vereinbarung vom 31. 7. 2018 wurde die Entlassung in eine einvernehmliche Lösung zum 31. 8. 2018 umgewandelt.
+Rechtliche Beurteilung
+1.1 Schließt ein Arbeitnehmer unter dem Eindruck einer bereits ausgesprochenen Entlassung die ihm gleichzeitig angebotene Auflösungsvereinbarung ab, so kommt es für die Redlichkeit des Arbeitgebers darauf an, ob für ihn zu diesem Zeitpunkt plausible und objektiv ausreichende Gründe für einen Entlassungsausspruch gegeben waren. Ist dies der Fall, kann nicht von der Ausübung ungerechtfertigten psychologischen Drucks die Rede sein (RIS-Justiz RS0014873 [T11]). Bei dieser Beurteilung kommt es auf den Wissensstand des Arbeitgebers ex ante und nicht darauf an, ob seine Ansicht ex post aufgrund der Ergebnisse eines förmlichen Beweisverfahrens auch von den befassten Gerichten geteilt wird (RS0014873 [T12]).
+1.2 Das Berufungsgericht bejahte hier – in Übereinstimmung mit dem Erstgericht – die Wirksamkeit der (erst ein paar Tage nach Beendigung des Dienstverhältnisses durch Entlassung geschlossenen) Auflösungsvereinbarung. Aus ex-ante-Sicht der Arbeitgeberin seien plausible und objektiv ausreichende Gründe für den Ausspruch der Entlassung vorgelegen, weil die Klägerin nach den Feststellungen jedenfalls gegen bei der Beklagten geltende Richtlinien und Prozesse bei der Kreditvergabe und -abwicklung verstoßen und sich an der nachträglichen Aufklärung des Sachverhalts durch die interne Revision nur widerwillig beteiligt habe. Von der Ausübung ungerechtfertigten psychologischen Drucks oder gar einer rechtswidrigen Drohung könne daher keine Rede sein.
+2.1 Diese – einzelfallbezogene (RS0014878 [T6]) – Beurteilung zieht die Revisionswerberin nicht weiter in Zweifel. Sie steht aber (im Widerspruch zur zitierten Rechtsprechung) auf dem Standpunkt, es sei im Verfahren zu prüfen, ob sie tatsächlich den Entlassungsgrund der Vertrauensunwürdigkeit gesetzt habe, weil die Umwandlung einer Entlassung in eine einvernehmliche Auflösung des Dienstverhältnisses eine Novation sei. Die neue Verbindlichkeit hänge daher davon ab, dass die alte bestehe.
+2.2 Dem ist schon entgegenzuhalten, dass ein Vergleich nicht jedenfalls ein Neuerungsvertrag ist, sondern nur dann, wenn der Rechtsgrund oder der Hauptgegenstand des Anspruchs geändert wird (RS0032600; RS0032310). Inwiefern das hier der Fall wäre, lässt das Rechtsmittel völlig offen: Die nachträgliche einvernehmliche Auflösung des Arbeitsverhältnisses (zu einem späteren Termin) hat kein Schuldverhältnis im Sinn des § 1376 ABGB (vgl RS0032502), sondern eine einseitige rechtsgeschäftliche Willenserklärung über die sofort wirksame Beendigung des Arbeitsverhältnisses ersetzt.
+Darüber hinaus übersieht die Klägerin, dass für einen Vergleich das Bestehen eines gültigen Grundverhältnisses dann nicht erforderlich ist, wenn gerade Zweifel darüber Gegenstand des Vergleichs sind (JBl 1955, 623 = EvBl 1955/379; RS0032574). In concreto wurde durch die einvernehmliche Auflösung auch die (strittige) Frage, ob ein Entlassungsgrund vorlag, abschließend erledigt (vgl RS0028337 [T7]).
+3. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:E129280

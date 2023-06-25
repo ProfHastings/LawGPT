@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.03.2019
+Geschäftszahl
+3Ob41/19d
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Abstammungssache der minderjährigen V*, geboren am * 2017, *, vertreten durch das Land Salzburg als Kinder- und Jugendhilfeträger (Bezirkshauptmannschaft Salzburg-Umgebung, Gruppe Jugendwohlfahrt, Salzburg, Karl-Wurmb-Straße 17), vertreten durch Mag. Michael Berger-Wiegele, Rechtsanwalt in Eugendorf, wegen Feststellung der Vaterschaft, über den außerordentlichen Revisionsrekurs der Antragstellerin gegen den Beschluss des Landesgerichts Salzburg als Rekursgericht vom 28. Dezember 2018, GZ 21 R 295/18f-39, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Revisionsrekurswerberin verkennt, dass sich der Rechtsmittelausschluss nach § 5 Abs 1 AußStrG nicht auf die (hier vom Rekursgericht infolge Rekurses der Kuratorin ersatzlos aufgehobene) Bestellung eines Kurators gemäß § 5 Abs 2 Z 1 AußStrG bezieht (6 Ob 160/16x mwN = RIS-Justiz RS0126884 [T1]).
+2. In einem konkreten Verfahren – wie hier dem Abstammungsverfahren – darf das Gericht selbst (nur) Kollisions- oder Zustellkuratoren gemäß § 5 Abs 2 Z 1 AußStrG bestellen. Für die Bestellung eines Kurators gemäß § 5 Abs 2 Z 2 AußStrG, insbesondere eines Abwesenheitskurators nach § 5 Abs 2 Z 2 lit b leg cit, darf es hingegen nur durch die Anzeige deren Notwendigkeit an das zuständige Gericht „sorgen“ (RIS-Justiz RS0124759).
+Nach der Aktenlage hat der nach Einleitung des Verfahrens in Deutschland verstorbene Antragsgegner, der die deutsche Staatsangehörigkeit besaß, derzeit keinen Rechtsnachfolger, weil alle (bisher) in Betracht kommenden Erben die Erbschaft ausgeschlagen haben und seine Vaterschaft zur Antragstellerin, auch wenn sich diese aus dem im vorliegenden Verfahren eingeholten Sachverständigengutachten ergibt, bisher – schon mangels Vertretung des Verstorbenen in diesem Verfahren – noch nicht gerichtlich festgestellt werden konnte; demgemäß kann auch die Antragstellerin (noch) nicht als Erbin des Antragsgegners angesehen werden. Vor diesem Hintergrund begründet die Auffassung des Rekursgerichts, das Erstgericht sei nicht gemäß § 5 Abs 2 Z 1 lit b AußStrG zur Bestellung eines Kurators für den Antragsgegner zuständig, keine erhebliche Rechtsfrage:
+Voraussetzung für die Bestellung eines Kurators nach der – § 116 ZPO nachgebildeten – Bestimmung des § 5 Abs 2 Z 1 lit b AußStrG ist, dass die Person unbekannten Aufenthalts ist und zuvor erfolglos versucht wurde, den Aufenthalt des Betreffenden zu ermitteln (RIS-Justiz RS0036476 [T7]; jüngst 1 Ob 109/17m). Anders als im Fall des Abwesenheitskurators nach § 5 Abs 2 Z 2 lit b AußStrG („wenn die Person oder der Aufenthalt einer Partei unbekannt ist ...“) setzt die Bestellung eines prozessualen Zustellkurators also voraus, dass nur der Aufenthalt – und nicht auch die Person – der Partei (hier eines allfälligen weiteren Erben und damit Rechtsnachfolgers des Antragsgegners) unbekannt ist.
+3.1. Dazu kommt, dass das Verfahren aufgrund des Todes des unvertretenen Antragsgegners ex lege unterbrochen ist (§ 25 Abs 1 Z 1 Fall 1 AußStrG); eine solche Unterbrechung kann nicht durch die Bestellung eines (Abwesenheits-)Kurators umgangen werden (vgl 8 Ob 185/00i; Gitschthaler in Gitschthaler/Höllwerth § 25 AußStrG Rz 8).
+3.2. Da der verstorbene Antragsgegner nicht mehr parteifähig ist, (derzeit) keinen Rechtsnachfolger hat und das deutsche Recht das Institut des ruhenden Nachlasses als juristische Person nicht kennt, die Erbschaft vielmehr gemäß § 1922 Abs 1 BGB mit dem Tod des Erblassers ipso iure auf den oder die Erben übergeht (4 Ob 522/91), kommt eine Umstellung (Berichtigung) der Parteienbezeichnung (vgl für Binnenfälle Gitschthaler in Gitschthaler/Höllwerth § 25 AußStrG Rz 9 mwN aus der Rechtsprechung) im derzeitigen Verfahrensstadium nicht in Betracht. Das unterbrochene Verfahren könnte nur dann gemäß § 26 Abs 3 AußStrG auf Antrag fortgesetzt werden, wenn an die Stelle des verstorbenen Antragsgegners ein Rechtsnachfolger träte. Ob es sich um einen solchen handelt, wäre dann nach deutschem Recht zu beurteilen, welches vom Erstgericht gegebenenfalls auf geeignete Weise – allenfalls durch Einholung eines Rechtsgutachtens – zu ermitteln wäre.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:E124773

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.01.2023
+Geschäftszahl
+6Ob4/23s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Gitschthaler als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Nowotny, Dr. Hofer-Zeni-Rennhofer, Dr. Faber und Mag. Pertmayr als weitere Richter in der Pflegschaftssache der Minderjährigen E*, geboren am * 2011, wegen Unterhalts, über den außerordentlichen Revisionsrekurs des Vaters M*, Vereinigtes Königreich, vertreten durch Tischler und Tischler Rechtsanwälte GmbH in Klagenfurt am Wörthersee, gegen den Beschluss des Landesgerichts Klagenfurt als Rekursgericht vom 23. September 2022, GZ 2 R 100/22s-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen (§ 71 Abs 3 AußStrG).
+Text
+Begründung:
+[1] 		Die Vorinstanzen verpflichteten den Vater zur Zahlung von Unterhalt für seine drei in Österreich bei der Mutter lebenden Kinder.
+[2] 		Das Rekursgericht erklärte den ordentlichen Revisionsrekurs gegen seine Entscheidung für nicht zulässig.
+Rechtliche Beurteilung
+[3] 		Der gegen die gesamte Entscheidung gerichtete Revisionsrekurs des Vaters wurde richtigerweise nur betreffend des ältesten Kindes dem Obersten Gerichtshof direkt zur Entscheidung (und im Übrigen dem Rekursgericht zur Behandlung der Zulassungsvorstellung in Bezug auf die beiden jüngeren Kinder) vorgelegt.
+[4] 		Der Wert des Entscheidungsgegenstands ist für jedes Kind einzeln zu berechnen (RS0112656; RS0017257). Nur beim ältesten Kind übersteigt dieser, zumal es nur auf den zu leistenden (strittigen) laufenden Unterhalt ankommt (RS0103147 [T26, T29]), die Grenze von 30.000 EUR, sodass trotz des Ausspruchs des Rekursgerichts (wonach der [ordentliche] Revisionsrekurs nicht zulässig ist) gemäß § 62 Abs 5 AußStrG ein (außerordentlicher) Revisionsrekurs erhoben werden kann.
+[5] 		Der außerordentliche Revisionsrekurs des Vaters ist daher zwar statthaft; er spricht aber keine erhebliche Rechtsfrage an:
+[6] 		1. Der Vater gründet seinen Standpunkt, er müsse seinen Kindern keinen Unterhalt leisten, auf eine mit der Mutter im Vereinigten Königreich abgeschlossene  Vereinbarung. Das Rekursgericht legte diese dahin aus, dass es sich um eine zwischen den Eltern im eigenen Namen abgeschlossene, nicht aber um eine von der Mutter im Namen der Kinder (einerseits) mit dem Vater (andererseits) getroffene Übereinkunft handle.
+[7] 		Die Auslegung einer Vereinbarung im Einzelfall wirft als solche keine Rechtsfragen auf, deren Entscheidung zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommen würde (RS0113785; RS0042776).
+[8] 		Zur Beurteilung des Rekursgerichts zeigt der Vater mit seinem Hinweis darauf, dass sich die Mutter doch dazu verpflichtet habe, für den Unterhalt der Minderjährigen (allein) aufzukommen und den Vater schad- und klaglos zu halten, keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung zur Frage, zwischen welchen Parteien die Vereinbarung geschlossen wurde, auf. Warum ausgehend von einer Einigung (nur) zwischen den Eltern die Beurteilung des Rekursgerichts, an eine solche Verpflichtung wäre allenfalls die Mutter gebunden, nicht aber die Kinder dem Vater gegenüber, in korrekturbedürftiger Weise unrichtig sein sollte, vermag der Vater mit seinem Vorhalt, die – selbst nach seinen Ausführungen im Rechtsmittel (s Revisionsrekurs Seite 4) – „zwischen den Kindeseltern … getroffene Vereinbarung“ gelte auch in Österreich, nicht zu erklären; noch weniger gelingt ihm dies mit der schlicht gegenteiligen, aber begründungslosen Behauptung, sie entfalte (doch) gegenüber den Kindern Wirkung.
+[9] 		Die Lösung der von ihm als in ihrer Bedeutung über den konkreten Fall hinausgehend angesehenen Rechtsfrage, ob die im Vereinigten Königreich zwischen den Eltern (und nicht zwischen den Kindern und dem Vater) geschlossene Vereinbarung auch in Österreich gilt, ist für den  Unterhaltsanspruch der Kinder gegenüber dem Vater (und damit auch für den hier zu beurteilenden Anspruch des ältesten Kindes) nicht präjudiziell (vgl RS0088931).
+[10] 		2. Die Höhe des festgesetzten Unterhalts wurde im Rekurs nicht bekämpft. Auf das – zur Bekämpfung der Höhe im Übrigen unkonkret bleibende – Vorbringen (es handle sich um einen „außergewöhnlichen Fall“, der Vater habe, weil er nicht im Inland wohne und aufgrund der Anreise, „erhebliche Mehrkosten“, um sein Kontaktrecht wahrzunehmen) ist schon wegen des Verstoßes gegen das Neuerungsverbot gemäß § 66 Abs 2 AußStrG nicht einzugehen (vgl auch RS0119918).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0060OB00004.23S.0125.000

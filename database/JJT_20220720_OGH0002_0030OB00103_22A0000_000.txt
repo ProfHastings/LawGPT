@@ -1,0 +1,69 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.07.2022
+Geschäftszahl
+3Ob103/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei Verein für Konsumenteninformation, 1060 Wien, Linke Wienzeile 18, vertreten durch die Kosesnik-Wehrle & Langer Rechtsanwälte KG in Wien, gegen die beklagte Partei S* GmbH, *, vertreten durch die Maybach Görg Lenneis Gered Rechtsanwälte GmbH in Wien, wegen Unterlassung und Urteilsveröffentlichung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 18. März 2022, GZ 5 R 141/21y-30, mit dem das Urteil des Handelsgerichts Wien vom 23. Juni 2021, GZ 30 Cg 29/20x-25, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Dem Gerichtshof der Europäischen Union wird gemäß Art 267 AEUV folgende Frage zur Vorabentscheidung vorgelegt:
+Ist Art 9 Abs 1 der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates vom 25. 10. 2011 über die Rechte der Verbraucher dahin auszulegen, dass dem Verbraucher bei „automatischer Verlängerung“ (Art 6 Abs 1 lit o der Richtlinie) eines Fernabsatzvertrags neuerlich ein Widerrufsrecht zukommt?
+II. Das Verfahren vor dem Obersten Gerichtshof wird bis zum Einlangen der Vorabentscheidung des Gerichtshofs der Europäischen Union gemäß § 90a Abs 1 GOG ausgesetzt.
+Text
+Begründung:
+A. Sachverhalt
+[1] 		Der Kläger ist ein nach § 29 Konsumentenschutzgesetz (KSchG) klagebefugter Verein.
+[2] 		Die Beklagte betreibt Online-Lernplattformen für Schüler. Sie bietet ihre Leistungen über das Internet auch im gesamten österreichischen Bundesgebiet an und tritt in ihrer geschäftlichen Tätigkeit laufend mit Verbrauchern im Sinn des § 1 KSchG, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in Österreich haben, in rechtsgeschäftlichen Kontakt. Die Beklagte schließt mit den Verbrauchern Verträge, denen sie ihre Allgemeine Geschäftsbedingungen (AGB) zugrunde legt.
+[3] 		Die AGB der Beklagten sehen vor, dass bei der erstmaligen Buchung eines Abonnements auf der Plattform dieses 30 Tage lang ab Vertragsschluss kostenlos getestet und während dieser Zeit jederzeit fristlos gekündigt werden kann, dass das Abonnement erst nach Ablauf der 30 Tage kostenpflichtig wird und dass für den Fall des Unterbleibens einer Kündigung innerhalb der 30 Tage der im Buchungsprozess vereinbarte kostenpflichtige Abonnementzeitraum zu laufen beginnt.
+[4] 		Für den Fall, dass der kostenpflichtige Abonnementzeitraum abläuft, ohne dass die Beklagte oder der Verbraucher rechtzeitig gekündigt hat, verlängert sich nach den AGB das Abonnement automatisch um eine bestimmte Zeit.
+[5] 		Die Beklagte informiert die Verbraucher anlässlich des erstmaligen Vertragsschlusses über das den Verbrauchern wegen des vorliegenden Vertragsschlusses im Fernabsatz zustehende Rücktrittsrecht (Widerrufsrecht).
+B. Prozessstandpunkte der Parteien und bisheriges Verfahren
+[6] 		Der Kläger begehrt – soweit für das Revisionsverfahren noch von Bedeutung – die Beklagte schuldig zu erkennen, „es im geschäftlichen Verkehr mit Verbrauchern zu unterlassen, Verbraucher bei Verlängerung eines befristeten Vertragsverhältnisses im Fernabsatz nicht in klarer und verständlicher Weise über die Bedingungen, die Fristen und die Vorgangsweise für die Ausübung des Rücktrittsrechts, dies unter Zurverfügungstellung des Muster-Widerrufsformulars zu informieren, oder sinngleiche Praktiken anzuwenden“. Er vertritt die Ansicht, dass dem Wortlaut des Art 9 der Richtlinie keine Einschränkung auf den erstmaligen Vertragsabschluss zu entnehmen sei. Folglich habe der Verbraucher auch bei Überleitung seines Testabonnements in ein reguläres Abonnement und auch bei der Verlängerung eines regulären Abonnements ein Rücktrittsrecht (Widerrufsrecht) nach der Art 9 der Richtlinie umsetzenden Bestimmung des § 11 FAGG. Über dieses zweite Rücktrittsrecht (Widerrufsrecht) informiere die Beklagte die Verbraucher nicht. Damit verstoße sie gegen die Informationspflicht nach § 4 Abs 1 Z 8 FAGG, was sie unterlassungspflichtig nach § 28a Abs 1 KSchG mache.
+[7] 		Die Beklagte trat diesem Unterlassungsbegehren entgegen. Sie nahm den Standpunkt ein, dass die vorgesehenen automatischen Vertragsverlängerungen kein zweites Rücktrittsrecht (Widerrufsrecht) des Verbrauchers begründeten, folglich müsse sie über ein solches auch nicht informieren.
+[8] 		Das Erstgericht verurteilte – soweit hier von Interesse – die Beklagte klagegemäß.
+[9] 		Das Berufungsgericht änderte das Urteil – soweit hier von Interesse – in eine Klageabweisung ab.
+Rechtliche Beurteilung
+[10] 		Gegen diese Entscheidung richtet sich die vom Berufungsgericht zugelassene Revision des Klägers an den Obersten Gerichtshof.
+C. Relevante Normen
+Art 2 Z 7, Art 6 Abs 1 lit h und o und Art 9 Abs 1 Verbraucherrechte-Richtlinie lauten jeweils samt Überschrift:
+Artikel 2
+Begriffsbestimmungen
+Im Sinne dieser Richtlinie bezeichnen die Ausdrücke
+[…]
+7. „Fernabsatzvertrag“ jeden Vertrag, der zwischen dem Unternehmer und dem Verbraucher ohne gleichzeitige körperliche Anwesenheit des Unternehmers und des Verbrauchers im Rahmen eines für den Fernabsatz organisierten Vertriebs- bzw. Dienstleistungssystems geschlossen wird, wobei bis einschließlich zum Zeitpunkt des Vertragsabschlusses ausschließlich ein oder mehrere Fernkommunikationsmittel verwendet wird/werden;
+Artikel 6
+Informationspflichten bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen
+(1) Bevor der Verbraucher durch einen Vertrag im Fernabsatz oder einen außerhalb von Geschäftsräumen geschlossenen Vertrag oder ein entsprechendes Vertragsangebot gebunden ist, informiert der Unternehmer den Verbraucher in klarer und verständlicher Weise über Folgendes:
+[…]
+h) im Falle des Bestehens eines Widerrufsrechts die Bedingungen, Fristen und Verfahren für die Ausübung dieses Rechts gemäß Artikel 11 Absatz 1 sowie das Muster-Widerrufsformular gemäß Anhang I Teil B;
+[…]
+o) gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge;
+Artikel 9
+Widerrufsrecht
+(1) Sofern nicht eine der Ausnahmen gemäß Artikel 16 Anwendung findet, steht dem Verbraucher eine Frist von 14 Tagen zu, in der er einen Fernabsatz- oder einen außerhalb von Geschäftsräumen geschlossenen Vertrag ohne Angabe von Gründen und ohne andere Kosten als in Artikel 13 Absatz 2 und Artikel 14 vorgesehen widerrufen kann.
+§ 3 Z 2, § 4 Abs 1 Z 8 und 14 und § 11 Abs 1 österreichisches Fern- und Auswärtsgeschäfte-Gesetz (FAGG) lauten jeweils samt Überschrift:
+Begriffsbestimmungen
+§ 3. In diesem Bundesgesetz bezeichnet der Ausdruck
+[…]
+2. „Fernabsatzvertrag“ jeden Vertrag, der zwischen einem Unternehmer und einem Verbraucher ohne gleichzeitige körperliche Anwesenheit des Unternehmers und des Verbrauchers im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems geschlossen wird, wobei bis einschließlich des Zustandekommens des Vertrags ausschließlich Fernkommunikationsmittel verwendet werden;
+Inhalt der Informationspflicht; Rechtsfolgen
+§ 4. (1) Bevor der Verbraucher durch einen Vertrag oder seine Vertragserklärung gebunden ist, muss ihn der Unternehmer in klarer und verständlicher Weise über Folgendes informieren:
+[…]
+8. bei Bestehen eines Rücktrittsrechts die Bedingungen, die Fristen und die Vorgangsweise für die Ausübung dieses Rechts, dies unter Zurverfügungstellung des Muster-Widerrufsformulars gemäß Anhang I Teil B,
+[…]
+14. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen für die Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
+Rücktrittsrecht und Rücktrittsfrist
+§ 11 (1) Der Verbraucher kann von einem Fernabsatzvertrag oder einem außerhalb von Geschäftsräumen geschlossenen Vertrag binnen 14 Tagen ohne Angabe von Gründen zurücktreten.
+[…]
+D. Begründung der Vorlage
+[11] 		Die Entscheidung des Rechtsstreits hängt maßgeblich von der Auslegung des Art 9 Abs 1 der Richtlinie ab, an der sich ihrerseits die Auslegung von § 11 Abs 1 FAGG zu orientieren hat.
+[12] 		Nach den Gesetzesmaterialien zu § 11 FAGG ist das Rücktrittsrecht nicht auf den erstmaligen Vertragsabschluss zwischen Unternehmer und Verbraucher beschränkt, sondern können auch die Verlängerung eines bestehenden, aber befristeten Vertragsverhältnisses oder die inhaltliche Änderung eines bestehenden Vertragsverhältnisses, wenn sie im Fernabsatz oder außerhalb von Geschäftsräumen vereinbart werden, dem FAGG unterliegen und damit zu einem Rücktrittsrecht des Verbrauchers hinsichtlich der vereinbarten Vertragsverlängerung oder Vertragsänderung führen (ErläutRV 89 BlgNR 25. GP 34).
+[13] 		Unter Bezugnahme auf die Gesetzesmaterialien wird in der Literatur die Auffassung vertreten, dass ein Rücktrittsrecht auch bei einer inhaltlichen Veränderung oder (gesondert vereinbarten) Verlängerung eines wie auch immer zustande gekommenen Vertragsverhältnisses im Wege eines außerhalb von Geschäftsräumen geschlossenen Vertrags oder eines Fernabsatzvertrags in Betracht komme (Schwarzenegger in Schwimann/Kodek, ABGB5 IX [2022] § 11 FAGG Rz 6; iglS Geiger in Keiler/Klauser, Österreichisches und Europäisches Verbraucherrecht [6. Lfg 2020] § 11 FAGG Rz 5). Solle die Zustimmung des Verbrauchers mittels Erklärungsfiktion erfolgen, müsse der Verbraucher auf die Bedeutung seines Verhaltens besonders hingewiesen werden (Dehn, Aktuelle Rechtsprechung zum FAGG, VbR 2019, 93 [98]).
+[14] 		Dass die automatische Verlängerung eines Fernabsatzvertrags neuerlich ein Rücktrittsrecht (Widerrufsrecht) bewirke, wird in der Literatur bezweifelt. Es wird darauf hingewiesen, dass Art 6 Abs 1 lit o der Richtlinie bloß eine Verpflichtung zur Information über „gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge“ vorsieht, von einem Widerrufsrecht bzw von einer Information über ein solches in der Vorschrift, obgleich sie die automatische Vertragsverlängerung behandelt, aber nicht die Rede sei. Zudem wird in Abrede gestellt, dass die automatische Verlängerung einen (zweiten) „Fernabsatz-vertrag“ im Sinne des Art 2 Z 7 der Richtlinie bedeute. Dies wird damit begründet, dass kein (zweiter) Vertrag „abgeschlossen“, sondern der erste Vertrag bloß nicht gekündigt (und wie in diesem vorgesehen dadurch dessen Vertragszeit verlängert) werde, sowie damit, dass bei einer automatischen Vertragsverlängerung nicht von einer „ausschließlichen Verwendung von Fernkommunikationsmitteln“ im Sinn der Legaldefinition von „Fernabsatzvertrag“ die Rede sein könne. Schließlich wird ins Treffen geführt, dass bei einer automatischen Vertragsverlängerung das beim Fernabsatz bestehende typische (das Widerrufsrecht sachlich rechtfertigende) Risiko nicht mehr bestehe (vgl ErwGr 37 der Richtlinie). Der Verbraucher sei hier mit der Ware oder Dienstleistung bereits ausreichend vertraut und sei schon anlässlich des ursprünglichen Vertragsschlusses über die Möglichkeit der Verlängerung hinreichend informiert worden (idS insb Schamberger, JBl 2018, 117 f [Entscheidungs-anmerkung] und Wais, Gesetzlicher Schutz vor ungewollten Vertragsverlängerungen, NJW 2018, 1777 ff, je mwN; vgl ferner Dehn in Schwimann/Kodek, ABGB5 IX [2022] § 4 FAGG Rz 37; Schirmbacher in Tamm/Tonner/Brönneke, Verbraucherrecht3 [2020] Kap 9 Rz 136 ff).
+[15] 		Der Gerichtshof der Europäischen Union hat entschieden, dass Art 2 lit a der Richtlinie 2002/65/EG über den Fernabsatz von Finanzdienstleistungen an Verbraucher dahin auszulegen ist, dass eine Änderungsvereinbarung zu einem Darlehensvertrag nicht unter den Begriff „Finanzdienstleistungen betreffender Vertrag“ im Sinne dieser Bestimmung fällt, wenn durch sie lediglich der ursprünglich vereinbarte Zinssatz geändert wird, ohne die Laufzeit des Darlehens zu verlängern oder dessen Höhe zu ändern, und die ursprünglichen Bestimmungen des Darlehensvertrags den Abschluss einer solchen Änderungsvereinbarung oder – für den Fall, dass eine solche nicht zustande kommen würde – die Anwendung eines variablen Zinssatzes vorsahen (EuGH C-639/18, Rs Sparkasse Südholstein).
+[16] 		Nach Beurteilung des Obersten Gerichtshofs besteht hinsichtlich der eingangs gestellten Frage – mögen auch die in der Literatur vorgetragenen Argumente gegen ein Widerrufsrecht sprechen und die Entscheidung des EuGH C-639/18 für den vorliegenden Fall fruchtbar gemacht werden können – kein acte clair (idS auch Schamberger, JBl 2018, 118). Der Oberste Gerichtshof sieht sich damit als letztinstanzliches Gericht zur Vorlage verpflichtet (vgl RS0082949).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00103.22A.0720.000

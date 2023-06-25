@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.01.1966
+Geschäftszahl
+6Ob25/66
+Norm
+Allgemeine Österreichische Spediteurbedingungen §67;
+JN §88;
+JN §104;
+Kopf
+SZ 39/17
+Spruch
+Trotz § 67 AÖSp. bedarf eine Gerichtsstandsvereinbarung des urkundlichen Nachweises
+Entscheidung vom 26. Jänner 1966, 6 Ob 25/66
+I. Instanz: Bezirksgericht Innsbruck; II. Instanz: Landesgericht Innsbruck
+Text
+Die klagende Partei begehrt von der beklagten Partei den Klagsbetrag als Entgelt für die Durchführung eines Transportes und grundet die Zuständigkeit des Erstgerichtes auf § 67 AÖSp.
+Das Erstgericht wies die von der beklagten Partei erhobene Einrede der örtlichen Unzuständigkeit mit folgender Begründung ab:
+Da die AÖSp. nur organisatorische Maßnahmen der Speditionswirtschaft darstellen, müsse, um die Zuständigkeit des Erstgerichtes zu begrunden, noch ein besonderer Tatbestand vorliegen, so eine ausdrückliche Vereinbarung, eine stillschweigende Unterwerfung oder ein nach § 346 HGB. zu beurteilender Handelsbrauch.
+Im vorliegenden Fall seien beide Parteien Transportunternehmen; sie müssen daher nach der Art ihres Handelsgewerbes die Spediteursbedingungen gekannt haben, und es sei anzunehmen, daß die Zuständigkeitsbestimmung des § 67 AÖSp. als Handelsbrauch aufzufassen sei.
+Das Rekursgericht änderte diese Entscheidung dahin ab, daß es das Erstgericht als unzuständig erklärte und die Klage zurückwies. Hiezu führte es folgendes aus:
+Nach dem Klagsvorbringen müsse geschlossen werden, daß die Klage auf den Gerichtsstand des Erfüllungsortes nach § 88 (1) JN. oder auf einen nach § 104 (1) JN. vereinbarten Gerichtsstand gestützt werde. In beiden Fällen hätte es des urkundlichen Nachweises in der Klage bedurft. Da dieser fehlte, wäre die Klage schon im Vorprüfungsverfahren nach § 41 (2) JN. zurückzuweisen gewesen.
+Gewiß könne bei tatsächlicher Übung durch einen gewissen Zeitraum mit Zustimmung beider Teile auch ein Handelsbrauch nach den AÖSp. erstehen. Dafür fehle aber im Klagevorbringen jeder Hinweis. Ein Handelsbrauch dürfe nicht aus dem Vorbringen der Parteien erschlossen, sondern müsse ausdrücklich vorgebracht werden. Im vorliegenden Fall werde nur Zuständigkeit nach den AÖSp. behauptet, doch seien diese mangels verbindlicher Erklärung durch eine Behörde nur als Geschäftsbedingungen zu werten, denen jede normative Wirkung gegenüber dem Kunden des Spediteurs, auch wenn er selbst Spediteur ist, mangle.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Begründung:
+Wie das Rekursgericht zutreffend dargelegt hat, kann aus dem Klagsvorbringen nur geschlossen werden, daß die klagende Partei den Gerichtsstand des Erfüllungsortes nach § 88 (1) JN. oder den vereinbarten Gerichtsstand nach § 104 (1) JN. geltend macht. Während der Erstgenannte nur den urkundlichen Nachweis einer Gerichtsstandsvereinbarung verlangt, setzt § 104 JN. eine ausdrückliche Vereinbarung namentlich angeführter Orte sowie den urkundlichen Nachweis der Vereinbarung in der Klage voraus. Beim Gerichtsstand nach § 88 (1) JN. bedarf es der wirklichen Urkundenvorlage demnach nur dann, wenn dem Gericht bei der Prüfung seiner Zuständigkeit die Angaben der Klage als unrichtig bekannt sind (§ 41 (2) JN.) oder wenn die bezüglichen Klagsbehauptungen vom Beklagten bestritten werden (Fasching- Komm. I, S. 445). Hingegen ist eine auf den Gerichtsstand nach § 104 JN. gestützte Klage zufolge positiver Gesetzesvorschrift sofort zurückzuweisen, wenn der urkundliche Nachweis der Vereinbarung fehlt. Ist die Zurückweisung unterblieben und erhebt der Beklagte die Einrede der Unzuständigkeit, so kann der urkundliche Nachweis der Vereinbarung auch noch bis zur Beschlußfassung des Gerichtes erbracht werden.
+Da die klagende Partei im vorliegenden Fall diesen Nachweis weder in der Klage noch nach erhobener Unzuständigkeitseinrede erbracht hat, wurde mit Recht das Erstgericht für unzuständig erklärt und die Klage zurückgewiesen.
+Die Ausführungen des Revisionsrekurses, der Gerichtsstand nach § 67 AÖSp. gelte mit Rücksicht darauf, daß beide Streitteile Spediteure sind, als stillschweigend vereinbart bzw. gemäß § 346 HGB. als Handelsbrauch, gehen am Kern der Sache vorbei. Dies kann im Sinne der Entscheidung SZ. XXVI 180 hinsichtlich der sonstigen Bestimmungen der AÖSp. allenfalls in Betracht kommen. In prozessualer Hinsicht ist jedoch, abgesehen davon, daß § 104 (1) JN.
+- wie schon dargelegt - eine ausdrückliche Vereinbarung namentlich angeführte Orte voraussetzt, auch der Gerichtsstand nach § 88 (1) JN., bei dem eine stillschweigende Vereinbarung möglich wäre, deswegen nicht gegeben, weil der urkundliche Nachweis hiefür nicht erbracht wurde.

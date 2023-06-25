@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.07.1967
+Geschäftszahl
+3Ob72/67
+Norm
+EO §78;
+JN §44;
+JN §46 (1);
+ZPO §425 (2);
+Kopf
+SZ 40/97
+Spruch
+Der rechtskräftige Überweisungsbeschluß gemäß § 44 JN. bindet das Gericht, an das die Sache überwiesen wurde, zumindest insofern, als dieses Gericht seine Zuständigkeit nicht wegen der Zuständigkeit des überweisenden Gerichtes verneinen kann.
+Entscheidung vom 5. Juli 1967, 3 Ob 72/67.
+I. Instanz: Exekutionsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Es handelt sich um eine Exekution zur Zivilteilung einer Liegenschaft durch Feilbietung. Der Exekutionsantrag wurde am 13. März 1965 beim Bezirksgericht Döbling eingebracht. Dem Begehren wurde rechtskräftig stattgegeben. Nachdem zahlreiche Beschlüsse gefaßt und Rechtsmittelentscheidungen, darunter eine des Obersten Gerichtshofes, ergangen waren, fand das Bezirksgericht Döbling in seinem Beschluß vom 5. Dezember 1966, GZ. E.../65-84, daß es unzuständig sei und überwies die Sache gemäß § 44
+JN. dem Exekutionsgericht Wien. Dagegen ergriff der Verpflichtete Rekurs, in welchem er die Ansicht vertrat, daß das Bezirksgericht Döbling zuständig sei. Das Rechtsmittel blieb erfolglos (Entscheidung des Landesgerichtes für Zivilrechtssachen Wien vom 22. Dezember 1966, GZ. 43 R.../66-88). Das Exekutionsgericht Wien beraumte nun auf Antrag des betreibenden Gläubigers einen Versteigerungstermin an. Das Rekursgericht wies den Antrag ab und verfügte die Löschung der das Verfahren betreffenden bücherlichen Anmerkung. Der Oberste Gerichtshof ordnete jedoch mit Beschluß vom 19. April 1967, GZ. 3 Ob 43/67-106, die Fortsetzung des Verfahrens an.
+Das Erstgericht fand jetzt, daß die Sache eigentlich doch vor das Bezirksgericht Döbling gehöre, erklärte das Verfahren samt den rechtskräftig gewordenen Beschlüssen, einschließlich der genannten oberstgerichtlichen Entscheidung ONr. 106, für nichtig und überwies die Sache dem Bezirksgericht Döbling. Es führte aus, daß es an die bisherigen Zuständigkeitsentscheidungen nicht gebunden sei, weil keine Frage der sachlichen, sondern der örtlichen Zuständigkeit vorliege (§ 46 (1) JN.). Es handle sich um eine Exekution im Sinn des § 18 Z. 1 EO., sodaß das Exekutionsgericht gemäß § 4 (1) Z. 1 und (2) der Verordnung BGBl. Nr. 200/1954 nicht zuständig sei.
+Das Rekursgericht hob diesen Beschluß auf und ordnete die Fortsetzung des Verfahrens an. Es vertrat die Ansicht, daß der Überweisungsbeschluß des Bezirksgerichtes Döbling bindend sei und das Exekutionsgericht daher nicht mehr seine Unzuständigkeit aussprechen könne.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Verpflichteten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Mit Recht verweist das Rekursgericht auf die Bestimmung des § 425
+(2) ZPO., die gemäß § 78 EO. auch hier anwendbar ist. Danach sind Beschlüsse bindend, soweit sie nicht bloß prozeßleitend sind. Etwas anderes gilt nur dort, wo das Gesetz eine Ausnahme macht.
+Eine solche scheint das Erstgericht im § 46 (1) JN. zu erblicken. Nach dieser Vorschrift ist der auf Grund der Bestimmungen über die sachliche Zuständigkeit ergangene Ausspruch eines Gerichtes, womit, dieses sich für unzuständig erklärt hat, für jedes Gericht bindend, bei dem die Rechtssache in der Folge anhängig wird. Daraus könnte man den Umkehrschluß ziehen, daß bei Annahme der örtlichen Unzuständigkeit keine Bindung besteht. Aus den Worten "in der Folge anhängig wird" ergibt sich jedoch, daß sich das Gesetz nur auf den bloßen Ausspruch der Unzuständigkeit, also die Zurückweisung einer Klage oder etwa eines Exekutionsantrages, weil das richtige Bewilligungsgericht nicht bekannt ist, bezieht, nicht aber auf Überweisungen nach § 44 JN. Bei einem solchen Beschluß kommt zu dem Ausspruch der eigenen Unzuständigkeit noch ein weiterer dazu, nämlich, daß die Sache vom anderen Gericht zu erledigen ist. Daß das Gericht, dem es überwiesen worden ist, an diese Entscheidung nicht gebunden sei, wird nirgends ausgesprochen. Der Oberste Gerichtshof hat auch in der Entscheidung RiZ. 1937 S. 545 erklärt, daß die rechtskräftige Überweisung eines Exekutionsantrages vom Bezirksgericht Innere Stadt an das Exekutionsgericht Wien bindend sei. Ob das auch gilt, wenn nach Ansicht des Gerichtes, dem die Sache überwiesen worden ist, zwar nicht das überweisende, aber ein drittes Gericht zuständig ist, brauchte hier nicht erörtert zu werden.

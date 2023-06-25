@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.10.2021
+Geschäftszahl
+3Ob159/21k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei I***** GmbH, *****, Deutschland, vertreten durch Wess Kux Kispert & Eckert Rechtsanwalts GmbH in Wien, gegen die beklagten Parteien 1) P***** KG, *****, und 2) Mag. J***** P*****, beide vertreten durch Mag. Bertram Fischer, Rechtsanwalt in Mondsee, wegen 445.524,46 EUR sA, über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 30. Juni 2021, GZ 4 R 57/21m-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Gegenstand des Verfahrens sind (an die Klägerin abgetretene) Schadenersatzansprüche gegen die erstbeklagte Steuerberatungsgesellschaft wegen zu viel bezahlter USt-Beträge im Zusammenhang mit einer zunächst irrtümlich nicht umgesetzten „USt-Organschaft“. Die Erstbeklagte hat ihren Beratungsfehler am 22. 9. 2014 eingestanden; der Zweitbeklagte ist ihr Komplementär.
+[2] 		Das Erstgericht hat das Klagebegehren – unter Anwendung der sechsmonatigen Verjährungsfrist nach § 8 Abs 3 der Allgemeinen Auftragsbedingungen für Wirtschaftstreuhandberufe (AAB 2008) – wegen Verjährung abgewiesen.
+[3] 		Das Berufungsgericht hat demgegenüber mit Zwischenurteil gemäß § 393a ZPO ausgesprochen, dass die Klagsforderung nicht verjährt und die ordentliche Revision nicht zulässig sei.
+Rechtliche Beurteilung
+[4] 		Die Beklagten zeigen mit ihrer dagegen erhobenen außerordentlichen Revision keine erhebliche Rechtsfrage auf:
+[5] 		1.1 Die Vereinbarung einer kürzeren als der gesetzlichen Verjährungsfrist ist grundsätzlich zulässig (RS0034782; 4 Ob 23/21t). Dies gilt jedoch nur dann uneingeschränkt, wenn die Fristverkürzung zwischen zumindest annähernd gleich starken Vertragspartnern individuell vereinbart wurde (1 Ob 1/00d).
+[6] 		Außer einer Individualvereinbarung kommt auch eine – hier fragliche – die Verjährungsfrist verkürzende Regelung in AGB in Betracht. Wie jede AGB-Norm unterliegt auch eine solche Regelung der hier maßgebenden Einbeziehungskontrolle sowie auch der Geltungs- und Inhaltskontrolle (vgl 1 Ob 1/00d).
+[7] 		1.2 Nach ständiger Rechtsprechung gelten AGB kraft ausdrücklicher oder stillschweigender Parteienvereinbarung. Dabei genügt es, wenn der Unternehmer ausreichend deutlich – etwa durch einen Hinweis im Vertragstext – zu erkennen gibt, nur zu seinen AGB kontrahieren zu wollen, und der Geschäftspartner zumindest die Möglichkeit hat, vom Inhalt dieser Bedingungen Kenntnis zu nehmen (RS0014506; 4 Ob 23/21t). Da diese Voraussetzungen – abgesehen von einer gegenteiligen Sonderregelung etwa im Vertragstext oder in den AGB selbst – vor dem Vertragsabschluss erfüllt sein müssen (vgl 4 Ob 166/19v), gelten vereinbarte AGB grundsätzlich nicht rückwirkend für einen bereits früher abgeschlossenen Vertrag, sondern nur pro futuro (vgl 7 Ob 300/06b).
+[8] 		1.3 Die Beurteilung des Berufungsgerichts, dass die erst im Jahr 2016 erfolgte Einbeziehung der Allgemeinen Auftragsbedingungen in das Geschäftsverhältnis zwischen der Erstbeklagten und ihrer Klientin (durch Unterfertigung der damaligen auf die AAB verweisenden Vollmacht) nur für künftige Rechtsbeziehungen und Geschäftsfälle gelten sollte und – zufolge der Verjährungsverzichte der Erstbeklagten in den Jahren 2018 und 2019, von denen nur bereits vor 12. 9. 2017 verjährte Ansprüche ausgeschlossen waren – die geltend gemachten Ansprüche nicht verjährt seien, hält sich im Rahmen der Rechtsprechung.
+[9] 		2. Grundsätzlich richtig ist, dass AGB auch dadurch schlüssig zum Vertragsinhalt werden können, dass die Vertragsteile im Rahmen ihrer schon länger andauernden Geschäftsbeziehung in ihren Geschäftspapieren auf die Geltung der AGB hinweisen und dieser Hinweis unbeanstandet blieb (6 Ob 73/01f; 4 Ob 23/21t). Dazu kann sich die Beklagte aber auf kein konkretes Vorbringen im erstinstanzlichen Verfahren berufen, weshalb sie auch keinen sekundären Feststellungsmangel aufzeigt.
+[10] 		3. Mangels erheblicher Rechtsfrage war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0030OB00159.21K.1021.000

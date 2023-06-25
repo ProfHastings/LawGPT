@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.2022
+Geschäftszahl
+4Ob225/21y
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Hon.-Prof. PD Dr. Rassi als Vorsitzenden und die Hofräte und Hofrätinnen Dr. Schwarzenbacher, MMag. Matzka, Dr. Faber sowie Mag. Istjan, LL.M., als weitere Richter in der Pflegschaftssache der 1. mj R* C*, geboren am * 2006, 2. mj K* C*, geboren am * 2008, beide vertreten durch das Land Wien als Kinder- und Jugendhilfeträger (Magistrat der Stadt Wien, Wiener Kinder- und Jugendhilfe, Rechtsvertretung Bezirke *), wegen Unterhalt, infolge des außerordentlichen Revisionsrekurses des Vaters Y* C*, vertreten durch Wieneroiter Raffling Tenschert & Partner Rechtsanwälte GmbH in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 28. Juni 2021, GZ 43 R 108/21g-104, den
+Beschluss
+gefasst:
+Spruch
+Der Akt wird dem Erstgericht zurückgestellt.
+Text
+Begründung:
+[1] 		Der Vater beantragte hinsichtlich des laufenden Unterhalts (neben weiteren Anträgen zum rückständigen Unterhalt), seine monatlichen Unterhaltsleistungen von 400 EUR je Kind auf 30 EUR herabzusetzen. Die Minderjährigen sprachen sich gegen jegliche Herabsetzung aus.
+[2] 		Das Erstgericht gab dem Herabsetzungsbegehren des Vaters insofern statt, als es den laufenden Unterhalt je Kind auf (richtig) 230 EUR reduzierte.
+[3] 		Das von beiden Seiten angerufene Rekursgericht bestätigte diese Entscheidung bezüglich des laufenden Unterhalts und erklärte den ordentlichen Revisionsrekurs für nicht zulässig.
+[4] 		Über das Vermögen des Vaters wurde mit Beschluss vom 13. 10. 2021 ein Sanierungsverfahren mit Eigenverwaltung eröffnet, sodass das Unterhaltsverfahren betreffend den Zeitraum bis einschließlich Oktober 2021 unterbrochen ist (RS0036996 [T4, T9]), was aber für den laufenden Unterhalt nicht gilt (9 Ob 33/15s).
+Rechtliche Beurteilung
+[5] 		Das Erstgericht legte das vom Vater gegen die Rekursentscheidung erhobene Rechtsmittel („außerordentlicher Revisionsrekurs“) dem Obersten Gerichtshof zur Entscheidung vor. Diese Vorgangsweise entspricht nicht dem Gesetz.
+[6] 		1. Hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG ausgesprochen, dass der (ordentliche) Revisionsrekurs nicht nach § 62 Abs 1 AußStrG zulässig ist, so kann gemäß § 62 Abs 5 AußStrG dennoch ein Revisionsrekurs erhoben werden, wenn der Entscheidungsgegenstand insgesamt 30.000 EUR übersteigt oder soweit er nicht rein vermögensrechtlicher Natur ist (außerordentlicher Revisionsrekurs).
+[7] 		2. Im Unterhaltsbemessungsverfahren ist der Entscheidungsgegenstand nach ständiger Rechtsprechung rein vermögensrechtlicher Natur und besteht ausschließlich in einem Geldbetrag. Maßgeblich ist gemäß § 58 Abs 1 JN der 36-fache Betrag jenes monatlichen Unterhaltsbeitrags, der zum Zeitpunkt der Entscheidung zweiter Instanz zwischen den Parteien noch strittig war (RS0122735), wobei regelmäßig auf den laufenden Unterhalt abzustellen ist (RS0122735 [T8]). Der Wert des Entscheidungsgegenstands ist für jedes Kind einzeln zu berechnen; eine Zusammenrechnung der Begehren mehrerer Unterhaltsberechtigter hat nicht stattzufinden (RS0112656; RS0017257). Der Wert des Entscheidungsgegenstands übersteigt daher im vorliegenden Fall jeweils nicht 30.000 EUR ([400-30] x 36 = 13.320).
+[8] 			3. Übersteigt der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt nicht 30.000 EUR und hat das Rekursgericht nach § 59 Abs 1 Z 2 AußStrG den ordentlichen Revisionsrekurs für nicht zulässig erklärt, ist nach § 62 Abs 3 AußStrG der Revisionsrekurs – außer im Fall des § 63 Abs 3 AußStrG – jedenfalls unzulässig. Unter diesen Voraussetzungen kann eine Partei nur gemäß § 63 Abs 1 und 2 AußStrG einen – mit der Ausführung des ordentlichen Revisionsrekurses zu verbindenden – Antrag an das Rekursgericht stellen, den Ausspruch dahin abzuändern, dass der ordentliche Revisionsrekurs doch für zulässig erklärt werde (Zulassungsvorstellung).
+[9] 			4. Da die maßgebliche Wertgrenze bei keinem der Kinder überschritten wird, kommt dem Obersten Gerichtshof im derzeitigen Verfahrensstadium keine Entscheidungskompetenz zu. Das Erstgericht wird zu beurteilen haben, ob es die Eingabe des Vaters als eine (mit einem ordentlichen Revisionsrekurs verbundene) Zulassungsvorstellung an das Rekursgericht (§ 63 AußStrG) oder aber als verbesserungsbedürftig ansieht (RS0109505). Über die Diskrepanz in den Aussprüchen zu den Punkten 2. und 3. der rekursgerichtlichen Entscheidung wird erst bei materieller Behandlung der Rechtsmittelgründe zu erkennen sein.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00225.21Y.0223.000

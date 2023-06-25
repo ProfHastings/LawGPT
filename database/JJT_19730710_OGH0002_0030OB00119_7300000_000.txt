@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.07.1973
+Geschäftszahl
+3Ob119/73
+Norm
+ABGB §468;
+ABGB §469;
+ABGB §1394;
+EO §87;
+Kopf
+SZ 46/72
+Spruch
+Der Schutz des Vertrauens auf das Grundbuch kommt auch dem gutgläubigen rechtsgeschäftlichen Erwerber(Zessionar) einer Zwangshypothek zustatten
+OGH 10. Juli 1973, 3 Ob 119/73 (KG St. Pölten, R 34/73; BG Scheibbs, E 5012/72)
+Text
+Leopold K ist laut den Wechselzahlungsaufträgen des Kreisgerichtes S vom 24. April, 29. April und 15. Mai 1968 zur Zahlung von insgesamt 90.000 S samt Anhang an Josef G verpflichtet. Auf Grund dieser Titel wurde Josef G zu E 959/71 des Erstgerichtes zur Hereinbringung der vollstreckbaren Forderungen per 90.000 S samt Anhang die Exekution durch zwangsweise Pfandrechtsbegründung ob dem Leopold K gehörenden 1/3-Anteil der Liegenschaft EZ 715 KG P bewilligt; zu COZ 1, 2 und 3 wurden Zwangspfandrechte einverleibt. In der Folge wurde auf Grund der Abtretungserklärung vom 10. März 1972 zu TZ 608/1972 des Erstgerichtes die Übertragung dieser Hypotheken an Stefanie S einverleibt und dieser mit Beschluß des Erstgerichtes vom 5. April 1972 zur Hereinbringung der vollstreckbaren Forderungen von insgesamt 90.000 S samt Anhang die Zwangsversteigerung des genannten Liegenschaftsanteiles bewilligt. In der vom Verpflichteten am 25. April 1972 gegen Stefanie S gemäß § 35 EO eingebrachten Klage mit dem Begehren, der Anspruch der Beklagten aus der Abtretung aus den - näher bezeichneten - Wechselzahlungsaufträgen sei erloschen und die Exekution (gemeint: die mit Beschluß vom 5. April 1972 bewilligte Exekution durch Zwangsversteigerung) sei unzulässig, wurde formell erklärt, die Einwendungen des Klägers seien gegen die Einverleibung zu TZ 608/1972 gerichtet, aber dem Inhalte nach ausgeführt, Dr. Kurt P als bevollmächtigter Rechtsfreund des Josef G habe auf Grund wiederholter Hinweise des Klägers, durch die rechtskräftigen Wechselzahlungsaufträge materiell zu Unrecht verurteilt worden zu sein, im Sommer oder Herbst des Jahres 1971 dem Kläger gegenüber erklärt, daß Josef G auf alle Ansprüche aus den Wechselzahlungsaufträgen gegen ihn verzichte, er habe dieser Erklärung als verbindlichen Verzicht zur Kenntnis genommen.
+Auf Grund dieser Klage beantragte der Kläger die Aufschiebung der mit Beschluß vom 5. April 1972 bewilligten Zwangsversteigerung.
+Das Erstgericht gab dem Aufschiebungsantrag ohne weitere Begründung statt.
+Das Rekursgericht wies ihn im wesentlichen mit der Begründung ab, das vom Verpflichteten bekämpfte Zustandekommen der Exekutionstitel könne nicht den Gegenstand einer Oppositionsklage bilden, abgesehen davon sei diese Klage aussichtslos, weil ihr die (im Hinblick auf die Eventualmaxime nicht mehr nachholbare) Behauptung fehle, daß Stefanie S beim Erwerb der Hypothek von Josef G schlechtgläubig gewesen sei.
+Der Oberst Gerichtshof gab dem Revisionsrekurs der verpflichteten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Im Gegensatz zu den Rechtsmittelausführungen besteht der Schutz des rechtsgeschäftlichen Erwerbes im Vertrauen auf das Grundbuch darin, daß der gutgläubige Erwerber eines bücherlichen Rechtes, und damit auch der gutgläubige Zessionar einer Hypothek, auch dann rechtsgültig erwirbt, falls der Zedent nicht bzw. nicht mehr berechtigt ist (ebenso Klang in Klang[2] II, 523 und die dort bei Anm. 33 angeführten Lehrmeinungen und Entscheidungen). Eine Ausnahme gilt allerdings für den exekutiven Erwerb (ebenso Klang II 349 Heller - Berger - Stix in Neumann - Lichtblaus Komm. z. EO[4], 916/17, Jud. 188 u. a.). Hingegen kommt infolge der Rechtsnatur des Zwangspfandrechtes - im Gegensatz zum Grundpfand gemäß § 866 DZPO, welches nur eine Sicherungshypothek darstellt - als voll gültigem Pfandrecht dem rechtsgeschäftlichem Zessionar eines Zwangspfandrechtes eben wegen seines rechtsgeschäftlichen Erwerbes der Schutz des Vertrauens auf das Grundbuch zustatten (ebenso ausdrücklich Heller - Berger - Stix, 916/17, Ehrenzweig I/2, 427 unter IV a) u. a).
+Der vom Kläger als anspruchsaufhebende Tatsache behauptete Verzicht des Zedenten vor der unbestritten verbücherten Abtretung der Hypothekarforderungen - die Schilderung des Zustandekommens der Exekutionstitel sollte hier wohl lediglich der glaubhaften Motivierung der behaupteten Verzichtserklärung dienen - wäre somit nach den vorstehenden Ausführungen gegenüber der Beklagten als rechtsgeschäftlicher Zessionarin der Hypothekarforderungen nur wirksam, wenn sie nicht gutgläubig wäre.
+Mangels einer diesbezüglichen Tatsachenbehauptung sah das Rekursgericht die gegenständliche Oppositionsklage zutreffend als aussichtslos und damit (vgl. hiezu JBl. 1970.259, EvBl. 1971/220 u. a.) den Exekutionsaufschiebungsantrag als unberechtigt an.

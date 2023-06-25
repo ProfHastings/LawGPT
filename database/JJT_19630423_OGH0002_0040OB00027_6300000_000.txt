@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.04.1963
+Geschäftszahl
+4Ob27/63
+Norm
+KO §46;
+ZPO §405;
+Kopf
+SZ 36/63
+Spruch
+Wenn der Zuspruch einer Forderung als Masseforderung begehrt ist, kann sie nicht als Konkursforderung festgestellt werden.
+Entscheidung vom 23. April 1963, 4 Ob 27/63.
+I. Instanz: Arbeitsgericht Wien; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin war Verkäuferin bei der Gemeinschuldnerin Stefanie S. Sie hat im Konkurs eine Entgeltsforderung von 23.834 S 9 g brutto als Masseforderung und von 7304 S 84 g brutto als Konkursforderung erster Klasse angemeldet. Der Masseverwalter bestritt die Ansprüche. Die Klägerin begehrt daher den Zuspruch von 23.834 S 9 g brutto als Masseforderung und die Feststellung der Forderung von 7304 S 84 g brutto als Konkursforderung erster Klasse.
+Das Erstgericht verurteilte - wegen Unzulänglichkeit der Masse - bloß zur Zahlung von 9105 S 19 g netto und stellte fest, daß die Forderungen der Klägerin "im übrigen in der 1. Klasse der Konkursforderungen mit 12.376 S 65 g netto zu Recht" bestehen. Die Abweisung eines Mehrbegehrens enthält das Ersturteil nicht.
+Das Berufungsgericht gab der Berufung der beklagten Partei Folge und änderte das angefochtene Urteil dahin ab, daß es zur Zahlung von 9105 S 19 g netto = 9850 S 13 g brutto verurteilte, das Mehrbegehren von 13.983 S 96 g brutto (23.834 S 09 g brutto minus 9850 S 13 g brutto) abwies und den Rechtsbestand von Forderungen in Höhe von 7304 S 84 g brutto in der ersten Klasse feststellte. Zur Begründung führt das Berufungsgericht aus, das Erstgericht habe der Klägerin in der ersten Klasse zu Unrecht einen höheren als den begehrten Betrag von 7304 S 84 g zugesprochen. Die Prüfung des Feststellungsbegehrens habe sich auf den im Prüfungsverfahren angemeldeten Anspruch sowohl dem Klagsgrund, als auch der Höhe nach und ebenso auf die dortselbst angemeldete Rangordnung zu beschränken.
+Der Oberste Gerichtshof gab der Revision der Klägerin nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Das Erstgericht hat von der gesamten geltend gemachten Entgeltforderung von 35.138 S 93 g brutto 21.481 S 84 g netto als rechtsbeständig erachtet. Davon hatte es aber wegen Unzulänglichkeit der Masse bloß 9105 S 19 g netto als Masseforderung zugesprochen, dafür jedoch über den als Konkursforderung erster Klasse geltend gemachten Betrag von 7304 S 84 g netto einen weiteren Betrag von 5071 S 81 g netto, also insgesamt 12.376 S 65 g netto, als Konkursforderung 1. Klasse festgestellt. Damit ist in der Tat hinsichtlich der Feststellung des Unterschiedsbetrages von 5071 S 81 g als Konkursforderung 1. Klasse das Klagebegehren überschritten und etwas anderes als verlangt zugesprochen worden (§ 405 ZPO.). Masseforderungen und Konkursforderungen sind rechtlich verschieden zu beurteilen; die Massegläubiger sind Gläubiger eigener Art, nicht besonders bevorrechtigte Konkursgläubiger (Bartsch - Pollak, KO.[3] I 286; Jaeger - Lent, KO.[8] § 57 Anm. 10). Die Massegläubiger werden vorab aus der Konkursmasse befriedigt; die Konkursgläubiger kommen nur zum Zuge, wenn nach der vollen Befriedigung aller Masseforderungen etwas erübrigt. Wenn der Zuspruch einer Forderung als Masseforderung begehrt ist, kann sie daher nicht als Konkursforderung festgestellt werden (vgl. Bartsch - Pollak I 512 f.).
+Darauf, daß dann, wenn wider Erwarten eine weitere Masse hervorkommt, die nunmehr abgewiesene Masseforderung wegen Änderung des Sachverhaltes wieder geltend gemacht werden könnte, hat bereits das Erstgericht hingewiesen.

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.07.1952
+Geschäftszahl
+3Ob415/52
+Norm
+ABGB §1380;
+Gerichtsorganisationsgesetz §89;
+ZPO §204 (1);
+Kopf
+SZ 25/188
+Spruch
+Für den Widerruf eines bedingt abgeschlossenen Vergleiches ist es mangels anderer Vereinbarung notwendig, daß der Widerruf am letzten Tag der Frist bei Gericht eingelangt ist.
+Entscheidung vom 2. Juli 1952, 3 Ob 415/52.
+I. Instanz: Bezirksgericht Linz; II. Instanz: Landesgericht Linz.
+Text
+Das Rekursgericht hat den Exekutionsbewilligungsbeschluß des Erstrichters mit der Begründung abgeändert, daß kein Exekutionstitel vorliege, da der am 26. September 1951 unter der aufschiebenden Bedingung der Unterlassung des Widerrufes bis 15. Oktober 1951 abgeschlossene gerichtliche Vergleich infolge des am 16. Oktober 1951 bei Gericht eingelangten Widerrufes seitens des Klägers niemals wirksam geworden sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei Folge und stellte den Beschluß des Erstgerichtes wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach dem Inhalt des Vergleiches sollte dieser nur gelten, wenn er nicht bis 15. Oktober 1951 einschließlich vom Kläger oder vom Erstbeklagten durch Schriftsatz bei Gericht widerrufen wurde.
+Da der Schriftsatz mit dem Widerruf des Klägers wohl am 15. Oktober 1951 zur Post gegeben wurde, aber erst am 16. Oktober 1951 bei Gericht einlangte, ist der Widerruf nach Ablauf der Frist erfolgt und daher der Vergleich wirksam. Die Bestimmung des § 89 GOG., daß die Tage des Postenlaufes in die Frist nicht eingerechnet werden und daß es daher genügt, wenn das Schriftstück am letzten Tage der Frist zur Post gegeben wurde, gilt nur bei gesetzlichen oder richterlichen Fristen zur Vornahme prozessualer Akte. Abgesehen davon, daß der Widerruf des Vergleiches eine meritorische Erklärung darstellt, war er an eine vereinbarte Frist gebunden und für eine solche Frist gilt § 89 GOG. nicht. Aus diesem Gründe war der Beschluß der ersten Instanz wiederherzustellen.

@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.03.1950
+Geschäftszahl
+1Ob271/49
+Norm
+ZPO §235;
+ZPO §405;
+ZPO §411;
+ZPO §503 Z4;
+Kopf
+SZ 23/74
+Spruch
+Bindung des Gerichtes an den geltend gemachten Anspruch. Ist kein bestimmter Rechtsgrund geltend gemacht worden, dann verstößt das Gericht nicht gegen § 405 ZPO., wenn es unter den in concreto möglichen Ansprüchen die Wahl trifft; anders, wenn ein bestimmter Rechtsgrund ausdrücklich geltend gemacht worden ist.
+Entscheidung vom 22. März 1950, 1 Ob 271/49.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Die Klägerin hat 3000 S aus dem Titel der Darlehenshingabe verlangt. Das Erstgericht nahm als erwiesen an, daß die Parteien einen Kaufvertrag abgeschlossen hätten und daß Beklagter 3000 RM a conto der Zollspesen erhalten habe. Da der Vertrag von den Behörden nicht genehmigt worden sei, so sei der Beklagte verpflichtet, den a conto Zollspesen erhaltenen Betrag aus dem Titel der Bereicherung zurückzuzahlen. Der Erstrichter hat daher den Beklagten, wenn auch aus einem anderen als dem geltend gemachten Rechtsgrund, antragsgemäß verurteilt.
+Aas Berufungsgericht wies das Klagebegehren ab, weil der Richter nicht nur an den Sachantrag, sondern auch an die rechtliche Fundierung gebunden sei. Nur für den Fall, daß die Klägerin einen bestimmten Rechtsschutzanspruch nicht ausdrücklich benenne, verstoße das Gericht nicht gegen § 405 ZPO., wenn es den Sachantrag frei beurteile. Insbesondere sei es unzulässig, einen Betrag aus dem Titel der Bereicherung zuzusprechen, der als Darlehen gefordert wurde. Das Berufungsgericht nahm daher einen Verstoß nach § 405 ZPO. an und änderte das erstrichterliche Urteil dahin ab, daß es die Klage abwies.
+Der Oberste Gerichtshof gab der Revision nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Mit dem Revisionsgrund des § 503 Z. 4 ZPO. wird die Rechtsauffassung des Berufungsgerichtes bekämpft, daß die Gerichte an den geltend gemachten Rechtsgrund gebunden seien und ausgeführt, daß § 405 ZPO. nur die quantitative Überschreitung des Klagebegehrens im Auge habe.
+Dieser Rechtsauffassung kann sich der Oberste Gerichtshof nicht anschließen.
+Nach österreichischem Recht ist nicht nur der Klagsanspruch maßgebend, sondern auch der Rechtsgrund, aus dem das Klagebegehren abgeleitet wird. Das folgt aus § 235 Abs. 4 ZPO., wonach die Änderung des Klagsgrundes eine Klagsänderung darstellt. Über einen Anspruch, über den die Verhandlung nicht zugelassen wurde, kann auch nicht entschieden werden; wird nichtsdestoweniger über einen Klagsanspruch entschieden, der nicht Gegenstand der Verhandlung war, so liegt eine Überschreitung des Klagebegehrens vor (§ 405 ZPO.). Wäre die entgegengesetzte Rechtsauffassung der Revision zutreffend, so könnte z. B. das Gericht, wenn der Kläger Erfüllung eines Kaufvertrages verlangt, Schadenersatz wegen Nichterfüllung zusprechen, wofern nur der zugesprochene Schadensbetrag den begehrten Klagsbetrag nicht übersteigt usw.
+Da die Urteilsrechtskraft genau so weit reicht, als in dem Urteil über einen durch Klage geltend gemachten Anspruch entschieden worden ist (§ 411 Abs. 1 ZPO.), so könnte bei folgerichtiger Durchführung der in der Revision vertretenen Rechtsauffassung der Kläger, der mit der Eigentumsklage abgewiesen wurde, nicht mehr einen schuldrechtlichen Herausgabeanspruch geltend machen. Die Nichtzulassung einer Klagserweiterung auf einen weiteren Rechtsgrund würde bei Klagsabweisung den Verlust des Rechtes bedeuten, die Klage auf den nicht zugelassenen Rechtsgrund zu stützen.
+Aus allen diesen Gründen schließt sich der Oberste Gerichtshof der Rechtsauffassung des Berufungsgerichtes an, daß das Gericht nicht nur an die klägerischen Sachanträge gebunden ist, sondern auch an den geltend gemachten Anspruch. Mit dem römischen Aktionensystem ist wohl der Zwang weggefallen, einen bestimmten Anspruch ausdrücklich zu benennen; ist dies nicht der Fall, dann verstößt das Gericht nicht gegen § 405 ZPO., wenn es unter den in concreto möglichen Ansprüchen die Wahl trifft. Soweit aber ein bestimmter Rechtsgrund ausdrücklich geltend gemacht wird, ist das Gericht daran gebunden und darf nicht der Klage aus einem anderen Gründe stattgeben.
+Der Revision mußte daher der Erfolg versagt bleiben.

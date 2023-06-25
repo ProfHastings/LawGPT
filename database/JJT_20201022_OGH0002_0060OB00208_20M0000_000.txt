@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.10.2020
+Geschäftszahl
+6Ob208/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht  durch den Senatspräsidenten Dr. Schramm als Vorsitzenden sowie die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek, Dr. Nowotny und die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei Gemeinde G*****, vertreten durch Dr. Georg Uher, Rechtsanwalt in Mistelbach, gegen die beklagte Partei Arch. Mag. Ing. H*****, vertreten durch Rechtsanwälte Gruber Partnerschaft KG in Wien, wegen 166.715,32 EUR sA und Feststellung über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 18. August 2020, GZ 15 R 95/20f-18, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1.1. Die Verjährung von Schadenersatzansprüchen beginnt gemäß § 1489 ABGB erst mit Kenntnis von Schaden und Schädiger zu laufen. Dazu gehört, dass der Geschädigte Kenntnis vom Ursachenzusammenhang zwischen dem Schaden und einem bestimmten, dem Schädiger anzulastenden Verhalten erlangt (RS0034374 [T4]; RS0034951; Vollmaier in Fenyves/Kerschner/Vonkilch, Klang3 § 1489 Rz 28 mwN) und auch die sonstigen Umstände erfährt, die erst in ihrem Zusammenspiel eine Haftpflicht begründen (Vollmaier aaO). Bei der Verschuldenshaftung umfasst dies auch Kenntnis jener Umstände, aus denen sich das Verschulden des Schädigers ergibt (RS0034374 [T1]; RS0034951 [T5, T7]).
+1.2. Lassen sich die maßgebenden Umstände und Zusammenhänge ohne besondere Fachkunde nicht erkennen, wie dies etwa bei den im vorliegenden Fall zu beurteilenden Bau- und Planungsfehlern (dazu auch 3 Ob 560/86 JBl 1987, 450; 7 Ob 145/00z) der Fall sein kann, so beginnt die Verjährung bei einem nicht fachkundigen Geschädigten so lange nicht zu laufen, als ihm nicht sämtliche anspruchsbegründenden Umstände bekannt sind (Vollmaier aaO Rz 29; RS0034322; RS0034603).
+2. Ob und unter welchen Voraussetzungen der Geschädigte im Rahmen seiner Erkundigungsobliegenheit ein Sachverständigengutachten einholen muss, ist stets nur nach den Umständen des konkreten Falls zu beurteilen (8 Ob 285/00w; 7 Ob 249/01w; 5 Ob 182/02d; 5 Ob 143/07a uva; Vollmaier aaO § 1489 Rz 32) und bildet daher im Allgemeinen keine erhebliche Rechtsfrage (vgl auch 6 Ob 146/20v mwN).
+3.1. Im vorliegenden Fall ergab sich bereits im 2013 durchgeführten Beweissicherungsverfahren, dass das Flachdach des Kindergartens ohne Gefälle ausgeführt war. Auch nach einem im selben Jahr eingeholten Kostenvoranschlag für die Sanierung lagen „Planungs- und/oder Ausführungsfehler“ vor, weil „die Bestimmung der ÖNORM sowie die Ausführungsvorschriften in den Fachregeln nicht eingehalten“ wurden. Ausdrücklich wurde auf das fehlende Mindestgefälle hingewiesen.
+3.2. Wenn die Vorinstanzen bei dieser Sachlage davon ausgingen, dass die klagende Gemeinde, der als Baubehörde zumindest gewisse Fachkenntnisse zugestanden werden müssten, sich damals nicht weiter hätte passiv verhalten dürfen und die genaue Ursache der seit 2012 erfolgenden massiven Wassereintritte weiter untersuchen hätte müssen, ist darin keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung zu erblicken.
+4. Zusammenfassend bringt die Revision somit keine Rechtsfragen der von § 502 Abs 1 ZPO geforderten Bedeutung zur Darstellung, sodass sie spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0060OB00208.20M.1022.000

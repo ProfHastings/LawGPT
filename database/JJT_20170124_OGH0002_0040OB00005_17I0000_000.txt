@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2017
+Geschäftszahl
+4Ob5/17i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel, die Hofräte Dr. Jensik und Dr. Rassi sowie die fachkundigen Laienrichter DI Dr. Cunow und DI Pawloy als weitere Richter in der Patentrechtssache der Antragstellerin B***** Corp., *****, vertreten durch Schönherr Rechtsanwälte GmbH in Wien, wegen Berichtigung der Laufzeit des ergänzenden Schutzzertifikats SZ 35/2006, infolge des Revisionsrekurses der Antragstellerin gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 20. Oktober 2016, GZ 34 R 64/16f-5, womit der Beschluss der technischen Abteilung des Patentamts vom 18. Februar 2016, GZ E 321 027 SZ 35/2006-4, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren über den Revisionsrekurs der Antragstellerin wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen des F?városi Törvényszék (Ungarn), Rechtssache C-492/16, unterbrochen.
+Eine Fortsetzung erfolgt nur auf Antrag der Antragstellerin.
+Text
+Begründung:
+Die Antragstellerin ist Inhaberin des ergänzenden Schutzzertifikats (ESZ) SZ 35/2006 für das Erzeugnis „Sorafenib und pharmazeutisch verträgliche Salze hievon“, das aufgrund ihres Antrags vom 10. 11. 2006 mit Beschluss der Technischen Abteilung vom 29. 5. 2008 erteilt wurde (Grundpatent E 321 027): Darin legte das Patentamt im Hinblick auf die Erstgenehmigung vom 19. 7. 2006 die Schutzdauer ab dem Ablauf der Dauer des Grundpatents und das Ende mit dem 19. 7. 2021 fest. Dieser Beschluss blieb unbekämpft und wurde rechtskräftig.
+Die Antragstellerin begehrt die Berichtigung des festgelegten Endes auf den 21. 7. 2021, wobei sie sich – neben im nationalen Recht vorgesehenen Rechtsbehelfen – auf Art 17 Abs 2 der Verordnung (EG) Nr 1610/96 des Europäischen Parlaments und des Rates vom 23. Juli 1996 über die Schaffung eines ergänzenden Schutzzertifikats für Pflanzenschutzmittel (im Folgenden: PSM-VO) stützt. Sie brachte im Wesentlichen vor, das zu berichtigende Enddatum stehe im Widerspruch zur Entscheidung des EuGH C-471/14, Seattle Genetics Inc., wonach Art 13 Abs 1 PSM-VO dahin auszulegen ist, dass der „Zeitpunkt der ersten Genehmigung für das Inverkehrbringen in der [Union]“ im Sinne dieser Bestimmung der Zeitpunkt ist, zu dem der Beschluss über die Genehmigung für das Inverkehrbringen seinem Adressaten bekanntgegeben wird.
+Mit dem angefochtenen Beschluss bestätigte das Rekursgericht die zurückweisende Entscheidung des Patentamts mit der Maßgabe, dass der Antrag abgewiesen wird. Es ging davon aus, dass § 17 Abs 2 PSM-VO deswegen nicht einschlägig sei, weil davon allein einfach zu berichtigende Fehler über den Zeitpunkt der ersten Genehmigung für das Inverkehrbringen in der Gemeinschaft und seine Angabe gemeint sind und andere Fehler der Laufzeitbemessung nicht mit diesem Antrag geltend gemacht werden können.
+Ein Vorabentscheidungsersuchen des F?városi Törvényszék (Ungarn), Rechtssache C-492/16, hat unter anderem die Frage zum Gegenstand, ob Art 17 Abs 2 PSM-VO dahin auszulegen ist, dass in einer Anmeldung eines ergänzenden Schutzzertifikats der „Zeitpunkt der ersten Genehmigung für das Inverkehrbringen in der Europäischen Union“ dann falsch angegeben ist, wenn dieser Zeitpunkt im Widerspruch zu der Rechtsauslegung festgelegt worden ist, die im Urteil des Gerichtshofs der Europäischen Union in der Rechtssache C-471/14 vorgenommen wurde, so dass das Ablaufdatum des ergänzenden Schutzzertifikats auch dann zu berichtigen ist, wenn die betreffende Entscheidung vor der Verkündung dieses Urteils ergangen ist und die Frist zur Einlegung eines Rechtsbehelfs gegen die fragliche Entscheidung bereits abgelaufen ist.
+Rechtliche Beurteilung
+Die Beantwortung dieser Frage ist auch für den vorliegenden Antrag maßgeblich. Da der Oberste Gerichtshof auch in Rechtssachen, in denen er nicht unmittelbar Anlassfallgericht ist, von einer allgemeinen Wirkung der Vorabentscheidung des EuGH auszugehen und diese auch für andere als die unmittelbaren Anlassfälle anzuwenden hat, ist das vorliegende Verfahren aus prozessökonomischen Gründen zu unterbrechen (vgl 9 ObA 112/13f mwN; 4 Ob 92/14d).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0040OB00005.17I.0124.000

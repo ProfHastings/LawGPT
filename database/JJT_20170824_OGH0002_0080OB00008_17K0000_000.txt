@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.2017
+Geschäftszahl
+8Ob8/17k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätin Dr. Tarmann-Prentner, die Hofräte Dr. Brenn und Mag. Dr. Wurdinger sowie die Hofrätin Mag. Korn als weitere Richter in der Rechtssache der klagenden Partei K***** AG, *****, vertreten durch Held Berdnik Astner & Partner Rechtsanwälte GmbH in Graz, gegen die beklagte Partei P***** GesmbH, *****, vertreten durch Dr. Helmut Klement, Dr. Annemarie Stipanitz-Schreiner, Rechtsanwälte in Graz, wegen 603.594,11 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 2. Dezember 2016, GZ 2 R 176/16v-40, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Oberste Gerichtshof hat gemäß § 502 Abs 1 ZPO nur Rechtsfragen des materiellen oder des Verfahrensrechts zu lösen, von denen die Entscheidung abhängt und denen zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist.
+Diese Voraussetzungen sind hier nicht erfüllt. Die Beurteilung, ob die Beklagte als Werkauftragnehmerin eine nach § 1168a Satz 3 ABGB bestehende Warnpflicht verletzt hat, ist typischerweise eine Frage des Einzelfalls. Mangels einer über den Anlass hinausreichenden Aussagekraft von Einzelfallentscheidungen steht die Revision zu ihrer Überprüfung nach § 502 Abs 1 ZPO nicht offen, es sei denn, dem Berufungsgericht wäre bei seiner Entscheidung eine krasse Fehlbeurteilung unterlaufen, die ausnahmsweise zur Wahrung der Rechtssicherheit einer Korrektur bedürfte.
+Eine solche Fehlbeurteilung ist dem Berufungsgericht nicht unterlaufen. Das Argument der Revisionswerberin, sie habe nicht gewusst, dass eine konsenswidrige Ausführung des Bauvorhabens zu Konsequenzen seitens der Baubehörde führen könne, ist feststellungsfremd. Davon abgesehen wäre es nicht entscheidungsrelevant.
+Der Bauführer haftet im Innenverhältnis gegenüber dem Bauherrn nur für die von ihm vertraglich übernommenen Aufgaben (RIS-Justiz RS0112778; 2 Ob 292/01g). Eine damit in Zusammenhang stehende Warnpflicht trifft ihn zwar grundsätzlich auch gegenüber einem sachkundigen oder sachkundig beratenen Besteller, wenn diesem infolge offenbar unrichtiger Anweisungen Schaden droht (RIS-Justiz RS0022243 [T1]). Offenbar ist eine Unrichtigkeit der Anweisung dann, wenn sie der Unternehmer bei seiner Sachkenntnis wahrnehmen musste (RIS-Justiz RS0022259), wobei die Aufklärungs- und Warnpflichten aber nicht überspannt werden dürfen (RIS-Justiz RS0021941). Der Unternehmer wird zur Gänze entlastet, wenn er davon ausgehen darf, dass der Besteller über Mängel in seiner Sphäre durchaus Bescheid weiß und das Risiko der Werkerstellung dennoch übernimmt (RIS-Justiz RS0021906 [T4, T6]; 10 Ob 21/15h; 2 Ob 277/08m; 3 Ob 313/01b).
+Diese Voraussetzungen hat das Berufungsgericht hier jedenfalls nicht unvertretbar bejaht, war doch der Beklagten bekannt, dass die Baubehörde als Voraussetzung für die Baubewilligung Verpressungsarbeiten am tragenden Mauerwerk verlangt hat, die sie als Bauführerin jedoch ablehnte und auf eigenes Risiko nicht in Auftrag gab, um Kosten zu sparen. Der Umstand, dass der von der Auftraggeberseite beauftragte Statiker sein Versprechen, eine behördenkonsensfähige Alternative zu finden, nicht einlösen konnte, ist nicht der Beklagten zuzurechnen. Es steht fest, dass die Beklagte nicht in der Lage gewesen wäre, die Berechnungen des Statikers zu überprüfen und für sie nicht erkennbar war, ob die angeordneten statischen Maßnahmen geeignet waren, die von der Baubehörde vorgesehene Verpressung des Mauerwerks zu ersetzen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0080OB00008.17K.0824.000

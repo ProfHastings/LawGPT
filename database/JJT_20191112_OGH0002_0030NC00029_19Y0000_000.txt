@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.11.2019
+Geschäftszahl
+3Nc29/19y
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr.
+Roch als Vorsitzenden sowie den Hofrat Priv.-Doz. Dr. Rassi und die Hofrätin Dr. Weixelbraun-Mohr als weitere Richter in der Ordinationssache des Antragstellers G*****, verteten durch Kuhn Rechtsanwälte GmbH in Wien, gegen die Antragsgegnerin v***** AG, *****, wegen Exekution nach § 331 EO, über den Antrag auf Ordination gemäß § 28 JN, den
+Beschluss
+gefasst:
+Spruch
+Die Bestimmung eines zuständigen Gerichts nach § 28 JN für die beabsichtigte Rechteexekution wird abgelehnt.
+Text
+Begründung:
+Mit rechtskräftigem Versäumungsurteil des Bezirksgerichts Josefstadt vom 11. Oktober 2018 wurde die in der Schweiz ansässige Antragsgegnerin zur Zahlung an den Antragsteller verpflichtet. Zur Hereinbringung seiner Forderung von 453,35 EUR sA brachte der Antragsteller am 6. August 2019 als betreibende Partei beim Bezirksgericht Salzburg einen auf Bewilligung der Rechteexekution gerichteten Exekutionsantrag ein und beantragte die Exekution durch Pfändung und Verwertung der der Antragsgegnerin als Verpflichte zustehenden Rechte an der Internet-Domain www.v*****.at. Für den Fall, dass sich das angerufene Gericht für nicht zuständig erklären sollte, beantragte der Antragsteller gemäß § 28 JN die Ordination durch den Obersten Gerichtshof und die Bestimmung des Bezirksgerichts Salzburg als zuständiges Gericht. Es bestehe eine inländische Gerichtsbarkeit, es solle ein österreichischer Exekutionstitel durchgesetzt werden und das Exekutionsobjekt befinde sich im Inland. Der Betreibende sei österreichischer Staatsbürger mit Wohnsitz im Inland und ihm sei die Rechtsverfolgung im Ausland nicht zumutbar, weil „die Prozessführung im Ausland äußerst kostspielig wäre“.
+Das Erstgericht wies den Exekutionsantrag mangels örtlicher Zuständigkeit zurück. Die inländische Gerichtsbarkeit sei zwar zu bejahen, eine örtliche Zuständigkeit fehle aber, weil die erste Vollzugshandlung (Zustellung der Exekutionsbewilligung) nicht in Österreich durchzuführen sei.
+Diese Entscheidung blieb unbekämpft und ist rechtskräftig.
+Das Erstgericht legte den Antrag auf Ordination des Verfahrens nach § 28 JN dem Obersten Gerichtshof vor.
+Rechtliche Beurteilung
+Die Voraussetzungen für eine Ordination nach § 28 JN liegen nicht vor.
+1. Die Bestimmung der Zuständigkeit durch den Obersten Gerichtshof nach § 28 JN, die auch in Exekutionssachen möglich ist (RIS-Justiz RS0053178 [T10]; RS0046326 [T2]), setzt das Fehlen der örtlichen Zuständigkeit voraus.
+Eine Ordination ist grundsätzlich dann möglich, wenn die Verpflichtete keinen Sitz im Inland hat und es deshalb an einem Anknüpfungsgrund für die örtliche Zuständigkeit eines inländischen Gerichts fehlt.
+Hier verneinte das Erstgericht rechtskräftig seine örtliche Zuständigkeit mit Hinweis auf die Zustellung der Exekutionsbewilligung im Ausland.
+2. Als Rechtsgrundlage für die Bestimmung eines zuständigen Gerichts kommt im vorliegenden Fall nur § 28 Abs 1 Z 2 JN in Betracht. Demnach ist die Bestimmung eines örtlich zuständigen Gerichts durch den Obersten Gerichtshof (nur) dann zulässig, wenn die betreibende Partei ihren Wohnsitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre. Die in § 28 Abs 1 Z 2 JN genannten Voraussetzungen müssen kumulativ vorliegen. Fehlt eine davon, hat eine Ordination nicht zu erfolgen (3 Nc 22/17s = RS0046320 [T14]; Garber in Fasching/Konecny, Zivilprozessgesetze³ § 28 JN Rz 68).
+Die Voraussetzungen des § 28 Abs 1 Z 2 JN sind nach § 28 Abs 4 zweiter Satz JN vom Antragsteller zu behaupten und zu bescheinigen, was auch für Exekutionssachen gilt (RS0124087).
+3. Vom Betreibenden wurde – abgesehen vom Hinweis darauf, dass die Rechtsverfolgung im Ausland (hier: in der Schweiz) „äußerst kostspielig“ sei – nicht behauptet und bescheinigt, dass die exekutive Rechtsverfolgung nicht möglich oder unzumutbar wäre.
+Das Prozesskostenargument ist nach der Rechtsprechung des Obersten Gerichtshofs nur in Ausnahmefällen geeignet, einen Ordinationsantrag zu begründen, weil sich die Kostenfrage bei Distanzprozessen für beide Parteien jeweils mit umgekehrten Vorzeichen stellt und daher zu Lasten des Klägers geht (2 Ob 32/08g = RS0046148 [T12]; Garber in Fasching/Konecny, Zivilprozessgesetze3 § 28 JN Rz 78 mwN). Dass dies hier im Vergleich zur Rechtsverfolgung im Inland durch eine Rechtsdurchsetzung in der an Österreich angrenzenden Schweiz verursacht würde, wird weder dargelegt noch ist dies ersichtlich.
+Dem Vorbringen des Antragstellers ist auch nicht zu entnehmen, dass er die Durchsetzung seines titulierten Anspruchs in der Schweiz schon erfolglos versucht hätte, oder dass die Erfolglosigkeit – etwa aufgrund der nationalen Rechtsprechung oder einer besonderen Rechtslage – zu erwarten wäre.
+Dabei ist gerade für den Anwendungsbereich der EuGVVO zu berücksichtigen, dass eine Ordination bei Verpflichteten, die in anderen Mitgliedstaaten ansässig sind, nur in Ausnahmefällen möglich ist (RS0053178 [T3 und T7]); dies gilt auch für das LGVÜ (Garber in Fasching/Konecny3 § 28 Rz 59 und 71).
+Ein ungeachtet dessen bestehendes Bedürfnis nach Gewährung inländischen Rechtsschutzes lässt sich dem Antrag ebenfalls nicht entnehmen.
+4. Angesichts dieser Rechtslage sind daher die Voraussetzungen für eine Ordination gemäß § 28 Abs 1 Z 2 JN nicht erfüllt.
+Die beiden in ähnlichen Fällen einer Rechteexekution gegen dieselbe Antragsgegnerin ergangenen Entscheidungen zu 3 Nc 24/18m sowie zu 3 Nc 26/12x, auf die der Antrag hinweist, enthalten zu diesen Voraussetzungen keine weiteren Erwägungen; soweit sie mit der hier getroffenen Entscheidung nicht übereinstimmen, werden sie nicht aufrecht erhalten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030NC00029.19Y.1112.000

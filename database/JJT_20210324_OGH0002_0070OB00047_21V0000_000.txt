@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.03.2021
+Geschäftszahl
+7Ob47/21v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Hon.-Prof. Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei Mag. R* G*, vertreten durch Dr. Martin Neuwirth, Dr. Alexander Neurauter, Rechtsanwälte in Wien, gegen die beklagte Partei W*-AG, *, vertreten durch Dr. Haymo Modelhart ua Rechtsanwälte in Linz, wegen 27.190,83 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 26. Jänner 2021, GZ 5 R 6/21w-17, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger hat beim beklagten Versicherer einen Haushaltsversicherungsvertrag unter Einschluss einer Privathaftpflichtversicherung abgeschlossen, dem die Allgemeinen Bedingungen für die Haushaltsversicherung (ABH) 2010 zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 30 Beschreibung des Versicherungsschutzes
+1. Die Versicherung erstreckt sich auf Schadenersatzverpflichtungen des Versicherungsnehmers als Privatperson aus den Gefahren des täglichen Lebens mit Ausnahme der Gefahr einer betrieblichen, beruflichen oder gewerbsmäßigen Tätigkeit, insbesondere
+[…]
+1.8 aus der gelegentlichen Verwendung, nicht jedoch der Haltung von Elektro- und Segelbooten;
+1.9 aus der Haltung und Verwendung von sonstigen nicht motorisch angetriebenen Wasserfahrzeugen sowie von Schiffsmodellen;
+[…]“
+Rechtliche Beurteilung
+[2] 		1.1 Ob der Gebrauch eines Motorboots unabhängig von der Antriebsart unter Art 30.1.8 ABH und Art 30.1.9 ABH zu subsumieren und wegen der dort erfolgten Aufzählung als zu den Gefahren des täglichen Lebens gehörend, definiert ist, muss nicht erörtert werden. Selbst wenn man dies – mit dem Kläger – bejahte, wäre für ihn nichts gewonnen. Daraus folgt nämlich keineswegs, dass jede Art der Verwendung als Gefahr des täglichen Lebens zu werten ist.
+[3] 		1.2 Der Begriff der „Gefahren des täglichen Lebens“ ist nach der allgemeinen Bedeutung der Worte dahin auszulegen, dass der Versicherungsschutz für die Haftpflicht des Versicherungsnehmers jene Gefahren umfasst, mit denen üblicherweise im Privatleben eines Menschen gerechnet werden muss (RS0081099). Die Gefahr, haftpflichtig zu werden, stellt im Leben eines Durchschnittsmenschens nach wie vor eine Ausnahme dar. Deshalb will die Privathaftpflichtversicherung prinzipiell Deckung auch für außergewöhnliche Situationen schaffen, in die auch ein Durchschnittsmensch hineingeraten kann. Freilich sind damit nicht alle ungewöhnlichen und gefährlichen Tätigkeiten abgedeckt (RS0081276 [T1]). Für das Vorliegen einer „Gefahr des täglichen Lebens“ ist nicht erforderlich, dass solche Gefahren geradezu täglich auftreten; vielmehr genügt es, wenn die Gefahr erfahrungsgemäß im normalen Lebensverlauf immer wieder, sei es auch seltener, eintritt. Es darf sich nur nicht um eine geradezu ungewöhnliche Gefahr handeln, wobei Rechtswidrigkeit oder Sorglosigkeit eines Verhaltens den daraus entspringenden Gefahren noch nicht die Qualifikation als solche des täglichen Lebens nehmen. Voraussetzung für einen aus einer Gefahr des täglichen Lebens verursachten Schadensfall ist nämlich immer eine Fehlleistung oder eine schuldhafte Unterlassung des Versicherungsnehmers (RS0081070). Die Abgrenzung zwischen dem gedeckten Eskalieren einer Alltagssituation und einer nicht gedeckten ungewöhnlichen und gefährlichen Tätigkeit hängt von den Umständen des Einzelfalls ab, die in der Regel keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (7 Ob 243/18p mwN); dies gilt auch im vorliegenden Fall, haben doch die Vorinstanzen diese Abgrenzung im Rahmen der zuvor dargestellten Grundsätze vorgenommen.
+[4] 		1.3 Der Kläger hat im alkoholisierten, § 6 Abs 1 SchFG deutlich verletzenden Zustand, äußerst waghalsige Fahrmanöver mit einem leistungsstarken (335 PS) Motorboot durchgeführt. Im Zuge eines derartigen Manövers (Powerturn) setzte er, ohne seine Mitfahrer zu warnen, zu einer massiven Rechtslenkung an. Aufgrund der dadurch ausgelösten Querbeschleunigungskräfte wurde ein Mitfahrer über die Bordwand ins Wasser geschleudert, von der Schiffsschraube des sich rückwärts bewegenden Motorboots erfasst und tödlich verletzt.
+[5] 		Die Vorinstanzen gingen davon aus, dass der Kläger eine besondere Gefahrensituation schuf, die nicht nur eine außergewöhnliche Gefahr für ihn selbst, sondern vor allem auch für seine – nicht gewarnten – Mitfahrer mit sich brachte, ohne dass dafür die geringste Notwendigkeit bestand, ihm dabei die Gefährlichkeit und die möglichen Folgen bewusst sein mussten und eine solche Situation erfahrungsgemäß auch im normalen Lebenslauf nicht immer wieder eintritt, weshalb die hier vorliegende Art der Verwendung des Motorboots jedenfalls nicht als Gefahr des täglichen Lebens zu werten ist. Diese Beurteilung ist nicht korrekturbedürftig.
+[6] 		1.4 Entgegen der Ansicht des Klägers hat der Fachsenat auch schon in Fällen (bloß) fahrlässiger Handlungen das Vorliegen einer Gefahr des täglichen Lebens verneint (etwa 7 Ob 126/17f [unvorsichtige Schweißarbeiten]; 7 Ob 13/18i [Verletzung bei einer Wasserbombenschlacht]).
+[7] 		1.5 Soweit sich der Kläger – erstmals im Rechtsmittelverfahren – auf eine Art 30.1.5 ABH zu unterstellende Ausübung des Motorbootsports durch ihn beruft, verstößt er gegen das Neuerungsverbot, weshalb sich ein weiteres Eingehen darauf erübrigt.
+[8] 		2. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00047.21V.0324.000

@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.1955
+Geschäftszahl
+1Ob394/55
+Norm
+KO §172;
+ZPO §519 Z3;
+ZPO §527;
+Kopf
+SZ 28/183
+Spruch
+Unanfechtbarkeit des Beschlusses des Rekursgerichtes, womit ein Beschluß des Konkurskommissärs ohne Rechtskraftvorbehalt aufgehoben und dem Konkurssenat die neuerliche Fällung einer Entscheidung aufgetragen wurde.
+Entscheidung vom 24. August 1955, 1 Ob 394/55.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Mit Beschluß vom 27. November 1954 hat der Konkurskommissär die Ansprüche der Masseverwalterin Dr. Gerda H. für Prozeßkosten mit 10.960 S 29 g, für Barauslagen mit 1400 S und für Mühewaltung mit 4000 S, also zusammen mit 16.360 S 29 g, festgesetzt. Dieser Beschluß wurde hinsichtlich eines Teilbetrages von 13.175 S 86 g rechtskräftig.
+Infolge Rekurses der Masseverwalterin wurden ihr mit Entscheidung des Rekursgerichtes vom 25. Jänner 1955 weitere 746 S 14 g zuerkannt, so daß sich der ihr rechtskräftig zugesprochene Betrag auf 13.922 S erhöhte. Dagegen wurde hinsichtlich des Teilbetrages von 3184 S 43 g (16.360 S 29 g minus 13.175 S 86 g) infolge Rekurses der Gemeinschuldnerin, die die Hereinbringung eines Schadensbetrages von 3184 S 43 g von der Masseverwalterin verlangte, mit derselben Entscheidung der erstrichterliche Beschluß aufgehoben und dem Konkurskommissär die Ergänzung des Verfahrens und neue Beschlußfassung aufgetragen.
+Mit dem nun verfahrensgegenständlichen Beschluß vom 18. März 1955 bestimmte der Konkurskommissär die Kosten der Masseverwalterin mit 11.706 S 43 g (10.960 S 29 g plus 746 S 14 g) für Prozeßkosten, 1400 S für Barauslagen und 815 S 57 g für Mühewaltung (4000 S minus 3184 S 43 g für Schadenersatz), also zusammen mit 13.922 S.
+Infolge Rekurses der Masseverwalterin, die den Nichtbestand der Gegenforderung nur mehr mit 2454 S 50 g behauptete, hob das Rekursgericht dem erstrichterlichen Beschluß im Ausspruch über den Gebührenanspruch der Masseverwalterin im Teilbetrag von 13.922 S und über den Bestand und die Aufrechnung der Gegenforderung im Restbetrag von 2454 S 50 g als nichtig auf und trug dem Konkursgericht die Beschlußfassung über den Bestand und die Aufrechnung der Gegenforderung im Restbetrag von 2454 S 50 g auf. Aus der Begründung des Beschlusses ergibt sich, daß der neuerliche Zuspruch von 13.922 S durch das Erstgericht als Doppelzuspruch aufgehoben wurde, weil dieser Betrag ohnedies durch die vorangegangene Entscheidung bereits rechtskräftig zugesprochen wurde. Der Anspruch von 729 S 93 g sei rechtskräftig infolge Abzuges der nicht mehr bestrittenen Schadenersatzforderung aberkannt. Darüber, ob die behauptete weitere Schadenersatzforderung von 2454 S 50 g von dem bereits als angemessen erkannten Honorar von 17.106 S 43 g (13.922 S plus 729 S 93 g plus 2454 S 50 g) abzuziehen sei, habe in nichtiger Weise der Konkurskommissär entschieden statt des Konkursgerichtes, das zu entscheiden haben werde.
+Der Oberste Gerichtshof wies den Revisionsrekurs der Gemeinschuldnerin zurück.
+Rechtliche Beurteilung
+Aus der Begründung:
+Den Beschluß des Rekursgerichtes bekämpft die Gemeinschuldnerin "insoweit, als der der Rekursentscheidung zugrunde liegende erstrichterliche Beschluß als nichtig aufgehoben und dem Konkurssenat die neuerliche Beschlußfassung aufgetragen wird". Trotz des Rekursantrages, den angefochtenen Beschluß wiederherzustellen, beschränkt sich daher die Anfechtung auf den Betrag von 2454 S 50 g, den das Erstgericht der Masseverwalterin aberkannt hat, während das Rekursgericht diesen Teil des Beschlusses aufgehoben und insoweit dem Konkursgericht die Entscheidung aufgetragen hat. Durch die Aufhebung des Zuspruches von 13.922 S wegen Doppelentscheidung wäre die Rekurswerberin auch gar nicht beschwert.
+Hinsichtlich des sohin verbleibenden Rekursgegenstandes, nämlich der Aufhebung der Entscheidung des Konkurskommissärs über die Gegenforderung und Aufrechnung von 2454 S 50 g und der Rückverweisung zur Entscheidung an das Konkursgericht, ist aber der Rekurs unzulässig. Es liegt hier eine aufhebende Entscheidung der zweiten Instanz vor, die nur dann angefochten werden kann, wenn in derselben bestimmt ist, daß erst nach Eintritt ihrer Rechtskraft mit dem Vollzug des der ersten Instanz erteilten Auftrages - hier mit der Entscheidung des Konkursgerichtes - vorzugehen sei (§ 527 Abs. 2 ZPO.). Ein solcher Rechtskraftvorbehalt fehlt. Daß § 527 Abs. 2 ZPO. auch im Konkursverfahren anwendbar ist, folgt aus § 172 KO. Wenn. 527 Abs. 2 ZPO. von einer nach Ergänzung des Verfahrens zu fällenden Entscheidung spricht, so ist dies im weiteren Sinne aufzufassen (1 Ob 49/54), so daß auch die aufgetragene neue Beschlußfassung durch das Konkursgericht statt durch den Konkurskommissär darunter zu verstehen ist, mag auch in der Begründung der rekursgerichtlichen Entscheidung trotz des Hinweises, daß "teils wegen Nichtigkeit, teils wegen Mangelhaftigkeit" aufgehoben werde, nicht ausgeführt sein, welche Mangelhaftigkeit vorliegen sollte. Die Unzulässigkeit des Rekurses in einem solchen Fall ergibt sich auch daraus, daß in dem rechtsähnlichen Fall des § 519 Z. 3 ZPO. der Rekurs - ohne Rechtskraftvorbehalt - ausdrücklich auch dann für unzulässig erklärt ist, wenn die Sache an ein anderes Berufungsgericht verwiesen wird.
+Der unzulässige Revisionsrekurs war daher zurückzuweisen.

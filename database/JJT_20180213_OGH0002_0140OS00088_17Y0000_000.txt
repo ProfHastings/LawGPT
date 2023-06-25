@@ -1,0 +1,72 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.02.2018
+Geschäftszahl
+14Os88/17y (14Os115/17v)
+Kopf
+Der Oberste Gerichtshof hat am 13. Februar 2018 durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Philipp als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Mag. Hetlinger, die Hofräte des Obersten Gerichtshofs Dr. Nordmeyer und Dr. Oshidari sowie die Hofrätin des Obersten Gerichtshofs Dr. Mann in Gegenwart der Richteramtsanwärterin Zach, LL.M. (WU) als Schriftführerin in der Strafsache gegen Florian K***** wegen des Verbrechens der betrügerischen Krida nach § 156 Abs 1 StGB und weiterer strafbarer Handlungen über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts für Strafsachen Wien als Schöffengericht vom 3. Februar 2017, GZ 17 Hv 16/16v-40, sowie über dessen Beschwerde gegen den Beschluss des Vorsitzenden dieses Gerichts vom 31. Juli 2017, GZ 17 Hv 16/16v-49, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde wird zurückgewiesen.
+Zur Entscheidung über die Berufung werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Dem Angeklagten fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+Mit dem angefochtenen Urteil wurde Florian K***** des Verbrechens der betrügerischen Krida nach § 156 Abs 1 StGB (I./), des Vergehens der Datenbeschädigung nach § 126a Abs 1 StGB (II./) und des Vergehens der Urkundenunterdrückung nach § 229 Abs 1 StGB (III./) schuldig erkannt.
+Danach hat er in W***** und andernorts
+I./ von 18. April 2012 bis 23. Oktober 2014 Bestandteile seines Vermögens beiseite geschafft oder sonst sein Vermögen wirklich verringert und dadurch die Befriedigung seiner Gläubiger oder wenigstens eines von ihnen geschmälert, indem er
+a./ den am 6. März 2012 von der H***** GmbH erhaltenen Darlehensbetrag von 300.000 Euro für die Anschaffung eines Reihenhauses samt Parkplätzen im Wert von 295.000 Euro samt Nebenkosten verwendete und nicht nur er, sondern zur Hälfte auch seine Ehefrau Silke K***** ohne Kaufpreisaufbringung, ohne dass diese einen finanziellen Beitrag zum Kaufpreis leistete, grundbücherliches Eigentum an den Objekten erwarb, sowie zu ihren Gunsten (gemeint [US 6]: wechselseitig) ein Belastungs- und Veräußerungsverbot im Grundbuch eingetragen wurde;
+b./ mit Kaufvertrag vom 23. Oktober 2014 sein Hälfteeigentum an den genannten Objekten sowie den Großteil seines im Haus befindlichen Vermögens ohne Gegenleistung an Silke K***** übertrug,
+wodurch er einen Schaden in Höhe von 238.106,81 Euro für die H***** GmbH herbeiführte;
+II./ im Frühjahr 2014 die H***** GmbH dadurch geschädigt, dass er automationsunterstützt verarbeitete Daten, über die er nicht alleine verfügen durfte, unbrauchbar machte oder unterdrückte, indem er Unternehmensdaten auf dem Server der H***** GmbH eigenmächtig digital verschlüsselte und durch Nichtherausgabe der Entschlüsselung nach seiner Entlassung den Berechtigten den Zugriff verwehrte, wodurch der genannten Gesellschaft ein nicht mehr feststellbarer Schaden entstand;
+III./ von zumindest 28. April bis Herbst 2014 Urkunden, über die er nicht allein verfügen durfte, mit dem Vorsatz unterdrückt, zu verhindern, dass sie im Rechtsverkehr zum Beweis eines Rechts, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, indem er Geschäftsunterlagen und Verträge hinsichtlich Vergabeverfahren nach seiner Entlassung nicht an die H***** GmbH zurückgab.
+Rechtliche Beurteilung
+Dagegen richtet sich die auf § 281 Abs 1 Z 4, 5, 5a und 9 lit a StPO gestützte Nichtigkeitsbeschwerde des Angeklagten.
+Mit Beschluss des Vorsitzenden des Schöffengerichts vom 31. Juli 2017 (ON 49) wurde ferner ein Antrag des Angeklagten auf Berichtigung des Protokolls über die Hauptverhandlung teilweise abgewiesen, wogegen der Genannte Beschwerde erhob.
+Zur Nichtigkeitsbeschwerde:
+Entgegen der Verfahrensrüge (Z 4) wurden durch die Abweisung des Antrags auf Einholung eines Gutachtens aus dem Fachbereich der Unternehmensbewertung zum Beweis, dass einerseits die Geschäftsanteile des Angeklagten an der H***** GmbH „zum maßgeblichen Verrechnungsstichtag“ den aushaftenden Darlehensbetrag bei weitem überstiegen, und dass andererseits im „Gutachten der Firma W*****“ die in den Jahren 2007 bis 2009 und 2011 erzielten Gewinne und Gewinnausschüttungen sowie die vom Geschäftsführer der H***** GmbH „in seinem Mail [vom 28. April 2014] an T*****“ vom B***** geäußerten Prognosen unberücksichtigt geblieben sind, somit die im „Sachverständigengutachten ermittelten Werte nicht den Tatsachen entsprechen“ (ON 39 S 94),
+Verteidigungsrechte nicht verletzt. Denn der Antrag ließ nicht erkennen, dass er eine für die Lösung der Schuld- oder der Subsumtionsfrage erhebliche Tatsache betrifft (RIS-Justiz RS0116503, RS0099473; Ratz, WK-StPO § 281 Rz 321), schließt doch der im Beweisbegehren behauptete Umstand der Darlehensdeckung die – (unter anderem) in der tatsächlichen Verringerung des Vermögens ohne gleichzeitigen Gegenwert gelegene – Tatbegehung (vgl Kirchbacher in WK2 StGB § 156 Rz 7 f und 10; RIS-Justiz RS0094862) ebenso wenig aus wie einen auf Vereitelung oder Schmälerung der Gläubigerbefriedigung gerichteten Vorsatz.
+Soweit der Antrag auch zum Beweis dafür gestellt wurde, dass der Angeklagte bei Ermittlung des Verkehrswerts der Geschäftsanteile „laut dem Gutachten der Firma W*****“ nicht mitwirken konnte, zielte er (auch) auf eine unzulässige Erkundungsbeweisführung ab, weil nicht dargelegt wurde, warum die gewünschte Beweisaufnahme das behauptete
+Ergebnis erwarten ließe (RIS-Justiz RS0118444; Ratz, WK-StPO § 281 Rz 330 f).
+Da bei der Prüfung der Berechtigung eines Beweisantrags stets von der Verfahrenslage im Zeitpunkt der Antragstellung und den bei seiner Stellung vorgebrachten Gründen auszugehen ist, sind die
+ergänzenden Ausführungen in der Nichtigkeitsbeschwerde
+unbeachtlich (RIS-Justiz RS0099618).
+Unvollständig (§ 281 Abs 1 Z 5 zweiter Fall StPO) ist ein Urteil, wenn das Gericht bei der für die Feststellung entscheidender Tatsachen angestellten Beweiswürdigung erhebliche, in der Hauptverhandlung vorgekommene (§ 258 Abs 1 StPO) Verfahrensergebnisse unberücksichtigt ließ
+(RIS-Justiz RS0118316).
+Aktenwidrigkeit (Z 5 fünfter Fall) wiederum liegt bei erheblich unrichtiger Wiedergabe des Inhalts eines Beweismittels in den Entscheidungsgründen vor, während aus Beweisergebnissen gezogene Schlussfolgerungen der Tatrichter insoweit als Anfechtungsbasis ausscheiden (RIS-Justiz RS0099431 [T15, T16]).
+Verlangt das Gesetz von der Mängelrüge einen Vergleich der angefochtenen Entscheidung mit Verfahrensergebnissen (Z 5 zweiter Fall und Z 5 fünfter Fall), ist der entsprechende Aktenbezug herzustellen (RIS-Justiz RS0124172 [T8, T9]).
+Indem sich die Mängelrüge zu I./a./ der Sache nach nur gegen die Feststellungen zur Vereinbarung sowie (am 6. März 2012 erfolgten) Auszahlung eines Darlehens von 300.000 Euro an den Angeklagten und zu dessen finanzieller Situation (US 4) richtet und „der Einfachheit halber“ auf ein der Rechtsmittelschrift angeschlossenes Protokoll über die Vernehmung des Zeugen Walter H***** vor dem Arbeits- und Sozialgericht Wien verweist, spricht sie keine entscheidenden Tatsachen an (RIS-Justiz RS0099407), weil Tathandlung des § 156 StGB nur eine (ohne wirtschaftlich äquivalenten Gegenwert erfolgte) wirkliche oder eine scheinbare Vermögensverringerung ist (
+RIS-Justiz RS0094831, RS0094747). Im Übrigen nimmt sie auch nicht prozessordnungskonform auf in der Hauptverhandlung vorgekommene (§ 258 Abs 1 StPO) Verfahrensergebnisse Bezug.
+Die zu I./ im Sinn einer
+Aufklärungsrüge (Z 5a) erhobene Kritik am Unterbleiben der Aufforderung an den Angeklagten zur Vorlage einer Bestätigung für die Überweisung von 100.000 Euro an ihn legt nicht dar, wodurch der Beschwerdeführer an entsprechender Antragstellung gehindert war (vgl RIS-Justiz RS0115823).
+Die mit der Rechtsmittelschrift erfolgte Vorlage einer solchen Überweisungsbestätigung ist mit Blick auf das
+Neuerungsverbot unbeachtlich (RIS-Justiz RS0099708).
+Die Tatsachenrüge (Z 5a) leitet Bedenken gegen die zu II./ und III./ getroffenen Feststellungen nicht aus den Akten, sondern nur aus den Erwägungen der Tatrichter und der Behauptung ab, die Verfahrensergebnisse zu AZ 24 Cga 69/14p des Arbeits- und Sozialgerichts Wien seien nicht heranziehbar, weil der Angeklagte mangels Gewährung von Verfahrenshilfe „nicht die Möglichkeit hatte, vor Gericht zu verhandeln“, weshalb sie ins Leere geht (RIS-Justiz RS0117961).
+Indem die Rechtsrüge (Z 9 lit a) zu I./ behauptet, die Sorgepflichten des Angeklagten gegenüber seiner Ehefrau und seinen Kindern könnten bei der Beurteilung seiner Schuldnerposition iSd § 156 StGB nicht berücksichtigt werden, übergeht sie die Gesamtheit der zu dieser entscheidenden Tatsache getroffenen Feststellungen (RIS-Justiz RS0099810), wonach der Angeklagte „zum Zeitpunkt der Vermögensverschiebungen“ nicht nur deshalb Schuldner mehrerer Gläubiger gewesen sei, weil er „für seine minderjährigen Kinder und die einkommenslose Ehefrau“ sorgepflichtig, sondern „neben Alltagsverbindlichkeiten zur Bestreitung seines und des Lebensunterhalts seiner Familie sowie der Betriebskosten (…) Darlehensschuldner der H***** GmbH“ gewesen sei (US 9; vgl im Übrigen Kirchbacher in WK2 StGB § 156 Rz 4 f). Auf die
+– Gläubigermehrheit mit Opfermehrheit verwechselnden (RIS-Justiz RS0118270; Kirchbacher in WK2 StGB § 156 Rz 5b) – Beschwerdeüberlegungen zur Gläubigerstellung der Eigentümergemeinschaft und des Landes Niederösterreich sowie zu deren Befriedigungsaussichten ist daher nicht einzugehen
+.
+Da eine Überprüfung der rechtlichen Beurteilung des Erstgerichts im Rahmen der Rechtsrüge nur auf Basis des Urteilssachverhalts erfolgt
+, wird durch das Bestreiten der subjektiven Tatseite zu I./a./ und III./ (US 10) anhand eigenständiger Würdigung von Verfahrensergebnissen sowie eines Verweises auf ein Urteil des Arbeits- und Sozialgerichts Wien vom 15. Juni 2015 der Bezugspunkt materieller Nichtigkeit verfehlt (RIS-Justiz RS0099724).
+Warum die Feststellungen zur objektiven und subjektiven Tatseite zu I./b./ (US 9 f) die Subsumtion nach § 156 Abs 1 StGB nicht tragen sollten, macht die Beschwerde mit Überlegungen zur Zulässigkeit einer Exekutionsführung im Wohnungseigentumsrecht und zur allfälligen Erfüllung des Tatbestands nach § 162 StGB nicht klar.
+Weshalb (zumindest) Verträge (vgl US 7) keine Urkunden im Sinn des § 74 Abs 1 Z 7 StGB seien, erklärt die zu III./
+erhobene Rechtsrüge nicht (vgl aber RIS-Justiz
+RS0092552).
+Bleibt anzumerken, dass das Erstgericht zwar eine
+gleichartige Verbrechensmenge bloß pauschal individualisierter Taten (RIS-Justiz
+RS0119552) angenommen (vgl US 2, 7 und 10), diese aber dennoch nur einem Vergehen der Urkundenunterdrückung nach § 229 Abs 1 StGB (anstelle einer unbestimmten Anzahl derselben; RIS-Justiz RS0118718) subsumiert hat, weshalb das (weitere) Beschwerdevorbringen schon aus diesem Grund ins Leere geht.
+Die Nichtigkeitsbeschwerde war daher (entgegen der Äußerung zur Stellungnahme der Generalprokuratur) bereits bei der nichtöffentlichen Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO), woraus die Zuständigkeit des Oberlandesgerichts zur Entscheidung über die Berufung folgt (§ 285i StPO).
+Dieses wird zu berücksichtigen haben (vgl RIS-Justiz
+RS0122140,
+RS0119220), dass das Schöffengericht zu I./ trotz Fehlens von Feststellungen dazu, dass die H***** GmbH durch das Vermögen verringernde Verhalten des Angeklagten eine Forderung nur zum Teil oder gar nicht beglichen erhielt (vgl US 8, wonach der Gesellschaft „durch die nicht vollständige Rückführung des Darlehens ein Schaden in Höhe von 238.106,81 Euro“ entstand), verfehlt (weil insoweit nur Konstatierungen zur subjektiven Tatseite vorliegen [US 10]) von Tatvollendung ausgegangen ist (RIS-Justiz
+RS0115184,
+RS0094747, RS0094862; Kirchbacher in WK² StGB §
+156 Rz 19 ff) und damit den Milderungsgrund des
+Versuchs (§ 34 Abs 1 Z 13 StGB) zu Unrecht nicht in Rechnung gestellt hat (§ 281 Abs 1
+Z 11 zweiter Fall StPO; RIS-Justiz RS0122137; zum Anführen der Schadenskausalität bloß im Erkenntnis [§ 260 Abs 1 Z 1 StPO; vgl US 2] siehe Ratz, WK-StPO § 281 Rz 271).
+Zur Beschwerde:
+Die gegen den Protokollberichtigungsbeschluss vom 31. Juli 2017 (ON 49) gerichtete Beschwerde ist (ohne inhaltliche Erwiderung) durch die Entscheidung über die Nichtigkeitsbeschwerde erledigt, weil letztere – aus den bereits dargelegten Gründen – auch unter Zugrundelegung der angestrebten Protokolländerungen erfolglos geblieben wäre (RIS-Justiz RS0126057 [T2], RS0120683).
+Die Kostenentscheidung gründet sich auf § 390a Abs 1 StPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0140OS00088.17Y.0213.000

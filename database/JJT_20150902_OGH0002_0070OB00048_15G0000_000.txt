@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.09.2015
+Geschäftszahl
+7Ob48/15g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei K***** N*****, vertreten durch Dr. Herbert Laimböck, Rechtsanwalt in Wien, gegen die beklagte Partei G***** AG, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 29.769,46 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. Jänner 2015, GZ 1 R 193/14f-53, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Der Oberste Gerichtshof ist zur Entscheidung über Klauseln in Allgemeinen Geschäftsbedingungen nicht „jedenfalls“, sondern nur dann berufen, wenn die zweite Instanz Grundsätze höchstgerichtlicher Rechtsprechung missachtete oder für die Rechtseinheit und Rechtsentwicklung bedeutsame Fragen zu lösen sind (RIS-Justiz RS0121516). Die Auslegung von Versicherungsbedingungen ist nur dann revisibel, wenn deren Wortlaut nicht so eindeutig ist, sodass Auslegungszweifel verbleiben können (RIS-Justiz RS0121516).
+Allgemeine Versicherungsbedingungen sind nach Vertragsauslegungsgrundsätzen auszulegen. Die Auslegung hat sich daher am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063), wobei Unklarheiten zu Lasten des Versicherers gehen (RIS-Justiz RS0017960). Die einzelnen Klauseln sind, wenn sie -wie hier - nicht auch Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901). In allen Fällen ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung der Allgemeinen Geschäftsbedingungen zu berücksichtigen (RIS-Justiz RS0008901 [T5, T7, T87]). Als Ausnahmetatbestände, die die vom Versicherer übernommenen Gefahren einschränken oder ausschließen, dürfen Ausschlüsse nicht weiter ausgelegt werden, als es ihr Sinn unter Betrachtung ihres wirtschaftlichen Zwecks und der gewählten Ausdrucksweise sowie des Regelungszusammenhangs erfordert (RIS-Justiz RS0107031).
+Nichts anderes gilt für die vorliegenden Besonderen Bedingungen für die Versicherung von Wohn- und Bürogebäuden, Fassung 2007, der Beklagten. Sie lauten auszugsweise:
+„Sturm- und Elementarversicherung
+…
+64 GW 003 2
+Schäden durch Niederschlags- und Schmelzwasser
+…
+Nicht versichert sind, auch wenn sie im Zusammenhang mit einem versicherten Ereignis auftreten bzw davon ausgelöst werden
+…
+Schäden an den versicherten Sachen durch Baufälligkeit und mangelhafte Errichtung oder Instandhaltung der Gebäude und seiner Bauteile, in denen sich die versicherten Sachen befinden;
+...“
+Der Oberste Gerichtshof hat zu der vergleichbaren Bedingung (Art 1 Abs 7 lit e AStB 1986) bereits Stellung genommen: Wird von vornherein nur ausschnittsweise Deckung gewährt und nicht ein gegebener Versicherungsschutz wegen nachlässigen Verhaltens wieder entzogen, so handelt es sich um eine Risikobeschränkung. Ausgehend von diesen Grundsätzen kann Art 1 Abs 7 lit e AStB 1986, nach dem der Versicherer nicht für Schäden haftet, die dadurch entstehen, „dass sich die versicherten Gebäude in einem baufälligen Zustand befanden bzw ganz oder teilweise mangelhaft in Stand gehalten wurden“, nur so verstanden werden, dass damit das Risiko des Versicherers begrenzt werden soll, also ein Risikoausschluss vereinbart wurde. Es sollen damit Schäden ausgeschlossen werden, die an Sachen eingetreten sind, die sich im Versicherungsfall in einem bestimmten, und zwar das Schadensrisiko erhöhenden Zustand befinden (7 Ob 274/06d; vgl RIS-Justiz RS0107031).
+Das Auslegungsergebnis des Berufungsgerichts, die gegenständliche Bedingung regle einen Risikoausschluss, ist ebenso wenig zu beanstanden, wie jenes, dass auch dem durchschnittlich verständigen Versicherungsnehmer unzweifelhaft klar sein müsse, dass für den Risikoausschluss Baufälligkeit (die allenfalls zeitlich nach und völlig unabhängig von einer mangelhaften Errichtung eintreten kann) und mangelhafte Errichtung nicht kumulativ vorausgesetzt werden, sondern es sich um zwei unterschiedliche Tatbestände handle, die jeweils zu einem das Schadensrisiko erhöhenden Zustand des Gebäudes insoweit führen, als dem versicherten Risiko - hier Niederschlagswasser - ein geringerer Widerstand entgegengesetzt wird, als bei einem Gebäude in einem ordnungsgemäßen Zustand.
+Da der auftretende Schaden auf eine Unterdimensionierung des Dachentwässerungssystems von der südlichen Dachseite, dem defekten Einbau einer rohrdichtenden Muffe und dem fehlenden Überlauf bei den Terrassen zurückzuführen ist, bejahte das Berufungsgericht - selbst ausgehend vom Eintritt eines versicherten Risikos - vertretbar das Vorliegen des Risikoausschlusses.
+2. Ob ein konstitutives Anerkenntnis vorliegt, ist durch Auslegung des Parteiwillens im Einzelfall zu ermitteln. Dabei sind vor allem die verfolgten Zwecke, die beiderseitigen Interessen und die allgemeine Verkehrsauffassung über die Bedeutung eines solchen Anerkenntnisses maßgebend (RIS-Justiz RS0017965 und RS0032666). Ein konstitutives Anerkenntnis kann sich auch nur auf einen Teil einer Forderung oder deren Höhe beziehen. Da aber auch für ein solches Anerkenntnis das einseitige Nachgeben des Schuldners charakteristisch bleibt, setzt dieses zumindest dessen Kenntnis von den Forderungen des Gläubigers bzw deren Höhe voraus (RIS-Justiz RS0122872). Aus einer Teilzahlung allein ist die Anerkennung der Rechtsschuld nicht zu erschließen. Sie ist nur als schlüssiges Anerkenntnis dem Grunde nach zu sehen, wenn durch diese Teilzahlung in irgendeiner Weise zum Ausdruck gebracht wurde, dass nur auf Abschlag einer weiteren Verpflichtung geleistet werde (RIS-Justiz RS0014276 [T2], vgl auch RS0032733).
+Die Ansicht des Berufungsgerichts, das Vorliegen eines konstitutiven Anerkenntnisses sei zu verneinen, hält sich im Lichte der festgestellten Korrespondenz zwischen den Streitteilen im Rahmen der Judikatur.
+3. Von einer gegen die guten Sitten verstoßenden missbräuchlichen Rechtsausübung kann nur gesprochen werden, wenn demjenigen, der sein Recht ausübt, jedes andere Interesse abgesprochen werden muss als eben das Interesse, dem anderen Schaden zuzufügen. Besteht ein begründetes Interesse des Rechtsausübenden, einen seinem Recht entsprechenden Zustand herzustellen, wird die Rechtsausübung nicht schon dadurch zu einer missbräuchlichen, dass der sein Recht Ausübende unter anderem auch die Absicht verfolgt, mit der Rechtsausübung dem anderen Schaden zuzufügen (RIS-Justiz RS0026271). Eine rechtsmissbräuchliche Bestreitung des Versicherungsfalls durch die Beklagte ist nicht ersichtlich.
+4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0070OB00048.15G.0902.000

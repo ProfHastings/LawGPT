@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2016
+Geschäftszahl
+7Ob56/16k
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und durch die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei M***** S*****, vertreten durch Dr. Ernst Fiedler, Rechtsanwalt in Salzburg, gegen die beklagte Partei W***** AG *****, vertreten durch Mag. Alexandra Knapp, Rechtsanwältin in Salzburg, wegen 7.500 EUR sA, über den Rekurs der beklagten Partei gegen den Beschluss des Landesgerichts Salzburg als Berufungsgericht vom 30. Dezember 2015, GZ 53 R 240/15y-26, berichtigt durch den Beschluss vom 13. Jänner 2016, GZ 53 R 240/15y-28, womit das Urteil des Bezirksgerichts Salzburg vom 15. Juni 2015, GZ 13 C 308/14y-22, aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit 833,52 EUR (darin enthalten 138,92 EUR an USt) bestimmten Kosten des Rekursverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht hob das klagsstattgebende Urteil des Erstgerichts auf und trug ihm eine Verfahrensergänzung auf; es sprach aus, dass der Rekurs an den Obersten Gerichtshof zulässig sei, weil dieser zur maßgeblichen Bedingungslage noch nicht Stellung genommen habe und diese verschiedene Auslegungsmöglichkeiten offen lasse.
+Rechtliche Beurteilung
+Der Rekurs ist entgegen dem den Obersten Gerichtshof nicht bindenden Zulassungsausspruch des Berufungsgerichts nicht zulässig. Selbst wenn das Berufungsgericht - zu Recht - ausgesprochen hätte, die ordentliche Revision (oder der Rekurs an den Obersten Gerichtshof) sei zulässig, das Rechtsmittel aber dann nur solche Gründe geltend macht, deren Erledigung nicht von der Lösung erheblicher Rechtsfragen abhängt, ist die Revision (der Rekurs) trotz der Zulässigerklärung durch das Gericht zweiter Instanz zurückzuweisen (RIS-Justiz RS0102059, RS0048272 [T1]). Die Zurückweisung des Rekurses kann sich auf die Anführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO analog; RIS-Justiz RS0043691):
+1. Die Klägerin ist bei der Beklagten im Rahmen einer Eigenheimversicherung unter anderem gegen Katastrophenschäden versichert. Dem Versicherungsvertrag liegen die Allgemeinen Bedingungen für den Top and Easy Eigenheimschutz (Fassung 2005) zugrunde. Diese lauten auszugsweise:
+„Artikel 3
+Versicherte Gefahren
+…
+3.7 Katastrophenschutz:
+…
+Versichert sind:
+a) Schäden durch Hochwasser, Überschwemmung, Rückstau, Ansteigen des Grundwasserspiegels, Vermurung, Erdbeben, Lawinen und Lawinenluftdruck
+…
+- Hochwasser ist das unvorhersehbare, unregelmäßige Ansteigen und Überborden von Gewässern, Stauseen sowie sonstigen künstlichen Wasseranlagen.
+- Überschwemmung ist Regen- oder Schmelzwasser in erheblichem Umfang, das nicht auf normalem Weg abfließt, sondern auf sonst nicht in Anspruch genommenem Gelände in Erscheinung tritt und dieses überflutet.
+- Schäden durch außergewöhnlich starkes Ansteigen des Grundwasserspiegels im Zuge eines Hochwassers oder einer Überschwemmung sind mitversichert.
+...
+- Rückstau aufgrund einer vorstehend beschriebenen Gefahr.
+...“
+2. Das Berufungsgericht führte zu dieser Bedingungslage aus, dass - entgegen dem Erstgericht - ein Schutz vor Schäden resultierend aus einem Grundwasseranstieg an sich, somit ohne Verursachung durch ein Hochwasser oder eine Überschwemmung, nicht vom Versicherungsschutz umfasst sei. Die erstgerichtlichen Feststellungen würden nicht hinreichend deutlich erkennen lassen, ob sich der allein als schadenskausal behauptete Grundwasseranstieg „im Zuge“ einer Überschwemmung ereignet habe. Zum Vorliegen eines Hochwassers würden überhaupt nähere Feststellungen fehlen, insbesondere inwieweit ein solches im Sinn der in den Versicherungsbedingungen enthaltenen Definition mitursächlich für das schadensverursachende Ansteigen des Grundwasserspiegels gewesen sei.
+3. Der Rekurs rügt die vom Berufungsgericht aufgetragene Ergänzung des Sachverständigengutachtens als Mangelhaftigkeit des Berufungsverfahrens. Ein Verfahrensmangel kann allerdings immer nur in einem „zu wenig“, niemals in einem „zu viel“ an Beweisverfahrensergebnissen liegen (vgl RIS-Justiz RS0125622 im Zusammenhang mit der Wiedereröffnung einer Verhandlung). Die vom Berufungsgericht aufgetragene Verfahrensergänzung kann damit schon begrifflich keinen Verfahrensmangel darstellen.
+4. Wenn das Berufungsgericht der Ansicht ist, dass der Sachverhalt im Zusammenhang mit dem Vorliegen einer Überschwemmung und/oder eines Hochwassers und deren Kausalität für das Ansteigen des Grundwasserspiegels noch nicht genügend geklärt sei, dann kann der Oberste Gerichtshof, der nicht Tatsacheninstanz ist, dem nicht entgegentreten (RIS-Justiz RS0042179) und er kann die Feststellungen auch nicht (wie beantragt) selbst ergänzen.
+5. Die Rechtsansicht des Berufungsgerichts, dass nach der zu beurteilenden Bedingungslage Schäden durch das Ansteigen des Grundwasserspiegels für sich allein nicht vom Versicherungsschutz umfasst seien, sondern erst, wenn das Ansteigen des Grundwasserspiegels durch ein Elementarereignis in Form einer Überschwemmung oder eines Hochwassers verursacht worden sei, wird vom Rekurs und der Rekursbeantwortung geteilt.
+6. Weiters stimmt der Rekurs mit dem Berufungsgericht grundsätzlich darin überein, dass die Rechtssache noch nicht abschließend beurteilt werden könne, weil Feststellungen zum Kausalzusammenhang zwischen dem unstrittig schadenauslösenden Ansteigen des Grundwasserspiegels und den von der Klägerin behaupteten Elementarereignissen Hochwasser und Überschwemmung fehlen würden. Der Rekurs wendet sich bloß dagegen, dass es - entgegen dem Berufungsgericht - nicht entscheidend darauf ankomme, ob das Hochwasser oder eine Überschwemmung für das Ansteigen des Grundwasserspiegels „mitkausal“ sei, sondern dass in diesem Zusammenhang die „adäquate“ Verursachung maßgeblich sei. Damit spricht der Rekurs aber bloß die juristische Kausalität an; deren Bejahung schließt aber auch die Bejahung der natürlichen Kausalität in sich (RIS-Justiz RS0022582 [T5, T6]). Nur wenn der natürliche Kausalzusammenhang durch die Tatsacheninstanzen bejaht wurde, kann sich die Frage des juristischen Kausalzusammenhangs als auch durch den Obersten Gerichtshof überprüfbare Rechtsfrage stellen (RIS-Justiz RS0022582). Nur auf die natürliche Kausalität beziehen sich die Ausführungen des Berufungsgerichts. Soweit es in diesem Zusammenhang Tatsachenfeststellungen als erforderlich ansieht, steht es im Einklang mit der Judikatur (vgl RIS-Justiz RS0023778 [T1], RS0043473 ua).
+7. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Klägerin hat auf die Unzulässigkeit des Rekurses hingewiesen (RIS-Justiz RS0123222).
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00056.16K.0427.000

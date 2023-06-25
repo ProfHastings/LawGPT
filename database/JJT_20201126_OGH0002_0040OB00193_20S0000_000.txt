@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+26.11.2020
+Geschäftszahl
+4Ob193/20s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Hon.-Prof. PD Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei B* GmbH, *, vertreten durch Dr. Peter Burgstaller und andere Rechtsanwälte in Linz, gegen die beklagte Partei A* KG, *, vertreten durch Dr. Marcella Prunbauer-Glaser, Rechtsanwältin in Wien, wegen Unterlassung (Streitwert 30.000 EUR), Beseitigung (Streitwert 3.000 EUR) und Urteilsveröffentlichung (Streitwert 2.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 28. August 2020, GZ 5 R 72/20z-12, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin stellt CE-zertifizierte In-vitro-Diagnosetests für den häuslichen und professionellen Einsatz her und vertreibt diese Produkte.
+[2] 		Die Beklagte betreibt eine Apotheke; sie vertreibt unter anderem Medizinprodukte, darunter einen „C* Ovulationstest“ sowie „P*-Teststäbchen“ für In-vitro-Tests. Diese Produkte verfügen über eine CE-Kennzeichnung und die Kennnummer der nach den unionsrechtlichen Vorschriften „benannten Stelle“. Dementsprechend wurden diese Produkte dem dafür vorgesehenen regulatorischen Prüfungsverfahren unterzogen. Die Beklagte bestellt diese Produkte im Medizinproduktegroßhandel und bekommt sie fertig verpackt einschließlich der Gebrauchsanweisungen geliefert.
+[3] 		Die Klägerin begehre – gestützt auf § 1 Abs 1 Z 1 UWG – der Beklagten zu verbieten, die genannten Medizinprodukte ohne ausreichende Information über deren sichere Anwendung auf den Stückpackungen und in den Gebrauchsanweisungen in den Verkehr zu bringen. Zudem erhob sie ein Beseitigungs- und ein Veröffentlichungsbegehren. Die von der Beklagten vertriebenen und hier beanstandeten Medizinprodukte entsprächen nicht den gesetzlichen Vorgaben des MPG, weil die Stückpackungen und die Gebrauchsanweisungen nicht die nach § 9 MPG vorgeschriebenen Informationen enthielten. Gemäß § 6 MPG dürften diese Medizinprodukte daher nicht in den Verkehr gebracht werden.
+[4] 		Die Vorinstanzen wiesen die Klagebegehren ab. Vor Anbringung eines CE-Kennzeichens und Ausstellung der Konformitätserklärung seien Medizinprodukte einem umfassenden Qualitätsprüfungsverfahren zu unterziehen. Die CE-Kennzeichnung bringe zum Ausdruck, dass die Voraussetzungen für das In-Verkehr-Bringen des Medizinprodukts erfüllt seien. Daran sei die Konformitätsvermutung geknüpft. Die Beklagte dürfte daher berechtigterweise darauf vertrauen, dass die gesetzlichen Anforderungen eingehalten seien. Dies beziehe sich auch auf die Informationen auf den Stückpackungen und in den Gebrauchsanweisungen, weil auch sie Bestandteil des Prüfungsverfahrens seien. Davon ausgehend sei die Ansicht der Beklagten, sie dürfe die beanstandeten Medizinprodukte vertreiben, vertretbar.
+Rechtliche Beurteilung
+[5] 		Mit der dagegen erhobenen außerordentlichen Revision zeigt die Klägerin keine erhebliche Rechtsfrage auf:
+[6] 		1. Die sich hier stellenden Rechtsfragen sind in der Rechtsprechung des Obersten Gerichtshofs bereits geklärt. In der Entscheidung zu 4 Ob 135/20m (siehe auch 4 Ob 157/20x) wurde vor allem unter Hinweis auf die einschlägigen Entscheidungen des EuGH zu C-277/15, Servoprax (insbesondere Rn 35 und 48 zur Richtlinie 98/79/EG über In-vitro-Diagnostika), sowie zu C-6/05, Medipac-Kazantzidis (insbesondere Rn 48 und 52 zur weitgehend inhaltsgleichen Richtlinie 93/42/EWG über Medizinprodukte) ausgesprochen, dass die Rechtsansicht, dass der Verkäufer von Medizinprodukten (hier von In-vitro-Diagnostika) bei einer aufrechten CE-Kennzeichnung im Hinblick auf die daran geknüpfte Konformitätsvermutung von der Einhaltung der Anforderungen des MPG und damit auch der Informationspflichten nach § 9 iVm § 6 Z 1 leg cit ausgehen kann, jedenfalls vertretbar ist. Zu den hier relevanten Informationspflichten in Bezug auf die Stückverpackungen und die Gebrauchsanweisungen wurde festgehalten, dass dies – mit Blick auf Anhang III Pkt 6.1 der Richtlinie 98/79/EG – auch für den Standpunkt gilt, dass anlässlich der Konformitätserklärung auch die Angaben geprüft wurden, die auf der Kennzeichnung und in der Gebrauchsanweisung des Produkts anzubringen sind.
+[7] 		2. Die Anregung der Klägerin auf Einleitung eines Vorabentscheidungsverfahrens beim EuGH war nicht aufzugreifen, weil sich der EuGH zur Konformitätsvermutung und deren Widerlegung sowohl nach der hier maßgebenden Richtlinie über In-vitro-Diagnostika als auch zur weitgehend inhaltsgleichen Richtlinie über Medizinprodukte bereits geäußert hat und es im Anlassfall zudem auf das Vertretbarkeitskalkül der von der Beklagten ins Treffen geführten Rechtsansicht ankommt.
+[8] 		3. Mangels erheblicher Rechtsfrage war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:E130302

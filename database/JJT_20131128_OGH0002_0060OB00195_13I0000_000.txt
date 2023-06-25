@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.11.2013
+Geschäftszahl
+6Ob195/13i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Pimmer als Vorsitzenden und durch die Hofräte des Obersten Gerichtshofs Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei A***** GmbH, *****, vertreten durch Mahringer Steinwender Bestebner Rechtsanwälte OG in Salzburg, gegen die beklagte Partei M***** F*****, vertreten durch Dr. Andreas Reischl, Rechtsanwalt in Salzburg, als Verfahrenshelfer, wegen 21.600 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 24. Juli 2013, GZ 2 R 84/13f-28, mit dem das Urteil des Landesgerichts Salzburg vom 11. Dezember 2012, GZ 3 Cg 99/11g-17, abgeändert wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Klägerin ist schuldig, dem Beklagten die mit 1.259,64 EUR (darin 209,94 EUR Umsatzsteuer) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Entgegen dem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die ordentliche Revision nicht zulässig:
+Das Berufungsgericht hat seinen Zulässigkeitsausspruch damit begründet, es scheine „angesichts der Argumentation der Klägerin in ihrem Antrag auf Abänderung des Zulassungsausspruchs eine höchstgerichtliche Klarstellung geboten, ob die vom Berufungsgericht herangezogene Judikatur auch dann anzuwenden ist, wenn der Bedingungseintritt aus vom Auftraggeber des Maklers zu vertretenden Gründen unterblieben ist“.
+In der Sache selbst wies das Berufungsgericht das Zahlungsbegehren der klagenden Maklerin mit der Begründung ab, im Hinblick auf § 7 Abs 1 MaklerG stehe ein Provisionsanspruch nicht zu, wenn die Bedingung einer grundverkehrsbehördlichen Genehmigung nicht eintritt und der Makler sich nicht auf eine Vereinbarung nach § 15 Abs 1 Z 1 MaklerG berufen oder beweisen kann, dass der Auftraggeber die Erteilung der Genehmigung wider Treu und Glauben vereitelte, also das Entstehen des Provisionsanspruchs absichtlich verhinderte.
+Rechtliche Beurteilung
+1. Nach § 7 Abs 1 MaklerG, von dem gemäß § 18 MaklerG zum Nachteil des Auftraggebers nicht abgegangen werden kann, entsteht der Anspruch des Maklers auf Provision mit der Rechtswirksamkeit des vermittelten Geschäfts; eine Punktation gemäß § 885 ABGB reicht dabei aus (RIS-Justiz RS0062766). Bedarf der vom Makler vermittelte Vertrag zu seiner Wirksamkeit einer behördlichen Genehmigung, so erwirbt der Makler den Provisionsanspruch jedoch erst mit der Erteilung der Genehmigung (RIS-Justiz RS0062806). Auch wenn die Verkäufer das Kaufanbot bereits angenommen hatten und nur die Unterfertigung eines schriftlichen Kaufvertrags scheiterte, kam das von der Klägerin vermittelte Geschäft nie wirksam zustande; die Voraussetzungen des § 7 Abs 1 MaklerG liegen somit nicht vor.
+2. Die Klägerin meint in ihrer Revision lediglich, es komme hier entgegen der vom Berufungsgericht vertretenen Auffassung gar nicht auf die Frage der grundverkehrsbehördlichen Genehmigung an; vielmehr sei das Geschäft ausschließlich deshalb „unterblieben“, weil der Beklagte den für den Erwerb der Liegenschaft notwendigen Finanzbedarf nicht habe aufstellen können. Da das Kaufanbot nicht von der Finanzierbarkeit des Kaufpreises abhängig gemacht worden sei, stehe ihr die Maklerprovision zu.
+Der Umstand, dass der Auftraggeber den Kaufpreis für die vertragsgemäß vermittelte Liegenschaft nicht aufbringen kann, ist zwar für sich allein kein Grund, dem Makler den Provisionsanspruch abzuerkennen, und zwar vor allem dann nicht, wenn das Kaufanbot in keiner Weise von der Finanzierbarkeit des Kaufpreises abhängig gemacht wurde (RIS-Justiz RS0116248). Grundvoraussetzung ist allerdings auch hier das wirksame Zustandekommen der Vereinbarung zwischen Verkäufer und Käufer, sei es auch lediglich in Form einer Punktation; dies ergibt sich gerade aus den in der Revision zitierten Entscheidungen 5 Ob 266/01f und 2 Ob 38/05k. Gerade diese Voraussetzung war im vorliegenden Verfahren jedoch angesichts der unbestritten notwendigen grundverkehrsbehördlichen Genehmigung nicht gegeben.
+Abgesehen davon, dass eine Vereinbarung nach § 15 MaklerG nicht zustande gekommen ist, worauf das Berufungsgericht zutreffend hingewiesen hat, geht die Revision nunmehr selbst davon aus, dass „eine Anwendung dieser Bestimmung auf den gegenständlichen Sachverhalt rechtsrichtig nicht möglich“ sei.
+3. Da das Berufungsgericht somit der Rechtsprechung des Obersten Gerichtshofs gefolgt ist, war die Revision zurückzuweisen.
+Die Entscheidung über die Kosten des Revisionsverfahrens gründet sich auf §§ 41, 50 ZPO. Der Beklagte hat in der Revisionsbeantwortung auf die Unzulässigkeit der Revision hingewiesen. Der Schriftsatz ist daher als zur zweckentsprechenden Rechtsverteidigung notwendig anzusehen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0060OB00195.13I.1128.000

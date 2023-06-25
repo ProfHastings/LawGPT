@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.04.1959
+Geschäftszahl
+4Ob24/59
+Norm
+Arbeitsgerichtsgesetz §1;
+Kopf
+SZ 32/45
+Spruch
+Zuständigkeit des Arbeitsgerichtes für die Klage des Dienstgebers gegen den früheren Dienstnehmer auf Rückzahlung eines als Gehaltsvorschuß gegebenen Darlehens.
+Entscheidung vom 7. April 1959, 4 Ob 24/59.
+I. Instanz: Arbeitsgericht St. Johann im Pongau; II. Instanz:
+Landesgericht Salzburg.
+Text
+Der Beklagte war beim Kläger als Monteur beschäftigt. Nach dem Klagevorbringen erhielt er vom Kläger ein Darlehen von 7000 S in Form eines Gehaltsvorschusses zum Ankauf eines PKWs., der in Monatsraten von 500 S zurückzuzahlen war. Bei Auflösung des Dienstverhältnisses wurde vereinbart, daß der Beklagte den restlichen Betrag von 5000 S in zehn gleichen Monatsraten zurückzahlen sollte. Der Kläger begehrte mangels Zahlung den Zuspruch der fällig gewordenen Monatsraten.
+Bei der ersten Tagsatzung wendete der Beklagte die sachliche Unzuständigkeit des Arbeitsgerichtes ein, weil es sich um einen Darlehensvertrag gehandelt habe.
+Das Erstgericht wies die Klage wegen sachlicher Unzuständigkeit zurück. Nach seiner Ansicht stehe der Darlehensvertrag nur in einem äußeren, zufälligen Zusammenhang mit dem Dienstverhältnis.
+Das Rekursgericht behob die Unzuständigkeitsentscheidung und trug dem Erstgericht die Fortsetzung des Verfahrens auf. Nicht der Rechtsgrund, sondern die Natur der Entstehung des Anspruches sei für die Zuständigkeit maßgebend. Das Darlehen sei dem Beklagten als Dienstnehmer gegeben worden, der Anspruch wurzle daher im Dienstverhältnis.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Im Revisionsrekurs wird zunächst ausgeführt, daß der Erstrichter bei der ersten Tagsatzung über die Einrede der sachlichen Unzuständigkeit nicht hätte entscheiden dürfen, jedenfalls nicht ohne Zuziehung von Beisitzern.
+Dieser Vorwurf ist unberechtigt. Die Zuständigkeit des Arbeitsgerichtes ist eine unverzichtbare, die in jeder Lage des Verfahrens beachtet werden muß. Darüber konnte gemäß § 239 Abs. 3 ZPO. auch bei der ersten Tagsatzung entschieden werden, und zwar nach § 21 ArbGerG. ohne Beisitzer.
+Auch der Vorwurf, daß unzulässigerweise bei der ersten Tagsatzung der Sachverhalt erörtert worden sei, ist unbegrundet. Aus dem Verhandlungsprotokoll ergibt sich, daß der Vorsitzende nur die Zuständigkeitsfrage, nicht aber den dem Klagebegehren zugrunde liegenden Sachverhalt, soweit er die Zuständigkeitsfrage nicht berührte, erörterte.
+Die Zuständigkeit des Arbeitsgerichtes war nach dem Vorbringen in der Klage und nach dem Inhalt der Einrede des Beklagten nicht zu verneinen. Der Kläger verlangte die Rückzahlung eines als Gehaltsvorschuß gegebenen Darlehens. Der Beklagte brachte nichts Gegenteiliges vor, er vertrat nur die Meinung, daß es sich um einen Darlehensvertrag handle. Für die Zuständigkeit des Arbeitsgerichtes kam nur die Bestimmung des § 1 Abs. 1 Z. 1 ArbGerG. in Betracht (Streitigkeiten aus dem Arbeits- oder Lehrverhältnis). Dabei kommt es nicht auf den Rechtsgrund des Anspruches, sondern auf die Natur seiner Entstehung an (vgl. SZ. XXII 83). Daß ein Gehaltsvorschuß sich rechtlich als Darlehensvertrag qualifiziert, hindert nicht, daß er seine Wurzel im Arbeitsverhältnis hat, denn er hat die Entgeltzahlung für die erbrachte Arbeitsleistung als Sicherung der Rückzahlung zur Voraussetzung. Es kann daher nicht zweifelhaft sein, daß bei bestehendem Arbeitsverhältnis ein Streit um die Rückzahlung eines Gehaltsvorschusses nur vor dem Arbeitsgericht ausgetragen werden kann. Es gehören aber auch Streitigkeiten aus den Nachwirkungen eines Arbeitsverhältnisses vor die Arbeitsgerichte. Diese Bestimmung greift überall dort ein, wo das bestandene Arbeitsverhältnis inzwischen gelöst wurde, und soll verhindern, daß durch die Lösung des Arbeitsverhältnisses die arbeitsgerichtliche Zuständigkeit vernichtet wird, obwohl es sich der Natur der Sache nach noch um die gleichen arbeitsrechtlichen Streitigkeiten handelt, die ja meistens erst nach Beendigung des Arbeitsverhältnisses ausgetragen werden. Die arbeitsgerichtliche Zuständigkeit ist daher für die Rückforderung eines Gehaltsvorschusses auch nach Beendigung des Arbeitsverhältnisses gegeben. Es lag daher für das Arbeitsgericht kein Grund zur Nichtigerklärung des Verfahrens und zur Klagezurückweisung wegen sachlicher Unzuständigkeit vor. Das Rekursgericht hat mit Recht diese Entscheidung behoben und dem Erstgericht die Fortsetzung des Verfahrens aufgetragen.

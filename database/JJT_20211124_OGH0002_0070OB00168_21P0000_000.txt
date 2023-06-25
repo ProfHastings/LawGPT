@@ -1,0 +1,37 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.11.2021
+Geschäftszahl
+7Ob168/21p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei M* P*, vertreten durch Mag. Stefan Hutecek, Mag. Katja Pfeiffer, Rechtsanwälte in Herzogenburg, gegen die beklagte Partei G* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 189.700 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 23. Juni 2021, GZ 3 R 18/21w-46, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die Allgemeinen Bedingungen für den Premium-Unfallschutz (AUVB 2012, Fassung 3/2016) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 7
+Was versteht man unter „Dauernder Invalidität“?
+Wie wird der Invaliditätsgrad bemessen?
+[…]
+7. Steht der Grad der dauernden Invalidität nicht eindeutig fest, sind sowohl die versicherte Person als auch wir berechtigt, den Invaliditätsgrad jährlich bis vier Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen.
+[...]“
+[2] 		Zwischen den Streitteilen besteht weiters ein Kraftfahrzeug-Insassenunfallversicherungsvertrag, dem die Allgemeinen Bedingungen für die Kraftfahrzeug-Insassenunfallversicherung 2013 (AKIUB 2013) zugrunde liegen. Diese lauten auszugsweise:
+„Artikel 9
+Was leistet der Versicherer bei dauernder Invalidität?
+[…]
+6. Steht der Grad der dauernden Invalidität innerhalb eines Jahres vom Unfalltag an gerechnet nicht eindeutig fest, sind sowohl der Versicherte als auch der Versicherer berechtigt, den Invaliditätsgrad jährlich bis 4 Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen.
+[...]“
+Rechtliche Beurteilung
+[3] 		1. Mit Art 7.7. AUVB 2012 und Art 9.6. AKIUB 2013 wortgleiche oder vergleichbare Klauseln waren bereits Gegenstand zahlreicher oberstgerichtlicher Entscheidungen. Derartige Klauseln enthalten eine Ausschlussfrist: Wird die Antragstellung auf Neubemessung innerhalb von vier Jahren ab dem Unfalltag versäumt, bleibt es bei der bisherigen Bemessung des Invaliditätsgrads (RS0122119 [T2]). Ein allenfalls von der Erstbemessung abweichender Invaliditätsgrad ist nur dann zu bemessen und zu berücksichtigen, wenn dies bis zu vier Jahre ab dem Unfalltag vom Versicherten oder vom Versicherer begehrt wird (RS0082173 [T1]; RS0082292 [T11]; RS0109447 [T2]).
+[4] 		Der Zweck der Regelung liegt in der möglichst raschen Herstellung von Rechtssicherheit und Rechtsfrieden (RS0082216 [T1, T6]). Beide Parteien
+– Versicherungsnehmer/Versicherter und auch Versicherer – sollen innerhalb eines überblickbaren Zeitraums Klarheit über den Grad der Invalidität erlangen können, um letztlich Beweisschwierigkeiten zu vermeiden und eine alsbaldige Klärung der Ansprüche herbeizuführen. Die durch Setzung der Ausschlussfrist vorgenommene Risikobegrenzung soll also im Versicherungsrecht eine Ab- und Ausgrenzung schwer aufklärbarer und unübersehbarer (Spät-)Schäden herbeiführen. Maßgeblich ist der Invaliditätsgrad bis maximal zum Ablauf der (Vierjahres-)Frist (7 Ob 117/15d mwN; 7 Ob 47/16m).
+[5] 		Die Neubemessung der Invalidität innerhalb der vereinbarten Frist setzt voraus, dass die dauernde Invalidität bereits grundsätzlich feststand, ärztlich bemessen wurde und der Versicherer dazu eine entsprechende Erklärung abgegeben hat (RS0122859 [T1]). Ein Antrag auf Vornahme der Neubemessung muss vom Versicherer jedenfalls so rechtzeitig gestellt werden, dass die ärztliche Untersuchung nach dem gewöhnlichen Verlauf der Dinge noch vor Ablauf der Frist möglich ist (RS0129970). Wenn hingegen der Versicherungsnehmer gegen den Versicherer vor Ablauf der Frist für die Neubemessung Klage erhebt, gehen die Parteien typischerweise davon aus, dass der Streit insgesamt, das heißt, einschließlich etwaiger weiterer Invaliditätsfeststellungen, in dem vor Fristablauf eingeleiteten Prozess ausgetragen werden soll, ohne dass es einer Neufeststellung bedarf; wobei der Invaliditätsgrad bis maximal zum Ablauf der Frist maßgebend ist (7 Ob 153/12v mwN).
+[6] 		2. Der Kläger erlitt am 17. Dezember 2016 einen Unfall. Ausgehend von einem durch eine medizinische Sachverständige bewerteten Invaliditätsgrad von 15 % zum Stichtag 17. Dezember 2017 erbrachte die Beklagte Leistungen aus beiden Versicherungen an den Kläger. Gegen diese (Erst-)Bemessung wendet sich der Kläger mit der vorliegenden Klage. Er begehrt Versicherungsleistungen auf Basis eines Invaliditätsgrades von 25 %. Der vom Gericht bestellte Sachverständige kam zum Ergebnis, dass der Invaliditätsgrad zum Zeitpunkt 17. Dezember 2017 25 % betrug. Über den von der Beklagten im Juli 2020 gestellten Antrag auf Neubemessung der Invalidität kam der gerichtliche Sachverständige innerhalb der Vier-Jahres-Frist zu einem (nunmehrigen) Invaliditätsgrad von 15 %, weil sich der Gesundheitszustand des Klägers seit dem 17. Dezember 2017 deutlich verbessert habe.
+[7] 		3. Da der Streit über das Ausmaß der Invalidität zwischen den Parteien insgesamt in dem vor Ablauf der Vierjahres-Frist eingeleiteten Prozess ausgetragen werden soll, wenn der Kläger – wie hier – vor Ablauf dieser Frist Klage erhoben hat und die Beklagte den Neubemessungsantrag innerhalb der Frist gestellt und auch die ärztliche Untersuchung vor Fristablauf stattgefunden hat, ist die Ansicht der Vorinstanzen, dem Kläger gebühren Versicherungsleistungen auf Basis der zum Zeitpunkt des innerhalb der Neubemessungsfrist liegenden Schlusses der mündlichen Verhandlung bestehenden dauernden Invalidität von 15 %, nicht korrekturbedürftig.
+[8] 		4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00168.21P.1124.000

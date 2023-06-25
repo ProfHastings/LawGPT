@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.05.2017
+Geschäftszahl
+6Ob99/17b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei M***** B*****, vertreten durch Graff Nestl & Partner Rechtsanwälte GmbH in Wien, gegen die beklagte Partei B***** Gesellschaft mbH, *****, vertreten durch Doralt Seist Csoklich Rechtsanwaltspartnerschaft in Wien, wegen 345.021,01 EUR und 506.495,96 EUR (Revisionsinteresse 706.107,44 EUR sA), über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Wien vom 30. März 2017, GZ 2 R 101/16m-119, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+Der Schwerpunkt der Revisionsausführungen liegt auf der Übertragbarkeit der Rechtsprechung des VwGH, wonach es bei einer verdeckten Gewinnausschüttung nur dann zu einer Berichtigung der Handelsbilanz kommen kann, wenn der Rückforderungsanspruch zum Bilanzstichtag bereits den Charakter eines Vermögensgegenstands hat, auf das Zivilrecht (VwGH 2007/15/0196).
+Im vorliegenden Fall geht es jedoch ausschließlich um die – Grundlage der eingewendeten Gegenforderungen bildende – Haftung der Klägerin als damaliger Geschäftsführerin, aber auch Empfängerin verdeckter Gewinnausschüttungen für verschiedene Abgabennachforderungen. Der den Steuernachforderungen zugrunde liegende Sachverhalt hat sich durchwegs während jenes Zeitraums verwirklicht, währenddessen die Klägerin Geschäftsführerin war. Ihr Argument, sie habe die Bilanz für das Jahr 2009/2010 nicht mehr selbst erstellt, geht daher ins Leere. Zu diesem Zeitpunkt wäre nach der Rechtsprechung des VwGH gar keine Korrekturmöglichkeit mehr gegeben gewesen. Bis zum Zeitpunkt des Bilanzstichtags war die Klägerin jedoch Geschäftsführerin und hätte die Möglichkeit einer Rückgängigmachung der verdeckten Gewinnausschüttung gehabt.
+Hinsichtlich der Bilanzen für die Jahre 2005 bis 2007 wurden nach den Feststellungen des Erstgerichts Anspruchszinsen vom Finanzamt vorgeschrieben, weil die Bilanz durch Inventurkürzungen unrichtig dargestellt wurde.
+Zutreffend wies das Berufungsgericht auch darauf hin, dass die von der Klägerin abgeschlossenen unzulässigen Insichgeschäfte auch dazu führten, dass vom Finanzamt nachträglich KESt samt Säumniszuschlägen vorgeschrieben wurde. Auch diesen Schaden hat die Klägerin daher verursacht.
+Bei dieser Sachlage ist aber ein Sorgfaltsverstoß der Klägerin zumindest indiziert, sodass es ihr oblegen wäre, den – nach der Rechtsprechung auch auf das Recht der GmbH anzuwendenden (RIS-Justiz RS0121916) – Entlastungsbeweis nach § 84 Abs 2 Satz 2 AktG zu führen. Diesen Beweis hat die Klägerin nicht erbracht. Die Erstellung des Jahresabschlusses zählt zu den zentralen Geschäftsleitungsaufgaben und stellt eine Kernverpflichtung der Geschäftsführung im Rahmen der Finanzgebarung dar. Der Versuch der Klägerin, die Verantwortung auf andere Personen abzuschieben, geht daher ins Leere.
+Die Argumentation der Klägerin, sie sei am Abgabenverfahren nicht beteiligt gewesen, ist nicht stichhaltig, legt sie doch nicht dar, zu welchen konkreten anderen Ergebnissen die Abgabenbehörden gelangen müssen, wenn ihr im Abgabenverfahren Parteistellung zugekommen wäre.
+Zusammenfassend vermag die Revisionswerberin daher keine Rechtsfragen der in § 502 Abs 1 ZPO geforderten Bedeutung darzustellen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00099.17B.0529.000

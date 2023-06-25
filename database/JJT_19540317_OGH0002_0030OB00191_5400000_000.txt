@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.03.1954
+Geschäftszahl
+3Ob191/54
+Norm
+Patentgesetz §96;
+ZPO §192;
+Kopf
+SZ 27/73
+Spruch
+Unzulässigkeit eines Rekurses gegen eine Entscheidung, mit der die Unterbrechung des Verfahrens wegen eines präjudiziellen Einspruchsverfahrens nach dem Patentgesetz abgelehnt wird.
+Entscheidung vom 17. März 1954, 3 Ob 191/54.
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien.
+Text
+Die klagende Partei hat auf Grund der Bekanntmachung und Auslegung eines Patentes im Sinne des § 57 PatG. gegen die beklagte Partei eine Klage nach § 96 PatG. eingebracht. Das Erstgericht hat sein Verfahren bis zur Erledigung eines gegen die Anmeldung eingebrachten Einspruches unterbrochen. Das Rekursgericht hat den Unterbrechungsantrag aufgehoben und einen gegen seine Entscheidung eingebrachten Revisionsrekurs, den das Erstgericht vorgelegt hatte, als unzulässig zurückgewiesen.
+Der Oberste Gerichtshof gab dem Rekurs des Klägers gegen den Zurückweisungsbeschluß nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurs vertritt die Meinung, daß nur die erste Instanz berechtigt gewesen wäre, den Rekurs als unzulässig zurückzuweisen. Der § 528 ZPO. verfügt wohl nur, daß unzulässige Rekurse gegen Entscheidungen der zweiten Instanz vom Gerichte erster Instanz zurückzuweisen sind. Doch läßt sich daraus nicht schließen, daß nicht auch die zweite Instanz berufen ist, die Unzulässigkeit des Rechtsmittels wahrzunehmen. Es wäre sinnlos, die Zurückweisung durch die zweite Instanz zu beheben und die Vorlage des Revisionsrekurses an den Obersten Gerichtshof aufzutragen, um diesem die neuerliche Zurückweisung vorzubehalten. Es entspricht auch der herrschenden Rechtsprechung, daß das Gericht zweiter Instanz in den Fällen der §§ 507 Abs. 1 und 527 Abs. 1 ZPO. die von der ersten Instanz zu Unrecht vorgelegten Rechtsmittel zurückweisen kann.
+Rechtsmittel gegen Entscheidungen der zweiten Instanz, mit denen eine Unterbrechung des Verfahrens abgelehnt wird, sind unzulässig (SZ. XXII/64). Dies gilt nur dann nicht, wenn besondere Bestimmungen zur Anwendung gelangen, die es dem Gerichte zur Pflicht machen, über Vorfragen nicht selbst zu entscheiden, sondern sein Verfahren bis zur Entscheidung einer anderen Behörde über die Vorfrage zu unterbrechen. Der § 106 PatG. bestimmt, daß ein Strafverfahren auch schon dann eingeleitet werden kann, wenn die vorläufigen Wirkungen des § 57 PatG. eintreten. Die in § 105 PatG. getroffenen Vorkehrungen und die Fällung eines Urteiles könnten jedoch erst nach Erteilung des Patentes stattfinden. Diese Bestimmung ist nach § 108 PatG. auch auf die nach § 96 PatG. erhobenen zivilrechtlichen Klagen anzuwenden.
+Das Patentgesetz schreibt eine formelle Unterbrechung des Verfahrens überhaupt nicht vor. Das Gericht wird also auch, ohne eine solche mit den Wirkungen des § 163 f. ZPO. auszusprechen, mit der Fällung des Urteiles zuzuwarten haben, wenn feststeht, daß die Voraussetzungen einer Verurteilung im Falle der Erteilung des Patentes gegeben wären. Es besteht also kein Anlaß, die Frage der Zulässigkeit eines Rekurses gegen eine Entscheidung, mit der die Unterbrechung des Verfahrens wegen eines präjudiziellen Einspruchsverfahrens nach dem Patentgesetz abgelehnt wird, anders zu behandeln als dies § 192 ZPO. vorsieht (SZ. XIV/22). Das Rekursgericht hat daher mit Recht den Revisionsrekurs als gemäß § 192 Abs. 2 ZPO. unzulässig zurückgewiesen, weshalb dem Rekurs gegen den Zurückweisungsbeschluß der Erfolg versagt werden mußte.

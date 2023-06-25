@@ -1,0 +1,35 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.09.2020
+Geschäftszahl
+7Ob129/20a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende sowie die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei G***** N*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei R*****-AG, *****, vertreten durch Mag. Daniela Weiss und Dr. Bernhard Ess, Rechtsanwälte in Feldkirch, wegen Feststellung, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 20. Februar 2020, GZ 4 R 190/19a-18, mit dem das Urteil des Landesgerichts Feldkirch vom 29. Oktober 2019, GZ 9 Cg 130/18d-13, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.175,22 EUR (darin 195,87 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Gattin des Klägers hat bei der Beklagten einen Rechtsschutzversicherungsvertrag mit Versicherungsablauf 1. 4. 2017, 00:00 Uhr, abgeschlossen, der allgemeinen Vertragsrechtsschutz einschließlich Streitigkeiten aus Versicherungsverträgen umfasste. Der Kläger war als Angehöriger mitversichert. Dem Rechtsschutzversicherungsvertrag lagen die Allgemeinen Bedingungen für die Rechtsschutz-Versicherung (ARB) 2013 zugrunde, die auszugsweise lauten:
+„[...]
+ARTIKEL 2
+Was gilt als Versicherungsfall und wann gilt er als eingetreten? […]
+3. In den übrigen Fällen gilt als Versicherungsfall der tatsächliche oder behauptete Verstoß des Versicherungsnehmers, Gegners oder eines Dritten gegen Rechtspflichten oder Rechtsvorschriften; der Versicherungsfall gilt in dem Zeitpunkt als eingetreten, in dem eine der genannten Personen begonnen hat oder begonnen haben soll, gegen Rechtspflichten oder Rechtsvorschriften zu verstoßen. […]
+4. Bei mehreren Verstößen ist der erste, adäquat ursächliche Verstoß maßgeblich, wobei Verstöße, die länger als ein Jahr vor Versicherungsbeginn zurückliegen, für die Feststellung des Versicherungsfalles außer Betracht bleiben.
+[...]
+ARTIKEL 3
+Für welchen Zeitraum gilt die Versicherung (zeitlicher Geltungsbereich)?
+1. Die Versicherung erstreckt sich auf Versicherungsfälle, die während der Laufzeit des Versicherungsvertrags eintreten.
+[...]“
+Das Berufungsgericht sprach aus, dass die ordentliche Revision zulässig sei, weil keine höchstgerichtliche Judikatur existiere zur Frage der Nachvertraglichkeit im Zusammenhang mit Art 2.4 ARB 2013 und dem allgemeinen Vertragsrechtsschutz (hier: zur Verfolgung von Ansprüchen aus einer Unfallversicherung).
+Rechtliche Beurteilung
+Die Revision ist entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Art 2.3 und 2.4 ARB 2013 entsprechen (zusammengefasst) dem Art 2.3 ARB älterer Fassung, wozu bereits zahlreiche Entscheidungen des Fachsenats vorliegen. Demnach ist ein Verstoß ein tatsächlich objektiv feststellbarer Vorgang, der immer dann, wenn er wirklich vorliegt oder ernsthaft behauptet wird, den Keim eines Rechtskonflikts in sich trägt, der zur Aufwendung von Rechtskosten führen kann. Damit beginnt sich die vom Rechtsschutzversicherer übernommene Gefahr konkret zu verwirklichen (RS0114001). Maßgeblich ist, welche Rechtsverfolgung der Versicherungsnehmer anstrebt und welcher behauptete Verstoß dafür gegebenenfalls adäquat kausal gewesen sein kann (vgl 7 Ob 85/20f). Der Versicherungsfall und damit die Beurteilung der Deckungspflicht richtet sich nach dem vom Kläger geltend zu machenden Anspruch und ist insofern eine Frage des Einzelfalls (RS0123775). Die vom Berufungsgericht im vorliegenden Fall angenommene Nachvertraglichkeit hält sich im Rahmen der Rechtsprechungsgrundsätze des Fachsenats zum Vorliegen des Versicherungsfalls in der Rechtsschutzversicherung:
+2. Die Klagevertreterin hat mit dem Aufforderungsschreiben vom 28. 5. 2018 gegenüber der Beklagten „Kostendeckungszusage für die Verfolgung der Ansprüche unserer Mandanten gegen (den Unfallversicherer) auf Basis des beiliegenden Forderungsschreibens“ verlangt. In diesem Forderungsschreiben vom selben Tag wird eine „restliche Invaliditätsentschädigung“ von 40 % mit der Behauptung verlangt, dass die vom Unfallversicherer laut dessen Abrechnungsschreiben vom 20. 3. 2018 bekanntgegebene Invaliditätsentschädigung, die auf ab Dezember 2017 eingeholten medizinischen Gutachten beruhte, „viel zu gering“ sei. Die nunmehr vom Kläger behaupteten, vor dem 1. 4. 2017 gelegenen Verstöße, wonach der Unfallversicherer keine Akontozahlung geleistet, die Geschädigte über diese Möglichkeit nicht aufgeklärt, sich nicht schon früher darüber erklärt habe, in welcher Höhe er seine Leistung anerkenne und insgesamt nicht schon früher Zahlung erbracht habe, stehen mit der behaupteten unrichtigen Ausmittlung der Invaliditätsentschädigung, die Gegenstand der vom Kläger angestrebten Rechtsverfolgung sein soll, in keinem (adäquat) kausalen Zusammenhang. Die Beurteilung des Berufungsgerichts, dass der Kläger keinen im Versicherungszeitraum gelegenen, kausalen Verstoß geltend macht, ist daher nicht zu beanstanden.
+3.1. Der Kläger zeigt somit das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht auf. Die Revision ist daher nicht zulässig und folglich zurückzuweisen.
+3.2. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die fehlende Zulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00129.20A.0916.000

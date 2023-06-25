@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.10.2022
+Geschäftszahl
+1Ob175/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei A*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG in Wien, gegen die beklagte Partei T* Limited, * Malta, *, vertreten durch die Brandl Talos Rechtsanwälte GmbH in Wien, wegen 159.501,04 EUR sA, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 103.072,68 EUR) gegen das Teilurteil des Oberlandesgerichts Graz als Berufungsgericht vom 27. Juli 2022, GZ 4 R 33/22p-28, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger nahm im Zeitraum April 2007 bis Februar 2020 an von der Beklagten – einem maltesischen Unternehmen ohne Konzession nach dem österreichischen GSpG – über deren Website veranstalteten Online-Glücksspielen teil.
+[2] 		Das Berufungsgericht gab dem (unter anderem) auf Bereicherungsrecht gestützten Klagebegehren auf Rückforderung der erlittenen Spielverluste mit einem Teilbetrag von 103.072,68 EUR sA statt. Das Erstgericht hatte zur Höhe der Spielverluste eine Negativfeststellung getroffen, das Berufungsgericht nahm demgegenüber an, dass die Beklagte jedenfalls diesen Betrag zugestanden habe.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revision der Beklagten ist mangels einer erheblichen Rechtsfrage im Sinn des § 502 Abs 1 ZPO nicht zulässig.
+[4] 		1. Der Oberste Gerichtshof kann im Rahmen einer Mängelrüge des Berufungsverfahrens die Anwendung des § 267 ZPO insbesondere dann überprüfen, wenn erstmals das Berufungsgericht ein schlüssiges Tatsachengeständnis annahm (RS0040078 [T7]).
+[5] 		1.1. Nach Auffassung des Berufungsgerichts hat die Beklagte in erster Instanz zugestanden, dass sich die Spielverluste des Klägers auf insgesamt (zumindest) 103.072,68 EUR belaufen. Seine Beurteilung, die erstinstanzlichen Negativfeststellungen zur Höhe der Spielverluste des Klägers seien vor diesem Hintergrund unbeachtlich, steht im Einklang mit der Rechtsprechung. Demnach schließt der Umstand, dass das Gericht von der Richtigkeit der Tatsachenbehauptungen einer Partei nicht überzeugt ist, nicht aus, dass die Gegenpartei die Richtigkeit dieser Behauptung zugesteht. In diesem Fall hat das Geständnis aufgrund der Dispositionsmaxime Vorrang (17 Ob 19/11k ua).
+[6] 		1.2. Damit setzt sich die Beklagte allerdings nicht weiter auseinander, weil sie unter dem Revisionsgrund der Mangelhaftigkeit des Berufungsverfahrens von der unrichtigen Prämisse ausgeht, das Berufungsgericht sei ohne Beweiswiederholung von den erstinstanzlichen Feststellungen abgegangen. Gründe, dass die Annahme eines schlüssigen Geständnisses nicht zuträfe, zeigt die Revision nicht auf.
+[7] 		2. Zur behaupteten Unionsrechtswidrigkeit des Konzessionsvorbehalts des österreichischen Glücksspielgesetzes und der daran anknüpfenden Sanktionstatbestände wurde zu 6 Ob 229/21a bereits ausgeführt, dass der Anwendungsvorrang des Unionsrechts zwar zu einem Wegfall des in § 14 Abs 2 Satz 1, § 21 Abs 2 Satz 1 GSpG (idF vor BGBl I 2010/111) normierten „Sitzerfordernisses“ geführt hat, die übrigen Voraussetzungen für den Erhalt einer Konzession und das Konzessions- bzw Monopolsystem an sich aber unberührt blieben. In diesem Zusammenhang wurde auch klargestellt, dass die Vertragsnichtigkeit gemäß § 879 Abs 1 ABGB keine (verwaltungs-)strafrechtliche Sanktion wegen der Nichterfüllung von Verwaltungsformalitäten ist, sodass die von der Beklagten ins Treffen geführte Rechtsprechung des EuGH zum Sanktionsverbot der Beurteilung der zwischen den Parteien zustande gekommenen Verträge als nichtig gemäß § 879 Abs 1 ABGB nicht entgegensteht. Dieser Ansicht haben sich mittlerweile etliche Senate des Obersten Gerichtshofs angeschlossen (vgl etwa 4 Ob 70/22f und 1 Ob 3/22y je mwN).
+[8] 		3. Dem Einwand der Beklagten, sie habe sich nicht nach § 168 StGB strafbar gemacht, hat der Oberste Gerichtshof ebenfalls bereits mehrfach erwidert, dass die zivilrechtliche Unerlaubtheit des Spiels nicht zwingend die Strafbarkeit des Spiels nach § 168 StGB voraussetzt (RS0102178 [T10, T11]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00175.22Z.1012.000

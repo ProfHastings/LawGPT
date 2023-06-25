@@ -1,0 +1,32 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.2022
+Geschäftszahl
+7Ob76/22k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und die Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Mag. Pertmayr und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei C* S*, vertreten durch Dr. Serpil Dogan, Rechtsanwältin in Feldkirch, gegen die beklagte Partei G* AG, *, vertreten durch die MUSEY rechtsanwalt gmbh in Salzburg, wegen (ausgedehnt) 177.100 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht vom 15. März 2022, GZ 4 R 34/22i-43, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zwischen den Streitteilen bestand ein Bündelversicherungsvertrag mit einer privaten Unfallversicherung, der (unter anderem) die Allgemeinen Bedingungen der Beklagten für die Unfallversicherung (AUVB 2013) zugrunde lagen. Diese lauten auszugsweise wie folgt:
+„Artikel 2
+Versicherungsfall
+Versicherungsfall ist der Eintritt eines Unfalles (Art. 6).
+[…]
+Artikel 6
+Begriff des Unfalles
+1 Unfall ist ein vom Willen der versicherten Person unabhängiges Ereignis, das plötzlich von Außen mechanisch oder chemisch auf ihren Körper einwirkt und eine körperliche Schädigung oder den Tod nach sich zieht.
+[…]“
+Rechtliche Beurteilung
+[2] 		1.1. Nach ständiger Rechtsprechung kann ein Mangel des erstinstanzlichen Verfahrens, der im Rechtsmittel geltend gemacht, vom Gericht zweiter Instanz aber verneint wurde, im Revisionsverfahren nicht mehr gerügt werden (RS0042963 [T45]; RS0106371 [T6]). Ein Mangel des Berufungsverfahrens läge nur dann vor, wenn das Berufungsgericht sich mit der Mängelrüge des Berufungswerbers überhaupt nicht oder nicht auf aktenmäßiger Grundlage befasst hätte (RS0042963 [T9, T12, T28]; RS0043144; RS0043086). Dies ist hier nicht der Fall, weil das Berufungsgericht den vom Kläger in der Berufung relevierten Begründungsmangel mit dem zutreffenden Argument verneint hat, dass eine behauptete unrichtige Würdigung der Aussage des Klägers keinesfalls einen wesentlichen Verfahrensmangel gemäß § 496 Abs 1 Z 2 ZPO darstellen kann.
+[3] 		1.2. Eine mangelhafte und unzureichende Beweiswürdigung kann im Revisionsverfahren nicht angefochten werden. Nur wenn sich das Berufungsgericht mit der Beweisfrage überhaupt nicht oder nur so mangelhaft befasst, dass keine nachvollziehbaren Überlegungen über die Beweiswürdigung angestellt und im Urteil festgehalten sind, ist sein Verfahren mangelhaft (RS0043371; RS0043141; RS0043027 [T3]). Die Entscheidung des Berufungsgerichts über eine Beweisrüge ist mangelfrei, wenn es sich – wie hier [vgl ON 43, S 6 ff] – mit dieser befasst, die Beweiswürdigung des Erstgerichts überprüft und nachvollziehbare Überlegungen über die Beweiswürdigung anstellt sowie in seinem Urteil festhält (RS0043150).
+[4] 		1.3. Die behaupteten Mängel des Berufungsverfahrens liegen daher nicht vor.
+[5] 		2.1. Ein Unfall ist ein vom Willen der versicherten Person unabhängiges Ereignis, das plötzlich von Außen mechanisch oder chemisch auf ihren Körper einwirkt und eine körperliche Schädigung oder den Tod nach sich zieht (Art 6.1 AUVB 2013). Dass eigenes Verhalten zum Unfall beitragen, ihn sogar herbeiführen kann, ist in der Unfallversicherung nicht zweifelhaft. Dabei wird zwar ein gewolltes und gesteuertes Verhalten des Versicherungsnehmers nicht als Unfallereignis angesehen werden können. Ein Unfall liegt dagegen aber bei einem Vorgang vor, der vom Versicherten bewusst und gewollt begonnen und beherrscht wurde, sich dieser Beherrschung aber durch einen unerwarteten Ablauf entzogen und nunmehr schädigend auf den Versicherten eingewirkt hat, wie etwa das Stolpern bei einem Sprint beim Tennis (vgl RS0082008).
+[6] 		2.2. Ein solcher Fall liegt hier aber nicht vor, weil die körperliche Schädigung des Klägers (Deckenplattenbruch an der Lendenwirbelsäule) bereits eintrat, als er den Kasten anhob und nicht erst, nachdem seine Frau den Kasten nach vorne gezogen hatte. Die körperliche Schädigung ist daher nicht durch einen der Beherrschung des Klägers entzogenen und von Außen einwirkenden Vorgang eingetreten. Vielmehr hat der Kläger bewusst und gewollt einen Kasten hochgehoben und sich dabei verletzt. Da das Heben des Kastens somit eine vom Kläger völlig beherrschte und gewollte Situation darstellt, haben die Vorinstanzen im Einklang mit bereits vorliegender Rechtsprechung das Vorliegen eines Unfalls verneint (vgl etwa 7 Ob 1019/92 [Achillessehnenriss während der normalen Laufbewegung]; 7 Ob 118/00d [Achillessehnenriss eines Tennisspielers bei der Aufschlagbewegung]; 7 Ob 5/01p [Achillessehnenriss eines Fußballspielers beim Hallenfußball im Zuge einer schnellen, gewollten Drehbewegung mit anschließendem Sprint]).
+[7] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00076.22K.0629.000

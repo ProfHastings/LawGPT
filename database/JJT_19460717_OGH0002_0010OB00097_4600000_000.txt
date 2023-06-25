@@ -1,0 +1,42 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.07.1946
+Geschäftszahl
+1Ob97/46
+Norm
+ABGB §276;
+AO §38;
+EO §47;
+KO §100;
+ZPO §57;
+ZPO §58;
+ZPO §59;
+ZPO §60;
+ZPO §61;
+ZPO §62;
+ZPO §63;
+Kopf
+SZ 21/4
+Spruch
+Der Abwesenheitskurator ist nicht zur Ablegung des Eides nach § 60 ZPO. berechtigt.
+Entscheidung vom 17. Juli 1946, 1 Ob 97/46.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Das Erstgericht hat den Antrag des für die Kläger einschreitenden Abwesenheitskurators (§ 276 ABGB.) auf Anordnung einer Tagsatzung zur eidlichen Bekräftigung der Unfähigkeit der Kläger zum Erlag der aufgetragenen aktorischen Kaution mit der Begründung abgewiesen, daß der Abwesenheitskurator nicht berechtigt sei, an Stelle der von ihm vertretenen Prozeßpartei den Eid nach § 60 ZPO. zu leisten.
+Das Rekursgericht gab dem gegen diesen Beschluß erhobenen Rekurs Folge und trug dem Erstgericht die Fortsetzung des Verfahrens auf.
+Rechtliche Beurteilung
+Aus der Begründung des Rekursgerichtes:
+Der Abwesenheitskurator (Pfleger) nach § 276 ABGB. ist echter gesetzlicher Vertreter. Der Kurator hat die Angelegenheiten des Abwesenden wie jene eines Minderjährigen zu besorgen (Bartsch in Klang's Kommentar § 276 ABGB., S. 1118).
+Die Stellung eines solchen Pflegers sieht Anders, Familienrecht, S. 300 ff. darin, daß dem Curator absentis nicht bloß die Erhaltung (custodia) des zurückgelassenen Vermögens obliegt, sondern auch die Administration des Vermögens. Er ist daher befähigt, rechtswirksame Erklärungen für den Abwesenden abzugeben. Anlangend die hinsichtlich der Zulässigkeit der Berufung des Abwesenheitskurators zur Eidesleistung an Stelle des Abwesenden bei Anders (ebendort S. 301) angeführend Entscheidungen, ist zu sagen, daß die Zulässigkeit zwar bestritten ist, die Mehrzahl der durchwegs alten Entscheidungen, inbesondere Judikatenbuch 33 (Entscheidung vom 4. September 1838 in Sammlung der Judikate, 1. Band (Manz), 1887) und Judikatenbuch 109 (GlU. 8351) bejahen jedoch die Zulässigkeit; Entscheidungen neueren Datums fehlen überhaupt.
+Nach der Fragebeantwortung des JM. zu § 60 ZPO. hat der Kläger, welcher die ihm auferlegte Sicherheitsleistung für die Prozeßkosten zu bewirken außerstande ist, nicht genaue Angaben über seine Vermögensverhältnisse zu machen und einen Offenbarungseid abzulegen, sondern zu schwören, daß er unfähig sei, die vom Gerichte bestimmte Summe zu erlegen. Es handelt sich daher nicht um einen Eid wie nach § 47, Abs. 2 EO., wonach der den Eid Leistende zu beschwören hat, "daß seine Angaben richtig und vollständig seien und daß er von seinem Vermögen wissentlich nichts verschwiegen habe". Eine solche Erklärung ist zwar ebenso wie die nach § 60 ZPO. keine Willenserklärung, sondern eine Wissenserklärung, es kann jedoch der erstgenannte Eid dem Abwesenheitskurator schon deshalb zugemutet werden, weil er diese Wissenserklärung sowohl objektiv wie subjektiv nicht abzugeben in der Lage ist, da ihm die Kenntnis der Vollständigkeit des Vermögens in den allermeisten Fällen mangeln wird. Anders liegt die Sache im vorliegenden Fall nach § 60 ZPO., wo schon nach der Aktenlage, u. zw. zufolge des Inhalts des Beschlusses 2 R 29/46-13, mit welchem die Sicherheitsleistung rechtskräftig aufgetragen wurde, bekannt ist, daß die Kläger ein anderes Vermögen als das klagsgegenständliche im Streit verfangene Haus im Inlande nicht besitzen und aus ihrem Wohnsitze in Amerika Geldsendungen nach dem Auslande, somit nach Österreich, derzeit nicht vornehmen dürfen.
+Daß der Abwesenheitskurator über diese Vermögensverhältnisse Kenntnis besitze, ist deshalb glaubhaft, weil nach der Aktenlage feststeht, daß ihn die Kläger vor ihrer Ausreise im März 1938 aus Österreich mit der Vermögensverwaltung (siehe oben Anders: Administration) betraut haben.
+Unter diesen tatsächlichen und rechtlichen Voraussetzungen erscheint dem Rekursgericht die Eidesleistung durch den Abwesenheitskurator gerade im Falle des § 60 ZPO, welche Eidesleistung gegenüber der nach § 47, Abs. 2 EO., § 100 KO., § 38, Abs. 2 AO. weitaus eingeschränkt ist, zulässig, mag auch in der Regel der Kurand, wenn seine Rückkehr in absehbarer Zeit (welcher Fall vorliegend nicht anzunehmen war) zu erwarten sein wird, den Eid persönlich abzulegen haben.
+Der Oberste Gerichtshof stellte den erstrichterlichen Beschluß wieder her.
+Aus der Begründung des Obersten Gerichtshofes:
+Das Rekursgericht hat in Abänderung des erstinstanzlichen Beschlusses den Abwesenheitskurator der beiden Kläger zur Ablegung des Eides nach § 60 ZPO. zugelassen.
+Der dagegen gerichtete Revisionsrekurs des Beklagten ist begrundet.
+Bei der Entscheidung ist zu beachten, daß den Bestimmungen der §§ 57 bis 62 ZPO. über die Sicherheitsleistung für die Prozeßkosten die Absicht zugrunde liegt, den Inländer vor einer Schädigung durch den Prozeßkostenaufwand zu schützen, der ihm bei der Schwierigkeit einer Exekutionsführung im Auslande durch Klagen von Ausländern auch im Falle seines Obsiegens erwachsen könnte. Diese Absicht wird auch aus der Aufzählung der Gründe, die eine Befreiung von der Sicherheitsleistung mit sich bringen (§ 57, Abs. 2 ZPO) deutlich erkennbar. Daß die Befreiung überdies dann Platz greift, wenn dem ausländischen Kläger das Armenrecht bewilligt wurde, rechtfertigt sich durch die Gegenseitigkeit, von der die Gewährung des Armenrechtes bei Ausländern abhängig ist.
+Wenn nun § 60 ZPO. den Kläger zur eidlichen Bekräftigung seiner Unfähigkeit zum Erlag des als Sicherheit bestimmten Betrages zuläßt, und § 61 ZPO. der Eidesleistung die gleiche Wirkung zuschreibt wie dem Erlag der Sicherheit, so entsteht die Frage, welcher Art die "Unfähigkeit" sein muß. Sie ist nicht identisch mit der Armut im Sinne des § 63 ZPO., was schon daraus hervorgeht, daß sie sich nicht auf die Kosten einer Prozeßführung überhaupt, sondern auf eine vom Prozeßgericht bereits ziffernmäßig bestimmte Geldsumme bezieht, die im Verhältnis zu den im § 63 ZPO. berücksichtigten Auslagen größer oder kleiner sein kann. Gewiß ist aber nach dem Schutzgedanken, der dem Rechtsinstitut der Sicherheitsleistung für Prozeßkosten zugrunde liegt, daß die Unfähigkeit zum Erlag der Sicherheit in den unzureichenden Vermögensverhältnissen des Klägers ihren Grund haben muß und daß eine durch tatsächliche Verhältnisse oder durch gesetzliche Maßnahmen herbeigeführte vorübergehende Unmöglichkeit, über vorhandene und ausreichende Vermögenswerte zu verfügen, nicht unter den Begriff der Unfähigkeit im Sinne des § 60 ZPO. fällt. Der Schutzgedanke des Gesetzes gegenüber dem Inländer würde bei einer anderen Auslegung geradezu vereitelt.
+Damit löst sich dann auch die Frage, ob der Abwesenheitskurator zur Ablegung des im § 60 ZPO. zugelassenen Eides berechtigt ist. Solange ihm nämlich der Aufenthaltsort der abwesenden Partei unbekannt ist, kann er über ihre derzeitigen Vermögensverhältnisse nicht unterrichtet sein und es wäre schon aus diesem Gründe abwegig, ihn zur Ablegung des Eides zuzulassen. Hat er aber den Aufenthaltsort der Partei ermittelt, dann liegt wieder kein Anlaß vor, an Stelle der Partei selbst den Kurator zur Eidesleistung zuzulassen, weil seine Kenntnis sich ja nur auf deren Mitteilungen stützen könnte. In keinem Fall kann daher die Eidesleistung durch den Abwesenheitskurator den vom Gesetz verfolgten Zweck erfüllen.

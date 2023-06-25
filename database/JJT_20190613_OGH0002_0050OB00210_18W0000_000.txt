@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.06.2019
+Geschäftszahl
+5Ob210/18w
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der wohnrechtlichen Außerstreitsache der Antragsteller 1. J*****, 2. C***** und 3. Mag.a M*****, alle vertreten durch Dr. David M. Suntinger, Rechtsanwalt in St. Veit an der Glan, gegen die Antragsgegner 1. Ing.in Mag.a M*****, vertreten durch Dr. Günter Medweschek Rechtsanwaltsges.m.b.H. in Klagenfurt am Wörthersee, 2. Ing. G***** und 3. M*****, beide vertreten durch Mag. Martin Winter, Rechtsanwalt in Klagenfurt am Wörthersee, wegen §§ 6, 25 Abs 1 Z 4 HeizKG, über die außerordentlichen Revisionsrekurse der Antragsgegner gegen den Sachbeschluss des Landesgerichts Klagenfurt als Rekursgericht vom 10. August 2018, GZ 1 R 164/18i-52, mit dem der Sachbeschluss des Bezirksgerichts St. Veit an der Glan vom 23. November 2017, GZ 5 Msch 5/16z-37, in der Hauptsache bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revisionsrekurse werden mangels der Voraussetzungen des § 37 Abs 3 Z 16 MRG iVm § 25 Abs 2 HeizKG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Die Erstantragsgegnerin ist Alleineigentümerin einer Liegenschaft samt darauf errichtetem Gebäude mit mehr als vier Nutzungsobjekten. Die Energieversorgung des Gebäudes erfolgt über die zentrale Fernwärmestation im Keller. Gegenstand dieses wohnrechtlichen Außerstreitverfahrens ist die Ausstattung des Gebäudes mit Vorrichtungen zur Erfassung (Messung) der Verbrauchsanteile nach § 6 iVm § 25 Abs 1 Z 4 HeizKG.
+2. Die Mindestanzahl von vier Nutzungsobjekten (§ 1 HeizKG) wird nach den Feststellungen der Vorinstanzen überschritten. Das Ausmaß der (beheizbaren) Nutzfläche eines Nutzungsobjekts und dessen Relation zur gesamten (beheizbaren) Nutzfläche des Gebäudes ist weder für die Mindestanzahl noch für die Zulässigkeit eines Antrags nach § 6 HeizKG relevant. § 11 Abs 3 HeizKG, aus dem die Zweit- und Drittantragsgegner ihre Rechtsansicht zur Unzulässigkeit des vorliegenden Antrags ableiten wollen, betrifft die Ermittlung der Verbrauchsanteile durch Hochrechnung, wenn die Verbrauchsanteile auf der Grundlage des Ergebnisses der Erfassung (Messung) durch geeignete Vorrichtungen nicht erfasst werden (können). Die beheizbare Nutzfläche, für die auf diese Weise die Verbrauchsanteile ermittelt werden, darf 25 % nicht übersteigen (§ 11 Abs 3 letzter Satz HeizKG).
+3. In diesem wohnrechtlichen Außerstreitverfahren nach § 25 Abs 1 Z 4 HeizKG sind zufolge § 25 Abs 3 Satz 1 und § 25 Abs 2 Satz 2 HeizKG iVm § 37 Abs 3 Z 2 MRG sämtliche Wärmeabnehmer Parteien. Wärmeabnehmer ist nach der Legaldefinition des § 2 Z 4 lit b HeizKG auch der Nutzer, der sein Benutzungsrecht am Nutzungsobjekt unmittelbar vom Eigentümer oder Fruchtnießer des Gebäudes ableitet.
+4. Die Antragsteller begehren als gemeinsam im Grundbuch eingetragene Fruchtgenussberechtigte einer Wohnung die Ausstattung des Gebäudes mit Vorrichtungen zur Erfassung (Messung) der Verbrauchsanteile. Warum sie als Wohnungsfruchtnießer ihre Benutzungsrechte nicht von der Alleineigentümerin ableiten und nicht antragslegitimiert sein sollten, zeigen die Revisionsrekurswerber nicht auf. Ihr einziges Argument ist, dass zugunsten von drei natürlichen Personen Fruchtgenussrechte an denselben Räumlichkeiten nicht begründet werden können. Diese Auffassung ist durch die zitierte Rechtsprechung nicht gedeckt, die nur die Einverleibung eines weiteren Benützungsrechts, das möglicherweise im Sinn einer räumlichen Gebrauchsüberschneidung mit einem bereits bestehenden Benützungsrecht kollidiert, ausschließt (5 Ob 82/08g; RS0116401).
+5. Die Zweit- und Drittantragsgegner wurden dem Verfahren in erster Instanz nicht beigezogen. Die Verletzung ihres rechtlichen Gehörs in erster Instanz wirkt in diesem Außerstreitverfahren nicht absolut (RS0120213). Sie ist nur dann wahrzunehmen, wenn sie Einfluss auf die Richtigkeit der Entscheidung hat (RS0120213 [T13]). Dafür muss die Relevanz des Verstoßes entsprechend konkret aufgezeigt werden (RS0120213 [T15]). Dieser Anforderung entsprechen die Rechtsmittel der Zweit- und Drittantragsgegner nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0050OB00210.18W.0613.000

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2016
+Geschäftszahl
+4Ob111/16a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der Klägerin F***** Partei Österreichs *****, vertreten durch Gheneff – Rami – Sommer Rechtsanwälte OG in Wien, gegen den Beklagten DDr. D***** S*****, vertreten durch Dr. Peter Rosenthal, Rechtsanwalt in Salzburg, wegen Unterlassung (Streitwert 35.000 EUR), über den außerordentlichen Revisionsrekurs des Beklagten gegen den Beschluss des Oberlandesgerichts Linz als Rekursgericht vom 7. April 2016, GZ 3 R 46/16d-12, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Das Rekursgericht verbot dem Beklagten, der für die klagende Landespartei in den Salzburger Landtag und von diesem in den Bundesrat gewählt, jedoch in der Folge aus der Partei ausgeschlossen wurde, mittels einstweiliger Verfügung, die Bezeichnung „FPÖ“ und/oder ähnliche Bezeichnungen als Bestandteil einer Internet-Domain und/oder einer E-Mail-Adresse zu benutzen.
+In seinem außerordentlichen Revisionsrekurs argumentiert der Beklagte, er verwende nicht „FPÖ“, sondern „FPOE“, sein Parteiausschluss sei willkürlich erfolgt und er stehe weiterhin für freiheitliche Werte, sodass durch den Namensgebrauch keine Zuordnungsverwirrung entstehe. Im Übrigen werde durch das Verbot im Provisorialverfahren eine nicht rückführbare Situation geschaffen. Außerdem leite er die Berechtigung zur Namensführung auch vom Salzburger Landtagsclub der FPÖ und der Bundesratsfraktion ab und schließlich fehle es an der Aktivlegitimation der Klägerin, die nicht Bundespartei, sondern nur Landespartei sei.
+Rechtliche Beurteilung
+Damit zeigt der Beklagte keine erheblichen Rechtsfragen iSv § 528 Abs 1 ZPO auf:
+1. Sowohl „FPÖ“ als auch „FPOE“ wird als Hinweis auf die Klägerin verstanden (vgl 3 Ob 243/15d – echt.freiheitlich?), und es entspricht der international üblichen Schreibweise, insbesondere bei Domains, den im Englischen nicht gebräuchlichen Umlaut „ö“ durch „oe“ zu ersetzen (4 Ob 166/00s – fpo.at).
+2. Abgesehen davon, dass dem Begriff „Freiheitliche(r)“ kein Freihaltebedürfnis zukommt (7 Ob 254/06p), wurde dem Beklagten ohnedies nicht diese Bezeichnung, sondern die Verwendung des unbestrittenermaßen für die Klägerin stehenden Kürzels „FPÖ“ (zu dessen Schutz vgl RIS-Justiz RS0078752) verboten. Dass der Frage nach der Rechtmäßigkeit des Parteiausschlusses für die Beurteilung des Namensrechts der Klägerin keine Relevanz zukommt, wurde bereits zu 4 Ob 187/15a und zu 4 Ob 189/15w ausgesprochen.
+3. Das Rekursgericht beruft sich zutreffend auf die Entscheidung 4 Ob 110/11x – Rufumleitung, wonach das Verbot, eine bestimmte Telefonnummer aktiv und passiv zu nutzen, nicht der endgültigen Aufgabe dieser Nummer gleichkommt und nicht mit der Gefahr des dauernden Verlusts dieser Telefonnummer verbunden ist. Ein derartiges Verbot ist der Aufgabe einer Firma (RIS-Justiz RS0004997; 4 Ob 219/15g – Salzburger Landtagsklub) oder Domain (RIS-Justiz RS0112483) nicht gleichzuhalten und bewirkt daher nicht die (im Provisorialverfahren unzulässige; RIS-Justiz RS0009418 [T5]; RS0005696) Schaffung einer nicht mehr rückführbaren Sachlage. Wieso sich dies bei der bloßen Nutzung eines Domainnamens als E-Mail-Adresse anders verhalten sollte, legt der Revisionsrekurs nicht dar, ist es doch technisch ohne Weiteres möglich, einen E-Mail-Account auf „inaktiv“ zu setzen. Ähnliches gilt für die beanstandete Nutzung des Kürzels als Bestandteil der Internet-Domain. Die Klägerin begehrt mit ihrem Sicherungsantrag nicht die Löschung des Domain-Namens, sondern bloß die Unterlassung der Benutzung ihrer Bezeichnung als Bestandteil einer Internet-Domain. Das Rekursgericht ist daher vertretbar davon ausgegangen, dass mit der Sicherungsverfügung keine unumkehrbare Situation geschaffen wird.
+4. Vertretbar ist auch die Beurteilung des Rekursgerichts, dass dem Beklagten die Verwendung des Namens „FPÖ“ nur für die Dauer seiner Mitgliedschaft bei der Klägerin gestattet wurde. Der Beklagte gehört derzeit weder dem Landtagsclub noch der Bundesratsfraktion der FPÖ an, sodass er auch die von diesen allenfalls ableitbare Gestattung der Namensnutzung der Klägerin gegenüber nicht mehr einwenden kann, ist doch der offenkundige Zweck der Gestattung die außenwirksame Anzeige seiner politischen und institutionellen Zugehörigkeit zu diesen Gremien.
+5. Den Einwand der mangelnden Aktivlegitimation der Klägerin hat der Beklagte in erster Instanz nicht erhoben, weshalb er damit nunmehr gegen das Neuerungsverbot verstößt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0040OB00111.16A.0524.000

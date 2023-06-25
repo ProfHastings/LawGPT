@@ -1,0 +1,45 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.04.2022
+Geschäftszahl
+7Ob47/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei Prof. R* S*, vertreten durch Dr. Peter Jesch, Rechtsanwalt in Salzburg, gegen die beklagte Partei A* AG, *, vertreten durch Dr. Nikolaus Friedl, Rechtsanwalt in Wien, wegen 48.110 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. Jänner 2022, GZ 1 R 141/21v-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger hat mit der Beklagten einen Haushaltsversicherungsvertrag abgeschlossen, der auch das Risiko eines Einbruchsdiebstahls deckt. Ihm liegen die Allgemeinen Bedingungen für die Haushaltsversicherung (ABH 2013 idF 06/2017) und die Allgemeinen Bedingungen für die Sachversicherung (ABS 2013) zugrunde, die auszugsweise lauten:
+Allgemeine Bedingungen für die Haushaltsversicherung:
+„Artikel 2
+Versicherte Gefahren und Schäden
+1. Versicherte Gefahren:
+[...]
+1.4 Einbruchsdiebstahl (versucht oder vollbracht) [...]
+1.4.1 Versuchter oder vollbrachter Einbruchsdiebstahl
+1.4.1.1 Einbruchsdiebstahl liegt vor, wenn ein Täter in die Versicherungsräumlichkeiten
+– durch Eindrücken oder Aufbrechen von Türen, Fenstern oder anderen Gebäudeteilen einbricht.
+[...]
+Artikel 5
+Obliegenheiten des Versicherungsnehmers vor dem Schadenfall
+[...]
+2. Wenn die Versicherungsräumlichkeiten für noch so kurze Zeit von allen Personen verlassen worden sind,
+2.1 Eingangs- und Terrassentüren, Fenster und alle sonstigen Öffnungen sind stets ordnungsgemäß verschlossen zu halten. Dazu sind vorhandene Schlösser vollständig zu versperren.
+[...]
+8. Die vorstehenden Obliegenheiten gelten als vereinbarte Sicherheitsvorschriften gemäß Artikel 3 ABS. Ihre Verletzung führt nach Maßgabe der gesetzlichen Bestimmungen zur Leistungsfreiheit des Versicherers.“
+Allgemeine Bedingungen für die Sachversicherung:
+„Artikel 3
+Welche Rechtsfolgen treten bei der Verletzung von Sicherheitsvorschriften ein?
+[...]
+2. Der Versicherer ist von der Verpflichtung zur Leistung frei, wenn der Schadenfall nach der Verletzung eintritt und die Verletzung auf Vorsatz oder grober Fahrlässigkeit des Versicherungsnehmers beruht. Die Verpflichtung zur Leistung bleibt bestehen, wenn die Verletzung keinen Einfluss auf den Eintritt des Schadenfalls oder soweit sie keinen Einfluss auf den Umfang der Entschädigung gehabt hat [...].“
+Rechtliche Beurteilung
+[2] 		1. Gemäß § 6 Abs 2 VersVG kann sich der Versicherer bei der Verletzung einer Obliegenheit, die der Versicherungsnehmer zum Zweck der Verminderung der Gefahr oder der Verhütung einer Erhöhung der Gefahr, dem Versicherer gegenüber – unabhängig von der Anwendbarkeit des Abs 1a – zu erfüllen hat, auf die vereinbarte Leistungsfreiheit nicht berufen, wenn die Verletzung keinen Einfluss auf den Eintritt des Versicherungsfalls oder soweit sie keinen Einfluss auf den Umfang der dem Versicherer obliegenden Leistung gehabt hat (vorbeugende Obliegenheit). § 6 Abs 2 VersVG eröffnet dem Versicherungsnehmer einen Kausalitätsgegenbeweis. Dafür bedarf es des Beweises, dass der Versicherungsfall auch ohne die Verletzung der Obliegenheit mit Sicherheit eingetreten wäre, dass also der Eintritt und der Umfang des Versicherungsfalls nicht auf der erhöhten Gefahrenlage beruhen, die typischerweise durch die Obliegenheitsverletzung entsteht (7 Ob 240/18x). An den Gegenbeweis sind strenge Anforderungen zu stellen (RS0081343 [T3]); es ist nicht etwa nur die Unwahrscheinlichkeit des ursächlichen Zusammenhangs darzutun (RS0079993). Ob der Kausalitätsgegenbeweis gelungen ist, hängt von den Umständen des Einzelfalls ab (RS0079993 [T6]).
+[3] 		2. Der Kläger verließ das Haus für eine Woche und beließ das Fenster zur ebenerdigen Werkstatt in gekippter Stellung. Unbekannte Täter drückten das gekippte Fenster auf, öffneten die Verriegelung, vermutlich mit einem Draht, und gelangten so in die Werkstatt. In weiterer Folge zwängten der oder die Täter die verschlossene Metalltüre, zwischen Werkstatt und Aufgang zum Wohnhaus, mit einem mitgebrachten Brecheisen auf.
+[4] 		3. Der Fachsenat hat den Kausalitätsgegenbeweis bereits als misslungen angesehen, wenn durch die Obliegenheitsverletzung die Gefahr eines Einbruchsdiebstahls deshalb gesteigert wird, weil einem Einbrecher, etwa durch ein Fenster in Kippstellung, weniger Widerstand geboten wird als durch ein geschlossenes Fenster (7 Ob 239/12s; vgl auch 7 Ob 94/06h und 7 Ob 240/18x). Entgegen der Ansicht des Klägers ist ihm dadurch, dass der/die Einbrecher erst die zwischen Werkstatt und Wohnbereich befindliche Metalltür mit einem Brecheisen aufzwängen musste(n), nicht der Nachweis gelungen, dass der Eintritt des Versicherungsfalls nicht auf der erhöhten Gefahrenlage (gekipptes Fenster) beruhte, die typischerweise durch die Obliegenheitsverletzung entsteht. Erleichtert doch – wie ausgeführt – das Fenster in Kippstellung das Eindringen in die Werkstatt. Einmal dort, konnten sich der (die) Täter ungestört und mit weit geringerem Risiko vor Entdeckung an der Innentür zu schaffen machen.
+[5] 		4. Die Vorinstanzen haben die Leistungspflicht der Beklagten zufolge der Verletzung einer Obliegenheit nach § 6 Abs 2 VersVG im Einklang mit der Rechtsprechung des Fachsenats verneint.
+[6] 		5. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00047.22W.0428.000

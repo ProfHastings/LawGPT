@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.03.2023
+Geschäftszahl
+1Ob32/23x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei U* G*, vertreten durch Dr. Stefan Nenning und Mag. Jörg Tockner, Rechtsanwälte in Steyr, gegen die beklagten Parteien 1. DI R* P*, 2. A* D*, 3. D* T*, 4. C* E* und 5. H* E*, 6. B* GmbH, *, und 7. J* M*, alle vertreten durch Dr. Martin Peter Schloßgangl, Rechtsanwalt in Steyr, wegen 15.559,65 EUR sA und Unterlassung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 11. Jänner 2023, GZ 2 R 171/22p-91, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Frage, ob ein Sachverständigengutachten den Feststellungen zugrunde gelegt werden kann oder wegen seiner Unvollständigkeit oder Widersprüchlichkeit ein weiteres Gutachten eingeholt werden muss, ist eine solche der Beweiswürdigung und als Tatfrage nicht revisibel (RS0043163; RS0043320 [T21]; RS0113643 [T7]). Das gilt auch für die Frage, ob für die getroffenen Feststellungen zusätzlich ein bautechnisches Sachverständigengutachten erforderlich gewesen wäre, oder ob diese schon aufgrund der beiden eingeholten Sachverständigengutachten aus den Fachgebieten Hydrogeologie und Kanalbau getroffen werden konnten (RS0043320; RS0113643 [T4]). Die von der Revisionswerberin behauptete Mangelhaftigkeit des Berufungsverfahrens, die in der unterlassenen Einholung eines weiteren Sachverständigengutachtens und in der unzureichenden Fragestellung an die bestellten Sachverständigen liegen soll, was das Berufungsgericht mit eingehender Begründung für nicht erforderlich erachtete bzw verneinte, liegt daher nicht vor.
+[2] 		2. Zur Begründung eines Unterlassungsanspruchs nach § 364 Abs 2 ABGB hat die Klägerin ihr Eigentumsrecht und die Einwirkung zu beweisen, die Beklagten hingegen die Zulässigkeit einer Einwirkung (RS0010474 [T4]; RS0120702). Nach dem den Obersten Gerichtshof bindenden Sachverhalt steht gerade nicht fest, dass durch den unsanierten Kanal der Beklagten bis zu dessen Sanierung Wasser auf das Grundstück der Klägerin gelangt ist. Der Klägerin ist damit der Nachweis von Einwirkungen nicht gelungen, weshalb die Vorinstanzen ohne Fehlbeurteilung das auf § 364 Abs 2 ABGB gestützte Unterlassungsbegehren abwiesen.
+[3] 		3. Abgesehen davon, dass die Klägerin nicht aufzeigt, inwiefern hinsichtlich des Kanals die Voraussetzungen für die Anwendung des § 39 Abs 1 WRG vorliegen sollen, legt sie auch nicht nachvollziehbar dar, warum es selbst im Fall dessen Anwendung zu einer „Beweislastumkehr ... zu Gunsten des von der Wasserzuleitung Betroffenen“ kommen soll. Soweit sie in diesem Zusammenhang auf ihre Rechtsrüge in der Berufung verweist, ist dies unzulässig und daher unbeachtlich (RS0043579; RS0043616).
+[4] 		4. Den erstmals in der Revision getätigten Ausführungen zur Anwendung des § 1319 ABGB steht (schon) das Neuerungsverbot entgegen (§ 504 Abs 2 ZPO).
+[5] 		5. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00032.23X.0321.000

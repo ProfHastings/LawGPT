@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.02.1968
+Geschäftszahl
+2Ob48/68
+Norm
+JN §1;
+Landwirtschaftliches Zuschußrentenversicherungsgesetz §54 (4);
+Kopf
+SZ 41/24
+Spruch
+Ein Rückforderungsanspruch eines Sozialversicherungsträgers, der, schon zu Lebzeiten des Sozialversicherten durch Bescheid festgestellt wurde, gehört nicht auf den Rechtsweg.
+Entscheidung vom 23. Februar 1968, 2 Ob 48/68.
+I. Instanz: Bezirksgericht Steinach; II. Instanz; Landesgericht Innsbruck.
+Text
+Folgender Sachverhalt steht unbekämpft fest:
+Der am 25. Oktober 1965 verstorbene Vater der Beklagten, Anton K., war Bezieher einer Alterszuschußrente. Mit den rechtskräftigen Bescheiden vom 16. Dezember 1964 und 21. April 1965 war ein Überbezug von 7475.70 S festgestellt und dem Anton K. zum Rückersatz vorgeschrieben worden, weil er den Tod seiner Gattin der Klägerin nicht gemeldet hatte. Ein Teilbetrag von 456 S wurde bei Lebzeiten des Anton K. hereingebracht. Der verbleibende Rest von 7019.70 S wurde im Verlassenschaftsverfahren nach Anton K. von der Klägerin angemeldet. Der Nachlaß wurde der Beklagten als Alleinerbin auf Grund ihrer unbedingten Erbserklärung eingeantwortet.
+Das Begehren der Klägerin, die Beklagte zur Bezahlung der noch offenen Forderung an Überbezug zu verurteilen, wies das Erstgericht unter Hinweis auf die Rechtsprechung des Oberlandesgerichtes Wien in Schiedsgerichtssachen mit der Begründung ab, daß die Verpflichtung zum Rückersatz höchstpersönlichen Charakter habe und unvererblich sei. Auch die Bereicherungsgrundsätze seien nicht anwendbar, weil der Rückersatz hier durch ein Sondergesetz geregelt sei. Überdies stelle sich der Überbezug an Zuschußrente als Vorauszahlung einer Unterhaltsleistung dar und es sei auch deshalb die Pflicht zur Rückzahlung dieser Leistung unvererblich.
+Das Berufungsgericht gab jedoch der Klage statt. Die Verbindlichkeit des Vaters des Beklagten, den Überbezug zu ersetzen, gehöre zur Verlassenschaft, da es sich - entgegen der in einigen Entscheidungen des Oberlandesgerichtes Wien ausgedrückten Rechtsansicht - hier nicht um eine höchst persönliche Schuld handle, die durch den Tod erlösche. Unrichtig sei auch die Ansicht des Erstgerichtes, daß sich der Überbezug als Vorauszahlung einer Unterhaltsleistung darstelle.
+Der Oberste Gerichtshof gab der Revision der Beklagten dahin Folge, daß die Entscheidungen beider Unterinstanzen sowie das gesamte Verfahren als nichtig aufgehoben und die Klage zurückgewiesen wurde.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die Beklagte macht als Revisionswerberin geltend, es liege Nichtigkeit nach § 477 (1) Z. 6 ZPO. vor, weil die Untergerichte in einer nicht auf den Rechtsweg gehörenden Sache erkannt hätten. Der Rückforderungsanspruch sei öffentlich-rechtlicher Natur, so daß über ihn nicht durch ein ordentliches Gericht entscheiden werden könne. Daran ändere auch der Umstand nichts, daß die Forderung nunmehr gegen die Beklagte als Erbin des Sozialversicherten Anton K. geltend zu machen sei.
+Richtig ist zunächst, daß die Rückzahlung zu Unrecht empfangener Sozialversicherungsleistungen vom Sozialversicherten selbst nicht im Rechtswege gefordert werden kann (2 Ob 494/59 = Z. XXXII 143).
+Der Oberste Gerichtshof hat andererseits in der Entscheidung 8 Ob 115/62 = SZ. XXXVIII 109 dargelegt, daß die Geltendmachung öffentlich-rechtlicher Ansprüche gegen einen nach den Vorschriften des bürgerlichen Rechtes zu bestimmenden Rechtsnachfolger des Zahlungspflichtigen nur dann auf dem Verwaltungswege erfolgen könne, wenn dies in einer gesetzlichen Vorschrift ausdrücklich vorgesehen sei. Andernfalls bleibe für solche Ansprüche nur der ordentliche Rechtsweg offen.
+Im vorliegenden Fall handelt es sich aber richtig betrachtet, nicht um die Frage der Geltendmachung, sondern lediglich um die der Durchsetzung des schon zu Lebzeiten des Sozialversicherten festgestellten öffentlich-rechtlichen Rückersatzanspruches gegen die Beklagte. Da § 54 (4) LZVG. der Klägerin zur Eintreibung der Forderungen auf Grund der Rückforderungsbescheide die Einbringung im Verwaltungswege gewährt, kann die Klägerin nach § 3 (3) des Verwaltungsvollstreckungsgesetzes 1950 die Eintreibung dieser Gegenleistung gegen die Beklagte unmittelbar beim zuständigen Gericht beantragen. Die Klägerin verfügt ja durch die Einantwortung der Beklagten über den Nachweis im Sinne des § 9 EO. über die Gesamtrechtsnachfolge der Beklagten (ZBl. 1936 Nr. 166). Es müßte der Beklagten überlassen bleiben, allenfalls mit einer Klage nach § 36 (1) Z. 1 EO. die Frage zu klären, ob sich ihre Gesamtrechtsnachfolge auch auf die gegenständliche Forderung bezieht. Die gegenständliche Klage kann auch nicht in eine solche nach § 10 EO. umgedeutet werden, wie dies die Klägerin nunmehr in der Revisionsbeantwortung versucht, weil das Begehren einer derartigen Klage auf die Feststellung der Vollstreckbarkeit einer bestimmten Forderung gerichtet sein müßte (EvBl. 1948 Nr. 75, SZ. XXVII 70, EvBl. 1951 Nr. 475). Für die gegenständliche Leistungsklage mangelt es somit der Klägerin nicht nur an einem Rechtsschutzinteresse, da sie ohnedies über einen Exekutionstitel nach § 3 VVG. 1950 verfügt, sondern sie kann den Rechtsweg nicht zur Geltendmachung einer Forderung beschreiten, deren materielle Berechtigung bereits im Verwaltungswege geklärt wurde.

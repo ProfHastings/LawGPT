@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.08.2020
+Geschäftszahl
+4Ob130/20a
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher, Hon.-Prof. Dr. Brenn, Hon.-Prof. PD Dr. Rassi und MMag. Matzka als weitere Richter in der Rechtssache der Kläger 1. G***** H*****, 2. C***** H*****, vertreten durch Dr. Günter Niebauer, Rechtsanwalt in Wien, gegen die Beklagte V***** AG, *****, vertreten durch Pressl Endl Heinrich Bamberger Rechtsanwälte GmbH in Salzburg, wegen 19.316 EUR sA, über den Revisionsrekurs der Beklagten gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 14. Mai 2019, GZ 2 R 25/19i-16, mit dem der Beschluss des Landesgerichts Krems vom 17. Jänner 2019, GZ 6 Cg 75/18s-10, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+I. Das Revisionsrekursverfahren wird fortgesetzt.
+II. Dem Revisionsrekurs wird nicht Folge gegeben.
+Die Beklagte ist schuldig, den Klägern die mit 1.465,54 EUR (darin enthalten 244,26 EUR USt) bestimmten Kosten der Revisionsrekursbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Die Kläger mit Wohnsitz in Österreich erwarben von einem inländischen Autohändler im Juni 2014 einen Pkw VW Touran mit Dieselmotor, hergestellt von der Beklagten mit Sitz in Deutschland.
+Die Kläger begehren im Zusammenhang mit behaupteten „VW-Abgasmanipulationen“ von der Beklagten Schadenersatz im Wege der Naturalrestitution, nämlich die Rückzahlung des Kaufpreises abzüglich Benützungsentgelt Zug um Zug gegen Herausgabe des Fahrzeugs. Sie stützen ihren Anspruch auf Art 7 Nr 2 EuGVVO 2012.
+Die Beklagte bestritt die internationale Zuständigkeit des Erstgerichts, weil der maßgebliche Erstschaden an ihrem Sitz in Deutschland eingetreten sei.
+Das Erstgericht erklärte sich für international unzuständig und wies die Klage zurück. Es lägen keine Umstände vor, die im Sinne der Judikatur des EuGH den Klägergerichtsstand begründen könnten.
+Das Rekursgericht gab dem Rekurs der Kläger Folge, verwarf die Einrede der (internationalen und örtlichen) Unzuständigkeit und erklärte den ordentlichen Revisionsrekurs für zulässig. Der Erfolgsort iSd Art 7 Nr 2 EuGVVO 2012 für Schadenersatzansprüche des Käufers gegen die Kfz-Herstellerin mit Sitz in Deutschland wegen Manipulationen von Abgaswerten sei jener Ort, an dem der Käufer das Kfz vom Händler erworben und übergeben erhalten habe. Der in der Vermögensminderung (bezahlter Kaufpreis für ein Kfz mit manipulierter Software) liegende Schaden des Käufers sei nämlich kein Folge-, sondern ein zuständigkeitsbegründender Primärschaden. Der Gerichtsstand sei für die Herstellerin, die sich eines österreichischen Vertragshändlers bediene, auch ausreichend vorhersehbar und in Hinblick auf den Abschluss des Kaufvertrags und die Auslieferung des Kfz in Österreich auch sach- und beweisnah.
+In ihrem Revisionsrekurs macht die Beklagte zusammengefasst geltend, dass bei einer Gesamtbetrachtung aller Umstände der Erfolgsort in Deutschland zu lokalisieren sei.
+In ihrer Revisionsrekursbeantwortung beantragen die Kläger, dem Revisionsrekurs nicht Folge zu geben.
+Rechtliche Beurteilung
+Zu I.
+Mit Beschluss vom 22. 8. 2019, 4 Ob 117/19p, erklärte der Senat den Revisionsrekurs für zulässig und unterbrach das Revisionsrekursverfahren bis zur Vorabentscheidung des Gerichtshofs der Europäischen Union im Verfahren zu C-343/19. Nunmehr hat der EuGH mit Urteil vom 9. Juli 2020, C-343/19, VKI, die Vorabentscheidung getroffen. Das Revisionsrekursverfahren ist daher von Amts wegen fortzusetzen.
+Zu II.
+Der Revisionsrekurs ist nicht berechtigt.
+1. Mit Urteil vom 9. 7. 2020, C-343/19, VKI, hat der EuGH ausgesprochen, dass Art 7 Nr 2 EuGVVO 2012 dahin auszulegen ist, dass sich der Ort der Verwirklichung des Schadenerfolgs in einem Fall, in dem Fahrzeuge von ihrem Hersteller in einem Mitgliedstaat rechtswidrig mit einer Software ausgerüstet wurden, die die Daten über den Abgasausstoß manipuliert, und danach bei einem Dritten in einem anderen Mitgliedstaat erworben werden, in diesem letztgenannten Mitgliedstaat befindet. Dazu führte der EuGH aus, dass der geltend gemachte Schaden (nach der Aktenlage) in einer Wertminderung der gekauften Fahrzeuge bestehe, die sich aus der Differenz zwischen dem Kaufpreis des jeweiligen Fahrzeugs und dessen tatsächlichem Wert aufgrund des Einbaus einer Software, in der die Daten über den Abgasausstoß manipuliert werden, ergäbe. Der geltend gemachte Schaden habe sich daher erst zum Zeitpunkt des Erwerbs der fraglichen Fahrzeuge zu einem Preis verwirklicht, der über ihrem tatsächlichen Wert lag, auch wenn diese Fahrzeuge bereits beim Einbau der Software mit einem Mangel behaftet gewesen seien. Ein solcher Schaden, der vor dem Kauf des Fahrzeugs durch den geschädigten Endabnehmer nicht bestanden habe, sei ein Primärschaden und nicht bloß eine mittelbare Folge des ursprünglich von anderen Personen erlittenen Schadens. Es handle sich um keinen reinen Vermögensschaden, weil es um einen Mangel an Sachgütern gehe und der Schaden nicht nur die Verringerung der finanziellen Vermögenswerte einer Person ohne jeden Bezug zu Sachgütern betreffe (Rn 29 bis 35).
+2. Der EuGH gelangt somit zum Ergebnis, dass bei Geltendmachung der Wertminderung (des Wertverlustes) aus dem Erwerb einer mangelhaften Sache (hier: eines mangelhaften Fahrzeugs) aufgrund einer Täuschungshandlung (hier: Verschweigen der Manipulation der Abgaswerte bzw eines wissentlichen Verstoßes gegen gesetzliche Vorschriften) der Primärschaden erst mit dem Erwerb der Sache durch den Geschädigten von einem Dritten eintritt, wobei es gleichgültig ist, ob der Dritte Händler oder privater Verkäufer (eines Gebrauchtwagens) ist. Ein solcher Schaden ist kein reiner Vermögensschaden.
+3. Diese Grundsätze gelten auch für den Anlassfall. Daraus folgt, dass sich die Kläger auf den Deliktsgerichtsstand nach Art 7 Nr 2 EuGVVO 2012 am Erfolgsort in Österreich berufen können. Die Entscheidung des Rekursgerichts steht damit im Einklang. Dem Revisionsrekurs ist daher der Erfolg zu versagen.
+4. Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0040OB00130.20A.0812.000

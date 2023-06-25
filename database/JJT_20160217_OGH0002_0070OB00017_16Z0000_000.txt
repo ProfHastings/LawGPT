@@ -1,0 +1,44 @@
+Gericht
+OGH
+Entscheidungsdatum
+17.02.2016
+Geschäftszahl
+7Ob17/16z
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofräte Dr. Höllwerth, Mag. Dr. Wurdinger, Mag. Malesich und Dr. Singer als weitere Richter in der Rechtssache der klagenden Partei H***** GmbH, *****, vertreten durch Ferner Hornung & Partner Rechtsanwälte GmbH in Salzburg, gegen die beklagte Partei G***** AG, *****, vertreten durch MUSEY rechtsanwalt gmbh in Salzburg, wegen Feststellung, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Salzburg als Berufungsgericht vom 3. Dezember 2015, GZ 53 R 237/15g-12, mit dem das Urteil des Bezirksgerichts Neumarkt bei Salzburg vom 10. August 2015, GZ 10 C 266/15w-8, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei binnen 14 Tagen die mit 833,88 EUR (darin 138,98 EUR an Umsatzsteuer) bestimmten Kosten ihrer Revisionsbeantwortung zu ersetzen.
+Begründung:
+Rechtliche Beurteilung
+Die Klägerin hat bei der Beklagten eine Betriebshaftpflichtversicherung mit dem versicherten Risiko „Technisches Büro für Maschinenbau, Heizungsanlagen und Zubehör“ auf Grundlage der Allgemeinen Bedingungen für die Haftpflichtversicherung von befugten Technischen Büros (AHTB) abgeschlossen. Die AHTB haben auszugsweise folgenden Inhalt:
+„Art 1
+Gegenstand der Versicherung
+1.1 Der Versicherer übernimmt es, die Folgen von Schadenersatzverpflichtungen aus Personenschäden und sonstigen Schäden zu tragen, die dem Versicherungsnehmer aus der in der Polizze bezeichneten beruflichen Tätigkeit (dem versicherten Risiko) aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts erwachsen. In diesem Rahmen übernimmt der Versicherer auch die gerichtlichen und außergerichtlichen Kosten der Abwehr einer von einem Dritten ungerechtfertigterweise behaupteten Schadenersatzverpflichtung.
+(...)
+Art 6
+Ausschlüsse vom Versicherungsschutz
+1. Die Versicherung erstreckt sich nicht auf Schadenersatzverpflichtungen
+(…)
+1.3.1 aus sich im Ausland auswirkenden Verstößen 		(…)
+1.3.3 die Ausschlussbestimmungen gemäß den vorstehenden Punkten 1.3.1 und 1.3.2 finden jedoch für die Länder der Bundesrepublik Deutschland, Liechtenstein, Schweiz und Italien keine Anwendung.
+(…)
+Art 7
+Begriff des Versicherungsfalles
+1. Versicherungsfall ist ein Verstoß (Handlung oder Unterlassung), als dessen Folge Schadenersatzverpflichtungen des Versicherungsnehmers erwachsen könnten. (...)“
+Die Klägerin entwickelte im Auftrag der R***** GmbH (folgend nur: R*****) einen Pelletofen. R***** produzierte ihn in Österreich in Serie und vertrieb ihn dann europaweit an Endkunden. Bei einigen Endkunden in ganz Europa zerbarst während des Verbrennungsprozesses die - wie von R***** behauptet - bei der Entwicklung zu dünn dimensionierte Glasscheibe der Ofentüre. R***** ließ daraufhin präventiv sämtliche ausgelieferten Öfen umrüsten und forderte von der Klägerin ein konstitutives Anerkenntnis, wonach diese für alle R***** entstandenen Kosten dieser Umrüstaktion (1.148.227,93 EUR) aufkommen werde.
+Die Klägerin begehrte die Feststellung der Deckungspflicht der Beklagten für den beschriebenen Schaden.
+Die Beklagte lehnte Deckung unter Hinweis auf die Auslandsklausel ab.
+Das Erstgericht gab der Klage statt.
+Das Berufungsgericht gab der Berufung der Beklagten nicht Folge und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteigt und die ordentliche Revision zulässig sei. Bis auf die zu 7 Ob 54/86 und 7 Ob 58/87 ergangenen Entscheidungen des Obersten Gerichtshofs lägen zur über den Einzelfall hinaus bedeutsamen Frage der Auslegung einer Auslandsklausel iSd Art 6.1.3.1 AHTB keine jüngeren höchstgerichtlichen Entscheidungen vor.
+Entgegen diesem - den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+1. Das Fehlen einer jüngeren Rechtsprechung begründet für sich noch nicht das Vorliegen einer erheblichen Rechtsfrage. Solange sich die Rechtslage nicht geändert hat und auch von der Lehre keine fundierte Kritik an der Judikatur des Obersten Gerichtshofs geäußert wurde, ist auch durch eine ältere Rechtsprechung die Rechtssicherheit gewährleistet (2 Ob 317/02k; 3 Ob 140/07w; RIS-Justiz RS0042680 [T1]). Im Lichte dieser Grundsätze liegen hier die Voraussetzungen nach § 502 Abs 1 ZPO nicht vor.
+2. Bereits das Berufungsgericht ist von den Entscheidungen des Obersten Gerichtshofs 7 Ob 54/86 (JBl 1987, 454 = VersR 1988, 419 = VersRdSch 1987, 198) und 7 Ob 58/87 (VersRdSch 1988, 198) ausgegangen, nach denen sogenannte Auslandsklauseln (Ausschluss des Versicherungsschutzes für „Schadenersatzverpflichtungen aus sich im Ausland auswirkenden Verstößen“) nach der Ereignistheorie auszulegen sind.
+3. Zweck einer Auslandsklausel ist es, das Risiko wegen der Schwierigkeit der Aufklärung des Versicherungsfalls im Ausland überschaubar zu machen. Für die Wirksamkeit des Versicherungsschutzes kommt es bei einer solchen Klausel nach der Ereignistheorie nicht darauf an, wo die Ursache (der Verstoß) gesetzt wurde, sondern darauf, wo das Schadensereignis eingetreten ist. Deckungspflicht des Versicherers besteht dann, wenn sich der anspruchsbegründende Sachverhalt im Verhältnis zwischen dem Versicherungsnehmer und dem Dritten zur Gänze im Inland verwirklicht hat.
+4. Diese Voraussetzung bejahte der Oberste Gerichtshof in den beiden Entscheidungen 7 Ob 54/86 und 7 Ob 58/87, die - wie hier - Fälle betrafen, in denen aufgrund von fehlerhaften Konstruktionsplänen der Versicherungsnehmerin vom Dritten im Inland ein mangelhaftes Produkt hergestellt worden war. Der Oberste Gerichtshof kam bei einer solchen Konstellation zum Ergebnis, dass sich der anspruchsbegründende Sachverhalt, der die Deckungspflicht des Versicherers auslöst, auch dann zur Gänze im Inland verwirklicht, wenn der Mangel erst beim späteren Betrieb der Maschine im Ausland entdeckt wird. Die gegenteilige Ansicht der Beklagten verkennt, dass der Ort des Schadensereignisses im Verhältnis zwischen dem Versicherungsnehmer und dem ihn in Anspruch nehmenden Dritten und nicht aufgrund von Rechtsbeziehungen zu ermitteln ist, an denen ausschließlich spätere Dritte und nicht mehr der Versicherungsnehmer beteiligt ist.
+5. Zusammengefasst folgt, dass die Entscheidung des Berufungsgerichts bei vergleichbarer Sach- und identer Rechtslage den in der Literatur nicht auf Kritik gestoßenen Entscheidungen 7 Ob 54/86 und 7 Ob 58/87 entspricht. Eine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO stellt sich somit nicht. Die Revision ist daher unzulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf diese Entscheidung nicht (§ 510 Abs 3 ZPO).
+6. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0070OB00017.16Z.0217.000

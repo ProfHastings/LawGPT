@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.11.1960
+Geschäftszahl
+3Ob443/60
+Norm
+EO §262;
+Kopf
+SZ 33/126
+Spruch
+Eine bei einem gerichtlichen Verwahrer befindliche Sache darf ohne Zustimmung des Verwahrschaftsgerichtes nicht gepfändet werden.
+Entscheidung vom 16. November 1960, 3 Ob 443/60.
+I. Instanz: Bezirksgericht Poysdorf; II. Instanz: Kreisgericht Korneuburg.
+Text
+Im Verlassenschaftsverfahren nach Ferdinand R. faßte das Bezirksgericht Poysdorf als Abhandlungsgericht am 13. November 1959 den Beschluß, daß bei der Sparkasse der Stadt P. ein Einlagebuch errichtet werde und darauf zwei Geldbeträge von 9950 S 30 g und von 11.500 S für die Verlassenschaft einzuzahlen sind. Die Sparkasse wurde um Sperre und Verwahrung des Buches ersucht.
+Das Erstgericht bewilligte den betreibenden Gläubigern mit Beschluß vom 2. Mai 1960 die Exekution durch Pfändung des Sparkassenbuches, die am 3. Mai 1960 in den Räumen der Sparkasse vollzogen wurde. Am gleichen Tag beantragten die betreibenden Gläubiger, ihnen die Forderung aus dem Einlagebuch zur Einziehung zu überweisen.
+Das Erstgericht wies diesen Antrag ab und stellte die Exekution ein, weil die Pfändung nur mit Zustimmung des Abhandlungsgerichtes hätte vollzogen werden dürfen. Es handle sich um einen Gerichtserlag, auf den Exekution nur nach den Bestimmungen des § 295 EO. zu führen gewesen wäre.
+Das Rekursgericht bewilligte die beantragte Überweisung, ohne den Einstellungsbeschluß des Erstgerichtes aufzuheben. Es führte aus, daß die Entscheidung SZ. XV 88, auf die sich das Erstgericht berufe, auf den vorliegenden Fall unanwendbar sei. Dort handle es sich um die Sperre des Vermögens eines Minderjährigen, die den Zweck verfolge, ungerechtfertigte Abhebungen zu verhindern und so dem Pflegschaftsgericht die Kontrolle über das Mundelvermögen zu sichern, wogegen im vorliegenden Fall durch die Sperre nur die Legitimation des späteren Empfängers gewährleistet werden müsse.
+Der Oberste Gerichtshof gab dem Rekurs des Masseverwalters im Konkurs der Verlassenschaft nach Ferdinand R. Folge und stellte den erstgerichtlichen Beschluß wieder her.
+Rechtliche Beurteilung
+Aus der Begründung:
+Es wird Exekution auf ein Sparkassenbuch geführt. Für die Pfändung eines solchen gelten gemäß § 296 EO. die Vorschriften über die Fahrnispfändung, doch ist es zur Erwerbung des Befriedigungsrechtes erforderlich, daß das Einlagebuch vom Vollstreckungsbeamten an sich genommen wird. Es ist daher auch die Vorschrift des § 262 EO. anzuwenden, nach welcher Sachen, die sich in der Gewahrsame eines Dritten, also einer vom Verpflichteten verschiedenen Person, befinden, nur mit Zustimmung des Dritten gepfändet werden dürfen. Daß die Sparkasse der Pfändung widersprochen hätte, läßt sich aus dem Pfändungsprotokoll nicht entnehmen, auch wurde dies von keiner Seite behauptet. Es kommt also darauf an, ob die Sparkasse allein als der Dritte anzusehen ist, dessen Zustimmung zur Herausgabe nach der genannten Bestimmung notwendig ist.
+Es kommt allerdings nicht darauf an, ob der Dritte nach seinem Verhältnis zum Verpflichteten berechtigt war, diese Zustimmung zu geben, weil § 262 EO. bloß den Dritten schützt. Vielmehr ist zu untersuchen, ob er nach außen als derjenige erscheint, der die Macht über den Pfandgegenstand ausübt. Dies gilt nicht von einem gerichtlichen Verwahrer, wie im vorliegenden Fall von der Sparkasse. Dieser übt seine Tätigkeit als Organ des Gerichtes aus, so daß eine doppelte Gewahrsame vorliegt, eine Obergewahrsame des Verwahrschaftsgerichtes und eine Untergewahrsame der Sparkasse. Diese Verhältnisse waren allen Beteiligten klar erkennbar. Die Pfändung hätte daher nur erfolgen dürfen, wenn ihr sowohl die Sparkasse als auch das Abhandlungsgericht zugestimmt hätte. Da dies nicht der Fall war, hat wie das Erstgericht mit Recht für unwirksam erachtet (s. auch GlUNF. 7416).

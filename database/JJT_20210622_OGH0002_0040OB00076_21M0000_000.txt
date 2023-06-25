@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.06.2021
+Geschäftszahl
+4Ob76/21m
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Schwarzenbacher und Hon.-Prof. PD Dr. Rassi sowie die fachkundigen Laienrichter DI Dr. Ehrendorfer und DI Henhapel als weitere Richter in der Rechtssache der klagenden Parteien 1. v***** R***** GmbH, *****, 2. v***** T***** GmbH, *****, beide vertreten durch GEISTWERT Kletzer Messner Mosing Schnider Schultes Rechtsanwälte OG in Wien sowie DI Marc Kerschmann, Patentanwalt in Wien, gegen die beklagte Partei V***** SA, *****, vertreten durch Dr. Johannes Willheim, Rechtsanwalt in Wien sowie Thomas Greiff, Patentanwalt in Düsseldorf, wegen Unterlassung (Streitwert 100.000 EUR), Beseitigung (Streitwert 8.000 EUR), Auskunft (Streitwert 8.000 EUR), Rechnungslegung (Streitwert 8.000 EUR) und Urteilsveröffentlichung (Streitwert 8.000 EUR), über die außerordentliche Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 24. Februar 2021, GZ 33 R 96/20k-95, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Beide Streitteile produzieren und vertreiben Weichen.
+[2] 		Die klagenden Parteien sind Inhaber des europäischen Patents EP 1 516 091 (österreichisches Patent AT E 449 882) mit dem Titel „Weiche mit verstärkter Zungenschiene“. Das Patent wurde am 16. 6. 2003 unter der Inanspruchnahme der Prioritäten vom 27. 6. 2002 aus AT 967/2002 angemeldet und am 25. 11. 2009 erteilt. Gegenstand des Patents sind Weichen.
+[3] 		Die Kläger machen Ansprüche gegen die Beklagte wegen Eingriffs in ihr Patent geltend. Die Beklagte habe den Österreichischen Bundesbahnen zwei auf der Südbahn eingebaute patentgemäße Weichen geliefert.
+[4] 		Die Vorinstanzen gingen davon aus, dass die gelieferten Weichen nicht alle Merkmale des Klagspatents wortsinngemäß oder äquivalent verwirklichen und wiesen die Klage übereinstimmend ab.
+[5] 		Dagegen zeigt die außerordentliche Revision der klagenden Parteien keine erhebliche Rechtsfrage auf.
+Rechtliche Beurteilung
+[6] 		1. Die Beurteilung, ob ein Gegenstand in ein Patent eingreift, hängt in weiten Bereichen von der Beantwortung von Tatfragen ab, die – von Verfahrensmängeln der zweiten Instanz abgesehen – einer Überprüfung durch den Obersten Gerichtshof entzogen ist.
+[7] 		2. Den Entscheidungen der Vorinstanzen liegt zugrunde, dass Merkmal d von Anspruch 1 des Klagspatents, „wobei die Breite des Backenschienenkopfes ausgehend von der Zungenspitze bis zu einem Punkt innerhalb des Anlagenbereichs, an welchem ein auf dem Gleis fahrendes Laufrad eines Fahrzeuges seitlich mit der Zungenschiene in Berührung kommt, abnimmt,“ bei den von der Beklagten gelieferten Weichen nicht verwirklicht ist. Das Berufungsgericht ist davon ausgegangen, dass es nach den Patentansprüchen auf die erste Berührung der Zungenschiene durch das Rad eines Fahrzeugs ankommt und der erstmalige Berührungspunkt und der Verstärkungsbereich örtlich zusammenfallen.
+[8] 		2.1 Das Berufungsgericht verneinte eine wortsinngemäße Verletzung ua wegen des Umstands, dass der erste mögliche Berührungspunkt bei den von der Beklagten gelieferten Weichen deutlich vor jenem laut Klagspatent liegt. Zu dieser Verneinung einer wortsinngemäßen Verletzung machen die klagenden Parteien in der Zulassungsbeschwerde des Rechtsmittels (§ 506 Abs 1 Z 5 ZPO) keine erhebliche Rechtsfrage geltend.
+[9] 		2.2 Eine solche Rechtsfrage wird auch durch die Ausführungen zur Äquivalenz nicht aufgezeigt, wonach es sich bei den Weichen der Beklagten um eine äquivalente Benützungsform des Klagspatents handeln soll.
+[10] 		2.3.1 Nach der Judikatur (RIS-Justiz RS0123522) müssen für eine äquivalente Benützung einer patentierten Erfindung folgende Bedingungen kumulativ vorliegen:
+a) Die abgewandelte Ausführungsform löst das der Erfindung zugrundeliegende Problem mit zwar abgewandelten, aber objektiv gleichwirkenden Mitteln (Gleichwirkung);
+b) die Fachperson kann die bei der Ausführungsform eingesetzten abgewandelten Mittel mit Hilfe ihrer Fachkenntnisse zur Lösung des der Erfindung zugrunde liegenden Problems als gleichwirkend auffinden (Naheliegen);
+c) die Überlegungen der Fachperson sind derart am Sinngehalt der im Patentanspruch unter Schutz gestellten technischen Lehre orientiert, dass die Fachperson die abweichende Ausführung mit ihren abgewandelten Mitteln als der patentgemäßen Ausführung gleichwertige Lösung in Betracht zieht (Gleichwertigkeit).
+[11] 		2.3.2 Die Vorinstanzen haben die Gleichwirkung verneint, weil bei den Weichen der Beklagten ein Laufrad um mindestens 22 % (Weiche Nr 51) bzw um mindestens 16 % (Weiche Nr 103) vor dem Punkt der geringsten Breite des Backenschienenkopfes mit der Zungenschiene in Berührung kommt. Demnach falle bei diesen Werten die Verstärkung der Zungenschiene noch so gering aus, dass die patentgemäße Aufgabe (Verschleißverringerung und größere Bruchfestigkeit) nicht gelöst werde. Im Gegensatz zu der im Patent angestrebten Wirkung erfolgt die größte Verstärkung der Zungenschiene bei den Weichen der Beklagten nicht im sensiblen Übergangsbereich der Last von der Backenschiene auf die Zungenschiene, sondern in einem Bereich, der deutlich dahinter liegt. Die Beurteilung der Äquivalenz durch die Vorinstanzen hält sich im Rahmen ihres Beurteilungsspielraums und bedarf keiner Korrektur durch gegenteilige Sachentscheidung.
+[12] 		2.3.3 Die klagenden Parteien vermissen Rechtsprechung zur Frage, ob eine Verschlechterung eine äquivalente Patentverletzung ausschließt. Dem ist entgegenzuhalten, dass nach der Judikatur eine sogenannte „verschlechterte Ausführungsform“ nicht als Verletzung zu werten ist, wenn der erfindungswesentliche Effekt nicht erreicht wird (RS0071548). Die Entscheidung der Vorinstanzen hält sich im Rahmen dieser Judikatur.
+[13] 		3. Die behauptete Mangelhaftigkeit wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+[14] 		Die Zulassung eines Schriftsatzes der Beklagten durch das Erstgericht kann schon deshalb keine erhebliche Rechtsfrage begründen, weil das Berufungsgericht dazu einen allfälligen Verfahrensmangel verneint und sich darauf bezogen hat, dass die klagenden Parteien die Relevanz der behaupteten Mangelhaftigkeit nicht aufgezeigt hätten. Nach gesicherter Rechtsprechung ist ein (behaupteter) erstinstanzlicher Verfahrensmangel grundsätzlich kein Revisionsgrund, wenn die zweite Instanz die Mangelhaftigkeit verneint hat (RS0042963). Das Rechtsmittel führt nicht nachvollziehbar aus, warum das Berufungsgericht die Mängelrüge hier mit einer durch die Aktenlage nicht gedeckten Begründung erledigt haben soll.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0040OB00076.21M.0622.000

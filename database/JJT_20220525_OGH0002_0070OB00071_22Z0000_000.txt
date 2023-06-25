@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+7Ob71/22z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Hofrätin Dr. Solé als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei J* K*, vertreten durch Mag. Thomas Frischmann, Rechtsanwalt in Bad Häring, gegen die beklagte Partei U* AG, *, vertreten durch Musey rechtsanwalt gmbH in Salzburg, wegen 15.000 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Handelsgerichts Wien als Berufungsgericht vom 19. November 2021, GZ 60 R 110/21p-49, womit das Urteil des Bezirksgerichts für Handelssachen Wien vom 26. Juli 2021, GZ 9 C 69/19s-44, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.096,56 EUR (darin enthalten 182,76 EUR an USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Revision ist – ungeachtet des den Obersten Gerichtshof nicht bindenden – Ausspruchs des Berufungsgerichts nicht zulässig. Die Zurückweisung der Revision wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführungen der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+[2] 		1. Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag. Mit Schreiben vom 6. 2. 2018 teilte die Beklagte dem Kläger mit:
+„… Wie wir aus den Unterlagen ersehen, haben Sie den Unfall infolge einer wesentlichen Beeinträchtigung Ihrer Leistungsfähigkeit durch Alkohol erlitten.
+Nach den Allgemeinen Bedingungen für die Unfallversicherung sind derartige Unfälle von der Versicherung ausgeschlossen. Leider müssen wir eine Versicherungsleistung somit ablehnen. ...“
+Gemäß § 12 des Versicherungsvertragsgesetzes weisen wir daraufhin, dass ein Anspruch auf Versicherungsleistung innerhalb eines Jahres ab Zugang dieses Schreibens gerichtlich geltend zu machen ist.“
+[3] 		Mit Schreiben vom 28. 9. 2018 an die damaligen Rechtsvertreter des Klägers teilte die Beklagte noch mit: „Unsere Ablehnung bezüglich Alkoholisierung bezieht sich auf Art 20.8 der Bedingungen.“ Am 10. 3. 2021 nahm der Kläger die Änderung der Klage von einem – von ihm bislang unbegründeten – Feststellungs- auf ein Leistungsbegehren vor.
+Rechtliche Beurteilung
+[4] 		2.1 Gegenstand des Revisionsverfahrens bildet ausschließlich die Frage, ob das Ablehnungsschreiben der Beklagten vom 6. 2. 2018 den in § 12 Abs 2 VersVG normierten Voraussetzungen entsprochen hat und deshalb dem gegen die Klagsänderung erhobenen Verjährungseinwand nach § 12 Abs 1 VersVG die Berechtigung zukommt, wie dies vom Berufungsgericht angenommen wurde.
+[5] 		2.2.1 Die Ansprüche aus dem Versicherungsvertrag verjähren nach § 12 Abs 1 Satz 1 VersVG in drei Jahren. Ist ein Anspruch des Versicherungsnehmers beim Versicherer angemeldet, so ist nach § 12 Abs 2 Satz 1 VersVG die Verjährung bis zum Einlangen einer in geschriebener Form übermittelten Entscheidung des Versicherers gehemmt, die zumindest mit der Anführung einer der Ablehnung derzeit zugrunde gelegten Tatsache und gesetzlichen oder vertraglichen Bestimmung begründet ist.
+[6] 		2.2.2 § 12 Abs 1 VersVG enthält eine die Verjährung von Versicherungsansprüchen regelnde Sonderbestimmung (RS0080075). Der Lauf der Verjährungsfrist beginnt mit jenem Zeitpunkt, zu dem die Fälligkeit der geforderten Leistung eintritt (RS0080324; RS0080075 [T2]).
+[7] 		2.2.3 Wenn der Versicherer die Versicherungsleistung endgültig ablehnt, wird der Entschädigungsanspruch sofort fällig (RS0114507), sodass die Versicherungsleistung mit Leistungsklage geltend gemacht werden kann (RS0080481 [T5]).
+[8] 		2.2.4 Der Kläger argumentiert, dass die Fälligkeit des Leistungsanspruchs wegen Fehlens der der Ablehnung zugrunde gelegten gesetzlichen oder vertraglichen Bestimmung nicht mit dem Schreiben vom 6. 2. 2018 eingetreten sei, sondern erst mit dem weiteren Schreiben vom 28. 9. 2018, in dem ausdrücklich auf den Risikoausschluss nach Art 20.8 der Bedingungen verwiesen worden sei.
+[9] 		Hier übersieht er zum einen, dass er eine mangelnde Begründung des Ablehnungsschreibens vom 6. 2. 2018 bislang nie einwandte, sondern sogar ausdrücklich vorbrachte, dass mit diesem Schreiben die endgültige Ablehnung erfolgt sei. Zum anderen hat der Oberste Gerichtshof auch bereits der monierten fehlenden Angabe einen der Ablehnung zugrunde gelegten gesetzlichen oder vertraglichen Bestimmung iSd § 12 Abs 2 VersVG entgegengehalten, dass auch die für den durchschnittlich verständigen Versicherungsnehmer ausreichend klare Bezugnahme auf die Versicherungsbedingungen ausreichend ist (vgl 7 Ob 182/06z = RS0080224 [T6] = RS0114507 [T6]).
+[10] 		2.2.5 Vor diesem Hintergrund erweist sich die Beurteilung des Berufungsgerichts, dass die Verjährung des Leistungsanspruchs bereits mit dem Schreiben vom 6. 2. 2018 begann, als nicht korrekturbedürftig; hat doch der Versicherer durch die Anführung, dass der Versicherungsnehmer den Unfall infolge einer wesentlichen Beeinträchtigung der Leistungsfähigkeit durch Alkohol erlitten habe und derartige Unfälle nach den Allgemeinen Bedingungen von der Versicherung ausgeschlossen seien – auch ohne die konkrete Anführung des Art 20.8 UB00 – seine Ablehnung ausreichend klar mit diesem Risikoausschluss begründet.
+[11] 		3. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+[12] 		4. Die Kostenentscheidung gründet auf die §§ 41, 50 ZPO; die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00071.22Z.0525.000

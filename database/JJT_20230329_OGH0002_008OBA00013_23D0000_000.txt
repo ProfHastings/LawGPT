@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2023
+Geschäftszahl
+8ObA13/23d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die fachkundigen Laienrichter Mag. Antonia Oberwalder (aus dem Kreis der Arbeitgeber) und Werner Stepanowsky (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Arbeitsrechtssache der klagenden Partei A*, vertreten durch MMMMag. Dr. Konstantin Haas, Rechtsanwalt in Leonding, gegen die beklagten Parteien 1. D*, 2. H*gesellschaft mbH, *, 3. G* AG, *, alle vertreten durch Dr. Reinhard Teubl ua, Rechtsanwälte in Bruck an der Mur, wegen 25.423,60 EUR sA und Feststellung (Streitwert 5.000 EUR), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 30. Jänner 2023, GZ 11 Ra 2/23b-31, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Gemäß § 333 Abs 3 ASVG ist das Dienstgeberhaftungsprivileg des § 333 Abs 1 ASVG nicht anzuwenden, wenn der Arbeitsunfall durch ein Verkehrsmittel eingetreten ist, für dessen Betrieb aufgrund gesetzlicher Vorschrift eine erhöhte Haftpflicht besteht. Der Dienstgeber haftet nur bis zur Höhe der aus einer bestehenden Haftpflichtversicherung zur Verfügung stehenden Versicherungssumme, es sei denn, dass der Versicherungsfall durch den Dienstgeber vorsätzlich verursacht worden ist.
+[2] 		Die Ausnahmeregelung des § 333 Abs 3 ASVG setzt damit voraus, dass der zu ersetzende Schaden von einer Haftpflichtversicherung gedeckt ist (RIS-Justiz RS0085140).
+[3] 		2. Der Kläger macht in seiner Revision geltend, dass die Zweitbeklagte für den Unfall als Halterin nach dem EKHG haftet und die Drittbeklagte als Haftpflichtversicherung für diese Schäden einzustehen hat.
+[4] 		3. Der Begriff „beim Betrieb“ nach § 1 EKHG bedeutet, dass entweder ein innerer Zusammenhang mit einer dem Kraftfahrzeugbetrieb eigentümlichen Gefahr oder, wenn dies nicht der Fall ist, ein adäquat ursächlicher Zusammenhang mit einem bestimmten Betriebsvorgang oder einer bestimmten Betriebseinrichtung des Fahrzeugs bestehen muss (RS0022592).
+[5] 		Dabei kommt es nicht nur auf jene Gefahr an, die sich aus der Inbetriebnahme des Motors und der damit verbundenen Bewegung des Fahrzeugs ergibt, sondern ist im Sinn eines „verkehrstechnischen Ansatzes“ auch jene Gefahr relevant, die unabhängig von einer motorbetriebenen Bewegung auf der Teilnahme des Fahrzeugs am Verkehr beruht (RS0058385 [T8]). Die Haftung wird allerdings auch in diesen Fällen nur bejaht, wenn der Unfall auf einer spezifischen Gefährlichkeit des Kraftfahrzeugs beruht (vgl RS0124207). Es muss also ein Gefahrenzusammenhang bestehen (vgl 2 Ob 181/15d mwN). Die vom Verschulden unabhängige Gefährdungshaftung ist nur gerechtfertigt, wenn und soweit sich eine Gefahr verwirkliche, deretwegen diese Haftung angeordnet wurde.
+[6] 		4. Ausgehend vom eigentlichen Zweck eines Kraftfahrzeugs, der Ortsveränderung, wird die Haftung des Fahrzeughalters nach dem EKHG abgelehnt, wenn ein Kraftfahrzeug mit Sonderausstattung als ortsgebundene Arbeitsmaschine verwendet wird (RS0058229). Maßgebend ist dabei jedoch nicht nur die vorübergehende Aufhebung der Fahrbarkeit, sondern vor allem die Betätigung der Motorkraft des Fahrzeugs für einen Arbeitsvorgang außerhalb desselben, der mit den für das Kraftfahrzeug typischen Funktionen nicht im Zusammenhang steht (RS0058248 [T4]).
+[7] 		So wurde beispielsweise die Haftung in einem Fall verneint, in dem ein Radbagger zum Unfallszeitpunkt nicht in Bewegung war, sondern dessen Fahrbarkeit vorübergehend durch Absenken des Planierschildes aufgehoben war, auch wenn weitere zusätzliche Stützen nicht ausgefahren waren (2 Ob 214/01m).
+[8] 		5. Auch im vorliegenden Fall war die Mobilität des unfallbeteiligten Baggers durch eine durch die Benützung des Baggerarms ausgelöste automatische Sperre aller Antriebsräder und zudem eine Fixierung des Unterwagens sowohl durch den Planierschild als auch am Heck befindliche zwei Stützen aufgehoben. Der Unfall ereignete sich während des in die Erde Treibens von Pfosten durch die Baggerschaufel, die vom Kläger zu diesem Zweck festgehalten wurden.
+[9] 		Die Beurteilung der Vorinstanzen, dass aufgrund dieses Sachverhalts eine Verwendung des Baggers als ortsgebundene Arbeitsmaschine vorlag, die eine Haftung nach EKHG ausschließt, hält sich im Rahmen des gesetzlich eingeräumten Ermessensspielraums.
+[10] 		6. Soweit der Kläger darauf verweist, dass diese Arbeiten auf einer öffentlichen Straße durchgeführt wurden, weshalb von einer „Teilnahme am Verkehr“ auszugehen sei, verkennt er, dass sich dessen ungeachtet beim konkreten Unfallgeschehen gerade nicht eine spezifische Gefährlichkeit eines Kraftfahrzeugs verwirklichte, sondern die Gefahr, die sich aus der Verwendung als Arbeitsmaschine ergibt. Insofern kommt es auf die Örtlichkeit nicht weiter an.
+[11] 		7. Auch der Umstand, dass der Bagger zwischen einzelnen Arbeitsschritten bewegt werden musste, ändert nichts daran, dass er bei Durchführung der Arbeiten, wenn auch nur vorübergehend, fixiert war. Auch aus diesem Argument ist daher für den Kläger nichts zu gewinnen.
+[12] 		8. Mangels einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die außerordentliche Revision zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:008OBA00013.23D.0329.000

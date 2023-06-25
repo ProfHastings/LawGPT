@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2022
+Geschäftszahl
+4Ob49/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi, MMag. Matzka und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei P*, vertreten durch Dr. Sven Rudolf Thorstensen, LL.M., Rechtsanwalt in Wien, gegen die beklagte Partei T* Limited, *, Malta, vertreten durch die BRANDL TALOS Rechtsanwälte GmbH in Wien wegen 84.090,99 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien vom 8. Februar 2022, GZ 12 R 57/21x-23, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte mit Sitz in Malta verfügt über eine maltesische Glücksspiellizenz. Auf ihrer (auch) deutschsprachigen Website bot sie die Teilnahme an Online-Pokerspielen an, ohne über eine Konzession nach dem österreichischen GSpG zu verfügen. Der Kläger nützte dieses Angebot als Verbraucher und verlor vom 29. 8. 2007 bis 28. 8. 2019 insgesamt 84.090,99 EUR.
+[2] 		Der Kläger begehrt die Rückzahlung seines Spieleinsatzes aus dem Titel der ungerechtfertigten Bereicherung und des Schadenersatzes, weil es sich um verbotenes Glücksspiel gehandelt habe.
+[3] 		Die Beklagte wendete im Wesentlichen ein, dass das österreichische Glücksspielmonopol den Kohärenztest nicht bestehe und damit unionsrechtswidrig sei. Außerdem entstünden beim Online-Poker nur Vertragsverhältnisse der Spieler untereinander, nicht aber solche mit dem Anbieter. Die Beklagte sei daher für Rückforderungen aus verbotenem Pokerspiel gar nicht, jedenfalls aber nicht über den Hausanteil (sog Rake) hinaus passivlegitimiert. Schließlich wendete sie Gegenforderungen ein.
+[4] 		Die Vorinstanzen sahen den Klagsanspruch als berechtigt, die Gegenforderungen als nicht berechtigt an und gaben der Klage statt. Das Vorbringen der Beklagten stelle keine grundlegend neuen Marketingstrategien dar, sodass angesichts der ständigen Rechtsprechung von Verfassungs-, Verwaltungs- und Oberstem Gerichtshof von der Unionsrechtskonformität des Glücksspielmonopols auszugehen sei. Die Beklagte sei für den Bereicherungsanspruch wegen verbotenen Glücksspiels passivlegitimiert, weil der Kläger seine Einsätze für das verbotene Glücksspiel an sie geleistet habe.
+Rechtliche Beurteilung
+[5] 		Die außerordentliche Revision der Beklagten zeigt keine erheblichen Rechtsfragen auf und ist daher nicht zulässig.
+[6] 		1.1. Das Vorliegen einer erheblichen Rechtsfrage ist nach dem Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof zu beurteilen. Eine im Zeitpunkt der Einbringung des Rechtsmittels tatsächlich aufgeworfene erhebliche Rechtsfrage fällt somit weg, wenn sie vor der Entscheidung über das Rechtsmittel bereits durch eine andere Entscheidung des Obersten Gerichtshofs geklärt wurde (RS0112921 [T5]).
+[7] 		1.2. Die Beklagte begründet die Zulässigkeit der Revision mit fehlender höchstgerichtlicher Rechtsprechung zu der Frage, ob das unionsrechtswidrige Sitzerfordernis nach §§ 14 und 21 GSpG in der bis Dezember 2010 geltenden Fassung vor dem Budgetbegleitgesetz 2011 auch die Gesetzwidrigkeit des konzessionslosen Glücksspiels iSd § 879 ABGB oder zumindest die Rückforderbarkeit der Verluste beseitige.
+[8] 		Tatsächlich hat der Oberste Gerichtshof diese Frage aber bereits mit der ausführlich begründeten Entscheidung 6 Ob 229/21a vom 2. 2. 2022 gelöst: Unionsrechtswidrig war nämlich nur das Sitzerfordernis, nicht aber das Konzessions- bzw Monopolsystem an sich. Dass die Beklagte jemals um eine Konzession angesucht, geschweige denn die übrigen in § 14 Abs 2, § 21 Abs 2 GSpG normierten Voraussetzungen erfüllt hätte, behauptet sie nicht einmal. Daher geht auch ihre Argumentation ins Leere, der unionsrechtliche Effektivitätsgrundsatz erfordere die Beseitigung jeder nachteiligen Folge für den Anbieter, einschließlich der zivilrechtlichen Bereicherungs- und Schadenersatzansprüche der Spieler.
+[9] 		2.1. Eine in einem selbständig zu beurteilenden Teilbereich in zweiter Instanz unterlassene Rechtsrüge kann in der Revision nicht nachgeholt werden (RS0043573 [T33]).
+[10] 		2.2. Die Berufung der Beklagten befasste sich ausführlich mit der Verhältnismäßigkeit und Kohärenz der österreichischen Glücksspielregeln im Hinblick auf die unionsrechtliche Dienstleistungsfreiheit. Die Frage, zwischen welchen Personen beim Online-Poker (Glücksspiel-)Verträge abgeschlossen werden und Leistungen erbracht werden, wurde dagegen nicht mehr releviert. Damit lag in Wahrheit gar keine Rechtsrüge in der Berufung zum Teilbereich der Passivlegitimation vor, sodass sich eine weitere inhaltliche Auseinandersetzung mit den Argumenten der Revision dazu erübrigt.
+[11] 		3. Im Ergebnis zeigt die Revision keine erhebliche Rechtsfrage auf und ist zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00049.22T.0329.000

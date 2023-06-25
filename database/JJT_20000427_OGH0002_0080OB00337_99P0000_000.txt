@@ -1,0 +1,45 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2000
+Geschäftszahl
+8Ob337/99p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Petrag als Vorsitzenden und die Hofräte des Obersten Gerichtshofes Dr. Langer, Dr. Rohrer, Dr. Adamovic und Dr. Spenling als weitere Richter in der Rechtssache der klagenden Partei Landes-Hypothekenbank T*****, vertreten durch Dr. Peter Lechner, Rechtsanwalt in Innsbruck, wider die beklagten Parteien 1. DI Helmut H*****, und 2. Vojka Helga R*****, vertreten durch Dr. Albert Heiss, Rechtsanwalt in Innsbruck, wegen S 337.423,80 s. A. über die außerordentliche Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichtes Innsbruck als Berufungsgericht vom 22. Oktober 1999, GZ 4 R 194/99g-36, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision der beklagten Parteien wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Text
+Begründung:
+Die Beklagten hatten sich gegenüber der nun klagenden Bank wechselmäßig als Bürge und Zahler für einen dem Hauptschuldner gewährten revolvierenden Kontokorrentkredit verpflichtet und werden von dieser, nachdem sie sich mit dem Masseverwalter des Hauptschuldners über anfechtbare Zahlungen nach § 30 Abs 1 Z 1 zweiter Fall KO verglichen hat, als Bürgen in Anspruch genommen.
+Rechtliche Beurteilung
+1. Die Revision der Beklagten ist nicht zulässig, weil zur Frage der Kongruenz bzw Inkongruenz im Zusammenhang mit dem Anfechtungstatbestand des § 30 Abs 1 Z 1 KO eine gefestigte oberstgerichtliche Judikatur besteht, an welche sich das Berufungsgericht gehalten hat.
+Zu Unrecht stützen sich die Beklagten auf die Entscheidung 4 Ob 559/83 (EvBl 1985/92); sie geben nämlich diese Entscheidung ungenau wieder: Zahlungen im Zusammenhang mit revolvierenden Kontokorrentkrediten, die - wie hier - durch Mantelzessionsvereinbarungen gesichert sind, sind danach nicht jedenfalls unanfechtbar, sondern nur dann infolge kongruenter Deckung unanfechtbar, wenn ein konkretisierter Anspruch auf jeweilige Ergänzung der Sicherstellung, zB durch Zessionen vorliegt.
+Nach nunmehr herrschender - wenn auch zum Teil von der Lehre
+kritisierter - oberstgerichtlicher Rechtsprechung sind Zahlungen im
+Zusammenhang mit revolvierenden Kontokorrentkrediten als inkongruente
+Deckung nach § 30 Abs 1 Z 1 zweiter Fall KO anfechtbar, wenn sie
+schlussendlich zu einer Senkung der Kreditausnützung im letzten Jahr
+unter die vereinbarte Kreditlinie geführt haben (2 Ob 128/99h, ZIK
+1999, 134 = ÖBA 2000, 152 [m Anm v Bollenberger] mwN; vgl auch die
+kürzlich ergangenen Entscheidungen 4 Ob 306/98y, ZIK 1999, 24 = ÖBA
+1999, 477 [dazu Bollenberger 409] und 2 Ob 140/99y, ZIK 1999, 136 =
+ÖBA 2000, 238 [m Anm v Schumacher] zur Anfechtbarkeit nach § 31 Abs 1
+Z 2 KO). Die Deckung ist nur dann nicht inkongruent, wenn rechtlich
+ein Anspruch darauf besteht. Auch wenn die Rückführung klagbarer
+Forderungen anfechtungsfest ist, ist hieraus für die Beklagte im
+vorliegenden Fall nichts zu gewinnen: einerseits wurde der Saldo
+nicht fällig gestellt und die bloße Möglichkeit, die Schuld vorzeitig
+fällig zu stellen, genügt nicht (3 Ob 573, 1514/90, ÖBA 1991, 286
+ua); andererseits wurden die künftig abzutretenden Forderungen in der
+Mantelzessionsvereinbarung nicht konkretisiert (Abtretung "diverser
+Forderungen") und unterblieben in der Folge vor oder bei der
+Wiederausnützung des Kredites solche Zessionen überhaupt; der
+Anspruch auf Abtretung diverser Forderungen (vgl 4 Ob 559/83) genügt
+keinesfalls; überdies war - wie nunmehr (2 Ob 128/99h) gefordert wird
+- nicht vereinbart, dass der gesamte Geldverkehr über die klagende
+Bank abzuwickeln war und wurde dies auch nicht so gehandhabt;
+vielmehr trat die Hauptschuldnerin in der letzten Zeit vor Eintritt der Zahlungsunfähigkeit alle ihre Forderungen an eine andere Bank ab;
+es mangelte insoweit auch an der die Kongruenz begründenden materiell rechtlichen Verpflichtung zu einer generellen (lückenlosen und vollständigen) Sicherheitsleistung.
+2. In der Vereinbarung der Ratenzahlung liegt keine Änderung des Rechtsgrundes oder des Hauptgegenstandes und somit keine Novation (§ 1376 ABGB), sondern nur eine Änderung der Zahlungsfrist, somit nur eine Änderung von Nebenbestimmungen iSd § 1379 ABGB (SZ 44/179 ua). In der Bekanntgabe des aushaftenden Saldos lag nur eine Wissenserklärung der klagenden Partei; erhöhte sich das Saldo infolge Vergleichs über anfechtbare Zahlungen nachträglich, lebt die Hauptschuld und die für sie bestehende Verbindlichkeit wieder auf, sodass die Bürgen wieder in Anspruch genommen werden können (SZ 58/114).

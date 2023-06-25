@@ -1,0 +1,43 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.12.2021
+Geschäftszahl
+7Ob193/21i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätin und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, MMag. Matzka und Dr. Weber als weitere Richter in der Rechtssache der klagenden Partei P* GmbH, *, vertreten durch Schmid & Horn Rechtsanwälte GmbH in Graz, gegen die beklagte Partei W*-AG, *, vertreten durch Dr. Wolfgang Muchitsch, Rechtsanwalt in Graz, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 7. Oktober 2021, GZ 2 R 175/21d-15, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin verfügt über eine Gewerbeberechtigung als Bauträgerin. Dem zwischen ihr und der Beklagten bestehenden Haftpflichtversicherungsvertrag liegen die Allgemeinen und Ergänzenden Allgemeinen Bedingungen für die Haftpflichtversicherung des Versicherungsverbandes Österreich (VVO) 2005 in der Version 2012 („AHVB“ und „EHVB“) und die Rahmenvereinbarung der Wirtschaftskammer Österreich (Fachverband der Immobilientreuhänder) vom September 2013 (Version 01/2013) (in Hinkunft Rahmenvertrag) zugrunde. Der Rahmenvertrag lautet auszugsweise:
+7. Versichertes Risiko
+Voraussetzung für die Versicherbarkeit nach der Rahmenvereinbarung ist eine aufrechte Gewerbeberechtigung als Immobilientreuhänder gemäß den Bestimmungen der § 94 Z 35 iVm § 117 GewO.
+Das versicherte Risiko umfasst alle Eigenschaften, Rechtsverhältnisse und Tätigkeiten des Versicherten, zu denen er aufgrund der für seinen Beruf und Betrieb geltenden Rechtsnormen und Berufsbilder berechtigt ist.
+[…]
+9. Besondere Vereinbarungen
+[…]
+9.2 Risikospezifische Besondere Vereinbarungen
+[…]
+9.2.3 Bauträger
+9.2.3.1 Exemplarische Tätigkeitsbeschreibung
+Der Versicherungsschutz erstreckt sich insbesondere auf folgende Tätigkeiten des Versicherungsnehmers im Rahmen seiner jeweiligen Gewerbeberechtigung:
+1. Der Tätigkeitsbereich des Bauträgers umfasst die organisatorische und kommerzielle Abwicklung von Bauvorhaben (Neubauten, durchgreifende Sanierungen) auf eigene oder fremde Rechnung sowie die hinsichtlich des Bauaufwands einem Neubau gleichkommende Sanierung von Gebäudeteilen. Der Bauträger ist auch berechtigt, diese Gebäude zu verwerten.
+[…]
+Klargestellt wird, dass die planende Tätigkeit des Versicherungsnehmers, sämtliche Tätigkeiten des Versicherungsnehmers des Bauhaupt-, Bauhilfs- und Baunebengewerbes sowie Tätigkeiten als Generalunternehmer nicht vom Versicherungsschutz umfasst sind.
+Rechtliche Beurteilung
+[2] 		1. Die geltend gemachte Mangelhaftigkeit wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+[3] 		2. Bei der Haftpflichtversicherung ist der Versicherer gemäß § 149 VersVG verpflichtet, dem Versicherungsnehmer die Leistungen zu ersetzen, die dieser aufgrund seiner Verantwortlichkeit für eine während der Versicherungszeit eintretenden Tatsache an einen Dritten zu bewirken hat (7 Ob 104/21a).
+[4] 		3.1 Die allgemeine Umschreibung des versicherten Risikos erfolgt durch die primäre Risikobegrenzung. Durch sie wird in grundsätzlicher Weise festgelegt, welche Interessen gegen welche Gefahren und für welchen Bedarf versichert sind. Auf der zweiten Ebene (sekundäre Risikobegrenzung) kann durch einen Risikoausschluss ein Stück des von der primären Risikobegrenzung erfassten Deckungsumfangs ausgenommen und für nicht versichert erklärt werden (vgl RS0080166 [T10]; RS0080068).
+[5] 		3.2 Beim letzten Satz des Art 9.2.3.1 des Rahmenvertrags handelt es sich schon nach dem eindeutigen Wortlaut um eine klarstellende Umschreibung des versicherten Risikos, sohin der primären Risikobegrenzung und um keinen Risikoausschluss.
+[6] 		4.1 Der hier interessierende Art 9.2.3.1.1 des Rahmenvertrags entspricht § 117 Abs 4 GewO 1994 (vgl VwGH 2007/04/0198 mwN).
+[7] 		4.2 Die Klägerin will die Bestimmung des Art 9.2.3.1.1 des Rahmenvertrags – insbesondere unter Berücksichtigung des letzten Satzes – dahin verstanden wissen, dass die dort genannten Tätigkeiten nur bei Übernahme der persönlichen Ausführung durch den Bauträger nicht vom Versicherungsschutz umfasst seien. Dies entspricht ohnedies dem Auslegungsergebnis der Vorinstanzen, sodass die Klägerin hier keine erhebliche Rechtsfrage aufzeigt.
+[8] 		5.1 Der Deckungsanspruch des Haftpflichtversicherers ist durch das versicherte Risiko spezialisiert und von dem vom Geschädigten erhobenen Anspruch abhängig (RS0081015), das heißt unter Zugrundelegung des vom Geschädigten behaupteten Sachverhalts (7 Ob 142/18k).
+[9] 		5.2 Die Klägerin übernahm in einer mit der Bauträgerin des Bauvorhabens geschlossenen – als Werkvertrag bezeichneten – Vereinbarung die nachstehenden Leistungen: Einreichplanung und Bauphysik samt Vorlage einer aktualisierten Kostenschätzung auf Basis der Einreichplanung; Ausführungs- und Detailplanung; Ausschreibung und Leistungsverzeichnisse; technische, geschäftliche und künstlerische Oberbauleitung der Bauausführung; örtliche Bauaufsicht; Statik; Bauphysik; Planung Ausschreibung ÖBA Elektro; Planung, Ausschreibung ÖBA Heizung, Lüftungs- und Sanitäranlage; Baukoordination. Vereinbart wurde dabei die Geltung der Honorarrichtlinie für Architekten (HOA) in der geltenden Fassung; sowie des Allgemeinen Teils der Honorarordnungen (AT). Die Klägerin wird im Haftpflichtprozess von der dort klagenden Bauträgerin auf Schadenersatz wegen einer unrichtigen Kostenschätzung im Rahmen der von ihr mit dem „Werkvertrag“ übernommenen Einreichplanung in Anspruch genommen.
+[10] 		5.3 Das Berufungsgericht vertrat im hier vorliegenden Einzelfall die Rechtsansicht, dass die Klägerin gerade keine Tätigkeiten innerhalb des versicherten Risikos, nämlich der organisatorischen und kommerziellen Abwicklung eines Bauvorhabens als Bauträgerin übernommen habe, sondern sie sich vielmehr gegenüber der Bauträgerin zur Erbringung außerhalb der Versicherungsdeckung liegender fachspezifischer Einzelleistungen verpflichtete. Diese Beurteilung ist nicht zu beanstanden.
+[11] 		5.4 Soweit die Klägerin dem entgegenhält, dass sie weder als Generalplanerin noch als Generalunternehmerin anzusehen sei und die Verpflichtung, die nötigen planerischen Arbeiten sachgerecht und rechtzeitig zu veranlassen, das Beauftragen der Ausführungsleistungen sowie die Kontrolle aller Baubelange in rechtlicher, wirtschaftlicher, kostenmäßiger und quantitativer Hinsicht zum Berufsbild des Bauträgers gehöre, übergeht sie, dass sie in dem Vertrag mit der Bauträgerin tatsächlich keine Verpflichtung zu einer derartigen organisatorischen Abwicklung, sondern eine solche zur Erbringung der konkret angeführten fachspezifischen Einzelleistungen übernahm. Entscheidend ist, zu welchen Leistungen sie sich vertraglich gegenüber der Bauträgerin verpflichtete und ob diese im Rahmen der versicherten Tätigkeiten liegen. Dass sie sich allenfalls zur Erfüllung ihrer vertraglichen Verpflichtungen Subunternehmer bedienen wollte oder auch bediente, bedeutet – entgegen ihrer Ansicht – nicht die Übernahme der organisatorischen Abwicklung. Es realisierte sich damit nicht das vereinbarte, sondern ein darüber hinausgehendes Risiko.
+[12] 		6. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0070OB00193.21I.1215.000

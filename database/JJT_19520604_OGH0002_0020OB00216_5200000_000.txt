@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.06.1952
+Geschäftszahl
+2Ob216/52
+Norm
+ABGB §1295 (1);
+Betriebsrätegesetz §16 (1);
+Betriebsrätegesetz §25;
+Kopf
+SZ 25/152
+Spruch
+Keine Haftung der Betriebsratsmitglieder für den dem Dienstnehmer daraus erwachsenen Schaden, daß die Anfechtung einer Kündigung nicht gehörig fortgesetzt worden ist.
+Entscheidung vom 4. Juni 1952, 2 Ob 216/52.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Betriebsrat des Unternehmens, bei dem der Kläger beschäftigt gewesen ist, hatte dessen Kündigung beim Einigungsamt angefochten; da der Betriebsrat die ihm zur Verbesserung zurückgestellte Anfechtung nicht innerhalb der ihm gewährten Frist wieder vorgelegt hat, ist die Anfechtung zurückgewiesen worden. Der Kläger machte deshalb gegen den Beklagten als den Vorsitzenden des Betriebsrates Schadenersatzansprüche geltend.
+Das Erstgericht wies das Klagebegehren ab.
+Das Berufungsgericht hob das erstgerichtliche Urteil unter Rechtskraftvorbehalt auf. Der Oberste Gerichtshof hob den Beschluß des Berufungsgerichtes auf und trug ihm eine neuerliche Entscheidung über die Berufung des Klägers auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Dem Erstgericht ist darin beizupflichten, daß § 16 Abs. 1 Satz 2 BRG. dahin zu verstehen ist, daß damit auch eine zivilrechtliche Haftung der Mitglieder des Betriebsrates aus ihrer Tätigkeit als Betriebsratsmitglieder ausgeschlossen werden soll. Der Schluß des Berufungsgerichtes, daß den einzelnen Betriebsangehörigen ein Schadenersatzanspruch eingeräumt werden müsse, weil die Betriebsversammlung mangels Rechtspersönlichkeit gegen die Betriebsratsmitglieder keine Schadenersatzansprüche erheben könne, ist nicht zwingend. Die angeführte gesetzliche Bestimmung ist damit zu erklären, daß die Betriebsratsmitglieder als öffentlichrechtliche Mandatare die Interessen der betriebsangehörigen Dienstnehmer zu vertreten haben (§ 3 Abs. 1 lit a BRG.) und das Gesetz bei dieser Vertretung unterlaufene Fehler als Verstöße gegen die Pflichten aus dem öffentlich-rechtlichen Auftrag, nicht aber als Verstöße gegen Rechte einzelner Betriebsangehöriger betrachtet.
+Dazu kommt folgendes: Der von einer Kündigung betroffene Dienstnehmer hat weder ein Recht darauf, daß der Betriebsrat im Sinne des § 25 Abs. 3 BRG. der Kündigung widerspricht, noch darauf, daß der Betriebsrat gemäß § 25 Abs. 4 BRG. bei Nichtbeachtung seines Widerspruches die Kündigung beim Einigungsamte anficht. Der Dienstnehmer hat lediglich das Recht, bei Ablehnung dieser Anfechtung diese selbst vorzunehmen (§ 25 Abs. 5 BRG.). Der Betriebsrat muß daher auch als berechtigt angesehen werden, ebenso wie einen von ihm gegen die Kündigung erhobenen Widerspruch auch die von ihm vorgenommene Anfechtung zurückzunehmen, und dieses Recht kann nicht etwa deshalb bestritten werden, weil das Gesetz dem Dienstnehmer in diesem Falle nicht ausdrücklich ein selbständiges Anfechtungsrecht gewährt. Daß der Betriebsrat dieses Recht offenbar nur zu dem Zweck ausübt, um den Dienstnehmer zu schädigen (§ 1295 Abs. 2 ABGB.), wird kaum in Frage kommen, da es ja dem Betriebsrat von allem Anfang an freisteht, die Kündigung unwidersprochen zu lassen. Wenn aber mangels Rechtswidrigkeit Schadenersatzansprüche gegen ein Betriebsratsmitglied nicht daraus abgeleitet werden können, daß der Betriebsrat die von ihm vorgenommene Anfechtung der Kündigung zurücknimmt, können solche Schadenersatzansprüche mangels Rechtswidrigkeit noch weniger daraus abgeleitet werden, daß der Betriebsrat fahrlässig den Mißerfolg seiner Anfechtung verschuldet hat.

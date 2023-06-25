@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.02.1972
+Geschäftszahl
+4Ob2/72
+Norm
+KO §7 Abs1;
+ZPO §163;
+ZPO §165 Abs2;
+Kopf
+SZ 45/19
+Spruch
+Ein unterbrochenes Verfahren kann nur auf Gerichtsbeschluß (§ 165 Abs 2 ZPO) aufgenommen werden. Weder der Zustellung der Gleichschrift des Aufnahmeantrages an den Masseverwalter noch der Erhebung eines Rechtsmittels kommt die Wirkung der beschlußmäßigen Aufnahme eines nach § 7 Abs 1 KO unterbrochenen Verfahrens zu, weil die Zivilprozeßordnung stillschweigende Prozeßhandlungen und Entscheidungen nicht kennt
+Während der Unterbrechung des Verfahrens nach § 7 Abs 1 KO sind Prozeßhandlungen der anderen Partei gegenüber unwirksam. Das Gericht hat sie allerdings zum Gegenstand seiner Verfügung zu machen, es muß sie zurückweisen oder als der anderen Partei gegenüber unwirksam erklären
+Erachtet sich aber eine Partei durch eine trotz Verfahrensunterbrechung ergangene Entscheidung beschwert, kann es ihr nicht verwehrt werden, die ihr zugestellte Entscheidung anzufechten, wenn sie damit einen Verstoß gegen § 7 Abs 1 KO geltend machen will. Wegen aller anderen Berufungsgrunde kann nach Aufhebung der Unterbrechung innerhalb der dann neu laufenden Berufungsfrist eine neuerliche Berufung erhoben werden
+OGH 29. 2. 1972, 4 Ob 2/72 (LGZ Graz 2 Cg 42/71; ArbG Graz 2 Cr 24/71)
+Text
+Die Klägerin erwirkte am 8. 2. 1971 gegen Johann H, über dessen Vermögen am 2. 9. 1970 das Ausgleichsverfahren eröffnet worden war, ein Versäumungsurteil. Am 9. 2. 1971 wurde über sein Vermögen das Konkursverfahren (Anschlußkonkurs) eröffnet. Das Versäumnisurteil wurde dem Masseverwalter am 23. 2. 1971 zugestellt. Er gab am 28. 2. 1971 eine Berufung zur Post, in der er nur Nichtigkeit des Verfahrens geltend machte, dies mit der Begründung, im Fall des Anschlußkonkurses erstrecke sich dessen Wirkung auf den Tag der Ausgleichseröffnung; das Versäumnisurteil sei daher nichtig, weil die Klage nicht dem Masseverwalter, sondern dem Gemeinschuldner zugestellt worden sei.
+Das Berufungsgericht entschied über diese Berufung nicht, sondern sprach durch Beschluß aus, daß das Verfahren gemäß § 7 KO unterbrochen sei, und stellte die Akten dem Erstgericht zurück.
+Mit ihrem am 9. 8. 1971 eingebrachten Schriftsatz beantragte die Klägerin die "Fortsetzung des Verfahrens". Das Erstgericht stellte die Gleichschrift dieser Eingabe, ohne die Aufhebung der Unterbrechung zu verfügen, dem Masseverwalter zu. Diese Zustellung erfolgte am 11. 8. 1971. Am 25. 8. 1971 gab der Masseverwalter eine neuerliche Berufung zur Post (ON 8), mit der das Versäumnisurteil abermals mit dem Nichtigkeitsgrund nach § 477 Abs 1 Z 5 ZPO, aber auch in sachlicher Hinsicht bekämpft wurde. Eine Berufungsmitteilung wurde nicht erstattet.
+Daraufhin legte das Erstgericht die neue Berufung vor.
+Das Berufungsgericht wies sie als unzulässig zurück. Die erste Berufung habe mangels Rüge durch den Gegner und mangels Zurückweisung durch das Gericht mit Wegfall der Unterbrechung Rechtswirksamkeit erlangt. Es müsse über sie daher nunmehr entschieden werden. Da einer Partei jedoch die Ergreifung eines Rechtsmittels nur einmal zustehe, sei die nunmehr eingebrachte Berufung unzulässig.
+Der Masseverwalter erhob dagegen Rekurs.
+Das Berufungsgericht wies sie als unzulässig zurück. Die erste Berufung habe mangels Rüge durch den Gegner und mangels Zurückweisung durch das Gericht mit Wegfall der Unterbrechung Rechtswirksamkeit erlangt. Es müsse über sie daher nunmehr entschieden werden. Da einer Partei jedoch die Ergreifung eines Rechtsmittels nur einmal zustehe, sei die nunmehr eingebrachte Berufung unzulässig.
+Der Masseverwalter erhob dagegen Rekurs.
+Der Oberste Gerichtshof gab dem Rekurs nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Während der Unterbrechung des Verfahrens nach § 7 Abs 1 KO sind Prozeßhandlungen der anderen Partei gegenüber unwirksam. Das Gericht hat sie allerdings zum Gegenstand seiner Verfügung zu machen, es muß sie zurückweisen oder als der anderen Partei gegenüber unwirksam erklären (Neumann Komm I 749 Anm 7, SZ 41/93 ua). Anders ist allerdings in einem Fall vorzugehen, in dem sich die Partei durch eine trotz erfolgter Verfahrensunterbrechung ergangene Entscheidung beschwert erachtet. Es kann ihr nicht verwehrt werden, die ihr zugestellte Entscheidung anzufechten, wenn sie damit einen Verstoß gegen § 7 Abs 1 KO geltend machen will (EvBl 1971/59). Im vorliegenden Fall hätte also über die Berufung des Masseverwalters ON 4 schon seinerzeit vom Berufungsgericht entschieden werden können.
+Dem Berufungsgericht ist aber darin nicht zuzustimmen, daß durch die Erhebung der Berufung ON 4 das Berufungsrecht verbraucht worden sei und die Berufung ON 8 deshalb zurückgewiesen werden müsse. Wohl steht die Ergreifung eines Rechtsmittels gegen dieselbe Entscheidung der Partei grundsätzlich nur einmal zu. Hievon muß aber dann abgegangen werden, wenn - wie im vorliegenden Fall - die Berufung zum Zeitpunkt ihrer Einbringung nur aus einem bestimmten Grund, nämlich wegen Verletzung der Unterbrechungsbestimmungen des § 7 KO zulässig ist, die Geltendmachung jedes anderen Berufungsgrundes im Hinblick auf die eingetretene Unterbrechung des Verfahrens aber ausgeschlossen wäre. Daraus folgt, daß der Masseverwalter nach Aufhebung der Unterbrechung innerhalb der dann neu laufenden Berufungsfrist eine neuerliche Berufung erheben kann.
+Im vorliegenden Fall muß es allerdings bei der Zurückweisung der Berufung (ON 8) bleiben. Die Aufnahme des unterbrochenen Verfahrens kann nämlich nur über Gerichtsbeschluß (§ 165 Abs 2 ZPO) erfolgen (Bartsch - Pollak, KO[3] I 43, RiZ 1971, 175). Ein solcher Beschluß wurde aber noch nicht gefaßt. Weder der Zustellung der Gleichschrift des Aufnahmeantrages an den Masseverwalter noch der Erhebung des Rechtsmittels kommt die Wirkung der beschlußmäßigen Aufnahme eines nach § 7 Abs 1 KO unterbrochenen Verfahrens zu, weil die Zivilprozeßordnung stillschweigende Prozeßhandlungen und Entscheidungen nicht kennt (SZ 41/93, RZ 1971, 175). Da also von einer Aufnahme des unterbrochenen Verfahrens durch das Erstgericht nicht ausgegangen werden kann, wäre im Hinblick auf die noch fortdauernde Verfahrensunterbrechung eine Sachentscheidung unzulässig. Es ist daher nicht möglich, dem Berufungsgericht, wie dies im Rekurs beantragt wird, die Fortsetzung des Verfahrens aufzutragen.
+Dem Rekurs kommt somit im Ergebnis Berechtigung nicht zu.
+Sache des Erstgerichtes wird es sein zu prüfen, ob die Voraussetzungen für die förmliche Aufnahme des Verfahrens - sei es nun nach § 7 Abs 2 - sei es nach § 7 Abs 3 KO - gegeben sind.

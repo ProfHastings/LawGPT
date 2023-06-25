@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.2018
+Geschäftszahl
+8ObS3/18a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Dr. Martin Gleitsmann und Mag. Alexander Abele in der  Sozialrechtssache der klagenden Partei DI M***** C*****, vertreten durch Dr. Klaus Rainer, Rechtsanwalt in Graz, gegen die beklagte Partei IEF-Service GmbH, Geschäftsstelle Graz, 8020 Graz, Europaplatz 12, vertreten durch die Finanzprokuratur, wegen Insolvenz-Entgelt (12.774,66 EUR sA), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. Juli 2018, GZ 7 Rs 22/18m-14, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Begründung:
+Rechtliche Beurteilung
+Nach § 3 Abs 3 IESG ist eine einzelvertragliche Anrechnung von Vordienstzeiten unter Bedachtnahme auf § 1 Abs 3 Z 2 IESG der Berechnung des Insolvenz-Ausfallgeldes insoweit zugrundezulegen, als es sich um die Anrechnung von tatsächlich geleisteten Beschäftigungszeiten handelt und solche Zeiten nicht bereits bei früheren Beendigungsansprüchen berücksichtigt wurden (vgl RIS-Justiz RS0076826 [T2, T6, T7]; arbeitsrechtlich vgl RS0028571; 9 ObA 155/17k). Genereller Zweck der Regelung des § 3 Abs 3 IESG ist es, den Umfang der Sicherung von Ansprüchen der Parteiendisposition zu entziehen (vgl 8 ObS 15/16p mwN) und auf das gesetzliche bzw kollektivvertragliche Ausmaß zu beschränken.
+Der Kläger hat nach den Feststellungen im Jahre 2000 anlässlich der einvernehmlichen Beendigung seiner Tätigkeit für einen Dienstgeber und der Begründung eines neuen Dienstverhältnisses mit einer anderen Konzerngesellschaft eine Abfertigung im damals gebührenden gesetzlichen Ausmaß von vier Monatsentgelten erhalten.
+Das Berufungsgericht ist im Einklang mit der dargestellten Rechtslage davon ausgegangen, dass die festgestellte Vereinbarung mit der Insolvenzschuldnerin als nachfolgender Dienstgeberin, die bereits abgefertigten Vordienstzeiten im Falle eines weiteren Abfertigungsanspruchs neuerlich anzurechnen und die erhaltene Abfertigung abzuziehen, gegenüber dem gesetzlichen Anspruch im vorliegenden Fall günstiger war und unbeschadet der arbeitsrechtlichen Wirksamkeit nicht von der – hier allein maßgeblichen – Sicherung nach dem IESG umfasst ist.
+Den Revisionsausführungen gelingt es nicht, Bedenken iSd § 502 Abs 2 ZPO gegen diese Entscheidung aufzuzeigen.
+Mit dem Argument, es habe sich bei der erhaltenen Abfertigung nur um eine „Akontozahlung“ auf den gegen die Insolvenzschuldnerin zustehenden Anspruch gehandelt, wird außer Acht gelassen, dass damit seinerzeit im Zuge eines einvernehmlichen Dienstgeberwechsels ein im Auszahlungszeitpunkt fälliger gesetzlicher Beendigungsanspruch befriedigt wurde und durch Vereinbarungen nicht über die gesetzlichen Vorgaben hinaus gerichtete Ansprüche begründet werden können.
+Eine den gesetzlichen Anspruch übersteigende Abfertigungsvereinbarung kann zwar grundsätzlich im Insolvenzverfahren gegen die Arbeitgeberin geltend gemacht werden, sie bewirkt aber nicht, dass der Mehrbetrag auch nach § 3 Abs 3 IESG gesichert ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:008OBS00003.18A.0924.000

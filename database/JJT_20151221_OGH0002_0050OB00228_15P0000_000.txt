@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.12.2015
+Geschäftszahl
+5Ob228/15p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie durch den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der wohnrechtlichen Außerstreitsache der Antragstellerin L***** AG, *****, vertreten durch Mag. Dr. Günther Schmied und Mag. Markus Passer, Rechtsanwälte in Graz, gegen die Antragsgegnerin G***** GmbH, *****, vertreten durch Dr. Ludwig Beurle und andere Rechtsanwälte in Linz, wegen § 37 Abs 1 Z 8 MRG iVm § 12a Abs 3 MRG, über den außerordentlichen Revisionsrekurs der Antragsgegnerin gegen den Sachbeschluss des Landesgerichts Linz als Rekursgericht vom 14. September 2015, GZ 14 R 79/15h-39, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 37 Abs 3 Z 16 MRG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Zur Anwendung des § 12a Abs 3 MRG wird nach herrschender Ansicht die sogenannte Machtwechseltheorie vertreten. Danach liegt eine entscheidende Änderung in der Regel erst nach einem Kippen des Mehrheitsverhältnisses vor. Jede andere Änderung der rechtlichen und wirtschaftlichen Einflussmöglichkeit in der Gesellschaft (juristischen Person) bedarf der Darlegung besonderer Umstände, um sie als „entscheidend“ iSd § 12a Abs 3 MRG qualifizieren zu können (RIS-Justiz RS0108983).
+2. Zu dieser Machtwechseltheorie hat sich auch der erkennende Senat in jüngerer Zeit ausdrücklich bekannt (5 Ob 198/09t = wobl 2010/126, 274 [zust Vonkilch] = immolex 2010/85, 252 [Limberg]; 5 Ob 91/12m = GesRZ 2013, 294 [Schauer] = NZ 2013/40 [zust Walcher]; 5 Ob 196/13d). Sie entspricht auch der herrschenden Lehre (vgl insbesondere Schauer, Geschäftsraummiete und Unternehmensübertragung, GesRZ 1994, 12; ders, Aktuelle Entwicklungen in der Rechtsprechung des Obersten Gerichtshofs zu § 12a MRG, wobl 1999, 39; ders, § 12a Abs 3 ABGB revisited: Alles zurück zum Start? wobl 2004, 229; ders, Neues zu § 12a Abs 3 MRG - oder: Landunter in der Judikatur des 5. Senats, ecolex 2005, 26; Vonkilch, Mietzinsanhebung nach § 12a Abs 3 MRG: 5. Senat bricht mit herrschender Rechtsprechung! GesRZ 2004, 121; ders in Hausmann/Vonkilch, Österreichisches Wohnrecht, § 12a MRG Rz 42 mwN).
+3. Im Sinne dieser Machtwechseltheorie führt der Wechsel von Minderheitsbeteiligungen an einer Kapitalgesellschaft nicht zur Änderung der rechtlichen und wirtschaftlichen Entscheidungsmöglichkeiten. Diese liegt nur dann vor, wenn es dem Machtträger aufgrund seiner gesellschaftsrechtlichen Position möglich ist, die Geschicke der Gesellschaft faktisch zu bestimmen (RIS-Justiz RS0111297).
+4. Jene Judikatur des Obersten Gerichtshofs, die die Veräußerung oder Übertragung von „Minderheitsbeteiligungen“ als Anwendungsfall des § 12a Abs 3 MRG erkannten, wurde hingegen ganz überwiegend abgelehnt; insbesondere zu 5 Ob 262/02v: Schauer, § 12a Abs 3 ABGB revisited: Alles zurück zum Start?, wobl 2004, 229, ders, Neues zu § 12a Abs 3 MRG - oder: Landunter in der Judikatur des 5. Senats, ecolex 2005, 26; Vonkilch, Mietzinsanhebung nach § 12a Abs 3 MRG: 5. Senat bricht mit herrschender Rechtsprechung!, GesRZ 2004, 121; vgl Winkler/Vaclavek, Gesellschafterwechsel und Mietzinsanhebung - Neues vom OGH?, § 12a Abs 3 MRG im Lichte des Urteils OGH 10. 2. 2004, 5 Ob 262/02v Teil I, RdW 2005/180, 149, und Teil II RdW 2005/247, 208 sowie zu 9 Ob 53/11a = wobl 2012/95, 331 Vonkilch (wobl 2012, 332 f). Im Gegensatz dazu nimmt Edelhauser in seiner Glosse zu 9 Ob 53/11a (immolex 2012/47) einen Machtwechel im Verhältnis zur Gesellschaft auch dann an, wenn es zu einer Anteilsverschiebung um mehr als 50 % von Streubesitz zu Streubesitz kommt.
+5. Dieses vereinzelt gebliebene Abweichen von der in der jüngeren Judikatur nach wie vor vertretenen Machtwechseltheorie begründet keine erhebliche Rechtsfrage iSd § 71 Abs 1 AußStrG (vgl RIS-Justiz RS0042690 [T3]).
+6. Im vorliegenden Fall war keiner der Alt- oder Neuaktionäre jemals zu mehr als 50 % an der Mietergesellschaft oder einer übergeordneten Konzerngesellschaft beteiligt. Nach der herrschenden Machtwechseltheorie ist die Rechtsansicht der Vorinstanzen jedenfalls vertretbar, dass diese Veränderungen von Minderheitsbeteiligungen keine entscheidende Änderung iSd § 12a Abs 3 MRG bewirkten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0050OB00228.15P.1221.000

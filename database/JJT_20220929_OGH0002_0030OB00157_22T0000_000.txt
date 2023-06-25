@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.09.2022
+Geschäftszahl
+3Ob157/22t
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Familienrechtssache des Antragstellers Ing. S*, vertreten durch Sattlegger Dorninger Steiner & Partner Anwaltssocietät in Linz, gegen die Antragsgegnerin Dr. I*, wegen Einwendungen gegen den Anspruch (§ 35 EO), über den Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 28. Jänner [richtig:] 2022, GZ 48 R 195/21p-17, womit der Beschluss des Bezirksgerichts Floridsdorf vom 27. Juli 2021, GZ 13 Fam 45/21p-10, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Rekursgericht bestätigte die Abweisung des auf Verjährung des betriebenen Unterhaltsrückstands gestützten Oppositionsantrags. Es ließ den ordentlichen Revisionsrekurs nachträglich mit der Begründung zu, dass Rechtsprechung des Obersten Gerichtshofs zur Frage fehle, ob der (überflüssigen) „Feststellung des Gesamtrückstands“ im Unterhaltserhöhungsbeschluss verjährungsunterbrechende Wirkung zukomme.
+Rechtliche Beurteilung
+[2] 		Die Zurückweisung eines ordentlichen Revisionsrekurses wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 71 Abs 3 AußStrG).
+[3] 		1. Gemäß § 1480 ABGB verjähren Forderungen von rückständigen jährlichen Leistungen, zu denen insbesondere rückständige Unterhaltsbeiträge zählen, in drei Jahren, während das Recht selbst (erst) durch einen Nichtgebrauch von dreißig Jahren verjährt.
+[4] 		2. Nach der – weiterhin dem Rechtsbestand angehörenden (vgl 4 Ob 128/18d mwN) – JMV vom 21. Juli 1858, RGBl 1858/105, verjähren Forderungen, die durch ein rechtskräftiges Urteil zugesprochen oder durch einen die Exekution begründenden Vergleich oder Vertrag anerkannt sind, auch dann gemäß den §§ 1478, 1479 ABGB erst nach 30 Jahren, wenn für sie sonst eine kürzere Verjährungsfrist gilt. Wird jedoch in einem Urteil nicht bloß auf Zahlung bereits verfallener, sondern auch der künftig verfallenden jährlichen Abgaben, Zinsen, Renten oder Dienstleistungen erkannt, so unterliegen die nach der Rechtskraft des Urteils verfallenen „Giebigkeiten“ nach dieser Verordnung neuerdings der im § 1480 ABGB festgesetzten dreijährigen Verjährung. Schon der Größenschluss erfordert die Auslegung, dass dasselbe auch für Leistungen der genannten Art zutrifft, die aufgrund eines Vergleichs gebühren und die erst nach Abschluss des Vergleichs fällig werden. Es ist daher insbesondere auch auf die erst nach Abschluss des Vergleichs fällig werdenden wiederkehrenden Unterhaltsbeträge § 1480 ABGB anzuwenden. Der Anspruch auf Bezahlung dieser Beträge verjährt demnach in drei Jahren (3 Ob 126/95 mwN).
+[5] 		3. Dass die Vorinstanzen den Unterhaltserhöhungsbeschluss vom 20. September 2019 dahin auslegten, dass er bezüglich des hier allein strittigen (ursprünglich bereits aus dem Vergleich vom 24. Oktober 2012 resultierenden) Unterhaltsanspruchs der Antragsgegnerin für den Zeitraum Mai 2017 bis Mai 2018 eine Judikatschuld begründet habe, stellt keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung dar. Angesichts der Formulierung des Spruchs dieses Beschlusses kann nämlich von einer bloß deklarativen „Ermittlung des Unterhaltsrückstands ab 1. Jänner 2017“ keine Rede sein, sind diese Rückstände doch auch von dem vom Erstgericht formulierten Leistungsbefehl umfasst. Die vom Antragsteller aufgeworfenen Widmungs- und Verjährungsfragen stellen sich daher nicht.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0030OB00157.22T.0929.000

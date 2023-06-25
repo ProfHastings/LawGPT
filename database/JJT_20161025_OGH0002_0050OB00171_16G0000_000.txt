@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2016
+Geschäftszahl
+5Ob171/16g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Grundbuchsache des Antragstellers W*****, vertreten durch MMag. Dr. Manfred Schnetzer, Rechtsanwalt in Dornbirn, wegen Grundbuchseintragungen in EZ ***** KG *****, über den außerordentlichen Revisionsrekurs des Antragstellers gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 17. August 2016, AZ 1 R 215/16z, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+Der Antragsteller ist Alleineigentümer einer Liegenschaft, auf der ein Belastungs- und Veräußerungsverbot gemäß § 364c ABGB für seine Ehegattin einverleibt ist.
+Das Landesgericht Feldkirch ordnete in einer Strafsache gegen den Antragsteller nach § 115 Abs 1 Z 3 und Abs 4 StPO iVm § 109 Z 2 lit b StPO die Beschlagnahme durch das gerichtliche Verbot der Veräußerung, Belastung und Verpfändung der Liegenschaft an.
+Das Erstgericht ordnete den Vollzug dieser Eintragung an.
+Das Rekursgericht gab dem Rekurs des Antragstellers nicht Folge und sprach aus, dass der Wert des Entscheidungsgegenstands 30.000 EUR übersteigt und der ordentliche Revisionsrekurs nicht zulässig sei.
+Rechtliche Beurteilung
+Der Antragsteller zeigt in seinem außerordentlichen Revisionsrekurs keine erhebliche Rechtsfrage iSd § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG auf.
+1. § 94 Abs 2 GBG ordnet an, dass sich das Grundbuchsgericht bei grundbücherlichen Eintragungen, die – wie hier – nicht vom Grundbuchsgericht, sondern von einem anderen Gericht bewilligt werden, darauf zu beschränken hat, über die Zulässigkeit der Eintragung mit Rücksicht auf den Grundbuchstand zu entscheiden. Alle Argumente, die gegen die Richtigkeit der (hier) bewilligenden grundbücherlichen Entscheidung sprechen, sind im Rekurs gegen die Bewilligung vorzubringen. Im Rekurs gegen die Vollzugsentscheidung sind sie nach der ausdrücklichen Anordnung des § 94 Abs 2 letzter Satz GBG unangebracht (RIS-Justiz RS0002519 [T3]; RS0001316; 5 Ob 119/14g).
+2. Das im vorliegenden Fall nach § 364c ABGB unter Nachweis der Angehörigeneigenschaft verbücherte Belastungs- und Veräußerungsverbot bewirkte grundsätzlich eine allgemeine Grundbuchsperre für sämtliche rechtsgeschäftlich oder zwangsweise begehrten, vom Verbot erfassten Eintragungen (RIS-Justiz RS0002595 [T16]). Als Belastungsverbot verbietet es nach der Rechtsprechung des Obersten Gerichtshofs die (auch) zwangsweise Einverleibung von Pfandrechten (RIS-Justiz RS0002595) oder die Vormerkung eines Zwangspfandrechts (RIS-Justiz RS0110893). Die Rechtsposition der Verbotsberechtigten wird jedoch durch die spätere Begründung einer zusätzlichen Eigentumsbeschränkung wie durch die Einverleibung eines weiteren Veräußerungs- und Belastungsverbots nach § 364c ABGB oder ein sicherungsweise erwirktes Veräußerungsverbot nicht beeinträchtigt (RIS-Justiz RS0010721 [T3, T4]; RS0010739 [T3]).
+3. Der Revisionsrekurswerber hält die hier nach § 115 Abs 1 Z 3 iVm § 109 Z 2 lit b StPO angeordnete Beschlagnahme durch Erlassung eines gerichtlichen Veräußerungs- und Belastungsverbots einer zwangsweisen Pfandrechtsbegründung oder der Vormerkung eines Zwangspfandrechts gleich. Die Beschlagnahme sei nur zulässig, wenn die sichergestellte Liegenschaft voraussichtlich dazu dienen werde, eine gerichtliche Entscheidung auf Konfiskation (§ 19a StGB), auf Verfall (§ 20 StGB), auf erweiterten Verfall (§ 20b StGB), auf Einziehung (§ 26 StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung zu sichern, deren Vollstreckung andernfalls gefährdet oder wesentlich erschwert würde. Sie beschränke daher nicht nur den Eigentümer, sondern belaste die Liegenschaft.
+4. Die Beschlagnahme als solche, mag sie auch Vorstufe zu einer möglichen Verwertung der Liegenschaft als Folge von künftigen Anordnungen durch das Strafgericht sein, bewirkt per se noch keine Belastung der Liegenschaft. Sie hat vergleichbar mit der Einstweiligen Verfügung nach der EO, auf deren Bestimmungen § 115 Abs 4 StPO verweist, lediglich Sicherungscharakter, indem die Verfügungsmöglichkeit des Eigentümers einstweilig beschränkt wird. Sie ist nicht anders zu behandeln als ein anderes sicherungsweise erwirktes Belastungs- und Veräußerungsverbot, das nach der höchstgerichtlichen Rechtsprechung lediglich eine verdinglichte Eigentumsbeschränkung bewirkt (RIS-Justiz RS0010739 [T1]; 5 Ob 101/08a).
+5. Die Frage, ob die Anordnung der Beschlagnahme nach den Bestimmungen der StPO zulässig war, ist ausschließlich in jenem Verfahren geltend zu machen, in dem die Beschlagnahme angeordnet wurde.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00171.16G.1025.000

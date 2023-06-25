@@ -1,0 +1,41 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2020
+Geschäftszahl
+7Ob201/19p
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei A***** H*****-H*****, vertreten durch Vogl Rechtsanwalt GmbH in Feldkirch, gegen die beklagte Partei O***** Aktiengesellschaft, *****, vertreten durch die MUSEY rechtsanwalt gmbH in Salzburg, wegen 43.249,40 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 15. Oktober 2019, GZ 2 R 143/19s-41, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat mit der Beklagten einen Versicherungsvertrag abgeschlossen, der (ua) eine Einzelunfallversicherung umfasst, der die Allgemeinen Bedingungen für die Unfallversicherung 2012 (AUVB 2012) zugrundeliegen. Diese lauten auszugsweise:
+„[…]
+Artikel 7
+Dauernde Invalidität
+[…]
+2. Voraussetzungen für die Leistung:
+Die versicherte Person ist durch den Unfall auf Lebenszeit in ihrer körperlichen oder geistigen Leistungsfähigkeit (Invalidität) beeinträchtigt.
+Die Invalidität ist innerhalb eines Jahres nach dem Unfall eingetreten
+[…]
+3.2. Bei völligem Verlust oder völliger Funktionsunfähigkeit der nachstehend genannten Körperteile und Sinnesorgane gelten ausschließlich die folgenden Invaliditätsgrade:
+eines Armes  . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .  . . . 70 %
+[…]
+3.3. Bei teilweisem Verlust oder teilweiser Funktionsbeeinträchtigung gilt der entsprechende Teil des jeweiligen Prozentsatzes.
+[…]
+6. Steht der Grad der dauernden Invalidität nicht eindeutig fest, sind sowohl die versicherte Person als auch wir berechtigt, den Invaliditätsgrad jährlich bis 4 Jahre ab dem Unfalltag ärztlich neu bemessen zu lassen.
+[…].“
+Die Vorinstanzen haben für die dem Kläger nach einem Unfall im Jahre 2015 zustehende Invaliditätsleistung eine teilweise Funktionsunfähigkeit eines Arms von 15 % des Armwerts angenommen. In der gegen diese Beurteilung gerichteten Revision zeigt der Kläger keine erhebliche Rechtsfrage auf.
+Rechtliche Beurteilung
+1. „Dauernde Invalidität“ ist der gänzliche oder teilweise Verlust von Körperteilen oder Organen und/oder die Einschränkung der körperlichen organischen oder geistigen Funktionsfähigkeit (7 Ob 301/03w = VR 2005, 106; 7 Ob 191/15m). Sie muss innerhalb eines Jahres nach dem Unfall objektiv vorhanden sein. Eine Neubemessung ist nach Maßgabe des Art 7.6. AUVB 2012 möglich. Maßgeblich ist daher der Invaliditätsgrad bis maximal zum Ablauf der Vierjahresfrist. Der Invaliditätsgrad zu einem späteren Zeitpunkt ist unerheblich (7 Ob 173/18v mwN).
+2. Für den Fall einer dauernden Invalidität des Versicherten hat der Versicherer die sich aus der Versicherungssumme und dem Grad der Invalidität zu berechnende Versicherungsleistung zu erbringen. Die zwischen den Streitteilen vereinbarte Gliedertaxe bestimmt nach einem abstrakten und generellen Maßstab feste Invaliditätsgrade bei Verlust oder Funktionsunfähigkeit der mit ihr benannten Glieder. Bei teilweisem Verlust oder teilweiser Funktions- oder Gebrauchsunfähigkeit wird der entsprechende Teil des Prozentsatzes angenommen (7 Ob 191/15m).
+3.1. Die Feststellung des Invaliditätsgrades im Sinn der Beeinträchtigung der körperlichen und geistigen Funktionsfähigkeit nach medizinischen Gesichtspunkten stellt eine Tatfrage dar, die im Revisionsverfahren nicht überprüft werden kann (RS0118909).
+3.2. Die Ausführung des Sachverständigen, wonach sich nach einem näher bezeichneten Lehrbuch „für eine straffe Pseudarthrose […] ein Zuschlag von 10 % des Armwertes [ergibt]“ ist dabei deshalb unerheblich, weil dieser damit keine, vom Erstgericht auch nicht festgestellte, für den Invaliditätsgrad aber gerade maßgebliche – zusätzliche – Beeinträchtigung der körperlichen Funktionsfähigkeit beschreibt. Es liegt daher entgegen dem Standpunkt des Klägers keine Verkennung von Tat- und Rechtsfragen durch die Vorinstanzen vor, sondern der Kläger geht mit der Behauptung, dass allein aufgrund der Verplattung/Verschraubung eine – zusätzliche – Funktionsbeeinträchtigung vorliege, nicht vom festgestellten Sachverhalt aus. Das Erstgericht hat nämlich ausdrücklich festgestellt, dass, solange die Platte vorhanden ist, keine Instabilität besteht und sich daher die straffe Pseudarthrose aufgrund der vorhandenen Verplattung nicht auswirkt. Wenn daher die Vorinstanzen allein aufgrund des Bestehens der straffen Pseudarthrose mangels daraus resultierender (zusätzlicher) Beeinträchtigung der körperlichen Funktionsfähigkeit keinen „Zuschlag“ beim Invaliditätsgrad vornahmen, dann hält sich dies im Rahmen des Invaliditätsbegriffs (vgl Punkt 1.) und vergleichbarer Judikatur (7 Ob 301/03w).
+4. Fragen nach der Beweislastverteilung stellen sich nicht, weil das Erstgericht den Zustand betreffend den Oberarmbruch des Klägers und dessen Funktionsfähigkeit festgestellt hat und dieser aus derzeitiger Sicht einen Endzustand darstellt.
+5. Vom Kläger angestellte Mutmaßungen darüber, dass es künftig zu einem Plattenbruch oder einem Infekt, sodann zu einer Entfernung des Osteosynthesematerials und infolge dessen zu einer instabilen Situation des Oberarms kommen könne, sind rechtlich irrelevant. Änderungen (im Fall der Neubemessung) nach Ablauf der Vierjahresfrist sind nämlich jedenfalls unerheblich (vgl Punkt 1.).
+6. Der Kläger macht somit insgesamt keine erhebliche Rechtsfrage geltend. Mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO ist daher die Revision nicht zulässig und zurückzuweisen. Einer weitergehenden Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00201.19P.0219.000

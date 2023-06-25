@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+15.03.2021
+Geschäftszahl
+6Ob238/20y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Schramm als Vorsitzenden, die Hofräte Hon.-Prof. Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny sowie die Hofrätin Dr. Faber als weitere Richter in der Rechtssache der klagenden Partei S***** GmbH, *****, vertreten durch Dr. Daniel Charim, Mag. Jakob Charim, Rechtsanwälte in Wien, gegen die beklagte Partei L*****, vertreten durch Dr. Udo Elsner, Rechtsanwalt in Wien, wegen Kündigung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien als Berufungsgericht vom 23. September 2020, GZ 40 R 89/20i-17, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Der Verzicht auf einen Kündigungsgrund unter dem Gesichtspunkt des § 863 ABGB hat zur Voraussetzung, dass das Zuwarten des Vermieters mit der Aufkündigung unter Umständen erfolgt, aus denen mit Überlegung aller Umstände kein vernünftiger Grund daran zu zweifeln übrig bleibt, dass der Vermieter den ihm bekannten Sachverhalt nicht mehr als Kündigungsgrund geltend machen will (RS0014423 [T2]).
+[2] 		Die Beurteilung, ob der Vermieter schlüssig auf die Geltendmachung eines Kündigungsgrundes verzichtet hat, hängt von sämtlichen Umstände des einzelnen Falls ab und stellt daher im Regelfall keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO dar (RS0107199; RS0014420 [T16]). Auch die Auslegung der Reichweite eines Kündigungsverzichts des Vermieters ist aufgrund der Umstände des Einzelfalls zu beurteilen (RS0070635 [T2]).
+[3] 		Eine vom Obersten Gerichtshof aus Gründen der Rechtssicherheit aufzugreifende Fehlbeurteilung wird hier nicht aufgezeigt.
+[4] 		Das Berufungsgericht kam zum Ergebnis, der Beklagte habe davon ausgehen können, dass auf Vermieterseite nicht mehr die Absicht bestanden habe, die fehlenden Voraussetzungen für seinen Eintritt in das Mietverhältnis nach § 14 MRG als Grund für eine Aufkündigung (§ 30 Abs 2 Z 5 MRG) heranzuziehen, weil die Rechtsvorgängerin der Klägerin, nachdem in einem (von der damaligen Klägerin aus anderen Gründen verlorenen) Vorprozess das Fehlen dieser Voraussetzungen hervorgekommen war, eine neue Kündigung dennoch nur noch auf § 30 Abs 2 Z 6 MRG gestützt hatte (womit sie nicht durchdrang) und die Klägerin selbst nach dem Kauf der gegenständlichen Wohnung trotz Kenntnis des Fehlens der Voraussetzungen des § 14 MRG die vorliegende, auf § 30 Abs 2 Z 5 MRG gestützte Kündigung erst nach beträchtlichem Zuwarten einbrachte.
+[5] 		Damit berücksichtigte das Berufungsgericht – entgegen dem Revisionsvorbringen – auch das Verhalten der Klägerin selbst.
+[6] 		Dass in der Beurteilung des Berufungsgerichts kein Widerspruch zu der von der Revisionswerberin ins Treffen geführten (unveröffentlichten) Entscheidung 6 Ob 733/83 liegt, wurde bereits vom Berufungsgericht zutreffend ausgeführt. Demnach gibt der Vermieter durch die Einbringung zweier Kündigungen zwar zu erkennen, dass er die Beendigung des Mietverhältnisses anstrebt (RS0014423 [T8]); dies steht aber der Annahme eines schlüssigen Verzichts auf die Geltendmachung eines bestimmten Kündigungsgrundes (hier: § 30 Abs 2 Z 5 MRG) im konkreten Einzelfall nicht entgegen.
+[7] 		Da insgesamt keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO geltend gemacht wird, ist die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2021:0060OB00238.20Y.0315.000

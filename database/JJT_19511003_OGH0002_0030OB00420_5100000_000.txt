@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.10.1951
+Geschäftszahl
+3Ob420/51
+Norm
+ABGB §871;
+ABGB §1090;
+EO §354;
+Kopf
+SZ 24/256
+Spruch
+Die Aufhebung eines bereits erfüllten Wohnungstauschvertrages wegen Irrtums ist möglich, doch kann nicht auf Räumung der vom Kläger früher benützten Wohnung, die inzwischen wieder im Tauschwege an einen Dritten weitergegeben wurde, geklagt werden.
+Entscheidung vom 3. Oktober 1951, 3 Ob 420/51.
+I. Instanz: Bezirksgericht Innere Stadt - Wien; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die Klägerin hat ihre Mietwohnung im Hause Wien, III., X.-straße 6/6 mit der Wohnung Nr. 5 im Hause Wien, III., Y.-gasse 1, dessen Eigentümer der Beklagte ist, auf Grund einer mit dem Beklagten getroffenen Vereinbarung getauscht. Sie behauptet in der Klage, bei dem Vertragsabschluß vom Beklagten in Irrtum geführt worden zu sein, und stellt das Begehren, den Tauschvertrag für nichtig zu erklären und den Beklagten zu verurteilen, auf seine Kosten zwecks Wiederherstellung des früheren Zustandes der Klägerin die Wohnung Y.-gasse 1/5 gegen Räumung der Wohnung X.-straße 6/6 binnen 14 Tagen bei Exekution geräumt zu übergeben.
+Das Gericht erster Instanz hat die Klagsbehauptungen als erwiesen angenommen und dem Klagebegehren stattgegeben.
+Das Berufungsgericht nahm auf Grund des vom Erstrichter festgestellten Sachverhaltes als erwiesen an, daß der Irrtum über die Beschaffenheit der Wohnung Nr. 6 im Hause X.straße Nr. 6 vom Beklagten zumindest veranlaßt wurde und daß daher jedenfalls die Voraussetzungen nach § 871 ABGB. vorliegen. Es berücksichtigte auch die in der Berufungsverhandlung erfolgte Außerstreitstellung, daß schon zur Zeit der Klagseinbringung die Wohnung Nr. 5 im Hause Y.gasse 1 vom Beklagten an Paul H. auf Grund eines neuerlichen Wohnungstausches vermietet war.
+Das Berufungsgericht schloß aus diesem Sachverhalte, daß das Räumungsurteil gegen Paul H. nicht vollstreckt werden könnte. Es wies auch darauf hin, daß die Klägerin hätte behaupten müssen, die Eigentümerin des Hauses X.straße 6 sei bereit, dem Beklagten die Wohnung Nr. 6 wieder zu vermieten. Schließlich könne (Roquette, Mietrecht S. 153) ein bereits vollzogener Wohnungstausch überhaupt nicht mehr rückgängig gemacht werden, da die Ungiltigkeit des Eintrittsvertrages nicht auch die auf seiner Grundlage geschlossenen Mietverträge beseitige. Aus diesen Erwägungen gelangte das Berufungsgericht zur Abweisung beider Klagebegehren.
+Der Oberste Gerichtshof gab der Revision der Klägerin teilweise Folge und stellte das Urteil des Prozeßgerichtes, soweit dieses den zwischen den Streitteilen geschlossenen Wohnungstauschvertrag als nichtig aufhob, wieder her; im übrigen wurde der Revision nicht Folge gegeben.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Auf Grund der Feststellungen der Untergerichte liegen gemäß § 871 ABGB. die Voraussetzungen für die Anfechtung des Tauschvertrages vor. Die vom Berufungsgerichte dagegen ins Treffen geführten Bedenken können nicht als stichhältig angesehen werden, denn es ist zwischen dem Wohnungstauschvertrage und den auf Grund dieses Vertrages mit den Hauseigentümern abgeschlossenen Mietverträgen zu unterscheiden.
+Die Anfechtbarkeit eines durch Irrtum veranlaßten Vertrages hängt nicht davon ab, ob die im Zuge seiner Durchführung geschlossenen weiteren Verträge wieder beseitigt werden können, ob also der frühere Zustand wieder hergestellt werden kann. Diese Frage hat mit der Giltigkeit des Tauschvertrages nichts zu tun, da im Falle seiner Ungiltigkeit die Rechtslage auch in anderer Weise, allenfalls durch Leistung von Schadenersatz, bereinigt werden kann. Auch der Hinweis auf das Werk Roquettes geht ins Leere, da dort von der Anfechtbarkeit von Mietverträgen und vom Rücktausche vollzogener Leistungen die Rede ist. Aus diesem Gründe war dem Feststellungsbegehren auf Grund des erwiesenen Sachverhaltes stattzugeben.
+Hingegen ist bei Beurteilung des Leistungsbegehrens davon auszugehen, daß dieses nicht auf die Räumung einer Wohnung gerichtet sein kann, die von einem Dritten gemietet ist und benützt wird, da dessen Mietrecht der Exekution nach § 349 EO. im Wege stunde. Diese Rechtslage hatte das Berufungsgericht von Amts wegen zu berücksichtigen.
+Falls die Klägerin behauptet, daß der neue Mieter nicht gutgläubig gewesen sei, als er die Wohnung Nr. 5 mietete, hätte sie die Räumungsklage gegen ihn einzubringen. Es wäre daher zwecklos, im vorliegenden Verfahren die Gutgläubigkeit des Genannten zu erörtern. Für das Räumungsbegehren ist es auch unerheblich, ob es dem Beklagten möglich wäre, der Klägerin die Wohnung Nr. 5 wieder zu verschaffen, da das vorliegende Räumungsbegehren nicht zu einer Exekution nach § 354 EO. führen kann.
+Der Hinweis der Revision auf das Alternativbegehren ist aktenwidrig, denn es liegt nur eine alternative Ermächtigung vor. Die Sache ist daher auch in Ansehung des Leistungsbegehrens spruchreif. Aus den dargelegten Gründen gelangt der Oberste Gerichtshof zur Bestätigung der abweisenden Entscheidung.

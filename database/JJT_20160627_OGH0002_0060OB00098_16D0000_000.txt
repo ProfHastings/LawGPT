@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.06.2016
+Geschäftszahl
+6Ob98/16d
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Rechtssache der klagenden Partei Mag. R***** K*****, gegen die beklagten Parteien 1. Mag. Martin Kirnbauer als Masseverwalter im Konkurs über das Vermögen der P***** GmbH, *****, vertreten durch Karasek Wietrzyk Rechtsanwälte GmbH in Wien, und 2. H***** GmbH, *****, vertreten durch Fellner Wratzfeld & Partner Rechtsanwälte GmbH in Wien, sowie der Nebenintervenientin auf Seite der beklagten Partei Dr. Matthias Schmidt, Rechtsanwalt, 1010 Wien, Universitätsring 12, als Masseverwalter im Konkurs über das Vermögen der D***** GmbH, *****, über den Revisionsrekurs des Klägers gegen den Beschluss des Handelsgerichts Wien vom 3. Juni 2015, GZ 1 R 70/15p-27, womit der Beschluss des Bezirksgerichts für Handelssachen Wien vom 6. Februar 2015, GZ 5 C 756/13g-18, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der Revisionsrekurs wird zurückgewiesen.
+Die Erstbeklagte hat die Kosten der Revisionsrekursbeantwortung selbst zu tragen.
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 7 Abs 1 IO werden alle anhängigen Rechtsstreitigkeiten, in denen der Schuldner Kläger oder Beklagter ist, mit Ausnahme der in § 6 Abs 3 IO bezeichneten Streitigkeiten durch die Eröffnung des Insolvenzverfahrens unterbrochen. Auf Streitgenossen des Schuldners wirkt die Unterbrechung nur dann, wenn sie mit dem Schuldner eine einheitliche Streitpartei bilden.
+Im vorliegenden Fall wurde über die erstbeklagte Partei mit Beschluss des Handelsgerichts Wien am 12. 6. 2015 das Konkursverfahren eröffnet. Über die Nebenintervenientin wurde bereits mit Beschluss des Handelsgerichts Wien vom 7. März 2014 der Konkurs eröffnet.
+Der Nebenintervenient einer Anfechtungs- oder Nichtigkeitsklage nach § 41 GmbHG ist streitgenössischer Nebenintervenient (RIS-Justiz RS0036021; Enzinger in Wiener Kommentar GmbHG § 42 Rz 18 mwN).
+Ein Verfahren auf Nichtigerklärung eines Generalversammlungsbeschlusses einer GmbH ist hier ein Masseprozess, der von der Unterbrechungswirkung des § 7 IO erfasst wird (vgl Schubert in Konecny/Schubert, Insolvenzgesetze § 6 KO Rz 4). Dadurch unterscheidet sich der vorliegende Fall von der Entscheidung 6 Ob 44/14k, die die Bestellung eines Liquidators für die nunmehrige Nebenintervenientin betraf. Die Bestellung eines Liquidators hat aber ebenso wie die Bestellung und Abberufung eines Geschäftsführers als bloß gesellschaftsinterne Maßnahme keinen Einfluss auf die Vermögensverhältnisse der Gesellschaft (SZ 67/168; Schubert aaO).
+Die Unterbrechung nach § 7 IO tritt kraft Gesetzes in jedem Verfahrensstadium, auch im Rechtsmittelverfahren, ein (Schubert aaO § 7 Rz 30 mwN).
+Zur Aufnahme des Verfahrens sind nach § 7 Abs 2 IO der Masseverwalter, der Streitgenosse des Gemeinschuldners und der Gegner berechtigt. In der bloßen Erhebung eines Rechtsmittels oder in der Erstattung einer Rechtsmittelbeantwortung kann ein Antrag auf Aufnahme des unterbrochenen Verfahrens nicht erblickt werden, weil die Zivilprozessordnung stillschweigende Prozesshandlungen nicht kennt (Gitschthaler in Rechberger, ZPO4 §§ 164–166 Rz 4; Schubert aaO § 7 KO Rz 44; SZ 44/63 ua).
+Während des unterbrochenen Verfahrens sind Prozesshandlungen unzulässig, sodass der Revisionsrekurs spruchgemäß zurückzuweisen war (RIS-Justiz RS0105681; Schubert in Konecny/Schubert § 7 KO Rz 39).
+Die Entscheidung über die Kosten des Revisionsrekursverfahrens gründet sich auf §§ 41, 50 ZPO. Die Revisionsrekursbeantwortung hat auf die Unzulässigkeit des Revisionsrekurses wegen Konkurseröffnung nicht hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0060OB00098.16D.0627.000

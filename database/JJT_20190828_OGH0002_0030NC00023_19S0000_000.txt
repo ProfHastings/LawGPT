@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.08.2019
+Geschäftszahl
+3Nc23/19s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Priv.-Doz. Dr. Rassi als weitere Richter in der Ordinationssache der Antragstellerin C*****, vertreten durch Vavrovsky Heine Marth Rechtsanwälte GmbH in Wien, wegen Exekution nach § 355 EO, über den Antrag auf Ordination gemäß § 28 JN, den
+Beschluss
+gefasst:
+Spruch
+Für die Bewilligung und Vollziehung der beabsichtigten Unterlassungsexekution wird das Bezirksgericht Innere Stadt Wien als örtlich zuständiges Gericht bestimmt.
+Der Antrag der Antragstellerin auf Kostenzuspruch wird zurückgewiesen.
+Text
+Begründung:
+Die Antragstellerin erwirkte nach dem UWG eine einstweilige Verfügung gegen eine niederländische Gesellschaft mit Sitz in Amsterdam. Danach ist Letztere verpflichtet, bestimmte Handlungen im Bereich der Personenbeförderungsdienstleistungen zu unterlassen.
+Die Antragstellerin beantragt gemäß § 28 JN die Bestimmung des Bezirksgerichts Innere Stadt Wien für die Bewilligung und den Vollzug der beantragten Unterlassungsexekution. Die Rechtsverfolgung im Ausland sei unmöglich bzw unzumutbar, auch wenn der betreffende Staat Vertragsstaat der EuGVVO sei.
+Rechtliche Beurteilung
+Der Ordinationsantrag ist berechtigt.
+1. Die Bestimmung der Zuständigkeit durch den Obersten Gerichtshof nach § 28 JN, die auch in Exekutionssachen möglich ist (RIS-Justiz RS0053178; RS0046326 [T2]; 3 Nc 13/18v), setzt das Fehlen der örtlichen Zuständigkeit voraus.
+Die örtliche Zuständigkeit bestimmt sich bei der Exekution gemäß § 355 EO nach § 18 Z 4 zweiter Fall EO, wonach als Exekutionsgericht das Bezirksgericht einzuschreiten hat, in dessen Sprengel die erste Exekutionshandlung tatsächlich vorzunehmen ist. Diese die Zuständigkeit begründende erste Exekutionshandlung ist bei Exekutionen zur Erwirkung (vertretbarer oder unvertretbarer) Handlungen die Zustellung der Exekutionsbewilligung (RS0121995 [T2]).
+Eine Ordination kommt hier in Betracht, weil die Verpflichtete keinen Sitz im Inland hat und es deshalb an einem Anknüpfungsgrund für die örtliche Zuständigkeit eines inländischen Gerichts fehlt.
+2. Als Rechtsgrundlage für die Bestimmung eines zuständigen Gerichts kommt im vorliegenden Fall nur § 28 Abs 1 Z 2 JN in Betracht. Die Antragstellerin hat ihren Sitz in Österreich.
+Nach der Rechtsprechung des erkennenden Senats ist auf der Grundlage eines österreichischen Titels ein Unterlassungsexekutionsantrag in Frankreich und den Benelux-Staaten, die das (französische bzw niederländische) Rechtsinstitut der astreinte bzw dwangsom kennen, unzumutbar. Dies wurde jüngst in der Entscheidung 3 Nc 5/18t – mit Bezugnahme auf 3 Nc 104/02b – für eine Exekutionsführung nach § 354 EO näher begründet (vgl auch [zur Exekution nach § 355 EO] 3 Nc 5/12h, 3 Nc 10/11t, 3 Nc 13/11h sowie die in einem Parallelverfahren zwischen den Parteien des Titelverfahrens ergangene Entscheidung 3 Nc 13/18v; vgl Jakusch in Angst/Oberhammer3 § 3 EO Rz 18/3).
+Die Unmöglichkeit einer – auf Unterlassung einer bestimmten Vorgangsweise (wegen Verstoßes gegen Bestimmungen des UWG) gerichteten – Exekutionsführung in den Niederlanden ist als ausreichend bescheinigt anzusehen, weil dort, eine Zwangsvollstreckung die (in Österreich nicht bekannte) Auferlegung eines Zwangsgeldes durch das Titelgericht voraussetzt. Die Antragstellerin müsste daher damit rechnen, dass ein Exekutionsantrag bzw ein Antrag auf Titelergänzung vom niederländischen Gericht abgewiesen wird (s auch 3 Nc 5/12h und 3 Nc 13/18v).
+3. Da die Voraussetzungen des § 28 Abs 1 Z 2 JN erfüllt sind, ist dem Antrag auf Ordination stattzugeben, auch wenn im betreffenden Staat die EuGVVO gilt.
+4. Im einseitigen Ordinationsverfahren findet kein Kostenersatz statt (jüngst 6 Nc 12/19w).
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030NC00023.19S.0828.000

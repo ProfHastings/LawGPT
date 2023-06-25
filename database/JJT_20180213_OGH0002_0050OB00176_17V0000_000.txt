@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.02.2018
+Geschäftszahl
+5Ob176/17v
+Kopf
+Der Oberste Gerichtshof hat durch den Hofrat Dr. Jensik als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der wohnrechtlichen Außerstreitsache des Antragstellers Dr. T* S*, vertreten durch die Hausmann & Hausmann Rechtsanwälte GmbH in Wien, gegen den Antragsgegner Dr. K* S*, vertreten durch die JEANNEE Rechtsanwalt GmbH in Wien, wegen § 37 Abs 1 Z 8 MRG, über den Revisionsrekurs des Antragsgegners gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 27. Juli 2017, AZ 40 R 183/17h-17, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 37 Abs 3 Z 16 MRG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Das Rekursgericht legte seiner Entscheidung die Auffassung zugrunde, dass eine Mietzinsanhebung nach § 46 Abs 2 MRG nur gegen den Rechtsnachfolger zulässig sei, der sein Hauptmietrecht durch Eintritt nach § 14 Abs 2 MRG erworben habe. Die vom Antragsgegner (als Vermieter) vorgenommene Anhebung des Hauptmietzinses sei daher schon dem Grunde nach unzulässig, weil der Antragsteller seine Rechtsstellung als Mieter nicht aufgrund eines solchen Eintritts in die Mietrechte nach § 14 MRG, sondern als Erbe durch Universalsukzession (§ 1116a ABGB) erhalten habe.
+Diese Rechtsansicht des Rekursgerichts entspricht der Rechtsprechung des Obersten Gerichtshofs (7 Ob 588/84, 3 Ob 53/12h = immolex 2013, 52 [Limberg]; RIS-Justiz RS0127787) und der einhelligen Auffassung in Lehre und Schrifttum (Würth/Zinger/Kovanyi, Miet- und Wohnrecht I²³, §§ 46 MRG Rz 2; Würth in Rummel³ § 46 MRG Rz 2a; Höllwerth in Gitschthaler/Höllwerth, Ehe- und Partnerschaftsrecht, § 46, 46b MRG Rz 2; T. Hausmann in Hausmann/Vonkilch³, Österreichisches Wohnrecht – MRG § 46 MRG Rz 3; Riss/Fiedler in Rainer, Handbuch Miet- und Wohnrecht, Kapitel 4.17; Hawel in Illedits/Reich-Rohrwig, Wohnrecht Kurzkommentar², § 46 MRG Rz 1; Dirnbacher, MRG 2013, 200; vgl allerdings Prader in GeKo Wohnrecht I § 46 MRG Rz 3 [für jede gesetzlich vorgesehene Eintrittsart]). Zwar verweisen die genannten Entscheidungen wie auch ein Teil des zitierten Schrifttums nicht ausdrücklich auf den (konkret den Eintritt normierenden) Abs 2 des § 14 MRG, sondern verlangen als Voraussetzung für eine Mietzinsanhebung nach § 46 MRG ohne weitere Spezifikation einen Eintritt nach § 14 MRG; eine Formulierung, die auch dem Klammerzitat in § 46 Abs 1 MRG entspricht. Aus diesem Umstand lässt sich aber für den Standpunkt des Revisionsrekurswerbers nichts gewinnen, weil § 14 Abs 1 MRG entgegen seiner Auffassung keine Anordnung einer vom Eintritt nach § 14 Abs 2 MRG zu unterscheidenden Art des Eintritts (Eintritt „durch Universalsukzession“) enthält, sondern bloß eine Wiederholung des schon in § 1116a ABGB eingeflossenen Grundsatzes, dass der Mietvertrag durch den Tod einer der Vertragsparteien nicht erlischt (8 Ob 504/86; Vonkilch in Hausmann/Vonkilch MRG³ § 14 MRG Rz 4).
+Der Revisionsrekurs war daher mangels Vorliegens einer erheblichen Rechtsfrage im Sinne des § 62 Abs 1 AußStrG zurückzuweisen. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 71 Abs 3 AußStrG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E120874

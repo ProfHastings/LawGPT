@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.06.2016
+Geschäftszahl
+3Ob105/16m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Hoch als Vorsitzenden sowie die Vizepräsidentin Dr. Lovrek, die Hofräte Dr. Jensik und Dr. Roch und die Hofrätin Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Dr. E*****, Rechtsanwalt, *****, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der C***** GmbH, vertreten durch Bajc – Zach – Teubl – Terler, Rechtsanwälte in Bruck an der Mur, gegen die beklagte Partei Steiermärkische Gebietskrankenkasse, Graz, Josef-Pongratz-Platz 1, vertreten durch Dr. Helmut Destaller, Dr. Gerald Mader, Rechtsanwälte in Graz, wegen 182.581,27 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 16. März 2016, GZ 2 R 26/16k-24, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte zeigt in ihrer außerordentlichen Revision keine erhebliche Rechtsfrage auf:
+Rechtliche Beurteilung
+Die Beurteilung, ob
+der beklagten Gläubigerin fahrlässige Unkenntnis der Zahlungsunfähigkeit und der Begünstigungsabsicht der Schuldnerin anzulasten ist, hängt von den Umständen des Einzelfalls ab (RIS-Justiz RS0042837 [T1]).
+Auch wenn der von der Beklagten gegen die Schuldnerin gestellte Insolvenzeröffnungsantrag bereits kurz vor Eingang und Annahme der vom Kläger nach § 30 Abs 1 Z 3 und § 31 Abs 1 Z 2 IO angefochtenen Zahlungen vom Insolvenzgericht mit der Begründung abgewiesen wurde, dass die im Antrag behauptete Zahlungsunfähigkeit der Schuldnerin zu verneinen sei, kann dies zwar grundsätzlich einen Vertrauenstatbestand bilden, der die fahrlässige Unkenntnis der Beklagten von der Zahlungsunfähigkeit und Begünstigungsabsicht der Schuldnerin ausschließt (1 Ob 75/97d). Dies gilt aber dann nicht, wenn die Beklagte infolge Kenntnis bestimmter Umstände im Ergebnis Zweifel an der materiellen Richtigkeit dieser Entscheidung haben musste (vgl 3 Ob 67/10i). Ein Gläubiger, der selbst einen (wenn auch letztlich abgewiesenen) Insolvenzantrag gestellt hat, kann sich nämlich grundsätzlich nicht auf Unkenntnis der Insolvenz berufen, weil im Zweifel nicht von einer missbräuchlichen Stellung des Insolvenzantrags ausgegangen werden kann (König, Anfechtung5 Rz 11/29 mwN).
+Von dieser Rechtsprechung ist das Berufungsgericht nicht abgewichen, wenn es bei der Bejahung der fahrlässigen Unkenntnis der Beklagten von Zahlungsunfähigkeit und Benachteiligungsabsicht der Schuldnerin auf Folgendes abstellte:
+– dass die Schuldnerin unmittelbar nach Aufhebung eines vorangegangenen Sanierungsverfahrens infolge Bestätigung eines Sanierungsplans mit Beschluss vom 14. November 2012 erneut mit den von ihr zu leistenden Sozialversicherungsbeiträgen in Rückstand geriet, weshalb die Beklagte zunächst die Beiträge für Dezember 2012 bis einschließlich April 2013 im Exekutionsweg hereinbringen und in der Folge insgesamt fünf Exekutionsanträge zur Hereinbringung der Beiträge zunächst für den Zeitraum bis einschließlich September 2013 und – nach Stellung des letztlich vom Insolvenzgericht abgewiesenen Insolvenzantrags am 20. Dezember 2013 – auch für die Monate Oktober und November 2013 stellen musste, aufgrund derer drei der vier nun angefochtenen Zahlungen erfolgten;
+– dass im Zeitpunkt der Abweisung des Insolvenzantrags am 24. Februar 2014 – also trotz des bis dahin anhängigen Insolvenzeröffnungsverfahrens – die Beiträge für die Monate Dezember 2013 (fällig seit 15. Jänner 2014) und Jänner 2014 (fällig seit 15. Februar 2014) aushafteten, woran sich auch bis zur vierten angefochtenen Zahlung am 14. März 2014 nichts geändert hatte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0030OB00105.16M.0614.000

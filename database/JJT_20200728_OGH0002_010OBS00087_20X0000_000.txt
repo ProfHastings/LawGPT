@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.07.2020
+Geschäftszahl
+10ObS87/20x
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Univ.-Prof. Dr.
+Neumayr als Vorsitzenden, die Hofrätinnen Dr. Fichtenau und Dr. Grohmann sowie die fachkundigen Laienrichter Dr. Martin Gleitsmann (aus dem Kreis der Arbeitgeber) und Angela Taschek (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei G*****, vertreten durch Dr. Karl-Heinz Plankel, Rechtsanwalt in Wien, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Feststellung von Schwerarbeitszeiten, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Innsbruck als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 28. April 2020, GZ 25 Rs 18/20p-64, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird zurückgewiesen.
+Text
+Begründung:
+Das Erstgericht stellte die vom Kläger im Zeitraum von 1. 8. 1997 bis 31. 12. 2007 erworbenen Versicherungsmonate als Schwerarbeitsmonate (§ 1 Abs 1 Z 4 SchwerarbeitsV) fest und wies das Mehrbegehren, auch die im Zeitraum von 1. 1. 2008 bis 30. 6. 2015 erworbenen Versicherungsmonate als Schwerarbeitszeiten festzustellen, ab. Aufgrund einer Veränderung des Arbeitsablaufs (der Verwendung von Hebezeug) habe ab dem Jahr 2008 der durchschnittliche Arbeitskalorienverbrauch nicht mehr 2.000 Arbeitskilokalorien täglich erreicht.
+Das Berufungsgericht gab der Berufung des Klägers nicht Folge und ließ die Revision nicht zu.
+Rechtliche Beurteilung
+Die außerordentliche Revision des Klägers ist mangels einer Rechtsfrage von erheblicher Bedeutung im Sinne des § 502 Abs 1 ZPO zurückzuweisen.
+1. Nach § 1 Abs 1 Z 4 SchwerarbeitsV liegt körperliche Schwerarbeit vor, wenn bei einer achtstündigen Arbeitszeit von Männern mindestens 2.000 Arbeitskilokalorien verbraucht werden. Maßgeblich ist nach der Rechtsprechung der Energieumsatz im Sinn einer Durchschnittsbetrachtung eines achtstündigen Arbeitstags einer Person mit durchschnittlichem Körpergewicht. Eine körperliche Arbeit ist Schwerarbeit, wenn in sie die der Verordnung festgelegte Arbeitskilokaloriengrenze pro Tag erreicht bzw überschreitet. Dabei ist die tatsächliche Arbeitszeit als 8 Stunden zu berücksichtigen. Der Versicherte kann (ua) nachweisen, auch bei einer kürzeren täglichen Arbeitszeit den geforderten Mindestverbrauch erreicht zu haben (10 ObS 95/14i SSV-NF 28/52; RIS-Justiz RS0129751).
+2. Das Erstgericht hat die Lage und Dauer der Schichtarbeitszeiten des Klägers sowie die Dauer eines Arbeitstags mit durchschnittlich 7,7 Stunden festgestellt. Diese Feststellungen hat auch das Berufungsgericht seiner Entscheidung zugrunde gelegt. Wenn der Revisionswerber von einer täglichen Arbeitszeit von 8 Stunden und 40 Minuten ausgeht (und daraus einen höheren täglichen Arbeitskilokalorienverbrauch ableiten will), entfernt er sich vom festgestellten Sachverhalt.
+2.1 Soweit in der Revision geltend gemacht wird, anhand einer anzustellenden „Durchschnittsbetrachtung“ seien auch ab 2008 zumindest eine derartige Zahl von Schwerarbeitsmonate vorgelegen, dass das Erfordernis von 120 Schwerarbeitsmonate (innerhalb der letzten 240 Kalendermonate vor dem Stichtag) erfüllt sei, ist darauf zu verweisen, dass die Feststellung von Versicherungszeiten und Schwerarbeitszeiten nach § 247 ASVG als „vorgezogener Teil“ eines Leistungsverfahrens (RS0084976) die in Monate zusammengefassten Versicherungszeiten sowie deren zeitliche Lage erfassen muss (10 ObS 154/19y). Im Verfahren nach § 247 Abs 2 ASVG muss daher auch tatsächlich festgestellt werden, in welchen Kalendermonaten eine versicherte Person die Voraussetzungen für die Leistung von Schwerarbeit erfüllt hat (10 ObS 89/18p SSV-NF 32/73; 10 ObS 23/16d SSV-NF 30/30).
+2.2 Im hier vorliegenden Fall des § 1 Abs 1 Z 4 SchwerarbeitsV muss die versicherte Person daher nachweisen, zumindest an jeweils 15 Tagen des Kalendermonats mehr als 2.000 Arbeitskilokalorien verbraucht zu haben. Dieser Beweis ist dem Kläger nach den Feststellungen der Vorinstanzen für die seinem Mehrbegehren zugrunde gelegten Monate nicht gelungen: Die Vorinstanzen sind an Hand der Zeitaufzeichnungen davon ausgegangen, dass der Kläger im Zeitraum von 1. 1. 2008 bis 30. 6. 2015 nicht zumindest an 15 Tagen des Kalendermonats die geforderte Mindestanzahl von 2.000 Arbeitskilokalorien täglich verbraucht hat. Auf dieser Tatsachengrundlage stellen auch Zeiten des Urlaubs, während derer fiktiv gearbeitet worden wäre, keine Schwerarbeitszeiten dar.
+Die Revision ist daher zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:010OBS00087.20X.0728.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.04.1951
+Geschäftszahl
+4Ob22/51
+Norm
+KO §110;
+KO §113 Abs1;
+ZPO §239;
+Kopf
+SZ 24/90
+Spruch
+Wurde das Begehren einer vor Konkurseröffnung eingebrachten Leistungsklage nicht im Sinne des § 113 Abs. 1 KO. in ein Feststellungsbegehren geändert, so hat das Gericht von Amts wegen, falls es das Bestehen des Anspruches bejaht, die Feststellung der Forderung im Konkurse unter Abweisung des Leistungbegehrens als eines Mehrbegehrens auszusprechen.
+Entscheidung vom 3. April 1951, 4 Ob 22/51.
+I. Instanz: Arbeitsgericht Wels; II. Instanz: Kreisgericht Wels.
+Text
+Bei Entscheidung eines arbeitsgerichtlichen Rechtsstreites war von den Untergerichten der Umstand nicht berücksichtigt worden, daß sich zur Zeit der Urteilsfällung die beklagte Partei im Konkurs befand. Der Oberste Gerichtshof hat aus diesem Gründe das Urteil des Berufungsgerichtes aufgehoben und die Sache an das Berufungsgericht zur neuerlichen Entscheidung zurückverwiesen.
+Rechtliche Beurteilung
+Aus der Begründung:
+Da der Revisionsgrund der unrichtigen rechtlichen Beurteilung geltend gemacht wurde, mußte ein in der Revision nicht ausdrücklich gerügter Fehler des Urteiles beachtet werden. Die Klage wurde als Leistungsklage gegen die Gemeinschuldnerin eingebracht. Es ist auch ein Leistungsurteil gegen die Konkursmasse ergangen.
+Nach § 113 KO. gelten aber für die Fortsetzung des Prozesses über eine im Konkurs bestrittene Forderung die Bestimmungen des § 110 KO. Bei Aufnahme des Prozesses hätte also das Klagebegehren dahin abgeändert werden müssen, daß die Feststellung der Forderung als Konkursforderung bestimmter Klasse in der angegebenen Höhe begehrt wird (Bartsch - Pollak, § 113 Anm. 4). Das gegen die Gemeindeschuldnerin seinerzeit beantragte Leistungsurteil hätte gegen die Konkursmasse oder den Masseverwalter nicht ergehen dürfen.
+Das Gesetz hat die Frage nicht ausdrücklich geregelt, was zu geschehen hat, wenn das Klagebegehren nach Aufnahme des Verfahrens gegenüber der Konkursmasse nicht den Bestimmungen der §§ 113 und 110 KO. entsprechend geändert wird. Bartsch - Pollak meint, es sei von Amts wegen auf die Änderung des Klagebegehrens zu dringen und das Erkenntnisverfahren einzustellen, wenn ein hervorgekommener Mangel des Begehrens nicht behoben wird.
+Der Oberste Gerichtshof kann sich dieser Meinung nicht anschließen. Die Zivilprozeßordnung kennt eine Einstellung des Verfahrens nur im § 239 ZPO., wo dieser Ausdruck gleichbedeutend mit Zurückweisung der Klage gebraucht wird. Es steht übrigens das Begehren auf Zahlung, also auf Zulässigerklärung der Exekution gegen die Masse, und das Begehren auf Feststellung der Forderung als Konkursforderung, die nur die der Exekution in gewisser Beziehung ähnliche Beteiligung an der Versilberung der Konkursmasse gewährleistet, im Verhältnis von einem Plus zu einem Minus. Der Oberste Gerichtshof ist also der Meinung, daß das Prozeßgericht bei Aufrechtenhaltung des ursprünglichen Begehrens das Verfahren fortzusetzen, aber allenfalls von Amts wegen festzustellen gehabt hätte, mit welchem Betrag und in welcher Klasse die Forderung im Konkurs angemeldet wurde, und nur die Feststellung der Forderung im Konkurs unter Abweisung des Leistungsbegehrens als eines Mehrbegehrens hätte aussprechen sollen. Da nicht feststeht, mit welchem Betrag und in welcher Klasse die Forderung im Konkurs angemeldet wurde, mußte das Urteil des Berufungsgerichtes aufgehoben und diesem die neuerliche Entscheidung nach Vornahme entsprechender Feststellungen aus dem Konkursakte aufgetragen werden.

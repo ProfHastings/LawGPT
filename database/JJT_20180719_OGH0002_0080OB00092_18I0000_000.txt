@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.07.2018
+Geschäftszahl
+8Ob92/18i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, den Hofrat Mag. Dr. Wurdinger, die Hofrätin Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Rechtssache der klagenden Partei H*****, vertreten durch Dr. Alexander Bosio,  Rechtsanwalt in Zell am See, gegen die beklagte Partei A***** Aktiengesellschaft, *****, vertreten durch Dr. Leopold Hirsch, Rechtsanwalt in Salzburg, und den Nebenintervenienten auf Seiten der beklagten Partei J*****, vertreten durch Mag. Dr. Maria Lisa Doll-Aidin, Rechtsanwältin in Salzburg, wegen 23.754,32 EUR und Feststellung, über die außerordentliche Revision der klagenden Partei (Revisionsinteresse 28.522,32 EUR) gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 14. Mai 2018, GZ 1 R 63/18t-29, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+1. Grundsätzlich trifft den Geschädigten die Beweislast für den Kausalzusammenhang; dies gilt auch nach § 1298 ABGB (RIS-Justiz RS0022686).
+2. Zwar ist die Frage, ob in einem konkreten Fall ein Tatbestand vorliegt, der nach den Regeln des Anscheinsbeweises eine Verschiebung des Beweisthemas und der Beweislast zulässt, eine revisible Rechtsfrage (RIS-Justiz RS0022624, RS0022549). Der Lösung dieser Frage kommt allerdings im Hinblick auf die Vielzahl denkbarer Fälle und die jeweils maßgeblichen Umstände des Einzelfalls keine erhebliche Bedeutung iSd § 502 Abs 1 ZPO zu (RIS-Justiz RS0022624 [T4, T5, T10]; RS0022549 [T3]).
+Der Anscheinsbeweis beruht darauf, dass bestimmte Geschehensabläufe typisch sind und es daher wahrscheinlich ist, dass auch im konkreten Fall ein derartiger gewöhnlicher Ablauf und nicht ein atypischer gegeben ist (RIS-Justiz RS0040266). Es muss ein typischer Erfahrungszusammenhang bestehen (RIS-Justiz RS0040274, RS0039895). Der Anscheinsbeweis darf nicht dazu dienen, Lücken der Beweisführung durch bloße Vermutungen auszufüllen (RIS-Justiz RS0040287). Die Tatsache eines Sturzes allein lässt noch nicht – auch nicht prima facie – auf ein Fehlverhalten schließen (4 Ob 18/15y; 3 Ob 84/17z; RIS-Justiz RS0111453 [T5]).
+3. Es bildet daher keine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung, dass die Vorinstanzen einen typischen Erfahrungszusammenhang zwischen dem Sturz des (Schi und Schistöcke tragenden) Klägers auf der asphaltierten und schneefreien Fläche vor der Talstation, auf der sich sogar Streugut befand, und einer mangelhaften Streuung durch die Beklagte (bzw den von ihr damit beauftragten Nebenintervenienten) im Sturzbereich nicht angenommen haben.
+Da nicht festgestellt werden konnte, dass der Kläger auf einer Eisfläche ausrutschte, ist dem Kläger der ihm obliegende Beweis des Bestehens einer Gefahrenquelle und damit einer Sorgfaltsverletzung der Beklagten nicht gelungen.
+4. Daran vermögen auch die vom Kläger vermissten Feststellungen zu den Boden- und Lufttemperaturen im Unfallzeitpunkt und zur behaupteten Notwendigkeit einer maschinellen Streuung des Unfallbereichs zumindest alle zwei Tage nichts zu ändern.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0080OB00092.18I.0719.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.08.1970
+Geschäftszahl
+3Ob92/70
+Norm
+AO §53;
+AO §55c;
+Kopf
+SZ 43/137
+Spruch
+Hat die Ausgleichsschuldnerin einem Sachwalter die unwiderrufliche Vollmacht zur Verwertung ihres gesamten Geschäftsvermögens gegeben, wobei ein Mehrerlös nicht bevorrechteten Gläubigern zufallen soll, so liegt ein Liquidationsausgleich vor, auf dessen Durchführung die Ausgleichsschuldnerin keinen Einfluß nehmen kann
+OGH 5. August 1970, 3 Ob 92/70 (LGZ Wien 46 R 282/70; BG Floridsdorf 9 E 20/70)
+Text
+Die betreibende Partei begrundete ihren Exekutionsantrag auf Zwangsversteigerung der im Eigentum der verpflichteten Partei stehenden 62/6083-Anteile an der Liegenschaft EZ 88 KG F mit dem Wiederaufleben ihrer gesamten Forderung gemäß § 53 Abs 4 AO weil die Verpflichtete mit der Erfüllung des zu Sa 18/69 LGZ Wien abgeschlossenen Ausgleiches in Verzug geraten und die Voraussetzungen für das Wiederaufleben gegeben seien. Sie legte dem Exekutionsantrag eine Ausfertigung des Beschlusses des Ausgleichsgerichtes vor, wonach der gegenständliche, rechtskräftig bestätigte Ausgleich folgenden wesentlichen Inhalt hat:
+Die Ausgleichsschuldnerin bezahlt an die nicht bevorrechteten Gläubiger 40% in sechs Monatsraten, unterwirft sich bis zur Erfüllung des Ausgleiches der Überwachung durch einen Sachwalter und erteilt diesem die unwiderrufliche Verwertungsvollmacht hinsichtlich ihres gesamten Geschäftsvermögens (darunter ausdrücklich der nunmehr in Zwangsversteigerung gezogenen Liegenschaftsanteile), wobei ein die vorgesehene Quote übersteigender Erlös den nicht bevorrechteten Gläubigern als Superquote zufällt.
+Das Erstgericht bewilligte die beantragte Zwangsversteigerung, das Rekursgericht wies mit dem angefochtenen Beschluß den Antrag der betreibenden Partei mit der Begründung ab, daß es sich beim wiedergegebenen Inhalt des Ausgleiches um einen Liquidationsausgleich handle und in einem derartigen Fall vor Beendigung der Liquidation eine Säumnis der Ausgleichsschuldnerin nicht eintreten könne.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der betreibenden Partei ist zuzugeben, daß bei Vereinbarung einer bloßen Überwachung der Ausgleichserfüllung durch einen Sachwalter die gegenständliche Exekutionsführung zulässig wäre (ebenso 2 Ob 485/54 und 1 Ob 972/54, beide abgedruckt in MGA KO und AO[5] § 55b AO/6), wobei auch die Bevollmächtigung des Sachwalters durch den Ausgleichsschuldner kein grundsätzliches Hindernis darstellt.
+Im vorliegenden Fall erteilte die Ausgleichsschuldnerin jedoch dem Sachwalter die unwiderrufliche Vollmacht zur Verwertung ihres gesamten Geschäftsvermögens, wobei ein Mehrerlös vereinbarungsgemäß den nicht bevorrechteten Gläubigern zuzufallen hat. Diese Ausgleichsvereinbarung stellt, wie bereits das Rekursgericht richtig erkannte, inhaltlich die Vereinbarung eines Liquidationsausgleiches dar (vgl Bartsch - Pollak II 93 und 477, ZBl 1934/103 u a), für dessen Durchführung lediglich der Sachwalter verantwortlich ist und auf dessen Durchführung somit die Ausgleichsschuldnerin keinen Einfluß nehmen kann (vgl Bartsch - Pollak II 477, ZBl 1933/247 u a). In einem derartigen Fall des Liquidationsausgleiches sind die Verpflichtungen aus dem Ausgleich vom Sachwalter zu erfüllen, eine Exekutionsführung einzelner Ausgleichsgläubiger - sei es auf die Ausgleichsquote, sei es wegen Wiederauflebens zugunsten der gesamten Forderung - ist erst ab Beendigung der Liquidation zulässig (ebenso ZBl 1933/247, 1934/103 SZ 31/13 ua).
+Demzufolge hat das Rekursgericht den gegenständlichen Exekutionsantrag zutreffend abgewiesen, ohne daß hier erörtert werden müßte, welche rechtlichen Möglichkeiten den Ausgleichsgläubigern für den Fall einer Säumnis des Sachwalters bei Durchführung der vereinbarten Liquidation zu Gebote stehen.

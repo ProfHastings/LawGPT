@@ -1,0 +1,59 @@
+Gericht
+OGH
+Entscheidungsdatum
+09.11.2022
+Geschäftszahl
+7Ob149/22w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei S*, vertreten durch die Poduschka Partner Anwaltsgesellschaft mbH in Linz, gegen die beklagte Partei N* AG, *, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen Feststellung (Streitwert 7.000 EUR), über die Revision der klagenden Partei gegen das Urteil des Landesgerichts St. Pölten als Berufungsgericht vom 8. Juni 2022, GZ 21 R 61/22m-27, womit das Urteil des Bezirksgerichts St. Pölten vom 28. Jänner 2022, GZ 5 C 75/21p-21, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 626,52 EUR (darin enthalten 104,42 EUR USt) bestimmten Kosten des Revisionsverfahrens binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Zwischen dem Kläger und der Beklagten besteht ein Rechtsschutzversicherungsvertrag, dem die Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2007 RV830) zugrunde liegen. Deren „Besondere Bestimmungen“ lauten auszugsweise:
+„Artikel 17
+Schadenersatz-, Straf- und Führerschein-Rechtsschutz für Fahrzeuge (Fahrzeug-Rechtsschutz) je nach Vereinbarung mit oder ohne Fahrzeug-Vertrags-Rechtsschutz
+[...]
+2. Was ist versichert?
+Der Versicherungsschutz umfasst
+2.1. Schadenersatz-Rechtsschutz
+für die Geltendmachung von Schadenersatzansprüchen aufgrund gesetzlicher Haftungsbestimmungen privatrechtlichen Inhalts wegen erlittener Personen-, Sach- oder Vermögensschäden, soweit diese aus der bestimmungsgemäßen Verwendung des versicherten Fahrzeuges entstehen.
+2.1.1. Kein Versicherungsschutz besteht für die Geltendmachung von Schadenersatzansprüchen wegen reiner Vermögensschäden, die aus der Verletzung gesetzlicher oder vertraglicher Pflichten zwischen Vertragspartnern oder aus der Verletzung vorvertraglicher Pflichten entstehen (versicherbar gemäß Pkt. 2.4.).
+[…]
+2.4. Fahrzeug-Vertrags-Rechtsschutz
+Wenn vereinbart, umfasst der Versicherungsschutz auch die Wahrnehmung rechtlicher Interessen aus schuldrechtlichen Verträgen, die versicherte Fahrzeuge und Anhänger einschließlich Ersatzteile und Zubehör betreffen.
+Als Wahrnehmung rechtlicher Interessen aus schuldrechtlichen Verträgen gilt auch die Geltendmachung oder Abwehr von Schadenersatzansprüchen wegen reiner Vermögensschäden, die aus der Verletzung gesetzlicher oder vertraglicher Pflichten zwischen Vertragspartnern oder aus der Verletzung vorvertraglicher Pflichten entstehen.
+[...]“
+„Artikel 19
+Schadenersatz- und Straf-Rechtsschutz für den Privat-, Berufs- und Betriebsbereich
+[…]
+2. Was ist versichert?
+Der Versicherungsschutz umfasst
+2.1 Schadenersatz-Rechtsschutz
+für die Geltendmachung von Schadenersatzansprüchen aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts wegen eines erlittenen Personen-, Sach- oder Vermögensschadens;
+[…]
+3. Was ist nicht versichert?
+3.1 Zur Vermeidung von Überschneidungen mit anderen Rechtsschutz-Bausteinen umfasst der Versicherungsschutz nicht
+3.1.1 Fälle, welche beim Versicherungsnehmer und den mitversicherten Personen in ihrer Eigenschaft als Eigentümer, Halter, Zulassungsbesitzer, Leasingnehmer oder Lenker von Motorfahrzeugen zu Lande, zu Wasser und in der Luft sowie Anhängern eintreten (versicherbar gemäß Artikel 17 und 18);
+[...]
+3.1.3 die Geltendmachung von Schadenersatzansprüchen wegen reiner Vermögensschäden, die aus der Verletzung gesetzlicher oder vertraglicher Pflichten zwischen Vertragspartnern oder aus der Verletzung vorvertraglicher Pflichten entstehen (versicherbar gemäß Artikel 23);
+[…]“
+[2] 		Das Berufungsgericht wies in Abänderung der erstinstanzlichen Entscheidung die auf Art 17 gestützte Deckungsklage für die Geltendmachung deliktischer Ansprüche gegen die Herstellerin eines mit einer unzulässigen Abschalteinrichtung ausgestatteten Fahrzeugs ab. Es ließ die ordentliche Revision zu, weil oberstgerichtliche Rechtsprechung dazu fehle, ob Rechtsschutzdeckung für Direktklagen gegen Kfz-Hersteller im Abgasskandal nach Art 17 ARB 2007 bestehe.
+Rechtliche Beurteilung
+[3] 		Da der Kläger in seiner Revision das Vorliegen der Voraussetzungen des § 502 Abs 1 ZPO nicht zu begründen vermag, ist die Revision entgegen dem – den Obersten Gerichtshof nicht bindenden (§ 508a Abs 1 ZPO) – Ausspruch des Berufungsgerichts nicht zulässig. Die Zurückweisung eines ordentlichen Rechtsmittels wegen Fehlens einer erheblichen Rechtsfrage kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO):
+[4] 		1. Die vom Berufungsgericht als erheblich bezeichnete Rechtsfrage liegt zum dafür relevanten Zeitpunkt der Entscheidung über das Rechtsmittel durch den Obersten Gerichtshof (RS0112769 [T9; T11]) nicht mehr vor. Der Revisionswerber kommt im Übrigen auch nicht mehr auf sie zurück (RS0102059).
+[5] 		1.1. Die Allgemeinen Bedingungen für die Rechtsschutzversicherung decken wegen der schweren Überschaubarkeit und Kalkulierbarkeit sowie der Größe des Rechtskostenrisikos im gesamten Bereich des privaten wie auch öffentlichen Rechts nur Teilgebiete ab. Eine universelle Gefahrenübernahme, bei der der Versicherer jeden beliebigen Bedarf des Versicherungsnehmers nach Rechtsschutz decken müsste, ist in Österreich nicht gebräuchlich. Die Allgemeinen Rechtsschutzbedingungen sind einerseits in die „Gemeinsamen Bestimmungen“ (Art 1 bis 16 ARB) und andererseits in die „Besonderen Bestimmungen“ (Art 17 bis 29 ARB) unterteilt. Diese stellen die sogenannten „Rechtsschutzbausteine“ dar, die jeweils die Eigenschaften und Rechtsgebiete, für die Versicherungsschutz bestehen, umschreiben (7 Ob 115/19s mwN).
+[6] 		1.2. Der Oberste Gerichtshof hat in der Entscheidung 7 Ob 91/22s mit ausführlicher Begründung dargelegt, dass der hier behauptete deliktische Anspruch gegen die Herstellerin eines Kraftfahrzeugs von Art 19.2.1 ARB 2008 umfasst ist. Dies gilt auch für die in diesem Fall anwendbaren (gleichlautenden) ARB 2007 (vgl auch 7 Ob 129/22d zu den ARB 2009). Die Rechtsansicht des Berufungsgerichts, dass der vom Kläger geltend gemachte Anspruch nicht dem Rechtsschutzbaustein des Art 17.2.4. ARB 2007 untersteht, entspricht daher der Rechtsprechung des Obersten Gerichtshofs.
+[7] 		2. Der Revisionswerber zeigt auch keine Mangelhaftigkeit des Berufungsverfahrens auf.
+[8] 		2.1. Für das Vorliegen eines Versicherungsfalls trifft nach der allgemeinen Risikoumschreibung den Versicherungsnehmer die Beweislast (RS0043438). Der Versicherungsnehmer, der eine Versicherungsleistung behauptet, muss daher die anspruchsbegründenden Voraussetzungen des Eintritts des Versicherungsfalls beweisen (RS0080003). Als Voraussetzung für das Bestehen des Versicherungsschutzes sind daher die in den „Besonderen Bestimmungen“ (Art 17 bis 29 ARB) genannten Leistungsarten vom Versicherungsnehmer nachvollziehbar auszuführen. Behauptet der Versicherungsnehmer die Notwendigkeit der Interessenwahrnehmung im Rahmen einer bestimmten von ihm versicherten Leistungsart, dann muss er schlüssig darlegen, dass der von ihm verfolgte oder abzuwehrende Anspruch aus einem Rechtsverhältnis herrührt, das in den Schutzbereich seines Versicherungsvertrags fällt (7 Ob 91/22s mwN).
+[9] 		2.2. Diesen Anforderungen hat der Kläger im erstinstanzlichen Verfahren im Bezug auf den Schadenersatz-Rechtsschutz in Art 19.2.1 ARB nicht entsprochen. Er hat nicht dargelegt, dass dieser Rechtsschutzbaustein von seinem Versicherungsvertrag umfasst ist, vielmehr dessen Anwendbarkeit für die begehrte Deckungspflicht ausdrücklich verneint. Damit verstößt er in seiner Revision gegen das Neuerungsverbot.
+[10] 		2.3. Nach § 182a ZPO hat das (Berufungs-)Gericht das Sach- und Rechtsvorbringen der Parteien mit diesen zu erörtern und darf seine Entscheidung auf rechtliche Gesichtspunkte, die eine Partei erkennbar übersehen oder für unerheblich gehalten hat, nur stützen, wenn es diese mit den Parteien erörtert und ihnen Gelegenheit zur Äußerung gegeben hat (RS0037300 [T46]). Es darf daher die Parteien in seiner Entscheidung nicht mit einer Rechtsauffassung überraschen, die sie nicht beachtet haben und auf die sie nicht aufmerksam gemacht wurden (RS0037300). Nach der herrschenden Rechtsprechung bedarf es aber keiner richterlichen Anleitung zu einem Vorbringen, gegen das der Prozessgegner bereits Einwendungen erhoben hat. Angesichts solcher Einwendungen hat die andere Partei ihren Prozessstandpunkt selbst zu beurteilen und die erforderlichen Konsequenzen zu ziehen. Auch die Verpflichtung nach § 182a ZPO kann nicht bezwecken, das Gericht zur Erörterung eines Vorbringens zu zwingen, dessen Schwächen der Prozessgegner aufzeigte (RS0122365).
+[11] 		2.4. Darauf, dass der Kläger in seiner Klage gar nicht ausgeführt hat, auf welche Rechtsschutzbausteine er sich stützen möchte, hat die Beklagte bereits im erstinstanzlichen Verfahren hingewiesen. Wenn der Kläger daraufhin Art 17 heranzieht, gar kein Vorbringen dazu erstattet, ob Art 19 überhaupt in den Schutzbereich seines Versicherungsvertrags fällt, ist dem Berufungsgericht keine Überraschungsentscheidung vorzuwerfen, wenn es die begehrte Deckungspflicht lediglich unter dem Gesichtspunkt des Art 17 prüft.
+[12] 		2.5. In einer Verfahrensrüge wegen Verletzung der Pflichten des § 182a ZPO hat der Rechtsmittelwerber überdies darzulegen, welches zusätzliche oder andere Vorbringen er aufgrund der von ihm nicht beachteten neuen Rechtsansicht erstattet hätte (RS0120056 [T12]). Entsprechende Behauptungen ist der Kläger in seiner Revision schuldig geblieben, sodass er auch die Wesentlichkeit des von ihm geltend gemachten Verfahrensmangels nicht dargetan hat.
+[13] 		3. Die Revision des Klägers ist daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+[14] 		4. Die Kostenentscheidung beruht auf §§ 50, 41 ZPO. Die Beklagte hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0070OB00149.22W.1109.000

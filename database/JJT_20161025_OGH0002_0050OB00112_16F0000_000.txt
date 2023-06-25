@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.2016
+Geschäftszahl
+5Ob112/16f
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie den Hofrat Dr. Höllwerth, die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer und Mag. Painsi als weitere Richter in der Rechtssache der klagenden Partei Mag. A***** P*****, vertreten durch Dr. Wolfgang Riha, Rechtsanwalt in Wien, gegen die beklagte Partei Mag. E***** R*****, vertreten durch Mag. Franz Podovsovnik, Rechtsanwalt in Wien, und die Nebenintervenienten auf Seiten der beklagten Partei 1. R***** OG, *****, 2. DI C***** R*****, 3. Mag. K***** H*****, 4. MMag. C***** S*****, 5. Dr. J***** R*****, 6. MMag. B***** S*****, alle Nebenintervenienten vertreten durch Dr. Johannes Eltz, Rechtsanwalt in Wien, wegen Aufhebung der Gemeinschaft des Eigentums (Streitwert 100.000,00 EUR), über den außerordentlichen Revisionsrekurs der Nebenintervenienten gegen den Beschluss des Oberlandesgerichts Graz als Rekursgericht vom 21. Oktober 2015, GZ 4 R 99/15h-84, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs der Nebenintervenienten wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+Das Verfahren über einen Antrag auf Löschung einer Streitanmerkung ist auch dann ein Grundbuchsverfahren, wenn es vom Prozessgericht durchgeführt wird (RIS-Justiz RS0060840 [T1, T2], RS0060516). Der Revisionsrekurs ist daher nur zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der iSd § 62 Abs 1 AußStrG iVm § 126 Abs 2 GBG zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt. Eine solche Rechtsfrage stellen die Nebenintervenienten in ihrem Revisionsrekurs nicht dar; dieser ist daher unzulässig und zurückzuweisen.
+1. Das Grundbuchs- oder Prozessgericht hat gemäß § 65 Abs 1 GBG die Löschung der Streitanmerkung zu verfügen, wenn der Kläger von der Klage absteht oder diese rechtskräftig abgewiesen wird. Neben der Zurückziehung oder Abweisung der Klage reicht aber auch die Einwilligung in die Löschung aus. Aus einem anderen Grund ist ein Löschungsbegehren in analoger Anwendung des § 65 Abs 1 GBG (nur) dann gerechtfertigt, wenn auch in diesem Fall der Zweck der Streitanmerkung in einer jeden Zweifel ausschaltenden Weise bereits erfüllt und/oder die Anmerkung nach dem Grundbuchsstand sinnlos geworden ist (5 Ob 241/15z mwN).
+2. Als Löschungsgrund machen die Revisionsrekurswerber – zusammengefasst – geltend, dass die Erstnebenintervenientin, wirtschaftlich und haftungsrechtlich gesehen sämtliche Nebenintervenienten, aufgrund einer atypischen Treuhandschaft gleichzeitig mit dem Kläger (originär) Miteigentum an der Liegenschaft erworben hätten. Die damit – implizit – verbundene Behauptung der mangelnden Sachlegitimation der beklagten Miteigentümerin stellt einen materiell-rechtlichen Einwand gegen die Berechtigung der angemerkten Teilungsklage dar, der im Verfahren zu prüfen ist und gegebenenfalls zur Klagsabweisung führt. Solange dies aber nicht der Fall ist, ist der Zweck der Streitanmerkung weder in einer jeden Zweifel ausschaltenden Weise bereits erfüllt, noch ist die Anmerkung deshalb (nach dem Grundbuchsstand zum maßgeblichen Zeitpunkt der Entscheidung in erster Instanz) sinnlos geworden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:0050OB00112.16F.1025.000

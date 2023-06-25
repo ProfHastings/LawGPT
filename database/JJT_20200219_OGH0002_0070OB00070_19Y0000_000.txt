@@ -1,0 +1,38 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.02.2020
+Geschäftszahl
+7Ob70/19y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei H***** K*****, vertreten durch Dr. Alexander Katholnig, Rechtsanwalt in Kitzbühel, und deren Nebenintervenientin G***** Versicherung AG, *****, vertreten durch Dr. Andreas Kolar, Rechtsanwalt in Innsbruck, gegen die beklagte Partei ***** Versicherung AG *****, vertreten durch die Lederer Rechtsanwalt GmbH in Wien, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts Innsbruck als Berufungsgericht vom 21. Februar 2019, GZ 5 R 110/18i-32, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Beklagte und der gewerbliche Vermögensberater A***** J***** schlossen mit Deckungsbeginn ab 1. 1. 2012 einen Haftpflichtversicherungsvertrag ab.  Vertragsgrundlagen sind ua die Allgemeinen Versicherungsbedingungen für die Vermögensschaden-Haftpflichtversicherung in Österreich, AVB-Ö-Ausgabe Jänner 2010 (AVB), die auszugsweise lauten:
+„§ 1 Gegenstand der Versicherung
+I. Vermögensschäden
+1. Der Versicherer gewährt dem Versicherungsnehmer, nach Maßgabe des § 10 auch seinen Organen und Mitarbeitern, Versicherungsschutz für den Fall, dass er wegen eines bei der Ausübung beruflicher Tätigkeit begangenen Verstoßes von einem anderen aufgrund gesetzlicher Haftpflichtbestimmungen privatrechtlichen Inhalts für einen Vermögensschaden verantwortlich gemacht wird. [...]
+§ 4 Ausschlüsse
+Der Versicherungsschutz bezieht sich nicht
+[…]
+5. wegen vorsätzlicher Schadensverursachung oder wegen Schäden durch wissentliches Abweichen von Gesetz, Vorschrift, Anweisung oder Bedingung des Machtgebers (Berechtigten) oder durch sonstige wissentliche Pflichtverletzung.
+[...]
+§ 10 Mitversicherte Personen
+I. Unmittelbar gegen versicherte Personen (§ 1 I) erhobene Haftpflichtansprüche Dritter sind im Rahmen des Vertrages mitversichert, soweit die in Anspruch genommene Person im Auftrag und im Namen des Versicherungsnehmers tätig geworden ist.
+II. Soweit sich die Versicherung auch auf Haftpflichtansprüche gegen andere Personen als den Versicherungsnehmer selbst erstreckt, finden alle in dem Versicherungsvertrag bezüglich des Versicherungsnehmers getroffenen Bestimmungen auch auf diese Personen sinngemäß Anwendung.
+[...]“
+Rechtliche Beurteilung
+1. Nach § 136a Abs 12 GewO idF BGBl I 2011/99, haben die zur Ausübung des Gewerbes der Vermögensberater berechtigten Gewerbetreibenden für ihre Berufstätigkeit eine Vermögensschadenhaftpflichtversicherung mit einer Versicherungssumme von mindestens 1.111.675 EUR für jeden einzelnen Schadensfall und von 1.667.513 EUR für alle Schadensfälle eines Jahres abzuschließen, wobei sich diese Beträge ab 15. 1. 2013 alle fünf Jahre prozentuell verändern (vgl 7 Ob 14/19p).
+Nach § 382 Abs 47 GewO trat diese Bestimmung mit dem der Kundmachung folgenden Tag, frühestens jedoch mit 1. 9. 2012, in Kraft.
+Auch im hier spätestens relevanten Zeitpunkt April 2012 bestand daher (noch) keine gesetzliche Haftpflichtversicherungspflicht für Vermögensberater. Entsprechend wurde bei der Gewährung vorläufigen Versicherungsschutzes laut Schreiben vom 9. 1. 2012 ausdrücklich darauf verwiesen, dass es sich dabei um keine Pflichtversicherung handelt. Erst mit 19. 9. 2013 wurde von der Beklagten der „zuständigen Behörde“ das Bestehen einer Vermögensschaden-Haftpflichtversicherung gemäß § 136a Abs 12 GewO angezeigt. Auf die Ausführungen der Revision zur Pflichthaftpflichtversicherung ist daher nicht weiter einzugehen.
+2. Der erkennende Senat lehnt zwar in ständiger Rechtsprechung die Repräsentantenhaftung des Versicherungsnehmers ab (RS0080407), weil die Auffassung, dass die Gefahr der Herbeiführung des Versicherungsfalls durch Dritte typischerweise vertraglich vom Versicherer mitübernommen wird, dem charakteristischen Versicherungszweck der österreichischen Vertragsversicherung entspricht (7 Ob 6/97a). Aber auch wenn der Versicherungsnehmer grundsätzlich nicht für Dritte einstehen muss, gilt dies nach der Rechtsprechung doch nicht in jedem Fall. Die Haftung für gesetzliche oder gewillkürte Vertreter ist nämlich keine bloße Repräsentantenhaftung (RS0080502, etwa zum Hausverwalter: 7 Ob 82/03i mwN). Schon in der Entscheidung 7 Ob 44/79 hat der Oberste Gerichtshof demgemäß ausgesprochen, dass bei Bestellung eines Dritten durch den Versicherungsnehmer zum bevollmächtigten Vertreter für ein bestimmtes Vertragsverhältnis ein besonderer und selbständiger Zurechnungsgrund vorliegt (vgl auch RS0019473).
+3. Im vorliegenden Fall war der Versicherungsnehmer im Zeitpunkt des Abschlusses des Versicherungsvertrags mit der Beklagten nicht im Unternehmen tätig und hatte auch keine Absicht, dies zu tun. Er hat das gesamte Unternehmen vielmehr einem einzigen Mitarbeiter, der über keine eigene Gewerbeberechtigung verfügte, „aus Dankbarkeit gegen Entgelt“ anvertraut. Er stellte ihm sein Unternehmen „zur Verfügung“ und ließ ihn ohne jegliche Kontrolle „schalten und walten“. Auch das Anbot zum Abschluss des Versicherungsvertrags richtete die Beklagte an den Mitarbeiter (und eine andere Person, die   aber mit dem Unternehmen nicht im Zusammenhang steht). Der Versicherungsnehmer erteilte dem einzigen Mitarbeiter (zumindest schlüssig) Auftrag und Vollmacht zum selbständigen Führen des Unternehmens in seinem Namen, ohne dass er selbst nach den Feststellungen auch nur die geringste Kontrolltätigkeit entfaltete. Dem Kläger ist daher das Verhalten des Mitarbeiters als seinem gewillkürten Vertreter, der auch das Versicherungsverhältnis abwickelt, zuzurechnen (vgl 7 Ob 34/87).
+Die Beurteilung, dass der Mitarbeiter vorsätzlich iSd § 152 VersVG handelte, was zur Leistungsfreiheit des Versicherers ihm gegenüber führt, lässt die Revision unbekämpft. Infolge Zurechnung des Verhaltens des Mitarbeiters besteht auch gegenüber dem Versicherungsnehmer Leistungsfreiheit. Die Entscheidung des Berufungsgerichts hält sich daher im Rahmen der Judikatur.
+Auf die übrigen von der Revision aufgeworfenen Fragen kommt es daher nicht mehr an.
+4. Einer weiteren Begründung bedarf diese Entscheidung nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00070.19Y.0219.000

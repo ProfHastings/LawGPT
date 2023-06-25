@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.05.2023
+Geschäftszahl
+2Nc32/23p
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny und MMag. Sloboda als weitere Richter in der Rechtssache der klagenden Partei G*, vertreten durch Weinrauch Rechtsanwälte GmbH in Graz, gegen die beklagte Partei M*, wegen 45.755,24 EUR sA, über den Ordinationsantrag der klagenden Partei den
+Beschluss
+gefasst:
+Spruch
+Als örtlich zuständiges Gericht wird das Landesgericht für Zivilrechtssachen Graz bestimmt.
+Der Antrag der klagenden Partei auf Kostenzuspruch wird zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger ist der pflichtteilsberechtigte Sohn der 2020 verstorbenen Erblasserin und beabsichtigt, auf § 789 ABGB gestützte Ansprüche gegen den in den Vereinigten Staaten wohnhaften Beklagten (Enkel der Erblasserin) als Geschenknehmer geltend zu machen. Die Erblasserin habe dem Beklagten 2012 eine Liegenschaft geschenkt, die er nach dem Tod der Erblasserin wieder verkauft habe. Die durch die EuErbVO geschaffene Zuständigkeitskonzentration gelte auch für die vom Kläger beabsichtigte Klage auf Zahlung des Fehlbetrags nach § 789 ABGB, sodass gemäß Art 4 EuErbVO österreichische Gerichte international zuständig seien. Da kein Gerichtsstand des Beklagten nach der JN in Österreich bestehe, liege ein Fall des § 28 Abs 1 Z 1 JN vor.
+Rechtliche Beurteilung
+[2] 		Der Ordinationsantrag ist berechtigt.
+[3] 		1. Die Ordination nach § 28 Abs 1 Z 1 JN setzt die – durch einen internationalen Rechtsakt begründete – internationale Zuständigkeit Österreichs und das Fehlen eines örtlich zuständigen Gerichts voraus (RS0118239). Die internationale Zuständigkeit hat der Oberste Gerichtshof im Ordinationsverfahren mangels Vorliegens einer rechtskräftigen Entscheidung frei zu prüfen (RS0046568 [T1]).
+[4] 		2. Für die österreichische internationale Zuständigkeit in Verlassenschaftssachen ist seit ihrem Inkrafttreten am 17. 8. 2015 die EuErbVO maßgeblich. Diese hat ein für die Mitgliedstaaten zwingendes Zuständigkeitsregime ausschließlicher Zuständigkeiten geschaffen. Ihr Anwendungsbereich erstreckt sich nach ihrem Art 1 und ErwGr 9 auf alle zivilrechtlichen Aspekte der Rechtsnachfolge von Todes wegen. Die Zuständigkeitskonzentration gilt für streitige und nicht streitige Erbverfahren (2 Ob 59/18t Pkt 1. mwN) und erfasst auch Klagen auf Zahlung des Fehlbetrags gegen den Geschenknehmer nach § 789 ABGB (Traar in Neumayr/Geroldinger, Internationales Zivilverfahrensrecht, Art 1 EuErbVO Rz 2: „Pflichtteilsergänzungsklagen“; Simotta in Fasching/Konecny I³, § 77 JN Rz 33; vgl bereits 6 Ob 85/12m zur Subsumtion von Pflichtteilsergänzungsklagen unter „Testaments- und Erbrecht“ iSd [nunmehr] Art 1 Abs 2 lit f EuGVVO).
+[5] 		3. Aufgrund des gewöhnlichen Aufenthalts der Erblasserin in Österreich ist die internationale Zuständigkeit österreichischer Gerichte gemäß Art 4 EuErbVO gegeben. Dieser regelt allerdings nur die internationale, nicht aber die örtliche Zuständigkeit. Vielmehr bleiben die sachlichen, örtlichen und funktionalen Zuständigkeitsbestimmungen in den Mitgliedstaaten gemäß Art 2 EuErbVO (weitgehend) unberührt (Deixler-Hübner in Deixler-Hübner/Schauer, EuErbVO² Vor Art 4 ff Rz 5).
+[6] 		4. Der Gerichtsstand nach § 77 Abs 1 JN scheidet aufgrund des rechtskräftigen Abschlusses des Verlassenschaftsverfahrens aus (RS0046596 [rechtskräftige Beendigung durch – auch im Anlassfall vorliegende – Überlassung an Zahlungs statt]). § 77 Abs 2 JN ist ebenfalls nicht anwendbar, weil eine auf Geldzahlung gerichtete Klage nach § 789 ABGB nicht unter die in dieser Bestimmung genannten Erbteilungsklagen zu subsumieren ist (6 Ob 85/12m).
+[7] 		5. Da der Beklagte – wie vom Kläger ausreichend bescheinigt – im Inland weder über einen Wohnsitz noch gewöhnlichen Aufenthalt (§ 66 Abs 1 und 2 JN) oder Vermögen (§ 99 JN) verfügt, lässt sich aus der JN insgesamt kein örtlich zuständiges österreichisches Gericht ableiten.
+[8] 		6. Für die Auswahl des zu ordinierenden Gerichts (in örtlicher Hinsicht) enthält § 28 JN keine ausdrücklichen Vorgaben; es ist dabei auf die Kriterien der Sach- und Parteinähe sowie der Zweckmäßigkeit Bedacht zu nehmen (RS0106680 [T13]). In Anbetracht der Durchführung des Verlassenschaftsverfahrens vor dem Bezirksgericht Graz-West hat eine Zuweisung der Sache an das sachlich zuständige Landesgericht für Zivilrechtssachen Graz zu erfolgen.
+[9] 		7. Im Ordinationsverfahren findet kein Kostenersatz statt, weil es sich dabei um ein einseitiges Verfahren vor dem Obersten Gerichtshof handelt, dem der Beklagte nicht beigezogen wird. Die Kosten des Ordinationsverfahrens sind vielmehr als Prozesskosten im Sinn des § 41 ZPO zu behandeln (RS0114932).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020NC00032.23P.0510.000

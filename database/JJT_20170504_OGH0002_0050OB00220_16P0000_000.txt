@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.05.2017
+Geschäftszahl
+5Ob220/16p
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Hradil als Vorsitzenden sowie die Hofrätin Dr. Grohmann und die Hofräte Mag. Wurzer, Mag. Painsi und Dr. Steger als weitere Richter in der Grundbuchsache der Antragsteller 1. A* P*, 2. V* P*, 3. R* S*, alle vertreten durch Dr. Michael Seifner, öffentlicher Notar in Mattersburg, wegen Einverleibung des Eigentumsrechts und anderer Grundbuchshandlungen in EZ * und EZ *, je GB *, über den außerordentlichen Revisionsrekurs der Antragsteller gegen den Beschluss des Landesgerichts Eisenstadt als Rekursgericht vom 19. September 2016, AZ 13 R 92/16a, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen (§ 126 Abs 3 GBG).
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 126 Abs 2 GBG in Verbindung mit § 62 Abs 1 AußStrG ist gegen einen im Rahmen des Rekursverfahrens ergangenen Beschluss der Revisionsrekurs nur dann zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt. Eine solche Frage zeigt der außerordentliche Revisionsrekurs nicht auf:
+1. Nach der Rechtsprechung des Obersten Gerichtshofs steht ein bereits eingetragenes Fruchtgenussrecht (an der gesamten Liegenschaft) der Verbücherung eines Wohnungsgebrauchsrechts entgegen (RIS-Justiz RS0016305 [T2, T4]). Die Einverleibung eines mit dem Liegenschaftseigentümer unmittelbar vereinbarten Wohnungsrechts ist also unzulässig, wenn ein vorrangiges Fruchtgenussrecht besteht und eine räumliche Überschneidung der beiden Rechte gegeben ist (5 Ob 214/08v = RIS-Justiz RS0016305 [T8]). Es wäre Sache des Fruchtgenussberechtigten, einer Einschränkung seines ursprünglichen Rechts samt den daran anknüpfenden rechtlichen Konsequenzen zuzustimmen (5 Ob 214/08v = RIS-Justiz RS0016305 [T6]). Dass der Fruchtgenussberechtigte (bloß) der Einverleibung des Wohnungsgebrauchsrechts zugestimmt hat, genügt hingegen nicht (5 Ob 214/08v = RIS-Justiz RS0016305 [T7]).
+2. Das Rekursgericht hat diese Rechtsprechung zur Kollision des Fruchtgenusses mit einem Wohnungsgebrauchsrecht zutreffend dargestellt und auf den vorliegenden Einzelfall vertretbar angewandt. Die Revisionsrekurswerber gestehen selbst zu, dass das vorrangig eingeräumte „Wohnungsrecht“ nach dem Wortlaut der Grundbuchseintragung und der ihr zugrunde liegenden Grundbuchsurkunde im Zweifel als Fruchtgenuss zu qualifizieren ist. Der aus diesem Fruchtgenussrecht Berechtigte hat zwar der Einräumung des Wohnungsgebrauchsrecht zugestimmt, eine zweifelsfrei auf Einschränkung dieses Nutzungsrechts gerichtete Willenserklärung enthält diese Zustimmungserklärung jedoch – entgegen der Behauptung der Revisionswerber – nicht. Eine Änderung des zu seinen Gunsten eingetragenen „Wohnungsrechts“ ist auch nicht Gegenstand des Eintragungsgesuchs.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:E118283

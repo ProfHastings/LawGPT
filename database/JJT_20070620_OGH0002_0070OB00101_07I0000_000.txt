@@ -1,0 +1,18 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.06.2007
+Geschäftszahl
+7Ob101/07i
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin des Obersten Gerichtshofes Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Schaumüller, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei Martina Z*****, vertreten durch Dr. Johannes Hintermayr und andere Rechtsanwälte in Linz, gegen die beklagte Partei m***** Aktiengesellschaft, ***** vertreten durch Dr. Wolfgang Richter, Rechtsanwalt in Wien, wegen Unterlassung (Streitwert EUR 36.340), über die außerordentliche Revision der Klägerin gegen das Urteil des Oberlandesgerichtes Linz als Berufungsgericht vom 9. Februar 2007, GZ 4 R 202/06w-48, den Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Elektromagnetische Wellen, und zwar auch solche, die von Mobilfunkanlagen („Handymasten") ausgesendet werden, wurden zwar vom Obersten Gerichtshof bereits als Immissionen im Sinne des § 364 ABGB qualifiziert (6 Ob 180/05x mwN; RIS-Justiz RS0010618). In der Entscheidung 6 Ob 180/05x wurde auch ausgeführt, das die Einhaltung der Grenzwerte einen nachbarrechtlichen Anspruch auf Unterlassung und/oder Schadenersatz wegen Gesundheitsschädigung nicht ausschließe, etwa aus dem Grund, dass die Grenzwerte nicht alle gesundheitsgefährdenden Wirkungen erfassten oder aber neue wissenschaftliche Erkenntnisse vorlägen, die Zweifel an der Richtigkeit der festgelegten Grenzwerte auslösten.
+Derartige Umstände liegen hier aber nach den bindenden Feststellungen der Vorinstanzen nicht vor. Es konnte auch kein Kausalzusammenhang zwischen den von der Basisstation der Beklagten ausgehenden Immissionen und dem Gesundheitszustand der Klägerin festgestellt werden. Vielmehr steht fest, dass die maximale Leitungsflussdichte weit unter den Grenzwerten und in der Größenordnung der ortsüblichen Immissionswerte liegt und thermische Effekte ausgeschlossen werden können.
+Bei der Beurteilung der Wesentlichkeit einer Nutzungsbeeinträchtigung kommt es im besonderen Maß auf die Berücksichtigung der Umstände des Einzelfalls an (RIS-Justiz RS0010558). Es ist ein objektiver Maßstab anzulegen. Maßgeblich ist nicht das subjektive Empfinden des sich gestört fühlenden Nachbarn, sondern das eines Durchschnittsmenschen, der sich in der Lage des Gestörten befindet (RIS-Justiz RS0010607). Die subjektive Besorgnis einer wissenschaftlich nicht erwiesenen Gefährdung stellt keine objektive Beeinträchtigung dar (vgl 1 Ob 146/05k; 2 Ob 265/04s). Da nicht feststeht, dass der Betrieb der Basisstation der Beklagten eine Gesundheitsbeeinträchtigung verursacht, kann von einer (objektiven) wesentlichen Beeinträchtigung im Sinn des § 364 Abs 2 ABGB nach dem heutigen Stand der Wissenschaft nicht gesprochen werden.
+Eine unmittelbare Zuleitung nach § 364 Abs 2 Satz 2 ABGB liegt dann vor, wenn sie durch eine „Veranstaltung" des Nachbarn bewirkt wird, die für eine Einwirkung gerade in der Richtung auf das Nachbargrundstück hin ursächlich ist (1 Ob 196/06i, 2 Ob 11/05i, 1 Ob 58/04t; RIS-Justiz RS0010635). Die Rechtsansicht des Berufungsgerichts, dass nach den Feststellungen keine „unmittelbare Zuleitung" auf das Grundstück der Klägerin, also keine final auf die Zuleitung gerichtete Handlung der Beklagten, vorliegt, hält sich im Rahmen der Judikatur, zumal die von der Basisstation der Beklagten ausgehenden Wellen nicht zielgerichtet auf das Haus der Klägerin ausgesendet werden.
+Es werden insgesamt keine erheblichen Rechtsfragen geltend gemacht. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).

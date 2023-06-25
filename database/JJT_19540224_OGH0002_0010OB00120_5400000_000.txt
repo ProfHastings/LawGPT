@@ -1,0 +1,34 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.02.1954
+Geschäftszahl
+1Ob120/54
+Norm
+ABGB §1233;
+EO §65;
+Grundbuchsgesetz §123;
+Kopf
+SZ 27/48
+Spruch
+Dem in Gütergemeinschaft lebenden Ehegatten steht ein Rekursrecht in dem gegen den den anderen Ehegatten gerichteten Verfahren zur zwangsweisen Pfandrechtsbegründung am Gemeinschaftsgute zu.
+Entscheidung vom 24. Feber 1954, 1 Ob 120/54.
+I. Instanz: Bezirksgericht Neusiedl am See; II. Instanz:
+Landesgericht für Zivilrechtssachen Wien.
+Text
+Die zweitverpflichtete Partei (Ehegattin) hat mit der betreibenden Partei einen Vergleich folgenden Inhaltes geschlossen:
+"Die Antragsgegnerin (zweitverpflichtete Partei) erklärt hiemit ihre ausdrückliche Einwilligung, daß ob den ihr zur Hälfte gehörigen Liegenschaften des Grundbuches A. EZ. ... das Pfandrecht für die Kostenforderung des Antragstellers (betreibende Partei) im Höchstbetrage von 12.000 S einverleibt werde u. zw. auch hinsichtlich des in die Gütergemeinschaft gehörigen Vermögens des Gatten der Antragsgegnerin Michael L., geb. 21. September 1903, all dies sofort bei sonstiger Exekution."
+Auf Grund dieses Vergleiches hat das Erstgericht über Antrag der betreibenden Partei ob der den beiden verpflichteten Parteien je zur Hälfte gehörigen Liegenschaften EZ. ... Grundbuch A. zu Gunsten der vollstreckbaren Kostenforderung von 12.000 S und der Kosten dieses Antrages die Exekution mittels zwangsweiser Pfandrechtsbegründung durch bücherliche Einverleibung des Pfandrechtes bewilligt.
+Dem Rekurs der erstverpflichteten Partei hat das Rekursgericht Folge gegeben und den Exekutionsantrag abgewiesen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach § 7 EO. darf eine Exekution nur bewilligt werden, wenn außer der Person des Berechtigten und Verpflichteten auch der Gegenstand, die Art und der Umfang, ferner die Zeit der geschuldeten Leistung oder Unterlassung dem Exekutionstitel zu entnehmen sind.
+Diese Voraussetzungen treffen aber im vorliegenden Falle nicht zu, da sich aus dem Vergleich (Exekutionstitel) nicht ergibt, daß Leopoldine L. überhaupt zu einer Leistung verpflichtet worden ist.
+Da somit der dem Exekutionsantrag zugrunde liegende Vergleich als Exekutionstitel den Erfordernissen des § 7 EO. nicht entspricht, wurde mit Recht der Exekutionsantrag abgewiesen und gehen daher auch die Ausführungen des Revisionsrekurswerbers, daß die Exekution zumindestens nach § 350 EO. zu bewilligen gewesen wäre, ins Leere.
+Wenn im Revisionsrekurs darauf verwiesen wird, daß, falls die Voraussetzungen für eine exekutive Eintragung nicht vorhanden gewesen wären, dem Antrag durch Einverleibung einer Kautionshypothek im Sinne des § 14 GBG. hätte stattgegeben werden müssen, so ist auch diese Rechtsmeinung irrig.
+Die betreibende Partei hat die Exekution durch zwangsweise Pfandrechtsbegründung gemäß § 87 ff. EO. begehrt. Ein Antrag auf Einverleibung einer Kautionshypothek wurde aber nie gestellt und konnte daher darüber auch nicht entschieden werden.
+Aber abgesehen von diesen Erwägungen stellt sich der Vergleich auch nicht als eine geeignete Urkunde im Sinne des § 26 GBG. dar, auf Grund deren die Einverleibung einer Kautionshypothek hätte erfolgen können. Denn diese Gesetzesstelle erfordert es, daß in der Urkunde, wenn es sich um die Erwerbung oder Umänderung eines dinglichen Rechtes handelt, ein gültiger Rechtsgrund angegeben wird. Eine solche Angabe fehlt aber in dem Vergleich; er enthält lediglich eine Aufsandungserklärung, die aber allein nie eine zur Eintragung erforderliche notwendige Urkunde ersetzen kann (NotZtg. 1931/45).
+Was schließlich die Frage anlangt, ob der Erstverpflichtete berechtigt gewesen sei, die erstrichterliche Exekutionsbewilligung zur Gänze anzufechten, ist davon auszugehen, daß nach dem Buchstandsbericht und dem Vorbringen der Parteien zwischen beiden Verpflichteten eine allgemeine schon unter Lebenden wirksame Gütergemeinschaft besteht. Eine derartige Gütergemeinschaft hat zur Folge, daß das gesamte Vermögen beider Ehegatten gemäß § 1176 ABGB. eine Gesamtheit bildet, welches den Gläubigern des einen oder des anderen Gatten sachlich haftet. Denn durch den Abschluß der Gütergemeinschaft werden die Schulden des einen Gatten zu Schulden des anderen. Auch dieser wird Personalschuldner, wenngleich seine Haftung auf das der Gütergemeinschaft unterliegende Vermögen beschränkt ist (SZ. XII/101, XVI/135, XVIII/179 und XIX/98).
+Liegt aber eine solche Gütergemeinschaft vor, dann kommt dem Erstverpflichteten Michael L. als Ehegatten auch ein Rekursrecht hinsichtlich des gemeinschaftlichen Vermögens zu, um sich gegen eine Exekution, die auf Grund eines nicht bestehenden Titels geführt wird, zur Wehr zu setzen.
+Auf Grund dieser Erwägungen war daher dem Revisionsrekurs der Erfolg zu versagen.

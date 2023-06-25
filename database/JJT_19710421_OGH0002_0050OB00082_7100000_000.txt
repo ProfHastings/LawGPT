@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.04.1971
+Geschäftszahl
+5Ob82/71
+Norm
+Außerstreitgesetz §272;
+Eisenbahnenteignungsgesetz §24;
+ZPO §351;
+ZPO §366;
+Kopf
+SZ 44/51
+Spruch
+§ 272 AußStrG gilt nicht nur für freiwillige Schätzungen, sondern für Schätzungen aller Art, darunter auch für solche im Entschädigungsverfahren nach dem EisbEntG; daher sind auch bei solchen Schätzungen die Vorschriften der ZPO anzuwenden. § 366 Abs 1 ZPO schließt auch gegen die Auswahl des Sachverständigen durch das Gericht ein abgesondertes Rechtsmittel aus
+OGH 21. 4. 1971, 5 Ob 82/71 (LG Klagenfurt 2 R 79/71; BG Villach 2 Nc 233/70).
+Text
+Zufolge Antrags des Enteigneten auf Festsetzung einer Enteignungsentschädigung bestellte das Erstgericht den Baumeister Ing Herbert E sowie den Realitätenvermittler Ing Gregor S zu Sachverständigen. Die Antragsgegnerin erhob gegen die Bestellung des letzteren Einwendungen und beantragte, ihn zu entheben und an seiner Stelle gemäß § 24 Abs 1 EisbEG einen Sachverständigen aus der Forstwirtschaft zu bestellen. Mit diesen Einwendungen verband die Antragsgegnerin für den Fall, als ihnen nicht Folge gegeben werden sollte, einen Rekurs gleichen Inhalts.
+Das Erstgericht wies die Einwendungen der Antragsgegnerin ab und begrundete dies damit, daß beide Sachverständigen der hiefür bestimmten Liste entnommen seien, schon in anderen Fällen wegen Enteignungsentschädigung verwendet wurden und dort schlüssige Gutachten abgegeben hätten, so daß keine Bedenken bestunden, daß Ing S den hier an ihn gestellten Anforderungen nicht entsprechen könnte.
+Den vom Erstgericht sodann vorgelegten Rekurs wies das Rekursgericht mit folgender Begründung als unzulässig zurück:
+Nach dem für das gerichtliche Entschädigungsverfahren geltenden AußStrG sei grundsätzlich ein Rekurs auch gegen prozeßleitende Verfügungen zulässig, soweit die Anfechtungsmöglichkeit nicht durch das Gesetz ausdrücklich oder durch Hinweis auf die anzuwendenden Prozeßgesetze ausgeschlossen sei. § 272 AußStrG, der für Schätzungen aller Art, somit auch für solche im Entschädigungsverfahren nach dem EisbEntG gelte, bestimme, daß hiefür die Prozeßgesetze, also auch § 366 ZPO, anzuwenden seien. Nach Abs 1 dieser Bestimmung finde gegen einen Beschluß, durch den die Ablehnung eines Sachverständigen verworfen werde, ein abgesondertes Rechtsmittel nicht statt; die Enthebung eines abgelehnten Sachverständigen könne nach Abs 2 dieser Bestimmung überhaupt nicht angefochten werden. Daraus sei zu folgern, daß auch gegen die Auswahl, also gegen die Bestellung einer bestimmten Person zum Sachverständigen, ein Rechtsmittel nicht zulässig sei. Der gegenteiligen Ansicht Faschings (Komm III 480) könne nicht beigepflichtet werden, da kein Grund bestehe, für die Anfechtung der Auswahl eines Sachverständigen andere Grundsätze gelten zu lassen als für die Bekämpfung eines Beschlusses, durch den die Ablehnung des Sachverständigen verworfen werde.
+Der Oberste Gerichtshof gab dem Rekurs der Antragsgegnerin gegen den Beschluß des Rekursgerichtes nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Das Rekursgericht hat unter Anführung oberstgerichtlicher Vorentscheidungen (RZ 1956, 79; EvBl 1966/448) zutreffend dargelegt, daß § 272 AußStrG nicht nur für freiwillige Schätzungen, sondern für Schätzungen aller Art, darunter auch für solche im Entschädigungsverfahren nach dem EisbEntG gilt. Danach sind auch bei solchen Schätzungen die Vorschriften der ZPO somit auch deren §§ 351 und 366, anzuwenden.
+Gemäß § 366 Abs 1 ZPO findet gegen einen Beschluß, durch den die Ablehnung eines Sachverständigen verworfen wird, kein abgesondertes Rechtsmittel statt. Nach ständiger oberstgerichtlicher Rechtsprechung (GlUNF 6743; SZ 35/96; SZ 38/89; JBl 1966, 45 f; 8 Ob 54/70 ua) ist die Auswahl des Sachverständigen eine der Anordnungen, die das Gericht zur Durchführung der Beweisaufnahme zu treffen hat; sie bildet einen integrierenden Bestandteil des Beweisbeschlusses und ist daher durch ein abgesondertes Rechtsmittel nicht anfechtbar. Der OGH hat sich in diesen Entscheidungen auf die Lehrmeinung Neumanns (Komm II 1076 bei FN 4) gestützt und die gegenteilige Ansicht Faschings (Komm III Anm 4 und 8 zu § 351 ZPO) abgelehnt.
+Die Rekursausführungen vermögen den OGH nicht zu einem Abgehen von seinem Standpunkt zu veranlassen. Insbesondere kann der Argumentation nicht gefolgt werden, § 366 Abs 1 ZPO spreche nur von dem Beschluß, durch den die Ablehnung eines Sachverständigen verworfen wird, nicht aber von dem Beschluß, mit dem die Auswahl des Sachverständigen vorgenommen wird, weshalb dieser arg e silentio abgesondert anfechtbar sei. Wie schon in SZ 35/96 dargelegt wurde, gibt das Gesetz den Parteien gegen die Bestellung des Sachverständigen ein eigenes Rechtsmittel an die Hand, nämlich dessen Ablehnung (§ 355 ZPO). Gegen die Verwerfung der Ablehnung gibt es nach § 366 Abs 1 ZPO nur ein mit der nächsten anfechtbaren Entscheidung verbundenes Rechtsmittel, obwohl in einem solchen Fall gegen den Sachverständigen ein Ablehnungsgrund geltend gemacht wurde. Dem ist die Abweisung des Antrages auf Bestellung eines Sachverständigen gleichzuhalten.
+Die im Rekurs angeführte Entscheidung 6 Ob 139/70 RZ 1971, 15 spricht keineswegs für den Standpunkt der Rekurswerberin. Sie übernimmt lediglich die Ansicht Faschings (aaO 481 Anm 5), wonach die in der Auswahl des Sachverständigen gelegene Überzeugung des Gerichtes von dessen Eignung überprüfbar und daher anfechtbar sei, nicht aber die weitere der Anm 8 (S 483) über die abgesonderte Anfechtbarkeit.

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.11.1955
+Geschäftszahl
+3Ob511/55
+Norm
+ABGB §§870 ff;
+KO §61;
+KO §109;
+Kopf
+SZ 28/238
+Spruch
+Unanfechtbarkeit der Prüfungserklärungen des Masseverwalters wegen Willensmängeln.
+Entscheidung vom 2. November 1955, 3 Ob 511/55.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Kläger begehrte, die Anerkennung der im Konkurse des Gemeinschuldners Alexander P. angemeldeten Leibrentenforderung des Othmar P. aus dem Kaufvertrag mit Alexander P. per 1755 S sowie im Teilbetrage von 30.000 S in der Rangordnung der ersten Klasse der Konkursforderungen für ungültig zu erklären und die Forderungen in der dritten Klasse der Konkursforderungen festzustellen, weil die Anerkennung der Forderung in der ersten Klasse auf einem lrrtum des Masseverwalters beruht habe.
+Das Erstgericht wies das Klagebegehren ab.
+Das Berufungsgericht bestätigte.
+Der Oberste Gerichtshof gab der Revision der klagenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Das Anerkenntnis des Masseverwalters (§ 109 KO.) ist keine privatrechtliche Erklärung, sondern eine Prozeßhandlung, bei der es schon aus Rücksichten der Rechtssicherheit und Ordnung nur auf die in die Außenwelt tretende Erklärung, nicht aber auf den der Erklärung zugrunde liegenden Willen ankommt. Im Gegensatz zum privatrechtlichen Anerkenntnis ist ihm die Rechtskrafts- und Vollstreckbarkeitswirkung eines rechtskräftigen zivilgerichtlichen Urteiles beizulegen, und zwar im Konkursverfahren sowie auch nach dem Kokursverfahren, wenn keine Bestreitungserklärung vorliegt (§§ 109, 61 KO.; vgl. SZ. IX 17, SZ. XXIII 145). Daraus folgt, daß eine Anfechtung des Anerkenntnisses des Masseverwalters ebenso wie aller anderen Prüfungserklärungen wegen Willensmängeln (§§ 870 ff. ABGB.), somit auch wegen Irrtums, nicht zulässig ist, weil die Konkursordnung und die Zivilprozeßordnung die Anfechtungsgrunde der §§ 870 bis 876 ABGB. weder ausdrücklich normieren noch deren sinngemäße Anwendung gestatten. Die abgegebene Prüfungserklärung wirkt daher, weil sie abgegeben ist, mag ihr ein Willensmangel zugrunde liegen oder nicht. Andernfalls wäre die Rechtskraft der Entscheidungen über die Richtigkeit und Rangordnung bestrittener Ansprüche in Frage gestellt (§§ 105, 110, 112 KO.).

@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.05.1959
+Geschäftszahl
+5Ob212/59
+Norm
+EO §§79 ff;
+ZPO §226;
+ZPO §411;
+Kopf
+SZ 32/59
+Spruch
+Ein im Inland nicht vollstreckbares ausländisches Urteil kann auch nicht die Grundlage für die urteilsmäßige Verpflichtung zur Erfüllung des darin zuerkannten Anspruches bilden.
+Entscheidung vom 6. Mai 1959, 5 Ob 212/59.
+I. Instanz: Bezirksgericht Fünfhaus; II. Instanz: Landesgericht für Zivilrechtssachen Wien.
+Text
+Das Landgericht Bonn bestimmte die von der Beklagten dem Kläger in einem Rechtsstreit zu erstattenden Kosten mit DM 433.96. Diesen Betrag zuzüglich weiterer Zwangsvollstreckungs- und Gerichtsgebühren im Betrag von DM 8.02 begehrt der Kläger im Klageweg mit der Begründung, daß diese Beträge in Österreich im Exekutionsweg gemäß § 79 EO. mangels verbürgter Gegenseitigkeit nicht eingetrieben werden könnten.
+Das Erstgericht wies die Klage mit der Begründung ab, daß der Kläger mit der Klage die Bezahlung einer Judikatsobligation begehre, wobei er als Rechtsgrund ausdrücklich nur geltend mache, daß die Beklagte ihm auf Grund des Urteiles des Landgerichtes Bonn vom 14. April 1954 und des Beschlusses dieses Landgerichtes vom 2. August 1954 insgesamt den Betrag von DM 441.98 schulde. Das sei unzulässig. Fehle einem ausländischen Urteil im Inlande die Vollstreckbarkeit, dann könne aus dem Spruch des ausländischen Richters auch nicht ein im Klageweg durchsetzbarer Rechtsanspruch abgeleitet werden.
+Das Berufungsgericht erkannte in Abänderung des Ersturteiles durch Teilurteil im Sinne des Klagebegehrens und verwies gleichzeitig mit Beschluß die Rechtssache im Umfang der eingewendeten Gegenforderung an das Prozeßgericht zur neuerlichen Verhandlung und Entscheidung zurück. Das Berufungsgericht nahm den Standpunkt ein, daß es sich bei der vorliegenden Klage um eine solche auf Ersatz des durch den Kläger verursachten Aufwandes handle, der Berechtigung zukomme, weil die Tatsache der Prozeßführung des Klägers gegen die Beklagte feststehe und der dadurch entstandene Aufwand der Höhe nach nicht strittig sei.
+Der Oberste Gerichtshof gab der Revision der Beklagten Folge und stellte das Ersturteil wieder her.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Den vom Erstgericht vertretenen Standpunkt, daß ein im Inland nicht vollstreckbares ausländisches Urteil auch nicht die Grundlage für die urteilsmäßige Verpflichtung zur Erfüllung des im ausländischen Urteil zuerkannten, im Exekutionsweg nicht durchsetzbaren Anspruches bilden kann, hat der Oberste Gerichtshof schon in seiner Entscheidung GlUNF. 1383 eingenommen. Die Richtigkeit dieser Ansicht kann nicht bezweifelt werden. Versagt die inländische Rechtsordnung einem ausländischen Urteil die Vollstreckbarkeit, dann anerkennt sie eben den ausländischen Richterspruch nicht als im Inland bindend, und es kann dieses Urteil daher nicht als Rechtsgrund für die Geltendmachung einer Forderung herangezogen werden.
+Der Zuspruch des vom Kläger begehrten Betrages läßt sich auch nicht, wie dies das Berufungsgericht ausgesprochen hat, damit rechtfertigen, daß es sich bei der Klage um eine solche auf Ersatz des dem Kläger verursachten Aufwandes handle. Daß der Kläger für die Beklagte einen Aufwand gemacht habe, den diese nach dem Gesetz selbst hätte machen müssen (§ 1042 ABGB.), wurde nicht behauptet. Allerdings stellen die Kosten, die einer Partei durch die Führung des Prozesses entstanden sind, einen "Aufwand" dar. Damit ist aber noch kein Rechtstitel für den Ersatz dieser Kosten durch den Gegner gegeben. Dieser Rechtstitel wird erst durch den Ausspruch des Gerichtes, der den Gegner zum Kostenersatz verpflichtet, geschaffen, weil dann der Grundsatz wirksam wird, daß der Unterliegende, der erfolglos den Prozeß geführt hat, dem Sieger die Prozeßkosten zu ersetzen hat (Pollak, System des österreichischen Zivilprozeßrechtes, 2. Aufl. I S. 59). Ist aber dieser Spruch, weil nicht vollstreckbar, im Inland unwirksam, dann mangelt es an einem solchen Rechtstitel, und es muß eine Klage abgewiesen werden, die sich auf keinen anderen Rechtsgrund als auf eine im Inland unwirksame Entscheidung, durch die ein Rechtsstreit zugunsten des Klägers erledigt wurde, grundet.

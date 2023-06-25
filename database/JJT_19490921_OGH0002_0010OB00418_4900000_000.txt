@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.09.1949
+Geschäftszahl
+1Ob418/49
+Norm
+Arbeitsgerichtsgesetz §1;
+Arbeitsgerichtsgesetz §3;
+JN §49 Abs2 Z6;
+JN §65;
+Kopf
+SZ 22/132
+Spruch
+Im Sinne des § 3 ArbGerG. hat als Ort, an dem die Arbeit zu leisten ist, für das fahrende Personal in Verkehrsbetrieben der Ort zu gelten, an dem sich der Dienstnehmer regelmäßig vor Beginn der Fahrt einzufinden und an den er nach Beendigung der Fahrt zurückzukehren hat; das ist bei einem mit Kraftwagen betriebenen Transportunternehmen in der Regel die am Ausgangsort befindliche Garage.
+Muß mangels eines gemäß § 3 ArbGerG. örtlich zuständigen Arbeitsgerichtes die Klage bei dem nach den Vorschriften der Jurisdiktionsnorm zuständigen ordentlichen Gerichte eingebracht werden, dann begrundet der Umstand, daß sich am Sitze dieses Gerichtes auch ein Arbeitsgericht befindet, nicht die Zuständigkeit dieses Arbeitsgerichtes.
+Entscheidung vom 21. September 1949, 1 Ob 418/49.
+I. Instanz: Bezirksgericht Urfahr; II. Instanz: Landesgericht Linz - Nord.
+Text
+Es ist unbestritten, daß der Beklagte als Kraftfahrer in dem Transportunternehmen angestellt war und als solcher Personentransporte von Linz nach Wien durchzuführen hatte. Es steht ferner außer Streit, daß der Kläger seinen Wohnsitz in Waizenkirchen und der Beklagte seinen Wohnsitz in Urfahr hat.
+Das Erstgericht hat die bei ihm gemäß §§ 49 Z. 6, 65 JN. eingebrachte Klage wegen sachlicher Unzuständigkeit zurückgewiesen und die Nichtigkeit des vorangegangenen Verfahrens ausgesprochen, weil es sich im gegebenen Falle um eine Streitigkeit aus dem Dienstverhältnis handle, für die gemäß § 1 ArbGerG. das Arbeitsgericht zuständig sei.
+Infolge Rekurses der klagenden Partei hat das Landesgericht Linz - Nord den Beschluß des Bezirksgerichtes aufgehoben und diesem die Fortsetzung des Verfahrens aufgetragen. In der Begründung wird ausgeführt, daß ein zur Erledigung der vorliegenden Klage örtlich zuständiges Arbeitsgericht nicht existiere, weil die für die örtliche Zuständigkeit eines Arbeitsgerichtes gemäß § 3 ArbGerG. maßgebenden Umstände (Betriebsstätte, Sitz des Unternehmens, Wohnsitz des Unternehmers, der Ort, an dem die Arbeit zu leisten und der Lohn auszubezahlen ist) durchwegs im Sprengel des Bezirksgerichtes Peuerbach verwirklicht seien und für die im Sprengel dieses Gerichtes gelegenen Orte ein örtlich zuständiges Arbeitsgericht nicht bestehe. Der Umstand, daß sich am Sitz des gemäß § 65 JN. örtlich zuständigen Prozeßgerichtes zufällig auch ein Arbeitsgericht befinde, sei für die Entscheidung der Zuständigkeitsfrage ohne Bedeutung, weil für die örtliche Zuständigkeit der Arbeitsgerichte nur § 3 Arb.GerG. maßgebend sei.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten Folge, hob die Beschlüsse beider Untergerichte auf und verwies die Sache zur neuerlichen Prüfung seiner Zuständigkeit an das Erstgericht.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Ansicht des Revisionsrekurswerbers, daß für Streitigkeiten aus dem Dienstverhältnis in einem Verkehrsbetriebe gemäß § 3 ArbGerG. alle Arbeitsgerichte örtlich zuständig seien, durch deren Bezirk die dem Dienstnehmer vorgeschriebene Route führt, kann allerdings nicht beigestimmt werden. Im Sinne des § 3 ArbGerG. hat als Ort, an dem die Arbeit zu leisten ist, für das fahrende Personal in Verkehrsbetrieben der Ort zu gelten, an dem sich der Dienstnehmer regelmäßig vor Beginn der Fahrt einzufinden und an den er nach Beendigung der Fahrt zurückzukehren hat, bei einem Transportunternehmen, das Personen oder Lasten mittels Kraftwagens befördert, demnach die am Ausgangsort befindliche Garage. Bei derartigen Unternehmen wird also der Ort, an dem die Arbeit zu leisten ist, in der Regel mit der Betriebsstätte zusammenfallen (Arb. Slg. 4399).
+Im vorliegenden Falle fehlt nun für die Annahme des Rekursgerichtes, daß die Betriebsstätte des Klägers und damit der Ort, an dem der Beklagte die Arbeit zu leisten hatte, in Waizenkirchen gelegen ist, jede tatsächliche Grundlage. Weder der Kläger noch der Beklagte haben dies behauptet. Es ist vielmehr, da die Transporte zwischen Linz und Wien laufen, eher anzunehmen, daß der vom Beklagten gelenkte Autobus in Linz garagiert ist. Wäre dies der Fall, dann wäre ein zur Entscheidung dieses Rechtsstreites örtlich zuständiges Arbeitsgericht, nämlich das Arbeitsgericht in Linz, vorhanden und das Erstgericht hätte die Klage mit Recht zurückgewiesen. Läge aber diese Garage tatsächlich in Waizenkirchen, dann wäre allerdings mangels eines örtlich zuständigen Arbeitsgerichtes die Klage mit Recht beim ordentlichen Gericht eingebracht worden. Im übrigen stimmt der Oberste Gerichtshof der Rechtsansicht des Rekursgerichtes bei, daß der Umstand, daß sich am Wohnort des beklagten Dienstnehmers zufällig ein Arbeitsgericht befindet, die örtliche Zuständigkeit dieses Arbeitsgerichtes nicht begrundet.
+Da aber die für die Entscheidung der Zuständigkeitsfrage maßgebenden Tatumstände von keinem der beiden Untergerichte erhoben und festgestellt wurden, mußte der Oberste Gerichtshof den angefochtenen Beschluß und den Beschluß des Erstgerichtes aufheben und die Sache zur neuerlichen Prüfung der Zuständigkeitsfrage an das Erstgericht zurückverweisen.

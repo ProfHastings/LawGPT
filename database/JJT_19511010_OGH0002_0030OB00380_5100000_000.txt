@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+10.10.1951
+Geschäftszahl
+3Ob380/51
+Norm
+ABGB §1440;
+EO §293;
+Gesetz über die Gesellschaften mit beschränkter Haftung §63;
+KO §19;
+Kopf
+SZ 24/268
+Spruch
+Das Verbot der Aufrechnung nach § 63 Abs. 3 GesmbHG. gilt sowohl für den Gesellschafter wie für die Gesellschaft, auch wenn die restliche Stammeinlage beim Gesellschafter vermutlich uneinbringlich und über das Vermögen der Gesellschaft der Konkurs eröffnet ist.
+Entscheidung vom 10. Oktober 1951, 3 Ob 380/51.
+I. Instanz: Landesgericht Salzburg; II. Instanz: Oberlandesgericht Linz.
+Text
+Das Berufungsgericht hat in teilweiser Abänderung des Urteiles erster Instanz ausgesprochen, daß die vom Kläger zum Konkurse der Firma Ph. in der ersten Klasse der Konkursforderungen angemeldete Forderung im Betrage von 8717.11 S richtig ist, u. zw. dem Range nach bis zur Höhe von 4800 S bezüglich der Lohnforderungen. Die Abweisung des Mehrbegehrens ist in Rechtskraft erwachsen.
+Der Oberste Gerichtshof gab der Revision der beklagten Partei nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+In rechtlicher Hinsicht wird vor allem ausgeführt, daß der Kläger laut Feststellung des Erstrichters im Zeitpunkte der Konkurseröffnung der Gesellschaft noch immer einen Teil seiner Stammeinlage, d. i. den Betrag von 24.930 S schuldete, weshalb die Lohnforderung des Klägers durch Aufrechnung getilgt sei. § 63 des Gesetzes über Gesellschaften m. b. H. stehe der Aufrechnung nicht entgegen, da das Aufrechnungsverbot für den Masseverwalter nicht gelten könne.
+Diese Rechtsansicht vermag der Oberste Gerichtshof nicht zu teilen. Das Kompensationsverbot des § 63 des Gesetzes über Gesellschaften m. b. H. ist im Interesse der Gesellschaften und ihrer Gläubiger geschaffen worden. Der Gesetzgeber wollte, wie das Berufungsgericht zutreffend darlegt, eine Garantie dafür schaffen, daß das Stammkapital als Kreditbasis der Gesellschaft und als Befriedigungsfonds der Gläubiger wirklich einfließt und zur Verfügung steht. Dabei ist allerdings vorausgesetzt, daß die Gesellschaft die rückständigen Einlagen rechtzeitig eintreibt und nicht wartet, bis der säumige Gesellschafter selbst Forderungen geltend macht; denn in einem solchen Falle kann stets das eintreten, was der Masseverwalter im vorliegenden Prozesse besorgt, daß nämlich die Gesellschaft zahlen muß, ehe sie die Einlage hereinbekommen hat. Wenn dann der Gesellschafter sich als nicht zahlungsfähig erweist, schlägt eben das Aufrechnungsverbot zum Nachteile der Gesellschaft und ihrer Gläubiger aus, gleichgültig ob die Gesellschaft sich im Konkurse befindet oder nicht.
+Daher kann der Hinweis der beklagten Partei auf die voraussichtliche Uneinbringlichkeit der Forderung nicht als Argument gegen die Anwendbarkeit des § 63 Ges. m. b. H.-Ges. ins Treffen geführt werden. Auch die Ausführungen der Revision, daß die genannte Bestimmung überhaupt nur für den Fall des Fortbestandes der Gesellschaft gedacht sei und im Konkurs der Gesellschaft nicht gelten solle, ist abzulehnen. Aus dem Wortlaute des § 63 läßt sich für diese Rechtsansicht nichts gewinnen; denn aus ihr ergibt sich nur, daß der Fall des Konkurses der Gesellschaft nicht behandelt ist. Auch der Umstand, daß gemäß § 84 Ges. m. b. H.-Gesetz die Eröffnung des Konkurses das Erlöschen der Gesellschaft m. b. H. zur Folge hat, ist nicht entscheidend, da Forderungen durch Änderung in der rechtlichen Qualifikation des Gläubigers oder des Schuldners ihre Nichtaufrechenbarkeit nicht einbüßen müssen und im Falle des Konkurses die Aufrechenbarkeit nur im Rahmen des § 19 KO. erweitert wird. Darüber hinauszugehen, besteht im vorliegenden Falle kein Anlaß, denn die Gründe für das Aufrechnungsverbot sind durch die Eröffnung des Konkurses nicht weggefallen. Derselbe Schutz, den die Gesellschaft und ihre Gläubiger vor der Konkurseröffnung genossen haben, soll den Gläubigern auch nachher zukommen, zumal sich ihre Stellung nicht verbessert, sondern verschlechtert hat.
+Es bestehen auch gegen die Aufnahme des Betrages von 8717.11 S in den Urteilsspruch keine Bedenken, da dieser Betrag in der Berufungsverhandlung außer Streit gestellt wurde und das Urteil erkennen läßt, daß nur der Betrag von 4800 S in die erste Klasse der Konkursforderungen gehört.
+Bei dieser Rechtslage kann die Frage, in welchem Ausmaße auch § 293 EO. zur Anwendung käme, auf sich beruhen und es bedurfte keiner weiteren Feststellung über die Höhe der Bezüge des Klägers und seiner Gesamtforderung.
+Demnach liegen die behaupteten Revisionsgrunde nicht vor; dies führte zur Bestätigung des angefochtenen Urteiles.

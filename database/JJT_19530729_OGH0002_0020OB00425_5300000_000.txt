@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.07.1953
+Geschäftszahl
+2Ob425/53
+Norm
+Allgemeines bürgerliches Gesetzbuch §276;
+Außerstreitgesetz §9;
+Grundbuchsgesetz §126;
+Kopf
+SZ 26/203
+Spruch
+Gegen die Anordnung des Grundbuchsgerichtes, daß ein Beschluß jemanden zugestellt werde, ist kein Rechtsmittel zulässig.
+Entscheidung vom 29. Juli 1953, 2 Ob 425/53.
+I. Instanz: Bezirksgericht Kirchdorf a. d: Krems; II. Instanz:
+Kreisgericht Steyr.
+Text
+Das Erstgericht hat den Antrag des Richard S., einen Richtigstellungsbeschluß, mit dem an Stelle der M.- Wassergenossenschaft die Gemeinde M. als Eigentümerin einer Liegenschaft (Trinkwasserleitung) einverleibt worden war, allen Besitzern von Häusern in M., die an die Wasserleitung angeschlossen sind, oder einem zu bestellenden Kurator zuzustellen, abgewiesen.
+Das Rekursgericht hat den Beschluß des Erstgerichtes dahin abgeändert, daß diesem die Zustellung des Beschlusses an Richard S. und einen für die Genossenschaft zu bestellenden Kurator aufgetragen worden ist.
+Der Oberste Gerichtshof hat den Revisionsrekurs der Gemeinde M. zurückgewiesen.
+Rechtliche Beurteilung
+Aus der Begründung:
+In Grundbuchssachen ist die Rekurslegitimation nach § 9 AußstrG. zu beurteilen (vgl. die bei Wegan, Grundbuchsrecht, 1953, zu § 126 GBG. unter Nr. 1 und 2 angeführten Entscheidungen). Danach hat ein Rekursrecht nur der, dessen Interessensphäre durch eine Verfügung berührt wird, der durch eine Verfügung beschwert ist. Ohne Rechtsschutzinteresse gibt es kein Rekursrecht.
+Durch die bekämpfte Anordnung einer Zustellung kann im gegenständlichen Fall ebensowenig wie durch die Zustellung selbst die Revisionsrekurswerberin in irgend einer Weise beschwert werden, da die Zustellung eines Gerichtsbeschlusses (bzw. die darin liegende amtliche formelle Vertändigung von dem Inhalte dieses Beschlusses) für den Empfänger Rechte nicht begrundet. Die Zustellung gibt dem Empfänger weder Rechtspersönlichkeit noch Parteistellung oder sonst ein Recht der Beteiligung an einem Verfahren, wie etwa die Legimitation zur Einbringung eines Rechtsmittels, sondern setzt nur allenfalls zu Lasten des Empfängers eine Rechtsmittelfrist in Lauf. Die Zustellung kann daher allenfalls Anlaß zu einer Beschwerde gegen das sie verfügende Gericht (z. B. wegen Verletzung der Amtsverschwiegenheit) geben, kann aber nicht mit einem Rechtsmittel bekämpft werden, das ja in der Regel auch zu spät kommen würde.
+Die Bestellung eines Kurators kann mangels Beteiligung am Verfahren zur Bestellung dieses Kurators nicht von dem bekämpft werden, gegen den der Kurator vermutlich mit Klage, Antragstellung oder Rechtsmittelerhebung vorgehen wird (2 Ob 470/50). Es fehlt auch hier das Rechtsschutzinteresse. Es sei hiezu nur bemerkt, daß gemäß § 276 ABGB. ein Kurator nicht nur für einzelne physische oder juristische Personen bestellt werden kann, sondern auch für eine Personenmehrheit, nämlich für die dem Gerichte zur Zeit noch unbekannten Teilnehmer an einem Geschäfte.

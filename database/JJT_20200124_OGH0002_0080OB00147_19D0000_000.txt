@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.01.2020
+Geschäftszahl
+8Ob147/19d
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn, den Hofrat Dr. Stefula und die Hofrätin Mag. Wessely-Kristöfel als weitere Richter in der Insolvenzsache des Schuldners Dr. S***** A*****, vertreten durch Dr. Michael Battlogg, Rechtsanwalt in Schruns, über den außerordentlichen Revisionsrekurs des Schuldners gegen den Beschluss des Landesgerichts Feldkirch als Rekursgericht vom 13. November 2019, GZ 2 R 256/19s-137, mit dem der Rekurs des Schuldners gegen den Beschluss des Bezirksgerichts Feldkirch vom 23. September 2019, GZ 16 S 62/18y-107, zurückgewiesen wurde, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird einschließlich des Antrags auf Vorlage gemäß Art 89 B-VG zurückgewiesen.
+Text
+Begründung:
+Mit Beschluss des Erstgerichts vom 2. 5. 2019, ON 62, wurde Rechtsanwalt Dr. F***** zum Masseverwalter bestellt.
+Das Erstgericht trug mit Beschluss vom 23. 9. 2019, ON 107, dem Insolvenzverwalter die freihändige Veräußerung bestimmter Liegenschaften auf.
+Dagegen erhob der Schuldner Rekurs (ON 125).
+Das Rekursgericht wies mit der angefochtenen Entscheidung den Rekurs im Wesentlichen mit der Begründung zurück, dass es sich beim Beschluss des Erstgerichts um eine Weisung iSd § 84 Abs 1 IO handle und der Schuldner nicht zum Rekurs gegen eine solche berechtigt sei. Das Rekursgericht bewertete den Entscheidungsgegenstand mit über 30.000 EUR; den ordentlichen Revisionsrekurs ließ es nicht zu, da keine erhebliche Rechtsfrage iSd § 528 ZPO vorliege.
+Mit seinem außerordentlichen Revisionsrekurs, ON 149, strebt der Schuldner die Aufhebung der Beschlüsse der Vorinstanzen sowie den Ausspruch an, dass die Verwertung der Liegenschaften durch Zwangsverwertung erfolge; hilfsweise wird ein Aufhebungs- und Zurückverweisungsantrag gestellt. Zudem wird beantragt, ein Normenkontrollverfahren beim Verfassungsgerichtshof in Hinsicht auf den Rechtsmittelausschluss nach § 84 Abs 3 Satz 2 IO einzuleiten.
+Der außerordentliche Revisionsrekurs und der mit ihm verbundene Antrag auf Einleitung eines Gesetzesprüfungsverfahrens sind nicht zulässig.
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung ist das Rechtsmittel gegen einen Beschluss des Gerichts zweiter Instanz auf Zurückweisung eines Rekurses ein Revisionsrekurs iSd § 528 ZPO, der nur unter dessen Voraussetzungen anfechtbar ist. Die Anfechtbarkeit eines solchen Beschlusses setzt damit jedenfalls auch das Vorliegen einer erheblichen Rechtsfrage voraus (RIS-Justiz RS0044501; RS0044269 [T1, T2]; A. Kodek in Rechberger/Klicka, ZPO5 § 526 Rz 8). Dies gilt auch im Insolvenzverfahren (8 Ob 29/98t; 8 Ob 64/19y). Anderes gilt, wenn der Zurückweisungsbeschluss des Rekursgerichts auf die abschließende Verweigerung des Rechtsschutzes nach einem materiellen Rechtsschutzbegehren hinausläuft. Derartige Beschlüsse sind analog § 519 Abs 1 Z 1 ZPO ungeachtet des Werts des zweitinstanzlichen Entscheidungsgegenstands und des Vorliegens einer erheblichen Rechtsfrage – also mit „Vollrekurs“ – anfechtbar (8 Ob 64/19y mwN).
+Der Ausnahmefall der abschließenden Verweigerung des Rechtsschutzes liegt hier nicht vor, sodass das Vorliegen einer erheblichen Rechtsfrage unabdingbar ist. Diese Voraussetzung ist hier aber nicht erfüllt:
+2.1. Gemäß § 84 Abs 1 IO hat das Insolvenzgericht die Tätigkeit des Insolvenzverwalters zu überwachen. Es kann ihm (ua) Weisungen erteilen. Wie bereits vom Rekursgericht erkannt, stellt der Beschluss des Erstgerichts, mit dem dem Insolvenzverwalter die freihändige Veräußerung bestimmter Liegenschaften aufgetragen wurde, eine solche Weisung dar.
+2.2. Nach ständiger Rechtsprechung gilt bei der Erteilung einer Weisung in Ermangelung einer Sonderregelung grundsätzlich der Rechtsmittelausschluss des § 84 Abs 3 Satz 2 IO (RS0124961; RS0065165; 8 Ob 30/15t; 8 Ob 124/18w). Hiervon ist nach Rechtsprechung (RS0114471 [T1]; 8 Ob 30/15t; 8 Ob 74/18t) und Lehre (Hierzenberger/Riel in Konecny/Schubert, Insolvenzgesetze [1997] § 84 KO Rz 9; Chalupsky/Duursma-Kepplinger in Bartsch/Pollak/Buchegger, Österreichisches Insolvenzrecht4 III [2002] § 84 KO Rz 12 f, 16; Reisch in KLS [2019] § 84 Rz 22) der Insolvenzverwalter, nicht hingegen der Schuldner ausgenommen. Der Revisionsrekurswerber ist damit gerade nicht rechtsmittellegitimiert.
+2.3. Aus §§ 116, 117 IO lässt sich für den Revisionsrekurswerber nichts anderes ableiten, weil (noch) kein Geschäft im Sinne dieser Vorschriften vorliegt. Im Übrigen ändert die Unanfechtbarkeit der vorliegenden Weisung zur freihändigen Liegenschaftsverwertung nichts am Erfordernis, dass ein sodann vom Insolvenzverwalter abgeschlossener konkreter Kaufvertrag noch der insolvenzgerichtlichen Genehmigung bedarf (§ 117 Abs 1 Z 3 IO). Gegen einen solchen Beschluss wäre der Revisionsrekurswerber rechtsmittellegitimiert (zB Jelinek in KLS § 117 IO Rz 63 f).
+3. Ein Antrag einer Partei auf Befassung des Verfassungsgerichtshofs ist zurückzuweisen, weil den Parteien ein diesbezügliches Antragsrecht nicht zukommt (RS0056514; RS0058452). Im Übrigen ist der Rechtsmittelausschluss nach § 84 Abs 3 Satz 2 IO verfassungsrechtlich unbedenklich (8 Ob 56/89; 8 Ob 98/04a = RS0119457; Hierzenberger/Riel aaO Rz 16). Die mangelnde Anfechtbarkeit einer insolvenzgerichtlichen Weisung an den Insolvenzverwalter stellt entgegen der Ansicht des Revisionsrekurswerbers keine Verletzung des Art 6 MRK dar, weil dort eine Anfechtungsmöglichkeit hinsichtlich gerichtlicher Entscheidungen nicht vorgesehen ist (8 Ob 56/89; RS0074794; Kodek/Mayr, Zivilprozessrecht4 [2018] Rz 1004). Der Rechtsmittelausschluss des § 84 Abs 3 Satz 2 IO ist auch sachlich gerechtfertigt (Chalupsky/Duursma-Kepplinger aaO Rz 12).
+Da der außerordentliche Revisionsrekurs des Schuldners keine Rechtsfrage iSd § 528 Abs 1 ZPO iVm § 252 IO aufzuzeigen vermag ist, er samt dem unzulässigen Antrag auf Einleitung eines Normprüfungsverfahrens zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0080OB00147.19D.0124.000

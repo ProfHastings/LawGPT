@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.02.2023
+Geschäftszahl
+1Ob25/23t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Mag. Mag. art C*, vertreten durch die Salburg Rechtsanwalts GmbH in Wien, gegen die beklagte Partei R* Limited, *, Malta, vertreten durch Mag. Marcus Marakovics, Rechtsanwalt in Wien, wegen 534.634,10 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 4. Jänner 2022, GZ 16 R 228/22z-19, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels Vorliegens der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte bietet von ihrem Sitz in Malta aus über die von ihr betriebene Website Dienstleistungen im Bereich des Glücksspiels an. Sie verfügt jedoch über keine Konzession nach dem österreichischen Glücksspielrecht.
+[2] 		Der Kläger nahm an von der Beklagten veranstalteten Online-Glücksspielen teil und verlor im Zeitraum November 2018 bis Dezember 2021 insgesamt 534.634,10 EUR.
+[3] 		Die Vorinstanzen verpflichteten die Beklagte zur Rückzahlung des Verlusts.
+[4] 		Die dagegen gerichtete außerordentliche Revision der Beklagten zeigt keine Rechtsfrage der Qualität des § 502 Abs 1 ZPO auf.
+Rechtliche Beurteilung
+[5] 		1. Die behauptete Mangelhaftigkeit des Berufungsverfahrens wurde geprüft, sie liegt nicht vor (§ 510 Abs 3 ZPO).
+[6] 		2. Nach ständiger Rechtsprechung steht § 1174 Abs 1 Satz 1 ABGB einem (bereicherungsrechtlichen) Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein (verbotenes) Online-Glücksspiel nicht entgegen, weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern um am Spiel teilzunehmen. Damit ist § 1174 Abs 1 Satz 1 ABGB schon seinem Wortlaut nach nicht anwendbar. Darauf, ob der Spieler durch die Teilnahme am verbotenen Spiel (selbst) einen Verwaltungsstraftatbestand erfüllt, konkret § 52 Abs 5 GSpG, kommt es daher nicht an. Gegenteiliges kann auch aus der Entscheidung 5 Ob 506/96 nicht abgeleitet werden (2 Ob 221/22x; 1 Ob 171/22m ua, jeweils mwN).
+[7] 		3. Der Oberste Gerichtshof hat – im Einklang mit der Rechtsprechung der beiden anderen österreichischen Höchstgerichte – auf Basis der einschlägigen Judikatur des EuGH in mehreren aktuellen Entscheidungen neuerlich festgehalten, dass das österreichische System der Glücksspiel-Konzessionen einschließlich der Werbemaßnahmen der Konzessionäre im hier relevanten Zeitraum nach gesamthafter Würdigung aller tatsächlichen Auswirkungen auf den Glücksspielmarkt allen vom EuGH aufgezeigten Vorgaben entspricht und nicht gegen Unionsrecht verstößt (2 Ob 221/22x; 1 Ob 171/22m, jeweils mwN). Die Beurteilung des Berufungsgerichts entspricht dieser Rechtsprechung.
+[8] 		4. Auch der Hinweis auf die Aufhebung von Teilen des § 25 Abs 3 GSpG durch den Verfassungsgerichtshof (G 259/2022) ändert an dieser Beurteilung nichts. Mag der Gesetzgeber durch das (primäre) Abstellen (nur) auf die Einholung einer Bonitätsauskunft den unionsrechtlich gebotenen Spielerschutz von Spielbankbesuchern auch nicht in einer dem Sachlichkeitsgebot entsprechenden Weise verwirklicht haben, bedeutet dies noch nicht, dass dieses Anliegen im Glücksspielrecht als Ganzem nicht in kohärenter Weise verfolgt würde. Aus der teilweisen Verfassungswidrigkeit bloß einer Einzelregelung zum Spielerschutz im Bereich der Spielbanken kann nicht abgeleitet werden, dass das österreichische System der Glücksspiel-Konzessionen – entgegen der bisher ständigen Rechtsprechung – unionsrechtswidrig wäre (2 Ob 23/23f).
+[9] 		5. Zu den Voraussetzungen der unionsrechtlichen Zulässigkeit eines Glückspielmonopols sowie der dadurch bewirkten Beschränkung der Dienstleistungsfreiheit liegt bereits umfangreiche Rechtsprechung des EuGH vor (vgl die Hinweise in 5 Ob 30/21d). Entgegen der Darstellung der Revisionswerberin ergibt sich aus der Entscheidung des EuGH C-920/19, Fluctus, kein Verbot für ein nationales Gericht, sich auf Vorentscheidungen „höherer“ (nationaler) Gerichte (hier auf in zahlreichen Parallelverfahren ergangene Entscheidungen des Obersten Gerichtshofs) zu berufen. Vielmehr sprach der EuGH darin bloß aus, dass eine gegen Art 56 AEUV verstoßende Bestimmung des nationalen Rechts auch dann nicht angewendet werden dürfe, wenn ein „höheres“ nationales Gericht diese als mit dem Unionsrecht vereinbar ansah, dessen Erwägungen aber offensichtlich nicht dem Unionsrecht entsprachen (vgl insbesondere Rn 58 der genannten Entscheidung des EuGH). Dass und bei welcher nationalen Norm dies hier der Fall gewesen wäre, vermag die Revisionswerberin nicht aufzuzeigen. Der Senat sieht daher keinen Anlass, das von der Beklagten angeregte Vorabentscheidungsersuchen zu stellen (2 Ob 23/23f mwN).
+[10] 		6. Da somit Rechtsfragen iSd § 502 Abs 1 ZPO nicht zu beurteilen sind, ist die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00025.23T.0228.000

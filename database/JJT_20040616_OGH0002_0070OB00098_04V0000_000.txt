@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.06.2004
+Geschäftszahl
+7Ob98/04v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofes Dr. Schalich als Vorsitzenden sowie durch die Hofräte des Obersten Gerichtshofes Hon. Prof. Dr. Danzl, Dr. Schenk, Dr. Hoch und Dr. Kalivoda als weitere Richter in der Rechtssache der klagenden Partei Anneliese J*****, vertreten durch Dr. Günther Niebauer und Dr. Karl Schaumüller, Rechtsanwälte in Wien, gegen die beklagte Partei "P*****" VertriebsGmbH in Liquidation, *****, vertreten durch Dr. Michael Wukoschitz, Rechtsanwalt in Wien, wegen EUR 12.500 sA, über die Revision der beklagten Parteien gegen das Urteil des Oberlandesgerichtes Wien als Berufungsgericht vom 20. November 2003, GZ 3 R 171/03v17, womit infolge Berufung der beklagten Partei das Urteil des Handelsgerichtes Wien vom 13. Juni 2003, GZ 12 Cg 120/02w12, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die beklagte Partei ist schuldig, der klagenden Partei die mit EUR 749,70 (darin enthalten EUR 124,95 USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Rechtliche Beurteilung
+Gemäß § 510 Abs 3 letzter Satz ZPO kann sich die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage - an den gegenteiligen Ausspruch des Berufungsgerichtes ist der Oberste Gerichtshof nicht gebunden (§ 508a Abs 1 ZPO) - auf die Ausführung der Zurückweisungsgründe beschränken.
+Das Berufungsgericht begründete seinen (nachträglich abgeänderten) Zulässigkeitsausspruch damit, es "bleibe die Möglichkeit offen", dass bereits eine gefestigte deutsche Judikatur [zu § 661a BGB] bestehe, die an das objektive Verständnis von Gewinnmitteilungen bzw den Verbrauchermaßstab strengere Anforderungen anlege als die österr Rsp [zu § 5j KSchG], womit das Berufungsgericht durch die Bezugnahme auf die österr Gerichtspraxis gegen die stRsp zu § 3 IPRG verstoßen hätte. Weiters "könnte sich in diesem Zusammenhang die erhebliche Rechtsfrage stellen", ob überhaupt deutsches materielles Recht anzuwenden sei.
+Die zuletzt angesprochene Frage ist jedoch schon deshalb nicht zu beantworten, weil die Beklagte in ihrer (mit dem - erfolgreichen - Zulassungsantrag nach § 508 ZPO verbundenen) Revision ausdrücklich zugesteht, das Berufungsgericht sei zutreffend davon ausgegangen, dass auf den klagsgegenständlichen Anspruch deutsches Recht anzuwenden sei, was auch von der Klägerin in ihrer Revisionsbeantwortung nicht (mehr) bezweifelt wird.
+Gemäß § 3 IPRG ist fremdes Recht wie in seinem ursprünglichen Geltungsbereich anzuwenden. Demnach könnte die Revision zwar auch bei Maßgeblichkeit fremden Rechtes zulässig sein, wenn durch eine Abweichung der inländischen Gerichte von gefestigter fremder Lehre und Rechtsprechung die Rechtssicherheit gefährdet würde (RISJustiz RS0042940 mwN uva). Der Rechtsprechung des Obersten Gerichtshofes kommt allerdings - wie die Revision selbst erkennt - nicht die Aufgabe zu, die Einheitlichkeit oder gar die Fortentwicklung fremden Rechtes in seinem ursprünglichen Geltungsbereich zu gewährleisten (RISJustiz RS0042940 [T2 und T3]; RS0042948 [T1, T10 und T12 bis T16]).
+Das Rechtsmittel wäre daher aus Gründen der Rechtssicherheit nur dann zulässig, wenn ausländisches Recht unzutreffend ermittelt oder eine im ursprünglichen Geltungsbereich des maßgeblichen fremden Rechtes in Rechtsprechung und Lehre gefestigte Ansicht hintangesetzt worden wäre oder hierbei grobe Subsumtionsfehler unterlaufen wären, die aus Gründen der Rechtssicherheit richtig gestellt werden müssten (RISJustiz RS0042948 [T3, T4 und T7] und RS0042940 [T 1], vgl etwa 7 Ob 167/03i mwN).
+Dass dies der Fall wäre, zeigt die Revision jedoch nicht auf.
+Was die angeblich unterschiedliche der Auslegung von Gewinnzusagen iSd § 5j KSchG bzw § 661a BGB betrifft hält die Beklagte vielmehr selbst Folgendes fest: "Wie die öRsp geht auch die dRsp davon aus, dass der von GewinnspielZusendungen objektiv erweckte Eindruck nach dem Maßstab eines mündigen und verständigen Verbrauchers zu beurteilen ist, und nimmt dabei ausdrücklich auf das 'europarechtliche Verbraucherleitbild' Bezug...".
+Soweit die Revisionswerberin aber die Auffassung vertritt, dieses [gemeinsame] Verbraucherleitbild werde in der öRsp dadurch "überdeckt", dass sich deren Beurteilung allein an der "subjektiven Absicht des Gesetzgebers", eine verpönte Vertriebspraxis zu unterbinden ausrichte, während es in der dRsp als objektives Abgrenzungskriterium diene, stützen sich die Rechtsmittelausführungen durchwegs auf Entscheidungen von deutschen Erstgerichten (die angeblich von der öRsp abweichen). Demgegenüber weist die Revisionsbeantwortung zutreffend darauf hin, dass der deutsche Bundesgerichtshof erst jüngst in seinem Urteil vom 19. 2. 2004, III ZR 226/03 genau jene Auslegungskriterien betont hat, die auch nach der Rsp des österr Obersten Gerichtshofes maßgebend sind,
+nämlich dass
+- für eine Gewinnzusage oder vergleichbare Mitteilung iSd § 661a BGB nicht nur auf deren Inhalt, sondern auch auf die äußere Gestaltung abzustellen ist;
+- die Zusendung abstrakt geeignet sein muss, beim durchschnittlichen Verbraucher in der Lage des Empfängers den Eindruck zu erwecken er werde einen - bereits gewonnenen - Preis erhalten;
+- es auf das subjektive Verständnis der Zusendung durch den konkreten Empfänger nicht ankommt, sodass nicht erforderlich ist, dass dieser dem Schreiben tatsächlich Glauben schenkt;
+- auch der Verbraucher, der die Gewinnzusage als bloßes Werbemittel durchschaut oder durchschauen könnte, nach § 661a BGB die Leistung des angeblich gewonnenen Preises verlangen kann;
+und dass auch erstinstanzliche Entscheidungen in Österreich zu Gewinnzusagen "fallweise der Korrektur im Instanzenweg bedurften".
+Eine Abweichung in der Rechtsprechung der beiden Höchstgerichte wird daher - zu Recht - gar nicht behauptet, sodass die Revision abschließend nur noch auf den Inhalt der fast zeitgleich gegen die auch hier beklagte Vertriebsgesellschaft ergangene Entscheidung des 10. Senates des österr Obersten Gerichtshofes (OGH vom 10. 2. 2004, 10 Ob 1/04a) zu verweisen ist, die - von den eben zitierten (gemeinsamen) Grundsätzen ausgehend - zum gleichen Ergebnis kommt.
+Mangels erheblicher, für die Entscheidung des Verfahrens relevanter Rechtsfragen iSd § 502 Abs 1 ZPO ist die Revision daher zurückzuweisen.
+Die Kostenentscheidung stützt sich auf §§ 41, 50 ZPO; die beklagte Partei hat in ihrer Revisionsbeantwortung auf die Unzulässigkeit des gegnerischen Rechtsmittels hingewiesen.

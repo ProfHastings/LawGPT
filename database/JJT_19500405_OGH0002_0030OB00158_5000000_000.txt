@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.04.1950
+Geschäftszahl
+3Ob158/50
+Norm
+ZPO §232;
+ZPO §233;
+Kopf
+SZ 23/92
+Spruch
+Klagen die beiden Gesellschafter einer offenen Handelsgesellschaft einander gegenseitig auf Ausschließung aus der Gesellschaft oder auf Auflösung der Gesellschaft, so liegt bezüglich der später eingebrachten Klage nicht Streitanhängigkeit vor.
+Entscheidung vom 5. April 1950, 3 Ob 158/50.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Richard Sch., der Gesellschafter der aus ihm und Karl S. bestehenden offenen Handelsgesellschaft S. & Sch., brachte zur Zahl 2 Cg 184/49 des Landesgerichtes Linz die Klage auf Ausschließung des Karl S. aus der Gesellschaft ein. Nach Eintritt der Streitanhängigkeit überreichte Karl S. gegen Richard Sch. zu 2 Cg 266/49 die Klage auf Auflösung der Gesellschaft.
+Das Prozeßgericht wies die letztere Klage wegen Streitanhängigkeit von Amts wegen zurück.
+Das Rekursgericht hob diesen Beschluß auf und trug dem Prozeßgericht die Fortsetzung des Verfahrens auf.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Begründung:
+Streitanhängigkeit im Sinne des § 232 ZPO. kann nur dann angenommen werden, wenn in beiden Prozessen die gleichen Parteien auftreten und wenn der gleiche Klagsanspruch geltend gemacht wird. Es ist zwar entgegen der Rechtsansicht des Rekursgerichtes nicht erforderlich, daß in beiden Prozessen jede Partei die gleiche Rolle als Kläger und als Beklagter einnimmt, es genügt vielmehr, wenn beide Parteien in den Prozessen sich als Prozeßgegner gegenüberstehen; denn es sind Fälle möglich, in welchen die Prozeßparteien in beiden Prozessen verschiedene Parteirollen innehaben, aber trotzdem wegen Identität der Streitsache Streitanhängigkeit vorliegt, wie zum Beispiel bei konfessorischen und negatorischen Servitutsklagen. Wesentlich ist die Identität der Streitsache, nämlich Gleichheit des Rechtsgrundes und Gleichheit des daraus abgeleiteten Anspruches. Im vorliegenden Falle ist zwar die Identität der Prozeßparteien, nicht aber die Gleichheit des Rechtsgrundes und des Klagsanspruches gegeben.
+Durch die Bestimmung des § 233 ZPO. soll vermieden werden, daß über denselben Klagsanspruch während der Dauer eines anhängig gemachten Rechtsstreites zweimal entschieden wird. Mit der Entscheidung des anhängig gemachten Vorprozesses des Landesgerichtes Linz 2 Cg 184/49 wird jedoch nicht zugleich über den vom Kläger in der vorliegenden Klage erhobenen Anspruch erkannt, denn im Falle der Abweisung des Klagebegehrens im Vorprozesse 2 Cg 184/49 müßte erst über diesen Anspruch entschieden werden.

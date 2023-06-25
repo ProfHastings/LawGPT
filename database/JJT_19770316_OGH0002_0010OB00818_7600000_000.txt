@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.03.1977
+Geschäftszahl
+1Ob818/76
+Norm
+Anfechtungsordnung §1 Abs1;
+KO §1 Abs2;
+KO §37 Abs2;
+KO §37;
+Kopf
+SZ 50/39
+Spruch
+Nur der Masseverwalter ist berechtigt, von einem Konkursgläubiger erworbene Anfechtungstitel im Exekutionswege durchzusetzen. Der Konkursgläubiger kann nicht den Masseverwalter auf Duldung der Exekution klagen
+OGH 16. März 1977, 1 Ob 818/76 (KG Leoben R 621/76; BG St. Gallen C 42/76)
+Text
+Die Klägerin war Steuerberaterin und ist Gläubigerin des Gemeinschuldners. Dieser schenkte mit Vertrag vom 9. Jänner 1975 seiner Frau Erika K die Liegenschaft EZ 56 KG A im Gerichtsbezirk St. Gallen, behielt sich aber ein Belastungs- und Veräußerungsverbot vor. So kam es trotz der am 26. Mai 1975 erfolgten Eröffnung des Ausgleichsverfahrens über sein Vermögen am 4. Juni 1975 im Range der Anmerkung der beabsichtigten Veräußerung COZ 7 vom 10. Jänner 1975 zur Einverleibung des Eigentumsrechtes der Ehefrau und gleichzeitigen Einverleibung des Belastungs- und Veräußerungsverbotes zu Gunsten des Gemeinschuldners. Die Klägerin erhob am 25. Juli 1975 gegen Erika K eine Anfechtungsklage, die zum Versäumungsurteil 9 Cg 300/75 des Kreisgerichtes Leoben vom 19. August 1975 führte. Danach ist Erika K schuldig, der Klägerin 41 815.88 S samt Anhang bei Exekution in die genannte Liegenschaft zu bezahlen, Einer solchen Exekution zur Hereinbringung des Forderungsrestes steht jedoch das zu Gunsten des Gemeinschuldners einverleibte Belastungs- und Veräußerungsverbot entgegen. Deswegen begehrt die Klägerin, die eine Anmeldung ihrer Forderung gegen den Gemeinschuldner im Ausgleichsverfahren zurückgezogen und diese Forderung im anschließenden, am 8. März 1976 eröffneten Konkursverfahren nicht angemeldet hat, mit der vorliegenden weiteren, gegen den Masseverwalter gerichteten Anfechtungsklage die Duldung der Exekution in die Liegenschaft der Erika K ungeachtet des zu Gunsten des Gemeinschuldners einverleibten Belastungs- und Veräußerungsverbotes.
+Der Erstrichter wies das Klagebegehren ab. Er vertrat die Rechtsansicht, daß nach § 37 KO das Anfechtungsrecht auch im vorliegenden Fall nur vom Masseverwalter ausgeübt werden könne.
+Das Berufungsgericht gab der von der Klägerin erhobenen Berufung Folge und hob das Ersturteil unter Rechtskraftvorbehalt auf. Es bejahte die aktive Klagslegitimation der Gläubigerin aus der Erwägung, daß sie im Konkurs keine Forderung angemeldet habe und deshalb nicht Konkursgläubigerin sei, so daß auch das Anfechtungsmonopol des Masseverwalters nicht zum Tragen komme.
+Über Rekurs des Beklagten hob der Oberste Gerichtshof den Beschluß des Berufungsgerichtes auf und trug diesem eine neue Entscheidung auf.
+Rechtliche Beurteilung
+Aus der Begründung:
+Nach der zutreffenden Meinung des Rekurswerbers ist davon auszugehen, daß die Forderung der Klägerin aus ihren Rechtsbeziehungen zum Gemeinschuldner entstanden ist und dessen Ehefrau mit der vom strittigen Veräußerungs- und Belastungsverbot betroffenen Liegenschaft nur aus dem Rechtsgrund der erfolgreichen Anfechtung des zwischen dem materiell verpflichteten Gemeinschuldner und seiner Frau geschlossenen Schenkungsvertrages haftet. Ein Erlöschen ihrer Forderung gegen den Gemeinschuldner hat die Klägerin selbst nicht behauptet. Dem Rekurswerber ist dann aber entgegen der Meinung des Berufungsgerichtes beizupflichten, daß weder die Zurückziehung der Forderungsanmeldung der Klägerin im Ausgleichsverfahren noch die Unterlassung einer Anmeldung ihrer Forderung im Konkurs etwas daran zu ändern vermag, daß sie Konkursgläubigerin ist. Diese Rechtsstellung gemäß § 1 Abs. 2 KO mit allen ihren Nachteilen und Beschränkungen ist unabhängig davon, ob der Gläubiger von seinen Rechten im Konkursverfahren wie etwa der Anmeldung seiner Forderung Gebrauch macht (Bartsch in Bartsch - Pollak I, 32). Die Unterlassung der Anmeldung ihrer Forderung im Konkurs konnte demnach die Rechtsstellung der Klägerin nicht verbessern. Sie unterliegt als Konkursgläubigerin dem nicht bestrittenen Anfechtungsmonopol des Masseverwalters, das ihm allein die Anfechtung im Konkurs vorbehält und alle Konkursgläubiger an jede Art der Ausübung oder Nichtausübung des Anfechtungsanspruches bindet (Bartsch a. a. O., 231, 233). Im besonderen äußert sich dieses Monopol infolge des ausdrücklichen Vorbehalts jeder Exekutionsführung auf Grund bereits erworbener Anfechtungstitel durch § 37 Abs. 2 erster Satz KO in diesem Fall als Exekutionsmonopol (Bartsch a. a. O., 236) und steht daher Ansprüchen wie dem vorliegenden entgegen. Der mit einer Anfechtungsklage zuvorgekommene Konkursgläubiger kann demnach trotz des erworbenen Titels kein anderes Vorzugsrecht beanspruchen als das im zweiten Satz der genannten Bestimmung geregelte bezüglich hereingebrachter Kosten.
+Die Legitimation der Klägerin zur weiteren Anfechtung trotz des anhängigen Konkurses ist demnach zu verneinen. Die Anfechtungsordnung, auf die sie sich im Rechtsmittelverfahren berufen hat, findet gemäß ihrem § 1 Abs. 1 nur auf Anfechtungen außerhalb eines Konkurses Anwendung. Die Rechtssache ist im Sinne der Bestätigung des

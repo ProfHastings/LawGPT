@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2018
+Geschäftszahl
+3Ob122/18i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hoch als Vorsitzenden sowie die Hofräte Dr. Roch und Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei Dr. Christian Bachmann, Rechtsanwalt in Wien, als Insolvenzverwalter im Insolvenzverfahren über das Vermögen der D***** Baugesellschaft mbH, *****, gegen die beklagte Partei K*****, vertreten durch Wiedenbauer Mutz Winkler & Partner Rechtsanwälte GmbH in Wien, wegen 270.487,92 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 27. März 2018, GZ 3 R 7/18y-43, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Ein anfechtungsfestes Zug-um-Zug-Geschäft setzt – neben einer entsprechenden Vereinbarung – einen zeitlichen und ursächlichen Zusammenhang zwischen Leistung und Gegenleistung voraus (RIS-Justiz RS0064633).
+Entgegen der Rechtsansicht des Revisionswerbers steht die Entscheidung des Berufungsgerichts, wonach die Anfechtungsklage gegen die beklagte Hausbank der Schuldnerin hier nicht erfolgreich ist, mit der Rechtsprechung zu § 30 Abs 1 und § 31 Abs 1 Z 2 erster Fall IO im Einklang. Nach dem Sachverhalt lag jeder Überziehung des vereinbarten Kreditrahmens ein Aviso der Schuldnerin über einen unmittelbar bevorstehenden Zahlungseingang sowie eine Zustimmung der (ua durch Höchstbetragshypotheken gesicherten) Beklagten zugrunde; wobei die Rückführung jeweils innerhalb weniger Tage erfolgte, und der Kontostand bei Eröffnung des Insolvenzverfahrens den Kreditrahmen überstieg. Es handelt sich daher nur um – nach der Rechtsprechung nicht anfechtbare – kurzfristige, jeweils zuvor abgesprochene Überziehungen des vereinbarten Kreditrahmens (2 Ob 273/98f mwN) und deren Rückführungen bei einem gesicherten Kredit. Durch die Entscheidung 3 Ob 68/02z wurde diese Rechtsprechung – entgegen der Meinung des Revisionswerbers – nicht verändert (vgl auch RIS-Justiz RS0064426; König, Anfechtung5 Rz 11/115 ff).
+2. Auch eine Anfechtbarkeit nach § 31 Abs 1 Z 2 zweiter Fall und Z 3 IO wurde hier verneint. In diesem Zusammenhang wendet sich die Revision insbesondere gegen die Auslegung des Parteienvorbringens.
+Die Beurteilung des Berufungsgerichts, der Kläger habe in der letzten mündlichen Streitverhandlung zum Ausdruck gebracht, sein Vorbringen zum Ausmaß der Nachteiligkeit (des Quotenschadens) nur teilweise aufrecht erhalten zu wollen, begründet aber schon deshalb keine erhebliche Rechtsfrage, weil der Kläger in seiner Berufung auf sein weiteres Vorbringen zu diesem Thema nicht mehr zurückkam, sodass es aus der Beurteilung des Berufungsgerichts ausschied (RIS-Justiz RS0041570).
+3. Der außerordentlichen Revision gelingt es insgesamt nicht, eine Rechtsfrage von der in § 502 Abs 1 ZPO geforderten Qualität aufzuzeigen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:0030OB00122.18I.1121.000

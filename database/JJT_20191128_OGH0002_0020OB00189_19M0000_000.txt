@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.11.2019
+Geschäftszahl
+2Ob189/19m
+Kopf
+der Oberste Gerichtshof in einem Amtshaftungsverfahren bei Beurteilung der Frage der Prüfpflicht des Pflegschaftsgerichts im Verfahren über eine pflegschaftsgerichtliche Genehmigung zu dem Ergebnis, dass bereits der Verdacht eines die Geschäftsfähigkeit ausschließenden Zustands ausreichend sein kann, um weitere Erhebungen erforderlich zu machen. Die Frage, welche Partei in einem Zivilprozess die Geschäftsunfähigkeit zu beweisen hat, war dort nicht zu beurteilen.
+5. Weshalb im vorliegenden Fall § 121a Abs 8 BAO, wonach der Abgabenpflichtige, wenn im Zuge von Abgabeverfahren eine Schenkung behauptet wird, die Beweislast für deren Vorliegen trägt, analog anzuwenden sein sollte, begründet die Klägerin nicht.
+Auch nach allgemeinen zivilprozessualen Beweislastgrundsätzen (RS0037797) und jenen, die sich speziell auf Schenkungen beziehen (RS0018794), hatte ohnehin die Beklagte das Vorliegen der von ihr behaupteten Schenkung zu beweisen. Die Klägerin lässt nur außer Acht,  dass der Beklagten dieser Beweis nach den Feststellungen gelungen ist.
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Nach ständiger Rechtsprechung des Obersten Gerichtshofs hat, wer einen Vertrag wegen Geschäftsunfähigkeit eines der Vertragspartner anficht, diese zu beweisen (3 Ob 201/10w; 7 Ob 74/16y; RS0014620; RS0014645). Nur dann, wenn erwiesen ist, dass eine Person dauernd handlungsunfähig ist, ist es Sache der Gegenseite, zu beweisen, dass zum Zeitpunkt des Vertragsabschlusses ein lichter Moment bestand (RS0014645; vgl auch RS0106637).
+Das Berufungsgericht hat seiner Entscheidung diese Beweislastverteilung zugrunde gelegt. Die gegenteilige Rechtsansicht der Klägerin wirft keine erhebliche Rechtsfrage iSd § 502 Abs 1 ZPO auf.
+2. Soweit die Klägerin dazu auf das im Sachwalterbestellungsverfahren eingeholte psychiatrische Sachverständigengutachten verweist, bekämpft sie unzulässig die Beweiswürdigung (RS0043371) und geht nicht vom festgestellten Sachverhalt aus.
+3. Bei der Rechtsprechung zu 5 Ob 289/64 ua (= RS0060681) handelt es sich um die Anwendung der grundbuchsrechtlichen Spezialbestimmung des § 94 Abs 1 Z 2 GBG, wonach eine grundbücherliche Eintragung nur dann zu bewilligen ist, wenn keine gegründeten Bedenken gegen die Fähigkeit der Beteiligten zur Verfügung über den Gegenstand der Eintragung vorhanden sind. Diese Bestimmung hat in mehreren  Entscheidungen zu der Aussage geführt, dass die Indizwirkung einer notwendig gewordenen Sachwalterbestellung für eine anzunehmende Beschränkung der Handlungsfähigkeit des Betroffenen maximal auf den Zeitraum von einem Jahr vor dem Bestellungsakt auszudehnen ist (5 Ob 78/16f; RS0060681 [T4]). Diese Judikatur beschränkt sich auf das erwähnte Eintragungshindernis, ändert aber nichts an der dargelegten allgemeinen Beweislastverteilung.
+4. Letzteres gilt auch für die im Rechtsmittel auszugsweise zitierte Entscheidung 1 Ob 193/03v. Dort kam
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0020OB00189.19M.1128.000

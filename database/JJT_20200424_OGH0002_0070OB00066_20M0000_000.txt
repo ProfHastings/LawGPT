@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.04.2020
+Geschäftszahl
+7Ob66/20m
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei T***** W*****, vertreten durch Mag. Rupert Wagner MSc, Rechtsanwalt in Linz, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Günther Schmid, Rechtsanwalt in Linz, wegen Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 6. Februar 2020, GZ 3 R 166/19f-11, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die „Klipp & Klar Bedingungen für die Unfallversicherung 2012, Fassung 02/2016“, zugrunde liegen.
+Diese lauten auszugsweise:
+„Was ist ein Unfall? – Art 6
+1. Ein Unfall liegt vor, wenn die versicherte Person durch ein plötzlich von außen auf ihren Körper wirkendes Ereignis (Unfallereignis) unfreiwillig eine Gesundheitsschädigung erleidet.
+[...]“
+Rechtliche Beurteilung
+1. Bei einem Unfall handelt es sich damit um ein plötzlich von außen auf den Körper der versicherten Person einwirkendes Ereignis, wodurch diese unfreiwillig eine Gesundheitsschädigung erleidet (RS0058130; RS0058077). Zur „Plötzlichkeit“ des Unfalls gehört das Moment des Unerwarteten und des Unentrinnbaren. Für den Versicherten muss die Lage so sein, dass er sich beim normalen Geschehensablauf den Folgen des Ereignisses im Augenblick ihres Einwirkens auf seine Person nicht mehr entziehen kann (RS0082022). „Plötzlich“ sind demnach alle jene Ereignisse, die sich in einem sehr kurzen Zeitraum unerwartet ereignen. Es können aber auch allmählich eintretende Ereignisse unter den Begriff fallen, wenn sie nur für den Versicherungsnehmer unerwartet und unvorhergesehen waren. Ein Unfallereignis liegt damit (nur) dann vor, wenn objektiv für den betroffenen Versicherungsnehmer kein Grund bestand, mit den konkret eingetretenen Umständen zu rechnen, er davon überrascht wurde und ihnen nicht entgehen konnte (RS0131133). Nach der Einschätzung eines durchschnittlich verständigen Versicherungsnehmers (RS0017960) gehört zum Vorliegen eines Unfalls aber grundsätzlich eine wenngleich auch nur geringfügige Verletzung des Versicherten (7 Ob 32/17g, 7 Ob 200/18i). In der Unfallversicherung setzt daher das Vorliegen eines Unfalls im Regelfall eine Beeinträchtigung der körperlichen Integrität des Versicherten voraus. Allerdings kann eine gleichwertige, ebenfalls zur Annahme eines Unfalls führende Situation dann vorliegen, wenn der Versicherte durch ein plötzlich von außen auf den Körper einwirkendes Ereignis – ohne eine Verletzung am Körper – in einer wesentlichen körperlichen Funktionalität (zB Fortbewegungsmöglichkeit) so beeinträchtigt wird, dass er dadurch in eine hilflose Lage gerät, die dann zumindest mitursächlich für einen relevanten Gesundheitsschaden ist. Eine darüber hinausgehende Berücksichtigung etwa der bloßen Beschädigung von Ausrüstungsgegenständen, mögen sie auch am Körper getragen werden, ist durch den Unfallbegriff nicht gedeckt (RS0131753).
+2. Der Fachsenat hat sich auch jüngst mit der Frage beschäftigt, unter welchen Umständen eine Erfrierung durch die Unfallversicherung gedeckt ist. Er ist dabei zusammengefasst zum Schluss gekommen, dass Erfrierungen zwar Gesundheitsschädigungen sind, aber – an sich – keine Unfallereignisse, weil Erfrierungen allmählich und gerade nicht „plötzlich“ auftreten. Sie können daher nur dann unter den Versicherungsschutz fallen, wenn sie durch ein Unfallereignis verursacht wurden (RS0131134).
+3.1 Der Kläger arbeitete am 8. 1. 2018 von 3:00 Uhr bis 8:30 Uhr als Kommissionierer in einer Tiefkühlanlage. Während dieser Schicht erlitt er, trotz Tragens einer unbeschädigten – nach seinen Behauptungen aber ungeeigneten – Schutzausrüstung, Erfrierungen an den Fingern.
+3.2 Die Beurteilung der Vorinstanzen, die im Zuge des gewöhnlichen Arbeitsverlaufs des Klägers erlittenen Erfrierungen aufgrund der allmählich (ca fünfstündigen) Einwirkung der Kälte auf den Körper des Klägers, stelle zwar eine Gesundheitsschädigung, nicht jedoch ein Unfallereignis dar, hält sich im Rahmen der bereits bestehenden oberstgerichtlichen Rechtsprechung: Schon aufgrund des Fehlens einer – auch nur geringfügigen – Verletzung des Klägers liegt kein Unfallereignis vor, das letztlich die Erfrierungen verursachte. Die Rechtsansicht der Vorinstanzen, durch die behauptetermaßen bloß ungeeignete Schutzausrüstung habe sich der Kläger auch in keiner unentrinnbaren Lage befunden, sodass der in der Rechtsprechung des Senats (7 Ob 32/17g) erwogene Ausnahmegrund eines plötzlich von außen ohne unmittelbare Verletzung auf den Körper einwirkenden Ereignisses, durch das dieser in einer wesentlichen körperlichen Funktionalität so beeinträchtigt werde, dass er dadurch – unausweichlich – in eine hilflose Lage gerate, die dann zumindest mitursächlich für einen relevanten Gesundheitsschaden sei, nicht vorliege, ist nicht korrekturbedürftig.
+4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00066.20M.0424.000

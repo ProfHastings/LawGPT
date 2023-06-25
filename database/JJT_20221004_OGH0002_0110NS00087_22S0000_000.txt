@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.10.2022
+Geschäftszahl
+11Ns87/22s
+Kopf
+Der Oberste Gerichtshof hat am 4. Oktober 2022 durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Schwab als Vorsitzenden sowie die Vizepräsidentin des Obersten Gerichtshofs Mag. Marek, die Hofrätinnen des Obersten Gerichtshofs Dr. Bachner-Foregger und Mag. Fürnkranz und den Hofrat des Obersten Gerichtshofs Dr. Oberressl als weitere Richter in der Strafvollzugssache des * D*, betreffend den zwischen dem Landesgericht Salzburg, AZ 46 Ns 7/22a (vormals 46 Ns 6/22d) und dem Landesgericht Innsbruck, AZ 26 Ns 30/22y, geführten Kompetenzkonflikt nach Anhörung der Generalprokuratur gemäß § 62 Abs 1 zweiter Satz OGH-Geo 2019 den
+Beschluss
+gefasst:
+Spruch
+Zur Entscheidung über den Antrag des Verurteilten vom 18. August 2022 auf nachträglichen Aufschub des Strafvollzugs ist das Landesgericht Innsbruck zuständig.
+Text
+Gründe:
+[1] 		* D* verbüßt derzeit – unter Anrechnung erlittener Untersuchungshaft und unterbrochen wegen des Vollzugs von Verwaltungsfreiheitsstrafen – die mit jeweils wegen § 3g VerbotsG ergangenen und rechtskräftigen Urteilen des Landesgerichts Innsbruck zu AZ 25 Hv 102/21b in der Dauer von zwei Jahren und sechs Monaten und zu AZ 26 Hv 14/20t in der Dauer von zwölf Monaten ausgesprochenen Freiheitstrafen (Strafende: 26. Februar 2025; ON 2).
+[2] 		Die Strafen wurden zunächst in der Justizanstalt Innsbruck vollzogen (ON 2). Aufgrund eines Ansuchens des Verurteilten um Strafvollzugsortsänderung (§ 10 StVG) wurde der Genannte allerdings noch vor einer Entscheidung darüber vorab als „Passant“ in die Justizanstalt Salzburg überstellt (ON 3).
+[3] 		Am 23. August 2022 langte beim Landesgericht Salzburg, AZ 46 Ns 6/22d, ein mit 18. August 2022 datierter Antrag des Verurteilten auf nachträglichen Aufschub des Strafvollzugs (§ 133 StVG) ein (ON 1).
+[4] 		Mit Verfügung vom 23. August 2022 trat das Landesgericht Salzburg die Akten an das Landesgericht Innsbruck als örtlich zuständiges Vollzugsgericht ab (ON 3).
+[5] 		Am 12. September 2022 erhielt das Landesgericht Innsbruck, AZ 26 Ns 30/22v, eine Mitteilung der von ihm mit Erhebungen (ON 4) befassten Justizanstalt Innsbruck, dass sich der Verurteilte in der Justizanstalt Salzburg befinde und mit Erlass des Bundesministeriums für Justiz vom 8. September 2022, AZ 168868/02-II3/2022, die Vollzugsortsänderung (§ 10 StVG) in die Justizanstalt Salzburg angeordnet worden sei (ON 5 und 6).
+[6] 		Daraufhin trat das Landesgericht Innsbruck mit Verfügung vom selben Tag die Akten dem Landesgericht Salzburg „zuständigkeitshalber“ ab (ON 5 S 1).
+[7] 		Mit Verfügung vom 21. September 2022 übermittelte das Landesgericht Salzburg, (nunmehr) AZ 46 Ns 7/22a, die Akten dem Obersten Gerichtshof zur Entscheidung über den negativen Kompetenzkonflikt (§ 38 dritter Satz StPO iVm § 17 Abs 1 Z 3 StVG) zwischen den genannten Gerichten (ON 7).
+Der Oberste Gerichtshof hat erwogen:
+Rechtliche Beurteilung
+[8] 		Vollzugsgericht ist das in Strafsachen tätige Landesgericht, in dessen Sprengel die Freiheitsstrafe vollzogen wird (§ 16 Abs 1 erster Satz StVG). Gemäß Abs 2 Z 9 leg cit entscheidet es über den nachträglichen Aufschub des Strafvollzugs (§ 133 StVG). Dabei richtet sich die örtliche Zuständigkeit des Gerichts nach dem Ort der zuständigen Justizanstalt, der nicht ident mit dem Ort des tatsächlichen Aufenthalts des Strafgefangenen sein muss. Die sich aus § 9 StVG oder einer Anordnung des Bundesministeriums für Justiz gemäß § 10 StVG ergebende Zuständigkeit der „Stammanstalt“ bleibt auch dann aufrecht, wenn sich der Verurteilte nur vorübergehend (etwa wie aktuell als „Passant“) in einer anderen Anstalt aufhält (Pieber in WK2 StVG § 16 Rz 4).
+[9] 		Bei der Abgrenzung der örtlichen Zuständigkeit mehrerer in Betracht gezogener Gerichte kommt es auf den Zeitpunkt der Einleitung des Verfahrens an; das ist der Zeitpunkt der Antragstellung (RIS-Justiz RS0087489), konkret der Tag des Einlangens der verfahrensauslösenden Eingabe bei Gericht (RIS-Justiz RS0087500 [T2]), sodass die Zuständigkeit für eine bestimmte Entscheidung auch dann aufrecht bleibt (perpetuatio fori), wenn der Strafgefangene während des anhängigen Verfahrens in eine andere, außerhalb des Gerichtssprengels gelegene Anstalt überstellt wird (RIS-Justiz RS0087500, RS0087504; Pieber in WK2 StVG § 16 Rz 7).
+[10] 		Mit Blick auf das Einlangen des in Rede stehenden Antrags bei Gericht am 23. August 2022 und der zu diesem Zeitpunkt bestehenden Zuständigkeit der Justizanstalt Innsbruck zum Strafvollzug (§ 9 Abs 1, Abs 3 StVG) ist ungeachtet der danach verfügten Strafvollzugsortsänderung (§ 10 StVG) – in Übereinstimmung mit der Stellungnahme der Generalprokuratur – zur Entscheidung das Landesgericht Innsbruck zuständig (§ 16 Abs 2 Z 9 iVm § 133 StVG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0110NS00087.22S.1004.000

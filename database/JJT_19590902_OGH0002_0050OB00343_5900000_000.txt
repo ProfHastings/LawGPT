@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+02.09.1959
+Geschäftszahl
+5Ob343/59
+Norm
+ABGB §367;
+Gewerbeordnung §8;
+Gewerbeordnung §§11 ff;
+Kopf
+SZ 32/100
+Spruch
+Auch bei Gegenseitigkeit (§ 8 GewO.) ist der Inhaber einer ausländischen Gewerbeberechtigung erst nach Meldung der Betriebsaufnahme im Inland nach §§ 11 ff. GewO. ein "befugter Gewerbsmann" im Sinne des § 367 ABGB.
+Entscheidung vom 2. September 1959, 5 Ob 343/59.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Das Erstgericht wies das auf Herausgabe eines näher bezeichneten Personenkraftwagens gerichtete Klagebegehren aus folgenden Gründen ab:
+Der Münchner Autohändler Johann Z. komme häufig nach Wien, um hier Kraftwagen zu verkaufen, und habe auch den strittigen Wagen in den Betrieb des Karl K. in Wien, den dieser gemeinsam mit Othmar H. führe, gebracht. Karl K. besitze seit 14. Jänner 1959 einen Gewerbeschein für den Handel mit Kraftfahrzeugen und habe vorher einen solchen gepachtet gehabt. Karl K. und Othmar H. hätten den Wagen von Johann Z. nicht gekauft, sondern in Kommission genommen und inseriert. Othmar H. habe mit dem Beklagten den Verkauf abgeschlossen, die Verzollung sowie die sonstigen Formalitäten durch die Firma K. durchgeführt, den Kaufpreis in Empfang genommen und den Wagen übergeben. Die Rechnung habe Johann Z. ausgestellt.
+Selbst wenn der Wagen dem Kläger - wie er behauptete - gestohlen worden sei, so habe der Beklagte ihn in Österreich von einem zu diesem Verkehr befugten Gewerbsmann, möge dies K. oder Z. gewesen sein, gekauft und daher als redlicher Erwerber gemäß § 367 ABGB. Eigentum erlangt.
+Das Berufungsgericht hob dieses Urteil mit Rechtskraftvorbehalt auf. Es billigte die Beweiswürdigung des Erstgerichtes, übernahm dessen Feststellungen und schloß sich auch der Rechtsansicht an, daß - da der Beklagte österreichischer Staatsbürger sei - gemäß § 36 ABGB. österreichisches Recht zur Anwendung komme. Der Beklagte habe den Wagen zwar gutgläubig und entgeltlich erworben, er müsse aber beweisen, daß Johann Z. ein zu diesem Verkehr befugter Gewerbsmann war. Wohl bestehe nach dem Erlaß des Bundesministeriums für Handel und Wiederaufbau vom 1. März 1952, Zl. 110.583-18/52 (abgedruckt bei Schwiedland, Gewerbeordnung, 2. Aufl. S. 28) zwischen der Bundesrepublik Deutschland und der Republik Österreich Reziprozität, so daß Z. zufolge seiner Gewerbeberechtigung keiner formalen Zulassung nach § 8 GewO. bedürfe. Für die Ausübung des Gewerbebetriebes in Österreich sei aber erforderlich, daß er diese Ausübung anzeige. Daß dies geschehen sei, habe der Beklagte nicht behauptet und sei auch nicht hervorgekommen. Der Erwerb des Beklagten von Z. sei daher kein solcher von einem befugten Gewerbsmann.
+Falls somit der Wagen dem Kläger in der Bundesrepublik Deutschland gestohlen wurde und Z. ihn vom Dieb gekauft habe, sei er nicht Eigentümer geworden und der Beklagte habe vom Nichteigentümer gekauft. Hieran ändere auch § 366 HGB. nichts, da dieser den Eigentumserwerb an gestohlenen Sachen ausschließe.
+Der Oberste Gerichtshof gab dem Rekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurswerber stimmt mit dem Berufungsgericht darin überein, daß nach dem Erlaß des Bundesministeriums für Handel und Wiederaufbau vom 1. März 1952, Zl. 110.583-18/52, zwischen der Bundesrepublik Deutschland und der Republik Österreich Reziprozität nach § 8 GewO. bestehe und Z. daher auf Grund seiner deutschen Gewerbeberechtigung zur Ausübung eines Gewerbebetriebes in Österreich berechtigt sei. Er meint nur, daß derjenige, der die im § 11 Abs. 2 GewO. vorgeschriebene Meldung an die Behörde unterläßt, nicht als unbefugt im Sinn des § 367 ABGB. gelte.
+Dieser Ansicht kann nicht gefolgt werden. Durch die Reziprozität nach § 8 GewO. wird der ausländische Gewerbeberechtigte dem Inländer gleichgestellt. Er erfüllt damit nur eine der in den §§ 2 bis 10 GewO. aufgestellten allgemeinen Bedingungen (Branberger - Knauer, Das österreichische Gewerberecht, 2. Aufl. S. 41 ff.), erlangt aber noch nicht die Berechtigung zurvielmehr vor der Betriebsaufnahme der Behörde die Meldung nach §§ 11 ff. GewO. zu erstatten. Erst damit ist die Gewerbeberechtigung begrundet und der Betrieb befugt (Branberger - Knauer a. a. O. S. 59). Ähnlich verhält es sich bei der Stillegung der Gewerbeberechtigung, bei der auch jederzeit die Möglichkeit besteht, den Betrieb wieder aufzunehmen; dennoch gilt der Gewerbeberechtigte während der Zeit der Stillegung nicht als befugter Gewerbsmann nach § 367 ABGB. (EvBl. 1956 Nr. 252).
+Mit seinen Rekursausführungen, Karl K. sei, selbst wenn er nicht im eigenen Namen, sondern für Z. abgeschlossen hätte, nicht als Handelsmäkler, sondern als nach § 29 HAG. zu beurteilender Handelsagent tätig gewesen, mißversteht der Beklagte die Entscheidung des Berufungsgerichtes. In dieser wurde dem Erstrichter nicht aufgetragen, zu klären, ob Karl K. als Kommissionär oder als Handelsmäkler tätig gewesen sei, sondern ob das konkrete Geschäft als Kommissionsgeschäft oder als Mäklervertrag aufzufassen sei. Auf den Mäklervertrag kämen wohl gemäß § 29 HAG. die dort aufgezählten Bestimmungen dieses Gesetzes zur Anwendung (Adler - Höller in Klang 2. Aufl. V 377), dies würde aber nicht ausschließen, daß Karl K. und Othmar H. nur als Stellvertreter des Z. aufgetreten sind und der Vertrag somit zwischen Z. und dem Beklagten geschlossen wurde. Auf den Einwand, daß durch die Rechtsansicht des Berufungsgerichtes jedem Handelsverkehr mit ausländischen Firmen ein Ende bereitet würde, ist zu erwidern, daß damit nur dem Handel mit gestohlenen Kraftwagen entgegengetreten wird, wie dies hinsichtlich derselben Mittelsmänner schon zu 3 Ob 113/59 (1 Cg 245/58 des Erstgerichtes) geschehen ist.

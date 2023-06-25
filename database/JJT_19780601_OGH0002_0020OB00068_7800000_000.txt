@@ -1,0 +1,30 @@
+Gericht
+OGH
+Entscheidungsdatum
+01.06.1978
+Geschäftszahl
+2Ob68/78
+Norm
+ZPO §419 Abs1;
+ZPO §514 Abs1;
+ZPO §527 Abs1;
+ZPO §527 Abs2 ZPO §528 Abs1 Z1;
+Kopf
+SZ 51/73
+Spruch
+Anfechtbarkeit eines Berichtigungsbeschlusses
+OGH 1. Juni 1978, 2 Ob 68/78 (OLG Wien 8 R 195/77; LGZ Wien 24 Cg 275/75)
+Text
+Das Erstgericht verurteilte die Beklagten, dem als Masseverwalter im Konkurs über das Vermögen der Elisabeth H in das Verfahren eingetretenen Kläger. den von der Gemeinschuldnerin bei einem Verkehrsunfall am 14. März 1975 erlittenen Schaden in Höhe von 31 497.66 S samt Anhang zu ersetzen. In diesem Betrag sind die vom Kläger in der letzten Streitverhandlung auf 11 994.72 S eingeschränkten Mietwagenkosten enthalten. Das Erstgericht ging bei seiner Entscheidung irrtümlich davon aus, daß die mit 10 Tagen angemessenen Mietwagenkosten mit 13 372.47 S außer Streit gestellt worden seien.
+Die Beklagten machten diesen Irrtum in ihrer Berufung unter den Berufungsgrunden der Aktenwidrigkeit und der unrichtigen Tatsachenfeststellung und Beweiswürdigung geltend und vertraten die Auffassung, daß dem Kläger aus dem Titel der Mietwagenkosten nur ein Betrag von 8944.30 S gebühre und daher das Mehrbegehren von 3297.25 S abzuweisen gewesen wäre.
+Auf Grund dieser Ausführungen berichtigte das Erstgericht das Urteil wegen eines dem Richter unterlaufenen Rechenfehlers dahingehend, daß es dem Kläger 28 447.24 S samt Anhang zusprach und das Mehrbegehren von 3297.25 S samt Anhang abwies.
+Über Rekurs der Beklagten behob das Rekursgericht diese Entscheidung mit der Begründung, daß das Erstgericht an seine Entscheidung gemäß § 416 Abs. 2 ZPO gebunden sei, da ein gemäß § 419 ZPO berichtigungsfähiger Rechenfehler nicht vorliege. Der berichtigte Fehler beruhe auf einer unrichtigen Tatsachenfeststellung (irrtümliche Annahme einer Außerstreitstellung) und auf einem Fehler der klagenden Partei bei Einschränkung des Klagebegehrens. Die Korrektur könne daher nur im Rechtsmittelverfahren erfolgen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Klägers nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Rekurs - richtig: Revisionsrekurs - der klagenden Partei ist zwar zulässig, aber nicht begrundet.
+Gemäß § 419 Abs. 2 ZPO findet gegen den Beschluß, womit der Antrag auf Berichtigung zurückgewiesen wird, ein abgesondertes Rechtsmittel nicht statt. Daraus ist in Verbindung mit § 514 Abs. 1 ZPO zu folgern, daß gegen den Beschluß, womit über Antrag einer Partei oder von Amtswegen die Berichtigung vorgenommen wurde, der Rekurs zulässig ist. Entscheidet das Gericht zweiter Instanz über einen solchen Rekurs, so trifft es seine Entscheidung als Rekursgericht und nicht als Berufungsgericht, so daß die nur für das Berufungsverfahren gültige Sondervorschrift des § 519 ZPO nicht zur Anwendung gelangt. Die Frage der Zulässigkeit eines weiteren Rechtsmittels gegen die Entscheidung des Rekursgerichtes ist daher ausschließlich nach § 528 ZPO zu beurteilen. Die Regel des § 419 Abs. 2 ZPO, die nur einen aufgeschobenen Rekurs (§ 515 ZPO) gestattet, ist auf den die Verweigerung der Berichtigung aussprechenden Beschluß des Rekursgerichtes nicht mehr anzuwenden (SZ 27/180).
+Da die den erstgerichtlichen Beschluß "behebende" Entscheidung des Rekursgerichtes keine "aufhebende" im Sinne des § 527 Abs. 2 ZPO, sondern eine abändernde ist, ist der Revisionsrekurs des Klägers gemäß § 528 Abs. 1 ZPO zulässig.
+Der Revisionsrekurswerber tritt der - zutreffenden - Ansicht des Rekursgerichtes, daß die vom Erstgericht vorgenommene Urteilsberichtigung unzulässig war, nicht entgegen. Er meint jedoch, daß es darauf nicht ankomme, weil der Rekurs der Beklagten, mangels Beschwerde zurückzuweisen gewesen wäre. Ihre Rechtsstellung sei durch den Beschluß des Erstgerichtes verbessert worden.
+Der Revisionsrekurswerber verkennt mit diesen Ausführungen, daß es für die Beurteilung der Frage, ob die Beklagten durch die von ihnen angefochtene Entscheidung verfahrensrechtlicher Art beschwert waren, nicht darauf ankommt, ob diese ihre Rechtstellung in der Hauptsache verbesserte und sie im Berichtigungswege - zumindest teilweise - jenes Urteil erhalten haben, das sie mit ihren Rechtsmittelanträgen erstreben. Da die Parteien einen Anspruch darauf haben, daß über ihre Berufung in jenem Verfahren entschieden wird, das vom Gesetz hiefür vorgesehen ist, können sie auch eine zu ihren Gunsten ausschlagende amtswegige Urteilsberichtigung mit der Begründung bekämpfen, daß kein berichtigungsfähiger Fehler vorliege.
+Dem Revisionsrekurs war daher ein Erfolg zu versagen.

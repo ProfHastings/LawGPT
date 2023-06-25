@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+19.04.2023
+Geschäftszahl
+3Ob38/23v
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei A* GmbH, *, vertreten durch Schima Mayer Starlinger Rechtsanwälte GmbH in Wien, gegen die beklagte Partei T*, vertreten durch Dr. Wolfgang Haslinger, LL.M., Rechtsanwalt in Wien, wegen 140.400 EUR sA, über den außerordentlichen Revisionsrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 29. Dezember 2022, GZ 16 R 225/22h-27, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Erstgericht wies den vom Beklagten – neben anderen Begehren – erhobenen Antrag auf Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Frist zur Klagebeantwortung als verspätet zurück. Dabei ging es von einer wirksamen Zustellung der Klage samt Auftrag zur Klagebeantwortung sowie davon aus, dass der Antrag nach Ablauf der 14-tägigen Frist erhoben worden sei.
+[2] 		Das Rekursgericht gab dem Rekurs des Beklagten gegen die gleichzeitig bekämpfte Entscheidung über den Antrag auf Aufhebung der Vollstreckbarkeitsbestätigung des Versäumungsurteils Folge und hob den Beschluss insoweit zur Verfahrensergänzung und neuerlichen Entscheidung auf. Die Entscheidung über den Wiedereinsetzungsantrag bestätigte das Rekursgericht mit der Maßgabe, dass es den Antrag mit der Begründung zurückwies, dass der Beklagte keinen Grund für eine Wiedereinsetzung im Sinn des § 146 ZPO vorgebracht habe. Die strittige Frage der Verspätung des Antrags stelle sich nicht, weil der Beklagte (auch) die Wiedereinsetzung ausschließlich mit – seiner Ansicht nach – unwirksamen Zustellungen begründet habe. Den Revisionsrekurs gegen die Zurückweisung des Wiedereinsetzungsantrags ließ das Rekursgericht mangels erheblicher Rechtsfrage nicht zu.
+Rechtliche Beurteilung
+[3] 		In seinem gegen diesen Punkt des Beschlusses  gerichteten außerordentlichen Revisionsrekurs zeigt der Beklagte keine Rechtsfrage von der in § 528 Abs 1 ZPO geforderten Qualität auf.
+[4] 		1.1 § 528 Abs 2 Z 2 ZPO ist im vorliegenden Fall nicht anzuwenden. Zwar kann auch eine bloße Maßgabebestätigung, etwa in Form der Zurückweisung eines in erster Instanz abgewiesenen Antrags, grundsätzlich eine Bestätigung im Sinn dieser Norm sein. Voraussetzung ist jedoch die unterschiedslose Rechtsfolge beider Entscheidungsvarianten (1 Ob 93/17h mwN; RS0044215 [T7, T13]). Übereinstimmende Entscheidungen, gegen die der Revisionsrekurs unzulässig ist, können nicht angenommen werden, wenn die Rechtskraftwirkung der Entscheidung verschieden ist (RS0044135 [T1]).
+[5] 		1.2 Das Rekursgericht hat den erstinstanzlichen Beschluss, der von der Verspätung des Wiederein-
+setzungsantrags ausging, nicht inhaltlich bestätigt, sondern den Antrag mit anderer Begründung, nämlich mangels Behauptung eines tauglichen Wiedereinsetzungsgrundes, als unzulässig angesehen. Daher liegt eine abändernde Entscheidung vor und der außerordentliche Revisionsrekurs dagegen ist nicht jedenfalls unzulässig im Sinn des § 528 Abs 2 Z 2 ZPO.
+[6] 		2.1 Gemäß § 146 Abs 1 ZPO ist einer Partei, die durch ein unvorhergesehenes oder unabwendbares Ereignis an der rechtzeitigen Vornahme einer befristeten Prozesshandlung verhindert wurde, auf Antrag die Wiedereinsetzung zu bewilligen, sofern sie an der Versäumung kein oder nur ein geringfügiges Verschulden trifft. Im Fall einer unwirksamen Zustellung ist allerdings nach herrschender Rechtsprechung und überwiegender Lehre eine Säumnis nicht eingetreten, sodass es einem – nur darauf gestützten – Wiederein-
+setzungsantrag nach § 146 ZPO am Substrat mangelt (1 Ob 93/17h mwN; RS0107394 [T4]; Gitschthaler in Rechberger/Klicka, ZPO5 Vor §§ 146 ff Rz 9 mwN).
+[7] 		2.2 Das Rekursgericht hat diese Rechtsprechung seiner Entscheidung zugrunde gelegt. Der Hinweis des Beklagten darauf, dass der Verfassungsgerichtshof in einer Entscheidung einen Wiedereinsetzungsantrag als begründet erachtet habe, weil die Behörden „relevante Schriftstücke“ an „eine nicht mehr aktuelle Anschrift übermittelt“ hätten (VfGH B 311/2014), zeigt weder eine Fehlbeurteilung des Rekursgerichts noch eine erhebliche Rechtsfrage auf. Diesem Beschluss kann nämlich nicht entnommen werden, ob die „nicht mehr aktuelle“ Meldeadresse eine verfahrensrechtlich zulässige Zustellanschrift war.
+[8] 		3. Soweit sich der Beklagte in seinem Rechtsmittel auf § 477 Abs 1 Z 4 ZPO sowie auf die – erst noch näher zu prüfenden – Zustellungen im bisherigen Verfahren bezieht, übersieht er, dass Gegenstand des Revisionsrekurses nur der Antrag auf Wiedereinsetzung in den vorigen Stand ist. Eine Nichtigkeit ist in diesem Zusammenhang nicht erkennbar und die Behauptungen über eine Verletzung des rechtlichen Gehörs sowie des Rechts auf den gesetzlichen Richter sind nicht nachvollziehbar.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00038.23V.0419.000

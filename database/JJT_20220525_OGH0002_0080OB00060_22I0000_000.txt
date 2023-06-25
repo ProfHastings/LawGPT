@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2022
+Geschäftszahl
+8Ob60/22i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten des Obersten Gerichtshofs Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen und Hofräte Dr. Tarmann-Prentner, Mag. Korn, Dr. Stefula und Dr. Thunhart als weitere Richter in der Rechtssache der klagenden Partei W*, vertreten durch Dr. Stephan Petzer, Rechtsanwalt in Wien, dieser vertreten durch Mag. Christoph Marik, Rechtsanwalt in Wien, gegen die beklagten Parteien 1. F* GmbH, *, 2. Dr. R* und 3. Mag. Dr. O*, die 2.- und 3.-beklagte Partei vertreten durch die 1.-beklagte Partei, wegen 500.000 EUR sA und Feststellung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. Jänner 2022, GZ 2 R 94/21i-34, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Die Verjährung von Schadenersatzansprüchen beginnt schon bei Kenntnis des Schadens und des Schädigers zu laufen. Kenntnis der Schadenshöhe ist nicht Voraussetzung des Verjährungsbeginns (RIS-Justiz RS0034440).
+[2] 		2. Der Schadensbegriff des § 1293 ABGB ist sehr weit gefasst. Er umfasst jeden rechtlich als Nachteil zu beurteilenden Zustand, an dem ein geringeres rechtliches Interesse besteht als am bisherigen Zustand (RS0022537). Nachteil am Vermögen ist somit jede Minderung am Vermögen, der kein volles Äquivalent gegenübersteht.
+[3] 		3. Die schon eingetretenen und die aus demselben Schadensereignis voraussehbaren künftigen Teil-(Folge-)Schäden bilden verjährungsrechtlich eine Einheit. Der drohenden Verjährung seines Anspruchs auf Ersatz der künftigen, aber schon vorhersehbaren Schäden hat der Geschädigte daher dann, wenn ihm schon ein Primärschaden entstanden ist, mit einer Feststellungsklage innerhalb der Verjährungsfrist zu begegnen oder ein außergerichtliches Anerkenntnis des Schädigers zu erwirken (vgl RS0097976).
+[4] 		4. Seit der Entscheidung eines verstärkten Senats (1 Ob 621/95) wird in ständiger Rechtsprechung judiziert, dass die kurze Verjährungsfrist nicht vor dem tatsächlichen Eintritt des Schadens zu laufen beginnt (RS0083144). Besteht Ungewissheit darüber, ob überhaupt ein Schaden entstanden ist, und ist über diese Frage ein Rechtsstreit anhängig, ist auf die Rechtskraft der Gerichtsentscheidung bzw den Ausgang eines Verwaltungsverfahrens abzustellen, weil erst dann der Schadenseintritt (= die Zahlungspflicht des Regressberechtigten) „unverrückbar“ feststeht (RS0034908 [T9]; RS0083144 [T22, T31]) und ausreichend sichere Informationen für eine Schadenersatzklage verfügbar sind (RS0083144 [T14]). Dies gilt jedoch nur, wenn bis zum Vorliegen des endgültigen Verfahrensergebnisses Ungewissheit über die Entstehung eines Schadens besteht (1 Ob 12/05d mwN).
+[5] 		5. Die Beurteilung der Verjährung hängt im Allgemeinen typisch von den Umständen des Einzelfalls ab, weshalb grundsätzlich keine erhebliche Rechtsfrage betroffen ist. Eine korrekturbedürftige Fehlbeurteilung durch die Vorinstanzen liegt hier nicht vor.
+[6] 		6. Der Kläger leitet seine Ansprüche daraus ab, dass in einem Gerichtsverfahren, in dem er von den Beklagten vertreten worden sei, entgegen seinem Auftrag ein unbedingter Räumungsvergleich abgeschlossen worden sei. Im Rahmen der nachfolgenden Räumungsexekutionen seien ihm Schäden entstanden. Der Kläger hat den Antrag auf Verfahrenshilfe zur Einbringung einer Schadenersatzklage sieben Jahre nach Kenntnis vom Vergleichsabschluss und sechs Jahre nach der exekutiven Räumung eines Teils der Liegenschaften eingebracht.
+[7] 		Die Rechtsauffassung der Vorinstanzen, dass der Primärschaden bereits im Abschluss des vom Kläger angeblich nicht gewünschten Vergleichs zu erblicken sei und sich bereits dadurch die Rechtsposition des Klägers signifikant verschlechtert habe, weil er sich einer exekutiv durchsetzbaren Verpflichtung auf Räumung der Liegenschaft gegenüber gesehen habe, hält sich im Rahmen des gesetzlich eingeräumten Ermessensspielraums.
+[8] 		7. Mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO ist die Revision des Klägers zurückzuweisen. Einer weiteren Begründung bedarf diese Zurückweisung nicht (§ 510 Abs 3 Satz 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0080OB00060.22I.0525.000

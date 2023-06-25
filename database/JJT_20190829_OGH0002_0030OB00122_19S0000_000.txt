@@ -1,0 +1,19 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.08.2019
+Geschäftszahl
+3Ob122/19s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr.
+Hoch als Vorsitzenden sowie  die Hofräte Dr. Roch und Priv.-Doz. Dr. Rassi und die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek als weitere Richter in der Rechtssache der klagenden Partei E*****, vertreten durch Dr. Herbert Laimböck, Rechtsanwalt in Wien, wider die beklagte Partei S***** GmbH, *****, vertreten durch Mag. Heinz Wolfbauer, Rechtsanwalt in Wien, wegen restlich 39.000 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Teilurteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. April 2019, GZ 5 R 31/19v-26, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+Die Beratungspflichten und Aufklärungspflichten von Banken sind grundsätzlich eine Frage des Einzelfalls. Gegenteiliges gilt nur dann, wenn eine grobe Fehlbeurteilung vorliegt, die im Interesse der Rechtssicherheit korrigiert werden müsste (RIS-Justiz RS0106373; RS0029601 [T17]). Das ist hier aber nicht der Fall (§ 510 Abs 3 ZPO):
+Das Berufungsgericht hat vertretbar verneint, dass eine Bank, die – allein aufgrund einer nicht geforderten Vinkulierung einer Kaskoversicherung zu ihren Gunsten – Kenntnis von der konkreten Gefahr erlangt, dass diese von ihr mit der Kreditnehmerin gar nicht vereinbarte, dennoch aber von einem Dritten eingerichtete Sicherheit verloren geht, die Kreditnehmerin davon informieren muss. Betroffen sind damit nämlich Umstände, die außerhalb des Vertragsverhältnisses zwischen der Klägerin und der beklagten Bank, also allein in der Sphäre der Klägerin liegen, der es überlassen war, wem sie das kreditfinanzierte Fahrzeug überlässt und (vor allem) wie sie sich diesem gegenüber absichert. Dass die Bejahung einer Informationspflicht nur wegen des der Bank bekannten wirtschaftlichen Interesses ihrer Kreditnehmerin an der Aufrechterhaltung dieser Sicherheit vom Berufungsgericht  als unzulässige Überspannung (RS0017049 [T18]) der kreditvertraglichen Nebenpflichten angesehen wurde, bedarf daher keiner Korrektur.
+European Case Law Identifier
+ECLI:AT:OGH0002:2019:0030OB00122.19S.0829.000

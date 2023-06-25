@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+22.04.2022
+Geschäftszahl
+4Ob61/22g
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofräte Dr. Schwarzenbacher, Hon.-Prof. PD Dr. Rassi und MMag. Matzka und die Hofrätin Mag. Istjan, LL.M., als weitere Richter in der Rechtssache der klagenden Partei o* GmbH, *, vertreten durch Dr. Peter Zöchbauer, Rechtsanwalt in Wien, gegen die beklagte Partei K* Gesellschaft m.b.H. & Co KG, *, vertreten durch die Gheneff – Rami – Sommer Rechtsanwälte GmbH & Co KG in Wien, wegen Unterlassung und Veröffentlichung (Streitwert im Provisorialverfahren: 34.000 EUR) über den außerordentlichen Revisionrekurs der beklagten Partei gegen den Beschluss des Oberlandesgerichts Wien vom 16. März 2022, GZ 5 R 147/21f-12, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird gemäß §§ 78, 402 Abs 4 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Klägerin und die Beklagte sind Medieninhaberinnen von Websites, die redaktionelle Inhalte und Anzeigen iSd § 26 MedienG veröffentlichen.
+[2] 		Die Beklagte veröffentlichte einen Beitrag mit der Überschrift: „GROSSER ERFOLG: [Website der Beklagten] erreicht fast jeden dritten Österreicher“. Das deutlich kleinere Balkendiagramm darunter zeigt, dass die online Reichweite tatsächlich nur 27 % beträgt, also gut jeden vierten Österreicher erreicht.
+[3] 		Die Vorinstanzen untersagten der Beklagten mit einstweiliger Verfügung Reichweitenangaben, die sich aus der zugrundeliegenden Datenquelle nicht ergeben, insbesondere unter Bezug auf eine konkret genannte Reichweitenstudie zu behaupten, dass die Website der Beklagten fast jeden dritten Österreicher erreiche. Die Differenz zwischen 27 % und einem Drittel der Bevölkerung betrage über 6 Prozentpunkte bzw mehr als 500.000 Personen. Die Irreführung durch den Blickfang werde nicht durch den unauffälligeren Rest des Beitrags beseitigt.
+Rechtliche Beurteilung
+[4] 		In ihrem außerordentlichen Revisionsrekurs zeigt die Beklagte keine erhebliche Rechtsfrage auf.
+[5] 		1. Wie die angesprochenen Kreise eine Werbeaussage verstehen und ob sie demnach zur Irreführung vor Geschäftsabschluss geeignet ist, hängt immer von den Umständen des Einzelfalls ab und begründet daher in der Regel keine Rechtsfrage erheblicher Bedeutung (RS0107771; RS0043000; RS0053112).
+[6] 		2. Die Beklagte argumentiert, dass die Gleichsetzung von 27 % mit einem Drittel ein zulässiges Werturteil sei.
+[7] 		Die Rechtsprechung unterscheidet in diesem Zusammenhang objektiv nachprüfbare Tatsachenbehauptungen einerseits und Werturteile als rein subjektive, unüberprüfbare Meinungsäußerungen andererseits (vgl RS0078409).
+[8] 		Da die Mathematik sowohl für die Umrechnung von Prozentangaben in Brüche als auch für Rundungen klare Regeln vorgibt, kann die Behauptung, dass bei einer Reichweite von 27 % jeder dritte Österreicher erreicht werde, objektiv überprüft werden.
+[9] 		3. Die Beklagte macht außerdem geltend, eine isolierte Betrachtung der Artikelüberschrift verstoße gegen Art 10 MRK. In der Gesamtbetrachtung werde der richtige Sachverhalt im Text ausreichend klargestellt.
+[10] 		3.1. Zunächst ist klarzustellen, dass unwahre Tatsachenbehauptungen nicht vom Recht auf freie Meinungsäußerung gedeckt sind (RS0107915).
+[11] 		3.2. Der Bedeutungsinhalt von Äußerungen richtet sich nach dem Gesamtzusammenhang und dem dadurch vermittelten Gesamteindruck, den ein redlicher Mitteilungsempfänger gewinnt. Der Gesamteindruck einer Ankündigung ist aber nach ständiger Rechtsprechung nicht gleichbedeutend mit ihrem Gesamtinhalt (RS0078542). Insbesondere kann der Gesamteindruck durch einzelne Teile, die als Blickfang besonders herausgestellt sind, entscheidend geprägt werden (RS0078542 [T9]). In solchen Fällen darf auch der blickfangartig herausgestellte Teil der Ankündigung für sich allein nicht irreführend im Sinne des § 2 UWG sein. Ist dieser Teil irreführend, dann liegt ein Verstoß gegen § 2 UWG vor (RS0078542 [T10]).
+[12] 		Die Bejahung der Irreführungseignung der blickfangartigen Überschrift im konkreten Fall bedarf keiner Korrektur.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0040OB00061.22G.0422.000

@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+04.09.2013
+Geschäftszahl
+7Ob149/13g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin Dr. Huber als Vorsitzende und durch die Hofrätinnen und Hofräte Dr. Hoch, Dr. Kalivoda, Mag. Dr. Wurdinger und Mag. Malesich als weitere Richter in der Rechtssache der klagenden Partei Dr. A***** M*****, vertreten durch Dr. Susanne Kuen, Rechtsanwältin in Wien, gegen die beklagte Partei Z*****Aktiengesellschaft, *****, vertreten durch Dr. Herbert Salficky, Rechtsanwalt in Wien, wegen 654.055,51 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 10. Juni 2013, GZ 3 R 63/12z-80, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Allgemeine Versicherungsbedingungen sind nach ständiger Rechtsprechung nach den Grundsätzen der Vertragsauslegung (§§ 914, 915 ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks der Bestimmung (RIS-Justiz RS0050063, RS0112256 [T10]). Es findet deshalb auch die Unklarheitenregelung des § 915 ABGB Anwendung. Unklarheiten gehen daher zu Lasten der Partei, von der die diesbezüglichen Formulierungen stammen, im Regelfall also zu Lasten des Versicherers (RIS-Justiz RS0050063 [T3]). Die Klauseln sind, wenn sie - wie hier - nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen (RIS-Justiz RS0008901 uva).
+2. Die vorliegenden AUVB 1995 legen - wie in der Unfallversicherung üblich - für bestimmte Körperteile (wie hier für einen Zeigefinger) und Sinnesorgane abstrakt Invaliditätsgrade bei völligem Verlust oder völliger Funktionsunfähigkeit fest. Bei teilweisem Verlust oder teilweiser Funktionsunfähigkeit werden diese festgelegten Sätze anteilig angewendet. Bereits durch die AUVB ist klargestellt, dass es bei der Beurteilung des Invaliditätsgrades nicht auf individuelle Umstände, die nicht medizinischer Art sind, ankommen darf. Dies wird noch ausdrücklich für die nicht in der Tabelle genannten Körperteile und Sinnesorgane ausgesprochen.
+Danach haben bei der generalisierenden, abstrakten Betrachtungsweise zur Ermittlung des Invaliditätsgrades in der Unfallversicherung individuelle Erfordernisse des Berufs oder besondere Fähigkeiten, soweit sie medizinisch keine Bedeutung haben, außer Betracht zu bleiben (vgl 7 Ob 47/13g, RIS-Justiz RS0128840).
+3. Zusätzlich zu den AUVB 1995 wurde zwischen den Streitteilen die „Unfallversicherung Gliedertaxe für Ärzte“ vereinbart, wodurch den individuellen Erfordernissen des Berufs des Klägers (Zahnarzt) Rechnung getragen wurde.
+Schon nach dem Wortlaut bestehen keine Auslegungszweifel, dass die Gliedertaxe für Ärzte erst dann zur Anwendung gelangt, wenn die generalisierende abstrakte Ermittlung den völligen Verlust oder die völlige Funktionsunfähigkeit konkret genannter Körperteile (wie auch eines Zeigefingers) ergibt, was hier aber gerade nicht der Fall ist.
+4. Nach dem völlig unmissverständlichem Wortlaut der AUVB tritt die vorgesehene Leistungsprogression erst ein, wenn sich ein Invaliditätsgrad von mehr als 50 % ergibt. Beim Kläger wurde jedoch eine Invalidität lediglich im Ausmaß von 9 bzw 9,5 % festgestellt.
+5. Die geltend gemachten Verfahrensmängel liegen nicht vor (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2013:0070OB00149.13G.0904.000

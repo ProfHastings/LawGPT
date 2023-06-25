@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.06.1972
+Geschäftszahl
+2Ob128/72
+Norm
+ZPO §6;
+ZPO §7;
+ZPO §30 Abs1;
+ZPO §37;
+ZPO §38;
+ZPO §84;
+Kopf
+SZ 45/76
+Spruch
+Wird innerhalb der nach § 38 ZPO gesetzten Frist der Nachweis der Bevollmächtigung durch eine Vollmachtsurkunde nicht erbracht, sind §§ 6, 7, 84 ZPO nicht anwendbar
+OGH 29. 6. 1972, 2 Ob 128/72 (OLG Graz 3 R 53/72; KG Leoben 4 Cg 312/71)
+Text
+Für die beklagte Partei schritt bei der ersten Tagsatzung durch Rechtsanwaltsanwärter Dr N Rechtsanwalt Dr H ein, der seine Bevollmächtigung nicht nachweisen konnte und einen Antrag auf Zulassung gemäß § 38 ZPO gegen Beibringung der Vollmacht binnen 4 Wochen stellte. Der Kläger beantragte für den Fall der nicht rechtzeitigen Vollmachtsvorlage Fällung des Versäumungsurteiles. Das Erstgericht verkundete den Beschluß in diesem Sinne. Innerhalb der Frist legte die Beklagte mittels Schriftsatzes, der auch die Klagebeantwortung enthielt, ein auf Dr Jörg H lautendes Vollmachtsformular vor, das nach ihren eigenen Ausführungen am 14. 1. 1972 firmenmäßig gefertigt worden war.
+Unter Vorlage eines Handelsregisterauszuges teilte der Kläger mit Schriftsatz vom 25. 2. 1972 dem Erstgericht mit, daß das von der beklagten Partei vorgelegte Vollmachtsformular nicht firmenmäßig unterfertigt sei, weil es nur eine Unterschrift aufweise, obwohl die Beklagte durch zwei Vorstandsmitglieder oder durch ein Vorstandsmitglied gemeinsam mit einem Prokuristen vertreten werde. Dr H habe daher seine Bevollmächtigung nicht fristgerecht nachgewiesen, weshalb das Versäumungsurteil zu fällen sei.
+Mit Beschluß vom 2. 3. 1972 (ON 6) erteilte das Erstgericht der Beklagten den Auftrag, die von ihr vorgelegte Vollmacht binnen drei Wochen durch ordnungsgemäße Zeichnung durch eine weitere zeichnungsberechtigte Person zu verbessern, wobei dem Beklagtenvertreter das Vollmachtsformular vom 14. 1. 1972 zurückgestellt wurde. Die Entscheidung über den Antrag auf Fällung eines Versäumungsurteiles blieb vorbehalten. Der Beklagten sei gemäß § 84 ZPO Gelegenheit zu geben, den Formfehler zu beseitigen. Es würde einen durch nichts zu rechtfertigenden Formalismus bedeuten, ginge das Gericht in diesem Falle mit Versäumungsurteil vor.
+Am 21. 3. 1972, also innerhalb der dreiwöchigen Verbesserungsfrist, langte beim Erstgericht ein weiterer Schriftsatz der Beklagten mit Vorlage der dem Rechtsanwalt Dr H erteilten Vollmacht ein. Diese Vollmachtsurkunde, datiert mit 8. 3. 1972, weist zwei Unterschriften auf. Die der beklagten Partei zur Verbesserung zurückgestellte Vollmachtsurkunde vom 14. 1. 1972 war diesem Schriftsatz nicht angeschlossen. Nunmehr faßte das Erstgericht den weiteren Beschluß vom 29. 3. 1972, ON 9, wonach es die Vorlage der verbesserten Vollmacht zur Kenntnis nahm und den Antrag des Klägers auf Fällung eines Versäumungsurteiles zurückwies.
+Über Rekurs des Klägers hob das Rekursgericht die angefochtenen Beschlüsse "in deren Abänderung" auf und wies die Klagebeantwortung zurück. Es trug dem Erstgericht auf, unter Umgangnahme vom gebrauchten Zurückweisungsgrund ein Versäumungsurteil zu fällen.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist zulässig, weil es sich (wie das Rekursgericht deutlich zum Ausdruck gebracht hat) nicht um aufhebende, sondern um abändernde Beschlüsse der zweiten Instanz handelt, so daß die Beisetzung eines Rechtskraftvorbehaltes nicht in Frage kam SZ 21/21, Fasching IV 443 oben). Der Revisionsrekurs ist aber nicht begrundet.
+Die Rekurswerberin meint, das Verfahren der zweiten Instanz leide daran, daß ein Rekurs des Klägers gegen die Beschlüsse des Erstgerichtes gar nicht zulässig gewesen wäre. Dies ist aber, wie das Rekursgericht zutreffend auseinandergesetzt hat, nicht der Fall, weil zwar gegen den Beschluß ON 6 kein abgesondertes Rechtsmittel statthaft war, wohl aber gegen den Beschluß ON 9.
+Im übrigen führt die Rekurswerberin aus, die Prüfung der vorgelegten Vollmacht habe sich nur auf deren Echtheit und somit auf das Außenverhältnis beziehen dürfen. Um eben dieses Außenverhältnis geht es aber. Dem Erstgericht lag der Nachweis vor (§ 37 ZPO), daß dem Rechtsanwalt Dr H eine Prozeßvollmacht nicht wirksam erteilt worden war, weil die Vollmachtsurkunde lediglich die Unterschrift eines Prokuristen aufwies (vgl SZ 8/239, SZ 26/274). Ein Vertreter ist aber vollmachtslos, wenn ihm keine Vollmacht oder eine solche von einem nicht legitimierten gesetzlichen Vertreter erteilt wurde. Die vom vollmachtslosen Vertreter vollzogenen Prozeßhandlungen sind unwirksam (Rosenberg - Schwab, Zivilprozeßrecht[10], § 55 I). Dr H hat also innerhalb der ihm nach § 38 ZPO gesetzten Frist nicht den Nachweis seiner Bevollmächtigung durch eine Vollmachtsurkunde dargetan (§ 30 Abs 1 ZPO), weshalb das Erstgericht über den Antrag auf Fällung eines Versäumungsurteiles zu entscheiden gehabt hätte. Die Heranziehung des § 84 ZPO war verfehlt, weil es sich nicht um ein Formgebrechen eines Schriftsatzes handelte. Ebensowenig kam die Anwendung der §§ 6, 7 ZPO in Betracht, weil für den Fall der vorläufigen Zulassung eines Rechtsanwaltes eben die Sondernorm des § 38 ZPO besteht.
+Der Revisionsrekurs erweist sich daher als unberechtigt.

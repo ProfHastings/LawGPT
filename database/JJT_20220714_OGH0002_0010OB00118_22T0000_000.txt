@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+14.07.2022
+Geschäftszahl
+1Ob118/22t
+Kopf
+Der Oberste Gerichtshof hat als Revisions- und Rekursgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei Y*, vertreten durch die Gottgeisl & Leinsmer Rechtsanwälte OG, Wien, gegen die beklagte Partei T* Limited, *, vertreten durch die Brandl Talos Rechtsanwälte GmbH, Wien, wegen 914.604,15 EUR sA, über die „außerordentliche Revision“ der beklagten Partei gegen das Urteil und den Beschluss des Oberlandesgerichts Wien als Berufungsgericht vom 3. Mai 2022, GZ 15 R 54/22d-29, womit der Berufung des Beklagten gegen das Urteil und den im Urteil des Landesgerichts für Zivilrechtssachen Wien vom 17. Jänner 2022, GZ 21 Cg 50/21h-23, enthaltenen Beschluss nicht Folge gegeben wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Soweit sich die außerordentliche Revision gegen die Bestätigung der Verwerfung der Einrede der internationalen Unzuständigkeit richtet, wird sie als unzulässig zurückgewiesen.
+2. Im Übrigen wird die außerordentliche Revision mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Zu 1.: Das Erstgericht verwarf mit seinem in das (klagestattgebende) Urteil aufgenommenen Beschluss die Einrede der internationalen Unzuständigkeit.
+[2] 		Das Berufungsgericht wertete den gegen den Beschluss des Erstgerichts, mit dem die Einrede der internationalen Unzuständigkeit verworfen wurde, gerichteten Teil der Berufung der Beklagten als Rekurs, gab diesem nicht Folge und sprach aus, dass der Revisionsrekurs gemäß § 528 Abs 2 Z 2 ZPO jedenfalls unzulässig sei. Im Übrigen gab es der Berufung nicht Folge und sprach aus, dass die ordentliche Revision nicht zulässig sei.
+[3] 		Die Beklagte bekämpft mit ihrer „außerordentlichen Revision“ inhaltlich nur die Entscheidung des Berufungsgerichts, mit welcher die Verwerfung der Prozesseinrede durch das Erstgericht bestätigt wurde. Der Zulässigkeitsausspruch hinsichtlich des Revisionsrekurses sei unrichtig, weil § 528 ZPO im Fall eines Beschlusses nach § 261 Abs 3 ZPO unanwendbar sei, soweit die Revision die Bestätigung der erstinstanzlichen Entscheidung über die internationale Zuständigkeit bekämpft, ist sie als Rekurs gegen einen Beschluss des Berufungsgerichts zu werten. Dieser Rekurs ist jedenfalls unzulässig:
+Rechtliche Beurteilung
+[4] 		Wird der Ausspruch über die Einrede der – wie hier – internationalen Unzuständigkeit in die über die Hauptsache ergehende Entscheidung aufgenommen, so kann er nach § 261 Abs 3 ZPO nur mittels des gegen die Entscheidung in der Hauptsache offen stehenden Rechtsmittels angefochten werden.
+[5] 		Die Beklagte hat daher die vom Erstgericht in seine Hauptsachenentscheidung aufgenommene Entscheidung über die Verwerfung der von ihr erhobenen Prozesseinrede zutreffend mit (auch in der Hauptsache erhobener) Berufung bekämpft (RS0036404; G. Kodek in Fasching/Konecny3 III § 261 ZPO Rz 78). Der Ausnahmefall, dass die Hauptsachenentscheidung nicht angefochten wird, lag hier nicht vor (RS0036404 [T3]; vgl auch G. Kodek in Fasching/Konecny3 III § 261 ZPO Rz 80 ff).
+[6] 		Daraus folgt aber, dass das Berufungsgericht über das von der Beklagten gegen die Verwerfung der Prozesseinrede erhobene Rechtsmittel funktionell (entgegen seiner in der Entscheidungsbegründung geäußerten Ansicht) nicht als Rekurs-, sondern als Berufungsgericht entschieden hat.
+[7] 		Die in Beschlussform ergangene Entscheidung des Berufungsgerichts, mit welcher es dem (von ihm fälschlich als Rekurs gewerteten) Teil der Berufung der Beklagten bezüglich der Verwerfung der Prozesseinrede durch das Erstgericht nicht Folge gab, unterliegt den Anfechtungsbeschränkungen des § 519 Abs 1 ZPO und ist somit unanfechtbar (RS0123463; G. Kodek in Fasching/Konecny3 III § 261 ZPO Rz 79 und 87).
+[8] 		Daran vermag auch der Verweis der Beklagten auf die Bestimmung des § 261 Abs 3 ZPO nichts zu ändern: Eine dem § 261 Abs 3 ZPO entsprechende Bestimmung ist dem drittinstanzlichen Verfahren fremd (RS0123464 [T1]).
+[9] 		Soweit die „außerordentliche Revision“ inhaltlich einen Rekurs gegen den vom Berufungsgericht gefassten Beschluss darstellt, mit welchem die Verwerfung der Prozesseinrede bestätigt wurde, ist sie daher als absolut unzulässig zurückzuweisen (zu all dem ausführlich 8 Ob 33/08y).
+[10] 		Ein Vorabentscheidungsersuchen zur Frage der internationalen Zuständigkeit ist nicht erforderlich, weil diese Frage mangels Zulässigkeit des Rechtsmittels nicht zu prüfen ist (siehe 4 Ob 79/11p, Punkt 5).
+[11] 		Zu 2.: Soweit sich das Rechtsmittel sowohl in der Anfechtungserklärung als auch im Rechtsmittelantrag auch gegen die Entscheidung in der Hauptsache richtet, fehlt es an inhaltlichen Ausführungen, sodass die außerordentliche Revision insofern mangels Aufzeigens einer Rechtsfrage erheblicher Bedeutung zurückzuweisen ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0010OB00118.22T.0714.000

@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+03.11.1954
+Geschäftszahl
+1Ob792/54
+Norm
+EO §1;
+EO §7;
+EO §349;
+ZPO §204;
+ZPO §568;
+Kopf
+SZ 27/278
+Spruch
+Auf Grund eines Räumungsvergleiches mit dem Hauptmieter kann die Räumungsexekution gegen den Untermieter nicht bewilligt werden.
+Entscheidung vom 3. November 1954, 1 Ob 792/54.
+I. Instanz: Bezirksgericht Salzburg; II. Instanz: Landesgericht Salzburg.
+Text
+In dem als Exekutionstitel dienenden Vergleich vom 15. April 1954 verpflichtete sich Ing. Hans L. gegenüber Magda E. u. a. zur Räumung des Kellerzimmers bis zum 1. Mai 1954. Auf Grund dieses Vergleiches beantragte die betreibende Partei die Bewilligung der zwangsweisen Räumung dieses Zimmers gegen Ing. Karl M. als angeblichen Untermieter des Ing. Hans L. Das Erstgericht gab diesem Antrag statt.
+Das Rekursgericht wies dagegen in Abänderung des erstrichterlichen Beschlusses den Exekutionsantrag mit der Begründung gab, gemäß § 568 ZPO. seien zwar die gegen den Bestandnehmer lautenden, über das Bestehen oder die Auflösung des Bestandverhältnisses ergangenen Exekutionstitel auch gegen den Afterbestandnehmer vollstreckbar, dadurch werde aber letzterer nicht Partei des Exekutionsverfahrens und sei die Exekution nicht gegen ihn, sondern gegen den Hauptbestandnehmer zu führen, der nämlich so lange nicht vollständig geräumt habe, als sich in einem Raum noch ein Untermieter befinde.
+Der Oberste Gerichtshof gab dem Revisionsrekurs der betreibenden Partei nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Gemäß §§ 7 und 9 EO. kann eine Exekution nur gegen den im Exekutionstitel genannten Verpflichteten, gegen eine andere Person jedoch bloß dann bewilligt werden, wenn durch öffentliche oder öffentlich beglaubigte Urkunden nachgewiesen wird, daß die im Exekutionstitel festgestellte Verpflichtung auf diejenige Person übergegangen ist, wider die die Exekution beantragt wird. Abgesehen von der Frage der Notwendigkeit eines solchen Nachweises, die sich zumindest im vorliegenden Falle auf das bestehende Untermietverhältnis beziehen müßte, handelt es sich nach § 568 ZPO. überhaupt nicht um einen Übergang der Räumungspflicht von dem Hauptbestandnehmer auf den Unterbestandnehmer, vielmehr trifft die Räumungspflicht auch bei Vorhandensein des Untermieters den Hauptmieter. § 568 ZPO. besagt nur, daß von der Räumungsexekution gegen den Hauptbestandnehmer auch der Unterbestandnehmer erfaßt wird, weil sich die Räumungsverpflichtung des Hauptbestandnehmers ja auch auf die von ihm in Afterbestand gegebenen Räumlichkeiten erstreckt und der Unterbestandnehmer ebenso wie z. B. Familienangehörige des Hauptmieters sein Benützungsrecht lediglich vom Bestandrecht des Hauptbestandnehmers ableitet. Durch § 568 ZPO. soll bloß eine besondere Räumungsklage gegen den Afterbestandnehmer nach Schaffung eines Räumungstitels gegen den Hauptbestandnehmer erspart, nicht aber ein Übergang der Räumungspflicht auf den Unterbestandnehmer begrundet werden, weshalb § 9 EO. überhaupt nicht anwendbar ist. § 568 ZPO. ändert somit nichts daran, daß die Exekution nur gegen den nach dem Exekutionstitel zur Räumung verpflichteten Hauptbestandnehmer bewilligt werden kann.
+Die angefochtene Entscheidung ist demnach zutreffend und mußte daher dem Revisionsrekurs ein Erfolg versagt bleiben.

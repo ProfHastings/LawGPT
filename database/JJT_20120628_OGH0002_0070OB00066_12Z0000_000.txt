@@ -1,0 +1,40 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.06.2012
+Geschäftszahl
+7Ob66/12z
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Vizepräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Schaumüller, Dr. Hoch, Dr. Kalivoda und Mag. Dr. Wurdinger als weitere Richter in der Rechtssache der klagenden Partei Ing. Mag. R*****, vertreten durch Dr. Martin Weiser, Rechtsanwalt in Wien, gegen die beklagte Partei W*****-AG, *****, vertreten durch Dr. Roland Garstenauer, Rechtsanwalt in Salzburg, wegen 21.660,10 EUR sA, über die Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 11. November 2011, GZ 6 R 356/11g-29, womit das Urteil des Landesgerichts Salzburg vom 18. Juli 2011, GZ 14 Cg 24/10g-24, abgeändert wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die klagende Partei ist schuldig, der beklagten Partei die mit 1.259,64 EUR (darin enthalten 209,94 EUR an USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+Das Berufungsgericht erklärte in Abänderung seines ursprünglichen Ausspruchs die ordentliche Revision für zulässig, weil die Auslegung des Begriffs „Gebäude“ in Art 19 Z 2 ABE 2004 vom Obersten Gerichtshof noch nicht beurteilt worden sei.
+Rechtliche Beurteilung
+Entgegen dem - den Obersten Gerichtshof nicht bindenden - Ausspruch des Berufungsgerichts ist die Revision mangels Vorliegens einer erheblichen Rechtsfrage unzulässig. Die Entscheidung kann sich auf die Ausführung der Zurückweisungsgründe beschränken (§ 510 Abs 3 ZPO).
+Die Auslegung von Klauseln in Versicherungsbedingungen, die vom Obersten Gerichtshof bisher noch nicht beurteilt wurden, sind erhebliche Rechtsfragen, es sei denn, dass der klare Wortlaut im Einzelfall unzweifelhaft nur eine Interpretation zulässt (7 Ob 81/06x, 7 Ob 59/06m, 7 Ob 94/06h ua; RIS-Justiz RS0042656 [T37]).
+Dem Versicherungsvertrag liegen die Allgemeinen Bedingungen für die Eigenheimversicherung (ABE 2004; in der Folge ABE) zugrunde. Sie lauten auszugsweise:
+„Art 12 Versicherte Sachen und Kosten
+...
+1.2 Zusätzlich zur Höchsthaftungssumme sind am Grundstück des Hauptgebäudes freistehende Nebengebäude (exklusive Glas- und Gewächshäuser) bis 10 % der Höchsthaftungssumme mitversichert.
+...
+Art 19 Obliegenheiten des Versicherungsnehmers vor dem Versicherungsfall
+...
+2. Werden Gebäude länger als 72 Stunden von allen Personen verlassen, sind alle Wasserzuleitungen abzusperren und geeignete Maßnahmen gegen Frostschäden zu treffen. Eine fallweise Begehung der Gebäude genügt nicht. Während der Heizperiode sind sämtliche wasserführenden Leitungen und Anlagen zu entleeren, sofern die Heizung nicht durchgehend in Betrieb gehalten wird.
+...
+3. Die Verletzung dieser Obliegenheiten führt nach Maßgabe von § 6 VersVG zur Leistungsfreiheit des Versicherers.“
+Der Oberste Gerichtshof hat in der Entscheidung 7 Ob 216/11g (= RIS-Justiz RS0122040 [T8], RS0115217 [T36], RS0115219 [T37]) ausgesprochen, dass bei Darlegung der Folgen einer Obliegenheitsverletzung in AVB der Verweis auf § 6 Abs 3 VersVG - nämlich in Form eines bloßen Klammerzitats - intransparent ist, wobei dort der Wortlaut der Klausel nicht erkennen ließ, dass die Leistungsfreiheit des Versicherers nur in den Ausnahmefällen der in Klammer angeführten Gesetzesstelle statuiert ist: Die Klausel verschleiere, dass die Leistungsfreiheit des Versicherers nur nach Maßgabe des § 6 Abs 3 VersVG eintrete.
+Die hier zu beurteilende Klausel legt aber klar, dass Obliegenheitsverletzungen nach Maßgabe von § 6 VersVG zur Leistungsfreiheit des Versicherers führen. Damit ist Art 19.2 ABE im Sinn der dargelegten Rechtsprechung nicht intransparent.
+In der Versicherungspolizze ist das versicherte Objekt (das im Sinn des Art 12.1.1 ABE „beantragte Gebäude“) unter anderem mit „Nutzfläche 180 m2“ näher beschrieben. Damit ist hier klargestellt, dass das freistehende, 26 m2 große, mit dem Hauptgebäude nicht verbundene Häuschen, das als Pool- oder Badehäuschen errichtet wurde und nun an Wochenenden den Töchtern des Klägers zu Wohnzwecken dient, nur als „Nebengebäude“ im Sinn des Art 12 ABE qualifiziert werden kann.
+In Art 12.1.2 ABE wird festgelegt, dass solche „Nebengebäude“ bis 10 % der Höchsthaftungssumme mitversichert sind. In Art 19.2 ABE wird nicht nach Haupt-
+und Nebengebäude differenziert. Es werden Obliegenheiten für „Gebäude“ festgelegt. Im Hinblick darauf, dass das hier zu beurteilende „Nebengebäude“ zu Wohnzwecken benützt wird und mit entsprechenden sanitären Einrichtungen und wasserführenden Leitungen ausgestattet ist - so wie auch sonst ein Wochenendhaus -, kann für den als Maßstab dienenden durchschnittlichen Versicherungsnehmer nicht zweifelhaft sein, dass jedenfalls für ein solches Gebäude dieselben Obliegenheiten wie für als „Hauptgebäude“ versicherte Objekte gelten. Die Gefahr des Eintritts eines Wasser-/Frostschadens ist bei allen derartigen Gebäuden gleich hoch, unabhängig davon, ob sie nach der Terminologie der Versicherungsbedingungen als „Hauptgebäude“ oder als „Nebengebäude“ einzuordnen sind.
+Auch die Beantwortung der Frage, wann von einem “Verlassen“ dieses „Nebengebäudes“ auszugehen ist, bietet hier keine Schwierigkeit, weil es - ebenso wie das Hauptgebäude - zu Wohnzwecken benutzt wurde. Es kommt daher darauf an, ab wann und innerhalb welchen Zeitraums das Häuschen nicht bewohnt wurde.
+Wenn das (Neben-)Gebäude - wie hier - länger als 72 Stunden von allen Personen verlassen wird, besteht die Obliegenheit, die Wasserleitungen abzusperren (was im Hinblick auf das festgestellte Ausmaß des Wasseraustritts nicht erfolgte) und die Obliegenheit, geeignete Maßnahmen gegen Frostschäden zu treffen (die hier eingetreten sind), insbesondere während der Heizperiode die wasserführenden Leitungen zu entleeren, sofern die Heizung nicht durchgehend in Betrieb gehalten wird. Der Begriff „Heizperiode“ kann im Hinblick darauf, dass der Frostschaden im Jänner entdeckt wurde, ebenfalls nicht zweifelhaft sein.
+Die Entscheidung des Berufungsgerichts hält sich im Rahmen der ständigen Rechtsprechung, wonach den Versicherer nur die Beweislast für das Vorliegen des objektiven Tatbestands einer Obliegenheitsverletzung trifft; Sache des Versicherungsnehmers ist es hingegen, zu behaupten und zu beweisen, dass er die ihm angelastete Obliegenheitsverletzung weder vorsätzlich noch grob fahrlässig begangen hat (RIS-Justiz RS0081313). Eine nur leichte Fahrlässigkeit bleibt ohne Sanktion. Gelingt dem Versicherungsnehmer der Beweis der leichten Fahrlässigkeit (RIS-Justiz RS0043728) nicht, so steht ihm nach § 6 Abs 1 VersVG auch bei (schlicht) vorsätzlicher oder grob fahrlässiger Obliegenheitsverletzung der Kausalitätsgegenbeweis offen (RIS-Justiz RS0086335).
+Der objektive Tatbestand der von der Beklagten auch ins Treffen geführten Obliegenheitsverletzung durch Nichtabsperren der wasserführenden Leitungen ist durch die ausgetretenen Wassermengen bewiesen. Der Kläger hat nicht einmal behauptet, geschweige denn bewiesen, dass ihn daran kein oder nur ein geringes Verschulden trifft. Er hat auch keinen Kausalitätsgegenbeweis angetreten. Schon deshalb ist die Beklagte leistungsfrei. Auf die Frage, ob der Kläger die Heizung im Nebengebäude in der notwendigen Stärke in Betrieb hatte oder nicht, kommt es daher nicht an.
+Es werden daher insgesamt keine erheblichen Rechtsfragen geltend gemacht.
+Die Kostenentscheidung gründet sich auf §§ 41, 50 ZPO. Die Revisionsbeantwortung weist auf die Unzulässigkeit der Revision hin.

@@ -1,0 +1,49 @@
+Gericht
+AUSL EGMR
+Entscheidungsdatum
+06.02.2018
+Geschäftszahl
+Bsw23225/05
+Kopf
+Europäischer Gerichtshof für Menschenrechte, Kammer II, Beschwerdesache Calancea u.a. gg. Moldawien, Zulässigkeitsentscheidung vom 6.2.2018, Bsw. 23225/05.
+Spruch
+Art. 8 EMRK, Art. 6 EMRK, Art. 1 1. Prot. EMRK - Beeinträchtigung von Anrainern durch Hochspannungsleitung.
+Unzulässigkeit der Beschwerden (einstimmig).
+Text
+Begründung:
+Sachverhalt:
+Die beiden ersten Bf., ein verheiratetes Ehepaar, sowie der DrittBf. sind Eigentümer von zwei benachbarten Häusern in Codru, wobei das Haus des Ehepaares 1999, jenes des DrittBf. 2001 fertiggestellt wurde. Über die beiden Grundstücke verläuft eine Hochspannungsleitung, die 1960 ihren Betrieb aufnahm. Die Häuser, deren Bau 1989 genehmigt wurde, befinden sich in etwa zehn Metern Entfernung von dieser elektrischen Leitung.
+Zwischen August 2002 und Jänner 2007 führten die zuständigen innerstaatlichen Behörden mehrere Messungen durch, um die Stärke des elektrischen Feldes, welches durch die Hochspannungsleitung erzeugt wird, festzustellen. Dabei zeigte sich, dass der zulässige Grenzwert von 1 kV/m in manchen Gebieten überschritten wurde. Die Bf. wurden von den nationalen Behörden einerseits darüber, andererseits über eine entsprechende Bestimmung informiert, derzufolge eine Schutzzone von 20 Metern rund um elektrische Leitungen einzuhalten sei, die Häuser der Bf. sich jedoch innerhalb dieser Schutzzone befänden. Ferner sei die Genehmigung für den Bau der Häuser ohne die Zustimmung des Betreibers der Hochspannungsleitung erteilt worden.
+Die Bf. brachten im April 2004 Klage gegen den Netzbetreiber sowie die Gemeinde Codru auf Versetzung der Hochspannungsleitung ein. Sie behaupteten, nicht rechtzeitig vom Bestehen einer Gefahr für ihre Gesundheit informiert worden zu sein, und dass die Nähe der Leitung bei den beiden ersten Bf. schwerwiegende gesundheitliche Probleme bewirkt hätte. Bei der ErstBf. wurde eine Herzkrankheit, beim ZweitBf. 1998 Krebs diagnostiziert; darüber hinaus leidet Letzterer an hohem Blutdruck und einer hypertensiven Herzkrankheit.
+Die innerstaatlichen Gerichte wiesen die Klage der Bf. als unbegründet ab, da die Häuser nach Inbetriebnahme der Hochspannungsleitung und ohne Zustimmung des Betreibers gebaut worden wären. Zudem wäre es technisch unmöglich, die Leitung zu versetzen.
+Rechtliche Beurteilung
+Rechtsausführungen:
+Die Bf. rügten insbesondere eine Verletzung von Art. 8 EMRK (hier: Recht auf Achtung des Privatlebens), da die staatlichen Behörden ihren nach dieser Bestimmung bestehenden positiven Verpflichtungen nicht nachgekommen seien.
+Zur behaupteten Verletzung von Art. 8 EMRK
+(23) Die Bf. bringen vor, angesichts der Umstände des vorliegenden Falles sei die Schwelle der Anwendbarkeit von Art. 8 EMRK erreicht worden. Sie behaupten ebenfalls, dass der Staat seinen Verpflichtungen nicht nachgekommen sei [...], sie über die Risiken zu informieren, die mit der Präsenz einer Hochspannungsleitung auf ihren Grundstücken einhergingen, und die Verletzung des Rechts auf Achtung des Privat- und Familienlebens, deren Opfer sie geworden waren, zu unterbinden.
+(25) Der GH verweist auf die in der Entscheidung Martinez Martinez und Pino Manzano/E aufgestellten allgemeinen Grundsätze.
+(26) Im vorliegenden Fall stellt der GH fest, dass die lokalen Behörden den Bau der Häuser der Bf. im Schutzgebiet von 20 Metern rund um eine Hochspannungsleitung genehmigt haben. Dies scheint gegen die geltenden moldawischen technischen Bestimmungen zu verstoßen. Allerdings weist der GH darauf hin, dass diese Feststellung für ihn allein nicht ausreichend ist, um auf eine Verletzung von Art. 8 EMRK zu schließen.
+(27) Es ist zu untersuchen, ob der Umstand, dass die Bf. einem elektromagnetischen Feld ausgesetzt waren, das durch die auf den Grundstücken der Bf. gelegene Hochspannungsleitung erzeugt wurde, die Mindestschwelle an Schwere überschritten hat, um eine Verletzung von Art. 8 EMRK darzustellen. Diesbezüglich erinnert der GH daran, dass die Feststellung dieser Schwelle relativ ist und von den Umständen der Rechtssache wie der Intensität und Dauer der Immissionen sowie deren körperlichen und psychischen Auswirkungen abhängt.
+(28) Im vorliegenden Fall haben die Bf. nicht nachgewiesen, dass aufgrund der verzeichneten Intensität des elektrischen Feldes auf ihren Grundstücken ein reales Risiko für ihre Gesundheit bestand.
+(29) Darüber hinaus liegen alle aufgezeichneten Messwerte weit unter der Grenze der von der Weltgesundheitsorganisation (WHO) empfohlenen 5 kV/m. Er erinnert daran, die von der WHO vorgegebenen Standards bereits [in vorherigen Entscheidungen] betreffend Lärmemissionen berücksichtigt zu haben, und sieht keinen Grund, hinsichtlich der Expositionsgrenzwerte von elektromagnetischen Feldern anders zu verfahren.
+(30) Außerdem enthält die Akte des vorliegenden Falles im Unterschied zum elektrischen Feld keine Messwerte bezüglich der Stärke des Magnetfelds, die aufzeigen würden, dass die Grenzwerte auf den Grundstücken der Bf. überschritten wurden […].
+(31) Hinsichtlich der Krankheiten, an denen die beiden ersten Bf. leiden, erwägt der GH, dass das Herzleiden der ErstBf. und der Krebs des ZweitBf. vor der Fertigstellung ihres Hauses, das heißt 1999, diagnostiziert wurden. Mangels gegenteiliger Aussagen der ersten beiden Bf. nimmt der GH an, dass selbige ihr Haus seit 1999 bewohnen. Unter diesen Umständen kann der GH nicht auf das Bestehen eines Kausalzusammenhangs zwischen der Präsenz der Hochspannungsleitung auf ihrem Grundstück und den oben angeführten Krankheiten schließen. In Bezug auf den Bluthochdruck und die hypertensive Herzkrankheit, an welcher der ZweitBf. leidet, können die dem GH vorliegenden Angaben auch nicht belegen, inwieweit diese Krankheiten durch die Präsenz der elektrischen Leitung verursacht oder verschlechtert wurden. Im Hinblick auf den DrittBf. stellt der GH fest, dass er weder vor den nationalen Gerichten noch vor dem GH behauptet hat, dass seine Gesundheit durch das Bestehen der strittigen elektrischen Leitung in irgendeiner Weise beeinträchtigt worden wäre.
+(32) In Anbetracht der vorstehenden Erwägungen ist der GH der Auffassung, dass nicht nachgewiesen werden konnte, dass die durch die Hochspannungsleitung erzeugten Werte des elektromagnetischen Feldes eine Stufe erreichten, auf der sie negative Auswirkungen auf das Privat- und Familienleben der Bf. hatten. Daher wurde die erforderliche Mindestschwelle, um eine Verletzung nach Art. 8 EMRK in Betracht ziehen zu können, nicht erreicht. Demzufolge hat es der Staat nicht unterlassen, angemessene Maßnahmen zu setzen, um die durch diese Bestimmung garantierten Rechte der Bf. zu schützen.
+(33) Daraus folgt, dass diese Beschwerde offensichtlich unbegründet ist und […] [als unzulässig] zurückgewiesen werden muss (einstimmig).
+Zu den anderen Beschwerden
+(34) Die Bf. erhoben mehrere auf Art. 6 EMRK gestützte Beschwerden. Angesichts der ihm vorliegenden Angaben […] kann der GH keinen Anschein einer Verletzung der nach dieser Bestimmung garantierten Rechte und Freiheiten feststellen.
+(35) Daraus folgt, dass die auf Art. 6 EMRK gestützten Beschwerden offensichtlich unbegründet sind und […] [als unzulässig] zurückgewiesen werden müssen (einstimmig).
+(36) Zuletzt machen die Bf. einen Verstoß gegen ihre durch Art. 1 1. Prot. EMRK garantierten Rechte […] geltend. Die Bf. machten zu dieser Beschwerde keine weiteren Angaben. Nichtsdestotrotz weist der GH darauf hin, dass die Bf. von der Hochspannungsleitung wissen mussten und sie das Bauland in Kenntnis der Sachlage erwarben sowie dort anschließend ihre Häuser bauten. Vor diesem Hintergrund und unter Berücksichtigung des Gehalts der vorgebrachten Beschwerden ist der GH der Auffassung, dass kein Eingriff in die Rechte der Bf. auf Achtung ihres Eigentums nachgewiesen werden konnte.
+(37) Daher ist die auf Basis von Art. 1 1. Prot. EMRK erhobene Beschwerde ebenso offensichtlich unbegründet und […] [als unzulässig] zurückzuweisen (einstimmig).
+Vom GH zitierte Judikatur:
+López Ostra/E v. 9.12.1994 = NL 1995, 25 = EuGRZ 1995, 530 = ÖJZ 1995, 347
+Fadeyeva/RUS v. 9.6.2005 = NL 2005, 129
+Furlepa/PL v. 18.3.2008 (ZE)
+Galev u.a./BG v. 29.9.2009 (ZE)
+Oluic/HR v. 20.5.2010
+Martinez Martinez und Pino Manzano/E v. 3.7.2012 = NLMR 2012, 232
+Hinweis:
+Das vorliegende Dokument über die Zulässigkeitsentscheidung des EGMR vom 6.2.2018, Bsw. 23225/05, entstammt der Zeitschrift "Newsletter Menschenrechte" (NLMR 2018, 235) bzw. der entsprechenden Datenbank des Österreichischen Institutes für Menschenrechte, Salzburg, und wurde von diesem dem OGH zur Aufnahme in die Entscheidungsdokumentation Justiz im RIS zur Verfügung gestellt.
+Die Zulässigkeitsentscheidung im englischen Originalwortlaut (pdf-Format):
+www.menschenrechte.ac.at/orig/18_3/Calancea.pdf
+Das Original der Zulässigkeitsentscheidung ist auch auf der Website des Europäischen Gerichtshofs für Menschenrechte (www.echr.coe.int/hudoc) abrufbar.

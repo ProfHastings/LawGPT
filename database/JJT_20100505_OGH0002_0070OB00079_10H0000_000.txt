@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+05.05.2010
+Geschäftszahl
+7Ob79/10h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Huber als Vorsitzende und die Hofräte des Obersten Gerichtshofs Dr. Schaumüller, Dr. Hoch, Dr. Kalivoda und Dr. Roch als weitere Richter in der Rechtssache der klagenden Partei J***** E*****, vertreten durch Dr. Arnold Mayrhofer, Rechtsanwalt in Linz, gegen die beklagte Partei U***** AG, *****, vertreten durch Dr. Christian Ransmayr, Rechtsanwalt in Linz, wegen Feststellung, über die außerordentliche Revision des Klägers gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 8. März 2010, GZ 2 R 130/09i-82, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Der Kläger hat bei der beklagten Versicherungsgesellschaft für sein landwirtschaftliches Anwesen eine unter anderem auch das Feuerrisiko deckende Bündelversicherung abgeschlossen. Die dem Versicherungsvertrag zugrundeliegenden Versicherungsbedingungen enthalten folgende Risikoausschlussklausel:
+„Nicht versichert sind Abbruchobjekte - ab Beantragung des Abbruches oder bei amtswegiger Verfügung ab Erhalt des Abbruchbescheides.“
+Der Ausgang des vorliegenden Deckungsprozesses hängt von der Auslegung dieser Klausel ab.
+Das Berufungsgericht hat die ordentliche Revision mit der Begründung nicht zugelassen, es gehe um die Auslegung einer Vertragsbestimmung im Rahmen einer Einzelfallgestaltung, die sich wohl nicht so leicht wiederholen werde. Der Revisionswerber wendet dagegen ein, es sei anzunehmen, dass die Klausel in einer Vielzahl von Versicherungsverträgen Verwendung finde. Das Berufungsgericht habe die Klausel zudem falsch interpretiert. Damit vermag der Kläger einen tauglichen Grund für die Zulassung seines außerordentlichen Rechtsmittels nicht aufzuzeigen:
+Rechtliche Beurteilung
+Die Auslegung von Allgemeinen Versicherungsbedingungen hat sich am Maßstab des durchschnittlich verständigen Versicherungsnehmers zu orientieren (RIS-Justiz RS0050063). Die einzelnen Klauseln sind objektiv unter Beschränkung auf ihren Wortlaut auszulegen (RIS-Justiz RS0008901), wobei stets der einem objektiven Beobachter erkennbare Zweck einer Bestimmung zu berücksichtigen ist (RIS-Justiz RS0050063 [T6]; RS0008901 [T5 und T7]). Das Berufungsgericht hat diese in ständiger Rechtsprechung vertretenen Grundsätze  wiedergegeben und ist ihnen auch gefolgt. Zwar ist die Auslegung von Versicherungsbedingungen, zu denen - wie hier - nicht bereits oberstgerichtliche Judikatur existiert, im Hinblick darauf, dass sie in aller Regel einen größeren Personenkreis betreffen, grundsätzlich revisibel. Dies gilt nach ständiger Rechtsprechung allerdings nicht, wenn die betreffende Bestimmung so eindeutig ist, dass nur eine Möglichkeit der Auslegung in Betracht kommt (RIS-Justiz RS0121516 [T6 und T17]).
+Dies trifft im vorliegenden Fall zu. Das Berufungsgericht hat ausgeführt, dass die „Beantragung des Abbruches“ das entscheidende Kriterium für die Qualifizierung als „Abbruchobjekt“ im Sinn der Risikoausschlussklausel sein müsse. Der Kläger vertritt hingegen die Ansicht, die Frage, ob ein Abbruchobjekt vorliege, hänge letztlich (nur) davon ab, ob der Versicherungsnehmer auch tatsächlich zum Abbruch entschlossen gewesen sei. Dass diese subjektive Komponente schon aus Gründen der Hintanhaltung von Versicherungsbetrug nicht das allein entscheidende Kriterium sein kann, liegt auf der Hand. Wie das Berufungsgericht meint, kann es nach Wortlaut, Sinn und Zweck der Klausel vielmehr nur darauf ankommen, dass ein allfälliger Willensentschluss, das Gebäude abzureißen, durch einen entsprechenden Antrag des Versicherungsnehmers bei der Baubehörde objektiv zum Ausdruck gebracht wurde. Eine vom Kläger behauptete Mentalreservation bei der Anzeige des beabsichtigten Abbruchs an die Baubehörde ist daher unbeachtlich.
+Da die betreffende Klausel nach Wortlaut, Sinn und Zweck von einem durchschnittlich versierten Versicherungsnehmer in einem Schadensfall wie dem vorliegenden nicht anders als im Sinn der Interpretation des Berufungsgerichts verstanden werden kann, ist die Revision mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen. Dies bedarf nach § 510 Abs 3 ZPO keiner weiteren Begründung.

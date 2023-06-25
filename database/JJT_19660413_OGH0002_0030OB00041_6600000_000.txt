@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+13.04.1966
+Geschäftszahl
+3Ob41/66
+Norm
+Kriegsopferversorgungsgesetz §55 (2);
+Lohnpfändungsgesetz §7 Z2;
+Kopf
+SZ 39/68
+Spruch
+Zum Arbeitseinkommen ist zwecks Bestimmung des pfändungsfreien Betrages ein Bezug auf Grund des KOVG. nicht hinzuzurechnen, es sei denn, es handelt sich um die Hereinbringung von gesetzlichen Unterhaltsbeträgen
+Eine Zusammenrechnung nach § 7 Z. 2 LohnPfG. findet auch mit solchen Arbeitseinkommen statt, auf die nicht Exekution geführt wird
+Entscheidung vom 13. April 1966, 3 Ob 41/66
+I. Instanz: Bezirksgericht Gänserndorf; II. Instanz: Kreisgericht Korneuburg
+Text
+Die betreibende Gläubigerin beantragt, auf Grund des Zahlungsbefehles des Bezirksgerichtes Gänserndorf vom 23. September 1960 zur Hereinbringung des Restbetrages von 4413.31 S samt Anhang, Pfändung und Überweisung der der Verpflichteten gegenüber der Versicherungsanstalt der österreichischen Eisenbahnen zustehenden Witwenpensionsbezüge. Sie führt nicht aus, daß bei Berechnung des pfändbaren Teiles zu berücksichtigen wäre, daß die Verpflichtete auch noch von dem Landesinvalidenamt für Wien, Niederösterreich und das Burgenland eine Kriegshinterbliebenenrente von 727.30 S monatlich beziehe.
+Das Erstgericht wies den Exekutionsantrag ab. Es stellte fest, daß die zu pfändende Pension nur 300 S monatlich ausmache. Eine Exekution sei daher schon gemäß § 5 LohnPfG. unzulässig. Dazu komme, daß es sich nicht um eine Pension aus dem Fall des Alters, sondern aus dem Todesfall handle. Gemäß § 98a (2) ASVG. hätte daher die betreibende Gläubigerin die entsprechenden Behauptungen, nach denen ausnahmsweise eine Exekutionsführung zulässig wäre, aufstellen müssen. Überdies könnten nur in Pfändung gezogene Renten und sonstige Bezüge zusammengerechnet werden.
+Das Rekursgericht hob diesen Beschluß unter Vorbehalt der Rechtskraft auf und ordnete eine neuerliche Entscheidung der Sache durch das Erstgericht an. Es führte aus, daß eine Zusammenrechnung der Bezüge ohneweiters möglich sei. Da die betreibende Gläubigerin dem Exekutionsantrag Urkunden beigeschlossen habe, aus denen sich die Voraussetzungen einer ausnahmsweisen Zulässigkeit der Exekution ergäben, habe das Erstgericht zu Unrecht den Exekutionsantrag abgewiesen. Zur genauen Feststellung der Höhe der Bezüge seien jedoch ergänzende Erhebungen notwendig.
+Der Oberste Gerichtshof gab dem Revisionsrekurs Folge; der angefochtene Beschluß wurde dahin abgeändert, daß die Entscheidung des Erstgerichtes wiederhergestellt wird.
+Rechtliche Beurteilung
+Aus der Begründung:
+Die betreibende Gläubigerin hat die Annahme des Erstgerichtes, daß die zu pfändenden Bezüge den gesetzlichen Mindestbetrag nach § 5 LohnPfG. nicht erreichen, in keiner Weise bekämpft. Sie stützt die Zulässigkeit der Pfändung nur auf die Möglichkeit, beide Bezüge zusammenzurechnen. Ihre Rechtsansicht ist jedoch im Ergebnis unzutreffend.
+Die Meinung, daß eine Zusammenrechnung nach § 7 Z. 2 Lohn- PfG. nur dann stattfinden könne, wenn alle zusammenzurechnenden Bezüge gepfändet werden sollen, ist allerdings durch das Gesetz nicht begrundet. Wenn in dieser Bestimmung auch angeordnet wird, daß das Gericht zu verfügen hat, inwiefern der pfändbare Betrag auf die einzelnen Bezüge verteilt wird, so ist damit noch nicht zum Ausdruck gebracht, daß eine solche Maßnahme nur dann zulässig sein soll, wenn alle Forderungen in Exekution gezogen werden. Eine solche Rechtsansicht würde den betreibenden Gläubiger zwingen, auf sämtliche Bezüge des Verpflichteten Exekution zu führen, auch wenn er sich nur aus einem davon befriedigen will. Dies könnte für den Verpflichteten von Nachteil sein. Die deutsche Lehre zweifelt daher gar nicht daran, daß eine Zusammenrechnung auch dann stattzufinden hat, wenn nur einer von mehreren Bezügen gepfändet wird (Schönke - Pohle bei § 850e Z. 2 DZPO. III A 2 b; ferner Baumbach - Lauterbach, ebenda, Anm. 2); bemerkt sei hiezu, daß die genannte Bestimmung des deutschen Rechtes hinsichtlich der Voraussetzung der Zusammenrechnung der des § 7 Z. 2 LohnPfG. entspricht.
+Um eine Zusammenrechnung vornehmen zu können, muß es sich aber um Arbeitseinkommen im Sinne des § 1 (2) LohnPfG. handeln. Die Rente nach dem KOVG. kann jedoch dieser Bestimmung nicht unterstellt werden. Auch Hinterbliebenenbezüge fallen nur darunter, wenn sie sich als Entgelt für Dienstleistungen darstellen. Dies trifft bei einer solchen Rente nicht zu. Diese wird vielmehr gewährt, weil der Betroffene als Kriegsopfer anzusehen ist. § 55 (2) KOVG. stellt unter bestimmten Voraussetzungen die Bezüge nach diesem Gesetz den Arbeitseinkommen nur für den Fall der Exekution zur Hereinbringung von Unterhaltsbeträgen gleich. Darum handelt es sich hier aber nicht.
+Da also eine Zusammenrechnung, die im vorliegenden Falle eine notwendige Voraussetzung für die Zulässigkeit der Pfändung bildet, nicht erfolgen kann, erweist sich der Exekutionsantrag als unzulässig, ohne daß es notwendig war, auf die übrigen, vom Erstgericht angeführten Abweisungsgrunde einzugehen.

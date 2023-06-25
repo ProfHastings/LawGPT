@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+21.11.2022
+Geschäftszahl
+8ObS3/22g
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn als weitere Richter sowie die fachkundigen Laienrichter Dr. Andreas Grad (aus dem Kreis der Arbeitgeber) und Mag. Alexander Hanika (aus dem Kreis der Arbeitnehmer) in der Sozialrechtssache der klagenden Partei M* L*, vertreten durch Dr. Christian Puchner und Mag. Martin Streitmayer, Rechtsanwälte in Leoben, gegen die beklagte Partei IEF Service GmbH, Geschäftsstelle Graz, 8010 Graz, Europaplatz 12, wegen 7.956 EUR sA, (Insolvenz-Entgelt), über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 23. Februar 2022, GZ 7 Rs 59/21g-17, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Text
+Begründung:
+[1] 		Der Kläger hat nach Ende des Insolvenzverfahrens im Rahmen eines Verfahrens auf Zustimmung zur Kündigung nach § 120 ArbVG geführter Verfahren das Dienstverhältnis im Vergleichsweg einvernehmlich beendet und noch eine freiwillige Abfertigung vereinbart. Hier begehrt er Insolvenzentgelt für den aus einer Betriebspensionszusage abgeleiteten Unverfallbarkeitsbetrag iSd § 3d Abs 1 Z 2 IESG.
+Rechtliche Beurteilung
+[2] 		1. Mit der Regelung des § 3c IESG wurde bestimmten kündigungs- und entlassungsgeschützten karenzierten Arbeitnehmergruppen eine gewisse Sonderstellung eingeräumt, die darin begründet ist, dass die fristgebundene IESG-Sicherung für Arbeitnehmer und Arbeitnehmerinnen, die aus Gründen wie insbesondere Elternschaft oder Präsenzdienst längere Zeit nicht im Betrieb anwesend waren und dadurch unter Umständen gar nichts von der Insolvenz erfuhren, in der Praxis Probleme bereitet hatte (8 ObS 1/03k unter Verweis auf ErlRV 737 BlgNR 20. GP 10; Gahleitner in Neumayr/Reissner, ZellKomm3 § 3c IESG Rz 1).
+[3] 		Schon aus dem Gesetzeswortlaut ergibt sich klar, dass nur Arbeitnehmer und Arbeitnehmerinnen mit besonderem Kündigungs- und Entlassungsschutz nach den explizit genannten oder gleichartigen Gesetzesbestimmungen erfasst sind, aber nicht Arbeitnehmer, die ihren Kündigungs- und Entlassungsschutz aus anderen Bestimmungen ableiten, denen es an Gleichartigkeit mangelt.
+[4] 		Damit steht die Rechtsansicht des Berufungsgerichts, dass der Kündigungs- und Entlassungsschutz des Klägers als Vorsitzender des Arbeiterbetriebsrats der vormaligen Schuldnerin die Anwendbarkeit des § 3c IESG auf seine Beendigungsansprüche nicht begründet, im Einklang. Es liegt trotz Fehlens einer ausdrücklichen Rechtsprechung des Obersten Gerichtshofs zur konkreten Fallgestaltung keine erhebliche Rechtsfrage vor, weil das Gesetz selbst eine klare, eindeutige Regelung trifft (RIS-Justiz RS0042656).
+[5] 		2. Aus der in der Revision zitierten Rechtsprechung des Obersten Gerichtshofs zur insolvenzrechtlichen Qualifikation von nach Eintritt des Leistungsfalls gebührenden betrieblichen Pensionszuschüssen als laufendes Entgelt (4 Ob 39/80, 4 Ob 133/80) kann der Kläger schon im Ansatz nichts für seinen Standpunkt ableiten.
+[6] 		Weder erfüllte er bis zum Ende des Sanierungsplanverfahrens die Voraussetzungen für den Leistungsanfall, noch macht er laufende Pensionszuschüsse geltend. Die Unverfallbarkeit der Anwartschaft aus einer betrieblichen Leistungszusage tritt nach § 7 Abs 1 BPG erst bei Beendigung des Arbeitsverhältnisses ein. Erst dann kann der Arbeitnehmer auch die in § 7 Abs 3 BPG genannten Dispositionen treffen oder unter den Voraussetzungen des § 7 Abs 6 BPG eine Abfindung begehren.
+[7] 		Im Zeitpunkt der einvernehmlichen Beendigung des Arbeitsverhältnisses des Klägers war das Sanierungsplanverfahren des Arbeitgebers bereits seit mehreren Monaten beendet und lag jedenfalls kein Insolvenztatbestand nach § 1 Abs 1 IESG mehr vor.
+[8] 		3. Die Revisionsausführungen verkennen im Übrigen, dass nach § 1 Abs 2 IESG grundsätzlich nur aufrechte Ansprüche gegen den Arbeitgeber gesichert sind. Wurde die Forderung des Arbeitnehmers befriedigt oder auf andere Weise (hier durch einen Generalvergleich mit einer zusätzlichen Abfertigung) im Verhältnis zwischen den Arbeitsvertragsparteien endgültig bereinigt, besteht mangels aufrechten Anspruchs auch kein Sicherungsanspruch nach dem IESG. Eines Verzichts gegenüber der Beklagten bedarf es dafür nicht.
+[9] 		4. Die Entscheidung des Berufungsgerichts steht daher mit der Rechtslage und der höchstgerichtlichen Rechtsprechung nicht im Widerspruch. Mangels Darstellung einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO war die außerordentliche Revision zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:008OBS00003.22G.1121.000

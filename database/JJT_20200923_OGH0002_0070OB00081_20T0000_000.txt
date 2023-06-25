@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.09.2020
+Geschäftszahl
+7Ob81/20t
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Kalivoda als Vorsitzende und die Hofrätinnen und Hofräte Hon.-Prof. Dr. Höllwerth, Dr. Solé, Mag. Malesich und MMag. Matzka als weitere Richter in der Rechtssache der klagenden Partei P***** GmbH, *****, vertreten durch Dr. Maria Brandstetter, Rechtsanwältin in Wien, gegen die beklagte Partei G***** GmbH, *****, vertreten durch Dr. Bernhard Steinbüchler ua, Rechtsanwälte in St. Florian, und deren Nebenintervenientin W***** Gesellschaft mbH, *****, vertreten durch Walch|Zehetbauer|Motter Rechtsanwälte OG in Wien, wegen 35.000 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 30. Jänner 2020, GZ 5 R 162/19h-169, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+1. Art 17 CMR stellt für die Haftung des Frachtführers auf den Zeitraum zwischen der Übernahme des Gutes und dem seiner Ablieferung ab, also auf den Zeitraum seiner Obhut (RS0973822). Wie die Übernahme ist auch die Ablieferung ein zweiseitiger Akt, die der Mitwirkung des Empfängers bedarf (RS0062704). Der Ablieferungsvorgang ist abgeschlossen, wenn ein Verhältnis hergestellt wird, das dem zur Entgegennahme bereiten Empfänger die Einwirkungsmöglichkeit auf das Gut einräumt (RS0074012; RS0062537).
+2. Nach Art 16 Abs 2 CMR kann der Frachtführer in den in Art 14 Abs 1 und in Art 15 CMR bezeichneten Fällen das Gut sofort auf Kosten des Verfügungsberechtigten ausladen, wobei nach dem Ausladen die Beförderung als beendet gilt. Die Bestimmung ist so auszulegen, dass der Frachtführer beim Ausladen des Gutes den Willen haben muss, die Beförderung bis zum Einlangen von Weisungen zu beenden (7 Ob 124/13f; RS0116487 [T1]). Deshalb fallen Zwischenlagerungen, die auf Beförderungs- oder Ablieferungshindernisse zurückzuführen sind, nicht in den Haftungszeitraum des Art 17 Abs 1 CMR (vgl 1 Ob 2357/96s; RS0073749).
+Ist dagegen die Zwischenlagerung in den Beförderungsvertrag eingebettet (vgl 3 Ob 132/06t) oder wird der Transport fortgesetzt (6 Ob 90/02g; 7 Ob 124/13f = RS0116487 [T1]), unterfallen transportbedingte Zwischenlagerungen nicht Art 16 Abs 2 CMR, sondern verbleiben im Obhuts- und damit Haftungszeitraum des Art 17 CMR (7 Ob 124/13f mwN).
+3. Wenn die Vorinstanzen davon ausgehend zum Ergebnis kamen, dass hier der Obhutszeitraum der Beklagten nicht mit der Zwischenlagerung beendet wurde, weil der Transport fortgesetzt werden sollte, begegnet dies angesichts der dargelegten Rechtsprechung keinen Bedenken.
+4. Dem Vorsatz gleichstehendes Verschulden (Art 29 Abs 1 CMR) bedeutet in Österreich grobe Fahrlässigkeit; die Beweislast für Vorsatz oder grobe Fahrlässigkeit des Frachtführers trifft grundsätzlich den Geschädigten (RS0073961; RS0062591). Grob fahrlässiges Organisationsverschulden erfordert einen objektiv und auch subjektiv schweren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt. Dafür muss dasjenige unbeachtet geblieben sein, das im gegebenen Fall eigentlich jedem hätte einleuchten müssen (RS0110748). Der Frachtführer hat demnach unbeschränkt für den Schaden am Transportgut oder dessen Verlust einzustehen, wenn ihm eine ungewöhnliche, auffallende Vernachlässigung bei durchaus vorhersehbarem Schaden vorzuwerfen ist. Wesentlich kommt es dabei auf die Umstände des Einzelfalls an (7 Ob 46/14m).
+Hier wurden die Hinweise auf dem Lieferschein auf die Glasware samt erforderlicher Vorsicht bei der Be- und Entladung wegen Sturz- und Bruchgefahr ebenso wenig wie das Gewicht an den Mitarbeiter weitergegeben, der die Kisten mittels Gabelstapler entlud. Dieser nahm zwar die auf den Kisten angebrachten Symbole wahr, maß ihnen aber keine weitere Bedeutung zu, weil er der Ansicht war, „Vorsicht Glas“ werde unabhängig vom tatsächlichen Inhalt routinemäßig auf jeder Verpackung angebracht. Überdies schätzte er das Gewicht der Kisten als viel leichter ein und und stellte sie deshalb am Rand der Ladefläche des LKW nochmals ab, wodurch sich diese senkte, die Kisten kippten und der Inhalt beschädigt wurde.
+Wenn die Vorinstanzen angesichts dieser Vielzahl von Nachlässigkeiten und Unvorsichtigkeiten zur Haftung wegen grober Fahrlässigkeit gelangten (vgl RS0129403), ist auch darin, selbst bei den – von außen leicht erkennbaren – konkreten Verpackungsmissverhältnissen zwischen deren Breite und Höhe, keine Korrekturbedürftigkeit zu erkennen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2020:0070OB00081.20T.0923.000

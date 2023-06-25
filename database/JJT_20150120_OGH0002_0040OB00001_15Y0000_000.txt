@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+20.01.2015
+Geschäftszahl
+4Ob1/15y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Vogel als Vorsitzenden und die Hofräte Dr. Jensik, Dr. Musger, Dr. Schwarzenbacher und Dr. Rassi als weitere Richter in der Rechtssache der klagenden Partei C***** D*****, vertreten durch Mag. Johannes Kerschbaumer, Rechtsanwalt in Wien, gegen die beklagte Partei Stadt Wien, *****, vertreten durch Dr. Josef Milchram, Rechtsanwalt in Wien, wegen 276.831,52 EUR sA und Feststellung (Streitwert 15.000 EUR), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 19. November 2014, GZ 15 R 202/14g-83, womit das Zwischen- und Teilurteil des Landesgerichts für Zivilrechtssachen Wien vom 5. September 2014, GZ 55 Cg 189/09g-78, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Die Vorinstanzen bejahten die von der Klägerin gegen die beklagte Spitalserhalterin geltend gemachten Schadenersatzansprüche infolge Querschnittlähmung nach Infektion als (schicksalhaftes) Ergebnis der Setzung eines Epiduralkatheters („Kreuzstich“) wegen Verletzung der ärztlichen Aufklärungspflicht. Das Berufungsgericht vermisste den Hinweis auf das bei der Klägerin wegen Diabetes erhöhte Infektionsrisiko sowie eine mangels Dringlichkeit der Behandlung zu gewährende ausreichende Überlegungszeit für die Patientin (tatsächlich nur wenige Minuten), um die Erfolgsaussicht der vorgeschlagenen Behandlung (Beschleunigung der Remobilisierung nach Kniegelenksprothese) gegen die Risken (hier ua Querschnittlähmung) abzuwägen und sich allenfalls auch mit Angehörigen zu beraten.
+Rechtliche Beurteilung
+Die Beklagte vermag keine erheblichen Rechtsfragen im Sinn des § 502 Abs 1 ZPO aufzuzeigen.
+Der konkrete Umfang der ärztlichen Aufklärungspflicht hängt von den jeweiligen Umständen des Einzelfalls ab und bildet daher regelmäßig keine erhebliche Rechtsfrage (RIS-Justiz RS0026529, [T18, T20, T21 und T30]; RS0026763, [T5]). Eine vom Obersten Gerichtshof aufzugreifende Fehlbeurteilung im Sinn der von der Beklagten beanstandeten Überspannung der Aufklärungspflicht liegt nicht vor. Da die der Klägerin vorgeschlagene Schmerztherapie mittels Epiduralkatheter nicht dringend war - sie sollte nur der Beschleunigung der Verbesserung der Kniegelenksbeweglichkeit und damit der früheren Beendigung des Spitalsaufenthalts dienen - sind an die ärztliche Aufklärung höhere Anforderungen zu stellen und ist auch über sehr seltene, aber gravierende Risken aufzuklären (RIS-Justiz RS0026375, RS0026772 und RS0026313). Es kann auch nicht davon ausgegangen werden, dass die an sich sehr seltenen Fälle von Querschnittlähmung für einen verständigen Patienten bei seiner Abwägungsentscheidung von vornherein unmaßgeblich sind, ging es doch in diesem Fall keinesfalls um die dringende Abwehr drohender schwerer Gefahren oder die Erzielung besonders wichtiger und dringender Verbesserungen für die Gesundheit der Klägerin (vgl RIS-Justiz RS0026529, [T14, T16 und T34]).
+Die Gleichstellung der Anforderungen an die ärztliche Aufklärungspflicht in diesem Fall an jene vor Operationen liegt im Hinblick auf das Eindringen in den Zwischenwirbelbereich und die damit verbundenen Risken nahe und ist jedenfalls vertretbar.
+Da die tatsächlich gegebene Aufklärung in diesem Fall von den Vorinstanzen in vertretbarer Weise als unzureichend, weil unvollständig beurteilt wurde (keine Erwähnung des durch Diabetes erhöhten Infektionsrisikos), kommt es auf die als zu kurz bemessen gewertete Überlegungsfrist für die Klägerin nicht mehr an, um die Aufklärung insgesamt als ungenügend und daher haftungsbegründend anzusehen. Dass auch über die - hier fehlende - Dringlichkeit der vorgeschlagenen Maßnahme und die allenfalls bestehende Möglichkeit, sich die Sache ohne Gefährdung der eigenen Gesundheit auch noch überlegen zu können, aufgeklärt werden muss, versteht sich wohl von selbst.
+European Case Law Identifier
+ECLI:AT:OGH0002:2015:0040OB00001.15Y.0120.000

@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.08.1960
+Geschäftszahl
+1Ob267/60
+Norm
+EO §200 Z3;
+EO §282;
+Kopf
+SZ 33/83
+Spruch
+Bei Einstellung des Verkaufsverfahrens im Zuge einer Fahrnisexekution zur Hereinbringung der Forderung aus dem Grundgeschäft stellt die Einbringung der Wechselklage keine Umgehung der §§ 200 Z. 3, 282 EO. dar.
+Entscheidung vom 24. August 1960, 1 Ob 267/60.
+I. Instanz: Landesgericht Linz; II. Instanz: Oberlandesgericht Linz.
+Text
+Der Beklagte schuldet der Klägerin aus dem Versäumungsurteil vom 23. Juni 1959 einen Betrag, zu dessen Gunsten die Klägerin gegen ihn Fahrnisexekution führte. Im Zuge dieses Exekutionsverfahrens kam zwischen den Parteien eine Vereinbarung über die Zahlung des geschuldeten Betrages in Teilbeträgen zustande. Nachdem der Beklagte der Klägerin zur Deckung der vereinbarten Raten ein Akzept vom 2. November 1959 übergeben hatte, stellte diese das anhängige Verkaufsverfahren gemäß §§ 200 Z. 3, 282 EO. ein. Die Klägerin erwirkte auf Grund des Wechsels vom 2. November 1959 gegen den Beklagten einen Wechselzahlungsauftrag. Gegen diesen erhob der Beklagte rechtzeitig Einwendungen. Er behauptete, daß der Erlassung des Wechselzahlungsauftrages die Rechtskraft des Versäumungsurteiles entgegenstehe, da beiden Titeln die Forderung aus demselben Rechtsgeschäft zugrunde liege.
+Das Erstgericht hielt den Wechselzahlungsauftrag mit der Begründung aufrecht, daß beide Ansprüche nicht ident seien.
+Das Berufungsgericht bestätigte das Ersturteil.
+Der Oberste Gerichtshof gab der Revision des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Wie die Untergerichte zutreffend erkannten, liegt Rechtskraft der entschiedenen Streitsache nicht vor. Nach ständiger Rechtsprechung besteht zwischen der Klage aus dem Grundgeschäft und der Wechselklage nicht Identität. Es liegen vielmehr zwei verschiedene Forderungen vor, die nur insofern in einem Zusammenhang stehen, als durch die Zahlung der einen Forderung auch die andere erlischt (SZ. XI 5, SZ. XII 17, SZ. XXIII 247, SZ. XXVI 217). Die Ansicht des Beklagten, es bestehe keine Möglichkeit, sich gegen die Eintreibung beider Forderungen mit Erfolg zur Wehr zu setzen, ist nicht haltbar, weil bei Befriedigung auch nur einer Forderung auch die andere getilgt ist und ihm daher das Mittel der Oppositionsklage bei Weiterführung der Exekution zustunde.
+Liegen aber zwei verschiedene Ansprüche vor, dann kann von einer Umgehung der Bestimmungen der §§ 200 Z. 3, § 282 EO. nicht die Rede sein, denn diese Bestimmungen gelten nur für das Exekutionsverfahren. Stehen dem Gläubiger aber zwei Titel für die materiellrechtlich gleiche Forderung zu, dann kam ihm nicht verwehrt sein, von jedem ohne Rücksicht auf den anderen selbständig Gebrauch zu machen.

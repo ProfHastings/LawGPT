@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+28.06.2016
+Geschäftszahl
+8ObS2/16a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Vizepräsidenten Prof. Dr. Spenling als Vorsitzenden, die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn sowie die fachkundigen Laienrichter Dr. Josef Schleinzer und Mag. Regina Albrecht  als weitere Richter in der Sozialrechtssache der klagenden Partei I*****, vertreten durch Dr. Norbert Moser, Rechtsanwalt in Klagenfurt, gegen die beklagte Partei IEF-Service GmbH, *****, vertreten durch die Finanzprokuratur, Singerstraße 17-19, 1011 Wien, wegen 12.716,86 EUR netto (Insolvenz-Entgelt), über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom  14. Jänner 2016, GZ 6 Rs 72/15b-16,  den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+Rechtliche Beurteilung
+1. Der Zweck des IESG besteht nach der Rechtsprechung des Obersten Gerichtshofs in einer sozialversicherungsrechtlichen Sicherung von Entgeltansprüchen und sonstigen aus dem Arbeitsverhältnis erwachsenden Ansprüchen von Arbeitnehmern im Fall der Insolvenz ihres Arbeitgebers. Versichertes Risiko ist demnach im Kernbereich die von den Arbeitnehmern typischerweise nicht selbst abwendbare und absicherbare Gefahr des gänzlichen oder teilweisen Verlustes ihrer Entgeltansprüche, auf die sie typischerweise zur Bestreitung des eigenen Lebensunterhalts sowie des Lebensunterhalts ihrer unterhaltsberechtigten Angehörigen angewiesen sind (RIS-Justiz RS0076409; 8 ObS 6/11g; 8 ObS 13/11m).
+2. Für den Schutzbereich des IESG ist die Absicht des Arbeitnehmers maßgebend, ein über den bloßen Aufwandsersatz hinausgehendes Entgelt für die Bestreitung des Lebensunterhalts zu erzielen. So wie ein atypisch gestaltetes Arbeitsverhältnis nicht in den Schutzbereich des IESG fällt, gilt dies auch für eine bloße Aufwandsersatzregelung im Verhältnis zu einem sogar weisungsbefugten (insolventen) Dritten, mit der nicht Zwecke der Existenzsicherung verfolgt werden (RIS-Justiz RS0127188).
+3. Ob eine Entgeltvereinbarung auf die Erzielung eines Einkommens zur Bestreitung des Lebensunterhalts abzielt oder nur der Deckung von Auslagen dienen soll, ist nach den Umständen des Einzelfalls zu beurteilen und stellt damit regelmäßig keine Rechtsfrage von erheblicher Bedeutung dar. Die Höhe des vereinbarten Betrags kann dabei ein Indiz für die Beurteilung darstellen (vgl 8 ObS 273/01g).
+Soweit sich die Beklagte auf die Verordnung über beitragsfreie pauschalierte Aufwandsentschädigungen BGBl II 1998/41 beruft, ist darauf zu verweisen, dass diese mit 31. 10. 2002 außer Kraft getreten ist und durch die Verordnung BGBl II 2002/83 ersetzt wurde. Die in dieser zunächst enthaltene Regelung bezüglich Aufwandsentschädigungen von (unter anderem) Sporttrainern wurde mit 31. 7. 2009 aufgehoben. Eine entsprechende Bestimmung findet sich seitdem in § 49 Abs 3 Z 28 ASVG. Allein dass der dort genannte Betrag für pauschale Reiseaufwandsentschädigungen nicht überschritten wird,  führt aber nicht zwingend zur Annahme eines Aufwandsersatzes. Vielmehr ist auch in solchen Fällen auf die Gesamtumstände der getroffenen Vereinbarung abzustellen.
+4. Davon ausgehend, dass es dem Kläger bei Übernahme der Trainertätigkeit bei der (späteren) Schuldnerin darum ging, das aus der hauptberuflichen Tätigkeit erzielte Einkommen gerade auch im Hinblick auf seine monatlichen Ausgaben aufzubessern, sowie unter Berücksichtigung dass mit der Tätigkeit kaum abzugeltende Aufwendungen verbunden waren, ist die Beurteilung der Vorinstanzen, dass im konkreten Fall eine Entgeltvereinbarung und kein pauschalierter Aufwandsersatz vorliegt, nicht korrekturbedürftig.
+5.1. Inwieweit aus dem langen Stehenlassen der Entgelte der zumindest bedingte Vorsatz der Verlagerung des Finanzierungsrisikos geschlossen werden kann, ist im Rahmen des „Fremdvergleiches“ zu beurteilen, ob also auch ein „unbeteiligter Arbeitnehmer“ im Unternehmen verblieben wäre (RIS-Justiz RS0112127 [T20]; RS0111281 [T8] uva).
+Das Erstgericht hat aufgrund einer solchen Prüfung einen derartigen Vorsatz verneint.
+5.2. Nach ständiger Rechtsprechung des Obersten Gerichtshofs können, wenn in der Berufung nur in bestimmten gesondert zu beurteilenden Punkten eine Rechtsrüge ausgeführt wird, andere Punkte in der Revision nicht mehr geltend gemacht werden (RIS-Justiz RS0043338 [T11, T27]). Wurde die Entscheidung erster Instanz von der unterlegenen Partei nur in einem bestimmten Punkt wegen unrichtiger rechtlicher Beurteilung angefochten oder die gesamte Rechtsrüge nicht gesetzmäßig ausgeführt, dann sind diese Versäumnisse im Revisionsverfahren nicht mehr nachholbar (RIS-Justiz RS0043480; RS0043573 [T29, T33, T36]).
+5.3. Da die Beklagte sich in ihrer Berufung nicht gegen die Rechtsansicht des Erstgerichts im Zusammenhang mit einem „Fremdvergleich“ gewendet hat, ist auf ihre diesbezüglichen Ausführungen in der Revision nicht einzugehen.
+6. Die außerordentliche Revision ist mangels Vorliegens einer erheblichen Rechtsfrage iSd § 502 Abs 1 ZPO zurückzuweisen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2016:008OBS00002.16A.0628.000

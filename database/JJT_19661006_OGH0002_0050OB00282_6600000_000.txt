@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+06.10.1966
+Geschäftszahl
+5Ob282/66
+Norm
+KO §44;
+ZPO §234;
+Kopf
+SZ 39/163
+Spruch
+Wurde der Streitgegenstand zwar erst während des Prozesses nach Klagszustellung, jedoch vor Eröffnung des Konkurses über das Vermögen des Beklagten von diesem veräußert, so wandelt sich der Klagsanspruch auf Herausgabe nicht in einen Aussonderungsanspruch um
+Entscheidung vom 6. Oktober 1966, 5 Ob 282/66
+I. Instanz: Handelsgericht Wien; II. Instanz: Oberlandesgericht Wien
+Text
+Die Klage vom 2. Juni 1964 ist auf Herausgabe einer bestimmten Anzahl von Möbelstücken gerichtet und stützt den Anspruch auf ein behauptetes Pfandrecht für eine fällige Kreditforderung von zirka 276.000 S gegen die Firma X-Handelsgesellschaft mbH., die diese Möbel bei der beklagten Partei eingelagert hatte. Am 9. Februar 1965 stellte die Klägerin im Hinblick auf die Tatsache, daß der Inhaber der beklagten Firma die begehrten Möbel Anfang Februar 1965 verkauft habe, das Eventualbegehren auf Zahlung von 250.000 S, welchen Betrag sie erzielt hätte, wenn sie die Ware selbst verkauft hätte.
+Der Alleininhaber der beklagten Firma ist am 19. Februar 1965 verstorben. Über das Vermögen der Verlassenschaft nach ihm wurde am 8. März 1965 der Konkurs eröffnet. Das erstgerichtliche Verfahren wurde auf Grund der Konkurseröffnung unterbrochen und nach Eintritt des Masseverwalters auf Seite der beklagten Partei bloß hinsichtlich des Hauptbegehrens auf Herausgabe fortgesetzt, hinsichtlich des Eventualbegehrens blieb es weiterhin unterbrochen.
+Das Erstgericht gab dem Begehren auf Herausgabe (Hauptbegehren) der für die Klägerin gepfändeten, in der Klage einzeln angeführten Möbel statt.
+Das Berufungsgericht bestätigte und führte aus, die während des Prozesses vorgenommene Veräußerung des Streitgegenstandes habe nach § 234 ZPO. auf den Prozeß keinen Einfluß. Es wäre zwar gemäß § 44
+(2) KO. das Aussonderungsrecht vereitelt, wenn die aus der Konkursmasse auszusondernde Sache nach der Konkurseröffnung veräußert worden sei und sich deshalb nicht mehr in der Gewahrsame der Masse befinde. An die Stelle des Rechtes auf Aussonderung trete dann das Recht auf Aussonderung des hiefür geleisteten Entgeltes aus der Masse, oder, wenn dieses noch nicht geleistet worden sei, das Begehren auf Abtretung des Rechtes auf das ausstehende Entgelt. Veräußere der Schuldner die Sache wie im vorliegenden Fall während des Prozesses, so sei die sich daraus ergebende prozessuale Rechtsfolge ausschließlich nach § 234 ZPO. zu beurteilen. Danach habe die Veräußerung der in Streit verfangenen Sache auf den Prozeß keinen Einfluß. Durch sie werde auch die Passivlegitimation der beklagten Partei nicht berührt.
+Der Oberste Gerichtshof gab der Revision des beklagten Masseverwalters Folge und änderte die vorinstanzlichen Entscheidungen dahin ab, daß das Begehren auf Herausgabe der Möbel abgewiesen wurde.
+Rechtliche Beurteilung
+Aus den Entscheidungsgründen:
+Entscheidungswichtig ist die Frage, ob die Bestimmung des § 234 ZPO., wonach die Veräußerung einer im Streit verfangenen Sache auf den Prozeß keinen Einfluß hat, ohne Bedachtnahme auf § 44 KO, Geltung hat, wie die Untergerichte annehmen, oder ob § 44 KO., wie der Oberste Gerichtshof bereits zu 5 Ob 6/65 ausgeführt hat, als Sonderregelung bei der Geltendmachung eines Aussonderungsanspruches die Anwendung des § 234 ZPO. ausschließt. Außer Streit gestellt wurde, daß die gegenständlichen Möbel zirka acht Tage vor dem 9. Februar 1965, sohin vor der erst am 8. März 1965 erfolgten Konkurseröffnung veräußert worden sind.
+Diese Möbel befanden sich also im Zeitpunkt der Konkurseröffnung nicht mehr in der Konkursmasse (§ 44 (1) KO.). Die begehrten Gegenstände wurden vor Eröffnung des Konkursverfahrens veräußert, sodaß ein Aussonderungsanspruch nicht vorliegt und der Geltendmachung eines solchen Anspruches der Boden entzogen ist (SZ. XIV 56, SZ. XXXIV 113). Falls die Sachen nach der Konkurseröffnung verkauft worden wären, würde sich der Aussonderungsanspruch auf den beim Verkauf erzielten Erlös (§ 44 (2) KO.) zu richten haben, sofern die Veräußerung durch den Masseverwalter erfolgt oder der vom Gemeinschuldner erzielte Erlös in die Ist-Masse gelangt sein sollte. Wurde jedoch wie im vorliegenden Fall vor der Konkurseröffnung die Sache durch den Herausgabepflichtigen verkauft, so kann der Berechtigte nur eine Konkursforderung auf Zahlung des Interesses geltend machen.
+Diese Sonderregelung des § 44 KO. für den Fall des Konkurses über das Vermögen des Schuldners - die als Spezialnorm diesfalls die Bestimmung des § 234 ZPO. nicht zur Anwendung kommen läßt - ist auf die Liquidierung und Verteilung des vorhandenen Vermögens abgestellt, schließt sohin die Geltendmachung eines Aussonderungsanspruches (Herausgabeanspruches) hinsichtlich solcher Gegenstände aus, die sich nicht in der Konkursmasse befinden bzw. seit Eröffnung des Konkurses sich nicht darin befunden haben. Es verbleibt kein Raum mehr für die Durchsetzung des Anspruches auf Herausgabe gegenüber der Konkursmasse, da diese durch die Klage - auf Herausgabe - nicht berührt sein kann.
+Im vorliegenden Fall steht der Umstand, daß der Streitgegenstand nicht in der Konkursmasse war oder ist, dem Hauptbegehren entgegen, sodaß die Konkursmasse, vertreten durch den Masseverwalter, auf Herausgabe nicht belangt werden kann. Dieses Begehren war daher in Abänderung der untergerichtlichen Entscheidungen abzuweisen.

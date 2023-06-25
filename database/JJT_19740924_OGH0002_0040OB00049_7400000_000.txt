@@ -1,0 +1,60 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.09.1974
+Geschäftszahl
+4Ob49/74
+Norm
+Arbeitsgerichtsgesetz §3;
+Arbeitsgerichtsgesetz §5;
+ZPO §261 Abs. 6;
+Kopf
+SZ 47/101
+Spruch
+Bei ausländischen Arbeitsverhältnissen hängt im Bereich des arbeitsgerichtlichen Verfahrens von der örtlichen Zuständigkeit des Gerichtes auch die Beantwortung der Frage ab, ob das Arbeitsgericht oder das ordentliche Gericht zur Durchführung des Verfahrens berufen ist
+Die Prozeßüberweisung gemäß § 261 Abs. 6 ZPO ist für den Beklagten ebenso wie für das Gericht, an das die Sache überwiesen wurde, insoweit bindend, als sie zwar grundsätzlich weder eine neuerliche Unzuständigkeitseinrede des Beklagten noch eine neuerliche amtswegige Zuständigkeitsprüfung durch das Gericht ausschließt, diese beiden Möglichkeiten aber dahin beschränkt, daß ein abermaliger Ausspruch der Unzuständigkeit nicht auf Tatsachen gestützt werden darf, aus denen sich die Zuständigkeit des überweisenden Gerichtes ergeben würde
+OGH 24. September 1974, 4 Ob 49/74 (LGZ Graz 2 R 171/74; ArbG Graz 2 Cr 146/74)
+Text
+In ihrer am 18. April 1974 beim Landesgericht für ZRS Graz eingebrachten Klage verlangt die Klägerin - eine Aktiengesellschaft mit dem Sitz in Luxemburg - von dem in Graz wohnhaften Beklagten als ihrem ehemaligen Angestellten die Rückzahlung von Provisionsvorschüssen von insgesamt 81.351 sfr. = 500.227.29 S samt Anhang. Der Beklagte sei zwar - schon von einem Luxemburger Gericht rechtskraftig zur Zahlung dieses Betrages verurteilt worden, doch sei dieses Urteil in Österreich nicht vollstreckbar. Bei der ersten Tagsatzung am 10. Mai 1974 erhob der Beklagte die Einrede der sachlichen Unzuständigkeit des angerufenen Gerichtes und die Einrede der rechtskräftig entschiedenen Streitsache. Daraufhin erklärte sich das Landesgericht für ZRS Graz als zur Durchführung der gegenständlichen Rechtssache sachlich unzuständig und überwies die Rechtssache auf Antrag des Klagevertreters gemäß § 261 Abs. 6 ZPO an das nicht offenbar unzuständige Arbeitsgericht Graz.
+Mit Beschluß vom 15. Mai 1974 wies das Arbeitsgericht Graz die Klage wegen örtlicher Unzuständigkeit zurück, weil sich aus dem Klagevorbringen kein Anhaltspunkt für einen der in § 3 ArbGG taxativ aufgezählten Zuständigkeitsgrunde ergebe, die Zuständigkeitsbestimmungen der Jurisdiktionsnorm aber im arbeitsgerichtlichen Verfahren nicht anzuwenden seien.
+Infolge Rekurses des Klägers hob das Rekursgericht diesen Beschluß auf und trug dem Erstgericht die Fortsetzung des gesetzmäßigen Verfahrens auf. Sei, wie hier, die sachliche Zuständigkeit des Arbeitsgerichtes gemäß § 5 ArbGG bindend festgestellt, dann müßten beim Fehlen der in § 3 ArbGG angeführten örtlichen Anknüpfungspunkte die Zuständigkeitsbestimmungen der Jurisdiktionsnorm hilfsweise herangezogen werden. Danach sei aber gemäß § 65 JN fur den vorliegenden Rechtsstreit das Arbeitsgericht Graz örtlich zuständig.
+Gegen den Beschluß des Rekursgerichtes richtet sich der Rekurs (richtig: Revisionsrekurs) des Beklagten mit dem Antrag, die angefochtene Entscheidung dahin abzuändern, daß die Klage wegen örtlicher Unzuständigkeit des Arbeitsgerichtes Graz oder doch wegen rechtskräftig entschiedener Streitsache zurückgewiesen werde.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Beklagten nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Der Revisionsrekurs ist schon deshalb zulässig weil das Rekursgericht den Beschluß der ersten Instanz nur formell aufgehoben, sachlich aber im Sinne einer Abweisung der Unzuständigkeitseinrede des Beklagten abgeändert hat; es hätte daher des vom Rekursgericht seiner Entscheidung beigesetzten - unrichtig auf § 519 Z. 3 ZPO anstatt auf § 527 Abs. 2 ZPO gestützten - Rechtskraftvorbehaltes gar nicht bedurft.
+Der Revisionsrekurs ist aber im Ergebnis nicht berechtigt.
+Das zunächst angerufene Landesgericht für ZRS Graz hat der vom
+Beklagten bei der ersten Tagsatzung erhobenen Einrede der sachlichen
+Unzuständigkeit Folge gegeben und die Rechtssache auf Antrag der
+Klägerin gemäß § 261 Abs. 6 ZPO - welche Bestimmung nach Lehre
+(Stanzl, Arbeitsgerichtliches Verfahren, 121. Fasching III, 213 §
+261 Abs. 6 ZPO Anm. 9; Petschek - Stagel. Der österreichische
+Zivilprozeß, 459) und Rechtsprechung) (SZ 34/21 = EvBl. 1961/173 =
+JBl. 1961, 513 = RZ 1961, 104; Arb. 6543; JBl. 1959, 108 = SozM IV A
+147 mit weiteren Zitaten; ferner ZAS 1966, 27 = MietSlg. 16.656 u.
+a.) auch im Verhältnis zwischen den ordentlichen Gerichten und den Arbeitsgerichten anzuwenden ist - an das von der Klägerin namhaft gemachte, "nicht offenbar unzuständige" Arbeitsgericht Graz überwiesen. Eine solche Prozeßüberweisung ist, wie sich aus dem letzten Satz des § 261 Abs. 6 ZPO ergibt, für den Beklagten ebenso wie für das Gericht, an das die Sache überwiesen wurde, insoweit bindend, als sie zwar grundsätzlich weder eine neuerliche Unzuständigkeitseinrede des Beklagten noch eine neuerliche amtswegige Zuständigkeitsprüfung durch das Gericht ausschließt, diese beiden Möglichkeiten aber dahin beschränkt, daß ein abermaliger Ausspruch der Unzuständigkeit nicht auf Tatsachen gestützt werden darf, aus denen sich die Zuständigkeit des überweisenden Gerichtes ergeben würde (s. dazu Fasching III, 217 f.
+§ 261 Abs. 6 ZPO Anm. 15). Daraus folgt für den konkreten Fall, daß
+mit der positiven Entscheidung des ordentlichen Gerichtes über die
+Unzuständigkeitseinrede des Beklagten und der antragsgemäß verfügten
+Überweisung der Rechtssache an das Arbeitsgericht Graz dessen
+sachliche Zuständigkeit für das weitere Verfahren in einer jeden
+künftigen Streit über diese Frage ausschließenden Weise bindend
+ausgesprochen ist (Arb. 6682, Arb. 8188 = EvBl. 1966/199 = SozM IV A
+281; JBl. 1959, 108 = SozM IV A 147; ZAS 1966, 27 (mit zustimmender
+Besprechung von Krejci = MietSlg. 16.656; 4Ob 88/71).
+Auch das Arbeitsgericht Graz war sich, wie der letzte Absatz der Begründung seines Beschlusses vom 15. Mai 1974 zeigt, dieser Rechtslage und damit seiner grundsätzlichen Bindung an den - seiner Ansicht nach allerdings verfehlten - Überweisungsbeschluß durchaus bewußt; es meinte aber, daß diese auf die Frage der sachlichen Zuständigkeit beschränkte Bindung kein Hindernis für eine amtswegige Prüfung der örtlichen Zuständigkeit bilde, welche hier mangels Vorliegens eines der in § 3 ArbGG aufgezählten Zuständigkeitstatbestände zur Zurückweisung der Klage führen müsse. Dabei hat das Erstgericht aber die besondere Gestaltung der Zuständigkeitsregelung gerade im arbeitsgerichtlichen Verfahren übersehen:
+Während die ältere Rechtsprechung des Obersten Gerichtshofes (SZ
+28/260 = Arb. 6356 = JBl. 1956, 214 = SozM IV A 100. Arb. 5764; Arb.
+6585 = EvBl. 1957/166 u. a.) nicht im Inland begrundete
+("ausländische") Arbeitsverträge von der österreichischen Arbeitsgerichtsbarkeit ausdrücklich ausgenommen hatte, lehnt die neuere Rechtsprechung im Anschluß an Stanzl (Arbeitsgerichtliches Verfahren, 65) und Schima (JBl. 1956, 215) eine solche Beschränkung auf "inländische" Arbeitsverhältnisse einhellig als durch das Gesetz nicht gedeckt ab. Die in §§ 1 und 2 ArbGG bezeichneten Streitigkeiten aus dem Arbeitsverhältnis - gleichgültig ob sie irgendeine "Auslandsbeziehung" aufweisen oder nicht - fallen vielmehr immer dann in die sachliche Zuständigkeit der Arbeitsgerichte, wenn im konkreten Fall wenigstens einer der fünf Zuständigkeitstatbestände des § 3 ArbGG gegeben ist; ist das nicht der Fall, dann muß beim ordentlichen Gericht geklagt werden, sofern nur überhaupt ein Gerichtsstand nach der Jurisdiktionsnorm und damit
+die inländische Gerichtsbarkeit vorliegt (SZ 34/142 = Arb. 7434;
+Arb. 7232 = EvBl. 1960/208 = SozM IV A 191; 2 Ob 1/73; 2 Ob 113/73;
+4 Nd 2/71; ebenso Stanz, 65; Stanzl, Arbeitsgerichtliche Zuständigkeit bei Dienstverhältnissen mit Auslandsbeziehung, RdA 1956 H. 21 S. 7; Fasching I, 222 § 28 JN Anm. 1).
+Aus diesem Grundsatz, an welchem der Oberste Gerichtshof auch weiterhin festhält, folgt aber, daß im Bereich des arbeitsgerichtlichen Verfahrens von der örtlichen Zuständigkeit des Gerichtes auch die Beantwortung der Frage abhängt, ob das Arbeitsgericht oder das ordentliche Gericht zur Durchführung des Verfahrens berufen ist (vgl. Schima, 215). Sachliche und örtliche Zuständigkeit stehen hier in unlösbarem Zusammenhang: Nur unter der Voraussetzung einer örtlichen Zuständigkeit des § 3 ArbGG kann auch die sachliche Zuständigkeit des Arbeitsgerichtes zur Entscheidung des Rechtsstreites bejaht werden; umgekehrt hat das Fehlen eines örtlichen Zuständigkeitstatbestandes gleichzeitig auch die mangelnde sachliche Zuständigkeit der Arbeitsgerichte - und damit in der Regel die Zuständigkeit der ordentlichen Gerichte - zur Folge.
+Diese besondere Rechtslage hat das Erstgericht nicht beachtet: Es hat die ihm vom Landesgericht für ZRS Graz gemäß § 261 Abs. 6 ZPO überwiesene Klage wegen örtlicher Unzuständigkeit zurückgewiesen, weil keine der in § 3 ArbGG abschließend aufgezählten Zuständigkeitsvoraussetzungen gegeben sei, dabei jedoch übersehen, daß die notwendige Folge eines solchen Ausspruches seiner örtlichen Unzuständigkeit auch der Wegfall der sachlichen Zuständigkeit des Arbeitsgerichtes überhaupt wäre, was wiederum im Sinne der obigen Rechtsausführungen notwendig zur Annahme der Zuständigkeit der ordentlichen Gerichte führen würde (wobei allerdings zunächst an die Eigenzuständigkeit des § 49 Abs. 2 Z. 6 JN zu denken wäre). Gerade eine solche "Rücküberweisung" der Sache an die Gerichte widerspricht aber der vom Gesetz festgelegten bindenden Wirkung des Überweisungsbeschlusses, wie sie oben dargestellt wurde, und ist demnach unzulässig.
+Schon diese Erwägungen führen zur Bestätigung des angefochtenen Beschlusses, ohne daß es noch erforderlich wäre, auf die vom Rekursgericht bejahte, in der Rechtsprechung und im Schrifttum allerdings strittige Frage einer subsidiären Heranziehung der Gerichtsstände der Jurisdiktionsnorm im arbeitsgerichtlichen
+Verfahren näher einzugehen (s. dazu SZ 30/19 = Arb. 6614 = EvBl.
+1957/357 = JBl. 1957, 539 (mit kritischer Bemerkung von Schimal =
+SozM IV A 117 mit ausführlicher Darstellung der widersprechenden Judikatur; dagegen SZ 35/54 = Arb. 7571 = EvBl. 1962/420 = SozM IV A 237; ferner Schima in JBl. 1956, 215; Fasching I, 223 § 28 JN Anm. 1).
+Mit der vom Beklagten in seinem Revisionsrekurs gleichfalls aufgeworfenen Frage der rechtskräftig entschiedenen Streitsache hatte sich der Oberste Gerichtshof im derzeitigen Stadium des Verfahrens schon deshalb nicht zu befassen, weil über diese bei der ersten Tagsatzung erhobene Einrede bisher überhaupt nicht mündlich verhandelt worden ist. Das Erstgericht wird im fortgesetzten Verfahren die gemäß § 261 Abs. 1 ZPO zwingend vorgeschriebene mündliche Verhandlung nachzuholen und sodann auch über diese Prozeßeinrede zu entscheiden haben.

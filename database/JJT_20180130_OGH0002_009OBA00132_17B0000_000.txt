@@ -1,0 +1,28 @@
+Gericht
+OGH
+Entscheidungsdatum
+30.01.2018
+Geschäftszahl
+9ObA132/17b
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Senatspräsidenten des Obersten Gerichtshofs Dr. Hopf als Vorsitzenden, die Hofrätin des Obersten Gerichtshofs Hon.-Prof. Dr. Dehn und den Hofrat des Obersten Gerichtshofs Dr. Stefula sowie die fachkundigen Laienrichter Dr. Johannes Pflug und Herbert Bauer als weitere Richter in der Arbeitsrechtssache der klagenden Partei Mag. D***** H*****, und der Nebenintervenientin auf Seiten der klagenden Partei IEF-Service GmbH, Europaplatz 12, 8020 Graz, gegen die beklagte Partei Dr. C***** K*****, vertreten durch die Stingl und Dieter Rechtsanwälte OG in Graz, wegen 8.565,77 EUR sA, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse 5.540,64 EUR sA) gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 14. September 2017, GZ 6 Ra 40/17z-27, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO iVm § 2 Abs 1 ASGG).
+Text
+Begründung:
+Zwischen den Parteien ist strittig, ob ein echtes Arbeitsverhältnis oder ein bloßer Scheinvertrag vorlag. Die Vorinstanzen folgten der Position des Klägers und gaben dem auf Zahlung restlicher Ansprüche gerichteten Klagebegehren teilweise statt. In der außerordentlichen Revision macht die Beklagte als erhebliche Rechtsfrage geltend, „inwieweit eine reine Formalanstellung bis zum Einlangen einer behördlichen Genehmigung bei einem Arbeitgeber, welcher aber keine tatsächliche Arbeitgebereigenschaft besitzt und die tatsächliche Arbeitgebereigenschaft einem anderen obliegt, ein nichtiges Scheingeschäft ist, oder ob es sich um ein Umgehungsgeschäft handelt“.
+Rechtliche Beurteilung
+Eine erhebliche Rechtsfrage wird damit von der Beklagten nicht aufgezeigt. Eine solche läge nach § 502 Abs 1 ZPO nur vor, wenn die Entscheidung von der Lösung einer
+Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit,
+Rechtssicherheit oder Rechtsentwicklung
+erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist. Dies ist hier nicht der Fall.
+1. Ein Scheingeschäft liegt vor, wenn sich der Erklärende und der Erklärungsempfänger darüber einig sind, dass das Erklärte nicht
+gelten soll (
+RIS-Justiz
+RS0018149; vgl auch RS0018121). Entscheidend ist damit die Absicht der Beteiligten (RIS-Justiz RS0018129).
+Hier steht fest, dass der Kläger den Vertrag als eine befristete Beschäftigung bei der Beklagten bis zu dem Zeitpunkt betrachtete, in welchem eine ausstehende verwaltungsrechtliche Bewilligung zur Errichtung eines Ambulatoriums vorliegen und er danach vom Bewilligungsinhaber, einer GmbH, angestellt werden könne. Bei der Konstatierung des subjektiven Willens des Klägers handelt es sich um eine Tatsachenfeststellung, die ein Scheingeschäft ausschließt (vgl RIS-Justiz RS0043610). Von einer Einigung der Parteien, dass das Erklärte nicht gelten soll, kann nämlich nach den Feststellungen nicht ausgegangen werden.
+2. Aus den Überlegungen der Beklagten zur Qualifizierung des Dienstvertrags als Umgehungsgeschäft ist für sie auch nichts zu gewinnen. Ein Umgehungsgeschäft ist – im Gegensatz zum Scheingeschäft nach § 916 ABGB – nicht schlechthin nichtig (RIS-Justiz RS0113579 [T2]). Nur wenn sonst der Zweck der umgangenen Norm, also jener Vorschrift, welche dem primär gewollten Geschäft entgegensteht, vereitelt würde, ist die umgangene Norm auf das Umgehungsgeschäft anzuwenden (RIS-Justiz RS0016469 [T8]). Im vorliegenden Fall schloss die beklagte niedergelassene Ärztin mit dem klagenden Sportwissenschaftler einen Dienstvertrag. Es ist nicht ersichtlich, warum ein solcher Vertrag dem Zweck der „umgangenen Norm“ des § 7 Stmk KrankenanstaltenG, wonach selbstständige Ambulatorien zu ihrer Errichtung einer Bewilligung der Landesregierung als zuständiger Behörde bedürfen, die nur unter den in der Vorschrift genannten Voraussetzungen erteilt werden darf, zuwiderlaufen sollte.
+European Case Law Identifier
+ECLI:AT:OGH0002:2018:009OBA00132.17B.0130.000

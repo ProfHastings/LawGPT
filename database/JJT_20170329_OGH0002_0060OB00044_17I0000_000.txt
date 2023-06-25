@@ -1,0 +1,27 @@
+Gericht
+OGH
+Entscheidungsdatum
+29.03.2017
+Geschäftszahl
+6Ob44/17i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden und die Hofräte Dr. Schramm, Dr. Gitschthaler, Dr. Nowotny und Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei Dr. W*****, gegen die beklagte Partei W*****, wegen 5.434,62 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 24. Jänner 2017, GZ 15 R 152/16g-7, womit der Beschluss des Landesgerichts Korneuburg vom 31. August 2016, GZ 2 Cg 66/16f-4, bestätigt wurde, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Dem Revisionsrekurs wird nicht Folge gegeben.
+Die klagende Partei hat die Kosten ihres Rechtsmittels selbst zu tragen.
+Text
+Begründung:
+Der Kläger begehrt vom Beklagten die Zahlung des Honorars von 5.434,62 EUR für anwaltliche Vertretungsleistungen in einem vor dem Erstgericht geführten Strafverfahren.
+Das Erstgericht wies die Klage sofort wegen sachlicher Unzuständigkeit zurück. Der Kläger könne sich auf den Gerichtsstand nach § 94 Abs 2 JN nicht stützen, weil ein Strafverfahren kein Hauptprozess im Sinn dieser Bestimmung sei. Die Sache gehöre vor ein Bezirksgericht (§ 49 Abs 1 JN).
+Das Rekursgericht bestätigte diese Entscheidung und sprach aus, der Revisionsrekurs sei zulässig, weil zur Frage, ob der Wahlgerichtsstand des § 94 Abs 2 JN Honorarklagen aus der Vertretung in einem Strafverfahren erfasse, Rechtsprechung des Obersten Gerichtshofs fehle. Der Zweck des § 94 Abs 2 JN, die Entscheidung über Honoraransprüche jenem Gericht zuzuweisen, das sie am besten beurteilen könne (9 ObA 89/97x), treffe in Strafsachen nicht immer zu, weshalb der Gerichtsstand darauf nicht ausgedehnt werden dürfe (Pollak, System des Österreichischen Zivilprozessrechts2 [1932] 363). Der Gesetzeszweck könne nämlich dann nicht erreicht werden, wenn das Strafverfahren vor einem nur für Strafsachen zuständigen Landesgericht geführt worden sei.
+Rechtliche Beurteilung
+Der Revisionsrekurs des Klägers ist aus dem vom Rekursgericht genannten Grund zulässig; er ist aber nicht berechtigt.
+Der Oberste Gerichtshof billigt die rechtliche Beurteilung des Rekursgerichts sowohl im Ergebnis als auch in der methodischen Ableitung (§ 510 Abs 3 iVm § 528a ZPO).
+Nach § 94 Abs 2 JN können Prozessbevollmächtigte und Zustellungsbevollmächtigte Klagen auf Zahlung ihrer Honorare und auf Ersatz ihrer Auslagen (auch noch nach rechtskräftiger Entscheidung des Hauptverfahrens [s § 95 Abs 2 JN]) beim Gericht des „Hauptprozesses“, aus dem die Ansprüche entstanden sind, anhängig machen, und zwar unabhängig vom Wert des Streitgegenstands (§ 95 Abs 1 JN).
+Der Kläger beruft sich auf die Ausführungen von Simotta in Fasching/Konecny3 § 94 JN Rz 12. An dieser Stelle referiert die Autorin die Rechtsprechung des Obersten Gerichtshofs, die das Wort „Hauptprozess“ erweiternd dahin auslegt, dass darunter nicht nur Streitverfahren im engeren Sinn, sondern auch Exekutionsverfahren (R I 556/15 GlUNF 7631) und Verfahren vor den Arbeits- und Sozialgerichten (9 ObA 89/97x) zu verstehen sind. Daran  anschließend führt sie aus, § 94 Abs 2 JN sollte unabhängig davon gelten, in welchem Verfahren die geltend gemachten Kosten entstanden sind, weil dieser Wahlgerichtsstand zu dem Zweck geschaffen worden sei, dass die Kostenklage der Prozess- und Zustellungsbevollmächtigten bei dem Gericht angebracht werden könne, bei welchem die geltend gemachten Kosten aufgelaufen seien.
+Abgesehen davon, dass diese Ausführungen nicht ausdrücklich auf Strafverfahren Bezug nehmen, spricht Folgendes dagegen, unter „Hauptprozess“ auch Strafverfahren zu verstehen. Es gibt, wie das Rekursgericht zutreffend ausführte, Gerichtshöfe erster Instanz, denen nur die Gerichtsbarkeit in Strafsachen zukommt. Da diese nicht zur Ausübung der Gerichtsbarkeit in bürgerlichen Rechtssachen (§ 1 JN), wozu Honorarklagen Prozess- und Zustellungsbevollmächtigter zählen, berufen sind, gelten für sie die Jurisdiktionsnorm und die Zivilprozessordnung nicht. Sie gehören nicht zu den ordentlichen Gerichten in bürgerlichen Rechtssachen. Danach zu differenzieren, ob ein Landesgericht sowohl in Strafsachen als auch in Zivilsachen Gerichtsbarkeit ausübt, erscheint nicht sachgerecht.
+Die Kostenentscheidung beruht auf §§ 40, 50 Abs 1 ZPO.
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00044.17I.0329.000

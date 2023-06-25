@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.10.1950
+Geschäftszahl
+1Ob605/50
+Norm
+AO §40;
+AO §53a;
+Kopf
+SZ 23/301
+Spruch
+Das Stimmrecht für eine gepfändete, aber noch nicht überwiesene Forderung im Ausgleichsverfahren des Drittschuldners kann nur vom Verpflichteten und vom betreibenden Gläubiger der Forderungsexekution gemeinsam ausgeübt werden.
+Entscheidung vom 25. Oktober 1950, 1 Ob 605/50.
+I. Instanz: Landesgericht für Zivilrechtssachen Wien; II. Instanz:
+Oberlandesgericht Wien.
+Text
+Der Ausgleichsverwalter und der Ausgleichsschuldner haben bei der Ausgleichsverhandlung vom 19. Juli 1950 die Forderung des Gläubigers Ing. Anton F. im Betrage von 100.269.30 S dem Gründe und der Höhe nach anerkannt, das Stimmrecht aber bestritten, weil dieser Gläubiger zufolge einer administrativen Pfändung über die Forderung nicht mehr verfügungsberechtigt sei.
+Der Ausgleichskommissär des Landesgerichtes für Zivilrechtssachen Wien hat mit Beschluß entschieden, die Stimme dieses Gläubigers werde in Ansehung der von ihm angemeldeten Forderungen von 100.269.30 S gezählt. In den Gründen wird ausgeführt, der Abgabenschuldner, Ing. Anton F., sei ungeachtet der Pfändung vor der Überweisung - die, wie unbestritten, noch nicht erfolgt ist - noch immer der Inhaber der Forderung und in seinen Rechten durch das auferlegte Verfügungsverbot nur so weit beschränkt, als sie die Rechte des Finanzamtes als betreibenden Gläubiger berühren. Seien bis zur Überweisung der gepfändeten Forderung Vorkehrungen mit der Forderung erforderlich, so müsse sie der Abgabenschuldner vornehmen, weil das Finanzamt als betreibender Gläubiger vor der Überweisung hiezu noch nicht berechtigt sei. Demnach könne der Abgabenschuldner Ing. Anton F. seine Forderung im Ausgleichsverfahren des Drittschuldners Kurt S. trotz der Pfändung anmelden. Er könne auch das Stimmrecht ausüben und gegen den Ausgleichsantrag stimmen, weil hiedurch die Interessen des Finanzamtes als der betreibenden Partei nicht berührt werden. Zur Abgabe der Stimme "für" den Ausgleichsantrag hätte er allerdings die Zustimmung des Finanzamtes nachweisen müssen, weil die Fürstimme einen teilweisen Schulderlaß zum Ausdruck bringe und gegebenenfalls einen Nachteil für die betreibende Partei bedeuten könne.
+Das Rekursgericht hat infolge Rekurses des Ausgleichsschuldners ausgesprochen, der angefochtene Beschluß werde dahin abgeändert, daß die Stimme des Gläubigers Ing. Anton F. in Ansehung der von ihm angemeldeten Forderung von 100.269.30 S nicht gezählt werde. Das Rekursgericht vertritt den Standpunkt, daß über die Forderung weder der Gläubiger als Inhaber derselben noch dessen Pfandgläubiger allein verfügungsberechtigt sei. Die Forderung könne wohl zum Ausgleich angemeldet werden, was zur Folge habe, daß die Bestimmung des § 53a AusglO. den Beteiligten zugute komme, aber es könne keiner allein eine Erklärung abgeben, mit der für oder gegen den Ausgleich gestimmt werde. Da die beteiligten Parteien ohne nachgewiesenes Einverständnis nicht in der Lage seien, pro oder contra zu stimmen, führe das zu dem Schlusse, daß sie überhaupt nicht abstimmen können.
+Der Oberste Gerichtshof gab dem Revisionsrekurs des Gläubigers (Verpflichteten der Forderungsexekution) nicht Folge.
+Rechtliche Beurteilung
+Aus der Begründung:
+Dem Revisionsrekurs kommt Berechtigung nicht zu.
+An die Forderungsanmeldung geknüpft, ist das Stimmrecht das Recht eines jeden Ausgleichsgläubigers, an der Abstimmung bei der Ausgleichstagsatzung durch eine mündliche Erklärung teilzunehmen, die, einmal abgegeben, für die betreffende Abstimmung unwiderruflich bindet, da die Ausgleichsordnung keinen Widerruf kennt.
+Dieses Stimmrecht ist öffentlichen Rechtes und wird durch eine Prozeßhandlung ausgeübt. Mangels einer gesetzlichen Ermächtigung ist es auch nicht mit Wirkung für das Verfahren verzichtbar und ist für sich allein unübertragbar.
+Gemäß § 40 AusglO. gebührt mehreren Gläubigern, denen eine Forderung gemeinschaftlich zusteht oder deren Forderung bis zum Eintritt der Zahlungsunfähigkeit des Schuldners eine einzige Forderung gebildet hat, nur eine Stimme, welche Vorschrift, wie die zitierte Gesetzesstelle weiter festsetzt, sinngemäß anzuwenden ist, wenn an der Forderung des Gläubigers ein Pfandrecht besteht.
+Dieser Fall ist, wie außer Streit steht, hier durch die Pfändung des Finanzamtes gegeben.
+In solchen Fällen ist es nun, wie schon die Denkschrift zur Einführung einer Konkursordnung, einer Ausgleichsordnung und einer Anfechtungsordnung ausführt, Sache der Parteien, sich über die Ausübung des Stimmrechtes zu einigen.
+Diese Personenbeziehung ist, wie Bartsch - Pollak, II, S. 382, zutreffend ausführt, erforderlichenfalls sogar von Amts wegen festzustellen. Denselben Standpunkt teilt der Grundriß des Ausgleichs- und Konkursrechtes von Bartsch, Ausgabe 1949, S. 48, insofern er ausspricht, daß bei Mangel einer Einigung diese Personen nicht mitstimmen können.
+Im Sinne dieser Erwägungen entspricht daher der angefochtene Beschluß des Rekursgerichtes der Rechtslage.
+Wenn der Rechtsmittelwerber sich zur Stützung seines gegenteiligen Standpunktes auf den Kommentar zur Exekutionsordnung von Neumann - Lichtblau beruft, der zum Ausdruck bringt, solange die Forderung nicht überwiesen sei, dürfe der Verpflichtete Verfügungen mit der gepfändeten Forderung treffen, ist darauf zu verweisen, daß diese Kommentarstelle weiter ausführt, daß aber nur solche Verfügungen in Betracht kommen, die das Interesse des betreibenden Gläubigers nicht berühren. Dies trifft auf die Anmeldung der Forderung zu, nicht aber auf die Ausübung des Stimmrechtes, welche ihrem Wesen und ihrer Bestimmung nach einen rechtlichen Verfügungsakt über die angemeldete Forderung darstellt. Aus den einschlägigen Ausführungen des Kommentars ergibt sich eindeutig, daß auch sein Standpunkt ist, daß meritorische Verfügungen vor der Überweisung der Forderung ein einverständliches Vorgehen des Verpflichteten mit dem betreibenden Gläubiger erfordern.
+Dem Revisionsrekurs war daher ein Erfolg zu versagen.

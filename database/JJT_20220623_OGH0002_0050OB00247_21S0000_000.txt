@@ -1,0 +1,21 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.06.2022
+Geschäftszahl
+5Ob247/21s
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer, Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Grundbuchsache der Antragstellerin W* K*, vertreten durch Dr. Erich Trachtenberg, Rechtsanwalt in Wien, wegen Vormerkung des Eigentumsrechts ob EZ *, KG *, über den außerordentlichen Revisionsrekurs der E* H*, vertreten durch Mag. Dr. Marlies Folger, Rechtsanwältin in Deutschlandsberg, gegen den Beschluss des Landesgerichts Korneuburg als Rekursgericht vom 8. Juli 2021, AZ 22 R 148/20z, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Auch im Grundbuchsverfahren ist der Revisionsrekurs nur dann zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt (§ 126 Abs 2 GBG iVm § 62 Abs 1 AußStrG). Eine solche Frage zeigt der außerordentliche Revisionsrekurs nicht auf:
+[2] 		1. Es entspricht der ständigen Rechtsprechung des Obersten Gerichtshofs, dass ein gerichtlicher Vergleich einen vorgeschriebenen Notariatsakt ersetzt (RIS-Justiz RS0037191, RS0060250; 3 Ob 71/08z). Dies hat der Oberste Gerichtshof etwa zu Ehepakten (RS0017245 [T1, T2]; 3 Ob 509/88), zu Vereinbarungen nach § 97 EheG (3 Ob 567/91) und zur Übertragung von Geschäftsanteilen einer GmbH (RS0060250; RS0060201 [T2]) ausgesprochen.
+[3] 		2. Der Revisionsrekurs bringt keine neuen bedeutsamen Argumente, die gegen die Richtigkeit dieser – auch von der herrschenden Lehre anerkannten (Riedler in Schwimann/Kodek5 § 883 ABGB Rz 8; Kalss in Klete?ka/Schauer, ABGB-ON1.01, § 883 Rz 9; Dullinger in Rummel/Lukas4 § 886 Rz 11; Wagner/Knechtel in Wagner/Knechtel, NO6, § 1 NotAktsG Rz 3; E 16–18) – Judikatur sprechen.
+[4] 		3. Die Rechtsmittelwerberin vermag auch nicht zu begründen, warum diese Rechtsprechung für eine Schenkung auf den Todesfall nicht gelten soll. Aus der von der Rechtsmittelwerberin ins Treffen geführten Entscheidung 2 Ob 123/01d lässt sich für diesen Standpunkt jedenfalls nichts gewinnen. Dass der Oberste Gerichtshof in dieser Entscheidung von der Notariatsaktspflicht der Schenkung auf den Todesfall (als Standardfall) ausgeht, lässt nicht den Schluss zu, dass sich bei diesem Rechtsgeschäft der erforderliche Notariatsakt nicht substituieren ließe. Ob ein gerichtlicher Vergleich ausreicht, um die Formerfordernisse einer Schenkung auf den Todesfall zu erfüllen, stand dort nicht im Raum; dementsprechend hatte der Oberste Gerichtshof keinerlei Veranlassung, auf diese Frage einzugehen.
+[5] 		4. Der Umstand, dass die Ersetzbarkeit des Notariatsakts durch einen gerichtlichen Vergleich konkret in Bezug auf eine Schenkung auf den Todesfall vom Obersten Gerichtshof noch nicht beurteilt worden sein mag, bedeutet nicht, dass eine Rechtsfrage von der im § 62 Abs 1 AußStrG umschriebenen Bedeutung vorliegt (RS0110702; RS0107773; RS0102181). Das gilt insbesondere, wenn der Streitfall – wie hier – mit Hilfe bereits vorhandener Leitlinien höchstgerichtlicher Rechtsprechung gelöst werden kann und vom Rekursgericht auch so gelöst wurde (RS0107773 [T3]; RS0042742 [T13]; RS0042656 [T48]).
+European Case Law Identifier
+ECLI:AT:OGH0002:2022:0050OB00247.21S.0623.000

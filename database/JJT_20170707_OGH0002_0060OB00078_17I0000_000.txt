@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+07.07.2017
+Geschäftszahl
+6Ob78/17i
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Kuras und die Hofräte Dr. Schramm, Dr. Gitschthaler, Univ.-Prof. Dr. Kodek und Dr. Nowotny als weitere Richter in der Firmenbuchsache der D***** KG, FN *****, mit dem Sitz in Wien, über den außerordentlichen Revisionsrekurs des Antragstellers Mag. R***** K*****, gegen den Beschluss des Oberlandesgerichts Wien als Rekursgericht vom 15. Februar 2017, GZ 6 R 37/17f-19, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 15 Abs 1 FBG iVm § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+Der Komplementär der seit 2. 9. 2005 im Firmenbuch eingetragenen KG kündigte mit Schreiben vom 21. 6. 2010 die Gesellschaft per 31. 12. 2010.
+Mit Eingabe vom 4. 10. 2016 begehrte der Rechtsmittelwerber als einziger Kommanditist der KG folgende Eintragungen in das Firmenbuch:
+„Kündigung vom 21. 6. 2010 zum 31. 12. 2010
+Firma D***** KG in Liquidation
+Liquidator ... [Kommanditist] vertritt ab Anmeldung
+Firmensitz
+...“
+Das Erstgericht wies den Antrag auf
+- Eintragung der Wortfolge „in Liquidation“,
+- Änderung der Geschäftsanschrift und
+- Eintragung des Antragstellers als Liquidator
+ab.
+Das Rekursgericht bestätigte diese Entscheidung. Liquidator sei auch der Komplementär. Seien mehrere Liquidatoren vorhanden, so könnten sie die zur Liquidation gehörenden Handlungen nur in Gemeinschaft vornehmen, sofern nicht – worauf sich der Antragsteller aber nicht stütze – anderes bestimmt sei. Die Liquidatoren seien damit nur kollektivvertretungsbefugt. Mangels Mitwirkung des Komplementärs am Eintragungsantrag sei dieser Antrag nach erfolglosem Verbesserungsversuch zu Recht abgewiesen worden.
+Rechtliche Beurteilung
+Der außerordentliche Revisionsrekurs zeigt keine Rechtsfrage im Sinn des § 62 Abs 1 AußStrG auf:
+1. Unzutreffend ist die Behauptung, der Rechtsmittelwerber sei nach der Kündigung der Gesellschaft der einzige Gesellschafter.
+a) Die Kündigung der KG durch den Komplementär löste die Gesellschaft auf (§ 131 Z 6, § 132 Abs 1 iVm § 161 Abs 2 UGB). Nur wenn eine entsprechende Regelung im Gesellschaftsvertrag getroffen wurde, würde die Kündigung nicht zur Auflösung, sondern nur zum Ausscheiden des Kündigenden führen (7 Ob 553/85; 1 Ob 135/75). Eine derartige Regelung behauptete der Rechtsmittelwerber weder im Verfahren erster Instanz noch im Rekursverfahren. Das Vorbringen zu einer derartigen Regelung erst im Revisionsrekurs ist eine unbeachtliche Neuerung (§ 66 Abs 2 AußStrG iVm § 15 Abs 1 FBG; RIS-Justiz RS0079200). Auch im Verfahren außer Streit können im Rekurs nicht gerügte Verfahrensfehler erster Instanz mit Revisionsrekurs nicht geltend gemacht werden (RIS-Justiz RS0043111 [T18]), sodass die Rüge, das Rekursverfahren sei mangelhaft, weil ihm nicht Gelegenheit gegeben worden sei, die schlüssige Vereinbarung einer bloßen „Austrittskündigung“ darzulegen, unbeachtlich ist.
+b) Die KG ist in das Liquidationsstadium getreten und nach den Vorschriften der §§ 145 ff (iVm § 161 Abs 2) UGB abzuwickeln. Liquidatoren sind – mangels einer abweichenden Regelung im Gesellschaftsvertrag oder mangels eines abweichenden Beschlusses der Gesellschafter – alle Gesellschafter (§ 146 Abs 1 iVm § 161 Abs 2 UGB), und zwar unabhängig von ihrer bisherigen Geschäftsführungsbefugnis (RIS-Justiz RS0061701). Die Liquidatoren sind von sämtlichen Gesellschaftern zur Eintragung in das Firmenbuch anzumelden (§ 148 Abs 1 iVm § 161 Abs 2 UGB). Mehrere Liquidatoren sind, sofern nicht Einzelvertretungsbefugnis bestimmt ist (was hier nicht der Fall ist), kollektiv vertretungsbefugt (§ 150 Abs 1 iVm § 161 Abs 2 UGB).
+2. Da der Komplementär nicht aus der Gesellschaft ausgeschieden, sondern nach wie vor Gesellschafter der KG ist, stellen sich keine Fragen im Zusammenhang mit § 142 Abs 1 UGB, von denen die Entscheidung abhängt. Die auf der Prämisse, dass der Komplementär aus der Gesellschaft ausgeschieden ist, beruhenden Ausführungen des Rechtsmittels sind für die Entscheidung nicht präjudiziell. Im Übrigen hat der Oberste Gerichtshof zum zeitlichen Anwendungsbereich des § 142 Abs 1 UGB, soweit diese Norm einen Übergang des Gesellschaftsvermögens an den verbleibenden Gesellschafter auch ohne Vorliegen eines Ausschlussgrundes vorsieht, bereits ausgesprochen, dass er sich auf nach dem 1. 1. 2007 gegründete Gesellschaften beschränkt (6 Ob 152/08h). Dass diese Entscheidung eine OG betroffen hat, ist im Hinblick auf die unzweifelhafte Anordnung des § 161 Abs 2 UGB ohne Bedeutung.
+3. Der Rechtsmittelwerber konnte alleine weder die Auflösung der Gesellschaft noch die Änderung der Geschäftsanschrift noch die Liquidatoren zur Eintragung in das Firmenbuch anmelden (§ 143 Abs 1, § 148 Abs 1 iVm § 161 Abs 2 UGB, § 11 FBG).
+European Case Law Identifier
+ECLI:AT:OGH0002:2017:0060OB00078.17I.0707.000

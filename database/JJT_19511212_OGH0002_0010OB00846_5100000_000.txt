@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+12.12.1951
+Geschäftszahl
+1Ob846/51
+Norm
+ABGB §879;
+Devisengesetz §3 Z2;
+Devisengesetz §14;
+Devisengesetz §22;
+Kopf
+SZ 24/336
+Spruch
+Die Nichtigkeit eines Rechtsgeschäftes nach dem Devisengesetz tritt auch dann ein, wenn ein Teil, oder auch, wenn beide Teile im guten Glauben waren.
+Entscheidung vom 12. Dezember 1951, 1 Ob 846/51.
+I. Instanz: Kreisgericht Leoben; II. Instanz: Oberlandesgericht Graz.
+Text
+Das Erstgericht hat festgestellt, daß auf Liegenschaften der Klägerin ein Pfandrecht für den Betrag von 3.000.000 S s. A. zugunsten der Beklagten einverleibt ist. Die Pfandbestellungsurkunde vom 17. Dezember 1949 wurde namens der Klägerin von Dr. Friedrich G. auf Grund einer die Unterfertigung dieser Pfandbestellungsurkunde betreffenden Spezialvollmacht vom 13. Dezember 1948 unterschrieben. Der Pfandbestellung ging die Tatsache voraus, daß der Nebenintervenient der Klägerin durch eine Mittelsperson den Betrag von 2.960.000 S zukommen ließ, welcher der industriellen Auswertung des Grundbesitzes der Klägerin dienen sollte. Das Pfandrecht wurde zugunsten der Beklagten begrundet, weil diese als Treuhänder der Ansprüche des Nebenintervenienten auftreten sollte. Da jedoch diese Transaktionen und die Begründung des Pfandrechtes ohne Zustimmung der Nationalbank erfolgten, hielt das Erstgericht sowohl die Vereinbarungen, zu deren Sicherstellung die Pfandbestellung erfolgte, als auch die Begründung des Pfandrechtes selbst für nichtig. Es stellte im Urteil fest, daß die Forderung der Beklagten, wie sie in der Spezialvollmacht des Dr. Friedrich G. vom 13. Dezember 1948 festgehalten ist, nicht zu Recht besteht und verpflichtete die Beklagte, in die Löschung des Pfandrechtes einzuwilligen.
+Dieses Urteil wurde vom Berufungsgericht bestätigt. Der Oberste Gerichtshof gab der Revision der beklagten Partei und der Nebenintervenienten nicht Folge.
+Rechtliche Beurteilung
+Entscheidungsgründe:
+Vergeblich versucht die Revision die von den Untergerichten angenommene Nichtigkeit der getroffenen Vereinbarungen und der erfolgten Sicherstellung nach § 22 DevG. dadurch zu bekämpfen, daß sie die Vereinbarung über die Treuhandschaft der Beklagten in zwei unabhängige Teile zerlegt, in die vielleicht nichtige Vereinbarung zwischen dem Nebenintervenienten und der Beklagten und in die einwandfreie Vereinbarung zwischen den beiden Streitparteien als Deviseninländern. Denn auch für sich betrachtet betrifft dieser Teil der Vereinbarung eine Verfügung über die Forderung des Devisenausländers, des Nebenintervenienten, gegen die Klägerin, welche Deviseninländerin ist. Auch diese Verfügung bedürfte nach § 3 Z. 2 DevG. der Bewilligung. Die Vereinbarung, daß die Beklagte Treuhänder des Nebenintervenienten sein soll, ist also, an sich gesehen, nichtig. Da die Beklagte nicht die Treuhandinhaberin eines Anspruches des Nebenintervenienten sein kann, kann sie in dieser Rolle auch nicht ein Pfandrecht für einen Anspruch des Nebenintervenienten erwerben. Die Untergerichte haben also mit Recht festgestellt, daß die Beklagte aus der Hingabe des Geldbetrages durch den Nebenintervenienten keine Forderung gegen die Klägerin ableiten kann und daß demgemäß auch die Pfandbestellung zugunsten der Beklagten wirkungslos ist.
+Dabei ist völlig belanglos, ob die Beklagte wußte, ob alle diese Geschäfte ohne Zustimmung der Nationalbank abgewickelt wurden. Denn die Nichtigkeit nach dem Devisengesetz tritt auch dann ein, wenn einer oder beide Teile im guten Glauben sind. Es kann also weder eine Mangelhaftigkeit noch eine Aktenwidrigkeit daraus abgeleitet werden, daß der gute Glaube der Beklagten nicht oder auf falscher Grundlage geprüft wurde.
+In die Erörterung der Frage, ob und welche Ansprüche des Nebenintervenienten trotz der gemäß § 14 DevG. auf der Hand liegenden Nichtigkeit aller zwischen diesem und der Klägerin abgeschlossenen Vereinbarungen über eine Kreditgewährung aus der Hingabe des Geldbetrages abgeleitet werden könnten, braucht in diesem Rechtsstreite nicht eingegangen zu werden. Die Beklagte kann jedenfalls keinen Anspruch daraus ableiten, weil sie ja, wie ausgeführt, hinsichtlich der Ansprüche des Devisenausländers nur mit Bewilligung der Nationalbank Treuhänder werden könnte.
+Selbst wenn es also richtig wäre, daß eine negative Feststellungsklage nicht nur die Negation eines Anspruches, soweit er aus einem bestimmten Verpflichtungsgrunde abgeleitet wird, sondern nur die Negation des Anspruches an sich, aus welchem Verpflichtungsgrunde immer, zum Gegenstande haben könnte, so wäre der Klage stattzugeben, weil die Beklagte keinerlei anderen Rechtsgrund dargetan hat, aus welchem sie den Anspruch ableiten könnte, dessen Nichtbestand festgestellt wurde.

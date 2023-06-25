@@ -1,0 +1,40 @@
+Gericht
+OLG Innsbruck
+Entscheidungsdatum
+03.04.1998
+Geschäftszahl
+4R76/98b
+Norm
+GebAG §30;
+GebAG §32;
+Kopf
+Beschluß
+Das Oberlandesgericht Innsbruck als Rekursgericht hat durch den Senatspräsidenten des Oberlandesgerichtes Dr. Hager als Vorsitzenden sowie die Richter des Oberlandesgerichtes Dr. Brock und Dr. Moser als weitere Mitglieder des Senates in der Rechtssache der klagenden Partei L*****, vertreten durch Dr. Ernst Stolz & Partner, Rechtsanwälte in 6900 Bregenz, gegen die beklagte Partei C*****, vertreten durch Dr. Gerold und Dr. Burkhard Hirn, Rechtsanwälte in 6800 Feldkirch, wegen S 519.537,20 s.A. infolge Rekurses des Sachverständigen DI Karl-Heinz H***** gegen den Beschluss des Landesgerichtes Feldkirch vom 18.2.1998, 8 Cg 230/97v-19, in nicht öffentlicher Sitzung beschlossen:
+Spruch
+Dem Rekurs wird  k e i n e  Folge gegeben.
+Der Revisionsrekurs ist jedenfalls  u n z u l ä s s i g .
+Text
+Begründung:
+Das Erstgericht hat mit dem angefochtenen Beschluss die Gebühren des Sachverständigen mit S 6.899,06 bestimmt und in der Begründung ausgeführt, dass die vom Sachverständigen verzeichnete Gebühr für Hilfskräfte (Schreibarbeiten und Postwege) mit der Gebühr für Mühewaltung bereits abgegolten sei, sodass dieser Teil der Gebühr nicht zugesprochen werden könne.
+Dagegen richtet sich der rechtzeitige Rekurs des Sachverständigen DI Karl-Heinz H***** mit dem Antrag, auch die für Hilfskräftebeiziehung gemäß § 30 GebAG verzeichneten Gebühren in Gesamthöhe von S 1.199,94 zuzusprechen.
+Der Rekurs ist nicht berechtigt.
+Der Sachverständige hat in der Gebührennote insgesamt S 1.199,94 unter dem Titel "Hilfskräfte § 30" geltend gemacht (AS 69). Nach der detaillierten Leistungsbeschreibung, die der Honorarnote beigelegt wurde, setzt sich dieser Betrag aus folgendem zusammen:
+12.12.1997 2 Briefe an RAe schreiben,
+Brief an Richter schreiben            S   605,31
+12.12.1997 1 Postweg                               S   117,50
+28.12.1997 Brief an Richter schreiben              S   121,06
+28.12.1997 1 Postweg                               S   117,50
+26.1.1998 Begleitschreiben zum Akt für Richter     S   121,06
+26.1.1998 1 Postweg                                S   117,50
+Im Rekurs führt der Sachverständige zu den Postwegen (Gesamtbetrag S 352,50) aus, es seien insgesamt drei Postwege durchgeführt worden. Das Honorar für eine Hilfskraft mit einem Leistungsfaktor von 0,50 betrage ATS 372,50 laut Ziviltechnikerhonorarverordnung. Da aber für Geh- und Fahrzeiten nach dem GebAG nur S 235,-- für Zeitversäumnis vom Sachverständigen selbst verlangt werden könnten, werde jeder Postweg mit diesem Stundensatz verrechnet. Jeder Weg hin und retour habe 30 Minuten gedauert, sodass das Eineinhalbfache der Gebühr für eine Stunde Zeitversäumnis in Rechnung gestellt worden sei. Die Zeitversäumnis, die dem Sachverständigen für den Weg zur Post entstehe, sei nach einer Reihe von Entscheidungen (zitiert: 33 Rs 93/90, 31 Rs 178/88, 27 Bs 527/86, 16 R 40/85 je des OLG Wien) zuzuerkennen.
+Zu den Schreibarbeiten führt der Sachverständige im Rekurs aus, nach einer Seminarunterlage mit dem Titel "Der Sachverständige und die Kostennote" von TR Ing. Wolfgang Czerweny seien Schreibarbeiten, die nicht im Reinschreiben des Gutachtens selbst bestünden, sondern sich auf Terminsausschreibungen, Schreiben an das Gericht und ähnliches bezögen, nach § 30 GebAG zu honorieren. Der Leistungsfaktor für die eingesetzte Sekretärin laut Leistungsbild für Ziviltechniker betrage 0,65, was in Verbindung mit der Zeitgrundgebühr (gemeint: der Gebührenordnung für Ziviltechniker) einen Stundensatz von ATS 484,25 ergebe. Der Zeitaufwand sei von ihm je Seite mit 15 Minuten festgelegt worden.
+Dem ist folgendes zu entgegnen:
+Rechtliche Beurteilung
+Dass für die Postaufgabe Zeitversäumnis nach § 32 GebAG, bzw. bei Einsatz von Hilfskräften hiefür nach § 30 GebAG zusteht, ist grundsätzlich nicht zu bestreiten; dies entspricht ständiger Rechtsprechung. Richtig ist auch, dass die Kosten für beigezogene Hilfskräfte an sich nach dem für die Verwendung von Hilfskräften bestehenden Tarif von Honorarordnungen zu bestimmen sind; und dass der Ersatz der Kosten mit jenem Betrag zu begrenzen ist, der dem Sachverständigen gebührt hätte, wenn er die Arbeiten selbst ausgeführt hätte (10 Bs 101/95 des OLG Linz, veröffentlicht in Der Sachverständige 1997, Heft 4, S 34). Auch in Bezug auf Schreibarbeiten, die sich auf die Korrespondenz mit dem Gericht, den Parteien, den Parteienvertretern und ähnlichen beziehen, steht grundsätzlich eine Gebühr nach § 30 GebAG beim Einsatz von Hilfskräften zu (siehe E 13 zu § 30 GebAG in Krammer/Schmidt 2. Auflage; siehe auch Anmerkung von Krammer aaO Anm 7 zu § 31).
+Anderes ergibt sich aber, wenn wie hier, ein Sachverständiger für Mühewaltung die Zeitgebühr nach § 4 des Allgemeinen Teiles der Gebührenordnungen für Ziviltechniker begehrt. § 4 Abs 5 dieses Allgemeinen Teiles stellt nämlich klar, dass in den Zeitgebühren die allgemeinen Unkosten nach § 8 Abs 7 enthalten sind und dass die Leistungen von Schreibkräften, Sekretärinnen u.ä. daher nur in jenem Umfang zu verrechnen sind, in welchem sie über diese allgemeinen Unkosten hinausgehend eine Mitwirkung an den nach Zeitaufwand abzurechnenden technischen Leistungen darstellen oder aber vom Auftraggeber eigens abberufene Leistungen sind.
+§ 8 dieses Allgemeinen Teiles trägt den Titel "Nebenkosten". In seinem Absatz 7 wird bestimmt, dass die allgemeinen Unkosten - insbesondere die Personalkosten der allgemeinen Administration (Zentralregie), die Kosten für Büro-, Zeichenmaterial, Porti, Telefon, Telex und interne Verfielfältigung etc. - einerseits durch die Gebühren, andererseits durch den Zuschlag nach § 5 abgegolten werden und dass sie demnach keine Nebenkosten und daher nicht gesondert zu verrechnen sind.
+Sowohl die hier gegenständlichen Schreibarbeiten als auch die Postwege fallen zweifellos unter die in § 4 Abs 5 genannten Leistungen von Schreibkräften bzw. Sekretärinnen, die offenkundig nicht über die allgemeinen Unkosten hinausgehen. Da der Sachverständige für seine Mühewaltung auf der (seit 1.1.1997 richtigen, vgl Der Sachverständige 1997, Heft 1, 36) Zeitgrundgebühr von S 745,-- und einem Leistungsfaktor nach Klasse VIII von 2,0 (siehe Rant-Rant, Gebührenordnungen für Ziviltechniker, Manz-Sonderausgabe Nr 60a) abgerechnet hat, muss er demnach gegen sich gelten lassen, dass in dieser Gebühr die allgemeinen Unkosten nach § 8 Abs 7 der Gebührenordnung mitumfasst sind und er sie aus diesem Grunde (nicht etwa weil das GebAG die Honorierung ausschlösse) nicht ein weiteres Mal als Kosten von Hilfskräften verzeichnen kann.
+Soweit ersichtlich wurde zu den Gebührenordnungen für Ziviltechniker auch bisher in der Rechtsprechung keine andere Auffassung vertreten. Dass sich die bei Krammer-Schmidt aaO unter E 13 angeführten Entscheidungen auf vergleichbare Fälle bezögen, lässt sich mangels einer dort aufscheinenden näheren Begründung nicht entnehmen. In der Entscheidung des OLG Wien vom 13.5.1991, 1 R 70/91, veröffentlicht in Der Sachverständige 1991 Heft 4, 21, wurden zwar einem Ziviltechniker auch Hilfskraftkosten zugesprochen, doch handelte es sich dabei um Maturantenleistungen, die mit einem Leistungsfaktor von 0,65 der Zeitgrundgebühr zu entgelten waren, also keine allgemeinen Unkosten im Sinne von § 8 Abs 7 des Allgemeinen Teiles der Gebührenordnungen für Ziviltechniker (der Sachverständige DI Karl-Heinz H***** hat zwar teilweise die Hilfskraftleistungen ebenfalls nach dem Leistungsfaktor 0,65 in Anschlag gebracht, doch ist dies nach dem klaren Schema zu § 4 unzutreffend - siehe Rant-Rant aaO, 16).
+Dem Erstgericht ist daher in der (von ihm freilich nicht weiter begründeten) Auffassung zuzustimmen, dass im gegenständlichen Fall die verzeichneten Hilfskraftkosten in der (antragsgemäß) bestimmten Gebühr für Mühewaltung inbegriffen sind.
+Dem Rekurs ist somit nicht Folge zu geben.
+Gemäß § 528 Abs 2 Z 4 ZPO ist der Revisionsrekurs jedenfalls unzulässig.
