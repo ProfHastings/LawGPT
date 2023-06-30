@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2023
+Geschäftszahl
+10ObS124/22s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht in Arbeits- und Sozialrechtssachen durch den Hofrat Mag. Ziegelbauer als Vorsitzenden, die Hofrätin Dr. Faber und den Hofrat Mag. Schober sowie die fachkundigen Laienrichter Mag. Dr. Werner Hallas (aus dem Kreis der Arbeitgeber) und Mag. Maria Buhr (aus dem Kreis der Arbeitnehmer) als weitere Richter in der Sozialrechtssache der klagenden Partei M*, vertreten durch Dr. Hans Georg Mayer, Rechtsanwalt in Klagenfurt am Wörthersee, gegen die beklagte Partei Pensionsversicherungsanstalt, 1021 Wien, Friedrich-Hillegeist-Straße 1, wegen Witwenpension, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht in Arbeits- und Sozialrechtssachen vom 25. August 2022, GZ 6 Rs 20/22s-27, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+I. Der Antrag, beim Verfassungsgerichtshof ein Gesetzesprüfungsverfahren einzuleiten, wird zurückgewiesen.
+II. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Ehemann der Klägerin verstarb am 12. Juni 2020. Von der beklagten Pensionsversicherungsanstalt bezog er eine Invaliditätspension von zuletzt 2.778,40 EUR brutto monatlich; in den Jahren 2018 und 2019 erzielte er ein Bruttoeinkommen von insgesamt 104.225,96 EUR.
+[2] 		Die Klägerin war in den Jahren 2018 und 2019 selbständig tätig und erzielte dabei Einkünfte (iSd EStG) von 197.294,43 EUR. Seit 1. Juli 2020 bezieht die Klägerin eine Erwerbsunfähigkeitspension.
+[3] 		Mit Bescheid vom 21. Jänner 2021 anerkannte die beklagte Pensionsversicherungsanstalt den Anspruch der Klägerin auf Witwenpension nach ihrem verstorbenen Ehemann und bemaß deren monatliche Höhe mit 367,07 EUR ab 13. Juni 2020 und 371,41 EUR ab 1. Jänner 2021.
+[4] 		Die Vorinstanzen sprachen die schon bescheidmäßig zuerkannte Leistung neuerlich zu und wiesen die (darüber hinaus) auf Zuerkennung der „höchstmöglichen Witwenpension“ im Ausmaß von 60 % der Bemessungsgrundlage gerichtete Klage ab. Die Beklagte habe die Höhe der Pension korrekt bemessen; verfassungsrechtliche Bedenken gegen die Art und Weise der Ermittlung des Pensionsanspruchs bestünden nicht.
+Rechtliche Beurteilung
+[5] 		In ihrer außerordentlichen Revision zeigt die Klägerin keine Rechtsfrage von erheblicher Bedeutung im Sinne des § 502 Abs 1 ZPO auf.
+Ad I.
+[6] 		Nach ständiger Rechtsprechung hat eine Verfahrenspartei keinen Anspruch, die Einleitung eines Gesetzesprüfungsverfahrens vor dem Verfassungsgerichtshof zu beantragen. Ein darauf gerichteter Antrag ist zurückzuweisen (RIS-Justiz RS0056514; RS0058452; RS0053805).
+Ad II.
+[7] 		1. Soweit die Klägerin an ihrer Ansicht festhält, dass als Berechnungsgrundlage nach § 264 Abs 3 und 4 ASVG jeweils das „Nettoeinkommen“ heranzuziehen sei, hat ihr bereits das Berufungsgericht zutreffend § 264 Abs 5 Z 1 iVm § 91 Abs 1 und 1a ASVG und die dazu ergangene ständige Rechtsprechung entgegengehalten. Demnach ist jeweils auf das „Bruttoeinkommen“ abzustellen. Dieses bildet sich bei selbständig Erwerbstätigen aus den Einkünften, die der Berechnung der Einkommensteuer zugrunde gelegt wurden (RS0121584 [T1]; 10 ObS 20/17i SSV-NF 31/23 ua), und bei unselbständig Beschäftigten aus dem für die Tätigkeit gebührenden (Brutto-)Entgelt gemäß § 49 ASVG (RS0121584; 10 ObS 92/20g; 10 ObS 90/08w SSV-NF 23/56 ua). Damit befasst sich die Revision nicht.
+[8] 		2. Die Verfassungskonformität des zwei- bzw vierjährigen Beobachtungszeitraums des § 264 Abs 3 und Abs 4 ASVG wurde – worauf schon das Berufungsgericht hingewiesen hat – vom Verfassungsgerichtshof (G 228/09)  bejaht (vgl RS0121071). Der Oberste Gerichtshof hat – wie das Berufungsgericht ebenfalls betont hat – auch schon klargestellt, dass es keinen verfassungsrechtlichen Bedenken begegnet, wenn auf die Versorgungslage zum Todeszeitpunkt des Versicherten abgestellt wird und nachfolgende Änderungen des Einkommens grundsätzlich unberücksichtigt bleiben (10 ObS 48/10x SSV-NF 24/39). Abgesehen davon, dass sie dies als ungerecht und subjektiv mit dem Zweck der Witwenpension unvereinbar empfindet, setzt sich die Klägerin mit dieser Rechtsprechung nicht auseinander und führt demgemäß auch keine inhaltlichen Argumente dagegen ins Treffen. Sie zeigt damit weder eine Verfassungswidrigkeit (RS0053889 [T12]) noch die Zulässigkeit der Revision auf (vgl RS0053638; RS0116943).
+[9] 		3. Insgesamt macht die Klägerin somit keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO geltend, weshalb die außerordentliche Revision zurückzuweisen ist.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:010OBS00124.22S.0425.000

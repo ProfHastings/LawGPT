@@ -1,0 +1,31 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2023
+Geschäftszahl
+7Ob65/23v
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und durch die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei H* P*, vertreten durch Mag. Daniel Wolff, Rechtsanwalt in Bregenz, gegen die beklagte Partei M* AG, *, vertreten durch Dr. Edwin A. Payr, Rechtsanwalt in Graz, wegen 44.407,33 EUR sA, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Oberlandesgerichts Graz als Berufungsgericht vom 23. Februar 2023, GZ 5 R 151/22y-51, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen (§ 510 Abs 3 ZPO).
+Begründung:
+Rechtliche Beurteilung
+[1] 		Zwischen den Streitteilen besteht ein Unfallversicherungsvertrag, dem die Allgemeinen Bedingungen für die Unfallversicherung (AUVB) 2008 zugrunde liegen. Diese lauten auszugsweise:
+„Begrenzungen des Versicherungsschutzes
+Art 21 - Welche sachlichen Begrenzungen gibt es?
+Sachliche Begrenzung des Versicherungsschutzes
+[...]
+3.3 Für organisch bedingte Störungen des Nervensystems wird eine Leistung nur erbracht, wenn und soweit diese Störung auf eine durch den Unfall verursachte organische Schädigung zurückzuführen ist. Seelische Fehlhaltungen (Neurosen, Psychoneurosen) gelten nicht als Unfallfolgen.
+[...]“
+[2] 		1.1 Allgemeine Versicherungsbedingungen sind nach den Grundsätzen der Vertragsauslegung (§§ 914 ff ABGB) auszulegen, und zwar orientiert am Maßstab des durchschnittlich verständigen Versicherungsnehmers und stets unter Berücksichtigung des erkennbaren Zwecks einer Bestimmung (RS0050063 [T71]; RS0112256 [T10]; RS0017960). Die Klauseln sind, wenn sie nicht Gegenstand und Ergebnis von Vertragsverhandlungen waren, objektiv unter Beschränkung auf den Wortlaut auszulegen. Dabei ist der einem objektiven Betrachter erkennbare Zweck einer Bestimmung zu berücksichtigen (RS0008901 [insb T5, T7, T87]). Unklarheiten gehen zu Lasten der Partei, von der die Formulare stammen, das heißt im Regelfall zu Lasten des Versicherers (RS0050063 [T3]).
+[3] 		1.2 Der Fachsenat hat bereits wiederholt zu mit Art 21.3.3 AUVB 2008 wortgleichen Klauseln dahin Stellung genommen, dass es sich dabei um einen Risikoausschluss handelt, der keinen Bedenken nach § 6 Abs 3 KSchG begegnet. Demnach liegt nur dann eine von der Versicherungsdeckung umfasste Störung des Nervensystems vor, wenn sie organische Ursachen hat. Wird das Nervensystem nicht organisch geschädigt, sondern entsteht eine Neurose nur aufgrund der psychischen Haltung des Geschädigten zum Unfall und seinen Folgen, so ist die Deckung ausgeschlossen (RS0122120, 7 Ob 44/15v, 7 Ob 160/19h).
+[4] 		1.3 Die Rechtsansicht der Vorinstanzen, ausgehend davon, dass eine von der Klägerin behauptete „psychische Belastung“, die zu einer weiteren Funktionsbeeinträchtigung (Tinnitus) geführt haben soll, als solche keinen organischen Ansatz habe, damit keine von der Versicherungsdeckung umfasste Störung des Nervensystems darstelle und daher bei der Beurteilung des Ausmaßes der dauernden Funktionsbeeinträchtigung nicht relevant sei, hält sich im Rahmen dieser Rechtsprechung.
+[5] 		1.4.1 So wurde zwar schon ausgesprochen, dass der Versicherungsschutz nicht ausgeschlossen wird, wenn der Versicherte eine Gesundheitsschädigung infolge eines Schocks erleidet, der durch ein Unfallereignis hervorgerufen wird (RS0104038). Ob aber im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, ist eine Frage des Einzelfalls, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung grundsätzlich keine erhebliche Bedeutung zukommt und die daher im Allgemeinen keine erhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO begründet (RS0042828).
+[6] 		1.4.2 Dass die Vorinstanzen davon ausgingen, dass die Klägerin durch das Vorbringen einer „psychischen Belastung“ keine Behauptung dahin aufgestellt habe, einen Schock im Sinn eines unmittelbar, durch den Unfall verursachten „psychischen Unfalltraumas“ – wie er in der Entscheidung 7 Ob 2136/96k zugrunde lag – erlitten zu haben, worauf bereits die Beklagte im erstgerichtlichen Verfahren ausdrücklich hinwies, ist nicht zu beanstanden.
+[7] 		2. Soweit die Klägerin Feststellungen zu ihrem Vorbringen vermisst, dass sie beim gegenständlichen Verkehrsunfall massive Verletzungen an der Halswirbelsäule erlitten habe, ignoriert sie die Ausführungen des Berufungsgerichts, wonach das Erstgericht disloziert in seiner Beweiswürdigung die Feststellung getroffen habe, dass keine unfallbedingten Schädigungen von Strukturen von Knochen und Nerven, sondern ausschließlich degenerative Veränderungen bei der Klägerin festgestellt werden konnten.
+[8] 		3. Die Vorinstanzen haben die Leistungspflicht der Beklagten im Rahmen der Rechtsprechung des Fachsenats verneint.
+[9] 		4. Einer weiteren Begründung bedarf dieser Beschluss nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00065.23V.0524.000

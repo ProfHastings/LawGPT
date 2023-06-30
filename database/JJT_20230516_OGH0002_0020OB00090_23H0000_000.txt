@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.2023
+Geschäftszahl
+2Ob90/23h
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Rechtssache der klagenden Partei K*, vertreten durch Mag. Ewald Hannes Grabner, Rechtsanwalt in Wien, gegen die beklagte Partei B*, vertreten durch Maraszto Milisits Rechtsanwälte OG in Wien, wegen 117.662,77 EUR sA und Feststellung, über die außerordentliche Revision der beklagten Partei (Revisionsinteresse: 27.932,72 EUR sA) gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 20. März 2023, GZ 11 R 50/23p-73, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger stellte am 24. 9. 2019 seinen Kleintransporter auf dem ebenen Betriebsgelände der Beklagten ab, ohne einen Gang einzulegen oder die Handbremse anzuziehen. Während der Kläger Waren im Laderaum des Kleintransporters verstaute, stieß ein von einem Angestellten der Beklagten gelenkter Gabelstapler aus Unaufmerksamkeit des Lenkers oder aufgrund eines Fahrfehlers in Rückwärtsfahrt mit zumindest 10 km/h gegen die Front des Kleintransporters. Aufgrund der durch den Anstoß ausgelösten Bewegung des Kleintransporters stürzte der hinter dem Fahrzeug stehende Kläger und verletzte sich.
+[2] 		Die Vorinstanzen gingen vom Alleinverschulden des Staplerfahrers aus.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revision der Beklagten zeigt das Vorliegen einer erheblichen Rechtsfrage nicht auf:
+[4] 		1. Nach § 23 Abs 5 StVO hat ein Lenker das Fahrzeug, bevor er es verlässt, so zu sichern, dass es nicht abrollen kann. Nach der Rechtsprechung des Verwaltungsgerichtshofs ist unter „Abrollen“ eine Bewegung auf schiefer Ebene als bloße Folge der Einwirkung der Schwerkraft zu verstehen (VwGH 14. 7. 2000, 98/02/0290).
+[5] 		Die Rechtsansicht des Berufungsgerichts, dass dem Kläger im vorliegenden Fall schon aufgrund des Abstellens des Fahrzeugs auf einer ebenen Fläche kein Verstoß gegen § 23 Abs 5 StVO angelastet werden kann, erweist sich vor diesem Hintergrund als nicht korrekturbedürftig.
+[6] 		Selbst wenn man einen Verstoß des Klägers gegen § 23 Abs 5 StVO im Sinn der Revisionsausführungen bejahen wollte, fehlte es am für die Bejahung eines Mitverschuldens aufgrund der Verletzung eines Schutzgesetzes erforderlichen Mitverschuldenszusammenhangs (RS0132048). Die als Schutzgesetz anzusehende Norm des § 23 Abs 5 StVO ist nämlich (nur) dazu bestimmt, zufälligen Beschädigungen durch ein abrollendes Fahrzeug vorzubeugen (RS0027741). Eine solche Gefahr hat sich im vorliegenden Fall nicht verwirklicht.
+[7] 		2. Entgegen den Ausführungen in der Revision haben die Vorinstanzen dem Kläger im konkreten Einzelfall vertretbar auch keine im Rahmen der Verschuldensabwägung ins Gewicht fallende Sorglosigkeit in eigenen Angelegenheiten (RS0022681 [insb auch T11]) zur Last gelegt. Trotz des von der Beklagten ins Treffen geführten regen Verkehrs mit Gabelstaplern auf dem Betriebsgelände musste der Kläger nämlich nicht mit einem Zusammenstoß seines stehenden Fahrzeugs mit einem Stapler rechnen und daher auch keine Vorsorge für einen solchen Fall treffen. Der in der Revision zitierten Entscheidung 98/02/0290 des Verwaltungsgerichtshofs lässt sich schon deswegen nichts Gegenteiliges entnehmen, weil sich darin nur Ausführungen zu den Sorgfaltsanforderungen an einen Lenker im dicht verparkten innerstädtischen Gebiet finden.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00090.23H.0516.000

@@ -1,0 +1,33 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.05.2023
+Geschäftszahl
+3Ob69/23b
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Hon.-Prof. Dr. Höllwerth als Vorsitzenden sowie den Hofrat Hon.-Prof. Dr. Brenn, die Hofrätinnen Dr. Weixelbraun-Mohr und Dr. Kodek und den Hofrat Dr. Stefula als weitere Richter in der Rechtssache der klagenden Partei N*, vertreten durch Gottgeisl Leinsmer Weber Rechtsanwälte GmbH in Wien, gegen die beklagte Partei N*, Malta, vertreten durch Mag. Marcus Marakovics, Rechtsanwalt in Wien, wegen 5.360 EUR sA, über die Revision der beklagten Partei gegen das Urteil des Landesgerichts Leoben als Berufungsgericht vom 22. Februar 2023, GZ 1 R 31/23k-21, mit dem das Urteil des Bezirksgerichts Leoben vom 9. Jänner 2023, GZ 24 C 357/22h-15, betätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Einleitung eines Vorabentscheidungsverfahrens beim Gerichtshof der Europäischen Union wird zurückgewiesen.
+2. Die Revision wird zurückgewiesen.
+3. Die beklagte Partei ist schuldig, der klagenden Partei die mit 501,91 EUR (darin 83,65 EUR USt) bestimmten Kosten der Revisionsbeantwortung binnen 14 Tagen zu ersetzen.
+Text
+Begründung:
+[1] 		Die Beklagte ist ein maltesisches Unternehmen, das ohne eine Konzession nach dem österreichischen GSpG Web-Seiten unterhält, die auch in deutscher Sprache abgerufen werden können und auf denen sie unter anderem „Slot-Spiele“ veranstaltet. Sie richtet das Angebot ihrer Web-Seiten bewusst auch auf den österreichischen Markt, obwohl sie weiß, dass die maltesische Lizenz für das Veranstalten von Glücksspielen in Österreich unzureichend ist.
+[2] 		Die in Österreich wohnende Klägerin (Verbraucherin) wurde durch Werbung im Fernsehen und im Internet auf Online-Glücksspiele aufmerksam. Auf die Seiten der Beklagten gelangte sie bei einer Suche im Internet. Sie registrierte sich dort mit ihrer österreichischen Wohnadresse und überwies im Zeitraum 11. Juni bis 20. Dezember 2021 in Teilbeträgen 5.300 EUR zum Zweck der Teilnahme an online von der Beklagten veranstalteten Slot-Spielen. Vor dieser Registrierung hatte sie bereits bei anderen Anbietern an Online-Glücksspielen teilgenommen und Ansprüche gegen diese anderen Anbieter, die (ebenfalls) über keine gültige Lizenz in Österreich verfügten, geltend gemacht. Sie wusste auch, dass die Beklagte keine österreichische Glücksspiel-Lizenz hat. Sie erlitt in Höhe ihrer Einzahlungen einen Spielverlust.
+[3] 		Die Vorinstanzen gaben dem von der Klägerin erhobenen Begehren auf Ersatz ihrer Spielverluste statt.
+[4] 		Das Berufungsgericht ließ die ordentliche Revision zur Frage zu, wie sich die Entscheidung des Verfassungsgerichtshofs zu G 259/2022 auf die Einhaltung der Kohärenzkriterien durch das österreichische Glücksspielmonopol auswirke.
+Rechtliche Beurteilung
+[5] 		Die Revision der Beklagten ist entgegen dem – den Obersten Gerichtshof nicht bindenden – Ausspruch des Berufungsgerichts mangels erheblicher Rechtsfrage nicht zulässig.
+[6] 		1. Es besteht kein verfahrensrechtlicher Anspruch einer Prozesspartei auf Einleitung eines Vorabentscheidungsverfahrens. Ein darauf gerichteter Antrag ist zurückzuweisen (RS0058452 [T3]; RS0056514 [T14]).
+[7] 		2. Mit einer geänderten Rechtsprechung deutscher Gerichte auf Grundlage von in Deutschland geltenden, im inländischen Verfahren aber nicht anzuwendenden Normen kann die Zulässigkeit der Revision nicht begründet werden (RS0126988).
+[8] 		3. Der Oberste Gerichtshof hat bereits in mehreren Entscheidungen ausgeführt, dass aus der Aufhebung von Teilen der Einzelregelung zum Spielerschutz in § 25 Abs 3 GSpG durch den Verfassungsgerichtshof (G 259/2022) nicht abgeleitet werden kann, dass das österreichische System der Glücksspiel-Konzessionen – entgegen der bisherigen ständigen Rechtsprechung – unionsrechtswidrig wäre (1 Ob 25/23t; 2 Ob 23/23f). Die Zulassungsfrage ist daher durch höchstgerichtliche Rechtsprechung geklärt.
+[9] 		4.1 Ebenfalls bereits wiederholt hat der Oberste Gerichtshof ausgesprochen, dass § 1174 Abs 1 Satz 1 ABGB einem bereicherungsrechtlichen Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein verbotenes Online-Glücksspiel nicht entgegensteht. Dies insbesondere deswegen, weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern, um am Spiel teilzunehmen, und weil ein Belassen der Zahlung dem Zweck des Verbots des konzessionslosen Veranstaltens, Organisierens, Anbietens oder Zugänglichmachens von Glücksspiel widerspräche (RS0016325 [T15]). Darauf, ob die Klägerin durch ihre Teilnahme am verbotenen Spiel selbst einen Verwaltungsstraftatbestand erfüllt hat, kommt es daher nicht an (8 Ob 135/22v mwN). Im Hinblick auf die Zielsetzung des GSpG wird der Rückforderungsanspruch des Spielers nach gefestigter Rechtsprechung des Obersten Gerichtshofs auch durch die Kenntnis von der Nichtschuld nicht ausgeschlossen (6 Ob 32/23h mwN).
+[10] 		4.2 Soweit sich die Revision auf einen Verstoß gegen Treu und Glauben berufen will, weil die Klägerin in Kenntnis der fehlenden österreichischen Konzession der Beklagten und dem Bewusstsein der Möglichkeit, Verluste zurückzufordern, gespielt habe, übersieht sie, dass dieser Wissensstand umso mehr auf die Anbieterin des nicht konzessionierten Spiels zutrifft. Es steht nicht fest, dass die Klägerin überwiegend mit dem Ziel gespielt hat, beim Verlust das Geld zurückzufordern (8 Ob 135/22v).
+[11] 		4.3 In mehreren aktuellen Entscheidungen hat der Oberste Gerichtshof – im Einklang mit der Rechtsprechung der beiden anderen österreichischen Höchstgerichte – auf Basis der einschlägigen Judikatur des EuGH neuerlich festgehalten, dass das österreichische System der Glücksspiel-Konzessionen einschließlich der Werbemaßnahmen der Konzessionäre im hier relevanten Zeitraum nach gesamthafter Würdigung aller tatsächlichen Auswirkungen auf den Glücksspielmarkt allen vom EuGH aufgezeigten Vorgaben entspricht und nicht gegen Unionsrecht verstößt (2 Ob 221/22x; 1 Ob 171/22m, je mwN).
+[12] 		5. Ausführungen zu einem allfälligen Schadenersatzanspruch sind nicht entscheidungserheblich, weil der Rückforderungsanspruch der Klägerin aufgrund des Bereicherungsrechts berechtigt ist.
+[13] 		6. Insgesamt vermag die Revision der Beklagten damit keine entscheidungserhebliche Rechtsfrage im Sinn des § 502 Abs 1 ZPO aufzuzeigen.
+[14] 		7. Die Kostenentscheidung beruht auf §§ 41, 50 ZPO. Die Klägerin hat auf die Unzulässigkeit der Revision hingewiesen.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0030OB00069.23B.0525.000

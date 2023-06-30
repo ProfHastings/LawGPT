@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.05.2023
+Geschäftszahl
+4Ob95/23h
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Univ.-Prof. Dr. Kodek sowie die Hofräte Dr. Schwarzenbacher und MMag. Matzka sowie die Hofrätinnen Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Parteien 1. J* und 2. E*, beide vertreten durch Dr. Susanne Schuh, Rechtsanwältin in Perchtoldsdorf, gegen die beklagte Partei S* GmbH, *, vertreten durch die Urbanek & Rudolph Rechtsanwälte OG in Wien, wegen 22.896 EUR sA und Räumung, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Landesgerichts Wiener Neustadt als Berufungsgericht vom 20. März 2023, GZ 19 R 56/22d-27, in nichtöffentlicher Sitzung, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Kläger begehrten Benützungsentgelt und Räumung wegen titelloser Benützung. Die Beklagte habe zwar Interesse am Abschluss eines Bestandvertrags gehabt, es sei jedoch keine Einigung über die Höhe des Mietzinses zustande gekommen. Die Beklagte wandte ein, der vereinbarte Betrag sei als „all-in“-Mietzins inklusive USt und Betriebskosten zu verstehen.
+[2] 		Die Vorinstanzen gaben mit Teil- und Zwischenurteil dem Räumungsbegehren statt und bejahten den Anspruch auf Benützungsentgelt dem Grunde nach. Die Kläger seien davon ausgegangen, dass der von ihnen genannte Betrag der monatliche Nettomietzins sei. Der Geschäftsführer der Beklagten habe dem Betrag im Verständnis zugestimmt, dass der Betrag Umsatzsteuer und Betriebskosten enthalte. Ein objektiver Erklärungswert existiere nicht. Wegen Dissens zu den essentialia negotii sei daher kein Bestandvertrag zustande gekommen.
+Rechtliche Beurteilung
+[3] 		Die außerordentliche Revisionen der Beklagten zeigt keine erhebliche Rechtsfrage auf und ist daher nicht zulässig.
+[4] 		1. Die einzelfallbezogene Beurteilung rechtsgeschäftlicher Erklärungen rechtfertigt eine Anrufung des Obersten Gerichtshofs nur dann, wenn aus Gründen der Rechtssicherheit die Korrektur einer unhaltbaren, durch die Missachtung fundamentaler Auslegungsregeln zustande gekommenen Entscheidung geboten ist (RS0042776 [T22]). Dies ist hier nicht der Fall.
+[5] 		Die Vorinstanzen haben die höchstgerichtliche Rechtsprechung zum versteckten Dissens (RS0014703; RS0014704) richtig wiedergegeben und bei der Anwendung auf den konkreten Sachverhalt ihren Ermessensspielraum nicht verlassen.
+[6] 		2. Die Revision führt Beispiele aus der höchstgerichtlichen Rechtsprechung an, in denen nicht näher spezifizierte Mietzinse in einigen Fällen als Brutto- und in anderen Fällen als Nettomietzinse qualifiziert wurden. Sie will daraus eine erhebliche Rechtsfrage wegen uneinheitlicher höchstgerichtlicher Rechtsprechung ableiten.
+[7] 		2.1. Nach der Vertrauenstheorie ist bei der Auslegung von Willenserklärungen auf den objektiven Erklärungswert zurückzugreifen, wenn ein natürlicher Konsens fehlt, die Parteien also nicht dieselbe Vorstellung vom Bedeutungsgehalt der Erklärung haben. In diesem Fall ist die Willenserklärung so zu verstehen, wie es aus Sicht des Erklärungsempfängers der Übung des redlichen Verkehrs entspricht, wobei die Umstände der Erklärung und die im Verkehr geltenden Gewohnheiten und Gebräuche heranzuziehen sind (RS0017915). Die Verkehrssitte ist dem Tatsachenbereich zuzuordnen (4 Ob 94/04h) und kann deshalb nicht durch eine Entscheidung des Obersten Gerichtshofs festgelegt werden.
+[8] 		2.2. Im Übrigen spricht die Vielfalt der zitierten Entscheidungen für und nicht gegen die Ansicht der Vorinstanzen, dass im „Mietzins“ ohne weitere Umschreibung nicht – wie von der Beklagten vertreten – nach der Verkehrssitte jedenfalls Umsatzsteuer und Betriebskosten enthalten sein müssten (vgl RS0069840; Lovrek in Böhm/Pletzer/Spruzina/Stabentheiner, GeKo Wohnrecht I § 15 MRG Rz 6). Die in der Revision zitierten gegenteiligen Entscheidungen beziehen sich nicht auf Bestandverträge.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00095.23H.0531.000

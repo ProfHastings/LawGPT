@@ -1,0 +1,36 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2023
+Geschäftszahl
+15Os52/23w
+Kopf
+Der Oberste Gerichtshof hat am 24. Mai 2023 durch die Hofrätin des Obersten Gerichtshofs Dr. Michel-Kwapinski als Vorsitzende sowie den Senatspräsidenten des Obersten Gerichtshofs Mag. Lendl und die Hofrätinnen des Obersten Gerichtshofs Mag. Fürnkranz, Dr. Mann und Dr. Sadoghi in Gegenwart des Mag. Wunsch als Schriftführer in der Strafsache gegen * B* wegen des Verbrechens des betrügerischen Datenverarbeitungsmissbrauchs nach §§ 15, 148a Abs 1 und Abs 2 dritter Fall StGB über die Nichtigkeitsbeschwerde und die Berufung des Angeklagten gegen das Urteil des Landesgerichts für Strafsachen Wien als Schöffengericht vom 22. Dezember 2022, GZ 127 Hv 21/18s-218, nach Anhörung der Generalprokuratur in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die Nichtigkeitsbeschwerde und die Berufung wegen Schuld werden zurückgewiesen.
+Zur Entscheidung über die Berufung wegen Strafe werden die Akten dem Oberlandesgericht Wien zugeleitet.
+Dem Angeklagten fallen auch die Kosten des bisherigen Rechtsmittelverfahrens zur Last.
+Text
+Gründe:
+[1] 		Mit dem angefochtenen Urteil wurde * B* des Verbrechens des betrügerischen Datenverarbeitungsmissbrauchs nach §§ 15, 148a Abs 1 und Abs 2 dritter Fall StGB schuldig erkannt.
+[2] 		Danach hat er in Serbien mit dem Vorsatz, sich oder andere unrechtmäßig zu bereichern, die p* GmbH (vormals S* GmbH) dadurch am Vermögen zu schädigen versucht, dass er das Ergebnis einer automationsunterstützten Datenverarbeitung durch Eingabe von Daten beeinflusste, wodurch ein 300.000 Euro um ein Vielfaches übersteigender Schaden in der Höhe von insgesamt 1.405.000 Euro eintreten sollte, und zwar dadurch, dass er auf Basis des mit dem genannten Unternehmen abgeschlossenen „Vertrags über die Akzeptanz von Kredit- und Debitkarten“ auf dem zur Verfügung gestellten POS-Terminal nachgenannte Kreditkartennummern und Beträge, die auf fingierten Grundgeschäften beruhten, händisch eingab bzw eingeben ließ, wodurch die nachgenannten Beträge dem Konto der * B* W* GmbH gutgeschrieben werden sollten, und zwar
+A./ am 28. Juni 2017
+1./ die südafrikanische Kreditkarte mit der Nr * und einen Betrag von 10.000 Euro;
+2./ eine weitere südafrikanische Kreditkarte mit der Nr * und einen Betrag von 10.000 Euro;
+3./ die in Venezuela ausgegebene Kreditkarte mit der Nr * und einen Betrag von 20.000 Euro;
+4./ die rumänische Kreditkarte mit der Nr * und einen Betrag von 5.000 Euro;
+B./ am 29. Juni 2017
+1./ die in den Vereinigten Arabischen Emiraten ausgegebene Kreditkarte mit der Nr *und einen Betrag von 875.000 Euro;
+2./ die in den Vereinigten Arabischen Emiraten ausgegebene Kreditkarte mit der Nr * und einen Betrag von 85.000 Euro; und
+3./ die in Moldawien ausgegebene Kreditkarte mit der Nr * und einen Betrag von 400.000 Euro.
+Rechtliche Beurteilung
+[3] 		Dagegen richtet sich die auf Z 5 und 9 lit a des § 281 Abs 1 StPO gestützte Nichtigkeitsbeschwerde des Angeklagten, die ihr Ziel verfehlt.
+[4] 		Entgegen der Kritik der Mängelrüge (Z 5 vierter Fall) begegnet die von den Tatrichtern vorgenommene Ableitung der subjektiven Tatseite aus dem äußeren Geschehensablauf (US 15) unter dem Aspekt der Begründungstauglichkeit keinen Bedenken (RIS-Justiz RS0098671). Weshalb es den Erwägungen der Tatrichter, die sich auf die konkret beschriebenen Handlungen des Angeklagten (manuelle Eingabe von Kreditkartendaten und Geldbeträgen) und den technischen Ablauf der Transaktionen stützten, an einem Sachverhaltsbezug fehlen sollte, vermag die Beschwerde nicht darzulegen.
+[5] 		Die Rechtsrüge (Z 9 lit a) vermisst – auf eine verkürzt wiedergegebene Literaturstelle Bezug nehmend – Feststellungen dazu, dass sich die „Kreditkartendaten auf eine identifizierte oder identifizierbare natürliche Person“ bezogen haben. Sie legt damit aber nicht aus dem Gesetz abgeleitet dar, weshalb – entgegen der Legaldefinition des § 74 Abs 2 StGB und dem nicht differenzierenden Gesetzeswortlaut des § 148a Abs 1 StGB – nur personenbezogene Daten unter den Tatbestand fallen sollten (vgl Kirchbacher/Sadoghi in WK2 StGB § 148a Rz 14; Reindl-Krauskopf in WK2 StGB § 74 Rz 64 f).
+[6] 		Soweit sie weiters vorbringt, es sei denkbar, dass es sich um Kreditkarten von juristischen Personen oder veraltete bzw „nicht real existierende“ Kreditkartendaten handelte, ergeht sie sich bloß in beweiswürdigenden Spekulationen nach Art einer im kollegialgerichtlichen Verfahren nicht zulässigen Berufung wegen Schuld.
+[7] 		Die Nichtigkeitsbeschwerde war daher – ebenso wie die angemeldete (ON 220), gesetzlich aber nicht vorgesehene (vgl § 283 Abs 1 StPO) Berufung wegen Schuld – bereits bei nichtöffentlicher Beratung sofort zurückzuweisen (§ 285d Abs 1 StPO). Daraus ergibt sich die Zuständigkeit des Oberlandesgerichts zur Entscheidung über die Berufung wegen Strafe (§ 285i StPO).
+[8] 		Die Kostenentscheidung gründet sich auf § 390a Abs 1 StPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0150OS00052.23W.0524.000

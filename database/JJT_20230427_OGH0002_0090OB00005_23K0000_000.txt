@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+27.04.2023
+Geschäftszahl
+9Ob5/23k
+Kopf
+Der Oberste Gerichtshof hat als Revisionsrekursgericht durch die Senatspräsidentin des Obersten Gerichtshofs Dr. Fichtenau als Vorsitzende, die Hofrätinnen und Hofräte des Obersten Gerichtshofs Mag. Ziegelbauer, Dr. Hargassner, Mag. Korn und Dr. Thunhart in der Rechtssache der klagenden Partei B* K*, vertreten durch Mag. Martin Moser, Rechtsanwalt in Innsbruck, gegen die beklagten Parteien 1. F* S.p.A., *, Italien, vertreten durch bpv Hügel Rechtsanwälte GmbH in Wien, und 2. I* S.p.A., *, Italien, vertreten durch Thurnher Wittwer Pfefferkorn & Partner Rechtsanwälte GmbH in Dornbirn, wegen 54.000 EUR sA, über den Revisionsrekurs der klagenden Partei gegen den Beschluss des Oberlandesgerichts Innsbruck vom 12. Jänner 2023, GZ 1 R 167/22a-36, mit dem der Beschluss des Landesgerichts Innsbruck vom 7. September 2022, GZ 6 Cg 9/22t-27, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Das Verfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union (EuGH) über den vom Obersten Gerichtshof am 15. 12. 2022 zu 3 Ob 206/22y an den EuGH gestellten Antrag auf Vorabentscheidung unterbrochen.
+Nach Einlangen der Vorabentscheidung wird das Verfahren von Amts wegen fortgesetzt.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Im Verfahren zu 3 Ob 206/22y hat der Oberste Gerichtshof dem EuGH folgende Frage zur Vorabentscheidung vorgelegt:
+„Ist Art 7 Nr 2 der Verordnung Nr 1215/2012/EU über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen (EuGVVO 2012) dahin auszulegen, dass sich bei einer deliktischen Schadenersatzklage gegen den im Mitgliedstaat A (hier: Italien) ansässigen Entwickler eines Dieselmotors mit einer unzulässigen Abschalteinrichtung im Sinn des Art 5 Abs 2 der Verordnung Nr 715/2007/EG über die Typengenehmigung der Ort der Verwirklichung des Schadenserfolgs in einem Fall, in dem das Fahrzeug von dem im Mitgliedstaat B (hier: Österreich) wohnhaften Kläger von einem im Mitgliedstaat C (hier: Deutschland) ansässigen Dritten gekauft wurde,
+a) am Ort des Vertragsabschlusses,
+b) am Ort der Übergabe des Fahrzeugs oder
+c) am Ort der Verwirklichung des den Schaden begründenden Sachmangels und damit am Ort des bestimmungsgemäßen Gebrauchs des Fahrzeugs
+befindet?“
+[2] 		Das vorliegende Verfahren betrifft einen vergleichbaren Sachverhalt, wenn auch hier nicht die internationale, sondern die innerstaatliche örtliche Zuständigkeit zwischen den Parteien strittig ist.
+[3] 		Art 7 Nr 2 EuGVVO regelt aber nicht nur die internationale, sondern zugleich auch die örtliche Zuständigkeit (6 Ob 18/17s Pkt 4.3.9.; Simotta in Fasching/Konecny3 V/1 Art 7 EuGVVO 2012 Rz 214 mwN). Die Bestimmung verdrängt die einschlägigen Vorschriften der JN über die örtliche Zuständigkeit, die weder zur Interpretation noch zur Lückenfüllung heranzuziehen sind (RS0111094 [T7]). Damit ist die Verwirklichung des Zuständigkeitstatbestands nach Art 7 Nr 2 EuGVVO einheitlich in Bezug auf die internationale und örtliche Zuständigkeit des angerufenen Gerichts zu beurteilen. Ist die Zuständigkeit nach diesem Tatbestand – etwa wegen des Eintritts des Erfolgs der schädigenden Handlung am Ort des angerufenen Gerichts – erfüllt, sind sowohl die internationale als auch die örtliche Zuständigkeit dieses Gerichts zu bejahen. Die Entscheidung über die Einrede der internationalen Unzuständigkeit kann in Bezug auf diesen Zuständigkeitstatbestand nicht von jener über die örtliche Unzuständigkeit getrennt werden (jüngst zum „Dieselskandal“: 2 Ob 12/21k Rz 10 mwN).
+[4] 		Daraus folgt, dass die im Verfahren 3 Ob 206/22y (vgl auch 3 Ob 232/22x) zu lösende unionsrechtliche Zuständigkeitsfrage für die im vorliegenden Verfahren strittige innerstaatliche Zuständigkeitsfrage maßgeblich ist. Da der Oberste Gerichtshof von der allgemeinen Wirkung von Vorabentscheidungen des EuGH auszugehen und diese auch auf andere Fälle als den unmittelbaren Ausgangsfall anzuwenden hat, war das hier vorliegende Revisionsrekursverfahren aus prozessökonomischen Gründen bis zur Vorabentscheidung durch den EuGH zu unterbrechen (RS0110583; 3 Ob 232/22x).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0090OB00005.23K.0427.000

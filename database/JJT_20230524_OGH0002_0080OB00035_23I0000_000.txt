@@ -1,0 +1,29 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2023
+Geschäftszahl
+8Ob35/23i
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart in der Rechtssache der klagenden Parteien 1. I*, und 2. W* AG, *, beide vertreten durch Dr. Heinrich Fassl, Rechtsanwalt in Wien, wider die beklagte Partei DI W*, vertreten durch Dr. Andreas A. Lintl, Rechtsanwalt in Wien, wegen 59.868,50 EUR sA und 170.440,94 EUR sA, über die Revision der klagenden Parteien gegen das Urteil des Oberlandesgerichts Wien vom 26. Jänner 2023, GZ 11 R 235/22t-206, mit welchem das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 30. Mai 2022, GZ 20 Cg 11/15g-194, bestätigt wurde, den
+Beschluss
+gefasst:
+Spruch
+Die Revision wird zurückgewiesen.
+Die Entscheidung über die Kosten des Revisionsverfahrens bleibt dem Erstgericht vorbehalten.
+Text
+Begründung:
+[1] 		Die Klägerinnen führten vor dem Handelsgericht Wien zu AZ 31 Cg 110/05v ein Verfahren gegen den Hersteller eines Tresors, der nicht darauf hingewiesen hatte, dass bei der Festlegung des Codes eine Wiederholung von Ziffern vermieden werden müsse. Die Klägerinnen brachten dazu vor, dass unbekannte Täter bei der Erstklägerin eingebrochen seien und aufgrund farblicher Unterschiede der Drucktasten den von der Erstklägerin mit 126666 festgelegten Code erraten hätten. Es sei dadurch Schmuck und Bargeld im Wert von insgesamt 110.554 EUR gestohlen worden, wovon die Zweitklägerin aufgrund eines Versicherungsverhältnisses 68.832,56 EUR ersetzt habe. Der Beklagte erstattete in diesem Verfahren als gerichtlich bestellter Sachverständiger ein Gutachten, wonach die Festlegung eines Codes unter Verwendung von bloß drei Ziffern mit keiner wesentlichen Sicherheitseinbuße verbunden sei. Die Klage wurde daraufhin im Vorprozess rechtskräftig abgewiesen.
+[2] 		Die Klägerinnen begehren vom Beklagten nunmehr 230.309,44 EUR sA, weil die Abweisung des Klagebegehrens im Vorprozess auf ein objektiv unrichtiges Gutachten des Beklagten zurückzuführen sei.
+[3] 		Das Erstgericht wies die Klage ab, wobei es feststellte, dass der Beklagte ein objektiv unrichtiges Gutachten erstattet habe, weil es das Erraten des Codes erleichtere, wenn sich Verschmutzungen und Abrieb auf wenige Tasten beschränken. Anders als im Vorprozess könne aber nicht festgestellt werden, ob die Einbrecher den Tresor gerade dadurch öffnen konnten und welche Gegenstände sich im Tresor befanden, sodass den Klägerinnen der Nachweis der Kausalität des Fehlverhaltens des Beklagten nicht gelungen sei.
+[4] 		Das Berufungsgericht bestätigte diese Entscheidung und sprach aus, dass die ordentliche Revision im Hinblick auf die Frage zulässig sei, ob im Haftungsprozess gegen einen Gerichtssachverständigen eine Bindung an die Verfahrensergebnisse des Vorprozesses bestehe.
+Rechtliche Beurteilung
+[5] 		Die dagegen erhobene Revision der Klägerinnen ist entgegen dem nicht bindenden Ausspruch des Berufungsgerichts mangels Vorliegens einer Rechtsfrage von der Qualität des § 502 Abs 1 ZPO nicht zulässig.
+[6] 		1. Die Klägerinnen machen geltend, dass die Vorinstanzen von der ständigen Rechtsprechung des Obersten Gerichtshofs abgewichen seien, wonach die Haftung des Gerichtssachverständigen davon abhänge, welchen Einfluss sein Gutachten auf die Entscheidung im Vorprozess gehabt hat. Angesichts der im Vorprozess getroffenen Feststellungen zum Tathergang wären die Klägerinnen mit ihrer Klage durchgedrungen, wenn der Beklagte ein richtiges Gutachten erstattet hätte.
+[7] 		2. Ein gerichtlich bestellter Sachverständiger, der ein unrichtiges Gutachten erstattet, haftet den Parteien des Verfahrens für die nachteiligen Folgen (RIS-Justiz RS0026316; RS0026319). Ob einer Prozesspartei durch das Fehlverhalten des Sachverständigen ein Schaden entstanden ist, richtet sich danach, ob die Entscheidung im Vorprozess für sie günstiger ausgefallen wäre, wenn der Sachverständige dort ein in der von ihm begutachteten Frage richtiges Gutachten abgegeben hätte (RS0026360).
+[8] 		3. Nach ständiger Rechtsprechung des Obersten Gerichtshofs zur Anwaltshaftung hat das Gericht bei der Beurteilung des hypothetischen Verfahrensausgangs des Vorprozesses aber nicht darauf abzustellen, wie das Gericht des Vorprozesses seinerzeit entschieden hätte, sondern darauf, wie der Vorprozess richtigerweise hätte entschieden werden müssen (RS0022706 [T4, T6]; RS0115755). Die gegenteilige Auffassung hätte nämlich zur Folge, dass eine Prozesspartei über den Umweg des Schadenersatzrechts einen Vorteil erlangen könnte, der ihr tatsächlich nicht zusteht.
+[9] 		4. Auch hat der Oberste Gerichtshof bereits zu 10 Ob 4/18p ausgesprochen, dass das Gericht im Haftungsprozess gegen den Sachverständigen – solange keine Streitverkündung erfolgt – nicht an die Verfahrensergebnisse des Vorprozesses gebunden ist. Eine solche Bindung würde gegen den in Art 6 Abs 1 Satz 1 EMRK enthaltenen verfahrensrechtlichen Grundsatz des rechtlichen Gehörs verstoßen, wenn der davon Betroffene nicht in dieses Verfahren eingebunden war und die nachteiligen Wirkungen unabänderlich hinnehmen müsste (RS0074953).
+[10] 		5. Die Entscheidung der Vorinstanzen ist damit von der bisherigen Rechtsprechung des Obersten Gerichtshofs gedeckt. Der von den Klägerinnen relevierte Verstoß gegen das Recht auf den gesetzlichen Richter liegt schon deshalb nicht vor, weil die Entscheidung über die Berechtigung des geltend gemachten Schadenersatzanspruchs ausschließlich dem in diesem Verfahren zuständigen Richter obliegt. Die Revision war daher mangels Vorliegens einer erheblichen Rechtsfrage zurückzuweisen.
+[11] 		5. Der Kostenvorbehalt beruht auf § 52 Abs 3 ZPO. Das Erstgericht hat die Kostenentscheidung der rechtskräftigen Erledigung der Streitsache vorbehalten.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00035.23I.0524.000

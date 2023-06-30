@@ -1,0 +1,23 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2023
+Geschäftszahl
+7Ob71/23a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch die Senatspräsidentin Dr. Solé als Vorsitzende und die Hofrätinnen und Hofräte Mag. Dr. Wurdinger, Mag. Malesich, Dr. Weber und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Partei P* E*, vertreten durch Summer Schertler Kaufmann Lerch Rechtsanwälte OG in Bregenz, gegen die beklagte Partei N* Ltd, *, vertreten durch Mag Marcus Marakovics, Rechtsanwalt in Wien, wegen 57.727 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 16. März 2023, GZ 11 R 45/23b-18, den
+Beschluss
+gefasst:
+Spruch
+1. Der Antrag auf Einleitung eines Vorabentscheidungsverfahrens beim Gerichtshof der Europäischen Union wird zurückgewiesen.
+2. Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		1. Es besteht kein verfahrensrechtlicher Anspruch einer Prozesspartei auf Einleitung eines Vorabentscheidungsverfahrens. Ein darauf gerichteter Antrag ist zurückzuweisen (RS0058452 [T3]; RS0056514 [T14]). Der damit als Anregung zu wertende Antrag der Beklagten auf neuerliche Befassung des EuGH war nicht aufzugreifen, weil die unionsrechtlichen Rechtsgrundsätze geklärt sind.
+[2] 		2.1 Nach der ständigen Rechtsprechung steht § 1174 Abs 1 Satz 1 ABGB einem (bereicherungsrechtlichen) Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein (verbotenes) Online-Glücksspiel nicht entgegen, weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern um am Spiel teilzunehmen (RS0016325 [T15, T16]). Damit ist § 1174 Abs 1 Satz 1 ABGB schon seinem Wortlaut nach nicht anwendbar. Darauf, ob der Spieler durch die Teilnahme am verbotenen Spiel (selbst) einen Verwaltungsstraftatbestand verwirklicht (hier: § 52 Abs 5 GSpG), kommt es daher nicht an (jüngst etwa 6 Ob 50/22d mwN, 7 Ob 9/23h). Diese Rechtsauffassung entspricht im Übrigen dem wesentlichen Verbotszweck, nämlich Vermögensnachteile durch verbotene Spiele zu verhindern (1 Ob 182/22d, 7 Ob 9/23h). Gegenteiliges kann – entgegen den Ausführungen in der Revision – auch aus der Entscheidung 5 Ob 506/96 nicht abgeleitet werden (2 Ob 171/22v, 7 Ob 9/23h).
+2.2 Dass deutsche Landesgerichte unter Zugrundelegung der deutschen Rechtslage (§ 817 Satz 2 BGB) allenfalls eine Rückforderung ausgeschlossen haben, bietet keine Grundlage dafür, von der ständigen Rechtsprechung des Obersten Gerichtshofs zur österreichischen Rechtslage abzugehen (9 Ob 54/22h).
+[3] 		3.1 Der Oberste Gerichtshof geht in ständiger Judikatur davon aus, dass das im Glücksspielgesetz normierte Monopol- bzw Konzessionssystem bei Würdigung sämtlicher damit verbundener Auswirkungen auf dem Glücksspielmarkt allen vom Gerichtshof der Europäischen Union (EuGH) aufgezeigten Vorgaben des Unionsrechts entspricht (RS0130636 [T7]), was auch jüngst in mehreren Entscheidungen vertreten wurde (9 Ob 84/22a; 8 Ob 128/22i; 6 Ob 50/22d). Entgegen der Darstellung der Revisionswerberin ergibt sich aus der Entscheidung des EuGH C-920/19, Fluctus, kein Verbot für ein nationales Gericht, sich auf Vorentscheidungen „höherer“ (nationaler) Gerichte (hier auf in zahlreichen Parallelverfahren ergangene Entscheidungen des Obersten Gerichtshofs) zu berufen. Vielmehr sprach der EuGH darin bloß aus, dass eine gegen Art 56 AEUV verstoßende Bestimmung des nationalen Rechts auch dann nicht angewendet werden dürfe, wenn ein „höheres“ nationales Gericht diese als mit dem Unionsrecht vereinbar ansah, dessen Erwägungen aber offensichtlich nicht dem Unionsrecht entsprachen (vgl insbesondere Rn 58 der genannten Entscheidung des EuGH) (2 Ob 23/23f mwN).
+[4] 		3.2 Die Überlegungen der Revisionswerberin bringen keine neuen Argumente, die den Senat zu einem Abgehen von der gefestigten Rechtsprechung des Obersten Gerichtshofs veranlassen könnten. Deshalb liegen auch sekundäre Feststellungsmängel „zum Thema Unionsrechtswidrigkeit“ nicht vor, ebenso wenig eine Mangelhaftigkeit des Berufungsverfahrens mangels „eigener“ Feststellungen dazu.
+[5] 		 4. Dieser Beschluss bedarf keiner weiteren Begründung (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0070OB00071.23A.0524.000

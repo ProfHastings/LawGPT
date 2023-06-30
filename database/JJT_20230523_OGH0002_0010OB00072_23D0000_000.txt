@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2023
+Geschäftszahl
+1Ob72/23d
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Partei I*, vertreten durch Dr. Herbert Pochieser, Rechtsanwalt in Wien, gegen die beklagte Partei Republik Österreich (Bund), vertreten durch die Finanzprokuratur in Wien, wegen 110.560,33 EUR sA, über die außerordentliche Revision und den darin enthaltenen Rekurs der klagenden Partei gegen das Teilurteil und den Beschluss des Oberlandesgerichts Wien als Berufungsgericht vom 27. Februar 2023, GZ 14 R 185/22m-97, mit dem das Teilurteil des Landesgerichts für Zivilrechtssachen Wien vom 5. Juli 2022, GZ 31 Cg 27/17v-89, teilweise bestätigt und teilweise aufgehoben wurde, den
+Beschluss
+gefasst:
+Spruch
+Der Rekurs gegen den Aufhebungsbeschluss des Berufungsgerichts wird zurückgewiesen.
+Die außerordentliche Revision gegen das Teilurteil des Berufungsgerichts wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger begehrt von der Beklagten mit seiner wegen eines Vorfalls aus dem Jahr 2007 erhobenen Amtshaftungsklage (neben der Feststellung der Haftung für zukünftigen Verdienstentgang) den Ersatz eines bereits entstandenen Verdienstentgangs und für Betreuungsleistungen seiner Ehegattin sowie die Kosten für die Anschaffung von Fitnessgeräten. In der letzten Tagsatzung zur mündlichen Streitverhandlung erklärte der Klagevertreter, „das Klagebegehren zu modifizieren, sodass es zu lauten habe wie folgt:
+Die beklagte Partei ist schuldig, dem Kläger binnen 14 Tagen bei sonstiger Exekution 110.560,33 EUR samt 4 % Zinsen [...] sowie die Kosten des Rechtsstreits bei sonstiger Exekution zu bezahlen.“
+[2] 		Mit Teilurteil gab das Erstgericht – unter Zugrundelegung eines Zahlungsbegehrens von insgesamt 110.560,33 EUR sA – diesem mit 43.240,17 EUR sA statt, wies ein Mehrbegehren von 1.486,90 EUR ab und unterbrach das Verfahren in Ansehung des restlichen (ab 1. 1. 2019 begehrten) Verdienstentgangs von 65.832,73 EUR bis zur rechtskräftigen Erledigung eines beim Arbeits- und Sozialgericht anhängigen Verfahrens über die Gewährung einer Invaliditätspension.
+[3] 		Das Berufungsgericht hob diesen Unterbrechungsbeschluss über Rekurs des Klägers ersatzlos auf und gab der Berufung des Klägers nicht, der Berufung der Beklagten hingegen im Sinne des Aufhebungsantrags Folge. Es hob das Teilurteil in seinem klagestattgebenden Teil von 43.240,17 EUR sA zur neuerlichen Entscheidung nach Verfahrensergänzung auf, bestätigte die Abweisung eines Zahlungsbegehrens von 1.486,90 EUR sA und sprach aus, dass die ordentliche Revision nicht zulässig sei.
+[4] 		Dagegen richtet sich die außerordentliche Revision des Klägers insoweit, als a) seiner Berufung in Ansehung eines Mehrbegehrens von 36.536,42 EUR nicht Folge gegeben wurde, b) der Berufung der Beklagten in Ansehung von 43.140,17 EUR (richtig wohl 43.240,17 EUR) Folge gegeben wurde.
+Rechtliche Beurteilung
+[5] 		1. Soweit sich der Kläger gegen den Aufhebungsbeschluss  des Berufungsgerichts wendet, mit dem das erstinstanzliche Urteil hinsichtlich eines Betrags von 43.240,17 EUR aufgehoben und dem Erstgericht eine neuerliche Entscheidung nach Verfahrensergänzung aufgetragen wurde, ist sein Rechtsmittel absolut unzulässig:
+[6] 		Gemäß § 519 Abs 1 Z 2 ZPO ist gegen berufungsgerichtliche Beschlüsse, soweit dadurch das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen wird, der Rekurs an den Obersten Gerichtshof nur dann zulässig, wenn das Berufungsgericht dies ausgesprochen hat. Die Zulässigkeit des Rekurses ist daher an einen ausdrücklichen Zulassungsausspruch des Gerichts zweiter Instanz gebunden. Fehlt – wie hier – ein solcher Ausspruch, ist auch ein außerordentlicher Rekurs (oder wie hier eine „außerordentliche Revision“ als Rechtsmittel nur gegen ein Berufungsurteil: §§ 505, 506 ZPO) ausgeschlossen (RS0043880; RS0043898). Die insoweit als Rekurs zu behandelnde außerordentliche Revision des Klägers ist daher als jedenfalls unzulässig zurückzuweisen (1 Ob 228/17m).
+[7] 		2. Im Übrigen zeigt der Kläger in seiner außerordentlichen Revision keine Rechtsfrage von erheblicher Bedeutung im Sinn des § 502 Abs 1 ZPO auf (§ 510 Abs 3 ZPO). Insbesondere ist die Beurteilung der Vorinstanzen, dass er sein Klagebegehren in der letzten Tagsatzung eingeschränkt habe, angesichts des klaren Wortlauts seiner Prozesserklärung nicht zu beanstanden. Ein Rechtsverlust ist damit ohnehin nicht verbunden (RS0039573).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00072.23D.0523.000

@@ -1,0 +1,22 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2023
+Geschäftszahl
+1Ob34/23s
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofräte und die Hofrätin Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Rechtssache der klagenden Parteien 1. B* GmbH, *, und 2. B* GmbH, *, beide vertreten durch die Wolf Theiss Rechtsanwälte GmbH & Co KG in Wien, gegen die beklagte Partei Land *, vertreten durch die Saxinger Chalupsky & Partner Rechtsanwälte GmbH in Linz, wegen 3.314.117,72 EUR sA, über die außerordentliche Revision der klagenden Parteien (Revisionsinteresse 386.019,94 EUR) gegen das Urteil des Oberlandesgerichts Linz als Berufungsgericht vom 4. Jänner 2023, GZ 4 R 149/22t-45, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Beklagte hatte die Klägerinnen mit Tiefbauleistungen beauftragt.
+[2] 		Revisionsgegenständlich ist nur mehr eine Mehrkostenforderung von 386.019,94 EUR, die daraus resultiert, dass die Klägerinnen eine Abrechnung (eines Teils) ihrer für die Beklagte erbrachten Leistungen „nach den tatsächlich angetroffenen Gegebenheiten“ mit dem (höheren) Einheitspreis für die (an sich niedererwertige) Bodenklasse 3 bis 5 und nicht mit dem (niedrigeren) Einheitspreis für die (an sich höherwertige) Bodenklasse 6 begehren.
+[3] 		Dieser Forderung hat das Berufungsgericht entgegengehalten, dass der Gewinn des Dammschüttmaterials aus dem Schichtkomplex C entsprechend der zwischen den Parteien getroffenen Vereinbarung der höherwertigen, aber (aus welchem Grund auch immer) von den Klägerinnen zu einem billigeren Einheitspreis angebotenen Bodenklasse 6 zugeordnet gewesen und daher auch danach abzurechnen sei.
+Rechtliche Beurteilung
+[4] 		Mit ihrer gegen diese Entscheidung erhobenen außerordentlichen Revision zeigen die Klägerinnen schon deshalb keine Rechtsfrage von der Qualität des § 502 Abs 1 ZPO auf, weil sie sich mit der Beurteilung des Berufungsgerichts nicht weiter auseinandersetzen (RS0043312).
+[5] 		Vielmehr legen sie ihren Ausführungen stillschweigend zugrunde, dass eine Abrechnung der den Schichtkomplex C betreffenden Leistungen nach der tatsächlich erbrachten Menge „je Bodenklasse“ vereinbart worden wäre. Gerade das war aber nach Ansicht der Vorinstanzen nicht der Fall. Nach den Feststellungen wurden diese Leistungen von der Beklagten, um sich bei der Abrechnung Diskussionen mit dem Auftragnehmer zu ersparen, für die Klägerinnen erkennbar mit der Bodenklasse 6 ausgeschrieben und von den Klägerinnen auch so angeboten. Die Vorgangsweise, diese Leistungen nunmehr statt mit dem Einheitspreis für die Bodenklasse 6 nach dem „tatsächlich angetroffenen Abtragungsmaterial“ mit dem (für die Klägerinnen konkret günstigeren) Einheitspreis für die Bodenklasse 3 bis 5 abzurechnen, ist daher durch den Vertrag nicht gedeckt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00034.23S.0425.000

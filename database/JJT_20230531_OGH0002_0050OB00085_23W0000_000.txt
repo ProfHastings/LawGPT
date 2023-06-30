@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+31.05.2023
+Geschäftszahl
+5Ob85/23w
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Dr. Jensik als Vorsitzenden sowie die Hofräte Mag. Wurzer, Mag. Painsi, die Hofrätin Dr. Weixelbraun-Mohr und den Hofrat Dr. Steger als weitere Richter in der Rechtssache der klagenden Partei Y*, vertreten durch die Gottgeisl Leinsmer Weber Rechtsanwälte GmbH in Wien, gegen die beklagte Partei N* Limited, *, vertreten durch Mag. Marcus Marakovics, Rechtsanwalt in Wien, wegen 42.775 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 31. Jänner 2023, GZ 13 R 11/23t-37, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		 Die Beklagte ist eine Kapitalgesellschaft mit Sitz in Malta und bietet über eine von ihr betriebene Website Dienstleistungen auf dem Gebiet des Glücksspiels auch in Österreich an. Sie verfügt über keine Konzession nach dem österreichischen Glücksspielrecht.
+[2] 		Der Kläger nahm in der Zeit vom 15. 2. bis 11. 12. 2021 an von der Beklagten angebotenen Online-Glücksspielen teil und verlor dabei insgesamt 42.775 EUR. Er begehrt den Rückersatz seines Verlusts.
+[3] 		Das Berufungsgericht bestätigte das Urteil des Erstgerichts, mit dem es die Beklagte zur Zahlung verpflichtete, und ließ die Revision nicht zu.
+Rechtliche Beurteilung
+[4] 		Dagegen richtet sich die außerordentliche Revision der Beklagten, die keine Rechtsfragen von der Qualität des § 502 Abs 1 ZPO aufzeigen kann.
+[5] 		1. Nach ständiger Rechtsprechung steht § 1174 Abs 1 Satz 1 ABGB einem (bereicherungsrechtlichen) Rückforderungsanspruch hinsichtlich der Spieleinsätze für ein (verbotenes) Online-Glücksspiel nicht entgegen, weil die entsprechenden Einsätze nicht gegeben werden, um das verbotene Spiel zu bewirken, sondern um am Spiel teilzunehmen. Damit ist diese Bestimmung schon ihrem Wortlaut nach nicht anwendbar (RIS-Justiz RS0025607 [T1]). Darauf, ob der Spieler durch die Teilnahme am verbotenen Spiel (selbst) einen Verwaltungsstraftatbestand erfüllt, konkret gegen § 52 Abs 5 GSpG verstoßen hat, kommt es daher nicht an. Gegenteiliges kann entgegen der Annahme der Beklagten in ihrem Rechtsmittel auch den Entscheidungen 5 Ob 506/96 und 10 Ob 2429/96w nicht entnommen werden (zuletzt 1 Ob 25/23t mwN).
+[6] 		2. Der Oberste Gerichtshof hat – im Einklang mit der Rechtsprechung der beiden anderen österreichischen Höchstgerichte – auf Basis der einschlägigen Judikatur des EuGH in mehreren aktuellen Entscheidungen neuerlich festgehalten, dass das österreichische System der Glücksspiel-Konzessionen einschließlich der Werbemaßnahmen der Konzessionäre im hier relevanten Zeitraum nach gesamthafter Würdigung aller tatsächlichen Auswirkungen auf den Glücksspielmarkt allen vom EuGH aufgezeigten Vorgaben entspricht und nicht gegen Unionsrecht verstößt (2 Ob 221/22x; 1 Ob 171/22m je mwN; RS0130636 [T7]). Die Beurteilung des Berufungsgerichts entspricht dieser Rechtsprechung.
+[7] 		3. Zu den Voraussetzungen der unionsrechtlichen Zulässigkeit eines Glücksspielmonopols sowie der dadurch bewirkten Beschränkung der Dienstleistungsfreiheit liegt bereits umfangreiche Rechtsprechung des EuGH vor (vgl die Hinweise in 5 Ob 30/21d). Entgegen der Darstellung der Revisionswerberin ergibt sich aus der Entscheidung des EuGH C-920/19, Fluctus, kein Verbot für ein nationales Gericht, sich auf Vorentscheidungen „höherer“ (nationaler) Gerichte (hier auf in zahlreichen Parallelverfahren ergangene Entscheidungen des Obersten Gerichtshofs) zu berufen. Vielmehr sprach der EuGH darin bloß aus, dass eine gegen Art 56 AEUV verstoßende Bestimmung des nationalen Rechts auch dann nicht angewendet werden dürfe, wenn ein „höheres“ nationales Gericht diese als mit dem Unionsrecht vereinbar ansah, dessen Erwägungen aber offensichtlich nicht dem Unionsrecht entsprachen (vgl insbesondere Rn 58 der genannten Entscheidung des EuGH). Dass und bei welcher nationalen Norm dies hier der Fall gewesen wäre, legt die Revisionswerberin nicht dar (2 Ob 23/23f mwN). Der von der Beklagten behauptete Feststellungsmangel und damit eine (sekundäre) Mangelhaftigkeit der Berufungsentscheidung, weil Feststellungen „zum Thema Unionsrechtswidrigkeit“ fehlten, ist damit nicht zu erkennen.
+[8] 		4. Einer weiteren Begründung bedarf es nicht (§ 510 Abs 3 ZPO).
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0050OB00085.23W.0531.000

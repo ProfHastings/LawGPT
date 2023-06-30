@@ -1,0 +1,24 @@
+Gericht
+OGH
+Entscheidungsdatum
+25.04.2023
+Geschäftszahl
+4Ob216/22a
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Univ.-Prof. Dr. Kodek als Vorsitzenden sowie die Hofrätinnen und Hofräte Dr. Schwarzenbacher, MMag. Matzka, Mag. Istjan, LL.M., und Mag. Fitz als weitere Richter in der Rechtssache der klagenden Parteien 1. D* Ges.m.b.H., *, 2. P* GmbH, *, beide vertreten durch die Fritzsche Frank Fletzberger Rechtsanwälte GmbH in Wien, gegen die beklagte Partei E*-Aktiengesellschaft, *, vertreten durch die Baker McKenzie Rechtsanwälte LLP & Co KG in Wien, wegen (restlich) 4.361.053,80 EUR sA, über die außerordentliche Revision der beklagten Partei gegen das Urteil des Oberlandesgerichts Wien als Berufungsgericht vom 29. September 2022, GZ 4 R 63/22x-30, in nichtöffentlicher Sitzung den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Begründung:
+Rechtliche Beurteilung
+[1] 		Die außerordentliche Revision zeigt keine erhebliche Rechtsfrage auf.
+[2] 		Ein Verstoß gegen § 405 ZPO kann nach ständiger Rechtsprechung weder Nichtigkeit noch unrichtige rechtliche Beurteilung der Sache, sondern allenfalls eine Mangelhaftigkeit des Verfahrens begründen (vgl RS0037713; RS0041240; RS0041089).
+[3] 		Die Revision erblickt einen Verstoß gegen § 405 ZPO darin, dass das Berufungsgericht seine Entscheidung nicht auf Schadenersatz, sondern auf § 1050 ABGB gestützt hat. Nach ständiger Rechtsprechung kann jedoch, wenn der Klage nicht ausdrücklich entnommen werden kann, dass der Kläger eine andere rechtliche Beurteilung ausschließen wollte, im Berufungsverfahren die rechtliche Qualifikation geändert werden, wenn dies das Tatsachenvorbringen in erster Instanz zulässt (RS0037610 [insb T12, T37, T43]). Im Zweifel ist eine derartige Beschränkung auf einen bestimmten Rechtsgrund nicht anzunehmen (RS0037610 [T36]).
+[4] 		Die Frage, ob die Auslegung des Klagsvorbringens durch das Berufungsgericht zutreffend ist, bildet regelmäßig keine erhebliche Rechtsfrage (RS0037440 [T6] ua). Dies steht im Einklang mit der ständigen Rechtsprechung, wonach es sich bei der Frage, ob im Hinblick auf den Inhalt der Prozessbehauptungen eine bestimmte Tatsache als vorgebracht anzusehen ist, um eine Frage des Einzelfalls handelt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung keine erhebliche Bedeutung zukommt (RS0037780). Auch ob das bisher erstattete Vorbringen so weit spezifiziert ist, dass es als Anspruchsgrundlage hinreicht beziehungsweise wie weit ein bestimmtes Vorbringen einer Konkretisierung zugänglich ist, ist eine Frage des Einzelfalls (RS0037780).
+[5] 		Wenn das Berufungsgericht im vorliegenden Fall die Formulierung im Verhandlungsprotokoll: „und wird erörtert, dass die klagende Partei ein Schadenersatzbegehren geltend mache und keinen gesetzlichen Anspruch“ nicht als ausdrückliche Beschränkung auf einen bestimmten Rechtsgrund ansah, ist darin keine vom Obersten Gerichtshof im Interesse der Rechtssicherheit aufzugreifende Fehlbeurteilung zu erblicken, zumal nach dem Gesamtzusammenhang des Protokolls die betreffende Passage offenbar nicht Ausführungen des Klagevertreters, sondern der Beklagtenvertreterin wiedergibt.
+[6] 		Das Berufungsgericht hat die Berechtigung des Klagebegehrens schon aus seiner Interpretation des Kaufvertrags abgeleitet. Dabei handelt es sich um eine rechtliche Beurteilung des – vom Erstgericht festgestellten – Kaufvertrags, nicht um eine Abweichung von den Feststellungen des Erstgerichts. Aus diesem Grund geht auch die Rüge, das Berufungsgericht habe sich auf überschießende Feststellungen gestützt, ins Leere. Fragen der Vertragsauslegung bilden im Allgemeinen keine erhebliche Rechtsfrage (RS0042555, RS0042776, RS0044358 [dort auch zur Maßgeblichkeit des Empfängerhorizonts eines redlichen Erklärungsempfängers] ua).
+[7] 		Die geltend gemachten Verfahrensmängel liegen nicht vor (§ 510 Abs 3 ZPO).
+[8] 		Zusammenfassend bringt die Beklagte daher keine Rechtsfragen der von § 502 ZPO geforderten Bedeutung zur Darstellung, sodass die Revision spruchgemäß zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0040OB00216.22A.0425.000

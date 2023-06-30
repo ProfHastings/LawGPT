@@ -1,0 +1,26 @@
+Gericht
+OGH
+Entscheidungsdatum
+24.05.2023
+Geschäftszahl
+8Ob32/23y
+Kopf
+Der Oberste Gerichtshof hat als Revisionsgericht durch den Senatspräsidenten Hon.-Prof. Dr. Kuras als Vorsitzenden sowie die Hofrätinnen Dr. Tarmann-Prentner und Mag. Korn und die Hofräte Dr. Stefula und Dr. Thunhart in der Rechtssache der klagenden Partei Dr. F*, vertreten durch DDr. Wolfgang Doppelbauer, Rechtsanwalt in Wels, wider die beklagten Parteien 1. S*, 2. M*, und 3. M*, jeweils vertreten durch die Gabler Ortner Rechtsanwälte GmbH in Wien, wegen Unterlassung, über die außerordentliche Revision der klagenden Partei gegen das Urteil des Landesgerichts für Zivilrechtssachen Wien vom 7. März 2023, GZ 40 R 204/22d-25, den
+Beschluss
+gefasst:
+Spruch
+Die außerordentliche Revision wird gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückgewiesen.
+Text
+Begründung:
+[1] 		Der Kläger und die Rechtsvorgängerin der Beklagten waren Miteigentümer eines Zinshauses. Anlässlich von Rechtsstreitigkeiten unter den Miteigentümern erwarb der Kläger im Jahr 1991 das Alleineigentum am Haus und schloss mit der Erstbeklagten und der Rechtsvorgängerin des Zweit- und Drittbeklagten einen Mietvertrag über eine im Haus befindliche Wohnung. Im Mietvertrag wurde vereinbart, dass das Mietverhältnis erst beginnen soll, wenn das Mietverhältnis zur damaligen Mieterin der Wohnung endet. Darüber hinaus wurde im Mietvertrag folgende Vereinbarung getroffen:
+„Der Mieter und jeder Nachmieter ist berechtigt, den Mietgegenstand auch gänzlich unterzuvermieten, wobei der Vermieter keine Einwände erhebt, falls Umstände vorliegen, die einen wichtigen Grund gemäß § 11 Abs 1 Z 1, 2 und 3 MRG darstellen. (…)
+Der Vermieter verzichtet zeitlich unbegrenzt auf die Kündigung dieses Mietverhältnisses, ausgenommen die Kündigungsgründe gemäß § 30 Abs 2 Z 1 und 3 MRG.“
+[2] 		Nachdem das Mietverhältnis zur vorigen Mieterin geendet hat, untervermieten die Beklagten die Wohnung. Nach dem Vorbringen des Klägers vereinnahmen die Beklagten aufgrund des Untermietvertrags aus dem Jahr 2021 einen Untermietzins von 1.800 EUR, obwohl der von ihnen zu entrichtende Mietzins nur 685,83 EUR beträgt.
+[3] 			Die Vorinstanzen haben die auf Unterlassung der Untervermietung gerichtete Klage abgewiesen. Die außerordentliche Revision des Klägers ist mangels Vorliegens einer erheblichen Rechtsfrage unzulässig.
+Rechtliche Beurteilung
+[4] 		1. Nach § 11 Abs 1 MRG kann sich der Vermieter auf ein vertragliches Verbot der Untervermietung nur berufen, wenn ein wichtiger Grund gegen die Untervermietung vorliegt, insbesondere weil (Z 1) der Mietgegenstand zur Gänze untervermietet wird oder (Z 2) der Untermietzins eine im Vergleich zu dem vom Untervermieter zu entrichtenden Mietzins unverhältnismäßig hohe Gegenleistung darstellt. Der Kläger hat aber kein vertragliches Verbot der Untervermietung vereinbart, sondern ganz im Gegenteil den Beklagten eine gänzliche Untervermietung gestattet und auf Einwendungen selbst für den Fall eines unverhältnismäßig hohen Untermietzinses iSd § 11 Abs 1 Z 2 MRG verzichtet.
+[5] 		2. Richtig ist, dass das vertragliche Verbot der Untervermietung nach § 11 Abs 1 MRG und der entsprechende Kündigungsgrund nach § 30 Abs 2 Z 4 MRG verhindern sollen, dass der Hauptmieter unter Ausnützung des Mieterschutzes einen ihm nicht zustehenden Gewinn erzielt; der Hauptmieter soll keinen unbilligen Vorteil ziehen (RIS-Justiz RS0070606). Davon kann hier aber keine Rede sein, weil der Kläger einer Untervermietung der Wohnung unter Verzicht auf Einwendungen gegen die Höhe des Untermietzinses zugestimmt hat. Nach ständiger Rechtsprechung des Obersten Gerichtshofs ist eine von der Höhe des Untermietzinses unabhängige Zustimmung zur Untervermietung zulässig, sodass eine spätere Kündigung nach § 30 Abs 2 Z 4 MRG ausgeschlossen ist (RS0070472). Der vom Kläger geltend gemachte Unterlassungsanspruch widerspricht damit der im Mietvertrag getroffenen Vereinbarung.
+[6] 		3. Nach § 26 Abs 1 MRG darf der Untermietzins, wenn der Mietgegenstand zur Gänze untervermietet wird, den vom Untervermieter zu entrichtenden Hauptmietzins grundsätzlich um nicht mehr als 50 vH übersteigen. Der Kläger beruft sich auf die Rechtsprechung des Obersten Gerichtshofs, wonach es sich dabei auch um eine Schutzbestimmung für den Vermieter handle, die eine unverhältnismäßige Bereicherung des Hauptmieters durch Untermietentgelte verhindern soll (RS0115603). Dies kann aber nichts daran ändern, dass der zwingende Charakter dieser Vorschrift über die zulässige Höhe des Untermietzinses lediglich im Verhältnis zwischen dem Untervermieter und dem Untermieter besteht (1 Ob 196/02h). Der Oberste Gerichtshof hat deshalb bereits ausgesprochen, dass § 26 MRG die Wirksamkeit einer Zustimmung des Vermieters zur bestmöglichen Verwertung der Mietrechte durch den Mieter unberührt lässt (6 Ob 537/87 = RS0070326).
+[7] 		4. Der Kläger nennt keine Gründe, die ein Abgehen von der bisherigen Rechtsprechung nahelegen würden, sodass die Revision mangels der Voraussetzungen des § 502 Abs 1 ZPO zurückzuweisen war.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0080OB00032.23Y.0524.000

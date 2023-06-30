@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+23.05.2023
+Geschäftszahl
+1Ob74/23y
+Kopf
+Der Oberste Gerichtshof hat durch den Senatspräsidenten Dr. Musger als Vorsitzenden sowie die Hofrätin und die Hofräte Mag. Wurzer, Mag. Dr. Wurdinger, Mag. Wessely-Kristöfel und Dr. Parzmayr als weitere Richter in der Erwachsenenschutzsache des am * 2001 geborenen C*, über den Revisionsrekurs der Mutter S*, vertreten durch Mag. Alexander Putzendopler, Rechtsanwalt in Wien, gegen den Beschluss des Landesgerichts für Zivilrechtssachen Wien als Rekursgericht vom 30. Jänner 2023, GZ 43 R 26/23a-21, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Das Erstgericht hat das über Anregung der Mutter eingeleitete Verfahren zur Prüfung, ob die Notwendigkeit besteht, für ihren Sohn einen Erwachsenenvertreter zu bestellen, eingestellt.
+[2] 		Den von der Mutter im eigenen und im Namen ihres Sohnes gegen diesen Beschluss erhobenen Rekurs hat das Gericht zweiter Instanz zurückgewiesen. Der Sohn habe sowohl die Vorsorgevollmacht als auch die der Mutter erteilte Generalvollmacht widerrufen, sodass sie nicht befugt sei, ihn zu vertreten und in seinem Namen zu rekurieren. Gegen einen Beschluss, mit dem das Verfahren eingestellt werde, stehe Angehörigen von betroffenen Personen kein Rekursrecht zu.
+[3] 		Dagegen richtet sich der außerordentliche Revisionsrekurs, den sie erkennbar in ihrem Namen erhebt.
+Rechtliche Beurteilung
+[4] 		Das Rechtsmittel ist nicht zulässig.
+[5] 		1. Die Zurückweisung eines Rekurses durch das Rekursgericht ergeht im Rahmen des Rekursverfahrens und ist daher nur unter den Voraussetzungen des § 62 Abs 1 AußStrG anfechtbar (RS0120974 [T8, T9]). Eine erhebliche Rechtsfrage im Sinne dieser Bestimmung spricht die Mutter nicht an:
+[6] 		2. Die Vorsorgevollmacht ist zwar ein Anwendungsfall der zivilrechtlichen Vollmacht. Die §§ 1002 ff ABGB sind auf diese besondere Art der Vollmacht aber nur anzuwenden, soweit das Erwachsenenschutzrecht keine Abweichungen vorsieht (5 Ob 47/13t). Sie ist nach dem eindeutigen Wortlaut des § 245 Abs 1 ABGB idF BGBl I 2017/59 (2. ErwSchG) wirksam, „wenn und soweit der Eintritt des Vorsorgefalls im Österreichischen Zentralen Vertretungsverzeichnis (ÖZVV) eingetragen ist”. Die Eintragung wirkt daher konstitutiv. Erst sie hat zur Folge, dass die Vertretungsbefugnis gegenüber Dritten entsteht und das Rechtsverhältnis zwischen dem Vorsorgebevollmächtigten und der vertretenen Person in Gang gesetzt wird (Schauer in Klete?ka/Schauer, ABGB-ON1.03 § 245 Rz 5 [Stand 1. 8. 2019, rdb.at]; die auf der früheren Rechtslage beruhende gegenteilige Rsp [RS0125529] ist überholt).
+[7] 		3. Die Mutter macht (zu Recht) nicht geltend, dass der Eintritt des Vorsorgefalls im ÖZVV eingetragen gewesen wäre. Damit ist die ihr von ihrem Sohn erteilte Vorsorgevollmacht nicht wirksam geworden. Schon aus diesem Grund ist das Rekursgericht zutreffend davon ausgegangen, dass sie die zur Erhebung eines Rechtsmittels im Namen ihres Sohnes erforderliche Vertretungsbefungnis nicht aus dieser besonderen Art der Vollmacht ableiten kann. Auf die von ihr im Revisionsrekurs relevierten Fragen zur Widerruflichkeit der Vorsorgevollmacht (dazu § 246 Abs 1 Z 3 ABGB) kommt es bei dieser Sachlage nicht an.
+[8] 		4. Die Mutter selbst hat im Verfahren erster Instanz wiederholt vorgebracht, dass ihr Sohn nicht nur die Vorsorgevollmacht, sondern auch die ihr erteilte Generalvollmacht widerrufen hat. Dieser Umstand wird auch durch den von einem Notar in diesem Verfahren vorgelegten Auftrag zur Registrierung des Widerrufs einer Vorsorgevollmacht bestätigt, in dem ausdrücklich festgehalten ist, dass der Sohn die der Mutter erteilte Generalvollmacht bereits zuvor widerrufen habe. Die Behauptung im Revisionsrekurs, ihr Sohn habe nur die Vorsorgevollmacht, nicht aber auch die Generalvollmacht widerrufen, entspricht damit nicht der Aktenlage; der von ihr daraus abgeleitete Vorwurf, die Entscheidung zweiter Instanz sei aktenwidrig, geht damit ins Leere. Anhaltspunkte dafür, dass ihr Sohn nicht über die erforderliche Einsichtsfähigkeit über das Wesen einer Vollmacht und deren möglichen Widerruf verfügt hätte, liegen nach den Ergebnissen des Verfahrens nicht vor. Anderes wird im Revisionsrekurs auch nicht behauptet.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0010OB00074.23Y.0523.000

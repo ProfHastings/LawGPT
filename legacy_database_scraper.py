@@ -17,24 +17,24 @@ import chardet
 MAX_DOWNLOAD_RETRIES = 100
 
 # Maximum number of pages to scrape
-MAX_PAGES = 1500  # Adjust as necessary
+MAX_PAGES = 5000  # Adjust as necessary
 
 # Set up Selenium
 options = Options()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
 
-url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Zivilrecht&AenderungenSeit=Undefined&JustizEntscheidungsart=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=09.06.2023&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=27001'
+url = 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Fachgebiet=&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&Spruch=&Rechtsgebiet=Undefined&AenderungenSeit=Undefined&JustizEntscheidungsart=&Norm=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=30.06.2023&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ImRisSeitChangeSet=Undefined&ImRisSeitForRemotion=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true'
 driver.get(url)
 
 
-counter = 27000
+counter = 0
 
 # Create an empty list to store the URLs of the files that failed to decode
 failed_urls = []
 
 working_directory = os.getcwd()
-save_directory = 'Zivilrecht'
+save_directory = 'database'
 absolute_directory = os.path.join(working_directory, save_directory)
 
 # Function to convert rtf to txt using LibreOffice

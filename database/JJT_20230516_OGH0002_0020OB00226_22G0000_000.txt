@@ -1,0 +1,25 @@
+Gericht
+OGH
+Entscheidungsdatum
+16.05.2023
+Geschäftszahl
+2Ob226/22g
+Kopf
+Der Oberste Gerichtshof hat durch die Senatspräsidentin Dr. Grohmann als Vorsitzende sowie die Hofräte Dr. Nowotny, Hon.-Prof. PD. Dr. Rassi, MMag. Sloboda und Dr. Kikinger als weitere Richter in der Verlassenschaftssache nach der am * 2021 verstorbenen F*, wegen Feststellung des Erbrechts zwischen den Antragstellern 1. F*, vertreten durch die Abwesenheitskuratorin Dr. Marie-Luise Safranek, Rechtsanwältin in Graz, und 2. E*, vertreten durch Mag. Rainer Frank, Rechtsanwalt in Graz, über den außerordentlichen Revisionsrekurs des Zweitantragstellers gegen den Beschluss des Landesgerichts für Zivilrechtssachen Graz als Rekursgericht vom 19. Oktober 2022, GZ 4 R 103/22d-41, den
+Beschluss
+gefasst:
+Spruch
+Der außerordentliche Revisionsrekurs wird mangels der Voraussetzungen des § 62 Abs 1 AußStrG zurückgewiesen.
+Text
+Begründung:
+[1] 		Die Erblasserin hinterließ eine 2014 verfasste, aus zwei, lediglich mit einer einzelnen Heftklammer verbundenen Blättern bestehende, fremdhändige Verfügung zu Gunsten des Zweitantragstellers, bei der sich auf dem zweiten Blatt lediglich die Unterschriften der Testamentszeugen befinden.
+[2] 		Die Vorinstanzen verneinten eine formgültige letztwillige Verfügung, stellten das Erbrecht des Erstantragstellers aufgrund des Gesetzes zum gesamten Nachlass fest und wiesen die aufgrund des Testaments abgegebene Erbantrittserklärung des Zweitantragstellers ab.
+Rechtliche Beurteilung
+[3] 		Der außerordentliche Revisionsrekurs des Zweitantragstellers zeigt keine Rechtsfrage der Qualität des § 62 Abs 1 AußStrG auf.
+[4] 		1. Aufgrund des Errichtungszeitpunkts des Testaments ist die Rechtslage vor dem ErbRÄG 2015 anzuwenden (§ 1503 Abs 7 Z 5 ABGB). Für die hier zu beurteilende Frage, wo die Zeugen ihre Unterschrift leisten müssen, hat sich die Rechtslage aber durch das ErbRÄG 2015 ohnehin nicht geändert (2 Ob 143/19x Pkt 3.; 2 Ob 77/20t Rz 20).
+[5] 		2. Ein fremdhändiges Testament ist formungültig, wenn die Testamentszeugen nicht auf dem Blatt (oder den Blättern) mit dem Text der letztwilligen Verfügung, also „auf der Urkunde selbst“ unterschrieben haben. Die Anbringung der Unterschriften auf einem zusätzlichen losen und leeren Blatt reicht für die Erfüllung der Formvorschrift nicht aus (RS0132171). Damit von einer Unterfertigung „auf der Urkunde selbst“ ausgegangen werden kann, muss bei einer – wie hier – aus mehreren Blättern bestehenden Verfügung entweder äußere oder innere Urkundeneinheit vorliegen.
+[6] 		3. Dass das Verbinden mit einer (einzigen) Heftklammer die äußere Urkundeneinheit nicht herstellt, entspricht der ständigen Rechtsprechung des Fachsenats (RS0132929 [T4] = 2 Ob 51/20v Pkt 2.; 2 Ob 143/20y Rz 9; 2 Ob 77/20t Rz 21). Dies zieht der Revisionsrekurs auch nicht in Zweifel, sodass darauf nicht mehr näher einzugehen ist (RS0043352 [T30]).
+[7] 		4. Zur inneren Urkundeneinheit hat der erkennende Fachsenat (2 Ob 29/22m Rz 39; 2 Ob 82/22f Rz 3) erst jüngst klargestellt, dass diese im (typischen), auch hier vorliegenden Fall einer nicht handschriftlich verfassten, fremdhändigen Verfügung nicht einmal durch die bloße Textfortsetzung hergestellt wird, sondern ein vom Testator unterfertigter Vermerk auf dem zusätzlichen Blatt mit – inhaltlicher (RS0132929 [T2]) – Bezugnahme auf seine letztwillige Verfügung erforderlich ist (zustimmend Sauer, Die innere Urkundeneinheit beim fremdhändigen Privattestament, Besprechung der E OGH 26. 4. 2022, 2 Ob 29/22m, NZ 2022/116 [395]; teilweise kritisch [nur] im Zusammenhang mit allfälligen inhaltlichen Anforderungen an den Vermerk: Tschugguel, Das fortgesetzte Testament, EF-Z 2022/97 [227]).
+[8] 		Wenn die Vorinstanzen mangels jeglichen inhaltsbezogenen Vermerks der Erblasserin auf dem zusätzlichen Blatt auch die innere Urkundeneinheit der vorliegenden Verfügung verneint haben, entspricht dies der Rechtsprechung des Obersten Gerichtshofs (vgl auch den Überblick über die bisher beurteilten Verfügungen, bei denen jeweils die innere Urkundeneinheit verneint wurde: 2 Ob 29/22m Pkt 2.1.). Dadurch, dass die Erblasserin lediglich (auf dem ersten, von ihr unterfertigten Blatt) auf die nachfolgende Unterfertigung durch die Testamentszeugen (auf dem zweiten Blatt) Bezug nimmt bzw diese bestätigt, wird der Zweck der Unterfertigung „auf der Urkunde selbst“, die Identität des Schriftstücks zu beurkunden und Unterschiebungen zu verhindern (2 Ob 192/17z Pkt 5.), nicht sichergestellt.
+European Case Law Identifier
+ECLI:AT:OGH0002:2023:0020OB00226.22G.0516.000
